@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial rejoicing at the formation of a new ministry: streets full, applause rediscovered as a "noble sacrament". Ortega explains the apparent contradiction — individually unpopular men who, gathered together, command respect — by noting that public opinion does not judge in absolute terms but according to circumstance and moment. Occasional political journalism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

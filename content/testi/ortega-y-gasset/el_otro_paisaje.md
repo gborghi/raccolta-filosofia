@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A travel note on Asturias, a closed unanimous valley repeated countless times. Ortega draws from it a definition of the "natural region": a real geographical unit is only that part of the planet whose typical features fit in a single view.
+
+## Connections
+
+**Concetti:** [[concepts/nature|natura]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

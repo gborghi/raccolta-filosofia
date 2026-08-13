@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A short text: relativity can be studied as a botanist studies a plant, setting truth and error aside, to identify the spiritual species that bore it. The theory does not steer minds; minds, having spontaneously taken a course, made the theory possible.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

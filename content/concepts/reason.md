@@ -6,7 +6,7 @@ label_en: "reason"
 aliases:
   - "Vernunft"
   - "ratio"
-work_count: 108
+work_count: 104
 tags:
   - "graph/concept"
 title: "ragione"
@@ -15,7 +15,7 @@ title: "ragione"
 
 *reason*
 
-## Opere (108)
+## Opere (104)
 
 **Aquinas**
 - [Treatise on Grace](/testi/aquinas/treatise_on_grace)
@@ -98,6 +98,7 @@ title: "ragione"
 - [1.º Absolutismo](/testi/ortega-y-gasset/1º_absolutismo)
 - [2.º Perspectivismo](/testi/ortega-y-gasset/2º_perspectivismo)
 - [3.º Antiutopismo o antirracionalismo](/testi/ortega-y-gasset/3º_antiutopismo_o_antirracionalismo)
+- Advertencia_al_lector
 - [Algunas notas](/testi/ortega-y-gasset/algunas_notas)
 - [Aurora de la razón histórica](/testi/ortega-y-gasset/aurora_de_la_razón_histórica)
 - [Bronca en la física](/testi/ortega-y-gasset/bronca_en_la_física)
@@ -105,16 +106,12 @@ title: "ragione"
 - [Capítulo segundo Los mundos interiores](/testi/ortega-y-gasset/capítulo_segundo_los_mundos_interiores)
 - [Cuestiones holandesas](/testi/ortega-y-gasset/cuestiones_holandesas)
 - [Defensa del teólogo frente al místico](/testi/ortega-y-gasset/defensa_del_teólogo_frente_al_místico)
-- [EL TEMA DE NUESTRO TIEMPO](/testi/ortega-y-gasset/el_tema_de_nuestro_tiempo)
 - [El hombre, individuo de la humanidad](/testi/ortega-y-gasset/el_hombre_individuo_de_la_humanidad)
 - [El origen deportivo del Estado](/testi/ortega-y-gasset/el_origen_deportivo_del_estado)
 - [Epílogo sobre el alma desilusionada](/testi/ortega-y-gasset/epílogo_sobre_el_alma_desilusionada)
 - [Fraseología y sinceridad](/testi/ortega-y-gasset/fraseología_y_sinceridad)
 - [Hegel y América](/testi/ortega-y-gasset/hegel_y_américa)
-- [Instinto y razón](/testi/ortega-y-gasset/instinto_y_razón)
-- [La crisis de hoy y de hace cinco siglos Creación y recepción La socialización del](/testi/ortega-y-gasset/la_crisis_de_hoy_y_de_hace_cinco_siglos_creación_y_recepción_la_socialización_del)
 - [La inteligencia de los chimpancés](/testi/ortega-y-gasset/la_inteligencia_de_los_chimpancés)
-- [Las dos grandes metáforas en el segundo centenario del nacimiento de Kant](/testi/ortega-y-gasset/las_dos_grandes_metáforas_en_el_segundo_centenario_del_nacimiento_de_kant)
 - [Ni vitalismo ni racionalismo](/testi/ortega-y-gasset/ni_vitalismo_ni_racionalismo)
 - [Pleamar filosófica](/testi/ortega-y-gasset/pleamar_filosófica)
 - [Por qué se vuelve a la filosofía](/testi/ortega-y-gasset/por_qué_se_vuelve_a_la_filosofía)
@@ -124,7 +121,6 @@ title: "ragione"
 - [Reflexiones de centenario (1724-1924)](/testi/ortega-y-gasset/reflexiones_de_centenario_1724-1924)
 - [Reforma de la inteligencia](/testi/ortega-y-gasset/reforma_de_la_inteligencia)
 - [Sensación construcción e intuición](/testi/ortega-y-gasset/sensación_construcción_e_intuición)
-- [Sobre el estudiar y el estudiante Primera lección de un curso](/testi/ortega-y-gasset/sobre_el_estudiar_y_el_estudiante_primera_lección_de_un_curso)
 - [Sobre la razón suficiente](/testi/ortega-y-gasset/sobre_la_razón_suficiente)
 - [Unamuno y Europa fábula](/testi/ortega-y-gasset/unamuno_y_europa_fábula)
 - [Verdad y perspectiva](/testi/ortega-y-gasset/verdad_y_perspectiva)

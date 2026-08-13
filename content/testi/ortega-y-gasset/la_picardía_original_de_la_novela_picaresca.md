@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from Baroja — "castizo" precisely because he does not try to be — Ortega examines the picaresque genre: against Croce he holds that literary genres do exist and that a genre's origin must be sought in its psychological milieu. He contrasts noble medieval literature, creative and unrealist (Tristan as the first novel of love), with the plebeian literature crawling alongside it.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -132,7 +139,7 @@ Orbene; il tratto distintivo dell'alta poesia consiste nel vivere di sé stessa,
 
 La picardia originaria del romanzo picaresco va cercata, dunque, nello sguardo insolente che dal basso in alto lancia alla società il pícaro autore.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Los libros de Baroja representan un compromiso entre el puro apicaramiento y unos fuertes ímpetus, bien que discontinuos, de aspiración a cosas mejores. Es posible que un día nos sorprenda con una obra firme en que ambas tendencias den toda su flor. Por ahora, predomina en su literatura el elemento rencoroso y crítico que le ha llevado a convertirse en Homero de la canalla. Los tres tomos de La lucha por la vida nos refieren las andanzas de un pueblo de gusanos sobre un cadáver abyecto. En el tercero, Aurora Roja, parece como que quiere sonar un clarín de alborada, pero el sonido no se condensa y exánime se deshace, se rompe en un quejido. La Salvadora, una moza del pueblo, nos ofrece en este libro, por un momento, la posibilidad de una vida somera, limpia, virtuosa y afirmativa. Mas Baroja no se atreve a dibujarla; la deja, borrosa, moverse al fondo del libro como esas Martas que en las pinturas evangélicas entrevemos allá en el último plano vacar hacendosas a sus menesteres. Diríase que el autor siente algún rubor de contarnos que hay gentes en la tierra que cumplen con su deber.
 

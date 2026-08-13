@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article defending Spanish socialism against critics who fault it for shunning intellectuals. In Germany and England socialism grew in books and university chairs; in Spain it is the workers' work alone, because there is no cultured minority.
 

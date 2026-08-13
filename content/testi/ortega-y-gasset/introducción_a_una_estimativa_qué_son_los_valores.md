@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A systematic essay on value theory: against reducing values to what is pleasant or desired, Ortega holds them to be irreal, objective qualities residing in things, known in a quasi-mathematical way; he traces the topic's absence from classical philosophy, where it hid under the idea of the Good, and cites Nietzsche's watchword of the transvaluation of values.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Concetti:** [[concepts/transvaluation_of_values|trasvalutazione di tutti i valori]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +110,7 @@ Percepiamo gli oggetti, li confrontiamo e analizziamo, li sommiamo, ordiniamo e 
 
 Se per mondo intendiamo l'ordinazione unitaria degli oggetti, abbiamo due mondi, due ordinazioni distinte ma compenetrate: il mondo dell'essere e il mondo del valere. La costituzione dell'uno manca di vigenza nella costituzione dell'altro; per ventura, ciò che è ci sembra non valere nulla, e, in cambio, ciò che non è si impone come un valore massimo. Esempio: la perfetta giustizia mai raggiunta e sempre ambita.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,concepts/transvaluation_of_values,forms/essay"></span>
 
 Hay en el vocabulario vulgar palabras cuyo significado alude especial y exclusivamente al mundo de los valores: bueno y malo, mejor y peor, valioso e inválido, precioso y baladí, estimable, preferible, etcétera. Con ser bastante rica esta lengua valorativa, apenas si forma un rincón imperceptible de las significaciones estimativas. Por causas hondas, de las cuales no es posible discurrir en este ensayo, existe en el lenguaje la tendencia económica a expresar fenómenos de valor por medio de un halo de significación complementaria que rodea a la significación primaria, realista, de la palabra. Así, la voz «noble», en complexiones como «acción noble», «carácter noble», significa primariamente una cierta constitución real de unos movimientos externos o internos de una persona, o bien una cierta predisposición constante que posee realmente el alma de un individuo. Esta significación primaria se refiere, pues, a cosas o cualidades reales, como la palabra «rojo» se refiere a esta cualidad cromática que ahora estoy viendo. Pero sería falso afirmar que con esto hemos satisfecho plenamente la significación de «noble». Cuando digo rojo me refiero exclusivamente al color de este nombre; pero cuando digo «acción noble» no me limito a nombrar una cierta clase de actos reales, sino que doy a entender de paso o complementariamente que esa clase de actos reales tiene un valor positivo frente al valor negativo que tiene otra clase de actos reales, a los que llamo «abyectos». Y si insistiéramos en nuestro análisis de lo que significamos con el vocablo «noble» dentro ya de lo estimativo, notaríamos que no declaramos sólo adherir a tales actos un valor positivo en general. Pues al calificar una acción de «útil» también le atribuimos un valor positivo, pero muy distinto del valor «nobleza». Por «noble» entendemos, pues, un determinado valor positivo.
 
@@ -126,7 +134,7 @@ Del proprio [modo](/concepts/mode), i vocaboli «generoso», «elegante», «des
 
 Domandiamoci, dunque, con un certo rigore e urgenza: che cosa sono questi valori? È sicuro che alla mente del lettore accorrono certe risposte a tale domanda, ed è probabile che l'ordine in cui appaiono sia lo stesso in cui quelle risposte sono sorte nel processo scientifico. Due di esse riassumono tutte le altre e sono come stazioni del cammino dialettico che ogni spirito segue per giungere a una nozione più pura, più esatta e più chiara del Valore.
 
-<span class="atom-split" data-atom="003" data-title="1. LOS VALORES NO SON LAS COSAS AGRADABLES" data-chapter="1. LOS VALORES NO SON LAS COSAS AGRADABLES" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="1. LOS VALORES NO SON LAS COSAS AGRADABLES" data-chapter="1. LOS VALORES NO SON LAS COSAS AGRADABLES" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,concepts/transvaluation_of_values,forms/essay"></span>
 
 Antes que nada, nos ocurre pensar esto: una cosa es valiosa, tiene valor, cuando nos agrada y en la medida en que nos agrada. Tiene valor negativo cuando nos desagrada y en la medida en que nos desagrada.
 
@@ -192,7 +200,7 @@ La compiacenza è certamente uno stato soggettivo, ma non nasce dal soggetto, be
 
 Perciò, il valore dell'oggetto deve trovarsi dinanzi alla nostra coscienza precedentemente al levar del nostro aggradimento. Dunque non è il nostro sentimento di compiacenza che dà o conferisce il valore alla cosa; anzi, è, per così dire, chi lo riceve e con esso o in esso si regala.
 
-<span class="atom-split" data-atom="004" data-title="2. LOS VALORES NO SON LAS COSAS DESEADAS O DESEABLES" data-chapter="2. LOS VALORES NO SON LAS COSAS DESEADAS O DESEABLES" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="2. LOS VALORES NO SON LAS COSAS DESEADAS O DESEABLES" data-chapter="2. LOS VALORES NO SON LAS COSAS DESEADAS O DESEABLES" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,concepts/transvaluation_of_values,forms/essay"></span>
 
 Si, como Meinong en su teoría inicial pretende, el valor de una cosa no fuese más que el resultado del agrado que nos produce, sólo serían valiosos los objetos existentes. Ahora bien, valoramos sobre todo lo inexistente, la riqueza que no poseemos, la salud que nos falta. Los grandes valores son los ideales, esto es, lo que aún no se ha realizado.
 
@@ -282,7 +290,7 @@ Ma se il valore di una cosa non consiste nel fatto che la cosa compiaccia o cruc
 
 Quasi sempre che nella scienza si giunge a un punto dove ci pare di aver esaurito vanamente tutti i concetti in una serie di tentativi sterili, è che ci troviamo prossimi alla soluzione soddisfacente. Quei tentativi apparentemente inutili sono stati gli sforzi richiesti per una più perfetta mise au point dell'intelligenza.
 
-<span class="atom-split" data-atom="005" data-title="3. LOS VALORES SON ALGO OBJETIVO Y NO SUBJETIVO" data-chapter="3. LOS VALORES SON ALGO OBJETIVO Y NO SUBJETIVO" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="3. LOS VALORES SON ALGO OBJETIVO Y NO SUBJETIVO" data-chapter="3. LOS VALORES SON ALGO OBJETIVO Y NO SUBJETIVO" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,concepts/transvaluation_of_values,forms/essay"></span>
 
 «Deseable» es un término equívoco. Cuando menos tiene dos sentidos diferentes que se refieren a dos fenómenos completamente distintos.
 
@@ -348,7 +356,7 @@ A ciò Ettore replica con queste alate, essenziali parole:
 
 Ci si presenta, dunque, il valore come un carattere oggettivo consistente in una dignità positiva o negativa che nell'atto di valutazione riconosciamo. Valutare non è dare valore a chi per sé non lo aveva; è riconoscere un valore residente nell'oggetto. Non è una quaestio facti, ma una quaestio juris. Non è la percezione di un fatto, ma di un diritto. La questione del valore è la questione di diritto per eccellenza. E il nostro diritto in senso stretto rappresenta soltanto una classe specifica di valore: il valore di giustizia.
 
-<span class="atom-split" data-atom="006" data-title="4. LOS VALORES SON CUALIDADES IRREALES RESIDENTES EN LAS COSAS" data-chapter="4. LOS VALORES SON CUALIDADES IRREALES RESIDENTES EN LAS COSAS" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="4. LOS VALORES SON CUALIDADES IRREALES RESIDENTES EN LAS COSAS" data-chapter="4. LOS VALORES SON CUALIDADES IRREALES RESIDENTES EN LAS COSAS" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,concepts/transvaluation_of_values,forms/essay"></span>
 
 No son, pues, los valores un don que nuestra subjetividad hace a las cosas, sino una extraña, sutil casta de objetividades que nuestra conciencia encuentra fuera de sí, como encuentra los árboles y los hombres.
 
@@ -408,7 +416,7 @@ I valori sono un lignaggio peculiare di oggetti irreali che risiedono negli ogge
 
 Lo stimare è una funzione psichica reale —come il vedere, come l'intendere— in cui i valori ci si fanno palesi. E viceversa, i valori non esistono se non per soggetti dotati della facoltà estimativa, allo stesso modo che l'uguaglianza e la differenza esistono soltanto per esseri capaci di confrontare. In questo senso, e soltanto in questo senso, si può parlare di certa soggettività nel valore.
 
-<span class="atom-split" data-atom="007" data-title="5. EL CONOCIMIENTO DE LOS VALORES ES ABSOLUTO Y CUASI MATEMÁTICO" data-chapter="5. EL CONOCIMIENTO DE LOS VALORES ES ABSOLUTO Y CUASI MATEMÁTICO" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="007" data-title="5. EL CONOCIMIENTO DE LOS VALORES ES ABSOLUTO Y CUASI MATEMÁTICO" data-chapter="5. EL CONOCIMIENTO DE LOS VALORES ES ABSOLUTO Y CUASI MATEMÁTICO" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,concepts/transvaluation_of_values,forms/essay"></span>
 
 Alguna pulcritud de lenguaje contribuirá a esclarecer la cuestión. He dicho que es forzoso distinguir entre las cosas —que son realidades— y los valores —que son virtualidades. Pues bien, una cosa que tomamos con sus propiedades materiales y además con sus valores, es lo que debe llamarse un «bien» si los valores son positivos, un «mal» si son negativos. El lienzo de Velázquez, con sus líneas y colores, es sólo una cosa; si además percibimos en él la gracia sobria de su cromatismo, el noble asiento de las figuras, la conmovedora palpitación de su ambiente —es un «bien». Diríase, pues, que cada cosa, sobre el repertorio de cualidades que hacen de ella tal ser, tiene como un halo de cualidades de valor que definen su perfil estimativo.
 
@@ -444,7 +452,7 @@ Perciò, l'esperienza dei valori è indipendente dall'esperienza delle cose. Ma,
 
 Questo suonerà stranamente a molti orecchi, ma è da sperare che maggiore riflessione li abitui a riconoscere così ineludibile pensiero. La sentenza del de gustibus non disputandum è un errore grossolano. Suppone che nell'orbe dei «gusti», cioè delle valutazioni, non esistano oggettività evidenti a cui poter riferire in ultima sostanza le nostre dispute. La verità è il contrario: ogni nostro «gusto» gusta un valore (le pure cose non offrono possibilità al gustare e al disgustare), e ogni valore è un oggetto indipendente dai nostri capricci.
 
-<span class="atom-split" data-atom="008" data-title="6. DIMENSIONES DEL VALOR" data-chapter="6. DIMENSIONES DEL VALOR" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="008" data-title="6. DIMENSIONES DEL VALOR" data-chapter="6. DIMENSIONES DEL VALOR" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,concepts/transvaluation_of_values,forms/essay"></span>
 
 La naturaleza genuina de los valores aparece con mayor claridad cuando se advierten sus propiedades. En efecto, un valor es siempre o positivo o negativo. Por el contrario, las realidades no son nunca sensu stricto negativas. No hay nada en el mundo del ser que sea negativo en el plenario sentido en que lo es la fealdad, la injusticia o la torpeza.
 
@@ -504,7 +512,7 @@ Se ora consideriamo quali reazioni sentimentali a questi valori siano adeguate e
 
 Complace forse il fine che l'utile consegue, ma l'utile come tale provoca soltanto una peculiare emozione di soddisfazione, sentimento senza temperatura, molto proporzionato al carattere razionale, frigido, del valore stesso «utilità». Di qui che le epoche di utilitarismo predominante si caratterizzino per una grande tiepidezza psichica.
 
-<span class="atom-split" data-atom="009" data-title="7. CLASES DE VALORES" data-chapter="7. CLASES DE VALORES" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="009" data-title="7. CLASES DE VALORES" data-chapter="7. CLASES DE VALORES" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,concepts/transvaluation_of_values,forms/essay"></span>
 
 El propósito de estas páginas se reducía a obtener una noción clara de lo que es el valor. El problema de la clasificación de los valores requeriría muy complejas observaciones. Quede, pues, intacto para mejor coyuntura. Solamente con el fin de facilitar al lector la meditación propia sobre tan sutil [materia](/positions/materialism) indicaré las grandes clases que, atendiendo a su materia, forman los valores:
 

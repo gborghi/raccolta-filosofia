@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A report on the parliamentary brawl between partisans of the Juntas de Defensa and those of workers' and soldiers' councils: Ortega lumps them together in imperialist impulse, militarism and taste for illegality ("Cierva and Trotsky, two opposed accidents of one and the same military substance"). The absurdity is that, both being minorities, neither solution can win, and the only victor is the conflict itself, while social liberalism goes unrepresented. Political reporting.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > "I am a Spanish man, that is, a man without imagination": Ortega gathers the testimony of Alcántara, Cossío, Menéndez Pelayo, Unamuno, Menéndez Pidal and Costa on Spanish realism, then recounts entering a Gothic cathedral as an assault by fantastic beings and ribs hurling themselves upward. The Gothic is defined as "a trap set by fantasy to hunt the infinite", and the experience teaches one's own limit, that is, one's destiny.
+
+## Connections
+
+**Concetti:** [[concepts/infinity|infinito]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +121,7 @@ Ma c'è sempre in esse, per un uomo senza immaginazione, qualcosa di petulante, 
 
 Preferisco l'onesta pesantezza romanica, dice l'uomo del Sud. Quel misticismo, quella soppiantazione di questo mondo per un altro mi mette in sospetto. Unito a un gran rispetto e a un fervore verso l'idea religiosa, c'è in me una diffidenza e un'antipatia radicali verso il misticismo, verso il temperamento confusionario, che mi impediscono di trovargli giustificazione dovunque si presenti. Mi sembra sempre di scoprire in esso l'intervento della testaggine o della mistificazione.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/infinity,concepts/beauty,forms/essay"></span>
 
 Sin embargo, la arquitectura es un documento tan amplio del espíritu en ella expresado, que ofrece la posibilidad de orientarnos sobre lo que realmente haya de verecundo, de profundamente humano y significativo en el misticismo gótico. La arquitectura es un arte étnico y no se presta a caprichos. Su capacidad expresiva es poco compleja; sólo expresa, pues, amplios y simples estados de espíritu, los cuales no son los del carácter individual, sino los de un pueblo o de una época. Además, como obra material supera todas las fuerzas individuales: el tiempo y el coste que supone hacen de ella forzosamente una manufactura colectiva, una labor común, social.
 
@@ -228,7 +235,7 @@ Ora, se l'oggetto è stretto e verticale, per esempio, i nostri muscoli oculari 
 
 Questa è la simpatia: «Solo quando esiste questa simpatia —dice Lipps— le forme sono belle e la loro bellezza non è altro che questo sentirsi idealmente vivere una vita libera». «Il godimento estetico è, quindi, godimento di sé stesso oggettivato».
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/infinity,concepts/beauty,forms/essay"></span>
 
 Según esta teoría, el arte vendría a ser la fabricación de formas tales que susciten en nosotros esa vitalidad orgánica potenciada, esa expansión virtual de energías, esa liberación ilimitada e imaginaria. La consecuencia es obvia: el arte, entendido así, propenderá siempre a presentarnos las formas orgánicas vivas en toda su riqueza y libertad, el arte buscará constantemente la captación de la vida animal real, que es la que más puede favorecer esa otra vida virtual; el arte, en suma, será esencialmente naturalista.
 
@@ -354,7 +361,7 @@ La postura dell'uomo classico dinanzi all'universo deve, di conseguenza, essere 
 
 Il nostro autore caratterizza, dunque, l'uomo classico per il razionalismo, per la mancanza di sensibilità e di interesse per quell'aldilà che limita la porzione del mondo delimitata dalla nostra ragione. Lasciamo da parte ogni discussione sul fatto che questa caratteristica sia o no azzeccata, e proseguiamo.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/infinity,concepts/beauty,forms/essay"></span>
 
 Este hombre, para quien sólo este mundo existe, el mundo de lo real, que es el mundo de lo racional, sentirá dondequiera mire, la voluptuosidad de la armonía que rige las formas corporales, es decir, la belleza, la buena proporción. En la antología del monje Planudio, donde se ha almacenado todo el menudo erotismo helénico, se dice del talle de una mujer que era «armonioso y divino». Para el griego que escribió aquel meloso epigrama, lo divino, lo bello y cumplido es lo que guarda ciertas buenas proporciones. Ahora bien; lo que en nuestras matemáticas se llama proporción, se llamaba en las antiguas razón. Esta razón o regularidad de lo viviente, ese ritmo placentero de lo orgánico, esa razón que hay en la planta como en el hombre, constituye el lema del arte clásico, del arte simpático propio de un temperamento confiado, amigo y afirmador de la vida. El griego busca en la plástica ese placer causado «por el misterioso poder de la forma orgánica, en que se puede gozar del propio organismo potenciado». Con el mismo fin, el Renacimiento estudia afanosamente las formas reales, no para lograr copias, sino para aprender en ellas los tesoros de armonía que su optimismo triunfante le hace sospechar desparramados por la vitalidad cósmica.
 
@@ -492,7 +499,7 @@ Allo scopo di non allungare indefinitamente queste note, lascio da parte tutte l
 
 La storia dell'arte segnala con piena chiarezza il momento in cui quelle due correnti elementari —lo stile geometrico, che viene con i dori del Nord, e lo stile vitalista, d'incontinente simpatia verso il reale, che arriva dal Sud— si danno battaglia, e, senza vinti né vincitori, si fondono in una divina tregua esemplare, che è il classicismo greco. Prima è lo stile di Micene e lo stile del Dipylon a combattere; poi, il dorico e lo ionico.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/infinity,concepts/beauty,forms/essay"></span>
 
 Sin embargo, aquella fusión es pasajera, como todo lo razonable que suele durar poco. Tras de Grecia y de Roma vienen pueblos dentro de bosques incultos, tropeles humanos que conservan no domada su originalidad espiritual. Son los germanos, que, según Worringer, constituyen la conditio sine qua non del arte gótico. No se piense, pues, cuando de goticismo hablemos, en los alemanes actuales. Recuérdese que aquellos germanos cayeron sobre los imperios mediterráneos y, haciendo que su sangre corriera por dentro de las venas grecolatinas, perviven en nosotros los españoles, franceses e italianos. Los germanos no poseían originariamente más arte que la ornamentación. «No hay en ésta —dice Haupt— representación alguna de lo natural, ni del hombre, ni del animal, ni de la planta. Todo se ha convertido en un adorno superficial, sin que intente jamás la imitación de cosa alguna presente ante los ojos». En las épocas más antiguas no se distingue del estilo geométrico primitivo «que hemos llamado bien mostrenco» de todos los pueblos arios. Poco a poco, no obstante, se va desenvolviendo sobre la base de esta gramática lineal aria, un peculiar idioma de líneas que claramente se caracteriza como el idioma propiamente germánico. Este nuevo arte es la ornamentación de lazos. Lamprecht, el famoso autor de la Historia de Alemania lo describe así: «El carácter de esta ornamentación está determinado por la penetración y complicación de unos pocos motivos simplicísimos. Primero es sólo el punto, la línea, el lazo; luego, ya la ojiva, el círculo, la espiral, el zigzag, y un adorno en forma de S. En verdad, no es un tesoro de motivos. Pero ¡qué diversidad no se logra en su aplicación! Unas veces corren paralelamente, otras entre paréntesis, otras en enrejado, otras anudados, otras entretejidos en confusa complicación. Así resultan fantasías inextricables, cuyos enigmas hacen cavilar, que en su fluencia parecen evitarse y buscarse, cuyos elementos, dotados, por decirlo así, de sensibilidad, poseídos de un movimiento apasionadamente vital, sujetan la mirada y la atención».
 

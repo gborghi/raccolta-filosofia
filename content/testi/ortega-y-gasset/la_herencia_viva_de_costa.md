@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article on Joaquín Costa's death against rhetorical mourning: honouring Costa apart from his opinions is empty, since his living legacy is not his erudition but his programme of Europeanizing Spain. Ortega claims for himself and a few others the experience of the word 'Spain' as pain.
 

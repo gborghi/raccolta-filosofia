@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Through the figure of Rubín de Cendoya, Ortega distinguishes political thinking — which produces useful, effective ideas — from thinking the truth, and calls it inward lying to take the useful for the true. There follows a conversation about the "restorative" spirit rising in continental Europe.
+
+## Connections
+
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -174,7 +180,7 @@ Convinto di questo, Rubín de Cendoya si propose di fuggire, almeno a tratti, da
 
 —Ebbene, ora sì che siamo freschi! Da ciò che lei dice si dedurrebbe che l'opinione pubblica è l'opinione della maggioranza e della minoranza insieme. Ma poiché la maggioranza pensa bianco e la minoranza nero, l'opinione pubblica è condannata a essere un'opinione pezzata, contraddittoria, assurda, inopinabile.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/dialogue"></span>
 
 —Yo creo que lleva usted un poco de razón, salvo en lo de que sea contradictoria y absurda. En mi entender, comete usted un error considerando las opiniones particulares de la mayoría y la minoría como las iniciales y suponiendo que luego la opinión pública se forma de la manera que una resultante. Lejos de ser así, pienso que las opiniones particulares son posteriores a la pública: ésta es la originaria; aquéllas, diversificaciones de ésta. Verá usted…
 
@@ -288,7 +294,7 @@ La difficoltà che lei trova in ciò che ho detto proviene dal fatto che insiste
 
 —Per me non c'è dubbio: il suo dovere è farsi repubblicano.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/dialogue"></span>
 
 —¡Admirable! Ya soy republicano; voto por los republicanos, me abono a los periódicos republicanos, peroro en las conglomeraciones republicanas. Pero, ser republicano por deber ¿no indica precisamente que no lo soy por plenitud? Sólo un átomo del cosmos interior que componen mis opiniones personales va a la República, arrastrando como una enorme inercia el resto de mí mismo. ¿Qué va hacer la República, que hay que traer, con republicanos que no pueden ni llevarse a sí mismos? Excuso decirle que se trata de un ejemplo nada más; lo mismo podía haberme supuesto monárquico.
 

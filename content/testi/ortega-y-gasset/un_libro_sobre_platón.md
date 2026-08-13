@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Presentation (May 1926) of Landsberg's La Academia Platónica: the method that defines a system of ideas from its subjective and sociological side — the caste of philosophers as philosophy's first reality. It recalls Plato's horror of writing in the Phaedrus and describes the Academy as a place of shared life where a philosophy is caught like a contagion.
+
+## Connections
+
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/academy|Accademia platonica]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

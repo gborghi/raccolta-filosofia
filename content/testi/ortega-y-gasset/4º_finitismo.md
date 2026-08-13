@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The last of the deep tendencies Ortega finds in relativity: whereas the utopian age settled everything by appeal to the infinite, Einstein's physics and the mathematics of Brouwer and Weyl fence the universe in — it has curvature and is therefore closed and finite. He reads this as a vital style (a will to limitation, anti-romanticism) but denies it is a neoclassicism: for us the limit will always be an amputation, "a stump of a universe".
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]]  
+**Concetti:** [[concepts/infinity|infinito]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

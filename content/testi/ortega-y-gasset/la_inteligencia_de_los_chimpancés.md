@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on Wolfgang Köhler's chimpanzee experiments in Tenerife, with a long preamble on the naivety of science: disinterested interest and curiosity about objects measure one's dose of vital force, and the 'serious' expression is a symptom of biological depression. Intelligence is grasping that things are what they are — whence the question whether apes have it in the strict sense.
+
+## Connections
+
+**Concetti:** [[concepts/reason|ragione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +79,7 @@ L'istinto, tuttavia, è anche cieco, automatico, unintelligente. Non si esegue i
 
 Riflessi e istinti sono, dunque, come pezzi di repertorio che l'animale porta già inscritti nel suo organismo quando comincia a vivere. Ora bene; la reazione intelligente sarà quella che l'animale improvvisi in vista di una situazione nuova. Per esempio: nella gabbia di uno scimpanzé collochiamo alcune banane a un'altezza tale che la bestia non possa prenderle per quanto salti. Tendere la mano al frutto, saltare verso di esso sono atti del repertorio istintivo. Ma nella gabbia c'è una cassa. Lo scimpanzé, dopo aver saltato inutilmente in direzione delle banane, guarda intorno; i suoi occhi si fissano sulla cassa, e dalla cassa vanno al frutto. Poi si avvicina alla cassa, la trascina fino a collocarla sotto le banane, vi sale sopra e raggiunge il frutto. Non c'è stata qui una creazione intelligente? La cassa ha acquistato un nuovo carattere. Prima era per la scimmia un oggetto abituale, sul quale gli altri scimpanzé si sedevano; ora è membro di una relazione ideale, e non meramente visiva: è mezzo o strumento per raggiungere il frutto. La reazione del simio è adeguata ed è nuova, improvvisata con riguardo a una situazione anche nuova. L'animale sembra aver capito il nesso ideale che si stabilisce tra un oggetto e una finalità, mercé il quale l'oggetto si converte in mezzo per un'altra cosa.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/reason,forms/essay"></span>
 
 He aquí otra experiencia. El plátano es colocado fuera de la jaula, delante de sus barrotes, a distancia suficiente para que no pueda el mono cogerlo con la mano. En la jaula hay un palo. El mono acabará por tomar el palo y atraer el plátano. Köhler complica más la situación: pone el palo también fuera de la jaula, donde no llega la mano del chimpancé. Dentro de la jaula deja un palo más pequeño. El mono, después de fracasar con sus procedimientos instintivos, toma el palo menor, con él atrae el mayor, y con éste, por fin, la fruta. Más aún; si en vez de esos dos palos se dejan en la jaula o cerca de ella dos cañas de diámetro diferente y se coloca el plátano muy lejos, el chimpancé acaba por enchufar una caña en otra y de este modo capturar el plátano. Ha creado un instrumento. Ya no puede definirse al hombre como homo faber o, según la expresión de Franklin, animal instrumentificum.
 

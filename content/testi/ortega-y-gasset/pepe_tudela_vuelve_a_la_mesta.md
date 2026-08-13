@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A portrait of his friend Pepe Tudela, an archivist from Soria turning cattle-breeder, plus a chronicle of an excursion to Numantia. Ortega admits he feels none of the standard patriotic emotion before the Arevaci and recalls that Rome had to send Scipio Aemilianus, i.e. 'an intellectual'. An occasional piece.
 

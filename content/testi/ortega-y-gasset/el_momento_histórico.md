@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A public speech in the Republic's first months: while the state is still tender, every word and gesture makes history, and the greatest crime is to belittle the moment. As in sport, to make history the citizen must be morally in form.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

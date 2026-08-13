@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short political note (1932) on the need to prepare the future Cortes by uniting forces under a political doctrine. Not philosophical.
+> A 123-word fragment for which the digest supplies no sample: the content cannot be judged; the title indicates a note on the duration of the Cortes.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

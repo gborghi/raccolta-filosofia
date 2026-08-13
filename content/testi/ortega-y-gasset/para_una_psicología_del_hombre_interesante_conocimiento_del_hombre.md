@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Essay sketching a philosophical anthropology or 'knowledge of man': souls have different shapes like bodies, and it seeks to define the interesting man as women see him, venturing into the unexplored terrain of love.
+> The digest carries no text sample at all (0 atoms): only the title and length (about 4,995 words) are given. The content cannot be judged from what is provided; no tags assigned.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

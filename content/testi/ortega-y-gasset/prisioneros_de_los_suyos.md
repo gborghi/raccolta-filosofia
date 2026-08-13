@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against the course the Republic has taken: the evil is not its size but its unnecessariness. Had the provisional government given public power the firmness and seriousness of a state—'the Recourse, the civil Providence'—an even more advanced policy could have been carried through without capital flight. Situational political analysis.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

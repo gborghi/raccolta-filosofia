@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lecture: all individualism is mythology, hence individual pedagogy is sterile and one must educate the city to educate the individual, as in Plato, Pestalozzi and Natorp. If educating means transforming society, politics becomes social pedagogy and the Spanish problem a pedagogical one; the social is the combination of individual efforts toward a common work, not a community of feelings.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]], [[concepts/state|Stato]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

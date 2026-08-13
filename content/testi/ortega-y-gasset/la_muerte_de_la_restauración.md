@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political address: the Restoration is not the continuation of Spanish history but its arrest — "living the hollow of one's own life", a panorama of ghosts stage-managed by Cánovas. Hence the watchword: "the dead must be killed properly".
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +116,7 @@ Perché possano vivere tranquillamente queste strutture convenzionali è forza c
 
 E qui avete che Cánovas solo in una cosa stringe —già questo è per metterci in guardia—, una cosa che andrà a servire come suprema convenzione, incaricata di dare sicurezza a tutte le altre. Questa cosa è la lealtà monarchica, di cui tra breve parleremo. Si fa del monarchismo un dogma soprannaturale indiscutibile, rigido. E questo, questo è l'unico che Cánovas antepone all'ordine pubblico e che identifica con la Spagna. Le sue parole furono: «Sopra la pace sta la Monarchia». Frase veramente sospetta per chi sopra tutto, anche sopra la vitalità nazionale, stava la pace. Ma Cánovas, signori, non era una creatura innocente; io rispetto sinceramente il suo enorme talento, forse il più grande del suo secolo in Spagna per le questioni ideologiche, se avesse potuto dedicare ad esse la sua vita; ma al di sopra di essere un grande erudito, e un grande oratore, e un grande pensatore, fu Cánovas, signori, un grande corruttore; come diremmo ora, un professore di corruzione. Corruppe fino all'incorruttibile. Perché quella frase «sopra la pace sta la Monarchia» produsse l'effetto di convertire a sua volta in dogma rigido, schematico, inflessibile, inefficace, estranazionale, l'idea repubblicana. La frase di Cánovas fu al punto risposto dall'estrema sinistra in questo [modo](/concepts/mode): «Per noi, sopra la pace sta la Repubblica». Ed ecco due schemi semplicisti, Monarchia, e Repubblica, posti sopra tutte le cose nazionali, ed ecco la Spagna che gira su due poli, che sono due duri vocaboli. Mezzo paese occupato a garantire l'ordine pubblico in nome della Monarchia e l'altro mezzo paese occupato a sovvertirlo in nome della Repubblica. E siccome l'ordine pubblico si chiedeva a beneficio di una parola e non di nulla di sostanziale, e siccome la rivoluzione si domandava a servizio di qualcosa di ben poco imminente e positivo, non c'era che una finzione e scorza di ordine, non c'erano che rivoluzioni oratorie. In questo modo si ottuse il sistema nervoso delle classi agiate, abituandole all'inefficacia e alla sfiducia, e i repubblicani inasprirono ancora di più le moltitudini con i loro semplicismi. Gli uomini che allora vollero iniziare in Spagna il movimento socialista, che era una politica molto più complessa, molto più saggia e molto più reale, sanno molto bene come fu per loro una muraglia granitica il repubblicanesimo restauratore.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/decadence,forms/lecture"></span>
 
 Me es imposible seguir con detalle, porque el tiempo corre muy deprisa, los distintos rasgos característicos de la Restauración; y lo siento verdaderamente, porque forman un cuadro cuya contraposición exacta hallaríais en el fondo de vuestras conciencias. Sólo mentaré los nombres de estos rasgos fisonómicos. Es, por lo pronto, el amor a la ficción jurídica (este orden público a que antes me refería), a la pomposidad, a la exterioridad, a contentarse con la apariencia. Es el seguir hablando de la tradición nacional, lo cual es grave, señores, porque no es sino otro nombre con que se indica el desconocimiento del [caso](/concepts/fortune) España, de lo que es España como peculiar problema histórico y político. Porque lo que representa España, a diferencia de los demás pueblos actuales de Europa, es ser el pueblo en que no han fracasado estos o los otros hombres, estas o las otras instituciones, sino algo más hondo; es que en nuestra historia tenemos como un rompimiento de la eficacia de los principios más íntimos e inalienables del pueblo, de la tradición; en España, pues, es donde (aun aparte de cuestiones de ética y de derecho) el tradicionalismo no puede ser nunca un punto de partida para la política. Podrá tal vez ser útil para ciertas labores complementarias; pero centrar la política en la tradición, conservar los nombres huecos del pasado y con eso querer resolver las lacras del presente, esto no es más que un desconocimiento de la realidad española; es decir, convencionalismo, simplismo, caracteres de la Restauración.
 

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Satirical political column against a cabinet that, having lost parliament's confidence, clings on with 'portland' impassivity instead of resigning. Topical commentary, not philosophical.
+> Short text (300 words). The digest carries no sample: its content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

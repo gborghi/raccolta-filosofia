@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Essay-article: for a Spaniard, Spain is the first and inescapable problem, and the instrument for transforming the surrounding social reality is politics. It distinguishes the art of legislating from the art of seizing and keeping power, and calls it immoral to become a conqueror of power without first forming a governing ideal.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

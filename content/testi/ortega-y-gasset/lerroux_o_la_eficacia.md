@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political portrait: within the word "politics" lie an art of governing, a work of intellection, and an art of gaining and keeping government, a work of efficacy. Lerroux brings no new ideas but a new gesture and tactic — the "envite" — and possesses to an implausible degree the art of arousing and organising popular instincts, the only prophylaxis against revolutions.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

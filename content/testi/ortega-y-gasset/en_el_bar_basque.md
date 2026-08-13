@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A travel sketch in a Biarritz bar, among North American and Argentine women and a gelatinous fish "cooked by Picasso". Its only reflective turn is on elegance as a trade and a servitude. Prose of manners.
 

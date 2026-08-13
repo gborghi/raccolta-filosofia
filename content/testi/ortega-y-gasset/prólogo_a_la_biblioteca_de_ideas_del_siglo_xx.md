@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The preface common to the series: against laments over a failed culture, a culture dies only by ceasing to produce new thoughts, and since 1900 there already exists a body of distinctively twentieth-century ideas sharing a style. It is followed by the special preface to Rickert, a 'two-faced' book, the occasion for judging neo-Kantianism a relative anachronism, like neo-Fichteanism and neo-Hegelianism.
 

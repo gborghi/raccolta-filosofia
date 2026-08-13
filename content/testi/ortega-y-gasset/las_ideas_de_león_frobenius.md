@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A cultural news note on Frobenius's lectures at the Residencia de Estudiantes: remarks on his French and on the need to structure his talks, plus a presentation of his cartographic labour (maps of the spread of a custom, a tool, an institution). The sample breaks off before the ideas themselves are expounded.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Speech (with applause noted) calling for a great party of national breadth: the nation as the point of view that integrates collective life above the interests of class, group or individual. He argues from the national economy as an objective reality and from the parallel failure of capitalism and collectivism in Europe. The sample begins mid-speech.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/labour|lavoro]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +97,7 @@ Quello che succede è che i capitalisti spagnoli non sono bene abituati. Io, che
 
 Quello che accade è che erano male abituati; non erano fatti a lottare per sé stessi, come accade ai loro pari nelle altre nazioni, ma si erano abituati, come la Chiesa, a vivere sotto l'amparo e il mimo dello Stato. Questo spiega che avendo patito così poco della politica sociale il capitalismo spagnolo, solo con alcuni gesti e alcune parole arcigne dei governanti è caduto nel terrore. Ricordo a questo proposito un'ingenua aneddoto che molti anni fa lessi nelle Memorie di una principessa russa. C'era gran festa nella corte e tutta essa scendeva la scalinata del palazzo. D'improvviso si odono grida di fuoco; si produce la naturale confusione, tutto il mondo sparisce, vacando ciascuno alla propria salvezza; resta la povera principessa sola in mezzo alla scalinata e dinanzi a un terribile conflitto: dover scendere sola la scala, cosa che non aveva fatto in vita sua, perché sempre aveva trovato l'opportuno appoggio del braccio di un gentiluomo o della mano di un ciambellano. Cioè, che ciò che per ognuno di noi è l'operazione più semplice, scendere una scala, era per questa povera creatura, atrofizzata dai privilegi, un conflitto quasi tragico. (Risate).
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,concepts/labour,forms/lecture"></span>
 
 Es preciso, pues, que, sin desánimo, las fuerzas favorecidas antes por el Estado, se acostumbren a vivir bravamente a la intemperie; creedme que la intemperie es cosa sana: tonifica el músculo y aligera la cabeza. (Grandes aplausos).
 

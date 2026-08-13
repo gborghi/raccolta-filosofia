@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The founding manifesto of the Liga de Educación Política Española: a few Spaniards join to investigate national reality, propose solutions and defend, through criticism, whatever is being born with vitality. The gravest fact of the hour is that the old parties cannot even prolong their apparent existence; intervening in politics is everyone's duty, not the privilege of 'politicians'.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]], [[concepts/state|Stato]]  
+**Forme:** [[forms/manifesto|manifesto]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

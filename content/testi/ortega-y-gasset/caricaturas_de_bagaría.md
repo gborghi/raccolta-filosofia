@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short art-criticism essay on Bagaria's caricature, praising its high aesthetic aspiration along the four cardinal points of the spirit.
+> A 128-word note with no sample in the digest, presumably on the caricaturist Bagaría's drawings; content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

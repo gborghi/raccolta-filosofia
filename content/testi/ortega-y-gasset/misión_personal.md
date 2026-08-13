@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An analysis of the word 'mission': what a man has to do in his life, but with a necessity that is not compulsion but invitation — the stone cannot help falling, man may perfectly well not do what he has to do. It follows that at each instant he must choose among possibilities under his sole responsibility, justifying the choice before himself; man is the only reality that exists without a prefixed being and must elect his own (Descartes: quod vitae sectabor iter?).
+
+## Connections
+
+**Assi:** [[assi/end_of_life|Fine della vita]], [[assi/human_nature|Natura umana]]  
+**Posizioni:** [[positions/life_as_project|vita come progetto]]  
+**Concetti:** [[concepts/freedom|libertà]], [[concepts/will|volontà]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

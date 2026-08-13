@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to Francisco Grandmontagne, arrived from Argentina to recite the litany of Spanish defects as a spur: the Emersonian method of «rude electric shocks» may help one man but not a mystical, Moorish people like ours, which already has those grievances dissolved in its marrow. Journalistic polemic.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

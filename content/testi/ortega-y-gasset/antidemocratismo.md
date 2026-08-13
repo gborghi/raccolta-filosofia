@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against syndicalism: the union seizes man as a worker and therefore requires another power to defend the rest of the person and guarantee his liberties — the democratic state. The Soviet constitution, which ignores the individual and his rights, is judged "extra-European"; the closing formula is "against syndicalism, liberty" and "all of socialism with all of liberty by way of all of democracy".
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/freedom|libertà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

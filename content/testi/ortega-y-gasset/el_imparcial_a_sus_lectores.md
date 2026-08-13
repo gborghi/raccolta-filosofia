@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A corporate notice from the newspaper El Imparcial to its readers about its reorganization as a joint-stock company under Nicolás María Urgoiti and the purchase of new printing machinery. Non-philosophical text.
 

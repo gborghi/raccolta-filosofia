@@ -11,7 +11,7 @@ positions:
   - "realism_of_ideas"
   - "radical_reality_of_life"
   - "voluntarism"
-work_count: 72
+work_count: 66
 tags:
   - "graph/axis"
 title: "Statuto del reale"
@@ -30,10 +30,10 @@ title: "Statuto del reale"
 - [materialismo](/positions/materialism) — 12 opere · contro [idealismo](/positions/idealism), [dualismo sostanziale](/positions/substance_dualism)
 - [dualismo sostanziale](/positions/substance_dualism) — 11 opere · contro [materialismo](/positions/materialism), [monismo](/positions/monism)
 - [realismo delle idee](/positions/realism_of_ideas) — 12 opere · contro [nominalismo](/positions/nominalism), [atomismo](/positions/atomism)
-- [la vita come realtà radicale](/positions/radical_reality_of_life) — 18 opere · contro [idealismo](/positions/idealism), [materialismo](/positions/materialism), [atomismo](/positions/atomism)
+- [la vita come realtà radicale](/positions/radical_reality_of_life) — 15 opere · contro [idealismo](/positions/idealism), [materialismo](/positions/materialism), [atomismo](/positions/atomism)
 - [volontarismo](/positions/voluntarism) — 3 opere · contro [materialismo](/positions/materialism), [razionalismo](/positions/rationalism)
 
-## Opere (89)
+## Opere (83)
 
 **Augustine**
 - [A Treatise on the Soul and Its Origin](/testi/augustine/a_treatise_on_the_soul_and_its_origin)
@@ -95,26 +95,21 @@ title: "Statuto del reale"
 
 **Ortega y Gasset**
 - [4.º Finitismo](/testi/ortega-y-gasset/4º_finitismo)
-- [Abenjaldún nos revela el secreto pensamientos sobre África Menor](/testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor)
 - [Amor en Stendhal](/testi/ortega-y-gasset/amor_en_stendhal)
 - [Aurora de la razón histórica](/testi/ortega-y-gasset/aurora_de_la_razón_histórica)
 - [Capítulo primero Creer y pensar](/testi/ortega-y-gasset/capítulo_primero_creer_y_pensar)
-- [Conciencia objeto y las tres distancias de éste fragmentos de una lección](/testi/ortega-y-gasset/conciencia_objeto_y_las_tres_distancias_de_éste_fragmentos_de_una_lección)
 - [Descartes y el método transcendental](/testi/ortega-y-gasset/descartes_y_el_método_transcendental)
 - [El hombre no es el individuo biológico](/testi/ortega-y-gasset/el_hombre_no_es_el_individuo_biológico)
 - [Estética en el tranvía](/testi/ortega-y-gasset/estética_en_el_tranvía)
 - [Filosofía pura Anejo a mi folleto Kant](/testi/ortega-y-gasset/filosofía_pura_anejo_a_mi_folleto_kant)
-- [Función y substancia](/testi/ortega-y-gasset/función_y_substancia)
 - [Hegel y América](/testi/ortega-y-gasset/hegel_y_américa)
 - [¿Instituciones?](/testi/ortega-y-gasset/instituciones)
 - [Intermedio de las siluetas](/testi/ortega-y-gasset/intermedio_de_las_siluetas)
 - [La paradoja del salvajismo](/testi/ortega-y-gasset/la_paradoja_del_salvajismo)
 - [La resurrección de la mónada](/testi/ortega-y-gasset/la_resurrección_de_la_mónada)
-- [Lo que más falta hace hoy Versión taquigráfica de una emisión por Radio Madrid a Buenos](/testi/ortega-y-gasset/lo_que_más_falta_hace_hoy_versión_taquigráfica_de_una_emisión_por_radio_madrid_a_buenos)
 - [Los «nuevos» Estados Unidos](/testi/ortega-y-gasset/los_nuevos_estados_unidos)
 - [Los votos van al presidio](/testi/ortega-y-gasset/los_votos_van_al_presidio)
 - [Los ámbitos culturales](/testi/ortega-y-gasset/los_ámbitos_culturales)
-- [MEDITACIONES DEL QUIJOTE](/testi/ortega-y-gasset/meditaciones_del_quijote)
 - [Maximus in minimis](/testi/ortega-y-gasset/maximus_in_minimis)
 - [Meditación de la técnica](/testi/ortega-y-gasset/meditación_de_la_técnica)
 - [Muerte y resurrección](/testi/ortega-y-gasset/muerte_y_resurrección)
@@ -125,7 +120,6 @@ title: "Statuto del reale"
 - [Sobre ensimismarse y alterarse](/testi/ortega-y-gasset/sobre_ensimismarse_y_alterarse)
 - [Sobre las carreras](/testi/ortega-y-gasset/sobre_las_carreras)
 - [b Ontología](/testi/ortega-y-gasset/b_ontología)
-- [c Synecología](/testi/ortega-y-gasset/c_synecología)
 
 **Plato**
 - [CRATYLUS](/testi/plato/cratylus)

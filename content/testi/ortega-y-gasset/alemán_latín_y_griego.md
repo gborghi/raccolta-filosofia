@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Prompted by the French quarrel over Latin, Ortega attacks the League for the defence of the French language and culture, which diagnoses as "Germanisation" the fact that French professors and critics now care about truth rather than eloquence. He reads a traditionalist, reactionary current in it, and recalls that Renan and Taine already sought their new substance in Germany and England. An article on language teaching and cultural politics.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +85,7 @@ Ma noi abbiamo bisogno di vivere e non ci resta, non deve restarci, agio per god
 
 Può credersi a me se dico che nessuno avrà sentito e continuerà a sentire maggiore antipatia spontanea verso la cultura germanica di me. La patetica protestante, la pedanteria, la povertà intuitiva, l'insensibilità plastica e letteraria, l'insensibilità politica del tedesco medio mantengono ferma a ogni ora la mia convinzione che non si tratta di una cultura classica, che il germanismo deve essere superato. Ma si noti bene: deve essere superato; oggi non lo è. Superata è la cosiddetta cultura latina. Se aspiriamo a qualcosa di più forte, ci è imprescindibile partire dalla scienza germanica. Di modo che, oggi per oggi, i popoli romanzi non hanno cosa migliore né più seria da fare che riassorbire il germanismo senza pensare alla galvanizzazione della mummia latina. Dopo tutto, ciò che vi fosse di immortale nella cultura latina lo troveremo anche nella germanica; poiché che cos'è germanismo più che l'assorbimento del latinismo da parte dei germani lungo il Medioevo?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/essay"></span>
 
 Necesitamos una introducción a la vida esencial. Esto es la primera y la más amplia necesidad. Por eso es menester que toda la instrucción superior española, todas las carreras universitarias, todas las escuelas especiales, exijan el conocimiento del idioma alemán. La cultura germánica es la única introducción a la vida esencial.
 

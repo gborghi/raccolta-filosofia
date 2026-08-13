@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On the inversion of the aesthetic process: metaphor used to be poured over a reality as ornament, now the real support is eliminated and metaphor is made the res poetica. Since idea and thing are always at a distance, taking ideas for reality is naive idealisation; realising them as unreality is dehumanising art — cubism, expressionism, Pirandello's Six Characters.
+
+## Connections
+
+**Concetti:** [[concepts/idea|idea]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

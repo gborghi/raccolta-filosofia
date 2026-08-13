@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A travel note: Ortega calls the "depth" of a national body the multitude of different human attitudes it normally contains. France is deep because it has had all traditions at once — most Catholic and most anticlerical, agricultural and industrial, Bossuet and Voltaire — so the Frenchman is born free to choose.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

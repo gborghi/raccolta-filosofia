@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Notes the absence of a body of political ideas able to serve as motive faith for the minority on which national survival depends. Defines liberalism as the permanent emotion excluding from the State any non-human influence, but declares its individualist ideologies obsolete and the socialist creed insufficient: the workers' question cannot be separated from the national one.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

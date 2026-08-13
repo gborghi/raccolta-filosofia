@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Minimal note (68 words): public health is a high, inescapable function of the state, a national wealth as well as a spiritual good; a national health plan is urgent. Non-philosophical.
+> A 68-word fragment titled 'Sanidad'; the digest carries no text sample, so its content cannot be judged. Left untagged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lecture in biology and pedagogy: the environment is not the physico-chemical world, indifferent to life, but only what exists "vitally" for the organism. The jellyfish, which senses only pressure changes, shows that each species selects its own surroundings.
+
+## Connections
+
+**Concetti:** [[concepts/nature|natura]], [[concepts/experience|esperienza]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

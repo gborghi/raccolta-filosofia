@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Art essay set in the Prado: Titian's Bacchanal, Poussin's Bacchanal and Velázquez's Los Borrachos as three aesthetic solutions to one theme, wine. Its premise: progress is not a growth in subjects but the growing intensity with which we perceive half a dozen cardinal mysteries; our age has reduced wine to a hygienic and administrative problem, where once it was a god.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -162,7 +169,7 @@ E allora mani spirituali si levano nel nostro spirito e si aggrappano all'istant
 
 Uno di questi momenti ha dipinto Tiziano. Queste genti vivono in una città e là patiscono i tormenti dell'esistenza concreta: hanno ambizioni insaziabili, soffrono privazioni, diffidano reciprocamente di sé, li angoscia il sentimento della propria limitazione e si guardano con occhi torvi gli uni gli altri. Ma un giorno vanno in campagna: è molle la brezza, il sole indora il polviscolo atmosferico e mette ombre azzurre sotto i rami frondosi. In ciò qualcuno porta delle anfore e dei boccali e delle caraffe d'argento e d'oro delicatamente lavorate. Dentro questi recipienti brilla il vino. Bevono. La tensione isterica degli animi cede: le pupille si vanno facendo incandescenti, le fantasie si incorporano nelle cellette cerebrali. La verità è che la vita non è di condizione tanto avversa, che i corpi umani sono belli su uno sfondo campestre d'oro e d'azzurro, che le anime sono nobili, grate e atte a comprenderci e a replicarci. Bevono. Sembra come se dita invisibili tessessero il nostro essere con la terra, il mare, l'aria, il cielo; come se il mondo piuttosto fosse un arazzo e noi figure di quell'arazzo e i fili che formano il nostro petto continuassero al di là di esso e fossero gli stessi che fanno la [materia](/positions/materialism) di quella nube raggiante. Bevono. Da quanto tempo sono qui?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Vagamente recuerdan que hay una ciudad y que hay dolores y que hay cambios, desapariciones y fenecimientos. Les parece que llevan aquí siglos y que eternamente permanecerán aquí y que eternamente un rayo solar herirá el anca de este jarro argentino sembrador de destellos. Como un objeto de elasticidad ilimitada, el momento se ha ido estirando y alcanza de un lado y de otro los vagos confines del tiempo. Esta voluntad de eterna perduración que yace en el fondo de toda hora de placer ha servido a Nietzsche para distinguir los valores verdaderos, las nuevas tablas de lo bueno y lo malo. Así dice en los famosos versos:
 
@@ -318,7 +325,7 @@ La baccanale discende a ubriacatura. Bacco è una mistificazione. Non c'è altro
 
 Lo stato d'animo che questo rivela, la burla di ogni mitologia che, come è noto, appare lungo l'opera di Velázquez —si ricordi Mercurio e Argo, Il dio Marte—, ha, senza dubbio, grandezza. È una coraggiosa accettazione del materialismo, una sfida al cosmo, un superbo malgré tout. Ma, è giustificato? Non è il realismo una limitazione?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Porque, vengamos a cuentas: ¿qué cosas son los dioses? ¿Qué han simbolizado los hombres en los dioses? El tema es grave y difícil. Forzándolo podíamos decir: los dioses son el sentido superior que las cosas poseen si se les mira en conexión unas con otras. Así, Marte es lo mejor de la guerra: la gallardía, la entereza, la reciedad del cuerpo. Así, Venus es lo mejor de la expansión sexual: lo deseable, lo bello, lo suave y blando, el eterno femenino. Baco es lo mejor de la sobreexcitación fisiológica; el ímpetu, el amor a los campos y a los animales, la profunda hermandad de todos los seres vivos, los bienhadados placeres que a la mísera humanidad ofrece la fantasía. Los dioses son lo mejor de nosotros mismos, que, una vez aislado de lo vulgar y peor, toma una apariencia personal.
 

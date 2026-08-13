@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on Spinoza's influence on poets: pantheism—whereby each thing, turned toward eternity, expresses all the rest—is 'the philosophy of poets', since art is symbolization and ennoblement of things. It closes with a lyrical description of dusk on the Guadarrama.
+
+## Connections
+
+**Assi:** [[assi/god|Dio]]  
+**Posizioni:** [[positions/pantheism|panteismo]]  
+**Concetti:** [[concepts/substance|sostanza]], [[concepts/beauty|bellezza]]  
+**Figure:** [[figures/spinoza|Spinoza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -84,7 +94,7 @@ Chi, iniziato a quella parentela solenne di tutte le cose, può disdegnare nulla
 
 Certo che il divino si dà con la somma densità nelle religioni, nei miti, nelle teologie, magnifici stabilimenti che si levano lungo la storia, come distillerie immense dove l'umanità estrae e raccoglie la quinta essenza del divinale. Renan ha studiato tutte le credenze, ha fatto suonare tutti i miti, nella maniera in cui un avaro saggia sul marmo le barre d'oro; ma non contento di ciò lo sorprendiamo a volte cercando Dio per i cantucci, nelle cose umili, in ciò che apparentemente si trova più lontano dalla santità. In occasioni sembra soddisfarsi meglio raccontandoci un aneddoto di un filosofo che esponendoci la sua filosofia. Si gode nell'immaginare Mosè Mendelssohn misurando canne di seta mentre meditava le prove dell'immortalità dell'anima, o nel supporre che Spinoza, mentre vive dando tersura ad alcuni vetri, pensa che tutto è uno e che sta in quel cristallo pulendo a Dio il volto.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/god,positions/pantheism,concepts/substance,concepts/beauty,figures/spinoza,forms/essay"></span>
 
 No le basta con ver a Dios reflejado en los dogmas y llega a encontrarle en lo que pudiera juzgarse [materia](/positions/materialism) exánime y obra muerta de las religiones: en los ritos. Un pasaje de su correspondencia con Berthelot lo demuestra sinceramente. Su hermana murió en el Líbano, donde le había acompañado en su primer viaje. Muchos años después vuelve Renan a aquellas comarcas sagradas, y escribe: «Cerca de la tumba se eleva una linda capilla. He hecho celebrar allí un servicio según esta bella liturgia maronita, una de las más antiguas y que remonta casi hasta los orígenes del cristianismo. La aldea entera estaba allí; la compasión que estas buenas gentes me atestiguaban, su canto grave y antiguo, los grupos de mujeres y de niños que llenaban la iglesia, mirándome con sus grandes ojos tristes, todo aquello formaba para mí un conjunto seductor, profundo, sencillo y muy análogo a mi hermana». Cuando quiere darnos una imagen de la armonía humana nos describe un coro que entona salmos o himnos; cuando quiere sugerirnos la suprema disciplina del respeto, nos invita a arrodillarnos, aunque sea, como ya he referido, arrodillándonos delante de nada. Aunque falte la fe y el objeto del [culto](/concepts/religion), sostiene Renan la religiosidad del rito, el poder espiritual de la liturgia. Si hubiera nacido algunos siglos antes, probablemente habría practicado la magia: la potencia del gesto, de la fórmula ritual, le parecía el símbolo más bello de la cultura. Y a no haber aprendido tan bien el hebreo, tal vez hubiera concluido en su pueblo natal ejerciendo el papel de maestro de ceremonias. Le imagino ordenando una procesión y gustando toda la belleza formalista del rito: poner delante las niñas blancas de primera comunión, con sus coronitas de azahar, y luego las pomposas cofradías y, al cabo, los protagonistas celestiales navegando sobre la muchedumbre en sus doradas andas. Y al echar a andar la procesión, en medio del clamor glorificante de las campanas y la refulgencia de las luces y las joyas prendidas en las iconas, presumo que se diría: «Es tan bello el orden y tan expresiva la liturgia, que en esta procesión casi es innecesaria la existencia de Dios».
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Editorial on the Barcelona conflict: syndicalism has developed formidably while the rest of the national organism stays anaemic, and that disproportion is called catastrophe. The other national forces must be organized, not to annihilate one another but to coexist and balance. Political journalism.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/labour|lavoro]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

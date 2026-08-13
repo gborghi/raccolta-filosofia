@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A short lyrical prose piece: when joy is absent the soul withdraws, and pain works like a microscope revealing the black line that shuts each being into itself — windowless, as Leibniz said, but without the infinity that contented man placed inside each one. Its theme is the radical solitude of things.
+
+## Connections
+
+**Figure:** [[figures/leibniz|Leibniz]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

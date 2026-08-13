@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The novel today must be the opposite of the tale: adventure no longer interests us, the plot is only the thread stringing the pearls. Pleasure arises from lingering around the characters — it is Don Quixote and Sancho who amuse us, not what happens to them — hence the novel is a "slow" genre.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

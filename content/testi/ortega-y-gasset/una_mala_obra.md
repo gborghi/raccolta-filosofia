@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Column against the minorities' protest note, forgotten by everyone and without effect: since in Spain politics is the only visible public power, letting oneself be seen in ineffectual acts teaches the nation that the will is a useless weapon and deepens its indifference to liberty.
+
+## Connections
+
+**Concetti:** [[concepts/freedom|libertà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

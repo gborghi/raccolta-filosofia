@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A technical exposition of Herbart's method: the relation of ground and consequent is contradictory (the consequent must be both distinct and not distinct from the ground), and is resolved by the zufällige Ansichten, the "contingent considerations" — illustrated by the isosceles triangle divided by a perpendicular. Hence the "method of integrating concepts": what can neither be simply posited nor suppressed should be posited as a multiplicity.
+
+## Connections
+
+**Assi:** [[assi/method|Metodo]]  
+**Concetti:** [[concepts/cause|causa]], [[concepts/reason|ragione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

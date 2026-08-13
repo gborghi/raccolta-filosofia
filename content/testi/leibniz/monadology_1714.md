@@ -11,8 +11,19 @@ tags:
   - "philosopher/leibniz"
 ---
 
+*Leibniz*
+
 > [!abstract]
 > A concise exposition of the mature system: the universe is composed of monads — simple, indivisible, 'windowless' substances endowed with perception and appetite. No interaction among them: their agreement is secured by the pre-established harmony ordained by God, the supreme monad who chose the best of all possible worlds.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/soul_body|Anima e corpo]], [[assi/god|Dio]]  
+**Posizioni:** [[positions/rationalism|razionalismo]], [[positions/idealism|idealismo]], [[positions/optimism|ottimismo]]  
+**Concetti:** [[concepts/monad|monade]], [[concepts/pre_established_harmony|armonia prestabilita]], [[concepts/substance|sostanza]], [[concepts/principle_of_sufficient_reason|principio di ragion sufficiente]], [[concepts/best_of_all_possible_worlds|migliore dei mondi possibili]], [[concepts/petites_perceptions|piccole percezioni]], [[concepts/infinity|infinito]]  
+**Argomenti:** [[arguments/identity_of_indiscernibles|identita' degli indiscernibili]]  
+**Forme:** [[forms/treatise|trattato]]  
+**Scuole:** [[schools/continental_rationalism|razionalismo continentale]]
 
 <p class="work-source">Testo originale inglese · Delphi Classics, 2025 · pubblico dominio</p>
 
@@ -73,7 +84,7 @@ MONADOLOGY
 
 18. We might give the name of Entelechies to all simple substances or created Monads, inasmuch as there is in them a certain completeness (perfection), (έχουσι τό έντελες). There is a sufficiency (αύτάρκεια) which makes them the sources of their own internal actions, and, as it were, incorporeal automata.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/monad,concepts/petites_perceptions,concepts/memory,concepts/soul,concepts/custom"></span>
 
 19. If we choose to give the name of soul to all that has perceptions and desires, in the general sense which I have just indicated, all simple substances or created Monads may be called souls. But as sentiment is something more than simple perception, I am willing that the general name of Monads and Entelechies shall suffice for those simple substances which have nothing but perceptions, and that the term souls shall be confined to those whose perceptions are more distinct, and accompanied by [memory](/concepts/memory).
 
@@ -125,7 +136,7 @@ MONADOLOGY
 
 43. It is true, moreover, that God is not only the source of existences, but also of essences, so far as real, or of that which is real in the possible; because the divine understanding is the region of eternal truths, or of the ideas on which they depend, and without Him there would be nothing real in the possibilities, and not only nothing existing, but also nothing possible.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/soul_body,assi/god,positions/rationalism,positions/idealism,positions/optimism,concepts/monad,concepts/pre_established_harmony,concepts/substance,concepts/principle_of_sufficient_reason,concepts/best_of_all_possible_worlds,concepts/petites_perceptions,concepts/infinity,arguments/identity_of_indiscernibles,forms/treatise,schools/continental_rationalism"></span>
 
 44. At the same time, if there be a reality in the essences or possibilities, or in the eternal truths, this reality must be founded in something existing and actual, consequently in the existence of the necessary Being, in whom essence includes existence, or with whom it is sufficient to be possible in order to be actual.
 
@@ -167,7 +178,7 @@ MONADOLOGY
 
 63. The body belonging to a Monad, which is its Entelechy or soul, constitutes, with its Entelechy, what may be termed a living (thing), and, with its soul, what may be called an animal. And the body of a living being, or of an animal, is always organic; for every Monad, being a mirror of the universe, according to its fashion, and the universe being arranged with perfect order, there must be the same order in the representative — that is, in the perceptions of the soul, and consequently of the body according to which the universe is represented in it.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/soul_body,assi/god,positions/rationalism,positions/idealism,positions/optimism,concepts/monad,concepts/pre_established_harmony,concepts/substance,concepts/principle_of_sufficient_reason,concepts/best_of_all_possible_worlds,concepts/petites_perceptions,concepts/infinity,arguments/identity_of_indiscernibles,forms/treatise,schools/continental_rationalism"></span>
 
 64. Thus each organic living body is a species of divine machine, or a natural automaton, infinitely surpassing all artificial automata. A machine made by human art is not a machine in all its parts. For example, the tooth of a brass wheel has parts or fragments which are not artificial to us; they have nothing which marks the machine in their relation to the use for which the wheel is designed; but natural machines — that is, living bodies — are still machines in their minutest parts, ad [infinitum](/concepts/infinity). This makes the difference between nature and art, that is to say, between the Divine art and ours.
 
@@ -215,7 +226,7 @@ MONADOLOGY
 
 86. This City of God, this truly universal monarchy, is a moral world within the natural; and it is the most exalted and the most divine among the works of God. It is in this that the glory of God most truly consists, which glory would be wanting if his greatness and his goodness were not recognized and admired by spirits. It is in relation to this Divine City that he possesses, properly speaking, the [attribute](/concepts/attribute) of goodness, whereas his wisdom and his power are everywhere manifest.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/soul_body,assi/god,positions/rationalism,positions/idealism,positions/optimism,concepts/monad,concepts/pre_established_harmony,concepts/substance,concepts/principle_of_sufficient_reason,concepts/best_of_all_possible_worlds,concepts/petites_perceptions,concepts/infinity,arguments/identity_of_indiscernibles,forms/treatise,schools/continental_rationalism"></span>
 
 87. As we have established above, a perfect harmony between the two natural kingdoms — the one of efficient causes, the other of final causes — so it behooves us to notice here also a still further harmony between the physical kingdom of nature and the moral kingdom of grace — that is to say, between God considered as the architect of the machine of the universe, and God considered as monarch of the divine City of Spirits.
 

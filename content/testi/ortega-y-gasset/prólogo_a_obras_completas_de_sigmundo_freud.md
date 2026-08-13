@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The 1922 preface to the Spanish Freud: psychoanalysis is born of clinical urgency, since Freud had the audacity to try to cure by taking seriously the mental, non-somatic character of certain disorders, as though the psyche could suffer hernias needing surgery. He judges 'repression' likely to stay in science, and the sexualism an excessive but fruitful hypothesis.
+
+## Connections
+
+**Concetti:** [[concepts/soul|anima]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

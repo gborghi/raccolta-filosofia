@@ -10,7 +10,7 @@ positions:
   - "pantheism"
   - "atheism"
   - "critical_genealogy"
-work_count: 79
+work_count: 78
 tags:
   - "graph/axis"
 title: "Dio"
@@ -31,7 +31,7 @@ title: "Dio"
 - [ateismo](/positions/atheism) — 5 opere · contro [teismo dimostrativo](/positions/demonstrative_theism), [fideismo](/positions/fideism), [deismo](/positions/deism)
 - [genealogia critica](/positions/critical_genealogy) — 5 opere · contro [teismo dimostrativo](/positions/demonstrative_theism)
 
-## Opere (82)
+## Opere (81)
 
 **Aquinas**
 - [Treatise on the One God](/testi/aquinas/treatise_on_the_one_god)
@@ -117,7 +117,6 @@ title: "Dio"
 - [Zur Genealogie der Moral](/testi/nietzsche/zur_genealogie_der_moral)
 
 **Ortega y Gasset**
-- [A la mayor gloria de Dios](/testi/ortega-y-gasset/a_la_mayor_gloria_de_dios)
 - [Dios a la vista](/testi/ortega-y-gasset/dios_a_la_vista)
 - [La teología de Renan](/testi/ortega-y-gasset/la_teología_de_renan)
 - [Panteísmo](/testi/ortega-y-gasset/panteísmo)

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The exordium of a lecture to an international librarians' congress, delivered in French: Ortega apologises for the language, warns that he will not speak of the techniques of the trade, and dwells on the word 'mission', huge and daunting — like so many words we use daily only from outside, in a de-potentiated sense, 'as tamers make tigers and lions jump after dulling their ferocity with morphine'. The sample contains only the exordium, not the doctrine.
+
+## Connections
+
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

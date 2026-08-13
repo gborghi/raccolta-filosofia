@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On Spain's international situation, summed up in the formula "whatever England wants". Ortega accepts Álvarez's diagnosis but demands the cry of pain be added: radical abjection consists in having alienated to another the axis of one's own personality, and this holds eminently for a nation, a political unit definable only through the concept of sovereignty.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/sovereignty|sovranità]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

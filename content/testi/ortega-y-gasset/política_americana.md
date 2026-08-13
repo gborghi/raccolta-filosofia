@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A press comment on a speech by Melquíades Álvarez on Ibero-American policy: the sample is almost entirely a quotation of that speech (union with Portugal, cultural missions, trade treaties), with only a few closing lines of Ortega's assessment. No philosophical content.
 

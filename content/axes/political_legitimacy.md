@@ -9,7 +9,7 @@ positions:
   - "natural_right"
   - "class_conflict"
   - "traditional_authority"
-work_count: 63
+work_count: 61
 tags:
   - "graph/axis"
 title: "Legittimità del potere"
@@ -29,7 +29,7 @@ title: "Legittimità del potere"
 - [conflitto di classe](/positions/class_conflict) — 12 opere · contro [contratto sociale](/positions/social_contract), [autorità tradizionale](/positions/traditional_authority)
 - [autorità tradizionale](/positions/traditional_authority) — 1 opere · contro [contratto sociale](/positions/social_contract), [conflitto di classe](/positions/class_conflict)
 
-## Opere (63)
+## Opere (61)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
@@ -83,9 +83,7 @@ title: "Legittimità del potere"
 - [De re politica](/testi/ortega-y-gasset/de_re_politica)
 - [Demasiadas huelgas](/testi/ortega-y-gasset/demasiadas_huelgas)
 - [Democracia morbosa](/testi/ortega-y-gasset/democracia_morbosa)
-- [Diferencia radical entre la Liga de educación política española y los partidos actuales](/testi/ortega-y-gasset/diferencia_radical_entre_la_liga_de_educación_política_española_y_los_partidos_actuales)
 - [Disciplina jefe energía](/testi/ortega-y-gasset/disciplina_jefe_energía)
-- [ESPAÑA INVERTEBRADA BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS](/testi/ortega-y-gasset/españa_invertebrada_bosquejo_de_algunos_pensamientos_históricos)
 - [El Estado ante todo](/testi/ortega-y-gasset/el_estado_ante_todo)
 - [El derecho a la continuidad.— Inglaterra como estupefaciente](/testi/ortega-y-gasset/el_derecho_a_la_continuidad_inglaterra_como_estupefaciente)
 - [Las formas de gobierno](/testi/ortega-y-gasset/las_formas_de_gobierno)

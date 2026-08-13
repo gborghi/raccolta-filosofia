@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay starting from the Indian anecdote on silence as the greatest wisdom: ineffability proves nothing, since it touches the peaks and the humblest things alike. What matters is active silencing, and the utterly individual knowledge one has of others, condemned to be kept quiet.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Concetti:** [[concepts/wisdom|sapienza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +104,7 @@ E, in effetti, il nostro sapere dell'umano riempie e perriempie un'enorme porzio
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/wisdom,forms/essay"></span>
 
 La censura que automáticamente ejercemos sobre nuestra mejor sabiduría, sobre nuestro saber del prójimo, le impide llegar a su perfección. La imposibilidad de comunicarlo hace que al recibir una «impresión» del prójimo no nos esforcemos en formularla. Queda así tosca e impoluta. La expresión verbal, aunque sólo sea la endofasia, o hablar interno, precisa y purifica todo saber primario e inexpreso. Sobre todo, es condición para que pueda ser luego sometido a las grandes elaboraciones, sin las cuales no alcanza ningún saber su plenitud. La principal entre estas elaboraciones es la sistematización. Calcúlese a qué punto llegaría nuestro conocimiento del prójimo si no nos contentásemos con esas «impresiones» que de él recibimos, sino que, reobrando sobre ellas, las investigásemos con orden, continuidad y método. Toda esta perfección de nuestra sabiduría «humana» queda fallida por la censura que sobre ella practicamos.
 
@@ -156,7 +164,7 @@ Ma sia l'una o l'altra la porzione di questo sapere che ci sia stata concessa, f
 
 Questa liberazione della nostra sapienza repressa porterebbe grandi vantaggi. Eccone uno. La conoscenza che abbiamo del prossimo include la conoscenza che abbiamo dell'idea che egli si è formata di noi. Sì, amico mio; io posso dirvi, non solo come siete dentro, ma anche come mi vedete voi a me, quale è la proiezione o rifrazione che nel mezzo della sua anima dà la mia persona. Sappiamo secondo quali leggi la nostra figura si deforma negli altri. La mia definizione di voi, difficilmente vi parrà azzeccata; ma se vi scopro l'idea che di me avete, vi sorprenderete come preso in flagrante. Allora cadrete nel conto che, in effetti, siamo trasparenti gli uni agli altri. E questa è un'indagine da cui io mi aspetto molto come mezzo educativo dell'uomo. Perché la maggior parte dei nostri difetti si nutre del fatto che la persona si crede inaccessibile nel segreto della sua intimità, si presume opaca e usa del suo corpo come di un travestimento per occoltare il suo interno, il suo autentico essere. Come se questo fosse possibile! Quante volte diremmo al prossimo!: «Perché fate questo vano gesto di vanità, se io sto vedendo che è di vanità, che voi non siete convinto di essere un genio, ma, al rovescio, mi fate un gesto di genio perché io mi convinca che lo siete e poi io vi trasmetta il mio convincimento?» Per esempio, l'autore di qualche «contributo scientifico» mi assicura che la sua opera ha causato profonda emozione all'estero! Perché il pover'uomo non avverte come io vedo perfettamente che egli non crede ciò che dice, e che me lo dice perché io lo creda e, credendolo io, glielo dica a lui, e tenti di questo [modo](/concepts/mode) di credere ciò che io gli dico?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/wisdom,forms/essay"></span>
 
 Todas las estulticias y torpezas que casi todas las gentes padecen, y que se alimentan de la supuesta intransparencia de la persona, acabarían de una vez para siempre. La mayor parte de los errores que cometemos se originan en la ignorancia de cuál es nuestro puesto en la estimación pública. De hecho sabemos siempre muy bien cuál nos corresponde: la conciencia no falla nunca con su voz subterránea. Pero creemos que los demás no lo saben y que podemos engañarles fingiendo tener un puesto más elevado que el oportuno. Y como los demás no nos dicen nada, juzgamos que aceptan la valoración que de nosotros mismos hemos decretado.
 

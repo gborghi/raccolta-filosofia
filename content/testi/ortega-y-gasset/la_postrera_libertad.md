@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against the constitutional breach of arbitrarily extending the budget, and against La Cierva's "thesis" that taxes may be collected without a vote of the Cortes. Ortega claims a thousand-year-old Spanish liberty, learned not from Robespierre but from the old Chronicles and the Cortes of Madrid of 1329.
+
+## Connections
+
+**Concetti:** [[concepts/freedom|libertà]], [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

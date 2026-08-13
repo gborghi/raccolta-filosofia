@@ -7,7 +7,7 @@ aliases:
   - "lettera"
   - "letter"
   - "Lucilio"
-work_count: 57
+work_count: 51
 tags:
   - "graph/form"
 title: "epistola"
@@ -16,7 +16,7 @@ title: "epistola"
 
 *epistle*
 
-## Opere (57)
+## Opere (51)
 
 **Augustine**
 - [A Treatise on Grace and Free Will](/testi/augustine/a_treatise_on_grace_and_free_will)
@@ -48,21 +48,15 @@ title: "epistola"
 - [Carta a un joven argentino que estudia filosofía](/testi/ortega-y-gasset/carta_a_un_joven_argentino_que_estudia_filosofía)
 - [Charla nada más](/testi/ortega-y-gasset/charla_nada_más)
 - [Comentarios del conferenciante.— Una carta](/testi/ortega-y-gasset/comentarios_del_conferenciante_una_carta)
-- [Del conflicto actual Una carta y un comentario de José Ortega y Gasset](/testi/ortega-y-gasset/del_conflicto_actual_una_carta_y_un_comentario_de_josé_ortega_y_gasset)
-- [El problema agrario andaluz Una carta de don José Ortega y Gasset](/testi/ortega-y-gasset/el_problema_agrario_andaluz_una_carta_de_don_josé_ortega_y_gasset)
-- [Entreacto polémico](/testi/ortega-y-gasset/entreacto_polémico)
 - [Estafeta romántica Eva ausente](/testi/ortega-y-gasset/estafeta_romántica_eva_ausente)
 - [Estafeta romántica Un poeta indo](/testi/ortega-y-gasset/estafeta_romántica_un_poeta_indo)
 - [¿Hombres o ideas?](/testi/ortega-y-gasset/hombres_o_ideas)
 - [Imperialismo y democracia](/testi/ortega-y-gasset/imperialismo_y_democracia)
-- [La guerra y la destitución de Unamuno Carta de Ortega y Gasset](/testi/ortega-y-gasset/la_guerra_y_la_destitución_de_unamuno_carta_de_ortega_y_gasset)
 - [La necesaria experiencia del error](/testi/ortega-y-gasset/la_necesaria_experiencia_del_error)
 - [Liberalismo abstracto](/testi/ortega-y-gasset/liberalismo_abstracto)
 - [Pidiendo un Goethe desde dentro Carta a un alemán](/testi/ortega-y-gasset/pidiendo_un_goethe_desde_dentro_carta_a_un_alemán)
 - [Sobre el poder de la prensa](/testi/ortega-y-gasset/sobre_el_poder_de_la_prensa)
-- [Sobre unas «Memorias»](/testi/ortega-y-gasset/sobre_unas_memorias)
 - [Teoría del clasicismo](/testi/ortega-y-gasset/teoría_del_clasicismo)
-- [[Un telegrama]](/testi/ortega-y-gasset/un_telegrama)
 - [Una carta](/testi/ortega-y-gasset/una_carta)
 - [Una respuesta a una pregunta](/testi/ortega-y-gasset/una_respuesta_a_una_pregunta)
 

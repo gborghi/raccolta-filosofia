@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Minimal fragment (49 words) quoting Eduard Meyer on the first secure date of universal history, 19 July 4241 BC, when the 365-day calendar was established in Lower Egypt.
+> A 49-word fragment for which the digest gives no sample at all: the content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -12,8 +12,20 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > Plato's most ambitious work: after refuting Thrasymachus's claim that justice is merely the advantage of the stronger, Socrates constructs an ideal city to see justice 'writ large,' discovering it as harmony among the soul's three parts — reason, spirit, desire — mirrored by the state's three classes. It introduces the theory of Forms through the images of the sun, the line and the cave, proposes the philosopher-king as the only legitimate ruler, and condemns mimetic poetry as corrupting to the soul.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/universals|Universali]], [[assi/moral_foundation|Fondamento della morale]], [[assi/method|Metodo]]  
+**Posizioni:** [[positions/realism_of_ideas|realismo delle idee]], [[positions/realism_universals|realismo (universali)]], [[positions/virtue_ethics|virtù]], [[positions/dialectic|dialettica]]  
+**Concetti:** [[concepts/justice|giustizia]], [[concepts/soul|anima]], [[concepts/state|Stato]], [[concepts/education|educazione]], [[concepts/mimesis|mimesis (imitazione poetica)]]  
+**Argomenti:** [[arguments/allegory_of_the_cave|il mito della caverna]]  
+**Figure:** [[figures/socrates|Socrate]], [[figures/thrasymachus|Trasimaco]]  
+**Forme:** [[forms/dialogue|dialogo]]  
+**Scuole:** [[schools/academy|Accademia platonica]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -148,7 +160,7 @@ Acquisito! Socrate; vuoi sapere quanto ho acquisito? Nell'arte di fare denaro so
 
 Sì, è molto vero, ma posso farle un'altra domanda? Quale considera essere la più grande benedizione che ha raccolto dalla sua ricchezza?
 
-<span class="atom-split" data-atom="002" data-title="BOOK I (parte 2)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="BOOK I (parte 2)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 One, he said, of which I could not expect easily to convince others. For let me tell you, [Socrates](/figures/socrates), that when a man thinks himself to be near death, fears and cares enter into his mind which he never had before; the tales of a world below and the punishment which is exacted there of deeds done here were once a laughing matter to him, but now he is tormented with the thought that they may be true: either from the weakness of age, or because he is now drawing nearer to that other place, he has a clearer view of these things; suspicions and alarms crowd thickly upon him, and he begins to reflect and consider what wrongs he has done to others. And when he finds that the sum of his transgressions is great he will many a time like a child start up in his sleep for fear, and he is filled with dark forebodings. But to him who is conscious of no sin, sweet hope, as Pindar charmingly says, is the kind nurse of his age:
 
@@ -466,7 +478,7 @@ E così di tutte le altre cose; — la giustizia è utile quando esse sono inuti
 
 Questa è la deduzione.
 
-<span class="atom-split" data-atom="003" data-title="BOOK I (parte 3)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="BOOK I (parte 3)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Then justice is not good for much. But let us consider this further point: Is not he who can best strike a blow in a boxing match or in any kind of fighting best able to ward off a blow?
 
@@ -798,7 +810,7 @@ Io ero nel panico per le sue parole, e non potevo guardarlo senza tremare. In ef
 
 «Quanto è tipico di Socrate!» replicò con un’amara risata; «questo è il tuo stile ironico! Non avevo forse previsto — non te l’ho già detto — che, qualunque cosa gli si chiedesse, si sarebbe rifiutato di rispondere, e avrebbe tentato l’ironia o qualsiasi altro sotterfugio, pur di evitare di rispondere?»
 
-<span class="atom-split" data-atom="004" data-title="BOOK I (parte 4)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="BOOK I (parte 4)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 You are a philosopher, [Thrasymachus](/figures/thrasymachus), I replied, and well know that if you ask a person what numbers make up twelve, taking care to prohibit him whom you ask from answering twice six, or three times four, or six times two, or four times three, ‘for this sort of nonsense will not do for me,’ — then obviously, that is your way of putting the question, no one can answer you. But suppose that he were to retort, ‘Thrasymachus, what do you mean? If one of these numbers which you interdict be the true answer to the question, am I falsely to say some other number which is not the right one? — is that your meaning?’ — How would you answer him?
 
@@ -1018,7 +1030,7 @@ Non importa, risposi, se ora dice che lo sono, accettiamo la sua affermazione. D
 
 Certamente no, disse. Supponi forse che io chiami più forte colui che si sbaglia, nel momento in cui si sbaglia?
 
-<span class="atom-split" data-atom="005" data-title="BOOK I (parte 5)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="BOOK I (parte 5)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Yes, I said, my impression was that you did so, when you admitted that the ruler was not infallible but might be sometimes mistaken.
 
@@ -1202,7 +1214,7 @@ Perché ti lascia frignare, e non ti asciuga mai il naso: non ti ha nemmeno inse
 
 Cosa ti fa dire questo? Risposi.
 
-<span class="atom-split" data-atom="006" data-title="BOOK I (parte 6)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="BOOK I (parte 6)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/state,figures/thrasymachus,figures/socrates"></span>
 
 Because you fancy that the shepherd or neatherd fattens of tends the sheep or oxen with a view to their own good and not to the good of himself or his master; and you further imagine that the rulers of states, if they are true rulers, never think of their subjects as sheep, and that they are not studying their own advantage day and night. Oh, no; and so entirely astray are you in your ideas about the just and unjust as not even to know that justice and the just are in reality another’s good; that is to say, the interest of the ruler and stronger, and the loss of the subject and servant; and injustice the opposite; for the unjust is lord over the truly simple and just: he is the stronger, and his subjects do what is for his interest, and minister to his happiness, which is very far from being their own. Consider further, most foolish [Socrates](/figures/socrates), that the just is always a loser in comparison with the unjust. First of all, in private contracts: wherever the unjust is the partner of the just you will find that, when the partnership is dissolved, the unjust man has always more and the just less. Secondly, in their dealings with [the State](/concepts/state): when there is an income tax, the just man will pay more and the unjust less on the same amount of income; and when there is anything to be received the one gains nothing and the other much. Observe also what happens when they take an office; there is the just man neglecting his affairs and perhaps suffering other losses, and getting nothing out of the public, because he is just; moreover he is hated by his friends and acquaintance for refusing to serve them in unlawful ways. But all this is reversed in the case of the unjust man. I am speaking, as before, of injustice on a large scale in which the advantage of the unjust is more apparent; and my meaning will be most clearly seen if we turn to that highest form of injustice in which the criminal is the happiest of men, and the sufferers or those who refuse to do injustice are the most miserable — that is to say tyranny, which by fraud and force takes away the property of others, not little by little but wholesale; comprehending in one, things sacred as well as profane, private and public; for which acts of wrong, if he were detected perpetrating any one of them singly, he would be punished and incur great disgrace — they who do such wrong in particular cases are called robbers of temples, and man-stealers and burglars and swindlers and thieves. But when a man besides taking away the money of the citizens has made slaves of them, then, instead of these [names](/positions/nominalism) of reproach, he is termed happy and blessed, not only by the citizens but by all who hear of his having achieved the consummation of injustice. For mankind censure injustice, fearing that they may be the victims of it and not because they shrink from committing it. And thus, as I have shown, Socrates, injustice, when on a sufficient scale, has more strength and freedom and mastery than justice; and, as I said at first, justice is the interest of the stronger, whereas injustice is a man’s own profit and interest.
 
@@ -1298,7 +1310,7 @@ E quando l'artista è avvantaggiato ricevendo un compenso, il vantaggio è otten
 
 Egli diede un assenso riluttante a questo.
 
-<span class="atom-split" data-atom="007" data-title="BOOK I (parte 7)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="BOOK I (parte 7)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="concepts/justice,figures/thrasymachus,figures/socrates,forms/dialogue"></span>
 
 Then the pay is not derived by the several artists from their respective arts. But the truth is, that while the art of medicine gives health, and the art of the builder builds a house, another art attends them which is the art of pay. The various arts may be doing their own business and benefiting that over which they preside, but would the artist receive any benefit from his art unless he were paid as well?
 
@@ -1522,7 +1534,7 @@ Vero.
 
 Possiamo porre la questione così, dissi — il giusto non desidera più dei suoi simili ma più dei suoi dissimili, mentre l'ingiusto desidera più sia dei suoi simili che dei suoi dissimili?
 
-<span class="atom-split" data-atom="008" data-title="BOOK I (parte 8)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="BOOK I (parte 8)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Nothing, he said, can be better than that statement.
 
@@ -1838,7 +1850,7 @@ Ma se è così, l'ingiusto sarà nemico degli dèi, e il giusto sarà loro amico
 
 Banchetta pure in trionfo, e saziati dell'argomento; non mi opporrò a te, per non dispiacere alla compagnia.
 
-<span class="atom-split" data-atom="009" data-title="BOOK I (parte 9)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="BOOK I (parte 9)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Well then, proceed with your answers, and let me have the remainder of my repast. For we have already shown that the just are clearly wiser and better and abler than the unjust, and that the unjust are incapable of common action; nay ing at more, that to speak as we did of men who are evil acting at any time vigorously together, is not strictly true, for if they had been perfectly evil, they would have laid hands upon one another; but it is evident that there must have been some remnant of justice in them, which enabled them to combine; if there had not been they would have injured one another as well as their victims; they were but half — villains in their enterprises; for had they been whole villains, and utterly unjust, they would have been utterly incapable of action. That, as I believe, is the truth of the matter, and not what you said at first. But whether the just have a better and happier life than the unjust is a further question which we also proposed to consider. I think that they have, and for the reasons which to have given; but still I should like to examine further, for no light matter is at stake, nothing less than the rule of human life.
 
@@ -2078,7 +2090,7 @@ Che questo, [Socrates](/figures/socrates), disse, sia il tuo intrattenimento all
 
 Di questo ti sono debitore, dissi, ora che sei diventato gentile con me e hai smesso di rimproverarmi. Tuttavia, non sono stato ben intrattenuto; ma fu colpa mia, non tua. Come un buongustaio assaggia ogni piatto che viene via via portato in tavola, senza essersi concesso il tempo di godere del precedente, così io sono passato da un argomento all'altro senza aver scoperto ciò che cercavo all'inizio, la natura della giustizia. Ho lasciato quella ricerca e mi sono rivolto a considerare se la giustizia è virtù e saggezza o male e follia; e quando è sorta un'ulteriore questione sui vantaggi comparati della giustizia e dell'ingiustizia, non ho potuto trattenermi dal passare a quella. E il risultato dell'intera discussione è stato che non so proprio nulla. Infatti non so cosa sia la giustizia, e perciò è improbabile che sappia se essa sia o non sia una virtù, né posso dire se l'uomo giusto sia felice o infelice.
 
-<span class="atom-split" data-atom="010" data-title="BOOK II (parte 1)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="BOOK II (parte 1)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON
 
@@ -2154,7 +2166,7 @@ GLAUCONE
 
 Dicono che il fare ingiustizia sia, per natura, cosa buona; il subirla, cosa cattiva; ma che il male sia maggiore del bene. E così, quando gli uomini hanno sia fatto che subito ingiustizia e hanno fatto esperienza di entrambe, non essendo capaci di evitare l'una e ottenere l'altra, giudicano che sia meglio accordarsi tra loro per non avere né l'una né l'altra; di qui nascono le leggi e i patti reciproci; e ciò che è stabilito dalla legge è da loro chiamato legittimo e giusto. Questa, affermano, è l'origine e la natura della giustizia; — essa è una via di mezzo, o un compromesso, tra il meglio di tutti, che è commettere ingiustizia senza esserne puniti, e il peggio di tutti, che è subire ingiustizia senza avere il potere di vendicarsi; e la giustizia, essendo in un punto intermedio tra i due, è tollerata non come un bene, ma come il male minore, ed è onorata per l'incapacità degli uomini di commettere ingiustizia. Nessun uomo, infatti, che sia degno di essere chiamato tale, accetterebbe mai un simile accordo se fosse in grado di resistere; sarebbe pazzo se lo facesse. Tale è, o Socrate, il racconto che si riceve sulla natura e sull'origine della giustizia.
 
-<span class="atom-split" data-atom="011" data-title="BOOK II (parte 2)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="BOOK II (parte 2)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Now that those who practise justice do so involuntarily and because they have not the power to be unjust will best appear if we imagine something of this kind: having given both to the just and the unjust power to do what they will, let us watch and see whither desire will lead them; then we shall discover in the very act the just and unjust man to be proceeding along the same road, following their interest, which all natures deem to be their good, and are only diverted into the path of justice by the force of law. The liberty which we are supposing may be most completely given to them in the form of such a power as is said to have been possessed by Gyges the ancestor of Croesus the Lydian. According to the tradition, Gyges was a shepherd in the service of the king of Lydia; there was a great storm, and an earthquake made an opening in the earth at the place where he was feeding his flock. Amazed at the sight, he descended into the opening, where, among other marvels, he beheld a hollow brazen horse, having doors, at which he stooping and looking in saw a dead body of stature, as appeared to him, more than human, and having nothing on but a gold ring; this he took from the finger of the dead and reascended. Now the shepherds met together, according to [custom](/concepts/custom), that they might send their monthly report about the flocks to the king; into their assembly he came having the ring on his finger, and as he was sitting among them he chanced to turn the collet of the ring inside his hand, when instantly he became invisible to the rest of the company and they began to speak of him as if he were no longer present. He was astonished at this, and again touching the ring he turned the collet outwards and reappeared; he made several trials of the ring, and always with the same result-when he turned the collet inwards he became invisible, when outwards he reappeared. Whereupon he contrived to be chosen one of the messengers who were sent to the court; where as soon as he arrived he seduced the queen, and with her help conspired against the king and slew him, and took the kingdom. Suppose now that there were two such magic rings, and the just put on one of them and the unjust the other; no man can be imagined to be of such an iron nature that he would stand fast in justice. No man would keep his hands off what was not his own when he could safely take what he liked out of the market, or go into houses and lie with any one at his pleasure, or kill or release from prison whom he would, and in all respects be like a God among men. Then the actions of the just would be as the actions of the unjust; they would both come at last to the same point. And this we may truly affirm to be a great proof that a man is just, not willingly or because he thinks that justice is any good to him individually, but of necessity, for wherever any one thinks that he can safely be unjust, there he is unjust. For all men believe in their hearts that injustice is far more profitable to the individual than justice, and he who argues as I have been supposing, will say that they are right. If you could imagine any one obtaining this power of becoming invisible, and never doing any wrong or touching what was another’s, he would be thought by the lookers-on to be a most wretched idiot, although they would praise him to one another’s faces, and keep up appearances with one another from a fear that they too might suffer injustice. Enough of this.
 
@@ -2194,7 +2206,7 @@ Nel primo luogo, è ritenuto giusto, e perciò governa la città; può sposare c
 
 ADIMANTO - SOCRATE
 
-<span class="atom-split" data-atom="012" data-title="BOOK II (parte 3)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="BOOK II (parte 3)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 I was going to say something in answer to Glaucon, when Adeimantus, his brother, interposed: [Socrates](/figures/socrates), he said, you do not suppose that there is nothing more to be urged?
 
@@ -2282,7 +2294,7 @@ Egli proseguì: E ora, quando i giovani sentono dire tutto questo sulla virtù e
 
 Posso io, per giustizia o per vie tortuose d’inganno, ascendere a una torre più eccelsa che mi sia fortezza per tutti i miei giorni?
 
-<span class="atom-split" data-atom="013" data-title="BOOK II (parte 4)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="BOOK II (parte 4)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 For what men say is that, if I am really just and am not also thought just profit there is none, but the pain and loss on the other hand are unmistakable. But if, though unjust, I acquire the reputation of justice, a heavenly life is promised to me. Since then, as philosophers prove, appearance tyrannizes over truth and is lord of happiness, to appearance I must devote myself. I will describe around me a picture and shadow of virtue to be the vestibule and exterior of my house; behind I will trail the subtle and crafty fox, as Archilochus, greatest of sages, recommends. But I hear some one exclaiming that the concealment of wickedness is often difficult; to which I answer, Nothing great is easy. Nevertheless, the argument indicates this, if we would be happy, to be the path along which we should proceed. With a view to concealment we will establish secret brotherhoods and political clubs. And there are professors of rhetoric who teach the art of persuading courts and assemblies; and so, partly by persuasion and partly by force, I shall make unlawful gains and not be punished. Still I hear a voice saying that the gods cannot be deceived, neither can they be compelled. But what if there are no gods? or, suppose them to have no care of human things — why in either case should we mind about concealment? And even if there are gods, and they do care about us, yet we know of them only from tradition and the genealogies of the poets; and these are the very persons who say that they may be influenced and turned by ‘sacrifices and soothing entreaties and by offerings.’ Let us be consistent then, and believe both or neither. If the poets speak truly, why then we had better be unjust, and offer of the fruits of injustice; for if we are just, although we may escape the vengeance of heaven, we shall lose the gains of injustice; but, if we are unjust, we shall keep the gains, and by our sinning and praying, and praying and sinning, the gods will be propitiated, and we shall not be punished. ‘But there is a world below in which either we or our posterity will suffer for our unjust deeds.’ Yes, my friend, will be the reflection, but there are mysteries and atoning deities, and these have great power. That is what mighty cities declare; and the children of the gods, who were their poets and prophets, bear a like testimony.
 
@@ -2314,7 +2326,7 @@ Avevo sempre ammirato il genio di Glaucone e Adimanto, ma udendo queste parole f
 
 L'epiteto è assai appropriato, poiché vi è qualcosa di veramente divino nel saper argomentare come hai fatto a favore della superiorità dell'ingiustizia, e rimanere non convinto dai tuoi stessi argomenti. E credo davvero che tu non sia convinto — questo lo deduco dal tuo carattere generale, poiché se avessi giudicato soltanto dai tuoi discorsi, avrei diffidato di te. Ma ora, quanto maggiore è la mia fiducia in te, tanto maggiore è la mia difficoltà nel sapere che cosa dire. Poiché mi trovo stretto tra due; da un lato sento di essere inadeguato al compito; e la mia incapacità mi è resa evidente dal fatto che tu non sei rimasto soddisfatto della risposta che diedi a Trasimaco, la quale provava, come credevo, la superiorità che la giustizia ha sull'ingiustizia. Eppure non posso rifiutare di aiutare, finché mi restano fiato e parola; temo che sarebbe un'empietà essere presente quando si parla male della giustizia e non alzare una mano in sua difesa. E perciò è meglio che io dia quell'aiuto che posso.
 
-<span class="atom-split" data-atom="014" data-title="BOOK II (parte 5)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="BOOK II (parte 5)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/method,concepts/justice,concepts/state,concepts/labour"></span>
 
 Glaucon and the rest entreated me by all means not to let the question drop, but to proceed in the investigation. They wanted to arrive at the truth, first, about the nature of justice and injustice, and secondly, about their relative advantages. I told them, what I really thought, that the enquiry would be of a serious nature, and would require very good eyes. Seeing then, I said, that we are no great wits, I think that we had better adopt a [method](/axes/method) which I may illustrate thus; suppose that a short-sighted person had been asked by some one to read small letters from a distance; and it occurred to some one else that they might be found in another place which was larger and in which the letters were larger — if they were the same and he could read the larger letters first, and then proceed to the lesser — this would have been thought a rare piece of good fortune.
 
@@ -2638,7 +2650,7 @@ E ora, Adimanto, la nostra città è matura e perfetta?
 
 Lo credo.
 
-<span class="atom-split" data-atom="015" data-title="BOOK II (parte 6)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="BOOK II (parte 6)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Where, then, is justice, and where is injustice, and in what part of [the State](/concepts/state) did they spring up?
 
@@ -2864,7 +2876,7 @@ Sì.
 
 Ma queste nature focose non sono forse inclini a essere selvagge le une con le altre e con tutti gli altri?
 
-<span class="atom-split" data-atom="016" data-title="BOOK II (parte 7)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="BOOK II (parte 7)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 A difficulty by no means easy to overcome, he replied.
 
@@ -3148,7 +3160,7 @@ Sì, Adimanto, sono storie da non ripetere nel nostro Stato; non si deve dire al
 
 Sono pienamente d’accordo con te, disse; a mio parere quelle storie sono del tutto inadatte a essere ripetute.
 
-<span class="atom-split" data-atom="017" data-title="BOOK II (parte 8)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="BOOK II (parte 8)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/education,concepts/mimesis,figures/plato"></span>
 
 Neither, if we mean our future guardians to regard the [habit](/concepts/custom) of quarrelling among themselves as of all things the basest, should any word be said to them of the wars in heaven, and of the plots and fightings of the gods against one another, for they are not true. No, we shall never mention the battles of the giants, or let them be embroidered on garments; and we shall be silent about the innumerable other quarrels of gods and heroes with their friends and relatives. If they would only believe us we would tell them that quarrelling is unholy, and that never up to this time has there been any, quarrel between citizens; this is what old men and old women should begin by telling children; and when they grow up, the poets also should be told to compose for them in a similar spirit. But the narrative of Hephaestus binding Here his mother, or how on another occasion Zeus sent him flying for taking her part when she was being beaten, and all the battles of the gods in Homer — these tales must not be admitted into our State, whether they are supposed to have an allegorical meaning or not. For a young person cannot judge what is allegorical and what is literal; anything that he receives into his mind at that age is likely to become indelible and unalterable; and therefore it is most important that the tales which the young first hear should be models of virtuous thoughts.
 
@@ -3420,7 +3432,7 @@ e nessuno calunni Proteo e Teti, né alcuno, sia nella tragedia o in qualsiasi a
 
 Per le figlie datrici di vita di Inaco, il fiume di Argo;
 
-<span class="atom-split" data-atom="018" data-title="BOOK II (parte 9)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="BOOK II (parte 9)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 — let us have no more lies of that sort. Neither must we have mothers under the influence of the poets scaring their children with a bad version of these myths — telling how certain gods, as they say, ‘Go about by night in the likeness of so many strangers and in divers forms’; but let them take heed lest they make cowards of their children, and at the same time speak blasphemy against the gods.
 
@@ -3576,7 +3588,7 @@ Questi sono il genere di sentimenti intorno agli dèi che susciteranno la nostra
 
 Concordo pienamente, disse, con questi principi, e prometto di farne le mie leggi.
 
-<span class="atom-split" data-atom="019" data-title="BOOK III (parte 1)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="BOOK III (parte 1)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates) - ADEIMANTUS
 
@@ -3881,7 +3893,7 @@ Se quindi il governante sorprende qualcuno, oltre a sé stesso, a mentire nello 
 
    uno degli artigiani, sia esso sacerdote o medico o carpentiere.
 
-<span class="atom-split" data-atom="020" data-title="BOOK III (parte 2)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="BOOK III (parte 2)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 he will punish him for introducing a practice which is equally subversive and destructive of ship or State.
 
@@ -4161,7 +4173,7 @@ Anche questo, disse, non capisco bene.
 
 Temo di dover essere un insegnante ridicolo quando ho tanta difficoltà a farmi capire. Come un cattivo oratore, quindi, non prenderò l'intero argomento, ma ne spezzerò un pezzo per illustrare il mio significato. Conosci i primi versi dell'Iliade, in cui il poeta dice che Crise pregò Agamennone di liberare sua figlia, e che Agamennone andò in collera con lui; al che Crise, fallito il suo intento, invocò l'ira del dio contro gli Achei. Ora, per quanto riguarda questi versi,
 
-<span class="atom-split" data-atom="021" data-title="BOOK III (parte 3)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="BOOK III (parte 3)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And he prayed all the Greeks, but especially the two sons of Atreus, the chiefs of the people,
 
@@ -4361,7 +4373,7 @@ Vuoi dire, dissi, se ti comprendo bene, che c'è una sorta di stile narrativo ch
 
 E quali sono queste due sorti? chiese.
 
-<span class="atom-split" data-atom="022" data-title="BOOK III (parte 4)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="BOOK III (parte 4)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/mimesis,concepts/education,figures/socrates,forms/dialogue"></span>
 
 Suppose, I answered, that a just and good man in the course of a narration comes on some saying or action of another good man, — I should imagine that he will like to personate him, and will not be ashamed of this sort of imitation: he will be most ready to play the part of the good man when he is acting firmly and wisely; in a less degree when he is overtaken by illness or love or drink, or has met with any other disaster. But when he comes to a character which is unworthy of him, he will not make a study of that; he will disdain such a person, and will assume his likeness, if at all, for a moment only when he is performing some good action; at other times he will be ashamed to play a part which he has never practised, nor will he like to fashion and frame himself after the baser models; he feels the employment of such an art, unless in jest, to be beneath him, and his mind revolts at it.
 
@@ -4581,7 +4593,7 @@ Allora non manterremo gli artefici di lire a tre angoli e con scale complesse, n
 
 Certamente no.
 
-<span class="atom-split" data-atom="023" data-title="BOOK III (parte 5)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="BOOK III (parte 5)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 But what do you say to flute-makers and flute-players? Would you admit them into our State when you reflect that in this composite use of harmony the flute is worse than all the stringed instruments put together; even the panharmonic music is only an imitation of the flute?
 
@@ -4759,7 +4771,7 @@ Questo è vero, rispose, se la deficienza è nella sua anima; ma se c'è qualche
 
 Percepisco, dissi, che tu hai o hai avuto esperienze di questo genere, e sono d'accordo. Ma lascia che ti faccia un'altra domanda: L'eccesso di piacere ha qualche affinità con la temperanza?
 
-<span class="atom-split" data-atom="024" data-title="BOOK III (parte 6)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="BOOK III (parte 6)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 How can that be? he replied; pleasure deprives a man of the use of his faculties quite as much as pain.
 
@@ -5023,7 +5035,7 @@ Non è poi così straordinario, risposi, se si tiene presente che nei tempi anti
 
 "Com'era?" disse lui.
 
-<span class="atom-split" data-atom="025" data-title="BOOK III (parte 7)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="BOOK III (parte 7)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 By the invention of lingering death; for he had a mortal disease which he perpetually tended, and as recovery was out of the question, he passed his entire life as a valetudinarian; he could do nothing but attend upon himself, and he was in constant torment whenever he departed in anything from his usual regimen, and so dying hard, by the help of science he struggled on to old age.
 
@@ -5163,7 +5175,7 @@ Perciò, dissi, il giudice non dev'essere giovane; deve aver imparato a conoscer
 
 Sì, disse, quello è l'ideale di un giudice.
 
-<span class="atom-split" data-atom="026" data-title="BOOK III (parte 8)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="BOOK III (parte 8)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Yes, I replied, and he will be a good man (which is my answer to your question); for he is good who has a good soul. But the cunning and suspicious nature of which we spoke, — he who has committed many crimes, and fancies himself to be a master in wickedness, when he is amongst his fellows, is wonderful in the precautions which he takes, because he judges of them by himself: but when he gets into the company of men of virtue, who have the experience of age, he appears to be a fool again, owing to his unseasonable suspicions; he cannot recognise an honest man, because he has no pattern of honesty in himself; at the same time, as the bad are more numerous than the good, and he meets with them oftener, he thinks himself, and is by others thought to be, rather wise than foolish.
 
@@ -5451,7 +5463,7 @@ Come lo abbandonano? disse.
 
 Te lo spiegherò, risposi. Una risoluzione può uscire dalla mente di un uomo o con la sua volontà o contro la sua volontà; con la sua volontà quando si libera di una falsità e impara meglio, contro la sua volontà ogni volta che è privato di una verità.
 
-<span class="atom-split" data-atom="027" data-title="BOOK III (parte 9)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="BOOK III (parte 9)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 I understand, he said, the willing loss of a resolution; the meaning of the unwilling I have yet to learn.
 
@@ -5603,7 +5615,7 @@ Truly monstrous, he said.
 
 «Veramente mostruoso», disse.
 
-<span class="atom-split" data-atom="028" data-title="BOOK III (parte 10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="BOOK III (parte 10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And therefore every care must be taken that our auxiliaries, being stronger than our citizens, may not grow to be too much for them and become savage tyrants instead of friends and allies?
 
@@ -5647,7 +5659,7 @@ Consideriamo allora quale sarà il loro modo di vita, se debbono realizzare la n
 
 Sì, disse Glaucone.
 
-<span class="atom-split" data-atom="029" data-title="BOOK IV (parte 1)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="BOOK IV (parte 1)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 ADEIMANTUS - [SOCRATES](/figures/socrates)
 
@@ -5845,7 +5857,7 @@ Ma come sei semplice a usare il termine Stato per qualunque altro che non sia il
 
 Perché?
 
-<span class="atom-split" data-atom="030" data-title="BOOK IV (parte 2)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="BOOK IV (parte 2)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 You ought to speak of other States in the plural number; not one of them is a city, but many cities, as they say in the game. For indeed any city, however small, is in fact divided into two, one the city of the poor, the other of the rich; these are at war with one another; and in either there are many smaller divisions, and you would be altogether beside the mark if you treated them all as a single State. But if you deal with them as many, and give the wealth or power or persons of the one to the others, you will always have a great many friends and not many enemies. And your State, while the wise order which has now been prescribed continues to prevail in her, will be the greatest of States, I do not mean to say in reputation or appearance, but in deed and truth, though she number not more than a thousand defenders. A single State which is her equal you will hardly find, either among Hellenes or barbarians, though many that appear to be as great and many times greater.
 
@@ -6061,7 +6073,7 @@ Questi signori, dissi, non sembrano godere del tuo favore.
 
 Certamente no.
 
-<span class="atom-split" data-atom="031" data-title="BOOK IV (parte 3)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="BOOK IV (parte 3)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/state,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 Nor would you praise the behaviour of States which act like the men whom I was just now describing. For are there not ill-ordered States in which the citizens are forbidden under pain of death to alter the constitution; and yet he who most sweetly courts those who live under this regime and indulges them and fawns upon them and is skilful in anticipating and gratifying their humours is held to be a great and good statesman — do not these States resemble the persons whom I was describing?
 
@@ -6349,7 +6361,7 @@ Dell'opinione riguardo alle cose da temere, quali sono e di quale natura, che la
 
 Se vuoi.
 
-<span class="atom-split" data-atom="032" data-title="BOOK IV (parte 4)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="BOOK IV (parte 4)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 You know, I said, that dyers, when they want to dye wool for making the true sea-purple, begin by selecting their white colour first; this they prepare and dress with much care and pains, in order that the white ground may take the purple hue in full perfection. The dyeing then proceeds; and whatever is dyed in this manner becomes a fast colour, and no washing either with lyes or without them can take away the bloom. But, when the ground has not been duly prepared, you will have noticed how poor is the look either of purple or of any other colour.
 
@@ -6597,7 +6609,7 @@ Yes, we said so.
 
 "Sì, lo dicevamo."
 
-<span class="atom-split" data-atom="033" data-title="BOOK IV (parte 5)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="BOOK IV (parte 5)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Then to do one’s own business in a certain way may be assumed to be justice. Can you tell me whence I derive this inference?
 
@@ -6833,7 +6845,7 @@ Tuttavia, dissi, facciamo una esposizione più precisa dei termini, per timore d
 
 Verissimo.
 
-<span class="atom-split" data-atom="034" data-title="BOOK IV (parte 6)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="BOOK IV (parte 6)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And suppose the objector to refine still further, and to draw the nice distinction that not only parts of tops, but whole tops, when they spin round with their pegs fixed on the spot, are at rest and in motion at the same time (and he may say the same of anything which revolves in the same spot), his objection would not be admitted by us, because in such cases things are not at rest and in motion in the same parts of themselves; we should rather say that they have both an axis and a circumference, and that the axis stands still, for there is no deviation from the perpendicular; and that the circumference goes round. But if, while revolving, the axis inclines either to the right or left, forwards or backwards, then in no point of view can they be at rest.
 
@@ -7069,7 +7081,7 @@ Stabiliamo allora, infine, che nell'anima esistono due principi. E che dire dell
 
 Sarei incline a dire — affine al desiderio.
 
-<span class="atom-split" data-atom="035" data-title="BOOK IV (parte 7)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="BOOK IV (parte 7)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/soul,concepts/education,concepts/state,concepts/reason"></span>
 
 Well, I said, there is a story which I remember to have heard, and in which I put faith. The story is, that Leontius, the son of Aglaion, coming up one day from the Piraeus, under the north wall on the outside, observed some dead bodies lying on the ground at the place of execution. He felt a desire to see them, and also a dread and abhorrence of them; for a time he struggled and covered his eyes, but at length the desire got the better of him; and forcing them open, he ran up to the dead bodies, saying, Look, ye wretches, take your fill of the fair sight.
 
@@ -7321,7 +7333,7 @@ Nessuno sarà meno incline a commettere adulterio, o a disonorare suo padre e su
 
 Nessuno.
 
-<span class="atom-split" data-atom="036" data-title="BOOK IV (parte 8)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="BOOK IV (parte 8)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/beauty,concepts/labour,concepts/virtue,figures/socrates"></span>
 
 And the reason is that each part of him is doing its own business, whether in ruling or being ruled?
 
@@ -7525,7 +7537,7 @@ Ma io ritengo che i due nomi descrivano una sola forma; poiché sia che il gover
 
 È vero, rispose.
 
-<span class="atom-split" data-atom="037" data-title="BOOK V (parte 1)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="BOOK V (parte 1)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON - ADEIMANTUS
 
@@ -7713,7 +7725,7 @@ Sì, e la cosa più ridicola di tutte sarà la vista delle donne nude nella pale
 
 Sì, infatti, disse: secondo le nozioni attuali la proposta sarebbe ritenuta ridicola.
 
-<span class="atom-split" data-atom="038" data-title="BOOK V (parte 2)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="BOOK V (parte 2)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 But then, I said, as we have determined to speak our minds, we must not fear the jests of the wits which will be directed against this sort of innovation; how they will talk of women’s attainments both in music and gymnastic, and above all about their wearing armour and riding upon horseback!
 
@@ -7905,7 +7917,7 @@ E potete menzionare alcuna occupazione del genere umano in cui il sesso maschile
 
 Avete perfettamente ragione, rispose egli, nel sostenere l'inferiorità generale del sesso femminile: sebbene molte donne siano in molte cose superiori a molti uomini, tuttavia nel complesso ciò che dite è vero.
 
-<span class="atom-split" data-atom="039" data-title="BOOK V (parte 3)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="BOOK V (parte 3)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And if so, my friend, I said, there is no special faculty of administration in a state which a woman has because she is a woman, or which a man has by virtue of his sex, but the gifts of nature are alike diffused in both; all the pursuits of men are the pursuits of women also, but in all of them a woman is inferior to a man.
 
@@ -8189,7 +8201,7 @@ Allora chiaramente la prossima cosa sarà rendere il matrimonio sacro al sommo g
 
 Esattamente.
 
-<span class="atom-split" data-atom="040" data-title="BOOK V (parte 4)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="BOOK V (parte 4)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And how can marriages be made most beneficial? — that is a question which I put to you, because I see in your house dogs for hunting, and of the nobler sort of birds not a few. Now, I beseech you, do tell me, have you ever attended to their pairing and breeding?
 
@@ -8393,7 +8405,7 @@ Tale è il piano, Glaucone, secondo il quale i guardiani del nostro Stato devono
 
 Sì, certamente.
 
-<span class="atom-split" data-atom="041" data-title="BOOK V (parte 5)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="BOOK V (parte 5)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Shall we try to find a common basis by asking of ourselves what ought to be the chief aim of the legislator in making laws and in the organization of a State, — what is the greatest I good, and what is the greatest evil, and then consider whether our previous description has the stamp of the good or of the evil?
 
@@ -8685,7 +8697,7 @@ E poiché i custodi non litigheranno mai tra loro, non vi sarà pericolo che il 
 
 Nessuno.
 
-<span class="atom-split" data-atom="042" data-title="BOOK V (parte 6)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="BOOK V (parte 6)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 I hardly like even to mention the little meannesses of which they will be rid, for they are beneath notice: such, for example, as the flattery of the rich by the poor, and all the pains and pangs which men experience in bringing up a family, and in finding money to buy necessaries for their household, borrowing and then repudiating, getting how they can, and giving the money into the hands of women and slaves to keep — the many evils of so many kinds which people suffer in this way are mean enough and obvious enough, and not worth speaking of.
 
@@ -8933,7 +8945,7 @@ Certissimamente, e sarei disposto a spingermi oltre, e dire: nessuno ch'egli abb
 
 D'accordo.
 
-<span class="atom-split" data-atom="043" data-title="BOOK V (parte 7)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="BOOK V (parte 7)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Again, there is another manner in which, according to Homer, brave youths should be honoured; for he tells how Ajax, after he had distinguished himself in battle, was rewarded with long chines, which seems to be a compliment appropriate to a hero in the flower of his age, being not only a tribute of honour but also a very strengthening thing.
 
@@ -9173,7 +9185,7 @@ D'accordo; e possiamo convenire anche nel ritenere che queste, tutte le nostre p
 
 Ma devo pur dire, [Socrate](/figures/socrates), che se vi è permesso di proseguire in questo modo, voi dimenticherete del tutto l'altra questione che al principio di questa discussione avete messo da parte: — È un tale ordine di cose possibile, e come, se pure lo è? Poiché io sono ben pronto a riconoscere che il piano che proponete, se solo fosse attuabile, farebbe ogni sorta di bene allo [Stato](/concepts/state). Aggiungerò ciò che avete omesso, che i vostri cittadini saranno i più coraggiosi tra i guerrieri, e non lasceranno mai le loro file, poiché tutti si conosceranno l'un l'altro, e ciascuno chiamerà l'altro padre, fratello, figlio; e se supponete che le donne si uniscano ai loro eserciti, sia nello stesso rango o nella retroguardia, o come terrore per il nemico, o come ausiliarie in caso di bisogno, so che allora saranno assolutamente invincibili; e vi sono molti vantaggi dei legami domestici che potrebbero anche essere menzionati e che io pure riconosco pienamente: ma, poiché ammetto tutti questi vantaggi e quanti altri volete, se solo questo vostro Stato venisse ad esistere, non occorre parlare oltre di essi; supponendo allora l'esistenza dello Stato, volgiamoci ora alla questione della possibilità e dei modi e dei mezzi — il resto può essere lasciato.
 
-<span class="atom-split" data-atom="044" data-title="BOOK V (parte 8)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="BOOK V (parte 8)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,concepts/justice,concepts/state,figures/plato,figures/socrates"></span>
 
 If I loiter for a moment, you instantly make a raid upon me, I said, and have no mercy; I have hardly escaped the first and second waves, and you seem not to be aware that you are now bringing upon me the third, which is the greatest and heaviest. When you have seen and heard the third wave, I think you be more considerate and will acknowledge that some fear and hesitation was natural respecting a proposal so extraordinary as that which I have now to state and investigate.
 
@@ -9361,7 +9373,7 @@ E non possiamo forse dire del filosofo che egli sia amante, non di una parte sol
 
 Sì, del tutto.
 
-<span class="atom-split" data-atom="045" data-title="BOOK V (parte 9)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="BOOK V (parte 9)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="positions/realism_of_ideas,concepts/beauty,concepts/idea,concepts/methexis,figures/plato,forms/dialogue"></span>
 
 And he who dislikes learnings, especially in youth, when he has no power of judging what is good and what is not, such an one we maintain not to be a philosopher or a lover of knowledge, just as he who refuses his food is not hungry, and may be said to have a bad appetite and not a good one?
 
@@ -9713,7 +9725,7 @@ E anche essere dentro e tra di loro?
 
 Yes. Sì.
 
-<span class="atom-split" data-atom="046" data-title="BOOK V (parte 10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="BOOK V (parte 10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Then you would infer that opinion is intermediate?
 
@@ -9845,7 +9857,7 @@ Ma coloro che amano la verità in ogni cosa sono da chiamarsi amanti della sapie
 
 Certamente.
 
-<span class="atom-split" data-atom="047" data-title="BOOK VI (parte 1)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="BOOK VI (parte 1)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON
 
@@ -10157,7 +10169,7 @@ SOCRATE - ADIMANTO
 
 Qui Adimanto intervenne e disse: A queste affermazioni, o Socrate, nessuno può opporre risposta; ma quando parli in tal modo, uno strano sentimento passa sulle menti dei tuoi ascoltatori: essi si figurano di smarrirsi un poco a ogni passo del ragionamento, per la loro propria mancanza di abilità nel domandare e nel rispondere; queste piccole deviazioni si accumulano, e alla fine della discussione si trovano ad aver subito un possente rovesciamento, e tutte le loro nozioni precedenti appaiono capovolte. E come i giocatori inesperti di dama sono alla fine bloccati dai loro più abili avversari e non hanno più alcun pezzo da muovere, così anch'essi si trovano alla fine bloccati; poiché non hanno nulla da dire in questo nuovo gioco di cui le parole sono le pedine; e tuttavia per tutto il tempo hanno ragione. L'osservazione mi è suggerita da ciò che ora accade. Poiché ciascuno di noi potrebbe dire che, sebbene a parole non sia capace di incontrarti a ogni passo dell'argomento, vede come fatto che i cultori della filosofia, quando proseguono lo studio non solo in gioventù come parte dell'educazione, ma come occupazione degli anni più maturi, per la maggior parte diventano strani mostri, per non dire perfetti furfanti, e che quelli che possono essere considerati i migliori di loro sono resi inutili al mondo da quello stesso studio che tu esalti.
 
-<span class="atom-split" data-atom="048" data-title="BOOK VI (parte 2)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="BOOK VI (parte 2)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Well, and do you think that those who say so are wrong?
 
@@ -10321,7 +10333,7 @@ E quante innumerevoli e potenti cause tendono a distruggere queste rare nature!
 
 Che cosa causa?
 
-<span class="atom-split" data-atom="049" data-title="BOOK VI (parte 3)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="BOOK VI (parte 3)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 In the first place there are their own virtues, their courage, temperance, and the rest of them, every one of which praise worthy qualities (and this is a most singular circumstance) destroys and distracts from philosophy the soul which is the possessor of them.
 
@@ -10517,7 +10529,7 @@ E che cosa farà un uomo siffatto in tali circostanze, specialmente se cittadino
 
 Di certo lo farà.
 
-<span class="atom-split" data-atom="050" data-title="BOOK VI (parte 4)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="BOOK VI (parte 4)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Now, when he is in this state of mind, if some one gently comes to him and tells him that he is a fool and must get understanding, which can only be got by slaving for it, do you think that, under such adverse circumstances, he will be easily induced to listen?
 
@@ -10661,7 +10673,7 @@ Non sarò impedito, dissi, da alcuna mancanza di volontà, ma, semmai, da una ma
 
 In che modo?
 
-<span class="atom-split" data-atom="051" data-title="BOOK VI (parte 5)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="BOOK VI (parte 5)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 At present, I said, the students of philosophy are quite young; beginning when they are hardly past childhood, they devote only the time saved from moneymaking and housekeeping to such pursuits; and even those of them who are reputed to have most of the philosophic spirit, when they come within sight of the great difficulty of the subject, I mean [dialectic](/positions/dialectic), take themselves off. In after life when invited by some one else, they may, perhaps, go and hear a lecture, and about this they make much ado, for philosophy is not considered by them to be their proper business: at last, when they grow old, in most cases they are extinguished more truly than Heracleitus’ sun, inasmuch as they never light up again.
 
@@ -10809,7 +10821,7 @@ E una caratteristica cancelleranno, e un'altra ne metteranno, hanno reso le vie 
 
 In verità, egli disse, in nessun modo avrebbero potuto fare un quadro più bello.
 
-<span class="atom-split" data-atom="052" data-title="BOOK VI (parte 6)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="BOOK VI (parte 6)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And now, I said, are we beginning to persuade those whom you described as rushing at us with might and main, that the painter of constitutions is such an one as we are praising; at whom they were so very indignant because to his hands we committed [the State](/concepts/state); and are they growing a little calmer at what they have just heard?
 
@@ -11049,7 +11061,7 @@ Sì, dissi, c’è. E anche delle virtù dobbiamo contemplare non il mero contor
 
 Un pensiero assai nobile; ma supponete che ci asterremo dal chiedervi quale sia questa conoscenza suprema?
 
-<span class="atom-split" data-atom="053" data-title="BOOK VI (parte 7)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="BOOK VI (parte 7)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Nay, I said, ask if you will; but I am certain that you have heard the answer many times, and now you either do not understand me or, as I rather think, you are disposed to be troublesome; for you have of been told that the idea of good is the highest knowledge, and that all other things become useful and advantageous only by their use of this. You can hardly be ignorant that of this I was about to speak, concerning which, as you have often heard me say, we know so little; and, without which, any other knowledge or possession of any kind will profit us nothing. Do you think that the possession of all other things is of any value if we do not possess the good? or the knowledge of all other things if we have no knowledge of [beauty](/concepts/beauty) and goodness?
 
@@ -11345,7 +11357,7 @@ Allora il sole non è la vista, ma l'autore della vista che è riconosciuto per 
 
 Vero, disse.
 
-<span class="atom-split" data-atom="054" data-title="BOOK VI (parte 8)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="BOOK VI (parte 8)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And this is he whom I call the child of the good, whom the good begat in his own likeness, to be in the visible world, in relation to sight and the things of sight, what the good is in the intellectual world in relation to mind and the things of mind.
 
@@ -11513,7 +11525,7 @@ E quando parlo dell'altra divisione dell'intelligibile, intendimi parlare di que
 
 Ti capisco, rispose; non perfettamente, perché mi sembri descrivere un compito davvero enorme; ma in ogni caso ti capisco quando dici che la conoscenza e l'essere, che la scienza della dialettica contempla, sono più chiari delle nozioni delle cosiddette arti, che procedono solo da ipotesi: queste sono contemplate anche dall'intelletto, e non dai sensi; tuttavia, poiché partono da ipotesi e non risalgono a un principio, coloro che le contemplano ti sembrano non esercitare su di esse la ragione superiore, benché, quando vi si aggiunge un primo principio, siano conoscibili dalla ragione superiore. E l'[abitudine](/concepts/custom) che si occupa della geometria e delle scienze affini suppongo che la chiameresti intelletto e non ragione, in quanto intermedia tra opinione e ragione.
 
-<span class="atom-split" data-atom="055" data-title="BOOK VI (parte 9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="BOOK VI (parte 9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 You have quite conceived my meaning, I said; and now, corresponding to these four divisions, let there be four faculties in the soul-reason answering to the highest, understanding to the second, faith (or conviction) to the third, and perception of shadows to the last-and let there be a scale of them, and let us suppose that the several faculties have clearness in the same degree that their objects have truth.
 
@@ -11525,7 +11537,7 @@ Hai compreso appieno il mio pensiero, dissi; e ora, corrispondenti a queste quat
 
 Comprendo, rispose, e do il mio assenso, e accetto la vostra sistemazione.
 
-<span class="atom-split" data-atom="056" data-title="BOOK VII (parte 1)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="BOOK VII (parte 1)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON
 
@@ -11701,7 +11713,7 @@ E vi è forse qualcosa di sorprendente se uno, passando dalle divine contemplazi
 
 Tutt'altro che sorprendente, rispose.
 
-<span class="atom-split" data-atom="057" data-title="BOOK VII (parte 2)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="BOOK VII (parte 2)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Any one who has common sense will remember that the bewilderments of the eyes are of two kinds, and arise from two causes, either from coming out of the light or from going into the light, which is true of the mind’s eye, quite as much as of the bodily eye; and he who remembers this when he sees any one whose vision is perplexed and weak, will not be too ready to laugh; he will first ask whether that soul of man has come out of the brighter light, and is unable to see because unaccustomed to the dark, or having turned from darkness to the day is dazzled by excess of light. And he will count the one happy in his condition and state of being, and he will pity the other; or, if he have a mind to laugh at the soul which comes from below into the light, there will be more reason in this than in the laugh which greets him who returns from above out of the light into the den.
 
@@ -11825,7 +11837,7 @@ E coloro che governano non dovrebbero essere amanti del compito? Poiché, se lo 
 
 No question.
 
-<span class="atom-split" data-atom="058" data-title="BOOK VII (parte 3)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="BOOK VII (parte 3)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Who then are those whom we shall compel to be guardians? Surely they will be the men who are wisest about affairs of State, and by whom [the State](/concepts/state) is best administered, and who at the same time have other honours and another and a better life than that of politics?
 
@@ -12129,7 +12141,7 @@ E a quale classe appartengono l'unità e il numero?
 
 Non lo so, rispose.
 
-<span class="atom-split" data-atom="059" data-title="BOOK VII (parte 4)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="BOOK VII (parte 4)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Think a little and you will see that what has preceded will supply the answer; for if simple unity could be adequately perceived by the sight or by any other sense, then, as we were saying in the case of the finger, there would be nothing to attract towards being; but when there is some contradiction always present, and one is the reverse of one and involves the conception of plurality, then thought begins to be aroused within us, and the soul perplexed and wanting to arrive at a decision asks ‘What is absolute unity?’ This is the way in which the study of the one has a power of drawing and converting the mind to the contemplation of true being.
 
@@ -12373,7 +12385,7 @@ Dopo la geometria piana, dissi, siamo passati subito ai solidi in [revolution](/
 
 È vero, [Socrates](/figures/socrates); ma sembra che finora si sappia così poco su questi argomenti.
 
-<span class="atom-split" data-atom="060" data-title="BOOK VII (parte 5)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="BOOK VII (parte 5)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Why, yes, I said, and for two reasons: — in the first place, no government patronises them; this leads to a want of energy in the pursuit of them, and they are difficult; in the second place, students cannot learn them unless they have a director. But then a director can hardly be found, and even if he could, as matters now stand, the students, who are very conceited, would not attend to him. That, however, would be otherwise if the whole State became the director of these studies and gave honour to them; then disciples would want to come, and there would be continuous and earnest search, and discoveries would be made; since even now, disregarded as they are by the world, and maimed of their fair proportions, and although none of their votaries can tell the use of them, still these studies force their way by their natural charm, and very likely, if they had the help of [the State](/concepts/state), they would some day emerge into light.
 
@@ -12525,7 +12537,7 @@ Quello, disse, è cosa di più che mortale conoscenza.
 
 Una cosa, risposi, che chiamerei piuttosto utile; cioè, se ricercata con riguardo al bello e al buono; ma se perseguita con qualsiasi altro spirito, inutile. Verissimo, disse.
 
-<span class="atom-split" data-atom="061" data-title="BOOK VII (parte 6)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="BOOK VII (parte 6)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Now, when all these studies reach the point of inter-communion and connection with one another, and come to be considered in their mutual affinities, then, I think, but not till then, will the pursuit of them have a value for our objects; otherwise there is no profit in them.
 
@@ -12693,7 +12705,7 @@ Ricordi, dissi, come furono scelti prima i governanti?
 
 Certamente, disse.
 
-<span class="atom-split" data-atom="062" data-title="BOOK VII (parte 7)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="BOOK VII (parte 7)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en" data-tags="positions/dialectic,concepts/education,concepts/labour,concepts/anger,concepts/state"></span>
 
 The same natures must still be chosen, and the preference again given to the surest and the bravest, and, if possible, to the fairest; and, having noble and generous tempers, they should also have the natural gifts which will facilitate their [education](/concepts/education).
 
@@ -12909,7 +12921,7 @@ Ebbene, tutto ciò è molto probabile. Ma come è applicabile l'immagine ai disc
 
 In questo modo: tu sai che vi sono certi principi riguardanti la giustizia e l'onore, che ci vennero insegnati nell'infanzia, e sotto la loro autorità parentale siamo stati allevati, obbedendo e onorandoli.
 
-<span class="atom-split" data-atom="063" data-title="BOOK VII (parte 8)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="BOOK VII (parte 8)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 That is true.
 
@@ -13053,7 +13065,7 @@ Basta dunque dello Stato perfetto, e dell'uomo che ne porta l'immagine — non c
 
 Non v'è difficoltà," rispose; e concordo con te nel pensare che non occorra dire altro.
 
-<span class="atom-split" data-atom="064" data-title="BOOK VIII (parte 1)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="BOOK VIII (parte 1)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON
 
@@ -13165,7 +13177,7 @@ In che modo, allora, la nostra città sarà mossa, e in che maniera le due class
 
 Come si rivolgerebbero a noi?
 
-<span class="atom-split" data-atom="065" data-title="BOOK VIII (parte 2)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="BOOK VIII (parte 2)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 After this manner: — A city which is thus constituted can hardly be shaken; but, seeing that everything which has a beginning has also an end, even a constitution such as yours will not last for ever, but will in time be dissolved. And this is the dissolution: — In plants that grow in the earth, as well as in animals that move on the earth’s surface, fertility and sterility of [soul and body](/axes/soul_body) occur when the circumferences of the circles of each are completed, which in short-lived existences pass over a short space, and in long-lived ones over a long space. But to the knowledge of human fecundity and sterility all the wisdom and [education](/concepts/education) of your rulers will not attain; the laws which regulate them will not be discovered by an intelligence which is alloyed with sense, but will escape them, and they will bring children into the world when they ought not. Now that which is of divine birth has a period which is contained in a perfect number, but the period of human birth is comprehended in a number in which first increments by involution and evolution (or squared and cubed) obtaining three intervals and four terms of like and unlike, waxing and waning numbers, make all the terms commensurable and agreeable to one another. The base of these (3) with a third added (4) when combined with five (20) and raised to the third power furnishes two harmonies; the first a square which is a hundred times as great (400 = 4 X 100), and the other a figure having one side equal to the former, but oblong, consisting of a hundred numbers squared upon rational diameters of a square (i. e. omitting fractions), the side of which is five (7 X 7 = 49 X 100 = 4900), each of them being less by one (than the perfect square which includes the fractions, sc. 50) or less by two perfect squares of irrational diameters (of a square the side of which is five = 50 + 50 = 100); and a hundred cubes of three (27 X 100 = 2700 + 4900 + 400 = 8000). Now this number represents a geometrical figure which has control over the good and evil of births. For when your guardians are ignorant of the law of births, and unite bride and bridegroom out of season, the children will not be goodly or fortunate. And though only the best of them will be appointed by their predecessors, still they will be unworthy to hold their fathers’ places, and when they come into power as guardians, they will soon be found to fall in taking care of us, the Muses, first by under-valuing music; which neglect will soon extend to gymnastic; and hence the young men of your State will be less cultivated. In the succeeding generation rulers will be appointed who have lost the guardian power of testing the metal of your different races, which, like Hesiod’s, are of gold and silver and brass and iron. And so iron will be mingled with silver, and brass with gold, and hence there will arise dissimilarity and inequality and irregularity, which always and in all places are causes of hatred and war. This the Muses affirm to be the stock from which discord has sprung, wherever arising; and this is their answer to us.
 
@@ -13307,7 +13319,7 @@ Tale, dissi, è il giovane timocratico, ed è simile allo Stato timocratico.
 
 Precisamente.
 
-<span class="atom-split" data-atom="066" data-title="BOOK VIII (parte 3)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="BOOK VIII (parte 3)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 His origin is as follows: — He is often the young son of a grave father, who dwells in an ill-governed city, of which he declines the honours and offices, and will not go to law, or exert himself in any way, but is ready to waive his rights in order that he may escape trouble.
 
@@ -13587,7 +13599,7 @@ Sì, disse; quasi tutti sono mendicanti coloro che non sono governanti.
 
 E possiamo osare affermare che in essi si trovano anche molti criminali, furfanti che hanno pungiglioni, e che le autorità si guardano bene dal reprimere con la forza?
 
-<span class="atom-split" data-atom="067" data-title="BOOK VIII (parte 4)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="BOOK VIII (parte 4)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/state_and_individual,concepts/education,concepts/state,concepts/custom"></span>
 
 Certainly, we may be so bold.
 
@@ -13859,7 +13871,7 @@ Essi stessi non curano se non di far denaro, e sono tanto indifferenti quanto il
 
 Sì, del tutto indifferente.
 
-<span class="atom-split" data-atom="068" data-title="BOOK VIII (parte 5)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="BOOK VIII (parte 5)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en" data-tags="concepts/freedom,positions/revolution,concepts/beauty,concepts/state"></span>
 
 Such is [the state](/concepts/state) of affairs which prevails among them. And often rulers and their subjects may come in one another’s way, whether on a pilgrimage or a march, as fellow-soldiers or fellow-sailors; aye, and they may observe the behaviour of each other in the very moment of danger — for where danger is, there is no fear that the poor will be despised by the rich — and very likely the wiry sunburnt poor man may be placed in battle at the side of a wealthy one who has never spoilt his complexion and has plenty of superfluous flesh — when he sees such an one puffing and at his wit’s end, how can he avoid drawing the conclusion that men like him are only rich because no one has the courage to despoil them? And when they meet in private will not people be saying to one another ‘Our warriors are not good for much’?
 
@@ -14111,7 +14123,7 @@ Quando un giovane che è stato allevato nel modo che abbiamo appena descritto, i
 
 Inevitabilmente.
 
-<span class="atom-split" data-atom="069" data-title="BOOK VIII (parte 6)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="BOOK VIII (parte 6)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And as in the city like was helping like, and the change was effected by an alliance from without assisting one division of the citizens, so too the young man is changed by a class of desires coming from without to assist the desires within him, that which is and alike again helping that which is akin and alike?
 
@@ -14323,7 +14335,7 @@ Voglio dire che il padre si abitua a scendere al livello dei figli e a temerli, 
 
 Sì, disse, è così.
 
-<span class="atom-split" data-atom="070" data-title="BOOK VIII (parte 7)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="BOOK VIII (parte 7)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en" data-tags="positions/revolution,positions/class_conflict,concepts/state,concepts/freedom,concepts/law"></span>
 
 And these are not the only evils, I said — there are several lesser ones: In such a state of society the master fears and flatters his scholars, and the scholars despise their masters and tutors; young and old are all alike; and the young man is on a level with the old, and is ready to compete with him in word or deed; and old men condescend to the young and are full of pleasantry and gaiety; they are loth to be thought morose and authoritative, and therefore they adopt the manners of the young.
 
@@ -14607,7 +14619,7 @@ Lungo la riva ciottolosa d’Ermo fugge e non riposa e non è.
 
 Vergognarsi di essere un codardo.
 
-<span class="atom-split" data-atom="071" data-title="BOOK VIII (parte 8)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="BOOK VIII (parte 8)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And quite right too, said he, for if he were, he would never be ashamed again.
 
@@ -14875,7 +14887,7 @@ Molto bene; e non possiamo dire a ragione che abbiamo sufficientemente discusso 
 
 Sì, proprio abbastanza, disse.
 
-<span class="atom-split" data-atom="072" data-title="BOOK IX (parte 1)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="BOOK IX (parte 1)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates) - ADEIMANTUS
 
@@ -15117,7 +15129,7 @@ Davvero, allora, dissi, un figlio tirannico è una benedizione per suo padre e s
 
 Lo è davvero, rispose.
 
-<span class="atom-split" data-atom="073" data-title="BOOK IX (parte 2)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="BOOK IX (parte 2)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 He first takes their property, and when that falls, and pleasures are beginning to swarm in the hive of his soul, then he breaks into a house, or steals the garments of some nightly wayfarer; next he proceeds to clear a temple. Meanwhile the old opinions which he had when a child, and which gave judgment about good and evil, are overthrown by those others which have just been emancipated, and are now the bodyguard of love and share his empire. These in his democratic days, when he was still subject to the laws and to his father, were only let loose in the dreams of sleep. But now that he is under the dominion of love, he becomes always and in waking reality what he was then very rarely and in a dream only; he will commit the foulest murder, or eat forbidden food, or be guilty of any other horrid act. Love is his tyrant, and lives lordly in him and lawlessly, and being himself a king, leads him on, as a tyrant leads a State, to the performance of any reckless deed by which he can maintain himself and the rabble of his associates, whether those whom evil communications have brought in from without, or those whom he himself has allowed to break loose within him by reason of a similar evil nature in himself. Have we not here a picture of his way of life?
 
@@ -15365,7 +15377,7 @@ Certamente no.
 
 E vi è forse uomo in cui troverai più di questa sorta di miseria che nell'uomo tirannico, il quale è in un furore di passioni e desideri?
 
-<span class="atom-split" data-atom="074" data-title="BOOK IX (parte 3)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="BOOK IX (parte 3)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Impossible.
 
@@ -15653,7 +15665,7 @@ Ora, se esamini le tre classi di uomini e chiedi a ciascuna, a turno, quale dell
 
 Vero, disse.
 
-<span class="atom-split" data-atom="075" data-title="BOOK IX (parte 4)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="BOOK IX (parte 4)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And the lover of honour — what will be his opinion? Will he not think that the pleasure of riches is vulgar, while the pleasure of learning, if it brings no distinction, is all smoke and nonsense to him?
 
@@ -16017,7 +16029,7 @@ Allora puoi meravigliarti che le persone inesperte della verità, poiché hanno 
 
 No, davvero; sarei molto più disposto a meravigliarmi del contrario.
 
-<span class="atom-split" data-atom="076" data-title="BOOK IX (parte 5)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="BOOK IX (parte 5)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Look at the matter thus: — Hunger, thirst, and the like, are inanitions of the bodily state?
 
@@ -16331,7 +16343,7 @@ Un'immagine ideale dell'anima, come le creazioni composite dell'antica mitologia
 
 Si dice che vi siano state tali unioni.
 
-<span class="atom-split" data-atom="077" data-title="BOOK IX (parte 6)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="BOOK IX (parte 6)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Then do you now model the form of a multitudinous, many-headed monster, having a ring of heads of all manner of beasts, tame and wild, which he is able to generate and metamorphose at will.
 
@@ -16529,7 +16541,7 @@ Per il cane d’Egitto, lo sarà! Nella città che è sua lo sarà certamente, a
 
 Capisco; vuoi dire che sarà un governante nella città di cui noi siamo i fondatori, e che esiste solo nell’idea; poiché non credo che una tale città esista in alcun luogo sulla terra.
 
-<span class="atom-split" data-atom="078" data-title="BOOK IX (parte 7)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="BOOK IX (parte 7)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 In heaven, I replied, there is laid up a pattern of it, methinks, which he who desires may behold, and beholding, may set his own house in order. But whether such an one exists, or ever will exist in fact, is no matter; for he will live after the manner of that city, having nothing to do with any other.
 
@@ -16541,7 +16553,7 @@ In cielo, risposi, è riposto un modello di essa, mi pare, che chi lo desidera p
 
 Credo di sì, disse.
 
-<span class="atom-split" data-atom="079" data-title="BOOK X (parte 1)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="BOOK X (parte 1)" data-chapter="BOOK X" data-kind="atom" data-srclang="en" data-tags="concepts/mimesis,concepts/idea,arguments/third_man_argument,figures/plato,figures/socrates"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON
 
@@ -16869,7 +16881,7 @@ Allora l'imitatore, dissi, è molto lontano dalla verità, e può fare ogni cosa
 
 Certamente.
 
-<span class="atom-split" data-atom="080" data-title="BOOK X (parte 2)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="BOOK X (parte 2)" data-chapter="BOOK X" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And whenever any one informs us that he has found a man knows all the arts, and all things else that anybody knows, and every single thing with a higher degree of accuracy than any other man — whoever tells us this, I think that we can only imagine to be a simple creature who is likely to have been deceived by some wizard or actor whom he met, and whom he thought all-knowing, because he himself was unable to analyse the nature of knowledge and ignorance and imitation.
 
@@ -17033,7 +17045,7 @@ E l'eccellenza o [bellezza](/concepts/beauty) o verità di ogni struttura, anima
 
 Vero.
 
-<span class="atom-split" data-atom="081" data-title="BOOK X (parte 3)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="BOOK X (parte 3)" data-chapter="BOOK X" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Then the user of them must have the greatest experience of them, and he must indicate to the maker the good or bad qualities which develop themselves in use; for example, the flute-player will tell the flute-maker which of his flutes is satisfactory to the performer; he will tell him how he ought to make them, and the other will attend to his instructions?
 
@@ -17349,7 +17361,7 @@ Allora il poeta imitativo che mira a essere popolare non è fatto per natura, n�
 
 Chiaramente.
 
-<span class="atom-split" data-atom="082" data-title="BOOK X (parte 4)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="BOOK X (parte 4)" data-chapter="BOOK X" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And now we may fairly take him and place him by the side of the painter, for he is like him in two ways: first, inasmuch as his creations have an inferior degree of truth — in this, I say, he is like him; and he is also like him in being concerned with an inferior part of the soul; and therefore we shall be right in refusing to admit him into a well-ordered State, because he awakens and nourishes and strengthens the feelings and impairs the reason. As in a city when the evil are permitted to have authority and the good are put out of the way, so in the soul of man, as we maintain, the imitative poet implants an evil constitution, for he indulges the irrational nature which has no discernment of greater and less, but thinks the same thing at one time great and at another small-he is a manufacturer of images and is very far removed from the truth.
 
@@ -17465,7 +17477,7 @@ Se la sua difesa fallisce, allora, mio caro amico, come altri che sono innamorat
 
 Sì, disse, sono perfettamente d'accordo con te.
 
-<span class="atom-split" data-atom="083" data-title="BOOK X (parte 5)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="BOOK X (parte 5)" data-chapter="BOOK X" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Yes, I said, my dear Glaucon, for great is the issue at stake, greater than appears, whether a man is to be good or bad. And what will any one be profited if under the influence of honour or money or power, aye, or under the excitement of poetry, he neglect justice and virtue?
 
@@ -17685,7 +17697,7 @@ La sua immortalità è dimostrata dall'argomento precedente, e vi sono molte alt
 
 Dove, allora?
 
-<span class="atom-split" data-atom="084" data-title="BOOK X (parte 6)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="BOOK X (parte 6)" data-chapter="BOOK X" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 At her love of wisdom. Let us see whom she affects, and what society and converse she seeks in virtue of her near kindred with the immortal and eternal and divine; also how different she would become if wholly following this superior principle, and borne by a divine impulse out of the ocean in which she now is, and disengaged from the stones and shells and things of earth and rock which in wild variety spring up around her because she feeds upon earth, and is overgrown by the good things of this life as they are termed: then you would see her as she is, and know whether she has one shape only or many, or what her nature is. Of her affections and of the forms which she takes in this present life I think that we have now said enough.
 
@@ -17821,7 +17833,7 @@ Parla, disse; ci sono poche cose che udirei più volentieri.
 
 [SOCRATE](/figures/socrates)
 
-<span class="atom-split" data-atom="085" data-title="BOOK X (parte 7)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="BOOK X (parte 7)" data-chapter="BOOK X" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Well, I said, I will tell you a tale; not one of the tales which Odysseus tells to the hero Alcinous, yet this too is a tale of a hero, Er the son of Armenius, a Pamphylian by birth. He was slain in battle, and ten days afterwards, when the bodies of the dead were taken up already in a state of corruption, his body was found unaffected by decay, and carried away home to be buried. And on the twelfth day, as he was lying on the funeral pile, he returned to life and told them what he had seen in the other world. He said that when his soul left the body he went on a journey with a great company, and that they came to a mysterious place at which there were two openings in the earth; they were near together, and over against them were two other openings in the heaven above. In the intermediate space there were judges seated, who commanded the just, after they had given judgment on them and had bound their sentences in front of them, to ascend by the heavenly way on the right hand; and in like manner the unjust were bidden by them to descend by the lower way on the left hand; these also bore the symbols of their deeds, but fastened on their backs. He drew near, and they told him that he was to be the messenger who would carry the report of the other world to men, and they bade him hear and see all that was to be heard and seen in that place. Then he beheld and saw on one side the souls departing at either opening of heaven and earth when sentence had been given on them; and at the two other openings other souls, some ascending out of the earth dusty and worn with travel, some descending out of heaven clean and bright. And arriving ever and anon they seemed to have come from a long journey, and they went forth with gladness into the meadow, where they encamped as at a festival; and those who knew one another embraced and conversed, the souls which came from earth curiously enquiring about the things above, and the souls which came from heaven about the things beneath. And they told one another of what had happened by the way, those from below weeping and sorrowing at the remembrance of the things which they had endured and seen in their journey beneath the earth (now the journey lasted a thousand years), while those from above were describing heavenly delights and visions of inconceivable [beauty](/concepts/beauty). The Story, Glaucon, would take too long to tell; but the sum was this: — He said that for every wrong which they had done to any one they suffered tenfold; or once in a hundred years — such being reckoned to be the length of man’s life, and the penalty being thus paid ten times in a thousand years. If, for example, there were any who had been the cause of many deaths, or had betrayed or enslaved cities or armies, or been guilty of any other evil behaviour, for each and all of their offences they received punishment ten times over, and the rewards of beneficence and justice and holiness were in the same proportion. I need hardly repeat what he said concerning young children dying almost as soon as they were born. Of piety and impiety to gods and parents, and of murderers, there were retributions other and greater far which he described. He mentioned that he was present when one of the spirits asked another, ‘Where is Ardiaeus the Great?’ (Now this Ardiaeus lived a thousand years before the time of Er: he had been the tyrant of some city of Pamphylia, and had murdered his aged father and his elder brother, and was said to have committed many other abominable crimes.) The answer of the other spirit was: ‘He comes not hither and will never come. And this,’ said he, ‘was one of the dreadful sights which we ourselves witnessed. We were at the mouth of the cavern, and, having completed all our experiences, were about to reascend, when of a sudden Ardiaeus appeared and several others, most of whom were tyrants; and there were also besides the tyrants private individuals who had been great criminals: they were just, as they fancied, about to return into the upper world, but the mouth, instead of admitting them, gave a roar, whenever any of these incurable sinners or some one who had not been sufficiently punished tried to ascend; and then wild men of fiery aspect, who were standing by and heard the sound, seized and carried them off; and Ardiaeus and others they bound head and foot and hand, and threw them down and flayed them with scourges, and dragged them along the road at the side, carding them on thorns like wool, and declaring to the passers-by what were their crimes, and that they were being taken away to be cast into hell.’ And of all the many terrors which they had endured, he said that there was none like the terror which each of them felt at that moment, lest they should hear the voice; and when there was silence, one by one they ascended with exceeding joy. These, said Er, were the penalties and retributions, and there were blessings as great.
 
@@ -17829,7 +17841,7 @@ Well, I said, I will tell you a tale; not one of the tales which Odysseus tells 
 
 Orbene, dissi, ti narrerò un racconto; non uno dei racconti che Odisseo narra all'eroe Alcinoo, eppure anche questo è un racconto di un eroe, Er figlio di Armenio, Pamfilio di nascita. Fu ucciso in battaglia, e dieci giorni dopo, quando i corpi dei morti furono raccolti già in stato di corruzione, il suo corpo fu trovato non toccato dal disfacimento, e fu portato a casa per essere sepolto. E il dodicesimo giorno, mentre giaceva sulla pira funebre, tornò in vita e raccontò loro ciò che aveva visto nell'altro mondo. Disse che quando la sua anima lasciò il corpo, intraprese un viaggio con una grande compagnia, e che giunsero a un luogo misterioso nel quale vi erano due aperture nella terra; erano vicine tra loro, e dirimpetto ad esse vi erano altre due aperture nel cielo di sopra. Nello spazio intermedio c'erano giudici seduti, i quali comandavano ai giusti, dopo averli giudicati e aver legato le sentenze davanti a essi, di salire per la via celeste a destra; e similmente gli ingiusti erano da loro invitati a scendere per la via inferiore a sinistra; anche questi portavano i simboli delle loro azioni, ma legati sulle schiene. Egli si avvicinò, e gli dissero che egli doveva essere il messaggero che avrebbe portato agli uomini il resoconto dell'altro mondo, e gli ordinarono di udire e vedere tutto ciò che in quel luogo si doveva udire e vedere. Allora egli guardò e vide da un lato le anime che partivano presso l'una e l'altra apertura del cielo e della terra, dopo che era stata pronunciata la sentenza su di esse; e presso le altre due aperture altre anime, alcune che salivano dalla terra polverose e stanche del viaggio, alcune che scendevano dal cielo pure e splendenti. E sopraggiungendo di continuo sembravano essere giunti da un lungo viaggio, e con gioia uscivano nel prato, dove si accampavano come a una festa; e quelli che si conoscevano si abbracciavano e conversavano, le anime che venivano dalla terra chiedendo con curiosità delle cose di lassù, e le anime che venivano dal cielo delle cose di quaggiù. E si raccontavano l'un l'altro ciò che era accaduto per via, quelle di sotto piangendo e dolendosi al ricordo delle cose che avevano sopportato e veduto nel loro viaggio sotto terra (ora il viaggio durava mille anni), mentre quelle di sopra descrivevano delizie celesti e visioni di inconcepibile [bellezza](/concepts/beauty). Il racconto, Glaucone, sarebbe troppo lungo da narrare; ma il sunto era questo: — Egli disse che per ogni torto che avevano fatto a qualcuno, soffrivano dieci volte tanto; ossia una volta ogni cento anni — essendo questa ritenuta la durata della vita umana, e così la pena veniva pagata dieci volte in mille anni. Se, per esempio, ve n'erano alcuni che erano stati causa di molte morti, o avevano tradito o asservito città o eserciti, o si erano resi colpevoli di qualsiasi altra cattiva condotta, per ciascuna e per tutte le loro offese ricevevano una punizione dieci volte tanto, e le ricompense della beneficenza, della giustizia e della santità erano nella stessa proporzione. Non ho quasi bisogno di ripetere ciò che disse riguardo ai bambini piccoli che morivano quasi appena nati. Della pietà e dell'empietà verso gli dei e i genitori, e degli omicidi, vi erano punizioni altre e di gran lunga maggiori, che egli descrisse. Egli menzionò che era presente quando uno degli spiriti chiese a un altro: 'Dov'è Ardiaeo il Grande?' (Ora questo Ardiaeo visse mille anni prima del tempo di Er: era stato il tiranno di una certa città della Panfilia, e aveva ucciso il suo anziano padre e il suo fratello maggiore, e si diceva che avesse commesso molti altri delitti abominevoli.) La risposta dell'altro spirito fu: 'Egli non viene qui e non verrà mai. E questo,' disse, 'fu uno dei terribili spettacoli che noi stessi vedemmo. Eravamo alla bocca della caverna e, avendo compiuto tutte le nostre esperienze, stavamo per risalire, quando all'improvviso apparvero Ardiaeo e parecchi altri, la maggior parte dei quali erano tiranni; e vi erano anche, oltre ai tiranni, individui privati che erano stati grandi criminali. Essi erano proprio, come si illudevano, sul punto di tornare nel mondo superiore, ma la bocca, invece di accoglierli, emetteva un ruggito ogniqualvolta uno di questi peccatori incurabili, o alcuno che non fosse stato punito abbastanza, tentava di salire; e allora uomini selvaggi dall'aspetto di fuoco, che stavano lì accanto e udirono il suono, li afferrarono e li portarono via; e legarono Ardiaeo e altri per capo, piedi e mani, e li gettarono a terra e li scorticarono con flagelli, e li trascinarono lungo la strada laterale, cardandoli su spine come lana, e dichiarando ai passanti quali fossero i loro delitti, e che essi venivano portati via per essere gettati nell'inferno.' E di tutti i molti terrori che avevano sopportato, disse che non ve n'era alcuno simile al terrore che ciascuno di loro provò in quel momento, per timore di udire la voce; e quando vi era silenzio, uno a uno salirono con grandissima gioia. Queste, disse Er, erano le pene e le retribuzioni, e vi erano ricompense altrettanto grandi.
 
-<span class="atom-split" data-atom="086" data-title="BOOK X (parte 8)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="BOOK X (parte 8)" data-chapter="BOOK X" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 Now when the spirits which were in the meadow had tarried seven days, on the eighth they were obliged to proceed on their journey, and, on the fourth day after, he said that they came to a place where they could see from above a line of light, straight as a column, extending right through the whole heaven and through the earth, in colour resembling the rainbow, only brighter and purer; another day’s journey brought them to the place, and there, in the midst of the light, they saw the ends of the chains of heaven let down from above: for this light is the belt of heaven, and holds together the circle of the universe, like the under-girders of a trireme. From these ends is extended the spindle of Necessity, on which all the revolutions turn. The shaft and hook of this spindle are made of steel, and the whorl is made partly of steel and also partly of other materials. Now the whorl is in form like the whorl used on earth; and the description of it implied that there is one large hollow whorl which is quite scooped out, and into this is fitted another lesser one, and another, and another, and four others, making eight in all, like vessels which fit into one another; the whorls show their edges on the upper side, and on their lower side all together form one continuous whorl. This is pierced by the spindle, which is driven home through the centre of the eighth. The first and outermost whorl has the rim broadest, and the seven inner whorls are narrower, in the following proportions — the sixth is next to the first in size, the fourth next to the sixth; then comes the eighth; the seventh is fifth, the fifth is sixth, the third is seventh, last and eighth comes the second. The largest (of fixed stars) is spangled, and the seventh (or sun) is brightest; the eighth (or moon) coloured by the reflected light of the seventh; the second and fifth (Saturn and Mercury) are in colour like one another, and yellower than the preceding; the third (Venus) has the whitest light; the fourth (Mars) is reddish; the sixth (Jupiter) is in whiteness second. Now the whole spindle has the same motion; but, as the whole revolves in one direction, the seven inner circles move slowly in the other, and of these the swiftest is the eighth; next in swiftness are the seventh, sixth, and fifth, which move together; third in swiftness appeared to move according to the law of this reversed motion the fourth; the third appeared fourth and the second fifth. The spindle turns on the knees of Necessity; and on the upper surface of each circle is a siren, who goes round with them, hymning a single tone or note. The eight together form one harmony; and round about, at equal intervals, there is another band, three in number, each sitting upon her throne: these are the Fates, daughters of Necessity, who are clothed in white robes and have chaplets upon their heads, Lachesis and Clotho and Atropos, who accompany with their voices the harmony of the sirens — Lachesis singing of the past, Clotho of the present, Atropos of the future; Clotho from time to time assisting with a touch of her right hand the [revolution](/positions/revolution) of the outer circle of the whorl or spindle, and Atropos with her left hand touching and guiding the inner ones, and Lachesis laying hold of either in turn, first with one hand and then with the other.
 
@@ -17841,7 +17853,7 @@ Ora, quando le anime che erano nel prato si erano trattenute sette giorni, l'ott
 
 Quando Er e gli spiriti giunsero, loro dovere era recarsi subito da Lachesi; ma prima di tutto venne un profeta che li dispose in ordine; poi prese dalle ginocchia di Lachesi sorti e modelli di vite, e salito su un'alta tribuna, parlò così: «Udite la parola di Lachesi, figlia della Necessità. Anime mortali, ecco un nuovo ciclo di vita e di mortalità. Il vostro genio non vi sarà assegnato, ma voi scegliete il vostro genio; e colui che trarrà la prima sorte abbia la prima scelta, e la vita che egli sceglie sarà il suo destino. La virtù è libera, e quanto un uomo la onora o la disonora, tanto più o meno ne avrà; la responsabilità è di colui che sceglie — Dio è giustificato.» Quando l'Interprete ebbe detto così, sparse le sorti indifferentemente fra tutti loro, e ciascuno raccolse la sorte che gli cadde vicino, tutti tranne Er stesso (a lui non fu permesso), e ciascuno mentre raccoglieva la sua sorte percepì il numero che aveva ottenuto. Poi l'Interprete pose a terra dinanzi a loro i modelli di vite; e vi erano molte più vite che anime presenti, ed erano di ogni specie. Vi erano vite di ogni animale e dell'uomo in ogni condizione. E tra esse vi erano tirannie, alcune che duravano quanto la vita del tiranno, altre che si spezzavano a metà e finivano in povertà ed esilio e mendicità; e vi erano vite di uomini famosi, alcuni famosi per la loro forma e [bellezza](/concepts/beauty) come pure per la loro forza e successo nei giochi, o, ancora, per la loro nascita e le qualità dei loro antenati; e alcuni che erano il contrario di famosi per le qualità opposte. E di donne similmente; non vi era tuttavia in esse alcun carattere definito, perché l'anima, quando sceglie una nuova vita, deve di necessità diventare differente. Ma vi era ogni altra qualità, e tutte erano mescolate l'una con l'altra, e anche con elementi di ricchezza e povertà, e malattia e salute; e vi erano anche stati mediocri. E qui, mio caro Glaucone, è il supremo pericolo del nostro stato umano; e perciò la massima cura dovrebbe essere presa. Ciascuno di noi lasci ogni altra specie di conoscenza e cerchi e segua una sola cosa, se per avventura possa imparare e trovi qualcuno che lo renda capace di imparare e discernere tra bene e male, e così scegliere sempre e dovunque la vita migliore come ne ha l'opportunità. Egli dovrebbe considerare la portata di tutte queste cose che sono state menzionate separatamente e collettivamente riguardo alla virtù; dovrebbe sapere quale effetto abbia la bellezza quando è combinata con povertà o ricchezza in una particolare anima, e quali siano le buone e cattive conseguenze di nascita nobile e umile, di condizione privata e pubblica, di forza e debolezza, di intelligenza e ottusità, e di tutte le qualità dell'anima, e l'operazione di esse quando sono congiunte; egli allora guarderà la natura dell'anima, e dalla considerazione di tutte queste qualità sarà in grado di determinare quale sia la migliore e quale la peggiore; e così sceglierà, dando il nome di male alla vita che renderà la sua anima più ingiusta, e di bene alla vita che renderà la sua anima più giusta; tutto il resto egli trascurerà. Poiché abbiamo visto e sappiamo che questa è la scelta migliore sia nella vita che dopo la morte. Un uomo deve portare con sé nel mondo di sotto una fede adamantina nella verità e nel giusto, affinché anche là non sia abbagliato dal desiderio di ricchezza o dalle altre lusinghe del male, per timore che, imbattendosi in tirannie e simili scelleratezze, faccia torti irreparabili ad altri e soffra egli stesso cose peggiori; ma sappia scegliere la via di mezzo ed evitare gli estremi da entrambi i lati, per quanto possibile, non solo in questa vita ma in tutta quella che deve venire. Poiché questa è la via della felicità.
 
-<span class="atom-split" data-atom="087" data-title="BOOK X (parte 9)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="BOOK X (parte 9)" data-chapter="BOOK X" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/universals,assi/moral_foundation,assi/method,positions/realism_of_ideas,positions/realism_universals,positions/virtue_ethics,positions/dialectic,concepts/justice,concepts/soul,concepts/state,concepts/education,concepts/mimesis,arguments/allegory_of_the_cave,figures/socrates,figures/thrasymachus,forms/dialogue,schools/academy"></span>
 
 And according to the report of the messenger from the other world this was what the prophet said at the time: ‘Even for the last comer, if he chooses wisely and will live diligently, there is appointed a happy and not undesirable existence. Let not him who chooses first be careless, and let not the last despair.’ And when he had spoken, he who had the first choice came forward and in a moment chose the greatest tyranny; his mind having been darkened by folly and sensuality, he had not thought out the whole matter before he chose, and did not at first sight perceive that he was fated, among other evils, to devour his own children. But when he had time to reflect, and saw what was in the lot, he began to beat his breast and lament over his choice, forgetting the proclamation of the prophet; for, instead of throwing the blame of his misfortune on himself, he accused [chance](/concepts/fortune) and the gods, and everything rather than himself. Now he was one of those who came from heaven, and in a former life had dwelt in a well-ordered State, but his virtue was a matter of [habit](/concepts/custom) only, and he had no philosophy. And it was true of others who were similarly overtaken, that the greater number of them came from heaven and therefore they had never been schooled by trial, whereas the pilgrims who came from earth, having themselves suffered and seen others suffer, were not in a hurry to choose. And owing to this inexperience of theirs, and also because the lot was a chance, many of the souls exchanged a good destiny for an evil or an evil for a good. For if a man had always on his arrival in this world dedicated himself from the first to sound philosophy, and had been moderately fortunate in the number of the lot, he might, as the messenger reported, be happy here, and also his journey to another life and return to this, instead of being rough and underground, would be smooth and heavenly. Most curious, he said, was the spectacle — sad and laughable and strange; for the choice of the souls was in most cases based on their experience of a previous life. There he saw the soul which had once been Orpheus choosing the life of a swan out of enmity to the race of women, hating to be born of a woman because they had been his murderers; he beheld also the soul of Thamyras choosing the life of a nightingale; birds, on the other hand, like the swan and other musicians, wanting to be men. The soul which obtained the twentieth lot chose the life of a lion, and this was the soul of Ajax the son of Telamon, who would not be a man, remembering the injustice which was done him the judgment about the arms. The next was Agamemnon, who took the life of an eagle, because, like Ajax, he hated [human nature](/axes/human_nature) by reason of his sufferings. About the middle came the lot of Atalanta; she, seeing the great fame of an athlete, was unable to resist the temptation: and after her there followed the soul of Epeus the son of Panopeus passing into the nature of a woman cunning in the arts; and far away among the last who chose, the soul of the jester Thersites was putting on the form of a monkey. There came also the soul of Odysseus having yet to make a choice, and his lot happened to be the last of them all. Now the recollection of former tolls had disenchanted him of ambition, and he went about for a considerable time in search of the life of a private man who had no cares; he had some difficulty in finding this, which was lying about and had been neglected by everybody else; and when he saw it, he said that he would have done the had his lot been first instead of last, and that he was delighted to have it. And not only did men pass into animals, but I must also mention that there were animals tame and wild who changed into one another and into corresponding human natures — the good into the gentle and the evil into the savage, in all sorts of combinations.
 

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short literary essay on Azorín, poet of repetition and echo, whose muse is a soul woven of nostalgia, looking backward like Lot's wife. Literary criticism.
+> A 232-word text; the digest carries no sample, so its content cannot be judged. Left untagged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

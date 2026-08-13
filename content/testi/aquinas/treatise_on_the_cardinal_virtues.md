@@ -12,8 +12,19 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > The longest treatise in the Summa (over 270,000 words): prudence, justice, fortitude and temperance and all their annexed parts. Prudence, Aristotle's phronesis, directs practical reason toward the good by applying means to the end set by the moral virtues.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/virtue_ethics|virtù]]  
+**Concetti:** [[concepts/virtue|virtù]], [[concepts/phronesis|phronesis (saggezza pratica)]], [[concepts/justice|giustizia]]  
+**Figure:** [[figures/aristotle|Aristotele]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +39,7 @@ TREATISE ON THE CARDINAL VIRTUES (QQ[47]-170)
 
 Trattato sulle virtù cardinali (QQ[47]-170)
 
-<span class="atom-split" data-atom="002" data-title="OF PRUDENCE, CONSIDERED IN ITSELF (SIXTEEN ARTICLES)" data-chapter="OF PRUDENCE, CONSIDERED IN ITSELF (SIXTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF PRUDENCE, CONSIDERED IN ITSELF (SIXTEEN ARTICLES)" data-chapter="OF PRUDENCE, CONSIDERED IN ITSELF (SIXTEEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,concepts/virtue,concepts/reason,forms/quaestio,schools/scholasticism"></span>
 
 After treating of the [theological virtues](/concepts/theological_virtues), we must in due sequence consider the cardinal virtues.
 In the first place we shall consider prudence in itself; secondly, its parts; thirdly, the corresponding
@@ -72,7 +83,7 @@ Dopo aver trattato delle [virtù teologali](/concepts/theological_virtues), dobb
 (15) È innata in noi?  
 (16) Si perde a causa dell’oblio?
 
-<span class="atom-split" data-atom="003" data-title="Whether prudence is in the cognitive or in the appetitive faculty?" data-chapter="Whether prudence is in the cognitive or in the appetitive faculty?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether prudence is in the cognitive or in the appetitive faculty?" data-chapter="Whether prudence is in the cognitive or in the appetitive faculty?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence is not in the cognitive but in the appetitive faculty.
 For [Augustine](/figures/augustine) says (De Morib. Eccl. xv): "Prudence is love choosing wisely between the things
@@ -141,7 +152,7 @@ Risposta all’Obiezione 2: L’uomo prudente considera le cose nel loro insieme
 
 Risposta all’Obiezione 3: Il valore della prudenza non risiede soltanto nel pensiero, ma nella sua applicazione all’azione, che costituisce lo scopo della ragione pratica. Pertanto, se in questa applicazione dovesse verificarsi qualche difetto, ciò sarebbe assolutamente contrario alla natura stessa della prudenza; poiché lo scopo rappresenta l’elemento più importante in ogni cosa, un difetto che riguarda direttamente tale scopo è senz’altro il peggiore di tutti. Per questo motivo il Filosofo afferma (Etica VI, 5) che la prudenza sia “qualcosa di più di una semplice abitudine razionale”, come lo sono le arti; poiché, come già detto in precedenza (FS, Q[57], A[4]), la prudenza include necessariamente l’applicazione concreta alle azioni, e tale applicazione costituisce un atto della volontà.
 
-<span class="atom-split" data-atom="004" data-title="Whether prudence belongs to the practical reason alone or also to the speculative reason?" data-chapter="Whether prudence belongs to the practical reason alone or also to the speculative reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether prudence belongs to the practical reason alone or also to the speculative reason?" data-chapter="Whether prudence belongs to the practical reason alone or also to the speculative reason?" data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,concepts/virtue,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence belongs not only to the practical, but also to the
 speculative reason. For it is written (Prov. 10:23): "Wisdom is prudence to a man." Now wisdom
@@ -208,7 +219,7 @@ Risposta all’Obiezione 2: Anche Ambrogio e Tullio (De Invent. ii, 53) utilizza
 
 Risposta all’Obiezione 3: Ogni applicazione della ragione retta nel processo di produzione rientra nell’ambito dell’arte; invece, alla prudenza appartiene soltanto l’applicazione della ragione retta in questioni relative ai consigli, ovvero in quelle situazioni in cui non esiste un metodo fisso per raggiungere lo scopo, come affermato nell’Etica, III, 3. Poiché la ragione speculativa elabora concetti come sillogismi e proposizioni, i cui procedimenti seguono regole precise e stabilite, è possibile parlare di elementi essenziali dell’arte, ma non della prudenza; pertanto esiste un’arte speculativa, ma non una prudenza speculativa.
 
-<span class="atom-split" data-atom="005" data-title="Whether prudence takes cognizance of singulars?" data-chapter="Whether prudence takes cognizance of singulars?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether prudence takes cognizance of singulars?" data-chapter="Whether prudence takes cognizance of singulars?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence does not take cognizance of singulars. For prudence
 is in the reason, as stated above (AA[1],2). But "reason deals with [universals](/axes/universals)," according to Phys.
@@ -265,7 +276,7 @@ Risposta all’Obiezione 2: È proprio perché il numero infinito di casi singol
 
 Risposta all’Obiezione 3: Come afferma il Filosofo (Etica, VI, 8), la prudenza non risiede nei sensi esterni attraverso i quali conosciamo gli oggetti sensibili, ma nel senso interno, che viene perfezionato dalla memoria e dall’esperienza, permettendoci di giudicare rapidamente nei casi particolari. Ciò tuttavia non significa che la prudenza risieda nel senso interno come nel suo soggetto principale; essa si trova principalmente nella ragione, ma, attraverso una sorta di applicazione, si estende anche a questo senso.
 
-<span class="atom-split" data-atom="006" data-title="Whether prudence is a virtue?" data-chapter="Whether prudence is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether prudence is a virtue?" data-chapter="Whether prudence is a virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/phronesis,figures/augustine,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence is not a virtue. For [Augustine](/figures/augustine) says (De Lib. Arb. i,
 13) that "prudence is the science of what to desire and what to avoid." Now science is condivided
@@ -330,7 +341,7 @@ Risposta all’Obiezione 2: Il filosofo afferma che esista una virtù legata all
 
 Risposta all’Obiezione 3: Questa affermazione del saggio non significa che la prudenza stessa debba essere moderata, ma che la moderazione debba essere imposta ad altre cose in base ai principi della prudenza.
 
-<span class="atom-split" data-atom="007" data-title="Whether prudence is a special virtue?" data-chapter="Whether prudence is a special virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether prudence is a special virtue?" data-chapter="Whether prudence is a special virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,concepts/virtue,concepts/reason,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence is not a special virtue. For no special virtue is included
 in the definition of virtue in general, since virtue is defined (Ethic. ii, 6) "an elective [habit](/concepts/custom) that
@@ -404,7 +415,7 @@ Risposta all’Obiezione 2: Questo argomento dimostra che la prudenza aiuta tutt
 
 Risposta all’Obiezione 3: Le azioni compiute costituiscono effettivamente l’oggetto della prudenza, nella misura in cui sono considerate vere; ma rappresentano anche l’oggetto delle virtù morali, nella misura in cui sono ritenute buone.
 
-<span class="atom-split" data-atom="008" data-title="Whether prudence appoints the end to moral virtues?" data-chapter="Whether prudence appoints the end to moral virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether prudence appoints the end to moral virtues?" data-chapter="Whether prudence appoints the end to moral virtues?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence appoints the end to moral virtues. Since prudence is
 in the reason, while moral virtue is in the appetite, it seems that prudence stands in relation to moral
@@ -468,7 +479,7 @@ Ciò è sufficiente per rispondere alla Seconda Obiezione.
 
 Risposta all’Obiezione 3: La finalità riguarda le virtù morali, non nel senso che queste ne determinino l’esistenza, ma perché tendono verso quella fine stabilita dalla ragione naturale. In questo processo, le virtù morali ricevono il sostegno della prudenza, la quale prepara il terreno per la loro attuazione disponendo i mezzi necessari. Ne consegue quindi che la prudenza sia più eccellente delle virtù morali e le guidi nel loro perseguimento; tuttavia, è proprio la “synderesis” a guidare la prudenza, così come la comprensione dei principi fondamentali guida la scienza.
 
-<span class="atom-split" data-atom="009" data-title="Whether it belongs to prudence to find the mean in moral virtues?" data-chapter="Whether it belongs to prudence to find the mean in moral virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether it belongs to prudence to find the mean in moral virtues?" data-chapter="Whether it belongs to prudence to find the mean in moral virtues?" data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,concepts/virtue,concepts/reason,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it does not belong to prudence to find the mean in moral virtues.
 For the achievement of the mean is the end of moral virtues. But prudence does not appoint the
@@ -522,7 +533,7 @@ Risposta all’Obiezione 2: Proprio come un agente naturale dà forma alla mater
 
 Risposta all’Obiezione 3: La virtù morale, secondo il modo della natura, intende raggiungere la media. Tuttavia, poiché la media stessa non si trova in tutti i casi nello stesso modo, ne consegue che l’inclinazione naturale, che agisce sempre allo stesso modo, non è sufficiente per questo scopo; pertanto è necessario il governo della prudenza.
 
-<span class="atom-split" data-atom="010" data-title="Whether command is the chief act of prudence?" data-chapter="Whether command is the chief act of prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether command is the chief act of prudence?" data-chapter="Whether command is the chief act of prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that command is not the chief act of prudence. For command
 regards the good to be ensued. Now [Augustine](/figures/augustine) (De Trin. xiv, 9) states that it is an act of prudence
@@ -582,7 +593,7 @@ Risposta all’Obiezione 2: È necessario un buon consiglio affinché le cose po
 
 Risposta all’Obiezione 3: Il semplice desiderio di muoversi appartiene alla volontà; ma un comando implica non solo il desiderio di muoversi, ma anche una sorta di ordinamento, e quindi rappresenta un atto della ragione, come già detto sopra (FS, Q[17], A[1]).
 
-<span class="atom-split" data-atom="011" data-title="Whether solicitude belongs to prudence? (parte 1)" data-chapter="Whether solicitude belongs to prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether solicitude belongs to prudence? (parte 1)" data-chapter="Whether solicitude belongs to prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that solicitude does not belong to prudence. For solicitude implies
 disquiet, wherefore Isidore says (Etym. x) that "a solicitous man is a restless man." Now motion
@@ -645,7 +656,7 @@ Risposta all’Obiezione 2: Secondo il Filosofo (Etica, i, 3), “non si dovrebb
 
 Risposta all’Obiezione 3: Si dice che l’uomo nobile sia “lento e tranquillo” non perché non si preoccupi di nulla, ma perché non si preoccupa eccessivamente di molte cose; inoltre, è fiducioso nelle situazioni in cui dovrebbe esserlo, senza esagerare nella sua fiducia. Infatti, un’eccessiva paura e diffidenza sono le cause dell’ansia eccessiva, poiché la paura ci spinge a prendere precauzioni, come già detto sopra (FS, Q[44], A[2]) quando trattavamo della passione della paura.
 
-<span class="atom-split" data-atom="012" data-title="Whether solicitude belongs to prudence? (parte 2)" data-chapter="Whether solicitude belongs to prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether solicitude belongs to prudence? (parte 2)" data-chapter="Whether solicitude belongs to prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence does not extend to the governing of many, but only
 to the government of oneself. For the Philosopher says (Ethic. v, 1) that virtue directed to the
@@ -709,7 +720,7 @@ Risposta all’Obiezione 2: Chi cerca il bene del maggior numero cerca, di conse
 
 Risposta all’Obiezione 3: Anche la temperanza e la forza d’animo possono essere indirizzate al bene comune; pertanto esistono precetti di legge che le riguardano, come indicato nell’Etica V, 1. Ancor più ciò vale per la prudenza e la giustizia, poiché queste appartengono alla facoltà razionale, la quale si occupa direttamente degli aspetti universali, proprio come la parte sensibile si occupa dei singoli casi concreti.
 
-<span class="atom-split" data-atom="013" data-title="Whether prudence about one's own good is specifically the same as that which extends to the common good?" data-chapter="Whether prudence about one's own good is specifically the same as that which extends to the common good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether prudence about one's own good is specifically the same as that which extends to the common good?" data-chapter="Whether prudence about one's own good is specifically the same as that which extends to the common good?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that prudence about one's own good is the same specifically as that which
 extends to the common good. For the Philosopher says (Ethic. vi, 8) that "political prudence, and
@@ -776,7 +787,7 @@ Risposta all’Obiezione 2: Come afferma il Filosofo (Politica, III, 2), “è p
 
 Risposta all’Obiezione 3: Anche scopi diversi, uno dei quali è subordinato all’altro, diversificano i tipi di abitudini. Ad esempio, le abitudini finalizzate alla cavalleria, al servizio militare e alla vita civica differiscono tra loro in modo specifico, anche se i loro scopi sono reciprocamente subordinati. Allo stesso modo, sebbene il bene dell’individuo sia subordinato al bene del collettivo, ciò non impedisce che tali differenze rendano le abitudini distinte tra loro; ne consegue quindi che l’abitudine volta verso lo scopo ultimo sia superiore alle altre e le domini.
 
-<span class="atom-split" data-atom="014" data-title="Whether prudence is in subjects, or only in their rulers?" data-chapter="Whether prudence is in subjects, or only in their rulers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether prudence is in subjects, or only in their rulers?" data-chapter="Whether prudence is in subjects, or only in their rulers?" data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,concepts/virtue,concepts/reason,figures/aristotle"></span>
 
 Objection 1: It would seem that prudence is not in subjects but only in their rulers. For the
 Philosopher says (Polit. iii, 2) that "prudence alone is the virtue proper to a ruler, while other virtues
@@ -833,7 +844,7 @@ Risposta all’Obiezione 2: Uno schiavo non è in grado di prendere decisioni au
 
 Risposta all’Obiezione 3: Per prudenza, l’uomo comanda non solo gli altri, ma anche se stesso, nella misura in cui si ritiene che la ragione possa guidare le facoltà inferiori dell’animo.
 
-<span class="atom-split" data-atom="015" data-title="Whether prudence can be in sinners?" data-chapter="Whether prudence can be in sinners?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether prudence can be in sinners?" data-chapter="Whether prudence can be in sinners?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there can be prudence in sinners. For our Lord said (Lk. 16:8):
 "The children of this world are more prudent [Douay: 'wiser'] in their generation than the children
@@ -909,7 +920,7 @@ Risposta all’Obiezione 2: La natura della fede non consiste nella conformità 
 
 Risposta all’Obiezione 3: I peccatori possono seguire buoni consigli per un fine malvagio, o per qualche bene specifico, ma non applicano tali consigli in modo perfetto per tutta la loro vita, poiché non li mettono effettivamente in atto. Pertanto, manca loro quella prudenza che è rivolta esclusivamente al bene; eppure, secondo il Filosofo (Etica VI, 12), in loro esiste una “intelligenza”, ovvero una diligenza naturale che può essere orientata sia verso il bene che verso il male; oppure una “astuzia”, che è rivolta esclusivamente al male e che, come abbiamo già detto, rappresenta la “falsa prudenza” o la “prudenza della carne”.
 
-<span class="atom-split" data-atom="016" data-title="Whether prudence is in all who have grace?" data-chapter="Whether prudence is in all who have grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether prudence is in all who have grace?" data-chapter="Whether prudence is in all who have grace?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence is not in all who have grace. Prudence requires
 diligence, that one may foresee aright what has to be done. But many who have grace have not this
@@ -971,7 +982,7 @@ Risposta all’Obiezione 2: Coloro che hanno bisogno di essere guidati dal consi
 
 Risposta all’Obiezione 3: La prudenza acquisita deriva dall’esercizio di determinati atti; pertanto “la sua acquisizione richiede esperienza e tempo” (Etica, ii, 1). Di conseguenza, essa non può esistere nei giovani, né in termini di [abitudine](/concepts/custom) né di atto concreto. D’altra parte, la prudenza “gratuita” è dovuta a un dono divino. Ne consegue che nei bambini battezzati ma ancora privi dell’uso della ragione esiste una certa prudenza in termini di abitudine, ma non di atti concreti, proprio come negli idioti; mentre nelle persone che hanno acquisito l’uso della ragione, tale prudenza esiste anche per quanto riguarda gli atti necessari alla salvezza. Questa prudenza può essere ulteriormente sviluppata attraverso la pratica, fino a diventare perfetta, proprio come le altre virtù. Per questo motivo l’Apostolo dice (Ebrei 5:14) che “la carne cotta è per i perfetti, per coloro cioè i cui sensi sono stati allenati dall’abitudine a distinguere il bene dal male”.
 
-<span class="atom-split" data-atom="017" data-title="Whether prudence is in us by nature?" data-chapter="Whether prudence is in us by nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether prudence is in us by nature?" data-chapter="Whether prudence is in us by nature?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence is in us by nature. The Philosopher says that things
 connected with prudence "seem to be natural," namely "synesis, gnome" [*{synesis} and {gnome},
@@ -1046,7 +1057,7 @@ Risposta all’Obiezione 2: La prudenza è piuttosto caratteristica delle person
 
 Risposta all’Obiezione 3: Anche negli animali privi di intelletto esistono modi fissi per raggiungere un determinato scopo; per questo osserviamo che tutti gli animali della stessa specie agiscono in modo simile. Tuttavia, ciò è impossibile nell’uomo, a causa della sua ragione, che è in grado di comprendere i concetti universali e quindi si estende fino all’[infinito](/concepts/infinity) dei casi particolari.
 
-<span class="atom-split" data-atom="018" data-title="Whether prudence can be lost through forgetfulness?" data-chapter="Whether prudence can be lost through forgetfulness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether prudence can be lost through forgetfulness?" data-chapter="Whether prudence can be lost through forgetfulness?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence can be lost through forgetfulness. For since science
 is about necessary things, it is more certain than prudence which is about contingent matters of
@@ -1104,7 +1115,7 @@ Risposta all’Obiezione 2: L’esperienza richiesta dalla prudenza non deriva s
 
 Risposta all’Obiezione 3: La prudenza consiste principalmente non nella conoscenza dei concetti universali, ma nell’applicarli all’azione, come già detto sopra (A[3]). Pertanto, dimenticare la conoscenza dei concetti universali non distrugge la parte essenziale della prudenza, ma ne ostacola in qualche misura l’esercizio, come anche affermato in precedenza.
 
-<span class="atom-split" data-atom="019" data-title="OF THE PARTS OF PRUDENCE (ONE ARTICLE)" data-chapter="OF THE PARTS OF PRUDENCE (ONE ARTICLE)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="OF THE PARTS OF PRUDENCE (ONE ARTICLE)" data-chapter="OF THE PARTS OF PRUDENCE (ONE ARTICLE)" data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/phronesis,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the parts of prudence, under which head there are four points of inquiry:
 (1) Which are the parts of prudence?
@@ -1120,7 +1131,7 @@ Dobbiamo ora esaminare le componenti della prudenza; in questa categoria vi sono
 (3) Quali sono le sue componenti soggettive?  
 (4) Quali sono le sue componenti potenziali?
 
-<span class="atom-split" data-atom="020" data-title="Whether three parts of prudence are fittingly assigned?" data-chapter="Whether three parts of prudence are fittingly assigned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether three parts of prudence are fittingly assigned?" data-chapter="Whether three parts of prudence are fittingly assigned?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the parts of prudence are assigned unfittingly. Tully (De Invent.
 Rhet. ii, 53) assigns three parts of prudence, namely, "memory," "understanding" and "foresight."
@@ -1237,7 +1248,7 @@ Risposta all’Obiezione 4: Il comando giusto e l’uso corretto vanno sempre di
 
 Risposta all’Obiezione 5: La premura rientra nella categoria della previdenza.
 
-<span class="atom-split" data-atom="021" data-title="OF EACH QUASI-INTEGRAL PART OF PRUDENCE (EIGHT ARTICLES)" data-chapter="OF EACH QUASI-INTEGRAL PART OF PRUDENCE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="OF EACH QUASI-INTEGRAL PART OF PRUDENCE (EIGHT ARTICLES)" data-chapter="OF EACH QUASI-INTEGRAL PART OF PRUDENCE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/memory,concepts/reason"></span>
 
 We must now consider each quasi-integral part of prudence, and under this head there are eight
 points of inquiry:
@@ -1262,7 +1273,7 @@ Dobbiamo ora esaminare ciascuna delle componenti quasi-integrate della prudenza;
 (7) Prudenza;  
 (8) Cautezza.
 
-<span class="atom-split" data-atom="022" data-title="Whether memory is a part of prudence?" data-chapter="Whether memory is a part of prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether memory is a part of prudence?" data-chapter="Whether memory is a part of prudence?" data-kind="atom" data-srclang="en" data-tags="concepts/memory,concepts/phronesis,concepts/experience,concepts/soul,concepts/custom"></span>
 
 Objection 1: It would seem that memory is not a part of prudence. For memory, as the
 Philosopher proves (De Memor. et Remin. i), is in the sensitive part of the soul: whereas prudence
@@ -1333,7 +1344,7 @@ Risposta all’Obiezione 2: Proprio come l’attitudine alla prudenza è insita 
 
 Risposta all’Obiezione 3: È nostro dovere discutere, per così dire, del futuro a partire dal passato; pertanto, la memoria del passato è necessaria affinché si possano prendere buone decisioni per il futuro.
 
-<span class="atom-split" data-atom="023" data-title="Whether understanding* is a part of prudence? [*Otherwise intuition; Aristotle's word is {nous}]" data-chapter="Whether understanding* is a part of prudence? [*Otherwise intuition; Aristotle's word is {nous}]" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether understanding* is a part of prudence? [*Otherwise intuition; Aristotle's word is {nous}]" data-chapter="Whether understanding* is a part of prudence? [*Otherwise intuition; Aristotle's word is {nous}]" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that understanding is not a part of prudence. When two things are
 members of a division, one is not part of the other. But intellectual virtue is divided into
@@ -1401,7 +1412,7 @@ Risposta all’Obiezione 2: La comprensione, che è un dono dello Spirito Santo,
 
 Risposta all’Obiezione 3: La corretta valutazione di un fine specifico viene chiamata sia “comprensione”, nella misura in cui il suo oggetto è un principio, sia “intuizione”, nella misura in cui il suo oggetto è qualcosa di concreto. È ciò che intende il Filosofo quando afferma (Etica, v, 11): “Per queste cose abbiamo bisogno dell’intuizione, e questa stessa è la comprensione”. Tuttavia, questo va inteso nel senso di riferirsi non all’intuizione sensoriale che ci permette di conoscere i sensibili propri, ma all’intuizione interiore che ci consente di giudicare qualcosa di concreto.
 
-<span class="atom-split" data-atom="024" data-title="Whether docility should be accounted a part of prudence?" data-chapter="Whether docility should be accounted a part of prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether docility should be accounted a part of prudence?" data-chapter="Whether docility should be accounted a part of prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that docility should not be accounted a part of prudence. For that
 which is a necessary condition of every intellectual virtue, should not be appropriated to one of
@@ -1462,7 +1473,7 @@ Risposta all’Obiezione 2: L’uomo possiede una naturale predisposizione alla 
 
 Risposta all’Obiezione 3: Per prudenza, l’uomo stabilisce precetti non solo per gli altri, ma anche per se stesso, come già detto sopra (Q[47], A[12], ad 3). Pertanto, come affermato nell’Etica vi, 11, anche negli esseri subordinati esiste spazio per la prudenza; alla quale appartiene anche la docilità. Eppure anche gli studiosi dovrebbero essere docili in alcuni aspetti, poiché nessuno è del tutto autosufficiente in materia di prudenza, come già accennato sopra.
 
-<span class="atom-split" data-atom="025" data-title="Whether shrewdness is part of prudence?" data-chapter="Whether shrewdness is part of prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether shrewdness is part of prudence?" data-chapter="Whether shrewdness is part of prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that shrewdness is not a part of prudence. For shrewdness consists
 in easily finding the middle term for demonstrations, as stated in Poster. i, 34. Now the reasoning
@@ -1528,7 +1539,7 @@ Risposta all’Obiezione 2: Il filosofo adduce la vera ragione (Etica vi, 9) per
 
 Risposta all’Obiezione 3: Anche la retorica si occupa di questioni pratiche; pertanto nulla impedisce che lo stesso concetto appartenga sia alla retorica che alla prudenza. Tuttavia, in questo contesto il termine “congettura” viene utilizzato non solo nel senso in cui è impiegato dai retori, ma anche come riferito a qualsiasi questione nella quale l’uomo tenti di indovinare la verità.
 
-<span class="atom-split" data-atom="026" data-title="Whether reason should be reckoned a part of prudence?" data-chapter="Whether reason should be reckoned a part of prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether reason should be reckoned a part of prudence?" data-chapter="Whether reason should be reckoned a part of prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that reason should not be reckoned a part of prudence. For the
 subject of an accident is not a part thereof. But prudence is in the reason as its subject (Ethic. vi,
@@ -1654,7 +1665,7 @@ Risposta all’Obiezione 2: La speculazione riguarda cose universali e necessari
 
 Risposta all’Obiezione 3: L’ordine corretto per raggiungere un fine, che è già incluso nel concetto di previsione, richiede rettitudine nei consigli, nelle decisioni e nei comandi; senza di essa, non è possibile alcun ordine corretto per ottenere quel fine.
 
-<span class="atom-split" data-atom="027" data-title="Whether circumspection can be a part of prudence?" data-chapter="Whether circumspection can be a part of prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether circumspection can be a part of prudence?" data-chapter="Whether circumspection can be a part of prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that circumspection cannot be a part of prudence. For circumspection
 seems to signify looking at one's surroundings. But these are of infinite number, and cannot be
@@ -1712,7 +1723,7 @@ Risposta all’Obiezione 2: Le circostanze rientrano nell’ambito dell’pruden
 
 Risposta all’Obiezione 3: Proprio come spetta alla previdenza valutare ciò che per sua natura è adatto a un fine, così spetta alla circospezione considerare se tale cosa sia effettivamente idonea a quel fine, tenendo conto delle circostanze. Ora, ciascuna di queste attività presenta difficoltà proprie; pertanto, viene ritenuta una parte distinta della prudenza.
 
-<span class="atom-split" data-atom="028" data-title="Whether caution should be reckoned a part of prudence?" data-chapter="Whether caution should be reckoned a part of prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether caution should be reckoned a part of prudence?" data-chapter="Whether caution should be reckoned a part of prudence?" data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,concepts/virtue,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that caution should not be reckoned a part of prudence. For when
 no evil is possible, no caution is required. Now no man makes evil use of virtue, as [Augustine](/figures/augustine)
@@ -1750,7 +1761,7 @@ and these, since they are infinite in number, cannot be grasped by reason, nor i
 precautions against them, although by exercising prudence he is able to prepare against all the
 surprises of chance, so as to suffer less harm thereby.
 
-<span class="atom-split" data-atom="029" data-title="OF THE SUBJECTIVE PARTS OF PRUDENCE (FOUR ARTICLES)" data-chapter="OF THE SUBJECTIVE PARTS OF PRUDENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="OF THE SUBJECTIVE PARTS OF PRUDENCE (FOUR ARTICLES)" data-chapter="OF THE SUBJECTIVE PARTS OF PRUDENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must, in due sequence, consider the subjective parts of prudence. And since we have already
 spoken of the prudence with which a man rules himself (Q[47], seqq.), it remains for us to discuss
@@ -1767,7 +1778,7 @@ Dobbiamo considerare, in due fasi successive, le componenti soggettive della pru
 (2) Se l’economia politica e quella domestica rientrino tra i tipi di prudenza;  
 (3) Se anche la prudenza militare possa essere considerata tale.
 
-<span class="atom-split" data-atom="030" data-title="Whether a species of prudence is regnative?" data-chapter="Whether a species of prudence is regnative?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether a species of prudence is regnative?" data-chapter="Whether a species of prudence is regnative?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that regnative should not be reckoned a species of prudence. For
 regnative prudence is directed to the preservation of justice, since according to Ethic. v, 6 the prince
@@ -1833,7 +1844,7 @@ Risposta all’Obiezione 2: Un regno è il migliore di tutti i governi, come aff
 
 Risposta all’Obiezione 3: Il filosofo denomina “prudenza regnante” l’atto principale di un re, che è quello di emanare leggi; e sebbene ciò si applichi anche alle altre forme di governo, questo avviene soltanto nella misura in cui esse condividono alcune caratteristiche del governo regale.
 
-<span class="atom-split" data-atom="031" data-title="Whether political prudence is fittingly accounted a part of prudence?" data-chapter="Whether political prudence is fittingly accounted a part of prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether political prudence is fittingly accounted a part of prudence?" data-chapter="Whether political prudence is fittingly accounted a part of prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that political prudence is not fittingly accounted a part of prudence.
 For regnative is a part of political prudence, as stated above (A[1]). But a part should not be reckoned
@@ -1896,7 +1907,7 @@ Risposta all’Obiezione 2: Un diverso aspetto dell’oggetto considerato divers
 
 Risposta all’Obiezione 3: L’uomo si guida, per quanto riguarda il proprio bene, attraverso quella che comunemente viene chiamata “prudenza”, ma attraverso la “prudenza politica”, di cui stiamo parlando, si guida in relazione al bene comune.
 
-<span class="atom-split" data-atom="032" data-title="Whether a part of prudence should be reckoned to be domestic?" data-chapter="Whether a part of prudence should be reckoned to be domestic?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether a part of prudence should be reckoned to be domestic?" data-chapter="Whether a part of prudence should be reckoned to be domestic?" data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,concepts/virtue,figures/aristotle"></span>
 
 Objection 1: It would seem that domestic should not be reckoned a part of prudence. For,
 according to the Philosopher (Ethic. vi, 5) "prudence is directed to a good life in general": whereas
@@ -1956,7 +1967,7 @@ Risposta all’Obiezione 2: Alcuni peccatori possono essere previdenti in alcune
 
 Risposta all’Obiezione 3: Il padre, nella sua famiglia, possiede un’autorità simile a quella di un re, come indicato nell’Etica viii, 10; tuttavia non dispone del pieno potere di un re, e per questo il governo paterno non viene considerato una specie distinta di prudenza, analoga alla prudenza regnante.
 
-<span class="atom-split" data-atom="033" data-title="Whether military prudence should be reckoned a part of prudence?" data-chapter="Whether military prudence should be reckoned a part of prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether military prudence should be reckoned a part of prudence?" data-chapter="Whether military prudence should be reckoned a part of prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that military prudence should not be reckoned a part of prudence.
 For prudence is distinct from art, according to Ethic. vi, 3. Now military prudence seems to be the
@@ -2014,7 +2025,7 @@ Risposta all’Obiezione 2: Altre attività dello Stato sono volte al beneficio 
 
 Risposta all’Obiezione 3: L’esecuzione del servizio militare rientra nella sfera della forza d’animo, ma la direzione delle operazioni, soprattutto per quanto riguarda il comandante in capo, appartiene alla prudenza.
 
-<span class="atom-split" data-atom="034" data-title="OF THE VIRTUES WHICH ARE CONNECTED WITH PRUDENCE (FOUR ARTICLES)" data-chapter="OF THE VIRTUES WHICH ARE CONNECTED WITH PRUDENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="OF THE VIRTUES WHICH ARE CONNECTED WITH PRUDENCE (FOUR ARTICLES)" data-chapter="OF THE VIRTUES WHICH ARE CONNECTED WITH PRUDENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 In due sequence, we must consider the virtues that are connected with prudence, and which are
 its quasi-potential parts. Under this head there are four points of inquiry:
@@ -2035,7 +2046,7 @@ In sequenza, dobbiamo considerare le virtù collegate alla prudenza e che ne rap
 (4) Se l’{gnome} sia una virtù specifica.  
 [*Queste tre parole greche possono essere tradotte rispettivamente come le facoltà di deliberare correttamente {euboulia}, di giudicare bene secondo le leggi comuni {synesis} e di giudicare bene secondo le leggi generali {gnome}.*]
 
-<span class="atom-split" data-atom="035" data-title="Whether {euboulia} (deliberating well) is a virtue?" data-chapter="Whether {euboulia} (deliberating well) is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether {euboulia} (deliberating well) is a virtue?" data-chapter="Whether {euboulia} (deliberating well) is a virtue?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that {euboulia} (deliberating well) is not a virtue. For, according
 to [Augustine](/figures/augustine) (De Lib. Arb. ii, 18,19) "no man makes evil use of virtue." Now some make evil use
@@ -2105,7 +2116,7 @@ Risposta all’Obiezione 2: Sebbene la virtù sia essenzialmente una perfezione,
 
 Risposta all’Obiezione 3: In nessun peccatore, in quanto tale, si può trovare la {euboulia} (la capacità di prendere decisioni sagge): poiché ogni peccato è contrario all’adozione di buoni consigli. Infatti, un buon consiglio richiede non solo l’individuazione dei mezzi appropriati per raggiungere un certo scopo, ma anche altre circostanze idonee: ad esempio, il momento giusto in cui prendere una decisione, affinché non si agisca né troppo lentamente né troppo rapidamente; o il modo corretto di consultarsi con gli altri, al fine di essere fermi nelle proprie scelte. Peccatori, invece, non tengono conto di queste circostanze quando commettono peccati. D’altra parte, ogni uomo virtuoso prende buoni consigli in quelle cose che sono dirette al raggiungimento dello scopo della virtù; anche se forse non lo fa in altre questioni particolari, come quelle legate al commercio o alla guerra.
 
-<span class="atom-split" data-atom="036" data-title="Whether {euboulia} (deliberating well) is a special virtue, distinct from prudence?" data-chapter="Whether {euboulia} (deliberating well) is a special virtue, distinct from prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Whether {euboulia} (deliberating well) is a special virtue, distinct from prudence?" data-chapter="Whether {euboulia} (deliberating well) is a special virtue, distinct from prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that {euboulia} (deliberating well) is not a distinct virtue from
 prudence. For, according to the Philosopher (Ethic. vi, 5), the "prudent man is, seemingly, one who
@@ -2174,7 +2185,7 @@ Risposta all’Obiezione 2: Diversi atti sono direzionati, in gradi diversi, ver
 
 Risposta all’Obiezione 3: Anche in ambiti speculativi, la scienza dialettica, volta alla ricerca e alla scoperta, è distinta dalla scienza dimostrativa, che stabilisce la verità.
 
-<span class="atom-split" data-atom="037" data-title="Whether {synesis} (judging well according to common law) is a virtue?" data-chapter="Whether {synesis} (judging well according to common law) is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether {synesis} (judging well according to common law) is a virtue?" data-chapter="Whether {synesis} (judging well according to common law) is a virtue?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that {synesis} is not a virtue. Virtues are not in us by nature,
 according to Ethic. ii, 1. But {synesis} (judging well according to common law) is natural to some,
@@ -2252,7 +2263,7 @@ Risposta all’Obiezione 2: Negli uomini malvagi può esserci un giudizio corret
 
 Risposta all’Obiezione 3: A volte, dopo aver giudicato correttamente, ritardiamo nell’eseguire le decisioni prese, o le eseguiamo in modo negligente o irregolare. Pertanto, oltre alla virtù che permette di giudicare correttamente, è necessaria un’altra virtù fondamentale: quella che comanda con saggezza, e questa è la prudenza.
 
-<span class="atom-split" data-atom="038" data-title="Whether {gnome} (judging well according to general law) is a special virtue?" data-chapter="Whether {gnome} (judging well according to general law) is a special virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether {gnome} (judging well according to general law) is a special virtue?" data-chapter="Whether {gnome} (judging well according to general law) is a special virtue?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that {gnome} (judging well according to general law) is not a
 special virtue distinct from {synesis} (judging well according to common law). For a man is said,
@@ -2325,7 +2336,7 @@ Risposta all’Obiezione 2: Il giudizio su una cosa deve essere formato partendo
 
 Risposta all’Obiezione 3: Solo alla Provvidenza Divina spetta considerare tutte le cose che possono accadere al di fuori del corso normale degli eventi. D’altra parte, tra gli uomini, colui che è più perspicace può giudicare un numero maggiore di tali eventi attraverso la propria ragione: ciò rientra nel concetto di {gnome} (giudicare correttamente in base alle leggi generali), che indica una certa capacità di discernimento nel giudizio.
 
-<span class="atom-split" data-atom="039" data-title="OF THE GIFT OF COUNSEL (FOUR ARTICLES)" data-chapter="OF THE GIFT OF COUNSEL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="OF THE GIFT OF COUNSEL (FOUR ARTICLES)" data-chapter="OF THE GIFT OF COUNSEL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the gift of counsel which corresponds to prudence. Under this head there
 are four points of inquiry:
@@ -2342,7 +2353,7 @@ Dobbiamo ora considerare il dono del consiglio, che corrisponde alla prudenza. I
 (3) Se il dono del consiglio rimanga in cielo dopo la morte;  
 (4) Se la quinta [beatazza](/positions/beatitude), “Beati i misericordiosi”, ecc., corrisponda al dono del consiglio.
 
-<span class="atom-split" data-atom="040" data-title="Whether counsel should be reckoned among the gifts of the Holy Ghost?" data-chapter="Whether counsel should be reckoned among the gifts of the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Whether counsel should be reckoned among the gifts of the Holy Ghost?" data-chapter="Whether counsel should be reckoned among the gifts of the Holy Ghost?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that counsel should not be reckoned among the gifts of the Holy
 Ghost. The gifts of the Holy Ghost are given as a help to the virtues, according to Gregory (Moral.
@@ -2412,7 +2423,7 @@ Risposta all’Obiezione 2: Il fatto che un uomo possieda saggezza sufficiente p
 
 Risposta all’Obiezione 3: I figli di Dio sono guidati dallo Spirito Santo secondo il loro modo particolare, senza pregiudicare la loro libera volontà, che è “la facoltà della volontà e della ragione” [*Sentenze, III, D, 24]. Pertanto, il dono del consiglio è appropriato ai figli di Dio nella misura in cui la ragione viene istruita dallo Spirito Santo su ciò che dobbiamo fare.
 
-<span class="atom-split" data-atom="041" data-title="Whether the gift of counsel corresponds to the virtue of prudence?" data-chapter="Whether the gift of counsel corresponds to the virtue of prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether the gift of counsel corresponds to the virtue of prudence?" data-chapter="Whether the gift of counsel corresponds to the virtue of prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the gift of counsel does not fittingly correspond to the virtue
 of prudence. For "the highest point of that which is underneath touches that which is above," as
@@ -2474,7 +2485,7 @@ Risposta all’Obiezione 2: Il dono della conoscenza non corrisponde direttament
 
 Risposta all’Obiezione 3: Il motore che viene mosso, muove attraverso il proprio essere mosso. Pertanto, la mente umana, per il semplice fatto di essere guidata dallo Spirito Santo, è in grado di guidare se stessa e gli altri.
 
-<span class="atom-split" data-atom="042" data-title="Whether the gift of counsel remains in heaven?" data-chapter="Whether the gift of counsel remains in heaven?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether the gift of counsel remains in heaven?" data-chapter="Whether the gift of counsel remains in heaven?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the gift of counsel does not remain in heaven. For counsel is
 about what has to be done for the sake of an end. But in heaven nothing will have to be done for
@@ -2550,7 +2561,7 @@ Risposta all’Obiezione 2: Il dubbio appartiene a quel tipo di consiglio che si
 
 Risposta all’Obiezione 3: Il consiglio appartiene a Dio; non lo riceviamo da Lui, ma Lo diamo noi stessi. I santi in cielo sono conformi a Dio, poiché sono destinati ad ricevere da quella fonte da cui proviene il consiglio stesso.
 
-<span class="atom-split" data-atom="043" data-title="Whether the fifth beatitude, which is that of mercy, corresponds to the gift of counsel?" data-chapter="Whether the fifth beatitude, which is that of mercy, corresponds to the gift of counsel?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the fifth beatitude, which is that of mercy, corresponds to the gift of counsel?" data-chapter="Whether the fifth beatitude, which is that of mercy, corresponds to the gift of counsel?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the fifth [beatitude](/positions/beatitude), which is that of mercy, does not correspond
 to the gift of counsel. For all the beatitudes are acts of virtue, as stated above (FS, Q[69], A[1]).
@@ -2591,7 +2602,7 @@ knowledge is numbered among the fruits, but only such things as pertain to actio
 knowledge is the guide. Among these we find "goodness" and "benignity" which correspond to
 mercy.
 
-<span class="atom-split" data-atom="044" data-title="OF IMPRUDENCE (SIX ARTICLES)" data-chapter="OF IMPRUDENCE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="OF IMPRUDENCE (SIX ARTICLES)" data-chapter="OF IMPRUDENCE (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the vices opposed to prudence. For [Augustine](/figures/augustine) says (Contra Julian. iv,
 3): "There are vices opposed to every virtue, not only vices that are in manifest opposition to virtue,
@@ -2615,7 +2626,7 @@ Under the first head there are six points of inquiry:
 
 Dobbiamo ora considerare i vizi opposti alla prudenza. Poiché [Agostino](/figures/augustine) afferma (Contra Iuliano, iv, 3): “Esistono vizi contrari a ogni virtù; non solo quelli che sono in evidente opposizione alla virtù, come la temerarietà rispetto alla prudenza, ma anche quelli che presentano una sorta di somiglianza, sebbene falsa, con la virtù; così, contrario alla prudenza c’è l’astuzia”. Pertanto dobbiamo innanzitutto esaminare quei vizi che sono in palese opposizione alla prudenza, ovvero quelli derivanti da una carenza di prudenza o delle cose necessarie per essa; in secondo luogo, quei vici che presentano una falsa somiglianza con la prudenza, cioè quelli causati dall’abuso di tali elementi. Poiché la sollecitudine rientra tra le qualità proprie della prudenza, questa analisi si articolerà in due parti: (1) L’imprudenza; (2) La negligenza, opposta alla sollecitudine. All’interno della prima categoria esistono sei argomenti da considerare: (1) Se l’imprudenza sia un peccato; (2) Se sia un peccato specifico; (3) La precipitazione o la temerarietà; (4) L’irreflessione; (5) L’incostanza; (6) L’origine di questi vizi.
 
-<span class="atom-split" data-atom="045" data-title="Whether imprudence is a sin?" data-chapter="Whether imprudence is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether imprudence is a sin?" data-chapter="Whether imprudence is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that imprudence is not a sin. For every sin is voluntary, according
 to [Augustine](/figures/augustine) [*De Vera Relig. xiv]; whereas imprudence is not voluntary, since no man wishes to
@@ -2680,7 +2691,7 @@ Risposta all’Obiezione 2: Questo argomento considera l’imprudenza nel senso 
 
 Risposta all’Obiezione 3: Il pentimento ripristina la prudenza innata, e di conseguenza scompare la mancanza di tale prudenza; tuttavia, la prudenza acquisita non viene ripristinata in termini di abitudine, anche se viene eliminato l’atto contrario che, propriamente parlando, costituisce il peccato di imprudenza.
 
-<span class="atom-split" data-atom="046" data-title="Whether imprudence is a special sin?" data-chapter="Whether imprudence is a special sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether imprudence is a special sin?" data-chapter="Whether imprudence is a special sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that imprudence is not a special sin. For whoever sins, acts against
 right reason, i.e. against prudence. But imprudence consists in acting against prudence, as stated
@@ -2761,7 +2772,7 @@ Risposta all’Obiezione 2: Poiché la conoscenza è, per natura sua, più lonta
 
 Risposta all’Obiezione 3: Quando varie circostanze vengono utilizzate per lo stesso motivo, il genere di peccato non si moltiplica; pertanto, è lo stesso genere di peccato prendere ciò che non appartiene a uno, quando e dove non si dovrebbe farlo. Tuttavia, se esistono motivi diversi, allora si hanno anche generi di peccato diversi: ad esempio, se una persona rubasse la proprietà altrui in un luogo sacro, ciò costituirebbe il peccato del sacrilegio; mentre se qualcuno prendesse la proprietà altrui semplicemente per desiderio di possesso, si tratterebbe di avarizia. Pertanto, la mancanza di quelle cose necessarie alla prudenza non comporta una diversità di generi di peccato, salvo nel caso in cui tali circostanze riguardino atti razionali diversi, come già detto sopra.
 
-<span class="atom-split" data-atom="047" data-title="Whether precipitation is a sin included in imprudence?" data-chapter="Whether precipitation is a sin included in imprudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Whether precipitation is a sin included in imprudence?" data-chapter="Whether precipitation is a sin included in imprudence?" data-kind="atom" data-srclang="en" data-tags="concepts/memory,concepts/reason,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that precipitation is not a sin included in imprudence. Imprudence
 is opposed to the virtue of prudence; whereas precipitation is opposed to the gift of counsel, according
@@ -2828,7 +2839,7 @@ Risposta all’Obiezione 2: Si dice che le azioni siano compiute in modo imprude
 
 Risposta all’Obiezione 3: Nella ricerca della ragione è necessario prendere in considerazione molte cose; per questo motivo il Filosofo afferma (Etica, VI, 9) che “si dovrebbe essere lenti nel prendere decisioni”. Pertanto, l’affrettarsi è più contrario alla rettitudine del giudizio di quanto lo sia eccessiva lentezza, poiché quest’ultima presenta alcune somiglianze con un giudizio corretto.
 
-<span class="atom-split" data-atom="048" data-title="Whether thoughtlessness is a special sin included in prudence?" data-chapter="Whether thoughtlessness is a special sin included in prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether thoughtlessness is a special sin included in prudence?" data-chapter="Whether thoughtlessness is a special sin included in prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that thoughtlessness is not a special sin included in imprudence.
 For the [Divine law](/concepts/divine_law) does not incite us to any sin, according to Ps. 18:8, "The law of the Lord is
@@ -2890,7 +2901,7 @@ Risposta all’Obiezione 2: Tutta la riflessione su quelle cose di cui il consig
 
 Risposta all’Obiezione 3: Qui, con il termine “imprudenza” si intende qualcosa che riguarda un ambito specifico, ovvero l’azione umana. Nel caso delle azioni umane, infatti, è necessario prendere in considerazione molte più cose al fine di giungere a una valutazione corretta, rispetto ai contesti speculative, poiché le azioni riguardano sempre individui concreti.
 
-<span class="atom-split" data-atom="049" data-title="Whether inconstancy is a vice contained under prudence?" data-chapter="Whether inconstancy is a vice contained under prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Whether inconstancy is a vice contained under prudence?" data-chapter="Whether inconstancy is a vice contained under prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that inconstancy is not a vice contained under imprudence. For
 inconstancy consists seemingly in a lack of perseverance in matters of difficulty. But perseverance
@@ -2955,7 +2966,7 @@ Risposta all’Obiezione 2: L’invidia e la [ira](/concepts/anger), che sono al
 
 Risposta all’Obiezione 3: La continenza e la perseveranza sembrano non appartenere alla potenza appetitiva, ma alla ragione. Infatti, l’uomo continente soffre di cattive concupiscenze, mentre l’uomo perseverante subisce gravi dolori (il che indica una deficienza nella potenza appetitiva); tuttavia, la ragione rimane ferma nell’uomo continente contro le concupiscenze e nell’uomo perseverante contro i dolori. Pertanto, la continenza e la perseveranza sembrano essere forme di costanza che riguardano la ragione; anche all’opposto, l’incoerenza appartiene a questa stessa potenza.
 
-<span class="atom-split" data-atom="050" data-title="Whether the aforesaid vices arise from lust?" data-chapter="Whether the aforesaid vices arise from lust?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Whether the aforesaid vices arise from lust?" data-chapter="Whether the aforesaid vices arise from lust?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the aforesaid vices do not arise from lust. For inconstancy
 arises from envy, as stated above (A[5], ad 2). But envy is a distinct vice from lust.
@@ -3007,7 +3018,7 @@ Risposta all’Obiezione 2: Anche la doppiezza è qualcosa che deriva dalla luss
 
 Risposta all’Obiezione 3: I vizi carnali distruggono il giudizio della ragione ancora di più in quanto ci allontanano dalla ragione stessa.
 
-<span class="atom-split" data-atom="051" data-title="OF NEGLIGENCE (THREE ARTICLES)" data-chapter="OF NEGLIGENCE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="OF NEGLIGENCE (THREE ARTICLES)" data-chapter="OF NEGLIGENCE (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider negligence, under which head there are three points of inquiry:
 (1) Whether negligence is a special sin?
@@ -3021,7 +3032,7 @@ Dobbiamo ora considerare la negligenza; in questo ambito vi sono tre punti da es
 (2) A quale virtù si opponga;  
 (3) Se la negligenza sia un peccato mortale.
 
-<span class="atom-split" data-atom="052" data-title="Whether negligence is a special sin?" data-chapter="Whether negligence is a special sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="Whether negligence is a special sin?" data-chapter="Whether negligence is a special sin?" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/reason,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that negligence is not a special sin. For negligence is opposed to
 diligence. But diligence is required in every virtue. Therefore negligence is not a special sin.
@@ -3080,7 +3091,7 @@ Risposta all’Obiezione 2: In ogni peccato deve necessariamente esserci un dife
 
 Risposta all’Obiezione 3: In senso proprio, la questione della negligenza riguarda un atto che si dovrebbe compiere; non si tratta di un atto buono quando viene eseguito con negligenza, ma piuttosto di un atto che, a causa della negligenza, perde il proprio carattere di bene, sia che l’atto dovuto venga completamente trascurato per mancanza di attenzione, sia che venga omessa qualche circostanza necessaria al suo compimento.
 
-<span class="atom-split" data-atom="053" data-title="Whether negligence is opposed to prudence?" data-chapter="Whether negligence is opposed to prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="Whether negligence is opposed to prudence?" data-chapter="Whether negligence is opposed to prudence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that negligence is not opposed to prudence. For negligence seems
 to be the same as idleness or laziness, which belongs to sloth, according to Gregory (Moral. xxxi,
@@ -3153,7 +3164,7 @@ Risposta all’Obiezione 3: La negligenza riguarda l’atto di comandare, e anch
 
 Risposta all’Obiezione 4: La paura di Dio ci aiuta ad evitare tutti i peccati, poiché secondo Proverbi 15:27 “per la paura del Signore ognuno si astiene dal male”. Pertanto, la paura ci spinge ad evitare l’negligenza; tuttavia, non perché l’negligenza sia direttamente opposta alla paura, ma perché questa ci incoraggia ad agire con ragionevolezza. Per questo motivo è stato anche detto in precedenza (FS, Q[44], A[2]), quando trattavamo delle passioni, che “la paura ci spinge a prendere decisioni sagge”.
 
-<span class="atom-split" data-atom="054" data-title="Whether negligence can be a mortal sin?" data-chapter="Whether negligence can be a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="Whether negligence can be a mortal sin?" data-chapter="Whether negligence can be a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that negligence cannot be a mortal sin. For a gloss of Gregory
 [*Moral. ix. 34] on Job 9:28, "I feared all my works," etc. says that "too little love of God aggravates
@@ -3214,7 +3225,7 @@ Risposta all’Obiezione 2: Secondo la stessa fonte, un piccolo dono offerto con
 
 Risposta all’Obiezione 3: Quando la negligenza consiste nell’omissione di ciò che è necessario per la salvezza, essa rientra nella categoria più evidente dei peccati. Poiché i peccati che derivano da azioni interiori sono più nascosti, non furono prescritti sacrifici specifici per loro nella Legge; infatti, l’offerta di sacrifici rappresentava una sorta di confessione pubblica del peccato, mentre i peccati nascosti non dovrebbero essere confessati in pubblico.
 
-<span class="atom-split" data-atom="055" data-title="OF VICES OPPOSED TO PRUDENCE BY WAY OF RESEMBLANCE (EIGHT ARTICLES)" data-chapter="OF VICES OPPOSED TO PRUDENCE BY WAY OF RESEMBLANCE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="OF VICES OPPOSED TO PRUDENCE BY WAY OF RESEMBLANCE (EIGHT ARTICLES)" data-chapter="OF VICES OPPOSED TO PRUDENCE BY WAY OF RESEMBLANCE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider those vices opposed to prudence, which have a resemblance thereto.
 Under this head there are eight points of inquiry:
@@ -3239,7 +3250,7 @@ Dobbiamo ora considerare quei vizi che sono opposti alla prudenza e che presenta
 (7) Della preoccupazione per il futuro;  
 (8) Dell’origine di questi vizi.
 
-<span class="atom-split" data-atom="056" data-title="Whether prudence of the flesh is a sin?" data-chapter="Whether prudence of the flesh is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="Whether prudence of the flesh is a sin?" data-chapter="Whether prudence of the flesh is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence of the flesh is not a sin. For prudence is more excellent
 than the other moral virtues, since it governs them all. But no justice or temperance is sinful. Neither
@@ -3309,7 +3320,7 @@ Risposta all’Obiezione 2: La carne esiste per servire l’anima, così come la
 Risposta all’Obiezione 3: Il diavolo ci tenta non attraverso il bene dell’oggetto desiderabile, ma mediante suggestioni. Poiché la prudenza implica l’orientamento verso un fine desiderabile, non parliamo di “prudenza del diavolo”, intesa come una prudenza orientata verso un fine malvagio; è proprio in questo senso che il mondo e la carne ci tentano, quando beni mondani o carnali vengono offerti al nostro desiderio. Per questo motivo parliamo di “prudenza carnale” o “mondana”, come si legge in Luca 16:8: “I figli di questo mondo sono più saggi nella loro generazione”. L’Apostolo include tutto ciò nella “prudenza della carne”, poiché noi desideriamo le cose esterne del mondo a causa della carne stessa.  
 Possiamo anche osservare che, poiché la prudenza è in un certo senso chiamata “saggezza” (come detto sopra, Q[47], A[2], ad 1), possiamo distinguere tre tipi di prudenza, corrispondenti ai tre tipi di tentazione. Per questo motivo si legge in Giacomo 3:15 che esiste una saggezza “terrena, sensuale e demoniaca”, come spiegato in precedenza (Q[45], A[1], ad 1), quando trattavamo della saggezza stessa.
 
-<span class="atom-split" data-atom="057" data-title="Whether prudence of the flesh is a mortal sin?" data-chapter="Whether prudence of the flesh is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Whether prudence of the flesh is a mortal sin?" data-chapter="Whether prudence of the flesh is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prudence of the flesh is a mortal sin. For it is a mortal sin to
 rebel against the [Divine law](/concepts/divine_law), since this implies contempt of God. Now "the prudence [Douay:
@@ -3376,7 +3387,7 @@ Risposta all’Obiezione 2: La prudenza carnale non implica un peccato contro lo
 
 Risposta all’Obiezione 3: Ogni peccato è contrario alla prudenza, proprio come la prudenza è comune a tutte le virtù. Tuttavia, ciò non significa che ogni peccato contrario alla prudenza sia particolarmente grave; tale gravità si manifesta soltanto quando il peccato contraddice la prudenza in questioni di estrema importanza.
 
-<span class="atom-split" data-atom="058" data-title="Whether craftiness is a special sin?" data-chapter="Whether craftiness is a special sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="Whether craftiness is a special sin?" data-chapter="Whether craftiness is a special sin?" data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,figures/augustine,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that craftiness is not a special sin. For the words of Holy Writ do
 not induce anyone to sin; and yet they induce us to be crafty, according to Prov. 1:4, "To give
@@ -3438,7 +3449,7 @@ Risposta all’Obiezione 2: L’astuzia può essere utilizzata sia per un fine b
 
 Risposta all’Obiezione 3: Con “prudenza mondana”, Gregorio intendeva tutto ciò che può rientrare nella categoria della falsa prudenza; quindi includeva anche l’astuzia.
 
-<span class="atom-split" data-atom="059" data-title="Whether guile is a sin pertaining to craftiness?" data-chapter="Whether guile is a sin pertaining to craftiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="Whether guile is a sin pertaining to craftiness?" data-chapter="Whether guile is a sin pertaining to craftiness?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that guile is not a sin pertaining to craftiness. For sin, especially
 mortal, has no place in perfect men. Yet a certain guile is to be found in them, according to 2 Cor.
@@ -3480,7 +3491,7 @@ of attaining his purpose, and for the most part he devises deceitful ways, where
 to obtain his end. Nevertheless it happens sometimes that evil is done openly and by violence
 without craftiness and guile; but as this is more difficult, it is of less frequent occurrence.
 
-<span class="atom-split" data-atom="060" data-title="Whether fraud pertains to craftiness?" data-chapter="Whether fraud pertains to craftiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether fraud pertains to craftiness?" data-chapter="Whether fraud pertains to craftiness?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fraud does not pertain to craftiness. For a man does not deserve
 praise if he allows himself to be deceived, which is the object of craftiness; and yet a man deserves
@@ -3490,7 +3501,7 @@ yourselves to be defrauded?" Therefore fraud does not belong to craftiness.
 Objection 2: Further, fraud seems to consist in unlawfully taking or receiving external things,
 for it is written (Acts 5:1) that "a certain man named Ananias with Saphira his wife, sold a piece
 of land, and by fraud kept back part of the price of the land." Now it pertains to injustice or illiberality
-to take possession of or retain external things unjustly. Therefore fraud does not belong to craftiness
+to take [possession](/concepts/property) of or retain external things unjustly. Therefore fraud does not belong to craftiness
 which is opposed to prudence.
 
 Objection 3: Further, no man employs craftiness against himself. But the frauds of some are
@@ -3536,7 +3547,7 @@ Risposta all’Obiezione 2: L’esecuzione dell’astuzia può avvenire attraver
 
 Risposta all’Obiezione 3: Coloro che commettono frodi non intendono mai nuocere a se stessi o alle proprie anime; è attraverso il giusto giudizio di Dio che ciò che progettano contro gli altri si ritorna contro di loro, come recita il Salmo 7:16: “È caduto nella fossa che stesso aveva scavato”.
 
-<span class="atom-split" data-atom="061" data-title="Whether it is lawful to be solicitous about temporal matters?" data-chapter="Whether it is lawful to be solicitous about temporal matters?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Whether it is lawful to be solicitous about temporal matters?" data-chapter="Whether it is lawful to be solicitous about temporal matters?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem lawful to be solicitous about temporal matters. Because a superior
 should be solicitous for his subjects, according to  Rom. 12:8, "He that ruleth, with solicitude."
@@ -3606,7 +3617,7 @@ Risposta all’Obiezione 2: L’ansia di un uomo che guadagna il proprio sostent
 
 Risposta all’Obiezione 3: Nelle opere di misericordia, la cura per le cose temporali è rivolta alla carità come suo fine; pertanto non è considerata illecita, a meno che non sia eccessiva.
 
-<span class="atom-split" data-atom="062" data-title="Whether we should be solicitous about the future?" data-chapter="Whether we should be solicitous about the future?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="Whether we should be solicitous about the future?" data-chapter="Whether we should be solicitous about the future?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we should be solicitous about the future. For it is written (Prov.
 6:6-8): "Go to the ant, O sluggard, and consider her ways and learn wisdom; which, although she
@@ -3671,7 +3682,7 @@ Risposta all’Obiezione 2: Una certa previsione del futuro rientra nell’ambit
 
 Risposta all’Obiezione 3: Come afferma [Agostino](/figures/augustine) (De Serm. Dom. in Monte ii, 17), “quando vediamo un servo di Dio preoccuparsi affinché non gli manchino queste cose necessarie, non dobbiamo giudicarlo ansioso per il domani; infatti anche Nostro Signore, a nostro esempio, possedeva una borsa. Leggiamo negli Atti degli Apostoli che essi procuravano i mezzi di sussistenza necessari in previsione del futuro, a causa di una minaccia di carestia. Pertanto, Nostro Signore non condanna coloro che, secondo le consuetudini umane, si provvedono di tali cose, ma coloro che si oppongono a Dio per il loro possesso”.
 
-<span class="atom-split" data-atom="063" data-title="Whether these vices arise from covetousness?" data-chapter="Whether these vices arise from covetousness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether these vices arise from covetousness?" data-chapter="Whether these vices arise from covetousness?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that these vices do not arise from covetousness. As stated above
 (Q[43], A[6]) lust is the chief cause of lack of rectitude in the reason. Now these vices are opposed
@@ -3735,7 +3746,7 @@ Risposta all’Obiezione 2: Agire con stratagemmi sembra essere un atto di pusil
 
 Risposta all’Obiezione 3: L’azione dell’ira è improvvisa; perciò avviene in modo precipitoso e senza riflessione, al contrario di quanto accade nell’uso dei suddetti vizi, i quali, sebbene li pratichino in modo irragionevole, richiedono comunque un certo piano. Il fatto che le persone utilizzino strategie per compiere omicidi non deriva dall’ira, ma piuttosto dall’odio, poiché l’uomo arrabbiato desidera causare danno in modo palese, come afferma il Filosofo (Retorica ii, 2,3) [*Cfr. Etica vii, 6*].
 
-<span class="atom-split" data-atom="064" data-title="OF THE PRECEPTS RELATING TO PRUDENCE (TWO ARTICLES)" data-chapter="OF THE PRECEPTS RELATING TO PRUDENCE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="OF THE PRECEPTS RELATING TO PRUDENCE (TWO ARTICLES)" data-chapter="OF THE PRECEPTS RELATING TO PRUDENCE (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the precepts relating to prudence, under which head there are two points
 of inquiry:
@@ -3748,7 +3759,7 @@ Dobbiamo ora esaminare i precetti relativi alla prudenza; in questa categoria vi
 (1) I precetti stessi della prudenza;  
 (2) I precetti relativi ai vizi opposti alla prudenza.
 
-<span class="atom-split" data-atom="065" data-title="Whether the precepts of the decalogue should have included a precept of prudence?" data-chapter="Whether the precepts of the decalogue should have included a precept of prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Whether the precepts of the decalogue should have included a precept of prudence?" data-chapter="Whether the precepts of the decalogue should have included a precept of prudence?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/justice,concepts/divine_law,concepts/phronesis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the precepts of the decalogue should have included a precept
 of prudence. For the chief precepts should include a precept of the chief virtue. Now the chief
@@ -3807,7 +3818,7 @@ Risposta all’Obiezione 2: L’insegnamento del Vangelo è la dottrina della pe
 
 Risposta all’Obiezione 3: Proprio come il resto dell’insegnamento dell’Antico Testamento è rivolto ai precetti del Decalogo come suo fine, così anche l’uomo doveva essere istruito dalle lezioni successive dell’Antico Testamento riguardo all’atto di prudenza, che si concentra sui mezzi necessari per raggiungere tale scopo.
 
-<span class="atom-split" data-atom="066" data-title="Whether the prohibitive precepts relating to the vices opposed to prudence are fittingly propounded in the Old Law?" data-chapter="Whether the prohibitive precepts relating to the vices opposed to prudence are fittingly propounded in the Old Law?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Whether the prohibitive precepts relating to the vices opposed to prudence are fittingly propounded in the Old Law?" data-chapter="Whether the prohibitive precepts relating to the vices opposed to prudence are fittingly propounded in the Old Law?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/law,concepts/justice"></span>
 
 Objection 1: It would seem that the prohibitive precepts relating to the vices opposed to prudence
 are unfittingly propounded in the [Old Law](/concepts/divine_law). For such vices as imprudence and its parts which are
@@ -3863,7 +3874,7 @@ Risposta all’Obiezione 2: Tutta l’inganno e la frode commessi in questioni d
 
 Risposta all’Obiezione 3: Tutti i precetti della Legge che riguardano gli atti di giustizia sono legati all’esercizio della prudenza; allo stesso modo, i precetti che vietano il furto, la calunnia e le pratiche commerciali fraudolente sono legati all’esercizio dell’astuzia.
 
-<span class="atom-split" data-atom="067" data-title="OF RIGHT (FOUR ARTICLES)" data-chapter="OF RIGHT (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="OF RIGHT (FOUR ARTICLES)" data-chapter="OF RIGHT (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/natural_right,positions/natural_law,concepts/justice,forms/quaestio"></span>
 
 After considering prudence we must in due sequence consider justice, the consideration of
 which will be fourfold:
@@ -3897,7 +3908,7 @@ All’interno del primo di questi ambiti, si possono individuare ulteriori quatt
 (3) Se il diritto delle nazioni coincida con il [diritto naturale](/positions/natural_right);  
 (4) Se il diritto di dominio e il diritto paterno rientrino in categorie distinte.
 
-<span class="atom-split" data-atom="068" data-title="Whether right is the object of justice?" data-chapter="Whether right is the object of justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="Whether right is the object of justice?" data-chapter="Whether right is the object of justice?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that right is not the object of justice. For the jurist Celsus says
 [*Digest. i, 1; De Just. et Jure 1] that "right is the art of goodness and equality." Now art is not the
@@ -3972,7 +3983,7 @@ Risposta all’Obiezione 2: Proprio come nell’intelletto dell’artigiano esis
 
 Risposta all’Obiezione 3: Poiché la giustizia implica uguaglianza, e poiché non possiamo offrire a Dio un rimborso equivalente, ne consegue che non possiamo rendergli un compenso perfettamente giusto. Per questo motivo, la legge divina non viene propriamente chiamata “jus”, ma “fas”, perché Dio è soddisfatto se compiamo ciò che possiamo. Tuttavia, la giustizia tende a far sì che l’uomo ripaghi Dio nel massimo delle sue possibilità, sottomettendo completamente la propria mente a Lui.
 
-<span class="atom-split" data-atom="069" data-title="Whether right is fittingly divided into natural right and positive right?" data-chapter="Whether right is fittingly divided into natural right and positive right?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="Whether right is fittingly divided into natural right and positive right?" data-chapter="Whether right is fittingly divided into natural right and positive right?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/natural_right,positions/natural_law,concepts/divine_law,figures/aristotle"></span>
 
 Objection 1: It would seem that right is not fittingly divided into [natural right](/positions/natural_right) and positive
 right. For that which is natural is unchangeable, and is the same for all. Now nothing of the kind
@@ -4042,7 +4053,7 @@ Risposta all’Obiezione 2: La volontà umana può, per consenso comune, rendere
 
 Risposta all’Obiezione 3: Il diritto divino è ciò che viene proclamato da Dio. Alcuni di questi principi sono naturalmente giusti, ma la loro giustizia rimane nascosta all’uomo; altri vengono resi giusti per decreto divino. Pertanto, il diritto divino può essere suddiviso in base a queste due categorie, proprio come avviene per il diritto umano. Il [Dio](/concepts/divine_law) comanda alcune cose perché sono buone e ne vieta altre perché sono cattive; altre ancora vengono considerate buone perché prescritte da Dio, e cattive perché proibite da Lui.
 
-<span class="atom-split" data-atom="070" data-title="Whether the right of nations is the same as the natural right?" data-chapter="Whether the right of nations is the same as the natural right?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="Whether the right of nations is the same as the natural right?" data-chapter="Whether the right of nations is the same as the natural right?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the right of nations is the same as the [natural right](/positions/natural_right). For all men
 do not agree save in that which is natural to them. Now all men agree in the right of nations; since
@@ -4106,7 +4117,7 @@ Risposta all’Obiezione 2: Considerato in modo assoluto, il fatto che questo pa
 
 Risposta all’Obiezione 3: Poiché la ragione naturale prescrive ciò che è in linea con i diritti delle nazioni, implicando quindi un’uguaglianza di base, ne consegue che tali norme non necessitano di istituzioni speciali, poiché sono già stabilite dalla stessa ragione naturale, come affermato dall’autorità citata sopra.
 
-<span class="atom-split" data-atom="071" data-title="Whether paternal right and right of dominion should be distinguished as special species?" data-chapter="Whether paternal right and right of dominion should be distinguished as special species?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Whether paternal right and right of dominion should be distinguished as special species?" data-chapter="Whether paternal right and right of dominion should be distinguished as special species?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that "paternal right" and "right of dominion" should not be
 distinguished as special species. For it belongs to justice to render to each one what is his, as
@@ -4184,7 +4195,7 @@ Risposta all’Obiezione 2: Un figlio, in quanto tale, appartiene a suo padre, e
 
 Risposta all’Obiezione 3: Tutte le altre differenze tra una persona e un’altra all’interno di uno stato hanno una relazione diretta con la comunità dello stato e con il suo sovrano; pertanto, nei loro confronti esiste ciò che si può definire “giustizia” nel senso pieno del termine. Questa “giustizia”, tuttavia, si distingue in base alle diverse funzioni svolte dalle persone all’interno dello stato. Quando parliamo di diritti “militari”, “magistratizi” o “sacerdotali”, non intendiamo che tali diritti siano inferiori al concetto generale di giustizia, come avviene quando si parla di diritti “paterni” o di diritti di “dominio”. Piuttosto, ciò che rende questi diritti specifici è il fatto che ciascuna categoria sociale ha diritti propri in relazione alla funzione particolare che svolge all’interno dello stato.
 
-<span class="atom-split" data-atom="072" data-title="OF JUSTICE (TWELVE ARTICLES)" data-chapter="OF JUSTICE (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="OF JUSTICE (TWELVE ARTICLES)" data-chapter="OF JUSTICE (TWELVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider justice. Under this head there are twelve points of inquiry:
 (1) What is justice?
@@ -4216,7 +4227,7 @@ Dobbiamo ora considerare la giustizia. In questo ambito vi sono dodici punti da 
 (11) L’atto di giustizia consiste nel restituire a ciascuno ciò che gli appartiene?  
 (12) La giustizia è la principale tra le virtù morali?
 
-<span class="atom-split" data-atom="073" data-title="Whether justice is fittingly defined as being the perpetual and constant will to render to each one his right?" data-chapter="Whether justice is fittingly defined as being the perpetual and constant will to render to each one his right?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Whether justice is fittingly defined as being the perpetual and constant will to render to each one his right?" data-chapter="Whether justice is fittingly defined as being the perpetual and constant will to render to each one his right?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that lawyers have unfittingly defined justice as being "the perpetual
 and constant will to render to each one his right" [*Digest. i, 1; De Just. et Jure 10]. For, according
@@ -4316,7 +4327,7 @@ Risposta all’Obiezione 5: Un giudice restituisce a ciascuno ciò che gli appar
 
 Risposta all’Obiezione 6: Proprio come l’amore per Dio include l’amore per il prossimo, come detto sopra (Q[25], A[1]), allo stesso modo il servizio a Dio consiste nel restituire a ciascuno ciò che gli spetta.
 
-<span class="atom-split" data-atom="074" data-title="Whether justice is always towards one another?" data-chapter="Whether justice is always towards one another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="Whether justice is always towards one another?" data-chapter="Whether justice is always towards one another?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,figures/augustine,figures/cicero,figures/aristotle"></span>
 
 Objection 1: It would seem that justice is not always towards another. For the Apostle says
 (Rom. 3:22) that "the justice of God is by faith of Jesus Christ." Now faith does not concern the
@@ -4390,7 +4401,7 @@ Risposta all’Obiezione 3: La giustizia di Dio esiste fin dall’[eternità](/p
 
 Risposta all’Obiezione 4: Le relazioni dell’uomo con se stesso vengono sufficientemente rettificate attraverso la moderazione delle passioni e l’esercizio delle altre virtù morali. Tuttavia, le sue relazioni con gli altri richiedono una correzione particolare, non solo in relazione all’agente che compie tali azioni, ma anche in relazione alla persona verso cui esse sono dirette. Pertanto, per queste relazioni esiste una virtù specifica, e questa è la giustizia.
 
-<span class="atom-split" data-atom="075" data-title="Whether justice is a virtue?" data-chapter="Whether justice is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Whether justice is a virtue?" data-chapter="Whether justice is a virtue?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that justice is not a virtue. For it is written (Lk. 17:10): "When you
 shall have done all these things that are commanded you, say: We are unprofitable servants; we
@@ -4454,7 +4465,7 @@ Risposta all’Obiezione 2: La necessità è di due tipi. Uno deriva dalla “co
 
 Risposta all’Obiezione 3: La giustizia riguarda le cose esterne, non nel senso di crearle – questo spetta all’arte – ma nell’uso che ne facciamo nelle nostre relazioni con gli altri uomini.
 
-<span class="atom-split" data-atom="076" data-title="Whether justice is in the will as its subject?" data-chapter="Whether justice is in the will as its subject?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Whether justice is in the will as its subject?" data-chapter="Whether justice is in the will as its subject?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/will,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that justice is not in the will as its subject. For justice is sometimes
 called truth. But truth is not in the will, but in the intellect. Therefore justice is not in the will as its
@@ -4517,7 +4528,7 @@ Risposta all’Obiezione 2: La volontà si dirige verso il proprio oggetto sulla
 
 Risposta all’Obiezione 3: Non solo le parti irascibili e concupiscibili sono “razionali per partecipazione”, ma l’intera facoltà appetitiva, come affermato nell’Etica I, 13, poiché ogni appetito è soggetto alla ragione. Ora, la volontà appartiene alla facoltà appetitiva; pertanto può essere oggetto di virtù morale.
 
-<span class="atom-split" data-atom="077" data-title="Whether justice is a general virtue?" data-chapter="Whether justice is a general virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="Whether justice is a general virtue?" data-chapter="Whether justice is a general virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/virtue,concepts/law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that justice is not a general virtue. For justice is specified with the
 other virtues, according to Wis. 8:7, "She teacheth temperance and prudence, and justice, and
@@ -4581,7 +4592,7 @@ Risposta all’Obiezione 2: La temperanza e la forza d’animo appartengono all�
 
 Risposta all’Obiezione 3: Le cose riferibili a sé stessi possono essere riferite anche ad altri, soprattutto in relazione al bene comune. Pertanto, la giustizia legale, nella misura in cui mira al bene comune, può essere considerata una virtù generale; allo stesso modo, l’ingiustizia può essere definita un peccato generale. Da ciò deriva la scritta di 1 Giovanni 3:4, secondo cui “tutto il peccato è iniquità”.
 
-<span class="atom-split" data-atom="078" data-title="Whether justice, as a general virtue, is essentially the same as all virtue?" data-chapter="Whether justice, as a general virtue, is essentially the same as all virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="Whether justice, as a general virtue, is essentially the same as all virtue?" data-chapter="Whether justice, as a general virtue, is essentially the same as all virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/virtue,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that justice, as a general virtue, is essentially the same as all virtue.
 For the Philosopher says (Ethic. v, 1) that "virtue and legal justice are the same as all virtue, but
@@ -4661,7 +4672,7 @@ Risposta all’Obiezione 3: Questo argomento considera ancora una volta la giust
 
 Risposta all’Obiezione 4: Ogni virtù, intesa in senso stretto, dirige il proprio agire verso lo scopo specifico che le è proprio; il fatto che talvolta o sempre indirizzi anche verso uno scopo ulteriore non rientra nella natura stessa di quella virtù, poiché per farlo necessita di un’altra virtù più elevata. Pertanto deve esistere una virtù suprema, essenzialmente distinta da tutte le altre, che indirizzi tutte le virtù verso il bene comune; e questa virtù è la giustizia legale.
 
-<span class="atom-split" data-atom="079" data-title="Whether there is a particular besides a general justice?" data-chapter="Whether there is a particular besides a general justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="Whether there is a particular besides a general justice?" data-chapter="Whether there is a particular besides a general justice?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is not a particular besides a general justice. For there is
 nothing superfluous in the virtues, as neither is there in nature. Now general justice directs man
@@ -4725,7 +4736,7 @@ Risposta all’Obiezione 2: Il bene comune del regno e il bene particolare dell�
 
 Risposta all’Obiezione 3: La comunità familiare, secondo il Filosofo (Politica I, 2), si distingue per una triplice forma di relazione; cioè quella tra “marito e moglie”, “padre e figlio”, “padrone e schiavo”. In ognuna di queste relazioni, una persona è, in qualche modo, parte dell’altra. Pertanto, tra tali persone non esiste semplicemente giustizia, ma un tipo specifico di giustizia, ovvero la “giustizia domestica”, come affermato nell’Etica V, 6.
 
-<span class="atom-split" data-atom="080" data-title="Whether particular justice has a special matter?" data-chapter="Whether particular justice has a special matter?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="Whether particular justice has a special matter?" data-chapter="Whether particular justice has a special matter?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that particular justice has no special matter. Because a gloss on
 Gn. 2:14, "The fourth river is Euphrates," says: "Euphrates signifies 'fruitful'; nor is it stated through
@@ -4791,7 +4802,7 @@ Risposta all’Obiezione 2: Come già detto sopra (FS, Q[61], AA[3],4), le virt�
 
 Risposta all’Obiezione 3: Le passioni interne di un uomo, che fanno parte della sfera morale, non sono in sé dirette verso un altro uomo, il che costituisce la specificità stessa della giustizia; tuttavia i loro effetti, cioè le azioni esterne, possono essere rivolti verso un altro uomo. Pertanto, da ciò non consegue affatto che la materia della giustizia sia di natura generale.
 
-<span class="atom-split" data-atom="081" data-title="Whether justice is about the passions?" data-chapter="Whether justice is about the passions?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether justice is about the passions?" data-chapter="Whether justice is about the passions?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that justice is about the passions. For the Philosopher says (Ethic.
 ii, 3) that "moral virtue is about pleasure and pain." Now pleasure or delight, and pain are passions,
@@ -4801,7 +4812,7 @@ passions. Therefore justice, being a moral virtue, is about the passions.
 Objection 2: Further, justice is the means of rectifying a man's operations in relation to another
 man. Now such like operations cannot be rectified unless the passions be rectified, because it is
 owing to disorder of the passions that there is disorder in the aforesaid operations: thus sexual lust
-leads to adultery, and overmuch love of money leads to theft. Therefore justice must needs be about
+leads to adultery, and overmuch love of [money](/concepts/money) leads to theft. Therefore justice must needs be about
 the passions.
 
 Objection 3: Further, even as particular justice is towards another person so is legal justice.
@@ -4864,7 +4875,7 @@ Risposta all’Obiezione 2: Le azioni esterne sono, per così dire, tra cose est
 
 Risposta all’Obiezione 3: Il bene comune è lo scopo di ogni singolo membro di una comunità, proprio come il bene del tutto è lo scopo di ciascuna sua parte. D’altra parte, il bene di un individuo non è lo scopo di un altro individuo; pertanto la giustizia legale, che mira al bene comune, è in grado di estendersi maggiormente alle passioni interne che influenzano l’uomo, rispetto alla giustizia particolare, che si rivolge al bene di un altro individuo. Sebbene la giustizia legale si applichi principalmente ad altre virtù per quanto riguarda le loro azioni esterne – ossia quando “la legge ci comanda di compiere le azioni di una persona coraggiosa, di una persona temperata, o di una persona gentile” (Etica, v, 5) – essa riesce comunque ad influenzare profondamente il comportamento umano anche a livello interno.
 
-<span class="atom-split" data-atom="082" data-title="Whether the mean of justice is the real mean?" data-chapter="Whether the mean of justice is the real mean?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Whether the mean of justice is the real mean?" data-chapter="Whether the mean of justice is the real mean?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the mean of justice is not the real mean. For the generic nature
 remains entire in each species. Now moral virtue is defined (Ethic. ii, 6) to be "an elective [habit](/concepts/custom)
@@ -4930,7 +4941,7 @@ Risposta all’Obiezione 2: Possiamo parlare di una cosa come buona in due modi 
 
 Risposta all’Obiezione 3: Il danno arrecato ha una portata diversa per un principe rispetto a quella che ha per una persona comune; pertanto, ogni tipo di danno richiede che venga compensato con la vendetta in modi differenti. Ciò implica una diversità reale, e non soltanto razionale.
 
-<span class="atom-split" data-atom="083" data-title="Whether the act of justice is to render to each one his own?" data-chapter="Whether the act of justice is to render to each one his own?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Whether the act of justice is to render to each one his own?" data-chapter="Whether the act of justice is to render to each one his own?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the act of justice is not to render to each one his own. For
 [Augustine](/figures/augustine) (De Trin. xiv, 9) ascribes to justice the act of succoring the needy. Now in succoring the
@@ -4968,7 +4979,7 @@ of things, such as buying and selling, wherein those expressions are properly em
 they are transferred to all other matters of justice. The same applies to the rendering to each one of
 what is his own.
 
-<span class="atom-split" data-atom="084" data-title="Whether justice stands foremost among all moral virtues?" data-chapter="Whether justice stands foremost among all moral virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Whether justice stands foremost among all moral virtues?" data-chapter="Whether justice stands foremost among all moral virtues?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that justice does not stand foremost among all the moral virtues.
 Because it belongs to justice to render to each one what is his, whereas it belongs to liberality to
@@ -5032,7 +5043,7 @@ Risposta all’Obiezione 2: Quando la magnanimità viene unita alla giustizia, e
 
 Risposta all’Obiezione 3: Sebbene la forza d’animo riguardi le cose più difficili, essa non riguarda necessariamente quelle migliori; infatti è utile soltanto in tempo di guerra, mentre la giustizia è utile sia in tempo di guerra che in tempo di pace, come già detto.
 
-<span class="atom-split" data-atom="085" data-title="OF INJUSTICE (FOUR ARTICLES)" data-chapter="OF INJUSTICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="OF INJUSTICE (FOUR ARTICLES)" data-chapter="OF INJUSTICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider injustice, under which head there are four points of inquiry:
 (1) Whether injustice is a special vice?
@@ -5048,7 +5059,7 @@ Dobbiamo ora considerare l’ingiustizia; in questo ambito vi sono quattro punti
 (3) Se si possa subire volontariamente l’ingiustizia.  
 (4) Se l’ingiustizia, considerata nel suo genere, costituisca un peccato mortale.
 
-<span class="atom-split" data-atom="086" data-title="Whether injustice is a special virtue?" data-chapter="Whether injustice is a special virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="Whether injustice is a special virtue?" data-chapter="Whether injustice is a special virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/virtue,concepts/will,figures/augustine"></span>
 
 Objection 1: It would seem that injustice is not a special vice. For it is written (1 Jn. 3:4): "All
 sin is iniquity [*Vulg.: 'Whosoever committeth sin, committeth also iniquity; and sin is iniquity']."
@@ -5106,7 +5117,7 @@ Risposta all’Obiezione 2: Anche la giustizia particolare è, in modo indiretto
 
 Risposta all’Obiezione 3: La volontà, come la ragione, si estende a tutte le questioni morali, cioè alle passioni e a quelle azioni esterne che riguardano un’altra persona. D’altro canto, la giustizia perfeziona la volontà esclusivamente nel punto in cui questa si estende ad azioni che coinvolgono un’altra persona; lo stesso vale per l’ingiustizia.
 
-<span class="atom-split" data-atom="087" data-title="Whether a man is called unjust through doing an unjust thing?" data-chapter="Whether a man is called unjust through doing an unjust thing?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="Whether a man is called unjust through doing an unjust thing?" data-chapter="Whether a man is called unjust through doing an unjust thing?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/anger,concepts/virtue,figures/aristotle"></span>
 
 Objection 1: It would seem that a man is called unjust through doing an unjust thing. For habits
 are specified by their objects, as stated above (FS, Q[54], A[2]). Now the proper object of justice
@@ -5177,7 +5188,7 @@ Risposta all’Obiezione 2: Non è facile per nessuno compiere un atto ingiusto 
 
 Risposta all’Obiezione 3: L’oggetto della temperanza non è qualcosa di stabilito esternamente, come avviene per l’oggetto della giustizia; l’oggetto della temperanza, cioè ciò che deve essere praticato in modo moderato, dipende interamente dalla proporzione rispetto alle caratteristiche personali dell’individuo. Pertanto, ciò che è accidentale o non intenzionale non può essere considerato moderato, né materialmente né formalmente; allo stesso modo, non può nemmeno essere definito eccessivo. In questo senso esiste una differenza tra la giustizia e le altre virtù morali; tuttavia, per quanto riguarda la proporzione tra l’azione concreta e l’abitudine che ne deriva, vi è somiglianza in tutti gli aspetti.
 
-<span class="atom-split" data-atom="088" data-title="Whether we can suffer injustice willingly?" data-chapter="Whether we can suffer injustice willingly?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="088" data-title="Whether we can suffer injustice willingly?" data-chapter="Whether we can suffer injustice willingly?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/will,concepts/state,concepts/human_law,concepts/divine_law"></span>
 
 Objection 1: It would seem that one can suffer injustice willingly. For injustice is inequality,
 as stated above (A[2]). Now a man by injuring himself, departs from equality, even as by injuring
@@ -5251,7 +5262,7 @@ Risposta all’Obiezione 2: Un individuo può essere considerato in due modi. Pr
 
 Risposta all’Obiezione 3: Il soffrire è l’effetto di un’azione esterna. Nel caso dell’atto di compiere o subire ingiustizia, l’elemento materiale consiste nell’azione stessa, considerata in sé, come detto sopra (A[2]); l’elemento formale ed essenziale, invece, riguarda la volontà del soggetto che agisce e di quello che soffre, sempre secondo quanto affermato in precedenza (A[2]). Pertanto, possiamo affermare che l’ingiustizia subita da una persona e l’ingiustizia commessa da un’altra si accompagnano sempre a vicenda, nel senso materiale. Tuttavia, se consideriamo il concetto in senso formale, un uomo può compiere un atto ingiusto con l’intenzione di farlo, ma l’altra persona potrebbe non soffrire affatto, poiché subisce quel dolore volontariamente; d’altro canto, un uomo può anche subire un’ingiustizia contro la sua volontà, mentre colui che compie l’offesa, se lo fa senza saperlo, commette un atto ingiusto soltanto in senso materiale, e non formalmente.
 
-<span class="atom-split" data-atom="089" data-title="Whether whoever does an injustice sins mortally?" data-chapter="Whether whoever does an injustice sins mortally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="089" data-title="Whether whoever does an injustice sins mortally?" data-chapter="Whether whoever does an injustice sins mortally?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/charity,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that not everyone who does an injustice sins mortally. For venial
 sin is opposed to mortal sin. Now it is sometimes a venial sin to do an injury: for the Philosopher
@@ -5308,7 +5319,7 @@ Risposta all’Obiezione 2: Chi compie un atto ingiusto in piccole cose non ragg
 
 Risposta all’Obiezione 3: I peccati che sono contrari alle altre virtù non sono sempre dannosi per un’altra persona, ma implicano uno squilibrio nelle passioni umane; pertanto non esiste alcuna analogia tra loro.
 
-<span class="atom-split" data-atom="090" data-title="OF JUDGMENT (SIX ARTICLES)" data-chapter="OF JUDGMENT (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="090" data-title="OF JUDGMENT (SIX ARTICLES)" data-chapter="OF JUDGMENT (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/law,forms/quaestio"></span>
 
 In due sequence we must consider judgment, under which head there are six points of inquiry:
 (1) Whether judgment is an act of justice?
@@ -5328,7 +5339,7 @@ In sequenza, dobbiamo considerare il concetto di giudizio, sotto il quale rientr
 (5) Il giudizio deve sempre essere emesso secondo la legge scritta?  
 (6) Il giudizio viene distorto quando viene usurpato?
 
-<span class="atom-split" data-atom="091" data-title="Whether judgment is an act of justice?" data-chapter="Whether judgment is an act of justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="091" data-title="Whether judgment is an act of justice?" data-chapter="Whether judgment is an act of justice?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that judgment is not an act of justice. The Philosopher says (Ethic.
 i, 3) that "everyone judges well of what he knows," so that judgment would seem to belong to the
@@ -5410,7 +5421,7 @@ Risposta all’Obiezione 3: Le altre virtù regolano l’uomo nei suoi rapporti 
 
 Risposta all’Obiezione 4: La giustizia, nel sovrano, è una virtù dominante che comanda e prescrive ciò che è giusto; nei sudditi, invece, essa assume la forma di una virtù esecutiva e amministrativa. Pertanto, il giudizio – che rappresenta una decisione riguardo a ciò che è giusto – appartiene alla giustizia intesa come qualità principale di colui che detiene l’autorità. [*Cfr. Q[58], A[6
 
-<span class="atom-split" data-atom="092" data-title="Whether it is lawful to judge?" data-chapter="Whether it is lawful to judge?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="092" data-title="Whether it is lawful to judge?" data-chapter="Whether it is lawful to judge?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unlawful to judge. For nothing is punished except what is unlawful.
 Now those who judge are threatened with punishment, which those who judge not will escape,
@@ -5478,7 +5489,7 @@ Risposta all’Obiezione 2: Un giudice viene nominato come servo di Dio; per que
 
 Risposta all’Obiezione 3: Coloro che sono colpevoli di gravi peccati non dovrebbero giudicare coloro che sono colpevoli di stessi o di peccati minori, come afferma Crisostomo nell’[*Hom. xxiv*] commentando le parole di Matteo 7:1: “Non giudicate”. Questo principio è ancora più valido quando tali peccati sono pubblici, poiché potrebbero generare scandalo nelle menti altrui. Tuttavia, se i peccati non sono pubblici ma nascosti, e vi sia una necessità urgente che il giudice emetta un verdetto – poiché tale è il suo dovere – egli può rimproverare o giudicare con umiltà e timore. Così afferma Agostino nel (*De Serm. Dom. in Monte* ii, 19): “Se scopriamo di essere colpevoli dello stesso peccato di un’altra persona, dovremmo piangere insieme a lui e invitarlo a lottare contro quel peccato insieme a noi”. Tuttavia, non è agendo in questo modo che una persona si condanna da sola e merita quindi di essere nuovamente condannata; piuttosto, quando condanna un altro, dimostra di meritare anch’essa la stessa condanna per lo stesso o un peccato simile.
 
-<span class="atom-split" data-atom="093" data-title="Whether it is unlawful to form a judgment from suspicions?" data-chapter="Whether it is unlawful to form a judgment from suspicions?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether it is unlawful to form a judgment from suspicions?" data-chapter="Whether it is unlawful to form a judgment from suspicions?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not unlawful to form a judgment from suspicions. For
 suspicion is seemingly an uncertain opinion about an evil, wherefore the Philosopher states (Ethic.
@@ -5557,7 +5568,7 @@ Risposta all’Obiezione 2: Già dal semplice fatto che un uomo pensi male di un
 
 Risposta all’Obiezione 3: Poiché giustizia e ingiustizia riguardano operazioni esterne, come detto sopra (Q[58], AA[8],10,11; Q[59], A[1], ad 3), il giudizio basato sul sospetto riguarda direttamente l’ingiustizia quando questa si manifesta attraverso azioni esterne; in tal caso, esso costituisce un peccato mortale, come già affermato. Il giudizio interno, invece, riguarda la giustizia, nella misura in cui è collegato al giudizio esterno, proprio come il desiderio è legato all’adulterio o la rabbia al omicidio.
 
-<span class="atom-split" data-atom="094" data-title="Whether doubts should be interpreted for the best?" data-chapter="Whether doubts should be interpreted for the best?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="Whether doubts should be interpreted for the best?" data-chapter="Whether doubts should be interpreted for the best?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that doubts should not be interpreted for the best. Because we
 should judge from what happens for the most part. But it happens for the most part that evil is done,
@@ -5630,7 +5641,7 @@ Risposta all’Obiezione 3: Si può interpretare qualcosa nel modo peggiore o ne
 In primo luogo, attraverso una sorta di ipotesi; quindi, quando dobbiamo applicare un rimedio a qualche male, sia nostro che altrui, affinché tale rimedio possa avere maggiori probabilità di funzionare efficacemente, è opportuno partire dal presupposto che il problema sia più grave di quanto in realtà non sia. Se infatti un rimedio è efficace contro un male più grave, allora lo sarà sicuramente anche contro un male minore.  
 In secondo luogo, si può interpretare qualcosa nel modo peggiore o nel modo migliore decidendo o stabilendo con certezza quale sia la sua vera natura; in questo caso, quando giudichiamo le cose, dobbiamo cercare di interpretarle così come sono realmente, mentre quando valutiamo le persone, dovremmo interpretare i loro comportamenti nel modo migliore, come già accennato sopra.
 
-<span class="atom-split" data-atom="095" data-title="Whether we should always judge according to the written law?" data-chapter="Whether we should always judge according to the written law?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="095" data-title="Whether we should always judge according to the written law?" data-chapter="Whether we should always judge according to the written law?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought not always to judge according to the written law.
 For we ought always to avoid judging unjustly. But written laws sometimes contain injustice,
@@ -5678,7 +5689,7 @@ lawgiver himself would decide otherwise; and if he had foreseen the case, he mig
 for it by law.
 This suffices for the Reply to the Third Objection.
 
-<span class="atom-split" data-atom="096" data-title="Whether judgment is rendered perverse by being usurped?" data-chapter="Whether judgment is rendered perverse by being usurped?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="Whether judgment is rendered perverse by being usurped?" data-chapter="Whether judgment is rendered perverse by being usurped?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that judgment is not rendered perverse by being usurped. For justice
 is rectitude in matters of action. Now truth is not impaired, no matter who tells it, but it may suffer
@@ -5762,7 +5773,7 @@ Risposta all’Obiezione 3: Il potere secolare è soggetto a quello spirituale, 
 
 Risposta all’Obiezione 4: Le abitudini legate alla conoscenza e alla giustizia rappresentano perfezioni individuali; pertanto la loro assenza non rende un giudizio illegittimo o usurpato, al contrario di quanto avviene in assenza di autorità pubblica che conferisca a quel giudizio forza coercitiva.
 
-<span class="atom-split" data-atom="097" data-title="OF THE PARTS OF JUSTICE (FOUR ARTICLES)" data-chapter="OF THE PARTS OF JUSTICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="OF THE PARTS OF JUSTICE (FOUR ARTICLES)" data-chapter="OF THE PARTS OF JUSTICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/virtue,schools/scholasticism"></span>
 
 We must now consider the parts of justice; (1) the subjective parts, which are the species of
 justice, i.e. distributive and commutative justice; (2) the quasi-integral parts; (3) the quasi-potential
@@ -5785,7 +5796,7 @@ All’interno della prima categoria di analisi vi sono quattro punti principali 
 (3) La materia su cui si basano queste forme di giustizia è uniforme o varia?  
 (4) In uno qualsiasi di questi tipi di giustizia, ciò che è considerato “giusto” coincide con l’azione contraria all’ingiustizia?
 
-<span class="atom-split" data-atom="098" data-title="Whether two species of justice are suitably assigned, viz. commutative and distributive?" data-chapter="Whether two species of justice are suitably assigned, viz. commutative and distributive?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="098" data-title="Whether two species of justice are suitably assigned, viz. commutative and distributive?" data-chapter="Whether two species of justice are suitably assigned, viz. commutative and distributive?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the two species of justice are unsuitably assigned, viz.
 distributive and commutative. That which is hurtful to the many cannot be a species of justice,
@@ -5873,7 +5884,7 @@ Risposta all’Obiezione 4: Il movimento riceve la sua specifica dal termine “
 
 Risposta all’Obiezione 5: La giustizia distributiva e quella commutativa differiscono non solo per quanto riguarda l’unità e la molteplicità, ma anche per i diversi tipi di doveri o obblighi; infatti, la proprietà comune è considerata un dovere verso un individuo in un certo modo, mentre la sua proprietà personale è considerata un dovere diverso.
 
-<span class="atom-split" data-atom="099" data-title="Whether the mean is to be observed in the same way in distributive as in commutative justice?" data-chapter="Whether the mean is to be observed in the same way in distributive as in commutative justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="099" data-title="Whether the mean is to be observed in the same way in distributive as in commutative justice?" data-chapter="Whether the mean is to be observed in the same way in distributive as in commutative justice?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the mean in distributive justice is to be observed in the same
 way as in commutative justice. For each of these is a kind of particular justice, as stated above
@@ -5949,7 +5960,7 @@ Risposta all’Obiezione 2: L’uguaglianza rappresenta la forma generale della 
 
 Risposta all’Obiezione 3: Nelle azioni e nelle passioni, lo status sociale di una persona influisce sulla quantità delle cose coinvolte; infatti, colpire un principe rappresenta un danno maggiore rispetto a colpire una persona comune. Pertanto, nella giustizia distributiva lo status sociale viene considerato in sé stesso, mentre nella giustizia commutativa viene preso in considerazione soltanto nel grado in cui determina una diversità nelle cose coinvolte.
 
-<span class="atom-split" data-atom="100" data-title="Whether there is a different matter for both kinds of justice?" data-chapter="Whether there is a different matter for both kinds of justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="100" data-title="Whether there is a different matter for both kinds of justice?" data-chapter="Whether there is a different matter for both kinds of justice?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/virtue,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is not a different matter for both kinds of justice. Diversity
 of matter causes diversity of virtue, as in the case of fortitude and temperance. Therefore, if
@@ -6007,7 +6018,7 @@ in many ways. First when one man simply transfers his thing to another in exchan
 thing, as happens in selling and buying. Secondly when a man transfers his thing to another, that
 the latter may have the use of it with the obligation of returning it to its owner. If he grant the use
 of a thing gratuitously, it is called "usufruct" in things that bear fruit; and simply "borrowing" on
-"loan" in things that bear no fruit, such as money, pottery, etc.; but if not even the use is granted
+"loan" in things that bear no fruit, such as [money](/concepts/money), pottery, etc.; but if not even the use is granted
 gratis, it is called "letting" or "hiring." Thirdly, a man transfers his thing with the intention of
 recovering it, not for the purpose of its use, but that it may be kept safe, as in a "deposit," or under
 some obligation, as when a man pledges his property, or when one man stands security for another.
@@ -6028,7 +6039,7 @@ Al contrario, si afferma nell’Etica, V, 2 che “un tipo di giustizia riguarda
 Rispondo che, come già detto sopra (Q[51], AA[8],10), la giustizia riguarda determinate operazioni esterne, ovvero la distribuzione e lo scambio. Queste operazioni consistono nell’uso di oggetti, persone o atti concreti: per quanto riguarda gli oggetti, ad esempio quando una persona prende o restituisce a un’altra ciò che le appartiene; per quanto riguarda le persone, quando si infligge danno alla stessa persona, sia attraverso atti violenti che offensivi, oppure mostrando rispetto verso di lei; per quanto riguarda gli atti, quando una persona richiede giustamente un lavoro da un’altra o compie essa stessa un lavoro per un’altra. Pertanto, se consideriamo come oggetto di ciascun tipo di giustizia gli elementi concreti utilizzati nelle relative operazioni, allora l’oggetto della giustizia distributiva e quello della giustizia commutativa è lo stesso: gli oggetti possono essere distribuiti dalla proprietà comune agli individui o scambiati tra persone; inoltre, esiste anche una certa distribuzione e ripartizione dei lavori faticosi. Tuttavia, se consideriamo come oggetto di entrambi i tipi di giustizia le azioni principali attraverso cui vengono utilizzate persone, oggetti o atti, allora esiste una differenza sostanziale tra loro. La giustizia distributiva riguarda la distribuzione degli oggetti, mentre la giustizia commutativa riguarda gli scambi che possono avvenire tra due persone; alcuni di questi scambi sono involontari, altri volontari. Sono involontari quando una persona utilizza contro la volontà altrui beni, persone o atti altrui, sia in modo segreto attraverso frodi che apertamente attraverso violenza. In entrambi i casi, l’offesa può essere commessa contro i beni o le persone dell’altra persona, oppure contro qualcuno legato a queste. Se l’offesa riguarda i beni dell’altra persona e viene compiuta in modo segreto, si definisce “furto”; se avviene apertamente, si definisce “rapina”. Se riguarda la persona stessa, può danneggiarne la sostanza fisica o la dignità. Per quanto riguarda la sostanza fisica, un danno può essere inflitto in modo segreto attraverso omicidio, aggressione o avvelenamento; in modo aperto, attraverso uccisione, prigionia, aggressioni o mutilazioni pubbliche. Per quanto riguarda la dignità personale, un danno può essere inflitto in modo segreto attraverso false testimonianze o diffamazioni, che privano una persona della sua reputazione; in modo aperto, attraverso accuse legali o insulti pubblici. Per quanto riguarda le relazioni personali, qualsiasi danno possa essere inflitto alla persona principale può essere esteso anche a queste relazioni: ad esempio, l’adulterio rappresenta un danno alla persona stessa di una donna, così come il far abbandonare uno schiavo al suo padrone. Lo stesso vale per altre relazioni personali. Tuttavia, l’adulterio e il far abbandonare uno schiavo sono considerati atti che danneggiano direttamente la persona; nel secondo caso, poiché lo schiavo è considerato un bene del padrone, si parla di furto. Gli scambi volontari avvengono quando una persona trasferisce volontariamente i propri beni a un’altra.
 Il destinatario non contrai alcun debito, poiché, come nel caso dei doni, si tratta di un atto di liberalità e non di giustizia. Un trasferimento volontario rientra nella sfera della giustizia solo quando comporta l’idea di debito, il che può avvenire in diversi modi: innanzitutto, quando una persona cede la propria proprietà in cambio di un’altra, come avviene nel comprare e vendere; in secondo luogo, quando una persona cede la propria proprietà affinché l’altro possa utilizzarla con l’obbligo di restituirla al possessore originale; se il trasferimento avviene gratuitamente, si parla di “usufrutto” per le cose che producono frutti, e semplicemente di “prestito” per le cose che non ne producono, come denaro o oggetti materiali; se invece nemmeno l’uso è concesso gratuitamente, si parla di “affitto”. Infine, quando una persona cede la propria proprietà con l’intenzione di recuperarla in seguito, non per utilizzarla, ma affinché venga conservata al sicuro (come in un deposito) o sotto qualche obbligo (ad esempio, quando si pone in pegno una proprietà o si garantisce qualcuno). In tutte queste situazioni, sia volontarie che involontarie, il principio alla base è sempre lo stesso: l’equità nel rimborso. Pertanto, tutte queste azioni rientrano nella stessa categoria di giustizia, ovvero la giustizia commutativa. E questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="101" data-title="Whether the just is absolutely the same as retaliation?" data-chapter="Whether the just is absolutely the same as retaliation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Whether the just is absolutely the same as retaliation?" data-chapter="Whether the just is absolutely the same as retaliation?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the just is absolutely the same as retaliation. For the judgment
 of God is absolutely just. Now the judgment of God is such that a man has to suffer in proportion
@@ -6075,7 +6086,7 @@ but also the common weal, the security of whose protection he has infringed. Nor
 be equality of passion in voluntary commutations, were one always to exchange one's chattel for
 another man's, because it might happen that the other man's chattel is much greater than our own:
 so that it becomes necessary to equalize passion and action in commutations according to a certain
-proportionate commensuration, for which purpose money was invented. Hence retaliation is in
+proportionate commensuration, for which purpose [money](/concepts/money) was invented. Hence retaliation is in
 accordance with commutative justice: but there is no place for it in distributive justice, because in
 distributive justice we do not consider the equality between thing and thing or between passion and
 action (whence the expression 'contrapassum'), but according to proportion between things and
@@ -6111,7 +6122,7 @@ Risposta all’Obiezione 2: Quando un uomo che ha servito la comunità viene ric
 
 Risposta all’Obiezione 3: Quando l’azione dannosa è volontaria, il danno stesso viene aggravato e, di conseguenza, considerato più grave. Pertanto richiede una punizione più severa come compensazione, a causa di questa differenza, che non riguarda la persona che ha compiuto l’atto, ma il danno stesso.
 
-<span class="atom-split" data-atom="102" data-title="OF RESTITUTION (EIGHT ARTICLES)" data-chapter="OF RESTITUTION (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="OF RESTITUTION (EIGHT ARTICLES)" data-chapter="OF RESTITUTION (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider restitution, under which head there are eight points of inquiry:
 (1) of what is it an act?
@@ -6136,7 +6147,7 @@ Dobbiamo ora considerare la questione della restituzione, sotto cui si individua
 (7) Esiste qualche altra persona che sia tenuta a effettuare la restituzione?  
 (8) È obbligatorio restituire immediatamente il bene preso?
 
-<span class="atom-split" data-atom="103" data-title="Whether restitution is an act of commutative justice?" data-chapter="Whether restitution is an act of commutative justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="Whether restitution is an act of commutative justice?" data-chapter="Whether restitution is an act of commutative justice?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/property,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that restitution is not an act of commutative justice. For justice
 regards the notion of what is due. Now one may restore, even as one may give, that which is not
@@ -6155,7 +6166,7 @@ On the contrary, Restitution is opposed to taking away. Now it is an act of comm
 injustice to take away what belongs to another. Therefore to restore it is an act of that justice which
 directs commutations.
 
-I answer that, To restore is seemingly the same as to reinstate a person in the possession or
+I answer that, To restore is seemingly the same as to reinstate a person in the [possession](/concepts/property) or
 dominion of his thing, so that in restitution we consider the equality of justice attending the payment
 of one thing for another, and this belongs to commutative justice. Hence restitution is an act of
 commutative justice, occasioned by one person having what belongs to another, either with his
@@ -6198,7 +6209,7 @@ Risposta all’Obiezione 2: Nel senso in cui la parola “restituzione” indica
 
 Risposta all’Obiezione 3: La compensazione viene effettuata dal distributore verso la persona a cui è stato dato meno di quanto le spettasse, attraverso il confronto diretto delle cose; quest’ultima riceve quindi una quantità maggiore in base alla differenza tra ciò che le è stato dato e ciò che le spettava: pertanto, questa forma di compensazione rientra nella categoria della giustizia commutativa.
 
-<span class="atom-split" data-atom="104" data-title="Whether restitution of what has been taken away is necessary for salvation?" data-chapter="Whether restitution of what has been taken away is necessary for salvation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="104" data-title="Whether restitution of what has been taken away is necessary for salvation?" data-chapter="Whether restitution of what has been taken away is necessary for salvation?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not necessary to restore what has been taken away. For
 that which is impossible is not necessary for salvation. But sometimes it is impossible to restore
@@ -6265,7 +6276,7 @@ certain person, and someone, for some undue cause procures its revocation, it is
 he had deprived a man of what he already possessed, and consequently he would be bound to
 compensation in equivalent, in proportion, however, to his means.
 
-<span class="atom-split" data-atom="105" data-title="Whether it suffices to restore the exact amount taken?" data-chapter="Whether it suffices to restore the exact amount taken?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="105" data-title="Whether it suffices to restore the exact amount taken?" data-chapter="Whether it suffices to restore the exact amount taken?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/law,concepts/human_law,concepts/divine_law"></span>
 
 Objection 1: It would seem that it is not sufficient to restore the exact amount taken. For it is
 written (Ex. 22:1): "If a man shall steal an ox or a sheep and kill or sell it, he shall restore five oxen
@@ -6321,7 +6332,7 @@ Risposta all’Obiezione 2: Zaccheo lo disse perché era disposto a fare di più
 
 Risposta all’Obiezione 3: Condannando l’uomo in modo giusto, il giudice può richiedere un risarcimento maggiore; eppure tale somma non era dovuta prima della sentenza.
 
-<span class="atom-split" data-atom="106" data-title="Whether a man is bound to restore what he has not taken?" data-chapter="Whether a man is bound to restore what he has not taken?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="106" data-title="Whether a man is bound to restore what he has not taken?" data-chapter="Whether a man is bound to restore what he has not taken?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/act_potency,figures/aristotle"></span>
 
 Objection 1: It would seem that a man is bound to restore what he has not taken. For he that
 has inflicted a loss on a man is bound to remove that loss. Now it happens sometimes that the loss
@@ -6381,7 +6392,7 @@ Rispondo che colui che arreca danno a un altro, apparentemente, gli toglie l’e
 
 Risposta all’Obiezione 3: Dio non ci chiede nulla se non ciò che Egli stesso ha seminato in noi. Pertanto, questa affermazione deve essere intesa come esprimendo o il pensiero vergognoso del servo pigro, che riteneva di non aver ricevuto nulla dall’altro, oppure il fatto che Dio si aspetti da noi il frutto dei doni che ci ha dato; quel frutto, infatti, proviene sia da Lui che da noi, anche se i doni stessi derivano esclusivamente da Lui.
 
-<span class="atom-split" data-atom="107" data-title="Whether restitution must always be made to the person from whom a thing has been taken?" data-chapter="Whether restitution must always be made to the person from whom a thing has been taken?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="107" data-title="Whether restitution must always be made to the person from whom a thing has been taken?" data-chapter="Whether restitution must always be made to the person from whom a thing has been taken?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that restitution need not always be made to the person from whom
 a thing has been taken. For it is not lawful to injure anyone. Now it would sometimes be injurious
@@ -6484,7 +6495,7 @@ Risposta all’Obiezione 4: Un uomo è obbligato, a partire dalla propria propri
 
 Risposta all’Obiezione 5: Esistono tre modi in cui un prelato può derubare la Chiesa delle sue proprietà. Primo, appropriandosi di beni della Chiesa che sono stati affidati a lui e non a un altro; ad esempio, se un vescovo si impossessa dei beni del capitolo ecclesiastico. In tal caso, è evidente che sia tenuto a restituirli ai loro legittimi proprietari. Secondo, trasferendo beni della Chiesa affidatigli a una terza persona (ad esempio un parente o un amico); in questo caso deve comunque restituire tali beni alla Chiesa e tenerli sotto la propria custodia, affinché possano essere consegnati al suo successore. Terzo, un prelato può anche semplicemente intendere di appropriarsi dei beni della Chiesa, considerandoli propri e non in nome della Chiesa; in tal caso deve rinunciare a tale intenzione per effettuare la restituzione dovuta.
 
-<span class="atom-split" data-atom="108" data-title="Whether he that has taken a thing is always bound to restitution?" data-chapter="Whether he that has taken a thing is always bound to restitution?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="108" data-title="Whether he that has taken a thing is always bound to restitution?" data-chapter="Whether he that has taken a thing is always bound to restitution?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that he who has taken a thing is not always bound to restore it.
 Restitution re-establishes the equality of justice, by taking away from him that has more and giving
@@ -6505,7 +6516,7 @@ satisfaction. Therefore he that has taken a thing is bound to restore it.
 
 I answer that, With regard to a man who has taken another's property, two points must be
 considered: the thing taken, and the taking. By reason of the thing taken, he is bound to restore it
-as long as he has it in his possession, since the thing that he has in addition to what is his, should
+as long as he has it in his [possession](/concepts/property), since the thing that he has in addition to what is his, should
 be taken away from him, and given to him who lacks it according to the form of commutative
 justice. On the other hand, the taking of the thing that is another's property, may be threefold. For
 sometimes it is injurious, i.e. against the will of the owner, as in theft and robbery: in which case
@@ -6542,7 +6553,7 @@ he has received sufficient compensation from one, the others are not bound to an
 in his regard: rather ought they to refund the person who has made restitution, who, nevertheless,
 may excuse them from so doing.
 
-<span class="atom-split" data-atom="109" data-title="Whether restitution is binding on those who have not taken?" data-chapter="Whether restitution is binding on those who have not taken?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="109" data-title="Whether restitution is binding on those who have not taken?" data-chapter="Whether restitution is binding on those who have not taken?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/justice,concepts/law,schools/scholasticism"></span>
 
 Objection 1: It would seem that restitution is not binding on those who have not taken. For
 restitution is a punishment of the taker. Now none should be punished except the one who sinned.
@@ -6598,7 +6609,7 @@ way whatever.
 Reply to Objection 2: He is bound chiefly to restitution, who is the principal in the deed; first
 of all, the "commander"; secondly, the "executor," and in due sequence, the others: yet so that, if
 one of them make restitution, another is not bound to make restitution to the same person. Yet those
-who are principals in the deed, and who took possession of the thing, are bound to compensate
+who are principals in the deed, and who took [possession](/concepts/property) of the thing, are bound to compensate
 those who have already made restitution. When a man commands an unjust taking that does not
 follow, no restitution has to be made, since its end is chiefly to restore the property of the person
 who has been unjustly injured.
@@ -6626,7 +6637,7 @@ Risposta all’Obiezione 2: Chi è il soggetto principale dell’atto è princip
 
 Risposta all’Obiezione 3: Chi non denuncia un ladro o non lo contrasta né lo rimprovera non è sempre tenuto a restituire il maltolto, ma solo quando ne è obbligato in virtù della sua funzione: come nel caso dei principi terreni, i quali non corrono alcun grave pericolo nel farlo; poiché sono investiti di autorità pubblica proprio al fine di mantenere la giustizia.
 
-<span class="atom-split" data-atom="110" data-title="Whether a man is bound to immediate restitution, or may he put it off?" data-chapter="Whether a man is bound to immediate restitution, or may he put it off?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="110" data-title="Whether a man is bound to immediate restitution, or may he put it off?" data-chapter="Whether a man is bound to immediate restitution, or may he put it off?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/property,concepts/virtue"></span>
 
 Objection 1: It would seem that a man is not bound to immediate restitution, and can lawfully
 delay to restore. For affirmative precepts do not bind for always. Now the necessity of making
@@ -6686,7 +6697,7 @@ Risposta all’Obiezione 2: Quando qualcuno non è in grado di restituire immedi
 
 Risposta all’Obiezione 3: Ogni volta che l’omissione di una circostanza è contraria alla virtù, tale circostanza deve essere considerata come obbligatoria e dobbiamo assolutamente attenerci ad essa; inoltre, poiché il ritardo nella restituzione comporta un peccato di detenzione ingiusta, che è contrario a una detenzione giusta, è logico concludere che il termine per la restituzione sia immediato. Vizi contrari alla giustizia distributiva (Q[63])
 
-<span class="atom-split" data-atom="111" data-title="OF RESPECT OF PERSONS (FOUR ARTICLES)" data-chapter="OF RESPECT OF PERSONS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="111" data-title="OF RESPECT OF PERSONS (FOUR ARTICLES)" data-chapter="OF RESPECT OF PERSONS (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the vices opposed to the aforesaid parts of justice. First we shall consider
 respect of persons which is opposed to distributive justice; secondly we shall consider the vices
@@ -6706,7 +6717,7 @@ All’interno della prima categoria di considerazioni, vi sono quattro punti da 
 (3) Si manifesta nel dimostrare onore verso le persone?  
 (4) Si manifesta nelle sentenze giudiziarie?
 
-<span class="atom-split" data-atom="112" data-title="Whether respect of persons is a sin?" data-chapter="Whether respect of persons is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="112" data-title="Whether respect of persons is a sin?" data-chapter="Whether respect of persons is a sin?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/divine_law,concepts/grace,forms/quaestio"></span>
 
 Objection 1: It would seem that respect of persons is not a sin. For the word "person" includes
 a reference to personal dignity [*Cf. FP, Q[29], A[3], ad 2]. Now it belongs to distributive justice
@@ -6782,7 +6793,7 @@ Risposta all’Obiezione 2: Le persone diventano proporzionali e degne di quelle
 
 Risposta all’Obiezione 3: Esistono due tipi di donazione. Uno appartiene alla giustizia e si verifica quando diamo a una persona ciò che le spetta; in questo tipo di donazione viene rispettata la distinzione tra le persone. L’altro tipo di donazione appartiene alla liberalità, quando doniamo gratuitamente qualcosa che non spetta a quella persona; è il caso, ad esempio, della concessione dei doni della grazia, attraverso i quali Dio sceglie i peccatori. In questo caso non c’è spazio per il rispetto delle persone, poiché chiunque può, senza ingiustizia, dare di ciò che possiede, a chiunque desideri, secondo quanto detto in Matteo 20:14-15: “Non è forse lecito per me fare ciò che voglio?. Prendi ciò che è tuo e vattene”.
 
-<span class="atom-split" data-atom="113" data-title="Whether respect of persons takes place in the dispensation of spiritual goods?" data-chapter="Whether respect of persons takes place in the dispensation of spiritual goods?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="113" data-title="Whether respect of persons takes place in the dispensation of spiritual goods?" data-chapter="Whether respect of persons takes place in the dispensation of spiritual goods?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that respect of persons does not take place in the dispensation of
 spiritual goods. For it would seem to savor of respect of persons if a man confers ecclesiastical
@@ -6879,7 +6890,7 @@ Risposta all’Obiezione 3: Affinché un’elezione non venga confutata in tribu
 
 Risposta all’Obiezione 4: L’uomo che viene preso tra i membri di una determinata Chiesa, in generale, è più utile per il bene comune, poiché ama di più la Chiesa nella quale è stato educato. Per questo motivo fu detto (Deuteronomio 17:15): “Non dovrai nominare re un uomo di un’altra nazione che non sia tuo fratello”.
 
-<span class="atom-split" data-atom="114" data-title="Whether respect of persons takes place in showing honor and respect?" data-chapter="Whether respect of persons takes place in showing honor and respect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="114" data-title="Whether respect of persons takes place in showing honor and respect?" data-chapter="Whether respect of persons takes place in showing honor and respect?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that respect of persons does not take place in showing honor and
 respect. For honor is apparently nothing else than "reverence shown to a person in [recognition](/concepts/recognition) of
@@ -6937,7 +6948,7 @@ Al contrario, un commento su Giacomo 2:1 afferma: “Chi onora i ricchi per le l
 
 Rispondo che onorare una persona significa riconoscere in lei la presenza della virtù; pertanto, è soltanto la virtù a costituire la vera ragione per cui una persona merita onore. È da notare che una persona può essere onorata non solo per le proprie virtù, ma anche per quelle altrui: così i principi e i prelati, pur essendo malvagi, vengono onorati perché occupano un ruolo rappresentativo di Dio e della comunità su cui governano, come si legge in Proverbi 26:8: “Chi getta una pietra nel mucchio di mercurio è simile a colui che onora uno stolto”. Poiché i popoli antichi attribuivano a Mercurio il compito di gestire i conti, “il mucchio di mercurio” simboleggia l’atto di registrare e calcolare; allo stesso modo, uno stolto può essere onorato se occupa un ruolo rappresentativo di Dio o della comunità. Allo stesso modo, genitori e padroni dovrebbero essere onorati per il loro ruolo nella comunità, in quanto condividono la dignità di Dio, Padre e Signore di tutti. Gli anziani meritano onore perché l’età avanzata è spesso segno di virtù, anche se talvolta questo segno può mancare; come si legge in Sapienza 4:8-9: “L’età venerabile non dipende dal numero degli anni, ma dalla saggezza dell’uomo; i capelli bianchi e una vita senza peccati sono i veri segni dell’anzianità”. I ricchi dovrebbero essere onorati per la loro posizione sociale più elevata; tuttavia, se vengono onorati soltanto a causa della loro ricchezza, ciò costituisce un errore basato su considerazioni personali. Ecco quindi risposte chiare alle obiezioni avanzate.
 
-<span class="atom-split" data-atom="115" data-title="Whether the sin of respect of persons takes place in judicial sentences?" data-chapter="Whether the sin of respect of persons takes place in judicial sentences?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="115" data-title="Whether the sin of respect of persons takes place in judicial sentences?" data-chapter="Whether the sin of respect of persons takes place in judicial sentences?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the sin of respect of persons does not take place in judicial
 sentences. For respect of persons is opposed to distributive justice, as stated above (A[1]): whereas
@@ -6998,7 +7009,7 @@ Risposta all’Obiezione 2: Quando una persona viene punita più severamente per
 
 Risposta all’Obiezione 3: Nel pronunciare giudizi, si dovrebbe aiutare i bisognosi nella misura del possibile, senza tuttavia compromettere la giustizia; altrimenti si applicherebbe quanto detto nell’Esodo 23:3: “Non favorire in alcun modo un povero nel pronunciare giudizi”.
 
-<span class="atom-split" data-atom="116" data-title="OF MURDER (EIGHT ARTICLES)" data-chapter="OF MURDER (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="116" data-title="OF MURDER (EIGHT ARTICLES)" data-chapter="OF MURDER (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 In due sequence we must consider the vices opposed to commutative justice. We must consider
 (1) those sins that are committed in relation to involuntary commutations; (2) those that are
@@ -7032,7 +7043,7 @@ In sequenza, dobbiamo considerare i vizi contrari alla giustizia commutativa. Do
 (7) È permesso uccidere in legittima difesa?  
 (8) L’omicidio accidentale è considerato un peccato mortale?
 
-<span class="atom-split" data-atom="117" data-title="Whether it is unlawful to kill any living thing?" data-chapter="Whether it is unlawful to kill any living thing?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="117" data-title="Whether it is unlawful to kill any living thing?" data-chapter="Whether it is unlawful to kill any living thing?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unlawful to kill any living thing. For the Apostle says (Rom. 13:2):
 "They that resist the ordinance of God purchase to themselves damnation [*Vulg.: 'He that resisteth
@@ -7080,7 +7091,7 @@ Reply to Objection 3: He that kills another's ox, sins, not through killing the 
 injuring another man in his property. Wherefore this is not a species of the sin of murder but of the
 sin of theft or robbery.
 
-<span class="atom-split" data-atom="118" data-title="Whether it is lawful to kill sinners?" data-chapter="Whether it is lawful to kill sinners?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="118" data-title="Whether it is lawful to kill sinners?" data-chapter="Whether it is lawful to kill sinners?" data-kind="atom" data-srclang="en" data-tags="concepts/law,concepts/justice,figures/aristotle,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem unlawful to kill men who have sinned. For our Lord in the parable
 (Mat. 13) forbade the uprooting of the cockle which denotes wicked men according to a gloss. Now
@@ -7152,7 +7163,7 @@ Risposta all’Obiezione 2: Secondo l’ordine della Sua saggezza, Dio a volte u
 
 Risposta all’Obiezione 3: Peccando, l’uomo si allontana dall’ordine della ragione e, di conseguenza, perde la dignità della sua umanità; poiché è naturalmente libero e esiste per sé stesso, cade nello stato servile degli animali, venendo utilizzato soltanto in base al suo valore per gli altri. Ciò è espresso nel Salmo 48:21: “L’uomo, quando era onorato, non comprendeva; è stato paragonato agli animali insensati e reso simile a loro”, e nella Proverbia 11:29: “Lo stolto servirà il saggio”. Pertanto, anche se uccidere un uomo che mantiene la propria dignità è in sé malvagio, può essere giusto uccidere un uomo che ha peccato, proprio come si può uccidere un animale. Un uomo cattivo, infatti, è peggiore di un animale e più dannoso, come afferma il Filosofo (Politica I, 1; Etica VII, 6).
 
-<span class="atom-split" data-atom="119" data-title="Whether it is lawful for a private individual to kill a man who has sinned?" data-chapter="Whether it is lawful for a private individual to kill a man who has sinned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="119" data-title="Whether it is lawful for a private individual to kill a man who has sinned?" data-chapter="Whether it is lawful for a private individual to kill a man who has sinned?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem lawful for a private individual to kill a man who has sinned. For
 nothing unlawful is commanded in the [Divine law](/concepts/divine_law). Yet, on account of the sin of the molten calf,
@@ -7197,7 +7208,7 @@ good, provided it harm nobody: but if it be harmful to some other, it cannot be 
 virtue of the judgment of the person to whom it pertains to decide what is to be taken from the parts
 for the welfare of the whole.
 
-<span class="atom-split" data-atom="120" data-title="Whether it is lawful for clerics to kill evil-doers?" data-chapter="Whether it is lawful for clerics to kill evil-doers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="120" data-title="Whether it is lawful for clerics to kill evil-doers?" data-chapter="Whether it is lawful for clerics to kill evil-doers?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem lawful for clerics to kill evil-doers. For clerics especially should
 fulfil the precept of the Apostle (1 Cor. 4:16): "Be ye followers of me as I also am of Christ,"
@@ -7264,7 +7275,7 @@ Risposta all’Obiezione 2: Il ministero dei chierici si occupa di cose ben più
 
 Risposta all’Obiezione 3: I prelati ecclesiastici accettano la funzione di principi terreni non per poter infliggere personalmente la pena di morte, ma affinché questa possa essere attuata da altri in virtù della loro autorità.
 
-<span class="atom-split" data-atom="121" data-title="Whether it is lawful to kill oneself?" data-chapter="Whether it is lawful to kill oneself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="121" data-title="Whether it is lawful to kill oneself?" data-chapter="Whether it is lawful to kill oneself?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/natural_law,positions/free_will,concepts/charity,figures/augustine"></span>
 
 Objection 1: It would seem lawful for a man to kill himself. For murder is a sin in so far as it
 is contrary to justice. But no man can do an injustice to himself, as is proved in Ethic. v, 11. Therefore
@@ -7350,7 +7361,7 @@ among whom was Razias, have killed themselves thinking to act from fortitude), y
 fortitude, but rather a weakness of soul unable to bear penal evils, as the Philosopher (Ethic. iii, 7)
 and Augustine (De Civ. Dei 22,23) declare.
 
-<span class="atom-split" data-atom="122" data-title="Whether it is lawful to kill the innocent?" data-chapter="Whether it is lawful to kill the innocent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="122" data-title="Whether it is lawful to kill the innocent?" data-chapter="Whether it is lawful to kill the innocent?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in some cases it is lawful to kill the innocent. The fear of God
 is never manifested by sin, since on the contrary "the fear of the Lord driveth out sin" (Ecclus.
@@ -7424,7 +7435,7 @@ Risposta all’Obiezione 2: Nel valutare la gravità di un peccato dobbiamo cons
 
 Risposta all’Obiezione 3: Se il giudice sa che l’uomo condannato da testimoni falsi è innocente, deve, come Daniele, esaminare con grande attenzione i testimoni al fine di trovare motivi per assolvere l’innocente; ma se ciò non gli è possibile, deve rimandare il caso a un tribunale superiore. Anche in questo caso, non commette peccato se emette una sentenza in base alle prove presentate, poiché non è lui ad uccidere l’innocente, ma coloro che lo hanno dichiarato colpevole. Chi esegue la sentenza di un giudice che ha condannato un innocente, se questa contiene un errore inescusabile, non deve obbedire; altrimenti ci sarebbe una scusa per le esecuzioni dei martiri. Tuttavia, se la sentenza non contiene alcuna ingiustizia evidente, egli non ha il diritto di discutere la decisione del proprio superiore; inoltre, non è lui ad uccidere l’innocente, ma il giudice di cui è semplicemente un esecutore.
 
-<span class="atom-split" data-atom="123" data-title="Whether it is lawful to kill a man in self-defense?" data-chapter="Whether it is lawful to kill a man in self-defense?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="123" data-title="Whether it is lawful to kill a man in self-defense?" data-chapter="Whether it is lawful to kill a man in self-defense?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that nobody may lawfully kill a man in self-defense. For [Augustine](/figures/augustine)
 says to Publicola (Ep. xlvii): "I do not agree with the opinion that one may kill a man lest one be
@@ -7519,7 +7530,7 @@ Risposta all’Obiezione 4: L’atto di adulterio o di fornicazione non è neces
 
 Risposta all’Obiezione 5: La difesa proibita in questo passaggio è quella che deriva da un desiderio di vendetta e rancore. Pertanto, un commento afferma: “Non difendervi, cioè, non colpire indietro il vostro nemico.”
 
-<span class="atom-split" data-atom="124" data-title="Whether one is guilty of murder through killing someone by chance?" data-chapter="Whether one is guilty of murder through killing someone by chance?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="124" data-title="Whether one is guilty of murder through killing someone by chance?" data-chapter="Whether one is guilty of murder through killing someone by chance?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one is guilty of murder through killing someone by [chance](/concepts/fortune).
 For we read (Gn. 4:23,24) that Lamech slew a man in mistake for a wild beast [*The text of the
@@ -7566,7 +7577,7 @@ homicide, especially seeing that death is the natural result of such a blow.
 Reply to Objection 3: According to the canons a penalty, is inflicted on those who cause death
 unintentionally, through doing something unlawful, or failing to take sufficient care.
 
-<span class="atom-split" data-atom="125" data-title="OF OTHER INJURIES COMMITTED ON THE PERSON (FOUR ARTICLES)" data-chapter="OF OTHER INJURIES COMMITTED ON THE PERSON (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="125" data-title="OF OTHER INJURIES COMMITTED ON THE PERSON (FOUR ARTICLES)" data-chapter="OF OTHER INJURIES COMMITTED ON THE PERSON (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider other sinful injuries committed on the person. Under this head there are
 four points of inquiry:
@@ -7584,7 +7595,7 @@ Dobbiamo ora considerare altre offese peccaminose commesse contro la persona uma
 (3) L’incarcerazione;  
 (4) Se i peccati che consistono nell’infliggere tali offese siano aggravati quando vengono commessi contro persone collegate ad altre in qualche modo.
 
-<span class="atom-split" data-atom="126" data-title="Whether in some cases it may be lawful to maim anyone?" data-chapter="Whether in some cases it may be lawful to maim anyone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="126" data-title="Whether in some cases it may be lawful to maim anyone?" data-chapter="Whether in some cases it may be lawful to maim anyone?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in no case can it be lawful to maim anyone. For Damascene
 says (De Fide Orth. iv, 20) that "sin consists in departing from what is according to nature, towards
@@ -7667,7 +7678,7 @@ Risposta all’Obiezione 2: La vita dell’uomo nel suo complesso non è orienta
 
 Risposta all’Obiezione 3: Un membro non dovrebbe essere rimosso al solo fine di preservare la salute fisica del tutto, a meno che non esista alcun altro modo per promuovere il bene comune. Ora, è sempre possibile migliorare il proprio benessere spirituale in modi diversi da quello di mutilarsi, poiché il peccato è sempre soggetto alla volontà umana; pertanto, in nessun caso è ammissibile danneggiarsi fisicamente, nemmeno per evitare qualsiasi tipo di peccato. Per questo motivo, Crisostomo, nella sua spiegazione di Matteo 19:12 (Homilia lxii in Matthaeum), afferma: “Ci sono eunuchi che si sono resi tali per il regno dei cieli. Non mutilandosi fisicamente, ma distruggendo i pensieri malvagi; infatti, colui che si danneggia è un assassino”. Inoltre aggiunge: “Nemmeno la lussuria viene domata in questo modo; al contrario, diventa ancora più insistente. Il seme del peccato nasce in noi da altre fonti, soprattutto da intenzioni incontrollate e da una mente negligente. La tentazione non viene quindi mitigata dalla mutilazione fisica, ma piuttosto dal controllo dei propri pensieri”.
 
-<span class="atom-split" data-atom="127" data-title="Whether it is lawful for parents to strike their children, or masters their slaves?" data-chapter="Whether it is lawful for parents to strike their children, or masters their slaves?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="127" data-title="Whether it is lawful for parents to strike their children, or masters their slaves?" data-chapter="Whether it is lawful for parents to strike their children, or masters their slaves?" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/education,concepts/justice"></span>
 
 Objection 1: It would seem unlawful for parents to strike their children, or masters their slaves.
 For the Apostle says (Eph. 6:4): "You, fathers, provoke not your children to [anger](/concepts/anger)"; and further on
@@ -7737,7 +7748,7 @@ Risposta all’Obiezione 2: Il potere maggiore dovrebbe esercitare una coercizio
 
 Risposta all’Obiezione 3: È legittimo che chiunque imparta correzioni a una persona disposta ad accettarle. Tuttavia, impartirle a una persona riluttante spetta esclusivamente a coloro che hanno autorità su di essa. A questo si riferisce anche la punizione attraverso i colpi.
 
-<span class="atom-split" data-atom="128" data-title="Whether it is lawful to imprison a man?" data-chapter="Whether it is lawful to imprison a man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="128" data-title="Whether it is lawful to imprison a man?" data-chapter="Whether it is lawful to imprison a man?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/justice,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unlawful to imprison a man. An act which deals with undue matter
 is evil in its genus, as stated above (FS, Q[18], A[2]). Now man, having a free-will, is undue matter
@@ -7795,7 +7806,7 @@ Risposta all’Obiezione 2: Secondo l’ordine della Sua saggezza, Dio a volte i
 
 Risposta all’Obiezione 3: È legittimo che chiunque impedisca a qualcuno di compiere un atto illecito in quel momento specifico: ad esempio, quando una persona impedisce a un’altra di gettarsi da un precipizio o di colpire qualcun altro. Tuttavia, è soltanto a colui che ha il diritto di disporre in modo generale delle azioni e della vita di un’altra persona che spetta per primi il potere di imprigionarlo o di legarlo, poiché agendo in questo modo si impedisce a quella persona di compiere non solo atti malvagi, ma anche atti buoni.
 
-<span class="atom-split" data-atom="129" data-title="Whether the sin is aggravated by the fact that the aforesaid injuries are perpetrated on those who are connected with others?" data-chapter="Whether the sin is aggravated by the fact that the aforesaid injuries are perpetrated on those who are connected with others?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="129" data-title="Whether the sin is aggravated by the fact that the aforesaid injuries are perpetrated on those who are connected with others?" data-chapter="Whether the sin is aggravated by the fact that the aforesaid injuries are perpetrated on those who are connected with others?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the sin is not aggravated by the fact that the aforesaid injuries
 are perpetrated on those who are connected with others. Such like injuries take their sinful character
@@ -7863,7 +7874,7 @@ Risposta all’Obiezione 2: Le offese arrecate alle vedove e agli orfani vengono
 
 Risposta all’Obiezione 3: Il fatto che la moglie consenti volontariamente all’adulterio riduce il peccato e il danno, per quanto riguarda lei stessa; infatti, sarebbe ancora più grave se l’adultero la opprimesse con la violenza. Tuttavia, ciò non elimina il danno arrecato al marito, poiché “la moglie non ha potere sul proprio corpo; ma il marito” (1 Corinzi 7:4). Lo stesso vale per altri casi simili di adulterio. Poiché tale comportamento è contrario sia alla giustizia che alla castità, ne parleremo nel trattato sulla Temperanza (Q[154], A[8]).
 
-<span class="atom-split" data-atom="130" data-title="OF THEFT AND ROBBERY (NINE ARTICLES)" data-chapter="OF THEFT AND ROBBERY (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="130" data-title="OF THEFT AND ROBBERY (NINE ARTICLES)" data-chapter="OF THEFT AND ROBBERY (NINE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/property,concepts/justice"></span>
 
 We must now consider the sins opposed to justice, whereby a man injures his neighbor in his
 belongings; namely theft and robbery.
@@ -7892,7 +7903,7 @@ In questa categoria esistono nove punti da esaminare:
 (8) Ogni rapina è un peccato mortale?  
 (9) La rapina è un peccato più grave del furto?
 
-<span class="atom-split" data-atom="131" data-title="Whether it is natural for man to possess external things?" data-chapter="Whether it is natural for man to possess external things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="131" data-title="Whether it is natural for man to possess external things?" data-chapter="Whether it is natural for man to possess external things?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not natural for man to possess external things. For no man
 should ascribe to himself that which is God's. Now the dominion over all creatures is proper to
@@ -7906,7 +7917,7 @@ naturally, he can fittingly call his own. Therefore man does not naturally posse
 
 Objection 3: Further, according to Ambrose (De Trin. i [*De Fide, ad Gratianum, i, 1])
 "dominion denotes power." But man has no power over external things, since he can work no
-change in their nature. Therefore the possession of external things is not natural to man.
+change in their nature. Therefore the [possession](/concepts/property) of external things is not natural to man.
 
 On the contrary, It is written (Ps. 8:8): "Thou hast subjected all things under his feet."
 
@@ -7949,7 +7960,7 @@ Risposta all’Obiezione 2: L’uomo ricco viene rimproverato per ritenere che l
 
 Risposta all’Obiezione 3: Questo argomento considera il dominio sulle cose esterne in relazione alla loro natura. Un tale dominio appartiene esclusivamente a Dio, come già detto sopra.
 
-<span class="atom-split" data-atom="132" data-title="Whether it is lawful for a man to possess a thing as his own?" data-chapter="Whether it is lawful for a man to possess a thing as his own?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="132" data-title="Whether it is lawful for a man to possess a thing as his own?" data-chapter="Whether it is lawful for a man to possess a thing as his own?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/property,concepts/law,forms/quaestio"></span>
 
 Objection 1: It would seem unlawful for a man to possess a thing as his own. For whatever is
 contrary to the [natural law](/positions/natural_law) is unlawful. Now according to the natural law all things are common
@@ -8028,7 +8039,7 @@ Risposta all’Obiezione 2: Un uomo non agirebbe illegalmente se, andando in ant
 
 Risposta all’Obiezione 3: Quando Ambrogio afferma: “Nessuno debba considerare proprio ciò che è di uso comune”, si riferisce alla proprietà in relazione all’uso; per questo aggiunge: “Chi spende troppo è un ladro”.
 
-<span class="atom-split" data-atom="133" data-title="Whether the essence of theft consists in taking another's thing secretly?" data-chapter="Whether the essence of theft consists in taking another's thing secretly?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="133" data-title="Whether the essence of theft consists in taking another's thing secretly?" data-chapter="Whether the essence of theft consists in taking another's thing secretly?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not essential to theft to take another's thing secretly. For
 that which diminishes a sin, does not, apparently, belong to the essence of a sin. Now to sin secretly
@@ -8050,7 +8061,7 @@ On the contrary, Isidore says (Etym. x): "'Fur' [thief] is derived from 'furvus'
 
 I answer that, Three things combine together to constitute theft. The first belongs to theft as
 being contrary to justice, which gives to each one that which is his, so that it belongs to theft to
-take possession of what is another's. The second thing belongs to theft as distinct from those sins
+take [possession](/concepts/property) of what is another's. The second thing belongs to theft as distinct from those sins
 which are committed against the person, such as murder and adultery, and in this respect it belongs
 to theft to be about a thing possessed: for if a man takes what is another's not as a possession but
 as a part (for instance, if he amputates a limb), or as a person connected with him (for instance, if
@@ -8089,7 +8100,7 @@ Risposta all’Obiezione 2: Trattenere ciò che è dovuto a un altro arreca lo s
 
 Risposta all’Obiezione 3: Niente impedisce che ciò che appartiene a una persona in modo semplice possa appartenere anche a un’altra in qualche senso: ad esempio, un deposito appartiene semplicemente al depositante, ma per quanto riguarda la sua custodia, spetta al depositario; allo stesso modo, l’oggetto rubato appartiene al ladro, non in modo semplice, ma soltanto per quanto riguarda la sua custodia.
 
-<span class="atom-split" data-atom="134" data-title="Whether theft and robbery are sins of different species?" data-chapter="Whether theft and robbery are sins of different species?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="134" data-title="Whether theft and robbery are sins of different species?" data-chapter="Whether theft and robbery are sins of different species?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that theft and robbery are not sins of different species. For theft
 and robbery differ as "secret" and "manifest": because theft is taking something secretly, while
@@ -8097,7 +8108,7 @@ robbery is to take something violently and openly. Now in the other kinds of sin
 the manifest do not differ specifically. Therefore theft and robbery are not different species of sin.
 
 Objection 2: Further, moral actions take their species from the end, as stated above (FS, Q[1],
-A[3]; Q[18], A[6]). Now theft and robbery are directed to the same end, viz. the possession of
+A[3]; Q[18], A[6]). Now theft and robbery are directed to the same end, viz. the [possession](/concepts/property) of
 another's property. Therefore they do not differ specifically.
 
 Objection 3: Further, just as a thing is taken by force for the sake of possession, so is a woman
@@ -8146,7 +8157,7 @@ Risposta all’Obiezione 2: L’obiettivo finale della rapina e del furto è lo 
 
 Risposta all’Obiezione 3: Il rapimento di una donna non può rimanere un segreto per la stessa donna che viene rapita; pertanto, anche se il fatto rimane nascosto agli altri soggetti coinvolti nel rapimento, la natura stessa del reato di rapina persiste per la donna che subisce violenza.
 
-<span class="atom-split" data-atom="135" data-title="Whether theft is always a sin?" data-chapter="Whether theft is always a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="135" data-title="Whether theft is always a sin?" data-chapter="Whether theft is always a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that theft is not always a sin. For no sin is commanded by God,
 since it is written (Ecclus. 15:21): "He hath commanded no man to do wickedly." Yet we find that
@@ -8222,7 +8233,7 @@ Risposta all’Obiezione 2: Per quanto riguarda i tesori ritrovati, è necessari
 
 Risposta all’Obiezione 3: Chi, di nascosto, si riprende la propria proprietà depositata presso un altro uomo, onera il detentore del deposito, il quale è tenuto sia a restituirla che a dimostrare la propria innocenza. Pertanto, colui che agisce in questo modo è chiaramente colpevole di peccato e ha l’obbligo di sollevare il detentore dal proprio onere. D’altra parte, chi si riprende di nascosto la propria proprietà, se questa è stata ingiustamente trattenuta da un altro, commette effettivamente un peccato; tuttavia non perché oneri il detentore del deposito, e quindi non è tenuto a restituirla o a compensarlo: ma perché viola l’ordine della giustizia, usurpando il diritto di giudicare sulla propria stessa proprietà. Pertanto, deve rimediare al proprio peccato davanti a Dio e cercare in ogni modo di eliminare lo scandalo che ha potuto causare al proprio prossimo con tale comportamento.
 
-<span class="atom-split" data-atom="136" data-title="Whether theft is a mortal sin?" data-chapter="Whether theft is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="136" data-title="Whether theft is a mortal sin?" data-chapter="Whether theft is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that theft is not a mortal sin. For it is written (Prov. 6:30): "The
 fault is not so great when a man hath stolen." But every mortal sin is a great fault. Therefore theft
@@ -8272,7 +8283,7 @@ may be proportionately excused from mortal sin. Yet if his intention is to rob a
 there may be a mortal sin even in these very little things, even as there may be through consent in
 a mere thought.
 
-<span class="atom-split" data-atom="137" data-title="Whether it is lawful to steal through stress of need?" data-chapter="Whether it is lawful to steal through stress of need?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="137" data-title="Whether it is lawful to steal through stress of need?" data-chapter="Whether it is lawful to steal through stress of need?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,positions/natural_right,concepts/human_law,concepts/property"></span>
 
 Objection 1: It would seem unlawful to steal through stress of need. For penance is not imposed
 except on one who has sinned. Now it is stated (Extra, De furtis, Cap. Si quis): "If anyone, through
@@ -8336,7 +8347,7 @@ Risposta all’Obiezione 2: Non si tratta propriamente di furto quando si prende
 
 Risposta all’Obiezione 3: In un caso di simile necessità, una persona può anche prendere segretamente la proprietà altrui al fine di aiutare il proprio vicino in difficoltà.
 
-<span class="atom-split" data-atom="138" data-title="Whether robbery may be committed without sin?" data-chapter="Whether robbery may be committed without sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="138" data-title="Whether robbery may be committed without sin?" data-chapter="Whether robbery may be committed without sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that robbery may be committed without sin. For spoils are taken
 by violence, and this seems to belong to the essence of robbery, according to what has been said
@@ -8409,7 +8420,7 @@ Risposta all’Obiezione 2: Gli infedeli possiedono i loro beni in modo ingiusto
 
 Risposta all’Obiezione 3: Non si tratta di rapina se i principi esigono dai loro sudditi ciò che è loro dovuto per la salvaguardia del bene comune, anche se per farlo ricorrono alla violenza; ma se estorcono qualcosa in modo indebito attraverso la violenza, allora si tratta di rapina, proprio come lo è il furto con scasso. Pertanto Agostino afferma (De Civ. Dei iv, 4): “Se la giustizia viene ignorata, che cos’è un re se non un potente ladro? E che cos’è un ladro se non un piccolo re?” E si legge anche (Ezechiele 22:27): “I suoi principi, al suo interno, sono come lupi che dilaniano la preda”. Pertanto essi sono tenuti a restituire ciò che hanno preso indebitamente, proprio come i ladri; e peccano in modo ancora più grave di loro, poiché le loro azioni comportano un pericolo maggiore e più diffuso per la giustizia pubblica, della quale dovrebbero essere i custodi.
 
-<span class="atom-split" data-atom="139" data-title="Whether theft is a more grievous sin than robbery?" data-chapter="Whether theft is a more grievous sin than robbery?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="139" data-title="Whether theft is a more grievous sin than robbery?" data-chapter="Whether theft is a more grievous sin than robbery?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that theft is a more grievous sin than robbery. For theft adds fraud
 and guile to the taking of another's property: and these things are not found in robbery. Now fraud
@@ -8459,7 +8470,7 @@ Risposta all’Obiezione 2: Gli uomini che si attengono alle cose sensibili dann
 
 Risposta all’Obiezione 3: Sebbene più persone possano subire danni a causa del furto che della rapina, tuttavia la rapina può causare danni più gravi rispetto al furto; per questo motivo anche la rapina è ritenuta più odiosa.
 
-<span class="atom-split" data-atom="140" data-title="OF THE INJUSTICE OF A JUDGE, IN JUDGING (FOUR ARTICLES)" data-chapter="OF THE INJUSTICE OF A JUDGE, IN JUDGING (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="140" data-title="OF THE INJUSTICE OF A JUDGE, IN JUDGING (FOUR ARTICLES)" data-chapter="OF THE INJUSTICE OF A JUDGE, IN JUDGING (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider those vices opposed to commutative justice, that consist in words
 injurious to our neighbors. We shall consider (1) those which are connected with judicial proceedings,
@@ -8481,7 +8492,7 @@ Dobbiamo ora considerare quei vizi contrari alla giustizia commutativa, quelli c
 Per quanto riguarda il primo punto, vi sono cinque aspetti da considerare: (1) L’ingiustizia di un giudice nel pronunciare una sentenza; (2) L’ingiustizia dell’accusatore nell’incolpare qualcuno; (3) L’ingiustizia del difensore nel proporsi a difendere il proprio cliente; (4) L’ingiustizia dei testimoni nel fornire testimonianze false; (5) L’ingiustizia dell’avvocato nell’esercitare la propria funzione legale.  
 Per quanto riguarda i procedimenti giudiziari, vi sono quattro questioni fondamentali da esaminare: (1) Se un uomo possa giudicare in modo equo qualcuno che non è sottoposto alla sua autorità; (2) Se sia legittimo per un giudice, sulla base delle prove presentate, emettere una sentenza contraria alla verità conosciuta; (3) Se un giudice possa condannare equamente qualcuno che non è stato accusato formalmente; (4) Se possa commutare legalmente la pena inflitta.
 
-<span class="atom-split" data-atom="141" data-title="Whether a man can justly judge one who is not subject to his jurisdiction?" data-chapter="Whether a man can justly judge one who is not subject to his jurisdiction?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="141" data-title="Whether a man can justly judge one who is not subject to his jurisdiction?" data-chapter="Whether a man can justly judge one who is not subject to his jurisdiction?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man can justly judge one who is not subject to his jurisdiction.
 For it is stated (Dan. 13) that Daniel sentenced the ancients who were convicted of bearing false
@@ -8547,7 +8558,7 @@ Risposta all’Obiezione 2: Nei affari umani, un uomo può sottomettersi volonta
 
 Risposta all’Obiezione 3: Il vescovo della diocesi del convenuto diventa il suo superiore in merito al reato commesso, anche se è esentato dall’esercitare tale autorità; salvo nel caso in cui il convenuto compia un reato che rientra nell’ambito delle competenze esclusive del vescovo, ad esempio nell’amministrazione dei beni di un monastero esente. Tuttavia, se una persona esentata commette un furto, un omicidio o un atto simile, può essere giustamente condannata dall’ordinario.
 
-<span class="atom-split" data-atom="142" data-title="Whether it is lawful for a judge to pronounce judgment against the truth that he knows, on account of evidence to the contrary?" data-chapter="Whether it is lawful for a judge to pronounce judgment against the truth that he knows, on account of evidence to the contrary?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="142" data-title="Whether it is lawful for a judge to pronounce judgment against the truth that he knows, on account of evidence to the contrary?" data-chapter="Whether it is lawful for a judge to pronounce judgment against the truth that he knows, on account of evidence to the contrary?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/law,concepts/human_law,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem unlawful for a judge to pronounce judgment against the truth that
 he knows, on account of evidence to the contrary. For it is written (Dt. 17:9): "Thou shalt come to
@@ -8635,7 +8646,7 @@ Risposta all’Obiezione 3: L’Apostolo si riferisce al caso in cui qualcosa è
 
 Risposta all’Obiezione 4: Nei casi che riguardano la propria persona, un uomo deve formare la propria coscienza sulla base delle proprie conoscenze personali; ma nei casi che riguardano l’autorità pubblica, deve formare la propria coscienza in conformità con le conoscenze ottenibili attraverso i procedimenti giudiziari pubblici.
 
-<span class="atom-split" data-atom="143" data-title="Whether a judge may condemn a man who is not accused?" data-chapter="Whether a judge may condemn a man who is not accused?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="143" data-title="Whether a judge may condemn a man who is not accused?" data-chapter="Whether a judge may condemn a man who is not accused?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a judge may pass sentence on a man who is not accused. For
 human justice is derived from Divine justice. Now God judges the sinner even though there be no
@@ -8702,7 +8713,7 @@ Risposta all’Obiezione 2: La vergogna pubblica sostituisce l’accusatore. Per
 
 Risposta all’Obiezione 3: Dio, nel giudicare l’uomo, si basa sulla propria conoscenza della verità, mentre l’uomo non lo fa, come già detto sopra (A[2]). Pertanto, un uomo non può essere allo stesso tempo accusatore, testimone e giudice, come lo è Dio. Daniele fu contemporaneamente accusatore e giudice, poiché era l’esecutore della sentenza di Dio, da cui era guidato secondo il suo istinto, come già affermato sopra (A[1], ad 1).
 
-<span class="atom-split" data-atom="144" data-title="Whether the judge can lawfully remit the punishment?" data-chapter="Whether the judge can lawfully remit the punishment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="144" data-title="Whether the judge can lawfully remit the punishment?" data-chapter="Whether the judge can lawfully remit the punishment?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the judge can lawfully remit the punishment. For it is written
 (James 2:13): "Judgment without mercy" shall be done "to him that hath not done mercy." Now no
@@ -8777,7 +8788,7 @@ Risposta all’Obiezione 2: Dio possiede il potere supremo di giudicare, e spett
 
 Risposta all’Obiezione 3: Se il giudice riducesse indebitamente la pena, arrecherebbe danno alla comunità, per il bene della quale è necessario che i malvagi vengano puniti, affinché gli uomini possano evitare il peccato. Per questo motivo, il testo, dopo aver stabilito la pena per chi seduce, aggiunge (Deuteronomio 13:11): “Affinché tutto Israele, udendolo, tema e non compia più simili atti”. Inoltre, ci sarebbe danno anche per la vittima, la quale viene compensata dalla restituzione del proprio onore attraverso la punizione di colui che l’ha offesa.
 
-<span class="atom-split" data-atom="145" data-title="OF MATTERS CONCERNING UNJUST ACCUSATION (FOUR ARTICLES)" data-chapter="OF MATTERS CONCERNING UNJUST ACCUSATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="145" data-title="OF MATTERS CONCERNING UNJUST ACCUSATION (FOUR ARTICLES)" data-chapter="OF MATTERS CONCERNING UNJUST ACCUSATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/human_law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider matters pertaining to unjust accusation. Under this head there are four
 points of inquiry:
@@ -8794,7 +8805,7 @@ Dobbiamo ora considerare questioni relative alle accuse ingiuste. In questa cate
 (3) In che modo un’accusa può risultare viziata;  
 (4) Come devono essere puniti coloro che hanno accusato ingiustamente qualcuno.
 
-<span class="atom-split" data-atom="146" data-title="Whether a man is bound to accuse?" data-chapter="Whether a man is bound to accuse?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="146" data-title="Whether a man is bound to accuse?" data-chapter="Whether a man is bound to accuse?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man is not bound to accuse. For no man is excused on account
 of sin from fulfilling a Divine precept, since he would thus profit by his sin. Yet on account of sin
@@ -8867,7 +8878,7 @@ Risposta all’Obiezione 2: Ai sudditi è vietato accusare i loro superiori “s
 
 Risposta all’Obiezione 3: Rivelare segreti al fine di nuocere a una persona è contrario alla fedeltà; tuttavia, ciò non costituisce una violazione della fedeltà se tali segreti vengono rivelati per il bene della comunità, che deve sempre essere considerata più importante del bene individuale. Pertanto, è illegale ricevere qualsiasi segreto a scapito del bene comune; inoltre, una cosa difficilmente può essere considerata un segreto quando esistono testimoni sufficienti a provarne l’esistenza.
 
-<span class="atom-split" data-atom="147" data-title="Whether it is necessary for the accusation to be made in writing?" data-chapter="Whether it is necessary for the accusation to be made in writing?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="147" data-title="Whether it is necessary for the accusation to be made in writing?" data-chapter="Whether it is necessary for the accusation to be made in writing?" data-kind="atom" data-srclang="en" data-tags="figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unnecessary for the accusation to be made in writing. For writing
 was devised as an aid to the human memory of the past. But an accusation is made in the present.
@@ -8929,7 +8940,7 @@ Risposta all’Obiezione 2: La scrittura è necessaria non solo in caso di assen
 
 Risposta all’Obiezione 3: Chi presenta una denuncia non è obbligato a fornire prove; pertanto non viene punito se non riesce a dimostrarle. Per questo motivo, nella presentazione di una denuncia non è necessario utilizzare scritti: basta che essa venga fatta verbalmente alla Chiesa, la quale, in virtù del proprio ruolo, procederà alla correzione del fratello in questione.
 
-<span class="atom-split" data-atom="148" data-title="Whether an accusation is rendered unjust by calumny, collusion or evasion?" data-chapter="Whether an accusation is rendered unjust by calumny, collusion or evasion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="148" data-title="Whether an accusation is rendered unjust by calumny, collusion or evasion?" data-chapter="Whether an accusation is rendered unjust by calumny, collusion or evasion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an accusation is not rendered unjust by calumny, collusion or
 evasion. For according to Decret. II, qu. iii [*Append. Grat. ad can. Si quem poenituerit.], "calumny
@@ -8989,7 +9000,7 @@ and then by mutual consent the accuser and the defendant acquit one another---in
 the accusation be quashed by the sovereign to whom belongs the care of the common good, which
 it is intended to procure by the accusation.
 
-<span class="atom-split" data-atom="149" data-title="Whether an accuser who fails to prove his indictment is bound to the punishment of retaliation?" data-chapter="Whether an accuser who fails to prove his indictment is bound to the punishment of retaliation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="149" data-title="Whether an accuser who fails to prove his indictment is bound to the punishment of retaliation?" data-chapter="Whether an accuser who fails to prove his indictment is bound to the punishment of retaliation?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the accuser who fails to prove his indictment is not bound to
 the punishment of retaliation. For sometimes a man is led by a just error to make an accusation, in
@@ -9068,7 +9079,7 @@ Risposta all’Obiezione 2: Chi accusa ingiustamente pecca sia contro la persona
 
 Risposta all’Obiezione 3: L’accusatore merita la punizione della rappresaglia come compensazione del danno che tenta di infliggere al proprio vicino; ma la punizione dell’umiliazione gli spetta per la sua malvagità nel diffamare ingiustamente un altro uomo. A volte il sovrano risparmia la punizione, ma non l’umiliazione; altre volte elimina anche quest’ultima: pertanto anche il Papa può rimuovere tale umiliazione. Quando papa Gelasio afferma: “Non possiamo rimuovere l’umiliazione”, potrebbe intendere sia l’umiliazione legata al fatto stesso, sia che a volte non sia opportuno eliminarla; oppure potrebbe riferirsi all’umiliazione inflitta dal giudice civile, come sostiene Graziano (Callist. I, Epist. ad omn. Gall. episc.).
 
-<span class="atom-split" data-atom="150" data-title="OF SINS COMMITTED AGAINST JUSTICE ON THE PART OF THE DEFENDANT (FOUR ARTICLES)" data-chapter="OF SINS COMMITTED AGAINST JUSTICE ON THE PART OF THE DEFENDANT (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="150" data-title="OF SINS COMMITTED AGAINST JUSTICE ON THE PART OF THE DEFENDANT (FOUR ARTICLES)" data-chapter="OF SINS COMMITTED AGAINST JUSTICE ON THE PART OF THE DEFENDANT (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/law,forms/quaestio"></span>
 
 We must now consider those sins which are committed against justice on the part of the
 defendant. Under this head there are four points of inquiry:
@@ -9086,7 +9097,7 @@ Dobbiamo ora considerare quei peccati che vengono commessi contro la giustizia d
 (3) Se sia legittimo evitare la condanna ricorrendo in appello;  
 (4) Se sia legittimo, per chi è stato condannato, difendersi con la violenza se ciò fosse possibile.
 
-<span class="atom-split" data-atom="151" data-title="Whether one can, without a mortal sin, deny the truth which would lead to one's condemnation?" data-chapter="Whether one can, without a mortal sin, deny the truth which would lead to one's condemnation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="151" data-title="Whether one can, without a mortal sin, deny the truth which would lead to one's condemnation?" data-chapter="Whether one can, without a mortal sin, deny the truth which would lead to one's condemnation?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem one can, without a mortal sin, deny the truth which would lead to
 one's condemnation. For Chrysostom says (Hom. xxxi super Ep. ad Heb.): "I do not say that you
@@ -9114,7 +9125,7 @@ it not" (Joshua 7:19). Therefore it is a mortal sin to lie in order to cover one
 I answer that, Whoever acts against the due order of justice, sins mortally, as stated above
 (Q[59], A[4]). Now it belongs to the order of justice that a man should obey his superior in those
 matters to which the rights of his authority extend. Again, the judge, as stated above (Q[67] , A[1]),
-is the superior in relation to the person whom he judges. Therefore the accused is in duty bound to
+is the superior in relation to the person whom he judges. Therefore the accused is in [duty](/positions/duty_imperative) bound to
 tell the judge the truth which the latter exacts from him according to the form of law. Hence if he
 refuse to tell the truth which he is under obligation to tell, or if he mendaciously deny it, he sins
 mortally. If, on the other hand, the judge asks of him that which he cannot ask in accordance with
@@ -9157,7 +9168,7 @@ Risposta all’Obiezione 2: Mentire, danneggiando un’altra persona, al fine di
 
 Risposta all’Obiezione 3: Chi mente in tribunale negando la propria colpevolezza agisce sia contro l’amore di Dio, a cui spetta il giudizio, sia contro l’amore del proprio prossimo; ciò vale non solo nei confronti del giudice, al quale si rifiuta di rendere giustizia, ma anche nei confronti dell’accusatore, che viene punito se non riesce a provare le proprie accuse. Per questo è scritto (Salmo 140:4): “Non inclinare il mio cuore verso parole malvagie, né verso scuse per i peccati”; su queste parole un commento afferma: “Gli uomini senza vergogna mentono per negare la propria colpevolezza quando vengono scoperti”. E Gregorio, interpretando Giobbe 31:33 (“Se ho nascosto il mio peccato come un uomo, ”), dice (Moralia, xxii, 15): “È una vizio comune dell’umanità peccare in segreto, mentendo per nascondere i propri errori; e quando si viene condannati, aggravare ulteriormente il proprio peccato difendendosi”.
 
-<span class="atom-split" data-atom="152" data-title="Whether it is lawful for the accused to defend himself with calumnies?" data-chapter="Whether it is lawful for the accused to defend himself with calumnies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="152" data-title="Whether it is lawful for the accused to defend himself with calumnies?" data-chapter="Whether it is lawful for the accused to defend himself with calumnies?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem lawful for the accused to defend himself with calumnies. Because,
 according to civil law (Cod. II, iv, De transact. 18), when a man is on trial for his life it is lawful
@@ -9233,7 +9244,7 @@ Risposta all’Obiezione 2: Se l’accusatore è colpevole di collusione con l�
 
 Risposta all’Obiezione 3: L’uomo saggio non si nasconde diffamando gli altri, ma agendo con prudenza.
 
-<span class="atom-split" data-atom="153" data-title="Whether it is lawful for the accused to escape judgment by appealing?" data-chapter="Whether it is lawful for the accused to escape judgment by appealing?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="153" data-title="Whether it is lawful for the accused to escape judgment by appealing?" data-chapter="Whether it is lawful for the accused to escape judgment by appealing?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unlawful for the accused to escape judgment by appealing. The
 Apostle says (Rom. 13:1): "Let every soul be subject to the higher powers." Now the accused by
@@ -9310,7 +9321,7 @@ Risposta all’Obiezione 2: È a causa della propria colpa o negligenza che un u
 
 Risposta all’Obiezione 3: L’equità della legge protegge così bene gli interessi di una parte che l’altra non venga oppressa. Per questo motivo viene concesso un termine di dieci giorni per presentare ricorso, ritenuto sufficiente per valutare la convenienza di tale azione. Se invece non esistesse un limite temporale fisso per il ricorso, la certezza della decisione rimarrebbe sempre in sospeso, causando danni all’altra parte. Il motivo per cui non è consentito presentare un terzo ricorso sullo stesso argomento è che non è probabile che i giudici sbaglino così tante volte nella loro valutazione.
 
-<span class="atom-split" data-atom="154" data-title="Whether a man who is condemned to death may lawfully defend himself if he can?" data-chapter="Whether a man who is condemned to death may lawfully defend himself if he can?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="154" data-title="Whether a man who is condemned to death may lawfully defend himself if he can?" data-chapter="Whether a man who is condemned to death may lawfully defend himself if he can?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man who is condemned to death may lawfully defend himself
 if he can. For it is always lawful to do that to which nature inclines us, as being of [natural right](/positions/natural_right), so
@@ -9375,7 +9386,7 @@ Risposta all’Obiezione 2: Quando un uomo viene condannato a morte, non è tenu
 
 Risposta all’Obiezione 3: Questa dichiarazione del saggio non suggerisce affatto che si debba salvare una persona dalla morte contravvenendo all’ordine della giustizia; pertanto, nessuno dovrebbe nemmeno salvarsi da morte resistendo alla giustizia.
 
-<span class="atom-split" data-atom="155" data-title="OF INJUSTICE WITH REGARD TO THE PERSON OF THE WITNESS (FOUR ARTICLES)" data-chapter="OF INJUSTICE WITH REGARD TO THE PERSON OF THE WITNESS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="155" data-title="OF INJUSTICE WITH REGARD TO THE PERSON OF THE WITNESS (FOUR ARTICLES)" data-chapter="OF INJUSTICE WITH REGARD TO THE PERSON OF THE WITNESS (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/law,concepts/human_law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider injustice with regard to the person of the witness. Under this head there
 are four points of inquiry:
@@ -9392,7 +9403,7 @@ Dobbiamo ora considerare l’ingiustizia riguardo alla persona del testimone. In
 (3) Se la testimonianza di un uomo possa essere rifiutata senza alcuna colpa da parte sua;  
 (4) Se dare false testimonianze costituisca un peccato mortale.
 
-<span class="atom-split" data-atom="156" data-title="Whether a man is bound to give evidence?" data-chapter="Whether a man is bound to give evidence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="156" data-title="Whether a man is bound to give evidence?" data-chapter="Whether a man is bound to give evidence?" data-kind="atom" data-srclang="en" data-tags="positions/natural_right,concepts/justice,concepts/sacrament,figures/augustine"></span>
 
 Objection 1: It would seem that a man is not bound to give evidence. [Augustine](/figures/augustine) say (QQ. Gn.
 1:26) [*Cf. Contra Faust. xxii, 33,34], that when Abraham said of his wife (Gn. 20:2), "She is my
@@ -9474,7 +9485,7 @@ Risposta all’Obiezione 2: Un uomo non dovrebbe in alcun modo testimoniare su q
 
 Risposta all’Obiezione 3: È indecoroso che i ministri dell’altare uccidano un uomo o cooperino alla sua morte, come già detto sopra (Q[64], A[4]); pertanto, secondo l’ordine della giustizia, non possono essere costretti a testimoniare quando un uomo viene processato per la vita.
 
-<span class="atom-split" data-atom="157" data-title="Whether the evidence of two or three persons suffices?" data-chapter="Whether the evidence of two or three persons suffices?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="157" data-title="Whether the evidence of two or three persons suffices?" data-chapter="Whether the evidence of two or three persons suffices?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the evidence of two or three persons is not sufficient. For
 judgment requires certitude. Now certitude of the truth is not obtained by the assertions of two or
@@ -9575,7 +9586,7 @@ Risposta all’Obiezione 2: Se i testimoni sono in disaccordo su alcune circosta
 
 Risposta all’Obiezione 3: Questo passaggio si riferisce specificamente ai vescovi, ai preti, ai diaconi e ai chierici della Chiesa Romana, in considerazione della loro dignità; e ciò per tre motivi. Primo, perché in quella Chiesa dovrebbero essere promossi coloro la cui santità rende la loro testimonianza più autorevole di quella di molti testimoni. Secondo, poiché coloro che devono giudicare gli altri spesso incontrano molte opposizioni a causa della loro imparzialità; pertanto, le testimonianze contro di loro non dovrebbero essere credute indiscriminatamente, a meno che non siano molto numerose. Terzo, poiché la condanna di uno qualsiasi di loro potrebbe danneggiare, nell’opinione pubblica, la dignità e l’autorità di quella Chiesa; un risultato più pericoloso di quanto non sarebbe tollerare un peccatore nella stessa Chiesa, a meno che quest’ultimo non fosse particolarmente noto e palesemente colpevole, al punto da provocare uno scandalo grave se tollerato.
 
-<span class="atom-split" data-atom="158" data-title="Whether a man's evidence can be rejected without any fault of his?" data-chapter="Whether a man's evidence can be rejected without any fault of his?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="158" data-title="Whether a man's evidence can be rejected without any fault of his?" data-chapter="Whether a man's evidence can be rejected without any fault of his?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man's evidence ought not to be rejected except on account
 of some fault. For it a penalty on some that their evidence is inadmissible, as in the case of those
@@ -9637,7 +9648,7 @@ Risposta all’Obiezione 2: Si deve presumere che tutti siano buoni, a meno che 
 
 Risposta all’Obiezione 3: Dare testimonianza è necessario per la salvezza, a condizione che il testimone sia idoneo e che venga rispettato l’ordine della giustizia. Pertanto, nulla impedisce che alcune persone siano esentate dal dovere di testimoniare, qualora vengano ritenute inadatte ai sensi della legge.
 
-<span class="atom-split" data-atom="159" data-title="Whether it is always a mortal sin to give false evidence?" data-chapter="Whether it is always a mortal sin to give false evidence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="159" data-title="Whether it is always a mortal sin to give false evidence?" data-chapter="Whether it is always a mortal sin to give false evidence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not always a mortal sin to give false evidence. For a person
 may happen to give false evidence, through ignorance of fact. Now such ignorance excuses from
@@ -9698,7 +9709,7 @@ Risposta all’Obiezione 2: Un giudizio ingiusto non è propriamente un giudizio
 
 Risposta all’Obiezione 3: Gli uomini odiano soprattutto quei peccati che sono contro Dio, poiché considerati i più gravi; tra questi rientra anche il falso testimonio. Al contrario, non odiano altrettanto i peccati commessi contro il loro prossimo. Pertanto, per garantire una maggiore certezza delle prove, viene richiesto al testimone di prestare giuramento.
 
-<span class="atom-split" data-atom="160" data-title="OF INJUSTICE IN JUDGMENT ON THE PART OF COUNSEL (FOUR ARTICLES)" data-chapter="OF INJUSTICE IN JUDGMENT ON THE PART OF COUNSEL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="160" data-title="OF INJUSTICE IN JUDGMENT ON THE PART OF COUNSEL (FOUR ARTICLES)" data-chapter="OF INJUSTICE IN JUDGMENT ON THE PART OF COUNSEL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the injustice which takes place in judgment on the part of counsel, and
 under this head there are four points of inquiry:
@@ -9715,7 +9726,7 @@ Dobbiamo ora considerare l’ingiustizia che si verifica nel processo decisional
 (3) Se un avvocato commetta peccato difendendo una causa ingiusta;  
 (4) Se commetta peccato accettando una remunerazione per la difesa di una causa.
 
-<span class="atom-split" data-atom="161" data-title="Whether an advocate is bound to defend the suits of the poor?" data-chapter="Whether an advocate is bound to defend the suits of the poor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="161" data-title="Whether an advocate is bound to defend the suits of the poor?" data-chapter="Whether an advocate is bound to defend the suits of the poor?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/fortune,figures/augustine"></span>
 
 Objection 1: It would seem that an advocate is bound to defend the suits of the poor. For it is
 written (Ex. 23:5): "If thou see the ass of him that hateth thee lie underneath his burden, thou shalt
@@ -9794,7 +9805,7 @@ Risposta all’Obiezione 2: Un uomo è tenuto a utilizzare al meglio il talento 
 
 Risposta all’Obiezione 3: Non ogni bisogno è tale da rendere dovere nostro remediarlo; solo quelli che abbiamo menzionato sopra lo sono.
 
-<span class="atom-split" data-atom="162" data-title="Whether it is fitting that the law should debar certain persons from the office of advocate?" data-chapter="Whether it is fitting that the law should debar certain persons from the office of advocate?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="162" data-title="Whether it is fitting that the law should debar certain persons from the office of advocate?" data-chapter="Whether it is fitting that the law should debar certain persons from the office of advocate?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unfitting for the law to debar certain persons from the office of
 advocate. For no man should be debarred from doing works of mercy. Now it belongs to the works
@@ -9806,7 +9817,7 @@ with Divine things and to be busy about sin are contrary to one another. Therefo
 that some should be debarred from the office of advocate, on account of religion, as monks and
 clerics, while others are debarred on account of sin, as persons of ill-repute and heretics.
 
-Objection 3: Further, a man should love his neighbor as himself. Now it is a duty of love for
+Objection 3: Further, a man should love his neighbor as himself. Now it is a [duty](/positions/duty_imperative) of love for
 an advocate to plead a person's cause. Therefore it is unfitting that certain persons should be debarred
 from pleading the cause of others, while they are allowed to advocate their own cause.
 
@@ -9866,7 +9877,7 @@ Risposta all’Obiezione 2: Proprio come la virtù viene distrutta da “troppo�
 
 Risposta all’Obiezione 3: La necessità di addurre le ragioni altrui non è così urgente quanto quella di difendere le proprie ragioni, poiché gli altri possono comunque aiutarsi da soli; pertanto, il confronto non è valido.
 
-<span class="atom-split" data-atom="163" data-title="Whether an advocate sins by defending an unjust cause?" data-chapter="Whether an advocate sins by defending an unjust cause?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="163" data-title="Whether an advocate sins by defending an unjust cause?" data-chapter="Whether an advocate sins by defending an unjust cause?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an advocate does not sin by defending an unjust cause. For
 just as a physician proves his skill by healing a desperate disease, so does an advocate prove his
@@ -9934,7 +9945,7 @@ Risposta all’Obiezione 2: Se un avvocato ritiene fin dall’inizio che la caus
 
 Risposta all’Obiezione 3: Come già detto sopra (Q[40], A[3]), è legittimo che un soldato o un generale tenda imboscate in una guerra giusta, nascondendo con prudenza ciò che intende fare, ma non attraverso menzogne fraudolente; infatti dobbiamo mantenere la fede anche nei confronti del nemico, come afferma Tullio (De officiis, iii, 29). Pertanto è legittimo che un avvocato, nel difendere la propria causa, nasconda con prudenza tutto ciò che potrebbe ostacolare il successo della sua argomentazione, ma è illegittimo che utilizzi qualsiasi tipo di menzogna.
 
-<span class="atom-split" data-atom="164" data-title="Whether it is lawful for an advocate to take a fee for pleading?" data-chapter="Whether it is lawful for an advocate to take a fee for pleading?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="164" data-title="Whether it is lawful for an advocate to take a fee for pleading?" data-chapter="Whether it is lawful for an advocate to take a fee for pleading?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/law,concepts/custom,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem unlawful for an advocate to take a fee for pleading. Works of mercy
 should not be done with a view to human remuneration, according to Lk. 14:12, "When thou makest
@@ -10003,7 +10014,7 @@ Risposta all’Obiezione 2: Sebbene la conoscenza del diritto sia qualcosa di sp
 
 Risposta all’Obiezione 3: Il giudice e i testimoni sono comuni a entrambe le parti, poiché il giudice è tenuto a emettere una sentenza giusta, e il testimone deve fornire prove veritiere. Ora, la giustizia e la verità non tendono da un lato piuttosto che dall’altro; pertanto i giudici ricevono un compenso fisso dai fondi pubblici per il loro lavoro, e i testimoni ricevono le spese sostenute (non come pagamento per aver fornito prove, ma come remunerazione per il loro impegno) sia da entrambe le parti che dalla parte per la quale testimoniano, poiché nessuno “presta servizio militare a proprie spese” (1 Corinzi 9:7). D’altra parte, un avvocato difende soltanto una parte, e quindi può legittimamente accettare una remunerazione da quella parte che assiste.
 
-<span class="atom-split" data-atom="165" data-title="OF REVILING (FOUR ARTICLES)" data-chapter="OF REVILING (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="165" data-title="OF REVILING (FOUR ARTICLES)" data-chapter="OF REVILING (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider injuries inflicted by words uttered extrajudicially. We shall consider
 (1) reviling, (2) backbiting, (3) tale bearing, (4) derision, (5) cursing.
@@ -10017,7 +10028,7 @@ Under the first head there are four points of inquiry:
 
 Dobbiamo ora considerare i danni arrecati dalle parole pronunciate al di fuori dei procedimenti legali. Esamineremo: (1) l’insulto, (2) la calunnia, (3) un determinato comportamento, (4) la derisione, (5) la maledizione. Per quanto riguarda il primo punto, vi sono quattro aspetti da analizzare: (1) Che cos’è l’insulto? (2) Ogni insulto rappresenta un peccato mortale? (3) Bisogna impedire che le persone insultino gli altri? (4) Qual è l’origine dell’insulto?
 
-<span class="atom-split" data-atom="166" data-title="Whether reviling consists in words?" data-chapter="Whether reviling consists in words?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="166" data-title="Whether reviling consists in words?" data-chapter="Whether reviling consists in words?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that reviling does not consist in words. Reviling implies some
 injury inflicted on one's neighbor, since it is a kind of injustice. But words seem to inflict no injury
@@ -10091,7 +10102,7 @@ Risposta all’Obiezione 2: Un uomo offende un altro con i propri atti nel momen
 
 Risposta all’Obiezione 3: Le offese e le derisioni consistono in parole, proprio come gli insulti, poiché attraverso di esse i difetti di una persona vengono esposti a scapito della sua reputazione. Tali difetti sono di tre tipi. Primo, c’è il difetto legato alla colpevolezza, che viene rivelato attraverso parole offensive. Secondo, c’è il difetto sia legato alla colpevolezza che al castigo, che viene esposto attraverso derisioni e insulti, poiché il “vizio” viene comunemente associato non solo all’anima ma anche al corpo. Pertanto, se una persona dice con cattiveria a un’altra che è cieca, sta deridendo ma non insultando; invece, se qualcuno definisce un’altra ladro, sta sia deridendo che insultando quella persona. Terzo, una persona rimprovera un’altra per la sua inferiorità o povertà, al fine di diminuire l’onore che le spetterebbe per qualsiasi tipo di merito possieda. Ciò avviene attraverso parole denigratorie; in senso stretto, si verifica quando qualcuno ricorda con cattiveria a una persona che gli ha prestato aiuto in un momento di difficoltà. Per questo motivo è scritto (Ecclesiaste 20:15): “Darà poche cose e molte rimproverazioni”. Tuttavia, questi termini vengono talvolta usati l’uno al posto dell’altro.
 
-<span class="atom-split" data-atom="167" data-title="Whether reviling or railing is a mortal sin?" data-chapter="Whether reviling or railing is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="167" data-title="Whether reviling or railing is a mortal sin?" data-chapter="Whether reviling or railing is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that reviling or railing is not a mortal sin. For no mortal sin is an
 act of virtue. Now railing is the act of a virtue, viz. of wittiness {eutrapelia} [*Cf. FS, Q[60], A[5]]
@@ -10166,7 +10177,7 @@ Risposta all’Obiezione 2: Proprio come è lecito colpire una persona o dannegg
 
 Risposta all’Obiezione 3: Poiché il peccato di insultare o denigrare dipende dall’intenzione di chi lo compie, può trattarsi di un peccato veniale se l’insulto è lieve e non arreca grande disonore alla persona offesa, e viene pronunciato per leggerezza o a causa di una piccola rabbia, senza l’intenzione deliberata di umiliarla; ad esempio, quando si intende causare solo un lieve dolore con tali parole.
 
-<span class="atom-split" data-atom="168" data-title="Whether one ought to suffer oneself to be reviled?" data-chapter="Whether one ought to suffer oneself to be reviled?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="168" data-title="Whether one ought to suffer oneself to be reviled?" data-chapter="Whether one ought to suffer oneself to be reviled?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one ought not to suffer oneself to be reviled. For he that suffers
 himself to be reviled, encourages the reviler. But one ought not to do this. Therefore one ought not
@@ -10235,7 +10246,7 @@ Risposta all’Obiezione 2: Quando un uomo impedisce a un altro di essere insult
 
 Risposta all’Obiezione 3: Mantenere il silenzio con l’intento di provocare la rabbia di chi offende sarebbe un atto di vendetta; al contrario, rimanere in silenzio per permettere che emerga la rabbia è qualcosa di lodevole. Per questo si legge nell’Ecclesiaste (8:4): “Non litigare con colui che è pieno di parole, e non alimentare il suo fuoco aggiungendo altra legna”.
 
-<span class="atom-split" data-atom="169" data-title="Whether reviling arises from anger?" data-chapter="Whether reviling arises from anger?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="169" data-title="Whether reviling arises from anger?" data-chapter="Whether reviling arises from anger?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that reviling does not arise from [anger](/concepts/anger). For it is written (Prov.
 11:2): "Where pride is, there shall also be reviling [Douay: 'reproach']." But anger is a vice distinct
@@ -10289,7 +10300,7 @@ Risposta all’Obiezione 2: Secondo il Filosofo (Etica vii, 6), “l’ira ascol
 
 Risposta all’Obiezione 3: Secondo il Filosofo (Retorica ii, 4), “un uomo arrabbiato cerca un’offesa aperta, ma colui che odia non se ne preoccupa”. Pertanto, l’insulto, che rappresenta un danno manifesto, appartiene all’ira piuttosto che all’odio.
 
-<span class="atom-split" data-atom="170" data-title="OF BACKBITING [*Or detraction] (FOUR ARTICLES)" data-chapter="OF BACKBITING [*Or detraction] (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="170" data-title="OF BACKBITING [*Or detraction] (FOUR ARTICLES)" data-chapter="OF BACKBITING [*Or detraction] (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider backbiting, under which head there are four points of inquiry:
 (1) What is backbiting?
@@ -10305,7 +10316,7 @@ Dobbiamo ora esaminare il pettegolezzo, argomento che comprende quattro aspetti 
 (3) In che modo si colloca rispetto ad altri peccati?  
 (4) È peccato ascoltare i pettegolezzi altrui?
 
-<span class="atom-split" data-atom="171" data-title="Whether backbiting is suitably defined as the blackening of another's character by secret words?" data-chapter="Whether backbiting is suitably defined as the blackening of another's character by secret words?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="171" data-title="Whether backbiting is suitably defined as the blackening of another's character by secret words?" data-chapter="Whether backbiting is suitably defined as the blackening of another's character by secret words?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that backbiting is not as defined by some [*Albert the Great, Sum.
 Theol. II, cxvii.], "the blackening of another's good name by words uttered in secret." For "secretly"
@@ -10378,7 +10389,7 @@ Risposta all’Obiezione 2: Si dice che le parole di chi diffama siano “segret
 
 Risposta all’Obiezione 3: Si dice che un uomo calunni un altro non perché sminuisca la verità, ma perché danneggi la sua reputazione. Ciò avviene a volte in modo diretto, altre volte indiretto. In modo diretto, ci sono quattro modi principali: primo, dicendo cose false su di lui; secondo, affermando che i suoi peccati siano più gravi di quanto siano realmente; terzo, rivelando informazioni sconosciute su di lui; quarto, attribuendo le sue azioni buone a intenzioni cattive. In modo indiretto, ciò avviene negando i suoi meriti, nascondendoli maliziosamente o sminuendoli.
 
-<span class="atom-split" data-atom="172" data-title="Whether backbiting is a mortal sin?" data-chapter="Whether backbiting is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="172" data-title="Whether backbiting is a mortal sin?" data-chapter="Whether backbiting is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that backbiting is not a mortal sin. For no act of virtue is a mortal
 sin. Now, to reveal an unknown sin, which pertains to backbiting, as stated above (A[1], ad 3), is
@@ -10448,7 +10459,7 @@ Risposta all’Obiezione 2: Questa spiegazione non afferma che le calunnie siano
 
 Risposta all’Obiezione 3: Agostino si riferisce al caso in cui una persona pronuncia qualcosa di offensivo su qualcun altro senza l’intenzione di ferirlo, ma a causa di leggerezza d’animo o di un errore di parola.
 
-<span class="atom-split" data-atom="173" data-title="Whether backbiting is the gravest of all sins committed against one's neighbor?" data-chapter="Whether backbiting is the gravest of all sins committed against one's neighbor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="173" data-title="Whether backbiting is the gravest of all sins committed against one's neighbor?" data-chapter="Whether backbiting is the gravest of all sins committed against one's neighbor?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that backbiting is the gravest of all sins committed against one's
 neighbor. Because a gloss on Ps. 108:4, "Instead of making me a return of love they detracted me,"
@@ -10550,7 +10561,7 @@ Risposta all’Obiezione 3: L’ira cerca apertamente di essere vendicata, come 
 
 Risposta all’Obiezione 4: Poiché “l’uomo si rallegra delle parole che pronuncia” (Proverbi 15:23), ne consegue che chi diffama gli altri ami sempre di più ciò che dice e ci creda sempre di più; di conseguenza, odia sempre di più il proprio prossimo, e così la sua conoscenza della verità diventa sempre minore. Tuttavia, questo effetto può anche derivare da altri peccati legati all’odio verso il prossimo.
 
-<span class="atom-split" data-atom="174" data-title="Whether it is a grave sin for the listener to suffer the backbiter?" data-chapter="Whether it is a grave sin for the listener to suffer the backbiter?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="174" data-title="Whether it is a grave sin for the listener to suffer the backbiter?" data-chapter="Whether it is a grave sin for the listener to suffer the backbiter?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the listener who suffers a backbiter does not sin grievously.
 For a man is not under greater obligations to others than to himself. But it is praiseworthy for a
@@ -10584,7 +10595,7 @@ detracted, he sins no less than the detractor, and sometimes more. Wherefore Ber
 Consid. ii, 13): "It is difficult to say which is the more to be condemned the backbiter or he that
 listens to backbiting." If however the sin is not pleasing to him, and he fails to withstand the
 backbiter, through fear negligence, or even shame, he sins indeed, but much less than the backbiter,
-and, as a rule venially. Sometimes too this may be a mortal sin, either because it is his official duty
+and, as a rule venially. Sometimes too this may be a mortal sin, either because it is his official [duty](/positions/duty_imperative)
 to cor. rect the backbiter, or by reason of some consequent danger; or on account of the radical
 reason for which human fear may sometimes be a mortal sin, as stated above (Q[19], A[3]).
 
@@ -10628,7 +10639,7 @@ Risposta all’Obiezione 2: Non si dovrebbe sempre resistere a chi parla male di
 
 Risposta all’Obiezione 3: Il profitto che si trae dal fare del male alle spalle altrui deriva non dall’intenzione di chi lo compie, ma dall’ordine di Dio, che trasforma ogni male in bene. Pertanto dobbiamo comunque resistere a coloro che diffamano o opprimono gli altri, proprio come coloro che rubano o opprimono gli altri, anche se le vittime della loro azione potrebbero guadagnare meriti attraverso la pazienza.
 
-<span class="atom-split" data-atom="175" data-title="OF TALE-BEARING [*'Susurratio,' i.e. whispering] (TWO ARTICLES)" data-chapter="OF TALE-BEARING [*'Susurratio,' i.e. whispering] (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="175" data-title="OF TALE-BEARING [*'Susurratio,' i.e. whispering] (TWO ARTICLES)" data-chapter="OF TALE-BEARING [*'Susurratio,' i.e. whispering] (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 We must now consider tale-bearing: under which head there are two points of inquiry:
 (1) Whether tale-bearing is a sin distinct from backbiting?
@@ -10640,7 +10651,7 @@ Dobbiamo ora considerare il tema del pettegolezzo: in questa categoria esistono 
 (1) Se il pettegolezzo sia un peccato distinto dal maldicire;  
 (2) Qual dei due sia più grave.
 
-<span class="atom-split" data-atom="176" data-title="Whether tale-bearing is a sin distinct from backbiting?" data-chapter="Whether tale-bearing is a sin distinct from backbiting?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="176" data-title="Whether tale-bearing is a sin distinct from backbiting?" data-chapter="Whether tale-bearing is a sin distinct from backbiting?" data-kind="atom" data-srclang="en" data-tags="concepts/friendship"></span>
 
 Objection 1: It would seem that tale-bearing is not a distinct sin from backbiting. Isidore says
 (Etym. x): "The susurro [tale-bearer] takes his name from the sound of his speech, for he speaks
@@ -10705,7 +10716,7 @@ Risposta all’Obiezione 2: Un delatore si distingue da chi diffonde voci o parl
 
 Risposta all’Obiezione 3: Una persona doppiogola è, in senso proprio, una calunniatrice. Poiché l’amicizia si basa su un rapporto tra due persone, la calunniatrice cerca di distruggere tale rapporto da entrambe le parti. Pertanto utilizza un linguaggio ambiguo nei confronti di entrambi i soggetti coinvolti, parlando male di uno davanti all’altro; per questo motivo si legge nell’Ecclesiaste (28:15): “Il calunniatore e la persona doppiogola sono maledetti”, e poi si aggiunge: “poiché hanno causato disordini tra molte persone che vivevano in pace”.
 
-<span class="atom-split" data-atom="177" data-title="Whether backbiting is a graver sin than tale-bearing?" data-chapter="Whether backbiting is a graver sin than tale-bearing?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="177" data-title="Whether backbiting is a graver sin than tale-bearing?" data-chapter="Whether backbiting is a graver sin than tale-bearing?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that backbiting is a graver sin than tale-bearing. For sins of word
 consist in speaking evil. Now a backbiter speaks of his neighbor things that are evil simply, for
@@ -10772,7 +10783,7 @@ Risposta all’Obiezione 2: Un buon nome rappresenta una disposizione verso l’
 
 Risposta all’Obiezione 3: Colui che parla male di suo fratello sembra minare la legge, poiché disprezza il precetto dell’amore verso il prossimo; colui invece che cerca di rompere l’amicizia sembra agire ancora più direttamente contro questo precetto. Pertanto, questo secondo peccato è particolarmente offensivo nei confronti di Dio, poiché “Dio è carità” (1 Gv 4:16). Per questa ragione si legge nel Libro dei Proverbi (6:16): “Ci sono sei cose che il Signore odia, e la settima è quella che il suo cuore detesta”; la settima di queste cose è colui che semina discordia tra i fratelli.
 
-<span class="atom-split" data-atom="178" data-title="OF DERISION [*Or mockery] (TWO ARTICLES)" data-chapter="OF DERISION [*Or mockery] (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="178" data-title="OF DERISION [*Or mockery] (TWO ARTICLES)" data-chapter="OF DERISION [*Or mockery] (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now speak of derision, under which head there are two points of inquiry:
 (1) Whether derision is a special sin distinct from the other sins whereby one's neighbor is
@@ -10785,7 +10796,7 @@ Dobbiamo ora parlare del disprezzo; in questo ambito vi sono due questioni da es
 (1) Se il disprezzo sia un peccato specifico, distinto dagli altri peccati attraverso i quali si offende il prossimo con le parole;  
 (2) Se il disprezzo sia un peccato mortale.
 
-<span class="atom-split" data-atom="179" data-title="Whether derision is a special sin distinct from those already mentioned?" data-chapter="Whether derision is a special sin distinct from those already mentioned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="179" data-title="Whether derision is a special sin distinct from those already mentioned?" data-chapter="Whether derision is a special sin distinct from those already mentioned?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that derision is not a special sin distinct from those mentioned
 above. For laughing to scorn is apparently the same as derision. But laughing to scorn pertains to
@@ -10848,7 +10859,7 @@ Risposta all’Obiezione 2: Per aver compiuto un atto virtuoso, un uomo merita s
 
 Risposta all’Obiezione 3: Una coscienza serena e tranquilla rappresenta un grande bene, come afferma il Proverbo 15:15: “Un cuore sereno è come una festa continua”. Pertanto, colui che disturba la coscienza di un altro confondendolo gli infligge un danno particolare; da ciò derisione può essere considerata un tipo specifico di peccato.
 
-<span class="atom-split" data-atom="180" data-title="Whether derision can be a mortal sin?" data-chapter="Whether derision can be a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="180" data-title="Whether derision can be a mortal sin?" data-chapter="Whether derision can be a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that derision cannot be a mortal sin. Every mortal sin is contrary
 to charity. But derision does not seem contrary to charity, for sometimes it takes place in jest among
@@ -10926,7 +10937,7 @@ Risposta all’Obiezione 2: Né colui che ricade in un peccato per il quale si �
 
 Risposta all’Obiezione 3: La derisione, in sé considerata, è meno offensiva del pettegolezzo o dell’insulto, poiché non implica disprezzo, ma solo scherzo. Tuttavia, a volte può contenere un disprezzo maggiore di quello espresso attraverso insulti, come già accennato in precedenza; in tal caso, rappresenta un grave peccato.
 
-<span class="atom-split" data-atom="181" data-title="OF CURSING (FOUR ARTICLES)" data-chapter="OF CURSING (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="181" data-title="OF CURSING (FOUR ARTICLES)" data-chapter="OF CURSING (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider cursing. Under this head there are four points of inquiry:
 (1) Whether one may lawfully curse another?
@@ -10942,7 +10953,7 @@ Dobbiamo ora considerare l’atto di maledire. In questo ambito vi sono quattro 
 (3) Se la maledizione costituisca un peccato mortale;  
 (4) Il suo confronto con altri peccati.
 
-<span class="atom-split" data-atom="182" data-title="Whether it is lawful to curse anyone?" data-chapter="Whether it is lawful to curse anyone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="182" data-title="Whether it is lawful to curse anyone?" data-chapter="Whether it is lawful to curse anyone?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unlawful to curse anyone. For it is unlawful to disregard the
 command of the Apostle in whom Christ spoke, according to 2 Cor. 13:3. Now he commanded
@@ -11038,7 +11049,7 @@ Risposta all’Obiezione 4: Nel diavolo bisogna considerare sia la sua natura ch
 
 Risposta all’Obiezione 5: Sebbene i sentimenti del peccatore non possano essere percepiti direttamente, essi possono essere compresi attraverso un qualche peccato manifesto che necessita di essere punito. Allo stesso modo, sebbene non sia possibile sapere chi Dio maledica in relazione alla condanna finale, è possibile conoscere chi viene maledetto da Dio per aver commesso peccati attuali.
 
-<span class="atom-split" data-atom="183" data-title="Whether it is lawful to curse an irrational creature?" data-chapter="Whether it is lawful to curse an irrational creature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="183" data-title="Whether it is lawful to curse an irrational creature?" data-chapter="Whether it is lawful to curse an irrational creature?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is unlawful to curse an irrational creature. Cursing would
 seem to be lawful chiefly in its relation to punishment. Now irrational creatures are not competent
@@ -11084,7 +11095,7 @@ Al contrario, il nostro Signore maledisse l’albero di fico, come raccontato in
 
 Rispondo che, propriamente parlando, benedizione e maledizione riguardano cose alle quali può accadere il bene o il male, cioè le creature razionali; mentre si dice che bene e male accadano alle creature irrazionali in relazione alla creatura razionale per cui esistono. Ora, queste creature irrazionali sono collegate alle creature razionali in diversi modi. Primo, attraverso il loro ruolo di servizio: le creature irrazionali infatti soddisfano i bisogni dell’uomo. In questo senso, il Signore disse all’uomo (Genesi 3:17): “Maledetta è la terra per via del tuo operare”, affinché la sua sterilità diventasse una punizione per l’uomo. Allo stesso modo, Davide maledisse le montagne di Gelboe, secondo l’interpretazione di Gregorio (Morali, iv, 3). Inoltre, le creature irrazionali sono collegate alle razionali anche in termini di significato simbolico: è così che il nostro Signore maledisse la figlia dell’ulivo a simboleggiare la Giudea. Terzo, le creature irrazionali sono collegate alle razionali come elementi che le contengono, cioè in termini di tempo o luogo: è per questo che Giobbe maledisse il giorno della sua nascita, a causa del [-peccato originale](/positions/original_sin) contratto al momento della sua venuta al mondo e delle conseguenti punizioni. Anche in questo senso si può intendere che Davide abbia maledetto le montagne di Gelboe, come leggiamo in 2 Re 1:21, a causa del popolo massacrato lì. Tuttavia, maledire le creature irrazionali considerate esseri creati da Dio è un peccato di blasfemia; mentre maledirle in sé stesse è un atto futile e quindi illegittimo. Da queste considerazioni si possono facilmente trarre le risposte alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="184" data-title="Whether cursing is a mortal sin?" data-chapter="Whether cursing is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="184" data-title="Whether cursing is a mortal sin?" data-chapter="Whether cursing is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that cursing is not a mortal sin. For [Augustine](/figures/augustine) in a homily On the
 Fire of Purgatory [*Serm. civ in the appendix of St. Augustine's works] reckons cursing among
@@ -11126,7 +11137,7 @@ Al contrario, nulla, se non il peccato mortale, esclude qualcuno dal regno di Di
 
 Rispondo che le parole malvagie di cui stiamo parlando ora sono quelle con cui si pronuncia il male contro qualcuno, sia attraverso un comando che attraverso un desiderio. Desiderare il male per un altro uomo, o indurlo a commettere quel male comandandolo, è, per sua natura stessa, contrario alla carità, che ci spinge ad amare il nostro prossimo desiderando il suo bene. Pertanto si tratta di un peccato mortale, in base al suo genere; e tale peccato diventa ancora più grave se la persona contro cui viene maledetto merita maggior amore e rispetto da parte nostra. Ecco perché è scritto (Levitico 20:9): “Chi maledice il proprio padre o la propria madre, che muoia”. Tuttavia può accadere che le parole pronunciate in un’invocazione di maledizione siano considerate peccati veniali, sia a causa della gravità minore del male invocato, sia per i sentimenti della persona che le pronuncia; infatti queste parole possono essere dette in modo casuale, scherzosamente o senza riflessione. I peccati verbali devono quindi essere valutati soprattutto in base all’intenzione di chi li pronuncia, come già detto sopra (Q[72], A[2]). Da ciò si possono facilmente trarre le risposte alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="185" data-title="Whether cursing is a graver sin than backbiting?" data-chapter="Whether cursing is a graver sin than backbiting?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="185" data-title="Whether cursing is a graver sin than backbiting?" data-chapter="Whether cursing is a graver sin than backbiting?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that cursing is a graver sin than backbiting. Cursing would seem
 to be a kind of blasphemy, as implied in the canonical epistle of Jude (verse 9) where it is said that
@@ -11196,7 +11207,7 @@ Risposta all’Obiezione 2: Come già detto sopra (A[3]), maledire, in un certo 
 Risposta all’Obiezione 3: Questo argomento considera il lancio di maledizioni come un atto di comando.  
 (D) PER PECCATI COMMESSI NEL COMPRIRE E VENDERE (Q[77])
 
-<span class="atom-split" data-atom="186" data-title="OF CHEATING, WHICH IS COMMITTED IN BUYING AND SELLING (FOUR ARTICLES)" data-chapter="OF CHEATING, WHICH IS COMMITTED IN BUYING AND SELLING (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="186" data-title="OF CHEATING, WHICH IS COMMITTED IN BUYING AND SELLING (FOUR ARTICLES)" data-chapter="OF CHEATING, WHICH IS COMMITTED IN BUYING AND SELLING (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/property"></span>
 
 We must now consider those sins which relate to voluntary commutations. First, we shall
 consider cheating, which is committed in buying and selling: secondly, we shall consider usury,
@@ -11218,7 +11229,7 @@ All’interno della prima categoria di analisi vi sono quattro punti principali 
 (3) Se il venditore debba rivelare eventuali difetti presenti nell’oggetto venduto.  
 (4) Se sia legittimo, nel commercio, vendere un oggetto a un prezzo più alto di quello pagato per esso.
 
-<span class="atom-split" data-atom="187" data-title="Whether it is lawful to sell a thing for more than its worth?" data-chapter="Whether it is lawful to sell a thing for more than its worth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="187" data-title="Whether it is lawful to sell a thing for more than its worth?" data-chapter="Whether it is lawful to sell a thing for more than its worth?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is lawful to sell a thing for more than its worth. In the
 commutations of human life, civil laws determine that which is just. Now according to these laws
@@ -11320,7 +11331,7 @@ Risposta all’Obiezione 2: Come afferma Agostino, “questo buffone, osservando
 
 Risposta all’Obiezione 3: Nella giustizia commutativa consideriamo principalmente l’uguaglianza reale; d’altra parte, nell’amicizia basata sull’utilità prendiamo in considerazione l’uguaglianza in termini di utilità, quindi la ricompensa dovrebbe dipendere dall’utilità ottenuta, mentre nell’atto di acquisto essa dovrebbe essere equivalente all’oggetto acquistato.
 
-<span class="atom-split" data-atom="188" data-title="Whether a sale is rendered unlawful through a fault in the thing sold?" data-chapter="Whether a sale is rendered unlawful through a fault in the thing sold?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="188" data-title="Whether a sale is rendered unlawful through a fault in the thing sold?" data-chapter="Whether a sale is rendered unlawful through a fault in the thing sold?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a sale is not rendered unjust and unlawful through a fault in
 the thing sold. For less account should be taken of the other parts of a thing than of what belongs
@@ -11392,7 +11403,7 @@ of the hidden qualities of the thing sold, but only of such as render the thing 
 for instance, that the horse be strong, run well and so forth. Such qualities the seller and buyer can
 easily discover.
 
-<span class="atom-split" data-atom="189" data-title="Whether the seller is bound to state the defects of the thing sold?" data-chapter="Whether the seller is bound to state the defects of the thing sold?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="189" data-title="Whether the seller is bound to state the defects of the thing sold?" data-chapter="Whether the seller is bound to state the defects of the thing sold?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/commodity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the seller is not bound to state the defects of the thing sold.
 Since the seller does not bind the buyer to buy, he would seem to leave it to him to judge of the
@@ -11486,7 +11497,7 @@ Risposta all’Obiezione 3: Sebbene, in senso stretto, un uomo non sia obbligato
 
 Risposta all’Obiezione 4: Il difetto di una cosa ne riduce il valore attuale rispetto a quanto sembri; tuttavia, nel caso citato, si prevede che i beni abbiano un valore inferiore in futuro a causa dell’arrivo di altri commercianti, evento non previsto dai compratori. Pertanto, il venditore, poiché vende i suoi beni al prezzo effettivamente offertogli, non sembra agire contro la giustizia nel non indicare ciò che accadrà in futuro. Se invece lo facesse o riducesse il prezzo, tale comportamento sarebbe estremamente virtuoso da parte sua; tuttavia, non sembra essere obbligato a farlo per dovere di giustizia.
 
-<span class="atom-split" data-atom="190" data-title="Whether, in trading, it is lawful to sell a thing at a higher price than what was paid for it?" data-chapter="Whether, in trading, it is lawful to sell a thing at a higher price than what was paid for it?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="190" data-title="Whether, in trading, it is lawful to sell a thing at a higher price than what was paid for it?" data-chapter="Whether, in trading, it is lawful to sell a thing at a higher price than what was paid for it?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not lawful, in trading, to sell a thing for a higher price
 than we paid for it. For Chrysostom [*Hom. xxxviii in the Opus Imperfectum, falsely ascribed to
@@ -11579,11 +11590,11 @@ Risposta all’Obiezione 2: Non tutti coloro che vendono a un prezzo più alto d
 Risposta all’Obiezione 3: I chierici dovrebbero astenersi non solo da quelle cose che sono intrinsecamente malvagie, ma anche da quelle che presentano un aspetto malvagio. Ciò vale anche nel commercio, sia perché esso è finalizzato al guadagno materiale, che i chierici dovrebbero disprezzare, sia perché il commercio è esposto a molti vizi; infatti “un mercante difficilmente è libero dai peccati delle labbra” (*“Un mercante difficilmente è privo di negligenze, e un venditore ambulante non può essere giustificato per i peccati delle sue parole”* [Ecclesiaste 26:28]). Esiste anche un altro motivo: il commercio assorbe troppo l’attenzione su questioni mondane, allontanandola così dalle preoccupazioni spirituali; per questo l’Apostolo afferma (2 Timoteo 2:4): “Nessuno che sia soldato di Dio si impegni in affari secolari”. Tuttavia è lecito ai chierici impegnarsi nel tipo di scambio menzionato in precedenza, ovvero quello finalizzato al soddisfacimento delle necessità della vita, sia attraverso l’acquisto che la vendita.  
 (E) PER I PECCATI COMMESSI NEL PRESTAMENTO (Q[78])
 
-<span class="atom-split" data-atom="191" data-title="OF THE SIN OF USURY (FOUR ARTICLES)" data-chapter="OF THE SIN OF USURY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="191" data-title="OF THE SIN OF USURY (FOUR ARTICLES)" data-chapter="OF THE SIN OF USURY (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/money,concepts/justice,concepts/law,schools/scholasticism"></span>
 
 We must now consider the sin of usury, which is committed in loans: and under this head there
 are four points of inquiry:
-(1) Whether it is a sin to take money as a price for money lent, which is to receive usury?
+(1) Whether it is a sin to take [money](/concepts/money) as a price for money lent, which is to receive usury?
 (2) Whether it is lawful to lend money for any other kind of consideration, by way of payment
 for the loan?
 (3) Whether a man is bound to restore just gains derived from money taken in usury?
@@ -11597,7 +11608,7 @@ Dobbiamo ora considerare il peccato dell’usura, che si commette attraverso i p
 (3) Un uomo è obbligato a restituire i profitti ottenuti illegalmente attraverso l’usura?  
 (4) È legittimo prendere in prestito denaro sotto condizioni che comportino l’applicazione dell’usura?
 
-<span class="atom-split" data-atom="192" data-title="Whether it is a sin to take usury for money lent? (parte 1)" data-chapter="Whether it is a sin to take usury for money lent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="192" data-title="Whether it is a sin to take usury for money lent? (parte 1)" data-chapter="Whether it is a sin to take usury for money lent?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not a sin to take usury for money lent. For no man sins
 through following the example of Christ. But Our Lord said of Himself (Lk. 19:23): "At My coming
@@ -11730,11 +11741,11 @@ Risposta all’Obiezione 4: Un uomo non è sempre obbligato a prestare denaro; p
 
 Risposta all’Obiezione 5: Chi non è obbligato a prestare può accettare il rimborso di ciò che ha dato, ma non deve chiedere di più. Se viene rimborsato esattamente quanto ha prestato, allora il rimborso avviene secondo i principi dell’equità giudiziaria. Pertanto, se si pretende di più per l’utilizzo di qualcosa che non ha altro scopo se non quello di consumarne la sostanza, si sta chiedendo un prezzo per qualcosa che in realtà non esiste; quindi tale richiesta è ingiusta.
 
-<span class="atom-split" data-atom="193" data-title="Whether it is a sin to take usury for money lent? (parte 2)" data-chapter="Whether it is a sin to take usury for money lent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="193" data-title="Whether it is a sin to take usury for money lent? (parte 2)" data-chapter="Whether it is a sin to take usury for money lent?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 6: The principal use of a silver vessel is not its consumption, and so one
 may lawfully sell its use while retaining one's ownership of it. On the other hand the principal use
-of silver money is sinking it in exchange, so that it is not lawful to sell its use and at the same time
+of silver [money](/concepts/money) is sinking it in exchange, so that it is not lawful to sell its use and at the same time
 expect the restitution of the amount lent. It must be observed, however, that the secondary use of
 silver vessels may be an exchange, and such use may not be lawfully sold. In like manner there
 may be some secondary use of silver money; for instance, a man might lend coins for show, or to
@@ -11750,7 +11761,7 @@ Risposta all’Obiezione 6: L’uso principale di un vaso d’argento non è la 
 
 Risposta all’Obiezione 7: Chi pratica l’usura non lo fa volontariamente, ma per una certa necessità; ha bisogno di prendere in prestito denaro che il proprietario è riluttante a prestare senza applicare l’usura.
 
-<span class="atom-split" data-atom="194" data-title="Whether it is lawful to ask for any other kind of consideration for money lent? (parte 1)" data-chapter="Whether it is lawful to ask for any other kind of consideration for money lent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="194" data-title="Whether it is lawful to ask for any other kind of consideration for money lent? (parte 1)" data-chapter="Whether it is lawful to ask for any other kind of consideration for money lent?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/justice,concepts/money,concepts/friendship,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one may ask for some other kind of consideration for money
 lent. For everyone may lawfully seek to indemnify himself. Now sometimes a man suffers loss
@@ -11883,7 +11894,7 @@ Risposta all’Obiezione 5: Chi presta denaro trasferisce la proprietà di tale 
 
 Risposta all’Obiezione 6: Se una persona, in cambio del denaro che le viene prestato, promette di utilizzare qualcosa che può essere valutato in termini di prezzo, il prestatore deve permetterle di farlo per ripagare il debito. Altrimenti, se desidera che quell’oggetto venga utilizzato gratuitamente oltre al pagamento del debito, è come se avesse chiesto denaro in cambio della prestazione, il che costituirebbe usura. A meno che non si tratti di qualcosa che gli amici sono soliti prestarsi gratuitamente, come nel caso della cessione di un libro.
 
-<span class="atom-split" data-atom="195" data-title="Whether it is lawful to ask for any other kind of consideration for money lent? (parte 2)" data-chapter="Whether it is lawful to ask for any other kind of consideration for money lent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="195" data-title="Whether it is lawful to ask for any other kind of consideration for money lent? (parte 2)" data-chapter="Whether it is lawful to ask for any other kind of consideration for money lent?" data-kind="atom" data-srclang="en" data-tags="concepts/money,concepts/justice,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 7: If a man wish to sell his goods at a higher price than that which is just,
 so that he may wait for the buyer to pay, it is manifestly a case of usury: because this waiting for
@@ -11891,7 +11902,7 @@ the payment of the price has the character of a loan, so that whatever he demand
 price in consideration of this delay, is like a price for a loan, which pertains to usury. In like manner
 if a buyer wishes to buy goods at a lower price than what is just, for the reason that he pays for the
 goods before they can be delivered, it is a sin of usury; because again this anticipated payment of
-money has the character of a loan, the price of which is the rebate on the just price of the goods
+[money](/concepts/money) has the character of a loan, the price of which is the rebate on the just price of the goods
 sold. On the other hand if a man wishes to allow a rebate on the just price in order that he may have
 his money sooner, he is not guilty of the sin of usury.
 
@@ -11899,10 +11910,10 @@ his money sooner, he is not guilty of the sin of usury.
 
 Risposta all’Obiezione 7: Se un uomo desidera vendere i suoi beni a un prezzo più alto di quello giusto, al fine di poter attendere il pagamento da parte dell’acquirente, si tratta chiaramente di usura: poiché questa attesa del pagamento ha le caratteristiche di un prestito, e quindi quanto richiesto in aggiunta al prezzo giusto a titolo di compensazione per tale ritardo equivale a un interesse sul prestito, il che rientra nella definizione di usura. Allo stesso modo, se un acquirente desidera acquistare i beni a un prezzo più basso del giusto, poiché paga prima che questi vengano consegnati, si commette anch’esso un atto di usura; infatti anche in questo caso il pagamento anticipato ha le caratteristiche di un prestito, e il prezzo richiesto rappresenta una riduzione rispetto al prezzo giusto dei beni venduti. D’altra parte, se un uomo accetta di concedere una riduzione sul prezzo giusto al fine di ricevere i propri soldi più rapidamente, non commette il peccato di usura.
 
-<span class="atom-split" data-atom="196" data-title="Whether a man is bound to restore whatever profits he has made out of money gotten by usury?" data-chapter="Whether a man is bound to restore whatever profits he has made out of money gotten by usury?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="196" data-title="Whether a man is bound to restore whatever profits he has made out of money gotten by usury?" data-chapter="Whether a man is bound to restore whatever profits he has made out of money gotten by usury?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man is bound to restore whatever profits he has made out of
-money gotten by usury. For the Apostle says (Rom. 11:16): "If the root be holy, so are the branches."
+[money](/concepts/money) gotten by usury. For the Apostle says (Rom. 11:16): "If the root be holy, so are the branches."
 Therefore likewise if the root be rotten so are the branches. But the root was infected with usury.
 Therefore whatever profit is made therefrom is infected with usury. Therefore he is bound to restore
 it.
@@ -11967,7 +11978,7 @@ Risposta all’Obiezione 2: Inoltre, la proprietà acquisita attraverso l’usur
 
 Risposta all’Obiezione 3: I proventi derivanti da denaro ottenuto attraverso l’usura spettano alla persona che li ha acquisiti, non in virtù del denaro usurario considerato causa strumentale, ma a causa della propria attività lavorativa considerata causa principale. Pertanto, tale persona ha maggior diritto sui beni ottenuti con denaro usurario rispetto al denaro usurario stesso.
 
-<span class="atom-split" data-atom="197" data-title="Whether it is lawful to borrow money under a condition of usury?" data-chapter="Whether it is lawful to borrow money under a condition of usury?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="197" data-title="Whether it is lawful to borrow money under a condition of usury?" data-chapter="Whether it is lawful to borrow money under a condition of usury?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not lawful to borrow money under a condition of usury.
 For the Apostle says (Rom. 1:32) that they "are worthy of death . . . not only they that do" these
@@ -12022,7 +12033,7 @@ If, on the other hand, the usurer to whom one entrusts one's money has other mea
 usury, there is no sin in entrusting it to him that it may be in safer keeping, since this is to use a
 sinner for a good purpose.
 
-<span class="atom-split" data-atom="198" data-title="OF THE QUASI-INTEGRAL PARTS OF JUSTICE (FOUR ARTICLES)" data-chapter="OF THE QUASI-INTEGRAL PARTS OF JUSTICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="198" data-title="OF THE QUASI-INTEGRAL PARTS OF JUSTICE (FOUR ARTICLES)" data-chapter="OF THE QUASI-INTEGRAL PARTS OF JUSTICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the quasi-integral parts of justice, which are "to do good," and "to decline
 from evil," and the opposite vices. Under this head there are four points of inquiry:
@@ -12039,7 +12050,7 @@ Dobbiamo ora considerare le componenti quasi essenziali della giustizia, ovvero 
 (3) Se l’astenersi dal compiere atti buoni costituisca anch’esso un peccato specifico;  
 (4) Il confronto tra l’astensione e l’azione malvagia.
 
-<span class="atom-split" data-atom="199" data-title="Whether to decline from evil and to do good are parts of justice?" data-chapter="Whether to decline from evil and to do good are parts of justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="199" data-title="Whether to decline from evil and to do good are parts of justice?" data-chapter="Whether to decline from evil and to do good are parts of justice?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/human_law,concepts/divine_law,concepts/virtue,figures/augustine"></span>
 
 Objection 1: It would seem that to decline from evil and to do good are not parts of justice.
 For it belongs to every virtue to perform a good deed and to avoid an evil one. But parts do not
@@ -12112,7 +12123,7 @@ Risposta all’Obiezione 2: Rifiutare il male, considerato come parte della gius
 
 Risposta all’Obiezione 3: Fare del bene è l’atto completo e definitivo della giustizia, la sua parte principale, per così dire. Evitare il male, invece, è un atto meno perfetto, una parte secondaria di quella stessa virtù. Pertanto, rappresenta, per così dire, una parte materiale della giustizia e una condizione necessaria per la sua realizzazione completa e formale.
 
-<span class="atom-split" data-atom="200" data-title="Whether transgression is a special sin?" data-chapter="Whether transgression is a special sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="200" data-title="Whether transgression is a special sin?" data-chapter="Whether transgression is a special sin?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/divine_law,concepts/custom,concepts/justice,figures/augustine"></span>
 
 Objection 1: It would seem that transgression is not a special sin. For no species is included
 in the definition of its genus. Now transgression is included in the definition of sin; because Ambrose
@@ -12175,7 +12186,7 @@ Risposta all’Obiezione 2: L’inclinazione naturale riguarda i precetti della 
 
 Risposta all’Obiezione 3: Tutti questi tipi di peccato possono includere l’atto di trasgressione, se vengono considerati non nei loro aspetti propri, ma in un aspetto particolare, come detto sopra. Tuttavia, il peccato di omissione è del tutto diverso dal peccato di trasgressione.
 
-<span class="atom-split" data-atom="201" data-title="Whether omission is a special sin?" data-chapter="Whether omission is a special sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="201" data-title="Whether omission is a special sin?" data-chapter="Whether omission is a special sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that omission is not a special sin. For every sin is either original
 or actual. Now omission is not [original sin](/positions/original_sin), for it is not contracted through origin nor is it actual
@@ -12265,7 +12276,7 @@ Risposta all’Obiezione 3: Proprio come il peccato di trasgressione è opposto 
 
 Risposta all’Obiezione 4: L’omissione è direttamente contraria alla giustizia, come già detto; infatti rappresenta una mancata attuazione di un bene legato alla virtù, ma soltanto dal punto di vista del “dovere”, che rientra nell’ambito della giustizia. Ora, però, è necessario che un atto sia considerato virtuoso e meritevole molto più di quanto sia sufficiente perché venga considerato peccaminoso e demeritivo; infatti “il bene deriva da una causa completa, mentre il male nasce da ogni singola imperfezione” [*Dionigi, De Div. Nom. iv]. Pertanto, il merito legato alla giustizia richiede un atto concreto, mentre l’omissione non ne richiede alcuno.
 
-<span class="atom-split" data-atom="202" data-title="Whether a sin of omission is more grievous than a sin of transgression?" data-chapter="Whether a sin of omission is more grievous than a sin of transgression?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="202" data-title="Whether a sin of omission is more grievous than a sin of transgression?" data-chapter="Whether a sin of omission is more grievous than a sin of transgression?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a sin of omission is more grievous than a sin of transgression.
 For "delictum" would seem to signify the same as "derelictum" [*[Augustine](/figures/augustine), QQ. in Levit., qu.
@@ -12324,7 +12335,7 @@ sense, according to Mat. 7:19, "Every tree that bringeth not forth good fruit sh
 shall be cast into the fire"; and this on account of the root from which it grows, although it does
 not necessarily imply conversion to any mutable good.
 
-<span class="atom-split" data-atom="203" data-title="OF THE POTENTIAL PARTS OF JUSTICE (ONE ARTICLE)" data-chapter="OF THE POTENTIAL PARTS OF JUSTICE (ONE ARTICLE)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="203" data-title="OF THE POTENTIAL PARTS OF JUSTICE (ONE ARTICLE)" data-chapter="OF THE POTENTIAL PARTS OF JUSTICE (ONE ARTICLE)" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the potential parts of justice, namely the virtues annexed thereto; under
 which head there are two points of consideration:
@@ -12337,7 +12348,7 @@ Dobbiamo ora esaminare le componenti potenziali della giustizia, ovvero le virt�
 (1) Quali virtù sono associate alla giustizia?  
 (2) Le singole virtù che fanno parte della giustizia.
 
-<span class="atom-split" data-atom="204" data-title="Whether the virtues annexed to justice are suitably enumerated? (parte 1)" data-chapter="Whether the virtues annexed to justice are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="204" data-title="Whether the virtues annexed to justice are suitably enumerated? (parte 1)" data-chapter="Whether the virtues annexed to justice are suitably enumerated?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the virtues annexed to justice are unsuitably enumerated Tully
 [*De Invent. ii, 53] reckons six, viz. "religion, piety, gratitude, revenge, observance, truth." Now
@@ -12457,7 +12468,7 @@ Risposta all’Obiezione 2: Macrobio sembra aver considerato le due parti integr
 
 Risposta all’Obiezione 3: “Obedienza” è inclusa nell’osservanza delle regole, di cui parla Tullio, poiché sia il rispetto reverenziale che l’obbedienza sono dovuti alle persone che si distinguono per qualità superiori. “Fedeltà”, ovvero l’adeguamento delle azioni alle parole di una persona, è contenuta nel concetto di “veridicità” riguardo al rispetto delle promesse fatte; tuttavia “veridicità” abbraccia un ambito più ampio, come vedremo in seguito (Q[109], AA[1],3). “Disciplina”, invece, non è considerata un dovere necessario, poiché nessuno ha obbligo verso una persona di rango inferiore; tuttavia un superiore può essere tenuto a prendersi cura dei suoi subordinati, come indicato in Matteo 24:45: “Un servo fedele e saggio, che il suo padrone abbia incaricato della sua famiglia”. Per questo motivo Tullio non la menziona. Tuttavia, essa può essere inclusa nel concetto di umanità descritto da Macrobio, così come nella nozione di equità o di “amicizia”.
 
-<span class="atom-split" data-atom="205" data-title="Whether the virtues annexed to justice are suitably enumerated? (parte 2)" data-chapter="Whether the virtues annexed to justice are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="205" data-title="Whether the virtues annexed to justice are suitably enumerated? (parte 2)" data-chapter="Whether the virtues annexed to justice are suitably enumerated?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/virtue,concepts/religion,figures/aristotle,figures/socrates"></span>
 
 Reply to Objection 4: This enumeration contains some belonging to true justice. To particular
 justice belongs "justice of exchange," which he describes as "the [habit](/concepts/custom) of observing equality in
@@ -12486,7 +12497,7 @@ Risposta all’Obiezione 4: Questa enumerazione include alcuni elementi che appa
 
 Risposta all’Obiezione 5: L’epieikeia è associata non alla giustizia particolare, ma a quella legale, e apparentemente coincide con ciò che viene chiamato eugnomosyne [buon senso comune].
 
-<span class="atom-split" data-atom="206" data-title="OF RELIGION (EIGHT ARTICLES)" data-chapter="OF RELIGION (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="206" data-title="OF RELIGION (EIGHT ARTICLES)" data-chapter="OF RELIGION (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/virtue,concepts/theological_virtues"></span>
 
 We must now consider each of the foregoing virtues, in so far as our present scope demands.
 We shall consider (1) religion, (2) piety, (3) observance, (4) gratitude, (5) revenge, (6) truth, (7)
@@ -12519,7 +12530,7 @@ All’interno del primo ambito di analisi vi sono otto punti da esaminare:
 (7) La religione comporta atti concreti esterni?  
 (8) La religione è la stessa cosa che la santità?
 
-<span class="atom-split" data-atom="207" data-title="Whether religion directs man to God alone?" data-chapter="Whether religion directs man to God alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="207" data-title="Whether religion directs man to God alone?" data-chapter="Whether religion directs man to God alone?" data-kind="atom" data-srclang="en" data-tags="concepts/religion,figures/augustine,figures/cicero"></span>
 
 Objection 1: It would seem that religion does not direct man to God alone. It is written (James
 1:27): "Religion clean and undefiled before God and the Father is this, to visit the fatherless and
@@ -12627,7 +12638,7 @@ Risposta all’Obiezione 4: Si dice che noi veneriamo coloro che onoriamo, e che
 
 Risposta all’Obiezione 5: Sebbene il nome “religioso” possa essere attribuito in generale a tutti coloro che adorano Dio, in modo particolare si definiscono religiosi coloro che dedicano tutta la loro vita al culto divino, ritirandosi dalle affari umani. Allo stesso modo, il termine “contemplativo” non viene usato per indicare coloro che semplicemente contemplano, ma per coloro che dedicano interamente la propria vita alla contemplazione. Tali persone si sottomettono agli altri non a beneficio degli uomini, ma a beneficio di Dio, secondo le parole dell’Apostolo (Galati 4:14): “Voi mi avete accolto come un angelo di Dio, anzi come Cristo Gesù”.
 
-<span class="atom-split" data-atom="208" data-title="Whether religion is a virtue?" data-chapter="Whether religion is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="208" data-title="Whether religion is a virtue?" data-chapter="Whether religion is a virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/virtue,concepts/human_law,figures/augustine"></span>
 
 Objection 1: It would seem that religion is not a virtue. Seemingly it belongs to religion to pay
 reverence to God. But reverence is an act of fear which is a gift, as stated above (Q[19], A[9]).
@@ -12685,7 +12696,7 @@ Risposta all’Obiezione 2: Anche un schiavo può compiere volontariamente i pro
 
 Risposta all’Obiezione 3: È un dettato della ragione naturale che l’uomo debba compiere certi atti per rispetto di Dio. Tuttavia, il fatto che debba compiere proprio quegli atti specifici non rientra nei dettati della ragione naturale, ma è stabilito dalla legge divina o dalla [legge umana](/concepts/human_law).
 
-<span class="atom-split" data-atom="209" data-title="Whether religion is one virtue?" data-chapter="Whether religion is one virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="209" data-title="Whether religion is one virtue?" data-chapter="Whether religion is one virtue?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/religion,concepts/virtue"></span>
 
 Objection 1: It would seem that religion is not one virtue. Religion directs us to God, as stated
 above (A[1]). Now in God there are three Persons; and also many attributes, which differ at least
@@ -12744,7 +12755,7 @@ Risposta all’Obiezione 2: Con lo stesso atto l’uomo serve e venera Dio; la v
 
 Risposta all’Obiezione 3: Il culto religioso viene rivolto alle immagini, non in quanto tali, né come entità materiali, ma come simboli che ci conducono a Dio incarnato. Pertanto, il movimento verso un’immagine, in quanto tale, non si ferma all’immagine stessa, ma prosegue verso la realtà che essa rappresenta. Di conseguenza, né la “latria” né la virtù religiosa vengono influenzate dal fatto che il culto religioso sia rivolto alle immagini di Cristo.
 
-<span class="atom-split" data-atom="210" data-title="Whether religion is a special virtue, distinct from the others?" data-chapter="Whether religion is a special virtue, distinct from the others?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="210" data-title="Whether religion is a special virtue, distinct from the others?" data-chapter="Whether religion is a special virtue, distinct from the others?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that religion is not a special virtue distinct from the others. [Augustine](/figures/augustine)
 says (De Civ. Dei x, 6): "Any action whereby we are united to God in holy fellowship, is a true
@@ -12802,7 +12813,7 @@ Risposta all’Obiezione 2: Ogni atto, nella misura in cui viene compiuto nell�
 
 Risposta all’Obiezione 3: L’oggetto dell’amore è il bene, ma l’oggetto dell’onore e della reverenza è qualcosa di eccezionale. Ora, la bontà di Dio viene trasmessa alla creatura, ma l’eccellenza della Sua bontà no. Pertanto, la carità con cui si ama Dio non è diversa dalla carità con cui si ama il proprio prossimo; al contrario, la religione con cui si onora Dio è distinta dalle virtù con cui onoriamo il nostro prossimo.
 
-<span class="atom-split" data-atom="211" data-title="Whether religion is a theological virtue?" data-chapter="Whether religion is a theological virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="211" data-title="Whether religion is a theological virtue?" data-chapter="Whether religion is a theological virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/theological_virtues,concepts/religion,concepts/virtue,concepts/justice,figures/augustine"></span>
 
 Objection 1: It would seem that religion is a [theological virtue](/concepts/theological_virtues). [Augustine](/figures/augustine) says (Enchiridion
 iii) that "God is worshiped by faith, hope and charity," which are theological virtues. Now it belongs
@@ -12870,7 +12881,7 @@ Risposta all’Obiezione 2: La religione indirizza l’uomo verso Dio non come s
 
 Risposta all’Obiezione 3: La religione non è né teologica né intellettuale, ma una virtù morale; poiché fa parte della giustizia e stabilisce un equilibrio non nelle passioni, ma nelle azioni dirette verso Dio, creando in esse una sorta di uguaglianza. Quando parlo di “uguaglianza”, non intendo un’uguaglianza assoluta, poiché non è possibile ripagare Dio del tutto ciò che Gli dobbiamo; intendo piuttosto un’uguaglianza in relazione alle capacità umane e alla volontà divina. È possibile, infatti, esagerare nelle pratiche di culto divino, non per quanto riguarda la quantità, ma per altri aspetti: ad esempio, quando il culto viene reso a chi non lo merita, o quando viene eseguito in modo eccessivo sotto altri punti di vista.
 
-<span class="atom-split" data-atom="212" data-title="Whether religion should be preferred to the other moral virtues?" data-chapter="Whether religion should be preferred to the other moral virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="212" data-title="Whether religion should be preferred to the other moral virtues?" data-chapter="Whether religion should be preferred to the other moral virtues?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that religion should not be preferred to the other moral virtues.
 The perfection of a moral virtue consists in its observing the mean, as stated in Ethic. ii, 6. But
@@ -12931,7 +12942,7 @@ Risposta all’Obiezione 2: Offrendo qualcosa a un uomo in base alla sua utilit�
 
 Risposta all’Obiezione 3: Laddove esista un obbligo di compiere qualcosa, tale azione perde il carattere di attività volontaria e supererogatoria, ma non perde il merito legato alla virtù, a condizione che venga compiuta liberamente. Pertanto, questo argomento non dimostra nulla.
 
-<span class="atom-split" data-atom="213" data-title="Whether religion has an external act?" data-chapter="Whether religion has an external act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="213" data-title="Whether religion has an external act?" data-chapter="Whether religion has an external act?" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/sacrament,figures/augustine"></span>
 
 Objection 1: It would seem that religion has not an external act. It is written (Jn. 4:24): "God
 is a spirit, and they that adore Him, must adore Him in spirit and in truth." Now external acts pertain,
@@ -12998,7 +13009,7 @@ Risposta all’Obiezione 2: Queste cose esterne vengono offerte a Dio non perch�
 
 Risposta all’Obiezione 3: Gli idolatri vengono derisi perché offrono agli idoli cose che riguardano gli esseri umani, non come simboli capaci di suscitare in loro determinati sentimenti spirituali, ma come se tali cose fossero di per sé gradite agli idoli; e soprattutto perché si comportano in modo stupido e malvagio.
 
-<span class="atom-split" data-atom="214" data-title="Whether religion is the same as sanctity?" data-chapter="Whether religion is the same as sanctity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="214" data-title="Whether religion is the same as sanctity?" data-chapter="Whether religion is the same as sanctity?" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/virtue,concepts/justice,figures/augustine"></span>
 
 Objection 1: It would seem that religion is not the same as sanctity. Religion is a special virtue,
 as stated above (A[4]): whereas sanctity is a general virtue, because it makes us faithful, and fulfil
@@ -13072,7 +13083,7 @@ Risposta all’Obiezione 2: La temperanza pratica la purezza, ma non in modo da 
 
 Risposta all’Obiezione 3: La santità si distingue dalla religione, come spiegato sopra, non in modo reale ma logicamente.
 
-<span class="atom-split" data-atom="215" data-title="OF DEVOTION (FOUR ARTICLES)" data-chapter="OF DEVOTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="215" data-title="OF DEVOTION (FOUR ARTICLES)" data-chapter="OF DEVOTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/religion,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the acts of religion. First, we shall consider the interior acts, which, as
 stated above, are its principal acts; secondly, we shall consider its exterior acts, which are secondary.
@@ -13092,7 +13103,7 @@ Dobbiamo ora considerare gli atti della religione. Prima di tutto, esamineremo g
 (3) Qual ne sia la causa;  
 (4) Qualne ne sia l’effetto.
 
-<span class="atom-split" data-atom="216" data-title="Whether devotion is a special act?" data-chapter="Whether devotion is a special act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="216" data-title="Whether devotion is a special act?" data-chapter="Whether devotion is a special act?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that devotion is not a special act. That which qualifies other acts
 is seemingly not a special act. Now devotion seems to qualify other acts, for it is written (2 Paralip
@@ -13154,7 +13165,7 @@ Risposta all’Obiezione 2: La devozione si trova in diversi generi di azioni, n
 
 Risposta all’Obiezione 3: La devozione è un atto della parte appetitiva dell’anima e rappresenta un movimento della volontà, come già detto in precedenza.
 
-<span class="atom-split" data-atom="217" data-title="Whether devotion is an act of religion?" data-chapter="Whether devotion is an act of religion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="217" data-title="Whether devotion is an act of religion?" data-chapter="Whether devotion is an act of religion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that devotion is not an act of religion. Devotion, as stated above
 (A[1]), consists in giving oneself up to God. But this is done chiefly by charity, since according to
@@ -13215,7 +13226,7 @@ Risposta all’Obiezione 2: La corporea grassosità è prodotta dal calore natur
 
 Risposta all’Obiezione 3: La devozione verso le persone sacre di Dio, sia morte che vive, non si esaurisce in loro, ma si estende fino a Dio, nella misura in cui onoriamo Dio attraverso i suoi servitori. Tuttavia, la devozione dei sudditi nei confronti dei loro padroni temporali è di natura diversa; allo stesso modo, il servizio reso a un padrone temporale differisce dal servizio reso a Dio.
 
-<span class="atom-split" data-atom="218" data-title="Whether contemplation or meditation is the cause of devotion?" data-chapter="Whether contemplation or meditation is the cause of devotion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="218" data-title="Whether contemplation or meditation is the cause of devotion?" data-chapter="Whether contemplation or meditation is the cause of devotion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that contemplation or meditation is not the cause of devotion. No
 cause hinders its effect. But subtle considerations about abstract matters are often a hindrance to
@@ -13291,7 +13302,7 @@ Risposta all’Obiezione 2: Le questioni relative alla divinità costituiscono, 
 
 Risposta all’Obiezione 3: La scienza e qualsiasi altra cosa contribuisca alla grandezza umana rappresentano per l’uomo un’occasione di fiducia in se stesso, così che non si sottometta completamente a Dio. Di conseguenza, queste cose talvolta possono ostacolare la devozione; mentre nelle anime semplici e nelle donne la devozione aumenta proprio attraverso la repressione dell’orgoglio. Tuttavia, se un uomo sottomette perfettamente la propria scienza o qualsiasi altra perfezione umana a Dio, è proprio questo fatto stesso ad accrescere la sua devozione.
 
-<span class="atom-split" data-atom="219" data-title="Whether joy is an effect of devotion?" data-chapter="Whether joy is an effect of devotion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="219" data-title="Whether joy is an effect of devotion?" data-chapter="Whether joy is an effect of devotion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that joy is not an effect of devotion. As stated above (A[3], ad 2),
 Christ's Passion is the chief incentive to devotion. But the consideration thereof causes an affliction
@@ -13358,7 +13369,7 @@ Risposta all’Obiezione 2: Lo spirito, da un lato, è afflitto a causa dei dife
 
 Risposta all’Obiezione 3: Le lacrime non sono causate soltanto dal dolore, ma anche da una certa tenerezza dei sentimenti, soprattutto quando si considera qualcosa che provoca gioia mescolata a dolore. Pertanto, gli uomini hanno l’abitudine di versare lacrime per un sentimento di pietà, quando ritrovano i propri figli o amici cari che pensavano di aver perso. In questo modo, le lacrime scaturiscono dalla devozione.
 
-<span class="atom-split" data-atom="220" data-title="OF PRAYER (SEVENTEEN ARTICLES)" data-chapter="OF PRAYER (SEVENTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="220" data-title="OF PRAYER (SEVENTEEN ARTICLES)" data-chapter="OF PRAYER (SEVENTEEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/religion,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider prayer, under which head there are seventeen points of inquiry:
 (1) Whether prayer is an act of the appetitive or of the cognitive power?
@@ -13400,7 +13411,7 @@ Dobbiamo ora considerare la preghiera, sotto questa rubrica ne esistono diciasse
 (16) I peccatori possono ottenere qualcosa da Dio pregando? [*Articolo 15]  
 (17) Delle diverse tipologie di preghiera.
 
-<span class="atom-split" data-atom="221" data-title="Whether prayer is an act of the appetitive power?" data-chapter="Whether prayer is an act of the appetitive power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="221" data-title="Whether prayer is an act of the appetitive power?" data-chapter="Whether prayer is an act of the appetitive power?" data-kind="atom" data-srclang="en" data-tags="concepts/reason,concepts/will,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prayer is an act of the appetitive power. It belongs to prayer
 to be heard. Now it is the desire that is heard by God, according to Ps. 9:38, "The Lord hath heard
@@ -13483,7 +13494,7 @@ Risposta all’Obiezione 2: Come già detto sopra (FP, Q[82], A[4]; FS, Q[9], A[
 
 Risposta all’Obiezione 3: Questi tre atti appartengono alla ragione speculativa, ma alla ragione pratica appartengono anche quando servono a far sì che qualcosa avvenga attraverso comandi o richieste, come detto in precedenza.
 
-<span class="atom-split" data-atom="222" data-title="Whether it is becoming to pray?" data-chapter="Whether it is becoming to pray?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="222" data-title="Whether it is becoming to pray?" data-chapter="Whether it is becoming to pray?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is unbecoming to pray. Prayer seems to be necessary in order
 that we may make our needs known to the person to whom we pray. But according to Mat. 6:32,
@@ -13557,7 +13568,7 @@ Risposta all’Obiezione 2: Come detto sopra, il nostro motivo nel pregare non �
 
 Risposta all’Obiezione 3: Dio ci dona molte cose per Sua liberalità, anche senza che le chiediamo; ma il fatto che desideri donarci alcune cose soltanto quando le chiediamo è finalizzato al nostro bene, cioè affinché possiamo acquistare fiducia nel ricorrere a Dio e riconoscere in Lui l’Autore dei nostri beni. Ecco perché Crisostomo dice: “Pensa a quale felicità e onore sei insignito quando conversi con Dio nella preghiera, quando parli con Cristo, quando chiedi ciò che desideri”.
 
-<span class="atom-split" data-atom="223" data-title="Whether prayer is an act of religion?" data-chapter="Whether prayer is an act of religion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="223" data-title="Whether prayer is an act of religion?" data-chapter="Whether prayer is an act of religion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prayer is not an act of religion. Since religion is a part of
 justice, it resides in the will as in its subject. But prayer belongs to the intellective part, as stated
@@ -13619,7 +13630,7 @@ Risposta all’Obiezione 2: Non solo è un dovere richiedere ciò che desideriam
 
 Risposta all’Obiezione 3: Nel pregare, l’uomo consegna la propria mente a Dio, sottomettendola a Lui con reverenza e, per così dire, presentandola a Lui, come si evince dalle parole di Dionigi citate sopra (A[1], OBJ[2]). Pertanto, proprio come la mente umana supera le cose esterne – sia i membri del corpo che quelle utilizzate al servizio di Dio – così anche il pregare trascende gli altri atti di devozione.
 
-<span class="atom-split" data-atom="224" data-title="Whether we ought to pray to God alone?" data-chapter="Whether we ought to pray to God alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="224" data-title="Whether we ought to pray to God alone?" data-chapter="Whether we ought to pray to God alone?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/religion,concepts/grace,figures/augustine"></span>
 
 Objection 1: It would seem that we ought to pray to God alone. Prayer is an act of religion, as
 stated above (A[3]). But God alone is to be worshiped by religion. Therefore we should pray to
@@ -13666,7 +13677,7 @@ Reply to Objection 3: Those who are in this world or in Purgatory, do not yet en
 of the Word, so as to be able to know what we think or say. Wherefore we do not seek their assistance
 by praying to them, but ask it of the living by speaking to them.
 
-<span class="atom-split" data-atom="225" data-title="Whether we ought to ask for something definite when we pray?" data-chapter="Whether we ought to ask for something definite when we pray?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="225" data-title="Whether we ought to ask for something definite when we pray?" data-chapter="Whether we ought to ask for something definite when we pray?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought not to ask for anything definite when we pray to
 God. According to Damascene (De Fide Orth. iii, 24), "to pray is to ask becoming things of God";
@@ -13730,7 +13741,7 @@ Risposta all’Obiezione 2: Quando nelle nostre preghiere chiediamo cose relativ
 
 Risposta all’Obiezione 3: Dio ci invita così ad accogliere le cose buone, affinché possiamo avvicinarci a esse non attraverso i passi del corpo, ma mediante desideri devoti e preghiere fervide.
 
-<span class="atom-split" data-atom="226" data-title="Whether man ought to ask God for temporal things when he prays?" data-chapter="Whether man ought to ask God for temporal things when he prays?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="226" data-title="Whether man ought to ask God for temporal things when he prays?" data-chapter="Whether man ought to ask God for temporal things when he prays?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man ought not to ask God for temporal things when he prays.
 We seek what we ask for in prayer. But we should not seek for temporal things, for it is written
@@ -13805,7 +13816,7 @@ Risposta all’Obiezione 3: Quando la nostra mente è concentrata su cose tempor
 
 Risposta all’Obiezione 4: Già dal semplice fatto che chiediamo cose temporali non come oggetto principale della nostra preghiera, ma come subordinate a qualcos’altro, le chiediamo a Dio nel senso che possano essere concesse a noi nella misura in cui siano utili per la salvezza.
 
-<span class="atom-split" data-atom="227" data-title="Whether we ought to pray for others?" data-chapter="Whether we ought to pray for others?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="227" data-title="Whether we ought to pray for others?" data-chapter="Whether we ought to pray for others?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought not to pray for others. In praying we ought to conform
 to the pattern given by our Lord. Now in the Lord's Prayer we make petitions for ourselves, not for
@@ -13886,7 +13897,7 @@ Risposta all’Obiezione 2: Una condizione essenziale della preghiera è che si 
 Risposta all’Obiezione 3: Dovremmo pregare anche per i peccatori affinché possano convertirsi, e per i giusti affinché perseverino e progrediscano nella santità. Tuttavia, le preghiere vengono ascoltate non per tutti i peccatori, ma solo per alcuni: vengono infatti ascoltate per coloro che sono predestinati alla salvezza, ma non per quelli che sono destinati alla perdizione; così come la correzione che offriamo ai nostri fratelli ha effetto soltanto su coloro che sono predestinati, e non su coloro che sono condannati, secondo quanto dice l’Ecclesiaste 7:14: “Nessuno può correggere colui che Dio ha disprezzato”. Per questo è scritto (1 Giovanni 5:16): “Chi sa che suo fratello commette un peccato non mortale, preghi affinché gli venga data la vita”. Proprio come il beneficio della correzione non dovrebbe essere rifiutato a nessuno finché vive in questo mondo, poiché non possiamo distinguere tra coloro che sono predestinati e quelli che sono condannati, come afferma Agostino nel De Correp. et Grat., allo stesso modo nessuno dovrebbe essere privato dell’aiuto della preghiera.  
 Dovremmo anche pregare per i giusti per tre motivi: innanzitutto, perché le preghiere di molti vengono più facilmente ascoltate; per questo un commento su Romani 15:30 (“Aiutami con le tue preghiere”) afferma che l’Apostolo invita i fratelli minori a pregare per lui, poiché molte persone, unite nel medesimo intento, possono ottenere ciò che è possibile attraverso la preghiera. In secondo luogo, affinché molti possano ringraziare Dio per le grazie concesse ai giusti, grazie che portano beneficio a tutti, come dice l’Apostolo in 2 Corinzi 1:11. Infine, affinché i più perfetti non diventino orgogliosi, rendendosi conto di aver bisogno delle preghiere dei meno perfetti.
 
-<span class="atom-split" data-atom="228" data-title="Whether we ought to pray for our enemies?" data-chapter="Whether we ought to pray for our enemies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="228" data-title="Whether we ought to pray for our enemies?" data-chapter="Whether we ought to pray for our enemies?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought not to pray for our enemies. According to Rom. 15:4,
 "what things soever were written, were written for our learning." Now Holy Writ contains many
@@ -13956,7 +13967,7 @@ Risposta all’Obiezione 2: Come afferma Agostino nello stesso libro (De Serm. D
 
 Risposta all’Obiezione 3: È legittimo attaccare i propri nemici affinché vengano trattenuti dal peccato; ciò avviene per il loro stesso bene e per il bene altrui. Pertanto, è anche lecito pregare affinché ai nostri nemici vengano inflitti mali temporali, in modo che possano correggersi. Così, preghiera e azione non saranno in contraddizione tra loro.
 
-<span class="atom-split" data-atom="229" data-title="Whether the seven petitions of the Lord's Prayer are fittingly assigned?" data-chapter="Whether the seven petitions of the Lord's Prayer are fittingly assigned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="229" data-title="Whether the seven petitions of the Lord's Prayer are fittingly assigned?" data-chapter="Whether the seven petitions of the Lord's Prayer are fittingly assigned?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/sacrament,figures/augustine"></span>
 
 Objection 1: It would seem that the seven petitions of the Lord's Prayer are not fittingly assigned.
 It is useless to ask for that to be hallowed which is always holy. But the name of God is always
@@ -14082,7 +14093,7 @@ Risposta all’Obiezione 4: Secondo Agostino (Enchiridion cxvi), “Luca incluse
 
 Risposta all’Obiezione 5: La preghiera viene rivolta a Dio non per poterlo costringere, ma per suscitare in noi la fiducia necessaria per chiedergli ciò che desideriamo; questa fiducia nasce principalmente dalla considerazione della Sua carità verso di noi, che Lo spinge a volerci il bene – ed è per questo che diciamo: “Padre nostro”; e dalla considerazione della Sua maestosità, che Gli permette di realizzare i nostri desideri – ed è per questo che diciamo: “Tu che sei in cielo”.
 
-<span class="atom-split" data-atom="230" data-title="Whether prayer is proper to the rational creature?" data-chapter="Whether prayer is proper to the rational creature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="230" data-title="Whether prayer is proper to the rational creature?" data-chapter="Whether prayer is proper to the rational creature?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prayer is not proper to the rational creature. Asking and
 receiving apparently belong to the same subject. But receiving is becoming also to uncreated
@@ -14141,7 +14152,7 @@ Risposta all’Obiezione 2: Come affermato nel FP, Q[79], A[8], intelletto e rag
 
 Risposta all’Obiezione 3: Si dice che i giovani corvi invochino Dio, a causa del desiderio naturale che spinge tutte le cose, ciascuna a modo suo, ad aspirare alla bontà divina. Allo stesso modo, si dice che anche gli animali muti obbediscano a Dio, grazie all’istinto naturale che li guida sotto la sua influenza.
 
-<span class="atom-split" data-atom="231" data-title="Whether the saints in heaven pray for us?" data-chapter="Whether the saints in heaven pray for us?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="231" data-title="Whether the saints in heaven pray for us?" data-chapter="Whether the saints in heaven pray for us?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the saints in heaven do not pray for us. A man's action is more
 meritorious for himself than for others. But the saints in heaven do not merit for themselves, neither
@@ -14232,7 +14243,7 @@ Risposta all’Obiezione 4: È volontà di Dio che gli esseri inferiori siano ai
 
 Risposta all’Obiezione 5: È perché i santi, durante la loro vita, meritarono di pregare per noi che li invochiamo con quei [nomi](/positions/nominalism) con cui erano conosciuti in questa vita, e con cui sono ancora più noti a noi; inoltre, lo facciamo anche per esprimere la nostra fede nella risurrezione, secondo quanto detto nell’Esodo 3:6: “Io sono il Dio di Abramo”, ecc.
 
-<span class="atom-split" data-atom="232" data-title="Whether prayer should be vocal?" data-chapter="Whether prayer should be vocal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="232" data-title="Whether prayer should be vocal?" data-chapter="Whether prayer should be vocal?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/religion,figures/augustine"></span>
 
 Objection 1: It would seem that prayer ought not to be vocal. As stated above (A[4]), prayer
 is addressed chiefly to God. Now God knows the language of the heart. Therefore it is useless to
@@ -14307,7 +14318,7 @@ Risposta all’Obiezione 2: Le parole relative ad altri argomenti distraggono la
 
 Risposta all’Obiezione 3: Come afferma Crisostomo nell’[*Homilia xiii sull’“Opus Imperfectum” falsamente attribuito a San Giovanni Crisostomo*], “Nostro Signore vieta di pregare in presenza altrui affinché nessuno possa vedervi mentre pregate. Pertanto, quando pregate, non fate nulla di strano per attirare l’attenzione delle persone: né gridate in modo che vi sentano, né battete il petto apertamente, né allungate le mani affinché siano viste da molti. Tuttavia, secondo Agostino (*De Serm. Dom. in Monte* ii, 3), “non è sbagliato essere visti dalle persone, ma fare queste o quelle cose soltanto per essere visti”.
 
-<span class="atom-split" data-atom="233" data-title="Whether attention is a necessary condition of prayer?" data-chapter="Whether attention is a necessary condition of prayer?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="233" data-title="Whether attention is a necessary condition of prayer?" data-chapter="Whether attention is a necessary condition of prayer?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that attention is a necessary condition of prayer. It is written (Jn.
 4:24): "God is a spirit, and they that adore Him must adore Him in spirit and in truth." But prayer
@@ -14383,7 +14394,7 @@ Risposta all’Obiezione 2: La mente umana non è in grado di rimanere “in alt
 
 Risposta all’Obiezione 3: Permettere intenzionalmente alla propria mente di vagare durante la preghiera è peccaminoso e impedisce che essa produca i suoi frutti. È proprio contro questo che [Agostino](/figures/augustine) afferma nella sua Regola (Ep. ccxi): “Quando pregate Dio con salmi e inni, lasciate che la vostra mente si concentri su ciò che le vostre labbra pronunciano”. Tuttavia, se la mente si distrae involontariamente, ciò non priva la preghiera dei suoi effetti positivi. Per questo Basilio scrive (De Constitutio Monachorum i): “Se siete così gravemente indeboliti dal peccato da non essere in grado di pregare con attenzione, sforzatevi al massimo di controllarvi; Dio vi perdonerà, poiché non siete incapaci di stare nella Sua presenza in modo degno, non a causa di negligenza, ma a causa della vostra debolezza”.
 
-<span class="atom-split" data-atom="234" data-title="Whether prayer should last a long time?" data-chapter="Whether prayer should last a long time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="234" data-title="Whether prayer should last a long time?" data-chapter="Whether prayer should last a long time?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prayer should not be continual. It is written (Mat. 6:7): "When
 you are praying, speak not much." Now one who prays a long time needs to speak much, especially
@@ -14471,7 +14482,7 @@ Risposta all’Obiezione 3: Nostro Signore istituì questa preghiera non affinch
 
 Risposta all’Obiezione 4: Si può pregare continuamente, sia per via di un desiderio costante, come detto sopra; sia pregando in momenti precisi e fissi, anche se in modo intermittente; oppure a causa degli effetti che la preghiera produce, sia nella persona che prega – poiché rimane più devota anche dopo aver pregato – sia in un’altra persona: ad esempio, quando una persona, con la propria gentilezza, incoraggia qualcun altro a pregare per lei, anche dopo essersi fermata lei stessa dal pregare.
 
-<span class="atom-split" data-atom="235" data-title="Whether prayer is meritorious?" data-chapter="Whether prayer is meritorious?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="235" data-title="Whether prayer is meritorious?" data-chapter="Whether prayer is meritorious?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that prayer is not meritorious. All merit proceeds from grace. But
 prayer precedes grace, since even grace is obtained by means of prayer according to Lk. 11:13,
@@ -14563,7 +14574,7 @@ Risposta all’Obiezione 2: A volte il merito della preghiera riguarda principal
 
 Risposta all’Obiezione 3: La preghiera dipende principalmente dalla fede, non per la sua efficacia nel meritarre, poiché in tal caso dipenderebbe soprattutto dalla carità; ma per la sua efficacia nell’ottenere ciò che si chiede, poiché è attraverso la fede che l’uomo conosce l’onnipotenza e la misericordia di Dio, fonti da cui la preghiera trae la capacità di ottenere ciò che desidera.
 
-<span class="atom-split" data-atom="236" data-title="Whether sinners impetrate anything from God by their prayers?" data-chapter="Whether sinners impetrate anything from God by their prayers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="236" data-title="Whether sinners impetrate anything from God by their prayers?" data-chapter="Whether sinners impetrate anything from God by their prayers?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/anger,concepts/justice,figures/augustine"></span>
 
 Objection 1: It would seem that sinners impetrate nothing from God by their prayers. It is
 written (Jn. 9:31): "We know that God doth not hear sinners"; and this agrees with the saying of
@@ -14637,7 +14648,7 @@ Risposta all’Obiezione 2: Non può esserci alcuna devozione nella preghiera di
 
 Risposta all’Obiezione 3: Come già detto sopra (A[7], ad 1), la Preghiera del Signore viene recitata da tutti i membri della Chiesa. Pertanto, se qualcuno recita questa preghiera senza essere disposto a perdonare le offese ricevute dal proprio prossimo, non mente; tuttavia, le sue parole non si riferiscono personalmente a lui, ma alla Chiesa nella sua interezza. Poiché egli stesso è escluso da questa comunità per i propri meriti, viene privato del frutto della propria preghiera. Tuttavia, a volte un peccatore è disposto a perdonare coloro che lo hanno offeso; in tal caso, le sue preghiere vengono ascoltate, come recita l’Ecclesiaste 28:2: “Perdona al tuo prossimo se ti ha fatto del male, e allora anche i tuoi peccati saranno perdonati quando pregherai”.
 
-<span class="atom-split" data-atom="237" data-title="Whether the parts of prayer are fittingly described as supplications, prayers, intercessions, and thanksgivings?" data-chapter="Whether the parts of prayer are fittingly described as supplications, prayers, intercessions, and thanksgivings?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="237" data-title="Whether the parts of prayer are fittingly described as supplications, prayers, intercessions, and thanksgivings?" data-chapter="Whether the parts of prayer are fittingly described as supplications, prayers, intercessions, and thanksgivings?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the parts of prayer are unfittingly described as supplications,
 prayers, intercessions, and thanksgivings. Supplication would seem to be a kind of adjuration. Yet,
@@ -14710,7 +14721,7 @@ Risposta all’Obiezione 2: “Preghiera”, nel senso generale, include tutte l
 
 Risposta all’Obiezione 3: Tra le cose diverse, il passato precede il futuro; ma la stessa cosa è prima futura e poi passata. Pertanto, la gratitudine per altri benefici precede l’intercessione: ma lo stesso beneficio viene prima cercato, e soltanto dopo averlo ricevuto ne rendiamo grazia. L’intercessione è preceduta dalla preghiera, attraverso la quale ci avviciniamo a Colui a cui chiediamo; e la preghiera è preceduta dalla supplica, mediante la quale, riflettendo sulla bontà di Dio, osiamo rivolgerci a Lui.
 
-<span class="atom-split" data-atom="238" data-title="OF ADORATION (THREE ARTICLES)" data-chapter="OF ADORATION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="238" data-title="OF ADORATION (THREE ARTICLES)" data-chapter="OF ADORATION (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 In due sequence we must consider the external acts of latria, and in the first place, adoration
 whereby one uses one's body to reverence God; secondly, those acts whereby some external thing
@@ -14727,7 +14738,7 @@ In due fasi dobbiamo considerare gli atti esterni di latria: innanzitutto, l’a
 (2) L’adorazione rappresenta un atto interno o esterno?  
 (3) L’adorazione richiede necessariamente un luogo specifico per essere eseguita?
 
-<span class="atom-split" data-atom="239" data-title="Whether adoration is an act of latria or religion?" data-chapter="Whether adoration is an act of latria or religion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="239" data-title="Whether adoration is an act of latria or religion?" data-chapter="Whether adoration is an act of latria or religion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that adoration is not an act of latria or religion. The [worship](/concepts/religion) of
 religion is due to God alone. But adoration is not due to God alone: since we read (Gn. 18:2) that
@@ -14801,7 +14812,7 @@ Risposta all’Obiezione 2: Ogni forma di eccellenza divina è inclusa nella Sua
 
 Risposta all’Obiezione 3: Poiché esiste un’unica eccellenza nelle Tre Persone Divine, è loro dovuta un’unica forma di onore e reverenza, e di conseguenza un’unica forma di adorazione. È proprio per rappresentare questo concetto che, quando si legge (Genesi 18:2) che tre uomini apparvero ad Abramo, viene detto che egli si rivolse a uno di loro dicendo: “Signore, se ho trovato grazia ai tuoi occhi”, ecc. La triplice genuflessione simboleggia la Trinità delle Persone, e non una diversa forma di adorazione.
 
-<span class="atom-split" data-atom="240" data-title="Whether adoration denotes an action of the body?" data-chapter="Whether adoration denotes an action of the body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="240" data-title="Whether adoration denotes an action of the body?" data-chapter="Whether adoration denotes an action of the body?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that adoration does not denote an act of the body. It is written (Jn.
 4:23): "The true adorers shall adore the Father in spirit and in truth." Now what is done in spirit
@@ -14856,7 +14867,7 @@ Risposta all’Obiezione 2: Proprio come la preghiera è prima di tutto un atto 
 
 Risposta all’Obiezione 3: Sebbene non possiamo raggiungere Dio attraverso i sensi, la nostra mente viene spinta da segni sensibili ad avvicinarsi a Lui.
 
-<span class="atom-split" data-atom="241" data-title="Whether adoration requires a definite place?" data-chapter="Whether adoration requires a definite place?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="241" data-title="Whether adoration requires a definite place?" data-chapter="Whether adoration requires a definite place?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that adoration does not require a definite place. It is written (Jn.
 4:21): "The hour cometh, when you shall neither on this mountain, nor in Jerusalem, adore the
@@ -14923,7 +14934,7 @@ Risposta all’Obiezione 2: Un luogo specifico viene scelto per l’adorazione, 
 
 Risposta all’Obiezione 3: Esiste una certa convenienza nell’adorare rivolti verso est. Primo perché la maestà divina è indicata nel movimento dei cieli che avviene da est. Secondo perché il Paradiso si trovava a est, secondo la versione della Settanta di Genesi 2:8; quindi esprimiamo con questo gesto il desiderio di tornare al Paradiso. Terzo perché Cristo è “la luce del mondo” (*Giovanni 8:12; 9:5*) e viene chiamato “l’Oriente” (Zaccaria 6:12); Egli sale al di sopra del cielo verso est (*Salmo 67:34*) ed è atteso a venire da est, secondo Matteo 24:27: “Come il lampo viene dall’est e appare fino all’ovest, così avverrà anche la venuta del Figlio dell’Uomo”.
 
-<span class="atom-split" data-atom="242" data-title="OF SACRIFICE (FOUR ARTICLES)" data-chapter="OF SACRIFICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="242" data-title="OF SACRIFICE (FOUR ARTICLES)" data-chapter="OF SACRIFICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/natural_law,concepts/religion,concepts/virtue,concepts/law"></span>
 
 In due sequence we must consider those acts whereby external things are offered to God. These
 give rise to a twofold consideration: (1) Of things given to God by the faithful; (2) Of vows, whereby
@@ -14944,7 +14955,7 @@ Nel primo ambito considereremo sacrifici, oblazioni, primizie e decime. Per quan
 (3) Se l’offerta di un sacrificio costituisca un atto specifico di virtù;  
 (4) Se tutti siano obbligati a offrire sacrifici.
 
-<span class="atom-split" data-atom="243" data-title="Whether offering a sacrifice to God is of the law of nature?" data-chapter="Whether offering a sacrifice to God is of the law of nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="243" data-title="Whether offering a sacrifice to God is of the law of nature?" data-chapter="Whether offering a sacrifice to God is of the law of nature?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/recognition,positions/original_sin,concepts/revelation,figures/augustine"></span>
 
 Objection 1: It would seem that offering a sacrifice to God is not of the [natural law](/positions/natural_law). Things
 that are of the natural law are common among all men. Yet this is not the case with sacrifices: for
@@ -15015,7 +15026,7 @@ Risposta all’Obiezione 2: Adamo, Isacco e altri uomini giusti offrirono sacrif
 
 Risposta all’Obiezione 3: È naturale per l’uomo esprimere le proprie idee attraverso dei segni, ma la scelta di tali segni dipende dal piacere dell’uomo stesso.
 
-<span class="atom-split" data-atom="244" data-title="Whether sacrifice should be offered to God alone?" data-chapter="Whether sacrifice should be offered to God alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="244" data-title="Whether sacrifice should be offered to God alone?" data-chapter="Whether sacrifice should be offered to God alone?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sacrifice should not be offered to the most high God alone.
 Since sacrifice ought to be offered to God, it would seem that it ought to be offered to all such as
@@ -15082,7 +15093,7 @@ Risposta all’Obiezione 2: L’offerta di un sacrificio non viene valutata in b
 
 Risposta all’Obiezione 3: Come afferma Agostino (De Civ. Dei viii, 19), “non erigiamo templi e sacerdoti per i martiri, perché non loro, ma il loro Dio è il nostro Dio. Pertanto il sacerdote non dice: ‘Offro un sacrificio a te, Pietro o Paolo’, ma ringraziamo Dio per i loro trionfi e ci incoraggiamo a imitarli”.
 
-<span class="atom-split" data-atom="245" data-title="Whether the offering of sacrifice is a special act of virtue?" data-chapter="Whether the offering of sacrifice is a special act of virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="245" data-title="Whether the offering of sacrifice is a special act of virtue?" data-chapter="Whether the offering of sacrifice is a special act of virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/virtue,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the offering of sacrifice is not a special act of virtue. [Augustine](/figures/augustine)
 says (De Civ. Dei x, 6): "A true sacrifice is any work done that we may cleave to God in holy
@@ -15155,7 +15166,7 @@ Risposta all’Obiezione 2: Il bene dell’uomo è di tre tipi. Il primo riguard
 
 Risposta all’Obiezione 3: Un “sacrificio”, in senso proprio, richiede che venga compiuto qualche atto su ciò che viene offerto a Dio; ad esempio, gli animali venivano uccisi e bruciati, il pane veniva spezzato, mangiato e benedetto. La stessa parola lo indica chiaramente, poiché “sacrificio” si dice proprio perché l’uomo compie un atto sacro [facit sacrum]. D’altra parte, un’“offerta” è propriamente la presentazione di qualcosa a Dio, anche senza che venga compiuto alcun atto particolare su di esso; per questo si parla di offrire denaro o pane all’altare, pur senza fare nulla con essi. Pertanto, ogni sacrificio è un’offerta, ma non viceversa. Le “primizie” sono offerte, perché vengono presentate a Dio (secondo Deuteronomio 26), ma non costituiscono un sacrificio, poiché non viene compiuto alcun atto sacro su di esse. I “diciannovesimi” invece, in senso proprio, né sono un sacrificio né un’offerta, poiché non vengono presentati direttamente a Dio, ma ai ministri del [culto](/concepts/religion) divino.
 
-<span class="atom-split" data-atom="246" data-title="Whether all are bound to offer sacrifices?" data-chapter="Whether all are bound to offer sacrifices?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="246" data-title="Whether all are bound to offer sacrifices?" data-chapter="Whether all are bound to offer sacrifices?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/divine_law,concepts/religion"></span>
 
 Objection 1: It would seem that all are not bound to offer sacrifices. The Apostle says (Rom.
 3:19): "What things soever the Law speaketh, it speaketh to them that are in the Law." Now the
@@ -15215,7 +15226,7 @@ Risposta all’Obiezione 2: Sebbene nessuno conosca esplicitamente il potere dei
 
 Risposta all’Obiezione 3: I sacerdoti offrono quei sacrifici che sono specificamente destinati al [culto](/concepts/religion) divino, non solo per sé stessi ma anche per gli altri. Tuttavia esistono altri sacrifici che chiunque può offrire a Dio per se stesso, come spiegato sopra (AA[2],3).
 
-<span class="atom-split" data-atom="247" data-title="OF OBLATIONS AND FIRST-FRUITS (FOUR ARTICLES)" data-chapter="OF OBLATIONS AND FIRST-FRUITS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="247" data-title="OF OBLATIONS AND FIRST-FRUITS (FOUR ARTICLES)" data-chapter="OF OBLATIONS AND FIRST-FRUITS (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider oblations and first-fruits. Under this head there are four points of inquiry:
 (1) Whether any oblations are necessary as a matter of precept?
@@ -15231,7 +15242,7 @@ Dobbiamo ora considerare le offerte e i primi frutti. In questa categoria esisto
 (3) Di quali cose devono essere fatte tali offerte;  
 (4) In particolare, riguardo ai primi frutti: se le persone siano tenute a offrirli.
 
-<span class="atom-split" data-atom="248" data-title="Whether men are under a necessity of precept to make oblations?" data-chapter="Whether men are under a necessity of precept to make oblations?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="248" data-title="Whether men are under a necessity of precept to make oblations?" data-chapter="Whether men are under a necessity of precept to make oblations?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that men are not bound by precept to make oblations. Men are not
 bound, at the time of the Gospel, to observe the ceremonial precepts of the [Old Law](/concepts/divine_law), as stated above
@@ -15304,7 +15315,7 @@ Risposta all’Obiezione 2: Alcuni sono obbligati a compiere offerte sia prima d
 
 Risposta all’Obiezione 3: Coloro che non compiono le offerte che sono tenuti a fare possono essere puniti con la privazione dei sacramenti, ma non dal sacerdote stesso a cui tali offerte dovrebbero essere rivolte, affinché non sembri esigere qualcosa in cambio della conferimento dei sacramenti; bensì da una autorità superiore a lui.
 
-<span class="atom-split" data-atom="249" data-title="Whether oblations are due to priests alone?" data-chapter="Whether oblations are due to priests alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="249" data-title="Whether oblations are due to priests alone?" data-chapter="Whether oblations are due to priests alone?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that oblations are not due to priests alone. For chief among oblations
 would seem to be those that are deputed to the sacrifices of victims. Now whatever is given to the
@@ -15374,7 +15385,7 @@ Risposta all’Obiezione 2: I monaci o altri religiosi possono ricevere offerte 
 
 Risposta all’Obiezione 3: Le oblazioni, una volta consacrate – come vasi sacri e vestimenti liturgici – non possono essere concesse all’uso dei laici; questo è il significato delle parole di Papa Damaso. Tuttavia, quelle che non sono state consacrate possono essere messe a disposizione dei laici con l’autorizzazione dei sacerdoti, sia in forma di dono che di vendita.
 
-<span class="atom-split" data-atom="250" data-title="Whether a man may make oblations of whatever he lawfully possesses?" data-chapter="Whether a man may make oblations of whatever he lawfully possesses?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="250" data-title="Whether a man may make oblations of whatever he lawfully possesses?" data-chapter="Whether a man may make oblations of whatever he lawfully possesses?" data-kind="atom" data-srclang="en" data-tags="concepts/human_law,concepts/divine_law,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that a man may not make oblations of whatever he lawfully
 possesses. According to [human law](/concepts/human_law) [*Dig. xii, v, de Condict. ob. turp. vel iniust. caus. 4] "the
@@ -15449,7 +15460,7 @@ Risposta all’Obiezione 2: Secondo la Legge, un cane era considerato un animale
 
 Risposta all’Obiezione 3: L’offerta di un animale cieco o zoppo fu dichiarata illegale per tre motivi. Primo, a causa dello scopo per cui veniva offerto; infatti si legge in Malachia 1:8: “Se offrite in sacrificio un animale cieco, non è forse questo una cosa malvagia?”, e i sacrifici dovevano essere senza difetti. Secondo, a causa del disprezzo che tale pratica poteva suscitare; lo stesso testo prosegue dicendo (Malachia 1:12): “Avete profanato il mio nome dicendo che la tavola del Signore è contaminata e che ciò che vi viene posto sopra è spregevole”. Terzo, a causa di un voto precedente con cui una persona si impegna ad offrire qualcosa senza difetti; per questo lo stesso testo aggiunge (Malachia 1:14): “Maledetto sia l’uomo ingannatore che, avendo tra il suo gregge un animale debole, lo offre in sacrificio al Signore”. Questi stessi motivi valgono anche nella Nuova Legge, ma quando non si applicano più, l’illegalità scompare.
 
-<span class="atom-split" data-atom="251" data-title="Whether men are bound to pay first-fruits?" data-chapter="Whether men are bound to pay first-fruits?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="251" data-title="Whether men are bound to pay first-fruits?" data-chapter="Whether men are bound to pay first-fruits?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/recognition,concepts/custom,concepts/divine_law"></span>
 
 Objection 1: It would seem that men are not bound to pay first-fruits. After giving the law of
 the first-born the text continues (Ex. 13:9): "It shall be as a sign in thy hand," so that, apparently,
@@ -15527,7 +15538,7 @@ Risposta all’Obiezione 2: Nei tempi dell’Antico Testamento venivano offerti 
 
 Risposta all’Obiezione 3: Come afferma Geromeo nel [*Commento su Ezechiele 45:13,14; cfr. Capitolo Decimam, de Decim. Primit. et Oblat.]: “Secondo la tradizione degli antichi, si stabilì che coloro che avevano di più dessero ai sacerdoti un quarto del loro possesso, mentre coloro che ne avevano di meno ne dessero un sessantesimo, al posto delle primizie”. Pertanto sembrerebbe che l’entità delle primizie dovesse variare secondo le usanze del proprio paese. Inoltre, era ragionevole che l’importo delle primizie non fosse fissato per legge, poiché, come già detto, esse vengono offerte a titolo di oblazione, e una condizione fondamentale di tale atto è che sia volontario.
 
-<span class="atom-split" data-atom="252" data-title="OF TITHES (FOUR ARTICLES)" data-chapter="OF TITHES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="252" data-title="OF TITHES (FOUR ARTICLES)" data-chapter="OF TITHES (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Next we must consider tithes, under which head there are four points of inquiry:
 (1) Whether men are bound by precept to pay tithes?
@@ -15543,7 +15554,7 @@ In seguito dobbiamo considerare le decime; in questa categoria vi sono quattro p
 (3) A chi debbano essere pagate;  
 (4) Chi deve pagare le decime.
 
-<span class="atom-split" data-atom="253" data-title="Whether men are bound to pay tithes under a necessity of precept? (parte 1)" data-chapter="Whether men are bound to pay tithes under a necessity of precept?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="253" data-title="Whether men are bound to pay tithes under a necessity of precept? (parte 1)" data-chapter="Whether men are bound to pay tithes under a necessity of precept?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/divine_law,concepts/religion,concepts/custom,figures/augustine"></span>
 
 Objection 1: It would seem that men are not bound by precept to pay tithes. The commandment
 to pay tithes is contained in the [Old Law](/concepts/divine_law) (Lev. 27:30), "All tithes of the land, whether of corn or
@@ -15658,7 +15669,7 @@ Rispondo che, nella Legge Antica, i decimi venivano pagati al fine di sostenere 
 Esiste questa differenza tra i precetti cerimoniali e quelli giudiziari della Legge, come abbiamo affermato in precedenza (FS, Q[104], A[3]): ossia è illegale osservare i precetti cerimoniali al momento.
 La nuova legge stabilisce che non vi sia alcun peccato nel rispettare i precetti giudiziari durante il periodo di grazia, anche se tali precetti non sono obbligatori. Tuttavia, alcuni sono tenuti ad osservarli se questi sono stabiliti dall’autorità di coloro che hanno il potere di legiferare. Ad esempio, nel Vecchio Testamento era un precetto giudiziario che chi rubasse una pecora dovesse restituire quattro pecore (Esodo 22:1); se un re avesse ordinato questo, i suoi sudditi sarebbero stati obbligati ad obbedire. Allo stesso modo, nel Nuovo Testamento l’autorità della Chiesa ha stabilito il pagamento del decimo, dimostrando così una certa considerazione per le esigenze delle persone, affinché i fedeli del Nuovo Testamento non dessero ai ministri del Nuovo Testamento meno di quanto facessero i fedeli del Vecchio Testamento ai ministri di quest’ultimo; infatti, i fedeli del Nuovo Testamento hanno obblighi più gravosi, secondo Matteo 5:20: “Se la vostra giustizia non supererà quella degli scribi e dei farisei, non entrerete nel regno dei cieli”. Inoltre, i ministri del Nuovo Testamento possiedono una dignità maggiore rispetto a quelli del Vecchio Testamento, come dimostra l’Apostolo in 2 Corinzi 3:7-8. È evidente quindi che l’obbligo di pagare il decimo deriva in parte dalla legge naturale e in parte dall’instituzione della Chiesa; tuttavia, a seconda delle esigenze del tempo e delle circostanze, la Chiesa potrebbe stabilire anche un altro importo da pagare. Ciò basta per rispondere alla prima obiezione.
 
-<span class="atom-split" data-atom="254" data-title="Whether men are bound to pay tithes under a necessity of precept? (parte 2)" data-chapter="Whether men are bound to pay tithes under a necessity of precept?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="254" data-title="Whether men are bound to pay tithes under a necessity of precept? (parte 2)" data-chapter="Whether men are bound to pay tithes under a necessity of precept?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 2: The precept about paying tithes, in so far as it was a moral precept, was
 given in the Gospel by our Lord when He said (Mat. 10:10) [*The words as quoted are from Lk.
@@ -15704,7 +15715,7 @@ Risposta all’Obiezione 4: Il secondo tipo di decimo, che era riservato all’o
 
 Risposta all’Obiezione 5: I ministri della Chiesa dovrebbero preoccuparsi maggiormente dell’aumento dei beni spirituali nelle persone che di accumulare beni temporali; per questo motivo l’Apostolo non volle approfittare del diritto concesso dal Signore di ricevere il proprio sostentamento da coloro a cui predicava il Vangelo, affinché non ostacolasse la diffusione del Vangelo di Cristo [*1 Corinzi 9:12]. Non peccarono nemmeno coloro che non contribuirono al suo mantenimento, altrimenti l’Apostolo non avrebbe omesso di rimproverarli. Allo stesso modo, i ministri della Chiesa si astengono giustamente dal richiedere le decime quando ciò potrebbe causare scandalo, a causa del loro abbandono o per altri motivi. Tuttavia, coloro che non pagano le decime in luoghi dove la Chiesa non ne richiede l’osservanza non si trovano necessariamente in uno stato di dannazione, a meno che non siano ostinati e riluttanti a pagarle anche quando vengono esiguite.
 
-<span class="atom-split" data-atom="255" data-title="Whether men are bound to pay tithes of all things?" data-chapter="Whether men are bound to pay tithes of all things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="255" data-title="Whether men are bound to pay tithes of all things?" data-chapter="Whether men are bound to pay tithes of all things?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that men are not bound to give tithes of all things. The paying of
 tithes seems to be an institution of the [Old Law](/concepts/divine_law). Now the Old Law contains no precept about
@@ -15810,7 +15821,7 @@ Risposta all’Obiezione 3: Le cose destinate a un fine devono essere giudicate 
 
 Risposta all’Obiezione 4: Un uomo non è obbligato a pagare le decime su ciò che ha perso a causa di furto o rapina, prima di recuperare la propria proprietà; a meno che tale perdita non sia dovuta alla sua stessa colpa o negligenza, poiché la Chiesa non dovrebbe subire perdite a causa di ciò. Se uno vende grano per il quale non sono state pagate le decime, la Chiesa può richiedere l’importo dovuto sia al compratore, che ha un debito verso la Chiesa, sia al venditore, poiché quest’ultimo ha in realtà truffato la Chiesa. Tuttavia, se uno dei due paga, l’altro non è obbligato a farlo. Le decime sono dovute sui frutti della terra, nella misura in cui tali frutti rappresentano un dono di Dio. Pertanto, le decime non rientrano tra le tasse né sono soggette ai salari dei lavoratori. Non è quindi corretto detrarre le tasse e i salari dei lavoratori prima di pagare le decime; queste devono essere versate prima di qualsiasi altra spesa, sul proprio intero prodotto.
 
-<span class="atom-split" data-atom="256" data-title="Whether tithes should be paid to the clergy?" data-chapter="Whether tithes should be paid to the clergy?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="256" data-title="Whether tithes should be paid to the clergy?" data-chapter="Whether tithes should be paid to the clergy?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that tithes should not be paid to the clergy. Tithes were paid to the
 Levites in the Old Testament, because they had no portion in the people's possessions, according
@@ -15885,7 +15896,7 @@ Risposta all’Obiezione 2: Le decime personali spettano alla chiesa della parro
 
 Risposta all’Obiezione 3: Proprio come la Chiesa può affidare a un laico le somme che riceve in nome dei decimi, così può anche permettergli di riscuotere decimi ancora non pagati, il diritto di riceverli essendo riservato ai ministri della Chiesa. Il motivo può essere sia la necessità stessa della Chiesa – come quando i decimi sono dovuti a determinati soldati poiché concessi loro in feudo dalla Chiesa – sia l’aiuto ai poveri; per questo motivo, alcuni decimi vengono destinati, a titolo di elemosina, a certi laici religiosi o a coloro che non si occupano dell’educazione spirituale delle anime. Tuttavia, alcuni religiosi sono autorizzati a ricevere i decimi poiché svolgono effettivamente questa funzione.
 
-<span class="atom-split" data-atom="257" data-title="Whether the clergy also are bound to pay tithes?" data-chapter="Whether the clergy also are bound to pay tithes?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="257" data-title="Whether the clergy also are bound to pay tithes?" data-chapter="Whether the clergy also are bound to pay tithes?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that clerics also are bound to pay tithes. By common law [*Cap.
 Cum homines, de Decimis, etc.] the parish church should receive the tithes on the lands which are
@@ -15965,7 +15976,7 @@ Risposta all’Obiezione 3: Nella [Legge Antica](/concepts/divine_law), i primi 
 Risposta all’Obiezione 4: I decimi dovrebbero essere utilizzati per aiutare i poveri, attraverso l’intervento del clero. Pertanto, i poveri non hanno alcun motivo per accettare i decimi, ma sono obbligati a pagarli.  
 SERVIZIO PER PROMESSA (Q[88])
 
-<span class="atom-split" data-atom="258" data-title="OF VOWS (TWELVE ARTICLES)" data-chapter="OF VOWS (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="258" data-title="OF VOWS (TWELVE ARTICLES)" data-chapter="OF VOWS (TWELVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider vows, whereby something is promised to God. Under this head there
 are twelve points of inquiry:
@@ -15998,7 +16009,7 @@ Dobbiamo ora considerare i voti, attraverso i quali si promette qualcosa a Dio. 
 (11) Se sia possibile concedere una dispensa da un voto solenne di castità;  
 (12) Se l’autorità di un superiore sia necessaria per ottenere tale dispensa.
 
-<span class="atom-split" data-atom="259" data-title="Whether a vow consists in a mere purpose of the will?" data-chapter="Whether a vow consists in a mere purpose of the will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="259" data-title="Whether a vow consists in a mere purpose of the will?" data-chapter="Whether a vow consists in a mere purpose of the will?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a vow consists in nothing but a purpose of the will. According
 to some [*William of Auxerre, Sum. Aur. III, xxviii, qu. 1; Albertus Magnus, Sent. iv, D, 38], "a
@@ -16072,7 +16083,7 @@ Risposta all’Obiezione 2: La volontà umana spinge la ragione ad promettere qu
 
 Risposta all’Obiezione 3: Chi mette la mano nel aratro ha già compiuto un atto concreto; chi, invece, si limita a intendere di farlo, non ha ancora fatto nulla. Tuttavia, quando promette di farlo, inizia già ad agire, anche se non ha ancora adempiuto alla sua promessa: allo stesso modo, colui che mette la mano nel aratro non ha ancora iniziato a arare, ma tende comunque la mano con l’intento di farlo.
 
-<span class="atom-split" data-atom="260" data-title="Whether a vow should always be about a better good?" data-chapter="Whether a vow should always be about a better good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="260" data-title="Whether a vow should always be about a better good?" data-chapter="Whether a vow should always be about a better good?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a vow need not be always about a better good. A greater good
 is one that pertains to supererogation. But vows are not only about matters of supererogation, but
@@ -16164,7 +16175,7 @@ Risposta all’Obiezione 2: Alcune cose sono buone, indipendentemente dal loro r
 
 Risposta all’Obiezione 3: La mortificazione del proprio corpo, ad esempio attraverso veglie e digiuni, non è accettabile da Dio se non nella misura in cui rappresenta un atto di virtù; e ciò dipende dal fatto che venga compiuta con la dovuta discrezione, cioè senza sovraccaricare la natura umana. A questa condizione, tali pratiche possono costituire oggetto di voto. Pertanto l’Apostolo, dopo aver detto (Romani 12:1): “Porgete i vostri corpi come sacrificio vivo, santo e gradito a Dio”, aggiunge: “e il vostro servizio dovuto”. Tuttavia, poiché l’uomo è facilmente in errore nel giudicare questioni che lo riguardano personalmente, tali voti sono più opportuni da rispettare o da ignorare secondo la valutazione di un superiore; tuttavia, se una persona ritiene con certezza di essere gravemente sovraccaricata dall’adempimento di tale voto e non possa rivolgersi a un superiore, non dovrebbe mantenerlo. Quanto ai voti relativi a cose vane e inutili, è meglio riderne piuttosto che rispettarli.
 
-<span class="atom-split" data-atom="261" data-title="Whether all vows are binding?" data-chapter="Whether all vows are binding?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="261" data-title="Whether all vows are binding?" data-chapter="Whether all vows are binding?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,positions/sovereignty,concepts/faith,figures/augustine,figures/cicero"></span>
 
 Objection 1: It would seem that vows are not all binding. For man needs things that are done
 by another, more than God does, since He has no need for our goods (Ps. 15:2). Now according to
@@ -16243,7 +16254,7 @@ Risposta all’Obiezione 2: Se ciò che un uomo ha giurato diventa impossibile p
 
 Risposta all’Obiezione 3: L’obbligo derivante da un voto è causato dalla nostra stessa volontà e intenzione; per questo si legge (Deuteronomio 23:23): “Quello che una volta uscirà dalle tue labbra, tu lo dovrai osservare e fare secondo quanto hai promesso al Signore tuo Dio, con la tua volontà e con la tua bocca”. Pertanto, se nel pronunciare un voto si ha l’intenzione di adempiervi immediatamente, si è obbligati a farlo senza indugio. Tuttavia, se si intende adempirvi in un determinato momento o sotto una certa condizione, non si è tenuti ad adempiere subito. Ciononostante, non si dovrebbe ritardare oltre il tempo previsto per l’adempimento, poiché si legge (Deuteronomio 23:21): “Quando hai fatto un voto al Signore tuo Dio, non ritardare nel mantenerlo; perché il Signore tuo Dio te lo richiederà, e se lo ritardi, sarà considerato un peccato”.
 
-<span class="atom-split" data-atom="262" data-title="Whether it is expedient to take vows?" data-chapter="Whether it is expedient to take vows?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="262" data-title="Whether it is expedient to take vows?" data-chapter="Whether it is expedient to take vows?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not expedient to take vows. It is not expedient to anyone
 to deprive himself of the good that God has given him. Now one of the greatest goods that God has
@@ -16320,7 +16331,7 @@ Risposta all’Obiezione 2: Quando il pericolo deriva direttamente dall’atto s
 
 Risposta all’Obiezione 3: Era impossibile per Cristo, per sua stessa natura, fare voto, sia perché era Dio, sia perché, in quanto uomo, la Sua volontà era fermamente orientata verso il bene, poiché Egli era una “entità onnisciente”. Tuttavia, per un certo tipo di similitudine, si dice che abbia detto (Salmo 21:26): “Adempirò i miei voti davanti a coloro che Lo temono”, riferendosi al Suo corpo, che è la Chiesa. Si intende che gli apostoli abbiano fatto voto riguardo allo [stato](/concepts/state) di perfezione quando “abbandonarono ogni cosa e seguirono Cristo”.
 
-<span class="atom-split" data-atom="263" data-title="Whether a vow is an act of latria or religion?" data-chapter="Whether a vow is an act of latria or religion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="263" data-title="Whether a vow is an act of latria or religion?" data-chapter="Whether a vow is an act of latria or religion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a vow is not an act of latria or religion. Every act of virtue is
 matter for a vow. Now it would seem to pertain to the same virtue to promise a thing and to do it.
@@ -16385,7 +16396,7 @@ Risposta all’Obiezione 2: Chi promette qualcosa lo dona già nel momento in cu
 
 Risposta all’Obiezione 3: Un voto viene fatto esclusivamente a Dio, mentre una promessa può essere fatta anche a un uomo; inoltre, proprio questa promessa di bene, fatta a un uomo, può costituire oggetto di un voto, nella misura in cui rappresenti un atto virtuoso. È così che dobbiamo interpretare i voti nei quali si promette qualcosa ai santi o ai propri superiori: la promessa fatta a questi ultimi diventa l’oggetto del voto, nella misura in cui si giura a Dio di adempiere a ciò che si è promesso.
 
-<span class="atom-split" data-atom="264" data-title="Whether it is more praiseworthy and meritorious to do something in fulfilment of a vow, than without a vow?" data-chapter="Whether it is more praiseworthy and meritorious to do something in fulfilment of a vow, than without a vow?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="264" data-title="Whether it is more praiseworthy and meritorious to do something in fulfilment of a vow, than without a vow?" data-chapter="Whether it is more praiseworthy and meritorious to do something in fulfilment of a vow, than without a vow?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is more praiseworthy and meritorious to do a thing without
 a vow than in fulfilment of a vow. Prosper says (De Vita Contempl. ii): "We should abstain or fast
@@ -16470,7 +16481,7 @@ Risposta all’Obiezione 2: Secondo il Filosofo, la necessità della coercizione
 
 Risposta all’Obiezione 3: Chi compie un’azione senza averne fatto voto possiede una volontà immutabile riguardo a quell’azione specifica e nel momento in cui la compie; tuttavia, la sua volontà non rimane del tutto fissa per il futuro, a differenza di quella di chi ha fatto un voto: quest’ultimo, infatti, si è impegnato a compiere qualcosa sia prima di agire, sia forse anche in più occasioni successive.
 
-<span class="atom-split" data-atom="265" data-title="Whether a vow is solemnized by the reception of holy orders, and by the profession of a certain rule?" data-chapter="Whether a vow is solemnized by the reception of holy orders, and by the profession of a certain rule?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="265" data-title="Whether a vow is solemnized by the reception of holy orders, and by the profession of a certain rule?" data-chapter="Whether a vow is solemnized by the reception of holy orders, and by the profession of a certain rule?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a vow is not solemnized by the reception of holy orders and
 by the profession of a certain rule. As stated above (A[1]), a vow is a promise made to God. Now
@@ -16544,7 +16555,7 @@ Risposta all’Obiezione 2: Non è consuetudine rendere solenni atti specifici, 
 
 Risposta all’Obiezione 3: Il fatto che un voto venga pronunciato in pubblico può conferirgli una certa solennità umana, ma non una solennità spirituale e divina, come invece avviene per i voti menzionati in precedenza, anche quando vengono pronunciati davanti a poche persone. Pertanto, la pubblicità di un voto non è sinonimo della sua solennizzazione.
 
-<span class="atom-split" data-atom="266" data-title="Whether those who are subject to another's power are hindered from taking vows?" data-chapter="Whether those who are subject to another's power are hindered from taking vows?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="266" data-title="Whether those who are subject to another's power are hindered from taking vows?" data-chapter="Whether those who are subject to another's power are hindered from taking vows?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that those who are subject to another's power are not hindered from
 taking vows. The lesser bond is surpassed by the greater. Now the obligation of one man subject
@@ -16623,7 +16634,7 @@ Risposta all’Obiezione 3: Un religioso è soggetto al proprio superiore per qu
 
 Risposta all’Obiezione 4: Sebbene il voto di colui che è soggetto al potere di un altro non possa essere espresso senza il consenso di quest’ultimo, egli non pecca nel pronunciarlo; poiché si intende che tale voto includa la condizione necessaria, ovvero che il suo superiore lo approvi o non lo disapprovi.
 
-<span class="atom-split" data-atom="267" data-title="Whether children can bind themselves by vow to enter religion?" data-chapter="Whether children can bind themselves by vow to enter religion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="267" data-title="Whether children can bind themselves by vow to enter religion?" data-chapter="Whether children can bind themselves by vow to enter religion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that children cannot bind themselves by vow to enter religion.
 Since a vow requires deliberation of the mind, it is fitting that those alone should vow who have
@@ -16700,7 +16711,7 @@ Risposta all’Obiezione 2: I voti delle persone sottoposte al potere di un altr
 
 Risposta all’Obiezione 3: Questo argomento è valido nel caso dei voti solenni che vengono fatti durante la professione di fede.
 
-<span class="atom-split" data-atom="268" data-title="Whether vows admit of dispensation?" data-chapter="Whether vows admit of dispensation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="268" data-title="Whether vows admit of dispensation?" data-chapter="Whether vows admit of dispensation?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/divine_law,concepts/human_law,concepts/religion"></span>
 
 Objection 1: It would seem that vows are not subject to dispensation. It is less to have a vow
 commuted than to be dispensed from keeping it. But a vow cannot be commuted, according to Lev.
@@ -16783,7 +16794,7 @@ Risposta all’Obiezione 2: Proprio come l’uomo è obbligato dalla legge natur
 
 Risposta all’Obiezione 3: La fedeltà che dobbiamo a Dio non richiede che adempiamo a promesse che sarebbe sbagliato o inutile mantenere, o che potrebbero rappresentare un ostacolo al bene maggiore verso cui porterebbe il rilascio da tali promesse. Pertanto, il rilascio da una promessa non è contrario alla fedeltà dovuta a Dio.
 
-<span class="atom-split" data-atom="269" data-title="Whether it is possible to be dispensed from a solemn vow of continency? (parte 1)" data-chapter="Whether it is possible to be dispensed from a solemn vow of continency?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="269" data-title="Whether it is possible to be dispensed from a solemn vow of continency? (parte 1)" data-chapter="Whether it is possible to be dispensed from a solemn vow of continency?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is possible to be dispensed from a solemn vow of continency.
 As stated above, one reason for granting a dispensation from a vow is if it be an obstacle to a greater
@@ -16905,7 +16916,7 @@ Risposta all’Obiezione 2: Un voto di continenza temporanea può essere oggetto
 
 Risposta all’Obiezione 3: Il cibo è direttamente necessario per il mantenimento della persona; pertanto, astenersi dal mangiare può rappresentare una fonte diretta di pericolo per la stessa. Per questo motivo, un voto di astinenza rientra nella categoria delle questioni su cui si può decidere in base alle circostanze particolari. D’altra parte, il rapporto sessuale è direttamente finalizzato al mantenimento non della singola persona, ma della specie; pertanto astenersi da tale rapporto attraverso la continenza non comporta alcun pericolo per l’individuo. E se, per caso, ciò dovesse rappresentare un rischio per la persona, questo può essere eliminato con altri mezzi, ad esempio attraverso l’astinenza o altre cure fisiche.
 
-<span class="atom-split" data-atom="270" data-title="Whether it is possible to be dispensed from a solemn vow of continency? (parte 2)" data-chapter="Whether it is possible to be dispensed from a solemn vow of continency?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="270" data-title="Whether it is possible to be dispensed from a solemn vow of continency? (parte 2)" data-chapter="Whether it is possible to be dispensed from a solemn vow of continency?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 4: A religious who is made a bishop is no more absolved from his vow of
 poverty than from his vow of continency, since he must have nothing of his own and must hold
@@ -16923,7 +16934,7 @@ viii). Wherefore it is said pointedly "of a continent soul," not "of a continent
 Risposta all’Obiezione 4: Un religioso che viene nominato vescovo non è affatto esentato dal proprio voto di povertà, né da quello di castità, poiché deve rimanere privo di tutto ciò che gli appartiene personalmente e deve considerarsi il dispensatore dei beni comuni della Chiesa. Allo stesso modo, non viene nemmeno esentato dal suo voto di obbedienza; è solo un caso che non sia tenuto ad obbedire se non ha un superiore, proprio come l’abate di un monastero, il quale tuttavia non è esentato dal proprio voto di obbedienza.  
 Il passaggio dell’Ecclesiastico che viene citato nel senso opposto deve essere inteso nel seguente modo: né la fecondità del corpo né alcun bene materiale possono essere paragonati alla castità, che è considerata uno dei beni dell’anima, come afferma [Agostino](/figures/augustine) (De Sancta Virg. viii). Per questo motivo si dice esplicitamente “di un’anima casta”, e non “di un corpo casto”.
 
-<span class="atom-split" data-atom="271" data-title="Whether the authority of a prelate is required for commutation or the dispensation of a vow?" data-chapter="Whether the authority of a prelate is required for commutation or the dispensation of a vow?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="271" data-title="Whether the authority of a prelate is required for commutation or the dispensation of a vow?" data-chapter="Whether the authority of a prelate is required for commutation or the dispensation of a vow?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the authority of a prelate is not required for the commutation
 or dispensation of a vow. A person may enter religion without the authority of a superior prelate.
@@ -17012,7 +17023,7 @@ Ma questa opinione si basa su un’errata supposizione: poiché un prelato spiri
 
 Risposta all’Obiezione 3: Poiché il Sovrano Pontefice occupa il posto di Cristo in tutta la Chiesa, egli esercita un potere assoluto nel dispensare da tutti i voti che permettono tale dispensa. Ad altri e inferiori prelati è concesso il potere di dispensare da quei voti che vengono comunemente fatti e che spesso richiedono tale dispensa, affinché le persone possano facilmente rivolgersi a qualcuno per ottenerla; si tratta di voti come quelli legati ai pellegrinaggi (*Cap. de Peregin., de Voto et Voti redempt*), al digiuno e simili, nonché dei voti relativi ai pellegrinaggi in Terra Santa, che sono riservati esclusivamente al Sovrano Pontefice [*Cap. Ex multa*].
 
-<span class="atom-split" data-atom="272" data-title="OF OATHS (TEN ARTICLES)" data-chapter="OF OATHS (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="272" data-title="OF OATHS (TEN ARTICLES)" data-chapter="OF OATHS (TEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider those external acts of religion, whereby something Divine is taken by
 man: and this is either a [sacrament](/concepts/sacrament) or the Name of God. The place for treating of the taking of a
@@ -17046,7 +17057,7 @@ Dobbiamo ora considerare quegli atti esterni di religione attraverso i quali l�
 (9) Un giuramento può essere esentato in alcune circostanze?  
 (10) Chi può pronunciare legalmente un giuramento, e quando?
 
-<span class="atom-split" data-atom="273" data-title="Whether to swear is to call God to witness?" data-chapter="Whether to swear is to call God to witness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="273" data-title="Whether to swear is to call God to witness?" data-chapter="Whether to swear is to call God to witness?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that to swear is not to call God to witness. Whoever invokes the
 authority of Holy Writ calls God to witness, since it is His word that Holy Writ contains. Therefore,
@@ -17123,7 +17134,7 @@ Risposta all’Obiezione 3: Una persona è chiamata a testimoniare al fine di re
 
 Al contrario; l’altro metodo consiste nel maledire, ovvero nel vincolarsi oneself o qualcosa che si possiede alla punizione, nel caso in cui ciò che si afferma non sia vero.
 
-<span class="atom-split" data-atom="274" data-title="Whether it is lawful to swear?" data-chapter="Whether it is lawful to swear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="274" data-title="Whether it is lawful to swear?" data-chapter="Whether it is lawful to swear?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/custom,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not lawful to swear. Nothing forbidden in the [Divine Law](/concepts/divine_law)
 is lawful. Now swearing is forbidden (Mat. 5:34), "But I say to you not to swear at all"; and (James
@@ -17198,7 +17209,7 @@ Risposta all’Obiezione 2: Secondo Agostino (De Serm. Dom. in Monte i. 17): “
 
 Risposta all’Obiezione 3: Chi giura non tenta Dio, poiché la sua richiesta di aiuto divino non è priva di utilità e necessità. Inoltre, non si espone a pericolo, nemmeno nel caso in cui Dio non sia disposto ad assistere in quel momento; poiché certamente lo farà in un futuro, quando “farà venire alla luce le cose nascoste nell’oscurità e renderà manifesti i pensieri dei cuori” (1 Corinzi 4:5). E questo testimone non mancherà a nessuno che giura, né a favore né contro di sé.
 
-<span class="atom-split" data-atom="275" data-title="Whether three accompanying conditions of an oath are suitably assigned, namely, justice, judgment, and truth?" data-chapter="Whether three accompanying conditions of an oath are suitably assigned, namely, justice, judgment, and truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="275" data-title="Whether three accompanying conditions of an oath are suitably assigned, namely, justice, judgment, and truth?" data-chapter="Whether three accompanying conditions of an oath are suitably assigned, namely, justice, judgment, and truth?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that justice, judgment and truth are unsuitably assigned as the
 conditions accompanying an oath. Things should not be enumerated as diverse, if one of them
@@ -17259,7 +17270,7 @@ Risposta all’Obiezione 2: La devozione, la fede e altre condizioni necessarie 
 
 Risposta all’Obiezione 3: Giurare comporta un grande pericolo, sia a causa della grandezza di Dio, chiamato a testimoniare sotto giuramento, sia a causa della debolezza della lingua umana, le cui parole vengono confermate attraverso il giuramento stesso. Pertanto, queste condizioni sono particolarmente necessarie quando si pronuncia un giuramento, rispetto ad altre azioni umane.
 
-<span class="atom-split" data-atom="276" data-title="Whether an oath is an act of religion or latria?" data-chapter="Whether an oath is an act of religion or latria?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="276" data-title="Whether an oath is an act of religion or latria?" data-chapter="Whether an oath is an act of religion or latria?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an oath is not an act of religion, or latria. Acts of religion are
 about holy and divine things. But oaths are employed in connection with human disputes, as the
@@ -17318,7 +17329,7 @@ Risposta all’Obiezione 2: Nel fatto stesso che un uomo invoca Dio come testimo
 
 Risposta all’Obiezione 3: Qualunque cosa facciamo, dobbiamo farla nell’onore di Dio; pertanto non vi è alcun ostacolo nel mostrare rispetto per Dio quando il nostro intento è quello di confortare un uomo. Dobbiamo infatti compiere le nostre azioni nell’onore di Dio affinché possano portare al bene del nostro prossimo, poiché anche Dio agisce per la propria gloria e per il nostro bene.
 
-<span class="atom-split" data-atom="277" data-title="Whether oaths are desirable and to be used frequently as something useful and good?" data-chapter="Whether oaths are desirable and to be used frequently as something useful and good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="277" data-title="Whether oaths are desirable and to be used frequently as something useful and good?" data-chapter="Whether oaths are desirable and to be used frequently as something useful and good?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that oaths are desirable and to be used frequently as something
 useful and good. Just as a vow is an act of religion, so is an oath. Now it is commendable and more
@@ -17385,7 +17396,7 @@ Risposta all’Obiezione 2: Chi giura effettivamente fa uso della propria revere
 
 Risposta all’Obiezione 3: Proprio come un farmaco è utile per guarire, ma più potente è, maggiore danno arreca se assunto in modo improprio, allo stesso modo un giuramento è effettivamente uno strumento utile per confermare qualcosa; tuttavia, maggiore è la reverenza che richiede, maggiormente pericoloso diventa, a meno che non venga utilizzato nel modo corretto. Come recita il Libro della Sapienza (23:13): “Se lo pronuncia invano, cioè se inganna il proprio fratello, il suo peccato ricadrà su di lui; se lo pronuncia con falsità e dissimulazione, offende doppiamente, poiché una ‘giustizia’ simulata rappresenta in realtà un doppio malegezzo”, come afferma Agostino nell’*Enarratio in Psalmum lxiii, 7*; “e se lo pronuncia senza motivo e necessità, non sarà giustificato”.
 
-<span class="atom-split" data-atom="278" data-title="Whether it is lawful to swear by creatures?" data-chapter="Whether it is lawful to swear by creatures?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="278" data-title="Whether it is lawful to swear by creatures?" data-chapter="Whether it is lawful to swear by creatures?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/religion,concepts/faith"></span>
 
 Objection 1: It would seem that it is not lawful to swear by creatures. It is written (Mat. 5:34-36):
 "I say to you not to swear at all, neither by heaven . . . nor by the earth . . . nor by Jerusalem . . .
@@ -17451,7 +17462,7 @@ Risposta all’Obiezione 1: Nostro Signore ci ha proibito di giurare sulle creat
 
 Risposta all’Obiezione 3: Il culto religioso viene rivolto a quelle entità le cui testimonianze vengono invocate con giuramento; da ciò deriva il divieto (Esodo 23:13): “Non giurerai nel nome di dèi stranieri”. Tuttavia, il culto religioso non viene rivolto alle creature utilizzate nei giuramenti nei modi menzionati sopra.
 
-<span class="atom-split" data-atom="279" data-title="Whether an oath has a binding force?" data-chapter="Whether an oath has a binding force?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="279" data-title="Whether an oath has a binding force?" data-chapter="Whether an oath has a binding force?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an oath has no binding force. An oath is employed in order to
 confirm the truth of an assertion. But when a person makes an assertion about the future his assertion
@@ -17486,7 +17497,7 @@ us, the obligation falls on the thing guaranteed by oath. For a man is bound to 
 has sworn, else his oath lacks truth.
 Now if this thing be such as not to be in his power, his oath is lacking in judgment of discretion:
 unless perchance what was possible when he swore become impossible to him through some mishap.
-as when a man swore to pay a sum of money, which is subsequently taken from him by force or
+as when a man swore to pay a sum of [money](/concepts/money), which is subsequently taken from him by force or
 theft. For then he would seem to be excused from fulfilling his oath, although he is bound to do
 what he can, as, in fact, we have already stated with regard to the obligation of a vow (Q[88], A[3],
 ad 2). If, on the other hand, it be something that he can do, but ought not to, either because it is
@@ -17568,7 +17579,7 @@ Risposta all’Obiezione 3: Nel giuramento pronunciato sotto costrizione esiste 
 
 Risposta all’Obiezione 4: Quando l’intenzione di chi giura non è la stessa di quella della persona a cui si giura, e ciò deriva dalla frode di colui che giura, egli deve mantenere il proprio giuramento in conformità con la comprensione corretta da parte della persona a cui esso viene fatto. Pertanto Isidoro afferma (De Summo Bono ii, 31): “Per quanto abile possa essere una persona nel formulare il proprio giuramento, Dio, che è testimone della sua coscienza, lo accetta secondo come viene inteso da colui a cui viene rivolto”. E è chiaro che ciò si riferisce ai giuramenti fraudolenti, come emerge dal testo successivo: “È doppiamente colpevole chi utilizza il nome di Dio a vanvera e inganna il proprio prossimo con frode”. Tuttavia, se colui che giura non ricorre a inganni, è tenuto ad attenersi alla propria vera intenzione. Per questo motivo Gregorio dice (Moralia xxvi, 7): “L’orecchio umano interpreta queste parole secondo il loro significato naturale esteriore, ma la giustizia divina le interpreta in base alla nostra intenzione reale”.
 
-<span class="atom-split" data-atom="280" data-title="Whether an oath is more binding than a vow?" data-chapter="Whether an oath is more binding than a vow?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="280" data-title="Whether an oath is more binding than a vow?" data-chapter="Whether an oath is more binding than a vow?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an oath is more binding than a vow. A vow is a simple promise:
 whereas an oath includes, besides a promise, an appeal to God as witness. Therefore an oath is
@@ -17620,7 +17631,7 @@ Risposta all’Obiezione 2: Un giuramento viene aggiunto a un voto non perché s
 
 Risposta all’Obiezione 3: La riflessione della mente conferisce alla promessa la sua stabilità da parte di colui che la formula; ma essa possiede una causa ancora più grande di stabilità da parte di Dio, a Lui che la promessa viene rivolta.
 
-<span class="atom-split" data-atom="281" data-title="Whether anyone can dispense from an oath?" data-chapter="Whether anyone can dispense from an oath?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="281" data-title="Whether anyone can dispense from an oath?" data-chapter="Whether anyone can dispense from an oath?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no one can dispense from an oath. Just as truth is required for
 a declaratory oath, which is about the past or the present, so too is it required for a promissory oath,
@@ -17664,7 +17675,7 @@ about the keeping of oaths.
 
 Reply to Objection 2: One man may promise something under oath to another in two ways.
 First, when he promises something for his benefit: for instance, if he promise to serve him, or to
-give him money: and from such a promise he can be released by the person to whom he made it:
+give him [money](/concepts/money): and from such a promise he can be released by the person to whom he made it:
 for he is understood to have already kept his promise to him when he acts towards him according
 to his will. Secondly, one man promises another something pertaining to God's honor or to the
 benefit of others: for instance, if a man promise another under oath that he will enter religion, or
@@ -17708,7 +17719,7 @@ In secondo luogo, un uomo può promettere qualcosa che riguarda l’onore di Dio
 
 Risposta all’Obiezione 3: A volte ciò su cui si giura è chiaramente contrario alla giustizia, sia perché rappresenta un peccato – come quando una persona giura di commettere un omicidio – sia perché costituisce un ostacolo a un bene maggiore, come quando qualcuno giura di non aderire a una determinata religione; in tali casi non è prevista alcuna dispensa da tale giuramento. Nel primo caso, tuttavia, è obbligatorio non mantenere tale promessa; nel secondo caso, invece, è legittimo mantenerla o meno, come già detto sopra (A[7], ad 2). A volte ciò che viene promesso sotto giuramento è discutibile riguardo al suo valore morale o alle sue conseguenze pratiche; in tali casi qualsiasi vescovo può concedere la dispensa. Altre volte, invece, ciò che viene promesso è chiaramente legittimo e vantaggioso; in questi casi non sembra esserci spazio per alcuna dispensa, ma soltanto per una commutazione del giuramento, quando si presenti qualcosa di meglio da fare a beneficio del bene comune. In tal caso, la decisione spetta principalmente al Papa, che ha la responsabilità su tutta la Chiesa; in alcuni casi, persino una revoca assoluta del giuramento è possibile, poiché tale facoltà appartiene generalmente al Papa in tutte le questioni relative all’amministrazione delle cose ecclesiastiche. Pertanto, è competente a qualsiasi autorità annullare un giuramento fatto da uno dei suoi sottoposti in ambiti che rientrano nella sua giurisdizione: ad esempio, un padre può annullare il giuramento della figlia, così come un marito quello della moglie (Num. 30:6 e seguenti), come già detto riguardo ai voti religiosi (Q[88], AA[8],9).
 
-<span class="atom-split" data-atom="282" data-title="Whether an oath is voided by a condition of person or time?" data-chapter="Whether an oath is voided by a condition of person or time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="282" data-title="Whether an oath is voided by a condition of person or time?" data-chapter="Whether an oath is voided by a condition of person or time?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an oath is not voided by a condition of person or time. An
 oath, according to the Apostle (Heb. 6:16), is employed for the purpose of confirmation. Now it is
@@ -17798,7 +17809,7 @@ Risposta all’Obiezione 3: Niente impedisce che la stessa cosa possa derivare d
 
 Risposta all’Obiezione 4: Il giuramento dell’angelo viene addotto non a causa di alcun difetto in lui stesso, come se la sua parola dovesse essere ritenuta inaffidabile, ma al fine di dimostrare che tale dichiarazione deriva dalla disposizione infallibile di Dio. Anche nella [Scrittura](/concepts/revelation) si parla talvolta di Dio come di colui che giura, per esprimere l’immutabilità della Sua parola, come afferma l’Apostolo (Ebrei 6:17).
 
-<span class="atom-split" data-atom="283" data-title="OF THE TAKING OF GOD'S NAME BY WAY OF ADJURATION (THREE ARTICLES)" data-chapter="OF THE TAKING OF GOD'S NAME BY WAY OF ADJURATION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="283" data-title="OF THE TAKING OF GOD'S NAME BY WAY OF ADJURATION (THREE ARTICLES)" data-chapter="OF THE TAKING OF GOD'S NAME BY WAY OF ADJURATION (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the taking of God's name by way of adjuration: under which head there
 are three points of inquiry:
@@ -17813,7 +17824,7 @@ Dobbiamo ora considerare l’uso del nome di Dio a scopo di giuramento: in quest
 (2) È legale invocare i demoni nel corso di un giuramento?
 (3) È legale invocare creature irrazionali nel corso di un giuramento?
 
-<span class="atom-split" data-atom="284" data-title="Whether it is lawful to adjure a man?" data-chapter="Whether it is lawful to adjure a man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="284" data-title="Whether it is lawful to adjure a man?" data-chapter="Whether it is lawful to adjure a man?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not lawful to adjure a man. Origen says (Tract. xxxv super
 Matth.): "I deem that a man who wishes to live according to the Gospel should not adjure another
@@ -17881,7 +17892,7 @@ Risposta all’Obiezione 2: Questo argomento prende in considerazione l’atto d
 
 Risposta all’Obiezione 3: Invocare Dio non significa indurre qualcuno a giurare, ma utilizzare termini simili a quelli di un giuramento al fine di spingere qualcun altro a compiere una determinata azione. Inoltre, invochiamo Dio in un modo e l’uomo in un altro: quando invochiamo un uomo, intendiamo modificare la sua volontà facendo appello al suo rispetto per qualcosa di sacro; ma non possiamo avere tale intenzione riguardo a Dio, la cui volontà è immutabile. Se otteniamo qualcosa da Dio attraverso la Sua volontà eterna, ciò è dovuto non ai nostri meriti, ma alla Sua bontà.
 
-<span class="atom-split" data-atom="285" data-title="Whether it is lawful to adjure the demons?" data-chapter="Whether it is lawful to adjure the demons?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="285" data-title="Whether it is lawful to adjure the demons?" data-chapter="Whether it is lawful to adjure the demons?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unlawful to adjure the demons. Origen says (Tract. xxxv, super
 Matth.): "To adjure the demons is not accordance with the power given by our Saviour: for this is
@@ -17951,7 +17962,7 @@ Risposta all’Obiezione 2: I negromanti evocano i demoni al fine di ottenere o 
 
 Risposta all’Obiezione 3: Questo argomento considera l’invocazione attraverso la quale si chiede l’aiuto dei demoni per compiere o imparare qualcosa; tale invocazione ha infatti un carattere di condivisione con loro. D’altra parte, respingere i demoni invocandoli significa tagliarsi fuori da tale condivisione.
 
-<span class="atom-split" data-atom="286" data-title="Whether it is lawful to adjure an irrational creature?" data-chapter="Whether it is lawful to adjure an irrational creature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="286" data-title="Whether it is lawful to adjure an irrational creature?" data-chapter="Whether it is lawful to adjure an irrational creature?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unlawful to adjure an irrational creature. An adjuration consists of
 spoken words. But it is useless to speak to one that understands not, such as an irrational creature.
@@ -18002,7 +18013,7 @@ Rispondo che le creature irrazionali sono guidate nelle loro azioni da un altro 
 Di conseguenza, l’esorcismo di una creatura irrazionale può essere di due tipi: in primo luogo, quando si rivolge direttamente alla creatura stessa; in questo caso, però, è vano tentare di esorcizzarla. In secondo luogo, quando si rivolge al guida e al motore della creatura irrazionale; in questo senso, un tale esorcismo può essere effettuato in due modi: il primo attraverso l’appello a Dio, come fanno coloro che compiono miracoli invocando Lui; il secondo attraverso la coercizione, utilizzata contro il diavolo, che impiega le creature irrazionali per nuocere agli uomini. Questo è il tipo di esorcismo utilizzato nella Chiesa, al fine di scacciare il potere dei demoni dalle creature irrazionali. Tuttavia, non è legittimo invocare i demoni pregandoli di aiutarci.  
 Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="287" data-title="OF TAKING THE DIVINE NAME FOR THE PURPOSE OF INVOKING IT BY MEANS OF PRAISE (TWO ARTICLES)" data-chapter="OF TAKING THE DIVINE NAME FOR THE PURPOSE OF INVOKING IT BY MEANS OF PRAISE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="287" data-title="OF TAKING THE DIVINE NAME FOR THE PURPOSE OF INVOKING IT BY MEANS OF PRAISE (TWO ARTICLES)" data-chapter="OF TAKING THE DIVINE NAME FOR THE PURPOSE OF INVOKING IT BY MEANS OF PRAISE (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the taking of the Divine name for the purpose of invoking it by prayer
 or praise. Of prayer we have already spoken (Q[83] ). Wherefore we must speak now of praise.
@@ -18016,7 +18027,7 @@ Dobbiamo ora considerare l’uso del nome Divino al fine di invocarlo attraverso
 (1) Se Dio debba essere lodato con le labbra;  
 (2) Se Dio debba essere lodato attraverso il canto.
 
-<span class="atom-split" data-atom="288" data-title="Whether God should be praised with the lips?" data-chapter="Whether God should be praised with the lips?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="288" data-title="Whether God should be praised with the lips?" data-chapter="Whether God should be praised with the lips?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that God should not be praised with the lips. The Philosopher says
 (Ethic. 1,12): "The best of men ere accorded not praise, but something greater." But God transcends
@@ -18090,7 +18101,7 @@ Risposta all’Obiezione 2: Non è di alcun beneficio lodare con le labbra se no
 
 Risposta all’Obiezione 3: Lodiamo Dio non per il suo bene, ma per il nostro, come già detto.
 
-<span class="atom-split" data-atom="289" data-title="Whether God should be praised with song?" data-chapter="Whether God should be praised with song?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="289" data-title="Whether God should be praised with song?" data-chapter="Whether God should be praised with song?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that God should not be praised with song. For the Apostle says
 (Col. 3:16): "Teaching and admonishing one another in psalms, hymns and spiritual canticles."
@@ -18195,7 +18206,7 @@ Risposta all’Obiezione 4: Come afferma il Filosofo (Politica viii, 6), “L’
 
 Risposta all’Obiezione 5: L’anima viene distolta da ciò che viene cantato attraverso un canto utilizzato allo scopo di procurare piacere. Tuttavia, se il cantante canta per devozione, presta molta più attenzione a ciò che dice, sia perché vi sofferma più a lungo, sia perché, come osserva Agostino (Confessioni, X, 33), “ogni affetto del nostro spirito, in base alla sua natura, ha una propria misura appropriata nella voce; il canto, attraverso una sorta di corrispondenza nascosta, stimola tali affetti”. Lo stesso vale per gli ascoltatori: anche se alcuni di loro non comprendono ciò che viene cantato, comprendono comunque lo scopo della sua esecuzione, ovvero la gloria di Dio; e questo è sufficiente a suscitare in loro devozione.
 
-<span class="atom-split" data-atom="290" data-title="OF SUPERSTITION (TWO ARTICLES)" data-chapter="OF SUPERSTITION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="290" data-title="OF SUPERSTITION (TWO ARTICLES)" data-chapter="OF SUPERSTITION (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/religion,concepts/virtue,schools/scholasticism"></span>
 
 In due sequence we must consider the vices that are opposed to religion. First we shall consider
 those which agree with religion in giving [worship](/concepts/religion) to God; secondly, we shall treat of those vices
@@ -18214,7 +18225,7 @@ All’interno della prima categoria esistono due questioni principali da esamina
 (1) Se la superstizione sia davvero un vizio contrario alla religione;  
 (2) Se essa possieda diverse componenti o specie.
 
-<span class="atom-split" data-atom="291" data-title="Whether superstition is a vice contrary to religion?" data-chapter="Whether superstition is a vice contrary to religion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="291" data-title="Whether superstition is a vice contrary to religion?" data-chapter="Whether superstition is a vice contrary to religion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that superstition is not a vice contrary to religion. One contrary is
 not included in the definition of the other. But religion is included in the definition of superstition:
@@ -18265,7 +18276,7 @@ Reply to Objection 3: Religion does not admit of excess, in respect of absolute 
 it does admit of excess in respect of proportionate quantity, in so far, to wit, as something may be
 done in divine worship that ought not to be done.
 
-<span class="atom-split" data-atom="292" data-title="Whether there are various species of superstition?" data-chapter="Whether there are various species of superstition?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="292" data-title="Whether there are various species of superstition?" data-chapter="Whether there are various species of superstition?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there are not various species of superstition. According to the
 Philosopher (Topic. i, 13), "if one contrary includes many kinds, so does the other." Now religion,
@@ -18330,7 +18341,7 @@ Under the first head there are two points of inquiry:
 (1) Whether there can be anything pernicious in the worship of the true God?
 (2) Whether there can be anything superfluous therein?
 
-<span class="atom-split" data-atom="293" data-title="Whether there can be anything pernicious in the worship of the true God?" data-chapter="Whether there can be anything pernicious in the worship of the true God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="293" data-title="Whether there can be anything pernicious in the worship of the true God?" data-chapter="Whether there can be anything pernicious in the worship of the true God?" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/divine_law,concepts/custom,figures/augustine"></span>
 
 Objection 1: It would seem that there cannot be anything pernicious in the [worship](/concepts/religion) of the true
 God. It is written (Joel 2:32): "Everyone that shall call upon the name of the Lord shall be saved."
@@ -18404,7 +18415,7 @@ Risposta all’Obiezione 2: Prima dell’epoca della Legge, i giusti erano guida
 
 Risposta all’Obiezione 3: Le varie usanze della Chiesa nella preghiera divina non sono in alcun modo contrarie alla verità; pertanto dobbiamo osservarle, poiché trascurarle sarebbe illegale.
 
-<span class="atom-split" data-atom="294" data-title="Whether there can be any excess in the worship of God?" data-chapter="Whether there can be any excess in the worship of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="294" data-title="Whether there can be any excess in the worship of God?" data-chapter="Whether there can be any excess in the worship of God?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/religion,concepts/theological_virtues,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that there cannot be excess in the [worship](/concepts/religion) of God. It is written
 (Ecclus. 43:32): "Glorify the Lord as much as ever you can, for He will yet far exceed." Now the
@@ -18467,7 +18478,7 @@ Risposta all’Obiezione 2: La fede, la speranza e la carità sottomettono l’a
 
 Risposta all’Obiezione 3: Questo argomento considera l’eccesso in termini di quantità assoluta.
 
-<span class="atom-split" data-atom="295" data-title="OF IDOLATRY (FOUR ARTICLES)" data-chapter="OF IDOLATRY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="295" data-title="OF IDOLATRY (FOUR ARTICLES)" data-chapter="OF IDOLATRY (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider idolatry: under which head there are four points of inquiry:
 (1) Whether idolatry is a species of superstition?
@@ -18483,7 +18494,7 @@ Dobbiamo ora considerare l’idolatria: in questa categoria esistono quattro pun
 (3) Se sia il peccato più grave;
 (4) La causa di questo peccato.
 
-<span class="atom-split" data-atom="296" data-title="Whether idolatry is rightly reckoned a species of superstition?" data-chapter="Whether idolatry is rightly reckoned a species of superstition?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="296" data-title="Whether idolatry is rightly reckoned a species of superstition?" data-chapter="Whether idolatry is rightly reckoned a species of superstition?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that idolatry is not rightly reckoned a species of superstition. Just
 as heretics are unbelievers, so are idolaters. But heresy is a species of unbelief, as stated above
@@ -18604,7 +18615,7 @@ Risposta all’Obiezione 3: L’affermazione dell’Apostolo secondo cui “un i
 
 Risposta all’Obiezione 4: Fu proprio a causa della comune [abitudine](/concepts/custom) tra i Gentili di adorare qualsiasi tipo di creatura sotto forma di immagini che il termine “idolatria” venne utilizzato per indicare qualsiasi forma di venerazione verso una creatura, anche senza l’uso di immagini.
 
-<span class="atom-split" data-atom="297" data-title="Whether idolatry is a sin?" data-chapter="Whether idolatry is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="297" data-title="Whether idolatry is a sin?" data-chapter="Whether idolatry is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that idolatry is not a sin. Nothing is a sin that the true faith employs
 in worshipping God. Now the true faith employs images for the divine [worship](/concepts/religion): since both in the
@@ -18662,7 +18673,7 @@ confirmed in the mind of man. It is different with the image of Christ, to which
 account of His Divinity, as we shall state in the TP, Q[25], A[3].
 The Replies to the Second and Third Objections are evident from what has been said above.
 
-<span class="atom-split" data-atom="298" data-title="Whether idolatry is the gravest of sins?" data-chapter="Whether idolatry is the gravest of sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="298" data-title="Whether idolatry is the gravest of sins?" data-chapter="Whether idolatry is the gravest of sins?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/sovereignty,concepts/religion,figures/augustine"></span>
 
 Objection 1: It would seem that idolatry is not the gravest of sins. The worst is opposed to the
 best (Ethic. viii, 10). But interior [worship](/concepts/religion), which consists of faith, hope and charity, is better than
@@ -18755,7 +18766,7 @@ Risposta all’Obiezione 4: Anche dal punto di vista del genere stesso del pecca
 
 Risposta all’Obiezione 5: Il rispetto della Legge durante il periodo di grazia non è esattamente equivalente all’idolatria in termini di genere di peccato, ma lo è quasi; entrambi, infatti, rientrano nella categoria delle superstizioni perniciose.
 
-<span class="atom-split" data-atom="299" data-title="Whether the cause of idolatry was on the part of man?" data-chapter="Whether the cause of idolatry was on the part of man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="299" data-title="Whether the cause of idolatry was on the part of man?" data-chapter="Whether the cause of idolatry was on the part of man?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the cause of idolatry was not on the part of man. In man there
 is nothing but either nature, virtue, or guilt. But the cause of idolatry could not be on the part of
@@ -18838,7 +18849,7 @@ Risposta all’Obiezione 2: Nella prima età non esisteva alcun idolatrio, poich
 
 Risposta all’Obiezione 3: Questo argomento considera la causa fondamentale dell’idolatria.
 
-<span class="atom-split" data-atom="300" data-title="OF SUPERSTITION IN DIVINATIONS (EIGHT ARTICLES)" data-chapter="OF SUPERSTITION IN DIVINATIONS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="300" data-title="OF SUPERSTITION IN DIVINATIONS (EIGHT ARTICLES)" data-chapter="OF SUPERSTITION IN DIVINATIONS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider superstition in divinations, under which head there are eight points of
 inquiry:
@@ -18863,7 +18874,7 @@ Dobbiamo ora considerare la superstizione nel contesto delle divinazioni; in que
 (7) La divinazione tramite presagi e simili pratiche;  
 (8) La divinazione mediante il sorteggio.
 
-<span class="atom-split" data-atom="301" data-title="Whether divination is a sin?" data-chapter="Whether divination is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="301" data-title="Whether divination is a sin?" data-chapter="Whether divination is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that divination is not a sin. Divination is derived from something
 "divine": and things that are divine pertain to holiness rather than to sin. Therefore it seems that
@@ -18943,7 +18954,7 @@ Risposta all’Obiezione 2: Esistono alcune arti capaci di prevedere eventi futu
 
 Risposta all’Obiezione 3: L’uomo possiede una naturale inclinazione a conoscere il futuro attraverso mezzi umani, ma non tramite metodi indebiti come la divinazione.
 
-<span class="atom-split" data-atom="302" data-title="Whether divination is a species of superstition?" data-chapter="Whether divination is a species of superstition?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="302" data-title="Whether divination is a species of superstition?" data-chapter="Whether divination is a species of superstition?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that divination is not a species of superstition. The same thing
 cannot be a species of diverse genera. Now divination is apparently a species of curiosity, according
@@ -19013,7 +19024,7 @@ Risposta all’Obiezione 2: Questo tipo di divinazione rientra nell’ambito del
 
 Risposta all’Obiezione 3: Nel [Nuovo Testamento](/concepts/divine_law) la mente umana viene frenata dal preoccuparsi delle cose temporali; per questo il Nuovo Testamento non contiene alcuna istituzione volta alla previsione di eventi futuri in ambito temporale. D’altra parte, nell’Antico Testamento, che conteneva promesse terrene, si facevano consultazioni sul futuro in relazione a questioni religiose. Ecco perché si legge (Isaia 8:19): “E quando vi diranno: ‘Andate dai pitoni e dagli indovini che mormorano le loro formule magiche’, rispondete: ‘Non dovrebbero forse il popolo cercare il loro Dio, per ottenere una visione per i vivi e per i morti?’” Nel Nuovo Testamento, tuttavia, vi furono alcuni individui posseduti dello spirito della profezia che predissero molte cose riguardanti eventi futuri.
 
-<span class="atom-split" data-atom="303" data-title="Whether we ought to distinguish several species of divination?" data-chapter="Whether we ought to distinguish several species of divination?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="303" data-title="Whether we ought to distinguish several species of divination?" data-chapter="Whether we ought to distinguish several species of divination?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we should not distinguish several species of divination. Where
 the formality of sin is the same, there are not seemingly several species of sin. Now there is one
@@ -19116,7 +19127,7 @@ Risposta all’Obiezione 2: La conoscenza del futuro o di ciò che è occulto ra
 
 Risposta all’Obiezione 3: Le cose osservate dai divinatori vengono considerate da loro non come segni che esprimano ciò che già sanno, come avviene nel caso delle deduzioni logiche, ma come principi di conoscenza. Ora è evidente che la diversità dei principi porta alla diversificazione delle categorie concettuali, anche nelle scienze dimostrative.
 
-<span class="atom-split" data-atom="304" data-title="Whether divination practiced by invoking the demons is unlawful?" data-chapter="Whether divination practiced by invoking the demons is unlawful?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="304" data-title="Whether divination practiced by invoking the demons is unlawful?" data-chapter="Whether divination practiced by invoking the demons is unlawful?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that divination practiced by invoking the demons is not unlawful.
 Christ did nothing unlawful, according to 1 Pet. 2:22, "Who did no sin." Yet our Lord asked the
@@ -19185,7 +19196,7 @@ Risposta all’Obiezione 2: Secondo [Agostino](/figures/augustine) (Ad Simplic. 
 
 Risposta all’Obiezione 3: Nessuna utilità temporale può essere paragonata al danno arrecato alla salute spirituale derivante dalla ricerca dell’ignoto attraverso l’invocazione dei demoni.
 
-<span class="atom-split" data-atom="305" data-title="Whether divination by the stars is unlawful?" data-chapter="Whether divination by the stars is unlawful?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="305" data-title="Whether divination by the stars is unlawful?" data-chapter="Whether divination by the stars is unlawful?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that divination by the stars is not unlawful. It is lawful to foretell
 effects by observing their causes: thus a physician foretells death from the disposition of the disease.
@@ -19290,7 +19301,7 @@ La causalità dei corpi celesti. Poiché l’intelletto o la ragione non sono co
 Risposta all’Obiezione 2: Il fatto che gli astrologi predichino spesso la verità osservando le stelle può essere spiegato in due modi. Primo, perché moltissime persone seguono le proprie passioni corporee, tanto che le loro azioni sono per lo più determinate dall’influenza dei corpi celesti; pochi soltanto, cioè i saggi, riescono a moderare queste inclinazioni attraverso la ragione. Di conseguenza, gli astrologhi predicono spesso la verità, soprattutto in eventi pubblici che dipendono dalla volontà della folla. Secondo, a causa dell’intervento dei demoni. Come afferma Agostino (Genesi ad litteram ii, 17): “Quando gli astrologhi dicono la verità, bisogna ammettere che ciò avviene grazie a un istinto nascosto nella mente umana, di cui l’uomo stesso non è consapevole. E poiché questo avviene attraverso l’azione di spiriti impuri e bugiardi che desiderano ingannare gli uomini, poiché a loro è permesso conoscere alcune cose riguardanti le faccende temporali, ”. Pertanto Agostino conclude: “Un buon cristiano dovrebbe quindi stare in guardia dagli astrologi e da tutti gli indovini empio, soprattutto da quelli che dicono la verità, affinché la sua anima non diventi vittima dei demoni e, stringendo un patto con loro, non si coinvolga nelle loro pratiche malvagie”.  
 Questo basta per rispondere alla Terza Obiezione.
 
-<span class="atom-split" data-atom="306" data-title="Whether divination by dreams is unlawful?" data-chapter="Whether divination by dreams is unlawful?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="306" data-title="Whether divination by dreams is unlawful?" data-chapter="Whether divination by dreams is unlawful?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that divination by dreams is not unlawful. It is not unlawful to
 make use of divine instruction. Now men are instructed by God in dreams, for it is written (Job
@@ -19358,7 +19369,7 @@ Al contrario, è scritto (Deuteronomio 18:10): “Non si trovi tra di voi nessun
 Rispondo che, come già detto in precedenza (AA[2],6), la divinazione è superstiziosa e illecita quando si basa su un’opinione falsa. Pertanto dobbiamo esaminare ciò che è vero riguardo alla possibilità di prevedere il futuro attraverso i sogni. I sogni, infatti, a volte sono la causa di eventi futuri: ad esempio, quando una persona, angosciata da quanto visto in sogno, decide di compiere o evitare qualcosa; altre volte, i sogni rappresentano segni di eventi futuri, poiché sono legati a cause comuni sia ai sogni stessi che agli avvenimenti successivi. È quindi necessario analizzare quale sia la causa dei sogni e se essa possa influenzare gli eventi futuri o permetterne la previsione. Si osserva che la causa dei sogni può essere interna o esterna: quella interna riguarda l’anima, quando i pensieri e le emozioni vissuti durante la veglia ritornano nell’immaginazione durante il sonno; tale causa, tuttavia, non è legata agli eventi futuri, quindi i sogni di questo tipo sono soltanto casualmente correlati a tali eventi. Altre volte, la causa interna dei sogni riguarda il corpo: le sue condizioni interne possono influenzare l’immaginazione, inducendo sogni legati a quelle situazioni. La causa esterna può essere fisica (ad esempio, l’ambiente circostante o l’influenza di corpi celesti) o spirituale (la rivelazione divina attraverso gli angeli). In ogni caso, non vi è alcuna divinazione illecita nell’utilizzare i sogni per prevedere il futuro, purché tali sogni derivino da rivelazioni divine o da cause naturali. Tuttavia, se la causa dei sogni fosse legata agli demoni, ciò costituirebbe una divinazione illegale e superstiziosa.
 La divinazione che si estende oltre i suoi limiti possibili. Questo basta per le Risposte alle Obiezioni.
 
-<span class="atom-split" data-atom="307" data-title="Whether divination by auguries, omens, and by like observations of external things is unlawful?" data-chapter="Whether divination by auguries, omens, and by like observations of external things is unlawful?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="307" data-title="Whether divination by auguries, omens, and by like observations of external things is unlawful?" data-chapter="Whether divination by auguries, omens, and by like observations of external things is unlawful?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that divination by auguries, omens, and by like observations of
 external things is not unlawful. If it were unlawful holy men would not make use thereof. Now we
@@ -19439,7 +19450,7 @@ Risposta all’Obiezione 2: Il passaggio citato si riferisce alla conoscenza che
 
 Risposta all’Obiezione 3: Gedeone ascoltò la narrazione e l’interpretazione di un sogno, riconoscendovi un presagio, inviato dalla provvidenza divina per il suo insegnamento. Allo stesso modo, Eliazer ascoltò le parole della ragazza dopo aver pregato Dio in precedenza.
 
-<span class="atom-split" data-atom="308" data-title="Whether divination by drawing lots is unlawful?" data-chapter="Whether divination by drawing lots is unlawful?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="308" data-title="Whether divination by drawing lots is unlawful?" data-chapter="Whether divination by drawing lots is unlawful?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that divination by drawing lots is not unlawful, because a gloss of
 [Augustine](/figures/augustine) on Ps. 30:16, "My lots are in Thy hands," says: "It is not wrong to cast lots, for it is a
@@ -19533,7 +19544,7 @@ to the law concerning duels, save that it approaches nearer to the common kind o
 no miraculous effect is expected thereupon, unless the combatants be very unequal in strength or
 skill.
 
-<span class="atom-split" data-atom="309" data-title="OF SUPERSTITION IN OBSERVANCES (FOUR ARTICLES)" data-chapter="OF SUPERSTITION IN OBSERVANCES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="309" data-title="OF SUPERSTITION IN OBSERVANCES (FOUR ARTICLES)" data-chapter="OF SUPERSTITION IN OBSERVANCES (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider superstition in observances, under which head there are four points of
 inquiry:
@@ -19550,7 +19561,7 @@ Dobbiamo ora considerare le superstizioni legate alle pratiche rituali; in quest
 (3) Le pratiche impiegate nella divinazione;  
 (4) L’uso di parole sacre indossate al collo.
 
-<span class="atom-split" data-atom="310" data-title="Whether it be unlawful to practice the observances of the magic art?" data-chapter="Whether it be unlawful to practice the observances of the magic art?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="310" data-title="Whether it be unlawful to practice the observances of the magic art?" data-chapter="Whether it be unlawful to practice the observances of the magic art?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not unlawful to practice the observances of the magic art.
 A thing is said to be unlawful in two ways. First, by reason of the genus of the deed, as murder and
@@ -19637,7 +19648,7 @@ Risposta all’Obiezione 2: L’astinenza di questi bambini non derivava da una 
 
 Risposta all’Obiezione 3: Cercare di conoscere il futuro attraverso i demoni è un peccato, non solo perché essi ignorano il futuro, ma anche a causa della comunione che si instaura con loro, e ciò vale anche nel caso in questione.
 
-<span class="atom-split" data-atom="311" data-title="Whether observances directed to the alteration of bodies, as for the purpose of acquiring health or the like, are unlawful?" data-chapter="Whether observances directed to the alteration of bodies, as for the purpose of acquiring health or the like, are unlawful?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="311" data-title="Whether observances directed to the alteration of bodies, as for the purpose of acquiring health or the like, are unlawful?" data-chapter="Whether observances directed to the alteration of bodies, as for the purpose of acquiring health or the like, are unlawful?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that observances directed to the alteration of bodies, as for the
 purpose of acquiring health, or the like, are lawful. It is lawful to make use of the natural forces of
@@ -19704,7 +19715,7 @@ entrusted with power over the demons, to employ them to whatsoever purpose he wi
 contrary, it is appointed that he should wage war against the demons. Hence in no way is it lawful
 for man to make use of the demons' help by compacts either tacit or express.
 
-<span class="atom-split" data-atom="312" data-title="Whether observances directed to the purpose of fortune-telling are unlawful?" data-chapter="Whether observances directed to the purpose of fortune-telling are unlawful?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="312" data-title="Whether observances directed to the purpose of fortune-telling are unlawful?" data-chapter="Whether observances directed to the purpose of fortune-telling are unlawful?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that observances directed to the purpose of fortune-telling are not
 unlawful. Sickness is one of the misfortunes that occur to man. Now sickness in man is preceded
@@ -19759,7 +19770,7 @@ it is lawful to apply those deeds to our instruction, as signs given by God. Not
 that occur through divine providence are ordered so as to be signs of the future. Hence the argument
 does not prove.
 
-<span class="atom-split" data-atom="313" data-title="Whether it is unlawful to wear divine words at the neck?" data-chapter="Whether it is unlawful to wear divine words at the neck?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="313" data-title="Whether it is unlawful to wear divine words at the neck?" data-chapter="Whether it is unlawful to wear divine words at the neck?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not unlawful to wear divine words at the neck. Divine
 words are no less efficacious when written than when uttered. But it is lawful to utter sacred words
@@ -19849,7 +19860,7 @@ Risposta all’Obiezione 3: Lo stesso vale per il porto delle reliquie; se vengo
 
 Risposta all’Obiezione 4: Crisostomo sta descrivendo il caso in cui si presta maggiore attenzione ai caratteri scritti che alla comprensione delle parole stesse.
 
-<span class="atom-split" data-atom="314" data-title="OF THE TEMPTATION OF GOD (FOUR ARTICLES)" data-chapter="OF THE TEMPTATION OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="314" data-title="OF THE TEMPTATION OF GOD (FOUR ARTICLES)" data-chapter="OF THE TEMPTATION OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the vices that are opposed to religion, through lack of religion, and
 which are manifestly contrary thereto, so that they come under the head of irreligion. Such are the
@@ -19867,7 +19878,7 @@ points of inquiry:
 
 Dobbiamo ora considerare i vizi che sono in opposizione alla religione, o che derivano dalla mancanza di essa e che sono chiaramente contrari ad essa, affinché possano essere classificati come irreligiosità. Tali sono i vizi legati al disprezzo o all’irreverenza verso Dio e le cose sacre. Pertanto esamineremo: (1) I vizi che riguardano direttamente l’irreverenza verso Dio; (2) I vizi che riguardano l’irreverenza verso le cose sacre. Per quanto riguarda il primo punto, considereremo la tentazione a cui è sottoposto Dio, nonché il perjurio, atto con cui il nome di Dio viene pronunciato in modo irriverente. All’interno di questa categoria esistono quattro argomenti da analizzare: (1) In cosa consiste la tentazione a cui è sottoposto Dio; (2) Se si tratta di un peccato; (3) A quale virtù è opposta tale tentazione; (4) Il suo confronto con altri vizi.
 
-<span class="atom-split" data-atom="315" data-title="Whether the temptation of God consists in certain deeds, wherein the expected result is ascribed to the power of God alone?" data-chapter="Whether the temptation of God consists in certain deeds, wherein the expected result is ascribed to the power of God alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="315" data-title="Whether the temptation of God consists in certain deeds, wherein the expected result is ascribed to the power of God alone?" data-chapter="Whether the temptation of God consists in certain deeds, wherein the expected result is ascribed to the power of God alone?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the temptation of God does not consist in certain deeds wherein
 the result is expected from the power of God alone. Just as God is tempted by man so is man tempted
@@ -19955,7 +19966,7 @@ Risposta all’Obiezione 2: Quando i santi compiono miracoli attraverso le loro 
 
 Risposta all’Obiezione 3: I predicatori del regno di Dio rinunciano ad ogni aiuto temporale, al fine di poter dedicare tutto il loro tempo alla parola di Dio; pertanto, se dipendono esclusivamente da Dio, ciò non significa affatto che lo stiano tentando. Tuttavia, se trascurassero qualsiasi forma di assistenza umana senza alcun motivo valido o urgente, allora starebbero effettivamente tentando Dio. Per questo motivo Agostino afferma (Contra Faustus, xxii, 36): “Paolo fuggì non perché avesse smesso di credere in Dio, ma per evitare di tentarlo, nel caso non avesse trovato i mezzi per fuggire”. La beata Agata conobbe personalmente la bontà di Dio: o non soffrì mai malattie che richiedessero cure mediche, oppure si sentì improvvisamente guarita da Dio stesso.
 
-<span class="atom-split" data-atom="316" data-title="Whether it is a sin to tempt God?" data-chapter="Whether it is a sin to tempt God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="316" data-title="Whether it is a sin to tempt God?" data-chapter="Whether it is a sin to tempt God?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not a sin to tempt God. For God has not commanded sin.
 Yet He has commanded men to try, which is the same as to tempt, Him: for it is written (Malach.
@@ -20040,7 +20051,7 @@ Risposta all’Obiezione 2: Esistono due tipi di conoscenza riguardo alla bontà
 Risposta all’Obiezione 3: Dio volle dare un segno ad Achaz, non solo per lui, ma affinché potesse servire da insegnamento a tutto il popolo. Pertanto, Achaz fu rimproverato perché, rifiutandosi di chiedere quel segno, divenne un ostacolo al bene comune. Inoltre, non avrebbe mai tentato Dio chiedendolo, sia perché l’avrebbe fatto su ordine divino, sia perché si trattava di una questione legata al bene collettivo. Abramo chiese un segno guidato dall’istinto divino e quindi non peccò. Gedeone, invece, sembra averlo chiesto a causa di una debolezza di fede; per questo motivo non può essere scusato dal suo peccato, come osserva un commentatore: proprio come Zacaria peccò dicendo all’angelo (Lc 1:18): “Con quale segno potrò riconoscerlo?”, e quindi fu punito per la sua incredulità.  
 Tuttavia, è necessario notare che esistono due modi di chiedere a Dio un segno: il primo consiste nel voler mettere alla prova il potere di Dio o la veridicità della Sua parola, e questo, per sua natura stessa, rientra nella categoria delle tentazioni rivolte a Dio. Il secondo modo, invece, è quello di chiedere un segno al fine di ricevere indicazioni su ciò che Dio desidera in una determinata situazione; e questo non rientra affatto tra le tentazioni rivolte a Dio.
 
-<span class="atom-split" data-atom="317" data-title="Whether temptation of God is opposed to the virtue of religion?" data-chapter="Whether temptation of God is opposed to the virtue of religion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="317" data-title="Whether temptation of God is opposed to the virtue of religion?" data-chapter="Whether temptation of God is opposed to the virtue of religion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the temptation of God is not opposed to the virtue of religion.
 The temptation of God is sinful, because a man doubts God, as stated above (A[2]). Now doubt
@@ -20105,7 +20116,7 @@ Risposta all’Obiezione 2: Chi non prepara la propria anima prima della preghie
 
 Risposta all’Obiezione 3: Si dice che un uomo preghi in modo ingannevole non in relazione a Dio, che conosce i segreti del cuore, ma in relazione agli altri uomini. Pertanto, l’inganno è soltanto un elemento accidentale nella tentazione operata da Dio; di conseguenza, non si può dedurre che tentare Dio sia direttamente contrario alla verità.
 
-<span class="atom-split" data-atom="318" data-title="Whether the temptation of God is a graver sin than superstition?" data-chapter="Whether the temptation of God is a graver sin than superstition?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="318" data-title="Whether the temptation of God is a graver sin than superstition?" data-chapter="Whether the temptation of God is a graver sin than superstition?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the temptation of God is a graver sin than superstition. The
 greater sin receives the greater punishment. Now the sin of tempting God was more severely
@@ -20171,7 +20182,7 @@ Risposta all’Obiezione 2: La superstizione presenta alcune somiglianze con la 
 
 Risposta all’Obiezione 3: Appartiene essenzialmente all’eccellenza divina il fatto che essa sia unica e incommungibile. Pertanto, rendere omaggio divino a qualcun altro equivale a compiere un atto contrario all’eccellenza divina. Non esiste alcuna analogia con l’onore dovuto ai nostri genitori, che può essere senza peccato reso anche ad altri.
 
-<span class="atom-split" data-atom="319" data-title="OF PERJURY (FOUR ARTICLES)" data-chapter="OF PERJURY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="319" data-title="OF PERJURY (FOUR ARTICLES)" data-chapter="OF PERJURY (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider perjury: under which head there are four points of inquiry:
 (1) Whether falsehood is necessary for perjury?
@@ -20187,7 +20198,7 @@ Dobbiamo ora considerare il reato di spergiuro: in questo ambito vi sono quattro
 (3) È sempre un peccato mortale?
 (4) È peccato imporre un giuramento a chi ha già commesso spergiuro?
 
-<span class="atom-split" data-atom="320" data-title="Whether it is necessary for perjury that the statement confirmed on oath be false?" data-chapter="Whether it is necessary for perjury that the statement confirmed on oath be false?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="320" data-title="Whether it is necessary for perjury that the statement confirmed on oath be false?" data-chapter="Whether it is necessary for perjury that the statement confirmed on oath be false?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not necessary for perjury that the statement confirmed on
 oath be false. As stated above (Q[89], A[3]), an oath should be accompanied by judgment and
@@ -20261,7 +20272,7 @@ Risposta all’Obiezione 2: Nei sillogismi le premesse hanno maggiore rilevanza,
 
 Risposta all’Obiezione 3: Gli atti morali derivano dalla volontà, la cui oggetto è il bene percepito. Pertanto, se ciò che è falso viene percepito come vero, esso sarà materialmente falso, ma formalmente vero in relazione alla volontà; se invece qualcosa di falso viene percepito come tale, sarà falso sia materialmente che formalmente. Se ciò che è vero viene percepito come falso, sarà materialmente vero e formalmente falso. Quindi, in ciascuno di questi casi, le condizioni necessarie per commettere spergiuro si riscontrano, in qualche modo, a causa di una certa dose di falsità. Tuttavia, poiché ciò che è formale in qualsiasi cosa ha maggiore importanza di ciò che è materiale, colui che giura su una menzogna credendola vera non è tanto un spergiurore quanto colui che giura sulla verità credendola falsa. Infatti Agostino afferma (De Verb. Apostol. Jacobi; Serm. clxxx): “Ciò che conta è il modo in cui l’affermazione deriva dalla mente, poiché la lingua non è colpevole se non lo è anche la mente”.
 
-<span class="atom-split" data-atom="321" data-title="Whether all perjury is sinful?" data-chapter="Whether all perjury is sinful?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="321" data-title="Whether all perjury is sinful?" data-chapter="Whether all perjury is sinful?" data-kind="atom" data-srclang="en" data-tags="concepts/religion,figures/augustine"></span>
 
 Objection 1: It would seem that not all perjury is sinful. Whoever does not fulfil what he has
 confirmed on oath is seemingly a perjurer. Yet sometimes a man swears he will do something
@@ -20313,7 +20324,7 @@ bound by his oath to keep any that may be made in the future, unless he intends 
 keep all, past and future. Nevertheless he is bound to keep them by virtue of the statutes themselves,
 since they are possessed of coercive force, as stated above (FS, Q[96], A[4]).
 
-<span class="atom-split" data-atom="322" data-title="Whether all perjury is a mortal sin?" data-chapter="Whether all perjury is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="322" data-title="Whether all perjury is a mortal sin?" data-chapter="Whether all perjury is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that not all perjury is a mortal sin. It is laid down (Extra, De Jurejur,
 cap. Verum): "Referring to the question whether an oath is binding on those who have taken one
@@ -20391,7 +20402,7 @@ Risposta all’Obiezione 2: Chi giura falsamente a scopo di scherzo è comunque 
 
 Risposta all’Obiezione 3: Non ogni peccato rende una persona infamata agli occhi della legge. Pertanto, se un uomo che ha pronunciato un giuramento falso non è considerato infamato dalla legge, ma solo quando tale condanna viene emessa da un tribunale, ciò non significa affatto che non abbia commesso un peccato grave. Il motivo per cui la legge attribuisce l’infamia a chi viola un giuramento solenne è che, dopo averlo pronunciato, tale persona ha ancora la possibilità di mantenerlo, il che non accade nel caso di un giuramento semplice e dichiarativo.
 
-<span class="atom-split" data-atom="323" data-title="Whether he sins who demands an oath of a perjurer?" data-chapter="Whether he sins who demands an oath of a perjurer?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="323" data-title="Whether he sins who demands an oath of a perjurer?" data-chapter="Whether he sins who demands an oath of a perjurer?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that he who demands an oath of a perjurer commits a sin. Either
 he knows that he swears truly, or he knows that he swears falsely. If he knows him to swear truly,
@@ -20475,7 +20486,7 @@ Risposta all’Obiezione 3: Come afferma Agostino (QQ. Super Lev., q. i), Mosè,
 
 Risposta all’Obiezione 4: È legittimo utilizzare il male a fin di bene, come fa Dio, ma non è legittimo indurre qualcuno a compiere il male. Pertanto, è legittimo accettare l’juramento di chi è disposto a giurare su falsi dèi, ma non è legittimo inducirlo a farlo. Tuttavia, sembra diverso nel caso di colui che giura falsamente sul vero Dio, poiché un simile giuramento manca della buona fede che una persona utilizza quando giura veramente su falsi dèi, come afferma Agostino (ad Public. Ep. xlvii). Pertanto, quando una persona giura falsamente sul vero Dio, il suo giuramento sembra privo di qualsiasi valore legittimo.
 
-<span class="atom-split" data-atom="324" data-title="OF SACRILEGE (FOUR ARTICLES)" data-chapter="OF SACRILEGE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="324" data-title="OF SACRILEGE (FOUR ARTICLES)" data-chapter="OF SACRILEGE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/religion,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the vices which pertain to irreligion, whereby sacred things are treated
 with irreverence. We shall consider (1) Sacrilege; (2) Simony.
@@ -20494,7 +20505,7 @@ Per quanto riguarda il primo punto, vi sono quattro aspetti da analizzare:
 (3) Quali sono i tipi di Sacrilegio?  
 (4) Qual è la punizione prevista per il Sacrilegio.
 
-<span class="atom-split" data-atom="325" data-title="Whether sacrilege is the violation of a sacred thing?" data-chapter="Whether sacrilege is the violation of a sacred thing?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="325" data-title="Whether sacrilege is the violation of a sacred thing?" data-chapter="Whether sacrilege is the violation of a sacred thing?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sacrilege is not the violation of a sacred thing. It is stated
 (XVII, qu. iv [*Append. Gratian, on can. Si quis suadente]): "They are guilty of sacrilege who
@@ -20557,7 +20568,7 @@ Risposta all’Obiezione 2: I cristiani vengono santificati dalla fede e dai sac
 
 Risposta all’Obiezione 3: Qui, “violazione” indica qualsiasi tipo di irriverenza o disonore. Poiché “l’onore appartiene a colui che onora e non a colui che viene onorato” (Etica, i, 5), allo stesso modo l’irriverenza appartiene a colui che si comporta in modo irrispettoso, anche se non arreca danno all’oggetto della sua irriverenza. Pertanto, per quanto riguarda quest’ultimo, l’oggetto sacro viene comunque violato, anche se in sé non subisce alcun danno.
 
-<span class="atom-split" data-atom="326" data-title="Whether sacrilege is a special sin?" data-chapter="Whether sacrilege is a special sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="326" data-title="Whether sacrilege is a special sin?" data-chapter="Whether sacrilege is a special sin?" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/virtue,concepts/divine_law,figures/augustine,schools/scholasticism"></span>
 
 Objection 1: It would seem that sacrilege not a special sin. It is stated (XVII, qu. iv) "They are
 guilty of sacrilege who through ignorance sin against the sanctity of the law, violate and defile it
@@ -20603,7 +20614,7 @@ Reply to Objection 3: Sacrilege is sometimes found apart from other sins, throug
 having no other deformity than the violation of a sacred thing: for instance, if a judge were to take
 a person from a sacred place for he might lawfully have taken him from elsewhere.
 
-<span class="atom-split" data-atom="327" data-title="Whether the species of sacrilege are distinguished according to the sacred things?" data-chapter="Whether the species of sacrilege are distinguished according to the sacred things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="327" data-title="Whether the species of sacrilege are distinguished according to the sacred things?" data-chapter="Whether the species of sacrilege are distinguished according to the sacred things?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the species of sacrilege are not distinguished according to the
 sacred things. Material diversity does not differentiate species, if the formal aspect remains the
@@ -20684,7 +20695,7 @@ Risposta all’Obiezione 2: Niente impedisce che due cose appartengano alla stes
 
 Risposta all’Obiezione 3: Ogni peccato commesso da una persona sacra è, in senso materiale e accidentale, un sacrilegio. Pertanto Gerolamo afferma (*la citazione è tratta da San Bernardo, De Consideratione, ii, 13*) che “una sciocchezza pronunciata dalle labbra di un sacerdote costituisce un sacrilegio o una bestemmia”. Tuttavia, in senso formale e proprio, un peccato commesso da una persona sacra è considerato sacrilegio soltanto quando viene compiuto contro la sua santità; ad esempio, se una vergine consacrata a Dio commettesse adulterio: lo stesso vale per altri casi simili.
 
-<span class="atom-split" data-atom="328" data-title="Whether the punishment of sacrilege should be pecuniary?" data-chapter="Whether the punishment of sacrilege should be pecuniary?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="328" data-title="Whether the punishment of sacrilege should be pecuniary?" data-chapter="Whether the punishment of sacrilege should be pecuniary?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the punishment of sacrilege should not be pecuniary. A
 pecuniary punishment is not wont to be inflicted for a criminal fault. But sacrilege is a criminal
@@ -20750,11 +20761,11 @@ Risposta all’Obiezione 2: Quando una sola punizione non è sufficiente a imped
 
 Risposta all’Obiezione 3: Se il denaro venisse richiesto senza una causa ragionevole, ciò sembrerebbe comportare l’insorgere di un sentimento di avidità. Tuttavia, quando viene richiesto al fine della correzione umana, ha un’utilità evidente e, pertanto, non genera alcun atteggiamento di avarizia.
 
-<span class="atom-split" data-atom="329" data-title="ON SIMONY (SIX ARTICLES)" data-chapter="ON SIMONY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="329" data-title="ON SIMONY (SIX ARTICLES)" data-chapter="ON SIMONY (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider simony, under which head there are six points of inquiry:
 (1) What is simony?
-(2) Whether it is lawful to accept money for the sacraments?
+(2) Whether it is lawful to accept [money](/concepts/money) for the sacraments?
 (3) Whether it is lawful to accept money for spiritual actions?
 (4) Whether it is lawful to sell things connected with spirituals?
 (5) Whether real remuneration alone makes a man guilty of simony, or also oral remuneration
@@ -20771,7 +20782,7 @@ Dobbiamo ora considerare la simonia; in questo ambito vi sono sei punti da esami
 (5) Solo una remunerazione effettiva rende una persona colpevole di simonia, o anche una remunerazione verbale o un compenso in forma di servizio?  
 (6) Qual è la punizione prevista per la simonia.
 
-<span class="atom-split" data-atom="330" data-title="Whether simony is an intentional will to buy or sell something spiritual or connected with a spiritual thing?" data-chapter="Whether simony is an intentional will to buy or sell something spiritual or connected with a spiritual thing?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="330" data-title="Whether simony is an intentional will to buy or sell something spiritual or connected with a spiritual thing?" data-chapter="Whether simony is an intentional will to buy or sell something spiritual or connected with a spiritual thing?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that simony is not "an express will to buy or sell something spiritual
 or connected with a spiritual thing." Simony is heresy, since it is written (I, qu. i [*Can. Eos qui
@@ -20920,7 +20931,7 @@ Risposta all’Obiezione 6: Proprio come l’anima esiste di per sé stessa, men
 
 Risposta all’Obiezione 7: Il Papa può essere colpevole del vizio della simonia, come qualsiasi altro uomo; anzi, più elevata è la posizione di una persona, più grave è il suo peccato. Poiché i beni della Chiesa gli appartengono in qualità di dispensatore supremo, essi non sono tuttavia suoi in quanto proprietario. Pertanto, se accettasse denaro proveniente dai ricavi di una chiesa in cambio di un servizio spirituale, commetterebbe comunque il vizio della simonia. Allo stesso modo, potrebbe commettere simonia anche accettando denaro da un laico che non appartiene ai beni della Chiesa.
 
-<span class="atom-split" data-atom="331" data-title="Whether it is always unlawful to give money for the sacraments?" data-chapter="Whether it is always unlawful to give money for the sacraments?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="331" data-title="Whether it is always unlawful to give money for the sacraments?" data-chapter="Whether it is always unlawful to give money for the sacraments?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not always unlawful to give money for the sacraments.
 Baptism is the door of the sacraments, as we shall state in the TP, Q[68], A[6]; TP, Q[73], A[3].
@@ -21040,7 +21051,7 @@ Risposta all’Obiezione 5: Sarebbe simonia comprare l’opposizione dei propri 
 
 Risposta all’Obiezione 6: Alcuni autori, come Innocenzo IV nel capitolo “Cum in Ecclesia, de Simonia”, affermano che sia legittimo pagare denaro per il matrimonio, poiché tale atto non conferisce alcuna grazia divina. Tuttavia ciò non è del tutto vero, come dimostreremo nella Terza Parte dell’opera “XP, Q[42], A[3]”. Pertanto dobbiamo ribadire che il matrimonio non è soltanto un sacramento della Chiesa, ma anche una funzione naturale. Di conseguenza, è legittimo pagare denaro per il matrimonio considerato come funzione naturale, ma è illegittimo se lo si considera come sacramento della Chiesa. Quindi, secondo la normativa del capitolo “Cum in Ecclesia, de Simonia”, è vietato richiedere alcunché in cambio della benedizione nuziale.
 
-<span class="atom-split" data-atom="332" data-title="Whether it is lawful to give and receive money for spiritual actions?" data-chapter="Whether it is lawful to give and receive money for spiritual actions?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="332" data-title="Whether it is lawful to give and receive money for spiritual actions?" data-chapter="Whether it is lawful to give and receive money for spiritual actions?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that it is lawful to give and receive money for spiritual actions. The use
 of prophecy is a spiritual action. But something used to be given of old for the use of prophecy, as
@@ -21155,9 +21166,9 @@ Risposta all’Obiezione 3: Una persona a cui viene affidato un potere spiritual
 
 Risposta all’Obiezione 4: È illegale esigere o ricevere qualcosa in cambio dell’ingresso in un monastero; tuttavia, nel caso di piccoli monasteri che non sono in grado di sostenere un gran numero di persone, è legittimo accettare qualcosa al fine di finanziare il sostentamento di coloro che stanno per essere ammessi, qualora i loro introiti siano insufficienti. Allo stesso modo, è lecito facilitare l’ammissione in un monastero di una persona che abbia dimostrato il proprio interesse per esso attraverso la generosità delle proprie offerte; viceversa, è legittimo incoraggiare tale interesse offrendo benefici materiali, al fine di indurre quella persona ad entrare nel monastero; sebbene sia illegale concordare l’offerta o la ricezione di qualcosa in cambio dell’ingresso in un monastero (I, q. ii, cap. Quam pio).
 
-<span class="atom-split" data-atom="333" data-title="Whether it is lawful to receive money for things annexed to spiritual things?" data-chapter="Whether it is lawful to receive money for things annexed to spiritual things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="333" data-title="Whether it is lawful to receive money for things annexed to spiritual things?" data-chapter="Whether it is lawful to receive money for things annexed to spiritual things?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
-Objection 1: It would seem lawful to receive money for things annexed to spiritual things.
+Objection 1: It would seem lawful to receive [money](/concepts/money) for things annexed to spiritual things.
 Seemingly all temporal things are annexed to spiritual things, since temporal things ought to be
 sought for the sake of spiritual things. If, therefore, it is unlawful to sell what is annexed to spiritual
 things, it will be unlawful to sell anything temporal, and this is clearly false.
@@ -21244,7 +21255,7 @@ Risposta all’Obiezione 2: Anche gli oggetti sacri sono collegati alle cose spi
 
 Risposta all’Obiezione 3: Non abbiamo alcun fondamento per supporre che la doppia grotta acquistata da Abramo a scopo funebre fosse già consacrata a tale uso; pertanto, era legittimo per Abramo comprarla al fine di utilizzarla come luogo di sepoltura e trasformarla in un sepolcro. Allo stesso modo, oggi sarebbe legittimo acquistare un terreno qualsiasi per costruirvi un cimitero o persino una chiesa. Tuttavia, poiché anche tra i gentili i luoghi di sepoltura sono considerati sacri, se Efron intendeva accettare il prezzo come pagamento per un sito funebre, ha peccato vendendolo; mentre Abramo non ha peccato acquistandolo, poiché intendeva semplicemente comprare un terreno comune. Ancora oggi, in caso di necessità, è legittimo vendere o acquistare terreni su cui in precedenza sorgeva una chiesa, come abbiamo già detto riguardo ai vasi sacri (Risposta all’Obiezione 2). Inoltre, Abramo può essere scusato per aver agito in questo modo, poiché così si è liberato di un torto subito. Infatti, anche se Efron gli offriva il sito funebre gratuitamente, Abramo riteneva che non potesse accettarlo senza subire danni personali. Il diritto del primogenito spettava a Giacobbe per scelta divina, come si legge in Malachia 1:2-3: “Ho amato Giacobbe, ma ho odiato Esaù”. Pertanto, Esaù ha peccato vendendo il proprio diritto di primogenito; tuttavia, Giacobbe non ha peccato acquistandolo, poiché si può considerare che si sia liberato di un torto subito. Il diritto di patronato non può essere oggetto di una vendita diretta, né può essere concesso “a titolo definitivo”, ma viene trasferito insieme alla proprietà venduta o concessa. Il diritto spirituale di ricevere i decimi non spetta ai laici, ma soltanto alle merci materiali che vengono assegnate in nome dei decimi, come già detto sopra (Domanda 87, Risposta 3). Per quanto riguarda l’assegnazione di benefici ecclesiastici, è legittimo che un vescovo, prima di presentare una persona a un beneficio, decida di trattenere parte dei proventi di tale beneficio per scopi pii. Tuttavia, se richiedesse che una parte dei proventi gli venisse versata direttamente dal beneficiario, ciò equivarrebbe a chiederne il pagamento in denaro, e ciò lo renderebbe colpevole di simonia.
 
-<span class="atom-split" data-atom="334" data-title="Whether it is lawful to grant spiritual things in return for an equivalent of service, or for an oral remuneration?" data-chapter="Whether it is lawful to grant spiritual things in return for an equivalent of service, or for an oral remuneration?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="334" data-title="Whether it is lawful to grant spiritual things in return for an equivalent of service, or for an oral remuneration?" data-chapter="Whether it is lawful to grant spiritual things in return for an equivalent of service, or for an oral remuneration?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is lawful to grant spiritual things in return for an equivalent
 of service, or an oral remuneration. Gregory says (Regist. iii, ep. 18): "It is right that those who
@@ -21267,7 +21278,7 @@ simony. Therefore oral remuneration does not entail simony.
 
 On the contrary, Pope Urban [*Urban II, Ep. xvii ad Lucium] says: "Whoever grants or acquires
 ecclesiastical things, not for the purpose for which they were instituted but for his own profit, in
-consideration of an oral remuneration or of an equivalent in service rendered or money received,
+consideration of an oral remuneration or of an equivalent in service rendered or [money](/concepts/money) received,
 is guilty of simony."
 
 I answer that, As stated above (A[2]), the term "money" denotes "anything that can have a
@@ -21332,7 +21343,7 @@ Risposta all’Obiezione 3: La remunerazione orale indica o un elogio legato al 
 
 Risposta all’Obiezione 4: L’ipocrita non dona qualcosa di spirituale al fine di essere lodato; si limita a far mostra di esso e, sotto false pretese, ruba segretamente piuttosto che acquistare la lode umana. In questo modo, apparentemente, l’ipocrita non commette simonia.
 
-<span class="atom-split" data-atom="335" data-title="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony? (parte 1)" data-chapter="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="335" data-title="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony? (parte 1)" data-chapter="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that those who are guilty of simony are not fittingly punished by
 being deprived of what they have acquired by simony. Simony is committed by acquiring spiritual
@@ -21468,7 +21479,7 @@ Risposta all’Obiezione 3: Essere privati di ciò che si è ricevuto non rappre
 
 Risposta all’Obiezione 4: Il denaro, la proprietà o i frutti ottenuti in modo simoniaco devono essere restituiti alla Chiesa che ha subito perdite a causa della loro cessione, indipendentemente dal fatto che il prelato o un membro del capitolo di quella chiesa siano stati colpevoli; infatti, nessun altro dovrebbe subire le conseguenze dei suoi peccati. Tuttavia, si deve fare in modo che, per quanto possibile, le parti colpevoli non traggano vantaggio da questa restituzione. Se invece sia il prelato che l’intero capitolo siano responsabili della colpa, la restituzione deve avvenire, con il consenso delle autorità superiori, a beneficio dei poveri o di un’altra chiesa.
 
-<span class="atom-split" data-atom="336" data-title="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony? (parte 2)" data-chapter="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="336" data-title="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony? (parte 2)" data-chapter="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 5: If there are any persons who have been simoniacally admitted into a
 monastery, they must quit: and if the simony was committed with their knowledge since the holding
@@ -21503,7 +21514,7 @@ Risposta all’Obiezione 6: Ai occhi di Dio, la semplice volontà di compiere un
 
 Risposta all’Obiezione 7: Solo il Papa può concedere una dispensa a colui che ha ricevuto consapevolmente un beneficio in modo simoniaco. In altri casi anche il vescovo può concederla, purché il beneficiario prima rinunci alle cose ricevute in modo simoniaco; in tal caso potrà ricevere una dispensa minore che gli permetta di comunicare con i laici, oppure una dispensa maggiore che, dopo aver compiuto penitenza, gli consenta di mantenere il proprio ordine in un’altra chiesa; ancora, potrà ricevere una dispensa maggiore che gli permetta di rimanere nella stessa chiesa, ma in ordini minori; oppure una dispensa totale che gli consenta di esercitare anche gli ordini maggiori nella stessa chiesa, ma senza poter assumere incarichi prelatizi.
 
-<span class="atom-split" data-atom="337" data-title="OF PIETY (FOUR ARTICLES)" data-chapter="OF PIETY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="337" data-title="OF PIETY (FOUR ARTICLES)" data-chapter="OF PIETY (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 After religion we must consider piety, the consideration of which will render the opposite vices
 manifest. Accordingly four points of inquiry arise with regard to piety:
@@ -21520,7 +21531,7 @@ Dopo la religione, dobbiamo considerare la pietà; il riflettere su di essa rend
 (3) La pietà è una virtù specifica?  
 (4) È lecito trascurare i doveri legati alla pietà a vantaggio della religione?
 
-<span class="atom-split" data-atom="338" data-title="Whether piety extends to particular human individuals?" data-chapter="Whether piety extends to particular human individuals?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="338" data-title="Whether piety extends to particular human individuals?" data-chapter="Whether piety extends to particular human individuals?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that piety does not extend to particular human individuals. For [Augustine](/figures/augustine)
 says (De Civ. Dei x) that piety denotes, properly speaking, the [worship](/concepts/religion) of God, which the Greeks
@@ -21584,7 +21595,7 @@ Risposta all’Obiezione 2: Come afferma Agostino (De Civ. Dei x), “il termine
 
 Risposta all’Obiezione 3: Le relazioni di un uomo con i suoi parenti e concittadini sono più legate ai principi della sua essenza rispetto ad altre relazioni; per questo motivo il termine “pietà” è più appropriato per descriverle.
 
-<span class="atom-split" data-atom="339" data-title="Whether piety provides support for our parents?" data-chapter="Whether piety provides support for our parents?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="339" data-title="Whether piety provides support for our parents?" data-chapter="Whether piety provides support for our parents?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that piety does not provide support for our parents. For, seemingly, the
 precept of the decalogue, "Honor thy father and mother," belongs to piety. But this prescribes only
@@ -21645,7 +21656,7 @@ Risposta all’Obiezione 2: Poiché un padre si trova in una posizione di princi
 
 Risposta all’Obiezione 3: Come afferma Tullio (De Invent. Rhet. ii), “offriamo omaggio e dovere a tutti i nostri parenti e ai benintenzionati della nostra patria”; tuttavia, non in modo uguale verso tutti, ma principalmente verso i nostri genitori, e verso altri in base alle nostre possibilità economiche e alle loro esigenze personali.
 
-<span class="atom-split" data-atom="340" data-title="Whether piety is a special virtue distinct from other virtues?" data-chapter="Whether piety is a special virtue distinct from other virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="340" data-title="Whether piety is a special virtue distinct from other virtues?" data-chapter="Whether piety is a special virtue distinct from other virtues?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that piety is not a special virtue distinct from other virtues. For the giving
 of service and homage to anyone proceeds from love. But it belongs to piety. Therefore piety is
@@ -21700,7 +21711,7 @@ Risposta all’Obiezione 2: Dio è il principio del nostro essere e della nostra
 
 Risposta all’Obiezione 3: La pietà si estende al nostro paese nella misura in cui quest’ultimo rappresenta per noi un principio fondamentale dell’esistenza; invece, la giustizia legale tiene conto del bene del nostro paese considerato come bene comune; pertanto, la giustizia legale presenta maggiormente i tratti di una virtù generale rispetto alla pietà.
 
-<span class="atom-split" data-atom="341" data-title="Whether the duties of piety towards one's parents should be omitted for the sake of religion?" data-chapter="Whether the duties of piety towards one's parents should be omitted for the sake of religion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="341" data-title="Whether the duties of piety towards one's parents should be omitted for the sake of religion?" data-chapter="Whether the duties of piety towards one's parents should be omitted for the sake of religion?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/religion,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the duties of piety towards one's parents should be omitted for the
 sake of religion. For Our Lord said (Lk. 14:26): "If any man come to Me, and hate not his father,
@@ -21811,7 +21822,7 @@ Risposta all’Obiezione 3: Quello che diamo ai nostri genitori per pietà lo ri
 
 Risposta all’Obiezione 4: Dobbiamo parlare in modo diverso di colui che è ancora nel mondo e di colui che ha già preso i voti religiosi. Chi si trova ancora nel mondo, se i suoi genitori non possono provvedere a se stessi senza di lui, non deve abbandonarli per entrare in religione, poiché ciò significherebbe violare il comandamento che prescrive di onorare i genitori. Alcuni sostengono tuttavia che anche in tal caso si possa abbandonarli, affidandoli alle cure di Dio; ma questa posizione, se considerata attentamente, significherebbe tentare Dio: poiché, disponendo di mezzi umani, si esporrebbero i propri genitori al pericolo nella speranza dell’aiuto divino. D’altra parte, se i genitori sono in grado di provvedere a se stessi senza di lui, è legittimo che egli li abbandoni per entrare in religione, poiché i figli non sono obbligati a sostenere i propri genitori se non in casi di necessità, come già detto. Chi ha preso i voti religiosi è considerato “morto” per il mondo; pertanto non dovrebbe, sotto pretesto di aiutare i propri genitori, lasciare il convento dove è unito a Cristo e occuparsi nuovamente di affari mondani. Tuttavia, a condizione di rispettare l’obbedienza verso i superiori e la propria condizione religiosa, è suo dovere fare ogni sforzo possibile per aiutare i propri genitori.
 
-<span class="atom-split" data-atom="342" data-title="OF OBSERVANCE, CONSIDERED IN ITSELF, AND OF ITS PARTS (THREE ARTICLES)" data-chapter="OF OBSERVANCE, CONSIDERED IN ITSELF, AND OF ITS PARTS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="342" data-title="OF OBSERVANCE, CONSIDERED IN ITSELF, AND OF ITS PARTS (THREE ARTICLES)" data-chapter="OF OBSERVANCE, CONSIDERED IN ITSELF, AND OF ITS PARTS (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider observance and its parts, the considerations of which will manifest the
 contrary vices.
@@ -21828,7 +21839,7 @@ All’interno dell’ambito dell’osservanza, vi sono tre punti principali da a
 (2) Cosa offre realmente l’osservanza;  
 (3) Il suo confronto con la pietà.
 
-<span class="atom-split" data-atom="343" data-title="Whether observance is a special virtue, distinct from other virtues?" data-chapter="Whether observance is a special virtue, distinct from other virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="343" data-title="Whether observance is a special virtue, distinct from other virtues?" data-chapter="Whether observance is a special virtue, distinct from other virtues?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that observance is not a special virtue, distinct from other virtues. For
 virtues are distinguished by their objects. But the object of observance is not distinct from the object
@@ -21906,7 +21917,7 @@ Risposta all’Obiezione 2: Il semplice fatto di trovarsi in una posizione di di
 
 Risposta all’Obiezione 3: Spetta propriamente alla giustizia speciale pagare ciò che dobbiamo a coloro a cui siamo in debito. Ora, questo non può essere fatto nei confronti dei virtuosi, né di coloro che utilizzano correttamente la propria posizione di dignità; lo stesso vale per Dio e i nostri genitori. Pertanto, queste questioni rientrano nell’ambito di una virtù ausiliaria, e non nella giustizia speciale, che è considerata una virtù principale. La giustizia legale si estende, come già detto (Q[58], A[6]), agli atti di tutte le virtù.
 
-<span class="atom-split" data-atom="344" data-title="Whether it belongs to observance to pay worship and honor to those who are in positions of dignity?" data-chapter="Whether it belongs to observance to pay worship and honor to those who are in positions of dignity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="344" data-title="Whether it belongs to observance to pay worship and honor to those who are in positions of dignity?" data-chapter="Whether it belongs to observance to pay worship and honor to those who are in positions of dignity?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that it does not belong to observance to pay [worship](/concepts/religion) and honor to persons
 in positions of dignity. For according to [Augustine](/figures/augustine) (De Civ. Dei x), we are said to worship those
@@ -21970,7 +21981,7 @@ Risposta all’Obiezione 2: Come già detto sopra (Q[80]), il debito è di due t
 
 Risposta all’Obiezione 3: L’onore è dovuto alle persone che occupano posizioni di dignità, in virtù del loro rango più elevato; mentre la paura è dovuta loro a causa del loro potere di imporre coercizione. All’esercizio del loro governo spettano sia l’obbedienza – che induce i sudditi ad agire secondo gli ordini dei loro superiori – sia i tributi, che rappresentano un riconoscimento del loro lavoro.
 
-<span class="atom-split" data-atom="345" data-title="Whether observance is a greater virtue than piety?" data-chapter="Whether observance is a greater virtue than piety?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="345" data-title="Whether observance is a greater virtue than piety?" data-chapter="Whether observance is a greater virtue than piety?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that observance is a greater virtue than piety. For the prince to whom
 [worship](/concepts/religion) is paid by observance is compared to a father who is worshiped by piety, as a universal to
@@ -22039,7 +22050,7 @@ Risposta all’Obiezione 2: Nella misura in cui le persone che occupano posizion
 
 Risposta all’Obiezione 3: L’espressione di onore o venerazione deve essere proporzionata alla persona a cui viene rivolta, non solo considerandola in sé stessa, ma anche in relazione a coloro che la manifestano. Pertanto, sebbene le persone virtuose, considerate in sé stesse, siano più degne di onore rispetto alle persone dei propri genitori, i figli hanno un dovere maggiore, in considerazione dei benefici ricevuti dai genitori e del legame naturale che li unisce, nel rendere loro omaggio e onore piuttosto che a persone virtuose che non sono loro parenti.
 
-<span class="atom-split" data-atom="346" data-title="OF DULIA (FOUR ARTICLES)" data-chapter="OF DULIA (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="346" data-title="OF DULIA (FOUR ARTICLES)" data-chapter="OF DULIA (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the parts of observance. We shall consider (1) dulia, whereby we pay
 honor and other things pertaining thereto to those who are in a higher position; (2) obedience,
@@ -22060,7 +22071,7 @@ All’interno della prima categoria esistono quattro punti da analizzare:
 (3) Se la [dulia](/concepts/religion), che consiste nel rendere onore e venerazione a coloro che ci sono superiori, sia una virtù specifica, distinta dalla [latria](/concepts/religion);  
 (4) Se essa includa diverse forme o gradazioni.
 
-<span class="atom-split" data-atom="347" data-title="Whether honor denotes something corporal?" data-chapter="Whether honor denotes something corporal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="347" data-title="Whether honor denotes something corporal?" data-chapter="Whether honor denotes something corporal?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that honor does not denote something corporal. For honor is showing
 reverence in acknowledgment of virtue, as may be gathered from the Philosopher (Ethic. i, 5). Now
@@ -22133,7 +22144,7 @@ Risposta all’Obiezione 2: Secondo il Filosofo (Etica iv, 3), l’onore non è 
 Risposta all’Obiezione 3: La lode si distingue dall’onore in due modi. Primo, perché la lode consiste soltanto in segni verbali, mentre l’onore include qualsiasi tipo di segno esterno; pertanto la lode è inclusa nell’onore stesso. Secondo, perché rendendo onore a una persona testimoniamo della sua eccellente bontà in modo assoluto, mentre lodandola testimoniamo della sua bontà in relazione a un fine specifico: lodiamo quindi coloro che agiscono al servizio di un determinato scopo. D’altra parte, l’onore viene conferito anche ai migliori, i quali non sono legati a un fine particolare, ma hanno già raggiunto lo scopo finale, secondo il Filosofo (Etica I, 5).  
 La gloria è l’effetto dell’onore e della lode: il risultato del nostro testimoniare della bontà di una persona è che tale bontà diventa nota a molti. La parola “gloria” indica proprio questo; infatti “gloria” equivale a {kleria}, e per questo un commento di [Agostino](/figures/augustine) su Romani 16:27 afferma che la gloria è “una conoscenza chiara unita alla lode”.
 
-<span class="atom-split" data-atom="348" data-title="Whether honor is properly due to those who are above us?" data-chapter="Whether honor is properly due to those who are above us?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="348" data-title="Whether honor is properly due to those who are above us?" data-chapter="Whether honor is properly due to those who are above us?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that honor is not properly due to those who are above us. For an angel
 is above any human wayfarer, according to Mat. 11:11, "He that is lesser in the kingdom of heaven
@@ -22207,7 +22218,7 @@ Risposta all’Obiezione 3: In ogni uomo si trova qualcosa che ci permette di co
 
 Risposta all’Obiezione 4: Gli individui privati vengono talvolta onorati dai re, non perché siano superiori a loro per ordine di dignità, ma a causa di qualche eccezionalità nelle loro virtù; ed è in questo modo che Tobia e Mardocheo furono onorati dai re.
 
-<span class="atom-split" data-atom="349" data-title="Whether dulia is a special virtue distinct from latria?" data-chapter="Whether dulia is a special virtue distinct from latria?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="349" data-title="Whether dulia is a special virtue distinct from latria?" data-chapter="Whether dulia is a special virtue distinct from latria?" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/virtue,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1. It seems that dulia is not a special virtue distinct from latria. For a gloss on Ps.
 7:1, "O Lord my God, in Thee have I put my trust," says: "Lord of all by His power, to Whom dulia
@@ -22267,7 +22278,7 @@ the movement towards the thing need not be towards its image. Wherefore reverenc
 person as the image of God redounds somewhat to God: and yet this differs from the reverence that
 is paid to God Himself, for this in no way refers to His image.
 
-<span class="atom-split" data-atom="350" data-title="Whether dulia has various species?" data-chapter="Whether dulia has various species?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="350" data-title="Whether dulia has various species?" data-chapter="Whether dulia has various species?" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that dulia has various species. For by dulia we show honor to our neighbor.
 Now different neighbors are honored under different aspects, for instance king, father and master,
@@ -22327,7 +22338,7 @@ Risposta all’Obiezione 2: L’iperdulia rappresenta la forma più elevata di d
 
 Risposta all’Obiezione 3: L’uomo non è obbligato né a sottomettersi né a rendere onore a una creatura irrazionale considerata in sé stessa; anzi, tutte tali creature sono naturalmente soggette all’uomo. Per quanto riguarda la Croce di Cristo, l’onore che le rendiamo è lo stesso che rendiamo a Cristo stesso, proprio come il manto del re riceve lo stesso onore del re stesso, secondo Damasceno (De Fide Orthodossa iv).
 
-<span class="atom-split" data-atom="351" data-title="OF OBEDIENCE (SIX ARTICLES)" data-chapter="OF OBEDIENCE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="351" data-title="OF OBEDIENCE (SIX ARTICLES)" data-chapter="OF OBEDIENCE (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider obedience, under which head there are six points of inquiry:
 (1) Whether one man is bound to obey another?
@@ -22347,7 +22358,7 @@ Dobbiamo ora considerare la questione dell’obbedienza, sotto cui si possono in
 (5) Se i sudditi siano obbligati ad obbedire ai loro superiori in tutto;  
 (6) Se i fedeli siano tenuti ad obbedire al potere secolare.
 
-<span class="atom-split" data-atom="352" data-title="Whether one man is bound to obey another?" data-chapter="Whether one man is bound to obey another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="352" data-title="Whether one man is bound to obey another?" data-chapter="Whether one man is bound to obey another?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,positions/natural_law,concepts/divine_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that one man is not bound to obey another. For nothing should be done
 contrary to the divine ordinance. Now God has so ordered that man is ruled by his own counsel,
@@ -22411,7 +22422,7 @@ Risposta all’Obiezione 2: La volontà di Dio è la prima regola secondo cui tu
 
 Risposta all’Obiezione 3: Una cosa può essere considerata inutile o superflua in due modi. In primo luogo, dal punto di vista dell’atto stesso, poiché non si è obbligati a compierlo; in secondo luogo, dal punto di vista di chi lo compie, poiché lo fa per propria [libera volontà](/positions/free_will). Ora, un atto diventa virtuoso, lodevole e meritevole soprattutto nel momento in cui deriva dalla volontà. Pertanto, anche se l’obbedienza è un dovere, se viene compiuta con volontà spontanea, il merito di chi la pratica non ne risulta diminuito, specialmente davanti a Dio, che vede non solo l’atto esteriore ma anche la volontà interiore.
 
-<span class="atom-split" data-atom="353" data-title="Whether obedience is a special virtue?" data-chapter="Whether obedience is a special virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="353" data-title="Whether obedience is a special virtue?" data-chapter="Whether obedience is a special virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/theological_virtues,concepts/virtue,concepts/justice,figures/augustine"></span>
 
 Objection 1: It seems that obedience is not a special virtue. For disobedience is contrary to
 obedience. But disobedience is a general sin, because Ambrose says (De Parad. viii) that "sin is to
@@ -22522,7 +22533,7 @@ Risposta all’Obiezione 3: L’obbedienza, come ogni virtù, richiede che la vo
 
 Risposta all’Obiezione 4: La reverenza si rivolge direttamente alla persona che eccelle; pertanto ammette diverse forme a seconda dei diversi aspetti dell’eccellenza. L’obbedienza, invece, riguarda il precetto della persona che eccelle e quindi ne ammette soltanto uno aspetto. Poiché l’obbedienza è dovuta al precetto di una persona in segno di reverenza verso di essa, ne consegue che l’obbedienza verso un uomo sia di una sola forma, anche se le cause che la motivano possono essere specificamente diverse.
 
-<span class="atom-split" data-atom="354" data-title="Whether obedience is the greatest of the virtues?" data-chapter="Whether obedience is the greatest of the virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="354" data-title="Whether obedience is the greatest of the virtues?" data-chapter="Whether obedience is the greatest of the virtues?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that obedience is the greatest of the virtues. For it is written (1 Kings
 15:22): "Obedience is better than sacrifices." Now the offering of sacrifices belongs to religion,
@@ -22620,7 +22631,7 @@ Risposta all’Obiezione 2: Tutti gli atti di virtù, nella misura in cui rientr
 
 Risposta all’Obiezione 3: Esistono due tipi di bene. C’è quello verso cui siamo obbligati per necessità, ad esempio amare Dio e simili; un tale bene non può assolutamente essere trascurato a causa dell’obbedienza. Ma c’è anche un altro bene verso cui l’uomo non è obbligato per necessità, e questo bene talvolta dovrebbe essere messo da parte al fine di osservare quell’obbedienza che invece è un dovere imperativo, poiché non si deve compiere il bene commettendo peccati. Tuttavia, come osserva Gregorio (Moralia, xxxv), “colui che vieta ai suoi sudditi anche solo un singolo bene, deve necessariamente permetter loro molti altri, affinché le anime di coloro che obbediscono non periscano completamente a causa della privazione di ogni bene”. Pertanto, la perdita di un certo bene può essere compensata dall’obbedienza e da altri beni.
 
-<span class="atom-split" data-atom="355" data-title="Whether God ought to be obeyed in all things?" data-chapter="Whether God ought to be obeyed in all things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="355" data-title="Whether God ought to be obeyed in all things?" data-chapter="Whether God ought to be obeyed in all things?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God need not be obeyed in all things. For it is written (Mat. 9:30,31)
 that our Lord after healing the two blind men commanded them, saying: "See that no man know
@@ -22686,7 +22697,7 @@ Risposta all’Obiezione 2: Proprio come Dio non compie nulla che sia contrario 
 
 Risposta all’Obiezione 3: Sebbene l’uomo non sia sempre obbligato a volere ciò che Dio vuole, è tuttavia sempre obbligato a volere ciò che Dio gli ordina di volere. Questo viene conosciuto dall’uomo principalmente attraverso i comandamenti di Dio; pertanto, l’uomo è tenuto ad obbedire ai comandamenti di Dio in ogni cosa.
 
-<span class="atom-split" data-atom="356" data-title="Whether subjects are bound to obey their superiors in all things?" data-chapter="Whether subjects are bound to obey their superiors in all things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="356" data-title="Whether subjects are bound to obey their superiors in all things?" data-chapter="Whether subjects are bound to obey their superiors in all things?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that subjects are bound to obey their superiors in all things. For the
 Apostle says (Col. 3:20): "Children, obey your parents in all things," and farther on (Col. 3:22):
@@ -22780,7 +22791,7 @@ Risposta all’Obiezione 2: L’uomo è soggetto a Dio in ogni ambito, sia inter
 Risposta all’Obiezione 3: I religiosi professano obbedienza riguardo al modo di vita regolare, in merito al quale sono soggetti ai loro superiori; pertanto sono tenuti ad obbedire soltanto in quelle questioni che rientrano nel contesto di tale modo di vita regolare, e questa obbedienza è sufficiente per la salvezza. Se sono disposti ad obbedire anche in altre materie, ciò costituirà un ulteriore elemento di perfezione; tuttavia, tali azioni non devono essere contrarie a Dio o alle regole che professano, altrimenti l’obbedienza in tali casi sarebbe illegittima.  
 Si possono quindi distinguere tre tipi di obbedienza: la prima, sufficiente per la salvezza, consiste nell’obbedire quando si è tenuti a farlo; la seconda, un’obbedienza perfetta, che si estende a tutte le cose legali; la terza, un’obbedienza imprudente, che comporta l’adempimento anche ad azioni illegali.
 
-<span class="atom-split" data-atom="357" data-title="Whether Christians are bound to obey the secular powers?" data-chapter="Whether Christians are bound to obey the secular powers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="357" data-title="Whether Christians are bound to obey the secular powers?" data-chapter="Whether Christians are bound to obey the secular powers?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that Christians are not bound to obey the secular power. For a gloss on
 Mat. 17:25, "Then the children are free," says: "If in every kingdom the children of the king who
@@ -22846,7 +22857,7 @@ Risposta all’Obiezione 2: L’Antico Testamento era una figura del Nuovo Testa
 
 Risposta all’Obiezione 3: L’uomo è obbligato a obbedire ai principi secolari nella misura in cui ciò sia richiesto dall’ordine della giustizia. Pertanto, se l’autorità del principe non è legittima ma usurpata, o se comanda cose ingiuste, i suoi sudditi non sono obbligati ad obbedirgli, salvo forse in casi occasionali, al fine di evitare scandali o pericoli.
 
-<span class="atom-split" data-atom="358" data-title="OF DISOBEDIENCE (TWO ARTICLES)" data-chapter="OF DISOBEDIENCE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="358" data-title="OF DISOBEDIENCE (TWO ARTICLES)" data-chapter="OF DISOBEDIENCE (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider disobedience, under which head there are two points of inquiry:
 (1) Whether it is a mortal sin?
@@ -22858,7 +22869,7 @@ Dobbiamo ora considerare la disobbedienza; in questo ambito vi sono due aspetti 
 (1) Se sia un peccato mortale;  
 (2) Se sia il più grave tra i peccati.
 
-<span class="atom-split" data-atom="359" data-title="Whether disobedience is a mortal sin?" data-chapter="Whether disobedience is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="359" data-title="Whether disobedience is a mortal sin?" data-chapter="Whether disobedience is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that disobedience is not a mortal sin. For every sin is a disobedience, as
 appears from Ambrose's definition given above (Q[104], A[2], OBJ[1]). Therefore if disobedience
@@ -22920,7 +22931,7 @@ Risposta all’Obiezione 2: L’orgoglio desidera la dimostrazione dell’eccell
 
 Risposta all’Obiezione 3: Nessuno è obbligato a compiere l’impossibile; pertanto, se un superiore impone una miriade di precetti ai suoi sottoposti, rendendoli impossibilitati a adempierli, questi sono scusati dal peccato. Per questo motivo, i superiori dovrebbero astenersi dall’imporre troppi precetti.
 
-<span class="atom-split" data-atom="360" data-title="Whether disobedience is the most grievous of sins?" data-chapter="Whether disobedience is the most grievous of sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="360" data-title="Whether disobedience is the most grievous of sins?" data-chapter="Whether disobedience is the most grievous of sins?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that disobedience is the most grievous of sins. For it is written (1 Kings
 15:23): "It is like the sin of witchcraft to rebel, and like the crime of idolatry to refuse to obey."
@@ -22942,7 +22953,7 @@ murder. Therefore disobedience is not the most grievous of sins.
 
 I answer that, Not every disobedience is equally a sin: for one disobedience may be greater
 than another, in two ways. First, on the part of the superior commanding, since, although a man
-should take every care to obey each superior, yet it is a greater duty to obey a higher than a lower
+should take every care to obey each superior, yet it is a greater [duty](/positions/duty_imperative) to obey a higher than a lower
 authority, in sign of which the command of a lower authority is set aside if it be contrary to the
 command of a higher authority. Consequently the higher the person who commands, the more
 grievous is it to disobey him: so that it is more grievous to disobey God than man. Secondly, on
@@ -23002,7 +23013,7 @@ Risposta all’Obiezione 2: Non ogni disobbedienza è peccato contro lo Spirito 
 
 Risposta all’Obiezione 3: Il primo peccato del nostro primo genitore, da cui tale peccato fu trasmesso agli uomini, non fu l’obbedienza mancata considerata come un peccato specifico, ma l’orgoglio; fu proprio dall’orgoglio che l’uomo in seguito derivò l’atto di disobbedire. Pertanto, l’Apostolo sembra intendere con queste parole l’obbedienza mancata nel suo rapporto con ogni tipo di peccato.
 
-<span class="atom-split" data-atom="361" data-title="OF THANKFULNESS OR GRATITUDE (SIX ARTICLES)" data-chapter="OF THANKFULNESS OR GRATITUDE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="361" data-title="OF THANKFULNESS OR GRATITUDE (SIX ARTICLES)" data-chapter="OF THANKFULNESS OR GRATITUDE (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/virtue,concepts/justice,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider thankfulness or gratitude, and ingratitude. Concerning thankfulness
 there are six points of inquiry:
@@ -23024,7 +23035,7 @@ Dobbiamo ora considerare la riconoscenza o gratitudine, nonché l’ingratitudin
 (5) La gratitudine dovrebbe essere misurata in base al favore ricevuto o alle intenzioni di chi lo ha concesso?  
 (6) È giusto ricambiare qualcosa di più di ciò che si è ricevuto?
 
-<span class="atom-split" data-atom="362" data-title="Whether thankfulness is a special virtue, distinct from other virtues?" data-chapter="Whether thankfulness is a special virtue, distinct from other virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="362" data-title="Whether thankfulness is a special virtue, distinct from other virtues?" data-chapter="Whether thankfulness is a special virtue, distinct from other virtues?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that thankfulness is not a special virtue, distinct from other virtue. For
 we have received the greatest benefits from God, and from our parents. Now the honor which we
@@ -23091,7 +23102,7 @@ Risposta all’Obiezione 2: Il rimborso proporzionato rientra nella giustizia co
 
 Risposta all’Obiezione 3: Poiché l’amicizia vera si basa sulla virtù, tutto ciò che è contrario alla virtù in un amico rappresenta un ostacolo per l’amicizia stessa, mentre tutto ciò che in lui è virtuoso costituisce un incentivo ad essa. In questo modo, l’amicizia viene preservata attraverso il rimborso dei favori ricevuti, anche se tale rimborso appartiene specificamente alla virtù della gratitudine.
 
-<span class="atom-split" data-atom="363" data-title="Whether the innocent is more bound to give thanks to God than the penitent?" data-chapter="Whether the innocent is more bound to give thanks to God than the penitent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="363" data-title="Whether the innocent is more bound to give thanks to God than the penitent?" data-chapter="Whether the innocent is more bound to give thanks to God than the penitent?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the innocent is more bound to give thanks to God than the penitent.
 For the greater the gift one has received from God, the more one is bound to give Him thanks. Now
@@ -23147,7 +23158,7 @@ Al contrario, è scritto (Lc. 7:43): “A chi viene perdonato di più, egli ama 
 
 Rispondo che la gratitudine da parte del destinatario corrisponde alla favorità da parte del donatore: pertanto, quando il donatore dimostra una maggiore generosità, anche il destinatario è tenuto a esprimere una gratitudine più profonda. Una favorità, infatti, è qualcosa che viene concesso “a titolo gratuito”; per questo motivo, da parte del donatore, tale favorità può essere ritenuta maggiore sotto due aspetti: innanzitutto, in base alla quantità di ciò che viene concesso; in questo caso, l’innocente è tenuto a ringraziare di più, poiché riceve da Dio un dono più grande e, in assoluto, un dono più continuo, a parità di altre condizioni. In secondo luogo, una favorità può essere considerata maggiore anche perché viene concessa in modo ancora più gratuito; in questo senso, il pentito è tenuto a ringraziare di più dell’innocente, poiché ciò che riceve da Dio gli viene concesso in modo particolarmente generoso, visto che, pur essendo meritevole di punizione, ha ricevuto la grazia. Pertanto, anche se il dono concesso all’innocente è, in assoluto, maggiore, quello concesso al pentito lo è rispetto a lui stesso: proprio come un piccolo dono per un povero può essere considerato più prezioso di un grande dono per un ricco. E poiché le azioni riguardano individui specifici, in materia di comportamenti dobbiamo prendere in considerazione ciò che è effettivamente accaduto in questo momento, piuttosto che ciò che è vero in assoluto, come osserva il Filosofo nell’Etica (III, trattato sui comportamenti volontari e involontari). Questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="364" data-title="Whether a man is bound to give thanks to every benefactor?" data-chapter="Whether a man is bound to give thanks to every benefactor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="364" data-title="Whether a man is bound to give thanks to every benefactor?" data-chapter="Whether a man is bound to give thanks to every benefactor?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the a man is not bound to give thanks to every benefactor. For a man
 may benefit himself just as he may harm himself, according to Ecclus. 14:5, "He that is evil to
@@ -23272,11 +23283,11 @@ Risposta all’Obiezione 5: Un uomo povero certamente non è ingrato se fa ciò 
 
 Risposta all’Obiezione 6: Come già detto nella risposta precedente, il rimborso di un favore dipende principalmente dall’affetto del cuore; pertanto, il rimborso dovrebbe essere effettuato in modo da risultare particolarmente benefico per colui che lo ha ricevuto. Tuttavia, se, a causa della negligenza del benefattore, tale rimborso dovesse rivelarsi dannoso per lui, ciò non può essere attribuito alla persona che lo effettua, come osserva Seneca nel “De Beneficii” VII: “È mio dovere ripagare, e non trattenere o proteggere il denaro che ho ricevuto in cambio del favore”.
 
-<span class="atom-split" data-atom="365" data-title="Whether a man is bound to repay a favor at once?" data-chapter="Whether a man is bound to repay a favor at once?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="365" data-title="Whether a man is bound to repay a favor at once?" data-chapter="Whether a man is bound to repay a favor at once?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that a man is bound to repay a favor at once. For we are bound to restore
 at once what we owe, unless the term be fixed. Now there is no term prescribed for the repayment
-of favors, and yet this repayment is a duty, as stated above (A[3]). Therefore a man is bound to
+of favors, and yet this repayment is a [duty](/positions/duty_imperative), as stated above (A[3]). Therefore a man is bound to
 repay a favor at once.
 
 Objection 2: Further, a good action would seem to be all the more praiseworthy according as
@@ -23328,7 +23339,7 @@ Risposta all’Obiezione 2: La serietà della volontà non è virtuosa se non è
 
 Risposta all’Obiezione 3: I favori dovrebbero essere concessi in un momento opportuno, e non si dovrebbe più ritardare quando tale momento arriva; lo stesso vale per il rimborso dei favori ricevuti.
 
-<span class="atom-split" data-atom="366" data-title="Whether in giving thanks we should look at the benefactor's disposition or at the deed?" data-chapter="Whether in giving thanks we should look at the benefactor's disposition or at the deed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="366" data-title="Whether in giving thanks we should look at the benefactor's disposition or at the deed?" data-chapter="Whether in giving thanks we should look at the benefactor's disposition or at the deed?" data-kind="atom" data-srclang="en" data-tags="concepts/friendship,concepts/justice,concepts/virtue,concepts/will"></span>
 
 Objection 1: It seems that in repaying favors we should not look at the benefactor's disposition
 but at the deed. For repayment is due to beneficence, and beneficence consists in deeds, as the word
@@ -23389,7 +23400,7 @@ Risposta all’Obiezione 2: La gratitudine fa parte della giustizia, non certo n
 
 Risposta all’Obiezione 3: Solo Dio conosce la vera natura dell’uomo; tuttavia, nella misura in cui questa natura si manifesta attraverso certi segni, anche l’uomo può comprenderla. È così che la bontà di un benefattore viene riconosciuta dal modo in cui compie le azioni gentili, ad esempio se le fa con gioia e disponibilità.
 
-<span class="atom-split" data-atom="367" data-title="Whether the repayment of gratitude should surpass the favor received?" data-chapter="Whether the repayment of gratitude should surpass the favor received?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="367" data-title="Whether the repayment of gratitude should surpass the favor received?" data-chapter="Whether the repayment of gratitude should surpass the favor received?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that there is no need for the repayment of gratitude to surpass the favor
 received. For it is not possible to make even equal repayment to some, for instance, one's parents,
@@ -23454,7 +23465,7 @@ Risposta all’Obiezione 2: Il debito di gratitudine deriva dalla carità; più 
 
 Risposta all’Obiezione 3: Così come nell’ingiustizia, che è una virtù fondamentale, consideriamo l’uguaglianza delle cose, così nella gratitudine consideriamo l’uguaglianza delle volontà. Poiché, da un lato, il benefattore, agendo secondo la propria libera volontà, dona qualcosa di ciò che non era obbligato a dare; dall’altro lato, il beneficiario ricambia qualcosa in più di ciò che ha ricevuto.
 
-<span class="atom-split" data-atom="368" data-title="OF INGRATITUDE (FOUR ARTICLES)" data-chapter="OF INGRATITUDE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="368" data-title="OF INGRATITUDE (FOUR ARTICLES)" data-chapter="OF INGRATITUDE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider ingratitude, under which head there are four points of inquiry:
 (1) Whether ingratitude is always a sin?
@@ -23470,7 +23481,7 @@ Dobbiamo ora considerare l’ingratitudine, sotto cui rientrano quattro aspetti 
 (3) Se ogni atto di ingratitudine costituisca un peccato mortale;  
 (4) Se si debbano ritirare i favori concessi a coloro che sono ingrati.
 
-<span class="atom-split" data-atom="369" data-title="Whether ingratitude is always a sin?" data-chapter="Whether ingratitude is always a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="369" data-title="Whether ingratitude is always a sin?" data-chapter="Whether ingratitude is always a sin?" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/charity,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that ingratitude is not always a sin. For Seneca says (De Benef. iii) that
 "he who does not repay a favor is ungrateful." But sometimes it is impossible to repay a favor
@@ -23532,7 +23543,7 @@ Risposta all’Obiezione 2: Nessun uomo può essere scusato per la sua ingratitu
 
 Risposta all’Obiezione 3: Il debito di gratitudine deriva dal debito d’amore, e da quest’ultimo nessuno dovrebbe desiderare di essere libero. Pertanto, il fatto che qualcuno debba questo debito contro la propria volontà sembra derivare da una mancanza di amore verso colui che gli ha reso un favore.
 
-<span class="atom-split" data-atom="370" data-title="Whether ingratitude is a special sin?" data-chapter="Whether ingratitude is a special sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="370" data-title="Whether ingratitude is a special sin?" data-chapter="Whether ingratitude is a special sin?" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that ingratitude is not a special sin. For whoever sins acts against God
 his sovereign benefactor. But this pertains to ingratitude. Therefore ingratitude is not a special sin.
@@ -23598,7 +23609,7 @@ Risposta all’Obiezione 2: Nulla impedisce che l’aspetto formale di alcuni pe
 
 Risposta all’Obiezione 3: Questi tre non rappresentano specie diverse, ma diversi gradi dello stesso peccato specifico.
 
-<span class="atom-split" data-atom="371" data-title="Whether ingratitude is always a mortal sin?" data-chapter="Whether ingratitude is always a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="371" data-title="Whether ingratitude is always a mortal sin?" data-chapter="Whether ingratitude is always a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that ingratitude is always a mortal sin. For one ought to be grateful to
 God above all. But one is not ungrateful to God by committing a venial sin: else every man would
@@ -23678,7 +23689,7 @@ Risposta all’Obiezione 3: Seneca afferma anche (De Benefici vii): “Quando di
 
 Risposta all’Obiezione 4: Chi non è a conoscenza di un favore ricevuto non è ingrato, purché non lo ricambi, a condizione che sia disposto a farlo se ne fosse a conoscenza. Tuttavia, a volte è lodevole che la persona che ha ricevuto il favore rimanga all’oscuro di esso: sia per evitare vanità – come quando il Beato Nicola gettò segretamente dell’oro in una casa, desiderando evitare di guadagnarsi popolarità – sia perché la gentilezza del benefattore appare ancora più grande quando egli non vuole umiliare la persona a cui dona.
 
-<span class="atom-split" data-atom="372" data-title="Whether favors should be withheld from the ungrateful?" data-chapter="Whether favors should be withheld from the ungrateful?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="372" data-title="Whether favors should be withheld from the ungrateful?" data-chapter="Whether favors should be withheld from the ungrateful?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that favors should withheld from the ungrateful. For it is written (Wis.
 16:29): "The hope of the unthankful shall melt away as the winter's ice." But this hope would not
@@ -23735,7 +23746,7 @@ Risposta all’Obiezione 2: Chi concede un favore a una persona ingrata le forni
 
 Risposta all’Obiezione 3: Chi concede un favore non deve subito assumere il ruolo di colpevole dell’ingratitudine, bensì quello di un medico gentile che cura tale ingratitudine attraverso ulteriori favori.
 
-<span class="atom-split" data-atom="373" data-title="OF VENGEANCE (FOUR ARTICLES)" data-chapter="OF VENGEANCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="373" data-title="OF VENGEANCE (FOUR ARTICLES)" data-chapter="OF VENGEANCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/law,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider vengeance, under which head there are four points of inquiry:
 (1) Whether vengeance is lawful?
@@ -23751,7 +23762,7 @@ Dobbiamo ora considerare la vendetta; in questo ambito vi sono quattro punti da 
 (3) Il modo in cui deve essere attuata;  
 (4) Su chi debba essere esercitata.
 
-<span class="atom-split" data-atom="374" data-title="Whether vengeance is lawful?" data-chapter="Whether vengeance is lawful?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="374" data-title="Whether vengeance is lawful?" data-chapter="Whether vengeance is lawful?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that vengeance is not lawful. For whoever usurps what is God's sins. But
 vengeance belongs to God, for it is written (Dt. 32:35, Rom. 12:19): "Revenge to Me, and I will
@@ -23867,7 +23878,7 @@ Risposta all’Obiezione 5: Quando l’intera moltitudine pecca, la vendetta dev
 Tuttavia, a volte, se c’è speranza che molti possano pentirsi, la severità della vendetta dovrebbe essere inflitta su pochi dei responsabili principali; la loro punizione infatti incute paura negli altri. Così il Signore ordinò (Num. 25) che i capi del popolo fossero impiccati per il peccato della moltitudine.  
 D’altra parte, se non è l’intera moltitudine ma solo una sua parte ad aver peccato, allora, se i colpevoli possono essere separati dagli innocenti, la vendetta deve essere inflitta su di loro, a condizione che ciò possa avvenire senza causare scandalo agli altri; altrimenti, l’intera moltitudine dovrebbe essere risparmiata e la severità evitata. Lo stesso vale per il sovrano, che è seguito dalla moltitudine: il suo peccato deve essere tollerato, se non può essere punito senza causare scandalo alla gente, a meno che tale peccato non arrechi alla moltitudine danni maggiori, sia spirituali che materiali, rispetto allo scandalo che potrebbe derivare dalla sua punizione.
 
-<span class="atom-split" data-atom="375" data-title="Whether vengeance is a special virtue?" data-chapter="Whether vengeance is a special virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="375" data-title="Whether vengeance is a special virtue?" data-chapter="Whether vengeance is a special virtue?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that vengeance is not a special and distinct virtue. For just as the good
 are rewarded for their good deeds, so are the wicked punished for their evil deeds. Now the rewarding
@@ -23933,7 +23944,7 @@ Risposta all’Obiezione 2: La forza d’animo dispone alla vendetta eliminando 
 
 Risposta all’Obiezione 3: Due vizi si oppongono alla vendetta: uno per eccesso, ovvero il peccato di crudeltà o brutalità che supera la misura nel punire; l’altro per difetto, consistente nell’essere negligenti nel punire. Per questo motivo si legge (Proverbi 13:24): “Chi risparmia la frusta odia suo figlio”. Ma la virtù della vendetta consiste nel rispettare la misura adeguata nella punizione, tenendo conto di tutte le circostanze.
 
-<span class="atom-split" data-atom="376" data-title="Whether vengeance should be wrought by means of punishments customary among men?" data-chapter="Whether vengeance should be wrought by means of punishments customary among men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="376" data-title="Whether vengeance should be wrought by means of punishments customary among men?" data-chapter="Whether vengeance should be wrought by means of punishments customary among men?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that vengeance should not be wrought by means of punishments customary
 among men. For to put a man to death is to uproot him. But our Lord forbade (Mat. 13:29) the
@@ -23996,7 +24007,7 @@ Risposta all’Obiezione 2: Tutti coloro che commettono peccati mortali meritano
 
 Risposta all’Obiezione 3: Il semplice fatto che la punizione, sia essa di morte o di qualsiasi altra forma temibile per l’uomo, venga comunicata contemporaneamente al peccato, fa sì che la volontà umana si astenga dal peccare; infatti, la paura della punizione è più forte dell’attrattiva esercitata dall’esempio del peccato stesso.
 
-<span class="atom-split" data-atom="377" data-title="Whether vengeance should be taken on those who have sinned involuntarily? (parte 1)" data-chapter="Whether vengeance should be taken on those who have sinned involuntarily?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="377" data-title="Whether vengeance should be taken on those who have sinned involuntarily? (parte 1)" data-chapter="Whether vengeance should be taken on those who have sinned involuntarily?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that vengeance should be taken on those who have sinned involuntarily.
 For the will of one man does not follow from the will of another. Yet one man is punished for
@@ -24127,7 +24138,7 @@ Risposta all’Obiezione 3: Secondo la volontà di Dio, i bambini vengono puniti
 
 Risposta all’Obiezione 4: Un atto compiuto per costrizione dovuta alla paura non è necessariamente involontario; contiene infatti un elemento di volontarietà, come già affermato in precedenza (FS, Q[6], AA[5],6).
 
-<span class="atom-split" data-atom="378" data-title="Whether vengeance should be taken on those who have sinned involuntarily? (parte 2)" data-chapter="Whether vengeance should be taken on those who have sinned involuntarily?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="378" data-title="Whether vengeance should be taken on those who have sinned involuntarily? (parte 2)" data-chapter="Whether vengeance should be taken on those who have sinned involuntarily?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 5: The other apostles were distressed about the sin of Judas, in the same
 way as the multitude is punished for the sin of one, in commendation of unity, as state above (Reply
@@ -24137,7 +24148,7 @@ OBJ[1],2).
 
 Risposta all’Obiezione 5: Gli altri apostoli erano angosciati per il peccato di Giuda, proprio come la moltitudine viene punita per il peccato di uno, a dimostrazione dell’unità, come già detto sopra (Risposta alle Obiezioni [1], [2]).
 
-<span class="atom-split" data-atom="379" data-title="OF TRUTH (FOUR ARTICLES)" data-chapter="OF TRUTH (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="379" data-title="OF TRUTH (FOUR ARTICLES)" data-chapter="OF TRUTH (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/justice,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider truth and the vices opposed thereto. Concerning truth there are four
 points of inquiry:
@@ -24154,7 +24165,7 @@ Dobbiamo ora considerare la verità e i vizi che le sono opposti. Per quanto rig
 (3) Se faccia parte della giustizia;  
 (4) Se tenda verso ciò che è meno nobile o meno prezioso.
 
-<span class="atom-split" data-atom="380" data-title="Whether truth is a virtue?" data-chapter="Whether truth is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="380" data-title="Whether truth is a virtue?" data-chapter="Whether truth is a virtue?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that truth is not a virtue. For the first of virtues is faith, whose object is
 truth. Since then the object precedes the [habit](/concepts/custom) and the act, it seems that truth is not a virtue, but
@@ -24226,7 +24237,7 @@ Risposta all’Obiezione 2: Affermare ciò che riguarda se stessi, nella misura 
 
 Risposta all’Obiezione 3: Una persona che dice la verità emette segni specifici che sono in accordo con i fatti; tali segni possono essere parole, azioni esterne o qualsiasi altra cosa esterna. Ora, soltanto queste cose costituiscono l’oggetto delle virtù morali, poiché queste ultime riguardano l’uso dei mezzi esterni dell’uomo, nella misura in cui tale uso viene attuato su comando della volontà. Pertanto, la verità non è una virtù teologica né intellettuale, ma morale. È inoltre un mezzo tra eccesso e difetto, sia riguardo all’oggetto che riguardo all’atto stesso. Per quanto riguarda l’oggetto, la verità indica essenzialmente una sorta di “uguaglianza”, e ciò che è uguale rappresenta appunto un mezzo tra il più e il meno. Pertanto, proprio perché una persona dice la verità su se stessa, essa osserva il giusto equilibrio tra chi dice di più della verità e chi ne dice di meno. Per quanto riguarda l’atto, osservare il giusto equilibrio significa dire la verità nel momento e nel modo appropriati. L’eccesso consiste nel rivelare informazioni personali in momenti inappropriati, mentre la difetto consiste nel nasconderle quando invece dovrebbero essere rese note.
 
-<span class="atom-split" data-atom="381" data-title="Whether truth is a special virtue?" data-chapter="Whether truth is a special virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="381" data-title="Whether truth is a special virtue?" data-chapter="Whether truth is a special virtue?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that truth is not a special virtue. For the true and the good are convertible.
 Now goodness is not a special virtue, in fact every virtue is goodness, because "it makes its possessor
@@ -24305,7 +24316,7 @@ Risposta all’Obiezione 3: La verità della vita è quella che rende una cosa v
 
 Risposta all’Obiezione 4: La semplicità è così chiamata in contrapposizione alla doppiezza, ovvero quando una persona mostra qualcosa esteriormente mentre ne ha un’altra intenzione nel cuore; pertanto, la semplicità riguarda appunto questa virtù. Essa corregge l’intenzione umana, non direttamente (poiché ciò appartiene a ogni virtù), ma escludendo la doppiezza, che consiste nel fingere una cosa mentre si intende un’altra.
 
-<span class="atom-split" data-atom="382" data-title="Whether truth is a part of justice?" data-chapter="Whether truth is a part of justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="382" data-title="Whether truth is a part of justice?" data-chapter="Whether truth is a part of justice?" data-kind="atom" data-srclang="en" data-tags="positions/social_animal,concepts/justice,concepts/divine_law,concepts/virtue"></span>
 
 Objection 1: It seems that truth is not a part of justice. For it seems proper to justice to give
 another man his due. But, by telling the truth, one does not seem to give another man his due, as
@@ -24382,7 +24393,7 @@ Risposta all’Obiezione 2: La verità, così come è conosciuta, appartiene all
 
 Risposta all’Obiezione 3: La verità di cui stiamo parlando ora è diversa dalla verità della vita, come indicato nella precedente A[2], ad 3. Parliamo della verità della giustizia in due modi. In un certo senso, ci riferiamo al fatto che la giustizia stessa rappresenti una certa rettitudine regolata dalla legge [divina](/concepts/divine_law); in questo caso, la verità della giustizia differisce dalla verità della vita, poiché la verità della vita permette a un uomo di vivere correttamente in se stesso, mentre la verità della giustizia impone all’uomo di osservare la rettitudine della legge nelle decisioni che riguardano altri individui; in questo senso, la verità della giustizia non ha nulla a che fare con quella di cui stiamo parlando ora, così come non ne ha nulla a che fare la verità della vita. In un altro senso, la verità della giustizia può essere intesa come il fatto che, attraverso l’azione della giustizia, un uomo manifesti la verità, ad esempio quando confessa la verità o fornisce prove sincere in tribunale; questa verità rappresenta un atto concreto di giustizia e non riguarda direttamente quella verità di cui stiamo parlando ora, poiché in tale manifestazione della verità l’intenzione principale dell’uomo è quella di restituire a un altro individuo ciò che gli spetta. Pertanto, il Filosofo afferma (Etica, iv, 7) descrivendo questa virtù: “Non ci riferiamo a colui che è sincero nelle sue promesse, né ciò vale per questioni in cui si discute di giustizia o ingiustizia”. La verità della dottrina consiste nella manifestazione di alcune verità relative alla scienza; pertanto, nemmeno questa verità riguarda direttamente questa virtù, ma soltanto quella verità attraverso la quale un uomo, sia nella vita che nel discorso, mostra di essere ciò che realmente è, e di rivelare esattamente le cose che lo riguardano, senza esagerazioni né omissioni. Tuttavia, poiché le verità scientifiche, così come le conosciamo noi, hanno a che fare con noi stessi e appartengono a questa virtù, in questo senso anche la verità della dottrina può essere considerata parte di questa virtù, così come qualsiasi altra forma di verità attraverso cui un uomo manifesta, con parole o azioni, ciò che sa.
 
-<span class="atom-split" data-atom="383" data-title="Whether the virtue of truth inclines rather to that which is less?" data-chapter="Whether the virtue of truth inclines rather to that which is less?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="383" data-title="Whether the virtue of truth inclines rather to that which is less?" data-chapter="Whether the virtue of truth inclines rather to that which is less?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the virtue of truth does not incline to that which is less. For as one
 incurs falsehood by saying more, so does one by saying less: thus it is no more false that four are
@@ -24439,7 +24450,7 @@ Rispondo che esistono due modi per allontanarsi dalla verità verso ciò che è 
 Il secondo modo per allontanarsi dalla verità consiste nel negare ciò che esiste realmente; in questo caso, tale comportamento non rientra nella natura stessa della virtù, poiché implica la menzogna. Tuttavia, questo approccio è meno contrario alla verità, sebbene non riguardi direttamente l’aspetto essenziale della verità stessa, ma piuttosto quello della prudenza, che deve essere sempre preservata in tutte le virtù. Poiché comportamenti del genere comportano maggior pericolo e causano più fastidio agli altri, è certamente meno conforme alla prudenza pensare o vantarsi di possedere ciò che non si ha, piuttosto che negare ciò che invece esiste realmente.  
 Questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="384" data-title="OF THE VICES OPPOSED TO TRUTH, AND FIRST OF LYING (FOUR ARTICLES)" data-chapter="OF THE VICES OPPOSED TO TRUTH, AND FIRST OF LYING (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="384" data-title="OF THE VICES OPPOSED TO TRUTH, AND FIRST OF LYING (FOUR ARTICLES)" data-chapter="OF THE VICES OPPOSED TO TRUTH, AND FIRST OF LYING (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the vices opposed to truth, and (1) lying: (2) dissimulation or hypocrisy:
 (3) boasting and the opposite vice. Concerning lying there are four points of inquiry:
@@ -24452,7 +24463,7 @@ We must now consider the vices opposed to truth, and (1) lying: (2) dissimulatio
 
 Dobbiamo ora considerare i vizi opposti alla verità, e in particolare: (1) la menzogna; (2) la dissimulazione o l’ipocrisia; (3) il vanterio e il vizio opposto. Per quanto riguarda la menzogna, ci sono quattro punti da esaminare: (1) Se la menzogna, in quanto contenente falsità, sia sempre contraria alla verità; (2) Le diverse forme di menzogna; (3) Se la menzogna sia sempre un peccato; (4) Se sia sempre un peccato mortale.
 
-<span class="atom-split" data-atom="385" data-title="Whether lying is always opposed to truth?" data-chapter="Whether lying is always opposed to truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="385" data-title="Whether lying is always opposed to truth?" data-chapter="Whether lying is always opposed to truth?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that lying is not always opposed to truth. For opposites are incompatible
 with one another. But lying is compatible with truth, since that speaks the truth, thinking it to be
@@ -24536,7 +24547,7 @@ Risposta all’Obiezione 2: Come afferma Agostino (De Doctrina Christiana ii), l
 
 Risposta all’Obiezione 3: Il desiderio di ingannare appartiene alla perfezione del mentire, ma non alla sua specie, così come nessun effetto appartiene alla specie della sua causa.
 
-<span class="atom-split" data-atom="386" data-title="Whether lies are sufficiently divided into officious, jocose, and mischievous lies?" data-chapter="Whether lies are sufficiently divided into officious, jocose, and mischievous lies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="386" data-title="Whether lies are sufficiently divided into officious, jocose, and mischievous lies?" data-chapter="Whether lies are sufficiently divided into officious, jocose, and mischievous lies?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that lies are not sufficiently divided into "officious," "jocose" and
 "mischievous" lies. For a division should be made according to that which pertains to a thing by
@@ -24618,7 +24629,7 @@ Al contrario, un commento al Salmo 5:7, “Distruggerai tutti coloro che mentono
 Rispondo che le menzogne possono essere divise in tre modi. Primo, in base alla loro natura stessa: questa è la divisione essenziale e appropriata del comportamento mendace. Secondo il Filosofo (Etica, iv, 7), esistono due tipi di menzogne: quella che va oltre la verità, appartenente al genere della “vanteria”, e quella che si ferma prima della verità, rientrante nella categoria dell’“ironia”. Questa divisione è fondamentale, poiché il mentire in sé è opposto alla verità, come già affermato; e la verità rappresenta una sorta di “uguaglianza”, contro cui tutto ciò che è più o meno diverso si trova in opposizione essenziale. In secondo luogo, le menzogne possono essere classificate anche in base alla loro natura di peccato, nonché in relazione a quegli elementi che aumentano o diminuiscono la gravità di tale peccato, a seconda dell’intento con cui vengono pronunciate. Il peccato del mentire diventa più grave quando lo scopo della menzogna è nuocere ad altri; in questo caso si parla di “menzogna maliziosa”. Al contrario, il peccato del mentire si riduce se la menzogna ha uno scopo positivo: sia per divertimento (“menzogna scherzosa”), sia per aiutare qualcuno o evitarne dei danni (“menzogna utile”). In questo modo le menzogne possono essere suddivise nei tre tipi sopra menzionati. In terzo luogo, si può ancora dividere le menzogne in base alla loro relazione con uno scopo specifico, indipendentemente dal fatto che tale scopo aumenti o diminuisca la loro gravità. In questo modo si ottengono otto tipi di menzogne, come indicato nella Seconda Obiezione. I primi tre tipi rientrano nella categoria delle “menzogne maliziose”: quelle rivolte contro Dio (“menzogna nelle dottrine religiose”) o contro gli altri (“mentenze che nuociono senza alcun beneficio”); oppure quelle che, pur nuocendo a qualcuno, portano anche a un qualche vantaggio per un altro (“mentenze che procurano benefici a uno e danni a un altro”). Tra queste, la prima categoria è senz’altro la più grave, poiché i peccati contro Dio sono sempre più gravi, come già affermato (FS, Q[73], A[3]). La seconda categoria è più grave della terza, poiché l’intento di procurare un vantaggio ad altri riduce in qualche misura la gravità del peccato. Dopo queste tre categorie che aumentano la gravità del peccato del mentire, esiste una quarta categoria di menzogne la cui gravità è fissa, senza alcun aumento o diminuzione; si tratta delle menzogne pronunciate semplicemente per il piacere di mentire e ingannare. Questo tipo di comportamento deriva da un’abitudine; per questo il Filosofo afferma che “il mentitore, quando mente per abitudine, trova piacere nel farlo”. Le ultime quattro categorie riducono invece la gravità del peccato del mentire. Il quinto tipo è la “menzogna scherzosa”, pronunciata con l’intento di compiacere qualcuno; i restanti tre tipi rientrano nella categoria delle “mentogne utili”, cioè quelle che hanno uno scopo positivo per qualcun altro, sia in termini materiali (“menzogna utile per salvare denaro”) che in termini morali o pratici.
 Il corpo umano, e questa è la settima categoria di menzogne, quelle che “salvano un uomo dalla morte”; oppure la moralità della virtù stessa, e questa è l’ottava categoria, quelle che “lo salvano da contaminazioni illecite del suo corpo”. È evidente che più grande è il bene inteso, minore diventa la gravità del peccato di mentire. Pertanto, un attento esame della questione mostra che queste diverse categorie di menzogne sono elencate in ordine di gravità: poiché il bene utile è superiore al bene piacevole, la vita del corpo è più preziosa del denaro, e la virtù è ancora più importante della vita stessa. Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="387" data-title="Whether every lie is a sin? (parte 1)" data-chapter="Whether every lie is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="387" data-title="Whether every lie is a sin? (parte 1)" data-chapter="Whether every lie is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that not every lie is a sin. For it is evident that the evangelists did not sin
 in the writing of the Gospel. Yet they seem to have told something false: since their accounts of
@@ -24746,7 +24757,7 @@ Risposta all’Obiezione 4: Una menzogna è peccaminosa non solo perché dannegg
 
 Risposta all’Obiezione 5: Un uomo non mente, purché abbia la intenzione di mantenere ciò che ha promesso, poiché non parla contro ciò che ha in mente; tuttavia, se non mantiene la sua promessa, sembra agire senza fiducia nella possibilità di cambiare idea. Tuttavia, può essere scusato per due motivi: primo, se ha promesso qualcosa chiaramente illecito, poiché in tal caso avrebbe peccato nel fare quella promessa, e sarebbe stato giusto che cambiasse idea; secondo, se le circostanze relative alle persone o all’affare in questione sono cambiate. Come afferma Seneca (De Beneficiis iv), affinché un uomo sia obbligato a mantenere una promessa, è necessario che tutto rimanga immutato; altrimenti, né avrebbe mentito nel farla – poiché aveva promesso ciò che aveva in mente, presupponendo che le circostanze fossero tali da rendere la promessa possibile – né sarebbe stato infedele nell’non mantenerla, poiché le circostanze ora sono diverse. Pertanto, l’Apostolo, pur non essendo andato a Corinto, dove aveva promesso di recarsi (2 Corinzi 1), non ha mentito, poiché erano sorti ostacoli che glielo impedivano.
 
-<span class="atom-split" data-atom="388" data-title="Whether every lie is a sin? (parte 2)" data-chapter="Whether every lie is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="388" data-title="Whether every lie is a sin? (parte 2)" data-chapter="Whether every lie is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 6: An action may be considered in two ways. First, in itself, secondly, with
 regard to the agent. Accordingly a jocose lie, from the very genus of the action, is of a nature to
@@ -24757,7 +24768,7 @@ do or say a thing figuratively: because every statement must be referred to the 
 when a thing is done or said figuratively, it states what those to whom it is tendered understand it
 to signify."
 
-<span class="atom-split" data-atom="389" data-title="Whether every lie is a mortal sin?" data-chapter="Whether every lie is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="389" data-title="Whether every lie is a mortal sin?" data-chapter="Whether every lie is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that every lie is a mortal sin. For it is written (Ps. 6:7): "Thou wilt destroy
 all that speak a lie," and (Wis. 1:11): "The mouth that belieth killeth the soul." Now mortal sin
@@ -24877,7 +24888,7 @@ Risposta all’Obiezione 4: La menzogna delle levatrici può essere considerata 
 
 Risposta all’Obiezione 5: Alcuni sostengono che, per i perfetti, ogni menzogna sia un peccato mortale. Ma tale affermazione è irragionevole. Infatti, nessuna circostanza rende un peccato infinitamente più grave, a meno che non lo trasformi in un altro tipo di peccato. Ora, una caratteristica legata alla persona stessa non trasforma un peccato in un altro tipo di peccato, se non forse nel caso in cui tale caratteristica sia collegata a un voto o a un impegno specifico; e ciò non può applicarsi alle menzogne dettate per dovere o scherzosamente. Pertanto, una menzogna detta per dovere o scherzosamente non è considerata un peccato mortale nei perfetti, se non forse occasionalmente a causa dello scandalo che ne potrebbe derivare. In questo senso si può interpretare l’affermazione di Agostino secondo cui “è un precetto della perfezione non solo non mentire affatto, ma nemmeno desiderare di mentire”: anche se Agostino lo dice in modo dubitativo, poiché inizia dicendo “A meno che forse non sia un precetto, ”. Inoltre, il fatto che queste persone si trovino in una posizione che le obbliga a difendere la verità non cambia nulla: essendo infatti tenute a farlo per via del loro ruolo di giudici o insegnanti, mentire in tali ambiti significherebbe commettere un peccato mortale; ma ciò non implica che commettano un peccato mortale quando mentono in altri contesti.
 
-<span class="atom-split" data-atom="390" data-title="OF DISSIMULATION AND HYPOCRISY (FOUR ARTICLES)" data-chapter="OF DISSIMULATION AND HYPOCRISY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="390" data-title="OF DISSIMULATION AND HYPOCRISY (FOUR ARTICLES)" data-chapter="OF DISSIMULATION AND HYPOCRISY (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 In due sequence we must consider dissimulation and hypocrisy. Under this head there are four
 points of inquiry:
@@ -24894,7 +24905,7 @@ In sequenza, dobbiamo considerare la dissimulazione e l’ipocrisia. In questa c
 (3) Se sia contraria alla verità;  
 (4) Se sia un peccato mortale.
 
-<span class="atom-split" data-atom="391" data-title="Whether all dissimulation is a sin?" data-chapter="Whether all dissimulation is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="391" data-title="Whether all dissimulation is a sin?" data-chapter="Whether all dissimulation is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that not all dissimulation is a sin. For it is written (Lk. 24:28) that our
 Lord "pretended [Douay: 'made as though'] he would go farther"; and Ambrose in his book on the
@@ -24989,7 +25000,7 @@ Risposta all’Obiezione 3: Alcuni affermano che nessuno possa fingere di essere
 
 Risposta all’Obiezione 4: Proprio come un uomo mente quando con le parole afferma ciò che non è, ma non mente quando si astiene dal dire ciò che è, poiché tal comportamento può essere legittimo in alcuni casi; allo stesso modo, un uomo può anche nascondere la verità attraverso segni esteriori o azioni, senza per questo commettere inganno se si astiene dal dichiarare apertamente ciò che è. Pertanto, è possibile nascondere i propri peccati senza essere colpevoli di dissimulazione. È così che dobbiamo interpretare le parole di Gerolamo riguardo al versetto di Isaia 3:9, secondo cui “il secondo rimedio dopo un naufragio è nascondere i propri peccati”, affinché gli altri non ne vengano scandalizzati.
 
-<span class="atom-split" data-atom="392" data-title="Whether hypocrisy is the same as dissimulation?" data-chapter="Whether hypocrisy is the same as dissimulation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="392" data-title="Whether hypocrisy is the same as dissimulation?" data-chapter="Whether hypocrisy is the same as dissimulation?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that hypocrisy is not the same as dissimulation. For dissimulation consists
 in lying by deeds. But there may be hypocrisy in showing outwardly what one does inwardly,
@@ -25065,7 +25076,7 @@ Risposta all’Obiezione 2: L’abito di santità, ad esempio quello religioso o
 
 Risposta all’Obiezione 3: Nella dissimulazione, come nella menzogna, ci sono due elementi: uno rappresentato dal segno, l’altro dall’oggetto significato da quel segno. Pertanto, l’intenzione malvagia nell’ipocrisia viene considerata come l’oggetto significato, che non corrisponde al segno utilizzato per esprimerla; mentre le parole esterne, gli atti compiuti o qualsiasi altro elemento sensibile vengono considerati, in ogni caso di dissimulazione o menzogna, come il segno stesso.
 
-<span class="atom-split" data-atom="393" data-title="Whether hypocrisy is contrary to the virtue of truth?" data-chapter="Whether hypocrisy is contrary to the virtue of truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="393" data-title="Whether hypocrisy is contrary to the virtue of truth?" data-chapter="Whether hypocrisy is contrary to the virtue of truth?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that hypocrisy is not contrary to the virtue of truth. For in dissimulation
 or hypocrisy there is a sign and a thing signified. Now with regard to neither of these does it seem
@@ -25141,7 +25152,7 @@ Risposta all’Obiezione 2: Come già detto sopra (Q[55], AA[3],4,5), il vizio d
 
 Risposta all’Obiezione 3: La vittoria o la gloria rappresentano l’estremità più remota dell’atteggiamento del simulatore, così come del bugiardo. Pertanto, il loro significato non deriva da questa estremità, ma dall’estremità più immediata, ovvero dal desiderio di presentarsi diversi da ciò che si sono realmente. Per questo motivo, a volte una persona può fingere di possedere grandi qualità, senza alcun altro scopo se non quello della pura voglia di ipocrisia, come afferma il Filosofo nell’Etica IV, 7, e come abbiamo già detto in precedenza riguardo al comportamento del bugiardo (Q[110], A[2]).
 
-<span class="atom-split" data-atom="394" data-title="Whether hypocrisy is always a mortal sin?" data-chapter="Whether hypocrisy is always a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="394" data-title="Whether hypocrisy is always a mortal sin?" data-chapter="Whether hypocrisy is always a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that hypocrisy is always a mortal sin. For Jerome says on Is. 16:14: "Of
 the two evils it is less to sin openly than to simulate holiness": and a gloss on Job 1:21 [*St.
@@ -25199,7 +25210,7 @@ Al contrario, l’ipocrisia è una forma di menzogna attuata con azioni, poiché
 
 Rispondo che nell’ipocrisia vi sono due aspetti principali: la mancanza di santità e la simulazione di essa. Se con “ipocrita” intendiamo una persona il cui intento è sia quello di non essere sincera nella propria santità, sia quello di apparire tale, in questo senso le Sacre Scritture utilizzano effettivamente questo termine; è evidente che l’ipocrisia costituisca un peccato mortale: infatti nessuno viene completamente privato di santità se non a causa di un peccato mortale. Tuttavia, se con “ipocrita” intendiamo una persona che intende simulare la santità, pur essendone priva a causa di un peccato mortale, allora, anche se è colpevole di un peccato mortale e quindi priva di santità, la stessa simulazione non è sempre un peccato mortale, ma talvolta solo veniale. Ciò dipenderà dall’intento che guida tale comportamento: se esso è contrario all’amore di Dio o del prossimo, allora si tratta di un peccato mortale; ad esempio, se qualcuno simula la santità al fine di diffondere dottrine false, ottenere vantaggi ecclesiastici ingiustificati o qualsiasi bene temporale. Se invece l’intento non è contrario alla carità, allora si tratta di un peccato veniale; ad esempio, quando una persona trova piacere nella stessa simulazione: in questo caso, come affermato nell’Etica IV, 7, “si può dire che tale persona sia più vanitosa che malvagia”, poiché la simulazione è considerata, allo stesso modo della menzogna, un atto di vanità. A volte accade anche che una persona simuli una perfezione di santità che non è necessaria per il proprio benessere spirituale; in questo caso, tale simulazione non è sempre un peccato mortale, né è sempre associata a esso. Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="395" data-title="OF BOASTING (TWO ARTICLES)" data-chapter="OF BOASTING (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="395" data-title="OF BOASTING (TWO ARTICLES)" data-chapter="OF BOASTING (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider boasting and irony, which are parts of lying according to the Philosopher
 (Ethic. iv, 7). Under the first head, namely, boasting, there are two points of inquiry:
@@ -25212,7 +25223,7 @@ Dobbiamo ora considerare la vanteria e l’ironia, che, secondo il Filosofo, fan
 (1) A quale virtù è contraria?  
 (2) È un peccato mortale?
 
-<span class="atom-split" data-atom="396" data-title="Whether boasting is opposed to the virtue of truth?" data-chapter="Whether boasting is opposed to the virtue of truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="396" data-title="Whether boasting is opposed to the virtue of truth?" data-chapter="Whether boasting is opposed to the virtue of truth?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that boasting is not opposed to the virtue of truth. For lying is opposed
 to truth. But it is possible to boast even without lying, as when a man makes a show of his own
@@ -25287,7 +25298,7 @@ Risposta all’Obiezione 2: Il peccato della vanteria può essere considerato in
 
 Risposta all’Obiezione 3: La ricchezza provoca anche l’arroganza, in due modi. Primo, come causa occasionale: un uomo si vanta delle proprie ricchezze. Ecco perché (Proverbi 8:18) la ricchezza viene descritta esplicitamente come qualcosa che genera “orgoglio”. Secondo, poiché la ricchezza rappresenta spesso lo scopo stesso dell’arroganza; infatti, secondo l’Etica IV, 7, alcune persone si vantano non solo per gloria, ma anche per ottenere benefici materiali. Tali individui inventano storie su di sé al fine di trarne profitto: ad esempio, fingono di essere esperti in medicina, saggezza o divinazione.
 
-<span class="atom-split" data-atom="397" data-title="Whether boasting is a mortal sin?" data-chapter="Whether boasting is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="397" data-title="Whether boasting is a mortal sin?" data-chapter="Whether boasting is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that boasting is a mortal sin. For it is written (Prov. 28:25): "He that
 boasteth, and puffeth himself, stirreth up quarrels." Now it is a mortal sin to stir up quarrels, since
@@ -25300,7 +25311,7 @@ pride." Therefore boasting is a mortal sin.
 Objection 3: Further, boasting is a kind of lie. But it is neither an officious nor a jocose lie.
 This is evident from the end of lying; for according to the Philosopher (Ethic. iv, 7), "the boaster
 pretends to something greater than he is, sometimes for no further purpose, sometimes for the sake
-of glory or honor, sometimes for the sake of money." Thus it is evident that it is neither an officious
+of glory or honor, sometimes for the sake of [money](/concepts/money)." Thus it is evident that it is neither an officious
 nor a jocose lie, and consequently it must be a mischievous lie. Therefore seemingly it is always a
 mortal sin.
 
@@ -25369,7 +25380,7 @@ Risposta all’Obiezione 3: Il vaneggiare non comporta sempre una menzogna maliz
 (1) L’ironia è un peccato?  
 (2) In che modo si differenzia dal vaneggiare?
 
-<span class="atom-split" data-atom="398" data-title="Whether irony is a sin?" data-chapter="Whether irony is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="398" data-title="Whether irony is a sin?" data-chapter="Whether irony is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that irony, which consists in belittling oneself, is not a sin. For no sin
 arises from one's being strengthened by God: and yet this leads one to belittle oneself, according
@@ -25440,7 +25451,7 @@ Risposta all’Obiezione 2: È proprio di una mente ben disposta il fatto che un
 
 Risposta all’Obiezione 3: Un uomo non dovrebbe commettere un peccato al fine di evitarne un altro; pertanto non dovrebbe mentire in alcun modo per evitare l’orgoglio. Ecco perché Agostino afferma (Trattato xliii in Giovanni): “Evita l’arroganza affinché tu possa abbandonare la verità”; e Gregorio dice (Morali xxvi, 3) che “è un’umiltà imprudente quella che si avvolge nelle menzogne”.
 
-<span class="atom-split" data-atom="399" data-title="Whether irony is a less grievous sin than boasting?" data-chapter="Whether irony is a less grievous sin than boasting?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="399" data-title="Whether irony is a less grievous sin than boasting?" data-chapter="Whether irony is a less grievous sin than boasting?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that irony is not a less grievous sin than boasting. For each of them is a
 sin through forsaking truth, which is a kind of equality. But one does not forsake truth by exceeding
@@ -25507,7 +25518,7 @@ Risposta all’Obiezione 2: L’eccellenza è di due tipi: uno riguarda le cose 
 
 Risposta all’Obiezione 3: Secondo le parole dell’Ecclesiaste 19:23, “C’è colui che si umilia in modo malvagio, e il cui interno è pieno di inganno”; ed è in questo senso che Salomone parla dell’uomo che, attraverso un’umiltà ingannevole, “parla a bassa voce” in modo malvagio.
 
-<span class="atom-split" data-atom="400" data-title="OF THE FRIENDLINESS WHICH IS CALLED AFFABILITY (TWO ARTICLES)" data-chapter="OF THE FRIENDLINESS WHICH IS CALLED AFFABILITY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="400" data-title="OF THE FRIENDLINESS WHICH IS CALLED AFFABILITY (TWO ARTICLES)" data-chapter="OF THE FRIENDLINESS WHICH IS CALLED AFFABILITY (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/justice,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the friendliness which is called affability, and the opposite vices which
 are flattery and quarreling. Concerning friendliness or affability, there are two points of inquiry:
@@ -25520,7 +25531,7 @@ Dobbiamo ora considerare la cordialità, chiamata anche affabilità, nonché i v
 (1) Se si tratti di una virtù specifica;  
 (2) Se faccia parte della giustizia.
 
-<span class="atom-split" data-atom="401" data-title="Whether friendliness is a special virtue?" data-chapter="Whether friendliness is a special virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="401" data-title="Whether friendliness is a special virtue?" data-chapter="Whether friendliness is a special virtue?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that friendliness is not a special virtue. For the Philosopher says (Ethic.
 viii, 3) that "the perfect [friendship](/concepts/friendship) is that which is on account of virtue." Now any virtue is the
@@ -25602,7 +25613,7 @@ Risposta all’Obiezione 2: Ogni uomo è naturalmente amico di ogni altro, a cau
 
 Risposta all’Obiezione 3: Quando si dice che “il cuore del saggio è colmo di dolore”, non si intende che egli debba causare tristezza al proprio prossimo; l’Apostolo infatti afferma (Romani 14:15): “Se per causa del tuo cibo tuo fratello soffre, allora non agisci secondo la carità”. Si intende piuttosto che il saggio debba consolare coloro che sono nel dolore, come dice l’Ecclesiaste 7:38: “Non mancare di confortare coloro che piangono e stare al loro fianco nei momenti di lutto”. Allo stesso modo, quando si dice che “il cuore degli stolti è colmo di gioia”, non si intende che essi debbano rendere felici gli altri, ma che godano della loro felicità. Pertanto, spetta al saggio condividere le proprie gioie con coloro che vivono intorno a lui, ma non piaceri lussuriosi, che la virtù evita, bensì piaceri onesti, come dice il Salmo 132:1: “Vedi quanto è buono e gradito che i fratelli vivano insieme in armonia”. Tuttavia, come afferma il Filosofo (Etica IV, 6), per il bene che ne può derivare o per evitare un male, l’uomo virtuoso talvolta non esita a causare tristezza coloro con cui vive. Per questo motivo l’Apostolo dice (2 Corinzi 7:8): “Anche se con la mia lettera vi ho addolorati, non me ne pento”; e inoltre (2 Corinzi 7:9): “Sono lieto, non perché siate stati addolorati, ma perché questo dolore vi ha portato alla penitenza”. Per questa ragione non dovremmo mostrare un volto gioioso verso coloro che sono inclini al peccato, per non compiacerli e non sembrare di approvare il loro comportamento, incoraggiandoli così ad agire ancora peggio. È scritto infatti nell’Ecclesiaste 7:26: “Se hai figlie, prenditi cura del loro corpo e non mostrare un volto gioioso verso di loro”.
 
-<span class="atom-split" data-atom="402" data-title="Whether this kind of friendship is a part of justice?" data-chapter="Whether this kind of friendship is a part of justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="402" data-title="Whether this kind of friendship is a part of justice?" data-chapter="Whether this kind of friendship is a part of justice?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that this kind of [friendship](/concepts/friendship) is not a part of justice. For justice consists in
 giving another man his due. But this virtue does not consist in doing that, but in behaving agreeably
@@ -25663,7 +25674,7 @@ Risposta all’Obiezione 2: La temperanza consiste proprio nel moderare i piacer
 
 Risposta all’Obiezione 3: Questa affermazione del Filosofo non significa che si debba conversare e comportarsi allo stesso modo sia con conoscenti che con estranei; infatti, come egli stesso afferma nell’Etica iv, 6, “non è appropriato compiacere o dispiacere amici intimi ed estranei nello stesso modo”. Questa somiglianza consiste nel fatto che dobbiamo comportarci verso tutti in modo appropriato.
 
-<span class="atom-split" data-atom="403" data-title="OF FLATTERY (TWO ARTICLES)" data-chapter="OF FLATTERY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="403" data-title="OF FLATTERY (TWO ARTICLES)" data-chapter="OF FLATTERY (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the vices opposed to the aforesaid virtue: (1) Flattery, and (2) Quarreling.
 Concerning flattery there are two points of inquiry:
@@ -25677,7 +25688,7 @@ Per quanto riguarda l’adulazione, ci sono due questioni da esaminare:
 (1) Se l’adulazione sia un peccato;  
 (2) Se sia un peccato mortale.
 
-<span class="atom-split" data-atom="404" data-title="Whether flattery is a sin?" data-chapter="Whether flattery is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="404" data-title="Whether flattery is a sin?" data-chapter="Whether flattery is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that flattery is not a sin. For flattery consists in words of praise offered
 to another in order to please him. But it is not a sin to praise a person, according to Prov. 31:28,
@@ -25750,7 +25761,7 @@ Risposta all’Obiezione 2: Anche biasimare il male è peccaminoso, se non vengo
 
 Risposta all’Obiezione 3: Niente impedisce che due vizi siano reciprocamente contrari tra loro. Pertanto, proprio come la calunnia è un male, lo stesso vale per l’adulazione: quest’ultima è contraria alla calunnia riguardo al contenuto delle parole pronunciate, ma non necessariamente riguardo allo scopo che si persegue con entrambe. L’adulazione infatti mira a compiacere la persona adorata, mentre chi diffama non cerca necessariamente di causarle dispiacere; anzi, a volte diffama in segreto, pur cercando comunque di diffamare quella persona.
 
-<span class="atom-split" data-atom="405" data-title="Whether flattery is a mortal sin?" data-chapter="Whether flattery is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="405" data-title="Whether flattery is a mortal sin?" data-chapter="Whether flattery is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that flattery is a mortal sin. For, according to [Augustine](/figures/augustine) (Enchiridion
 xii), "a thing is evil because it is harmful." But flattery is most harmful, according to Ps. 9:24, "For
@@ -25821,7 +25832,7 @@ Risposta all’Obiezione 2: Questo argomento si applica a coloro che lusingano g
 
 Risposta all’Obiezione 3: Il passaggio citato si riferisce all’uomo che lusinga un altro in modo traditore, al fine di ingannarlo.
 
-<span class="atom-split" data-atom="406" data-title="OF QUARRELING (TWO ARTICLES)" data-chapter="OF QUARRELING (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="406" data-title="OF QUARRELING (TWO ARTICLES)" data-chapter="OF QUARRELING (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/friendship,concepts/virtue"></span>
 
 We must now consider quarreling; concerning which there are two points of inquiry:
 (1) Whether it is opposed to the virtue of [friendship](/concepts/friendship)?
@@ -25833,7 +25844,7 @@ Dobbiamo ora considerare il litigio; al riguardo ci sono due aspetti da esaminar
 (1) Se esso sia contrario alla virtù dell’[amicizia](/concepts/friendship);  
 (2) E quale sia il suo rapporto con l’adulazione.
 
-<span class="atom-split" data-atom="407" data-title="Whether quarreling is opposed to the virtue of friendship or affability?" data-chapter="Whether quarreling is opposed to the virtue of friendship or affability?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="407" data-title="Whether quarreling is opposed to the virtue of friendship or affability?" data-chapter="Whether quarreling is opposed to the virtue of friendship or affability?" data-kind="atom" data-srclang="en" data-tags="concepts/friendship,concepts/anger,concepts/virtue,concepts/charity"></span>
 
 Objection 1: It seems that quarreling is not opposed to the virtue of [friendship](/concepts/friendship) or affability.
 For quarreling seems to pertain to discord, just as contention does. But discord is opposed to charity,
@@ -25889,7 +25900,7 @@ Risposta all’Obiezione 2: L’opposizione diretta tra virtù e vizi non dipend
 
 Risposta all’Obiezione 3: In quel passaggio, Giacomo parla della concupiscenza considerata come un male generale da cui derivano tutti i vizi. Pertanto, una spiegazione di Romani 7:7 afferma: “La legge è buona, poiché, vietando la concupiscenza, vieta anche ogni male”.
 
-<span class="atom-split" data-atom="408" data-title="Whether quarreling is a more grievous sin than flattery?" data-chapter="Whether quarreling is a more grievous sin than flattery?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="408" data-title="Whether quarreling is a more grievous sin than flattery?" data-chapter="Whether quarreling is a more grievous sin than flattery?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that quarreling is a less grievous sin than the contrary vice, viz. adulation
 or flattery. For the more harm a sin does the more grievous it seems to be. Now flattery does more
@@ -25957,7 +25968,7 @@ Risposta all’Obiezione 2: Negli atti umani, ciò che è più grave non è semp
 
 Risposta all’Obiezione 3: Come indicato nell’obiezione stessa, la vergogna riguarda la malvagità di un peccato; pertanto, un uomo non si vergogna sempre di più per un peccato più grave, ma piuttosto per un peccato più spregevole. Ecco perché un uomo si vergogna di più della lusinga che del litigio, anche se il litigio è più grave.
 
-<span class="atom-split" data-atom="409" data-title="OF LIBERALITY (SIX ARTICLES)" data-chapter="OF LIBERALITY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="409" data-title="OF LIBERALITY (SIX ARTICLES)" data-chapter="OF LIBERALITY (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/justice,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider liberality and the opposite vices, namely, covetousness and prodigality.
 Concerning liberality there are six points of inquiry:
@@ -25979,7 +25990,7 @@ Per quanto riguarda la liberalità, ci sono sei punti da esaminare:
 (5) La liberalità fa parte della giustizia?  
 (6) Come si colloca rispetto ad altre virtù?
 
-<span class="atom-split" data-atom="410" data-title="Whether liberality is a virtue?" data-chapter="Whether liberality is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="410" data-title="Whether liberality is a virtue?" data-chapter="Whether liberality is a virtue?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that liberality is not a virtue. For no virtue is contrary to a natural
 inclination. Now it is a natural inclination for one to provide for oneself more than for others: and
@@ -26058,7 +26069,7 @@ Risposta all’Obiezione 2: Non spetta a un uomo libero donare tutte le proprie 
 
 Risposta all’Obiezione 3: Come afferma il Filosofo (Etica, iv, 1), “coloro che spendono molto in atti di intemperanza non sono generosi, ma dissipatori”; allo stesso modo, chi spende ciò che possiede per compiere altri peccati non è considerato generoso. Per questo Ambrogio dice (De Officium, i): “Se contribuisci a privare gli altri delle loro proprietà, la tua onestà non merita lode, né la tua generosità può essere considerata autentica se doni soltanto per vanteria e non per compassione”. Pertanto, coloro che mancano di altre virtù, anche se spendono molto in atti malvagi, non sono veramente generosi. Inoltre, nulla impedisce a alcune persone di spendere molto in opere buone, senza possedere la vera abitudine alla generosità; proprio come le persone compiono atti di altre virtù prima ancora di averne acquisito l’abitudine, anche se non nello stesso modo dei veri virtuosi, come detto sopra (FS, Q[65], A[1]). Allo stesso modo, nulla impedisce a una persona virtuosa di essere generosa, anche se è povera. Per questo il Filosofo dice (Etica, iv, 1): “La generosità è proporzionale alle risorse di una persona”, cioè ai suoi mezzi; “infatti non consiste nella quantità donata, ma nell’abitudine del donatore”. E Ambrogio aggiunge (De Officium, i) che “è il cuore a rendere un dono ricco o povero, e a dare alle cose il loro vero valore”.
 
-<span class="atom-split" data-atom="411" data-title="Whether liberality is about money?" data-chapter="Whether liberality is about money?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="411" data-title="Whether liberality is about money?" data-chapter="Whether liberality is about money?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that liberality is not about money. For every moral virtue is about
 operations and passions. Now it is proper to justice to be about operations, as stated in Ethic. v, 1.
@@ -26117,9 +26128,9 @@ Risposta all’Obiezione 2: Come afferma [Agostino](/figures/augustine) nel suo 
 
 Risposta all’Obiezione 3: La giustizia stabilisce l’uguaglianza nelle cose esterne, ma non ha nulla a che fare, in senso proprio, con la regolamentazione delle passioni interne; per questo motivo, il denaro rappresenta, da un lato, l’elemento fondamentale della generosità e, dall’altro, dell’equità.
 
-<span class="atom-split" data-atom="412" data-title="Whether using money is the act of liberality?" data-chapter="Whether using money is the act of liberality?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="412" data-title="Whether using money is the act of liberality?" data-chapter="Whether using money is the act of liberality?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
-Objection 1: It seems that using money is not the act of liberality. For different virtues have
+Objection 1: It seems that using [money](/concepts/money) is not the act of liberality. For different virtues have
 different acts. But using money is becoming to other virtues, such as justice and magnificence.
 Therefore it is not the proper act of liberality.
 
@@ -26186,7 +26197,7 @@ Risposta all’Obiezione 2: Spetta a un uomo virtuoso non solo utilizzare al meg
 
 Risposta all’Obiezione 3: Come dichiarato in (A[2], ad 1), le passioni interne che influenzano l’uomo riguardo al denaro costituiscono la materia immediata della liberalità. Pertanto, è fondamentale che a nessuno venga impedito di utilizzare il denaro nel modo dovuto, a causa di un affetto eccessivo per esso. Esistono due tipi principali di utilizzo del denaro: uno consiste nell’impiegarlo per i propri bisogni personali, e questo aspetto rientra nella categoria delle spese; l’altro consiste nel destinarlo al servizio degli altri, e questo rientra nella categoria dei doni. Pertanto, è proprio della liberalità che nessuno venga ostacolato da un amore smisurato per il denaro, né nell’utilizzarlo in modo appropriato, né nel fare doni adeguati. Quindi, secondo il Filosofo (Etica, iv, 1), la liberalità riguarda sia il dare che lo spendere. L’aforisma di Seneca si riferisce esattamente al concetto di liberalità nel contesto del donare: infatti, non si può dire che un uomo sia liberale perché dona qualcosa a se stesso.
 
-<span class="atom-split" data-atom="413" data-title="Whether it belongs to a liberal man chiefly to give?" data-chapter="Whether it belongs to a liberal man chiefly to give?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="413" data-title="Whether it belongs to a liberal man chiefly to give?" data-chapter="Whether it belongs to a liberal man chiefly to give?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that it does not belong to a liberal man chiefly to give. For liberality,
 like all other moral virtues, is regulated by prudence. Now it seems to belong very much to prudence
@@ -26274,7 +26285,7 @@ Risposta all’Obiezione 3: Dare e ricevere sono correlati tra loro come azione 
 
 Risposta all’Obiezione 4: Spendere per sé stesso è un’inclinazione naturale; pertanto, spendere denaro per gli altri rientra propriamente nella categoria delle virtù.
 
-<span class="atom-split" data-atom="414" data-title="Whether liberality is a part of justice?" data-chapter="Whether liberality is a part of justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="414" data-title="Whether liberality is a part of justice?" data-chapter="Whether liberality is a part of justice?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that liberality is not a part of justice. For justice regards that which is
 due. Now the more a thing is due the less liberally is it given. Therefore liberality is not a part of
@@ -26332,7 +26343,7 @@ Risposta all’Obiezione 2: La temperanza riguarda la concupiscenza nei piaceri 
 
 Risposta all’Obiezione 3: L’atto di concedere benefici e misericordia deriva dal fatto che una persona provi un certo affetto verso la persona a cui li dona; pertanto tale atto rientra nella sfera della carità o dell’[amicizia](/concepts/friendship). Invece, l’atto di essere generosi deriva dal fatto che una persona non desideri né ami il denaro; perciò, quando è opportuno, lo dona non solo ai propri amici, ma anche a persone che non conosce. Quindi tale atto non rientra nella sfera della carità, bensì in quella della giustizia, che riguarda le cose esterne.
 
-<span class="atom-split" data-atom="415" data-title="Whether liberality is the greatest of the virtues?" data-chapter="Whether liberality is the greatest of the virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="415" data-title="Whether liberality is the greatest of the virtues?" data-chapter="Whether liberality is the greatest of the virtues?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that liberality is the greatest of the virtues. For every virtue of man is a
 likeness to the divine goodness. Now man is likened chiefly by liberality to God, "Who giveth to
@@ -26401,7 +26412,7 @@ Risposta all’Obiezione 2: Ogni virtù condivide la natura del bene, poiché ge
 
 Risposta all’Obiezione 3: L’[amicizia](/concepts/friendship) per mezzo della quale un uomo liberale è amato non si basa sulla virtù, come se fosse migliore degli altri, ma sull’[utilità](/positions/utility_pleasure), poiché è più prezioso in termini di beni esteriori, che di solito gli uomini desiderano sopra ogni altra cosa. Per lo stesso motivo diventa famoso.
 
-<span class="atom-split" data-atom="416" data-title="OF THE VICES OPPOSED TO LIBERALITY, AND IN THE FIRST PLACE, OF COVETOUSNESS (EIGHT ARTICLES)" data-chapter="OF THE VICES OPPOSED TO LIBERALITY, AND IN THE FIRST PLACE, OF COVETOUSNESS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="416" data-title="OF THE VICES OPPOSED TO LIBERALITY, AND IN THE FIRST PLACE, OF COVETOUSNESS (EIGHT ARTICLES)" data-chapter="OF THE VICES OPPOSED TO LIBERALITY, AND IN THE FIRST PLACE, OF COVETOUSNESS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the vices opposed to liberality: and (1) covetousness; (2) prodigality.
 Under the first head there are eight points of inquiry:
@@ -26427,7 +26438,7 @@ Sotto questa prima categoria esistono otto punti da esaminare:
 (7) Se sia un vizio capitale;  
 (8) E, infine, le sue manifestazioni più specifiche.
 
-<span class="atom-split" data-atom="417" data-title="Whether covetousness is a sin?" data-chapter="Whether covetousness is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="417" data-title="Whether covetousness is a sin?" data-chapter="Whether covetousness is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that covetousness is not aa sin. For covetousness [avaritia] denotes a
 certain greed for gold [aeris aviditas*], because, to wit, it consists in a desire for money, under
@@ -26503,7 +26514,7 @@ Risposta all’Obiezione 2: L’avidità può indicare un eccesso di desiderio p
 
 Risposta all’Obiezione 3: Le inclinazioni naturali dovrebbero essere regolate secondo la ragione, che è il potere dominante nella [natura umana](/axes/human_nature). Pertanto, anche se gli anziani cercano con maggiore avidità l’aiuto delle cose esterne, proprio come chiunque si trovi in difficoltà cerca di soddisfare le proprie esigenze, non sono scusati dal peccato se superano questa misura dovuta della ragione riguardo alle ricchezze.
 
-<span class="atom-split" data-atom="418" data-title="Whether covetousness is a special sin?" data-chapter="Whether covetousness is a special sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="418" data-title="Whether covetousness is a special sin?" data-chapter="Whether covetousness is a special sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that covetousness is not a special sin. For [Augustine](/figures/augustine) says (De Lib. Arb.
 iii): "Covetousness, which in Greek is called {philargyria}, applies not only to silver or money,
@@ -26570,7 +26581,7 @@ Risposta all’Obiezione 2: Tutti quegli oggetti esterni che sono utilizzabili n
 
 Risposta all’Obiezione 3: Questo commento si riferisce alla concupiscenza eccessiva per qualsiasi cosa. È infatti facile comprendere che, se è vietato desiderare le proprietà altrui, è altrettanto vietato desiderare quelle cose che possono essere ottenute attraverso tali proprietà.
 
-<span class="atom-split" data-atom="419" data-title="Whether covetousness is opposed to liberality?" data-chapter="Whether covetousness is opposed to liberality?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="419" data-title="Whether covetousness is opposed to liberality?" data-chapter="Whether covetousness is opposed to liberality?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that covetousness is not opposed to liberality. For Chrysostom,
 commenting on Mat. 5:6, "Blessed are they that hunger and thirst after justice," says, (Hom. xv in
@@ -26586,7 +26597,7 @@ Objection 3: Further, liberality is a virtue that observes the mean between two 
 as the Philosopher states (Ethic. i, 7; iv, 1). But covetousness has no contrary and opposite sin,
 according to the Philosopher (Ethic. v, 1,2). Therefore covetousness is not opposed to liberality.
 
-On the contrary, It is written (Eccles. 5:9): "A covetous man shall not be satisfied with money,
+On the contrary, It is written (Eccles. 5:9): "A covetous man shall not be satisfied with [money](/concepts/money),
 and he that loveth riches shall have no fruits from them." Now not to be satisfied with money and
 to love it inordinately are opposed to liberality, which observes the mean in the desire of riches.
 Therefore covetousness is opposed to liberality.
@@ -26637,7 +26648,7 @@ Risposta all’Obiezione 2: È proprio della giustizia stabilire la misura appro
 
 Risposta all’Obiezione 3: L’avidità, in contrapposizione alla giustizia, non presenta alcun vizio opposto; poiché consiste nel possedere più di quanto si debba secondo i principi della giustizia – il cui contrario sarebbe possedere meno di quanto si debba – ciò che ne deriva non è un peccato, ma una punizione. Tuttavia, l’avidità, in contrapposizione alla generosità, presenta come vizio opposto la prodigalità.
 
-<span class="atom-split" data-atom="420" data-title="Whether covetousness is always a mortal sin?" data-chapter="Whether covetousness is always a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="420" data-title="Whether covetousness is always a mortal sin?" data-chapter="Whether covetousness is always a mortal sin?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/justice,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that covetousness is always a mortal sin. For no one is worthy of death
 save for a mortal sin. But men are worthy of death on account of covetousness. For the Apostle
@@ -26705,7 +26716,7 @@ Risposta all’Obiezione 2: Basilio si riferisce al caso in cui un uomo sia obbl
 
 Risposta all’Obiezione 3: La brama di ricchezze, in senso proprio, porta oscurità nell’anima, quando soffoca la luce della carità, preferendo l’amore per le ricchezze all’amore per Dio.
 
-<span class="atom-split" data-atom="421" data-title="Whether covetousness is the greatest of sins?" data-chapter="Whether covetousness is the greatest of sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="421" data-title="Whether covetousness is the greatest of sins?" data-chapter="Whether covetousness is the greatest of sins?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that covetousness is the greatest of sins. For it is written (Ecclus. 10:9):
 "Nothing is more wicked than a covetous man," and the text continues: "There is not a more wicked
@@ -26796,7 +26807,7 @@ Risposta all’Obiezione 3: Il peccato contro lo Spirito Santo è incurabile in 
 
 Risposta all’Obiezione 4: L’avidità viene paragonata all’idolatria a causa di una certa somiglianza che presenta con essa: infatti, l’uomo avido, proprio come l’idolatra, si sottomette a una creatura esterna, sebbene non nello stesso modo. L’idolatra, infatti, si sottomette a quella creatura riconoscendole un’onore divina, mentre l’uomo avido la desidera in modo eccessivo per il proprio uso personale, e non per scopi di [adorazione](/concepts/religion). Pertanto, non segue affatto che l’avidità sia un peccato altrettanto grave dell’idolatria.
 
-<span class="atom-split" data-atom="422" data-title="Whether covetousness is a spiritual sin?" data-chapter="Whether covetousness is a spiritual sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="422" data-title="Whether covetousness is a spiritual sin?" data-chapter="Whether covetousness is a spiritual sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that covetousness is not a spiritual sin. For spiritual sins seem to regard
 spiritual goods. But the matter of covetousness is bodily goods, namely, external riches. Therefore
@@ -26858,7 +26869,7 @@ Risposta all’Obiezione 2: Il movimento riceve la sua specifica dal termine “
 
 Risposta all’Obiezione 3: Crisostomo paragona l’uomo avaro a colui che era posseduto dal diavolo, non perché il primo sia afflitto nel corpo nello stesso modo del secondo, ma al contrario: mentre l’uomo posseduto, di cui leggiamo in Marco 5, si spogliava di tutto ciò che aveva, l’uomo avaro si carica di un eccesso di ricchezze.
 
-<span class="atom-split" data-atom="423" data-title="Whether covetousness is a capital vice?" data-chapter="Whether covetousness is a capital vice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="423" data-title="Whether covetousness is a capital vice?" data-chapter="Whether covetousness is a capital vice?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that covetousness is not a capital vice. For covetousness is opposed to
 liberality as the mean, and to prodigality as extreme. But neither is liberality a principal virtue, nor
@@ -26885,7 +26896,7 @@ wherefore the more a thing is furnished with the conditions of happiness, the mo
 Also one of the conditions of happiness is that it be self-sufficing, else it would not set man's appetite
 at rest, as the last end does. Now riches give great promise of self-sufficiency, as Boethius says
 (De Consol. iii): the reason of which, according to the Philosopher (Ethic. v, 5), is that we "use
-money in token of taking possession of something," and again it is written (Eccles. 10:19): "All
+[money](/concepts/money) in token of taking [possession](/concepts/property) of something," and again it is written (Eccles. 10:19): "All
 things obey money." Therefore covetousness, which is desire for money, is a capital vice.
 
 Reply to Objection 1: Virtue is perfected in accordance with reason, but vice is perfected in
@@ -26924,7 +26935,7 @@ Risposta all’Obiezione 2: È vero che il denaro è utilizzato per ottenere alt
 
 Risposta all’Obiezione 3: Nulla impedisce che un vizio capitale derivi talvolta da altri vizi, come già detto sopra (Q[36], A[4], ad 1; FS, Q[84], A[4]), purché esso stesso sia spesso la fonte di altri vizi.
 
-<span class="atom-split" data-atom="424" data-title="Whether treachery, fraud, falsehood, perjury, restlessness, violence, and insensibility to mercy are daughters of covetousness?" data-chapter="Whether treachery, fraud, falsehood, perjury, restlessness, violence, and insensibility to mercy are daughters of covetousness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="424" data-title="Whether treachery, fraud, falsehood, perjury, restlessness, violence, and insensibility to mercy are daughters of covetousness?" data-chapter="Whether treachery, fraud, falsehood, perjury, restlessness, violence, and insensibility to mercy are daughters of covetousness?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the daughters of covetousness are not as commonly stated, namely,
 "treachery, fraud, falsehood, perjury, restlessness, violence, and insensibility to mercy." For
@@ -27021,7 +27032,7 @@ Risposta all’Obiezione 4: I vizi menzionati da [Aristotele](/figures/aristotle
 
 Risposta all’Obiezione 5: Proprio come la liberalità riguarda somme di denaro modeste, lo stesso vale per l’illiberalità. Pertanto, i tiranni che si impossessano di grandi ricchezze con la violenza non vengono considerati illiberali, ma ingiusti.
 
-<span class="atom-split" data-atom="425" data-title="OF PRODIGALITY (THREE ARTICLES)" data-chapter="OF PRODIGALITY (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="425" data-title="OF PRODIGALITY (THREE ARTICLES)" data-chapter="OF PRODIGALITY (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider prodigality, under which head there are three points of inquiry:
 (1) Whether prodigality is opposite to covetousness?
@@ -27035,7 +27046,7 @@ Dobbiamo ora considerare la prodigalità, sotto questa categoria esistono tre pu
 (2) Se la prodigalità sia un peccato;  
 (3) Se sia un peccato più grave dell’avarizia.
 
-<span class="atom-split" data-atom="426" data-title="Whether prodigality is opposite to covetousness?" data-chapter="Whether prodigality is opposite to covetousness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="426" data-title="Whether prodigality is opposite to covetousness?" data-chapter="Whether prodigality is opposite to covetousness?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that prodigality is not opposite to covetousness. For opposites cannot be
 together in the same subject. But some are at the same time prodigal and covetous. Therefore
@@ -27105,7 +27116,7 @@ Risposta all’Obiezione 2: La prodigalità riguarda le passioni in relazione al
 
 Risposta all’Obiezione 3: Il dissipatore non eccede sempre nel spendere per il gusto di piaceri che rientrano nell’ambito della temperanza; a volte lo fa perché è indifferente alle ricchezze, altre volte per altri motivi. Tuttavia, più spesso tende verso l’intemperanza: da un lato, perché spendendo troppo in altre cose diventa disinvolto nel destinare denaro ai piaceri, verso i quali la concupiscenza del corpo è particolarmente incline; dall’altro, perché non trovando gioia nei beni virtuosi, cerca soddisfazioni materiali. Ecco perché il Filosofo afferma (Etica, iv, 1) che “molti dissipatori finiscono per diventare intemperanti”.
 
-<span class="atom-split" data-atom="427" data-title="Whether prodigality is a sin?" data-chapter="Whether prodigality is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="427" data-title="Whether prodigality is a sin?" data-chapter="Whether prodigality is a sin?" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/concupiscence,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that prodigality is not a sin. For the Apostle says (1 Tim. 6:10):
 "Covetousness [Douay: 'desire of money'] is the root of all evils." But it is not the root of prodigality,
@@ -27170,7 +27181,7 @@ Risposta all’Obiezione 2: L’Apostolo esorta i ricchi ad essere pronti a dona
 
 Risposta all’Obiezione 3: L’eccesso nella prodigalità consiste principalmente non nell’importo totale dato, ma nell’ammontare che va oltre ciò che sarebbe dovuto essere dato. Pertanto, a volte una persona generosa dà di più rispetto al dissipatore, se necessario. Di conseguenza, dobbiamo affermare che coloro che donano tutte le loro proprietà con l’intenzione di seguire Cristo e scacciano dalla propria mente qualsiasi preoccupazione per le cose temporali non sono dissipatori, ma persone estremamente generose.
 
-<span class="atom-split" data-atom="428" data-title="Whether prodigality is a more grievous sin than covetousness?" data-chapter="Whether prodigality is a more grievous sin than covetousness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="428" data-title="Whether prodigality is a more grievous sin than covetousness?" data-chapter="Whether prodigality is a more grievous sin than covetousness?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that prodigality is a more grievous sin than covetousness. For by
 covetousness a man injures his neighbor by not communicating his goods to him, whereas by
@@ -27248,7 +27259,7 @@ Risposta all’Obiezione 2: Parlando dei vizi in generale, li giudichiamo in bas
 
 Risposta all’Obiezione 3: Tutti i vizi sono contrari alla prudenza, proprio come tutte le virtù sono guidate dalla prudenza; pertanto, se un vizio è contrario soltanto alla prudenza, proprio per questo motivo viene ritenuto meno grave.
 
-<span class="atom-split" data-atom="429" data-title="OF \&quot;EPIKEIA\&quot; OR EQUITY (TWO ARTICLES)" data-chapter="OF \&quot;EPIKEIA\&quot; OR EQUITY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="429" data-title="OF \&quot;EPIKEIA\&quot; OR EQUITY (TWO ARTICLES)" data-chapter="OF \&quot;EPIKEIA\&quot; OR EQUITY (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/justice,forms/quaestio"></span>
 
 # OF "EPIKEIA" OR EQUITY (TWO ARTICLES)
 
@@ -27264,7 +27275,7 @@ Dobbiamo ora considerare il concetto di “epikeia”; in questo ambito vi sono 
 (1) Se l’“epikeia” sia una virtù;  
 (2) Se faccia parte della giustizia.
 
-<span class="atom-split" data-atom="430" data-title="Whether \&quot;epikeia\&quot; [*{epieikeia}] is a virtue?" data-chapter="Whether \&quot;epikeia\&quot; [*{epieikeia}] is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="430" data-title="Whether \&quot;epikeia\&quot; [*{epieikeia}] is a virtue?" data-chapter="Whether \&quot;epikeia\&quot; [*{epieikeia}] is a virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/justice,concepts/law,figures/aristotle,figures/augustine"></span>
 
 # Whether "epikeia" [*{epieikeia}] is a virtue?
 
@@ -27334,7 +27345,7 @@ Risposta all’Obiezione 2: Affermare che una legge non sia stata redatta corret
 
 Risposta all’Obiezione 3: L’interpretazione è ammissibile nei casi dubbi, quando non è consentito ignorare la lettera della legge senza un’interpretazione da parte del sovrano. Ma quando il caso è chiaro e evidente, non c’è bisogno di interpretazioni, bensì dell’applicazione diretta della legge stessa.
 
-<span class="atom-split" data-atom="431" data-title="Whether \&quot;epikeia\&quot; is a part of justice?" data-chapter="Whether \&quot;epikeia\&quot; is a part of justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="431" data-title="Whether \&quot;epikeia\&quot; is a part of justice?" data-chapter="Whether \&quot;epikeia\&quot; is a part of justice?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 # Whether "epikeia" is a part of justice?
 
@@ -27405,7 +27416,7 @@ Risposta all’Obiezione 2: Come afferma il Filosofo (Etica, v, 10), “l’epik
 
 Risposta all’Obiezione 3: L’“epikeia” ha il compito di moderare qualcosa, in particolare l’osservanza letterale della legge. Ma la modestia, considerata parte della temperanza, modera la vita esteriore dell’uomo – ad esempio nel suo comportamento, nel suo abbigliamento e simili. È possibile che il termine “epikeia” venga utilizzato in greco anche per indicare ogni tipo di moderazione.
 
-<span class="atom-split" data-atom="432" data-title="OF PIETY (TWO ARTICLES)" data-chapter="OF PIETY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="432" data-title="OF PIETY (TWO ARTICLES)" data-chapter="OF PIETY (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the gift that corresponds to justice; namely, piety. Under this head there
 are two points of inquiry:
@@ -27418,7 +27429,7 @@ Dobbiamo ora considerare il dono che corrisponde alla giustizia, ovvero la piet�
 (1) Se si tratti di un dono dello Spirito Santo;  
 (2) A quale delle beatitudini e dei frutti della fede esso corrisponda.
 
-<span class="atom-split" data-atom="433" data-title="Whether piety is a gift?" data-chapter="Whether piety is a gift?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="433" data-title="Whether piety is a gift?" data-chapter="Whether piety is a gift?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that piety is not a gift. For the gifts differ from the virtues, as stated above
 (FS, Q[68], A[1]). But piety is a virtue, as stated above (Q[101], A[3]). Therefore piety is not a
@@ -27483,7 +27494,7 @@ Risposta all’Obiezione 2: Rendere culto a Dio come Creatore, come fa la religi
 
 Risposta all’Obiezione 3: Poiché per virtù della pietà l’uomo rende omaggio e tributo non solo al proprio padre carnale, ma anche a tutti i suoi parenti in quanto legati a lui da vincoli di sangue, allo stesso modo, per dono della pietà, rende omaggio e tributo non solo a Dio, ma anche a tutti gli uomini in quanto connessi a Lui. Pertanto, onorare i santi rientra nella natura stessa della pietà; ciò non contraddice affatto le Scritture, che si comprendano o meno, come afferma [Agostino](/figures/augustine) (De Doctrina Christiana ii). Inoltre, tale atto aiuta coloro che si trovano in uno stato di sfortuna. E sebbene questo comportamento non abbia alcun ruolo in cielo, soprattutto dopo il Giorno del Giudizio, la pietà compie comunque la sua funzione principale: quella di venerare Dio con affetto filiale. Infatti, sarà proprio allora che tale atto verrà pienamente realizzato, secondo quanto dice la Sapienza 5:5: “Ecco come sono annoverati tra i figli di Dio”. I santi si onoreranno a vicenda; tuttavia, prima del Giorno del Giudizio, provano compassione anche per coloro che vivono in questo stato di miseria.
 
-<span class="atom-split" data-atom="434" data-title="Whether the second beatitude, \&quot;Blessed are the meek,\&quot; corresponds to the gift of piety?" data-chapter="Whether the second beatitude, \&quot;Blessed are the meek,\&quot; corresponds to the gift of piety?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="434" data-title="Whether the second beatitude, \&quot;Blessed are the meek,\&quot; corresponds to the gift of piety?" data-chapter="Whether the second beatitude, \&quot;Blessed are the meek,\&quot; corresponds to the gift of piety?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 # Whether the second beatitude, "Blessed are the meek," corresponds to the gift of piety?
 
@@ -27542,7 +27553,7 @@ Risposta all’Obiezione 2: Se si considerano le beatitudini e i doni secondo la
 
 Risposta all’Obiezione 3: Nei frutti della pietà, la bontà e la benevolenza possono essere attribuite direttamente alla stessa; la mitezza, invece, può essere considerata indirettamente tale, nella misura in cui elimina gli ostacoli che potrebbero impedire l’esercizio della pietà, come già detto in precedenza.
 
-<span class="atom-split" data-atom="435" data-title="OF THE PRECEPTS OF JUSTICE (SIX ARTICLES)" data-chapter="OF THE PRECEPTS OF JUSTICE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="435" data-title="OF THE PRECEPTS OF JUSTICE (SIX ARTICLES)" data-chapter="OF THE PRECEPTS OF JUSTICE (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/justice,concepts/divine_law"></span>
 
 We must now consider the precepts of justice, under which head there are six points of inquiry:
 (1) Whether the precepts of the decalogue are precepts of justice?
@@ -27562,7 +27573,7 @@ Dobbiamo ora considerare i precetti della giustizia; in questa categoria esiston
 (5) Del quarto;  
 (6) Degli altri sei.
 
-<span class="atom-split" data-atom="436" data-title="Whether the precepts of the decalogue are precepts of justice?" data-chapter="Whether the precepts of the decalogue are precepts of justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="436" data-title="Whether the precepts of the decalogue are precepts of justice?" data-chapter="Whether the precepts of the decalogue are precepts of justice?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the precepts of the decalogue are not precepts of justice. For the
 intention of a lawgiver is "to make the citizens virtuous in respect of every virtue," as stated in
@@ -27639,7 +27650,7 @@ Risposta all’Obiezione 3: Le cose che riguardano il bene comune devono necessa
 
 Risposta all’Obiezione 4: I precetti del decalogo riguardano la carità come loro fine, secondo 1 Timoteo 1:5: “Il fine della legge è la carità”; tuttavia appartengono anche alla giustizia, in quanto si riferiscono direttamente ad atti di giustizia.
 
-<span class="atom-split" data-atom="437" data-title="Whether the first precept of the decalogue is fittingly expressed?" data-chapter="Whether the first precept of the decalogue is fittingly expressed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="437" data-title="Whether the first precept of the decalogue is fittingly expressed?" data-chapter="Whether the first precept of the decalogue is fittingly expressed?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the first precept of the decalogue is unfittingly expressed. For man
 is more bound to God than to his father in the flesh, according to Heb. 12:9, "How much more shall
@@ -27715,7 +27726,7 @@ Risposta all’Obiezione 2: Le persone adoravano dèi strani in due modi. Alcuni
 
 Risposta all’Obiezione 3: Tutti gli altri tipi di superstizione derivano da qualche tipo di accordo, sia tacito che esplicito, con i demoni; pertanto si può ritenere che siano tutti proibiti dalle parole “Non avrai dèi stranieri”.
 
-<span class="atom-split" data-atom="438" data-title="Whether the second precept of the decalogue is fittingly expressed?" data-chapter="Whether the second precept of the decalogue is fittingly expressed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="438" data-title="Whether the second precept of the decalogue is fittingly expressed?" data-chapter="Whether the second precept of the decalogue is fittingly expressed?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the second precept of the decalogue is unfittingly expressed. For
 this precept, "Thou shalt not take the name of thy God in vain" is thus explained by a gloss on Ex.
@@ -27815,7 +27826,7 @@ Risposta all’Obiezione 4: Proprio come quando insegniamo a qualcuno una determ
 
 Risposta all’Obiezione 5: La reverenza dovuta ai nomi divini deve essere resa da ciò che quei nomi designano, che è uno solo, e non dalle parole che li esprimono, che sono molteplici. Per questo motivo tale reverenza viene espressa al singolare: “Non pronuncerai il nome del tuo Dio invano”; infatti non importa con quale dei nomi di Dio si compia il perjurio.
 
-<span class="atom-split" data-atom="439" data-title="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed? (parte 1)" data-chapter="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="439" data-title="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed? (parte 1)" data-chapter="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the third precept of the decalogue, concerning the hallowing of the
 Sabbath, is unfittingly expressed. For this, understood spiritually, is a general precept: since Bede
@@ -27901,7 +27912,7 @@ Risposta all’Obiezione 1: Il precetto relativo al rispetto del Sabato, inteso 
 
 Risposta all’Obiezione 2: Le altre cerimonie della Legge sono segni di determinati atti divini specifici; ma il rispetto del Sabato rappresenta un dono universale, ovvero la creazione di tutte le creature. Pertanto, era appropriato che fosse incluso tra i precetti generali del Decalogo, piuttosto che tra qualsiasi altro precetto cerimoniale della Legge.
 
-<span class="atom-split" data-atom="440" data-title="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed? (parte 2)" data-chapter="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="440" data-title="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed? (parte 2)" data-chapter="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed?" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/divine_law,concepts/custom,figures/augustine"></span>
 
 Reply to Objection 3: Two things are to be observed in the hallowing of the Sabbath. One of
 these is the end: and this is that man occupy himself with Divine things, and is signified in the
@@ -27973,7 +27984,7 @@ Le donne di quei tempi avrebbero fatto meglio a tessere stoffe di lino nel giorn
 
 Risposta all’Obiezione 4: Nel Nuovo Testamento, la osservanza della Domenica ha sostituito l’osservanza del Sabato, non per virtù di un precetto divino, ma a causa dell’instituzione della Chiesa e della [consuetudine](/concepts/custom) del popolo cristiano. Questa osservanza, infatti, non è simbolica, come lo era quella del Sabato nel Vecchio Testamento. Per questo motivo, il divieto di lavorare nella Domenica non è così rigoroso come quello del Sabato: sono permessi alcuni lavori che nel Sabato erano proibiti, come la preparazione del cibo, ecc. Inoltre, nel Nuovo Testamento le deroghe vengono concesse più facilmente rispetto al Vecchio Testamento, soprattutto per quanto riguarda certi lavori vietati, in considerazione della loro necessità. Il simbolo, infatti, ha lo scopo di manifestare la verità, e non è lecito trascurarlo nemmeno nelle cose più piccole; mentre i lavori, in sé considerati, possono variare in base al luogo e al tempo in cui vengono eseguiti.
 
-<span class="atom-split" data-atom="441" data-title="Whether the fourth precept, about honoring one's parents, is fittingly expressed?" data-chapter="Whether the fourth precept, about honoring one's parents, is fittingly expressed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="441" data-title="Whether the fourth precept, about honoring one's parents, is fittingly expressed?" data-chapter="Whether the fourth precept, about honoring one's parents, is fittingly expressed?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,concepts/justice,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the fourth precept, about honoring one's parents, is unfittingly
 expressed. For this is the precept pertaining to piety. Now, just as piety is a part of justice, so are
@@ -28056,7 +28067,7 @@ Risposta all’Obiezione 3: L’onore dovuto ai genitori deriva dalla loro stess
 
 Risposta all’Obiezione 4: A coloro che onorano i propri genitori viene promessa una vita lunga, non solo nella vita futura, ma anche in questa presente, secondo quanto afferma l’Apostolo (1 Timoteo 4:8): “La pietà è utile per tutte le cose, poiché promette sia la vita presente che quella futura”. E ciò ha senso: colui che è grato per un favore merita, in qualche modo, che quel favore continui; al contrario, chi è ingrato merita di perderlo. Noi dobbiamo alla nostra vita fisica il merito ai nostri genitori, dopo Dio stesso; pertanto, colui che onora i propri genitori merita che la sua vita si prolunghi, poiché è grato per quel favore; mentre chi non li onora merita di essere privato della vita, perché è ingrato. Tuttavia, i beni o i mali presenti non costituiscono oggetto di merito o demerito se non nella misura in cui sono diretti verso una ricompensa futura, come già detto (FS, Q[114], A[12]). Pertanto, a volte, secondo il disegno nascosto delle giustizie divine che riguardano principalmente la ricompensa futura, alcuni che sono devoti ai propri genitori perdono la vita prima di altri, mentre coloro che non lo sono vivono più a lungo.
 
-<span class="atom-split" data-atom="442" data-title="Whether the other six precepts of the decalogue are fittingly expressed?" data-chapter="Whether the other six precepts of the decalogue are fittingly expressed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="442" data-title="Whether the other six precepts of the decalogue are fittingly expressed?" data-chapter="Whether the other six precepts of the decalogue are fittingly expressed?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/divine_law,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the other six precepts of the decalogue are unfittingly expressed.
 For it is not sufficient for salvation that one refrain from injuring one's neighbor; but it is required

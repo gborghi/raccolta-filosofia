@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Radio broadcast to Buenos Aires expounding the ratiovitalist core: man has no reality but his life, which is given but not made; living is a quehacer, having to decide at every moment what to do. From this it diagnoses the contemporary crisis.
+> FLAG: 1,886 words declared but 0 atoms and no sample in the digest. The title indicates the stenographic version of a radio broadcast from Madrid to Buenos Aires; the content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

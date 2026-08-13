@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Defective extract: only 16 words, the Dante epigraph (Paradiso XIII) of the famous essay. The body of the text is missing from the digest, so content cannot be tagged.
+> An entry of just 16 words with no sample in the digest. Despite the famous title, none of the content is inspectable: likely a section head or leftover fragment from extraction. Flagged for review.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

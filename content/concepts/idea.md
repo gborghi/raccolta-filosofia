@@ -6,7 +6,7 @@ label_en: "idea"
 aliases:
   - "rappresentazione"
   - "representation"
-work_count: 46
+work_count: 44
 tags:
   - "graph/concept"
 title: "idea"
@@ -15,7 +15,7 @@ title: "idea"
 
 *idea*
 
-## Opere (46)
+## Opere (44)
 
 **Descartes**
 - [LETTRES](/testi/descartes/lettres)
@@ -52,7 +52,6 @@ title: "idea"
 - [Amor en Stendhal](/testi/ortega-y-gasset/amor_en_stendhal)
 - [Capítulo primero Creer y pensar](/testi/ortega-y-gasset/capítulo_primero_creer_y_pensar)
 - [Capítulo segundo Los mundos interiores](/testi/ortega-y-gasset/capítulo_segundo_los_mundos_interiores)
-- [Conciencia objeto y las tres distancias de éste fragmentos de una lección](/testi/ortega-y-gasset/conciencia_objeto_y_las_tres_distancias_de_éste_fragmentos_de_una_lección)
 - [Descartes y el método transcendental](/testi/ortega-y-gasset/descartes_y_el_método_transcendental)
 - [El hombre no es el individuo biológico](/testi/ortega-y-gasset/el_hombre_no_es_el_individuo_biológico)
 - [Estética en el tranvía](/testi/ortega-y-gasset/estética_en_el_tranvía)
@@ -66,7 +65,6 @@ title: "idea"
 - [La nueva misión](/testi/ortega-y-gasset/la_nueva_misión)
 - [La reforma liberal](/testi/ortega-y-gasset/la_reforma_liberal)
 - [La vuelta del revés](/testi/ortega-y-gasset/la_vuelta_del_revés)
-- [Las dos grandes metáforas en el segundo centenario del nacimiento de Kant](/testi/ortega-y-gasset/las_dos_grandes_metáforas_en_el_segundo_centenario_del_nacimiento_de_kant)
 - [Los «nuevos» Estados Unidos](/testi/ortega-y-gasset/los_nuevos_estados_unidos)
 - [Mallarmé](/testi/ortega-y-gasset/mallarmé)
 - [No definir](/testi/ortega-y-gasset/no_definir)

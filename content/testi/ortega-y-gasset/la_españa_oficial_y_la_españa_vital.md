@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lecture: the new generations are absent from their post in Spanish politics. The parties have lost their osmotic exchange with the nation and stiffened; 'official Spain' — parliament, corporations, newspapers, schools — is the standing skeleton of an evaporated organism, cut off from the central currents of the Spanish soul.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +123,7 @@ Lo stesso si potrebbe dire di tutte le altre strutture sociali che convivono con
 
 La Spagna ufficiale consiste, dunque, in una specie di partiti fantasma che difendono i fantasmi di alcune idee e che, appoggiati dalle ombre di alcuni giornali, fanno marciare alcuni Ministeri di allucinazione.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,concepts/state,forms/lecture"></span>
 
 Conste, pues, que no he hecho aquí la crítica, cien veces repetida, de los abusos y errores que unos partidos, unos periódicos, unos Ministerios vengan cometiendo. Sus abusos me traen sin cuidado para los efectos de la nueva orientación política que busco y de que hoy os ofrezco, como la previa cuadrícula, la pauta de conceptos generales donde habrá de irse encontrando en sus detalles. Los abusos no constituyen nunca, nunca, sino enfermedades localizadas a quienes se puede hacer frente con el resto sano del organismo. Por eso no pienso como Costa, que atribuía la mengua de España a los pecados de las clases gobernantes, por tanto, a errores puramente políticos. No; las clases gobernantes durante siglos —salvas breves épocas— han gobernado mal no por casualidad, sino porque la España gobernada estaba tan enferma como ellas. Yo sostengo un punto de vista más duro, como juicio del pasado, pero más optimista en lo que afecta al porvenir. Toda una España —con sus gobernantes y sus gobernados—, con sus abusos y con sus usos, está acabando de morir.
 

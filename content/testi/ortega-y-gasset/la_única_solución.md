@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article (El Sol, 1920) against the military Juntas de defensa: the army is dissolving itself, and civil power, represented by politicians with no real mandate, deserves those outrages. The only medicine proposed is to hand the military the responsibility of governing: a coup d'état that would also be a stroke of pedagogy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

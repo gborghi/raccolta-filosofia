@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An address to the Liga de Educación Política: alongside the generic affirmation of liberalism must be placed the principle of organising Spain, i.e. competence in rulers and administrators. Ministries and universities do not produce competent men; with the liberal and conservative parties, relics of the Restoration, "absolutely nothing".
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

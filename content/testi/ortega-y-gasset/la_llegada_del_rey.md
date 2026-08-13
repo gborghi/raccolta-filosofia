@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A dispatch from Berlin (6 November): Alfonso XIII's arrival, Unter den Linden decked in red and yellow, the crowd, the generals on the Potsdam station platform, the embrace with the Kaiser. Journalistic reportage.
 

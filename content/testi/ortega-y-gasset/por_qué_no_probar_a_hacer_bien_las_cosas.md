@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On the Centro judge disciplined under the Law for the Defence of the Republic: when constitutive laws are badly made, a government cannot govern by them and reaches for exceptional laws; but if the case is not truly exceptional, the legal disguise corrupts the whole state. Topical political criticism.
+
+## Connections
+
+**Concetti:** [[concepts/law|legge]], [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

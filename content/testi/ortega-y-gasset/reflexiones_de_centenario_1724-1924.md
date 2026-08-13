@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay for Kant's centenary: Ortega recounts the ten years lived 'inside' Kantian thought, at once house and prison, and the effort of escaping it by digestion (every overcoming is negation, but every true negation is conservation). He locates Kant's philosophy in the European moment between Rococo and the Romantic eruption, as the key to the four modern centuries.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/transcendental_criticism|criticismo trascendentale]]  
+**Concetti:** [[concepts/reason|ragione]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/german_idealism|idealismo tedesco]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +130,7 @@ Tutta la filosofia moderna sgorga, come da un seme, da questo orrore dell'errore
 
 La filosofia moderna acquista in Kant la sua franca fisionomia convertendosi in mera scienza della conoscenza. Per poter conoscere qualcosa, è necessario prima essere sicuri se si può e come si può conoscere. Questo pensiero ha trovato sempre lusinghiera risonanza nella sensibilità moderna. Da Descartes in poi ci sembra l'unica cosa plausibile e naturale cominciare la filosofia con una teoria del metodo. Presentiamo che il miglior modo di nuotare consista nel custodire i vestiti.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,positions/transcendental_criticism,concepts/reason,forms/essay,schools/german_idealism"></span>
 
 Y, sin embargo, otros tiempos han sentido de muy otra manera. La filosofía griega y medieval fue una ciencia del ser y no del conocer. El hombre antiguo parte, desde luego, sin desconfianza alguna, a la caza de lo real. El problema del conocimiento no era una cuestión previa, sino, por el contrario, un tema subalterno. Esta inquietud inicial y primaria del alma moderna, que le lleva a preguntarse una y otra vez si será posible la verdad, hubiera sido incomprensible para un meditador antiguo. El propio Platón, que es, con César y San Agustín, el hombre antiguo más próximo a la modernidad, no sentía curiosidad alguna por la cuestión de si es posible la verdad. De tal suerte le parecía incuestionable la aptitud de la mente para la verdad que su problema era el inverso, y se pregunta una vez y otra: ¿Cómo es posible el error?
 
@@ -192,7 +202,7 @@ Questa relazione che io segnalo tra la filosofia di Kant e il capitalismo borghe
 
 Qualunque sia il valore attribuito da noi a un'opera della cultura —un sistema scientifico, un corpo giuridico, uno stile artistico—, dobbiamo cercare dietro ad essa un fenomeno biologico —il tipo di uomo che l'ha creata. Ed è molto difficile che nelle diverse creazioni di uno stesso soggetto vivente non risplenda la più rigorosa unità di stile.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,positions/transcendental_criticism,concepts/reason,forms/essay,schools/german_idealism"></span>
 
 Esto permite, a la vez, orientarnos sobre nosotros mismos. ¿A qué tipo de hombre pertenece el actual? ¿Es una prolongación del temperamento cauteloso y burgués? La respuesta tendría que partir de un análisis de la nueva filosofía. Éste es difícil, tal vez imposible, porque la nueva filosofía se halla aún en germinación y no podemos verla completa, conclusa y a distancia, como vemos los sistemas de Grecia o el de Kant. Pero hay un punto del que puede ya, sin grave riesgo, hablarse. La nueva filosofía considera que la suspicacia radical no es un buen método. El suspicaz se engaña a sí mismo creyendo que puede eliminar su propia ingenuidad. Antes de conocer el ser no es posible conocer el conocimiento, porque éste implica ya una cierta idea de lo real. Kant, al huir de la ontología, cae, sin advertirlo, prisionero de ella. En definitiva, mejor que la suspicacia es una confianza vivaz y alerta. Queramos o no, flotamos en ingenuidad, y el más ingenuo es el que cree haberla eludido.
 
@@ -306,7 +316,7 @@ Kant è un classico di questo soggettivismo nativo proprio dell'anima tedesca. C
 
 Ed è curioso che questo sia stato perennemente il destino della filosofia tedesca, anche nelle epoche più ostili alla sua ingenita sensibilità. Poiché l'io significa la realtà esemplare, il tedesco intenderà per filosofia il saggio di costruire intellettualmente un mondo che somigli il più possibile a un Io. Chi nasce solitario non troverà mai compagnia che non sia una finzione.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="positions/radical_reality_of_life,concepts/self_consciousness,schools/german_idealism"></span>
 
 En cambio, el meridional, que comienza inversamente por percibir el [hecho radical](/positions/radical_reality_of_life) de la existencia ajena —cosas, personas—, vivirá recíprocamente condenado al barullo de la gran plazuela cósmica y no se hallará jamás verdaderamente solo. Su problema, al revés que para el alemán, consistirá en penetrar dentro de sí mismo, en comprender el hecho del Yo. Llega a sí mismo después de haber visto las cosas corporales y el tú; llega de rebote sobre ellos y trayendo hacia su interior la [norma](/concepts/law) de esas primarias evidencias. Tenderá, pues, a interpretar el yo desde fuera, como vemos desde fuera las cosas y los otros sujetos. De aquí que en toda la filosofía puramente meridional se haya construido el Yo en forma parecida al cuerpo y en unión con éste[62]. Platón y Aristóteles ignoran el yo, la conciencia de sí mismo, esa realidad sorprendente que consiste en un saberse a sí propio, en un encorvarse hacia sí formando una absoluta Intimidad. Lo que no es cuerpo es casi-cuerpo, y lo llaman alma. El alma aristotélica es de tal modo una entidad semi-corporal, que se halla encargada lo mismo de pensar que de hacer vegetar la carne. Esto revela que el pensar no está aún visto desde dentro, sino como un hecho cósmico parejo al movimiento de los cuerpos.
 
@@ -372,7 +382,7 @@ Aggiungiamo, dunque, alla suspicacia questa seconda fazione della filosofia kant
 
 Il sistema di Kant e quelli dei suoi discendenti sono rimasti nella storia della filosofia col titolo più bello. Li si chiama «[idealismo](/positions/idealism)». Il blocco dell'idealismo tedesco è uno dei maggiori edifici che siano stati fabbricati sul pianeta. Da solo basterebbe per giustificare e consacrare dinanzi all'Universo l'esistenza del continente europeo. In quella esemplare costruzione raggiunge la sua massima altitudine il pensiero moderno. Perché, in verità, tutta la filosofia moderna è idealismo. Non ci sono che due notevoli eccezioni: Spinoza, che non era europeo, e il materialismo, che non era filosofia.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,positions/transcendental_criticism,concepts/reason,forms/essay,schools/german_idealism"></span>
 
 Con audacia y constancia gigantes, durante cuatro siglos el hombre blanco de Occidente ha explorado el mundo desde el punto de vista idealista. Ha cumplido hasta el extremo su misión, ensayando todas las posibilidades que él incluía. Y ha llegado hasta el fin —ha llegado a descubrir que era un error. Sin esa magnífica experiencia de error, una nueva filosofía sería imposible; pero, viceversa, la nueva filosofía —y la nueva vida— sólo puede tener un lema cuya fórmula negativa suene así: superación del [idealismo](/positions/idealism).
 
@@ -468,7 +478,7 @@ Inversamente, l'anima tedesca è oltremodo elastica e solidale. Il momento inizi
 
 Tacita o apertamente, la vita di ogni essere è un saggio di apoteosi. Di ciò che in noi troviamo di meglio, vorremmo fare l'ottimo dell'universo. Secondo Voltaire, se un pavone potesse parlare, direbbe di avere un'anima, e che quell'anima sta nella sua coda. La filosofia di Kant è una gigantesca apologia della riflessione e una diatriba contro tutti i primi movimenti. In logica squalifica la percezione, che è un atto primario della coscienza. Ciò che essa contiene non sarà conoscenza; questa comincia dove la riflessione s'impadronisce del percepito e, squartandolo, lo riorganizza secondo i principî dell'intelletto, che sono forme soggettive o, come li chiama anche, «determinazioni della riflessione» —Reflexions-bestimmungen. In etica denega l'attributo di bontà a ogni atto spontaneo, a ogni sentimento che emerge autoctono dal fondo personale. Come la percezione nella conoscenza, l'emozione in morale deve essere paralizzata, esaminata, e sarà onesta solo quando la ragione riflessiva le avrà dato il suo benestare, elevandola al rango di «dovere». Una stessa azione sarà cattiva se è voluta spontaneamente per se stessa, e buona quando la riflessione l'ha investita della forma o uniforme di «dovere».
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,positions/transcendental_criticism,concepts/reason,forms/essay,schools/german_idealism"></span>
 
 Dondequiera vemos a Kant suspender toda espontaneidad, como si ella fuese sólo una infra-vida, y empezar a vivir de esa actividad segunda que es la reflexividad. Sin que ello rompa la unidad de la psique alemana, descubrimos que en Kant el yo espontáneo es como un menor de edad, siempre acompañado de un yo pedagogo. Y lo más curioso del [caso](/concepts/fortune) es que Kant cree que el espontáneo es este último, invirtiendo escandalosamente los términos. Ahora bien; en esta tergiversación consiste esencialmente la pedantería. Pedante es quien de la reflexión se hace una espontaneidad.
 
@@ -558,7 +568,7 @@ Quanto abbiamo detto finora risulta esterno e aggettivo in confronto con questa 
 
 Più ancora che il criticismo, caratterizza Kant nella storia della filosofia l'avere fatto dell'etica un pezzo essenziale nel sistema ideologico. Se dai libri etici greci ci trasportiamo a quello di Kant, presto avvertiamo nel cambiamento di tono il cambiamento di spirito. Dalla Critica della Ragion Pratica, parlare di morale è già pregiudicare la questione, prendendola in un tono tragico e terribile. Quando oggi diciamo «immorale», sentiamo qualcosa di violento e capace di mettere spavento nell'animo, come se vedessimo già tutta la società annientare il così qualificato e, soprattutto, il firmamento rovinargli addosso per schiacciarlo. L'etica in Kant si fa patetica e si carica dell'emozione religiosa vacante in una filosofia senza teologia. Quanto altra tonalità godeva nel mondo antico! Invece di «morale» e «immorale», si diceva il laudabile e il vituperabile. Il dovere nello stoico era τὸ ϰαθῆϰον, il decente, τὸ ϰάτοϱθωµα, il corretto. Si direbbe che per il mondo antico la morale cominci nel piano superfluo delle finezze vitali, che sia una destrezza e come una grazia in più della persona, ma non un fato tragico ed elementare della vita. Si tratta semplicemente di fissare il regime più sicuro della condotta, affinché la nostra esistenza sia intensa, armoniosa e ornata. «Cerca l'arciere con gli occhi un bersaglio per le sue frecce, e non lo cercheremo per le nostre vite?» Con questo gesto sportivo comincia Aristotele la Morale a Nicomaco, e dà al vento gentilmente il suo dardo vitale.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,positions/transcendental_criticism,concepts/reason,forms/essay,schools/german_idealism"></span>
 
 La lógica o metafísica de Kant culmina en su ética. No es posible entender aquéllas sin ésta. Ahora bien; la ética no es filosofía del ser, sino de lo que debe ser. La perenne tradición clásica encuentra, entre las cosas que son, algunas tan perfectas que les reconoce esa dignidad y como segunda potencia del ser, que consiste en «deber ser». De esta manera queda «lo que debe ser» incluido en el ámbito ingente de lo que es y el pensamiento ético se subordina al lógico o metafísico. Pero he aquí que Kant proclama el Primado de la Razón práctica sobre la teórica. ¿Qué quiere decir esto? Hasta él la razón había sido sinónimo de teoría, y teoría significa contemplación del ser. En cuanto teoría, la razón gravita hacia la realidad, la busca escrupulosamente, se supedita humilde a ella. Dicho de otra manera, lo real es el modelo y la razón la copia. Pensar es aceptar. Mas como la realidad no es razón, estará ésta condenada a recibir la [norma](/concepts/law) y la ley de un ajeno poder i-racional o a-racional, incongruente con ella. Éste es el momento en que Kant arroja la máscara. Por detrás de su primer gesto cauteloso se resuelve a la audacia sin par de declarar que mientras la razón sea mera teoría, pulcra contemplación, la razón será irracional. La razón verdadera sólo puede recibir la ley de su propio fondo, autonómicamente; sólo puede ser razón de sí misma, y en lugar de atender a la realidad irracional, —por tanto, siempre precaria y problemática— necesita fabricar por sí un ser conforme a la razón. Ahora bien; esta función creadora, extraña a la teoría, es exclusiva de la voluntad, de la acción o práctica. No hay más razón auténtica que la práctica. El conocimiento deja de ser un pasivo espejar la realidad y se convierte en una construcción. Eso que vulgarmente se llama realidad es mero material caótico y sin sentido que es preciso esculpir en cuerpo de universo.
 

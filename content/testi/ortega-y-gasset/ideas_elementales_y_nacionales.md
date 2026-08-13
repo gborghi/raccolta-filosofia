@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An exposition of ethnological method and Frobenius's innovation: classifying tools by resemblance kills them; a bow is a vital and expressive fact revealing an «idea» of bow, and posing the question whether identical forms in distant places imply migration or independent invention. It presents Bastian's distinction between «elementary ideas» and «ethnic or national ideas», made topical again by Spengler and Frobenius.
+
+## Connections
+
+**Concetti:** [[concepts/idea|idea]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

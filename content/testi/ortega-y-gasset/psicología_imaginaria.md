@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Closing note of a series on the novel: the novel's material is 'imaginary psychology', the construction of possible souls rather than a copy of real ones. Against 'realism', Ortega claims the novel works by a constructive evidence akin to mathematics (Dostoevsky, the Karamazovs).
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

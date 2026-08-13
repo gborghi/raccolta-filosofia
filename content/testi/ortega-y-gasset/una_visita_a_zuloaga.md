@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Report (Madrid, December 1911) of a visit to Zuloaga's Paris studio, with El Greco's Apocalypse hanging on the wall. It includes a remark on the word's inability to describe a painting: the word rules over what flows, but the painting is there all at once, a microcosm.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ Con i quadri di Zuloaga, ho detto in altro luogo, penetra nelle esposizioni uno 
 
 Quando Zuloaga dipinge una scena, più o meno, del gusto di Parigi, mettiamo per caso Le vieux marcheur —il vecchio verde che è attratto come una foglia fragile d'autunno dalla raffica erotica di due giovani donne che camminano— non possiamo arrivare all'entusiasmo. Ci troviamo con un aneddoto al di là del quale c'è posto per infiniti altri aneddoti; inoltre, quell'aneddoto non ci è riferito in maniera semplice, sobria e spontanea. Il pittore pretende che ci fermiamo su di esso, converte ogni linea e ogni macchia di colore in una gesticolazione, si affanna troppo a convincerci, insiste con eccesso sui dettagli, e finisce per fare capriole sul misero tema aneddotico, che, privo di forza, viene giù con tutta la saltimbanchia di linee e contrasti su di esso ammucchiata. Questo non è il nostro Zuloaga: è un giullare che, forse molto destro e agile, ci intrattiene con una fantasmagoria.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 En cambio, Zuloaga ha pintado el enano Gregorio el Botero. Una figura deforme, de horrible faz, ancha, chata y bisoja, calzados los pies de alpargatas y las piernas de calzones, que medio se le derriban, en mangas de camisa, abierta ésta por el pecho, que avanza con enormes músculos de antropoide. Sobre el suelo se alzan, y apoyados en su hombro se mantienen en pie, dos henchidos pellejos que conservan las formas orgánicas del animal que en ellos habitó, y afirman un no remoto parentesco con el hombre monstruoso que los abraza como a dos semejantes. Y este grupo de vida orgánica destaca sobre un paisaje de tierra desolada sin árboles, rugosa, dura, frígida. A mano derecha, rampan por un collado los cubos de unas murallas rudísimas, de una ciudad apenas sugerida, sugerida lo bastante para que se sepa que es una ciudad bárbara y torva y enérgica, cuyos pobladores son crueles unos para con otros, y cada cual es enemigo de sí mismo, y nadie sabe qué es admirar ni qué es amor. Encima, un cielo, que es una guerra rauda entre un ventarrón y unas nubes, las cuales, en sus desgajes y culebreos, dan cuerpo a las líneas de embestida del viento. A mi manera de ver, debe Zuloaga su triunfo a que es acaso el único pintor vivo cuyo tema no ha sido inventado por él. Me explicaré.
 

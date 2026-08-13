@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Marginal notes to a lecture on Luis Vives: Vives is no 'genius' — between 1350 and 1550 nobody was, from Cusanus to Giordano Bruno thought advances by collective generational shifts — and that is why he is hard to define: he is not a bump above the level of his time, he is himself a new level.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

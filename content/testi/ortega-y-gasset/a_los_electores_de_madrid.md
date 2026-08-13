@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An electoral appeal co-signed with Marañón and Pérez de Ayala (Crisol, 11 April 1931), describing the monarchy as the "manager" of a mutual-aid society of high church dignitaries, high finance, military chiefs and aristocrats, and urging a vote for the republican-socialist slate. Political propaganda, not a theoretical text.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/manifesto|manifesto]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

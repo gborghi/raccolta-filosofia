@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on Azorín as an inversion of perspective: the minuscule takes the foreground and the monumental becomes ornament. From this Ortega attacks a philosophy of history 'sick with panlogism', which presents human life as the evolution of colossal abstract ideas: it gives only a rational interpretation, while the vital text — the contractions of my heart, this solitude of mine — stays outside it and is for each of us the first thing in the universe.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]], [[assi/reality_status|Statuto del reale]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]], [[positions/dialectic_of_spirit|dialettica dello spirito]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An analysis of the notion of sovereignty in Maura's speech: sovereign is the power that has no superior, so only States are sovereign and their conflicts are settled by war. Ortega retorts that this unitary notion is dusty: Switzerland, Germany and the United States exhibit, in fact, a hierarchy of sovereignties.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]], [[assi/political_legitimacy|Legittimità del potere]]  
+**Posizioni:** [[positions/sovereignty|sovranità]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

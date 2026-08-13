@@ -59,7 +59,7 @@ async function fetchJson(file: string): Promise<any> {
 }
 
 // Merge one shard file into `store` ONLY (no indexing here — the index is (re)built
-// separately in setDepth). Handles the t2 {buckets:[…]} manifest by fetching each bucket.
+// separately in setDepth). Handles the t2/t3 {buckets:[…]} manifests by fetching each bucket.
 async function mergeFile(file: string): Promise<void> {
   const j = await fetchJson(file)
   if (!j) return

@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A satirical newspaper column (1904) on the Madrid governor's ban on ladies wearing hats in theatres, digressing ironically on feminine tactics, gallantry, and coarseness as a road to sincerity. An occasional piece, not philosophical.
 

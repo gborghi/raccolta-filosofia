@@ -5,7 +5,7 @@ label_it: "trattato"
 label_en: "treatise"
 aliases:
   - "tractatus"
-work_count: 135
+work_count: 134
 tags:
   - "graph/form"
 title: "trattato"
@@ -14,7 +14,7 @@ title: "trattato"
 
 *treatise*
 
-## Opere (135)
+## Opere (134)
 
 **Aristotle**
 - [Categories (1a)](/testi/aristotle/categories_1a)
@@ -143,9 +143,6 @@ title: "trattato"
 
 **Nietzsche**
 - [Zur Genealogie der Moral](/testi/nietzsche/zur_genealogie_der_moral)
-
-**Ortega y Gasset**
-- [LOS TERRORES DEL AÑO MIL CRÍTICA DE UNA LEYENDA](/testi/ortega-y-gasset/los_terrores_del_año_mil_crítica_de_una_leyenda)
 
 **Pascal**
 - [On the Art of Persuasion (1658)](/testi/pascal/on_the_art_of_persuasion_1658)

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Essay noting the shift of interest from acts to persons, from function to substance: after the nineteenth century's primacy of esse sequitur operari, a return to substance may be underway, a symptom of emergent classicism.
+> A 170-word entry with no sample in the digest. The title evokes the function/substance pair, but with no text available no content may be attributed to it.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

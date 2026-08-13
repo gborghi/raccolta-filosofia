@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An art-critical essay on Zuloaga, prompted by an issue of Kunst für alle and an article by Mauclair: Zuloaga is mannered — manner is to style as mania is to character — yet he is 'il più forte', crushing others' manners and even his own, and taking up the tradition of El Greco, Velázquez and Goya outside the currents of his day.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +97,7 @@ Quando Zuloaga dipinge una scena più o meno del gusto di Parigi, mettiamo per c
 
 In cambio, Zuloaga ha dipinto il nano Gregorio il Botero. Una figura deforme di orribile faccia, larga, schiacciata e storta, calzati i piedi d'alpargate e le gambe di calzoni che mezzo gli cadono, in maniche di camicia, aperta questa sul petto, che avanza con enormi muscoli di antropoide. Sul suolo si alzano, e appoggiati alla sua spalla si mantengono in piedi, due gonfi otri che conservano le forme organiche dell'animale che in essi abitò e affermano un non remoto parentado con l'uomo mostruoso che li abbraccia come a due simili. E questo gruppo di vita organica risalta sopra un paesaggio di terra desolata, senza alberi, rugosa, dura e frigida. A mano destra rampano per un colle i cubi di rudissime mura di una città appena suggerita —suggerita abbastanza perché si sappia che è una città barbara e torva ed energica, i cui popolatori sono crudeli gli uni con gli altri e ciascuno è nemico di sé stesso e nessuno sa che cosa è ammirare né che cosa è amore. Sopra un cielo che è una guerra rapida tra un ventone e alcune nuvole, le quali, nei loro squarci e serpeggiamenti danno corpo alle linee d'imbestimento del vento.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 ¿Y cómo está esto pintado? La pintura contemporánea, realizando un teorema de Leonardo, aspira a resolver cada cosa en las demás. Una mano, verbi [gratia](/concepts/grace), es para el impresionista un lugar donde se reflejan las cosas en derredor existentes: pintar una mano es, pues, pintar las demás cosas en esa mano, y así sucesivamente. En realidad el impresionismo es la aplicación a la pintura del principio físico de Newton. Cada cosa es el lugar de cita para las demás. Pues bien; Zuloaga comienza por separar lo que en el cuadro hay de orgánico y lo que es inorgánico —tierra, cielo, construcciones. El enano y los odres están pintados semi-impresionistamente, como los hubieran pintado Greco o Velázquez o Goya. En qué consista este semi-impresionismo no puede decirse con cuatro palabras; aun con muchas, sería fácil dar de él una fórmula equivocada. Sólo provisionalmente me atrevería a decir: el impresionismo de los clásicos nuestros es un impresionismo limitado por un medio neutro. El plein air del contemporáneo hace ilimitada la impresión: el aire libre es la negación del medio, porque no reacciona sobre las cosas, sino que las deja en su salvaje independencia, en su inagotable reflejarse mutuamente.
 
@@ -180,7 +187,7 @@ Dal suo tema trae Zuloaga quella caratteristica fortezza di alcuni dei suoi quad
 
 Il nano Gregorio il Botero sarebbe una curiosità antropologica, un fenomeno da fiera se la sua fisionomia concreta, individuale, di umano animalaccio non fosse arricchita e spiegata dall'idea generale, dalla sintesi riversata nel crudo paesaggio che lo circonda. Gregorio il Botero è un simbolo; se si vuole, un mito spagnolo. E in questo consiste la forza di Zuloaga: nell'essere un creatore di miti. Vediamo come.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Sabido es que Zuloaga se ha declarado enemigo de la doctrina europeizadora que en formas y tonos diferentes defendemos algunos. Por tanto, es Zuloaga nuestro enemigo. Mas ahora no se trata de discutir doctrinas. Ante la obra de arte, las discrepancias teóricas sobre historia y política deben enmudecer. Sin embargo, la doctrina europeísta ha tenido, aparte su acierto o su error, una utilidad indiscutible: la de que se ponga en su fórmula extrema el problema de España. Unos y otros convienen en lo siguiente: es la española una raza que se ha negado a realizar en sí misma aquella serie de transformaciones sociales, morales e intelectuales que llamamos Edad Moderna. La civilización ha avanzado, ha construido nuevas formas de vida, ha impuesto nuevas condiciones a la existencia, demanda nuevas virtudes y repele como vicios y flaquezas y miserias algunas que antaño lo fueron. Los pueblos que se han sometido a este cambio del medio histórico han renunciado a perseverar en su ser, han aceptado las reformas de su carácter y han comprado el bienestar, el poderío, la moralidad y el saber, a cambio de esa renuncia. Como Fausto, han vendido su alma o porciones de ella para mejorar su [fortuna](/concepts/fortune).
 

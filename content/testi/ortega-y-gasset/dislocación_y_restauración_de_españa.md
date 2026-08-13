@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The postwar favours the smaller peoples: the nineteenth-century State is sick everywhere, and precisely because it was weakest in Spain the decomposition has gone furthest, so that for the first time in centuries no other people can serve as a model and Spain must invent its own future. He summons the young to a restoration of Spain, recalling that one cannot do what one wants but must want what one can, seizing the kairós.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/will|volontà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +127,7 @@ La seconda finalità è imposta dalle peculiari condizioni del nostro popolo. La
 
 Come si vedrà, entrambe le finalità si compenetrano e non sembra verosimile che si possa ottenere l'una senza conseguire anche l'altra. Io credo che il Governo dovrebbe preoccuparsi gravemente di questa depressione che patisce un paese come il nostro, tanto propenso da sé a sdraiarsi a pancia all'aria. Vengono tempi enormemente difficili sull'Europa e abbiamo bisogno di contare con un popolo ben all'erta, allenato, agile, capace di rendere in caso dato un gigante e presto sforzo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,concepts/will,forms/essay"></span>
 
 El inventor de instituciones, que vendría a ser como un ingeniero político, tiene, pues, que mantener siempre a la vista estas dos grandes aspiraciones. Pero, además, necesita precisar bien la [materia](/positions/materialism) con que cuenta —es decir, lo que hoy es la sociedad española y lo que hoy es la sensibilidad política en toda Europa. Cosas que en Francia o Inglaterra no tendrían sentido o lo tendrían escaso, aquí son de máxima importancia. Asimismo, instituciones posibles hace un siglo o diez no son hoy viables. Hace un siglo se podía pensar en instituciones de pura democracia o de puro liberalismo: hoy no. Pero viceversa, quien huyendo de ellas imagine que es posible el absolutismo, sospecho que yerra también. Éste es el punto más delicado de todos. Es forzoso acertar el diagnóstico de la sensibilidad política latente hoy en el alma europea, y especialmente española. ¿Es ésta aún democrática? ¿Es como algunos, un poco atropellados, afirman, resueltamente antidemocrática? Descienda cada cual a su fondo insobornable y hallará que la verdad no es ni lo uno ni lo otro. El alma europea viene de una etapa en que lo ha esperado todo de la democracia. Fue ésta un ideal. Hoy está desengañada, pero —si se piensa lealmente y se evita quedarse en términos vagos e irresolutos— ¿hay quien crea de verdad que el principio democrático quedará total y absolutamente arrumbado? No discuto ahora el tema ni menos lo resuelvo. Sólo deslizo, como una posibilidad, la sospecha de que si el europeo no ve ya en la democracia un ideal, empieza a sentir que algo en ella es ineluctable necesidad. Antes parecía el sumo bien, ahora se presenta como el mal menor. El signo ha cambiado por completo. Consecuentemente, si cuando era un ideal se pedía un máximum de democracia, hoy que es sólo una necesidad, una condición ineludible de nuestra época, debe quedar reducido a un mínimum. Pero este mínimum es inevitable. Se puede prescindir de él un rato, al amparo de circunstancias anómalas, como se puede suspender el aliento unos minutos; pero a la larga habrá que abrir la boca y recaer en un asiento democrático del Estado. No vale divagar. ¿Qué fuerza social exclusiva puede hoy sostener en peso la totalidad de un Estado? Cabe el bolchevismo, cabe el fascismo. Bolchevismo y fascismo suponen cierta neurosis étnica. Sobre todo no está ni dicho ni probado que sean las mejores soluciones posibles.
 

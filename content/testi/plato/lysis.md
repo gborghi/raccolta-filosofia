@@ -12,8 +12,16 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > An aporetic dialogue on friendship (philia): Socrates discusses with the young Lysis and Menexenus what makes two people friends — likeness, opposition, usefulness — without any hypothesis surviving scrutiny. It closes by admitting that what a friend actually is remains unknown.
+
+## Connections
+
+**Concetti:** [[concepts/friendship|amicizia]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -212,7 +220,7 @@ Certamente no, disse; un tale poeta sarebbe uno sciocco. E questa è la ragione 
 
 Non è facile determinarlo, dissi; ma se vorrai condurre da me il tuo amato, e mi permetterai di parlare con lui, forse potrò mostrarti come conversare con lui, invece di cantare e recitare alla maniera di cui sei accusato.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/friendship,figures/socrates,forms/dialogue"></span>
 
 There will be no difficulty in bringing him, he replied; if you will only go with Ctesippus into the Palaestra, and sit down and talk, I believe that he will come of his own accord; for he is fond of listening, [Socrates](/figures/socrates). And as this is the festival of the Hermaea, the young men and boys are all together, and there is no separation between them. He will be sure to come: but if he does not, Ctesippus with whom he is familiar, and whose relation Menexenus is his great friend, shall call him.
 
@@ -464,7 +472,7 @@ Non affideranno anche il popolo ateniese i propri affari a te, quando vedrà che
 
 I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/friendship,figures/socrates,forms/dialogue"></span>
 
 And oh! let me put another case, I said: There is the great king, and he has an eldest son, who is the Prince of Asia; — suppose that you and I go to him and establish to his satisfaction that we are better cooks than his son, will he not entrust to us the prerogative of making soup, and putting in anything that we like while the pot is boiling, rather than to the Prince of Asia, who is his son?
 
@@ -704,7 +712,7 @@ Pensi che abbia ragione?
 
 I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/friendship,figures/socrates,forms/dialogue"></span>
 
 Then, Menexenus, the conclusion is, that what is beloved, whether loving or hating, may be dear to the lover of it: for example, very young children, too young to love, or even hating their father or mother when they are punished by them, are never dearer to them than at the time when they are being hated by them.
 
@@ -972,7 +980,7 @@ Procederanno poi a chiedersi se il nemico sia amico dell'amico, o l'amico amico 
 
 Né l'uno né l'altro, rispose.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/friendship,figures/socrates,forms/dialogue"></span>
 
 Well, but is a just man the friend of the unjust, or the temperate of the intemperate, or the good of the bad?
 
@@ -1308,7 +1316,7 @@ Dunque l'amico è amico per amore dell'amico, e a causa del nemico?
 
 Ciò è da inferire.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/friendship,figures/socrates,forms/dialogue"></span>
 
 Then at this point, my boys, let us take heed, and be on our guard against deceptions. I will not again repeat that the friend is the friend of the friend, and the like of the like, which has been declared by us to be an impossibility; but, in order that this new statement may not delude us, let us attentively examine another point, which I will proceed to explain: Medicine, as we were saying, is a friend, or dear to us for the sake of health?
 
@@ -1576,7 +1584,7 @@ Qui, intendendo rivedere l'argomento, dissi: Possiamo indicare qualche differenz
 
 Molto vero.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/friendship,figures/plato,figures/socrates,forms/dialogue"></span>
 
 And shall we further say that the good is congenial, and the evil uncongenial to every one? Or again that the evil is congenial to the evil, and the good to the good; and that which is neither good nor evil to that which is neither good nor evil?
 

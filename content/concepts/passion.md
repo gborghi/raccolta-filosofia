@@ -7,7 +7,7 @@ aliases:
   - "affetto"
   - "affect"
   - "emozione"
-work_count: 49
+work_count: 46
 tags:
   - "graph/concept"
 title: "passione"
@@ -16,7 +16,7 @@ title: "passione"
 
 *passion*
 
-## Opere (49)
+## Opere (46)
 
 **Aquinas**
 - [Treatise on Fortitude and Temperance](/testi/aquinas/treatise_on_fortitude_and_temperance)
@@ -61,11 +61,8 @@ title: "passione"
 - [Geometría sentimental](/testi/ortega-y-gasset/geometría_sentimental)
 - [Hipótesis del histerismo español](/testi/ortega-y-gasset/hipótesis_del_histerismo_español)
 - [La elección en amor](/testi/ortega-y-gasset/la_elección_en_amor)
-- [La melancolía](/testi/ortega-y-gasset/la_melancolía)
 - [Para la cultura del amor](/testi/ortega-y-gasset/para_la_cultura_del_amor)
 - [Para la historia del amor](/testi/ortega-y-gasset/para_la_historia_del_amor)
-- [Para una psicología del hombre interesante Conocimiento del hombre](/testi/ortega-y-gasset/para_una_psicología_del_hombre_interesante_conocimiento_del_hombre)
-- [Para una topografía de la soberbia española Breve análisis de una pasión](/testi/ortega-y-gasset/para_una_topografía_de_la_soberbia_española_breve_análisis_de_una_pasión)
 - [Paréntesis](/testi/ortega-y-gasset/paréntesis)
 
 **Pascal**

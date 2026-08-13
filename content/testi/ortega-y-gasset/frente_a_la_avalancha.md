@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article repeating for the umpteenth time the thesis of «Bajo el arco en ruina»: since June 1917 a substantially revolutionary process has been open in Spain and will close only with a radical change of institutions and of the governing class; the turbulent form of the new order can be avoided only if power anticipates it with an inexorably radical policy.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/revolution|rivoluzione]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

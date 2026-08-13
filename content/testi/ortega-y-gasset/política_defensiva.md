@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An unsigned editorial (España, 1915) against Dato's neutrality: between entering the war and 'neutral neutrality' there is a third way, a defensive policy; the weak has no right to attack but gains full dignity in defending himself. Topical wartime journalism.
 

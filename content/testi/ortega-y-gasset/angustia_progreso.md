@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On Azorín, a "sensitive of history" rather than a philosopher of history: Ortega questions progress, which is always relative to a predetermined goal — the railway is progress on the stagecoach, but it is doubtful that the hearts riding in it are any better. Drive the stiletto beneath the surface of a splendid age and a wretched one and the same identical lament is heard; hence the call to compare the tone of our vital emotions with that of ancient lives.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/progress|progresso]]  
+**Concetti:** [[concepts/time|tempo]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

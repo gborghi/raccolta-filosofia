@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Ethnographic note (El Sol, 26 March 1924) on Bastian versus Ratzel — independent invention versus diffusion by borrowing — and on Ehrenreich and von Luschan's concept of 'convergence', illustrated by Melanesian canoes losing their outrigger on African lakes. Science reporting, not philosophy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

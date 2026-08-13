@@ -12,8 +12,15 @@ tags:
   - "philosopher/aristotle"
 ---
 
+*Aristotle*
+
 > [!abstract]
 > Very short spurious glossary listing the local names of winds across different cities and regions of the Greek world and their geographical origin: a compilatory work with no philosophical content of its own.
+
+## Connections
+
+**Concetti:** [[concepts/nature|natura]]  
+**Scuole:** [[schools/lyceum|Liceo (peripatetici)]]
 
 <p class="work-source">Traduzione di W. S. Hett · Delphi Classics, 2013 · pubblico dominio</p>
 
@@ -28,7 +35,7 @@ THE heading of this short summary of the winds in the manuscript shows it to be 
 
 L'intestazione di questo breve sommario dei venti nel manoscritto mostra che si tratta di un estratto da un'opera chiamata De Signis, non di [Aristotele](/figures/aristotle) ma di qualche membro della [scuola peripatetica](/schools/lyceum). Il testo di Bekker è stato usato per la traduzione, ma è stato ampiamente corretto da quello di Apelt, la cui edizione del 1888 mostra un notevole progresso rispetto al precedente testo tedesco.
 
-<span class="atom-split" data-atom="002" data-title="THE SITUATIONS AND NAMES OF WINDS" data-chapter="THE SITUATIONS AND NAMES OF WINDS" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="THE SITUATIONS AND NAMES OF WINDS" data-chapter="THE SITUATIONS AND NAMES OF WINDS" data-kind="atom" data-srclang="en" data-tags="figures/aristotle,forms/treatise"></span>
 
 From [Aristotle](/figures/aristotle)’s Treatise of Meteorological Signs
 

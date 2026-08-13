@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Essay on La Metafísica y la Poesía, the 1891 polemic between Campoamor and Valera: a perfectly harmless little book that teaches nothing of its subject and retains only a historical interest — the psychology of its authors and the collective soul of a Spain that lost its colonies a few years later. It includes Jean Paul's anecdote of María Wuz's library.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +121,7 @@ C'è nella storia del cristianesimo un caso splendido, che mostra ciò che vale 
 
 Dico tutto questo, che pare, e forse sia eccessivo commento per le semplici osservazioni che vorrei fare, con due frasi: primo, come incitazione ai nuovi scrittori affinché lavorino a elevare alla superiore realtà storica queste figure spagnole della seconda metà del secolo XIX, di cui siamo prossimi eredi, e che ancora vagano, come le anime insepolte, in quella vita media e capricciosa, che è essere morti all'attualità e vivere ancora aderiti all'oscillante memoria di coloro che li conobbero. Lo stesso dico di epoche anteriori. Ho somma fede nei risultati per la coscienza nazionale di questa come seconda digestione del passato per la storia.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 La otra finalidad es justificar cierta aparente crudeza de opinión al hablar de tan famosas criaturas. Yo no puedo figurarme a Valera y Campoamor sino reuniendo los juicios a que su obra me obliga: únicamente al través de ellos y mediante ellos, alcanzo a verlos. Los que fueron de sus amigos, al recordarlos, los ven primero en su unidad vital, y sólo a posteriori juzgan de ellos o no juzgan: la estima o menoscabo queda en segunda línea.
 
@@ -228,7 +235,7 @@ Quando Valera entra in discussione con Campoamor va, realmente, a rinnovare una 
 
 Così in questa polemica sosterrà Valera che la metafisica, intendasi la filosofia, non è se non una religione più chiarificata e un lusso che solo conviene che spendano i ricchi. Prenderà la poesia come un artificio ornamentale, una specie di prosa più azzimata e partita per decoro in metro; un'occupazione senza grave danno né elevato beneficio che non apre rotte all'umanità, che se buona intrattiene e se cattiva infastidisce.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Da como prueba de lo pegadiza y suntuaria que es la filosofía el hecho de que pueblos como China, Rusia, Polonia, Hungría, Turquía y España no la han ejercitado. Esto muestra que a Valera no le repugnaba comparar esos pueblos con Grecia: no percibía que la Hélade se diferencia de ellos en algo más que en cantidad. Llega a decir: «En Europa, durante la clásica antigüedad, “no hay más que la filosofía griega”. Con la irrespetuosidad de que se alimentan, pudiera alguno de los personajes de López Silva exclamar aquí: «¡Una tontería!» Pero no los conjuremos, no sea que Valera les halle un parentesco harto cercano con los de Shakespeare.
 

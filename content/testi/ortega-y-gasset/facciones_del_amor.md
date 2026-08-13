@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A theoretical essay on love: one must speak of love, not of «love affairs», and the phenomenon must be taken in its full generality (art, science, God, one's child). Ortega declares Aquinas's definition of love as a species of desire or the concupiscible erroneous, and sharply separates love from desire: desire dies when satisfied, love is eternally unsatisfied.
+
+## Connections
+
+**Concetti:** [[concepts/passion|passione]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -84,7 +92,7 @@ Spinoza non guardò bene: amare non è gioia. Chi ama la patria, forse muore per
 
 Poiché queste illustri definizioni non ci soddisfano, meglio vale che tentiamo direttamente di descrivere l'atto amoroso, classificandolo, come fa l'entomologo con un insetto catturato nel folto. Spero che i lettori amino o abbiano amato qualcosa o qualcuno, e possano ora fermare il loro sentimento per le ali traslucide e mantenerlo fisso davanti allo sguardo interiore. Io andrò enumerando i caratteri più generali, più astratti di quell'ape tremante che sa di miele e di puntura. I lettori giudicheranno se le mie formule si adattano o no a ciò che vedono dentro di sé.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/passion,forms/essay,schools/scholasticism"></span>
 
 En el modo de comenzar se parece, ciertamente, el amor al deseo, porque su objeto —cosa o persona— lo excita. El alma se siente irritada, delicadamente herida en un punto por una estimulación que del objeto llega hasta ella. Tal estímulo tiene, pues, una dirección centrípeta: del objeto viene a nosotros. Pero el acto amoroso no comienza sino después de esa excitación; mejor, incitación. Por el poro que ha abierto la flecha incitante del objeto brota el amor y se dirige activamente a éste: camina, pues, en sentido inverso a la incitación y a todo deseo. Va del amante a lo amado —de mí al otro— en dirección centrífuga. Este carácter de hallarse psíquicamente en movimiento, en ruta hacia un objeto; el estar de continuo marchando íntimamente de nuestro ser al del prójimo es esencial al amor y al odio. Ya veremos en qué se diferencian ambos. No se trata, sin embargo, de que nos movamos físicamente hacia lo amado, que procuremos la aproximación y convivencia externa. Todos estos actos exteriores nacen, ciertamente, del amor como efectos de él, pero no nos interesan para su definición, y debemos eliminarlos por completo del ensayo que ahora hacemos. Todas mis palabras han de referirse al acto amoroso en su intimidad psíquica como proceso en el alma.
 

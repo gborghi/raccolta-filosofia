@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Essay on the 'vital pulse' from which feelings, ideas and acts spring: in some it is ascending — an overflowing abundance in which envy and rancour do not take root — in others descending, a climate where envy fruits and resentment replaces the loving attitude. On which of the two prevails depends whether history rises or declines.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Concetti:** [[concepts/ressentiment|risentimento]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

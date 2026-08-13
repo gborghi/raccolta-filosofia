@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lecture to librarians: there are already too many books, and the culture that freed man from the primeval forest throws him back into a forest of print. The remedy requires the imperative of historical consciousness: a history articulating the past into generations and compiling a "statistics of ideas".
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

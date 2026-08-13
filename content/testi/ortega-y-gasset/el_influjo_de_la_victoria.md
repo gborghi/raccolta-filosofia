@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Article: the peace of 1918 pushes the world leftward and renders Spanish modes of government anachronistic; a favorable occasion not to be wasted. Political op-ed.
+> A very short text (196 words) for which the digest carries no prose sample: nothing can be said about its content from the title alone.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

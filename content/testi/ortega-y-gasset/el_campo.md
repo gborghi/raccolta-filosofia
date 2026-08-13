@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A journalistic piece cast as anticipated reminiscence: an aged Ortega will tell his grandchildren about Antonio Maura, the elegant countryman whose rural metaphors burst into parliamentary speeches, before raising a brief objection to the central idea of his Ateneo address. Not philosophical.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The preface to the Spanish version of Psychology from an Empirical Standpoint: a book of tacit fame but total influence, published in 1874 and reprinted only in 1925. It sketches Brentano—priest, then laicized, restorer of a new Aristotelianism, founder of the 'science of values', teacher of Husserl, Meinong and Stumpf—who carved definitions instead of writing pages.
+
+## Connections
+
+**Concetti:** [[concepts/soul|anima]]  
+**Figure:** [[figures/aristotle|Aristotele]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

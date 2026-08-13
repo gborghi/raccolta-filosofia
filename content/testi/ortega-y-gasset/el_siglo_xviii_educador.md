@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article using Spengler's distinction between spontaneous and cultivated architecture to measure how far culture has penetrated a people: in France the eighteenth century reaches the smallest farmsteads, in Spain it is almost absent. The great educating century was missing.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Scuole:** [[schools/enlightenment|illuminismo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

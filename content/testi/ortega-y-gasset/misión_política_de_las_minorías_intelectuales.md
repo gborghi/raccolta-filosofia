@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political programme: all Europe has entered a crisis of political ideology, and politics is not a matter of intellect alone nor of individual action, since it begins where the masses appear. The first task is therefore to form an enthusiastic minority charged with the political education of the masses: true national education is this political education.
+
+## Connections
+
+**Concetti:** [[concepts/select_minority|minoranza selecta]], [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

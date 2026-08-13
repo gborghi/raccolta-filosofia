@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Reply to those demanding he 'define himself' politically after 'El error Berenguer': Ortega refuses, declares he represents nobody, and defines the intellectual's trade as one where authority must be re-earned every day, line by line. A personal-polemical column.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

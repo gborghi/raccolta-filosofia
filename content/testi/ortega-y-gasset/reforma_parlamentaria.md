@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political article: it denounces the mismatch between the real weight of the labour movement and its tiny parliamentary representation, blaming the ruling classes and the electoral system. It grants the force of the syndicalist critique of Parliament but calls for reforming the institution rather than abandoning it: to economic justice through an improved democracy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

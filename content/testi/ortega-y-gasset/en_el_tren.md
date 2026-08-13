@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A preamble to travel notes: in travelling, the fleetingness of our contact with things reaches its maximum. Against Father Nieremberg, who infers from things' flight that they are contemptible, Ortega replies that precisely because they are marvellous their flight leaves scars.
+
+## Connections
+
+**Concetti:** [[concepts/time|tempo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

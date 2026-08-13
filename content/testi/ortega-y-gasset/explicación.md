@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Journalistic correspondence from Germany: the Anglo-German naval disproportion, the outsized growth of German historical prestige since 1870, and a satire of the Prussian census with its policeman's questions. Reportage, not philosophy; Schopenhauer and Nietzsche appear only in a quip.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

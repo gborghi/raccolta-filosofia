@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The unsigned programmatic note opening Revista de Occidente (1923): the review will serve the vital curiosity of those who want to know 'where the world is going', with intensive, hierarchized information, its back to politics, and contributors from across the West. An editorial statement of purpose.
 

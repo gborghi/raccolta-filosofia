@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A letter to the editor of Luz (1 April 1933) correcting opinions attributed to him: Ortega states that since late August he has suspended all political activity and reduced himself to "the negation of politics", café and tertulia politics, "irresponsibility constituted". He recalls his December 1931 lecture demanding a demarcation of responsibilities and disowning the way the governing men understood the Republic. A biographical-political document.
+
+## Connections
+
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

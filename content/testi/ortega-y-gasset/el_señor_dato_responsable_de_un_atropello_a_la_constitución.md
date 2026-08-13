@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A journalistic polemic against Dato's royal decree on the press, denounced as an abuse of power and a surrender of the constitutional freedom of industry. Ortega declares himself ready to resist alone: "il y a moi".
 

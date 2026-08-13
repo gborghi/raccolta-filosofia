@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article (El Sol, 1924) on Leo Frobenius, who turned ethnology into archaeology by digging 'vertically' into the African past; it then recounts the Spaniards settled in Timbuktu since the late sixteenth century and regrets Spain's lack of Africanists. Popular writing, not philosophy.
 

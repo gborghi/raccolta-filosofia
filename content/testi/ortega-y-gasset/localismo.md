@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article (El Sol, 1917) holding up Toledo, Ciudad Real and Logroño as examples: since the old party creeds have lost the capacity to be believed and the new ones have not yet arrived, one clear attitude remains — the organisation and assertion of local life against the Madrid caciques.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

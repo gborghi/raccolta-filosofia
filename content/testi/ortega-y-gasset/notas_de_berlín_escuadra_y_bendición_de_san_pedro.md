@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A dispatch from Berlin: after a digression on the maxim that only the first million costs effort — the same holding for fame, which multiplies of itself — Ortega describes the German campaign for the fleet after Bülow's Reichstag speech: red posters on every corner, petitions, a unanimity of national discipline. Journalism.
 

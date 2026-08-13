@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Two short discs recorded in 1932. In the first, 'Man's task': life is quehacer, something to be invented-and-found, and what marks out what must be done is one's unique, unavoidable circumstance. In the second, history serves Europe not by predicting the future but by teaching what must be avoided, freeing it from the past.
+
+## Connections
+
+**Assi:** [[assi/end_of_life|Fine della vita]], [[assi/time_and_death|Tempo e morte]], [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/life_as_project|vita come progetto]], [[positions/historicity|storicità]]  
+**Argomenti:** [[arguments/yo_soy_yo_y_mi_circunstancia|io sono io e la mia circostanza]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

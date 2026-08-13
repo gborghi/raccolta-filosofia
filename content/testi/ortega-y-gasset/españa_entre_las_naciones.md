@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Topical political article (late 1918): after Wilson's messages the face of the world has changed and Spain must appear before the League of Nations with a respectable face, burying «official Spain». Vindicates the old Europeanizing programme. Not philosophical.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

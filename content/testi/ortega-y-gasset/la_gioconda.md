@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article from Marburg (1911) on the theft of the Mona Lisa: the anecdote of the Danish novel that had predicted it, and the destructive fate hanging over Leonardo's works — the Last Supper ruined by friars, soldiers and restorers, the Battle of Anghiari lost even sooner.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +103,7 @@ Ma, in fine, per quanto malconcia, ridipinta, morsa dalla luce, dall'aria, dal f
 
 Grazie all'[idealismo](/positions/idealism) gli uomini vivono fusi in società, cioè, cercandosi l'uno l'altro, aspirando l'uno a essere l'altro, facendo sì che ogni prossimo sia un momento il nostro pungolo. E ora qualche nemico della specie umana ha staccato tranquillamente il quadro, ha lasciato in un angolo la cornice e se n'è andato portandosi sotto il braccio la nostra dottoressa in idealismo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Leonardo no quiso separarse nunca de este retrato. Pero cuidado, no se trata de una aventura trivial: las mujeres se complacen imaginando tras de cada grande obra artística un cuento de amor, cuento de idilio o de pasión, de dulcedumbre o de dolor, donde ejercita una mujer el papel de musa. La musa es uno de los cien mitos en que la mujer ha colaborado para hacerse necesaria al hombre. Y como en nuestros días las mujeres ejercen una presión mayor que nunca sobre la sentimentalidad ambiente, han dado la nota de la psicología usual, y la crítica artística y literaria obedecen, reconstruyendo el alma de pintores, músicos y poetas sobre el esqueleto de sus relaciones femeninas. Sin embargo, nadie ignora que el significado originario de la palabra «musa» es ocio, y ocio en el sentido clásico quiere decir lo opuesto a trabajo útil; no es un no hacer, sino el trabajo inútil, el trabajo sin soldada ni material beneficio, el esfuerzo que dedicamos a lo irreal, a lo supremo. Yo tengo para mí que los grandes hombres han debido siempre mucho más a este ocio viril que a las musas de carne y hueso. En el [caso](/concepts/fortune) Leonardo no hay duda: la mujer concreta, esta mujer, aquella mujer, le fue por completo superflua; no amó jamás. Su bellísima fisonomía, un poco afeminada a pesar de la estatura prócer y de la fortaleza muscular —Vasari afirma que podía quebrar una herradura como si fuera de plomo— no le proporcionó buenas fortunas ni él anduvo en su caza. El bello sexo busca en el hombre ante todo una llamarada roja de pasiones y un ímpetu de voluntad; ambas cosas faltaban a Leonardo. Ni amó a las mujeres ni fue amado de ellas, destino común a los temperamentos especulativos que no descienden nunca de la contemplación para meterse en la batalla de la vida, que no salen nunca de sí mismos para fundirse con los demás. El lugar clásico de esto que digo se halla en las memorias de Rousseau, en aquella página donde refiere que una mujerzuela veneciana hallándole reacio al amar, le dijo: Gianino, lascia le donne e studia la matematica. Esto hizo Leonardo: estudió matemáticas, la ciencia directora del Renacimiento, la que ha hecho posible toda la historia moderna. Pues ¿y Mona Lisa?
 
@@ -186,7 +193,7 @@ Leonardo, come nessuno ignora, è il più tipico rappresentante di quell'univers
 
 Quanto non ha anticipato questo veggente in geologia e in fisica, in meccanica, in astronomia, nell'arte della guerra, nell'aerostazione, in botanica, in fisiologia! Ebbe pochi amici; soleva vivere ritirato, in compagnia di due o tre discepoli, portando con cura i conti della sua economia. Freddo coi suoi simili, sentiva un amore panteista verso tutto l'animato; non mangiava carne alcuna e si adirava se vedeva qualcuno maltrattare un essere vivo. Quando passava per il mercato comprava gli uccelli in gabbia e dava loro libertà.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Todo lo intentó, todo lo quiso, lo que podía y lo que no podía. Y le quedaba un desencanto melancólico que luego inyectaba en los labios de sus figuras, como en la Gioconda. Y como la Gioconda, todos sus semblantes sonríen para no llorar, sonríen de hastío y descontento, sonríen para no acabar de morir. Porque una manera de muerte es para la Gioconda —el alma de Leonardo— vivir sólo como una parte del mundo y no poder abarcar el temblor inagotable de la vida universal.
 

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A letter to a young man who asks questions, that is, admits he does not know: nothing is more fertile than conscious ignorance, and the best definition of science remains Cusanus's docta ignorantia, because problems precede and underwrite solutions. There follows a diagnosis of Argentine youth, which inspires in him more hope than confidence: it has vital force but no inner discipline, too much emphasis and too little precision, and until that changes it will depend entirely on Europe intellectually.
+
+## Connections
+
+**Concetti:** [[concepts/wisdom|sapienza]], [[concepts/education|educazione]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +98,7 @@ Io spero molto dalla gioventù intellettuale argentina; ma avrò fiducia in essa
 
 * * *
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/wisdom,concepts/education,figures/plato,forms/epistle"></span>
 
 Más de una vez —y por cierto con anterioridad a las voces que ahora comienzan fuera de España a insinuar algo parecido— he hecho notar que la historia avanza según grandes ritmos biológicos, de los cuales es uno el de la edad. «Hay tiempos de jóvenes y tiempos de viejos», decía yo en El tema de nuestro tiempo. La manera de reconocer a qué sazón vital pertenece una época es determinar si las ocupaciones que en ella dan el tono son de tono «serio» o de tono «alegre». Porque las cosas todas del mundo se pueden repartir en esas dos clases de tonalidad. Hay paisajes tristes y paisajes jocundos. Y esta diferencia de matiz expresivo no proviene, como ha solido creerse, de una mera proyección sobre el paisaje indiferente de nuestros estados subjetivos. El paisaje triste —ciertos puertos lívidos y cardenosos de España—, Somosierra, Piqueras, por ejemplo, lo son por sí mismos. El que va alegre por ellos nota su tristeza, sólo que el hervor de su interno regocijo le defiende e inmuniza de la tristeza invasora que el paisaje comprime contra su persona. Del mismo modo, al salir de una habitación caldeada, el fuego acumulado en nuestro cuerpo impide que sea penetrado por el frío exterior que percibimos, pero, por decirlo así, mantenemos a raya, sin transitar la frontera de nuestra piel.
 

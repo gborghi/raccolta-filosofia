@@ -10,6 +10,8 @@ tags:
   - "philosopher/rousseau"
 ---
 
+*Rousseau*
+
 > [!abstract]
 > A light early comedy of romantic intrigue among Dorante, Isabelle and Éliante, written in three days. A minor theatrical work, without philosophical content.
 
@@ -1072,6 +1074,540 @@ Elle croit tout de bon que j’en veux à Valère ?
 
 LISETTE.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Chi vi ha detto questa cosa?
+
+DORANTE.
+
+Chi me l’ha detto? Sei tu.
+
+LISETTE.
+
+Io? Non ci penso nemmeno.
+
+DORANTE.
+
+Come?
+
+LISETTE.
+
+No, per quanto ne so io.
+
+DORANTE.
+
+E questi fuochi mal pagati, è un sogno? È una favola?
+
+LISETTE.
+
+Perbacco! Come prima cosa, nel cervello si diffonde una sensazione di calore intenso.
+
+Non ci faccio più caso.
+
+DORANTE.
+
+Ah! Permettimi di essere illuminato.
+
+Che piacere puoi provare nel farmi soffrire?
+
+LISETTE.
+
+E perché, per così tanto tempo, mi avete tenuto all’oscuro?
+
+Di un segreto di cui devo essere la custode?
+
+Volevo punirvi con un po’ di preoccupazione.
+
+Finora, Isabelle non ha notato nulla.
+
+(Dietro le spalle, ad alta voce.)
+
+È una menzogna. Ma fate in modo che non sospetti nulla di voi.
+
+Perché in tal caso dubito che il suo cuore possa perdonarvi.
+
+Non potreste nemmeno immaginare fino a che punto arrivi la sua orgoglio.
+
+DORANTE.
+
+Ecco che sono tornato nella mia perplessità.
+
+LISETTE.
+
+Sta arrivando. Provate a leggere nel suo animo.
+
+E soprattutto, nascondetegli con cura la vostra passione.
+
+Perché vi perdete se la lasciate trasparire.
+
+DORANTE.
+
+Ahimè. Tanta lentezza mi getta nel dispero.
+
+Scena V
+
+Isabella, Dorante, Lisetta
+
+ISABELLA.
+
+Ah! Dorante, buongiorno. Che cosa? Voi due da soli.
+
+Ma davvero! Stavate corteggiando Lisette?
+
+È davvero gentile e molto premurosa nelle sue azioni.
+
+DORANTE.
+
+Signora, mi basta che lei appartenga a voi.
+
+Per cercare in ogni modo di compiacerlo e renderlo felice.
+
+ISABELLA.
+
+Se questo è il vostro obiettivo, non vi resta nulla da fare.
+
+Perché Lisette si lega a tutti i miei sentimenti.
+
+DORANTE.
+
+Ah! signora.
+
+ISABELLA.
+
+Oh! Soprattutto, lasciamo perdere i complimenti.
+
+E lasciamo ai fidanzati quel linguaggio volgare.
+
+L’amicizia sincera, dietro quella sua fredda apparente indifferenza.
+
+Ha sempre disdegnato quel debole e vano aiuto.
+
+Non si ama abbastanza qualcosa quando se ne parla sempre.
+
+DORANTE.
+
+Ah! Almeno una volta, chi può dirlo, si è stati felici!
+
+“Lisette, ”, disse in tono sommesso.
+
+Allora taci, chiacchierone.
+
+ISABELLA.
+
+Oserei ben predire.
+
+Che, con quel tono commovente con cui vi esprimete.
+
+Ben presto amerete, se già non lo fate.
+
+DORANTE.
+
+Io, signora?
+
+ISABELLA.
+
+Sì, voi.
+
+DORANTE.
+
+Senza dubbio, vi state prendendo gioco di me.
+
+LISETTE, sottovoce.
+
+Oh! davvero, questa volta mio marito è completamente in difficoltà.
+
+ISABELLA.
+
+Credo di leggere nei vostri occhi i segni dell’amore.
+
+“DORANTE”, con aria affettata, si avvicina a Lisette.
+
+Signora, in verità. Per corteggiarlo,
+
+Dobbiamo concordare su questo?
+
+“Lisette, ”, disse in tono sommesso.
+
+Bravo! Avete coraggio.
+
+(A Dorante.)
+
+Ma bisogna pur aiutare a scherzare, signore.
+
+ISABELLA.
+
+Nessun giro di parole: parlate con me francamente.
+
+Saresti innamorato?
+
+LISETTE, con voce bassa e veloce:
+
+Fate attenzione a.
+
+DORANTE.
+
+No, davvero.
+
+Signora, mi dispiace molto dovervi contraddire.
+
+ISABELLA.
+
+Con questo tono positivo, non ho più nulla da aggiungere:
+
+Credo che non vorreste impormi nulla.
+
+DORANTE.
+
+Preferirei morire piuttosto che abusare di voi.
+
+“Lisette, ”, disse in tono sommesso.
+
+Mente, ma davvero molto bene; ne sono abbastanza soddisfatta.
+
+ISABELLA.
+
+Ecco quindi il vostro cuore, che nessun oggetto riesce a tentare.
+
+Li ha tutti disdegnati, e ancora oggi.
+
+Non ne ha incontrato nessuno che fosse degno di lui.
+
+DORANTE, tra sé.
+
+Cielo! Si può mai vivere in una simile miseria?
+
+LISETTE.
+
+Signora, per pura cortesia, non osa.
+
+Concedere il proprio assenso a questo discorso;
+
+Ma so che l’amore è in realtà la sua avversione.
+
+(A Dorante.)
+
+Qui è necessario avere il cuore.
+
+ISABELLA.
+
+Beh! Ne sono davvero incantata.
+
+Ecco così la nostra amicizia confermata per sempre.
+
+Sì, almeno non provando alcun desiderio d’amore.
+
+Volete che io vi rinunci per sempre.
+
+LISETTE.
+
+Per compiacerla, signora, non esiste nulla che lui non sia disposto a fare.
+
+ISABELLA.
+
+Rispondete per lui? Lo fate con riluttanza.
+
+DORANTE.
+
+Ahimè! Approvo tutto; dite pure le vostre volontà.
+
+Tutti i vostri ordini saranno eseguiti da me.
+
+ISABELLA.
+
+Non si tratta di leggi, Dorante, che impongo;
+
+E se vi ribellate a ciò che propongo.
+
+Da oggi possiamo separarci in buoni amici.
+
+DORANTE.
+
+Ah! Il mio desiderio di esaudire i vostri voleri sarà sempre sottomesso a essi.
+
+ISABELLA.
+
+Sei così accomodante. Voglio essere indulgente anch’io.
+
+E per fornirvi una prova evidente di ciò.
+
+Ora dichiaro che un solo giorno, un singolo oggetto.
+
+Dovrebbero onorare il desiderio che avete espresso qui.
+
+Proteggete il vostro cuore soltanto in questo giorno.
+
+Evitate l’amore finché non ne vedete l’aspetto esteriore.
+
+Riguardo a un solo oggetto che vi nominerò.
+
+Resistete oggi; domani vi farò, qualcosa.
+
+Un dono.
+
+DORANTE, con fervore.
+
+A mio piacimento?
+
+ISABELLA.
+
+Va bene, allora dobbiamo accontentarvi.
+
+E vi lascerò decidere voi stessi quanto dovrebbe essere il vostro stipendio.
+
+Non ne escludo nulla, tranne le leggi dell’onore:
+
+Vorrei che il premio fosse degno del vincitore.
+
+DORANTE.
+
+Dio mio! Quanti sforzi modesti, per una ricompensa così grande!
+
+ISABELLA.
+
+Sì: ma se per un momento perdete la prudenza.
+
+Il più piccolo atto d’amore, un sospiro, uno sguardo.
+
+Infine, un accenno di gelosia da parte tua.
+
+Vi private, in questo istante, del diritto che vi concedo.
+
+Punirò su di me la vostra stessa debolezza.
+
+Quando vi ho visto per l’ultima volta.
+
+Ecco le leggi immutabili in questione.
+
+DORANTE.
+
+Ah! Come mi risparmiate terribili preoccupazioni.
+
+Ma qual è dunque, in definitiva, questo oggetto pieno di fascino?
+
+Non sono forse i loro fascini per me motivo di grande preoccupazione?
+
+ISABELLA.
+
+Il vostro cuore potrà facilmente respingerli.
+
+Non temete nulla.
+
+DORANTE.
+
+E allora, qual è?
+
+ISABELLA.
+
+Sono io.
+
+DORANTE.
+
+Voi?
+
+ISABELLA.
+
+Sì, proprio io.
+
+DORANTE.
+
+Cosa sto sentendo?
+
+ISABELLA.
+
+Da dove deriva questa sorpresa estrema?
+
+Se la battaglia presentasse meno facilità.
+
+Il prezzo non varrebbe quanto sarebbe costato realmente.
+
+LISETTE.
+
+Ma guardatelo bene: il suo viso è davvero un’opera d’arte!
+
+DORANTE, tra sé.
+
+No, non riesco ancora a crederci. Ma devo essere costretto a farlo.
+
+In questo momento, cerchiamo di ripristinare i miei sensi.
+
+Il mio cuore ha lottato troppo a lungo contro se stesso.
+
+È necessario un po’ di tregua davanti a questo eccesso di sofferenza.
+
+La crudele ha visto troppo chiaramente la tendenza che mi spinge.
+
+E non riesco a prevederlo, nonostante ci pensi continuamente.
+
+Se si vuole punirmi o premiarmi.
+
+Scena VI
+
+Isabella, Lisette
+
+LISETTE.
+
+Il destino di questo povero ragazzo tocca la mia anima.
+
+Vi diverte troppo tormentare la sua fiamma.
+
+E lo punite proprio per la sua fedeltà.
+
+ISABELLA.
+
+Vai pure, Lisette; non c’è nulla che non abbia ben meritato.
+
+Che cosa! Per così tanto tempo è riuscito a sedurmi.
+
+Con i suoi astuti trucchi, mi avrà condotto lì.
+
+Avrà, sotto il nome di una dolce amicizia.
+
+LISETTE.
+
+Promuovere l’amore?
+
+ISABELLA.
+
+E ne avrei pietà.
+
+È necessario che questi ingannatori trovino nei nostri capricci.
+
+La giusta punizione per tutti i loro inganni.
+
+Mentre sono amanti, dipendono da noi:
+
+Il loro turno arriva troppo presto, non appena diventano mariti.
+
+LISETTE.
+
+Sono davvero, è vero, gli ipocriti più sfacciati!
+
+Sanno da tempo che siete bravi a fare le fusa.
+
+E poi, ferma quella zampa. Oh! Prima ancora che arrivi da loro.
+
+Prendiamoci la nostra vendetta.
+
+Isabella, in sé stessa.
+
+Sì, il giro è stato felice.
+
+(A Lisette.)
+
+Sto lavorando a una commedia abbastanza buona per Dorante.
+
+È lì che avremo bisogno di tutta la tua abilità e della tua determinazione.
+
+Valerio dovrà arrivare da Parigi in pochi giorni?
+
+LISETTE.
+
+Accade oggi, e Dorante la pensa così.
+
+ISABELLA.
+
+Meglio ancora, per il mio progetto funziona alla perfezione.
+
+LISETTE.
+
+Allora, spiegateci questa astuzia senza pari.
+
+ISABELLA.
+
+Valerio e mia cugina, uniti dallo stesso amore.
+
+Forse devono sposarsi già oggi stesso.
+
+Desidero che questa mia intenzione diventi sua conoscenza.
+
+LISETTE.
+
+Che cosa farete, ahimè, della povera Éliante?
+
+Rovinerà tutto. L’avete dimenticato?
+
+È essa stessa la bontà; e, non essendo ancora del tutto separata.
+
+La sua mente non è adatta ad alcun tipo di inganno o stratagemma.
+
+E ancor meno il suo cuore, verso qualsiasi forma di malizia?
+
+ISABELLA.
+
+Hai detto molto bene, davvero; tuttavia, il mio progetto.
+
+Chiederebbe. Aspetta. Sì, ecco il fatto.
+
+Possiamo facilmente ingannare anche lei stessa.
+
+Questo rende ancora più efficace la nostra strategia.
+
+LISETTE.
+
+Ma se, alla fine, Dorante, spinto dall’amore appassionato.
+
+Cadrà in qualche trappola che avrete preparato per lui.
+
+Almeno non farete battute sarcastiche in merito.
+
+Più in là di quanto permetta una semplice battuta?
+
+ISABELLA.
+
+A cosa ti riferisci, più avanti? Qui ci sono soltanto giochi.
+
+Ma l’evento in questione deve essere serio.
+
+Se Dorante vince e se Dorante mi ama.
+
+Se vuole chiedermi in sposa, lo farà immediatamente.
+
+Ma se il suo debole cuore non è in grado di eseguire.
+
+La legge che ha permesso che gli venisse detta attraverso le mie parole.
+
+Se la sua leggerezza lo porta troppo lontano.
+
+Un addio eterno diventerà la nostra punizione.
+
+Non mi vendicherò della sua seduzione?
+
+E di cui punirò la sua indiscrezione.
+
+LISETTE.
+
+Ma se commettesse soltanto un errore lieve.
+
+Per chi anche la minima pena appare ancora troppo severa?
+
+ISABELLA.
+
+Prima di tutto, ci divertiremo a sue spese;
+
+E poi, noi, faremo ciò che vorremo.
+
+Fine del primo atto.
+
+Scena Prima
+
+Isabella, Lisette
+
+LISETTE.
+
+Sì, tutto è andato bene, signora, per magia.
+
+Éliante ascoltava con attenzione, con tutte le sue orecchie.
+
+E sulle nostre parole false, nella sua vana paura.
+
+Penso che lo mandiamo davvero all’inferno con piacere.
+
+ISABELLA.
+
+Pensa davvero che io abbia qualcosa contro Valère?
+
+LISETTE.
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Et que trouvez-vous là que de fort ordinaire ?
@@ -1590,6 +2126,524 @@ Il la rend aussitôt sans la décacheter ;
 
 La chose est immanquable : et cependant Valère
 
+<span class="qlang-split" data-lang="en"></span>
+
+What do you find so ordinary about that?
+
+To seize another person’s lover while keeping it a secret from that friend.
+
+Lady! Catch whoever you can.
+
+ISABELLE.
+
+Ah! Most certainly.
+
+This procedure doesn’t suit my personality at all.
+
+Besides.
+
+LISETTE.
+
+You do not like a lover who knows how to please you.
+
+And virtue tells you to let him keep his property.
+
+Ah! How generous we are when it costs nothing at all!
+
+ISABELLE.
+
+No, even if I wanted to, I am not capable of it.
+
+LISETTE.
+
+But do you truly believe that you are far less guilty?
+
+ISABELLE.
+
+I have to admit, that trick is quite clever.
+
+LISETTE.
+
+Very clever.
+
+ISABELLE.
+
+But.
+
+LISETTE.
+
+The expenses have been incurred; we must see it through to the end.
+
+Isn’t that so?
+
+ISABELLE.
+
+Yes. I will write the fake letter.
+
+A Valère pretending to want to give it back to her.
+
+You will try at some point, but very skillfully.
+
+That it fall into the hands of Dorante.
+
+LISETTE.
+
+Oh! Really.
+
+Carlin is so foolish that.
+
+ISABELLE.
+
+Here he is himself:
+
+Let’s go inside. He arrives just in time for our plan.
+
+Scene II
+
+Carlin
+
+CARLIN.
+
+Valère has arrived; I am running over right now.
+
+And this is how Dorante waits for me.
+
+Where in the world can I find it? Oh dear! How much he owes me!
+
+It is said that the god Mercury was given wings;
+
+Indeed, one must possess such qualities to serve a lover.
+
+If it does not nourish its world in a sufficiently light manner.
+
+To compensate for that. What a damned life.
+
+What a fate it is to be subjected to so many fantasies!
+
+Damn it! Those masters are really amusing creatures!
+
+By my faith, they treat their own people like servants!
+
+Scene III
+
+Éliante, Carlin
+
+ÉLIANTE, not seeing Carlin.
+
+Heavens! What have I just heard? And who would be willing to believe it?
+
+Is such utter treachery ever invented?
+
+CARLIN.
+
+Éliante appears; her eyes are filled with tears!
+
+Who in hell does she need it for?
+
+ÉLIANTE.
+
+In such darknesses.
+
+Who could recognize Isabelle and Valère?
+
+CARLIN.
+
+This certainly encompasses some new mystery.
+
+ÉLIANTE.
+
+Ah! Carlin, by the way, what a coincidence to meet you here!
+
+CARLIN.
+
+And me, quite coincidentally, I also find myself there with you.
+
+Madam, if I may express my zeal in this matter.
+
+ÉLIANTE.
+
+Go call Dorante and tell him that Isabelle.
+
+Lisette, and her friend, are betraying us all three.
+
+CARLIN.
+
+I am searching for it myself, and I have already done so twice.
+
+I ran all the way here so that I could teach him.
+
+That Valère had stayed at home to wait for her.
+
+ÉLIANTE.
+
+Valère? Ah! That treacherous one! He despises my [heart](/positions/fideism).
+
+He marries Isabelle; his guilty passion.
+
+When his friend Dorante snatched away his mistress,
+
+It outrages both honor and tenderness at the same time.
+
+CARLIN.
+
+But from whom do you obtain such a strange fact?
+
+We must be wary of the relationships that are presented to us.
+
+ÉLIANTE.
+
+Unfortunately for me, I have all too clear evidence of this.
+
+I happened to be in the next room at that time.
+
+Isabelle and Lisette were plotting their scheme together.
+
+Through the wall, down to every single word.
+
+I heard it all.
+
+CARLIN.
+
+But it is precisely what confuses me.
+
+To that argument, I have nothing to say in response.
+
+What can I do, however, to serve you?
+
+ÉLIANTE.
+
+Lisette will surely be out in a few moments.
+
+To deliver a letter directly to Valère herself.
+
+What Isabelle had sometimes to put back into their hands.
+
+Try to surprise her, open it for her, carry it for her.
+
+At once to Dorante; he can see it from there.
+
+From their entire dark conspiracy, arises the framework of this criminal enterprise.
+
+Let him endeavor to prevent such a cruel insult.
+
+My outrage is his outrage.
+
+CARLIN.
+
+Madam, the pain.
+
+What I feel for you, deep in my heart.
+
+It kindles such anger within me.
+
+That my mind, cannot. If I were holding Valère.
+
+That’s enough. I say nothing more. But otherwise, we won’t be able to.
+
+Madam, it is our pleasure to serve you, or rather, we will serve you.
+
+ÉLIANTE.
+
+With my timely return, you can expect anything.
+
+Lisette is coming; remember that letter.
+
+Another approach would be more generous;
+
+But against deceivers, one can act in the same way they do.
+
+In the absence of any other means to make it known,
+
+It is by betraying him that one must punish a traitor.
+
+Scene IV
+
+Carlin
+
+CARLIN.
+
+Remember! It’s well said: but to execute it.
+
+The flight she requests requires careful consideration.
+
+Lisette isn’t a crane, and may the devil take me if that’s not true.
+
+If we consider only what she has of good qualities.
+
+I see nothing but embarrassment in it. Nevertheless, let’s examine it.
+
+If it were not possible to do so. This case is important;
+
+But here, it is essential that we do not commit any mistakes.
+
+Because my back. It’s Lisette; I see the letter.
+
+Indeed, Éliante did not make any mistakes at all.
+
+Scene V
+
+CARLIN, LISETTE, with a letter in her chest.
+
+LISETTE, in a low voice.
+
+There’s already my little one on high alert: everything is fine.
+
+“Carlin,” he said to himself.
+
+Let us venture into this adventure.
+
+(Loudly.)
+
+Hey! How is Lisette doing?
+
+LISETTE.
+
+I couldn’t see you; it’s as if you were in the spotlight.
+
+Someone would have put you there to rob people.
+
+CARLIN.
+
+But, I rather enjoy plundering passersby.
+
+Those who would resemble you.
+
+LISETTE.
+
+So little formidable?
+
+CARLIN.
+
+No, people who would be just as capable of flying as you are.
+
+LISETTE.
+
+What would you steal from them? Poor child! I have nothing at all.
+
+CARLIN.
+
+Carlin would fit right into all that.
+
+(trying to hide the letter.)
+
+For example, first of all, I would try to take.
+
+LISETTE.
+
+Very well, but in my attempt to defend myself.
+
+You would take nothing, at least not for the time being.
+
+(She puts the letter into the pocket of her apron on the side nearest Carlin.)
+
+CARLIN.
+
+Therefore, one should try to approach it in a different way.
+
+What is this letter? Where exactly are you going to put it?
+
+“LiSETTE, pretending to be embarrassed.”
+
+This letter, Carlin? Hmm, but it’s just a letter.
+
+That I put in my pocket.
+
+CARLIN.
+
+Oh! Really, I can see it now.
+
+But would you like to tell me to whom.
+
+(He is still trying to pick up the letter.)
+
+LISETTE placed the letter in the other pocket, the one opposite to Carlin’s.
+
+Already twice.
+
+You tried to take it by trickery.
+
+I really would like to know.
+
+CARLIN.
+
+I beg your pardon;
+
+Because of your secrets, I must not take any part in it at all.
+
+I just wanted to know if, by any chance.
+
+This letter is not meant for Valère or Dorante.
+
+LISETTE.
+
+What if it were for them.
+
+CARLIN.
+
+First of all, let me introduce myself.
+
+Just as I would do in any other situation as well.
+
+To carry her myself and save you from those steps.
+
+LISETTE.
+
+It is meant for other people.
+
+CARLIN.
+
+You’re lying; let’s see the letter.
+
+LISETTE.
+
+What if, by giving it to you, I asked you to promise.
+
+If you don’t show it to me, would you keep it for me?
+
+CARLIN.
+
+Yes, Lisette, out of honor, I swear it on your knees.
+
+LISETTE.
+
+You are teaching me how I should conduct myself.
+
+Not showing it allowed one to prescribe it for me;
+
+I promised it on honor.
+
+CARLIN.
+
+Oh! That’s another point:
+
+Your honor and mine are not in any way similar.
+
+LISETTE.
+
+Indeed, Mr. Carlin, I would be very upset if that happened.
+
+Look at that impudent person!
+
+CARLIN.
+
+Ah! You are hiding!
+
+I now know what your motive is.
+
+Your mind, if it took indirect paths, would be less inventive.
+
+If the letter were addressed to someone other than you:
+
+A rival traitor becomes the target of this strategy.
+
+And, to my misfortune, I knew too much about how to penetrate it.
+
+Through your precautions taken to not reveal it at all.
+
+LISETTE.
+
+It is true; of a rival who has become her lover.
+
+I am now quite indifferent to your attentions.
+
+"CARLIN," he proclaimed.
+
+Yes, treacherous one, I see that you are betraying me.
+
+No return for my efforts, for all my past work.
+
+When I used to take you around all those small bars and pubs.
+
+When I was helping you fold your cornets.
+
+When I showed you the Fair or the Opera,
+
+You always told me that our love would last forever.
+
+But already other flames have driven those things out of your soul.
+
+The charming reminder of your former flame.
+
+I feel that remorse overwhelms me like thick vapor.
+
+Barbarian, it’s all over now; I am dying for you.
+
+LISETTE.
+
+No, I still love you. But he is growing weaker.
+
+(While Lisette supports him and presses her flask against him, Carlin steals the letter from him.)
+
+Why would I want to hide my tenderness from her as well?
+
+It’s me who killed her. Hey! Give me my flask quickly.
+
+(Partially.)
+
+Sense, sense, my poor child. Ah! That cunning little rascal!
+
+(Loudly.)
+
+How are you doing?
+
+CARLIN.
+
+I am returning to life.
+
+LISETTE.
+
+If it were mine, your death would soon follow.
+
+CARLIN.
+
+Your divine liqueur brought me complete comfort.
+
+LISETTE, in a low voice.
+
+It was my letter, dear, that brought you back to life.
+
+(Loudly.)
+
+But with you, for too long I have merely been enjoying myself;
+
+I will have to dream up some excuse.
+
+And already, I should be back here by now.
+
+Goodbye, my dear Carlin.
+
+CARLIN.
+
+Are you leaving already, my love?
+
+At least assure me of your perseverance.
+
+LISETTE.
+
+What! Can you doubt my unwavering loyalty at all?
+
+(Partially.)
+
+He believes he has deceived me and laughs at what I say:
+
+With all their intelligence, men are fools.
+
+Scene VI
+
+Carlin
+
+CARLIN.
+
+In the end, I triumph; and here lies my conquest.
+
+That’s not all; one more bold move is still needed:
+
+For I shall carry it thus upon Dorante.
+
+He returns it to her immediately without opening it.
+
+It is inevitable; yet, Valère.
+
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Vous lui souffle Isabelle, et sous mon ministère,
@@ -2027,6 +3081,882 @@ ISABELLE, à part.
 De peur d’étourderie,
 
 Allons faire en secret veiller sur sa furie.
+
+<span class="qlang-split" data-lang="en"></span>
+
+You breathe it into her, Isabelle, and under my ministry.
+
+I will see his baits, I will see his coins.
+
+To fall into other hands, and my projects lost forever!
+
+I need to open the letter. Hmm! Yes, but if I do,
+
+And no matter what misfortune might result from my flight being discovered.
+
+Valère might very well. May the devil take that fool!
+
+Who in hell would know? I, for one, will say nothing about it.
+
+Perhaps Lisette will have some suspicion about me:
+
+Very well! We shall lie. Come, serve my master.
+
+And above all, let us satisfy my curiosity.
+
+The wax doesn’t stick; everything has already melted off.
+
+Even better: closing it will be easy.
+
+(He reads while scanning the text.)
+
+Damn it! Let’s take a look at this.
+
+(He reads.)
+
+“I am writing you this letter, my dear Valère, assuming that you will arrive today, as we have agreed. Dorante is our dupe more than ever: he is still convinced that it is Éliante whom you hold a grudge against. I have come up with a rather amusing stratagem to entertain ourselves at his expense and prevent him from disrupting our marriage. I made a sort of ‘bet’ with him: he agreed not to show me any signs of love or jealousy until tomorrow, under the threat that otherwise he would never see me again. To lure him more effectively, I will overwhelm him with excessive tenderness—something you should take only for what it is worth. If he fails to keep his promise, he allows me to break off our relationship without hesitation; if he does, he will free us from his harassment until this matter is settled. Adieu. The notary has already been summoned; everything is ready for the appointed time, and I could be with you by tonight.”
+
+Isabelle.
+
+Tubleu! What a beautiful style!
+
+After such antics, one says nothing but.
+
+To find them, one must be either a woman or a demon.
+
+Oh! What a delightful thing this is to bring joy to my master!
+
+Someone is coming; it’s him himself.
+
+Scene VII
+
+Dorante Carlin
+
+DORANTE.
+
+Where on earth are you hiding, traitor?
+
+I look for you everywhere.
+
+CARLIN.
+
+I am also looking for you:
+
+Did you not tell me to come back here?
+
+DORANTE.
+
+But why for such a long time?.
+
+CARLIN.
+
+Be patient with yourself.
+
+If you display the same petulance in everything you do.
+
+We are about to witness some truly remarkable performances.
+
+DORANTE.
+
+What is this speech?
+
+CARLIN.
+
+It’s nothing; merely a thought of your sweet loves.
+
+It will be necessary to say goodbye.
+
+DORANTE.
+
+What a foolish piece of news.
+
+Are you coming?..
+
+CARLIN.
+
+No anger at all: I know very well that Isabelle.
+
+In the depths of her heart, she loves you alone;
+
+But, in order to always maintain such a tender sentiment,
+
+See how she speaks to Valère in your presence.
+
+DORANTE.
+
+Indeed, writing is inherent in its very nature.
+
+(He read the letter.)
+
+What am I seeing? Oh, no! Where did you get this ticket?
+
+CARLIN.
+
+Will you suspect that it was me who did it?
+
+DORANTE.
+
+Where did it come from? I ask you.
+
+CARLIN.
+
+To the next dear one.
+
+I surprised him earlier on at Éliante’s orders.
+
+DORANTE.
+
+Éliante! How is that possible?
+
+CARLIN.
+
+She had discovered it.
+
+All the treacheries that they conspired to carry out together.
+
+Isabelle and Lisette, and to inform you of this.
+
+Someone ran all the way to this vestibule just to tell me.
+
+The poor child was crying.
+
+DORANTE.
+
+Ah! I am utterly confused!
+
+How blind I was! How could it have been possible that I didn’t realize.
+
+Is their affected demeanor a sign of their intelligence?
+
+A heart without defenses can be easily abused.
+
+They laughed at my simplicity like that!
+
+CARLIN.
+
+For me, I had suspected it for a long time.
+
+They were constantly found together.
+
+DORANTE.
+
+They seemed to see each other very seldom in front of me, at least it seems so to me.
+
+CARLIN.
+
+Yes, that was precisely in order to hide their true intentions better.
+
+But their looks.
+
+DORANTE.
+
+Not at all; they seldom looked at each other.
+
+Out of affectation.
+
+CARLIN.
+
+Damn it! There it is—the problem.
+
+DORANTE.
+
+At this very moment, while I have found Valère.
+
+I should have realized, from the way he spoke about their knots.
+
+He skillfully played the role of a lover with Éliante.
+
+That ungrateful wretch was merely trying to deceive me.
+
+CARLIN.
+
+Never was such credulity more bizarre.
+
+But what use is regret? And what can one do about it, after all?
+
+DORANTE.
+
+Nothing; I just want to know if it will go all the way through.
+
+They will dare to employ their cowardly strategy.
+
+CARLIN.
+
+What! So you claim to have been a witness yourself,?
+
+DORANTE.
+
+I want to see Isabelle, and I’ll pretend not to know.
+
+The reward that, with such tenderness, she managed to prepare for me;
+
+In order to hate it even more, I pretend to force myself to do so.
+
+And through his own example, learn the art of pretending.
+
+You, go prepare everything to leave tonight.
+
+CARLIN, go and come back.
+
+Perhaps.
+
+DORANTE.
+
+What?
+
+CARLIN.
+
+I’m running there right now.
+
+DORANTE.
+
+I am in despair.
+
+She is coming. In her eyes, my anger is merely a disguise.
+
+How charming she is! Alas, how is that possible?
+
+How can such a dark spirit possess so many attractive qualities?
+
+Scene VIII
+
+Isabelle, Dorante
+
+ISABELLE.
+
+Dorante, it is no longer time to feign now.
+
+A useless secret about my true feelings.
+
+When such a thing affects us, we see only its less skillful aspects.
+
+She rarely pretends to commit the mistake that she actually makes.
+
+I claim that I am acting more openly with you all.
+
+I love you, Dorante; my sincere passion.
+
+Leaving behind these empty forms of austere wisdom.
+
+Doesn’t grandeur serve poorly to disguise the heart?
+
+Willing to reveal its fervor before your eyes.
+
+After having long praised indifference,
+
+After enduring a year of violence
+
+You can too easily sense that it doesn’t come at a small cost.
+
+When one is forced to make such an admission.
+
+DORANTE.
+
+One must admit it; I did not have the courage.
+
+To expect such extreme kindness from me, madam.
+
+This confession confuses me, and I cannot doubt it at all.
+
+How much must it have cost you to do that.
+
+ISABELLE.
+
+Your discretion, your perseverance, your steadfastness.
+
+They certainly deserved no less than this reward;
+
+It is the tenderest love, the love that is truly felt.
+
+I must restore the hope that I had taken away from him.
+
+The greater your fervor, the more you would fear my anger.
+
+You would make every effort not to displeasure me;
+
+And my example alone was sufficient to free you from that obligation.
+
+To hide from me a fire that was bound to offend me.
+
+But when your gaze touches me, all my passion bursts forth.
+
+Perhaps I am flattering myself regarding your true feelings.
+
+And I see them nowhere here declaring themselves.
+
+Just as I had hoped after such a confession.
+
+DORANTE.
+
+Madam, please forgive the inconvenience that I cause you.
+
+My happiness is too great to believe so easily.
+
+When I think of the price you have destined for me.
+
+I am astonished by your rare acts of kindness.
+
+But I was less entitled to expect such kindnesses from them.
+
+On your way back, you must expect even more of what is due to you.
+
+Believe me, beneath these outward appearances of tranquility,
+
+Yet the depths of my heart are no less stirred.
+
+ISABELLE.
+
+No, I do not find that your expression appears calm at all;
+
+But it seems to herald even more torrents of bitterness.
+
+What expressions of love, yet I do not believe it.
+
+That my speech may not have contained anything offensive for you.
+
+And, without boasting too much, others in your position would do the same.
+
+They could have been treated with a bit more generosity.
+
+DORANTE.
+
+Indeed, for others, it would have been more appropriate.
+
+With such good taste and such beautiful eyes.
+
+And I certainly find nothing in my own merits that could justify this.
+
+What could justify your behavior here?
+
+But I see that you are trying to tease me.
+
+It is up to me to decide whether to lend it to you, madam.
+
+ISABELLE.
+
+Dorante—that’s taking modesty to rather extreme lengths.
+
+This doesn’t quite seem like a joke.
+
+We already spend quite a lot just declaring our lights.
+
+In order not to engage in a similar game of confessions.
+
+But I believe I have grasped the secret of your soul;
+
+You fear that, in attempting to deceive your beloved,
+
+I do not wish to overuse the challenge that was posed earlier.
+
+To try to catch you off guard today.
+
+I must admit that it seems strange to me.
+
+How one can, with such intelligence, make such a mistake.
+
+Do you think that the fires ignited by our charms.
+
+We feared so greatly the possibility of inadvertent disclosure.
+
+And a love so intense as to be downright extravagant.
+
+Are you not flatterying us any more than excessive caution would do?
+
+Believe me, if your fate depended on that bet.
+
+It is for winning it that you would be punished.
+
+DORANTE.
+
+Madam, you are quite adept at playing the comedy;
+
+Your talent amazes me; it even makes me envious.
+
+And, in order to know how to respond to such gentle words,
+
+I would like to excel in this art just as you do.
+
+However, to go too far in such banter.
+
+In the end, I might lose my character.
+
+And perhaps adopting a tone that is too serious again.
+
+ISABELLE.
+
+With a bit of humor, it would be even better.
+
+To be honest, I don’t know where this little joke came from.
+
+Your mind has caught hold of this grotesque absurdity.
+
+I would have had a lot of fun doing it at other times.
+
+I do not wish to disturb you any further at this time.
+
+If you adopt this tone out of sheer kindness.
+
+You could pair it with politeness as well:
+
+If your contempt for me wishes to be expressed.
+
+I will surely have to find something to comfort myself with.
+
+DORANTE, in a rage.
+
+Ah! Per.
+
+"ISABELLE," she interrupted quickly.
+
+What!
+
+DORANTE, trying hard to calm down.
+
+I remain silent.
+
+ISABELLE, in a low voice.
+
+Out of fear of fainting,
+
+Let’s secretly go and watch over his fury.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Glielo sussurri tu, Isabelle, e sotto la mia guida.
+
+Vedrò le sue esche, vedrò i suoi scudi.
+
+Finire nelle mani di altri, e i miei progetti andranno persi!
+
+Devo aprire questa lettera. Ehm! Sì, ma se la apro.
+
+E qualunque sia la sfortuna che porti alla rivelazione del mio piano.
+
+Valère potrebbe ben farlo. Maledetto idiota!
+
+Chi diavolo lo saprà? Io, non ne dirò una parola.
+
+Forse Lisette avrà qualche sospetto su di me.
+
+Ebbene! Mentiremo. Andiamo, serviamo il mio padrone.
+
+E soprattutto, soddisfiamo la mia curiosità.
+
+La cera non tiene più, tutto è già andato in fumo.
+
+Meglio così: chiuderla sarà un’operazione semplice.
+
+(Leggendo velocemente.)
+
+Dio mio! Guardiamo un po’ cosa c’è qui.
+
+(Legge.)
+
+“Vi avviso con questa lettera, caro Valerio, supponendo che arriviate oggi, come abbiamo concordato. Dorante è più che mai nostro ingannatore: è ancora convinto che sia Éliante la persona di cui siete geloso, e ho ideato un stratagemma abbastanza divertente per divertirci a sue spese e impedirgli di disturbare il nostro matrimonio. Ho fatto con lui una sorta di scommessa: si è impegnato a non mostrarmi alcun segno d’amore o di gelosia fino a domani, altrimenti non mi vedrà mai più. Per sedurlo ancora di più, lo assillerò di tenerezze eccessive, che voi dovreste considerare soltanto per il valore che hanno; se mancherà alla sua promessa, mi autorizza a rompere con lui senza esitazioni; se invece la rispetterà, ci libererà dalle sue importunità fino al termine di questa faccenda. Addio. Il notaio è già stato chiamato; tutto è pronto per l’ora stabilita, e potrò essere da voi stasera stesso.”
+
+Isabella.
+
+Che bello stile!
+
+Dopo simili esperienze, non si dice nulla, se non.
+
+Per trovarli, bisogna essere donna o demone.
+
+Oh! Che cosa meravigliosa per rallegrare molto mio padrone!
+
+Qualcuno sta arrivando. È proprio lui.
+
+Scena VII
+
+Dorante Carlin
+
+DORANTE.
+
+Dove ti nascondi tu, traditore?
+
+Ti cerco dappertutto.
+
+CARLIN.
+
+Anch’io vi sto cercando.
+
+Non mi avete detto di tornare qui?
+
+DORANTE.
+
+Ma perché per così tanto tempo?.
+
+CARLIN.
+
+Abituatevi ad avere pazienza.
+
+Se continuerete a mostrare la stessa petulanza in tutto,
+
+Ci aspetta una bella sfida.
+
+DORANTE.
+
+Di che si tratta questo discorso?
+
+CARLIN.
+
+Niente di grave; è solo a causa dei vostri teneri sentimenti.
+
+Dovremo dire addio.
+
+DORANTE.
+
+Che notizia stupida.
+
+Vieni con me?.
+
+CARLIN.
+
+Nessun segno di rabbia: so bene che Isabelle.
+
+Nel profondo del suo cuore, lei vi ama soltanto.
+
+Ma, per mantenere sempre un sentimento così dolce.
+
+Guardate come lei parli di voi con Valerio.
+
+DORANTE.
+
+Infatti, la scrittura è proprio tale per natura.
+
+(Lui legge la lettera.)
+
+Cosa vedo? Oh misero. Da dove hai ottenuto questo biglietto?
+
+CARLIN.
+
+Penserete che sia stato io a farlo?
+
+DORANTE.
+
+Da dove provieni? ti chiedo.
+
+CARLIN.
+
+Alla prossima cara lettera.
+
+L’ho sorpreso poco fa su ordine di Éliante.
+
+DORANTE.
+
+Di Éliante! Come è possibile?
+
+CARLIN.
+
+Aveva scoperto.
+
+Tutta la tradizione che veniva concordemente organizzata.
+
+Isabelle e Lisette. E, per informarvi in merito,
+
+È corso fino a questo vestibolo per dirmelo.
+
+Povera bambina, piangeva.
+
+DORANTE.
+
+Ah! Sono confuso!
+
+Ero cieco. Come mai non me ne sono reso conto?
+
+Nelle loro pose affettate si può forse riconoscere la loro intelligenza?
+
+È facile abusare di un cuore privo di difese.
+
+Si prendevano gioco della mia semplicità in questo modo.
+
+CARLIN.
+
+Per me, da molto tempo ne avevo già il sospetto.
+
+Li si trovava sempre insieme.
+
+DORANTE.
+
+Mi sembra che si vedessero molto raramente davanti a me.
+
+CARLIN.
+
+Sì, era proprio per nascondere meglio le loro intenzioni.
+
+Ma i loro sguardi.
+
+DORANTE.
+
+No; si guardavano raramente.
+
+Per ostentazione.
+
+CARLIN.
+
+Maledizione! Ecco il problema.
+
+DORANTE.
+
+In questo momento, proprio mentre ho trovato Valerio.
+
+Avrei dovuto capirlo dal tono con cui parlava dei loro nodi.
+
+Con grande abilità, fingeva di essere innamorato con Éliante.
+
+Quell’ingrato cercava soltanto di ingannarmi.
+
+CARLIN.
+
+Mai la credulità fu così strana.
+
+Ma a che serve il rimpianto? E, in fondo, cosa si può fare?
+
+DORANTE.
+
+Niente; voglio solo sapere se, fino alla fine.
+
+Oseranno attuare la loro meschina strategia.
+
+CARLIN.
+
+Che cosa! Allora voi stesso affermate di essere stato testimone,?
+
+DORANTE.
+
+Voglio vedere Isabelle, e fingendo di non saperlo.
+
+Il dono che, con la sua tenerezza, è riuscita a prepararmi.
+
+Per odiare ancora di più, pretendo di costringermi.
+
+E imparare dall’esempio stesso di lui l’arte di fingere.
+
+Tu, prepara tutto per partire stasera stesso.
+
+Carlin va e viene.
+
+Forse.
+
+DORANTE.
+
+Cosa?
+
+CARLIN.
+
+Corro lì.
+
+DORANTE.
+
+Sono disperato.
+
+Sta arrivando. Ai suoi occhi, la mia rabbia è solo una mascherata.
+
+Che incantevole è! Ahimè, come può essere possibile.
+
+Come può uno spirito così oscuro suscitare tanti fascini?
+
+Scena VIII
+
+Isabella, Dorante
+
+ISABELLA.
+
+Dorante, non c’è più tempo per fingere ora.
+
+Un segreto inutile riguardo ai miei veri sentimenti.
+
+Quando una cosa ci riguarda direttamente, vediamo chiaramente le nostre debolezze e i nostri difetti.
+
+Raramente si abbandona all’errore che finge di commettere.
+
+Affermo di voler agire con maggiore franchezza insieme a voi.
+
+Ti amo, Dorante; e il mio sentimento sincero.
+
+Lasciando questi vani esteri di una saggezza austera.
+
+Il lusso non è certo un buon mezzo per nascondere i veri sentimenti del cuore.
+
+Desidera ardentemente che i vostri occhi possano scorgere la sua passione.
+
+Dopo aver a lungo esaltato l’indifferenza,
+
+Dopo aver sofferto per un anno di violenza.
+
+Sentite fin troppo chiaramente che ciò richiede un notevole impegno.
+
+Quando si viene costretti a fare una tale ammissione.
+
+DORANTE.
+
+Bisogna ammetterlo: non avevo il coraggio.
+
+Aspettarmi da voi, signora, un tale grado di gentilezza.
+
+Questo ammettere mi ha lasciato perplesso; non posso dubitarne.
+
+Quanto deve esservi costato farlo.
+
+ISABELLA.
+
+La vostra discrezione, i vostri sforzi, la vostra costanza.
+
+Non meritavano certo meno di questa ricompensa.
+
+È l’amore più tenero, l’amore vissuto con sincerità, che conta davvero.
+
+Devo restituirgli la speranza che gli avevo tolta.
+
+Più grande fosse la vostra passione, più temereste la mia ira.
+
+Vi impegnereste a non deludermi.
+
+E solo il mio esempio è stato in grado di liberarvi da.
+
+Nascere in me un fuoco che avrebbe dovuto offendermi.
+
+Ma quando i vostri sguardi fanno esplodere tutta la mia passione.
+
+Forse mi illudo riguardo ai vostri veri sentimenti.
+
+E non li vedo affatto qui dichiararsi apertamente.
+
+Esattamente come avrei potuto sperarlo dopo quella confessione.
+
+DORANTE.
+
+Signora, perdonate il disturbo che mi causa.
+
+La mia felicità è troppo grande per poterla credere senza difficoltà.
+
+Quando penso a quale prezzo mi abbiate destinato.
+
+Sono sorpreso dalle vostre rare gentilezze.
+
+Ma meno ancora avevo diritto di sperare in tali gentilezze.
+
+Non dovreste aspettarvi un ritorno troppo rapido.
+
+Credetemi: sotto queste apparenze di tranquillità.
+
+Anche il profondo del mio cuore non è meno turbato.
+
+ISABELLA.
+
+No, non mi sembra che il vostro aspetto sia sereno.
+
+Ma sembra annunciare ancora più flussi di bile.
+
+Quanti sentimenti d’amore. Tuttavia, non credo che.
+
+Che il mio discorso non abbia contenuto nulla di offensivo per voi.
+
+E, senza esagerare nel lodarmi, altri al vostro posto farebbero lo stesso.
+
+Avrebbero potuto essere accolti con un po’ più di gentilezza.
+
+DORANTE.
+
+Infatti, ad altri sarebbe stato più adatto.
+
+Con tanto gusto si hanno occhi migliori.
+
+E senza dubbio, non trovo nulla nel mio merito che possa giustificare questo.
+
+Di cosa giustificare qui il vostro comportamento:
+
+Ma vedo che con me volete scherzare.
+
+È mio dovere sapere, signora, se sono disposta ad aiutarvi in questo.
+
+ISABELLA.
+
+Dorante, è davvero portare la modestia fino ai limiti estremi:
+
+Questo non sembra affatto una battuta scherzosa.
+
+Ci costa già abbastanza dover segnalare la nostra presenza.
+
+Per non fare un gioco di simili confessioni.
+
+Ma credo di aver compreso il segreto della vostra anima;
+
+Temevate che, cercando di ingannare i vostri sentimenti,
+
+Non voglio abusare della sfida di poco fa.
+
+Per cercare oggi di trovare delle vostre colpe.
+
+Non vi nascondo che mi sembra strano.
+
+Come si possa, con tanta intelligenza, prendere in giro le cose in questo modo.
+
+Ritenete che i fuochi scatenati dai nostri attratti.
+
+Temevamo così tanto i trasporti indiscreti.
+
+E un amore ardente, fino all’eccesso.
+
+Non ci lusingate più di quanto possa farlo un eccesso di prudenza, vero?
+
+Credetemi, se il vostro destino dipendesse da quel gioco d’azzardo.
+
+È proprio per averlo vinto che verreste puniti.
+
+DORANTE.
+
+Signora, recitate la commedia molto bene.
+
+Il vostro talento mi sorprende, anzi, mi invidia.
+
+E, per saper rispondere a discorsi così dolci.
+
+Vorrei eccellere in questo campo proprio come voi.
+
+Ma, voler spingere troppo lontano i scherzi.
+
+Alla fine, potrei perdere di vista il mio personaggio.
+
+E forse riprendendo un ton troppo serio.
+
+ISABELLA.
+
+Con una battuta, le cose sarebbero solo migliorate.
+
+Onestamente, non so proprio da dove sia venuta questa battuta.
+
+La vostra mente ha catturato quella grottesca combinazione di elementi.
+
+In altri tempi, mi divertirei molto.
+
+Non voglio più disturbarvi per molto tempo.
+
+Se usate questo tono soltanto per gentilezza.
+
+Potreste abbinarlo anche alla cortesia.
+
+Se il vostro disprezzo per me vuole manifestarsi.
+
+Dovrò davvero cercare qualcosa che mi consoli.
+
+DORANTE, furioso.
+
+Ah! Per.
+
+“Isabelle,” la interruppe bruscamente.
+
+Che cosa!
+
+DORANTE, sforzandosi di calmarsi.
+
+Taccio.
+
+ISABELLA, tra sé.
+
+Per paura di svenire.
+
+Andiamo a vegliare in segreto sulla sua furia.
 
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
@@ -2489,6 +4419,930 @@ Oh ! oui ; car pour la mine
 Elle trompe souvent.
 
 ISABELLE, à Valère.
+
+<span class="qlang-split" data-lang="en"></span>
+
+In his outbursts of emotion, I see all his love.
+
+I’m afraid that in the end, it will be my turn to fall in love with her too.
+
+(She exits with a polite but mocking bow to Dorante.)
+
+Scene IX
+
+Dorante
+
+DORANTE.
+
+Have I been constrained in his presence for long enough?
+
+Have I shown her enough patience?
+
+Have I observed enough of its treacherous darknesses?
+
+Am I being stabbed enough by his false kindnesses?
+
+Sweetnesses filled with venom, bitterness, and tears.
+
+Great gods! How much charm you must have possessed for my heart.
+
+If his mouth speaks with sincerity,
+
+Had it not, in its very depths, betrayed the truth!
+
+I had endured too much; I had to confuse her.
+
+How could she have dared to respond to such a letter?
+
+In my own eyes, I felt I had some right to humiliate him a bit:
+
+I should have done it. But perhaps it’s better to forget about it altogether.
+
+Let us flee, away from this ominous place;
+
+We have managed to extinguish a fire that I detest:
+
+But let us not set off until we have come to a conclusion.
+
+Of the treacherous Valerius and his betrayal.
+
+END OF THE SECOND ACT
+
+Scene One
+
+Lisette, Dorante, Valère
+
+LISETTE.
+
+How both of you are filled with rage!
+
+Without me, you would have made a very good deal indeed!
+
+Here are my good friends, always so ready to step forward and take action;
+
+They are even more prone, often, to killing one another.
+
+DORANTE.
+
+I am wrong, my dear Valère, and I ask for your forgiveness:
+
+But could I have anticipated such a trick?
+
+It is so easy to deceive a well-loved [heart](/positions/fideism)!
+
+Alas, it didn’t take much to deceive me.
+
+VALÈRE.
+
+My friend, I am enchanted by the happiness in your eyes.
+
+What was lacking in him who penetrated my soul.
+
+To find those same feelings within your own heart.
+
+And to see us both happy at the same time.
+
+LISETTE, to Valère.
+
+You can talk about it quite freely;
+
+But for Mr. Dorante, it is necessary—though it may not please him—
+
+Let him have the honor of taking his leave from us.
+
+DORANTE.
+
+What! What are you thinking?.
+
+LISETTE.
+
+It was you who did not think of it.
+
+By the law that Isabelle prescribes for you today.
+
+One can, after all, fight over such a trivial matter.
+
+With the people that one thinks she wants to marry:
+
+But Isabelle is a woman who would take such matters seriously;
+
+Out of pride, she will place it within her imagination.
+
+That such a battle was waged out of sheer jealousy;
+
+And, as for such feats, I leave it up to you to judge.
+
+What a price she must assign to her laurels.
+
+DORANTE.
+
+Lisette, ah! my child, would you really be capable of.
+
+To betray my love by making myself guilty?
+
+Your mistress of all things relates to your faith;
+
+If you want to save me, it depends on you.
+
+LISETTE.
+
+Well, I want to tell him about your brilliant achievements.
+
+To win your favor.
+
+DORANTE.
+
+Alas! due to my own weaknesses.
+
+Show some mercy.
+
+LISETTE.
+
+Most noble knight,
+
+No paladin would ever stoop so low as to pray.
+
+Killing people first is the right way to do it.
+
+VALÈRE.
+
+Can you watch him despair with such calmness?
+
+Lisette? Ah! Her pain should have touched your heart.
+
+LISETTE.
+
+If I say a word to him, that word might hurt his feelings.
+
+And perhaps against me he will draw his sword.
+
+DORANTE.
+
+I had counted on you, but my expectations have been disappointed.
+
+I have nothing left but to die.
+
+LISETTE.
+
+Oh! What a rare secret!
+
+But it’s from the old days, and I really regret that.
+
+It was a good excuse.
+
+VALÈRE.
+
+Oh! my poor Lisette,
+
+Discard from these words all that is superfluous and futile.
+
+Help us if you can, if you at least wish to do so.
+
+And trust that our hearts will repay your kindness.
+
+DORANTE.
+
+If you turn the hope born from my flames into something truly accomplished.
+
+Dispose of my possessions, dispose of my life;
+
+This ring, first of all.
+
+“LISETTE, taking the ring.”
+
+What necessity is there for that?
+
+I claim to be serving you out of generosity.
+
+I want to protect you in front of my mistress.
+
+She must finally share your tenderness;
+
+And here is my project. Having anticipated your moves.
+
+She had once sent me near you.
+
+In order to prevent evil and bring Valère back,
+
+So that he might not unravel the mystery for you:
+
+Were it not for the fact that I could otherwise resolve everything.
+
+She had instructed me to tell you everything.
+
+So that’s what I did when you wanted to fight.
+
+And it took all of your strength, sir, to manage it.
+
+But I also had to observe carefully.
+
+The gestures, words, and actions of which I would be a witness.
+
+To see if you were faithful to your promise.
+
+Or, if I were to stick solely to pure truth,
+
+I believe you can clearly sense that it is made from your own flames.
+
+One will therefore have to lie; but in order to deceive her more effectively.
+
+A new idea comes to my mind.
+
+DORANTE.
+
+What is it?.
+
+VALÈRE.
+
+Tell us a little bit about it.
+
+LISETTE.
+
+I am convinced.
+
+No. Yes, it’s possible. I think so. Honestly, I’m not sure anymore.
+
+DORANTE.
+
+By the holy heavens!
+
+LISETTE.
+
+But what use is all this unnecessary fuss?
+
+The idea is very simple; listen carefully, Dorante:
+
+Regarding what I will say—soon growing impatient.
+
+Isabelle at your place will make you call her.
+
+Come, but as if I had known how to hide you from you.
+
+The project that she is contemplating over you today.
+
+You will come for a mere visit.
+
+She would coldly approve of whatever she said.
+
+Without contradicting anything she might want to say.
+
+Tonight, a fake contract for her and for Valère.
+
+You will be given the opportunity to get angry.
+
+Sign it without hesitation; you can be certain about that.
+
+To see white everywhere as a symbol for the name of the future.
+
+If you perform your small role well,
+
+Isabelle, forced to keep her promise,
+
+You might lose that bet as early as tonight.
+
+And by law, the price remains within your control.
+
+DORANTE.
+
+Heavens! What a flattering hope follows my suffering!
+
+But are you not abusing my naive hope?
+
+Can I count on you?
+
+LISETTE.
+
+This compliment is so kind!
+
+Are you thus rewarding my kindness towards you?
+
+VALÈRE.
+
+There’s every possibility that you might get angry!
+
+Strive to successfully carry out your beneficial project.
+
+And far from getting irritated at this poor lover,
+
+In its horrors, one can recognize the excess of its suffering.
+
+But I am eager to see Éliante again:
+
+“May I not enter? My impatient soul, ”
+
+LISETTE.
+
+How lively these lovers are! Yes, come with me.
+
+(to Dorante.)
+
+You, trust my faith for your own happiness.
+
+And go back home to wait for news.
+
+Scene II
+
+Dorante
+
+DORANTE.
+
+I shall see so many cruel punishments come to an end!
+
+I will finally be able to see my beloved crowned!
+
+Heavens! Am I destined to experience so many pleasures?
+
+I feel that these dangers have kindled my passion even more;
+
+With less fury, it still burned my soul.
+
+When I imagined things, out of excessive vanity.
+
+To already have won the prize for which I had taken such pride.
+
+Someone is coming. Let’s make sure they don’t discover me.
+
+I must not appear before the prescribed time.
+
+Alas! my weak heart cannot find peace.
+
+And I fear even more than I dare to hope.
+
+Scene III
+
+Éliante, Valère
+
+ÉLIANTE.
+
+Yes, Valère, I am already informed about everything.
+
+With great skill, they had managed to seduce me.
+
+Through a carefully orchestrated pretense of conversation between them,
+
+And that, without a doubt, I had listened too much.
+
+VALÈRE.
+
+Well! My dear Éliante, how could you have believed such a thing?
+
+That Valère, at such a point, should become an enemy of his own glory.
+
+Above all, it was his own happiness that he sought in other relationships.
+
+The reward that your kindnesses had fulfilled his desires?
+
+Ah! How wrong you have been in judging my tenderness!
+
+ÉLIANTE.
+
+I acknowledge all my own weaknesses with you.
+
+How much I have indeed paid for my own credulity!
+
+What could you possibly have seen of what it cost me?
+
+In the end, Isabelle was moved by my tears.
+
+With a candid admission, my jealousy was appeased.
+
+Yet this confession, in demanding it of me.
+
+That I place my faith in such a secret.
+
+That Dorante should not have the slightest hint of it through me.
+
+For my love for you, I made this sacrifice:
+
+But it costs me a great deal to deceive him in such a way.
+
+VALÈRE.
+
+As you have been informed regarding all of this, Dorante is.
+
+Keep your secret by pretending.
+
+Isabelle, soon enough, stops forcing herself to restrain herself.
+
+Perhaps starting from today, according to our plan.
+
+Fall into his own trap, and surrender to love.
+
+Scene IV
+
+Isabelle, Éliante, Valère, and Lisette followed shortly after.
+
+Isabelle, in herself.
+
+Dorante’s composure irritates and offends me.
+
+He must not love me very much, if he lacks the courage to do so.
+
+To seek at least some clarification!
+
+LISETTE, arriving.
+
+Dorante will be here shortly, madam.
+
+I also had the notary called at the same time.
+
+ISABELLE.
+
+But we still need the help of Valère:
+
+I believe he will be willing to serve us today.
+
+I have reliable assurance that he will respond for him.
+
+VALÈRE.
+
+If my zeal is sufficient and my utmost respect.
+
+You yourself could quite possibly answer that question, madam.
+
+ISABELLE.
+
+I need a husband just for tonight.
+
+Would you please be it?
+
+ÉLIANTE.
+
+Well! We’ll have to see about that.
+
+How astonishing! It seems you really need some precautions, cousin.
+
+To beg for your husbands?
+
+LISETTE.
+
+Oh! Yes; because for me.
+
+She lies frequently.
+
+ISABELLE, to Valère.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nei suoi accessi di passione vedo tutto il suo amore.
+
+Temo molto che, alla fine, anch’io inizierò ad amarla.
+
+(Uscendo, fa un inchino a Dorante con aria educata, ma ironica.)
+
+Scena IX
+
+Dorante
+
+DORANTE.
+
+Mi sono forzato a comportarmi in un certo modo davanti a lui per troppo tempo?
+
+Ho dimostrato abbastanza pazienza vicino a lei?
+
+Ho osservato abbastanza le sue perfide oscurità?
+
+Sono abbastanza ferito dalle sue false dolcezze?
+
+Dolcezze piene di veleno, amarezza e lacrime.
+
+Grandi dei! Quanto sareste stati affascinanti per il mio cuore.
+
+Si dice che una persona, parlando con sincerità.
+
+Se non avesse, nel profondo del suo cuore, tradito la verità.
+
+Ne ho sopportato troppo, dovevo confonderla.
+
+A quella lettera, finalmente, come avrebbe mai osato rispondere?
+
+A mio parere, dovevo umiliarlo un po’.
+
+Dovevo farlo. Ma forse è meglio cercare di dimenticarlo.
+
+Fuggiamo, allontaniamoci da questo luogo maledetto.
+
+Abbiamo spento un fuoco che odio.
+
+Ma partiamo soltanto dopo aver trovato una spiegazione logica.
+
+Del perfido Valerio e della sua tradizione.
+
+Fine del secondo atto.
+
+Scena Prima
+
+Lisette, Dorante, Valère
+
+LISETTE.
+
+Che voi due siate entrambi così pronti alla rabbia!
+
+Senza di me, avreste fatto un ottimo affare!
+
+Ecco i miei buoni amici, sempre pronti ad impegnarsi.
+
+Spesso sono ancora più propensi a uccidersi a vicenda.
+
+DORANTE.
+
+Ho torto, caro Valerio, e ti chiedo scusa per questo.
+
+Ma come avrei potuto prevedere un simile trucco?
+
+Un cuore profondamente innamorato è facilmente ingannabile!
+
+Ahimè, non c’era bisogno di così poco per farmi sbagliare.
+
+Valère.
+
+Amici, sono incantato dalla felicità che emana dalla tua passione.
+
+Mancava a colui che penetra nella mia anima.
+
+Trovare nel tuo cuore gli stessi sentimenti.
+
+E vederci entrambi felici nello stesso momento.
+
+LISETTE, a Valère.
+
+Potete parlarne senza alcun imbarazzo;
+
+Ma per il signor Dorante, è necessario, anche se non gli piace.
+
+Che ci faccia l’onore di prendersi le sue ferie.
+
+DORANTE.
+
+Che cosa! Cosa stai pensando?.
+
+LISETTE.
+
+Siete voi ad aver trascurato di considerare questa possibilità.
+
+Alla legge che oggi Isabella vi impone.
+
+In fondo, si può combattere per una sciocchezza.
+
+Le persone che si pensa voglia sposare.
+
+Ma Isabelle è una donna che non si cura di queste cose.
+
+Per orgoglio, si impegnerà a plasmare nella sua immaginazione.
+
+Un tale combattimento è avvenuto soltanto per gelosia.
+
+E, riguardo a tali imprese, lascio a voi giudicare.
+
+Quale prezzo deve attribuire ai vostri meriti.
+
+DORANTE.
+
+Lisette, ah! mia bambina, saresti davvero in grado.
+
+Tradire il mio amore facendomi colpevole?
+
+Tua padrona di tutto riguarda la tua fede.
+
+Se vuoi salvarmi, dipende da te.
+
+LISETTE.
+
+Punto, voglio raccontargli le vostre straordinarie imprese.
+
+Per corteggiarvi.
+
+DORANTE.
+
+Ahimè, le mie debolezze.
+
+Mostra un po’ di pietà.
+
+LISETTE.
+
+Nobile cavaliere.
+
+Nessun cavaliere errante si abbasserebbe mai a pregare.
+
+Uccidere prima le persone, è davvero il modo giusto.
+
+Valère.
+
+Riesci a osservare con distacco come si dispera?
+
+Lisette? Ah. Il suo dolore avrebbe dovuto commuoverti.
+
+LISETTE.
+
+Se gli dico una parola, quella parola potrebbe ferirlo.
+
+E forse contro di me tirerà la spada.
+
+DORANTE.
+
+Mi aspettavo di poter contare su di te, ma le mie speranze sono state deluse.
+
+Non mi resta che morire.
+
+LISETTE.
+
+Oh! Quel raro segreto.
+
+Ma appartiene al vecchio tempo, ne sono davvero molto rammaricato.
+
+Era una bella scusa.
+
+Valère.
+
+Eh, povera Lisette.
+
+Lascia da parte le inutili sconfitte derivanti da queste parole.
+
+Servici noi se puoi, o almeno se lo desideri.
+
+E sappi che i nostri cuori ricambieranno le tue cure.
+
+DORANTE.
+
+Se trasformi le mie fiamme in una speranza realizzata.
+
+Disponi dei miei beni, disponi della mia vita;
+
+Prima di tutto, questo anello.
+
+“Lisette, prendi questo anello.”
+
+Qual è questa necessità?
+
+Affermo di servirvi per generosità.
+
+Voglio proteggervi accanto alla mia padrona.
+
+Deve finalmente condividere la vostra tenerezza.
+
+Ecco il mio progetto: prevedendo i vostri attacchi.
+
+Mi aveva inviato da voi poco tempo fa.
+
+Per impedire il male e riportare indietro Valerio.
+
+Affinché non potesse rivelarvi il mistero.
+
+Se non potessi in qualche altro modo risolvere tutto.
+
+Mi aveva incaricato di rivelarvi tutto.
+
+Ecco quindi ciò che ho fatto quando volevate combattere.
+
+E che lei, signore, abbia dovuto fare uno sforzo notevole per riuscirci.
+
+Ma dovevo anche osservare con attenzione.
+
+I gesti, le parole e le azioni di cui sarei testimone.
+
+Per verificare se fossi stato fedele alla scommessa.
+
+O, se mi attenessi soltanto alla verità pura.
+
+Credo che voi possiate ben capire che tutto ciò è stato creato attraverso i vostri “fuochi”.
+
+Dovremo quindi mentire, ma per ingannarla meglio ancora.
+
+Mi è venuta in mente un’altra idea.
+
+DORANTE.
+
+Che cos’è?.
+
+Valère.
+
+Raccontaci qualcosa.
+
+LISETTE.
+
+Sono convinta.
+
+No. Si, si può fare. Credo. Ma onestamente, non ne sono più sicuro.
+
+DORANTE.
+
+Maledizione!
+
+LISETTE.
+
+Ma a che serve tutto questo impegno inutile?
+
+L’idea è molto semplice; ascolta bene, Dorante:
+
+Per quanto riguarda ciò che dirò, presto diventerò impaziente.
+
+Isabelle, quando sarà da voi, vi farà chiamare.
+
+Vieni, ma come se avessi saputo nasconderti da me.
+
+Il progetto che oggi lei sta meditando su di voi.
+
+Verrà da voi in qualità di semplice visitatore.
+
+Approvando freddamente tutto ciò che avrebbe detto.
+
+Non contraddicendo nulla di ciò che lei desidera.
+
+Stasera, un falso contratto per lei e per Valerio.
+
+Vi verrà offerta l’opportunità di arrabbiarvi.
+
+Firmatelo senza esitazioni; potete esserne certo.
+
+Vedere ovunque il colore bianco come simbolo del nome del futuro.
+
+Se svolgete bene questo piccolo ruolo che vi è stato assegnato.
+
+Isabelle, costretta a mantenere la sua promessa,
+
+Forse questa sera stesso rinuncerai alla scommessa.
+
+E secondo la legge, il prezzo rimane in vostra disponibilità.
+
+DORANTE.
+
+Dio! Che speranza lusinghiera segue al mio dolore.
+
+Ma non abusi forse della mia fiduciosa speranza?
+
+Posso contare su di te?
+
+LISETTE.
+
+Il complimento è davvero gentile!
+
+Mi pagate così in ricompensa della mia gentilezza verso di voi?
+
+Valère.
+
+È molto probabile che tu ti arrabbi!
+
+Pensa attentamente a realizzare al meglio il tuo progetto benefico.
+
+E lontano dall’irritarti contro quel povero amante.
+
+Conosce, nei suoi terrori, l’eccesso del proprio tormento.
+
+Ma ardo dal desiderio di rivedere Éliante:
+
+Non posso entrare? La mia anima è impaziente.
+
+LISETTE.
+
+Che i giovani innamorati siano pieni di vitalità! Sì, venite con me.
+
+(A Dorante.)
+
+Voi, affidatevi alla mia fede per la vostra felicità.
+
+E tornate a casa ad aspettare notizie.
+
+Scena II
+
+Dorante
+
+DORANTE.
+
+Vorrei che finissero tutte queste crudeli sofferenze!
+
+Finalmente potrò vedere il mio amore incoronato!
+
+Dio! Sono forse destinato a tanti piaceri?
+
+Percepisco che i pericoli hanno alimentato la mia determinazione.
+
+Con meno furia, ma con la stessa intensità, consumava la mia anima.
+
+Quando mi immaginavo, per eccesso di vanità.
+
+Godere già di quel premio di cui mi ero lusingato.
+
+Qualcuno sta arrivando. Dobbiamo evitare che mi accorga.
+
+Prima dell’ora stabilita, non devo presentarmi.
+
+Ahimè! Il mio debole cuore non riesce a trovare pace.
+
+E temo ancora di più di quanto osi sperare.
+
+Scena III
+
+Éliante, Valère
+
+ÉLIANTE.
+
+Sì, Valerio, già di tutto sono informata.
+
+Con grande abilità, erano riuscite a sedurmi.
+
+Attraverso un colloquio fingito concordato tra loro,
+
+E che, senza alcun dubbio, avevo ascoltato troppo.
+
+Valère.
+
+Ebbene! bella Eliante, come avete potuto crederci.
+
+Che Valerio, fino a questo punto nemico della sua stessa gloria.
+
+Soprattutto nel suo felicità, cercava in altri legami.
+
+Il premio che le vostre gentilezze avevano realizzato i suoi desideri?
+
+Ah! Quanto avete sbagliato a giudicare la mia tenerezza.
+
+ÉLIANTE.
+
+Concordo con voi riguardo alla mia totale debolezza.
+
+Ma quanto ho pagato caro per la mia credulità.
+
+Che cosa non avete potuto vedere. Quanto mi è costato!
+
+Alla fine, Isabelle, commossa dai miei pianti.
+
+Con una semplice confessione, la sua gelosia si placò.
+
+Ma questa confessione, tuttavia, richiedendomi.
+
+Che io possa affidare la mia fede a un tale segreto.
+
+Che Dorante non abbia alcun indizio al riguardo da parte mia.
+
+Per il mio amore per te ho fatto questo sacrificio:
+
+Ma mi costa molto ingannarlo in questo modo.
+
+Valère.
+
+Come avete appreso da tutto ciò che vi è stato detto, Dorante.
+
+Mantenete il vostro segreto fingendo di non farci caso.
+
+Isabelle, presto, smetterà di costringersi.
+
+Secondo il nostro progetto, forse già da oggi.
+
+Cade nella propria trappola e si arrende all’amore.
+
+Scena IV
+
+Isabelle, Éliante, Valère e Lisette poco dopo.
+
+Isabella, in sé stessa.
+
+Questo sangue freddo di Dorante mi offende e mi indigna.
+
+Quindi mi ama molto poco, se non ha il coraggio.
+
+Cercare almeno una spiegazione.
+
+LISETTE, entrando.
+
+Dorante arriverà tra poco, signora.
+
+Ho chiamato contemporaneamente l’avvocato.
+
+ISABELLA.
+
+Ma abbiamo ancora bisogno dell’aiuto di Valerio:
+
+Credo che oggi sarà felice di aiutarci.
+
+Dispongo di una solida garanzia che mi assicura sulla sua affidabilità.
+
+Valère.
+
+Se il mio zelo è sufficiente e il mio profondo rispetto.
+
+Potreste benissimo rispondere voi stessa, signora.
+
+ISABELLA.
+
+Ho bisogno di un marito solo per stasera.
+
+Vorreste esserlo, per favore?
+
+ÉLIANTE.
+
+Ma sì! Dovremo vedere.
+
+Come! Dunque avete bisogno di precauzioni, cugina.
+
+Per supplicare i vostri mariti?
+
+LISETTE.
+
+Oh! Sì, perché per la mia miniera.
+
+Spesso tradisce.
+
+ISABELLA, a Valère.
 
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
@@ -3038,6 +5892,1102 @@ CARLIN.
 
 Tope, j’en fais le saut ; mais sois bonne diablesse
 
+<span class="qlang-split" data-lang="en"></span>
+
+Well! What do you think about that?
+
+VALÈRE.
+
+One cannot refuse, madam, such a gentle fate.
+
+But a term that is too short.
+
+ISABELLE.
+
+It is good to tell you that.
+
+After all, this is but a hymn meant to provoke laughter.
+
+LISETTE.
+
+Dorante is here; without me, you would have ruined everything.
+
+ISABELLE.
+
+I hope his heart will not be able to endure it.
+
+In the way I keep it for her.
+
+Scene V
+
+Isabelle, Dorante, Éliante, Valère, Lisette, and a lackey.
+
+ISABELLE.
+
+Ah! There you are, Dorante;
+
+It doesn’t please me at all to see you so little.
+
+Why are you running away from me? Such arrogance.
+
+It indeed made me believe that a bit of passion.
+
+Your care near me might have been the reason:
+
+But does it really require such a negative reaction?
+
+When I tried, moments ago, through overly tender confessions.
+
+To engage your [-heart](/positions/fideism) and let its flames shine forth.
+
+I had not realized that it could be considered an offense.
+
+To disturb the good understanding that exists between us;
+
+However, you treated me with an air of condescension.
+
+Your offensive disdain has been too clearly displayed:
+
+But if the lover despises such a weak form of slavery.
+
+At least my friend should compensate me for this;
+
+My tenderness is not such an insult, I believe[63].
+
+That he must punish me by breaking up with me.
+
+DORANTE.
+
+I am aware of how much I owe to your kindness, madam:
+
+But your wise teachings have so deeply touched my soul.
+
+To be completely honest with you, here.
+
+Perhaps I would have made better use of it than you would have.
+
+"ISABELLE," she said softly to Lisette.
+
+Lisette, how cold it is! It feels like everything is made of ice.
+
+“LISETTE,” in a low voice.
+
+Well! He’s just being annoyed; it’s purely a gesture of irritation.
+
+ISABELLE.
+
+Since our conversation, you will be quite surprised.
+
+To learn, at this very moment, what choice I have made.
+
+I am getting married.
+
+"DORANTE, coldly."
+
+Marry yourself! You?
+
+ISABELLE.
+
+In person. Where does this extreme surprise come from?
+
+Would I be doing wrong, perhaps?
+
+DORANTE.
+
+Oh no: it’s very well done indeed.
+
+That particular hymen was formed through a great mystery.
+
+ISABELLE.
+
+That’s it. It was through your refusal that you truly made an impact on me.
+
+Who I am going to marry, guess.
+
+DORANTE.
+
+Who?
+
+ISABELLE.
+
+Valère.
+
+DORANTE.
+
+Valère? Ah! My friend, I must compliment you on that.
+
+But what about Éliante?.
+
+ISABELLE.
+
+My lover yields to me.
+
+DORANTE.
+
+By heavens! Here, madam, is a truly rare example!
+
+LISETTE.
+
+Before marriage, yes, it’s indeed a strange fact.
+
+Because if it were after that, ah! then one would surely give in.
+
+To get rid of it!
+
+"ISABELLE," she said softly to Lisette.
+
+Lisette, it seems to me.
+
+Let it not come to life.
+
+“LISETTE,” in a low voice.
+
+He thinks that people are just joking;
+
+Wait for the contract to arrive, and you’ll see what his expression will be.
+
+ISABELLE, in a low voice.
+
+Let my whims and senseless games perish!
+
+A lacquerer.
+
+The notary is here.
+
+DORANTE.
+
+But that would be to rush things.
+
+The contract comes into effect tonight! Are you joking?
+
+ISABELLE.
+
+No, certainly not, sir; indeed, I beg you to.
+
+As a friend, I would like to sign it.
+
+DORANTE.
+
+At your command once again, I must resign myself to it.
+
+"Isabelle," in a low voice.
+
+If he signs it, it’s over; I must give up on it.
+
+Scene VI
+
+The notary, Isabelle, Dorante, Éliante, Valère, Lisette.
+
+THE NOTARY.
+
+Am I required to read the contract aloud?
+
+VALÈRE.
+
+No, Mr. Notary; one relies on it in every aspect.
+
+As madam has done it; it simply suits her taste.
+
+The contract has been concluded.
+
+ISABELLE, looking at Dorante with an expression of disdain.
+
+I have no reason to fear.
+
+There is nothing in what it contains that anyone should have reason to complain about.
+
+THE NOTARY.
+
+Or, since it is indeed so, I will briefly.
+
+In short, concisely, in a summary form.
+
+To summarize, to explain, in a laconic style.
+
+The points that are articulated in this authentic act.
+
+And, alongside the fleeting moments still in my hands.
+
+As understood according to law and custom.
+
+Firstly, for the future generations. Item number one: their families.
+
+Grandparents, great-grandparents, father, children, sons, and daughters.
+
+At least reputed to be such, according to the law as well.
+
+Whoever displays signs of marriage ought to be believed.
+
+Items pertaining to their country, stay, and residence.
+
+Past, present, future—whether in the fields or in the city.
+
+An item pertaining to all their possessions, acquisitions, and dowry-related gains.
+
+Precipitate, mortgage, and collateral properties.
+
+One more item for those in their stock and inventory.
+
+LISETTE.
+
+If you would do us this immense favor.
+
+If, from these dull words, the lungs are freed.
+
+You seemed to enjoy, sir, abbreviating what was already brief.
+
+VALÈRE.
+
+In truth, all these details are of no use to us at all.
+
+We believe that the contract is filled with subtle clauses.
+
+But we have no desire to see them today.
+
+THE NOTARY.
+
+Would you like to proceed by approving it?
+
+To corroborate it with your signature?
+
+ISABELLE.
+
+Let’s sign it; I agree. Here is my signature.
+
+To you, Valère.
+
+“ÉLIANTE,” he said softly to Isabelle.
+
+At least, it’s not completely bad.
+
+You promised me that, cousin, didn’t you?
+
+ISABELLE.
+
+Oh! my God, no.
+
+Would Dorante be so kind as to do us the same favor?.
+
+(She presents him with the pen.)
+
+DORANTE.
+
+To please you, madam, nothing is too much.
+
+Isabelle, in a low voice.
+
+My heart is pounding; I fear the end of all this.
+
+DORANTE, to himself.
+
+The future is blank; everything has been going well so far.
+
+"Isabelle," in a low voice.
+
+He signs without any hesitation at all!. In the end, I begin to suspect.
+
+(to Lisette.)
+
+Are you not deceiving me?
+
+LISETTE.
+
+Here’s one good example!
+
+It would be very pleasant if you thought so!
+
+ISABELLE.
+
+Alas! How I wish you would be deceiving me!
+
+At least I would be certain of Dorante’s love.
+
+LISETTE.
+
+To do what with it?
+
+ISABELLE.
+
+Nothing. But I would be happy.
+
+LISETTE, in a low voice.
+
+How these poor children must restrain themselves both!
+
+ISABELLE, to Valère.
+
+Finally, Valère, marriage will crown our vows;
+
+To tighten these knots under a fortunate auspice.
+
+Let us, through their training, perform an act of justice.
+
+At this very moment, I give up the bet to Dorante.
+
+I had thought he loved me, but my healed mind now knows better.
+
+I realized just how much I had been deceiving myself.
+
+In secret, a thousand times over, I had accused myself.
+
+To drive him to despair through excessive cruelty.
+
+Into a rather cunning trap, he plunged headlong.
+
+But all that resulted from my efforts was.
+
+That the regret of seeing his heart devoid of tenderness.
+
+It also braved both cunning and love.
+
+Therefore, choose, Dorante, and name someone on this very day.
+
+The amount you are willing to risk in order to win this bet:
+
+I have a husband to support, but I make sure to take care of myself too.
+
+He is too generous to argue with you about it.
+
+VALÈRE.
+
+Never could you have counted on it more rightly than this time.
+
+Upon my obedience.
+
+DORANTE.
+
+Therefore, I must tell you this.
+
+I ask.
+
+ISABELLE.
+
+Well! What?
+
+DORANTE.
+
+The freedom to write.
+
+ISABELLE.
+
+To write?
+
+LISETTE.
+
+Is he therefore crazy?
+
+VALÈRE.
+
+What are you asking for there?
+
+DORANTE.
+
+Yes, to write my name in this blank space here.
+
+ISABELLE.
+
+Ah! You have betrayed me!
+
+DORANTE, at his feet.
+
+What! Beautiful Isabelle,
+
+Must you be so cruel to me?
+
+Is it even necessary anymore.
+
+Scene VII
+
+Carlin, wearing boots and holding a whip in his hand; the notary, Isabelle, Dorante, Éliante, Valère, Lisette.
+
+CARLIN.
+
+Sir, the horses are ready at all times.
+
+The chair is waiting for us.
+
+DORANTE.
+
+The plague of servants!
+
+CARLIN.
+
+Sir, time is passing by.
+
+VALÈRE.
+
+Oh! What a fantasy.
+
+To disturb us?.
+
+CARLIN.
+
+It is half past six.
+
+DORANTE.
+
+Will you stay silent?
+
+CARLIN.
+
+Sir, we will leave too late.
+
+DORANTE.
+
+Indeed, in my opinion, he is the most cursed talker of all!
+
+Madam, please forgive me.
+
+CARLIN.
+
+Sir, you must make me silent:
+
+But we still have a long way to go tonight.
+
+DORANTE.
+
+May the great devil of hell take you away!
+
+ÉLIANTE.
+
+Lisette, explain it to him.
+
+LISETTE.
+
+Well! Will he listen to me?
+
+And may one say a word in which Mr. Carle speaks!
+
+CARLIN, a bit too quickly.
+
+“Huh! Speak, for heaven’s sake! Speak before we start talking, ”
+
+Speak, while we are speaking; and after we have spoken.
+
+Speak on again, so that you can conclude without having said anything inappropriate.
+
+DORANTE.
+
+You, will you speak on, merciless speaker?
+
+(to Isabelle.)
+
+May I finally take the liberty of assuming that there exists a favorable inclination.
+
+Will it confirm the gift that your laws have promised me?
+
+ISABELLE.
+
+I do not know whether this ability has been fully developed in you.
+
+And I see some mischief at play here.
+
+But, as punishment for my carelessness,
+
+I give you my hand, and I leave my heart with you.
+
+DORANTE, kissing Isabelle’s hand.
+
+Ah! You are taking my happiness to its ultimate limit.
+
+CARLIN.
+
+What in the world are they then? Am I going mad?
+
+LISETTE.
+
+No, my dear, you have a very good eye indeed.
+
+(Laughter.)
+
+Witness the letter.
+
+CARLIN.
+
+Well! What do you want to talk about?
+
+LISETTE.
+
+How difficult it was for me to get stolen from.
+
+CARLIN.
+
+What! Was that done on purpose?.
+
+LISETTE.
+
+My God! What an idiot!
+
+So you thought you were the most skilled one?
+
+CARLIN.
+
+I feel that I was wrong; that infernal trick.
+
+It must give you the upper hand over Mr. Lucifer.
+
+LISETTE.
+
+Never was a comparison less warranted.
+
+I am always motivated by what is best for my fellow beings:
+
+You see, with my care, everything here is happy and content.
+
+They are going to get married—do you want to do the same?
+
+CARLIN.
+
+Alright, I’ll take the leap; but be a good devil, will you?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ebbene! Che ne pensate?
+
+Valère.
+
+Non si rifiuta, signora, un destino così dolce.
+
+Ma un termine troppo breve.
+
+ISABELLA.
+
+È bene dirvi che.
+
+Del resto, si tratta soltanto di un pretesto per ridere.
+
+LISETTE.
+
+Dorante è qui; senza di me, avreste rovinato tutto.
+
+ISABELLA.
+
+Spero che il suo cuore non possa resistere.
+
+Con quel tratto che gli riservo.
+
+Scena V
+
+Isabella, Dorante, Éliante, Valère, Lisette, e un lacchè.
+
+ISABELLA.
+
+Ah! Ecco che arrivi, Dorante;
+
+Vedervi così di rado non mi rende felice.
+
+Perché mi fugite? Troppa presunzione.
+
+Mi ha fatto credere, è vero, che un po’ di passione.
+
+La tua vicinanza e le tue attenzioni verso di me potevano essere la causa.
+
+Ma è davvero necessario prendere la cosa in questo modo così negativo?
+
+Quando, poco fa, ho cercato di esprimere i miei sentimenti con parole troppo dolci.
+
+Impegnare il proprio [cuore](/positions/fideism) a far brillare tutta la sua luce.
+
+Non avevo considerato che potesse trattarsi di un’offesa.
+
+A disturbare la buona intesa tra di noi.
+
+Tuttavia, con dei modi presuntuosi, mi avete.
+
+Il vostro disprezzo offensivo è stato troppo chiaramente espresso.
+
+Ma se l’amante disprezza una schiavitù così debole.
+
+Dovrebbe pur esserci qualcuno, almeno un amico, che mi compensi per questo.
+
+La mia tenerezza non rappresenta certo una tale offesa, credo[63].
+
+Che sia costretto a punirmi interrompendo la nostra relazione.
+
+DORANTE.
+
+So quanto debba alla vostra gentilezza, signora.
+
+Ma i vostri saggi insegnamenti hanno toccato profondamente la mia anima.
+
+Affinché possiate essere sinceri anche voi in questo contesto.
+
+Forse l’avrei sfruttata meglio di voi.
+
+“Isabelle”, sussurrando a Lisette.
+
+Lisette, che freddo! Sembra fatto interamente di ghiaccio.
+
+“Lisette, ”, disse in tono sommesso.
+
+Bene! È solo arrabbiato; lo fa soltanto per fare la faccia offesa.
+
+ISABELLA.
+
+Dopo il nostro incontro, rimarrete sicuramente sorpresi.
+
+Di conoscere, in questo istante, i ruoli che ho svolto.
+
+Mi sposerò.
+
+DORANTE, con freddezza.
+
+Sposarti! Tu stessa?
+
+ISABELLA.
+
+Di persona. Da dove deriva questa sorpresa estrema?
+
+Forse farei del male?
+
+DORANTE.
+
+Oh no. È davvero ben fatto.
+
+Quel matrimonio è stato celebrato in gran segreto.
+
+ISABELLA.
+
+Punto. È proprio sul rifiuto che siete riusciti a costringermi.
+
+Chi sarà la persona che sposerò, indovinate un po’.
+
+DORANTE.
+
+Dove?
+
+ISABELLA.
+
+Valerio.
+
+DORANTE.
+
+Valerio? Ah! Amico mio, ti faccio i miei complimenti.
+
+Ma allora, che ne è di Éliante?.
+
+ISABELLA.
+
+Mi lascia il suo amante.
+
+DORANTE.
+
+Perbacco! Ecco, signora, un esempio davvero raro!
+
+LISETTE.
+
+Prima del matrimonio, sì, la cosa è davvero strana.
+
+Perché se fosse successo dopo, ah! allora ci saremmo arresi.
+
+Per sbarazzarsene!
+
+“Isabelle”, sussurrando a Lisette.
+
+Lisette, mi sembra.
+
+Che non si muova.
+
+“Lisette, ”, disse in tono sommesso.
+
+Credete che si tratti solo di scherzo.
+
+Aspettate di ricevere il contratto, e vedrete la sua reazione.
+
+ISABELLA, tra sé.
+
+Che periscano il mio capriccio e i miei giochi insensati!
+
+UN LACCAIO.
+
+Il notaio è qui.
+
+DORANTE.
+
+Ma questo significa affrettarsi.
+
+Il contratto, stasera stesso! Non è uno scherzo, vero?
+
+ISABELLA.
+
+No, certamente no, signore; anzi, vi prego.
+
+In qualità di amico, desidero firmare qui.
+
+DORANTE.
+
+Sempre ai vostri ordini, devo rassegnarmi.
+
+ISABELLA, a bassa voce.
+
+Se firma, è finita; devo rinunciarci.
+
+Scena VI
+
+Il notaio, Isabella, Dorante, Éliante, Valère, Lisette.
+
+Il notaio.
+
+È necessario che io proclami ad alta voce il contratto?
+
+Valère.
+
+No, signor notaio; in ogni circostanza ci si attiene a questo principio.
+
+Ciò che ha fatto la signora, basta che sia secondo i suoi gusti.
+
+Il contratto è stato stipulato.
+
+ISABELLA, guardando Dorante con un’aria di disprezzo.
+
+Non ho motivo di temere.
+
+Non c’è nulla in ciò che contiene che possa far lamentare qualcuno.
+
+Il notaio.
+
+Ora, poiché è così, riassumerò brevemente.
+
+In breve, in sintesi, in modo conciso.
+
+Riassumere, spiegare, in stile laconico.
+
+I punti salienti di questo atto autentico.
+
+E accanto al minuto che mi rimane tra le mani.
+
+Cioè, secondo quanto previsto da legge e consuetudine.
+
+Innanzitutto, per i futuri. E poi, per le loro famiglie.
+
+Nonni, bisnonni, padre, figli e figlie.
+
+Almeno considerati tali, e anche secondo la legge.
+
+Chi mostra di voler sposarsi, deve essere considerato affidabile.
+
+Inoltre, per quanto riguarda il loro paese, la loro permanenza e il loro domicilio.
+
+Passato, presente, futuro, sia nei campi che in città.
+
+Per quanto riguarda tutti i loro beni, acquisizioni e territori ottenuti per donazione.
+
+Preliminari, ipoteche e beni accessori.
+
+Ancora, per quanto riguarda coloro che appartengono alla loro stessa stirpe e linea.
+
+LISETTE.
+
+Inoltre, ci fareste un grande favore.
+
+Sì, se da queste parole cornee si libera il polmone.
+
+Le piaceva, signore, abbreviare ancora di più ciò che era già stato abbreviato.
+
+Valère.
+
+In realtà, tutti questi dettagli sono del tutto inutili per noi.
+
+Riteniamo che il contratto sia pieno di clausole sottili e complesse.
+
+Ma oggi non abbiamo alcun desiderio di vederli.
+
+Il notaio.
+
+Desiderate procedere, approvandolo?
+
+Per confermarlo con la vostra firma?
+
+ISABELLA.
+
+Facciamoci firmare, volentieri; ecco la mia firma.
+
+A voi, Valerio.
+
+“ÉLIANTE, vieni da Isabelle.”
+
+Almeno, non è del tutto vero.
+
+Me l’avete promesso, cugina?
+
+ISABELLA.
+
+Eh, mio Dio, no.
+
+Vuole forse Dorante concederci anche lui questa grazia?.
+
+(Gli presenta la penna.)
+
+DORANTE.
+
+Per compiacerla, signora, non esiste nulla che non si possa fare.
+
+ISABELLA, sottovoce.
+
+Il mio cuore batte forte, temo la fine di tutto questo.
+
+DORANTE, tra sé.
+
+Il futuro è ancora “bianco”; per ora, tutto va bene.
+
+ISABELLA, a bassa voce.
+
+Quel segno così disinvolto. Alla fine, sospetto che.
+
+(A Lisette.)
+
+Non mi state ingannando, vero?
+
+LISETTE.
+
+Ecco una bella esempio!
+
+Sarebbe molto piacevole se lo pensaste davvero!
+
+ISABELLA.
+
+Ahimè, e che il cielo voglia che mi inganniate!
+
+Almeno avrei la certezza dell’amore di Dorante.
+
+LISETTE.
+
+Per farne cosa?
+
+ISABELLA.
+
+Niente. Ma sarei felice.
+
+LISETTE, sottovoce.
+
+Che quei poveri bambini si sforzino entrambi!
+
+ISABELLA, a Valère.
+
+Finalmente, Valerio, l’imene coronerà i nostri voti.
+
+Per stringere questi nodi sotto un felice auspicio.
+
+Rendiamoli giustizia attraverso la loro formazione.
+
+In questo momento, rinuncio alla scommessa con Dorante.
+
+Pensavo che mi amasse, ma la mia mente, ormai guarita, me lo ha fatto capire.
+
+Mi rendo conto di quanto mi sia ingannata.
+
+In segreto, mille volte mi ero rimproverata.
+
+Farlo disperare a causa di troppa crudeltà.
+
+In una trappola abbastanza astuta, si è precipitato dentro.
+
+Ma tutto ciò che è risultato dal mio ingegno.
+
+Che il rimpianto di vedere che il suo cuore privo di tenerezza.
+
+Era abile sia nell’inganno che nell’amore.
+
+Quindi scegli, Dorante, e nominalo oggi stesso.
+
+Il premio che siete disposti a offrire in caso di vittoria nella scommessa:
+
+Devo mantenere mio marito, ma mi assicuro di farlo con dignità.
+
+È troppo generoso per discuterne con voi.
+
+Valère.
+
+Non avreste mai potuto contare su di loro in modo più giusto.
+
+Sulla mia obbedienza.
+
+DORANTE.
+
+Dunque, devo dirvelo:
+
+Chiedo.
+
+ISABELLA.
+
+Beh! Cosa?
+
+DORANTE.
+
+La libertà di scrivere.
+
+ISABELLA.
+
+Scrivere?
+
+LISETTE.
+
+Quindi è pazzo?
+
+Valère.
+
+Cosa stai chiedendo?
+
+DORANTE.
+
+Sì, scrivere il mio nome in questo spazio vuoto qui davanti a me.
+
+ISABELLA.
+
+Ah! Mi avete tradita!
+
+DORANTE, ai suoi piedi.
+
+Ebbene! bella Isabella.
+
+Non vi stancherete mai di essere così crudele con me?
+
+È ancora necessario,?
+
+Scena VII
+
+Carlin, con uno stivale e un frustino in mano; il notaio, Isabella, Dorante, Éliante, Valère, Lisette.
+
+CARLIN.
+
+Signore, i cavalli sono tutti pronti.
+
+La sedia ci aspetta.
+
+DORANTE.
+
+La maledizione dei servitori!
+
+CARLIN.
+
+Signore, il tempo passa.
+
+Valère.
+
+Eh, che fantasie!
+
+Disturbarci?.
+
+CARLIN.
+
+Sono le sei e mezza.
+
+DORANTE.
+
+Tacerai?
+
+CARLIN.
+
+Signore, partiremo troppo tardi.
+
+DORANTE.
+
+Ecco davvero, secondo i miei gusti, il chiacchierone più maledetto che esista!
+
+Signora, perdonate.
+
+CARLIN.
+
+Signore, devo tacere.
+
+Ma stasera abbiamo ancora molta strada da percorrere.
+
+DORANTE.
+
+Che il grande diavolo dell’inferno ti porti via!
+
+ÉLIANTE.
+
+Lisette, spiegaglielo.
+
+LISETTE.
+
+Bene! Vuole ascoltarmi?
+
+E si può dire una parola in cui parla il signor Carle?
+
+CARLIN, un po’ più velocemente.
+
+Ehi! Parla, per l’amor del cielo! Prima che qualcun altro parli, parla tu!
+
+Parla, mentre si parla; e quando si è finito di parlare.
+
+Continua a parlare, in modo da concludere senza aver detto nulla di inappropriato.
+
+DORANTE.
+
+Tu, parlerai ancora, tu che sei un parlante spietato?
+
+(A Isabella.)
+
+Posso finalmente illudermi che esista una tendenza favorevole.
+
+Confermerà il don che le vostre leggi mi hanno promesso?
+
+ISABELLA.
+
+Non so se questo don sia davvero così radicato in voi.
+
+E qui intravedevo tracce di malizia o di scherzo.
+
+Ma, in punizione della mia leggerezza.
+
+Vi do la mia mano e vi lascio il mio cuore.
+
+DORANTE, baciando la mano di Isabella.
+
+Ah! Con questo mi fate raggiungere la massima felicità.
+
+CARLIN.
+
+Che diavolo sono dunque? Forse sto vedendo cose che non esistono?
+
+LISETTE.
+
+No, car voi, mio caro, avete davvero una vista molto acuta.
+
+(Ridendo.)
+
+Lo dimostra questa lettera.
+
+CARLIN.
+
+Beh! Di cosa vuoi parlare?
+
+LISETTE.
+
+Quanto ho faticato per farmi rubare.
+
+CARLIN.
+
+Che cosa! Era tutto fatto apposta?.
+
+LISETTE.
+
+Mio Dio! Che idiota!
+
+Quindi ti immaginavi di essere il più abile?
+
+CARLIN.
+
+Sento di aver sbagliato; questa astuzia infernale.
+
+Devi precedere il signor Lucifero.
+
+LISETTE.
+
+Nessuna paragonanza fu mai meno meritata di questa.
+
+Sempre sono orientata verso il bene del mio prossimo:
+
+Vedi che, grazie alle mie cure, tutto qui è in ordine.
+
+Si sposeranno, vuoi fare lo stesso?
+
+CARLIN.
+
+Va bene, lo faccio; ma sii gentile, per favore.
+
 <span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 À me cacher tes tours mets toute ton adresse ;
@@ -3063,3 +7013,55 @@ Table des matières du titre
 Liste des Mélanges ou littérature variée
 
 Liste générale des titres
+
+<span class="qlang-split" data-lang="en"></span>
+
+To hide your tricks from me, you must reveal all your methods.
+
+Always promote the good within the house.
+
+Arguing about what remains when I will know nothing about it at all.
+
+LISETTE.
+
+Often, among all games, the essence of the wisest one.
+
+More than she would like to admit, she has become involved.
+
+Ladies, from this example, learn something today.
+
+One cannot play with love without risking harm.
+
+End of the foolhardy undertaking.
+
+Table of Contents for the title
+
+List of Miscellaneous Works or Varied Literature
+
+General list of titles
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nel nascondermi i tuoi trucchi, metti tutta la tua abilità.
+
+Sempre, in questa casa, fai prosperare il bene.
+
+Ridici di colui che rimarrà, quando io non ne saprò nulla.
+
+LISETTE.
+
+Spesso, tra i giochi, il cuore della più saggia.
+
+Più di quanto vorrebbe, si impegna scherzando.
+
+Belle, imparate oggi da questo esempio.
+
+Non si può giocare con l’amore senza correre rischi.
+
+Fine dell’impegno temerario.
+
+Indice dei contenuti del titolo
+
+Elenco di miscellane o letteratura varia
+
+Elenco generale dei titoli

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A note on poetics: metaphor is man's most fertile power, and its root lies in the spirit of taboo, in the need to evade unavoidable realities. Ortega closes by asking whether the new poetry, having made metaphor substance, does not favour the denigrating image.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

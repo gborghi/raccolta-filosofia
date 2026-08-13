@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A letter-review of Zenobia Camprubí and Juan Ramón Jiménez's Tagore translations: a poet is defined by the materials his work requires, and Tagore's lyric, made of universal things, needs nothing historical or sumptuous. Literary criticism.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -198,7 +205,7 @@ E non so come spegnerlo!…
 
 Vero che una volta lei si disse questo? Chiaro è che lei non ha mai portato braccialetti; in realtà, portava quella notte una crocetta di rubini, pendente da una catena d'oro. Discreto, il poeta cerca di depistarci con i braccialetti, affinché non attribuiamo nominalmente a lei quei pensieri di così dolce e calda intimità.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/epistle"></span>
 
 Es inútil que nos defendamos. Rabindranath vive lejos, muy lejos de nosotros, en la región sagrada y milenaria que bañan el Ganges y el Brahmaputra. Ha habitado largo tiempo bajo el Himalaya, en medio de una selva ungida de silencio dentro del cual se vierte a ciertas horas la voz del gong llamando a la plegaria en la pagoda. Pero este indio, que tiene un perfil de Cristo ario y una mirada febril entre sus párpados, ha pasado por innumerables avatares o reencarnaciones: ha sido sucesivamente todas las cosas. Como el Buda ha sido liebre y ha sido lobo, ha sido muchacha y ha sido guerrero, sacerdote y juglar. De una en otra existencia ha ido acumulando ese íntimo fermentar secreto de cada vida y al través de cuerpos sin cuento, se ha filtrado su alma, como la gota por las capas de roca, perdiendo [materia](/positions/materialism) y ganando en esencia sutil. Esta esencia sutil de una vida innumerable nos llega hoy, líricamente modulada, en el dulce trémolo de su poesía. Si ha sido un poco cada uno de nosotros, ¿cómo extrañar que en estos versos sorprendamos la revelación de nuestros propios arcanos?
 
@@ -294,7 +301,7 @@ Questo non è un modo di dire, ma una verità letterale. Quello che succede è c
 
 Tutti i grandi spiriti hanno saputo ascoltare, sotto i rumori esteriori della vita, la gioia e il pianto del bambino che portiamo dentro. Quando nel Fedone Socrate si dispone a morire, Platone ce lo presenta mentre dimostra logicamente ai suoi discepoli che non dobbiamo temere la morte. Ma Cebete replica sorridendo: «Sta molto bene tutto ciò che dici, Socrate; ma io vorrei che tu ci convincessi in un altro modo, poiché, sebbene noi non temiamo la morte, forse un bambino dentro di noi se ne spaventa. E questo, proprio questo devi convincere perché non si sbigottisca della morte come di un fantasma errante».
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/epistle"></span>
 
 Señora, ¡qué libro más bello se podría escribir sobre el niño en nosotros! Sólo vivimos verdaderamente las horas que él logra vivir. Somos personas formales en los días vulgares de nuestra existencia; pero en las cimas de la vida, en el sumo dolor o la dicha máxima, el niño en nosotros reaparece.
 
@@ -444,7 +451,7 @@ E intanto l'aria si satura del profumo della promessa.
 
 Non è questo, signora, il supremo azzeccare: riuscire a che la vita ci si presenti come un albero carico di promesse mature? Che importa se non si adempiono? Il decisivo è che la promessa di domani dia brio alle nostre ore di oggi. Credere che sta per accadere, che può accadere qualcosa d'immenso intorno a noi… ecco l'emozione che io desidero di più per quelli che amo di più! L'orribile è che nulla intorno a noi ci invii allusioni a un fermentare segreto e romantico che forse bolle sotto la corteccia visibile del mondo. Se le cose non sono più che ciò che sono, non offriranno pretesto perché funzioni la nostra viscera cordiale. La nostra pupilla si fermerà su di esse; ma non si scaglieranno i nostri affanni. Per questo fa bisogno che le cose irradino al di là di ciò che ciascuna è in realtà certo alone immaginario e come luminosa palpitazione; che appaiano nel nostro paesaggio circondate di aureola, al modo che l'Arcangelo Gabriele, e come lui, siano messaggere di annunciazioni. Vuole un esempio chiaro di questo che dico vagamente? Il sembiante di una donna bella. Non lo vediamo lì, davanti a noi? Non ci consegnano i nostri occhi intera la sua realtà? E, nondimeno, la visione del bel volto, lungi dal soddisfarci, è l'incitatore del nostro desiderio. Perché la bellezza —diceva Stendhal— è una promessa di felicità, e ciò che ha di bello non è ciò che ha di reale, ma ciò che ha di promessa.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/epistle"></span>
 
 Los acontecimientos que los hombres solemos llamar grandes, como una gran tormenta o una gran batalla, embotan nuestra sensibilidad por su misma violencia. Cuando acaecen, los percibimos según son, y sólo lo que ellos son percibimos. En cambio, a lo mejor, tendidos en la umbría, una hoja vaga que se desprende de la fronda nos roza la sien y produce en nosotros un misterioso estremecimiento, en que nos parece barruntar un suceso inmenso que en aquel instante está ocurriendo, tan grande y universal, que no tiene límites, que no tiene forma, que no puede ser definido ni nombrado, y del que la hoja caediza es sólo un humilde nuncio o infinitesimal síntoma. ¡Cuán otro tono y tensión serían los de nuestra vida si acertásemos a creer que hay en todo objeto el símbolo y anuncio de un inmenso bien o de un inmenso mal! Al menos, usted y yo sólo estimamos hondamente a los que creen esto y van por el mundo con un alma de cristal, pronta a quebrarse bajo el golpe de un grano de arena. Para ellos, como para Novalis, es la naturaleza una varita mágica… petrificada.
 

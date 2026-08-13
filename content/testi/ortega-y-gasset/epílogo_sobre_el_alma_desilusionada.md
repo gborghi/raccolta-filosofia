@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Epilogue describing the historical cycle as three successive souls: traditionalist (trust in the past), rationalist (trust in individual energy), and — after rationalism's inevitable failure — superstitious. Post-revolutionary ages are decadence: generalized cowardice, depopulation, the return of absurd rites; the debased soul is «the dog looking for a master».
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]], [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/decadence|decadenza]], [[positions/revolution|rivoluzione]]  
+**Concetti:** [[concepts/reason|ragione]], [[concepts/religion|religione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

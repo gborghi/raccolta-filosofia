@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A four-point statement (España, 1916) against creating a chair of Modern Neo-Latin Literatures for Emilia Pardo Bazán: there is no philology of the contemporary, Spain lacks a research chair in Spanish literature itself, and the writer — whom Ortega says he admires — does not command the unanimity the Moyano law would require.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

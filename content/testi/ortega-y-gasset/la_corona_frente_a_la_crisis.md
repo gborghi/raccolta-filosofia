@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article on the fall of the Maura-La Cierva government and the Crown's error in backing a cabinet with no popular support, discussing the 2 May note on the dissolution decree. Political chronicle.
 

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A speech on the question of forms of government: Ortega rejects the formula that they are "accidental", since every institution is — institutions are means, justifiable only by their efficacy, while what is indispensable are the ends: the generic ideals of democracy, human justice and the vital plenitude of society.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/justice|giustizia]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -144,7 +152,7 @@ C'è un momento famoso, nell'anno 1878, in cui Cánovas, avendo oppresso oratori
 
 …Il quale era il partito liberale della Restaurazione.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/political_legitimacy,concepts/state,concepts/justice,forms/lecture"></span>
 
 Sin embargo, no creáis que esto ha pasado por completo. Si no en fórmula tan extrema ni tan solemne, yo tengo aquí unas palabras del señor Maura en 1907, donde viene a decirse lo mismo: «Así como una mujer, para elevar sus plegarias a la Virgen, necesita de una imagen para formarse una idea de ella, así la idea de la Patria no está concebida sin el Rey».
 

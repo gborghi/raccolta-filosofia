@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article defending the Republic: in politics there are no principles—those belong to geometry—only historical circumstances that define what must be done. The Republic must be defended because it is the one regime that corrects itself and tolerates no falsification of itself, and because only through it can Spaniards become a nation.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

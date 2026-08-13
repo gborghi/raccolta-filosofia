@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to Julio Cejador, his old Greek teacher, on the question of Costa and the europeanisation of Spain. The central reproach is a lack of 'intellectual altruism' — the capacity to send one's intelligence on pilgrimage into the heart of things or of one's neighbour, to leave one's own precinct and lodge in another's, as the Buddha did by multiplying himself five hundred times. Journalistic polemic.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +102,7 @@ Così fu suscitata quella grandiosa fatica di filologi, di storici, di giuristi 
 
 A eccezione dei krausisti, presero gli spagnoli, senza meditarli, come chi li compra in farmacia, i dogmi di quella filosofia straniera, e più o meno coscientemente si lasciarono impregnare della sua sostanza. Poco fa, con la malignità che gli è nativa, ci mostrava Ramón Pérez de Ayala un esemplare dell'Estetica di Hegel, nei cui margini aveva lasciato Cánovas alcuni gesti poco decenti.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Jurista y filólogo, como hombre científico; oriundo, como hombre instintivo, de una comarca española que conserva más acusados que otra alguna ciertos rasgos irreductibles de la raza, Costa se saturó de la atmósfera historicista, de los dogmas románticos, y dejando ir su corazón y su cerebro hacia donde naturalmente tendían, dedicó su vida austera y solícita al estudio del pueblo español, de las masas irracionales hispánicas. Conforme con los principios extranjeros, que sin detenerse a discutirlos había aceptado, pensaba que cada Pueblo tiene su misión histórica, su carácter metafísico irrompible y su absoluta justificación. Porque ha de notarse que aquel amor hacia lo peculiar, sugerido por el hegelianismo, degeneró en un [empirismo](/positions/empiricism) histórico que se afanaba exclusivamente por dotar a lo transitorio e individual de una importancia eterna.
 

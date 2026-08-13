@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against Dato and García Prieto, who call for a return to the two great parties: their dissolution is not Spanish but universal, and it marks off twentieth-century politics from that of the nineteenth, when men fought over juridical convictions—democratic liberalism, the rights of man—that is, over simple abstract concepts that summoned everyone.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

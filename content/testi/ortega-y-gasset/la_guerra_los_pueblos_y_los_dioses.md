@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on the idea of the nation, child of German Romanticism (Herder, Schelling, Hegel). Ortega rejects anatomical and racial determinism in history — mocked in Hammon and Buckle — and seeks instead a psychological or ideological historical determinism: a fatality that does not exclude freedom, since a man is ultimately the ideas he holds.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]], [[assi/freedom_necessity|Libertà e necessità]]  
+**Concetti:** [[concepts/freedom|libertà]], [[concepts/idea|idea]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +128,7 @@ Orbene, il rompimento dell'unità linguistica richiede per essere spiegato, seco
 
 Questa idea di Schelling ha una prima apparenza stravagante. Nondimeno, si mediti un poco. Si metta in luogo di Dio l'idea di maggior efficacia che contenga la mente di un popolo e dalla quale le altre prendono la loro origine. Due collettività che discrepassero in quella idea primaria non potrebbero vivere insieme, come un circolo repubblicano e un circolo jaimista. E non possono vivere insieme, semplicemente perché non si intendono. Parlano ideologie incomunicanti e repulsive.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,assi/freedom_necessity,concepts/freedom,concepts/idea,forms/essay"></span>
 
 Schelling se deja ir a una etimología ingeniosa, pero que sólo tiene un valor metafórico. La confusión bíblica de las lenguas partió de Babel. ¿Qué es esto de Babel? Se dice que Bab-Bel, puerta de Dios. Nada de eso. La significación verdadera, la da la Biblia en el versículo 9º: «Por esto fue llamado el nombre de ella Babel, porque allí confundió Jehová el lenguaje de toda la tierra y desde allí los esparció sobre la faz de toda la tierra». Babel es propiamente Balbel, una palabra onomatopéyica con que se imita el ruido que percibimos al oír una lengua desconocida. Es el mismo tema —sigo reproduciendo a Schelling —que produjo la palabra griega bárbaro, es decir, el que habla otra lengua, aquél a quien no entendemos, y la latina balbuties, la francesa babil y la española balbucear.
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article against the regional statute produced by the Commission: the error was waiting until autonomy became a threatening demand, petrifying a generous idea into the 'Catalan question'. The autonomy question is neither Catalan nor Basque: what all feel is the discredit of central Power, and the only way back to a respectable State is to rebuild it by creating local powers.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

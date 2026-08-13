@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Dialogue (opened by a parodic boxing scene) on Henri Massis's Catholic literary criticism: Ortega holds that it does not exist, any more than the round square, and that France's militant Catholics confine themselves to assertions and insults without ever calmly posing a problem.
+
+## Connections
+
+**Concetti:** [[concepts/religion|religione]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -138,7 +145,7 @@ Il signor Henri Massis, autore di queste Riflessioni sul romanzo[37], esercita l
 
 —Di modo che per lei tomismo e classicismo…
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/religion,concepts/beauty,forms/dialogue"></span>
 
 —Sí; con todo respeto sea dicho, y reservándome un amplio margen para juicio más detallado y formal, tomismo, clasicismo y demás específicos me parecen cosas que inventan los hombres para no trabajar. Apartémonos cortésmente, pero un poco aburridos, de las personas que nos las proponen con gesto farmacéutico. El deber del hombre no es poseer, sea como sea, soluciones, sino aceptar, sea como sea, los problemas. Y éstos son siempre los actuales, son el destino de cada generación.
 

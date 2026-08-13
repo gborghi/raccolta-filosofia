@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A note on Stefansson's Arctic expeditions, which drop supplies and "live off the country" by hunting seals. Ortega draws a definition: elegance is sobriety in plenitude, and reaches its summit, paradox, when the difficulty itself becomes the resource.
 

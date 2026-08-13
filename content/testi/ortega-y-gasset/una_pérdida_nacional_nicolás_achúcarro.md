@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Obituary (El Sol, 26 April 1918) of the histologist Nicolás Achúcarro, inventor of the silver-and-tannin method and researcher into the physiological basis of emotional life in the neuroglia. Ortega turns it into a case of Spain's blindness to its best men. A commemorative, not a philosophical, text.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

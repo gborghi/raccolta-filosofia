@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Op-ed against all demagoguery of right and left, against flattery of the masses (fascism and Nazism as its last manifestation) and against the mimicry of peoples that fail to invent their own destiny.
+> The digest supplies no text sample (294 words, no excerpt), so the content cannot be judged; the title alone suggests a political article against demagoguery.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

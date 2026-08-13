@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A defence of parliament against the unanimous contempt for it: reactionaries exploited disinterested criticism to discredit it, and to negate an institution without replacing it is the height of anarchism. A historical thesis follows: since 1789 Europe's right has done anarchic work, and the West's task is to purge its national bodies of the chronic rancour the French Revolution left in them — invoking Nietzsche on Russian ressentiment.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/ressentiment|risentimento]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ El Sol, 28 giugno 1922
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,concepts/ressentiment,forms/essay"></span>
 
 He empezado por decir que la opinión despectiva sobre nuestro Parlamento es casi unánime. No me extrañaría, pues, que esta defensa de él se juzgue, al primer pronto, extravagante. Pero es el [caso](/concepts/fortune) que aquella opinión me parece errónea. Las razones en que se funda son, a mi juicio, falsas, o, cuando menos, inexactas. El hecho de que casi todo el mundo las acepte como buenas no es sino un motivo más para que me sienta obligado a pedir la revisión.
 
@@ -180,7 +187,7 @@ La politica della Corona non è stata, su questo punto, molto fortunata. Con la 
 
 Non credo che dire questo sia scoccare nessun terribile dardo contro la Monarchia. Estraneo all'azione politica e ostile a ogni demagogia, neppure ideologicamente partecipo della confessione antimonarchica. Inoltre, non vedo con chiarezza che, come suole udirsi in giro, l'Europa evolva verso la Repubblica; anzi intravedo che, sotto opposte apparenze, si diriga verso nuove forme di Monarchia. Ma questa è [materia](/positions/materialism) complicata, e ora mi interessa soltanto sottolineare l'intenzione monarchica con cui oso lasciar cadere un'obiezione alla politica della Corona.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,concepts/ressentiment,forms/essay"></span>
 
 ¿En qué ha consistido el error? Reduciendo la respuesta al menor número de palabras, yo partiría de la objeción más repetida, y que se juzga decisiva contra el Parlamento, a saber: que en las Cortes no se puede aprobar una simple ley. Está bien; pero, ¿por qué pasa esto? Porque el Parlamento se compone de grupos inorgánicamente hacinados. ¿Y esto por qué? En todas partes murieron hacia 1900 los grandes partidos. En su lugar se han formado en todas las naciones grandes articulaciones de grupos. En España, no. ¿Por qué? Porque esas articulaciones no se forman en la luna y mediante un ukase, sino en los Parlamentos y merced al ejercicio libre de la vida parlamentaria, pasando por épocas de grandes luchas, apasionamientos y conflictos. La vida es así, y sólo se pare con dolor y entre convulsiones. En España no ha habido nada de esto. ¿Por qué? Fuera del Parlamento, la opinión política es sumamente débil. Más que en parte alguna, el Poder necesita aquí nutrirse del escorzo de opinión pública que forma el Parlamento. La Corona, que cambió de sienes cuando morían en España los viejos partidos, ha creído ver en la crisis fisiológica que atravesaban las Cortes españolas para poder organizar las grandes articulaciones parlamentarias un síntoma patológico. Con excelente deseo e insuficiente paciencia ha querido evitar a la nación los efectos de esas crisis, y ha intervenido instigada por el noble afán de curar lo que juzgaba una enfermedad. Ha disuelto Cortes que no debieron ser disueltas; ha ensayado jefes de Gobierno sin dar tiempo a que madurasen sus poderes parlamentarios; con ello ha contribuido a atomizar las fuerzas políticas y las ha habituado a buscar el Poder exclusivamente en Palacio. Cuando se iniciaba algún debate enérgico, capaz de llegar a alguna conclusión clara, y, por tanto, a una estructuración orgánica de los grupos, ha llamado a sus ministros en uso constitucional y ha elegido otros para que apagasen el germen de incendio. De aquí que en el Parlamento no se haya podido llevar nada a sus naturales y fecundas consecuencias. ¿No es excesivo pedir que un instrumento sometido a tal régimen resulte hoy usadero? La máquina yace desvencijada por error de conducción. Déjesela funcionar dos años seguidos, sin intervenciones forasteras, y se verá cómo, automáticamente, el aparato, volviendo a sus goznes y engranajes, se pone en movimiento. No hará cosas excelsas, pero marchará regularmente. Con los mismos hombres, con los mismos vicios individuales, la institución representativa puede recobrar aquel mínimum de autoridad que el Poder público necesita. Entonces será ocasión para pensar en mayores finuras.
 
@@ -252,7 +259,7 @@ Con questo arriviamo a un altro dei luoghi comuni antiparlamentari. Io nego reci
 
 La concentrazione liberale-riformista, riunitasi poco fa al Palace, faceva al paese la stessa richiesta che io ora faccio perché si assicuri il funzionamento delle Cortes. Il proposito sembra degno di ogni applauso. Ma, forse, non è stata azzeccata la svolta che è stata data alla sua espressione. Perché quella richiesta viene inclusa in un programma dove si sollecita l'instaurazione di certe forme giuridiche, semplicemente perché, come forme giuridiche, sembrano preziose ai concentrati.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,concepts/ressentiment,forms/essay"></span>
 
 Poseen éstos una hipersensibilidad para las formas de Derecho que es muy estimable, pero evidentemente anacrónica. En tiempo de Hegel y más aún en el de Edgard Quinet, comulgaban amplias masas sociales en la fe de que hemos venido al mundo para realizar ciertas formas jurídicas. Se componían filosofías de la historia mostrando la larga y ondulante línea de las aventuras humanas como un proceso progresivo de realización del Derecho. Había entonces en el aire público una voluptuosidad para los formalismos del Corpus Juris, que hoy falta por completo. Estamos en otra edad, y no sobraría que gentes de avance como los concentrados lo advirtiesen. Ya no sienten fruición por las puras formas jurídicas más que los jurisperitos. Es la huella y el hábito de su oficio. ¿No convendría ampliar un poco más el estilo de la concentración a fin de que no lo fuese sólo de abogados?
 

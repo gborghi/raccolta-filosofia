@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Essay on the history of the sciences imagined as persons with individual destinies: the nineteenth was the 'great cross-eyed century', in which every science sought to rule the others or envied them (everything wanted to be physics, then history, then biology, then mathematics). In the twentieth each science has instead accepted its own destiny and its own limit.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +84,7 @@ La scienza fisica, che comincia nel secolo XVI, non si deve a che certi uomini, 
 
 Non l'osservazione produsse la fisica, ma l'esigenza dell'osservazione esatta. Ed esattezza è un vocabolo che ha senso proprio, autentico, soltanto in matematica. La novità della nuova scienza (nuova scienza) di Galileo fu l'introduzione formale della matematica nell'osservazione, la quantificazione radicale dei fenomeni per la loro radicale misurazione; perciò, l'esperienza matematica.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Pero esta aplicación que Galileo hace de las leyes matemáticas a los fenómenos físicos hubiera sido imposible si Galileo no hubiese padecido el prejuicio de que los fenómenos físicos obedecen, sin duda alguna, a las leyes matemáticas; por ejemplo, si no hubiese creído de antemano y previamente a toda experiencia que en la naturaleza hay ángulos rectos y que en un triángulo corporal la suma de sus ángulos es igual a dos rectos. Para la física la cuestión era averiguar a qué otras leyes especiales obedecían los fenómenos materiales, además de obedecer, esto era para él incuestionable, a las leyes geométricas. Por eso dice: «La verdad está escrita en la naturaleza con letras matemáticas». La física trata de leer las palabras, pero ni siquiera discute el abecedario. Por eso Galileo no se ocupa de hacer experimentos con el fin de demostrar físicamente si hay en la naturaleza ángulos rectos. Quiere ello decir que para la física, hasta hace unos cincuenta años, era una cosa indiscutible y evidente que las leyes geométricas por sí y a potiori, son leyes físicas; que los cuerpos obedecen dócilmente a aquéllas. La física, pues, comienza no por experimentar, sino, al revés, por no experimentar, por prejuzgar la docilidad geométrica de la [materia](/positions/materialism).
 

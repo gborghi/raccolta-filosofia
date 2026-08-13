@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On the Italian war in Tripoli: it is no more unjust than others, but it is peculiarly repellent because waged without a decent mask and with national unanimity, which reveals in a people's sincere depths the capacity to commit it. He then dwells on censorship and on the duality of public and private truth: official truth is constitutively a prudent administration of falsehood.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ Come chiamare tutto questo? C'è una frase volgare —e con essa rendo in pochi 
 
 La parola è dura, e io vorrei che non la si prendesse nella sua significazione volgare. Ma è questo, è questo e non altra cosa ciò che distingue le grandi nazioni riflessive dalle piccole razze isteriche del Sud. Inghilterra, Germania, Francia non perdono la testa. Che coincidenza!
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Y otras naciones, como ahora Italia, parece como si sólo aguardaran un pretexto para desentenderse de su propia testa, como si se hallaran más a gusto sin ese utensilio capital. Y la anexión simplicísima de un par de kilómetros o unas míseras huelgas o cualquier otra cosa basta para que éste se líe la manta a la cabeza y el otro líe la cabeza en la manta, y ambos pierdan la cabeza y pierdan la manta. Y mañana será otro día —que dice un cuarto tópico. Y no mañaneamos nunca —que dice un clásico español.
 

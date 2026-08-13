@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A short preface to the Austral edition gathering Misión del Bibliotecario, Misión de la Universidad and the essay on translation. Its one conceptual note is that of every human faculty or doing the chief thing to investigate is its 'mission', i.e. the οὗ ἕνεϰα, Aristotle's 'that for the sake of which'. Otherwise the text is editorial and autobiographical.
+
+## Connections
+
+**Concetti:** [[concepts/four_causes|le quattro cause]]  
+**Figure:** [[figures/aristotle|Aristotele]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

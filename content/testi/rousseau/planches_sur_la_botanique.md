@@ -10,6 +10,8 @@ tags:
   - "philosopher/rousseau"
 ---
 
+*Rousseau*
+
 > [!abstract]
 > Brief captions (55 words) for the illustrative plates of Rousseau's botanical writings: descriptions of the structure of mosses (Tortula subulata seen under the microscope) and lichens (Lichen fraxineus). Ancillary scientific material, without philosophical content.
 
@@ -33,3 +35,35 @@ Table des matières du titre
 Liste des Œuvres sur la botanique
 
 Liste générale des titres
+
+<span class="qlang-split" data-lang="en"></span>
+
+k. A complete plant.
+
+N.B. All these examples of the structure of mosses are taken from *Tortula subulata*, observed under a microscope and greatly magnified.
+
+l. Lichen fraxineus. LIN.
+
+End of the chapters on botany.
+
+Table of Contents for the title
+
+List of Works on Botany
+
+General list of titles
+
+<span class="qlang-split" data-lang="it"></span>
+
+k. Pianta intera.
+
+Nota: Tutti questi esempi riguardanti la struttura delle Muschi sono tratti dalla specie Tortula subulata, osservata al microscopio e ingrandita notevolmente.
+
+l. Lichen fraxineus. LIN.
+
+Fine delle tavole sulla botanica.
+
+Indice dei contenuti del titolo
+
+Elenco delle opere sulla botanica
+
+Elenco generale dei titoli

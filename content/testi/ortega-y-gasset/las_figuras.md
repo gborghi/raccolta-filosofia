@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A historical reconstruction of the tenth century through chronicles and letters: after the age's "sociological logarithm", Ortega seeks its "sentimental logarithm" in the figure of Robert the Pious, a most pious king and musician in whose soul the most opposed tendencies struggle. Historical narrative, not speculation.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +108,7 @@ Il Sinodo di Pavia lo minaccia: «Il re Roberto, che, a dispetto dell'interdizio
 
 Certa inquietudine dovette sentire Roberto nel fondo della sua coscienza religiosa nell'avvertire sull'anima il peso tremendo e sinistro di un anatema; ma né lui né i vescovi irregolari si diedero per intesi. Il 26 ottobre del 999, Berta era ancora sposa del re dei Franchi; in questa data Roberto fece una donazione all'abbazia di Saint-Maur-des-Fossés «a richiesta della sua cara madre Adelaide e della sua sposa Berta».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 La situación del rey era por demás extraña. Su piadosa figura, que se había hecho tradicional en el pueblo, veíase envuelta en la obscura atmósfera de los réprobos. Era, por lo tanto, muy natural que se levantaran en torno suyo toda clase de leyendas, y como la primera Edad Media tenía pesados y amargos los sueños, claro está que estas leyendas fueron siniestras, embrujadas y angustiosas. Pedro Damián cuenta que con motivo del anatema huía la gente de la presencia de Roberto; sólo quedaron junto a él dos siervos para prepararle la comida, y aun éstos arrojaban al fuego los platos en que había yantado, los vasos en que había bebido. En fin, el castigo divino se disfrazó de pesadilla, y Berta [dio](/axes/god) a luz un monstruo, con cabeza y cuello de oca. En el pórtico de algunas catedrales vense esculturas representando una reina que deja ver entre los pliegues de su túnica uno de sus pies palmípedos, y los sabios andan discutiendo si sería ésta la famosa reina Pédauque o acaso la celebre y romanceada Berthe-aux-grands-pieds, esposa de Pipino el Breve. El nacimiento de este pobre monstruo no parece, a la verdad, confirmado, porque el citado Pedro Damián tiene un instinto literario más bien con tendencias a gozarse en los cuentos bellos y narraciones imaginarias que a depurar y criticar sus afirmaciones y noticias.
 
@@ -156,7 +162,7 @@ Restano annotate la condotta e i sentimenti di Roberto nella vita privata. Come 
 
 Non è necessario —mi pare— dedurre le conseguenze di generalizzazione psicologica che offre la figura di Roberto e delle sue due mogli. La semplice relazione dei suoi atti e costumi rappresenta e spiega tutta la rudezza, l'incertezza e l'esaltazione spirituale e istintiva dell'epoca in cui nacquero; tempo di angosce, e più ancora, tempo di eccessi, in cui tutto si portava fino al colmo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Otro interesante personaje —apuntaremos— atraviesa el siglo X y los comienzos del XI, poniendo con sus obras un sello a la época; Fulque o Fulques el Negro, Nerra, conde de Anjou desde 987. De él dice un moderno historiador, cuidadoso en su crítica y justo en sus palabras, que «es seguramente uno de los personajes más curiosos del reino que estudiamos». Se ha querido hacer de él un gran táctico en la guerra, un político profundo en la paz. Se nos le ha mostrado emancipando los esclavos «con soplo civilizador», cultivando los bosques, velando por la instrucción de los pobres escolares del Maine y de Anjou; dictando «cartas liberales que llevan de una manera irrecusable la contraseña de su personalidad». En una palabra, se nos le ha presentado como un grande hombre que dominó su siglo desde la altura de su genio. Fulques, sin embargo, no fue superior a su época; más bien pudiera decirse que es su personificación. Fulques causó estupor a sus contemporáneos; los asombró con sus crímenes y excitó su admiración por la firmeza de sus arrepentimientos, hasta tal punto que se ignora cuál fue el sentimiento dominante en los escritores de entonces que de él nos hablan. Era Fulques uno de esos hombres que pasan sin transición de un extremo a otro. Realiza matanzas espantosas; nada le arredra, y súbitamente la inmensidad de su falta se presenta ante su espíritu, el remordimiento atormenta su corazón, la superstición más grosera le sobrecoge: entonces cede y su arrepentimiento no conoce límites. Pero el arrepentimiento pasa veloz a [causa](/concepts/cause) de su mismo exceso, y nuevamente aparece el hombre ávido y sanguinario. La leyenda tenía mucho que hacer en torno de este personaje, y así se apodera de él de modo que es muy difícil hoy discernir el lugar donde la verdad concluye y la fábula comienza. Fulques —dícese— apuñaló con su propia mano a su primera mujer, Isabel, acusada de adulterio: leyenda… leyenda también el castigo que impusiera a su hijo Geoffroi, reduciéndole, después de una rebelión, a caminar varias millas con una albarda en los hombros. Pero a través de todas estas ficciones se aprecia el verdadero carácter del hombre, mezcla de ferocidad y superstición, que sólo por la grandeza de sus penitencias igualó la de sus crímenes.
 
@@ -204,7 +210,7 @@ Nato in Alvernia, da una famiglia povera, è educato per carità dai monaci nel 
 
 Ugo Capeto si servì di lui in quasi tutti gli affari di politica estera, e così egli fu colui che scrisse la lettera indirizzata agli imperatori di Costantinopoli Basilio II e Costantino VIII, chiedendo per Roberto la mano di una delle loro figlie: è un modello di astuzia, e se non produsse effetto bisogna cercare altrove la causa e non nei difetti di questa epistola.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Enérgico, en medio de sus divagaciones científicas, renovó la influencia del Papado sobre Francia, que, como hemos visto, se hallaba bastante debilitada. Sin embargo, su exaltación a la primera dignidad de la Iglesia impresionó sobremanera a sus contemporáneos, porque la mayor parte de las prelacías y dignidades eclesiásticas pertenecían a las familias principales como signaturas hereditarias, y las mismas instituciones religiosas no habían sido favorables al mérito aislado. Tanto es así que la fantasía popular ha imaginado a Gerberto haciendo en Córdoba pacto con el diablo para que éste le ayude a ganar la Sede Pontificia, vaticinándole a la vez el diablo que moriría en Jerusalén. Efectivamente, andando los años y cuando celebraba una ceremonia en una capilla de Roma, llamada Jerusalén, se presentó el diablo y exclamó según el verso marmóreo de Dante:
 
@@ -288,7 +294,7 @@ Né asceta, né mistico, impaziente di ogni disciplina, incline alla malizia, am
 
 La sua cultura intellettuale era tanto esigua quanto la sua coscienza religiosa. Il suo latino è oscuro e scorretto, le sue idee goffe e arruffate, la sua critica non esiste e la sostituisce una malignità oziosa e pigra. Così racconta con fede incrollabile tutte le meraviglie che si riferirono al suo tempo, e forse per questo la lettura di quelle pagine ci riesce amabile e perfino seduttrice. Racconta, per esempio, che un certo drammatico di Ravenna, chiamato Vilgardo, vide in sogno Virgilio, Orazio e Giovenale, i quali gli diedero grazia per ciò che curava le loro opere e gli assicurarono che avrebbe avuto parte nella loro gloria. Vilgardo pubblicò che era necessario tenere come articoli di fede tutti i loro versi, e fu accusato di eresia e condannato. Ebbe in Italia molti partigiani che perirono per il ferro e per le fiamme.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Glaber muestra así el odio que los monjes sentían por la antigüedad pagana. Hablando de Gerberto consiente en otorgarla «un espíritu muy agudo y bien formado en las artes liberales»; pero se apresura a señalar con él el genio de la intriga y el arte de hacer astutamente su [fortuna](/concepts/fortune).
 
@@ -336,7 +342,7 @@ L'Età media, ubriaca di soprannaturale, applicò alla visione delle cose un'ott
 
 Le peregrinazioni si iniziano, e questo che doveva costituire la principale passione dei secoli posteriori, guadagna già le anime dei principi e re millenari; Folco Nerra, d'Angiò, va a San Giovanni in Laterano e tre volte a Gerusalemme; Roberto visita Roma in due occasioni; Roberto il Diavolo o il Magnifico, fa anch'egli il giro di Palestina e muore a Nicea. È un grande imperativo, imposto dalla desolata realtà, l'anelito spiritualista che porta durante tutta la seconda metà di questa centuria quei forti signori e quei miserrimi contadini a Santiago, a Roma, a Monte Cassino, a Gerusalemme, al Santo Sepolcro. Mentre questi uomini vagabondano per i luoghi religiosi, si elevano in Francia cappelle e chiese e si prepara il gran Rinascimento architettonico cristiano del secolo XI.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Pero sigamos con Raúl Glaber, el cual nos revelará mejor que consideración alguna el estado de espíritu de la época. «Para nosotros, cristianos, todo es figura» y así anuncia un método histórico, inventado por él y que es bastante heteróclito. El de la Divina cuaternidad. Las cuaternidades, cifra sagrada, son para los padres griegos una especie de ley o de ritmo, así de las cosas celestes como de los acontecimientos terrenos; el espíritu que quiere abordar las altas especulaciones debe comenzar por «sumirse en sus influencias recíprocas»; y a continuación nuestro monje enumera cuantas cosas aparecen en el Universo de cuatro en cuatro; los cuatro Evangelios, las cuatro virtudes cardinales, los cuatro sentidos (el tacto, que compondría el quinto, es apartado desdeñosamente por el fraile cabalista), los cuatro elementos, etc. No le seguiremos en sus divagaciones simbolistas. Junto a ellas aparecen las supersticiones menos filosóficas de los campesinos. Se citan algunas sumamente curiosas: para tener buena cosecha, es preciso no comenzar a labrar hasta después de haber paseado por tres veces un poco de pan y de avena, con un cirio encendido, alrededor del arado. Para que las semillas sean mas fructíferas, conviene cernerlas con un harnero, hecho con piel de lobo y que sólo tenga treinta agujeros, o bien haciendo pasar sobre ellas un topo. Para alejar los pájaros voraces, debe regarse el campo con agua en que se haya arrojado un cuerno de ciervo, y también escribir varias veces sobre él el nombre de Raphael.
 

@@ -1,90 +1,2764 @@
 {
   "Elements_of_the_Philosophy_of_Right": {
-    "axes": ["political_legitimacy", "state_and_individual", "moral_foundation", "freedom_necessity", "meaning_of_history"],
-    "positions": ["idealism", "dialectic_of_spirit", "civil_society", "natural_right", "sovereignty"],
-    "concepts": ["freedom", "will", "state", "law", "property", "justice", "education"],
+    "axes": [
+      "political_legitimacy",
+      "state_and_individual",
+      "moral_foundation",
+      "freedom_necessity",
+      "meaning_of_history"
+    ],
+    "positions": [
+      "idealism",
+      "dialectic_of_spirit",
+      "civil_society",
+      "natural_right",
+      "sovereignty"
+    ],
+    "concepts": [
+      "freedom",
+      "will",
+      "state",
+      "law",
+      "property",
+      "justice",
+      "education"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["treatise"],
-    "schools": ["german_idealism"],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "german_idealism"
+    ],
     "summary_it": "Trattato dello spirito oggettivo articolato in diritto astratto (proprietà, contratto, torto), moralità (proposito, intenzione, bene e coscienza) ed eticità (famiglia, società civile, Stato), fino al diritto internazionale e alla storia del mondo. La libertà si realizza per gradi nelle istituzioni, non nell'arbitrio soggettivo.",
-    "summary_en": "Treatise on objective spirit organized as abstract right (property, contract, wrong), morality (purpose, intention, the good and conscience), and ethical life (family, civil society, the state), up to international law and world-history. Freedom becomes actual by stages in institutions, not in subjective caprice."
+    "summary_en": "Treatise on objective spirit organized as abstract right (property, contract, wrong), morality (purpose, intention, the good and conscience), and ethical life (family, civil society, the state), up to international law and world-history. Freedom becomes actual by stages in institutions, not in subjective caprice.",
+    "atoms": {
+      "005_Authors_Preface": {
+        "concepts": [
+          "act_potency",
+          "state",
+          "reason",
+          "freedom"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "010_Introduction": {
+        "positions": [
+          "free_will",
+          "dialectic"
+        ],
+        "concepts": [
+          "freedom",
+          "will",
+          "self_consciousness"
+        ]
+      },
+      "014_Introduction": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "will",
+          "self_consciousness",
+          "recognition",
+          "freedom"
+        ]
+      },
+      "053_First_Section_The_Family": {
+        "concepts": [
+          "self_consciousness",
+          "state",
+          "education",
+          "recognition",
+          "act_potency"
+        ]
+      },
+      "059_C_Education_of_the_Children_and_Dissolut": {
+        "concepts": [
+          "property",
+          "will",
+          "law",
+          "freedom"
+        ],
+        "figures": [
+          "cicero"
+        ]
+      },
+      "060_C_Education_of_the_Children_and_Dissolut": {
+        "positions": [
+          "civil_society"
+        ]
+      },
+      "064_A_The_System_of_Wants": {
+        "positions": [
+          "civil_society"
+        ],
+        "concepts": [
+          "labour",
+          "dialectic",
+          "education",
+          "fortune"
+        ]
+      },
+      "065_A_The_System_of_Wants": {
+        "concepts": [
+          "labour",
+          "state",
+          "recognition",
+          "fortune"
+        ]
+      },
+      "076_Third_Section_The_State": {
+        "concepts": [
+          "state",
+          "custom",
+          "self_consciousness",
+          "freedom",
+          "will"
+        ]
+      },
+      "082_A_Internal_Polity": {
+        "concepts": [
+          "state",
+          "education",
+          "self_consciousness",
+          "religion"
+        ]
+      },
+      "089_A_The_Function_of_the_Prince": {
+        "positions": [
+          "sovereignty",
+          "idealism"
+        ],
+        "concepts": [
+          "state",
+          "education"
+        ]
+      },
+      "093_A_The_Function_of_the_Prince": {
+        "axes": [
+          "political_legitimacy",
+          "state_and_individual"
+        ],
+        "positions": [
+          "sovereignty"
+        ],
+        "concepts": [
+          "state",
+          "freedom"
+        ]
+      }
+    }
   },
   "Hegels_Philosophy_of_Mind": {
-    "axes": ["reality_status", "soul_body", "method", "meaning_of_history", "state_and_individual"],
-    "positions": ["idealism", "dialectic_of_spirit", "civil_society"],
-    "concepts": ["soul", "self_consciousness", "reason", "freedom", "will", "recognition", "state", "law", "religion", "beauty"],
+    "axes": [
+      "reality_status",
+      "soul_body",
+      "method",
+      "meaning_of_history",
+      "state_and_individual"
+    ],
+    "positions": [
+      "idealism",
+      "dialectic_of_spirit",
+      "civil_society"
+    ],
+    "concepts": [
+      "soul",
+      "self_consciousness",
+      "reason",
+      "freedom",
+      "will",
+      "recognition",
+      "state",
+      "law",
+      "religion",
+      "beauty"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["treatise"],
-    "schools": ["german_idealism"],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "german_idealism"
+    ],
     "summary_it": "Terza parte dell'Enciclopedia: filosofia dello spirito che sale dallo spirito soggettivo (antropologia dell'anima, fenomenologia della coscienza, psicologia) allo spirito oggettivo (diritto, moralità, eticità, Stato) fino allo spirito assoluto (arte, religione, filosofia). Traduzione dei soli paragrafi hegeliani, con cinque saggi introduttivi del traduttore.",
-    "summary_en": "Third part of the Encyclopaedia: a philosophy of mind rising from subjective mind (anthropology of the soul, phenomenology of consciousness, psychology) through objective mind (law, morality, ethical life, the state) to absolute mind (art, religion, philosophy). Wallace translates only Hegel's own paragraphs and adds five introductory essays."
+    "summary_en": "Third part of the Encyclopaedia: a philosophy of mind rising from subjective mind (anthropology of the soul, phenomenology of consciousness, psychology) through objective mind (law, morality, ethical life, the state) to absolute mind (art, religion, philosophy). Wallace translates only Hegel's own paragraphs and adds five introductory essays.",
+    "atoms": {
+      "006_Essay_I_On_The_Scope_Of_A_Philosophy_Of": {
+        "positions": [
+          "progress",
+          "civil_society"
+        ],
+        "concepts": [
+          "state",
+          "act_potency"
+        ],
+        "figures": [
+          "hobbes"
+        ]
+      },
+      "014_Essay_II_Aims_And_Methods_Of_Psychology": {
+        "concepts": [
+          "self_consciousness",
+          "soul",
+          "idea",
+          "education",
+          "representation"
+        ]
+      },
+      "025_Essay_III_On_Some_Psychological_Aspects": {
+        "positions": [
+          "natural_law"
+        ],
+        "concepts": [
+          "recognition",
+          "self_consciousness"
+        ],
+        "arguments": [
+          "categorical_imperative"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "086_CC_The_State": {
+        "concepts": [
+          "self_consciousness",
+          "state",
+          "idea"
+        ],
+        "figures": [
+          "aristotle",
+          "plato"
+        ]
+      },
+      "087_Section_III_Absolute_Mind171": {
+        "axes": [
+          "faith_reason"
+        ],
+        "concepts": [
+          "act_potency",
+          "religion",
+          "faith"
+        ]
+      },
+      "089_Sub-Section_A_Art": {
+        "concepts": [
+          "beauty",
+          "religion",
+          "revelation",
+          "sublime"
+        ]
+      },
+      "091_Sub-Section_B_Revealed_Religion172": {
+        "concepts": [
+          "self_consciousness",
+          "fortune",
+          "freedom"
+        ]
+      },
+      "098_III": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "pantheism",
+          "monism"
+        ]
+      }
+    }
   },
   "Lectures_on_the_History_of_Philosophy": {
-    "axes": ["method", "meaning_of_history", "knowledge_origin"],
-    "positions": ["dialectic_of_spirit", "dialectic", "idealism"],
-    "concepts": ["reason", "idea", "substance"],
+    "axes": [
+      "method",
+      "meaning_of_history",
+      "knowledge_origin"
+    ],
+    "positions": [
+      "dialectic_of_spirit",
+      "dialectic",
+      "idealism"
+    ],
+    "concepts": [
+      "reason",
+      "idea",
+      "substance"
+    ],
     "arguments": [],
-    "figures": ["plato", "aristotle", "socrates", "epicurus"],
-    "forms": ["lecture"],
-    "schools": ["german_idealism", "stoicism", "epicureanism", "scholasticism", "academy", "lyceum"],
+    "figures": [
+      "plato",
+      "aristotle",
+      "socrates",
+      "epicurus"
+    ],
+    "forms": [
+      "lecture"
+    ],
+    "schools": [
+      "german_idealism",
+      "stoicism",
+      "epicureanism",
+      "scholasticism",
+      "academy",
+      "lyceum"
+    ],
     "summary_it": "Corso che ricostruisce la storia della filosofia come sviluppo necessario e dialettico dell'idea, da Talete e i presocratici, ai sofisti e Socrate, Platone e Aristotele, stoici, epicurei e scettici, ai neoplatonici, alla scolastica, fino alla filosofia moderna (Bacone, Kant, Fichte, Schelling). Testo montato da Michelet a partire da più corsi di lezioni.",
-    "summary_en": "Lecture course reconstructing the history of philosophy as the necessary, dialectical development of the idea, from Thales and the Presocratics through the Sophists and Socrates, Plato and Aristotle, Stoics, Epicureans and Sceptics, the Neo-Platonists and Scholastics, to modern philosophy (Bacon, Kant, Fichte, Schelling). Compiled by Michelet from several courses of lectures."
+    "summary_en": "Lecture course reconstructing the history of philosophy as the necessary, dialectical development of the idea, from Thales and the Presocratics through the Sophists and Socrates, Plato and Aristotle, Stoics, Epicureans and Sceptics, the Neo-Platonists and Scholastics, to modern philosophy (Bacon, Kant, Fichte, Schelling). Compiled by Michelet from several courses of lectures.",
+    "atoms": {
+      "001_apertura": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "004_CHAPTER_II_First_Period_Second_Division": {
+        "figures": [
+          "socrates"
+        ]
+      },
+      "008_C_Alexandrian_Philosophy": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "010_C_General_Standpoint_of_the_Scholastics": {
+        "schools": [
+          "scholasticism"
+        ]
+      },
+      "014_D_The_German_Illumination": {
+        "figures": [
+          "kant"
+        ],
+        "schools": [
+          "enlightenment"
+        ]
+      },
+      "030_3_Results_obtained_with_respect_to_the_N": {
+        "axes": [
+          "meaning_of_history"
+        ],
+        "positions": [
+          "dialectic",
+          "progress"
+        ],
+        "concepts": [
+          "idea",
+          "reason"
+        ]
+      },
+      "033_3_Results_obtained_with_respect_to_the_N": {
+        "concepts": [
+          "self_consciousness",
+          "freedom",
+          "progress"
+        ],
+        "figures": [
+          "aristotle",
+          "cicero"
+        ]
+      },
+      "045_2_Separation_of_Philosophy_from_other_al": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "idea",
+          "representation"
+        ],
+        "figures": [
+          "plato",
+          "aristotle"
+        ]
+      },
+      "052_2_Sources_of_the_History_of_Philosophy": {
+        "forms": [
+          "lecture"
+        ]
+      },
+      "061_B_Indian_Philosophy": {
+        "positions": [
+          "dialectic",
+          "atomism"
+        ],
+        "concepts": [
+          "revelation",
+          "soul"
+        ]
+      },
+      "067_CHAPTER_I_Period_I": {
+        "positions": [
+          "scepticism",
+          "progress"
+        ],
+        "figures": [
+          "aristotle",
+          "cicero"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "080_3_Anaximenes": {
+        "concepts": [
+          "act_potency",
+          "methexis"
+        ],
+        "figures": [
+          "aristotle",
+          "plato"
+        ]
+      },
+      "084_10_The_square_and_the_parallelogram": {
+        "concepts": [
+          "soul"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "092_3_Melissus": {
+        "positions": [
+          "dialectic",
+          "eternity",
+          "monism"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "094_4_Zeno": {
+        "positions": [
+          "dialectic",
+          "atomism"
+        ],
+        "concepts": [
+          "infinity"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "104_1_Leucippus_and_Democritus": {
+        "positions": [
+          "atomism",
+          "idealism",
+          "social_contract"
+        ],
+        "concepts": [
+          "state"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "139_2_Gorgias": {
+        "axes": [
+          "political_legitimacy",
+          "state_and_individual"
+        ],
+        "concepts": [
+          "education",
+          "state"
+        ],
+        "figures": [
+          "socrates"
+        ]
+      },
+      "140_2_Gorgias": {
+        "axes": [
+          "state_and_individual"
+        ],
+        "positions": [
+          "sovereignty"
+        ],
+        "concepts": [
+          "recognition"
+        ],
+        "figures": [
+          "socrates"
+        ]
+      },
+      "144_C_The_Socratics": {
+        "concepts": [
+          "dialectic"
+        ],
+        "figures": [
+          "socrates"
+        ],
+        "schools": [
+          "epicureanism",
+          "stoicism"
+        ]
+      },
+      "148_1_The_Megarics": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "nominalism",
+          "scepticism"
+        ],
+        "concepts": [
+          "noumenon"
+        ],
+        "figures": [
+          "socrates"
+        ]
+      },
+      "161_CHAPTER_III_First_Period_Third_Division": {
+        "concepts": [
+          "idea",
+          "representation",
+          "anamnesis"
+        ],
+        "figures": [
+          "plato"
+        ]
+      },
+      "165_CHAPTER_III_First_Period_Third_Division": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "concepts": [
+          "anamnesis"
+        ],
+        "arguments": [
+          "recollection_argument"
+        ],
+        "figures": [
+          "plato",
+          "socrates"
+        ]
+      },
+      "168_CHAPTER_III_First_Period_Third_Division": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "figures": [
+          "plato"
+        ]
+      },
+      "169_1_Dialectic": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "figures": [
+          "plato",
+          "socrates"
+        ]
+      },
+      "170_1_Dialectic": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "idea",
+          "beauty"
+        ],
+        "figures": [
+          "plato",
+          "socrates"
+        ]
+      },
+      "171_1_Dialectic": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "figures": [
+          "plato",
+          "socrates"
+        ]
+      },
+      "172_1_Dialectic": {
+        "positions": [
+          "dialectic",
+          "materialism"
+        ],
+        "concepts": [
+          "revelation",
+          "idea"
+        ],
+        "figures": [
+          "plato"
+        ]
+      },
+      "173_1_Dialectic": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "figures": [
+          "plato"
+        ]
+      },
+      "178_2_Philosophy_of_Nature": {
+        "axes": [
+          "soul_body",
+          "god"
+        ],
+        "concepts": [
+          "time",
+          "nature"
+        ],
+        "figures": [
+          "plato"
+        ]
+      },
+      "183_3_Philosophy_of_Mind": {
+        "concepts": [
+          "state",
+          "virtue",
+          "justice",
+          "wisdom"
+        ],
+        "figures": [
+          "plato"
+        ]
+      },
+      "184_3_Philosophy_of_Mind": {
+        "concepts": [
+          "plato",
+          "justice",
+          "anger",
+          "soul",
+          "state"
+        ]
+      },
+      "186_3_Philosophy_of_Mind": {
+        "concepts": [
+          "state",
+          "property",
+          "freedom"
+        ],
+        "figures": [
+          "plato",
+          "socrates"
+        ]
+      },
+      "188_3_Philosophy_of_Mind": {
+        "concepts": [
+          "education",
+          "friendship"
+        ],
+        "figures": [
+          "aristotle",
+          "plato"
+        ],
+        "schools": [
+          "academy"
+        ]
+      },
+      "189_3_Philosophy_of_Mind": {
+        "concepts": [
+          "self_consciousness"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "193_1_The_Metaphysics": {
+        "concepts": [
+          "act_potency",
+          "four_causes",
+          "substance"
+        ],
+        "arguments": [
+          "unmoved_mover_argument"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "203_2_Philosophy_of_Nature": {
+        "concepts": [
+          "time",
+          "act_potency"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "206_3_The_Philosophy_of_Mind": {
+        "concepts": [
+          "aristotle",
+          "soul",
+          "act_potency"
+        ]
+      },
+      "207_3_The_Philosophy_of_Mind": {
+        "axes": [
+          "soul_body"
+        ],
+        "positions": [
+          "hylomorphism"
+        ],
+        "concepts": [
+          "soul",
+          "act_potency"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "208_3_The_Philosophy_of_Mind": {
+        "positions": [
+          "idealism"
+        ],
+        "concepts": [
+          "act_potency",
+          "soul",
+          "monad"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "211_3_The_Philosophy_of_Mind": {
+        "positions": [
+          "tabula_rasa"
+        ],
+        "concepts": [
+          "act_potency"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "212_3_The_Philosophy_of_Mind": {
+        "concepts": [
+          "act_potency",
+          "soul",
+          "eudaimonia"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "217_4_The_Logic": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "222_4_The_Logic": {
+        "concepts": [
+          "self_consciousness"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "stoicism",
+          "epicureanism",
+          "scepticism"
+        ]
+      },
+      "224_1_Physics": {
+        "positions": [
+          "pantheism",
+          "natural_law",
+          "utility_pleasure"
+        ],
+        "concepts": [
+          "nature"
+        ],
+        "schools": [
+          "stoicism"
+        ]
+      },
+      "225_1_Physics": {
+        "positions": [
+          "pantheism"
+        ],
+        "concepts": [
+          "revelation",
+          "miracle"
+        ],
+        "figures": [
+          "cicero"
+        ],
+        "schools": [
+          "epicureanism"
+        ]
+      },
+      "227_2_Logic": {
+        "positions": [
+          "scepticism"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "stoicism"
+        ]
+      },
+      "228_2_Logic": {
+        "positions": [
+          "dialectic",
+          "scepticism"
+        ],
+        "figures": [
+          "plato"
+        ],
+        "schools": [
+          "stoicism"
+        ]
+      },
+      "233_3_Ethics": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "virtue",
+          "reason"
+        ],
+        "schools": [
+          "stoicism"
+        ]
+      },
+      "235_3_Ethics": {
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "nature"
+        ],
+        "figures": [
+          "epicurus"
+        ],
+        "schools": [
+          "epicureanism"
+        ]
+      },
+      "240_3_Physics": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "figures": [
+          "epicurus"
+        ],
+        "schools": [
+          "epicureanism"
+        ]
+      },
+      "242_3_Physics": {
+        "positions": [
+          "atomism"
+        ],
+        "concepts": [
+          "soul"
+        ],
+        "figures": [
+          "epicurus"
+        ],
+        "schools": [
+          "epicureanism"
+        ]
+      },
+      "260_2_The_Later_Tropes": {
+        "positions": [
+          "scepticism",
+          "dialectic"
+        ]
+      },
+      "262_2_The_Later_Tropes": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "scepticism",
+          "dialectic",
+          "idealism"
+        ],
+        "concepts": [
+          "self_consciousness"
+        ]
+      },
+      "263_2_The_Later_Tropes": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic",
+          "scepticism"
+        ],
+        "concepts": [
+          "infinity"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "274_2_Plotinus": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle",
+          "plato"
+        ]
+      },
+      "280_2_Plotinus": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "soul",
+          "self_consciousness"
+        ],
+        "figures": [
+          "aristotle",
+          "plato"
+        ]
+      },
+      "299_5_The_Successors_of_Proclus": {
+        "positions": [
+          "pantheism",
+          "progress",
+          "scepticism"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "308_2_Methodical_Representation_of_the_Doctr": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "forma_substantialis"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "scholasticism"
+        ]
+      },
+      "309_3_Acquaintanceship_with_Aristotelian_Wri": {
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "scholasticism"
+        ]
+      },
+      "310_4_Opposition_Between_Realism_and_Nominal": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "nominalism",
+          "realism_universals"
+        ],
+        "concepts": [
+          "individuation"
+        ],
+        "schools": [
+          "scholasticism"
+        ]
+      },
+      "315_C_General_Standpoint_of_the_Scholastics": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "scholasticism"
+        ]
+      },
+      "319_2_Bessarion_Ficinus_Picus": {
+        "figures": [
+          "plato"
+        ],
+        "schools": [
+          "academy"
+        ]
+      },
+      "320_3_Gassendi_Lipsius_Reuchlin_Helmont": {
+        "positions": [
+          "atomism"
+        ],
+        "figures": [
+          "epicurus"
+        ],
+        "schools": [
+          "epicureanism",
+          "stoicism"
+        ]
+      },
+      "321_4_Ciceronian_Popular_Philosophy": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "recognition"
+        ],
+        "figures": [
+          "cicero"
+        ],
+        "schools": [
+          "scholasticism"
+        ]
+      },
+      "323_2_Campanella": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "324_3_Bruno": {
+        "positions": [
+          "pantheism"
+        ],
+        "concepts": [
+          "self_consciousness"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "329_4_Vanini": {
+        "axes": [
+          "faith_reason"
+        ],
+        "concepts": [
+          "revelation",
+          "reason",
+          "self_consciousness"
+        ],
+        "schools": [
+          "scholasticism"
+        ]
+      },
+      "335_C_The_Reformation": {
+        "axes": [
+          "freedom_necessity",
+          "soul_body"
+        ],
+        "positions": [
+          "progress"
+        ],
+        "concepts": [
+          "recognition"
+        ]
+      },
+      "355_1_Descartes": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "innatism"
+        ],
+        "concepts": [
+          "self_consciousness"
+        ],
+        "arguments": [
+          "ontological_argument"
+        ]
+      },
+      "362_2_Spinoza": {
+        "concepts": [
+          "substance",
+          "infinity",
+          "mode",
+          "attribute"
+        ],
+        "figures": [
+          "spinoza"
+        ]
+      },
+      "363_2_Spinoza": {
+        "axes": [
+          "freedom_necessity",
+          "god"
+        ],
+        "positions": [
+          "monism",
+          "pantheism"
+        ],
+        "concepts": [
+          "substance",
+          "attribute"
+        ]
+      },
+      "366_2_Spinoza": {
+        "positions": [
+          "eternity",
+          "pantheism"
+        ],
+        "concepts": [
+          "amor_dei_intellectualis",
+          "evil_privation"
+        ],
+        "figures": [
+          "spinoza"
+        ]
+      },
+      "367_2_Spinoza": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "atheism",
+          "pantheism"
+        ],
+        "concepts": [
+          "substance"
+        ],
+        "figures": [
+          "spinoza"
+        ]
+      },
+      "369_2_Spinoza": {
+        "concepts": [
+          "self_consciousness",
+          "substance",
+          "mode",
+          "freedom"
+        ],
+        "figures": [
+          "spinoza"
+        ]
+      },
+      "381_6_Newton": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "experience",
+          "progress"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "387_1_Leibnitz": {
+        "axes": [
+          "soul_body"
+        ],
+        "concepts": [
+          "monad",
+          "pre_established_harmony",
+          "principle_of_sufficient_reason"
+        ],
+        "figures": [
+          "leibniz"
+        ]
+      },
+      "389_2_Wolff": {
+        "positions": [
+          "determinism",
+          "free_will"
+        ],
+        "concepts": [
+          "pre_established_harmony"
+        ],
+        "figures": [
+          "aristotle",
+          "leibniz"
+        ]
+      },
+      "395_2_Hume": {
+        "axes": [
+          "freedom_necessity"
+        ],
+        "positions": [
+          "scepticism"
+        ],
+        "concepts": [
+          "custom",
+          "moral_sentiment"
+        ],
+        "figures": [
+          "cicero"
+        ]
+      },
+      "408_D_The_German_Illumination": {
+        "positions": [
+          "empiricism",
+          "utility_pleasure",
+          "pleasure"
+        ],
+        "schools": [
+          "enlightenment"
+        ]
+      },
+      "412_I": {
+        "axes": [
+          "god",
+          "faith_reason"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "faith",
+          "revelation"
+        ]
+      },
+      "417_I": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "transcendental_criticism"
+        ],
+        "concepts": [
+          "reason",
+          "time"
+        ],
+        "figures": [
+          "kant"
+        ]
+      },
+      "420_I": {
+        "positions": [
+          "dialectic",
+          "atomism"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "substance"
+        ],
+        "arguments": [
+          "antinomies"
+        ]
+      },
+      "421_I": {
+        "positions": [
+          "transcendental_criticism"
+        ],
+        "concepts": [
+          "self_consciousness"
+        ],
+        "arguments": [
+          "antinomies",
+          "ontological_argument"
+        ],
+        "figures": [
+          "kant"
+        ]
+      },
+      "429_C_Fichte": {
+        "positions": [
+          "atheism"
+        ],
+        "concepts": [
+          "revelation"
+        ],
+        "figures": [
+          "kant"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "434_1_The_First_Principles_of_Fichtes_Philos": {
+        "concepts": [
+          "self_consciousness",
+          "noumenon"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "437_3_The_more_Important_of_the_Followers_of": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "miracle"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "440_D_Schelling": {
+        "positions": [
+          "idealism"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "actus_purus",
+          "nature"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      }
+    }
   },
   "Lectures_on_the_Proofs_of_the_Existence_of_God": {
-    "axes": ["god", "faith_reason", "method"],
-    "positions": ["demonstrative_theism", "idealism", "dialectic_of_spirit"],
-    "concepts": ["reason", "faith", "religion", "infinity"],
-    "arguments": ["ontological_argument"],
+    "axes": [
+      "god",
+      "faith_reason",
+      "method"
+    ],
+    "positions": [
+      "demonstrative_theism",
+      "idealism",
+      "dialectic_of_spirit"
+    ],
+    "concepts": [
+      "reason",
+      "faith",
+      "religion",
+      "infinity"
+    ],
+    "arguments": [
+      "ontological_argument"
+    ],
     "figures": [],
-    "forms": ["lecture"],
-    "schools": ["german_idealism"],
+    "forms": [
+      "lecture"
+    ],
+    "schools": [
+      "german_idealism"
+    ],
     "summary_it": "Ciclo di lezioni, complemento alla logica, che riabilita le prove dell'esistenza di Dio contro la cultura del tempo che le ritiene superate e affida la fede al solo sentimento. Analizza cosmologico, teleologico e ontologico, mostrando che il logico non è mera forma ma il centro del contenuto religioso.",
-    "summary_en": "Lecture cycle, a supplement to the Logic, that rehabilitates the proofs of God's existence against a present-day culture that treats them as antiquated and grounds faith in feeling alone. It examines the cosmological, teleological, and ontological proofs, arguing that the logical is not mere form but the very centre of the religious content."
+    "summary_en": "Lecture cycle, a supplement to the Logic, that rehabilitates the proofs of God's existence against a present-day culture that treats them as antiquated and grounds faith in feeling alone. It examines the cosmological, teleological, and ontological proofs, arguing that the logical is not mere form but the very centre of the religious content.",
+    "atoms": {
+      "011_FIFTH_LECTURE": {
+        "axes": [
+          "faith_reason",
+          "god"
+        ],
+        "concepts": [
+          "forma_substantialis",
+          "recognition",
+          "self_consciousness"
+        ]
+      },
+      "030_TENTH_LECTURE": {
+        "positions": [
+          "transcendental_criticism"
+        ],
+        "concepts": [
+          "infinity"
+        ],
+        "arguments": [
+          "antinomies",
+          "ontological_argument"
+        ],
+        "figures": [
+          "kant"
+        ]
+      },
+      "049_SIXTEENTH_LECTURE": {
+        "positions": [
+          "pantheism"
+        ],
+        "concepts": [
+          "substance",
+          "self_consciousness",
+          "individuation"
+        ],
+        "forms": [
+          "lecture"
+        ]
+      },
+      "050_SIXTEENTH_LECTURE": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "pantheism"
+        ],
+        "concepts": [
+          "cause",
+          "substance"
+        ],
+        "figures": [
+          "spinoza"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      }
+    }
   },
   "The_Logic_of_Hegel": {
-    "axes": ["method", "reality_status", "knowledge_origin"],
-    "positions": ["dialectic", "idealism", "transcendental_criticism"],
-    "concepts": ["reason", "idea", "substance", "cause", "infinity"],
+    "axes": [
+      "method",
+      "reality_status",
+      "knowledge_origin"
+    ],
+    "positions": [
+      "dialectic",
+      "idealism",
+      "transcendental_criticism"
+    ],
+    "concepts": [
+      "reason",
+      "idea",
+      "substance",
+      "cause",
+      "infinity"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["treatise"],
-    "schools": ["german_idealism"],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "german_idealism"
+    ],
     "summary_it": "La logica dell'Enciclopedia (logica minore): il pensiero che pensa se stesso, articolato attraverso i tre atteggiamenti del pensiero verso l'oggettività (metafisica, empirismo e filosofia critica di Kant, sapere immediato) e le dottrine dell'essere, dell'essenza e del concetto. La filosofia non può assumere dogmaticamente né gli oggetti né il metodo.",
-    "summary_en": "The Encyclopaedia Logic (Lesser Logic): thought thinking itself, developed through the three attitudes of thought to objectivity (old metaphysics, empiricism and Kant's critical philosophy, immediate knowledge) and the doctrines of Being, Essence, and Notion. Philosophy can assume neither its objects nor its method dogmatically."
+    "summary_en": "The Encyclopaedia Logic (Lesser Logic): thought thinking itself, developed through the three attitudes of thought to objectivity (old metaphysics, empiricism and Kant's critical philosophy, immediate knowledge) and the doctrines of Being, Essence, and Notion. Philosophy can assume neither its objects nor its method dogmatically.",
+    "atoms": {
+      "021_IV_Second_Attitude_of_Thought_to_Objecti": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "transcendental_criticism"
+        ],
+        "concepts": [
+          "self_consciousness"
+        ],
+        "figures": [
+          "kant"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "022_IV_Second_Attitude_of_Thought_to_Objecti": {
+        "positions": [
+          "transcendental_criticism",
+          "idealism"
+        ],
+        "concepts": [
+          "noumenon",
+          "reason"
+        ],
+        "figures": [
+          "kant"
+        ]
+      },
+      "024_IV_Second_Attitude_of_Thought_to_Objecti": {
+        "axes": [
+          "freedom_necessity",
+          "god"
+        ],
+        "positions": [
+          "atomism",
+          "dialectic"
+        ],
+        "arguments": [
+          "antinomies"
+        ]
+      },
+      "039_II_its_reflection_and_mediation_the_bein": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "dialectic",
+          "german_idealism"
+        ],
+        "concepts": [
+          "idea"
+        ]
+      },
+      "047_VII_Being": {
+        "positions": [
+          "dialectic"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "049_C_MEASURE": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "infinity"
+        ]
+      },
+      "067_C_ACTUALITY": {
+        "positions": [
+          "atheism",
+          "pantheism"
+        ],
+        "concepts": [
+          "act_potency",
+          "substance"
+        ],
+        "figures": [
+          "spinoza"
+        ]
+      },
+      "070_C_ACTUALITY": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ]
+      },
+      "076_IX_The_Notion": {
+        "positions": [
+          "dialectic",
+          "idealism"
+        ],
+        "concepts": [
+          "idea",
+          "mechanism",
+          "religion"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "080_IX_The_Notion": {
+        "positions": [
+          "dialectic",
+          "idealism"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "081_IX_The_Notion": {
+        "axes": [
+          "soul_body"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "act_potency",
+          "infinity"
+        ]
+      }
+    }
   },
   "The_Phenomenology_of_Spirit": {
-    "axes": ["reality_status", "method", "knowledge_origin", "meaning_of_history"],
-    "positions": ["idealism", "dialectic", "dialectic_of_spirit"],
-    "concepts": ["self_consciousness", "recognition", "reason", "experience", "freedom", "religion"],
-    "arguments": ["master_slave_dialectic"],
-    "figures": ["master_and_slave"],
-    "forms": ["treatise"],
-    "schools": ["german_idealism"],
+    "axes": [
+      "reality_status",
+      "method",
+      "knowledge_origin",
+      "meaning_of_history"
+    ],
+    "positions": [
+      "idealism",
+      "dialectic",
+      "dialectic_of_spirit"
+    ],
+    "concepts": [
+      "self_consciousness",
+      "recognition",
+      "reason",
+      "experience",
+      "freedom",
+      "religion"
+    ],
+    "arguments": [
+      "master_slave_dialectic"
+    ],
+    "figures": [
+      "master_and_slave"
+    ],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "german_idealism"
+    ],
     "summary_it": "Itinerario della coscienza che, attraverso certezza sensibile, percezione, autocoscienza (con la dialettica servo-padrone del riconoscimento), ragione, spirito e religione, ascende al sapere assoluto. La prefazione sostiene che l'assoluto è soggetto e che i sistemi filosofici sono momenti necessari dell'evoluzione della verità.",
-    "summary_en": "The journey of consciousness that ascends—through sense-certainty, perception, self-consciousness (with the master-slave dialectic of recognition), reason, spirit, and religion—to absolute knowledge. The Preface argues that the absolute is subject and that rival philosophical systems are necessary moments in the evolution of truth."
+    "summary_en": "The journey of consciousness that ascends—through sense-certainty, perception, self-consciousness (with the master-slave dialectic of recognition), reason, spirit, and religion—to absolute knowledge. The Preface argues that the absolute is subject and that rival philosophical systems are necessary moments in the evolution of truth.",
+    "atoms": {
+      "001_apertura": {
+        "positions": [
+          "idealism",
+          "transcendental_criticism"
+        ],
+        "concepts": [
+          "cause",
+          "time"
+        ],
+        "figures": [
+          "kant"
+        ]
+      },
+      "007_5_The_absolute_is_subject": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "idealism"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "substance"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "009_6": {
+        "positions": [
+          "idealism",
+          "dialectic"
+        ],
+        "concepts": [
+          "substance",
+          "self_consciousness"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "017_13_The_nature_of_philosophical_truth_and": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ]
+      },
+      "019_14_Against_schematizing_formalism": {
+        "positions": [
+          "dialectic",
+          "idealism"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "substance"
+        ]
+      },
+      "025_19_Conclusion_the_authors_relation_to_th": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "recognition"
+        ]
+      },
+      "030_A_Consciousness": {
+        "figures": [
+          "plato"
+        ]
+      },
+      "033_I_CERTAINTY_AT_THE_LEVEL_OF_SENSE-EXPERI": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "dialectic",
+          "scepticism"
+        ],
+        "concepts": [
+          "experience"
+        ]
+      },
+      "034_I_CERTAINTY_AT_THE_LEVEL_OF_SENSE-EXPERI": {
+        "axes": [
+          "knowledge_origin",
+          "universals"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "experience"
+        ]
+      },
+      "049_IV_THE_TRUTH_WHICH_CONSCIOUS_CERTAINTY_O": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "self_consciousness"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "052_IV_THE_TRUTH_WHICH_CONSCIOUS_CERTAINTY_O": {
+        "concepts": [
+          "self_consciousness",
+          "recognition"
+        ],
+        "arguments": [
+          "master_slave_dialectic"
+        ],
+        "figures": [
+          "master_and_slave"
+        ]
+      },
+      "053_IV_THE_TRUTH_WHICH_CONSCIOUS_CERTAINTY_O": {
+        "concepts": [
+          "labour",
+          "self_consciousness",
+          "recognition"
+        ],
+        "arguments": [
+          "master_slave_dialectic"
+        ],
+        "figures": [
+          "master_and_slave"
+        ]
+      },
+      "054_IV_THE_TRUTH_WHICH_CONSCIOUS_CERTAINTY_O": {
+        "concepts": [
+          "self_consciousness",
+          "labour",
+          "freedom"
+        ],
+        "arguments": [
+          "master_slave_dialectic"
+        ],
+        "schools": [
+          "stoicism"
+        ]
+      },
+      "055_IV_THE_TRUTH_WHICH_CONSCIOUS_CERTAINTY_O": {
+        "positions": [
+          "scepticism",
+          "dialectic"
+        ],
+        "concepts": [
+          "self_consciousness"
+        ],
+        "schools": [
+          "stoicism"
+        ]
+      },
+      "056_IV_THE_TRUTH_WHICH_CONSCIOUS_CERTAINTY_O": {
+        "positions": [
+          "scepticism"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "alienation"
+        ],
+        "schools": [
+          "stoicism"
+        ]
+      },
+      "063_V_REASONS_CERTAINTY_AND_REASONS_TRUTH": {
+        "positions": [
+          "idealism"
+        ],
+        "concepts": [
+          "reason",
+          "sovereignty"
+        ]
+      },
+      "101_V_REASONS_CERTAINTY_AND_REASONS_TRUTH": {
+        "axes": [
+          "moral_foundation"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "reason",
+          "law",
+          "property"
+        ]
+      },
+      "111_2_Sittlichkeit": {
+        "concepts": [
+          "divine_law",
+          "human_law",
+          "individuation",
+          "self_consciousness",
+          "state"
+        ]
+      },
+      "112_2_Sittlichkeit": {
+        "concepts": [
+          "human_law",
+          "self_consciousness",
+          "state",
+          "fortune",
+          "beauty"
+        ]
+      },
+      "127_2_Sittlichkeit": {
+        "axes": [
+          "faith_reason"
+        ],
+        "concepts": [
+          "faith",
+          "self_consciousness",
+          "reason"
+        ],
+        "schools": [
+          "enlightenment"
+        ]
+      },
+      "135_2_Sittlichkeit": {
+        "positions": [
+          "utility_pleasure",
+          "revolution"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "freedom",
+          "will"
+        ]
+      },
+      "136_2_Sittlichkeit": {
+        "concepts": [
+          "self_consciousness",
+          "state",
+          "labour",
+          "freedom"
+        ]
+      },
+      "138_2_Sittlichkeit": {
+        "axes": [
+          "moral_foundation"
+        ],
+        "positions": [
+          "duty_imperative"
+        ],
+        "concepts": [
+          "self_consciousness"
+        ],
+        "figures": [
+          "kant"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "155_VII_RELIGION": {
+        "positions": [
+          "dialectic_of_spirit"
+        ],
+        "concepts": [
+          "religion",
+          "self_consciousness",
+          "reason"
+        ]
+      },
+      "172_VII_RELIGION": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "religion",
+          "self_consciousness",
+          "representation"
+        ]
+      },
+      "177_VIII_ABSOLUTE_KNOWLEDGE": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "utility_pleasure"
+        ],
+        "concepts": [
+          "self_consciousness"
+        ],
+        "schools": [
+          "enlightenment"
+        ]
+      }
+    }
   },
   "The_Philosophy_of_Fine_Art": {
-    "axes": ["reality_status", "meaning_of_history"],
-    "positions": ["idealism", "dialectic_of_spirit"],
-    "concepts": ["beauty", "sublime", "mimesis", "idea", "nature"],
+    "axes": [
+      "reality_status",
+      "meaning_of_history"
+    ],
+    "positions": [
+      "idealism",
+      "dialectic_of_spirit"
+    ],
+    "concepts": [
+      "beauty",
+      "sublime",
+      "mimesis",
+      "idea",
+      "nature"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["lecture"],
-    "schools": ["german_idealism"],
+    "forms": [
+      "lecture"
+    ],
+    "schools": [
+      "german_idealism"
+    ],
     "summary_it": "Estetica di Hegel: l'arte come manifestazione sensibile dell'idea (il bello ideale), distinta dalla bellezza naturale e ordinata nelle forme simbolica, classica e romantica e nelle singole arti fino alla poesia drammatica. Testo composto dall'editore da manoscritti hegeliani e appunti di allievi.",
-    "summary_en": "Hegel's aesthetics: art as the sensuous manifestation of the idea (the ideal of beauty), distinguished from natural beauty and ordered through the symbolic, classical, and romantic forms and the individual arts up to dramatic poetry. The text was assembled by the editor from Hegel's manuscripts and pupils' lecture notes."
+    "summary_en": "Hegel's aesthetics: art as the sensuous manifestation of the idea (the ideal of beauty), distinguished from natural beauty and ordered through the symbolic, classical, and romantic forms and the individual arts up to dramatic poetry. The text was assembled by the editor from Hegel's manuscripts and pupils' lecture notes.",
+    "atoms": {
+      "008_TRANSLATORS_PREFACE": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "010_TRANSLATORS_PREFACE": {
+        "concepts": [
+          "beauty",
+          "idea"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "016_INTRODUCTION": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "decadence"
+        ],
+        "concepts": [
+          "beauty",
+          "sublime"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "018_INTRODUCTION": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "beauty"
+        ],
+        "figures": [
+          "plato"
+        ]
+      },
+      "019_INTRODUCTION": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "beauty",
+          "idea"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "038_INTRODUCTION": {
+        "positions": [
+          "idealism"
+        ],
+        "concepts": [
+          "beauty",
+          "idea"
+        ],
+        "forms": [
+          "lecture"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "044_INTRODUCTION": {
+        "positions": [
+          "scepticism",
+          "dialectic"
+        ],
+        "concepts": [
+          "beauty",
+          "idea"
+        ]
+      },
+      "056_SUBDIVISION_OF_SUBJECT": {
+        "concepts": [
+          "beauty",
+          "idea"
+        ]
+      },
+      "057_1_The_first_is_concerned_with_the_notion": {
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "060_CHAPTER_I": {
+        "concepts": [
+          "beauty",
+          "soul",
+          "self_consciousness",
+          "freedom",
+          "infinity"
+        ]
+      },
+      "061_CHAPTER_I": {
+        "concepts": [
+          "beauty",
+          "education",
+          "freedom",
+          "idea",
+          "infinity"
+        ]
+      },
+      "062_CHAPTER_II": {
+        "concepts": [
+          "beauty",
+          "idea",
+          "nature"
+        ]
+      },
+      "068_CHAPTER_II": {
+        "axes": [
+          "soul_body"
+        ],
+        "concepts": [
+          "beauty",
+          "self_consciousness",
+          "soul",
+          "nature"
+        ]
+      },
+      "069_1_THE_BEAUTY_OF_ABSTRACT_FORM": {
+        "concepts": [
+          "beauty",
+          "nature"
+        ]
+      },
+      "071_1_THE_BEAUTY_OF_ABSTRACT_FORM": {
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "072_2_BEAUTY_AS_ABSTRACT_UNITY_OF_THE_MATERI": {
+        "concepts": [
+          "beauty",
+          "act_potency",
+          "nature"
+        ]
+      },
+      "074_C_DEFECTIVE_ASPECTS_OF_THE_BEAUTY_OF_NAT": {
+        "axes": [
+          "soul_body"
+        ],
+        "concepts": [
+          "beauty",
+          "soul",
+          "nature"
+        ]
+      },
+      "091_1_The_universal_World-condition": {
+        "concepts": [
+          "general_will",
+          "state",
+          "custom",
+          "virtue",
+          "law"
+        ]
+      },
+      "142_3_MANNER_STYLE_AND_ORIGINALITY": {
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "157_CHAPTER_I": {
+        "concepts": [
+          "beauty",
+          "idea",
+          "representation",
+          "religion",
+          "nature"
+        ]
+      },
+      "160_CHAPTER_I": {
+        "positions": [
+          "eternity"
+        ],
+        "concepts": [
+          "sublime",
+          "beauty",
+          "representation"
+        ]
+      },
+      "161_CHAPTER_I": {
+        "concepts": [
+          "idea",
+          "representation"
+        ]
+      },
+      "171_CHAPTER_II": {
+        "positions": [
+          "pantheism"
+        ],
+        "concepts": [
+          "sublime",
+          "idea",
+          "representation"
+        ]
+      },
+      "172_CHAPTER_II": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "pantheism"
+        ],
+        "concepts": [
+          "sublime",
+          "beauty",
+          "friendship"
+        ]
+      },
+      "200_3_RELATION_OF_BOTH_ASPECTS": {
+        "concepts": [
+          "beauty",
+          "idea",
+          "nature",
+          "representation"
+        ]
+      },
+      "202_3_RELATION_OF_BOTH_ASPECTS": {
+        "concepts": [
+          "beauty",
+          "freedom",
+          "self_consciousness",
+          "religion"
+        ]
+      },
+      "223_2_THE_SPHERE_OF_THE_PARTICULAR_GODS": {
+        "concepts": [
+          "beauty",
+          "representation",
+          "idea",
+          "state"
+        ]
+      },
+      "229_CHAPTER_III": {
+        "positions": [
+          "idealism"
+        ],
+        "concepts": [
+          "dialectic"
+        ],
+        "schools": [
+          "german_idealism"
+        ]
+      },
+      "230_1_FATE_OR_DESTINY": {
+        "positions": [
+          "fate_providence"
+        ],
+        "concepts": [
+          "beauty",
+          "fortune"
+        ]
+      },
+      "231_2_THE_DISSOLUTION_OF_THE_GODS_THROUGH_TH": {
+        "concepts": [
+          "beauty",
+          "infinity",
+          "self_consciousness",
+          "revelation",
+          "miracle"
+        ]
+      },
+      "236_3_SATIRE": {
+        "concepts": [
+          "beauty",
+          "infinity",
+          "revelation",
+          "freedom"
+        ]
+      },
+      "238_3_SATIRE": {
+        "concepts": [
+          "infinity",
+          "self_consciousness",
+          "death",
+          "idea"
+        ],
+        "figures": [
+          "socrates"
+        ]
+      },
+      "244_1_THE_REDEMPTION-HISTORY_OF_CHRIST": {
+        "axes": [
+          "god"
+        ],
+        "concepts": [
+          "revelation",
+          "beauty",
+          "religion",
+          "faith"
+        ]
+      },
+      "245_1_THE_REDEMPTION-HISTORY_OF_CHRIST": {
+        "axes": [
+          "human_nature",
+          "god"
+        ],
+        "concepts": [
+          "beauty",
+          "sublime",
+          "suffering"
+        ]
+      },
+      "252_3_THE_SPIRIT_OF_THE_COMMUNITY": {
+        "positions": [
+          "idealism",
+          "moral_sentiment",
+          "decadence"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "beauty"
+        ]
+      },
+      "259_2_LOVE": {
+        "concepts": [
+          "recognition",
+          "representation",
+          "passion"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "260_3_FIDELITY": {
+        "positions": [
+          "free_will"
+        ],
+        "concepts": [
+          "friendship",
+          "fortune"
+        ]
+      },
+      "266_1_THE_SELF-SUBSISTENCY_OR_INDEPENDENCE_O": {
+        "concepts": [
+          "beauty",
+          "soul",
+          "passion"
+        ]
+      },
+      "291_2_ARCHITECTURAL_WORKS_INTERMEDIATE_BETWE": {
+        "concepts": [
+          "beauty",
+          "self_consciousness"
+        ]
+      },
+      "292_3_THE_TRANSITION_FROM_SELF-SUBSTANTIVE_A": {
+        "concepts": [
+          "death",
+          "religion",
+          "soul"
+        ]
+      },
+      "296_CHAPTER_II": {
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "298_2_THE_FUNDAMENTAL_DETERMINANTS_OF_ARCHIT": {
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "302_3_THE_DIFFERENT_CONSTRUCTIVE_TYPES_OF_CL": {
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "303_3_THE_DIFFERENT_CONSTRUCTIVE_TYPES_OF_CL": {
+        "positions": [
+          "progress"
+        ],
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "304_3_THE_DIFFERENT_CONSTRUCTIVE_TYPES_OF_CL": {
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "307_2_PARTICULAR_ARCHITECTURAL_MODES_OF_CONF": {
+        "concepts": [
+          "sublime",
+          "religion",
+          "infinity"
+        ]
+      },
+      "309_2_PARTICULAR_ARCHITECTURAL_MODES_OF_CONF": {
+        "concepts": [
+          "beauty",
+          "sublime",
+          "religion",
+          "soul"
+        ]
+      },
+      "310_2_PARTICULAR_ARCHITECTURAL_MODES_OF_CONF": {
+        "concepts": [
+          "sublime",
+          "religion"
+        ]
+      },
+      "311_3_DIFFERENT_TYPES_OF_BUILDING_IN_ROMANTI": {
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "316_CHAPTER_I": {
+        "axes": [
+          "soul_body"
+        ],
+        "concepts": [
+          "beauty",
+          "recognition"
+        ]
+      },
+      "331_2_THE_PARTICULAR_ASPECTS_OF_THE_IDEAL_FO": {
+        "concepts": [
+          "freedom",
+          "beauty"
+        ]
+      },
+      "337_3_THE_INDIVIDUALITY_OF_IDEAL_FIGURES_OF": {
+        "concepts": [
+          "beauty",
+          "religion"
+        ]
+      },
+      "338_CHAPTER_III": {
+        "concepts": [
+          "idea",
+          "representation"
+        ]
+      },
+      "340_1_THE_SINGLE_STATUE_THE_GROUP_AND_THE_RE": {
+        "concepts": [
+          "beauty",
+          "representation",
+          "idea"
+        ]
+      },
+      "342_2_THE_MATERIAL_OF_SCULPTURE": {
+        "concepts": [
+          "beauty",
+          "labour",
+          "money",
+          "representation"
+        ]
+      },
+      "348_3_THE_HISTORICAL_EVOLUTION_OF_SCULPTURE": {
+        "positions": [
+          "idealism"
+        ],
+        "concepts": [
+          "infinity",
+          "self_consciousness",
+          "soul"
+        ]
+      },
+      "368_2_PARTICULAR_MODES_OF_THE_DEFINITION_OF": {
+        "concepts": [
+          "beauty",
+          "idea",
+          "representation",
+          "mimesis"
+        ]
+      },
+      "373_2_PARTICULAR_MODES_OF_THE_DEFINITION_OF": {
+        "concepts": [
+          "moral_sentiment"
+        ]
+      },
+      "381_3_HISTORICAL_DEVELOPMENT_OF_PAINTING": {
+        "axes": [
+          "soul_body"
+        ],
+        "concepts": [
+          "beauty",
+          "soul",
+          "religion"
+        ]
+      },
+      "384_3_HISTORICAL_DEVELOPMENT_OF_PAINTING": {
+        "positions": [
+          "progress"
+        ],
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "385_3_HISTORICAL_DEVELOPMENT_OF_PAINTING": {
+        "concepts": [
+          "idea",
+          "beauty",
+          "freedom",
+          "representation",
+          "religion"
+        ]
+      },
+      "397_1_THE_GENERAL_CHARACTER_OF_MUSIC": {
+        "concepts": [
+          "self_consciousness",
+          "time",
+          "soul"
+        ]
+      },
+      "407_2_THE_PARTICULAR_DEFINITION_OF_THE_MEANS": {
+        "axes": [
+          "freedom_necessity"
+        ],
+        "concepts": [
+          "self_consciousness",
+          "soul"
+        ]
+      },
+      "430_2_THE_ART-PRODUCT_OF_POETRY_AND_PROSE": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "revelation",
+          "sublime"
+        ]
+      },
+      "442_2_VERBAL_EXPRESSION": {
+        "concepts": [
+          "beauty"
+        ],
+        "figures": [
+          "cicero"
+        ]
+      },
+      "472_2_PARTICULAR_CHARACTERISTICS_OF_THE_GENU": {
+        "concepts": [
+          "beauty",
+          "anger",
+          "custom",
+          "recognition"
+        ]
+      },
+      "493_2_PARTICULAR_ASPECTS_OF_LYRICAL_POETRY": {
+        "concepts": [
+          "sublime"
+        ]
+      },
+      "521_3_THE_TYPES_OF_DRAMATIC_POETRY_AND_THE_P": {
+        "positions": [
+          "dialectic",
+          "fate_providence"
+        ],
+        "concepts": [
+          "anger",
+          "justice"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "525_3_THE_TYPES_OF_DRAMATIC_POETRY_AND_THE_P": {
+        "axes": [
+          "tragic_art_principle"
+        ],
+        "concepts": [
+          "beauty",
+          "recognition"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      }
+    }
   },
   "The_Philosophy_of_History": {
-    "axes": ["meaning_of_history", "freedom_necessity", "political_legitimacy"],
-    "positions": ["dialectic_of_spirit", "idealism", "progress", "providence"],
-    "concepts": ["reason", "freedom", "state", "nature"],
-    "arguments": ["cunning_of_reason"],
+    "axes": [
+      "meaning_of_history",
+      "freedom_necessity",
+      "political_legitimacy"
+    ],
+    "positions": [
+      "dialectic_of_spirit",
+      "idealism",
+      "progress",
+      "providence"
+    ],
+    "concepts": [
+      "reason",
+      "freedom",
+      "state",
+      "nature"
+    ],
+    "arguments": [
+      "cunning_of_reason"
+    ],
     "figures": [],
-    "forms": ["lecture"],
-    "schools": ["german_idealism"],
+    "forms": [
+      "lecture"
+    ],
+    "schools": [
+      "german_idealism"
+    ],
     "summary_it": "Lezioni sulla storia universale come progresso della coscienza della libertà: la ragione governa il mondo e realizza la propria idea servendosi delle passioni degli individui (astuzia della ragione), incarnandosi nello Stato. Il percorso va dal mondo orientale al greco, romano e germanico-cristiano.",
-    "summary_en": "Lectures on world-history as the progress of the consciousness of freedom: Reason governs the world and realizes its idea by using the passions of individuals (the cunning of reason), embodying itself in the state. The course runs from the Oriental world through the Greek, Roman, and Germanic-Christian worlds."
+    "summary_en": "Lectures on world-history as the progress of the consciousness of freedom: Reason governs the world and realizes its idea by using the passions of individuals (the cunning of reason), embodying itself in the state. The course runs from the Oriental world through the Greek, Roman, and Germanic-Christian worlds.",
+    "atoms": {
+      "008_III_Philosophical_History": {
+        "axes": [
+          "meaning_of_history"
+        ],
+        "concepts": [
+          "reason"
+        ],
+        "figures": [
+          "aristotle",
+          "socrates",
+          "epicurus"
+        ]
+      },
+      "009_III_Philosophical_History": {
+        "axes": [
+          "god",
+          "meaning_of_history"
+        ],
+        "positions": [
+          "providence"
+        ],
+        "concepts": [
+          "reason",
+          "revelation"
+        ]
+      },
+      "018_III_Philosophical_History": {
+        "axes": [
+          "freedom_necessity",
+          "state_and_individual"
+        ],
+        "concepts": [
+          "state",
+          "freedom"
+        ]
+      },
+      "024_III_Philosophical_History": {
+        "positions": [
+          "progress"
+        ],
+        "concepts": [
+          "recognition",
+          "state",
+          "alienation",
+          "act_potency"
+        ]
+      },
+      "054_SECTION_II_INDIA": {
+        "positions": [
+          "idealism"
+        ],
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "090_SECTION_I_THE_ELEMENTS_OF_THE_GREEK_SPIR": {
+        "positions": [
+          "progress"
+        ],
+        "concepts": [
+          "sovereignty"
+        ]
+      },
+      "104_THE_MACEDONIAN_EMPIRE": {
+        "concepts": [
+          "education",
+          "beauty"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "118_SECTION_II_ROME_FROM_THE_SECOND_PUNIC_WA": {
+        "positions": [
+          "sovereignty"
+        ],
+        "concepts": [
+          "state",
+          "fortune"
+        ],
+        "figures": [
+          "cicero"
+        ]
+      },
+      "120_CHAPTER_I_ROME_UNDER_THE_EMPERORS": {
+        "positions": [
+          "stoicism",
+          "epicureanism",
+          "scepticism",
+          "atomism"
+        ],
+        "concepts": [
+          "recognition"
+        ]
+      },
+      "125_CHAPTER_II_CHRISTIANITY": {
+        "concepts": [
+          "act_potency",
+          "infinity",
+          "self_consciousness",
+          "state",
+          "freedom"
+        ]
+      },
+      "126_CHAPTER_II_CHRISTIANITY": {
+        "axes": [
+          "faith_reason"
+        ],
+        "concepts": [
+          "religion",
+          "reason",
+          "state",
+          "freedom"
+        ]
+      },
+      "168_CHAPTER_III_THE_ÉCLAIRCISSEMENT_AND_REVO": {
+        "positions": [
+          "revolution",
+          "free_will"
+        ],
+        "concepts": [
+          "state",
+          "self_consciousness"
+        ],
+        "schools": [
+          "enlightenment"
+        ]
+      },
+      "169_CHAPTER_III_THE_ÉCLAIRCISSEMENT_AND_REVO": {
+        "axes": [
+          "state_and_individual"
+        ],
+        "concepts": [
+          "state",
+          "religion",
+          "education",
+          "recognition"
+        ]
+      },
+      "172_CHAPTER_III_THE_ÉCLAIRCISSEMENT_AND_REVO": {
+        "axes": [
+          "meaning_of_history"
+        ],
+        "positions": [
+          "progress"
+        ],
+        "concepts": [
+          "freedom",
+          "theodicy",
+          "recognition"
+        ]
+      },
+      "173_INTRODUCTION": {
+        "axes": [
+          "meaning_of_history",
+          "method"
+        ],
+        "forms": [
+          "lecture"
+        ]
+      },
+      "175_I_ORIGINAL_HISTORY": {
+        "concepts": [
+          "representation",
+          "memory"
+        ]
+      },
+      "183_II_ESSENTIAL_DESTINY_OF_REASON": {
+        "axes": [
+          "meaning_of_history"
+        ],
+        "concepts": [
+          "reason",
+          "state"
+        ]
+      },
+      "186_2_THE_MEANS_SPIRIT_USES_TO_REALISE_ITS_I": {
+        "concepts": [
+          "passion",
+          "freedom",
+          "state",
+          "reason"
+        ],
+        "arguments": [
+          "cunning_of_reason"
+        ]
+      },
+      "197_III_THE_COURSE_OF_THE_WORLDS_HISTORY": {
+        "axes": [
+          "meaning_of_history"
+        ],
+        "positions": [
+          "progress"
+        ],
+        "concepts": [
+          "act_potency",
+          "alienation",
+          "freedom"
+        ]
+      }
+    }
   }
 }

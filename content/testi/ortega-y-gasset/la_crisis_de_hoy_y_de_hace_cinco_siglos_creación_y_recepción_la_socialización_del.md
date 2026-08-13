@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Essay on crisis as historical transit: it compares our age to the turn around 1600 when the modern Cartesian man was born, now exhausted. Reflects on the Renaissance, discontinuism, and the way historical mutations are foreseen before they happen.
+> The digest records 2,084 words but zero atoms and neither sample nor structure: the text cannot be inspected. The title itself appears truncated ('La socialización del…'). Flagged for extraction review.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

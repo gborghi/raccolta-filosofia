@@ -10,8 +10,7 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
-> [!abstract]
-> Major book (43 atoms) on the rise of mass-man and European decline; the sample is the prologue for French readers, a meditation on language as dialogue and the radical solitude of the speaker. Its core diagnosis sets the masses against the select minority.
+*Ortega y Gasset*
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Cultural polemic: against the Spain 'of polished stone' that denies passage to a young Semitist while shipping two friars, Ortega defends the 'refined weapons' of reason, while admitting they win no battles — the example of don Francisco Giner, who spent his life giving reasons nobody heeded.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +102,7 @@ Ma a che insistere? I fatti provano con lamentevole evidenza che non c'è nelle 
 
 Intanto il giovane arabista resta senza andare a Fez; i due francescani, al contrario, come ai tempi del decadente Alfonso X, portano ai Beni-Merín l'essenza dell'anima spagnola, e avanzano, arrampicati sulle loro mule, verso la città santa marocchina, arricchendo l'arsura ardente del paesaggio con il loro barbaro fervore.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Los que se sientan aquejados por una visión más fina del mundo y anhelen para España un puesto en el anfictionado europeo, pueden rodearse el corazón de un triple círculo de paciencia, y a fin de no perder los privilegios de su cortesía, limitarse a la faena de sagitarios, tomando del rincón el arco y disparando unos cuantos tropos al enemigo de piel dura.
 

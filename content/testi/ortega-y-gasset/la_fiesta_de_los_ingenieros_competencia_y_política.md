@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial (El Sol, 1919) backing the civil engineers who present the King with a technical plan of national reconstruction: competence must enter politics as such, against politicians who turn essential reforms into personal slogans. Topical piece.
 

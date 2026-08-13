@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A short essay in aesthetics: the relation of frame to picture is essential, not accidental, but it is neither that of clothing to body (clothes conceal, the frame displays) nor that of ornament (ornament draws the gaze to itself, the frame does not — proof being that we never remember the frames of the pictures we know best). With an excursus on ornament as man's first artistic act.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

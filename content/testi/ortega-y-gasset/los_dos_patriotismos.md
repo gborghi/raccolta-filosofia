@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A speech that starts from a note on the psychology of emotion (bitterness as the motor of consciousness) in order to distinguish two patriotisms: the inactive, spectacular kind that enjoys the past and the present charms of one's native land, and the dynamic kind for which the fatherland is 'the land of the sons', a task and a duty still to be made. A civic-political piece, not philosophical in the strict sense.
+
+## Connections
+
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -12,8 +12,17 @@ tags:
   - "philosopher/pascal"
 ---
 
+*Pascal*
+
 > [!abstract]
 > Preparatory notes and fragments for the Provincial Letters: jottings against the Jesuits, casuistry and probability, on lax morality opposed to truth, and on the conduct of the order — raw materials later recast into the finished work.
+
+## Connections
+
+**Assi:** [[assi/god|Dio]]  
+**Concetti:** [[concepts/grace|grazia]], [[concepts/religion|religione]], [[concepts/justice|giustizia]]  
+**Forme:** [[forms/pensee|pensiero (frammento)]], [[forms/epistle|epistola]]  
+**Scuole:** [[schools/jansenism|giansenismo]]
 
 <p class="work-source">Traduzione di George Pearce · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -26,7 +35,7 @@ Translated by George Pearce, 1849
 
 [All these Thoughts and Notes are published for the first time, although not preceded by the mark +. TRANSLATOR]
 
-<span class="atom-split" data-atom="002" data-title="I." data-chapter="I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="I." data-chapter="I." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 Letter upon the compulsory establishment of the Jesuits everywhere.
 
@@ -76,7 +85,7 @@ Not that the general rule was not to conform to the institutes; for they might b
 
 The tip of a hood sets up in arms twenty-five thousand monks.
 
-<span class="atom-split" data-atom="003" data-title="II." data-chapter="II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="II." data-chapter="II." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 Pascal’s Notes.
 
@@ -112,7 +121,7 @@ Poverty. Relaxed opinions opposed to truth.
 
 Vines, &c.
 
-<span class="atom-split" data-atom="004" data-title="III." data-chapter="III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="III." data-chapter="III." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 — Have you a proper idea of our society?
 
@@ -144,7 +153,7 @@ They court them by licentiousness.
 
 Rectitude and good faith in devotion.
 
-<span class="atom-split" data-atom="005" data-title="452. Kings, nursing-mothers." data-chapter="452. Kings, nursing-mothers." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="452. Kings, nursing-mothers." data-chapter="452. Kings, nursing-mothers." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 4, Hatred on account of their merit.
 
@@ -152,7 +161,7 @@ Apel. Universe. 159. Decree of Sorbonne.
 
 Kings. 241.
 
-<span class="atom-split" data-atom="006" data-title="228." data-chapter="228." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="228." data-chapter="228." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 Jesuits hung. 112.
 
@@ -164,11 +173,11 @@ Religion and science.
 
 Constitutions.
 
-<span class="atom-split" data-atom="007" data-title="257. Chiefly princes and noblemen, who can both injure and benefit." data-chapter="257. Chiefly princes and noblemen, who can both injure and benefit." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="257. Chiefly princes and noblemen, who can both injure and benefit." data-chapter="257. Chiefly princes and noblemen, who can both injure and benefit." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 12. Useless things rejected. Good address, riches, nobility, &c. What! Were you afraid that they would not be earlier admitted?
 
-<span class="atom-split" data-atom="008" data-title="27." data-chapter="27." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="27." data-chapter="27." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 47. To give his property to the society for the glory of God. Dec. [These are the Declarations of the Generals of the Order, which have the same force as the Constitutions. (French Editor.)
 
@@ -176,17 +185,17 @@ The figures in the margin, and elsewhere, obviously refer to passages in various
 
 51, 52. Harmony of views. Decl.: To submit to the society, and thus secure uniformity. But in the present day this uniformity consists in differences, for so the society determines.
 
-<span class="atom-split" data-atom="009" data-title="23. 74. Falsehood." data-chapter="23. 74. Falsehood." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="23. 74. Falsehood." data-chapter="23. 74. Falsehood." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 19. To yield nothing to relatives, and rest satisfied with the advisers appointed by the Superior.
 
-<span class="atom-split" data-atom="010" data-title="149. The Declarations spoil all." data-chapter="149. The Declarations spoil all." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="149. The Declarations spoil all." data-chapter="149. The Declarations spoil all." data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/justice,forms/pensee"></span>
 
 154. Not to excite to continual alms-giving, nor demand them as matter of justice, nor charity-box.
 
 Decl “Non tanquam Eleemosina.”
 
-<span class="atom-split" data-atom="011" data-title="190. Const requires not........................interpreted." data-chapter="190. Const requires not........................interpreted." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="190. Const requires not........................interpreted." data-chapter="190. Const requires not........................interpreted." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 — By our religion we should be all rich, without our Constitution. Therefore we are poor.
 
@@ -256,13 +265,13 @@ And it is no excuse for the Superiors to allege that they were ignorant, for the
 
 — As to morality, 283.
 
-<span class="atom-split" data-atom="012" data-title="288." data-chapter="288." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="288." data-chapter="288." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 — Aquoquiez confessed females.
 
 — The Society placed to the account of the church, for good and for evil. 236.156.
 
-<span class="atom-split" data-atom="013" data-title="IV." data-chapter="IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="IV." data-chapter="IV." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 To examine the motives of the censure by the phenomena.
 
@@ -348,7 +357,7 @@ God evidently protects us.
 
 — The censure will render them this service, — that, when condemned, they will defend themselves by alleging that they follow the Jansenists.
 
-<span class="atom-split" data-atom="014" data-title="V." data-chapter="V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="V." data-chapter="V." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 Diana.
 
@@ -372,7 +381,7 @@ I was delighted with this reasoning, when he concluded by saying, “If this opi
 
 “My good father,” I said, “your reasons are excellent!”— “Ah!” he replied, “he is indeed an indulgent person!”— “I see plainly,” I rejoined, “that without you casuists, all the world would be damned! How wide have you made the road to Heaven! O, how many will now be able to find it! Here is one....................”
 
-<span class="atom-split" data-atom="015" data-title="VI." data-chapter="VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="VI." data-chapter="VI." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 What have you gained by accusing me of jesting at sacred things? As little will you gain by your charges of misrepresentation. (Erased.)
 
@@ -440,11 +449,11 @@ To justify, rather than confess it as a crime, “haec tunc hominem concludit pr
 
 — Simulated piety, a double crime.
 
-— Am I alone against thirty thousand? No. Do you keep possession of the court, and entrench yourselves in imposture: my support be truth! There is all my strength: if I lose that, I am lost indeed! I shall have no lack of charges, and persecution. But truth is on my side; and we will see which of us shall prevail!
+— Am I alone against thirty thousand? No. Do you keep [possession](/concepts/property) of the court, and entrench yourselves in imposture: my support be truth! There is all my strength: if I lose that, I am lost indeed! I shall have no lack of charges, and persecution. But truth is on my side; and we will see which of us shall prevail!
 
 I am an unworthy defender of religion; but you are also unworthy defenders of error and injustice. May God, in his mercy, disregarding what is evil in me, and looking complacently upon what is good in you, grant us both his grace, that truth may not suffer in my hands, and that falsehood may not..............................[These words finish page 398 in the MS. The sentence was doubtless continued on another page, which is lost.]
 
-<span class="atom-split" data-atom="016" data-title="VII." data-chapter="VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="VII." data-chapter="VII." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 And they set themselves to chase away from the church those who refuse to make this acknowledgment; in v (Erased.)...
 
@@ -510,7 +519,7 @@ Either the matter in question is in Jansenius, or not. If it is there, that cond
 
 Let them condemn one of your propositions in Escobar. I will take in one hand Escobar, in the other the Censure, and produce a formal argument from the two.
 
-<span class="atom-split" data-atom="017" data-title="VIII." data-chapter="VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="VIII." data-chapter="VIII." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 On hearing the report of the Feuillants [A religious order]....
 
@@ -532,7 +541,7 @@ Contradictions have ever existed, to perplex the wicked.
 
 Everything that offends truth or charity, is evil. This is an undoubted axiom.
 
-<span class="atom-split" data-atom="018" data-title="IX." data-chapter="IX." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="IX." data-chapter="IX." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/religion,concepts/justice,forms/pensee,forms/epistle,schools/jansenism"></span>
 
 Notes for a Nineteenth Provincial.
 

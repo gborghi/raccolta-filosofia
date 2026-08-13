@@ -12,8 +12,18 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > Treatise on acts properly human insofar as voluntary: the voluntary and involuntary, the effects of violence, fear, concupiscence and ignorance on voluntariness, the circumstances of an act, and what moves the will (intellect, sensitive appetite, God). It grounds the analysis of human freedom as rational appetite.
+
+## Connections
+
+**Assi:** [[assi/freedom_necessity|Libertà e necessità]]  
+**Posizioni:** [[positions/free_will|libero arbitrio]]  
+**Concetti:** [[concepts/will|volontà]], [[concepts/reason|ragione]], [[concepts/passion|passione]], [[concepts/concupiscence|concupiscenza]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +38,7 @@ TREATISE ON HUMAN ACTS: ACTS PECULIAR TO MAN (QQ[6]-21)
 
 Trattato sugli atti umani: atti specifici dell’uomo (QQ[6]-21)
 
-<span class="atom-split" data-atom="002" data-title="OF THE VOLUNTARY AND THE INVOLUNTARY (EIGHT ARTICLES)" data-chapter="OF THE VOLUNTARY AND THE INVOLUNTARY (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE VOLUNTARY AND THE INVOLUNTARY (EIGHT ARTICLES)" data-chapter="OF THE VOLUNTARY AND THE INVOLUNTARY (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Since therefore Happiness is to be gained by means of certain acts, we must in due sequence
 consider human acts, in order to know by what acts we may obtain Happiness, and by what acts
@@ -67,7 +77,7 @@ there are eight points of inquiry:
 
 Poiché quindi la Felicità può essere ottenuta attraverso determinati atti, dobbiamo esaminare in ordine corretto gli atti umani, al fine di conoscere quali azioni ci permettano di raggiungerla e quali invece ce lo impediscono. Tuttavia, poiché le operazioni e gli atti riguardano cose specifiche, ogni conoscenza pratica risulta incompleta se non tiene conto dei dettagli concreti. Lo studio della Morale, essendo incentrato sugli atti umani, dovrebbe innanzitutto considerare i principi generali e successivamente i dettagli specifici. Nel trattare dei principi generali, i punti da esaminare sono: (1) gli atti umani stessi; (2) i loro principi fondamentali. Gli atti umani possono essere divisi in quelli propri dell’uomo e in quelli comuni all’uomo e agli animali. Poiché la Felicità è il bene specifico dell’uomo, gli atti propri dell’uomo sono strettamente legati a essa rispetto a quelli comuni ad entrambi i generi. Pertanto, dobbiamo innanzitutto analizzare gli atti propri dell’uomo e successivamente quelli comuni all’uomo e agli animali, che vengono definiti “passioni”. Per questi ultimi, si possono considerare due aspetti principali: (1) cosa costituisce un atto umano; (2) in cosa consiste la differenza tra gli atti umani e quelli degli altri esseri. Poiché soltanto gli atti volontari possono essere veramente definiti “umani”, poiché la volontà è l’appetito razionale specifico dell’uomo, dobbiamo analizzare gli atti in relazione alla loro natura volontaria. Prima di tutto, dobbiamo distinguere tra atti volontari e involontari; successivamente, esaminare quali atti siano volontari nel senso stretto, cioè quelli scaturiti direttamente dalla volontà, e quali invece siano soltanto comandati dalla volontà attraverso altre facoltà umane. Poiché gli atti volontari presentano determinate circostanze che influenzano la nostra valutazione di essi, dobbiamo innanzitutto analizzare i concetti di volontarietà e involontarietà, e successivamente esaminare le specifiche circostanze che rendono un atto volontario o involontario. In questo ambito, ci sono otto questioni principali da considerare: (1) Esiste qualcosa di volontario negli atti umani? (2) Lo stesso vale per gli animali irrazionali? (3) È possibile esistere volontarietà senza alcuna azione concreta? (4) È possibile costringere la volontà a compiere un atto contro la sua volontà? (5) La coercizione provoca necessariamente comportamenti involontari? (6) Il timore può rendere un atto involontario? (7) La concupiscenza può causare comportamenti involontari? (8) L’ignoranza può portare a atti involontari?
 
-<span class="atom-split" data-atom="003" data-title="Whether there is anything voluntary in human acts?" data-chapter="Whether there is anything voluntary in human acts?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether there is anything voluntary in human acts?" data-chapter="Whether there is anything voluntary in human acts?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is nothing voluntary in human acts. For that is voluntary
 "which has its principle within itself." as Gregory of Nyssa [*Nemesius, De [Natura](/concepts/nature) Hom. xxxii.],
@@ -163,7 +173,7 @@ Risposta all’Obiezione 2: I nuovi movimenti negli animali sono effettivamente 
 
 Risposta all’Obiezione 3: Dio spinge l’uomo ad agire non solo proponendo agli organi di senso ciò che è desiderabile, né tantomeno inducendo cambiamenti nel suo corpo, ma anche muovendo direttamente la volontà stessa; poiché ogni movimento, sia della volontà che della natura, ha origine in Dio come Primo Motore. E proprio come non è contraddittorio alla natura che il movimento naturale derivi da Dio come Primo Motore – poiché la natura è un mezzo attraverso cui Dio agisce – allo stesso modo non è contrario all’essenza di un atto volontario che esso derivi da Dio, poiché la volontà viene effettivamente mossa da Lui. Tuttavia, sia i movimenti naturali che quelli volontari hanno in comune il fatto che sia essenziale che derivino da una forza interna all’agente stesso.
 
-<span class="atom-split" data-atom="004" data-title="Whether there is anything voluntary in irrational animals?" data-chapter="Whether there is anything voluntary in irrational animals?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether there is anything voluntary in irrational animals?" data-chapter="Whether there is anything voluntary in irrational animals?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is nothing voluntary in irrational animals. For a thing is
 called "voluntary" from "[voluntas](/concepts/will)" [will]. Now since the will is in the reason (De [Anima](/concepts/soul) iii, 9), it
@@ -229,7 +239,7 @@ Risposta all’Obiezione 2: Il fatto che l’uomo sia padrone delle proprie azio
 
 Risposta all’Obiezione 3: Lode e biasimo sono il risultato di un atto volontario, caratterizzato da una volontà perfetta; tale tipo di volontà non si riscontra negli animali irrazionali.
 
-<span class="atom-split" data-atom="005" data-title="Whether there can be voluntariness without any act?" data-chapter="Whether there can be voluntariness without any act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether there can be voluntariness without any act?" data-chapter="Whether there can be voluntariness without any act?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that voluntariness cannot be without any act. For that is voluntary
 which proceeds from the will. But nothing can proceed from the will, except through some act, at
@@ -293,7 +303,7 @@ Risposta all’Obiezione 2: “Non voler” può essere inteso in due modi. Prim
 
 Risposta all’Obiezione 3: La volontarietà richiede un atto di conoscenza, proprio come richiede un atto di volontà; cioè, affinché sia possibile considerare, desiderare e agire. E così, proprio come non desiderare o non agire quando è il momento giusto per farlo è qualcosa che avviene volontariamente, allo stesso modo è volontario anche non considerare qualcosa.
 
-<span class="atom-split" data-atom="006" data-title="Whether violence can be done to the will?" data-chapter="Whether violence can be done to the will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether violence can be done to the will?" data-chapter="Whether violence can be done to the will?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that violence can be done to the will. For everything can be
 compelled by that which is more powerful. But there is something, namely, God, that is more
@@ -345,7 +355,7 @@ contrary to the rational nature, nevertheless is apprehended as something good a
 nature, in so far as it is suitable to man by reason of some pleasurable sensation or some vicious
 [habit](/concepts/custom).
 
-<span class="atom-split" data-atom="007" data-title="Whether violence causes involuntariness?" data-chapter="Whether violence causes involuntariness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether violence causes involuntariness?" data-chapter="Whether violence causes involuntariness?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that violence does not cause involuntariness. For we speak of
 voluntariness and involuntariness in respect of the will. But violence cannot be done to the will, as
@@ -416,7 +426,7 @@ Risposta all’Obiezione 2: Ciò che viene definito “naturale” lo è in base
 
 Risposta all’Obiezione 3: Come afferma il Filosofo (Phys. viii, 4), il movimento di un animale che, talvolta, lo spinge contro la naturale inclinazione del suo corpo non è necessariamente contrario alla sua natura; tuttavia, in qualche modo lo è, poiché per l’animale è naturale muoversi secondo i propri desideri. Pertanto, questo tipo di movimento può essere considerato “violento”, ma solo in un certo senso. Lo stesso discorso vale nel caso di una persona che contorce le proprie membre in modo contrario alla loro disposizione naturale: anche in questo caso il movimento è violento, ma soltanto per quella particolare parte del corpo, e non necessariamente per la persona nel suo complesso.
 
-<span class="atom-split" data-atom="008" data-title="Whether fear causes involuntariness simply?" data-chapter="Whether fear causes involuntariness simply?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether fear causes involuntariness simply?" data-chapter="Whether fear causes involuntariness simply?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fear causes involuntariness simply. For just as violence regards
 that which is contrary to the will at the time, so fear regards a future evil which is repugnant to the
@@ -501,7 +511,7 @@ Risposta all’Obiezione 2: Le cose che sono tali in modo assoluto rimangono tal
 
 Risposta all’Obiezione 3: Ciò che viene compiuto per paura è volontario in assenza di alcuna condizione, cioè nel momento in cui viene effettivamente realizzato; ma diventa involontario sotto una certa condizione, ovvero se tale paura non rappresentasse una minaccia. Pertanto, questo argomento dimostra piuttosto il contrario.
 
-<span class="atom-split" data-atom="009" data-title="Whether concupiscence causes involuntariness?" data-chapter="Whether concupiscence causes involuntariness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether concupiscence causes involuntariness?" data-chapter="Whether concupiscence causes involuntariness?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [concupiscence](/concepts/concupiscence) causes involuntariness. For just as fear is a
 passion, so is concupiscence. But fear causes involuntariness to a certain extent. Therefore
@@ -565,7 +575,7 @@ Risposta all’Obiezione 2: Chi agisce per paura mantiene, in qualche misura, il
 
 Risposta all’Obiezione 3: Se la concupiscenza distruggesse completamente la conoscenza, come avviene in coloro che ne sono resi pazzi, ne conseguirebbe che la concupiscenza toglierebbe anche il carattere volontario agli atti umani. Tuttavia, in senso proprio, ciò non renderebbe tali atti involontari, poiché nelle cose prive di ragione non esiste né volontarietà né involontarietà. Talvolta, però, negli atti compiuti per motivi legati alla concupiscenza, la conoscenza non viene completamente distrutta: infatti, la capacità di conoscere non viene del tutto annullata, ma soltanto l’esame concreto di un determinato atto possibile. Nonostante ciò, tale esame stesso è volontario, poiché per “volontario” si intende ciò che rientra nella sfera del potere della volontà – ad esempio, “non agire” o “non voler qualcosa” – e allo stesso modo anche “non considerare un certo aspetto di una situazione”. La volontà, infatti, può resistere alle passioni, come vedremo in seguito (Q[10], A[3]; Q[77], A[7]).
 
-<span class="atom-split" data-atom="010" data-title="Whether ignorance causes involuntariness?" data-chapter="Whether ignorance causes involuntariness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether ignorance causes involuntariness?" data-chapter="Whether ignorance causes involuntariness?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that ignorance does not cause involuntariness. For "the involuntary
 act deserves pardon," as Damascene says (De Fide Orth. ii, 24). But sometimes that which is done
@@ -634,7 +644,7 @@ Al contrario, Damasceno (De Fide Orthodossa ii, 24) e il Filosofo (Etica iii, 1)
 Rispondo che, se l’ignoranza causa l’involontarietà, ciò avviene nel senso in cui priva una persona della conoscenza, che è una condizione necessaria per agire volontariamente, come già dichiarato in precedenza (A[1]). Tuttavia, non ogni forma di ignoranza priva una persona di questa conoscenza. Pertanto, dobbiamo considerare che l’ignoranza ha un rapporto tripartito con l’atto della volontà: da un lato, “concomitante”; da un altro, “consequente”; da un terzo, “antecedente”. È “concomitante” quando si ignora ciò che si sta facendo, ma anche se lo si sapesse, l’atto verrebbe comunque compiuto. In questo caso, l’ignoranza non induce alcun desiderio di agire in quel modo; semplicemente, l’azione avviene contemporaneamente alla mancanza di conoscenza: ad esempio, nell’esempio fornito (OBJ 3), un uomo desiderava davvero uccidere il suo nemico, ma lo fece ignorando la verità, credendo di colpire una lepre. Questo tipo di ignoranza, come afferma il Filosofo (Etica, iii, 1), non causa l’involontarietà, poiché non è la causa di nulla che sia contrario alla volontà; tuttavia, rende possibile compiere un atto che altrimenti non verrebbe voluto. L’ignoranza è “consequente” all’atto della volontà quando essa stessa è volontaria, e ciò avviene in due modi, secondo i due tipi di volontarietà menzionati in precedenza (A[3]). Primo, quando l’atto della volontà si dirige verso qualcosa che viene ignorato: ad esempio, quando una persona desidera non conoscere certe informazioni per poter trovare scuse per un peccato o per poter commetterlo liberamente; come dice Giobbe 21:14: “Non desideriamo conoscere i tuoi sentieri”. Questo tipo di ignoranza è definito “ignoranza deliberata”. Secondo, l’ignoranza è detta volontaria quando riguarda ciò che si potrebbe e dovrebbe sapere; in questo senso, anche “non agire” o “non voler” possono essere considerati atti volontari, come già detto (A[3]). Questo tipo di ignoranza può derivare dal fatto che una persona non prende in considerazione ciò che potrebbe e dovrebbe conoscere; si tratta dell’“ignoranza delle conseguenze negative delle proprie azioni”, causata da passioni o abitudini. Oppure può derivare dal rifiuto di acquisire la conoscenza necessaria; in questo caso, l’ignoranza dei principi fondamentali della legge è volontaria, a causa di negligenza. Pertanto, se l’ignoranza è volontaria in uno di questi modi, non può causare necessariamente l’involontarietà. Tuttavia, lo fa in un certo senso, poiché precede il movimento della volontà verso l’atto; senza quell’ignoranza, tale movimento non avverrebbe. L’ignoranza è “antecedente” all’atto della volontà quando questa non è volontaria, ma causa comunque la comprensione e la realizzazione di ciò che altrimenti non verrebbe voluto. Ad esempio, una persona può ignorare alcuni dettagli del proprio atto, e di conseguenza compiere qualcosa che altrimenti non farebbe; ad esempio, dopo aver preso tutte le precauzioni necessarie, potrebbe non sapere che qualcuno sta arrivando lungo la strada, e quindi scoccare una freccia uccidendo un passante. In questo caso, l’ignoranza causa chiaramente l’involontarietà.
 Da ciò si può trarre la soluzione alle obiezioni. La prima obiezione riguarda l’ignoranza di ciò che un uomo è tenuto a conoscere; la seconda, l’ignoranza legata alle scelte, che sono in una certa misura volontarie, come già detto; la terza, quell’ignoranza che accompagna l’atto della volontà stessa.
 
-<span class="atom-split" data-atom="011" data-title="OF THE CIRCUMSTANCES OF HUMAN ACTS (FOUR ARTICLES)" data-chapter="OF THE CIRCUMSTANCES OF HUMAN ACTS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="OF THE CIRCUMSTANCES OF HUMAN ACTS (FOUR ARTICLES)" data-chapter="OF THE CIRCUMSTANCES OF HUMAN ACTS (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the circumstances of human acts: under which head there are four points
 of inquiry:
@@ -651,7 +661,7 @@ Dobbiamo ora considerare le circostanze degli atti umani: in questa categoria es
 (3) Quante circostanze esistono?  
 (4) Quali sono le più importanti tra queste?
 
-<span class="atom-split" data-atom="012" data-title="Whether a circumstance is an accident of a human act?" data-chapter="Whether a circumstance is an accident of a human act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether a circumstance is an accident of a human act?" data-chapter="Whether a circumstance is an accident of a human act?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a circumstance is not an accident of a human act. For Tully
 says (De Invent. Rhetor. i) that a circumstance is that from "which an orator adds authority and
@@ -729,7 +739,7 @@ Risposta all’Obiezione 2: Si dice che una cosa sia un accidente di un’altra 
 
 Risposta all’Obiezione 3: Come già detto sopra (ad 2), si dice che un accidente sia “l’accidente di un altro accidente” perché entrambi riguardano lo stesso soggetto. Tuttavia, ciò avviene in due modi diversi. In primo luogo, quando due accidenti sono entrambi legati allo stesso soggetto, senza alcuna relazione reciproca tra loro; ad esempio, la bianchezza e l’arte musicale in Socrate. In secondo luogo, quando tali accidenti sono tra loro correlati; ad esempio, quando uno di essi determina l’esistenza dell’altro nel soggetto considerato; come quando una superficie riceve il colore attraverso la propria struttura. Per questo motivo si dice anche che un accidente “si trovi” in un altro; infatti parliamo del colore come di qualcosa che “è presente sulla superficie”. Di conseguenza, le circostanze sono collegate agli atti in entrambi questi modi: alcune, pur essendo legate agli atti, appartengono all’agente in modo diverso da quello attraverso cui l’atto viene compiuto; ad esempio, il luogo o le condizioni personali dell’agente. Altre, invece, appartengono all’agente proprio a causa dell’atto stesso, come il modo in cui esso viene eseguito.
 
-<span class="atom-split" data-atom="013" data-title="Whether theologians should take note of the circumstances of human acts?" data-chapter="Whether theologians should take note of the circumstances of human acts?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether theologians should take note of the circumstances of human acts?" data-chapter="Whether theologians should take note of the circumstances of human acts?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that theologians should not take note of the circumstances of human
 acts. Because theologians do not consider human acts otherwise than according to their quality of
@@ -803,7 +813,7 @@ Risposta all’Obiezione 2: Gli accidenti che sono puramente casuali vengono tra
 
 Risposta all’Obiezione 3: L’esame delle circostanze spetta al moralista, al politico e all’oratore. Per il moralista, le circostanze determinano se un atto umano o una passione siano conformi alla virtù; per il politico e l’oratore, le circostanze fanno sì che tali atti meritino lode o biasimo, scuse o rimproveri. Tuttavia, in modi diversi: mentre l’oratore persuade, il politico giudica. Per il teologo, questa considerazione è fondamentale in tutti i sensi sopra menzionati; poiché tutte le altre discipline sono subordinate alla sua: egli deve infatti valutare gli atti come virtuosi o viziosi, proprio come fa il moralista; e, insieme all’oratore e al politico, considera gli atti in base al loro merito di ricompensa o punizione.
 
-<span class="atom-split" data-atom="014" data-title="Whether the circumstances are properly set forth in the third book of Ethics?" data-chapter="Whether the circumstances are properly set forth in the third book of Ethics?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the circumstances are properly set forth in the third book of Ethics?" data-chapter="Whether the circumstances are properly set forth in the third book of Ethics?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/four_causes,figures/aristotle"></span>
 
 Objection 1: It would seem that the circumstances are not properly set forth in Ethic. iii, 1. For
 a circumstance of an act is described as something outside the act. Now time and place answer to
@@ -875,7 +885,7 @@ Risposta all’Obiezione 2: Questo modo di agire, “bene” o “male”, non �
 
 Risposta all’Obiezione 3: Una condizione della causa, da cui dipende la sostanza dell’atto, non è una circostanza; deve essere considerata una condizione aggiuntiva. Pertanto, riguardo all’oggetto dell’atto, non è una circostanza del furto il fatto che l’oggetto appartenga a un altro, poiché questo costituisce già la sostanza stessa dell’atto; al contrario, le caratteristiche dell’oggetto (come essere grande o piccolo) sono considerate circostanze. Lo stesso vale per le altre circostanze che vengono valutate in relazione ad altre cause. L’obiettivo specifico che guida l’atto non è una semplice circostanza, ma un fine aggiuntivo; ad esempio, il fatto che un uomo agisca con coraggio “per il bene della virtù o della forza d’animo” non costituisce una circostanza, mentre lo scopo specifico dell’azione (ad esempio, salvare lo stato o la cristianità) sì. Lo stesso vale per la circostanza del “modo in cui l’atto viene compiuto”: il fatto che versando acqua su qualcuno si possa effettivamente lavarlo non è una caratteristica essenziale dell’atto di lavare; al contrario, il fatto che in questo modo si possa causargli freddo, scottature, guarigioni o danni sono circostanze rilevanti.
 
-<span class="atom-split" data-atom="015" data-title="Whether the most important circumstances are \&quot;why\&quot; and \&quot;in what the act consists\&quot;?" data-chapter="Whether the most important circumstances are \&quot;why\&quot; and \&quot;in what the act consists\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the most important circumstances are \&quot;why\&quot; and \&quot;in what the act consists\&quot;?" data-chapter="Whether the most important circumstances are \&quot;why\&quot; and \&quot;in what the act consists\&quot;?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 # Whether the most important circumstances are "why" and "in what the act consists"?
 
@@ -937,7 +947,7 @@ Risposta all’Obiezione 2: Sebbene la fine non faccia parte della sostanza dell
 
 Risposta all’Obiezione 3: La persona che compie un atto è la causa di tale atto, nella misura in cui viene spinta ad agire dal fine perseguito; ed è soprattutto in questo senso che essa viene guidata ad compiere quell’atto; mentre altre condizioni della persona non hanno una relazione così importante con l’atto stesso. Per quanto riguarda il modo in cui l’atto viene compiuto, non si tratta della [forma sostanziale](/concepts/forma_substantialis) dell’atto, poiché nella realtà questa forma dipende dall’oggetto e dal fine dell’azione; bensì si tratta, per così dire, di una certa qualità accidentale dell’atto stesso.
 
-<span class="atom-split" data-atom="016" data-title="OF THE WILL, IN REGARD TO WHAT IT WILLS (THREE ARTICLES)" data-chapter="OF THE WILL, IN REGARD TO WHAT IT WILLS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="OF THE WILL, IN REGARD TO WHAT IT WILLS (THREE ARTICLES)" data-chapter="OF THE WILL, IN REGARD TO WHAT IT WILLS (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/will,forms/treatise,schools/scholasticism"></span>
 
 We must now consider the different acts of the will; and in the first place, those acts which
 belong to the will itself immediately, as being elicited by the will; secondly, those acts which are
@@ -961,7 +971,7 @@ La volontà è spinta verso un fine e verso i mezzi necessari per raggiungerlo; 
 Per quanto riguarda la prima di queste categorie, occorre esaminare tre aspetti: (1) Di quali cose è fatta la volontà? (2) Da cosa viene spinta la volontà? (3) In che modo viene spinta?  
 All’interno della prima categoria di indagine, si possono individuare tre punti principali: (1) La volontà riguarda soltanto il bene? (2) Riguarda soltanto il fine, o anche i mezzi per raggiungerlo? (3) Se in qualche modo riguarda i mezzi, viene forse spinta sia verso il fine che verso i mezzi con lo stesso movimento?
 
-<span class="atom-split" data-atom="017" data-title="Whether the will is of good only?" data-chapter="Whether the will is of good only?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the will is of good only?" data-chapter="Whether the will is of good only?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will is not of good only. For the same power regards
 opposites; for instance, sight regards white and black. But good and evil are opposites. Therefore
@@ -1031,7 +1041,7 @@ Risposta all’Obiezione 2: Un potere razionale non deve essere indirizzato vers
 
 Risposta all’Obiezione 3: Ciò che non è un essere nella natura viene considerato un essere nella ragione; per questo motivo le negazioni e le privazioni vengono definite “esseri della ragione”. In questo modo, anche le cose future, nella misura in cui vengono comprese o percepite, sono considerate esseri. Pertanto, poiché tali cose sono considerate esseri, vengono percepite sotto l’aspetto del bene; ed è proprio per questo che la volontà si dirige verso di esse. Per questo motivo il Filosofo afferma (Etica, V, 1) che “mancare del male viene considerato un bene”.
 
-<span class="atom-split" data-atom="018" data-title="Whether volition is of the end only, or also of the means?" data-chapter="Whether volition is of the end only, or also of the means?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether volition is of the end only, or also of the means?" data-chapter="Whether volition is of the end only, or also of the means?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that volition is not of the means, but of the end only. For the
 Philosopher says (Ethic. iii, 2) that "volition is of the end, while choice is of the means."
@@ -1105,7 +1115,7 @@ Risposta all’Obiezione 2: Esistono poteri diversi per oggetti che differiscono
 
 Risposta all’Obiezione 3: Non tutto ciò che diversifica le abitudini diversifica anche le capacità umane; infatti, le abitudini sono determinazioni specifiche delle capacità relative ad azioni particolari. Inoltre, ogni arte pratica prende in considerazione sia lo scopo che i mezzi per raggiungerlo. L’arte del timoniere, ad esempio, considera lo scopo come ciò che effettivamente realizza e i mezzi come quelli che utilizza per raggiungerlo; l’arte della costruzione navale, invece, considera i mezzi come risultati delle proprie azioni, ma lo scopo come l’obiettivo verso cui mirano tali azioni. In ogni arte pratica, inoltre, esistono uno scopo specifico e dei mezzi propri di quell’arte.
 
-<span class="atom-split" data-atom="019" data-title="Whether the will is moved by the same act to the end and to the means?" data-chapter="Whether the will is moved by the same act to the end and to the means?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether the will is moved by the same act to the end and to the means?" data-chapter="Whether the will is moved by the same act to the end and to the means?" data-kind="atom" data-srclang="en" data-tags="concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will is moved by the same act, to the end and to the means.
 Because according to the Philosopher (Topic. iii, 2) "where one thing is on account of another there
@@ -1174,7 +1184,7 @@ Risposta all’Obiezione 2: Ogni volta che si percepisce il colore, allo stesso 
 
 Risposta all’Obiezione 3: Nell’esecuzione di un’opera, i mezzi rappresentano lo “spazio intermedio”, mentre la meta costituisce il “termine finale”. Pertanto, proprio come il movimento naturale a volte si arresta a metà strada senza raggiungere la destinazione, allo stesso modo ci capita di dedicarsi ai mezzi senza ottenere l’obiettivo desiderato. Nel caso della volontà, invece, avviene il contrario: è la volontà stessa, nel voler raggiungere la meta, a determinare l’adozione dei mezzi necessari; proprio come l’intelletto giunge alle conclusioni attraverso i principi considerati “mezzi”. Per questo motivo, a volte l’intelletto comprende un mezzo senza arrivare alla conclusione finale; allo stesso modo, la volontà può voler una meta senza decidere quali mezzi utilizzare per raggiungerla. La soluzione a questo argomento, nel senso opposto, risulta chiara da quanto detto in precedenza (A[2], ad 2): il “utile” e il “giusto”, infatti, non rientrano nella stessa categoria di bene; il primo rappresenta qualcosa che ha valore per sé stesso, mentre il secondo è qualcosa che ha valore in relazione a un altro scopo. Pertanto, l’atto della volontà può essere diretto verso l’uno o verso l’altro, ma non viceversa.
 
-<span class="atom-split" data-atom="020" data-title="OF THAT WHICH MOVES THE WILL (SIX ARTICLES)" data-chapter="OF THAT WHICH MOVES THE WILL (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="OF THAT WHICH MOVES THE WILL (SIX ARTICLES)" data-chapter="OF THAT WHICH MOVES THE WILL (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider what moves the will: and under this head there are six points of inquiry:
 (1) Whether the will is moved by the intellect?
@@ -1194,7 +1204,7 @@ Dobbiamo ora considerare ciò che muove la volontà; in questo ambito esistono s
 (5) Viene mossa da un corpo celeste?  
 (6) La volontà viene mossa esclusivamente da Dio, come da un principio esterno?
 
-<span class="atom-split" data-atom="021" data-title="Whether the will is moved by the intellect?" data-chapter="Whether the will is moved by the intellect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether the will is moved by the intellect?" data-chapter="Whether the will is moved by the intellect?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/soul,concepts/will,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It would seem that the will is not moved by the intellect. For [Augustine](/figures/augustine) says on
 Ps. 118:20: "My soul hath coveted to long for Thy justifications: The intellect flies ahead, the desire
@@ -1273,7 +1283,7 @@ Risposta all’Obiezione 2: Proprio come l’immaginazione di una forma, senza c
 
 Risposta all’Obiezione 3: La volontà dirige l’intelletto nell’esercizio delle sue funzioni; poiché anche la verità stessa, che rappresenta la perfezione dell’intelletto, è inclusa nel bene universale come un bene particolare. Tuttavia, quanto alla determinazione concreta di quell’atto, che deriva dall’oggetto considerato, è l’intelletto a guidare la volontà; poiché il bene stesso viene compreso in un aspetto specifico, come contenuto nella verità universale. È quindi evidente che, nello stesso ambito, non si possa trattare di lo stesso soggetto che agisce e di quello che viene influenzato dall’azione altrui.
 
-<span class="atom-split" data-atom="022" data-title="Whether the will is moved by the sensitive appetite?" data-chapter="Whether the will is moved by the sensitive appetite?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the will is moved by the sensitive appetite?" data-chapter="Whether the will is moved by the sensitive appetite?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will cannot be moved by the sensitive appetite. For "to
 move and to act is more excellent than to be passive," as [Augustine](/figures/augustine) says (Gen. ad lit. xii, 16). But
@@ -1342,7 +1352,7 @@ Risposta all’Obiezione 2: Le azioni e le scelte umane riguardano individui spe
 
 Risposta all’Obiezione 3: Come afferma il Filosofo (Politica I, 2), la ragione, in cui risiede la volontà, muove, per suo comando, le facoltà irascibile e concupiscibile; non certo “con un potere dispotico”, come un schiavo è mosso dal proprio padrone, ma con un “potere regale e politico”, poiché gli uomini liberi sono governati dai loro capi, pur potendo agire contro i loro ordini. Pertanto, sia la facoltà irascibile che quella concupiscibile possono spingere la volontà ad agire in modo contrario a quanto essa desidera; e di conseguenza, nulla impedisce alla volontà di essere talvolta influenzata da queste forze.
 
-<span class="atom-split" data-atom="023" data-title="Whether the will moves itself?" data-chapter="Whether the will moves itself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether the will moves itself?" data-chapter="Whether the will moves itself?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will does not move itself. For every mover, as such, is in
 act: whereas what is moved, is in [potentiality](/concepts/act_potency); since "movement is the act of that which is in
@@ -1380,7 +1390,7 @@ Reply to Objection 3: The will is moved by the intellect, otherwise than by itse
 intellect it is moved on the part of the object: whereas it is moved by itself, as to the exercise of its
 act, in respect of the end.
 
-<span class="atom-split" data-atom="024" data-title="Whether the will is moved by an exterior principle?" data-chapter="Whether the will is moved by an exterior principle?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether the will is moved by an exterior principle?" data-chapter="Whether the will is moved by an exterior principle?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/will,concepts/cause,concepts/infinity,figures/aristotle"></span>
 
 Objection 1: It would seem that the will is not moved by anything exterior. For the movement
 of the will is voluntary. But it is essential to the voluntary act that it be from an intrinsic principle,
@@ -1449,7 +1459,7 @@ Risposta all’Obiezione 2: Affinché un atto sia considerato violento, non è s
 
 Risposta all’Obiezione 3: La volontà si muove sufficientemente in un certo senso, e secondo il proprio ordine, cioè come agente immediato; ma non può muoversi in ogni senso, come abbiamo dimostrato. Pertanto ha bisogno di essere mossa da un altro ente come motore primo.
 
-<span class="atom-split" data-atom="025" data-title="Whether the will is moved by a heavenly body?" data-chapter="Whether the will is moved by a heavenly body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the will is moved by a heavenly body?" data-chapter="Whether the will is moved by a heavenly body?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the human will is moved by a heavenly body. For all various
 and multiform movements are reduced, as to their cause, to a uniform movement which is that of
@@ -1538,7 +1548,7 @@ Risposta all’Obiezione 2: I movimenti del corpo umano, in termini di loro caus
 
 Risposta all’Obiezione 3: Come già detto sopra (cfr. FP, Q[84], AA[6],7), l’appetito sensibile è un atto di un organo corporeo. Pertanto non vi è alcun motivo per cui l’uomo non debba essere incline all’[ira](/concepts/anger) o alla concupiscenza, o ad altre passioni simili, a causa dell’influenza dei corpi celesti, proprio come lo sono le sue caratteristiche fisiche naturali. Tuttavia, la maggior parte degli uomini è guidata da queste passioni, alle quali solo i saggi riescono a resistere. Di conseguenza, nella stragrande maggioranza dei casi, le previsioni riguardanti gli atti umani, basate sull’osservazione dei corpi celesti, si avverano. Tuttavia, come afferma Tolomeo (Centiloquium v), “il saggio governa le stelle”; il che significa che, resistendo alle proprie passioni, egli oppone la propria volontà – libera e assolutamente indipendente dal movimento dei corpi celesti – a tali effetti. Oppure, come dice Agostino (Genesi ad litteram ii, 15): “Dobbiamo ammettere che quando gli astrologi predicono la verità, ciò avviene grazie a un’ispirazione estremamente nascosta, alla quale la mente umana è soggetta senza che se ne renda conto. E poiché ciò viene fatto al fine di ingannare l’uomo, deve trattarsi dell’opera degli spiriti mendaci”.
 
-<span class="atom-split" data-atom="026" data-title="Whether the will is moved by God alone, as exterior principle?" data-chapter="Whether the will is moved by God alone, as exterior principle?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether the will is moved by God alone, as exterior principle?" data-chapter="Whether the will is moved by God alone, as exterior principle?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will is not moved by God alone as exterior principle. For
 it is natural that the inferior be moved by its superior: thus the lower bodies are moved by the
@@ -1606,7 +1616,7 @@ Risposta all’Obiezione 2: L’intelletto umano viene mosso da un angelo, per q
 
 Risposta all’Obiezione 3: Dio dirige la volontà dell’uomo, in qualità di Motore Universale, verso l’oggetto universale della volontà, che è il bene. Senza questa direzione divina, l’uomo non potrebbe volere nulla. Tuttavia, l’uomo stesso, con il proprio ragionamento, decide di volere questo o quell’altro, che ritenue buono o apparentemente buono. Nonostante ciò, a volte Dio induce alcuni individui in particolare a volere qualcosa di specifico e positivo; è il caso di coloro che vengono guidati dalla Sua grazia, come spiegheremo più avanti (Q[109], A[2]).
 
-<span class="atom-split" data-atom="027" data-title="OF THE MANNER IN WHICH THE WILL IS MOVED (FOUR ARTICLES)" data-chapter="OF THE MANNER IN WHICH THE WILL IS MOVED (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="OF THE MANNER IN WHICH THE WILL IS MOVED (FOUR ARTICLES)" data-chapter="OF THE MANNER IN WHICH THE WILL IS MOVED (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the manner in which the will is moved. Under this head there are four
 points of inquiry:
@@ -1623,7 +1633,7 @@ Dobbiamo ora considerare il modo in cui la volontà viene influenzata. In questo
 (3) Se venga necessariamente spinta dagli appetiti inferiori;  
 (4) Se venga necessariamente spinta da una forza esterna, ovvero da Dio.
 
-<span class="atom-split" data-atom="028" data-title="Whether the will is moved to anything naturally?" data-chapter="Whether the will is moved to anything naturally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether the will is moved to anything naturally?" data-chapter="Whether the will is moved to anything naturally?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will is not moved to anything naturally. For the natural
 agent is condivided with the voluntary agent, as stated at the beginning of Phys. ii, 1. Therefore
@@ -1705,7 +1715,7 @@ Risposta all’Obiezione 2: Nel caso delle cose naturali, ciò che è naturale, 
 
 Risposta all’Obiezione 3: A ogni natura corrisponde qualcosa che le è conforme e proporzionato. Poiché la natura considerata come genere ha una corrispondenza di tipo generico; la natura considerata come specie ha una corrispondenza di tipo specifico; e la natura individualizzata ha una corrispondenza individuale. Pertanto, poiché la volontà è un potere immateriale, proprio come l’intelletto, a essa deve corrispondere qualcosa di generale; naturalmente, ciò che corrisponde alla volontà è il bene. Proprio come all’intelletto corrisponde qualcosa di generale, ovvero la verità, l’essere o “ciò che una cosa è”. E sotto il concetto di bene in generale si includono molti beni particolari; ma nessuno di questi determina la volontà.
 
-<span class="atom-split" data-atom="029" data-title="Whether the will is moved, of necessity, by its object?" data-chapter="Whether the will is moved, of necessity, by its object?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether the will is moved, of necessity, by its object?" data-chapter="Whether the will is moved, of necessity, by its object?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the will is moved, of necessity, by its object. For the object of the
 will is compared to the will as mover to movable, as stated in De [Anima](/concepts/soul) iii, 10. But a mover, if it
@@ -1780,7 +1790,7 @@ Risposta all’Obiezione 2: L’intelletto viene necessariamente mosso da un ogg
 
 Risposta all’Obiezione 3: L’ultimo fine muove necessariamente la volontà, poiché rappresenta il bene perfetto. Allo stesso modo, tutto ciò che è destinato a realizzare tale fine e senza di cui tale fine non potrebbe essere raggiunto – come “essere” e “vivere”, ad esempio – viene necessariamente desiderato da chi vuole quel fine. Tuttavia, altre cose, senza le quali il fine possa comunque essere ottenuto, non sono necessariamente volute da colui che desidera quel fine: proprio come chi accetta i principi fondamentali non accetta necessariamente le conclusioni derivanti da essi, anche se queste conclusioni potrebbero comunque essere vere.
 
-<span class="atom-split" data-atom="030" data-title="Whether the will is moved, of necessity, by the lower appetite?" data-chapter="Whether the will is moved, of necessity, by the lower appetite?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the will is moved, of necessity, by the lower appetite?" data-chapter="Whether the will is moved, of necessity, by the lower appetite?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/passion,concepts/will,concepts/concupiscence,concepts/reason"></span>
 
 Objection 1: It would seem that the will is moved of necessity by a passion of the lower appetite.
 For the Apostle says (Rom. 7:19): "The good which I will I do not; but the evil which I will not,
@@ -1857,7 +1867,7 @@ Risposta all’Obiezione 2: Poiché nell’uomo esiste una duplice natura, intel
 
 Risposta all’Obiezione 3: La volontà viene mosso non solo dal bene universale inteso dalla ragione, ma anche dal bene percepito dai sensi. Pertanto, si può essere spinti verso un certo bene particolare indipendentemente da qualsiasi passione dell’appetito sensitivo. Infatti, compiamo molte azioni senza alcuna passione, soltanto attraverso la scelta; ciò è particolarmente evidente nei casi in cui la ragione resiste alle passioni.
 
-<span class="atom-split" data-atom="031" data-title="Whether the will is moved of necessity by the exterior mover which is God?" data-chapter="Whether the will is moved of necessity by the exterior mover which is God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether the will is moved of necessity by the exterior mover which is God?" data-chapter="Whether the will is moved of necessity by the exterior mover which is God?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,assi/god,positions/free_will,concepts/will,figures/augustine"></span>
 
 Objection 1: It would seem that the will is moved of necessity by God. For every agent that
 cannot be resisted moves of necessity. But God cannot be resisted, because His power is infinite;
@@ -1917,7 +1927,7 @@ Risposta all’Obiezione 2: Qualcosa è naturale per una certa cosa quando Dio a
 
 Risposta all’Obiezione 3: Se Dio muove la volontà verso qualcosa, ciò è incompatibile con l’ipotesi che la volontà non venga influenzata da tale stimolo. Tuttavia, questa possibilità non è assolutamente impossibile. Pertanto, non si può concludere necessariamente che la volontà venga effettivamente influenzata da Dio.
 
-<span class="atom-split" data-atom="032" data-title="OF ENJOYMENT [*Or, Fruition], WHICH IS AN ACT OF THE WILL (FOUR ARTICLES)" data-chapter="OF ENJOYMENT [*Or, Fruition], WHICH IS AN ACT OF THE WILL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="OF ENJOYMENT [*Or, Fruition], WHICH IS AN ACT OF THE WILL (FOUR ARTICLES)" data-chapter="OF ENJOYMENT [*Or, Fruition], WHICH IS AN ACT OF THE WILL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider enjoyment: concerning which there are four points of inquiry:
 (1) Whether to enjoy is an act of the appetitive power?
@@ -1933,7 +1943,7 @@ Dobbiamo ora considerare il piacere: in merito al quale vi sono quattro punti da
 (3) Se il piacere riguardi soltanto lo scopo finale;
 (4) Se riguardi soltanto lo scopo effettivamente raggiunto.
 
-<span class="atom-split" data-atom="033" data-title="Whether to enjoy is an act of the appetitive power?" data-chapter="Whether to enjoy is an act of the appetitive power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether to enjoy is an act of the appetitive power?" data-chapter="Whether to enjoy is an act of the appetitive power?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that to enjoy belongs not only to the appetitive power. For to enjoy
 seems nothing else than to receive the fruit. But it is the intellect, in whose act Happiness consists,
@@ -1978,7 +1988,7 @@ Reply to Objection 3: In delight there are two things: perception of what is bec
 belongs to the apprehensive power; and complacency in that which is offered as becoming: and
 this belongs to the appetitive power, in which power delight is formally completed.
 
-<span class="atom-split" data-atom="034" data-title="Whether to enjoy belongs to the rational creature alone, or also to irrational animals?" data-chapter="Whether to enjoy belongs to the rational creature alone, or also to irrational animals?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether to enjoy belongs to the rational creature alone, or also to irrational animals?" data-chapter="Whether to enjoy belongs to the rational creature alone, or also to irrational animals?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that to enjoy belongs to men alone. For [Augustine](/figures/augustine) says (De Doctr.
 Christ. i, 22) that "it is given to us men to enjoy and to use." Therefore other animals cannot enjoy.
@@ -2025,7 +2035,7 @@ Reply to Objection 4: Augustine is speaking there of imperfect enjoyment. This i
 his way of speaking: for he says that "it is not so absurd to suppose that even beasts enjoy," that is,
 as it would be, if one were to say that they "use."
 
-<span class="atom-split" data-atom="035" data-title="Whether enjoyment is only of the last end?" data-chapter="Whether enjoyment is only of the last end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether enjoyment is only of the last end?" data-chapter="Whether enjoyment is only of the last end?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that enjoyment is not only of the last end. For the Apostle says
 (Philem. 20): "Yea, brother, may I enjoy thee in the Lord." But it is evident that Paul had not placed
@@ -2099,7 +2109,7 @@ Risposta all’Obiezione 2: Il frutto ha una relazione con l’albero che lo ha 
 
 Risposta all’Obiezione 3: Come già detto sopra (Q[1], A[8]; Q[2], A[7]), parliamo di un “fine” in due sensi diversi: da un lato, come della cosa stessa; dall’altro, come del suo raggiungimento. Questi non sono, ovviamente, due fini distinti, ma uno solo considerato sia in sé stesso che nella sua relazione con qualcos’altro. Pertanto, Dio è il fine ultimo, ciò che viene infine cercato; mentre il godimento rappresenta il raggiungimento di questo fine ultimo. E così, proprio come Dio non è un fine e il godimento di Dio non ne è un altro, allo stesso modo è lo stesso godimento attraverso cui godiamo di Dio e attraverso cui godiamo del nostro stesso godimento di Dio. Lo stesso vale per la felicità creata, che consiste appunto nel godimento.
 
-<span class="atom-split" data-atom="036" data-title="Whether enjoyment is only of the end possessed?" data-chapter="Whether enjoyment is only of the end possessed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Whether enjoyment is only of the end possessed?" data-chapter="Whether enjoyment is only of the end possessed?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that enjoyment is only of the end possessed. For [Augustine](/figures/augustine) says
 (De Trin. x, 1) that "to enjoy is to use joyfully, with the joy, not of hope, but of possession." But
@@ -2137,7 +2147,7 @@ imperfect, on account of the imperfect way in which it is possessed.
 Reply to Objection 3: One is said to lay hold of or to have an end, not only in reality, but also
 in intention, as stated above.
 
-<span class="atom-split" data-atom="037" data-title="OF INTENTION (FIVE ARTICLES)" data-chapter="OF INTENTION (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="OF INTENTION (FIVE ARTICLES)" data-chapter="OF INTENTION (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider Intention: concerning which there are five points of inquiry:
 (1) Whether intention is an act of intellect or of the will?
@@ -2155,7 +2165,7 @@ Dobbiamo ora considerare l’Intenzione: su di essa vi sono cinque punti da inda
 (4) Se l’intenzione dello scopo sia lo stesso atto della scelta dei mezzi per raggiungerlo;  
 (5) Se l’intenzione rientri nelle capacità degli animali irrazionali.
 
-<span class="atom-split" data-atom="038" data-title="Whether intention is an act of the intellect or of the will?" data-chapter="Whether intention is an act of the intellect or of the will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether intention is an act of the intellect or of the will?" data-chapter="Whether intention is an act of the intellect or of the will?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that intention is an act of the intellect, and not of the will. For it is
 written (Mat. 6:22): "If thy eye be single, thy whole body shall be lightsome": where, according to
@@ -2205,7 +2215,7 @@ absolutely to have health, and so forth. Secondly, it considers the end, as its 
 ordained; and thus "intention" regards the end. For when we speak of intending to have health, we
 mean not only that we have it, but that we will have it by means of something else.
 
-<span class="atom-split" data-atom="039" data-title="Whether intention is only of the last end?" data-chapter="Whether intention is only of the last end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether intention is only of the last end?" data-chapter="Whether intention is only of the last end?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that intention is only of the last end. For it is said in the book of
 Prosper's Sentences (Sent. 100): "The intention of the heart is a cry to God." But God is the last
@@ -2257,7 +2267,7 @@ Risposta all’Obiezione 2: Un “terminus” è qualcosa che ha fine; tale fine
 
 Risposta all’Obiezione 3: Il piacere implica, in definitiva, riposo; e questo appartiene esclusivamente all’ultimo fine. Tuttavia, l’intenzione implica movimento verso un fine, non riposo. Pertanto, questa analogia non dimostra nulla.
 
-<span class="atom-split" data-atom="040" data-title="Whether one can intend two things at the same time?" data-chapter="Whether one can intend two things at the same time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Whether one can intend two things at the same time?" data-chapter="Whether one can intend two things at the same time?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one cannot intend several things at the same time. For [Augustine](/figures/augustine)
 says (De Serm. Dom. in Monte ii, 14,16,17) that man's intention cannot be directed at the same
@@ -2324,7 +2334,7 @@ Risposta all’Obiezione 2: Possono esistere diversi elementi che sono tra loro 
 
 Risposta all’Obiezione 3: Come affermato nelle FP, Q[12], A[10]; FP, Q[58], A[2]; FP, Q[85], A[4], è possibile comprendere più cose contemporaneamente, nella misura in cui, in qualche modo, esse siano una cosa unica.
 
-<span class="atom-split" data-atom="041" data-title="Whether intention of the end is the same act as the volition of the means?" data-chapter="Whether intention of the end is the same act as the volition of the means?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether intention of the end is the same act as the volition of the means?" data-chapter="Whether intention of the end is the same act as the volition of the means?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the intention of the end and the volition of the means are not
 one and the same movement. For [Augustine](/figures/augustine) says (De Trin. xi, 6) that "the will to see the window,
@@ -2372,7 +2382,7 @@ called "choice": but the movement of the will to the end as acquired by the mean
 "intention." A sign of this is that we can have intention of the end without having determined the
 means which are the object of choice.
 
-<span class="atom-split" data-atom="042" data-title="Whether intention is within the competency of irrational animals?" data-chapter="Whether intention is within the competency of irrational animals?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether intention is within the competency of irrational animals?" data-chapter="Whether intention is within the competency of irrational animals?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that irrational animals intend the end. For in things void of reason
 nature stands further apart from the rational nature, than does the sensitive nature in irrational
@@ -2448,7 +2458,7 @@ Scegliere, consentire e utilizzare. E la scelta è preceduta dal consiglio. Prim
 (5) La scelta riguarda forse soltanto cose possibili?  
 (6) L’uomo sceglie per necessità o liberamente?
 
-<span class="atom-split" data-atom="043" data-title="Whether choice is an act of will or of reason?" data-chapter="Whether choice is an act of will or of reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether choice is an act of will or of reason?" data-chapter="Whether choice is an act of will or of reason?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that choice is an act, not of will but of reason. For choice implies
 comparison, whereby one is given preference to another. But to compare is an act of reason.
@@ -2513,7 +2523,7 @@ Risposta all’Obiezione 2: È certamente vero che lo scopo della deduzione in u
 
 Risposta all’Obiezione 3: Quando parliamo di “ignoranza riguardo alle scelte da compiere”, non intendiamo che la scelta sia in qualche modo un tipo di conoscenza, ma piuttosto che esista ignoranza su ciò che dovrebbe essere scelto.
 
-<span class="atom-split" data-atom="044" data-title="Whether choice is to be found in irrational animals?" data-chapter="Whether choice is to be found in irrational animals?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="Whether choice is to be found in irrational animals?" data-chapter="Whether choice is to be found in irrational animals?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that irrational animals are able to choose. For choice "is the desire
 of certain things on account of an end," as stated in Ethic. iii, 2,3. But irrational animals desire
@@ -2590,7 +2600,7 @@ Risposta all’Obiezione 2: Un animale irrazionale preferisce una cosa all’alt
 
 Risposta all’Obiezione 3: Come affermato nella Physica iii, 3, “il movimento è l’atto di ciò che può essere mosso, causato da un motore”. Pertanto, la potenza del motore si manifesta nel movimento di ciò che viene mosso. Di conseguenza, in tutte le cose mosse per mezzo della ragione, l’ordine stabilito dalla ragione che le muove è evidente, anche se le stesse cose sono prive di ragione: un’arco, ad esempio, grazie al movimento dell’arciere, si dirige dritto verso il bersaglio, come se fosse dotato di ragione per guidare la propria traiettoria. Lo stesso si può osservare nei movimenti degli orologi e in tutti gli strumenti creati dall’ingegno umano. Ora, così come le cose artificiali sono in relazione all’arte umana, allo stesso modo tutte le cose naturali sono in relazione all’Arte Divina. Pertanto, nell’ordine delle cose mosse dalla natura si può riconoscere lo stesso principio che nelle cose mosse per mezzo della ragione, come affermato nella Physica ii. Ed è proprio per questo che nelle opere degli animali irrazionali possiamo notare segni di saggezza: tali animali, infatti, hanno una tendenza naturale ad agire in modo ordinato, poiché sono guidati dall’Arte Suprema. Per questa ragione alcuni animali vengono definiti “prudenti” o “saggi”, ma non perché siano in grado di riflettere o prendere decisioni consapevoli riguardo alle loro azioni. Questo è evidente dal fatto che tutte le creature che condividono la stessa natura agiscono inevitabilmente nello stesso modo.
 
-<span class="atom-split" data-atom="045" data-title="Whether choice is only of the means, or sometimes also of the end?" data-chapter="Whether choice is only of the means, or sometimes also of the end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether choice is only of the means, or sometimes also of the end?" data-chapter="Whether choice is only of the means, or sometimes also of the end?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that choice is not only of the means. For the Philosopher says
 (Ethic. vi, 12) that "virtue makes us choose aright; but it is not the part of virtue, but of some other
@@ -2640,7 +2650,7 @@ Risposta all’Obiezione 1: Gli scopi propri delle virtù sono orientati verso l
 
 Risposta all’Obiezione 2: Come già detto sopra (Q[1], A[5]), esiste soltanto un unico fine ultimo. Pertanto, ove siano presenti diversi fini, questi possono essere oggetto di scelta nella misura in cui sono destinati a realizzare un fine ulteriore.
 
-<span class="atom-split" data-atom="046" data-title="Whether choice is of those things only that are done by us?" data-chapter="Whether choice is of those things only that are done by us?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether choice is of those things only that are done by us?" data-chapter="Whether choice is of those things only that are done by us?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that choice is not only in respect of human acts. For choice regards
 the means. Now, not only acts, but also the organs, are means (Phys. ii, 3). Therefore choice is not
@@ -2695,7 +2705,7 @@ Risposta all’Obiezione 2: Nella stessa contemplazione vi è l’atto dell’in
 
 Risposta all’Obiezione 3: Quando un uomo sceglie qualcuno per una carica episcopale o un alto incarico nell’[stato](/concepts/state), sta decidendo di nominare quella persona per tale ruolo. Altrimenti, se non avesse il diritto di intervenire nella nomina dell’episcopo o del funzionario, non avrebbe nemmeno il diritto di scegliere. Allo stesso modo, ogni volta che parliamo di una scelta fatta preferendo un’opzione all’altra, ciò avviene sempre in concomitanza con un’azione da parte di chi sceglie.
 
-<span class="atom-split" data-atom="047" data-title="Whether choice is only of possible things?" data-chapter="Whether choice is only of possible things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Whether choice is only of possible things?" data-chapter="Whether choice is only of possible things?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that choice in not only of possible things. For choice is an act of
 the will, as stated above (A[1]). Now there is "a willing of impossibilities" (Ethic. iii, 2). Therefore
@@ -2763,7 +2773,7 @@ Risposta all’Obiezione 2: Poiché l’oggetto della volontà è il bene percep
 
 Risposta all’Obiezione 3: Il motivo di ciò è che il soggetto non dovrebbe affidarsi al proprio giudizio per stabilire se qualcosa sia possibile, ma in ogni caso dovrebbe seguire la decisione del proprio superiore.
 
-<span class="atom-split" data-atom="048" data-title="Whether man chooses of necessity or freely?" data-chapter="Whether man chooses of necessity or freely?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether man chooses of necessity or freely?" data-chapter="Whether man chooses of necessity or freely?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason"></span>
 
 Objection 1: It would seem that man chooses of necessity. For the end stands in relation to the
 object of choice, as the principle of that which follows from the principles, as declared in Ethic.
@@ -2834,7 +2844,7 @@ Risposta all’Obiezione 2: La decisione o il giudizio della ragione su ciò che
 
 Risposta all’Obiezione 3: Se due cose vengono considerate uguali sotto un certo aspetto, nulla ci impedisce di riconoscere in una di esse qualche particolare vantaggio, in modo che la volontà si orienti verso quella piuttosto che verso l’altra.
 
-<span class="atom-split" data-atom="049" data-title="OF COUNSEL, WHICH PRECEDES CHOICE (SIX ARTICLES)" data-chapter="OF COUNSEL, WHICH PRECEDES CHOICE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="OF COUNSEL, WHICH PRECEDES CHOICE (SIX ARTICLES)" data-chapter="OF COUNSEL, WHICH PRECEDES CHOICE (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider counsel; concerning which there are six points of inquiry:
 (1) Whether counsel is an inquiry?
@@ -2853,7 +2863,7 @@ Dobbiamo ora considerare la questione del “consiglio”; a questo proposito vi
 (4) Il processo di riflessione legato al consiglio è caratterizzato da analisi dettagliata, oppure no?  
 (5) È un processo indefinito nel tempo, o ha una struttura ben definita?
 
-<span class="atom-split" data-atom="050" data-title="Whether counsel is an inquiry?" data-chapter="Whether counsel is an inquiry?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Whether counsel is an inquiry?" data-chapter="Whether counsel is an inquiry?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that counsel is not an inquiry. For Damascene says (De Fide Orth.
 ii, 22) that counsel is "an act of the appetite." But inquiry is not an act of the appetite. Therefore
@@ -2923,7 +2933,7 @@ Risposta all’Obiezione 2: Le cose che diciamo di Dio devono essere intese senz
 
 Risposta all’Obiezione 3: Può accadere che cose che sono certamente buone secondo l’opinione di saggi e persone spirituali non lo siano necessariamente secondo l’opinione di molti, o almeno di coloro la cui mentalità è orientata verso i valori materiali. Pertanto, in tali casi può essere opportuno fornire consigli.
 
-<span class="atom-split" data-atom="051" data-title="Whether counsel is of the end, or only of the means?" data-chapter="Whether counsel is of the end, or only of the means?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="Whether counsel is of the end, or only of the means?" data-chapter="Whether counsel is of the end, or only of the means?" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that counsel is not only of the means but also of the end. For
 whatever is doubtful, can be the subject of inquiry. Now in things to be done by man there happens
@@ -2965,7 +2975,7 @@ Risposta all’Obiezione 1: Ciò che viene considerato un fine è già stabilito
 
 Risposta all’Obiezione 2: Il consiglio riguarda le azioni umane nella misura in cui sono destinate a un certo fine. Pertanto, se un qualsiasi atto umano costituisce di per sé stesso un fine, esso non sarà oggetto di consiglio.
 
-<span class="atom-split" data-atom="052" data-title="Whether counsel is only of things that we do?" data-chapter="Whether counsel is only of things that we do?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="Whether counsel is only of things that we do?" data-chapter="Whether counsel is only of things that we do?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that counsel is not only of things that we do. For counsel implies
 some kind of conference. But it is possible for many to confer about things that are not subject to
@@ -3038,7 +3048,7 @@ Risposta all’Obiezione 3: Il consiglio riguarda non solo ciò che viene fatto,
 
 Risposta all’Obiezione 4: Cerchiamo consiglio riguardo alle azioni altrui nella misura in cui queste, in qualche modo, sono connesse a noi; sia attraverso un legame affettivo – in questo caso una persona si preoccupa di ciò che riguarda il proprio amico come se fosse cosa sua – sia nel ruolo di uno strumento: l’agente principale e lo strumento, infatti, costituiscono, in qualche modo, una sola causa, poiché l’uno agisce attraverso l’altro; è così che il padrone si consulta su ciò che farebbe attraverso il proprio servo.
 
-<span class="atom-split" data-atom="053" data-title="Whether counsel is about all things that we do?" data-chapter="Whether counsel is about all things that we do?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="Whether counsel is about all things that we do?" data-chapter="Whether counsel is about all things that we do?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that counsel is about all things that we have to do. For choice is
 the "desire of what is counselled" as stated above (A[1]). But choice is about all things that we do.
@@ -3082,7 +3092,7 @@ doubt may arise, just as when it can be accomplished by several means: hence the
 But when not only the means, but also the way of using the means, is fixed, then there is no need
 of counsel.
 
-<span class="atom-split" data-atom="054" data-title="Whether the process of counsel is one of analysis?" data-chapter="Whether the process of counsel is one of analysis?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="Whether the process of counsel is one of analysis?" data-chapter="Whether the process of counsel is one of analysis?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the process of counsel is not one of analysis. For counsel is
 about things that we do. But the process of our actions is not one of analysis, but rather one of
@@ -3141,7 +3151,7 @@ Risposta all’Obiezione 2: La ragione inizia da ciò che è primo secondo i pri
 
 Risposta all’Obiezione 3: Non dovremmo voler sapere se qualcosa che deve essere fatto per raggiungere un certo scopo sia possibile, se non fosse adatto a ottenere tale scopo. Pertanto, dobbiamo prima verificare se tale cosa sia efficace nel raggiungere lo scopo in questione, prima di considerare se sia effettivamente possibile farla.
 
-<span class="atom-split" data-atom="055" data-title="Whether the process of counsel is indefinite?" data-chapter="Whether the process of counsel is indefinite?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Whether the process of counsel is indefinite?" data-chapter="Whether the process of counsel is indefinite?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the process of counsel is indefinite. For counsel is an inquiry
 about the particular things with which action is concerned. But singulars are infinite. Therefore the
@@ -3211,7 +3221,7 @@ Risposta all’Obiezione 2: Sebbene l’azione umana possa essere ostacolata, ta
 
 Risposta all’Obiezione 3: Nei casi contingenti, qualcosa può essere considerato certo non semplicemente in linea di principio, ma per il momento attuale e nella misura in cui riguarda l’azione da compiere. Pertanto, il fatto che quel [Socrate](/figures/socrates) sia seduto non costituisce un’affermazione necessaria; ma il fatto che egli sia seduto, finché continua a esserlo, è necessario, e questo può essere considerato un dato certo.
 
-<span class="atom-split" data-atom="056" data-title="Whether consent is an act of the appetitive or of the apprehensive power?" data-chapter="Whether consent is an act of the appetitive or of the apprehensive power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="Whether consent is an act of the appetitive or of the apprehensive power?" data-chapter="Whether consent is an act of the appetitive or of the apprehensive power?" data-kind="atom" data-srclang="en" data-tags="concepts/will,concepts/reason,concepts/soul,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that consent belongs only to the apprehensive part of the soul. For
 [Augustine](/figures/augustine) (De Trin. xii, 12) ascribes consent to the higher reason. But the reason is an apprehensive
@@ -3272,7 +3282,7 @@ Risposta all’Obiezione 2: Il senso, inteso nel suo vero significato, appartien
 
 Risposta all’Obiezione 3: “Accordare il proprio consenso” significa, in altre parole, “provare un certo sentimento verso qualcosa”; pertanto ciò implica una certa distanza rispetto a ciò su cui viene espresso il consenso. Ma “consentire” nel senso proprio del termine significa “provarlo insieme”, e questo implica invece una certa unità con l’oggetto del consenso stesso. Pertanto, la volontà, che è l’organo attraverso il quale si esprime il consenso, tende propriamente verso l’oggetto stesso; mentre l’intelletto, il cui atto non consiste in un movimento verso quell’oggetto, ma piuttosto nel suo opposto – come abbiamo affermato nelle opere FP, Q[16], A[1]; FP, Q[27], A[4]; FP, Q[59], A[2] – si dice più propriamente che “accorda il proprio consenso”, anche se spesso i due termini vengono usati in modo intercambiabile. Possiamo anche dire che l’intelletto accorda il proprio consenso nella misura in cui viene mosso dalla volontà.
 
-<span class="atom-split" data-atom="057" data-title="Whether consent is to be found in irrational animals?" data-chapter="Whether consent is to be found in irrational animals?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Whether consent is to be found in irrational animals?" data-chapter="Whether consent is to be found in irrational animals?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that consent is to be found in irrational animals. For consent implies
 a determination of the appetite to one thing. But the appetite of irrational animals is determinate to
@@ -3333,7 +3343,7 @@ Risposta all’Obiezione 2: Se la prima premessa viene eliminata, allora anche c
 
 Risposta all’Obiezione 3: L’uomo che agisce spinto dalla passione è in grado di non seguire ciecamente quella passione; gli animali irrazionali, invece, non dispongono di tale capacità. Pertanto, il confronto non regge.
 
-<span class="atom-split" data-atom="058" data-title="Whether consent is directed to the end or to the means?" data-chapter="Whether consent is directed to the end or to the means?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="Whether consent is directed to the end or to the means?" data-chapter="Whether consent is directed to the end or to the means?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that consent is directed to the end. Because that on account of
 which a thing is such is still more such. But it is on account of the end that we consent to the means.
@@ -3402,7 +3412,7 @@ Risposta all’Obiezione 2: È il piacere derivante dall’atto stesso, e non l�
 
 Risposta all’Obiezione 3: La scelta include qualcosa che il consenso non include, ovvero una certa relazione tra due alternative di cui una viene preferita all’altra; pertanto, anche dopo il consenso, rimane ancora la possibilità di scegliere. Può infatti accadere che, con l’aiuto di consulenza, vengano individuati diversi mezzi utili per raggiungere un certo scopo, e che ciascuno di essi venga approvato; in tal caso si dà il consenso a ciascuno di questi mezzi. Tuttavia, dopo aver approvato più opzioni, ne scegliamo una come preferibile alle altre. Se invece viene approvata soltanto un’opzione, allora consenso e scelta non differiscono nella realtà, ma solo nel modo in cui le consideriamo: chiamiamo “consenso” l’atto di approvare qualcosa, mentre “scelta” indica il fatto di preferire una determinata opzione rispetto alle altre.
 
-<span class="atom-split" data-atom="059" data-title="Whether consent to the act belongs only to the higher part of the soul?" data-chapter="Whether consent to the act belongs only to the higher part of the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="Whether consent to the act belongs only to the higher part of the soul?" data-chapter="Whether consent to the act belongs only to the higher part of the soul?" data-kind="atom" data-srclang="en" data-tags="concepts/reason,concepts/will,concepts/soul,figures/aristotle,figures/augustine"></span>
 
 Objection 1: It would seem that consent to the act does not always belong to the higher reason.
 For "delight follows action, and perfects it, just as [beauty](/concepts/beauty) perfects youth" [*oion tois akmaiois he
@@ -3480,7 +3490,7 @@ Ora dobbiamo considerare l’uso; al riguardo vi sono quattro punti da esaminare
 (3) Riguarda soltanto i mezzi, o anche l’fine?  
 (4) Qual è la relazione tra l’uso e la scelta?
 
-<span class="atom-split" data-atom="060" data-title="Whether use is an act of the will?" data-chapter="Whether use is an act of the will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether use is an act of the will?" data-chapter="Whether use is an act of the will?" data-kind="atom" data-srclang="en" data-tags="concepts/will,concepts/reason,figures/augustine"></span>
 
 Objection 1: It would seem that use is not an act of the will. For [Augustine](/figures/augustine) says (De Doctr.
 Christ. i, 4) that "to use is to refer that which is the object of use to the obtaining of something else."
@@ -3527,7 +3537,7 @@ Reply to Objection 3: Even the speculative reason is applied by the will to the 
 understanding or judging. Consequently the speculative reason is said to use, in so far as it is moved
 by the will, in the same way as the other powers.
 
-<span class="atom-split" data-atom="061" data-title="Whether use is to be found in irrational animals?" data-chapter="Whether use is to be found in irrational animals?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Whether use is to be found in irrational animals?" data-chapter="Whether use is to be found in irrational animals?" data-kind="atom" data-srclang="en" data-tags="concepts/reason,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that use is to be found in irrational animals. For it is better to enjoy
 than to use, because, as [Augustine](/figures/augustine) says (De Trin. x, 10): "We use things by referring them to
@@ -3573,7 +3583,7 @@ Risposta all’Obiezione 1: Godere implica un movimento assoluto dell’appetito
 
 Risposta all’Obiezione 2: Gli animali, attraverso i loro membri, compiono certe azioni per istinto naturale; non perché comprendano la relazione tra i propri membri e tali azioni. Pertanto, in senso stretto, non applicano i propri membri all’azione, né li utilizzano consapevolmente.
 
-<span class="atom-split" data-atom="062" data-title="Whether use regards also the last end?" data-chapter="Whether use regards also the last end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="Whether use regards also the last end?" data-chapter="Whether use regards also the last end?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that use can regard also the last end. For [Augustine](/figures/augustine) says (De Trin.
 x, 11): "Whoever enjoys, uses." But man enjoys the last end. Therefore he uses the last end.
@@ -3616,7 +3626,7 @@ just as, speaking in a general sense, one may be said to use the end for the pur
 as stated above. Hence Augustine says (De Trin. vi, 10) that "this love, delight, felicity, or happiness,
 is called use by him."
 
-<span class="atom-split" data-atom="063" data-title="Whether use precedes choice?" data-chapter="Whether use precedes choice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether use precedes choice?" data-chapter="Whether use precedes choice?" data-kind="atom" data-srclang="en" data-tags="concepts/will,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that use precedes choice. For nothing follows after choice, except
 execution. But use, since it belongs to the will, precedes execution. Therefore it precedes choice
@@ -3682,7 +3692,7 @@ Risposta all’Obiezione 2: Ciò che è essenzialmente relativo segue sempre l�
 
 Risposta all’Obiezione 3: La scelta precede l’uso, quando entrambi si riferiscono allo stesso oggetto. Tuttavia nulla impedisce che l’uso di una cosa avvenga prima della scelta di un’altra. Poiché gli atti della volontà agiscono reciprocamente tra loro, in ogni atto della volontà possiamo trovare sia il consenso che la scelta, nonché l’uso; quindi possiamo dire che la volontà consente di scegliere, consente di accordarsi su una scelta e si utilizza stessa nel processo di consenso e scelta. Inoltre, gli atti che sono destinati a precedere un altro atto, precedono anch’essi tale atto.
 
-<span class="atom-split" data-atom="064" data-title="OF THE ACTS COMMANDED BY THE WILL (NINE ARTICLES)" data-chapter="OF THE ACTS COMMANDED BY THE WILL (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="OF THE ACTS COMMANDED BY THE WILL (NINE ARTICLES)" data-chapter="OF THE ACTS COMMANDED BY THE WILL (NINE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/will,concepts/reason,concepts/soul,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the acts commanded by the will; under which head there are nine points
 of inquiry:
@@ -3709,7 +3719,7 @@ Dobbiamo ora considerare gli atti comandati dalla volontà; in questa categoria 
 (8) Se anche l’atto dell’anima vegetativa sia soggetto a comando.  
 (9) Se anche gli atti dei membri esterni del corpo siano soggetti a comando.
 
-<span class="atom-split" data-atom="065" data-title="Whether command is an act of the reason or of the will?" data-chapter="Whether command is an act of the reason or of the will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Whether command is an act of the reason or of the will?" data-chapter="Whether command is an act of the reason or of the will?" data-kind="atom" data-srclang="en" data-tags="concepts/reason,concepts/will"></span>
 
 Objection 1: It would seem that command is not an act of the reason but of the will. For
 command is a kind of motion; because Avicenna says that there are four ways of moving, "by
@@ -3778,7 +3788,7 @@ Risposta all’Obiezione 2: La radice della libertà è la volontà, in quanto s
 
 Risposta all’Obiezione 3: Questo argomento dimostra che il comandare è un atto della ragione, non assolutamente, ma accompagnato da una sorta di spinta o mozione, come già descritto in precedenza.
 
-<span class="atom-split" data-atom="066" data-title="Whether command belongs to irrational animals?" data-chapter="Whether command belongs to irrational animals?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Whether command belongs to irrational animals?" data-chapter="Whether command belongs to irrational animals?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that command belongs to irrational animals. Because, according
 to Avicenna, "the power that commands movement is the appetite; and the power that executes
@@ -3834,7 +3844,7 @@ Risposta all’Obiezione 2: Il corpo dell’animale irrazionale è in grado di o
 
 Risposta all’Obiezione 3: L’impulso all’azione è presente negli animali irrazionali, ma non nell’uomo. Infatti, l’impulso umano all’azione deriva dalla ragione; per questo motivo, tale impulso ha natura di comando. Al contrario, l’impulso degli animali irrazionali scaturisce dall’istinto naturale: non appena questi comprendono ciò che è appropriato o inappropriato, il loro desiderio li spinge naturalmente a cercare di ottenere l’uno o evitarne l’altro. Pertanto, sono gli altri ad indirizzarli all’azione, e non essi stessi. Di conseguenza, negli animali irrazionali esiste soltanto impulso, ma non comando.
 
-<span class="atom-split" data-atom="067" data-title="Whether use precedes command?" data-chapter="Whether use precedes command?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="Whether use precedes command?" data-chapter="Whether use precedes command?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that use precedes command. For command is an act of the reason
 presupposing an act of the will, as stated above (A[1]). But, as we have already shown (Q[16],
@@ -3894,7 +3904,7 @@ Risposta all’Obiezione 2: Proprio come l’atto precede il potere, allo stesso
 
 Risposta all’Obiezione 3: Proprio come l’atto della volontà che utilizza la ragione al fine di emettere un comando precede tale comando, si può dire anche che l’atto attraverso il quale la volontà impiega la ragione sia preceduto da un “comando” della ragione stessa; poiché gli atti di queste facoltà agiscono reciprocamente l’uno sull’altro.
 
-<span class="atom-split" data-atom="068" data-title="Whether command and the commanded act are one act, or distinct?" data-chapter="Whether command and the commanded act are one act, or distinct?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="Whether command and the commanded act are one act, or distinct?" data-chapter="Whether command and the commanded act are one act, or distinct?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/hylomorphism,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the commanded act is not one with the command itself. For
 the acts of different powers are themselves distinct. But the commanded act belongs to one power,
@@ -3963,7 +3973,7 @@ Risposta all’Obiezione 2: Il fatto che il comando e l’atto comandato possano
 
 Risposta all’Obiezione 3: Nelle cose che sono molteplici nelle loro parti, ma uniche nel loro insieme, nulla impedisce che una parte preceda un’altra. Così, in un certo senso, l’anima precede il corpo; e il cuore, gli altri organi del corpo stesso.
 
-<span class="atom-split" data-atom="069" data-title="Whether the act of the will is commanded?" data-chapter="Whether the act of the will is commanded?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="Whether the act of the will is commanded?" data-chapter="Whether the act of the will is commanded?" data-kind="atom" data-srclang="en" data-tags="concepts/will,concepts/reason,figures/augustine"></span>
 
 Objection 1: It would seem that the act of the will is not commanded. For [Augustine](/figures/augustine) says
 (Confess. viii, 9): "The mind commands the mind to will, and yet it does not." But to will is the act
@@ -4006,7 +4016,7 @@ subject to reason. Now the first act of the will is not due to the direction of 
 instigation of nature, or of a higher cause, as stated above (Q[9], A[4]). Therefore there is no need
 to proceed to infinity.
 
-<span class="atom-split" data-atom="070" data-title="Whether the act of the reason is commanded?" data-chapter="Whether the act of the reason is commanded?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="Whether the act of the reason is commanded?" data-chapter="Whether the act of the reason is commanded?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/reason,concepts/will"></span>
 
 Objection 1: It would seem that the act of the reason cannot be commanded. For it seems
 impossible for a thing to command itself. But it is the reason that commands, as stated above (A[1]).
@@ -4067,7 +4077,7 @@ Risposta all’Obiezione 1: La ragione si comanda da sé stessa, proprio come la
 
 Risposta all’Obiezione 2: A causa della diversità degli oggetti soggetti all’azione della ragione, nulla impedisce alla ragione di “partecipare” a se stessa; pertanto la conoscenza dei principi è parte integrante della conoscenza delle conclusioni. La risposta alla terza obiezione risulta evidente da quanto detto finora.
 
-<span class="atom-split" data-atom="071" data-title="Whether the act of the sensitive appetite is commanded?" data-chapter="Whether the act of the sensitive appetite is commanded?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Whether the act of the sensitive appetite is commanded?" data-chapter="Whether the act of the sensitive appetite is commanded?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the act of the sensitive appetite is not commanded. For the
 Apostle says (Rom. 7:15): "For I do not that good which I will": and a gloss explains this by saying
@@ -4152,7 +4162,7 @@ Risposta all’Obiezione 2: Lo stato del corpo è legato in modo duplice all’a
 
 Risposta all’Obiezione 3: Poiché ciò che è percepibile dai sensi esterni è necessario per la loro funzione di percezione, non è in nostro potere comprendere nulla attraverso i sensi, a meno che tale elemento percettibile non sia effettivamente presente; ma questa presenza non è sempre sotto il nostro controllo. Infatti, l’uomo può utilizzare i propri sensi quando lo desidera, a condizione che non vi siano ostacoli da parte degli organi di percezione. D’altra parte, la capacità di immaginare è soggetta all’ordine impartito dalla ragione, in proporzione alla forza o alla debolezza della propria facoltà immaginativa. Un uomo, infatti, non è in grado di immaginare ciò che la ragione considera impossibile da percepire – come le cose incorporee – oppure lo fa a causa della debolezza della propria capacità immaginativa, dovuta a qualche disturbo fisico.
 
-<span class="atom-split" data-atom="072" data-title="Whether the act of the vegetal soul is commanded?" data-chapter="Whether the act of the vegetal soul is commanded?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="Whether the act of the vegetal soul is commanded?" data-chapter="Whether the act of the vegetal soul is commanded?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the acts of the vegetal soul are subject to the command of
 reason. For the sensitive powers are of higher rank than the vegetal powers. But the powers of the
@@ -4214,7 +4224,7 @@ Risposta all’Obiezione 2: Il confronto è valido in un certo senso: infatti, p
 
 Risposta all’Obiezione 3: La virtù e il vizio, la lode e il biasimo non influenzano direttamente gli atti stessi del potere nutritivo e generativo, cioè il processo di digestione e la formazione del corpo umano; ma influenzano gli atti della parte sensitiva dell’uomo, quelli che sono destinati alle funzioni di generazione e nutrizione. Ad esempio, il desiderio di piacere nell’atto di mangiare o nell’atto di procreare, nonché l’uso corretto o errato di tali atti.
 
-<span class="atom-split" data-atom="073" data-title="Whether the acts of the external members are commanded?" data-chapter="Whether the acts of the external members are commanded?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Whether the acts of the external members are commanded?" data-chapter="Whether the acts of the external members are commanded?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/original_sin,concepts/forma_substantialis,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It would seem that the members of the body do not obey reason as to their acts.
 For it is evident that the members of the body are more distant from the reason, than the powers of
@@ -4297,7 +4307,7 @@ Risposta all’Obiezione 2: Nelle cose relative all’intelletto e alla volontà
 Risposta all’Obiezione 3: Come afferma Agostino (De Civ. Dei xiv, 17,20), è proprio come punizione del peccato che i movimenti di questi organi non obbediscano alla ragione; in questo senso, l’anima viene punita per la sua ribellione contro Dio attraverso l’insubordinazione di quegli organi attraverso cui il [peccato originale](/positions/original_sin) viene trasmesso alle generazioni future.  
 Ma poiché, come vedremo in seguito, l’effetto del peccato del nostro primo genitore fu che la sua natura rimase priva di quella grazia soprannaturale che Dio aveva donato all’uomo, dobbiamo considerare la causa naturale dell’insubordinazione di questi organi alla ragione. Questo è quanto afferma [Aristotele](/figures/aristotle) (De Causis Motus Animalium), il quale sostiene che “i movimenti del cuore e degli organi genitali siano involontari”. La ragione di ciò è che questi organi vengono attivati in seguito a determinate percezioni; nella misura in cui l’intelletto e l’immaginazione rappresentano quelle cose che suscitano le passioni dell’anima, i movimenti degli organi ne sono conseguenza. Tuttavia, tali movimenti non avvengono per comando della ragione, poiché sono determinati da cambiamenti naturali di calore e freddo, cambiamenti che non sono soggetti al controllo razionale. Questo vale soprattutto per questi due organi in particolare: il cuore, essendo il principio dei sensi; e gli organi genitali, poiché rappresentano la fonte della vita stessa. Pertanto, i loro movimenti sono naturali, poiché i principi fondamentali devono necessariamente essere di natura, come già detto (Risposta all’Obiezione 2).
 
-<span class="atom-split" data-atom="074" data-title="OF THE GOOD AND EVIL OF HUMAN ACTS, IN GENERAL (ELEVEN ARTICLES)" data-chapter="OF THE GOOD AND EVIL OF HUMAN ACTS, IN GENERAL (ELEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="OF THE GOOD AND EVIL OF HUMAN ACTS, IN GENERAL (ELEVEN ARTICLES)" data-chapter="OF THE GOOD AND EVIL OF HUMAN ACTS, IN GENERAL (ELEVEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the good and evil of human acts. First, how a human act is good or evil;
 secondly, what results from the good or evil of a human act, as merit or demerit, sin and guilt.
@@ -4336,7 +4346,7 @@ Per quanto riguarda il primo aspetto, ci sono undici punti da esaminare:
 (10) Se una circostanza particolare possa rendere un atto buono o cattivo;  
 (11) Se ogni circostanza che migliora o peggiora un atto lo renda effettivamente buono o cattivo.
 
-<span class="atom-split" data-atom="075" data-title="Whether every human action is good, or are there evil actions?" data-chapter="Whether every human action is good, or are there evil actions?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Whether every human action is good, or are there evil actions?" data-chapter="Whether every human action is good, or are there evil actions?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that every human action is good, and that none is evil. For Dionysius
 says (Div. Nom. iv) that evil acts not, save in virtue of the good. But no evil is done in virtue of
@@ -4406,7 +4416,7 @@ Risposta all’Obiezione 2: Niente impedisce che una cosa sia “in atto” in u
 
 Risposta all’Obiezione 3: Un atto malvagio può avere un effetto positivo, in base alla bontà e alle caratteristiche che esso possiede. Pertanto, l’adulterio è la causa della generazione umana, nella misura in cui comporta l’unione tra uomo e donna; tuttavia, non lo è nella misura in cui manca dell’ordine razionale richiesto dalla morale.
 
-<span class="atom-split" data-atom="076" data-title="Whether the good or evil of a man's action is derived from its object?" data-chapter="Whether the good or evil of a man's action is derived from its object?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Whether the good or evil of a man's action is derived from its object?" data-chapter="Whether the good or evil of a man's action is derived from its object?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the good or evil of an action is not derived from its object. For
 the object of any action is a thing. But "evil is not in things, but in the sinner's use of them," as
@@ -4477,7 +4487,7 @@ Risposta all’Obiezione 2: L’oggetto in questione non è la materia “di cui
 
 Risposta all’Obiezione 3: L’oggetto dell’azione umana non è sempre l’oggetto di una forza attiva. Infatti, la forza appetitiva è, in un certo senso, passiva; nel momento in cui viene mossa dall’oggetto desiderato; eppure rappresenta il principio stesso delle azioni umane. Inoltre, gli oggetti delle forze attive non hanno sempre la natura di un effetto, ma soltanto quando sono già stati trasformati: ad esempio, il cibo, una volta trasformato, diventa l’effetto della forza nutritiva; mentre prima di tale trasformazione, il cibo è considerato la materia su cui questa forza agisce. Poiché l’oggetto dell’azione umana è in qualche modo l’effetto di quella forza, ne consegue che esso costituisce il termine della sua azione e, quindi, le conferisce forma e specie, poiché ogni movimento deriva la propria specie dal proprio termine. Inoltre, sebbene la bontà di un’azione non sia causata dalla bontà del suo effetto, si dice comunque che un’azione sia buona perché è in grado di produrre un effetto positivo. Pertanto, proprio la corrispondenza tra l’azione e il suo effetto costituisce la misura della sua bontà.
 
-<span class="atom-split" data-atom="077" data-title="Whether man's action is good or evil from a circumstance?" data-chapter="Whether man's action is good or evil from a circumstance?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="Whether man's action is good or evil from a circumstance?" data-chapter="Whether man's action is good or evil from a circumstance?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an action is not good or evil from a circumstance. For
 circumstances stand around [circumstant] an action, as being outside it, as stated above (Q[7],
@@ -4538,7 +4548,7 @@ Risposta all’Obiezione 2: Non ogni accidente è “accidentalmente” presente
 
 Risposta all’Obiezione 3: Poiché il bene e l’essere sono concettualmente interconvertibili; così come l’essere viene attribuito alla sostanza e agli accidenti, anche il bene può essere attribuito a una cosa sia in relazione al suo essere essenziale che a quello accidentale; e ciò vale sia per le cose naturali che per le azioni morali.
 
-<span class="atom-split" data-atom="078" data-title="Whether a human action is good or evil from its end?" data-chapter="Whether a human action is good or evil from its end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="Whether a human action is good or evil from its end?" data-chapter="Whether a human action is good or evil from its end?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the good and evil in human actions are not from the end. For
 Dionysius says (Div. Nom. iv) that "nothing acts with a view to evil." If therefore an action were
@@ -4602,7 +4612,7 @@ Risposta all’Obiezione 2: Sebbene la fine sia una causa esterna, tuttavia la p
 
 Risposta all’Obiezione 3: Nulla impedisce che un’azione che sia buona in uno dei modi menzionati sopra manchi di bontà in altri modi. Pertanto, può accadere che un’azione che sia buona per la sua natura o nelle sue circostanze sia destinata a un fine malvagio, o viceversa. Tuttavia, un’azione non è considerata buona in senso assoluto se non lo è sotto tutti questi aspetti: poiché “il male deriva da qualsiasi singola imperfezione, mentre il bene deriva dalla causa completa”, come afferma Dionigi (Div. Nom. iv).
 
-<span class="atom-split" data-atom="079" data-title="Whether a human action is good or evil in its species?" data-chapter="Whether a human action is good or evil in its species?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="Whether a human action is good or evil in its species?" data-chapter="Whether a human action is good or evil in its species?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that good and evil in moral actions do not make a difference of
 species. For the existence of good and evil in actions is in conformity with their existence in things,
@@ -4686,7 +4696,7 @@ Risposta all’Obiezione 3: L’atto coniugale e l’adulterio, rispetto alla ra
 
 Risposta all’Obiezione 4: A volte una circostanza viene considerata la differenza essenziale di un oggetto rispetto alla ragione; in tal caso, essa può determinare il carattere morale di un atto. E ciò deve necessariamente accadere ogni volta che una circostanza trasforma un atto da buono in cattivo, poiché una circostanza non renderebbe un atto cattivo se non fosse contraria alla ragione.
 
-<span class="atom-split" data-atom="080" data-title="Whether an action has the species of good or evil from its end?" data-chapter="Whether an action has the species of good or evil from its end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="Whether an action has the species of good or evil from its end?" data-chapter="Whether an action has the species of good or evil from its end?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the good and evil which are from the end do not diversify the
 species of actions. For actions derive their species from the object. But the end is altogether apart
@@ -4748,7 +4758,7 @@ Risposta all’Obiezione 2: Sebbene l’azione esterna sia accidentale in quanto
 
 Risposta all’Obiezione 3: Quando molte azioni, diverse per specie, sono destinate allo stesso fine, esiste effettivamente una diversità di specie nelle azioni esterne; ma unità di specie nell’azione interna.
 
-<span class="atom-split" data-atom="081" data-title="Whether the species derived from the end is contained under the species derived from the object, as under its genus, or conversely?" data-chapter="Whether the species derived from the end is contained under the species derived from the object, as under its genus, or conversely?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether the species derived from the end is contained under the species derived from the object, as under its genus, or conversely?" data-chapter="Whether the species derived from the end is contained under the species derived from the object, as under its genus, or conversely?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the species of goodness derived from the end is contained
 under the species of goodness derived from the object, as a species is contained under its genus;
@@ -4838,7 +4848,7 @@ Risposta all’Obiezione 2: La fine viene dopo nell’esecuzione; ma prima, nell
 
 Risposta all’Obiezione 3: La differenza viene paragonata al genere come la forma alla materia, poiché essa realizza il genere stesso. D’altra parte, il genere è considerato più formale della specie, in quanto rappresenta qualcosa di più assoluto e meno limitato. Per questo motivo anche le parti di una definizione possono essere ridotte al genere come causa formale, come affermato nella Physica ii, 3. In questo senso, il genere è effettivamente la causa formale della specie; ed è tanto più formale quanto più universale.
 
-<span class="atom-split" data-atom="082" data-title="Whether any action is indifferent in its species?" data-chapter="Whether any action is indifferent in its species?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Whether any action is indifferent in its species?" data-chapter="Whether any action is indifferent in its species?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no action is indifferent in its species. For evil is the privation
 of good, according to [Augustine](/figures/augustine) (Enchiridion xi). But privation and [habit](/concepts/custom) are immediate contraries,
@@ -4905,7 +4915,7 @@ Risposta all’Obiezione 2: Ogni oggetto o scopo possiede una qualche forma di b
 
 Risposta all’Obiezione 3: Non tutto ciò che appartiene a un’azione appartiene anche alla sua specie. Pertanto, anche se la natura specifica di un’azione potrebbe non contenere tutto ciò che è necessario per comporre il suo pieno compimento di bontà, essa non è necessariamente cattiva in senso specifico; né lo è in senso positivo. Così, un uomo, considerato nella sua specie, non è né virtuoso né malvagio.
 
-<span class="atom-split" data-atom="083" data-title="Whether an individual action can be indifferent?" data-chapter="Whether an individual action can be indifferent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Whether an individual action can be indifferent?" data-chapter="Whether an individual action can be indifferent?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an individual action can be indifferent. For there is no species
 that does not, cannot, contain an individual. But an action can be indifferent in its species, as stated
@@ -4984,7 +4994,7 @@ Risposta all’Obiezione 2: Il filosofo afferma che un uomo è cattivo, nel sens
 
 Risposta all’Obiezione 3: Ogni volta che un fine viene intenzionalmente perseguito attraverso il ragionamento deliberato, esso appartiene o al bene di qualche virtù o al male di qualche vizio. Pertanto, se l’azione di una persona è diretta al sostegno o al riposo del proprio corpo, essa è anche volta al bene di una virtù, a condizione che la stessa persona indirizzi il proprio corpo verso il perseguimento del bene. Lo stesso vale chiaramente per altre azioni.
 
-<span class="atom-split" data-atom="084" data-title="Whether a circumstance places a moral action in the species of good or evil?" data-chapter="Whether a circumstance places a moral action in the species of good or evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Whether a circumstance places a moral action in the species of good or evil?" data-chapter="Whether a circumstance places a moral action in the species of good or evil?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,concepts/reason,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a circumstance cannot place a moral action in the species of
 good or evil. For the species of an action is taken from its object. But circumstances differ from
@@ -5052,7 +5062,7 @@ Risposta all’Obiezione 2: Una circostanza, finché rimane tale, non specifica 
 
 Risposta all’Obiezione 3: Non è ogni circostanza a far rientrare un atto morale nella categoria del bene o del male; infatti, non tutte le circostanze implicano accordo o disaccordo con la ragione. Pertanto, anche se un atto può presentare molte circostanze, ciò non significa necessariamente che appartenga a diverse categorie morali. Tuttavia, non esiste alcun motivo per cui un atto non possa rientrare in più categorie morali, persino diverse tra loro, come già detto sopra (A[7], ad 1; Q[1], A[3], ad 3).
 
-<span class="atom-split" data-atom="085" data-title="Whether every circumstance that makes an action better or worse, places a moral action in a species of good or evil?" data-chapter="Whether every circumstance that makes an action better or worse, places a moral action in a species of good or evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="Whether every circumstance that makes an action better or worse, places a moral action in a species of good or evil?" data-chapter="Whether every circumstance that makes an action better or worse, places a moral action in a species of good or evil?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that every circumstance relating to good or evil, specifies an action.
 For good and evil are specific differences of moral actions. Therefore that which causes a difference
@@ -5151,7 +5161,7 @@ Ora dobbiamo considerare la bontà dell’atto interno della volontà; in questo
 (9) Dipende forse la bontà della volontà dalla sua conformità alla Volontà Divina?  
 (10) È necessario che la volontà umana, per essere buona, sia conforme alla Volontà Divina riguardo all’oggetto desiderato?
 
-<span class="atom-split" data-atom="086" data-title="Whether the goodness of the will depends on the object?" data-chapter="Whether the goodness of the will depends on the object?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="Whether the goodness of the will depends on the object?" data-chapter="Whether the goodness of the will depends on the object?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,concepts/will,concepts/reason,figures/aristotle,schools/scholasticism"></span>
 
 Objection 1: It would seem that the goodness of the will does not depend on the object. For
 the will cannot be directed otherwise than to what is good: since "evil is outside the scope of the
@@ -5209,7 +5219,7 @@ Risposta all’Obiezione 2: Sebbene un’azione possa, in un certo senso, essere
 
 Risposta all’Obiezione 3: Il bene viene presentato alla volontà come suo oggetto attraverso la ragione; e nella misura in cui è in accordo con la ragione, entra nell’ordine morale e genera bontà morale nell’atto della volontà, poiché la ragione è il principio degli atti umani e morali, come già detto sopra (Q[18], A[5]).
 
-<span class="atom-split" data-atom="087" data-title="Whether the goodness of the will depends on the object alone?" data-chapter="Whether the goodness of the will depends on the object alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="Whether the goodness of the will depends on the object alone?" data-chapter="Whether the goodness of the will depends on the object alone?" data-kind="atom" data-srclang="en" data-tags="concepts/will,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the goodness of the will does not depend on the object alone.
 For the end has a closer relationship to the will than to any other power. But the acts of the other
@@ -5284,7 +5294,7 @@ Risposta all’Obiezione 2: Poiché l’atto della volontà è rivolto verso un 
 
 Risposta all’Obiezione 3: L’ignoranza delle circostanze scusa la malizia della volontà, nella misura in cui tali circostanze influenzano l’atto che si intende compiere; in altre parole, nella misura in cui una persona ignora le condizioni specifiche dell’azione che desidera attuare.
 
-<span class="atom-split" data-atom="088" data-title="Whether the goodness of the will depends on reason?" data-chapter="Whether the goodness of the will depends on reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="088" data-title="Whether the goodness of the will depends on reason?" data-chapter="Whether the goodness of the will depends on reason?" data-kind="atom" data-srclang="en" data-tags="concepts/reason,concepts/will,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the goodness of the will does not depend on reason. For what
 comes first does not depend on what follows. But the good belongs to the will before it belongs to
@@ -5342,7 +5352,7 @@ Risposta all’Obiezione 2: Il filosofo parla qui dell’intelletto pratico, nel
 
 Risposta all’Obiezione 3: La volontà muove la ragione in un certo modo; la ragione, a sua volta, muove la volontà in un altro modo, cioè riguardo all’oggetto, come già detto sopra (Q[9], A[1]).
 
-<span class="atom-split" data-atom="089" data-title="Whether the goodness of the will depends on the eternal law?" data-chapter="Whether the goodness of the will depends on the eternal law?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="089" data-title="Whether the goodness of the will depends on the eternal law?" data-chapter="Whether the goodness of the will depends on the eternal law?" data-kind="atom" data-srclang="en" data-tags="concepts/eternal_law,concepts/revelation,concepts/reason,concepts/law,figures/augustine"></span>
 
 Objection 1: It would seem that the goodness of the human will does not depend on the eternal
 law. Because to one thing there is one rule and one measure. But the rule of the human will, on
@@ -5380,7 +5390,7 @@ Reply to Objection 3: Although the eternal law is unknown to us according as it 
 Mind: nevertheless, it becomes known to us somewhat, either by natural reason which is derived
 therefrom as its proper image; or by some sort of additional [revelation](/concepts/revelation).
 
-<span class="atom-split" data-atom="090" data-title="Whether the will is evil when it is at variance with erring reason?" data-chapter="Whether the will is evil when it is at variance with erring reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="090" data-title="Whether the will is evil when it is at variance with erring reason?" data-chapter="Whether the will is evil when it is at variance with erring reason?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,concepts/eternal_law,concepts/reason,concepts/will,figures/augustine"></span>
 
 Objection 1: It would seem that the will is not evil when it is at variance with erring reason.
 Because the reason is the rule of the human will, in so far as it is derived from the [eternal law](/concepts/eternal_law), as
@@ -5482,7 +5492,7 @@ Risposta all’Obiezione 2: Il detto di Agostino è valido quando si sa che un�
 
 Risposta all’Obiezione 3: Ogni volta che la ragione percepisce qualcosa come male, lo percepisce in relazione a una determinata specie di male; ad esempio, come qualcosa che è contrario a un precetto divino, o che provoca scandalo, o per motivi simili. In questo modo, quel male viene ricondotto a quella specifica specie di malevolezza.
 
-<span class="atom-split" data-atom="091" data-title="Whether the will is good when it abides by erring reason?" data-chapter="Whether the will is good when it abides by erring reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="091" data-title="Whether the will is good when it abides by erring reason?" data-chapter="Whether the will is good when it abides by erring reason?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will is good when it abides by erring reason. For just as
 the will, when at variance with the reason, tends to that which reason judges to be evil; so, when
@@ -5561,7 +5571,7 @@ Risposta all’Obiezione 2: La legge eterna non può sbagliare, ma la ragione um
 
 Risposta all’Obiezione 3: Proprio come negli argomenti sillogistici, se si ammette un’assurdità, ne devono necessariamente derivarne altre; allo stesso modo, in materia morale, se si accetta un’assurdità, ne conseguiranno inevitabilmente altre. Supponiamo ad esempio che un uomo cerchi la vanità: commetterà peccato, sia che compia il proprio dovere per motivi di vanità sia che lo ometta. Non si trova in alcun dilemma al riguardo, poiché può abbandonare quella sua intenzione malvagia. Allo stesso modo, se la ragione o la coscienza di un uomo errano a causa di una ignoranza inescusabile, allora il male dovrà necessariamente manifestarsi nella sua volontà. Nemmeno in questo caso si trova in difficoltà, poiché può eliminare quell’errore, dato che la sua ignoranza è superabile e volontaria.
 
-<span class="atom-split" data-atom="092" data-title="Whether the goodness of the will, as regards the means, depends on the intention of the end?" data-chapter="Whether the goodness of the will, as regards the means, depends on the intention of the end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="092" data-title="Whether the goodness of the will, as regards the means, depends on the intention of the end?" data-chapter="Whether the goodness of the will, as regards the means, depends on the intention of the end?" data-kind="atom" data-srclang="en" data-tags="concepts/will,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the goodness of the will does not depend on the intention of
 the end. For it has been stated above (A[2]) that the goodness of the will depends on the object
@@ -5610,7 +5620,7 @@ itself, even under the species of good; or to the good under the species of evil
 either case. But in order for the will to be good, it must tend to the good under the species of good;
 in other words, it must will the good for the sake of the good.
 
-<span class="atom-split" data-atom="093" data-title="Whether the degree of goodness or malice in the will depends on the degree of good or evil in the intention?" data-chapter="Whether the degree of goodness or malice in the will depends on the degree of good or evil in the intention?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether the degree of goodness or malice in the will depends on the degree of good or evil in the intention?" data-chapter="Whether the degree of goodness or malice in the will depends on the degree of good or evil in the intention?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the degree of goodness in the will depends on the degree of
 good in the intention. Because on Mat. 12:35, "A good man out of the good treasure of his heart
@@ -5699,7 +5709,7 @@ Risposta all’Obiezione 2: La bontà dell’intenzione non costituisce l’unic
 
 Risposta all’Obiezione 3: La semplice malvagità dell’intenzione è sufficiente per rendere il volere malvagio; pertanto, il volere è altrettanto malvagio quanto lo è l’intenzione. Tuttavia, lo stesso ragionamento non si applica alla bontà, come già detto sopra (ad 2).
 
-<span class="atom-split" data-atom="094" data-title="Whether the goodness of the will depends on its conformity to the Divine will?" data-chapter="Whether the goodness of the will depends on its conformity to the Divine will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="Whether the goodness of the will depends on its conformity to the Divine will?" data-chapter="Whether the goodness of the will depends on its conformity to the Divine will?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/will,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the goodness of the human will does not depend on its
 conformity to the Divine will. Because it is impossible for man's will to be conformed to the Divine
@@ -5736,7 +5746,7 @@ knowledge, in so far as it knows truth: and human action is conformed to the Div
 it is becoming to the agent: and this by way of imitation, not by way of equality.
 From the above may be gathered the replies to the Second and Third Objections.
 
-<span class="atom-split" data-atom="095" data-title="Whether it is necessary for the human will, in order to be good, to be conformed to the Divine will, as regards the thing willed?" data-chapter="Whether it is necessary for the human will, in order to be good, to be conformed to the Divine will, as regards the thing willed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="095" data-title="Whether it is necessary for the human will, in order to be good, to be conformed to the Divine will, as regards the thing willed?" data-chapter="Whether it is necessary for the human will, in order to be good, to be conformed to the Divine will, as regards the thing willed?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the human will need not always be conformed to the Divine
 will, as regards the thing willed. For we cannot will what we know not: since the apprehended good
@@ -5854,7 +5864,7 @@ Rispetto al primo argomento presentato in senso contrario, si deve affermare che
 Rispetto al secondo argomento, si deve osservare che la specie e la forma di un atto derivano dall’oggetto considerato in termini formali, e non da quello considerato in termini materiali.  
 Rispetto al terzo argomento, si deve affermare che non esiste opposizione tra le volontà quando diverse persone desiderano cose diverse, ma non sotto lo stesso aspetto; invece, sussiste opposizione tra le volontà quando, sotto lo stesso aspetto, una persona desidera qualcosa che un’altra non desidera. Ma in questo caso non si tratta di tale situazione.
 
-<span class="atom-split" data-atom="096" data-title="OF GOODNESS AND MALICE IN EXTERNAL HUMAN AFFAIRS (SIX ARTICLES)" data-chapter="OF GOODNESS AND MALICE IN EXTERNAL HUMAN AFFAIRS (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="OF GOODNESS AND MALICE IN EXTERNAL HUMAN AFFAIRS (SIX ARTICLES)" data-chapter="OF GOODNESS AND MALICE IN EXTERNAL HUMAN AFFAIRS (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider goodness and malice as to external actions: under which head there are
 six points of inquiry:
@@ -5877,7 +5887,7 @@ Dobbiamo ora considerare la bontà e la malvagità in relazione agli atti estern
 (5) Se le conseguenze di un atto esterno aumentino la sua bontà o malvagità?  
 (6) Se lo stesso atto esterno possa essere sia buono che cattivo?
 
-<span class="atom-split" data-atom="097" data-title="Whether goodness or malice is first in the action of the will, or in the external action?" data-chapter="Whether goodness or malice is first in the action of the will, or in the external action?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="Whether goodness or malice is first in the action of the will, or in the external action?" data-chapter="Whether goodness or malice is first in the action of the will, or in the external action?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that good and evil are in the external action prior to being in the
 act of the will. For the will derives goodness from its object, as stated above (Q[19], AA[1],2). But
@@ -5924,7 +5934,7 @@ it precedes in every way. Now the will is compared to the exterior action, as it
 Wherefore the goodness of the act of the will, as existing in the active cause, is the form of the
 exterior action.
 
-<span class="atom-split" data-atom="098" data-title="Whether the whole goodness and malice of the external action depends on the goodness of the will?" data-chapter="Whether the whole goodness and malice of the external action depends on the goodness of the will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="098" data-title="Whether the whole goodness and malice of the external action depends on the goodness of the will?" data-chapter="Whether the whole goodness and malice of the external action depends on the goodness of the will?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the whole goodness and malice of the external action depend
 on the goodness of the will. For it is written (Mat. 7:18): "A good tree cannot bring forth evil fruit,
@@ -5985,7 +5995,7 @@ Risposta all’Obiezione 2: Un uomo pecca per sua volontà, non solo quando desi
 
 Risposta all’Obiezione 3: La volontarietà si applica non solo all’atto interno della volontà, ma anche alle azioni esterne, nella misura in cui queste derivano dalla volontà e dalla ragione. Pertanto, la distinzione tra bene e male è applicabile sia agli atti interni che a quelli esterni.
 
-<span class="atom-split" data-atom="099" data-title="Whether the goodness and malice of the external action are the same as those of the interior act?" data-chapter="Whether the goodness and malice of the external action are the same as those of the interior act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="099" data-title="Whether the goodness and malice of the external action are the same as those of the interior act?" data-chapter="Whether the goodness and malice of the external action are the same as those of the interior act?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the goodness and malice of the interior act of the will are not
 the same as those of the external action. For the principle of the interior act is the interior
@@ -6069,7 +6079,7 @@ Risposta all’Obiezione 2: Come affermato nell’Etica VI, 12, una virtù moral
 
 Risposta all’Obiezione 3: Quando una cosa deriva da un’altra, come nel caso di una causa efficiente univoca, allora le due cose non sono identiche; ad esempio, il calore emesso da un oggetto riscaldante è diverso dal calore dell’oggetto stesso, anche se sono la stessa cosa in termini specifici. Tuttavia, quando una cosa deriva da un’altra attraverso analogia o proporzione, allora le due cose sono identiche; ad esempio, la “salute” presente nella medicina o nell’urina deriva dalla salute del corpo animale. Inoltre, il concetto di salute applicato all’urina e alla medicina non è diverso da quello di salute applicato al corpo dell’animale: in questo caso, la medicina è la causa della salute, mentre l’urina ne è un segno. È proprio in questo modo che la bontà dell’azione esterna deriva dalla bontà della volontà, e viceversa; cioè secondo l’ordine logico che esiste tra di esse.
 
-<span class="atom-split" data-atom="100" data-title="Whether the external action adds any goodness or malice to that of the interior act?" data-chapter="Whether the external action adds any goodness or malice to that of the interior act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="100" data-title="Whether the external action adds any goodness or malice to that of the interior act?" data-chapter="Whether the external action adds any goodness or malice to that of the interior act?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,concepts/will"></span>
 
 Objection 1: It would seem that the external action does not add any goodness or malice to
 that of the interior action. For Chrysostom says (Hom. xix in Mat.): "It is the will that is rewarded
@@ -6141,7 +6151,7 @@ Risposta all’Obiezione 1: Crisostomo si riferisce al caso in cui la volontà d
 
 Risposta all’Obiezione 2: Questo argomento si riferisce alla bontà che l’azione esterna deriva dalla volontà, in quanto tendente verso un fine specifico. Tuttavia, la bontà che l’azione esterna riceve dalla sua materia e dalle sue circostanze è distinta da quella che deriva dal fine stesso; non è però diversa da quella che derivante dall’atto stesso voluto, in relazione di misura e causa, come già detto sopra (AA[1],2). Da ciò consegue chiaramente la risposta alla Terza Obiezione.
 
-<span class="atom-split" data-atom="101" data-title="Whether the consequences of the external action increase its goodness or malice?" data-chapter="Whether the consequences of the external action increase its goodness or malice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Whether the consequences of the external action increase its goodness or malice?" data-chapter="Whether the consequences of the external action increase its goodness or malice?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the consequences of the external action increase its goodness
 or malice. For the effect pre-exists virtually in its cause. But the consequences result from the action
@@ -6223,7 +6233,7 @@ Risposta all’Obiezione 3: Le conseguenze per le quali quell’uomo viene ordin
 Risposta all’Obiezione 4: Questo argomento dimostrerebbe che l’irregolarità derivi dal difetto stesso.  
 Ma in realtà non deriva dal difetto, bensì dal fatto stesso e dall’ostacolo che impedisce la ricezione di un [sacramento](/concepts/sacrament).
 
-<span class="atom-split" data-atom="102" data-title="Whether one and the same external action can be both good and evil?" data-chapter="Whether one and the same external action can be both good and evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="Whether one and the same external action can be both good and evil?" data-chapter="Whether one and the same external action can be both good and evil?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one and the same external action can be both good and evil.
 For "movement, if continuous, is one and the same" (Phys. v, 4). But one continuous movement
@@ -6289,7 +6299,7 @@ Risposta all’Obiezione 2: Azione e passione appartengono all’ordine morale n
 
 Risposta all’Obiezione 3: L’azione del servo, nella misura in cui deriva dalla volontà stessa del servo, non è un’azione del padrone; ma lo è soltanto nella misura in cui deriva dall’ordine del padrone. Pertanto, la cattiva volontà del servo non rende tale azione cattiva, in questo senso.
 
-<span class="atom-split" data-atom="103" data-title="OF THE CONSEQUENCES OF HUMAN ACTIONS BY REASON OF THEIR GOODNESS AND MALICE (FOUR ARTICLES)" data-chapter="OF THE CONSEQUENCES OF HUMAN ACTIONS BY REASON OF THEIR GOODNESS AND MALICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="OF THE CONSEQUENCES OF HUMAN ACTIONS BY REASON OF THEIR GOODNESS AND MALICE (FOUR ARTICLES)" data-chapter="OF THE CONSEQUENCES OF HUMAN ACTIONS BY REASON OF THEIR GOODNESS AND MALICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider the consequences of human actions by reason of their goodness and
 malice: and under this head there are four points of inquiry:
@@ -6306,7 +6316,7 @@ Dobbiamo ora considerare le conseguenze delle azioni umane in base alla loro bon
 (3) Se, di conseguenza, sia meritoria o demeritosa;  
 (4) Se, allo stesso modo, sia meritoria o demeritosa davanti a Dio.
 
-<span class="atom-split" data-atom="104" data-title="Whether a human action is right or sinful, in so far as it is good or evil?" data-chapter="Whether a human action is right or sinful, in so far as it is good or evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="104" data-title="Whether a human action is right or sinful, in so far as it is good or evil?" data-chapter="Whether a human action is right or sinful, in so far as it is good or evil?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that a human action is not right or sinful, in so far as it is good or evil.
 For "monsters are the sins of nature" (Phys. ii, 8). But monsters are not actions, but things engendered
@@ -6378,7 +6388,7 @@ Risposta all’Obiezione 2: Lo scopo finale è duplice: lo scopo ultimo e lo sco
 
 Risposta all’Obiezione 3: Ogni cosa è destinata al proprio fine attraverso le proprie azioni; pertanto il peccato, che consiste nel deviare da tale ordine e scopo, si riferisce propriamente a un atto concreto. D’altra parte, la punizione riguarda la persona del peccatore, come è stato affermato nella FP, Q[48], A[5], ad 4; A[6], ad.
 
-<span class="atom-split" data-atom="105" data-title="Whether a human action deserves praise or blame, by reason of its being good or evil?" data-chapter="Whether a human action deserves praise or blame, by reason of its being good or evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="105" data-title="Whether a human action deserves praise or blame, by reason of its being good or evil?" data-chapter="Whether a human action deserves praise or blame, by reason of its being good or evil?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a human action does not deserve praise or blame by reason of
 its being good or evil. For "sin happens even in things done by nature" (Phys. ii, 8). And yet natural
@@ -6451,7 +6461,7 @@ Risposta all’Obiezione 2: La ragione si rapporta in modi diversi alle opere d�
 
 Risposta all’Obiezione 3: La debolezza che si manifesta nei malevoli atti volontari è soggetta al potere dell’uomo; pertanto non sottrae né riduce la colpa.
 
-<span class="atom-split" data-atom="106" data-title="Whether a human action is meritorious or demeritorious in so far as it is good or evil?" data-chapter="Whether a human action is meritorious or demeritorious in so far as it is good or evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="106" data-title="Whether a human action is meritorious or demeritorious in so far as it is good or evil?" data-chapter="Whether a human action is meritorious or demeritorious in so far as it is good or evil?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a human action is not meritorious or demeritorious on account
 of its goodness or malice. For we speak of merit or demerit in relation to retribution, which has no
@@ -6520,7 +6530,7 @@ Risposta all’Obiezione 2: L’uomo è padrone delle proprie azioni; eppure, ne
 
 Risposta all’Obiezione 3: Questo stesso bene o male che un uomo compie nei confronti di se stesso attraverso le proprie azioni, ha ripercussioni sulla comunità, come già detto in precedenza.
 
-<span class="atom-split" data-atom="107" data-title="Whether a human action is meritorious or demeritorious before God, according as it is good or evil?" data-chapter="Whether a human action is meritorious or demeritorious before God, according as it is good or evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="107" data-title="Whether a human action is meritorious or demeritorious before God, according as it is good or evil?" data-chapter="Whether a human action is meritorious or demeritorious before God, according as it is good or evil?" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/free_will,concepts/will,concepts/reason,concepts/passion,concepts/concupiscence,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man's actions, good or evil, are not meritorious or demeritorious
 in the sight of God. Because, as stated above (A[3]), merit and demerit imply relation to retribution

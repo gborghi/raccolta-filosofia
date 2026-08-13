@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A dispatch from Berlin on Alfonso XIII's visit, taking in Potsdam, Frederick the Great and a waxwork Voltaire. Its closing thesis is pedagogical, not philosophical: from Germany Spain must learn the method, that is, public instruction.
 

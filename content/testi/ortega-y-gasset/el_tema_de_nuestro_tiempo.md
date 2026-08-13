@@ -10,8 +10,7 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
-> [!abstract]
-> Major work (born as the 1921-22 university lecture): the task of the age is to subordinate reason to life (razon vital), to overcome rationalism and relativism through perspectivism, and to read history by generations; includes a philosophical reading of Einstein.
+*Ortega y Gasset*
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -1188,7 +1187,7 @@ La risposta del relativismo non è meno tassativa. La conoscenza è impossibile;
 
 È interessante avvertire come in questi ultimi tempi, senza comune accordo né premeditazione, psicologia, «biologia» e teoria della conoscenza, rivedendo i fatti da cui entrambe le attitudini partivano, abbiano dovuto rettificarli, coincidendo in un nuovo modo di porre la questione.
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/perspectivism,positions/ratiovitalism"></span>
 
 El sujeto, ni es un medio transparente, un «yo puro», idéntico e invariable, ni su recepción de la realidad produce en ésta deformaciones. Los hechos imponen una tercera opinión, síntesis ejemplar de ambas. Cuando se interpone un cedazo o retícula en una corriente, deja pasar unas cosas y detiene otras; se dirá que las selecciona, pero no que las deforma. Ésta es la función del sujeto, del ser viviente ante la realidad cósmica que le circunda. Ni se deja traspasar sin más ni más por ella, como acontecería al imaginario ente racional creado por las definiciones racionalistas, ni finge él una realidad ilusoria. Su función es claramente selectiva. De la infinitud de los elementos que integran la realidad, el individuo, aparato receptor, deja pasar un cierto número de ellos, cuya forma y contenido coinciden con las mallas de su retícula sensible. Las demás cosas —fenómenos, hechos, verdades— quedan fuera, ignoradas, no percibidas.
 

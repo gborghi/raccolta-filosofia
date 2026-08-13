@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay defining "social power": beside the power proper to an action there is the added power a group or a whole society gratuitously confers on a person — unlimited, automatic, out of all proportion to merit — and which, in the party writer's case, erodes his own.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +114,7 @@ Tengasi in conto la favolosa moltiplicazione dell'influenza personale che esso f
 
 Così, l'eccesso di potere sociale che in Spagna gode il politico o il governante, costituisce al pronto un enigma che poi si converte in una chiave luminosa. È enigmatico che in un paese come il nostro, meno politico della Francia, si conceda all'uomo di governo più potere sociale. Ma non tardiamo a trovare la soluzione. In Francia — come vedremo — si concede grande potere sociale ad altri molti offici e classi di uomini: il politico, per molto favorito che si trovi, ha da entrare in concorrenza con questi altri detentori di potere e perde il rango smisurato che tra noi occupa. Non è, dunque, che possieda l'ex ministro spagnolo più forza sociale del francese, ma che, per assenza di altre forze pari, rimane mostruosamente staccato.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 En cambio, parecería probable que en nuestra tierra el cura y sobre todo el alto clero, usufructuase un gran poder social. Sin embargo, no ocurre así, y el matiz de los hechos en este punto descubre un secreto de la dinámica nacional española, según ella es verdaderamente en el tiempo que corre.
 
@@ -192,7 +198,7 @@ III
 
 Abbiamo visto che in tutte le parti il politico gode di un grande potere sociale, sebbene il coefficiente di quella quantità vari secondo i paesi, giungendo in Spagna al massimo. Ma questo fatto piuttosto intorbida che chiarisce ciò che c'è di peculiare e sorprendente nel fenomeno del potere sociale. L'affluenza di questo a coloro che esercitano il Potere pubblico, a quelli che comandano oggi o domani, può far pensare che si tratti di una reazione utilitaria mediante la quale l'uomo medio procura di adulare chi può favorirlo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Por esta razón conviene que nos transportemos al otro polo de las actividades humanas, al oficio que menos fuerza material —de mando o dinero— posee: el escritor u hombre de letras y ciencias. La profesión literaria lleva en su misma consistencia la notoriedad para quien la ejercita con medianas dotes. Como el político, es el escritor consustancialmente hombre público. No cabe ignorarlo. Por otra parte, su acción es puramente virtual; no puede esperarse de ella ningún beneficio terreno. (Los resultados económicos que acaso produzca —la industria editorial— no proceden directamente de la obra, sino de la actitud del público hacia ella. Por eso no es el escritor, sino el editor, quien obtiene el rendimiento mayor en los países donde el libro proporciona algún rendimiento). Ambas condiciones juntas dan un valor muy puro y característico a la reacción que en una u otra sociedad suscite el gremio literario.
 
@@ -246,7 +252,7 @@ Parliamo, dunque, prima di quale sia l'influenza diretta che lo scrittore eserci
 
 Non credo che esista tra le nazioni civili una meno docile all'influsso intellettuale della nostra. Con leggere modificazioni in questa o quell'epoca, si può dire che non ha mai atteso allo scrittore. La vita della Spagna moderna rappresenta l'originale saggio di sostenersi una razza europea e affrontare il destino storico senza lasciare intervento al pensiero. I risultati, fino ad ora, non sono stati molto brillanti; ma il buon spagnolo medio continuerà perdurabilmente a considerare l'intelligenza come la quinta ruota del carro. Già è un sintomo di distacco verso quella facoltà dell'anima rispondere irritatamente a ciò che ho appena detto, sostenendo che si può stimare l'intelligenza e, tuttavia, non prestare orecchio agli intellettuali; che quella non è un dono stagnante da parte loro, ma bene comune di altre classi sociali, eccetera, eccetera. Vale più non tentare la misurazione del livello intellettuale che possiedono in Spagna —almeno, in quella di oggi— le classi non intellettuali. Fortunatamente, non è neppure necessario. Conveniamo senza sforzo che l'intelligenza non è una virtù esclusiva del gremio intellettuale; ma è, in compenso, grottesco che un paese presuma di possedere la dose imprescindibile di quella quando al tempo stesso si vanta di disattendere l'opera e la persona degli scrittori. Né basterebbe la scusa che gli autori nazionali fossero in questa data di scarso valore, perché allora il popolo spagnolo era obbligato a nutrirsi dell'opera straniera, e se anche questa sembrava al suo squisito palato cibo grossolano, ricorrere agli antichi o a chiunque fosse. Tutto prima che rimanere secolo dopo secolo estraneo ad alcun tema di intelligenza.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 El hecho se presenta con tal constancia, que ya no reparamos en él y toma el aire de una ley natural, a la cual es ridículo oponer objeciones. La idea de que un libro influya directa e inmediatamente en la vida pública o privada de los españoles es tan inverosímil que no concebimos la posibilidad de suceso semejante en ningún otro país. Y, sin embargo, fuera del nuestro acontece cotidianamente. ¿Se quiere un ejemplo extremo de ello? Una de las modificaciones más importantes de la vida pública en los Estados Unidos ha sido la recentísima ley de inmigración. Pues bien: esta ley es el resultado fulminante del libro de Madison titulado La decadencia de la gran raza. (La obra, como casi todas las que se publican en América, es de una modestia mental superlativa).
 
@@ -312,7 +318,7 @@ Mi si dirà che ci sono casi di enorme e rispettosa popolarità, e mi si citerà
 
 È difficile trovare nelle nazioni attuali qualcosa che somigli alla collocazione sociologica del gremio intellettuale in Spagna. Vive al margine dell'esistenza normale collettiva. Non si conta con lui per nulla, né ufficialmente né privatamente. Al contrario: si sconta per lui un come breve territorio incolto, specie di Indian Reservation, dove lo si lascia divagare. Perché questo è, in definitiva, l'unico che da lui si aspetta: la stravaganza. Si aggiunga a questa esistenza marginale, pari a quella che conducevano i lebbrosi nel Medioevo, l'umiliante indigenza che soffrono quasi tutte le famiglie di scrittori. In tali circostanze risulta inevitabile, ma non giustificato, il tono aspro, violento, triviale, che domina nella nostra produzione letteraria. Lo sorprendente sembrerà che il suo atteggiamento non sia più disperato, e l'incredibile, che sotto lo scrittore l'uomo sia tanto onesto. Perché bisogna far constatare che l'onestà civile dell'intellettuale spagnolo supera forse quella di quasi tutti i gremi fratelli trionfanti in altri paesi. (Non è possibile dire lo stesso della sua onestà tecnica: in generale, non mette cura, né misura, né elevazione né rigore nel suo lavoro).
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Esta irrealidad social de su oficio, que más o menos clara percibe entre nosotros todo escritor, es [causa](/concepts/cause) de una peculiaridad que, por su misma constancia, no ha sorprendido cuanto debiera. Me refiero al hecho de que España es el único país europeo donde los intelectuales se ocupan de política inmediata. Fuera de aquí, sólo por excepción se encuentra a un escritor mezclado en las luchas cotidianas de los partidos. Pero aun en esos casos excepcionales, cuida muy bien el escritor de separar su labor intelectual de su inquietud política, y cuando esto no, de exigir a sus intervenciones políticas todas las altas virtudes que rigen la obra intelectual. Llevan, pues, su intelectualidad íntegra a la política, al paso que entre nosotros la política más basta y pueril viene a anegar la intelectualidad. De suerte, que no se logra la única ventaja que esta confusión de oficios podía traer: que el intelectual elevase el nivel de los combates públicos merced a la superior disciplina de su intelecto. En cambio, pasa que la necedad constitutiva de la política diaria desintelectualiza al escritor. Así acontece el hecho bochornoso de que los escritores españoles vivan separados por sus tendencias políticas —que son siempre las de la calle— más que por discrepancias intelectuales. Ayer fue por una cosa; hoy es por otra: nunca falta el pretexto para que el intelectual mismo, siguiendo la tradición nacional, patee concienzudamente su oficio.
 
@@ -384,7 +390,7 @@ In Spagna presenziamo la scena contraria. Se quasi nessuno ha tra noi potere soc
 
 Ora, credo io, si manifesta il senso di queste considerazioni sul potere sociale. La mancanza di generosità per assegnarlo che la nostra società rivela è gravemente nociva per essa stessa. Ogni mestiere socialmente disatteso segnala una faccia di umanità che il nostro popolo lascia di vivere. Se risulta che quasi tutti i mestieri sono disattesi, si mi dica quale repertorio normale di idee e fervori, di saperi e di norme, risiede nell'anima dello spagnolo medio.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 No se me diga que estas advertencias emanan de un preconcebido pesimismo. Todo lo contrario. La pulcra descripción de este enorme defecto muestra, a la par, que no hay en él factor alguno irremediable, fatal; antes bien, actúa de manera automática en su corrección, despertando en el lector la tendencia a subsanarlo.
 

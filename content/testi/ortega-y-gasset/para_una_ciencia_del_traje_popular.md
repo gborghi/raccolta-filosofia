@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on Ortiz Echagüe's photographs of popular dress: their aesthetic value lies in fixing the equivocal instant when the people already feel their own costume as a disguise. The case of Lagartera shows that reviving old attire is in fact a modern advertising device.
+
+## Connections
+
+**Concetti:** [[concepts/custom|abitudine]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +97,7 @@ Conviene, tuttavia, difendersi dall'illusione ottica che suole produrre tutto il
 
 Così raccontano il fatto gli storici e non vi è nulla da rettificare alla loro relazione. Solo li imputo una mancanza: non dirci perché quel cappello tanto castizo, tanto consustanziale con la razza madrilena, si chiamava chambergo. La parola odora enormemente di stranieria. Chambergo viene da Schomberg. E chi fu Schomberg? Schomberg fu il comandante della guardia fiamminga portata in Spagna ai tempi di Carlo II, approssimativamente un secolo prima del motino di Squillace. Questa guardia fiamminga svegliò anche l'antipatia popolare. Irritavano quegli uomini barocchi del Nord, coperti con i loro enormi cappelli a lo Schomberg! Ma è il [caso](/concepts/fortune) che, non molto dopo, il popolo madrileno adottò l'ampio cappello straniero e che due generazioni più tardi lo considerava come simbolico feticcio della più pura casta madrilena. Per difenderlo si consegnò denodatamente a linciare guardie vallone, eredi di quelli a cui aveva tolto il cappello.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/custom,concepts/beauty,forms/essay"></span>
 
 Este dato nos invita a reformar nuestra manera de deleitarnos con el traje popular. Su gracia no está en su efectiva antigüedad, sino precisamente en la portentosa ilusión de vetustez, más aún de sin-edad, que el pueblo da a cuanto adopta, aunque sea de ayer. Ésta es su peculiar y genial ironía. Mientras las clases superiores acentúan la novedad de cuanto usan y hacen, cayendo siempre, más o menos, en una gesticulación de parvenus, aunque no lo sean, el pueblo parece complacerse en lo contrario, y da a su traje y a su canto y a su vocablo pátina de milenio y resonancias inmemorables.
 

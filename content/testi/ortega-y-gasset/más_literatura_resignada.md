@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to Luis de Zulueta on the Reformist party's rapprochement with the Liberals: Ortega judges it fatal to reformism and reproaches his opponent for comparing words instead of real situations, recalling that in politics texts are only pretexts and the sense of a word depends on the hour at which it is uttered. Journalistic polemic.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

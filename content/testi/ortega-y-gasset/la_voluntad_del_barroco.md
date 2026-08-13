@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The novel, poetry of determinism and the positivist literary genre, has ceased to interest us, while Stendhal, Dostoevsky and a taste for the baroque grow: symptoms of one new sensibility. In Dostoevsky what matters is not the reality of the characters but pure dynamism, the whirlwind of passions that sweeps them along.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

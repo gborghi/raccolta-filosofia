@@ -10,6 +10,8 @@ tags:
   - "philosopher/rousseau"
 ---
 
+*Rousseau*
+
 > [!abstract]
 > An early memoir in which the sick and destitute Rousseau petitions the Governor of Savoy for assistance, recounting his education under Mme de Warens. A biographical document, without philosophical content.
 
@@ -47,3 +49,63 @@ FIN du MÉMOIRE À S. E. MONSEIGNEUR LE GOUVERNEUR DE SAVOIE
 Liste des Mélanges ou littérature variée
 
 Liste générale des titres
+
+<span class="qlang-split" data-lang="en"></span>
+
+I have the honor of respectfully presenting to His Excellency the sad details of my current situation, and I implore him to take the time to consider the generosity of his pious feelings in order to find a way to assist me in a manner he deems appropriate.
+
+I left Geneva, my homeland, at a very young age, having renounced my rights in order to join the Church. However, I have never taken any steps until today to seek assistance—assistance that I would have always tried to avoid, had it not been for the will of Providence, which afflicted me with hardships that deprived me of the means to obtain it. I have always felt contempt, even indignation, toward those who do not hesitate to exploit their faith in a shameful manner or to abuse the kindnesses bestowed upon them. I dare say that my conduct has clearly shown how far I am removed from such sentiments. As a child, I fell into the hands of the late Bishop of Geneva, and I tried to live up to the high expectations this respected prelate had of me through my diligence and dedication in my studies. Madame la Baronne de Warens was kind enough to heed his request to take care of my education, and it was certainly not my fault if I failed to prove to her, through my progress, how earnestly I desired to fulfill her hopes and repay the kindnesses she had shown me.
+
+This great bishop did not stop there in his kindness; he also recommended me to Monsieur the Marquis de Bonac, the French ambassador to the Helvetic Corps[2]. These were the only three patrons to whom I was ever indebted for any assistance; indeed, they were to me as everything else, given the manner in which they took the trouble to demonstrate their generosity towards me. They saw in me a young man of decent birth, full of ambition, and who seemed to possess certain talents; they intended to support my development. It would be an honor for me to detail to His Excellency what these two gentlemen had taken the kindness to arrange for my benefit; but the death of Monsignor the Bishop of Geneva and the serious illness of Ambassador Monsieur de Bonac marked the fateful beginning of all my misfortunes.
+
+I too began to be afflicted by that languor which today brings me to the brink of death. As a result, I once again fell under the influence of Madame de Warens—someone whom one would never believe could have reneged on her initial kindnesses by leaving me in such a miserable state.
+
+Nevertheless, as long as I had any strength left, I tried to make use of my meager talents—but what good are talents in this country? I say this with the bitterness in my heart; it would have been a thousand times better if I had none at all. Ah! Even today, don’t I still experience the complete ingratitude and cruelty of people for whom I have exhausted myself, teaching them with great diligence and effort what it took me so much time and effort to learn myself? Finally, to add to my misfortunes, I have fallen ill with a terrible disease that has disfigured me. Now I am confined, unable to leave my bed or room, until God decides how my short but miserable life shall end.
+
+My pain lies in the fact that Madame de Warens has already done so much for me; I find her, for the rest of my days, burdened with the weight of my infirmities—a burden whose severity her extreme kindness prevents her from realizing, yet which nonetheless interferes with her affairs, which are already strained enough by her generous charitable deeds and by the abuse that unfortunate people all too often make of her trust.
+
+Therefore, I dare to turn to his excellence, as to the father of those in distress, for guidance regarding all these details. I shall not conceal that it is difficult for a man with feelings and who thinks as I do to be forced, in the absence of other means, to beg for assistance and relief; but such is the decree of Providence. As for me personally, I am fully convinced that I have not, through my own fault, given any cause for the misery or misfortunes that have befallen me. I have always detested licentiousness and idleness; and as I am, I dare to say with confidence that no one whom I have the honor of knowing will have anything but favorable things to say about my conduct, my sentiments, and my manners.
+
+In a state thus equally lamentable as my own, and for which I bear no blame at all, I believe it is not shameful for me to implore the mercy of his excellence to allow me to participate in the benefits established by the piety of these princes for such purposes. These benefits are intended precisely for cases like mine—or perhaps they are meant for no one at all.
+
+As a result of this presentation, I humbly beg his Excellency to kindly provide me with a pension, at such amount as he deems reasonable, based on the funds established by King Victor’s piety in Annecy, or in any other place he may deem appropriate, so that I may be able to meet the needs of the remainder of my unfortunate life.
+
+Furthermore, since I am unable to travel or engage in any civil affairs, I once again implore His Excellency to take the necessary steps to ensure that said pension is paid here and delivered into my hands, or into those of Madame la Baronne de Warens, who, at my most humble request, would be kind enough to use it for my needs. In this way, during these few days left to me, I will be able to enjoy the necessary support for my temporal affairs, and then gather my strength and resolve to bring my soul and conscience into peace with God. I shall prepare myself to begin, with courage and resignation, the journey toward eternity, and pray sincerely and without distraction for the perfect well-being and enduring safety of His Excellency.
+
+J. J. ROUSSEAU.
+
+End of the Memoir to His Excellency the Governor of Savoy.
+
+List of Miscellaneous Works or Varied Literature
+
+General list of titles
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho l’onore di esporre con grande rispetto alla sua eccellenza i tristi dettagli della situazione in cui mi trovo, supplicandola di voler ascoltare la generosità dei suoi pii sentimenti al fine di trovare una soluzione nel modo che lei riterrà appropriato.
+
+Sono uscito molto giovane da Ginevra, mia patria, abbandonando i miei diritti per entrare a far parte della Chiesa; tuttavia, fino ad oggi non ho mai intrapreso alcuna iniziativa per chiedere aiuto, un aiuto che avrei sempre cercato di evitare, se non fosse stato per la Provvidenza che mi ha colpito con sofferenze che mi hanno privato della possibilità di ottenerlo. Ho sempre provato disprezzo, persino indignazione, per coloro che non si vergognano di trafficare in modo ignobile con la loro fede e di abusare dei benefici che gli vengono concessi. Oso dire che il mio comportamento ha dimostrato chiaramente quanto io sia lontano da simili sentimenti. Caduto ancora bambino nelle mani di Sua Eccellenza il vescovo di Ginevra, ho cercato di rispondere, con impegno e diligenza negli studi, alle aspettative lusinghiere che quel rispettabile prelato aveva su di me. La baronessa de Warens si è degnata di accettare la sua richiesta di prendersi cura della mia educazione, e non è stato certo mio compito dimostrare a questa signora, con i miei progressi, quanto desiderassi ardentemente renderla soddisfatta dell’effetto delle sue bontà e dei suoi sforzi.
+
+Questo grande vescovo non si limitò a queste gentilezze: mi raccomandò anche al signor marchese di Bonac, ambasciatore di Francia presso il Corpo elvetico[2]. Questi sono gli unici tre protettori ai quali devo la minima forma di aiuto; è vero che essi mi hanno sostituito tutto il resto, per il modo in cui si sono degnati di dimostrarmi la loro generosità. Hanno visto in me un giovane di buona famiglia, pieno di ambizione e dotato di alcuni talenti, e avevano intenzione di promuoverli. Mi sarebbe motivo di grande orgoglio descrivere alla sua eccellenza tutto ciò che questi due signori hanno avuto la bontà di fare per il mio benessere; ma la morte del monsignore vescovo di Ginevra e la malattia mortale dell’ambasciatore sono state le cause fatali dell’inizio di tutti i miei disastri.
+
+Anch’io iniziai a essere colpito da quella stessa malinconia che oggi mi conduce alla tomba. Pertanto, ricaddi sotto la responsabilità di madame de Warens; sarebbe impossibile credere che avesse potuto negare i suoi primi gesti di benevolenza, abbandonandomi in una situazione così tragica.
+
+Nonostante tutto, finché mi rimasero alcune forze, cercai di sfruttare i miei deboli talenti. Ma a che servono i talenti in questo paese? Lo dico con amarezza nel cuore: sarebbe mille volte meglio non averne affatto. Ebbene. Ancora oggi non provo forse il ritorno pieno di ingratitudine e crudeltà da parte di persone per le quali ho speso tutte le mie energie, insegnandogli con grande diligenza ciò che a me stesso era costato tanto impegno e fatica ad apprendere? Infine, per completare questa serie di sfortune, sono caduto in una terribile malattia che mi deturpa il volto. Ora sono confinato in casa, incapace quasi di lasciare il letto e la stanza, fino a quando Dio non deciderà di porre fine alla mia breve ma misera vita.
+
+Il mio dolore è vedere che madame de Warens ha già fatto troppo per me; la ritrovo, per il resto dei miei giorni, schiacciata dal peso delle mie infermità, le quali, grazie alla sua estrema bontà, non riesce a percepire realmente, ma che comunque ostacolano notevolmente le sue faccende, già sufficientemente gravate dalle sue numerose opere di carità e dall’abuso che dei miseri hanno troppo spesso fatto della sua fiducia.
+
+Oso quindi, riguardo ai dettagli di tutti questi fatti, rivolgermi alla sua eccellenza, come al padre dei sofferenti. Non nasconderò che sia difficile, per un uomo dal cuore sensibile e che pensi come faccio io, essere costretto, in assenza di altri mezzi, a chiedere aiuto e sostegno; ma tale è il volere della Provvidenza. Per quanto mi riguarda personalmente, basta che sia ben certo di non aver, per colpa mia, dato alcun spazio alla povertà o ai mali che mi opprimono. Ho sempre detestato il lassismo e la pigrizia; e, così come sono, oso essere sicuro che nessuno, di cui ho l’onore di essere conosciuto, possa fornire su di me, sul mio comportamento, sui miei sentimenti e sulle mie abitudini, se non testimonianze favorevoli.
+
+In una situazione quindi altrettanto disperata della mia, e per la quale non ho alcun rimorso, credo che non sia vergognoso da parte mia implorare la sua eccellenza di concedermi l’onore di partecipare ai benefici istituiti dalla pietà dei principi per casi simili al mio. Oppure, forse, tali benefici sono destinati soltanto a persone come me, e a nessun altro.
+
+In seguito a questa esposizione, supplico molto umilmente Sua Eccellenza di volermi procurare una pensione, tale da ritenersi ragionevole, sulla base della fondazione istituita dalla pietà del re Vittore ad Annecy, o in un altro luogo che Sua Eccellenza riterrà opportuno, affinché io possa soddisfare le necessità del resto della mia triste esistenza.
+
+Inoltre, poiché mi è impossibile viaggiare o occuparmi di alcuna questione civile, supplico ancora Sua Eccellenza di provvedere affinché detta pensione possa essere pagata qui regolarmente e consegnata nelle mie mani, o in quelle della baronessa de Warens, che, per la mia umile richiesta, si prenderà cura di utilizzarla ai miei bisogni. Così, godendo, nei pochi giorni che mi restano, dei mezzi necessari per le mie esigenze materiali, potrò raccogliere le mie forze e il mio spirito per mettere la mia anima e la mia coscienza in pace con Dio; prepararmi quindi a intraprendere, con coraggio e rassegnazione, il viaggio verso l’eternità, e pregare sinceramente e senza distrazioni per la perfetta prosperità e la preziosa salvezza di Sua Eccellenza.
+
+J.-J. Rousseau.
+
+Fine del memoriale a S.E.M. Monsignor il Governatore della Savoia.
+
+Elenco di miscellane o letteratura varia
+
+Elenco generale dei titoli

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A short essay on the picture frame: the painting holds a landscape that 'is there without being there', since everything in it is metaphor and merely virtual existence. The artwork is an imaginary island ringed by reality, and the frame is the neutral object that insulates the aesthetic body from its vital surroundings, acting as springboard and window.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

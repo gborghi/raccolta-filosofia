@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A theory of the novel: plot is not the substance of the genre but its mere mechanical support; the essence lies in the sheer living of the characters and their milieu. Rather than widening the reader's horizon with unusual adventures, the novelist must narrow it, since any horizon vitally inhabited becomes interesting.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

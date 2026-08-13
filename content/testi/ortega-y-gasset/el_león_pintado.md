@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Literary criticism on Pío Baroja: he thinks out of self-preservation, out of timidity, and his ideas are defensive reactions. Ortega grants him one real theme — the barbaric energy of men cracking the social crust — but charges him with nostalgia for the orangutan.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -174,7 +180,7 @@ Baroja vorrebbe che i suoi personaggi fossero vortici di vitalità; ma i suoi fi
 
 I personaggi di Baroja non sono attivi: a dispetto della presunta turbolenza e dinamismo, non sogliono fare più che andare, modestissima mostra di energia. Dico che non sogliono fare più di questo, perché ciò che fanno in maggior grado suole considerarsi come l'opposto dell'azione. Baroja, specialmente, odia, prima di tutto, la chiacchiera e il raziocinio. Orbene: i suoi personaggi non sogliono fare altro. Sono, in generale, delle creature attaccate dalla monomania deambulatoria, che si passano la vita andando per le strade e frequentemente per i sobborghi; vanno guardando di passaggio ciò che passa, con occhi inattivi, e, soprattutto, vanno chiacchierando e teorizzando. L'anelito di cosmiche cascate di energia che Baroja porta nei suoi libri conclude in una pertinace pioggerella di conversazioni teoriche. Che cosa più malinconica! Aurora Roja, badate bene al titolo: ¡Aurora Roja!, è, in realtà, un manuale di Diritto politico.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty"></span>
 
 Ando tan lejos de desear que Baroja deje de ser lo que él quisiera ser, que voy hacia él movido por un sincero y admirativo afecto que me invita a completarme en el trato con un personaje silvestre. Por lo mismo experimento alguna desilusión, encontrando en realidad, bajo sus ásperos gestos, un ergotista acérrimo. Mientras sus personajes caminan por las afueras, Baroja ejerce presión sobre ellos y les obliga a pensar. Y, claro está, acontece que las ideas suelen resentirse de haber sido pensadas en el paseo de los Ocho Hilos o yendo hacia la Bombilla. El autor pone de manifiesto una fuerte mentalidad de extrarradio.
 

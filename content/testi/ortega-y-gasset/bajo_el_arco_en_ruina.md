@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On the 1917 revolt of the Juntas de Defensa: effective power now resides in them, and Spain lives "under the government of the hoplites". Ortega invokes Jennings's biological law of trial and error to justify the collective urge to experiment, and describes the state as an articulation of prestiges: since 1898 Spain has been liquidating hers without replacement, and is now "an invertebrate Spain" whose arch totters because the keystone has shifted.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

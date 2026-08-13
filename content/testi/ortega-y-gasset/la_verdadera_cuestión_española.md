@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A year after the 1917 crisis Ortega observes that Spaniards do not grasp the series of conflicts as a series, i.e. as symptoms of one deep cause. Since no great collective mass rises to consciousness of itself, every social body needs a minority of clear heads — and in Spain that minority seems not to exist.
+
+## Connections
+
+**Concetti:** [[concepts/select_minority|minoranza selecta]], [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -144,7 +151,7 @@ Restava che all'ora di adesso la Spagna non è governata da istituzioni, ma da p
 
 Quando nel giugno del 1917 si sbandarono i militari, cercarono con gli occhi gli spagnoli un organismo pubblico capace di far fronte all'atteggiamento dell'Esercito. E trovarono che né il Parlamento né il Governo avevano vigore sufficiente per dominare la sovversione. Per trattarsi di una classe armata, c'era da supporre che quando l'Esercito si insubordina nessun'altra istituzione possa imporsi. Ma accadde che poco dopo i portalettere, gli inermi e incruenti uomini postali, si ribellarono a loro volta, e né il Parlamento, né il Governo, né l'Esercito stesso poterono ridurli. Questo che chiamiamo società è, a quanto si vede, cosa più sottile e complessa del semplice gioco di forze brute. Nella vita contemporanea, la forza materiale a stento ha qualche efficienza sopra le lotte interiori di una società. La contesa si produce tra poteri spirituali e si risolve, secondo una meccanica psicologica, dove le energie combattenti sono i prestigi. Il potere di maggior prestigio assorbe invisibilmente l'altro, e torna con perfetto automatismo l'equilibrio sociale.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/select_minority,concepts/state,forms/essay"></span>
 
 No importa mucho que una institución se corrompa siempre que queden otras sanas y ungidas de autoridad. Apoyándonos en cualquiera de éstas, podremos disciplinar, corregir y curar la institución decadente. Pero la verdadera cuestión española es que no existe organismo nacional ninguno que ejerza sobre los españoles ese supremo influjo espiritual, mezcla de respeto y esperanza, con el que pueda renovarse y reconstruirse el resto de la contextura pública. Esto es, en mi entender, lo que debería repetirse a la mañana todo español consciente. No es, pues, cuestión de derechas, ni de izquierdas, ni de zurdas: es una cuestión previa que se plantea de idéntico [modo](/concepts/mode) para todo corazón patriota y reflexivo.
 

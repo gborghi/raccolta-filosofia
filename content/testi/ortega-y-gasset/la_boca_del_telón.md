@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short aesthetic vignette on the stage-arch as a frame opening the unreal world of fiction; argues it should evoke dream and legend, not talk of business.
+> A 116-word fragment. The digest carries no prose sample, so the content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

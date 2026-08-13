@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An imagined dialogue between Baroja and Azorín in a Bayonne bookshop about the article "El campo del arte": Baroja objects that Azorín's clarity hides things, since seeing needs some shadow. There follows a reflection on irony, which requires a secure social personality, and on everyone's radical doubt today about their place in the social architecture.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -174,7 +181,7 @@ In cambio, lei comincia uno dei capitoli de «La rotta di Don Chisciotte»: «Io
 
 —Sottigliezze! La materia e lo spirito saranno sempre ciò che sono stati.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/dialogue"></span>
 
 —Yo no sé muy bien qué sea [materia](/positions/materialism), ni qué sea espíritu; pero me parece que lo característico de la vida es la aparición súbita de especies nuevas. En mi huerta se plantaron hace años unas habichuelas: cosecha tras cosecha venían siendo iguales. Pero hace un par de ellos, aparecieron de pronto unas habichuelas punteadas que se han ido propagando a costa de las antiguas. ¿Por qué no pensar que las generaciones son cosechas humanas y que de pronto en una de ellas aparece una mutación?
 

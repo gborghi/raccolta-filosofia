@@ -10,8 +10,14 @@ tags:
   - "philosopher/rousseau"
 ---
 
+*Rousseau*
+
 > [!abstract]
 > Fragments of a projected tragedy on the Roman Lucretia (not the philosopher Lucretius), with scenes between Lucretia, Collatinus and Sextus Tarquinius. An unfinished dramatic sketch, without philosophical content.
+
+## Connections
+
+**Forme:** [[forms/tragedy|tragedia]]
 
 <p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
@@ -534,7 +540,7 @@ Amici, avete pietà dei miei errori e perdonate i miei discorsi insensati; ma fi
 
 Sulpitius.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Songez que nous avons ici plus d'une sorte de précautions à prendre, et que l'arrivée du père de Lucrèce doit nous rendre encore plus circonspects. Je vous l'ai dit, seigneur, je soupçonne ce voyage avec Brutus de renfermer quelque mystère : j'ai cru voir, à l'air dont ils nous observaient, qu'ils craignaient d'être observés eux-mêmes ; j'ignore ce qui se trame en secret, mais Lucrétius nous regarde de mauvais œil. Je vous avoue que ce Brutus m'a toujours déplu[65].
 
@@ -1560,7 +1566,7 @@ Questo grande re vi stima; conosce la vostra dedizione.
 
 E, per dirlo tutto in una volta, garante delle sue buone intenzioni.
 
-<span class="atom-split" data-atom="003" data-title="(apertura) (parte 3)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="003" data-title="(apertura) (parte 3)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Votre [coeur](/positions/fideism) vous répond que vous les méritez.
 
@@ -2856,7 +2862,7 @@ Il respiro mi abbandona, e rinuncio a quel premio.
 
 Bordes, abbi la bontà di giudicare tutte le mie preoccupazioni.
 
-<span class="atom-split" data-atom="004" data-title="(apertura) (parte 4)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="004" data-title="(apertura) (parte 4)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Vois quels sont les combats, et quelles sont les armes.
 
@@ -3972,7 +3978,7 @@ L’arte non è il sostegno della nostra repubblica:
 
 Essere giusti è, per noi, l’unica politica possibile.
 
-<span class="atom-split" data-atom="005" data-title="(apertura) (parte 5)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="005" data-title="(apertura) (parte 5)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Tous les ordres divers, sans inégalité,
 
@@ -5076,7 +5082,7 @@ Menzogne del vanitoso e di quello sciocco che le crede.
 
 No, non posso costringere la mia mente, né quella sincera.
 
-<span class="atom-split" data-atom="006" data-title="(apertura) (parte 6)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="006" data-title="(apertura) (parte 6)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 A déguiser ainsi mon propre caractère ;
 
@@ -6534,7 +6540,7 @@ Dove lo scienziato, parassita meschino.
 
 Sia presso Aspasia che presso Frine.
 
-<span class="atom-split" data-atom="007" data-title="(apertura) (parte 7)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="007" data-title="(apertura) (parte 7)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Vend de l'esprit pour un dîné :
 
@@ -8118,7 +8124,7 @@ Qui ti punisce quando ti sfida;
 
 Tu, la cui fronte è dolce e serena.
 
-<span class="atom-split" data-atom="008" data-title="(apertura) (parte 8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="008" data-title="(apertura) (parte 8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Porte le plaisir dans nos fêtes ;
 
@@ -8520,7 +8526,7 @@ Fine dei miscugli in versi
 
 [36] * Le note appena lette hanno tutte lo scopo di contrastare la tesi principale su cui si basa l’opera di Helvétius; Dutens osserva con ragione che, poiché quest’opera è composta soltanto da capitoli senza collegamento logico, da idee disconnesse, da brevi racconti e da battute spiritose, anche le note che seguono non sono altro che commenti su singoli aspetti del contenuto.
 
-<span class="atom-split" data-atom="009" data-title="(apertura) (parte 9)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="009" data-title="(apertura) (parte 9)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 [37] Helvétius a dit : « Tout devient légitime, et même vertueux, pour le salut public. » Rousseau a mis en note, à côté : Le salut public n'est rien, si tous les particuliers ne sont en sûreté. — Cette note de Rousseau ne fait point partie de celles que Dutens a publiées ; nous la devons à l'éditeur de 1801, qui l'a trouvée sans doute dans l'exemplaire que nous avons dit plus haut être encore en la possession de M. de Bure. Dutens a pu la juger digne de peu d'attention, et l'omettre comme telle dans sa brochure ; mais les événements survenus depuis donnent à cette note un prix inestimable et qui sera senti par tous les lecteurs.
 
@@ -8634,7 +8640,7 @@ Il mese di Elul corrisponde approssimativamente al nostro mese di agosto.
 
 [54] Mi lamento del fatto che la filosofia allenti i legami sociali, quei legami formati dall’ammirazione e dalla benevolenza reciproca; mi lamento anche del fatto che le scienze, le arti e tutti gli altri oggetti di commercio rafforzino invece questi stessi legami attraverso gli interessi personali. Infatti, è impossibile rafforzare uno di questi legami senza che l’altro si allenti di conseguenza. Non c’è quindi alcuna contraddizione in questo.
 
-<span class="atom-split" data-atom="010" data-title="(apertura) (parte 10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="010" data-title="(apertura) (parte 10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 [55] Je remarque qu'il règne actuellemet dans le monde une multitude de petites maximes qui séduisent les simples par un faux air de philosophie, et qui, outre cela, sont très commodes pour terminer les disputes d'un ton important et décisif, sans avoir besoin d'examiner la question. Telle est celle-ci : « Les hommes ont partout les mêmes passions ; partout l'[amour-propre](/concepts/amour_propre) et l'intérêt les conduisent ; donc ils sont partout les mêmes.» Quand les géomètres ont fait une supposition qui, de raisonnement en raisonnement, les conduit à une absurdité, ils reviennent sur leurs pas, et démontrent ainsi la supposition fausse. La même méthode, appliquée à la maxime en question, en montrerait aisément l'absurdité. Mais raisonnons autrement. Un sauvage est un homme, et un Européen est un homme. Le demi-philosophe conclut aussitôt que l'un ne vaut pas mieux que l'autre ; mais le philosophe dit : En Europe, le gouvernement les lois, les coutumes, l'intérêt, tout met les particuliers dans la nécessité de se tromper mutuellement et sans cesse ; tout leur fait un devoir du vice ; il faut qu'ils soient méchants pour être sages, car il n'y a point de plus grande folie que de faire le bonheur des fripons aux dépens du sien. Parmi les sauvages, l'intérêt personnel parle aussi fortement que parmi nous, mais il ne dit pas les mêmes choses : l'amour de la société et le soin de leur commune défense sont les seuls liens qui les unissent : ce mot de propriété, qui coûte tant de crimes à nos honnêtes gens, n'a presque aucun sens parmi eux : ils n'ont entre eux nulle discussion d'intérêt qui les divise ; rien ne les porte à se tromper l'un l'autre ; l'estime publique est le seul bien auquel chacun aspire, et qu'ils méritent tous. Il est très possible qu'un sauvage fasse une mauvaise action, mais il n'est pas possible qu'il prenne l'hahitude de mal faire, car cela ne lui serait bon à rien. Je crois qu'on peut faire une très juste estimation des mœurs des hommes sur la multitude des affaires qu'ils ont entre eux : plus ils commercent ensemble, plus ils admirent leurs talents et leur industrie, plus ils se friponnent décemment et adroitement, et plus ils sont dignes de mépris. Je le dis à regret, l'homme de bien est celui qui n'a besoin de tromper personne, et le sauvage est cet homme-là :
 
@@ -8874,7 +8880,7 @@ Combattere il vizio in stile accademico.
 
 [85] Il signor de Nivernais rivendicò questa opera, che fu attribuita a Rousseau soltanto dai primi editori delle sue opere. Jean-Jacques non si dichiarò mai autore di essa. Si ignora in quale periodo sia stata composta. Ecco le varianti esistenti tra l’edizione di Ginevra e quella di Marc-Michel Rey:
 
-<span class="atom-split" data-atom="011" data-title="M. M. Rey : Mon cœur, libre de sa chaîne," data-chapter="M. M. Rey : Mon cœur, libre de sa chaîne," data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="011" data-title="M. M. Rey : Mon cœur, libre de sa chaîne," data-chapter="M. M. Rey : Mon cœur, libre de sa chaîne," data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Ne déguise plus sa peine;
 
@@ -8916,7 +8922,7 @@ Il mio cuore, libero, senza menzogne.
 
 Non trionfa più invano.
 
-<span class="atom-split" data-atom="012" data-title="M. M. Rey : Qu'on t'adore en ma présence." data-chapter="M. M. Rey : Qu'on t'adore en ma présence." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="012" data-title="M. M. Rey : Qu'on t'adore en ma présence." data-chapter="M. M. Rey : Qu'on t'adore en ma présence." data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Ed. de Gen. : Qu’on te lorgne en ma présence.
 
@@ -8928,7 +8934,7 @@ Edit by Editor-in-Chief: People are staring at you in my presence.
 
 Edizione Generale: “Ti guardano tutti quando sei presente.”
 
-<span class="atom-split" data-atom="013" data-title="M. M. Rey : Juge enfin comme je t'aime." data-chapter="M. M. Rey : Juge enfin comme je t'aime." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="013" data-title="M. M. Rey : Juge enfin comme je t'aime." data-chapter="M. M. Rey : Juge enfin comme je t'aime." data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Ed. de Gen. : Juge enfin comment je t'aime.
 
@@ -8940,7 +8946,7 @@ Final Edition: Judge for yourself how much I love you.
 
 Edizione Generale: Giudica finalmente quanto ti amo.
 
-<span class="atom-split" data-atom="014" data-title="M. M. Rey : Sois fière, sois inhumaine." data-chapter="M. M. Rey : Sois fière, sois inhumaine." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="014" data-title="M. M. Rey : Sois fière, sois inhumaine." data-chapter="M. M. Rey : Sois fière, sois inhumaine." data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Ed. de Gen. : Sois tendre, sois inhumaine.
 
@@ -8952,7 +8958,7 @@ Edit by the Editor-in-Chief: Be tender, be inhumane.
 
 Edizione Generale: Sii gentile, sii spietata.
 
-<span class="atom-split" data-atom="015" data-title="M. M. Rey : Mes plaisirs ou ma tristesse." data-chapter="M. M. Rey : Mes plaisirs ou ma tristesse." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="015" data-title="M. M. Rey : Mes plaisirs ou ma tristesse." data-chapter="M. M. Rey : Mes plaisirs ou ma tristesse." data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Ed. de Gen. : Ma gaieté ni ma tristesse.
 
@@ -8964,7 +8970,7 @@ Editor’s Note: Neither my joy nor my sorrow.
 
 Edizione Generale: Né la mia gioia né la mia tristezza.
 
-<span class="atom-split" data-atom="016" data-title="M. M. Rey :" data-chapter="M. M. Rey :" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="016" data-title="M. M. Rey :" data-chapter="M. M. Rey :" data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 L'horreur des antres sauvages
 
@@ -9000,7 +9006,7 @@ Beh! Des deserti selvaggi.
 
 Mi dispiacerebbe stare con te.
 
-<span class="atom-split" data-atom="017" data-title="M. M. Rey : Hélas ! je crus en mourir." data-chapter="M. M. Rey : Hélas ! je crus en mourir." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="017" data-title="M. M. Rey : Hélas ! je crus en mourir." data-chapter="M. M. Rey : Hélas ! je crus en mourir." data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Ed. de Gen. : Hélas ! je crus d'en mourir.
 
@@ -9012,7 +9018,7 @@ Edit by Editor-in-Chief: Alas! I thought I would die from it.
 
 Edizione Generale: Ahimè! Pensai di morire per questo.
 
-<span class="atom-split" data-atom="018" data-title="M. M. Rey : Un oiseau simple et timide." data-chapter="M. M. Rey : Un oiseau simple et timide." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="018" data-title="M. M. Rey : Un oiseau simple et timide." data-chapter="M. M. Rey : Un oiseau simple et timide." data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Ed. de Gen. : Cet oiseau jeune et timide.
 
@@ -9024,7 +9030,7 @@ Edit by Editor-in-Chief: This young and timid bird.
 
 Edizione Generale: Questo uccello giovane e timido.
 
-<span class="atom-split" data-atom="019" data-title="M. M. Rey : Voyant que je parle encore," data-chapter="M. M. Rey : Voyant que je parle encore," data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="019" data-title="M. M. Rey : Voyant que je parle encore," data-chapter="M. M. Rey : Voyant que je parle encore," data-kind="atom" data-srclang="fr" data-tags="forms/tragedy"></span>
 
 Ed. de Gen. : Parce que je parle encore.
 

@@ -12,7 +12,7 @@ variante_di: "rationalism"
 contro:
   - "empiricism"
   - "rationalism"
-work_count: 11
+work_count: 10
 tags:
   - "graph/position"
 title: "criticismo trascendentale"
@@ -27,7 +27,7 @@ Sfumatura di [razionalismo](/positions/rationalism).
 
 **Contro:** [empirismo](/positions/empiricism), [razionalismo](/positions/rationalism)
 
-## Opere (11)
+## Opere (10)
 
 **Hegel**
 - [The Logic of Hegel](/testi/hegel/the_logic_of_hegel)
@@ -43,5 +43,4 @@ Sfumatura di [razionalismo](/positions/rationalism).
 **Ortega y Gasset**
 - [2.º Perspectivismo](/testi/ortega-y-gasset/2º_perspectivismo)
 - [Descartes y el método transcendental](/testi/ortega-y-gasset/descartes_y_el_método_transcendental)
-- [Las dos grandes metáforas en el segundo centenario del nacimiento de Kant](/testi/ortega-y-gasset/las_dos_grandes_metáforas_en_el_segundo_centenario_del_nacimiento_de_kant)
 - [Reflexiones de centenario (1724-1924)](/testi/ortega-y-gasset/reflexiones_de_centenario_1724-1924)

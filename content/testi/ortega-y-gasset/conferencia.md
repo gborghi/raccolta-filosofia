@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The opening of a lecture at the Instituto Popular de Conferencias in Buenos Aires: Ortega gives thanks also for his father, who has sailed for Europe, and recounts their shared wandering — from the millennial villages of old Spain, "flattened under the weight of their own history", to the incursion into the future that is America. He claims to have said in public and private, respectfully but with harsh frankness, what he thought of Argentina. The sample shows only the courteous preamble, not the lecture's thesis.
+
+## Connections
+
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -252,7 +258,7 @@ Il mondo, signori, guardato senza amore, senza entusiasmo, senza fervore, sembra
 
 Chi voglia splendore e luce sulla sua vita vinca l'esanime tristezza, svegli il suo intimo fuoco e tutto intorno sarà ai suoi occhi una selva infiammata.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/lecture"></span>
 
 La felicidad ni se recibe ni se plagia; es en cada individuo labor original y creadora. Éstas son las enseñanzas, las calladas enseñanzas que enviaban a mi mocedad, desde los lóbregos claustros españoles, los hombres cárdenos que pinta el Greco, cuando parecían querer mostrarme sus almas incandescentes con un ligero temblor de sus barbas agudas.
 
@@ -402,7 +408,7 @@ Ma un popolo che vede chiaro davanti e vuole con decisione il suo avvenire, come
 
 Questa opera di fomento riflessivo intorno alla cultura superiore è la missione dell'Università.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/lecture"></span>
 
 La Universidad, señores, símbolo de toda esencial pedagogía y de toda acción intelectual, es hoy el instrumento incomparable para la labranza de pueblos. Doloroso es que todavía, lo mismo en Europa que aquí, este admirable vocablo, Universidad, suscite al ser oído imágenes sórdidas e inelegantes, de aulas tristes y prosaicas, de dómines solemnes y cejijuntos, de palabras frígidas y pedantes. Y sin embargo, aún llega a los oídos del estudioso resonando la voz de Platón, creador en su florida academia de la institución universitaria; la voz de Platón que dice: «Hagamos de la enseñanza la ciudadela del Estado».
 
@@ -540,7 +546,7 @@ Piuttosto ho nutrito la mia speranza quando parlando con qualche donna argentina
 
 Meno assorbita dell'uomo dall'opera economica, la donna argentina va concretando il suo scontento.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/lecture"></span>
 
 Atribuye la leyenda la invención del dibujo a un mancebo de Sicione, estando una tarde junto a su amada al tiempo que el Sol tendía sobre un muro blanco la fina sombra de ésta, tomó un carbón y fijó en la pared el perfil de la silueta.
 

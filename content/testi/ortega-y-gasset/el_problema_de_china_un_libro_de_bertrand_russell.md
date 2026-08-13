@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review of Bertrand Russell's book on China, framed within the confrontation of East and West. Ortega finds the book insufficient because it settles on page one that war is the evil of evils and peace the supreme good.
 

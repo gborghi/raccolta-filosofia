@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Journalistic commentary on Sánchez de Toca's discourse on the war and Spanish neutrality, quoting and glossing three passages (the numbness of national conscience, the spectator attitude, the government-imposed silence). A topical article from the 'Política de la neutralidad' series.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -138,7 +144,7 @@ Il signor Sánchez de Toca crede, con sommo acerto, che nel conflitto presente g
 
 VI. Iberismo.— «Risulterebbe questa Penisola con straordinari prestigi di autorità propria per le opere più perdurabili che devono concertarsi nelle negoziazioni future, se prima di arrivare il momento storico di sigillarsi paci durevoli tra le grandi potenze attualmente in belligeranza, i nazionalismi fratellati in questo quadro geografico apparissero come nazionalità spontaneamente unite in ampio concerto, assicurandosi mutuamente i loro comuni interessi in condizione di esercitare le loro forme proprie di governo in vita indipendente per sviluppare più intensamente la prosperità dei loro interessi patrii».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 VII. Actividad reconstructora.— «En estos momentos tan decisivos para los destinos de las naciones, la reconstitución de España en ciudadanía libre y nacionalismo soberano es interés supremo que relegue en nuestra vida política a lugar secundario todas las demás consideraciones».
 

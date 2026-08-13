@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Editorial on the crisis of Maura's national Cabinet after minister Alba's resignation: no problem solved, misgovernment increased. Political op-ed.
+> The digest gives neither structure nor sample (1,129 words, 0 atoms): the content cannot be judged; the title indicates an article against the national Cabinet.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

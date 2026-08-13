@@ -12,8 +12,16 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > An aporetic dialogue, possibly spurious, on the question 'what is the beautiful?': Socrates demolishes a series of definitions offered by the vain sophist Hippias (a beautiful maiden, gold, the fitting, the useful, the pleasant), never reaching a satisfactory definition.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -180,7 +188,7 @@ Socrate: Allora colui che è in grado di trasmettere le dottrine che sono di mas
 
 Ippia: Sì, poiché non è consuetudine ereditaria dei Lacedemoni mutare le loro leggi o educare i loro figli diversamente da ciò che è usuale.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/beauty,figures/socrates,forms/dialogue"></span>
 
 [Socrates](/figures/socrates): What? For the Lacedaemonians is it the hereditary usage not to act rightly, but to commit errors?
 
@@ -388,7 +396,7 @@ Ippia: Certamente.
 
 Socrate: «Allora, inoltre, per la sapienza i sapienti sono sapienti e per il bene tutte le cose sono buone, non è così?»
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/beauty,figures/socrates,forms/dialogue"></span>
 
 Hippias: Of course.
 
@@ -580,7 +588,7 @@ Socrate: «Perché, allora», dirà, «non fece anche le parti centrali degli oc
 
 Ippia: Certamente lo diremo, cioè, dove è appropriata.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/beauty,figures/socrates,forms/dialogue"></span>
 
 [Socrates](/figures/socrates): “But ugly when not appropriate?” Shall I agree, or not?
 
@@ -784,7 +792,7 @@ Socrate: «Allora, di nuovo, secondo la tua affermazione, fra gli eroi è cosa t
 
 Ippia: Lo credo.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/beauty,figures/socrates,forms/dialogue"></span>
 
 [Socrates](/figures/socrates): “You think, then, what you did not say just now, that to bury one’s parents and be buried by one’s offspring is sometimes and for some persons disgraceful; and it is still more impossible, as it seems, for this to become and to be beautiful for all, so that the same thing has happened to this as to the things we mentioned before, the maiden and the pot, in a still more ridiculous way than to them; it is beautiful for some and not beautiful for others. And you are not able yet, even today, Socrates,” he will say, “to answer what is asked about the beautiful, namely what it is.” With these words and the like he will rebuke me, if I reply to him in this way. For the most part, Hippias, he talks with me in some such way as that but sometimes, as if in pity for my inexperience and lack of training, he himself volunteers a question, and asks whether I think the beautiful is so and so or whatever else it is which happens to be the subject of our questions and our discussion.
 
@@ -916,7 +924,7 @@ Socrate: Il potere, dunque, è bello, e la mancanza di potere è vergognosa o br
 
 Ippia: Decisamente. Ora altre cose, Socrate, ci attestano che è così, ma soprattutto gli affari politici; ché negli affari politici e nel proprio stato essere potente è la più bella di tutte le cose, ma essere impotente è la più vergognosa di tutte.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/beauty,concepts/cause,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 [Socrates](/figures/socrates): Good! Then, for Heaven’s sake, Hippias, is wisdom also for this reason the most beautiful of all things and ignorance the most disgraceful of all things?
 
@@ -1184,7 +1192,7 @@ Socrate: Ti dirò ciò che mi si presenta, se forse vi può essere in ciò qualc
 
 Ippia: Certamente, senza dubbio, Socrate, diremo che vi sono grandissimi piaceri anche nelle altre cose.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/beauty,figures/socrates,forms/dialogue"></span>
 
 [Socrates](/figures/socrates): “Why, then,” he will say, “if they are pleasures no less than the others, do you take from them this designation and deprive them of being beautiful?” “Because,” we shall say, “everybody would laugh at us if we should say that eating is not pleasant but is beautiful, and that a pleasant odor is not pleasant but is beautiful; and as to the act of sexual love, we should all, no doubt, contend that it is most pleasant, but that one must, if he perform it, do it so that no one else shall see, because it is most repulsive to see.” If we say this, Hippias, “I too understand,” he will perhaps say, “that you have all along been ashamed to say that these pleasures are beautiful, because they do not seem so to people; but that is not what I asked, what seems to most people to be beautiful, but what is so.” We shall, then, I fancy, say, as we suggested, “We say that that part of the pleasant which comes by sight and hearing is beautiful.” Do you think the statement is of any use, Hippias, or shall we say something else?
 
@@ -1308,7 +1316,7 @@ Socrate: Le faccende umane, Ippia, non sono ciò che un uomo desidera, ma ciò c
 
 Ippia: Parlerai a uno che sa, Socrate, ché io conosco [lo stato](/concepts/state) d'animo di tutti coloro che si occupano di discussioni; ma nondimeno, se preferisci, parla.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en" data-tags="positions/dialectic,concepts/beauty,figures/socrates,forms/dialogue"></span>
 
 [Socrates](/figures/socrates): Well, I do prefer. For we, my friend, were so stupid, before you spoke, as to have an opinion concerning you and me, that each of us was one, but that we were not both that which each of us was — for we are not one, but two — so foolish were we. But now we have been taught by you that if we are both two, then each of us is inevitably two, and if each is one, then both are inevitably one; for it is impossible, by the continuous doctrine of reality according to Hippias, that it be otherwise, but what we both are, that each is, and what each is, both are. So now I have been convinced by you, and I hold this position. But first, Hippias, refresh my memory: Are you and I one, or are you two and I two?
 
@@ -1488,7 +1496,7 @@ Socrate: «Ebbene, allora», dirà, «benefico è ciò che crea il bene, ma ciò
 
 Ippia: Ma ora, Socrate, che cosa pensi che valga tutto questo? Non sono altro che raschiature e trucioli di discorso, come dicevo poco fa, divisi in pezzetti; ma quell'altra abilità è bella e di gran pregio, l'abilità di produrre un discorso bene e bellamente in un tribunale o in una sala del consiglio o dinanzi a qualunque altro pubblico consesso al quale il discorso possa essere pronunciato, di convincere l'uditorio e di portarsi via, non il più piccolo, ma il più grande dei premi, la salvezza di se stessi, dei propri beni e dei propri amici. Per queste cose, dunque, bisogna adoperarsi, rinunciando a questi meschini ragionamenti, affinché non si appaia, occupandosi, come al presente, di mere chiacchiere e assurdità, uno sciocco.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/beauty,figures/socrates,forms/dialogue"></span>
 
 [Socrates](/figures/socrates): My dear Hippias, you are blessed because you know the things a man ought to practise, and have, as you say, practised them satisfactorily. But I, as it seems, am possessed by some accursed fortune, so that I am always wandering and perplexed, and, exhibiting my perplexity to you wise men, am in turn reviled by you in speech whenever I exhibit it. For you say of me, what you are now saying, that I busy myself with silly little matters of no account; but when in turn I am convinced by you and say what you say, that it is by far the best thing to be able to produce a discourse well and beautifully and gain one’s end in a court of law or in any other assemblage, I am called everything that is bad by some other men here and especially by that man who is continually refuting me; for he is a very near relative of mine and lives in the same house. So whenever I go home to my own house, and he hears me saying these things, he asks me if I am not ashamed that I have the face to talk about beautiful practices, when it is so plainly shown, to my confusion, that I do not even know what the beautiful itself is. “And yet how are you to know,” he will say, “either who produced a discourse, or anything else whatsoever, beautifully, or not, when you are ignorant of the beautiful? And when you are in such a condition, do you think it is better for you to be alive than dead?” So it has come about, as I say, that I am abused and reviled by you and by him. But perhaps it is necessary to endure all this, for it is quite reasonable that I might be benefited by it. So I think, Hippias, that I have been benefited by conversation with both of you; for I think I know the meaning of the proverb “beautiful things are difficult”.
 

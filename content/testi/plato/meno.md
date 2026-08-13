@@ -12,8 +12,20 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > Meno asks whether virtue can be taught; to answer, Socrates introduces the theory of recollection (anamnesis), demonstrating it by leading an illiterate slave boy to 'remember' a geometric theorem through simple questioning. It follows that learning is recovering knowledge the soul already possessed before birth.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/innatism|innatismo]]  
+**Concetti:** [[concepts/anamnesis|anamnesis (reminiscenza)]], [[concepts/virtue|virtù]], [[concepts/education|educazione]]  
+**Argomenti:** [[arguments/recollection_argument|l'argomento della reminiscenza]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]  
+**Scuole:** [[schools/academy|Accademia platonica]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -232,7 +244,7 @@ MENONE: Che cosa vuoi dire?
 
 SOCRATE: Intendo dire come potrei dire di qualsiasi cosa; che un tondo, per esempio, è 'una figura' e non semplicemente 'figura', e adotterei questo modo di esprimermi, perché vi sono altre figure.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/universals,concepts/virtue,figures/socrates,figures/plato,forms/dialogue"></span>
 
 MENO: Quite right; and that is just what I am saying about virtue — that there are other virtues as well as justice.
 
@@ -500,7 +512,7 @@ MENONE: Ma resterò, Socrate, se mi darai molte risposte di tal genere.
 
 SOCRATE: Ebbene, per amor mio e per amor tuo, farò del mio meglio; ma temo di non potertene dare molti altrettanto buoni: e ora, a tua volta, devi mantenere la promessa, e dimmi che cosa è la virtù in universale; e non fare di un singolare un plurale, come dicono i faceti di coloro che rompono una cosa, ma consegnami la virtù intera e sana, e non spezzata in molti pezzi: io ti ho dato il modello.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/knowledge_origin,positions/innatism,concepts/anamnesis,concepts/virtue,concepts/education,arguments/recollection_argument,figures/socrates,forms/dialogue,schools/academy"></span>
 
 MENO: Well then, [Socrates](/figures/socrates), virtue, as I take it, is when he, who desires the honourable, is able to provide it for himself; so the poet says, and I say too —
 
@@ -784,7 +796,7 @@ SOCRATE: Posso dire perché hai fatto una similitudine su di me.
 
 MENO: Perché?
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/anamnesis,concepts/soul,arguments/recollection_argument,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): In order that I might make another simile about you. For I know that all pretty young gentlemen like to have pretty similes made about them — as well they may — but I shall not return the compliment. As to my being a torpedo, if the torpedo is torpid as well as the cause of torpidity in others, then indeed I am a torpedo, but not otherwise; for I perplex others, not because I am clear, but because I am utterly perplexed myself. And now I know not what virtue is, and you seem to be in the same case, although you did once perhaps know before you touched me. However, I have no objection to join with you in the enquiry.
 
@@ -1108,7 +1120,7 @@ Dunque la linea che forma il lato di otto piedi dovrebbe essere più lunga di qu
 
 BOY: Dovrebbe.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="positions/innatism,concepts/anamnesis,concepts/soul,arguments/recollection_argument,figures/socrates"></span>
 
 [SOCRATES](/figures/socrates): Try and see if you can tell me how much it will be.
 
@@ -1488,7 +1500,7 @@ Socrate: Dunque, poiché siamo d'accordo che l'uomo debba indagare su ciò che n
 
 Certo, Socrate. E tuttavia preferirei di gran lunga tornare alla mia domanda originaria: se, nel cercare di acquisire la virtù, dobbiamo considerarla come una cosa che si insegna, o come un dono di natura, o come qualcosa che giunge agli uomini in qualche altra maniera?
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/knowledge_origin,positions/innatism,concepts/anamnesis,concepts/virtue,concepts/education,arguments/recollection_argument,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): Had I the command of you as well as of myself, Meno, I would not have enquired whether virtue is given by instruction or not, until we had first ascertained ‘what it is.’ But as you think only of controlling me who am your slave, and never of controlling yourself, — such being your notion of freedom, I must yield to you, for you are irresistible. And therefore I have now to enquire into the qualities of a thing of which I do not as yet know the nature. At any rate, will you condescend a little, and allow the question ‘Whether virtue is given by instruction, or in any other way,’ to be argued upon hypothesis? As the geometrician, when he is asked whether a certain triangle is capable being inscribed in a certain circle (Or, whether a certain area is capable of being inscribed as a triangle in a certain circle.), will reply: ‘I cannot tell you as yet; but I will offer a hypothesis which may assist us in forming a conclusion: If the figure be such that when you have produced a given side of it (Or, when you apply it to the given line, i.e. the diameter of the circle (autou).), the given area of the triangle falls short by an area corresponding to the part produced (Or, similar to the area so applied.), then one consequence follows, and if this is impossible then some other; and therefore I wish to assume a hypothesis before I tell you whether this triangle is capable of being inscribed in the circle’: — that is a geometrical hypothesis. And we too, as we know not the nature and qualities of virtue, must ask, whether virtue is or is not taught, under a hypothesis: as thus, if virtue is of such a class of mental goods, will it be taught or not? Let the first hypothesis be that virtue is or is not knowledge, — in that case will it be taught or not? or, as we were just now saying, ‘remembered’? For there is no use in disputing about the name. But is virtue taught or not? or rather, does not every one see that knowledge alone is taught?
 
@@ -1716,7 +1728,7 @@ SOCRATE: E viceversa, non si può forse supporre che l'arte di cui non esistono 
 
 MENONE: Vero; ma credi che non vi siano maestri di virtù?
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/education,concepts/virtue,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): I have certainly often enquired whether there were any, and taken great pains to find them, and have never succeeded; and many have assisted me in the search, and they were the persons whom I thought the most likely to know. Here at the moment when he is wanted we fortunately have sitting by us Anytus, the very person of whom we should make enquiry; to him then let us repair. In the first place, he is the son of a wealthy and wise father, Anthemion, who acquired his wealth, not by accident or gift, like Ismenias the Theban (who has recently made himself as rich as Polycrates), but by his own skill and industry, and who is a well-conditioned, modest man, not insolent, or overbearing, or annoying; moreover, this son of his has received a good [education](/concepts/education), as the Athenian people certainly appear to think, for they choose him to fill the highest offices. And these are the sort of men from whom you are likely to learn whether there are any teachers of virtue, and who they are. Please, Anytus, to help me and your friend Meno in answering our question, Who are the teachers? Consider the matter thus: If we wanted Meno to be a good physician, to whom should we send him? Should we not send him to the physicians?
 
@@ -1848,7 +1860,7 @@ SOCRATES: E non deve egli dunque essere stato un buon maestro, se mai uomo fu bu
 
 Sì, certamente, — se voleva esserlo.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/knowledge_origin,positions/innatism,concepts/anamnesis,concepts/virtue,concepts/education,arguments/recollection_argument,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): But would he not have wanted? He would, at any rate, have desired to make his own son a good man and a gentleman; he could not have been jealous of him, or have intentionally abstained from imparting to him his own virtue. Did you never hear that he made his son Cleophantus a famous horseman; and had him taught to stand upright on horseback and hurl a javelin, and to do many other marvellous things; and in anything which could be learned from a master he was well trained? Have you not heard from our elders of him?
 
@@ -2076,7 +2088,7 @@ SOCRATE: Intendo dire che gli uomini buoni sono necessariamente utili o vantaggi
 
 MENO: Sì.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/knowledge_origin,positions/innatism,concepts/anamnesis,concepts/virtue,concepts/education,arguments/recollection_argument,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): And in supposing that they will be useful only if they are true guides to us of action — there we were also right?
 

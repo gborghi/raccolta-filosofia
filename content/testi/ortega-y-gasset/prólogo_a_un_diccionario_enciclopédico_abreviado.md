@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A preface starting from a minor observation—'Encyclopaedic Dictionary' is an inadequate name, since such works deal not with dictions but with things—and widening it: many names of sciences are absurd or inexpressive, and the harm done to thought by the ridiculous names 'philosophy' and 'history' is incalculable. The sample is only the opening.
 

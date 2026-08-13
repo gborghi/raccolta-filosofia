@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Parliamentary reportage (1919) on the disintegration of the conservative and liberal parties, read as a sign of progress because it opens the way to new forces; it sounds an 'alert' about the coming liquidation of the old politics. Political journalism, not philosophy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

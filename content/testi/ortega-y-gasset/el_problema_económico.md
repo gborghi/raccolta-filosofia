@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A parliamentary speech: politics is not a catalogue of problems the ruler finds set before him, but a system of problems he sets his country. Ortega declares he shares enough with Marxism to walk with it a long way: the economic is today the symbolic order of the present.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/historical_materialism|materialismo storico]]  
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A newspaper column: Ortega applauds higher import duties on cars not on political or economic grounds but moral ones, reading the gap between Spanish poverty and the number of gleaming automobiles as a paradigm of national immorality. Occasional journalism with no philosophical thesis.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -126,7 +132,7 @@ E nulla migliora il giudizio che i fatti enunciati impongono l'avvertire che l'a
 
 L'unica entità che per anni lavorò benemeritamente per mettere un po' d'ordine e decoro in questa [materia](/positions/materialism) della locomozione fu il Reale Automobile Club. Ma il calibro di ciò che oggi fosse urgente intraprendere trabocca completamente dai mezzi di qualunque associazione particolare e sportiva.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 El inri lo pone en todo esto la complacencia con que suele hablar ahora el señorito de nuestras nuevas carreteras. Va muy bien con la contextura de su testa justificar el advenimiento nada menos que de una Dictadura, poniendo en su abono la mejora de algunos caminos. No será fácil hacerles notar la monstruosidad del razonamiento, aunque ella frisa en la deficiencia mental, de la que podría valer como síntoma clínico.
 

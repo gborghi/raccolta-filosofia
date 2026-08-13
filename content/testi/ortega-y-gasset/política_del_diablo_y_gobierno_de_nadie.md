@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial against the Dato government: lacking political forces and ideas, and tied to the plutocracy, it can face neither the workers' unrest nor the economic crisis, which would require taxing the rich. Partisan political commentary, no philosophical content.
 

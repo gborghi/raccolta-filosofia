@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Critical essay written on Proust's death: Proust is not a 'creator' but an 'inventor' who found a new optics; his subjects (Combray, Swann's love, Balbec) are pretexts, like Degas's laundresses or Monet's Gare Saint-Lazare. His invention concerns the elementary ingredients of the literary object: a new way of handling time and of installing oneself in space.
+
+## Connections
+
+**Concetti:** [[concepts/time|tempo]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +97,7 @@ Questo per quanto riguarda l'ordine del tempo. Ma più semplice e stupefacente �
 
 Si è contato il numero di pagine che Proust impiega per dirci che la nonna si mette il termometro. Non è possibile, in effetti, parlare di Proust senza far constatare la sua prolissità e la sua minuzia. Ma in questo [caso](/concepts/fortune) prolissità e minuzia cessano di essere due vizi, per convertirsi in due potenze di ispirazione, in due muse che è necessario aggiungere alla nonaria comunità. Proust ha bisogno di essere prolisso e minuzioso per la semplice ragione che si avvicina agli oggetti più del solito. È stato l'inventore di una nuova distanza tra noi e le cose. Questa semplice riforma ha dei risultati, come ho detto, così stupefacenti, che quasi tutta la precedente produzione letteraria prende un aspetto di letteratura a volo d'uccello rozzamente panoramica quando la si confronta con questo genio deliziosamente miope.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/time,concepts/beauty,forms/essay"></span>
 
 En virtud de las conveniencias vitales, cada cosa nos impone una determinada distancia, vista desde la cual nos parece obtener su mejor apariencia. El que quiere ver bien una piedra se acerca a ella hasta poder divisar la porosidad de su superficie. Pero el que quiere ver bien una catedral tendrá que renunciar a ver los poros de sus piedras, y alejándose, ampliar sobremanera el campo visual. La [norma](/concepts/law) de estas distancias se regula por el utilitarismo orgánico que gobierna los hechos de la vida. Mas tal vez fue un error de los poetas creer que ese sistema de distancia, excelente para los usos vitales, lo era también para el arte. Proust, hastiado acaso de ver siempre dibujada una mano como si fuese un monumento, la acerca a sus ojos, y cubriendo con ella el horizonte ve, sorprendido, aparecer en primer plano un sugestivo paisaje, donde ondulan los valles de los poros, coronados por la selva liliputiense del vello. Esto es, naturalmente, una manera de decir: a Proust no le interesan las manos ni, en general, las cosas corporales tanto como la fauna y flora íntimas. Rectifica nuestra distancia ante los sentimientos humanos y rompe con la tradición de describirlos monumentalmente.
 
@@ -138,7 +145,7 @@ Per questo motivo, quando lo si avvicina a Stendhal conviene usare cautela. In m
 
 In somma, Proust apporta alla letteratura ciò che potrebbe denominarsi un'intenzione generale atmosferica. Paesaggi e persone, mondo interiore ed esteriore, tutto resta volatilizzato in un'aerea palpitazione diffusa. Io direi che l'universo di Proust è fatto per essere percepito in forma di respirazione perché tutto in esso è ambiente. In questi volumi nessuno fa nulla né accade nulla: tutto è una passiva successione di situazioni statiche. Né poteva accadere altrimenti, perché, per fare qualcosa, è necessario prima essere qualcosa di determinato. L'azione dell'animale si sviluppa sempre come una linea che parte dalla sua volontà e, spezzandosi contro gli ostacoli, rinasce sempre, rivelando che un soggetto si oppone alle resistenze sopravvenute. Questa linea spezzata che è l'azione dell'animale, uomo o bestia, va per ciò stesso carica di un latente dinamismo che presta allo sviluppo drammatico un tremito. Ma l'esistenza dei personaggi proustiani ha un carattere vegetativo. Per la pianta, vivere è stare e non fare. Sommersa nell'atmosfera è incapace di opporlesi: la sua passività elimina ogni drammatismo. Parimenti i personaggi di Proust vanno, come vegetali, inerti dentro i loro destini atmosferici e, con botanica sottomissione, la loro vita sembra ridursi alla funzione clorofillica, dialogo chimico sempre identico e come anonimo, in cui la pianta riceve docile gli imperativi dell'ambiente.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/time,concepts/beauty,forms/essay"></span>
 
 En estos libros, más que las personas, son los verdaderos agentes de las variaciones vitales los vientos, los climas físicos y morales que a aquéllos sucesivamente envuelven. Y la biografía de cada uno está dominada por ciertos alisios espirituales que soplan alternativamente sobre él y polarizan su sensibilidad. Todo depende del lado por donde la ráfaga aliente, y como hay cierzo y hay ábrego, viento del Norte y viento del Sur, el personaje de Proust varía, según que el vendaval de la existencia sople del lado de Meseglise o del lado de Guermantes. Ni es extraña la frecuencia con que este escritor habla de côtés, pues siendo para él el universo una realidad meteorológica, lo esencial son los cuadrantes. Tenemos, pues, que un genial abandono de la forma externa y convencional de las cosas obliga a Proust a definirlas por su forma interna, por la estructura de su forma interior. Pero esta estructura es de condición microscópica. He aquí por qué Proust ha sido llevado a acercarse anómalamente a las cosas y a practicar histología poética. A lo que más se parece su obra es a esos tratados anatómicos que los alemanes titulan, por ejemplo, Über feineren Bau der Retina des Kaninchens. «Sobre la más fina estructura de la retina del conejo».
 

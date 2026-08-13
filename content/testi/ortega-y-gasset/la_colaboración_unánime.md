@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political article: unconditional support for finance minister Prieto amid the international economic crisis, a rebuke to Spanish capitalists for lacking national solidarity, and a defence of bringing in foreign technical expertise. Topical political writing.
 

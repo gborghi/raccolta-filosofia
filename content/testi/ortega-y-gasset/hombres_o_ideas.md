@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An open letter to Ramiro de Maeztu on whether ideas or men matter more in politics. Ortega denies believing that ideas «walk alone»: political ideas must be embodied in a man who can turn them into emotions. The real question is one of prius, explicitly likened to the medieval quarrel of nominalists and realists: which comes first for the state's life, the political idea or the political man?
+
+## Connections
+
+**Assi:** [[assi/universals|Universali]]  
+**Posizioni:** [[positions/nominalism|nominalismo]], [[positions/realism_universals|realismo (universali)]]  
+**Concetti:** [[concepts/idea|idea]], [[concepts/state|Stato]]  
+**Forme:** [[forms/epistle|epistola]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

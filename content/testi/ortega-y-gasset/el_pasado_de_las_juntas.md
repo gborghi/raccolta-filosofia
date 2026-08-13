@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial retracing the paper's support for the military Juntas de Defensa since the previous June, quoting its own earlier articles. Pure Spanish political chronicle of 1917–18.
 

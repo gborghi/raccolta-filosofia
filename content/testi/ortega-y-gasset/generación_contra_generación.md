@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on the concept of generation as the central notion of historical thinking: only what has influenced widely is historical, and an idea gains historical existence only when «its hour» comes — that is, a generation of kindred temperament. Some ages show continuity between generations; others, like the present, break it, and the new generation denies established values without yet possessing any of its own.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]]  
+**Concetti:** [[concepts/time|tempo]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +81,7 @@ E non può stupirci lo spavento di Rickert. A quanto pare, la gioventù tedesca 
 
 È un po' triste vedere che davanti a un nemico tanto radicale, che in tal modo sembra negare i presupposti stessi dell'atteggiamento antecedente, Rickert non sappia fare altro in questo articolo che sviluppare ancora una volta il caduco «film» della sua filosofia della cultura. Quando precisamente ciò che è in questione è quella filosofia! No, non è la cultura a subire attacchi, ma piuttosto il culturalismo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,concepts/time,forms/essay"></span>
 
 Yo me permito dudar que los términos citados expresen con rigor el nuevo modo de sentir. Sospecho que Rickert no se ha enterado bien de las germinaciones juveniles que inquietan su noble ancianidad. ¿Es que la nueva generación cree poder desentenderse de la ciencia como si fuese la quinta rueda del carro? Semejante resolución no irritaría de seguro a Rickert porque no es compatible con el mínimum de seriedad que todas las cosas han menester si quieren flotar sobre el haz de la historia. Si se tratase simplemente de negar toda estima a la actividad intelectual —a lo que llama el «hombre teorético»— el viejo pensador no hubiera sentido en lo nuevo un temible antagonista. Lo que le hiere es percibir confusamente que una nueva filosofía emerge incontrastable y que esa nueva filosofía no es secuencia de la suya, sino un verdadero amanecer de luces originales. Si se pone en duda la ciencia como valor último —y lo mismo la ética y el arte— todas las filosofías típicas de la Alemania anterior a 1900 quedan decapitadas. Y esto es, en efecto, lo que ocurre. Ciencia y moral y arte —en una palabra, la cultura— han pretendido suplantar la realidad. Por eso se fabricó la filosofía de la cultura. Hoy se presiente que esa suplantación es inaceptable. La cultura no puede ser el valor supremo y absoluto. La ciencia tiene que ceder el rango a la vida, el hombre teorético al hombre integral. Pero esto es lo que pone fuera de sí a un alma tan dulce y sugestiva como la de Rickert: que se hable de la vida. No hace mucho ha escrito contra este nombre un libro: La filosofía de la vida: exposición y crítica de las corrientes filosóficas de moda en nuestro tiempo. Ya el desdén hacia la moda que ostenta este título nos separa de Rickert. Pero lo que hay bajo él nos distancia todavía más. Entre otras cosas porque el autor imita al predicador tradicional que finge un maniqueo estúpido a fin de darse el gusto íntimo de refutar al maniqueo. Ninguno de los sistemas que Rickert critica puede denominarse cabalmente una «filosofía de la vida». Con este nombre se quiere subrepticiamente dar a entender que los nuevos pensadores pretenden hacer de la vida un criterio de conocimiento, un principio teórico que substituya a la razón. Podrá ser lícito a un principiante entender por «[vitalismo](/schools/vitalism)» eso, pero no a un viejo maestro como Rickert. Mas se habla hoy tanto de «vitalismo» entre la gente aficionada a las ideas que no será inoportuno comentar otro día con mayor detalle el libro inoperante del antiguo maestro teutón.
 

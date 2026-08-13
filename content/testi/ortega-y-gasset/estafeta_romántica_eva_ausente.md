@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A letter-review addressed to a lady on the Sociedad de Amigos del Arte's exhibition of female portraits. Its recurring claim: before art, sincerity is not enough («chimpanzee gestures») — one must feel what is fitting; four centuries of Spanish painting produced not one «woman». Art criticism.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +127,7 @@ Solo ci attira profondamente ciò che in qualche senso ci sembra superiore a noi
 
 Ogni uomo padrone di una sensibilità ben temperata ha esperimentato al fianco di qualche donna l'impressione di trovarsi davanti a qualcosa stranamente e assolutamente superiore a lui. Quella donna, è certo, sa meno di scienza di noi, ha meno potere creatore d'arte, non è capace di reggere un popolo né di vincere una battaglia, e nondimeno percepiamo nella sua persona una superiorità su di noi di indole più radicale di qualunque di quelle che possono esistere, per esempio, tra due uomini di uno stesso mestiere. Ed è che le eccellenze virili —talento scientifico o artistico, la destrezza politica e finanziaria, l'eroicità morale— sono, in certo modo, estrinseche alla persona, e, per così dire, strumentali. Il talento consiste in un'attitudine a creare certi prodotti socialmente utili —la scienza, l'arte, la ricchezza, l'ordine pubblico. Ciò che propriamente stimiamo in questi prodotti, e solo un riflesso del valore che attribuiamo loro si proietta sulle doti necessarie a produrli. Non è il poeta, ma la poesia ciò che ci interessa; non è il politico, ma la sua politica. Questo carattere estrinseco dei talenti si fa palese per il fatto che nell'uomo si dà spesso accanto ai più gravi difetti personali. L'eccellenza virile radica, dunque, in un fare: quella della donna in un essere e in uno stare, o con altre parole: l'uomo vale per ciò che fa, la donna per ciò che è.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/epistle"></span>
 
 Tal [circunstancia](/positions/life_as_project) de que el valor del hombre esté condicionado por el resultado de sus acciones, da a nuestro destino fatalmente un carácter problemático, inseguro, relativo y servil. La mujer, en cambio, cuando en ella se realiza un tipo superior de feminidad, no gana nuestra estimación por sus actos, sino que quieta, como la rosa en el rosal, se impone a nuestro entusiasmo. En sus actos no nos importan los resultados: es más, no los tomamos como actos o causas de tales y cuales efectos, sino como gestos en que se manifiesta su soberana personalidad. Las acciones de la mujer superior se convierten a nuestros ojos en emanaciones de su ejemplar esencia, son el perfume de la rosa en el rosal. Frente a un equivocado y trivial feminismo, he creído siempre que para el hombre vivir es trabajar, mientras que para la mujer vivir es irradiar. Pensar otra cosa es querer vanamente suplantar las profundas voluntades de la Naturaleza por nuestros angostos programas de política. La Gioconda, irradiándose a sí misma secularmente desde su marco, ha hecho más en beneficio de la humanidad que los millones de superficiales sufragistas[3].
 

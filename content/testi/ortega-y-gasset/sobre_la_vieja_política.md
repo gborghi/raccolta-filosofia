@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On Primo de Rivera's Directorio: it is right to want an end to the old politics, but Ortega fears the 'old politics' being struck is not the one he would see annihilated. The manifesto coincides with public opinion — that is, with the mass that for fifty years lifted no finger; alongside it, though, are small reflective minorities who also have a right to be heard.
+
+## Connections
+
+**Concetti:** [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +97,7 @@ Una delle caratteristiche della vecchia politica era la debolezza dell'autorità
 
 Avvertimenti di questo lignaggio ci portano alla convinzione che sia completamente illusorio ridurre la «vecchia politica» a una detenzione del Potere pubblico da parte di alcune centinaia di audaci. Se fosse questo, mancherebbe di importanza, e sarebbe stato facilissimo curare il male. Ma è necessario riconoscere con fermezza la pura verità: la «vecchia politica» era ed è il sistema di governo che spontaneamente e intimamente corrisponde al modo di essere degli spagnoli. Pensare altra cosa è voglia di farsi goffe illusioni, ed è, inoltre, la maggiore mancanza di patriottismo: codardia per guardare di fronte la realtà nazionale. Chi veramente aspiri a curare la malattia storica della Spagna deve cominciare con l'osare di vederla e di denunciarla.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/select_minority,forms/essay"></span>
 
 No; la vieja política no es sólo ni siquiera principalmente una serie de abusos —latrocinios, injusticias, ilegalidades— cometidos por unos cuantos hombres. Ha sido, a mi juicio, un error del movimiento militar enfocar exclusivamente por este lado el proceso de rehabilitación nacional. Porque la realidad no es ésa, y la realidad se venga siempre, pronto o tarde, cuando no se la atiende o se la confunde. Es preciso decirlo taxativamente; los políticos españoles no han sido nocivos a la nación por sus abusos. En muchos otros países que llevan vida saludable, los políticos han abusado más que en España. Atacarlos por el frente de los supuestos abusos es caminar ciegamente hacia su reivindicación. Todo lo que se podrá encontrar hurgando en los bajos fondos serán algunas pequeñas canalladas de algún que otro personaje, pero nada que, siquiera a manera de símbolo, explique la profunda desorganización de nuestro cuerpo colectivo y justifique nada menos que un golpe de Estado.
 

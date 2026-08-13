@@ -6,7 +6,7 @@ label_en: "justice"
 aliases:
   - "iustitia"
   - "diritto"
-work_count: 38
+work_count: 36
 tags:
   - "graph/concept"
 title: "giustizia"
@@ -15,7 +15,7 @@ title: "giustizia"
 
 *justice*
 
-## Opere (38)
+## Opere (36)
 
 **Aquinas**
 - [Treatise on the Cardinal Virtues](/testi/aquinas/treatise_on_the_cardinal_virtues)
@@ -55,10 +55,8 @@ title: "giustizia"
 
 **Ortega y Gasset**
 - [Ante el movimiento social](/testi/ortega-y-gasset/ante_el_movimiento_social)
-- [El principio del trabajo](/testi/ortega-y-gasset/el_principio_del_trabajo)
 - [Glosas](/testi/ortega-y-gasset/glosas)
 - [Guerra y ética](/testi/ortega-y-gasset/guerra_y_ética)
-- [Ictiosauros y editores clandestinos Urgencia de una rectificación moral](/testi/ortega-y-gasset/ictiosauros_y_editores_clandestinos_urgencia_de_una_rectificación_moral)
 - [Las formas de gobierno](/testi/ortega-y-gasset/las_formas_de_gobierno)
 - [Los crímenes sociales Comentarios a un discurso](/testi/ortega-y-gasset/los_crímenes_sociales_comentarios_a_un_discurso)
 - [Los votos van al presidio](/testi/ortega-y-gasset/los_votos_van_al_presidio)

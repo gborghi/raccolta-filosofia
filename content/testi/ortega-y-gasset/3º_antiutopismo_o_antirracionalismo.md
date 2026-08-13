@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Perspectivism in its negative form is hostility to utopianism: the utopian conception is one built from "nowhere" that claims to hold for everyone. Ortega accuses rationalism (from Greece to Leibniz and Kant) of imposing an arbitrary form on the real a priori and, when reality resists, taking refuge in an "infinite process" — a uchronism he illustrates with Loeb's lecture on tropisms.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]], [[assi/method|Metodo]]  
+**Posizioni:** [[positions/rationalism|razionalismo]], [[positions/perspectivism|prospettivismo]]  
+**Concetti:** [[concepts/reason|ragione]]  
+**Figure:** [[figures/leibniz|Leibniz]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +124,7 @@ Supponendo una perfetta congruenza nel carattere, portato Lorentz alla politica,
 
 Non è facile esagerare l'importanza di questa svolta a cui Einstein sottopone la scienza fisica. Finora, il ruolo della geometria, della pura ragione, era esercitare un'indiscussa dittatura. Nel linguaggio volgare rimane l'impronta del [sublime](/concepts/sublime) ufficio che alla ragione si attribuiva: il volgo parla dei «dettami della ragione». Per Einstein, il ruolo della ragione è molto più modesto: da dittatrice passa ad essere umile strumento, che deve confermare in ogni [caso](/concepts/fortune) la sua efficacia.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,assi/method,positions/rationalism,positions/perspectivism,concepts/reason,figures/leibniz,forms/essay"></span>
 
 Galileo y Newton hicieron euclidiano al universo, simplemente porque la razón lo dictaba así. Pero la razón pura no puede hacer otra cosa que inventar sistemas de ordenación. Éstos pueden ser muy numerosos y diferentes. La geometría euclidiana es uno; otro, la de Riemann, la de Lobachevski, etcétera. Más claro está que no son ellos, que no es la razón pura quien resuelve cómo es lo real. Por el contrario, la realidad selecciona entre esos órdenes posibles, entre esos esquemas, el que le es más afín. Esto es lo que significa la teoría de la relatividad. Frente al pasado racionalista de cuatro siglos se opone genialmente Einstein e invierte la relación inveterada que existía entre razón y observación. La razón deja de ser [norma](/concepts/law) imperativa y se convierte en arsenal de instrumentos; la observación prueba éstos y decide sobre cuál es el oportuno. Resulta, pues, la ciencia de una mutua selección entre las ideas puras y los puros hechos.
 

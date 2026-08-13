@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial withdrawing the paper's support from the Juntas de Defensa: the quality of the facts has changed, and the people's right to grant credits is a sacred point. A direct continuation of the article on the Juntas' past; political journalism.
 

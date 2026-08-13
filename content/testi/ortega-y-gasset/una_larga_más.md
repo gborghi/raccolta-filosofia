@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Column on the government crisis and on Allendesalazar, the 'grey man' summoned to power precisely because he lacked prestige. Ortega defends the constitutional formula against Cambó ('formula and law are the same thing') and calls for restoring social authority, be it white, red or blue. Political journalism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

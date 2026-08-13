@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Unsigned newspaper column (El Sol, 2 June 1919) on the election results defeating the monarchists in Madrid, Barcelona and Zaragoza under La Cierva's government, nicknamed Tartuffe. Topical political polemic with no philosophical content.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

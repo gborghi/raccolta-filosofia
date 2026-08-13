@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A presentation of Pérez de Ayala's novel A. M. D. G. on life in Jesuit schools, with recollections of Ortega's own childhood at Miraflores del Palo. He distinguishes types of pupil and dwells on the children of "trembling spirit" and strong imagination, who must be held back by being offered wide, concrete realities, since it is from them that poets and thinkers come. Literary criticism and pedagogy, not philosophy.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

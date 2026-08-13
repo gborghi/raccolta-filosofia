@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article on the 1926 unearthing of the Sphinx at Giza: with the lion's body back, the cubist landscape turns reasonable and disappoints. Ortega draws an anti-naturalist thesis — a work of art succeeds insofar as it anaesthetizes us to reality — and notes the sixteen-century rhythm between exhumations.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

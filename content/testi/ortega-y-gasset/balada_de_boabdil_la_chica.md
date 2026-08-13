@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Political satire on caciquismo in Granada: señor La Chica is the "uncircumcised king of Granada", and the bloodshed in the streets refutes the schoolbooks that date the fall of Granada — the fifteenth century survives, only the dynasty has changed. Ortega throws the fact in the face of the "men of order" and closes with Chateaubriand's 1807 visit to the Alhambra. A literary-journalistic piece, not a philosophical one.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

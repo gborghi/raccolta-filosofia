@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An electoral article (Crisol, 27 June 1931): the calling of the constituent Cortes should have been a contest among provinces to send the ablest representatives. Since the best stay in their corner, the lightest push forward; history is a muffled war between the able and the audacious. A wish for the Alicante slate.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

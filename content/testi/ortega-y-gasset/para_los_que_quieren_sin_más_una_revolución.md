@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against those who simply want to 'make' a revolution in Spain: no authentic revolution was ever made by a group, since before it is executed in the street it is already made in the public air; revolutions are not conspiracies but universal collaboration. He also declares he does not believe in the fertility of any revolution, the French one included.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/revolution|rivoluzione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

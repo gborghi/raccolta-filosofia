@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The diagnosis of a phenomenon: people of the finest sensibility leave concerts and museums without pleasure, even while judging the work excellent. Ortega distinguishes authentic feelings from apocryphal ones absorbed by contagion from authority, tradition and fashion — most men live an interior life that is in some measure apocryphal — and credits only "individualities of select condition" with the talent to tell them apart; the phenomenon, found in France and Germany too, demands explanation.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]], [[concepts/passion|passione]], [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -66,7 +73,7 @@ Se ciascuno analizza quell'impressione di sordità estetica che prova nel concer
 
 Nessuno ignora, benché molti non ne approfittino ragionando su cose estetiche, che la situazione di musica e pittura fu, dal 1600 fino alle ultime del XVIII secolo, molto distinta da quella che è stata nel secolo passato. Occupavano, in effetti, un rango molto meno elevato nella gerarchia delle attività umane. L'arte, in tutte le sue forme, era sentita come un orbe inferiore a quello della religione e a quello del pensiero. Dentro l'orbe artistico, musica e pittura si alzavano a lunga distanza dietro la poesia. L'importante di questa prospettiva è che nessuno chiedeva a musica e pittura emozioni di qualità e valore corrispondenti alle attività di primo ordine. Erano soltanto piacevoli passatempi, incantevoli ingredienti del paesaggio vitale. Ma ecco che verso il 1800, in rigor di termini un poco prima, cominciano letterati e filosofi a gonfiare i cani di musica e pittura. Una generazione più tardi, entrambe le arti avevano sloggiato dai loro ranghi superiori la poesia e il pensiero. [Schopenhauer](/figures/schopenhauer) aveva scoperto nella musicalità un interprete supremo degli arcani cosmici e ne aveva fatto una «metafisica senza concetti». Goethe, mosso da Winckelmann e Diderot, dal proprio genio, aveva forgiato uno stile parallelo alla pittura. La poesia detronizzata, finì, con Verlaine, per rifugiarsi in ospedale, mentre Wagner, superando il flautista Schopenhauer, proponeva nel Parsifal un sostituto della religione.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,concepts/passion,concepts/select_minority,forms/essay"></span>
 
 En este sistema de valores hemos sido educados, y el error de perspectiva que en él se cometió ha contribuido no poco a la crisis de placer artístico que ahora sufrimos. Porque no es indiferente dónde coloquemos las cosas. La ley de perspectiva vital no es meramente subjetiva, sino que está fundada en la esencia misma de los objetos que habitan el círculo de nuestra existencia. Es la perspectiva un orden, una estructura, una jerarquía que imponemos al mundo en torno, acomodando su contenido en una serie de planos. El error está en suponer que puede nuestro albedrío decidir cuáles cosas han de ocupar el primer plano, cuáles el segundo, y así sucesivamente. Nada de eso; las cosas por sí, y previamente a la localización que las damos, pertenecen a uno u otro rango. Hay cosas de primer plano y cosas de orden ínfimo. Dejan ciertamente a nuestro capricho un pequeño margen, dentro del cual podemos movilizarlas, dislocarlas sin daño apreciable; pero si traspasamos los límites concedidos, quedan maltrechas, aniquiladas, y la vida, que no es sino nuestro trato con ellas, se desorganiza y degenera. Las cosas de primer plano, relegadas al último término, se debilitan y sucumben; viceversa —y es el [caso](/concepts/fortune) que ahora interesa—, las cosas de orden subalterno, destacadas en primer plano, se agostan y fracasan.
 

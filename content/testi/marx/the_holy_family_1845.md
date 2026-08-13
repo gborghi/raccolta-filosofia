@@ -12,8 +12,19 @@ tags:
   - "philosopher/marx"
 ---
 
+*Marx*
+
 > [!abstract]
 > A polemic (1845) against Bruno Bauer and the Young Hegelians' 'Critical Criticism', attacking speculative idealism and self-consciousness in the name of real humanism.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/meaning_of_history|Senso della storia]], [[assi/god|Dio]]  
+**Posizioni:** [[positions/materialism|materialismo]], [[positions/idealism|idealismo]], [[positions/historical_materialism|materialismo storico]]  
+**Concetti:** [[concepts/self_consciousness|autocoscienza]], [[concepts/religion|religione]], [[concepts/idea|idea]]  
+**Figure:** [[figures/bauer|Bruno Bauer]]  
+**Forme:** [[forms/critique|critica]], [[forms/essay|saggio]]  
+**Scuole:** [[schools/historical_materialism_school|materialismo storico]], [[schools/german_idealism|idealismo tedesco]]
 
 <p class="work-source">Traduzione di Richard Dixon · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -36,7 +47,23 @@ Paris, September 1844
 
 [Engels](/schools/historical_materialism_school), Marx
 
-<span class="atom-split" data-atom="002" data-title="Chapter I. “Critical Criticism in the Form of a Master-Bookbinder”, Or Critical Criticism As Herr Reichardt" data-chapter="Chapter I. “Critical Criticism in the Form of a Master-Bookbinder”, Or Critical Criticism As Herr Reichardt" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il vero umanesimo non ha in Germania un nemico più pericoloso dello spiritualismo o dell’[idealismo](/positions/idealism) speculativo, che sostituisce l’uomo individuale reale con la “[coscienza di sé](/concepts/self_consciousness)” o lo “spirito”, insegnando con toni evangelici: “È lo spirito che dà vita; la carne non è di alcuna utilità”. È ovvio che questo spirito incorporeo è “spirituale” soltanto nell’immaginazione. Quello contro cui ci battiamo nella critica di Bauer è proprio questa speculazione che si riproduce sotto forma di caricatura; in essa vediamo l’espressione più completa del principio cristiano-germanico, il quale compie il suo ultimo sforzo trasformando la “critica” stessa in un potere trascendente.
+
+La nostra esposizione tratta innanzitutto della rivista [Bruno Bauer](/figures/bauer)’s Allgemeine Literatur-Zeitung – i primi otto numeri sono qui davanti a noi – perché in essa la critica di Bauer, e con essa il nonsenso della speculazione tedesca nel suo complesso, ha raggiunto il suo apice. Più la “Critica Critica” (la critica contenuta nella Literatur-Zeitung) distorce la realtà trasformandola in una palese commedia attraverso la filosofia, più essa risulta istruttiva. – Per esempi si vedano Faucher e Szeliga. – La Literatur-Zeitung fornisce materiale con il quale anche il grande pubblico può essere illuminato sulle illusioni della filosofia speculativa. Questo è lo scopo del nostro libro.
+
+La nostra esposizione è naturalmente determinata dal suo argomento. La critica critica, sotto tutti gli aspetti, si trova al di sotto del livello già raggiunto dallo sviluppo teorico tedesco. Pertanto, la natura del nostro argomento giustifica il fatto che qui ci asteniamo da ulteriori discussioni su tale sviluppo stesso.
+
+La critica critica rende necessario, piuttosto che negarla, affermare i risultati già ottenuti per ciò che sono.
+
+Pertanto, presentiamo questa polemica come preliminare ai lavori indipendenti nei quali ognuno di noi, naturalmente per conto proprio, esporrà la propria visione positiva e, di conseguenza, la propria posizione concreta rispetto alle più recenti dottrine filosofiche antisociali.
+
+Parigi, settembre 1844
+
+[Engels](/schools/historical_materialism_school), Marx
+
+<span class="atom-split" data-atom="002" data-title="Chapter I. “Critical Criticism in the Form of a Master-Bookbinder”, Or Critical Criticism As Herr Reichardt" data-chapter="Chapter I. “Critical Criticism in the Form of a Master-Bookbinder”, Or Critical Criticism As Herr Reichardt" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Critical Criticism, however superior to the mass it deems itself, nevertheless has boundless pity for the mass. And therefore Criticism has so loved the mass that it sent its only begotten son, that all who believe in him may not be lost, but may have Critical life. Criticism was made mass and dwells amongst us and we behold its glory, the glory of the only begotten son of the father. In other words, Criticism becomes socialistic and speaks of “works on pauperism.” It considers it not a crime to be equal to God but empties itself and takes the form of a bookbinder and humbles itself even to nonsense, yea, even to Critical nonsense in foreign languages. It, whose heavenly virginal purity shrinks from contact with the sinful leprous mass, overcomes itself to the extent of taking notice of “Boz” and “all original writers on pauperism” and “has for years been following this evil of the present time step by step”; it scorns writing for experts, it writes for the general public, banning all outlandish expressions, all “Latin intricacies, all professional jargon”. It bans all that from the works of others, for it would be too much to expect Criticism itself to submit to “this administrative regulation”. And yet it does do so partly, renouncing with admirable ease, if not the words themselves, at least their content. And who will reproach it for using “the huge heap of unintelligible foreign words” when it repeatedly proves that it does not understand those words itself? Here are a few samples:
 
@@ -88,7 +115,59 @@ After these samples it is no wonder that Critical Criticism gives us a further �
 
 It is self-evident — and history, which proves everything which is self-evident, also proves this — that Criticism does not become mass in order to remain mass, but in order to redeem the mass from its mass-like mass nature, that is, to raise the popular language of the mass to the critical language of Critical Criticism. It is the lowest grade of degradation for Criticism to learn the popular language of the mass and transfigure that vulgar jargon into the high-flown intricacy of the dialectics of Critical Criticism.
 
-<span class="atom-split" data-atom="003" data-title="Chapter II. “Critical Criticism” As a ‘Mill-Owner’, Or Critical Criticism As Herr Jules Faucher (parte 1)" data-chapter="Chapter II. “Critical Criticism” As a ‘Mill-Owner’, Or Critical Criticism As Herr Jules Faucher" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La Critica, per quanto superiore alla massa che considera sua nemica, prova comunque un’immensa compassione per essa. Per questo motivo ha amato così tanto la massa da inviare il suo “unico figlio”, affinché tutti coloro che credono in esso non andassero perduti, ma potessero condurre una vita “critica”. La Critica stessa è diventata parte della massa; vive tra di noi e noi possiamo ammirarne la gloria, la gloria dell’“unico figlio del Padre”. In altre parole, la Critica assume connotati socialistici e parla di “opere riguardanti il problema della povertà”; non ritiene un crimine essere uguali a Dio, ma si umilia fino al punto di assumere forme banali, persino assurde, sì, persino assurdità linguistiche in lingue straniere. Quella purezza celestiale che la rende distante dalla massa peccaminosa e lebbrosa, riesce comunque a prestare attenzione anche a autori “originali” su temi legati alla povertà, e da anni segue passo dopo passo queste tendenze negative del nostro tempo. Disprezza la letteratura destinata agli esperti; scrive per il grande pubblico, vietando ogni espressione eccessivamente complessa o tecnica. Vieta tutto ciò che si trova nelle opere altrui, perché sarebbe troppo chiedere alla Critica stessa di sottomettersi a “regolamentazioni amministrative” del genere. Eppure lo fa, rinunciando con notevole facilità – se non alle parole stesse, almeno ai loro contenuti. E chi potrebbe rimproverarla per l’uso di un gran numero di termini stranieri incomprensibili, quando essa stessa dimostra ripetutamente di non comprenderli? Ecco alcuni esempi.
+
+“Ecco perché le istituzioni della mendicità suscitano in loro orrore.”
+
+“Una dottrina della responsabilità nella quale ogni movimento del pensiero umano diventa un’immagine di quella moglie di Lot.”
+
+“Sul pilastro fondamentale di questo veramente profondo edificio dell’arte.”
+
+“Questo è il contenuto principale del testamento politico di Stein; tale documento fu consegnato dal grande statista ancor prima di ritirarsi dalla vita attiva nel governo e da tutte le sue responsabilità ufficiali.”
+
+“In quel momento, questo popolo non possedeva ancora le condizioni necessarie per godere di una libertà così ampia.”
+
+“Concludendo la sua opera pubblicitaria con parole piene di sicurezza, affermava che mancasse soltanto la fiducia.”
+
+“A quella comprensione che eleva lo spirito umano, che si eleva al di sopra della routine e della paura pusillanime, che si fonda sulla storia e viene nutrita da una percezione vivida dei sistemi politici stranieri.”
+
+“L’[educazione](/concepts/education) al bene comune della nazione.”
+
+“La libertà giaceva morta nel cuore della missione nazionale prussiana, sotto il controllo delle autorità.”
+
+“Pubblicità popolare e organica”.
+
+“Le persone alle quali persino il signor Brüggemann consegna il certificato battesimale che attesta la loro “maturità”, ”
+
+“Una contraddizione piuttosto evidente rispetto alle altre certezze espresse nell’opera riguardante le capacità professionali delle persone.”
+
+“Il misero egoismo dissipa rapidamente tutte le chimere legate alla volontà nazionale.”
+
+“La passione per grandi guadagni, ecc., era lo spirito che permeava l’intero periodo della Restaurazione e che, unita a una certa dose di indifferenza, caratterizzò anche l’inizio dell’era nuova.”
+
+“L’idea vaga che vi sia un significato politico nella nazionalità e nel patriottismo prussi si basa sulla memoria di una grande storia.”
+
+“L’antipatia scomparve e si trasformò in uno stato di estrema eccitazione.”
+
+“In questa meravigliosa transizione, ognuno, a modo suo, continuava comunque a proiettare nel futuro il proprio desiderio particolare.”
+
+“Un catechismo scritto con un linguaggio untuoso, simile a quello di Salomone; parole che si elevano dolcemente, come colpi di rondine, verso regioni di pathos e aspetti imponenti come il tuono.”
+
+“Tutto il dilettantismo derivante da trentacinque anni di trascuratezza.”
+
+“L’aggressiva e violenta reazione da parte di uno dei loro ex funzionari comunali avrebbe potuto essere accettata con la calma caratteristica dei nostri rappresentanti, se la visione che Benda aveva della Carta Comunale del 1808 non fosse stata influenzata da concezioni musulmane riguardo all’essenza e all’applicazione di tale documento.”
+
+In Herr Reichardt, l’audacia dello stile corrisponde sempre all’audacia del pensiero. Egli effettua passaggi del genere:
+
+“Herr Brüggemann, 1843, teoria dello stato, ogni uomo onesto, la grande umiltà dei nostri socialisti, meraviglie naturali, richieste che devono essere fatte alla Germania, meraviglie soprannaturali. Abramo. Filadelfia, manna, panettiere, ma poiché stiamo parlando di meraviglie, Napoleone le portò, ” ecc.
+
+Dopo questi esempi, non sorprende affatto che la Critica Critica ci fornisca un’ulteriore “spiegazione” di una frase che essa stessa descrive come espressa in “linguaggio popolare”, poiché essa “impiega strumenti specifici per penetrare nel caos”. E qui bisogna riconoscere che anche il “linguaggio popolare”, in questo contesto, non può rimanere incomprensibile alla Critica Critica. Quest’ultima è consapevole del fatto che il modo di esprimersi dell’autore debba necessariamente essere tortuoso, se l’individuo che lo adotta non possiede la forza sufficiente per renderlo lineare; e pertanto attribuisce naturalmente all’autore “operazioni logiche o strutturali”.
+
+È ovvio – e la storia, che dimostra tutto ciò che è ovvio, ne fornisce anche la conferma – che la Critica non diventa “massa” al fine di rimanere tale, ma per redimere quella massa dalla sua natura stessa di massa, cioè per elevare il linguaggio popolare della massa al livello del linguaggio critico della Critica Critica. Rappresenta invece il grado più basso di degradazione quando la Critica impara il linguaggio popolare della massa e trasforma quel gergo volgare nella complessità elevata della dialettica della Critica Critica.
+
+<span class="atom-split" data-atom="003" data-title="Chapter II. “Critical Criticism” As a ‘Mill-Owner’, Or Critical Criticism As Herr Jules Faucher (parte 1)" data-chapter="Chapter II. “Critical Criticism” As a ‘Mill-Owner’, Or Critical Criticism As Herr Jules Faucher" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 After rendering most substantial services to [self-consciousness](/concepts/self_consciousness) by humiliating itself to the extent of nonsense in foreign languages, and thereby at the same time freeing the world from pauperism, Criticism still further humiliates itself to the extent of nonsense in practice and history. It masters “English questions of the day” and gives us a genuinely critical outline of the history of English industry.
 
@@ -112,7 +191,31 @@ But Criticism only becomes truly magnificent in its fabrication of stupidities w
 
 “the apparently more immediate help from the repeal of the Corn Laws absorbs most of the wishes of the workers and will do so until no longer doubtful realisation of those wishes practically proves the futility of the repeal” —
 
-<span class="atom-split" data-atom="004" data-title="Chapter II. “Critical Criticism” As a ‘Mill-Owner’, Or Critical Criticism As Herr Jules Faucher (parte 2)" data-chapter="Chapter II. “Critical Criticism” As a ‘Mill-Owner’, Or Critical Criticism As Herr Jules Faucher" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver reso notevoli servizi alla [autoconsapevolezza](/concepts/self_consciousness) umiliandosi al punto di pronunciare sciocchezze in lingue straniere, e liberando così il mondo dalla povertà, la Critica continua a umiliarsi ulteriormente, arrivando a commettere errori pratici e storici. Si occupa delle “questioni attuali dell’inglese” e ci fornisce una descrizione davvero critica della storia dell’industria inglese.
+
+La critica, essendo autosufficiente e completa in sé stessa, naturalmente non può riconoscere la storia così come realmente è avvenuta; ciò significherebbe infatti riconoscere la “massa” nella sua vera natura di massa, mentre il problema consiste proprio nel liberare questa “massa” dalla sua essenza stessa. La storia, pertanto, viene liberata da tale natura di massa; e la critica, avendo un atteggiamento libero nei confronti del suo oggetto, esorta la storia a “essere avvenuta in questo o quel modo”. Tutte le leggi della critica hanno quindi una forza retrospettiva: prima dei decreti della critica, la storia si comportava in modo completamente diverso da come ha fatto dopo di essi. Da ciò deriva che la cosiddetta storia reale, quella caratterizzata dalla natura “massiccia”, si discosta notevolmente dalla storia critica, così come descritta nel settimo numero della “Literatur-Zeitung”, a partire dalla pagina 4.
+
+Nella storia di tipo “massiccio”, non esistevano città industriali prima che venissero costruite le fabbriche; ma nella storia “critica”, in cui, come già in Hegel, il figlio genera il padre, Manchester, Bolton e Preston erano già città industriali fiorenti molto prima che si pensasse anche solo di costruire delle fabbriche. Nella storia reale, l’industria del cotone fu fondata principalmente grazie alla “jenny” di Hargreaves e al “throstle” di Arkwright; il “mule” di Crompton rappresentò soltanto un miglioramento della “jenny”, basato sui nuovi principi scoperti da Arkwright. Ma la storia critica sa come fare distinzioni: disprezza la unilateralità della “jenny” e del “throstle” e attribuisce il ruolo di “cima” al “mule”, considerandolo l’identità speculativa di questi due elementi opposti. In realtà, l’invenzione del “throstle” e del “mule” rese immediatamente possibile l’utilizzo dell’energia idraulica per queste macchine; ma la critica storica distingue i principi confusi dalla storia superficiale e presenta questa applicazione come qualcosa di completamente speciale, che avvenne in un secondo momento. In realtà, l’invenzione della macchina a vapore precedette tutte le altre menzionate; secondo la critica storica, essa rappresenta la “cima” di tutte queste innovazioni e il loro culmine finale.
+
+In realtà, i legami commerciali tra Liverpool e Manchester, nel loro attuale ambito, sono il risultato dell’esportazione di merci inglesi; secondo la “Critica”, invece, tali legami costituiscono la causa stessa dell’esportazione, e entrambi derivano dalla vicinanza delle due città. In realtà, quasi tutte le merci prodotte a Manchester vengono inviate nel Continente attraverso Hull; secondo la “Critica”, invece, questo avviene tramite Liverpool.
+
+Nella realtà, nelle fabbriche inglesi esistono tutti i livelli di retribuzione, da 6 penny fino a 40 penny e più; ma secondo la “Critica”, viene pagato soltanto un unico salario: 11 penny. Nella realtà, la macchina sostituisce il lavoro manuale; secondo la “Critica”, sostituisce anche il pensiero. Nella realtà, in Inghilterra è permesso che i lavoratori si associno per chiedere aumenti salariali; ma secondo la “Critica”, questo è proibito, perché quando la massa vuole concedersi qualcosa, deve prima chiederlo alla “Critica”. Nella realtà, il lavoro in fabbrica è estremamente faticoso e provoca malattie specifiche; esistono persino studi medici dedicati a queste problematiche; secondo la “Critica”, “lo sforzo eccessivo non può ostacolare il lavoro, poiché la forza necessaria viene fornita dalla macchina”. Nella realtà, la macchina è semplicemente una macchina; secondo la “Critica”, essa possiede una volontà, perché, dato che non si ferma mai, nemmeno il lavoratore può riposare, e questi diventa quindi sottomesso a una volontà estranea.
+
+Ma questo non è ancora nulla. La critica non può accontentarsi dei partiti di tipo massiccio esistenti in Inghilterra; essa ne crea di nuovi, incluso un “partito industriale”, per il quale la storia potrebbe esserle grata. D’altra parte, essa mescola insieme proprietari e operai delle fabbriche in un’unica massa – perché preoccuparsi di simili banalità! – e dichiara che gli operai si rifiutarono di contribuire alle Leghe Anticorn Law non per cattiva volontà o a causa del Chartismo, come sostengono quegli stupidi proprietari, ma semplicemente perché erano poveri. Inoltre, essa afferma che con l’abolizione delle leggi inglesi sul grano i lavoratori agricoli dovranno sopportare una riduzione dei salari; su questo punto, tuttavia, dobbiamo osservare con estrema umiltà che quella classe indigente non può essere privata di un altro penny senza finire nella più totale miseria. Essa stabilisce anche che la giornata lavorativa nelle fabbriche inglesi sia di sedici ore, sebbene una stupida legge inglese abbia fissato un limite massimo di dodici ore. Decreta infine che l’Inghilterra debba diventare un enorme laboratorio per il mondo, nonostante la massa ignorante di americani, tedeschi e belgi stia distruggendo uno dopo l’altro i mercati inglesi con la loro concorrenza. Infine, afferma che né le classi proprietarie né quelle non proprietarie in Inghilterra siano consapevoli della centralizzazione della proprietà e delle sue conseguenze per le classi lavoratrici, sebbene quegli stupidi seguaci del Chartismo credano di esserne ben informati; i socialisti sostengono invece che abbiano spiegato dettagliatamente tali conseguenze molto tempo fa, e persino conservatori e whig come Carlyle, Alison e Gaskell ne hanno dimostrato la conoscenza nelle loro opere.
+
+La critica afferma che il disegno di legge delle dieci ore proposto da Lord Ashley rappresenti una misura poco convinta e di compromesso, e che lo stesso Lord Ashley sia “un esempio caratteristico dell’azione costituzionale”. Al contrario, i proprietari di fabbriche, i Chartisti, i proprietari terrieri – in breve, tutte le componenti della struttura sociale inglese – considerano questa misura come l’espressione, per quanto possibile moderata, di un principio decisamente radicale: tale misura, infatti, colpirebbe alla radice il commercio estero e, di conseguenza, anche il sistema industriale. La critica, invece, sa meglio: sa che la questione delle dieci ore è stata discussa davanti a una “commissione” della Camera dei Comuni, sebbene i giornali non critici cerchino di farci credere che questa “commissione” fosse in realtà l’intera Camera stessa. Ma la critica deve necessariamente smascherare questa stranezza della Costituzione inglese.
+
+La “Critica Critica”, che di per sé genera il suo opposto – ovvero la stupidità delle masse – produce anche la stupidità di Sir James Graham: attraverso una comprensione “critica” della lingua inglese, essa attribuisce a quest’ultimo affermazioni che in realtà non ha mai fatto, soltanto per far risaltare ancora di più la saggezza critica rispetto alla sua stessa stupidità. Secondo questa “Critica Critica”, le macchine nelle fabbriche si usurano in circa dodici anni, indipendentemente dal fatto che lavorino dieci o dodici ore al giorno; pertanto, una legge che limitasse l’orario di lavoro a dieci ore renderebbe impossibile per i capitalisti riprodurre, entro dodici anni, il capitale investito nelle macchine stesse. La “Critica Critica” dimostra quindi di aver attribuito falsamente queste opinioni a Sir James Graham: una macchina che lavora un sesto in meno ogni giorno rimarrà naturalmente più funzionante per un periodo più lungo.
+
+Per quanto corretta possa essere questa osservazione della “Critica Critica” riguardo alla sua stessa conclusione errata, bisogna ammettere che Sir James Graham ha affermato che, in base a una legge che riducesse l’orario di lavoro a dieci ore, la macchina dovrebbe funzionare più velocemente in proporzione alla riduzione del suo tempo di attività (la stessa “Critica Critica” cita queste parole a pagina 32, VIII); in tal caso, il periodo nel quale la macchina si logorerebbe rimarrebbe lo stesso: dodici anni. Questo deve essere riconosciuto ancora di più, poiché tale ammissione contribuisce alla gloria e all’illuminazione della “Critica Critica”; infatti, solo questa teoria ha prima tratto una conclusione errata e poi l’ha confutata. La “Critica Critica” è altrettanto generosa nei confronti di Lord John Russell, a cui attribuisce il desiderio di modificare la forma politica dello [stato](/concepts/state) e il sistema elettorale. Da questo si deve concludere che o l’impulso della “Critica Critica” a produrre assurdità sia straordinariamente forte, oppure che Lord John Russell debba essersi trasformato in un sostenitore di questa teoria nell’ultima settimana.
+
+Ma la Critica diventa davvero magnifica nella sua capacità di inventare assurdità quando scopre che i lavoratori inglesi – quei lavoratori che ad aprile e maggio hanno tenuto riunione dopo riunione, redatto petizione dopo petizione, sempre per il disegno di legge sulle dieci ore di lavoro, e che hanno dimostrato un’agitazione senza precedenti nei quartieri industriali – in realtà provano soltanto un “interesse parziale” su questa questione, nonostante sia evidente che anche la “legislazione volta a limitare la giornata lavorativa abbia attirato la loro attenzione”. La Critica è davvero magnifica quando finalmente compie quella grande, gloriosa, inaudita scoperta.
+
+“L’aiuto apparentemente più immediato derivante dall’abolizione delle Leggi sul Grano assorbe la maggior parte dei desideri dei lavoratori, e continuerà a farlo finché la concreta realizzazione di tali desideri non dimostri in modo inequivocabile l’inutilità di tale abolizione”.
+
+<span class="atom-split" data-atom="004" data-title="Chapter II. “Critical Criticism” As a ‘Mill-Owner’, Or Critical Criticism As Herr Jules Faucher (parte 2)" data-chapter="Chapter II. “Critical Criticism” As a ‘Mill-Owner’, Or Critical Criticism As Herr Jules Faucher" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 proves it to workers who drag Anti-Corn-Law agitators down from the platform at every public meeting, who have seen to it that the Anti-Corn-Law League no longer dares to hold a public meeting in any English industrial town, who consider the League to be their only enemy and who, during the debate of the Ten Hour Bill — as nearly always before in similar matters — had the support of the Tories. Criticism is superb, too, when it discovers that “the workers still let themselves be lured by the sweeping promises of the Chartist movement”, which is nothing but the political expression of public opinion among the workers. Criticism is superb, too, when it realises, in the depths of its Absolute Spirit, that
 
@@ -124,7 +227,19 @@ Freely creating its opposite — nonsense — and moving in artistic rapture, Cr
 
 That Criticism reforms English history and the English language out of principle and not out of levity will presently be provided by the thoroughness with which it treats the history of Herr Nauwerck.
 
-<span class="atom-split" data-atom="005" data-title="Chapter III. “The Thoroughness of Critical Criticism”, Or Critical Criticism As Herr J. (Jungnitz?)" data-chapter="Chapter III. “The Thoroughness of Critical Criticism”, Or Critical Criticism As Herr J. (Jungnitz?)" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Lo dimostra ai lavoratori che, ad ogni riunione pubblica, trascinano giù dal podio gli agitatori contro le leggi sul grano; quei lavoratori hanno fatto sì che la Lega contro queste leggi non osi più tenere riunioni pubbliche in nessuna città industriale inglese; considerano la Lega il loro unico nemico e, durante il dibattito sulla legge delle dieci ore – come quasi sempre in simili occasioni – hanno ricevuto il sostegno dei conservatori. La critica è anche eccellente quando scopre che “i lavoratori si lasciano ancora ingannare dalle promesse vaste e generiche del movimento cartista”, il quale non rappresenta altro che l’espressione politica dell’opinione pubblica tra i lavoratori. La critica è ancora eccellente quando, nel profondo del proprio “Spirito Assoluto”, si rende conto.
+
+“I due gruppi di partito, quello politico e quello dei proprietari terrieri e dei proprietari di mulini, non desiderano più fondersi o coincidere tra loro”.
+
+Finora non era noto che il gruppo politico formato dai proprietari terrieri e dai proprietari di mulini, a causa della scarsa numericità di entrambe queste classi e dei diritti politici uguali di ciascuna (ad eccezione dei pochi nobili), fosse così esteso da coincidere completamente con gli altri gruppi politici, rappresentandone non semplicemente l’espressione più coerente, ma il suo apice. La critica diventa davvero preziosa quando suggerisce che i membri dell’Anti-Corn-Law League non comprendano che, a parità di altre condizioni, una diminuzione del prezzo del pane debba necessariamente essere seguita da una riduzione dei salari, in modo che tutto rimanga com’è; invece questi individui si aspettano che, anche in presenza di un calo dei salari e di una conseguente diminuzione dei costi di produzione, il risultato sia uno sviluppo del mercato. Sperano che ciò porti a una riduzione della concorrenza tra i lavoratori, e quindi che i salari rimangano ancora leggermente più alti rispetto al prezzo del pane rispetto a quanto avviene attualmente.
+
+Creando liberamente il proprio opposto – il nonsenso – e muovendosi in un’estasi artistica, la Critica, che soltanto due anni fa esclamava “La critica parla tedesco, la teologia parla latino!”, ha ora imparato l’inglese e chiama i proprietari terrieri “Landeigner” (proprietari di terre), i proprietari delle fabbriche “Mühleigner” (proprietari di mulini – in inglese, con “mulino” si intende qualsiasi fabbrica dotata di macchinari azionati a vapore o acqua) e i lavoratori “Hände” (mani). Invece di “Einmischung” usa il termine “Interferenz”; e nella sua infinita pietà verso la lingua inglese, la cui natura peccaminosa è ampiamente evidente, si degrada persino a migliorarla eliminando quella pedanteria tipica degli inglesi, che aggiungono il titolo “Sir” davanti al nome cristiano dei cavalieri e dei baronetti. Laddove la lingua comune dice “Sir James Graham”, la Critica scrive semplicemente “Sir Graham”.
+
+Il fatto che la critica riformi la storia inglese e la lingua inglese per principio, e non per leggerezza, sarà dimostrato dalla meticolosità con cui affronta la storia di Herr Nauwerck.
+
+<span class="atom-split" data-atom="005" data-title="Chapter III. “The Thoroughness of Critical Criticism”, Or Critical Criticism As Herr J. (Jungnitz?)" data-chapter="Chapter III. “The Thoroughness of Critical Criticism”, Or Critical Criticism As Herr J. (Jungnitz?)" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Criticism cannot ignore Herr Nauwerck’s infinitely important dispute with the Berlin Faculty of Philosophy. It has indeed had a similar experience and it must take Herr Nauwerck’s fate as a background in order to put its own dismissal from Bonn in sharper relief. Criticism, being accustomed to considering the Bonn affair as the event of the century, and having already written the “philosophy of the deposition of criticism”, could be expected to give a similar detailed philosophical construction of the Berlin “collision”. Criticism proves [a priori](/positions/transcendental_criticism) that everything had to happen in such a way and no other. It proves:
 
@@ -154,7 +269,37 @@ Criticism disposes of these important questions with rare thoroughness in four p
 
 Having “abolished” in itself the “element” of thoroughness, Critical Criticism becomes “the tranquillity of knowledge”.
 
-<span class="atom-split" data-atom="006" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 1)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La critica non può ignorare la controversia di estrema importanza sorta tra il signor Nauwerck e la Facoltà di Filosofia di Berlino. Quest’ultima, infatti, ha vissuto un’esperienza simile e deve considerare la sorte del signor Nauwerck come contesto per comprendere più chiaramente la propria esclusione da Bonn. La critica, abituata a considerare l’episodio di Bonn come l’avvenimento del secolo e aver già formulato una “filosofia della destituzione della critica”, si sarebbe potuta aspettare di fornire una spiegazione filosofica altrettanto dettagliata riguardo all’“incidente” di Berlino. La critica dimostra, in modo [a priori](/positions/transcendental_criticism), che tutto doveva accadere esattamente in quel modo e non in altro. Dimostra.
+
+1) Perché la Facoltà di Filosofia era destinata ad entrare in “conflitto” non con un logico o un metafisico, ma con un filosofo dello [stato](/concepts/state).
+
+2) Perché quella collisione non poté essere così intensa e decisiva come lo scontro tra la Critica e la teologia a Bonn.
+
+3) Perché quell’incidente, in senso stretto, fu una cosa assurda: la Critica aveva già concentrato tutti i principi e tutto il contenuto nella sua “collisione” di Bonn, rendendo così la storia del mondo incapace di essere altro che un plagiatore della Critica stessa.
+
+4) Perché la Facoltà di Filosofia considerava gli attacchi alle opere del signor Nauwerck come attacchi contro di sé stessa;
+
+5) Perché non restava altro per il signor N se non ritirarsi di sua spontanea volontà;
+
+6) Perché la Facoltà doveva difendere il signor N., se non voleva smentirsi?
+
+7) Perché la “scissione interna all’interno della Facoltà doveva necessariamente manifestarsi in questo modo”, tanto da far sì che la Facoltà dichiarasse contemporaneamente sia N. che il Governo nel giusto e nell’errore?
+
+8) Perché la Facoltà non trova nelle opere di N. alcun motivo per respingerlo;
+
+9) Cosa ha determinato l’ambiguità dell’intero verdetto?
+
+10) Perché la Facoltà “si ritiene (!) avere il diritto (!), in qualità di autorità scientifica, di esaminare l’essenza della questione”; e infine.
+
+11) Perché, allora, la Facoltà non vuole scrivere nello stesso modo del signor N.?
+
+La “Critica” affronta queste importanti questioni con una rara completezza in soli quattro pagine, dimostrando, attraverso la logica di Hegel, perché tutto sia dovuto accadere proprio in quel modo e perché nessun dio avrebbe potuto impedirlo. In un altro passaggio, la “Critica” afferma che non esista ancora una conoscenza completa neanche di una singola epoca della storia; la modestia le impedisce di dichiarare di possedere una conoscenza completa almeno delle proprie interazioni con quelle di Nauwerck, le quali, sebbene non costituiscano vere e proprie epoche, sembrano alla “Critica” avere un’importanza decisiva per lo sviluppo storico.
+
+Avendo “abolito” in sé l’“elemento” della meticolosità, la Critica Critica diventa “la tranquillità della conoscenza”.
+
+<span class="atom-split" data-atom="006" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 1)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 1) Flora Tristan’s “Union Ouvrière
 
@@ -214,7 +359,67 @@ And soon all trace of her did vanish
 
 Once she had bidden them adieu.
 
-<span class="atom-split" data-atom="007" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 2)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+1) “Union Ouvrière” di Flora Tristan
+
+I socialisti francesi sostengono che il lavoratore produca tutto, crei tutto, eppure non abbia diritti, non possieda nulla, insomma, non abbia assolutamente nulla. La critica risponde con le parole di Herr Edgar, personificazione della tranquillità della Conoscenza:
+
+“Per poter creare tutto, è necessaria una coscienza più forte di quella del lavoratore. L’unica affermazione vera sarebbe l’opposto di quanto detto sopra: il lavoratore non crea nulla, quindi non possiede nulla; ma la ragione per cui non crea nulla è che il suo lavoro è sempre individuale, mira alle sue esigenze più personali ed è un lavoro quotidiano.”
+
+Qui la Critica raggiunge un livello di astrazione tale da considerare soltanto le creazioni del proprio pensiero e le generalità che contraddicono ogni realtà come “qualcosa”, anzi come “tutto”. Il lavoratore non crea nulla, poiché produce soltanto oggetti “individuali”, cioè percepibili, tangibili, privi di spirito e non soggetti a critica; tali oggetti rappresentano un’abominazione agli occhi della Critica pura. Tutto ciò che è reale e vivente è privo di caratteristiche critiche, ha una natura di massa e quindi è “nulla”; soltanto le creature ideali e fantastiche generate dalla Critica sono considerate “tutto”.
+
+Il lavoratore non crea nulla, perché il suo lavoro rimane individuale e ha come oggetto soltanto le sue esigenze personali; in altre parole, perché nel presente sistema mondiale i diversi settori dell’[lavoro](/concepts/labour) sono separati tra loro e addirittura in opposizione reciproca; in breve, perché il lavoro non è organizzato. La stessa proposta della critica, se intesa nel solo senso ragionevole che possa avere, richiede proprio l’organizzazione del lavoro. Flora Tristan, nella valutazione della cui opera emerge questa importante tesi, formula lo stesso richiamo e viene trattata con disprezzo per la sua “insolenza” nell’anticipare i concetti della Critica Critica. Comunque sia, l’affermazione secondo cui il lavoratore non crei nulla è assolutamente assurda, se non nel senso che il singolo lavoratore non produce nulla di completo, il che è una tautologia. La Critica Critica non crea nulla; è il lavoratore a creare tutto, e tanto è vero che persino le sue creazioni intellettuali mettono in ombra l’intera critica: i lavoratori inglesi e francesi ne sono la prova concreta. Il lavoratore crea addirittura l’uomo stesso; il critico, invece, non creerà mai nulla di superiore all’essere umano, anche se, d’altra parte, può godersi la soddisfazione di essere un “critico critico”.
+
+“Flora Tristan rappresenta un esempio di quel dogmatismo femminile che, necessariamente, deve trovare una forma concreta e la costruisce utilizzando le categorie di ciò che esiste.”
+
+La critica non fa altro che “costruire formule partendo dalle categorie di ciò che esiste”, cioè dalla filosofia hegeliana esistente e dalle aspirazioni sociali attuali. Formule, nient’altro che formule. E nonostante tutte le sue invettive contro il dogmatismo, si condanna essa stessa al dogmatismo, anzi, a un tipo di dogmatismo particolarmente “femminile”. È e rimane una vecchia donna: la filosofia hegeliana, ormai appassita e vedova, che si dipinge e si abbellisce con le sue stesse astrazioni, cercando in tutta la Germania qualcuno che possa “innamorarsi” di lei.
+
+2) Béraud sulle prostitute
+
+Il signor Edger, mosso da compassione per le questioni sociali, si intromette anche nelle “condizioni delle prostitute” (Heft V,, ).
+
+Critica il libro del commissario di polizia di Parigi Be’raud sull’ prostituzione perché gli preoccupa “il punto di vista” da cui Be’raud esamina l’atteggiamento delle prostitute verso la società. La “tranquillità della conoscenza” rimane sorpresa nel vedere che un poliziotto adotti il punto di vista stesso della polizia, e ciò aiuta le masse a comprendere quanto tale punto di vista sia errato. Tuttavia, questa critica non rivela mai il proprio punto di vista. Naturalmente no! Quando la critica si occupa delle prostitute, non si può certo aspettarsi che lo faccia in modo pubblico.
+
+3) Amore
+
+Per completare la propria trasformazione nella “tranquillità della conoscenza”, la Critica Critica deve prima sbarazzarsi dell’amore. L’amore è una passione, e nulla rappresenta un pericolo maggiore per la tranquillità della conoscenza di quanto la passione stessa. Ecco perché, parlando dei romanzi di Madame von Paalzow che, ci assicura, ha “studiato a fondo”, il signor Edgar si mostra stupito di fronte a qualcosa di così “infantile” come l’amore. L’amore è un orrore, un abominio che suscita la rabbia della Critica Critica, rendendola quasi amara quanto il galle, anzi, folle.
+
+“L’amore, è una dea crudele; come ogni divinità, desidera possedere l’intero essere umano e non si accontenta finché quest’ultimo non le ha consegnato non solo l’anima, ma anche il proprio corpo. La [adorazione](/concepts/religion) dell’amore è sofferenza; il culmine di questa adorazione è l’autodistruzione, il suicidio.”
+
+Per trasformare l’amore nel “Moloch”, cioè nell’incarnazione del diavolo, il signor Edgar lo trasforma prima in una dea. Quando l’amore diventa una dea, ovvero un oggetto teologico, viene naturalmente sottoposto a critica teologica; inoltre, è noto che Dio e il diavolo non sono molto distanti tra loro. Il signor Edgar trasforma l’amore in una “dea”, anzi in una “dea crudele”, modificando l’uomo che ama, l’amore umano, in un essere separato dall’uomo stesso e quindi indipendente da esso. Attraverso questo semplice processo – trasformando il predicato nel soggetto – tutti gli attributi e le manifestazioni della [natura umana](/axes/human_nature) possono essere trasformati criticamente nella loro negazione, nell’allontanamento dalla vera natura dell’uomo. Così, ad esempio, la “Critica Critica” trasforma la critica, come predicato e attività umana, in un soggetto separato; una critica che si relaziona a se stessa e quindi diventa essa stessa “Critica Critica”: un “Moloch”, il cui culto consiste nell’autodistruzione, nel suicidio dell’uomo, e in particolare nella distruzione della sua capacità di pensare.
+
+“Obiezione”, esclama la tranquillità della conoscenza, “‘oggetto’ è l’espressione giusta: l’amato è infatti importante per l’amante soltanto in quanto oggetto esterno dell’emozione della sua anima, come l’elemento attraverso il quale desidera vedere soddisfatti i propri sentimenti egoistici”.
+
+Un oggetto. Orribile! Non c’è nulla di più dannoso, più profano, più simile a una massa di materia di un oggetto. Quanto è volgare e spregevole un oggetto! Come potrebbe l’assoluta soggettività, l’atto puro, la “Critica pura”, non vedere nell’amore il proprio nemico giurato, quel Satana incarnato? L’amore, infatti, è ciò che insegna davvero all’uomo a credere nel mondo oggettivo che esiste al di fuori di sé; l’amore trasforma non solo l’uomo in un oggetto, ma anche quell’oggetto in un uomo.
+
+L’amore mantiene la tranquillità della conoscenza; oltre a ciò, non si accontenta nemmeno di trasformare l’uomo nella categoria di “oggetto” per un altro uomo, ma lo rende addirittura un oggetto concreto, reale, un individuo negativo (si veda la Fenomenologia dello spirito di Hegel riguardo alle categorie “Questo” e “Quello”, dove si trova anche una polemica contro il negativo “Questo”), un oggetto esterno che non rimane interno, nascosto nel cervello, ma è manifestato sensibilmente.
+
+Amore
+
+La vita non è confinata esclusivamente nel cervello.
+
+No, l’amato è un oggetto sensuale; e se la Critica Critica dovesse degnarsi di riconoscere tale oggetto, richiederebbe almeno che si trattasse di un oggetto privo di significato profondo. Ma l’amore è qualcosa di non critico, di non cristiano, un atteggiamento materialista.
+
+Infine, l’amore fa sì che un essere umano diventi “questo oggetto esterno dell’emozione dell’anima” di un altro; un oggetto nel quale il sentimento egoistico di uno trova soddisfazione. Un sentimento egoistico, perché cerca nella persona amata la propria essenza, ma ciò non dovrebbe accadere. La Critica Critica, invece, è completamente libera da ogni forma di egoismo: per essa, l’intero spettro dell’essenza umana si esaurisce nel proprio sé stesso.
+
+Certamente, il signor Edgar non ci spiega in che modo l’amore si distingua dagli altri “oggetti esterni dell’emozione dell’anima nei quali i sentimenti egoistici degli uomini trovano soddisfazione”. L’oggetto dell’amore, profondo, significativo e altamente espressivo, non rappresenta nulla per la tranquillità della conoscenza se non una formula astratta: “questo oggetto esterno dell’emozione dell’anima”; allo stesso modo, la cometa non significa nulla per il filosofo naturale speculativo se non “negatività”. Quando l’uomo rende se stesso l’oggetto esterno dell’emozione della propria anima, in realtà gli attribuisce un certo “significato”, ammette lo stesso la Critica Critica, ma soltanto un significato oggettivo, per così dire; mentre il significato che la Critica attribuisce agli oggetti non è altro che quello che essa stessa si attribuisce. Pertanto, questo significato non risiede nell’“essere esterno”, ma nel “Niente” dell’oggetto ritenuto importante dalla Critica.
+
+Se la tranquillità della conoscenza non ha alcun oggetto nell’uomo reale, d’altra parte possiede una causa nell’umanità stessa. L’amore critico “si impegna soprattutto a non dimenticare la causa che si nasconde dietro la personalità, poiché tale causa non è altro che quella dell’umanità”. L’amore acritico, invece, non separa l’umanità dall’individuo umano concreto.
+
+L’amore stesso, in quanto passione astratta che non sappiamo da dove venga né dove vada, è incapace di avere un interesse per lo sviluppo interno.
+
+Negli occhi della tranquillità della conoscenza, l’amore è una passione astratta, secondo la terminologia speculativa che definisce ciò che è concreto come astratto e ciò che è astratto come concreto.
+
+La serva non era nata in quella valle.
+
+Ma da dove provenisse, nessuno lo sapeva.
+
+E presto ogni traccia di lei scomparve.
+
+Non appena li ebbe congedati.
+
+<span class="atom-split" data-atom="007" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 2)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 For abstraction, love is “the maid from a foreign land” who has no dialectical passport and is therefore expelled from the country by the Critical police.
 
@@ -258,7 +463,51 @@ The Critical Proudhon does not give any reason why incomplete knowledge of moral
 
 The Critical Proudhon says:
 
-<span class="atom-split" data-atom="008" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 3)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Per quanto riguarda l’astrazione, l’amore è “la fanciulla di una terra straniera” che non possiede un “passaporto dialettico” e quindi viene espulsa dal paese dalla polizia critica.
+
+La passione d’amore è incapace di interessarsi allo sviluppo interno, poiché non può essere concepita in modo [a priori](/positions/transcendental_criticism); il suo sviluppo avviene infatti nel mondo dei sensi e tra individui reali. Tuttavia, l’interesse principale della costruzione speculativa riguarda i “Dove viene” e i “Verso dove si dirige”. Il “Dove viene” indica “la necessità di un concetto, la sua dimostrazione e deduzione” (Hegel); il “Verso dove si dirige” rappresenta quella determinazione attraverso cui ogni tappa del percorso speculativo, in quanto contenuto vivente della [metodo](/axes/method), diventa al contempo l’inizio di una nuova tappa. Pertanto, solo se i “Dove viene” e i “Verso dove si dirige” dell’amore potessero essere concepiti in modo a priori, quest’ultimo meriterebbe davvero l’“interesse” della Critica speculativa.
+
+Quello contro cui si batte la “Critica Critica” non è semplicemente l’amore, ma tutto ciò che è vivente, tutto ciò che è immediato, ogni esperienza sensuale, qualsiasi esperienza reale: il “Dove viene” e il “Dove va”, di cui nessuno conosce mai in anticipo nulla.
+
+Superando l’amore, il signor Edgar si è completamente affermato come rappresentante della “tranquillità della conoscenza”; ora, con il suo modo di trattare Proudhon, può dimostrare una grande virtuosità nel campo della conoscenza, la cui “oggetto” non è più “questo oggetto esterno”, e ancora maggiore mancanza di amore per la lingua francese.
+
+4) Proudhon
+
+Non fu Proudhon in persona, ma “il punto di vista di Proudhon”, ci informa la Critical Criticism, a scrivere “Che cos’è la proprietà?”.
+
+“Inizio la mia esposizione del punto di vista di Proudhon caratterizzandone l’opera ‘Che cos’è la proprietà?’.”
+
+Poiché soltanto le opere considerate dal punto di vista critico possiedono un carattere proprio, la caratterizzazione critica inizia necessariamente attribuendo un carattere specifico all’opera di Proudhon. Herr Edgar attribuisce a quest’opera un certo carattere traducendola; naturalmente, gliene attribuisce uno negativo, poiché la trasforma in oggetto di “critica”.
+
+Pertanto, l’opera di Proudhon è soggetta a un doppio attacco da parte del signor Edgar: uno silenzioso nella sua traduzione descrittiva e uno esplicito nei suoi commenti critici. Vedremo che il signor Edgar è ancora più devastante quando traduce che quando commenta.
+
+Caratteristiche della traduzione n. 1
+
+“Non desidero” (dice Proudhon nella sua traduzione critica) “proporre alcun sistema nuovo; non chiedo nulla se non l’abolizione dei privilegi, l’abolizione della schiavitù. Giustizia, soltanto giustizia: è ciò che intendo.”
+
+Il Proudhon descritto in questo contesto si limita alla volontà e all’opinione, poiché “buona volontà” e “opinione” non scientifiche sono attributi caratteristici della massa acritica. Il Proudhon descritto si comporta con l’umiltà che è degna di una massa e sottomette ciò che desidera a ciò che non desidera; non osa pretendere di voler proporre un sistema nuovo, desidera poco, o addirittura nulla, se non l’abolizione dei privilegi. Oltre a questa sottomissione critica della propria volontà alla volontà altrui, la sua stessa espressione è caratterizzata da una mancanza di logica evidente. Un autore che inizia un libro dichiarando di non voler proporre alcun sistema nuovo dovrebbe dirci allora ciò che effettivamente desidera offrire: si tratti di un vecchio sistema sistematizzato o di un nuovo sistema non sistematizzato. Ma il Proudhon descritto, che non vuole proporre alcun sistema nuovo, desidera davvero l’abolizione dei privilegi? No. Lui semplicemente la vuole.
+
+Il vero Proudhon dice: “Non creo alcun sistema; chiedo solo la fine dei privilegi”, ecc. Non formula alcun sistema teorico; formula soltanto richieste pratiche rivolte alla società. E queste richieste non sono arbitrarie, ma motivate e giustificate da tutto il suo ragionamento; rappresentano, secondo lui, la sintesi di tale ragionamento, e mirano esclusivamente alla “giustizia”. Con le sue parole “Giustizia, nient’altro che giustizia. Questo è il riassunto del mio discorso”, Proudhon si colloca in una posizione particolarmente imbarazzante, poiché in realtà intende molto di più. Secondo Herr Edgar, ad esempio, egli “intende” dire che la filosofia non è stata abbastanza pratica, o che vuole confutare Charles Comte, e così via.
+
+Il “Proudhon critico” si chiede: “Dovrebbe dunque l’uomo essere sempre infelice?” In altre parole, si interroga se l’infelicità sia il destino morale dell’uomo. Il vero Proudhon, invece, è un francese dal modo di pensare spensierato; egli si chiede se l’infelicità sia una necessità materiale, qualcosa che non possa essere evitato. (L’uomo deve essere eternamente malheureux?)
+
+Il Proudhon di tipo “massiccio” afferma: “E senza soffermarmi sulle spiegazioni fornite da tutti coloro che propongono riforme, accusando questi ultimi della miseria generale, li si incolpa della codardia e dell’imperizia del potere; accusando quelli di essere dei cospiratori o degli organizzatori di rivolte, si attribuisce la colpa alla ignoranza e alla corruzione diffusa, ecc.”
+
+L’espressione “à toute fin” essendo un termine poco comune e non presente nei dizionari tedeschi di uso comune, il Proudhon critico omette naturalmente questa definizione più precisa delle “spiegazioni”. Questo termine deriva dalla giurisprudenza francese di uso comune; “explications, à toute fin” indica spiegazioni che escludono qualsiasi possibilità di obiezione. Il Proudhon critico denuncia i “Riformisti”, ovvero il Partito Socialista Francese; il Proudhon di uso comune, invece, critica gli iniziatori delle riforme. Il Proudhon di uso comune distingue diverse categorie di “promotori di riforme”: alcuni dicono una cosa, altri ne dicono un’altra ancora diversa. Il Proudhon critico, invece, accusa gli stessi riformisti ora di questo, ora di quello, il che dimostra comunque la loro incoerenza. Il vero Proudhon, seguendo le pratiche francesi di uso comune, parla di “i congiuratori e le rivolte”, cioè prima dei congiuratori e poi delle loro attività ribelli. Il Proudhon critico, invece, avendo mescolato insieme diverse categorie di riformisti, classifica semplicemente i ribelli come tali; parla quindi di “i congiuratori e i ribelli”. Il Proudhon di uso comune si riferisce all’ignoranza e alla “corruzione generale”; il Proudhon critico trasforma l’ignoranza in stupidità, la “corruzione” in “depravazione”, e infine, nel suo ruolo di critico, rende questa stupidità qualcosa di universale. Lui stesso ne fornisce un esempio immediato: utilizza il termine “générale” al singolare invece che al plurale, scrivendo “l’ignorance et la corruption générale”, cioè “stupidità e depravazione generali”. Secondo le regole grammaticali francesi non critiche, invece, dovrebbe essere scritto “l’ignorance et les corruption générales”.
+
+Il Proudhon descritto in questo testo, che parla e pensa in modo diverso rispetto alla massa, ha necessariamente seguito un percorso educativo del tutto diverso. Ha “mettuto in discussione gli esperti di scienza, letto centinaia di volumi di filosofia e diritto, ecc., e infine si è reso conto che fino ad oggi non abbiamo mai compreso il vero significato di termini come Giustizia, Equità, Libertà”. Il vero Proudhon credeva di aver capito subito ciò che il Proudhon “critico” ha realizzato soltanto in un secondo momento. Questo cambiamento nel modo di concepire le cose è necessario, perché la massa potrebbe non ritenere di aver compreso nulla “subito”. Il Proudhon tipico della massa descrive esplicitamente come sia rimasto sbalordito dai risultati inaspettati delle sue ricerche e come li abbia messi in dubbio; per questo ha deciso di condurre una sorta di “controindagine”, ponendosi domande del tipo: “È possibile che l’umanità si sia sbagliata così a lungo e su scala così vasta riguardo ai principi applicabili nella morale? Come e perché è successo?” Ha fatto dipendere la correttezza delle sue osservazioni dalla risoluzione di queste domande. Ha scoperto che, come in tutte le altre discipline del sapere, anche in ambito morale gli errori rappresentano “fasi dello sviluppo scientifico”. Il Proudhon “critico”, invece, si fidava immediatamente delle prime impressioni suscitate dai suoi studi di economia politica, diritto e simili. Ovviamente, la massa non può procedere in modo approfondito; tende inevitabilmente a considerare i primi risultati delle sue ricerche come verità indiscutibili. “Raggiunge la fine prima ancora di aver iniziato, prima ancora di confrontarsi con il proprio opposto”. Per questo motivo, “in seguito si scopre che non è ancora nemmeno all’inizio quando crede di essere arrivata alla fine”.
+
+Pertanto, il “Proudhon critico” prosegue nel suo ragionamento in modo del tutto insostenibile e incoerente.
+
+“La nostra conoscenza delle leggi morali non è completa fin dall’inizio; pertanto, per un certo periodo può essere sufficiente al [PROGRESSO](/positions/progress) sociale, ma a lungo andare ci porterà su una strada sbagliata.”
+
+Il Proudhon critico non fornisce alcuna spiegazione del perché una conoscenza incompleta delle leggi morali possa essere sufficiente al progresso sociale, anche solo per un giorno. Il vero Proudhon, dopo essersi chiesto se e perché l’umanità potesse aver commesso errori su larga scala per così lungo tempo, ha risposto ritenendo che tutti gli errori siano fasi dello sviluppo scientifico e che i nostri giudizi più imperfetti contengano una quantità di verità sufficiente per formulare determinate conclusioni e guidarci in ambiti specifici della vita pratica. Tuttavia, al di là di questi limiti, tali giudizi porterebbero teoricamente all’assurdo e praticamente al declino. Pertanto, il vero Proudhon può affermare che anche una conoscenza incompleta delle leggi morali possa essere sufficiente al progresso sociale, per un certo periodo almeno.
+
+Il Proudhon critico afferma:
+
+<span class="atom-split" data-atom="008" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 3)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 “But if new knowledge has become necessary, a bitter struggle arises between the old prejudices and the new idea.”
 
@@ -322,7 +571,71 @@ According to the un-Critical Proudhon, the Romans reasoned more logically. The f
 
 And the mass-type Proudhon adds, referring to law: “Rome’s claims were justified by the law of nations (droit des gens).” This way of proving the right of subjugation was completely in keeping with the Roman view on law. See the mass-type pandects: “jure gentium servitus invasit” (Fr. 4. D.I.I).”
 
-<span class="atom-split" data-atom="009" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 4)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+“Ma se nuove conoscenze diventano necessarie, sorge una dura lotta tra gli antichi pregiudizi e le nuove idee.”
+
+Come può sorgere una lotta contro un avversario che ancora non esiste? È vero, il Proudhon critico ci ha detto che un’idea nuova è diventata necessaria, ma non ha mai affermato che essa sia già esistita.
+
+Il Proudhon di tipo “massiccio” afferma:
+
+“Una volta che una conoscenza più profonda diventa indispensabile, essa non manca mai; è quindi sempre a disposizione. È allora che inizia la vera lotta.”
+
+Il Proudhon critico afferma: “È destino dell’uomo imparare passo dopo passo”, come se l’uomo non avesse un destino del tutto diverso, ovvero quello di essere uomo, e come se quell’apprendimento “passo dopo passo” lo portasse necessariamente più avanti. Posso procedere passo dopo passo e arrivare esattamente al punto da cui sono partito. Il Proudhon non critico, invece, parla non di “destino”, ma della condizione necessaria affinché l’uomo possa imparare non passo dopo passo, ma gradualmente. Il Proudhon critico si dice:
+
+“Tra i principi su cui si fonda la società, ce n’è uno che essa stessa non comprende; questo principio viene corrotto dall’ignoranza della società ed è la causa di ogni male. Tuttavia, l’uomo lo onora, e lo vuole, altrimenti non avrebbe alcun potere. Ora, questo principio, vero nella sua essenza, ma falso nel modo in cui lo concepiamo, qual è?”
+
+Nella prima frase, il Proudhon critico afferma che questo principio sia stato corrotto e frainteso dalla società; pertanto, esso è corretto in sé stesso. Nella seconda frase ammette, in modo superfluo, che tale principio sia vero nella sua essenza; tuttavia rimprovera la società per il fatto che lo onori e lo rispetti volontariamente. D’altra parte, il Proudhon di tipo “popolare” rimprovera la società non per il fatto che onori questo principio, ma perché lo onora nella sua forma falsificata dalla nostra ignoranza (“Questo principio, così come è stato distorto dalla nostra ignoranza, viene rispettato”). Il Proudhon critico ritiene che l’essenza di questo principio sia vera nella sua forma errata; il Proudhon di tipo “popolare”, invece, sostiene che l’essenza di questo principio falsificato risieda nella nostra concezione errata, ma che esso sia vero nel suo oggetto reale – proprio come l’essenza dell’alchimia e dell’astrologia risiede nella nostra immaginazione, mentre i loro oggetti effettivi (il movimento dei corpi celesti e le proprietà chimiche delle sostanze) sono realtà concrete.
+
+Il “Proudhon critico” prosegue il suo monologo:
+
+L’oggetto della nostra indagine è la legge, la definizione del principio sociale. Ora i politici, cioè gli uomini delle scienze sociali, sono vittime di una totale mancanza di chiarezza,; ma poiché alla base di ogni errore esiste sempre una realtà, nei loro libri troveremo la verità, che hanno portato nel mondo senza saperlo.
+
+Il Proudhon critico possiede un modo di ragionare davvero fantastico. Partendo dal fatto che i politici siano ignoranti e imprecisi, arriva in modo del tutto arbitrario a concludere che alla base di ogni errore esista una realtà; cosa di cui non dubita affatto, poiché effettivamente esiste una realtà alla base di ogni errore: quella della persona che commette l’errore stesso. Da questo presupposto deduce poi che la verità si trovi nei libri dei politici. E infine arriva persino a sostenere che sia proprio i politici ad aver portato questa “verità” nel mondo. Se davvero l’avessero portata nel mondo, non avremmo bisogno di cercarla nei loro libri.
+
+Il Proudhon di tipo “massiccio” afferma:
+
+“I politici non si comprendono a vicenda; il loro errore è quindi soggettivo, ha origine in loro stessi.” Questo reciproco malinteso dimostra la loro unilateralità. Confondono “la propria opinione personale con il buon senso”, e poiché, secondo quanto dedotto in precedenza, “ogni errore ha come oggetto una realtà vera”, i loro libri devono contenere questa verità – che, inconsapevolmente, hanno inserito al proprio interno – ma che non hanno portato effettivamente nel mondo reale.
+
+Il Proudhon “critico” si chiede: “Che cos’è la giustizia, qual è la sua essenza, il suo carattere, il suo significato?” Come se essa avesse un significato diverso da quello derivante dalla sua essenza e dal suo carattere. Il Proudhon “non critico”, invece, si chiede: “Qual è il suo principio, il suo carattere e la sua formula?” La formula rappresenta il principio stesso, inteso come fondamento di un ragionamento scientifico. Nel francese comune esiste una differenza essenziale tra “formula” e “significato”; nel francese “critico”, invece, tale differenza non esiste.
+
+Dopo le sue digressioni del tutto irrilevanti, il “Proudhon critico” si riprende e esclama:
+
+“Cerchiamo di avvicinarci un po’ di più al nostro obiettivo.”
+
+D'altra parte, il Proudhon acritico, che aveva già raggiunto il suo obiettivo da tempo, cerca di ottenere definizioni più precise e più positive dello stesso.
+
+Per il Proudhon critico, “la legge” è una “definizione di ciò che è giusto”; per il Proudhon non critico, invece, essa rappresenta soltanto un’“affermazione” di ciò che è giusto. Il Proudhon non critico contesta l’idea secondo cui il diritto sia determinato dalla legge; tuttavia, una “definizione della legge” può significare sia che essa stessa venga definita in un certo modo, sia che definisca qualcos’altro. In precedenza, lo stesso Proudhon critico aveva parlato della definizione del principio sociale proprio in questo secondo senso. Certo, per il tipo di Proudhon rappresentato dalle masse, fare distinzioni così raffinate non è appropriato.
+
+Considerando queste differenze tra il Proudhon descritto in modo critico e il vero Proudhon, non sorprende affatto che il “Proudhon n. 1” cerchi di dimostrare cose del tutto diverse rispetto a quelle sostenute dal “Proudhon n. 2”.
+
+Il Proudhon critico
+
+“Cerca di dimostrare, attraverso l’esperienza della storia”, che “se l’idea che abbiamo di ciò che è giusto e corretto è falsa, evidentemente” (cerca di provarlo nonostante le prove a disposizione) “tutte le sue applicazioni nel diritto devono essere errate, tutte le nostre istituzioni devono essere difettose”.
+
+Il Proudhon di tipo “di massa” non ha affatto l’intenzione di dimostrare ciò che è ovvio; al contrario, afferma.
+
+“Se l’idea che abbiamo di ciò che è giusto e corretto fosse mal definita, incompleta o addirittura falsa, è evidente che tutte le nostre applicazioni legislative sarebbero errate”, ecc.
+
+Dunque, cosa vuole dimostrare Proudhon, che non è critico?
+
+“Questa ipotesi,” prosegue, “secondo cui la comprensione della giustizia sia distorta e che ciò comporti necessariamente errori nelle nostre azioni, sarebbe un fatto accertato se le opinioni degli uomini riguardo al concetto di giustizia e alle sue applicazioni non fossero rimaste costantemente uguali nel tempo, se in diversi periodi avessero subito modifiche; in altre parole, se ci fosse stato [progresso](/positions/progress) nelle idee.”
+
+Ed è proprio questa instabilità, questo cambiamento, questo progresso “ciò che la storia dimostra attraverso i testimoni più evidenti”. E il Proudhon acritico cita questi evidenti esempi forniti dalla storia. Il suo “doppio critico”, invece, dimostra una tesi completamente diversa attraverso l’esperienza storica, presentando essa stessa in modo differente.
+
+Secondo il Proudhon autentico, “i saggi”, secondo il Proudhon critico, “i filosofi”, previdero la [caduta](/positions/original_sin) dell’Impero Romano. Il Proudhon critico può naturalmente considerare soltanto i filosofi come uomini saggi. Secondo il Proudhon autentico, i diritti romani erano “consacrati da dieci secoli di pratica legale” o “di amministrazione della giustizia”; secondo il Proudhon critico, Roma aveva “diritti consacrati da dieci secoli di applicazione della giustizia”.
+
+Secondo lo stesso Proudhon n. 1, i Romani ragionavano nel seguente modo:
+
+“Roma, trionfò grazie alla sua politica e ai suoi dèi; qualsiasi riforma nell’[culto](/concepts/religion) o nello spirito pubblico sarebbe stata una stupidaggine e una profanazione” (secondo il Proudhon critico, “sacrilegio” non significa la profanazione o la desecrazione di qualcosa di sacro, come nel francese comune, ma semplicemente profanazione). “Se avesse voluto liberare i popoli, avrebbe dovuto rinunciare a tale diritto”. “Quindi Roma aveva sia il fatto che il diritto a suo favore”, aggiunge Proudhon n. 1.
+
+Secondo il Proudhon non critico, i Romani ragionavano in modo più logico. I fatti venivano esposti in dettaglio.
+
+“Gli schiavi rappresentano la fonte più ricca di ricchezza per tale paese; pertanto, la liberazione dei popoli significherebbe la rovina delle sue finanze.”
+
+E il Proudhon di tipo “di massa”, parlando della legge, aggiunge: “Le rivendicazioni di Roma erano giustificate dal diritto delle nazioni.” Questo modo di dimostrare il diritto alla sottomissione era del tutto in linea con la concezione romana della legge. Si vedano i codici pandettistici di tipo “di massa”: “jure gentium servitus invasit” (Fr. 4. D.I.I.).
+
+<span class="atom-split" data-atom="009" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 4)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 According to the Critical Proudhon, “idolatry, slavery and softness” were “the basis of Roman institutions”, of all its institutions without exception. The real Proudhon says: “Idolatry in religion, slavery in [the state](/concepts/state) and [Epicureanism](/schools/epicureanism) in private life” (épicurisme in the ordinary French language is not synonymous with mollesse, softness) “were the basis of the institutions.” Within that Roman situation there “appeared”, says the mystic Proudhon, “the Word of God”, whereas according to the real, rationalistic Proudhon, it was “a man who called himself the Word of God”. In the real Proudhon this man calls the priests “vipers” (vipères); in the Critical Proudhon he speaks more courteously with them and calls them “serpents”. In the former he speaks in the Roman way of “advocates” , in the latter in the German way of “lawyers” .
 
@@ -362,7 +675,47 @@ Herr Edgar, who wishes to characterise the standpoint of the treatise Qu’est-c
 
 “Proudhon,” Herr Edgar continues immediately after his characterising translation, “therefore finds something absolute, an eternal foundation in history, a god that guides mankind — justice.”
 
-<span class="atom-split" data-atom="010" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 5)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Secondo il Proudhon critico, “l’idolatria, la schiavitù e la debolezza” costituivano “la base delle istituzioni romane”, di tutte le sue istituzioni senza eccezione. Il vero Proudhon afferma invece: “L’idolatria nella religione, la schiavitù nello [stato](/concepts/state) e l’[Epicureismo](/schools/epicureanism) nella vita privata” (in francese comune, “épicurisme” non è sinonimo di “mollesse” o “debolezza”) “erano la base delle istituzioni”. Nella situazione romana, dice il Proudhon mistico, “apparve la Parola di Dio”; mentre secondo il vero Proudhon razionalista, si trattava di “un uomo che si autodefiniva Parola di Dio”. Nel Proudhon razionalista, quest’uomo definisce i sacerdoti “vipere”; nel Proudhon critico parla di loro in modo più cortese, chiamandoli “serpenti”. Nel primo caso utilizza il termine romano di “advocati”, nel secondo quello tedesco di “avvocati”.
+
+Il Proudhon critico definisce lo spirito della [Rivoluzione](/positions/revolution) francese uno spirito di contraddizione, e aggiunge:
+
+“Questo è sufficiente per rendersi conto che ciò che ha sostituito il vecchio non possedeva nulla di metodico o ben ponderato in sé stesso.”
+
+Non riesce a trattenersi dal ripetere meccanicamente le categorie preferite dalla Critica Critica, quelle del “vecchio” e del “nuovo”. Non riesce a smettere di formulare questa richiesta assurda che il “nuovo” debba necessariamente possedere qualcosa di metodico e ben ponderato, proprio come si potrebbe avere una macchia addosso. Il vero Proudhon dice:
+
+“Questo è sufficiente per dimostrare che il nuovo ordine delle cose che sostituì l’antico era, di per sé, privo di [metodo](/axes/method) o riflessione.”
+
+Incoraggiato dal ricordo della Rivoluzione Francese, il Proudhon critico rivoluziona profondamente la lingua francese: traduce “un fatto fisico” con “un fatto della fisica” e “un fatto intellettuale” con “un fatto dell’intelletto”. Con questa trasformazione linguistica, riesce a far sì che la fisica possieda tutti i fatti presenti in natura. Da un lato, eleva eccessivamente le scienze naturali; dall’altro, le degrada altrettanto, privandole dell’intelletto e distinguendo tra “fatto della fisica” e “fatto dell’intelletto”. Nello stesso modo, rende inutili ulteriori indagini psicologiche e logiche, elevando direttamente i fatti intellettuali al livello dei fatti dell’intelletto.
+
+Poiché il “Proudhon critico”, ovvero il Proudhon numero 1, non ha la minima idea di ciò che il vero Proudhon, ovvero il Proudhon numero 2, intenda dimostrare attraverso le sue deduzioni storiche, nemmeno il contenuto reale di tali deduzioni esiste per lui: in altre parole, non esiste per lui la prova del cambiamento nelle concezioni giuridiche e dell’attuazione continua della giustizia attraverso la negazione dei diritti storici concreti.
+
+“La società fu salvata dalla negazione dei suoi principi, e dalla violazione dei diritti più sacri.”
+
+Ecco come il vero Proudhon dimostra come la negazione del diritto romano abbia portato all’espansione dei concetti di diritto nella concezione cristiana, come la negazione del diritto di conquista abbia dato origine al diritto delle comunità, e come la negazione dell’intero sistema legale feudale da parte della Rivoluzione Francese abbia portato a un sistema giuridico oggi più completo.
+
+La “Critica Critica” non avrebbe potuto in alcun modo sottrarre a Proudhon la gloria di aver scoperto la legge secondo cui l’attuazione di un principio avviene attraverso la sua negazione. In questa formulazione consapevole, quest’idea rappresentò davvero una vera e propria [rivelazione](/concepts/revelation) per i francesi.
+
+Commento Critico N. 1
+
+Poiché la prima critica di qualsiasi scienza è necessariamente influenzata dalle premesse della stessa scienza contro cui si rivolge, anche il trattato di Proudhon “Che cos’è la proprietà?” rappresenta una critica dell’economia politica dal punto di vista stesso dell’economia politica. Non è necessario approfondire ulteriormente la parte giuridica del libro, che critica il diritto dal punto di vista del diritto stesso; ciò che ci interessa principalmente è la critica dell’economia politica. Pertanto, il trattato di Proudhon verrà scientificamente superato da altre opere che includano anche la concezione stessa di Proudhon sull’economia politica. Questo lavoro è diventato possibile soltanto grazie alle ricerche e agli scritti dello stesso Proudhon; allo stesso modo, la critica di Proudhon si basa sulle critiche del sistema mercantile operate dai fisiocratici, sulla critica dei fisiocratici da parte di Adam Smith, sulla critica di Adam Smith da parte di Ricardo, nonché sugli scritti di Fourier e Saint-Simon.
+
+Tutti i trattati di economia politica danno per scontata la proprietà privata. Questa premessa fondamentale rappresenta, per loro, un fatto indiscutibile al quale non dedicano ulteriori analisi; anzi, di esso si parla soltanto in modo “casuale”, come ammette ingenuamente Say. Ma Proudhon conduce un’indagine critica – la prima indagine risoluta, spietata e allo stesso tempo scientifica – sulle basi dell’economia politica, ovvero sulla proprietà privata. Questo è il grande progresso scientifico che ha realizzato: un progresso che rivoluziona l’economia politica e rende possibile, per la prima volta, la creazione di una vera scienza economica politica. Il trattato di Proudhon, “Che cos’è la proprietà?”, è per l’economia politica moderna ciò che l’opera di Sieyès, “Che cos’è lo Stato?” è per la politica moderna.
+
+Proudhon non considera le ulteriori forme di proprietà privata – ad esempio, salari, commercio, valore, prezzo, denaro, ecc. – come tali in sé stesse, così come vengono definite, ad esempio, nei “Deutsch-Französische Jahrbücher” (si veda “Outlines of a Critique of Political Economy” di F. [Engels](/schools/historical_materialism_school)), ma utilizza queste premesse economiche per confutare gli economisti politici; ciò è del tutto in linea con la sua posizione, giustificata storicamente e di cui abbiamo parlato sopra.
+
+Riconoscendo le relazioni legate alla proprietà privata come umane e razionali, l’economia politica opera in costante contraddizione con la sua premessa fondamentale: la proprietà privata. Questa contraddizione è analoga a quella del teologo che continua a fornire un’interpretazione umana dei concetti religiosi, finendo così per entrare in costante conflitto con la propria premessa di base, ovvero il carattere sovrumano della religione. Nell’economia politica, i salari appaiono inizialmente come la quota proporzionale del prodotto dovuta al [lavoro](/concepts/labour). Salari e profitti sul capitale mantengono tra loro una relazione apparentemente amichevole e reciprocamente stimolante. Tuttavia, in seguito si scopre che esistono in realtà una relazione ostile, basata su una proporzione inversa. Il valore di un bene viene inizialmente determinato in modo apparentemente razionale, in base al costo di produzione e all’utilità sociale che esso offre. In seguito si scopre invece che il valore è determinato in modo del tutto casuale e non necessariamente in relazione né al costo di produzione né all’utilità sociale. L’entità dei salari viene inizialmente stabilita attraverso un accordo volontario tra lavoratore e capitalista; successivamente, però, il lavoratore si trova costretto a permettere al capitalista di fissarla al livello più basso possibile, proprio come il capitalista è costretto a farlo. La libertà delle parti contraenti viene sostituita dalla coercizione. Lo stesso vale per il commercio e tutte le altre relazioni economiche. Gli stessi economisti, talvolta, sono consapevoli di queste contraddizioni; lo sviluppo di tali contraddizioni costituisce infatti il contenuto principale dei loro conflitti interni. Tuttavia, quando gli economisti prendono coscienza di queste contraddizioni, attaccano la proprietà privata in una forma o nell’altra, definendola falsificatrice di ciò che, nella loro immaginazione, dovrebbe essere un salario razionale, un valore razionale, un commercio razionale. Ad esempio, Adam Smith si è talvolta opposto ai capitalisti; Destutt de Tracy ai banchieri; Simonde de Sismondi al sistema delle fabbriche; Ricardo alla proprietà terriera; e quasi tutti gli economisti moderni ai capitalisti non industriali, per i quali la proprietà appare semplicemente come uno strumento di consumo.
+
+Pertanto, come eccezione – quando si occupano di particolari forme di abuso – gli economisti talvolta sottolineano l’aspetto umano che caratterizza le relazioni economiche; ma spesso, e più frequentemente, considerano queste relazioni proprio nella loro netta differenza rispetto all’essere umano, nel loro senso strettamente economico. Si muovono incerti all’interno di questa contraddizione, completamente ignari della sua esistenza.
+
+Ora Proudhon ha posto fine una volta per tutte a questa ignoranza. Prende sul serio l’aspetto umano delle relazioni economiche e lo contrappone nettamente alla loro realtà inumana. Costringe queste relazioni ad essere, nella realtà, ciò che si immaginano di essere; o meglio, le obbliga a rinunciare alla propria concezione di sé stesse e ad ammettere la loro vera natura inumana. Per questo motivo descrive coerentemente come falsificatore delle relazioni economiche non questo o quell’aspetto particolare della proprietà privata, come fanno altri economisti, ma la proprietà privata in sé e nella sua interezza. Ha fatto tutto ciò che la critica dell’economia politica può fare dal punto di vista stesso dell’economia politica.
+
+Herr Edgar, che desidera caratterizzare il punto di vista del trattato “Qu’est-ce que la propriété?”, naturalmente non menziona nemmeno una parola riguardo all’economia politica o al carattere distintivo di questo libro, il quale consiste proprio nel fatto di aver reso l’essenza della proprietà privata la questione fondamentale dell’economia politica e della giurisprudenza. Tutto ciò è del tutto ovvio per la “Critica Critica”. Si afferma infatti che Proudhon non abbia fatto nulla di nuovo con la sua negazione della proprietà privata; ha semplicemente rivelato un segreto che la “Critica Critica” non voleva divulgare.
+
+“Proudhon”, prosegue immediatamente il signor Edgar dopo la sua traduzione descrittiva, “trova quindi qualcosa di assoluto, una fondazione eterna nella storia, un dio che guida l’umanità: la giustizia”.
+
+<span class="atom-split" data-atom="010" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 5)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Proudhon’s book, written in France in 1840, does not adopt the standpoint of German development in 1844. It is Proudhon’s standpoint, a standpoint which is shared by countless diametrically opposed French writers, which therefore gives Critical Criticism the advantage of having characterized the most contradictory standpoints with a single stroke of the pen. Incidentally, to be relieved from this Absolute in history as well one has only to apply consistently the law formulated by Proudhon himself, that of the implementation of justice by its negation. If Proudhon does not carry consistency as far as that, it is only because he had the misfortune of being born a Frenchman, not a German.
 
@@ -398,7 +751,43 @@ Within this antithesis the private property-owner is therefore the conservative 
 
 Indeed private property drives itself in its economic movement towards its own dissolution, but only through a development which does not depend on it, which is unconscious and which takes place against the will of private property by the very nature of things, only inasmuch as it produces the proletariat as proletariat, poverty which is conscious of its spiritual and physical poverty, dehumanization which is conscious of its dehumanization, and therefore self-abolishing. The proletariat executes the sentence that private property pronounces on itself by producing the proletariat, just as it executes the sentence that wage-labour pronounces on itself by producing wealth for others and poverty for itself. When the proletariat is victorious, it by no means becomes the absolute side of society, for it is victorious only by abolishing itself and its opposite. Then the proletariat disappears as well as the opposite which determines it, private property.
 
-<span class="atom-split" data-atom="011" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 6)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il libro di Proudhon, scritto in Francia nel 1840, non adotta la prospettiva dello sviluppo tedesco del 1844. È la prospettiva stessa di Proudhon, una prospettiva condivisa da innumerevoli scrittori francesi profondamente opposti tra loro; ciò conferisce alla “Critica Critica” il vantaggio di essere riuscita a descrivere i punti di vista più contraddittori con un solo gesto della penna. Del resto, per liberarsi anche da questo “Assoluto” nella storia, basta semplicemente applicare in modo coerente la legge formulata dallo stesso Proudhon: quella dell’attuazione della giustizia attraverso la sua negazione. Se Proudhon non ha portato questa coerenza fino in fondo, è soltanto perché è stato sfortunatamente un francese, e non un tedesco.
+
+Per il signor Edgar, Proudhon è diventato un oggetto teologico grazie al suo concetto di “Assoluto nella storia”, alla sua fede nella giustizia e alla sua Critica Critica, che è per definizione una critica della teologia; tale Critica Critica può ora essere utilizzata contro di lui al fine di analizzare più a fondo le “concezioni religiose”.
+
+“È una caratteristica di ogni concezione religiosa il fatto che essa stabilisca come dogma una situazione nella quale, alla fine, uno degli opposti emerge vittorioso come l’unica verità.”
+
+Vedremo come la “Critica religiosa” stabilisca come dogma una situazione nella quale, alla fine, uno degli opposti, la “Critica”, emerge vittorioso sull’altro, le “Masse”, considerandolo l’unica verità. Ritenendo la giustizia di tipo massiccio un “Assoluto”, un “dio della storia”, Proudhon commise un’ingiustizia tanto più grave in quanto proprio la Critica, nella sua essenza, si era riservata esplicitamente il ruolo di quell’“Assoluto”, di quel “dio nella storia”.
+
+Commento Critico N. 2
+
+“Il fatto della miseria, della povertà, rende Proudhon unilateral nelle sue considerazioni; egli vi vede una contraddizione con l’uguaglianza e la giustizia; esso gli fornisce un’arma. Pertanto, questo fatto diventa per lui assoluto e giustificato, mentre il fatto della proprietà viene ritenuto ingiustificato.”
+
+La tranquillità della conoscenza ci fa comprendere che Proudhon consideri la povertà una contraddizione alla giustizia, cioè la ritiene ingiustificata; eppure, nello stesso tempo, ci assicura che per lui questa realtà diventi qualcosa di assoluto e giustificato.
+
+Fino ad oggi, l’economia politica si è basata sul concetto di ricchezza, che il movimento della proprietà privata avrebbe presumibilmente creato per le nazioni, per giustificare l’esistenza della proprietà privata stessa. Proudhon, invece, parte dal lato opposto, quello che l’economia politica nasconde con astuzia: dalla povertà generata dal funzionamento della proprietà privata, per sviluppare una critica radicale a tale istituto. La prima vera critica alla proprietà privata parte, ovviamente, dal fatto che la sua essenza contraddittoria si manifesta in quella forma più evidente, più offensiva e più diretta nel suscitare l’indignazione umana: dalla povertà, dalla miseria stessa.
+
+D’altra parte, la critica unisce i due fenomeni – povertà e proprietà – in una singola unità, individua il legame interno che esiste tra loro e li considera come un tutto unico; indagando su questo tutto, cerca di scoprire le condizioni preliminari alla loro esistenza.
+
+La critica, che finora non ha compreso nulla dei fatti legati alla proprietà e alla povertà, utilizza, “d’altra parte”, l’atto che ha immaginato nella sua mente come argomento contro l’atto reale di Proudhon. Unisce questi due aspetti in uno solo, e, trasformandoli in un unico concetto, riesce a individuare il legame intrinseco che esiste tra loro. La critica non può negare che anche Proudhon fosse consapevole di questo legame: proprio grazie ad esso aboliva la proprietà al fine di eliminare la povertà. Proudhon ha persino fatto di più: ha dimostrato in modo dettagliato come il movimento del capitale generi povertà. Ma la critica “critica” non si sofferma su simili questioni secondarie. Riconosce semplicemente che povertà e proprietà privata siano opposti – un riconoscimento abbastanza diffuso. Unisce quindi povertà e ricchezza in un unico insieme, e “lo studia come tale al fine di individuare le condizioni necessarie alla sua esistenza”; un’indagine del tutto superflua, visto che ha già considerato l’insieme nel suo complesso, e quindi proprio questo processo di composizione costituisce di per sé la condizione preliminare all’esistenza di tale insieme.
+
+Indagando “il tutto nella sua interezza” al fine di individuare le condizioni preliminari alla sua esistenza, la Critica Critica cerca, nel modo genuinamente teologico, al di fuori del “tutto stesso”, quelle condizioni stesse. La speculazione critica opera quindi al di fuori dell’oggetto di cui pretende di occuparsi. L’antitesi nel suo insieme non è altro che il movimento combinato delle sue due parti, e la condizione preliminare all’esistenza del tutto risiede proprio nella natura stessa di queste due parti. Tuttavia, la Critica Critica trascura lo studio di questo reale processo di formazione del tutto, al fine di poter affermare che essa, in quanto tranquillità della conoscenza, si trovi al di sopra di entrambi gli estremi dell’antitesi; e che la sua attività, che ha creato “il tutto nella sua interezza”, sia l’unica in grado di abolire quell’astrazione da cui essa stessa è nata.
+
+Proletariato e ricchezza sono opposti; proprio per questo costituiscono un unico insieme. Entrambi sono creazioni del mondo della proprietà privata. La questione fondamentale è capire quale ruolo cada ciascuno di essi in questa antitesi. Non basta semplicemente affermare che siano due facce dello stesso tutto.
+
+La proprietà privata, in quanto tale e come forma di ricchezza, è costretta a mantenersi; e ciò, di conseguenza, garantisce l’esistenza del suo opposto, il proletariato. Questa è la faccia positiva di questa antitesi: la proprietà privata, autosoddisfatta nella sua esistenza.
+
+Il proletariato, al contrario, è costretto, in quanto tale, ad abolirsi stesso e di conseguenza anche il proprio opposto: la proprietà privata, che ne determina l’esistenza e lo rende proletario. Essa rappresenta il lato negativo di questa antitesi, l’instabilità intrinseca al proletariato stesso; si tratta della proprietà privata che si dissolve e che dissolve se stessa.
+
+La classe proprietaria e la classe proletaria presentano lo stesso fenomeno di autoestraneazione umana. Tuttavia, la prima classe si sente a proprio agio e rafforzata in questa condizione di autoestraneazione; riconosce tale estraneazione come propria forza e vi trova una sorta di sembianza di esistenza umana. La classe proletaria, invece, si sente annientata in questa estraneazione; vi vede la propria impotenza e la realtà di un’esistenza inumana. Per usare un’espressione di Hegel, nella sua umiliazione essa prova un’indignazione verso quella stessa umiliazione; un’indignazione che le è inevitabilmente imposta dalla contraddizione tra la sua [natura umana](/axes/human_nature) e le sue condizioni di vita, che rappresentano una negazione totale, decisa e completa di tale natura.
+
+All’interno di questa antitesi, il proprietario di proprietà privata rappresenta quindi il lato conservatore, mentre il proletariato rappresenta il lato distruttivo. Dal primo deriva l’azione volta a preservare tale antitesi, dal secondo l’azione volta ad annientarla.
+
+Infatti, la proprietà privata, nel suo movimento economico, tende spontaneamente verso la propria dissoluzione; ma ciò avviene soltanto attraverso uno sviluppo che non dipende da essa stessa, che è inconscio e che si verifica contro la volontà della proprietà privata, per via della natura stessa delle cose. Questo processo ha luogo soltanto nel momento in cui tale sviluppo genera il proletariato come classe consapevole della propria povertà spirituale e fisica, della propria deumanizzazione, e quindi orientato verso la propria autodistruzione. Il proletariato attua, con la sua esistenza stessa, la “sentenza” che la proprietà privata pronuncia contro di sé; allo stesso modo in cui il lavoro salariato attua quella “sentenza” quando produce ricchezza per gli altri e povertà per se stesso. Quando il proletariato trionfa, non diventa affatto l’elemento dominante della società: il suo successo è possibile soltanto attraverso la propria abolizione e quella del proprio opposto, ovvero della proprietà privata. Allora anche il proletariato scompare, insieme al concetto di proprietà privata che lo ha determinato.
+
+<span class="atom-split" data-atom="011" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 6)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 When socialist writers ascribe this world-historic role to the proletariat, it is not at all, as Critical Criticism pretends to believe, because they regard the proletarians as gods. Rather the contrary. Since in the fully-formed proletariat the abstraction of all humanity, even of the semblance of humanity, is practically complete; since the conditions of life of the proletariat sum up all the conditions of life of society today in their most inhuman form; since man has lost himself in the proletariat, yet at the same time has not only gained theoretical consciousness of that loss, but through urgent, no longer removable, no longer disguisable, absolutely imperative need — the practical expression of necessity — is driven directly to [revolt](/positions/revolution) against this inhumanity, it follows that the proletariat can and must emancipate itself. But it cannot emancipate itself without abolishing the conditions of its own life. It cannot abolish the conditions of its own life without abolishing all the inhuman conditions of life of society today which are summed up in its own situation. Not in vain does it go through the stern but steeling school of [labour](/concepts/labour). It is not a question of what this or that proletarian, or even the whole proletariat, at the moment regards as its aim. It is a question of what the proletariat is, and what, in accordance with this being, it will historically be compelled to do. Its aim and historical action is visibly and irrevocably foreshadowed in its own life situation as well as in the whole organization of bourgeois society today. There is no need to explain here that a large part of the English and French proletariat is already conscious of its historic task and is constantly working to develop that consciousness into complete clarity.
 
@@ -444,7 +833,53 @@ A short consideration would have sufficed to arouse the belief of Herr Edgar. He
 
 “Proudhon is angry with philosophy, for which, in itself, we cannot blame him. But why is he angry? Philosophy, he maintains, has not yet been practical enough; it has mounted the high horse of speculation and from up there human beings have seemed much too small. I think that philosophy is over practical, i.e., it has so far been nothing but the abstract expression of the existing state of things; it has always been captive to the premises of the existing state of things, which it has accepted as absolute.”
 
-<span class="atom-split" data-atom="012" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 7)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Quando gli scrittori socialisti attribuiscono questo ruolo storico al proletariato, non è affatto perché considerino i proletari come dei; anzi, il contrario. Poiché nel proletariato pienamente formato l’astrazione di tutta l’umanità, persino delle apparenze umane, è praticamente completa; poiché le condizioni di vita del proletariato riassumono in forma estrema tutte le condizioni di vita della società odierna; poiché l’uomo si è perso nel proletariato, ma allo stesso tempo ha non solo acquisito una consapevolezza teorica di questa perdita, ma è spinto da un bisogno urgente, irremovibile e assolutamente imperativo – l’espressione pratica di tale necessità – a ribellarsi contro quest’inhumanità, ne consegue che il proletariato può e deve emanciparsi. Ma non può emanciparsi senza abolire le condizioni della propria vita; non può abolire queste condizioni senza eliminare tutte le forme inumane di vita presenti nella società odierna, che si rispecchiano appunto nella sua situazione concreta. Non a caso il proletariato deve attraversare una scuola dura ma formativa: il lavoro. Non si tratta di sapere quale sia l’obiettivo attuale di questo o quel individuo proletario, o addirittura dell’intero proletariato; si tratta di capire cosa sia il proletariato e cosa, in base alla sua natura, sarà costretto a fare storicamente. Il suo obiettivo e le sue azioni storiche sono chiaramente prefigurati nella sua situazione concreta e nell’intera struttura della società borghese odierna. Non c’è bisogno di spiegare che una gran parte del proletariato inglese e francese è già consapevole del proprio compito storico e lavora costantemente per renderlo sempre più chiaro e concreto.
+
+La “Critica Critica”, per definizione, non può ammetterlo, poiché si è proclamata l’unico elemento creativo nella storia. A lei appartengono le antitesi storiche; a lei spetta il compito di abolirle. Ecco perché, attraverso la sua incarnazione in Edgar, emette questa dichiarazione.
+
+“[Educazione](/concepts/education) e mancanza di educazione, proprietà e assenza di proprietà: queste antitesi, affinché non vengano profanate, devono essere interamente e completamente di competenza della Critica.”
+
+La proprietà e l’assenza di proprietà hanno ricevuto una sorta di consacrazione metafisica, essendo considerate antitesi speculative fondamentali. È per questo che soltanto la “mano della Critica Critica” può intervenire su di esse senza commettere alcun sacrilegio. Capitalisti e lavoratori non devono interferire nella loro relazione reciproca.
+
+Lontano dall’immaginare che la sua concezione critica delle antitesi potesse essere messa in discussione, che questa “cosa sacra” potesse essere profanata, il signor Edgar permette al suo avversario di sollevare un obiezione che solo lui stesso avrebbe potuto avanzare contro se stesso.
+
+“Allora è possibile,” chiede l’immaginario avversario della Critica Critica, “utilizzare concetti diversi da quelli già esistenti – libertà, uguaglianza, ecc.? Rispondo” (si noti la risposta di Herr Edgar) “che il greco e il latino sono morti non appena si è esaurito l’ambito di pensieri che servivano a esprimere.”
+
+Ora è chiaro perché la “Critica Critica” non dedichi nemmeno un pensiero alla lingua tedesca: il linguaggio dei suoi concetti non è ancora stato creato, nonostante tutto ciò che signor Reichardt abbia fatto nell’utilizzare parole straniere in modo critico, signor Faucher nell’affrontare il problema del linguaggio inglese, e signor Edgar nel trattare la lingua francese, al fine di preparare le basi per questa nuova lingua critica.
+
+Caratteristiche della traduzione n. 2
+
+Il Proudhon critico afferma:
+
+“I contadini divisero la terra tra loro; l’uguaglianza consacrò soltanto la proprietà; in questa occasione, essa consacrò effettivamente il concetto di proprietà privata.”
+
+Il Proudhon critico fa sì che la proprietà fondiaria emerga contemporaneamente alla divisione della terra. Realizza il passaggio dalla possesso alla proprietà attraverso l’espressione “in questa occasione”.
+
+Il vero Proudhon dice:
+
+“L’agricoltura costituiva la base della proprietà terriera. Non era sufficiente garantire al coltivatore i frutti del suo lavoro senza fornirgli contemporaneamente gli strumenti necessari per produrre. Al fine di proteggere i più deboli dalle aggressioni dei più forti, si ritenne necessario stabilire linee di demarcazione permanenti tra i proprietari.”
+
+In questa occasione, quindi, è proprio la proprietà a consacrare per prima cosa l’uguaglianza.
+
+“Ogni anno la popolazione aumentava e l’avidità dei coloni cresceva; si riteneva che l’ambizione dovesse essere contenuta da nuove barriere insuperabili. Così la terra divenne proprietà, a causa della necessità di garantire l’uguaglianza, senza dubbio tale divisione non fu mai equa dal punto di vista geografico, ma il principio rimase lo stesso: l’uguaglianza consacrava la proprietà.”
+
+Secondo la visione critica di Proudhon.
+
+“I primi fondatori del concetto di proprietà, concentrati esclusivamente sulle proprie esigenze, trascurarono il fatto che al diritto di proprietà corrispondeva contemporaneamente anche il diritto di alienarlo, venderlo, donarlo, acquistarlo o perderlo; questo aspetto, in realtà, distrusse proprio l’equità da cui avevano preso le mosse.”
+
+Secondo il vero Proudhon, non era che i fondatori della proprietà avessero trascurato questo percorso del suo sviluppo a causa delle loro esigenze personali; piuttosto, non erano in grado di prevederlo. Ma anche se lo avessero potuto prevedere, la loro reale necessità avrebbe avuto la meglio. Inoltre, il vero Proudhon è troppo orientato verso i interessi della massa per opporre il “diritto di alienare”, di vendere, ecc., al “diritto di proprietà”, cioè per contrapporre le varietà alla specie. Lui contrappone il “diritto di conservare il proprio patrimonio” al “diritto di alienarlo, ecc.”, e questa è una vera opposizione, un vero passo avanti nel pensiero filosofico.
+
+Commento Critico N. 3
+
+“Su cosa dunque si basa Proudhon per dimostrare l’impossibilità della proprietà? Per quanto sia difficile da credere, sullo stesso principio di uguaglianza!”
+
+Una breve riflessione sarebbe stata sufficiente per far nascere in Herr Edgar questa convinzione. Dovrebbe essere consapevole che Herr [Bruno Bauer](/figures/bauer) ha basato tutti i suoi argomenti sull’“infinita [autoconsapevolezza](/concepts/self_consciousness)” e che ha visto in questo principio il fattore creativo dei Vangeli, i quali, con la loro infinita inconscienza, sembrano essere in diretta contraddizione con l’autoconsapevolezza infinita. Allo stesso modo in cui Proudhon concepisce l’uguaglianza come il principio creativo della proprietà privata, che è invece in diretta contraddizione con l’uguaglianza stessa. Se Herr Edgar confrontasse per un istante l’uguaglianza francese con la “autoconsapevolezza” tedesca, si renderebbe conto che quest’ultimo principio esprime, in tedesco, cioè nel pensiero astratto, ciò che il primo afferma in francese, ovvero nel linguaggio della politica e dell’osservazione riflessiva. L’autoconsapevolezza rappresenta l’uguaglianza dell’uomo con se stesso nel pensiero puro; l’uguaglianza, invece, è la consapevolezza che l’uomo ha di sé stesso nell’ambito della pratica, cioè la consapevolezza che gli altri uomini sono suoi uguali e l’atteggiamento che l’uomo assume nei loro confronti. L’uguaglianza è dunque l’espressione francese dell’unità dell’essenza umana, della coscienza che l’uomo ha della propria specie e del proprio rapporto con essa, dell’identità pratica tra gli uomini, cioè del loro rapporto sociale o umano. Pertanto, proprio come la critica distruttiva in Germania, prima di arrivare a [Feuerbach](/figures/feuerbach) alla considerazione dell’uomo reale, cercava di risolvere tutto ciò che è definito e esiste attraverso il principio dell’autoconsapevolezza, anche la critica distruttiva in Francia tentava di fare lo stesso attraverso il principio dell’uguaglianza.
+
+“Proudhon è arrabbiato con la filosofia, e per questo, in sé, non possiamo biasimarlo. Ma perché è arrabbiato? Secondo lui, la filosofia non è stata abbastanza pratica; si è eretta sul piedistallo della speculazione e da lì gli esseri umani sono apparsi troppo insignificanti. Io penso invece che la filosofia sia fin troppo pratica, cioè che fino ad ora non sia stata altro che l’espressione astratta dello stato attuale delle cose; è sempre rimasta prigioniera delle premesse di tale stato, che ha accettato come assolute.”
+
+<span class="atom-split" data-atom="012" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 7)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en" data-tags="concepts/self_consciousness,concepts/alienation,figures/feuerbach,figures/bauer"></span>
 
 The opinion that philosophy is the abstract expression of the existing state of things does not belong originally to Herr Edgar. It belongs to [Feuerbach](/figures/feuerbach), who was the first to describe philosophy as speculative and mystical [empiricism](/positions/empiricism) and to prove it. But Herr Edgar manages to give this opinion an original, Critical twist. While Feuerbach concludes that philosophy must come down from the heaven of speculation to the depth of human misery, Herr Edgar, on the contrary, informs us that philosophy is over-practical. However, it seems rather that philosophy, precisely because it was only the transcendent, abstract expression of the actual state of things, by reason of its transcendentalism and abstraction, by reason of its imaginary difference from the world, must have imagined it had left the actual state of things and real human beings far below itself. On the other hand, it seems that because philosophy was not really different from the world it could not pronounce any real judgment on it, it could not bring any real differentiating force to bear on it and could therefore not interfere practically, but had to be satisfied at most with a practice in abstracto. Philosophy was over-practical only in the sense that it soared above practice. Critical Criticism, by lumping humanity together in a spiritless mass, gives the most striking proof how infinitely small real human beings seem to speculation. In this the old speculation agrees with Critical Criticism, as the following sentence out of Hegel’s Rechtsphilosophie shows:
 
@@ -490,7 +925,53 @@ The mass-type Proudhon says to the mass-type property-owner:
 
 “You have worked! Ought you never to have let others work for you! How, then, have they lost while working for you, what you were able to acquire while not working for them!”
 
-<span class="atom-split" data-atom="013" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 8)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+L’opinione secondo cui la filosofia sia l’espressione astratta dello stato attuale delle cose non appartiene originariamente al signor Edgar. Appartiene a [Feuerbach](/figures/feuerbach), il primo ad aver descritto la filosofia come un empirismo speculativo e mistico e ad averlo dimostrato. Tuttavia, il signor Edgar riesce a dare a questa opinione una sfumatura originale e critica. Mentre Feuerbach conclude che la filosofia debba scendere dal cielo della speculazione nelle profondità della miseria umana, il signor Edgar, al contrario, afferma che la filosofia sia “sovrapratica”. In realtà, sembra proprio che la filosofia, proprio perché rappresenta soltanto l’espressione astratta dello stato effettivo delle cose – a causa del suo carattere trascendentale e astratto, a causa della sua differenza immaginaria dal mondo reale – abbia finito per credere di trovarsi al di sopra di tale stato e degli esseri umani concreti. D’altra parte, poiché la filosofia in realtà non è diversa dal mondo, non può pronunciare giudizi veri su di esso, né esercitare una vera forza differenziante; pertanto non può intervenire in modo pratico, ma si accontenta al massimo di una pratica astratta. La filosofia è “sovrapratica” soltanto nel senso che si eleva al di sopra della pratica stessa. La Critica critica, unendo l’umanità in un insieme senza spirito, fornisce la prova più evidente di quanto gli esseri umani reali appaiano infinitamente piccoli agli occhi della speculazione. In questo senso, l’antica speculazione concorda con la Critica critica, come dimostra questa frase tratta dalla “Filosofia del diritto” di Hegel:
+
+“Dal punto di vista delle esigenze, è l’oggetto concreto dell’idea che viene chiamato uomo; pertanto ciò di cui ci occupiamo qui, e propriamente solo qui, è l’uomo in questo senso.”
+
+In altri casi in cui la speculazione parla dell’uomo, non si riferisce al concreto, ma all’astratto, all’idea, allo spirito, ecc. Il modo in cui la filosofia esprime lo stato reale delle cose è chiaramente dimostrato da Herr Faucher in relazione alla situazione effettiva dell’Inghilterra, e da Herr Edgar in relazione alla situazione effettiva della lingua francese.
+
+“Proudhon è quindi anch’egli di natura pratica: poiché ritiene che il concetto di uguaglianza sia alla base delle argomentazioni a favore della proprietà, egli utilizza lo stesso concetto per opporsi alla proprietà stessa.”
+
+Qui Proudhon fa esattamente la stessa cosa dei critici tedeschi che, rilevando che le prove dell’esistenza di Dio si basano sull’idea umana, utilizzano proprio quell’idea per argomentare contro l’esistenza di Dio.
+
+“Se le conseguenze del principio di uguaglianza sono più potenti dell’uguaglianza stessa, in che modo Proudhon intende aiutare questo principio ad acquisire tale potere?”
+
+La [coscienza di sé](/concepts/self_consciousness), secondo il signor [Bruno Bauer](/figures/bauer), sta alla base di tutte le idee religiose. È, a suo dire, il principio creativo dei vangeli. Allora, perché le conseguenze di questo principio della coscienza di sé furono più potenti della coscienza di sé stessa? Perché, secondo la logica tedesca, la coscienza di sé è effettivamente il principio creativo delle idee religiose, ma solo nella forma di una coscienza di sé che si trova al di fuori di sé stessa, in contraddizione con se stessa, alienata e separata da sé. Una coscienza di sé che si è riconosciuta, che si comprende, che afferra la propria essenza, governa quindi le creazioni derivanti da questa sua auto-alienazione. Proudhon si trova esattamente nella stessa situazione; con la differenza, ovviamente, che lui parla francese mentre noi parliamo tedesco, e perciò esprime in modo francese ciò che noi esprimiamo in modo tedesco.
+
+Proudhon si chiede perché l’uguaglianza, sebbene come principio creativo della ragione sia alla base dell’istituzione della proprietà e, in quanto fondamento razionale ultimo, costituisca il supporto di tutti gli argomenti a favore della proprietà, non esista effettivamente, mentre la sua negazione, ovvero la proprietà privata, sì. Pertanto analizza il fenomeno della proprietà in sé. Dimostra che “in realtà la proprietà, come istituzione e principio, è impossibile”, cioè che si contraddice e si autodistrugge in ogni suo aspetto; in altre parole, che rappresenta l’esistenza di un’uguaglianza alienata, autocontraddittoria ed estranea a sé stessa. Lo stato reale delle cose in Francia, così come la consapevolezza di questa alienazione, suggeriscono correttamente a Proudhon la necessità di una vera e propria abolizione di tale fenomeno.
+
+Sebbene neghi la proprietà privata, Proudhon ritiene necessario giustificare l’esistenza della proprietà privata su base storica. Il suo argomento, come tutti gli argomenti di questo tipo, è pragmatico: si basa sull’ipotesi che le generazioni precedenti abbiano voluto, in modo consapevole e riflessivo, realizzare nelle loro istituzioni quell’uguaglianza che, per lui, rappresenta l’essenza umana.
+
+“Torniamo sempre allo stesso argomento. Proudhon scrive nell’interesse dei proletari.”
+
+Non scrive nell’interesse di una critica autosufficiente, né per qualsiasi interesse astratto e personale, ma per un interesse di tipo collettivo, reale e storico; un interesse che va oltre la semplice critica e può arrivare fino a una vera e propria crisi. Non solo Proudhon scrive nell’interesse dei proletari, ma è lui stesso un proletario, un operaio. Il suo lavoro rappresenta un manifesto scientifico del proletariato francese e, pertanto, ha un significato storico completamente diverso rispetto ai lavori letterari di qualsiasi critico convenzionale.
+
+“Proudhon scrive nell’interesse di coloro che non hanno nulla; ‘avere’ e ‘non avere’ sono, per lui, categorie assolute. ‘Avere’ rappresenta, per lui, il valore più alto, poiché allo stesso tempo ‘non avere’ costituisce l’oggetto principale del suo pensiero. Ogni uomo dovrebbe avere, ma non di più né di meno degli altri, secondo Proudhon. Tuttavia bisogna ricordare che, di tutto ciò che si possiede, solo ciò che si possiede esclusivamente, o in quantità maggiore rispetto agli altri, ha davvero importanza. Con l’uguaglianza, sia ‘avere’ che l’uguaglianza stessa diventerebbero per me questioni indifferenti.”
+
+Secondo il signor Edgar, “avere” e “non avere” rappresentano categorie assolute per Proudhon. La “Critica Critica” vede ovunque soltanto categorie. Pertanto, secondo il signor Edgar, “avere” e “non avere”, salari, bisogni, e il lavoro necessario per soddisfarli, non sono altro che categorie.
+
+Se la società dovesse liberarsi soltanto dalle categorie del “possedere” e del “non possedere”, quanto sarebbe facile per qualsiasi dialettico, anche se più debole di Herr Edgar, “superare” e “abolire” tali categorie! Infatti, Herr Edgar considera questa questione così insignificante da ritenere inutile persino spiegarle come argomento contro Proudhon. Ma il “non possedere” non è semplicemente una categoria: è una realtà estremamente desolante. Oggi, colui che non possiede nulla non è nulla, poiché viene tagliato fuori dall’esistenza stessa, e ancor di più da un’esistenza umana; la condizione di “non possedere” rappresenta infatti la completa separazione dell’uomo dalla sua oggettività. Pertanto, il “non possedere” sembra davvero giustificato come oggetto principale del pensiero per Proudhon, soprattutto considerando quanto poco si sia riflettuto su questo tema prima di lui e in generale tra gli scrittori socialisti. Il “non possedere” è lo spiritualismo più disperante, l’assoluta irrealtà dell’essere umano, ma anche una realtà concreta: la realtà di chi soffre dalla fame, dal freddo, dalle malattie, dal crimine, dalla degradazione. Un “possedere” estremamente negativo. Tuttavia, qualsiasi oggetto diventi per la prima volta oggetto del pensiero con piena consapevolezza della sua importanza, è necessariamente l’oggetto principale del pensiero stesso.
+
+Il desiderio di Proudhon di abolire sia l’assenza che il vecchio modo di possedere è del tutto identico al suo desiderio di eliminare quella relazione praticamente estranea tra l’uomo e la sua essenza oggettiva, nonché l’espressione economica di tale alienazione umana. Tuttavia, poiché la sua critica all’economia politica rimane vincolata alle premesse stesse di quest’ultima, la riaffermazione del dominio sull’universo oggettivo viene ancora concepita nella forma economica della proprietà.
+
+Proudhon non si oppone all’atto di possedere o alla mancanza di possesso, come vorrebbe far credere la “Critica Critica”; si oppone piuttosto alla forma tradizionale di possesso, ovvero alla proprietà privata. Proclama che il possesso sia una “funzione sociale”. Tuttavia, ciò che è “interessante” in una funzione non è escludere l’altra persona, ma anzi affermare e realizzare le forze del proprio essere.
+
+Proudhon non riuscì a sviluppare adeguatamente questo concetto. L’idea della “possessione equa” rappresenta, in termini economici e quindi ancora una volta in modo alienato, il fatto che l’oggetto, in quanto essere destinato all’uomo, come esistenza oggettiva dell’uomo, sia al contempo l’esistenza dell’uomo per gli altri uomini, la sua relazione umana con loro, il comportamento sociale tra individui. Proudhon cerca di abolire questa alienazione economica all’interno stesso del contesto economico.
+
+Caratteristiche della traduzione n. 3
+
+Secondo quanto affermato, anche il “Proudhon critico” possiede un proprietario di beni, in base ai cui principi.
+
+“Secondo le sue stesse ammissioni, coloro che dovevano lavorare per lui persero ciò che egli si era appropriato.”
+
+Il Proudhon di tipo “massa” dice al proprietario di beni di tipo “massa”:
+
+“Hai lavorato tu stesso! Perché mai non hai lasciato che fossero altri a lavorare per te? In questo modo, loro hanno perso ciò che tu sei riuscito ad ottenere senza che lavorassero per te, ”
+
+<span class="atom-split" data-atom="013" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 8)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en" data-tags="assi/method,concepts/property,concepts/state"></span>
 
 By “richesse naturelle”,” the Critical Proudhon makes Say understand “natural possessions” although Say, to preclude any error, states explicitly in the Épitom;é to his Traité d’économie politique that by richesse he understands neither property nor possession, but a “sum of values”. Of course, the Critiàcal Proudhon reforms Say just as he himself is reformed by Herr Edgar. He makes Say “infer immediately a right to take a field as property” because land is easier to appropriate than air or water. But Say, far from inferring from the greater possibility of appropriating land a property right to it, says instead quite explicitly:
 
@@ -552,7 +1033,69 @@ Cessante [causa](/concepts/cause) cessat effectus. When the owner is owner only 
 
 To say further, according to this opinion, that the cultivation of the land, for example, “creates full ownership of the same” is a petitio principii. It is a fact that a new productive capacity of the matter has been created. But what has to be proved is that ownership of the matter itself has thereby been created. Man has not created the matter itself. And he cannot even create any productive capacity if the matter does not exist beforehand.
 
-<span class="atom-split" data-atom="014" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 9)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Con il termine “ricchezze naturali”, il Proudhon critico fa capire a Say che si tratta di “possessioni naturali”; tuttavia, per evitare qualsiasi equivoco, Say stesso afferma esplicitamente nel suo Épitomé del Traité d’économie politique che con il termine “ricchezza” non intende né proprietà né possesso, ma piuttosto una “somma di valori”. Naturalmente, il Proudhon critico riforma le idee di Say esattamente come lui stesso viene influenzato da Herr Edgar: fa sì che Say “deduca immediatamente l’esistenza di un diritto di appropriarsi un campo come proprietà”, poiché la terra è più facile da appropriare dell’aria o dell’acqua. Ma Say, lungi dal dedurre da questa maggiore possibilità di appropriazione il diritto di proprietà sulla terra, afferma invece in modo molto chiaro.
+
+“I diritti dei proprietari terrieri derivano da una sorta di spoliazione.” (Trattato di economia politica, edizione III, vol. I, nota.)
+
+Ecco perché, secondo Say, devono esistere “concorsi della legislazione” e “diritto positivo” per fornire una base al diritto di proprietà fondiaria. Il vero Proudhon non fa sì che Say tragga “immediatamente” il diritto di proprietà fondiaria dall’appropriazione più facile dei terreni; lo rimprovera invece per basarsi sulla possibilità anziché sul diritto, confondendo la questione della possibilità con quella del diritto stesso.
+
+“Diciamo che si debba considerare questa opportunità come un diritto. Non ci si chiede perché la terra sia stata appropriata più facilmente della terra e dell’aria; ciò che vogliamo sapere è, in base a quale diritto l’uomo abbia preso possesso di queste risorse.”
+
+Il “Proudhon critico” prosegue:
+
+“L’unica osservazione da fare al riguardo è che, con l’appropriazione di un pezzo di terra, anche gli altri elementi – aria, acqua e fuoco – vengono anch’essi appropriati: ‘terra, aqua, aëre et igne interdicti sumus’.”
+
+Lontano dal limitarsi a fare questa osservazione, il vero Proudhon afferma, al contrario, di voler attirare l’attenzione sul problema dell’appropriazione incidentale dell’aria e dell’acqua. Il Proudhon “critico” utilizza in modo improprio la formula romana relativa all’esilio; dimentica infatti di specificare chi siano i “noi” che vengono esiliati. Il vero Proudhon si rivolge quindi a coloro che non possiedono proprietà.
+
+“Il proletariato, la proprietà ci esclude dalla comunità sociale: terra, ecc., ci sono vietati.”
+
+La posizione critica di Proudhon nei confronti di Charles Comte si esprime nel seguente modo:
+
+“Charles Comte ritiene che, per vivere, l’uomo abbia bisogno di aria, cibo e vestiti. Alcuni di questi elementi, come l’aria e l’acqua, sono inesauribili e quindi rimangono sempre proprietà comune; altri, invece, sono disponibili in quantità limitate e diventano proprietà privata. Charles Comte basa quindi la sua argomentazione sui concetti di limitatezza e illimitatezza; forse sarebbe giunto a una conclusione diversa se avesse utilizzato come categorie principali i concetti di dispensabilità e indispensabilità.”
+
+Quanto è infantile la polemica di questo Proudhon critico! Spera che Charles Comte abbandoni le categorie che utilizza per le sue argomentazioni e ne adotti altre, al fine di giungere, non alle proprie conclusioni, ma “forse” a quelle di questo Proudhon critico.
+
+Il vero Proudhon non formula alcuna tale richiesta nei confronti di Charles Comte; non lo elimina con un “forse”, ma lo sconfigge utilizzando le sue stesse categorie logiche.
+
+Secondo Proudhon, Charles Comte parte dall’idea che aria, cibo e, in certi climi, vestiti siano indispensabili non per vivere, ma per poter continuare a vivere. Pertanto, affinché possa sopravvivere, l’uomo ha costantemente bisogno di appropriarsi di oggetti di vario tipo. Tuttavia, questi oggetti non sono tutti presenti nella stessa quantità o proporzione.
+
+“La luce dei corpi celesti, l’aria e l’acqua esistono in quantità tali che l’uomo non può né aumentarle né diminuirle in modo apprezzabile; pertanto ognuno può utilizzarne quanto ne ha bisogno, senza pregiudicare il diritto degli altri ad averne altrettanta”.
+
+Proudhon si basa sulle stesse definizioni di Charles Comte. Innanzitutto dimostra a quest’ultimo che la terra è anch’essa un oggetto di necessità primaria, e quindi il suo uso deve rimanere libero per tutti, entro i limiti stabiliti dalla clausola di Comte: “senza pregiudicare il godimento altrui”. Allora perché la terra è diventata proprietà privata? Charles Comte risponde: perché non è illimitata. In realtà avrebbe dovuto concludere, al contrario, che proprio perché la terra è limitata, essa non può essere appropriata. L’appropriazione arbitraria dell’aria e dell’acqua non causa alcun pregiudizio per nessuno, poiché essendo illimitate ne rimane sempre abbastanza. L’appropriazione arbitraria della terra, invece, pregiudica il godimento altrui proprio perché la terra è limitata; pertanto il suo utilizzo deve essere regolamentato nell’interesse di tutti. Il metodo di dimostrazione di Charles Comte, in realtà, confuta la sua stessa tesi.
+
+“Charles Comte, cioè Proudhon” (quello critico, naturalmente) “ragiona partendo dall’idea che una nazione possa essere proprietaria di un territorio; tuttavia, se la proprietà implica il diritto di utilizzare e abusare di qualcosa – il cosiddetto ‘ius utendi et abutendi re sua’ – nemmeno una nazione può essere ritenuta titolare del diritto di utilizzare e abusare di un territorio.”
+
+Il vero Proudhon non parla di quel “jus utendi et abutendi” che il diritto di proprietà “implica”. È troppo orientato verso i interessi della massa per poter parlare di un diritto di proprietà che derivi da tale concetto. Il “jus utendi et abutendi re sua” è, in realtà, il diritto di proprietà stesso. Pertanto, Proudhon nega direttamente al popolo il diritto di proprietà sul proprio territorio. A coloro che ritengono questa posizione eccessiva, risponde che, in tutte le epoche, quel presunto diritto di proprietà nazionale ha dato origine a sovranità, tributi, prerogative reali, corvée, ecc.
+
+Le vere argomentazioni di Proudhon contro Charles Comte sono le seguenti: Comte intende spiegare come sorga la proprietà e inizia partendo dall’ipotesi che una nazione sia il proprietario dei beni. In questo modo commette l’errore di partire da un presupposto già accettato. Fa sì che lo [stato](/concepts/state) venda le terre e permette agli industriali di acquistarle; in altre parole, presuppone già quelle stesse relazioni proprietarie che poi cerca di dimostrare.
+
+Il Proudhon critico abbandona il sistema decimale francese; mantiene il franco, ma sostituisce il centesimo con il “Dreier”.
+
+“Se cedo un pezzo di terra, Proudhon” (quello critico) “afferma che non solo mi privo di una raccolta futura, ma privo anche i miei figli e i loro discendenti di un bene duraturo. La terra ha valore non solo oggi, ma anche in base alla sua capacità produttiva e al suo futuro potenziale.”
+
+Il vero Proudhon non si sofferma sul fatto che la terra abbia valore non solo oggi, ma anche domani; egli contrappone il suo valore attuale pieno al valore della sua capacità produttiva e del suo futuro, che dipende dalla mia abilità nel sfruttarla. Dice:
+
+“Distruggete quella terra, o, il che per voi equivale allo stesso, vendetela; non solo vi priverete di una, due o più raccolte, ma annienterete anche tutta la produzione che avreste potuto ottenere da essa, voi, i vostri figli e i vostri pronipoti.”
+
+Per Proudhon, la questione non riguarda tanto il contrasto tra un raccolto e un bene duraturo – i soldi ottenuti per il campo possono, in quanto capitale, diventare anch’essi un “bene duraturo” – ma piuttosto il contrasto tra il valore attuale del terreno e il valore che esso può acquisire attraverso una coltivazione continua.
+
+“Secondo Charles Comte, il nuovo valore che io conferisco a una cosa attraverso il mio lavoro è di mia proprietà. Proudhon, nel suo testo ‘Critico’, ritiene di poter confutarlo nel seguente modo: allora un uomo dovrebbe cessare di essere proprietario non appena smette di lavorare. La proprietà del prodotto non può in alcun modo implicare la proprietà del materiale da cui quel prodotto è stato realizzato.”
+
+Il vero Proudhon dice:
+
+“Che il lavoratore si appropri dei prodotti del proprio lavoro. Ma non capisco come la proprietà di tali prodotti possa implicare la proprietà della materia stessa. Il pescatore che riesce a catturare più pesce degli altri nello stesso luogo diventa, grazie a questa abilità, proprietario di quel luogo? L’abilità di un cacciatore è mai stata considerata titolo di proprietà sulla selvaggina in qualche cantone? Lo stesso vale per l’agricoltura. Per trasformare la possesso in proprietà, oltre al lavoro è necessaria un’altra condizione. Altrimenti, un uomo smetterebbe di essere proprietario non appena smettesse di lavorare.”
+
+Quando la [CAUSA](/concepts/cause) cessa, anche l’effetto cessa. Quando il proprietario è tale soltanto in qualità di lavoratore, smette di esserlo non appena smette di lavorare.
+
+“Secondo la legge, è la prescrizione a creare la proprietà; il lavoro è soltanto il segno percepibile, l’atto materiale attraverso cui si manifesta l’occupazione di un bene.”
+
+“Il sistema di appropriazione attraverso il lavoro”, prosegue Proudhon, “è quindi contrario alla legge; e quando i sostenitori di tale sistema lo presentano come spiegazione delle leggi, in realtà si contraddicono”.
+
+Inoltre, secondo questa opinione, sostenere che la coltivazione della terra, ad esempio, “crei una piena proprietà su di essa” rappresenti un errore logico fondamentale (petitio principii). È certo che venga creata una nuova capacità produttiva della materia; ma ciò che deve essere dimostrato è che da questa azione derivi effettivamente la nascita di una proprietà sulla materia stessa. L’uomo non ha creato la materia in sé; inoltre, non può nemmeno generare alcuna capacità produttiva se tale materia non esiste già prima.
+
+<span class="atom-split" data-atom="014" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 9)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 The Critical Proudhon makes Gracchus Babeuf a partisan of freedom, but for the mass-minded Proudhon he is a partisan of equality (partisan de l’égalité).
 
@@ -624,7 +1167,79 @@ Characterizing Translation No. 4
 
 The Critical Proudhon finally reforms French society by as deep a transformation of the French proletarians as of the French bourgeoisie.
 
-<span class="atom-split" data-atom="015" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 10)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il Proudhon critico presenta Gracco Babeuf come sostenitore della libertà; tuttavia, per il Proudhon orientato verso le masse, Babeuf è in realtà un sostenitore dell’uguaglianza.
+
+Il Proudhon critico, che voleva calcolare la retribuzione ricevuta da Omero per l’Iliade, afferma:
+
+“La ricompensa che pago Omero dovrebbe essere equivalente a ciò che lui mi offre. Ma come può essere determinato il valore di ciò che lui dona?”
+
+Il “Proudhon critico” è troppo superiore alle banalità dell’economia politica per rendersi conto che il valore di un oggetto e ciò che quell’oggetto offre a qualcun altro sono due cose diverse. Il vero Proudhon dice:
+
+“La retribuzione del poeta dovrebbe essere pari al suo “prodotto”: allora, qual è il valore di quel prodotto?”
+
+Il vero Proudhon ritiene che l’Iliade abbia un prezzo infinito (ovvero un valore di scambio infinito), mentre il Proudhon critico sostiene che abbia un valore intrinseco infinito. Il vero Proudhon contrappone il valore dell’Iliade, nel senso economico, al suo valore di scambio; il Proudhon critico, invece, contrappone il suo “valore di scambio” al suo “valore intrinseco”, cioè al suo valore come poesia.
+
+Il vero Proudhon dice:
+
+“Non esiste alcuna misura comune tra una ricompensa materiale e il talento. In questo senso, la situazione di tutti i produttori è identica. Pertanto, qualsiasi confronto tra loro o qualsiasi classificazione basata sulla fortuna è impossibile.”
+
+Il Proudhon critico afferma:
+
+“In termini relativi, la posizione di tutti i produttori è identica. Il talento non può essere valutato in termini materiali. Qualsiasi confronto tra i produttori stessi, qualsiasi distinzione esterna è impossibile.”
+
+Nel “Proudhon Critico” leggiamo che.
+
+“L’uomo di scienza deve sentirsi ugale agli altri nella società, perché il suo talento e la sua intuizione non sono altro che il prodotto delle caratteristiche della stessa società.”
+
+Il vero Proudhon non parla mai dei sentimenti legati al talento. Afferma invece che il talento debba abbassarsi al livello della società; inoltre, non sostiene affatto che l’uomo dotato di talento sia soltanto un prodotto della società. Al contrario, dice.
+
+“L’uomo di talento si è impegnato per sviluppare in sé stesso uno strumento utile. In lui esistono sia un lavoratore libero che un capitale sociale accumulato.”
+
+Il “Proudhon critico” prosegue dicendo:
+
+“Inoltre, deve essere grato alla società per averlo liberato da altri impegni lavorativi, in modo che possa dedicarsi interamente alla scienza.”
+
+Il vero Proudhon in nessun momento fa appello alla gratitudine di un uomo di talento. Dice:
+
+“L’artista, lo scienziato, il poeta ricevono la loro giusta ricompensa semplicemente perché la società permette loro di dedicarsi esclusivamente alla scienza e all’arte.”
+
+Infine, il Proudhon critico riesce nell’[miracolo](/concepts/miracle) di far sì che una società composta da 150 lavoratori sia in grado di mantenere un “maresciallo”, e quindi probabilmente anche un esercito. Nel Proudhon reale, però, il “maresciallo” è in realtà un “cavaliere di stalla”.
+
+Commento Critico N. 4
+
+“Se lui” (Proudhon) “mantiene il concetto di salari, se considera la società un’istituzione che ci fornisce lavoro e lo paga in cambio, allora ha ancora meno diritto di riconoscere il tempo come unità di misura del pagamento, visto che poco prima, concordando con Hugo Grotius, aveva affermato che il tempo non ha alcuna rilevanza per la validità di un oggetto.”
+
+Questo è l’unico aspetto su cui la “Critica Critica” cerca di risolvere i propri problemi e di dimostrare a Proudhon che, dal punto di vista dell’economia politica, egli sta discutendo in modo errato contro tale disciplina. Ed è proprio in questo ambito che la “Critica Critica” si umilia, comportandosi in modo davvero critico.
+
+Proudhon concorda con Hugo Grotius nel sostenere che la prescrizione non costituisce un titolo per trasformare la detenzione in proprietà, né un “principio legale” in un altro principio; allo stesso modo, il tempo non può cambiare la verità secondo cui i tre angoli di un triangolo sono insieme uguali a due angoli retti, trasformandola nella verità che siano uguali a tre angoli retti.
+
+“Mai”, esclama Proudhon, “riuscirete a far sì che la durata del tempo, che di per sé non crea nulla, non cambia nulla, non modifica nulla, possa trasformare l’uomo in proprietario”.
+
+La conclusione di Herr Edgar è la seguente: poiché Proudhon ha affermato che il semplice tempo non può trasformare un principio legale in un altro, che da solo non può cambiare o modificare nulla, egli è contraddittorio quando considera il [lavoro](/concepts/labour) come unità di misura del valore economico del prodotto del lavoro. Herr Edgar arriva a questa conclusione interpretando “valeur” come “Geltung”, utilizzando così il termine per indicare sia la validità di un principio legale che il valore commerciale di un prodotto del lavoro; inoltre, equipara il tempo vuoto con il tempo pieno di attività lavorativa. Se Proudhon avesse detto che il tempo non può trasformare una mosca in un elefante, la Critica Critica avrebbe potuto ribattere, con lo stesso ragionamento, che egli non ha quindi alcun diritto di considerare il lavoro come unità di misura dei salari.
+
+Anche la critica più rigorosa deve essere in grado di comprendere che il tempo di lavoro impiegato nella produzione di un oggetto è compreso nel suo costo di produzione; che il costo di produzione di un oggetto corrisponde esattamente a ciò che costa, e quindi a quanto può essere venduto, prescindendo dall’influenza della concorrenza. Oltre al tempo di lavoro e ai materiali utilizzati nella produzione, gli economisti includono nel costo di produzione anche l’affitto pagato al proprietario del terreno, gli interessi e il profitto del capitalista. Proudhon esclude queste componenti perché rifiuta la proprietà privata; pertanto, rimangono soltanto il tempo di lavoro e le spese sostenute nella produzione. Designando il tempo di lavoro come l’unità di misura dei salari e come il fattore determinante del valore del prodotto, Proudhon pone l’aspetto umano al centro delle considerazioni economiche. Nell’economia politica tradizionale, invece, il fattore decisivo era il potere materiale del capitale e della proprietà terriera. In altre parole, Proudhon ristabilisce i diritti dell’uomo, ma lo fa in modo ancora legato alle logiche economiche, e quindi contraddittorio. Quanto sia corretto il suo punto di vista si può evincere dal fatto che Adam Smith, fondatore dell’economia politica moderna, nelle prime pagine del suo libro “Indagine sulla natura e le cause della ricchezza delle nazioni” sviluppa l’idea che, prima dell’invenzione della proprietà privata – cioè presupponendo l’assenza di tale istituto – il tempo di lavoro fosse l’unità di misura sia dei salari che del valore del prodotto del lavoro, il quale all’epoca non veniva ancora distinto dai salari stessi.
+
+Ma anche se la Critica Critica ipotizzasse, per un istante solo, che Proudhon non si sia basato sulla premessa dei salari. Crederebbe forse che il tempo necessario alla produzione di un oggetto non sia mai un fattore essenziale nella sua “validità”? Crederebbe forse che il tempo perda la propria natura di elemento costoso?
+
+Per quanto riguarda la produzione materiale immediata, la decisione di produrre o meno un oggetto, ovvero la valutazione del suo valore, dipenderà essenzialmente dal tempo di lavoro necessario per la sua produzione. Infatti, è il tempo a determinare se la società abbia la possibilità di svilupparsi in modo umano.
+
+E anche per quanto riguarda la produzione intellettuale, non do forse, se procedo in modo ragionevole in altri ambiti, prendere in considerazione il tempo necessario alla realizzazione di un’opera intellettuale quando ne determino l’ambito, il carattere e la struttura? Altrimenti rischio che l’oggetto immaginato nella mia mente non diventi mai realtà, e quindi possa acquisire soltanto il valore di un oggetto immaginario, ovvero un valore fittizio.
+
+La critica dell’economia politica, vista dal punto di vista stesso dell’economia politica, riconosce tutti i determinanti essenziali dell’attività umana, ma solo in una forma alienata e distaccata da essa. Ad esempio, in questo contesto l’importanza del tempo nel lavoro umano viene ridotta all’importanza che esso ha per il salario, per il lavoro salariato.
+
+Il signor Edgar prosegue:
+
+“Al fine di costringere il talento ad accettare tale misura, Proudhon abusa del concetto di contratto libero e afferma che la società e i suoi singoli membri abbiano il diritto di rifiutare i prodotti del talento.”
+
+Tra i seguaci di Fourier e Saint-Simon, il talento formula richieste economiche esagerate, facendo della propria concezione immaginaria del proprio valore infinito la misura del valore di scambio dei propri prodotti. Proudhon risponde esattamente nello stesso modo in cui l’economia politica risponde a qualsiasi richiesta di un prezzo molto più alto del cosiddetto prezzo naturale, cioè superiore al costo di produzione dell’oggetto offerto: con il concetto di libertà contrattuale. Tuttavia Proudhon non utilizza questa relazione nel senso dell’economia politica; al contrario, considera reale ciò che gli economisti ritengono soltanto nominale e illusorio: la libertà delle parti contraenti.
+
+Caratteristiche della traduzione n. 4
+
+Il “Proudhon critico” riforma infine la società francese attraverso una trasformazione profonda sia dei proletari francesi che della borghesia francese.
+
+<span class="atom-split" data-atom="015" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 10)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 He denies the French proletarians “strength” because the real Proudhon reproaches them with a lack of virtue (vertu). He makes their skill in work problematic— “you are perhaps skilled in work” — because the real Proudhon unconditionally recognizes it (“prompts au travail vous êtes”, etc.). He converts the French bourgeoisie into dull burghers whereas the real Proudhon counterposes the ignoble bourgeois (bourgeois ignobles) to the blemished nobles (nobles flétris). He converts the bourgeois from happy-medium burghers (bourgeois juste-milieu) into “our good burghers”, for which the French bourgeoisie can be grateful. Hence, where the real Proudhon says the “ill will” of the French bourgeoisie (la malveillance de nos bourgeois) is growing, the Critical Proudhon consistently makes the “carefreeness of our burghers” grow. The real Proudhon’s bourgeois is so far from being carefree that he calls out to himself: “N’ayons pas peur! N’ayons pas peur!” Those are the words of a man who wishes to reason himself out of fear and worry.
 
@@ -658,11 +1273,49 @@ After his great argumentation, Herr Edgar must, of course, declare Proudhon’s 
 
 Later we shall also quote a few passages from the works of Critical Criticism (see the Bank for the Poor and the Model Farm) to show that it has not yet become acquainted with the most elementary economic relationships, let alone thought them out, and hence with its characteristic Critical tact has felt itself called upon to pass judgment on Proudhon.
 
-<span class="atom-split" data-atom="016" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 11)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Nega ai proletari francesi la “forza”, perché il vero Proudhon li rimprovera per la mancanza di virtù. Mette in discussione la loro abilità nel lavoro – “forse siete abili nel lavoro” – poiché il vero Proudhon la riconosce incondizionatamente (“prompts au travail, vous êtes”, ecc.). Trasforma la borghesia francese in borghesi insipidi e banali, mentre il vero Proudhon contrappone il borghese ignobile al nobile “macchiato” da vizi. Rende i borghesi, che nella realtà sono persone di medio ceto felici, dei “nostri buoni borghesi”, per i quali la borghesia francese potrebbe essere grata. Pertanto, mentre il vero Proudhon afferma che la “cattiva volontà” della borghesia francese sta crescendo, il Proudhon critico insiste costantemente sul fatto che la “spensieratezza dei nostri borghesi” stia aumentando. Il borghese descritto dal vero Proudhon è lontano dall’essere spensierato: egli esclama infatti “Non temiamo! Non temiamo!”, parole di chi desidera liberarsi dalla paura e dall’ansia attraverso il ragionamento.
+
+Creando il “Proudhon critico” attraverso la traduzione del vero Proudhon, la “Critica critica” ha rivelato alle masse cosa significhi una traduzione veramente perfetta. Ha fornito indicazioni su come dovrebbe essere fatta una traduzione. Per questo motivo, si oppone giustamente alle cattive traduzioni di massa.
+
+“Il pubblico tedesco vuole che i libri siano incredibilmente economici; quindi l’editore ha bisogno di traduzioni a basso costo. Il traduttore, però, non vuole morire di fame lavorando: non può nemmeno dedicarvi una riflessione approfondita, perché l’editore deve anticipare i concorrenti con consegne rapide delle traduzioni. Anche il traduttore deve temere la concorrenza: teme che qualcun altro produca lo stesso lavoro a un costo più basso e in tempi più rapidi. Per questo dettica il proprio manoscritto a qualche povero stenografo, il più velocemente possibile, per non dovergli pagare lo stipendio. È più che felice quando, il giorno dopo, riesce a soddisfare le esigenze del tipografo. Del resto, tutte queste traduzioni che ci sommergono non sono altro che una manifestazione dell’impotenza attuale della letteratura tedesca”, ecc. (Allgemeine Literatur-Zeitung, numero VIII, p. 54.)
+
+Commento Critico N. 5
+
+“La dimostrazione dell’impossibilità della proprietà che Proudhon ricava dal fatto che l’umanità si distrugge in particolare a causa del sistema degli interessi e dei profitti, nonché a causa del disallineamento tra consumo e produzione, manca di un corrispondente argomento: cioè la dimostrazione che la proprietà privata sia storicamente possibile.”
+
+La “Critica Critica” ha la fortuna di non addentrarsi nei ragionamenti di Proudhon riguardo al sistema degli interessi e dei profitti, ovvero nella parte più importante della sua argomentazione. Il motivo è che su questo punto non si può nemmeno tentare una critica seria di Proudhon senza disporre di una conoscenza assolutamente certa del funzionamento del sistema della proprietà privata. La “Critica Critica” cerca di compensare la propria impotenza osservando che Proudhon non ha dimostrato la possibilità storica dell’esistenza della proprietà privata. Perché, allora, una critica che dispone soltanto di parole si aspetta che gli altri le forniscano tutto ciò di cui ha bisogno?
+
+“Proudhon dimostra l’impossibilità della proprietà sottolineando il fatto che il lavoratore non può riacquistare il prodotto del proprio lavoro con lo stipendio che riceve. Proudhon non fornisce una prova esaustiva di ciò analizzando l’essenza del capitale. Il lavoratore non può riacquistare il proprio prodotto perché esso è sempre un prodotto collettivo, mentre lui stesso non è altro che un individuo pagato per il suo lavoro.”
+
+Herr Edgar, a differenza della deduzione di Proudhon, avrebbe potuto esprimersi in modo ancora più esaustivo, sostenendo che il lavoratore non può riacquistare il proprio prodotto perché, in generale, deve proprio comprarlo di nuovo. La stessa nozione di acquisto implica già che il lavoratore consideri il proprio prodotto come un oggetto che non gli appartiene più, un oggetto “estraneo” a lui. Tra l’altro, l’argomentazione esaustiva di Herr Edgar non spiega affatto perché il capitalista – che non è altro che un individuo, e per di più un uomo motivato dal profitto e dall’interesse – possa riacquistare non solo il prodotto del [lavoro](/concepts/labour), ma addirittura qualcosa di più di esso. Per spiegare questo, Herr Edgar dovrebbe analizzare la relazione tra lavoro e capitale, cioè esporre l’essenza stessa del capitale.
+
+La citazione precedente tratta da “Critica” mostra in modo molto evidente come la “Critica Critica” si avvalga immediatamente di ciò che ha appreso da un autore, presentandolo come saggezza scoperta da sé stessa e utilizzandola, con un approccio critico, contro lo stesso autore. Infatti, è proprio da Proudhon stesso che la “Critica Critica” ha tratto l’argomento secondo cui Proudhon non avrebbe fornito certe informazioni, mentre queste sarebbero state fornite invece dal signor Edgar. Proudhon stesso afferma.
+
+“Divide et impera, separa i lavoratori gli uni dagli altri, e è del tutto possibile che lo stipendio giornaliero pagato a ciascuno di loro superi il valore di ogni singolo prodotto; ma questo non è il punto fondamentale. Anche se avete pagato per tutte le capacità individuali che possedete, non avete ancora pagato per la forza collettiva.”
+
+Proudhon fu il primo ad attirare l’attenzione sul fatto che la somma dei salari dei singoli lavoratori, anche se ogni singola prestazione lavorativa viene completamente retribuita, non è sufficiente a coprire il costo della forza lavoro collettiva oggettivata nel suo prodotto; pertanto, il lavoratore non viene pagato come parte di questa forza lavoro collettiva. Herr Edgar distorce questo concetto, sostenendo che il lavoratore non sia altro che un individuo che riceve uno stipendio. La “Critica Critica” si oppone quindi al modo in cui Proudhon stesso ha sviluppato ulteriormente questo pensiero, assumendolo secondo i propri criteri critici e esprimendo così il “segreto” del socialismo critico nella seguente frase:
+
+“Il lavoratore moderno pensa soltanto a se stesso, cioè si permette di essere pagato soltanto per la propria persona. È proprio lui a non considerare l’enorme, l’immensurabile potere che deriva dalla sua collaborazione con altre forze.”
+
+Secondo la Critica Critica, tutto il male risiede esclusivamente nel “pensiero” dei lavoratori. È vero che i lavoratori inglesi e francesi hanno formato associazioni in cui scambiano opinioni non solo riguardo alle loro esigenze immediate come lavoratori, ma anche riguardo alle loro esigenze come esseri umani. In queste associazioni, inoltre, dimostrano una consapevolezza molto approfondita e completa del “enorme” e “immensurabile” potere che deriva dalla loro cooperazione. Ma questi lavoratori comunisti, impegnati ad esempio nelle officine di Manchester o Lione, non credono che con il “pensiero puro” possano riuscire a sconfiggere i loro padroni industriali e la propria condizione di sottomissione pratica. Sanno fin troppo bene la differenza tra essere e pensare, tra coscienza e vita. Sanno che proprietà, capitale, denaro, lavoro salariato e simili non sono semplicemente concetti ideali frutto dell’immaginazione, ma prodotti concreti e oggettivi della loro alienazione; pertanto devono essere aboliti in modo concreto e oggettivo affinché l’uomo possa diventare uomo non solo nel pensiero, nella coscienza, ma anche nella realtà quotidiana. La Critica Critica, invece, insegna loro che, se nel pensiero aboliscono l’idea stessa del lavoro salariato, se smettono di considerarsi lavoratori e, di conseguenza, non permettono più che la propria persona venga pagata, allora, nella realtà, cessano di essere lavoratori. Come idealisti assoluti, come esseri “eterei”, potranno naturalmente vivere del “etere” del pensiero puro. La Critica Critica insegna loro che aboliscono il capitale reale superando nel pensiero la categoria stessa di capitale; che si trasformano davvero in esseri umani reali modificando il proprio “ego astratto” nella coscienza e disprezzando come operazioni non critiche ogni cambiamento concreto nella loro esistenza reale, nelle condizioni effettive della loro vita. Lo “spirito”, che nella realtà vede soltanto categorie, riduce naturalmente tutta l’attività umana al processo dialettico del pensiero della Critica Critica. È proprio questo ciò che distingue il suo socialismo dal socialismo e dal comunismo di tipo massiccio.
+
+Dopo la sua lunga e approfondita argomentazione, il signor Edgar deve certamente affermare che la critica di Proudhon è “priva di consapevolezza”.
+
+“Tuttavia, Proudhon desidera anche essere pratico.” “Pensa di aver compreso la verità.” “Eppure,” esclama con trionfo la tranquillità della conoscenza, “non possiamo nemmeno ora riconoscergli quella tranquillità intellettuale.” “Citiamo alcuni passaggi per dimostrare quanto poco abbia riflettuto sul proprio atteggiamento verso la società.”
+
+In seguito citeremo anche alcuni passaggi dagli scritti della “Critica Critica” (vedi “La Banca dei Poveri” e “La Fattoria Modello”) per dimostrare che essa non ha ancora compreso le relazioni economiche più elementari, per non parlare di averle analizzate a fondo; per questo motivo, con il suo tipico modo critico, si è sentita in dovere di esprimere un giudizio su Proudhon.
+
+<span class="atom-split" data-atom="016" data-title="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar (parte 11)" data-chapter="Chapter IV. “Critical Criticism” As the Tranquillity of Knowledge, Or “Critical Criticism” As Herr Edgar" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Now that Critical Criticism as the tranquillity of knowledge has “made” all the mass-type “antitheses its concern”, has mastered all reality in the form of categories and dissolved all human activity into speculative dialectics, we shall see it produce the world again out of speculative dialectics. It goes without saying that if the miracles of the Critically speculative creation of the world are not to be “desecrated”, they can be presented to the profane mass only in the form of mysteries. Critical Criticism therefore appears in the incarnation of Vishnu-Szeliga as a mystery-monger.
 
-<span class="atom-split" data-atom="017" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 1)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora che la Critica Critica, nella sua veste di tranquillità del conoscere, ha “reso” tutte le forme di “antitesi” tipiche delle masse oggetto della sua attenzione, ha dominato tutta la realtà attraverso categorie e ha dissolto ogni attività umana nella dialettica speculativa, vedremo essa ricreare il mondo a partire proprio da questa dialettica. È ovvio che, se i “miracoli” della creazione del mondo operata dalla Critica Critica non devono essere “profanati”, essi possono essere presentati alle masse profane soltanto sotto forma di misteri. Pertanto, la Critica Critica appare, nell’incarnazione di Vishnu-Szeliga, come un diffusore di misteri.
+
+<span class="atom-split" data-atom="017" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 1)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 “Critical Criticism” in its Szeliga-Vishnu incarnation provides an apotheosis of the Mystéres de Paris. Eugéne Sue is proclaimed a “Critical Critic”. Hearing this, he may exclaim like Moliére’s Bourgeois gentilhomme:
 
@@ -720,7 +1373,65 @@ The speculative philosopher therefore relinquishes the abstraction “the Fruit�
 
 If apples, pears, almonds and strawberries are really nothing but “the Substance”, “the Fruit”, the question arises: Why does “the Fruit” manifest itself to me sometimes as an apple, sometimes as a pear, sometimes as an almond? Why this semblance of diversity which so obviously contradicts my speculative conception of Unity, “the Substance”, “the Fruit”?
 
-<span class="atom-split" data-atom="018" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 2)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La “Critica Critica”, nella sua incarnazione di Szeliga-Vishnu, rappresenta un’apoteosi dei “Mystères de Paris”. Eugène Sue viene proclamato un “Critico Critico”; sentendo ciò, potrebbe esclamare come il “Bourgeois gentilhomme” di Molière.
+
+“Per Dio, da più di quarant’anni parlo di prosa senza ne sapere nulla; e vi sono davvero molto grato per avermi insegnato queste cose.”
+
+Herr Szeliga introduce la sua critica con un prologo estetico. Questo “prologo estetico” fornisce una spiegazione del significato generale dell’epopea “critica”, e in particolare di *I Misteri di Parigi*.
+
+“L’epopea suscita l’idea che il presente, in sé, non sia nulla, e non solo: non è nemmeno il confine eterno tra passato e futuro, ma piuttosto il divario che separa l’immortalità dalla transitorietà, un divario che deve essere continuamente colmato. Questo è il significato generale dei ‘Mystères de Paris’.”
+
+Il “prologo estetico” afferma inoltre che “se il Critico desiderasse poter essere anche poeta, ”.
+
+L’intera critica di Herr Szeliga dimostrerà questa affermazione: si tratta, sotto ogni aspetto, di “ficzione poetica”.
+
+È anche un prodotto dell’“arte libera”, secondo la definizione di quest’ultima data nel “prologo estetico”: inventa qualcosa di completamente nuovo, qualcosa che prima non è mai esistito.
+
+Infine, si tratta anche di un’epopea critica, poiché rappresenta “il divario che separa l’immortalità” – la Critica Critica di Herr Szeliga – dalla “transitorietà” – il romanzo di Eugène Sue – e “deve essere continuamente colmato”.
+
+1) “Il mistero della degenerazione nella civiltà” e “Il mistero dell’assenza di diritto nell’[Lo Stato](/concepts/state)”.
+
+Come sappiamo, [Feuerbach](/figures/feuerbach) considerava le idee cristiane dell’Incarnazione, della Trinità, dell’Immortalità, ecc., come dei misteri legati a tali concetti. Herr Szeliga, invece, vede tutte le condizioni attuali del mondo come misteri. Ma mentre Feuerbach rivelava veri misteri, Herr Szeliga trasforma delle banalità in misteri. L’arte di Herr Szeliga non consiste nel rivelare ciò che è nascosto, ma nel nascondere ciò che è stato rivelato.
+
+Pertanto, egli proclama la degenerazione (dei criminali) all’interno della civiltà, nonché l’assenza di diritto e l’ineguaglianza nello Stato come misteri inspiegabili. Ciò significa che la letteratura socialista, che ha rivelato questi “misteri”, rimane ancora un enigma per il signor Szeliga, oppure che egli intende trasformare le scoperte più note di tale letteratura in un mistero privato, legato alla cosiddetta “Critica Critica”.
+
+Pertanto, non è necessario addentrarci ulteriormente nel discorso del signor Szeliga su questi misteri; ci limiteremo ad evidenziare alcuni dei punti più brillanti.
+
+“Di fronte alla legge e al giudice, tutti sono uguali: i nobili e i plebei, i ricchi e i poveri. Questa proposizione è alla base delle convinzioni fondamentali dello Stato.”
+
+Dello Stato? Il credo della maggior parte degli Stati, al contrario, inizia proprio stabilendo disuguaglianze tra i nobili e i plebei, i ricchi e i poveri di fronte alla legge.
+
+“Il gioielliere Morel, con la sua ingenua onestà, esprime in modo molto chiaro questo mistero” (il mistero dell’antitesi tra poveri e ricchi) “quando dice: ‘Se solo i ricchi lo sapessero! Se solo i ricchi lo sapessero. Il problema è che non sanno cosa sia la povertà.’”
+
+Il signor Szeliga non sa che Eugène Sue commette un anacronismo, per cortesia verso la borghesia francese, quando fa pronunciare dal lavoratore Morel, vissuto all’epoca della “Charte Vérité”, lo slogan dei borghesi dell’epoca di Luigi XIV: “Ah! se il re lo sapesse!” in una forma modificata: “Ah! se i ricchi lo sapessero!” Almeno in Inghilterra e in Francia, questa ingenua relazione tra ricchi e poveri è ormai scomparsa. Lì i rappresentanti scientifici della ricchezza, gli economisti, hanno diffuso una conoscenza molto dettagliata della miseria fisica e morale della povertà; hanno però compensato ciò dimostrando che tale miseria deve rimanere, perché lo stato attuale delle cose deve essere mantenuto. Nella loro premura, hanno persino calcolato le proporzioni in cui il numero dei poveri dovrebbe diminuire a causa di morti, per il bene dei ricchi e per il loro stesso benessere.
+
+Se Eugene Sue descrive le taverne, i nascondigli e il linguaggio dei criminali, Herr Szeliga svela il “mistero”: ciò che l’“autore” voleva in realtà non era descrivere quel linguaggio o quei nascondigli, ma.
+
+“Per insegnarci il mistero delle cause prime del male, ecc.” “È proprio nei luoghi più affollati, che i criminali si sentono a loro agio.”
+
+Cosa direbbe uno scienziato naturale se gli si dimostrasse che la cellula d’ape non lo interessa in quanto tale, che non rappresenta alcun mistero per chi non l’ha studiata, perché l’ape “si sente a suo agio” esattamente all’aperto e sulle fioriture? I nascondigli dei criminali e il loro linguaggio riflettono il loro carattere; fanno parte della loro esistenza, e la loro descrizione fa parte della descrizione stessa di quegli individui, proprio come la descrizione di una piccola casa fa parte della descrizione di una donna affascinante.
+
+Per i parigini in generale, e persino per la polizia di Parigi, i nascondigli dei criminali rappresentano un vero “mistero”; proprio in questo momento vengono costruite strade ampie e ben illuminate nella Cité, al fine di permettere alla polizia di accedervi facilmente.
+
+Infine, lo stesso Eugène Sue afferma che nelle descrizioni menzionate sopra si basava sulla “curiosità timida” dei suoi lettori. In tutti i suoi romanzi, M. Eugène Sue ha fatto affidamento su questa curiosità timida dei suoi lettori; basta ricordare opere come Atar Gull, Salamandre, Plick e Plock, ecc.
+
+2) Il mistero della costruzione speculativa
+
+Il mistero della presentazione critica dei *Mystères de Paris* è il mistero di una costruzione speculativa, hegeliana. Non appena il signor Szeliga ha dichiarato che “la degenerazione all’interno della civiltà” e l’ingiustizia nello stato sono “misteri”, cioè li ha assimilati alla categoria del “mistero”, ha permesso a questo concetto di iniziare il proprio percorso speculativo. Bastano poche parole per caratterizzare, in generale, questa forma di costruzione speculativa; l’analisi del signor Szeliga sui *Mystères de Paris* ne fornirà un esempio concreto e dettagliato.
+
+Se partendo da mele, pere, fragole e mandorle formo l’idea generale di “frutto”, se poi immagino che questa mia idea astratta, derivata dai frutti reali, sia un’entità esistente al di fuori di me, che rappresenti effettivamente l’essenza vera della pera, della mela, ecc., allora, nel linguaggio della filosofia speculativa, sto affermando che “frutto” è la “sostanza” della pera, della mela, della mandorla, ecc. In altre parole, essere una pera non è essenziale per la pera stessa; allo stesso modo, essere una mela non è essenziale per la mela. Quello che è essenziale a queste cose non è la loro esistenza reale, percepibile ai sensi, ma l’essenza che ho astratto da esse e poi attribuito loro: l’essenza del mio concetto di “frutto”. Pertanto, dichiaro che mele, pere, mandorle, ecc., non siano altro che forme di esistenza, modi dell’“frutto”. La mia comprensione finita, supportata dai sensi, distingue certamente una mela da una pera e una pera da una mandorla; ma la mia ragione speculativa considera queste differenze sensoriali irrilevanti ed essenzialmente inutili. Vede nella mela ciò che vede nella pera, e nella pera ciò che vede nella mandorla: cioè “frutto”. I singoli frutti reali non sono altro che apparenze la cui vera essenza è la “sostanza” – il “frutto”.
+
+Con questo [metodo](/axes/method) non si ottiene alcuna vera ricchezza di definizioni. Il mineralogista il cui intero sapere si limita all’affermazione che tutti i minerali siano in realtà “il Minerale” sarebbe un mineralogista soltanto nella sua immaginazione. Per ogni minerale, il mineralogista speculativo dice semplicemente “il Minerale”, e la sua scienza si riduce a ripetere questa parola per quante volte esistano minerali reali.
+
+Avendo ridotto i diversi frutti concreti a quell’unico “frutto” dell’astrazione – il “Frutto” in sé – la speculazione, per acquisire almeno un’apparenza di contenuto reale, deve cercare in qualche modo di tornare da quel concetto astratto alle diverse forme concrethe dei frutti: la pera, la mela, l’albicocca, ecc. È altrettanto difficile produrre frutti concreti a partire dall’idea astratta del “Frutto”, quanto sia facile generare tale concetto astratto a partire dai frutti reali. Infatti, è impossibile giungere al contrario di un’astrazione senza abbandonarla del tutto.
+
+Il filosofo speculativo quindi abbandona l’astrazione del “Frutto”, ma in modo speculativo e mistico – dando l’impressione di non abbandonarla affatto. Così, in realtà, è soltanto in apparenza che egli si eleva al di sopra di tale astrazione. Il suo ragionamento è più o meno il seguente:
+
+Se mele, pere, mandorle e fragole non sono altro che “la Sostanza”, “il Frutto”, allora sorge la domanda: Perché “il Frutto” si manifesta a me a volte come mela, a volte come pera, a volte come mandorla? Perché questa apparente diversità che, in modo così evidente, contraddice la mia concezione speculativa dell’Unità, della “Sostanza”, del “Frutto”?
+
+<span class="atom-split" data-atom="018" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 2)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 This, answers the speculative philosopher, is because “the Fruit” is not dead, undifferentiated, motionless, but a living, self-differentiating, moving essence. The diversity of the ordinary fruits is significant not only for my sensuous understanding, but also for “the Fruit” itself and for speculative reason. The different ordinary fruits are different manifestations of the life of the “one Fruit”; they are crystallisations of “the Fruit” itself. Thus in the apple “the Fruit” gives itself an apple-like existence, in the pear a pear-like existence. We must therefore no longer say, as one might from the standpoint of the Substance: a pear is “the Fruit”, an apple is “the Fruit”, an almond is “the Fruit”, but rather “the Fruit” presents itself as a pear, “the Fruit” presents itself as an apple, “the Fruit” presents itself as an almond; and the differences which distinguish apples, pears and almonds from one another are the self-differentiations of “the Fruit” and,.make the particular fiuits different members of the life-process of “the Fruit”. Thus “the Fruit” is no longer an empty undifferentiated unity; it is oneness as allness, as “totality” of fruits, which constitute an “organically linked series of members”. In every member of that series “the Fruit” gives itself a more developed, more explicit existence, until finally, as the “summary” of all fruits, it is at the same time the living unity which contains all those fruits dissolved in itself just as it produces them from within itself, just as, for instance, all the limbs of the body are constantly dissolved in and constantly produced out of the blood.
 
@@ -756,7 +1467,43 @@ Enough. Herr Szeliga has gone so far that the
 
 “metaphysical subject, Mystery, now steps forward, light, self-confident and jaunty”.
 
-<span class="atom-split" data-atom="019" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 3)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+“Ecco la risposta”, dice il filosofo speculativo, “perché ‘il Frutto’ non è morto, indifferenziato, immobile, ma un’essenza viva, capace di autodifferenziazione e movimento. La diversità dei frutti comuni è significativa non solo per la mia comprensione sensoriale, ma anche per ‘il Frutto’ stesso e per la ragione speculativa. I diversi frutti comuni sono manifestazioni diverse della vita di ‘un unico Frutto’; sono cristallizzazioni dello stesso ‘Frutto’. Pertanto, nell’apple ‘il Frutto’ assume una forma simile a quella dell’apple, nella pera una forma simile a quella della pera. Non dobbiamo quindi più dire, dal punto di vista della Sostanza: ‘una pera è il Frutto’, ‘un apple è il Frutto’, ‘un mandorlo è il Frutto’, ma piuttosto: ‘il Frutto’ si manifesta come pera, ‘il Frutto’ si manifesta come apple, ‘il Frutto’ si manifesta come mandorlo’. Le differenze che distinguono le mele, le pere e i mandorli tra loro sono proprio le autodifferenziazioni di ‘il Frutto’, e queste differenze rendono i singoli frutti membri diversi del processo vitale di ‘il Frutto’. Così ‘il Frutto’ non è più un’unità vuota e indifferenziata; è l’unità come totalità, come insieme organicamente collegato di frutti che costituiscono una serie di elementi interconnessi. In ogni membro di questa serie, ‘il Frutto’ assume una forma sempre più sviluppata, sempre più concreta; fino a quando, in quanto ‘riassunto’ di tutti i frutti, diventa l’unità vivente che contiene in sé tutti quei frutti, proprio come li produce dal proprio interno – proprio come, ad esempio, tutte le membra del corpo sono costantemente contenute nel sangue e allo stesso tempo ne derivano”.
+
+Si osserva che, se la religione cristiana conosce soltanto un’unica Incarnazione di Dio, la filosofia speculativa ne possiede altrettante quante sono le cose esistenti; proprio come ogni frutto rappresenta un’incarnazione della Sostanza, dell’“Frutto Assoluto”, così nella filosofia speculativa esistono infinite incarnazioni di questo concetto. L’interesse principale del filosofo speculativo consiste quindi nel dimostrare l’esistenza di questi “frutti reali” e, in modo misterioso, affermare che ci siano mele, pere, mandorle e uvetta. Tuttavia, le mele, le pere, le mandorle e le uvette che ritroviamo nel mondo speculativo non sono altro che apparenze di tali frutti: sono soltanto momenti nel “vivere” di questo concetto astratto creato dall’intelletto, e quindi esse stesse rappresentano creazioni astratte. Ciò che rende affascinante questa speculazione è il fatto di riscoprire tutti questi frutti reali, ma considerandoli come entità dotate di un significato mistico più profondo; frutti che, in realtà, sono nati dall’“etere” del nostro cervello e non dalla terra materiale, e che rappresentano incarnazioni dell’“Frutto Assoluto”, del Soggetto Assoluto. Quando torniamo dai concetti astratti creati dall’intelletto ai frutti naturali reali, è invece il contrario: diamo ai frutti naturali un significato soprannaturale e li trasformiamo in mere astrazioni. Il nostro interesse principale, quindi, consiste nel dimostrare l’unità dell’“Frutto Assoluto” nelle sue varie manifestazioni – la mela, la pera, la mandorla – cioè nel mostrare il legame mistico che esiste tra questi frutti, e come in ciascuno di essi l’“Frutto Assoluto” si realizzi gradualmente e inevitabilmente progredisca, ad esempio dalla sua forma di uvetta a quella di mandorla. Da questo punto di vista, il valore dei frutti ordinari non risiede più nelle loro qualità naturali, ma nella loro natura speculativa, che conferisce a ciascuno di essi un ruolo preciso nel processo vitale dell’“Frutto Assoluto”.
+
+L’uomo comune non ritiene di dire nulla di straordinario quando afferma l’esistenza di mele e pere. Ma quando il filosofo esprime tale esistenza in modo speculativo, allora dice qualcosa di davvero straordinario. Egli compie un vero e proprio [miracolo](/concepts/miracle): crea gli oggetti naturali reali – la mela, la pera, ecc. – a partire dalla creazione immaginaria della mente, ovvero dal concetto astratto di “frutto”. In altre parole, genera questi frutti attraverso la propria ragione astratta, che considera un soggetto assoluto al di fuori di sé stesso; in questo contesto, tale ragione viene rappresentata come il concetto di “frutto”. E per ogni oggetto il cui esistenza viene così espressa, egli compie effettivamente un atto di creazione.
+
+È ovvio che il filosofo speculativo compia questa continua creazione soltanto presentando qualità universalmente conosciute dell’mela, della pera, ecc., che esistono nella realtà, come caratteristiche determinanti inventate da lui stesso; attribuendo i [nomi](/positions/nominalism) delle cose reali a quelle formule astratte che solo la ragione può creare; e infine dichiarando la propria attività – quella attraverso cui passa dall’idea di un’mela all’idea di una pera – come l’attività stessa del Soggetto Assoluto, “il Frutto”.
+
+In termini speculativi, questa operazione viene definita come la comprensione della Sostanza intesa come Soggetto, come processo interno, come Persona Assoluta; tale comprensione costituisce il carattere essenziale del [mетодo](/axes/method) hegeliano.
+
+Queste osservazioni preliminari erano necessarie per rendere comprensibili le idee di Herr Szeliga. Solo ora, dopo aver dissolto relazioni concrete come il diritto e la civiltà nella categoria del mistero, trasformando così “il Mistero” in una sostanza reale, egli raggiunge l’autentica dimensione speculativa hegeliana e trasforma “il Mistero” in un Soggetto autoesistente che si incarna in situazioni e persone reali; di conseguenza, le manifestazioni della sua “vita” includono contesse, marchesi, grisette, portieri, notai, ciarlatani, intrighi amorosi, balli, porte di legno, ecc. Avendo creato la categoria del “Mistero” a partire dal mondo reale, egli produce poi il mondo reale stesso a partire da questa categoria.
+
+I misteri della costruzione speculativa nella presentazione di Herr Szeliga verranno rivelati ancora più chiaramente, poiché egli dispone di un doppio vantaggio indiscutibile rispetto a Hegel. Da un lato, Hegel, con una sofisticazione maestosa, riesce a presentare come processo di creazione immaginaria della mente stessa, del Soggetto Assoluto, il percorso attraverso cui il filosofo, grazie alla percezione sensoriale e all’immaginazione, passa da un soggetto all’altro. Dall’altro lato, tuttavia, Hegel molto spesso fornisce una presentazione “reale”, che include la cosa stessa all’interno di quel processo speculativo. Questo sviluppo “reale” all’interno del contesto speculativo inganna il lettore, portandolo a considerare il processo speculativo come reale e ciò che è reale come speculativo.
+
+Con il signor Szeliga entrambe queste difficoltà scompaiono. La sua dialettica è priva di ipocrisia o dissimulazione: esegue i suoi “trucchi” con la massima onestà e schiettezza. Tuttavia, non sviluppa alcun contenuto reale; pertanto la sua costruzione speculativa è libera da ogni elemento perturbante, da qualsiasi mascheramento ambiguo, e si presenta al nostro sguardo nella sua nudità estetica. Nel signor Szeliga vediamo anche un esempio brillante di come la speculazione, da un lato appaia creare liberamente il proprio oggetto a priori partendo da sé stessa, e dall’altro, proprio perché cerca di liberarsi, attraverso la sofisticazione, dalla dipendenza razionale e naturale da tale oggetto, finisca per cadere nella schiavitù più irrazionale e innaturale nei suoi confronti, essendo costretta a considerare come assolutamente necessari e universali gli attributi più casuali e individuali di quell’oggetto.
+
+3) “Il mistero della società colta”
+
+Dopo averci fatto visitare gli strati più bassi della società, ad esempio le taverne dei criminali, Eugène Sue ci trasporta nel mondo dell’“alta società”, a un ballo nel Quartiere Saint-Germain.
+
+Herr Szeliga interpreta questa transizione nel seguente modo:
+
+“Il mistero cerca di eludere l’analisi attraverso una sorta di, svolta: fino ad ora è apparso come qualcosa di assolutamente enigmatico, inafferrabile e negativo, in contrasto con ciò che è vero, reale e positivo; ora si ritira nell’ambito di quest’ultimo, assumendo il ruolo di un contenuto invisibile. Ma facendolo, rinuncia alla possibilità incondizionata di essere rivelato.”
+
+Il “mistero”, che finora è apparso in contrasto con il “vero”, il “reale”, il “positivo”, cioè con la legge e l’[educazione](/concepts/education), “si ritira ora nell’ambito di quest’ultima”. È certamente un mistero per Parigi, se non addirittura per l’intera società, che l’“alta cultura” sia l’esclusivo dominio dell’educazione. Herr Szeliga non passa dai misteri del mondo criminale a quelli della società aristocratica; al contrario, il “mistero” diventa il “contenuto invisibile” della società colta, la sua vera essenza. Non si tratta di una “nuova interpretazione” da parte di Herr Szeliga per poter proseguire nelle sue analisi; è il “mistero” stesso a assumere questa “nuova forma” al fine di sfuggire all’esame critico.
+
+Prima di seguire veramente Eugene Sue dove il suo cuore lo conduce – verso un ballo aristocratico – Herr Szeliga ricorre alle ipocrite speculazioni che costruiscono scenari basati su presupposti preconcetti.
+
+“Si può facilmente immaginare in quale solida ‘scatola’ il ‘Mistero’ sceglierà di nascondersi; sembra, infatti, che tale scatola sia di insuperabile impenetrabilità. Pertanto, è inevitabile tentare nuovamente di individuare il suo nucleo.”
+
+Basta. Herr Szeliga è andato troppo oltre.
+
+“Il soggetto metafisico, il Mistero, ora fa un passo avanti: è luce, pieno di fiducia in se stesso e spensierato”.
+
+<span class="atom-split" data-atom="019" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 3)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 In order now to change aristocratic society into a “mystery”, Herr Szeliga gives us a few considerations on “[education](/concepts/education)”. He presumes aristocratic society to have all sorts of qualities that no man would look for in it, in order later to find the “mystery” that it does not possess those qualities. Then he presents this discovery as the “mystery” of educated society. Herr Szeliga wonders, for example, whether “general reason” (does he mean speculative logic?) constitutes the content of its “drawing-room talk”, whether “the rhythm and measure of love alone makes” it a “harmonious whole”, whether “what we call general education is the form of the general, the eternal, the ideal”, i.e., whether what we call education is a metaphysical illusion. It is not difficult for Herr Szeliga to prophesy [a priori](/positions/transcendental_criticism) in answer to his questions:
 
@@ -836,7 +1583,87 @@ The parson immediately betrays his real meaning when he continues:
 
 “If then love ceases to be the essential element of marriage and of morality in general, sensuality becomes the mystery of love, of morality, of educated society - sensuality both in its narrow meaning, in which it is a trembling in the nerves and a burning stream in the veins, and in the broader meaning, in which it is elevated to a semblance of spiritual power, to lust for power, ambition, craving for glory.... Countess MacGregor represents” the latter meaning “of sensuality as the mystery of educated society.”
 
-<span class="atom-split" data-atom="020" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 4)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Al fine di trasformare la società aristocratica in un “mistero”, il signor Szeliga ci presenta alcune riflessioni sulla “[educazione](/concepts/education)”. Egli presuppone che la società aristocratica possieda ogni sorta di qualità che nessuno cercherebbe in essa, al fine di scoprire successivamente quel “mistero” per cui essa non le possiede. Poi presenta questa scoperta come il “mistero” della società educata. Il signor Szeliga si chiede, ad esempio, se la “ragione generale” (intende forse la logica speculativa?) costituisca il contenuto delle conversazioni quotidiane in salotto, se soltanto il “ritmo e la misura dell’amore” possano rendere una società un “tutto armonioso”, e se ciò che chiamiamo educazione generale non sia in realtà la forma del generale, dell’eterno, dell’ideale; in altre parole, se l’educazione non sia un’illusione metafisica. Non è difficile per il signor Szeliga fornire risposte a queste domande in modo “a priori”.
+
+“Tuttavia, è lecito aspettarsi che la risposta sia negativa.”
+
+Nel romanzo di Eugène Sue, il passaggio dal mondo popolare a quello aristocratico rappresenta una transizione tipica per un romanzo del genere. I travestimenti di Rudolph, principe di Geroldstein, gli permettono di accedere alle classi sociali inferiori, mentre il suo titolo nobiliare gli garantisce l’ingresso nei circoli più elevati. Lungo il cammino verso il ballo aristocratico, egli non si sofferma affatto sui contrasti della vita contemporanea; ciò che lo diverte sono proprio i contrasti creati dai suoi stessi travestimenti. I suoi compagni obbedienti ascoltano con interesse le sue descrizioni su quanto sia interessante trovarsi in quelle diverse situazioni.
+
+“Trovo,” dice, “che ci sia abbastanza contrasto in tutto questo: un giorno pittore che si stabilisce in una bottega in rue aux Fèves; questa mattina commesso che offre un bicchiere di cassis a Madame Pipelet, e stasera, uno dei privilegiati dalla grazia di Dio, quelli che dominano su questo mondo.”
+
+Quando la “Critica Critica” fa il suo ingresso nel salone da ballo, canta:
+
+Il senso e la ragione mi abbandonano.
+
+Tra tutti questi potenti.
+
+Si esprime attraverso ditirambi nel seguente modo:
+
+“Qui la magia porta con sé il splendore del sole di notte, la verdura della primavera e lo splendore dell’estate anche d’inverno. Ci sentiamo immediatamente disposti a credere nel [miracolo](/concepts/miracle) della presenza divina nel cuore dell’uomo, soprattutto quando [bellezza](/concepts/beauty) e grazia rafforzano la convinzione di trovarci in prossimità immediata degli ideali.” (!!!)
+
+Inesperto, credulone parroco di un paese provinciale. Solo la tua ingenuità critica può essere stimolata da una raffinata serata in un salone da ballo parigino, portandoti in uno stato d’animo nel quale credi nei “miracoli della presenza divina nel cuore dell’uomo”, e vedi nelle donne di Parigi “ideali immediati” e angeli in carne e ossa.
+
+Nella sua ipocrita ingenuità, quel pastore critico ascolta le due “più belle tra tutte le belle”: Clemence d’Harville e la contessa Sarah MacGregor. Si può immaginare ciò che desidera “sentire” da loro.
+
+“In che modo possiamo essere una benedizione per i nostri cari figli e la ‘pienezza di felicità’ per un marito. Ascoltiamo, ci meravigliamo, non riusciamo a credere alle nostre orecchie.”
+
+Proviamo segretamente un piacere malizioso quando il prete che ascolta rimane deluso. Le signore non parlano né di “benedizioni”, né di “pienezza”, né di “ragionamenti logici”, ma dell’“infedeltà della signora d’Harville verso suo marito”.
+
+Riceviamo la seguente ingenua [rivelazione](/concepts/revelation) su una delle signore, la Contessa MacGregor:
+
+Era abbastanza intraprendente da diventare madre di un bambino nato da un matrimonio segreto.
+
+Influenzati negativamente da.
+
+A proposito della Contessa, Herr Szeliga ha parole taglienti per lei:
+
+“Riteniamo che tutti gli sforzi della Contessa siano finalizzati esclusivamente al suo vantaggio personale e egoistico.”
+
+Infatti, non si aspetta nulla di buono dall’attuazione del suo scopo: il matrimonio con il Principe di Geroldstein.
+
+“Per quanto riguarda questo, non possiamo assolutamente aspettarci che lei lo utilizzi al fine di rendere felici i sudditi del Principe di Geroldstein.”
+
+Il puritano conclude il suo sermone ammonitore con “profonda sincerità”.
+
+“Sarah”, quella signora intraprendente, “in realtà non rappresenta affatto un’eccezione in questo brillante circolo, anche se ne è senz’altro uno dei membri più importanti”.
+
+In ogni caso, per niente affatto! Anche se. E non è forse l’“apice” di un cerchio un’eccezione?
+
+Ecco ciò che apprendiamo riguardo al carattere di altre due figure ideali: la Marchesa d’Harville e la Duchessa di Lucenay.
+
+“Loro ‘mancano di soddisfazione nel cuore’. Non hanno trovato nell’amore coniugale l’oggetto del proprio amore, quindi lo cercano al di fuori del matrimonio. Nel matrimonio, l’amore rimane per loro un mistero; la pressione imperiosa del cuore li spinge a svelare questo mistero. Per questo si dedicano ad amori segreti. Queste ‘vittime’ di matrimoni privi d’amore sono ‘costrette, contro la loro volontà, a degradare l’amore in qualcosa di esterno, in una cosiddetta relazione extraconiugale, e considerano ciò che è romantico e segreto come l’elemento essenziale, vitale dell’amore stesso’”.
+
+Il merito di questo ragionamento dialettico aumenta man mano che ne diventa più evidente l’applicazione generale.
+
+Ad esempio, colui a cui non è permesso bere in casa e che tuttavia sente il bisogno di farlo cerca l’“oggetto” del bere “fuori” dalla casa, e quindi ricorre al consumo segreto di alcolici. Infatti, sarà spinto a considerare la segretezza un elemento essenziale per il proprio comportamento, anche se non degraderà il bere a qualcosa di puramente “esterno” e indifferente, proprio come quelle donne facevano con l’amore. Perché, secondo lo stesso Herr Szeliga, non è l’amore, ma il matrimonio senza amore, che viene degradato al suo vero significato: qualcosa di esterno, una cosiddetta “relazione”.
+
+Herr Szeliga prosegue chiedendo: “Qual è il ‘mistero’ dell’amore?”
+
+Abbiamo appena formulato l’ipotesi che il “mistero” sia l’“essenza” di questo tipo di amore. Come mai ora cerchiamo il mistero del mistero stesso, l’essenza dell’essenza?
+
+“Non i sentieri ombrosi tra i cespugli,” proclama il parroco, “né la semioscurità naturale delle notti di luna, né la semioscurità artificiale creata da costose tende e drappeggi; né le note dolci e incantevoli degli arpe e degli organi, né l’attrattiva di ciò che è proibito, ”
+
+Tende e drappeggi. Note dolci ed incantevoli. Anche l’organo! Che il rispettabile pastore smetta di pensare alla chiesa. Chi porterebbe un organo a un appuntamento d’amore?
+
+“Tutto questo” (cortine, tende e organi) “non è altro che mistero.”
+
+E non è forse il misterioso l’“essenza del mistero” dell’amore enigmatico? Assolutamente no.
+
+“È ciò che è misterioso in tutto questo che suscita emozione, che inebria, che incanta, il potere della sensualità.”
+
+Nelle note “dolci e incantevoli”, il pastore possedeva già ciò che incanta le persone. Se avesse portato zuppa di tartaruga e champagne al suo appuntamento amoroso, invece di tende e organi, anche quelli elementi “emozionanti e inebrianti” sarebbero stati presenti.
+
+“È vero che non ci piace ammetterlo,” argomenta il rispettabile signore, “ma il potere della sensualità ha su di noi un ascendente così terribile soltanto perché lo scacciamo da noi stessi e rifiutiamo di riconoscerlo come parte della nostra vera natura; se invece lo accettassimo, saremmo in grado di dominarlo quando tentasse di imporsi a scapito della ragione, dell’amore vero e della forza di volontà.”
+
+Il parroco ci consiglia, seguendo le modalità della teologia speculativa, di riconoscere la sensualità come parte della nostra vera natura, al fine di poterla poi dominare, ovvero di ritirare il nostro [riconoscimento](/concepts/recognition) di essa. Certo, egli desidera dominarla soltanto quando questa cerca di affermarsi a scapito della Ragione: la volontà e l’amore, in contrapposizione alla sensualità, non sono altro che la volontà e l’amore della Ragione stessa. Anche il cristiano non speculativo riconosce la sensualità, purché questa non si imponga a scapito della vera ragione, cioè della fede, dell’amore vero, ovvero dell’amore per Dio, e della vera volontà, ovvero della volontà in Cristo.
+
+Il parroco tradisce immediatamente il suo vero intento quando prosegue dicendo:
+
+“Se dunque l’amore smette di essere l’elemento essenziale del matrimonio e della morale in generale, la sensualità diventa il mistero dell’amore, della morale, della società colta: la sensualità sia nel suo significato ristretto – quando si manifesta come un tremore dei nervi o un flusso ardente nelle vene – sia nel suo significato più ampio, quando viene elevata a una sorta di potere spirituale, a desiderio di potere, ambizione, sete di gloria. La contessa MacGregor rappresenta proprio questo secondo significato della sensualità, come mistero della società colta.”
+
+<span class="atom-split" data-atom="020" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 4)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 The parson hits the nail on the head. To overcome sensuality he must first of all overcome the nerve currents and the quick circulation of the blood.- Herr Szeliga believes in the “narrow” meaning that greater warmth in the body comes from the heat of the blood in the veins; he does not know that warm-blooded animals are so called because the temperature of their blood, apart from slight modifications, always remams at a constant level.- As soon as there is no more nerve current and the blood in the veins is no longer hot, the sinful body, this seat of sensual lust, becomes a corpse and the souls can converse unhindered about “general reason”, “true love”, and “pure morals”. The parson debases sensuality to such an extent that he abolishes the very elements of sensual love which inspire it - the rapid circulation of the blood, which proves that man does not love by insensitive phlegm; the nerve currents which connect the organ that is the main seat of sensuality with the brain. He reduces true sensual love to the mechanical secretio seminis and lisps with a notorious German theologian:
 
@@ -884,7 +1711,55 @@ Let us continue.
 
 Those of Herr Szeliga’s readers who have not read Sue’s novel will certainly think that Cecily is the lioness of the ball that is described. In the novel she is in a German gaol while the dancing goes on in Paris.
 
-<span class="atom-split" data-atom="021" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 5)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il parroco colpisce nel segno giusto. Per superare la sensualità, è necessario prima di tutto sconfiggere le correnti nervose e la rapida circolazione del sangue. Herr Szeliga crede nel significato “stretto” di questa idea, ritenendo che il maggiore calore corporeo derivi dal calore del sangue nelle vene; non sa però che gli animali a sangue caldo sono chiamati così perché la temperatura del loro sangue, fatta eccezione per lievi variazioni, rimane sempre costante. Non appena le correnti nervose cessano e il sangue nelle vene smette di essere caldo, il corpo, questo luogo di desideri sensuali, diventa un cadavere e le anime possono conversare liberamente su argomenti come “ragione universale”, “vera amore” e “morale pura”. Il parroco degrada la sensualità a tal punto da eliminare proprio gli elementi che la alimentano: la rapida circolazione del sangue, che dimostra che l’uomo non ama attraverso sentimenti insensibili; le correnti nervose che collegano l’organo principale della sensualità al cervello. Riduce il vero amore sensuale a una semplice funzione meccanica e, con parole infamie tipiche di un teologo tedesco, sminuisce completamente il valore di tali sentimenti.
+
+“Non per amore sensuale, non per l’istinto della carne, ma perché il Signore ha detto: ‘Moltiplicatevi e siate numerosi’.”
+
+Ora confrontiamo questa costruzione speculativa con il romanzo di Eugène Sue. Non è la sensualità a essere presentata come il segreto dell’amore, ma misteri, avventure, ostacoli, paure, pericoli, e soprattutto l’attrazione di ciò che è proibito.
+
+“Perché,” dice Eugène Sue, “molte donne scelgono uomini che non valgono i loro mariti? Perché il più grande fascino dell’amore è l’attrazione irresistibile del frutto proibito. Ammettiamo pure di eliminare da questo amore tutte le paure, le angosie, le difficoltà, i misteri e i pericoli: resterebbe comunque poco o nulla, cioè l’amante, nella sua semplicità originale. In altre parole, si tratterebbe sempre, più o meno, dell’avventura di quell’uomo a cui si diceva: ‘Perché non sposi quella vedova, la tua amante?’ – ‘Ahimè, ci ho pensato,’ rispondeva lui, ‘ma allora non saprei più dove trascorrere le mie serate.’”
+
+Mentre il signor Szeliga afferma esplicitamente che il mistero dell’amore non risiede nell’attrazione di ciò che è proibito, Eugène Sue sostiene altrettanto chiaramente che proprio questa attrazione rappresenti “il più grande fascino dell’amore” e la ragione di tutte le avventure amorose al di fuori dei confini convenzionali.
+
+“In amore, come nel commercio, la proibizione e il contrabbando sono inseparabili.”
+
+Analogamente, Eugene Sue sostiene, in contrasto con i suoi commentatori speculativi, che.
+
+“La tendenza alla finzione e all’inganno, l’apprezzamento per i misteri e le intrighi sono qualità essenziali, una propensione naturale e un istinto imperativo della natura femminile”.
+
+L’unica cosa che imbarazza Eugene Sue è il fatto che questa tendenza e questo desiderio sono direzionati contro il matrimonio. Vorrebbe trovare un modo per utilizzare gli istinti insiti nella natura femminile in modo più innocuo e più utile.
+
+Herr Szeliga presenta la contessa MacGregor come rappresentante di quel tipo di sensualità che “è elevata a una sorta di potere spirituale”; tuttavia, in Eugène Sue, lei è una persona guidata dalla ragione astratta. La sua “ambizione” e il suo “orgoglio”, lontano dall’essere espressioni di sensualità, derivano da una ragione astratta completamente indipendente da essa. Ecco perché Eugène Sue sottolinea esplicitamente questo aspetto.
+
+“Impulsi appassionati d’amore non avrebbero mai potuto far tremare il suo cuore gelido; nessuna emozione né sorpresa avrebbero mai potuto alterare i calcoli spietati di questa donna astuta, egoista e ambiziosa”.
+
+Il carattere essenziale di questa donna risiede nell’egoismo della ragione astratta, che non è mai influenzata dai sensi empatici e alla quale il sangue non ha alcun effetto. Pertanto, la sua anima viene descritta come “secca e dura”, la sua mente come “artisticamente malvagia”, il suo carattere come “traditore” e – cosa molto tipica di una persona guidata dalla ragione astratta – come “assoluta”; inoltre, la sua capacità di dissimulazione viene definita “profonda”. È interessante notare che Eugène Sue motiva l’intera vicenda della Contessa con lo stesso livello di stupidità con cui descrive le azioni della maggior parte dei suoi personaggi. Un’anziana infermiera le inculca l’idea che debba diventare una “sovrana coronata”; convinta di ciò, intraprende viaggi al fine di ottenere una corona attraverso il matrimonio. Alla fine, commette l’incoerenza di considerare un insignificante “Serenissimo” tedesco come una vera sovrana.
+
+Dopo aver espresso il proprio disprezzo per la sensualità, il nostro santo critico ritiene necessario spiegare perché Eugène Sue ci introduca al mondo della haute société durante un ballo, un [metodo](/axes/method) utilizzato da quasi tutti i romanziere francesi, mentre gli inglesi lo fanno più spesso durante una caccia o in una tenuta di campagna.
+
+“Per questa concezione di Herr Szeliga, non può essere affatto casuale il fatto che Eugène Sue ci presenti alla alta società durante un ballo.”
+
+Ora che il cavallo è stato lasciato libero, corre veloce verso la sua destinazione finale, attraverso una serie di conclusioni che ricordano molto lo scomparso Wolff.
+
+“La danza rappresenta la manifestazione più comune della sensualità intesa come mistero. Il contatto diretto, l’abbraccio tra i due sessi – necessari per formare una coppia – sono permessi nella danza perché, nonostante le apparenze e quella sensazione piacevole realmente percepibile, essi non vengono considerati come forme di contatto o abbracci sensuali” (ma probabilmente sono ritenuti legati alla ragione universale?).
+
+E poi arriva una frase conclusiva che, nel migliore dei casi, lascia perplessi piuttosto che entusiasmare:
+
+“Perché se venisse effettivamente considerato in questo modo, sarebbe impossibile comprendere perché la vostra società sia così indulgente soltanto riguardo alla danza, mentre al contrario condanna con estrema severità ciò che, se esibito con uguale libertà altrove, verrebbe punito con marchiature e allontanato senza pietà come un’offesa imperdonabile contro la morale e la modestia.”
+
+Il rispettabile parroco qui non parla né del cancan né della polka, ma del ballo in generale, della categoria “Ballo”, che non viene eseguita da nessuna parte se non nel suo cervello critico. Lasciate che veda un ballo alla Chaumière di Parigi: la sua anima cristiano-germanica ne sarebbe offesa dalla audacia, dalla franchezza, dalla graziosa petulanza e dalla musica di quel movimento così sensuale. La sua stessa “piacevole sensazione effettivamente percepibile” gli farebbe comprendere che, in realtà, è impossibile capire perché i ballerini, pur dando al pubblico l’impressione di una franca sensualità umana – qualcosa che, se esibita allo stesso modo altrove, ad esempio in Germania, verrebbe severamente condannata come un peccato imperdonabile – non solo non dovrebbero, ma nemmeno possono essere esseri umani apertamente sensuali.
+
+Il “Critico” ci introduce alla festa in ballo al fine di esporre l’essenza stessa della danza. Tuttavia incontra una grande difficoltà: è vero che nella festa si balla, ma soltanto nell’immaginazione. Infatti Eugène Sue non dice una parola per descrivere le danze; non si mescola tra la folla dei ballerini, ma utilizza la festa soltanto come occasione per far incontrare i suoi personaggi appartenenti all’alta aristocrazia. Disperato, il “Critico” decide di intervenire per integrare e completare le descrizioni dell’autore; la sua stessa fantasia fornisce facilmente dettagli sugli avvenimenti che si svolgono durante la festa. Se, come prescrive il “Critico”, Eugène Sue non fosse interessato direttamente ai nascondigli e al linguaggio dei criminali quando li descrive, allora la danza, invece – che non è descritta da lui, ma dal suo “immaginario” Critico – lo interessa inevitabilmente in modo infinito.
+
+Proseguiamo.
+
+“In realtà, il segreto di un tono e di un tatto socievoli – il segreto di quella cosa estremamente innaturale – risiede nel desiderio di tornare alla natura. Ecco perché l’apparizione di una persona come Cecily in società colta ha un effetto così straordinario e riesce a ottenere un successo così eccezionale. È cresciuta come schiava tra gli schiavi, senza alcuna [istruzione](/concepts/education), e l’unica fonte di vita su cui poteva contare era la sua stessa natura. Trasportata improvvisamente in un ambiente cortese e sottoposta alle sue regole e ai suoi costumi, impara rapidamente a vedere attraverso i loro segreti. In questo ambito, che senza dubbio può dominare, poiché il potere della sua natura possiede una magia enigmatica, Cecily è inevitabilmente portata a perdere ogni senso della misura; mentre in passato, quando era ancora schiava, la stessa natura le aveva insegnato a resistere a qualsiasi richiesta indegna del padrone potente e a rimanere fedele al proprio amore. Cecily rappresenta il mistero stesso della società colta: i sensi, fino ad allora ignorati o disprezzati, finalmente rompono le barriere e si liberano completamente”, ecc.
+
+Coloro tra i lettori di Herr Szeliga che non hanno letto il romanzo di Sue penseranno sicuramente che Cecily sia la “leonessa” di cui parla il testo. Nel romanzo, lei si trova in una prigione tedesca mentre a Parigi continuano le feste e i balli.
+
+<span class="atom-split" data-atom="021" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 5)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Cecily, as a slave, remains true to the Negro doctor David because she loves him “passionately” and because her owner, Mr. Willis, is “brutal” in courting her. The reason for her change to a dissolute life is a very simple one. Transported into the “European world”, she “blushes” at being “married to a Negro”. On arriving in Germany she is “at once” seduced by a wicked man and her “Indian blood” comes into its own. This the hypocritical M. Sue, for the sake of douce morale and doux commerce, is bound to describe as “perversité naturelle”.”
 
@@ -940,7 +1815,63 @@ First he subjects the category Mystery to a speculative process. When by the aid
 
 “therefore by no means any longer concealment and inaccessibility itself, but it conceals itself, or better still” (always better!) “I conceal it, I make it inaccessible”.
 
-<span class="atom-split" data-atom="022" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 6)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Cecily, essendo una schiava, rimane fedele al dottore negro David perché lo ama “appassionatamente” e perché il suo padrone, il signor Willis, è “brutale” nel corteggiarla. La ragione del suo passaggio a una vita dissoluta è molto semplice: trasportata nel “mondo europeo”, si vergogna di essere “sposata con un negro”. Arrivata in Germania, viene immediatamente sedotta da un uomo malvagio e il suo “sangue indiano” prende il sopravvento. Questo, l’ipocrita signor Sue, per motivi di “morale dolce” e di “commercio vantaggioso”, è costretto a descriverlo come una “perversità naturale”.
+
+Il segreto di Cecily è che è una meticcia; il segreto della sua sensualità risiede nel calore dei tropici. Parny lodò le donne meticce nelle sue bellissime poesie dedicate a Eleonore. Oltre cento storie legate ai viaggi per mare ci raccontano quanto siano pericolose queste donne per i marinai.
+
+“Cecily era l’incarnazione stessa della sensualità ardente, che si accende soltanto nel fuoco dei tropici. Tutti hanno sentito parlare di queste ragazze di colore, per così dire mortali per gli europei, di questi vampiri incantevoli che, inebriando le loro vittime con seduzioni terribili, non lasciano loro, secondo l’espressione energica del posto, altro da bere se non le loro lacrime, altro da distruggere se non il loro [cuore](/positions/fideism).”
+
+Cecily era lontana dall’esercitare un effetto del genere proprio su persone di educazione aristocratica, abituate alle cose banali e disilluse.
+
+“Le donne del genere di Cecily esercitano un’azione improvvisa, un’onnipotenza magica sugli uomini dalla sensualità brutale come Jacques Ferrand”.
+
+Da quando uomini come Jacques Ferrand possono essere considerati rappresentativi della alta società? Tuttavia, la “Critica Critica” deve necessariamente considerare Cecily un elemento fondamentale nel processo vitale del “Mistero Assoluto”.
+
+4) “Il Mistero della Probità e della Pietà”
+
+“Il mistero, proprio come quello della società colta, si ritira, è vero, dall’opposizione verso l’interno del proprio ambito. Tuttavia, la alta società possiede ancora una volta i propri circoli esclusivi nei quali conserva ciò che è ritenuto sacro; essa rappresenta, in qualche modo, la cappella di questo ‘sacro dei sacri’. Ma per le persone che si trovano al di fuori di questi circoli, proprio questa ‘cappella’ costituisce il mistero stesso. Quindi, l’[educazione](/concepts/education), nella sua funzione esclusiva, rappresenta per queste persone lo stesso ruolo che la volgarità ha per i colti.”
+
+È vero, tuttavia, ancora una volta: sono proprio questi i “ganci magici” che tengono uniti i vari anelli della catena del ragionamento speculativo. Herr Szeliga ha fatto sì che il mistero si spostasse dal mondo dei criminali verso l’alta società; ora deve costruire il concetto secondo cui l’alta società possieda cerchi esclusivi, e che i misteri di tali cerchi rimangano incomprensibili per la gente comune. Oltre ai “ganci magici” già menzionati, questa costruzione richiede anche la trasformazione di un certo ambiente sociale in una sorta di “cappella”, nonché la trasformazione della società non aristocratica in un “atrio” di tale cappella. Ancora una volta: per il mondo di Parigi, tutte le sfere della società borghese rappresentano soltanto un “atrio” dell’alta società, un mistero insomma.
+
+Herr Szeliga persegue due obiettivi principali. In primo luogo, il Mistero, che si è incarnato nel ristretto ambiente della alta società, deve essere dichiarato “proprietà comune di tutto il mondo”. In secondo luogo, il notaio Jacques Ferrand deve essere considerato un anello fondamentale nella vita stessa del Mistero. Ecco come ragiona Herr Szeliga:
+
+“L’educazione, per il momento, non è né in grado né disposta a includere tutte le classi sociali e le distinzioni nell’ambito della sua influenza. Solo il cristianesimo e la morale sono in grado di fondare regni universali sulla terra.”
+
+Il signor Szeliga identifica l’educazione e la civiltà con l’educazione aristocratica. Ecco perché non riesce a comprendere che l’industria e il commercio hanno creato regni universali del tutto diversi dal cristianesimo e dalla morale, così come dalla felicità domestica e dal benessere civico. Ma come arriviamo al notaio Jacques Ferrand? Molto semplicemente!
+
+Herr Szeliga trasforma il cristianesimo in una qualità individuale, la “pietà”, e la morale in un’altra qualità individuale, la “probità”. Unisce queste due qualità in una singola persona che battezza Jacques Ferrand; infatti, Jacques Ferrand non possiede realmente queste qualità, ma solo finge di averle. Così Jacques Ferrand diventa il “mistero della probità e della pietà”. Il suo “testamento”, d’altra parte, rappresenta “il mistero di una apparente pietà e probità”, e quindi non è più il mistero della pietà e della probità stesse. Se la “Critica Critica” avesse voluto interpretare speculativamente questo testamento come un mistero, avrebbe dovuto considerare l’apparente pietà e probità come il vero mistero di tale testamento, e non il contrario: cioè considerare questo testamento stesso come il mistero dell’apparente pietà e probità.
+
+Mentre la facoltà di notai di Parigi considerava Jacques Ferrand un attacco malizioso nei suoi confronti e, attraverso la censura teatrale, fece rimuovere questo personaggio dalle rappresentazioni teatrali de “I Misteri di Parigi”, la “Critica Critica”, proprio in un momento in cui si “polemizza contro il regno effimero delle concezioni astratte”, vede in un notaio di Parigi non semplicemente un notaio, ma simboli di religione e morale, integrità e pietà. Il processo al notaio Lehon avrebbe dovuto insegnarglielo meglio. La figura del notaio nel romanzo di Eugène Sue è strettamente legata alla sua posizione ufficiale.
+
+“I notai, nel campo temporale, sono ciò che i preti sono nel campo spirituale; essi sono i depositari dei nostri segreti” (Monteil, *Hist des Français des Divers États*, ecc., vol. IX).
+
+Il notaio è il confessore secolare. Per professione è un puritano, ma “l’onestà”, dice Shakespeare, “non è certo una caratteristica tipica dei puritani”. È al contempo l’intermediario per ogni possibile scopo, il gestore di tutte le intrighi e le macchinazioni civili.
+
+Con il notaio Ferrand, il cui unico mistero risiede nella sua ipocrisia e nella sua professione, non sembra che abbiamo fatto nemmeno un passo avanti. Ma ascoltate.
+
+“Se per il notaio l’ipocrisia rappresenta un atto di piena consapevolezza, e per Madame Roland è quasi un istinto naturale, allora esiste una vasta massa di persone che non riescono a comprendere appieno questo mistero, ma che tuttavia provano involontariamente il desiderio di farlo. Quindi non è la superstizione a guidare i nobili e i plebei verso la tenebrosa dimora del ciarlatano Bradamanti (Abate Polidori); no, è la ricerca del Mistero, il bisogno di giustificarsi davanti al mondo.”
+
+“I ricchi e i poveri” affluiscono a Polidori non per scoprire un mistero concreto e comprensibile da tutti, ma per cercare il Mistero in sé, il Mistero come Entità Assoluta, al fine di giustificarsi davanti al mondo; è come se, per tagliare la legna, si cercasse non un’ascia, ma lo strumento stesso in astratto.
+
+Tutti i misteri posseduti da Polidori si limitano a un mezzo per l’aborto e a un veleno per l’omicidio. In un delirio speculativo, il signor Szeliga fa sì che il “killer” ricorra al veleno di Polidori “perché vuole non essere considerato un assassino, ma rispettato, amato e onorato”. Come se, in un atto di omicidio, si trattasse di questioni di rispetto, amore o onore e non della propria vita! Ma il “killer” critico non si preoccupa affatto della propria vita, ma soltanto del “mistero”. Poiché non tutti commettono omicidi o diventano incinti in modo illegittimo, come può Polidori far sì che tutti possiedano questo “mistero”? Il signor Szeliga confonde probabilmente il ciarlatano Polidori con lo studioso Polydore Virgilio, vissuto nel XVI secolo, il quale, pur non aver scoperto alcun mistero, cercò di rendere la storia di coloro che ne avevano inventati, degli “inventori”, “proprietà comune del mondo” (si veda Polidori Virgiliii liber de rerum inventoribus, Lione 1766).
+
+Il mistero, il Mistero Assoluto, essendo finalmente diventato la “proprietà comune del mondo”, consiste quindi nel mistero dell’aborto e dell’avvelenamento. Il mistero non avrebbe potuto rendersi “proprietà comune del mondo” in modo più abile di quanto faccia trasformandosi in enigmi che per nessuno rappresentano davvero un mistero.
+
+5) “Mistero, una beffa”.
+
+“Il mistero è ora diventato una proprietà comune, il mistero di tutto il mondo e di ogni individuo. O è parte della mia arte o del mio istinto, oppure posso acquistarlo come una qualsiasi [merce](/concepts/commodity) disponibile sul mercato.”
+
+Qual mistero è ora diventato proprietà comune di tutto il mondo? È il mistero dell’assenza di diritti nell’[stato](/concepts/state), o il mistero della società educata, o il mistero dell’adulterazione dei prodotti, o il mistero della produzione di acqua di colonia, o il mistero della “Critica Critica”? Nessuno di questi; bensì il mistero in sé, la categoria del Mistero!
+
+Herr Szeliga intende rappresentare i servitori, nonché il portiere Pipelet e sua moglie, come l’incarnazione del Mistero Assoluto. Vuole, in modo speculativo, costruire l’immagine del servitore e del portiere come simboli di questo Mistero. Come riesce a compiere questa discesa vertiginosa: da una categoria puramente astratta fino al “servitore” che “spia attraverso una porta chiusa”, dal Mistero come Soggetto Assoluto, seduto sopra il cielo delle astrazioni, fino al piano terra dove si trova la dimora del portiere?
+
+Innanzitutto sottopone la categoria del “Mistero” a un processo speculativo. Quando, con l’ausilio di mezzi per l’aborto e l’avvelenamento, il “Mistero” diventa proprietà comune di tutto il mondo, allora.
+
+“Pertanto, non si tratta affatto più di una forma di nascondimento o di inaccessibilità in sé; piuttosto, è io stesso a nasconderlo, o meglio ancora, ” (sempre meglio così!) “Io lo rendo inaccessibile.”
+
+<span class="atom-split" data-atom="022" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 6)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 With this transformation of Absolute Mystery from essence into concept, from the objective stage, in which it is concealment itself, into the subjective stage, in which it conceals itself, or better still, in which I conceal it, we have not made a single step forward. On the contrary, the difficulty seems to grow, for a mystery in man’s head or breast is more inaccessible and concealed than at the bottom of the sea. That is why Herr Szeliga comes to the aid of his speculative [progress](/positions/progress) directly by means of an empirical progress.
 
@@ -996,7 +1927,63 @@ Anyone in two minutes can see through the mystery of this speculative clowning a
 
 Problem. You must give me the speculative construction showing how man becomes master over animals.
 
-<span class="atom-split" data-atom="023" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 7)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Con questa trasformazione del Mistero Assoluto da essenza a concetto, dallo stadio oggettivo – in cui esso rappresenta il proprio nascondimento – allo stadio soggettivo – in cui è io stesso a nasconderlo – non abbiamo fatto alcun passo avanti. Al contrario, la difficoltà sembra aumentare: un mistero nella mente o nel cuore dell’uomo è infatti ancora più inaccessibile e nascosto di uno che si trovi sul fondo del mare. Ecco perché il signor Szeliga ricorre direttamente a un progresso empirico per sostenere il proprio progresso speculativo.
+
+“È dietro porte chiuse e sbarrate” – ascoltate! – “che da ora in poi” – da ora in poi! – “il Mistero viene concepito, preparato e compiuto”.
+
+Da questo momento in poi, il signor Szeliga ha trasformato l’ego speculativo del Mistero in una realtà molto empirica, molto concreta, una porta.
+
+“Ma con questo” – cioè, con la porta chiusa a chiave, e non con il passaggio dall’essenza chiusa al concetto – “esiste anche la possibilità che io possa ascoltare di nascosto, origliare e spiarla”.
+
+Non è stato Herr Szeliga ad scoprire il “mistero” secondo cui si può origliare dietro porte chiuse a chiave. Anche i proverbi comuni dicono che le pareti hanno orecchie. D’altra parte, si tratta di un mistero di natura critica e speculativa: soltanto “da allora in poi”, dopo essere scesi nell’inferno dei nascondigli dei criminali e saliti nel paradiso della società colta, e dopo i “miracoli” compiuti da Polidori, è diventato possibile preparare e ascoltare segreti dietro porte chiuse. È altrettanto sorprendente il fatto che le porte chiuse siano una necessità assoluta per ideare, pianificare e compiere attività misteriose – quante segrete vengono infatti concepite, preparate e messe in atto dietro cespugli! – così come per scoprirle.
+
+Dopo questo brillante esercizio dialettico, il signor Szeliga passa naturalmente dalla spia stessa alle ragioni che motivano la spionaggio. Qui rivela il mistero: l’odio malvagio e compiaciuto ne è la causa principale. Da questo odio malvagio, prosegue nell’analisi delle motivazioni che lo generano.
+
+“Tutti desiderano essere migliori degli altri,” dice, “perché nascondono i motivi non solo delle proprie azioni buone, ma anche di quelle cattive, cercando di celarli nell’oscurità impenetrabile.”
+
+La frase dovrebbe essere invertita: Ognuno non solo nasconde i motivi delle proprie buone azioni, ma cerca anche di celare quelle cattive nell’oscurità impenetrabile, perché desidera essere migliore degli altri.
+
+Sembra quindi che siamo passati dal Mistero che si nasconde a sé stesso all’ego che lo nasconde, dall’ego alla porta chiusa a chiave, dalla porta chiusa a chiave allo spionaggio, allo spionaggio al motivo dello spionaggio, ovvero alla malvagia soddisfazione derivante da esso; e dalla malvagia soddisfazione al motivo di tale soddisfazione, cioè dal desiderio di essere migliori degli altri. Presto avremo il piacere di vedere quel “servitore” in piedi davanti alla porta chiusa a chiave. Poiché il desiderio generale di essere migliori degli altri ci conduce direttamente a questo: che “tutti tendono a scoprire i misteri altrui”; e da ciò deriva facilmente questa osservazione sagace.
+
+“In questo senso, i servitori hanno le migliori opportunità.”
+
+Se il signor Szeliga avesse letto i documenti degli archivi della polizia di Parigi, i ricordi di Vidocq, il “Livre noir” e simili, avrebbe saputo che, in questo senso, la polizia dispone di opportunità ancora maggiori rispetto a quelle che hanno i “servitori”; che utilizza i servitori soltanto per compiti rudimentali; che non si limita ad aspettare alla porta o nei luoghi dove i padroni sono negligenti, ma si insinua sotto le loro coperte, accanto al loro corpo nudo, sotto le sembianze di una donna galante, o persino di una moglie legittima. Nel romanzo di Sue, lo spia della polizia “Bras rouge” svolge un ruolo fondamentale nella storia.
+
+Quello che infastidisce il signor Szeliga nei servitori è il fatto che non siano abbastanza “imparziali”. Questo suo timore lo porta a rivolgere la sua attenzione al portiere Pipelet e sua moglie.
+
+“D’altra parte, la posizione del portiere gli conferisce una relativa indipendenza, permettendogli di esprimere derisioni libere e disinteressate – anche se volgari e offensive – nei confronti dei misteri della casa.”
+
+Inizialmente, questa ricostruzione speculativa del ruolo del portiere si scontra con notevoli difficoltà, poiché in molte case di Parigi il servitore e il portiere sono la stessa persona per alcuni inquilini.
+
+I seguenti fatti permetteranno al lettore di formarsi un’opinione sulla fantasia critica riguardante la posizione relativamente indipendente e imparziale del portiere. A Parigi, il portiere rappresenta e spia il proprietario dell’edificio; generalmente non viene pagato dal proprietario, ma dagli inquilini. A causa di questa posizione precaria, spesso svolge anche funzioni di agente di commissione oltre alle sue mansioni ufficiali. Durante il Terrore, l’Impero e la Restaurazione, il portiere fu uno dei principali agenti della polizia segreta; ad esempio, il generale Foy era sorvegliato dal proprio portiere, il quale riteneva tutte le lettere indirizzate al generale affinché venissero lette da un agente di polizia nelle vicinanze (vedi Froment, La police dévoilée). Di conseguenza, i termini “portiere” e “èpicier” sono considerati offensivi, e il portiere preferisce essere chiamato “concierge”.
+
+Lontano dall’essere descritta come “imparziale” e innocua, Madame Pipelet di Eugène Sue inganna immediatamente Rudolph quando gli restituisce il resto del denaro; gli consiglia il prestatore di denaro disonesto che vive nella stessa casa e descrive Rigolette come una conoscente che potrebbe essergli piacevole. Prende in giro il maggiore perché le paga poco e discute continuamente con lei; esasperata, lo chiama “comandante di due soldi”, dicendo: “Così imparerai a darmi solo dodici franchi al mese per mantenerti”. Inoltre, lo rimprovera anche per la sua “piccolezza” nel controllare con attenzione il legname da ardere, ecc. Lei stessa fornisce la ragione del suo comportamento “indipendente”: il maggiore le paga soltanto dodici franchi al mese.
+
+Secondo il signor Szeliga, “Anastasia Pipelet, in qualche modo, deve dichiarare una piccola guerra al Mistero”.
+
+Secondo Eugène Sue, Anastasia Pipelet è una tipica portiera parigina. Egli desidera “drammatizzare il ruolo della portiera, rappresentato con tale maestria da Henri Monier”. Tuttavia, Herr Szeliga ritiene di dover trasformare uno dei tratti caratteristici di Madame Pipelet – la “calunnia” – in un elemento separato e poi farne il simbolo di tale caratteristica.
+
+“Il marito,” prosegue il signor Szeliga, “il portiere Alfred Pipelet, la aiuta, ma con meno successo.”
+
+Per consolarlo per questa sfortuna, il signor Szeliga lo trasforma anche in un’allegoria: rappresenta così il lato “oggettivo” del Mistero, il “Mistero come Beffa”.
+
+“Il mistero che lo sconfigge è una beffa, uno scherzo che gli viene giocato.”
+
+Infatti, nella sua infinita pietà divina, la [dialettica](/positions/dialectic) trasforma l’“uomo sfortunato, vecchio e infantile” in un “uomo forte” nel senso metafisico, facendolo rappresentare un fattore molto importante, molto felice e decisivo nel processo vitale del Mistero Assoluto. La vittoria su Pipelet è.
+
+“La sconfitta più decisiva di Mystery.” “Un uomo più astuto e coraggioso non si sarebbe lasciato ingannare da una barzelletta.”
+
+6) Tortora Colomba (Rigolette)
+
+“Resta ancora un ultimo passo da compiere. Attraverso il proprio sviluppo coerente, il ‘Mistero’, come abbiamo visto nei casi di Pipelet e Cabrion, è spinto a degradarsi fino a diventare semplicemente una commedia ridicola. L’unica cosa necessaria ora è che l’individuo non accetti più di recitare in quella stupida farsa. Turtle-dove compie quel passo nel modo più indifferente possibile.”
+
+Chiunque, in soli due minuti, può comprendere il mistero di questo tipo di comportamento speculativo e imparare a praticarlo da solo. In merito forniremo alcune brevi indicazioni.
+
+Problema: Deve fornirmi una spiegazione speculativa che mostri come l’uomo diventi padrone degli animali.
+
+<span class="atom-split" data-atom="023" data-title="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga (parte 7)" data-chapter="Chapter V. “Critical Criticism” As a Mystery-Monger, Or “Critical Criticism” As Herr Szeliga" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Speculative solution. Given are half a dozen animals, such as the lion, the shark, the snake, the bull, the horse and the pug. From these six animals abstract the category: the “Animal”. Imagine the “Animal” to be an independent being. Regard the lion, the shark, the snake, etc., as disguises, incarnations, of the “Animal”. Just as you made your imagination, the “Animal” of your abstraction, into a real being, now make the real animals into beings of abstraction, of your imagination. You see that the “Animal”, which in the lion tears man to pieces, in the shark swallows him up, in the snake stings him with venom, in the bull tosses him with its horns and in the horse kicks him, only barks at him when it presents itself as a pug, and converts the fight against man into the mere semblance of a fight. Through its own consistent development, the “Animal” is driven, as we have seen in the pug, to debase itself to a mere clown. When a child or a childish man runs away from a pug, the only thing is for the individual no longer to agree to play the silly comedy. The individual X takes this step in the most nonchalant way in the world by using his bamboo cane on the pug. You see how “Man”, through the agency of the individual X and the pug, has become master over the “Animal”, and consequently over animals, and in the Animal as a pug has defeated the lion as an animal.
 
@@ -1030,7 +2017,41 @@ Rudolph, Prince of Geroldstein, the man of “pure Criticism”, is destined to 
 
 If we deal with Rudolph and his deeds only later, after diverting our attention from Herr Szeliga for some time, it can already be foreseen, and to a certain degree the reader can sense, indeed even surmise without presumption, that instead of treating him as a “mysterious vegetable existence”, which he is in the Critical Literatur-Zeitung, we shall make him a “logical, obvious, free link” in the “organism of Critical Criticism.”
 
-<span class="atom-split" data-atom="024" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 1)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Soluzione speculativa: Ci sono sei animali – il leone, lo squalo, il serpente, il toro, il cavallo e il barboncino – da cui si può trarre la categoria generale di “animale”. Immaginiamo che l’“animale” sia un essere indipendente; consideriamo quindi il leone, lo squalo, il serpente, ecc., come sue incarnazioni o manifestazioni diverse. Proprio come abbiamo trasformato l’idea astratta di “animale” in un essere reale, possiamo ora considerare gli animali reali come entità astratte, frutto della nostra immaginazione. L’“animale”, che nel leone dilania l’uomo, nello squalo lo inghiotte, nel serpente lo avvelena, nel toro lo colpisce con le corna e nel cavallo lo calpesta, si limita a ringhiare quando si presenta sotto forma di barboncino, trasformando così la sua aggressività contro l’uomo in una semplice simulazione. Attraverso il proprio sviluppo naturale, l’“animale” tende, come dimostra il caso del barboncino, a degradarsi fino a diventare qualcosa di simile a un clown. Quando un bambino o un uomo infantile fugge dal barboncino, in realtà si rifiuta semplicemente di continuare a “recitare” questa commedia ridicola; l’individuo X compie questo passo in modo del tutto naturale, utilizzando addirittura un bastone di bambù contro il barboncino. Così, attraverso l’azione dell’individuo X e del barboncino, “l’uomo” diventa padrone dell’“animale”, e quindi anche degli altri animali; in particolare, nell’esempio del barboncino, l’“uomo” sconfigge il leone come rappresentante di tutti gli animali.
+
+Allo stesso modo, la “colomba tortora” di Herr Szeliga svela i misteri dell’attuale stato del mondo attraverso gli intermediari di Pipelet e Cabrion. E non solo: essa stessa rappresenta una manifestazione della categoria “Mistero”.
+
+“Lei stessa non è ancora consapevole del proprio alto valore morale; pertanto, rimane un mistero per se stessa.”
+
+Il mistero della Rigolette non speculativa viene rivelato nel libro di Eugène Sue scritto da Murph. Lei è “una graziosa grisette”. Eugène Sue ne descrive il bellissimo carattere umano tipico delle grisettes parigine. Solo a causa della sua devozione verso la borghesia e della sua tendenza all’esagerazione, fu costretto ad idealizzare moralmente il ruolo della grisette. Fu necessario nascondere l’aspetto essenziale della sua condizione di vita e del suo carattere: in particolare, il suo disprezzo per le forme tradizionali del matrimonio e la sua ingenua attaccamento agli studenti o ai lavoratori. È proprio in questo legame che lei rappresenta un vero contrasto umano rispetto alla moglie borghese ipocrita, meschina e egoista, rispetto all’intero ambiente della borghesia, cioè al mondo ufficiale.
+
+7) Il Sistema Mondiale dei Misteri di Parigi
+
+“Questo mondo di misteri è ormai l’intero sistema mondiale nel quale si svolgono le azioni individuali dei ‘Misteri di Parigi’.”
+
+Prima di “tuttavia”, il signor Szeliga deve “riunire in un quadro d’insieme i schizzi precedentemente tracciati separatamente”, per poter poi procedere alla “riproduzione filosofica dell’evento epico”.
+
+Deve essere considerato una vera confessione, una [rivelazione](/concepts/revelation) del Mistero Critico di Herr Szeliga, quando afferma di voler passare alla “riproduzione filosofica” dell’evento epico. Fino ad ora ha continuato a “riproducere filosoficamente” il sistema mondiale.
+
+Il signor Szeliga prosegue la sua confessione:
+
+Dalla nostra presentazione emerge che i singoli misteri trattati non hanno valore di per sé, considerati separatamente gli uni dagli altri, e non rappresentano affatto novità straordinarie degne di essere oggetto di pettegolezzi; il loro vero valore risiede nel fatto che costituiscono una sequenza strettamente collegata tra loro, la cui totalità rappresenta il “Mistero” stesso.
+
+Nel suo atteggiamento sincero, il signor Szeliga va ancora oltre: ammette che la “sequenza speculativa” non corrisponda alla vera sequenza dei “Mystères de Paris”.
+
+“Ammettiamo che questi misteri non appaiono nella nostra opera epica nel contesto di questa sequenza autoconoscente. Ma ciò che abbiamo di fronte non è un organismo critico logico, ovvio e libero, bensì una sorta di esistenza “vegetale” e misteriosa.”
+
+Ometteremo la sintesi di Herr Szeliga e passeremo immediatamente al punto che costituisce la “transizione”. In *Pipelet* abbiamo visto l’“autoironia del Mistero”.
+
+“Nel suo auto-scherzo, il Mistero giudica se stesso; così facendo, questi misteri, annientandosi nella loro conseguenza finale, mettono alla prova ogni carattere forte, invitandolo a un esame indipendente.”
+
+Rudolf, principe di Geroldstein, l’uomo della “Critica pura”, è destinato a compiere questa analisi e a “rivelare i misteri”.
+
+Se affronteremo Rudolph e le sue azioni solo in un secondo momento, dopo aver distolto per un po’ l’attenzione dal signor Szeliga, è già possibile prevedere – e, in una certa misura, il lettore può anche intuire, senza alcuna presunzione – che, invece di considerarlo una “misteriosa esistenza vegetale”, come fa la rivista Critical Literatur-Zeitung, lo tratteremo come un “anello logico, evidente e libero” nell’“organismo della Critica Critica”.
+
+<span class="atom-split" data-atom="024" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 1)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 1) Absolute Criticism’s First Campaign
 
@@ -1076,7 +2097,53 @@ It will not be long before the mysterious meaning of this Critical prophecy beco
 
 “All great actions of previous history,” we are told, “were failures from the start and had no effective success because the mass became interested in and enthusiastic over them — or, they were bound to come to a pitiful end because the idea underlying them was such that it had to be content with a superficial comprehension and therefore to rely on the approval of the mass.”
 
-<span class="atom-split" data-atom="025" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 2)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+1) La prima campagna della Critica Assoluta
+
+a) “Spirito” e “Massa”
+
+Finora la Critica Semplificata sembrava occuparsi, più o meno, del trattamento critico di vari oggetti di tipo “di massa”. Ora invece si occupa dell’oggetto critico per eccellenza: di se stessa. Finora la sua gloria relativa derivava dalla denigrazione, dal rifiuto e dalla trasformazione di determinati oggetti e persone di tipo “di massa”; ora la sua gloria assoluta deriva dalla denigrazione, dal rifiuto e dalla trasformazione della “Massa” in quanto tale. La Critica Semplificata si trovava di fronte a limiti relativi; la Critica Assoluta, invece, si trova di fronte a un limite assoluto: la Massa stessa, intesa come limite. La Critica Semplificata, nella sua opposizione a limiti specifici, era necessariamente un’entità individuale e limitata; la Critica Assoluta, nella sua opposizione al limite generale, all’idea di limite in sé, è necessariamente un’entità assoluta. Proprio come i vari oggetti e persone di tipo “di massa” si sono fusi nel “purè impuro” della Massa, anche la Critica, che un tempo sembrava ancora oggettiva e personale, si è trasformata in una “Critica pura”. Finora la Critica è apparsa essere più o meno una qualità degli individui critici – Reichardt, Edgar, Faucher, ecc. Ora invece essa stessa diventa il Soggetto; Herr Bruno ne rappresenta l’incarnazione.
+
+Finora, il carattere “di massa” sembrava essere piuttosto una qualità degli oggetti e delle persone criticate; ora, invece, gli oggetti e le persone stessi sono diventati la “Massa”, e la “Massa” è diventata oggetto e persona. Tutte le precedenti posizioni critiche si sono dissolte nell’atteggiamento di una saggezza critica assoluta di fronte alla stupidità tipica della massa. Questo atteggiamento fondamentale rappresenta il significato, la tendenza e la chiave di lettura delle azioni e degli sforzi precedenti della Critica.
+
+In conformità con il suo carattere assoluto, la “Critica pura”, non appena appare, emetterà il segnale distintivo che permette di distinguere le cose; tuttavia, in quanto Spirito Assoluto, deve attraversare un processo dialettico. Solo alla fine del suo percorso “celeste” il suo concetto originario potrà essere veramente realizzato (si veda Hegel, Enciclopedia).
+
+“Ma alcuni mesi fa,” annuncia l’“Critica Assoluta”, “la massa riteneva di possedere una forza gigantesca e di essere destinata a dominare il mondo in un lasso di tempo che poteva contare sulle dita delle proprie mani.”
+
+Fu il signor [Bruno Bauer](/figures/bauer), ne “Die gute Sache der [Freiheit](/concepts/freedom)” (la sua “propria” causa, naturalmente), ne “Die Judenfrage”, ecc., a contare i giorni che mancavano al dominio del mondo imminente, sebbene ammettesse di non poter indicare la data esatta. Al registro dei peccati della Chiesa cattolica aggiungeva il peso dei propri peccati.
+
+“La Chiesa riteneva di possedere molte verità che le sembravano ovvie.” “Ma si possiede davvero una verità solo quando la si segue attraverso tutte le sue dimostrazioni.”
+
+Per il signor Bauer, come per Hegel, la verità è un automa che si dimostra da sé; l’uomo deve seguirla. Come in Hegel, il risultato dello sviluppo reale non è altro che la verità dimostrata, cioè portata alla coscienza. Pertanto, la “Critica Assoluta” può porre questa domanda anche al teologo più bigotto:
+
+“Qual sarebbe lo scopo della storia se il suo compito non fosse proprio quello di dimostrare queste verità, le più semplici tra tutte (come il movimento della terra intorno al sole)?”
+
+Proprio come, secondo i teleologi precedenti, le piante esistono per essere mangiate dagli animali e gli animali per essere mangiati dagli uomini, anche la storia esiste al fine di fungere da “atto di consumo” di concetti teorici, ovvero di prove. L’uomo esiste affinché la storia possa esistere, e la storia esiste affinché le verità possano essere dimostrate. In questa forma, ridotta a una specie di banalità critica, si ripete la saggezza speculativa secondo cui l’uomo e la storia esistono per permettere alla verità di raggiungere la [autocoscienza](/concepts/self_consciousness).
+
+Ecco perché la storia, come la verità, diventa una entità separata, un soggetto metafisico di cui gli individui umani reali sono soltanto i portatori. Ecco perché la Critica Assoluta utilizza frasi del genere.
+
+“La storia non permette che si scherzi su di essa. La storia ha compiuto i suoi maggiori sforzi per. La storia è stata impegnata in questo compito. Qual sarebbe lo scopo della storia?. La storia fornisce prove concrete. La storia presenta verità”, ecc.
+
+Se, come afferma la Critica Assoluta, la storia si è finora occupata soltanto di poche verità del genere – le più semplici tra tutte – che alla fine risultano autoevidenti, questa insufficienza della Critica Assoluta nel spiegare le esperienze umane precedenti dimostra innanzitutto la propria stessa insufficienza. Dal punto di vista non critico, invece, il risultato della storia è proprio che la verità più complessa, l’essenza stessa di tutte le verità – l’uomo – si riveli alla fine autoevidente.
+
+“Ma quelle verità,” continua ad argomentare la Critica Assoluta, “che per la massa appaiono così chiare da essere autoevidenti fin dall’inizio, e che la massa ritiene superfluo dimostrarle, non meritano che la storia fornisca prove esplicite al loro riguardo; in generale, non fanno parte del problema che la storia si impegna a risolvere.”
+
+Nel suo sacro zelo contro la massa, la Critica Assoluta le rende il più grande complimento possibile. Se una verità è chiaramente evidente perché sembra tale alla massa; se l’atteggiamento della storia verso le verità dipende dall’opinione della massa, allora il giudizio della massa è assoluto, infallibile; esso rappresenta la legge della storia. La storia, dunque, dimostra soltanto ciò che non sembra chiaro alla massa, e quindi necessita di prove. È proprio la massa, insomma, a stabilire “il compito” e “l’occupazione” della storia.
+
+La Critica Assoluta parla di “verità che sono autoevidenti fin dall’inizio”. Nella sua ingenuità critica, essa inventa un concetto assoluto di “autoevidenza fin dall’inizio” e una nozione astratta e immutabile di “massa”. Ai suoi occhi, non esiste alcuna differenza tra la “massa” del XVI secolo e quella del XIX secolo, così come non esiste alcuna differenza tra queste stesse masse. È proprio la caratteristica distintiva di una verità che è diventata vera, ovvia e autoevidente il fatto che essa sia “autoevidente fin dall’inizio”. La polemica della Critica Assoluta contro le verità autoevidenti fin dall’inizio è in realtà una polemica contro tutte le verità che siano “autoevidenti” in generale.
+
+Una verità che è autoevidente ha perso il suo sapore, il suo significato, il suo valore sia per la Critica Assoluta che per la [dialettica](/positions/dialectic) divina. È diventata banale, come acqua stantia. Da un lato, quindi, la Critica Assoluta dimostra tutto ciò che è autoevidente e, inoltre, molte cose che hanno la sfortuna di essere incomprensibili e quindi non saranno mai autoevidenti. Dall’altro lato, considera autoevidente tutto ciò che richiede un certo livello di elaborazione. Perché? Perché è autoevidente che i veri problemi non sono autoevidenti.
+
+Poiché la “Verità”, come la storia, è un soggetto etereo, separato dalla massa materiale, si rivolge non all’uomo empirico, ma alle “profondità più intime dell’anima”; affinché possa essere “veramente compresa”, essa non agisce sul suo corpo volgare, che può trovarsi in un seminterrato inglese o al piano più alto di un condominio francese; essa “si estende” “da capo a piedi” attraverso i suoi istinti idealistici. La Critica Assoluta certifica che, finora, la “massa” sia stata influenzata, a modo suo, cioè superficialmente, dalle verità che la storia si è compiaciuta di “esporre”; ma allo stesso tempo profetizza che.
+
+“L’atteggiamento delle masse verso il [progresso](/positions/progress) storico cambierà completamente”.
+
+Non passerà molto tempo prima che il misterioso significato di questa profezia diventi “assolutamente chiaro” per noi.
+
+“Tutte le grandi imprese della storia passata,” ci viene detto, “furono fallimenti fin dall’inizio e non riuscirono ad ottenere un successo effettivo perché le masse vi si interessarono e ne furono entusiaste; oppure erano destinate a concludersi in modo tragico, poiché l’idea su cui si basavano era tale da doversi accontentare di una comprensione superficiale e quindi dipendeva dall’approvazione delle masse.”
+
+<span class="atom-split" data-atom="025" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 2)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 It seems that the comprehension which suffices for, and therefore corresponds to, an idea ceases to be superficial. It is only for appearance’s sake that Herr Bruno brings out a relation between an idea and its comprehension, just as it is only for appearance’s sake that he brings out a relation between unsuccessful historical action and the mass. If, therefore, Absolute Criticism condemns something as “superficial”, it is simply previous history, the actions and ideas of which were those of the “masses”. It rejects mass-type — history to replace it by Critical history (see Herr Jules Faucher on English problems of the day). According to previous un-Critical history, i.e., history not conceived in the sense of Absolute Criticism, it must further be precisely distinguished to what extent the mass was “interested” in aims and to what extent it was “enthusiastic” over them.. The “idea” always disgraced itself insofar as it differed from the “interest”. On the other hand, it is easy to understand that every mass-type “interest” that asserts itself historically goes far beyond its real limits in the “idea” or “imagination” when it-first comes on the scene and is confused with human interest in general. This illusion constitutes what Fourier calls the tone of each historical epoch. The interest of the bourgeoisie in the 1789 [Revolution](/positions/revolution), far from having been a “failure”, “won” everything and had “most effective success”, however much its “pathos” has evaporated and the “enthusiastic” flowers with which that Interest adorned its cradle have faded. That interest was so powerful that it was victorious over the pen of Marat, the guillotine of the Terror and the sword of Napoleon as well as the crucifix and the blue blood of the Bourbons. The Revolution was a “failure” only for the mass which did not have in the political “idea” the idea of its real “interest”, i.e., whose true life-principle did not coincide with the life-principle of the Revolution, the mass whose real conditions for emancipation were essentially different from the conditions within which the bourgeoisie could emancipate itself and society. If the Revolution, which can exemplify all great historical “actions”, was a failure, it was so because the mass within whose living conditions it essentially came to a stop, was an exclusive, limited mass, not an all-embracing one. If the Revolution was a failure it was not because the mass was “enthusiastic” over it and “interested” in it, but because the most numerous part of the mass, the part distinct from the bourgeoisie, did not have its real interest in the principle of the Revolution, did not have a revolutionary principle of its own, but only an “idea”, and hence only an object of momentary enthusiasm and only seeming uplift.
 
@@ -1110,7 +2177,41 @@ The position is the same with “Progress”. In spite of the pretensions of “
 
 All communist and socialist writers proceeded from the observation that, on the one hand, even the most favourably brilliant deeds seemed to remain without brilliant results, to end in trivialities, and, on the other, all progress of the Spirit had so far been progress against the mass of mankind, driving it into an ever more dehumanised situation. They therefore declared “progress” (see Fourier) to be an inadequate, abstract phrase; they assumed (see Owen among others) a fundamental flaw in the civilised world; that is why they subjected the real foundations of contemporary society to incisive criticism. This communist criticism had practically at once as its counterpart the movement of the great mass, in opposition to which history had been developing so far. One must know the studiousness, the craving for knowledge, the moral energy and ‘the unceasing urge for development of the French and English workers to be able to form an idea of the human nobility of this movement.
 
-<span class="atom-split" data-atom="026" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 3)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Sembra che la comprensione sufficiente per comprendere un’idea, e quindi corrispondente ad essa, smetta di essere superficiale. È soltanto per motivi di apparenza che il signor Bruno stabilisce una relazione tra un’idea e la sua comprensione, così come è soltanto per motivi di apparenza che evidenzia una relazione tra azioni storiche fallite e le masse. Pertanto, se la Critica Assoluta condanna qualcosa come “superficiale”, si tratta semplicemente della storia precedente, delle azioni e delle idee che appartenevano alle “masse”. Essa rifiuta quella storia di tipo massiccio per sostituirla con una storia critica (si veda il signor Jules Faucher sui problemi inglesi dell’epoca). Secondo la storia precedente, non concepita nel senso della Critica Assoluta, è necessario distinguere con precisione in quale misura le masse fossero “interessate” agli obiettivi della rivoluzione e in quale misura vi fossero “entusiaste” di essi. L’“idea”, infatti, si disonora sempre nel momento in cui differisce dall’“interesse” reale delle masse. D’altra parte, è facile comprendere che ogni interesse di tipo massiccio che si afferma storicamente va ben oltre i suoi limiti reali nell’“idea” o nell’“immaginazione”, soprattutto quando appare per la prima volta e viene confuso con l’interesse umano in generale. Questa illusione costituisce ciò che Fourier definisce lo “stile caratteristico di ogni epoca storica”. L’interesse della borghesia nella Rivoluzione del 1789, lungi dall’essere un “fallimento”, ha “vinto” tutto e ha ottenuto un “successo estremamente efficace”; tuttavia, il suo “pathos” si è ormai dissipato e gli entusiasmi con cui quella classe ha celebrato i propri successi sono svaniti. Quell’interesse fu così potente da trionfare sulla penna di Marat, sulla ghigliottina del Terrore e sulla spada di Napoleone, così come sul crocifisso e sul sangue blu dei Borboni. La Rivoluzione fu considerata un “fallimento” soltanto per le masse che non riconoscevano nell’“idea” politica l’espressione del proprio vero interesse; in altre parole, per quelle masse il cui principio vitale reale non coincideva con quello della Rivoluzione, e le cui condizioni effettive di emancipazione erano sostanzialmente diverse da quelle attraverso cui la borghesia poteva liberarsi. Se la Rivoluzione, che può rappresentare tutte le grandi “azioni” storiche, è stata un fallimento, è stato perché le masse all’interno delle quali essa si è verificata erano un gruppo esclusivo e limitato, non un insieme completo e universale. La Rivoluzione è stata un fallimento non perché le masse fossero entusiaste di essa o interessate ad essa, ma perché la maggior parte delle masse, quella diversa dalla borghesia, non aveva nel principio della Rivoluzione il proprio vero interesse; quelle masse non possedevano un proprio principio rivoluzionario, ma soltanto un’“idea”, e quindi soltanto oggetto di un entusiasmo momentaneo e di una sorta di illusoria elevazione spirituale.
+
+Insieme alla meticolosità dell’azione storica, aumenterà anche l’entità delle masse coinvolte in tale azione. Nella storia critica, infatti, non si tratta delle masse che agiscono, né dell’azione empirica o degli interessi concreti legati a essa, ma soltanto di “un’idea presente in esse”; per questo motivo, lo svolgimento degli eventi segue naturalmente un percorso diverso.
+
+“Nella massa”, ci insegna la Critica, “e non altrove, come credevano i suoi precedenti esponenti liberali, si trova il nemico dello spirito”.
+
+Gli nemici dello [progresso](/positions/progress) che si trovano al di fuori delle masse sono proprio quei prodotti dell’autodegradazione, del rifiuto di sé e dell’alienazione di sé da parte delle masse, i quali hanno acquisito un’esistenza indipendente e una vita propria. Pertanto, quando le masse si rivolgono contro questi prodotti della loro stessa autodegradazione che esistono in modo autonomo, esse si rivolgono contro la propria mancanza; proprio come l’uomo, quando si oppone all’esistenza di Dio, si oppone alla propria stessa religiosità. Ma poiché queste forme pratiche di alienazione della massa esistono nel mondo reale in modo esteriore, le masse devono combatterle anch’esse in modo esteriore. Non devono assolutamente considerare questi prodotti dell’autoidentificazione negativa delle masse semplici fantasie idealistiche o mere manifestazioni di alienazione della [autocoscienza](/concepts/self_consciousness), né possono sperare di eliminare l’allontanamento materiale attraverso azioni spirituali puramente interne. Già nel 1789, il diario di Loustalot recitava questo motto:
+
+Coloro che sono grandi appaiono tali ai nostri occhi.
+
+Solo perché ci inginocchiamo.
+
+Alziamoci!
+
+Ma per riuscire a superare queste difficoltà non basta farlo soltanto nel pensiero, lasciando intorno alla propria testa reale, percettibile attraverso i sensi, quel giogo concreto e tangibile che non può essere eliminato con le idee. Tuttavia, la Critica Assoluta ha imparato dalla Fenomenologia di Hegel, almeno, l’arte di trasformare quelle catene oggettive reali che esistono al di fuori di noi in semplici catene ideali, soggettive, esistenti soltanto nella nostra mente; in questo modo, tutte le lotte concrete e sensibilmente percepibili vengono ridotte a puri conflitti intellettuali.
+
+Questa trasformazione critica costituisce la base dell’armonia preesistente tra la critica critica e la censura. Dal punto di vista critico, la lotta dello scrittore contro il censore non è una lotta “d’uomo contro uomo”. Il censore non è altro che il simbolo del mio stesso tatto personificato dalla polizia; in altre parole, rappresenta la mia stessa capacità di giudizio che lotta contro la mia mancanza di sensibilità critica e contro le mie azioni irrazionali. La lotta dello scrittore con il censore è, in realtà, solo apparentemente tale; agli occhi di una sensibilità malvagia e materialistica, può sembrare qualcos’altro, ma in realtà non è altro che la lotta interiore dello scrittore contro se stesso. Finché il censore esiste come entità realmente diversa da me – come un funzionario della polizia che manipola il prodotto del mio pensiero applicando standard esterni e alieni al contenuto in questione – allora non è altro che un’illusione di tipo “massiccio”, un frutto dell’immaginazione irrazionale. Quando le Tesi di Feuerbach sulla riforma della filosofia furono proibite dalla censura, la colpa non fu certo della barbarie ufficiale della censura stessa, ma del carattere poco culturato di quelle tesi. Anche la “critica pura”, priva di ogni elemento legato alla massa o al concreto, assume nella censura una forma puramente “eterea”, separata da qualsiasi realtà materiale.
+
+La Critica Assoluta ha dichiarato che la “Massa” sia il vero nemico dello Spirito. Questo concetto viene sviluppato più in dettaglio nel seguente modo:
+
+“Ora lo Spirito sa dove cercare il suo unico avversario: nell’autoinganno e nella banalità della Messa.”
+
+La Critica Assoluta si basa esclusivamente sul dogma della competenza assoluta dello “Spirito”. Inoltre, si fonda sul dogma dell’esistenza extramondana dello Spirito, cioè sulla sua esistenza al di fuori della massa umana. Infine, trasforma lo “Spirito” e il “Progresso”, da un lato, e la “Massa”, dall’altro, in entità fisse, in concetti, e li considera come estremi rigidi e immutabili tra loro. Alla Critica Assoluta non viene nemmeno in mente di indagare sull’essenza stessa dello Spirito, per scoprire se non sia proprio nella sua natura spiritualista, nelle sue pretese vuote e arroganti, che si radicano fenomeni come le “frasi vuote”, l’“autoinganno” e la “banalità”. No: lo Spirito è assoluto, ma purtroppo, allo stesso tempo, continua costantemente a trasformarsi in qualcosa di privo di spirito; continua a agire senza tenere conto della realtà umana. Per questo motivo, deve necessariamente avere un avversario che complotta contro di esso. Quell’avversario è la Massa.
+
+Lo stesso vale per il concetto di “Progresso”. Nonostante le pretese del “Progresso”, si verificano continui regressi e movimenti circolari. Lontano dal sospettare che la categoria di “Progresso” sia completamente vuota e astratta, la Critica Assoluta è così profonda da riconoscere il “Progresso” come qualcosa di assoluto, spiegando i regressi assumendo l’esistenza di un “avversario personale” del Progresso: la “Massa”. Poiché la “Massa” non è altro che “l’opposto dello Spirito”, del Progresso, della “Critica”, essa può quindi essere definita soltanto attraverso questa opposizione immaginaria; al di fuori di tale opposizione, tutto ciò che la Critica può dire riguardo al significato e all’esistenza della Massa è puramente privo di senso, poiché del tutto indefinito.
+
+“La Messa, in quel senso in cui la ‘parola’ include anche ciò che viene definito mondo colto.”
+
+“Il termine ‘anche’ e quello cosiddetto ‘chiamato così’ sono sufficienti per una definizione critica. La ‘massa’, pertanto, è distinta dalle masse reali ed esiste come tale soltanto nel contesto della ‘critica’.”
+
+Tutti gli scrittori comunisti e socialisti partivano dall’osservazione che, da un lato, anche le imprese più brillanti sembravano non portare a risultati significativi, ma finire in cose banali; dall’altro, ogni progresso dello Spirito fino ad allora si era verificato a scapito delle masse umane, spingendole verso situazioni sempre più disumane. Pertanto dichiararono che il “progresso” fosse un concetto insufficiente e astratto; ritennero (vedi Owen, tra gli altri) che esistesse un difetto fondamentale nel mondo civile; per questo sottoposero a una critica incisiva le basi stesse della società contemporanea. Questa critica comunista ebbe praticamente immediatamente come corrispondenza il movimento delle grandi masse, contro cui la storia si era fino ad allora sviluppata. È necessario conoscere lo zelo, la sete di conoscenza, l’energia morale e il costante desiderio di progresso dei lavoratori francesi ed inglesi per poter comprendere la nobiltà umana di questo movimento.
+
+<span class="atom-split" data-atom="026" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 3)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 How infinitely profound then is “Absolute Criticism”, which, in face of these intellectual and practical facts, sees in a one-sided way only one aspect of the relationship, the continual foundering of the Spirit, and, vexed at this, seeks in addition an adversary of the “Spirit”, which it finds in the “Mass”! In the end this great Critical discovery amounts to a tautology. According to Criticism, the Spirit has so far had a limit, an obstacle, in other words, an adversary, because it has had an adversary. Who, then, is the adversary of the Spirit? Spiritlessness. For the Mass is defined only as the “opposite” of the Spirit, as spiritlessness or, to take the more precise definitions of spiritlessness, as “indolence”, “superficiality”, “self-complacency”. What a fundamental superiority over the communist writers it is not to have traced spiritlessness, indolence, superficiality and self-complacency to their places of origin, but to have denounced them morally and exposed them as the opposite of the Spirit, of [Progress](/positions/progress)! If these qualities are proclaimed qualities of the Mass, as of a subject still distinct from them, that distinction is nothing but a “Critical” semblance of distinction. Only in appearance has Absolute Criticism a definite concrete subject besides the abstract qualities of spiritlessness, indolence, etc., for “the Mass” in the Critical conception is nothing but those abstract qualities, another word for them, a fantastic personification of them. . The relation between “Spirit and Mass” has, however, also a hidden meaning which will be completely revealed in the course of the reasoning. We only indicate it here. That relation discovered by Herr Bruno is, in fact, nothing but a Critically caricatured consummation of Hegel’s conception of history, which, in turn, is nothing but the speculative expression of the Christian-Germanic dogma of the antithesis between Spirit and Matter, between God and the world-. This antithesis finds expression in history, in the human world itself in such a way that a few chosen individuals as the active Spirit are counterposed to the rest of mankind, as the spiritless Mass, as Matter.
 
@@ -1156,7 +2257,53 @@ We give only a few examples of Herr Bruno’s fight against Philippson, Hirsch a
 
 Herr Bruno, who confuses [the state](/concepts/state) with humanity, the rights of man with man and political emancipation with human emancipation, was bound, if not to conceive, at least to imagine a peculiar kind of state, a philosophical ideal of a state.
 
-<span class="atom-split" data-atom="027" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 4)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Quanto profonda, dunque, è l’“Critica Assoluta”, che, di fronte a questi fatti intellettuali e pratici, considera in modo unilaterale soltanto un aspetto della relazione tra lo “Spirito” e il resto del mondo: il continuo declino dello “Spirito”. Per questo motivo, cerca addirittura un “avversario” dello “Spirito”, che trova nella “Massa”! In realtà, questa grande “scoperta critica” non è altro che una tautologia. Secondo la Critica Assoluta, lo “Spirito” ha finora incontrato ostacoli e avversari. Ma chi è dunque questo avversario dello “Spirito”? La mancanza di spirito stesso. La Massa, infatti, viene definita soltanto come l’“opposto” dello “Spirito”, cioè come la mancanza di spirito; più precisamente, come “indolenza”, “superficialità”, “autocompiacimento”. Che superiorità fondamentale rispetto ai scrittori comunisti rappresenta chi è riuscito a individuare le origini di queste qualità negative e a denunciarle moralmente, mostrandole come l’opposto dello “Spirito”, del [Progresso](/positions/progress)! Se queste caratteristiche vengono considerate propri della Massa – come se fossero qualità distinte da esse stesse – tale distinzione non è altro che una semplice apparenza. Solo in apparenza la Critica Assoluta possiede un soggetto concreto, oltre alle qualità astratte di mancanza di spirito, indolenza, ecc.; nella concezione critica, infatti, la “Massa” non è altro che queste stesse qualità, personificate in modo fantastico. La relazione tra “Spirito” e “Massa” possiede però anche un significato nascosto, che verrà completamente rivelato nel corso delle argomentazioni. Qui ne facciamo solo un accenno. Quella relazione scoperta da Herr Bruno non è altro che una caricatura critica della concezione hegeliana della storia; a sua volta, questa concezione rappresenta l’espressione speculativa del dogma cristiano-germanico sull’antitesi tra “Spirito” e “Materia”, tra Dio e il mondo. Quest’antitesi si manifesta nella storia, nel mondo umano stesso: alcuni individui scelti vengono considerati lo “Spirito attivo”, contrapposti al resto dell’umanità, considerata la “Massa priva di spirito”, cioè la Materia.
+
+La concezione hegeliana della storia presuppone l’esistenza di uno Spirito Astratto o Assoluto che si sviluppa in modo tale che l’umanità appaia soltanto come una massa che porta questo Spirito con diversi gradi di consapevolezza o incoscienza. All’interno della storia empirica ed esoterica, Hegel concepisce quindi lo sviluppo di una storia speculativa ed esoterica; la storia dell’umanità diventa così la storia dello Spirito Astratto dell’umanità, cioè uno spirito lontano dall’uomo reale.
+
+Parallelamente a questa dottrina di Hegel, in Francia si sviluppò la teoria dei Soctrinairians, che proclamavano la [sovranità](/positions/sovereignty) della ragione contro quella del popolo, al fine di escludere le masse e governare da soli. Questo era del tutto coerente: se l’attività dell’umanità reale non è altro che l’azione di una massa di individui umani, allora l’universalità astratta, la Ragione, lo Spirito, devono necessariamente avere un’espressione astratta limitata a pochi individui. Dipende quindi dalla situazione e dal potere immaginativo di ciascun individuo se egli si proclamerà rappresentante di “lo Spirito”.
+
+Già in Hegel lo Spirito Assoluto della storia trova il proprio materiale nella Masse e la propria espressione appropriata soltanto in filosofia. Tuttavia, il filosofo non è altro che l’organo attraverso cui lo Spirito Assoluto, creatore della storia, raggiunge la [autocoscienza](/concepts/self_consciousness) in modo retrospettivo, dopo che il movimento storico si è già compiuto. La partecipazione del filosofo alla storia si riduce quindi a questa coscienza retrospettiva, poiché il vero movimento storico viene realizzato inconsciamente dall’Spirito Assoluto. Per questo motivo, il filosofo appare sulla scena soltanto dopo che l’evento è già avvenuto.
+
+Hegel è colpevole di essere doppiamente superficiale: innanzitutto, poiché afferma che la filosofia sia il modo di esistenza dello Spirito Assoluto, rifiuta di riconoscere l’individuo filosofico reale come lo Spirito Assoluto stesso; in secondo luogo, permette allo Spirito Assoluto di “fare storia” soltanto in apparenza. Poiché lo Spirito Assoluto diventa consapevole di sé come Spirito del Mondo creatore soltanto nel filosofo, la sua azione storica esiste soltanto nella coscienza, nell’opinione e nella concezione del filosofo, cioè solo nell’immaginazione speculativa. Il signor [Bruno Bauer](/figures/bauer) supera questa superficialità di Hegel.
+
+Innanzitutto, proclama che la Critica sia lo Spirito Assoluto e che egli stesso sia la Critica. Proprio come l’elemento della Critica viene escluso dalla massa, così anche l’elemento della massa viene escluso dalla Critica. Pertanto, la Critica si ritiene incarnata non in una massa, ma esclusivamente in un ristretto gruppo di uomini eletti: in Herr Bauer e nei suoi discepoli.
+
+Inoltre, il signor Bauer supera anche l’altro tipo di superficialità tipica di Hegel. A differenza dello “Spirito hegeliano”, egli non crea la storia in modo retrospettivo e nell’ambito dell’immaginazione; piuttosto, svolge consapevolmente il ruolo dello “Spirito del Mondo” in opposizione alla massa dell’umanità; entra in una relazione dinamica e contemporanea con quella massa; inventa ed attua la storia con uno scopo preciso, dopo una riflessione matura.
+
+Da un lato c’è la Masse, considerata come l’elemento passivo, privo di spirito e non storico della storia; dall’altro c’è lo Spirito, la Critica, Herr Bruno e compagni, considerati come l’elemento attivo da cui deriva tutta l’azione storica. L’atto di trasformare la società viene ridotto all’attività cerebrale della Critica.
+
+Infatti, il rapporto tra la Critica – e quindi tra la Critica incarnata, rappresentata da Herr Bruno e compagni – e le masse è davvero l’unico rapporto storico del nostro tempo. L’intera storia contemporanea si riduce al movimento di questi due elementi che si contrappongono a vicenda; tutte le antitesi esistenti sono state dissolte in questa antitesi critica.
+
+La “Critica Critica”, che diventa oggettiva soltanto in relazione alla sua antitesi – alla massa, all’stupidità – è quindi costretta a produrre continuamente questa antitesi stessa. Herren Faucher, Edgar e Szeliga hanno fornito prove sufficienti della loro abilità nel loro campo specifico: quello di indurre la massa ad uno stato di stupore riguardo alle persone e alle cose.
+
+Ora accompagniamo la Critica Assoluta nelle sue campagne contro le masse.
+
+b) La questione ebraica, n. 1.
+
+Il contesto in cui vengono poste queste domande
+
+Lo “Spirito”, a differenza della Messa, si comporta fin dall’inizio in modo critico, considerando il proprio lavoro ristretto e limitato – ovvero l’opera di Bruno Bauer “Die Judenfrage” – come assoluto, e considerando soltanto gli oppositori di tale opera come peccatori. Nella Risposta n. 1 agli attacchi contro quel trattato, non mostra alcun segno di riconoscere i suoi difetti; al contrario, afferma di aver esposto il significato “vero”, “generale” (!) della questione ebraica. In risposte successive, vedremo come sia costretto ad ammettere i propri “errori”.
+
+“L’accoglienza che il mio libro ha ricevuto rappresenta l’inizio di una prova concreta del fatto che proprio coloro che finora hanno sostenuto la libertà, e continuano a sostenerla, devono opporsi allo Spirito più di chiunque altro; la difesa del mio libro che ora intendo intraprendere fornirà ulteriori prove di quanto siano superficiali i portavoce della massa; hanno, chissà perché, un’opinione molto alta di sé stessi per il fatto di sostenere l’emancipazione e il dogma dei ‘diritti dell’uomo’.”
+
+All’occasione di un trattato della Critica Assoluta, la “Massa” deve necessariamente aver iniziato a dimostrare di essere l’antitesi dello Spirito; infatti è proprio questa antitesi alla Critica Assoluta che ne determina e ne prova l’esistenza stessa.
+
+La polemica di alcuni ebrei liberali e razionalisti contro l’opera “Die Judenfrage” di Herr Bruno ha naturalmente un significato critico del tutto diverso da quello delle polemiche di massa dei liberali contro la filosofia e dei razionalisti contro Strauss. Del resto, l’originalità della citata osservazione può essere valutata attraverso il seguente passaggio di Hegel:
+
+“Possiamo notare qui la particolare forma di coscienza sporca che si manifesta nel tipo di eloquenza con cui quella superficialità” (dei liberali) “si vanta; innanzitutto nel fatto che parla molto dello ‘Spirito’ proprio nei momenti in cui il suo discorso ne è totalmente privo, e utilizza la parola ‘vita’”, ecc., “esattamente nei contesti in cui essa è più morta e appassita.”
+
+Per quanto riguarda i “diritti dell’uomo”, è stato dimostrato al signor Bruno (“Sulla questione ebraica”, Deutsch-Französische Jahrbücher) che è proprio “lui stesso”, e non i portavoce della massa, ad aver frainteso e manipolato in modo dogmatico l’essenza di quei diritti. Rispetto alla sua scoperta – che i diritti dell’uomo non siano “innati” – una scoperta fatta innumerevoli volte in Inghilterra negli ultimi 40 anni – l’affermazione di Fourier secondo cui il diritto di pescare, di cacciare, ecc., siano diritti innati dell’uomo rappresenta davvero un esempio di genialità.
+
+Facciamo solo alcuni esempi della lotta del signor Bruno contro Philippson, Hirsch e altri. Nemmeno avversari così deboli vengono eliminati dalla “Critica Assoluta”. Non è affatto assurdo, secondo la “Critica Assoluta”, che il signor Philippson affermi.
+
+“Bauer immagina un tipo particolare di stato, un ideale filosofico di stato.”
+
+Il signor Bruno, che confonde lo [stato](/concepts/state) con l’umanità, i diritti dell’uomo con i rapporti interumani e l’emancipazione politica con l’emancipazione umana, era costretto, se non a concepire, almeno ad immaginare un particolare tipo di stato, un ideale filosofico di stato.
+
+<span class="atom-split" data-atom="027" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 4)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 “Instead of writing his laboured statement, the rhetorician” (Herr Hirsch) “would have done better to refute my proof that the Christian state, having as its vital principle a definite religion, cannot allow adherents of another particular religion ... complete equality with its own social estates.”
 
@@ -1228,7 +2375,79 @@ Since socialist writings spread in Germany the [recognition](/concepts/recogniti
 
 Just as Professor Hinrichs is the scapegoat for the former political” movements, so is he also for the “Hegelian” movements and expressions which Absolute Criticism used intentionally up to the publication of the Literatur-Zeitung, and continues to use unintentionally in it.
 
-<span class="atom-split" data-atom="028" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 5)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+“Invece di redigere quella dichiarazione prolissa e complessa, il retore” (Herr Hirsch) “avrebbe fatto meglio a confutare la mia argomentazione secondo cui lo stato cristiano, avendo come principio fondamentale una religione specifica, non può concedere ai seguaci di un’altra religione, l’uguaglianza totale nei propri ordinamenti sociali.”
+
+Se il retore Hirsch avesse davvero confutato la dimostrazione di Herr Bruno e dimostrato, come si fa nei Deutsch-Französische Jahrbücher, che lo [stato](/concepts/state) delle classi sociali e del cristianesimo esclusivo non è soltanto uno stato incompleto, ma anche uno stato cristiano incompleto, Herr Bruno avrebbe risposto proprio come fa di fronte a tale confutazione.
+
+“Le obiezioni in questa materia sono prive di significato.”
+
+Il signor Hirsch ha perfettamente ragione quando, in risposta alle dichiarazioni del signor Bruno, afferma.
+
+“Esercitando pressione sui principali motori della storia, gli ebrei generarono una contropressione”.
+
+Ricorda:
+
+“Allora devono aver avuto un certo peso nella formazione della storia; e se lo stesso Bauer lo afferma, non ha alcun diritto di sostenere, d’altra parte, che non abbiano contribuito in alcun modo alla nascita dell’epoca moderna.”
+
+Il signor Bruno risponde:
+
+“Un oggetto sgradevole alla vista è anche qualcosa, significa forse che contribuisce allo sviluppo della mia capacità di vedere?”
+
+Qualcosa che rappresenta un “disagio estetico” per me fin dalla nascita – proprio come gli Ebrei hanno rappresentato un tale disagio per il mondo cristiano – e che persiste e si sviluppa con il passare del tempo, non è certo un semplice problema fisico, ma qualcosa di straordinario: qualcosa che appartiene davvero ai miei occhi e che addirittura contribuisce a uno sviluppo altamente originale della mia vista. Quindi, questo “disagio estetico” critico non danneggia affatto il retore “Hirsch”. Tra l’altro, la critica citata sopra ha rivelato al signor Bruno l’importanza degli Ebrei nella “formazione dei tempi moderni”.
+
+La mentalità teologica della Critica Assoluta si sente profondamente offesa quando un rappresentante del Landtag renano afferma che “gli ebrei sono strani a modo loro, non a modo nostro, così detto cristiano”; per questo motivo continua ancora oggi a “richiamarlo all’ordine per aver utilizzato tale argomentazione”.
+
+Riguardo all’affermazione di un altro deputato secondo cui “l’uguaglianza civile degli ebrei può essere realizzata solo laddove gli ebrei non esistano più”, il signor Bruno commenta:
+
+“Esatto! È corretto, a condizione che non venga omessa un’altra proposizione che ho avanzato nel mio trattato, ovvero quella secondo cui anche il Cristianesimo deve essersi ormai estinto.”
+
+Si osserva che nella sua Risposta n. 1 agli attacchi contro la questione degli ebrei, la Critica Assoluta considera ancora l’abolizione della religione, ovvero l’[ateismo](/positions/atheism), come condizione per l’uguaglianza civile. Pertanto, nella sua prima fase, non ha ancora acquisito alcuna comprensione più profonda dell’essenza dello Stato, se non riguardo ai “difetti” o agli “errori” nel suo funzionamento.
+
+La “Critica Assoluta” si sente offesa quando una delle sue presunte “ultime” scoperte scientifiche viene rivelata essere qualcosa che è già generalmente riconosciuto. Un deputato renano osserva:
+
+“Nessuno ha ancora sostenuto che la Francia e il Belgio si distinguessero per una particolare chiarezza nel riconoscere i principi alla base dell’organizzazione dei loro affari politici.”
+
+La “Critica Assoluta” avrebbe potuto obiettare che tale affermazione trasferisse il presente nel passato, rappresentando come tradizionale quella visione ormai banale sull’inadeguatezza dei principi politici francesi. Un simile obiezione non sarebbe stata utile per la “Critica Assoluta”. Al contrario, essa deve affermare che quella visione obsoleta sia in realtà quella attualmente prevalente, e proclamare tale visione come un “mistero critico” il cui significato deve ancora essere rivelato al grande pubblico attraverso ulteriori indagini. Pertanto, essa deve dire:
+
+“Quel pregiudizio arcaico è stato sostenuto da molte persone”; “ma un’indagine approfondita sulla storia fornirà la prova che, anche dopo i grandi sforzi compiuti dalla Francia per comprendere tali principi, molto rimane ancora da realizzare”.
+
+Ciò significa che un’indagine approfondita della storia non sarà in sé sufficiente a “raggiungere” la comprensione dei principi fondamentali. Essa dimostrerà soltanto, attraverso la sua completezza, che “moltissimo ancora deve essere compreso”. Un grande risultato, soprattutto dopo i lavori dei socialisti! Tuttavia, il signor Bruno ha già contribuito in modo significativo alla comprensione dello stato sociale attuale con la sua osservazione.
+
+“La certezza che prevale attualmente è in realtà incertezza.”
+
+Se Hegel afferma che la certezza dominante in Cina sia il “Essere”, che quella dominante in India sia il “Niente”, ecc., allora la Critica Assoluta lo segue su questo percorso “puro”: essa definisce il carattere dell’epoca attuale come la categoria logica della “Incertezza”, e tutte le categorie successive, come il “Essere” e il “Niente”, appartengono al primo capitolo della logica speculativa, ovvero a quello dedicato alle “Qualità”.
+
+Non possiamo concludere la discussione su “Die Judenfrage” senza una considerazione generale.
+
+Uno degli obiettivi principali della Critica Assoluta consiste innanzitutto nel collocare correttamente tutte le questioni del momento nel loro contesto appropriato. Infatti, essa non risponde alle domande reali, bensì ne sostituisce altre completamente diverse. Poiché tutto deve essere interpretato secondo i principi della Critica Assoluta, è necessario innanzitutto “collocare” le questioni del momento nel loro contesto, trasformandole in domande proprie della Critica Assoluta. Se si trattasse, ad esempio, di una questione legata al Codice Napoleone, si dimostrerebbe che essa appartiene in realtà al Pentateuco. Il modo in cui la Critica Assoluta “colloca” le questioni del momento rappresenta in realtà una distorsione e una falsa interpretazione di esse. Così facendo, ha distorto anche la “questione ebraica”: non è stata necessaria alcuna indagine sull’emancipazione politica, che costituisce l’oggetto principale di tale questione; si è invece limitata a una critica della religione ebraica e a una descrizione dello stato cristiano-germanico.
+
+Anche questo [metodo](/axes/method), come tutte le originalità della Critica Assoluta, non è altro che la ripetizione di un trucco verbale speculativo. La filosofia speculativa, in particolare quella hegeliana, doveva trasporre tutte le questioni dalla forma del senso comune a quella della ragione speculativa e trasformare la domanda reale in una domanda speculativa al fine di poterla rispondere. Dopo aver distorto la mia domanda e, come nel catechismo, impostarmi nella bocca la propria domanda, essa poteva, naturalmente, come il catechismo, disporre della risposta pronta a tutte le mie domande.
+
+c) Hinrichs n. 1.
+
+Enigmatici indizi sulla politica, sul socialismo e sulla filosofia
+
+“Politico!” La Critica Assoluta prova letteralmente orrore alla presenza di questa parola nelle lezioni del professor Hinrichs.
+
+“Chiunque abbia seguito lo sviluppo dei tempi moderni e conosca la storia saprà anche che i movimenti politici attualmente in corso hanno un significato del tutto diverso da quello di natura politica: alla loro base – sì, alla loro base! – esiste un significato sociale, tale che, come ben sappiamo, tutti gli interessi politici appaiono insignificanti al suo confronto.”
+
+Qualche mese prima che iniziasse la pubblicazione della “Critical Literatur-Zeitung”, apparve, come sappiamo (!), il fantastico trattato politico di Herr Bruno: “Staat, Religion und Partei”!
+
+Se i movimenti politici hanno un significato sociale, come possono gli interessi politici apparire “insignificanti” rispetto al loro stesso significato sociale?
+
+“Herr Hinrichs non si orienta né nella propria casa né da nessun’altra parte nel mondo. Non potrebbe trovarsi in nessun luogo, perché la Critica – che negli ultimi quattro anni ha avviato e proseguito il proprio lavoro assolutamente ‘non politico’, ma ‘sociale’ – gli è rimasta completamente sconosciuta.”
+
+La critica, che secondo l’opinione del grande pubblico svolge un’attività “assolutamente non politica” ma “in ogni senso teologica”, si accontenta ancora della parola “sociale”, anche ora che l’ha utilizzata per la prima volta, non solo negli ultimi quattro anni, ma fin dalla sua nascita letteraria.
+
+Da quando gli scritti socialisti si sono diffusi in Germania, è diventato evidente che tutte le aspirazioni e azioni umane, senza eccezione, hanno un significato sociale; pertanto, il signor Bruno può definire anche le sue opere teologiche “sociali”. Tuttavia, quale richiesta critica quella avanzata dal professor Hinrichs di derivare il socialismo dalla conoscenza delle opere di Bauer, considerando che tutte le opere pubblicate da Bruno Bauer fino alla comparsa dei corsi del professor Hinrichs – anche quelle che traggono conclusioni pratiche – sono conclusioni politiche! Dal punto di vista critico, è ovviamente dovere della “massa” interpretare tutti i movimenti legati al socialismo, sia quelli di natura “politica” che altri, dal punto di vista del futuro e del progresso assoluto. Ma affinché il signor Hinrichs, dopo aver conosciuto la “Literatur-Zeitung”, non dimentichi mai più il termine “sociale” né ignori il carattere sociale della critica, la critica stessa vieta per la terza volta l’uso del termine “politico” davanti a tutto il mondo e ripete solennemente, per la terza volta, il termine “sociale”.
+
+“Se si considera la vera tendenza della storia moderna, non si tratta più di una questione di significato politico, ma, di significato sociale”, ecc.
+
+Proprio come il professor Hinrichs è il capro espiatorio dei precedenti movimenti politici, lo stesso vale per i movimenti e le espressioni “hegeliane” che la Critica Assoluta ha intenzionalmente utilizzato fino alla pubblicazione della “Literatur-Zeitung”, e continua a utilizzare involontariamente ancora oggi.
+
+<span class="atom-split" data-atom="028" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 5)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Once “real Hegelian” and twice “Hegelian philosopher” are thrown in Hinrichs’ face as catchwords. Herr Bruno even “hopes” that the “banal expressions so tiresomely circulated in all the books of the Hegelian school” (in particular in his own books) will, in view of their great “exhaustion” as seen in Professor Hinrichs’ lectures, soon reach the end of their journey. From the “exhaustion” of Professor Hinrichs, Herr Bruno hopes for the dissolution of Hegel’s philosophy and thereby his own redemption from it.
 
@@ -1284,7 +2503,63 @@ Herr Riesser maintains against [Bruno Bauer](/figures/bauer) that his state (i.e
 
 “Criticism’s opponents are its opponents because they not only measure it with their dogmatic yardstick but regard Criticism itself as dogmatic; they oppose Criticism because it does not recognise their dogmatic distinctions, definitions and evasions.”
 
-<span class="atom-split" data-atom="029" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 6)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+A Hinrichs vengono ripetutamente rivolte espressioni come “vero hegeliano” e “filosofo hegeliano”; inoltre, il signor Bruno spera che quelle “espressioni banali e noiosamente diffuse in tutti i libri della scuola hegeliana” (in particolare nei suoi stessi libri), data la loro evidente “esaurimento”, come dimostrato dalle lezioni del professor Hinrichs, arrivino presto alla fine del loro ciclo di diffusione. Dal “esaurimento” delle argomentazioni di Hinrichs, il signor Bruno si augura la dissoluzione della filosofia hegeliana e, di conseguenza, anche la propria liberazione da essa.
+
+Così, nella sua prima campagna, la “Critica Assoluta” rovescia i propri dèi da tempo venerati, ovvero “Politica” e “Filosofia”, dichiarandoli idoli del professor Hinrichs.
+
+Meravigliosa prima campagna!
+
+2) La seconda campagna della Critica Assoluta
+
+a) Hinrichs n. 2. “Critica” e “[Feuerbach](/figures/feuerbach)”.
+
+La condanna della filosofia
+
+Come risultato della sua prima campagna, l’“Assoluta Critica” può considerare la “filosofia” come un argomento già trattato e definirla apertamente un alleata delle “Masse”.
+
+“La filosofia era destinata a soddisfare i desideri del ‘Popolo’. Il Popolo infatti cerca concetti semplici, che gli permettano di non avere nulla a che fare con la realtà stessa, formule vuote e prive di significato, al fine di liberarsi completamente da ogni forma di critica.”
+
+E la “filosofia” soddisfa questo anelito della “Massa”!
+
+Stordita dai propri successi, la “Critica Assoluta” scatena una furia distruttiva contro la filosofia. La “Filosofia del Futuro” di Feuerbach rappresenta il calderone nascosto da cui emergono i vapori che ispirano questa follia vittoriosa della “Critica Assoluta”. Quest’ultima lesse l’opera di Feuerbach nel mese di marzo. Il frutto di quella lettura, e al contempo il criterio che ne misura la serietà con cui fu affrontata, è l’articolo n. 2 contro il professor Hinrichs.
+
+In questo articolo, la “Critica Assoluta”, che non si è mai liberata dalla gabbia del modo hegeliano di vedere le cose, colpisce con violenza le sbarre e i muri della sua prigione. Il “concetto semplice”, la terminologia, l’intero modo di pensare della filosofia, insomma, tutta la filosofia stessa vengono rifiutati con disgusto. Al loro posto compaiono improvvisamente il “reale ricco contenuto delle relazioni umane”, l“immenso patrimonio storico”, l“importanza dell’uomo”, ecc. “Il mistero del sistema” viene dichiarato “rivelato”.
+
+Ma allora, chi ha rivelato il mistero di questo “sistema”? Feuerbach. Chi ha annientato la dialettica dei concetti, quella “guerra degli dèi” conosciuta soltanto dai filosofi? Feuerbach. Chi ha sostituito il vecchio sistema e l’“infinita [autocoscienza](/concepts/self_consciousness)” con, beh, con “il significato dell’uomo” – come se l’uomo avesse un altro significato oltre a quello di essere uomo! Almeno, con “l’Uomo”. Feuerbach, e solo Feuerbach. E ha fatto anche di più: molto tempo fa eliminò proprio quelle categorie con cui oggi opera la “Critica” – il “reale ricco contenuto delle relazioni umane, l’enorme portata della storia, la lotta che caratterizza la storia, lo scontro tra le masse e lo spirito”, ecc., ecc.
+
+Una volta che l’uomo viene riconosciuto come l’essenza stessa, la base di ogni attività e situazione umana, solo la “Critica” può inventare nuove categorie e trasformare l’uomo stesso in una categoria, e nel principio di un intero insieme di categorie, proprio come sta facendo oggi. È vero che, agendo in questo modo, essa imbocca l’unica strada verso la salvezza che sia rimasta per quella teologia disumana, spaventata e perseguitata. La storia non fa nulla: “non possiede immense ricchezze”, “non conduce battaglie”. È l’uomo, l’uomo reale, vivente, a fare tutto ciò; la “storia” non è, in qualche modo, una entità separata che utilizza l’uomo come mezzo per realizzare i propri scopi; la storia non è altro che l’attività dell’uomo nel perseguire i propri obiettivi. Se la Critica Assoluta, dopo le brillanti esposizioni di Feuerbach, osa ancora riprodurre tutto quel vecchio “rifiuto” in una nuova forma, abusandone al contempo come di un “rifiuto di massa” – cosa che non ha alcun diritto di fare, visto che mai si è sforzata minimamente di dissolvere la filosofia – questo fatto solo basta per far luce sul “mistero” della Critica e per valutare la sua ingenuità quando afferma, rivolgendosi al professor Hinrichs, il cui “esaurimento” un tempo le fu di grande aiuto:
+
+“Il danno riguarda coloro che non hanno subito alcun processo di sviluppo e quindi non potrebbero cambiare se lo volessero; al massimo, il nuovo principio potrebbe essere influenzato da loro, ma no! Il ‘nuovo’ non può essere ridotto a una semplice frase; non si possono nemmeno prelevare da esso singoli elementi linguistici per utilizzarli.”
+
+La Critica Assoluta si vanta di aver risolto, a differenza del Professor Hinrichs, “il mistero delle scienze facoltative”. Ha quindi risolto il “mistero” della filosofia, della giurisprudenza, della politica, della medicina, dell’economia politica e così via? Assolutamente no! Ha semplicemente dimostrato, nel libro “Die gute Sache der [Libertà](/concepts/freedom)”, che la scienza come fonte di sussistenza e la scienza libera, la libertà di insegnamento e gli statuti accademici si contraddicono a vicenda.
+
+Se la “Critica Assoluta” fosse onesta, avrebbe ammesso da dove derivasse quella presunta “illuminazione” sul “Mistero della Filosofia”. Comunque sia, è una fortuna che non attribuisca a Feuerbach sciocchezze come le proposizioni fraintese e distorte che gli ha preso in prestito, proprio come ha fatto con altre persone. Del resto, è caratteristico dell’orientamento teologico della “Critica Assoluta” il fatto che, mentre i filistei tedeschi stanno iniziando a comprendere Feuerbach e ad adottare le sue conclusioni, essa non riesce nemmeno a comprendere correttamente una singola frase delle sue opere né a utilizzarla nel modo appropriato.
+
+La critica compie un vero progresso rispetto alle sue precedenti manifestazioni quando “definisce” la lotta delle “masse” contro lo “spirito” come “lo scopo” di tutta la storia passata; quando afferma che le “masse” siano il “nulla assoluto” della “miseria”; quando considera le masse semplicemente “materia” e contrappone lo “spirito”, inteso come verità, alla “materia”. Non è forse la Critica Assoluta, in questo modo, genuinamente cristiano-germanica? Dopo che l’antitesi tra spiritualismo e [materialismo](/positions/materialism) è stata combattuta su tutti i fronti e definitivamente superata da Feuerbach, la “Critica” ne fa di nuovo un dogma fondamentale, nella sua forma più odiosa, e assicura così la vittoria allo “spirito cristiano-germanico”.
+
+Infine, va considerato come uno sviluppo del mistero nascosto nella prima fase di questa corrente critica: ora essa identifica l’antitesi tra Spirito e Massa con l’antitesi tra “Critica” e Massa. In seguito, continuerà ad identificarsi con la “Critica”, rappresentandosi quindi come “lo Spirito”, l’Assoluto e l’Infinito; mentre la Massa, al contrario, verrà considerata finita, grossolana, brutale, morta e inorganica, poiché è proprio questo che la “Critica” intende per materia.
+
+Quanto immenso è il patrimonio storico che viene esaurito nel rapporto dell’umanità con Herr Bauer!
+
+b) La questione ebraica, n. 2
+
+Scoperte cruciali sul socialismo, sulla giurisprudenza e sulla politica (nazionalità).
+
+Ai ebrei di tipo massa viene predicata la dottrina cristiana della libertà dello Spirito: una libertà teorica, quella sorta di libertà spiritualista che si ritiene libera anche quando è incatenata, e la cui anima si accontenta soltanto dell’“idea” stessa di libertà, sentendosi a disagio solo nell’esistere in modo “di massa”.
+
+“I Giudei sono emancipati nella misura in cui hanno ormai raggiunto un livello teorico di libertà; sono liberi nella misura in cui desiderano esserlo.”
+
+Da questa proposizione si può immediatamente misurare il divario critico che separa il comunismo e lo socialismo di tipo “di massa”, profani, dal socialismo assoluto. La prima proposta del socialismo profano rifiuta l’emancipazione considerata soltanto una teoria illusoria; per ottenere la vera libertà, esso richiede, oltre alla volontà idealistica, condizioni molto concrete e materiali. Quanto sia inferiore “la massa” rispetto a questa critica “sacra”: quella massa che ritiene necessari cambiamenti materiali e pratici anche solo per guadagnare il tempo e i mezzi necessari a dedicarsi esclusivamente alla “teoria”!
+
+Lasciamo per un momento da parte il socialismo puramente spirituale e consideriamo la politica!
+
+Herr Riesser sostiene, contrariamente a [Bruno Bauer](/figures/bauer), che lo stato da lui proposto (cioè lo “Stato Critico”) debba escludere sia i “Ebrei” che i “Cristiani”. Herr Riesser ha ragione. Poiché Herr Bauer confonde l’emancipazione politica con l’emancipazione umana, e poiché lo [stato](/concepts/state) può reagire agli elementi antagonisti – e il Cristianesimo e il Giudaismo vengono descritti come elementi traditori nel contesto di “Die Judenfrage” – l’unica soluzione possibile consiste nell’escludere con la forza coloro che li rappresentano (così come il Terrore cercò di eliminare il fenomeno dell’accumulo di ricchezze giustiziando i suoi responsabili), quindi Herr Bauer dovrebbe impiccare sia gli Ebrei che i Cristiani nel suo “Stato Critico”. Avendo confuso l’emancipazione politica con l’emancipazione umana, è stato costretto ad essere coerente e a confondere anche i mezzi politici di emancipazione con quelli umani. Ma non appena alla Critica Assoluta viene chiesto il significato preciso delle sue conclusioni, essa fornisce la stessa risposta che Schelling diede un tempo a tutti coloro che sostituivano le sue idee con concetti fittizi:
+
+Gli oppositori della Critica lo sono proprio perché non solo la misurano con i loro criteri dogmatici, ma considerano anche la Critica stessa come qualcosa di dogmatico; si oppongono alla Critica perché questa non riconosce le loro distinzioni, definizioni e scappatoie dogmatiche.
+
+<span class="atom-split" data-atom="029" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 6)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 It is, of course, to adopt a dogmatic attitude to Absolute Criticism, as also to Herr Schelling, if one assumes it to have definite, real meaning, thoughts and views. In order to be accommodating and to prove to Herr Riesser its humanity, “Criticism”, however, decides to resort to dogmatic distinctions, definitions and especially to “evasions”.
 
@@ -1338,7 +2613,61 @@ But if Criticism, like God, is almighty, it is also, like God, all-wise and is c
 
 “It would not be the epoch-making force if it did not have the effect of making each one what he wills to be and showing each one irrevocably the standpoint corresponding to his nature and his will.”
 
-<span class="atom-split" data-atom="030" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 7)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+È ovvio che assumere un atteggiamento dogmatico nei confronti della Critica Assoluta, così come nei confronti del signor Schelling, significhi ritenere che essa possieda significati, idee e punti di vista definiti e concreti. Tuttavia, al fine di essere accomodanti e di dimostrare al signor Riesser la sua “umanità”, la “Critica” decide di ricorrere a distinzioni dogmatiche, definizioni precise e, soprattutto, a strategie evasive.
+
+Ecco quindi come leggiamo:
+
+“Se in quel lavoro (Die Judenfrage) avessi avuto la volontà o il diritto di andare oltre, avrei dovuto parlare non dello [stato](/concepts/state), ma della ‘società’, che non esclude nessuno; sono soltanto coloro che non desiderano parteciparne allo sviluppo ad escludersi da essa.”
+
+Qui la Critica Assoluta stabilisce una distinzione dogmatica tra ciò che avrebbe dovuto fare se non avesse agito al contrario e ciò che ha effettivamente fatto. Spiega l’angustezza del proprio operato, “Die Judenfrage”, con le “evasioni dogmatiche” derivanti dal presupposto di possedere la volontà e il diritto di non andare “oltre la critica”. Che cosa? La “critica” dovrebbe andare “oltre la critica”? Questa concezione tipicamente massiccia emerge nella Critica Assoluta a causa della necessità dogmatica, da un lato, di affermare la propria interpretazione della questione ebraica come assoluta, come “Critica”, e dall’altro lato, di ammettere la possibilità di una concezione più completa.
+
+Il mistero del fatto che essa “non abbia la volontà” e “non abbia il diritto” verrà in seguito rivelato come il dogma fondamentale secondo cui tutte le apparenti limitazioni della “Critica” non sono altro che adattamenti necessari alle capacità di comprensione delle masse.
+
+Non aveva la volontà. Non aveva il diritto di andare oltre quella ristretta concezione della questione ebraica! Ma cosa avrebbe fatto se ne avesse avuta la volontà o il diritto? Avrebbe fornito una definizione dogmatica. Avrebbe parlato di “società” invece che di “stato”, cioè non avrebbe studiato la vera relazione tra gli ebrei e la moderna [società civile](/positions/civil_society)! Avrebbe definito in modo dogmatico la “società” come qualcosa distinto dal “stato”, nel senso che coloro che non desiderano partecipare al suo sviluppo si escluderebbero da essa.
+
+La società si comporta esattamente come lo stato, solo in una forma più “educata”: non ti caccia via, ma rende la tua vita così scomoda che tu te ne vai di tua volontà.
+
+In sostanza, lo stato non si comporta diversamente, poiché non esclude nessuno che rispetti tutte le sue richieste e ordini, né ostacola il suo sviluppo. Nella sua forma perfetta, lo stato addirittura “chiude un occhio” e considera le vere contraddizioni come contraddizioni “non politiche”, che non lo disturbano affatto. Inoltre, la stessa Critica Assoluta ha sostenuto che lo stato escluda gli Ebrei, perché, e nella misura in cui gli Ebrei escludono lo stato, si escludono essi stessi dallo stato. Se questa relazione reciproca assume forme più ipocrite, più insidiose all’interno di una “società critica”, ciò dimostra soltanto che tale società è più ipocrita e meno sviluppata.
+
+Seguiamo più a fondo la Critica Assoluta nelle sue “distinzioni dogmatiche” e “definizioni”, nonché nelle sue “scappatoie”.
+
+Ad esempio, Herr Riesser richiede dal critico che “distingua ciò che appartiene al dominio del diritto” da “ciò che ne è al di fuori”.
+
+Il critico è indignato dall’impertinenza di questa richiesta giuridica.
+
+“Tuttavia, finora,” ribatte, “sia il sentimento che la coscienza si sono intromessi nella legge, completandola sempre; e poiché questa ha un carattere basato su una forma dogmatica” (non quindi sulla sua essenza dogmatica?), “è stato necessario che continuassero a integrarla.”
+
+Il “Critico” dimentica soltanto che, d’altra parte, quella legge si distingue in modo assai chiaro da “sentimenti e coscienza”; che questa distinzione si basa sia sull’essenza unilaterale della legge sia sulla sua forma dogmatica, ed è persino uno dei principali dogmi del diritto; che, infine, l’applicazione pratica di tale distinzione rappresenta esattamente il culmine dello sviluppo del diritto, proprio come la separazione della religione da ogni contenuto profano la trasforma in una religione astratta e assoluta. Il fatto che “sentimenti e coscienza” interferiscano nel diritto costituisce motivo sufficiente affinché il “Critico” parli di sentimenti e coscienza quando si tratta di questioni legali, e di dogmatismo teologico quando si tratta di questioni giuridiche.
+
+Le “definizioni e distinzioni della Critica Assoluta” ci hanno preparato a sufficienza per ascoltare le sue ultime “scoperte” riguardo a “società” e “diritto”.
+
+“La forma del mondo che la Critica sta preparando, e di cui sta soltanto iniziando a prepararsi, non è una semplice forma legale, ma, ” (Raccoglietevi, lettori, ) “una forma sociale; al riguardo si può dire almeno questo: chiunque non abbia contribuito allo sviluppo di questa forma e non viva in armonia con la propria coscienza e i propri sentimenti all’interno di essa, non può sentirsi a proprio agio in essa né partecipare alla sua storia.”
+
+La forma mondiale che la “Critica” sta preparando viene definita non soltanto come legale, ma anche come sociale. Questa definizione può essere interpretata in due modi: la frase citata può essere intesa come “non legale, ma sociale” oppure come “non soltanto legale, ma anche sociale”. Esaminiamo il suo contenuto secondo entrambe le interpretazioni, partendo dalla prima. In precedenza, la Critica Assoluta aveva definito la nuova “forma mondiale”, distinta dallo “stato”, come “società”; ora definisce il sostantivo “società” attraverso l’aggettivo “sociale”. Se a Herr Hinrichs veniva ripetutamente utilizzato il termine “sociale” in contrapposizione a “politico”, ora a Herr Riesser viene presentata la nozione di “società sociale” in contrapposizione alla “società legale”. Se le spiegazioni critiche fornite da Herr Hinrichs si riducevano alla formula “sociale” + “sociale” + “sociale” = 3a, allora la Critica Assoluta, nella sua seconda fase di analisi, passa dall’addizione alla moltiplicazione: Herr Riesser viene quindi descritto come una “società moltiplicata per sé stessa”, cioè una “società al secondo grado”, ovvero Social society = a². Per completare le sue deduzioni sulla società, tutto ciò che ora rimane da fare alla Critica Assoluta è passare alle frazioni, estrarre la radice quadrata della società, e così via.
+
+D'altra parte, se consideriamo la seconda interpretazione: quella secondo cui questa forma del mondo non è soltanto legale, ma anche sociale, allora questa forma ibrida non è altro che quella che esiste oggi, cioè quella della società contemporanea. È un vero e proprio “miracolo critico” che la “Critica”, con il suo modo di pensare precedente alla formazione effettiva del mondo, stia soltanto preparando l’esistenza futura di questa forma del mondo attuale. Tuttavia, riguardo a quella società “non soltanto legale, ma anche sociale”, la Critica, per il momento, non può dire molto di più se non che essa rappresenta un’applicazione morale dei principi morali. Coloro che non vivono in tale società con i propri sentimenti e la propria coscienza vi si sentiranno “fuori posto”. Alla fine, nessuno vivrà in quella società se non il “puro sentimento” e la “pura coscienza”, cioè lo “Spirito”, la “Critica” e i suoi sostenitori. La massa, in un modo o nell’altro, ne sarà esclusa, così che una “società di tipo massiccio” esisterà al di fuori della “società sociale”.
+
+In breve, questa società non è altro che il “cielo critico” dal quale il mondo reale viene escluso, considerato l’“inferno non critico”. Nel suo pensiero puro, la Critica Assoluta prepara questa forma trasfigurata del mondo, nata dalla contraddizione tra “Massa” e “Spirito”.
+
+Allo stesso livello di profondità critica di queste spiegazioni riguardanti la “società”, sono anche le spiegazioni fornite dal signor Riesser sul destino delle nazioni.
+
+Il desiderio degli ebrei di emancipazione e il desiderio degli stati cristiani di “classificare” gli ebrei all’interno dei loro schemi governativi – come se gli ebrei non fossero già stati classificati molto tempo fa nei sistemi politici cristiani! – portano la Critica Assoluta a formulare profezie sul declino delle nazionalità. Si veda con quale percorso complicato la Critica Assoluta arrivi al movimento storico attuale: attraverso il percorso della teologia. Il seguente esempio illuminante ci mostra quali grandi risultati la Critica riesce a ottenere in questo modo.
+
+“Il futuro di tutte le nazioni è molto incerto!”
+
+Ma che il futuro delle nazioni rimanga quanto più oscuro possibile, per il bene stesso della Critica. Una cosa è certa: il futuro è opera della Critica.
+
+“Il destino”, esclama, “può decidere come vuole; ora sappiamo che è compito nostro farlo”.
+
+Proprio come Dio abbandona la sua creazione, l’uomo, alla propria volontà, così anche la Critica abbandona il destino, che è la sua creazione, alla sua stessa volontà. La Critica, di cui il destino è l’opera, è, come Dio, onnipotente. Anche quella “resistenza” che essa “trova” al di fuori di sé è in realtà il risultato delle sue stesse azioni. “La Critica crea i suoi avversari”. Pertanto, l’“indignazione generale” contro di essa è “pericolosa” soltanto per “la massa” stessa.
+
+Ma se la Critica, come Dio, è onnipotente, allora è anche, come Dio, onnisciente e in grado di combinare la sua onnipotenza con la libertà, la volontà e la determinazione naturale degli individui umani.
+
+“Non sarebbe una forza capace di cambiare il corso della storia se non avesse l’effetto di far sì che ognuno diventi ciò che desidera essere, e di mostrare a ciascuno in modo irrevocabile la posizione che corrisponde alla sua natura e alla sua volontà.”
+
+<span class="atom-split" data-atom="030" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 7)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Leibniz could not have given a happier presentation of the re-established harmony between the almightiness of God and the p freedom and natural determination of man.
 
@@ -1406,7 +2735,75 @@ Insofar as this appearance, however, was supported by “the inability”, “th
 
 “In spite of having subjected liberalism itself to devastating criticism, it” (Criticism) “could still be regarded as a peculiar kind of liberalism, perhaps as its extreme form; in spite of its true and decisive arguments having gone beyond politics, it nevertheless was still bound to give an appearance of engaging in politics, and this incomplete appearance won it most of the friends mentioned above.”
 
-<span class="atom-split" data-atom="031" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 8)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Leibniz non avrebbe potuto offrire una rappresentazione più felice dell’armonia ristabilita tra la maestosità di Dio e la libertà e la determinazione naturale dell’uomo.
+
+Se la “critica”, per non distinguere tra la volontà di essere qualcosa e la capacità di esserlo, sembra entrare in conflitto con la psicologia, è necessario ricordare che essa dispone di motivi decisivi per considerare questa “distinzione” come “dogmatica”.
+
+Prepariamoci con determinazione per la terza campagna! Ricordiamo ancora una volta che “la critica crea il proprio avversario”! Ma come potrebbe creare un avversario, cioè una “frase”, se non fosse essa stessa un produttore di frasi?
+
+3) La terza campagna della Critica Assoluta
+
+a) L’autogiustificazione della Critica Assoluta.
+
+Il suo passato “politico”.
+
+La “Critica Assoluta” inizia la sua terza campagna contro la “Massa” con questa domanda:
+
+“Qual è ora l’oggetto della critica?”
+
+Nello stesso numero della “Literatur-Zeitung” troviamo questa informazione:
+
+“La critica desidera soltanto conoscere le cose.”
+
+Secondo questo punto di vista, tutte le cose sono oggetto della Critica. Sarebbe assurdo cercare un oggetto particolare e definito proprio caratteristico della Critica. La contraddizione si risolve facilmente se si ricorda che tutte le cose “si fondono” in elementi critici, e che tutti questi elementi critici, a loro volta, costituiscono la “Massa”, ovvero l’“oggetto” della “Critica Assoluta”.
+
+Innanzitutto, il signor Bruno esprime la sua infinita compassione per la “massa”. Rende “il divario che lo separa dalla folla” oggetto di un’“attenta analisi”. Vuole “scoprire l’importanza di quel divario per il futuro” (è questo ciò che, in precedenza, è stato definito conoscere “tutto”) e allo stesso tempo “abolirlo”. In realtà, quindi, sa già quale sia l’importanza di quel divario: esso consiste proprio nel fatto che debba essere abolito da lui.
+
+Poiché l’io di ogni uomo è ciò che gli è più vicino, la “Critica” inizia innanzitutto ad abolire la propria natura massiccia, proprio come gli asceti cristiani che avviano la lotta dello spirito contro la carne attraverso la mortificazione del proprio corpo. La “carne” della Critica Assoluta è il suo passato letterario estremamente vasto, composto da 20-30 volumi. Pertanto, il signor Bauer deve liberare la biografia letteraria della “Critica” – che coincide esattamente con la sua stessa biografia letteraria – dalla sua apparenza massiccia; deve migliorarla e spiegarla in modo retrospettivo, e attraverso questo commento apologetico “mettere al sicuro le sue opere più antiche”.
+
+Inizia spiegando, attraverso due cause diverse, l’errore commesso dal periodico “Die Mass”, che fino alla fine della pubblicazione dei “Deutsche Jahrbücher” e del “Rheinische Zeitung” considerava il signor Bauer uno dei suoi sostenitori. Da un lato, si è commesso l’errore di ritenere che il movimento letterario non fosse “puramente letterario”; dall’altro lato, si è commesso l’errore opposto, ovvero considerare quel medesimo movimento soltanto o esclusivamente un movimento letterario. Senza dubbio, il periodico “Die Mass” ha commesso un errore in entrambi i casi, anche solo perché ha compiuto due errori reciprocamente incompatibili nello stesso momento.
+
+La Critica Assoluta approfitta di questa occasione per esclamare coloro che hanno deriso la “nazione tedesca” definendola una “donna di casa”.
+
+“Indicate pure un’unica epoca storica che non sia stata in anticipo delineata dall’autorità del “pennello” e che non abbia dovuto subire la distruzione di un semplice gesto con la penna.”
+
+Nella sua ingenuità critica, il signor Bruno separa “la penna” dal soggetto che scrive, e il soggetto che scrive – inteso come “scrittore astratto” – dall’uomo storico reale che ha effettivamente scritto. Ciò gli permette di esaltare all’estremo il potere magico della “penna”. Avrebbe potuto altrettanto bene chiedere di conoscere informazioni su un movimento storico che non fosse stato in anticipo delineato da “polli” o da “ragazze che guidano oche”.
+
+In seguito lo stesso signor Bruno ci dirà che, fino ad oggi, nessuna epoca storica è mai stata conosciuta. Come potrebbe la “penna”, che finora non è riuscita a descrivere nemmeno una singola epoca storica dopo che questi eventi si sono verificati, essere stata in grado di descriverle tutte in anticipo?
+
+Tuttavia, il signor Bruno dimostra la correttezza della sua visione con i fatti, delineando egli stesso in anticipo il proprio “passato” attraverso scritti pieni di scuse.
+
+La critica, che era coinvolta da tutte le parti non solo nella limitazione generale del mondo e dell’epoca, ma anche in limitazioni particolari e personali, e che tuttavia ci assicura di essere stata “assoluta, perfetta e pura” in tutte le sue manifestazioni, fin da quando l’uomo è in grado di pensare, si è semplicemente adattata ai pregiudizi e alle capacità di comprensione della massa, proprio come Dio fa nelle sue rivelazioni all’uomo.
+
+“Era inevitabile che accadesse”, ci informa l’“Critica Assoluta”, “un conflitto tra la Teoria e il suo presunto alleato”.
+
+Ma poiché la Critica, qui chiamata Teoria per cambiare nome, non è altro che nulla, e al contrario tutto deriva da essa; poiché si sviluppa non all’interno del mondo ma al di fuori di esso, e ha predeterminato ogni cosa nella sua divina coscienza immutabile, la rottura con il suo precedente alleato rappresentò soltanto un “nuovo cambiamento” in apparenza, solo per gli altri, non per essa stessa né per la Critica in sé.
+
+“Ma questo rum, ‘in senso stretto’, non era nemmeno nuovo. La teoria stessa aveva continuamente lavorato sulla propria critica’ (sappiamo quanta fatica sia stata profusa per costringerla a criticarsi); ‘non aveva mai lusingato le masse’ (mentre essa stessa lo faceva ancora di meno); inoltre, si era sempre premurata di non cadere nelle trappole delle premesse del proprio avversario.”
+
+“Il teologo cristiano deve procedere con cautela.” ([Bruno Bauer](/figures/bauer), *Das entdeckte Christenthum*, p., ) Come è possibile che una critica “cautelosa” sia comunque caduta in trappola e non abbia espresso chiaramente e apertamente il proprio significato “proprio” fin da allora? Perché non ha parlato senza mezzi termini? Perché ha permesso che persistesse l’illusione della propria fratellanza con la massa cristiana?
+
+“‘Perché mi hai fatto questo?’ disse il faraone ad Abramo quando gli restituì Sara, sua moglie. ‘Perché hai detto che era tua sorella?’” (Da “Das entdeckte Christenthum” di Bruno Bauer.)
+
+“‘Via dalla ragione e dal linguaggio!’, dice il teologo, ‘altrimenti Abramo sarebbe un bugiardo. Sarebbe un’offesa mortale alla [Rivelazione](/concepts/revelation)!’” (citato in loco).
+
+“‘Via dalla ragione e dal linguaggio!’ dice il Critico. Perché se il signor Bauer fosse davvero, e non solo apparentemente, caduto nella trappola della massa, la Critica Assoluta non sarebbe assoluta nelle sue rivelazioni; verrebbe infatti offesa in modo gravissimo.”
+
+“È solo,” prosegue la Critica Assoluta, “che i suoi sforzi non sono stati notati; inoltre, ci è stato un periodo in cui la Critica è stata costretta a prendere seriamente le premesse del proprio avversario e ad esaminarle con sincerità; insomma, un periodo in cui non era ancora completamente in grado di togliere alla massa l’illusione che essa condividesse le stesse ragioni e gli stessi interessi della Critica.”
+
+“I tentativi della Critica semplicemente non erano stati notati; quindi la colpa ricadeva sulla Messa. D’altra parte, la Critica ammette che i suoi sforzi non potessero essere percepiti perché essa stessa non era ancora ‘in grado’ di renderli evidenti. Pertanto, sembra proprio che sia la Critica ad essere da biasimare.”
+
+Dio ci aiuti! La Critica è stata “costretta” a considerare seriamente le premesse del suo avversario, anche se con violenza. Una vera sincerità, una sincerità davvero teologica, che in realtà non prende nulla sul serio, ma lo fa soltanto “per un istante”. Questa “sincerità” è ancora maggiore nella parte finale della frase: proprio nel momento in cui la Critica considerava seriamente le premesse della Messa, non era ancora completamente in grado di distruggere l’illusione riguardo all’unità tra la sua causa e quella della Messa. Non ne aveva ancora la capacità, ma già possedeva la volontà e il pensiero necessari. Non poteva ancora rompere apertamente con la Messa, ma questa rottura era già completa dentro di lei, nella sua mente, completa nello stesso istante in cui provava sinceramente simpatia per la Messa!
+
+Nella sua adesione ai pregiudizi della Massa, la Critica in realtà non ne era coinvolta; al contrario, si trovava, per così dire, libera dalle proprie limitazioni e “non era ancora del tutto in grado” di far conoscere alla Massa questa verità. Pertanto, tutte le limitazioni della “Critica” erano puramente apparenti; un’apparenza che, senza le limitazioni della Massa, sarebbe stata superflua e quindi non esistita affatto. È dunque ancora la Massa quella da incolpare.
+
+Tuttavia, nella misura in cui questa apparenza era dovuta all’“incapacità”, all’“impotenza” della Critica di esprimere il proprio pensiero, la stessa Critica risultava imperfetta. Questo lo ammette a modo suo, con sincerità e anche con un certo senso di scusa.
+
+“Nonostante abbia sottoposto il liberalismo stesso a critiche devastanti, esso può comunque essere considerato un tipo particolare di liberalismo, forse la sua forma estrema; nonostante i suoi argomenti veri e decisivi andassero oltre i confini della politica, era comunque costretto ad assumere un aspetto che lo faceva apparire impegnato in ambito politico, e proprio questa apparenza incompleta gli ha permesso di ottenere la maggior parte degli amici menzionati sopra.”
+
+<span class="atom-split" data-atom="031" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 8)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="positions/dialectic,concepts/freedom,figures/bauer,schools/enlightenment"></span>
 
 Criticism won its friends through its incomplete appearance of engaging in politics. Had it completely appeared to engage in politics, it would inevitably have lost its political friends. In its apologetic anxiety to wash itself free of all sin, it accuses the false appearance of having been an incomplete false appearance, not a complete false one. By substituting one appearance for the other, “Criticism” can console itself with the thought that if it had the “complete appearance” of wishing to engage in politics, it does not have, on the other hand, even the “incomplete appearance” of anywhere or at any time having dissolved politics.
 
@@ -1446,7 +2843,47 @@ What a delightful apologetic phrase! “Criticism should have come to a halt” 
 
 “If Criticism” (still Herr Bauer) “had to ... it will at the same time be admitted that it always felt uncertain when it gave in to demands of this” (political) “kind, and that as a result of these demands it came into contradiction with its true elements, a contradiction that had already found its solution in those elements.”
 
-<span class="atom-split" data-atom="032" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 9)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La Critica ha conquistato i suoi sostenitori proprio grazie alla sua apparente incompletezza nel coinvolgersi nella politica. Se avesse mostrato apertamente di impegnarsi attivamente in ambito politico, inevitabilmente avrebbe perso tutti i suoi alleati politici. Nella sua ansia disperata di liberarsi da ogni accusa di colpa, la Critica accusa se stessa di essere soltanto un’apparenza falsa e incompleta, e non una falsità totale e completa. Sostituendo un’apparenza con un’altra, la Critica si consola pensando che, anche se avesse l’“apparenza completa” di volersi impegnare nella politica, in realtà non possiede nemmeno quell’“apparenza incompleta” che dimostri che abbia mai, in alcun momento, realmente abbandonato l’attività politica.
+
+Non del tutto soddisfatto di questa “apparenza incompleta”, la Critica Assoluta si chiede nuovamente:
+
+“Come è possibile che, in quel periodo, la Critica si sia coinvolta in interessi ‘di massa, politici’, al punto da essere addirittura costretta a impegnarsi nella politica?”
+
+Il teologo Bauer considera del tutto naturale che la “Critica” debba indulgere all’infinito nella teologia speculativa, poiché essa, essendo una “critica” a tutti gli effetti, è in realtà un teologo di professione. Ma impegnarsi in politica? Questo deve essere motivato da circostanze molto particolari, legate alla politica o alla vita personale!
+
+Allora, perché la “Critica” avrebbe dovuto impegnarsi anche in politica? “Fu accusata. E questa è la risposta alla domanda.” Almeno il “mistero” della “politica di Bauer” viene così svelato; almeno quell’apparenza, che nel libro di [Bruno Bauer](/figures/bauer) *Die gute Sache der [Freiheit](/concepts/freedom) und meine eigene Sache* lega la “propria causa” alla “causa della libertà”, collegandole con un “e”, non può essere definita non politica. Ma se la Critica non persegue la propria causa nell’interesse della politica, bensì la politica nell’interesse della propria causa, bisogna ammettere che non è la Critica ad essere assorbita dalla politica, ma piuttosto la politica dalla Critica.
+
+Quindi Bruno Bauer doveva essere destituito dalla sua cattedra di teologia: era stato accusato; la “Critica” doveva impegnarsi in politica, ovvero portare avanti le “azioni” proprie, vale a dire quelle di Bruno Bauer. Ma il signor Bauer non portava avanti le azioni della “Critica”; era la “Critica” a gestire le azioni del signor Bauer. Perché la “Critica” doveva necessariamente intraprendere queste azioni?
+
+“Per giustificarsi!” È molto probabile; tuttavia la “Critica” non si limita affatto a una ragione così personale e volgare. È molto probabile, ma non solo per questa ragione: “soprattutto per mettere in evidenza le contraddizioni dei suoi oppositori”. Inoltre, la Critica potrebbe aggiungere che lo fa anche per raccogliere in un unico libro vecchi saggi scritti contro vari teologi. Si pensi, ad esempio, alle lunghe discussioni con Planck, o a quelle controversie tra la “teologia di Bauer” e quella di Strauss.
+
+Essendosi liberata dal peso di aver ammesso l’interesse reale della sua “politica”, la Critica Assoluta ricorda il proprio “abito” e riprende a masticare quella vecchia materia hegeliana (si veda la lotta tra [Illuminismo](/schools/enlightenment) e fede nella Fenomenologia, si veda l’intera Fenomenologia): che “ciò che resiste al nuovo non è più davvero ciò che era”. Questa stessa materia è stata ampiamente analizzata anche in “Die gute Sache der Freiheit”. La Critica Critica è un animale ruminante: continua a riscaldare ossessivamente alcune idee lasciate da Hegel, come la citata proposizione sul “vecchio” e il “nuovo”, o quella sull’“sviluppo dell’estremo a partire dal suo opposto estremo”, senza mai sentire la necessità di affrontare la “dialettica speculativa” in modo diverso da quello proposto dal professor Hinrichs. Hegel, invece, viene continuamente trascenduto dalla Critica Assoluta attraverso la sua ripetizione. Ad esempio.
+
+“La critica, apparendo e dando alla ricerca una nuova forma, cioè quella che non può più essere trasformata in una limitazione esterna”, ecc.
+
+Quando trasformo qualcosa, lo rendo essenzialmente diverso da ciò che era prima. Poiché ogni forma rappresenta anche una “limitazione esterna”, nessuna forma può essere trasformata in un’altra “limitazione esterna”, proprio come un’apple non può essere “trasformata” in un’altra mela. È vero che la forma che la “Critica” conferisce all’indagine non è suscettibile di essere trasformata in alcuna “limitazione esterna”, per motivi del tutto diversi: al di là di ogni “limitazione esterna”, essa si dissolve in una nebbia grigio cenere, blu scuro, priva di significato.
+
+“Questa lotta tra il vecchio e il nuovo sarebbe comunque impossibile da risolvere, anche nel momento in cui la Critica conferisse all’indagine quella ‘nuova forma’, se il vecchio si limitasse a affrontare la questione della compatibilità o incompatibilità, in modo teorico.”
+
+Ma perché il vecchio approccio non affronta teoricamente questa questione? Perché “questo, tuttavia, è assolutamente impossibile all’inizio, poiché nel momento della sorpresa” (cioè all’inizio) “non conosce né se stesso né ciò che è nuovo”, ovvero non affronta teoricamente né se stesso né ciò che è nuovo. Sarebbe del tutto impossibile, se, purtroppo, l’impossibilità non fosse davvero impossibile!
+
+Quando il “Critico” della facoltà teologica ammette ulteriormente di aver commesso l’errore intenzionalmente, di averlo fatto deliberatamente e dopo una riflessione matura (tutto ciò che la Critica ha vissuto, imparato e fatto diventa, per essa, un prodotto libero, puro e intenzionale della sua riflessione), questa confessione del “Critico” presenta soltanto un’apparenza “incompleta” di verità. Poiché la “Kritik der Synoptiker” ha una base completamente teologica, poiché si tratta di una critica interamente teologica, il signor Bauer, docente universitario di teologia, poté scriverla e insegnarla “senza errori”. Gli errori, piuttosto, provenivano dalle facoltà teologiche, che non si resero conto di quanto rigorosamente il signor Bauer avesse mantenuto la promessa fatta in “Kritik der Synoptiker”, Vol. 1, Prefazione, p. xxiii.
+
+“Se anche in questo primo volume la negazione possa sembrare ancora troppo radicale e estrema, dobbiamo ricordare che ciò che è veramente positivo può nascere soltanto quando la negazione è stata seria e generale. Alla fine si comprenderà che solo una critica estremamente severa del mondo può insegnarci il potere creativo di Gesù e dei suoi principi.”
+
+Herr Bauer separa intenzionalmente il Signore “Gesù” dal suo “principio”, al fine di liberare il significato positivo della sua promessa da qualsiasi ombra di ambiguità. E Herr Bauer ha davvero reso così evidente il “potere creativo” del Signore Gesù e del suo principio, che la sua “infinita [autoconsapevolezza](/concepts/self_consciousness)” e lo “Spirito” non sono altro che creazioni del Cristianesimo.
+
+Se la disputa della “Critica Critica” con la facoltà teologica di Bonn spiegava così bene le sue “politiche” di quel periodo, perché la “Critica Critica” continuò ad impegnarsi in questioni politiche anche dopo che quella disputa si era risolta? Ascoltate questo.
+
+“A questo punto, la ‘Critica’ avrebbe dovuto o arrestarsi oppure proseguire immediatamente nell’esaminare l’essenza della politica e descriverla come sua nemica; – se solo fosse stato possibile che si fermasse in quel momento nel suo sforzo. E se, d’altra parte, non esistesse una legge storica troppo rigida secondo cui, quando un principio si confronta per la prima volta con il proprio opposto, deve necessariamente essere represso da esso, ”
+
+Che deliziosa frase di scuse, “La critica avrebbe dovuto fermarsi” se solo fosse stato possibile, “fermarsi davvero”! Chi dovrebbe fermarsi? E chi avrebbe dovuto fare ciò che “non sarebbe stato possibile fare”? D’altra parte. La critica avrebbe dovuto proseguire “se solo, d’altra parte, non esistesse una legge storica troppo rigida”, ecc. Anche le leggi storiche sono “troppo rigide” nei confronti della Critica Assoluta! Se solo non fossero in opposizione alla Critica Critica. Quanto brillantemente quest’ultima potrebbe procedere! Ma, in guerra, come in guerra! Nella storia, la Critica Critica deve accettare di essere trasformata in una triste “storia”.
+
+“Se la ‘Critica’” (ancora una volta il signor Bauer) “dovesse, allora si dovrà ammettere che abbia sempre provato incertezza quando cedeva alle richieste di questo tipo” (politico), e che, a causa di tali richieste, finisse per entrare in contraddizione con i propri veri elementi; una contraddizione che, in realtà, era già stata risolta all’interno di quegli stessi elementi.
+
+<span class="atom-split" data-atom="032" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 9)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Criticism was forced into political weaknesses by the all too strict laws of history, but — it entreats — it will at the same time be admitted that it was above those weaknesses, if not in reality, at least in itself. Firstly, it had overcome them, “in feeling”, for “it always felt uncertain in its demands”; it felt ill at ease in politics, it could not make out what was the matter with it. More- than that! It came into contradiction with its true elements. And finally the greatest thing of ally The contradiction with its true elements into which it came found its solution not in the course of Criticism’s development, but “had”, on the contrary, “already” found its solution in Criticism’s true elements existing independently of the contradiction! These Critical elements can claim with pride: before Abraham was, we were. Before the opposite to us was produced by development, it lay yet unborn in our chaotic womb, dissolved, dead, ruined. But since Criticism’s contradiction with its true elements “had already found its solution” in the true elements of Criticism, and since a solved contradiction is not a contradiction, it found itself, to be precise, in no contradiction with its true elements, in no contradiction with itself, and — the general aim of self-apology seems attained.
 
@@ -1512,7 +2949,7 @@ The theologian will judge by appearances and see a religious question in a relig
 
 The Deutsch-Französische Jahrbücher with equal right said to Criticism: Religious questions of the day have at the present time a social significance. It is no longer a question of religious interests as such. Only the theologian can believe it is a question of religion as religion. Granted, the Jahrbücher committed the error of not stopping at the word “social”. It characterised the real position of the Jews in [civil society](/positions/civil_society) today. Once Jewry was stripped bare of the religious shell and its empirical, worldly, practical kernel was revealed, the practical, really social way in which this kernel is to be abolished could be indicated. Herr Bauer was content with a “religious question” being a “religious question”.
 
-<span class="atom-split" data-atom="033" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 10)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 10)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 It was by no means denied, as Herr Bauer makes out, that the Jewish question is also a religious question. On the contrary, it was shown that Herr Bauer grasps only the religious essence of Jewry, but not the secular, real basis of that religious essence. He combats religious consciousness as if it were something independent. Herr Bauer therefore explains the real Jews by the Jewish religion, instead of explaining the mystery of the Jewish religion by the real Jews. Herr Bauer therefore understands the Jew only insofar as he is an immediate object of theology or a theologian.
 
@@ -1546,7 +2983,41 @@ Instead of studying the real attitude of the modern state to religion, Herr Baue
 
 When Herr Bauer had first freed himself from orthodox, un-Critical theology, political authority took for him the place of religious authority. His faith in Jehovah changed into faith in the Prussian state. In [Bruno Bauer](/figures/bauer)’s work Die evangelische Landeskirche , not only the Prussian state, but, quite consistently, the Prussian royal house too, was made into an absolute. In reality Herr Bauer had no political interest in that state; its merit, in the eyes of “Criticism”, was rather that it abolished dogmas by means of the Unified Church and suppressed the dissenting sects with the help of the police.
 
-<span class="atom-split" data-atom="034" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 11)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Non si negava affatto, come sostiene il signor Bauer, che la questione ebraica sia anche una questione religiosa. Al contrario, si dimostrava che il signor Bauer comprendesse soltanto l’essenza religiosa dell’ebraismo, ma non le basi secolari e reali di tale essenza. Lui combatteva contro la coscienza religiosa come se fosse qualcosa di indipendente. Pertanto, il signor Bauer spiegava gli ebrei veri attraverso la religione ebraica, invece di spiegare il mistero della religione ebraica attraverso gli ebrei veri. In altre parole, il signor Bauer comprendeva l’ebreo soltanto nella misura in cui questi rappresentava un oggetto immediato della teologia o un teologo.
+
+Di conseguenza, il signor Bauer non ha la minima idea che l’ebraismo secolare reale, e quindi anche l’ebraismo religioso, venga continuamente generato dalla vita civile odierna e trovi la sua piena realizzazione nel sistema monetario. Non avrebbe potuto averne alcuna consapevolezza perché conosceva l’ebraismo soltanto come parte del suo mondo teologico, e non come elemento della realtà concreta; inoltre, essendo una persona pia e devota, considerava il vero ebreo non quello che vive nella quotidianità, ma quello ipocrita che osserva i riti del Sabato. Per il signor Bauer, teologo della fede cristiana, l’importanza storica dell’ebraismo doveva cessare nel momento stesso in cui nasceva il Cristianesimo; per questo ripeteva la vecchia visione ortodossa secondo cui tale importanza si era mantenuta nonostante lo svolgersi della storia, e ritornava alla vecchia superstizione teologica secondo cui l’ebraismo esiste soltanto come conferma di una maledizione divina, come prova concreta della [rivelazione](/concepts/revelation) cristiana. In realtà, però, l’ebraismo esiste e ha sempre esistito soltanto come forma primitiva di dubbio religioso riguardo all’origine soprannaturale del Cristianesimo, cioè come prova concreta contro tale rivelazione.
+
+D’altra parte, si dimostrò che il popolo ebraico si è mantenuto e sviluppato nel corso della storia, all’interno della storia stessa; tale sviluppo non può essere percepito con gli occhi di un teologo, ma soltanto con quelli di un uomo di mondo, poiché esso si trova non nella teoria religiosa, ma esclusivamente nella pratica commerciale e industriale. Si spiegò inoltre perché l’ebraismo pratico raggiunge il suo pieno sviluppo soltanto nel mondo cristiano completamente evoluto, e perché tale sviluppo corrisponde proprio alla pratica cristiana stessa. L’esistenza dell’ebreo contemporaneo non fu spiegata dalla sua religione – come se questa fosse qualcosa di separato e indipendente – ma la tenace sopravvivenza della religione ebraica fu attribuita alle caratteristiche pratiche della [società civile](/positions/civil_society), che si riflettono in modo straordinario in quella religione. Pertanto, l’emancipazione degli ebrei come esseri umani, o l’emancipazione umana dell’ebraismo, non fu concepita, come fece Herr Bauer, come una missione specifica degli ebrei, ma come un compito pratico generale del mondo contemporaneo, che è essenzialmente ebraico. Si dimostrò infine che il compito di abolire l’essenza stessa dell’ebraismo corrisponde in realtà al compito di eliminare il carattere ebraico della società civile, di eliminare l’inhumanità delle pratiche sociali attuali, la cui espressione più estrema è il sistema monetario.
+
+Herr Bauer, in quanto vero teologo – sebbene critico – o critico teologico, non riusciva ad andare oltre le contraddizioni religiose. Nell’atteggiamento degli Ebrei verso il mondo cristiano vedeva soltanto l’atteggiamento della religione ebraica verso la religione cristiana. Era persino costretto a ripristinare tali contraddizioni in modo critico, ossia nell’antitesi tra l’atteggiamento dell’Ebreo e quello del Cristiano nei confronti della religione – nell’ateismo, l’ultima fase del teismo, la negativa “riconoscenza” di Dio. Infine, nel suo fanatismo teologico, era costretto a limitare la capacità dei “moderni Ebrei e Cristiani”, cioè del mondo attuale, di “raggiungere la libertà”, alla loro capacità di comprendere la “critica” della teologia e di applicarla personalmente. Per il teologo ortodosso, l’intero mondo si dissolve nella “religione e nella teologia”. (Avrebbe potuto altrettanto well dissolverlo nella politica, nell’economia politica, ecc., e definire la teologia, ad esempio, economia politica celestiale, poiché essa rappresenta la teoria della produzione, distribuzione, scambio e consumo del “benessere spirituale” e dei tesori del cielo!) Allo stesso modo, per il teologo radicale e critico, la capacità del mondo di ottenere la libertà si dissolve nella semplice capacità astratta di criticare “la religione e la teologia” come tali. L’unica lotta che conosce è quella contro le limitazioni religiose dell’“autoconsapevolezza”; la cui “purezza” e “infinità” critiche rappresentano, a loro volta, delle limitazioni teologiche.
+
+Pertanto, il signor Bauer affrontò la questione religiosa e teologica in modo religioso e teologico, semplicemente perché considerava la questione “religiosa” del tempo una questione “puramente religiosa”. La sua “corretta formulazione della questione” la rendeva “corretta” soltanto rispetto alle sue “proprie capacità” di rispondervi.
+
+Passiamo ora alla parte politica della questione ebraica.
+
+Gli ebrei (così come i cristiani) sono pienamente emancipati politicamente in vari stati. Tuttavia, sia gli ebrei che i cristiani sono lontani dall’essere veramente emancipati a livello umano. Pertanto, deve esistere una differenza tra emancipazione politica ed emancipazione umana. È quindi necessario studiare l’essenza dell’emancipazione politica, cioè quella dello stato moderno e sviluppato. D’altra parte, gli stati che non riescono ancora a emancipare politicamente gli ebrei devono essere valutati in confronto allo stato politico perfetto e considerati come stati sottosviluppati.
+
+È questo il punto di vista da cui la “emancipazione politica” degli ebrei avrebbe dovuto essere affrontata, ed è effettivamente così che viene trattata nei Deutsch-Französische Jahrbücher.
+
+Herr Bauer fornisce la seguente difesa della “Die Judenfrage” di “Critica”.
+
+“Gli ebrei vennero fatti comprendere che soffrivano a causa di un’illusione riguardo al sistema dal quale chiedevano la libertà.”
+
+Herr Bauer dimostrò effettivamente che l’illusione degli ebrei tedeschi consisteva nel richiedere il diritto di partecipare alla vita comunitaria politica in una terra dove non esisteva alcuna comunità politica, e nel pretendere diritti politici là dove esistevano soltanto privilegi politici. D’altra parte, si dimostrò anche che Herr Bauer stesso, tanto quanto gli ebrei, era vittima di “illusioni” riguardo al “sistema politico tedesco”. Infatti, egli spiegava la posizione degli ebrei negli stati tedeschi come derivante dall’incapacità dello “stato cristiano” di emanciparli politicamente. Contraddicendo i fatti, descriveva lo stato dei privilegi, lo stato cristiano-germanico, come lo “Stato Cristiano Assoluto”. Si dimostrò invece che lo stato moderno, politicamente perfetto e privo di privilegi religiosi, è anche lo stato cristiano pienamente sviluppato; pertanto, lo stato cristiano pienamente sviluppato non solo può emancipare gli ebrei, ma li ha già emancipati e, per sua stessa natura, deve necessariamente emanciparli.
+
+“Si dimostra agli ebrei, che sono vittime di una grande illusione riguardo a se stessi quando pensano di essere coloro che chiedono libertà e il riconoscimento dell’umanità libera; in realtà, per loro si tratta soltanto – e può trattarsi solo – di una questione legata a privilegi speciali.”
+
+Libertà! Riconoscimento dell’umanità libera! Privilegi speciali! Parole edificanti che permettano di aggirare, in modo apologetico, certe questioni.
+
+Libertà? Si trattava di libertà politica. Fu dimostrato al signor Bauer che quando un ebreo chiede la libertà ma rifiuta al contempo di rinunciare alla propria religione, “si impegna in attività politiche” senza porre condizioni contrarie alla libertà politica. Gli fu anche spiegato che non c’è alcun contrasto tra l’emancipazione politica e la divisione dell’uomo in cittadino non religioso e individuo privato religioso. Fu chiarito che, proprio come lo Stato si emancipa dalla religione liberandosi della religione di Stato e lasciando che questa esista all’interno della società civile, anche l’individuo si emancipa politicamente dalla religione considerandola non più una questione pubblica ma privata. Infine, fu dimostrato che l’atteggiamento terroristico della [Rivoluzione](/positions/revolution) francese verso la religione, lungi dal confutarla, la conferma invece.
+
+Invece di studiare l’atteggiamento reale dello stato moderno verso la religione, il signor Bauer ritenne necessario immaginare uno “stato critico”, uno stato che non fosse altro che l’espressione concreta della critica teologica, trasformata in istituzione reale nella sua fantasia. Se il signor Bauer si impegna nella politica, la rende continuamente prigioniera della sua fede, cioè di una fede di natura critica. Ogni volta che affronta la questione dello stato, lo utilizza sempre come strumento per combattere contro “l’avversario”, ovvero la religione e la teologia non critiche. Lo stato, in questo contesto, agisce come esecutore dei desideri teologicamente critici del signor Bauer.
+
+Quando il signor Bauer si liberò per la prima volta dalla teologia ortodossa e non critica, l’autorità politica assunse il posto dell’autorità religiosa per lui. La sua fede in Jehovah si trasformò in fede nello Stato prussiano. Nell’opera di [Bruno Bauer](/figures/bauer) intitolata *Die evangelische Landeskirche*, non solo lo Stato prussiano, ma anche, in modo del tutto coerente, la casa reale prussiana venivano presentati come entità assolute. In realtà, il signor Bauer non aveva alcun interesse politico per tale Stato; ai suoi occhi, il suo merito risiedeva nel fatto che aboliva i dogmi attraverso l’Unione delle Chiese e reprimeva le sette dissidenti con l’aiuto della polizia.
+
+<span class="atom-split" data-atom="034" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 11)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="positions/civil_society,concepts/freedom,concepts/labour,concepts/recognition,concepts/state"></span>
 
 The political movement that began in the year 1840 redeemed Herr Bauer from his conservative politics and raised him for a moment to liberal politics. But here again politics was in reality only a pretext for theology. In his work Die gute Sache der [Freiheit](/concepts/freedom) und meine eigene Angelegenheit, the free state is the Critic of the theological faculty in Bonn and an argument against religion. In Die Judenfrage the contradiction between state and religion is the main interest, so that the criticism of political emancipation changes into a criticism of the Jewish religion. In his latest political work, [Staat](/concepts/state), Religion und Parthei, the most secret cherished desire of the Critic inflated into a state is at last expressed. Religion is sacrificed to the state or rather the state is only the means by which the opponent of “Criticism”, un-Critical religion and theology, is done to death. Finally, after Criticism has been redeemed, if only apparently, from all politics by the socialist ideas, which have been spreading in Germany from 1843 onwards, in the same way as it was redeemed from its conservative politics by the political movement after 1840, it is finally able to proclaim its writings against un-Critical theology to be social and to indulge unhindered in its own Critical theology, the contrasting of Spirit and Mass, as the annunciation of the Critical Saviour and Redeemer of the world.
 
@@ -1572,7 +3043,33 @@ To “free theory” Criticism contrasts the “practical validity of privileges
 
 In order not to misinterpret the opinion of Criticism, let us recall the contradiction it proved in the debates in the French Chamber, the very contradiction which “should have been conceived” as a general one. One of the questions dealt with was the fixing of a day in the week on which children would be freed from work. Sunday was suggested. One deputy moved to leave out mention of Sunday in the law as being unconstitutional. The Minister Martin (du Nord) saw in this motion an attempt to proclaim that Christianity had ceased to exist. Monsieur Crémieux declared on behalf of the French Jews that the Jews, out of respect for the religion of the great majority of Frenchmen, did not object to Sunday being mentioned. Now, according to free theory, Jews and Christians are equal, but according to this practice Christians have a privilege over Jews; for otherwise how could the Sunday of the Christians have a place in a law made for all Frenchmen? Should not the Jewish Sabbath have the same right, etc.? Or in the practical life of the French too, the Jew is not really oppressed by Christian privileges; but the law does not dare to express this practical equality. All the contradictions in the political essence expounded by Herr Bauer in Die Judenfrage are of this kind — contradictions of constitutionalism, which is, in general, the contradiction between the modern representative state and the old state of privileges.
 
-<span class="atom-split" data-atom="035" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 12)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il movimento politico che ebbe inizio nel 1840 liberò il signor Bauer dalla sua politica conservatrice e lo portò, per un momento, verso le idee liberali. Ma anche in questo caso la politica non era altro che un pretesto per esprimere considerazioni teologiche. Nel suo lavoro “Die gute Sache der Freiheit und meine eigene Angelegenheit”, lo stato libero viene presentato come strumento di critica alla facoltà teologica di Bonn e come argomento contro la religione; in “Die Judenfrage” il contrasto tra stato e religione rappresenta l’interesse principale, tanto che la critica all’emancipazione politica si trasforma in una critica alla religione ebraica. Nel suo ultimo lavoro politico, “Staat, Religion und Partei”, il desiderio più segreto del “Critico” viene finalmente espresso: la religione viene sacrificata allo stato, o meglio lo stato diventa soltanto mezzo per sconfiggere l’avversario della “critica”, ovvero la religione e la teologia non critiche. Infine, dopo che la “critica” è stata, sebbene solo apparentemente, liberata da ogni legame con la politica grazie alle idee socialiste diffuse in Germania a partire dal 1843 – proprio come era stata liberata dalla sua politica conservatrice dal movimento politico del 1840 – essa può finalmente proclamare i propri scritti contro la teologia non critica come messaggi di natura sociale, e indulgere senza ostacoli nella propria teologia critica, che contrappone lo Spirito alla massa, come annuncio del “Salvatore” e “Redentore” del mondo.
+
+Torniamo al nostro argomento principale!
+
+[Riconoscimento](/concepts/recognition) di un’umanità libera? Quell’‘umanità libera’, il cui riconoscimento gli Ebrei non si limitavano a desiderare, ma lo volevano davvero, è proprio quella stessa ‘umanità libera’ che ha trovato una forma classica di riconoscimento nei cosiddetti diritti umani universali. Lo stesso Herr Bauer ha esplicitamente considerato gli sforzi degli Ebrei per ottenere il riconoscimento della loro libertà come tentativi di realizzare i diritti umani universali.
+
+Nei “Deutsch-Französische Jahrbücher” fu dimostrato al signor Bauer che questa “umanità libera” e il suo “riconoscimento” non sono altro che il riconoscimento dell’individuo civile egoista e del movimento incontrollato degli elementi spirituali e materiali che costituiscono il contenuto della sua situazione vitale, il contenuto della vita civile odierna; che i diritti dell’uomo, pertanto, non liberano l’uomo dalla religione, ma gli concedono la libertà di credere; che non lo liberano dalla proprietà, ma gli assicurano la libertà di possederla; che non lo liberano dalla sporcizia derivante dal lucro, ma anzi gli danno la libertà di intraprendere attività redditizie.
+
+È stato dimostrato che il riconoscimento dei diritti dell’uomo da parte dello Stato moderno non ha altro significato se non quello che aveva il riconoscimento della schiavitù da parte degli Stati antichi. In altre parole, proprio come lo Stato antico aveva la schiavitù come sua base naturale, allo stesso modo lo Stato moderno ha come sua base naturale la [società civile](/positions/civil_society) e l’uomo della società civile, cioè l’uomo indipendente legato agli altri soltanto dai vincoli degli interessi privati e dalle necessità naturali inconscie, lo schiavo del [lavoro](/concepts/labour) per il guadagno e delle proprie esigenze egoistiche, così come di quelle altrui. Lo Stato moderno ha riconosciuto questa sua base naturale proprio nei diritti universali dell’uomo; non l’ha creata. Essendo il prodotto della società civile che, attraverso lo sviluppo proprio, ha superato i vecchi legami politici, lo Stato moderno, a sua volta, riconosce ora la “matrice” da cui è sorto e le sue basi attraverso la dichiarazione dei diritti dell’uomo. Pertanto, l’emancipazione politica degli Ebrei e la concessione loro dei “diritti dell’uomo” rappresentano un atto le cui due componenti sono strettamente interconnesse. Herr Riesser esprime correttamente il significato del desiderio degli Ebrei di vedere riconosciuta la loro umanità libera quando chiede, tra l’altro, la libertà di movimento, di soggiorno, di viaggiare, di guadagnarsi da vivere, ecc. Queste manifestazioni dell’“umanità libera” sono esplicitamente riconosciute come tali nella Dichiarazione francese dei Diritti dell’Uomo. Gli Ebrei hanno ancora più diritto al riconoscimento della loro “umanità libera”, poiché la “società civile libera” ha una natura strettamente commerciale ed ebraica, e l’Ebreo ne è un membro indispensabile. I Deutsch-Französische Jahrbücher hanno inoltre dimostrato perché il membro della società civile viene definito, per eccellenza, “uomo” e perché i diritti dell’uomo vengono chiamati “diritti innati”.
+
+L’unica cosa che la Critica potesse dire riguardo ai diritti dell’uomo era che non sono innati, ma sono emersi nel corso della storia. Questo era già ciò che Hegel ci aveva detto. Infine, alla sua affermazione secondo cui sia gli ebrei che i cristiani, per poter concedere o ricevere i diritti universali dell’uomo, debbano sacrificare il privilegio della fede – l’unica idea fissa su cui si basa tutta la sua dottrina – veniva particolarmente contrapposto il fatto contenuto in tutte le dichiarazioni non critiche sui diritti dell’uomo: il diritto di credere ciò che si desidera, il diritto di praticare qualsiasi religione, vengono esplicitamente riconosciuti come diritti universali dell’uomo. Inoltre, la “Critica” avrebbe dovuto sapere che proprio il partito di Hébert fu sconfitto con l’accusa di attaccare i diritti dell’uomo attaccando la libertà di religione; e allo stesso modo, i diritti dell’uomo furono invocati in seguito quando fu ripristinata la libertà di [culto](/concepts/religion).
+
+“Per quanto riguarda l’essenza politica, la Critica ha seguito le sue contraddizioni fino al punto in cui tale contraddizione tra teoria e pratica è stata analizzata nel modo più approfondito negli ultimi cinquanta anni: il sistema rappresentativo francese ne è un esempio concreto: in esso, la libertà della teoria viene negata dalla pratica, mentre la libertà della vita pratica cerca invano di trovare espressione nella teoria.”
+
+Ora che l’illusione di base è stata eliminata e la contraddizione è stata dimostrata nei dibattiti alla Camera francese – quella contraddizione tra la teoria della libertà e la validità pratica dei privilegi, tra la validità legale dei privilegi e un sistema pubblico in cui l’egoismo dell’individuo cerca di dominare l’esclusività dei privilegiati – questa contraddizione deve essere considerata come una contraddizione generale in questo ambito.
+
+La contraddizione che la Critica dimostrò nei dibattiti alla Camera francese non era altro che una contraddizione intrinseca al costituzionalismo stesso. Se la Critica l’avesse considerata come una contraddizione generale, avrebbe compreso appieno la natura fondamentale del costituzionalismo. Se fosse andata ancora oltre ciò che, secondo lei, “avrebbe dovuto” fare – cioè se fosse arrivata fino all’abolizione di questa contraddizione fondamentale – sarebbe riuscita a passare correttamente dalla monarchia costituzionale allo stato rappresentativo democratico, lo stato moderno perfetto. Invece di criticare l’essenza stessa dell’emancipazione politica e di dimostrarne il legame indissolubile con l’essenza umana, sarebbe arrivata soltanto al concetto stesso di emancipazione politica, allo stato moderno pienamente sviluppato – cioè a quel punto in cui l’esistenza dello stato moderno corrisponde alla sua essenza stessa, e in cui quindi sia possibili osservare e descrivere non solo le imperfezioni relative, ma anche quelle assolute che ne costituiscono la vera natura.
+
+Il passaggio citato sopra è ancora più prezioso poiché dimostra senza alcun dubbio che, nel momento stesso in cui la Critica considera l’“essenza politica” molto inferiore a sé stessa, in realtà essa stessa si trova ben al di sotto dell’essenza politica; ha ancora bisogno di trovare nella seconda la soluzione alle proprie contraddizioni e continua ostinatamente a non prestare attenzione al principio moderno dello Stato.
+
+Per quanto riguarda la “teoria liberale”, la critica contrappone alla “validità pratica dei privilegi” il “sistema pubblico”. Per quanto riguarda invece la “validità legale dei privilegi”, essa contrappone a questi ultimi il “sistema pubblico”.
+
+Per non fraintendere l’opinione della Critica, ricordiamo la contraddizione che essa ha dimostrato nei dibattiti alla Camera francese: proprio quella contraddizione che “avrebbe dovuto essere considerata” come una contraddizione generale. Uno dei temi trattati riguardava la fissazione di un giorno della settimana in cui i bambini fossero esentati dal lavoro; fu suggerita la domenica. Un deputato propose di omettere ogni menzione della domenica nella legge, sostenendo che ciò sarebbe stato contrario alla Costituzione. Il Ministro Martin (del Nord) vide in questa proposta un tentativo di affermare che il Cristianesimo fosse ormai estinto. Monsieur Crémieux, a nome degli ebrei francesi, dichiarò che questi, per rispetto verso la religione della stragrande maggioranza dei francesi, non si opponevano alla menzione della domenica nella legge. Ora, secondo la teoria liberale, ebrei e cristiani sono uguali; ma in pratica i cristiani godono di privilegi rispetto agli ebrei: altrimenti, come potrebbe la domenica dei cristiani avere un posto in una legge fatta per tutti i francesi? Non dovrebbe anche il sabato ebraico godere dello stesso diritto? Nella vita quotidiana dei francesi, dunque, l’ebreo non è realmente oppresso dai privilegi cristiani; ma la legge non osa esprimere questa uguaglianza pratica. Tutte le contraddizioni presenti nell’essenza politica espresse da Herr Bauer in “Die Judenfrage” rientrano in questo genere: sono contraddizioni tipiche del costituzionalismo, cioè della contraddizione tra lo stato rappresentativo moderno e lo stato basato sui privilegi tradizionali.
+
+<span class="atom-split" data-atom="035" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 12)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Herr Bauer is committing a very serious oversight when he thinks he is rising from the political to the human essence by conceiving and criticising this contradiction as a “general” one. He would thus only rise from partial political emancipation to full Political emancipation, from the constitutional state to the democratic representative state.
 
@@ -1616,7 +3113,51 @@ The narrow-mindedness of the Mass forced the “Spirit”, Criticism, Herr Bauer
 
 The chronological truth that an experiment of the eighteenth century like the French Revolution is still entirely an experiment of the eighteenth century, and not, for example, an experiment of the nineteenth, seems “still entirely” to be one of those truths which “are self-evident from the start”. But in the terminology of criticism, which is very prejudiced against “crystal-clear” truths, a truth like that is called an “examination” and therefore naturally has its place in a “fresh examination of the Revolution”.
 
-<span class="atom-split" data-atom="036" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 13)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Bauer commette un errore molto grave quando ritiene di elevarsi dall’ambito politico all’essenza umana concependo e criticando questa contraddizione come “generale”. In tal modo, egli si limiterebbe a passare da una forma parziale di emancipazione politica a una piena emancipazione politica, dallo stato costituzionale allo stato rappresentativo democratico.
+
+Il signor Bauer ritiene che, con l’abolizione dei privilegi, venga anche abolito lo scopo stesso per cui tali privilegi esistevano. Riguardo alle affermazioni del signor Martin (du Nord), egli dice:
+
+“Non esiste più alcuna religione quando non esiste più nessuna religione privilegiata. Togliete alla religione il suo potere esclusivo e essa non esisterà più.”
+
+Proprio come l’attività industriale non viene abolita con l’abolizione dei privilegi delle corporazioni e degli ordini commerciali, ma, al contrario, solo dopo tale abolizione l’industria vera e propria inizia a svilupparsi; proprio come la proprietà terriera non viene abolita con l’eliminazione dei diritti di proprietà privilegiati, ma, anzi, inizia il suo processo di universalizzazione soltanto con l’abolizione di tali privilegi e con la libera divisione e vendita delle terre; proprio come il commercio non viene eliminato con l’abolizione dei privilegi commerciali, ma trova la sua vera realizzazione nel libero scambio; così anche la religione sviluppa la propria universalità pratica soltanto in assenza di religioni privilegiate (si veda, ad esempio, gli Stati nordamericani).
+
+Il moderno “sistema pubblico”, lo stato moderno sviluppato, non si basa, come ritiene la Critica, su una società di privilegi, ma su una società in cui tali privilegi sono stati aboliti e dissolti, su un’[società civile](/positions/civil_society) sviluppata nella quale gli elementi vitali che sotto il sistema dei privilegi erano ancora legati politicamente sono stati liberati. Qui non esiste alcuna “esclusività privilegiata” che si opponga ad altre forme di esclusione o al sistema pubblico stesso. L’industria libera e il commercio libero aboliscono queste esclusioni privilegiate, eliminando così anche la lotta tra esse. Sostituiscono l’esclusività con un uomo liberato dai privilegi – un uomo che non è più legato agli altri nemmeno dal minimo vincolo comune. Così si genera la lotta universale dell’uomo contro l’uomo, dell’individuo contro l’individuo. Allo stesso modo, l’intera società civile rappresenta questa guerra reciproca di tutti gli individui, che ormai non sono più isolati tra loro se non dalla loro individualità stessa, e il movimento universale e incontenuto delle forze elementari della vita, liberate dalle catene dei privilegi. “La contraddizione tra lo stato rappresentativo democratico e la società civile costituisce l’ultima fase della classica contraddizione tra comunità pubblica e schiavitù. Nel mondo moderno ogni persona è al contempo membro sia della società schiavista che della comunità pubblica. Proprio la schiavitù all’interno della società civile appare come la massima forma di libertà, poiché rappresenta l’indipendenza pienamente sviluppata dell’individuo, il quale considera la propria libertà come il movimento incontenuto e non più vincolato da alcun legame comune o dagli altri esseri umani delle forze vitali della propria vita – proprietà, industria, religione, ecc. – mentre in realtà questa è la sua schiavitù e disumanità più completa. Qui il diritto ha sostituito i privilegi.”
+
+È quindi soltanto qui che non si riscontra alcuna contraddizione tra la teoria della libertà e la validità pratica dei privilegi; al contrario, l’abolizione pratica dei privilegi, l’industria libera, il commercio libero, ecc., sono in linea con la “teoria della libertà”. È soltanto qui che il sistema pubblico non viene ostacolato da alcuna esclusività privilegiata; è soltanto qui che la contraddizione sottolineata dalla Critica viene eliminata. Solo in questo contesto si può trovare lo Stato moderno pienamente sviluppato.
+
+Anche qui regna l’opposto di quella legge che il signor Bauer, durante i dibattiti alla Camera francese, enunciò in perfetta sintonia con il signor Martin (del Nord).
+
+“Proprio come il signor Martin (du Nord) considerò la proposta di omettere menzioni della domenica nella legge come un tentativo di dichiarare che il cristianesimo avesse cessato di esistere, allo stesso modo – e questa ragione è più che fondata – la dichiarazione secondo cui la legge del sabato non sia più obbligatoria per gli Ebrei significherebbe una proclamazione che abolisce lo judaismo.”
+
+Nello stato moderno sviluppato avviene esattamente il contrario. Lo [stato](/concepts/state) afferma che la religione, come gli altri elementi della vita civile, inizia a esistere pienamente solo quando lo stesso lo dichiara non politico e quindi lo lascia agire liberamente. Con la dissoluzione dell’esistenza politica di questi elementi – ad esempio, con l’abolizione dei requisiti di proprietà per i diritti elettorali o con l’eliminazione della chiesa di stato – corrisponde una loro attività ancora più intensa: da quel momento in poi essi seguono liberamente le proprie leggi naturali, sviluppandosi appieno.
+
+L’anarchia è la legge della società civile liberata da privilegi divisivi; l’anarchia della società civile costituisce la base del sistema pubblico moderno, proprio come questo sistema, a sua volta, ne garantisce l’esistenza. Nella stessa misura in cui i due concetti sono opposti tra loro, essi si determinano anche a vicenda.
+
+È evidente quanto la Critica sia capace di assimilare il “nuovo”. Tuttavia, se rimaniamo entro i confini della “Critica pura”, sorge la domanda: Perché la Critica non ha considerato come una contraddizione universale quella che ha rivelato in relazione ai dibattiti alla Camera francese, sebbene secondo le sue stesse opinioni questo fosse ciò che “avrebbe dovuto” fare?
+
+“Tuttavia, quel passo era allora impossibile – non solo perché, non solo perché, ma anche perché senza quell’ultimo residuo di coinvolgimento interiore nei suoi opposti, la Critica sarebbe stata impossibile e non avrebbe potuto raggiungere quel punto dal quale restava soltanto un ultimo passo da compiere.”
+
+Era impossibile, perché semplicemente impossibile! Inoltre, la critica ci assicura che quel fatale “un passo” necessario per raggiungere il punto da cui mancava soltanto un ulteriore passo sia stato effettivamente impossibile da compiere. Chi potrebbe contestarlo? Per poter arrivare a quel punto in cui rimane soltanto “un passo” da fare, è assolutamente impossibile compiere proprio quell’ultimo passo che ci porterebbe oltre un altro punto in cui ancora un ulteriore passo sarebbe necessario.
+
+Tutto va bene quando finisce bene! Alla fine dell’incontro con la “Massa”, ostile alla questione degli ebrei sollevata dalla “Critica”, questa ammette che la sua concezione dei “diritti dell’uomo”.
+
+“La valutazione della religione durante la [Rivoluzione](/positions/revolution) francese”, “l’essenza politica libera che essa indicava talvolta alla fine delle sue riflessioni”, in breve, l’intero periodo della Rivoluzione francese, non rappresentava per la Critica né di più né di meno che un simbolo: cioè non il periodo degli sforzi rivoluzionari dei francesi nel senso letterale e banale del termine, ma soltanto un simbolo, e quindi un’espressione fantastica delle idee che essa scorgeva alla fine di quel processo storico.
+
+Non dobbiamo privare la Critica del conforto che, quando commette errori politici, lo fa soltanto alla “fine” e all’“ultima fase” delle sue attività. Un noto ubriacone si consolava pensando di non essere mai stato ubriaco prima di mezzanotte.
+
+Nel campo della “questione ebraica”, la Critica ha indubbiamente conquistato sempre più terreno sull’Avversario. Nel primo numero della serie dedicata alla “questione ebraica”, il trattato sulla Critica difeso dal signor Bauer presentava ancora una visione assoluta del problema, rivelando il significato “vero” e “generale” della “questione ebraica”. Nel secondo numero, la Critica non aveva né la “volontà” né il “diritto” di andare oltre i limiti stabiliti dalla sua stessa logica. Nel terzo numero doveva ancora compiere “un passo”, ma quel passo risultava “impossibile”, proprio perché tale era. Non era la sua “volontà o il suo diritto” a impedirglielo, bensì il suo stesso coinvolgimento con i principi opposti a quelli della Critica. Avrebbe voluto molto superare anche quest’ultimo ostacolo, ma purtroppo un ultimo residuo di quelle concezioni obsolete si attaccava ancora alle sue “calzature critiche”.
+
+c) Battaglia decisiva contro la Rivoluzione Francese
+
+La mentalità ristretta della Massa costrinse lo “Spirito”, la Critica, il signor Bauer, a considerare la Rivoluzione Francese non come un periodo di sforzi rivoluzionari da parte dei francesi nel senso “prosaico”, ma “solo” come il “simbolo ed espressione fantastica” delle invenzioni mentali della Critica stessa. La Critica compie una sorta di penitenza per la sua “negligenza” sottoponendo nuovamente la Rivoluzione a un’attenta analisi. Allo stesso tempo, punisce colui che ha sedotto la sua innocenza – la “Massa” – comunicandole i risultati di questa nuova valutazione.
+
+“La Rivoluzione Francese fu un esperimento che apparteneva ancora interamente all’ottavo secolo.”
+
+La verità cronologica secondo cui un evento del XVIII secolo come la Rivoluzione Francese rimane pur sempre un esperimento tipico del XVIII secolo, e non ad esempio di un secolo successivo, sembra senz’altro essere una di quelle verità che “sono autoevidenti fin dall’inizio”. Tuttavia, secondo la terminologia della critica, che è piuttosto prevenuta nei confronti delle verità “assolutamente chiare”, una tale verità viene definita un “esame approfondito” e quindi, naturalmente, trova il proprio posto in un’“analisi attenta e ripetuta della Rivoluzione”.
+
+<span class="atom-split" data-atom="036" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 13)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 “The ideas to which the French [Revolution](/positions/revolution) gave rise did not, however, lead beyond the order of things that it wanted to abolish by force.”
 
@@ -1660,7 +3201,51 @@ The illusion appears tragic when Saint-Just, on the day of his execution, pointe
 
 This is not the place to vindicate the illusion of the Terrorists historically.
 
-<span class="atom-split" data-atom="037" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 14)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+“Le idee che scaturirono dalla [Rivoluzione](/positions/revolution) francese, tuttavia, non andarono oltre l’ordine delle cose che essa voleva abolire con la forza.”
+
+Le idee non possono mai portare oltre un vecchio ordine mondiale, ma soltanto al di là delle idee stesse di quel vecchio ordine mondiale. Le idee, in sé, non sono in grado di realizzare nulla; per attuare le idee sono necessari uomini capaci di esercitare una forza pratica. Nel suo senso letterale, quindi, la “Sentenza Critica” rappresenta un’altra verità ovvia di per sé, e quindi un altro “esame”.
+
+Non scoraggiata da questo esame, la Rivoluzione Francese fece nascere idee che andavano oltre quelle dell’intero vecchio ordine mondiale. Il movimento rivoluzionario, iniziato nel 1789 presso il Cercle Social e che, a metà del suo percorso, ebbe come principali rappresentanti Leclerc e Roux, fu infine temporaneamente sconfitto dalla congiura di Babeuf. Questo movimento diede origine all’idea comunista, che il compagno di Babeuf, Buonarroti, rintrodusse in Francia dopo la Rivoluzione del 1830. Quest’idea, sviluppata coerentemente, rappresenta l’ideale dell’ordine mondiale nuovo.
+
+“Dopo che la Rivoluzione aveva quindi abolito le barriere feudali tra i popoli, fu costretta a soddisfare, anzi ad alimentare, l’egoismo puro della nazione; al contempo, doveva però moderarlo attraverso il suo complemento necessario: la [riconoscenza](/concepts/recognition) di un essere supremo, attraverso questa conferma più elevata del sistema generale che deve tenere uniti gli individui, spinti dal proprio interesse egoistico.”
+
+L’egoismo della nazione rappresenta l’egoismo naturale del sistema statale generale, in contrapposizione all’egoismo delle classi feudali. L’essere supremo costituisce la conferma più alta di tale sistema statale generale, e quindi anche della nazione stessa. Tuttavia, si presuppone che l’essere supremo debba frenare l’egoismo della nazione, ovvero dell’intero sistema statale generale! È davvero un compito critico quello di contenere l’egoismo attraverso la sua stessa conferma, e persino attraverso una conferma religiosa: riconoscendo cioè che esso ha natura sovrumana e quindi è libero da qualsiasi vincolo umano. I creatori dell’essere supremo non erano consapevoli di questa loro intenzione critica.
+
+Il signor Buchez, che fonda il fanatismo nazionale sul fanatismo religioso, comprende meglio il suo eroe Robespierre.
+
+Il nazionalismo portò alla rovina di Roma e della Grecia. Pertanto, quando la critica sostiene che il nazionalismo abbia causato la caduta della Rivoluzione Francese, non dice nulla di specifico riguardo a tale rivoluzione stessa; allo stesso modo, quando definisce l’egoismo nazionale come “puro”, non dice molto nemmeno sulla nazione in sé. Questo cosiddetto egoismo “puro” sembra in realtà essere un egoismo molto oscuro e spontaneo, legato alla carne e al sangue umano; a confronto, ad esempio, con l’egoismo puro descritto nell’“ego” di [Fichte](/schools/german_idealism), esso appare decisamente più limitato. Tuttavia, se si considera che la purezza di questo egoismo nazionale è soltanto relativa rispetto a quella dell’egoismo delle classi feudali, non è necessario alcun “nuovo esame della rivoluzione” per rendersi conto che l’egoismo il cui contenuto è la nazione stessa è più generale e “puro” di quello il cui contenuto è una particolare classe sociale o un’organizzazione specifica.
+
+Le spiegazioni della critica riguardo al sistema statale generale non sono meno istruttive. Si limitano a affermare che il sistema statale generale debba mantenere uniti gli atomi individui, orientati esclusivamente verso il proprio interesse personale.
+
+Parlando in modo preciso e nel senso prosaico, i membri della [società civile](/positions/civil_society) non sono atomi. La caratteristica specifica dell’atomo è proprio quella di non possedere alcuna proprietà, e quindi di non essere collegato ad entità esterne attraverso alcun rapporto determinato dalla sua stessa natura. L’atomo non ha bisogni, è autosufficiente; il mondo esterno, per lui, rappresenta un vuoto assoluto, privo di significato e di senso, proprio perché l’atomo possiede in sé tutta la pienezza necessaria. L’individuo egoista, nella società civile, può, attraverso la sua immaginazione irrazionale e le sue astrazioni prive di vita, trasformarsi in un “atomo”, cioè in un essere autosufficiente, privo di bisogni e assolutamente completo. Tuttavia, la realtà sensibile non tiene conto di queste fantasie: i suoi sensi lo costringono ad ammettere l’esistenza del mondo e degli altri individui; persino il suo stomaco gli ricorda ogni giorno che il mondo esterno non è vuoto, ma rappresenta ciò che realmente riempie la sua esistenza. Ogni attività e ogni bisogno umano diventa, in realtà, un mezzo per soddisfare altri desideri o interessi legati ad altre persone. Tuttavia, poiché il bisogno di un individuo non ha un significato evidente per un altro individuo egoista, e quindi non esiste alcun legame diretto tra quel bisogno e la sua soddisfazione, ogni persona deve creare tale legame da sola; diventa così l’intermediario tra il proprio bisogno e gli oggetti che possono soddisfarlo. È quindi la necessità naturale, le proprietà essenziali dell’essere umano – per quanto possano sembrare estranee o distanti – e gli interessi concreti a tenere uniti i membri della società civile; è la vita civile, non lo [stato](/concepts/state), il vero legame che li unisce. Non lo stato, dunque, mantiene uniti gli individui della società civile, ma il fatto che essi, nella realtà, siano molto diversi dagli atomi: non sono egoisti divini, ma esseri umani egoisti. Solo la superstizione politica continua ancora oggi a credere che la vita civile debba essere regolata lo stato; in realtà, è proprio la vita civile a mantenere unito lo stato stesso.
+
+L’immensa idea di Robespierre e Saint-Just di creare un “popolo libero” che vivesse esclusivamente secondo le regole della giustizia e della virtù – si vedano, ad esempio, il rapporto di Saint-Just sui crimini di Danton e il suo altro rapporto sulla polizia generale – poteva essere mantenuta per un certo periodo solo attraverso il terrore. Si trattava di una contraddizione contro cui gli elementi volgari e egoistici della comunità popolare reagirono in modo codardo e insidioso, proprio come ci si poteva aspettare da loro.
+
+Questa espressione della Critica Assoluta, che descrive un “popolo libero” come una “contraddizione” contro cui gli elementi della “comunità popolare” sono inevitabilmente costretti a reagire, è assolutamente vuota di contenuto; infatti, secondo Robespierre e Saint-Just, libertà, giustizia e virtù potrebbero, al contrario, essere soltanto manifestazioni della vita del “popolo” e proprietà esclusive della “comunità popolare”. Robespierre e Saint-Just parlavano esplicitamente di “libertà, giustizia e virtù” dell’antichità, appartenenti esclusivamente alla “comunità popolare”: gli Spartani, gli Ateniesi e i Romani al culmine della loro grandezza erano infatti “popoli liberi, giusti e virtuosi”.
+
+“Qual è,” chiede Robespierre nel suo discorso sui principi della morale pubblica (sessione della Convenzione del 5 febbraio 1794), “il principio fondamentale di un governo democratico o popolare? È la virtù, intendo dire la virtù pubblica, che ha compiuto tali miracoli in Grecia e a Roma e che compirà ancora miracoli più grandi nella Francia repubblicana; una virtù che non è altro che amore per il proprio paese e per le sue leggi.”
+
+Robespierre definisce esplicitamente gli Ateniesi e i Spartani “popoli liberi”. Ricorda continuamente l’antica comunità popolare e cita sia i suoi eroi che i suoi corrottori: Licurgo, Demostene, Milziade, Aristide, Bruto e Catilina, Cesare, Clodio e Piso.
+
+Nel suo rapporto sull’arresto di Danton, menzionato dalla “Critica”, Saint-Just afferma esplicitamente:
+
+“Da quando sono scomparsi i Romani, il mondo è vuoto; solo il loro ricordo lo riempie e continua a preannunciare la libertà.”
+
+La sua accusa è formulata nello stile antico e rivolta contro Danton, proprio come era stata rivolta contro Catilina.
+
+Nel altro rapporto di Saint-Just, quello sulla polizia generale, il repubblicano viene descritto esattamente nel senso antico: inflessibile, modesto, semplice, e così via. La polizia dovrebbe essere un’istituzione della stessa natura della censura romana. Non manca di menzionare figure come Codro, Licurgo, Cesare, Catone, Catilina, Bruto, Antonio e Cassio. Infine, Saint-Just descrive “libertà, giustizia e virtù” utilizzando una sola parola:
+
+“Che gli uomini rivoluzionari siano come i Romani.”
+
+Robespierre, Saint-Just e il loro partito caddero perché confusero l’antico stato comune democratico e realistico, basato sulla schiavitù reale, con lo stato rappresentativo moderno di stampo spiritualista e democratico, che si fonda sulla schiavitù emancipata e sulla società borghese. Che terribile illusione è quella di dover riconoscere e sanzionare nei diritti dell’uomo la società borghese moderna – la società dell’industria, della concorrenza universale, degli interessi privati che perseguono liberamente i propri obiettivi, dell’anarchia, dell’individualità naturale e spirituale alienata da sé stessa – e al contempo voler annullare le manifestazioni della vita di questa società negli individui concreti, e voler modellare la guida politica di tale società secondo i canoni dell’antichità!
+
+L’illusione appare tragica quando, il giorno della sua esecuzione, Saint-Just indica la grande tavola dei Diritti dell’Uomo appesa nell’atrio della Conciergerie e dice con orgogliosa dignità: “Eppure sono stato io a farlo”. È proprio questa tavola che proclamava il diritto di un uomo che non può più essere considerato parte di quella comunità antica, così come le sue condizioni economiche e industriali non corrispondono più a quelle dell’epoca passata.
+
+Questo non è il luogo adatto per difendere, dal punto di vista storico, l’illusione dei terroristi.
+
+<span class="atom-split" data-atom="037" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 14)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 “After [the fall](/positions/original_sin) of Robespierre the political [enlightenment](/schools/enlightenment) and movement hastened to the point where they became the prey of Napoleon who, shortly after 18 Brumaire, could say: ‘With my prefects, gendarmes and priests I can do what I like with France.’”
 
@@ -1696,7 +3281,43 @@ This school begins with the physician Le Roy, reaches its zenith with the physic
 
 Cartesian materialism still exists today in France. It has achieved great successes in mechanical natural science which, “speaking exactly and in the prosaic sense”, will be least of all reproached with romanticism.
 
-<span class="atom-split" data-atom="038" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 15)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+“Dopo la caduta di Robespierre, il movimento e l’illuminismo politico accelerarono il loro sviluppo fino a diventare preda di Napoleone, che poco dopo il 18 Brumaire poté dichiarare: ‘Con i miei prefetti, gendarmi e preti posso fare ciò che voglio della Francia.’”
+
+D’altra parte, la storia profana racconta: dopo la caduta di Robespierre, l’illuminismo politico, che in precedenza aveva esagerato nelle sue azioni ed era stato eccessivo, iniziò finalmente a svilupparsi in modo più concreto e realistico. Sotto il governo del Direttorio, la società borghese, liberata dalla stessa [Rivoluzione](/positions/revolution) dai vincoli del feudalesimo e ufficialmente riconosciuta nonostante i tentativi del Terrore di sacrificarla a forme antiche di vita politica, iniziò a prosperare con forza. Un’ondata di imprese commerciali, una passione per la ricchezza, l’esuberanza della nuova vita borghese – caratterizzata da un piacere immediato, spensierato e talvolta frivolo – rappresentavano i segni del suo sviluppo. La struttura feudale della Francia era stata distrutta dalla Rivoluzione; con gli sforzi febbrili dei nuovi proprietari terrieri, il paese divenne oggetto di un’attenta coltivazione in tutti i settori. I primi passi dell’industria, ormai libera dai vincoli precedenti, costituirono ulteriori manifestazioni della vitalità della società borghese emergente. La società borghese viene quindi rappresentata concretamente dalla stessa borghesia; essa inizia così il suo dominio, e i diritti dell’uomo smettono di esistere soltanto in teoria.
+
+Non fu l’intero movimento rivoluzionario ad diventare preda di Napoleone il 18 Brumaire, come crede la Critica nella sua fede in figure come Herr von Rotteck o Welcker; fu piuttosto la borghesia liberale. Basta leggere i discorsi dei legislatori dell’epoca per esserne convinti. Si ha l’impressione di passare dalla Convenzione Nazionale a una moderna Camera dei Deputati.
+
+Napoleone rappresentò l’ultima battaglia del terrore rivoluzionario contro la società borghese che era stata proprio da questa stessa Rivoluzione proclamata, e contro la sua politica. Naturalmente Napoleone aveva già compreso l’essenza dello stato moderno: sapeva che esso si basava sullo sviluppo incondizionato della società borghese, sul libero movimento degli interessi privati, ecc. Decise quindi di riconoscere e proteggere questa base. Non era certo un terrorista con la testa tra le nuvole; tuttavia considerava lo [stato](/concepts/state) come un fine in sé stesso, e la vita civile soltanto come uno strumento al suo servizio, privo di volontà propria. Perfezionò il sistema del terrore sostituendo la rivoluzione permanente con la guerra permanente; alimentò l’egoismo della nazione francese fino a farlo raggiungere un livello di saturazione totale, ma richiese anche il sacrificio degli interessi commerciali, dei piaceri personali e della ricchezza borghese ogni volta che ciò fosse necessario per i suoi obiettivi politici di conquista. Sebbene reprimesse con dittatura il liberalismo della società borghese – l’[idealismo](/positions/idealism) politico praticato nella vita quotidiana – non mostrava alcuna considerazione per gli interessi materiali essenziali di questa classe, come il commercio e l’industria, ogni volta che questi entravano in conflitto con i suoi scopi politici. Il suo disprezzo per gli imprenditori industriali era il complemento del suo disprezzo per gli ideologi. Anche nella sua politica interna combatté la società borghese come avversaria dello stato, che egli stesso considerava un fine assoluto in sé stesso. Così dichiarò nel Consiglio di Stato che non avrebbe permesso a chi possedeva vaste proprietà terriere di coltivarle o meno a piacimento; concepì inoltre il piano di sottomettere il commercio allo stato attraverso la confisca dei diritti commerciali. Gli imprenditori francesi presero misure per anticipare l’evento che avrebbe messo in crisi il potere di Napoleone: i banchieri di Parigi lo costrinsero, creando artificialmente una carestia, a ritardare l’inizio della campagna russa di quasi due mesi, facendola così iniziare troppo tardi nell’anno.
+
+Proprio come la borghesia liberale fu nuovamente opposta dal terrore rivoluzionario, incarnato in Napoleone, così fu nuovamente contrastata dalla controrivoluzione durante il periodo della Restaurazione, rappresentata dai Borboni. Infine, nel 1830, la borghesia realizzò i propri desideri del 1789; l’unica differenza era che ora la sua “illuminazione” politica era ormai completa: non considerava più lo stato rappresentativo costituzionale come un mezzo per realizzare gli ideali dello stato, il benessere del mondo e gli obiettivi umani universali, ma, al contrario, lo riconosceva come l’espressione ufficiale del proprio potere esclusivo e come il riconoscimento politico dei propri interessi particolari.
+
+La storia della Rivoluzione Francese, che iniziò nel 1789, non terminò nel 1830 con la vittoria di uno dei suoi componenti, arricchito dalla consapevolezza della propria importanza sociale.
+
+d) Battaglia decisiva contro il materialismo francese
+
+“Lo spinozismo dominò il XVIII secolo, sia nella sua variante francese successiva, che trasformava la materia in sostanza, sia nel [deismo](/positions/deism), che attribuiva alla materia un nome più spirituale. La scuola francese di Spinoza e i sostenitori del deismo non erano altro che due sette che discutevano sul vero significato del suo sistema. Il semplice destino di questo periodo illuminista fu il suo declino nel romanticesimo, dopo essere stato costretto a cedere alla reazione che iniziò dopo il movimento francese.”
+
+Ecco ciò che afferma la Critica.
+
+Alla storia critica del materialismo francese contraporremo un breve resoconto della sua storia ordinaria, di tipo popolare. Riconosceremo con dovuto rispetto l’abisso che esiste tra la storia così come realmente si è svolta e la storia così come si presenta secondo i dettami della “Critica Assoluta”, creatrice sia del vecchio che del nuovo. E infine, obbedendo alle prescrizioni della Critica, renderemo le domande “Perché?”, “Da dove?”, “Verso dove?” della storia critica “oggetto di uno studio perseverante”.
+
+“In senso letterale e prosaico”, il Illuminismo francese dell’ottavo secolo, e in particolare il materialismo francese, non fu soltanto una lotta contro le istituzioni politiche esistenti, la religione e la teologia dominanti; fu altrettanto una lotta aperta e chiaramente esplicita contro la metafisica del diciassettesimo secolo, e contro tutta la metafisica in generale, soprattutto quella di Cartesio, Malebranche, Spinoza e Leibniz. La filosofia veniva contrapposta alla metafisica, proprio come [Feuerbach](/figures/feuerbach), nel suo primo deciso attacco contro Hegel, contrapponeva una filosofia sobria alle speculazioni selvagge. La metafisica del diciassettesimo secolo, spinta fuori dal campo dall’Illuminismo francese, in particolare dal materialismo francese dell’ottavo secolo, subì una restaurazione vittoriosa e sostanziale nella filosofia tedesca, soprattutto nella speculativa filosofia tedesca del diciannovesimo secolo. Dopo che Hegel l’ebbe collegata in modo magistrale a tutta la metafisica successiva e al [idealismo tedesco](/schools/german_idealism), fondando così un regno universale metafisico, l’attacco alla teologia corrispose nuovamente, come nell’ottavo secolo, all’attacco contro la metafisica speculativa e contro la metafisica in generale. Questa sarà sconfitta per sempre dal materialismo, che ormai è stato perfezionato dallo stesso processo di speculazione e coincide con l’umanesimo. Ma proprio come Feuerbach rappresenta il materialismo che coincide con l’umanesimo nel campo teorico, il socialismo e il comunismo francese ed inglese rappresentano il materialismo che coincide con l’umanesimo nel campo pratico.
+
+“Parlando in modo preciso e nel senso più banale del termine”, esistono due tendenze nel materialismo francese: una ne fa risalire le origini a Cartesio, l’altra a Locke. Quest’ultima rappresenta essenzialmente uno sviluppo specifico del pensiero materialista in Francia e conduce direttamente al socialismo; la prima, il materialismo meccanicistico, si fonde invece con le scienze naturali francesi nel loro senso più stretto. Le due tendenze si intersecano nel corso dello sviluppo del pensiero materialista in Francia. Non abbiamo bisogno qui di approfondire ulteriormente il materialismo francese che deriva direttamente da Cartesio, né la scuola filosofica francese influenzata da Newton, né lo sviluppo complessivo delle scienze naturali in Francia.
+
+Pertanto, diremo semplicemente quanto segue:
+
+In fisica, Cartesio attribuì alla materia un potere di auto-creazione e concepì il movimento meccanico come manifestazione della sua “vita”. Separò completamente la propria fisica dalla metafisica: nella sua visione, la materia era l’unica sostanza, l’unico fondamento dell’esistenza e della conoscenza.
+
+Il materialismo meccanicistico francese adottò la fisica di Cartesio, contrapponendola alla sua metafisica. I suoi seguaci erano, per professione, antimetafisici, cioè fisici.
+
+Questa corrente filosofica ha avuto inizio con il medico Le Roy, raggiunse il suo apice con il medico Cabanis e il medico La Mettrie ne fu il fulcro centrale. Descartes era ancora in vita quando Le Roy, proprio come La Mettrie nell’ottavo secolo, trasferì la struttura cartesiana relativa all’animale anche all’anima umana, affermando che l’anima fosse un “modo” del corpo e che le idee fossero semplicemente movimenti meccanici. Le Roy addirittura pensava che Descartes avesse tenuto nascosta la propria vera opinione. Descartes protestò contro queste affermazioni. Alla fine dell’ottavo secolo, Cabanis perfezionò il materialismo cartesiano nel suo trattato “Rapport du physique et du moral de l’homme”.
+
+Il materialismo cartesiano esiste ancora oggi in Francia. Ha ottenuto grandi successi nelle scienze naturali meccaniche, le quali, “parlando in modo preciso e nel senso più banale del termine”, saranno certamente le meno colpite dal romanticismo.
+
+<span class="atom-split" data-atom="038" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 15)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 The metaphysics of the seventeenth century, represented in France by Descartes, had [materialism](/positions/materialism) as its antagonist from its very birth. The latter’s opposition to Descartes was personified by Gassendi, the restorer of Epicurean materialism. French and English materialism was always closely related to Democritus and Epicurus. Cartesian metaphysics had another opponent in the English materialist [Hobbes](/figures/hobbes). Gassendi and Hobbes triumphed over their opponent long after their death at the very time when metaphysics was already officially dominant in all French schools.
 
@@ -1736,7 +3357,47 @@ We have already mentioned how opportune Locke’s work was for the French. Locke
 
 Locke’s immediate pupil, Condillac, who translated him into French, at once applied Locke’s sensualism against seventeenth-century metaphysics. He proved that the French had rightly rejected this metaphysics as a mere botch work of fancy and theological prejudice. He published a refutation of the systems of Descartes, Spinoza, Leibniz and Malebranche.
 
-<span class="atom-split" data-atom="039" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 16)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La metafisica del XVII secolo, rappresentata in Francia da Cartesio, aveva il [materialismo](/positions/materialism) come suo antagonista fin dalla sua nascita. L’opposizione di quest’ultimo a Cartesio fu personificata da Gassendi, restauratore del materialismo epicureo. Il materialismo francese e inglese era sempre strettamente legato a Democrito ed Epicuro. La metafisica cartesiana ebbe un altro avversario nel materialista inglese [Hobbes](/figures/hobbes). Gassendi e Hobbes trionfarono sul loro oppositore molto dopo la loro morte, proprio nel momento in cui la metafisica era ormai ufficialmente dominante in tutte le scuole francesi.
+
+Voltaire sottolineò che l’indifferenza dei francesi dell’ottavo secolo nei confronti delle dispute tra i Gesuiti e i Giansenisti era dovuta meno alla filosofia che alle speculazioni finanziarie di Law. Pertanto, il declino della metafisica del diciassettesimo secolo può essere spiegato dalla teoria materialista dell’ottavo secolo soltanto nella misura in cui questo stesso movimento teorico è a sua volta spiegabile dalla natura pratica della vita francese di quel tempo. Tale vita era orientata esclusivamente al presente immediato, ai piaceri e agli interessi terreni; la sua prassi anti-teologica, anti-metafisica e materialista richiedeva teorie corrispondenti. In pratica, la metafisica aveva perso ogni credibilità. Qui dobbiamo semplicemente indicare brevemente l’evoluzione teorica di questi eventi.
+
+Nel diciassettesimo secolo, la metafisica (si veda Cartesio, Leibniz e altri) conteneva ancora un elemento positivo e secolare. Riusciva a compiere scoperte nel campo della matematica, della fisica e di altre scienze esatte che sembravano rientrare nella sua sfera d’azione. Questo aspetto apparente scomparve già all’inizio dell’ottavo secolo: le scienze positive si staccarono dalla metafisica, delimitando i propri campi indipendenti. L’intero patrimonio della metafisica consisteva ormai soltanto in entità mentali e cose celesti, proprio nel momento in cui gli esseri reali e le cose terrene iniziarono a diventare il centro di ogni interesse. La metafisica era diventata insipida. Nello stesso anno in cui morirono Malebranche e Arnauld, gli ultimi grandi metafisici francesi del diciassettesimo secolo, nacquero Helvétius e Condillac.
+
+L’uomo che privò la metafisica del XVII secolo, e in generale la metafisica stessa, di ogni credibilità nel campo teorico fu Pierre Bayle. La sua arma fu lo [scetticismo](/positions/scepticism), che egli plasmò utilizzando le stesse formule “magiche” della metafisica stessa. All’inizio, Bayle stesso si basava sulla metafisica cartesiana. Proprio come [Feuerbach](/figures/feuerbach), combattendo la teologia speculativa fu spinto a combattere anche la filosofia speculativa – proprio perché riconobbe nella speculazione l’ultima traccia di teologia, e perché dovette costringere tale dottrina a ritirarsi dalla pseudoscienza verso una fede rozza e repellente – così Bayle fu spinto dal dubbio religioso a mettere in discussione la metafisica che costituiva il fondamento di quella fede. Pertanto, indagò criticamente sulla metafisica nel suo intero sviluppo storico; divenne il suo storico al fine di scrivere la “storia della sua morte”. Confutò principalmente Spinoza e Leibniz.
+
+Pierre Bayle non solo preparò il terreno in Francia per l’accettazione del materialismo e della filosofia del buon senso, distruggendo la metafisica con il suo scetticismo, ma annunciò anche l’avvento di una società atea, dimostrando che una società composta esclusivamente da atei è possibile, che un ateo può essere una persona degna di rispetto, e che non è l’[ateismo](/positions/atheism) a umiliare l’uomo, ma la superstizione e l’idolatria.
+
+Per citare uno scrittore francese, Pierre Bayle fu “l’ultimo metafisico nel senso del XVII secolo e il primo filosofo nel senso del XVIII secolo”.
+
+Oltre alla confutazione negativa della teologia e della metafisica del XVII secolo, era necessario un sistema positivo, anti-metafisico. C’era bisogno di un libro che sistematizzasse e sostanziasse teoricamente le pratiche quotidiane di quel tempo. Il trattato di Locke, “Saggio sull’intelletto umano”, arrivò dall’altra parte della Manica come se rispondesse a una chiamata urgente; fu accolto con entusiasmo, come un ospite atteso da tempo.
+
+Sorge la domanda: forse Locke è un discepolo di Spinoza? La storia, intesa nel suo senso “profano”, può fornire una risposta.
+
+Il materialismo è il figlio naturale della Gran Bretagna. Già lo studioso britannico Duns Scoto si chiedeva: “È impossibile che la materia possa pensare?”
+
+Per realizzare questo [miracolo](/concepts/miracle), si rifugiò nell’onnipotenza di Dio, cioè fece sì che la teologia predicasse il materialismo. Inoltre, era un nominalista. Il [Nominalismo](/positions/nominalism), la prima forma di materialismo, si trova principalmente tra gli studiosi inglesi.
+
+Il vero progenitore del materialismo inglese e di tutta la scienza sperimentale moderna è Bacon. Per lui, la filosofia naturale è l’unica vera filosofia, e la fisica basata sull’esperienza dei sensi ne rappresenta la parte principale. Spesso cita come autori Anassagora e le sue teorie sulle “omeomerie”, Democrito e i suoi [atomi](/positions/atomism). Secondo lui, i sensi sono infallibili e la fonte di ogni conoscenza; tutta la scienza si basa sull’esperienza e consiste nel sottoporre i dati forniti dai sensi a un metodo razionale di indagine. L’[Induzione](/positions/induction), l’analisi, il confronto, l’osservazione, l’esperimento sono le principali forme di questo metodo razionale. Tra le qualità intrinseche alla materia, il movimento è la prima e più importante: non solo nella forma di movimento meccanico o matematico, ma soprattutto come impulso, spirito vitale, tensione – o “Qual”, per usare un termine di Jakob Böhme – insita nella materia stessa. Le forme primarie della materia sono le forze vitali e individualizzanti che ne derivano e che determinano le distinzioni tra le varie specie.
+
+In Bacon, suo primo creatore, il materialismo contiene ancora, in modo ingenuo, i germi di uno sviluppo multilaterale. Da un lato, la materia, avvolta da un fascino sensuale e poetico, sembra attrarre l’intera essenza umana con i suoi “sorrisi”. Dall’altro lato, la dottrina enunciata in forma aforistica è piena di contraddizioni importate dalla teologia.
+
+Nella sua ulteriore evoluzione, il materialismo diventa unilaterale. Hobbes è l’uomo che sistematizza il materialismo baconiano. La conoscenza basata sui sensi perde la sua natura poetica e si trasforma nell’esperienza astratta tipica del geometra. Il movimento fisico viene sostituito dal movimento meccanico o matematico; la geometria viene proclamata regina delle scienze. Il materialismo assume connotati misantropici: per sconfiggere il proprio avversario, lo spiritualismo misantropico e “senza carne”, deve purificarsi attraverso l’ascetismo, trasformandosi in un entità intellettuale. Ma così facendo, sviluppa anche quella coerenza, a scapito delle conseguenze, tipica dell’intelletto stesso.
+
+Hobbes, come continuatore di Bacon, sostiene quanto segue: se tutto il sapere umano deriva dai sensi, allora i nostri concetti, le nostre nozioni e le nostre idee non sono altro che fantasmi del mondo reale, più o meno privati della loro forma sensoriale. La filosofia può soltanto dare nomi a questi fantasmi; un nome può essere applicato a più di uno di essi, e possono persino esistere “nomi dei nomi”. Tuttavia, sarebbe contraddittorio sostenere da un lato che tutte le idee hanno origine nel mondo della sensazione, e dall’altro che una parola sia qualcosa di più di una semplice parola; che, oltre alle entità conosciute attraverso i nostri sensi – entità che sono in realtà individui unici – esistano anche entità di natura generale, non individuale. Una sostanza “incorporea” rappresenterebbe lo stesso assurdo di un corpo “incorporeo”. Corpo, essere, sostanza: sono soltanto termini diversi per indicare la stessa realtà. È impossibile separare il pensiero dalla materia che pensa; questa materia costituisce il substrato di ogni cambiamento che avviene nel mondo. Il termine “infinito” non ha senso, a meno che non si intenda dire che la nostra mente è in grado di eseguire un processo di aggiunta infinito. Poiché soltanto le cose materiali sono per noi percepibili e conoscibili, non possiamo sapere nulla sull’esistenza di Dio. L’unica cosa certa è la mia stessa esistenza. Ogni passione umana è un movimento meccanico che ha inizio e fine; gli oggetti su cui si basano tali passioni sono ciò che chiamiamo “bene”. L’uomo è soggetto alle stesse leggi della natura; potere e libertà sono identici.
+
+Hobbes aveva sistematizzato le idee di Bacon, senza tuttavia fornire una dimostrazione del principio fondamentale di Bacon: ovvero che l’origine di ogni conoscenza e idea umana risieda nel mondo delle sensazioni.
+
+Fu Locke, nel suo “Saggio sull’intelletto umano”, a fornire questa prova.
+
+Hobbes aveva distrutto i pregiudizi teistici del materialismo baconiano; Collins, Dodwell, Coward, Hartley, Priestley, allo stesso modo, eliminarono gli ultimi ostacoli teologici che ancora limitavano il sensazionalismo di Locke. In ogni caso, per i materialisti, l’[.deismo](/positions/deism) non è altro che un modo semplice per liberarsi della religione.
+
+Abbiamo già menzionato quanto fosse opportuno il lavoro di Locke per i francesi. Locke fondò la filosofia del buon senso, del senso comune; in altre parole, affermò indirettamente che non possa esistere alcuna filosofia in contrasto con i sani sensi umani e con la ragione basata su di essi.
+
+Il discepolo diretto di Locke, Condillac, che ne tradusse le opere in francese, applicò immediatamente il sensualismo lockiano contro la metafisica del XVII secolo. Dimostrò che i francesi avevano ragione a rifiutare tale metafisica, considerandola un semplice prodotto di fantasia e pregiudizi teologici. Pubblicò inoltre una confutazione dei sistemi filosofici di Cartesio, Spinoza, Leibniz e Malebranche.
+
+<span class="atom-split" data-atom="039" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 16)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 In his Essai sur l’origine des connaissances humaines he expounded Locke’s ideas and proved that not only the soul, but the senses too, not only the art of creating ideas, but also the art of sensuous perception, are matters of experience and [habit](/concepts/custom). The whole development of man therefore depends on [education](/concepts/education) and external circumstances. It was only by eclectic philosophy that Condillac was ousted from the French schools.
 
@@ -1776,7 +3437,47 @@ As, according to Helvétius, it is education, by which he means (cf. loc. cit., 
 
 or, as he says elsewhere, by abolishing ignorance.
 
-<span class="atom-split" data-atom="040" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 17)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Nei suoi “Essai sur l’origine des connaissances humaines”, espresse le idee di Locke e dimostrò che non solo l’anima, ma anche i sensi, non solo l’arte di creare idee, ma anche l’arte della percezione sensoriale, sono frutto dell’esperienza e delle [abitudini](/concepts/custom). Pertanto, lo sviluppo umano dipende interamente dall’[educazione](/concepts/education) e dalle circostanze esterne. Fu soltanto grazie alla filosofia eclettica che Condillac riuscì a uscire dalle accademie francesi.
+
+La differenza tra il materialismo francese e quello inglese riflette le differenze tra i due popoli. I francesi hanno dato al materialismo inglese arguzia, concretezza ed eloquenza; gli hanno conferito il temperamento e la grazia di cui era privo. Lo hanno “civilizzato”.
+
+In Helvétius, che a sua volta si basava su Locke, il materialismo assunse un carattere davvero francese. Helvétius lo concepì immediatamente nel suo contesto applicato alla vita sociale (Helvétius, *De l’homme*). Le qualità sensoriali, l’amor di sé, il piacere e l’interesse personale correttamente inteso costituiscono la base di toda la morale. L’uguaglianza naturale delle intelligenze umane, l’unità tra il [progresso](/positions/progress) della ragione e quello dell’industria, la [bontà naturale](/positions/natural_goodness) dell’uomo e l’onnipotenza dell’educazione sono i principali elementi del suo sistema.
+
+Nelle opere di Lamettrie troviamo una sintesi tra il materialismo cartesiano e quello inglese. Egli utilizza in modo dettagliato la fisica di Cartesio; il suo “L’Uomo-Macchina” è un trattato ispirato al modello della “macchina animale” descritta da Cartesio. Anche la parte fisica del “Sistema della Natura” di Holbach rappresenta il risultato della combinazione tra il materialismo francese e quello inglese, mentre la parte morale si basa essenzialmente sulla morale di Helvétius. Robinet, il materialista francese che ebbe i legami più stretti con la metafisica e per questo fu lodato da Hegel, fa esplicitamente riferimento a Leibniz nelle sue opere (“De la nature”).
+
+Non è necessario soffermarci ulteriormente su Volney, Dupuis, Diderot e altri, così come sui fisiocratici, dopo aver dimostrato l’origine duplice del materialismo francese – da una parte nella fisica di Cartesio, dall’altra nel materialismo inglese – nonché l’opposizione del materialismo francese alla metafisica del XVII secolo, alla metafisica di Cartesio, Spinoza, Malebranche e Leibniz. Questa opposizione divenne evidente solo per i tedeschi dopo che anch’essi si trovarono in conflitto con la metafisica speculativa.
+
+Proprio come il materialismo cartesiano si trasforma nella scienza naturale propriamente detta, l’altra corrente del materialismo francese conduce direttamente al socialismo e al comunismo.
+
+Non è necessaria alcuna profonda analisi per comprendere, sulla base degli insegnamenti del materialismo riguardo alla bontà originale e all’uguaglianza delle dotazioni intellettuali umane, all’onnipotenza dell’esperienza, dell’abitudine ed dell’educazione, nonché all’influenza dell’ambiente sull’uomo, alla grande importanza del lavoro e alla giustificazione del piacere, quanto il materialismo sia strettamente legato al comunismo e al socialismo. Se l’uomo trae tutta la sua conoscenza, le sue sensazioni, ecc., dal mondo dei sensi e dall’esperienza acquisita in esso, allora è necessario organizzare questo mondo empirico in modo che l’uomo possa sperimentare e abituarsi a ciò che è veramente umano al suo interno, e che possa rendersi conto di sé stesso come essere umano. Se, come si intende correttamente, l’interesse personale è il principio di tutta la morale, allora l’interesse privato dell’uomo deve coincidere con l’interesse dell’umanità. Se l’uomo non è libero nel senso materialista, cioè se la sua libertà non deriva dal potere negativo di evitare questo o quell’altro, ma dal potere positivo di affermare la propria vera individualità, allora il crimine non deve essere punito nell’individuo stesso, ma le cause antisociali del crimine devono essere eliminate, e a ogni uomo deve essere dato uno spazio sociale per manifestare pienamente la propria essenza. Se l’uomo è plasmato dall’ambiente, allora tale ambiente deve essere reso umano. Se l’uomo è di natura sociale, allora svilupperà la propria vera natura soltanto nella società, e il potere della sua natura non deve essere misurato dal potere dell’individuo isolato, ma da quello della società stessa. Proposizioni del genere si trovano quasi letteralmente anche nei più antichi materialisti francesi; tuttavia questo non è il luogo adatto per valutarle in dettaglio. L’apologia dei vizi di Mandeville, uno dei primi seguaci inglesi di Locke, rappresenta tipicamente le tendenze socialiste del materialismo: egli dimostra che nella società moderna il vizio è indispensabile e utile. Il che però non costituisce affatto un’apologia della società moderna.
+
+Fourier si basa direttamente sull’insegnamento dei materialisti francesi. I Babouvisti erano materialisti rozzi e incivili, ma anche il comunismo, che si è poi sviluppato, deriva direttamente dal materialismo francese. Quest’ultimo ritornò nel suo paese d’origine, l’Inghilterra, nella forma datagli da Helvétius. Bentham fondò il proprio sistema basato sull’interesse compreso correttamente sulla morale di Helvétius, e Owen, partendo dal sistema di Bentham, fondò il comunismo inglese. Il francese Cabet, esiliato in Inghilterra, fu influenzato da idee comuniste e, al suo ritorno in Francia, divenne il rappresentante più popolare – sebbene anche il più superficiale – del comunismo. Come Owen, i comunisti francesi più scientifici, come Dézamy e Gay, svilupparono l’insegnamento del materialismo come insegnamento di un vero umanesimo e come base logica del comunismo.
+
+Dove, allora, è riuscito il signor Bauer o, per meglio dire, la “Critica”, a reperire i documenti necessari per scrivere quella “Storia critica del materialismo francese”?
+
+1) Nella “Storia della filosofia” di Hegel, il materialismo francese viene presentato come la realizzazione concreta della Substanza spinoziana; in ogni caso, tale concezione è molto più comprensibile rispetto all’idea di “scuola francese di Spinoza”.
+
+2) Il signor Bauer interpretò la “Storia della filosofia” di Hegel come se essa affermasse che il materialismo francese fosse la scuola di Spinoza. Successivamente, trovando in un’altra opera di Hegel che il [.deismo](/positions/deism) e il materialismo rappresentassero due diverse correnti basate sullo stesso principio fondamentale, concluse che Spinoza avesse avuto due scuole che si contendevano il significato del suo sistema. Il signor Bauer avrebbe potuto trovare questa presunta spiegazione nella “Fenomenologia dello spirito” di Hegel, dove viene detto:
+
+“Riguardo a quell’Essere Assoluto, lo stesso [Illuminismo](/schools/enlightenment) si esaurisce in se stesso, e si divide tra le opinioni di due parti. Una definisce l’Essere Assoluto come quell’Assoluto privo di predicati, l’altra lo chiama materia. Entrambe rappresentano però la stessa nozione; la differenza non risiede nel fatto oggettivo, ma esclusivamente nella diversità dei punti di partenza adottati dalle due interpretazioni” (Hegel, Fenomenologia dello spirito, pp. 421, 422).
+
+3) Infine, il signor Bauer riuscì nuovamente in Hegel a trovare che, quando la Sostanza non si sviluppa in un concetto e in una [autocoscienza](/concepts/self_consciousness), degenera in “romanticismo”. La rivista Hallische Jahrbücher aveva in passato sviluppato una teoria simile.
+
+Ma a tutti i costi, lo “Spirito” doveva decretare un “destino folle” per il suo “avversario”, il materialismo.
+
+Nota: Il legame tra il materialismo francese e Descartes, Locke, nonché l’opposizione della filosofia del XVIII secolo alla metafisica del XVII secolo vengono presentati in dettaglio nella maggior parte delle più recenti storie della filosofia francese. In questo senso, ci è bastato ripetere, contro la “Critica Critica”, quanto già era noto. Tuttavia, il legame tra il materialismo del XVIII secolo e i movimenti comunisti inglesi e francesi del XIX secolo merita ancora di essere analizzato in modo approfondito. Ci limitiamo qui a citare alcuni passaggi tipici di Helvétius, Holbach e Bentham.
+
+1) Helvétius: “L’uomo non è malvagio di per sé, ma è soggetto ai propri interessi personali. Non si dovrebbe quindi lamentare la malvagità umana, bensì l’ignoranza dei legislatori, i quali hanno sempre messo gli interessi particolari in contrasto con quelli generali.” — “I moralisti non hanno avuto finora alcun successo perché dobbiamo addentrarci nella legislazione per individuare le radici che generano il vizio. A New Orleans, ad esempio, le donne hanno il diritto di ripudiare i loro mariti non appena ne sono stanche; in paesi del genere, le donne non sono infedeli, perché non hanno alcun interesse a esserlo.” — “La morale non è che una scienza frivola se non viene combinata con la politica e la legislazione. I moralisti ipocriti si riconoscono da un lato per l’indifferenza con cui considerano i vizi che minacciano lo [stato](/concepts/state), e dall’altro per la furia con cui condannano i vizi privati.” — “Gli esseri umani non nascono né buoni né cattivi, ma sono predisposti a diventare l’uno o l’altro a seconda che gli interessi comuni li uniscano o li dividano.” — “Se i cittadini non potessero realizzare i propri interessi personali senza contribuire al bene generale, non esisterebbero persone malvagie, se non degli sciocchi” (De l’esprit, 1, Parigi, 1822, pp. 240, 241, 249, 251, 369 e 339).
+
+Poiché, secondo Helvétius, è l’educazione – intesa non solo nel senso comune, ma come l’insieme di tutte le condizioni di vita di un individuo – che forma l’uomo; quindi, se è necessaria una riforma per eliminare la contraddizione tra gli interessi particolari e quelli della società, allora, d’altra parte, è necessaria anche una trasformazione della coscienza per realizzare tale riforma.
+
+“Grandi riforme possono essere attuate soltanto indebolendo quel stupido rispetto che le persone hanno per le vecchie leggi e i vecchi costumi” (citato nella stessa opera).
+
+Oppure, come egli afferma in un altro passaggio, abolendo l’ignoranza.
+
+<span class="atom-split" data-atom="040" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 17)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 2) Holbach. “Man can only love himself in the objects he loves: he can have affection only for himself in the other beings of his-kind.” “Man can never separate himself from himself for a single instant in his life, he cannot lose sight of himself.” ‘It is always our convenience, our interest ... that makes us hate or love things.” (Système social, t. 1, Paris, 1822,56 p, 112), but “In his own interest man must love other men, because they are necessary to welfare.... Morality proves to him that of all beings the most necessary to man is man.” . “True morality, and true politics as well, is that which seeks to bring men nearer to one another to make them work by united efforts for their common happiness. Any morality which separates our interests from those of our associates, is false, senseless, unnatural.” . “To love others ... is to merge our interests with those of our associates, to work for the common benefit.... Virtue is but the usefulness of men united in society”. . “A man without desires or passions would cease to be a man.... Perfectly detached from himself, how could one make him decide to attach himself to others? A man indifferent to everything and having no passions, sufficient to himself, would cease to he a social being.... Virtue is but the communication of good.” (loc. cit., ). “ Religious morality never served to make mortals more sociable.” (loc. cit., ).
 
@@ -1816,7 +3517,47 @@ Criticism, having supposedly attained perfection and purity in one domain, there
 
 “Modern Criticism,” we are told, “had finally dealt with Spinozism; it was therefore inconsistent of it naively to presuppose Substance in one domain, even if only in individual, falsely expounded points.”
 
-<span class="atom-split" data-atom="041" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 18)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+2) Holbach: “L’uomo può amare se stesso soltanto attraverso gli oggetti che ama; può provare affetto per sé stesso soltanto negli altri esseri della sua stessa specie”. “L’uomo non può mai separarsi da sé stesso nemmeno per un istante nella sua vita; non può mai perdere di vista se stesso. È sempre il nostro interesse, i nostri vantaggi, a farci odiare o amare le cose”. (Système social, t. 1, Parigi, 1822, pp. 56, 112). Tuttavia, “per il proprio interesse, l’uomo deve amare gli altri, perché questi sono necessari al suo benessere. La morale dimostra che, tra tutti gli esseri, quello più necessario all’uomo è proprio l’uomo stesso”. “La vera morale, così come la vera politica, è quella che cerca di avvicinare gli uomini gli uni agli altri, facendoli lavorare insieme per il loro comune bene. Qualsiasi morale che separi i nostri interessi da quelli dei nostri simili è falsa, insensata e innaturale”. “Amare gli altri significa unire i propri interessi a quelli degli altri, lavorare per il bene comune. La virtù non è altro che l’utilità degli uomini uniti in società”. “Un uomo privo di desideri o passioni smetterebbe di essere un uomo. Perfettamente separato da sé stesso, come potrebbe decidere di legarsi agli altri? Un uomo indifferente a tutto e privo di passioni, sufficiente a se stesso, non sarebbe più un essere sociale. La virtù non è altro che la condivisione del bene”. (Ibidem). “La morale religiosa non ha mai avuto lo scopo di rendere gli esseri umani più socievoli”. (Ibidem).
+
+3) Bentham. Citiamo soltanto un passaggio di Bentham in cui si oppone all’idea dell’“interesse generale nel senso politico”: “L’interesse degli individui, deve cedere il posto all’interesse pubblico. Ma, cosa significa questo? Ogni individuo non fa forse parte dell’insieme dei cittadini, proprio come qualsiasi altro? Questo cosiddetto interesse pubblico non è altro che un termine astratto: rappresenta soltanto la somma degli interessi individuali. Se fosse giusto sacrificare la fortuna di un individuo per aumentare quella degli altri, sarebbe ancora meglio sacrificare quella di un secondo, di un terzo, e così via all’[infinito](/concepts/infinity). Gli interessi individuali sono gli unici veri interessi.” (Bentham, *Théorie des peines et des récompenses*, Parigi, 1826, 3ª edizione, II, p. 230).
+
+e) Sconfitta definitiva del socialismo
+
+“I francesi stabilirono una serie di sistemi per organizzare le masse, ma dovettero ricorrere alla fantasia perché consideravano le masse, così come erano, materiale utilizzabile.”
+
+In realtà, francesi ed inglesi hanno dimostrato, e in modo molto dettagliato, che l’attuale sistema sociale organizza le “masse così come sono” e quindi rappresenta proprio quell’organizzazione stessa. La Critica, seguendo l’esempio del “Allgemeine Zeitung”, basta alla parola fondamentale “fantasia” per confutare tutti i sistemi socialisti e comunisti. Dopo aver distrutto così il socialismo e il comunismo stranieri, la Critica rivolge le sue attività aggressive anche contro la Germania.
+
+“Quando gli illuministi tedeschi si trovarono improvvisamente delusi nelle loro aspettative per il 1842 e, imbarazzati, non sapevano cosa fare, le notizie sui recenti sistemi francesi arrivarono al momento giusto. Da quel momento in poi poterono parlare di come elevare le classi inferiori della popolazione; e con questo pretesto riuscirono a evitare di affrontare la questione di sapere se anche loro facessero parte di quella massa, che si trova non solo nelle strati più bassi della società.”
+
+La critica, ovviamente, ha esaurito completamente tutte le motivazioni bienintenzionate a disposizione per giustificare il passato letterario di Bauer; pertanto non riesce a trovare alcuna altra spiegazione per il movimento socialista tedesco se non l’“imbarazzo” degli Illuminati nel 1842. “Fortunatamente ricevettero notizie sui recenti sistemi francesi, ” Perché non anche su quelli inglesi? La ragione decisiva sta nel fatto che il signor Bauer non ebbe alcuna informazione sui recenti sistemi inglesi attraverso il libro di Stein, *Il comunismo e il socialismo della Francia odierna*. Questa è anche la ragione fondamentale per cui, in tutte le discussioni sulla critica dei sistemi socialisti, vengono sempre menzionati soltanto i sistemi francesi.
+
+Gli Illuminati tedeschi, prosegue la critica, commisero un peccato contro lo Spirito Santo. Si dedicarono alle “classi inferiori del popolo”, già esistenti nel 1842, al fine di evitare di affrontare la questione – che all’epoca ancora non esisteva – riguardante il ruolo che queste classi avrebbero dovuto svolgere nel sistema critico da istituire nell’anno 1843: se fossero “pecore” o “capre”, “critici veri e propri” o masse impure, “spirito” o “materia”. Ma soprattutto avrebbero dovuto riflettere seriamente sulla propria salvezza spirituale. Che utilità ha per me vincere il mondo intero, comprese le classi inferiori del popolo, se in cambio perdo la mia stessa anima?
+
+“Ma un essere spirituale non può essere elevato a un livello più alto se non viene modificato, e non può essere modificato prima di aver affrontato resistenze estreme.”
+
+Se la critica conoscesse meglio i movimenti delle classi popolari inferiori, capirebbe che la forte resistenza che queste incontrano nella vita pratica le sta cambiando ogni giorno. La prosa e la poesia moderne che nascono nelle classi popolari inferiori d’Inghilterra e di Francia dimostrano chiaramente che queste classi sanno come elevarsi spiritualmente, anche senza essere direttamente influenzate dalla “Santità” della critica.
+
+“Quelli,” prosegue la Critica Assoluta, “la cui unica ricchezza è la parola ‘organizzazione delle masse’, ecc.”
+
+Si è detto molto sull’“organizzazione del [lavoro](/concepts/labour)”, anche se questa espressione non proveniva nemmeno dai socialisti stessi, ma dal partito politicamente radicale francese che cercava di svolgere il ruolo di intermediario tra la politica e il socialismo. Tuttavia, nessuno prima della “Critica Critica” aveva parlato dell’“organizzazione delle masse” come di una questione ancora da risolvere. Al contrario, si dimostrò che la società borghese, ovvero la dissoluzione dell’antica società feudale, rappresentava proprio questa forma di organizzazione delle masse.
+
+La critica inserisce le proprie scoperte tra virgolette. Quella “oca” che ha gridato al signor Bauer il grido d’allarme necessario per salvare il Campidoglio non è altro che la sua stessa oca: la Critica Critica. Quest’ultima ha riorganizzato le masse, costruendole in modo speculativo come l’“opposto assoluto dello Spirito”. L’antitesi tra lo Spirito e le masse rappresenta proprio l’“organizzazione sociale” critica: nello schema proposto dalla Critica, lo Spirito incarna il ruolo di elemento organizzatore, le masse quello di materia grezza, mentre la storia ne è il prodotto finale.
+
+Dopo le grandi vittorie della “Critica Assoluta” contro la [rivoluzione](/positions/revolution), il [materialismo](/positions/materialism) e il socialismo nella loro terza campagna, possiamo chiederci: qual è il risultato finale di questi imprese eroiche? Solo questo: quei movimenti sono periti senza alcun effetto concreto, perché si trattava ancora di una critica contaminata dalla massa, o di uno spirito corrotto dal materiale. Anche nel passato letterario dello stesso Herr Bauer, la “Critica” ha rilevato numerose distorsioni di questo principio; ma qui essa scrive un’apologia invece di una critica, “salva” ciò che è contaminato invece di abbandonarlo; al posto di vedere nella corruzione dello spirito da parte del materiale la morte dello stesso spirito, ne deduce invece la vita, persino quella della carne di Bauer. D’altra parte, la “Critica” diventa ancora più spietata e terroristica non appena questa critica imperfetta, ancora contaminata dalla massa, non è più opera di Herr Bauer, ma di interi popoli, di semplici francesi ed inglesi; non appena essa non si intitola più “La questione degli Ebrei”, o “La buona causa della [libertà](/concepts/freedom), dello [stato](/concepts/state), della religione e del partito”, ma rivoluzione, materialismo, socialismo o comunismo. Così la “Critica” elimina la corruzione dello spirito da parte del materiale e quella della critica stessa da parte della massa, risparmiando la propria carne e crocifiggendo quella degli altri.
+
+In un modo o nell’altro, quel “spirito contaminato dalla carne” o quella “critica contaminata dalle masse” è stato eliminato dal cammino. Al posto di questa contaminazione non critica, si presenta ora una vera e propria disintegrazione critica dello spirito e della carne, della critica e delle masse, ovvero la loro opposizione pura e netta. Quest’opposizione, nella sua forma storico-universale che costituisce l’interesse storico reale del nostro tempo, è proprio l’opposizione di Herr Bauer e dei suoi seguaci – dello “Spirito” – rispetto al resto dell’umanità, considerata come “Materia”.
+
+La rivoluzione, il materialismo e il comunismo hanno quindi adempiuto alla loro missione storica. Con la loro sconfitta hanno preparato la strada per l’“Signore Critico”. Osanna!
+
+f) Il Ciclo Speculativo della Critica Assoluta e la Filosofia dell’[Autocoscienza](/concepts/self_consciousness)
+
+La critica, avendo presuntamente raggiunto la perfezione e la purezza in un determinato ambito, ha commesso soltanto un errore, “solo” una “incoerenza”: non essere “pura” e “perfetta” in tutti gli ambiti. Quell’unico ambito della critica è proprio quello teologico. L’area pura di questo campo si estende dalla “Kritik der Synoptiker” di [Bruno Bauer](/figures/bauer) fino a “Das entdeckte Christenthum” dello stesso autore, rappresentando il confine più lontano del suo raggio d’azione.
+
+Ci viene detto che la “Critica Moderna” abbia finalmente affrontato il problema dello Spinozismo; pertanto sarebbe stato incoerente da parte sua presumere ingenuamente l’esistenza della Sostanza in un determinato ambito, anche solo in alcuni punti esposti in modo errato.
+
+<span class="atom-split" data-atom="041" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 18)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Criticism’s earlier admission that it had been involved in political prejudice was immediately followed by the extenuating circumstance that this involvement had been “basically so slight!” Now “the admission of inconsistency is tempered by the parenthesis that it committed only in individual, falsely expounded points. It was not Herr Bauer who was to blame, but the false points which ran away with Criticism like recalcitrant mounts.
 
@@ -1880,7 +3621,71 @@ Speaking of the French materialists, he says:
 
 Help, Hinrichs!
 
-<span class="atom-split" data-atom="042" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 19)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La precedente ammissione da parte della Critica di essere stata coinvolta in pregiudizi politici fu immediatamente seguita dall’argomentazione attenuante secondo cui tale coinvolgimento era “essenzialmente trascurabile”. Ora, “l’ammissione di questa contraddizione viene mitigata dal fatto che essa si è verificata soltanto in singoli punti erratamente interpretati. Non è il signor Bauer da biasimare, ma quei punti falsi che hanno trascinato con sé la Critica, come cavalli ribelli e indomabili”.
+
+Alcune citazioni dimostreranno che, superando lo Spinozismo, la Critica si è conclusa nell’[idealismo](/positions/idealism) hegeliano: dalla nozione di “Sostanza” si è giunti a un altro mostro metafisico, il “Soggetto”, alla “Sostanza intesa come processo”, all’“infinita [autoconsapevolezza](/concepts/self_consciousness)”. Il risultato finale di questa “Critica perfetta” e “pura” è dunque la restaurazione della teoria cristiana della creazione, presentata in una forma speculativa e hegeliana.
+
+Innanzitutto, apriamo il “Kritik der Synoptiker”.
+
+“Strauss rimane fedele all’idea che la Sostanza sia l’Assoluto. La Tradizione, in questa forma di universalità che non ha ancora raggiunto la certezza reale e razionale dell’universalità – quella certezza che può essere ottenuta soltanto nell’autocoscienza, nell’unità e nell’[infinità](/concepts/infinity) dell’autocoscienza – non è altro che la Sostanza che, uscita dalla sua semplicità logica, ha assunto una forma definita di esistenza come potere della comunità.” (Kritik der Synoptiker, Vol. I, Prefazione, pp. vi).
+
+Lasciamo che il “universalità che raggiunge la certezza”, la “unità e l’infinità” (la nozione hegeliana) seguano il loro destino. Invece di affermare che la concezione espressa nella teoria di Strauss riguardo al “potere della comunità” e alla “tradizione” abbia la sua espressione astratta, il suo simbolo logico e metafisico nella concezione spinozista della Sostanza, Herr Bauer sostiene che “la Sostanza emerga dalla sua semplicità logica e assuma una forma definita di esistenza attraverso il potere della comunità”. Applica quindi l’intero apparato hegeliano del “miracolo”, grazie al quale le “categorie metafisiche” – astrazioni estratte dalla realtà – emergono dalla logica, dove vengono dissolte nella “semplicità” del pensiero, per assumere poi una “forma definita” di esistenza fisica o umana; le rende cioè incarnate. Aiuto, Hinrichs.
+
+“Misterioso”, prosegue la critica nel suo attacco contro Strauss, “è questo punto di vista: ogni volta che cerca di spiegare e rendere visibile il processo dal quale la storia del Vangelo ha avuto origine, riesce soltanto a evidenziarne l’apparenza. La frase ‘La storia del Vangelo trova la sua fonte e origine nella tradizione’ ripete due volte lo stesso concetto: ‘tradizione’ e ‘storia del Vangelo’; è vero che stabilisce una relazione tra di loro, ma non ci spiega quale processo interno sia alla base dello sviluppo e dell’esposizione di tale storia.”
+
+Secondo Hegel, la Sostanza deve essere concepita come un processo interno. Egli descrive lo sviluppo dal punto di vista della Sostanza nel seguente modo:
+
+“Ma se osserviamo più da vicino questa espansione, scopriamo che non è avvenuta attraverso il manifestarsi di uno stesso principio in modi diversi; si tratta soltanto della ripetizione informe di una stessa cosa, che mantiene solo un noioso simulacro di varietà” (Fenomenologia, Prefazione).
+
+Aiuto, Hinrichs!
+
+“La critica”, prosegue il signor Bauer, “secondo questa concezione, deve rivolgersi contro se stessa e cercare la soluzione di questa misteriosa sostanzialità, in ciò che lo stesso sviluppo della Sostanza conduce, nell’universalità e nella certezza dell’idea e della sua esistenza reale, nell’infinita autocoscienza.”
+
+La critica di Hegel alla concezione della sostanzialità prosegue:
+
+“La solida compattezza della Sostanza deve essere aperta e la Sostanza elevata alla coscienza di sé” (citato in loco,).
+
+Anche la coscienza di sé di Bauer è sostanza elevata a coscienza di sé, o coscienza di sé come sostanza; la coscienza di sé viene trasformata da un attributo dell’uomo in un soggetto che esiste per sé. Questa è la caricatura metafisico-teologica dell’uomo nel momento in cui si separa dalla natura. L’esistenza di questa coscienza di sé, pertanto, non è l’uomo stesso, ma l’idea di cui tale coscienza di sé rappresenta l’esistenza reale. È l’idea che diventa uomo, e quindi è infinita. Tutte le qualità umane vengono così trasformate, in modo misterioso, in qualità di un’immaginaria “coscienza di sé infinita”. Ecco perché il signor Bauer afferma esplicitamente che tutto ha la sua origine e la sua spiegazione in questa “coscienza di sé infinita”, cioè trova in essa la base della propria esistenza. Aiuto, Hinrichs!
+
+Herr Bauer prosegue:
+
+“Il potere della relazione di sostanzialità risiede nel suo impulso, che ci conduce al concetto, all’idea e alla coscienza di sé.”
+
+Hegel dice:
+
+“Pertanto, il concetto è la verità della sostanza.” “Il passaggio dalla relazione di sostanzialità avviene attraverso la sua propria necessità immanente e consiste soltanto nel fatto che il concetto sia la verità della sostanza.” “L’idea è il concetto adeguato.” “Il concetto, una volta raggiunta un’esistenza libera, non è altro che l’ego o la pura autocoscienza” (Logica, Opere di Hegel, 2ª ed., Vol. 5, pp. 9, 229, 13).
+
+Aiuto, Hinrichs!
+
+Sembra estremamente comico quando il signor Bauer scrive nella sua “Literatur-Zeitung”:
+
+“Strauss ebbe successo solo perché non riuscì a completare la critica al sistema hegeliano; tuttavia, con la sua critica incompleta dimostrò l’indispensabilità di tale completamento”, ecc.
+
+Non si trattava di una critica completa del sistema hegeliano; anzi, il signor Bauer riteneva di fornire, con la sua “Kritik der Synoptiker”, soltanto un completamento di tale sistema, almeno nel suo applicarsi alla teologia.
+
+Descrive la propria critica (“Kritik der Synoptiker”, Prefazione, p. xxi) come “l’ultimo atto di un sistema ben definito”, che non è altro che il sistema hegeliano.
+
+La disputa tra Strauss e Bauer riguardo alla Substanza e all’Autocoscienza è una controversia all’interno della speculazione hegeliana. In Hegel esistono tre elementi: la Substanza di Spinoza, l’Autocoscienza di [Fichte](/schools/german_idealism) e l’unità necessariamente antagonistica dei due, lo Spirito Assoluto. Il primo elemento è la natura, metafisicamente mascherata e separata dall’uomo; il secondo è lo spirito, anch’esso metafisicamente mascherato e separato dalla natura; il terzo è l’unità metafisicamente mascherata di entrambi: l’uomo reale e la specie umana reale.
+
+Nel campo della teologia, Strauss espone Hegel dal punto di vista di Spinoza, mentre Bauer lo fa dal punto di vista di Fichte; entrambi procedono in modo assai coerente. Entrambi criticarono Hegel nel senso che, secondo loro, ciascuno dei due elementi costitutivi del suo sistema veniva falsificato dall’altro; tuttavia portarono ciascun di questi elementi al proprio sviluppo unilaterale e quindi coerente. Pertanto, entrambi andarono oltre Hegel nella loro critica, ma rimasero comunque all’interno del suo sistema speculativo, rappresentandone soltanto un lato. [Feuerbach](/figures/feuerbach), che completò e criticò Hegel dal punto di vista stesso di quest’ultimo, risolvendo lo “Spirito Assoluto” metafisico nell’“uomo reale sulla base della natura”, fu il primo a compiere una critica completa della religione, delineando in modo grandioso e magistrale le caratteristiche fondamentali di tale critica, e quindi di tutta la metafisica.
+
+In caso di Herr Bauer, è indubbiamente l’infinita autoconsapevolezza, e non lo Spirito Santo, a guidare la stesura dei suoi scritti evangelici.
+
+“Non dovremmo più nascondere il fatto che la corretta comprensione della storia del Vangelo possiede anche una sua base filosofica, ovvero la filosofia della coscienza di sé” (Bruno Bauer, *Kritik der Synoptiker*, Prefazione, p. xv).
+
+Questa filosofia del signor Bauer, la filosofia della coscienza di sé, così come i risultati ottenuti attraverso la sua critica alla teologia, devono essere caratterizzati da alcuni estratti de “Das entdeckte Christenthum”, il suo ultimo lavoro sulla filosofia della religione.
+
+Parlando dei materialisti francesi, egli dice:
+
+“Quando la verità del [materialismo](/positions/materialism), della filosofia della coscienza di sé, verrà rivelata e quando la coscienza di sé sarà riconosciuta come l’Universo, come la soluzione dell’enigma della sostanza spinoziana e come la vera [cagione](/concepts/cause) di tutto ciò che esiste, qual è allora lo scopo dello Spirito? Qual è lo scopo della coscienza di sé? Come se la coscienza di sé, nel porre in essere il mondo, non creasse al contempo distinzioni e non si realizzasse in tutto ciò che produce, poiché elimina nuovamente le distinzioni che ha essa stessa generate. E come se, quindi, la coscienza di sé esistesse soltanto nel processo di produzione e nel movimento stesso – come se, in questo movimento che è essenza della coscienza di sé, essa non avesse uno scopo preciso né si possedesse realmente!” (Das entdeckte Christenthum,, )
+
+“I materialisti francesi concepirono effettivamente il movimento della coscienza di sé come il movimento dell’essere universale, della materia; tuttavia non riuscirono ancora a comprendere che il movimento dell’universo diventa reale per se stesso e raggiunge l’unità con se stesso soltanto nel contesto del movimento della coscienza di sé” (1. c., pp. 115).
+
+Aiuto, Hinrichs!
+
+<span class="atom-split" data-atom="042" data-title="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno (parte 19)" data-chapter="Chapter VI. Absolute Critical Criticism, Or Critical Criticism As Herr Bruno" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 In plain language the first extract means: the truth of [materialism](/positions/materialism) is the opposite of materialism, absolute, i.e., exclusive, unmitigated [idealism](/positions/idealism). [Self-consciousness](/concepts/self_consciousness), the Spirit, is the Universe. Outside of it there is nothing. “Self-consciousness”, “the Spirit”, is the almighty creator of the world, of heaven and earth. The world is a manifestation of the life of self-consciousness which has to alienate itself and take on the form of a slave, but the difference between the world and self-consciousness is only an apparent difference. Self-consciousness distinguishes nothing real from itself. The world is, rather, only a metaphysical distinction, a phantom of its ethereal brain and an imaginary product of the latter. Hence selfconsciousness does away again with the appearance, which it conceded for a moment, that something exists outside of it, and it recognises in what it has “produced” no real object, i.e., no object which in reality, is distinct from it. By this movement, however, self-consciousness first produces itself as absolute, for the absolute idealist, in order to be an absolute idealist, must necessarily constantly go through the sophistical process of first transforming the world outside himself into an appearance, a mere fancy of his brain, and afterwards declaring this fantasy to be what it really is, i.e., a mere fantasy, so as finally to be able to proclaim his sole, exclusive existence, which is no longer disturbed even by the semblance of an external world.
 
@@ -1914,7 +3719,41 @@ Herr Bauer’s last stage is not an anomaly in his development; it is the return
 
 Returning to its starting-point, Absolute Criticism has ended the speculative cycle and thereby its own life’s career. Its further movement is pure, lofty circling within itself, above all interest of a mass nature and therefore devoid of any further interest for the Mass.
 
-<span class="atom-split" data-atom="043" data-title="Chapter VII. Critical Criticism’s Correspondence (parte 1)" data-chapter="Chapter VII. Critical Criticism’s Correspondence" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+In termini semplici, il primo estratto significa: la verità del [materialismo](/positions/materialism) è l’opposto stesso del materialismo; si tratta di un [idealismo](/positions/idealism) assoluto, cioè esclusivo e senza compromessi. La [Autocoscienza](/concepts/self_consciousness), lo “Spirito”, è l’Universo stesso; al di fuori di esso non esiste nulla. L’“Autocoscienza”, lo “Spirito”, è il creatore onnipotente del mondo, del cielo e della terra. Il mondo rappresenta soltanto una manifestazione della vita dell’Autocoscienza, la quale deve però alienarsi da sé stessa assumendo la forma di qualcosa di “schiavo”; tuttavia, la differenza tra il mondo e l’Autocoscienza è solo apparente. L’Autocoscienza non distingue nulla di reale da sé; il mondo non è altro che una distinzione metafisica, un fantasma prodotto dal proprio “cervello etereo”, un’immaginazione. Pertanto, l’Autocoscienza elimina nuovamente quell’apparenza che, per un momento, aveva ammesso l’esistenza di qualcosa al di fuori di sé; riconosce in ciò che ha “prodotto” nessun oggetto reale, cioè nessun oggetto che, nella realtà, sia distinto da essa. Attraverso questo processo, però, l’Autocoscienza si manifesta come qualcosa di assoluto; infatti, per essere un idealista assoluto, è necessario attraversare costantemente il processo sofistico di trasformare prima il mondo esterno in un’apparenza, una semplice fantasia del proprio cervello, e poi dichiarare questa fantasia ciò che realmente è, cioè soltanto una fantasia; così facendo, si può finalmente proclamare la propria esistenza unica ed esclusiva, esistenza che non viene più disturbata nemmeno dall’illusione di un mondo esterno.
+
+In termini semplici, il secondo passaggio significa: I materialisti francesi concepivano certamente i movimenti della materia come movimenti che coinvolgevano lo spirito, ma non erano ancora in grado di comprendere che tali movimenti non sono materiali, bensì ideali, movimenti dell’autocoscienza, quindi puri movimenti del pensiero. Non riuscivano ancora a capire che il vero movimento dell’universo diventa reale e concreto soltanto quando si manifesta come movimento ideale dell’autocoscienza, libera da ogni legame con la materia, cioè con la realtà; in altre parole, che un movimento materiale distinto dal movimento cerebrale ideale esiste soltanto in apparenza. Aiuto, Hinrichs!
+
+Questa teoria speculativa della creazione è quasi parola per parola presente in Hegel; si trova nella sua prima opera, la Fenomenologia.
+
+“L’[alienazione](/concepts/alienation) stessa della coscienza di sé stabilisce la natura delle cose. In questa alienazione, la coscienza di sé si costituisce come oggetto o configura l’oggetto come sé stessa. D’altra parte, esiste anche un altro momento nel processo in cui tale alienazione e oggettivazione vengono abolite e riaffermate all’interno della stessa coscienza di sé. Questo è il movimento stesso della coscienza” (Hegel, Fenomenologia dello spirito, p. 75).
+
+“La coscienza di sé possiede un contenuto che la distingue da sé stessa. Questo contenuto, nella sua stessa distinzione, è il soggetto stesso; infatti, esso rappresenta il movimento attraverso cui il soggetto si supera. Più precisamente, questo contenuto non è altro che proprio quel movimento di cui abbiamo parlato: esso è lo Spirito che attraversa l’intero ambito della propria esistenza, e lo fa nel ruolo di Spirito” (loc. cit., pp. 583).
+
+Riferendosi a questa teoria della creazione di Hegel, [Feuerbach](/figures/feuerbach) osserva:
+
+“La materia è l’auto-alienazione dello spirito. In questo modo, la materia stessa acquisisce spirito e ragione; ma allo stesso tempo viene considerata come nulla, come un essere irreale, poiché l’essere che si produce da questa alienazione – cioè l’essere che si priva di materia, di sensibilità – viene definito come l’essere nella sua perfezione, nella sua vera forma e struttura. Pertanto, ciò che è naturale, materiale, sensibile deve essere anch’esso negato; proprio come, in teologia, la natura viene considerata avvelenata dal [peccato originale](/positions/original_sin)” (Philosophie der Zukunft).
+
+Pertanto, il signor Bauer difende il materialismo contro la teologia non critica, rimproverandola al contempo per non essere ancora una teologia critica, una teologia della ragione, una speculazione hegeliana. Hinrichs! Hinrichs!
+
+Herr Bauer, che in tutti i campi attua la propria opposizione alla Sostanza, la propria filosofia della coscienza di sé o dello Spirito, deve quindi in ogni ambito affrontare soltanto le creazioni del proprio cervello. Nelle sue mani, la Critica diventa lo strumento per sublimare in pura apparenza e pensiero tutto ciò che afferma l’esistenza di un mondo materiale finito al di fuori della coscienza infinita. Ciò contro cui combatte nella Sostanza non è l’illusione metafisica, ma il suo nucleo concreto: la natura, sia come esiste al di fuori dell’uomo che come natura umana stessa. Non presumere l’esistenza della Sostanza in alcun ambito – continua ancora a usare questo linguaggio – significa per lui non riconoscere alcuna realtà distinta dal pensiero, alcuna forza naturale separata dalla spontaneità dello spirito, alcuna capacità della [natura umana](/axes/human_nature) diversa dalla ragione, alcuna passività distinta dall’attività, alcun influsso altrui diverso dall’azione propria, alcun sentimento o volontà diversi dal conoscere, alcun cuore diverso dalla mente, alcun oggetto diverso dal soggetto, alcuna pratica diversa dalla teoria, alcun uomo diverso dal Critico, alcuna comunità reale diversa dall’astrazione generale, alcun “Tu” diverso da un “Io”. Herr Bauer è quindi coerente quando si identifica con la coscienza infinita, con lo Spirito, cioè sostituisce tutte queste sue creazioni con il loro creatore. È altrettanto coerente nel rifiutare, come massa e materia ostinate, tutto ciò che persiste nell’esistere come qualcosa di distinto da ciò che lui stesso ha prodotto. E così spera.
+
+Non apparterrà a nessuno.
+
+Prima che tutti i corpi periscano.
+
+Il suo stesso cattivo umore, dovuto al fatto di non essere ancora riuscito a padroneggiare “quella parte goffa e incomprensibile di questo mondo”, egli lo interpreta in modo costante come un segno di insoddisfazione verso il mondo stesso; inoltre, l’indignazione della sua Critica di fronte allo sviluppo dell’umanità la considera l’indignazione collettiva dell’umanità contro la sua stessa Critica, contro lo “Spirito”, contro Herr [Bruno Bauer](/figures/bauer) e compagni.
+
+Herr Bauer era un teologo fin dall’inizio, ma non un teologo ordinario; era un teologo critico, o meglio, un critico teologico. Sebbene rappresentasse l’estremo esempio dell’ortodossia hegeliana tradizionale, che trasformava in forma speculativa ogni sorta di assurdità religiose e teologiche, proclamava costantemente la Critica come il proprio dominio specifico. All’epoca definiva la critica di Strauss “critica umana” e affermava esplicitamente l’esistenza di una “critica divina” in opposizione ad essa. In seguito scoprì il nucleo essenziale di questa cosiddetta “divinità”, rappresentato da un forte senso di autosufficienza e autoconsapevolezza, ne scartò lo strato religioso, ne fece una realtà autonoma e indipendente, e la elevò, con il nome di “Autocoscienza Infinita”, al rango di principio fondamentale della Critica. Così, nel proprio operare, realizzò esattamente ciò che la “filosofia dell’autoconsapevolezza” descrive come l’atto assoluto della vita: abolì nuovamente la distinzione tra il “prodotto”, ovvero l’Autocoscienza Infinita, e il “produttore”, cioè lui stesso, riconoscendo che l’Autocoscienza Infinita, nel suo movimento, non era altro che lui stesso; pertanto, il movimento dell’universo diventava vero e reale soltanto attraverso il suo movimento ideale.
+
+La critica divina, nel suo ritorno su se stessa, viene ripristinata in modo razionale, consapevole e critico; l’essere-in-sé si trasforma in essere-in-e-per-se-stesso, e solo alla fine ha luogo quell’inizio che è stato realizzato, compiuto e rivelato. La critica divina, a differenza della critica umana, si rivela come Critica pura, Critica teologico-critica. L’apologia dell’Antico e del Nuovo Testamento viene sostituita dall’apologia delle opere vecchie e nuove di Herr Bauer. L’antitesi teologica tra Dio e l’uomo, spirito e carne, infinito e finito si trasforma nell’antitesi teologico-critica tra lo Spirito, la Critica o Herr Bauer, e la materia del mondo secolare. L’antitesi teologica tra fede e ragione viene risolta nell’antitesi teologico-critica tra buon senso e pensiero critico puro. La “Zeitschrift für spekulative Theologie” si è trasformata nella “Critical Literatur-Zeitung”. Il redentore religioso del mondo è finalmente diventato realtà nel redentore critico del mondo, Herr Bauer.
+
+L’ultima fase dello sviluppo di Herr Bauer non rappresenta un’anomalia nel suo percorso evolutivo; è piuttosto il ritorno di tale sviluppo a se stesso, dopo essere stato allontanato da sé stesso attraverso un processo di alienazione. Naturalmente, il momento in cui la “Critica divina” si è allontanata da sé stessa e ha “uscito” da sé stessa coincide con il momento in cui ha iniziato a contraddire parzialmente se stessa e ha creato qualcosa di umano.
+
+Tornando al proprio punto di partenza, la Critica Assoluta ha concluso il ciclo speculativo e, di conseguenza, anche il corso della propria esistenza. Il suo ulteriore sviluppo consiste in un movimento puramente circolare all’interno di sé stessa, al di sopra di qualsiasi interesse legato alla natura delle masse, e pertanto privo di qualsiasi rilevanza per queste ultime.
+
+<span class="atom-split" data-atom="043" data-title="Chapter VII. Critical Criticism’s Correspondence (parte 1)" data-chapter="Chapter VII. Critical Criticism’s Correspondence" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 1) The Critical Mass
 
@@ -1980,7 +3819,73 @@ In order to get a complete view of the Critical Mass one should read the corresp
 
 He speaks of the Mass claiming a part in history, “of the pure Mass”, of “pure Criticism”, of the “purity of this contradiction”— “a contradiction purer than any that history has provided” — of the “discontented being”, of the “perfect emptiness, ill humour, dejection, heartlessness, timidity, fury and bitterness of the Mass towards Criticism”; of “the Mass which only exists in order by its resistance to make Criticism sharper and more vigilant”. He speaks of “creation from the extreme opposite”, of how Criticism is above hate and similar profane sentiments. The whole of Herr Hirzel’s contribution to the Literatur-Zeitung is confined to this profusion of Critical stock phrases. While reproaching the Mass for being satisfied with mere “disposition”, “good will”, “the phrase”, “faith”, etc., he himself, as a member of the Critical Mass, a content with phrases, expressions of his “Critical disposition”, his “Critical faith”, his “Critical good will” and leaves “action, work, struggle” and “works” to Herr Bruno and Co.
 
-<span class="atom-split" data-atom="044" data-title="Chapter VII. Critical Criticism’s Correspondence (parte 2)" data-chapter="Chapter VII. Critical Criticism’s Correspondence" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+1) La massa critica
+
+Dove si può sentirsi meglio?
+
+Allora, nel grembo della propria famiglia?
+
+Nella sua esistenza assoluta come “Herr Bruno”, la “Critica Critica” ha dichiarato che la massa dell’umanità, cioè l’intera umanità che non è rappresentata dalla “Critica Critica”, costituisca il suo opposto, il suo oggetto essenziale; oggetto essenziale perché la massa esiste al fine di glorificare la “Critica Critica” e lo “Spirito”; oggetto necessario perché soltanto su di essa la “Critica Critica” può operare. La “Critica Critica” ha definito il proprio rapporto con la massa come il rapporto storico del nostro tempo.
+
+Tuttavia, nessuna opposizione di portata storico-mondiale si forma semplicemente dichiarando di essere in contrasto con l’intero mondo. Si può immaginare che qualcuno rappresenti un ostacolo per il mondo, se è abbastanza goffo da inciampare ovunque. Ma per costituire un’opposizione di tale portata, non basta che io dichiari il mondo come il mio opposto; anche il mondo stesso deve riconoscermi come il suo opposto essenziale e trattarmi di conseguenza. La Critica critica si assicura questo riconoscimento attraverso la sua “corrispondenza” con il mondo, che ha il compito di testimoniare davanti a tutti la funzione redentrice della Critica, nonché l’irritazione generale che il messaggio critico suscita nel mondo. La Critica critica è allo stesso tempo oggetto di sé stessa e oggetto del mondo; tale “corrispondenza” ha lo scopo di mostrarla come tale, come l’interesse del mondo nel momento attuale.
+
+Secondo le proprie concezioni, la “Critica Critica” è considerata il Soggetto Assoluto. Il Soggetto Assoluto richiede un culto; un vero culto, a sua volta, necessita di altre persone che credano in esso. Pertanto, la Sacra Famiglia di Charlottenburg riceve dal proprio “corrispondente” il culto che le spetta. Questo “corrispondente” le indica ciò che essa è e ciò che non è il suo avversario: la Messa.
+
+Tuttavia, la Critica cade in contraddizione quando rappresenta il proprio punto di vista come quello del mondo intero e quando trasforma il proprio concetto in realtà. All’interno della stessa Critica si sta formando una sorta di “massa critica”, la cui unica funzione è ripetere instancabilmente le frasi stereotipate tipiche della Critica. Per motivi di coerenza, questa contraddizione può essere perdonata. Non sentendosi a proprio agio nel mondo peccaminoso, la “Critica critica” deve creare un proprio mondo peccaminoso all’interno del proprio ambito.
+
+Il percorso del corrispondente della Critica Critica, un membro di “Critical Mass”, non è certo facile. È un sentiero difficile e pieno di ostacoli, un percorso “critico”. La Critica Critica rappresenta un principio spiritualista, una spontaneità pura, un [atto puro](/concepts/actus_purus), intollerante verso qualsiasi influenza esterna. Pertanto, il corrispondente può sembrare soltanto un soggetto autonomo, che si comporti in modo indipendente rispetto alla Critica Critica, che voglia comunicarle qualcosa di nuovo e personale. Ma in realtà è soltanto un prodotto della stessa Critica Critica: la sua percezione della propria voce, resa oggettiva e autonoma per un istante.
+
+Ecco perché i corrispondenti non cessano mai di affermare che la stessa Critica Critica conosca, comprenda, sappia, afferrhi e viva ciò che, nello stesso momento, le viene comunicato soltanto per motivi estetici o apparenti. Così, ad esempio, Zerrleder utilizza espressioni del tipo: “Lo capisci? Lo sai. Lo sai ormai da un po’. Probabilmente hai sentito abbastanza da poterlo comprendere da solo.”
+
+Anche il corrispondente di Breslavia, Fleischammer, afferma: “Ma questo fatto”, ecc., “non sarà per voi meno enigmatico che per me”. O il corrispondente di Zurigo, Hirzel: “Probabilmente lo scoprirete da soli”. Il corrispondente della Critica nutre un tale rispetto per la comprensione assoluta della Critica stessa che le attribuisce capacità di comprensione anche laddove in realtà non c’è nulla da comprendere. Ad esempio, Fleischammer dice.
+
+Capirà perfettamente ciò che intendo quando le dirò che è quasi impossibile uscire di casa senza incontrare giovani preti cattolici con i loro lunghi colletti neri e i loro abiti scuri.
+
+Infatti, nel loro terrore, i corrispondenti sentono la “Critica Critica” parlare, rispondere, esclamare, deridere.
+
+Ad esempio, Zeerleder dice: “Ma, dici così? Beh, allora ascolta.” E Fleischhammer: “Sì, capisco quello che dici. Voglio solo dire che, ” E Hirzel: “Bravo, esclamerai di certo!” E un corrispondente di Tubinga: “Non ridetemi!”
+
+Pertanto, anche questi corrispondenti si esprimono come se stessero comunicando fatti alla “Critica Critica” e ne aspettano un’interpretazione spirituale; le forniscono le premesse e lasciano che sia lei a trarre le conclusioni, o addirittura si scusano per ripetere cose che la Critica conosce da tempo.
+
+Ad esempio, Zerrleder afferma:
+
+“Il vostro corrispondente può soltanto fornire un’immagine, una descrizione dei fatti. Lo Spirito che anima queste cose certamente non vi è sconosciuto.” O ancora: “Ora sicuramente trarrete voi stessi la conclusione.”
+
+E Hirzel dice:
+
+“Non oserò propormi di intrattenervi con l’ipotesi speculativa secondo cui ogni creazione nasce dal suo opposto estremo.”
+
+A volte, anche le esperienze dei corrispondenti non sono altro che l’adempimento e la conferma delle profezie della Critica.
+
+Ad esempio, Fleischhammer afferma:
+
+“La tua previsione si è avverata.”
+
+E Zerrleder:
+
+“Lontano dall’essere disastrosi, i fenomeni che vi ho descritto come assumere sempre maggiore rilevanza in Svizzera sono in realtà molto positivi; confermano soltanto il pensiero che avete già espresso più volte,” ecc.
+
+La “Critica Critica” a volte si sente spinta a manifestare la condiscendenza insita nella sua partecipazione a questa corrispondenza, motivando tale condiscendenza con il fatto che il destinatario della corrispondenza abbia compiuto con successo qualche compito specifico. Ecco quindi come il signor Bruno scrive al corrispondente di Tubinga:
+
+“Rispondere alla tua lettera sarebbe davvero incoerente da parte mia. D’altra parte, hai di nuovo fatto un commento così acuto che non posso rifiutare la spiegazione che mi chiedi.”
+
+La Critica Critica riceve lettere da parte delle “province”; non quelle province nel senso politico, che, come sappiamo, non esistono affatto in Germania, ma le province della Critica stessa. Berlino ne è la capitale: Berlino, sede dei patriarchi della Critica e della Sacra Famiglia Critica; mentre le “province” sono i luoghi dove risiede la “Massa Critica”. Gli abitanti di queste province non osano attirare l’attenzione dell’autorità critica suprema senza inchini e scuse.
+
+Pertanto, qualcuno scrive anonimamente a Herr Edgar, che, essendo membro della Sacra Famiglia, è anche una figura eminente.
+
+“Onorevole Signore, spero che vorrà scusarmi per queste parole, dato che giovani come noi amano unirsi nel perseguire obiettivi comuni (la differenza d’età tra di noi non supera i due anni)”.
+
+Il contemporaneo di Herr Edgar si descrive incidentalmente come l’essenza della filosofia moderna. Non è forse nella natura delle cose che la Critica corrisponda all’essenza stessa della filosofia? Se il contemporaneo di Herr Edgar afferma di aver già perso i denti, ciò non rappresenta altro che un’allusione al suo significato allegorico. Questa “essenza della filosofia moderna” ha “imparato da [Feuerbach](/figures/feuerbach) a considerare l’elemento dell’[educazione](/concepts/education) in modo oggettivo”. Ciò ci fornisce subito un esempio delle sue idee e dei suoi punti di vista, assicurando a Herr Edgar di aver acquisito una “comprensione completa della sua breve storia”: “Es leben feste Grundsätze!”. Allo stesso tempo, ammette apertamente che il punto di vista di Herr Edgar non le sia affatto del tutto chiaro, e infine invalida quell’affermazione riguardante la comprensione completa con questa domanda: “O forse vi ho completamente frainteso?”. Dopo questo esempio, diventa del tutto normale che l’essenza della filosofia moderna, rivolgendosi al Popolo, dica.
+
+“Dobbiamo almeno una volta concederci la fatica di esaminare e sciogliere quel nodo magico che impedisce alla ragione umana comune di accedere a quell’infinito flusso di pensieri.”
+
+Per ottenere una visione completa di “Critical Mass”, si dovrebbe leggere la corrispondenza del signor Hirzel di Zurigo (Volume V). Quest’uomo sfortunato ricorda le frasi stereotipate della Critica con una docilità davvero commovente e una notevole capacità di memorizzazione; non omette nemmeno le frasi preferite del signor Bruno riguardo alle battaglie che ha combattuto e alle campagne che ha pianificato e guidato. Tuttavia, il signor Hirzel esercita la sua professione come membro di “Critical Mass” soprattutto attaccando con ferocia la “Massa profana” e l’atteggiamento che essa assume nei confronti della Critica critica.
+
+Parla della “Massa” sostenendo che abbia un ruolo nella storia, di una “Massa pura”, di una “Critica pura”, della “purezza di questa contraddizione” – “una contraddizione più pura di qualsiasi altra offerta dalla storia” – dell’“essere insoddisfatto”, dell’“assoluta vuotezza, del malumore, della depressione, dell’indifferenza, della timidezza, della furia e dell’amarezza della ‘Massa’ verso la Critica”; parla di una “Massa” che esiste soltanto per rendere la Critica più acuta e vigile attraverso la sua resistenza. Parla di “creazione partendo dall’estremo opposto”, di come la Critica sia al di sopra dell’odio e di simili sentimenti profani. L’intera contribuzione del signor Hirzel alla “Literatur-Zeitung” si limita a questa proliferazione di frasi stereotipate tipiche della Critica. Mentre rimprovera la “Massa” per accontentarsi soltanto di semplici “disposizioni”, “buone intenzioni”, “frasi”, “fede”, ecc., lui stesso, in quanto membro di questa “Massa critica”, si accontenta delle sole frasi e delle espressioni della sua “disposizione critica”, della sua “fede critica”, della sua “buona volontà critica”, lasciando “azione, lavoro, lotta” e “opere concrete” ai signori Bruno e compagni.
+
+<span class="atom-split" data-atom="044" data-title="Chapter VII. Critical Criticism’s Correspondence (parte 2)" data-chapter="Chapter VII. Critical Criticism’s Correspondence" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Despite the terrible picture of the world-historic tension between the profane world and “Critical Criticism” which the members of the “Critical Mass” outline, for the non-believer at least not even the fact of the matter is stated, the factual existence of this world-historic tension. The obliging and un-Critical repetition of Criticism’s “imaginations” and “pretensions” by the correspondents only proves that the fixed ideas of the master are the fixed ideas of the servant as well. It is true that one of the Critical correspondents makes an attempt at a proof based on fact.
 
@@ -2040,7 +3945,67 @@ The Critical patriarch answers in person:
 
 In his vexation at the undue demands of the “Mass”, which demands something, indeed everything, from Criticism, which by principle and disposition “gives nothing”, the Critical patriarch relates an anecdote in the way that old men do. Not long ago a Berlin acquaintance complained bitterly of the verbosity and profusion of detail of his works — Herr Bruno is known to make a bulky work out of the tiniest semblance of a thought. He was consoled with the promise of being sent the ink necessary for the printing of the book in a small pellet so that he could easily absorb it. The patriarch explains the length of his “works” by the bad spreading of the ink, as he explains the nothingness of his Literatur-Zeitung by the emptiness of the “profane Mass”, which, in order to be full, wants to swallow everything and nothing at the same time.
 
-<span class="atom-split" data-atom="045" data-title="Chapter VII. Critical Criticism’s Correspondence (parte 3)" data-chapter="Chapter VII. Critical Criticism’s Correspondence" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Nonostante il quadro terribile della tensione di portata storico-mondiale esistente tra il mondo profano e la “Critica Critica”, descritto dai membri del gruppo “Critical Mass”, per chi non crede in queste idee, non viene nemmeno menzionato il fatto stesso dell’esistenza di tale tensione. La ripetizione acritica e obbediente delle “immaginazioni” e “pretensioni” della Critica da parte dei suoi seguaci dimostra soltanto che le idee fisse del “padrone” sono anche le idee fisse del “servitore”. È vero che uno dei rappresentanti della Critica tenta di fornire una prova basata sui fatti.
+
+“Vedi,” scrive alla Sacra Famiglia, “che il ‘Literatur-Zeitung’ sta adempiendo al suo scopo, cioè che non riceve alcuna approvazione. Potrebbe riceverla soltanto se parlasse all’unisono con la generale superficialità del pensiero comune, se vi presentaste davanti a esso con l’eco di frasi banali e stereotipate, come quelle prodotte da un intero gruppo di categorie mentali convenzionali.”
+
+Il tintinnio di frasi banali e stereotipate provenienti da un intero “gruppo” di categorie attualmente in voga. È evidente che il corrispondente critico si sforzi al massimo per tenere il passo con queste frasi banali e non più “attuali”. Tuttavia, la sua spiegazione del fatto che il “Literatur-Zeitung” non riceva alcuna approvazione deve essere rifiutata come puramente apologetica. Questo fenomeno potrebbe essere spiegato in modo molto più appropriato nel senso opposto: si può dire, cioè, che la critica letteraria sia in sintonia con la grande massa di scrittori che, appunto, non ricevono alcuna approvazione.
+
+Pertanto, non è sufficiente che i corrispondenti critici definiscano le frasi banali e stereotipate utilizzate nella Messa “preghiere” per la Sacra Famiglia e, allo stesso tempo, “anatemi” per la Messa stessa. Sono necessari corrispondenti non critici, rappresentanti autentici della Messa all’interno della Critica critica, per evidenziare la vera tensione esistente tra Messa e Critica.
+
+Ecco perché la Critica Critica riserva anche uno spazio alla “Massa Non Critica”. Fa sì che i suoi rappresentanti imparziali si allineino ad essa, riconoscano l’opposizione che essa stessa suscita come qualcosa di importante e assoluto, e lancino un grido disperato per la propria redenzione da tale opposizione.
+
+2) La “Massa Critica” e la “Critica Critica”
+
+a) La “Massa Testarda” e la “Massa Insoddisfatta”
+
+La durezza di cuore, la testardaggine e l’indifferenza cieca della “massa” hanno un rappresentante piuttosto evidente. Questo rappresentante parla dell’esclusiva “educazione filosofica hegeliana” dei membri del gruppo berlinese in questione.
+
+“L’unico vero [progresso](/positions/progress) che possiamo realizzare,” dice, “sta nel riconoscere la realtà. Ma da voi abbiamo imparato che la nostra conoscenza non era una conoscenza della realtà, ma di qualcosa di irreale.”
+
+Definisce le “scienze naturali” come la base della filosofia.
+
+“Un buon naturalista si trova nella stessa relazione rispetto al filosofo, come il filosofo rispetto al teologo.”
+
+Inoltre, commenta quanto segue sulla “Berlin Couleur”.
+
+“Non credo sia un’esagerazione tentare di spiegare lo [stato](/concepts/state) di queste persone dicendo che, sebbene abbiano attraversato un processo di trasformazione spirituale, non hanno ancora completamente abbandonato il loro vecchio “involucro” per poter assorbire gli elementi della rinnovazione e del rinvigore.” “Dobbiamo ancora assimilare questa conoscenza” (di natura scientifica e industriale). “La conoscenza del mondo e dell’uomo, che ci è più necessaria di ogni altra, non può essere acquisita soltanto attraverso l’acuità del pensiero; tutti i sensi devono collaborare e tutte le capacità umane devono essere utilizzate come strumenti indispensabili; altrimenti la contemplazione e la conoscenza rimarranno sempre incomplete – e porteranno alla morte morale.”
+
+Tuttavia, questo corrispondente rende più accettabili le idee che presenta alla Critica Critica: “fa sì che le parole di Bauer trovino la loro giusta applicazione”, “ha seguito il filo dei pensieri di Bauer”, concorda sul fatto che “Bauer abbia detto la verità”; e alla fine sembra polemizzare non contro la Critica in sé, ma contro una “versione distorta” della stessa, diversa da quella originale.
+
+La “Critica Critica”, sentendosi offesa e, inoltre, estremamente sensibile su tutte le questioni legate alla fede, non accetta queste distinzioni né questo semimonumento di rispetto.
+
+“Ti sbagli,” risponde, “se hai scambiato il gruppo di persone che hai descritto all’inizio della tua lettera per il tuo avversario. Piuttosto ammetti” (e ora arriva la sentenza devastante dell’espulsione) “che sei tu stesso un avversario della Critica!”
+
+Quel miserabile individuo. L’uomo rappresentativo di quella massa. Un oppositore della stessa Critica! Tuttavia, per quanto riguarda il contenuto di quella polemica tipica di una massa, la “Critica Critica” dichiara di rispettare l’atteggiamento critico verso le scienze naturali e l’industria.
+
+“Tutto il rispetto per la scienza naturale! Tutto il rispetto per James Watt, ma assolutamente nessun rispetto per i milioni che ha guadagnato a beneficio dei suoi parenti.”
+
+Tutto il rispetto dovuto alla cosiddetta “Critica Critica”! Nella stessa lettera in cui questa “Critica Critica” rimprovera la suddetta “Berlin Couleur” per disporre troppo facilmente di opere approfondite e solide senza studiarle attentamente, e per considerare un’opera conclusa semplicemente perché si è riconosciuto che rappresenta un momento decisivo nella storia del pensiero, nello stesso documento la “Critica Critica” stessa disprezza l’intera scienza naturale e l’industria, limitandosi a dichiarare di rispettarle. L’affermazione che accompagna tale dichiarazione di rispetto ricorda le prime critiche aspre del defunto Krug alla filosofia naturale.
+
+“La natura non è l’unica realtà, perché la consumiamo attraverso i suoi singoli prodotti.”
+
+La Critica Critica sa, riguardo ai singoli prodotti della natura che “noi mangiamo e beviamo”, esattamente queste cose. Tutto il rispetto per la scienza naturale della Critica Critica!
+
+La critica si contraddistingue per opporsi, con l’esclamazione retorica senza dubbio arguta che segue, a quella richiesta fastidiosamente insistente di studiare la “natura” e l’“industria”.
+
+“O” (!) “pensi davvero che la conoscenza della realtà storica sia già completa? O” (!) “conosci forse qualche periodo della storia che sia effettivamente stato completamente compreso?”
+
+O forse la Critica Critica ritiene di aver raggiunto almeno l’inizio della conoscenza della realtà storica, purché escluda dal movimento storico quella relazione teorica e pratica tra l’uomo e la natura, cioè le scienze naturali e l’industria? O pensa davvero di conoscere un qualsiasi periodo storico senza comprendere, ad esempio, l’industria di quel periodo, il modo immediato in cui veniva prodotta la vita stessa? Naturalmente, la Critica Critica spiritualista e teologica conosce soltanto (o almeno si immagina di conoscere) i principali eventi politici, letterari e teologici della storia. Proprio come separa il pensiero dai sensi, l’anima dal corpo e se stessa dal mondo, essa separa la storia dalle scienze naturali e dall’industria, e considera l’origine della storia non nella produzione materiale terrena, ma nelle nuvole vaporose del cielo.
+
+Il rappresentante della massa “testarda” e “spietata”, con le sue severe rimproveri e i suoi consigli, viene considerato un materialista di tipo massiccio. Un altro corrispondente, meno malizioso e meno simile alla massa, che ripone le sue speranze nella “Critica Critica” ma le trova deluse, non ha sorte migliore. Il rappresentante della massa “insoddisfatta” scrive:
+
+“Devo tuttavia ammettere che il primo numero della vostra rivista non è stato affatto soddisfacente. Ci aspettavamo qualcosa di diverso.”
+
+Il patriarca critico risponde di persona:
+
+“Sapevo già in anticipo che non avrebbe soddisfatto le aspettative, perché riuscivo facilmente a immaginare quelle stesse aspettative. Si è così esausti da desiderare avere tutto immediatamente. Tutto? No! Se possibile, tutto e niente allo stesso tempo: un “tutto” che non richieda alcuno sforzo, un “tutto” che si possa assorbire senza alcun processo di sviluppo interno, un “tutto” contenuto in una singola parola.”
+
+Nella sua irritazione per le richieste eccessive della “Massa”, che pretende qualcosa – anzi, tutto – dalla Critica, la quale, per principio e natura, “non dà nulla”, il patriarca critico racconta un aneddoto nel modo tipico degli anziani. Non molto tempo fa, un conoscente di Berlino si lamentò amaramente della verbosità e dell’eccesso di dettagli presenti nelle sue opere: si sa infatti che il signor Bruno trasforma anche la più piccola idea in un’opera voluminosa. Fu consolato dalla promessa che gli sarebbe stata inviata l’inchiostro necessario per stampare il libro, sotto forma di piccoli granuli, in modo che potesse assorbirlo facilmente. Il patriarca critico spiega la lunghezza delle sue “opere” con una cattiva distribuzione dell’inchiostro; allo stesso modo, spiega l’assurdità della sua “Literatur-Zeitung” con il vuoto della “massa profana”, che, per sentirsi piena, vuole inghiottire tutto, e nello stesso tempo nulla.
+
+<span class="atom-split" data-atom="045" data-title="Chapter VII. Critical Criticism’s Correspondence (parte 3)" data-chapter="Chapter VII. Critical Criticism’s Correspondence" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Just as it is difficult to deny the importance of what has so far been related, it is equally difficult to see a world-historic contradiction in the fact that a mass-type acquaintance of Critical Criticism considers Criticism empty, while Criticism, for its part, declares him to be un-Critical; that a second acquaintance does not find that the Literatur-Zeitung satisfies his expectations, and that a third acquaintance and friend of the family finds Criticism’s works too bulky. However, acquaintance No. 2, who entertains expectations, and friend of the family No. 3, who wishes at least to find out the secrets of Critical Criticism, constitute the transition to a more substantial and tenser relationship between Criticism and the ‘.un-Critical Mass”. Cruel as Criticism is to the “hard-hearted” Mass which has only “common human reason”, we shall find it condescending to the Mass that is pining for redemption from contradiction. The Mass which approaches Criticism with a contrite heart, a spirit of repentance and a humble mind will be rewarded for its honest striving with many a wise, prophetic and outspoken word.
 
@@ -2084,7 +4049,51 @@ At times it seems to him “that Herr Bruno and his friends do not understand ma
 
 “Yes, it is as clear as daylight to me that you are right and that your thoughts are correct; but excuse me, the people is not wrong either.... Oh yes! The people is right.... I cannot deny that you are right.... I really do not know what it will all lead to: you will say ... well, stay at home.... Alas! I can no longer stand it.... Alas! One might otherwise go mad in the end.... Kindly accept... Believe me, the knowledge one has acquired sometimes makes one feel as stupid as if a mill-wheel were turning in one’s head.”
 
-<span class="atom-split" data-atom="046" data-title="Chapter VII. Critical Criticism’s Correspondence (parte 4)" data-chapter="Chapter VII. Critical Criticism’s Correspondence" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+È altrettanto difficile negare l’importanza di ciò che è stato finora discusso, quanto sia difficile ritenere che esista una contraddizione di portata storica nel fatto che un certo tipo di “conoscitore” della Critica la consideri vuota, mentre la stessa Critica lo definisce “non-critico”; che un altro “conoscitore” non ritenga che la rivista Literatur-Zeitung soddisfi le sue aspettative, e che ancora un terzo conoscente, amico di famiglia, trovi le opere della Critica eccessivamente complesse. Tuttavia, il secondo tipo di conoscitore, quello che nutre delle aspettative, e il terzo tipo di conoscente, l’amico di famiglia desideroso almeno di comprendere i segreti della Critica, rappresentano una fase transitoria verso una relazione più sostanziale e significativa tra la Critica e quella “massa non-critica”. Per quanto la Critica possa essere crudele nei confronti di quella massa “spietata” che si affida soltanto alla “ragione umana comune”, essa risulterà invece indulgente verso quella massa che anela alla liberazione dalle contraddizioni. La massa che si avvicina alla Critica con un cuore pentito, uno spirito di riconoscimento e una mente umile sarà ricompensata per i suoi sforzi sinceri con parole sagge, profetiche e schiette.
+
+b) La massa “di cuore tenero” che anela alla redenzione
+
+Il rappresentante di quella massa sentimentale e dal cuore tenero, anelante alla redenzione, si ritrae imbarazzato e implora la “Critica Critica” di pronunciare parole gentili, esprimendo i propri sentimenti con effusioni di cuore, profondi inchini e sguardi supplicanti.
+
+“Perché sto scrivendo queste cose a te? Perché mi sto giustificando davanti a te? Perché ti rispetto e quindi desidero il tuo rispetto; perché ti devo la più profonda gratitudine per il mio sviluppo personale e quindi ti amo. Il mio cuore mi spinge a giustificarmi davanti a te, che mi hai rimproverato. Lontano da me l’idea di importunarti; a giudicare da me stesso, pensavo che potresti essere felice di ricevere una prova di [simpatia](/positions/moral_sentiment) da parte di un uomo che per te è ancora poco conosciuto. Non pretendo affatto che tu risponda alla mia lettera: non voglio né occupare il tuo tempo, che potresti utilizzare meglio, né infastidirti, né esporre me stesso all’umiliazione di vedere qualcosa che speravo si realizzasse rimanere insoddisfatto. Puoi interpretare la mia lettera come sentimentalità, insistenza o vanità, o qualsiasi altra cosa tu voglia; puoi rispondermi o no, ma non riesco a resistere all’impulso di scriverla e spero solo che tu comprenda il sentimento amichevole che l’ha ispirata”.
+
+Proprio come fin dall’inizio Dio ha mostrato misericordia verso coloro che sono poveri di spirito, anche questo umile corrispondente, che implora pietà dalla “Critica Critica”, vede il suo desiderio esaudito: la “Critica Critica” gli risponde con gentilezza. E non solo! Gli fornisce inoltre spiegazioni molto approfondite sugli oggetti della sua curiosità.
+
+“Due anni fa,” insegna la “Critical Criticism”, “era opportuno ricordare l’[Illuminismo](/schools/enlightenment) dei francesi del XVIII secolo per poter utilizzare anche quelle ‘truppe leggere’ in un determinato settore della battaglia che si stava svolgendo all’epoca. Ora la situazione è completamente diversa: le verità cambiano molto rapidamente, e ciò che allora era opportuno oggi rappresenta semplicemente un errore.”
+
+Naturalmente anche allora si trattava soltanto di un “errore”, ma di un errore “opportuno”: quando lo stesso Assoluto Critico Supremo (cfr. Anekdota, Libro II) definì quelle truppe leggere “i nostri santi”, i nostri “profeti”, i nostri “patriarchi”, ecc. Chi avrebbe mai definito delle truppe leggere un insieme di “patriarchi”? Fu un errore “opportuno” quando si parlò con entusiasmo del sacrificio, dell’energia morale e dell’ispirazione con cui queste truppe leggere “pensavano, lavoravano e studiavano per tutta la vita in nome della verità”. Fu un errore quando, nella prefazione a Das entdeckte Christenthum, si affermò che queste truppe “leggere” sembravano invincibili, e chiunque fosse ben informato avrebbe scommesso che avrebbero messo sottosopra il mondo intero; inoltre, sembrava indubbio che sarebbero riuscite a dare al mondo una nuova forma. Quelle truppe leggere.
+
+La “Critica Critica” continua a insegnare al rappresentante curioso della “Messa Cordiale”:
+
+“Sebbene il tentativo dei francesi di formulare una teoria sociale rappresentasse un nuovo merito storico, oggi sono ormai esauriti; la loro nuova teoria non era ancora pura, e le loro fantasie sociali, così come la loro democrazia pacifica, non sono affatto libere dalle ipotesi legate all’antico stato delle cose.”
+
+La critica qui si riferisce al Fourierismo – se proprio deve riferirsi a qualcosa – e in particolare al Fourierismo esposto in “La Démocratie pacifique”. Tuttavia, questo non rappresenta affatto la “teoria sociale” dei francesi. I francesi possiedono teorie sociali, ma non una teoria sociale unica e coerente; il Fourierismo diluito che “La Démocratie pacifique” predica non è altro che la dottrina sociale di una parte della borghesia filantropica. Il popolo è comunista, e in realtà si divide in molteplici gruppi diversi; il vero movimento e lo sviluppo di queste diverse tendenze sociali non sono affatto esauriti, ma anzi appena all’inizio. Tuttavia, questo processo non terminerà con teorie pure e astratte, come vorrebbe la critica critica; terminerà invece in pratiche concrete che non si preoccuperanno affatto delle categorie categoriche della critica stessa.
+
+“Nessuna nazione,” continua a sussurrare la Critica, “ha finora alcun vantaggio rispetto ad un’altra. Se qualcuna riesce a ottenere una sorta di superiorità spirituale sugli altri, sarà proprio quella che potrà criticarsi e criticare gli altri, scoprendo così le cause del declino universale.”
+
+Ogni nazione possiede, fino ad oggi, qualche vantaggio rispetto alle altre. Ma se la profezia critica è vera, nessuna nazione avrà più alcun vantaggio su un’altra, perché tutti i popoli civili d’Europa – gli inglesi, i tedeschi, i francesi – oggi “si criticano reciprocamente e si trovano in condizioni di scoprire le cause del declino universale”. In definitiva, affermare che “la critica”, “la scoperta”, cioè le attività spirituali, conferiscano una superiorità spirituale, è soltanto una tautologia banale. La Critica, con la sua infinita [autoconsapevolezza](/concepts/self_consciousness), si pone al di sopra delle nazioni e pretende che queste si prostrino ai suoi piedi chiedendo l’illuminazione; ma questa caricatura di idealismo cristiano-germanico dimostra soltanto che essa è ancora immersa fino al collo nel fango del nazionalismo tedesco.
+
+La critica dei francesi e degli inglesi non rappresenta una personalità astratta e soprannaturale al di fuori dell’umanità; è piuttosto un’attività umana concreta, esercitata da individui che sono membri attivi della società e che soffrono, sentono, pensano e agiscono come esseri umani. È per questo che la loro critica è al contempo pratica: il loro comunismo è un socialismo che prevede misure concrete e pratiche; non si limitano a riflettere, ma agiscono concretamente. Si tratta quindi di una critica viva e reale della società esistente, di un’[riconoscimento](/concepts/recognition) delle cause del “degrado”.
+
+Dopo le spiegazioni fornite dalla “Critica Critica” riguardo al membro curioso del pubblico, si può affermare che la sua “Literatur-Zeitung”.
+
+“Qui si pratica una critica pura, diretta, pertinente e priva di qualsiasi aggiunta superflua.”
+
+Qui “non viene data nulla di autenticamente esistente”; qui non viene data assolutamente nulla, se non una critica che, a sua volta, non dà nulla, cioè una critica che culmina in un’estrema forma di non-critica. La critica evidenzia i passaggi stampati e raggiunge il suo apice negli estratti. Wolfgang Menzel e [Bruno Bauer](/figures/bauer) si tendono la mano fraternamente, e la “Critica Critica” occupa ora lo stesso posto che la filosofia dell’identità occupava all’inizio di questo secolo, quando Schelling si oppose alla presunzione che volesse fornire qualcosa, qualsiasi cosa tranne una vera e propria filosofia puramente filosofica.
+
+c) La grazia concesa durante la Messa
+
+Il corrispondente dal cuore gentile, le cui azioni abbiamo appena assistito, manteneva un rapporto cordiale con la Critica. Nel suo caso esisteva soltanto un accenno idilliaco alla tensione che sorge tra la “Massa” e la Critica. Entrambe le parti di questa contraddizione di portata storico-universale si comportavano l’una verso l’altra in modo gentile e cortese, quindi, in senso esteriore.
+
+La critica critica, con il suo effetto nocivo e distruttivo sull’“Massa”, si manifesta innanzitutto nel caso di una persona che ha già un piede nella critica e l’altro ancora nel mondo profano. Questa persona rappresenta l’“Massa” nel suo conflitto interno con la critica.
+
+A volte gli sembra che “il signor Bruno e i suoi amici non comprendano davvero l’umanità”, che “siano loro quelli veramente ciechi”. Poi si corregge immediatamente.
+
+“Sì, è chiaro come il giorno che hai ragione e che i tuoi pensieri sono corretti; ma perdonami, anche la gente non ha torto. Oh sì! La gente ha ragione. Non posso negare che tu abbia ragione. Davvero non so dove tutto questo porterà. Diresti, beh, restate a casa. Ahimè! Non ce la faccio più. Ahimè. Altrimenti si potrebbe impazzire. Per favore accetta. Credimi, le conoscenze acquisite a volte fanno sentire una persona così stupida, come se avesse un mulino che gira nella testa, ”
+
+<span class="atom-split" data-atom="046" data-title="Chapter VII. Critical Criticism’s Correspondence (parte 4)" data-chapter="Chapter VII. Critical Criticism’s Correspondence" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Another correspondent, too, writes that he “is occasionally disconcerted”. One can see that Critical grace is about to be bestowed on this mass-type correspondent. The poor wretch! The sinful Mass is tugging at him on one side and Critical Criticism on the other. It is not the knowledge he has acquired that reduces this pupil of Critical Criticism to a state of stupor; it is the question of faith and conscience; Critical Christ or the people, God or the world, [Bruno Bauer](/figures/bauer) and his friends or the profane Mass! But just as bestowal of divine grace is preceded by extreme wretchedness of the sinner, Critical grace is preceded by a crushing stupefaction. And when it is at last bestowed, the chosen one loses not stupidity but the consciousness of stupidity.
 
@@ -2148,7 +4157,71 @@ Absolute Criticism replies:
 
 “Criticism does not form any party and will have no party of its own; it is solitary because it is engrossed in its” (!) “object and opposes itself to it. It isolates itself from everything.”
 
-<span class="atom-split" data-atom="047" data-title="Chapter VII. Critical Criticism’s Correspondence (parte 5)" data-chapter="Chapter VII. Critical Criticism’s Correspondence" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Un altro corrispondente scrive anche che “a volte si sente disorientato”. Si può intuire che questa sorta di corrispondenti venga presto colmata di “grazia critica”. Povero infelice. Da un lato c’è la “sacra Messa”, dall’altro la “Critica Critica”; non è la conoscenza acquisita a ridurre questo discepolo della “Critica Critica” in uno stato di stupore, ma la questione della fede e della coscienza: il Cristo critico o la gente comune, Dio o il mondo, [Bruno Bauer](/figures/bauer) e i suoi amici, o la profana Messa! Ma proprio come la concessione della grazia divina è preceduta da estrema miseria del peccatore, anche la “grazia critica” è preceduta da uno stato di totale stordimento. E quando finalmente viene concesa, colui che è stato scelto non perde lo stupore, ma la consapevolezza dello stesso.
+
+3) La massa critica non critica, o “critica” e la “tinta di Berlino”.
+
+La “Critica Critica” non è riuscita a presentarsi come l’opposto essenziale, e quindi allo stesso tempo come l’oggetto essenziale, della massa umana. Oltre ai rappresentanti di quella massa ostinata che rimproverano alla “Critica Critica” la sua mancanza di oggettività e le spiegano, nel modo più cortese possibile, che non ha ancora attraversato il processo del proprio “mutamento spirituale” e deve prima acquisire una solida conoscenza, esiste anche un interlocutore dal cuore tenero. Quest’ultimo non rappresenta affatto un opposto; anzi, la motivazione della sua attenzione verso la “Critica Critica” è puramente personale. Come possiamo vedere più avanti nella sua lettera, egli desidera semplicemente conciliare la propria devozione a Herr Arnold Ruge con quella a Herr Bruno Bauer. Questo tentativo di riconciliazione dimostra la bontà del suo cuore, ma in nessun modo rappresenta un interesse di natura collettiva. Infine, l’ultimo interlocutore che si è fatto sentire non era più un vero membro della massa umana; era soltanto un “catecumeno” della “Critica Critica”.
+
+In generale, la “Massa” è un oggetto indefinito e, pertanto, non può né compiere un’azione definita né entrare in una relazione definita. La “Massa”, intesa come oggetto della Critica Critica, non ha nulla in comune con le vere masse umane, che, da parte loro, formano tra di sé opposizioni di natura nettamente massiccia. La “Massa” nella Critica Critica viene “creata” dalla stessa Critica, proprio come se un naturalista, invece di parlare di classi definite, contrapponesse la nozione di classe a se stesso.
+
+Pertanto, affinché esista l’opposto di una natura veramente “di massa”, la “Critica Critica” ha bisogno, oltre a questa astratta entità “di massa” che è soltanto un prodotto del proprio pensiero, di una realtà concreta e empiricamente dimostrabile, e non semplicemente immaginaria. Questa realtà deve rappresentare, nella “Critica Critica”, sia la sua essenza che la distruzione della sua stessa essenza. Deve desiderare di essere quella “Critica Critica”, ma non riesce a farlo. Questa entità “di massa” criticamente anti-critica è appunto il cosiddetto “Berlin Couleur”. L’umanità che si interessa seriamente alla “Critica Critica” è confinata all’interno di questo contesto del “Berlin Couleur”.
+
+La “Berlin Couleur”, l’“oggetto essenziale” della Critica Critica, di cui essa non smette mai di parlare e che, secondo la Critica Critica, a sua volta pensa sempre alla stessa, consiste, per quanto ne sappiamo, in alcuni ex giovani hegeliani nei quali la Critica Critica pretende di suscitare, in parte, un senso di vuoto e di sterilità, e in parte, un sentimento di futilità. Non stiamo indagando sulla realtà effettiva delle cose; ci affidiamo a quanto dice la Critica.
+
+Questa corrispondenza ha lo scopo principale di spiegare in dettaglio al pubblico questa relazione di fondamentale importanza storica tra la Critica e il movimento del “Berlin Couleur”, di rivelarne il profondo significato, di dimostrare perché la Critica debba necessariamente essere “crudele” nei confronti di questo movimento di massa, e infine di far comprendere come l’intero mondo sia in preda a un’agitazione febbrile a causa di questa opposizione, che si manifesta ora a favore e ora contro le azioni della Critica. Ad esempio, la Critica Assoluta scrive a un corrispondente che sostiene il movimento del “Berlin Couleur”:
+
+“Ho già sentito cose del genere così spesso che ho deciso di non prestarci più attenzione.”
+
+Il mondo non ha la minima idea di quante volte abbia affrontato situazioni così critiche.
+
+Ascoltiamo ora ciò che un membro del gruppo “Critical Mass” ha da dire sul progetto “Berlin Couleur”.
+
+“‘Se qualcuno riconosce i Bauers’” (la Sacra Famiglia deve sempre essere riconosciuta come tale) “iniziò la sua risposta: ‘Sono io’. Ma il Literatur-zeitung. Diamo la giusta misura alle cose. È stato interessante per me ascoltare cosa pensasse di te uno di quei radicali, quegli uomini intelligenti dell’anno 42, ”
+
+Il corrispondente prosegue riferendo che quell’uomo sfortunato aveva ogni sorta di rimproveri da rivolgere al “Literatur-Zeitung”.
+
+Il racconto breve di Herr Edgar, *Die drei Biedermdner*, gli sembrava mancare di raffinatezza e risultare eccessivamente esagerato. Non riusciva a comprendere che la censura non sia tanto una lotta tra uomo e uomo, una lotta esterna, quanto piuttosto una lotta interiore. Le autorità censorie non si prendono nemmeno il disturbo di riflettere e di sostituire le frasi approvate dalla censura con pensieri critici espressi in modo intelligente e sviluppati a fondo. Ritenne anche che l’articolo di Herr Edgar su Béraud mancasse di completezza; tuttavia, il recensore lo considerava approfondito. È vero che egli stesso ammise: “Non ho letto il libro di Béraud”. Ma credeva comunque che Herr Edgar avesse avuto successo. E la credenza, come sappiamo, è spesso illusoria. “In generale”, continuava il recensore, “l’autore del *Berlin Couleur* non è affatto soddisfatto delle opere di Herr Edgar”. Riteneva inoltre che “Proudhon non venisse trattato con sufficiente approfondimento”. E qui il recensore forniva una testimonianza a favore di Herr Edgar.
+
+“È vero” (1?) “che conosco Proudhon. So che la presentazione fatta da Edgar ha tratto i punti caratteristici della sua dottrina e li ha esposti chiaramente.”
+
+L’unica ragione per cui l’eccellente critica di Proudhon da parte di Herr Edgar non è apprezzata, afferma il giornalista, può essere soltanto che Herr Edgar non attacca apertamente la proprietà privata. E provate solo ad immaginare: l’avversario ritiene che l’articolo di Herr Edgar sull’“Unione operaia” sia insignificante. Per consolare Herr Edgar, il giornalista aggiunge.
+
+“Certo, non fornisce nulla di concreto; queste persone sono davvero tornate al punto di vista di Gruppe, che, senza dubbio, hanno sempre mantenuto. La critica deve dare, deve dare ancora e ancora, ”
+
+Come se la Critica non avesse apportato scoperte completamente nuove in ambito linguistico, storico, filosofico, economico e giuridico. Eppure è così umile da ammettere di non aver fornito nulla di veramente originale! Anche il nostro corrispondente critico ha dato alla “meccanica” qualcosa che essa prima non conosceva, quando ha invogliato le persone a riprendere lo stesso punto di vista che avevano sempre mantenuto. È davvero goffo ricordare il punto di vista di Gruppe. Nel suo pamphlet, del resto miserabile e insignificante, Gruppe chiedeva al signor Bruno quale critica potesse esprimere sulla logica speculativa; il signor Bruno lo rimandò alle generazioni future.
+
+“Un idiota aspetta una risposta”.
+
+Come Dio punì il faraone incredulo rendendogli il cuore indurito e non ritenendolo degno di essere illuminato, così anche il giornalista ci assicura.
+
+“Pertanto, non sono affatto degni di vedere o conoscere i contenuti della vostra ‘Literatur-Zeitung’.”
+
+E invece di consigliare al suo amico Edgar di acquisire idee e conoscenze, gli dà il seguente consiglio:
+
+“Lasciate che Edgar utilizzi un insieme di frasi prestabilite e le selezioni a caso quando scriverà futuri saggi, così da sviluppare uno stile in armonia con i gusti del pubblico.”
+
+Oltre alle descrizioni che parlano di “una certa furia, ostilità, vuotezza, superficialità, un barlume di qualcosa che non riescono a comprendere, e una sensazione di nullità” (tutti questi epiteti si riferiscono, ovviamente, al movimento Berlin Couleur), vengono anche rivolti elogi alla Sacra Famiglia.
+
+“La leggerezza con cui si affronta l’argomento, il dominio delle categorie concettuali, la comprensione acquisita attraverso lo studio. In breve, una padronanza assoluta degli oggetti di analisi. Lui” (si riferisce a Coulcur di Berlino) “adotta un atteggiamento disinvolto nei confronti della materia; rende così tutto più semplice da comprendere.” Oppure: “La tua critica su ‘Literatur-Zeitung’ è pura, incisiva e pertinente.”
+
+Infine si afferma:
+
+“Ho scritto tutto questo in modo così dettagliato perché so che vi farà piacere conoscere le opinioni del mio amico. Da ciò si può dedurre che la ‘Literatur-Zeitung’ sta svolgendo appieno la sua funzione.”
+
+Il suo scopo è opporsi alla “Berliner Couleur”. Avendo appena assistito alla polemica della “Berliner Couleur” contro la “Critical Criticism” e alle critiche ricevute per tale polemica, ora abbiamo una visione d’insieme dei suoi sforzi per ottenere il perdono da parte della “Critical Criticism”.
+
+Un corrispondente scrive:
+
+“I miei conoscenti a Berlino mi dissero, quando ero lì all’inizio dell’anno, che tu respingi tutti e mantieni le distanze; che ti tieni per te stessa e non permetti a nessuno di avvicinarsi a te, evitando assiduamente qualsiasi tipo di rapporto. Naturalmente, 1 non può dire da quale parte dipenda questa situazione.”
+
+La “Critica Assoluta” risponde:
+
+“La critica non forma alcun partito e non avrà mai un proprio partito; è solitaria perché è completamente assorbita dal suo oggetto e si oppone ad esso. Si isola da tutto il resto.”
+
+<span class="atom-split" data-atom="047" data-title="Chapter VII. Critical Criticism’s Correspondence (parte 5)" data-chapter="Chapter VII. Critical Criticism’s Correspondence" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Critical Criticism thinks it rises above all dogmatic antitheses by substituting for the real antitheses the imaginary antithesis between itself and the world, between the Holy Ghost and the profane Mass. In the same way it thinks it rises above parties by falling below the party point of view, by counterposing itself as a party to the rest of mankind and concentrating all interest in the personality of Herr Bruno and Co. The truth of Criticism’s admission that it sits enthroned in the solitude of abstraction, that even when it seems to be occupied with some object it does not come out of its objectless solitude into a truly social relation to a real object, because its object is only the object of its imagination, only an imaginary object — the truth of this Critical admission is proved by the whole of our exposition. Equally correctly Criticism defines its abstraction as absolute abstraction, in the sense that “it isolates itself from everything”, and precisely this isolation of nothing from everything, from all thought., contemplation, etc., is absolute nonsense. Incidentally, the solitude which it achieves by isolating and abstracting itself from everything is no more free from the object from which it abstracts itself than Origen was from the genital organ that he isolated from himself.
 
@@ -2206,7 +4279,65 @@ Earlier the Critic had to apply the process of laughter to the “subordinate st
 
 However, there should be no misunderstanding. Having waged·a Herculean struggle to free itself from the uncritical “profane Mass” and “everything”, Critical Criticism has at last succeeded in achieving its solitary, god-like, self-sufficient, absolute existence. If in its first pronouncement in this, its “new phase”, the old world of sinful feelings seems still to have some power over it, we shall now see Criticism find aesthetic relaxation and transfiguration in an “artistic form” and complete its penance so it can finally as a second triumphant Christ accomplish the Critical last judgment and after its victory over the dragon ascend calmly to heaven.
 
-<span class="atom-split" data-atom="048" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 1)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La Critica critica si ritiene superiore a tutte le antitesi dogmatiche, poiché sostituisce le vere antitesi con un’antitesi immaginaria tra sé stessa e il mondo, tra lo Spirito Santo e la Messa profana. Allo stesso modo, si considera al di sopra dei partiti, poiché si colloca al di sotto del punto di vista partitico: si contrappone come un partito al resto dell’umanità e concentra tutto il proprio interesse sulla personalità di Herr Bruno e soci. La veridicità di questa affermazione della Critica – ovvero che essa si trovi “seduta sul trono della solitudine dell’astrazione”, che anche quando sembra occuparsi di un oggetto reale, in realtà non esce dalla sua solitudine senza oggetti per entrare in una vera relazione sociale con tale oggetto – viene dimostrata da tutta la nostra esposizione. La Critica definisce correttamente la propria astrazione come “astrazione assoluta”, nel senso che “si isola da tutto”; ma proprio questa isolazione di ogni cosa, di ogni forma di pensiero e contemplazione, è pura assurdità. Inoltre, la solitudine che essa raggiunge isolandosi da tutto non è affatto libera dall’oggetto dal quale si astrae; anzi, essa è esattamente come Origene, che si isolò dal proprio organo genitale.
+
+Un altro corrispondente descrive uno dei membri del “Berlin Couleur”, che ha visto e parlato con lui, come “triste”, “depresso”, “incapace ormai di pronunciare una parola” (sebbene in passato fosse sempre “pronto a dire cose piuttosto impudenti”) e “disperato”. Questo membro del “Berlin Couleur” raccontò quanto segue al corrispondente, il quale a sua volta lo riportò a Criticism.
+
+“Non riesce a capire come persone come voi due, che un tempo rispettavate i principi dell’umanità, possano comportarsi in modo così distaccato, repellente, addirittura arrogante.” Non comprende “perché ci siano alcune persone che, a quanto pare, causano intenzionalmente divisioni. Non abbiamo forse tutti lo stesso punto di vista? Non rendiamo forse tutti omaggio all’estremo, alla critica? Non siamo forse tutti in grado, se non di produrre, almeno di comprendere e applicare un pensiero estremo?” Ritiene che “queste divisioni siano motivate soltanto dall’egoismo e dall’arroganza”.
+
+Poi il corrispondente interviene con una parola gentile:
+
+“Non hanno forse alcuni dei nostri amici compreso il significato della Critica, o almeno la buona volontà che essa rappresenta, ‘Anche se priva di effettiva efficacia, la sua volontà merita comunque lode’.”
+
+La critica risponde con le seguenti antitesi tra sé stessa e la “Berlin Couleur”.
+
+“Esistono diversi punti di vista sulla critica.” I membri del gruppo Berlin Couleur “pensavano di possedere la critica a loro disposizione”, ma la vera critica conosce e applica pienamente il potere della critica stessa, cioè non lo tiene “nella tasca”. Per i primi, la critica è pura forma; per la vera critica, invece, essa rappresenta l’“elemento più sostanziale, o addirittura l’unico elemento sostanziale”. Proprio come il Pensiero Assoluto si considera l’intera realtà, così fa anche la Critica Critica. Per questo motivo essa non riconosce alcun contenuto al di fuori di sé stessa; quindi non è una critica degli oggetti reali esistenti al di fuori del soggetto critico. Al contrario, essa stessa crea l’oggetto: è il Soggetto-Oggetto Assoluto. Inoltre: “Il primo tipo di critica si limita a utilizzare frasi per trattare e analizzare le cose; il secondo tipo, invece, si isola da tutto attraverso le frasi.” Il primo tipo è “intelligente nell’ignoranza”; il secondo tipo è “apprendente”. Comunque sia, il secondo tipo non è davvero intelligente: impara in modo casuale e superficiale, ma soltanto apparentemente; lo fa soltanto per poter poi rigettare ciò che ha appreso superficialmente sulla massa sotto forma di slogan, presentandoli come “verità” scoperte da lui stesso, e ridurli al nulla, trasformandoli nel nonsenso della Critica Critica.
+
+“Per il primo caso, termini come ‘estremo’, ‘procedere’, ‘non essere sufficiente’ sono di grande importanza e rientrano in categorie molto rispettate; nel secondo caso, invece, si analizzano i punti di vista senza applicare loro le misure stabilite da quelle categorie astratte.”
+
+Le esclamazioni della Critica N. 2 secondo cui non si tratta più di questioni politiche, che la filosofia sia ormai superata, e il suo rifiuto dei sistemi sociali e dei loro sviluppi attraverso termini come “fantastico”, “utopico”, ecc.: tutto ciò non è forse una versione “criticamente rivista” di concetti come “procedere” o “non andare abbastanza lontano”? E i suoi metodi, come “Storia”, “Critica”, “riassunto degli oggetti analizzati”, “il vecchio e il nuovo”, “Critica e massa”, “indagine dei punti di vista”: in altre parole, non sono forse tutti questi concetti delle misure categoriche, anzi addirittura astrattamente categoriche?
+
+“Il primo è di natura teologica, pieno di rancore, invidia e meschinità; il secondo, invece, è l’opposto di tutto ciò.”
+
+Dopo essersi lodata una dozzina di volte di seguito e aver attribuito a sé tutto ciò che manca alla “Berliner Couleur”, proprio come Dio è tutto ciò che l’uomo non è, la Critica dà prova di sé stessa dicendo:
+
+“Ha raggiunto una chiarezza mentale, un forte desiderio di apprendere, e una serenità tale da renderla insuperabile e invincibile.”
+
+Pertanto, può al massimo “trattare” il suo avversario, il Berlin Couleur, “con una risata olimpica”. Questa risata – spiega con la sua solita meticolosità ciò che è e ciò che non è – “non è arroganza”. Assolutamente no! È la negazione della negazione. È “solo il processo che il Critico deve applicare con facilità ed equanimità contro un punto di vista subordinato che si ritiene suo pari” (che presunzione!). Quindi, quando il Critico ride, sta applicando proprio questo processo! E “con estrema equanimità”, applica il processo della risata non contro le persone, ma contro un determinato punto di vista. Anche la risata rappresenta una categoria che deve essere utilizzata, e che effettivamente viene utilizzata dal Critico.
+
+La Critica extramondana non rappresenta un’attività essenziale del soggetto umano reale, che quindi vive e soffre nella società contemporanea, condividendo i suoi dolori e i suoi piaceri. L’individuo reale è soltanto un aspetto accidentale, un vaso terreno della Critica, che in lui si manifesta come Sostanza eterna. Il soggetto non è la critica dell’individuo umano, ma l’individuo “non umano” della Critica. La Critica non è una manifestazione dell’uomo; piuttosto, l’uomo è un’espressione alienata della Critica, ed è per questo che il Critico vive completamente al di fuori della società.
+
+“Può il Critico vivere nella società che critica?”
+
+Dovremmo invece chiederci: Non deve forse vivere in quella società? Non deve forse lui stesso essere una manifestazione della vita di quella società? Perché il “Critico” vende i prodotti del proprio pensiero, rendendo così la legge più negativa della società contemporanea propria legge?
+
+“Il critico non deve nemmeno osare mescolarsi personalmente con la società.”
+
+È per questo che egli si crea una “Sacra Famiglia”, proprio come il Dio solitario cerca, attraverso la Sacra Famiglia, di porre fine alla sua noiosa isolazione dalla società. Se il Critico vuole liberarsi da una cattiva società, deve prima di tutto liberarsi dalla propria società.
+
+“Pertanto, il Critico si astiene da tutti i piaceri della società, ma anche le sue sofferenze rimangono lontane da lui. Non conosce né la [amicizia](/concepts/friendship)” (tranne quella dei suoi simili) “né l’amore” (tranne l’amor proprio); d’altra parte, la calunnia non ha alcun potere su di lui: nulla può offenderlo; né l’odio né l’invidia possono influenzarlo; l’irritazione e il dolore sono sentimenti sconosciuti per lui.”
+
+In breve, il Critico è libero da tutte le passioni umane; è una persona divina; può applicare a se stesso le parole della canzone della monaca.
+
+Non penso a un amante.
+
+Non penso a un coniuge.
+
+Penso a Dio Padre.
+
+Poiché è lui a donarmi la vita.
+
+La critica, in ogni suo passaggio, finisce per contraddire se stessa. Ed è proprio questo che ci dice, in definitiva.
+
+“Quel filisteismo che lapida il Critico” – poiché, per analogia con la Bibbia, egli deve essere punito con la lapidazione – “che lo giudica male e gli attribuisce motivi impuri” (attribuendo motivi impuri a una critica pura!) “al fine di renderlo simile a sé stesso” – quell’arroganza dell’uguaglianza già condannata in precedenza! – “non viene deriso da lui, poiché non ne vale la pena; al contrario, viene compreso chiaramente e tranquillamente rifiutato per la sua totale insignificanza.”
+
+In precedenza, il Critico aveva dovuto applicare il processo del riso a quella “posizione subordinata che si considerava alla sua stessa pari”. L’incertezza della Critica critica riguardo al proprio metodo di interazione con le “masse” atee sembra indicare quasi un’irritazione interna, una sorta di rancore verso qualcosa di cui i “sentimenti” non sono affatto “sconosciuti”.
+
+Tuttavia, non deve sorgere alcun malinteso: dopo aver combattuto una lotta estenuante per liberarsi dalla “massa profana” e da “tutto ciò che è privo di critica”, la Critica Critica è finalmente riuscita a realizzare la propria esistenza solitaria, divina, autosufficiente e assoluta. Se nelle sue prime dichiarazioni in questa sua “nuova fase” il vecchio mondo dei sentimenti peccaminosi sembra ancora esercitare su di essa un certo potere, ora vedremo la Critica trovare sollievo estetico e trasformazione attraverso una “forma artistica”, completando così la propria penitenza; in questo modo, potrà finalmente, come un secondo Cristo vittorioso, pronunciare il giudizio ultimo e, dopo aver sconfitto il drago, ascendere serenamente al cielo.
+
+<span class="atom-split" data-atom="048" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 1)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Rudolph, Prince of Geroldstein, does penance in his earthly course for a double crime: his personal crime and that of Critical Criticism. In a furious dialogue he drew his sword against his father; Critical Criticism, also in a furious dialogue, let itself be carried away by sinful feelings against the Mass. Critical Criticism did not reveal a single mystery. Rudolph does penance for that and reveals all mysteries.
 
@@ -2290,7 +4421,91 @@ The speculative “Marguerite” is above all a correction. The fact is that the
 
 Besides the task of correcting this erroneous conjecture that the reader may have made from Herr Szeliga’s presentation, Marguerite has also a metaphysical mission in our, or rather Herr Szeliga’s, “epic”.
 
-<span class="atom-split" data-atom="049" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 2)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Rudolf, principe di Geroldstein, compie penitenza nel suo percorso terreno per un doppio crimine: il proprio crimine e quello della “Critica Critica”. In un dialogo furioso estrasse la spada contro suo padre; la “Critica Critica”, anch’essa in un dialogo furioso, si lasciò trascinare da sentimenti peccaminosi nei confronti della Messa. La “Critica Critica” non rivelò nemmeno un singolo mistero; Rudolf, invece, per questo compie penitenza e rivela tutti i misteri.
+
+Rudolph, ci informa il signor Szeliga, è il primo servitore dello [stato](/concepts/state) dell’umanità (lo “Humanitätsstaat” descritto da Egidius di Svevia; si veda “Konstitutionelle Jahrbücher” del dottor Karl Weil, 1844, vol. 266).
+
+Affinché il mondo non venga distrutto, afferma il signor Szeliga, è necessario che.
+
+“Uomini di critica spietata appaiono. Rudolph è uno di questi uomini. Rudolph comprende appieno il concetto di critica pura. E questo concetto è per lui e per l’umanità più proficuo di tutte le esperienze accumulate dalla storia umana, più utile di ogni conoscenza che Rudolph, anche guidato dal maestro più affidabile, abbia potuto trarre da quella storia. Il giudizio imparziale con cui Rudolph persegue il proprio cammino terreno non è altro che, ”
+
+La “rivelazione” dei misteri della società.
+
+Lui è: “il mistero rivelato di tutti i misteri”.
+
+Rudolph dispone di molti più mezzi esterni rispetto agli altri esponenti della “Critica Critica”. Tuttavia, questi ultimi si consolano pensando.
+
+“I risultati ottenuti da Rudolph sono irraggiungibili per coloro che non sono stati favoriti dal destino” (!); “tuttavia, l’obiettivo splendido che si propone è assolutamente raggiungibile”.
+
+Ecco perché la Critica lascia alla realizzazione dei propri pensieri Rudolph, che è così favorito dal destino. Lei gli canta.
+
+Hahnemann, proceda pure.
+
+Se continui ad andare avanti, non ti bagnerai!
+
+Seguiamo Rudolph nel suo percorso terreno e critico, che “è più proficuo per l’umanità di tutte le esperienze accumulate nella sua storia, di ogni forma di conoscenza”, e che due volte salva il mondo dalla distruzione.
+
+1) La trasformazione critica di un macellaio in un cane, ovvero “Chourineur”.
+
+Chourineur era di mestiere macellaio. A causa di una serie di circostanze, questo uomo, per natura forte e robusto, diventa un assassino. Rudolph lo incontra per caso proprio nel momento in cui sta molestando Fleur de Marie. Rudolph gli infligge alcuni pugni decisi e abili sulla testa, conquistando così il suo rispetto. In seguito, nella taverna frequentata da criminali, emerge la natura gentile e onesta di Chourineur. “Hai ancora cuore e onore”, gli dice Rudolph; con queste parole fa nascere in lui un senso di rispetto per se stesso. Chourineur viene riformato, o, come dice Herr Szeliga, trasformato in un “essere morale”. Rudolph lo prende sotto la sua protezione. Seguiamo ora il percorso della “educazione” di Chourineur sotto la guida di Rudolph.
+
+La prima lezione che Chourineur riceve è una lezione di ipocrisia, infedeltà, astuzia e dissimulazione. Rudolph utilizza Chourineur, ormai “riformato”, esattamente nello stesso modo in cui Vidocq utilizzava i criminali che aveva rieducato: lo trasforma in un delatore e in un agente provocatore. Gli consiglia di “fingere” davanti al “maître d’école” di aver cambiato la propria “principio di non rubare” e di suggerire un furto per attirarlo nella trappola preparata da Rudolph. Chourineur si sente preso in giro; protesta contro l’idea di dover recitare il ruolo di delatore e agente provocatore. Rudolph, con la “pura” casuistica della “Critica Critica”, lo convince facilmente che un trucco disonesto non è tale se compiuto per motivi “buoni e morali”. Chourineur, sotto il pretesto dell’[amicizia](/concepts/friendship) e della fiducia, attira il proprio ex compagno verso la rovina. Per la prima volta nella sua vita commette un atto infame.
+
+**Seconda Fase:** Successivamente vediamo Chourineur assumere il ruolo di infermiere di Rudolph, che ha salvato da un pericolo mortale.
+
+Chourineur è diventato una persona così rispettabile dal punto di vista morale che rifiuta la proposta del dottore negro David di sedersi per terra, per paura di sporcare il tappeto. È davvero troppo timido per sedersi su una sedia: prima la posiziona sul dorso e poi si siede sulle gambe anteriori. Ogni volta che parla con Rudolph, a cui ha salvato la vita da un pericolo mortale, non manca mai di chiamarlo “amico” o “Monsieur”, invece di “Monseigneur”.
+
+Che meravigliosa trasformazione di quel figlio spietato della natura! Quando Chourineur ammette a Rudolph di provare per lui lo stesso attaccamento che un bulldog prova per il suo padrone, esprime il segreto più profondo della sua trasformazione: “Mi sento verso di te come si potrebbe dire che un bulldog si senta verso il suo padrone”. L’ex macellaio è diventato un cane; da quel momento in poi, tutte le sue virtù saranno ridotte alla semplice “devozione” verso il proprio padrone. La sua indipendenza, la sua individualità scompariranno completamente. Ma proprio come i pittori mediocri devono etichettare le loro opere per indicarne il soggetto, Eugène Sue deve definire Chourineur “bulldog”, nonostante quest’ultimo affermi costantemente: “Le due parole ‘Hai ancora cuore e onore’ hanno reso me un uomo”. Fino all’ultimo respiro, Chourineur troverà la motivazione delle proprie azioni non nella propria individualità umana, ma in quell’etichetta. Come prova della sua riforma morale, rifletterà spesso sulla propria bontà e sulla malvagità degli altri; ogni volta che pronuncia frasi morali, Rudolph gli dirà: “Mi piace sentirti parlare così”. Chourineur non è diventato un semplice bulldog, ma uno “bulldog morale”.
+
+**Terza fase:** Abbiamo già ammirato la rispettabilità piccolo-borghese che ha sostituito la grossolanità ma audace spregiudicatezza di Chourineur. Ora apprendiamo che, come è degno di un “essere morale”, ha anche assunto l’andatura e il comportamento tipici del piccolo borghese.
+
+“Vederla camminare, si sarebbe potuti pensare che fosse la borghese più inoffensiva del mondo.”
+
+Ancora più triste di questa forma è il contenuto che Rudolph attribuisce alla sua “vita radicalmente riformata”. Lo manda in Africa “per essere un esempio vivente e salutare di pentimento per il mondo degli infedeli”. In futuro, dovrà rappresentare non la propria [natura umana](/axes/human_nature), ma un dogma cristiano.
+
+Quarta fase: La trasformazione morale critica ha reso Chourineur un uomo tranquillo e cauto, che si comporta secondo le regole della paura e della saggezza mondana.
+
+“Le Chourineur”, riferisce Murph, che nella sua indiscreta semplicità continua a raccontare storie fuori luogo, “non ha detto una parola sull’esecuzione dell’insegnante, per paura di compromettersi”.
+
+Quindi Chourineur sa che la punizione inflitta al maestro di scuola è stata un atto illegale. Ma non ne parla per paura di compromettersi. Che uomo saggio, Chourineur!
+
+**Fase 5:** Chourineur ha portato la sua educazione morale a un tale livello di perfezione che il suo atteggiamento “da cane” verso Rudolph assume una forma “civile”; lui stesso ne diventa consapevole. Dopo aver salvato Germain da un pericolo mortale, gli dice:
+
+“Ho un protettore che, per me, è ciò che Dio è per i sacerdoti: una figura tale da far inginocchiare chiunque di fronte a lui.”
+
+E nella sua immaginazione, si inginocchia davanti al suo Dio.
+
+“Monsieur Rudolph,” dice a Germain, “vi protegge. Dico ‘Monsieur’ anche se dovrei dire ‘Monseigneur’. Ma sono abituato a chiamarlo ‘Monsieur Rudolph’, e lui mi permette di farlo.”
+
+“Un risveglio e uno sbocciare magnifici!” esclama Szeliga, piena di gioia e ammirazione.
+
+Sesta Stagione. Chourineur conclude degnamente la sua carriera di pura dedizione, o di intransigente moralità, permettendo infine che lo pugnalino a morte per il suo nobile padrone. Nel momento in cui Squelette minaccia il principe con il coltello, Chourineur ferma il braccio dell’assassino. Squelette lo pugnala. Ma morendo, Chourineur dice a Rudolph:
+
+“Avevo ragione quando dissi che un essere come me, semplicemente un ‘pezzo di terra’, può talvolta essere utile per un padrone grande e nobile come te.”
+
+A questa espressione simile a quella di un cane, che riassume l’intera vita critica di Chourineur come un epigrafo, viene aggiunto questo commento:
+
+“Siamo pari, Monsieur Rudolph. Mi avete detto che avevo cuore e onore.”
+
+Il signor Szeliga grida con tutte le sue forze:
+
+“Che merito immenso per ‘Rudolph’ aver restituito gli Schuriman all’umanità, ”
+
+2) Rivelazione del Mistero della Religione Critica, ovvero Fleur De Marie
+
+a) La “Margherite” speculativa
+
+Un’ultima parola sulla speculativa “Margherita” di Herr Szeliga, prima di passare alla “Fleur de Marie” di Eugène Sue.
+
+La speculativa “Margherite” è, prima di tutto, una correzione. Il fatto è che il lettore potrebbe trarre dalla struttura proposta da Herr Szeliga la conclusione che Eugène Sue avesse.
+
+“Separò la presentazione delle basi oggettive” (“del sistema mondiale”) “dallo sviluppo delle forze individuali che agiscono, le quali possono essere comprese soltanto in relazione a quel contesto”.
+
+Oltre al compito di correggere questa congettura errata che il lettore potrebbe aver tratto dalla presentazione del signor Szeliga, Margherite svolge anche una funzione metafisica nel nostro, o meglio, nel “poema epico” del signor Szeliga.
+
+<span class="atom-split" data-atom="049" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 2)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 “The world system and an epic event would still not be artistically united in a really single whole if they were only interspersed in a motley mixture — now here a bit of world system and then there some stage play. If real unity is to result, both things. the mysteries of this prejudiced world and the clarity, frankness and confidence with which Rudolph penetrates and reveals them, must clash in a single individual ... This is the task of Marguerite.”
 
@@ -2358,7 +4573,75 @@ Let us accompany Fleur de Marie on her first outing with Rudolph.
 
 Fleur de Marie considers her situation not as one she has freely created, not as the expression of her own personality, but as a fate she has not deserved. Her bad fortune can change. She is still young.
 
-<span class="atom-split" data-atom="050" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 3)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+“Il sistema mondiale e un evento epico non verrebbero comunque uniti artisticamente in un tutto realmente coerente se fossero semplicemente mescolati in modo disordinato: ora un po’ di sistema mondiale, ora qualche rappresentazione teatrale. Affinché si possa realizzare una vera unità, sia i misteri di questo mondo pregiudizioso che la chiarezza, la franchezza e la sicurezza con cui Rudolph li analizza e li svela devono fondersi in un’unica persona. Questa è la missione di Marguerite.”
+
+Herr Szeliga costruisce, in modo speculativo, il personaggio di Margherita attraverso un’analogia con la rappresentazione della Madre di Dio proposta da Bauer.
+
+Da un lato c’è l’“elemento divino” (Rudolph), a cui vengono attribuiti “tutta la potenza e la libertà”, l’unico principio attivo. Dall’altro lato c’è il passivo “sistema del mondo” e gli esseri umani che ne fanno parte; il sistema del mondo rappresenta “il fondamento della realtà”. Se questo fondamento non deve essere “completamente abbandonato”, se non si vuole “abolire l’ultimo residuo della condizione naturale”, se il mondo stesso deve avere una qualche parte nel “principio di sviluppo” che Rudolph, a differenza del mondo, concentra in sé stesso; se “l’elemento umano non deve essere considerato semplicemente come privo di libertà e inattivo”, allora Herr Szeliga è inevitabilmente costretto a cadere nella “contraddizione della coscienza religiosa”. Anche se smonta il sistema del mondo e la sua attività, presentandoli come un dualismo tra una “Massa” morta e la “Critica” (Rudolph), è comunque obbligato ad attribuire al sistema del mondo e alla “Massa” alcune caratteristiche divine, e a fornire a Marguerite una costruzione speculativa sull’unità dei due elementi: Rudolph e il mondo (vedi Kritik der Synoptiker, Vol. 1).
+
+Oltre alle vere relazioni che esistono tra il proprietario di una casa e la “forza individuale” che agisce attraverso di essa (la “base oggettiva”), anche le speculazioni mistiche e l’estetica speculativa necessitano di una terza unità concreta, una sorta di Soggetto-Oggetto che rappresenti insieme la casa e il suo proprietario. Poiché la speculazione non tollera mediazioni naturali nella loro estesa contestualità, essa non si rende conto che lo stesso “elemento del sistema mondiale”, ad esempio la casa, che per il proprietario rappresenta una “base oggettiva”, per chi la costruisce diventa invece un “evento epico”. Al fine di ottenere un “tutto realmente unitario”, la Critica Critica, che rimprovera l’“arte romantica” per il suo “dogma dell’unità”, sostituisce i legami naturali e umani tra il sistema mondiale e gli eventi del mondo con una connessione fantastica, un Soggetto-Oggetto mistico. Proprio come Hegel sostituisce il reale rapporto tra l’uomo e la natura con un Soggetto-Oggetto assoluto che è al contempo l’intera natura e l’intera umanità, lo Spirito Assoluto.
+
+Nella Margherite critica, “la colpa universale del tempo, la colpa del mistero”, diventa il “mistero della colpa”; allo stesso modo, il debito universale legato al mistero si trasforma nel “mistero dei debiti” nell’Epicier indebitato.
+
+Secondo la concezione della “Madre di Dio”, Margherita avrebbe dovuto essere davvero la madre di Rudolfo, il redentore del mondo. Herr Szeliga lo afferma esplicitamente.
+
+“Secondo la sequenza logica, Rudolph avrebbe dovuto essere il figlio di Marguerite.”
+
+Poiché, tuttavia, non è suo figlio, ma suo padre, il signor Szeliga scorge in questo “il nuovo mistero: che il presente spesso racchiude in sé il passato lontano, anziché il futuro”. Rivela persino un altro mistero, ancora più grande, un mistero che contraddice direttamente le statistiche di massa, il mistero che.
+
+“Un bambino, se non diventa a sua volta padre o madre, ma muore puro e innocente, è, essenzialmente, una figlia.”
+
+Herr Szeliga segue fedelmente le speculazioni di Hegel quando, secondo la “sequenza logica”, considera la figlia come madre del proprio padre. Nella filosofia della storia di Hegel, così come nella sua filosofia della natura, il figlio genera la madre, la natura spirituale, la religione cristiana genera il paganesimo; il risultato, in realtà, rappresenta l’inizio stesso del processo.
+
+Dopo aver dimostrato che, secondo la “sequenza logica”, Margherite avrebbe dovuto essere la madre di Rudolph, il signor Szeliga dimostra l’opposto.
+
+“Per poter aderire pienamente all’idea che lei incarna nel nostro poema epico, non deve mai diventare madre”.
+
+Ciò dimostra, almeno, che l’idea del nostro “epico” e la sequenza logica proposta dal signor Szeliga sono reciprocamente contraddittorie.
+
+La Margherita speculativa non è altro che “l’incarnazione di un’idea”. Ma quale idea?
+
+“Ha il compito di rappresentare, per così dire, l’ultima lacrima di dolore che il passato versa prima della sua scomparsa definitiva.”
+
+Lei rappresenta, in senso allegorico, una lacrima; e anche se è così piccola, lo è soltanto “in un certo senso”.
+
+Non seguiremo più il signor Szeliga nella sua descrizione successiva di Margherita. Lasciamole, secondo le indicazioni del signor Szeliga, la soddisfazione di “costituire l’antitesi più decisa rispetto a tutti”, un’antitesi misteriosa, tanto misteriosa quanto gli attributi di Dio.
+
+Né indagheremo sul “vero mistero” che “Dio ha depositato nel petto dell’uomo”, e di cui la speculativa Margherita sembra alludere in modo velato. Passeremo dalla Margherite di Herr Szeliga alla Fleur de Marie di Eugène Sue, nonché alle guarigioni miracolose che Rudolph compie su di lei.
+
+b) Fleur de Marie
+
+Incontriamo Marie circondata da criminali, come una prostituta soggetta alla proprietaria della taverna di quei criminali. In questa condizione umiliante, lei mantiene una nobiltà d’animo umana, un’indifferenza naturale e una [bellezza](/concepts/beauty) che colpisce chi la circonda, elevandola al rango di una “fiore poetica” del mondo criminale e facendole guadagnare il nome di Fleur de Marie.
+
+Dobbiamo osservare attentamente Fleur de Marie fin dalla sua prima apparizione, affinché possiamo confrontare la sua forma originale con quella che ha subito dopo la trasformazione critica.
+
+Nonostante la sua fragilità, Fleur de Marie dimostra immediatamente vitalità, energia, allegria e resilienza di carattere: qualità che, sole, spiegano il suo sviluppo umano in una situazione così disumana.
+
+Quando Chourineur la maltratta, lei si difende con le sue forbici. È in questa situazione che la incontriamo per la prima volta. Non appare come una pecora indifesa che si arrende senza opporre alcuna resistenza di fronte alla brutalità schiacciante; è una ragazza capace di difendere i propri diritti e di lottare.
+
+Nella taverna dei criminali in Rue aux Fèves, racconta a Chourineur e Rudolph la storia della sua vita. Mentre lo fa, ride delle battute di Chourineur. Si rimprovera per aver speso i 300 franchi guadagnati in prigione in divertimenti, invece di cercare lavoro. “Ma,” dice, “non avevo nessuno che potesse darmi consigli.” Il ricordo della catastrofe della sua vita – il fatto di essersi venduta alla proprietaria della taverna dei criminali – la getta in uno stato di malinconia. È la prima volta da quando era bambina che ripensa a questi eventi.
+
+“Il fatto è che mi dispiace guardare indietro in questo modo. Deve essere davvero bello essere onesti.”
+
+Quando Chourineur si prende gioco di lei e le dice che deve diventare onesta, lei esclama:
+
+“Onestamente, mio Dio, ma con cosa vuoi che io sia onesto?”
+
+Insiste nel dire di non essere il tipo da “scoppiare in lacrime”: “Je ne suis pas pleurnicheuse”; ma la sua situazione nella vita è triste, “Ça n’est pas gai.” Infine, contrariamente al pentimento cristiano, esprime riguardo al passato quella condanna umana, allo stesso tempo stoica ed epicurea, tipica di una natura libera e forte.
+
+“Finalmente, ciò che è stato fatto, è stato fatto.”
+
+Accompagniamo Fleur de Marie nella sua prima uscita con Rudolph.
+
+“La consapevolezza della tua terribile situazione deve averti spesso causato dolore,” dice Rudolph, con l’impulso di dare una lezione morale.
+
+“Sì,” risponde lei, “più di una volta ho guardato verso la riva della Senna; ma poi fissavo i fiori e il sole e mi dicevo: ‘Il fiume sarà sempre lì, e io non ho ancora diciassette anni. Chi può saperlo?’ In quei momenti mi sembrava di non meritare quella sorte, che dentro di me ci fosse qualcosa di buono. La gente mi ha tormentata abbastanza,” aggiungeva, “ma almeno non ho mai fatto del male a nessuno.”
+
+Fleur de Marie considera la sua situazione non come qualcosa che abbia creato liberamente, né come l’espressione della propria personalità, ma come un destino che non si è meritata. La sua sfortuna può cambiare. È ancora giovane.
+
+<span class="atom-split" data-atom="050" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 3)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Good and evil, as Marie conceives them, are not the moral abstractions of good and evil. She is good because she has never caused suffering to anyone, she has always been human towards her inhuman surroundings. She is good because the sun and the flowers reveal to her her own sunny and blossoming nature. She is good because she is still young, full of hope and vitality. Her situation is not good, because it puts an unnatural constraint on her, because it is not the expression of her human impulses, not the fulfilment of her human desires; because it is full of torment and without joy. She measures her situation in life by ‘ her own individuality, her essential nature, not by the ideal of what is good.
 
@@ -2416,7 +4699,65 @@ As soon as she entered upon her improved situation, she said, she had felt only 
 
 “Every instant I thought of Monsieur Rudolph. I often raised my eyes to heaven, to look there, not for God, but for Monsieur Rudolph, and to thank him. Yes, I confess, Father, I thought more of him than of God; for he did for me what God alone could have done.... I was happy, as happy as someone who has escaped a great danger for ever.”
 
-<span class="atom-split" data-atom="051" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 4)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il bene e il male, così come Marie li concepisce, non sono astrazioni morali. Lei è buona perché non ha mai causato sofferenza a nessuno, perché si è sempre comportata con umanità nei confronti di un ambiente spesso inumano. È buona perché il sole e i fiori le rivelano la sua stessa natura serena e rigogliosa. È buona perché è ancora giovane, piena di speranza e vitalità. Tuttavia, la sua situazione non è certo positiva: rappresenta una restrizione innaturale per lei, non è l’espressione dei suoi impulsi umani né il soddisfacimento dei suoi desideri; è piena di tormento e priva di gioia. Lei valuta la propria condizione di vita in base alla propria individualità, alla propria natura essenziale, e non in base all’ideale del bene.
+
+In un ambiente naturale, dove i vincoli della vita borghese svaniscono e lei può manifestare liberamente la propria vera natura, Fleur de Marie trabocca d’amore per la vita, di ricchezza di sentimenti, di gioia umana di fronte alla [bellezza](/concepts/beauty) della natura; tutto ciò dimostra che la sua posizione sociale ha toccato solo in superficie il suo vero essere e rappresenta soltanto una sfortuna. Lei stessa non è né buona né cattiva, ma semplicemente umana.
+
+“Monsieur Rudolph, che felicità, erba, campi! Se mi permetteste di uscire, il tempo è così bello. Mi piacerebbe tantissimo correre in questi prati.”
+
+Scendendo dal carrozza, raccoglie fiori per Rudolph; è così felice che quasi non riesce a parlare, ecc., ecc.
+
+Rudolph le dice che la porterà alla fattoria di Madame George. Lì potrà vedere colombaie, stalle per le mucche e altro ancora; lì troveranno latte, burro, frutta, ecc. Queste sono vere benedizioni per quella bambina. Sarà felice, è questo il suo pensiero principale. “Non puoi immaginare quanto desideri divertirmi!” Spiega a Rudolph, in modo del tutto naturale, la propria responsabilità nella sua sfortuna: “Tutta la mia sorte dipende dal fatto che non ho risparmiato abbastanza denaro.” Per questo gli consiglia di essere parsimonioso e di mettere i soldi in banca. La sua fantasia vola libera tra i castelli immaginari che Rudolph le costruisce. Diventa triste soltanto perché.
+
+“Ha dimenticato il presente” e “il contrasto tra quel presente e il sogno di una vita gioiosa e piena di risate le ricorda la crudeltà della sua situazione”.
+
+Finora abbiamo visto Fleur de Marie nella sua forma originale, priva di qualsiasi elemento critico. Eugène Sue è riuscito a superare i limiti della sua ristretta visione del mondo; ha sfidato apertamente i pregiudizi borghesi. Ora consegnerà Fleur de Marie al protagonista Rudolph, affinché questi possa espiare la propria temerarietà e ricevere l’approvazione di tutti: degli anziani, dell’intera polizia di Parigi, della religione dominante e, anche della cosiddetta “Critica Critica”.
+
+Madame George, a cui Rudolph affida Fleur de Marie, è una donna religiosa, infelice e ipocondriaca. Accoglie immediatamente la bambina con parole lusinghiose: “Dio benedice coloro che Lo amano e Lo temono, coloro che sono stati infelici e si pentono”. Rudolph, l’uomo della “pura Critica”, fa chiamare il misero prete Laporte, i cui capelli sono diventati grigi a causa della superstizione. Il compito di Laporte è quello di attuare la “riforma critica” di Fleur de Marie.
+
+Con gioia e naturalezza, Marie si avvicina al vecchio prete. Nella sua brutalità cristiana, Eugène Sue fa sì che in lei risuoni immediatamente un “meraviglioso istinto” che le sussurra all’orecchio: “La vergogna finisce dove iniziano il pentimento e la penitenza”, cioè nella chiesa, l’unica che può salvare. Egli dimentica quella spensierata allegria derivante dalla gita, un’allegria generata dalla grazia della natura e dalla cordiale [simpatia](/positions/moral_sentiment) di Rudolph, e che era turbata soltanto dal pensiero di dover tornare presso la padrona di casa dei criminali.
+
+Il prete Laporte assume immediatamente un atteggiamento trascendente. Le sue prime parole sono:
+
+“La misericordia di Dio è infinita, mio caro figlio! L’ha dimostrato non abbandonandoti nelle tue gravi prove. Quell’uomo nobile che ti ha salvato ha adempiuto alla parola delle Scritture”: “Davvero il Signore è vicino a coloro che Lo invocano; esaudirà i loro desideri, ascolterà la loro voce e li salverà. Il Signore compirà la Sua opera.”
+
+Maria non riesce ancora a comprendere il significato malvagio degli esortamenti del prete. Risponde:
+
+“Pregherò per coloro che si sono compianti di me e mi hanno riportato verso Dio.”
+
+Il suo primo pensiero non è rivolto a Dio, ma al suo salvatore umano; vuole pregare per lui, e non per la propria assoluzione. Ritiene che la sua preghiera possa influenzare in qualche modo la salvezza degli altri. Infatti, è ancora così ingenua da credere di essere già stata riportata a Dio. Il sacerdote ritiene sia suo dovere distruggere questa illusione eretica.
+
+“Presto,” le dice interrompendola, “presto meriterai l’assoluzione, l’assoluzione dai tuoi grandi errori, perché, per citare ancora il profeta, il Signore sostiene coloro che sono sull’orlo della caduta.”
+
+Non si dovrebbe trascurare l’aspetto disumano delle espressioni utilizzate dal prete. Presto meriterete l’assoluzione. Ma i vostri peccati non sono ancora stati perdonati.
+
+Proprio come Laporte, quando riceve la ragazza, le infonde la consapevolezza dei suoi peccati, così Rudolph, quando la lascia, le dona una croce d’oro, simbolo della crocifissione cristiana che l’aspetta.
+
+Marie vive da alcuni tempi nella fattoria di Madame George. Ascoltiamo prima un dialogo tra il vecchio prete Laporte e Madame George.
+
+Ritiene che il “matrimonio” sia assolutamente fuori discussione per Marie “perché nessun uomo, nonostante le garanzie del prete, avrà il coraggio di affrontare il passato che ha macchiato la sua giovinezza”. Aggiunge: “Ha commesso grandi errori per cui deve espiare; il suo senso morale avrebbe dovuto impedirle di cadere in errore”.
+
+Prova, come farebbe qualsiasi borghese, che lei avrebbe potuto rimanere una persona virtuosa: “Oggi a Parigi ci sono molte persone virtuose”. Il prete ipocrita sa benissimo che, in qualsiasi momento della giornata, nelle strade più affollate, quelle persone virtuose di Parigi passano indifferentemente accanto a bambine di sette o otto anni che vendono zollette e simili fino a mezzanotte, proprio come faceva Marie; e quasi senza eccezione, quelle bambine avranno lo stesso destino di Marie.
+
+Il prete ha già preso una decisione riguardo alla penitenza di Maria; nella sua mente, l’ha già condannata. Seguiamo Maria mentre accompagna Laporte a casa la sera.
+
+“Vedi, mio bambino,” inizia con un’eloquenza untuosa, “quel orizzonte infinito il cui confine non è più visibile” (poiché è sera); “mi sembra che la calma e l’immensità di questo paesaggio ci diano quasi l’idea dell’[eternità](/positions/eternity). Ti dico queste cose, Marie, perché sei sensibile alle bellezze della creazione. Spesso sono stato commosso dall’ammirazione religiosa che esse suscitano in te, tu che per tanto tempo sei stata privata di sentimenti religiosi.”
+
+Il prete è già riuscito a trasformare il piacere ingenuo e immediato di Marie per le bellezze della natura in un’ammirazione religiosa. Per lei, la natura è ormai diventata una natura devota, cristianizzata, degradata a semplice creazione umana. Il “mare trasparente” dello spazio è stato profanato e trasformato nel simbolo oscuro di un’eternità stagnante. Lei ha già imparato che tutte le manifestazioni umane della sua esistenza sono “profane”, prive di religione, di vera consacrazione; considerate empie e irreligiose. Il prete deve contaminare tutto ciò che in lei è naturale e spirituale, deve calpestare i suoi mezzi naturali di grazia, affinché lei diventi ricettiva ai mezzi soprannaturali di grazia che le promette: il battesimo.
+
+Quando Marie vuole fargli una confessione e gli chiede di essere clemente, lui risponde:
+
+“Il Signore vi ha dimostrato di essere misericordioso.”
+
+Nella clemenza che le viene dimostrata, Maria non deve considerarla un atteggiamento naturale e ovvio da parte di una persona umana nei suoi confronti; deve invece vedervi una misericordia e una condiscendenza straordinarie, soprannaturali, sovrumane; nella benevolenza umana deve riconoscere la misericordia divina. Deve trascendentalizzare tutte le relazioni umane e naturali, considerandole come rapporti con Dio. Il modo in cui Fleur de Marie accetta, nella sua risposta, i discorsi del prete sulla misericordia divina dimostra fino a che punto sia già stata influenzata dalla dottrina religiosa.
+
+Non appena aveva iniziato a godere di quella situazione migliore, disse di aver provato soltanto la propria nuova felicità.
+
+“In ogni istante pensavo a Monsieur Rudolph. Spesso alzavo lo sguardo verso il cielo, non per cercare Dio, ma per cercare lui e ringraziarlo. Sì, confesso, Padre: pensavo più a lui che a Dio; perché lui fece per me ciò che solo Dio avrebbe potuto fare. Ero felice, felice come chi sia scampato per sempre a un grande pericolo.”
+
+<span class="atom-split" data-atom="051" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 4)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Fleur de Marie already finds it wrong that she took a new happy situation in life simply for what it really was, that she felt it as a new happiness, that her attitude to it was a natural, not a supernatural one. She accuses herself of seeing in the man who rescued her what he really was, her rescuer, instead of supposing some imaginary saviour, God, in his place. She is already caught in religious hypocrisy, which takes away from another man what he has deserved in respect of me in order to give it to God, and which in general regards everything human in man as alien to him and everything inhuman in him as really belonging to him.
 
@@ -2506,7 +4847,97 @@ The maître d’école is a criminal of Herculean strength and great intellectua
 
 Rudolph captures this criminal. He wants to reform him critically and set him up as an example for the world of law. He quarrels with the world of law not over “punishment” itself, but over kinds and methods of punishment. He invents, as the Negro doctor David aptly expresses it, a penal theory which would be worthy of the “greatest German criminal expert”, and which has since had the good fortune to be defended by a German criminal expert with German earnestness and German thoroughness. Rudolph has not the slightest idea that one can rise above criminal experts: his ambition is to be “the greatest criminal expert”, primus inter pares . He has the maître d’école blinded by the Negro doctor David.
 
-<span class="atom-split" data-atom="052" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 5)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Fleur de Marie ritiene già sbagliato aver accolto una nuova situazione felice nella propria vita semplicemente per ciò che realmente era, averla considerata una nuova fonte di felicità e averne adottato un atteggiamento naturale, e non soprannaturale. Si rimprovera di vedere nell’uomo che l’ha salvata ciò che veramente era – il suo salvatore – invece di immaginare al suo posto qualche salvatore immaginario, come Dio. È già intrappolata nell’ipocrisia religiosa: questa pratica le toglie da un altro uomo ciò che egli merita per lei e lo dona a Dio; in generale, considera tutto ciò che è umano nell’uomo come estraneo a lui, mentre tutto ciò che è inumano sembra invece appartenergli veramente.
+
+Marie ci racconta che la trasformazione religiosa dei suoi pensieri, dei suoi sentimenti, della sua attitudine verso la vita fu determinata da Madame George e Laporte.
+
+“Quando Rudolph mi portò via dalla Cité, avevo già una vaga consapevolezza della mia degradazione. Ma l’[educazione](/concepts/education), i consigli e gli esempi che ho ricevuto da voi e da Madame George mi hanno fatto capire, che ero più colpevole che sfortunata. Voi e Madame George mi avete fatto rendere conto della profondità infinita della mia condanna.”
+
+In altre parole, lei deve al prete Laporte e a Madame George il fatto che la coscienza umana, e quindi tollerabile, legata alla sua degradazione, sia stata sostituita da una coscienza cristiana, e quindi insopportabile, legata all’eterna dannazione. Il prete e il bigotto le hanno insegnato a giudicarsi dal punto di vista cristiano.
+
+Marie percepisce la profondità della sfortuna spirituale nella quale è stata gettata. Dice:
+
+“Poiché la consapevolezza del bene e del male doveva essere così terribile per me, perché non sono stato lasciato al mio misero destino?. Se non fossi stato strappato all’infamia, la miseria e i colpi mi avrebbero presto ucciso. Almeno sarei morto ignorando quella purezza che desidererò sempre invano.”
+
+Il crudele prete risponde:
+
+“Anche la natura più nobile, se venisse gettata per un solo giorno nella sporcizia da cui siete stati salvati, ne rimarrebbe indelebilmente segnata. Questa è l’immutabilità della giustizia divina!”
+
+Profondamente ferita da questa maledizione sacerdotale pronunciata con toni così dolci, Fleur de Marie esclama:
+
+“Quindi, vedi, devo disperare!”
+
+Il “schiavo” dai capelli grigi della religione risponde:
+
+“Dovete rinunciare alla speranza di cancellare questa pagina desolata dalla vostra vita, ma dovete confidare nella misericordia infinita di Dio. Qui giù, mio povero bambino, troverete lacrime, rimorso e penitenza, ma un giorno lassù, perdono e beatitudine eterna!”
+
+Maria non è ancora abbastanza stupida da accontentarsi di una felicità eterna e del perdono lassù in cielo.
+
+“Pietà, pietà, mio Dio!” grida lei. “Sono così giovane. Che sfortuna per me!”
+
+Allora l’ipocrita sofistica del prete raggiunge il suo apice:
+
+“Al contrario, felicità per te, Marie; felicità per te a cui il Signore invia questo amaro ma salvifico rimorso! Questo dimostra la sensibilità religiosa della tua anima. Ogni una delle tue sofferenze viene contata con favore. Credimi, Dio ti ha lasciato per un po’ sulla strada del male soltanto per riservarti la gloria del pentimento e la ricompensa eterna dovuta all’espiazione.”
+
+Da questo momento Marie è schiava della coscienza del peccato. Nella sua precedente situazione più infelice della vita era riuscita a sviluppare un’individualità umana e amabile; nella sua condizione esterna di degradazione, era consapevole che la sua essenza umana fosse la sua vera essenza. Ora, la sporcizia della società moderna, che l’ha toccata dall’esterno, diventa la sua stessa essenza più profonda; e il continuo auto-torturarsi per causa di quella sporcizia diventa il suo dovere, il compito assegnatole da Dio stesso, lo scopo della sua esistenza. In passato diceva di sé: “Non sono una persona piagnucolona” e sapeva che “ciò che è stato fatto, è stato fatto”. Ora, l’auto-tortura diventa il suo bene, e il rimorso la sua gloria.
+
+In seguito si scopre che Fleur de Marie è la figlia di Rudolph. La ritroviamo in seguito come Principessa di Geroldstein; ascoltiamo una conversazione che ha con suo padre:
+
+“In vano prego Dio di liberarmi da queste ossessioni, di riempire il mio cuore esclusivamente con il suo amore pio e le sue speranze sacre; in altre parole, di prendersi completamente cura di me, poiché desidero donarmi interamente a Lui. Ma Egli non esaudisce i miei desideri, senza dubbio perché le mie preoccupazioni terrene mi rendono indegna della Sua comunione.”
+
+Quando l’uomo si rende conto che i suoi peccati rappresentano crimini infiniti contro Dio, può essere certo della salvezza e della misericordia soltanto se si dona completamente a Dio, diventando totalmente indifferente al mondo e alle sue preoccupazioni. Quando Fleur de Marie comprende che la sua liberazione da quella condizione disumana è stato un [miracolo](/concepts/miracle) di Dio, lei stessa deve diventare una santa per essere degna di un simile miracolo. Il suo amore umano deve trasformarsi in amore religioso, il desiderio di felicità in ricerca della beatitudine eterna, la soddisfazione mondana in speranza sacra, e la comunione con gli uomini in comunione con Dio. Dio deve assumerla completamente; è lei stessa a rivelarci perché non lo fa ancora: non si è ancora donata interamente a Lui, il suo cuore è ancora occupato dalle cose terrene. Questo rappresenta l’ultimo barlume della sua natura forte. Si dona completamente a Dio diventando totalmente indifferente al mondo e entrando in un convento.
+
+Un monastero non è il posto adatto per lui.
+
+Chi non possiede un “magazzino” di peccati accumulati dentro di sé.
+
+Tanto numerosi e così grandi.
+
+Che sia presto o tardi.
+
+Forse non perderà quella dolce gioia.
+
+Come penitenza per un cuore pentito.
+
+Nel convento, grazie alle intrighi di Rudolf, Fleur de Marie viene promossa ad abbadessa. All’inizio rifiuta di accettare questa nomina perché si sente indegna. L’anziana abbadessa la persuade.
+
+“Dirò di più, mia cara figlia: se prima di entrare nella comunità la tua vita fosse stata piena di errori, proprio come invece è stata pura e lodevole, le virtù evangeliche di cui hai dato esempio da quando sei qui avrebbero compensato e redento il tuo passato agli occhi del Signore, per quanto peccaminoso esso fosse.”
+
+Dai discorsi dell’abbadessa, si evince che le virtù terrene di Fleur de Marie sono diventate virtù evangeliche; in altre parole, le sue vere virtù non possono più manifestarsi in altro modo se non come caricature evangeliche.
+
+Maria risponde all’abbadessa:
+
+“Santa Madre, ora credo di poter accettare.”
+
+La vita monastica non si adatta all’individualità di Maria; lei muore. Il cristianesimo la consola soltanto nell’immaginazione; piuttosto, il conforto cristiano consiste proprio nella distruzione della sua vita reale e della sua essenza: la sua morte.
+
+Quindi Rudolph trasformò prima Fleur de Marie in una peccatrice pentita, poi la peccatrice pentita in un’monaca e infine l’monaca in un cadavere. Alla sua sepoltura, non solo il sacerdote cattolico, ma anche il sacerdote “critico” Szeliga tenne un sermone sulla sua tomba.
+
+La sua esistenza “innocente” lui la definisce un’esistenza “effimera”, opponendola alla “colpa eterna e indimenticabile”. Loda il fatto che il suo “ultimo respiro” sia stato una “preghiera di perdono e remissione”. Ma proprio come il pastore protestante, dopo aver esposto la necessità della misericordia del Signore, la partecipazione del defunto al [peccato originale](/positions/original_sin) universale e l’intensità della sua consapevolezza del peccato, deve lodare le virtù del defunto in termini terreni, così anche il signor Szeliga utilizza questa espressione.
+
+“Eppure, personalmente, lei non ha nulla per cui chiedere scusa.”
+
+Infine, getta sulla tomba di Marie il fiore più appassito dell’eloquenza oratoria.
+
+“Purissima nell’intimo, come raramente lo sono gli esseri umani, ha chiuso gli occhi di fronte a questo mondo.”
+
+Amen!
+
+3) [Rivelazione](/concepts/revelation) dei Misteri del Diritto
+
+a) Il maestro di scuola, o la Nuova Teoria Penale.
+
+Rivelato il mistero della reclusione solitaria.
+
+Misteri Medici
+
+Il maestro di scuola è un individuo dotato di una forza herculeana e di un grande vigore intellettuale; è stato educato in modo colto e istruito. Questo appassionato atleta entra in conflitto con le leggi e i costumi della società borghese, la cui misura universale è la mediocrità, una morale delicata e un commercio tranquillo. Diventa un assassino e si abbandona a tutti gli eccessi di un temperamento violento che non trova alcuna occupazione umana adatta a sé.
+
+Rudolph cattura questo criminale; vuole riformarlo radicalmente e farne un esempio per il mondo della giustizia. Si scontra con il mondo legale non riguardo alla “punizione” in sé, ma ai suoi tipi e metodi. Come ha detto acutamente il dottore nero David, Rudolph inventa una teoria penale degna del “miglior esperto criminologo tedesco”; questa teoria è stata poi difesa con grande impegno e meticolosità da un altro esperto criminologo tedesco. Rudolph non ha la minima idea che si possa superare il livello degli esperti criminologi: la sua ambizione è diventare “il più grande esperto criminologo”, al di sopra di tutti gli altri. Ha, in altre parole, un maestro che è stato accecato dal dottore nero David.
+
+<span class="atom-split" data-atom="052" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 5)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 At first Rudolph repeats all the trivial objections to capital punishment: that it has no effect on the criminal and no effect on the people, for whom it seems to be an entertaining spectacle.
 
@@ -2548,7 +4979,49 @@ We next meet the maître d’école as he is going with a woman called Chouette 
 
 “He has taken away my sight but not the thought of evil.”
 
-<span class="atom-split" data-atom="053" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 6)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+All’inizio, Rudolph ripete tutte le obiezioni banali contro la pena di morte: che essa non abbia alcun effetto sul criminale e nemmeno sulla gente, per la quale sembra rappresentare soltanto uno spettacolo divertente.
+
+Inoltre, Rudolph stabilisce una distinzione tra il “maître d’école” in senso materiale e l’“anima” di tale figura. Non è l’uomo stesso, non il vero “maître d’école”, che desidera salvare; ciò che vuole è la salvezza spirituale della sua “anima”.
+
+“La salvezza di un’anima,” insegna, “è qualcosa di sacro. Ogni crimine può essere espiato e redento, disse il Salvatore, ma solo se il colpevole desidera sinceramente pentirsi ed espiare. Il passaggio dal tribunale alla forca è troppo breve. Tu” (il maestro d’scuola) “hai abusato criminalmente della tua forza; io la paralizzerò. Tremerai di fronte al più debole; la tua punizione sarà proporzionata al tuo crimine. Ma questa terribile punizione ti lascerà almeno l’orizzonte infinito dell’espiazione. Ti isolerò dal mondo esterno, per gettarti nell’oscurità impenetrabile e lasciarti solo con il ricordo dei tuoi atti ignominiosi. Sarai costretto a guardare dentro te stesso. La tua intelligenza, che hai degradato, verrà risvegliata e ti guiderà verso l’espiazione.”
+
+Poiché Rudolph considera l’anima sacra e il corpo umano profano, poiché ritiene che solo l’anima sia la vera essenza dell’uomo – poiché, secondo la descrizione critica dell’umanità fornita da Herr Szeliga, essa appartiene al cielo – allora il corpo e la forza del maestro di scuola non fanno parte dell’essenza umana; pertanto, la manifestazione di tale forza non può assumere forma umana né essere considerata essenzialmente umana. Il maestro di scuola ha abusato della sua forza; Rudolph paralizza, danneggia, distrugge quella forza. Non esiste mezzo critico più efficace per eliminare le manifestazioni perverse di una forza umana essenziale se non la distruzione stessa di tale forza. Questo è il metodo cristiano: strappare l’occhio se offende, tagliare la mano se offende; in altre parole, uccidere il corpo se questo causa danno. Poiché occhio, mano e corpo non sono altro che appendici superflue e peccaminose dell’uomo. Per guarire i mali dell’[natura umana](/axes/human_nature), essa deve essere “uccisa”. Anche la giurisprudenza di massa, in questo accordo con il punto di vista critico, vede nella paralizzazione e nel danneggiamento della forza umana l’antidoto alle sue manifestazioni negative.
+
+Quello che Rudolph, l’uomo della pura Critica, contesta nella giustizia penale profana è il passaggio troppo rapido dal tribunale alla forca. Lui, invece, vuole collegare la vendetta verso il criminale alla penitenza e alla consapevolezza del peccato da parte di quest’ultimo, la punizione corporale a quella spirituale, la tortura sensuale alla tortura non sensuale del rimorso. La punizione profana deve essere al contempo un mezzo di [educazione](/concepts/education) morale cristiana.
+
+Questa teoria penale, che collega la giurisprudenza alla teologia, questo “mistero rivelato tra i misteri”, non è altro che la teoria penale della Chiesa Cattolica, già ampiamente esposta da Bentham nel suo libro *Punishments and Rewards*. In quell’opera Bentham dimostrò anche l’inutilità morale delle punizioni attuali, definendo le sanzioni legali “parodie legali”.
+
+La punizione che Rudolph inflisse al maestro di scuola è la stessa che Origene si impose da solo. Gli privò di un organo produttivo: l’occhio. “L’occhio è la luce del corpo”. È davvero degno dell’istinto religioso di Rudolph il fatto che abbia pensato proprio alla cecità come forma di punizione. Questa pena era diffusa nell’impero cristiano di Bisanzio e raggiunse il suo apice nei periodi più ferventi degli stati germanico-cristiani d’Inghilterra e Francia. Tagliare l’uomo dal mondo esterno per farlo ritornare alla sua natura interiore astratta, al fine di correggerlo, la cecità, è una conseguenza necessaria della dottrina cristiana, secondo cui tale isolamento, l’assoluta separazione dell’uomo nel suo “ego” spiritualista, rappresenta in sé qualcosa di positivo. Se Rudolph non rinchiuse il maestro di scuola in un vero monastero, come avveniva a Bisanzio e in Franconia, almeno lo rinchiuse in un “monastero ideale”: nel silenzio di una notte impenetrabile dalla luce esterna, nel regno di una coscienza vuota e piena di fantasmi del passato.
+
+Una certa timidezza speculativa impedisce al signor Szeliga di discutere apertamente della teoria penale del suo eroe Rudolph, secondo cui la punizione mondana deve essere legata al pentimento e all’espiazione cristiani. Invece, attribuisce a lui – naturalmente come un mistero che sta appena venendo rivelato al mondo – la teoria secondo cui la punizione debba rendere il criminale “giudice” del proprio “proprio” crimine.
+
+Il mistero di questo “mistero rivelato” è la teoria penale di Hegel. Secondo Hegel, il criminale, nella sua punizione, si condanna da solo. Gans ha sviluppato questa teoria in modo più approfondito. In Hegel, ciò rappresenta una mascheratura speculativa dell’antico principio del “tale per tale”; Kant aveva esposto questo principio come l’unica teoria penale giuridicamente valida. Per Hegel, il giudizio autonomo del criminale rimane soltanto un’“idea”, una semplice interpretazione speculativa delle punizioni empiriche attualmente in uso contro i criminali. Egli lascia quindi la modalità di applicazione di tali punizioni al rispettivo stadio di sviluppo dello [stato](/concepts/state), cioè lascia le punizioni così come sono. Proprio in questo aspetto, Hegel si dimostra più critico del suo stesso “eco critico”. Una teoria penale che consideri il criminale come un essere umano può farlo soltanto in astrazione, nell’immaginazione; infatti, la punizione e la coercizione sono contrarie al comportamento umano. Inoltre, una tale teoria sarebbe impossibile da attuare: l’arbitrarietà puramente soggettiva sostituirebbe la legge astratta, poiché dipenderebbe sempre dagli agenti ufficiali, “onorevoli e rispettabili”, per adattare la punizione alle caratteristiche individuali del criminale. Platone aveva già compreso da tempo che la legge deve essere imparziale e non tenere conto delle singole individuazioni. D’altra parte, nelle condizioni umane, la punizione non è altro che la condanna che il colpevole si infligge da solo. Nessuno vorrà convincerlo che la violenza subita dall’esterno da altri sia in realtà la stessa violenza che egli stesso ha commesso; al contrario, vedrà negli altri i suoi salvatori naturali dalla punizione che si è imposto. In altre parole, il rapporto tra colpevole e punizione viene invertito.
+
+Rudolph esprime il suo pensiero più profondo, ovvero lo scopo della cecazione del maestro di scuola, quando gli dice:
+
+“Ogni tua parola sarà una preghiera.”
+
+Vuole insegnargli a pregare. Vuole trasformare quel rapinatore possente in un monaco il cui unico compito sia la preghiera. Rispetto a questa crudeltà cristiana, quanto più umana appare invece la normativa penale tradizionale, che si limita semplicemente a decapitare una persona quando vuole distruggerla. È ovvio che, ogni volta che una legge di massa si è impegnata seriamente nel miglioramento della condizione dei criminali, ha agito in modo incomparabilmente più sensato e umano rispetto ad Harun al-Rashid. Le quattro colonie agricole olandesi e la colonia penale di Ostwald in Alsazia rappresentano davvero tentativi umani concreti. Al contrario, accecare l’insegnante è come Rudolph che uccide Fleur de Marie consegnandola al prete e alla coscienza del peccato; derubarlo della sua indipendenza umana e degradarlo a una sorta di “bulldog” è come lui che uccide Chourineur. In entrambi i casi, si tratta di privare qualcuno della possibilità di vivere in modo umano.
+
+È ovviamente in questo modo che tutta la realtà emerge “semplicemente” dalla “pura Critica”, cioè come una distorsione e un’astrazione priva di senso della realtà stessa.
+
+Immediatamente dopo che l’accecamento del maestro, il signor Szeliga, provoca la realizzazione di un vero e proprio [miracolo](/concepts/miracle) morale.
+
+“Quel terribile maestro di scuola,” racconta, “si rese improvvisamente conto del potere dell’onestà e della decenza, e disse a Schurimann: ‘Sì, posso fidarmi di te, non hai mai rubato nulla.’”
+
+Purtroppo Eugène Sue ha trascritto una dichiarazione del maestro di scuola riguardo a Chourineur che contiene lo stesso [riconoscimento](/concepts/recognition); quindi non si può escludere l’effetto derivante dal fatto che fosse stato accecato, poiché tale dichiarazione fu fatta in un momento precedente. Parlando da solo con Rudolph, il maestro di scuola disse qualcosa riguardo a Chourineur.
+
+“Inoltre, non è capace di tradire un amico. No, c’è qualcosa di buono in lui, ha sempre avuto idee strane.”
+
+Ciò sembrerebbe eliminare il “miracolo morale” di Herr Szeliga. Ora vedremo i veri risultati della “cura critica” proposta da Rudolph.
+
+In seguito incontriamo il maître d’école mentre accompagna una donna di nome Chouette alla fattoria Bouqueval per compiere un trucco sleale contro Fleur de Marie. Il pensiero che domina in lui è, naturalmente, quello della vendetta verso Rudolph. Tuttavia, l’unico modo che conosce per vendicarsi è di natura metafisica: consiste nel pensare e ideare “cattive” strategie per fargli del male.
+
+“Gli ha tolto la mia vista, ma non la capacità di pensare al male.”
+
+<span class="atom-split" data-atom="053" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 6)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 He tells Chouette why he had sent for her:
 
@@ -2584,7 +5057,43 @@ Chouette tries to get away from the maître d’école. He notices it and holds 
 
 “Keep still, Chouette, I must finish explaining to you how I gradually came to repentance.... This [revelation](/concepts/revelation) will be hateful to you ... and it will also show you how pitiless I must be in the vengeance I want to wreak on you in the name of our victims.... I must hurry.... The joy of having you here in my hands makes the blood pound in my veins.... I shall have time to make the approach of your death terrifying to you by forcing you to listen to me.... I am blind ... and my thoughts take a shape, a body, such that they incessantly present to me visibly, almost palpably ... the features of my victims.... The ideas are reflected almost materially in my brain. When repentance is linked with an atonement of terrifying severity, an atonement that changes our life into a long sleeplessness filled with hallucinations of revenge or desperate reflections ... then, perhaps, the pardon of men follows remorse and atonement.”
 
-<span class="atom-split" data-atom="054" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 7)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Le spiega perché l’aveva chiamata.
+
+“Mi annoiavo da solo in compagnia di quelle persone oneste.”
+
+Quando Eugène Sue soddisfa i suoi desideri lussuriosi e bestiali umiliando l’uomo al punto di far pregare in ginocchio il maestro perché la vecchia strega Chouette e il piccolo demonietto Tortillard non lo abbandonino, quel grande moralista dimentica che per Chouette questo rappresenta il culmine della soddisfazione demoniaca. Proprio come Rudolph, con l’atto violento di accecare il criminale, gli dimostrò il potere della forza fisica – che Eugène Sue ora vuole far credere insignificante – così Eugène Sue insegna al maestro a riconoscere veramente la piena potenza dei sensi. Gli fa capire che senza di essi l’uomo diventa un essere impotente, preda della derisione dei bambini; lo convince che il mondo meritasse i suoi crimini, poiché bastava che perdesse la vista perché venisse maltrattato da esso. Gli toglie anche l’ultima illusione umana: fino ad allora il maestro credeva nell’affetto di Chouette per lui; aveva detto a Rudolph: “Per me si sarebbe gettata nel fuoco”. Eugène Sue, invece, gode nel sentire il maestro gridare nel profondo della disperazione.
+
+“Mio Dio! Mio Dio! Mio Dio!”
+
+Ha imparato a “pregare”. In questo “involontario appello alla compassione divina”, Eugène Sue scorge “qualcosa di provvidenziale”.
+
+Il primo risultato della “Critica” di Rudolph è questa preghiera spontanea. Subito dopo ne segue un’espiazione involontaria nella fattoria di Bouqueval, dove gli spiriti di coloro che il maestro d’école aveva assassinato gli appaiono in sogno.
+
+Non forniremo una descrizione dettagliata di questo sogno. Successivamente, troviamo il maestro d’scuola riformato in modo critico, incatenato nel seminterrato del “Bras rouge”: parzialmente divorato dai topi, quasi morto di fame e completamente pazzo a causa delle torture inflitte da Chouette e Tortillard, che urla come una bestia. È stato proprio Tortillard ad affidargli Chouette. Osserviamo ora il trattamento che le infligge. Non solo imita l’eroe Rudolph nell’aspetto esteriore – strappandole gli occhi – ma anche a livello morale, ripetendo la sua ipocrisia e arricchendo i suoi atti crudeli con frasi piene di “pietà”. Non appena il maestro d’scuola ha Chouette in suo potere, esprime una “gioia spaventosa”; la sua voce trema di rabbia.
+
+“Capisci che non voglio finire tutto subito. Tortura per tortura. Devo parlare a lungo con te prima di ucciderti. Sarà terribile per te. Prima di tutto, da quando quel sogno nella fattoria di Bouqueval ha riportato tutti i nostri crimini davanti ai miei occhi, da quando quel sogno quasi mi ha fatto impazzire, e che mi farà impazzire, in me è avvenuto un cambiamento strano. Ora provo orrore per la mia crudeltà passata. All’inizio non ti avrei permesso di torturare quella cantante, ma quello non era nulla. Portandomi in questo seminterrato e facendomi soffrire il freddo e la fame, mi hai lasciato esposto al terrore dei miei stessi pensieri. Oh, tu non sai cosa significhi essere soli. L’isolamento mi ha purificato. Non avrei mai creduto che fosse possibile. Questo dimostra forse che ora sono meno spregevole di prima. Che gioia infinita provo nel saperti sotto il mio controllo, mostro. Non per vendicarmi, ma per vendicare le nostre vittime. Sì, avrò adempiuto al mio dovere quando punirò il mio complice con le mie stesse mani. Ora provo orrore per i crimini che ho commesso in passato. Eppure, non ti sembra strano? Senza paura e con assoluta calma, sto per commettere un altro terribile omicidio su di te, con metodi particolarmente crudeli. Dimmi, capisci davvero tutto questo?”
+
+Con quelle poche parole, il maestro di scuola esamina un intero spettro di questioni morali e giuridiche.
+
+Le sue prime parole rappresentano un’espressione schietta del suo desiderio di vendetta: vuole infliggere dolore per dolore, uccidere Chouette e prolungare la sua agonia con un lungo sermone. E – che deliziosa sofisticazione! – il discorso con cui la tormenta è in realtà un sermone morale. Afferma che il sogno vissuto a Bouqueval lo abbia migliorato; allo stesso tempo, però, ammette che quel sogno l’abbia quasi fatto impazzire e che probabilmente lo farà davvero. Come prova della sua “riforma”, adduce il fatto di aver impedito che Fleur de Marie venisse torturata. I personaggi di Eugène Sue – prima Chourineur, ora il maestro di scuola – devono esprimere, come risultato dei loro pensieri e come motivo consapevole delle loro azioni, le intenzioni dello stesso autore: quelle che lo spingono a farli comportare in un certo modo e non in altro. Devono continuamente “dire” che si sono riformati. In questo, in quello, ecc. Poiché la loro vita non ha alcun contenuto reale, le loro parole devono conferire un significato particolare anche a azioni insignificanti, come quella di proteggere Fleur de Marie.
+
+Dopo aver descritto l’effetto benefico del suo sogno di Bouqueval, il maestro d’école deve spiegare perché Eugène Sue lo abbia rinchiuso in un seminterrato. Deve rendere ragionevole la decisione dello scrittore. Deve dire a Chouette: “Rinchiudendomi in un seminterrato, facendomi soffrire per i topi e la fame, hai completato la mia ‘riforma’. La solitudine mi ha purificato.”
+
+Il ruggito bestiale, quella “furia selvaggia”, quel terribile desiderio di vendetta con cui il maestro accoglie Chouette sono in totale contraddizione con queste parole morali. Rivelano quali pensieri occupassero la sua mente nel suo sotterraneo.
+
+Sembra che lo stesso maestro di scuola se ne renda conto, ma essendo un moralista critico, sa come conciliare queste contraddizioni.
+
+Afferma che la “gioia infinita” di avere Chouette sotto il suo controllo sia proprio un segno della sua “riforma”, poiché il suo desiderio di vendetta non è naturale, ma morale. Vuole vendicarsi non per sé stesso, ma per le vittime comuni sia di Chouette che sue. Se la uccide, non commette un omicidio: adempie a un dovere. Non si vendica su di lei, ma punisce il suo complice come un giudice imparziale. Rabbrividisce al pensiero dei propri omicidi passati e, nonostante ciò, meravigliandosi della propria logica distorta, le chiede: “Non ti sembra strano? Senza paura e con estrema calma, sto per ucciderti.” Su basi morali che non rivela, si compiace al contempo all’idea dell’omicidio che sta per commettere, considerandolo un omicidio terribile, un omicidio caratterizzato da una crudeltà estrema.
+
+È proprio in linea con il carattere di quel maestro che abbia ucciso Chouette, soprattutto dopo la crudeltà con cui lei lo aveva trattato. Ma che commetta un omicidio per motivi morali, che dia un’interpretazione morale al suo sadico piacere nell’atto criminoso e nelle atrocità che ha compiuto, e che mostri rimorso per gli omicidi precedenti proprio commettendone uno nuovo. Che da un semplice assassino diventi, in senso duplice, un “assassino morale”. Tutto questo rappresenta il risultato glorioso della “cura critica” di Rudolph.
+
+Chouette cerca di allontanarsi dal maestro di scuola; lui se ne accorge e la trattiene saldamente.
+
+“Stai ferma, Chouette. Devo finire di spiegarti come abbia gradualmente raggiunto il pentimento. Questa [rivelazione](/concepts/revelation) sarà odiosa per te. E ti mostrerà anche quanto possa essere spietata la vendetta che intendo compiere su di te in nome delle nostre vittime. Devo affrettarmi. La gioia di averti qui, nelle mie mani, fa battere più forte il sangue nelle mie vene. Avrò il tempo di rendere l’attimo della tua morte ancora più terribile, costringendoti ad ascoltarmi. Sono cieca. I miei pensieri assumono una forma concreta, si materializzano davanti ai miei occhi. Le sembianze delle mie vittime appaiono continuamente, in modo quasi palpabile. Queste idee si riflettono letteralmente nel mio cervello. Quando il pentimento è accompagnato da un’espiazione di terribile severità, quando quell’espiazione trasforma la nostra vita in un lungo stato di insonnia pieno di allucinazioni e pensieri disperati, allora, forse, il perdono degli uomini segue il rimorso e l’espiazione.”
+
+<span class="atom-split" data-atom="054" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 7)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 The maître d’école continues with his hypocrisy which every minute betrays itself as such. Chouette must hear how he came by degrees to repentance. This [revelation](/concepts/revelation) will be hateful to her, for it will prove that it is his duty to take a pitiless revenge on her, not in his own name, but in the name of their common victims. Suddenly the maître d’école interrupts his didactic lecture. He must, he says, “hurry” with his lecture, for the pleasure of having her in his hands makes the blood pound in his veins; that is a moral reason for cutting the lecture short! Then he calms his blood again. The long time that he takes in preaching her a moral sermon is not wasted for his revenge. It will “make the approach of death terrifying” for her. That is a different moral reason, one for protracting his sermon! And having such moral reasons he can safely resume his moral text where he left off.
 
@@ -2656,7 +5165,79 @@ b) Reward and Punishment. Double Justice
 
 The hero Rudolph reveals a new theory to keep society upright by rewarding the good and punishing the wicked. Un-Critically considered, this theory is nothing but the theory of society as it is today. How little lacking it is in rewards for the good and punishments for the wicked! Compared with this revealed mystery, how un-Critical is the mass-type Communist Owen, who sees in punishment and reward the consecration of differences in social rank and the complete expression of a servile abasement.
 
-<span class="atom-split" data-atom="055" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 8)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il maestro continua con la sua ipocrisia, che ogni minuto viene smascherata come tale. Chouette deve ascoltare come lui sia giunto gradualmente al pentimento. Questa [rivelazione](/concepts/revelation) le sarà odiosa, perché dimostrerà che è suo dovere vendicarsi di lei senza pietà, non a proprio nome, ma in nome delle loro vittime comuni. All’improvviso il maestro interrompe la sua predica didattica: deve “affrettarsi”, dice, perché il piacere di averla sotto controllo fa battere più forte il sangue nelle sue vene. Questo è un motivo “morale” per concludere presto. Poi si calma di nuovo. Il tempo che impiega a predicarle un sermone morale non va sprecato: servirà a rendere l’avvicinarsi della morte ancora più terribile per lei. Questo è un altro “motivo morale” per prolungare il suo discorso. E avendo questi motivi morali, può tranquillamente riprendere il suo sermone dal punto in cui lo aveva interrotto.
+
+Il maestro di scuola descrive con precisione lo stato in cui l’isolamento dal mondo esterno riduce un uomo. Per colui per il quale il mondo percepibile attraverso i sensi diventa soltanto un’idea, anche le semplici idee si trasformano in entità percepibili sensorialmente; le fantasie della sua mente assumono una forma corporea, generando nel suo interno un mondo di “fantasmi” tangibili e palpabili. Questo è il segreto di tutte le visioni “pietre”, ma allo stesso tempo rappresenta anche la forma generale della follia. Quando il maestro di scuola ripete le parole di Rudolph riguardo al “potere del pentimento e dell’espiazione legati a terribili tormenti”, lo fa in uno stato di semi-pazzia, dimostrando così concretamente il legame tra la coscienza cristiana del peccato e la follia. Allo stesso modo, quando considera la trasformazione della vita in una “notte di sogni” popolata da fantasmi come il vero risultato del pentimento e dell’espiazione, esprime il vero mistero della Critica pura e della riforma cristiana: trasformare l’uomo in un fantasma e la sua vita in una vita fatta di sogni.
+
+A questo punto, Eugène Sue si rende conto di come i pensieri “salutari” che fa pronunciare al ladro cieco riguardo a Rudolph diventeranno ridicoli di fronte al modo in cui il ladro tratterà Chouette. Ecco perché fa dire al maestro di scuola:
+
+“L’influenza benefica di questi pensieri è tale da placare la mia rabbia.”
+
+Quindi, l’insegnante ammette ora che la sua ira morale non era altro che una rabbia profana.
+
+“Manco del coraggio, della forza, della volontà di ucciderti. No, non spetta a me versare il Tuo sangue. Sarebbe, omicidio. Forse un omicidio giustificabile, ma comunque omicidio.”
+
+Chouette ferisce l’insegnante con un pugnale proprio nel momento giusto. Ora Eugène Sue può permettergli di ucciderla senza alcuna ulteriore esitazione morale.
+
+“Emise un grido di dolore. La sua intensa passione per la vendetta, la rabbia e l’istinto sanguinario, improvvisamente risvegliati e intensificati da questo attacco, scatenarono una reazione terribile; la sua già fragile ragione andò completamente in frantumi. Viper! Ho sentito i tuoi denti velenosi. Anche tu diventerai cieco, proprio come me.”
+
+E le graffia gli occhi.
+
+Quando la vera natura di quel “maestro di scuola”, che è stata soltanto ipocritamente e sofisticatamente mascherata, soltanto asceticamente repressa dal trattamento di Rudolph, esplode, tale esplosione diventa ancora più violenta e spaventosa. Dobbiamo essere grati a Eugène Sue per aver ammesso che le convinzioni di quel “maestro di scuola” sono state profondamente scosse da tutti gli eventi che Rudolph aveva preparato.
+
+“L’ultima scintilla della sua ragione si spense in quel grido di terrore, in quel grido di un’anima dannata” (vede i fantasmi delle sue vittime assassinate) “, il maestro d’scuola impazzisce e ruggisce come una bestia furiosa. Tortura Chouette fino alla morte, ”
+
+Herr Szeliga mormora tra sé e sé:
+
+“Con il maestro di scuola non può esserci una trasformazione così rapida” (!) “e fortunata” (!) “come quella di Schurimann.”
+
+Proprio come Rudolph manda Fleur de Marie in un convento, fa anche del maestro di scuola un ricoverato nell’asilo di Bicêtre. Ha paralizzato sia la sua forza spirituale che quella fisica. E con ragione. Poiché il maestro di scuola ha peccato utilizzando sia la propria forza spirituale che quella fisica, e secondo la teoria punitiva di Rudolph, tali forze peccaminose devono essere annientate.
+
+Ma Eugène Sue non ha ancora compiuto il “pentimento e l’espiazione legati a una terribile vendetta”. Il maestro di scuola recupera la ragione, ma temendo di essere consegnato alla giustizia rimane a Bicêtre e finge di essere pazzo. Monsieur Sue dimentica che “ogni parola che ha detto doveva essere una preghiera”, mentre in realtà assomiglia molto di più al grido inarticolato e ai deliri di un pazzo. O forse Monsieur Sue, in modo ironico, colloca queste manifestazioni di comportamento sullo stesso livello della preghiera?
+
+L’idea alla base della punizione che Rudolph inflisse accecando il maestro di scuola – l’isolamento di quell’uomo e della sua anima dal mondo esterno, la combinazione della punizione legale con la tortura teologica – trova la sua espressione definitiva nella reclusione in solitudine. Ecco perché Monsieur Sue glorifica questo sistema.
+
+“Quanti secoli dovettero trascorrere prima che si rendesse conto che esiste un solo mezzo per superare la lebbra che si diffondeva rapidamente – ovvero, la corruzione dei valori morali nelle prigioni – una minaccia per l’intera società: l’isolamento.”
+
+Il signor Sue condivide l’opinione di quelle persone oneste che attribuiscono la diffusione del crimine all’organizzazione delle prigioni. Per allontanare il criminale da una società corrotta, lo si lascia nella sua stessa società.
+
+Eugène Sue dice:
+
+“Mi considererei fortunato se la mia debole voce potesse essere udita tra tutte quelle che chiedono con tanta ragione e insistenza l’applicazione completa e assoluta della reclusione solitaria.”
+
+Il desiderio di Monsieur Sue è stato realizzato solo in parte. Nei dibattiti sulla detenzione in isolamento tenutisi quest’anno alla Camera dei Deputati, anche i sostenitori ufficiali di quel sistema hanno dovuto ammettere che essa porta, prima o poi, alla follia del detenuto. Pertanto, tutte le pene detentive superiori a dieci anni sono state convertite in espulsione.
+
+Se i signori Tocqueville e Beaumont avessero studiato attentamente il romanzo di Eugène Sue, sicuramente avrebbero promosso l’applicazione completa e assoluta della reclusione solitaria.
+
+Se Eugène Sue priva i criminali dotati di una mente sana della società al fine di renderli pazzi, allora dà alla gente pazza la società per farla tornare sana.
+
+“L’esperienza dimostra che l’isolamento è altrettanto fatale per i pazzi quanto benefico per i criminali imprigionati.”
+
+Se Monsieur Sue e il suo eroe ribelle Rudolph non hanno reso la legge meno efficace attraverso alcun tipo di mistero – sia attraverso la teoria penale cattolica che attraverso le pratiche di reclusione solitaria metodista – d’altra parte hanno arricchito la medicina con nuovi misteri. Dopotutto, scoprire nuovi misteri è altrettanto importante quanto rivelarne vecchi. Nel suo rapporto sulla cecità del maestro di scuola, la “Critica Critica” concorda pienamente con Monsieur Sue.
+
+“Quando gli viene detto che gli è stata tolta la luce dei suoi occhi, non ci crede nemmeno.”
+
+Il maestro di scuola non riusciva a credere di aver perso la vista, perché in realtà poteva ancora vedere. Monsieur Sue descrive un nuovo tipo di cataratta e racconta di un vero mistero per l’oftalmologia di massa, quella che non si basa su analisi critiche o approfondite.
+
+Dopo l’intervento, la pupilla appare bianca; quindi si tratta di una cataratta del cristallino. Naturalmente, questa condizione potrebbe essere stata causata da un danno all’involucro del cristallino, senza provocare troppo dolore, anche se non del tutto. Tuttavia, poiché i medici riescono a ottenere questo risultato solo tramite metodi naturali e non attraverso interventi invasivi, l’unica soluzione possibile è attendere che insorga un’infiammazione dopo il danno e che l’esudato offuschi il cristallino.
+
+Nel terzo capitolo del terzo libro, accade al maestro di scuola un [miracolo](/concepts/miracle) ancora più grande e un mistero ancora più profondo.
+
+L’uomo che era stato accecato vede di nuovo.
+
+“Chouette, il maestro di scuola e Tortillard hanno visto il prete e Fleur de Marie.”
+
+Se non interpretiamo questo recupero della capacità di vedere da parte del maître d’école come un miracolo dell’autore, dopo l’applicazione della [metodologia](/axes/method) della “Kritik der Synoptiker”, allora il maître d’école deve essere stato sottoposto nuovamente a intervento chirurgico per la cataratta. In seguito è diventato di nuovo cieco: ha quindi utilizzato i propri occhi troppo presto, e l’irritazione causata dalla luce ha provocato un’infiammazione che si è conclusa con la paralisi della retina e un’amaurosi irreversibile. È un altro mistero per l’oftalmologia non critica il fatto che tutto ciò avvenga in soltanto un secondo.
+
+b) Ricompensa e Punizione: una giustizia doppia.
+
+(con una tabella)
+
+Il protagonista Rudolph propone una nuova teoria per mantenere l’ordine sociale: premiare il bene e punire il male. Se considerata senza analisi critica, questa teoria non è altro che la rappresentazione del funzionamento attuale della società. Quanto essa sia carente in misure concrete volte a premiare il bene e a punire il male! Rispetto a questa “teoria rivelata”, quanto poco critico sia Owen, il comunista di tipo massiccio che vede nella punizione e nel premio la consacrazione delle differenze di status sociale e l’espressione completa di una sottomissione servile.
+
+<span class="atom-split" data-atom="055" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 8)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 It could be considered as a new [revelation](/concepts/revelation) that Eugène Sue makes rewards derive from the judiciary — from a new appendix to the Penal Code — and not satisfied with one jurisdiction he invents a second. Unfortunately this revealed mystery, too, is the repetition of an old theory expounded in detail by Bentham in his work already mentioned . On the other hand, we cannot deny Monsieur Eugène Sue the honour of having motivated and developed Bentham’s suggestion in an incomparably more Critical way than the latter. Whereas the mass-type Englishman keeps his feet on the ground, Sue’s deduction rises to the Critical region of the heavens. His argument is as follows:
 
@@ -2740,7 +5321,91 @@ First of all, let Criticism itself expound its theory of the “standpoint” in
 
 “Science ... never deals with a given single individual or a given definite standpoint ... it will not fail, of course, to do away with the limitations of a standpoint if it is worth the trouble and if these limitations have really general human significance; but it conceives them as pure category and determinations of selfconsciousness and accordingly speaks only for those who have the courage to rise to the generality of [self-consciousness](/concepts/self_consciousness), i.e., who do not wish with all their strength to remain within those limitations” (Anekdota, t. II, ).
 
-<span class="atom-split" data-atom="056" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 9)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Si potrebbe considerare questa una nuova [rivelazione](/concepts/revelation) da parte di Eugène Sue: egli afferma che le ricompense derivino dal sistema giudiziario – da un nuovo aggiunto al Codice Penale – e, non essendo soddisfatto di una sola giurisdizione, ne inventa una seconda. Purtroppo anche questo “mistero” rivelato non è altro che la ripetizione di un’antica teoria già ampiamente esposta da Bentham nelle sue opere. D’altra parte, non possiamo negare a Monsieur Eugène Sue il merito di aver motivato e sviluppato l’idea di Bentham in modo incomparabilmente più critico rispetto al filosofo stesso. Mentre l’inglese medio si attiene alle realtà concrete, le deduzioni di Sue raggiungono il regno della riflessione critica. Il suo argomento è il seguente:
+
+“I presunti effetti della collera divina si concretizzano al fine di scoraggiare i malvagi. Perché allora l’effetto della ricompensa divina per i buoni non dovrebbe anch’esso concretizzarsi e anticiparsi sulla terra?”
+
+Secondo questa visione non critica, le cose stanno al contrario: la teoria del “crimine celeste” ha semplicemente idealizzato la teoria terrena, proprio come la ricompensa divina rappresenta soltanto un’idealizzazione del servizio umano basato sul lavoro remunerato. È assolutamente necessario che la società non premi tutte le persone buone, affinché la giustizia divina abbia un certo vantaggio rispetto alla giustizia umana.
+
+Nel descrivere la sua giustizia basata su criteri critici e ricompensativi, Monsieur Sue fornisce un esempio di quel dogmatismo femminile che tende sempre a cercare una formula precisa per tutto ciò che esiste; un dogmatismo che fu criticato con grande “serenità conoscitiva” da Herr Edgar nel romanzo Flora Tristan. Per ogni articolo del codice penale attuale che Monsieur Sue mantiene in vigore, egli prevede l’aggiunta di una controparte nel codice delle ricompense, costruita seguendo gli stessi criteri. Per facilitare la comprensione, riportiamo qui la sua descrizione di queste coppie complementari sotto forma tabellare:
+
+Indice della Giustizia Completamente Realizzata in termini Critici
+
+La Giustizia esistente
+
+Nome: Giustizia Penale
+
+Descrizione: tiene in mano una spada, pronta a tagliare la testa ai malvagi.
+
+Scopo: La punizione dei malvagi – prigione, disonore, privazione della vita. Il popolo viene informato delle terribili punizioni riservate ai malvagi.
+
+Mezzi per scoprire i malvagi: spionaggio da parte della polizia, informatori incaricati di tenere d’occhio i malvagi.
+
+[METODO](/axes/method) per stabilire se qualcuno è malvagio: gli aiuti forniti dal crimine, i processi penali. Il ministero pubblico indica e incrimina i reati dell’accusato al fine di ottenere vendetta pubblica.
+
+Condizione del criminale dopo la sentenza: Sotto sorveglianza della polizia speciale. Viene nutrito in prigione. [Lo Stato](/concepts/state) copre le spese.
+
+Esecuzione: Il criminale si trova sul patibolo.
+
+Integrare criticamente la giustizia
+
+Nome: Giustizia Virtuosa
+
+Descrizione: tiene in mano una corona per elevare i buoni di un livello superiore.
+
+Scopo: Ricompensa del bene, vitto gratuito, onore, sostentamento della vita.
+
+Il popolo viene informato dei brillanti trionfi che portano al bene.
+
+Mezzi per scoprire il Bene: Spionaggio della virtù, delatori incaricati di sorvegliare coloro che la praticano.
+
+Metodo per stabilire se una persona sia buona: le “Assise della virtù”. Il ministero pubblico evidenzia e proclama le azioni nobili dell’accusato al fine di ottenere la loro pubblica [riconoscenza](/concepts/recognition).
+
+Condizione dei virtuosi dopo la sentenza: Sotto la sorveglianza della alta carità morale. Vengono nutriti in casa; lo stato copre le spese.
+
+Esecuzione: Esattamente di fronte alla forca del criminale viene eretto un piedistallo su cui si trova il “gran uomo di bene”. Una sorta di pilastro della virtù.
+
+Commoso alla vista di questo dipinto, il signor Sue esclama:
+
+“Ahimè. È un’utopia! Ma immaginate se una società fosse organizzata in questo modo, ”
+
+Questa sarebbe l’organizzazione critica della società. Dobbiamo difendere questa organizzazione dalle accuse di Eugène Sue secondo cui, fino ad oggi, essa sia rimasta un’utopia. Sue ha nuovamente dimenticato il “Premio alla Virtù” che viene assegnato ogni anno a Parigi e di cui egli stesso parla. Questo premio viene addirittura conferito in due categorie: il premio materiale Montyon per gli atti nobili compiuti da uomini e donne, e il premio “rosa” per le ragazze di altissima moralità. Esiste persino la corona di rose richiesta da Eugène Sue.
+
+Per quanto riguarda la spionaggio delle virtù e la sorveglianza dell’alta carità morale, queste attività furono organizzate molto tempo fa dai Gesuiti. Inoltre, giornali come il “Journal des Débats”, “Siècle”, “Petites affiches de Paris” ecc., indicano e proclamano quotidianamente le virtù, gli atti nobile e i meriti di tutti i speculatori di Borsa di Parigi, a prezzi accessibili al pubblico; senza contare poi le indicazioni e le proclamazioni riguardanti gli atti politici nobile, per i quali ogni partito possiede il proprio organo di diffusione.
+
+Oggi come oggi, il vecchio Voss osservò che Omero è migliore dei suoi dèi. Quindi, quel “mistero rivelato tra tutti i misteri”, Rudolph, può essere considerato responsabile delle idee di Eugène Sue.
+
+Inoltre, il signor Szeliga riferisce:
+
+“Inoltre, i passaggi in cui Eugène Sue interrompe la narrazione per introdurre o concludere degli episodi sono molto numerosi, e tutti hanno un carattere critico.”
+
+c) Abolizione della degenerazione all’interno della civiltà e dell’arbitrarietà nello Stato.
+
+I mezzi preventivi giuridici volti all’abolizione del crimine e, di conseguenza, della degenerazione all’interno della civiltà consistono nel.
+
+“La tutela protettiva assunta lo stato sui figli di criminali giustiziati o di coloro condannati all’ergastolo”.
+
+Sue vuole organizzare la suddivisione dei compiti legati al crimine in modo più liberale. Nessuna famiglia dovrebbe più disporre di un privilegio ereditario nel campo del crimine; la libera concorrenza dovrebbe prevalere sul monopolio.
+
+Il signor Sue abolisce “l’assenza di diritti nello stato” riformando la parte del Codice Penale relativa alle truffe e, in particolare, istituendo l’assistenza legale gratuita per i poveri. Ritiene che in Piemonte, Olanda e altri luoghi dove esistono avvocati per i poveri, l’assenza di diritti nello stato sia stata effettivamente abolita. L’unica carenza della legislazione francese è il fatto che non prevede il pagamento degli onorari legali per i poveri, non designa avvocati esclusivamente incaricati di assistere i bisognosi e definisce i limiti della povertà in modo troppo ristretto. Come se l’assenza di diritti non iniziasse proprio nel processo stesso, come se in Francia non fosse da tempo noto che la legge non fornisce nulla, ma si limita a sanzionare ciò che già esiste. La già banale distinzione tra “diritto” e “realtà” sembra ancora rappresentare un vero mistero per il romanziere critico.
+
+Se aggiungiamo alla rivelazione critica dei misteri del diritto le grandi riforme che Eugène Sue intende attuare riguardo agli ufficiali giudiziari, possiamo comprendere il significato del “Paris Journal Satan”. In quel giornale vediamo i residenti di un quartiere della città scrivere al “grande riformatore” per segnalargli l’assenza delle luci a gas nelle loro strade. Monsieur Sue risponde che si occuperà di questa carenza nel sesto volume del suo “Ebreo Errante”. Un altro settore della città si lamenta dei difetti dell’istruzione primaria; lui promette una riforma in questo ambito per quel quartiere nel decimo volume del “Ebreo Errante”.
+
+4) Il mistero rivelato del “punto di vista”
+
+“Rudolph non rimane fermo nella sua posizione elevata. Non evita nemmeno la fatica di adottare, per scelta libera, punti di vista sia a destra che a sinistra, sia superiori che inferiori” (Szeliga).
+
+Uno dei principali misteri della Critica Critica è il concetto di “punto di vista” e il giudizio espresso da tale punto di vista. Per la Critica, ogni persona, come ogni prodotto dello spirito, diventa a sua volta un punto di vista.
+
+Non c’è nulla di più facile che comprendere il mistero di un determinato punto di vista, quando si è già penetrati nel mistero generale della “Critica Critica”, ovvero di quel processo che consiste nel riportare in vita vecchi e superati concetti speculativi.
+
+Innanzitutto, lasciamo che la stessa Critica esponga la sua teoria del “punto di vista” con le parole del suo fondatore, il signor [Bruno Bauer](/figures/bauer).
+
+“La scienza, non si occupa mai di un singolo individuo specifico o di un punto di vista definito. Naturalmente, non esiterà a eliminare i limiti di un determinato punto di vista se ne vale la pena e se questi limiti hanno davvero un significato generale per l’umanità; ma li considera semplicemente categorie e determinazioni dell’autocoscienza, e pertanto parla soltanto coloro che hanno il coraggio di elevarsi al livello della generalità dell’autocoscienza, cioè coloro che non desiderano assolutamente rimanere confinati entro tali limiti” (Anekdota, vol. II).
+
+<span class="atom-split" data-atom="056" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 9)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 The mystery of this courage of Bauer’s is Hegel’s Phänomenologie. Because Hegel here substitutes [self-consciousness](/concepts/self_consciousness) for man, the most varied manifestations of human reality appear only as definite forms, as determinateness of self-consciousness. But mere determinateness of self-consciousness is a “pure category”, a mere “thought”, which I can consequently also transcend in “pure” thought and overcome through pure thought. In Hegel’s Phänomenologie the material, sensuously perceptible, objective foundations of the various estranged forms of human self-consciousness are allowed to remain. The whole destructive work results in the most conservative philosophy because it thinks it has overcome the objective world, the sensuously perceptible real world, by transforming it into a “Thing of Thought”, a mere determinateness of self-consciousness, and can therefore also dissolve its opponent, which has become ethereal, in the “ether of pure thought’. The Phänomenologie is therefore quite consistent in that it ends by replacing human reality by “absolute knowledge” — knowledge, because this is the only mode of existence of self-consciousness, and because selfconsciousness is considered the only mode of existence of man — absolute knowledge for the very reason that selfconsciousness knows only itself and is no longer disturbed by any objective world. Hegel makes man the man of self-consciousness instead of making self-consciousness the self-consciousness of man, of real man, i.e., of man living also in a real, objective world and determined by that world. He stands the world on its head and can therefore in his head also dissolve all limitations, which nevertheless remain in existence for bad sensuousness, for real man. Moreover, everything that betrays the limitations of general self-consciousness — all sensuousness, reality, individuality of men and of their world — is necessarily held by him to be a limit. The whole of the Phänomenologie is intended to prove that self-consciousness is the only reality and all reality.
 
@@ -2784,7 +5449,51 @@ On the occasion of the arrest of Louise Morel, Rudolph indulges in reflections w
 
 Rudolph’s reflections do not go so far as to make the servants’ condition the object of his most gracious Criticism. Being a petty rulers he is a great patroniser of servants’ conditions. Still less does he go so far as to understand that the general position of women in modern society is inhuman. Faithful in all respects to his previous theory, he deplores only that there is no law which punishes a seducer and links repentance and atonement with terrible chastisement.
 
-<span class="atom-split" data-atom="057" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 10)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il mistero di questo coraggio di Bauer è rappresentato nella Fenomenologia di Hegel. Poiché Hegel sostituisce qui l’uomo con la [coscienza di sé](/concepts/self_consciousness), le più varie manifestazioni della realtà umana appaiono soltanto come forme definite, come determinazioni della coscienza di sé. Tuttavia, questa semplice determinazione della coscienza di sé è una “categoria pura”, un mero “pensiero”; quindi posso anche trascenderla attraverso il pensiero puro e superarla con esso. Nella Fenomenologia di Hegel, le basi materiali, sensibilmente percepibili e oggettive delle varie forme alienate della coscienza umana vengono lasciate intatte. L’intera opera distruttiva di Hegel conduce quindi a una filosofia estremamente conservatrice: essa ritiene di aver superato il mondo oggettivo, il mondo reale sensibilmente percepibile, trasformandolo in un “oggetto del pensiero”, in una semplice determinazione della coscienza di sé; e quindi può anche dissolvere il proprio avversario, ormai reso “etereo”, nell’“etere del pensiero puro”. La Fenomenologia è dunque assolutamente coerente nel suo intento: conclude sostituendo la realtà umana con la “conoscenza assoluta” – una conoscenza che, essendo l’unico modo di esistenza della coscienza di sé e poiché la coscienza di sé è considerata l’unico modo di esistenza dell’uomo, rappresenta effettivamente tutta la realtà. Hegel trasforma l’uomo nell’uomo della coscienza di sé, invece di far sì che la coscienza di sé sia la coscienza di sé dell’uomo reale, cioè dell’uomo che vive anche in un mondo reale e oggettivo e ne è determinato. In questo modo, Hegel capovolge completamente l’ordine del mondo; nella sua mente può quindi dissolvere tutte le limitazioni che, tuttavia, rimangono reali per l’uomo sensibile e concreto. Inoltre, tutto ciò che rivela i limiti della coscienza di sé in generale – tutta la sensibilità, la realtà, l’individualità degli uomini e del loro mondo – viene necessariamente considerato da Hegel una limitazione. L’intera Fenomenologia ha lo scopo di dimostrare che la coscienza di sé è l’unica realtà, tutta la realtà.
+
+Il signor Bauer ha recentemente ribattezzato la conoscenza assoluta “Critica”, attribuendo al concetto di “punto di vista” il nome, apparentemente meno solenne, di “determinatezza della coscienza di sé”. Nei “Anekdota” entrambi questi nomi compaiono ancora fianco a fianco, e il concetto di “punto di vista” viene ancora definito come la “determinatezza della coscienza di sé”.
+
+Poiché il “mondo religioso in sé” esiste soltanto come mondo della coscienza di sé, il Critico Critico – il teologo per professione – non può assolutamente concepire l’esistenza di un mondo in cui coscienza ed essere siano distinti; un mondo che continui ad esistere anche quando io semplicemente abolisco la sua esistenza nel pensiero, la sua esistenza come categoria o come punto di vista; cioè, quando modifico la mia stessa coscienza soggettiva senza alterare in modo realmente oggettivo la realtà oggettiva, ovvero senza modificare né la mia realtà oggettiva né quella degli altri uomini. Pertanto, l’identità speculativa e mistica tra essere e pensiero si ripete nella Critica come identità altrettanto mistica tra pratica e teoria. Ecco perché la Critica è così ostacolata dalla pratica che vuole essere qualcosa di diverso dalla teoria, e dalla teoria che vuole essere qualcos’altro se non la dissoluzione di una determinata categoria nella “generalità infinita della coscienza di sé”. La sua stessa teoria si limita a affermare che tutto ciò che è determinato rappresenti l’opposto della generalezza infinita della coscienza di sé e, pertanto, non abbia alcun significato; ad esempio, lo “stato”, la proprietà privata, ecc. Bisogna invece dimostrare come lo stato, la proprietà privata, ecc., trasformino gli esseri umani in astrazioni, o siano prodotti dell’uomo astratto, piuttosto che rappresentare la realtà di individui concreti e umani.
+
+Infine, è ovvio che, mentre la Fenomenologia di Hegel, nonostante il suo carattere speculativo, fornisce in molti casi gli elementi per una vera descrizione delle relazioni umane, il signor Bruno e i suoi compagni offrono invece soltanto una caricatura vuota, una rappresentazione distorta che si accontenta di estrarre qualsiasi caratteristica specifica da un prodotto dello spirito o persino dalle relazioni e dai movimenti reali, trasformandola poi in una categoria concettuale. Questa categoria viene presentata come il “punto di vista” stesso di quel prodotto, di quella relazione o di quel movimento; in questo modo è possibile guardare con aria trionfante a tale caratteristica specifica, dall’alto della saggezza astratta, della categoria generale e dell’autocoscienza universale.
+
+Proprio come, secondo Rudolph, tutti gli esseri umani adottano una prospettiva basata sul bene o sul male e vengono giudicati in base a queste due concezioni immutabili, allo stesso modo per Herr Bauer e i suoi seguaci tutti gli esseri umani assumono una prospettiva basata sulla Critica o su quella della Massa. Tuttavia, entrambe queste prospettive trasformano gli esseri umani reali in concetti astratti.
+
+5) La [Rivelazione](/concepts/revelation) del Mistero dell’Utilizzo degli Impulsi Umani, ovvero Clémence D’Harville
+
+Finora, Rudolph non è stato in grado di fare altro che premiare il bene e punire il male a modo suo. Ora vedremo un esempio di come renda le passioni utili e “dai alla naturale bontà di Clémence d’Harville uno sviluppo appropriato”.
+
+“Rudolph,” dice il signor Szeliga, “le fa notare l’aspetto divertente della carità; un pensiero che testimonia una conoscenza degli esseri umani che può nascere soltanto nell’anima di Rudolph dopo aver attraversato prove e difficoltà.”
+
+Le espressioni che Rudolph utilizza nella sua conversazione con Clémence:
+
+“Rendere qualcosa attraente”, “sfruttare il gusto naturale delle persone”, “regolare le dinamiche di intrigo”, “utilizzare la propensione alla dissimulazione e all’ingegno”, “trasformare istinti imperiosi ed inesorabili in qualità nobili”, ecc.
+
+Queste espressioni, proprio come gli stessi impulsi che qui vengono attribuiti alla natura femminile, rivelano la vera fonte della saggezza di Rudolph: Fourier. Egli si è imbattuto in alcune rappresentazioni popolari della teoria di Fourier.
+
+Anche questa applicazione è altrettanto frutto dell’interpretazione critica di Rudolph quanto l’esposizione della teoria di Bentham fornita sopra.
+
+Non è proprio attraverso la carità che la giovane marchesa può trovare soddisfazione per la sua essenziale [natura umana](/axes/human_nature), un contenuto e uno scopo significativi per le sue attività, e quindi anche divertimento. La carità offre piuttosto soltanto l’occasione esterna, il pretesto, il materiale necessario per un tipo di divertimento che potrebbe benissimo utilizzare qualsiasi altro elemento come contenuto. La miseria viene consapevolmente sfruttata affinché la persona che pratica l’atto di carità possa provare “il fascino di una novella, la soddisfazione della curiosità, l’avventura, il travestimento, il piacere derivante dalla propria eccellenza, un’intensa emozione nervosa”, e simili sensazioni.
+
+Rudolph ha così espresso, inconsciamente, il mistero che fu rivelato molto tempo fa: ovvero che la stessa miseria umana, quell’infinita povertà costretta ad accettare l’aiuto altrui, debba servire all’aristocrazia del denaro e dell’[istruzione](/concepts/education) come un giocattolo per soddisfare il suo amor proprio, stimolare la sua arroganza e divertirla.
+
+Le numerose associazioni di beneficenza in Germania, le molteplici organizzazioni caritatevoli in Francia e il gran numero di associazioni filantropiche in Inghilterra – i concerti, i balli, gli spettacoli teatrali, i pasti per i poveri, nonché le donazioni pubbliche a favore delle vittime di incidenti – non hanno altro scopo se non quello di offrire intrattenimento. Sembra quindi che anche la carità, in questi contesti, sia da tempo organizzata come forma di divertimento.
+
+La improvvisa e inspiegabile trasformazione della marchesa al semplice suono della parola “divertente” ci fa dubitare della durata effettiva di questa sua “guarigione”; o meglio, questa trasformazione appare improvvisa e inspiegabile solo in apparenza, essendo in realtà causata soltanto dal modo in cui la carità viene descritta come un’attività divertente. La marchesa ama Rudolph, e Rudolph desidera nascondersi insieme a lei per intrighare e partecipare ad avventure di carattere filantropico. In seguito, quando la marchesa visita il carcere di Saint-Lazare in nome della carità, il suo gelosia verso Fleur de Marie diventa evidente; per motivi legati a questo sentimento, nasconde a Rudolph la vera ragione della detenzione di Marie. Nel migliore dei casi, Rudolph è riuscito ad insegnare a una donna infelice come recitare una commedia assurda insieme ad altre persone sfortunate. Ma il mistero della sua “filantropia” viene rivelato dal libertino parigino che, dopo la danza, invita la sua compagna a cena con queste parole:
+
+“Ah, signora, non basta aver ballato a beneficio di questi poveri polacchi. Dovremmo portare avanti la filantropia fino in fondo. Andiamo ora a cena a beneficio dei poveri!”
+
+6) Rivelazione del mistero dell’emancipazione delle donne, ovvero Louise Morel
+
+All’occasione dell’arresto di Louise Morel, Rudolph si sofferma su alcune riflessioni che riassume nel seguente modo:
+
+“Il padrone spesso distrugge la serva, sia attraverso la paura, la sorpresa o altre opportunità offerte dalla condizione stessa dei servi. La riduce alla miseria, all’umiliazione e al crimine. La legge non si occupa di queste cose. Il criminale che ha effettivamente spinto una ragazza a commettere un infanticidio non viene punito.”
+
+Le riflessioni di Rudolph non arrivano al punto di considerare la condizione dei servitori oggetto della sua più gentile critica; essendo un piccolo dominatore, egli è in realtà un grande protettore delle loro condizioni. Ancor meno arriva a comprendere che la posizione generale delle donne nella società moderna sia ingiusta e disumana. Fedele in ogni senso alla sua precedente teoria, si limita a deplorare l’assenza di leggi che puniscano chi seduce e a ritenere che il pentimento e la redenzione debbano essere accompagnati da terribili punizioni.
+
+<span class="atom-split" data-atom="057" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 10)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/progress,concepts/commodity,concepts/state,concepts/labour"></span>
 
 Rudolph has only to take a look at the existing legislation in other countries. English laws fulfil all his wishes. In their delicacy, which Blackstone so highly praises, they go so far as to declare it a felony to seduce even a prostitute.
 
@@ -2842,7 +5551,65 @@ Speaking in the prosaic sense, the income of 7,500,000 French workers averages n
 
 The idea of the Critical Bank for the Poor, if it is rationally conceived, amounts to this: during the time the worker is employed as much will be deducted from his wages as he needs for his living during unemployment. It comes to the same thing whether I advance him a certain sum during his unemployment and he gives it back when he has employment, or he gives up a certain sum when he has employment and I give it back to him when he is unemployed. In either case he gives me when he is working what he gets from me when he is unemployed.
 
-<span class="atom-split" data-atom="058" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 11)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Rudolph basta che si guardi la legislazione esistente in altri paesi: le leggi inglesi soddisfano tutti i suoi desideri. Nella loro delicatezza, così ampiamente lodata da Blackstone, queste leggi arrivano addirittura a considerare reato grave anche il semplice tentativo di sedurre una prostituta.
+
+Il signor Szeliga esclama con enfasi:
+
+“Quindi” (!) – “pensa” (!) – “Rudolph” (!); ora confronta queste riflessioni con le tue fantasie sull’emancipazione della donna. L’atto stesso di questa emancipazione può essere quasi “afferrato” fisicamente attraverso queste riflessioni, ma tu sei troppo pragmatico per partire da questo punto di vista. Ed è proprio per questo che i tuoi tentativi sono spesso falliti.
+
+In ogni caso dobbiamo ringraziare il signor Szeliga per aver svelato il mistero secondo cui un atto può essere quasi “afferrato fisicamente” a partire dai pensieri che lo hanno generato. Per quanto riguarda la sua ridicola analogia tra Rudolph e coloro che si sono impegnati nell’emancipazione della donna, basta confrontare i pensieri di Rudolph con le seguenti “fantasie” di Fourier.
+
+“Adulterio, seduzione, sono un merito per chi le compie. Ma povera ragazza! Omicidio di un bambino. Che crimine! Se tiene alla propria onore, deve cancellare ogni traccia di disonore. Ma se sacrifica il proprio figlio ai pregiudizi del mondo, la sua ignominia diventa ancora maggiore. E allora diventa vittima dei pregiudizi della legge. Questo è il circolo vizioso che ogni sistema civile descrive.”
+
+“Non è la giovane figlia una [merce](/concepts/commodity) messa in vendita al primo offerente disposto ad acquistarne l’esclusiva proprietà?, proprio come in grammatica due negazioni equivalgono a un’affermazione, si può dire che nel mercato del matrimonio due prostituzioni equivalgano alla virtù.”
+
+“Il cambiamento in un’epoca storica può sempre essere determinato dal [progresso](/positions/progress) delle donne verso la libertà, perché proprio nella relazione tra donna e uomo, tra il debole e il forte, la vittoria della [natura umana](/axes/human_nature) sulla brutalità è più evidente. Il grado di emancipazione della donna rappresenta quindi una misura naturale dell’emancipazione generale.”
+
+“L’umiliazione del sesso femminile è una caratteristica essenziale sia della civiltà che del barbarismo. L’unica differenza sta nel fatto che il sistema civile eleva ogni vizio praticato dal barbarismo, nella sua forma semplice, a un modo di esistere complesso, equivoco, ambiguo e ipocrita. Nessuno viene punito più severamente per tenere la donna in schiavitù di quanto lo sia lo stesso uomo” (Fourier).
+
+È superfluo confrontare i pensieri di Rudolph con la caratterizzazione magistrale del matrimonio fornita da Fourier, o con le opere della corrente materialista del comunismo francese.
+
+Gli elementi più degradanti e spregevoli della letteratura socialista, di cui si può trovare un esempio in questo romanzo, rivelano “misteri” ancora sconosciuti alla critica letteraria convenzionale.
+
+7) [Rivelazione](/concepts/revelation) dei misteri dell’economia politica
+
+a) Rivelazione teorica dei misteri dell’economia politica
+
+Prima rivelazione: La ricchezza spesso conduce al spreco, e lo spreco alla rovina.
+
+Seconda rivelazione: Gli effetti sopra menzionati della ricchezza derivano dalla mancanza di educazione nei giovani ricchi.
+
+Terza rivelazione: L’eredità e la proprietà privata sono, e devono essere, inviolabili e sacre.
+
+Quarta rivelazione: L’uomo ricco è moralmente responsabile nei confronti dei lavoratori per il modo in cui utilizza la sua fortuna. Una grande fortuna rappresenta un bene ereditario, una sorta di feudo affidato a mani intelligenti, decise, abili e magnanime; tali mani hanno anche il compito di rendere quella fortuna produttiva e di utilizzarla in modo tale che tutto ciò che si trova all’interno del raggio d’azione di quel potente e benefico influsso venga arricchito, vitalizzato e migliorato.
+
+Quinta rivelazione: Lo [Stato](/concepts/state) deve fornire ai giovani ricchi e inesperti i fondamenti dell’economia individuale; deve conferire un significato morale alla ricchezza.
+
+Sesta rivelazione: Infine, lo stato deve affrontare la complessa questione dell’organizzazione del [_lavoro](/concepts/labour). Deve offrire un esempio concreto di associazione tra capitale e lavoro, un’associazione onesta, intelligente e equa, in grado di garantire il benessere dei lavoratori senza danneggiare la fortuna dei ricchi, e che stabilisca legami di [_simpatia](/positions/moral_sentiment) e gratitudine tra queste due classi, assicurando così la tranquillità nello stato per sempre.
+
+Poiché lo stato attuale non accetta ancora questa teoria, Rudolph stesso fornisce alcuni esempi concreti. Questi esempi rivelano come le relazioni economiche più note e diffuse siano ancora considerate “misteri” da Monsieur Sue, da Monsieur Rudolph e dalla Critica Critica.
+
+b) “La Banca dei Poveri”
+
+Rudolph fonda una Banca per i Poveri. Lo statuto di questa Banca Speciale per i Poveri è il seguente:
+
+Deve fornire sostegno durante i periodi di disoccupazione ai lavoratori onesti con famiglia. Deve sostituire le elemosine e gli usurai. Disponde di un reddito annuo di 12.000 franchi e distribuisce prestiti di assistenza senza interessi, da 20 a 40 franchi ciascuno. Inizialmente, la sua attività si estenderà soltanto al settimo arrondissement di Parigi, dove vivono la maggior parte dei lavoratori. Gli uomini e le donne che chiedono aiuto devono presentare un certificato rilasciato dal loro ultimo datore di lavoro, che attesti il loro buon comportamento e indichi la causa e la data dell’interruzione del lavoro. Questi prestiti devono essere restituiti in rate mensili, pari a un sesto o a un dodicesimo dell’importo totale, a scelta del debitore, a partire dal giorno in cui egli trova nuovamente lavoro. Il prestito è garantito dalla parola d’onore del debitore; inoltre, la sua dichiarazione giurata deve essere ulteriormente garantita da altri due lavoratori.
+
+Poiché lo scopo principale della Banca dei Poveri è alleviare uno degli sfortuni più gravi nella vita del lavoratore, ovvero l’interruzione dell’occupazione, l’aiuto viene concesso esclusivamente ai lavoratori manuali disoccupati. Monsieur Germain, il direttore di questa istituzione, percepisce uno stipendio annuo di 10.000 franchi.
+
+Osserviamo ora, in modo generale, la pratica dell’Economia Politica Critica. Il reddito annuo è di 12.000 franchi; l’importo prestato a persona varia da 20 a 40 franchi, con una media di 30 franchi. Nel settimo arrondissement di Parigi, il numero dei lavoratori ufficialmente riconosciuti come “poveri” è di almeno 4.000; pertanto, in un anno solo il dieci percento di questi lavoratori più bisognosi può ricevere aiuti. Se stimiamo la durata media della disoccupazione a Parigi in 4 mesi, ovvero 16 settimane, otterremo una cifra considerevolmente inferiore alla reale. Trenta franchi divisi in 16 settimane equivalgono a poco meno di 37 soldi e 3 centesimi a settimana, cioè meno di 27 centesimi al giorno. In Francia, le spese quotidiane per un detenuto ammontano in media a poco più di 47 centesimi, di cui oltre 30 centesimi vengono soltanto spesi per il cibo. Tuttavia, il lavoratore a cui Monsieur Rudolph fornisce aiuti ha una famiglia; supponiamo che questa sia composta da un uomo, sua moglie e due figli: in questo caso, i 27 centesimi disponibili devono essere divisi tra quattro persone. Dobbiamo poi sottrarre l’affitto – almeno 15 centesimi al giorno –, lasciando così soltanto 12 centesimi. Il costo medio del pane per un singolo detenuto è di circa 14 centesimi; pertanto, anche ignorando tutte le altre esigenze, il lavoratore e la sua famiglia non saranno in grado di acquistare nemmeno un quarto della quantità di pane di cui hanno bisogno grazie agli aiuti forniti dalla Banca Critica per i Poveri. Se non ricorrono ai mezzi che questa banca dovrebbe permettere loro di evitare – il pegno, la mendicità, il furto e la prostituzione – sicuramente moriranno di fame.
+
+D’altra parte, il direttore della Banca dei Poveri è ancora più generosamente provvisto dal “uomo della critica spietata”. Il reddito che amministra è di 12.000 franchi, mentre lo stipendio è di 10.000 franchi; pertanto, le spese per la sua gestione rappresentano l’85% del totale, quasi tre volte il costo della normale amministrazione degli aiuti ai poveri a Parigi, che corrisponde all’17% del totale.
+
+Supponiamo per un momento che l’aiuto fornito dalla Banca dei Poveri sia reale, e non solo illusorio. In tal caso, l’istituzione di questo “mistero rivelato tra tutti i misteri” si basa sull’illusione che sia necessaria soltanto una diversa distribuzione dei salari affinché i lavoratori possano sopravvivere per tutto l’anno.
+
+In senso prosaico, il reddito di 7.500.000 lavoratori francesi ammonta in media a non più di 91 franchi a testa, mentre quello di altri 7.500.000 lavoratori è soltanto di 120 franchi a testa; pertanto, per almeno 15.000.000 persone, tale reddito è inferiore a quanto sia assolutamente necessario per vivere.
+
+L’idea della “Banca Critica per i Poveri”, se concepita in modo razionale, consiste nel seguente: durante il periodo in cui un lavoratore è occupato, viene detratto dal suo stipendio la somma necessaria per il suo sostentamento quando è disoccupato. È lo stesso sia che gli venga prestata una determinata somma durante il periodo di disoccupazione e che la restituisca quando trova lavoro, sia che rinunci a quella stessa somma quando è occupato e che io gliela restituisca quando è disoccupato. In entrambi i casi, lui mi restituisce ciò che riceve da me quando lavora.
+
+<span class="atom-split" data-atom="058" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 11)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Thus, the “Pure” Bank for the Poor differs from the mass-type savings-banks only in two very original, very Critical qualities. The first is that the Bank for the Poor lends money “à fonds perdus” , on the senseless assumption that the worker could pay back if he wanted to and that he would always want to pay back if he could. The second is that it pays no interest on the sum put aside by the worker. As this sum is given the form of an advance, the Bank for the Poor thinks it is doing the worker a favour by not charging him any interest.
 
@@ -2896,7 +5663,61 @@ The denseness of the veil which conceals the simplest conditions of the world fr
 
 “The angels shall come forth and sever the wicked from among the just” (Mat. 13:49). “Tribulation and anguish, upon every soul of man that doeth evil ... ; But glory, honour, and peace, to every man that worketh good” (Rom. 2:9-10).
 
-<span class="atom-split" data-atom="059" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 12)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Pertanto, la “Banca Pura per i Poveri” si differenzia dalle normali banche di risparmio soltanto in due caratteristiche molto originali e fondamentali. La prima è che questa banca presta denaro “a fondo perso”, basandosi sull’assunzione assurda che il lavoratore possa restituirlo se lo desidera e che sempre voglia farlo, qualora ne abbia la possibilità. La seconda caratteristica è che non addebita interessi sul denaro messo da parte dal lavoratore; poiché tale somma viene considerata un prestito anticipato, la Banca Pura per i Poveri ritiene di fare un favore al lavoratore non addebitandogli alcun interesse.
+
+La differenza tra la Banca Critica per i Poveri e le banche di risparmio di tipo tradizionale consiste quindi nel fatto che il lavoratore perde il proprio interesse, mentre la banca perde il proprio capitale.
+
+c) Fattoria modello di Bouqueval
+
+Rudolph fonda una fattoria modello a Bouqueval. La scelta di questo luogo è ancora più fortunata, poiché conserva ricordi dei tempi feudali, in particolare di un castello signorile.
+
+Ognuno dei sei uomini impiegati in questa fattoria riceve 150 écu, ovvero 450 franchi all’anno, mentre le donne ne ricevono 60, cioè 180 franchi. Inoltre, hanno vitto e alloggio forniti gratuitamente. La normale razione quotidiana delle persone a Bouqueval consiste in un piatto “imponente” di prosciutto, un altro altrettanto sostanzioso di carne d’agnello e, infine, una porzione non meno abbondante di vitello, accompagnata da due tipi di insalata invernale, due formaggi grandi, patate, sidro, ecc. Ognuno dei sei uomini svolge il doppio del lavoro rispetto a un normale lavoratore agricolo francese.
+
+Poiché il reddito annuo totale prodotto dalla Francia, se distribuito equamente, ammonterebbe a non più di 93 franchi per persona, e poiché il numero totale degli abitanti impiegati direttamente nell’agricoltura rappresenta due terzi della popolazione francese, si può facilmente immaginare quale [rivoluzione](/positions/revolution) causerebbe l’imitazione generale del modello di fattoria del califfo tedesco, non solo nella distribuzione, ma anche nella produzione della ricchezza nazionale.
+
+Secondo quanto detto, Rudolph riuscì a ottenere questo enorme aumento della produzione semplicemente facendo lavorare ogni operaio il doppio e farlo mangiare sei volte di più rispetto a prima.
+
+Poiché il contadino francese è molto laborioso, i lavoratori che fanno il doppio del lavoro devono essere atleti sovrumani, come sembrano indicare anche i “formidabili” piatti di carne. Pertanto possiamo presumere che ciascuno di questi sei uomini consumi almeno una libbra di carne al giorno.
+
+Se tutta la carne prodotta in Francia venisse distribuita equamente, non ci sarebbe nemmeno un quarto di libbra di carne per persona al giorno. È quindi evidente quale rivoluzione l’esempio di Rudolph potrebbe causare anche in questo ambito. Solo la popolazione agricola consumerebbe più carne di quella prodotta in Francia, con il risultato che, a seguito di questa riforma radicale, la Francia rimarrebbe senza alcuna bestiame.
+
+La quinta parte del prodotto lordo che Rudolf, secondo il rapporto del direttore di Bouqueval, Padre Chatelain, permette ai lavoratori, oltre a uno stipendio elevato e a pasti lussuosi, non è altro che la sua rendita. Si presume che, in media, dopo la deduzione di tutti i costi di produzione e del profitto sul capitale circolante, un quinto del prodotto lordo rimanga al proprietario terriero francese; in altre parole, il rapporto tra la rendita e il prodotto lordo è di uno a cinque. Sebbene sia indubbiamente vero che Rudolph riduce in modo eccessivo il profitto sul suo capitale circolante aumentando in modo sproporzionato le spese per i lavoratori – secondo Chaptal (De l’industrie française, t. 1, p. 39) il reddito annuo medio del lavoratore agricolo francese è di 120 franchi – e sebbene Rudolph conceda interamente la sua rendita ai lavoratori, Padre Chatelain afferma comunque che il principe aumenti così i propri introiti, incoraggiando in questo modo altri proprietari terrieri a comportarsi allo stesso modo.
+
+La fattoria modello di Bouqueval non è altro che un’illusione fantastica; il suo “fondo nascosto” non rappresenta la terra naturale della tenuta di Bouqueval, ma bensì una “borsa magica” appartenente a Fortunatus, che Rudolph possiede!
+
+A questo proposito, la “Critica Critica” dichiara con entusiasmo:
+
+“Basta guardare l’intero piano in un primo momento per capire che non si tratta di una utopia.”
+
+Solo la critica critica, con un semplice sguardo al portafoglio di Fortunato, può riconoscere che non si tratta di un’utopia. Lo sguardo iniziale della critica è, lo sguardo dell’“occhio malvagio”!
+
+8) Rudolph, “Il mistero rivelato di tutti i misteri”
+
+I mezzi miracolosi con cui Rudolph realizza tutte le sue “redenzioni” e i suoi “miracoli” curativi non sono le sue parole affascinanti, ma il denaro che ha sempre a disposizione. Ecco com’è fatto il moralista, dice Fourier: bisogna essere milionari per poter imitare i loro eroi.
+
+La morale è “impotenza in azione”: ogni volta che cerca di combattere un vizio, viene sconfitta. E Rudolph non raggiunge nemmeno il livello di una morale indipendente, basata almeno sulla consapevolezza della dignità umana; al contrario, la sua morale si fonda sulla consapevolezza della debolezza umana. Si tratta di una morale teologica. Abbiamo analizzato in dettaglio le imprese eroiche che egli compì guidato dalle sue idee cristiane rigide, con cui misurava il mondo: concetti come “carità”, “dedizione”, “abnegazione”, “pentimento”, “buoni” e “cattivi”, “ricompensa” e “punizione”, “terribili castighi”, “isolamento”, “salvezza dell’anima”, ecc. Abbiamo dimostrato che si trattava soltanto di trucchi ingannevoli. Quello che ci resta da esaminare qui è il carattere personale di Rudolph, il “mistero rivelato di tutti i misteri”, o meglio, il mistero rivelato della “Critica pura”.
+
+L’antitesi di “bene” e “male” si presenta al giovane Ercole Critico sotto due personificazioni: Murph e Polidori, entrambi insegnanti di Rudolph. Il primo lo educa al bene ed è “il Buono”; il secondo lo educa al male ed è “il Cattivo”. Affinché questa concezione non sia in alcun modo inferiore, per banalità, a simili concetti presenti in altri romanzi, Murph, la personificazione del “bene”, non può essere considerato un “erudito” né particolarmente dotato intellettualmente. È onesto, semplice e laconico; si sente grande quando utilizza parole monosillabiche come “sporco” o “vile” per descrivere il male, e prova orrore per tutto ciò che è vile. Per usare le parole di Hegel, egli stabilisce onestamente l’armonia tra il bene e la verità, su un’unica nota.
+
+Al contrario, Polidori è un prodigio di intelligenza, conoscenza e [istruzione](/concepts/education), ma allo stesso tempo rappresenta l’esempio della “più pericolosa immoralità”; in particolare, possiede ciò che Eugène Sue, in quanto membro della giovane borghesia francese devota, non avrebbe mai potuto dimenticare: il “scepticismo più spaventoso”. Possiamo giudicare l’energia spirituale e l’educazione di Eugène Sue e del suo eroe dal loro terrore panico verso il [scepticismo](/positions/scepticism).
+
+“Murph,” dice il signor Szeliga, “è al contempo la colpa perpetuata del 13 gennaio e la redenzione perpetua di quella colpa, resa possibile dal suo amore incomparabile e dal suo sacrificio per Rudolph.”
+
+Proprio come Rudolph è il “deus ex machina” e il mediatore del mondo, allo stesso modo Murph, per parte sua, rappresenta il “deus ex machina” personale e il mediatore di Rudolph.
+
+“Rudolph e la salvezza dell’umanità, Rudolph e la realizzazione delle perfezioni essenziali dell’uomo, rappresentano per Murph un’unica entità inseparabile; un’unità a cui si dedica non con quella devozione stupida e servile tipica di uno schiavo, ma in modo consapevole e indipendente.”
+
+Quindi Murph è uno schiavo illuminato, consapevole e indipendente. Come ogni valletto di un principe, vede nel proprio padrone l’incarnazione della salvezza dell’umanità. Graun lusinga Murph chiamandolo “intrepido guardia del corpo”; Rudolph stesso lo definisce “modello di valletto”, e in effetti è davvero un servitore esemplare. Eugène Sue ci racconta che Murph si rivolge scrupolosamente a Rudolph con il titolo di “Monsignore” quando sono soli; in presenza di altri, lo chiama “Monsieur” con le labbra per mantenere il proprio incognito, ma nel suo cuore continua a chiamarlo “Monsignore”.
+
+“Murph aiuta a sollevare il velo dei misteri, ma solo per il bene di Rudolph. Partecipa attivamente al processo di distruzione del potere del mistero stesso.”
+
+La densità di quel velo che nasconde dalle percezioni di Murph le condizioni più semplici del mondo si evince dalla sua conversazione con l’inviato Graun. Partendo dal diritto legittimo alla autodifesa in caso di emergenza, conclude che Rudolph, in qualità di giudice della corte segreta, aveva il diritto di “accecare” il maître d’école, anche se quest’ultimo era incatenato e “indifeso”. La descrizione di come Rudolph racconterà le sue “nobili” azioni davanti ai tribunali, utilizzando frasi eloquenti e lasciando che il suo grande cuore si esprima apertamente, è degna di un ragazzo delle scuole elementari che abbia appena letto “Il ladro” di Schiller. L’unico mistero che Murph lascia al mondo da risolvere è se, quando interpretava il ruolo del carbonaio, si sia sporcato il viso con polvere di carbone o vernice nera.
+
+“Gli angeli usciranno e separeranno i malvagi dai giusti” (Matteo 13:49). “Angoscia e dolore per chi compie il male. Ma gloria, onore e pace per chi fa del bene” (Romani 2:9-10).
+
+<span class="atom-split" data-atom="059" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 12)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Rudolph makes himself one of those angels. He goes forth into the world to sever the wicked from among the just, to punish the wicked and reward the good. The conception of good and evil has sunk so deep into his weak brain that he really believes in a corporeal Satan and wants to catch the devil alive, as at one time Professor Sack wanted to in Bonn. On the other hand, he tries to copy on a small scale the opposite of the devil, God. He likes “de jouer un peu le rôle de la providence” . Just as in reality all differences become merged more and more in the difference between poor and rich, so all aristocratic differences become dissolved in idea in the opposition between good and evil. This distinction is the last form that the aristocrat gives to his prejudices. Rudolph regards himself as a good man and thinks that the wicked exist to afford him the self-satisfaction of his own ‘ excellence. Let us consider this personification of “the good” a little more closely.
 
@@ -2942,7 +5763,53 @@ In order to lure the maître d’école into a trap and seize him, Rudolph persu
 
 With the maître d’école, Rudolph obtains possession of Countess MacGregor’s portfolio; he seizes the maître d’école out of purely personal interest; he has him blinded out of personal passion.
 
-<span class="atom-split" data-atom="060" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 13)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Rudolph si considera uno di quegli angeli: esce nel mondo per separare i malvagi dai giusti, per punire i primi e premiare i secondi. L’idea del bene e del male è così radicata nella sua mente debole che crede davvero nell’esistenza di un Satana corporeo e vuole catturarlo vivo, proprio come un tempo il professor Sack voleva fare a Bonn. D’altra parte, cerca di imitare, su piccola scala, l’opposto del diavolo: Dio. Gli piace “interpretare un po’ il ruolo della provvidenza”. Proprio come nella realtà tutte le differenze si fondono sempre di più nella distinzione tra poveri e ricchi, così anche tutte le differenze aristocratiche si dissolvono, in termini ideali, nell’opposizione tra bene e male. Questa distinzione rappresenta l’ultima forma sotto cui l’aristocratico esprime i propri pregiudizi. Rudolph si ritiene una brava persona e pensa che i malvagi esistano soltanto per permettergli di godere della soddisfazione derivante dalla propria “eccellenza”. Esaminiamo più da vicino questa personificazione del “bene”.
+
+Il signor Rudolph indulge nella carità e nell’eleganza nello stesso modo in cui il Califfo di Baghdad nei “Mille e una notte” si abbandonava a simili vizi. Non potrebbe certo condurre un tale stile di vita senza prosciugare fino all’ultima goccia le risorse del suo piccolo principato in Germania, come se fosse un vampiro. Come ci racconta Monsieur Sue, sarebbe stato tra quei principi tedeschi che divennero vittime delle manovre diplomatiche se non fosse stato salvato dalla necessità di abdicare grazie alla protezione di un marchese francese. Questo ci dà un’idea delle dimensioni del suo territorio. Possiamo anche comprendere meglio quanto Rudolph valuti criticamente la propria situazione, considerando che lui, un semplice principe minore tedesco, ritiene necessario vivere in semi-incognito a Parigi per evitare di attirare l’attenzione. Porta con sé uno dei suoi cancellieri proprio con lo scopo che quest’ultimo rappresenti, per lui, “il lato teatrale e infantile del potere sovrano”, come se un principe minore tedesco avesse davvero bisogno di un altro rappresentante di tale aspetto del potere. Oltre a sé stesso e al proprio specchio, naturalmente. Rudolph è riuscito a imporre anche alla sua cerchia la stessa autoinganno critico. Così i suoi servitori Murph e Graun non si accorgono che l’uomo d’affari parigino Monsieur Badinot si prende gioco di loro, fingendo di trattare le loro istruzioni private come questioni di stato e commentandole in modo sarcastico.
+
+“Relazioni nascoste che possono esistere tra gli interessi più diversi e i destini degli imperi, ” “Sì,” dice l’inviato di Rudolph, “a volte ha la sfrontatezza di dirmi: ‘Quante complicazioni sconosciute al popolo esistono nella gestione di uno stato! Chi avrebbe mai pensato, signor barone, che le note che vi consegno possano influenzare il corso degli affari europei?’”
+
+L’inviato e Murph non ritengono che sia presuntuoso essere attribuita loro un’influenza sui affari europei, ma trovano che Badinot idealizzi in modo eccessivo la propria umile posizione professionale.
+
+Ricordiamo innanzitutto una scena dalla vita domestica di Rudolph. Rudolph dice a Murph che “provava momenti di orgoglio e felicità”; subito dopo, però, si arrabbia perché Murph rifiuta di rispondere a una sua domanda. “Vi ordino di obbedire”, dice Rudolph. Ma Murph non intende lasciarsi comandare. Rudolph aggiunge: “Non mi piacciono le reticenze”. Arriva persino al punto di ricordare a Murph che gli paga per tutti i suoi servizi. Solo quando Murph gli rammenta l’episodio del 13 gennaio, Rudolph si calma. La natura servile di Murph ritorna prepotentemente dopo un breve periodo di remissione: strappa via i propri “capelli” – che, per fortuna, non possiede davvero – e si dispera per essere stato così scortese verso il proprio “nobile padrone”, che lo definisce “un servitore modello”, “il suo vecchio e fedele Murph”.
+
+Dopo questi esempi di malvagità in lui, Rudolph ripete le sue idee fisse su “bene” e “male” e descrive il [progresso](/positions/progress) che sta facendo nel perseguire il bene. Definisce l’elemosina e la compassione i consolatori puri e devoti della sua anima ferita. Sarebbe orribile, empio, un sacrilegio prostituirle a esseri abietti e indegni. Naturalmente, l’elemosina e la compassione sono davvero i consolatori della sua anima; per questo motivo profanarle sarebbe un sacrilegio. Significherebbe “insinuare dubbi su Dio, poiché colui che dona deve far credere nelle sue virtù”. Dare l’elemosina a qualcuno che si trova in condizioni disperate è semplicemente inimmaginabile!
+
+Rudolph considera ogni movimento della sua anima infinitamente importante. Ecco perché li osserva e li valuta costantemente. Pertanto, riguardo alla sua reazione contro Murph, il sempliciotto si consola pensando di essere stato mosso da Fleur de Marie: “Sono stato commosso fino alle lacrime, e ora mi accusano di essere blasé, duro e inflessibile!” Dopo aver così dimostrato la propria bontà, diventa furioso contro il “male”, contro la malvagità della madre sconosciuta di Marie, e dice a Murph con la massima solennità possibile:
+
+“Lo sai, alcune vendette sono molto importanti per me, alcuni dolori molto preziosi.”
+
+Parlando, fa delle smorfie così diaboliche che il suo fedele servitore grida per paura: “Ahimè, Monsignore!” Questo grande signore è simile ai membri del movimento della “Giovane Inghilterra”, che anch’essi desiderano riformare il mondo e compiere azioni nobili, ma sono soggetti a crisi isteriche simili.
+
+La spiegazione delle avventure e delle situazioni in cui Rudolph si trova coinvolto risiede soprattutto nella sua natura avventurosa. Ama “l’emozione che derivano dai romanzi, dalle distrazioni, dalle avventure, dai travestimenti”; la sua “curiosità” è “insaziabile”, prova un “bisogno di sensazioni intense e stimolanti” ed è “desideroso di emozioni forti e nervose”.
+
+Questo atteggiamento di Rudolph viene rafforzato dalla sua ossessione nel voler interpretare il ruolo della “Provvidenza” e organizzare il mondo secondo le sue idee fisse.
+
+Il suo atteggiamento verso le altre persone è determinato o da un’idea astratta e fissa, o da motivi del tutto personali e casuali.
+
+Ad esempio, libera il dottore negro David e la sua amata non a causa della diretta [simpatia](/positions/moral_sentiment) umana che essi ispirano, né per liberarli veramente, ma per recitare il ruolo di “Provvidenza” nei confronti del proprietario di schiavi Willis e per punirlo per la sua mancanza di fede in Dio. Allo stesso modo, l’insegnante rappresenta, ai suoi occhi, un’opportunità concessa dal cielo per applicare quella teoria penale che aveva inventato molto tempo prima. La conversazione di Murph con l’inviato Graun ci permette, da un altro punto di vista, di comprendere appieno i motivi puramente personali che guidano le azioni nobile di Rudolph.
+
+L’interesse del principe per Fleur de Marie si basa, come afferma Murph, “oltre alla” compassione che la povera ragazza suscita, sul fatto che la figlia la cui perdita gli causò un dolore così profondo avrebbe ora lo stesso età. La simpatia di Rudolph per la marchesa d’Harville deriva, “oltre alle sue particolari inclinazioni filantropiche”, da un motivo personale: senza l’ex marchesa d’Harville e la sua [amicizia](/concepts/friendship) con l’imperatore Alessandro, il padre di Rudolph non sarebbe mai entrato nella linea di successione dei sovrani tedeschi.
+
+La sua gentilezza verso Madame George e il suo interesse per Germain, suo figlio, hanno lo stesso motivo. Madame George appartiene alla famiglia d’Harville.
+
+Sia ai suoi mali che alle sue virtù, sia a questa relazione stessa, povera Madame George deve la gentilezza incessante di Sua Altezza.
+
+L’apologeta Murph cerca di mascherare l’ambiguità delle motivazioni di Rudolph utilizzando espressioni del tipo: “soprattutto, in particolare, non meno di”.
+
+L’intera personalità di Rudolph si riassume infine nell’ipocrisia “pura” con cui riesce a far vedere a se stesso e agli altri che le esplosioni delle sue passioni malvagie sono in realtà manifestazioni dell’opposizione alle passioni dei malvagi. Lo stesso accade nella “Critica Critica”: essa rappresenta le proprie stupidità come quelle della Massa, il proprio rancore verso i progressi del mondo esterno come quello della stessa massa verso tali progressi; inoltre, il suo egoismo, che si considera l’incarnazione di tutto lo Spirito, viene presentato come l’opposizione egoistica della Massa allo Spirito stesso.
+
+Dovremo dimostrare l’ipocrisia “pura” di Rudolph nel suo atteggiamento verso il maestro di scuola, la contessa Sarah MacGregor e il notaio Jacques Ferrand.
+
+Per attirare il maestro di scuola in una trappola e catturarlo, Rudolph lo persuade a introdursi nel suo appartamento. L’interesse che nutre al riguardo è puramente personale, non legato alle esigenze umane in generale. Il fatto è che il maestro di scuola possiede una cartella contenente documenti appartenenti alla contessa MacGregor, e Rudolph desidera ardentemente impossessarsene. Parlando del colloquio tra Rudolph e il maestro di scuola, l’autore afferma esplicitamente:
+
+“Rudolph era terribilmente ansioso: se avesse perso questa opportunità di catturare il maestro di scuola, probabilmente non ne avrebbe mai più avuta un’altra; quel brigante avrebbe portato via i segreti che Rudolph desiderava tanto scoprire.”
+
+Con l’aiuto del maestro di scuola, Rudolph ottiene in possesso il portfolio della contessa MacGregor; lo afferra per motivi puramente personali; lo fa accecare per passione personale.
+
+<span class="atom-split" data-atom="060" data-title="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein (parte 13)" data-chapter="Chapter VIII. The Earthly Course and Transfiguration Of “Critical Criticism”, Or “Critical Criticism” As Rudolph, Prince of Geroldstein" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 When Chourineur tells Rudolph of the struggle of the maître d’école with Murph and gives as the reason for his resistance the fact that he knew what was in store for him, Rudolph replies: “He did not know”, and he says “with a sombre mien, his features contracted by the almost ferocious expression of which we have spoken.” The thought of vengeance flashes across his mind, he anticipates the savage pleasure that the barbarous punishment of the maître d’école will afford him.
 
@@ -2992,7 +5859,57 @@ The “good” Rudolph! Burning with desire for revenge, thirsting for blood, wi
 
 “The power of Criticism”, to compensate for the otherwise complete nullity of this Don Quixote, makes him “bon locataire”, ‘bon voisin”, “bon ami”, “bon père”, “bon bourgeois”, “bon citoyen”, “bon prince”, and so on, according to Herr Szeliga’s gamut of eulogy. That is more than all the results — that “mankind in its entire history” has achieved. That is enough for Rudolph to save “the world” twice from “downfall”!
 
-<span class="atom-split" data-atom="061" data-title="Chapter IX. The Critical Last Judgment" data-chapter="Chapter IX. The Critical Last Judgment" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Quando Chourineur racconta a Rudolph della lotta del maestro di scuola contro Murph e spiega che la ragione della sua resistenza sia il fatto di conoscere ciò che lo aspettava, Rudolph risponde: “Lui non lo sapeva”, e lo dice con un’espressione cupa, i tratti del suo viso contratti da un’aria quasi feroce. Il pensiero della vendetta gli attraversa la mente; anticipa il piacere selvaggio che gli procurerà la punizione brutale inflitta al maestro di scuola.
+
+All’ingresso del dottore nero David, che intende utilizzare come strumento della sua vendetta, Rudolph esclama:
+
+“‘Vendetta!. Vendetta!’ gridò Rodolfo con una voce fredda e concentrata”.
+
+In lui ribolle una rabbia fredda e concentrata. Poi sussurra il suo piano all’orecchio del medico; quando quest’ultimo si ritrae inorridito, egli trova immediatamente un motivo “puro” e teorico da sostituire alla vendetta personale. Si tratta soltanto di “applicare un’idea” che spesso gli è balenata nella mente nobile, e non dimentica di aggiungere con ipocrisia: “Davanti a lui ci sarà ancora l’orizzonte infinito del pentimento”. Segue l’esempio dell’Inquisizione spagnola, che, quando consegnava alla giustizia civile la vittima condannata al rogo, aggiungeva una richiesta ipocrita di misericordia per il peccatore pentito.
+
+Naturalmente, quando avrà luogo l’interrogatorio e la sentenza del maestro di scuola, Sua Altezza è seduto in uno studio molto confortevole, indossando una lunga veste da camera nera; i suoi tratti sono estremamente pallidi. Per imitare più fedelmente un tribunale, si trova davanti a un lungo tavolo su cui sono disposti gli elementi del caso. Ora deve abbandonare quell’espressione di rabbia e vendetta con cui aveva raccontato a Chourineur e al dottore il suo piano per accecare il maestro di scuola; deve mostrarsi “calmo, triste e composto”, assumendo l’atteggiamento estremamente comico e solenne di un autoproclamatosi giudice del mondo.
+
+Al fine di non lasciare alcun dubbio riguardo al movente “puro” di tale atto di cecchinaggio, lo sciocco Murph ammette all’inviato Graun:
+
+“La crudele punizione del maestro di scuola aveva lo scopo principale di permettermi di vendicarmi dell’assassino.”
+
+In un colloquio privato con Murph, Rudolph dice:
+
+“Il mio odio per i malvagi, è diventato ancora più forte; la mia avversione verso Sarah Bags, senza dubbio, deriva dal dolore causato dalla morte di mia figlia.”
+
+Rudolph ci racconta quanto sia aumentata la sua avversione per i malvagi. È ovvio che si tratti di un’odio critico, puro, morale: un odio verso i malvagi semplicemente perché lo sono. Ed è proprio per questo che considera tale odio come il proprio [progresso](/positions/progress) verso il bene.
+
+Tuttavia, allo stesso tempo, questo aumento dell’odio morale non è altro che una giustificazione ipocrita per mascherare la sua crescente avversione personale verso Sarah. Quell’idea morale vaga riguardo al suo odio sempre maggiore nei confronti dei malvagi non è altro che un pretesto per nascondere il fatto concreto e immorale della sua crescente antipatia verso Sarah. Questa avversione ha una base molto naturale e strettamente personale: il suo dolore personale, che rappresenta anche l’intensità di tale avversione. Senza dubbio!
+
+Ancora più ripugnante è l’ipocrisia manifestata nel colloquio di Rudolph con la contessa MacGregor morente.
+
+Dopo la [rivelazione](/concepts/revelation) del mistero secondo cui Fleur de Marie è figlia di Rudolph e della Contessa, Rudolph si avvicina a lei con un’espressione “minacciosa, spietata”. Lei supplica per pietà.
+
+“Nessuna grazia,” risponde lui, “Maledizione su di te, tu, il mio cattivo genio e quello della mia razza.”
+
+Quindi è proprio la sua “razza” che desidera vendicare. Prosegue spiegando alla Contessa come, per espiare il tentativo di omicidio nei confronti di suo padre, si sia impegnato in una crociata mondiale al fine di premiare i buoni e punire i malvagi. Tortura la Contessa, si abbandona alla sua rabbia, ma ai suoi occhi sta semplicemente adempiendo alla missione che si è assunto dopo il 13 gennaio: “perseguitare il male”.
+
+Mentre sta per andarsene, Sarah grida:
+
+“‘Pietà! Sto morendo!’ ‘Allora muori, maledetta!’ disse Rodolfo, folle di rabbia”.
+
+Le ultime parole “spaventose di furia” rivelano i motivi puri, critici e morali delle sue azioni. Fu la stessa rabbia che lo spinse a estrarre la spada contro suo padre, il suo benedetto padre, come lo chiama il signor Szeliga. Invece di combattere questo male dentro di sé, lo combatte, da vero critico, negli altri.
+
+Alla fine, lo stesso Rudolph abbandona la sua teoria penale cattolica. Voleva abolire la pena di morte e trasformare le punizioni in forme di penitenza, ma solo nel caso in cui l’assassino uccidesse estranei e risparmiasse i membri della famiglia di Rudolph. Tuttavia, adotta nuovamente la pena di morte non appena uno dei suoi parenti viene assassinato; necessita quindi di due sistemi legali diversi: uno per sé stesso e uno per le persone comuni.
+
+Impara da Sarah che Jacques Ferrand è la causa della morte di Fleur de Marie. Si dice a se stesso:
+
+“No, non basta. Che ardente desiderio di vendetta. Che sete di sangue. Che rabbia calma e deliberata. Fino a quando non ho scoperto che una delle vittime di quel mostro era mia figlia, mi dicevo: la morte di quest’uomo sarebbe inutile. Una vita senza denaro, una vita priva della soddisfazione dei suoi desideri sensuali frenetici sarebbe una tortura lunga e atroce. Ma è mia figlia. Ucciderò quest’uomo!”
+
+E corre fuori per ucciderlo, ma lo trova in uno stato che rende l’omicidio del tutto inutile.
+
+Il “buon” Rudolph. Ardente di desiderio di vendetta, assetato di sangue, animato da una rabbia calma e deliberata, e avvolto in un’ipocrisia che giustifica ogni impulso malvagio con sofismi, possiede tutte le passioni negative per cui è disposto a strappare gli occhi agli altri. Solo colpi di fortuna casuali, denaro e status sociale salvano quest’uomo “buono” dalla prigione.
+
+“Il potere della Critica”, per compensare l’altrimenti totale nulla di questo Don Chisciotte, lo rende “buon inquilino”, “buon vicino”, “buon amico”, “buon padre”, “buon borghese”, “buon cittadino”, “buon principe”, e così via, secondo l’intera gamma di elogi proposta da Herr Szeliga. Questo rappresenta molto di più di tutti i risultati che “l’umanità nel corso della sua intera storia” è riuscita a ottenere. È sufficiente perché Rudolph possa salvare “il mondo” due volte dal “crollo”!
+
+<span class="atom-split" data-atom="061" data-title="Chapter IX. The Critical Last Judgment" data-chapter="Chapter IX. The Critical Last Judgment" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/meaning_of_history,assi/god,positions/materialism,positions/idealism,positions/historical_materialism,concepts/self_consciousness,concepts/religion,concepts/idea,figures/bauer,forms/critique,forms/essay,schools/historical_materialism_school,schools/german_idealism"></span>
 
 Through Rudolph, Critical Criticism has twice saved the world from downfall. but only that it may now itself decree the end of the world.
 
@@ -3023,3 +5940,35 @@ Ploughing goes much better!
 Historical Epilogue
 
 As we learned later, it was not the world, but the Critical Literatur-Zeitung that came to an end.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Attraverso Rudolph, la “Critica Critica” ha salvato il mondo dal declino per due volte; ma ora è proprio essa a decretare la fine del mondo stesso.
+
+E vidi e udii un angelo potente, Herr Hirzel, volare da Zurigo attraverso i cieli. Teneva in mano un piccolo libro aperto, simile al quinto numero della rivista “Allgemeine Literatur-Zeitung”; posò il piede destro sulla “Messa” e il piede sinistro su Charlottenburg; gridò con voce potente, come quando un leone ruggisce, e le sue parole si elevarono verso i regni del pathos e degli aspetti tuonanti del Giudizio Universale.
+
+“Quando, finalmente, tutto si unirà contro la Critica – e vi dico davvero, questa volta non manca molto – quando l’intero mondo, ormai in dissoluzione, verrà chiamato a combattere contro il Santo; allora il coraggio della Critica e la sua importanza riceveranno la più grande [riconoscenza](/concepts/recognition) possibile. Non dobbiamo temere l’esito: tutto finirà con il nostro confronto diretto con i vari gruppi ostili, e li separeremo l’uno dall’altro come un pastore separa le pecore dalle capre; metteremo le pecore a destra e le capre a sinistra, e concederemo ai nemici un “certificato di povertà”: sono spiriti del diavolo, che vanno in giro per il mondo per radunarsi e combattere nel grande giorno di Dio Onnipotente. E tutti coloro che abitano sulla terra ne saranno stupiti.”
+
+E quando l’angelo ebbe gridato, sette tuoni emisero la loro voce:
+
+Quel giorno di furia.
+
+Ridurrà il mondo in cenere.
+
+Quando il giudice prende posto.
+
+Tutto ciò che è nascosto verrà alla luce.
+
+Niente rimarrà impunito.
+
+Allora, che cosa dovrei dire io, misero essere,? ecc.
+
+Udirete parlare di guerre e voci di guerre. Tutto ciò dovrà prima accadere. Poiché sorgeranno falsi Cristi e falsi profeti: Monsieur Buchez e Roux da Parigi, Herr Friedrich Rohmer e Theodor Rohmer da Zurigo; essi diranno: “Ecco il Cristo!” Ma allora apparirà il segno dei fratelli Bauer in “Critica”, e le parole della [Scrittura](/concepts/revelation) riguardanti l’opera di Bauer si avvereranno.
+
+Con gli buoi accoppiati insieme.
+
+Arare va molto meglio ora!
+
+Epilogo Storico
+
+Come abbiamo appreso in seguito, non è stato il mondo ad aver fine, ma la rivista “Critical Literatur-Zeitung”.

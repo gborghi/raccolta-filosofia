@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Column on Maura's speech at the Teatro Real: regret for a figure reduced to summing up society lectures. Ortega draws from it the claim that Spain's great parties, right and left, are 'solidarities of equivocation', and that when everything public is falsified only each man's fidelity to himself can save us.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

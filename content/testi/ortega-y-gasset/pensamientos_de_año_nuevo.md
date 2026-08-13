@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A New Year article on the duality between the formal, reasoning person and a naive 'I', puerile or savage, that fears Tuesday the 13th and trusts hunches. It cites Plato: the rational man cannot fear death, but he always carries a child inside, and it is that child that fears; the same child lends magic importance to New Year's Day, a division of time that is our own invention.
+
+## Connections
+
+**Assi:** [[assi/time_and_death|Tempo e morte]]  
+**Concetti:** [[concepts/death|morte]], [[concepts/time|tempo]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -84,7 +93,7 @@ Per lui, il primo di gennaio è l'anticipazione di tutto l'anno; è la festa del
 
 Che accadrà, che ci accadrà quest'anno? Il mondo è triste, l'umanità angosciata come poche volte nel corso di tutta la sua storia. La guerra, dovunque, non ha fatto che seminare pessimismo nelle viscere. Qui, là potrà risuonare una voce di apparente allegrezza: la vanità, l'odio o l'interesse si divertono in quella finzione di giubilo. In fondo, il vanitoso, il rancoroso e l'interessato, sentono la stessa desolazione cordiale che l'umile, l'amoroso e l'indifferente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/time_and_death,concepts/death,concepts/time,figures/plato,forms/essay"></span>
 
 Para encontrar una tristeza igual sobre el haz de Europa, habría que retornar al siglo X, cuando, poco antes del año mil, las gentes temieron que llegase el fin del mundo. Las doctrinas del milenio dieron lugar a la leyenda de los famosos terrores milenarios. Aunque hoy se sepa que esos terrores no adquirieron el valor pintoresco que se suponía, se sabe también que hambres, plagas, la horrible peste del fuego ardiente sobre todo, las guerras, la falta de ideales supremos y un enorme cansancio universal, apretaron amargamente los corazones. Y las gentes donaban sus bienes a los conventos en escrituras que comenzaban así: Appropinquante termino mundi.
 

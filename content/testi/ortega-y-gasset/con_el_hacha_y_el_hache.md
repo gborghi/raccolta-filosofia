@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Note on the phonetic history of Castilian (loss of f, aspiration into h, etc.) and its originality among Iberian romances. Not philosophical.
+> A very short text (196 words) with no sample in the digest: content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

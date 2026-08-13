@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > After Primo de Rivera's dictatorship no Spanish government can be legal, since a legal situation is born only of a legal situation; one can ask only for 'juridical decency', which in Ortega's judgement the Berenguer government guarantees. But the old normality is to be resumed only in its legal form, not its content: the dictatorship was the child of the 1876 regime, and cause and effect form an indivisible organism.
+
+## Connections
+
+**Concetti:** [[concepts/law|legge]], [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +121,7 @@ Nel frontespizio della legge fondamentale del 1876 si proclamano certe garanzie;
 
 Anche se sembra incredibile, il grande e urgente compito che oggi gli spagnoli hanno immediatamente dinanzi a sé consiste nella nazionalizzazione dello Stato spagnolo. Il resto, o è inane, o suppone la risoluzione previa di quel compito. Perciò sarebbe necessario compaginare un enorme partito nazionalizzatore, al di sopra di «destre» e «sinistre», che sono cianfrusaglie improprie della critica altezza in cui si trova il destino europeo. Un enorme partito travolgente, tanto grande e tanto senza manie, che quasi non potesse chiamarsi partito. E poiché l'uso della lingua imponga questo nome, che potesse chiamarsi nazionale.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/law,concepts/state,forms/essay"></span>
 
 Un partido nacional es un partido hacia dentro de la nación, y, por tanto, excluye el nacionalismo que implica un frente a y un contra de otras naciones. En Europa carece hoy de sentido el nacionalismo. Por la sencilla razón de que no es posible un nacionalismo sin agresión e imperialismo, sin batallas y sin conquistas —por eso el gran nacionalista Napoleón fue el mayor imperialista. Por eso el fascismo inevitablemente fracasará, cualesquiera sean o fueren sus otros aciertos y oportunidades, que yo aquí no discuto ni ligeramente sentencio. Lo que digo es que en Europa un nacionalismo de 1930 será inevitablemente la política del cuadrado redondo.
 

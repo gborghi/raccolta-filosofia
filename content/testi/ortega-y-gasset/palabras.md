@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A short homage address to Azorín (1913): pure, disinterested applause as a spiritual luxury a society must cultivate lest public life lose all hierarchy and perspective. An occasional piece, not philosophical.
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article against the royal decree imposing Don Quixote in primary schools, but also against Zozaya's practicalist pedagogy, which would prefer newspapers: the newspaper is topicality and surface. To educate is to eliminate, and elementary education is education in essentials.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

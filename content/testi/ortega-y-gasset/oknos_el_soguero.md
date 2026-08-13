@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On historical optics: as each plane under a microscope demands its own focus, so each epoch demands a peculiar accommodation of our intuitive organ — and a failure to accommodate does not merely blur our sight, it makes us see something else. The oddest case is antiquity, sublimated into a norm: but all exemplariness is anti-historical, since to find a norm is to worship, not to explain. Grote and Mommsen brought it back into time, yet modernising is not enough: to historicise is to discover that what today is one way was yesterday another.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]], [[assi/time_and_death|Tempo e morte]]  
+**Posizioni:** [[positions/perspectivism|prospettivismo]], [[positions/historicity|storicità]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +110,7 @@ Il sepolcro è forse il primogenito della cultura. «Alla pietra —dice Bachofe
 
 Così, nel colombario di villa Panfilia, questa figura di un vecchio taciturno, seduto tra piante di pantano, che intreccia faticosamente una corda, il cui estremo rosicchia un'asina. Quale intenzione ha questo geroglifico? I «classici» non lo capivano più e inventarono interpretazioni superficiali di un prosaico e borghese razionalismo. Pausania suppone che sia un uomo laborioso, a cui la moglie, rappresentata nell'asina, dilapida l'avere. Per Plinio si tratta di un fannullone condannato negli inferi a una fatica perdurabile e vana. Nulla di tutto ciò si compagina con il grave contegno del vecchio e con la solenne suggestione che da tutta la scena trasceende.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,assi/time_and_death,positions/perspectivism,positions/historicity,forms/essay"></span>
 
 Unas palabras de Diodoro nos ponen sobre la pista. Según ellas, en Egipto quedaba un resto de ceremonia ritual, donde uno de los iniciados trenza una soga y los demás la deshacen por el otro extremo. El trenzar la soga tiene, pues, un significado ritual donde se conserva como petrificada una ideología religiosa. «Su sentido no puede ser dudoso. El trenzado de las sogas y cuerdas es un acto simbólico que aparece con alguna frecuencia y nace del mismo pensamiento que el hilar y tejer en que se supone ocupada a la ingente madre Naturaleza. En la imagen del hilar y tejer se representa la actividad plástica, conformadora de las fuerzas naturales. La labor de la Madre Primitiva es asimilada al artificioso trenzar y urdir que presta a la [materia](/positions/materialism) bruta estructura, forma simétrica, delicadeza». «La Terra es por esto en el pensar antiguo la suprema artífice —daedala, artifex rerum—, y se la llama la madre formadora —µήτηϱ πλαστήνη. Su instrumento es la mano humana con sus articulaciones libres. La articulación es signo de alto destino organizador». «Por eso, según Suetonio, se consideraba la pezuña hendida que distinguía al caballo de César como un presagio de sumo poder; e inversamente, según Plutarco, la carencia de articulación confirma la naturaleza destructora y demoníaca del asno». Es curioso que en los mitos textiles suelen ser representadas escenas eróticas. Arakne urde las aventuras amorosas de los dioses y su promiscuidad con las hembras humanas; el bordado de Hefaistos, la cohabitación de Afrodita con Ares, y la «mejor tejedora», Eileithya, es a la par patrona de los nacimientos. En este sentido erótico y natalicio va inclusa la idea del hado. En el tejido se entreteje el hilo de cada vida, ese hilo que tantas veces aparece en la mitología, funesto cuando se quiebra, como en el santuario de las Erinyas; benéfico en la aventura dionisíaca de Ariadna-Afrodita.
 

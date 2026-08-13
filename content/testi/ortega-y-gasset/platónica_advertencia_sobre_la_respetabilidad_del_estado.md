@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A 1931 article: Spain's only genuine problem is to build a new state, and a state is above all a public power that is respectable and therefore respected, not a matter of police force. If the state attacks a social group it ipso facto ceases to be a state and becomes Revolution or Counter-revolution: 'Russia and Italy are not states'.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

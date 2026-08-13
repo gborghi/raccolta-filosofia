@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Review of the Spanish diary of the German art critic Meier-Graefe: against readers who only want to know whether the foreigner speaks 'well' or 'ill' of Spain, Ortega proposes the patriotism for which the fatherland is not a finished thing but a perpetual problem, and reads travel books as prisms that break our ethnic reality into its components.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +126,7 @@ Meier-Graefe confessa al termine del libro questa sua mancanza: «Spesso —dice
 
 * * *
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Este párrafo, que copiaba para justificar mi acusación, nos deja en suspenso, nos obliga a dudar de nuestro propio juicio. Con efecto, unos cuantos grandes hombres pueden pesar lo que un pueblo, más que un pueblo. En la historia de la cultura acaso pese más Cervantes que todo el continente africano. Y por otra parte, ¿hasta qué punto un pueblo sin grandes hombres sería verdaderamente un pueblo? Una raza —dice justamente Renan— es, ante todo, un molde de educación moral. Y ¿es ésta posible sin grandes hombres? Grandes educadores o grandes educados, ¿no son los grandes hombres síntomas de la capacidad moral necesaria a todo grupo humano para organizarse en esa unidad superior de cultura, en esa densa y potente animosidad colectiva que llamamos un pueblo? Cuando hacemos camino y peregrinamos en busca de la intimidad de una raza, ¿nos atrae sólo la frívola perspectiva de usos y trajes pintorescos? Visitar un pueblo ¿no es buscar el contacto espiritual con la mística comunión de sus grandes hombres?
 

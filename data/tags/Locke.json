@@ -1,437 +1,3343 @@
 {
- "A_FOURTH_LETTER_FOR_TOLERATION": {
-  "axes": [
-   "state_and_individual",
-   "god"
-  ],
-  "positions": [
-   "toleration",
-   "liberty_of_conscience"
-  ],
-  "concepts": [
-   "religion",
-   "faith",
-   "law"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "epistle"
-  ],
-  "schools": [
-   "enlightenment"
-  ],
-  "summary_it": "Ultima replica polemica (dopo dodici anni) nella controversia con Jonas Proast: Locke deride il metodo dell'avversario di rispondere 'per campione' e ribadisce che la costrizione del magistrato in materia di religione resta ingiusta e inefficace.",
-  "summary_en": "Locke's last polemical reply (after twelve years) in the controversy with Jonas Proast: he mocks the opponent's method of answering 'by specimen' and reaffirms that the magistrate's use of force in religion remains unjust and ineffective."
- },
- "A_LETTER_CONCERNING_TOLERATION_1689": {
-  "axes": [
-   "state_and_individual",
-   "god"
-  ],
-  "positions": [
-   "toleration",
-   "liberty_of_conscience"
-  ],
-  "concepts": [
-   "religion",
-   "faith",
-   "justice"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "epistle"
-  ],
-  "schools": [
-   "enlightenment"
-  ],
-  "summary_it": "Il classico manifesto della tolleranza: la vera Chiesa si riconosce dalla carita', non dalla forza; il compito civile del magistrato e la cura delle anime sono ambiti distinti, e la coercizione religiosa e' contraria allo spirito del Vangelo.",
-  "summary_en": "The classic manifesto of toleration: the true Church is marked by charity, not force; the magistrate's civil office and the care of souls are distinct spheres, and religious coercion is contrary to the spirit of the Gospel."
- },
- "A_PARAPHRASE_AND_NOTES_ON_THE_EPISTLES_OF_ST_PAUL_TO_THE_GALATIANS_1_AND_2_CORINTHIANS_ROMANS_EPHESIANS": {
-  "axes": [
-   "god",
-   "faith_reason"
-  ],
-  "positions": [],
-  "concepts": [
-   "revelation",
-   "faith",
-   "grace",
-   "religion",
-   "divine_law",
-   "law"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "essay"
-  ],
-  "schools": [],
-  "summary_it": "Parafrasi e note esegetiche delle epistole paoline (Galati, Corinzi, Romani, Efesini), precedute da un saggio sul metodo per capire San Paolo consultando Paolo stesso: opera di ermeneutica scritturale, non di filosofia politica.",
-  "summary_en": "Paraphrase and exegetical notes on the Pauline epistles (Galatians, Corinthians, Romans, Ephesians), prefaced by an essay on understanding St. Paul by consulting Paul himself: a work of scriptural hermeneutics, not political philosophy."
- },
- "A_SECOND_LETTER_CONCERNING_TOLERATION": {
-  "axes": [
-   "state_and_individual",
-   "god"
-  ],
-  "positions": [
-   "toleration",
-   "liberty_of_conscience"
-  ],
-  "concepts": [
-   "religion",
-   "faith"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "epistle"
-  ],
-  "schools": [
-   "enlightenment"
-  ],
-  "summary_it": "Risposta a Jonas Proast: poiche' egli stesso ammette che la forza e' inadatta a far abbracciare la verita' che salva, Locke mostra che ogni punizione per motivi religiosi e' persecuzione ingiusta e chiede la tolleranza anche di pagani, maomettani ed ebrei.",
-  "summary_en": "Reply to Jonas Proast: since Proast himself admits force is unfit to make men embrace saving truth, Locke shows that any punishment for religion is unjust persecution and demands toleration even of pagans, Muslims, and Jews."
- },
- "A_SECOND_VINDICATION_OF_THE_REASONABLENESS_OF_CHRISTIANITY": {
-  "axes": [
-   "god",
-   "faith_reason"
-  ],
-  "positions": [
-   "harmony_of_faith_reason"
-  ],
-  "concepts": [
-   "faith",
-   "revelation",
-   "religion",
-   "reason"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "essay"
-  ],
-  "schools": [
-   "enlightenment"
-  ],
-  "summary_it": "Ampia difesa contro John Edwards, che lo accusava di socinianesimo: Locke insiste che l'unico articolo di fede necessario e' che Gesu' e' il Messia e riporta la disputa dai personalismi al merito scritturale della sua dottrina.",
-  "summary_en": "Extended defence against John Edwards, who charged him with Socinianism: Locke insists that the one necessary article of faith is that Jesus is the Messiah, and brings the dispute back from personal attacks to the scriptural merits of his doctrine."
- },
- "A_THIRD_LETTER_FOR_TOLERATION": {
-  "axes": [
-   "state_and_individual",
-   "god"
-  ],
-  "positions": [
-   "toleration",
-   "liberty_of_conscience"
-  ],
-  "concepts": [
-   "religion",
-   "faith",
-   "law"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "epistle"
-  ],
-  "schools": [
-   "enlightenment"
-  ],
-  "summary_it": "Lunghissima confutazione capitolo per capitolo dello schema di Proast: se il magistrato dovesse usare la forza per la 'vera' religione, ogni magistrato che crede vera la propria sarebbe tenuto a imporla, riducendo all'assurdo la pretesa persecutoria.",
-  "summary_en": "A very long chapter-by-chapter refutation of Proast's scheme: if the magistrate must use force for the 'true' religion, then every magistrate who believes his own true would be bound to impose it, reducing the persecuting claim to absurdity."
- },
- "A_VINDICATION_OF_THE_REASONABLENESS_OF_CHRISTIANITY": {
-  "axes": [
-   "god",
-   "faith_reason"
-  ],
-  "positions": [
-   "harmony_of_faith_reason"
-  ],
-  "concepts": [
-   "faith",
-   "religion",
-   "reason",
-   "revelation"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "essay"
-  ],
-  "schools": [
-   "enlightenment"
-  ],
-  "summary_it": "Breve replica a John Edwards, che aveva incluso la 'Ragionevolezza del cristianesimo' tra le cause dell'ateismo: Locke rigetta l'accusa di socinianesimo-ateismo e difende la carita' e la cautela nell'imputare a qualcuno la negazione di Dio.",
-  "summary_en": "Short reply to John Edwards, who had listed the 'Reasonableness of Christianity' among the causes of atheism: Locke rejects the Socinianism-atheism charge and defends charity and caution in imputing denial of God to anyone."
- },
- "AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING": {
-  "axes": [
-   "knowledge_origin",
-   "human_nature",
-   "universals",
-   "reality_status",
-   "god"
-  ],
-  "positions": [
-   "empiricism",
-   "empiricism_moderate",
-   "tabula_rasa",
-   "nominalism",
-   "demonstrative_theism"
-  ],
-  "concepts": [
-   "idea",
-   "experience",
-   "substance",
-   "reason",
-   "cause",
-   "will",
-   "freedom",
-   "memory"
-  ],
-  "arguments": [
-   "no_innate_ideas"
-  ],
-  "figures": [],
-  "forms": [
-   "essay"
-  ],
-  "schools": [
-   "british_empiricism"
-  ],
-  "summary_it": "L'opera fondativa dell'empirismo: nega le idee innate, deriva ogni idea da sensazione e riflessione (la mente come foglio bianco), distingue qualita' primarie e secondarie, essenze reali e nominali, e delimita la portata e i limiti della conoscenza umana.",
-  "summary_en": "The founding work of empiricism: it denies innate ideas, derives all ideas from sensation and reflection (the mind as blank paper), distinguishes primary and secondary qualities and real and nominal essences, and marks out the extent and limits of human knowledge."
- },
- "FURTHER_CONSIDERATIONS_CONSIDERING_RAISING_THE_VALUE_OF_MONEY": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "money",
-   "labour",
-   "property"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "essay"
-  ],
-  "schools": [],
-  "summary_it": "Scritto economico sulla riforma della moneta: Locke sostiene che il conio non aggiunge valore intrinseco all'argento e si oppone alla svalutazione della coniazione, difendendo un valore metallico fisso per fronteggiare la crisi della moneta tosata.",
-  "summary_en": "Economic tract on currency reform: Locke argues that coining adds no intrinsic value to silver and opposes debasing the coinage, defending a fixed metallic standard to meet the crisis of clipped money."
- },
- "MISCELLANEOUS_LETTERS_OF_JOHN_LOCKE": {
-  "axes": [
-   "knowledge_origin"
-  ],
-  "positions": [],
-  "concepts": [
-   "reason",
-   "experience",
-   "friendship"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "epistle"
-  ],
-  "schools": [
-   "british_empiricism"
-  ],
-  "summary_it": "Raccolta di corrispondenza (con Molyneux, Limborch e altri) che discute il 'Saggio sull'intelletto umano', questioni di conoscenza e percezione, e l'amicizia nella ricerca disinteressata della verita'.",
-  "summary_en": "A collection of correspondence (with Molyneux, Limborch, and others) discussing the 'Essay concerning Human Understanding', questions of knowledge and perception, and friendship in the disinterested pursuit of truth."
- },
- "MISCELLANEOUS_WORKS": {
-  "axes": [
-   "soul_body",
-   "knowledge_origin",
-   "reality_status"
-  ],
-  "positions": [],
-  "concepts": [
-   "soul",
-   "self_consciousness",
-   "substance",
-   "nature",
-   "experience",
-   "reason",
-   "education"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "essay"
-  ],
-  "schools": [
-   "british_empiricism"
-  ],
-  "summary_it": "Miscellanea che raccoglie la difesa dell'identita' personale fondata sulla coscienza, consigli su lettura e studio, gli 'Elementi di filosofia naturale' (materia, moto, sensi, intelletto) e una storia della navigazione: scritti eterogenei di taglio empirico.",
-  "summary_en": "A miscellany gathering the defence of consciousness-based personal identity, advice on reading and study, the 'Elements of Natural Philosophy' (matter, motion, senses, understanding), and a history of navigation: heterogeneous writings of empiricist cast."
- },
- "SHORT_OBSERVATIONS_ON_A_PRINTED_PAPER_ENTITLED_FOR_ENCOURAGING_THE_COINAGE_OF_SILVER_MONEY_IN_ENGLAND_AND_AFTER_FOR_KEEPING_IT_THERE": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "money",
-   "labour"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "essay"
-  ],
-  "schools": [],
-  "summary_it": "Breve pamphlet economico che confuta la tesi secondo cui l'argento coniato varrebbe meno di quello grezzo: il conio non toglie valore intrinseco, e la scarsita' di moneta coniata dipende dalla bilancia commerciale, non dalla zecca.",
-  "summary_en": "A short economic pamphlet refuting the claim that coined silver is worth less than uncoined: the stamp removes no intrinsic value, and the scarcity of minted money is due to the balance of trade, not the mint."
- },
- "SOME_CONSIDERATIONS_ON_THE_CONSEQUENCES_OF_THE_LOWERING_OF_INTEREST_AND_THE_RAISING_OF_THE_VALUE_OF_MONEY": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "money",
-   "property",
-   "law",
-   "labour"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "essay"
-  ],
-  "schools": [],
-  "summary_it": "Trattato economico che sostiene che il tasso d'interesse non puo' essere fissato utilmente per legge e analizza le conseguenze di abbassare l'interesse e alzare il valore nominale della moneta, difendendo il valore intrinseco dell'argento.",
-  "summary_en": "An economic treatise arguing that the rate of interest cannot usefully be set by law, analysing the consequences of lowering interest and raising the nominal value of money, and defending the intrinsic value of silver."
- },
- "SOME_THOUGHTS_CONCERNING_EDUCATION": {
-  "axes": [
-   "human_nature"
-  ],
-  "positions": [
-   "tabula_rasa"
-  ],
-  "concepts": [
-   "education",
-   "custom",
-   "virtue",
-   "reason",
-   "passion"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "enlightenment"
-  ],
-  "summary_it": "Trattato pedagogico, nato da lettere a Edward Clarke: poiche' il carattere si forma soprattutto per abitudine ed educazione piu' che per natura, Locke propone la formazione del gentiluomo attraverso virtu', disciplina dolce, salute del corpo e ragione.",
-  "summary_en": "A pedagogical treatise, grown from letters to Edward Clarke: since character is formed chiefly by habit and education rather than nature, Locke proposes the shaping of the gentleman through virtue, gentle discipline, bodily health, and reason."
- },
- "SOME_THOUGHTS_ON_THE_CONDUCT_OF_THE_UNDERSTANDING": {
-  "axes": [
-   "knowledge_origin",
-   "method"
-  ],
-  "positions": [
-   "empiricism",
-   "induction"
-  ],
-  "concepts": [
-   "reason",
-   "idea",
-   "custom",
-   "experience"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "british_empiricism"
-  ],
-  "summary_it": "Complemento pratico del 'Saggio': contro i difetti della logica scolastica e sull'autorita' di Bacone, Locke indaga come guidare rettamente l'intelletto correggendo pregiudizio, parzialita', fretta e cattive associazioni di idee nella ricerca del sapere.",
-  "summary_en": "A practical companion to the 'Essay': against the defects of scholastic logic and on Bacon's authority, Locke inquires how to conduct the understanding rightly by correcting prejudice, partiality, haste, and bad associations of ideas in the search for knowledge."
- },
- "THE_POEMS_OF_JOHN_LOCKE": {
-  "axes": [],
-  "positions": [],
-  "concepts": [],
-  "arguments": [],
-  "figures": [],
-  "forms": [],
-  "schools": [],
-  "summary_it": "Tre brevi componimenti occasionali: un epigramma latino-inglese dedicato a Cromwell, un panegirico per le nozze di Carlo II con l'infanta di Portogallo e versi sul trattato sulle febbri di Sydenham; poesia encomiastica, priva di contenuto filosofico.",
-  "summary_en": "Three short occasional pieces: a Latin-English epigram to Cromwell, a panegyric on Charles II's marriage to the Portuguese infanta, and verses on Sydenham's treatise on fevers; encomiastic poetry with no philosophical content."
- },
- "THE_REASONABLENESS_OF_CHRISTIANITY_AS_DELIVERED_IN_THE_SCRIPTURES": {
-  "axes": [
-   "god",
-   "faith_reason",
-   "human_nature"
-  ],
-  "positions": [
-   "harmony_of_faith_reason",
-   "original_sin"
-  ],
-  "concepts": [
-   "faith",
-   "grace",
-   "revelation",
-   "religion",
-   "reason",
-   "death"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "enlightenment"
-  ],
-  "summary_it": "Lettura scritturale del cristianesimo: partendo dalla caduta di Adamo (perdita di paradiso e immortalita') e dalla redenzione in Cristo, Locke sostiene che l'unico articolo di fede richiesto per la salvezza e' credere che Gesu' e' il Messia, mostrando la ragionevolezza del Vangelo.",
-  "summary_en": "A scriptural reading of Christianity: starting from Adam's fall (loss of paradise and immortality) and redemption in Christ, Locke argues that the one article of faith required for salvation is believing that Jesus is the Messiah, showing the reasonableness of the Gospel."
- },
- "TWO_TREATISES_OF_GOVERNMENT": {
-  "axes": [
-   "political_legitimacy",
-   "state_and_individual",
-   "human_nature"
-  ],
-  "positions": [
-   "social_contract",
-   "natural_right",
-   "revolution"
-  ],
-  "concepts": [
-   "property",
-   "labour",
-   "state",
-   "law",
-   "freedom",
-   "money",
-   "covenant",
-   "commonwealth"
-  ],
-  "arguments": [
-   "state_of_nature",
-   "labour_theory_of_property"
-  ],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "enlightenment"
-  ],
-  "summary_it": "Il primo trattato demolisce il patriarcalismo di Filmer; il secondo fonda il governo legittimo sul consenso: dallo stato di natura governato dalla legge naturale, la proprieta' nasce dal lavoro, il potere civile deriva dal patto e il popolo conserva il diritto di resistere e dissolvere un governo tirannico.",
-  "summary_en": "The First Treatise demolishes Filmer's patriarchalism; the Second founds legitimate government on consent: from a state of nature governed by natural law, property arises from labour, civil power derives from compact, and the people retain the right to resist and dissolve a tyrannical government."
- }
+  "A_FOURTH_LETTER_FOR_TOLERATION": {
+    "axes": [
+      "state_and_individual",
+      "god"
+    ],
+    "positions": [
+      "toleration",
+      "liberty_of_conscience"
+    ],
+    "concepts": [
+      "religion",
+      "faith",
+      "law"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "epistle"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
+    "summary_it": "Ultima replica polemica (dopo dodici anni) nella controversia con Jonas Proast: Locke deride il metodo dell'avversario di rispondere 'per campione' e ribadisce che la costrizione del magistrato in materia di religione resta ingiusta e inefficace.",
+    "summary_en": "Locke's last polemical reply (after twelve years) in the controversy with Jonas Proast: he mocks the opponent's method of answering 'by specimen' and reaffirms that the magistrate's use of force in religion remains unjust and ineffective.",
+    "atoms": {
+      "002_intero": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      }
+    }
+  },
+  "A_LETTER_CONCERNING_TOLERATION_1689": {
+    "axes": [
+      "state_and_individual",
+      "god"
+    ],
+    "positions": [
+      "toleration",
+      "liberty_of_conscience"
+    ],
+    "concepts": [
+      "religion",
+      "faith",
+      "justice"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "epistle"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
+    "summary_it": "Il classico manifesto della tolleranza: la vera Chiesa si riconosce dalla carita', non dalla forza; il compito civile del magistrato e la cura delle anime sono ambiti distinti, e la coercizione religiosa e' contraria allo spirito del Vangelo.",
+    "summary_en": "The classic manifesto of toleration: the true Church is marked by charity, not force; the magistrate's civil office and the care of souls are distinct spheres, and religious coercion is contrary to the spirit of the Gospel.",
+    "atoms": {
+      "014_intero": {
+        "positions": [
+          "toleration",
+          "natural_right",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "charity",
+          "commonwealth"
+        ]
+      }
+    }
+  },
+  "A_PARAPHRASE_AND_NOTES_ON_THE_EPISTLES_OF_ST_PAUL_TO_THE_GALATIANS_1_AND_2_CORINTHIANS_ROMANS_EPHESIANS": {
+    "axes": [
+      "god",
+      "faith_reason"
+    ],
+    "positions": [],
+    "concepts": [
+      "revelation",
+      "faith",
+      "grace",
+      "religion",
+      "divine_law",
+      "law"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "essay"
+    ],
+    "schools": [],
+    "summary_it": "Parafrasi e note esegetiche delle epistole paoline (Galati, Corinzi, Romani, Efesini), precedute da un saggio sul metodo per capire San Paolo consultando Paolo stesso: opera di ermeneutica scritturale, non di filosofia politica.",
+    "summary_en": "Paraphrase and exegetical notes on the Pauline epistles (Galatians, Corinthians, Romans, Ephesians), prefaced by an essay on understanding St. Paul by consulting Paul himself: a work of scriptural hermeneutics, not political philosophy."
+  },
+  "A_SECOND_LETTER_CONCERNING_TOLERATION": {
+    "axes": [
+      "state_and_individual",
+      "god"
+    ],
+    "positions": [
+      "toleration",
+      "liberty_of_conscience"
+    ],
+    "concepts": [
+      "religion",
+      "faith"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "epistle"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
+    "summary_it": "Risposta a Jonas Proast: poiche' egli stesso ammette che la forza e' inadatta a far abbracciare la verita' che salva, Locke mostra che ogni punizione per motivi religiosi e' persecuzione ingiusta e chiede la tolleranza anche di pagani, maomettani ed ebrei.",
+    "summary_en": "Reply to Jonas Proast: since Proast himself admits force is unfit to make men embrace saving truth, Locke shows that any punishment for religion is unjust persecution and demands toleration even of pagans, Muslims, and Jews.",
+    "atoms": {
+      "002_intero": {
+        "axes": [
+          "state_and_individual"
+        ],
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "003_intero": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "010_intero": {
+        "axes": [
+          "faith_reason",
+          "state_and_individual"
+        ],
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "011_intero": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "012_intero": {
+        "axes": [
+          "faith_reason"
+        ],
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "024_intero": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      }
+    }
+  },
+  "A_SECOND_VINDICATION_OF_THE_REASONABLENESS_OF_CHRISTIANITY": {
+    "axes": [
+      "god",
+      "faith_reason"
+    ],
+    "positions": [
+      "harmony_of_faith_reason"
+    ],
+    "concepts": [
+      "faith",
+      "revelation",
+      "religion",
+      "reason"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
+    "summary_it": "Ampia difesa contro John Edwards, che lo accusava di socinianesimo: Locke insiste che l'unico articolo di fede necessario e' che Gesu' e' il Messia e riporta la disputa dai personalismi al merito scritturale della sua dottrina.",
+    "summary_en": "Extended defence against John Edwards, who charged him with Socinianism: Locke insists that the one necessary article of faith is that Jesus is the Messiah, and brings the dispute back from personal attacks to the scriptural merits of his doctrine.",
+    "atoms": {
+      "022_XIV_THAT_ONE_CANNOT_PASS_BY_ANY_THING_WI": {
+        "concepts": [
+          "faith",
+          "revelation"
+        ]
+      },
+      "034_XIX_WHERE_IT_IS_THAT_I_COMMAND_MY_READER": {
+        "positions": [
+          "liberty_of_conscience",
+          "toleration"
+        ],
+        "concepts": [
+          "revelation",
+          "faith",
+          "religion"
+        ]
+      },
+      "039_XXVII_THAT_I_WILL_NOT_SUFFER_MANKIND_TO": {
+        "positions": [
+          "atheism"
+        ],
+        "concepts": [
+          "faith",
+          "religion"
+        ]
+      },
+      "040_XXVII_THAT_I_WILL_NOT_SUFFER_MANKIND_TO": {
+        "positions": [
+          "atheism"
+        ],
+        "concepts": [
+          "faith",
+          "revelation",
+          "religion"
+        ]
+      },
+      "054_XL_A_REASON_WHY_THEY_WERE_NOT": {
+        "concepts": [
+          "revelation",
+          "faith",
+          "grace"
+        ]
+      }
+    }
+  },
+  "A_THIRD_LETTER_FOR_TOLERATION": {
+    "axes": [
+      "state_and_individual",
+      "god"
+    ],
+    "positions": [
+      "toleration",
+      "liberty_of_conscience"
+    ],
+    "concepts": [
+      "religion",
+      "faith",
+      "law"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "epistle"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
+    "summary_it": "Lunghissima confutazione capitolo per capitolo dello schema di Proast: se il magistrato dovesse usare la forza per la 'vera' religione, ogni magistrato che crede vera la propria sarebbe tenuto a imporla, riducendo all'assurdo la pretesa persecutoria.",
+    "summary_en": "A very long chapter-by-chapter refutation of Proast's scheme: if the magistrate must use force for the 'true' religion, then every magistrate who believes his own true would be bound to impose it, reducing the persecuting claim to absurdity.",
+    "atoms": {
+      "011_CHAPTER_I": {
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "017_L_II_P_432": {
+        "axes": [
+          "state_and_individual"
+        ],
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "035_CHAPTER_III_WHO_ARE_TO_BE_PUNISHED_BY_YO": {
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion",
+          "revelation"
+        ]
+      },
+      "038_CHAPTER_III_WHO_ARE_TO_BE_PUNISHED_BY_YO": {
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion",
+          "law"
+        ]
+      },
+      "040_CHAPTER_III_WHO_ARE_TO_BE_PUNISHED_BY_YO": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "061_CHAPTER_VII_OF_YOUR_BRINGING_MEN_TO_THE": {
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion",
+          "faith"
+        ]
+      },
+      "068_CHAPTER_VIII_OF_SALVATION_TO_BE_PROCURED": {
+        "positions": [
+          "liberty_of_conscience",
+          "toleration"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "069_L_II_P_129": {
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion",
+          "state",
+          "revelation"
+        ]
+      },
+      "092_CHAPTER_IX_OF_THE_USEFULNESS_OF_FORCE_IN": {
+        "positions": [
+          "toleration",
+          "liberty_of_conscience",
+          "atheism"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "100_CHAPTER_X_OF_THE_NECESSITY_OF_FORCE_IN_M": {
+        "positions": [
+          "toleration"
+        ],
+        "concepts": [
+          "grace",
+          "beauty",
+          "miracle",
+          "revelation"
+        ]
+      },
+      "117_CHAPTER_X_OF_THE_NECESSITY_OF_FORCE_IN_M": {
+        "axes": [
+          "state_and_individual"
+        ],
+        "positions": [
+          "toleration",
+          "liberty_of_conscience",
+          "civil_society"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "119_CHAPTER_X_OF_THE_NECESSITY_OF_FORCE_IN_M": {
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "grace",
+          "revelation",
+          "miracle"
+        ]
+      }
+    }
+  },
+  "A_VINDICATION_OF_THE_REASONABLENESS_OF_CHRISTIANITY": {
+    "axes": [
+      "god",
+      "faith_reason"
+    ],
+    "positions": [
+      "harmony_of_faith_reason"
+    ],
+    "concepts": [
+      "faith",
+      "religion",
+      "reason",
+      "revelation"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
+    "summary_it": "Breve replica a John Edwards, che aveva incluso la 'Ragionevolezza del cristianesimo' tra le cause dell'ateismo: Locke rigetta l'accusa di socinianesimo-ateismo e difende la carita' e la cautela nell'imputare a qualcuno la negazione di Dio.",
+    "summary_en": "Short reply to John Edwards, who had listed the 'Reasonableness of Christianity' among the causes of atheism: Locke rejects the Socinianism-atheism charge and defends charity and caution in imputing denial of God to anyone."
+  },
+  "AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING": {
+    "axes": [
+      "knowledge_origin",
+      "human_nature",
+      "universals",
+      "reality_status",
+      "god"
+    ],
+    "positions": [
+      "empiricism",
+      "empiricism_moderate",
+      "tabula_rasa",
+      "nominalism",
+      "demonstrative_theism"
+    ],
+    "concepts": [
+      "idea",
+      "experience",
+      "substance",
+      "reason",
+      "cause",
+      "will",
+      "freedom",
+      "memory"
+    ],
+    "arguments": [
+      "no_innate_ideas"
+    ],
+    "figures": [],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "british_empiricism"
+    ],
+    "summary_it": "L'opera fondativa dell'empirismo: nega le idee innate, deriva ogni idea da sensazione e riflessione (la mente come foglio bianco), distingue qualita' primarie e secondarie, essenze reali e nominali, e delimita la portata e i limiti della conoscenza umana.",
+    "summary_en": "The founding work of empiricism: it denies innate ideas, derives all ideas from sensation and reflection (the mind as blank paper), distinguishes primary and secondary qualities and real and nominal essences, and marks out the extent and limits of human knowledge.",
+    "atoms": {
+      "006_THE_EPISTLE_TO_THE_READER": {
+        "forms": [
+          "epistle"
+        ]
+      },
+      "014_8_What_Idea_stands_for": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "concepts": [
+          "idea"
+        ]
+      },
+      "015_1_The_way_shown_how_we_come_by_any_Knowl": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "022_10_No_use_made_of_reasoning_in_the_disco": {
+        "positions": [
+          "empiricism",
+          "innatism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "028_19_Such_less_general_Propositions_known": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "030_21_These_Maxims_not_being_known_sometime": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "innatism",
+          "tabula_rasa"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "032_25_These_Maxims_not_the_first_known": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "innatism",
+          "tabula_rasa",
+          "empiricism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "033_26_And_so_not_innate": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "035_28_Recapitulation": {
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "036_CHAPTER_II_NO_INNATE_PRACTICAL_PRINCIPLE": {
+        "axes": [
+          "knowledge_origin",
+          "moral_foundation"
+        ],
+        "positions": [
+          "empiricism",
+          "tabula_rasa"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "042_8_Conscience_no_Proof_of_any_innate_Mora": {
+        "axes": [
+          "morality_genesis"
+        ],
+        "concepts": [
+          "custom",
+          "education"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "047_14_Those_who_maintain_innate_practical_P": {
+        "axes": [
+          "moral_foundation"
+        ],
+        "positions": [
+          "empiricism",
+          "free_will"
+        ],
+        "concepts": [
+          "mechanism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "048_15_Lord_Herberts_innate_Principles_exami": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "innatism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "056_23_Principles_supposed_innate_because_we": {
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "memory",
+          "education"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "057_24_How_such_principles_come_to_be_held": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "education"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "061_1_Principles_not_innate_unless_their_Ide": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "062_2_Ideas_especially_those_belonging_to_Pr": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "tabula_rasa"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "064_4_Identity_an_Idea_not_innate": {
+        "axes": [
+          "soul_body"
+        ],
+        "positions": [
+          "innatism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "065_5_What_makes_the_same_man": {
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "070_10_Ideas_of_God_and_idea_of_Fire": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "071_11_Idea_of_God_not_innate": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "innatism",
+          "tabula_rasa",
+          "empiricism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "072_13_Ideas_of_God_various_in_different_Men": {
+        "axes": [
+          "knowledge_origin",
+          "god"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "experience"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "077_19_Idea_of_Substance_not_innate": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "substance"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "079_21_No_innate_Ideas_in_the_Memory": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "innatism"
+        ],
+        "concepts": [
+          "memory"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "084_1_Idea_is_the_Object_of_Thinking": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "tabula_rasa"
+        ],
+        "concepts": [
+          "experience"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "085_2_All_Ideas_come_from_Sensation_or_Refle": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "tabula_rasa",
+          "empiricism"
+        ],
+        "concepts": [
+          "experience"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "086_3_The_Objects_of_Sensation_one_Source_of": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "088_5_All_our_Ideas_are_of_the_one_or_of_the": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "tabula_rasa"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "091_9_The_Soul_begins_to_have_Ideas_when_it": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "098_20_No_ideas_but_from_Sensation_and_Refle": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "tabula_rasa",
+          "empiricism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "101_23_A_man_begins_to_have_ideas_when_he_fi": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "102_24_The_Original_of_all_our_Knowledge": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "tabula_rasa"
+        ],
+        "concepts": [
+          "experience"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "103_25_In_the_Reception_of_simple_Ideas_the": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "tabula_rasa"
+        ],
+        "concepts": [
+          "experience"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "107_1_Division_of_simple_ideas": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea",
+          "experience"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "110_2_Solidity_fills_Space": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea",
+          "experience"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "111_3_Distinct_from_Space": {
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "114_6_What_Solidity_is": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "experience"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "123_8_Idea_of_Power": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea",
+          "experience"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "126_1_Positive_Ideas_from_privative_causes": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ]
+      },
+      "133_8_Our_Ideas_and_the_Qualities_of_Bodies": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "136_12_By_motions_external_and_in_our_organi": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "mechanism",
+          "experience"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "137_13_How_secondary_Qualities_produce_their": {
+        "positions": [
+          "atomism"
+        ],
+        "concepts": [
+          "mechanism"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "145_22_An_excursion_into_natural_philosophy": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea",
+          "mechanism"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "148_1_Perception_the_first_simple_Idea_of_Re": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ]
+      },
+      "149_2_Reflection_alone_can_give_us_the_idea": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "experience",
+          "idea"
+        ]
+      },
+      "153_6_The_effects_of_Sensation_in_the_womb": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "158_11_Perception_puts_the_difference_betwee": {
+        "concepts": [
+          "mechanism"
+        ]
+      },
+      "164_2_Memory": {
+        "concepts": [
+          "memory"
+        ]
+      },
+      "168_6_Constantly_repeated_Ideas_can_scarce_b": {
+        "concepts": [
+          "memory",
+          "idea"
+        ]
+      },
+      "169_7_In_Remembering_the_Mind_is_often_activ": {
+        "concepts": [
+          "memory",
+          "idea",
+          "will",
+          "passion"
+        ]
+      },
+      "170_8_Two_defects_in_the_Memory_Oblivion_and": {
+        "concepts": [
+          "memory"
+        ]
+      },
+      "175_3_Clearness_alone_hinders_Confusion": {
+        "concepts": [
+          "idees_claires_distinctes",
+          "idea"
+        ]
+      },
+      "186_15_The_true_Beginning_of_Human_Knowledge": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "tabula_rasa"
+        ],
+        "concepts": [
+          "experience"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "187_16_Appeal_to_Experience": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "tabula_rasa"
+        ],
+        "concepts": [
+          "experience"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "190_2_Made_voluntarily": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "tabula_rasa"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "191_3_Complex_ideas_are_either_of_Modes_Subs": {
+        "concepts": [
+          "mode",
+          "substance",
+          "idea"
+        ]
+      },
+      "194_6_Ideas_of_Substances_single_or_collecti": {
+        "concepts": [
+          "substance",
+          "idea"
+        ]
+      },
+      "198_2_Idea_of_Space": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ]
+      },
+      "202_6_Endless_variety_of_figures": {
+        "concepts": [
+          "infinity"
+        ]
+      },
+      "206_10_Place_of_the_universe": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "226_2_Its_Idea_from_Reflection_on_the_Train": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "eternity"
+        ],
+        "concepts": [
+          "time"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "240_16_Ideas_however_made_include_no_sense_o": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "tabula_rasa"
+        ],
+        "concepts": [
+          "time",
+          "experience"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "241_17_Time_is_Duration_set_out_by_Measures": {
+        "concepts": [
+          "time"
+        ]
+      },
+      "243_19_The_Revolutions_of_the_Sun_and_Moon_t": {
+        "concepts": [
+          "time"
+        ]
+      },
+      "244_20_But_not_by_their_Motion_but_periodica": {
+        "concepts": [
+          "time",
+          "idea",
+          "experience"
+        ]
+      },
+      "247_24_Our_Measure_of_Time_applicable_to_Dur": {
+        "concepts": [
+          "time"
+        ]
+      },
+      "252_29_The_Duration_of_anything_need_not_be": {
+        "concepts": [
+          "time"
+        ]
+      },
+      "253_30_Infinity_in_Duration": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "eternity"
+        ],
+        "concepts": [
+          "infinity",
+          "time"
+        ]
+      },
+      "256_2_Expansion_not_bounded_by_Matter": {
+        "axes": [
+          "god"
+        ],
+        "concepts": [
+          "infinity",
+          "idea"
+        ]
+      },
+      "257_3_Nor_Duration_by_Motion": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "eternity"
+        ],
+        "concepts": [
+          "infinity",
+          "time"
+        ]
+      },
+      "260_8_They_belong_to_all_finite_beings": {
+        "concepts": [
+          "infinity",
+          "time"
+        ]
+      },
+      "264_12_Duration_has_never_two_Parts_together": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "eternity"
+        ],
+        "concepts": [
+          "time",
+          "infinity"
+        ]
+      },
+      "267_3_Each_Mode_distinct": {
+        "concepts": [
+          "mode",
+          "idea"
+        ]
+      },
+      "273_1_Infinity_in_its_original_Intention_att": {
+        "axes": [
+          "god",
+          "knowledge_origin"
+        ],
+        "concepts": [
+          "infinity",
+          "idea"
+        ]
+      },
+      "278_6_Why_other_Ideas_are_not_capable_of_Inf": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "infinity"
+        ]
+      },
+      "283_12_Infinite_Divisibility": {
+        "concepts": [
+          "infinity"
+        ]
+      },
+      "286_15_What_is_positive_what_negative_in_our": {
+        "concepts": [
+          "infinity",
+          "idea"
+        ]
+      },
+      "289_18_No_positive_Idea_of_infinite_Space": {
+        "concepts": [
+          "infinity",
+          "idea"
+        ]
+      },
+      "293_1_Other_simple_Modes_of_simple_Ideas_of": {
+        "axes": [
+          "method",
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "infinity"
+        ]
+      },
+      "295_3_Modes_of_Sounds": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ]
+      },
+      "296_4_Modes_of_Colours": {
+        "concepts": [
+          "beauty",
+          "idea"
+        ]
+      },
+      "298_6_Some_simple_Modes_have_no_Names": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "305_2_Good_and_evil_what": {
+        "axes": [
+          "moral_foundation"
+        ],
+        "positions": [
+          "pleasure"
+        ]
+      },
+      "310_7_Joy": {
+        "positions": [
+          "pleasure"
+        ],
+        "concepts": [
+          "passion"
+        ],
+        "figures": [
+          "hobbes"
+        ]
+      },
+      "313_10_Fear": {
+        "concepts": [
+          "passion"
+        ],
+        "figures": [
+          "hobbes"
+        ]
+      },
+      "315_12_Anger": {
+        "concepts": [
+          "anger"
+        ]
+      },
+      "323_3_Power_includes_Relation": {
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "330_10_Belongs_not_to_Volition": {
+        "positions": [
+          "free_will"
+        ],
+        "concepts": [
+          "freedom",
+          "will"
+        ]
+      },
+      "333_15_Volition": {
+        "positions": [
+          "free_will"
+        ],
+        "concepts": [
+          "will",
+          "freedom"
+        ]
+      },
+      "334_16_Powers_belonging_to_Agents": {
+        "positions": [
+          "free_will"
+        ],
+        "concepts": [
+          "freedom",
+          "will"
+        ]
+      },
+      "335_17_How_the_will_instead_of_the_man_is_ca": {
+        "positions": [
+          "free_will"
+        ],
+        "concepts": [
+          "will"
+        ]
+      },
+      "337_19_Powers_are_relations_not_agents": {
+        "concepts": [
+          "freedom"
+        ]
+      },
+      "338_20_Liberty_belongs_not_to_the_Will": {
+        "positions": [
+          "nominalism",
+          "free_will"
+        ],
+        "concepts": [
+          "will"
+        ]
+      },
+      "339_21_But_to_the_Agent_or_Man": {
+        "positions": [
+          "free_will"
+        ],
+        "concepts": [
+          "freedom"
+        ]
+      },
+      "346_28_What_Volition_and_action_mean": {
+        "concepts": [
+          "will"
+        ]
+      },
+      "348_30_Will_and_Desire_must_not_be_confounde": {
+        "concepts": [
+          "will"
+        ]
+      },
+      "368_51_A_constant_Determination_to_a_Pursuit": {
+        "positions": [
+          "compatibilism",
+          "free_will"
+        ],
+        "concepts": [
+          "freedom",
+          "will"
+        ]
+      },
+      "398_4_The_Name_ties_the_Parts_of_mixed_Modes": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "nominalism",
+          "conceptualism"
+        ],
+        "concepts": [
+          "idea"
+        ]
+      },
+      "401_7_And_Languages_change": {
+        "positions": [
+          "nominalism"
+        ]
+      },
+      "402_8_Mixed_Modes": {
+        "positions": [
+          "nominalism"
+        ]
+      },
+      "407_CHAPTER_XXIII_OF_OUR_COMPLEX_IDEAS_OF_SU": {
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "substance",
+          "idea"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "414_8_And_why": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "substance"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "415_9_Three_sorts_of_Ideas_make_our_complex": {
+        "concepts": [
+          "substance",
+          "cause",
+          "experience"
+        ],
+        "schools": [
+          "british_empiricism",
+          "empiricism"
+        ]
+      },
+      "417_13_Conjecture_about_the_corporeal_organs": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ]
+      },
+      "425_21_God_immoveable_because_infinite": {
+        "axes": [
+          "god"
+        ],
+        "concepts": [
+          "infinity"
+        ]
+      },
+      "426_22_Our_complex_idea_of_an_immaterial_Spi": {
+        "axes": [
+          "soul_body"
+        ],
+        "positions": [
+          "substance_dualism"
+        ],
+        "concepts": [
+          "substance",
+          "soul"
+        ]
+      },
+      "432_29_Summary": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "experience",
+          "substance"
+        ]
+      },
+      "434_31_The_Notion_of_Spirit_involves_no_more": {
+        "axes": [
+          "soul_body"
+        ],
+        "concepts": [
+          "substance",
+          "infinity"
+        ],
+        "figures": [
+          "berkeley"
+        ]
+      },
+      "436_33_Our_complex_idea_of_God": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "infinity",
+          "idea"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "437_34_Our_complex_idea_of_God_as_infinite": {
+        "axes": [
+          "knowledge_origin",
+          "god"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "infinity",
+          "idea"
+        ]
+      },
+      "438_35_God_in_his_own_essence_incognisable": {
+        "axes": [
+          "knowledge_origin",
+          "god"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "infinity",
+          "idea"
+        ]
+      },
+      "452_9_Relations_all_terminate_in_simple_Idea": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "454_11_All_relatives_made_up_of_simple_ideas": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "cause",
+          "experience"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "455_1_Whence_the_Ideas_of_cause_and_effect_g": {
+        "concepts": [
+          "cause",
+          "experience",
+          "idea"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "473_13_Personal_Identity_in_Change_of_Substa": {
+        "concepts": [
+          "self_consciousness",
+          "substance"
+        ]
+      },
+      "476_16_Whether_the_same_immaterial_Substance": {
+        "concepts": [
+          "memory",
+          "soul",
+          "substance"
+        ],
+        "figures": [
+          "socrates"
+        ]
+      },
+      "481_21_Which_shows_wherein_Personal_identity": {
+        "concepts": [
+          "memory",
+          "self_consciousness"
+        ],
+        "figures": [
+          "socrates"
+        ]
+      },
+      "484_25_Consciousness_alone_unites_remote_exi": {
+        "concepts": [
+          "memory",
+          "self_consciousness",
+          "substance"
+        ]
+      },
+      "485_26_Not_the_substance_with_which_the_cons": {
+        "concepts": [
+          "self_consciousness",
+          "memory",
+          "substance"
+        ]
+      },
+      "494_5_Moral_Good_and_Evil": {
+        "axes": [
+          "moral_foundation"
+        ],
+        "positions": [
+          "pleasure"
+        ],
+        "concepts": [
+          "law",
+          "will"
+        ]
+      },
+      "497_8_Divine_Law_the_Measure_of_Sin_and_Duty": {
+        "axes": [
+          "god"
+        ],
+        "concepts": [
+          "divine_law",
+          "revelation"
+        ]
+      },
+      "498_9_Civil_Law_the_Measure_of_Crimes_and_In": {
+        "positions": [
+          "sovereignty"
+        ],
+        "concepts": [
+          "commonwealth",
+          "law"
+        ]
+      },
+      "504_15_Moral_actions_may_be_regarded_wither": {
+        "axes": [
+          "moral_foundation"
+        ],
+        "concepts": [
+          "mode",
+          "law"
+        ]
+      },
+      "513_6_Confusion_of_Ideas_is_in_Reference_to": {
+        "positions": [
+          "nominalism"
+        ]
+      },
+      "517_10_Confusion_without_Reference_to_Names": {
+        "positions": [
+          "nominalism"
+        ],
+        "concepts": [
+          "idea"
+        ]
+      },
+      "525_2_Simple_Ideas_are_all_real_appearances": {
+        "axes": [
+          "knowledge_origin",
+          "reality_status"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea",
+          "experience"
+        ]
+      },
+      "526_3_Complex_Ideas_are_voluntary_Combinatio": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "528_5_Complex_Ideas_of_Substances_are_real_w": {
+        "axes": [
+          "reality_status"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "substance",
+          "idea"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "536_11_Ideas_of_Substances_being_got_only_by": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "substance"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "556_20_Ideas_in_themselves_neither_true_nor": {
+        "concepts": [
+          "idea",
+          "representation"
+        ]
+      },
+      "568_6_This_Connexion_made_by_custom": {
+        "concepts": [
+          "custom",
+          "education"
+        ]
+      },
+      "574_12_A_third_instance": {
+        "concepts": [
+          "custom",
+          "experience",
+          "memory"
+        ]
+      },
+      "598_5_What_things_have_proper_Names_and_why": {
+        "positions": [
+          "nominalism"
+        ]
+      },
+      "599_6_How_general_Words_are_made": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "conceptualism"
+        ]
+      },
+      "604_14_Each_distinct_abstract_Idea_is_a_dist": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "nominalism",
+          "conceptualism"
+        ]
+      },
+      "625_2_First_The_abstract_Ideas_they_stand_fo": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "conceptualism",
+          "empiricism"
+        ],
+        "concepts": [
+          "idea",
+          "mode"
+        ]
+      },
+      "631_8_Whereof_the_intranslatable_Words_of_di": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "nominalism"
+        ]
+      },
+      "640_7_The_nominal_Essence_bounds_the_Species": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "nominalism"
+        ]
+      },
+      "641_8_The_nature_of_Species_as_formed_by_us": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "nominalism",
+          "conceptualism"
+        ]
+      },
+      "661_36_Nature_makes_the_Similitudes_of_Subst": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "nominalism"
+        ]
+      },
+      "670_48_The_Abstract_Ideas_of_Substances_alwa": {
+        "positions": [
+          "nominalism"
+        ],
+        "concepts": [
+          "idea",
+          "substance"
+        ]
+      },
+      "703_23_Especially_of_the_Old_and_New_Testame": {
+        "axes": [
+          "faith_reason"
+        ],
+        "positions": [
+          "deism"
+        ],
+        "concepts": [
+          "revelation",
+          "reason",
+          "providence"
+        ]
+      },
+      "720_19_Hence_we_think_Change_of_our_Complex": {
+        "axes": [
+          "universals"
+        ],
+        "positions": [
+          "nominalism",
+          "conceptualism"
+        ],
+        "concepts": [
+          "forma_substantialis"
+        ]
+      },
+      "722_23_The_Ends_of_Language_First_To_convey": {
+        "concepts": [
+          "idea"
+        ]
+      },
+      "736_3_But_yet_necessary_to_those_who_search": {
+        "axes": [
+          "method"
+        ]
+      },
+      "761_2_Knowledge_is_the_Perception_of_the_Agr": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "771_2_II_Demonstrative": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "british_empiricism"
+        ],
+        "concepts": [
+          "idea",
+          "reason"
+        ]
+      },
+      "783_14_III_Sensitive_Knowledge_of_the_partic": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism",
+          "scepticism"
+        ],
+        "concepts": [
+          "experience",
+          "idea"
+        ]
+      },
+      "786_2_Secondly_It_extends_no_further_than_we": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ]
+      },
+      "788_4_Fourthly_Nor_does_Demonstrative_Knowle": {
+        "axes": [
+          "knowledge_origin",
+          "method"
+        ],
+        "positions": [
+          "empiricism_moderate"
+        ],
+        "concepts": [
+          "reason",
+          "idea"
+        ]
+      },
+      "789_5_Fifthly_Sensitive_Knowledge_narrower_t": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "experience"
+        ]
+      },
+      "851_5_In_Co-existance_we_have_few_self-evide": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "855_9_Because_Maxims_or_Axioms_are_not_the_T": {
+        "axes": [
+          "knowledge_origin",
+          "universals"
+        ],
+        "positions": [
+          "nominalism",
+          "empiricism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "887_6_And_therefore_God": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "demonstrative_theism"
+        ],
+        "concepts": [
+          "reason"
+        ],
+        "figures": [
+          "cicero"
+        ]
+      },
+      "888_7_Our_idea_of_a_most_perfect_Being_not_t": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "atheism"
+        ],
+        "concepts": [
+          "religion"
+        ],
+        "arguments": [
+          "ontological_argument"
+        ]
+      },
+      "932_3_Being_that_which_makes_us_presume_Thin": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "experience"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "941_14_The_bare_Testimony_of_Divine_Revelati": {
+        "axes": [
+          "faith_reason"
+        ],
+        "concepts": [
+          "faith",
+          "revelation",
+          "reason"
+        ]
+      },
+      "944_3_Reason_in_its_four_degrees": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "empiricism_moderate"
+        ],
+        "concepts": [
+          "reason"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "946_5_Syllogism_helps_little_in_Demonstratio": {
+        "axes": [
+          "knowledge_origin",
+          "method"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "reason"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "962_1_Necessary_to_know_their_boundaries": {
+        "axes": [
+          "faith_reason"
+        ],
+        "concepts": [
+          "faith",
+          "reason"
+        ]
+      },
+      "963_2_Faith_and_Reason_what_as_contradisting": {
+        "axes": [
+          "faith_reason"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "revelation"
+        ]
+      },
+      "965_5_Even_Original_Revelation_cannot_be_adm": {
+        "axes": [
+          "faith_reason"
+        ],
+        "concepts": [
+          "revelation",
+          "reason"
+        ]
+      },
+      "966_6_Traditional_Revelation_much_less": {
+        "axes": [
+          "faith_reason"
+        ],
+        "concepts": [
+          "reason",
+          "revelation",
+          "faith"
+        ]
+      },
+      "980_9_Instilled_in_childhood": {
+        "positions": [
+          "tabula_rasa"
+        ],
+        "concepts": [
+          "custom",
+          "education"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      }
+    }
+  },
+  "FURTHER_CONSIDERATIONS_CONSIDERING_RAISING_THE_VALUE_OF_MONEY": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "money",
+      "labour",
+      "property"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "essay"
+    ],
+    "schools": [],
+    "summary_it": "Scritto economico sulla riforma della moneta: Locke sostiene che il conio non aggiunge valore intrinseco all'argento e si oppone alla svalutazione della coniazione, difendendo un valore metallico fisso per fronteggiare la crisi della moneta tosata.",
+    "summary_en": "Economic tract on currency reform: Locke argues that coining adds no intrinsic value to silver and opposes debasing the coinage, defending a fixed metallic standard to meet the crisis of clipped money."
+  },
+  "MISCELLANEOUS_LETTERS_OF_JOHN_LOCKE": {
+    "axes": [
+      "knowledge_origin"
+    ],
+    "positions": [],
+    "concepts": [
+      "reason",
+      "experience",
+      "friendship"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "epistle"
+    ],
+    "schools": [
+      "british_empiricism"
+    ],
+    "summary_it": "Raccolta di corrispondenza (con Molyneux, Limborch e altri) che discute il 'Saggio sull'intelletto umano', questioni di conoscenza e percezione, e l'amicizia nella ricerca disinteressata della verita'.",
+    "summary_en": "A collection of correspondence (with Molyneux, Limborch, and others) discussing the 'Essay concerning Human Understanding', questions of knowledge and perception, and friendship in the disinterested pursuit of truth.",
+    "atoms": {
+      "001_apertura": {
+        "forms": [
+          "epistle"
+        ]
+      },
+      "002_THREE_LETTERS": {
+        "forms": [
+          "epistle"
+        ]
+      },
+      "005_TO_THE_LORD": {
+        "forms": [
+          "epistle"
+        ]
+      },
+      "006_TO_THE_READER": {
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "007_MR_LOCKE_TO_MR_MOLYNEUX": {
+        "concepts": [
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "008_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "toleration"
+        ],
+        "concepts": [
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "009_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "013_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "education"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "022_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "023_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "024_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "025_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "026_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "education",
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "027_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "forms": [
+          "epistle"
+        ]
+      },
+      "028_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "positions": [
+          "nominalism"
+        ],
+        "concepts": [
+          "friendship",
+          "education",
+          "money"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "029_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "idea"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "035_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "forms": [
+          "epistle"
+        ]
+      },
+      "037_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "positions": [
+          "scepticism"
+        ],
+        "concepts": [
+          "friendship",
+          "miracle"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "044_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "friendship",
+          "sublime"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "046_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "friendship",
+          "education"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "047_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "friendship",
+          "education",
+          "progress"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "051_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "labour"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "053_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "056_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "axes": [
+          "time_and_death"
+        ],
+        "concepts": [
+          "death",
+          "friendship",
+          "education"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "062_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "forms": [
+          "epistle"
+        ]
+      },
+      "065_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "forms": [
+          "epistle"
+        ]
+      },
+      "068_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "105_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "concepts": [
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "114_MR_MOLYNEUX_TO_MR_LOCKE": {
+        "forms": [
+          "epistle"
+        ]
+      }
+    }
+  },
+  "MISCELLANEOUS_WORKS": {
+    "axes": [
+      "soul_body",
+      "knowledge_origin",
+      "reality_status"
+    ],
+    "positions": [],
+    "concepts": [
+      "soul",
+      "self_consciousness",
+      "substance",
+      "nature",
+      "experience",
+      "reason",
+      "education"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "british_empiricism"
+    ],
+    "summary_it": "Miscellanea che raccoglie la difesa dell'identita' personale fondata sulla coscienza, consigli su lettura e studio, gli 'Elementi di filosofia naturale' (materia, moto, sensi, intelletto) e una storia della navigazione: scritti eterogenei di taglio empirico.",
+    "summary_en": "A miscellany gathering the defence of consciousness-based personal identity, advice on reading and study, the 'Elements of Natural Philosophy' (matter, motion, senses, understanding), and a history of navigation: heterogeneous writings of empiricist cast.",
+    "atoms": {
+      "022_2": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "026_V_6": {
+        "axes": [
+          "method"
+        ]
+      },
+      "027_7": {
+        "axes": [
+          "method"
+        ]
+      },
+      "029_9": {
+        "axes": [
+          "method"
+        ]
+      },
+      "048_17": {
+        "axes": [
+          "faith_reason"
+        ],
+        "positions": [
+          "free_will"
+        ],
+        "concepts": [
+          "revelation"
+        ]
+      },
+      "049_OF_THE_CONDUCT_OF_THE_UNDERSTANDING_ADVE": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "toleration"
+        ],
+        "concepts": [
+          "miracle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "050_AN_EXAMINATION_OF_P_MALEBRANCHES_OPINION": {
+        "axes": [
+          "knowledge_origin",
+          "god"
+        ],
+        "concepts": [
+          "idea",
+          "soul",
+          "substance"
+        ]
+      },
+      "070_MEMOIRS_RELATING_TO_THE_LIFE_OF_ANTHONY": {
+        "concepts": [
+          "friendship",
+          "fortune"
+        ]
+      },
+      "075_THE_CHARACTER_OF_MR_LOCKE": {
+        "concepts": [
+          "anger",
+          "friendship",
+          "labour"
+        ]
+      },
+      "099_THE_WHOLE_HISTORY_OF_NAVIGATION": {
+        "positions": [
+          "sovereignty"
+        ],
+        "concepts": [
+          "state"
+        ]
+      }
+    }
+  },
+  "SHORT_OBSERVATIONS_ON_A_PRINTED_PAPER_ENTITLED_FOR_ENCOURAGING_THE_COINAGE_OF_SILVER_MONEY_IN_ENGLAND_AND_AFTER_FOR_KEEPING_IT_THERE": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "money",
+      "labour"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "essay"
+    ],
+    "schools": [],
+    "summary_it": "Breve pamphlet economico che confuta la tesi secondo cui l'argento coniato varrebbe meno di quello grezzo: il conio non toglie valore intrinseco, e la scarsita' di moneta coniata dipende dalla bilancia commerciale, non dalla zecca.",
+    "summary_en": "A short economic pamphlet refuting the claim that coined silver is worth less than uncoined: the stamp removes no intrinsic value, and the scarcity of minted money is due to the balance of trade, not the mint."
+  },
+  "SOME_CONSIDERATIONS_ON_THE_CONSEQUENCES_OF_THE_LOWERING_OF_INTEREST_AND_THE_RAISING_OF_THE_VALUE_OF_MONEY": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "money",
+      "property",
+      "law",
+      "labour"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "essay"
+    ],
+    "schools": [],
+    "summary_it": "Trattato economico che sostiene che il tasso d'interesse non puo' essere fissato utilmente per legge e analizza le conseguenze di abbassare l'interesse e alzare il valore nominale della moneta, difendendo il valore intrinseco dell'argento.",
+    "summary_en": "An economic treatise arguing that the rate of interest cannot usefully be set by law, analysing the consequences of lowering interest and raising the nominal value of money, and defending the intrinsic value of silver."
+  },
+  "SOME_THOUGHTS_CONCERNING_EDUCATION": {
+    "axes": [
+      "human_nature"
+    ],
+    "positions": [
+      "tabula_rasa"
+    ],
+    "concepts": [
+      "education",
+      "custom",
+      "virtue",
+      "reason",
+      "passion"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
+    "summary_it": "Trattato pedagogico, nato da lettere a Edward Clarke: poiche' il carattere si forma soprattutto per abitudine ed educazione piu' che per natura, Locke propone la formazione del gentiluomo attraverso virtu', disciplina dolce, salute del corpo e ragione.",
+    "summary_en": "A pedagogical treatise, grown from letters to Edward Clarke: since character is formed chiefly by habit and education rather than nature, Locke proposes the shaping of the gentleman through virtue, gentle discipline, bodily health, and reason.",
+    "atoms": {
+      "001_intero": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "education",
+          "custom",
+          "friendship"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "002_intero": {
+        "concepts": [
+          "custom",
+          "education"
+        ]
+      },
+      "004_intero": {
+        "concepts": [
+          "custom",
+          "education",
+          "nature"
+        ]
+      },
+      "005_intero": {
+        "concepts": [
+          "education",
+          "custom"
+        ]
+      },
+      "013_intero": {
+        "concepts": [
+          "education",
+          "custom",
+          "beauty",
+          "nature"
+        ]
+      },
+      "018_intero": {
+        "concepts": [
+          "education",
+          "will",
+          "passion",
+          "anger",
+          "reason"
+        ]
+      },
+      "020_intero": {
+        "concepts": [
+          "education"
+        ]
+      },
+      "023_intero": {
+        "concepts": [
+          "education",
+          "phronesis",
+          "virtue",
+          "wisdom",
+          "experience"
+        ]
+      },
+      "024_intero": {
+        "concepts": [
+          "education",
+          "custom",
+          "virtue",
+          "wisdom"
+        ]
+      },
+      "025_intero": {
+        "concepts": [
+          "education",
+          "friendship"
+        ]
+      },
+      "028_intero": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "education",
+          "custom",
+          "justice",
+          "property"
+        ]
+      },
+      "031_intero": {
+        "concepts": [
+          "custom",
+          "education",
+          "anger",
+          "virtue"
+        ]
+      },
+      "042_intero": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "education",
+          "memory",
+          "revelation"
+        ]
+      },
+      "044_intero": {
+        "axes": [
+          "method",
+          "human_nature"
+        ],
+        "concepts": [
+          "education",
+          "custom",
+          "memory"
+        ]
+      },
+      "046_intero": {
+        "concepts": [
+          "education"
+        ]
+      },
+      "048_intero": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "memory",
+          "education",
+          "custom"
+        ]
+      },
+      "050_intero": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "natural_right"
+        ],
+        "concepts": [
+          "education",
+          "law",
+          "reason"
+        ]
+      },
+      "054_intero": {
+        "concepts": [
+          "education",
+          "virtue",
+          "wisdom",
+          "custom",
+          "reason"
+        ]
+      },
+      "055_intero": {
+        "concepts": [
+          "education",
+          "labour",
+          "divertissement"
+        ]
+      },
+      "056_intero": {
+        "concepts": [
+          "education",
+          "custom",
+          "labour"
+        ]
+      },
+      "058_intero": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "tabula_rasa"
+        ],
+        "concepts": [
+          "education",
+          "custom"
+        ]
+      }
+    }
+  },
+  "SOME_THOUGHTS_ON_THE_CONDUCT_OF_THE_UNDERSTANDING": {
+    "axes": [
+      "knowledge_origin",
+      "method"
+    ],
+    "positions": [
+      "empiricism",
+      "induction"
+    ],
+    "concepts": [
+      "reason",
+      "idea",
+      "custom",
+      "experience"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "british_empiricism"
+    ],
+    "summary_it": "Complemento pratico del 'Saggio': contro i difetti della logica scolastica e sull'autorita' di Bacone, Locke indaga come guidare rettamente l'intelletto correggendo pregiudizio, parzialita', fretta e cattive associazioni di idee nella ricerca del sapere.",
+    "summary_en": "A practical companion to the 'Essay': against the defects of scholastic logic and on Bacon's authority, Locke inquires how to conduct the understanding rightly by correcting prejudice, partiality, haste, and bad associations of ideas in the search for knowledge.",
+    "atoms": {
+      "008_Of_practice_and_habits": {
+        "concepts": [
+          "custom",
+          "education"
+        ]
+      }
+    }
+  },
+  "THE_POEMS_OF_JOHN_LOCKE": {
+    "axes": [],
+    "positions": [],
+    "concepts": [],
+    "arguments": [],
+    "figures": [],
+    "forms": [],
+    "schools": [],
+    "summary_it": "Tre brevi componimenti occasionali: un epigramma latino-inglese dedicato a Cromwell, un panegirico per le nozze di Carlo II con l'infanta di Portogallo e versi sul trattato sulle febbri di Sydenham; poesia encomiastica, priva di contenuto filosofico.",
+    "summary_en": "Three short occasional pieces: a Latin-English epigram to Cromwell, a panegyric on Charles II's marriage to the Portuguese infanta, and verses on Sydenham's treatise on fevers; encomiastic poetry with no philosophical content."
+  },
+  "THE_REASONABLENESS_OF_CHRISTIANITY_AS_DELIVERED_IN_THE_SCRIPTURES": {
+    "axes": [
+      "god",
+      "faith_reason",
+      "human_nature"
+    ],
+    "positions": [
+      "harmony_of_faith_reason",
+      "original_sin"
+    ],
+    "concepts": [
+      "faith",
+      "grace",
+      "revelation",
+      "religion",
+      "reason",
+      "death"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
+    "summary_it": "Lettura scritturale del cristianesimo: partendo dalla caduta di Adamo (perdita di paradiso e immortalita') e dalla redenzione in Cristo, Locke sostiene che l'unico articolo di fede richiesto per la salvezza e' credere che Gesu' e' il Messia, mostrando la ragionevolezza del Vangelo.",
+    "summary_en": "A scriptural reading of Christianity: starting from Adam's fall (loss of paradise and immortality) and redemption in Christ, Locke argues that the one article of faith required for salvation is believing that Jesus is the Messiah, showing the reasonableness of the Gospel."
+  },
+  "TWO_TREATISES_OF_GOVERNMENT": {
+    "axes": [
+      "political_legitimacy",
+      "state_and_individual",
+      "human_nature"
+    ],
+    "positions": [
+      "social_contract",
+      "natural_right",
+      "revolution"
+    ],
+    "concepts": [
+      "property",
+      "labour",
+      "state",
+      "law",
+      "freedom",
+      "money",
+      "covenant",
+      "commonwealth"
+    ],
+    "arguments": [
+      "state_of_nature",
+      "labour_theory_of_property"
+    ],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
+    "summary_it": "Il primo trattato demolisce il patriarcalismo di Filmer; il secondo fonda il governo legittimo sul consenso: dallo stato di natura governato dalla legge naturale, la proprieta' nasce dal lavoro, il potere civile deriva dal patto e il popolo conserva il diritto di resistere e dissolvere un governo tirannico.",
+    "summary_en": "The First Treatise demolishes Filmer's patriarchalism; the Second founds legitimate government on consent: from a state of nature governed by natural law, property arises from labour, civil power derives from compact, and the people retain the right to resist and dissolve a tyrannical government.",
+    "atoms": {
+      "012_CHAPTER_IV_OF_ADAMS_TITLE_TO_SOVEREIGNTY": {
+        "positions": [
+          "sovereignty",
+          "natural_law"
+        ],
+        "concepts": [
+          "property",
+          "charity"
+        ]
+      },
+      "027_CHAPTER_IX_OF_MONARCHY_BY_INHERITANCE_FR": {
+        "positions": [
+          "natural_right",
+          "sovereignty"
+        ],
+        "concepts": [
+          "property"
+        ]
+      },
+      "038_CHAPTER_XI_WHO_HEIR": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "natural_right",
+          "sovereignty"
+        ],
+        "concepts": [
+          "state"
+        ]
+      },
+      "045_CHAPTER_II_OF_THE_STATE_OF_NATURE": {
+        "positions": [
+          "natural_law",
+          "natural_right"
+        ],
+        "concepts": [
+          "law"
+        ],
+        "arguments": [
+          "state_of_nature"
+        ]
+      },
+      "049_CHAPTER_V_OF_PROPERTY": {
+        "positions": [
+          "natural_law"
+        ],
+        "concepts": [
+          "property"
+        ],
+        "arguments": [
+          "labour_theory_of_property",
+          "state_of_nature"
+        ]
+      },
+      "053_CHAPTER_V_OF_PROPERTY": {
+        "positions": [
+          "natural_right"
+        ],
+        "concepts": [
+          "labour",
+          "property",
+          "money"
+        ],
+        "arguments": [
+          "labour_theory_of_property"
+        ]
+      },
+      "066_CHAPTER_VIII_OF_THE_BEGINNING_OF_POLITIC": {
+        "positions": [
+          "social_contract"
+        ],
+        "concepts": [
+          "property",
+          "commonwealth",
+          "covenant"
+        ],
+        "arguments": [
+          "state_of_nature"
+        ]
+      },
+      "067_CHAPTER_IX_OF_THE_ENDS_OF_POLITICAL_SOCI": {
+        "positions": [
+          "civil_society",
+          "natural_law",
+          "social_contract"
+        ],
+        "concepts": [
+          "property"
+        ],
+        "arguments": [
+          "state_of_nature"
+        ]
+      },
+      "076_CHAPTER_XV_OF_PATERNAL_POLITICAL_AND_DES": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "natural_law",
+          "social_contract"
+        ],
+        "concepts": [
+          "property"
+        ],
+        "arguments": [
+          "state_of_nature"
+        ]
+      },
+      "080_CHAPTER_XVI_OF_CONQUEST": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "natural_right",
+          "revolution"
+        ],
+        "concepts": [
+          "property",
+          "sovereignty"
+        ]
+      }
+    }
+  },
+  "A_PARAPHRASE_AND_NOTES_ON_THE_EPISTLES_OF_ST_PAUL_TO_THE_GAL": {
+    "atoms": {
+      "009_A_PARAPHRASE_AND_NOTES_ON_THE_EPISTLE_OF": {
+        "concepts": [
+          "revelation"
+        ]
+      },
+      "033_CHAPTER_II_6": {
+        "axes": [
+          "faith_reason",
+          "knowledge_origin"
+        ],
+        "concepts": [
+          "revelation"
+        ]
+      },
+      "037_CHAPTER_IV_21": {
+        "positions": [
+          "civil_society"
+        ],
+        "concepts": [
+          "divine_law",
+          "revelation"
+        ]
+      },
+      "053_CHAPTER_XII_4": {
+        "concepts": [
+          "revelation",
+          "faith",
+          "miracle"
+        ]
+      },
+      "062_CHAPTER_XVI_13": {
+        "concepts": [
+          "charity",
+          "faith",
+          "grace"
+        ]
+      },
+      "064_CHAPTER_I_1_2": {
+        "concepts": [
+          "grace"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "065_CHAPTER_I_3": {
+        "forms": [
+          "epistle"
+        ]
+      },
+      "076_CHAPTER_VIII_1": {
+        "axes": [
+          "god"
+        ],
+        "concepts": [
+          "charity",
+          "faith",
+          "grace"
+        ]
+      },
+      "084_CHAPTER_XII_12_13": {
+        "concepts": [
+          "miracle"
+        ]
+      },
+      "104_CHAPTER_VII_1": {
+        "axes": [
+          "soul_body"
+        ],
+        "concepts": [
+          "concupiscence",
+          "grace",
+          "law"
+        ]
+      },
+      "135_CHAPTER_V_21": {
+        "concepts": [
+          "charity"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "138_CHAPTER_VI_21": {
+        "concepts": [
+          "faith",
+          "charity",
+          "grace"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      }
+    }
+  },
+  "FURTHER_CONSIDERATIONS_CONSIDERING_RAISING_THE_VALUE_OF_MONE": {
+    "atoms": {
+      "002_THE_PREFACE": {
+        "concepts": [
+          "money",
+          "freedom"
+        ]
+      },
+      "005_FURTHER_CONSIDERATIONS_CONCERNING_RAISIN": {
+        "concepts": [
+          "money"
+        ]
+      },
+      "007_FURTHER_CONSIDERATIONS_CONCERNING_RAISIN": {
+        "concepts": [
+          "commodity",
+          "miracle"
+        ]
+      },
+      "010_FURTHER_CONSIDERATIONS_CONCERNING_RAISIN": {
+        "concepts": [
+          "money"
+        ]
+      },
+      "014_FURTHER_CONSIDERATIONS_CONCERNING_RAISIN": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "015_FURTHER_CONSIDERATIONS_CONCERNING_RAISIN": {
+        "concepts": [
+          "money",
+          "justice",
+          "property"
+        ]
+      },
+      "016_FURTHER_CONSIDERATIONS_CONCERNING_RAISIN": {
+        "concepts": [
+          "money"
+        ]
+      },
+      "017_FURTHER_CONSIDERATIONS_CONCERNING_RAISIN": {
+        "concepts": [
+          "money"
+        ]
+      }
+    }
+  },
+  "SHORT_OBSERVATIONS_ON_A_PRINTED_PAPER_ENTITLED_FOR_ENCOURAGI": {
+    "atoms": {
+      "001_intero": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "002_intero": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "003_intero": {
+        "concepts": [
+          "money",
+          "commodity",
+          "labour"
+        ]
+      },
+      "004_intero": {
+        "concepts": [
+          "money",
+          "property"
+        ]
+      }
+    }
+  },
+  "SOME_CONSIDERATIONS_ON_THE_CONSEQUENCES_OF_THE_LOWERING_OF_I": {
+    "atoms": {
+      "003_apertura": {
+        "concepts": [
+          "commodity",
+          "money",
+          "labour"
+        ]
+      },
+      "009_apertura": {
+        "concepts": [
+          "money",
+          "commodity",
+          "labour",
+          "commonwealth"
+        ]
+      },
+      "015_apertura": {
+        "concepts": [
+          "money",
+          "commodity",
+          "labour"
+        ]
+      },
+      "016_1_It_will_make_our_native_commodities_ve": {
+        "concepts": [
+          "commodity",
+          "money",
+          "labour"
+        ]
+      },
+      "025_1_It_will_make_our_native_commodities_ve": {
+        "concepts": [
+          "commodity",
+          "money"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "028_1_It_will_make_our_native_commodities_ve": {
+        "concepts": [
+          "commodity"
+        ]
+      },
+      "032_1_It_will_make_our_native_commodities_ve": {
+        "concepts": [
+          "money"
+        ]
+      },
+      "033_1_It_will_make_our_native_commodities_ve": {
+        "concepts": [
+          "money"
+        ]
+      }
+    }
+  },
+  "THE_REASONABLENESS_OF_CHRISTIANITY_AS_DELIVERED_IN_THE_SCRIP": {
+    "atoms": {
+      "006_THE_REASONABLENESS_OF_CHRISTIANITY_AS_DE": {
+        "concepts": [
+          "faith",
+          "miracle",
+          "revelation"
+        ]
+      },
+      "013_THE_REASONABLENESS_OF_CHRISTIANITY_AS_DE": {
+        "concepts": [
+          "miracle",
+          "revelation"
+        ]
+      },
+      "043_THE_REASONABLENESS_OF_CHRISTIANITY_AS_DE": {
+        "axes": [
+          "faith_reason",
+          "moral_foundation"
+        ],
+        "positions": [
+          "natural_law"
+        ],
+        "concepts": [
+          "revelation",
+          "reason"
+        ]
+      }
+    }
+  }
 }

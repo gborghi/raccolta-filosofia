@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The first 'watchword' Ortega offers the Republic: do not imitate. The Spanish republican movement must copy neither France in 1789 nor Russia in 1917, but stay faithful to its own circumstance — 'a life that imitates is a life falsified'; originality is not sought, it is found. There follows the example of the new government's flawless working, explained by the circumstance that the revolutionary committee had lived together in prison.
+
+## Connections
+
+**Posizioni:** [[positions/life_as_project|vita come progetto]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -168,7 +176,7 @@ Facciamo, dunque, un alto nella marcia e… mettiamoci a pensare in grande.
 
 La prima condizione per pensare in grande è pensare con architettura, è vedere le cose con la loro prospettiva, ponendo ciascuna nell'altitudine e nel rango che le corrisponde. Si è già mancato contro questa prima condizione. Tutto, l'importante e il futile, va confuso e le teste patiscono grave disordine. Per correggerlo è necessario che la Stampa faccia un enerico sforzo, mettendo ordine nella sua informazione, smettendola con stupide persecuzioni personali e disegnando ogni giorno nelle menti dei suoi lettori chiare linee gerarchizzate, che facciano intravedere l'edificio della nuova Spagna.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="positions/life_as_project,concepts/state,forms/essay"></span>
 
 Tras diez años de anulación, vuelve la Prensa, quiérase o no, a poseer una intervención decisiva en la vida pública. Ni puede dejar de ser así cuando se trata nada menos de construir un Estado, por tanto, de retirar las nociones habituales enquistadas en las cabezas y sustituirlas por las novísimas del Estado que se va a hacer. Ha aumentado, pues, enormemente la responsabilidad de los periódicos. Yo estoy seguro de que sabrán responder como buenos; pero he de decir que en estos dos meses la Prensa —y especialmente la de Madrid— no ha estado al nivel de su formidable misión. La [causa](/concepts/cause), como de tantas otras cosas que ahora pasan, habrá tal vez de buscarse en esos diez años de censura que la han desmoralizado, impidiéndola vivir sobre sí misma y ejercitar su propia responsabilidad. No era fácil, sin titubeo, pasar de golpe a una situación diametralmente opuesta en que pesa sobre la Prensa un máximum de responsabilidad. Lleno de confianza envío esta excitación a mis compañeros de Prensa. Piensen que de nosotros depende en anormal medida lo que en España vaya a pasar. Eliminen a rajatabla de sus columnas toda frivolidad, toda ligereza, toda información inexacta y, sobre todo, el desorden. Demuestren que saben contribuir a la gigantesca faena de edificar un Estado novísimo.
 

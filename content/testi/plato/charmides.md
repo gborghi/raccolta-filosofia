@@ -12,8 +12,16 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > An aporetic dialogue on temperance (sophrosyne): Socrates questions the young Charmides and then Critias, testing definitions such as 'doing one's own business' and 'self-knowledge,' until even the idea of a 'science of science' collapses. No definition survives, and the dialogue ends without a positive answer.
+
+## Connections
+
+**Concetti:** [[concepts/virtue|virtù]], [[concepts/wisdom|sapienza]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -196,7 +204,7 @@ E hanno ragione, e tu saresti d'accordo con loro?
 
 Sì, disse, certamente lo sarei.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 His approving answers reassured me, and I began by degrees to regain confidence, and the vital heat returned. Such, Charmides, I said, is the nature of the charm, which I learned when serving with the army from one of the physicians of the Thracian king Zamolxis, who are said to be so skilful that they can even give immortality. This Thracian told me that in these notions of theirs, which I was just now mentioning, the Greek physicians are quite right as far as they go; but Zamolxis, he added, our king, who is also a god, says further, ‘that as you ought not to attempt to cure the eyes without the head, or the head without the body, so neither ought you to attempt to cure the body without the soul; and this,’ he said, ’is the reason why the cure of many diseases is unknown to the physicians of Hellas, because they are ignorant of the whole, which ought to be studied also; for the part can never be well unless the whole is well.’ For all good and evil, whether in the body or in [human nature](/axes/human_nature), originates, as he declared, in the soul, and overflows from thence, as if from the head into the eyes. And therefore if the head and body are to be well, you must begin by curing the soul; that is the first thing. And the cure, my dear youth, has to be effected by the use of certain charms, and these charms are fair words; and by them temperance is implanted in the soul, and where temperance is, there health is speedily imparted, not only to the head, but to the whole body. And he who taught me the cure and the charm at the same time added a special direction: ‘Let no one,’ he said, ‘persuade you to cure the head, until he has first given you his soul to be cured by the charm. For this,’ he said, ’is the great error of our day in the treatment of the human body, that physicians separate the soul from the body.’ And he added with emphasis, at the same time making me swear to his words, ‘Let no one, however rich, or noble, or fair, persuade you to give him the cure, without the charm.’ Now I have sworn, and I must keep my oath, and therefore if you will allow me to apply the Thracian charm first to your soul, as the stranger directed, I will afterwards proceed to apply the cure to your head. But if not, I do not know what I am to do with you, my dear Charmides.
 
@@ -360,7 +368,7 @@ E quale è meglio, richiamare alla mente, e ricordare, rapidamente e prontamente
 
 La prima cosa.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 And is not shrewdness a quickness or cleverness of the soul, and not a quietness?
 
@@ -648,7 +656,7 @@ No (il lettore inglese deve osservare che la parola «fabbricare» (in greco), i
 
 Come! chiesi; intendi dire che fare e fabbricare non sono la stessa cosa?
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 No more, he replied, than making or working are the same; thus much I have learned from Hesiod, who says that ‘work is no disgrace.’ Now do you imagine that if he had meant by working and doing such things as you were describing, he would have said that there was no disgrace in them — for example, in the manufacture of shoes, or in selling pickles, or sitting for hire in a house of ill-fame? That, [Socrates](/figures/socrates), is not to be supposed: but I conceive him to have distinguished making from doing and work; and, while admitting that the making anything might sometimes become a disgrace, when the employment was not honourable, to have thought that work was never any disgrace at all. For things nobly and usefully made he called works; and such makings he called workings, and doings; and he must be supposed to have called such things only man’s proper business, and what is hurtful, not his business: and in that sense Hesiod, and any other wise man, may be reasonably supposed to call him wise who does his own work.
 
@@ -812,7 +820,7 @@ Sì, certo.
 
 Ora, voglio sapere, cos'è ciò che non è saggezza, e di cui la saggezza è la scienza?
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 You are just falling into the old error, [Socrates](/figures/socrates), he said. You come asking in what wisdom or temperance differs from the other sciences, and then you try to discover some respect in which they are alike; but they are not, for all the other sciences are of something else, and not of themselves; wisdom alone is a science of other sciences, and of itself. And of this, as I believe, you are very well aware: and that you are only doing what you denied that you were doing just now, trying to refute me, instead of pursuing the argument.
 
@@ -1044,7 +1052,7 @@ Osservi, Crizia, che in parecchi degli esempi che sono stati recitati la nozione
 
 Verissimo.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 But in the case of hearing and sight, or in the power of self-motion, and the power of heat to burn, this relation to self will be regarded as incredible by some, but perhaps not by others. And some great man, my friend, is wanted, who will satisfactorily determine for us, whether there is nothing which has an inherent property of relation to self, or some things only and not others; and whether in this class of self-related things, if there be such a class, that science which is called wisdom or temperance is included. I altogether distrust my own power of determining these matters: I am not certain whether there is such a science of science at all; and even if there be, I should not acknowledge this to be wisdom or temperance, until I can also see whether such a science would or would not do us any good; for I have an impression that temperance is a benefit and a good. And therefore, O son of Callaeschrus, as you maintain that temperance or wisdom is a science of science, and also of the absence of science, I will request you to show in the first place, as I was saying before, the possibility, and in the second place, the advantage, of such a science; and then perhaps you may satisfy me that you are right in your view of temperance.
 
@@ -1236,7 +1244,7 @@ Allora, di certo, la saggezza o temperanza, se è soltanto una scienza della sci
 
 È evidente, disse.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 But then what profit, Critias, I said, is there any longer in wisdom or temperance which yet remains, if this is wisdom? If, indeed, as we were supposing at first, the wise man had been able to distinguish what he knew and did not know, and that he knew the one and did not know the other, and to recognize a similar faculty of discernment in others, there would certainly have been a great advantage in being wise; for then we should never have made a mistake, but have passed through life the unerring guides of ourselves and of those who are under us; and we should not have attempted to do what we did not know, but we should have found out those who knew, and have handed the business over to them and trusted in them; nor should we have allowed those who were under us to do anything which they were not likely to do well; and they would be likely to do well just that of which they had knowledge; and the house or state which was ordered or administered under the guidance of wisdom, and everything else of which wisdom was the lord, would have been well ordered; for truth guiding, and error having been eliminated, in all their doings, men would have done well, and would have been happy. Was not this, Critias, what we spoke of as the great advantage of wisdom — to know what is known and what is unknown to us?
 
@@ -1416,7 +1424,7 @@ Ma quella scienza non è la saggezza o la temperanza, bensì una scienza del van
 
 E perché, replicò, la saggezza non sarà utile? Poiché, per quanto ammettiamo che la saggezza sia una scienza delle scienze e abbia dominio sulle altre scienze, sicuramente essa avrà sotto il proprio controllo questa particolare scienza del bene, e in questo modo ci gioverà.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 And will wisdom give health? I said; is not this rather the effect of medicine? Or does wisdom do the work of any of the other arts, — do they not each of them do their own work? Have we not long ago asseverated that wisdom is only the knowledge of knowledge and of ignorance, and of nothing else?
 

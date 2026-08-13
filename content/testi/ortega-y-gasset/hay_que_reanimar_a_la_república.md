@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article (Luz, 1932): the Republic is not the closed room of its first governors but a space as large as the nation; the forces dominant in the first hour are forces of combat, not of government. Invoking Plato (in a Republic things go badly until each does his own), it claims a division of labour: let those who govern govern, and those who do not prepare the future.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

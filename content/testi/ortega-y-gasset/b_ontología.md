@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An exposition of Herbart's ontology: sensation gives only appearances, but every appearance refers to a being. Being is not a determination of the real thing but "absolute position", a predicate for which an adequate subject must be found; drain sensation of its content and that position remains, and its subject is the Real, of which one can know only that it is positive, simple and foreign to quantity, though a multiplicity of being is admissible. This is Herbart's attempted return to realism against the idealism of his day.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]]  
+**Concetti:** [[concepts/substance|sostanza]], [[concepts/experience|esperienza]], [[concepts/idea|idea]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +122,7 @@ Il metodo dei modi contingenti di considerare l'essere viene qui di nuovo ad aiu
 
 Di tutta questa lotta tra i Reali, di tutto questo reale accadere non giunge, s'intende, la minima notizia diretta fino a noi. Ma sì giunge il fatto che la cosa A si presenta, ci è data con le proprietà apparenti a, b, c. E come ogni apparenza, secondo dicemmo con parole di Herbart, allude a un Essere, la pluralità di proprietà apparenti indica, conclude a una pluralità di enti e alla loro concorrenza.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,concepts/substance,concepts/experience,concepts/idea,forms/essay"></span>
 
 Con esto queda solventado el problema de la inherencia. La cosa real A por sí sola no es ninguna de sus propiedades o manifestaciones a, b, c, pero, en conjunción con otros Reales, se conserva a sí misma tomando esas propiedades que con ser tan varias no alteran su identidad. A es, pues, sustancia o sujeto único que tiene propiedades plurales; pero lo es gracias a la causalidad trascendente de los otros Reales que sobre ella operan. «No hay sustancia sin causalidad»[51]. En la serie a > A’ + A’ + A’… la primera A’ es la sustancia en cuanto concurre con las demás que son la [causa](/concepts/cause).
 

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Prompted by a Latin method by Julio Cejador, it retells the myth of Pan and Syrinx and makes a symbol of it: as Pan became a god in Syrinx, Europe's white beast became man in Greece, and without Hellenic discipline would have stayed one possibility among others. It laments that we now settle for civilization instead of culture, and takes issue with Unamuno's africanism.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +98,7 @@ Classicismo ce n'è soltanto uno, classicismo greco, e i rinascimenti saranno se
 
 Vorrei scrivere corto perché i lettori non si lamentassero di me: e così, nel trovarmi alla fine di questi fogli, lamento l'incontinenza della mia penna, che senza aver fatto altro che iniziare la questione del classicismo lascia intatta la questione dell'umanesimo, oggetto principale di essi. Ma era necessario: l'umanesimo è soltanto una funzione del classicismo. Per indicare ciò che in quello più ci importa a noi spagnoli, basterebbe dire: se il classicismo è il senso intimo della cultura, è l'umanesimo greco-latino il classicismo delle forme della cultura e molto specialmente delle forme mediterranee della cultura. Sono convinto che le arti spagnole saranno e dovranno essere sempre realiste. Ma per lo stesso motivo, soltanto mantenendo costantemente davanti agli occhi le paute e le norme delle humanitates eviteremo che il nostro realismo cada nello sciatto e si accanisca in faccende infraumane. Non fu il caso a inventare il nome di humanidades.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,figures/socrates,forms/essay"></span>
 
 De todo ello hablaré otro día: hoy quería sólo mentar la obrilla nueva de mi maestro y mi amigo don Julio Cejador, el cual publicó hace unos siete años una Gramática griega, según el método histórico-comparado; hace seis la «Introducción» a su obra capital El lenguaje; hace cinco Los Gérmenes del Lenguaje; hace tres La Embriogenia del Lenguaje; hace dos la Gramática del Quijote; hace uno el Diccionario del Quijote; hace dos meses un tomo de ensayos sobre cuestiones filológicas y lingüísticas. Luego de grandes afanes, alcanzó el señor Cejador una cátedra de latín en el Instituto de Palencia. Y ahí está enseñando pretéritos y supinos a unos angelitos celtíberos.
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A polemic against Eugenio d'Ors's Glosario, which brushes off Frobenius and Spengler: against cultural monism, on which there is one culture only and Europe is its vessel, Ortega lines up all recent historiography — the East, archaeology, ethnology, prehistory.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +102,7 @@ In scogli come questo suole naufragare la mia ammirazione per il «Glosario». S
 
 Ma torniamo alla cultura.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history"></span>
 
 Es, de hecho, problemático que la nuestra sea la única. A nuestra afirmación de ella contraponen su distinto fervor otras razas hoy deprimidas que un tiempo fueron preponderantes y muy bien podrían volverlo a ser. Para reconocer que las normas y valores vigentes en nuestras almas son los únicos merecedores de tal dignidad, sería menester demostrarlo. Mas para esto haría falta precisamente hacerse de ellos problema. Entonces, y sólo entonces, tendríamos algo incomparable a las demás culturas, salvo la griega. Solamente griegos y europeos han creído que no eran cultos mientras no pusiesen en duda su propia cultura y elaborasen serios fundamentos para ella. De donde resulta que nuestra cultura sólo será, en efecto, la única auténtica en la medida en que crea que no lo es y se vuelva problemática. Es decir, en un sentido estrictamente opuesto al que tiene en el «Glosario». A menudo d’Ors propone la [norma](/concepts/law) europea como quien anuncia un específico, cuando es, por el contrario, una divina angustia y un [sublime](/concepts/sublime) malestar.
 

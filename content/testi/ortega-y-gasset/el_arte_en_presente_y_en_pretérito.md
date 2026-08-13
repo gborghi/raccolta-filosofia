@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Taking the Exhibition of Iberian Artists as its occasion: present-day art consists in there being none, and one must start from that conviction in order to create and enjoy authentic art. Whereas in other epochs tradition unambiguously proposed what was to be done, it has now used up all its possibilities, and the young have no art — they are only an attempt toward one.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +109,7 @@ Ma si dirà che il passato artistico non passa, che l'arte è eterna… Sì, que
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Se habla a menudo de la eternidad de la obra de arte. Si con ello se quisiera decir que crearla y gozarla incluye la aspiración a que su valor sea eterno, no habría reparo que poner. Pero el hecho es que la obra de arte envejece y se pudre antes como valor estético que como realidad material. Acontece lo mismo que en los amores. Todo amor jura en un cierto momento su propia eternidad. Pero ese momento, con su eternidad aspirada, transcurre; le vemos caer en el torrente del tiempo, agitar sus manos de náufrago, ahogarse en el pasado. Porque esto es el pasado: un naufragio, una sumersión en lo profundo. Los chinos, al morir le llaman «correr al río». El presente es un haz sin espesor apenas. Lo hondo es el pasado hecho con presentes innumerables, unos sobre otros, comprimidos. Delicadamente, los griegos al morir llamaban «irse con los más».
 
@@ -174,7 +181,7 @@ Sarebbe insufficiente opporre a quanto detto l'osservazione che nell'antica pitt
 
 E, in effetti, letteratura o filosofia sono cose molto differenti dalla plastica; ma le tre sono irremissibilmente spirito e si trovano sommerse nelle complicazioni di questo. È, dunque, vano quel tentativo di rendere le cose più semplici e maneggevoli a misura della propria semplicità. Non c'è pura retina, non ci sono valori plastici assoluti. Tutti essi appartengono a qualche stile, sono relativi ad esso, e uno stile è il frutto di un sistema di convenzioni vive. Ma, in ogni [caso](/concepts/fortune), quei valori di supposta vigenza attuale sono minime particelle dell'opera antica che violentemente incastriamo dal resto, per affermarle sole, relegando il resto. Sarebbe interessante che con qualche sincerità si sottolineasse ciò che di uno di quei quadri famosi sembra bellezza intatta e pervivente. La scarsezza di ciò che è delimitato contrasterebbe così crudamente con la fama dell'opera, che sarebbe il miglior modo di darmi ragione.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Si merece algo la pena de haber nacido en esta época nuestra, tan áspera e insegura, es precisamente porque se inicia en Europa la aspiración a vivir sin frases, mejor dicho, a no vivir de frases. Eso de que el arte es eterno y la retahíla de los cien mejores libros, las cien mejores pinturas, etcétera, son cosas para el buen tiempo viejo, cuando los burgueses creían su deber ocuparse de arte y de letras. Ahora que se va viendo hasta qué punto el arte no es cosa «seria», sino, más bien, un fino juego exento de patetismo y solemnidad, a que sólo deben dedicarse los verdaderamente aficionados, los que se complacen en sus peripecias y dificultades superfluas y se someten al pulcro cumplimiento de sus reglas, la monserga de que el arte es eterno no puede satisfacer ni aclarar nada. La eternidad del arte no es una sentencia firme a que quepa acogerse; es, sencillamente, un sutilísimo problema. Dejemos que los sacerdotes, no muy seguros de la existencia de sus dioses, los envuelvan en la calígine pavorosa de los grandes epítetos patéticos. El arte no necesita nada de eso, sino mediodía, tiempo claro, conversación transparente, precisión y un poco de buen humor.
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On the anti-espionage bill: nobody disputes the principle, but circumstances are what measure the justice and modulate the discretion of imperative acts. Ortega lists the circumstances (three years of war without such coercion, internal dissensions now calm, settled neutrality, a single prosecution born of journalistic revelations) that required extreme delicacy toward the press.
+
+## Connections
+
+**Concetti:** [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

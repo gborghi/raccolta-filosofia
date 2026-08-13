@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An armistice toast: Ortega, ill, denies that the war's sufferings were for Spain someone else's affair — the country's nerves took part in it more than in any other — and rereads pain as the reverse of heroism, "an immense harvest of human heroism". He closes with invocations to France and England. An occasional speech, not a theoretical text.
 

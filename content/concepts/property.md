@@ -6,7 +6,7 @@ label_en: "property"
 aliases:
   - "possesso"
   - "possession"
-work_count: 20
+work_count: 17
 tags:
   - "graph/concept"
 title: "proprietà"
@@ -15,7 +15,7 @@ title: "proprietà"
 
 *property*
 
-## Opere (20)
+## Opere (17)
 
 **Aristotle**
 - [Politics (1252a)](/testi/aristotle/politics_1252a)
@@ -41,10 +41,7 @@ title: "proprietà"
 - [THE POVERTY OF PHILOSOPHY, 1847](/testi/marx/the_poverty_of_philosophy_1847)
 
 **Ortega y Gasset**
-- [El problema agrario andaluz Una carta de don José Ortega y Gasset](/testi/ortega-y-gasset/el_problema_agrario_andaluz_una_carta_de_don_josé_ortega_y_gasset)
 - [Inmediatas concesiones](/testi/ortega-y-gasset/inmediatas_concesiones)
-- [Justa suspicacia](/testi/ortega-y-gasset/justa_suspicacia)
-- [La reforma agraria](/testi/ortega-y-gasset/la_reforma_agraria)
 - [Socialismo](/testi/ortega-y-gasset/socialismo)
 
 **Plato**

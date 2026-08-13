@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lecture in biology and pedagogy on feelings as inner functions, useless seen from life's periphery but effective towards its centre: they are induced currents regulating the vital pulse, like internal secretions. Enthusiasm, melancholy, humour.
+
+## Connections
+
+**Concetti:** [[concepts/passion|passione]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

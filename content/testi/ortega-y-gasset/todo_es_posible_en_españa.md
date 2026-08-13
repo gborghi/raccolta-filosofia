@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Protest column against Dato's Royal order favouring one press against another and aimed at destroying El Sol; its underlying claim is that Spain is a pulverised body in which no one feels wounded by his neighbour's wound. Journalistic political polemic.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A newspaper piece (El Sol, 1918) against the generation of politicians formed under the Regency: they did not govern, they destroyed the prestige of institutions and, through the exemplary influence rulers exert on the ruled, demoralised the people. It announces a new, more severe generation. Political journalism.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

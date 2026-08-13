@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay: the authentic Intellectual is not the writer, professor or philosopher, which are social roles. Every social form arises as one individual's creative destiny and survives as an empty shell — a "post" — that anyone may fraudulently occupy (Caesar, Victor Hugo, Valéry).
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +78,7 @@ E ciò che mi fece prevedere la detronizzazione dell'Intellettuale fu avvertire 
 
 Ma lasciamo tutto questo. Per l'una o l'altra causa, abbiamo già l'Intellettuale esonerato dalla sua preminenza sociale, a piedi, alla pari con gli altri, rimesso a sé stesso, come un uomo qualunque tra i qualunque uomini. Questo è il piano in cui risulta più interessante la sua peculiare condizione umana.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Como acontece con todo [modo](/concepts/mode) esencial de ser hombre, al Intelectual le parece que serlo es lo más natural del mundo, y empieza por creer que todos los demás ciudadanos son como él. Por eso es un modo esencial de humanidad: incluye todo lo humano pero orientado en cierta dirección, y el que es de tal modo cree ingenuamente que eso es ser hombre, confundiendo a los demás consigo mismo, como Carlos III, que no se acercó a otra mujer que la suya, una sajona pelirroja, creía que todas las mujeres olían a piel de Rusia, porque éste es el olor de las pelirrojas.
 
@@ -114,7 +120,7 @@ L'Altro vive installato in un mondo di cose che sono una volta per sempre ciò c
 
 La sua vita esclude ogni riagire su ciò che lo circonda per renderlo questionabile, analizzarlo, svirgolarlo, volgerlo in fantasma e spettro. Al contrario, la sua vita consisterà nell'attenersi a ciò che c'è lì, nel muoversi dentro quel mondo incuestionato, solido, compatto e definitivo, alloggiarsi in esso, manipolare le cose, usarle, sfruttarle a proprio vantaggio meglio che può. È un egoista nato. Ciò che gli importa è tirare avanti, fare il suo affare, passarsela bene lui e i suoi. Se è onesto, con decoro. Se no, con l'inganno. Siccome non lo preoccupa minimamente il mondo né nulla in esso, vaca a occuparsi tranquillamente del proprio interesse, sia la sua persona o la sua famiglia o il suo partito politico o la sua patria. Sempre e soltanto il suo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 El Intelectual no tropieza, pues, con el Otro por motivos particulares y concretos. Tropieza, desde luego, porque su actitud vital primaria es la inversa y desde el primer gesto o palabra debió advertirlo. El mundo con que el Intelectual se encuentra le parece estar ahí precisamente para ponerlo él en cuestión. Las cosas no le son por sí mismas plenamente, porque no las deja tranquilamente estar ahí, sino que al punto las analiza, las descompone, las mira por dentro, busca su espalda, en suma, las convierte de presuntas cosas en problemas. A primera vista parece que es un destructor y se le ve siempre con vísceras de cosas entre las manos, como un matarife. Pero es todo lo contrario. El Intelectual no puede, aunque quiera, ser egoísta respecto a las cosas. Se hace cuestión de ellas. Y esto es el síntoma máximo del amor. No están ahí para aprovecharlas sin más, como hace el Otro, sino que su vida es servicio a las cosas, [culto](/concepts/religion) a su ser. El culto, como lo fueron todos los fuertes cultos, es cruento; es deshacerlas, desmenuzarlas para rehacerlas en su supremo esplendor. Sabe que las cosas no son plenamente si el hombre no descubre su maravilloso ser que llevan tapado por un velo y una tiniebla. De aquí que para el Intelectual vivir significa andar frenéticamente afanado en que cada cosa llegue de verdad a ser lo que es, exaltarla hasta la plenitud de sí misma. He ahí cómo y por qué resulta que las cosas sólo son lo que ellas son cuando le son al Intelectual. Esto lo presiente a veces la Mujer. Pero ello, claro está, irrita profundamente al Otro. Mas la irritación es aquí inoperante. La realidad es así, sin remisión. Y las cosas de que el Otro usa y abusa, que maneja y aprovecha en su sórdida existencia, fueron todas inventadas por el Intelectual. Todas. El automóvil y la aspirina; flor, canción y mujer. ¿O creían ustedes que todas esas cosas, esas maravillosas cosas estaban ahí, así, sin más? Ahora lo van a ver ustedes. Ahora que el Intelectual, como tantas veces en la historia, va a desaparecer o poco menos, a sumergirse igual que el somormujo en lo profundo. Lo profundo, por excelencia, es el silencio. Van ustedes a ver cómo lo maravilloso va desapareciendo de sobre el haz de la tierra y la vida, incluso la del Otro, pierde gracia, tensión y frenesí.
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Political reportage on a cabinet crisis being settled among palace dukes and marquises (Infantado, Viana, Torrecilla), which Ortega denounces as a chamber crisis, neither parliamentary nor national. Topical journalism, not philosophy.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

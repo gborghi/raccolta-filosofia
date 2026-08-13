@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from a letter by an anticlerical friend confessing the sadness of an anticlericalism come too late, Ortega distinguishes political decadence — a localized, treatable illness — from historical decadence, a diffuse malaise signalling a people's inner death. Against radicals and Jesuits alike: Spain's enemy cannot be localized in any particular institution.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Concetti:** [[concepts/religion|religione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -150,7 +159,7 @@ Perogrullo riconoscerebbe che c'è una discrepanza radicale tra credere che la S
 
 Da qui che Costa non possa permettersi la minima fede nella politica liberale al uso. Questa è una politica chirurgica, di ablazione, di opposizione. Si sente dire a ogni ora che è necessario recidere l'eccessivo sviluppo degli Ordini monastici: a dire questo, forse a farlo, chiamano anticlericalismo. Ecco il male della Spagna interpretato come un ascesso periferico, e la cura semplificata con il bisturi.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/decadence,concepts/religion,forms/essay"></span>
 
 Para quien considera nuestra nación como fenecida y rota la conciencia de su continuidad histórica, el cirujano político no ofrece esperanza alguna; tampoco el médico: fuera menester un padre, un generador, un suscitador. Costa lo dice de otro modo: «Bismarcks injertos en San Franciscos, con más de San Franciscos que de Bismarcks». Francisco de Asís es el vaso de amor que fecundiza los corazones: el amor es el afecto genuino de la fraternidad, de la creación. Vengan, pues, San Franciscos. En cuanto a los Bismarcks, no creo, don Joaquín, que fueran oportunos. Al pensar en qué hombres son a un pueblo necesarios, conviene distinguir dos tiempos: primero hay que constituir la nación muerta o nonnata, dotar a la raza de órganos de comunidad, y entonces convienen gentes como Stein y Humboldt, almas finas, severas, eruditas, educadas en alguna filosofía enérgica, humana, organizadora. Luego es, a veces, forzoso poner en juego esos órganos de una manera nerviosa y violenta: para esto basta un Bismarck.
 

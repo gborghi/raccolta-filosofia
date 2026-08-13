@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay in the Renan series: nature against culture, where nature is matter and spontaneity and culture is whatever negates it — so that culture is defined as Irony. The soul has two strata, the original subsoil and the arable layer deposited by history's alluvium; when the alluvium stops, barbarous autochthony resurfaces. Present-day Spain is in one such period of debasement.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Concetti:** [[concepts/nature|natura]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +129,7 @@ Solo il grossolano segue il suo capriccio,
 
 il nobile aspira a ordinamento e a legge.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/decadence,concepts/nature,forms/essay"></span>
 
 El lujo de sacrificar a la [norma](/concepts/law), que es una ficción, caracterizaba para Renan la ironía radical de la cultura. «Nuestro realismo —leemos en los Nouveaux Cahiers— encuentra absurdos todos los sacrificios que de su bienestar material hace el hombre sin saber a qué. Pero yo amo esto: otra cosa sería suponer que no hay nada más allá de lo útil. Admiro la libación antigua: echar un poco de nuestro bien no se sabe a quién. Ahora se diría: Ut quid perditio haec? ¿A qué este derroche? Es inútil. ¡Ah, es inútil! ¿Por ventura lo invisible no es nada? Me agrada que se le hagan sacrificios, aunque sólo fuera para probar la realidad de lo que no es palpable».
 

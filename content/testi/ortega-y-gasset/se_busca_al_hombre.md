@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A pedagogical lecture opening on the Ecce homo: before the same figure the crowd, the Pharisees, the Roman soldiers, the fishermen and Pilate each see something different — proof that defining man is not obvious. Ortega recalls Hegel's secular christology and the 1793 rights of man, concluding that all pedagogy depends on the educator's idea of man.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]]  
+**Concetti:** [[concepts/education|educazione]]  
+**Figure:** [[figures/leibniz|Leibniz]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

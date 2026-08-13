@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short editorial note (1924) presenting an essay by Jakob von Uexküll, praised as a master of biology for his system of biological ideas. Editorial note, not philosophical.
+> A 123-word editorial note: the digest gives neither atoms nor sample. From the title it is an introductory note to a piece by Jakob von Uexküll on the biology of the scallop, but the content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A gloss on Unamuno's second lecture at the socialist club of Bilbao. Ortega takes it as occasion for a portrait of his own generation — the one educated around 1898, which never laughed and will show its vigour around thirty, born old like Confucius — and for the prediction that 'better or worse, we shall be socialists', since in Spain socialism is forced to become the defender of culture against ignorance and the priest.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/historical_materialism_school|materialismo storico]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -144,7 +153,7 @@ Qualcuno penserà che il signor Unamuno dovette parlare del blocco. Qualcosa dis
 
 «E non si può rendersi —disse— da Madrid chiaro conto dell'ambiente sociale in cui il movimento socialista operaio si svolge a Bilbao, né perciò dettargli assoluta regola di condotta. L'unità di azione ha limiti».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,forms/essay,schools/historical_materialism_school"></span>
 
 Ruego a mi antiguo maestro de griego, quien cometió una vez la bondad de no suspenderme, que medite de nuevo sobre el problema momentáneo del [socialismo](/schools/historical_materialism_school) español, y sobre todo que separe bien su socialismo, que es el mío y de algunos intelectuales, que es un socialismo incipiente y el núcleo organizado de socialistas obreros. La acción múltiple, la relativa membración, el movimiento amplio y libre y vario que podrá alcanzar ese futuro socialismo enriquecido con energías intelectuales serían la muerte en flor del partido que hoy existe. Tiene el grupo de Pablo Iglesias virtudes únicas, honda y genuinamente socialistas que faltan a los españoles cultos y en él habremos de aprender o en parte alguna. Aunque sólo fuera su religiosidad de lo colectivo, bastaría para que cuidásemos de conservarlo intacto. De esos pobres rescoldos de ardor y respeto que en él hay, habrá que sacar los incendios deseados para el porvenir. ¿Qué importa, si esa religiosidad, como todo fervor exento de erudición, es ruda, sin flexibilidad ni tolerancia? ¿Qué importa, inclusive, que sea grotesca alguna vez?
 

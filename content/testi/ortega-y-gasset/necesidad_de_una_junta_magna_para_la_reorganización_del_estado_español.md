@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Political manifesto (1930) proposing an elected grand assembly (Junta magna) to reorganise the Spanish state, representing all national forces. A programmatic, non-philosophical document.
+> The digest gives only the title and length (687 words): zero atoms, no prose sample. The title points to a political proposal for reorganising the Spanish state, but the content cannot be verified from the digest.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Critical discussion of Scheler on war: though he grants ethics the last word, his reasoning slides into a higher-order utilitarianism which, within Scheler's own system, is immoral. Ortega accepts instead the idea of love as the ethical intuition that discovers rights, and argues that the same components — justice and force — are found in law and in war, citing Stammler on positive law's claim to be just law.
+
+## Connections
+
+**Concetti:** [[concepts/justice|giustizia]], [[concepts/law|legge]], [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +109,7 @@ Il diritto internazionale comincerà propriamente quando si siano inventate le n
 
 Pensando in questa maniera, chiaro è che ogni pacifismo che cominci col negare il nucleo di giustizia protoplasmatica, informe che c'è nella guerra, mi sembra illusorio, e, inoltre, culturalmente povero. Come prova della sordidezza mentale con cui l'europeo dei nostri giorni si avvicina a queste questioni, si legga il capitolo La pace del mondo del libro di Wells, già citato[78]. Non gli accade altro per migliorare la condizione dell'inimicizia umana che si crei un Consiglio mondiale, specie di Consiglio dell'Aja, al superlativo, che si sopprimano gli ambasciatori, si proibiscano i Trattati segreti, si statalizzino le industrie guerresche e, invece di fucili, si armino di randelli i soldati.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/justice,concepts/law,concepts/state,forms/essay"></span>
 
 Verdad es que Wells se obstina en mirar la guerra como un acontecimiento sin hondas raíces en el corazón humano. Así puede atribuirlo a causas superficiales, una de ellas, la dispepsia que suelen padecer los escritores. «Una grande parte del carácter literario belicoso —dice— es patológico. Los hombres sumidos en el estudio y emparedados en las Universidades pescan enfermedades del hígado y del corazón; sufren con su timidez, con la persuasión de un mérito excesivo y desatendido —melancolía de solterona—, y padecen odio contra todas las alegrías de la vida. Este sufrimiento se exhala en atroces ideologías. Un buen baño diario, una sociedad compleja, la total supresión de cerveza, alcohol y tabaco y dos horas de hockey por la tarde harían, probablemente, de estos furiosos militaristas profesionales, hombres sobremanera tolerantes. Un régimen de este orden hubiese sido ciertamente la salud de Froude y de Carlyle».
 
@@ -180,7 +187,7 @@ Ma, in ogni caso, il principio delle nazionalità porta a conseguenze che rivela
 
 Il principio delle nazionalità, nondimeno, ha avuto una grande utilità. Sotto la sua influenza ci siamo abituati a non rispettare certi diritti acquisiti. Grazie ad esso hanno potuto durante il XIX secolo, in mezzo all'universale entusiasmo, liberarsi molte colonie dalle loro metropoli. Questa abitudine a non rispettare il passato più del giusto è, a mio intendere, di incalcolabile importanza perché possa un giorno esistere il vero diritto internazionale.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/justice,concepts/law,concepts/state,forms/essay"></span>
 
 Por cierto, que yo no he logrado comprender la indignación con que muchos espíritus soi-disant radicales y progresistas han visto la amenaza de Alemania a los derechos adquiridos de otros pueblos. En ello, como en tantos otros de sus actos y palabras, veo la insolidaridad que padecen consigo mismos. Pues bajo todas las aspiraciones nuevas del derecho civil late también, como la cuestión magna, ésta del derecho a los derechos adquiridos. Pero los socialistas, distraídos con el esquematismo un poco pedante de Carlos Marx, se han olvidado también en esto de su Lassalle, el hombre más profundo que ha tenido el radicalismo de la pasada centuria. Para Lassalle era tan importante la organización combatiente del proletariado, que él fue, en cierto modo, su iniciador. Pero a la par veía que el odio y el temor no bastan para que un deseo social triunfe. Es menester conquistar las mentes, es preciso convencer, y, para ello, inventar nuevas ideas claras que espanten los antiguos prejuicios, como el canto del gallo los tenebrosos aquelarres. Por esto dedicó su obra más laboriosa a este problema jurídico de los derechos adquiridos.
 
@@ -258,7 +265,7 @@ Comincia coll'avvertire che le realtà non ci si presentano alla percezione in q
 
 Ho copiato questi paragrafi col proposito che i miei lettori ricevano un'impressione suggestiva della rotta che il mondo segue. È Max Scheler uno degli uomini più rappresentativi della nuova generazione tedesca, e può molto giustamente essere considerato come esemplare tipico del professorato giovane. Ed ecco che quest'uomo crede accettabile parlare dell'unità reale della vita e del regno di Dio in quella forma. Senza prove, senza precauzioni, senza ampliazioni —io direi: cinicamente. Poiché come c'è un cinismo della carne lo c'è anche dello spirito[83].
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/justice,concepts/law,concepts/state,forms/essay"></span>
 
 La verdad es que no sabe uno cuál calle tomar. Yo no puedo leer una página de dogmatismo espiritualista y religioso como la transcrita sin sentir repugnancia. Y, por otra parte, experimento pareja repulsión cuando me acuerdo que hay en el mundo librepensadores y gentes según las cuales de Dios y de la fuerza vital no se puede ya hablar.
 

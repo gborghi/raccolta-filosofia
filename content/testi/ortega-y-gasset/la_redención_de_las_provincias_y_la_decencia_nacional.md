@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The preface to the book of the same name: Ortega explains how, under the Dictatorship's censorship, he had to proceed slowly and camouflage his themes (the "great comarca" standing in for the region), and how chapter X was blocked. He insists that although the monarchy is the immediate culprit, the ultimate one for Spain's misfortunes is the Spanish people itself.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

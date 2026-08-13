@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A page of social pedagogy: the school demanded by scientific pedagogy is the lay school, that is, the state school; the confessional school is a principle of anarchy because it disaggregates. Ortega pushes the thesis to denying private life and the family's right to educate: society is the sole educator and the sole end of education.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Concetti:** [[concepts/education|educazione]], [[concepts/state|Stato]], [[concepts/religion|religione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

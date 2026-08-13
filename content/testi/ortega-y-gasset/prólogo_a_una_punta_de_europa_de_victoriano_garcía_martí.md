@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A preface to a book on the Galician soul, and an occasion to denounce the old regionalism: it confused the clear regional fact with the murkiest of notions, the nation, and took for granted that statehood belongs to a nation. But there is no right to be a state: state coexistence rests on the historical will to live together, not on the biological fatality of blood, and the state always arises before the family, uniting ethnically disunited groups.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

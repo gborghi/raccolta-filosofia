@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A press note (Crisol, 1931) in which Ortega denies he means to found a party, says he suspects he is unfit for political action, and announces he will state publicly his dissent about the tone given to the Republic. An occasional, autobiographical-political piece.
 

@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Thoughts from El Escorial on an Easter day, opened by a theoretical thesis: our life is a dialogue in which the individual is only one interlocutor, the other being the landscape, the surrounding — as Uexküll's and Driesch's biology shows, seeking organic unity in the functional whole of body plus milieu (the spider differs from man because it sees a different world). Hence the call to restore to our thoughts the landscape in which they were born, as Descartes did in his stove-heated room and Plato in the Phaedrus.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]]  
+**Argomenti:** [[arguments/yo_soy_yo_y_mi_circunstancia|io sono io e la mia circostanza]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -132,7 +142,7 @@ La bontà o la malvagità di cui parla l'etica è sempre la bontà o la malvagit
 
 Orbene; notate quali due significati più diversi possa avere la parola volere. Nell'uso ordinario della vita, quando diciamo di volere qualcosa, non intendiamo dire che se rimanessimo soli al mondo quell'oggetto e noi saremmo soddisfatti. No: il nostro volere quella cosa consiste in ciò che essa ci pare necessaria per un'altra, la quale a nostra volta la vogliamo per un'altra ancora. Di queste catene di volizioni, in cui un volere serve a un altro volere, si compone il tessuto della nostra abituale esistenza: con una porzione del nostro animo prestiamo un servizio a un'altra porzione di esso, e così di seguito. Tal modo di volere —di volere per, di volere utilitario— converte la nostra dimora intima in una casa di commercio.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/radical_reality_of_life,arguments/yo_soy_yo_y_mi_circunstancia,figures/plato,forms/essay"></span>
 
 Mas ¿qué semejanza puede existir entre ese querer lo uno para lo otro con aquél en que queremos algo por ello mismo, sin finalidad ninguna? Nuestro querer negociante, nuestra voluntad a la inglesa —y digo esto porque el utilitarismo es la moral inglesa—, había colocado las cosas todas en cadenas interminables donde cada eslabón es un medio para el próximo, y, por tanto, tiene el valor relativo del lugar que ocupa en la cadena. Mas este querer de nueva y más pura índole arranca de esa cadena una cosa y, solitaria, sin ponerla en relación con nada, lujosa y superfluamente, por ella misma la afirma. Frente a esta actitud de nuestra voluntad todas las demás actitudes adquieren un sentido meramente económico donde las cosas se desean como medios. El querer ético, en cambio, hace de las cosas fines, conclusiones, últimas fronteras de la vida, postrimerías. Termina en nosotros el vaivén de la contratación, deja de ser nuestro espíritu una pluralidad de individuos elementales cada cual con su pequeño afán egoísta que es preciso contentar. Entra en ejercicio lo más profundo de nuestra personalidad, y reuniendo todos nuestros poderes dispersos, haciéndonos, por [caso](/concepts/fortune) raro, solidarios con nosotros mismos, siendo entonces y sólo entonces verdaderamente nosotros, nos ligamos al objeto querido sin reservas ni temores. De suerte que no nos parecería soportable vivir nosotros en un mundo donde el objeto querido no existiera; nos veríamos como fantasmas de nosotros mismos, como infieles a nosotros mismos.
 

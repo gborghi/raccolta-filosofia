@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article on the elections to the constituent Cortes: arbitrary candidacies decided by committees of semi-nonexistent parties, the effect of ten years' suppression of public life. Ortega concedes that his own Agrupación al servicio de la República counts for even less, and denounces the attempt to improvise a new republican caciquismo.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

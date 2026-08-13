@@ -1,79 +1,366 @@
 {
   "Also_sprach_Zarathustra": {
-    "axes": ["human_nature", "end_of_life", "meaning_of_history", "moral_foundation"],
-    "positions": ["ubermensch", "last_man", "amor_fati", "eternal_return", "will_to_power"],
-    "concepts": ["will", "nihilism", "transvaluation_of_values", "ressentiment"],
+    "axes": [
+      "human_nature",
+      "end_of_life",
+      "meaning_of_history",
+      "moral_foundation"
+    ],
+    "positions": [
+      "ubermensch",
+      "last_man",
+      "amor_fati",
+      "eternal_return",
+      "will_to_power"
+    ],
+    "concepts": [
+      "will",
+      "nihilism",
+      "transvaluation_of_values",
+      "ressentiment"
+    ],
     "arguments": [],
     "figures": [],
     "forms": [],
-    "schools": ["vitalism"],
+    "schools": [
+      "vitalism"
+    ],
     "summary_it": "Poema filosofico in forma di predicazione profetica: Zarathustra scende dalla montagna per annunciare l'oltreuomo, l'eterno ritorno dell'uguale e la morte di Dio, contrapponendo la sua dottrina all'\"ultimo uomo\" mediocre e sazio. Amor fati e trasvalutazione dei valori attraversano l'intera opera come esercizio spirituale.",
-    "summary_en": "A philosophical prose-poem in the form of prophetic preaching: Zarathustra descends from the mountain to proclaim the Übermensch, the eternal recurrence of the same, and the death of God, setting his teaching against the mediocre, self-satisfied 'last man'. Amor fati and the revaluation of values run through the whole work as a spiritual exercise."
+    "summary_en": "A philosophical prose-poem in the form of prophetic preaching: Zarathustra descends from the mountain to proclaim the Übermensch, the eternal recurrence of the same, and the death of God, setting his teaching against the mediocre, self-satisfied 'last man'. Amor fati and the revaluation of values run through the whole work as a spiritual exercise.",
+    "atoms": {
+      "002_intero": {
+        "positions": [
+          "ubermensch",
+          "last_man"
+        ],
+        "concepts": [
+          "will",
+          "soul",
+          "education"
+        ]
+      },
+      "040_intero": {
+        "positions": [
+          "eternal_return",
+          "ubermensch"
+        ],
+        "concepts": [
+          "soul",
+          "freedom",
+          "time"
+        ]
+      },
+      "058_intero": {
+        "axes": [
+          "time_and_death"
+        ],
+        "positions": [
+          "eternal_return"
+        ],
+        "concepts": [
+          "compassion"
+        ]
+      }
+    }
   },
   "Der_Antichrist": {
-    "axes": ["god", "moral_foundation", "morality_genesis"],
-    "positions": ["critical_genealogy", "will_to_power", "slave_morality"],
-    "concepts": ["nihilism", "ressentiment", "transvaluation_of_values"],
+    "axes": [
+      "god",
+      "moral_foundation",
+      "morality_genesis"
+    ],
+    "positions": [
+      "critical_genealogy",
+      "will_to_power",
+      "slave_morality"
+    ],
+    "concepts": [
+      "nihilism",
+      "ressentiment",
+      "transvaluation_of_values"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["critique"],
-    "schools": ["vitalism"],
+    "forms": [
+      "critique"
+    ],
+    "schools": [
+      "vitalism"
+    ],
     "summary_it": "Pamphlet polemico contro il cristianesimo, letto come trionfo storico della morale degli schiavi e del risentimento sui valori nobili e sulla volontà di potenza. Nietzsche vi propone una genealogia critica della fede cristiana come patologia della decadenza, preparando la trasvalutazione di tutti i valori.",
     "summary_en": "A polemical pamphlet against Christianity, read as the historical triumph of slave morality and ressentiment over noble values and the will to power. Nietzsche offers a critical genealogy of Christian faith as a pathology of decadence, preparing the transvaluation of all values."
   },
   "Die_Geburt_der_Tragödie_aus_dem_Geiste_der_Musik": {
-    "axes": ["tragic_art_principle"],
-    "positions": ["apollonian", "dionysian"],
-    "concepts": ["beauty", "will"],
+    "axes": [
+      "tragic_art_principle"
+    ],
+    "positions": [
+      "apollonian",
+      "dionysian"
+    ],
+    "concepts": [
+      "beauty",
+      "will"
+    ],
     "arguments": [],
-    "figures": ["socrates"],
-    "forms": ["essay"],
-    "schools": ["vitalism"],
+    "figures": [
+      "socrates"
+    ],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "vitalism"
+    ],
     "summary_it": "Saggio giovanile di estetica che spiega la nascita della tragedia greca dalla tensione fra la forza plastica e misurata dell'apollineo e l'ebbrezza dionisiaca; sostiene che la tragedia sia morta per mano del razionalismo socratico. Getta le basi della lettura vitalistica dell'arte che Nietzsche svilupperà in seguito.",
     "summary_en": "An early aesthetic essay explaining the birth of Greek tragedy from the tension between the measured, plastic force of the Apollonian and Dionysian intoxication; it argues that tragedy was killed by Socratic rationalism. It lays the groundwork for the vitalist reading of art Nietzsche develops later."
   },
   "Ecce_Homo": {
-    "axes": ["end_of_life", "meaning_of_history"],
-    "positions": ["amor_fati", "decadence"],
-    "concepts": ["nihilism", "transvaluation_of_values", "will"],
+    "axes": [
+      "end_of_life",
+      "meaning_of_history"
+    ],
+    "positions": [
+      "amor_fati",
+      "decadence"
+    ],
+    "concepts": [
+      "nihilism",
+      "transvaluation_of_values",
+      "will"
+    ],
     "arguments": [],
     "figures": [],
     "forms": [],
-    "schools": ["vitalism"],
+    "schools": [
+      "vitalism"
+    ],
     "summary_it": "Autobiografia filosofica scritta poco prima del crollo mentale del 1889, in cui Nietzsche rilegge la propria opera capitolo per capitolo sotto il segno dell'amor fati e della decadenza superata. Presenta Zarathustra come il proprio dono più grande all'umanità e annuncia la trasvalutazione di tutti i valori come compito imminente.",
-    "summary_en": "A philosophical autobiography written shortly before his 1889 mental collapse, in which Nietzsche rereads his own work chapter by chapter under the sign of amor fati and overcome decadence. He presents Zarathustra as his greatest gift to humanity and announces the transvaluation of all values as his imminent task."
+    "summary_en": "A philosophical autobiography written shortly before his 1889 mental collapse, in which Nietzsche rereads his own work chapter by chapter under the sign of amor fati and overcome decadence. He presents Zarathustra as his greatest gift to humanity and announces the transvaluation of all values as his imminent task.",
+    "atoms": {
+      "019_intero": {
+        "positions": [
+          "dionysian",
+          "ubermensch",
+          "eternal_return"
+        ],
+        "concepts": [
+          "soul",
+          "nature"
+        ]
+      }
+    }
   },
   "Götzen-Dämmerung": {
-    "axes": ["meaning_of_history", "moral_foundation"],
-    "positions": ["decadence", "will_to_power"],
-    "concepts": ["nihilism", "transvaluation_of_values"],
+    "axes": [
+      "meaning_of_history",
+      "moral_foundation"
+    ],
+    "positions": [
+      "decadence",
+      "will_to_power"
+    ],
+    "concepts": [
+      "nihilism",
+      "transvaluation_of_values"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["aphorism"],
-    "schools": ["vitalism"],
+    "forms": [
+      "aphorism"
+    ],
+    "schools": [
+      "vitalism"
+    ],
     "summary_it": "Sintesi aforistica e polemica della filosofia matura di Nietzsche: gli \"idoli\" della morale, della metafisica e della cultura tedesca vengono saggiati \"col martello\" e trovati vuoti. Ricapitola volontà di potenza, decadenza e trasvalutazione dei valori in forma tagliente e concentrata.",
     "summary_en": "An aphoristic, polemical summary of Nietzsche's mature philosophy: the 'idols' of morality, metaphysics and German culture are sounded out 'with a hammer' and found hollow. It recapitulates the will to power, decadence and the transvaluation of values in sharp, condensed form."
   },
   "Menschliches_Allzumenschliches_Erster_Band": {
-    "axes": ["method"],
-    "positions": ["genealogy"],
-    "concepts": ["custom", "education", "reason", "passion"],
+    "axes": [
+      "method"
+    ],
+    "positions": [
+      "genealogy"
+    ],
+    "concepts": [
+      "custom",
+      "education",
+      "reason",
+      "passion"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["aphorism"],
-    "schools": ["vitalism"],
+    "forms": [
+      "aphorism"
+    ],
+    "schools": [
+      "vitalism"
+    ],
     "summary_it": "Raccolta di aforismi che segna la svolta \"positivistica\" di Nietzsche verso uno spirito libero, scettico e psicologico, distante dal romanticismo wagneriano e schopenhaueriano degli scritti giovanili. Applica un metodo storico-genealogico a morale, religione e cultura, mostrandone l'origine tutta umana.",
-    "summary_en": "A collection of aphorisms marking Nietzsche's 'positivist' turn toward a free, skeptical, psychological spirit, distant from the Wagnerian and Schopenhauerian romanticism of his early writings. It applies a historical-genealogical method to morality, religion and culture, showing their all-too-human origin."
+    "summary_en": "A collection of aphorisms marking Nietzsche's 'positivist' turn toward a free, skeptical, psychological spirit, distant from the Wagnerian and Schopenhauerian romanticism of his early writings. It applies a historical-genealogical method to morality, religion and culture, showing their all-too-human origin.",
+    "atoms": {
+      "011_intero": {
+        "axes": [
+          "morality_genesis"
+        ],
+        "positions": [
+          "critical_genealogy",
+          "free_will",
+          "determinism"
+        ],
+        "forms": [
+          "aphorism"
+        ]
+      }
+    }
   },
   "Zur_Genealogie_der_Moral": {
-    "axes": ["method", "morality_genesis", "god", "moral_foundation"],
-    "positions": ["genealogy", "noble_morality", "slave_morality", "critical_genealogy", "will_to_power"],
-    "concepts": ["ressentiment", "nihilism", "transvaluation_of_values"],
+    "axes": [
+      "method",
+      "morality_genesis",
+      "god",
+      "moral_foundation"
+    ],
+    "positions": [
+      "genealogy",
+      "noble_morality",
+      "slave_morality",
+      "critical_genealogy",
+      "will_to_power"
+    ],
+    "concepts": [
+      "ressentiment",
+      "nihilism",
+      "transvaluation_of_values"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["treatise"],
-    "schools": ["vitalism"],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "vitalism"
+    ],
     "summary_it": "Tre dissertazioni polemiche che ricostruiscono l'origine storica dei valori morali: la vittoria della morale degli schiavi sulla morale nobile attraverso il risentimento, la genesi della cattiva coscienza e del senso di colpa, e il significato nichilistico dell'ideale ascetico. È il testo metodologicamente più compiuto della genealogia nietzscheana.",
-    "summary_en": "Three polemical essays reconstructing the historical origin of moral values: the victory of slave morality over noble morality through ressentiment, the genesis of bad conscience and guilt, and the nihilistic meaning of the ascetic ideal. It is the methodologically most developed text of Nietzschean genealogy."
+    "summary_en": "Three polemical essays reconstructing the historical origin of moral values: the victory of slave morality over noble morality through ressentiment, the genesis of bad conscience and guilt, and the nihilistic meaning of the ascetic ideal. It is the methodologically most developed text of Nietzschean genealogy.",
+    "atoms": {
+      "004_intero": {
+        "axes": [
+          "morality_genesis"
+        ],
+        "positions": [
+          "critical_genealogy",
+          "noble_morality",
+          "slave_morality"
+        ]
+      },
+      "006_intero": {
+        "axes": [
+          "morality_genesis"
+        ],
+        "positions": [
+          "slave_morality",
+          "noble_morality",
+          "critical_genealogy"
+        ],
+        "concepts": [
+          "ressentiment"
+        ]
+      },
+      "007_intero": {
+        "positions": [
+          "slave_morality",
+          "noble_morality"
+        ],
+        "concepts": [
+          "ressentiment"
+        ]
+      }
+    }
+  },
+  "Die_Geburt_der_Tragödie_aus_dem_Geiste_der_Musik": {
+    "atoms": {
+      "004_intero": {
+        "positions": [
+          "apollonian",
+          "dionysian"
+        ],
+        "concepts": [
+          "will"
+        ],
+        "figures": [
+          "schopenhauer"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "005_intero": {
+        "positions": [
+          "apollonian",
+          "dionysian"
+        ],
+        "concepts": [
+          "nature",
+          "mimesis"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "007_intero": {
+        "positions": [
+          "apollonian",
+          "dionysian"
+        ],
+        "concepts": [
+          "beauty",
+          "nature"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "014_intero": {
+        "positions": [
+          "apollonian",
+          "dionysian",
+          "pessimism"
+        ],
+        "concepts": [
+          "individuation"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "016_intero": {
+        "positions": [
+          "apollonian",
+          "dionysian"
+        ],
+        "figures": [
+          "socrates"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      }
+    }
+  },
+  "Götzen-Dämmerung": {
+    "atoms": {
+      "019_intero": {
+        "positions": [
+          "dionysian",
+          "eternal_return"
+        ],
+        "concepts": [
+          "will_to_live",
+          "ressentiment",
+          "transvaluation_of_values"
+        ]
+      }
+    }
   }
 }

@@ -10,6 +10,8 @@ tags:
   - "philosopher/rousseau"
 ---
 
+*Rousseau*
+
 > [!abstract]
 > A very brief heading (27 words) of a memoir handed over on 19 April 1742 to Dom Boudet, an Antonine monk working on the biography of the late Bishop de Bernex of Geneva. An occasional biographical note, without philosophical content.
 
@@ -23,3 +25,15 @@ tags:
 MÉMOIRE remis le 19 Avril 1742, À M. BOUDET, ANTONIN,
 
 qui travaille à l’histoire de feu M. de Bernex, Évêque de Genève[6].
+
+<span class="qlang-split" data-lang="en"></span>
+
+MEMORandum submitted on April 19, 1742, to Mr. Boudet, Antonin.
+
+who is working on the history of the late Monsignor de Bernex, Bishop of Geneva[6].
+
+<span class="qlang-split" data-lang="it"></span>
+
+Memoria presentata il 19 aprile 1742 a Monsieur Boudet, Antonin.
+
+che lavora alla storia di Monsignor de Bernex, Vescovo di Ginevra[6].

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Despite the title, the sample is a report on the Agrupación al Servicio de la República's activity in the weeks before the Republic was proclaimed: censorship, municipal elections, the decision not to run candidates, twenty-five thousand members. A party document, not a reflection on history.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

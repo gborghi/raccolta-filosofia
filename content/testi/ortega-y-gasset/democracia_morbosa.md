@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Democracy as a strict norm of political right is excellent, but democracy run wild — in religion, art, thought and manners — is the most dangerous disease a society can suffer, and in Spain it has bred plebeianism. One may not be "a democrat above all", because politics is an instrumental, adjectival order of life: this was the nineteenth century's great error of perspective.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]], [[assi/state_and_individual|Stato e individuo]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -126,7 +134,7 @@ L'epoca in cui la democrazia era un sentimento sano e di impulso ascendente, pas
 
 A Nietzsche dobbiamo la scoperta del meccanismo che funziona nella coscienza pubblica degenerata: lo chiamò [Ressentiment](/concepts/ressentiment). Quando un uomo si sente a sé stesso inferiore per mancanza di certe qualità — intelligenza o valore o eleganza — cerca indirettamente di affermarsi davanti alla propria vista negando l'eccellenza di quelle qualità. Come ha indicato finemente un glossatore di Nietzsche, non si tratta del caso della volpe e dell'uva. La volpe seguita a stimare come la miglior cosa la maturità nel frutto, e si accontenta di negare quella stimabile condizione dell'uva troppo alta. Il «risentito» va più oltre: odia la maturità e preferisce l'acervo. È la totale inversione dei valori: il superiore, precisamente per esserlo, patisce una «capitis diminutio», e al suo posto trionfa l'inferiore.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/political_legitimacy,assi/state_and_individual,concepts/state,concepts/law,forms/essay"></span>
 
 El hombre del pueblo suele o solía tener una sana capacidad admirativa. Cuando veía pasar una duquesa en su carroza se extasiaba, y le era grato cavar la tierra de un planeta donde se ven, por veces, tan lindos espectáculos transeúntes. Admira y goza el lujo, la prestancia, la belleza, como admiramos los oros y los rubíes con que solemniza su ocaso el Sol moribundo. ¿Quién es capaz de envidiar el áureo lujo del atardecer? El hombre del pueblo no se despreciaba a sí mismo: se sabía distinto y menor que la clase noble; pero no mordía su pecho el venenoso «resentimiento». En los comienzos de la Revolución francesa una carbonera decía a una marquesa: «Señora, ahora las cosas van a andar al revés: yo iré en silla de manos y la señora llevará el carbón». Un abogadete «resentido» de los que hostigaban al pueblo hacia la revolución, hubiera corregido: «No, ciudadana: ahora vamos a ser todos carboneros».
 

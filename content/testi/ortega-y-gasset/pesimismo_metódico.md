@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An early speech to a Bilbao society: Spain is so poor in spiritual maturity that it must fall back on the young. He proposes bitterness as the obligatory starting point of any common work among Spaniards—recognizing the truth is not pessimism—and adopts Beethoven's motto, 'to joy through pain'.
+
+## Connections
+
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

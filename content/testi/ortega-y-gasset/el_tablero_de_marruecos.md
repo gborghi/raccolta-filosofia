@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A 1912 article on the Franco-Spanish treaty over Morocco: a history of French penetration from Richelieu to Lyautey, and a description of the Spanish zone from the Muluya to the Lucus. Journalistic geopolitics.
 

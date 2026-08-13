@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A 1930 political article: the indisputable fact is that the Spanish state itself broke its own legal continuity through the dictatorship, ceasing to be a state of law and becoming mere force. Topical polemic, not philosophical argument.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/law|legge]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +84,7 @@ Ma non resta disegnato adeguatamente il fatto quando si dice che lo Stato spagno
 
 Silvela lo dichiarò nel mattino di questo secolo: «La Spagna è in periodo costituente». Il peccato massimo dei «vecchi politici» fu, non il peculato né lo spreco, come fu loro imputato dal volgo durante la Dittatura, ma il non aver voluto la riforma dello Stato, quando essi, meglio di chiunque, vedevano fino a che punto fosse ineludibile (così lo feci constare durante la Dittatura). Al essere sepolto don Antonio Maura si trovò al bordo della sua tomba un progetto di Costituzione. Secondo che pare, era questo il ritocco ultimo, nelle postreme settimane della sua nobile esistenza, di altro o altri progetti —anteriori alla Dittatura. La vita di Maura fu il clamore incessante dinanzi al fatto che lo Stato spagnolo non era lo Stato spagnolo, che era uno Stato per essenza fraudolento. Aver riconosciuto sempre questo, senza sconoscere gli errori di don Antonio Maura, mi è valso molti denigramenti delle cosiddette «sinistre», che mi danno oggi il diritto ad autorizzarmi col suo nome. Tuttavia, non dovevo essere io, precisamente io, a far passare per il fondo fosco del nazionale presente questa figura quasi romantica di Maura, «col suo volto iodato e barba di un bianco introvabile, perché era il Commendatore che appariva in tutti i festini della dissolutezza», secondo che dice in libro recentissimo un generoso e lieto poeta di adesso.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,concepts/law"></span>
 
 Todas estas frases designan hechos sobradamente notorios, que juntos forman el hecho grande, el hecho fundamental de la historia española en los últimos treinta años, a saber: la anormalidad constitutiva de nuestro Estado. No vale, pues, referirse sólo a la Dictadura. Ésta termina y frenetiza el proceso de descomposición del Estado español, que empieza aproximadamente en 1900 (a demostrar parte de esto dediqué diecisiete artículos seguidos en tiempo de la Dictadura)[222].
 

@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A piece of theatre criticism on Maeterlinck: to hear him one must prepare as for St Teresa or Novalis. Ortega inventories premonitions, telepathy and the life beneath consciousness to show that "mystery" walks with us like a mute companion.
 
@@ -90,7 +92,7 @@ Nei drammi di Maeterlinck —fatta eccezione di Monna Vanna, che non appartiene 
 
 Se avessi spazio cercherei di mostrare quanto c'è di spagnolo in questo misticismo di Maeterlinck. Lo scrittore belga è nipote degli ardenti spagnoli che composero Las moradas, La cuna y la sepultura e Tratados de amor divino. Entrando nei Paesi Bassi lasciammo cadere sulle ampie carni bianche dei fiamminghi la malinconia del nostro misticismo, che è il fondo intimo dell'anima spagnola. Quando nella lotta per la vita questo era una forza, fummo i primi; quando fu inutile, ci fermammo; quando è stato dannoso, ci siamo addormentati, senza riuscire a strapparcelo di dosso.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="positions/determinism,positions/free_will,concepts/cause,figures/spinoza"></span>
 
 Los místicos han estado durante todos los tiempos de pie en la frontera de lo desconocido: han sido los vigías de la humanidad que, izados en el ensueño o en el éxtasis, dan las voces de alerta al divisar las brumas rosadas que anuncian costa. Los sabios, con toda su impedimenta y sus andares de camellos cansados, llegan a las tierras prometidas siglos más tarde que los videntes. Y esto es una amarga burla del hado, porque sabio podrá serlo quien quiera, y vidente sólo el que lo sea desde la eternidad. Todas esas campiñas florecidas bajo nuestra conciencia que hoy, con maravilla nuestra, columbramos vagamente, las ha visto de seguro desde su asiento de clavos un buen mahatma indio que vivió hace diez siglos o una virgen asceta que hace seis centurias hallara en una región más alta, más noble y más limpia, todos los placeres de la carne intensificados; los místicos creen que fuerzas supremas juegan con nosotros y nos mueven. ¿Quién podrá sinceramente negar la existencia de estos poderes fatales? «Nuestra ilusión del libre albedrío —según Spinoza— no es más que nuestra ignorancia de las causas que nos hacen obrar».
 

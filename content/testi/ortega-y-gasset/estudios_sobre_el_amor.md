@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> The sample contains only the editorial note on the publication history of Estudios sobre el amor (feuilleton in El Sol 1926-27, then book; German translation 1933). None of the work's text.
+> A 59-word entry with no sample: almost certainly just the title page of the volume Estudios sobre el amor, whose essays appear as separate entries. No text to judge.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

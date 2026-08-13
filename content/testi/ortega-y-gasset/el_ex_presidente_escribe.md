@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A polemic against Antonio Maura's manifesto, its author having since 1909 been "his own reverberation", aspiring to be his own echo. It traces the genealogy of maurismo, the Germanophilia of the "young mauristas", their indiscipline and their pact with ciervismo. Political journalism.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -150,7 +156,7 @@ In ogni modo, la nostra cortesia verso la bianca testa del signor Maura ci muove
 
 In primo luogo, troviamo che è un formale appello all'opinione per una politica. Già questo ci sorprende. Ben pochi mesi fa, il signor Maura è ricorso ad essa nella forma più solenne, più esecutiva e più favorevole in cui un uomo di Stato può sollecitare il criterio nazionale, vale a dire, col decreto di dissoluzione in mano. E il signor Maura ha visto che la sua voce non ebbe allora la [fortuna](/concepts/fortune) di attrarre nuclei copiosi della società spagnola. Non è troppa insistenza ripetere tanto presto la stessa persona lo stesso gesto? Dà luogo a credere che il signor Maura si senta troppo solo, che lo angosci percepire intorno a sé un vuoto illimitato.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state"></span>
 
 ¿Y para qué llama a la gente? Ello no es dudoso: para derribar al presente Gobierno. Confesamos al señor Maura que si nos dejásemos llevar del primer movimiento, correríamos delanteros, con picos y barrenos, a fin de lograrlo hoy antes que mañana. Este Gobierno de empedernido caciquismo, este Gobierno solidario del de agosto de 1917, este Gobierno que nada sustancial podrá hacer bien, y en cambio, aprovecha las horas, los minutos, para reconstruir sus infectas trincheras de vieja política en Granada, en Córdoba, en Málaga, en Palencia, en Galicia, no despierta en nuestros corazones afinidad ni dilección algunas. Pero un segundo movimiento de reflexión patriótica, de serenidad y responsabilidad, nos hace ver que tiene una misión relativa que cumplir: hacer un presupuesto, ni bueno ni mediano, pero uno, que será siempre mejor que ninguno. Sin este mal presupuesto no habrá el año próximo otro aceptable, ni habrá gobernación posible ni tranquilidad pública.
 

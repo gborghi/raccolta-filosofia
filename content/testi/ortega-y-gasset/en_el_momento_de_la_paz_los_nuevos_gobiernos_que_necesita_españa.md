@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Editorial on the Maura government crisis: the State must be rebuilt on the only vital forces (decentralizing movements and the workers' group) and on decentralization. Political op-ed.
+> The digest records 1,229 words but zero atoms and no sample: the text cannot be inspected. The title indicates an article on the governments Spain needs at the moment of peace, but the content is unverifiable.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from Constant's Adolphe, it separates three equivocal senses of 'love' (love of God/art/science, sexual attraction, love of a woman) and rejects both its metaphysical decoration and its physiological reduction. The oath of eternal love is a poetic truth that dissolves once demanded as fact: an error of perspective.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/perspectivism|prospettivismo]]  
+**Concetti:** [[concepts/passion|passione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +129,7 @@ Orbene: io insisto che dobbiamo imparare a rispettare i diritti dell'illusione e
 
 Altrimenti, vivremo in perpetuo disaccordo con noi stessi e non eviteremo mai crudeltà inutili come quella che cade sull'uomo quando ama; giura egli amore eterno, e la società lo obbliga, ex amante, a mantenere la sua parola.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,positions/perspectivism,concepts/passion,forms/essay"></span>
 
 Esto sería justo si fuese posible al «amor» elegir entre jurar o no jurar su propia eternidad. Bien que entonces se hiciese responsable al hombre de ese añadido que voluntariamente ponía. Pero en este [caso](/concepts/fortune) no existe el albedrío. No es el amante quien jura, sino que el «amor» mismo es, en su plenitud, juramento. Mientras la moral no consiga modificar la naturaleza del amor, éste es el responsable y no el hombre a quien sobrecoge.
 

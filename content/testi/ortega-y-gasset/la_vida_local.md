@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Political column on regional autonomy: the provinces must be modernised and vitalised through a broadly autonomous regional organisation, without conceding claims to particular sovereignty. Non-philosophical.
+> A 216-word text for which the digest gives no sample: content cannot be judged. The title points to Ortega's theme of local life.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

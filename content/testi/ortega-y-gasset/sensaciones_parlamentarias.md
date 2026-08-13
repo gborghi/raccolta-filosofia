@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political self-portrait (Madrid, June 1932): Ortega calls himself unfit for politics because an intellectual cannot digest the foolishness spoken when improvising replies in the chamber. He draws a practical proposal: change parliamentary usage, since the State should not hang on oratorical agility.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +108,7 @@ In primo luogo, in nessun paese i politici costituiscono una selezione degli uom
 
 La politica richiede risoluzione, esecutività, prontezza, facilità di mobilitazione. All'intellettuale gli [causa](/concepts/cause), al pronto, grande ammirazione — contro ciò che si dice l'intellettuale è uno dei pochi tipi umani in verità capaci di ammirazione — l'agilità del politico, la leggerezza con cui si muove, il coraggio con cui agisce nelle situazioni difficili. Poi si convince che quella agilità e quel coraggio si compongono in grandi dosi di incoscienza, cioè, che il politico non vede la situazione con la chiarezza con cui la vede l'intellettuale — il contrario di ciò che suole dirsi —, sopra tutto non prevede le conseguenze della situazione e questo futuro pericoloso, a volte con tutta evidenza catastrofico, non grava su di lui. Così, senza peso sopra, è facile essere agile: così, senza coscienza del pericolo è facile essere coraggioso. (Manca e sarebbe di grande interesse la psicologia del coraggioso). In somma, l'esperienza mi ha insegnato che alcune delle più efficienti virtù del politico si nutrono della sua incoscienza. Più che coraggiosi sono audaci. E l'audacia è in un cinquanta per cento incoscienza e sonnambulismo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="positions/mass_man,concepts/select_minority"></span>
 
 Los Parlamentos están, pues, en todas partes formados por gente que puede representar el nivel medio del país. Pero el nivel medio de un país, entiéndase bien, no es el nivel medio de la parte activa del país, de lo que con una expresión anticuada y torpe, pero aún no sustituida, llamamos la gente «culta». De aquí que una Cámara sea siempre menos sensible que un público cualquiera de los que espontáneamente acuden a una conferencia. Es que representa un nivel inferior.
 

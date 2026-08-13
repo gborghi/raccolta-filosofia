@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Book-note on a linguistics work: language studied as kinematics (maps of phonemes across time/space) that calls for completion in a dynamics of language. Not philosophical.
+> A very short text (204 words) with no sample in the digest: the title announces a "kinematics of language", but the content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

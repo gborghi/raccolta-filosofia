@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Awaiting the Catalan MPs' arrival with the Mancomunitat Statute, Ortega declares that he too wants broad regional autonomy, but as a Spanish national question and not merely a Catalan one, and warns Cambó that resorting to violence would turn the Catalanists into "poisoners of hearts" and force autonomists elsewhere in Spain to lay down their arms. A topical political article.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Article on the evolutionary socialization of wealth: the enemy is workers' suspicion fed by the right; neither guaranteeing the right nor the mythical leap to instant socialism is the way. Political op-ed.
+> A short text (274 words). The digest carries no prose sample, so the content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

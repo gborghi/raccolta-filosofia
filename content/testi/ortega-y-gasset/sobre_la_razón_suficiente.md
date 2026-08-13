@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article on a speech by minister Casares: in politics least of all can one be right on isolated questions, because politics is a whole and one has 'all' the reason or none. The minister was right on the single point but not in the way that counts, since the Law for the Defence of the Republic, and behind it the Constitution, are what is at issue.
+
+## Connections
+
+**Concetti:** [[concepts/reason|ragione]], [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

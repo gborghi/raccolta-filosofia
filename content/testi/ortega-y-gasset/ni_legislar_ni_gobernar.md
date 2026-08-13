@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against the Congress president's aphorism 'legislate less, govern more': Ortega traces its provenance to the Conservative party's programme, which, left programmeless after legislating abundantly, beatified its own emptiness by claiming the existing laws are good and the whole evil lies in not enforcing them. With a digression on decentralisation and Catalanism. Political journalism.
+
+## Connections
+
+**Concetti:** [[concepts/law|legge]], [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +127,7 @@ Le leggi, le istituzioni che cercano di strutturare la vita del nostro popolo, s
 
 Vuol dire questo che l'aforisma del signor presidente del Congresso debba essere rovesciato? Che dobbiamo dire: «Più legiferare e meno governare»? Nemmeno, nemmeno. In fondo, questo non sarebbe il contrario. Presupporrebbe un'attitudine nuovissima sopravvenuta nel nostro paese, grazie alla quale potrebbero oggi farsi leggi nuove impeccabili o, almeno, superiori alle vigenti. Questo sarebbe scortese e di molta vanità. Sarebbe dire al signor presidente del Congresso che le sue leggi di istruzione pubblica non furono savie, ma che ora ci sono alcuni uomini, posteriori al signor presidente del Congresso, dotati di piena competenza. Ora, questo è tassativamente falso. Il desiderio di esporre un'opinione diversa dalla sua non può farci disconoscere che, relativamente, s'intende solo molto relativamente, le leggi pedagogiche dell'attuale presidente del Congresso sono state, parlando in generale, tra le meno inopportune che sopportiamo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/law,concepts/state,forms/essay"></span>
 
 No creo que hoy pueda hacerse una ley orgánica de instrucción pública o leyes particulares en que se pretenda recrear de arriba abajo los grandes institutos de la enseñanza, mejores que las que andan en vigor. Esto es, en cierto modo, cuestión de leal convicción; de que cada cual ponga la mano sobre su corazón. No hay hombres lo bastante competentes para hacer buenas leyes constructoras ni entre los políticos ni fuera de los políticos. Puede, sin duda, pensarse lo contrario; pero déjeseme en libertad para pensar así, déjeseme decir que lo peor que podía en la presente hora acontecer a la enseñanza es que se hiciera una gran ley de enseñanza.
 

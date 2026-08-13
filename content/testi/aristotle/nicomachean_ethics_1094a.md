@@ -12,8 +12,18 @@ tags:
   - "philosopher/aristotle"
 ---
 
+*Aristotle*
+
 > [!abstract]
 > Aristotle's most influential ethical treatise: every action aims at some good, and the Supreme Good for man is eudaimonia, activity of the soul in accordance with virtue. It develops the doctrine of virtue as a mean between excess and deficiency, and the role of phronesis, practical wisdom, in deliberating well.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/virtue_ethics|virtù]]  
+**Concetti:** [[concepts/eudaimonia|eudaimonia (fioritura)]], [[concepts/phronesis|phronesis (saggezza pratica)]], [[concepts/virtue|virtù]]  
+**Forme:** [[forms/treatise|trattato]]  
+**Scuole:** [[schools/lyceum|Liceo (peripatetici)]]
 
 <p class="work-source">Traduzione di D. P. Chase · Project Gutenberg #8438 (D. P. Chase translation, 1847), 1847 · pubblico dominio</p>
 
@@ -28,7 +38,7 @@ tags:
 
 [ARISTOTELE](/figures/aristotle)’S ETICA
 
-<span class="atom-split" data-atom="002" data-title="Chapter I. (parte 1)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Chapter I. (parte 1)" data-chapter="Chapter I." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Every art, and every science reduced to a teachable form, and in like
 
@@ -404,7 +414,7 @@ studente, lo spirito in cui le nostre osservazioni dovrebbero essere ricevute, e
 
 l'oggetto che proponiamo.
 
-<span class="atom-split" data-atom="003" data-title="Chapter II. (parte 1)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Chapter II. (parte 1)" data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 And now, resuming the statement with which we commenced, since all
 
@@ -564,7 +574,7 @@ Ma chi né da sé concepisce né udendo da un altro
 
 Pongaselo a cuore;—egli è un uomo inutile.
 
-<span class="atom-split" data-atom="004" data-title="Chapter III. (parte 1)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Chapter III. (parte 1)" data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 But to return from this digression.
 
@@ -1076,7 +1086,7 @@ Una certa plausibilità, è vero, questo argomento possiede, ma è
 
 contraddetto dai fatti delle Arti e delle Scienze; poiché tutti questi,
 
-<span class="atom-split" data-atom="005" data-title="Chapter III. (parte 2)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Chapter III. (parte 2)" data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 though aiming at some good, and seeking that which is deficient, yet
 
@@ -1124,7 +1134,7 @@ dell'Uomo, o piuttosto forse di questo o quell'uomo; poiché egli deve curare
 
 individui.—Tanto su questi punti.
 
-<span class="atom-split" data-atom="006" data-title="Chapter IV. (parte 1)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Chapter IV. (parte 1)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 And now let us revert to the Good of which we are in search: what can
 
@@ -1344,7 +1354,7 @@ Dunque la Felicità è manifestamente qualcosa di finale e autosufficiente,
 
 essendo il fine di tutte le cose che sono e che possono essere fatte.
 
-<span class="atom-split" data-atom="007" data-title="Chapter V. (parte 1)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Chapter V. (parte 1)" data-chapter="Chapter V." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 But, it may be, to call Happiness the Chief Good is a mere truism, and
 
@@ -1620,7 +1630,7 @@ che molti dei punti di indagine si presentano simultaneamente alla vista
 
 in tal modo.
 
-<span class="atom-split" data-atom="008" data-title="Chapter VI. (parte 1)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Chapter VI. (parte 1)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 We must now enquire concerning Happiness, not only from our conclusion
 
@@ -1956,7 +1966,7 @@ Felicità; quindi alcuni annoverano la buona fortuna, e altri la virtù, con
 
 Felicità.
 
-<span class="atom-split" data-atom="009" data-title="Chapter VII. (parte 1)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Chapter VII. (parte 1)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 And hence too a question is raised, whether it is a thing that can be
 
@@ -2128,7 +2138,7 @@ Si è narrato di Priamo: ma l’uomo che ha provato tale fortuna ed è morto in
 
 La miseria, nessun uomo chiama felice.
 
-<span class="atom-split" data-atom="010" data-title="Chapter VIII. (parte 1)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Chapter VIII. (parte 1)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="concepts/eudaimonia,concepts/virtue,concepts/fortune,forms/treatise"></span>
 
 Are we then to call no man happy while he lives, and, as Solon would
 
@@ -2504,7 +2514,7 @@ avranno le cose specificate, ma benedetti come Uomini.
 
 Su questi punti, quindi, basti aver definito tanto.
 
-<span class="atom-split" data-atom="011" data-title="Chapter IX. (parte 1)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Chapter IX. (parte 1)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now that the fortunes of their descendants, and friends generally,
 
@@ -2604,7 +2614,7 @@ colpire alquanto i morti: ma in tale genere e grado da non
 
 rendere infelici i felici né produrre alcun altro simile effetto.
 
-<span class="atom-split" data-atom="012" data-title="Chapter X. (parte 1)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Chapter X. (parte 1)" data-chapter="Chapter X." data-kind="atom" data-srclang="en" data-tags="positions/pleasure,concepts/eudaimonia,concepts/virtue"></span>
 
 Having determined these points, let us examine with respect to
 
@@ -2752,7 +2762,7 @@ Tutti noi facciamo tutto il resto che si fa; ora il punto di partenza e
 
 La causa delle cose buone supponiamo essere qualcosa di prezioso e divino.
 
-<span class="atom-split" data-atom="013" data-title="Chapter XI. (parte 1)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Chapter XI. (parte 1)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/virtue,concepts/soul,concepts/phronesis,concepts/eudaimonia"></span>
 
 Moreover, since Happiness is a kind of working of the soul in the way
 
@@ -3108,7 +3118,7 @@ lodate l'uomo di scienza in virtù del suo stato mentale; e di
 
 Quelle che sono degne di lode chiamiamo eccellenze.
 
-<span class="atom-split" data-atom="014" data-title="Chapter I. (parte 2)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Chapter I. (parte 2)" data-chapter="Chapter I." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Well: human Excellence is of two kinds, Intellectual and Moral: now
 
@@ -3344,7 +3354,7 @@ infanzia, fa non una piccola ma un'importante differenza, o piuttosto io
 
 Direbbe che fa tutta la differenza.
 
-<span class="atom-split" data-atom="015" data-title="Chapter II. (parte 2)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Chapter II. (parte 2)" data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Since then the object of the present treatise is not mere speculation,
 
@@ -3788,7 +3798,7 @@ originariamente generato, e che si esercita sullo stesso
 
 circostanze dalle quali è stato generato.
 
-<span class="atom-split" data-atom="016" data-title="Chapter III. (parte 3)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Chapter III. (parte 3)" data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now I can conceive a person perplexed as to the meaning of our
 
@@ -3952,7 +3962,7 @@ allora non può essere sano nel corpo sotto un tale corso di trattamento, così 
 
 possono quelle essere mentalmente da sì fatto filosofeggiare.
 
-<span class="atom-split" data-atom="017" data-title="Chapter IV. (parte 2)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Chapter IV. (parte 2)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Next, we must examine what Virtue is. Well, since the things which
 
@@ -4092,7 +4102,7 @@ Poiché quindi le virtù non sono né passioni né facoltà, resta.
 
 che essi devono essere Stati.
 
-<span class="atom-split" data-atom="018" data-title="Chapter V. (parte 2)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Chapter V. (parte 2)" data-chapter="Chapter V." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now what the genus of Virtue is has been said; but we must not merely
 
@@ -4356,7 +4366,7 @@ Gli uomini possono essere cattivi in molti modi,
 
 Ma bene in uno solo.
 
-<span class="atom-split" data-atom="019" data-title="Chapter VI. (parte 2)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Chapter VI. (parte 2)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Virtue then is “a state apt to exercise deliberate choice, being in the
 
@@ -4488,7 +4498,7 @@ non può, in breve, avere dell'eccesso e del difetto uno stato medio, né di un 
 
 stato di eccesso e di difetto.
 
-<span class="atom-split" data-atom="020" data-title="Chapter VII. (parte 2)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Chapter VII. (parte 2)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 It is not enough, however, to state this in general terms, we must also
 
@@ -4520,7 +4530,7 @@ Buono qui.
 
 Dobbiamo allora trarre questi dettagli dal noto schema.
 
-<span class="atom-split" data-atom="021" data-title="I. In respect of fears and confidence or boldness:" data-chapter="I. In respect of fears and confidence or boldness:" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="I. In respect of fears and confidence or boldness:" data-chapter="I. In respect of fears and confidence or boldness:" data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/virtue,figures/aristotle"></span>
 
 The Mean state is Courage: men may exceed, of course, either in absence
 
@@ -4540,7 +4550,7 @@ caso comune), quest'ultimo è chiamato temerario: di nuovo, l'uomo che ha troppo
 
 Chi ha molta paura e troppo poca fiducia è chiamato codardo.
 
-<span class="atom-split" data-atom="022" data-title="II. In respect of pleasures and pains (but not all, and perhaps fewer" data-chapter="II. In respect of pleasures and pains (but not all, and perhaps fewer" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="II. In respect of pleasures and pains (but not all, and perhaps fewer" data-chapter="II. In respect of pleasures and pains (but not all, and perhaps fewer" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 pains than pleasures):
 
@@ -4568,7 +4578,7 @@ nome per tali caratteri, ma, poiché sono concepibili, daremo
 
 chiamarli insensibili.
 
-<span class="atom-split" data-atom="023" data-title="III. In respect of giving and taking wealth (a):" data-chapter="III. In respect of giving and taking wealth (a):" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="III. In respect of giving and taking wealth (a):" data-chapter="III. In respect of giving and taking wealth (a):" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 The mean state is Liberality, the excess Prodigality, the defect
 
@@ -4604,7 +4614,7 @@ parte del trattato, trarre le distinzioni con maggiore
 
 esattezza.)
 
-<span class="atom-split" data-atom="024" data-title="IV. In respect of wealth (b):" data-chapter="IV. In respect of wealth (b):" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="IV. In respect of wealth (b):" data-chapter="IV. In respect of wealth (b):" data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/virtue,figures/aristotle"></span>
 
 There are other dispositions besides these just mentioned; a mean state
 
@@ -4636,7 +4646,7 @@ Gli estremi connessi con la liberalità, e il modo della loro differenza.
 
 se ne parlerà anche in seguito)
 
-<span class="atom-split" data-atom="025" data-title="V. In respect of honour and dishonour (a):" data-chapter="V. In respect of honour and dishonour (a):" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="V. In respect of honour and dishonour (a):" data-chapter="V. In respect of honour and dishonour (a):" data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/virtue"></span>
 
 The mean state Greatness of Soul, the excess which may be called
 
@@ -4648,7 +4658,7 @@ Lo stato medio della Magnanimità, l'eccesso del quale si può chiamare
 
 χαυνότης, e il difetto della piccolezza d'animo.
 
-<span class="atom-split" data-atom="026" data-title="VI. In respect of honour and dishonour (b):" data-chapter="VI. In respect of honour and dishonour (b):" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="VI. In respect of honour and dishonour (b):" data-chapter="VI. In respect of honour and dishonour (b):" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now there is a state bearing the same relation to Greatness of Soul as
 
@@ -4712,7 +4722,7 @@ del trattato; ma ora proseguiremo con il resto delle virtù
 
 dopo il piano che abbiamo stabilito.
 
-<span class="atom-split" data-atom="027" data-title="VII. In respect of anger:" data-chapter="VII. In respect of anger:" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="VII. In respect of anger:" data-chapter="VII. In respect of anger:" data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/anger,concepts/virtue,figures/aristotle"></span>
 
 Here too there is excess, defect, and a mean state; but since they may
 
@@ -4788,7 +4798,7 @@ Pure dobbiamo tentare, come negli altri casi, di coniarne alcuni per loro per il
 
 per amore di chiarezza e intelligibilità.
 
-<span class="atom-split" data-atom="028" data-title="I. In respect of truth:" data-chapter="I. In respect of truth:" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="I. In respect of truth:" data-chapter="I. In respect of truth:" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 The man who is in the mean state we will call Truthful, and his state
 
@@ -4808,7 +4818,7 @@ L'uomo che è nello stato medio lo chiameremo Veritiero, e il suo stato
 
  Quello di diminuzione, Riserva e Riservato saranno i termini.
 
-<span class="atom-split" data-atom="029" data-title="II. In respect of what is pleasant in the way of relaxation or" data-chapter="II. In respect of what is pleasant in the way of relaxation or" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="II. In respect of what is pleasant in the way of relaxation or" data-chapter="II. In respect of what is pleasant in the way of relaxation or" data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/virtue,figures/aristotle"></span>
 
 amusement.
 
@@ -4832,7 +4842,7 @@ l'uomo un buffone; l'uomo in ciò manchevole un pagliaccio, e il suo stato
 
 Buffoneria.
 
-<span class="atom-split" data-atom="030" data-title="III. In respect of what is pleasant in daily life." data-chapter="III. In respect of what is pleasant in daily life." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="III. In respect of what is pleasant in daily life." data-chapter="III. In respect of what is pleasant in daily life." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 He that is as he should be may be called Friendly, and his mean state
 
@@ -4928,7 +4938,7 @@ afferma: e similmente anche rispetto all'Intellettuale.
 
 Eccellenze.
 
-<span class="atom-split" data-atom="031" data-title="Chapter VIII. (parte 2)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Chapter VIII. (parte 2)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now as there are three states in each case, two faulty either in the
 
@@ -5124,7 +5134,7 @@ la totale mancanza di autocontrollo (l'eccesso) è più contraria della
 
 Il difetto sta alla padronanza di sé perfezionata.
 
-<span class="atom-split" data-atom="032" data-title="Chapter IX. (parte 2)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Chapter IX. (parte 2)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now that Moral Virtue is a mean state, and how it is so, and that it
 
@@ -5332,7 +5342,7 @@ eccesso talvolta verso il difetto, perché questo sarà il più facile.
 
 metodo di colpire il mezzo, cioè ciò che è giusto.
 
-<span class="atom-split" data-atom="033" data-title="Chapter I. (parte 3)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Chapter I. (parte 3)" data-chapter="Chapter I." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now since Virtue is concerned with the regulation of feelings and
 
@@ -5636,7 +5646,7 @@ Dunque, ciò sembra essere obbligatorio 'la cui origine è dal di fuori,'
 
 il partito costrinse a non contribuire nulla.
 
-<span class="atom-split" data-atom="034" data-title="Chapter II. (parte 3)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Chapter II. (parte 3)" data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now every action of which ignorance is the cause is not-voluntary, but
 
@@ -5841,7 +5851,7 @@ azione involontaria, ma deve anche essere compreso che l'azione è.
 
 seguito da dolore e rimpianto.
 
-<span class="atom-split" data-atom="035" data-title="Chapter III. (parte 4)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Chapter III. (parte 4)" data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now since all involuntary action is either upon compulsion or by reason
 
@@ -5949,7 +5959,7 @@ e la Lussuria. È assurdo quindi annoverare queste azioni tra le
 
 involontario.
 
-<span class="atom-split" data-atom="036" data-title="Chapter IV. (parte 3)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Chapter IV. (parte 3)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Having thus drawn out the distinction between voluntary and involuntary
 
@@ -6217,7 +6227,7 @@ processo. L'etimologia del suo nome greco sembra darne un indizio,
 
 l'essere quando analizzato “scelto in preferenza ad alcunché d'altro.”
 
-<span class="atom-split" data-atom="037" data-title="Chapter V. (parte 3)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Chapter V. (parte 3)" data-chapter="Chapter V." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Well then; do men deliberate about everything, and is anything soever
 
@@ -6585,7 +6595,7 @@ Sia accettato questo come abbozzo della natura e dell'oggetto della morale.
 
 La scelta, essendo quell'oggetto “Mezzi per fini”.
 
-<span class="atom-split" data-atom="038" data-title="Chapter VI. (parte 3)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Chapter VI. (parte 3)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 That Wish has for its object-matter the End, has been already stated;
 
@@ -6709,7 +6719,7 @@ del bene, così scelgono ciò che è piacevole come bene ed evitano il dolore co
 
 un male.
 
-<span class="atom-split" data-atom="039" data-title="Chapter VII. (parte 3)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Chapter VII. (parte 3)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now since the End is the object of Wish, and the means to the End of
 
@@ -7157,7 +7167,7 @@ caratteri), anche i vizi devono essere volontari, poiché i casi sono
 
 Esattamente simile.
 
-<span class="atom-split" data-atom="040" data-title="Chapter VIII. (parte 3)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Chapter VIII. (parte 3)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/virtue"></span>
 
 Well now, we have stated generally respecting the Moral Virtues, the
 
@@ -7213,7 +7223,7 @@ Tuttavia essi sono volontari perché stava a noi usare il nostro.
 
 le circostanze in un modo o nell'altro.
 
-<span class="atom-split" data-atom="041" data-title="Chapter IX. (parte 3)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Chapter IX. (parte 3)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Here we will resume the particular discussion of the Moral Virtues, and
 
@@ -7413,7 +7423,7 @@ aiutare sé stesso, o in cui la morte sarebbe onorevole; ora nessuno dei
 
 Questi requisiti ineriscono alla distruzione per annegamento o per malattia.
 
-<span class="atom-split" data-atom="042" data-title="Chapter X. (parte 2)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Chapter X. (parte 2)" data-chapter="Chapter X." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Again, fearful is a term of relation, the same thing not being so to
 
@@ -7657,7 +7667,7 @@ il suicidio affronta i terrori della morte non perché sia onorevole ma per
 
 Allontanati dalla portata del male.
 
-<span class="atom-split" data-atom="043" data-title="Chapter XI. (parte 2)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Chapter XI. (parte 2)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Courage proper is somewhat of the kind I have described, but there are
 
@@ -8113,7 +8123,7 @@ essere altrimenti da come supponevano, il che gli Argivi sperimentarono quando
 
 Si avventarono sui Lacedemoni, scambiandoli per gli uomini di Sicione.
 
-<span class="atom-split" data-atom="044" data-title="Chapter XII. (parte 1)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="Chapter XII. (parte 1)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 We have described then what kind of men the Brave are, and what they
 
@@ -8277,7 +8287,7 @@ la vera natura della quale non è difficile cogliere, per sommi capi, a
 
 almeno, da quanto è stato detto.
 
-<span class="atom-split" data-atom="045" data-title="Chapter XIII. (parte 1)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Chapter XIII. (parte 1)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Next let us speak of Perfected Self-Mastery, which seems to claim the
 
@@ -8789,7 +8799,7 @@ tutto in oggetti impropri; né in grande misura in alcun oggetto del
 
 classe; né è afflitto per la loro assenza; né li desidera; o,
 
-<span class="atom-split" data-atom="046" data-title="Chapter XIII. (parte 2)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Chapter XIII. (parte 2)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 if he does, only in moderation, and neither more than he ought, nor at
 
@@ -8829,7 +8839,7 @@ Il Perfezionato Dominio di Sé non è di questo carattere, ma regola il suo
 
 i desideri secondo i dettami della retta ragione.
 
-<span class="atom-split" data-atom="047" data-title="Chapter XIV. (parte 1)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Chapter XIV. (parte 1)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now the vice of being destitute of all Self-Control seems to be more
 
@@ -9025,7 +9035,7 @@ esattamente ciò che la Ragione dirige. Si prenda questo come nostro resoconto d
 
 Perfetta padronanza di sé.
 
-<span class="atom-split" data-atom="048" data-title="Chapter I. (parte 4)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Chapter I. (parte 4)" data-chapter="Chapter I." data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/virtue,figures/aristotle"></span>
 
 We will next speak of Liberality. Now this is thought to be the mean
 
@@ -9493,7 +9503,7 @@ spendendo ove non dovrebbe, e non gusta la massima di
 
 Simonide.
 
-<span class="atom-split" data-atom="049" data-title="Chapter II. (parte 4)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Chapter II. (parte 4)" data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 But the Prodigal man goes wrong also in these points, for he is neither
 
@@ -9857,7 +9867,7 @@ Si consideri questo come ciò che abbiamo da dire riguardo alla Liberalità e
 
 i vizi contrari.
 
-<span class="atom-split" data-atom="050" data-title="Chapter III. (parte 5)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Chapter III. (parte 5)" data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Next in order would seem to come a dissertation on Magnificence, this
 
@@ -10277,7 +10287,7 @@ Naturalmente, entrambi questi stati sono difettosi, ma non comportano
 
 Disonore perché non sono né dannosi per gli altri né molto sconvenienti.
 
-<span class="atom-split" data-atom="051" data-title="Chapter IV. (parte 4)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="Chapter IV. (parte 4)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 The very name of Great-mindedness implies, that great things are its
 
@@ -10785,7 +10795,7 @@ e di queste grandi e famose. È anche una sua proprietà essere aperto,
 
 sia nelle sue avversioni sia nei suoi affetti, poiché il nascondimento è una
 
-<span class="atom-split" data-atom="052" data-title="Chapter IV. (parte 5)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="Chapter IV. (parte 5)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/virtue,figures/aristotle"></span>
 
 consequent of fear. Likewise to be careful for reality rather than
 
@@ -10897,7 +10907,7 @@ Non stima gran cosa l'essere molto intento: e i toni aspri e la prestezza.
 
 sono il risultato di questi.
 
-<span class="atom-split" data-atom="053" data-title="Chapter V. (parte 4)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="Chapter V. (parte 4)" data-chapter="Chapter V." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 This then is my idea of the Great-minded man; and he who is in the
 
@@ -10997,7 +11007,7 @@ opposta alla Grandezza d'animo, perché è più comunemente riscontrata e
 
 è peggio.
 
-<span class="atom-split" data-atom="054" data-title="Chapter VI. (parte 4)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="Chapter VI. (parte 4)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/virtue,figures/aristotle"></span>
 
 Well, the virtue of Great-mindedness has for its object great Honour,
 
@@ -11129,7 +11139,7 @@ I caratteri estremi appaiono opposti, perché il mezzo non ha nome.
 
 Appropriato ad esso.
 
-<span class="atom-split" data-atom="055" data-title="Chapter VII. (parte 4)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Chapter VII. (parte 4)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/virtue_ethics,concepts/anger,concepts/virtue"></span>
 
 Meekness is a mean state, having for its object-matter [Anger](/concepts/anger): and as
 
@@ -11417,7 +11427,7 @@ Questa sia quindi considerata la nostra esposizione dei vari stati morali.
 
 che hanno per oggetto l'Ira.
 
-<span class="atom-split" data-atom="056" data-title="Chapter VIII. (parte 4)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="Chapter VIII. (parte 4)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/friendship"></span>
 
 Next, as regards social intercourse and interchange of words and acts,
 
@@ -11629,7 +11639,7 @@ l'apparenza di essere opposti l'uno all'altro, perché il mezzo non ha
 
 nome appropriato.
 
-<span class="atom-split" data-atom="057" data-title="Chapter IX. (parte 4)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Chapter IX. (parte 4)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 The mean state which steers clear of Exaggeration has pretty much the
 
@@ -11933,7 +11943,7 @@ essendo il carattere peggiore) che sembra essere opposto al Veritiero.
 
 L'uomo.
 
-<span class="atom-split" data-atom="058" data-title="Chapter X. (parte 3)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="Chapter X. (parte 3)" data-chapter="Chapter X." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Next, as life has its pauses and in them admits of pastime combined
 
@@ -12177,7 +12187,7 @@ con le giocosità della vita, l'altro con tutti gli altri punti del sociale
 
 congiungimento.
 
-<span class="atom-split" data-atom="059" data-title="Chapter XI. (parte 3)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="Chapter XI. (parte 3)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/passion,figures/aristotle"></span>
 
 To speak of Shame as a Virtue is incorrect, because it is much more
 
@@ -12305,7 +12315,7 @@ Né l'autocontrollo è propriamente una virtù, ma una sorta di stato misto:
 
 Tuttavia, tutto ciò sarà esposto in un futuro Libro.
 
-<span class="atom-split" data-atom="060" data-title="Chapter I. (parte 5)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Chapter I. (parte 5)" data-chapter="Chapter I." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now the points for our enquiry in respect of Justice and Injustice are,
 
@@ -12537,7 +12547,7 @@ gli tocca giustamente in sorte: naturalmente egli è anche un uomo inuguale, que
 
 essendo un termine inclusivo e comune.
 
-<span class="atom-split" data-atom="061" data-title="Chapter II. (parte 5)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Chapter II. (parte 5)" data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="positions/virtue_ethics,concepts/justice,concepts/virtue,concepts/law,figures/aristotle"></span>
 
 We said that the violator of Law is Unjust, and the keeper of the Law
 
@@ -12733,7 +12743,7 @@ Riguardo al proprio prossimo è Giustizia, in quanto è tale e
 
 Tale stato morale esso è semplicemente la Virtù.
 
-<span class="atom-split" data-atom="062" data-title="Chapter III. (parte 6)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="Chapter III. (parte 6)" data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 But the object of our enquiry is Justice, in the sense in which it is a
 
@@ -12869,7 +12879,7 @@ il piacere che accompagna il guadagno, mentre l'altro agisce su tutte le cose ch
 
 costituiscono la sfera d'azione dell'uomo buono.
 
-<span class="atom-split" data-atom="063" data-title="Chapter IV. (parte 6)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Chapter IV. (parte 6)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/virtue,concepts/law,concepts/education,figures/aristotle"></span>
 
 Now that there is more than one kind of Justice, and that there is one
 
@@ -13001,7 +13011,7 @@ Può darsi che non sia la stessa cosa essere un buon uomo e un buon cittadino.
 
 in ogni caso.
 
-<span class="atom-split" data-atom="064" data-title="Chapter V. (parte 5)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="Chapter V. (parte 5)" data-chapter="Chapter V." data-kind="atom" data-srclang="en" data-tags="concepts/justice,figures/aristotle,forms/treatise"></span>
 
 Now of the Particular Justice, and the Just involved in it, one species
 
@@ -13061,7 +13071,7 @@ falsa testimonianza; ovvero accompagnata da aperta violenza; come l'insulto, le 
 
 morte, saccheggio, mutilazione, turpiloquio, ingiurie calunniose.
 
-<span class="atom-split" data-atom="065" data-title="Chapter VI. (parte 5)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Chapter VI. (parte 5)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Well, the unjust man we have said is unequal, and the abstract “Unjust”
 
@@ -13109,7 +13119,7 @@ for all agree that the Just in distributions ought to be according to
 
 some rate: but what that rate is to be, all do not agree; the democrats
 
-are for freedom, oligarchs for wealth, others for nobleness of birth,
+are for [freedom](/concepts/freedom), oligarchs for wealth, others for nobleness of birth,
 
 and the aristocratic party for virtue.
 
@@ -13293,7 +13303,7 @@ Ciò che è degno di scelta è buono, e tanto più lo è quanto maggiore è il b
 
 Questo è dunque l'unica specie del Giusto.
 
-<span class="atom-split" data-atom="066" data-title="Chapter VII. (parte 5)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Chapter VII. (parte 5)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/law,figures/aristotle,forms/treatise"></span>
 
 And the remaining one is the Corrective, which arises in voluntary as
 
@@ -13593,7 +13603,7 @@ Guadagno derivante da transazioni involontarie; cioè, è l'avere il
 
 stesso dopo la transazione come si era prima che essa avvenisse.
 
-<span class="atom-split" data-atom="067" data-title="Chapter VIII. (parte 5)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="Chapter VIII. (parte 5)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 There are people who have a notion that Reciprocation is simply just,
 
@@ -14009,7 +14019,7 @@ esistenza del denaro: poiché non fa differenza se tu dai per un
 
 casa cinque letti o il prezzo di cinque letti.
 
-<span class="atom-split" data-atom="068" data-title="Chapter IX. (parte 5)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="Chapter IX. (parte 5)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/justice,concepts/virtue"></span>
 
 We have now said then what the abstract Just and Unjust are, and these
 
@@ -14117,7 +14127,7 @@ Si lasci che questo modo di descrivere la natura della Giustizia e dell'Ingiusti
 
 Parimenti il Giusto e l'Ingiusto, generalmente, siano accettati come sufficienti.
 
-<span class="atom-split" data-atom="069" data-title="Chapter X. (parte 4)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="Chapter X. (parte 4)" data-chapter="Chapter X." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 [Again, since a man may do unjust acts and not yet have formed a
 
@@ -14469,7 +14479,7 @@ neppure le forme di governo sono, e tuttavia ve n'è una sola che
 
 per natura sarebbe il migliore in tutti i luoghi.
 
-<span class="atom-split" data-atom="070" data-title="Chapter XI. (parte 4)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="Chapter XI. (parte 4)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now of Justs and Lawfuls each bears to the acts which embody and
 
@@ -14869,7 +14879,7 @@ passione che non è né naturale né giustamente attribuibile all'umano
 
 infermità.
 
-<span class="atom-split" data-atom="071" data-title="Chapter XII. (parte 2)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Chapter XII. (parte 2)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now a question may be raised whether we have spoken with sufficient
 
@@ -15117,7 +15127,7 @@ Riguardo all'essere trattati ingiustamente allora, è chiaro che è
 
 Non volontario.
 
-<span class="atom-split" data-atom="072" data-title="Chapter XIII. (parte 3)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="Chapter XIII. (parte 3)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 There remain yet two points on which we purposed to speak: first, is he
 
@@ -15193,7 +15203,7 @@ man would who received part of the actual matter of the unjust action:
 
 because in this case the man who wrongly adjudged, say a field, did not
 
-actually get land but money by his unjust decision.
+actually get land but [money](/concepts/money) by his unjust decision.
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -15273,7 +15283,7 @@ perché in questo caso l'uomo che giudicò erroneamente, diciamo un campo, non
 
 effettivamente ottenere terra ma denaro dalla sua ingiusta decisione.
 
-<span class="atom-split" data-atom="073" data-title="Chapter XIV. (parte 2)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Chapter XIV. (parte 2)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now men suppose that acting Unjustly rests entirely with themselves,
 
@@ -15281,7 +15291,7 @@ and conclude that acting Justly is therefore also easy. But this is not
 
 really so; to have connection with a neighbour’s wife, or strike one’s
 
-neighbour, or give the money with one’s hand, is of course easy and
+neighbour, or give the [money](/concepts/money) with one’s hand, is of course easy and
 
 rests with one’s self: but the doing these acts with certain inward
 
@@ -15413,7 +15423,7 @@ le cose sono dannose; altri a cui sono utili in una certa misura:
 
 Per questa ragione, dunque, la provincia della Giustizia è tra gli Uomini.
 
-<span class="atom-split" data-atom="074" data-title="Chapter XV." data-chapter="Chapter XV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="Chapter XV." data-chapter="Chapter XV." data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/law,concepts/virtue"></span>
 
 We have next to speak of Equity and the Equitable, that is to say, of
 
@@ -15633,7 +15643,7 @@ la legge: e questo stato morale è Equità, essendo una specie di Giustizia,
 
 non uno stato morale diverso dalla Giustizia.
 
-<span class="atom-split" data-atom="075" data-title="Chapter XVI." data-chapter="Chapter XVI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Chapter XVI." data-chapter="Chapter XVI." data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/law,concepts/virtue,figures/aristotle"></span>
 
 The answer to the second of the two questions indicated above, “whether
 
@@ -15781,7 +15791,7 @@ Dopotutto, la risposta generale alla domanda è allegare ciò che era.
 
 Stabilito riguardo all'essere ingiustamente trattato col proprio consenso.
 
-<span class="atom-split" data-atom="076" data-title="Chapter XVII." data-chapter="Chapter XVII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Chapter XVII." data-chapter="Chapter XVII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 It is obvious, moreover, that being Unjustly dealt by and dealing
 
@@ -15897,7 +15907,7 @@ Si accetti dunque questo come resoconto delle distinzioni che noi
 
 riconoscere rispetto alla Giustizia e al resto delle virtù morali.
 
-<span class="atom-split" data-atom="077" data-title="Chapter I. (parte 6)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="Chapter I. (parte 6)" data-chapter="Chapter I." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Having stated in a former part of this treatise that men should choose
 
@@ -15993,7 +16003,7 @@ dovrebbe essere espressamente stabilito che cosa sia la retta ragione, e quale s
 
 definizione di esso.
 
-<span class="atom-split" data-atom="078" data-title="Chapter II. (parte 6)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="Chapter II. (parte 6)" data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now in our division of the Excellences of the Soul, we said there were
 
@@ -16269,7 +16279,7 @@ Quegli stati quindi sono le Eccellenze di ciascuno in cui ciascuno vuole.
 
 meglio conseguire la verità.
 
-<span class="atom-split" data-atom="079" data-title="Chapter III. (parte 7)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="Chapter III. (parte 7)" data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Commencing then from the point stated above we will now speak of these
 
@@ -16393,7 +16403,7 @@ essere meramente accidentale.
 
 Si accetti tanto come definizione della Conoscenza.
 
-<span class="atom-split" data-atom="080" data-title="Chapter IV. (parte 7)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="Chapter IV. (parte 7)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Matter which may exist otherwise than it actually does in any given
 
@@ -16509,7 +16519,7 @@ stato congiunto con la falsa Ragione, ed entrambi sono impiegati sopra
 
 Materia contingente.
 
-<span class="atom-split" data-atom="081" data-title="Chapter V. (parte 6)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Chapter V. (parte 6)" data-chapter="Chapter V." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 As for [Practical Wisdom](/concepts/phronesis), we shall ascertain its nature by examining to
 
@@ -16733,7 +16743,7 @@ congiunto con la Ragione, come è provato dal fatto che un tale stato possa
 
 essere dimenticata e così persa mentre la Saggezza Pratica non può.
 
-<span class="atom-split" data-atom="082" data-title="Chapter VI. (parte 6)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Chapter VI. (parte 6)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,assi/universals,figures/aristotle"></span>
 
 Now Knowledge is a conception concerning [universals](/axes/universals) and Necessary
 
@@ -16805,7 +16815,7 @@ first; the last, namely Intuition, must be it which performs this
 
 funzione.
 
-<span class="atom-split" data-atom="083" data-title="Chapter VII. (parte 6)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Chapter VII. (parte 6)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,concepts/wisdom"></span>
 
 Science is a term we use principally in two meanings: in the first
 
@@ -16989,7 +16999,7 @@ molto belli senza dubbio, ma pur sempre inutili perché non cercano
 
 ciò che è bene per loro in quanto uomini.
 
-<span class="atom-split" data-atom="084" data-title="Chapter VIII. (parte 6)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Chapter VIII. (parte 6)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="concepts/phronesis"></span>
 
 But [Practical Wisdom](/concepts/phronesis) is employed upon human matters, and such as are
 
@@ -17325,7 +17335,7 @@ Questo tuttavia è Senso piuttosto che Saggezza Pratica, che è di un'altra.
 
 genere.
 
-<span class="atom-split" data-atom="085" data-title="Chapter IX. (parte 6)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="Chapter IX. (parte 6)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now the acts of enquiring and deliberating differ, though deliberating
 
@@ -17529,7 +17539,7 @@ Sapienza, Buon Consiglio devono essere “Rettitudine in ordine a ciò che condu
 
 un dato Fine, di cui [Saggezza Pratica](/concepts/phronesis) è la vera concezione.
 
-<span class="atom-split" data-atom="086" data-title="Chapter X. (parte 5)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="Chapter X. (parte 5)" data-chapter="Chapter X." data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,figures/aristotle"></span>
 
 There is too the faculty of Judiciousness, and also its absence, in
 
@@ -17657,7 +17667,7 @@ avendo una capacità di prendere decisioni eque, con “giusto” intendo che
 
 dell'uomo veritiero.
 
-<span class="atom-split" data-atom="087" data-title="Chapter XI. (parte 5)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="Chapter XI. (parte 5)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now all these mental states tend to the same object, as indeed
 
@@ -17805,7 +17815,7 @@ che si fondano su un ragionamento rigoroso, perché vedono rettamente, avendo
 
 Trassero il loro potere di visione morale dall'esperienza.
 
-<span class="atom-split" data-atom="088" data-title="Chapter XII. (parte 3)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="088" data-title="Chapter XII. (parte 3)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Well, we have now stated the nature and objects of [Practical Wisdom](/concepts/phronesis) and
 
@@ -18325,7 +18335,7 @@ queste cose che conducono al Fine.
 
 D'altronde, non è Master of Science (cioè della parte superiore di
 
-<span class="atom-split" data-atom="089" data-title="Chapter XII. (parte 4)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="089" data-title="Chapter XII. (parte 4)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 the Soul), just as neither is the healing art Master of health; for it
 
@@ -18625,7 +18635,7 @@ una fallacia può essere costruita: poiché colui che sa, deve essere sempliceme
 
 assolutamente infallibile.
 
-<span class="atom-split" data-atom="090" data-title="Chapter I. (parte 7)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="090" data-title="Chapter I. (parte 7)" data-chapter="Chapter I." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Next we must take a different point to start from, and observe that
 
@@ -18769,7 +18779,7 @@ risolto, e quelle teorie che sono più approvate restano come residuo.
 
 I punti principali possono essere così enumerati. Si ritiene,
 
-<span class="atom-split" data-atom="091" data-title="I. That Self-Control and Endurance belong to the class of things good" data-chapter="I. That Self-Control and Endurance belong to the class of things good" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="091" data-title="I. That Self-Control and Endurance belong to the class of things good" data-chapter="I. That Self-Control and Endurance belong to the class of things good" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 and praiseworthy, while Imperfect Self-Control and Softness belong to
 
@@ -18781,7 +18791,7 @@ e lodevole, mentre l'imperfetto autocontrollo e la morbidezza appartengono a
 
 quella di cose basse e biasimevoli.
 
-<span class="atom-split" data-atom="092" data-title="II. That the man of Self-Control is identical with the man who is apt" data-chapter="II. That the man of Self-Control is identical with the man who is apt" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="092" data-title="II. That the man of Self-Control is identical with the man who is apt" data-chapter="II. That the man of Self-Control is identical with the man who is apt" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 to abide by his resolution, and the man of Imperfect Self-Control with
 
@@ -18793,7 +18803,7 @@ attenersi alla sua risoluzione, e l'uomo di Autocontrollo Imperfetto con
 
 colui che è incline a discostarsi dalla sua risoluzione.
 
-<span class="atom-split" data-atom="093" data-title="III. That the man of Imperfect Self-Control does things at the" data-chapter="III. That the man of Imperfect Self-Control does things at the" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="III. That the man of Imperfect Self-Control does things at the" data-chapter="III. That the man of Imperfect Self-Control does things at the" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/reason,concepts/virtue,figures/aristotle"></span>
 
 instigation of his passions, knowing them to be wrong, while the man of
 
@@ -18809,7 +18819,7 @@ Il Dominio di Sé, conoscendo i suoi desideri essere sbagliati, rifiuta, per l'i
 
 della ragione, di seguire i loro suggerimenti.
 
-<span class="atom-split" data-atom="094" data-title="IV. That the man of Perfected Self-Mastery unites the qualities of" data-chapter="IV. That the man of Perfected Self-Mastery unites the qualities of" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="IV. That the man of Perfected Self-Mastery unites the qualities of" data-chapter="IV. That the man of Perfected Self-Mastery unites the qualities of" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Self-Control and Endurance, and some say that every one who unites
 
@@ -18821,7 +18831,7 @@ Autocontrollo e sopportazione, e alcuni dicono che chiunque unisce
 
 Questo è un uomo di Perfetto Dominio di Sé, altri non lo sono.
 
-<span class="atom-split" data-atom="095" data-title="V. Some confound the two characters of the man who has no" data-chapter="V. Some confound the two characters of the man who has no" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="095" data-title="V. Some confound the two characters of the man who has no" data-chapter="V. Some confound the two characters of the man who has no" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Self-Control, and the man of Imperfect Self-Control, while others
 
@@ -18833,7 +18843,7 @@ Autocontrollo, e l'uomo di imperfetto autocontrollo, mentre altri
 
 distinguere tra loro.
 
-<span class="atom-split" data-atom="096" data-title="VI. It is sometimes said that the man of Practical Wisdom cannot be a" data-chapter="VI. It is sometimes said that the man of Practical Wisdom cannot be a" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="VI. It is sometimes said that the man of Practical Wisdom cannot be a" data-chapter="VI. It is sometimes said that the man of Practical Wisdom cannot be a" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 man of Imperfect Self-Control, sometimes that men who are Practically
 
@@ -18845,7 +18855,7 @@ uomo di Imperfetto Autocontrollo, a volte che gli uomini che sono Praticamente
 
 Il Saggio e l'Accorto sono di Imperfetto Autocontrollo.
 
-<span class="atom-split" data-atom="097" data-title="VII. Again, men are said to be of Imperfect Self-Control, not simply" data-chapter="VII. Again, men are said to be of Imperfect Self-Control, not simply" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="VII. Again, men are said to be of Imperfect Self-Control, not simply" data-chapter="VII. Again, men are said to be of Imperfect Self-Control, not simply" data-kind="atom" data-srclang="en" data-tags="concepts/anger"></span>
 
 but with the addition of the thing wherein, as in respect of [anger](/concepts/anger), of
 
@@ -18861,7 +18871,7 @@ onore, e guadagno.
 
 Queste, dunque, sono pressappoco le affermazioni comuni.
 
-<span class="atom-split" data-atom="098" data-title="Chapter II. (parte 7)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="098" data-title="Chapter II. (parte 7)" data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now a man may raise a question as to the nature of the right conception
 
@@ -19193,7 +19203,7 @@ stabilito; perché la soluzione di una difficoltà è un atto positivo di
 
 stabilire qualcosa come vero.
 
-<span class="atom-split" data-atom="099" data-title="Chapter III. (parte 8)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="099" data-title="Chapter III. (parte 8)" data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now we must examine first whether men of Imperfect Self-Control act
 
@@ -19665,7 +19675,7 @@ in cui tale fallimento è possibile o no, sebbene un uomo possieda
 
 Conoscenza.
 
-<span class="atom-split" data-atom="100" data-title="Chapter IV. (parte 8)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="100" data-title="Chapter IV. (parte 8)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 The next question to be discussed is whether there is a character to be
 
@@ -20025,7 +20035,7 @@ la qual ragione, con un'aggiunta, designiamo un uomo d'Imperfetto
 
 Dominio di sé rispetto all'ira, come all'onore o al guadagno.
 
-<span class="atom-split" data-atom="101" data-title="Chapter V. (parte 7)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Chapter V. (parte 7)" data-chapter="Chapter V." data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/custom,concepts/anger,concepts/nature"></span>
 
 As there are some things naturally pleasant, and of these two kinds;
 
@@ -20205,7 +20215,7 @@ nome senza alcuna qualificazione che è di natura di assenza totale
 
 dell'Autocontrollo, come si trova nell'Uomo.
 
-<span class="atom-split" data-atom="102" data-title="Chapter VI. (parte 7)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="Chapter VI. (parte 7)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 It is plain then that the object-matter of Imperfect Self-Control and
 
@@ -20501,7 +20511,7 @@ ciascuno è il peggiore: un uomo cattivo produrrebbe diecimila volte tanto
 
 il danno come un bruto cattivo
 
-<span class="atom-split" data-atom="103" data-title="Chapter VII. (parte 7)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="Chapter VII. (parte 7)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now with respect to the pleasures and pains which come to a man through
 
@@ -21013,7 +21023,7 @@ passione.
 
 l'Imperfezione di essa una cattiva.
 
-<span class="atom-split" data-atom="104" data-title="Chapter VIII. (parte 7)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="104" data-title="Chapter VIII. (parte 7)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Next comes the question, whether a man is a man of Self-Control for
 
@@ -21181,7 +21191,7 @@ del tutto privo di Autocontrollo o vizioso o di Imperfetto Autocontrollo,
 
 Solo colui che agisce per impulso di un piacere vile.
 
-<span class="atom-split" data-atom="105" data-title="Chapter IX. (parte 7)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="105" data-title="Chapter IX. (parte 7)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Moreover as there is a character who takes less pleasure than he ought
 
@@ -21465,7 +21475,7 @@ sono reciprocamente correlate.
 
 Appendice.
 
-<span class="atom-split" data-atom="106" data-title="Book VII. Chapters 12 to 15. (Bekker.)" data-chapter="Book VII. Chapters 12 to 15. (Bekker.)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="106" data-title="Book VII. Chapters 12 to 15. (Bekker.)" data-chapter="Book VII. Chapters 12 to 15. (Bekker.)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 To consider the subject of Pleasure and Pain falls within the province
 
@@ -21537,7 +21547,7 @@ A sostegno della prima opinione (che il Piacere sia del tutto non-bene) esso
 
 Si esorta che:
 
-<span class="atom-split" data-atom="107" data-title="1. Every Pleasure is a sensible process towards a complete state; but" data-chapter="1. Every Pleasure is a sensible process towards a complete state; but" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="107" data-title="1. Every Pleasure is a sensible process towards a complete state; but" data-chapter="1. Every Pleasure is a sensible process towards a complete state; but" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 no such process is akin to the end to be attained: e.g. no process of
 
@@ -21549,7 +21559,7 @@ nessun processo del genere è affine al fine da raggiungere: p. es. nessun proce
 
 Costruzione fino alla casa compiuta.
 
-<span class="atom-split" data-atom="108" data-title="3. The man of Practical Wisdom aims at avoiding Pain, not at attaining" data-chapter="3. The man of Practical Wisdom aims at avoiding Pain, not at attaining" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="108" data-title="3. The man of Practical Wisdom aims at avoiding Pain, not at attaining" data-chapter="3. The man of Practical Wisdom aims at avoiding Pain, not at attaining" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/pleasure,concepts/phronesis"></span>
 
 Pleasure.
 
@@ -21557,7 +21567,7 @@ Pleasure.
 
 Piacere.
 
-<span class="atom-split" data-atom="109" data-title="4. Pleasures are an impediment to thought, and the more so the more" data-chapter="4. Pleasures are an impediment to thought, and the more so the more" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="109" data-title="4. Pleasures are an impediment to thought, and the more so the more" data-chapter="4. Pleasures are an impediment to thought, and the more so the more" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 keenly they are felt. An obvious instance will readily occur.
 
@@ -21565,7 +21575,7 @@ keenly they are felt. An obvious instance will readily occur.
 
 Acutamente sono sentite. Un esempio ovvio si presenterà prontamente.
 
-<span class="atom-split" data-atom="110" data-title="5. Pleasure cannot be referred to any Art: and yet every good is the" data-chapter="5. Pleasure cannot be referred to any Art: and yet every good is the" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="110" data-title="5. Pleasure cannot be referred to any Art: and yet every good is the" data-chapter="5. Pleasure cannot be referred to any Art: and yet every good is the" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 result of some Art.
 
@@ -21573,7 +21583,7 @@ result of some Art.
 
 risultato di qualche Arte
 
-<span class="atom-split" data-atom="111" data-title="6. Children and brutes pursue Pleasures. (parte 1)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="111" data-title="6. Children and brutes pursue Pleasures. (parte 1)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 In support of the second (that not all Pleasures are good), That there
 
@@ -22109,7 +22119,7 @@ dire che alcuni Piaceri, in verità, sono altamente degni di scelta (il bene
 
 l'oggetto-materia dell'uomo del tutto privo di Autocontrollo.
 
-<span class="atom-split" data-atom="112" data-title="6. Children and brutes pursue Pleasures. (parte 2)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="112" data-title="6. Children and brutes pursue Pleasures. (parte 2)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 If so, we ask, why are the contrary Pains bad? they cannot be (on their
 
@@ -22233,7 +22243,7 @@ E, come è stato detto prima, ci sono le due seguenti ragioni per cui
 
 Il Piacere corporeo è ritenuto non-buono.
 
-<span class="atom-split" data-atom="113" data-title="1. Some Pleasures of this class are actings of a low nature, whether" data-chapter="1. Some Pleasures of this class are actings of a low nature, whether" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="113" data-title="1. Some Pleasures of this class are actings of a low nature, whether" data-chapter="1. Some Pleasures of this class are actings of a low nature, whether" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 congenital as in brutes, or acquired by [custom](/concepts/custom) as in low bad men.
 
@@ -22241,7 +22251,7 @@ congenital as in brutes, or acquired by [custom](/concepts/custom) as in low bad
 
 congenito come nei bruti, o acquisito per [consuetudine](/concepts/custom) come negli uomini vili e cattivi.
 
-<span class="atom-split" data-atom="114" data-title="2. Others are in the nature of cures, cures that is of some deficiency;" data-chapter="2. Others are in the nature of cures, cures that is of some deficiency;" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="114" data-title="2. Others are in the nature of cures, cures that is of some deficiency;" data-chapter="2. Others are in the nature of cures, cures that is of some deficiency;" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 now of course it is better to have [the healthy state] originally than
 
@@ -22425,7 +22435,7 @@ Piacere e Dolore. Che cosa sia ciascuno, e come l'uno sia buono, l'altro.
 
 Male. Non abbiamo ancora parlato di [Amicizia](/concepts/friendship).
 
-<span class="atom-split" data-atom="115" data-title="Chapter I. (parte 8)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="115" data-title="Chapter I. (parte 8)" data-chapter="Chapter I." data-kind="atom" data-srclang="en" data-tags="positions/social_animal,concepts/friendship,concepts/virtue"></span>
 
 Next would seem properly to follow a dissertation on [Friendship](/concepts/friendship):
 
@@ -22577,7 +22587,7 @@ Avere amici è considerato un credito per un uomo; alcuni giungono al punto di
 
 ritengono che “uomo buono” e “amico” siano termini sinonimi.
 
-<span class="atom-split" data-atom="116" data-title="Chapter II. (parte 8)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="116" data-title="Chapter II. (parte 8)" data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Yet the disputed points respecting it are not few: some men lay down
 
@@ -22681,7 +22691,7 @@ nelle specie ammettono parimenti dei gradi (su questo punto abbiamo parlato)
 
 before).
 
-<span class="atom-split" data-atom="117" data-title="Chapter III. (parte 9)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="117" data-title="Chapter III. (parte 9)" data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Our view will soon be cleared on these points when we have ascertained
 
@@ -22837,7 +22847,7 @@ un altro bene da una delle cause suddette, e che queste
 
 I sentimenti benevoli dovrebbero essere reciprocamente noti.
 
-<span class="atom-split" data-atom="118" data-title="Chapter IV. (parte 9)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="118" data-title="Chapter IV. (parte 9)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="positions/utility_pleasure,concepts/friendship"></span>
 
 As the motives to [Friendship](/concepts/friendship) differ in kind so do the respective
 
@@ -23029,7 +23039,7 @@ Stesso giorno: ma questi desiderano la società e l'intimo commercio con
 
 i loro amici, poiché così conseguono il fine della loro Amicizia.
 
-<span class="atom-split" data-atom="119" data-title="Chapter V. (parte 8)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="119" data-title="Chapter V. (parte 8)" data-chapter="Chapter V." data-kind="atom" data-srclang="en" data-tags="positions/utility_pleasure,positions/pleasure,concepts/friendship,concepts/virtue"></span>
 
 That then is perfect [Friendship](/concepts/friendship) which subsists between those who are
 
@@ -23417,7 +23427,7 @@ una questione di risultato e chiamati amici dalla loro somiglianza a questi
 
 ultimo.
 
-<span class="atom-split" data-atom="120" data-title="Chapter VI. (parte 8)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="120" data-title="Chapter VI. (parte 8)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/pleasure,concepts/friendship"></span>
 
 Further; just as in respect of the different virtues some men are
 
@@ -23521,7 +23531,7 @@ qualità che si ritiene appartenere all'Amicizia di
 
 compagnia.
 
-<span class="atom-split" data-atom="121" data-title="Chapter VII. (parte 8)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="121" data-title="Chapter VII. (parte 8)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 The connection then subsisting between the good is [Friendship](/concepts/friendship) _par
 
@@ -23789,7 +23799,7 @@ uguali per un grado proporzionato di Amicizia. E personaggi che
 
 Coloro che uniscono superiorità di rango e bontà non sono comuni.
 
-<span class="atom-split" data-atom="122" data-title="Chapter VIII. (parte 8)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="122" data-title="Chapter VIII. (parte 8)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now all the kinds of [Friendship](/concepts/friendship) which have been already mentioned exist
 
@@ -24297,7 +24307,7 @@ Tuttavia, lasciamo da parte queste questioni, perché in effetti sono alquanto
 
 estraneo al nostro scopo.
 
-<span class="atom-split" data-atom="123" data-title="Chapter IX. (parte 8)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="123" data-title="Chapter IX. (parte 8)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 It seems too, as was stated at the commencement, that [Friendship](/concepts/friendship) and
 
@@ -24501,7 +24511,7 @@ grande Sociale: e corrispondenti Amicizie seguiranno a tale
 
 Comunioni.
 
-<span class="atom-split" data-atom="124" data-title="Chapter X. (parte 6)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="124" data-title="Chapter X. (parte 6)" data-chapter="Chapter X." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Of Political Constitutions there are three kinds; and equal in number
 
@@ -24737,7 +24747,7 @@ che non hanno capo (essendo tutti lì eguali), o in cui il capo proprio
 
 è debole e così ogni membro fa ciò che è retto ai propri occhi.
 
-<span class="atom-split" data-atom="125" data-title="Chapter XI. (parte 6)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="125" data-title="Chapter XI. (parte 6)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Attendant then on each form of Political Constitution there plainly is
 
@@ -24917,7 +24927,7 @@ sono inconsiderevoli in estensione, ma nelle Democrazie sono massime.
 
 Considerevole perché coloro che sono uguali hanno molto in comune.
 
-<span class="atom-split" data-atom="126" data-title="Chapter XII. (parte 5)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="126" data-title="Chapter XII. (parte 5)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now of course all [Friendship](/concepts/friendship) is based upon Communion, as has been
 
@@ -25229,7 +25239,7 @@ della Giustizia tra amico e amico, come tra estranei, o
 
 compagni, o meri [casuali](/concepts/fortune) compagni di viaggio.
 
-<span class="atom-split" data-atom="127" data-title="Chapter XIII. (parte 4)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="127" data-title="Chapter XIII. (parte 4)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 There are then, as was stated at the commencement of this book, three
 
@@ -25577,7 +25587,7 @@ criterio, poiché la virtù e il carattere morale dipendono principalmente da
 
 motivo.
 
-<span class="atom-split" data-atom="128" data-title="Chapter XIV. (parte 3)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="128" data-title="Chapter XIV. (parte 3)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/friendship,concepts/justice,concepts/virtue"></span>
 
 Quarrels arise also in those Friendships in which the parties are
 
@@ -25789,7 +25799,7 @@ non redditizio.
 
 Basti tanto su questi punti.
 
-<span class="atom-split" data-atom="129" data-title="Chapter I. (parte 9)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="129" data-title="Chapter I. (parte 9)" data-chapter="Chapter I." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Well, in all the Friendships the parties to which are dissimilar it is
 
@@ -26113,7 +26123,7 @@ ora che lo possiede, ma da ciò che vi aveva posto prima di ottenerlo
 
 it.
 
-<span class="atom-split" data-atom="130" data-title="Chapter II. (parte 9)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="130" data-title="Chapter II. (parte 9)" data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Questions also arise upon such points as the following: Whether one’s
 
@@ -26143,7 +26153,7 @@ necessary? It is obvious, of course, that no one person can unite in
 
 himself all claims. Again, the requital of benefits is, in general, a
 
-higher duty than doing unsolicited kindnesses to one’s companion; in
+higher [duty](/positions/duty_imperative) than doing unsolicited kindnesses to one’s companion; in
 
 other words, the discharging of a debt is more obligatory upon one than
 
@@ -26401,7 +26411,7 @@ per rinunciare al tentativo, ma dobbiamo osservare le distinzioni sin qui
 
 per quanto sia praticabile farlo.
 
-<span class="atom-split" data-atom="131" data-title="Chapter III. (parte 10)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="131" data-title="Chapter III. (parte 10)" data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 A question is also raised as to the propriety of dissolving or not
 
@@ -26645,7 +26655,7 @@ dovrebbe concedere qualcosa in considerazione della precedente amicizia, ogni vo
 
 la causa della separazione non è un'eccessiva depravazione da parte loro.
 
-<span class="atom-split" data-atom="132" data-title="Chapter IV. (parte 10)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="132" data-title="Chapter IV. (parte 10)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now the friendly feelings which are exhibited towards our friends, and
 
@@ -26997,7 +27007,7 @@ tutta la sua possanza e sforzarsi di essere buono, poiché così possa egli esse
 
 con sé stesso e può divenire amico di un altro.
 
-<span class="atom-split" data-atom="133" data-title="Chapter V. (parte 9)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="133" data-title="Chapter V. (parte 9)" data-chapter="Chapter V." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Kindly Feeling, though resembling [Friendship](/concepts/friendship), is not identical with it,
 
@@ -27153,7 +27163,7 @@ compagno, o uomo valoroso, ecc., come dicemmo che talvolta accadeva con
 
 quelli messi l'uno contro l'altro.
 
-<span class="atom-split" data-atom="134" data-title="Chapter VI. (parte 9)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="134" data-title="Chapter VI. (parte 9)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Unity of Sentiment is also plainly connected with [Friendship](/concepts/friendship), and
 
@@ -27309,7 +27319,7 @@ litigano mentre sono per tenere l'un l'altro al lavoro ma non sono
 
 Disposti a compiere la loro giusta parte.
 
-<span class="atom-split" data-atom="135" data-title="Chapter VII. (parte 9)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="135" data-title="Chapter VII. (parte 9)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en" data-tags="concepts/friendship,concepts/act_potency,concepts/labour"></span>
 
 Benefactors are commonly held to have more [Friendship](/concepts/friendship) for the objects
 
@@ -27561,7 +27571,7 @@ sapere più certamente che sono loro. Questo sentimento sembrerebbe anche
 
 appartenere ai benefattori.
 
-<span class="atom-split" data-atom="136" data-title="Chapter VIII. (parte 9)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="136" data-title="Chapter VIII. (parte 9)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 A question is also raised as to whether it is right to love one’s Self
 
@@ -27953,7 +27963,7 @@ a sé stesso una parte maggiore dell'onorevole. In questo senso è giusto
 
 Essere amante di sé, nella volgare accezione del termine, non lo è.
 
-<span class="atom-split" data-atom="137" data-title="Chapter IX. (parte 9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="137" data-title="Chapter IX. (parte 9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en" data-tags="positions/social_animal,positions/pleasure,concepts/friendship,concepts/eudaimonia,concepts/virtue"></span>
 
 A question is raised also respecting the Happy man, whether he will
 
@@ -28401,7 +28411,7 @@ deficiente su questo punto. L’uomo quindi che deve corrispondere alla nostra n
 
 “Happy” avrà bisogno di buoni Amici.
 
-<span class="atom-split" data-atom="138" data-title="Chapter X. (parte 7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="138" data-title="Chapter X. (parte 7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Are we then to make our friends as numerous as possible? or, as in
 
@@ -28601,7 +28611,7 @@ per il bene delle persone stesse; anzi, è motivo di contentezza trovare anche
 
 alcuni tali.
 
-<span class="atom-split" data-atom="139" data-title="Chapter XI. (parte 7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="139" data-title="Chapter XI. (parte 7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Again: are friends most needed in prosperity or in adversity? they are
 
@@ -28833,7 +28843,7 @@ Sembra allora che la presenza degli amici sia, sotto ogni
 
 circostanze, degne di scelta.
 
-<span class="atom-split" data-atom="140" data-title="Chapter XII. (parte 6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="140" data-title="Chapter XII. (parte 6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 May we not say then that, as seeing the beloved object is most prized
 
@@ -28945,7 +28955,7 @@ Qui dunque termineremo il nostro discorso sull'Amicizia. La prossima cosa
 
 è entrare nel soggetto del Piacere.
 
-<span class="atom-split" data-atom="141" data-title="Chapter I. (parte 10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="141" data-title="Chapter I. (parte 10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Next, it would seem, follows a discussion respecting Pleasure, for it
 
@@ -29073,7 +29083,7 @@ Ma di tali considerazioni basti: procediamo ora al presente.
 
 massime riguardanti il Piacere.
 
-<span class="atom-split" data-atom="142" data-title="Chapter II. (parte 10)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="142" data-title="Chapter II. (parte 10)" data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now Eudoxus thought Pleasure to be the Chief Good because he saw all,
 
@@ -29593,7 +29603,7 @@ parrebbe mostrare chiaramente o che il Piacere non è un bene, o che
 
 vi sono diversi generi di Piacere: poiché il primo è ritenuto
 
-<span class="atom-split" data-atom="143" data-title="Chapter II. (parte 11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="143" data-title="Chapter II. (parte 11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/pleasure,concepts/eudaimonia"></span>
 
 have good as the object of his intercourse, the latter Pleasure only;
 
@@ -29665,7 +29675,7 @@ sono derivati. Basti questo allora a mo' di resoconto dell'attuale
 
 Massime riguardanti il Piacere e il Dolore.
 
-<span class="atom-split" data-atom="144" data-title="Chapter III. (parte 11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="144" data-title="Chapter III. (parte 11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now what it is, and how characterised, will be more plain if we take up
 
@@ -29873,7 +29883,7 @@ Di queste un Movimento o una Generazione: né allora di Piacere v'è
 
 Movimento o Generazione, perché è, per così dire, “un tutto.”
 
-<span class="atom-split" data-atom="145" data-title="Chapter IV. (parte 11)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="145" data-title="Chapter IV. (parte 11)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now since every Percipient Faculty works upon the Object answering to
 
@@ -30405,7 +30415,7 @@ diversi, ma quelli della stessa, possiamo ragionevolmente supporre, sono
 
 senza differenza.
 
-<span class="atom-split" data-atom="146" data-title="Chapter IV. (parte 12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="146" data-title="Chapter IV. (parte 12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Yet in the case of human creatures they differ not a little: for the
 
@@ -30517,7 +30527,7 @@ riposare in senso secondario, e in vari gradi secondo che il
 
 Le operazioni sono in relazione con quelle più alte e migliori.
 
-<span class="atom-split" data-atom="147" data-title="Chapter V. (parte 10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="147" data-title="Chapter V. (parte 10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now that we have spoken about the Excellences of both kinds, and
 
@@ -30789,7 +30799,7 @@ implicito nella vita: perché la Felicità non sta in tali passatempi ma in
 
 le Operazioni nella via dell'Eccellenza, come è stato anche detto innanzi.
 
-<span class="atom-split" data-atom="148" data-title="Chapter VI. (parte 10)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="148" data-title="Chapter VI. (parte 10)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now if Happiness is a Working in the way of Excellence of course that
 
@@ -31313,7 +31323,7 @@ può apparire anche dalla seguente considerazione: la nostra concezione del
 
 degli dèi è che essi sono soprattutto beati e felici: ora che sorta di
 
-<span class="atom-split" data-atom="149" data-title="Chapter VI. (parte 11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="149" data-title="Chapter VI. (parte 11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Moral actions are we to [attribute](/concepts/attribute) to them? those of justice? nay, will
 
@@ -31429,7 +31439,7 @@ anche l'essere felice, non per accidente, ma nel modo del Contemplativo.
 
 La speculazione, perché è in sé preziosa.
 
-<span class="atom-split" data-atom="150" data-title="Chapter VII. (parte 10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="150" data-title="Chapter VII. (parte 10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 So Happiness must be a kind of Contemplative Speculation; but since it
 
@@ -31609,7 +31619,7 @@ nello stesso tempo felicissimo.
 
 Così dunque anche secondo questa visione l'uomo di Scienza sarà felicissimo.
 
-<span class="atom-split" data-atom="151" data-title="Chapter VIII. (parte 10)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="151" data-title="Chapter VIII. (parte 10)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 Now then that we have said enough in our sketchy kind of way on these
 
@@ -32113,7 +32123,7 @@ e la formazione deve cercare di fare di sé stesso un Legislatore; poiché tratt
 
 abilmente proprio chiunque possa esserti messo davanti non è ciò che alcuno
 
-<span class="atom-split" data-atom="152" data-title="Chapter VIII. (parte 11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="152" data-title="Chapter VIII. (parte 11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
 ordinary person can do, but, if any one, he who has knowledge; as in
 
@@ -32157,7 +32167,7 @@ seeing that they could have bequeathed no more precious legacy to their
 
 communities, nor would they have preferred, for themselves or their
 
-dearest friends, the possession of any faculty rather than this.
+dearest friends, the [possession](/concepts/property) of any faculty rather than this.
 
 Practice, however, seems to contribute no little to its acquisition;
 

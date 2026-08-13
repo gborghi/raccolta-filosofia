@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on the Russian show The Bat and on the Ballets Russes: their merit lies not in individual creations but in their generic character, which revealed to westerners what a spectacle is. Central thesis: an epoch is defined by the programme of its pleasures, not by its useful activities.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +103,7 @@ Quando si raccolgono dati attendibili sui godimenti preferiti nelle più diverse
 
 Allo stesso modo, la nostra passione per le danze russe e per il piccolo Pipistrello può servirci per metterci in chiaro molte cose intime, di quella vera intimità che non si trova facilmente volgendo l'attenzione verso di noi, ma che ha bisogno di essere scoperta, non meno del remoto segreto di un astro o del mistero botanico di un fiore.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Ello es que, en tanto Europa sigue empujando sin fe las momias de sus instituciones y los espectros de sus fiestas exangües, Rusia revoluciona y danza. Allá, al fondo del planeta, el enorme cuerpo eslavo se contorsiona, y lo imaginamos como un saurio prediluvial que retuerce la cordillera de sus vértebras. Al mismo tiempo, en Londres, en París, en Madrid, la tropa moscovita brinca, elástica y fúlgida, sobre la escena. Y ambas cosas, el baile y la subversión, nos parecen sucesos tan esenciales a nuestro tiempo, que un momento llegan a confundirse en nuestra sensibilidad. El Comité de Delegados Obreros y Soldados que inició la gran revuelta se nos presenta, queramos o no, bajo la especie de un coro de danzarines, con sus botas altas de charol, largos abrigos de astracán y música de Strawinsky, mientras que, asistiendo a la ejecución de Petruchka, la masa de pueblo palpitante y rítmico que inunda la escena nos parece una vista de la revolución petersburguesa tomada desde un arrabal.
 
@@ -162,7 +169,7 @@ Una riforma dell'arte scenica che aspiri a essere sufficientemente profonda non 
 
 Ma torniamo alla nostra analisi del vecchio arte scenico. Ciò che aggiunge al testo, dicevamo, è inessenziale. Vediamo ora che cosa è ciò che aggiunge. Si può immaginare una deliziosa rappresentazione di La vita è sogno, accentuando quanto nel tema c'è di utilizzabile per un balletto o una pantomima. In questa rappresentazione l'importante sarebbero le decorazioni, i costumi, il ritmo dei movimenti. La fantasia, la musicalità e il senso cromatico di un gruppo di nuovi artisti creerebbero uno spettacolo incantevole. In simile caso, ciò che il teatro aggiungerebbe al testo sarebbe di alta qualità e varrebbe per sé stesso. Il verso calderoniano sovrapporrebbe le sue volute corruscanti all'avvenimento plastico, e avremmo, in rigore, insieme due opere d'arte, estranee tra loro, ma entrambe sostantive. È molto possibile che l'attenzione non potesse godere a un tempo di entrambe. Allora risulterebbe che quando il teatro aggiunge alla poesia qualcosa che vale per sé, le fa danno.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Pero el arte escénico usado es muy distinto de lo que ese espectáculo promete. No crea una obra plástica y sonora que valga por sí, sino que, obediente al texto, sólo aspira a «realizar la obra literaria». Esta realización consiste en agregar a las ideas del texto el complemento intuitivo que a la poesía falta. Pero ¿no hay un quid pro quo en tal propósito? La poesía, en efecto, no tiene esos detalles intuitivos; pero, aunque no los tiene, no le faltan; al contrario, le sobran. Por esta razón, cuanto más exquisito sea el carácter dramático de un personaje, más nos repugna su corporización en un hombre de carne y hueso. Siempre me ha parecido una crueldad el tema que damos a nuestros actores; por ejemplo: que «hagan» un Hamlet. Porque lo que hay que «hacer» y lo que se puede «hacer» de Hamlet ya lo ha hecho Shakespeare, y lo que puede hacer el actor —un joven taciturno y neurasténico— no es precisamente Hamlet. Se le pide hacer una cosa para la cual ni tiene ni se le dan los medios. El resultado es ineludiblemente que nos parezca asistir a una suplantación. Jóvenes taciturnos y neurasténicos hay muchos; Hamlet, sólo uno: el de Shakespeare. Una vez que el autor pone lo que en su personaje hay de singular e interesante, sólo queda a cargo del actor lo que hay de genérico e insignificante en la figura. ¿No sería más acertado prescindir de esto?
 

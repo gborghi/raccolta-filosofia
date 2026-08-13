@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > From the diagnosis that nobody can replace Europe at the world's command, the text moves to 'frivolity' as living outside one's own destiny (Italy as example) and then to its central thesis: the fundamental fact of the universe is our life in the biographical sense, a dramatic mixture of fatality and freedom, with one possibility that is most authentically ours.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/end_of_life|Fine della vita]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]], [[positions/life_as_project|vita come progetto]]  
+**Concetti:** [[concepts/freedom|libertà]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/ratiovitalism_school|raziovitalismo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +88,7 @@ In grado molto minore ha regnato una situazione simile nell'ideologia degli ulti
 
 Lo proprio si osserva nelle idee politiche del nostro tempo. Certe obiezioni sostanziali e irrefutabili contro la democrazia fanno che molti uomini eccellenti non la accettino come un destino e non vi radichino la loro vita pubblica; ma siccome d'altra parte ci sono dimensioni della dottrina democratica che sono di un'evidenza incontrastabile, non riescono a trasportare la radice di sé stessi ad altri ideari politici notoriamente impossibili. Restano, dunque, in un atteggiamento di gioco; giocano a essere e a non essere democratici, si fingono fascisti o comunisti. Fascismo e comunismo sono, almeno per l'europeo, due di quelle possibilità senza autenticità che oggi trova l'uomo davanti a sé e in cui può installarsi come in una favola convenuta, consapevole di frodare il suo rigoroso destino vitale.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,assi/end_of_life,positions/radical_reality_of_life,positions/life_as_project,concepts/freedom,forms/essay,schools/ratiovitalism_school"></span>
 
 De esta frivolidad ambiente cabría aún otro ejemplo más íntimo si no fuese demasiado difícil de demostrar. Vaya, pues, sólo como vaga sospecha. La indecisión del presente europeo, la vida insincera y que adopta actitudes revocables, exentas de inexorabilidad, se manifiesta, a mi juicio, en la defectuosa sinceridad con que hoy la mujer elige un tipo de hombre para enamorarse. Motivos arbitrarios destacan como por juego ciertas especies de virilidad que en su secreto fondo no interesan a la mujer normal. No obstante, falta de seguridad en su destino sentimental, la mujer finge entusiasmo por el gigolo y llega a embotarse para la percepción de otras calidades masculinas. Pero éste es un tema delicado que requeriría minuciosos análisis del amor contemporáneo. Yo sólo quería hoy presentar el paisaje de frivolidad que ha suscitado el mero anuncio de que nadie manda en el mundo. La mayor parte de los seres humanos necesita de una presión externa que los encaje bien en su destino. Esta presión es el imperio histórico de alguien que representa un sistema de normas vitales.
 

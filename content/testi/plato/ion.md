@@ -12,8 +12,16 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > Socrates questions the rhapsode Ion, a champion interpreter of Homer, showing that his talent stems not from a techne — a transmissible skill — but from divine inspiration, a kind of 'magnetic chain' linking Muse, poet and performer. Unable to apply his supposed competence to other poets, Ion cannot decide whether to feel flattered or insulted.
+
+## Connections
+
+**Concetti:** [[concepts/wisdom|sapienza]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -292,7 +300,7 @@ IONE: No davvero; non più dell'altro.
 
 SOCRATE: E se non m'inganno, non hai mai incontrato qualcuno, fra i flautisti o gli arpisti o i cantori al suono dell'arpa o i rapsodi, che fosse capace di discorrere di Olimpo o di Tamiri o di Orfeo, o di Femio il rapsodo di Itaca, ma era in imbarazzo quando veniva a parlare di Ione di Efeso, e non aveva nozione dei suoi meriti o difetti?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 ION: I cannot deny what you say, [Socrates](/figures/socrates). Nevertheless I am conscious in my own self, and the world agrees with me in thinking that I do speak better and have more to say about Homer than any other man. But I do not speak equally well about others — tell me the reason of this.
 
@@ -352,7 +360,7 @@ IONE: Fin troppo bene; poiché li guardo dall'alto del palco, e scorgo le varie 
 
 SOCRATE: Sai che lo spettatore è l'ultimo degli anelli che, come vado dicendo, ricevono l'uno dall'altro la potenza del magnete originario? Il rapsodo come te e l'attore sono anelli intermedi, e il poeta stesso è il primo di loro. Attraverso tutti questi il Dio muove le anime degli uomini in qualunque direzione gli piaccia, e fa pendere un uomo dall'altro. Così vi è una vasta catena di danzatori e maestri e sotto-maestri di cori, che sono sospesi, come dalla pietra, al fianco degli anelli che pendono dalla Musa. E ogni poeta ha qualche Musa dalla quale è sospeso, e dalla quale si dice sia invasato, che è quasi la stessa cosa; poiché egli è preso. E da questi primi anelli, che sono i poeti, dipendono altri, alcuni che traggono la loro ispirazione da Orfeo, altri da Museo; ma il maggior numero è invasato e tenuto da Omero. Del quale, Ione, tu sei uno, e sei invasato da Omero; e quando qualcuno recita le parole di un altro poeta ti addormenti, e non sai che dire; ma quando qualcuno recita una melodia di Omero ti desti in un istante, e la tua anima balza dentro di te, e hai molto da dire; poiché non per arte o conoscenza intorno a Omero dici ciò che dici, ma per divina ispirazione e per invasamento; proprio come i coribanti hanno del pari una pronta percezione di quella sola melodia che è propria del Dio dal quale sono invasati, e hanno molte danze e parole per quella, ma non fanno caso ad alcun'altra. E tu, Ione, quando si menziona il nome di Omero hai molto da dire, e non hai nulla da dire degli altri. Tu chiedi: ‘Perché è così?’ La risposta è che tu lodi Omero non per arte ma per divina ispirazione.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 ION: That is good, [Socrates](/figures/socrates); and yet I doubt whether you will ever have eloquence enough to persuade me that I praise Homer only when I am mad and possessed; and if you could hear me speak of him I am sure you would never think this to be the case.
 
@@ -648,7 +656,7 @@ SOCRATE: In ogni caso saprà ciò che un generale deve dire quando esorta i suoi
 
 IONE: Sì, questo è il genere di cose che il rapsodo saprà di certo.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): Well, but is the art of the rhapsode the art of the general?
 

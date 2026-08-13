@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Ortega's answer to the question 'what did you think during the five minutes of silence for Mallarmé?': he begins by distinguishing thinking (comparing, analysing, inferring) from mere association of ideas, which occurs only in certain deranged minds as 'flight of ideas', then reproduces verbatim, as a psychological 'protocol', the mental flow of those minutes.
+
+## Connections
+
+**Concetti:** [[concepts/idea|idea]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A continuation of the dehumanization thesis: the new art's veto grows with the object's rank in the hierarchy, striking the personal first. From Beethoven to Wagner music is melodrama and psychic contagion; aesthetic pleasure instead must be intelligent and motivated by the object, not enjoyment of oneself. Seeing is action at a distance: without derealization there is no art.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ Si ricordi quale era il tema della poesia nella centuria romantica. Il poeta ci 
 
 Non so, non so; ma credo che il poeta giovane, quando poetizza, si propone semplicemente di essere poeta. Vedremo già come tutta l'arte nuova, coincidendo in questo con la nuova scienza, con la nuova politica, con la nuova vita, infine, ripugni innanzi tutto alla confusione di frontiere. È un sintomo di pulizia mentale volere che le frontiere tra le cose siano ben demarcate. Vita è una cosa, poesia è un'altra —pensano o, almeno, sentono. Non mescoliamole. Il poeta comincia dove l'uomo finisce. Il destino di questo è vivere il suo itinerario umano; la missione di quello è inventare ciò che non esiste. In questo modo si giustifica l'ufficio poetico. Il poeta aumenta il mondo, aggiungendo al reale, che è già lì per sé stesso, un irreale continente. Autore viene da auctor, colui che aumenta. I latini chiamavano così il generale che guadagnava per la patria un nuovo territorio.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Mallarmé fue el primer hombre del siglo pasado que quiso ser un poeta. Como él mismo dice, «rehusó los materiales naturales» y compuso pequeños objetos líricos, diferentes de la fauna y la flora humanas. Esta poesía no necesita ser «sentida», porque, como no hay en ella nada humano, no hay en ella nada patético. Si se habla de una mujer es de la «mujer ninguna», y si suena una hora es «la hora ausente del cuadrante». A fuerza de negaciones, el verso de Mallarmé anula toda resonancia vital, y nos presenta figuras tan extraterrestres, que el mero contemplarlas es ya sumo placer. ¿Qué puede hacer entre esas fisonomías el pobre rostro del hombre que oficia de poeta? Sólo una cosa: desaparecer, volatilizarse y quedar convertido en una pura voz anónima que sostiene en el aire las palabras, verdaderas protagonistas de la empresa lírica. Esa pura voz anónima, mero substrato acústico del verso, es la voz del poeta, que sabe aislarse de su hombre circundante.
 

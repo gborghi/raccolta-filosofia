@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Berenguer is not the subject of the error but its object: Berenguer is an error, committed by others and destined for the history books. Granting that the ministers made no particular mistakes, Ortega attacks the government's policy, reduced to the monomial of returning to normality by normal means after seven years of absolute abnormality.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +103,7 @@ Questo, questo è tutto ciò che il Regime può offrire, in questo momento tanto
 
 Ma non è questo il peggio. Il peggio sono i motivi per cui crede di potersi accontentare di offrire finzione così insolente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 El Estado tradicional, es decir, la Monarquía, se ha ido formando un surtido de ideas sobre el [modo](/concepts/mode) de ser de los españoles. Piensa, por ejemplo, que moralmente pertenecen a la familia de los óvidos, que en política son gente mansurrona y lanar, que lo aguantan y lo sufren todo sin rechistar, que no tienen sentido de los deberes civiles, que son informales, que a las cuestiones de derecho y, en general, públicas, presentan una epidermis córnea. Como mi única misión en esta vida es decir lo que creo verdad —y, por supuesto, desdecirme tan pronto como alguien me demuestre que padecía equivocación—, no puedo ocultar que esas ideas sociológicas sobre el español tenidas por su Estado son, en dosis considerable, ciertas. Bien está, pues, que la Monarquía piense eso, que lo sepa y cuente con ello; pero es intolerable que se prevalga de ello. Cuanta mayor verdad sean, razón de más para que la Monarquía, responsable ante el Altísimo de nuestros últimos destinos históricos, se hubiese extenuado, hora por hora, en corregir tales defectos, excitando la vitalidad política del español, haciéndole hiperestésico para el Derecho y la dignidad civil, persiguiendo cuanto fomentase su modorra moral y su propensión lanuda. No obstante, ha hecho todo lo contrario. Desde Sagunto, la Monarquía no ha hecho más que especular sobre los vicios españoles, y su política ha consistido en aprovecharlos para su exclusiva comodidad. La frase que en los edificios del Estado español se ha repetido más veces es ésta: «¡En España no pasa nada!» La cosa es repugnante, repugnante como para vomitar entera la historia española de los últimos sesenta años; pero nadie honradamente podrá negar que la frecuencia de esa frase es un hecho.
 

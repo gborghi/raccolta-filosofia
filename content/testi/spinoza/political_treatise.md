@@ -12,8 +12,18 @@ tags:
   - "philosopher/spinoza"
 ---
 
+*Spinoza*
+
 > [!abstract]
 > The Political Treatise grounds the science of the state on men as they actually are, driven by the passions, rather than as one would wish them, rejecting the utopias of the moralists. Each person's right extends as far as his power (natural right), and reason counsels individuals to unite their strength by transferring right to a supreme authority, thereby constituting civil society and sovereignty. Spinoza examines how monarchy and aristocracy must be ordered so as not to degenerate into tyranny, measuring the stability of each regime by its capacity to preserve peace and freedom. The work, cut short by his death, breaks off on the threshold of the treatment of democracy.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]], [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/natural_right|diritto naturale]], [[positions/sovereignty|sovranità]], [[positions/civil_society|società civile]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/law|legge]], [[concepts/freedom|libertà]]  
+**Forme:** [[forms/treatise|trattato]]  
+**Scuole:** [[schools/continental_rationalism|razionalismo continentale]]
 
 <p class="work-source">Traduzione di R. H. M. Elwes / A. Wolf · Delphi Classics, 2019 · pubblico dominio</p>
 
@@ -48,7 +58,7 @@ Amice dilecte, Grata tua mihi heri tradita est. Gratias pro cura tam diligenti, 
 
 Patet hinc Auctoris Scopus; sed morbo impeditus, et morte abreptus hoc opus non ulterius, quam ad finem Aristocratiae, perducere valuit, quemadmodum Lector ipse experietur.
 
-<span class="atom-split" data-atom="002" data-title="Chapter I." data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Chapter I." data-chapter="Chapter I." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,positions/sovereignty,positions/civil_society,concepts/state,concepts/law,concepts/freedom,forms/treatise,schools/continental_rationalism"></span>
 
 Introduction.
 
@@ -86,7 +96,7 @@ VI. Imperium igitur, cujus salus ab alicujus fide pendet, et cujus negotia non p
 
 VII. Denique quia omnes homines, sive Barbari, sive culti sint, consuetudines ubique jungunt, et statum aliquem civilem formant, ideo imperii causae (3), et fundamenta naturalia non ex rationis documentis petenda, sed ex hominum communi natura, seu conditione deducenda sunt, quod in sequenti Capite facere constitui.
 
-<span class="atom-split" data-atom="003" data-title="Chapter II." data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Chapter II." data-chapter="Chapter II." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,positions/sovereignty,positions/civil_society,concepts/state,concepts/law,concepts/freedom,forms/treatise,schools/continental_rationalism"></span>
 
 Of [Natural Right](/positions/natural_right).
 
@@ -202,7 +212,7 @@ XXIII. Ut itaque peccatum, et obsequium stricte sumptum, sic etiam justitia, et 
 
 XXIV. Caeterum laudem, et vituperium affectus esse laetitiae, et tristitiae, quos comitatur idea virtutis, aut impotentiae humanae tanquam causa, explicuimus in nostra Ethica.
 
-<span class="atom-split" data-atom="004" data-title="Chapter III." data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Chapter III." data-chapter="Chapter III." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,positions/sovereignty,positions/civil_society,concepts/state,concepts/law,concepts/freedom,forms/treatise,schools/continental_rationalism"></span>
 
 Of the Right of Supreme Authorities.
 
@@ -282,7 +292,7 @@ XVII. Caeterum fides, quam sana ratio, et Religio servandam docet, hic minime to
 
 XVIII. Sed ne toties opus sit sermonis filum interrumpere, et similes posthac objectiones solvere, monere volo, me haec omnia ex naturae humanae quomodocunque consideratae necessitate demonstrasse, nempe ex universali omnium hominum conatu sese conservandi, qui conatus omnibus hominibus inest, sive ignari, sivi sapientes sint, ac proinde quomodocunque homines, sive affectu, sive ratione duci considerentur, res eadem erit, quia demonstratio, ut diximus, universalis est.
 
-<span class="atom-split" data-atom="005" data-title="Chapter IV." data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Chapter IV." data-chapter="Chapter IV." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,positions/sovereignty,positions/civil_society,concepts/state,concepts/law,concepts/freedom,forms/treatise,schools/continental_rationalism"></span>
 
 Of the Functions of Supreme Authorities.
 
@@ -312,7 +322,7 @@ V. Videmus itaque, quo sensu dicere possumus, Civitatem legibus teneri, et pecca
 
 VI. Contractus, seu leges, quibus multitudo jus suum in unum Concilium, vel hominem transferunt, non dubium est, quin violari debeant, quando communis salutis interest easdem violare. At judicium de hac re, an scilicet communis salutis intersit, easdem violare, an secus, nemo privatus; sed is tantum, qui imperium tenet, jure ferre potest (per Art. 3. hujus Cap.); ergo Jure civili is solus, qui imperium tenet, earum legum interpres manet. Ad quod accedit, quod nullus privatus easdem jure vindicare possit, atque adeo eum, qui imperium tenet, revera non obligant. Quod si tamen ejus naturae sint, ut violari nequeant, nisi simul Civitatis robur debilitetur, hoc est, nisi simul plerorumque civium communis metus in indignationem vertatur, eo ipso Civitas dissolvitur, et contractus cessat, qui propterea non Jure civili, sed Jure belli vindicatur. Atque adeo is, qui imperium tenet, nulla etiam alia de causa hujus contractus conditiones servare tenetur, quam homo in statu naturali, ne sibi hostis sit, tenetur cavere, ne se ipsum interficiat, ut in praeced. Art. diximus.
 
-<span class="atom-split" data-atom="006" data-title="Chapter V." data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Chapter V." data-chapter="Chapter V." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,positions/sovereignty,positions/civil_society,concepts/state,concepts/law,concepts/freedom,forms/treatise,schools/continental_rationalism"></span>
 
 Of the Best State of a Dominion.
 
@@ -350,7 +360,7 @@ VI. Sed notandum, imperium, quod in hunc finem institui dixi, a me intelligi id,
 
 VII. Quibus autem mediis Princeps, qui sola dominandi libidine fertur, uti debet, ut imperium stabilire, et conservare possit, acutissimus Machiavellus prolixe ostendit; quem autem in finem, non satis constare videtur. Si quem tamen bonum habuit, ut de viro sapiente credendum est, fuisse videtur, ut ostenderet, quam imprudenter multi Tyrannum e medio tollere conantur, cum tamen causae, cur princeps sit Tyrannus, tolli nequeant, sed contra eo magis ponantur, quo principi major timendi causa praebetur: quod fit, quando multitudo exempla in principem edidit, et parricidio, quasi re bene gesta, gloriatur. Praeterea ostendere forsan voluit, quantum libera multitudo cavere debet, ne salutem suam uni absolute credat, qui, nisi vanus sit, et omnibus se posse placere existimet, quotidie insidias timere debet; atque adeo sibi potius cavere, et multitudini contra insidiari magis, quam consulere cogitur; et ad hoc de prudentissimo isto viro credendum magis adducor, quia pro libertate fuisse constat, ad quam etiam tuendam saluberrima consilia dedit.
 
-<span class="atom-split" data-atom="007" data-title="Chapter VI." data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Chapter VI." data-chapter="Chapter VI." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,positions/sovereignty,positions/civil_society,concepts/state,concepts/law,concepts/freedom,forms/treatise,schools/continental_rationalism"></span>
 
 Of Monarchy.
 
@@ -518,7 +528,7 @@ XXXIX. Ad Cives quod attinet, patet ex Art. 5. Ca. eorum unumquemque ad omnia Re
 
 XL. Ad Religionem quod attinet, nulla plane templa urbium sumptibus aedificanda, nec jura de opinionibus statuenda, nisi seditiosae sint, et Civitatis fundamenta evertant. Ii igitur, quibus Religionem publice exercere conceditur, templum si velint, suis sumptibus aedificent. At Rex ad Religionem, cui addictus est, exercendam templum in aula sibi proprium habeat.
 
-<span class="atom-split" data-atom="008" data-title="Chapter VII." data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Chapter VII." data-chapter="Chapter VII." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,positions/sovereignty,positions/civil_society,concepts/state,concepts/law,concepts/freedom,forms/treatise,schools/continental_rationalism"></span>
 
 Of Monarchy (Continuation).
 
@@ -684,7 +694,7 @@ XXX. Denique quamvis nullum, quod sciam, imperium his omnibus, quas diximus, con
 
 XXXI. Concludimus itaque multitudinem satis amplam libertatem sub Rege servare posse, modo efficiat, ut Regis potentia sola ipsius multitudinis potentia determinetur, et ipfius multitudinis praesidio servetur. Atque haec unica fuit Regula, quam in jaciendis imperii Monarchici fundamentis sequutus sum.
 
-<span class="atom-split" data-atom="009" data-title="Chapter VIII." data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Chapter VIII." data-chapter="Chapter VIII." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,positions/sovereignty,positions/civil_society,concepts/state,concepts/law,concepts/freedom,forms/treatise,schools/continental_rationalism"></span>
 
 Of Aristocracy.
 
@@ -896,7 +906,7 @@ XLVIII. Quos lex jurare cogit, a perjurio multo magis cavebunt, si per salutem p
 
 XLIX. Academiae, quae sumptibus Reipublicae fundantur, non tam ad ingenia colenda, quam ad eadem coërcenda instituuntur. Sed in libera Republica tum scientiae, et artes optime excolentur, si unicuique veniam petenti concedatur publice docere, idque suis sumptibus, suaeque famae periculo. Sed haec, et similia ad alium locum reservo. Nam hic de iis solummodo agere constitueram, quae ad solum imperium Aristocraticum pertinent.
 
-<span class="atom-split" data-atom="010" data-title="Chapter IX." data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Chapter IX." data-chapter="Chapter IX." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,positions/sovereignty,positions/civil_society,concepts/state,concepts/law,concepts/freedom,forms/treatise,schools/continental_rationalism"></span>
 
 Of Aristocracy. Continuation.
 
@@ -966,7 +976,7 @@ XIV. Atque haec sunt, quae ad hujus imperii fundamenta spectant. Quod autem ejus
 
 XV. Est praeterea hoc Aristocraticum imperium, quod plures urbes tenent, alteri praeferendum, quia non opus est, ut in praecedenti, cavere, ne universum supremum ejus Concilium subito impetu opprimatur, quandoquidem (per Art. 9. hujus Cap.) eidem convocando nullum tempus, nec locus designatur. Sunt praeterea potentes cives in hoc imperio minus timendi. Nam, ubi plures urbes libertate gaudent, non sufficit ei, qui viam ad imperium affectat, urbem unam occupare, ut imperium in reliquas obtineat. Est denique in hoc imperio libertas pluribus communis. Nam ubi una sola urbs regnat, eatenus reliquarum bono consulitur, quatenus regnanti huic urbi expedit.
 
-<span class="atom-split" data-atom="011" data-title="Chapter X." data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Chapter X." data-chapter="Chapter X." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,positions/sovereignty,positions/civil_society,concepts/state,concepts/law,concepts/freedom,forms/treatise,schools/continental_rationalism"></span>
 
 Of Aristocracy. Conclusion.
 
@@ -1020,7 +1030,7 @@ IX. His positis, videamus jam, an hujusmodi imperia culpabili aliqua causa possi
 
 X. At objici nobis adhuc potest, quod, quamvis imperii jura in praeced. ostensa ratione, et communi hominum affectu defendantur, possint nihilominus aliquando vinci. Nam nullus affectus est, qui aliquando a fortiori, et contrario affectu non vincatur; timorem namque mortis a cupidine rei alienae saepe vinci videmus. Qui hostem metu territi fugiunt, nullo alterius rei metu detineri possunt, sed sese in flumina praecipitant, vel in ignem ruunt, ut hostium ferrum fugiant. Quantumvis igitur civitas recte ordinata, et jura optime instituta sint, in maximis tamen imperii angustiis, quando omnes, ut fit, terrore quodam panico capiuntur, tum omnes id solum, quod praesens metus suadet, nulla futuri, neque legum habita ratione, probant, omnium ora in Virum victoriis clarum vertuntur, eundemque legibus solvunt, atque ipsi imperium (pessimo exemplo) continuant, totamque Rempublicam ipsius fidei conimittunt, quae res sane Romani imperii exitii fuit causa. Sed ut huic Objectioni respondeam, dico primo, quod in recte constituta Republica similis terror non oritur, nisi ex justa causa; atque adeo is terror, et confusio ex eo orta nulli caunnsae, quae prudentia humana vitari poterat, adscribi potest. Deinde notandum, quod in Republica, qualem in praeced. descripsimus, fieri non potest (per Art. 9. et 25. Ca.), ut unus, aut alter virtutis fama ita excellat, ut omniumora in se vertat. Sed necesse est, ut plures habeat aemulos, quibus plures alii faveant. Quamvis itaque ex terrore confusio aliqua in Republica oriatur, leges tamen fraudare, atque aliquem contra jus ad imperium militare renunciare nemo poterit, quin statim contentio alios petentium oriatur, quae ut dirimatur, necesse tandem erit ad semel statuta, et ab omnibus probata jura recurrere, atque res imperii secundum leges latas ordinare. Possum igitur absolute affirmare, cum imperium, quod una sola Urbs, tum praecipue illud, quod plures Urbes tenent, aeternum esse, sive nulla interna causa posse dissolvi, aut in aliam formam mutari.
 
-<span class="atom-split" data-atom="012" data-title="Chapter XI." data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Chapter XI." data-chapter="Chapter XI." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,positions/sovereignty,positions/civil_society,concepts/state,concepts/law,concepts/freedom,forms/treatise,schools/continental_rationalism"></span>
 
 Of Democracy.
 

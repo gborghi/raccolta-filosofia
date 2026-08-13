@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Prologue to Ganivet's works expounding the theory of generations: a generation is not a series of people born between two dates but an ambient form of life prevailing for about fifteen years; it is the concrete unit of historical chronology.
+> The digest carries no text sample at all (0 atoms): only the title and length (about 2,445 words) are given. The content cannot be judged from what is provided; no tags assigned.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

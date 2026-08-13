@@ -1,842 +1,3631 @@
 {
- "Categories_1a": {
-  "axes": [
-   "universals"
-  ],
-  "positions": [
-   "immanent_realism"
-  ],
-  "concepts": [
-   "substance"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattato di logica che apre l'Organon: distingue omonimi, sinonimi e paronimi, poi enumera le dieci categorie (sostanza, quantità, qualità, relazione, ecc.) e la distinzione fra sostanza prima (l'individuo) e sostanza seconda (specie e genere detti dell'individuo). Fonda l'ontologia aristotelica degli universali come immanenti alle cose singolari.",
-  "summary_en": "Logical treatise opening the Organon: it distinguishes homonyms, synonyms and paronyms, then enumerates the ten categories (substance, quantity, quality, relation, etc.) and the distinction between primary substance (the individual) and secondary substance (species and genus said of the individual). It grounds Aristotle's ontology of universals as immanent in particular things."
- },
- "Constitution_of_the_Athenians": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "state",
-   "law"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Ricostruzione storica delle istituzioni ateniesi dal periodo pre-draconiano fino al IV secolo, con l'evoluzione delle magistrature (Re, Polemarco, Arconte, Areopago) e delle riforme costituzionali. Opera empirica di scienza politica comparata, prodotta nell'ambito della raccolta liceale di 158 costituzioni greche.",
-  "summary_en": "Historical reconstruction of Athenian institutions from the pre-Draconian period to the fourth century, tracing the evolution of magistracies (King, Polemarch, Archon, Areopagus) and constitutional reforms. An empirical work of comparative political science, part of the Lyceum's collection of 158 Greek constitutions."
- },
- "Eudemian_Ethics_1214a": {
-  "axes": [
-   "moral_foundation"
-  ],
-  "positions": [
-   "virtue_ethics"
-  ],
-  "concepts": [
-   "eudaimonia",
-   "virtue",
-   "phronesis"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattato etico parallelo all'Etica Nicomachea: indaga se la felicità (eudaimonia) si ottenga per natura, per studio, per addestramento o per fortuna, e la colloca al vertice fra sapienza, virtù e piacere. Sviluppa la dottrina della virtù come disposizione stabile del carattere formata dall'abitudine.",
-  "summary_en": "Ethical treatise parallel to the Nicomachean Ethics: it asks whether happiness (eudaimonia) comes by nature, by study, by training, or by fortune, and places it at the summit among wisdom, goodness and pleasure. It develops the doctrine of virtue as a stable disposition of character formed through habituation."
- },
- "Generation_of_Animals_715a": {
-  "axes": [
-   "soul_body"
-  ],
-  "positions": [
-   "hylomorphism"
-  ],
-  "concepts": [
-   "four_causes",
-   "act_potency",
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattato biologico sulla riproduzione animale, esplicitamente organizzato intorno alle quattro cause (finale, formale, materiale, motrice): il maschio fornisce il principio formale/motore, la femmina la materia, secondo lo schema ilemorfico. Spiega perché la natura 'fugge l'infinito' e cerca sempre un fine.",
-  "summary_en": "Biological treatise on animal reproduction, explicitly organized around the four causes (final, formal, material, moving): the male supplies the formal/moving principle, the female the matter, following the hylomorphic scheme. It explains why nature 'flies from the infinite' and always seeks an end."
- },
- "Great_Ethics_1181a": {
-  "axes": [
-   "moral_foundation"
-  ],
-  "positions": [
-   "virtue_ethics"
-  ],
-  "concepts": [
-   "virtue",
-   "phronesis"
-  ],
-  "arguments": [],
-  "figures": [
-   "plato",
-   "socrates"
-  ],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Compendio etico di autenticità contestata (probabilmente peripatetico tardo) che ripercorre criticamente Pitagora, Socrate e Platone sulla virtù prima di esporre la propria dottrina: la virtù è disposizione di carattere, non scienza, e l'etica è un ramo della scienza politica.",
-  "summary_en": "Ethical compendium of disputed authenticity (probably later Peripatetic) that critically surveys Pythagoras, Socrates and Plato on virtue before setting out its own doctrine: virtue is a disposition of character, not a science, and ethics is a branch of political science."
- },
- "History_of_Animals_486a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Vasta enciclopedia zoologica descrittiva: classifica le parti degli animali come uniformi o composite, identiche per specie, genere o analogia, e raccoglie osservazioni comparate su centinaia di specie. È la base empirica su cui poggiano i trattati biologici più teorici come le Parti degli animali.",
-  "summary_en": "Vast descriptive zoological encyclopedia: it classifies animal parts as uniform or composite, identical by species, genus or analogy, and gathers comparative observations on hundreds of species. It is the empirical foundation underlying the more theoretical biological treatises such as Parts of Animals."
- },
- "Mechanics_847a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "nature",
-   "cause"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattato di autenticità dubbia sui problemi meccanici (leva, bilancia, ruota): mostra come l'arte produca effetti 'contro natura' a nostro vantaggio, e riconduce i fenomeni mirabili della meccanica alle proprietà geometriche del cerchio.",
-  "summary_en": "Treatise of doubtful authenticity on mechanical problems (lever, balance, wheel): it shows how skill produces effects 'contrary to nature' for our benefit, and traces the marvels of mechanics back to the geometric properties of the circle."
- },
- "Metaphysics_980a": {
-  "axes": [
-   "universals",
-   "god"
-  ],
-  "positions": [
-   "immanent_realism",
-   "demonstrative_theism"
-  ],
-  "concepts": [
-   "substance",
-   "cause",
-   "four_causes",
-   "act_potency"
-  ],
-  "arguments": [
-   "unmoved_mover_argument"
-  ],
-  "figures": [
-   "plato",
-   "socrates"
-  ],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "L'opera che dà il nome alla disciplina: indaga la sostanza (ousia) come oggetto proprio della sapienza, sviluppa la dottrina delle quattro cause e di atto e potenza, critica la separazione platonica delle Idee sostenendo che gli universali esistono nelle cose stesse, e culmina nell'argomento del motore immobile come causa prima eterna e immateriale.",
-  "summary_en": "The work that gives the discipline its name: it investigates substance (ousia) as the proper object of wisdom, develops the doctrine of the four causes and of actuality and potentiality, criticizes the Platonic separation of the Forms by arguing that universals exist within things themselves, and culminates in the argument for an unmoved mover as the eternal, immaterial first cause."
- },
- "Meteorology_338a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "nature",
-   "cause"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattato sui fenomeni celesti prossimi alla terra (via lattea, comete, venti, terremoti, fulmini): distingue la causa materiale (i quattro elementi) dalla causa motrice, che risiede nell'influsso dei corpi celesti eterni.",
-  "summary_en": "Treatise on the celestial phenomena nearest the earth (the Milky Way, comets, winds, earthquakes, lightning): it distinguishes the material cause (the four elements) from the moving cause, which lies in the influence of the eternally moving heavenly bodies."
- },
- "Movement_of_Animals_698a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "act_potency",
-   "nature"
-  ],
-  "arguments": [
-   "unmoved_mover_argument"
-  ],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Studia il fondamento comune del movimento animale: ogni movimento richiede un punto fermo (le articolazioni funzionano come centri immobili), e questo si estende per analogia all'intero universo, dove deve esistere qualcosa di assolutamente immobile perché il movimento sia possibile.",
-  "summary_en": "Studies the common ground of animal movement: every movement requires a fixed point (joints function as immovable centres), and this extends by analogy to the whole universe, where something absolutely immovable must exist for movement to be possible at all."
- },
- "Nicomachean_Ethics_1094a": {
-  "axes": [
-   "moral_foundation"
-  ],
-  "positions": [
-   "virtue_ethics"
-  ],
-  "concepts": [
-   "eudaimonia",
-   "phronesis",
-   "virtue"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Il trattato etico più influente di Aristotele: ogni azione mira a un bene, e il Bene Sommo per l'uomo è l'eudaimonia, attività dell'anima secondo virtù. Sviluppa la dottrina della virtù come medietà fra eccesso e difetto e il ruolo della phronesis, la saggezza pratica, nel deliberare bene.",
-  "summary_en": "Aristotle's most influential ethical treatise: every action aims at some good, and the Supreme Good for man is eudaimonia, activity of the soul in accordance with virtue. It develops the doctrine of virtue as a mean between excess and deficiency, and the role of phronesis, practical wisdom, in deliberating well."
- },
- "On_Breath_481a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Opuscolo di autenticità respinta dalla quasi totalità degli editori (forse di Teofrasto), dedicato al 'pneuma' innato e al suo ruolo fisiologico nella crescita e nel movimento degli animali; testo corrotto e vicino nei temi ai trattati zoologici aristotelici.",
-  "summary_en": "Short work rejected as spurious by nearly all editors (perhaps by Theophrastus), devoted to the innate 'pneuma' and its physiological role in the growth and movement of animals; a corrupt text close in theme to Aristotle's zoological treatises."
- },
- "On_Colours_791a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattatello spurio sulla fisica del colore: i colori semplici appartengono ai quattro elementi (aria e acqua bianchi, fuoco dorato, terra bianca ma tinta), mentre gli altri nascono dalla mescolanza; il nero è assenza di luce, il bianco la sua massima presenza.",
-  "summary_en": "Spurious short treatise on the physics of colour: the simple colours belong to the four elements (air and water white, fire golden, earth white but dyed), while the others arise from mixture; black is the absence of light, white its fullest presence."
- },
- "On_Divination_in_Sleep_462b": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "cause",
-   "fortune"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Esamina se i sogni possano davvero predire il futuro: rifiuta l'idea che siano inviati da un dio (che non li manderebbe a persone qualsiasi) e distingue fra sogni come causa, come segno o come semplice coincidenza degli eventi che sembrano predire.",
-  "summary_en": "Examines whether dreams can genuinely predict the future: it rejects the idea that they are sent by a god (who would not send them to ordinary people) and distinguishes dreams that are a cause, a token, or a mere coincidence of the events they seem to predict."
- },
- "On_Dreams_458a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "soul"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Indaga a quale facoltà dell'anima appartenga il sogno: non è sensazione in atto (gli occhi sono chiusi) né semplice opinione, ma un residuo dei movimenti impressi dalla sensazione, elaborato dalla facoltà immaginativa durante il sonno.",
-  "summary_en": "Investigates to which faculty of the soul the dream belongs: it is neither actual sense-perception (the eyes are closed) nor mere opinion, but a residue of the movements impressed by sensation, elaborated by the faculty of imagination during sleep."
- },
- "On_Generation_and_Corruption_314a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "four_causes",
-   "cause",
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Distingue il venire-a-essere e il perire dall'alterazione qualitativa, discutendo criticamente le teorie di Empedocle, Anassagora, Leucippo e Democrito sugli elementi. Sostiene, contro i pluralisti degli elementi ultimi, che generazione e alterazione sono processi realmente distinti.",
-  "summary_en": "Distinguishes coming-to-be and passing-away from qualitative alteration, critically discussing the theories of Empedocles, Anaxagoras, Leucippus and Democritus on the elements. Against the pluralists of ultimate elements, it argues that generation and alteration are genuinely distinct processes."
- },
- "On_Indivisible_Lines_968a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "infinity"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattato matematico spurio che esamina e in gran parte confuta gli argomenti (compreso uno attribuito a Zenone) a favore dell'esistenza di linee indivisibili come unità minime di grandezza, difendendo la divisibilità infinita del continuo.",
-  "summary_en": "Spurious mathematical treatise that examines and largely refutes the arguments (including one attributed to Zeno) for the existence of indivisible lines as minimal units of magnitude, defending the infinite divisibility of the continuum."
- },
- "On_Interpretation_16a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "substance"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattato di logica sulla proposizione: analizza affermazione e negazione, la predicazione universale e singolare, e le condizioni di contrarietà e contraddizione fra enunciati, incluso il celebre problema dei futuri contingenti.",
-  "summary_en": "Logical treatise on the proposition: it analyses affirmation and negation, universal and singular predication, and the conditions of contrariety and contradiction between statements, including the famous problem of future contingents."
- },
- "On_Marvelous_Things_Heard_830a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Raccolta paradossografica di curiosità naturali riferite di seconda mano (bestie favolose, comportamenti animali insoliti, piante prodigiose): compilazione erudita più che opera filosofica, priva di forma corrispondente nel vocabolario controllato.",
-  "summary_en": "Paradoxographical collection of natural curiosities reported second-hand (fabulous beasts, unusual animal behaviour, marvellous plants): an erudite compilation rather than a philosophical work, with no matching form in the controlled vocabulary."
- },
- "On_Melissus_Xenophanes_and_Gorgias_974a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "substance",
-   "infinity"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Dossografia critica che espone e confuta le tesi eleatiche e sofistiche: l'Uno eterno e infinito di Melisso, il monismo teologico di Senofane, e il nichilismo ontologico di Gorgia ('nulla esiste; se esistesse non sarebbe conoscibile; se fosse conoscibile non sarebbe comunicabile').",
-  "summary_en": "Critical doxography that presents and refutes Eleatic and sophistic theses: the eternal, infinite One of Melissus, the theological monism of Xenophanes, and the ontological nihilism of Gorgias ('nothing exists; if it existed it could not be known; if known, it could not be communicated')."
- },
- "On_Memory_449b": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "soul",
-   "time",
-   "memory"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Studia la memoria come stato dipendente dal tempo trascorso, distinta dalla percezione (sempre presente) e dalla scienza: solo gli animali che percepiscono il tempo ricordano, e il ricordare intellettuale passa comunque attraverso un'immagine sensibile.",
-  "summary_en": "Studies memory as a state dependent on elapsed time, distinct from perception (always of the present) and from science: only animals that perceive time can remember, and even intellectual remembering passes through a sensible image."
- },
- "On_Plants_815a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "soul",
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [
-   "plato"
-  ],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattato spurio (di ambiente teofrasteo) sulla vita vegetale: discute e respinge le tesi di Anassagora, Empedocle, Democrito e Platone secondo cui le piante avrebbero sensazione e desiderio, sostenendo che possiedono solo l'anima nutritiva, non quella sensitiva.",
-  "summary_en": "Spurious treatise (of Theophrastean background) on plant life: it discusses and rejects the views of Anaxagoras, Empedocles, Democritus and Plato that plants have sensation and desire, arguing that they possess only the nutritive soul, not the sensitive one."
- },
- "On_Sleep_453b": {
-  "axes": [
-   "soul_body"
-  ],
-  "positions": [
-   "hylomorphism"
-  ],
-  "concepts": [
-   "soul"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Analizza sonno e veglia come affezioni comuni ad anima e corpo, legate all'esercizio della percezione sensibile: il sonno è privazione della veglia, e nessun animale privo di sensazione può dormire o vegliare in senso proprio.",
-  "summary_en": "Analyses sleep and waking as affections common to soul and body, tied to the exercise of sense-perception: sleep is a privation of waking, and no animal lacking sensation can properly be said to sleep or wake."
- },
- "On_the_Heavens_268a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "nature",
-   "infinity"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Cosmologia fisica: il corpo è la grandezza compiuta perché divisibile in tre dimensioni, il moto naturale è retto (verso o dal centro) o circolare, e i corpi celesti si muovono di moto circolare eterno, distinti dai quattro elementi sublunari.",
-  "summary_en": "Physical cosmology: body is the complete magnitude because divisible in three dimensions; natural motion is either straight (toward or away from the centre) or circular, and the heavenly bodies move with eternal circular motion, distinct from the four sublunary elements."
- },
- "On_the_Soul_402a": {
-  "axes": [
-   "soul_body"
-  ],
-  "positions": [
-   "hylomorphism"
-  ],
-  "concepts": [
-   "soul",
-   "act_potency"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Il trattato fondativo della psicologia aristotelica: l'anima è la forma sostanziale del corpo naturale organico, il suo primo atto — non una sostanza separata come in Platone, ma inseparabile dal corpo di cui è l'attualizzazione. Distingue le facoltà nutritiva, sensitiva e razionale dell'anima.",
-  "summary_en": "The foundational treatise of Aristotelian psychology: the soul is the substantial form of the natural organic body, its first actuality — not a separate substance as in Plato, but inseparable from the body of which it is the actualization. It distinguishes the nutritive, sensitive and rational faculties of the soul."
- },
- "On_the_Universe_391a": {
-  "axes": [
-   "god"
-  ],
-  "positions": [
-   "pantheism"
-  ],
-  "concepts": [
-   "nature",
-   "religion"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattato cosmoteologico spurio (di probabile ambiente stoico-posidoniano) indirizzato ad Alessandro: descrive l'ordine del cosmo come tenuto insieme da un'unica potenza divina che lo pervade e lo governa dall'esterno come un re, pur restando essa stessa immutabile.",
-  "summary_en": "Spurious cosmo-theological treatise (probably of Stoic-Posidonian background) addressed to Alexander: it describes the order of the cosmos as held together by a single divine power that pervades and governs it from without like a king, while itself remaining unchanging."
- },
- "On_Things_Heard_800a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattatello spurio di acustica fisiologica: spiega la produzione dei suoni e della voce come moto dell'aria causato dall'urto del respiro contro gli organi vocali, con osservazioni comparate su animali e strumenti musicali.",
-  "summary_en": "Spurious short treatise on physiological acoustics: it explains the production of sounds and voice as motion of the air caused by the impact of breath on the vocal organs, with comparative observations on animals and musical instruments."
- },
- "On_Virtues_and_Vices_1249a": {
-  "axes": [
-   "moral_foundation"
-  ],
-  "positions": [
-   "virtue_ethics"
-  ],
-  "concepts": [
-   "virtue",
-   "phronesis"
-  ],
-  "arguments": [],
-  "figures": [
-   "plato"
-  ],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Compendio spurio che, riprendendo la tripartizione platonica dell'anima (razionale, passionale, appetitiva), elenca sistematicamente le virtù e i vizi corrispondenti a ciascuna parte — sapienza e follia, coraggio e viltà, temperanza e dissolutezza, giustizia e ingiustizia.",
-  "summary_en": "Spurious compendium that, taking up the Platonic tripartition of the soul (rational, passionate, appetitive), systematically catalogues the virtues and vices corresponding to each part — wisdom and folly, courage and cowardice, temperance and profligacy, justice and injustice."
- },
- "Parts_of_Animals_639a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "four_causes",
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Metodologia e teoria della biologia comparata: stabilisce che la causa finale precede la causa motrice nella spiegazione delle opere della natura, poiché la natura, come l'arte, opera in vista di un fine, e applica questo principio all'anatomia comparata degli animali.",
-  "summary_en": "Methodology and theory of comparative biology: it establishes that the final cause precedes the moving cause in explaining the works of nature, since nature, like art, works for the sake of an end, and applies this principle to comparative animal anatomy."
- },
- "Physics_184a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "four_causes",
-   "cause",
-   "nature",
-   "infinity"
-  ],
-  "arguments": [
-   "unmoved_mover_argument"
-  ],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Il trattato fondativo della fisica aristotelica: definisce i principi del mutamento, le quattro cause, il rapporto fra materia e forma, l'infinito, il luogo, il tempo e il moto, confutando Parmenide e Melisso e culminando (libro VIII) nella dimostrazione di un motore immobile all'origine di ogni movimento.",
-  "summary_en": "The foundational treatise of Aristotelian physics: it defines the principles of change, the four causes, the relation of matter and form, the infinite, place, time and motion, refuting Parmenides and Melissus and culminating (Book VIII) in the demonstration of an unmoved mover at the origin of all movement."
- },
- "Physiognomonics_805a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "soul",
-   "passion"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Trattatello spurio che difende la possibilità della fisiognomica, cioè dedurre il carattere mentale dalla forma corporea, sulla base della connessione reciproca fra anima e corpo, criticando però i metodi troppo semplicistici basati sui soli tratti animali o facciali.",
-  "summary_en": "Spurious short treatise defending the possibility of physiognomy — inferring mental character from bodily form — on the basis of the mutual connection between soul and body, while criticizing overly simplistic methods based on animal or facial traits alone."
- },
- "Poetics_1447a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "mimesis",
-   "katharsis",
-   "beauty"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Il trattato fondativo della teoria letteraria occidentale: definisce epica, tragedia, commedia e ditirambo come forme di mimesis che differiscono per mezzo, oggetto e modo dell'imitazione, e sviluppa la teoria della tragedia come azione che suscita pietà e timore e produce la loro catarsi.",
-  "summary_en": "The foundational treatise of Western literary theory: it defines epic, tragedy, comedy and dithyramb as forms of mimesis differing in medium, object and manner of imitation, and develops the theory of tragedy as an action arousing pity and fear that produces their catharsis."
- },
- "Politics_1252a": {
-  "axes": [
-   "human_nature"
-  ],
-  "positions": [
-   "social_animal"
-  ],
-  "concepts": [
-   "state",
-   "justice",
-   "property",
-   "law"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Teoria della polis come comunità naturale che nasce da famiglia e villaggio e mira al bene supremo: l'uomo è per natura un animale politico, e lo stato precede logicamente l'individuo. Discute forme di governo, schiavitù naturale e critica la comunanza di beni proposta da Platone.",
-  "summary_en": "Theory of the polis as a natural community arising from family and village and aiming at the highest good: man is by nature a political animal, and the state is logically prior to the individual. It discusses forms of government, natural slavery, and criticizes Plato's proposal of common property."
- },
- "Posterior_Analytics_71a": {
-  "axes": [
-   "method"
-  ],
-  "positions": [
-   "induction"
-  ],
-  "concepts": [
-   "reason"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Teoria della scienza dimostrativa: ogni insegnamento nasce da una conoscenza preesistente, acquisita per sillogismo o per induzione; distingue la conoscenza del particolare per esperienza da quella universale per scienza, e fonda i primi principi indimostrabili su cui si basa ogni dimostrazione.",
-  "summary_en": "Theory of demonstrative science: all teaching arises from pre-existing knowledge, acquired through syllogism or induction; it distinguishes knowledge of the particular through experience from universal knowledge through science, and grounds the indemonstrable first principles on which every demonstration rests."
- },
- "Prior_Analytics_24a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "reason"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Il trattato che fonda la sillogistica: definisce premessa, termine e sillogismo, distingue premesse dimostrative e dialettiche, e classifica sistematicamente le figure e i modi validi del sillogismo categorico.",
-  "summary_en": "The treatise that founds syllogistic logic: it defines premiss, term and syllogism, distinguishes demonstrative from dialectical premises, and systematically classifies the valid figures and moods of the categorical syllogism."
- },
- "Problems_859a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Vasta compilazione peripatetica in forma di domande e risposte su medicina, sudorazione, vino ed ebbrezza, sesso, affaticamento, posture, voce e molti altri argomenti fisiologici: opera collettiva di più mani, non un trattato filosofico unitario.",
-  "summary_en": "A vast Peripatetic compilation in question-and-answer form on medicine, perspiration, wine and drunkenness, sex, fatigue, posture, voice and many other physiological topics: a collective work of several hands, not a unified philosophical treatise."
- },
- "Progression_of_Animals_704a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "four_causes",
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Studia le parti che permettono agli animali di muoversi nello spazio (numero di punti d'appoggio, curvatura degli arti), postulando come principio che la natura non fa nulla senza scopo, ma sempre il meglio possibile per ciascuna specie.",
-  "summary_en": "Studies the parts that enable animals to move through space (number of points of support, curvature of limbs), postulating as a principle that nature does nothing without purpose, but always the best possible for each species."
- },
- "Rhetoric_1354a": {
-  "axes": [
-   "method"
-  ],
-  "positions": [
-   "dialectic"
-  ],
-  "concepts": [
-   "reason",
-   "passion",
-   "justice"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Presenta la retorica come 'il contraltare della dialettica': l'unico vero strumento persuasivo è l'entimema, non l'appello improprio a pietà o collera, che pervertirebbe il giudice come una riga di misura piegata prima dell'uso. Analizza i tre generi oratori e le prove tecniche di carattere, emozione e argomento.",
-  "summary_en": "Presents rhetoric as 'the counterpart of dialectic': the only genuine instrument of persuasion is the enthymeme, not improper appeals to pity or anger, which would pervert the judge like a warped measuring rule. It analyses the three genres of oratory and the technical proofs of character, emotion and argument."
- },
- "Rhetoric_to_Alexander_1420a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "reason"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Manuale retorico spurio (forse di Anassimene di Lampsaco) organizzato attorno a tre generi oratori e ai loro mezzi di prova diretti e supplementari; guida pratica alla composizione del discorso più che opera speculativa.",
-  "summary_en": "Spurious rhetorical manual (perhaps by Anaximenes of Lampsacus) organized around three genres of oratory and their direct and supplementary means of proof; a practical guide to speech composition rather than a speculative work."
- },
- "Sense_and_Sensibilia_436a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "soul",
-   "experience"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Continuazione del De Anima dedicata ai sensi e ai loro oggetti comuni agli animali: esamina tatto, gusto, olfatto, udito e vista, il loro ruolo nella nutrizione e nella conservazione, e la loro funzione nella generazione della conoscenza.",
-  "summary_en": "A continuation of the De Anima devoted to the senses and their objects common to animals: it examines touch, taste, smell, hearing and sight, their role in nutrition and self-preservation, and their function in generating knowledge."
- },
- "Sophistical_Refutations_164a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "reason"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Ultimo trattato dell'Organon: distingue i ragionamenti genuini dalle confutazioni sofistiche, che sembrano valide ma non lo sono, e cataloga i tipi di fallacia, in particolare quelle che dipendono dall'ambiguità dei nomi rispetto all'infinità delle cose.",
-  "summary_en": "The last treatise of the Organon: it distinguishes genuine reasoning from sophistical refutations, which appear valid but are not, and catalogues the types of fallacy, especially those arising from the ambiguity of names relative to the infinity of things."
- },
- "The_Situations_and_Names_of_Winds_973a": {
-  "axes": [],
-  "positions": [],
-  "concepts": [
-   "nature"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Brevissimo glossario spurio che elenca i nomi locali dei venti presso diverse città e regioni del mondo greco e la loro provenienza geografica: opera compilativa senza contenuto filosofico proprio.",
-  "summary_en": "Very short spurious glossary listing the local names of winds across different cities and regions of the Greek world and their geographical origin: a compilatory work with no philosophical content of its own."
- },
- "Topics_100a": {
-  "axes": [
-   "method"
-  ],
-  "positions": [
-   "dialectic"
-  ],
-  "concepts": [
-   "reason"
-  ],
-  "arguments": [],
-  "figures": [],
-  "forms": [
-   "treatise"
-  ],
-  "schools": [
-   "lyceum"
-  ],
-  "summary_it": "Manuale di ragionamento dialettico: definisce il ragionamento dialettico come quello che procede da opinioni generalmente accettate (endoxa), lo distingue dalla dimostrazione scientifica e dal ragionamento contenzioso, e fornisce i 'luoghi comuni' (topoi) per argomentare su qualunque problema.",
-  "summary_en": "Manual of dialectical reasoning: it defines dialectical reasoning as that which proceeds from generally accepted opinions (endoxa), distinguishes it from scientific demonstration and from contentious reasoning, and supplies the 'commonplaces' (topoi) for arguing about any problem."
- }
+  "Categories_1a": {
+    "axes": [
+      "universals"
+    ],
+    "positions": [
+      "immanent_realism"
+    ],
+    "concepts": [
+      "substance"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattato di logica che apre l'Organon: distingue omonimi, sinonimi e paronimi, poi enumera le dieci categorie (sostanza, quantità, qualità, relazione, ecc.) e la distinzione fra sostanza prima (l'individuo) e sostanza seconda (specie e genere detti dell'individuo). Fonda l'ontologia aristotelica degli universali come immanenti alle cose singolari.",
+    "summary_en": "Logical treatise opening the Organon: it distinguishes homonyms, synonyms and paronyms, then enumerates the ten categories (substance, quantity, quality, relation, etc.) and the distinction between primary substance (the individual) and secondary substance (species and genus said of the individual). It grounds Aristotle's ontology of universals as immanent in particular things.",
+    "atoms": {
+      "003_intero": {
+        "concepts": [
+          "substance"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "004_intero": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      }
+    }
+  },
+  "Constitution_of_the_Athenians": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "state",
+      "law"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Ricostruzione storica delle istituzioni ateniesi dal periodo pre-draconiano fino al IV secolo, con l'evoluzione delle magistrature (Re, Polemarco, Arconte, Areopago) e delle riforme costituzionali. Opera empirica di scienza politica comparata, prodotta nell'ambito della raccolta liceale di 158 costituzioni greche.",
+    "summary_en": "Historical reconstruction of Athenian institutions from the pre-Draconian period to the fourth century, tracing the evolution of magistracies (King, Polemarch, Archon, Areopagus) and constitutional reforms. An empirical work of comparative political science, part of the Lyceum's collection of 158 Greek constitutions.",
+    "atoms": {
+      "001_1": {
+        "concepts": [
+          "religion",
+          "law"
+        ]
+      },
+      "002_2": {
+        "positions": [
+          "class_conflict"
+        ]
+      },
+      "005_5": {
+        "positions": [
+          "class_conflict"
+        ]
+      },
+      "017_17": {
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "018_18": {
+        "concepts": [
+          "custom",
+          "anger"
+        ]
+      },
+      "019_19": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "friendship",
+          "anger"
+        ]
+      },
+      "020_20": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "revolution"
+        ],
+        "concepts": [
+          "state"
+        ]
+      },
+      "025_25": {
+        "positions": [
+          "revolution"
+        ],
+        "concepts": [
+          "state"
+        ]
+      },
+      "032_32": {
+        "positions": [
+          "revolution"
+        ]
+      },
+      "034_34": {
+        "concepts": [
+          "state"
+        ]
+      },
+      "035_35": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "concepts": [
+          "state",
+          "law",
+          "property"
+        ]
+      },
+      "042_42": {
+        "concepts": [
+          "state",
+          "education",
+          "law"
+        ]
+      },
+      "043_43": {
+        "concepts": [
+          "state"
+        ]
+      },
+      "046_46": {
+        "concepts": [
+          "state"
+        ]
+      },
+      "047_47": {
+        "concepts": [
+          "state"
+        ]
+      },
+      "059_59": {
+        "concepts": [
+          "law",
+          "state"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "064_64": {
+        "concepts": [
+          "law",
+          "justice"
+        ]
+      },
+      "065_65": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "069_69": {
+        "concepts": [
+          "law",
+          "justice"
+        ]
+      }
+    }
+  },
+  "Eudemian_Ethics_1214a": {
+    "axes": [
+      "moral_foundation"
+    ],
+    "positions": [
+      "virtue_ethics"
+    ],
+    "concepts": [
+      "eudaimonia",
+      "virtue",
+      "phronesis"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattato etico parallelo all'Etica Nicomachea: indaga se la felicità (eudaimonia) si ottenga per natura, per studio, per addestramento o per fortuna, e la colloca al vertice fra sapienza, virtù e piacere. Sviluppa la dottrina della virtù come disposizione stabile del carattere formata dall'abitudine.",
+    "summary_en": "Ethical treatise parallel to the Nicomachean Ethics: it asks whether happiness (eudaimonia) comes by nature, by study, by training, or by fortune, and places it at the summit among wisdom, goodness and pleasure. It develops the doctrine of virtue as a stable disposition of character formed through habituation.",
+    "atoms": {
+      "018_BOOK_III": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "virtue"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "019_BOOK_III": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "virtue",
+          "justice"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "021_BOOK_VII": {
+        "positions": [
+          "utility_pleasure"
+        ],
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "023_BOOK_VII": {
+        "positions": [
+          "utility_pleasure"
+        ],
+        "concepts": [
+          "friendship",
+          "virtue"
+        ]
+      },
+      "025_BOOK_VII": {
+        "positions": [
+          "utility_pleasure"
+        ],
+        "concepts": [
+          "friendship",
+          "virtue"
+        ]
+      }
+    }
+  },
+  "Generation_of_Animals_715a": {
+    "axes": [
+      "soul_body"
+    ],
+    "positions": [
+      "hylomorphism"
+    ],
+    "concepts": [
+      "four_causes",
+      "act_potency",
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattato biologico sulla riproduzione animale, esplicitamente organizzato intorno alle quattro cause (finale, formale, materiale, motrice): il maschio fornisce il principio formale/motore, la femmina la materia, secondo lo schema ilemorfico. Spiega perché la natura 'fugge l'infinito' e cerca sempre un fine.",
+    "summary_en": "Biological treatise on animal reproduction, explicitly organized around the four causes (final, formal, material, moving): the male supplies the formal/moving principle, the female the matter, following the hylomorphic scheme. It explains why nature 'flies from the infinite' and always seeks an end.",
+    "atoms": {
+      "004_Book_I": {
+        "concepts": [
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "007_Book_I": {
+        "positions": [
+          "hylomorphism"
+        ],
+        "concepts": [
+          "cause",
+          "four_causes"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "014_Book_II": {
+        "concepts": [
+          "act_potency",
+          "four_causes",
+          "soul"
+        ]
+      },
+      "017_Book_II": {
+        "concepts": [
+          "act_potency",
+          "four_causes",
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "019_Book_II": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "act_potency",
+          "four_causes",
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "022_Book_II": {
+        "concepts": [
+          "four_causes",
+          "soul",
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "030_Book_III": {
+        "concepts": [
+          "soul",
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "041_Book_IV": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "042_Book_IV": {
+        "concepts": [
+          "cause",
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "044_Book_IV": {
+        "concepts": [
+          "cause",
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "053_Book_V": {
+        "concepts": [
+          "four_causes",
+          "cause",
+          "nature"
+        ]
+      }
+    }
+  },
+  "Great_Ethics_1181a": {
+    "axes": [
+      "moral_foundation"
+    ],
+    "positions": [
+      "virtue_ethics"
+    ],
+    "concepts": [
+      "virtue",
+      "phronesis"
+    ],
+    "arguments": [],
+    "figures": [
+      "plato",
+      "socrates"
+    ],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Compendio etico di autenticità contestata (probabilmente peripatetico tardo) che ripercorre criticamente Pitagora, Socrate e Platone sulla virtù prima di esporre la propria dottrina: la virtù è disposizione di carattere, non scienza, e l'etica è un ramo della scienza politica.",
+    "summary_en": "Ethical compendium of disputed authenticity (probably later Peripatetic) that critically surveys Pythagoras, Socrates and Plato on virtue before setting out its own doctrine: virtue is a disposition of character, not a science, and ethics is a branch of political science.",
+    "atoms": {
+      "020_BOOK_II": {
+        "concepts": [
+          "friendship",
+          "utility_pleasure",
+          "virtue"
+        ]
+      }
+    }
+  },
+  "History_of_Animals_486a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Vasta enciclopedia zoologica descrittiva: classifica le parti degli animali come uniformi o composite, identiche per specie, genere o analogia, e raccoglie osservazioni comparate su centinaia di specie. È la base empirica su cui poggiano i trattati biologici più teorici come le Parti degli animali.",
+    "summary_en": "Vast descriptive zoological encyclopedia: it classifies animal parts as uniform or composite, identical by species, genus or analogy, and gathers comparative observations on hundreds of species. It is the empirical foundation underlying the more theoretical biological treatises such as Parts of Animals.",
+    "atoms": {
+      "002_Book_I": {
+        "positions": [
+          "social_animal"
+        ],
+        "concepts": [
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "005_Book_I": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "006_Book_I": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "007_Book_I": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "013_Book_II": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "014_Book_II": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "016_Book_II": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "017_Book_III": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "018_Book_III": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "020_Book_III": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "022_Book_III": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "023_Book_III": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "024_Book_III": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "026_Book_IV": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "027_Book_IV": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "028_Book_IV": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "030_Book_IV": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "038_Book_V": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "039_Book_V": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "043_Book_V": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "052_Book_VI": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "053_Book_VI": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "054_Book_VI": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "061_Book_VI": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "062_Book_VI": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "063_Book_VII": {
+        "concepts": [
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "065_Book_VII": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "071_Book_VIII": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "082_Book_IX": {
+        "concepts": [
+          "nature",
+          "custom"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "084_Book_IX": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "086_Book_IX": {
+        "concepts": [
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "094_Book_IX": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      }
+    }
+  },
+  "Mechanics_847a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "nature",
+      "cause"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattato di autenticità dubbia sui problemi meccanici (leva, bilancia, ruota): mostra come l'arte produca effetti 'contro natura' a nostro vantaggio, e riconduce i fenomeni mirabili della meccanica alle proprietà geometriche del cerchio.",
+    "summary_en": "Treatise of doubtful authenticity on mechanical problems (lever, balance, wheel): it shows how skill produces effects 'contrary to nature' for our benefit, and traces the marvels of mechanics back to the geometric properties of the circle.",
+    "atoms": {
+      "005_intero": {
+        "concepts": [
+          "cause",
+          "mechanism"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      }
+    }
+  },
+  "Metaphysics_980a": {
+    "axes": [
+      "universals",
+      "god"
+    ],
+    "positions": [
+      "immanent_realism",
+      "demonstrative_theism"
+    ],
+    "concepts": [
+      "substance",
+      "cause",
+      "four_causes",
+      "act_potency"
+    ],
+    "arguments": [
+      "unmoved_mover_argument"
+    ],
+    "figures": [
+      "plato",
+      "socrates"
+    ],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "L'opera che dà il nome alla disciplina: indaga la sostanza (ousia) come oggetto proprio della sapienza, sviluppa la dottrina delle quattro cause e di atto e potenza, critica la separazione platonica delle Idee sostenendo che gli universali esistono nelle cose stesse, e culmina nell'argomento del motore immobile come causa prima eterna e immateriale.",
+    "summary_en": "The work that gives the discipline its name: it investigates substance (ousia) as the proper object of wisdom, develops the doctrine of the four causes and of actuality and potentiality, criticizes the Platonic separation of the Forms by arguing that universals exist within things themselves, and culminates in the argument for an unmoved mover as the eternal, immaterial first cause.",
+    "atoms": {
+      "007_BOOK_I": {
+        "concepts": [
+          "methexis"
+        ],
+        "arguments": [
+          "third_man_argument"
+        ]
+      },
+      "008_BOOK_I": {
+        "concepts": [
+          "cause",
+          "essentia_existentia",
+          "substance"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "020_BOOK_V": {
+        "concepts": [
+          "cause",
+          "four_causes",
+          "act_potency"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "030_BOOK_VII": {
+        "positions": [
+          "hylomorphism"
+        ],
+        "concepts": [
+          "substance"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "043_BOOK_IX": {
+        "concepts": [
+          "act_potency"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "053_BOOK_XI": {
+        "concepts": [
+          "act_potency",
+          "cause",
+          "fortune"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      }
+    }
+  },
+  "Meteorology_338a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "nature",
+      "cause"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattato sui fenomeni celesti prossimi alla terra (via lattea, comete, venti, terremoti, fulmini): distingue la causa materiale (i quattro elementi) dalla causa motrice, che risiede nell'influsso dei corpi celesti eterni.",
+    "summary_en": "Treatise on the celestial phenomena nearest the earth (the Milky Way, comets, winds, earthquakes, lightning): it distinguishes the material cause (the four elements) from the moving cause, which lies in the influence of the eternally moving heavenly bodies.",
+    "atoms": {
+      "006_Book_I": {
+        "concepts": [
+          "cause",
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "009_Book_I": {
+        "positions": [
+          "eternity"
+        ],
+        "concepts": [
+          "time",
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "010_Book_II": {
+        "concepts": [
+          "cause",
+          "nature"
+        ]
+      },
+      "013_Book_II": {
+        "concepts": [
+          "cause",
+          "nature",
+          "act_potency"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "018_Book_II": {
+        "concepts": [
+          "cause",
+          "four_causes"
+        ]
+      },
+      "022_Book_III": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "023_Book_III": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      }
+    }
+  },
+  "Movement_of_Animals_698a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "act_potency",
+      "nature"
+    ],
+    "arguments": [
+      "unmoved_mover_argument"
+    ],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Studia il fondamento comune del movimento animale: ogni movimento richiede un punto fermo (le articolazioni funzionano come centri immobili), e questo si estende per analogia all'intero universo, dove deve esistere qualcosa di assolutamente immobile perché il movimento sia possibile.",
+    "summary_en": "Studies the common ground of animal movement: every movement requires a fixed point (joints function as immovable centres), and this extends by analogy to the whole universe, where something absolutely immovable must exist for movement to be possible at all.",
+    "atoms": {
+      "004_intero": {
+        "concepts": [
+          "soul",
+          "act_potency",
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      }
+    }
+  },
+  "Nicomachean_Ethics_1094a": {
+    "axes": [
+      "moral_foundation"
+    ],
+    "positions": [
+      "virtue_ethics"
+    ],
+    "concepts": [
+      "eudaimonia",
+      "phronesis",
+      "virtue"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Il trattato etico più influente di Aristotele: ogni azione mira a un bene, e il Bene Sommo per l'uomo è l'eudaimonia, attività dell'anima secondo virtù. Sviluppa la dottrina della virtù come medietà fra eccesso e difetto e il ruolo della phronesis, la saggezza pratica, nel deliberare bene.",
+    "summary_en": "Aristotle's most influential ethical treatise: every action aims at some good, and the Supreme Good for man is eudaimonia, activity of the soul in accordance with virtue. It develops the doctrine of virtue as a mean between excess and deficiency, and the role of phronesis, practical wisdom, in deliberating well.",
+    "atoms": {
+      "010_Chapter_VIII": {
+        "concepts": [
+          "eudaimonia",
+          "virtue",
+          "fortune"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "012_Chapter_X": {
+        "positions": [
+          "pleasure"
+        ],
+        "concepts": [
+          "eudaimonia",
+          "virtue"
+        ]
+      },
+      "013_Chapter_XI": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "virtue",
+          "soul",
+          "phronesis",
+          "eudaimonia"
+        ]
+      },
+      "021_I_In_respect_of_fears_and_confidence_or": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "virtue"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "024_IV_In_respect_of_wealth_b": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "virtue"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "025_V_In_respect_of_honour_and_dishonour_a": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "virtue"
+        ]
+      },
+      "027_VII_In_respect_of_anger": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "anger",
+          "virtue"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "029_II_In_respect_of_what_is_pleasant_in_the": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "virtue"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "040_Chapter_VIII": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "virtue"
+        ]
+      },
+      "048_Chapter_I": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "virtue"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "052_Chapter_IV": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "virtue"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "054_Chapter_VI": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "virtue"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "055_Chapter_VII": {
+        "axes": [
+          "human_nature"
+        ],
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "anger",
+          "virtue"
+        ]
+      },
+      "056_Chapter_VIII": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "059_Chapter_XI": {
+        "concepts": [
+          "virtue",
+          "passion"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "061_Chapter_II": {
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "justice",
+          "virtue",
+          "law"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "063_Chapter_IV": {
+        "concepts": [
+          "justice",
+          "virtue",
+          "law",
+          "education"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "064_Chapter_V": {
+        "concepts": [
+          "justice"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "066_Chapter_VII": {
+        "concepts": [
+          "justice",
+          "law"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "068_Chapter_IX": {
+        "axes": [
+          "moral_foundation"
+        ],
+        "positions": [
+          "virtue_ethics"
+        ],
+        "concepts": [
+          "justice",
+          "virtue"
+        ]
+      },
+      "074_Chapter_XV": {
+        "concepts": [
+          "justice",
+          "law",
+          "virtue"
+        ]
+      },
+      "075_Chapter_XVI": {
+        "concepts": [
+          "justice",
+          "law",
+          "virtue"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "082_Chapter_VI": {
+        "concepts": [
+          "phronesis",
+          "universals"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "083_Chapter_VII": {
+        "concepts": [
+          "phronesis",
+          "wisdom"
+        ]
+      },
+      "084_Chapter_VIII": {
+        "concepts": [
+          "phronesis"
+        ]
+      },
+      "086_Chapter_X": {
+        "concepts": [
+          "phronesis"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "093_III_That_the_man_of_Imperfect_Self-Contr": {
+        "concepts": [
+          "passion",
+          "reason",
+          "virtue"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "097_VII_Again_men_are_said_to_be_of_Imperfec": {
+        "concepts": [
+          "anger"
+        ]
+      },
+      "101_Chapter_V": {
+        "axes": [
+          "human_nature"
+        ],
+        "concepts": [
+          "custom",
+          "anger",
+          "nature"
+        ]
+      },
+      "108_3_The_man_of_Practical_Wisdom_aims_at_av": {
+        "axes": [
+          "end_of_life"
+        ],
+        "positions": [
+          "pleasure"
+        ],
+        "concepts": [
+          "phronesis"
+        ]
+      },
+      "115_Chapter_I": {
+        "positions": [
+          "social_animal"
+        ],
+        "concepts": [
+          "friendship",
+          "virtue"
+        ]
+      },
+      "118_Chapter_IV": {
+        "positions": [
+          "utility_pleasure"
+        ],
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "119_Chapter_V": {
+        "positions": [
+          "utility_pleasure",
+          "pleasure"
+        ],
+        "concepts": [
+          "friendship",
+          "virtue"
+        ]
+      },
+      "120_Chapter_VI": {
+        "axes": [
+          "human_nature"
+        ],
+        "positions": [
+          "pleasure"
+        ],
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "128_Chapter_XIV": {
+        "axes": [
+          "human_nature"
+        ],
+        "concepts": [
+          "friendship",
+          "justice",
+          "virtue"
+        ]
+      },
+      "135_Chapter_VII": {
+        "concepts": [
+          "friendship",
+          "act_potency",
+          "labour"
+        ]
+      },
+      "137_Chapter_IX": {
+        "positions": [
+          "social_animal",
+          "pleasure"
+        ],
+        "concepts": [
+          "friendship",
+          "eudaimonia",
+          "virtue"
+        ]
+      },
+      "143_Chapter_II": {
+        "axes": [
+          "moral_foundation"
+        ],
+        "positions": [
+          "pleasure"
+        ],
+        "concepts": [
+          "eudaimonia"
+        ]
+      }
+    }
+  },
+  "On_Breath_481a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Opuscolo di autenticità respinta dalla quasi totalità degli editori (forse di Teofrasto), dedicato al 'pneuma' innato e al suo ruolo fisiologico nella crescita e nel movimento degli animali; testo corrotto e vicino nei temi ai trattati zoologici aristotelici.",
+    "summary_en": "Short work rejected as spurious by nearly all editors (perhaps by Theophrastus), devoted to the innate 'pneuma' and its physiological role in the growth and movement of animals; a corrupt text close in theme to Aristotle's zoological treatises.",
+    "atoms": {
+      "001_PREFACE": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "006_CHAPTER_5": {
+        "concepts": [
+          "soul"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "007_CHAPTER_6": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "010_CHAPTER_9": {
+        "concepts": [
+          "nature",
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "014_DE_SPIRITU": {
+        "concepts": [
+          "cause",
+          "nature",
+          "soul"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      }
+    }
+  },
+  "On_Colours_791a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattatello spurio sulla fisica del colore: i colori semplici appartengono ai quattro elementi (aria e acqua bianchi, fuoco dorato, terra bianca ma tinta), mentre gli altri nascono dalla mescolanza; il nero è assenza di luce, il bianco la sua massima presenza.",
+    "summary_en": "Spurious short treatise on the physics of colour: the simple colours belong to the four elements (air and water white, fire golden, earth white but dyed), while the others arise from mixture; black is the absence of light, white its fullest presence.",
+    "atoms": {
+      "005_intero": {
+        "figures": [
+          "aristotle"
+        ]
+      }
+    }
+  },
+  "On_Divination_in_Sleep_462b": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "cause",
+      "fortune"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Esamina se i sogni possano davvero predire il futuro: rifiuta l'idea che siano inviati da un dio (che non li manderebbe a persone qualsiasi) e distingue fra sogni come causa, come segno o come semplice coincidenza degli eventi che sembrano predire.",
+    "summary_en": "Examines whether dreams can genuinely predict the future: it rejects the idea that they are sent by a god (who would not send them to ordinary people) and distinguishes dreams that are a cause, a token, or a mere coincidence of the events they seem to predict."
+  },
+  "On_Dreams_458a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "soul"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Indaga a quale facoltà dell'anima appartenga il sogno: non è sensazione in atto (gli occhi sono chiusi) né semplice opinione, ma un residuo dei movimenti impressi dalla sensazione, elaborato dalla facoltà immaginativa durante il sonno.",
+    "summary_en": "Investigates to which faculty of the soul the dream belongs: it is neither actual sense-perception (the eyes are closed) nor mere opinion, but a residue of the movements impressed by sensation, elaborated by the faculty of imagination during sleep."
+  },
+  "On_Generation_and_Corruption_314a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "four_causes",
+      "cause",
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Distingue il venire-a-essere e il perire dall'alterazione qualitativa, discutendo criticamente le teorie di Empedocle, Anassagora, Leucippo e Democrito sugli elementi. Sostiene, contro i pluralisti degli elementi ultimi, che generazione e alterazione sono processi realmente distinti.",
+    "summary_en": "Distinguishes coming-to-be and passing-away from qualitative alteration, critically discussing the theories of Empedocles, Anaxagoras, Leucippus and Democritus on the elements. Against the pluralists of ultimate elements, it argues that generation and alteration are genuinely distinct processes."
+  },
+  "On_Indivisible_Lines_968a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "infinity"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattato matematico spurio che esamina e in gran parte confuta gli argomenti (compreso uno attribuito a Zenone) a favore dell'esistenza di linee indivisibili come unità minime di grandezza, difendendo la divisibilità infinita del continuo.",
+    "summary_en": "Spurious mathematical treatise that examines and largely refutes the arguments (including one attributed to Zeno) for the existence of indivisible lines as minimal units of magnitude, defending the infinite divisibility of the continuum.",
+    "atoms": {
+      "001_INTRODUCTION": {
+        "concepts": [
+          "infinity"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      }
+    }
+  },
+  "On_Interpretation_16a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "substance"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattato di logica sulla proposizione: analizza affermazione e negazione, la predicazione universale e singolare, e le condizioni di contrarietà e contraddizione fra enunciati, incluso il celebre problema dei futuri contingenti.",
+    "summary_en": "Logical treatise on the proposition: it analyses affirmation and negation, universal and singular predication, and the conditions of contrariety and contradiction between statements, including the famous problem of future contingents.",
+    "atoms": {
+      "003_Chapter_3": {
+        "concepts": [
+          "time"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "004_Chapter_4": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "007_Chapter_7": {
+        "axes": [
+          "universals"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "008_Chapter_8": {
+        "figures": [
+          "aristotle"
+        ]
+      }
+    }
+  },
+  "On_Marvelous_Things_Heard_830a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Raccolta paradossografica di curiosità naturali riferite di seconda mano (bestie favolose, comportamenti animali insoliti, piante prodigiose): compilazione erudita più che opera filosofica, priva di forma corrispondente nel vocabolario controllato.",
+    "summary_en": "Paradoxographical collection of natural curiosities reported second-hand (fabulous beasts, unusual animal behaviour, marvellous plants): an erudite compilation rather than a philosophical work, with no matching form in the controlled vocabulary.",
+    "atoms": {
+      "001_INTRODUCTION": {
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "002_ON_MARVELLOUS_THINGS_HEARD": {
+        "concepts": [
+          "nature"
+        ]
+      }
+    }
+  },
+  "On_Melissus_Xenophanes_and_Gorgias_974a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "substance",
+      "infinity"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Dossografia critica che espone e confuta le tesi eleatiche e sofistiche: l'Uno eterno e infinito di Melisso, il monismo teologico di Senofane, e il nichilismo ontologico di Gorgia ('nulla esiste; se esistesse non sarebbe conoscibile; se fosse conoscibile non sarebbe comunicabile').",
+    "summary_en": "Critical doxography that presents and refutes Eleatic and sophistic theses: the eternal, infinite One of Melissus, the theological monism of Xenophanes, and the ontological nihilism of Gorgias ('nothing exists; if it existed it could not be known; if known, it could not be communicated').",
+    "atoms": {
+      "007_ON_GORGIAS": {
+        "positions": [
+          "scepticism"
+        ]
+      }
+    }
+  },
+  "On_Memory_449b": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "soul",
+      "time",
+      "memory"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Studia la memoria come stato dipendente dal tempo trascorso, distinta dalla percezione (sempre presente) e dalla scienza: solo gli animali che percepiscono il tempo ricordano, e il ricordare intellettuale passa comunque attraverso un'immagine sensibile.",
+    "summary_en": "Studies memory as a state dependent on elapsed time, distinct from perception (always of the present) and from science: only animals that perceive time can remember, and even intellectual remembering passes through a sensible image.",
+    "atoms": {
+      "001_intero": {
+        "concepts": [
+          "memory",
+          "time",
+          "soul"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "003_intero": {
+        "concepts": [
+          "anamnesis",
+          "memory",
+          "custom",
+          "time"
+        ]
+      }
+    }
+  },
+  "On_Plants_815a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "soul",
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [
+      "plato"
+    ],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattato spurio (di ambiente teofrasteo) sulla vita vegetale: discute e respinge le tesi di Anassagora, Empedocle, Democrito e Platone secondo cui le piante avrebbero sensazione e desiderio, sostenendo che possiedono solo l'anima nutritiva, non quella sensitiva.",
+    "summary_en": "Spurious treatise (of Theophrastean background) on plant life: it discusses and rejects the views of Anaxagoras, Empedocles, Democritus and Plato that plants have sensation and desire, arguing that they possess only the nutritive soul, not the sensitive one.",
+    "atoms": {
+      "001_PREFACE": {
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "006_BOOK_I": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "cause",
+          "nature"
+        ]
+      },
+      "011_BOOK_II": {
+        "concepts": [
+          "nature",
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      }
+    }
+  },
+  "On_Sleep_453b": {
+    "axes": [
+      "soul_body"
+    ],
+    "positions": [
+      "hylomorphism"
+    ],
+    "concepts": [
+      "soul"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Analizza sonno e veglia come affezioni comuni ad anima e corpo, legate all'esercizio della percezione sensibile: il sonno è privazione della veglia, e nessun animale privo di sensazione può dormire o vegliare in senso proprio.",
+    "summary_en": "Analyses sleep and waking as affections common to soul and body, tied to the exercise of sense-perception: sleep is a privation of waking, and no animal lacking sensation can properly be said to sleep or wake.",
+    "atoms": {
+      "004_intero": {
+        "concepts": [
+          "act_potency",
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      }
+    }
+  },
+  "On_the_Heavens_268a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "nature",
+      "infinity"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Cosmologia fisica: il corpo è la grandezza compiuta perché divisibile in tre dimensioni, il moto naturale è retto (verso o dal centro) o circolare, e i corpi celesti si muovono di moto circolare eterno, distinti dai quattro elementi sublunari.",
+    "summary_en": "Physical cosmology: body is the complete magnitude because divisible in three dimensions; natural motion is either straight (toward or away from the centre) or circular, and the heavenly bodies move with eternal circular motion, distinct from the four sublunary elements.",
+    "atoms": {
+      "005_Book_I": {
+        "concepts": [
+          "infinity"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "006_Book_I": {
+        "concepts": [
+          "infinity"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "012_Book_I": {
+        "positions": [
+          "eternity"
+        ],
+        "concepts": [
+          "act_potency",
+          "fortune"
+        ]
+      },
+      "030_Book_IV": {
+        "positions": [
+          "atomism"
+        ]
+      },
+      "032_Book_IV": {
+        "positions": [
+          "hylomorphism"
+        ],
+        "concepts": [
+          "act_potency",
+          "nature"
+        ]
+      }
+    }
+  },
+  "On_the_Soul_402a": {
+    "axes": [
+      "soul_body"
+    ],
+    "positions": [
+      "hylomorphism"
+    ],
+    "concepts": [
+      "soul",
+      "act_potency"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Il trattato fondativo della psicologia aristotelica: l'anima è la forma sostanziale del corpo naturale organico, il suo primo atto — non una sostanza separata come in Platone, ma inseparabile dal corpo di cui è l'attualizzazione. Distingue le facoltà nutritiva, sensitiva e razionale dell'anima.",
+    "summary_en": "The foundational treatise of Aristotelian psychology: the soul is the substantial form of the natural organic body, its first actuality — not a separate substance as in Plato, but inseparable from the body of which it is the actualization. It distinguishes the nutritive, sensitive and rational faculties of the soul.",
+    "atoms": {
+      "001_Book_I": {
+        "axes": [
+          "soul_body",
+          "method"
+        ],
+        "concepts": [
+          "soul",
+          "act_potency",
+          "anger"
+        ]
+      },
+      "002_Book_I": {
+        "axes": [
+          "soul_body"
+        ],
+        "positions": [
+          "atomism"
+        ],
+        "concepts": [
+          "soul",
+          "anger"
+        ]
+      },
+      "005_Book_I": {
+        "axes": [
+          "soul_body"
+        ],
+        "concepts": [
+          "soul",
+          "anger"
+        ]
+      },
+      "006_Book_I": {
+        "positions": [
+          "atomism"
+        ],
+        "concepts": [
+          "soul",
+          "infinity"
+        ]
+      },
+      "008_Book_II": {
+        "axes": [
+          "soul_body"
+        ],
+        "positions": [
+          "hylomorphism"
+        ],
+        "concepts": [
+          "act_potency",
+          "soul",
+          "substance"
+        ]
+      },
+      "009_Book_II": {
+        "axes": [
+          "soul_body"
+        ],
+        "positions": [
+          "hylomorphism"
+        ],
+        "concepts": [
+          "act_potency",
+          "soul"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "025_Book_III": {
+        "concepts": [
+          "soul"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      }
+    }
+  },
+  "On_the_Universe_391a": {
+    "axes": [
+      "god"
+    ],
+    "positions": [
+      "pantheism"
+    ],
+    "concepts": [
+      "nature",
+      "religion"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattato cosmoteologico spurio (di probabile ambiente stoico-posidoniano) indirizzato ad Alessandro: descrive l'ordine del cosmo come tenuto insieme da un'unica potenza divina che lo pervade e lo governa dall'esterno come un re, pur restando essa stessa immutabile.",
+    "summary_en": "Spurious cosmo-theological treatise (probably of Stoic-Posidonian background) addressed to Alexander: it describes the order of the cosmos as held together by a single divine power that pervades and governs it from without like a king, while itself remaining unchanging.",
+    "atoms": {
+      "001_PREFACE": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "008_DE_MUNDO": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "fate_providence"
+        ],
+        "concepts": [
+          "divine_law"
+        ],
+        "figures": [
+          "plato"
+        ]
+      }
+    }
+  },
+  "On_Things_Heard_800a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattatello spurio di acustica fisiologica: spiega la produzione dei suoni e della voce come moto dell'aria causato dall'urto del respiro contro gli organi vocali, con osservazioni comparate su animali e strumenti musicali.",
+    "summary_en": "Spurious short treatise on physiological acoustics: it explains the production of sounds and voice as motion of the air caused by the impact of breath on the vocal organs, with comparative observations on animals and musical instruments.",
+    "atoms": {
+      "001_PREFACE": {
+        "figures": [
+          "aristotle"
+        ]
+      }
+    }
+  },
+  "On_Virtues_and_Vices_1249a": {
+    "axes": [
+      "moral_foundation"
+    ],
+    "positions": [
+      "virtue_ethics"
+    ],
+    "concepts": [
+      "virtue",
+      "phronesis"
+    ],
+    "arguments": [],
+    "figures": [
+      "plato"
+    ],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Compendio spurio che, riprendendo la tripartizione platonica dell'anima (razionale, passionale, appetitiva), elenca sistematicamente le virtù e i vizi corrispondenti a ciascuna parte — sapienza e follia, coraggio e viltà, temperanza e dissolutezza, giustizia e ingiustizia.",
+    "summary_en": "Spurious compendium that, taking up the Platonic tripartition of the soul (rational, passionate, appetitive), systematically catalogues the virtues and vices corresponding to each part — wisdom and folly, courage and cowardice, temperance and profligacy, justice and injustice."
+  },
+  "Parts_of_Animals_639a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "four_causes",
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Metodologia e teoria della biologia comparata: stabilisce che la causa finale precede la causa motrice nella spiegazione delle opere della natura, poiché la natura, come l'arte, opera in vista di un fine, e applica questo principio all'anatomia comparata degli animali.",
+    "summary_en": "Methodology and theory of comparative biology: it establishes that the final cause precedes the moving cause in explaining the works of nature, since nature, like art, works for the sake of an end, and applies this principle to comparative animal anatomy.",
+    "atoms": {
+      "006_Book_I": {
+        "axes": [
+          "soul_body",
+          "method"
+        ],
+        "positions": [
+          "hylomorphism"
+        ],
+        "concepts": [
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "007_Book_II": {
+        "positions": [
+          "hylomorphism"
+        ],
+        "concepts": [
+          "four_causes"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "020_Book_III": {
+        "concepts": [
+          "four_causes",
+          "cause",
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "025_Book_III": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "035_Book_IV": {
+        "concepts": [
+          "nature",
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "042_Book_IV": {
+        "concepts": [
+          "four_causes"
+        ]
+      },
+      "045_Book_IV": {
+        "concepts": [
+          "cause",
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      }
+    }
+  },
+  "Physics_184a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "four_causes",
+      "cause",
+      "nature",
+      "infinity"
+    ],
+    "arguments": [
+      "unmoved_mover_argument"
+    ],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Il trattato fondativo della fisica aristotelica: definisce i principi del mutamento, le quattro cause, il rapporto fra materia e forma, l'infinito, il luogo, il tempo e il moto, confutando Parmenide e Melisso e culminando (libro VIII) nella dimostrazione di un motore immobile all'origine di ogni movimento.",
+    "summary_en": "The foundational treatise of Aristotelian physics: it defines the principles of change, the four causes, the relation of matter and form, the infinite, place, time and motion, refuting Parmenides and Melissus and culminating (Book VIII) in the demonstration of an unmoved mover at the origin of all movement.",
+    "atoms": {
+      "002_Book_I": {
+        "positions": [
+          "monism"
+        ],
+        "concepts": [
+          "act_potency",
+          "substance",
+          "attribute"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "008_Book_II": {
+        "positions": [
+          "hylomorphism"
+        ],
+        "concepts": [
+          "cause",
+          "four_causes",
+          "nature"
+        ]
+      },
+      "009_Book_II": {
+        "concepts": [
+          "cause",
+          "fortune",
+          "act_potency",
+          "four_causes"
+        ]
+      },
+      "011_Book_II": {
+        "positions": [
+          "hylomorphism"
+        ],
+        "concepts": [
+          "four_causes",
+          "cause",
+          "nature",
+          "fortune"
+        ]
+      },
+      "014_Book_III": {
+        "concepts": [
+          "act_potency",
+          "infinity"
+        ]
+      },
+      "018_Book_III": {
+        "concepts": [
+          "infinity",
+          "act_potency",
+          "cause",
+          "time"
+        ]
+      },
+      "028_Book_IV": {
+        "axes": [
+          "time_and_death"
+        ],
+        "concepts": [
+          "time"
+        ]
+      },
+      "029_Book_IV": {
+        "concepts": [
+          "time"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "035_Book_V": {
+        "concepts": [
+          "nature"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "038_Book_VI": {
+        "concepts": [
+          "time"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "040_Book_VI": {
+        "concepts": [
+          "time",
+          "infinity"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "042_Book_VI": {
+        "concepts": [
+          "infinity",
+          "time"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "045_Book_VII": {
+        "concepts": [
+          "cause",
+          "infinity"
+        ],
+        "arguments": [
+          "unmoved_mover_argument"
+        ]
+      },
+      "054_Book_VIII": {
+        "concepts": [
+          "act_potency",
+          "cause"
+        ],
+        "arguments": [
+          "unmoved_mover_argument"
+        ]
+      },
+      "056_Book_VIII": {
+        "concepts": [
+          "act_potency"
+        ],
+        "arguments": [
+          "unmoved_mover_argument"
+        ]
+      },
+      "058_Book_VIII": {
+        "concepts": [
+          "act_potency"
+        ],
+        "arguments": [
+          "unmoved_mover_argument"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "061_Book_VIII": {
+        "positions": [
+          "atomism"
+        ],
+        "concepts": [
+          "act_potency",
+          "infinity",
+          "time"
+        ]
+      }
+    }
+  },
+  "Physiognomonics_805a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "soul",
+      "passion"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Trattatello spurio che difende la possibilità della fisiognomica, cioè dedurre il carattere mentale dalla forma corporea, sulla base della connessione reciproca fra anima e corpo, criticando però i metodi troppo semplicistici basati sui soli tratti animali o facciali.",
+    "summary_en": "Spurious short treatise defending the possibility of physiognomy — inferring mental character from bodily form — on the basis of the mutual connection between soul and body, while criticizing overly simplistic methods based on animal or facial traits alone.",
+    "atoms": {
+      "001_PREFACE": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "002_PHYSIOGNOMONICA": {
+        "axes": [
+          "soul_body",
+          "method"
+        ],
+        "concepts": [
+          "anger"
+        ]
+      },
+      "004_PHYSIOGNOMONICA": {
+        "axes": [
+          "soul_body",
+          "method"
+        ]
+      }
+    }
+  },
+  "Poetics_1447a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "mimesis",
+      "katharsis",
+      "beauty"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Il trattato fondativo della teoria letteraria occidentale: definisce epica, tragedia, commedia e ditirambo come forme di mimesis che differiscono per mezzo, oggetto e modo dell'imitazione, e sviluppa la teoria della tragedia come azione che suscita pietà e timore e produce la loro catarsi.",
+    "summary_en": "The foundational treatise of Western literary theory: it defines epic, tragedy, comedy and dithyramb as forms of mimesis differing in medium, object and manner of imitation, and develops the theory of tragedy as an action arousing pity and fear that produces their catharsis.",
+    "atoms": {
+      "001_I": {
+        "concepts": [
+          "mimesis"
+        ]
+      },
+      "002_II": {
+        "concepts": [
+          "mimesis"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "005_V": {
+        "concepts": [
+          "mimesis"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "006_VI": {
+        "concepts": [
+          "mimesis",
+          "katharsis"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "007_VII": {
+        "concepts": [
+          "mimesis",
+          "beauty"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "012_XII": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "016_XVI": {
+        "concepts": [
+          "recognition"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "017_XVII": {
+        "concepts": [
+          "mimesis",
+          "recognition"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "023_XXIII": {
+        "concepts": [
+          "mimesis"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      }
+    }
+  },
+  "Politics_1252a": {
+    "axes": [
+      "human_nature"
+    ],
+    "positions": [
+      "social_animal"
+    ],
+    "concepts": [
+      "state",
+      "justice",
+      "property",
+      "law"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Teoria della polis come comunità naturale che nasce da famiglia e villaggio e mira al bene supremo: l'uomo è per natura un animale politico, e lo stato precede logicamente l'individuo. Discute forme di governo, schiavitù naturale e critica la comunanza di beni proposta da Platone.",
+    "summary_en": "Theory of the polis as a natural community arising from family and village and aiming at the highest good: man is by nature a political animal, and the state is logically prior to the individual. It discusses forms of government, natural slavery, and criticizes Plato's proposal of common property.",
+    "atoms": {
+      "008_Book_Two": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "social_animal",
+          "natural_right"
+        ],
+        "concepts": [
+          "state",
+          "justice"
+        ],
+        "arguments": [
+          "state_of_nature"
+        ],
+        "figures": [
+          "socrates",
+          "plato"
+        ],
+        "forms": [
+          "dialogue"
+        ],
+        "schools": [
+          "academy",
+          "lyceum"
+        ]
+      },
+      "010_Book_Two": {
+        "axes": [
+          "human_nature"
+        ],
+        "concepts": [
+          "property",
+          "education",
+          "state"
+        ],
+        "figures": [
+          "socrates"
+        ]
+      },
+      "014_Book_Two": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "revolution"
+        ],
+        "concepts": [
+          "custom",
+          "law",
+          "state"
+        ]
+      },
+      "018_Book_Two": {
+        "concepts": [
+          "law",
+          "state"
+        ]
+      },
+      "022_Book_Three": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "concepts": [
+          "justice",
+          "state"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "025_Book_Three": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "concepts": [
+          "justice",
+          "virtue",
+          "state"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "026_Book_Three": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "concepts": [
+          "virtue",
+          "law",
+          "state"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "027_Book_Three": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "concepts": [
+          "law",
+          "virtue",
+          "anger"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "028_Book_Three": {
+        "positions": [
+          "natural_right"
+        ],
+        "concepts": [
+          "law",
+          "reason",
+          "friendship",
+          "passion"
+        ]
+      },
+      "029_Book_Three": {
+        "concepts": [
+          "education",
+          "virtue",
+          "state"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "030_Book_Four": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "concepts": [
+          "state",
+          "law"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "037_Book_Four": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "concepts": [
+          "state",
+          "law"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "040_Book_Four": {
+        "concepts": [
+          "law",
+          "state",
+          "justice"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "047_Book_Five": {
+        "positions": [
+          "revolution"
+        ],
+        "concepts": [
+          "education",
+          "custom",
+          "freedom",
+          "state"
+        ]
+      },
+      "048_Book_Five": {
+        "concepts": [
+          "anger"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "051_Book_Five": {
+        "positions": [
+          "revolution"
+        ],
+        "concepts": [
+          "state",
+          "education"
+        ],
+        "figures": [
+          "plato",
+          "socrates"
+        ]
+      },
+      "056_Book_Six": {
+        "concepts": [
+          "state",
+          "religion",
+          "law"
+        ]
+      },
+      "060_Book_Seven": {
+        "concepts": [
+          "state",
+          "eudaimonia",
+          "virtue",
+          "friendship"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "066_Book_Seven": {
+        "axes": [
+          "human_nature",
+          "state_and_individual"
+        ],
+        "concepts": [
+          "education",
+          "state"
+        ]
+      }
+    }
+  },
+  "Posterior_Analytics_71a": {
+    "axes": [
+      "method"
+    ],
+    "positions": [
+      "induction"
+    ],
+    "concepts": [
+      "reason"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Teoria della scienza dimostrativa: ogni insegnamento nasce da una conoscenza preesistente, acquisita per sillogismo o per induzione; distingue la conoscenza del particolare per esperienza da quella universale per scienza, e fonda i primi principi indimostrabili su cui si basa ogni dimostrazione.",
+    "summary_en": "Theory of demonstrative science: all teaching arises from pre-existing knowledge, acquired through syllogism or induction; it distinguishes knowledge of the particular through experience from universal knowledge through science, and grounds the indemonstrable first principles on which every demonstration rests.",
+    "atoms": {
+      "002_Chapter_2": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "011_Chapter_11": {
+        "axes": [
+          "universals",
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "014_Chapter_14": {
+        "axes": [
+          "universals"
+        ],
+        "concepts": [
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "015_Chapter_15": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "017_Chapter_17": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "018_Chapter_18": {
+        "axes": [
+          "knowledge_origin",
+          "universals"
+        ],
+        "positions": [
+          "induction"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "020_Chapter_20": {
+        "concepts": [
+          "infinity"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "021_Chapter_21": {
+        "concepts": [
+          "infinity"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "027_Chapter_26": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "029_Chapter_28": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "031_Chapter_30": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "fortune"
+        ]
+      },
+      "037_Chapter_2": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "038_Chapter_3": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "induction"
+        ],
+        "concepts": [
+          "infinity"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "040_Chapter_5": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "induction"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "051_Chapter_15": {
+        "concepts": [
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "054_Chapter_18": {
+        "axes": [
+          "universals"
+        ],
+        "concepts": [
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "055_Chapter_19": {
+        "axes": [
+          "knowledge_origin",
+          "universals"
+        ],
+        "positions": [
+          "induction"
+        ],
+        "concepts": [
+          "experience",
+          "memory"
+        ]
+      }
+    }
+  },
+  "Prior_Analytics_24a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "reason"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Il trattato che fonda la sillogistica: definisce premessa, termine e sillogismo, distingue premesse dimostrative e dialettiche, e classifica sistematicamente le figure e i modi validi del sillogismo categorico.",
+    "summary_en": "The treatise that founds syllogistic logic: it defines premiss, term and syllogism, distinguishes demonstrative from dialectical premises, and systematically classifies the valid figures and moods of the categorical syllogism.",
+    "atoms": {
+      "002_Book_I": {
+        "axes": [
+          "method"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "006_Book_I": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "008_Book_I": {
+        "concepts": [
+          "act_potency"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "010_Book_I": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "012_Book_I": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "016_Book_I": {
+        "axes": [
+          "method"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "017_Book_I": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "experience"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "022_Book_I": {
+        "axes": [
+          "method"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "024_Book_II": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "025_Book_II": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "027_Book_II": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "028_Book_II": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "030_Book_II": {
+        "axes": [
+          "method"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "035_Book_II": {
+        "positions": [
+          "induction"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      }
+    }
+  },
+  "Problems_859a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Vasta compilazione peripatetica in forma di domande e risposte su medicina, sudorazione, vino ed ebbrezza, sesso, affaticamento, posture, voce e molti altri argomenti fisiologici: opera collettiva di più mani, non un trattato filosofico unitario.",
+    "summary_en": "A vast Peripatetic compilation in question-and-answer form on medicine, perspiration, wine and drunkenness, sex, fatigue, posture, voice and many other physiological topics: a collective work of several hands, not a unified philosophical treatise.",
+    "atoms": {
+      "001_PREFACE": {
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "007_BOOK_II_PROBLEMS_CONNECTED_WITH_PERSPIRA": {
+        "concepts": [
+          "cause",
+          "nature"
+        ]
+      },
+      "009_BOOK_II_PROBLEMS_CONNECTED_WITH_PERSPIRA": {
+        "concepts": [
+          "cause"
+        ]
+      },
+      "018_BOOK_IV_PROBLEMS_CONNECTED_WITH_SEXUAL_I": {
+        "axes": [
+          "human_nature"
+        ],
+        "positions": [
+          "pleasure"
+        ],
+        "concepts": [
+          "cause",
+          "custom"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "024_BOOK_VI_PROBLEMS_CONNECTED_WITH_THE_POSI": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "027_BOOK_VIII_PROBLEMS_CONNECTED_WITH_CHILL": {
+        "concepts": [
+          "anger",
+          "cause"
+        ]
+      },
+      "032_BOOK_X_A_SUMMARY_OF_PHYSICAL_PROBLEMS": {
+        "concepts": [
+          "cause",
+          "nature"
+        ]
+      },
+      "039_BOOK_XI_PROBLEMS_CONNECTED_WITH_THE_VOIC": {
+        "concepts": [
+          "cause"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "quaestio"
+        ]
+      },
+      "040_BOOK_XI_PROBLEMS_CONNECTED_WITH_THE_VOIC": {
+        "concepts": [
+          "cause"
+        ]
+      },
+      "059_BOOK_XXI_PROBLEMS_CONCERNING_BARLEY-MEAL": {
+        "concepts": [
+          "cause"
+        ],
+        "forms": [
+          "quaestio"
+        ]
+      },
+      "074_BOOK_XXVII_PROBLEMS_CONNECTED_WITH_FEAR": {
+        "axes": [
+          "soul_body"
+        ],
+        "concepts": [
+          "anger",
+          "passion",
+          "virtue"
+        ]
+      },
+      "078_BOOK_XXIX_PROBLEMS_CONNECTED_WITH_JUSTIC": {
+        "positions": [
+          "free_will"
+        ],
+        "concepts": [
+          "justice",
+          "law",
+          "anger",
+          "fortune"
+        ]
+      },
+      "079_BOOK_XXIX_PROBLEMS_CONNECTED_WITH_JUSTIC": {
+        "concepts": [
+          "justice",
+          "law",
+          "human_nature"
+        ]
+      },
+      "092_BOOK_XXXVI_PROBLEMS_CONNECTED_WITH_THE_F": {
+        "concepts": [
+          "cause"
+        ]
+      }
+    }
+  },
+  "Progression_of_Animals_704a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "four_causes",
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Studia le parti che permettono agli animali di muoversi nello spazio (numero di punti d'appoggio, curvatura degli arti), postulando come principio che la natura non fa nulla senza scopo, ma sempre il meglio possibile per ciascuna specie.",
+    "summary_en": "Studies the parts that enable animals to move through space (number of points of support, curvature of limbs), postulating as a principle that nature does nothing without purpose, but always the best possible for each species."
+  },
+  "Rhetoric_1354a": {
+    "axes": [
+      "method"
+    ],
+    "positions": [
+      "dialectic"
+    ],
+    "concepts": [
+      "reason",
+      "passion",
+      "justice"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Presenta la retorica come 'il contraltare della dialettica': l'unico vero strumento persuasivo è l'entimema, non l'appello improprio a pietà o collera, che pervertirebbe il giudice come una riga di misura piegata prima dell'uso. Analizza i tre generi oratori e le prove tecniche di carattere, emozione e argomento.",
+    "summary_en": "Presents rhetoric as 'the counterpart of dialectic': the only genuine instrument of persuasion is the enthymeme, not improper appeals to pity or anger, which would pervert the judge like a warped measuring rule. It analyses the three genres of oratory and the technical proofs of character, emotion and argument.",
+    "atoms": {
+      "006_Book_I": {
+        "concepts": [
+          "eudaimonia",
+          "virtue",
+          "beauty"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "008_Book_I": {
+        "concepts": [
+          "utility_pleasure",
+          "phronesis",
+          "four_causes"
+        ]
+      },
+      "022_Book_II": {
+        "concepts": [
+          "anger"
+        ]
+      },
+      "023_Book_II": {
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "034_Book_II": {
+        "positions": [
+          "dialectic"
+        ]
+      },
+      "042_Book_III": {
+        "concepts": [
+          "anger"
+        ],
+        "figures": [
+          "thrasymachus"
+        ]
+      },
+      "046_Book_III": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "051_Book_III": {
+        "axes": [
+          "method"
+        ]
+      }
+    }
+  },
+  "Rhetoric_to_Alexander_1420a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "reason"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Manuale retorico spurio (forse di Anassimene di Lampsaco) organizzato attorno a tre generi oratori e ai loro mezzi di prova diretti e supplementari; guida pratica alla composizione del discorso più che opera speculativa.",
+    "summary_en": "Spurious rhetorical manual (perhaps by Anaximenes of Lampsacus) organized around three genres of oratory and their direct and supplementary means of proof; a practical guide to speech composition rather than a speculative work.",
+    "atoms": {
+      "001_PREFACE": {
+        "figures": [
+          "aristotle",
+          "socrates"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "007_DE_RHETORICA_AD_ALEXANDRUM": {
+        "concepts": [
+          "reason",
+          "education",
+          "law"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "epistle"
+        ]
+      },
+      "011_DE_RHETORICA_AD_ALEXANDRUM": {
+        "axes": [
+          "method"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "013_DE_RHETORICA_AD_ALEXANDRUM": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "anger"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "016_DE_RHETORICA_AD_ALEXANDRUM": {
+        "axes": [
+          "method"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "017_DE_RHETORICA_AD_ALEXANDRUM": {
+        "axes": [
+          "method"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "024_DE_RHETORICA_AD_ALEXANDRUM": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "law",
+          "justice",
+          "custom"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      }
+    }
+  },
+  "Sense_and_Sensibilia_436a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "soul",
+      "experience"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Continuazione del De Anima dedicata ai sensi e ai loro oggetti comuni agli animali: esamina tatto, gusto, olfatto, udito e vista, il loro ruolo nella nutrizione e nella conservazione, e la loro funzione nella generazione della conoscenza.",
+    "summary_en": "A continuation of the De Anima devoted to the senses and their objects common to animals: it examines touch, taste, smell, hearing and sight, their role in nutrition and self-preservation, and their function in generating knowledge.",
+    "atoms": {
+      "006_intero": {
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "008_intero": {
+        "concepts": [
+          "cause",
+          "act_potency"
+        ]
+      },
+      "010_intero": {
+        "concepts": [
+          "soul",
+          "memory"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      }
+    }
+  },
+  "Sophistical_Refutations_164a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "reason"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Ultimo trattato dell'Organon: distingue i ragionamenti genuini dalle confutazioni sofistiche, che sembrano valide ma non lo sono, e cataloga i tipi di fallacia, in particolare quelle che dipendono dall'ambiguità dei nomi rispetto all'infinità delle cose.",
+    "summary_en": "The last treatise of the Organon: it distinguishes genuine reasoning from sophistical refutations, which appear valid but are not, and catalogues the types of fallacy, especially those arising from the ambiguity of names relative to the infinity of things.",
+    "atoms": {
+      "017_intero": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      }
+    }
+  },
+  "The_Situations_and_Names_of_Winds_973a": {
+    "axes": [],
+    "positions": [],
+    "concepts": [
+      "nature"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Brevissimo glossario spurio che elenca i nomi locali dei venti presso diverse città e regioni del mondo greco e la loro provenienza geografica: opera compilativa senza contenuto filosofico proprio.",
+    "summary_en": "Very short spurious glossary listing the local names of winds across different cities and regions of the Greek world and their geographical origin: a compilatory work with no philosophical content of its own.",
+    "atoms": {
+      "001_INTRODUCTION": {
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "002_THE_SITUATIONS_AND_NAMES_OF_WINDS": {
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      }
+    }
+  },
+  "Topics_100a": {
+    "axes": [
+      "method"
+    ],
+    "positions": [
+      "dialectic"
+    ],
+    "concepts": [
+      "reason"
+    ],
+    "arguments": [],
+    "figures": [],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "lyceum"
+    ],
+    "summary_it": "Manuale di ragionamento dialettico: definisce il ragionamento dialettico come quello che procede da opinioni generalmente accettate (endoxa), lo distingue dalla dimostrazione scientifica e dal ragionamento contenzioso, e fornisce i 'luoghi comuni' (topoi) per argomentare su qualunque problema.",
+    "summary_en": "Manual of dialectical reasoning: it defines dialectical reasoning as that which proceeds from generally accepted opinions (endoxa), distinguishes it from scientific demonstration and from contentious reasoning, and supplies the 'commonplaces' (topoi) for arguing about any problem.",
+    "atoms": {
+      "007_Book_I": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic",
+          "induction"
+        ]
+      },
+      "009_Book_II": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "010_Book_II": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic",
+          "induction"
+        ]
+      },
+      "013_Book_II": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "induction",
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "017_Book_III": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ]
+      },
+      "018_Book_III": {
+        "axes": [
+          "method",
+          "universals"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "022_Book_IV": {
+        "axes": [
+          "method",
+          "universals"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "025_Book_IV": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "036_Book_VI": {
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "043_Book_VI": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "044_Book_VI": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ]
+      },
+      "049_Book_VIII": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic",
+          "induction"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "050_Book_VIII": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic",
+          "induction"
+        ]
+      },
+      "051_Book_VIII": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "052_Book_VIII": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "056_Book_VIII": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      }
+    }
+  }
 }

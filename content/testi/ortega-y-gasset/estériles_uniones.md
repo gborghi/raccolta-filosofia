@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Unsigned editorial (El Sol, 1919) against the attempt to reunite the liberal leaders: uniting two often means separating four, and great parties are «masonry of another age», impossible now that public quarrels are complex and multiform. Political journalism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

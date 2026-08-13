@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An unsigned Easter editorial (El Sol, 1920): while the Resurrection bells ring, Spanish politics stays nailed to its own calvary, and keeping the status quo is the greatest madness. Occasional political commentary.
 

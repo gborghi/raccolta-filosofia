@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Parliamentary reply to the speeches attacking his intervention on the Catalan Statute; the sample is taken up almost entirely by his answer to deputy Hurtado's personal attack, which sought in Ortega's family and «blood» the explanation of his opinions. Parliamentary polemic.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +78,7 @@ E quel di più, di cui devo parlare, non ha già carattere personale e si riferi
 
 Ed ecco che, voglia o no, per rispondere ai miei avversari mi vedo obbligato a parlare, una volta di più, sul tema «sovranità», perché non posso ammettere che restino a zavorra nel Diario delle Sedute idee sorprendenti, che sono state opposte alle mie, senza procurare di lasciarvi qualche compensazione; ma mi importa far notare, innanzitutto, il fatto che quanto io parlai di sovranità viene a occupare in quel Diario cinque o sei righe nulla più e, nondimeno, quelle righe, povere e poche, hanno avuto la virtù di proliferare in dilungate dissertazioni dottrinali sul tema.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state"></span>
 
 Hablemos, pues, un poco de soberanía; pero advierto que entro en el tema con gran temor, porque, como en tantas otras, en [materia](/positions/materialism) de Derecho mi ignorancia es tal, que no es fácil hallarle las riberas; mas se trata de cuestión de tal modo elemental, que es ilícito no poseer idea clara sobre ella desde que se entra por esa puerta. Tomemos, por tanto, el problema de soberanía en la forma más clara, más concreta en que frecuentemente se suele presentar; esto es, cuando se habla del Poder soberano.
 
@@ -162,7 +168,7 @@ In questo punto non credo che vi sia discrepanza alcuna tra unitari e federali, 
 
 Quella è la sovranità unitaria, quella è l'unità di radice storica, la solidarietà assoluta (qui sì che la parola viene bene), la solidarietà assoluta degli spagnoli dinanzi alla vita e alle sue vicissitudini.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state"></span>
 
 Pero esta voluntad compacta, unitaria, en que se toman las resoluciones esenciales, puede muy bien imaginarse que se divide y se quiebra en trozos y queda disociada en innumerables y pequeñas colectividades, cada una de las cuales resuelve por sí, aparte, independiente e insolidariamente. Éste es el deseo del federalismo: que en vez de una raíz sola y total haya muchas raíces pequeñas, independientes, de las cuales la unidad nacional surge por un pacto subsecuente. Es decir, que la unidad nacional se forma por las ramas y no por la raíz. Frente a aquella unidad nacional, incondicionada y previa, los federales nos proponen una unidad nacional condicionada, contractual, paccionada, secundaria y por lo mismo problemática. Hay perfectamente derecho, hay estricta licitud a preferir esta última y proclamarse federal; pero aquí no se trata de si el señor Franchy o el señor Valle tienen ideas federales, ni de si yo tengo ideas unitarias; eso no interesa tal vez ni siquiera a nuestras respectivas familias. Lo que importa aquí, lo que constituye la última y decisiva sustancia del problema político que debatimos, aunque haya tanto empeño en difuminar su expresión auténtica, es averiguar si la inmensa mayoría del pueblo español sigue resuelta a ser esa voluntad unitaria, a convivir en soberanía indivisa con aquéllos con quienes ha convivido hasta aquí, a resolver junto con ellos, con todos ellos, sus problemas esenciales, y si, por querer eso, no admite oscuridad, confusión y equívoco alguno en cuanto afecte o, aun de lejos, amenace a la unidad de esa soberanía. Ésa es la posición. (Muy bien, muy bien).
 
@@ -210,7 +216,7 @@ Ma nulla di ciò che dico ora né tanto meno ciò che dissi nel discorso a cui m
 
 Non tollero, dunque, che né a me né a nessuno si ci presenti come nemici delle aspirazioni catalane, perché discutiamo sullo Statuto catalano; poiché accade che, salvo qualche piccolo angolo della Camera, in realtà qui nessuno ha discusso lo Statuto, ma ha discusso sullo Statuto, tale o talaltro articolo dello Statuto. Ma ciò che non vale è, dinanzi a questo modo di collaborare, che è discutere, lanciare una ragione tanto difficilmente digeribile come una che emise il signor Hurtado nel suo discorso, quando diceva: «Io vedo che qui si alza un signore e dice: Io sono molto autonomista, ma tale funzione credo che non debba essere consegnata alla regione autonoma; e un altro signore che si alza, e aggiunge: Io pure sono molto autonomista, ma tale altra funzione non deve essere delegata alla regione»; e così, sommando le funzioni che ciascuna di queste persone che intervengono andavano sottraendo allo Statuto, presenta il signor Hurtado uno Statuto vuoto di funzioni. E questa è una ragione che crede il signor Hurtado che la Camera possa aver udito, non dirò con compiacenza, ma con piena tranquillità interiore, quando è una ragione inferiore che, per essere detta così, implicherebbe un'idea della capacità di ingoiare della Camera, come se essa potesse ingurgitare tutto ciò che le si getta, tanto la squisitezza quanto l'inane. Ah, no! Naturalmente! Ciascuno di quelli che qui abbiamo parlato forse abbiamo discusso l'una o l'altra funzione di quelle che lo Statuto implica; ma il signor Hurtado, invece di avere sommato ciò che ciascuno di questi che hanno parlato sottrae a ciò che l'altro sottraeva, ha dovuto presentare ciò che ciascuno di noi crede che debba, in effetti, portare la Catalogna nel suo nuovo Statuto e nella sua nuova vita.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state"></span>
 
 Pero hay algo más todavía. Cualquiera creería que discutir la autonomía —y éste era el fundamento de lo que el señor Hurtado nos proponía pensar— implicaba no ser autonomista. Pues bien; yo quisiera que imaginásemos de pronto al señor Hurtado exento de toda hostilidad, de toda discrepancia por nuestra parte, sin que nadie le discutiese, solo, mano a mano, con el concepto abstracto y genérico de autonomía, a ver cómo de ese concepto abstracto y genérico podía él fabricar una figura concreta de autonomía sin discutir el señor Hurtado consigo mismo. Porque se encontraría con una cantidad ilimitada de funciones empíricamente reunidas, entre las cuales tendría que elegir para construir el perfil de una auténtica, plena, concreta autonomía. (Muy bien).
 
@@ -264,7 +270,7 @@ Sul bilinguismo già parlai, sebbene converrebbe aggiungere che il bilinguismo, 
 
 Quanto al progetto di Finanza, nel quale non entrerò, com'è naturale, ora, devo dire una cosa. Il signor Presidente del Consiglio, reiteratamente, con soddisfacente saturazione, parlava nel suo discorso di che lo Stato spagnolo costituito è uno Stato unitario; ma poi risultava che presentandoci il progetto di Finanza regionale, doveva riconoscere che era precisamente il modo di dislocare le Finanze caratteristico dei paesi più federali. Quale unità di Stato è quella? Sarebbe uno Stato unitario di pelle e federalissimo di viscere. Io credo che questo sia un punto in cui il Governo deve applicare quella flessibilità che ci si annunciava nelle parole del suo Presidente.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state"></span>
 
 Es preciso, señores, que, al terminar esta discusión del Estatuto, podamos volvernos todos al país —todos: por tanto, no sólo vosotros, sino también nosotros— podamos volvernos todos al país y gritarle a voz en cuello, con esa plenitud de convicción que hace que las palabras llenen las gargantas: «Cataluña ha recibido la autonomía, una amplia autonomía, a la que tiene perfecto derecho, la cual, en lo esencial, y cualesquiera que fueren las dificultades que en una u otra ocasión se produzcan, será de gran fecundidad para España. Porque el problema catalán es un problema español, y España tiene que acogerlo con más entusiasmo, cuanto más nacionalmente sienta las cosas. Pero, pueblo español, como tú no entiendes, ni tienes obligación de entender de complicaciones jurídicas, y sientes, muy justificadamente, con certero instinto, inquietud por algo que te importa más que todo, por algo que es esa unidad de raíz, esa unidad de soberanía, de convivencia profunda con todos los pueblos españoles, nosotros te decimos que no hay equívoco, ni confusión, ni oscuridad ninguna en ese punto, sino que esa unidad de soberanía, esa comunidad de Estado entre todos los pueblos españoles queda intacta y como siempre». Señores, que decir esto sea posible es lo único que ardientemente deseo. (Muy bien. Aplausos en distintos lados de la Cámara).
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A critical examination of Scheler's study on the ethics of war. Ortega quotes Scheler's argument (war is not butchery because it does not negate the individual person, it is aimed at states, and it rests on a chivalric principle: killing without hatred) and judges it handled with pathetic levity precisely at its problematic core — man's killing of man.
+
+## Connections
+
+**Concetti:** [[concepts/death|morte]], [[concepts/justice|giustizia]], [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +85,7 @@ Parimenti era importante accentuare che non ogni guerra è di interessi, ma che 
 
 Ma non c'è dubbio che Scheler incide nella cecità opposta. Parla come un predicatore, come un avvocato. Fissandosi soltanto sul carattere spirituale della guerra, sfuma o sottrae il suo elemento di violenza. E questo è precisamente ciò che si sarebbe dovuto mettere in chiaro. Il problema della guerra è il problema della violenza. Ma né Scheler né i pacifisti al uso lo riconoscono così. Scheler no, perché, secondo quanto abbiamo visto, dichiara formalmente che l'esercizio della violenza non è il nucleo della guerra. Per i pacifisti no, perché la guerra è solo violenza. E poiché questo è falso, la loro opera risulta per completo inefficace.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/death,concepts/justice,concepts/law,forms/essay"></span>
 
 Frente a Scheler yo diría: hay, en efecto, en la guerra[71] un motor biológico y un impulso espiritual que son altos valores de humanidad. El ansia de dominio, la voluntad de que lo superior organice y rija a lo inferior, constituyen dos soberanos ímpetus morales. Pero si en la guerra hay eso, la guerra no es eso. Reducido el fenómeno bélico a esos términos, todo era llano para Scheler, y, en realidad, no habría cuestión. Si la bacía de barbero, que tiene algo de yelmo, no fuera sino yelmo, nadie disputaría. La conciencia de los propios derechos, la energía para hacerlos respetar, el anhelo de extender la esfera de influencia de nuestra persona no merecen sino loa. Pero eso no se hace sólo en la guerra: la paz no es tan pacífica como Scheler dice. Las concurrencias económicas, de ideales políticos, artísticos, etcétera, etcétera, son manifestaciones de aquellos mismos impulsos. No sólo con la espada en la mano se aspira a ejercer influencia sobre los demás, sino con la pluma en esa misma mano. No sólo en la trinchera, sino en la conversación, en todas las formas del trato social y de la producción intelectual e industrial. El poderío espiritual y la guerra no son, por tanto, una misma cosa. Aquél se produce y mide en innúmeras maneras, y es un hecho que la esfera de dominio lograda antes de esta guerra por Alemania no sólo a la de 1870 es debida, sino al respeto que su prodigiosa labor científica y administrativa ha suscitado.
 
@@ -174,7 +181,7 @@ Che sia giusta una guerra difensiva, nessuno lo nega. Ma è così chiaro quel co
 
 È questo vero? Si può vedere nelle battaglie ciò che Scheler, fin troppo frettolosamente, chiama il giudizio di Dio?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/death,concepts/justice,concepts/law,forms/essay"></span>
 
 Éste es el punto decisivo. A vueltas de deplorables apasionamientos, que un día avergonzarán al autor, el libro de Scheler nos da ocasión mejor que ningún otro a una seria meditación sobre el hecho bélico. Tiene la ventaja sobre los libros pacifistas de que, intentando la apología de la guerra, nos hace ver las profundas raíces que ésta posee dentro de la cultura. Los mejores amigos de ella son los que no quieren atribuir los conflictos armados más que a causas frívolas. Por otra parte, tiene la obra de Scheler, sobre las usuales apologías de la guerra, la ventaja de reconocer en la ética —según hemos visto—, la última instancia que ha de sentenciar sobre su porvenir. Yo lo creo, asimismo, y acepto el pleito en los términos de planteamiento que Scheler le da, a saber: la guerra es el único medio, la única institución capaz de conocer en ciertos derechos. ¿Por qué? Porque el sujeto de esos derechos, el Estado, sólo en la guerra puede manifestar plenamente su capacidad jurídica[74].
 

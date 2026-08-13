@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A pedagogical lecture: the horse-breeder against Antisthenes shows the Platonic idea is real and operative; but man is not a biological individual, since physics itself is a metaphysical fact. To educate is to educate the inner man, not the anthropoid.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]], [[assi/universals|Universali]]  
+**Posizioni:** [[positions/realism_of_ideas|realismo delle idee]]  
+**Concetti:** [[concepts/education|educazione]], [[concepts/idea|idea]], [[concepts/nature|natura]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

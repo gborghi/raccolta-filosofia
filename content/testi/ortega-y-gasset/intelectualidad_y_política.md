@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A polemical reply to a count: ideally intellectuals would stay out of politics, but if they enter it they must do so as intellectuals, with the rigour and reservations of their craft, not borrowing party jargon. An occasional article on the writer's role.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Under an epigraph from Plotinus on Longinus ("a philologist, but no philosopher at all"), Ortega comments phrase by phrase on an imaginary but typical letter endorsing a Catholic meeting against secular schools. He mocks its "multiplicity of consciences" — religious, social and scientific — by invoking the medieval doctrine of double truth, and attacks the claim to erect spiritualist philosophy as the type of intellectual nobility.
+
+## Connections
+
+**Assi:** [[assi/faith_reason|Fede e ragione]]  
+**Concetti:** [[concepts/faith|fede]], [[concepts/religion|religione]], [[concepts/education|educazione]], [[concepts/revelation|rivelazione]]  
+**Figure:** [[figures/leibniz|Leibniz]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -138,7 +147,7 @@ Quanto alla parola Teodicea… Precedono due esempi dello stile reticente in cui
 
 Restiamo d'accordo che gli ascoltatori del meeting applaudano la pedagogia basata sulla Teodicea. Si aprano, dunque, in ogni quartiere scuole dove si preparino i nuovi cuori, secondo la Teodicea di Spinoza, Voltaire, Lessing, Rousseau, Kant, Hegel, Strauss (giovane), Renan, eccetera. O forse queste genti non portano il sigillo della nobiltà intellettuale? O forse queste genti non crearono una Teodicea? Forse gli ascoltatori del meeting non contavano che le più sapienti e nobili Teodicee moderne sono Teodicee senza Dio, come le più certe psicologie sono psicologie senza anima.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/faith_reason,concepts/faith,concepts/religion,concepts/education,concepts/revelation,figures/leibniz,forms/essay"></span>
 
 Y ¿qué diríamos si tras de un párrafo tan peregrino, que por respeto anticipado no copio, la carta añadiese esto?:
 

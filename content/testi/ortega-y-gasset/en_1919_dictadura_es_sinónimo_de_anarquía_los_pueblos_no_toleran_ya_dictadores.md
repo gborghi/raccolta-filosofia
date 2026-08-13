@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Op-ed against calls for dictatorship in the Madrid press: in 1919 dictatorship equals anarchy, peoples no longer tolerate dictators; also criticizes Primo de Rivera and the claim of the military as a caste. Political text.
+> The digest records 1,239 words but zero atoms and no sample: the text cannot be inspected. The title indicates a 1919 article against dictatorship, but the content is unverifiable.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

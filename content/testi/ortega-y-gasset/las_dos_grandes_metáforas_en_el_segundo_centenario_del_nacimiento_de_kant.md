@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Essay for Kant's bicentenary defending metaphor as an indispensable instrument of scientific thought and distinguishing its uses; it moves toward analysing the great metaphors of knowledge, from Plato to Kant.
+> FLAG: the digest declares 5,736 words but 0 atoms and gives no prose sample at all. The title indicates an essay for Kant's second centenary on the two great metaphors, but nothing can be judged from the text, and it is not tagged from the work's reputation.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

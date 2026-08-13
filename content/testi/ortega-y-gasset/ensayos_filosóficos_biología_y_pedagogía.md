@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Only the dedication to Domingo Barnes opening the collection: a note on pedagogues lagging behind recent science. The sample does not contain the essays' text.
+> An 80-word entry with no sample in the digest: from the title it appears to be a section heading or half-title ("Philosophical essays — Biology and pedagogy"), not a standalone text.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

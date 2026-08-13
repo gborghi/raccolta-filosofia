@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review of Azorín's Lecturas españolas. Ortega reproaches the author for his four years of conservative politics and reads the book's perfection as the fruit of a repairing anguish, invoking the Greek aesthetic in which all aesthetic perfection is a perfecting of oneself, katharsis. There follows an analysis of Azorín's art as a suspension of the movement of things, an artifice akin to that of painting. Literary criticism.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]], [[concepts/katharsis|katharsis]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ Del medesimo modo scriveva pochi giorni fa la più alta autorità nella filologi
 
 Così accade con tutte le cose, siano materiali, siano spirituali: ciascuna ha un lato debole, e soltanto uno, per il quale può essere appresa intellettualmente e ridotta alla domesticità scientifica. Dare con questo segreto è la vera scienza, benché i gesti e la forma in cui si scopra sembrino frivoli e leggeri.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,concepts/katharsis,forms/essay"></span>
 
 La historia de España, según todos reconocen y yo he oído a los maestros de ella, no ha llegado aún a ese estadio. Salvo en cuestiones parciales de derecho y de lingüística, es el pasado de España tierra incógnita, de topografía insospechada. No obstante, se ha acumulado, libro sobre libro, una gran biblioteca de historiografía nacional. En general, las obras que la componen se hallan totalmente remotas del carácter científico. Padecen una noción de la historia sobremanera anticuada: entienden la historia como panegírico. Sus autores han sido llevados a tan ímproba y benemérita labor por un heroico amor a la patria. ¡Cosa más triste! No han conseguido su propósito. Y es que para construir la historia de España es más conveniente un amor a España modesto y sin pretensiones, y luego un heroico amor a la ciencia histórica. ¿Quiere decírsenos, en otro [caso](/concepts/fortune), qué se le había perdido a Mommsen en Roma?
 

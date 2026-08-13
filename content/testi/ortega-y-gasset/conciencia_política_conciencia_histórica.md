@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Article arguing that alongside moral conscience there is a political (=historical) conscience, a sensibility for what is historically necessary; in History only the authentic triumphs. Brief political reflection.
+> A short text (278 words) with no sample in the digest: the title counterposes political and historical consciousness, but the content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

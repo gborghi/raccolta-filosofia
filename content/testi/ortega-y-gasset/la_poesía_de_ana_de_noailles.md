@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review of Les forces éternelles: the Countess de Noailles weaves and reweaves the same book around love and death. Ortega judges her eroticism monotonous and not spiritual but vegetal — the soul of a plant, all atmospheric sensation: "it is not properly love, it is voluptuousness". Literary criticism.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -378,7 +385,7 @@ Fino a che punto può albergare la donna la genialità lirica? La questione è p
 
 Orbene: queste condizioni si danno solo nel maschio. Solo nell'uomo è normale e spontaneo quell'ardore di dare al pubblico il più personale della sua persona. Tutte le attività storiche del sesso maschile nascono da questa sua condizione essenzialmente lirica. Scienza, politica, creazione industriale, poesia, sono mestieri che consistono nel dare al pubblico anonimo, nel disperdere nel contorno cosmico ciò che costituisce l'energia intima di ogni individuo. La donna, al contrario, è nativamente occultante. Il contatto con il pubblico, con l'intorno innominato, produce automaticamente nella donna normale un cauto ermetismo. Davanti a «tutti», l'anima femminile si chiude verso l'interno. In cambio, riserva la sua intimità a uno solo. Al contrario dell'uomo, il quale, nella relazione privata o individuale con un altro simile —una donna o un altro maschio— è sempre insincero, goffo e insignificante. È vano opporsi alla legge essenziale e non meramente storica, transitoria o empirica che fa del maschio un essere sostanzialmente pubblico e della donna un temperamento privato. Ogni tentativo di sovvertire quel destino termina in fallimento. Non è caso che la massima annichilazione della [norma](/concepts/law) femminile consista nel fatto che la donna si converta in «donna pubblica», e che la perfezione della missione maschile, il tipo più alto di esistenza maschile, sia l'«uomo pubblico».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Ese mecanismo de sinceridad que mueve al lirismo, ese arrojar fuera lo íntimo es en la mujer siempre forzado, y si es efectivo, si no es una ficticia confesión, sabe a cínico. Conviene a este propósito recordar que ha habido un género literario donde sólo han descollado mujeres y donde siempre el hombre ha fracasado: el género epistolar. Es él la única forma privada de la literatura, y, como tal, estaba predispuesto para la mujer. En cambio, el hombre no acierta a escribir cartas porque, sin darse cuenta, convierte al corresponsal en todo un público y hace ante él gestos de escenario. Cuando se da el [caso](/concepts/fortune) de que una mujer posea facilidad y gracia bastantes para transmitir a la muchedumbre su secreto personal de una manera convincente y auténtica, nuestra desilusión llega al extremo. Porque entonces descubrimos que esa intimidad femenina, tan deliciosa bajo la luz de un interior, puesta al aire libre resulta la cosa más pobre del mundo. La personalidad de la mujer es poco personal, o, dicho de otra manera, la mujer es más bien un género que un individuo. Me parece vano querer cegarse ante esta evidente realidad, que explica tan bien la labor de la mujer en la historia y la perpetua mala inteligencia interpuesta entre ambos sexos. Ello es que la mejor lírica femenina, al desnudar las raíces de su alma, deja ver la monotonía del eterno femenino y la exigüidad de sus ingredientes.
 

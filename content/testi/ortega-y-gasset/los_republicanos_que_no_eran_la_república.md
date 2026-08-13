@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Political column: those who governed the first two years were not truly republican; they preferred spectacular, archaic gestures to the deep transformations the regime would produce by itself. Topical commentary.
+> A very short piece (262 words) for which the digest provides no prose sample. The title alone suggests an intervention on Spanish republican politics, but the content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

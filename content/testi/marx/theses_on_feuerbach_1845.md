@@ -12,8 +12,19 @@ tags:
   - "philosopher/marx"
 ---
 
+*Marx*
+
 > [!abstract]
 > Eleven theses (1845) opposing Feuerbach's contemplative materialism with revolutionary praxis: the human essence as the ensemble of social relations and the task of changing the world.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/god|Dio]], [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/materialism|materialismo]], [[positions/historical_materialism|materialismo storico]], [[positions/idealism|idealismo]]  
+**Concetti:** [[concepts/religion|religione]], [[concepts/alienation|alienazione]]  
+**Figure:** [[figures/feuerbach|Feuerbach]]  
+**Forme:** [[forms/aphorism|aforisma]]  
+**Scuole:** [[schools/historical_materialism_school|materialismo storico]]
 
 <p class="work-source">Traduzione di Carl Manchester · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -75,3 +86,59 @@ The standpoint of the old materialism is “bourgeois” society; the standpoint
 XI
 
 Philosophers have only interpreted the world in different ways. What is crucial, however, is to change it.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tradotto da Carl Manchester
+
+I
+
+La principale carenza, finora, in tutti i [materialismi](/positions/materialism) – compreso quello di [Feuerbach](/figures/feuerbach) – consiste nel fatto che l’oggetto esterno, la realtà e la sensibilità vengono concepiti soltanto nella forma dell’oggetto stesso e della nostra contemplazione di esso, piuttosto che come attività umana sensibile e come pratica, cioè come qualcosa di non soggettivo. Per questa ragione, l’aspetto attivo è stato sviluppato dall’[idealismo](/positions/idealism), in opposizione al materialismo, sebbene solo in modo astratto, poiché l’idealismo naturalmente non conosce l’attività reale e sensibile per ciò che essa realmente è. Feuerbach desidera oggetti sensibili, chiaramente distinti dagli oggetti mentali, ma non concepisce l’attività umana in termini di soggetto e oggetto. Ecco perché, ne “L’essenza del cristianesimo”, considera autenticamente umana soltanto l’attività teorica, mentre la pratica viene concepita e definita esclusivamente nella sua manifestazione “sporca” e giudaica. Per questo motivo non comprende il significato di “rivoluzionario”, né quello dell’attività pratico-critica.
+
+II
+
+La domanda se alla riflessione umana si possa attribuire una verità oggettiva non è una questione teorica, ma pratica. L’uomo deve dimostrare nella pratica la veridicità – cioè la realtà e l’efficacia, il carattere concreto e concretizzante – della propria riflessione. Isolata dalla pratica, la controversia sulla realtà o sull’irrealtà del pensiero diventa una questione puramente accademica.
+
+III
+
+La dottrina materialista secondo cui gli esseri umani sono il prodotto delle circostanze e dell’educazione ricevuta, e che quindi gli uomini che cambiano siano il risultato di nuove circostanze e di un diverso ambiente educativo, dimentica che le circostanze stesse vengono modificate dagli esseri umani. Inoltre, è fondamentale educare coloro che hanno il compito di educare gli altri. Di conseguenza, questa dottrina divide inevitabilmente la società in due parti, una delle quali viene considerata “superiore” alla società stessa (come si evince ad esempio nell’opera di Robert Owen).
+
+La coincidenza, da un lato, di circostanze in cambiamento e, dall’altro, di attività umane o processi di autodeterminazione individuale, può essere concepita soltanto come pratica rivoluzionaria e compresa razionalmente.
+
+IV
+
+Feuerbach parte dal fatto dell’alienazione religiosa e dalla duplicazione del mondo in un mondo religioso immaginario e in un mondo reale. Il suo lavoro consiste nel ridurre il mondo religioso alle sue basi secolari. Tuttavia, trascura il fatto che, una volta completato questo compito, rimane ancora da svolgere la tappa fondamentale: dimostrare come le basi secolari del mondo religioso si separino da esso stesso e si trasformino in un regno indipendente. Questo fenomeno può essere spiegato soltanto attraverso l’auto-negazione e l’auto-contraddizione presenti al suo interno. È necessario innanzitutto comprendere queste contraddizioni nel loro contesto specifico, per poi rivoluzionarle eliminandole. Ad esempio, una volta scoperto che la famiglia terrena rappresenta il segreto della “famiglia sacra”, è indispensabile criticarla teoricamente e rovesciarla praticamente.
+
+V
+
+Feuerbach, insoddisfatto del pensiero astratto, ricorre all’intuizione sensoriale; tuttavia non concepisce il regno dei sensi in termini di attività sensuale pratica e umana.
+
+VI
+
+Feuerbach riduce l’essenza religiosa all’essenza umana. Tuttavia, l’essenza umana non è un’astrazione intrinseca a ogni singolo individuo; nella sua realtà, essa rappresenta l’insieme delle condizioni sociali.
+
+Feuerbach, che non si impegna in una critica di questa essenza reale, è quindi costretto a.
+
+1. Estrarre il sentimento religioso dal processo storico, considerarlo come entità separata e presupporre l’esistenza di un individuo umano astratto e isolato.
+
+2. Per questo motivo, può considerare l’essenza umana soltanto come un “genere”, come una generalità interna e silenziosa che naturalmente unisce la molteplicità degli individui.
+
+VII
+
+Pertanto, Feuerbach non si rende conto che il “sentimento religioso” è esso stesso un prodotto sociale, e che l’individuo astratto che analizza appartiene in realtà a una determinata forma sociale.
+
+VIII
+
+La vita sociale è essenzialmente pratica. Tutti i misteri che portano la teoria verso il misticismo trovano la loro soluzione razionale nella pratica umana e nella comprensione di tale pratica.
+
+IX
+
+Il punto più alto raggiunto dal materialismo intuitivo – cioè da quel tipo di materialismo che non comprende l’attività dei sensi come attività pratica – è la prospettiva degli individui singoli all’interno della “società borghese”.
+
+X
+
+Il punto di vista dell’antico materialismo riguarda la società “borghese”; il punto di vista del nuovo materialismo riguarda la società umana, ovvero l’umanità socializzata.
+
+XI
+
+I filosofi hanno soltanto interpretato il mondo in modi diversi. Quello che è davvero importante, tuttavia, è cambiarlo.

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review of Antonio Machado's Campos de Castilla: after Rubén Darío, who rehabilitated poetic material, the soul of the verse must be revived, and Ortega sees in Machado the beginning of this new poetry. In passing he defends Plato (no fugitive from the sensible world) on the poet's necessary education of the senses. Literary criticism.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An autobiographical political article: Ortega lists, with dates and titles, his critical interventions on the Republic from May 1931 on, to make clear who the citizen now shouting '¡Viva la República!' is. Journalism and self-defence, with no philosophical content.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

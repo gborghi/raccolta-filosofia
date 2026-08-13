@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against the imperative of partisanship, judged one of the age's basest diseases: those who rage at whoever stands au-dessus de la mêlée have never thought anything for themselves and boarded their party as one boards a bus, to rest from themselves. Hence the theoretical core: to 'who are you?' one answers 'my body and my soul', but body and soul are things one found oneself with, means like one's clothes or one's nation; I am the one who has to live with all that, and to say we are matter or spirit is to utter myths.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/soul_body|Anima e corpo]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]]  
+**Concetti:** [[concepts/soul|anima]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +87,7 @@ L'«io» del lettore è, per lo pronto, un progetto di vita. Ma non si tratta di
 
 Siamo il nostro Destino, siamo progetto irrimediabile di una certa esistenza. In ogni istante della vita notiamo se la sua realtà coincide o no col nostro progetto, e tutto ciò che facciamo lo facciamo per dargli compimento. Perché così come quel progetto che siamo non consiste in un piano liberrimamente disegnato dalla nostra fantasia, nemmeno si trova lì, come questo, attenuto al nostro buon desiderio di compierlo o no. Lungi da ciò, è un progetto che per se stesso si proietta sulla nostra vita, che la preme rigorosamente perché impone la sua esecuzione. Per questo dicevo io prima: il lettore è quello che deve vivere una certa vita.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,assi/soul_body,positions/radical_reality_of_life,concepts/soul,forms/essay"></span>
 
 Pero la vida no es sólo nuestro «yo», sino que es también el mundo en que ese yo tiene que realizarse. El proyecto es un programa de actuación en el mundo y tropieza, por lo tanto, con lo que éste sea. Más o menos, siempre hallará dificultades. Y aquí aparece la otra dimensión de nuestro yo. ¿Aceptamos ese proyecto que somos no obstante las dificultades que se oponen a su ejecución? O, por el contrario, ¿decidimos en éste, en el otro [caso](/concepts/fortune), traicionar al que tenemos que ser, renunciando a soportar los enojos que nos traiga? Es decir, que si somos un proyecto vital, somos también, inseparablemente, el que decide o no su aceptación. Esta decisión es previa a todo acto de voluntad. Hay quien inequívocamente acepta su destino, su ser, pero se encuentra mal dotado de voluntad. Yo decido no fumar porque perjudica mi salud y estorba mi trabajo, que es mi destino. Mi decisión es plena y auténtica. Sin embargo, sigo fumando porque mi voluntad es débil. Nuestro idioma habla muy agudamente del hombre «decidido», que es cosa muy distinta del hombre dotado con fuerte voluntad. El «decidido» es el que está, desde luego e íntegramente, puesto a su destino, que lo ha aceptado, que desde siempre y para siempre está encajado en él. Hállase, pues, por completo al servicio de aquél que tiene que ser.
 
@@ -156,7 +165,7 @@ Quali che siano gli antecedenti e germi di essa[72], sembra certo che fino al se
 
 Senza dubbio, la lotta intestina è un fatto frequentissimo lungo il passato umano. Per lo stesso motivo sorprende vedere la differente reazione davanti ad esso delle une e delle altre epoche. Le anteriori lo interpretavano come una sventura e, in conseguenza, come qualcosa di anomalo e accidentale. Il secolo XIX, al contrario, fa sfoggio di non farsi illusioni, di prendere la realtà come essa è. Ma questo lo porta prima a un prurito pessimistico. Dell'accidente sventurato farà la sostanza stessa. La società sarà nella sua propria essenza lotta e niente più che lotta. Convivere è lottare —francamente o artificiosamente. Parimenti, gli psicologi di allora tentavano di convincerci che la percezione del mondo esterno consistesse in un'allucinazione consuetudinaria. In vista del fatto che spesso erriamo, consideravano la verità come un errore abituale. E così in tutto.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,assi/soul_body,positions/radical_reality_of_life,concepts/soul,forms/essay"></span>
 
 A este pesimismo en la concepción de la realidad siguió un cinismo similar en la moral. Puesto que la vida social es constitutivamente lucha —se dijo—, dediquémonos todos de manera concienzuda a luchar. Neguemos el derecho de hacer otra cosa. Y como la lucha necesita de grupos beligerantes, hagamos de éstos la forma sustantiva de existencia humana. Lo más importante del mundo será el partido, la organización sobreindividual para el combate. Los individuos no interesan, porque mueren, y es preciso perpetuar los partidos. Todo hombre será miembro de algún partido, y sus ideas y sentimientos serán partidistas. Nada de ajustarse a la verdad, al buen sentido, a lo justo y a lo oportuno. No hay una verdad ni una justicia; hay sólo lo que al partido convenga, y ésa será la verdad y la justicia —se entiende que habrá otras tantas cuantos partidos haya.
 

@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > From Goethe on Shakespeare ('he accompanies Nature') Ortega derives the love of circumstance: there are no definitive situations, but every circumstance holds a margin of perfection which is the ideal. He concludes that intelligence must now reverse the function it exercised in recent centuries, and praises the European select minorities able to follow circumstance's sudden turn.
+
+## Connections
+
+**Assi:** [[assi/end_of_life|Fine della vita]]  
+**Posizioni:** [[positions/life_as_project|vita come progetto]]  
+**Concetti:** [[concepts/reason|ragione]], [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +87,7 @@ L'intelligenza ci appare, dunque, come un'attività che è primariamente sportiv
 
 L'intelligenza non ha creato i popoli, non ha fabbricato le nazioni. È curioso notare come nelle fasi in cui le nazionalità vengono forgiate, l'intellettuale rappresenti un ruolo molto secondario. Così, nel Medioevo, i popoli dell'Occidente sono lentamente costruiti da uomini dotati con preferenza di coraggio ed emozione. Le aristocrazie primitive non eccellono per la loro intelligenza, né avevano motivo di farlo. L'opera che avevano tra le mani — fare un popolo — esige grandi dosi di carattere, tenacia e impeto, qualità che difficilmente possono eccellere nell'intellettuale.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/end_of_life,positions/life_as_project,concepts/reason,concepts/select_minority,forms/essay"></span>
 
 Evitemos nociones utópicas. Reconozcamos que cada oficio y clase social elabora un tipo humano distinto, dotado de un repertorio peculiar de virtudes y vicios. De estos tipos humanos cada cual está predispuesto para una tarea afín, y es incongruente encargar al uno que haga lo del otro. Si lo intenta, lo hará torpemente.
 

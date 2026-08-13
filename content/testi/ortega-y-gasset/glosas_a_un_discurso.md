@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A commentary on Unamuno's Bilbao speech, whose formula Ortega adopts: «freedom is the consciousness of law, and law is social», against the Manchesterian conception that made liberalism anarchist at bottom. He draws from it the need for a new far-left party built around this idea of liberty, outside the existing liberal party.
+
+## Connections
+
+**Concetti:** [[concepts/freedom|libertà]], [[concepts/law|legge]], [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ Quel partito futuro il cui avvento aneliamo, doveva, per conseguenza, riunire le
 
 Quanto al signor Unamuno, vorremmo che venisse a Madrid e qui predicasse anche la sua nuova alleanza liberale. La nostra città non ha grandi virtù; ma a dispetto di quanto le si voglia rinfacciare, continua a essere l'apparato di espansione intellettuale più potente che abbiamo in Spagna. Caratterizzare Madrid come il più ricco giacimento di frivolezza, è una sciocchezza di quelle che Unamuno, timoroso che la sua opera non sembri fin troppo perfetta, intercala per umiltà nei suoi scritti e nelle sue conferenze. Per poter affermare questo converrebbe provare prima che alcune altre capitali spagnole sono meno frivole di Madrid e soprattutto che sono più profonde. Per ventura non c'è in questa villa altra cosa che poeti assurdi? Per ventura ci sono sapienti a Salamanca o a Bilbao? È molto agevole e molto divertente, quando non si ha una nozione rigida della responsabilità intellettuale, dire la prima cosa che troviamo fluttuante sulla superficie dell'anima, resto corroso dei nostri intimi naufragi spirituali. C'è gente di carattere così poverissimo, che soltanto a forza di negazioni riesce a delineare la sua fisonomia e che avrebbe bisogno, per primeggiare, di sotterrare il resto dei suoi concittadini; Luciferi di ogni ora, che si potrebbero descrivere nel modo che Milton descrisse il primitivo, levandosi sopra l'inferno come una torre nel deserto. I costumi attuali —ha detto Sabatier non molto tempo fa— ci abituano a vedere raggrupparsi i nostri contemporanei, piuttosto secondo i loro odi, che secondo le loro ammirazioni. Questa necessità di essere un Contro-qualcuno o un Contro-qualcosa è forse il tratto più miserabile delle tendenze contemporanee.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/freedom,concepts/law,concepts/state,forms/essay"></span>
 
 No creo que Unamuno necesite de tales métodos para acusar su personalidad. Él mismo se queja de la mala educación, de la grosería ambientes. Ahora bien, decir que Madrid es más frívolo lugarón que los demás de España, sobre equivocado e indemostrable, parece una falta de educación.
 

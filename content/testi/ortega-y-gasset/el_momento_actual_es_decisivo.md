@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial on the cabinet crisis announced by Maura: if power returns to García Prieto's old politics, Spain will be driven towards revolutionary convulsions. Contingent political journalism.
 

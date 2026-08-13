@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Prologue to the first volume of El Espectador: declares the aim of an intimate work for few readers, where ideas and theories appear as the author's personal adventures. Programmatic text.
+> A 194-word item for which the digest supplies no sample: probably the title page or prefatory note of the first volume of El Espectador (1916). Content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

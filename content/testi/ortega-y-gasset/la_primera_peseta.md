@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An autobiographical recollection (1922): at nineteen, just graduated in philosophy and letters, Ortega earned nineteen duros teaching literature at two Madrid schools, and deposited them at once at the Gutenberg bookshop, where his account always exceeded his pay. An anecdote, not philosophy.
 

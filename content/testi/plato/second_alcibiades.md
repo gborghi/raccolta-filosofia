@@ -12,8 +12,16 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > Probably a spurious dialogue: Socrates warns Alcibiades, on his way to the temple to pray, of the danger of asking the gods for what one believes to be good without truly knowing it, as Oedipus did. Only philosophical wisdom makes it safe to pray at all.
+
+## Connections
+
+**Concetti:** [[concepts/wisdom|sapienza]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -340,7 +348,7 @@ SOCRATE: E li accetteresti se fossi incline a servirti di essi per un fine catti
 
 ALCIBIADE: Io non vorrei.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): You see that it is not safe for a man either rashly to accept whatever is offered him, or himself to request a thing, if he is likely to suffer thereby or immediately to lose his life. And yet we could tell of many who, having long desired and diligently laboured to obtain a tyranny, thinking that thus they would procure an advantage, have nevertheless fallen victims to designing enemies. You must have heard of what happened only the other day, how Archelaus of Macedonia was slain by his beloved (compare [Aristotle](/figures/aristotle), Pol.), whose love for the tyranny was not less than that of Archelaus for him. The tyrannicide expected by his crime to become tyrant and afterwards to have a happy life; but when he had held the tyranny three or four days, he was in his turn conspired against and slain. Or look at certain of our own citizens, — and of their actions we have been not hearers, but eyewitnesses, — who have desired to obtain military command: of those who have gained their object, some are even to this day exiles from the city, while others have lost their lives. And even they who seem to have fared best, have not only gone through many perils and terrors during their office, but after their return home they have been beset by informers worse than they once were by their foes, insomuch that several of them have wished that they had remained in a private station rather than have had the glories of command. If, indeed, such perils and terrors were of profit to the commonwealth, there would be reason in undergoing them; but the very contrary is the case. Again, you will find persons who have prayed for offspring, and when their prayers were heard, have fallen into the greatest pains and sufferings. For some have begotten children who were utterly bad, and have therefore passed all their days in misery, while the parents of good children have undergone the misfortune of losing them, and have been so little happier than the others that they would have preferred never to have had children rather than to have had them and lost them. And yet, although these and the like examples are manifest and known of all, it is rare to find any one who has refused what has been offered him, or, if he were likely to gain aught by prayer, has refrained from making his petition. The mass of mankind would not decline to accept a tyranny, or the command of an army, or any of the numerous things which cause more harm than good: but rather, if they had them not, would have prayed to obtain them. And often in a short space of time they change their tone, and wish their old prayers unsaid. Wherefore also I suspect that men are entirely wrong when they blame the gods as the authors of the ills which befall them (compare Republic): ‘their own presumption,’ or folly (whichever is the right word) —
 
@@ -544,7 +552,7 @@ SOCRATE: Chiameresti saggio colui che sa dare consigli, ma non sa se o quando si
 
 ALCIBIADE: Decisamente no.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/phronesis,concepts/state,concepts/soul,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): Nor again, I suppose, a person who knows the art of war, but does not know whether it is better to go to war or for how long?
 
@@ -732,7 +740,7 @@ SOCRATE: E non era più saggio di noi il poeta di cui ho citato dapprima le paro
 
 ALCIBIADES: Credo che tu abbia ragione.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): The Lacedaemonians, too, whether from admiration of the poet or because they have discovered the idea for themselves, are wont to offer the prayer alike in public and private, that the Gods will give unto them the beautiful as well as the good: — no one is likely to hear them make any further petition. And yet up to the present time they have not been less fortunate than other men; or if they have sometimes met with misfortune, the fault has not been due to their prayer. For surely, as I conceive, the Gods have power either to grant our requests, or to send us the contrary of what we ask.
 

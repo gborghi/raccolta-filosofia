@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A piece on the art critic Julius Meier-Graefe, an occasion to attack imperial Germany as a 'factory of falsifications': there is an imperialist science, music and painting, and German conservatives are right to fear impressionism, because in seeking the truth of one element of a culture one risks finding the truth of all the rest. Art criticism and political polemic.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Sentimental travel notes on muleback through the lands of Sigüenza and Berlanga de Duero, signed 'Rubín de Cendoya, Spanish mystic', praising the Cantar de Myo Cid and the poverty of the meseta. It includes a distinction between loving the past (rejoicing that it has passed) and traditionalism, which wants it present.
+
+## Connections
+
+**Concetti:** [[concepts/time|tempo]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -216,7 +223,7 @@ Ma pensando tutto questo e staccando con lo sguardo dalle larghe torri questo br
 
 Era un cavaliere santiagista, che uccisero i mori quando soccorreva alcuni uomini di Jaén, con l'illustre duca dell'Infantado, suo signore, sulle rive dell'acequia gorda, nella vega di Granada.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/time,forms/essay"></span>
 
 Nadie sabe quién es el autor de la escultura. Por un destino muy significativo, en España casi todo lo grande es anónimo. De todas suertes, el escultor ha esculpido aquí una de esas antítesis. Este mozo es guerrero de oficio: lleva cota de malla y piezas de arnés cubren su pecho y sus piernas. No obstante, el cuerpo revela un temperamento débil, nervioso. Las mejillas descarnadas y las pupilas intensamente recogidas declaran sus hábitos intelectuales. Este hombre parece más de pluma que de espada. Y, sin embargo, combatió en Loja, en Mora, en Montefrío bravamente. La historia nos garantiza su coraje varonil. La escultura ha conservado su sonrisa dialéctica. ¿Será posible? ¿Ha habido alguien que haya unido el coraje a la dialéctica?
 

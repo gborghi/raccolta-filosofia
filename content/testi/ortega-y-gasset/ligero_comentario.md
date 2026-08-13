@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > From two sentences of Primo de Rivera — "the Dictatorship is beginning to wear out" and "its enormous strength is that it can set its own terms for handing over power" — both true, Ortega draws a third truth: it is national reality that is contradictory, since the worn-out government faces no concrete opinion at all, only nothingness, and must create its own successor out of nothing.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

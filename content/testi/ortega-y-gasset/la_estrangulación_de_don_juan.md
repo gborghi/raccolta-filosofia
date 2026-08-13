@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An irritated article on stagings of Zorrilla's 'Don Juan Tenorio', with a personal preamble: never a nationalist but always national, Ortega claims the inescapable solidarity with one's people alongside the task of becoming a person, Seneca's 'tuus fias'. Theatre criticism.
 

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On Edward VIII's abdication: England astonishes Europe by resolving a gravest conflict with perfection, since its Empire rests on a monarchic institution as tenuous as a soap bubble. With a minimum of authority it achieves what Russia, Germany and Italy achieve through tyranny and frenzied creeds: communism and fascism are orthopaedics, England a healthy people walking on its own legs.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

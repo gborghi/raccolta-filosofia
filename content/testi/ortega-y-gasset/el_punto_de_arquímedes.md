@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political column: the Archimedean point of Spain's remoralization is the professional ethic of the army and police, which must be the nation's impassive bony frame. An army one can "count on" is not an army.
 

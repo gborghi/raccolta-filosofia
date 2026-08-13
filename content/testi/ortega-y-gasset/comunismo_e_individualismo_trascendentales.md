@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Ortega claims to have been the first to predict bolshevism's confinement to Russia: its reality is typically Slavic and holds too large a dose of Asianism for the European soul to assimilate — "bolshevism is a fit of nihilism, and nihilism is the ground of Asian man". The radical divergence lies in how individuality is valued: for the Oriental, to be an individual is the spectral mode of existing and one gains ontological weight by de-individualising, whereas the European feels alive only when excluded from everything else. Communism is the political echo of that cosmic appetite.
+
+## Connections
+
+**Concetti:** [[concepts/nihilism|nichilismo]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

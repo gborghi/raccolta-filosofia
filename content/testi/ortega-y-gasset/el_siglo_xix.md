@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A section of the lecture to librarians: around 1850 the librarian's trade becomes state bureaucracy. Ortega draws from it a thesis on the state as the extreme form of the collective, the superlative of the social, intervening only where need has become unavoidable urgency.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

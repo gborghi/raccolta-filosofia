@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article on Spanish politics against governing clichés: after 'energy' the talk is now of 'valour' and 'gallantry'. Ortega answers Salillas that gallantry is at best a military virtue with no jurisdiction over a civil question: Maura and La Cierva were not brave, they were legal.
+
+## Connections
+
+**Concetti:** [[concepts/virtue|virtù]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

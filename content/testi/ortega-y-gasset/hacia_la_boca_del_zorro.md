@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A criticism of Melquíades Álvarez's announced collaboration with the liberal party: the reformist party was the first «other» party, and the Spanish people learned its distrust precisely from the two alternating parties; without a minimum of predisposed public trust no party can govern. Political topicality.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

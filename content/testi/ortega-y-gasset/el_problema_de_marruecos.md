@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A 1911 article from Marburg on a book by the Austrian Otto C. Artbauer about Morocco, analysing French colonial methods and the thesis that France is after soldiers. Political-colonial reportage.
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A 1930 political article: like it or not a new state must be forged, since the present one survives only by exploiting national vices, while Spain urgently needs to transform its whole productive system, whose costs are fantastically high. Political journalism.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

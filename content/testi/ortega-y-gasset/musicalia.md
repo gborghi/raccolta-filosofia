@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A music column on Debussy's unpopularity: the general public hates the new because it is new, and whatever is worth anything on earth was made by a few select men against the stupidity of the multitudes (Nietzsche measured a man's value by the solitude he can bear). Ortega then contrasts European culture, where the distance between creative minority and crowd is native, with Asian cultures, where sage and unlearned share the same principles.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]]  
+**Posizioni:** [[positions/mass_man|uomo-massa]]  
+**Concetti:** [[concepts/select_minority|minoranza selecta]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -138,7 +147,7 @@ Questo è, a mio giudizio, il vero motivo dell'impopolarità a cui è condannata
 
 * * *
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/human_nature,positions/mass_man,concepts/select_minority,concepts/beauty,forms/essay"></span>
 
 Los músicos románticos, Beethoven inclusive, han solido dedicar su talento melódico a la expresión de los sentimientos primarios que acometen al buen burgués. Lo mismo hicieron con sus versos los poetas hasta 1850. El romanticismo pertenece a la prole numerosa que trajeron al mundo las revoluciones políticas e ideológicas del siglo XVIII. Éstas vienen a resumirse en el advenimiento de la burguesía. La proclamación de los derechos del hombre, [sublime](/concepts/sublime) en teoría, se convirtió de hecho en el triunfo de los derechos del buen burgués. Cuando se pone a los hombres en igualdad de condiciones ante la lucha por la existencia, es seguro que triunfarán los peores, porque son los más. Hasta ahora, el espíritu democrático se ha caracterizado por una monomaníaca y susceptible ostentación de los derechos que cada uno tiene. Yo presumo que este primer ensayo de democracia fracasará si no se le completa. A la proclamación de derechos es preciso agregar una proclamación de obligaciones. Los espíritus más delicados de nuestro tiempo, ahítos de no ver en torno suyo sino gentes que blanden amenazadoras sus derechos, empiezan a buscar algún reposo en la contemplación de la Edad Media que antepuso a la idea de derecho la idea de obligación. Noblesse oblige ha sido el lema admirable de una época ferviente, transida por un generoso impulso de sesgo ascendente y creador. La democracia tiene derechos; la nobleza tiene obligaciones.
 
@@ -270,7 +279,7 @@ L'arte evolve inesorabilmente nel senso di una progressiva purificazione; cioè,
 
 A Pedro gli muore la fidanzata, e prova la congrua tristezza. Questa tristezza è un sentimento primario, che nasce nel nostro tratto attivo e vitale con le cose —per lo stesso, non è artistico, non è estetico. Se, insoddisfatto di esprimere il suo dolore come ogni figlio di buona donna, Pedro compone inoltre una sonatina sulla sua tristezza, avrà dato espressione artistica a qualcosa che non è estetico.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/human_nature,positions/mass_man,concepts/select_minority,concepts/beauty,forms/essay"></span>
 
 Pablo, el compasivo, y Juan, el artista, asisten a la desventura de Pedro. Aquél, siguiendo su propensión, se contagia con la amargura de su amigo, y… le acompaña en el sentimiento, se le compunge el corazón, vive la pena del prójimo. Juan, el artista, resiste a ese contagio, e interponiendo una distancia espiritual entre sí y la tristeza que ve, permanece como puro espectador, bien que espectador artista. El espectáculo de la dolorida vena que mana del amante transido suscita en él sentimientos secundarios que no son de participante, sino de contemplador estético. Si luego modula en claros tonos esas sus emociones, tendremos un tipo de creación en que es artístico, no sólo el medio de expresión, sino también el tema expresado.
 

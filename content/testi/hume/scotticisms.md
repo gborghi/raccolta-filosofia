@@ -11,6 +11,8 @@ tags:
   - "philosopher/hume"
 ---
 
+*Hume*
+
 > [!abstract]
 > A short list of Scotticisms: Scots grammatical and lexical usages to avoid in favour of standard English (will/shall, these/those, etc.). A linguistic note with no philosophical content.
 
@@ -46,3 +48,31 @@ In the verbs, which end in t, or te, we frequently omit ed in the preterperfect 
 Notice shou’d not be used as a verb. The proper phrase is take notice. Yet I find Lord Shaftesbury uses notic’d, the participle: And unnotic’d is very common.
 
 Hinder to do, is Scotch. The English phrase is, hinder from doing. Yet Milton says, Hindered not Satan to pervert the mind. Book IX.
+
+<span class="qlang-split" data-lang="it"></span>
+
+La forma “Will”, al primo e terzo persona (“Io camminerò”, “Lui camminerà”), esprime l’intenzione o la risoluzione della persona, insieme all’evento futuro che ne consegue; mentre le forme “You will”, “He will”, “They will” esprimono semplicemente l’azione o l’evento futuro, senza implicare né escludere alcuna volontà da parte delle persone coinvolte.
+
+Il verbo “shall”, utilizzato alla prima persona, sia singolare che plurale, indica un’azione o un evento futuro, senza escludere né includere l’intenzione o la risoluzione di chi parla. Tuttavia, quando usato alla seconda o terza persona, indica una necessità, solitamente una necessità derivante dalla persona stessa che parla; ad esempio: “Lui camminerà”, “Voi vi pentirete”.
+
+Queste variazioni sembrano derivare da una forma di cortesia nell’uso del linguaggio inglese: quando gli inglesi parlavano con altri o di altri, utilizzavano il termine “will”, che implica volontà, anche quando l’evento in questione fosse soggetto a necessità o costrizione. Quando invece parlavano di se stessi, usavano il termine “shall”, che implica costrizione, anche quando l’evento potesse essere frutto di scelta volontaria.
+
+“Wou’d” e “shou’d” sono modi congiuntivi soggetti alla stessa regola; tuttavia si può osservare che, in una frase in cui è espressa una condizione e la conseguenza di tale condizione, il primo termine richiede sempre “shou’d”, mentre il secondo richiede “wou’d” nelle persone seconda e terza; ad esempio: “Se dovesse cadere, si romperebbe la gamba”.
+
+Questi sono i plurali di “questo”; quelli di “quello”. Il primo, pertanto, indica ciò che è più vicino; il secondo, ciò che è più lontano. Come nelle seguenti righe del Duca di Buckingham.
+
+“I filosofi e i poeti si sforzarono invano,
+
+“In ogni epoca, c’è sempre quella massa informe che cerca di muoversi.”
+
+“Ma QUEI pedanti, rispetto a QUESTI, ”
+
+“Chi avrebbe mai pensato che non solo sapesse insegnare, ma anche divertire?”
+
+Quando si deve menzionare un parente e tale persona non è stata citata immediatamente prima, tali informazioni sono sempre necessarie: quelle osservazioni che egli fece, quei regni che Alessandro conquistò.
+
+Nei verbi che terminano in “t” o “te”, spesso omettiamo “ed” nel passato perfetto e nel participio; ad esempio: “he operated”, “it was cultivated”. Milton, nelle sue riflessioni più elevate, utilizza questa forma; tuttavia è l’unico autore che la impiega regolarmente.
+
+Il verbo “notice” non dovrebbe essere utilizzato come sostantivo; la frase corretta è “take notice”. Tuttavia, ho riscontrato che Lord Shaftesbury usi la forma “notic’d”, il participio passato. E l’uso di “unnotic’d” è molto comune.
+
+Ciò che ostacola l’azione è lo spirito di ribellione. L’espressione inglese è “hindered from doing”, ma Milton afferma: “Satan non fu ostacolato nel corrompere le menti”. Libro IX.

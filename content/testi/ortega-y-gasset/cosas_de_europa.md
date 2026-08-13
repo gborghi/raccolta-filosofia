@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Madrid 1926: Ortega recalls his 1922 forecast that fascism was not merely Italian but a new species bound to spread across Europe, and explains dictatorships by the inability of parliamentary institutions to govern, i.e. to solve problems. He also insists the writer must describe the facts rather than be a party man.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

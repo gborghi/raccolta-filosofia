@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from the Spanish habit of eyeing women on the tram, Ortega analyses the «calculus of feminine beauty» as an instantaneous aesthetic judgement and attacks the theory inherited from Platonic metaphysics whereby we apply a pre-existing ideal as a unit of measure, women being beautiful only by participation in the one beautiful woman. Philosophical aesthetics in column form.
+
+## Connections
+
+**Assi:** [[assi/universals|Universali]]  
+**Posizioni:** [[positions/realism_of_ideas|realismo delle idee]]  
+**Concetti:** [[concepts/beauty|bellezza]], [[concepts/idea|idea]], [[concepts/methexis|methexis (partecipazione)]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +112,7 @@ Ecco un'avvertenza esatta, a mio intendere, che riflette un fenomeno effettivo d
 
 L'espressione più esatta della disposizione in cui ci troviamo quando, per la prima volta, guardiamo una donna, sarebbe questa che sembra solo un frivolo giro galante: «Ogni donna è bella finché non si dimostri il contrario». E ancora si potrebbe aggiungere: di una bellezza che non abbiamo previsto.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/universals,positions/realism_of_ideas,concepts/beauty,concepts/idea,concepts/methexis,figures/plato,forms/essay"></span>
 
 Verdad es que en ocasiones las promesas no se cumplen. Recuerdo a este propósito una anécdota del hampa periodística madrileña. Cuéntase de un crítico de teatro, muerto hace no pocos años, que padecía la debilidad de repartir las alabanzas y las censuras según un régimen financiero. Llegó un tenor que al día siguiente había de debutar en el teatro Real. El menesteroso crítico se apresuró a visitarle. Le habló de los muchos hijos y las pocas rentas: quedó cerrado el trato en mil pesetas. La jornada del début comenzó sin que el crítico recibiese la cantidad convenida. Empezó la función y el dinero no llegaba; pasó un acto, y otro y todos, y cuando en la Redacción se puso a escribir el crítico, aún no había llegado el emolumento. A la mañana siguiente el periódico insertaba la revista de la ópera; en ella no se hablaba del tenor ni una palabra hasta la postrera línea, donde se leía: «Olvidábamos decir que debutó el tenor X: es un artista que promete; veremos si cumple».
 

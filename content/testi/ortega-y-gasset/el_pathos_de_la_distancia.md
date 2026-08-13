@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article against Spanish frivolity, defined as the loss of emotional perspective. Onto it Ortega grafts the distinction between liberalism and democracy: Nietzsche's "pathos of distance" — the right that no one command what in me is inalienable — matters more than democracy.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Concetti:** [[concepts/freedom|libertà]], [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

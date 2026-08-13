@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On the method of ethnology and history: the ethnological fact is a biological phenomenon that exists only within the unity of an organism, 'life cannot be atomised', and the atomism inherited from nineteenth-century physics wrecked historical biology. The greatest question history can ask is: what is the true historical 'individual'? — answered by mapping African culture-circles.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/atomism|atomismo]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +104,7 @@ Nel prologo alla traduzione de La decadenza dell'Occidente, la famosa opera di S
 
 Secondo la loro opinione, le culture, non gli uomini, non le razze o i popoli, sarebbero i protagonisti storici. I popoli restano come meri portatori di esse, come i venti del polline vegetale. Un medesimo individuo umano sarebbe storicamente distinto se, invece di nascere nell'ambito di una cultura, nascesse in quello di un'altra. L'essere umano rappresenta la stessa parte dello strumento di musica dove possono suonarsi le più diverse melodie. Ogni cultura sarebbe questo: una melodia col suo ritmo e la sua linea sonora inconfondibile. Fu un errore di Bastian supporre che ci siano «idee elementari» comuni a tutti gli uomini. No; le culture si differenziano molto principalmente nel più elementare, nelle nozioni primigenie. Per esempio, lo spazio.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,assi/meaning_of_history,positions/atomism,forms/essay"></span>
 
 Cuenta Frobenius que, en uno de sus viajes, hablaba una vez con varios africanos sobre la extensión del antiguo reino de Gana, y, en general, sobre la expansión de los diferentes pueblos. Entre los interlocutores había un moro de Trarza que, allá, en el Oeste, al Norte del Senegal, en los confines del desierto, solía vivir su vida nómada. «Conocía bien las tierras de su región natal y proporcionaba muchas noticias fidedignas. Como muslim fanático que era, sustentaba enérgicamente la opinión de que los fundadores del reino de Gana eran de origen sudarábigo». Otro interlocutor era un sudanés castizo, el viejo Diarra, que tantas viejas cosas de su país sabía. Imperturbable, afirmaba que los Ganas —probablemente residuo de los semifabulosos Garamantas— habían sido un pueblo vetusto, muy anterior al deslizamiento de los árabes y del Islam por aquellas comarcas. El Trarza, según temperamento de su raza, se incomodó pronto y en su excitación dejó escapar estas palabras: «Los árabes y el Islam dominan la tierra toda hasta su “término”». Frobenius le preguntó dónde terminaba la tierra, y el nómada respondió: «Donde la tierra toca con el cielo». Entonces el Diarra se interpuso diciendo: «El cielo no toca nunca la tierra».
 
@@ -174,7 +182,7 @@ Orbene; il tratto più caratteristico finora dell'epoca che comincia in noi è �
 
 L'imperativo di pulizia mentale fa sì che il nostro tempo parta in ogni scienza —e forse non soltanto in scienza— dalla pluralità che è il fatto. La geometria si è pluralizzata. La fisica dei quanti e di Einstein è discontinua e pluralista; la biologia si è installata nel pluralismo. Infine, la storia, invece di inciampare alla fine come in una roccia d'irrazionalità, come in un mistero, nella peculiarità dei popoli, che sono di fatto irriducibili, ne fa il punto di partenza; cioè, prende il fatto come si presenta[90]. Il cinese e il francese si differenziano troppo perché, senz'altro, affermiamo la loro identità e supponiamo pregiudizialmente che nella valle dello Yang-Tsé agiscano gli stessi meccanismi psichici che nell'Isola di Francia.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,assi/meaning_of_history,positions/atomism,forms/essay"></span>
 
 La intuición del pluralismo universal, como puro hecho, como fenómeno, es la gran innovación en la cultura europea. A ella se debe que, contrastando con la enorme decadencia de casi todas las demás potencias históricas —economía, política, arte—, la ciencia actual abra infinitas perspectivas y festeje una sin par ampliación de horizontes. Si al analizar la pluralidad que los hechos reales presentan se encuentra en ellos síntomas de una ultra-realidad unitaria, el triunfo será completo. Porque, en efecto, el pensamiento debe ser unitario. Pero es preciso dejar siempre abierta la posibilidad de que los hechos se nieguen a coincidir con ese ideal de unidad que alienta en el interior del pensamiento.
 

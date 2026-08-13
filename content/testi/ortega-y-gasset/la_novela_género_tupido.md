@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On the hermetic character of the novel: unlike lyric, it must be seen from within, and to evoke its own world it must evict the surrounding one. Hence the demand for a plenitude of detail — Cervantes, Stendhal, Dickens, Dostoevsky and Proust belong to the "dense" genre; the novelist must write ex abundantia.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

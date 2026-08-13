@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A 1915 editorial: Dato's government has wasted seven months and leaves Spain exposed to three imminent dangers — famine, the naval blockade, Italy's entry into the war. Topical political journalism, no philosophical content.
 

@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The 1916 preface to his collected articles of 1904-1912, a farewell to youth: he still stands by those thoughts save on one point, the value of the individual and the subjective. He holds subjectivism to be the sickness of the nineteenth century and of Spain, but grants that in fighting it he denied the subject all rights—an error of tactics and of substance.
 

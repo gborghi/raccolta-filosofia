@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > History must be the making of films, not a series of static images. Applied to painting from Giotto onwards: what moves, and thereby produces styles, is simply the painter's point of view, since every sensible image is localized. Ortega distinguishes near from far vision and notes this law's parallel with that governing European philosophy.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/perspectivism|prospettivismo]]  
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -162,7 +171,7 @@ Questa avvertenza ci obbliga a riconoscere la seguente paradosso: l'oggetto che 
 
 VII
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,positions/perspectivism,concepts/beauty,forms/essay"></span>
 
 Pues bien, a lo largo de la historia artística europea, el punto de vista del pintor ha ido cambiando desde la visión próxima a la visión lejana, y paralelamente, la pintura, que empieza en Giotto por ser pintura de bulto, se torna pintura de hueco.
 
@@ -324,7 +333,7 @@ Questo sono Ribera, Caravaggio e Velázquez giovane (Adorazione dei Re).
 
 Si cerca ancora la corporeità secondo l'uso ricevuto. Ma già non interessa primordialmente. L'oggetto per sé comincia a essere disatteso e a non avere altro ruolo che servire di sostegno e fondo alla luce sopra di esso. Si persegue la traiettoria della luce, insistendo nel suo scivolare sopra il fascio dei volumi, dei bulti.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,positions/perspectivism,concepts/beauty,forms/essay"></span>
 
 ¿Se advierte claramente el desplazamiento del punto de vista que esto implica? El Velázquez de la Adoración de los Reyes no se fija ya en el cuerpo como tal, sino en su superficie, donde la luz choca y se refleja. Ha habido, pues, un retraimiento de la mirada, que deja de ser mano y suelta la presa del cuerpo redondo. Ahora, el rayo visual se detiene donde el cuerpo comienza y la luz cae fúlgida; de allí va a buscar otro lugar de otro objeto cualquiera donde vibra pareja intensidad de iluminación. Se ha producido una mágica solidaridad y unificación de todos los trozos claros frente a los oscuros. Las cosas por su forma y condición más dispares, resultan ahora equivalentes. La primacía individualista de los objetos acaba. Ya no interesan por sí mismos y empiezan a no ser más que pretexto para otra cosa.
 
@@ -444,7 +453,7 @@ Più dentro ancora di questo si trovano le idee. Anche le idee sono realtà che 
 
 Orbene: i volumi che Cézanne evoca non hanno nulla a che vedere con quelli che Giotto scopre; sono piuttosto i loro antagonisti. Giotto cerca il volume proprio di ogni cosa, la sua corporeità realissima e tangibile. Prima di lui si conosceva soltanto l'immagine bizantina di due dimensioni. Cézanne, al contrario, sostituisce ai corpi delle cose volumi irreali di pura invenzione, che hanno con quelli soltanto un nesso metaforico. Da lui in poi la pittura dipinge soltanto idee —le quali, certo, sono anche oggetti, ma oggetti ideali, immanenti al soggetto o intrasoggettivi.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,positions/perspectivism,concepts/beauty,forms/essay"></span>
 
 Esto explica la mescolanza que, a despecho de explicaciones erróneas, se presenta en el turbio jirón del llamado cubismo. Junto a volúmenes en que parece acusarse superlativamente la rotundidad de los cuerpos, Picasso, en sus cuadros más escandalosos y típicos, aniquila la forma cerrada del objeto y, en puros planos euclidianos, anota trozos de él, una ceja, un bigote, una nariz —sin otra misión que servir de cifra simbólica a ideas.
 

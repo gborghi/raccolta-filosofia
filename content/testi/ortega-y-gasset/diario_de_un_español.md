@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A chronicle of 24 January 1913 on the optimism that seems to envelop Spain after the methodical pessimism inherited from 1898. It distinguishes two patriotisms: the static, sensual one that enjoys the fatherland as an object of pleasure, and the severe one for which the fatherland is always something still to be made, criticism of the fathers' land and construction of the sons'.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

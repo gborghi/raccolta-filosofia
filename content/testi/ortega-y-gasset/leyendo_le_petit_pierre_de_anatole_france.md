@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Reader's "resonances" rather than criticism: Le Petit Pierre differs in nothing from France's other books, since after the precocious perfection of Sylvestre Bonnard he could only repeat himself. His senile youth lives at the cost of a premature old age: a perfection won by dint of self-limitation.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +109,7 @@ Ho letto più volte l'opera del Padre Nieremberg che s'intitola Differenza tra i
 
 Si compiace, soprattutto, il Padre Nieremberg nel sottolineare il carattere volubile, cangiante della Natura. Come se fosse preferibile che la Natura mostrasse una fastidiosa insistenza da professore! I piaceri vanno di corsa, insinua il buon Padre. Bene: ragione di più per galoppare dietro di loro!
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 A veces los argumentos del jesuita llegan mal atinados: apuntan a nuestra amargura y dan en nuestra sonrisa. He aquí, por ejemplo, una de las observaciones con que quisiera influir en nosotros:
 

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > It warns workers that their rectilinear strike tactics will lead to defeat, citing the Seine syndicalist committee's letter against excessive faith in the general strike, the "myth" invented by Sorel. It argues that central and western European peoples are too differentiated for a bold minority to do what the Bolsheviks did in Russia, and calls for a return to dialogue.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/labour|lavoro]], [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

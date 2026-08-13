@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A variant of the preceding text: the generation formed in the hour of the disaster, without masters or a discipline of hope, sets out to prevent future Spaniards from finding a vaporised nation. National concern is incompatible with any nationalism; national organisation can rest only on competence.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

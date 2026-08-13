@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An expository article: 'sindicación' renounces the instruments of democracy and aims at direct social pressure on capital, refusing to form a workers' party. It is a practical tendency, not a political idea, and does not aspire to a new social order. Grafted onto it is syndicalism, which Spaniards, Ortega warns, take sides on without understanding.
+
+## Connections
+
+**Concetti:** [[concepts/labour|lavoro]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

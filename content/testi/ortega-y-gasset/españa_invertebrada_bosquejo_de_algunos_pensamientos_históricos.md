@@ -10,8 +10,7 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
-> [!abstract]
-> Major work on the historical diagnosis of Spain: national incorporation and disintegration, particularism and direct action, the rule of the masses, the absence of the best, and the exemplarity of select minorities as an imperative of selection.
+*Ortega y Gasset*
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

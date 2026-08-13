@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article on the Melilla war (1909): the people were never given the right to choose whether to fight it; the mass thinks and decides more slowly than the individual, and it falls to the governors to explain to those below what must be done and why. It then asks that a phrase in the Order of Calatrava's petition to the King be struck, in the name of «national modesty».
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +127,7 @@ Quegli uomini di pregio pensavano anche —chi potrà negarlo?— al trionfo del
 
 Ecco ciò che non mi pare lecito risuscitare nell'ora presente. Sta bene che muoviamo guerra ai riffani dalla testa appuntita. Pare che questa guerra sia utile, pare che sia necessaria. Questo dicono. Io non lo so. Facciamo, dunque, la guerra. Ma evitiamo la vecchia mise en scène sentimentale: gli uomini d'Europa sorriderebbero malignamente. Non tiriamo fuori, per Dio, l'ostilità teologica, non pretendiamo di riprodurre l'opinione barbara che sull'islamismo avevano i crociati del secolo XI, i calatravi del secolo XII.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,concepts/select_minority,forms/essay"></span>
 
 Existe una moralidad moderna: no es lícito insertar en ella trozos de la ética medioeval. Las creencias religiosas que en otro tiempo eran santas sólo para sus fieles lo son hoy para todos. La discrepancia en la fe no puede servir jamás de pretexto para encarecer la hostilidad.
 

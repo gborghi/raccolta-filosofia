@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A parliamentary chronicle turning into a defence of conventionalism: science and art, morality and courtesy, patriotism and justice are all sublime conventions, and debate is healthy so long as it stays within them. In the second part Ortega holds with Álvarez that the people is the sole originary source of civil power: King and Cortes are not sovereign but organs exercising sovereign functions.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/sovereignty|sovranità]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

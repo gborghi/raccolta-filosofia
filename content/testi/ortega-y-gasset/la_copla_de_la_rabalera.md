@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A journalistic invective against prime minister Allendesalazar, accused of disrespecting Parliament and reducing the art of government to the crudest popular ditties. Topical politics, not philosophy.
 

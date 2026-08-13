@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article (España, 1915) on Carranza's Mexico expelling the Spanish envoy: the affront must be told without euphemism so that it leaves a seed of disquiet. Ortega draws from it the charge that Spain is the only European people without an American policy, and proposes turning emigration into power: not arms only, but the book and the technician as the Ibero-American industry. Political journalism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

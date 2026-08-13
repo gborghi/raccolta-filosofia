@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On the election of Luis de Zulueta as deputy: Catalan nationalism, a formalist movement in Simmel's judgement, purifies itself by turning into a party promoting culture, that is pedagogy and justice. Ortega declares he does not know the "Catalan problem" and asks whether it is not a human problem, and therefore everyone's.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]], [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

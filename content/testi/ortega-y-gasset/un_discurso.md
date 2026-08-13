@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short column commenting on a speech by Melquíades Álvarez at Granada on international politics, noting its agreement with the author's own theses. A journalistic note.
+> Very short text (82 words). The digest carries no sample: its content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

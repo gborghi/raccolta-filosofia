@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An ironic 1920 editorial on Dato's taking power, hailed as a sporting champion of an interim government bound to fail. Contingent political journalism.
 

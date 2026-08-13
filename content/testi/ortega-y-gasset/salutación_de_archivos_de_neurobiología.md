@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Editorial salutation (1920) launching the journal Archivos de Neurobiología, aiming to consolidate the Spanish neurological and psychiatric movement born outside the university. An editorial note.
+> A short salutation (210 words) to the journal Archivos de Neurobiología; the digest carries no text sample, so its content cannot be judged. Left untagged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

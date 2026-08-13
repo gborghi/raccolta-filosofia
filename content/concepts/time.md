@@ -6,7 +6,7 @@ label_en: "time"
 aliases:
   - "tempus"
   - "Zeit"
-work_count: 25
+work_count: 24
 tags:
   - "graph/concept"
 title: "tempo"
@@ -15,7 +15,7 @@ title: "tempo"
 
 *time*
 
-## Opere (25)
+## Opere (24)
 
 **Aristotle**
 - [On Memory (449b)](/testi/aristotle/on_memory_449b)
@@ -41,7 +41,6 @@ title: "tempo"
 - [En el tren](/testi/ortega-y-gasset/en_el_tren)
 - [Filosofía pura Anejo a mi folleto Kant](/testi/ortega-y-gasset/filosofía_pura_anejo_a_mi_folleto_kant)
 - [Generación contra generación](/testi/ortega-y-gasset/generación_contra_generación)
-- [La primera fecha](/testi/ortega-y-gasset/la_primera_fecha)
 - [Pensamientos de año nuevo](/testi/ortega-y-gasset/pensamientos_de_año_nuevo)
 - [Pidiendo un Goethe desde dentro Carta a un alemán](/testi/ortega-y-gasset/pidiendo_un_goethe_desde_dentro_carta_a_un_alemán)
 - [Tempo de la historia egipcia](/testi/ortega-y-gasset/tempo_de_la_historia_egipcia)

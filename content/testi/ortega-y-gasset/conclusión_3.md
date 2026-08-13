@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The close of a lecture proposing two watchwords for the movement: liberalism and nationalisation — of the army, the monarchy, the clergy, the worker. Ortega asks the young to help give political articulation to the mass of villages and farm labourers whom the parties never reach, and specifies that "national" has nothing to do with nationalism: he wants no ruling Spain, only "a Spain vertebrate and on its feet".
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,7 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
-> [!abstract]
-> Foundational book (23 atoms) of essays in amor intelectual: the meditations seek to bring each thing to the fullness of its meaning ('salvaciones'), referring to Spanish circumstances. It is the text where the doctrine of the self and its circumstance is born.
+*Ortega y Gasset*
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

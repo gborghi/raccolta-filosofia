@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A parliamentary speech on dividing educational authority between the State and the Generalitat: Ortega defends the two-university solution against a single bilingual university. He grants that autonomy complicates matters, but the complication accepts the reality of two diverging cultural orientations, Catalan particularist and Spanish integralist.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]], [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +84,7 @@ Io credo, effettivamente, che siano erronei quasi tutti quei tòpos abituali (Il
 
 Io non credo, non ricordo, che dall'avvento della Repubblica nessuno abbia tentato di coartare la libertà dei catalani per l'uso della loro lingua in tutti gli ordini della loro vita, privata o pubblica; se qualcuno vuole richiamarsi al principio di libertà in questo affare, sebbene a me paia molto discutibile tale richiamo, non c'è da chiedere di più. Non intendevo con questo l'argomentazione che faceva poco fa il signor Sbert quando credeva che il punto di vista del parere primitivo limitasse la libertà della Catalogna, quando in quel parere si lasciava franchigia ai desideri catalani in punto a educazione in catalano. Ora, se per libertà egli intende non solo quella di poter la Catalogna reggere le sue istituzioni nel modo che creda opportuno, ma, inoltre, impedire certe intervenzioni che esistono in tutti gli Stati del mondo organizzati autonomamente, allora ha della libertà un'idea tanto distante dalla mia che comprendo l'antagonica posizione di entrambi.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,concepts/state"></span>
 
 Pero el hecho es que la libertad que hoy gozan y que van a gozar los catalanes, según el dictamen primitivo, para la enseñanza en catalán, es plena. Ese sentido del simbolismo lingüístico se ha resuelto, pues, radicalmente, sin escatimaciones, a satisfacción, según las aspiraciones que han expresado los señores catalanes; mas cuando se ha logrado esto, el simbolismo, de pronto, cambia de rumbo y vuela hacia intenciones muy distintas de aquéllas. Ya no se trata de que la vida catalana pueda fluir, sin deformación y sin estorbo, en el dócil elemento de su idioma; ya no se trata de llegar, como a una ribera apetecida, al libre uso del catalán, sino que al revés: una vez logrado esto, se hace del libre uso del catalán una posición política firme que signifique un cierto rango jurídico del poder regional de Cataluña, y, además, de ese uso libre se hace un instrumento de polémica y de lucha histórica para ir desalojando el idioma español, y a este simbolismo polémico e institucional, que cabalga sobre aquel otro sentimental que nos parecía tan respetable, a eso es a lo que nos oponemos nosotros radicalmente. (Muy bien, muy bien).
 
@@ -114,7 +120,7 @@ Come vedete, a parte la questione storica, a parte quanto si riferisce all'aspet
 
 Non si tratta, dunque, signori, di apprezzare, di valutare se sia grande o piccola, se sia intensa o lasca, l'opinione pubblica che durante la data in corso si manifesti a favore o contro lo Statuto. Tutto questo sarebbe secondario di fronte alla convinzione che abbiamo alcuni che è il modo di essere profondo del popolo spagnolo quello che rifiuterebbe qualsiasi soluzione che lasciasse ferito questo suo modo essenziale di sentire. Non si può fare politica vivendo a caso, sotto l'aneddoto di ciò che in ogni momento l'opinione pubblica sostenga o non sostenga; tutto questo bisogna attenderlo, ma è necessario andare alla politica con un insieme, per non dire pedantescamente con un sistema, di convinzioni ferme, almeno su come sia profondamente il nostro popolo, perché solo così si possono prevedere le sue gravi reazioni.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,concepts/state"></span>
 
 Lo demás, lo de que en el azar del momento se haya producido o no, o tarde en producirse una manifestación de opinión pública, eso es sumamente secundario. Por tanto, yo no cometo la candidez de apoyarme en una presunta representación mía de la opinión pública, no. No quiero facilitar tanto la réplica que alguna vez ha dado aquí el señor Presidente del Consejo de Ministros, no. Yo no represento a la opinión pública, en primer lugar porque no pretendo representar nada, pero además, porque si pretendiera representarla, el Presidente del Consejo, o cualquier otro orador de la mayoría, me exigirían inmediatamente que exhibiese el título, y como la representación de esa poca cosa que es la opinión pública no puede estar escrita en ningún papel, podría afirmar el orador hostil que él también la representaba, y quedábamos empatados. De esta grácil manera quedaba eliminada de la vida política esa cosa que se llama la opinión pública. (Rumores). No. Lo que yo expreso es una convicción larga, honda, seriamente meditada durante muchos años, de cuál es el modo de sentir profundo del pueblo español, y por eso desde la primera vez que hablé, ya en el debate constitucional, os pedí, os rogué que tratarais este punto con suma delicadeza.
 

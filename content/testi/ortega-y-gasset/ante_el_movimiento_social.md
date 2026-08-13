@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Ahead of the Barcelona Congress of the Employers' Federation, Ortega warns the employers against postures of intransigence: strip away the passions, the "socialist science" and mass solidarity, and what remains in the labour movement is an unassailable nerve — the justice of its radical claim, that some work much and eat little while others eat much and do not work. What is excessive in labourism can only be fought by installing oneself inside its reason.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/labour|lavoro]], [[concepts/justice|giustizia]], [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -126,7 +134,7 @@ Non sappiamo se l'annuncio di lock-out emanato dal Congresso patronale giungerà
 
 Convinti che, disgraziatamente, giungeranno, ora o poi, giorni difficilissimi e formidabili convulsioni pubbliche, ci importa molto fissare, un'altra volta, la nostra opinione. Una settimana fa la esponemmo di nuovo sommariamente, rivolgendoci ai padroni catalani che inauguravano il loro Congresso. Circa un anno fa, al tempo dell'armistizio, mettevamo già le mani nei capelli, avvertendo l'inerte borghesia della tempesta favolosa che si stava condensando sulla linea dell'orizzonte. Chiedevamo che senza indugio si organizzasse una politica agile, ampia e costruttiva, la quale uscisse incontro ai conflitti prima che questi maturassero. Perché la vita dà la vittoria al più attivo, non al più rigido. L'instancabile fermentazione delle piante microscopiche riduce in polvere le rocce, e uno Stato che si affretta a portare di propria mano la riforma in tutti gli ambiti della società, riesce a dissolvere mediante la sua superiore efficacia tutti i tentativi di trasformazione rivoluzionaria che, fuori di esso e contro di esso, germinino nel popolo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/political_legitimacy,concepts/labour,concepts/justice,concepts/state,forms/essay"></span>
 
 No se nos hizo entonces ningún [caso](/concepts/fortune). Al contrario, se nos tachó de alarmistas y hasta se temió que fuésemos revolucionarios. Hay gentes con la cabeza suficientemente del revés para llamar revolucionario al que anuncia una revolución e invita a los demás para prevenirla.
 

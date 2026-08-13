@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A run of detached notes separated by asterisks: the nihilist who annuls the world's values (beside him Lucifer is a saint, 'God's snob'); the defects of modern civilization, which teaches rights and not obligations; the desertion of the minorities across three nineteenth-century generations; and a definition of a culture's substantive crisis as man being left without a world to live in.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]]  
+**Posizioni:** [[positions/mass_man|uomo-massa]]  
+**Concetti:** [[concepts/nihilism|nichilismo]], [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/aphorism|aforisma]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -222,7 +231,7 @@ Nel 1926 pubblicò Rostovzeff il suo libro The social and economic history of th
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/human_nature,positions/mass_man,concepts/nihilism,concepts/select_minority,forms/aphorism"></span>
 
 En otro tiempo no solían conocer lenguas extranjeras más que los hombres de letras y ciencias. Hoy acontece lo inverso. En ciertas alturas de la sociedad todo el mundo parla cualquier idioma. Si en una reunión de gente tal notáis que alguien calla, podéis estar seguros de que es un escritor o un científico. Y esto no acontece sólo al intelectual español, sino al de todas partes. En cuanto no se habla su lengua nativa, calla. El hecho es demasiado general para que no resulte interesante. ¿Por qué ha perdido el intelectual el don de lenguas? ¿Por qué ha pasado a otras clases sociales? La cuestión es complicada. Habría que investigar antes un tema más amplio: qué es eso de hablar otro idioma. ¿Se puede en serio hablar otro idioma? Al hacerlo, ¿no nos colocamos en la actitud íntima de imitar a algún prójimo? Y vivir imitando, ¿no es una payasada?
 
@@ -450,7 +459,7 @@ L'insistenza con cui mi sono occupato di filiare i tratti del «nostro tempo» n
 
 Il fiume di Eraclito ha preso coscienza della sua fluidità. La goccia che rotola a valle vede sé stessa correre e, perciò, è anche fuori del fiume, ferma.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/human_nature,positions/mass_man,concepts/nihilism,concepts/select_minority,forms/aphorism"></span>
 
 El hombre no tiene más remedio que aprender a vivir en esta forma dual y sentirse a la par mudable y eterno. Esto nos obliga a modificar profundamente la óptica de la vida. Antes se interesaba el hombre en una forma de arte, en una idea científica, en un principio político, porque le parecían definitivos. Cuando no se lo parecían, caía en escepticismo, que es la suspensión de la vida. Ahora necesitamos aprender que sólo somos definitivos cuando henchimos bien el perfil transitorio que nos corresponde, es decir, cuando aceptamos «nuestro tiempo» como nuestro destino, sin nostalgia ni utopismos. (Que no me explique yo demasiado mal. Sentir nostalgias y utopizar son dos cosas perfectamente lícitas en que se manifiesta una vitalidad poderosa. Lo que importa es que nuestra actitud vital no dependa de ellas, que no se viva ni de ellas ni para ellas, porque entonces son síntomas de debilidad. La vida es siempre un «ahora»; nostalgia y utopía son fugas del «ahora»).
 
@@ -558,7 +567,7 @@ C'è chi si sorprende che i giochi fisici trovino un pubblico così numeroso e a
 
 Ogni pubblico cerca di compiacersi nel drammatismo di forze e forme che comprende. Ora: è caratteristico dell'ora che corre la mancanza di pubblico per tutto ciò che consiste in drammatismo spirituale —arte, lettere, scienza, religione e politica superiore—, e la sua agglomerazione negli stadi, nei cinema, ecc. Fatto è che non comprende la dinamica delle lotte spirituali, e poiché non la comprende, non gli interessa. Ha bisogno di drammatismi più semplici. Il corpo è semplice, e una partita di calcio o il movimento dell'attore di Hollywood, cosa oltremodo semplice.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/human_nature,positions/mass_man,concepts/nihilism,concepts/select_minority,forms/aphorism"></span>
 
 Pero ¿es que este público de ahora ha cambiado sus gustos? Aquí está el escotillón. Aquí se entrecruza el nuevo hecho espléndido del [culto](/concepts/religion) al cuerpo con otro hecho, que originariamente nada tiene que ver con él: la irrupción de las masas.
 
@@ -708,7 +717,7 @@ I classici greci hanno sempre aspetto puerile, faccia di bambini. Il serio sta d
 
 * * *
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/human_nature,positions/mass_man,concepts/nihilism,concepts/select_minority,forms/aphorism"></span>
 
 El problema de la historia es el problema de la felicidad. Porque la historia se propone comprender lo que en su última intimidad fue la vida de esta o la otra época. Ahora bien; toda época se siente, en su postrer fondo, feliz. La vida es siempre feliz en su gran cuenca total. La prueba de ello es que ninguna época ha querido en serio ser otra determinada. El vago deseo de ello —de vivir en tal o cual otro tiempo pasado o futuro— pertenece a la voluptuosidad de la vida, y contribuye a perfilar la fisonomía de ciertos siglos. Pero las desdichas son tan sólo meteoritos, que caen sobre la felicidad constitutiva, sustancial, inalterable, de cada astro. Los lamentos sobre los «tiempos que corren» son un factor de placer, el deleite de la quejumbre, la delicia de llorar. En Hegel hay una entrevisión de esto que no he visto subrayada ni explotada por nadie. Cada época tiene su vida, y la siente como suya, porque en ella, siendo tal y como es, se siente feliz. El error está en creer que la felicidad excluye el dolor y las angustias. Al revés, las incluye, son ingredientes de ella. El historiador no ha entendido una edad si no ha calado hasta el estrato en que es feliz. ¡Terrible misterio de la vida, que es en todo tiempo profundamente, inquebrantablemente beatífica, y reposa en sí misma!
 
@@ -888,7 +897,7 @@ Ci sono, senza dubbio, anime belle e anime brutte. Ma qual è l'anatomia di un'a
 
 La psiche mascolina, in generale, ha una struttura meno solidale e compatta della femminile, o, detto in altro modo, l'uomo suole essere formato da varie province intime che appena comunicano tra loro. La sua vita politica, per esempio, non ha connessione alcuna dentro di lui con la sua vita sentimentale o professionale. L'anima femminile è più riunita con sé stessa, e per questo, sebbene in generale il suo volume sia minore di quello dell'anima virile —di qui la maggiore rarità della magnanimità nella donna e la maggiore frequenza della pusillanimità—, la sua sensibilità è più profonda e vigorosa. La donna è a un tempo in tutte le regioni di sé stessa, e il suo modo di reagire è quasi sempre totale.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/human_nature,positions/mass_man,concepts/nihilism,concepts/select_minority,forms/aphorism"></span>
 
 Esta diferente estructura explica la facilidad con que el hombre pierde el equilibrio interno. Es más: se habitúa de tal [modo](/concepts/mode) al desequilibrio, que acaba por sentir fruición en él y busca el riesgo, el peligro, y se lanza a la loca empresa. En la mujer hay una excesiva propensión a lo contrario: no sabe vivir en desequilibrio y sucumbe cuando lo padece.
 

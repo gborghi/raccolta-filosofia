@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A short analysis, prompted by the title of a book by Azorín, of double emotions: tenderness is pleasure within and pain without, nostalgia its exact reverse. Prose of criticism and descriptive psychology.
+
+## Connections
+
+**Concetti:** [[concepts/passion|passione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

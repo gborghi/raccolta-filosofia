@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against the Supreme Court prosecutor's circular, Ortega attacks the prevailing notion of public morality reduced to sexual prohibitions and defence of property — lust and theft. He traces that morality's medieval genesis (an extramundane God, asceticism, chastity as the central virtue) to show it is out of season.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Concetti:** [[concepts/virtue|virtù]], [[concepts/religion|religione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

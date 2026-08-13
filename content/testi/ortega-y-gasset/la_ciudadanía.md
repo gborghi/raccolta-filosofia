@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to Maura (El Sol, 1917): political absence is not a peculiarly Spanish disease — Germany suffered it until 1850 while creating industry and science. Politics is the most external function, a result of the rest of social life: Spain does not live badly because its politics are poor; its politics are poor because of vital anaemia.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

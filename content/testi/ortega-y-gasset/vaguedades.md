@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Column against the wish to restore the pre-coup Constitution and Parliament: absurd to conclude from what happened that one must return to what caused it. The claim is that the average Spaniard will not accept even the necessity of deep reform, and that Spain's average tone is set by the petit-bourgeois.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -156,7 +163,7 @@ Il giorno e l'ora in cui un gruppo di uomini misurati definisca un programma di 
 
 È arrivata, dunque, un'eccellente occasione perché i veri liberali si prendano il lusso di non apparire tali e vadano a preoccuparsi di bisogni più urgenti ed efficaci. La libertà è una forma, con il che è già abbastanza. Ma la libertà solitaria è una forma vuota, un vaso inane. Parlarne astrattamente è un formalismo tanto vano e tanto sterile quanto encomiare una politica di forza e autorità. Già si va vedendo praticamente come la forza e l'autoritarismo, senza altro, siano un altro formalismo. Niente forme vuote. Non occorrono vasi, ma sorgenti.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 ¿La libertad ante todo?… Yo no la deseo, porque con ella sola no se hace nada. La libertad con todo, con todo lo que España necesita urgentemente, y que puede resumirse en la voluntad exaltada, gigante, jocunda de hacerse una nación fortísima y alegre.
 

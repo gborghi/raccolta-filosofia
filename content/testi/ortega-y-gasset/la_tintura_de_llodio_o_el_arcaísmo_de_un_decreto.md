@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article against Dato's programme — which would settle the agrarian question by tweaking the Internal Colonisation Act — and above all against the dissolution decree granted by the Crown in the gardens of Llodio, a gesture of archaic, autocratic flavour that will drag a train of anachronisms behind it.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

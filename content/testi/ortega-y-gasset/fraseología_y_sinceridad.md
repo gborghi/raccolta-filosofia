@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on the «phrase»: defined as any intellectual formula that overruns the outline of the reality it alludes to, fraudulently rounding it off. The modern age (1500-1900) was the «phraseological age»; a phrase is not mere error but falsification — thought stops reflecting things and starts dressing them up, creating a cosmos of comfortable pseudo-realities with no equivocal features.
+
+## Connections
+
+**Concetti:** [[concepts/idea|idea]], [[concepts/reason|ragione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ Si comprende che se qualche metodo mentale può servire da ricetta salutare sar�
 
 Mai si è creduto tanto di sapere che cosa fosse il mondo tutto come negli ultimi secoli. Era naturale: gli era stato precedentemente estirpato il suo carattere problematico, lo si era svuotato di questioni, enigmi e sorprese.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/idea,concepts/reason,forms/essay"></span>
 
 Pues bien: así como el pensar utópico es abandonar la intuición de lo concreto, no retenerse en ella, el creer utópico consiste en no citar la fórmula ante nuestra efectiva e individual sensibilidad para ver si nos satisface o no; antes bien, procurar que nuestra fe se acomode a ella. En el orden artístico se ve esto muy claro: durante tres siglos se estimó que crear arte o gozar de arte era ajustarse a ciertos modelos dados de una vez para siempre. El «buen gusto» como [norma](/concepts/law) equivale a una amonestación para que neguemos nuestro sincero gusto y lo sustituyamos por otro que no es el nuestro, pero es «bueno».
 
@@ -204,7 +211,7 @@ In questa guisa, quando di qualche contemporaneo diciamo che è un selvaggio, fo
 
 Ebbene; la fraseologia rappresenta uno di quei coefficienti di arcaismo e denomina il tipo di meccanismo spirituale, di funzionamento psichico, che dominava la vita europea specialmente nel secolo XVIII. Durante il XIX continua, senza dubbio, quel predominio; ma nel suo corso assistiamo all'avanzata di un altro tipo psicologico fraseoclasta, che a poco a poco soppianta il suo antagonista, e ai nostri giorni celebra la sua vittoria. Questo nuovo modo d'essere si caratterizza per un'ansia di cercare in tutto la nuda realtà, accettando con risoluto cinismo la sua eventuale crudezza. Non mi pare inadeguato intitolare questa propensione con il nome di sincerità; ma s'intenda che né impiego questa parola in segno di lode, né quella di fraseologia con intenzione di vituperio. Si tratta semplicemente di due modi d'essere, la cui differenza risalta nel metterli a confronto l'uno con l'altro.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/idea,concepts/reason,forms/essay"></span>
 
 Para el fraseólogo, pensar y sentir era hacer espontáneamente, preconscientemente, el esfuerzo de ajustarse a un pensar y sentir genéricos que se consideraban como debidos. De esta manera, el individuo tendía automáticamente a instalarse y sumirse en un alma colectiva y como ejemplar —lo que Hegel llama el «espíritu objetivo». Por ejemplo, nos parece hoy increíble, pero es perfectamente verídico, que todavía hacia 1850 la poética vigente consideraba como uno de los atributos de la belleza artística «la unidad en la variedad». Pues bien: ante una obra de arte, nuestros bisabuelos se esforzaban dócilmente en descubrir si poseía, en efecto, esa unidad con variedad, y cuando la encontraban sentían la tranquila satisfacción que era para ellos el goce estético. El hecho de que, en rigor, su individual persona no hubiese gozado nada, no importaba al [caso](/concepts/fortune). El goce estético no era para ellos un acontecimiento efectivo que se produce o no en cada alma individual, sino, por el contrario, la tranquilizadora conciencia de haberse comportado según un tópico ordenaba. Y en esto, más que en el mismo goce estético, consistía su auténtico goce. La diferencia entre su organización y la nuestra radica precisamente en que para ellos era una delicia conformarse a un molde preexistente, mover su espíritu según la línea de una convención.
 

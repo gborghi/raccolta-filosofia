@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A text on philosophy's initial problem: every science presupposes its own character as theory, so a science of theory itself is required — one that cannot presuppose itself and must ground itself while investigating, the only reflexive, 'presuppositionless' science. Example: Descartes supposes all sciences may be erroneous, but supposes it as mere supposition, not as truth.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]], [[assi/method|Metodo]]  
+**Posizioni:** [[positions/methodic_doubt|dubbio metodico]]  
+**Concetti:** [[concepts/reason|ragione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -132,7 +141,7 @@ Con tutto questo non ci sarebbe altro rimedio che accogliersi a questa soluzione
 
 È innegabile che strettamente non potremo chiamare conoscenza se non a quella funzione soggettiva in cui ci sia dato l'essere stesso. Questa tendenza dell'empirismo non offre fianco alla critica. La conoscenza non può consistere nel possesso di una «copia» o «segno» dell'essere. Non è necessario ripetere una volta più che l'ammissione di un intermediario non fa che duplicare il problema e imporre una regressione all'[infinito](/concepts/infinity). L'immediatezza tra la funzione conoscitiva originaria e l'essere, è l'esigenza dove coincide tutta la Filosofia contemporanea, senza che si annunci, da nessuna parte, la rottura di questo postulato comune.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,assi/method,positions/methodic_doubt,concepts/reason,forms/essay"></span>
 
 Pero el [empirismo](/positions/empiricism) de Mach se muestra infiel a su propia tendencia. Al considerar como realidad definitiva los que él llama «elementos», es decir, los contenidos de la pura sensación, no advierte que esta función del puro sentir y su correlato «elementos» son conceptos límites, problemas nunca conclusos, en modo alguno realidades unívocas que puedan servirnos de punto de partida. Para aislar un puro sonido necesitamos de los métodos físicos y fisiológicos, y de todo el aparato reflexivo de la introspección. De suerte que el puro sonido y la pura sensación, lejos de sernos dados, son construcciones de la ciencia sistemática. Llegamos hasta ellos, no sólo al cabo de la actuación científica, sino que, una vez hallados, no podemos separarlos de ésta y considerarlos como una posesión definitiva independientemente del proceso por que hemos llegado a ellas.
 
@@ -246,7 +255,7 @@ In questa maniera, bruciate le navi di ogni ricorso alla trascendenza, appare la
 
 Da alto a basso, è costruito dall'idealismo tutto l'ambito dell'essere, e il criterio stesso che regge quella costruzione non consiste in un'evidenza immediata che sarebbe trans o sobrrazionale, ma è, a sua volta, costruito come lo strumento primario che rende possibile ogni altra costruzione particolare. Così resta soddisfatta la rinuncia a ogni supposto materiale, che porta con sé il problema stesso della logica.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,assi/method,positions/methodic_doubt,concepts/reason,forms/essay"></span>
 
 En la teoría física son interpretadas las sensaciones refiriéndolas a un orden ideal de lugares previamente establecido y que llamamos orden espacio-temporal. Los objetos físicos no son, como Mach afirma, complejos de sensaciones; precisamente la luz vista y el sonido oído son lo que la física trata de resolver en determinaciones objetivas. En general, lo sensible es lo contrario de lo objetivo, su puro fenómeno, la deformación que lo objetivo experimenta al individualizarse en el sujeto psico-físico. Y la objetivación de los fenómenos consiste en referirlos a ese orden único espacio-temporal, donde convertidos en relaciones cuantitativas adquieren un «sentido» —dicho de otro modo, donde son.
 
@@ -300,7 +309,7 @@ La difficoltà è questa: basta il carattere di costruzione, come l'abbiamo desc
 
 E questo che accade con gli «oggetti» impossibili avviene identicamente con tutti gli altri. Tutto può essere soggetto di un giudizio, e in quanto soggetto, dando ragione all'idealismo, ammettiamo che non sia un concetto, una conoscenza, una verità. Ma non per questo cessa di trovarsi presente dinanzi a noi con completa passività da parte nostra. La verità che due e due facciano quattro suppone che il senso di questo giudizio sia da noi sovrapposto al due e al quattro stessi, che, per così dire, si situano in persona davanti alla nostra intuizione e che, sovrapponendolo, intuiamo la loro coincidenza.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,assi/method,positions/methodic_doubt,concepts/reason,forms/essay"></span>
 
 Intuición es, por consiguiente, una función previa aún a aquélla en que construimos el ser o el no ser. Vuelve a aparecer, en consecuencia, la pasividad de que hablaba el [empirismo](/positions/empiricism). Pero ¡en cuán diferente significado! Para aquél, pasividad era sinónimo de sensación y no había más contenido originario que lo sensible. La intuición abarca todos los grados intelectuales. Con no menos claridad intuitiva se nos presenta el contenido de una percepción normal que el número irracional, «el polígono de n lados», «la justicia» o «el principio de relatividad de Minkowsky»[32].
 

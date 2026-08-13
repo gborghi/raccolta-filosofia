@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Article against the militarization of the Post and Telegraph services (1918): the government's «energetic acts» discharge the state's coercive power onto one social group without any just or generous purpose, and the result is to sow lasting rancour against the state. Political denunciation.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

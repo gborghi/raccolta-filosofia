@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article on the Count of Romanones after his Paris trip: neither a failure nor a legendary victory, "a count with blemishes". Ortega recalls that the name symbolised for years the decay of Spanish political mores, and denies that any politics can be founded on him. Political journalism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Essay (1934) on Ortega's doctrine of prevailing beliefs (creencias vigentes): collective faith (e.g. in science) is a social reality independent of individuals, imposing itself like physical fact. It distinguishes individual opinion from social dogma.
+> FLAG: 1,368 words declared but 0 atoms and no prose sample in the digest. The title announces a thesis on the inauthenticity of private opinions held against the beliefs of one's own age, but the text cannot be checked and is left untagged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

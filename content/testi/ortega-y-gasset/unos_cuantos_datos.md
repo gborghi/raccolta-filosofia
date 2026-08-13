@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A note of literary criticism: a page-by-page list of quotations from Baroja's El árbol de la ciencia documenting its insults ('canalla', 'idiota', 'imbécil'), closing ironically on the sentence from page 253, 'He was beginning to feel a deep irritation against everything'. Documentary material, not philosophy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

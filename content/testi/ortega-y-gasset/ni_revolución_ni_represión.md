@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article on the Spanish social crisis: lacking intermediate bodies, every conflict — even a purely economic one — degenerates into a political problem and then into a revolutionary channel. Catalan syndicalism is the only organised force, public power a fiction on the margin of Spanish life, and in between lies the mass of the 'neutrals'. The remedy invoked is neither revolution nor repression but organisation. Political journalism.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/revolution|rivoluzione]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On the call for "a chief and discipline" for the Liberal party: conservative discipline is the Jesuit perinde ac cadaver, and the strength of such groups (Jesuits, secret societies) lies in formal cohesion rather than content — wood floats because it is more compact, not because it is worth more. Chief and discipline are a force, but it is grotesque to boast of them and thereby confess one has nothing else.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -132,7 +140,7 @@ Disciplina, capo, energia: tre formalismi, cavalcata nel vuoto, come dice, alla 
 
 Governare con tristezza, come Ferdinando VI —gridava dolorosamente Costa— e ci governano esultando. «Abbiamo bisogno nel governo di “impersonali” —diceva Costa—; Bismarcks innestati in San Francesco d'Assisi, con più di San Francesco che di Bismarck».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/political_legitimacy,concepts/state,forms/essay"></span>
 
 No podía hallarse más noble y precisa fórmula para señalar el camino del liberalismo: un partido «impersonal», con o sin el señor Moret, con o sin el señor Canalejas. En un partido rico de ideas y convicciones son los jefes una tilde de que se puede prescindir. En lugar de que el jefe gravite sobre el partido, es preciso que el partido gravite sobre los jefes. Un partido látigo.
 

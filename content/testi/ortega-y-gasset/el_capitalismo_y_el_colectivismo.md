@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Speech: neither pure capitalism nor pure collectivism governs the economy; national wealth must grow by bringing the capitalist aboard the socialist enterprise. Occasional political-economic text.
+> A 200-word fragment for which the digest supplies no sample: the content cannot be judged; the title indicates a note on capitalism and collectivism.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

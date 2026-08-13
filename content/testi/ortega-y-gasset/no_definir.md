@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A fragment of novel theory: we must see the characters' lives, not be told them, and the greatest error is for the novelist to define them. A definition is a series of concepts, and the concept is a mere mental allusion to the object — the pointing gesture of the index finger (Wundt); science cares not about things but about the system of signs that replaces them, while art travels from the habitual sign back to the thing itself, moved by an appetite to see. Hence his praise of the impressionist procedure.
+
+## Connections
+
+**Concetti:** [[concepts/idea|idea]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

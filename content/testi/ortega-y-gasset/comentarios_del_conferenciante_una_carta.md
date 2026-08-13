@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A letter to Castrovido answering "T. Sanz"'s criticisms of his lecture: Ortega claims descent from Costa while distinguishing himself from him, and above all specifies that his two Spains are not the old and the young, nor the reactionary and the heterodox, but official Spain and vital Spain — feeling closer to the dynamic Spain before the Restoration than to the men of the Restoration. He then defends the Liga de Educación Política's meeting. An occasional polemical document.
+
+## Connections
+
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

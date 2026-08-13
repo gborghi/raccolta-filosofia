@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Newspaper article urging that the effort otherwise spent on arms be devoted to great works of peace (roads, schools, ports). Political op-ed, not philosophical.
+> A short text (266 words) with no sample in the digest: content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

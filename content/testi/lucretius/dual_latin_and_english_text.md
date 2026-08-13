@@ -12,8 +12,20 @@ tags:
   - "philosopher/lucretius"
 ---
 
+*Lucretius*
+
 > [!abstract]
 > Facing-page Latin text with H. A. J. Munro's English translation of the complete De rerum natura. Sets out materialist atomism, the void, the clinamen, the mortality of the soul, and the Epicurean ethics of pleasure and ataraxia across all six books.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/freedom_necessity|Libertà e necessità]], [[assi/soul_body|Anima e corpo]], [[assi/end_of_life|Fine della vita]], [[assi/time_and_death|Tempo e morte]], [[assi/god|Dio]]  
+**Posizioni:** [[positions/atomism|atomismo]], [[positions/materialism|materialismo]], [[positions/clinamen|clinamen]], [[positions/ataraxia|atarassia]], [[positions/pleasure|piacere]], [[positions/deism|deismo]]  
+**Concetti:** [[concepts/soul|anima]], [[concepts/death|morte]], [[concepts/nature|natura]], [[concepts/infinity|infinito]], [[concepts/cause|causa]], [[concepts/religion|religione]], [[concepts/fortune|fortuna]], [[concepts/time|tempo]]  
+**Argomenti:** [[arguments/clinamen_argument|il clinamen]], [[arguments/death_is_nothing|la morte non è nulla per noi]]  
+**Figure:** [[figures/epicurus|Epicuro]]  
+**Forme:** [[forms/didactic_poem|poema didascalico]]  
+**Scuole:** [[schools/epicureanism|epicureismo]]
 
 <p class="work-source">Traduzione di H. A. J. Munro · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -288,7 +300,7 @@ et simul intereat nobiscum morte dirempta
 
 an pecudes alias divinitus insinuet se,
 
-<span class="atom-split" data-atom="002" data-title="Liber Primus — BOOK I. (parte 2)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Liber Primus — BOOK I. (parte 2)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Ennius ut noster cecinit, qui primus amoeno
 
@@ -512,7 +524,7 @@ semine quando opus est rebus, quo quaeque creatae
 
 aeris in teneras possint proferrier auras.
 
-<span class="atom-split" data-atom="003" data-title="Liber Primus — BOOK I. (parte 3)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Liber Primus — BOOK I. (parte 3)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="positions/atomism,positions/materialism,concepts/nature,schools/epicureanism"></span>
 
 [163] horned and other herds, every kind of wild beasts would haunt with changing broad tilth and wilderness alike.
 
@@ -718,7 +730,7 @@ dat sonitu magno stragem volvitque sub undis
 
 grandia saxa, ruit qua quidquid fluctibus obstat.
 
-<span class="atom-split" data-atom="004" data-title="Liber Primus — BOOK I. (parte 4)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Liber Primus — BOOK I. (parte 4)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [248] Lastly, rains die, when father ether has tumbled them into the lap of mother earth; but then goodly crops spring up and boughs are green with leaves upon the trees, trees themselves grow and are laden with fruit; by them in turn our race and the race of wild beasts are fed, by them we see glad towns teem with children and the leafy forests ring on all sides with the song of new birds; through them cattle wearied with their load of fat lay their bodies down about the glad pastures and the white milky stream pours from the distended udders; through them a new brood with weakly limbs frisks and gambols over the soft grass, rapt in their young hearts with the pure new milk.
 
@@ -938,7 +950,7 @@ scilicet id falsa totum ratione receptumst.
 
 nam quo squamigeri poterunt procedere tandem,
 
-<span class="atom-split" data-atom="005" data-title="Liber Primus — BOOK I. (parte 5)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Liber Primus — BOOK I. (parte 5)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 ni spatium dederint latices? concedere porro
 
@@ -1140,7 +1152,7 @@ adventu manet incolumis natura abituque,
 
 haec soliti sumus, ut par est, eventa vocare.
 
-<span class="atom-split" data-atom="006" data-title="Liber Primus — BOOK I. (parte 6)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Liber Primus — BOOK I. (parte 6)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [tempus](/concepts/time) item per se non est, sed rebus ab ipsis
 
@@ -1360,7 +1372,7 @@ antehac ad nihilum penitus res quaeque redissent
 
 de nihiloque renata forent quae cumque videmus.
 
-<span class="atom-split" data-atom="007" data-title="Liber Primus — BOOK I. (parte 7)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Liber Primus — BOOK I. (parte 7)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 at quoniam supra docui nil posse creari
 
@@ -1592,7 +1604,7 @@ propterea quia, quae nullis sunt partibus aucta,
 
 non possunt ea quae debet genitalis habere
 
-<span class="atom-split" data-atom="008" data-title="Liber Primus — BOOK I. (parte 8)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Liber Primus — BOOK I. (parte 8)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 materies, varios conexus pondera plagas
 
@@ -1810,7 +1822,7 @@ quorum Acragantinus cum primis Empedocles est,
 
 insula quem triquetris terrarum gessit in oris,
 
-<span class="atom-split" data-atom="009" data-title="Liber Primus — BOOK I. (parte 9)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Liber Primus — BOOK I. (parte 9)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 quam fluitans circum magnis anfractibus aequor
 
@@ -2006,7 +2018,7 @@ corpora constituas, ignem si forte crearint,
 
 ordine mutato et motu, facere aeris auras,
 
-<span class="atom-split" data-atom="010" data-title="Liber Primus — BOOK I. (parte 10)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Liber Primus — BOOK I. (parte 10)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 sic alias aliis rebus mutarier omnis?
 
@@ -2218,7 +2230,7 @@ cum lapidi in lapidem terimus, manare cruorem
 
 et latices dulcis guttas similique sapore
 
-<span class="atom-split" data-atom="011" data-title="Liber Primus — BOOK I. (parte 11)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Liber Primus — BOOK I. (parte 11)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 mittere, lanigerae quali sunt ubere lactis,
 
@@ -2434,7 +2446,7 @@ an prohibere aliquid censes obstareque posse?
 
 alterutrum fatearis enim sumasque necessest.
 
-<span class="atom-split" data-atom="012" data-title="Liber Primus — BOOK I. (parte 12)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Liber Primus — BOOK I. (parte 12)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 975 quorum utrumque tibi effugium praecludit et omne
 
@@ -2636,7 +2648,7 @@ atque ideo mundi naturam stare sine ullis
 
 summa atque ima, quod in medium sint omnia nixa,
 
-<span class="atom-split" data-atom="013" data-title="Liber Primus — BOOK I. (parte 13)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Liber Primus — BOOK I. (parte 13)" data-chapter="Liber Primus — BOOK I." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 ipsum si quicquam posse in se sistere credis,
 
@@ -2782,7 +2794,7 @@ pervideas: ita res accendent lumina rebus.
 
 For one thing after another will grow clear and dark night will not rob you of the road and keep you from surveying the utmost ends of nature: in such wise things will light the torch for other things.
 
-<span class="atom-split" data-atom="014" data-title="Liber Secundus — BOOK II. (parte 1)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Liber Secundus — BOOK II. (parte 1)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Suave, mari magno turbantibus aequora ventis
 
@@ -3016,7 +3028,7 @@ haec validas saxi radices et fera ferri
 
 corpora constituunt et cetera de genere horum.
 
-<span class="atom-split" data-atom="015" data-title="Liber Secundus — BOOK II. (parte 2)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Liber Secundus — BOOK II. (parte 2)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 105 paucula quae porro magnum per inane vagantur,
 
@@ -3224,7 +3236,7 @@ Nunc locus est, ut opinor, in his illud quoque rebus
 
 185 confirmare tibi, nullam rem posse sua vi
 
-<span class="atom-split" data-atom="016" data-title="Liber Secundus — BOOK II. (parte 3)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Liber Secundus — BOOK II. (parte 3)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 corpoream sursum ferri sursumque meare.
 
@@ -3464,7 +3476,7 @@ cogitur inter dum flecti per membra per artus
 
 et proiecta refrenatur retroque residit.
 
-<span class="atom-split" data-atom="017" data-title="Liber Secundus — BOOK II. (parte 4)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Liber Secundus — BOOK II. (parte 4)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [243] Wherefore again and again I say bodies must [swerve](/positions/clinamen) a little; and an yet not more than the least possible; lest we be found to be imagining oblique motions and this the reality should refute.
 
@@ -3660,7 +3672,7 @@ oblectare animum subitamque avertere curam,
 
 nec vitulorum aliae species per pabula laeta
 
-<span class="atom-split" data-atom="018" data-title="Liber Secundus — BOOK II. (parte 5)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Liber Secundus — BOOK II. (parte 5)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="positions/atomism,forms/didactic_poem,schools/epicureanism"></span>
 
 365 derivare queunt animum curaque levare;
 
@@ -3868,7 +3880,7 @@ et validi silices ac duri robora ferri
 
 450 aeraque quae claustris restantia vociferantur.
 
-<span class="atom-split" data-atom="019" data-title="Liber Secundus — BOOK II. (parte 6)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Liber Secundus — BOOK II. (parte 6)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [409] lest haply you suppose that the harsh grating of the creaking saw consists of the elements as smooth as those of tuneful melodies which musicians wake into life with nimble fingers and give shape to on strings; or suppose that the first-beginnings are of like shape which pass into the nostrils of men, when noisome carcasses are burning, and when the stage is fresh sprinkled with Cilician saffron, while the altar close by exhales Panchaean odors; or decide that the pleasant colors of things which are able to feast the eyes are formed of a seedlike to the seed of those which make the pupil smart and force it to shed tears or from their disgusting aspect look hideous and foul.
 
@@ -4078,7 +4090,7 @@ at regione locoque alio terrisque remotis
 
 [494] From all this it results that increase of bulk in the body follows upon newness of the shapes.
 
-<span class="atom-split" data-atom="020" data-title="Liber Secundus — BOOK II. (parte 7)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Liber Secundus — BOOK II. (parte 7)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="positions/atomism,concepts/infinity,forms/didactic_poem"></span>
 
 Wherefore you cannot possibly believe that seeds have an infinite variety of forms, lest you force some to be of a monstrous hugeness, which as I have above shown cannot be proved.
 
@@ -4284,7 +4296,7 @@ concava, raucisonoque minantur cornua cantu,
 
 [579] And herein it is proper you should keep under seal, and guard, there consigned, in faithful memory this truth, that there is nothing whose nature is apparent to sense which consists of one kind of first-beginnings; nothing which is not formed by a mixing of seed.
 
-<span class="atom-split" data-atom="021" data-title="Liber Secundus — BOOK II. (parte 8)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Liber Secundus — BOOK II. (parte 8)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 And whenever a thing possesses in itself in larger measure many powers and properties, in that measure it shows that there are in it the greatest number of different kinds and varied shapes of first-beginnings.
 
@@ -4502,7 +4514,7 @@ And hence, too, any one you please out of the whole number of living creatures i
 
 Furthermore whatever things are set on fire and burned, store up in their body, if nothing else, at least those particles, out of which they may radiate fire and send out light and make sparks fly and scatter embers all about.
 
-<span class="atom-split" data-atom="022" data-title="Liber Secundus — BOOK II. (parte 9)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Liber Secundus — BOOK II. (parte 9)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 If you will go over all other things by a like process of reasoning, you will thus find that they conceal in their body the seeds of many things and contain elements of various shapes.
 
@@ -4716,7 +4728,7 @@ For whenever a thing changes and quits its proper limits, at once this change of
 
 Therefore mind not to dye with color the seeds of things, that you may not have all things altogether returning to nothing.
 
-<span class="atom-split" data-atom="023" data-title="Liber Secundus — BOOK II. (parte 10)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Liber Secundus — BOOK II. (parte 10)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Moreover, if no quality of color is assigned to first-beginnings and they are yet possessed of varied shapes out of which they beget colors of every kind and change them about by reason that it makes a great difference with what other seeds and in what position the seeds are severally held in union and what motions they mutually impart and receive, you can explain at once with the greatest ease why those things which just before were of a black color, may become all at once of marble whiteness; as the sea, when mighty winds have stirred up its waters, is changed into white waves of the brightness of marble: you may say that when the matter of that which we often see to be black has been mixed up anew and the arrangement of its first-beginnings has been changed and some have been added and some been taken away, the immediate result is that it appears bright and white.
 
@@ -4912,7 +4924,7 @@ So also since we cannot perceive all things with the eyes, you are to know that 
 
 But lest haply you suppose that first bodies remain stripped of color alone, they are also wholly devoid of warmth and cold and violent heat, and are judged to be barren of sound and drained of moisture, and emit from their body no scent of their own.
 
-<span class="atom-split" data-atom="024" data-title="Liber Secundus — BOOK II. (parte 11)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Liber Secundus — BOOK II. (parte 11)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Just as when you set about preparing the balmy liquid of sweet marjoram and myrrh and the flower of spikenard which gives forth to the nostrils a scent like nectar, before all you should seek, so far as you may and can find it, the substance of scentless oil, such as gives out no perfume to the nostrils, that it may as little as possible meddle with and destroy by its own pungency the odors mixed in its body and boiled up with it; for the same reason the first-beginnings of things must not bring to the begetting of things a smell or sound of their own, since they cannot discharge anything from themselves, and for the same reason no taste either nor cold nor any heat moderate or violent, and the like.
 
@@ -5110,7 +5122,7 @@ Nay, granting they could do this, yet by their meeting and union they will make 
 
 But if haply they lose from their body their own sense and adopt another, what use was it to assign what is again withdrawn? Moreover, the instance to which we had before recourse, inasmuch as we see the eggs of fowls change into living chicks and worms burst forth, when putridity has seized on the earth after excessive rains, you are to know that sensations can be begotten out of no-sensations.
 
-<span class="atom-split" data-atom="025" data-title="Liber Secundus — BOOK II. (parte 12)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Liber Secundus — BOOK II. (parte 12)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 But if haply any one shall say that sense so far may arise from no-sensation by a process of change, or because it is brought forth by a kind of birth, it will be enough to make plain and to prove to him that no birth takes place until a union of elements has first been effected, and that nothing changes without their having been united.
 
@@ -5304,7 +5316,7 @@ Nay in our verses themselves it matters much with what other elements and in wha
 
 If not all, yet by far the greatest number are alike; but the totals composed of them are made to differ by the position of these elements.
 
-<span class="atom-split" data-atom="026" data-title="Liber Secundus — BOOK II. (parte 13)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Liber Secundus — BOOK II. (parte 13)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Thus in actual things, as well, when the clashings potions, arrangement, position and shapes of matter change about, the things must also change.
 
@@ -5504,7 +5516,7 @@ For I appeal to the holy breasts of the gods who in tranquil peace pass a calm t
 
 Who can at once make all the different heavens to roll and warm with ethereal fires all the fruitful earths, or be present in all places at all times, to bring darkness with clouds and shake with noise the heaven’s serene expanse, to hurl lightnings and often throw down his own temples, and withdrawing into the deserts there to spend his rage in practicing his bolt which often passes the guilty by and strikes dead the innocent and unoffending?
 
-<span class="atom-split" data-atom="027" data-title="Liber Secundus — BOOK II. (parte 14)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Liber Secundus — BOOK II. (parte 14)" data-chapter="Liber Secundus — BOOK II." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 And since the birth-time of the world and first day of being to sea and earth and the formation of the sun many bodies have been added from without, many seeds added all round, which the great universe in tossing to and fro has contributed; that from them the sea and lands might increase and from them heaven’s mansion might enlarge its expanse and raise its high vaults far above earth, and that air might rise up around.
 
@@ -5662,7 +5674,7 @@ And now the aged plowman shakes his head and sighs again and again to think that
 
 The sorrowful planter too of the exhausted and shriveled vine impeaches the march of time and wearies heaven, and comprehends not that all things are gradually wasting away and passing to the grave, quite forspent by age and length of days.
 
-<span class="atom-split" data-atom="028" data-title="Liber Tertius — BOOK III. (parte 1)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Liber Tertius — BOOK III. (parte 1)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 E tenebris tantis tam clarum extollere lumen
 
@@ -5904,7 +5916,7 @@ sic animi sensum non certa parte reponunt;
 
 Saepe itaque, in promptu corpus quod cernitur, aegret,
 
-<span class="atom-split" data-atom="029" data-title="Liber Tertius — BOOK III. (parte 2)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Liber Tertius — BOOK III. (parte 2)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 cum tamen ex alia laetamur parte latenti;
 
@@ -6108,7 +6120,7 @@ perquam seminibus debet perquamque minutis,
 
 momine uti parvo possint inpulsa moveri.
 
-<span class="atom-split" data-atom="030" data-title="Liber Tertius — BOOK III. (parte 3)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Liber Tertius — BOOK III. (parte 3)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 namque movetur aqua et tantillo momine flutat,
 
@@ -6324,7 +6336,7 @@ vis, initum motus ab se quae dividit ollis,
 
 sensifer unde oritur primum per viscera motus.
 
-<span class="atom-split" data-atom="031" data-title="Liber Tertius — BOOK III. (parte 4)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Liber Tertius — BOOK III. (parte 4)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 nam penitus prorsum latet haec [natura](/concepts/nature) subestque
 
@@ -6522,7 +6534,7 @@ atque animam credit permixtam corpore toto
 
 suscipere hunc motum quem sensum nominitamus,
 
-<span class="atom-split" data-atom="032" data-title="Liber Tertius — BOOK III. (parte 5)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Liber Tertius — BOOK III. (parte 5)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/atomism,positions/materialism,forms/didactic_poem,schools/epicureanism"></span>
 
 vel manifestas res contra verasque repugnat.
 
@@ -6736,7 +6748,7 @@ ocius et citius dissolvi in corpora prima,
 
 cum semel ex hominis membris ablata recessit;
 
-<span class="atom-split" data-atom="033" data-title="Liber Tertius — BOOK III. (parte 6)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Liber Tertius — BOOK III. (parte 6)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 440 quippe etenim corpus, quod vas quasi constitit eius,
 
@@ -6944,7 +6956,7 @@ usque adeo falsae rationi vera videtur
 
 res occurrere et effugium praecludere eunti
 
-<span class="atom-split" data-atom="034" data-title="Liber Tertius — BOOK III. (parte 7)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Liber Tertius — BOOK III. (parte 7)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 525 ancipitique refutatu convincere falsum.
 
@@ -7152,7 +7164,7 @@ ire foras animam incolumem de corpore toto,
 
 nec prius ad iugulum et supera succedere fauces,
 
-<span class="atom-split" data-atom="035" data-title="Liber Tertius — BOOK III. (parte 8)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Liber Tertius — BOOK III. (parte 8)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 610 verum deficere in certa regione locatam;
 
@@ -7360,7 +7372,7 @@ ossaque, uti dentes quoque sensu participentur;
 
 Another tries to get up after he has lost his leg, while the dying foot quivers with its toes on the ground close by.
 
-<span class="atom-split" data-atom="036" data-title="Liber Tertius — BOOK III. (parte 9)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Liber Tertius — BOOK III. (parte 9)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="positions/materialism,positions/atomism,concepts/death,concepts/soul,schools/epicureanism"></span>
 
 The head too when cut off from the warm and living trunk retains on the ground the expression of life and open eyes, until it has yielded up all the remnants of soul.
 
@@ -7558,7 +7570,7 @@ et domus aetatis spatio ne fessa vetusto
 
 [734] Nevertheless be it ever so expedient for them to make a body, when they are going to enter, yet clearly there is no way by which they can do so.
 
-<span class="atom-split" data-atom="037" data-title="Liber Tertius — BOOK III. (parte 10)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Liber Tertius — BOOK III. (parte 10)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Therefore souls do not make for themselves bodies and limbs; no: nor can they by any [method](/axes/method) find their way into bodies after they are full formed; for they will neither be able to unite themselves with a nice precision nor will any connection of mutual sensation be formed between them.
 
@@ -7784,7 +7796,7 @@ ipse quoque esse in eo tum tempore, cui male possit
 
 accidere. id quoniam mors eximit, esseque prohibet
 
-<span class="atom-split" data-atom="038" data-title="Liber Tertius — BOOK III. (parte 11)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Liber Tertius — BOOK III. (parte 11)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 865 illum cui possint incommoda conciliari,
 
@@ -7974,7 +7986,7 @@ rursum quod pereat male et ingratum occidat omne,
 
 non potius vitae finem facis atque laboris?
 
-<span class="atom-split" data-atom="039" data-title="Liber Tertius — BOOK III. (parte 12)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Liber Tertius — BOOK III. (parte 12)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [904] “Thou, even as now thou art, sunk in the sleep of death, shalt continue so to be all time to come, freed from all distressful pains; but we with a sorrow that would not be sated wept for thee, when close by thou didst turn to an ashen hue on thy appalling funeral pile, and no length of days shall pluck from our hearts our ever-during grief?”
 
@@ -8182,7 +8194,7 @@ hic Acherusia fit stultorum denique vita.
 
 [981] but in life rather a baseless dread of the gods vexes mortals: [the fall](/positions/original_sin) they fear is such fall of luck as [chance](/concepts/fortune) brings to each.
 
-<span class="atom-split" data-atom="040" data-title="Liber Tertius — BOOK III. (parte 13)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Liber Tertius — BOOK III. (parte 13)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Nor do birds eat away into Tityos laid in Acheron, nor can they, sooth to say, find during [eternity](/positions/eternity) food to peck under his large breast.
 
@@ -8370,7 +8382,7 @@ mensibus atque annis qui multis occidit ante.
 
 In this way each man flies from himself, (but self from whom, as you may be sure is commonly the case, he cannot escape, clings to him in his own despite) hates too himself, because he is sick and knows not the cause of the malady.
 
-<span class="atom-split" data-atom="041" data-title="Liber Tertius — BOOK III. (parte 14)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Liber Tertius — BOOK III. (parte 14)" data-chapter="Liber Tertius — BOOK III." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 For if he could rightly see into this, relinquishing all else, each man would study to learn the nature of things, since the point at stake is the condition for [eternity](/positions/eternity), not for one hour, in which mortals have to pass all the time which remains for them to expect after death.
 
@@ -8386,7 +8398,7 @@ Nor by prolonging life do we take one tittle from the time past in death nor can
 
 Therefore you may complete as many generations as you please during your life; none the less however will that everlasting death await you; and for no less long a time will he be no more in being, who beginning with today has ended his life, than the man who has died many months and years ago.
 
-<span class="atom-split" data-atom="042" data-title="Liber Quartus — BOOK IV. (parte 1)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Liber Quartus — BOOK IV. (parte 1)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Avia Pieridum peragro loca nullius ante
 
@@ -8634,7 +8646,7 @@ percipe. et in primis, quoniam primordia tantum
 
 sunt infra nostros sensus tantoque minora
 
-<span class="atom-split" data-atom="043" data-title="Liber Quartus — BOOK IV. (parte 2)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Liber Quartus — BOOK IV. (parte 2)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 quam quae primum oculi coeptant non posse tueri,
 
@@ -8844,7 +8856,7 @@ suppeditatur enim confestim lumine lumen
 
 190 et quasi protelo stimulatur fulgere fulgur.
 
-<span class="atom-split" data-atom="044" data-title="Liber Quartus — BOOK IV. (parte 3)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="Liber Quartus — BOOK IV. (parte 3)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 qua propter simulacra pari ratione necessest
 
@@ -9062,7 +9074,7 @@ sic ubi se primum speculi proiecit imago,
 
 280 dum venit ad nostras acies, protrudit agitque
 
-<span class="atom-split" data-atom="045" data-title="Liber Quartus — BOOK IV. (parte 4)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Liber Quartus — BOOK IV. (parte 4)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 aëra qui inter se cumquest oculosque locatus,
 
@@ -9260,7 +9272,7 @@ propterea fit uti videantur saepe rutundae,
 
 sive etiam potius non cernitur ac perit eius
 
-<span class="atom-split" data-atom="046" data-title="Liber Quartus — BOOK IV. (parte 5)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Liber Quartus — BOOK IV. (parte 5)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="positions/atomism,positions/empiricism,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 plaga nec ad nostras acies perlabitur ictus,
 
@@ -9474,7 +9486,7 @@ omnia converti sursumque supina reverti
 
 et reflexa prope in summo fluitare liquore.
 
-<span class="atom-split" data-atom="047" data-title="Liber Quartus — BOOK IV. (parte 6)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Liber Quartus — BOOK IV. (parte 6)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Raraque per caelum cum venti nubila portant
 
@@ -9676,7 +9688,7 @@ prodita iudiciis fallacibus omnia primis,
 
 520 sic igitur ratio tibi rerum prava necessest
 
-<span class="atom-split" data-atom="048" data-title="Liber Quartus — BOOK IV. (parte 7)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Liber Quartus — BOOK IV. (parte 7)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="positions/atomism,positions/empiricism,forms/didactic_poem,schools/epicureanism"></span>
 
 falsaque sit, falsis quae cumque ab sensibus ortast.
 
@@ -9904,7 +9916,7 @@ omnia quae circum fervunt sonituque cientur.
 
 at simulacra viis derectis omnia tendunt,
 
-<span class="atom-split" data-atom="049" data-title="Liber Quartus — BOOK IV. (parte 8)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Liber Quartus — BOOK IV. (parte 8)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 610 ut sunt missa semel; qua propter cernere nemo
 
@@ -10128,7 +10140,7 @@ significat quod fracta magis redolere videntur
 
 omnia, quod contrita, quod igni conlabefacta.
 
-<span class="atom-split" data-atom="050" data-title="Liber Quartus — BOOK IV. (parte 9)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Liber Quartus — BOOK IV. (parte 9)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [658] For this reason when that which is sweet to some becomes bitter to others, for that creature to whom it is sweet the smoothest bodies must enter the cavities of the palate with power to feel them all over; but on the other hand in the case of those to whom the same thing is bitter within, rough and barbed seeds sure enough pass down the throat.
 
@@ -10324,7 +10336,7 @@ Multaque in his rebus quaeruntur multaque nobis
 
 clarandumst, plane si res exponere avemus.
 
-<span class="atom-split" data-atom="051" data-title="Liber Quartus — BOOK IV. (parte 10)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="Liber Quartus — BOOK IV. (parte 10)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [739] For assuredly no image of Centaur is formed out of a live one, since no such nature of living creature ever existed; but when images of a horse and a man have by [chance](/concepts/fortune) come together, they readily adhere at once, as we said before, on account of their fine nature and thin texture.
 
@@ -10540,7 +10552,7 @@ utilitatis ob officium potuisse creari.
 
 Illud item non est mirandum, corporis ipsa
 
-<span class="atom-split" data-atom="052" data-title="Liber Quartus — BOOK IV. (parte 11)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="Liber Quartus — BOOK IV. (parte 11)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 quod [natura](/concepts/nature) cibum quaerit cuiusque animantis.
 
@@ -10754,7 +10766,7 @@ conturbantur enim positurae principiorum
 
 corporis atque animi. fit uti pars inde animai
 
-<span class="atom-split" data-atom="053" data-title="Liber Quartus — BOOK IV. (parte 12)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="Liber Quartus — BOOK IV. (parte 12)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 945 eliciatur et introrsum pars abdita cedat,
 
@@ -10972,7 +10984,7 @@ semen, ubi ipsa dies membris matura creavit,
 
 conveniunt simulacra foris e corpore quoque,
 
-<span class="atom-split" data-atom="054" data-title="Liber Quartus — BOOK IV. (parte 13)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="Liber Quartus — BOOK IV. (parte 13)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 nuntia praeclari voltus pulchrique coloris,
 
@@ -11190,7 +11202,7 @@ cum sibi quod cupiant ipsi contingere quaerunt,
 
 nec reperire malum id possunt quae machina vincat.
 
-<span class="atom-split" data-atom="055" data-title="Liber Quartus — BOOK IV. (parte 14)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Liber Quartus — BOOK IV. (parte 14)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 1120 usque adeo incerti tabescunt volnere caeco.
 
@@ -11396,7 +11408,7 @@ si non, ipsa quod illarum subat, ardet abundans
 
 One becomes a slim darling then when she cannot live from want of flesh; and she is only spare, who is half-dead with cough.
 
-<span class="atom-split" data-atom="056" data-title="Liber Quartus — BOOK IV. (parte 15)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="Liber Quartus — BOOK IV. (parte 15)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Then the fat and big-breasted is a Ceres’ self big-breasted from Iacchus; the pug-nosed is a she Silenus and a satyress; the thick-lipped a very kiss.
 
@@ -11598,7 +11610,7 @@ They are barren sometimes from the too great thickness of the seed, sometimes fr
 
 For well-assorted matches are found to be of great importance; and some males impregnate some females more readily than others, and other females conceive and become pregnant more readily from other males.
 
-<span class="atom-split" data-atom="057" data-title="Liber Quartus — BOOK IV. (parte 16)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Liber Quartus — BOOK IV. (parte 16)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 And many women have hitherto been barren during several marriages and have yet in the end found mates from whom they could conceive children and be enriched with a sweet offspring.
 
@@ -11640,7 +11652,7 @@ Moreover [custom](/concepts/custom) renders love attractive; for that which is s
 
 See you not too that drops of water falling on stones after long course of time scoop a hole through these stones?
 
-<span class="atom-split" data-atom="058" data-title="Liber Quintus — BOOK V. (parte 1)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="Liber Quintus — BOOK V. (parte 1)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Quis potis est dignum pollenti pectore carmen
 
@@ -11890,7 +11902,7 @@ quod procul a nobis flectat [fortuna](/concepts/fortune) gubernans,
 
 et ratio potius quam res persuadeat ipsa
 
-<span class="atom-split" data-atom="059" data-title="Liber Quintus — BOOK V. (parte 2)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="Liber Quintus — BOOK V. (parte 2)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 succidere horrisono posse omnia victa fragore.
 
@@ -12074,7 +12086,7 @@ qui numquam vero vitae gustavit amorem
 
 180 nec fuit in numero, quid obest non esse creatum?
 
-<span class="atom-split" data-atom="060" data-title="Liber Quintus — BOOK V. (parte 3)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Liber Quintus — BOOK V. (parte 3)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 exemplum porro gignundis rebus et ipsa
 
@@ -12300,7 +12312,7 @@ innumerabiliter privas mutatur in horas.
 
 275 semper enim, quod cumque fluit de rebus, id omne
 
-<span class="atom-split" data-atom="061" data-title="Liber Quintus — BOOK V. (parte 4)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Liber Quintus — BOOK V. (parte 4)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 aëris in magnum fertur mare; qui nisi contra
 
@@ -12514,7 +12526,7 @@ possint incidere et valida dissolvere plaga.
 
 Again, if there was no birth-time of earth and heaven and they have been from everlasting, why before the Theban war and the destruction of Troy have not other poets as well sung other themes?
 
-<span class="atom-split" data-atom="062" data-title="Liber Quintus — BOOK V. (parte 5)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="Liber Quintus — BOOK V. (parte 5)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Whither have so many deeds of men so often passed away, why live they nowhere embodied in lasting records of fame? The truth methinks is that the sum has but a recent date and the nature of the world is new and has but lately had its commencement.
 
@@ -12716,7 +12728,7 @@ seorsus item puri secretique aetheris ignes.
 
 Fire may gain the mastery when more bodies of matter than usual have gathered themselves up out of the infinite; and then its powers decay, vanquished in some way or other, or else things perish burnt up by the torrid air.
 
-<span class="atom-split" data-atom="063" data-title="Liber Quintus — BOOK V. (parte 6)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Liber Quintus — BOOK V. (parte 6)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Water too of yore gathered itself and began to get the mastery, as the story goes, when it whelmed many cities of men; and then when all that force that had gathered itself up out of the infinite, by some means or other was turned aside and withdrew, the rains were stayed and the rivers abated their fury.
 
@@ -12916,7 +12928,7 @@ praecipere haud quaquamst pedetemptim progredientis.
 
 Thus then the ponderous mass of earth was formed with close-cohering body and all the slime of the world so to speak slid down by its weight to the lowest point and settled at the bottom like dregs.
 
-<span class="atom-split" data-atom="064" data-title="Liber Quintus — BOOK V. (parte 7)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="Liber Quintus — BOOK V. (parte 7)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Then the sea, then the air, then the fire-laden ether itself, all are left unmixed with their clear bodies; and some are lighter than others, and clearest and lightest of all ether floats upon the airy currents, and blends not its clear body with the troubled airs; it suffers all these things below to be upset with furious hurricanes, suffer them to be troubled by wayward storms; while it carries along its own fires gliding with a changeless onward sweep.
 
@@ -13112,7 +13124,7 @@ circum se, nullo qui sit fulgore notatus,
 
 aestifer ut tantum radiorum exaugeat ictum.
 
-<span class="atom-split" data-atom="065" data-title="Liber Quintus — BOOK V. (parte 8)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Liber Quintus — BOOK V. (parte 8)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [573] And whether the moon as it is borne on illuminates places with a borrowed light, or emits its own light from its own body, whatever that is, the form with which it is thus borne on is not at all larger than the one which it presents to our eyes seems to us to be.
 
@@ -13320,7 +13332,7 @@ ut ratio declarat eorum qui loca caeli
 
 [654] or else because the same force which has carried on his orb above the earth, compels him to change his course and pass below the earth.
 
-<span class="atom-split" data-atom="066" data-title="Liber Quintus — BOOK V. (parte 9)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Liber Quintus — BOOK V. (parte 9)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 At a fixed time too Matuta spreads rosy morning over the borders of ether and opens up her light, either because the same sun, coming back below the earth, seizes heaven before his time trying to kindle it with his rays; or because fires meet together and many seeds of heat are accustomed to stream together at a fixed time, which cause new sunlight to be born every day.
 
@@ -13526,7 +13538,7 @@ arva, novo fetu quid primum in luminis oras
 
 tollere et incertis crerint committere ventis.
 
-<span class="atom-split" data-atom="067" data-title="Liber Quintus — BOOK V. (parte 10)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="Liber Quintus — BOOK V. (parte 10)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [736] Spring and Venus go their way, and the winged harbinger of Venus steps on before; and close on Zephyr’s footprints mother Flora straws all the way before them and covers it over with the choicest colors and odors.
 
@@ -13732,7 +13744,7 @@ ex ineunte aevo genus id tutaTA reservans.
 
 Wherefore again and again I say the earth with good title has gotten and keeps the name of mother, since she of herself gave birth to mankind and at a time nearly fixed shed forth every beast that ranges wildly over the great mountains, and at the same time the fowls of the air with all their varied shapes.
 
-<span class="atom-split" data-atom="068" data-title="Liber Quintus — BOOK V. (parte 11)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="Liber Quintus — BOOK V. (parte 11)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 But because she must have some limit set to her bearing, she ceased like a woman worn out by length of days.
 
@@ -13934,7 +13946,7 @@ glandiferas inter curabant corpora quercus
 
 Since flame moreover is wont to scorch and burn the tawny bodies of lions just as much as any other kind of flesh and blood existing on earth, how could it be that a single chimera with triple body, in front a lion, behind a dragon, in the middle the goat whose name it bears, could breathe out at the mouth fierce flame from its body?
 
-<span class="atom-split" data-atom="069" data-title="Liber Quintus — BOOK V. (parte 12)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="Liber Quintus — BOOK V. (parte 12)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Wherefore also he who fables that in the new time of the earth and the fresh youth of heaven such living creatures could have been begotten, resting upon this one futile term new, may babble out many things in like fashion, may say that rivers then ran with gold over all parts of the earth and that trees were wont to blossom with precious stones, or that man was born with such giant force of frame that he could wade on foot across deep seas and whirl the whole heaven about him with his hands.
 
@@ -14138,7 +14150,7 @@ For then this one or that other one of them would be more likely to be seized, a
 
 But those whom flight had saved with body eaten into, holding ever after their quivering palms over the noisome sores would summon death with appalling cries, until cruel gripings had rid them of life, forlorn of help, unwitting what wounds wanted.
 
-<span class="atom-split" data-atom="070" data-title="Liber Quintus — BOOK V. (parte 13)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="Liber Quintus — BOOK V. (parte 13)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 But then a single day gave not over to death many thousands of men marching with banners spread, nor did the stormy waters of the sea dash on the rocks men and ships.
 
@@ -14354,7 +14366,7 @@ Again is not the neigh too seen to differ, when a young stallion in the flower o
 
 Lastly, the race of fowls and various birds, hawks and osprays and gulls seeking their living in the salt water mid the waves of the sea, utter at a different time noises widely different from those they make when they are fighting for food and struggling with their prey.
 
-<span class="atom-split" data-atom="071" data-title="Liber Quintus — BOOK V. (parte 14)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Liber Quintus — BOOK V. (parte 14)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 And some of them change together with the weather their harsh croakings, as the long-lived races of crows and flocks of rooks when they are said to be calling for water and rain and sometimes to be summoning winds and gales.
 
@@ -14562,7 +14574,7 @@ For though he eludes God and man, yet he cannot but feel a misgiving that his se
 
 And now what cause has spread over great nations the [worship](/concepts/religion) of the divinities of the gods and filled towns with altars and led to the performance of stated sacred rites, rites now in fashion on solemn occasions and in solemn places, from which even now, is implanted in mortals a shuddering awe which raises new temples of the gods over the whole earth and prompts men to crowd them on festive days, all this it is not so difficult to explain in words.
 
-<span class="atom-split" data-atom="072" data-title="Liber Quintus — BOOK V. (parte 15)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="Liber Quintus — BOOK V. (parte 15)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Even then in sooth the races of mortal men would see in waking mind glorious forms, would see them in sleep of yet more marvelous size of body.
 
@@ -14770,7 +14782,7 @@ Again, when the whole earth rocks under their feet and towns tumble with the sho
 
 To proceed, copper and gold and iron were discovered and at the same time weighty silver and the substance of lead, when fire with its heat had burnt up vast forests on the great hills, either by a discharge of heaven’s lightning, or else because men waging with one another a forest-war had carried fire among the enemy in order to strike terror, or because drawn on by the goodness of the soil they would wish to clear rich fields and bring the country into pasture, or else to destroy wild beasts and enrich themselves with the booty; for hunting with the pitfall and with fire came into use before the practice of enclosing the lawn with toils and stirring it with dogs.
 
-<span class="atom-split" data-atom="073" data-title="Liber Quintus — BOOK V. (parte 16)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Liber Quintus — BOOK V. (parte 16)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Whatever the fact is, from whatever cause the heat of flame had swallowed up the forests with a frightful crackling from their very roots and had thoroughly baked the earth with fire, there would run from the boiling veins and collect into the hollows of the ground a stream of silver and gold, as well as of copper and lead.
 
@@ -14982,7 +14994,7 @@ The bulls would toss their own friends and trample them under foot, and gore wit
 
 The boars too would rend their friends with powerful tusks, in their rage dying with their blood the weapons broken in them, ay dying with their blood the weapons broken in their own bodies; and would put to promiscuous rout horse and foot; for the tame beasts would try to avoid by shying to the side the cruel push of the tusk, or would rear up and paw the winds, all in vain, since you might see them tumble down with their tendons severed and straw the in their heavy fall.
 
-<span class="atom-split" data-atom="074" data-title="Liber Quintus — BOOK V. (parte 17)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="Liber Quintus — BOOK V. (parte 17)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Those whom they believed before to have been sufficiently broken in at home, they would see lash themselves into fury in the heat of action from wounds and shouting, flight panic and uproar; and they could not rally any portion of them; for all the different kinds of wild beasts would fly all abroad; just as now the lucan kine when cruelly mangled by the steel fly often all abroad, after inflicting on their friends many cruel sufferings.
 
@@ -15198,7 +15210,7 @@ The dress too of wild beasts’ skin fell into neglect; though I can fancy that 
 
 In those times therefore skins, now gold and purple plague men’s lives with cares and wear them out with war.
 
-<span class="atom-split" data-atom="075" data-title="Liber Quintus — BOOK V. (parte 18)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Liber Quintus — BOOK V. (parte 18)" data-chapter="Liber Quintus — BOOK V." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 And in this methinks the greater blame rests with us; for cold would torture the naked sons of earth without, but us it harms not in the least to do without a robe of purple, spangled with gold and large figures, if only we have a dress of the people to protect us.
 
@@ -15250,7 +15262,7 @@ Ships and tillage, walls, laws, arms, roads, dress, and all such like things, al
 
 Thus time by degrees brings each several thing forth before men’s eyes and reason raises it up into the borders of light; for things must be brought to light one after the other and in due order in the different arts until these have reached their highest point of development.
 
-<span class="atom-split" data-atom="076" data-title="Liber Sextus — BOOK VI. (parte 1)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Liber Sextus — BOOK VI. (parte 1)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Primae frugiparos fetus mortalibus aegris
 
@@ -15488,7 +15500,7 @@ tam tenues quam sunt nebulae fumique volantes;
 
 ut lapides, aut ut fumus constare nequirent
 
-<span class="atom-split" data-atom="077" data-title="Liber Sextus — BOOK VI. (parte 2)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="Liber Sextus — BOOK VI. (parte 2)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 nec cohibere nives gelidas et grandinis imbris.
 
@@ -15680,7 +15692,7 @@ quam quae perveniunt oculorum ad lumina nostra.
 
 [148] just so iron glowing hot from the fiery furnaces sometimes hisses when we have plunged it quickly into cold water.
 
-<span class="atom-split" data-atom="078" data-title="Liber Sextus — BOOK VI. (parte 3)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="Liber Sextus — BOOK VI. (parte 3)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Again if the cloud which receives the fire is drier, it is set on fire in an instant and burns with a loud noise; just as if a flame should range over the laurel-covered hills through a whirlwind and burn them up with its impetuous assault; and there is not anything that burns in the crackling flame with a more startling sound than the Delphic laurel of Phoebus.
 
@@ -15894,7 +15906,7 @@ hic igitur ventis atque ignibus omnia plena
 
 270 sunt; ideo passim fremitus et fulgura fiunt.
 
-<span class="atom-split" data-atom="079" data-title="Liber Sextus — BOOK VI. (parte 4)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="Liber Sextus — BOOK VI. (parte 4)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="positions/atomism,concepts/cause,concepts/mechanism,forms/didactic_poem,schools/epicureanism"></span>
 
 [228] The mighty thunderbolt passes through the walls of houses, like a shout and voices, passes through stones, through brass, and in a moment of time melts brass and gold; and causes wine too in an instant to disappear, while the vessels are untouched, because sure enough its heat on reaching it readily loosens and rarefies all the earthen material of the vessel on every side and forcing a way within lightly separates and disperses the first-beginnings of the wine.
 
@@ -16084,7 +16096,7 @@ e regione locum quasi in unum cuncta ferantur,
 
 Forsitan ex ipso veniens trahat aeëre quaedam
 
-<span class="atom-split" data-atom="080" data-title="Liber Sextus — BOOK VI. (parte 5)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="Liber Sextus — BOOK VI. (parte 5)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 corpora, quae plagis incendunt mobilitatem.
 
@@ -16292,7 +16304,7 @@ et quae cumque in eo tum sint deprensa tumultu
 
 430 navigia in summum veniant vexata periclum.
 
-<span class="atom-split" data-atom="081" data-title="Liber Sextus — BOOK VI. (parte 6)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Liber Sextus — BOOK VI. (parte 6)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 hoc fit ubi inter dum non quit vis incita venti
 
@@ -16502,7 +16514,7 @@ aut dissolvuntur solis super icta calore,
 
 cera super calido tabescens multa liquescat.
 
-<span class="atom-split" data-atom="082" data-title="Liber Sextus — BOOK VI. (parte 7)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Liber Sextus — BOOK VI. (parte 7)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [471] This makes it still more plain that many bodies may likewise rise up out of the salt heaving sea to add to the bulk of clouds; for the two liquids are near akin in their nature.
 
@@ -16702,7 +16714,7 @@ frigus uti nostros penitus cum venit in artus,
 
 Again when the wind gathering itself together in the hollow places underground bears down on one point and pushing on presses with great violence the deep caverns, the earth leans over on the side to which the headlong violence of the wind presses.
 
-<span class="atom-split" data-atom="083" data-title="Liber Sextus — BOOK VI. (parte 8)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Liber Sextus — BOOK VI. (parte 8)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Then all buildings which are above ground, and ever the more, the more they tower up towards heaven, lean over and bulge out yielding in the same direction, and the timbers wrenched from their supports hangover ready to give way.
 
@@ -16910,7 +16922,7 @@ cum tamen omnia cum caelo terraque marique
 
 nil sint ad summam summai totius omnem.
 
-<span class="atom-split" data-atom="084" data-title="Liber Sextus — BOOK VI. (parte 9)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Liber Sextus — BOOK VI. (parte 9)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [640] And now I will explain why it is that fires breathe forth at times through the gorges of mount Aetna with such hurricane-like fury; for with a destroying force of no ordinary kind the flame-storm gathered itself up and lording it over the lands of the Sicilians drew on itself the gaze of neighboring nations, when seeing all the quarters of heaven smoke and sparkle men were filled in heart with awe-struck apprehension, not knowing what strange change nature was travailing to work.
 
@@ -17106,7 +17118,7 @@ pervigili [causa](/concepts/cause), Graium ut cecinere poeëtae,
 
 That river comes from the south out of the heat-fraught country, rising far up from the central region of day among races of men black in their sun-baked complexion.
 
-<span class="atom-split" data-atom="085" data-title="Liber Sextus — BOOK VI. (parte 10)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="Liber Sextus — BOOK VI. (parte 10)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 It is quite possible too that the great accumulation of sand may bar up the mouths against the opposing waves, when the sea stirred up by the winds throws up the sand within the channel; whereby the outlet of the river is rendered less free and the current of the waters at the same time less rapid in its downward flow.
 
@@ -17320,7 +17332,7 @@ dispergunt animas per caulas corporis omnis.
 
 Then too if you linger long in the hot baths when you are somewhat full and do bathe, how liable you are to tumble down in a fit while seated in the midst of the hot water!
 
-<span class="atom-split" data-atom="086" data-title="Liber Sextus — BOOK VI. (parte 11)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="Liber Sextus — BOOK VI. (parte 11)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Again, how readily do the oppressive power and fumes of charcoal make their way into the brain, if we have not first taken water! But when burning violently it has filled the chambers of a house, the fumes of the virulent substance act on the nerves like a murderous blow.
 
@@ -17526,7 +17538,7 @@ et nimium longis ambagibus est adeundum;
 
 [879] There is also a cold fountain of such a nature that tow, often when held over it, imbibes fire forthwith and emits flame; a pine torch in like manner is lighted and shines among the waters, in whatever direction it swims under the impulse of the winds.
 
-<span class="atom-split" data-atom="087" data-title="Liber Sextus — BOOK VI. (parte 12)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="Liber Sextus — BOOK VI. (parte 12)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Because sure enough there are in the water very many seeds of heat, and from the earth itself at the bottom must rise up bodies of fire throughout the whole fountain and at the same time pass abroad in exhalations and go forth into the air, not in such numbers however that the fountain can become hot, for these reasons a force compels those seeds to burst out through the water and disperse abroad and to unite when they have mounted up.
 
@@ -17756,7 +17768,7 @@ anulus ipse sequatur eatque ita corpore toto.
 
 [964] wax again turns to liquid when placed within reach of his heat,
 
-<span class="atom-split" data-atom="088" data-title="Liber Sextus — BOOK VI. (parte 13)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="088" data-title="Liber Sextus — BOOK VI. (parte 13)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="positions/atomism,concepts/mechanism,concepts/cause,forms/didactic_poem,schools/epicureanism"></span>
 
 Fire also melts brass and fuses gold, but shrivels up and draws together hides and flesh.
 
@@ -17962,7 +17974,7 @@ quorum ita texturae ceciderunt mutua contra,
 
 huiusque inter se, iunctura haec optima constat.
 
-<span class="atom-split" data-atom="089" data-title="Liber Sextus — BOOK VI. (parte 14)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="089" data-title="Liber Sextus — BOOK VI. (parte 14)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 est etiam, quasi ut anellis hamisque plicata
 
@@ -18180,7 +18192,7 @@ in fluvios partim gelidos ardentia morbo
 
 membra dabant nudum iacientes corpus in undas.
 
-<span class="atom-split" data-atom="090" data-title="Liber Sextus — BOOK VI. (parte 15)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="090" data-title="Liber Sextus — BOOK VI. (parte 15)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 [1132] And it makes no difference whether we travel to places unfavorable to us and change the atmosphere which wraps us round, or whether nature without our choice brings to us a tainted atmosphere or something to the use of which we have not been accustomed, and which is able to attack us on its first arrival.
 
@@ -18410,7 +18422,7 @@ interclusa [anima](/concepts/soul) nimia ab dulcedine aquarum,
 
 Many would droop with disease and die: above all faithful dogs would lie stretched in all the streets and yield up breath with a struggle, for the power of disease would wrench life from their frame.
 
-<span class="atom-split" data-atom="091" data-title="Liber Sextus — BOOK VI. (parte 16)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="091" data-title="Liber Sextus — BOOK VI. (parte 16)" data-chapter="Liber Sextus — BOOK VI." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Funerals lonely, unattended, would be hurried on with emulous haste.
 

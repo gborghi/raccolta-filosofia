@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A dialogue with the character Rubín de Cendoya, 'Spanish mystic', in the corridors of Parliament: nothing human is spontaneous, everything requires apprenticeship. He defends parliamentary conventionalism against the cult of sincerity—'the orangutan is the sincere man'—because truth is not felt but invented, and culture is the realm of the conventional set against nature.
+
+## Connections
+
+**Concetti:** [[concepts/nature|natura]], [[concepts/custom|abitudine]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -168,7 +175,7 @@ II
 
 Questo Perceval Lowel —proseguì Rubín de Cendoya— è un uomo di immaginazione. Io ammiro oltremodo chi si trova provvisto di immaginazione alla moderna. Perché si deve notare un profondo cambiamento tra l'antico e il nuovo modo di esercitare la fantasia. L'antico immaginatore fuggiva il confronto con le cose reali; il moderno, al contrario, si immerge nell'estremo realismo, cerca una contenzione e un canale per le sue invenzioni nelle rigide e inequivoche fisionomie delle cose. Questo è un carattere distintivo dei popoli nuovi, e molto specialmente degli yankees, il popolo di maggiore gioventù. Edgar Poe, il genio più rappresentativo del Nordamerica, non fece altro, e lo fece con piena coscienza, come provano le sue Marginalia.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/nature,concepts/custom,forms/dialogue"></span>
 
 Lowel, asimismo, para poder imaginar con mayor energía, se dedicó a los estudios astronómicos, y, buscando una atmósfera propicia a las inquisiciones planetarias, se aisló en el desierto del Arizona y montó un Observatorio. Largos años hace que allí vive perescrutando la vida íntima de Marte, y ahora resume en un libro sus contemplaciones.
 

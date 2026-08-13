@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A theatre review of The Merchant of Venice seen at the Lara with Novelli: Ortega rejects Carlyle's individualist view of history but keeps his cult of the classics — 'there is no pedagogy without classics'. He faults the actor for trivializing Shylock and reads each Shakespeare play as a balanced microcosm, composed like a Rubens canvas.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -168,7 +175,7 @@ fluiscono tutti e si versano
 
 laggiù, nel Giordano.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 No acabaría de hablar nunca sobre los judíos, ni creo que haya tema más delicado para la sensibilidad de un poeta que este milenario dolor de un pueblo que eligió Dios una vez como vaso en que contenerse. ¡Pobre Jahvé magnífico, dios de la inquietud y de la melancolía; tú que tenías el fuego en la una mano y el maná en la otra y te ponías a arder en las retamas al borde de los caminos, aún la policía rusa azuza un pueblo imbécil, todavía no purificado por la palabra cáustica de los profetas, sobre las gentes de tu elección! ¡Qué horror! Aún ayer Alejandro III expulsaba a los judíos, y las mujeres hebreas, para permanecer, tenían que usar la cédula amarilla de las prostitutas. Eso, ayer; hoy… ¡Kicheneff, Bielostock, sangre, torrentes de sangre; sangre de Rubén, sangre de Neftalí!
 

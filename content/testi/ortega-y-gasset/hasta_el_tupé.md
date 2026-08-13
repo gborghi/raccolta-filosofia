@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Editorial on the parliamentary session over the Santa María de Nieva election return: six hours of insults, the electoral corruption of Maura's government, and Minister Goicoechea's improprieties; it charges Maura with loading the King's irresponsible shoulders with responsibility for the elections. Political chronicle.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

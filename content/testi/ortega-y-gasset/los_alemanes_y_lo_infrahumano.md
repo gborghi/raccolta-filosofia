@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Apropos Hebbel's Nibelungen: Germans love the ante-human, and when they dream the superhuman they underline the underlying animality instead of moving away from it — Stendhal talks like a citizen in a café, Nietzsche disguises himself as Zarathustra. But the defect springs from a virtue: Mediterranean, urban culture had severed the channels binding man to the cosmos.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -84,7 +91,7 @@ Ci sorprende, dicevo, trovare a volte in quell'anima la carenza di umanesimo e q
 
 «Se i pomeriggi continuano a essere così piacevoli —disse la signora di Goethe—, avrei gran piacere a dare in questi giorni un tè nel parco ascoltando il canto degli usignoli. Che ne dice, caro padre?» «Potrebbe essere molto piacevole» —rispose Goethe. «E lei, Eckermann —mi disse la signora di Goethe—, che dice a questo proposito? Lo si può invitare?» «Ma, Otilia! —esclamò la signorina Ulrica—, come può venirti in mente di invitare il dottore? Se non verrà. E se viene sta come sulle spine, e si vede che la sua anima è altrove, e che desidererebbe andarsene al più presto».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 «Si he de ser sincero —repliqué— prefiero pasear con Doolan por el campo. Tés y sociedad y conversación de té son tan contrarias a mi naturaleza que sólo pensar en ello me hace daño». «Pero, Eckermann —dijo la señora de Goethe— en un té en el parque está usted al aire libre y, por tanto, en su elemento». «Al contrario —repuse. Cuando estoy tan cerca de la naturaleza que percibo todos sus aromas y, sin embargo, no puedo entregarme verdaderamente a ella, me impaciento como un pato a quien se pusiera próximo al agua pero impidiéndole sumergirse en ella». «También podía usted decir —interrumpió Goethe riéndose— que se sentía como un caballo que sacase la cabeza fuera de la cuadra y viese correr libremente por la pradera a otros caballos. Olfatea las delicias y la libertad de la fresca naturaleza, pero no puede ir a ella. Pero dejad a Eckermann; es como es, y no vais a cambiarlo. Pero dígame, querido, ¿qué hacen usted y Doolan en el campo toda la tarde?» «Buscamos un valle solitario y nos dedicamos a tirar flechas» —respondí. «¡Hum! —replicó Goethe— no debe ser mala diversión». «Es magnífica —dije— para curarse de los alifafes del invierno». «¿Pero cómo diablos —preguntó Goethe— ha podido usted aquí en Weimar hacerse con arcos y flechas?»
 

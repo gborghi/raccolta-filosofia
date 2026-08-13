@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Opening of the aesthetic essay on the novel, prompted by Baroja: a purpose to meditate on the anatomy and physiology of the genre that dominated the last hundred years. The sample is only the preamble.
+> A 167-word entry with no sample in the digest: probably just the title page or opening of the essay of that name. No text to judge.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

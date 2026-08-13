@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Recalling the Meditaciones del Quijote, Ortega argues that the modern novel's mission is to describe an atmosphere rather than an action, and that Proust pushes this non-dramatic character to its extreme. He draws out an antinomy: dramatic interest is a psychological necessity of the novel, not an aesthetic value, and should be minimised while remaining indispensable; the theme then widens to the antagonism between action and contemplation.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ Questo indica che la situazione praticamente ottima per conoscere —cioè, per 
 
 I quadri che più ci hanno penetrato non sono quelli del Museo, dove siamo andati a «vedere quadri», ma, forse, l'umile tavola nella mezzaluce di una stanza dove l'esistenza ci condusse con ben altre preoccupazioni. Nel concerto fallisce la musica che, magari, andando per la strada, assorti in interessate riflessioni, udiamo suonare a un cieco e ci compunge il cuore.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Es evidente que el destino del hombre no es primariamente contemplativo. Por eso es un error que para contemplar, la condición mejor es ponerse a contemplar, esto es, hacer de ello un acto primario. En cambio, dejando a la contemplación un oficio secundario y montando en el alma el dinamismo de un interés, parece que adquirimos el máximo poder absorbente y receptivo.
 

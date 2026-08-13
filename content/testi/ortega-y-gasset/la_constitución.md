@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short political note: while noting historical errors in the republican Constitution, it urges obedience and loyal interpretation to remedy its flaws, especially its excessive parliamentarism.
+> A 186-word fragment. The digest carries no prose sample, so the content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

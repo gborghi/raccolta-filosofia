@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from a speech by Sánchez de Toca, Ortega defends the name 'intellectual': not a claim to be cleverer than others but an old European concept going back to the Greeks and to Solon, who travelled only to see and think, theorias eineken. He reproaches Spanish politicians for never formally setting out the doctrines their public acts flow from, and cites Cánovas turning to Kant.
+
+## Connections
+
+**Concetti:** [[concepts/wisdom|sapienza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

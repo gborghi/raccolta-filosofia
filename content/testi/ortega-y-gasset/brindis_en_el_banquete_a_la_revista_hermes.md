@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A toast to the Bilbao review Hermes: Ortega repeats that Spain suffers not a political or administrative decadence but a historical one, a depression in the people's vitality, "an absence of biological pulse". Against the failure of Madrid as sole capital he preaches his "localism": raising up a plurality of lesser but energetic capitals, and thereby giving the public conscience concreteness.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

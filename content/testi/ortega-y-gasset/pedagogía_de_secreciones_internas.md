@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The sample covers only the biological half: against adaptation biology, which treats life as a sum of external functions, it shows that the discovery of internal secretions and hormones forces us to see vitality as prior to and creative of its functions ('the river fathers the stream'). The title also promises pedagogy, but the sample does not reach it.
+
+## Connections
+
+**Concetti:** [[concepts/nature|natura]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

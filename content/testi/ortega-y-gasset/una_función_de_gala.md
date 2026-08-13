@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Society chronicle (8 November) of a gala performance at the Berlin Opera with Alfonso XIII, the Kaiser and the Empress: uniforms, roses, Chinese ambassadors, Delibes's ballet Coppélia. Pure reportage, no philosophical content.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

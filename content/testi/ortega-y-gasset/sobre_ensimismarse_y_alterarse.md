@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > From the image of the Plaza Mayor charlatan (pass the egg into the handkerchief and the handkerchief into the egg) Ortega draws that human life is the perpetual confrontation of man and circumstance, two alien elements that must be made homogeneous. God exists in his own element; man is constitutively needy — but by accepting the difficulty he turns it into an undertaking: life as anguish and life as sport.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/end_of_life|Fine della vita]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]], [[positions/life_as_project|vita come progetto]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +80,7 @@ Che cosa accadrebbe se risultasse che la caratteristica dell'essere è precisame
 
 Ma lasciamo questo. Il tema di ora è marcare il magnifico senso che ebbe la massima peripecia accaduta nella storia del pensiero umano finora. Il cambiamento radicale di attitudine che nel problema della conoscenza —e perciò in tutto il resto della sua vitalità— esegue l'uomo attorno al 1600, dividendo la storia in due parti: antichità, modernità. Se il lettore ha un po' di pazienza e rode l'osso che, per il momento, gli getto, vedrà che il problema della conoscenza mi serve ora soltanto di strumento e simbolo per chiarire un affare molto più succoso e che lo riguarda in tutti gli ordini della vita.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,assi/end_of_life,positions/radical_reality_of_life,positions/life_as_project,forms/essay"></span>
 
 El hombre antiguo vive de tal manera sumido en el mundo, en el «ser», que al llegar a una cuestión tan subjetiva como es la del conocimiento, la hace gravitar sobre la realidad conocida y no sobre el sujeto que conoce. Cuando el griego se preguntaba si es posible que el hombre alcance la verdad, esto es, que conozca el ser, su contestación es ésta: Todo depende de que exista algo en el universo que verdaderamente sea. Lo que vemos y tocamos no es propiamente porque cuando vamos a pensar que es y que es tal —por ejemplo, grande, blanco, suave, etcétera— ya está dejando de serlo. Lo corruptible no tiene auténtico ser y «por eso» —es decir, por culpa del objeto— no se puede conocer. En cambio, la figura geométrica pura o la «idea» de justicia, de blancura, de grandeza son siempre lo que son. Por eso tenemos de ello conocimiento pleno.
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A digression before Jorge Inglés' painting: woman offers two aspects, one to the passer-by and one to whoever stops, and only "flirting" — a halt and an individualisation — is a method of knowledge. The male soul lives projected toward collective works and hence off others, while woman's attitude is more lordly, somewhat princess-like, her vanity confined to the outer skin of her life.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -84,7 +91,7 @@ Questo possesso di una vita propria, a parte e segreta, questo signorìo di una 
 
 Fluisce, dunque, la vera esistenza femminile larvata e nascosta, difesa dal pubblico da una femminilità apparente, costruita apposta per servire da maschera e corazza. Io credo che ogni vita intensamente personale abbia sempre avuto bisogno di segregare una personalità fittizia, una specie di dermato psiche che fermi e distragga l'ostile curiosità delle genti inferiori, al fine di poter, dietro quel baluardo, vacare liberamente a essere ciò che si è. Ma questo, che nell'uomo accade per eccezione, arriva a essere costitutivo nella donna.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Suele olvidar el hombre esa condición, por esencia latente, de la personalidad femenina, y por eso en su trato con la mujer va de sorpresa en sorpresa. Normalmente, el primer aspecto de una mujer excluye la posibilidad de que aquella delicada, juguetona, ingrávida figura, todo desdenes y fugas, sea capaz de pasión. Toda mujer parece una santita, si creemos que la santidad consiste en resbalar sobre la vida sin dejarse comprometer por ella. Y, sin embargo, la verdad es todo lo contrario: esa casi irreal figura no hace otra cosa que esperar la ocasión para arrojarse en un torbellino apasionado, con tal ímpetu, decisión y valentía, con tal olvido de penosas consecuencias, que el hombre más resuelto queda siempre a la zaga y, avergonzado, se descubre a sí mismo como un temperamento utilitario, calculador y vacilante. Mas para que esa vitalidad profunda o individual de la mujer se manifieste, es preciso que el hombre deje de formar parte del público, y por uno u otro motivo se destaque individualmente ante ella. Lo que hay de repugnante y monstruoso en la prostituta es su contradicción de la naturaleza femenina, en virtud de la cual ofrenda al hombre anónimo, al público, aquella personalidad latente que sólo debe ser revelada al preferido. Hasta tal punto es esto una negación del carácter femenino, que el hombre delicado siente una instintiva aversión hacia la prostituta, como si, a despecho de sus formas de hembra, hubiera en ella un espíritu masculino. En cambio, el «clásico» en feminidad, Don Juan, es atraído preferentemente por la mujer más recatada, por la que más se oculta al público, y que en la morfología femenina representa el polo opuesto a la prostituta. Don Juan, en efecto, se enamora de la monja.
 

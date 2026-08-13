@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay: the horizon is no inert line but a living organ collaborating in a people's destiny. The historian's first question is what world a civilization knew; immobile Egypt is explained by its closed horizon, thirteenth-century Europe by the crusades.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -54,7 +61,7 @@ La vita è, essenzialmente, un dialogo col contorno; lo è nelle sue funzioni fi
 
 Evitiamo, dunque, di supplire col «nostro mondo» quello degli altri. Altrimenti si arriva irremediabilmente all'incomprensione del prossimo. Un [caso](/concepts/fortune) molto frequente di questa è, per esempio, il nostro erroneo giudizio sull'uomo innamorato. Poiché non sogliamo trovare nella donna che ci è indifferente le grazie e virtù giustificative dell'atteggiamento appassionato che sorprendiamo nel suo amatore, ci pare che questi sia caduto in frenesia. Diciamo che l'amore è cieco e creatore di fantasmagorie. La teoria stendhaliana dell'amore —radicalmente falsa— suppone che si tratti di una faccenda di «cristallizzazione» in cui illusoriamente depositiamo sulla persona amata quante perfezioni abbiamo immaginato. Questa opinione è tipica del secolo XIX, che ha teso in tutti gli ordini e problemi a spiegare i fenomeni normali come forme incipienti del patologico. Così, per Taine, viene a essere la percezione sana un caso di allucinazione collettiva, come per Lombroso era il genio una certa demenza. Questa predilezione per il patologico emana semplicemente dal pessimismo preconcetto, dall'asprezza e omnimodo risentimento che agivano nei seni dell'anima europea durante la passata centuria.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,forms/essay"></span>
 
 ¿Quién es el juez de la salud? —se preguntaba Aristóteles. ¿Por qué se ha de considerar como decisivo el punto de vista del indiferente y no el del enamorado? Tal vez la visión amorosa es más aguda que la del tibio. Tal vez hay en todo objeto calidades y valores que sólo se revelan a una mirada entusiasta. «Hay que quitar la venda al Amor y devolverle el disfrute de sus ojos» —decía Pascal, oponiéndose a la opinión vulgar. Según esto, el amor sería zahorí, sutil descubridor de tesoros recatados. No es cosa de que ahora, a la ligera, desarrollemos este asunto de tan alta sugestión, sobre el cual circulan las ideas más toscas. Sólo diré que, a mi juicio, si se analiza el fenómeno de este [sublime](/concepts/sublime) sentimiento, se encuentra pronto que el amor no ve, pero no porque sea ciego, sino porque su función no es mirar. El amor no es pupila, sino, más bien, luz, claridad meridiana que recogemos para enfocarla sobre una persona o una cosa. Merced a ella queda el objeto favorecido con inusitada iluminación y ostenta sus cualidades con toda plenitud. Podrá, pues, darse el [caso](/concepts/fortune) de que el enamorado cree ver lo que en rigor no ve, como a veces nos pasa en la visión material de las cosas, sin que por eso nos declaremos ciegos habituales. Pero lo normal es que el hombre amador de un ser o de un objeto tenga de ellos una visión más exacta que el indiferente. No; el amor ni miente, ni ciega, ni alucina: lo que hace es situar lo amado bajo una luz tan favorable que sus gracias más recónditas se hacen patentes. Cuando voy con un extranjero por la tierra castellana, nuestras impresiones divergen, pero no porque yo atribuya a mi gleba nativa gracias ficticias que en realidad no posee, sino porque mi mirada fervorosa sorprende en la campiña recatados encantos, que el forastero indiferente no acierta a descubrir. El amor es, por lo pronto, un grado superior de atención. Fuera, pues, más agudo y más sabio envidiar al hombre apasionado que tacharle de iluso. Su paisaje es tan real como el nuestro, sólo que es mejor.
 

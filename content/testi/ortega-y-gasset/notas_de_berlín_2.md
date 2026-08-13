@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A second dispatch from Berlin: with the king gone, Berlin's Spaniards revert to insignificance. Ortega jokes about German sentimentality (behind the iron of industry hides a dreaming gnome; the land of Lieder and metaphysics), about the sun as the German dream of Spain, and about Spain seen as a fossil race. A piece of light reportage.
 

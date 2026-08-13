@@ -12,8 +12,18 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > Treatise on creation from nothing: every being proceeds from God as efficient, exemplary and final cause, and matter itself is created. A famous argument: the world's eternity or temporal beginning cannot be demonstrated by reason alone but is known by faith.
+
+## Connections
+
+**Assi:** [[assi/faith_reason|Fede e ragione]]  
+**Posizioni:** [[positions/harmony_of_faith_reason|armonia di fede e ragione]]  
+**Concetti:** [[concepts/cause|causa]], [[concepts/four_causes|le quattro cause]], [[concepts/faith|fede]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +38,7 @@ TREATISE ON THE CREATION (QQ 44-49)
 
 TRATTATO SULLA CREAZIONE (QQ 44-49)
 
-<span class="atom-split" data-atom="002" data-title="THE PROCESSION OF CREATURES FROM GOD, AND OF THE FIRST CAUSE OF ALL THINGS (FOUR ARTICLES)" data-chapter="THE PROCESSION OF CREATURES FROM GOD, AND OF THE FIRST CAUSE OF ALL THINGS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="THE PROCESSION OF CREATURES FROM GOD, AND OF THE FIRST CAUSE OF ALL THINGS (FOUR ARTICLES)" data-chapter="THE PROCESSION OF CREATURES FROM GOD, AND OF THE FIRST CAUSE OF ALL THINGS (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/four_causes,concepts/cause"></span>
 
 After treating of the procession of the divine persons, we must consider the procession of
 creatures from God. This consideration will be threefold: (1) of the production of creatures; (2) of
@@ -46,7 +56,7 @@ Him?
 
 Dopo aver trattato della processione delle persone divine, dobbiamo considerare la processione delle creature da Dio. Questa analisi sarà articolata in tre parti: (1) la generazione delle creature; (2) la distinzione tra di esse; (3) la loro conservazione e il loro governo. Per quanto riguarda il primo punto, vi sono tre aspetti da esaminare: (1) la causa prima degli esseri; (2) il modo in cui le creature derivano dalla causa prima; (3) il principio che determina la durata delle cose. All’interno di questa prima categoria, si possono individuare quattro questioni principali: (1) Se Dio sia la [causa efficiente](/concepts/four_causes) di tutti gli esseri; (2) Se la materia primaria venga creata da Dio o rappresenti un principio coordinato e indipendente da Lui; (3) Se Dio sia la causa esemplare degli esseri, oppure se esistano altre cause esemplari; (4) Se Egli sia la causa finale delle cose.
 
-<span class="atom-split" data-atom="003" data-title="Whether it is necessary that every being be created by God?" data-chapter="Whether it is necessary that every being be created by God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether it is necessary that every being be created by God?" data-chapter="Whether it is necessary that every being be created by God?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/cause,concepts/four_causes,concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not necessary that every being be created by God. For
 there is nothing to prevent a thing from being without that which does not belong to its essence, as
@@ -118,7 +128,7 @@ Risposta all’Obiezione 2: Questa obiezione ha portato alcuni a sostenere che c
 
 Risposta all’Obiezione 3: La scienza della matematica tratta il proprio oggetto come se fosse qualcosa di astratto mentalmente, mentre in realtà non lo è. Oggi si tende sempre di più a ritenere che ogni cosa debba avere una causa efficiente proporzionata alla sua esistenza. Pertanto, anche se l’oggetto della matematica ha effettivamente una causa efficiente, la relazione che esso intrattiene con tale causa non costituisce il motivo per cui viene preso in considerazione dal matematico; quindi, quest’ultimo non dimostra tale oggetto partendo dalla sua causa efficiente.
 
-<span class="atom-split" data-atom="004" data-title="Whether primary matter is created by God?" data-chapter="Whether primary matter is created by God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether primary matter is created by God?" data-chapter="Whether primary matter is created by God?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/forma_substantialis,concepts/actus_purus,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It would seem that primary matter is not created by God. For whatever is made
 is composed of a subject and of something else (Phys. i, text 62). But primary matter has no subject.
@@ -172,7 +182,7 @@ it is not created without form; for though everything created is actual, still i
 it is necessary that even what is potential in it should be created, if all that belongs to its being is
 created.
 
-<span class="atom-split" data-atom="005" data-title="Whether the exemplar cause is anything besides God?" data-chapter="Whether the exemplar cause is anything besides God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether the exemplar cause is anything besides God?" data-chapter="Whether the exemplar cause is anything besides God?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/idea,concepts/cause,assi/universals,figures/augustine"></span>
 
 Objection 1: It would seem that the exemplar cause is something besides God. For the effect
 is like its exemplar cause. But creatures are far from being like God. Therefore God is not their
@@ -233,7 +243,7 @@ Reply to Objection 4: As Dionysius says (Div. Nom. iv), by "self-existing life a
 wisdom" he sometimes denotes God Himself, sometimes the powers given to things themselves;
 but not any self-subsisting things, as the ancients asserted.
 
-<span class="atom-split" data-atom="006" data-title="Whether God is the final cause of all things?" data-chapter="Whether God is the final cause of all things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether God is the final cause of all things?" data-chapter="Whether God is the final cause of all things?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/cause,concepts/four_causes,concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that God is not the [final cause](/concepts/four_causes) of all things. For to act for an end
 seems to imply need of the end. But God needs nothing. Therefore it does not become Him to act
@@ -324,7 +334,7 @@ La domanda successiva riguarda il modo con cui le cose derivano dal Primo Princi
 (7) Si può trovare qualche traccia della Trinità nelle cose create?  
 (8) Il lavoro della creazione si mescola con i lavori della natura e della volontà di Dio?
 
-<span class="atom-split" data-atom="007" data-title="Whether to create is to make something from nothing?" data-chapter="Whether to create is to make something from nothing?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether to create is to make something from nothing?" data-chapter="Whether to create is to make something from nothing?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/four_causes,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that to create is not to make anything from nothing. For [Augustine](/figures/augustine)
 says (Contra Adv. Leg. et Proph. i): "To make concerns what did not exist at all; but to create is to
@@ -396,7 +406,7 @@ Risposta all’Obiezione 2: I cambiamenti ricevono specie e dignità non dal ter
 
 Risposta all’Obiezione 3: Quando si afferma che qualcosa è “fatto dal nulla”, la preposizione “dal” non indica la causa materiale, ma soltanto l’ordine temporale; come quando diciamo “dalla mattina arriva mezzogiorno”, cioè dopo la mattina arriva mezzogiorno. Tuttavia, questa preposizione può anche includere la negazione implicita nella parola “nulla”. Se interpretata nel primo senso, si afferma l’ordine temporale, indicando il rapporto tra ciò che esiste attualmente e la sua precedente inesistenza. Ma se la negazione include anche la preposizione stessa, allora l’ordine viene negato; il significato diventa “È fatto dal nulla”, cioè “Non è fatto da nulla”, come quando si dice “Parla di nulla” perché non parla affatto di nulla. Questo si verifica in entrambi i casi, quando si afferma che qualcosa sia “fatto dal nulla”. Nel primo senso, la preposizione “dal” indica l’ordine temporale; nel secondo senso, implica la causa materiale, che viene però negata.
 
-<span class="atom-split" data-atom="008" data-title="Whether God can create anything?" data-chapter="Whether God can create anything?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether God can create anything?" data-chapter="Whether God can create anything?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/act_potency,concepts/cause"></span>
 
 Objection 1: It would seem that God cannot create anything, because, according to the
 Philosopher (Phys. i, text 34), the ancient philosophers considered it as a commonly received axiom
@@ -494,7 +504,7 @@ Risposta all’Obiezione 3: Nei casi in cui qualcosa viene creato senza il coinv
 
 Risposta all’Obiezione 4: Questa obiezione deriva da un’errata immaginazione, come se esistesse un mezzo infinito tra il nulla e l’esistenza; il che è chiaramente falso. Questa errata concezione nasce dal fatto che si consideri la creazione come un cambiamento che avviene tra due forme diverse.
 
-<span class="atom-split" data-atom="009" data-title="Whether creation is anything in the creature?" data-chapter="Whether creation is anything in the creature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether creation is anything in the creature?" data-chapter="Whether creation is anything in the creature?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/cause,concepts/four_causes,concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that creation is not anything in the creature. For as creation taken
 in a passive sense is attributed to the creature, so creation taken in an active sense is attributed to
@@ -566,7 +576,7 @@ Risposta all’Obiezione 2: Poiché la creazione è intesa come un cambiamento, 
 
 Risposta all’Obiezione 3: La creatura è il termine della creazione nel senso di un cambiamento, ma è anche il soggetto della creazione, considerata come una relazione reale; inoltre, essa esiste prima della creazione stessa, proprio come il soggetto esiste prima dell’attributo che lo caratterizza. Tuttavia, la creazione presenta un certo aspetto di priorità riguardo all’oggetto verso cui è diretta, ovvero l’inizio stesso della creatura. Inoltre, non è necessario che una creatura debba essere “creata” per esistere: la creazione implica infatti una relazione tra la creatura e il Creatore, con un certo carattere di novità o di inizio.
 
-<span class="atom-split" data-atom="010" data-title="Whether to be created belongs to composite and subsisting things?" data-chapter="Whether to be created belongs to composite and subsisting things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether to be created belongs to composite and subsisting things?" data-chapter="Whether to be created belongs to composite and subsisting things?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/cause,concepts/four_causes,concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that to be created does not belong to composite and subsisting
 things. For in the book, De Causis (prop. iv) it is said, "The first of creatures is being." But the
@@ -629,7 +639,7 @@ Risposta all’Obiezione 2: La creazione non significa la costruzione di una cos
 
 Risposta all’Obiezione 3: Questo argomento non dimostra che solo la materia venga creata, ma piuttosto che la materia non esista se non attraverso la creazione; infatti, la creazione è l’atto mediante il quale viene prodotta l’intera realtà, e non soltanto la materia.
 
-<span class="atom-split" data-atom="011" data-title="Whether it belongs to God alone to create?" data-chapter="Whether it belongs to God alone to create?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether it belongs to God alone to create?" data-chapter="Whether it belongs to God alone to create?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/cause,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It would seem that it does not belong to God alone to create, because, according
 to the Philosopher (De [Anima](/concepts/soul) ii, text 34), what is perfect can make its own likeness. But immaterial
@@ -719,7 +729,7 @@ by the power of a natural agent, as there is no proportion between "not being" a
 because no creature has simply an infinite power, any more than it has an infinite being, as was
 proved above (Q[7], A[2]), it follows that no creature can create.
 
-<span class="atom-split" data-atom="012" data-title="Whether to create is proper to any person?" data-chapter="Whether to create is proper to any person?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether to create is proper to any person?" data-chapter="Whether to create is proper to any person?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/cause,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that to create is proper to some Person. For what comes first is the
 cause of what is after; and what is perfect is the cause of what is imperfect. But the procession of
@@ -806,7 +816,7 @@ Risposta all’Obiezione 2: Poiché la natura divina, sebbene comune alle tre Pe
 
 Risposta all’Obiezione 3: Sebbene ogni effetto di Dio derivi da ciascuno dei suoi attributi, ogni effetto si riduce all’attributo con cui è naturalmente collegato; pertanto, l’ordine delle cose si riduce alla “saggezza”, mentre la giustificazione del peccatore si riconduce alla “misericordia” e alla “bontà”, che si riversano in modo sovrabbondante su di lui. Tuttavia, la creazione, che consiste nella produzione della stessa sostanza di una cosa, si riduce all’“potere”.
 
-<span class="atom-split" data-atom="013" data-title="Whether in creatures is necessarily found a trace of the Trinity?" data-chapter="Whether in creatures is necessarily found a trace of the Trinity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether in creatures is necessarily found a trace of the Trinity?" data-chapter="Whether in creatures is necessarily found a trace of the Trinity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/cause,concepts/four_causes,concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in creatures there is not necessarily found a trace of the Trinity.
 For anything can be traced through its traces. But the trinity of persons cannot be traced from the
@@ -865,7 +875,7 @@ to those three things.
 Reply to Objection 3: The processions of the persons are also in some way the cause and type
 of creation; as appears from the above (A[6]).
 
-<span class="atom-split" data-atom="014" data-title="Whether creation is mingled with works of nature and art?" data-chapter="Whether creation is mingled with works of nature and art?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether creation is mingled with works of nature and art?" data-chapter="Whether creation is mingled with works of nature and art?" data-kind="atom" data-srclang="en" data-tags="positions/hylomorphism,concepts/act_potency,concepts/forma_substantialis,figures/augustine"></span>
 
 Objection 1: It would seem that creation is mingled in works of nature and art. For in every
 operation of nature and art some form is produced. But it is not produced from anything, since
@@ -914,7 +924,7 @@ agent is required, in the shape of a univocal generator.
 Reply to Objection 4: The operation of nature takes place only on the presupposition of created
 principles; and thus the products of nature are called creatures.
 
-<span class="atom-split" data-atom="015" data-title="OF THE BEGINNING OF THE DURATION OF CREATURES (THREE ARTICLES)" data-chapter="OF THE BEGINNING OF THE DURATION OF CREATURES (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="OF THE BEGINNING OF THE DURATION OF CREATURES (THREE ARTICLES)" data-chapter="OF THE BEGINNING OF THE DURATION OF CREATURES (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/cause,concepts/four_causes,concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 Next must be considered the beginning of the duration of creatures, about which there are three
 points for treatment:
@@ -929,7 +939,7 @@ Successivamente va considerato l’inizio della durata delle creature, su cui si
 (2) Se la loro esistenza abbia avuto inizio come parte di una verità di fede;  
 (3) In che modo si possa affermare che Dio abbia creato il cielo e la terra all’inizio dei tempi.
 
-<span class="atom-split" data-atom="016" data-title="Whether the universe of creatures always existed? (parte 1)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether the universe of creatures always existed? (parte 1)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/cause,concepts/four_causes,concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the universe of creatures, called the world, had no beginning,
 but existed from [eternity](/positions/eternity). For everything which begins to exist, is a possible being before it exists:
@@ -1074,7 +1084,7 @@ Risposta all’Obiezione 3: Aristotele (Fisica i, testo 82) dimostra che la mate
 
 Risposta all’Obiezione 4: Il concetto di vuoto non significa semplicemente “un luogo in cui non c’è nulla”, ma implica anche uno spazio capace di contenere un corpo e in cui, tuttavia, non vi è alcun corpo, come emerge da Aristotele (Fisica IV, testo 60). Noi riteniamo invece che, prima della creazione del mondo, non esistesse alcun luogo o spazio.
 
-<span class="atom-split" data-atom="017" data-title="Whether the universe of creatures always existed? (parte 2)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the universe of creatures always existed? (parte 2)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/cause,concepts/four_causes,concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 5: The first mover was always in the same state: but the first movable thing
 was not always so, because it began to be whereas hitherto it was not. This, however, was not
@@ -1145,7 +1155,7 @@ Risposta all’Obiezione 9: Proprio come l’effetto deriva dalla causa che agis
 
 Risposta all’Obiezione 10: Data l’azione, l’effetto ne consegue secondo i requisiti della forma, che costituisce il principio dell’azione stessa. Tuttavia, negli agenti che agiscono per volontà, ciò che viene concepito e predestinato deve essere considerato come la forma, ovvero il principio dell’azione. Pertanto, dall’azione eterna di Dio non ne è derivato un effetto eterno; bensì un effetto tale che Dio stesso ha voluto, cioè un effetto che acquista esistenza dopo essere stato inesistente.
 
-<span class="atom-split" data-atom="018" data-title="Whether it is an article of faith that the world began? (parte 1)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether it is an article of faith that the world began? (parte 1)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/eternity,concepts/revelation,figures/aristotle,figures/augustine"></span>
 
 Objection 1: It would seem that it is not an article of faith but a demonstrable conclusion that
 the world began. For everything that is made has a beginning of its duration. But it can be proved
@@ -1281,7 +1291,7 @@ Risposta all’Obiezione 5: Anche ammettendo che il mondo esista da sempre, non 
 
 Risposta all’Obiezione 6: Un passaggio viene sempre inteso come sequenza di elementi collegati tra loro in modo logico. Qualunque giorno del passato scegliamo, dal momento in cui esso si verifica fino al presente esiste un numero finito di giorni che possono essere attraversati. L’obiezione si basa sull’idea che, dati due estremi, esista un numero infinito di termini intermedi.
 
-<span class="atom-split" data-atom="019" data-title="Whether it is an article of faith that the world began? (parte 2)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether it is an article of faith that the world began? (parte 2)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en" data-tags="positions/eternity,concepts/infinity,concepts/cause,figures/augustine"></span>
 
 Reply to Objection 7: In efficient causes it is impossible to proceed to [infinity](/concepts/infinity) "per se"---thus,
 there cannot be an infinite number of causes that are "per se" required for a certain effect; for
@@ -1314,7 +1324,7 @@ Risposta all’Obiezione 7: Nelle cause efficienti non è possibile procedere ve
 
 Risposta all’Obiezione 8: Coloro che sostengono l’[eternità](/positions/eternity) del mondo eludono questo argomento in molti modi. Alcuni ritengono possibile l’esistenza di un’infinità reale di anime, come si evince dalla Metafisica di Algazel, il quale afferma che tale fenomeno rappresenti un’“infinità accidentale”. Tuttavia questa tesi è stata confutata in precedenza (Q[7], A[4]). Alcuni sostengono che l’anima venga corrotta dal corpo; altri ritengono che, di tutte le anime, ne rimanga soltanto una. Ancora altri, come afferma [Agostino](/figures/augustine) in [*Serm. xiv, De Temp. 4,5; De Haeres., haeres. 46; De Civ. Dei xii. 13*], ipotizzano un ciclo vitale delle anime: cioè che queste, separate dal proprio corpo, vi ritornino dopo un certo lasso di tempo. Una trattazione più approfondita di questi argomenti verrà fornita in seguito (Q[75], A[2]; Q[118], A[6]). Tuttavia è importante notare che questo ragionamento considera soltanto un caso particolare. Pertanto si potrebbe sostenere che il mondo, o almeno alcune creature come gli angeli, siano eterni, ma non l’uomo. Noi, invece, stiamo esaminando la questione in termini generali: cioè se sia possibile che qualche creatura esista dall’eternità.
 
-<span class="atom-split" data-atom="020" data-title="Whether the creation of things was in the beginning of time?" data-chapter="Whether the creation of things was in the beginning of time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether the creation of things was in the beginning of time?" data-chapter="Whether the creation of things was in the beginning of time?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/cause,concepts/four_causes,concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the creation of things was not in the beginning of time. For
 whatever is not in time, is not of any part of time. But the creation of things was not in time; for

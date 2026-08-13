@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against those who explain Dostoevsky's success by his matter (mysterious drama, pathological characters, the exoticism of Slav souls): matter never saves a work of art, which lives by its form and structure. The man Dostoevsky may have been a madman or a prophet, but the novelist was a homme de lettres, a prodigious technician and innovator of novelistic form.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +103,7 @@ In questa stratagemma di fuorviare il lettore Dostoyewsky arriva alla crudeltà.
 
 A questo e ad altri artifici deve Dostoyewsky la qualità impareggiabile che i suoi libri —migliori o peggiori— non paiano mai falsi, convenzionali. Il lettore non inciampa mai nei fondali del teatro, ma, senz'altro, si sente sommerso in una quasi-realtà perfetta, sempre autentica ed efficace. Perché il romanzo esige —a differenza di altri generi poetici— che non lo si percepisca come tale romanzo, che non si veda il telone di bocca né le tavole del palcoscenico. Balzac, letto oggi, ci desta dal nostro sogno romanzesco a ogni pagina, perché urtiamo contro la sua impalcatura di romanziere. Tuttavia, la condizione più importante della struttura che Dostoyewsky fornisce al romanzo è più difficile da spiegare e preferisco riferirmi ad essa in seguito.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Conviene, en cambio, hacer constar desde ahora que ese hábito de no definir, antes bien, de despistar, esa continua mutación de los caracteres, esa condensación en tiempo y lugar, en fin, esa morosidad o [tempo](/concepts/time) lento no son uso exclusivo de Dostoyewsky. Todas las novelas que aun pueden leerse hoy coinciden más o menos en su empleo. Sirva de ejemplo occidental Stendhal en todos sus libros mayores. El Rojo y Negro, que, por ser una novela biográfica, refiere algunos años de la vida de un hombre, está compuesta en forma de tres o cuatro cuadros, cada uno de los cuales se comporta en su interior como una novela entera del maestro ruso.
 

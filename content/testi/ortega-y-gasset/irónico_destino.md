@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A section of 'The Dehumanization of Art': the new style strips art of all pathos and is invariably comic, not in content but because art mocks itself; Ortega recalls Irony as the supreme aesthetic category proclaimed by the Schlegels' Romantics.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

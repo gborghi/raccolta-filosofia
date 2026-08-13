@@ -11,8 +11,17 @@ tags:
   - "philosopher/nietzsche"
 ---
 
+*Nietzsche*
+
 > [!abstract]
 > A philosophical prose-poem in the form of prophetic preaching: Zarathustra descends from the mountain to proclaim the Übermensch, the eternal recurrence of the same, and the death of God, setting his teaching against the mediocre, self-satisfied 'last man'. Amor fati and the revaluation of values run through the whole work as a spiritual exercise.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]], [[assi/end_of_life|Fine della vita]], [[assi/meaning_of_history|Senso della storia]], [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/ubermensch|oltreuomo]], [[positions/last_man|ultimo uomo]], [[positions/amor_fati|amor fati]], [[positions/eternal_return|eterno ritorno]], [[positions/will_to_power|volontà di potenza]]  
+**Concetti:** [[concepts/will|volontà]], [[concepts/nihilism|nichilismo]], [[concepts/transvaluation_of_values|trasvalutazione di tutti i valori]], [[concepts/ressentiment|risentimento]]  
+**Scuole:** [[schools/vitalism|vitalismo]]
 
 <p class="work-source">Testo originale tedesco · Anaconda Verlag, 2013 · pubblico dominio</p>
 
@@ -155,7 +164,7 @@ Als Zarathustra so gesprochen hatte, schrie einer aus dem Volke: »Wir hörten n
 
 Zarathustra aber sahe das Volk an und wunderte sich. Dann sprach er also:
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="de" data-tags="positions/ubermensch,positions/last_man,concepts/will,concepts/soul,concepts/education"></span>
 
 Der Mensch ist ein Seil, geknüpft zwischen Tier und [Übermensch](/positions/ubermensch) – ein Seil über einem Abgrunde.
 
@@ -265,7 +274,7 @@ Da aber geschah etwas, das jeden Mund stumm und jedes Auge starr machte. Inzwisc
 
 »Vorwärts, Lahmfuß«, rief seine fürchterliche Stimme, »vorwärts Faultier, Schleichhändler, Bleichgesicht! Dass ich dich nicht mit meiner Ferse kitzle! Was treibst du hier zwischen Türmen? In den Turm gehörst du, einsperren sollte man dich, einem Bessern, als du bist, sperrst du die freie Bahn!« – Und mit jedem Worte kam er ihm näher und näher: als er aber nur noch einen Schritt hinter ihm war, da geschah das Erschreckliche, das jeden Mund stumm und jedes Auge starr machte – er stieß ein Geschrei aus wie ein Teufel und sprang über den hinweg, der ihm im Wege war. Dieser aber, als er so seinen Nebenbuhler siegen sah, verlor dabei den Kopf und das Seil; er warf seine Stange weg und schoss schneller als diese, wie ein Wirbel von Armen und Beinen, in die Tiefe. Der Markt und das Volk glich dem Meere, wenn der Sturm hineinfährt: alles floh auseinander und übereinander, und am meisten dort, wo der Körper niederschlagen musste.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Zarathustra aber blieb stehen, und gerade neben ihm fiel der Körper hin, übel zugerichtet und zerbrochen, aber noch nicht tot. Nach einer Weile kam dem Zerschmetterten das Bewusstsein zurück, und er sah Zarathustra neben sich knien. »Was machst du da?«, sagte er endlich, »ich wusste es ja lange dass mir der Teufel ein Bein stellen werde. Nun schleppt er mich zur Hölle: willst du’s ihm wehren?«
 
@@ -347,7 +356,7 @@ Zu meinem Ziele will ich, ich gehe meinen Gang; über die Zögernden und Saumsel
 
 10
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Dies hatte Zarathustra zu seinem Herzen gesprochen, als die Sonne im Mittag stand: da blickte er fragend in die Höhe – denn er hörte über sich den scharfen Ruf eines Vogels. Und siehe! Ein Adler zog in weiten Kreisen durch die Luft, und an ihm hing eine Schlange, nicht einer Beute gleich, sondern einer Freundin: denn sie hielt sich um seinen Hals geringelt.
 
@@ -487,7 +496,7 @@ Glücklich schon, wer in der Nähe dieses Weisen wohnt! Solch ein Schlaf steckt 
 
 Ein Zauber wohnt selbst in seinem Lehrstuhle. Und nicht vergebens saßen die Jünglinge vor dem Prediger der Tugend.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Seine Weisheit heißt: wachen, um gut zu schlafen. Und wahrlich, hätte das Leben keinen Sinn und müsste ich Unsinn wählen, so wäre auch mir dies der wählenswürdigste Unsinn.
 
@@ -611,7 +620,7 @@ Noch in eurer Torheit und Verachtung, ihr Verächter des Leibes, dient ihr eurem
 
 Nicht mehr vermag es das, was es am liebsten will – über sich hinaus zu schaffen. Das will es am liebsten, das ist seine ganze Inbrunst.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Aber zu spät ward es ihm jetzt dafür – so will euer Selbst untergehn, ihr Verächter des Leibes.
 
@@ -757,7 +766,7 @@ Ich will Kobolde um mich haben, denn ich bin mutig. Mut, der die Gespenster vers
 
 Ich empfinde nicht mehr mit euch: diese Wolke, die ich unter mir sehe, diese Schwärze und Schwere, über die ich lache – gerade das ist eure Gewitterwolke.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Ihr seht nach oben, wenn ihr nach Erhebung verlangt. Und ich sehe hinab, weil ich erhoben bin.
 
@@ -907,7 +916,7 @@ Und also laute die Lehre eurer Tugend: »Du sollst dich selbst töten! Du sollst
 
 »Gebären ist mühsam« – sagen die andern – »wozu noch gebären? Man gebiert nur Unglückliche!« Und auch sie sind Prediger des Todes.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 »Mitleid tut Not« – so sagen die Dritten. »Nehmt hin, was ich habe! Nehmt hin, was ich bin! Umso weniger bindet mich das Leben!«
 
@@ -1047,7 +1056,7 @@ Frei steht großen Seelen auch jetzt noch die Erde. Leer sind noch viele Sitze f
 
 Frei steht noch großen Seelen ein freies Leben. Wahrlich, wer wenig besitzt, wird umso weniger besessen: gelobt sei die kleine Armut!
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Dort, wo der [Staat](/concepts/state) aufhört, da beginnt erst der Mensch, der nicht überflüssig ist: da beginnt das Lied des Notwendigen, die einmalige und unersetzliche Weise.
 
@@ -1197,7 +1206,7 @@ Und oft will man mit der Liebe nur den Neid überspringen. Und oft greift man an
 
 Will man einen Freund haben, so muss man auch für ihn Krieg führen wollen: und um Krieg zu führen, muss man Feind sein können.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Man soll in seinem Freunde noch den Feind ehren. Kannst du an deinen Freund dicht herantreten, ohne zu ihm überzutreten?
 
@@ -1325,7 +1334,7 @@ Ich liebe auch eure Feste nicht: zu viel Schauspieler fand ich dabei, und auch d
 
 Nicht den Nächsten lehre ich euch, sondern den Freund. Der Freund sei euch das Fest der Erde und ein Vorgefühl des Übermenschen.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Ich lehre euch den Freund und sein übervolles Herz. Aber man muss verstehn, ein Schwamm zu sein, wenn man von übervollen Herzen geliebt sein will.
 
@@ -1473,7 +1482,7 @@ Des Mannes Gemüt aber ist tief, sein Strom rauscht in unterirdischen Höhlen: d
 
 Da entgegnete mir das alte Weiblein: »Vieles Artige sagte Zarathustra und sonderlich für die, welche jung genug dazu sind.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Seltsam ist’s, Zarathustra kennt wenig die Weiber, und doch hat er über sie Recht! Geschieht dies deshalb, weil beim Weibe kein Ding unmöglich ist?
 
@@ -1629,7 +1638,7 @@ Und jeder, der Ruhm haben will, muss sich beizeiten von der Ehe verabschieden un
 
 Man muss aufhören, sich essen zu lassen, wenn man am besten schmeckt: das wissen die, welche lange geliebt werden wollen.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Saure Äpfel gibt es freilich, deren Los will, dass sie bis auf den letzten Tag des Herbstes warten: und zugleich werden sie reif, gelb und runzelig.
 
@@ -1753,7 +1762,7 @@ Wachet und horcht, ihr Einsamen! Von der Zukunft her kommen Winde mit heimlichem
 
 Ihr Einsamen von heute, ihr Ausscheidenden, ihr sollt einst ein Volk sein: aus euch, die ihr euch selber auswähltet, soll ein auserwähltes Volk erwachsen – und aus ihm der [Übermensch](/positions/ubermensch).
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Wahrlich, eine Stätte der Genesung soll noch die Erde werden! Und schon liegt ein neuer Geruch um sie, ein Heil bringender – und eine neue Hoffnung!
 
@@ -1907,7 +1916,7 @@ Wohl zog ich den Schluss; nun aber zieht er mich. –
 
 Gott ist eine Mutmaßung: aber wer tränke alle Qual dieser Mutmaßung, ohne zu sterben? Soll dem Schaffenden sein [Glaube](/concepts/faith) genommen sein und dem Adler sein Schweben in Adler-Fernen?
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Gott ist ein Gedanke, der macht alles Gerade krumm, und alles, was steht, drehend. Wie? Die [Zeit](/concepts/time) wäre hinweg, und alles Vergängliche nur Lüge?
 
@@ -2065,7 +2074,7 @@ Aber endlich kommt es und wacht und frisst und schlingt, was auf ihm sich Hütte
 
 O seht mir doch diese Hütten an, die sich diese Priester bauten! Kirchen heißen sie ihre süß duftenden Höhlen.
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 O über dies verfälschte Licht, diese verdumpfte Luft! Hier, wo die [Seele](/concepts/soul) zu ihrer Höhe hinauf – nicht fliegen darf!
 
@@ -2213,7 +2222,7 @@ Allem Reinlichen bin ich hold; aber ich mag die grinsenden Mäuler nicht sehn un
 
 Sie warfen ihr Auge hinab in den Brunnen: nun glänzt mir ihr widriges Lächeln heraus aus dem Brunnen.
 
-<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Das heilige Wasser haben sie vergiftet mit ihrer Lüsternheit; und als sie ihre schmutzigen Träume Lust nannten, vergifteten sie auch noch die Worte.
 
@@ -2351,7 +2360,7 @@ Wahrlich, wer hier einst seine Gedanken in Stein nach oben türmte, um das Gehei
 
 Dass Kampf und Ungleiches auch noch in der [Schönheit](/concepts/beauty) sei, und Krieg um Macht und Übermacht: das lehrt er uns hier im deutlichsten Gleichnis.
 
-<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Wie sich göttlich hier Gewölbe und Bogen brechen, im Ringkampfe: wie mit Licht und Schatten sie wider einander streben, die göttlich-Strebenden –
 
@@ -2507,7 +2516,7 @@ Nacht ist es: nun bricht wie ein Born aus mir mein Verlangen – – nach Rede v
 
 Nacht ist es: nun reden lauter alle springenden Brunnen. Und auch meine Seele ist ein springender Brunnen.
 
-<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Nacht ist es: nun erwachen alle Lieder der Liebenden. Und auch meine [Seele](/concepts/soul) ist das Lied eines Liebenden. –
 
@@ -2653,7 +2662,7 @@ Mörderischer Sänger, Werkzeug der Bosheit, Unschuldigster! Schon stand ich ber
 
 Nur im Tanze weiß ich der höchsten Dinge Gleichnis zu reden – und nun blieb mir mein höchstes Gleichnis ungeredet in meinen Gliedern!
 
-<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Ungeredet und unerlöst blieb mir die höchste Hoffnung! Und es starben mir alle Gesichte und Tröstungen meiner Jugend!
 
@@ -2797,7 +2806,7 @@ Dem Stiere gleich sollte er tun; und sein Glück sollte nach Erde riechen, und n
 
 Als weißen Stier möchte ich ihn sehn, wie er schnaubend und brüllend der Pflugschar vorangeht: und sein Gebrüll sollte noch alles Irdische preisen!
 
-<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Dunkel noch ist sein Antlitz; der Hand Schatten spielt auf ihm. Verschattet ist noch der Sinn seines Auges.
 
@@ -2949,7 +2958,7 @@ Wahrlich, nicht als Schaffende, Zeugende, Werdelustige liebt ihr die Erde!
 
 Wo ist Unschuld? Wo der [Wille](/concepts/will) zur Zeugung ist. Und wer über sich hinaus schaffen will, der hat mir den reinsten Willen.
 
-<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Wo ist [Schönheit](/concepts/beauty)? Wo ich mit allem Willen wollen muss; wo ich lieben und untergehn will, dass ein Bild nicht nur Bild bleibe.
 
@@ -3097,7 +3106,7 @@ Ach, es gibt so viel Dinge zwischen Himmel und Erde, von denen sich nur die Dich
 
 Und zumal über dem Himmel: denn alle Götter sind Dichter-Gleichnis, Dichter-Erschleichnis!
 
-<span class="atom-split" data-atom="023" data-title="Parte 23" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="023" data-title="Parte 23" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Wahrlich, immer zieht es uns hinan – nämlich zum Reich der Wolken: auf diese setzen wir unsre bunten Bälge und heißen sie dann Götter und Übermenschen: –
 
@@ -3219,7 +3228,7 @@ Als dies der Feuerhund vernahm, hielt er’s nicht mehr aus, mir zuzuhören. Bes
 
 Also erzählte Zarathustra. Seine Jünger aber hörten ihm kaum zu: so groß war ihre Begierde, ihm von den Schiffsleuten, den Kaninchen und dem fliegenden Manne zu erzählen.
 
-<span class="atom-split" data-atom="024" data-title="Parte 24" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="024" data-title="Parte 24" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 »Was soll ich davon denken!«, sagte Zarathustra. »Bin ich denn ein Gespenst?
 
@@ -3349,7 +3358,7 @@ Das ist mir aber das Geringste, seit ich unter Menschen bin, dass ich sehe: ›D
 
 Ich sehe und sah Schlimmeres und mancherlei so Abscheuliches, dass ich nicht von jeglichem reden und von einigem nicht einmal schweigen möchte: nämlich Menschen, denen es an allem fehlt, außer, dass sie eines zu viel haben – Menschen, welche nichts weiter sind, als ein großes Auge oder ein großes Maul oder ein großer Bauch oder irgendetwas Großes – umgekehrte Krüppel heiße ich solche.
 
-<span class="atom-split" data-atom="025" data-title="Parte 25" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="025" data-title="Parte 25" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Und als ich aus meiner Einsamkeit kam und zum ersten Male über diese Brücke ging: da traute ich meinen Augen nicht und sah hin, und wieder hin, und sagte endlich: ›Das ist ein Ohr! Ein Ohr, so groß wie ein Mensch!‹ Ich sah noch besser hin: und wirklich, unter dem Ohre bewegte sich noch etwas, das zum Erbarmen klein und ärmlich und schmächtig war. Und wahrhaftig, das ungeheure Ohr saß auf einem kleinen dünnen Stiele – der Stiel aber war ein Mensch! Wer ein Glas vor das Auge nahm, konnte sogar noch ein kleines neidisches Gesichtchen erkennen; auch, dass ein gedunsenes Seelchen am Stiele baumelte. Das Volk sagte mir aber, dass große Ohr sei nicht nur ein Mensch, sondern ein großer Mensch, ein Genie. Aber ich glaubte dem Volke niemals, wenn es von großen Menschen redete – und behielt meinen Glauben bei, dass es ein umgekehrter Krüppel sei, der an allem zu wenig und an einem zu viel habe.«
 
@@ -3479,7 +3488,7 @@ Ist nicht verletzte Eitelkeit die Mutter aller Trauerspiele? Wo aber Stolz verle
 
 Damit das Leben gut anzuschaun sei, muss sein Spiel gut gespielt werden: dazu aber bedarf es guter Schauspieler.
 
-<span class="atom-split" data-atom="026" data-title="Parte 26" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="026" data-title="Parte 26" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Gute Schauspieler fand ich alle Eitlen: sie spielen und wollen, dass ihnen gern zugeschaut werde – all ihr [Geist](/positions/idealism) ist bei diesem Willen.
 
@@ -3635,7 +3644,7 @@ Vom Lesen und Schreiben (S. 389)
 
 Der Wanderer
 
-<span class="atom-split" data-atom="027" data-title="Parte 27" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="027" data-title="Parte 27" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Um Mitternacht war es, da nahm Zarathustra seinen Weg über den Rücken der Insel, dass er mit dem frühen Morgen an das andere Gestade käme: denn dort wollte er zu Schiff steigen. Es gab nämlich allda eine gute Reede, an der auch fremde Schiffe gern vor Anker gingen; die nahmen manchen mit sich, der von den glückseligen Inseln über das Meer wollte. Als nun Zarathustra so den Berg hinanstieg, gedachte er unterwegs des vielen einsamen Wanderns von Jugend an, und wie viele Berge und Rücken und Gipfel er schon gestiegen sei.
 
@@ -3743,7 +3752,7 @@ Mut nämlich ist der beste Totschläger – Mut, welcher angreift: denn in jedem
 
 Der Mensch aber ist das mutigste Tier: damit überwand er jedes Tier. Mit klingendem Spiele überwand er noch jeden Schmerz; Menschen-Schmerz aber ist der tiefste Schmerz.
 
-<span class="atom-split" data-atom="028" data-title="Parte 28" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="028" data-title="Parte 28" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Der Mut schlägt auch den Schwindel tot an Abgründen: und wo stünde der Mensch nicht an Abgründen! Ist Sehen nicht selber – Abgründe sehen?
 
@@ -3863,7 +3872,7 @@ Und wahrlich, Zeit war’s, dass ich ging; und des Wanderers Schatten und die l�
 
 Der Wind blies mir durchs Schlüsselloch und sagte »Komm!«. Die Tür sprang mir listig auf und sagte »Geh!«.
 
-<span class="atom-split" data-atom="029" data-title="Parte 29" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="029" data-title="Parte 29" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Aber ich lag angekettet an die Liebe zu meinen Kindern: das Begehren legte mir diese Schlinge, das Begehren nach Liebe, dass ich meiner Kinder Beute würde und mich an sie verlöre.
 
@@ -3991,7 +4000,7 @@ Als Zarathustra wieder auf dem festen Lande war, ging er nicht stracks auf sein 
 
 »Was bedeuten diese Häuser? Wahrlich, keine große Seele stellte sie hin, sich zum Gleichnisse!
 
-<span class="atom-split" data-atom="030" data-title="Parte 30" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="030" data-title="Parte 30" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Nahm wohl ein blödes Kind sie aus seiner Spielschachtel? Dass doch ein anderes Kind sie wieder in seine Schachtel täte.
 
@@ -4137,7 +4146,7 @@ Aber ihre Stunde kommt! Und es kommt auch die meine! Stündlich werden sie klein
 
 Und bald sollen sie mir dastehn wie dürres Gras und Steppe, und wahrlich! ihrer selber müde – und mehr als nach Wasser, nach Feuer lechzend!
 
-<span class="atom-split" data-atom="031" data-title="Parte 31" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="031" data-title="Parte 31" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 O gesegnete Stunde des Blitzes! O Geheimnis vor Mittag! – Laufende Feuer will ich einst noch aus ihnen machen und Verkünder mit Flammen-Zungen: –
 
@@ -4285,7 +4294,7 @@ Hier aber unterbrach Zarathustra den schäumenden Narren und hielt ihm den Mund 
 
 »Höre endlich auf!«, rief Zarathustra, »mich ekelt lange schon deiner Rede und deiner Art!
 
-<span class="atom-split" data-atom="032" data-title="Parte 32" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="032" data-title="Parte 32" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Warum wohntest du so lange am Sumpfe, dass du selber zum Frosch und zur Kröte werden musstest?
 
@@ -4423,7 +4432,7 @@ Die Heimkehr
 
 O Einsamkeit! Du meine Heimat Einsamkeit! Zu lange lebte ich wild in wilder Fremde, als dass ich nicht mit Tränen zu dir heimkehrte!
 
-<span class="atom-split" data-atom="033" data-title="Parte 33" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="033" data-title="Parte 33" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Nun drohe mir nur mit dem Finger, wie Mütter drohn, nun lächle mir zu, wie Mütter lächeln, nun sprich nur: »Und wer war das, der wie ein Sturmwind einst von mir davon stürmte? –
 
@@ -4553,7 +4562,7 @@ Nun steht die Waage gleich und still: drei schwere Fragen warf ich hinein, drei 
 
 Wollust: allen bußhemdigen Leib-Verächtern ihr Stachel und Pfahl, und als »Welt« verflucht bei allen Hinterweltlern: denn sie höhnt und narrt alle Wirr- und Irr-Lehrer.
 
-<span class="atom-split" data-atom="034" data-title="Parte 34" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="034" data-title="Parte 34" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Wollust: dem Gesindel das langsame Feuer, auf dem es verbrannt wird; allem wurmichten Holze, allen stinkenden Lumpen der bereite Brunst- und Brodel-Ofen.
 
@@ -4685,7 +4694,7 @@ Der Mensch ist schwer zu entdecken und sich selber noch am schwersten; oft lügt
 
 Der aber hat sich selber entdeckt, welcher spricht: Das ist mein Gutes und Böses: damit hat er den Maulwurf und Zwerg stumm gemacht, welcher spricht: »Allen gut, allen bös.«
 
-<span class="atom-split" data-atom="035" data-title="Parte 35" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="035" data-title="Parte 35" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Wahrlich, ich mag auch solche nicht, denen jegliches Ding gut und diese Welt gar die beste heißt. Solche nenne ich die Allgenügsamen.
 
@@ -4821,7 +4830,7 @@ Wer vom Pöbel ist, der will umsonst leben; wir anderen aber, denen das Leben si
 
 Und wahrlich, dies ist eine vornehme Rede, welche spricht: »Was uns das Leben verspricht, das wollen wir – dem Leben halten!«
 
-<span class="atom-split" data-atom="036" data-title="Parte 36" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="036" data-title="Parte 36" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Man soll nicht genießen wollen, wo man nicht zu genießen gibt. Und – man soll nicht genießen wollen!
 
@@ -4973,7 +4982,7 @@ Solche Sprüche hörte ich fromme Hinterweltler zu ihrem Gewissen reden; und wah
 
 »Lass doch die Welt der Welt sein! Hebe dawider auch nicht einen Finger auf!«
 
-<span class="atom-split" data-atom="037" data-title="Parte 37" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="037" data-title="Parte 37" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 »Lass, wer da wolle, die Leute würgen und stechen und schneiden und schaben: hebe dawider auch nicht einen Finger auf! Darob lernen sie noch der Welt absagen.«
 
@@ -5129,7 +5138,7 @@ Bessere Raubtiere sollen sie also werden, feinere, klügere, menschenähnlichere
 
 Allen Tieren hat der Mensch schon ihre Tugenden abgeraubt: das macht, von allen Tieren hat es der Mensch am schwersten gehabt.
 
-<span class="atom-split" data-atom="038" data-title="Parte 38" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="038" data-title="Parte 38" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Nur noch die Vögel sind über ihm. Und wenn der Mensch noch fliegen lernte, wehe! wohinauf – würde seine Raublust fliegen!
 
@@ -5295,7 +5304,7 @@ Heil mir! Heran! Gib die Hand – – ha! lass! Haha – – Ekel, Ekel, Ekel �
 
 2
 
-<span class="atom-split" data-atom="039" data-title="Parte 39" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="039" data-title="Parte 39" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Kaum aber hatte Zarathustra diese Worte gesprochen, da stürzte er nieder gleich einem Toten und blieb lange wie ein Toter. Als er aber wieder zu sich kam, da war er bleich und zitterte und blieb liegen und wollte lange nicht essen noch trinken. Solches Wesen dauerte an ihm sieben Tage; seine Tiere verließen ihn aber nicht bei Tag und Nacht, es sei denn, dass der Adler ausflog, Speise zu holen. Und was er holte und zusammenraubte, das legte er auf Zarathustras Lager: also dass Zarathustra endlich unter gelben und roten Beeren, Trauben, Rosenäpfeln, wohlriechendem Krautwerke und Pinien-Zapfen lag. Zu seinen Füßen aber waren zwei Lämmer gebreitet, welche der Adler mit Mühe ihren Hirten abgeraubt hatte.
 
@@ -5407,7 +5416,7 @@ Du würdest sprechen und ohne Zittern, vielmehr aufatmend vor Seligkeit: denn ei
 
 ›Nun sterbe und schwinde ich‹, würdest du sprechen, ›und im Nu bin ich ein Nichts. Die Seelen sind so sterblich wie die Leiber.
 
-<span class="atom-split" data-atom="040" data-title="Parte 40" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="040" data-title="Parte 40" data-chapter="" data-kind="atom" data-srclang="de" data-tags="positions/eternal_return,positions/ubermensch,concepts/soul,concepts/freedom,concepts/time"></span>
 
 Aber der Knoten von Ursachen kehrt wieder, in den ich verschlungen bin – der wird mich wieder schaffen! Ich selber gehöre zu den Ursachen der ewigen Wiederkunft.
 
@@ -5539,7 +5548,7 @@ Du bist so arg müde? Ich trage dich hin, lass nur die Arme sinken! Und hast du 
 
 – O diese verfluchte flinke gelenke Schlange und Schlupf-Hexe! Wo bist du hin? Aber im Gesicht fühle ich von deiner Hand zwei Tupfen und rote Klexe!
 
-<span class="atom-split" data-atom="041" data-title="Parte 41" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="041" data-title="Parte 41" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Ich bin es wahrlich müde, immer dein schafichter Schäfer zu sein! Du Hexe, habe ich dir bisher gesungen, nun sollst du mir – schrein! –
 
@@ -5775,7 +5784,7 @@ Das Honig-Opfer
 
 – Und wieder liefen Monde und Jahre über Zarathustras [Seele](/concepts/soul), und er achtete dessen nicht; sein Haar aber wurde weiß.
 
-<span class="atom-split" data-atom="042" data-title="Parte 42" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="042" data-title="Parte 42" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Eines Tages, als er auf einem Steine vor seiner Höhle saß und still hinausschaute – man schaut aber dort auf das Meer hinaus, und hinweg über gewundene Abgründe –, da gingen seine Tiere nachdenklich um ihn herum und stellten sich endlich vor ihn hin.
 
@@ -5845,7 +5854,7 @@ Der Wahrsager, der es wahrgenommen, was sich in Zarathustras Seele zutrug, wisch
 
 »Sei mir willkommen«, sagte Zarathustra, »du Wahrsager der großen Müdigkeit, du sollst nicht umsonst einstmals mein Tisch- und Gastfreund gewesen sein. Iss und trink auch heute bei mir und vergib es, dass ein vergnügter alter Mann mit dir zu Tische sitzt!« – »Ein vergnügter alter Mann?«, antwortete der Wahrsager, den Kopf schüttelnd: »wer du aber auch bist oder sein willst, o Zarathustra, du bist es zum längsten hier oben gewesen – dein Nachen soll über kurzem nicht mehr im Trocknen sitzen!« – »Sitze ich denn im Trocknen?« – fragte Zarathustra lachend. – »Die Wellen um deinen Berg«, antwortete der Wahrsager, »steigen und steigen, die Wellen großer Not und Trübsal: die werden bald auch deinen Nachen heben und dich davontragen.« – Zarathustra schwieg hierauf und wunderte sich. –»Hörst du noch nichts?«, fuhr der Wahrsager fort: »rauscht und braust es nicht herauf aus der Tiefe?« – Zarathustra schwieg abermals und horchte: da hörte er einen langen, langen Schrei, welchen die Abgründe sich zuwarfen und weitergaben, denn keiner wollte ihn behalten: so böse klang er.
 
-<span class="atom-split" data-atom="043" data-title="Parte 43" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="043" data-title="Parte 43" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 »Du schlimmer Verkündiger«, sprach endlich Zarathustra, »das ist ein Notschrei und der Schrei eines Menschen; der mag wohl aus einem schwarzen Meere kommen. Aber was geht mich Menschen-Not an! Meine letzte Sünde, die mir aufgespart blieb, weißt du wohl, wie sie heißt?«
 
@@ -5973,7 +5982,7 @@ Roms Cäsar sank zum Vieh, Gott selbst – ward Jude!«
 
 2
 
-<span class="atom-split" data-atom="044" data-title="Parte 44" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="044" data-title="Parte 44" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 An diesen Reimen Zarathustras weideten sich die Könige; der König zur Rechten aber sprach: »O Zarathustra, wie gut taten wir, dass wir auszogen, dich zu sehn!
 
@@ -6091,7 +6100,7 @@ Hingestreckt, schaudernd,
 
 Halb Totem gleich, dem man die Füße wärmt –
 
-<span class="atom-split" data-atom="045" data-title="Parte 45" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="045" data-title="Parte 45" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Geschüttelt, ach! von unbekannten Fiebern,
 
@@ -6375,7 +6384,7 @@ Wie! Kaum bin ich jenem Zauberer entronnen: muss mir da wieder ein anderer Schwa
 
 Aber der Teufel ist nie am Platze, wo er am Platze wäre: immer kommt er zu spät, dieser vermaledeite Zwerg und Klumpfuß!« –
 
-<span class="atom-split" data-atom="046" data-title="Parte 46" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="046" data-title="Parte 46" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Also fluchte Zarathustra ungeduldig in seinem Herzen und gedachte, wie er abgewandten Blicks an dem schwarzen Manne vorüberschlüpfe: aber siehe, es kam anders. Im gleichen Augenblicke nämlich hatte ihn schon der Sitzende erblickt; und nicht unähnlich einem solchen, dem ein unvermutetes Glück zustößt, sprang er auf und ging auf Zarathustra los.
 
@@ -6479,7 +6488,7 @@ An deren Worten will ich lange nun kauen gleich als an guten Körnern; klein sol
 
 Als aber der Weg wieder um einen Felsen bog, veränderte sich mit einem Male die Landschaft, und Zarathustra trat in ein Reich des Todes. Hier starrten schwarze und rote Klippen empor: kein Gras, kein Baum, keine Vogelstimme. Es war nämlich ein Tal, welches alle Tiere mieden, auch die Raubtiere; nur dass eine Art hässlicher, dicker, grüner Schlangen, wenn sie alt wurden, hierher kamen, um zu sterben. Darum nannten dies Tal die Hirten: Schlangen-Tod.
 
-<span class="atom-split" data-atom="047" data-title="Parte 47" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="047" data-title="Parte 47" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Zarathustra aber versank in eine schwarze Erinnerung, denn ihm war, als habe er schon einmal in diesem Tal gestanden. Und vieles Schwere legte sich ihm über den Sinn: also, dass er langsam ging und immer langsamer und endlich still stand. Da aber sahe er, als er die Augen auftat, etwas, das am Wege saß, gestaltet wie ein Mensch, und kaum wie ein Mensch, etwas Unaussprechliches. Und mit einem Schlage überfiel Zarathustra die große Scham darob, dass er so etwas mit den Augen angesehen habe: errötend bis hinauf an sein weißes Haar, wandte er den Blick ab und hob den Fuß, dass er diese schlimme Stelle verlasse. Da aber wurde die tote Öde laut: vom Boden auf nämlich quoll es gurgelnd und röchelnd, wie Wasser nachts durch verstopfte Wasser-Röhren gurgelt und röchelt; und zuletzt wurde daraus eine Menschen-Stimme und Menschen-Rede – die lautete also:
 
@@ -6589,7 +6598,7 @@ Als Zarathustra den hässlichsten Menschen verlassen hatte, fror ihn, und er fü
 
 Schon bin ich weniger allein; unbewusste Gefährten und Brüder schweifen um mich, ihr warmer Atem rührt an meine Seele.«
 
-<span class="atom-split" data-atom="048" data-title="Parte 48" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="048" data-title="Parte 48" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Als er aber um sich spähte und nach den Tröstern seiner Einsamkeit suchte: siehe, da waren es Kühe, welche auf einer Anhöhe beieinander standen; deren Nähe und Geruch hatten sein Herz erwärmt. Diese Kühe aber schienen mit Eifer einem Redenden zuzuhören und gaben nicht auf den Acht, der herankam. Wie aber Zarathustra ganz in ihrer Nähe war, hörte er deutlich, dass eine Menschen-Stimme aus der Mitte der Kühe heraus redete; und ersichtlich hatten sie allesamt ihre Köpfe dem Redenden zugedreht.
 
@@ -6689,7 +6698,7 @@ Also sprach Zarathustra, lachend mit Augen und Eingeweiden, blieb stehen und dre
 
 Ein Wanderer bin ich, der viel schon hinter deinen Fersen herging: immer unterwegs, aber ohne Ziel, auch ohne Heim: also dass mir wahrlich wenig zum Ewigen Juden fehlt, es sei denn, dass ich nicht ewig und auch nicht Jude bin.
 
-<span class="atom-split" data-atom="049" data-title="Parte 49" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="049" data-title="Parte 49" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Wie? Muss ich immerdar unterwegs sein? Von jedem Winde gewirbelt, unstet, fortgetrieben? O Erde, du wardst mir zu rund!
 
@@ -6803,7 +6812,7 @@ Wann trinkst du diesen Tropfen Taus, der auf alle Erden-Dinge niederfiel – wan
 
 – wann, Brunnen der Ewigkeit! du heiterer schauerlicher Mittags-Abgrund! wann trinkst du meine Seele in dich zurück?«
 
-<span class="atom-split" data-atom="050" data-title="Parte 50" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="050" data-title="Parte 50" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Also sprach Zarathustra und erhob sich von seinem Lager am Baume wie aus einer fremden Trunkenheit: und siehe, da stand die Sonne immer noch gerade über seinem Haupte. Es möchte aber einer daraus mit Recht annehmen, dass Zarathustra damals nicht lange geschlafen habe.
 
@@ -6907,7 +6916,7 @@ Nicht auf euch warte ich hier in diesen Bergen, nicht mit euch darf ich zum letz
 
 – nicht die Menschen der großen Sehnsucht, des großen Ekels, des großen Überdrusses und das, was ihr den Überrest Gottes nanntet.
 
-<span class="atom-split" data-atom="051" data-title="Parte 51" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="051" data-title="Parte 51" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 – Nein! Nein! Dreimal nein! Auf andere warte ich hier in diesen Bergen und will meinen Fuß nicht ohne sie von dannen heben,
 
@@ -7037,7 +7046,7 @@ Solches ist aber nicht für lange Ohren gesagt. Jedwedes Wort gehört auch nicht
 
 6
 
-<span class="atom-split" data-atom="052" data-title="Parte 52" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="052" data-title="Parte 52" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Ihr höheren Menschen, meint ihr, ich sei da, gut zu machen, was ihr schlecht machtet?
 
@@ -7195,7 +7204,7 @@ Erhebt eure Herzen, meine Brüder, hoch! höher! Und vergesst mir auch die Beine
 
 Diese Krone des Lachenden, diese Rosenkranz-Krone: ich selber setzte mir diese Krone auf, ich selber sprach heilig mein Gelächter. Keinen anderen fand ich heute stark genug dazu.
 
-<span class="atom-split" data-atom="053" data-title="Parte 53" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="053" data-title="Parte 53" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Zarathustra der Tänzer, Zarathustra der Leichte, der mit den Flügeln winkt, ein Flugbereiter, allen Vögeln zuwinkend, bereit und fertig, ein Selig-Leichtfertiger: –
 
@@ -7493,7 +7502,7 @@ So tun es diese alle, die höheren Menschen. Du aber hast wohl wenig von meinem 
 
 »Du lobst mich«, entgegnete der Gewissenhafte, »indem du mich von dir abtrennst, wohlan! Aber ihr anderen, was sehe ich? Ihr sitzt alle noch mit lüsternen Augen da –:
 
-<span class="atom-split" data-atom="054" data-title="Parte 54" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="054" data-title="Parte 54" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Ihr freien Seelen, wohin ist eure [Freiheit](/concepts/freedom)! Fast, dünkt mich’s, gleicht ihr solchen, die lange schlimmen tanzenden nackten Mädchen zusahn: eure Seelen tanzen selber!
 
@@ -7799,7 +7808,7 @@ Löwen-Ungetiere? Oder gar schon
 
 Abgenagt, abgeknabbert –
 
-<span class="atom-split" data-atom="055" data-title="Parte 55" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="055" data-title="Parte 55" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Erbärmlich, wehe! wehe!, abgeknappert! Sela.
 
@@ -7977,7 +7986,7 @@ Es war eine Dummheit, was du tatest; wie konntest du, du Kluger, eine solche Dum
 
 – »Und du gar«, sagte Zarathustra zu dem Gewissenhaften des Geistes, »erwäge doch und lege den Finger an deine Nase! Geht hier denn nichts wider dein Gewissen? Ist dein Geist nicht zu reinlich für dies Beten und den Dunst dieser Betbrüder?«
 
-<span class="atom-split" data-atom="056" data-title="Parte 56" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="056" data-title="Parte 56" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 »Es ist etwas daran«, antwortete der Gewissenhafte und legte den Finger an die Nase, »es ist etwas an diesem Schauspiele, das meinem Gewissen sogar wohl tut.
 
@@ -8085,7 +8094,7 @@ Wehe mir! Wo ist die Zeit hin? Sank ich nicht in tiefe Brunnen? Die Welt schläf
 
 Ach! Ach! Der Hund heult, der Mond scheint. Lieber will ich sterben, sterben, als euch sagen, was mein Mitternachts-Herz eben denkt.
 
-<span class="atom-split" data-atom="057" data-title="Parte 57" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="057" data-title="Parte 57" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/human_nature,assi/end_of_life,assi/meaning_of_history,assi/moral_foundation,positions/ubermensch,positions/last_man,positions/amor_fati,positions/eternal_return,positions/will_to_power,concepts/will,concepts/nihilism,concepts/transvaluation_of_values,concepts/ressentiment,schools/vitalism"></span>
 
 Nun starb ich schon. Es ist dahin. Spinne, was spinnst du um mich? Willst du Blut? Ach! Ach! der Tau fällt, die Stunde kommt –
 
@@ -8239,7 +8248,7 @@ Sie schlafen noch in meiner Höhle, ihr Traum trinkt noch an meinen trunkenen Li
 
 – Dies hatte Zarathustra zu seinem Herzen gesprochen, als die Sonne aufging: da blickte er fragend in die Höhe, denn er hörte über sich den scharfen Ruf seines Adlers. »Wohlan!«, rief er hinauf, »so gefällt und gebührt es mir. Meine Tiere sind wach, denn ich bin wach. Mein Adler ist wach und ehrt gleich mir die Sonne. Mit Adlers-Klauen greift er nach dem neuen Lichte. Ihr seid meine rechten Tiere; ich liebe euch. Aber noch fehlen mir meine rechten Menschen!« –
 
-<span class="atom-split" data-atom="058" data-title="Parte 58" data-chapter="" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="058" data-title="Parte 58" data-chapter="" data-kind="atom" data-srclang="de" data-tags="assi/time_and_death,positions/eternal_return,concepts/compassion"></span>
 
 Also sprach Zarathustra; da aber geschah es, dass er sich plötzlich wie von unzähligen Vögeln umschwärmt und umflattert hörte – das Geschwirr so vieler Flügel aber und das Gedräng um sein Haupt war so groß, dass er die Augen schloss. Und wahrlich, einer Wolke gleich fiel es über ihn her, einer Wolke von Pfeilen gleich, welche sich über einen neuen Feind ausschüttet. Aber siehe, hier war es eine Wolke der Liebe, und über einen neuen Freund.
 

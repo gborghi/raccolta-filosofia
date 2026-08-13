@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short preface to the collection of book-notes: rather than criticism, the aim is to prolong the themes each reading stirs, capturing the thoughts that take flight from it. Programmatic text.
+> An 87-word fragment with no sample in the digest: almost certainly just the title page/heading of the collection of the same name. There is no text to judge.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

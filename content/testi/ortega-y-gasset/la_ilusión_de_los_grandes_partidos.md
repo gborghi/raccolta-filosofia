@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial (El Sol, 1919) against rebuilding the great parties and their peaceful alternation: political convictions now live on nuances rather than large opposed affirmations, Spanish society is split into cores that cannot be unified, and every attempt at grand parliamentary architecture will end by crushing the institutions sheltering under it.
 

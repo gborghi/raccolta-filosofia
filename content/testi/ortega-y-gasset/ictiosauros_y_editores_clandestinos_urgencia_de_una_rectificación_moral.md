@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Moral polemic against Spanish-American clandestine editions (Chilean above all): less an economic matter than a symptom of a moral rot to be corrected; the only fitting jurisdiction is disgust. Moral essay-op-ed.
+> A 1,897-word entry that the digest records with zero atoms and no sample: the text is unavailable and its content cannot be judged. The title announces a polemic about clandestine publishers and a «moral rectification».
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

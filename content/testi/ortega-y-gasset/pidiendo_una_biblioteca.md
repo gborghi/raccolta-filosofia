@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article against the proposed National Theatre and against Catalan Solidaridad: Spain will be saved not by the spontaneous but by a labour of reflective energy. It mocks Cambó's idea that Spanish decadence is explained by centralism—an 'administrative' reading of history replacing Marx's economic one. The sample is only the opening.
 

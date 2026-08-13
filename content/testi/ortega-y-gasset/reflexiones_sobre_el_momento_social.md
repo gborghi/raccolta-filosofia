@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A piece of social journalism: it reprints his own earlier text on 'too many strikes' and observes that the forecast came true — the workers lost all the big strikes and Bolshevism lost plausibility in Europe. He recommends less direct action and more politics, and a liberal socialism in place of Marxist tactics.
+
+## Connections
+
+**Concetti:** [[concepts/labour|lavoro]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

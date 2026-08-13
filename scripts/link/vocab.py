@@ -36,7 +36,7 @@ LINK_CATEGORIES = ("axes", "positions", "schools", "concepts", "arguments", "fig
 # prosa comune, non un termine tecnico: come innesco di link va scartata.
 # Le multiparola ("eternal recurrence", "tabula rasa") non passano da qui —
 # sono precise per costruzione.
-GENERIC_DOC_RATIO = 0.05
+GENERIC_DOC_RATIO = 0.08
 
 # I nodi `figures` portano fra gli alias il nome del filosofo a cui la figura
 # appartiene: `lucilius` ha "Seneca", `master_and_slave` ha "Hegel",

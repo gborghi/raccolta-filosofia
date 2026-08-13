@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article: the Republic must veer not from right to left or the reverse but from the false to the authentic. The new regime was born of a craving for a higher order, not of revolution, and the respect enjoyed by the socialist party is symptomatic proof of this Spanish aspiration to order. Political topicality.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A theory of the novel by contrast: Balzac is unbearable today because the Comédie humaine is a daub in which the object is not present but merely alluded to, whereas in good painting the object stands there in person. The novel has moved from allusive narration to rigorous presentation: "the imperative of the novel is the autopsy" — one must see with one's own eyes, as in Cervantes and Stendhal.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

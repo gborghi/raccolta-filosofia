@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The last of a series of articles on a new politics: the ethnic shame of 1898, the refusal to explain Spain's ills by money or hunger — Ortega says the materialist conception of history is proved false precisely in Spain's case — and a polemic against Maura's vague use of the word 'the people', which must be defined scientifically since it is the matter of politics.
 

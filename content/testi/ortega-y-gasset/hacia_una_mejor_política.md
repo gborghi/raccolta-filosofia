@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > His inaugural article in El Sol: a programme of «midday will», a better Spain that demands above all more intelligence from every Spaniard and world-sized dimensions for its ideas. The second part is topical polemic against War Minister La Cierva's note forbidding the press certain subjects.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -162,7 +169,7 @@ D'altra parte, non sono state ancora create, fortunatamente, le nuove finzioni. 
 
 L'uomo della strada sospetta che non si possa governare nel vuoto. Governare è appoggiarsi su forze sociali. Perfino l'uccello, per cantare, appoggia il suo lirico corpicino sul ramo benevolo. Allo stesso modo, il ministro, per governare, si sostiene su energie dell'adesione pubblica.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Dejemos a un lado el tópico de la opinión pública, más necesitado de reforma que otro alguno. Pero es lo cierto que no se puede gobernar sin apoyarse en la adhesión de una parte de los españoles. ¿De cuántos? No es lo importante el número de amigos con que un político cuente, aun entendiendo por amigos todos los que honradamente coinciden con sus ideas. El entusiasmo de los amigos puede servir para encumbrar al político, para darle vida una hora. Pero no basta para que gobierne. Por muchos que sean los partidarios de un político, son siempre prácticamente más numerosos los enemigos. Lo importante para un político es la adhesión de los enemigos, la cual solemos llamar respeto. El respeto que un ministro logre inspirar a los enemigos constituye la fuerza real en que se apoya su gobernación.
 
@@ -276,7 +283,7 @@ COMMEDIA DEL LIBERTINO SCRUPOLOSO
 
 Al signor Sánchez de Toca sembra mostruoso che i militari, organizzandosi in Giunte di difesa, trasferiscano al corpo armato il principio sindacale scoperto ed elaborato dagli operai. Siccome la maggior parte degli spagnoli chiediamo all'avvenire e aspettiamo da esso prossimamente il contrario di questo politico conservatore, mi sembra l'occasione eccellente perché discrepiamo dai suoi giudizi.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Todo el mundo conoce el famoso juego de palabras que emplea Bergson para condensar una de sus más sagaces teorías: «le désordre —dice— c’est le conflit entre deux ordres». «El desorden es el conflicto entre dos órdenes». Cuando la situación de las cosas en la realidad no coincide con la cuadrícula de las ideas en nuestra cabeza, decimos que las cosas están en desorden. El orden de las ideas en la mente respetable, pero un poco faraónica, del señor Sánchez de Toca no admite que en el mundo existan Juntas militares de defensa. Nada más natural: la mente del señor Sánchez de Toca fue educada en la tertulia de Cánovas del Castillo, y se amamantó de la ubérrima Restauración. La Restauración fue una época en que reinaba un orden delicioso: se hizo en ella o se dejó de hacer todo en beneficio de una máscara y ficción de orden. Mas a la deliciosa época restauradora siguieron los años de las vacas flacas. No se olvide que nosotros, los que ahora estamos en la mitad del camino, tuvimos que nutrir nuestra mocedad con las amarguras de 1898. El 1898 —¿será necesario advertirlo?— no es una página de retórica: es el deshonor y la vergüenza, es la miseria y la desesperanza, es haber hallado, al despertar, truncas las esperanzas y tradiciones familiares, mancillado el hogar, segada de todo ideal, de toda virtud la nativa vega. El 1898 no es una página de retórica, antes bien es la herida abierta que en el alma llevamos los españoles de treinta años y a la cual tenemos que asomarnos para ver la vida y el mundo. Justo es, pues, que el orden de nuestras ideas no coincida con el que usufructúa el señor Sánchez de Toca. A este político respetable le acomete de pronto el atormentador escrúpulo de que se está faltando a la disciplina; esto le parece un horrífico desorden. En cambio pudo vivir medianamente feliz en un régimen público que toleraba la triste farsa suburbana de un ejército inexistente, escarnecido por el favoritismo y gobernado por la incompetencia. Es más, según me dicen; cuando en la crisis última fue llamado a Palacio nuestro barroco estadista, indicó a la Corona que se hallaba de acuerdo con las Juntas de defensa. Cierto que éstas no eran cómplices en tal acuerdo: ni lo habían buscado, ni tenían de él sospecha.
 

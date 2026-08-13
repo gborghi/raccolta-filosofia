@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A landscape piece: from the Pajares pass the Castilian gaze, used to loosing its visual arrow into the infinite, fails against Asturian fog and hills. Ortega turns this into an exhortation to the Castilian eye to will Spain's diversity and learn to transmigrate, becoming for a while another's gaze: man's most delicate gift.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +84,7 @@ Questo processo di differenziazione tanto lungo, tanto difficile, non è arrivat
 
 Secondo Riegl, era questo normale tra gli egiziani, e per evitarlo moltiplicavano le colonne dentro i loro templi, mettendole molto prossime le une alle altre. In questa guisa, la pupilla si sdrucciolava, come una mano di cieco, di fusto in fusto, fino ad arrivare al lontano. Qui abbiamo, dunque, un vedere che è ancora un palpare. E qui abbiamo anche un'arte —l'architettura egiziana— nata da quel modo di guardare.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Porque de estas mínimas peculiaridades depende a lo mejor el arte de un pueblo, y sus costumbres, y su política, y hasta su manera de entender el cosmos. Dos escuelas pictóricas tan diferentes en todo lo demás como la florentina y la flamenca coinciden, no obstante, en el predominio de los elementos táctiles dentro de la visión. Siempre nos sorprende hallar en sus cuadros los objetos —una vasija, una manzana— tan perfectamente delimitados y separados del aire ambiente. Dan ganas de tocarlos, porque sus superficies son lisas, pulidas y herméticas. Diríase que el pintor los ha mirado con las yemas de los dedos. Por el contrario, en la escuela veneciana y su heredera la de Madrid las cosas parecen esfumarse, fundidas unas con otras y todas con el ambiente. No tienen volumen ni peso, no conservan más que el puro color de sí mismas. En un cuadro veneciano, los objetos, sean lo que sean, son siempre cendales.
 

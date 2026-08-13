@@ -11,8 +11,18 @@ tags:
   - "philosopher/leibniz"
 ---
 
+*Leibniz*
+
 > [!abstract]
 > An early dialogue (Confessio philosophi) between a Theologian and a Philosopher on God's justice: how to reconcile divine goodness with sin and eternal damnation. The first formulation of the theodicy core — God author of harmony but not of sin — and an analysis of free choice against necessitarianism and fatalism.
+
+## Connections
+
+**Assi:** [[assi/god|Dio]], [[assi/freedom_necessity|Libertà e necessità]], [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/optimism|ottimismo]], [[positions/demonstrative_theism|teismo dimostrativo]], [[positions/compatibilism|compatibilismo]]  
+**Concetti:** [[concepts/theodicy|teodicea]], [[concepts/best_of_all_possible_worlds|migliore dei mondi possibili]], [[concepts/justice|giustizia]], [[concepts/freedom|libertà]], [[concepts/evil_privation|male come privazione del bene]]  
+**Forme:** [[forms/dialogue|dialogo]]  
+**Scuole:** [[schools/continental_rationalism|razionalismo continentale]]
 
 <p class="work-source">Testo originale inglese · Delphi Classics, 2025 · pubblico dominio</p>
 
@@ -119,7 +129,7 @@ Philosopher: I agree with that so strongly that I think it can be proven that it
 
 Theologian: I have nothing against this proof, or rather, this supposition of the human race, or even against its practical application. For all men, when they experience something, particularly if it is unusual, ask “why?”; that is, they demand a reason for it, and either the immediate cause, or the originator’s intention, if the originator is a rational being. From the word “why?” [cur] come the words “concern” [cura] and “curiosity” [curiositas], just as the word “to ask” [quaerere] comes from the words “who?” [quis] and “what?” [quae]. And when given its reason, if they have time and the trouble seems worth it, people seek the reason for the given reason, and so on, until (on the one hand) philosophers run into something self-evident, something necessary which is its own reason, or (on the other hand) ordinary people run into something familiar and commonplace, at which point they stop.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,assi/moral_foundation,positions/optimism,positions/demonstrative_theism,positions/compatibilism,concepts/theodicy,concepts/best_of_all_possible_worlds,concepts/justice,concepts/freedom,concepts/evil_privation,forms/dialogue,schools/continental_rationalism"></span>
 
 Philosopher: There must be a sufficient reason for everything; otherwise, the foundations of the sciences would be overthrown. For just as arithmetic and geometry (the sciences of quantities) have the first principle “The whole is greater than a part”, so “Everything has a reason.” is the fundamental principle of physics and ethics, the sciences of qualities, or said another way, the sciences of action, thinking and motion, since a quality is a potential for changing and being changed. And surely you will admit that even the most trivial theorem of physics and ethics cannot be proven without assuming this proposition; moreover, the proof of God’s existence rests on this postulate.
 
@@ -181,7 +191,7 @@ Philosopher: But I will make it so that you agree it’s true. Here’s an examp
 
 Theologian: I think not, if we are wise; for nine and three and the square root of two are numbers which can be clearly grasped; they are not just names with no idea behind them.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,assi/moral_foundation,positions/optimism,positions/demonstrative_theism,positions/compatibilism,concepts/theodicy,concepts/best_of_all_possible_worlds,concepts/justice,concepts/freedom,concepts/evil_privation,forms/dialogue,schools/continental_rationalism"></span>
 
 Philosopher: Thus, these theorems of the nature of things, these ideas like “nine” and the “square root of two” should be ascribed to the divine Reason, where the ideas of things have rested for [eternity](/positions/eternity). In other words, these theorems are true because God reasoned them from the ideas of things, not because God willed them. Moreover, these ideas follow from God’s existence, for if God were nothing, everything would be simply impossible and ideas like “nine” and the “square root of two” would share the common nothingness. Thus, some things owe their existence to God’s existence, but not to His Will.
 
@@ -215,7 +225,7 @@ Philosopher: The whole trouble springs from mis-using words; sloppy terminology 
 
 Theologian: Come on: how can something so difficult be settled so easily?
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,assi/moral_foundation,positions/optimism,positions/demonstrative_theism,positions/compatibilism,concepts/theodicy,concepts/best_of_all_possible_worlds,concepts/justice,concepts/freedom,concepts/evil_privation,forms/dialogue,schools/continental_rationalism"></span>
 
 Philosopher: Call me a prophet. There are certain words which are just vexing, annoying, irritating, aggravating and even torturing. If I were to say, “Sir, you are asserting something injurious to me, which you know is not so,” I don’t think you would be greatly offended, but would lightly overlook my presumption. But if I were to shout, “You’re a liar!”, immortal God, what a fuss you would raise, although “a liar” is just someone who asserts something false which is injurious or unjust. Thus if someone says, “Sins are necessary, God is responsible for sin, it was impossible for Judas to avoid damnation, etc.” everyone gets up in arms! However, we may say more diplomatically (but equivalently) that God is ultimately responsible for everything, i.e. He is the sufficient reason for the universe. This sufficient reason produces the most rational universe, which is equivalent to the universe of highest [beauty](/concepts/beauty) and harmony. Yet the most perfect harmony is that which brings the most chaotic discord unexpectedly into order, just as a beautiful painting is composed of very light and dark patches wonderfully arranged, or as beautiful music is composed of a wonderful arrangement of consonances and dissonances. This universal harmony also arranges that the true punishment for a sin is simply the logical consequence of the sin itself. Therefore, it follows that sins and their punishment result from God’s existence. But to say that sins are logically necessary, or that God created or desired sin to exist, is unwise and poorly reasoned, as can be seen by anyone logical.
 
@@ -247,7 +257,7 @@ Theologian: Perhaps we ought to seek the true reason and solution to a lazy soph
 
 Philosopher: What you say is true. For this argument, so dreadful and firmly implanted in some spirits, is a mere sophism, which relies on leaving out the hypothetical nature of the cause and of what exists. It is true that everything which will be, will truly be, but it is not necessary, not logically necessary, nor is what you do or not do. For an effect is not necessary unless the cause is postulated.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,assi/moral_foundation,positions/optimism,positions/demonstrative_theism,positions/compatibilism,concepts/theodicy,concepts/best_of_all_possible_worlds,concepts/justice,concepts/freedom,concepts/evil_privation,forms/dialogue,schools/continental_rationalism"></span>
 
 Theologian: I usually rebuke those who are so dangerously delusional with these words: You moron, if Fate has decreed that you cannot avoid evil, perhaps your stupidity is fated, too, so that you’re not careful enough to avoid it! No one’s destiny is worked without a means, be it diligence or opportunities. One must trust in this alone, and take advantage of opportunities as they occur. But you ask, isn’t whatever God foresees certain? Whatever will be, will be. I admit that is so, but it requires a means and for the most part, it only occurs with your actions. For good fortune rarely heaps itself on a sleeper and laws are written for the watchful. Therefore, since you are unsure whether to believe in your [free will](/positions/free_will) or not, act as though you did, i.e. act as if nothing were decreed by fate, although you cannot really act on something completely unknown. Thus, if you carry out your task, whatever may happen by fate, or rather the harmony of things, will not be held against you by God. The whole debate over foresight, Fate, [predestination](/concepts/predestination) and death doesn’t help in leading a life. Everything ought to be done in the same way, as if w didn’t think about these matters. If someone loves God constantly, then by that deed, he shows himself to have been predestined for salvation. Therefore, we can be saved if we desire it (and what more can we ask?) although it is by grace that we desire it.
 
@@ -283,7 +293,7 @@ Philosopher: Please don’t get worked up over an idea which is widely mis-under
 
 Theologian: To delight in its existence, as you prudently defined it before, whether we think it exists or whether we just imagine its existence.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,assi/moral_foundation,positions/optimism,positions/demonstrative_theism,positions/compatibilism,concepts/theodicy,concepts/best_of_all_possible_worlds,concepts/justice,concepts/freedom,concepts/evil_privation,forms/dialogue,schools/continental_rationalism"></span>
 
 Philosopher: But to delight is to experience harmony, as we said before; therefore, everything we desire seems harmonious somehow. But whether something appears harmonious depends on the nature of the perceiver, the object and the medium between them. So although we can do whatever we desire, our desires are not arbitrary; we only desire things which we believe to be good or pleasing. But our beliefs are not arbitrary, either; no one has ever managed to make himself disbelieve something he knows to be true, no matter how much he wished otherwise. Therefore, since beliefs do not result from desires, neither do desires result from desires. And even if we could make ourselves wish something merely because we wanted to, what causes our desire to wish it? Is it because of yet another desire, and so on to an infinite series of desires; or is it completely random, i.e. for no reason at all?
 
@@ -337,7 +347,7 @@ Philosopher: Not in the least, for just as in the middle of dark room, light may
 
 Theologian: But why do some desire to use it, and others not?
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,assi/moral_foundation,positions/optimism,positions/demonstrative_theism,positions/compatibilism,concepts/theodicy,concepts/best_of_all_possible_worlds,concepts/justice,concepts/freedom,concepts/evil_privation,forms/dialogue,schools/continental_rationalism"></span>
 
 Philosopher: Because it doesn’t occur to them that they could profit by it. Or rather, such people seem to lack thoughtfulness and attention, for they see, but do not observe; they hear but do not listen. This brings the refusal of grace, or as the holy scriptures say, the beginnings of a hardened heart. Everyone among us has heard a thousand times, “Tell me why you are doing this!” or “Consider the outcome!” or else “Think about your actions!” And yet, if only one of these thoughts were properly understood and always borne in mind, everyone would be immediately changed, becoming infallible, wise and happy. When fully appreciated, such thoughts have more power than all the paradoxes of the Stoics’ wise man.
 
@@ -387,7 +397,7 @@ Philosopher: Well, in judicial matters, the only requirement for inflicting puni
 
 Theologian: You have convinced me that not the least shadow of an excuse is left for sinners. They have nothing to find fault with, but they still have reason to be indignant. Or rather, they have cause to complain, but nothing to complain about, like a dog angered by a stone, or an inept gambler at his bad luck, or a desperate man against himself. These seem like good models of the [anger](/concepts/anger) of the damned against the universal harmony, the nature of things, the eternal ideas which brought about this particular chain of events. It is truly a stupid anger, like one who makes an adding mistake and who discovers upon checking his work that it doesn’t agree, and then flies into a rage against arithmetic and not against himself, regretting that three times three actually equals nine instead of ten. But the universal harmony arises from such fundamental, unchangeable ideas like three and nine. Thus, such people have an anger with no object, suffering from which they cannot escape, and a complaint that they can neither get rid of nor make acceptable to themselves. Truly, these are enormous additions to the raging wretchedness with which damnation is mainly seasoned.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,assi/moral_foundation,positions/optimism,positions/demonstrative_theism,positions/compatibilism,concepts/theodicy,concepts/best_of_all_possible_worlds,concepts/justice,concepts/freedom,concepts/evil_privation,forms/dialogue,schools/continental_rationalism"></span>
 
 Philosopher: Excellent! Their [suffering](/concepts/suffering) has no escape, which is, if one may express it so, perversely almost pleasing to them, although they cannot make their complaints acceptable to themselves. This was the conclusion with which I wanted to convince you. However, I add that no one is ever actually damned from all [eternity](/positions/eternity); rather they are always damnable; they are always able to be freed, but they never desire it. Therefore, since their own conscience protested in their sins, they are contradictory if they fault with the nature of things.
 
@@ -435,7 +445,7 @@ Theologian: But it’s impossible not to be disappointed, when something is deni
 
 Philosopher: Predilections of the mind are similar to urges of the body. But there are two types of urges: those which overcome all resistance and those which can be opposed by other drives. If you want to go from east to west, but also wants just as badly to go from west to east, then you will simply stand still. The first desire is not eliminated, but is neutralized by the opposing second drive. Thus, he whose desire has been frustrated cannot help feeling upset for a moment, but if he is satisfied with the overall direction of the world, he won’t persevere in his suffering. For he will recognize that everything is for the best, not only overall but also for him specifically; so everything turns to good for those who love God. Likewise one can assume that everyone hates God who are not pleased with His governing of the world, to whom it seems that God could’ve improved things, including those who argue for [atheism](/positions/atheism) from the disorder of the things. Thus, it seems that even atheists hate God; for whatever they may say or believe, if they are upset by the present state of things, they hate God by that very fact, even if they don’t call what they hate “God”.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,assi/moral_foundation,positions/optimism,positions/demonstrative_theism,positions/compatibilism,concepts/theodicy,concepts/best_of_all_possible_worlds,concepts/justice,concepts/freedom,concepts/evil_privation,forms/dialogue,schools/continental_rationalism"></span>
 
 Theologian: If this is our philosophy, then it is not lawful to work to improve things.
 
@@ -501,7 +511,7 @@ Hermit: I’ve written it down, and now I will go, or rather I will fly...
 
 Beelzebub: You think you got wings or something?
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,assi/moral_foundation,positions/optimism,positions/demonstrative_theism,positions/compatibilism,concepts/theodicy,concepts/best_of_all_possible_worlds,concepts/justice,concepts/freedom,concepts/evil_privation,forms/dialogue,schools/continental_rationalism"></span>
 
 Hermit: My mood makes me swift. Here are the words of the entreaty.
 
@@ -559,7 +569,7 @@ Philosopher: This question seems difficult, but that’s more because of the war
 
 Theologian: You are saying astounding things, which I believe none of of our scholars would even dream of, but which seems undeniable and taken straight from everyday life. Men do exactly as you say when they are trying to distinguish identical objects. But what can we conclude about souls from this discussion?
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,assi/moral_foundation,positions/optimism,positions/demonstrative_theism,positions/compatibilism,concepts/theodicy,concepts/best_of_all_possible_worlds,concepts/justice,concepts/freedom,concepts/evil_privation,forms/dialogue,schools/continental_rationalism"></span>
 
 Philosopher: We can conclude that souls, or as I like to call them, minds, are distinguished initially only by time and position, like our hypothetical eggs. If this is conceded, the whole problem disappears. For to ask why this soul and no other was dropped into these circumstances, into this time and place (which determines that soul’s life and death, including its salvation and damnation) is to ask why this soul is this soul. For if all souls are initially identical, then it makes no difference to substitute one soul for another. That soul is equivalent to this soul. If a farmer’s son is indignant that he was not born the King’s son, then he is indignant in vain. For even if their souls had been switched before birth, everything would’ve turned out exactly the same: the farmer’s son would still envy the king’s son! This is what I reply to those who are indignant that God didn’t immediately replace Adam and Eve with better people after they fell, so that their [original sin](/positions/original_sin) wouldn’t taint all their children. I admonish them, “If God had eliminated that sin, a completely different chain of events would have followed. There would have been completely different people, circumstances and marriages, and thus a completely different human race. So we would not even exist if that sin were removed.” Therefore, they have no reason to become indignant over Adam and Eve’s sin, and even less over God’s [toleration](/positions/toleration) of sin, since this is what brought about their existence in the first place. You see how people vex themselves with pointless questions. It’s like some half-blood nobleman becoming angry that his father married a peasant girl, without stopping to consider that had his father married another, he would not have been born, but some other person. Of course people get upset over things even more stupid than this.
 

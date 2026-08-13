@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A psychological analysis of the distinction between willing and desiring: to will is to will the reality of something and hence its means, whereas desire implies awareness that what is desired is impossible — a distinction absent in the child. Desire is a failed volition yet a useful internal function regulating the will; Ortega suspects the Spanish race is poorer in desires than in wealth, and cites Renan on the Bedouin who has few needs.
+
+## Connections
+
+**Concetti:** [[concepts/will|volontà]], [[concepts/passion|passione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

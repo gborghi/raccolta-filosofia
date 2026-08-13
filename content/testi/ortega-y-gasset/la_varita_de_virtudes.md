@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On the "childish landscape": the objects that vitally exist for a child are not the real ones but the desirable ones, while the adult gravitates toward the real and the old man toward the past. The passage from childhood to maturity is not a disillusionment but a change of vital regime; reason and fantasy are the soul's two antagonistic reactions to every fact.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

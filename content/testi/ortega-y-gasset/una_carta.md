@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Open letter to the editor of El Sol against Dato's Royal order forcing a higher price on the paper: state intrusion into the press and hence into intellectual freedom. It cites the chapter 'The annihilation of the best' from Otto Seeck and diagnoses in 'official Spain' — the solidarity of the inept — the ressentiment of the failure.
+
+## Connections
+
+**Concetti:** [[concepts/freedom|libertà]], [[concepts/ressentiment|risentimento]]  
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

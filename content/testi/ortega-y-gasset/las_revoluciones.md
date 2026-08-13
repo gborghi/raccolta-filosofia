@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A speech against simplistic judgements on revolutions: people file the political criminal among crimes of passion and grant him the same indulgence. Ortega declares himself a pacific man — peace and culture are equivalent, homines ex natura hostes and only culture makes them friends — but the city of peace must be built by seeking out the restless and discontented, not the compliant.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/revolution|rivoluzione]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -126,7 +134,7 @@ Lo sono, signori, ma lo sono nel loro senso: le morti, gli incendi sono sempre c
 
 Per questo è moralmente obbligatorio evitare i fatti rivoluzionari, da un lato, dall'altro giustificare il loro senso. Tale è, a mio modo di vedere, la missione storica del radicalismo democratico, del [Socialismo](/schools/historical_materialism_school): le rivoluzioni si evitano soltanto organizzando partiti rivoluzionari. Il dilemma è di ferro: che si preferisce, la rivoluzione o la minaccia della rivoluzione? Ebbene: ogni potere costituito che non si sente minacciato equivale alla sicurezza di una rivoluzione.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/state_and_individual,positions/revolution,forms/lecture"></span>
 
 Ved por qué ha sido, en mi opinión, lo más grave de todo el fracaso de la huelga general. Púsose aquel día de manifiesto que el pueblo no está organizado, que el pueblo carece de ideales políticos, que el pueblo es sólo una pasión, ayer en Madrid de miedo, en Barcelona de venganza. ¿Quién sabe si mañana ocurrirá lo contrario? ¿Quién puede garantizar los cambios de lo que es sólo pasión?
 

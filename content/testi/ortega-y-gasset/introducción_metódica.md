@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An introduction to a series of pages on Renan, prompted by his 'Nouveaux Cahiers de jeunesse'. Ortega declares he prefers ideas to men and proposes measuring genius not by an author's subjectivity but by the solidity of the work: only the discovery of an objective truth counts as originality.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +114,7 @@ Che faremo frattanto del soggettivo, dell'io, di questo cagnolino mistico, tanto
 
 In realtà, ha anche i suoi diritti, sebbene transitori e non molto precisi. L'umanità è il cammino che porta verso Dio, o ciò che è lo stesso, verso l'assoluta oggettività in cui nulla c'è di segreto, ma tutto palese, tutto cosa. In Spagna sogliono dire, quando qualcosa è molto buona: questa è una gran cosa. Forse nel detto volgare va inclusa una profonda sospizione teologica, secondo la quale la Gran Cosa per eccellenza sarebbe Dio. Ma l'assoluta oggettività significa una meta infinitamente remota, alla quale possiamo soltanto avvicinarci, senza mai toccarla.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 La humanidad, línea inmensa entre el orangután y Dios, avanza sin titubear, con ruta estricta; sobre su mole enorme no tienen la casualidad ni el error influjo perceptible. Sus grandes movimientos son como gestos de la divinidad. Mas el individuo oscila y se pierde, tropieza y se cansa, adelanta y torna lo andado. Las normas, absolutamente ciertas, que rigen el éxodo humano son demasiado sutiles y precisas para que no se le escapen de la atención; lo más frecuente es que no las divisemos nunca; cuando más, las columbramos en dos o tres ocasiones culminantes de nuestra vida. Por mucho que queramos seguir los consejos que nos dan las cosas, nuestro yo no se satisface, y tenemos que buscar para él otro método de orientación en la perenne marcha. Y como para él no existe el mundo de lo objetivo, como sólo entiende el idioma subjetivo, tenemos que formarnos un mundo provisional de los sujetos, mundo movible, menos exacto, pero que opera fortísimamente sobre el ánimo trashumante del individuo.
 

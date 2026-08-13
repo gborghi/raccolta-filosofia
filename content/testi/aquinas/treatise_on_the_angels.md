@@ -12,8 +12,16 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > Treatise on angels as wholly incorporeal intellectual substances lacking matter: each angel is therefore its own species, and their knowledge comes through infused rather than sense-abstracted species. It also treats their relation to place and local movement.
+
+## Connections
+
+**Concetti:** [[concepts/individuation|individuazione]], [[concepts/act_potency|atto e potenza]], [[concepts/substance|sostanza]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -48,7 +56,7 @@ Concerning their substance absolutely considered, there are five points of inqui
 (4) Analizziamo le differenze tra di loro.  
 (5) Esaminiamo la loro immortalità o incorruttibilità.
 
-<span class="atom-split" data-atom="002" data-title="Whether an angel is altogether incorporeal?" data-chapter="Whether an angel is altogether incorporeal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Whether an angel is altogether incorporeal?" data-chapter="Whether an angel is altogether incorporeal?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an angel is not entirely incorporeal. For what is incorporeal
 only as regards ourselves, and not in relation to God, is not absolutely incorporeal. But Damascene
@@ -116,7 +124,7 @@ Risposta all’Obiezione 2: Il concetto di movimento viene inteso nel senso in c
 
 Risposta all’Obiezione 3: Essere delimitati da confini locali è caratteristico esclusivamente dei corpi; invece, essere delimitati da confini essenziali appartiene a tutte le creature, sia corporee che spirituali. Pertanto Ambrogio afferma (De Spiritu Sancto I, 7) che “sebbene alcune cose non siano contenute in uno spazio fisico, sono comunque delimitate dalla loro stessa essenza”.
 
-<span class="atom-split" data-atom="003" data-title="Whether an angel is composed of matter and form?" data-chapter="Whether an angel is composed of matter and form?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether an angel is composed of matter and form?" data-chapter="Whether an angel is composed of matter and form?" data-kind="atom" data-srclang="en" data-tags="positions/hylomorphism,concepts/actus_purus,concepts/substance,figures/aristotle"></span>
 
 Objection 1: It would seem that an angel is composed of matter and form. For everything which
 is contained under any genus is composed of the genus, and of the difference which added to the
@@ -237,7 +245,7 @@ Risposta all’Obiezione 3: Sebbene in un angelo non esista alcuna composizione 
 
 Risposta all’Obiezione 4: Ogni creatura è semplicemente finita, poiché la sua esistenza non è assolutamente autonoma, ma è limitata a una determinata natura a cui appartiene. Tuttavia, non vi è nulla che impedisca di considerare una creatura come relativamente infinita. Le creature materiali sono infinite in termini di materia, ma finite nella loro forma, che è delimitata dalla materia stessa che le costituisce. Al contrario, le sostanze create immateriali sono finite nel loro essere; tuttavia, sono infinite nel senso che le loro forme non dipendono da alcuna altra realtà materiale. Ad esempio, si potrebbe dire che la bianchezza, in quanto entità separata e indipendente, è infinita nella sua natura essenziale, poiché non è legata a nessun soggetto concreto; ma il suo “essere” è finito, poiché è determinato da una specifica natura materiale. Da ciò deriva l’affermazione contenuta nel testo De Causis (proposizione 16): “L’intelligenza è finita ‘dall’alto’, poiché riceve il proprio essere da una fonte superiore; è invece ‘infinita ‘dal basso’, poiché non dipende da alcuna materia concreta”.
 
-<span class="atom-split" data-atom="004" data-title="Whether the angels exist in any great number?" data-chapter="Whether the angels exist in any great number?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether the angels exist in any great number?" data-chapter="Whether the angels exist in any great number?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels are not in great numbers. For number is a species
 of quantity, and follows the division of a continuous body. But this cannot be in the angels, since
@@ -337,7 +345,7 @@ Risposta all’Obiezione 3: Questo è l’argomento di Aristotele (Metafisica XI
 
 Risposta all’Obiezione 4: Questo argomento deriva dall’opinione di coloro che ritengono che la materia sia la causa della distinzione tra le cose; ma ciò è stato confutato in precedenza (Q[47], A[1]). Pertanto, la moltiplicazione degli angeli non deve essere intesa in termini di materia o di corpi fisici, bensì in relazione alla saggezza divina che ha disposto le varie gerarchie delle sostanze immateriali.
 
-<span class="atom-split" data-atom="005" data-title="Whether the angels differ in species?" data-chapter="Whether the angels differ in species?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether the angels differ in species?" data-chapter="Whether the angels differ in species?" data-kind="atom" data-srclang="en" data-tags="positions/hylomorphism,concepts/individuation,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels do not differ in species. For since the "difference"
 is nobler than the 'genus,' all things which agree in what is noblest in them, agree likewise in their
@@ -418,7 +426,7 @@ Risposta all’Obiezione 3: Il bene della specie prevale sul bene dell’individ
 
 Risposta all’Obiezione 4: La moltiplicazione numerica, poiché può essere svolta all’infinito, non è intenzionata dall’agente, ma soltanto la moltiplicazione specifica, come già detto in precedenza (Q[47], A[3]). Pertanto, la perfezione della natura angelica richiede la moltiplicazione delle specie, ma non quella degli individui all’interno di una stessa specie.
 
-<span class="atom-split" data-atom="006" data-title="Whether the angels are incorruptible?" data-chapter="Whether the angels are incorruptible?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether the angels are incorruptible?" data-chapter="Whether the angels are incorruptible?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels are not incorruptible; for Damascene, speaking of
 the angel, says (De Fide Orth. ii, 3) that he is "an intellectual substance, partaking of immortality
@@ -491,7 +499,7 @@ Risposta all’Obiezione 2: Con l’espressione “dèi”, Platone intende i co
 
 Risposta all’Obiezione 3: Come osservato in precedenza (Q[44], A[1]), esiste un tipo di cosa necessaria che ha una causa alla sua stessa necessità. Pertanto, non è contraddittorio per una entità necessaria o incorruttibile dipendere dall’esistenza di un’altra entità come causa della propria esistenza. Quindi, quando si afferma che tutte le cose, anche gli angeli, cadrebbero nel nulla se non fossero conservate da Dio, ciò non significa affatto che negli angeli esista qualche principio di corruzione; piuttosto, significa che la loro natura dipende da Dio come causa della propria esistenza. Infatti, si dice che una cosa sia corruttibile non soltanto perché Dio può ridurla all’inesistenza ritirando il proprio atto di conservazione, ma anche perché essa possiede in sé stesso qualche principio di corruzione, o qualche contraddizione interna, o almeno la [potenzialità](/concepts/act_potency) della materia stessa.
 
-<span class="atom-split" data-atom="007" data-title="OF THE ANGELS IN COMPARISON WITH BODIES (THREE ARTICLES)" data-chapter="OF THE ANGELS IN COMPARISON WITH BODIES (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="OF THE ANGELS IN COMPARISON WITH BODIES (THREE ARTICLES)" data-chapter="OF THE ANGELS IN COMPARISON WITH BODIES (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 We next inquire about the angels in comparison with corporeal things; and in the first place
 about their comparison with bodies; secondly, of the angels in comparison with corporeal places;
@@ -508,7 +516,7 @@ Esaminiamo ora gli angeli in relazione alle cose corporee; innanzitutto, il loro
 (2) Assumono forse dei corpi?  
 (3) Svolgono funzioni vitali nei corpi che assumono?
 
-<span class="atom-split" data-atom="008" data-title="Whether the angels have bodies naturally united to them?" data-chapter="Whether the angels have bodies naturally united to them?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether the angels have bodies naturally united to them?" data-chapter="Whether the angels have bodies naturally united to them?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that angels have bodies naturally united to them. For Origen says
 (Peri Archon i): "It is God's attribute alone---that is, it belongs to the Father, the Son, and the Holy
@@ -585,7 +593,7 @@ Risposta all’Obiezione 2: Gregorio definisce l’angelo un animale razionale i
 
 Risposta all’Obiezione 3: Dare la vita in modo efficace è, in parole semplici, una perfezione; pertanto appartiene a Dio, come si dice nel 1 Re 2:6: “Il Signore uccide e dà la vita”. Ma dare la vita in modo formale appartiene a una sostanza che fa parte di una determinata natura e che non possiede in sé tutta la natura specifica della specie. Pertanto, una sostanza intellettuale che non è unita a un corpo è più perfetta di quella che è unita a un corpo.
 
-<span class="atom-split" data-atom="009" data-title="Whether angels assume bodies?" data-chapter="Whether angels assume bodies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether angels assume bodies?" data-chapter="Whether angels assume bodies?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that angels do not assume bodies. For there is nothing superfluous
 in the work of an angel, as there is nothing of the kind in the work of nature. But it would be
@@ -654,7 +662,7 @@ Risposta all’Obiezione 2: Il corpo assunto dall’angelo non è unito ad esso 
 
 Risposta all’Obiezione 3: Sebbene l’aria, nella sua forma rarefatta, non abbia né forma né colore, quando viene condensata può assumere sia una forma che un colore, come si osserva nelle nuvole. Allo stesso modo, gli angeli assumono corpi formati dall’aria, condensandola con il potere divino nella misura necessaria per creare tali corpi.
 
-<span class="atom-split" data-atom="010" data-title="Whether the angels exercise functions of life in the bodies assumed?" data-chapter="Whether the angels exercise functions of life in the bodies assumed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the angels exercise functions of life in the bodies assumed?" data-chapter="Whether the angels exercise functions of life in the bodies assumed?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels exercise functions of life in assumed bodies. For
 pretence is unbecoming in angels of truth. But it would be pretence if the body assumed by them,
@@ -788,7 +796,7 @@ Risposta all’Obiezione 5: In senso proprio, non si può dire che gli angeli ma
 
 Risposta all’Obiezione 6: Come afferma Agostino nel De Civitate Dei XV, “Molte persone sostengono di aver avuto questa esperienza, o di averne sentito parlare da coloro che l’hanno vissuta, secondo cui i Satiri e i Fauni, che la gente comune chiama incubi, si sono spesso presentati davanti alle donne cercando di stabilire con loro rapporti intimi. Pertanto è assurdo negarlo. Tuttavia, gli angeli sacri di Dio non avrebbero potuto comportarsi in questo modo prima del diluvio. Perciò i ‘figli di Dio’ vanno intesi come i figli di Set, che erano persone buone; mentre le ‘figlie degli uomini’, secondo la Scrittura, si riferiscono a coloro che discendevano dalla stirpe di Caino. Non sorprende quindi che da loro possano nascere giganti; infatti non tutti erano giganti, anche se ne esistevano molti prima del diluvio e pochi dopo”. Tuttavia, se talvolta nascono individui dal frutto dei demoni, ciò avviene non dal seme di tali demoni né dai loro corpi temporanei, ma dal seme umano utilizzato a tale scopo; come quando un demone assume prima l’aspetto di una donna e poi quello di un uomo. Proprio come i demoni utilizzano il seme di altre cose per realizzare i propri intenti generativi, come afferma Agostino nel De Trinitate III, il bambino nato non è quindi figlio di un demone, ma di un uomo.
 
-<span class="atom-split" data-atom="011" data-title="OF THE ANGELS IN RELATION TO PLACE (THREE ARTICLES)" data-chapter="OF THE ANGELS IN RELATION TO PLACE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="OF THE ANGELS IN RELATION TO PLACE (THREE ARTICLES)" data-chapter="OF THE ANGELS IN RELATION TO PLACE (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 We now inquire into the place of the angels. Touching this there are three subjects of inquiry:
 (1) Is the angel in a place?
@@ -802,7 +810,7 @@ Ora indaghiamo sul luogo in cui si trovano gli angeli. A questo proposito, ci so
 (2) È possibile che siano contemporaneamente in più luoghi?
 (3) È possibile che più angeli si trovino nello stesso luogo?
 
-<span class="atom-split" data-atom="012" data-title="Whether an angel is in a place?" data-chapter="Whether an angel is in a place?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether an angel is in a place?" data-chapter="Whether an angel is in a place?" data-kind="atom" data-srclang="en" data-tags="concepts/substance,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an angel is not in a place. For Boethius says (De Hebdom.):
 "The common opinion of the learned is that things incorporeal are not in a place." And again,
@@ -848,7 +856,7 @@ Al contrario, si legge nel Rito della Compieta del Breviario Domenicano: “Che 
 
 Rispondo che è degno di un angelo trovarsi in un luogo; tuttavia si dice che un angelo e un corpo si trovino in un luogo in significati del tutto diversi. Si dice che un corpo si trovi in un luogo nel senso che occupa tale spazio grazie alla quantità dimensionale; ma negli angeli non esiste una tale quantità, poiché la loro è di natura virtuale. Pertanto, si dice che un angelo si trovi in un luogo corporeo quando il suo potere angelico viene applicato in qualche modo a quel luogo. Di conseguenza, non c’è bisogno di affermare che un angelo possa essere considerato “commensurabile” con un luogo o che occupi uno spazio continuo; poiché queste caratteristiche appartengono esclusivamente ai corpi materiali dotati di quantità dimensionali. Allo stesso modo, non è necessario ritenere che un angelo sia “contenuto” da un luogo, poiché una sostanza incorporea contiene virtualmente ciò con cui entra in contatto, ma non viene essa stessa contenuta da tale cosa: l’anima, ad esempio, si trova nel corpo come entità che lo “contiene”, e non come entità contenuta da esso. Allo stesso modo, si dice che un angelo si trovi in un luogo corporeo, ma non nel senso di essere contenuto da esso, bensì nel senso di “contenerlo” in qualche modo. E con ciò abbiamo risposto a tutte le obiezioni sollevate.
 
-<span class="atom-split" data-atom="013" data-title="Whether an angel can be in several places at once?" data-chapter="Whether an angel can be in several places at once?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether an angel can be in several places at once?" data-chapter="Whether an angel can be in several places at once?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an angel can be in several places at once. For an angel is not
 less endowed with power than the soul. But the soul is in several places at once, for it is entirely
@@ -909,7 +917,7 @@ Al contrario, Damasceno afferma (De Fide Orthodossa ii) che “mentre gli angeli
 
 Rispondo che il potere e la natura di un angelo sono finiti, mentre il potere e l’essenza divina, che è la causa universale di tutte le cose, sono infiniti: pertanto Dio, con il suo potere, tocca tutte le cose ed è presente non solo in alcuni luoghi, ma ovunque. Poiché il potere dell’angelo è finito, esso non si estende a tutte le cose, ma soltanto a una cosa determinata; infatti, ciò che viene paragonato a un certo potere deve essere considerato come una cosa specifica. Poiché tutto l’esistente viene considerato come una singola entità rispetto al potere universale di Dio, allo stesso modo anche una singola entità particolare può essere considerata come tale rispetto al potere angelico. Pertanto, poiché un angelo si trova in un luogo grazie all’applicazione del suo potere su quel luogo, ne consegue che non sia ovunque né in più luoghi, ma soltanto in uno solo. Tuttavia, alcuni sono stati ingannati in questo ambito: coloro che non riuscivano ad andare oltre i limiti della loro immaginazione ritenevano che l’indivisibilità dell’angelo fosse simile a quella di un punto, e quindi pensavano che un angelo potesse trovarsi soltanto in un luogo che fosse un punto. Ma erano chiaramente in errore, poiché un punto è qualcosa di indivisibile, ma ha comunque una posizione spaziale; mentre l’angelo è indivisibile e al di là della categoria della quantità e della posizione spaziale. Pertanto non esiste alcuna ragione per considerare che un angelo si trovi in un luogo specifico: qualsiasi luogo, sia esso divisibile o indivisibile, grande o piccolo, è sufficiente; l’angelo, infatti, applica il proprio potere su corpi di dimensioni diverse a seconda della propria volontà. L’intero corpo su cui viene applicato il suo potere rappresenta, per lui, un unico luogo. Inoltre, anche se un angelo muove i cieli, non è necessario che sia ovunque: innanzitutto, perché il suo potere si applica soltanto a ciò che viene mosso da lui; in secondo luogo, poiché i filosofi non ritengono che una singola sostanza possa muovere immediatamente tutte le sfere celesti. Quindi non è necessario che l’angelo sia ovunque. È evidente, dunque, che il concetto di “trovarsi in un luogo” ha significati diversi per un corpo, per un angelo e per Dio: un corpo si trova in un luogo in modo circoscritto, poiché viene misurato da quel luogo; un angelo, invece, non è lì in modo circoscritto, poiché non viene misurato dal luogo, ma vi è in modo definitivo, nel senso che non può trovarsi in altri luoghi; Dio, infine, non è lì né in modo circoscritto né in modo definitivo, poiché è ovunque. Da tutto ciò possiamo facilmente rispondere alle obiezioni: poiché l’intero oggetto su cui si applica immediatamente il potere angelico viene considerato come un unico luogo, anche se esso è continuo.
 
-<span class="atom-split" data-atom="014" data-title="Whether several angels can be at the same time in the same place?" data-chapter="Whether several angels can be at the same time in the same place?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether several angels can be at the same time in the same place?" data-chapter="Whether several angels can be at the same time in the same place?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that several angels can be at the same time in the same place. For
 several bodies cannot be at the same time in the same place, because they fill the place. But the
@@ -949,7 +957,7 @@ Reply to Objection 3: Not even a demon and a soul are compared to a body accordi
 same relation of causality; since the soul is its form, while the demon is not. Hence the inference
 does not follow.
 
-<span class="atom-split" data-atom="015" data-title="OF THE LOCAL MOVEMENT OF THE ANGELS (THREE ARTICLES)" data-chapter="OF THE LOCAL MOVEMENT OF THE ANGELS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="OF THE LOCAL MOVEMENT OF THE ANGELS (THREE ARTICLES)" data-chapter="OF THE LOCAL MOVEMENT OF THE ANGELS (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/time_and_death,concepts/time,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider the local movement of the angels; under which heading there are three
 points of inquiry:
@@ -964,7 +972,7 @@ Dobbiamo ora considerare il movimento locale degli angeli; sotto questa voce vi 
 (2) Se, passando da un luogo all’altro, attraversi lo spazio interposto.  
 (3) Se il movimento dell’angelo avvenga nel tempo o sia istantaneo.
 
-<span class="atom-split" data-atom="016" data-title="Whether an angel can be moved locally?" data-chapter="Whether an angel can be moved locally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether an angel can be moved locally?" data-chapter="Whether an angel can be moved locally?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,schools/scholasticism"></span>
 
 Objection 1: It seems that an angel cannot be moved locally. For, as the Philosopher proves
 (Phys. vi, text 32,86) "nothing which is devoid of parts is moved"; because, while it is in the term
@@ -1057,7 +1065,7 @@ Risposta all’Obiezione 2: Il movimento di ciò che si trova in [potenzialità]
 
 Risposta all’Obiezione 3: Il movimento di ciò che è in potenzialità rappresenta un atto di qualcosa di imperfetto; invece, il movimento di ciò che è già in atto non deriva da una necessità propria, ma da quella di un altro. In questo modo, a causa della nostra necessità, l’angelo viene mosso, secondo quanto si legge in Ebrea 1:14: “Sono tutti spiriti ministeriali, inviati a servire coloro che ricevono l’eredità della salvezza”.
 
-<span class="atom-split" data-atom="017" data-title="Whether an angel passes through intermediate space?" data-chapter="Whether an angel passes through intermediate space?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether an angel passes through intermediate space?" data-chapter="Whether an angel passes through intermediate space?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an angel does not pass through intermediate space. For
 everything that passes through a middle space first travels along a place of its own dimensions,
@@ -1156,7 +1164,7 @@ Risposta all’Obiezione 2: Mentre un angelo viene mosso in modo locale, la sua 
 
 Risposta all’Obiezione 3: Nel movimento continuo, il cambiamento effettivo non è una parte del movimento stesso, ma la sua conseguenza; pertanto il movimento deve precedere il cambiamento. Di conseguenza, tale movimento avviene attraverso lo “spazio intermedio”. Tuttavia, nel movimento discontinuo, il cambiamento costituisce effettivamente una parte del movimento stesso, proprio come un’unità fa parte di un numero; pertanto la successione dei vari punti spaziali, anche senza l’esistenza dello “spazio intermedio”, costituisce già tale tipo di movimento.
 
-<span class="atom-split" data-atom="018" data-title="Whether the movement of an angel is instantaneous?" data-chapter="Whether the movement of an angel is instantaneous?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether the movement of an angel is instantaneous?" data-chapter="Whether the movement of an angel is instantaneous?" data-kind="atom" data-srclang="en" data-tags="concepts/time,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an angel's movement is instantaneous. For the greater the
 power of the mover, and the less the moved resist the mover, the more rapid is the movement. But
@@ -1259,7 +1267,7 @@ Risposta all’Obiezione 2: “Illuminazione” è un termine che indica un movi
 
 Risposta all’Obiezione 3: Questa obiezione si basa sull’idea di tempo continuo. Tuttavia, lo stesso lasso di tempo necessario per il movimento di un angelo può essere considerato discontinuo. Pertanto, un angelo può trovarsi in un luogo in un istante e in un altro luogo nel momento successivo, senza che intervenga alcun periodo di tempo intermedio. Se il tempo impiegato dal movimento dell’angelo fosse continuo, egli attraverserebbe infinite posizioni nello spazio durante tutto il lasso di tempo precedente all’ultimo “adesso”; come già dimostrato (A[2]). In realtà, però, un angelo è in parte in una determinata posizione e in parte in un’altra; non perché la sua essenza sia suddivisibile in parti, ma perché le sue facoltà vengono applicate a una parte della prima posizione e a una parte della seconda, come già accennato sopra (A[2]).
 
-<span class="atom-split" data-atom="019" data-title="OF THE KNOWLEDGE OF THE ANGELS (FIVE ARTICLES)" data-chapter="OF THE KNOWLEDGE OF THE ANGELS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="OF THE KNOWLEDGE OF THE ANGELS (FIVE ARTICLES)" data-chapter="OF THE KNOWLEDGE OF THE ANGELS (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 After considering what belongs to the angel's substance, we now proceed to his knowledge.
 This investigation will be fourfold. In the first place inquiry must be made into his power of
@@ -1281,7 +1289,7 @@ Dopo aver esaminato ciò che appartiene alla sostanza stessa dell’angelo, pass
 (4) Negli angeli esiste un’intelligenza attiva e una passiva?  
 (5) Esistono in loro altre facoltà di conoscenza, oltre all’intelligenza stessa?
 
-<span class="atom-split" data-atom="020" data-title="Whether an angel's act of understanding is his substance?" data-chapter="Whether an angel's act of understanding is his substance?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether an angel's act of understanding is his substance?" data-chapter="Whether an angel's act of understanding is his substance?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/actus_purus,concepts/substance,figures/aristotle,figures/augustine"></span>
 
 Objection 1: It would seem that the angel's act of understanding is his substance. For the angel
 is both higher and simpler than the active intellect of a soul. But the substance of the active intellect
@@ -1337,7 +1345,7 @@ of expression; for it really follows the union of the object with the agent. For
 is brought about by the union of the object understood with the one who understands it, as an effect
 which differs from both.
 
-<span class="atom-split" data-atom="021" data-title="Whether in the angel to understand is to exist?" data-chapter="Whether in the angel to understand is to exist?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether in the angel to understand is to exist?" data-chapter="Whether in the angel to understand is to exist?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in the angel to understand is to exist. For in living things to
 live is to be, as the Philosopher says (De [Anima](/concepts/soul) ii, text. 37). But to "understand is in a sense to
@@ -1394,7 +1402,7 @@ Risposta all’Obiezione 1: La vita viene talvolta intesa come l’esistenza del
 
 Risposta all’Obiezione 2: L’essenza di un angelo è la ragione dell’esistenza stessa di quell’angelo, ma non la ragione del suo intero atto di comprensione, poiché non può comprendere tutto attraverso la propria essenza. Pertanto, nella sua natura specifica di essenza angelica, essa viene considerata in relazione all’esistenza dell’angelo stesso; mentre il suo atto di comprensione viene visto come contenuto nell’idea di un oggetto più universale, ovvero la verità e l’essere. È evidente quindi che, sebbene la forma sia la stessa, essa non costituisce il principio né dell’esistenza né della comprensione secondo quella stessa formalità. Per questo motivo, non si può concludere che, nell’angelo, “essere” equivalga a “comprendere”.
 
-<span class="atom-split" data-atom="022" data-title="Whether an angel's power of intelligence is his essence?" data-chapter="Whether an angel's power of intelligence is his essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether an angel's power of intelligence is his essence?" data-chapter="Whether an angel's power of intelligence is his essence?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/essentia_existentia,concepts/actus_purus,concepts/individuation"></span>
 
 Objection 1: It would seem that in an angel the power or faculty of understanding is not different
 from his essence. For, "mind" and "intellect" express the power of understanding. But in many
@@ -1456,7 +1464,7 @@ Risposta all’Obiezione 2: Una forma semplice che sia [atto puro](/concepts/act
 
 Risposta all’Obiezione 3: Il potere della materia è una potenzialità riguardo all’essere sostanziale stesso, mentre il potere di azione riguarda l’essere accidentale. Pertanto, non esiste alcuna analogia tra i due.
 
-<span class="atom-split" data-atom="023" data-title="Whether there is an active and a passive intellect in an angel?" data-chapter="Whether there is an active and a passive intellect in an angel?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether there is an active and a passive intellect in an angel?" data-chapter="Whether there is an active and a passive intellect in an angel?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is both an active and a passive intellect in an angel. The
 Philosopher says (De [Anima](/concepts/soul) iii, text. 17) that, "in the soul, just as in every nature, there is something
@@ -1518,7 +1526,7 @@ Risposta all’Obiezione 1: Come indicano chiaramente le stesse parole, il Filos
 
 Risposta all’Obiezione 2: La funzione dell’intelletto attivo è quella di illuminare, non un altro intelletto, bensì le cose che sono intelligibili in potenza, nel senso che l’intelletto attivo, attraverso l’astrazione, le rende effettivamente intelligibili. L’intelletto passivo, invece, è caratterizzato dal fatto di essere in potenza riguardo alle cose che naturalmente possono essere conosciute, e talvolta di comprenderle effettivamente. Pertanto, il fatto che un angelo illumini un altro non rientra nella natura stessa dell’intelletto attivo; allo stesso modo, non rientra nella funzione dell’intelletto passivo il fatto che un angelo venga illuminato riguardo a misteri soprannaturali di cui talvolta è in potenza. Tuttavia, se qualcuno desidera chiamare queste realtà con i nomi di “intelletto attivo” e “intelletto passivo”, allora sta parlando in modo equivoco; e non sono certo i nomi ciò di cui abbiamo bisogno quando discutiamo di queste questioni.
 
-<span class="atom-split" data-atom="024" data-title="Whether there is only intellectual knowledge in the angels?" data-chapter="Whether there is only intellectual knowledge in the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether there is only intellectual knowledge in the angels?" data-chapter="Whether there is only intellectual knowledge in the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the knowledge of the angels is not exclusively intellectual.
 For [Augustine](/figures/augustine) says (De Civ. Dei viii) that in the angels there is "life which understands and feels."
@@ -1563,7 +1571,7 @@ attributed to demons, since they have a false practical estimate of what is the 
 deception in us comes properly from the phantasy, whereby we sometimes hold fast to images of
 things as to the things themselves, as is manifest in sleepers and lunatics.
 
-<span class="atom-split" data-atom="025" data-title="OF THE MEDIUM OF THE ANGELIC KNOWLEDGE (THREE ARTICLES)" data-chapter="OF THE MEDIUM OF THE ANGELIC KNOWLEDGE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="OF THE MEDIUM OF THE ANGELIC KNOWLEDGE (THREE ARTICLES)" data-chapter="OF THE MEDIUM OF THE ANGELIC KNOWLEDGE (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Next in order, the question arises as to the medium of the angelic knowledge. Under this heading
 there are three points of inquiry:
@@ -1578,7 +1586,7 @@ In seguito, sorge la domanda riguardo al mezzo attraverso il quale gli angeli ac
 (2) Se attraverso categorie di conoscenza, si tratta di categorie innate a loro, oppure di quelle acquisite attraverso l’esperienza delle cose?  
 (3) Gli angeli più elevati possiedono categorie di conoscenza più universali rispetto agli angeli inferiori?
 
-<span class="atom-split" data-atom="026" data-title="Whether the angels know all things by their substance?" data-chapter="Whether the angels know all things by their substance?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether the angels know all things by their substance?" data-chapter="Whether the angels know all things by their substance?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels know all things by their substance. For Dionysius
 says (Div. Nom. vii) that "the angels, according to the proper nature of a mind, know the things
@@ -1654,7 +1662,7 @@ Risposta all’Obiezione 2: Poiché il senso in atto è ciò che è sensibile in
 
 Risposta all’Obiezione 3: Le cose che si trovano al di sotto dell’angelo, e quelle che si trovano al di sopra di lui, sono in qualche misura contenute nella sua essenza; tuttavia non perfettamente, né secondo la loro propria forma specifica – poiché l’essenza dell’angelo, essendo finita, è distinta dalle altre cose dalla propria forma specifica – ma secondo una forma comune. Tuttavia, tutte le cose sono perfettamente contenute nella sostanza di Dio, nel suo potere operativo primo e universale, da cui derivano tutto ciò che è proprio o comune a qualsiasi cosa. Pertanto, Dio possiede una conoscenza perfetta di tutte le cose attraverso la propria essenza; l’angelo, invece, ne ha solo una conoscenza comune.
 
-<span class="atom-split" data-atom="027" data-title="Whether the angels understand by species drawn from things?" data-chapter="Whether the angels understand by species drawn from things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether the angels understand by species drawn from things?" data-chapter="Whether the angels understand by species drawn from things?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels understand by species drawn from things. For
 everything understood is apprehended by some likeness within him who understands it. But the
@@ -1739,7 +1747,7 @@ Risposta all’Obiezione 2: Per passare da un estremo all’altro è necessario 
 
 Risposta all’Obiezione 3: La conoscenza dell’angelo è del tutto indifferente rispetto al fatto che ciò che conosce sia vicino o lontano. Tuttavia, il suo movimento spaziale non è privo di scopo; infatti, non viene spinto in un luogo allo scopo di acquisire conoscenza, ma per compiere azioni concrete.
 
-<span class="atom-split" data-atom="028" data-title="Whether the higher angels understand by more universal species than the lower angels?" data-chapter="Whether the higher angels understand by more universal species than the lower angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether the higher angels understand by more universal species than the lower angels?" data-chapter="Whether the higher angels understand by more universal species than the lower angels?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the higher angels do not understand by more universal species
 than the lower angels. For the universal, seemingly, is what is abstracted from particulars. But
@@ -1816,7 +1824,7 @@ Risposta all’Obiezione 2: Conoscere qualcosa in modo universale può essere in
 
 Risposta all’Obiezione 3: Lo stesso non può essere il tipo proprio e adeguato di molteplici cose. Tuttavia, se esso è eminente, allora può essere considerato il tipo proprio e l’immagine di molte altre cose. Proprio come nell’uomo esiste una prudenza universale che riguarda tutti gli atti delle virtù; questa prudenza può essere considerata il tipo proprio e l’immagine di quella prudenza che, nel leone, conduce ad atti di magnanimità, e nella volpe ad atti di cautela; e così via per le altre cose. L’essenza divina, a causa della sua eminenza, è in modo analogo considerata il tipo proprio di ogni cosa che vi è contenuta; pertanto, ciascuna cosa viene paragonata ad essa secondo il proprio tipo specifico. Lo stesso vale per la forma universale che si trova nella mente dell’angelo: grazie alla sua eccellenza, molte cose possono essere conosciute attraverso di essa in modo appropriato e completo.
 
-<span class="atom-split" data-atom="029" data-title="OF THE ANGEL'S KNOWLEDGE OF IMMATERIAL THINGS (THREE ARTICLES)" data-chapter="OF THE ANGEL'S KNOWLEDGE OF IMMATERIAL THINGS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="OF THE ANGEL'S KNOWLEDGE OF IMMATERIAL THINGS (THREE ARTICLES)" data-chapter="OF THE ANGEL'S KNOWLEDGE OF IMMATERIAL THINGS (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 We now inquire into the knowledge of the angels with regard to the objects known by them.
 We shall treat of their knowledge, first, of immaterial things, secondly of things material. Under
@@ -1832,7 +1840,7 @@ Ora esaminiamo la conoscenza degli angeli riguardo agli oggetti che sono loro no
 (2) Un angelo conosce un altro angelo?  
 (3) L’angelo conosce Dio attraverso i propri principi naturali?
 
-<span class="atom-split" data-atom="030" data-title="Whether an angel knows himself?" data-chapter="Whether an angel knows himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether an angel knows himself?" data-chapter="Whether an angel knows himself?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an angel does not know himself. For Dionysius says that "the
 angels do not know their own powers" (Coel. Hier. vi). But, when the substance is known, the
@@ -1888,7 +1896,7 @@ and to be passive. Hence this does not happen in the angelic intellect, especial
 that he understands himself. Besides the action of the intellect is not of the same nature as the action
 found in corporeal things, which passes into some other matter.
 
-<span class="atom-split" data-atom="031" data-title="Whether one angel knows another?" data-chapter="Whether one angel knows another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether one angel knows another?" data-chapter="Whether one angel knows another?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one angel does not know another. For the Philosopher says
 (De [Anima](/concepts/soul) iii, text. 4), that if the human intellect were to have in itself any one of the sensible
@@ -1980,7 +1988,7 @@ Risposta all’Obiezione 3: Un angelo conosce un altro angelo in base alla speci
 
 Risposta all’Obiezione 4: Dio ha creato ogni essere in modo che fosse proporzionato all’universo che aveva deciso di creare. Pertanto, se Dio avesse voluto creare più angeli o altre forme di esseri, avrebbe impresso nella loro mente specie più comprensibili; proprio come un costruttore che, se avesse voluto edificare una casa più grande, avrebbe preparato fondamenta più solide. Quindi, per Dio aggiungere un nuovo essere all’universo significherebbe aggiungere una nuova specie intelligibile agli angeli.
 
-<span class="atom-split" data-atom="032" data-title="Whether an angle knows God by his own natural principles?" data-chapter="Whether an angle knows God by his own natural principles?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether an angle knows God by his own natural principles?" data-chapter="Whether an angle knows God by his own natural principles?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels cannot know God by their natural principles. For
 Dionysius says (Div. Nom. i) that God "by His incomprehensible might is placed above all heavenly
@@ -2052,7 +2060,7 @@ Risposta all’Obiezione 2: Poiché l’intelligenza e l’essenza di un angelo 
 
 Risposta all’Obiezione 3: La conoscenza che un angelo ha di Dio si trova a metà strada tra questi due tipi di conoscenza; tuttavia, come detto in precedenza, si avvicina di più a uno di essi.
 
-<span class="atom-split" data-atom="033" data-title="OF THE ANGEL'S KNOWLEDGE OF MATERIAL THINGS (FIVE ARTICLES)" data-chapter="OF THE ANGEL'S KNOWLEDGE OF MATERIAL THINGS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="OF THE ANGEL'S KNOWLEDGE OF MATERIAL THINGS (FIVE ARTICLES)" data-chapter="OF THE ANGEL'S KNOWLEDGE OF MATERIAL THINGS (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 We next investigate the material objects which are known by the angels. Under this heading
 there are five points of inquiry:
@@ -2071,7 +2079,7 @@ Esaminiamo ora gli oggetti materiali conosciuti dagli angeli. In questa categori
 (4) Conoscono i pensieri segreti delle persone?  
 (5) Conoscono tutti i misteri della grazia divina?
 
-<span class="atom-split" data-atom="034" data-title="Whether the angels know material things?" data-chapter="Whether the angels know material things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether the angels know material things?" data-chapter="Whether the angels know material things?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels do not know material things. For the object
 understood is the perfection of him who understands it. But material things cannot be the perfections
@@ -2125,7 +2133,7 @@ abstraction. But he does not derive his knowledge of them from the material thin
 has knowledge of material things by actually intelligible species of things, which species are
 connatural to him; just as our intellect has, by species which it makes intelligible by abstraction.
 
-<span class="atom-split" data-atom="035" data-title="Whether an angel knows singulars?" data-chapter="Whether an angel knows singulars?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether an angel knows singulars?" data-chapter="Whether an angel knows singulars?" data-kind="atom" data-srclang="en" data-tags="assi/universals,concepts/individuation,figures/aristotle"></span>
 
 Objection 1: It would seem that angels do not know singulars. For the Philosopher says (Poster.
 i, text. 22): "The sense has for its object singulars, but the intellect, [universals](/axes/universals)." Now, in the angels
@@ -2223,7 +2231,7 @@ Risposta all’Obiezione 2: Non è secondo la loro natura che gli angeli vengano
 
 Risposta all’Obiezione 3: Gli angeli conoscono i singoli enti attraverso forme universali, le quali tuttavia rappresentano tali enti sia sotto il profilo delle loro proprietà universali che di quelle che li rendono individuali. Quante cose possano essere conosciute attraverso la stessa specie è già stato detto in precedenza (Q[55], A[3], ad 3).
 
-<span class="atom-split" data-atom="036" data-title="Whether angels know the future?" data-chapter="Whether angels know the future?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Whether angels know the future?" data-chapter="Whether angels know the future?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels know future events. For angels are mightier in
 knowledge than men. But some men know many future events. Therefore much more do the angels.
@@ -2306,7 +2314,7 @@ Risposta all’Obiezione 3: Sebbene le specie nell’intelletto di un angelo, in
 
 Risposta all’Obiezione 4: Le cose lontane per posizione esistono già nella natura e appartengono a determinate categorie, le cui immagini si trovano negli angeli; ciò non vale invece per le cose future, come è stato detto in precedenza. Pertanto, non vi è alcuna analogia tra i due casi.
 
-<span class="atom-split" data-atom="037" data-title="Whether angels know secret thoughts?" data-chapter="Whether angels know secret thoughts?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether angels know secret thoughts?" data-chapter="Whether angels know secret thoughts?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels know secret thoughts. For Gregory (Moral. xviii),
 explaining Job 28:17: "Gold or crystal cannot equal it," says that "then," namely in the bliss of
@@ -2392,7 +2400,7 @@ Risposta all’Obiezione 2: Anche se un angelo percepisce le specie intellegibil
 
 Risposta all’Obiezione 3: L’appetito delle bestie non controlla i loro atti, ma segue l’impressione causata da qualche altra causa corporea o spirituale. Poiché gli angeli conoscono le cose corporee e le loro proprietà, possono quindi comprendere ciò che avviene nell’appetito o nella capacità di immaginazione delle bestie, e persino dell’uomo, nella misura in cui l’appetito sensibile, a volte, influisce sul comportamento umano seguendo determinate impressioni corporee, come accade sempre nelle bestie. Tuttavia, gli angeli non conoscono necessariamente i movimenti dell’appetito sensibile e della capacità di immaginazione umana quando questi sono guidati dalla volontà e dalla ragione; poiché anche la parte inferiore dell’anima possiede una certa dose di ragione, essendo sottomessa al suo dominatore, come si afferma nell’Etica, III, 12. Ma ciò non significa che, se un angelo conosce ciò che avviene nell’appetito sensibile o nell’immaginazione umana, ne conosca necessariamente i pensieri o la volontà: poiché l’intelletto e la volontà non sono soggetti all’appetito sensibile o all’immaginazione, ma possono utilizzarli in modi diversi.
 
-<span class="atom-split" data-atom="038" data-title="Whether the angels know the mysteries of grace?" data-chapter="Whether the angels know the mysteries of grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether the angels know the mysteries of grace?" data-chapter="Whether the angels know the mysteries of grace?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels know mysteries of grace. For, the mystery of the
 Incarnation is the most excellent of all mysteries. But the angels knew of it from the beginning; for
@@ -2477,7 +2485,7 @@ Risposta all’Obiezione 2: Anche se gli angeli nella beatitudine contemplano la
 
 Risposta all’Obiezione 3: Quello che i profeti conoscevano attraverso la rivelazione dei misteri della grazia, fu rivelato in modo ancora più eccellente agli angeli. E sebbene Dio abbia rivelato in generale ai profeti ciò che avrebbe fatto un giorno per la salvezza dell’umanità, gli apostoli conoscevano alcune particolari di queste cose che i profeti non conoscevano. Così leggiamo (Efesini 3:4-5): “Così che voi possiate comprendere la conoscenza che ho riguardo al mistero di Cristo, conoscenza che in altre generazioni non fu nota agli uomini, ma che ora è rivelata ai suoi santi apostoli”. Anche tra i profeti, quelli successivi conoscevano ciò che quelli precedenti ignoravano; come dice il Salmo 118:100: “Ho ricevuto una conoscenza superiore a quella degli antichi”, e Gregorio d’Origo afferma: “La conoscenza delle cose divine aumentò con il passare del tempo” (Omelia xvi su Ezechiele).
 
-<span class="atom-split" data-atom="039" data-title="OF THE MODE OF ANGELIC KNOWLEDGE (SEVEN ARTICLES)" data-chapter="OF THE MODE OF ANGELIC KNOWLEDGE (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="OF THE MODE OF ANGELIC KNOWLEDGE (SEVEN ARTICLES)" data-chapter="OF THE MODE OF ANGELIC KNOWLEDGE (SEVEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,forms/quaestio,schools/scholasticism"></span>
 
 After the foregoing we have now to treat of the mode of the angelic knowledge, concerning
 which there are seven points of inquiry:
@@ -2500,7 +2508,7 @@ Dopo quanto preceduto, dobbiamo ora trattare del modo di conoscenza angelica, su
 (6) Se si possa definire la conoscenza angelica “matutina” o “serale”;  
 (7) Se queste due forme di conoscenza siano identiche o differiscano tra loro.
 
-<span class="atom-split" data-atom="040" data-title="Whether the angel's intellect is sometimes in potentiality, sometimes in act?" data-chapter="Whether the angel's intellect is sometimes in potentiality, sometimes in act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Whether the angel's intellect is sometimes in potentiality, sometimes in act?" data-chapter="Whether the angel's intellect is sometimes in potentiality, sometimes in act?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,positions/eternity,positions/beatitude,figures/augustine"></span>
 
 Objection 1: It would seem that the angel's intellect is sometimes in [potentiality](/concepts/act_potency) and sometimes
 in act. For movement is the act of what is in potentiality, as stated in Phys. iii, 6. But the angels'
@@ -2548,7 +2556,7 @@ which they receive from God to fit them for the tasks which they have to perform
 Reply to Objection 3: In the angel's substance there is no potentiality divested of act. In the
 same way, the angel's intellect is never so in potentiality as to be without act.
 
-<span class="atom-split" data-atom="041" data-title="Whether an angel can understand many things at the same time?" data-chapter="Whether an angel can understand many things at the same time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether an angel can understand many things at the same time?" data-chapter="Whether an angel can understand many things at the same time?" data-kind="atom" data-srclang="en" data-tags="figures/augustine,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an angel cannot understand many things at the same time. For
 the Philosopher says (Topic. ii, 4) that "it may happen that we know many things, but understand
@@ -2594,7 +2602,7 @@ it. So it can behold at the same time many intelligible objects under one specie
 by one shape be likened to many bodies.
 To the third objection the answer is the same as the first.
 
-<span class="atom-split" data-atom="042" data-title="Whether an angel's knowledge is discursive?" data-chapter="Whether an angel's knowledge is discursive?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether an angel's knowledge is discursive?" data-chapter="Whether an angel's knowledge is discursive?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the knowledge of an angel is discursive. For the discursive
 movement of the mind comes from one thing being known through another. But the angels know
@@ -2665,7 +2673,7 @@ Risposta all’Obiezione 2: Gli angeli sono in grado di formulare sillogismi, ne
 
 Risposta all’Obiezione 3: L’esistenza degli angeli e dei demoni viene affermata semplicemente attraverso il concetto di somiglianza, poiché anch’essi conoscono cose sensibili che sono presenti nel loro ambiente, senza però alcun processo di riflessione o ragionamento.
 
-<span class="atom-split" data-atom="043" data-title="Whether the angels understand by composing and dividing?" data-chapter="Whether the angels understand by composing and dividing?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the angels understand by composing and dividing?" data-chapter="Whether the angels understand by composing and dividing?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels understand by composing and dividing. For, where
 there is multiplicity of things understood, there is composition of the same, as is said in De [Anima](/concepts/soul)
@@ -2737,7 +2745,7 @@ Risposta all’Obiezione 2: Le diverse nature delle cose differiscono meno per q
 
 Risposta all’Obiezione 3: Il fatto che gli angeli utilizzino forme di espressione affermative e negative dimostra che conoscono sia la composizione che la divisione; tuttavia, ciò non significa che comprendano tali concetti attraverso l’operazione di composizione e divisione, ma semplicemente grazie alla conoscenza della natura stessa delle cose.
 
-<span class="atom-split" data-atom="044" data-title="Whether there can be falsehood in the intellect of an angel?" data-chapter="Whether there can be falsehood in the intellect of an angel?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="Whether there can be falsehood in the intellect of an angel?" data-chapter="Whether there can be falsehood in the intellect of an angel?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there can be falsehood in the angel's intellect. For perversity
 appertains to falsehood. But, as Dionysius says (Div. Nom. iv), there is "a perverted fancy" in the
@@ -2798,7 +2806,7 @@ Al contrario, il Filosofo afferma (De [Anima](/concepts/soul) iii, testo 41) che
 
 Rispondo che la verità di questa questione dipende in parte da ciò che è accaduto prima. Infatti, si è detto che un angelo comprende non attraverso processi di composizione e divisione, ma comprendendo direttamente cos’è una cosa. L’intelletto, infatti, è sempre vero riguardo a ciò che è una cosa, proprio come i sensi lo sono riguardo ai loro oggetti specifici, come si afferma nel De Anima III, testo 26. Tuttavia, talvolta possono insinuarsi inganni e falsità quando comprendiamo l’essenza di una cosa attraverso processi di composizione; ciò accade sia quando confondiamo la definizione di un’entità con quella di un’altra, sia quando le parti che compongono tale definizione non sono logicamente collegate tra loro. Ad esempio, considerare “una bestia alata a quattro zampe” come definizione di una creatura reale sarebbe errato, poiché tale animale non esiste. Questo tipo di errore può verificarsi anche nelle cose composite, le cui definizioni sono basate su elementi diversi tra loro. Tuttavia, non vi è alcuna possibilità di errore nella comprensione delle entità semplici, come si afferma nel Metafisica IX, testo 22: o queste entità non vengono affatto comprese, e quindi non ne conosciamo nulla; oppure vengono comprese esattamente così come sono. Pertanto, nell’intelletto di un angelo non può esistere alcuna falsità, errore o inganno in sé; tuttavia, tali errori possono verificarsi occasionalmente, ma in modo molto diverso rispetto a quanto accade per noi umani. Noi, infatti, a volte comprendiamo la natura di una cosa attraverso processi di composizione e divisione, come quando ricorriamo alla dimostrazione logica per scoprire la verità di una definizione. Questo non è il metodo degli angeli: essi conoscono direttamente l’essenza delle cose e, quindi, sanno tutto ciò che si può dire su di esse. È evidente che l’essenza di una cosa può costituire una fonte di conoscenza riguardo a tutto ciò che appartiene o è escluso da essa; tuttavia, non può fornire informazioni su ciò che dipende dall’ordine soprannaturale di Dio. Pertanto, grazie alla loro volontà retta e alla loro comprensione della natura di ogni creatura, gli angeli buoni non formulano giudizi errati riguardo alle qualità delle cose, se non in base all’ordine divino; quindi, in loro non può esistere alcun errore o falsità. Al contrario, poiché la mente dei demoni è completamente deviata dalla saggezza divina, essi a volte formano le proprie opinioni basandosi soltanto sulle condizioni naturali delle cose; non vengono mai ingannati riguardo alle proprietà naturali di qualcosa, ma possono essere traviati in merito a questioni soprannaturali. Ad esempio, vedendo un morto, potrebbero pensare che non risorgerà più; oppure, osservando Cristo, potrebbero ritenere che non sia Dio. Da tutto ciò derivano le risposte alle obiezioni di entrambe le parti in questa discussione: la perversità dei demoni deriva dal fatto che non sono soggetti alla saggezza divina; mentre gli angeli, riguardo a ciò che è conoscibile, ignorano talvolta la verità in modo naturale, ma solo per motivi soprannaturali. È inoltre evidente che la loro comprensione di ciò che è una cosa è sempre vera, tranne quando avviene accidentalmente, a causa di un uso improprio dei processi logici di composizione e divisione.
 
-<span class="atom-split" data-atom="045" data-title="Whether there is a \&quot;morning\&quot; and an \&quot;evening\&quot; knowledge in the angels?" data-chapter="Whether there is a \&quot;morning\&quot; and an \&quot;evening\&quot; knowledge in the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether there is a \&quot;morning\&quot; and an \&quot;evening\&quot; knowledge in the angels?" data-chapter="Whether there is a \&quot;morning\&quot; and an \&quot;evening\&quot; knowledge in the angels?" data-kind="atom" data-srclang="en" data-tags="figures/augustine,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 # Whether there is a "morning" and an "evening" knowledge in the angels?
 
@@ -2877,7 +2885,7 @@ Risposta all’Obiezione 2: La conoscenza del mattino e della sera appartiene al
 
 Risposta all’Obiezione 3: Anche gli angeli sono esseri creati. Pertanto, l’esistenza delle cose nella conoscenza degli angeli rientra nell’ambito della conoscenza umana, così come l’esistenza delle cose nella loro stessa natura.
 
-<span class="atom-split" data-atom="046" data-title="Whether the morning and evening knowledge are one?" data-chapter="Whether the morning and evening knowledge are one?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether the morning and evening knowledge are one?" data-chapter="Whether the morning and evening knowledge are one?" data-kind="atom" data-srclang="en" data-tags="assi/knowledge_origin,positions/innatism,figures/augustine"></span>
 
 Objection 1: It would seem that the morning and the evening knowledge are one. For it is said
 (Gn. 1:5): "There was evening and morning, one day." But by the expression "day" the knowledge
@@ -2936,7 +2944,7 @@ and the other less perfect; just as we can have a demonstrative and a probable m
 the same conclusion. In like manner a thing can be known by the angel through the uncreated Word,
 and through an innate idea.
 
-<span class="atom-split" data-atom="047" data-title="THE WILL OF THE ANGELS (FOUR ARTICLES)" data-chapter="THE WILL OF THE ANGELS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="THE WILL OF THE ANGELS (FOUR ARTICLES)" data-chapter="THE WILL OF THE ANGELS (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/will"></span>
 
 In the next place we must treat of things concerning the will of the angels. In the first place we
 shall treat of the will itself; secondly, of its movement, which is love. Under the first heading there
@@ -2954,7 +2962,7 @@ In seguito dobbiamo trattare di argomenti relativi alla volontà degli angeli. P
 (3) Gli angeli possiedono una libera volontà?  
 (4) Hanno in loro desideri irascibili e concupiscibili?
 
-<span class="atom-split" data-atom="048" data-title="Whether there is will in the angels?" data-chapter="Whether there is will in the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether there is will in the angels?" data-chapter="Whether there is will in the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/will,figures/augustine,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is no will in the angels. For as the Philosopher says (De
 [Anima](/concepts/soul) iii, text. 42), "The will is in the reason." But there is no reason in the angels, but something
@@ -3012,7 +3020,7 @@ understand are termed movements of a kind; and there is nothing to prevent movem
 from existing in the angels, since such movement is the act of a perfect agent, as stated in De Anima
 iii, text. 28.
 
-<span class="atom-split" data-atom="049" data-title="Whether in the angels the will differs from the intellect?" data-chapter="Whether in the angels the will differs from the intellect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Whether in the angels the will differs from the intellect?" data-chapter="Whether in the angels the will differs from the intellect?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in the angel the will does not differ from the intellect and from
 the nature. For an angel is more simple than a natural body. But a natural body is inclined through
@@ -3092,7 +3100,7 @@ Risposta all’Obiezione 2: Le facoltà non si differenziano per alcuna differen
 
 Risposta all’Obiezione 3: Poiché il bene e la verità sono effettivamente interconvertibili, ne consegue che il bene viene percepito dall’intelletto come qualcosa di vero; mentre la verità è desiderata dalla volontà come qualcosa di buono. Tuttavia, la diversità dei loro aspetti è sufficiente a diversificare le facoltà umane, come già detto in precedenza (ad 2).
 
-<span class="atom-split" data-atom="050" data-title="Whether there is free-will in the angels?" data-chapter="Whether there is free-will in the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Whether there is free-will in the angels?" data-chapter="Whether there is free-will in the angels?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/will,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is no free-will in the angels. For the act of free-will is to
 choose. But there can be no choice with the angels, because choice is "the desire of something after
@@ -3161,7 +3169,7 @@ Risposta all’Obiezione 2: Come già osservato (A[2]), la conoscenza si realizz
 
 Risposta all’Obiezione 3: La libertà volontaria esiste in modo più nobile negli angeli superiori rispetto a quelli inferiori, così come il giudizio dell’intelletto. Tuttavia è vero che, per quanto riguarda la rimozione della costrizione, la libertà non può essere considerata di gradi diversi; poiché le privazioni e le negazioni non diminuiscono né aumentano in sé stesse, ma soltanto a causa della loro origine o attraverso l’aggiunta di alcune condizioni particolari.
 
-<span class="atom-split" data-atom="051" data-title="Whether there is an irascible and a concupiscible appetite in the angels?" data-chapter="Whether there is an irascible and a concupiscible appetite in the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="Whether there is an irascible and a concupiscible appetite in the angels?" data-chapter="Whether there is an irascible and a concupiscible appetite in the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is an irascible and a concupiscible appetite in the angels.
 For Dionysius says (Div. Nom. iv) that in the demons there is "unreasonable fury and wild
@@ -3223,7 +3231,7 @@ of them according as in moderation they display their will in conformity with th
 Fortitude is likewise attributed to them, in so far as they firmly carry out the Divine will. All of
 this is done by their will, and not by the irascible or concupiscible appetite.
 
-<span class="atom-split" data-atom="052" data-title="OF THE LOVE OR DILECTION OF THE ANGELS (FIVE ARTICLES)" data-chapter="OF THE LOVE OR DILECTION OF THE ANGELS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="OF THE LOVE OR DILECTION OF THE ANGELS (FIVE ARTICLES)" data-chapter="OF THE LOVE OR DILECTION OF THE ANGELS (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 The next subject for our consideration is that act of the will which is love or dilection; because
 every act of the appetitive faculty comes of love.
@@ -3243,7 +3251,7 @@ L’argomento successivo da esaminare è quell’atto della volontà che è l’
 (4) Un angelo ama un altro con un amore naturale, proprio come ama se stesso?  
 (5) Gli angeli amano Dio più di sé stessi con un amore naturale?
 
-<span class="atom-split" data-atom="053" data-title="Whether there is natural love or dilection in an angel?" data-chapter="Whether there is natural love or dilection in an angel?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="Whether there is natural love or dilection in an angel?" data-chapter="Whether there is natural love or dilection in an angel?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is no natural love or dilection in the angels. For, natural
 love is contradistinguished from intellectual love, as stated by Dionysius (Div. Nom. iv). But an
@@ -3291,7 +3299,7 @@ rectitude of natural love is different from the rectitude of charity and virtue:
 perfects the other; even so the truth of natural knowledge is of one kind, and the truth of infused
 or acquired knowledge is of another.
 
-<span class="atom-split" data-atom="054" data-title="Whether there is love of choice in the angels?" data-chapter="Whether there is love of choice in the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="Whether there is love of choice in the angels?" data-chapter="Whether there is love of choice in the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is no love of choice in the angels. For love of choice
 appears to be rational love; since choice follows counsel, which lies in inquiry, as stated in Ethic.
@@ -3359,7 +3367,7 @@ Dicendo tutto ciò, tralasciamo tutto ciò che riguarda le realtà al di là del
 Risposta all’Obiezione 1: Non tutto l’amore che deriva da una scelta volontaria è amore razionale, poiché il concetto di amore razionale si distingue da quello di amore intellettuale. L’amore razionale, infatti, è quello che segue una conoscenza deduttiva; tuttavia, come già detto in precedenza (Q[59], A[3], ad 1) riguardo alla libertà volontaria, non ogni scelta umana deriva da un atto discorsivo della ragione. Pertanto, la conclusione proposta non è valida.  
 La risposta alla seconda obiezione deriva direttamente da quanto detto finora.
 
-<span class="atom-split" data-atom="055" data-title="Whether the angel loves himself with both natural love, and love of choice?" data-chapter="Whether the angel loves himself with both natural love, and love of choice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Whether the angel loves himself with both natural love, and love of choice?" data-chapter="Whether the angel loves himself with both natural love, and love of choice?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angel does not love himself both with natural love and a
 love of choice. For, as was said (A[2]), natural love regards the end itself; while love of choice
@@ -3421,7 +3429,7 @@ Risposta all’Obiezione 2: Poiché essere “uno” è meglio che essere “uni
 
 Risposta all’Obiezione 3: Poiché l’amore è un’azione che rimane nell’interno dell’agente, esso è anche un movimento che permane nell’animo di colui che ama, ma non necessariamente tende verso qualcos’altro; tuttavia, tale movimento può riflettersi su colui che ama, facendolo amare se stesso; proprio come la conoscenza si riflette sull’intelletto di chi conosce, permettendogli di conoscere se stesso.
 
-<span class="atom-split" data-atom="056" data-title="Whether an angel loves another with natural love as he loves himself?" data-chapter="Whether an angel loves another with natural love as he loves himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="Whether an angel loves another with natural love as he loves himself?" data-chapter="Whether an angel loves another with natural love as he loves himself?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an angel does not love another with natural love as he loves
 himself. For love follows knowledge. But an angel does not know another as he knows himself:
@@ -3498,7 +3506,7 @@ Risposta all’Obiezione 2: L’espressione “come” non indica uguaglianza, m
 
 Risposta all’Obiezione 3: Si dice che l’amore naturale sia orientato verso un fine specifico, non però verso quel fine al quale viene desiderata la bontà in sé, ma piuttosto verso quella bontà che si desidera per se stessi e, di conseguenza, anche per gli altri, nella misura in cui essa è considerata parte della propria natura. Inoltre, un tale amore naturale non può essere completamente strappato agli angeli malvagi; questi continueranno comunque a provare un affetto naturale verso gli angeli buoni, poiché condividono con loro la stessa natura. Tuttavia, li odiano, in quanto essi sono diversi da loro per quanto riguarda la rettitudine e l’ingiustizia.
 
-<span class="atom-split" data-atom="057" data-title="Whether an angel by natural love loves God more than he loves himself?" data-chapter="Whether an angel by natural love loves God more than he loves himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Whether an angel by natural love loves God more than he loves himself?" data-chapter="Whether an angel by natural love loves God more than he loves himself?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angel does not love God by natural love more than he loves
 himself. For, as was stated (A[4]), natural love rests upon natural union. Now the Divine nature is
@@ -3630,7 +3638,7 @@ All’interno del primo di questi aspetti vi sono quattro questioni principali d
 (3) Se sia stato creato prima delle creature corporee;  
 (4) Se gli angeli siano stati creati nell’empireo celeste.
 
-<span class="atom-split" data-atom="058" data-title="Whether the angels have a cause of their existence?" data-chapter="Whether the angels have a cause of their existence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="Whether the angels have a cause of their existence?" data-chapter="Whether the angels have a cause of their existence?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels have no cause of their existence. For the first chapter
 of Genesis treats of things created by God. But there is no mention of angels. Therefore the angels
@@ -3684,7 +3692,7 @@ Risposta all’Obiezione 1: [Agostino](/figures/augustine) afferma (De Civ. Dei 
 
 Risposta all’Obiezione 2: Le sostanze, essendo forme che esistono in sé stesse, non hanno alcuna “causa formale” della loro esistenza e unità, né una causa attiva che produca il loro effetto modificando la materia da uno stato di [potenzialità](/concepts/act_potency) a uno di attualità; esse possiedono invece una causa che genera interamente la loro sostanza. Da ciò deriva chiaramente la soluzione alla terza difficoltà.
 
-<span class="atom-split" data-atom="059" data-title="Whether the angel was produced by God from eternity?" data-chapter="Whether the angel was produced by God from eternity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="Whether the angel was produced by God from eternity?" data-chapter="Whether the angel was produced by God from eternity?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/eternity,concepts/time,concepts/will,figures/augustine"></span>
 
 Objection 1: It would seem that the angel was produced by God from [eternity](/positions/eternity). For God is the
 cause of the angel by His being: for He does not act through something besides His essence. But
@@ -3740,7 +3748,7 @@ Risposta all’Obiezione 2: Un angelo è al di sopra di quel tempo che rappresen
 
 Risposta all’Obiezione 3: Angeli e anime intelligenti sono incorruttibili proprio perché possiedono una natura che li rende capaci di conoscere la verità. Tuttavia, non possedevano questa natura fin dall’eternità; essa fu loro concessa quando Dio stesso lo volle. Pertanto, non ne consegue che gli angeli esistessero già dall’eternità.
 
-<span class="atom-split" data-atom="060" data-title="Whether the angels were created before the corporeal world?" data-chapter="Whether the angels were created before the corporeal world?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the angels were created before the corporeal world?" data-chapter="Whether the angels were created before the corporeal world?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels were created before the corporeal world. For Jerome
 says (In Ep. ad Tit. i, 2): "Six thousand years of our time have not yet elapsed; yet how shall we
@@ -3810,7 +3818,7 @@ Risposta all’Obiezione 2: Dio non è una parte dell’universo intero, ma ne �
 Risposta all’Obiezione 3: Tutte le creature corporee sono identiche per quanto riguarda la materia; gli angeli, invece, non condividono questa stessa natura materiale. Pertanto, la creazione della materia delle creature corporee implica, in qualche modo, la creazione di tutte le cose; mentre la creazione degli angeli non comporta necessariamente la creazione dell’universo stesso.  
 Se si adottasse un punto di vista opposto, allora nel testo del Genesi 1 (“All’inizio Dio creò il cielo e la terra”), le parole “All’inizio” dovrebbero essere interpretate come “Nel Figlio” o “All’inizio del tempo”; non certo come “All’inizio, prima di cui non esistesse nulla”, a meno che non si intenda dire “Prima di cui non esistesse nulla di natura corporea”.
 
-<span class="atom-split" data-atom="061" data-title="Whether the angels were created in the empyrean heaven?" data-chapter="Whether the angels were created in the empyrean heaven?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Whether the angels were created in the empyrean heaven?" data-chapter="Whether the angels were created in the empyrean heaven?" data-kind="atom" data-srclang="en" data-tags="figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels were not created in the empyrean heaven. For the
 angels are incorporeal substances. Now a substance which is incorporeal is not dependent upon a
@@ -3874,7 +3882,7 @@ Risposta all’Obiezione 2: Con l’espressione “atmosfera più alta”, Agost
 
 Risposta all’Obiezione 3: Isaia non parla in quel passaggio di alcun cielo corporeo, ma del cielo della Santissima Trinità; verso il quale l’angelo peccatore desiderava ascendere, quando cercò in qualche modo di essere uguale a Dio, come verrà chiarito in seguito (Q[63], A[3]).
 
-<span class="atom-split" data-atom="062" data-title="OF THE PERFECTION OF THE ANGELS IN THE ORDER OF GRACE AND OF GLORY (NINE ARTICLES)" data-chapter="OF THE PERFECTION OF THE ANGELS IN THE ORDER OF GRACE AND OF GLORY (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="OF THE PERFECTION OF THE ANGELS IN THE ORDER OF GRACE AND OF GLORY (NINE ARTICLES)" data-chapter="OF THE PERFECTION OF THE ANGELS IN THE ORDER OF GRACE AND OF GLORY (NINE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/grace"></span>
 
 In due sequence we have to inquire how the angels were made in the order of grace and of
 glory; under which heading there are nine points of inquiry:
@@ -3901,7 +3909,7 @@ In due fasi successive dobbiamo indagare su come gli angeli siano stati creati, 
 (8) Avrebbero potuto peccare in seguito?  
 (9) Dopo essere entrati nella gloria, avrebbero potuto progredire ulteriormente?
 
-<span class="atom-split" data-atom="063" data-title="Whether the angels were created in beatitude?" data-chapter="Whether the angels were created in beatitude?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether the angels were created in beatitude?" data-chapter="Whether the angels were created in beatitude?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,figures/aristotle,figures/augustine"></span>
 
 Objection 1: It would seem that the angels were created in [beatitude](/positions/beatitude). For it is stated (De Eccl.
 Dogm. xxix) that "the angels who continue in the beatitude wherein they were created, do not of
@@ -3980,7 +3988,7 @@ Risposta all’Obiezione 2: La creatura corporea, nel momento stesso della sua c
 
 Risposta all’Obiezione 3: L’angelo possiede due tipi di conoscenza del Verbo: una naturale e l’altra derivante dalla sua gloria. La conoscenza naturale gli permette di comprendere il Verbo attraverso le somiglianze che esso presenta nella sua stessa natura; la conoscenza derivante dalla gloria, invece, gli consente di comprenderlo attraverso la sua essenza stessa. Con entrambi questi tipi di conoscenza, l’angelo può comprendere le realtà contenute nel Verbo: in modo imperfetto attraverso la conoscenza naturale, e in modo perfetto attraverso quella derivante dalla gloria. Pertanto, la prima forma di conoscenza delle realtà nel Verbo era già presente nell’angelo fin dal momento della sua creazione; la seconda, invece, non esisteva fino a quando gli angeli non si rivolsero al bene e furono benedetti. Questa seconda forma di conoscenza viene propriamente definita “conoscenza mattutina”.
 
-<span class="atom-split" data-atom="064" data-title="Whether an angel needs grace in order to turn to God?" data-chapter="Whether an angel needs grace in order to turn to God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="Whether an angel needs grace in order to turn to God?" data-chapter="Whether an angel needs grace in order to turn to God?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angel had no need of grace in order to turn to God. For,
 we have no need of grace for what we can accomplish naturally. But the angel naturally turns to
@@ -4059,7 +4067,7 @@ Risposta all’Obiezione 2: Una cosa è “difficile” quando va al di là dell
 
 Risposta all’Obiezione 3: Ogni movimento della volontà verso Dio può essere definito una conversione a Dio. Esiste quindi una triplice forma di conversione a Dio: la prima si basa sull’amore perfetto per Dio; essa appartiene alla creatura che gode della presenza di Dio, e per tale conversione è necessaria la grazia perfetta. La seconda forma di conversione è quella che merita la beatitudine; per questa è richiesta la grazia abituale, che costituisce il principio del merito. La terza forma di conversione consiste nel predisporre se stessi in modo da ricevere la grazia; per questa non è necessaria alcuna grazia abituale, ma l’azione di Dio stesso, che attira l’anima verso di Sé, secondo quanto detto in Lam 5:21: “Riconduceteci a Te, o Signore, e ci convertiremo”. È quindi evidente che non vi è alcun bisogno di procedere all’infinito.
 
-<span class="atom-split" data-atom="065" data-title="Whether the angels were created in grace?" data-chapter="Whether the angels were created in grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Whether the angels were created in grace?" data-chapter="Whether the angels were created in grace?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/grace,concepts/nature,figures/augustine"></span>
 
 Objection 1: It would seem that the angels were not created in grace. For [Augustine](/figures/augustine) says (Gen.
 ad lit. ii, 8) that the angelic nature was first made without form, and was called "heaven": but
@@ -4124,7 +4132,7 @@ Risposta all’Obiezione 2: Ogni forma inclina il soggetto secondo il modo intri
 
 Risposta all’Obiezione 3: Sebbene, nell’ordine della natura, la grazia si trovi a metà strada tra la natura e la gloria, tuttavia, nell’ordine del tempo, nella natura creata, la gloria non è simultanea alla natura; poiché la gloria rappresenta la fine dell’operazione della natura assistita dalla grazia. Ma la grazia non agisce come fine di tale operazione, poiché non deriva dalle opere umane, bensì come principio di un corretto svolgimento delle stesse. Pertanto, era appropriato che la grazia venisse concessa fin dall’inizio, insieme alla natura stessa.
 
-<span class="atom-split" data-atom="066" data-title="Whether an angel merits his beatitude?" data-chapter="Whether an angel merits his beatitude?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Whether an angel merits his beatitude?" data-chapter="Whether an angel merits his beatitude?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,positions/free_will,concepts/grace"></span>
 
 Objection 1: It would seem that the angel did not merit his [beatitude](/positions/beatitude). For merit arises from the
 difficulty of the meritorious act. But the angel experienced no difficulty in acting rightly. Therefore
@@ -4197,7 +4205,7 @@ Risposta all’Obiezione 1: La difficoltà dell’angelo nel compiere opere gius
 
 Risposta all’Obiezione 2: Un angelo non merita la beatitudine attraverso un movimento naturale verso Dio, ma attraverso il movimento della carità, che deriva dalla grazia. La risposta all’Terza Obiezione è evidente da quanto abbiamo detto.
 
-<span class="atom-split" data-atom="067" data-title="Whether the angel obtained beatitude immediately after one act of merit?" data-chapter="Whether the angel obtained beatitude immediately after one act of merit?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="Whether the angel obtained beatitude immediately after one act of merit?" data-chapter="Whether the angel obtained beatitude immediately after one act of merit?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angel did not possess [beatitude](/positions/beatitude) instantly after one act of
 merit. For it is more difficult for a man to do well than for an angel. But man is not rewarded at
@@ -4263,7 +4271,7 @@ Risposta all’Obiezione 2: L’angelo si trova al di sopra del tempo delle cose
 
 Risposta all’Obiezione 3: È naturale per un angelo raggiungere immediatamente la perfezione a cui è destinato. Pertanto, è necessario soltanto un atto meritevole; tale atto può essere considerato un “intervallo” attraverso il quale l’angelo giunge alla beatitudine.
 
-<span class="atom-split" data-atom="068" data-title="Whether the angels receive grace and glory according to the degree of their natural gifts?" data-chapter="Whether the angels receive grace and glory according to the degree of their natural gifts?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="Whether the angels receive grace and glory according to the degree of their natural gifts?" data-chapter="Whether the angels receive grace and glory according to the degree of their natural gifts?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels did not receive grace and glory according to the
 degree of their natural gifts. For grace is bestowed of God's absolute will. Therefore the degree of
@@ -4330,7 +4338,7 @@ Risposta all’Obiezione 2: Gli atti della creatura razionale derivano dalla ste
 
 Risposta all’Obiezione 3: La diversità dei doni naturali esiste, da un lato, negli angeli, i quali sono essi stessi specificamente differenti tra loro; e, dall’altro lato, negli uomini, i quali differiscono soltanto in termini numerici. La differenza specifica deriva dal fine per cui tali doni sono dati; quella numerica, invece, dalla materia di cui sono fatti. Inoltre, nell’uomo esiste qualcosa che può ostacolare o impedire lo sviluppo della sua natura intellettiva; ciò non accade negli angeli. Pertanto, l’argomentazione non è la stessa per entrambi i casi.
 
-<span class="atom-split" data-atom="069" data-title="Whether natural knowledge and love remain in the beatified angels?" data-chapter="Whether natural knowledge and love remain in the beatified angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="Whether natural knowledge and love remain in the beatified angels?" data-chapter="Whether natural knowledge and love remain in the beatified angels?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that natural knowledge and love do not remain in the beatified
 angels. For it is said (1 Cor. 13:10): "When that which is perfect is come, then that which is in part
@@ -4393,7 +4401,7 @@ Risposta all’Obiezione 2: Tutti gli elementi che compongono la beatitudine son
 
 Risposta all’Obiezione 3: Non può esserci due operazioni della stessa facoltà nello stesso momento, se non quando una di queste è destinata ad accompagnare l’altra. Ma la conoscenza naturale e l’amore sono destinate alla conoscenza e all’amore della gloria. Pertanto, nulla impedisce che nella mente dell’angelo esistano contemporaneamente sia la conoscenza naturale che l’amore, così come quelli relativi alla gloria.
 
-<span class="atom-split" data-atom="070" data-title="Whether a beatified angel can sin?" data-chapter="Whether a beatified angel can sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="Whether a beatified angel can sin?" data-chapter="Whether a beatified angel can sin?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a beatified angel can sin. For, as was said above (A[7]),
 [beatitude](/positions/beatitude) does not do away with nature. But it is of the very notion of created nature, that it can
@@ -4439,7 +4447,7 @@ the end in view; but it comes of the defect of liberty for it to choose anything
 the order of the end; and this is to sin. Hence there is greater liberty of will in the angels, who cannot
 sin, than there is in ourselves, who can sin.
 
-<span class="atom-split" data-atom="071" data-title="Whether the beatified angels advance in beatitude?" data-chapter="Whether the beatified angels advance in beatitude?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Whether the beatified angels advance in beatitude?" data-chapter="Whether the beatified angels advance in beatitude?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the beatified angels can advance in [beatitude](/positions/beatitude). For charity is
 the principle of merit. But there is perfect charity in the angels. Therefore the beatified angels can
@@ -4528,7 +4536,7 @@ Risposta all’Obiezione 2: Una cosa può essere definita utile in due modi. In 
 
 Risposta all’Obiezione 3: Sebbene un angelo beato non si trovi assolutamente nel grado più alto di beatitudine, tuttavia, per quanto riguarda se stesso, è effettivamente nel grado più alto, secondo la predestinazione divina. Tuttavia, la gioia degli angeli può aumentare in relazione alla salvezza di coloro che vengono salvati grazie alle loro azioni di aiuto, come si legge in Luca 15:10: “Ci sarà grande gioia tra gli angeli di Dio quando un peccatore si pentirà”. Tale gioia appartiene alla loro ricompensa accidentale, la quale può aumentare fino al giorno del giudizio. Pertanto alcuni autori affermano che i beati possano meritarsi tale ricompensa; tuttavia è più corretto dire che i beati non possono in alcun modo meritarla, se non sono allo stesso tempo “viandanti nel cammino della perfezione” e “comprensori della verità”; proprio come Cristo, l’unico ad essere stato tale. Infatti, i beati ricevono questa gioia grazie alla virtù della loro beatitudine, piuttosto che meritarla con i propri sforzi.
 
-<span class="atom-split" data-atom="072" data-title="THE MALICE OF THE ANGELS WITH REGARD TO SIN (NINE ARTICLES)" data-chapter="THE MALICE OF THE ANGELS WITH REGARD TO SIN (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="THE MALICE OF THE ANGELS WITH REGARD TO SIN (NINE ARTICLES)" data-chapter="THE MALICE OF THE ANGELS WITH REGARD TO SIN (NINE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 In the next place we must consider how angels became evil: first of all with regard to the evil
 of fault; and secondly, as to the evil of punishment. Under the first heading there are nine points
@@ -4558,7 +4566,7 @@ In secondo luogo, dobbiamo considerare in che modo gli angeli divennero malvagi:
 (8) Il peccato dell’angelo che per primo cadde fu la causa del peccato degli altri?  
 (9) Tutti coloro che rimasero fedeli non commisero alcun peccato?
 
-<span class="atom-split" data-atom="073" data-title="Whether the evil of fault can be in the angels?" data-chapter="Whether the evil of fault can be in the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Whether the evil of fault can be in the angels?" data-chapter="Whether the evil of fault can be in the angels?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,positions/free_will,concepts/act_potency,concepts/grace,concepts/custom"></span>
 
 Objection 1: It would seem that there can be no evil of fault in the angels. For there can be no
 evil except in things which are in [potentiality](/concepts/act_potency), as is said by the Philosopher (Metaph. ix, text. 19),
@@ -4644,7 +4652,7 @@ Risposta all’Obiezione 3: È naturale che l’angelo si rivolga a Dio per movi
 
 Risposta all’Obiezione 4: Il peccato mortale si verifica in due modi nell’atto della libertà volontaria. Primo, quando viene scelto qualcosa di male; ad esempio, l’uomo pecca scegliendo l’adulterio, che è di per sé un atto malvagio. Un tale peccato deriva sempre dall’ignoranza o dall’errore; altrimenti ciò che è male non verrebbe mai scelto come bene. L’adultero commette un errore nel momento in cui sceglie, per inclinazione passionale o abitudine, di godere di un atto immorale considerandolo qualcosa di buono da compiere; anche se, in termini di giudizio generale, non sbaglia e mantiene un’opinione corretta su questo argomento. In questo modo, l’angelo non può peccare: poiché negli angeli non esistono passioni che possano vincolare la ragione o l’intelletto, come è stato chiarito in precedenza (Q[59], A[4]); inoltre, nessuna abitudine incline al peccato potrebbe precedere il loro primo atto peccaminoso. In un altro modo, il peccato deriva dalla libertà volontaria quando si sceglie qualcosa di buono in sé, ma non secondo misura o regola appropriata; in questo caso, l’errore risiede nella scelta stessa, che non segue criteri corretti, e non nell’oggetto scelto. Ad esempio, pregare senza rispettare l’ordine stabilito dalla Chiesa rappresenta un tale peccato. Un simile peccato non presuppone ignoranza, ma soltanto la mancanza di considerazione per ciò che dovrebbe essere tenuto in conto. In questo modo, anche l’angelo può peccare: quando cerca il proprio bene con la propria libertà volontaria, disobbedendo alle regole della volontà divina.
 
-<span class="atom-split" data-atom="074" data-title="Whether only the sin of pride and envy can exist in an angel?" data-chapter="Whether only the sin of pride and envy can exist in an angel?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="Whether only the sin of pride and envy can exist in an angel?" data-chapter="Whether only the sin of pride and envy can exist in an angel?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there can be other sins in the angels besides those of pride and
 envy. Because whosoever can delight in any kind of sin, can fall into the sin itself. But the demons
@@ -4717,7 +4725,7 @@ Risposta all’Obiezione 2: L’avarizia, considerata come un tipo particolare d
 
 Risposta all’Obiezione 3: L’invidia e l’orgoglio, come presenti nei demoni, comprendono tutti gli altri peccati che ne derivano.
 
-<span class="atom-split" data-atom="075" data-title="Whether the devil desired to be as God?" data-chapter="Whether the devil desired to be as God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Whether the devil desired to be as God?" data-chapter="Whether the devil desired to be as God?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the devil did not desire to be as God. For what does not fall
 under apprehension, does not fall under desire; because the good which is apprehended moves the
@@ -4790,7 +4798,7 @@ Rispondo che, senza dubbio, l’angelo peccò cercando di essere come Dio. Ma ci
 Desiderare di essere come Dio in termini di somiglianza può avvenire in due modi. In un modo, riguardo a quella somiglianza grazie alla quale tutto è fatto per assomigliare a Dio. E quindi, se qualcuno desidera in questo modo essere simile a Dio, non commette peccato; purché tale desiderio sia orientato nella giusta direzione, cioè affinché possa essere realizzato attraverso Dio stesso. Ma commetterebbe peccato se desiderasse essere simile a Dio anche nel modo corretto, cioè con le proprie forze e non con il potere di Dio. In un altro modo, si può desiderare di essere simili a Dio in qualche aspetto che non è naturale per noi; come se si desiderasse creare cielo e terra, cosa che appartiene esclusivamente a Dio; in questo caso vi sarebbe peccato. Fu in questo modo che il diavolo desiderò essere come Dio. Non perché volesse assomigliare a Dio senza sottoporsi ad alcuno altro; poiché ciò significherebbe desiderare la propria “non-esistenza”, poiché nessuna creatura può esistere se non in relazione a Dio. Ma desiderava assomigliare a Dio in questo aspetto: cercando, come fine ultimo della sua beatitudine, qualcosa che potesse ottenere con le forze della propria natura, allontanando così il proprio desiderio dalla beatitudine soprannaturale che può essere raggiunta solo per grazia divina. Oppure, se desiderava come fine ultimo quella somiglianza a Dio che viene conferita dalla grazia, cercava di ottenerla con le proprie forze e non con l’aiuto divino secondo il disegno di Dio stesso. Ciò è in accordo con l’opinione di Anselmo, il quale dice nel *De casu diaboli*, IV, che “il diavolo cercava ciò a cui avrebbe potuto aspirare”.
 “Come avrebbe potuto rimanere fermo nella sua decisione?” Questi due punti di vista, in un certo senso, coincidono: secondo entrambi, egli cercava di ottenere la beatitudine finale attraverso le proprie forze, mentre ciò è riservato esclusivamente a Dio. Poiché ciò che esiste per sé stesso è la causa di ciò che esiste grazie ad altro, ne consegue ulteriormente che egli cercava di dominare gli altri; in questo modo, desiderava anche in modo distorto essere simile a Dio. Da tutto ciò otteniamo la risposta a tutte le obiezioni.
 
-<span class="atom-split" data-atom="076" data-title="Whether any demons are naturally wicked?" data-chapter="Whether any demons are naturally wicked?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Whether any demons are naturally wicked?" data-chapter="Whether any demons are naturally wicked?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that some demons are naturally wicked. For Porphyry says, as
 quoted by [Augustine](/figures/augustine) (De Civ. Dei x, 11): "There is a class of demons of crafty nature, pretending
@@ -4855,7 +4863,7 @@ Risposta all’Obiezione 2: La malvagità di alcuni uomini può essere considera
 
 Risposta all’Obiezione 3: Le bestie selvatiche possiedono, nella loro natura sensibile, un’inclinazione naturale verso certi beni specifici, ai quali sono legati alcuni mali; pertanto, la volpe, nel cercare il proprio cibo, ha un’inclinazione naturale a farlo con determinata abilità e astuzia. Non è quindi male che una volpe sia astuta, poiché ciò è naturale per lei; allo stesso modo, non è male che un cane sia feroce, come osserva Dionigi nel “De Divinis Nominibus” IV.
 
-<span class="atom-split" data-atom="077" data-title="Whether the devil was wicked by the fault of his own will in the first instant of his creation?" data-chapter="Whether the devil was wicked by the fault of his own will in the first instant of his creation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="Whether the devil was wicked by the fault of his own will in the first instant of his creation?" data-chapter="Whether the devil was wicked by the fault of his own will in the first instant of his creation?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the devil was wicked by the fault of his own will in the first
 instant of his creation. For it is said of the devil (Jn. 8:44): "He was a murderer from the beginning."
@@ -4962,7 +4970,7 @@ Risposta all’Obiezione 3: Tutto ciò che merita lode proviene da Dio; pertanto
 
 Risposta all’Obiezione 4: Dio non fece distinzione tra gli angeli prima che alcuni di loro si allontanassero da Lui e altri si avvicinassero a Lui, come afferma Agostino (De Civitate Dei xi, 15). Pertanto, poiché tutti furono creati nella grazia, tutti meritavano la beatitudine fin dal loro primo istante di esistenza. Tuttavia, alcuni di loro posero immediatamente un ostacolo al proprio percorso verso la beatitudine, distruggendo così il merito che avevano acquisito; di conseguenza, furono privati della beatitudine che avevano meritato.
 
-<span class="atom-split" data-atom="078" data-title="Whether there was any interval between the creation and the fall of the angel?" data-chapter="Whether there was any interval between the creation and the fall of the angel?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="Whether there was any interval between the creation and the fall of the angel?" data-chapter="Whether there was any interval between the creation and the fall of the angel?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,positions/beatitude,concepts/time,concepts/grace,figures/augustine"></span>
 
 Objection 1: It would seem that there was some interval between the angel's creation and his
 fall. For, it is said (Ezech. 28:15): "Thou didst walk perfect [*Vulg.: 'Thou hast walked in the midst
@@ -5043,7 +5051,7 @@ Risposta all’Obiezione 3: Un angelo, una volta presa una decisione, possiede u
 
 Risposta all’Obiezione 4: È vero affermare che esista un periodo di tempo intermedio tra ogni due istanti, nella misura in cui il tempo sia continuo, come dimostrato nella Fisica VI, testo 2. Tuttavia negli angeli, che non sono soggetti al movimento celeste misurato dal tempo continuo, per “tempo” si intende la successione dei loro atti mentali o delle loro emozioni. Pertanto, il primo istante degli angeli corrisponde all’atto attraverso cui la loro mente si introspeziona grazie alla conoscenza acquisita nel corso della notte; infatti, il primo giorno viene menzionato nella parte serale e non in quella mattutina. Questo processo era comune a tutti gli angeli; tuttavia, a seconda del modo in cui lo utilizzavano, alcuni di loro si dedicarono alla lode della Parola grazie alla conoscenza mattutina, mentre altri, assorbiti in sé stessi, divennero simboli dell’oscurità e dell’orgoglio, come afferma Agostino (Genesi ad litteram IV, 24). Quindi, l’atto iniziale fu comune a tutti; ma nel corso del loro percorso spirituale, i buoni furono separati dai cattivi.
 
-<span class="atom-split" data-atom="079" data-title="Whether the highest angel among those who sinned was the highest of all?" data-chapter="Whether the highest angel among those who sinned was the highest of all?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="Whether the highest angel among those who sinned was the highest of all?" data-chapter="Whether the highest angel among those who sinned was the highest of all?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the highest among the angels who sinned was not the highest
 of all. For it is stated (Ezech. 28:14): "Thou wast a cherub stretched out, and protecting, and I set
@@ -5120,7 +5128,7 @@ Risposta all’Obiezione 2: L’intenzione divina non viene frustrata né in col
 
 Risposta all’Obiezione 3: Per quanto grande fosse la tendenza al bene nell’angelo più elevato, non esisteva alcuna necessità che lo costringesse ad agire secondo tale tendenza; pertanto gli era possibile non seguirla.
 
-<span class="atom-split" data-atom="080" data-title="Whether the sin of the highest angel was the cause of the others sinning?" data-chapter="Whether the sin of the highest angel was the cause of the others sinning?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="Whether the sin of the highest angel was the cause of the others sinning?" data-chapter="Whether the sin of the highest angel was the cause of the others sinning?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the sin of the highest angel was not the cause of the others
 sinning. For the cause precedes the effect. But, as Damascene observes (De Fide Orth. ii), they all
@@ -5194,7 +5202,7 @@ Risposta all’Obiezione 2: A parità di altre condizioni, il superbo preferireb
 
 Risposta all’Obiezione 3: Come è stato osservato sopra (Q[62], A[6]), un angelo non possiede nulla che possa ritardare la sua azione; con tutta la sua forza, viene spinto a compiere ciò che deve compiere, sia che si tratti di qualcosa di buono o di male. Pertanto, poiché l’angelo più alto possedeva un’energia naturale maggiore rispetto agli angeli inferiori, cadde nel peccato con una forza ancora maggiore e, di conseguenza, divenne il più malvagio tra tutti.
 
-<span class="atom-split" data-atom="081" data-title="Whether those who sinned were as many as those who remained firm?" data-chapter="Whether those who sinned were as many as those who remained firm?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether those who sinned were as many as those who remained firm?" data-chapter="Whether those who sinned were as many as those who remained firm?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that more angels sinned than stood firm. For, as the Philosopher
 says (Ethic. ii, 6): "Evil is in many, but good is in few."
@@ -5247,7 +5255,7 @@ Risposta all’Obiezione 1: Il filosofo parla degli uomini, per i quali il male 
 
 Risposta all’Obiezione 3: Secondo coloro che ritengono che il diavolo principale appartenesse al grado inferiore degli angeli, incaricati delle faccende terrene, è evidente che non tutti gli angeli di ogni ordine siano caduti, ma soltanto quelli del grado più basso. Secondo coloro che sostengono invece che il diavolo principale appartenesse al grado più alto, è probabile che alcuni angeli di ogni ordine siano caduti; proprio come gli esseri umani sono distribuiti in tutti i gradi angelici per compensare la loro rovina. Secondo questa visione, la libertà della volontà umana appare ancora più consolidata; essa, infatti, può essere utilizzata a fini malvagi in ogni livello di creatura. Tuttavia, nelle Sacre [Scritture](/concepts/revelation), i nomi di alcuni ordini angelici, come Serafimi e Troni, non vengono attribuiti ai demoni; poiché tali nomi derivano dall’ardore dell’amore e dalla presenza di Dio in loro, caratteristiche che non sono compatibili con il peccato mortale. Al contrario, i nomi di Cherubini, Poteri e Principati vengono attribuiti ai demoni; poiché questi nomi derivano dalla conoscenza e dal potere, qualità che possono essere possedute sia da esseri buoni che da esseri malvagi.
 
-<span class="atom-split" data-atom="082" data-title="THE PUNISHMENT OF THE DEMONS (FOUR ARTICLES)" data-chapter="THE PUNISHMENT OF THE DEMONS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="THE PUNISHMENT OF THE DEMONS (FOUR ARTICLES)" data-chapter="THE PUNISHMENT OF THE DEMONS (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 It now remains as a sequel to deal with the punishment of the demons; under which heading
 there are four points of inquiry:
@@ -5264,7 +5272,7 @@ Ora rimane da trattare, come sequela, la questione della punizione dei demoni; s
 (3) Il loro dolore;  
 (4) Il luogo della loro punizione.
 
-<span class="atom-split" data-atom="083" data-title="Whether the demons' intellect is darkened by privation of the knowledge of all truth?" data-chapter="Whether the demons' intellect is darkened by privation of the knowledge of all truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Whether the demons' intellect is darkened by privation of the knowledge of all truth?" data-chapter="Whether the demons' intellect is darkened by privation of the knowledge of all truth?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the demons' intellect is darkened by being deprived of the
 knowledge of all truth. For it they knew any truth at all, they would most of all know themselves;
@@ -5395,7 +5403,7 @@ Risposta all’Obiezione 4: Tutti gli angeli possedevano fin dall’inizio una c
 
 Risposta all’Obiezione 5: I demoni conoscono la verità in tre modi: innanzitutto grazie alla sottigliezza della loro natura; poiché, sebbene oscurati dalla privazione della luce della grazia, sono comunque illuminati dalla luce della loro natura intellettuale; in secondo luogo, attraverso rivelazioni provenienti dagli angeli sacri; poiché, sebbene non concordino con essi nel modo di agire, condividono tuttavia una somiglianza nella loro natura intellettuale, che permette loro di accettare ciò che viene rivelato dagli altri; in terzo luogo, attraverso una lunga esperienza; non derivando questa conoscenza dai sensi, ma quando la somiglianza della loro natura intelligibile innata si realizza nelle cose individuali, essi riescono a comprendere alcune verità come se fossero già presenti nel presente, anche se in precedenza non sapevano che tali eventi sarebbero avvenuti. Come abbiamo detto quando abbiamo discusso della conoscenza degli angeli (Q[57], A[3], ad 3).
 
-<span class="atom-split" data-atom="084" data-title="Whether the will of the demons is obstinate in evil?" data-chapter="Whether the will of the demons is obstinate in evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Whether the will of the demons is obstinate in evil?" data-chapter="Whether the will of the demons is obstinate in evil?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will of the demons is not obstinate in evil. For liberty of
 will belongs to the nature of an intellectual being, which nature remains in the demons, as we said
@@ -5504,7 +5512,7 @@ Risposta all’Obiezione 4: Il fatto che l’uomo abbia peccato su suggerimento 
 
 Risposta all’Obiezione 5: L’azione di un demone è di due tipi. Uno deriva da una volontà deliberata; e questo viene propriamente definito il suo “atto proprio”. Un tale atto, da parte del demone, è sempre malvagio; perché, anche se a volte compie qualcosa di buono, non lo fa per bene: ad esempio, quando dice la verità al fine di ingannare, o quando crede e confessa, ma non volontariamente, bensì costretto dalle prove presenti. Un altro tipo di atto è naturale per il demone; questo può essere buono e testimoniare della bontà della sua natura stessa. Tuttavia, anche un simile atto buono viene abusato dal demone a scopi malvagi.
 
-<span class="atom-split" data-atom="085" data-title="Whether there is sorrow in the demons?" data-chapter="Whether there is sorrow in the demons?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="Whether there is sorrow in the demons?" data-chapter="Whether there is sorrow in the demons?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is no sorrow in the demons. For since sorrow and joy
 are opposites, they cannot be together in the same subject. But there is joy in the demons: for
@@ -5572,7 +5580,7 @@ Risposta all’Obiezione 2: Poiché nei demoni esiste dolore di fronte al male p
 
 Risposta all’Obiezione 3: Sentirsi addolorati per il male del peccato, in considerazione della stessa natura del peccato stesso, testimonia la bontà della volontà, alla quale il male del peccato è opposto. Ma sentirsi addolorati per il male della punizione, in relazione al male del peccato e alla punizione che ne consegue, testimonia invece la bontà della natura umana, alla quale il male della punizione è opposto. Pertanto Agostino afferma (De Civ. Dei xix, 13) che “il dolore per il bene perduto a causa della punizione è una testimonianza di una natura buona”. Poiché il demone possiede una volontà perversa e ostinata, non prova alcun rimorso per il male del peccato.
 
-<span class="atom-split" data-atom="086" data-title="Whether our atmosphere is the demons' place of punishment?" data-chapter="Whether our atmosphere is the demons' place of punishment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="Whether our atmosphere is the demons' place of punishment?" data-chapter="Whether our atmosphere is the demons' place of punishment?" data-kind="atom" data-srclang="en" data-tags="concepts/individuation,concepts/act_potency,concepts/substance,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this atmosphere is not the demons' place of punishment. For
 a demon is a spiritual nature. But a spiritual nature is not affected by place. Therefore there is no

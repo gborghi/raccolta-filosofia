@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article with a precise political thesis: the only revolution now possible cannot be verbal, passionate and bloody, because the point is not to grant rights — those depend on wills — but to make a revolution in things, i.e. in the economy, and things are not persuaded, they are made. Revolution has changed sign, from destruction to construction, not least because no European power, capitalism included, still believes in itself.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/revolution|rivoluzione]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

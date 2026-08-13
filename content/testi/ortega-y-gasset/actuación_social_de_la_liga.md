@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Action program of the Liga de educacion politica: detailed study of Spanish life, propaganda and creation of educational bodies. Associational document, not philosophical.
+> A short text (264 words) with no sample in the digest: presumably about the social activity of the Liga de Educación Política, but the content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

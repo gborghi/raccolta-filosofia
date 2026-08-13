@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial (El Sol, 1919) with concrete proposals favouring the labour movement: technical training for workers, elected factory councils, legally mandated profit-sharing, progressive inheritance taxes. A political-programmatic piece, not philosophical.
+
+## Connections
+
+**Concetti:** [[concepts/labour|lavoro]], [[concepts/property|proprietà]], [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Organisational note (1931) describing the professional-section structure of the Agrupación al Servicio de la República and its committees' tasks. A practical-political document.
+> A 257-word text for which the digest gives no sample: content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

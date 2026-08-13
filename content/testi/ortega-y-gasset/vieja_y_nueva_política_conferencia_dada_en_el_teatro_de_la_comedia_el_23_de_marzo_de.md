@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Famous 1914 lecture on behalf of the Liga de Educación Política Española: it speaks for a generation born in 1898, distinguishing official Spain from vital Spain and denouncing politics made of clamour. A programmatic political speech.
+> The digest records 752 words but 0 atoms and no text sample: no content of the famous Teatro de la Comedia lecture (23 March 1914) is available to judge. This entry needs checking at extraction.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

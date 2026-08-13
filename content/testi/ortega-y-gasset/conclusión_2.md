@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The close of a lecture given in Bilbao (March 1910): the Spain to come will be community or will not be — a people is communion in work and culture, an innumerable body with a single soul, a school of humanity. Ortega identifies this tradition with Europe, pays homage to Costa and his Reconstitución y europeización de España, and needles Unamuno's Africanisation, ending with the formula: "Spain was the problem and Europe the solution".
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/education|educazione]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

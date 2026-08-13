@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review of Max Scheler's book (1915): war is the punishment for not having thought about war with seriousness and truthfulness, and the nineteenth century's great sin was not seeking clarity about ultimate phenomena. The most painful finding is that Europe had almost no independence of intellect: in wartime a thinker who speaks must lie — and Ortega recalls Sankara, for whom the great brahman is silence.
+
+## Connections
+
+**Concetti:** [[concepts/wisdom|sapienza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A 1933 article: after the electoral victory of the "right", Ortega asks whether they triumphed against a policy or against a Regime, distinguishing a Regime (an indefinite series of policies and governments) from any single policy. He argues the Republic was not "brought" by anyone but is the destiny Spain is in.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

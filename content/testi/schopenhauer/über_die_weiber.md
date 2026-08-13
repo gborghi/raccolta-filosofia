@@ -10,8 +10,18 @@ tags:
   - "philosopher/schopenhauer"
 ---
 
+*Schopenhauer*
+
 > [!abstract]
 > A short polemical Parerga essay on women: judged by nature closer to the present, of weaker reason but greater compassion. A document of anthropological pessimism and its nineteenth-century misogyny.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]]  
+**Posizioni:** [[positions/pessimism|pessimismo]]  
+**Concetti:** [[concepts/nature|natura]], [[concepts/reason|ragione]], [[concepts/compassion|compassione]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/german_idealism|idealismo tedesco]]
 
 <p class="work-source">Testo originale tedesco · Gesammelte Werke (ristampa di testo PD) · pubblico dominio</p>
 

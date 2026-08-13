@@ -487,7 +487,7 @@ async function main() {
         laBody = parseFrontmatter(await fs.readFile(laPath, "utf8")).content
         laAtoms++
       }
-      workAtoms.get(workKey).atoms.push({ data, body: content, itBody, enBody, laBody })
+      workAtoms.get(workKey).atoms.push({ data, body: content, itBody, enBody, laBody, file: path.basename(f).slice(0, -3) })
     }
   }
   for (const w of workAtoms.values())
@@ -537,6 +537,35 @@ async function main() {
     return `<p class="work-source">${esc(bits.join(" · "))}</p>`
   }
 
+  // ---- connections: tassonomia dell'opera (come in English) -------------------
+  // Genera un blocco "Connections" con i tag dell'opera linkati alle pagine
+  // del vocabolario. Ogni asse della tassonomia (assi, posizioni, concetti,
+  // argomenti, figure, forme, scuole) produce una riga con i link.
+  function buildConnections(tags) {
+    const axes = [
+      { key: "axes", label: "Assi", folder: "assi" },
+      { key: "positions", label: "Posizioni", folder: "positions" },
+      { key: "concepts", label: "Concetti", folder: "concepts" },
+      { key: "arguments", label: "Argomenti", folder: "arguments" },
+      { key: "figures", label: "Figure", folder: "figures" },
+      { key: "forms", label: "Forme", folder: "forms" },
+      { key: "schools", label: "Scuole", folder: "schools" },
+    ]
+    const lines = []
+    for (const { key, label, folder } of axes) {
+      const ids = tags[key]
+      if (!ids || !ids.length) continue
+      const links = ids.map((id) => {
+        const node = idInfo.get(id)
+        const display = (node && node.label_it) || id
+        return `[[${folder}/${id}|${display}]]`
+      })
+      lines.push(`**${label}:** ${links.join(", ")}`)
+    }
+    if (!lines.length) return ""
+    return `## Connections\n\n${lines.join("  \n")}\n\n`
+  }
+
   // ---- emit SPA reading pages (testi/<philosopher>/<work>.md) ----------------
   const works = [] // index.json records
   const workHrefByKey = new Map() // canonical workKey -> { href, title } (for KG-note link rewriting)
@@ -573,6 +602,28 @@ async function main() {
 
     const tagsMap = tagsByPhil.get(philosopherName)
     const tags = (tagsMap && tagsMap.get(workKey)) || {}
+
+    // ---- flat tag list for atom-split data-tags (come English) -----------------
+    // Mappa tipo tassonomico → folder per il path del tag
+    const TAG_TYPE_TO_FOLDER = {
+      axis: "assi", position: "positions", concept: "concepts",
+      argument: "arguments", figure: "figures", form: "forms", school: "schools",
+    }
+    // Tag per-atomo (tagging semantico) con fallback ai tag dell'opera intera.
+    const atomsTags = tags.atoms || {}
+    const flatOf = (tagObj) => {
+      const out = []
+      for (const [taxKey, ids] of Object.entries(tagObj)) {
+        if (!Array.isArray(ids) || !ids.length) continue
+        for (const id of ids) {
+          const info = idInfo.get(id)
+          const folder = info ? TAG_TYPE_TO_FOLDER[info.type] : null
+          if (folder) out.push(`${folder}/${id}`)
+        }
+      }
+      return out
+    }
+    const workFlatTags = flatOf(tags)
 
     // group atoms by atom_title for local numbering (multiple atoms can share one
     // section title — the atomizer splits long sections at paragraph boundaries) and
@@ -667,8 +718,15 @@ async function main() {
       // qlang-split data-lang. atomRouter partiziona su questi marker e mostra un
       // bottone per lingua effettivamente presente.
       const srcLang = String(a.data.lang || lang || "")
+      // Tag specifici di questo atomo (se il tagging semantico li ha trovati),
+      // altrimenti i tag dell'opera intera. La chiave per-atomo e' il nome file
+      // senza estensione (es. "002_whether_..."), non l'id numerico.
+      const atomKey = a.file || atomId
+      const atomTags = isIntro ? [] : flatOf(atomsTags[atomKey] || tags)
+      const atomTagsAttr = atomTags.length ? ` data-tags="${esc(atomTags.join(","))}"` : ""
+
       blocks.push(
-        `\n\n<span class="atom-split" data-atom="${esc(atomId)}" data-title="${esc(label)}" data-chapter="${esc(chapter)}" data-kind="${isIntro ? "intro" : "atom"}" data-srclang="${esc(srcLang)}"></span>\n\n` +
+        `\n\n<span class="atom-split" data-atom="${esc(atomId)}" data-title="${esc(label)}" data-chapter="${esc(chapter)}" data-kind="${isIntro ? "intro" : "atom"}" data-srclang="${esc(srcLang)}"${atomTagsAttr}></span>\n\n` +
           body +
           (enBody
             ? `\n\n<span class="qlang-split" data-lang="en"></span>\n\n` + enBody
@@ -715,17 +773,14 @@ async function main() {
       ? `> [!abstract]\n> ${abstract.replace(/\s*\n\s*/g, " ")}\n\n`
       : ""
 
-    // La provenienza, in chiaro sotto il titolo. I campi c'erano gia' nel
-    // frontmatter ma non li leggeva nessuno: nel markdown emesso restavano
-    // metadati, non una citazione.
-    //
-    // Serve a due cose diverse. Dove pubblichiamo una traduzione di pubblico
-    // dominio, il traduttore e' l'autore di QUELLE parole e va citato: e' un
-    // credito dovuto, non un dettaglio bibliografico. Dove pubblichiamo
-    // l'originale (Nietzsche in tedesco, Descartes in francese), dirlo spiega al
-    // lettore perche' la pagina non e' in inglese — e ricorda perche' la fonte e'
-    // stata scelta cosi': senza traduttore nella catena non c'e' nessun diritto
-    // altrui in mezzo.
+    // ---- byline: autore (mascherina come in English) --------------------------
+    // Usa markdown nativo, non HTML: Quartz strippa i tag <p> raw.
+    const byline = `*${esc(philosopherName)}*\n\n`
+
+    // ---- connections: tassonomia dell'opera (come English) --------------------
+    const connectionsBlock = buildConnections(tags)
+
+    // La provenienza, in chiaro sotto il titolo.
     const provenance = sourceLine({ traduttore, edizione, anno_edizione, lang })
     const provenanceBlock = provenance ? `${provenance}\n\n` : ""
 
@@ -733,7 +788,7 @@ async function main() {
     await fs.mkdir(path.dirname(dest), { recursive: true })
     await fs.writeFile(
       dest,
-      compose(abstractBlock + provenanceBlock + mount + blocks.join(""), fmData),
+      compose(byline + abstractBlock + connectionsBlock + provenanceBlock + mount + blocks.join(""), fmData),
     )
     workPages++
     if (abstract) abstractsEmitted++

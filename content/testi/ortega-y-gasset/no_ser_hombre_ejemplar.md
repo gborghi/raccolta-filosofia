@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > It resumes the doctrine of España invertebrada on the origin of society: historical society derives neither from 'animal societies' nor from the family group but is born of the superior attraction one or a few individuals exert on others — the social instinct is an impulse of docility toward the exemplary man (thus the Church lives on docility toward Christ's exemplariness); Aristotle spoke of a political instinct without defining its function. There follows the distinction between authentic exemplariness, an automatic, unintended effect of perfection, and the fictitious kind of the man who sets out directly to be exemplary.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]]  
+**Posizioni:** [[positions/social_animal|animale sociale]]  
+**Concetti:** [[concepts/select_minority|minoranza selecta]]  
+**Figure:** [[figures/aristotle|Aristotele]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +112,7 @@ Questa propensione a dare importanza alle cose che non la hanno è un sintomo in
 
 Invece di procurare di avanzare gli altri in qualche delle tappe importanti del superiore repertorio umano, sommergendosi in essa senza smancerie, il falso esemplare deve cominciare col dare importanza a ciò che non la ha, al fine di poter essere in qualcosa esemplare. E siccome è più facile non fare che fare, il suo eroismo si comporrà, sopra tutto, di rinunce e astensioni. Il falso esemplare non è il santo, ma il «santone», e come questo, fiorisce nei popoli che soffrono decadenza e si allontanano dai grandi appetiti vitali. Dovunque la plebe ha sentito magico rispetto verso quegli uomini strani che si astengono —i «santoni». Le classi più robuste, in cambio, li hanno sempre disprezzati e non domandano mai, per stimare un uomo, che cosa sia ciò che non fa, ma al rovescio, che cosa fa.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/human_nature,positions/social_animal,concepts/select_minority,figures/aristotle,forms/essay"></span>
 
 El hombre «ejemplar» tiene que compensar la futilidad de sus normas (negativas y referentes a cosas sin importancia) con un enorme rigor en seguirlas. De esta manera, al evitar toda excepción en su cumplimiento, adquiere su conducta cierta cómica grandeza. Irónicamente solía contar el padre de Pío Baroja, como una de sus hazañas, no haber visto nunca jamás un drama de Echegaray y haber estado solo en la Puerta del Sol. Cosas parecidas, sólo que en serio, constituyen la heroicidad habitual de los hombres «ejemplares», que vienen a ser la novela por entregas de la virtud.
 

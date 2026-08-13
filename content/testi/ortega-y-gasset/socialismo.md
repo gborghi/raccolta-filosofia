@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An expository article: the labour problem is first of all the universal aspiration that society be legally organized on the principle of work — that no individual wealth exist save what one's own labour obtains; this movement and its ideas are called socialism. But socialism, besides being socialist, is democratic and liberal: it permits no dictatorship and guarantees individual liberties.
+
+## Connections
+
+**Concetti:** [[concepts/labour|lavoro]], [[concepts/property|proprietà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

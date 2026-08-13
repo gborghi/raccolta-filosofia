@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Programmatic note on agrarian reform: land must pass from parasitic to active, expert hands, raising the workers' standard of living under state direction. A political-program text.
+> A very short text (188 words) for which the digest gives no sample: content cannot be judged. The title points to agrarian reform.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

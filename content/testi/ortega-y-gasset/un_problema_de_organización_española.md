@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Column on the Barcelona conflicts: the only organised power in the field was syndicalism, and the conservatives, who demand the 'principle of authority' at any cost, are responsible for the sowing of hatreds in the summer of 1917. Topical political polemic.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

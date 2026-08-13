@@ -11,7 +11,7 @@ positions:
   - "eternal_return"
   - "decadence"
   - "theory_of_generations"
-work_count: 102
+work_count: 94
 tags:
   - "graph/axis"
 title: "Senso della storia"
@@ -30,10 +30,10 @@ title: "Senso della storia"
 - [dialettica dello spirito](/positions/dialectic_of_spirit) — 9 opere · contro [materialismo storico](/positions/historical_materialism), [eterno ritorno](/positions/eternal_return)
 - [materialismo storico](/positions/historical_materialism) — 23 opere · contro [dialettica dello spirito](/positions/dialectic_of_spirit), [provvidenza](/positions/providence)
 - [eterno ritorno](/positions/eternal_return) — 1 opere · contro [progresso](/positions/progress), [provvidenza](/positions/providence)
-- [decadenza](/positions/decadence) — 24 opere · contro [progresso](/positions/progress)
-- [teoria delle generazioni](/positions/theory_of_generations) — 19 opere · contro [dialettica dello spirito](/positions/dialectic_of_spirit), [materialismo storico](/positions/historical_materialism)
+- [decadenza](/positions/decadence) — 22 opere · contro [progresso](/positions/progress)
+- [teoria delle generazioni](/positions/theory_of_generations) — 16 opere · contro [dialettica dello spirito](/positions/dialectic_of_spirit), [materialismo storico](/positions/historical_materialism)
 
-## Opere (106)
+## Opere (98)
 
 **Augustine**
 - [City of God](/testi/augustine/city_of_god)
@@ -84,16 +84,14 @@ title: "Senso della storia"
 - [Götzen-Dämmerung](/testi/nietzsche/götzen-dämmerung)
 
 **Ortega y Gasset**
+- Advertencia_al_lector
 - [¿Angustia? ¿Progreso?](/testi/ortega-y-gasset/angustia_progreso)
 - [Brindis en el banquete a la revista Hermes](/testi/ortega-y-gasset/brindis_en_el_banquete_a_la_revista_hermes)
 - [Brindis en un banquete en su honor en «pombo»](/testi/ortega-y-gasset/brindis_en_un_banquete_en_su_honor_en_pombo)
 - [Competencia](/testi/ortega-y-gasset/competencia)
-- [Conciencia política conciencia histórica](/testi/ortega-y-gasset/conciencia_política_conciencia_histórica)
 - [César los conservadores y el futuro II](/testi/ortega-y-gasset/césar_los_conservadores_y_el_futuro_ii)
 - [Del humanismo y de la generación cartesiana](/testi/ortega-y-gasset/del_humanismo_y_de_la_generación_cartesiana)
 - [Don Gumersindo de Azcárate ha muerto](/testi/ortega-y-gasset/don_gumersindo_de_azcárate_ha_muerto)
-- [EL TEMA DE NUESTRO TIEMPO](/testi/ortega-y-gasset/el_tema_de_nuestro_tiempo)
-- [ESPAÑA INVERTEBRADA BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS](/testi/ortega-y-gasset/españa_invertebrada_bosquejo_de_algunos_pensamientos_históricos)
 - [El horizonte histórico](/testi/ortega-y-gasset/el_horizonte_histórico)
 - [El libro como conflicto](/testi/ortega-y-gasset/el_libro_como_conflicto)
 - [El momento histórico](/testi/ortega-y-gasset/el_momento_histórico)
@@ -103,15 +101,12 @@ title: "Senso della storia"
 - [El sentido histórico 2](/testi/ortega-y-gasset/el_sentido_histórico_2)
 - [El sentido histórico de la teoría de Einstein](/testi/ortega-y-gasset/el_sentido_histórico_de_la_teoría_de_einstein)
 - [En el centenario de Hegel](/testi/ortega-y-gasset/en_el_centenario_de_hegel)
-- [En las épocas de crisis la verdadera opinión pública no es la expresada por los tópicos](/testi/ortega-y-gasset/en_las_épocas_de_crisis_la_verdadera_opinión_pública_no_es_la_expresada_por_los_tópicos)
 - [Epílogo sobre el alma desilusionada](/testi/ortega-y-gasset/epílogo_sobre_el_alma_desilusionada)
 - [Generación contra generación](/testi/ortega-y-gasset/generación_contra_generación)
 - [Hegel y América](/testi/ortega-y-gasset/hegel_y_américa)
 - [Juventud](/testi/ortega-y-gasset/juventud)
-- [LA REBELIÓN DE LAS MASAS](/testi/ortega-y-gasset/la_rebelión_de_las_masas)
 - [La España oficial y la España vital](/testi/ortega-y-gasset/la_españa_oficial_y_la_españa_vital)
 - [La Filosofia de la Historia de Hegel y la historiología](/testi/ortega-y-gasset/la_filosofia_de_la_historia_de_hegel_y_la_historiología)
-- [La crisis de hoy y de hace cinco siglos Creación y recepción La socialización del](/testi/ortega-y-gasset/la_crisis_de_hoy_y_de_hace_cinco_siglos_creación_y_recepción_la_socialización_del)
 - [La cultura tartesia](/testi/ortega-y-gasset/la_cultura_tartesia)
 - [La guerra, los pueblos y los dioses](/testi/ortega-y-gasset/la_guerra_los_pueblos_y_los_dioses)
 - [La interpretación bélica de la historia](/testi/ortega-y-gasset/la_interpretación_bélica_de_la_historia)
@@ -121,9 +116,7 @@ title: "Senso della storia"
 - [La paradoja del salvajismo](/testi/ortega-y-gasset/la_paradoja_del_salvajismo)
 - [La reforma liberal](/testi/ortega-y-gasset/la_reforma_liberal)
 - [La época de un progreso y la época de un peligro](/testi/ortega-y-gasset/la_época_de_un_progreso_y_la_época_de_un_peligro)
-- [Libros del siglo XIX Guizot y la Historia de la civilización en Europa](/testi/ortega-y-gasset/libros_del_siglo_xix_guizot_y_la_historia_de_la_civilización_en_europa)
 - [Los escaparates mandan](/testi/ortega-y-gasset/los_escaparates_mandan)
-- [Los que estudian filosofía como profesión y los que buscan una claridad sobre la vida](/testi/ortega-y-gasset/los_que_estudian_filosofía_como_profesión_y_los_que_buscan_una_claridad_sobre_la_vida)
 - [Los ámbitos culturales](/testi/ortega-y-gasset/los_ámbitos_culturales)
 - [¿Masculino o femenino?](/testi/ortega-y-gasset/masculino_o_femenino)
 - [Maximus in minimis](/testi/ortega-y-gasset/maximus_in_minimis)
@@ -137,7 +130,6 @@ title: "Senso della storia"
 - [Para un Museo Romántico conferencia](/testi/ortega-y-gasset/para_un_museo_romántico_conferencia)
 - [Pedagogía y anacronismo](/testi/ortega-y-gasset/pedagogía_y_anacronismo)
 - [Por qué se vuelve a la filosofía](/testi/ortega-y-gasset/por_qué_se_vuelve_a_la_filosofía)
-- [Prólogo a Cartas finlandesas y Hombres del norte de Ángel Ganivet](/testi/ortega-y-gasset/prólogo_a_cartas_finlandesas_y_hombres_del_norte_de_ángel_ganivet)
 - [Prólogo a dos ensayos de historiografía](/testi/ortega-y-gasset/prólogo_a_dos_ensayos_de_historiografía)
 - [República anacronismo y juventud](/testi/ortega-y-gasset/república_anacronismo_y_juventud)
 - [República conservadora y burguesa](/testi/ortega-y-gasset/república_conservadora_y_burguesa)

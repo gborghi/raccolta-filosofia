@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Essay against the myth of a Spain looked on kindly by God (Prudentius: Hispanos Deus aspicit benignus): the national conscience has been misled by men who invented for it a genealogy of demigods. The Spanish race has sometimes played first-rank roles but has never proved itself a first-rank race — the history of science and of morals can be written without one Spanish name.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

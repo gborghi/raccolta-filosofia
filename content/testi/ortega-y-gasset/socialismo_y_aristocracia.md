@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A May Day meditation: socialism has three strata — the Party, socialist theory, and finally its historical mission. Ortega declares 'I am a socialist out of love for aristocracy', understood not as rule by the best but as a social state where the best opinions prevail. Capitalism is the state in which aristocracies are impossible because money rules: here, he says, lies Marx's deep insight, quality crushed by quantity.
+
+## Connections
+
+**Concetti:** [[concepts/select_minority|minoranza selecta]], [[concepts/money|denaro]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/historical_materialism_school|materialismo storico]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

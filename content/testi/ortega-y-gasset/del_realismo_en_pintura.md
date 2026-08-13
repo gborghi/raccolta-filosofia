@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against the official criticism that savaged young "idealist" painters in the name of race and realism: unlike a window, a picture frame shows forms freed from existence, and tendencies always aim at the ideal. He denies Velázquez is a realist, recalling that it was Delacroix and Manet who taught us to see him.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +121,7 @@ Il realismo spagnolo è una delle tante vaghe parole con cui abbiamo andato tapp
 
 E sarebbe buona notizia. Perché con la parola realismo si vuole significare di solito una mancanza di invenzione e di amore alla forma, di poesia e di riverberi sentimentali, che inaridisce miseramente la maggior porzione delle pitture spagnole. Realismo è allora prosa. Realismo è allora la negazione dell'arte, si dica con tutte le lettere.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Los pintores que este año han sido más discutidos, y que yo no trato de defender en particular, aspiran a arrojar los mercaderes del templo, la prosa del arte. Buscan, tras de las apariencias, nuevas formas a construir. Afírmense en su propósito: corrijan ciertas puerilidades y arcaísmos, pero no duden que están en lo cierto. Arte no es copia de cosas, sino creación de formas. Cuarenta años de impresionismo creo que son sobrados para allegar nuevos instrumentos a la técnica pictórica y aumentar sus posibilidades. Por centésima vez vuelve a ser tarea inminente del arte la conquista de la forma, ¡Sus a la forma novecentista!
 

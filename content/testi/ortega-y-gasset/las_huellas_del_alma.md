@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The soul expresses itself in words but imprints itself in works, and the work is the more indiscreet confession: in speech the soul means to express itself, in a work it reveals unwittingly, by preferring one form among countless others, its last and most obvious strata. Hence an ancient people's soul is intelligible only by collating its words with its works.
+
+## Connections
+
+**Concetti:** [[concepts/soul|anima]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Review of Rivera Pastor's Lógica de la Libertad, a neo-Kantian work on the philosophy of law: Ortega praises its density, discusses the charge of formalism against Kant's practical philosophy (which seeks moral principles by pure thought without intuition), and objects to the title — 'a logic of freedom is as impossible as a mathematics of love' — and to the excessive rank granted to Stammler.
+
+## Connections
+
+**Concetti:** [[concepts/law|legge]], [[concepts/justice|giustizia]], [[concepts/freedom|libertà]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/german_idealism|idealismo tedesco]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

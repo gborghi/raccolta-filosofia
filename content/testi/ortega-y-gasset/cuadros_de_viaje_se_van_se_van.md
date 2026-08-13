@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A travel sketch from the old port of Gijón, displaced by El Musel: bollards, the schooner Luisa, motionless fishermen, and the "castizo" choice of siding with the defeated. Descriptive prose, not philosophy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -150,7 +156,7 @@ L'uomo del cappellaccio bruno è un castigliano che parla con una rara intellige
 
 —Le cave sono chiuse, molte fabbriche lo stesso. Le miniere piene zeppe di operai.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 —¡No hay donde dar una peoná!
 

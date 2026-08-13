@@ -10,6 +10,8 @@ tags:
   - "philosopher/rousseau"
 ---
 
+*Rousseau*
+
 > [!abstract]
 > Collection of romances (sentimental songs) with music and lyrics, including 'Le rosier' and the 'Romance de Roger'. A minor musical work, without philosophical content.
 

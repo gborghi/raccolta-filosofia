@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Polemic against Unamuno's letter in ABC: to 'if a people had to choose between Descartes and St John of the Cross, I would keep the latter' Ortega replies that without Descartes we would be left in the dark and would not even see Juan de Yepes's habit. Unamuno is cast as the lad who smashes the lamp at the village dance, 'energúmeno español'.
+
+## Connections
+
+**Concetti:** [[concepts/reason|ragione]], [[concepts/faith|fede]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +109,7 @@ Ma ahimè, ho ricevuto questi giorni alcune cartelle di uno spagnolo, giovane e 
 
 »Ora, se il signor Unamuno sa tutto questo in qualità di professore di filologia, perché scrive la lettera dell'ABC?»
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/reason,concepts/faith,forms/essay"></span>
 
 Poco a poco va aumentando el número de los que quisiéramos que las querellas personalistas cedieran en España la liza a las discusiones más honestas y virtuosas sobre la verdad verdadera. En el naufragio de la vida nacional, naufragio en el agua turbia de las pasiones, clavamos serenamente un grito nuevo: ¡Salvémonos en las cosas! La moral, la ciencia, el arte, la religión, la política, han dejado de ser para nosotros cuestiones personales; nuestro campo de honor es ahora el conocido campo de Montiel de la lógica, de la responsabilidad intelectual. Pensando en esto, he preferido las observaciones técnicas de mi grande amigo Américo Castro a toda mi prosa indignada. Merced a ellas puedo afirmar que en esta ocasión don Miguel de Unamuno, energúmeno español, ha faltado a la verdad. Y no es la primera vez que hemos pensado si el matiz rojo y encendido de las torres salmantinas les vendrá de que las piedras venerables aquellas se ruborizan oyendo lo que Unamuno dice cuando a la tarde pasea entre ellas.
 

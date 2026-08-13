@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from a complaint by Baroja, it observes that few books sell in Spain and Spanish America because few are read, and that less is read now than before for reasons more spiritual than economic. It contrasts French and German passion for books with the conversation of the Spanish bourgeoisie. A piece of social criticism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > If the new art is unintelligible to everyone, its springs are not the generically human ones: it is art for a particular class of men. Ortega shows that what people call aesthetic enjoyment is taking an interest in the human fates depicted, which is incompatible with properly aesthetic delight, and explains it with the image of the garden and the windowpane: seeing the garden and seeing the glass require different ocular accommodations and exclude one another.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]], [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +97,7 @@ Non discutiamo ora se sia possibile un'arte pura. Forse non lo è; ma le ragioni
 
 Ecco perché l'arte nuova divide il pubblico in due classi di individui: quelli che la intendono e quelli che non la intendono; cioè, gli artisti e quelli che non lo sono. L'arte nuova è un'arte artistica.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,concepts/select_minority,forms/essay"></span>
 
 Yo no pretendo ahora ensalzar esta manera nueva de arte, y menos denigrar la usada en el último siglo. Me limito a filiarlas, como hace el zoólogo con dos faunas antagónicas. El arte nuevo es un hecho universal. Desde hace veinte años, los jóvenes más alerta de dos generaciones sucesivas —en París, en Berlín, en Londres, Nueva York, Roma, Madrid— se han encontrado sorprendidos por el hecho ineluctable de que el arte tradicional no les interesaba; más aún, les repugnaba. Con estos jóvenes cabe hacer una de dos cosas: o fusilarlos o esforzarse en comprenderlos. Yo he optado resueltamente por esta segunda operación. Y pronto he advertido que germina en ellos un nuevo sentido del arte, perfectamente claro, coherente y racional. Lejos de ser un capricho, significa su sentir el resultado inevitable y fecundo de toda la evolución artística anterior. Lo caprichoso, lo arbitrario y, en consecuencia, estéril, es resistirse a este nuevo estilo y obstinarse en la reclusión dentro de formas ya arcaicas, exhaustas y periclitadas. En arte, como en moral, no depende el deber de nuestro arbitrio; hay que aceptar el imperativo de trabajo que la época nos impone. Esta docilidad a la orden del tiempo es la única probabilidad de acertar que el individuo tiene. Aun así, tal vez no consiga nada; pero es mucho más seguro su fracaso si se obstina en componer una ópera wagneriana más o una novela naturalista.
 

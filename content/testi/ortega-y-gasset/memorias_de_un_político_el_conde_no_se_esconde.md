@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review of the second volume of Count Romanones's Notas de una vida (1901-1912). The paradoxical thesis Ortega draws from it: the essence of those years was permanent indiscipline, but almost all of it charged not to the people but to the state itself and the groups nearest it — 'in our country it is the arché itself that practises anarchy'. Political journalism.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A piece of cultural criticism against Spanish scandal weeklies: cheap printing puts the press in anyone's hands, and the old thugs have swapped blades for print; that such insults touch neither those who write them nor those they target reveals a moral prostration of public conscience. Not philosophical.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A speech in the 1931 constituent Cortes: the organizational part of the constitution is a machine where removing or adding one piece wrecks the whole, and once a single chamber is voted the executive cannot emanate from parliament. Constitutional technics, not philosophy.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/law|legge]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +78,7 @@ Nel [caso](/concepts/fortune) presente, io mi trovo con una possibilità di solu
 
 Tutta la mia opera è, in certo modo, un desiderio di curarmi di possibili radicalismi che ci siano dentro di me, come uomo obbligato a maneggiare soltanto gli schemi delle idee. Nulla mi è più grato, dunque, che la transazione; ma è mestieri che la transazione risultante da una situazione parlamentare transitoria, isolata, da una situazione effimera, che il tempo si porta via, abbia senso in sé stessa, sia rispettabile, si possa insegnare alle genti.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,concepts/law"></span>
 
 Pues bien, señores, temo yo que la solución que ayer se acordó no tenga estas virtudes. Uno de los que la defendieron, uno de los hombres para mí de más respeto en esta Cámara, el señor Alcalá Zamora, lo más que pudo decir de ella es que era una entre las peores. En esa autoridad, para mí enorme, del señor Alcalá Zamora, en ésta como en otra porción de cosas, yo me amparo, y después de haber tal vez perforado la posibilidad reglamentaria de la Cámara, por el momento me siento, quedándome con la misma buena voluntad con que comencé. (Aplausos).
 

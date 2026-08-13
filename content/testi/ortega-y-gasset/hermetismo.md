@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay in the theory of the novel: a novel is the literary creation that makes us surface like castaways from a world incommunicable with our own. Hence the author must build a hermetic enclosure with no chink onto the real horizon: any novel freighted with transcendent (political, ideological, symbolic) intentions is stillborn, and hence too the difficulty of the «historical novel», which sets two horizons colliding.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

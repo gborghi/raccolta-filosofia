@@ -6,7 +6,7 @@ label_en: "the state"
 aliases:
   - "Staat"
   - "polis"
-work_count: 208
+work_count: 193
 tags:
   - "graph/concept"
 title: "Stato"
@@ -15,7 +15,7 @@ title: "Stato"
 
 *the state*
 
-## Opere (208)
+## Opere (193)
 
 **Aristotle**
 - [Constitution of the Athenians](/testi/aristotle/constitution_of_the_athenians)
@@ -72,7 +72,6 @@ title: "Stato"
 - [Conclusión 2](/testi/ortega-y-gasset/conclusión_2)
 - [Conclusión 3](/testi/ortega-y-gasset/conclusión_3)
 - [Contra una política o contra un Régimen](/testi/ortega-y-gasset/contra_una_política_o_contra_un_régimen)
-- [Corporización de la idea política](/testi/ortega-y-gasset/corporización_de_la_idea_política)
 - [Corte y cortesía](/testi/ortega-y-gasset/corte_y_cortesía)
 - [Cosas de Europa](/testi/ortega-y-gasset/cosas_de_europa)
 - [Crisis de las ideas políticas](/testi/ortega-y-gasset/crisis_de_las_ideas_políticas)
@@ -87,11 +86,9 @@ title: "Stato"
 - [Descentralizadores y reformistas](/testi/ortega-y-gasset/descentralizadores_y_reformistas)
 - [Desconfianza ante los programas simples](/testi/ortega-y-gasset/desconfianza_ante_los_programas_simples)
 - [Destinos diferentes](/testi/ortega-y-gasset/destinos_diferentes)
-- [Diferencia radical entre la Liga de educación política española y los partidos actuales](/testi/ortega-y-gasset/diferencia_radical_entre_la_liga_de_educación_política_española_y_los_partidos_actuales)
 - [Diputado por la cultura](/testi/ortega-y-gasset/diputado_por_la_cultura)
 - [Disciplina jefe energía](/testi/ortega-y-gasset/disciplina_jefe_energía)
 - [Dislocación y restauración de España](/testi/ortega-y-gasset/dislocación_y_restauración_de_españa)
-- [ESPAÑA INVERTEBRADA BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS](/testi/ortega-y-gasset/españa_invertebrada_bosquejo_de_algunos_pensamientos_históricos)
 - [Economía nacional](/testi/ortega-y-gasset/economía_nacional)
 - [El Estado ante todo](/testi/ortega-y-gasset/el_estado_ante_todo)
 - [El amor al sino](/testi/ortega-y-gasset/el_amor_al_sino)
@@ -111,12 +108,9 @@ title: "Stato"
 - [El origen deportivo del Estado](/testi/ortega-y-gasset/el_origen_deportivo_del_estado)
 - [El pathos de la distancia](/testi/ortega-y-gasset/el_pathos_de_la_distancia)
 - [El peligro de una Constitución epicena](/testi/ortega-y-gasset/el_peligro_de_una_constitución_epicena)
-- [El principio sindicativo](/testi/ortega-y-gasset/el_principio_sindicativo)
 - [El problema económico](/testi/ortega-y-gasset/el_problema_económico)
 - [El sentido del cambio político español](/testi/ortega-y-gasset/el_sentido_del_cambio_político_español)
 - [El siglo XIX](/testi/ortega-y-gasset/el_siglo_xix)
-- [En 1919 dictadura es sinónimo de anarquía Los pueblos no toleran ya dictadores](/testi/ortega-y-gasset/en_1919_dictadura_es_sinónimo_de_anarquía_los_pueblos_no_toleran_ya_dictadores)
-- [En el momento de la paz Los nuevos Gobiernos que necesita España](/testi/ortega-y-gasset/en_el_momento_de_la_paz_los_nuevos_gobiernos_que_necesita_españa)
 - [En tiempo del lock-out.— Lo justo y lo demasiado](/testi/ortega-y-gasset/en_tiempo_del_lock-out_lo_justo_y_lo_demasiado)
 - [Ensimismamiento y alteración](/testi/ortega-y-gasset/ensimismamiento_y_alteración)
 - [España entre las naciones](/testi/ortega-y-gasset/españa_entre_las_naciones)
@@ -153,13 +147,11 @@ title: "Stato"
 - [Imperialismo y democracia](/testi/ortega-y-gasset/imperialismo_y_democracia)
 - [Inmediatas concesiones](/testi/ortega-y-gasset/inmediatas_concesiones)
 - [LA REDENCIÓN DE LAS PROVINCIAS Y LA DECENCIA NACIONAL](/testi/ortega-y-gasset/la_redención_de_las_provincias_y_la_decencia_nacional)
-- [La Constitución](/testi/ortega-y-gasset/la_constitución)
 - [La España oficial y la España vital](/testi/ortega-y-gasset/la_españa_oficial_y_la_españa_vital)
 - [La afirmación de la moral y de la nación](/testi/ortega-y-gasset/la_afirmación_de_la_moral_y_de_la_nación)
 - [La agitación obrera](/testi/ortega-y-gasset/la_agitación_obrera)
 - [La censura negra y la censura roja Sólo pedimos libertad](/testi/ortega-y-gasset/la_censura_negra_y_la_censura_roja_sólo_pedimos_libertad)
 - [La ciudadanía](/testi/ortega-y-gasset/la_ciudadanía)
-- [La cuestión social y el ejército](/testi/ortega-y-gasset/la_cuestión_social_y_el_ejército)
 - [La escuela laica](/testi/ortega-y-gasset/la_escuela_laica)
 - [La hora de Hércules](/testi/ortega-y-gasset/la_hora_de_hércules)
 - [La nación frente al Estado](/testi/ortega-y-gasset/la_nación_frente_al_estado)
@@ -171,7 +163,6 @@ title: "Stato"
 - [La región no es definida](/testi/ortega-y-gasset/la_región_no_es_definida)
 - [La solidaridad alemana](/testi/ortega-y-gasset/la_solidaridad_alemana)
 - [La verdadera cuestión española](/testi/ortega-y-gasset/la_verdadera_cuestión_española)
-- [La vida local](/testi/ortega-y-gasset/la_vida_local)
 - [Las Cortes de Cádiz](/testi/ortega-y-gasset/las_cortes_de_cádiz)
 - [Las formas de gobierno](/testi/ortega-y-gasset/las_formas_de_gobierno)
 - [Las provincias y sus candidaturas](/testi/ortega-y-gasset/las_provincias_y_sus_candidaturas)
@@ -183,9 +174,7 @@ title: "Stato"
 - [Memorias de un político El conde no se esconde](/testi/ortega-y-gasset/memorias_de_un_político_el_conde_no_se_esconde)
 - [Miscelánea socialista](/testi/ortega-y-gasset/miscelánea_socialista)
 - [Nación y trabajo](/testi/ortega-y-gasset/nación_y_trabajo)
-- [Necesidad de una Junta magna para la reorganización del Estado español](/testi/ortega-y-gasset/necesidad_de_una_junta_magna_para_la_reorganización_del_estado_español)
 - [Ni legislar ni gobernar](/testi/ortega-y-gasset/ni_legislar_ni_gobernar)
-- [Ni payaso ni tenor ni jabalí](/testi/ortega-y-gasset/ni_payaso_ni_tenor_ni_jabalí)
 - [Ni revolución ni represión](/testi/ortega-y-gasset/ni_revolución_ni_represión)
 - [No imitar](/testi/ortega-y-gasset/no_imitar)
 - [[Nota a la prensa sobre la crisis de Gobierno]](/testi/ortega-y-gasset/nota_a_la_prensa_sobre_la_crisis_de_gobierno)
@@ -209,8 +198,6 @@ title: "Stato"
 - [Pueblo de funcionarios](/testi/ortega-y-gasset/pueblo_de_funcionarios)
 - [Qué significa para nosotros política](/testi/ortega-y-gasset/qué_significa_para_nosotros_política)
 - [República conservadora y burguesa](/testi/ortega-y-gasset/república_conservadora_y_burguesa)
-- [Resumen](/testi/ortega-y-gasset/resumen)
-- [Sanidad](/testi/ortega-y-gasset/sanidad)
 - [Segunda intervención sobre el Estatuto catalán](/testi/ortega-y-gasset/segunda_intervención_sobre_el_estatuto_catalán)
 - [Significado de la República](/testi/ortega-y-gasset/significado_de_la_república)
 - [Sindicalismo](/testi/ortega-y-gasset/sindicalismo)
@@ -218,9 +205,7 @@ title: "Stato"
 - [Sobre el estatuto regional](/testi/ortega-y-gasset/sobre_el_estatuto_regional)
 - [Un Consejo de Economía Nacional](/testi/ortega-y-gasset/un_consejo_de_economía_nacional)
 - [Un Parlamento industrial](/testi/ortega-y-gasset/un_parlamento_industrial)
-- [Un grupo](/testi/ortega-y-gasset/un_grupo)
 - [Un partido nacional de amplitud](/testi/ortega-y-gasset/un_partido_nacional_de_amplitud)
-- [VIEJA Y NUEVA POLÍTICA Conferencia dada en el Teatro de la Comedia el 23 de marzo de](/testi/ortega-y-gasset/vieja_y_nueva_política_conferencia_dada_en_el_teatro_de_la_comedia_el_23_de_marzo_de)
 - [Vaguedades](/testi/ortega-y-gasset/vaguedades)
 - [Ética y metafísica de la guerra](/testi/ortega-y-gasset/ética_y_metafísica_de_la_guerra)
 

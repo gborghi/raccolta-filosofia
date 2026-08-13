@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A toast as honorary president of the Madrid P.E.N. Club: the coming years will be a time of "rediscoveries" of what men had stopped feeling, the grossest example being the lost sense of law — today force is preferred, and it is claimed that law was only force in disguise. Ortega grants that law always contains an ingredient of force, but placed at the service of an ingenious machine that normally lets one dispense with it; law and courtesy are "fine springs" set between men. He closes with the local anecdote of "good evening… theoretically".
+
+## Connections
+
+**Concetti:** [[concepts/law|legge]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +126,7 @@ Orbene: è lì dove, in un istante di egregia emozione, Socrate definisce l'ala.
 
 Amici, non c'è scampo. La missione dell'ala e, quindi, della penna è la lotta senza quartiere contro la gravezza. L'ala e la penna hanno nell'universo questo destino aviatorio, aerostatico: sono ciò che sono ed esistono solo nella misura in cui ottengono o, per lo meno, procurano la vittoria su tutto ciò che gravita, su tutte le umane gravezze. E le gravezze dell'uomo, cioè i suoi mali peculiari, sono tre: la birboneria, la stupidità e la noia. Forse bisognerebbe aggiungere, soprattutto in Spagna, un quarto gravame: la cafoneria.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/law"></span>
 
 Amigos, no tenemos escape. La misión del escritor, del bípedo con pluma, es la de elevar hacia lo alto todo lo inerte y pesado. Cuando el escritor no logra o, por lo menos, no procura hacer esto, ¡ah!, entonces el escritor no es escritor, porque entonces la pluma no es pluma, que es plomo.
 

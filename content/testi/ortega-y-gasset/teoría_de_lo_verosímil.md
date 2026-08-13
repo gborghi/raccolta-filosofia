@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Essay contesting the commonplace of Renan as a lover of truth: to love truth is to invent proposition twenty-five, not to contemplate it. It uses Plato (the Eros of science, the philotheamones, 'theoria' as vision, Ideas as points of view) and Spinoza's amor intellectualis Dei to separate contemplative love of truth from the moral act of proclaiming it.
+
+## Connections
+
+**Concetti:** [[concepts/idea|idea]]  
+**Figure:** [[figures/plato|Platone]], [[figures/spinoza|Spinoza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -144,7 +152,7 @@ Ma questa dualità è impossibile; i centauri dovevano decidersi per un terzo mo
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/idea,figures/plato,figures/spinoza,forms/essay"></span>
 
 Delante del Hombre con la mano al pecho, que pintó el Greco, nos preguntamos si aquella romántica figura que parece irse quemando de dentro afuera, consumida por un corazón incandescente, es una verdad o una mentira. La humana presunción que el lienzo nos ofrece desvíase de todas las leyes de la antropología, y tras el cráneo aquel, fingido en una superficie, podemos suponer solamente una psique imaginaria. Sin embargo, estamos muy ciertos de que nos sentimos en la presencia de un español; más aún, aquellas sombras y colores, aquella lividez exaltada nos dan una realidad que expresamos con la palabra españolismo —mucho más cierta y plenaria que cuantos españoles hemos visto y tratado en verdad.
 
@@ -252,7 +260,7 @@ Quella varietà è sorprendente; ma ancora più che sorprendente è dolorosa: qu
 
 C'è un termine in Platone e in qualcuno dei suoi successori ancora molto poco studiato, e capace, a mio parere, di un fecondo sviluppo; mi riferisco alla parola che per loro definiva la vita: pleonexia, cioè, aumento, riempimento. Vivere è crescere illimitatamente; ogni vita è un saggio di espansione fino all'[infinito](/concepts/infinity). Il limite ci è imposto; è una resistenza che ci oppone un'altra vita che, al nostro fianco, e incitata da analoga energia, tenta il suo accaparramento dell'universo. Ogni cosa —afferma Spinoza— aspira a perseverare nel suo essere. No, no; la formula non è sufficiente; ogni cosa viva aspira a essere tutte le altre. La biologia esige che istituiamo la categoria del riempimento. Dio, immutabile, perseverando nel suo essere fino alla fine dei tempi, è un oggetto teologico; la biologia comincia con la storia naturale di Lucifero, la bestia dell'empireo che aspirò a essere Dio.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/idea,figures/plato,figures/spinoza,forms/essay"></span>
 
 Hace veintiséis siglos que Anaximandro enseñaba a los marineros de Mileto la doctrina de que el límite es un gran castigo impuesto por una severísima justicia. Nos limitamos los unos a los otros; nos distinguimos, nos diferenciamos, y, como advierte Stendhal, diferencia engendra odio; somos progenie del odio y de la enemistad. Homines ex [natura](/concepts/nature) hostes. De aquí que la labor filosófica por excelencia sea buscar tras esas crueles diferencias y limitaciones una sustancia colectiva, homogénea e idéntica. El magno deber del sabio, historiador o moralista, es intentar la reconstrucción de la unidad fundamental, es ir adobando, tras de la variedad de los hombres, la unidad humana.
 
@@ -354,7 +362,7 @@ La certezza del verosimile è, per contro, un'acquiescenza sentimentale. Perché
 
 Le pragmatiche che detta il sentimento non sono suscettibili di analisi: sono semplici rivelazioni. Per questo, la coincidenza di più uomini nel riconoscere una verosimiglianza rivela in loro una stessa costituzione sentimentale, uno stesso regime affettivo. Quando dinanzi a un quadro del Greco sperimentiamo la stessa certezza, accertiamo la nostra identità radicale.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/idea,figures/plato,figures/spinoza,forms/essay"></span>
 
 ¿Se advierte la significación metafísica del arte y de los mitos, en una palabra, de la verosimilitud? Es la pedagogía de la unidad humana: ella nos enseña la comunidad radical de los hombres y nos amonesta a la labor común. Cada generación se reconoce una al admirar su poeta favorito: cada pueblo comunica, es decir, comulga en una obra de arte, en una leyenda. Admirar es encontrarme de nuevo, declara Renan; pudo añadir que es encontrarse transubstanciado en otros, que es hallarse formado de una esencia colectiva y difusa. Los círculos de compenetración se ensanchan poco a poco. En el siglo XVIII un francés no lograba asimilarse la pasión acre de Shakespeare; hoy podemos sentir el corazón de Julieta estremeciéndose en el cuerpo de porcelana de una japonesa. Y los clásicos, productos inconmensurables de la cultura, que persisten al través de los tiempos y de las variaciones étnicas, sin que amengüe su capacidad de emocionar, ¿qué son sino testimonio de la unidad ideal del hombre? En ellos comulga la humanidad y son de aquellos hilos tendidos entre las almas, los más firmes y largos que engarzan los pueblos y las generaciones, y ordenándolos en [sublime](/concepts/sublime) corona mística, los pone a ceñir las sienes del Gran Artífice, del Promotor del Bien. ¡Genios clásicos, fisonomías incomparables, tejedores de humanidad, vosotros vais labrando la gran paz del universo, vais construyendo, más allá de toda frivolidad inquieta, la trastierra de la cultura, donde un día los hombres reunidos en la espléndida democracia del ideal, serán justos, veraces y poetas! ¡Afán divino, oficio santo, labor eucarística!
 

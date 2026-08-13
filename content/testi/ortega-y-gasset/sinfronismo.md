@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A literary essay on Azorín's Un pueblecito and the priest Bejarano: Azorín writes the man's biography and his own in it. Following Goethe, Ortega coins 'sinfronismo' — a coincidence of sense and style between men scattered across ages, opposed to synchronism — illustrating it with Helmholtz's resonators and the constellation of names that lights up behind Nietzsche.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

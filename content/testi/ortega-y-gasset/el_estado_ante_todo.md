@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > It faults the Republican government for not showing from the first that the new democracy is not individualist, a matter of the crowd in the square, but a severe democracy of the State. Enthusiasm for the majesty of the State is the substance of the history to come: the task is no longer, as in 1848, to loose individuals, but to reorganise society's deepest tissues, which demands direction and highly technical discipline.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]], [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

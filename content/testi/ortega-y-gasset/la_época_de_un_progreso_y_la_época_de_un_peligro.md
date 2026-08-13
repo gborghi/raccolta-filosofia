@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The nineteenth-century assemblies "for the progress of the sciences" may have to become assemblies for the defence of the sciences: Einstein, Weyl and Schrödinger driven from their homeland, scientific vocations dwindling, states withdrawing funds. That generation lived by the "religion of science" — and Ortega notes, against the obvious objection, that Buddhism shows there can be a religion without God.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/progress|progresso]]  
+**Concetti:** [[concepts/religion|religione]], [[concepts/faith|fede]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

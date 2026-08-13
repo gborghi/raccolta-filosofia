@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A 1911 article prompted by the suicide of Helena von Dönniges, for whom Lassalle died in a duel in 1864. Ortega refuses the woman's biography and boudoir literature in order to present Lassalle, founder of the German workers' party, as a figure of virile greatness.
 

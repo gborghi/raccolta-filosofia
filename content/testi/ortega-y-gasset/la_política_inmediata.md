@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An electoral comment: the left comes to the Cortes with great strength despite governmental abuses, but risks dispersing again. What is needed is vigorous thought and a programme of action, not the clamour of rallies. Political journalism of the moment.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

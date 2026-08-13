@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An account of Einstein's visit to Toledo, on the Alcántara bridge. Asked by the physicist why so abstract a work should interest the crowds, Ortega answers that the war was a sad one and that economics and politics have ceased to be supreme stimulants of vitality: men's faith stands vacant, and just then appears a work that dictates laws to the stars — "you are the new magus, confidant of the stars". Reportage carrying a hypothesis about the spiritual situation of the age.
+
+## Connections
+
+**Concetti:** [[concepts/faith|fede]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +121,7 @@ E insiste su un tema che gli ho sentito trattare varie volte e deve essere oggi 
 
 Essendo stato lanciato improvvisamente dalla fama sulla ammirevole varietà del mondo, Einstein, che ha dovuto fare —come è frequente negli uomini di scienza germanici— una vita angusta di studente, si è trovato con innumerevoli faccette della realtà che lo sorprendono, dinanzi alle quali non trova in sé preformato un atteggiamento sicuro e certo. Ha conosciuto uomini più armonicamente dotati, capaci di giudicare con precisione e raffinatezza su temi molto diversi. Questa esperienza lo ha dovuto spaventare un poco e ha visto il suo formidabile genio fisico come solitario dentro di sé, privo di altre doti e potenze. In effetti, Einstein sembra uno spirito estremamente circoscritto alla sua scienza. Non credo che davvero gli interessi l'arte né la storia e forse, davanti a un quadro o a un problema generale umano, il suo genio si ferma come paralitico.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/faith,forms/essay"></span>
 
 De todas suertes, parece interesarle esta ciudad heteróclita, superviviente de un pasado viejísimo, cono de piedra sobre el que han caído como capas sucesivas las más varias y densas civilizaciones. Para un habitante de Zurich y Berlín, como es Einstein, tiene que ser inquietante caminar por un pueblo donde a la ruina romana sucede un gesto visigodo que concluye en una forma árabe encajada en una grave arquitectura castellana. Aquí han vivido, en efecto, prietas y hacinadas todas esas culturas. La ciudad sólo tiene escape hacia el Cielo. Cenobio y cuartel, la existencia aparece en ella como un servicio militar de tierra y cielo, que endurece los pechos contra el dardo y la tentación.
 

@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A presentation of Max Weber's study on the social causes of the decline of ancient culture, translated in the Revista de Occidente. Ortega prefaces it with a meditation on decadences (Spengler, Europe's new fear of death, Nietzsche's 'melancholy of eternal constructions') and summarizes Weber's economic thesis: Rome moves from wars for land to wars for slaves, and the latifundium structure shifts ancient life from the coast to the hinterland.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Concetti:** [[concepts/labour|lavoro]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +129,7 @@ La dottrina di Weber sulla morte di Roma può riassumersi così: l'economia roma
 
 Non è, dunque, l'intenzione di Weber dire: perché l'economia romana fu tale, Roma soccombette; ma piuttosto quest'altro: perché Roma fu come fu si sviluppò in essa un processo economico morboso che finisce per strangolarsi da sé stesso. Non aspira a rivelarci perché muore, ma come sia la sua morte guardata dal fascio economico.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/decadence,concepts/labour,forms/essay"></span>
 
 Nadie ha explicado todavía por qué un gran organismo histórico llega al aniquilamiento. De lo único que podemos estar seguros es de que cuanto mayor sea aquél, menos poder tendrán sobre él las causas externas. Un Municipio puede ser destruido por un terremoto o por una epidemia. Una pequeña nación puede sucumbir en unas cuantas batallas. Pero todo un «mundo», como fue Roma, está inmunizado para accidentes parejos. Tiene, pues, razón Weber cuando empieza su ensayo diciendo: «El Imperio romano no se derrumbó por causas exteriores, tal vez como consecuencia de una evidente superioridad de sus enemigos». Los «mundos» sólo mueren de muerte natural. Dentro de ellos hay que buscar los asesinos. No hay, pues, irrupción de los bárbaros. Esta idea, tan de viejo cuadro histórico, fue inventada por los literatos de la decadencia romana, que eran, como suelen ser los literatos de todas las épocas difíciles, superlativamente reaccionarios. Incapaces de crear cultura, llamaban así a la tradicional. Cuando los escritores tenían todavía talento —Tácito, por ejemplo—, entrevén que lo verdaderamente nuevo, progresivo, es el bárbaro, aunque o, precisamente, porque ni tiene Senado ni compone párrafos ciceronianos. Esta intuición fresca y abierta a lo real se pierde muy pronto y los literatos vuelven a creer que el progreso es el Senado y la elocuencia. Siempre se ha repetido el mismo curioso fenómeno: los «progresistas» de ayer son los más nocivos reaccionarios de hoy, los que impiden la verdadera acomodación a lo absolutamente nuevo que el tiempo aporta. Son progresistas en línea recta. Los chinos creen que los diablos avanzan sólo rectilíneamente, y por eso, les basta poner un biombo ante la puerta de la habitación para que el tozudo diablo tenga que detenerse. De aquí también el encorvamiento de los tejados: el diablo, al deslizarse por ellos, no puede caer a tierra, sino que sale despedido otra vez en línea recta hacia el espacio, como la pelota de la cesta vasca. El buen literato de decadencia se dedica a componer acrósticos indolentes mientras ve llegar a los grandes bárbaros blancos. Luego se queja e inventa la irrupción en largas elegías verbipotentes, mientras los pueblos salían a recibir a las huestes francas o godas como a salvadores.
 
@@ -198,7 +207,7 @@ Ma ecco che Roma conquista tutta l'Italia. Gli italici —come a suo tempo i lat
 
 Ci fu un momento in cui gli alleati ebbero vinta la partita. Allora decidono di creare dinanzi a Roma un altro Stato. Ma lo Stato che formano è identico al romano. Le stesse istituzioni, lo stesso metodo elettorale con presenza di corpo. Designarono come capitale Corfinio —se non erro.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/decadence,concepts/labour,forms/essay"></span>
 
 (Los lectores sabrán ser indulgentes si se desliza alguna equivocación adjetiva; no escribo rodeado de libros ni de notas sino como un romántico, entre rocas ásperas y lentiscos, mientras delante, al horizonte, forma el mar su gran curva de ballesta pronta a disparar nuestro corazón, que siente afanes de flecha y es ya de suyo una cruenta herida).
 

@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A pedagogical lecture: science, morality and art are not individual property; without language there is no thought, and the isolated individual is an abstraction (Natorp). The teacher faces a social fabric — family, city, people, dead generations — not an individual.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]]  
+**Posizioni:** [[positions/social_animal|animale sociale]]  
+**Concetti:** [[concepts/education|educazione]], [[concepts/reason|ragione]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

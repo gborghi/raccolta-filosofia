@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The continuation of a discussion of Baroja: nearly all the words of Spanish politics are insults (clerical, liberal, «exalted Kantian» mean nothing but personal hatred), and Spain's spoken literature lives on interjections. It analyses the interjection as an explosion releasing emotional imbalance, and hypothesizes that the Spaniard uses it rhythmically, with no pain to justify it.
+
+## Connections
+
+**Concetti:** [[concepts/passion|passione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -156,7 +163,7 @@ Lo «chulismo», il «flamenquismo», la bravuconeria, l'esagerazione, il gioco 
 
 Non mi sfugge che proiettando due tipi clinici della patologia individuale come isteria e nevrosi sulla spiritualità collettiva, cessano di essere malattie, in un senso medico. Sia chiaro così. Ma si trasformano in malattie, secondo un senso storico. Sia chiaro anche questo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/passion,forms/essay"></span>
 
 En cierto sentido, encuentro en Baroja una manifestación superior del histerismo nacional. Todos somos un poco como él, pero somos menos sinceros. Lo mejor y lo peor de la España actual se presenta en Baroja a la intemperie, sin pellejo. Y lejos de ser esto una censura, repito que se me aparece como el más fecundo punto de vista desde el cual puede salvarse su obra, tal y como ésta se presenta. Dentro de cincuenta años, los libros de Baroja tendrán principalmente valor de síntomas nacionales.
 

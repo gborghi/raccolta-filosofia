@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Lecture (1934) distinguishing minority and mass within a generation and arguing that the true minorities of different generations communicate through the subsoil of life. Every generation is something new in man.
+> The digest gives only the title and length (1,363 words): no atoms, no prose sample. The content cannot be judged from the digest; the title suggests a distinction between philosophy as a profession and the search for clarity about life, but nothing of this is visible in the material provided.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

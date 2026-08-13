@@ -6,7 +6,7 @@ label_en: "substance"
 aliases:
   - "ousia"
   - "substantia"
-work_count: 36
+work_count: 34
 tags:
   - "graph/concept"
 title: "sostanza"
@@ -15,7 +15,7 @@ title: "sostanza"
 
 *substance*
 
-## Opere (36)
+## Opere (34)
 
 **Aquinas**
 - [Treatise on the Angels](/testi/aquinas/treatise_on_the_angels)
@@ -63,11 +63,9 @@ title: "sostanza"
 
 **Ortega y Gasset**
 - [Descartes y el método transcendental](/testi/ortega-y-gasset/descartes_y_el_método_transcendental)
-- [Función y substancia](/testi/ortega-y-gasset/función_y_substancia)
 - [La resurrección de la mónada](/testi/ortega-y-gasset/la_resurrección_de_la_mónada)
 - [Panteísmo](/testi/ortega-y-gasset/panteísmo)
 - [b Ontología](/testi/ortega-y-gasset/b_ontología)
-- [c Synecología](/testi/ortega-y-gasset/c_synecología)
 - [d Eidolología](/testi/ortega-y-gasset/d_eidolología)
 
 **Plato**

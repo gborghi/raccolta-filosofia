@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The sample opens with "III. Señor Cambó's speech", so it starts mid-way through an article in sections. Ortega sets Cambó's paragraph on the "total, complete, absolute" sovereignty of regional powers against Maura's declaration that he is "absolutely in agreement", to show that a few words later Maura undoes it by refusing any cession of sovereign attributes: isolated apparent clarities that together make obscurity and equivocation.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/sovereignty|sovranità]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

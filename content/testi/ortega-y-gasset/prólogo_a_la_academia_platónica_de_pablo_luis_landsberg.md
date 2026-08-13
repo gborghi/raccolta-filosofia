@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A preface to Landsberg's book on the essence and sense of the Platonic Academy, part of Scheler's 'sociology of knowledge'. Ortega links it to his own Deshumanización del arte, which likewise began from the sociological and subjective side, and insists that a return to sociological inquiry is unavoidable—provided it be subtler and more philosophical than that of 1890.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Scuole:** [[schools/academy|Accademia platonica]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

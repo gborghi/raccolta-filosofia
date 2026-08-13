@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A parliamentary intervention demanding homage for Azaña's army reform, carried through without friction and gone unnoticed. It digresses on applause as a specific mark of the human species: the gesture of opening one's arms before a perfection that is not and will not be one's own. An occasional speech.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

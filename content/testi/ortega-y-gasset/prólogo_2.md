@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A bibliographical preface (Buenos Aires, 1939) presenting 'Ensimismamiento y alteración' and the 'Meditación de la técnica', a 1933 Santander course never properly written out. He explains he is publishing them to compete with the Chilean pirate publishers who were making volumes out of clippings from La Nación.
 

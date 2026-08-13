@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Minimal editorial note (1923) recommending an essay by Georg Simmel on the analysis of psychological differences between man and woman. An editorial note.
+> An 83-word note with no sample in the digest: presumably an editorial notice prefaced to a piece by Georg Simmel on the masculine and the feminine. Nothing can be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

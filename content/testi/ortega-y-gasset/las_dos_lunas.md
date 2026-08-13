@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short lyric vignette: at dusk a peasant's scythe mirrors the moon in its blade, so two moons seem to compete as the train passes by. Poetic prose, not philosophical.
+> A 149-word fragment for which the digest gives no sample: content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

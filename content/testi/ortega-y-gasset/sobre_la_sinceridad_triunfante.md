@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A marginal note to the Kant reflections: the virtue proper to our harsh age is sincerity, because classical ages were essentially insincere. Before a Greek statue no fault can be found, yet a dissatisfaction remains: classical perfection is measured against its own module, and what delights in it is not the individual person but an abstract, exemplary 'pedagogical I'.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

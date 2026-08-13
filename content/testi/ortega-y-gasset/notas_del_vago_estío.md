@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Summer travel notes along the little roads of Castile, handled with fanciful invention: the naked roads stitch the landscapes together and form the nation's venous system; their 'sufferings' are the crossroads (with allusions to Maimonides's Guide of the Perplexed, Buridan's ass and Pascal's 'wager' as a cure for perplexity) and the level crossing. Then a breakdown near Ávila and the children on the rocks. Occasional prose.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

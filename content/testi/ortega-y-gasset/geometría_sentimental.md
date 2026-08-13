@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Pages attributed to «a friend A…»: when the beloved leaves Madrid, the city keeps its streets and noises but loses a dimension of reality. Implicit thesis: even geometry is real only when sentimental — centre and periphery, near and far are measured by distance from Soledad. Lyrical-psychological prose.
+
+## Connections
+
+**Concetti:** [[concepts/passion|passione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -138,7 +145,7 @@ Perché questa tripartizione dell'essere intimo non esaurisce la sua forza di sc
 
 L'uomo greco vive dal suo corpo, e senza passare per l'anima ascende verso lo spirito. Così si comprende quella doppia e contraddittoria impressione che ci produce l'arte, il libro e l'esistenza tutta della Grecia. Da un lato sentiamo una strana innocenza e come nudità d'animale; dall'altro, una sorprendente chiarezza e purezza che tocca il sovrumano. All'animale ellenico non lo copre l'atmosfera di un'anima, e nelle Panatenee va la cervice del puledro accanto al collo dell'efebo senza essenziale disparità. Invece, l'azione di creare tale scultura sembra ispirata da un puro spirito, dalla Nous anonima della geometria, che si compiace di scolpire le idee di Platone.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/passion,forms/essay"></span>
 
 En la vida, en los hombres de Grecia echamos de menos la individualidad —como asimismo falta, rigorosamente hablando, en toda su filosofía. No encontramos nunca ese recinto hermético, esa «morada» aparte del resto del cosmos, ese privatissime que nos hace sentirnos solos frente al Universo, aislados en nosotros, viviendo desde un punto exclusivo de todos los demás puntos cósmicos, que es nuestro yo anímico. El griego, comparado con nosotros, es mínimamente excéntrico. Existe como si fuese un «género» —un eidos— viviente.
 
@@ -198,7 +205,7 @@ Il senso che entrambe le arti ebbero nel XVIII si fa patente se le guardiamo dal
 
 Ma c'è ancora un attributo della poesia romantica più radicalmente opposto alla classica. Dopo tutto, la fantasia è parente della ragione, dell'intelletto. È, in certo modo, la demenza dell'intendimento, la sragione della ragione. Il vero antagonista di questa è il sentimento. Nell'immagine è preformato un concetto; nell'emozione, no. Orbene: la poesia romantica userà la parola per esprimere sentimenti; non concetti, non cose, ma affetti.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/passion,forms/essay"></span>
 
 La inversión es perfecta. Se toma la palabra del revés, por el polo subjetivo en que expresa el último y vago secreto de la emoción. Su otro polo, el conceptual, queda reducido a la condición de estimulante para un sentimiento. El ci-devant señor es ahora ayuda de cámara. El vuelco de los órdenes a que aspiraba la Revolución francesa se ha ejecutado en la poesía romántica.
 

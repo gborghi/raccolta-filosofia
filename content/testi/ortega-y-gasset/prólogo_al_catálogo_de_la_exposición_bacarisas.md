@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A catalogue note for the painter Gustavo Bacarisas, 'a painter of pictures, not of aesthetic programmes': his painting is the western Mediterranean, burning air and woven reflections, yet beneath the splendour one hears a radical melancholy, the sadness of light. Occasional art criticism, with the remark that the poet prefers to the palace its image fallen into the pool.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

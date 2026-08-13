@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lyrical piece on dusk at El Escorial: as colours flee, things shrink to silhouettes. From this Ortega reflects on reality as the power of bodies to claim space against one another, and on the third dimension as the mark of the real.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

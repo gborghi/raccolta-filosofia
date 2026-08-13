@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A note on Maurice Barrès, almost unknown in Spain, and on the Spanish debt to his Sangre, placer y muerte. Ortega uses it to counterpose the Mediterranean form of culture — a way of loving God, telling stories, looking at women — to a less harmonious northern ideal, and to offer a pessimistic prognosis for the Mediterranean peoples. Literary criticism and cultural diagnosis.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +96,7 @@ Le Baudoche sono due francesi della specie più semplice: la loro educazione non
 
 Il dottor Asmus, al contrario, viene da una razza che ha bisogno di apprendere le cose per princìpi. Non è pedante perché in lui la pedanteria è la maniera naturale e spontanea di toccare le cose. È leale e onesto, ma qualche volta si ubriaca seguendo la consuetudine della sua nazione. «Apparteneva alla razza degli idealisti che sulla loro sacra collina di Bayreuth, dopo aver ascoltato il loro profeta per un'ora, si lanciano sulla birra e le salsicce e cominciano di nuovo a sognare e tornano a rimpinzarsi, alternativamente, di atti in intermezzi, incapaci ancora in questi giorni consacrati alla sublime di depurare i loro costumi grossolani».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Este invasor va entrando insensiblemente bajo el encanto de una vida más pulimentada. Todo va iniciándole en una civilización más suculenta, a la vez de mayor complejidad y de más graciosa unidad. Al sustituir la cerveza por el vino confiesa que se siente más ingenioso. La estufa sajona, mole enorme e idiota, le había acostumbrado a un fuego mudo, y por decirlo así, inorgánico. En Metz trabaja junto a una chimenea de leña que se consume charlando, gimiendo y riendo y mientras las llamas le componen rojas fantasmagorías. Y sobre todo Colette va y viene por la casa: es una muchacha profundamente serena, dotada de un buen gusto automático y sin vacilaciones.
 

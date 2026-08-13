@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Life is not given us ready-made but as something to make: to live is quehacer, and the greatest task is to hit on what to do. Looking around we find our social surroundings already woven of typical lives — the professions, established careers among which we elect our curriculum vitae. Ortega shows that the librarian, before becoming a profession, was an individual peculiarity that died with the man, whereas today the post stands even when vacant.
+
+## Connections
+
+**Assi:** [[assi/end_of_life|Fine della vita]]  
+**Posizioni:** [[positions/life_as_project|vita come progetto]]  
+**Concetti:** [[concepts/labour|lavoro]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +81,7 @@ Originariamente —ciò non offre dubbio— ciò che oggi costituisce una profes
 
 Forse un paradigma chiarisce ciò che insinuo. Se nella casa dove un uomo vive con altre molte persone si produce un incendio, può, dal suo punto di vista personale, che forse è di estrema disperazione, non tentare di spegnerlo e compiacersi davanti all'idea che presto il suo corpo sarà cenere. Ma se per un azzardo sopravvive e consta che poté spegnere il fuoco che tante vite è costato, la società lo castigherà, perché non fece ciò che socialmente —cioè, per necessità collettiva e non individuale— c'era da fare. Ebbene, le professioni rappresentano per chi le esercita daffari di quel tipo; sono, come l'incendio, urgenze a cui è ineludibile accorrere e che la situazione sociale ci presenta, che lo vogliamo o no. Perciò si chiamano uffici, perciò specialmente tutti i daffari dello Stato —nello Stato appare lo sociale in grado superlativo, sottolineato, aguzzato, stavo per dire esagerato—, tutti i daffari dello Stato si sogliono qualificare di ufficiali.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/end_of_life,positions/life_as_project,concepts/labour,forms/lecture"></span>
 
 Los lingüistas encuentran dificultades para fijar la etimología de esta palabra con que los latinos designaban el deber, y las encuentran porque, como muchas veces les pasa, no se representan bien la situación vital originaria a que el vocablo responde y en que fue creado. No ofrece dificultad semántica reconocer que officium viene de ob y facere, donde la preposición ob, como suele, significa salir al encuentro, prontamente, a algo, en este [caso](/concepts/fortune) a un hacer. Officium es hacer sin titubeo, sin demora, lo que urge, la faena que se presenta como inexcusable[56]. Ahora bien, esto es lo que constituye la idea misma del deber. Cuando nos es presentado algo como deber, se nos indica que no nos queda margen para decidir nosotros si hay o no que hacerlo. Podremos cumplirlo o no, pero que hay que hacerlo es incuestionable, por eso es deber.
 

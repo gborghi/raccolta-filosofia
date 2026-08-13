@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A parliamentary speech: the minority backs the Government as the only one possible at that date, while wishing it would change its policy; Ortega complains that debate turns on administrative detail instead of the overall 'tonality', which he holds to be decisive. An occasional political address.
 

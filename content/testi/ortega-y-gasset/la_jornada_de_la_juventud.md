@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A wartime article: what triumphs is modernity, and the world is about to do many things for the first time. The nineteenth century was an age of compromise between the aspiring new and the persisting old; Spain carried that perpetuation to a pathological extreme. A call to the young for a bold modernization of the country.
 

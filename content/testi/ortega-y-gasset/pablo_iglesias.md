@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A newspaper tribute to the socialist leader Pablo Iglesias, presented as a 'lay saint' whose forty thousand votes amount to as many acts of virtue. A homage piece, not philosophy; religious vocabulary used metaphorically.
+
+## Connections
+
+**Concetti:** [[concepts/virtue|virtù]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

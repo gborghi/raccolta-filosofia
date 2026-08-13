@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A page on the landscape of El Escorial, a lyrical stone awaiting a generation worthy of striking its spark. Ortega disputes the founding charter: St Lawrence cannot fill those spaces; Philip II expressed there his own interpretation of the divine.
 

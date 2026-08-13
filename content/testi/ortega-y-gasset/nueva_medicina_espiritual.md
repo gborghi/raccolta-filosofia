@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A dispatch from Marburg (1911) introducing Freud to the readers of La Prensa. Ortega prefaces a thesis on what is truly current: current is not what happens now but what acts, and ideas are supremely current because they carry on their shoulders the concrete edifice of business and bodily pleasures ('things are only the surface of ideas'). Then the news: in Vienna a man has appeared who divines dreams, and his theories split the doctors between enthusiasts and rabid enemies.
+
+## Connections
+
+**Concetti:** [[concepts/idea|idea]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -150,7 +157,7 @@ Da questi fatti partì Freud. Le difficoltà del trattamento per l'ipnotismo lo 
 
 Più ampie osservazioni portarono Freud a questa capitale conclusione: «In tutti i casi si tratta di un desiderio che sorse nell'animo dell'individuo, ma che era contraddittorio di tutti i suoi altri desideri, perciò incompatibile con le aspirazioni etiche ed estetiche della personalità. C'era stato un piccolo conflitto e il risultato della lotta interiore era che la rappresentazione che sorse davanti alla coscienza come portatrice di quel desiderio impossibile era condannata all'espulsione, era scagliata fuori della coscienza con i ricordi concomitanti, era dimenticata. L'incompatibilità di quella rappresentazione con l'io del malato era, dunque, il motivo dell'espulsione: le esigenze etiche o d'altro genere erano le forze espulsrici. L'accettazione del desiderio incompatibile o la prolungazione del conflitto gli avevano causato grave angoscia, stizza, dolore, e questa angoscia, questa stizza, questo dolore erano evitati con l'espulsione».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/idea,forms/essay"></span>
 
 Lo inconsciente es para Freud el conjunto de esas representaciones o deseos expulsados. De este modo quedaba explicada la dificultad para obtener que el enfermo recordara lo que era [causa](/concepts/cause) de su mal: las mismas fuerzas que habían arrojado la representación patógena a lo inconsciente, se resistían a dejarla escapar de nuevo, a dejarla volver sobre la superficie de la memoria.
 
@@ -252,7 +259,7 @@ I sogni! Divino mistero primitivo! Millenni ha vissuto l'umanità credendo che n
 
 Freud torna imperterrito alla tradizione millenaria. Nei sogni non c'è nulla di assurdo, dice, nulla senza senso: la nostra mente non funziona mai senza direzione fissa, senza intenzione. Né nell'isteria, né nella paranoia o pazzia. Molto meno nella funzione normale del sogno.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/idea,forms/essay"></span>
 
 Ahora se acaba de publicar la tercera edición de su libro Sobre la interpretación de los sueños, en que ha extractado quince años de labor incesante. Su teoría es un poco complicada y yo sólo puedo dar aquí como un esquema de ella.
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A speech: the contemporary State demands everyone's permanent collaboration, not out of justice but of necessity, and this fusion of State and nation is called democracy — no longer a theory but the anatomy of the age. The Republic means nationalizing public power; the error committed was to remain a revolutionary committee instead of founding a new legality.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

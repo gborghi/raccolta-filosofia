@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Column on Cambó's proposal for an industrial Parliament in Spain on the English model (400 members, half employers and half workers): Ortega doubts the historic parties or the workers themselves would accept it, since in Spain the caciques would end up running it. Political journalism.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/labour|lavoro]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

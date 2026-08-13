@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A memorial for Navarro Ledesma: great peoples — Egypt, Greece, Rome — were born around the ashes of their dead, and the dead, if we open our feeling to them, enter into us and leave us their virtues as an inheritance. Of a dead man one must ask not only what he did but what he was; the example is Socrates, who "was Plato and Xenophon", an idea that has gone on being born in us for twenty-five centuries.
+
+## Connections
+
+**Concetti:** [[concepts/death|morte]]  
+**Figure:** [[figures/socrates|Socrate]], [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +128,7 @@ Ho chiamato idealismo inmarcescibile l'altra virtù che era eminentemente in Nav
 
 Navarro Ledesma aveva sofferto molto, moralmente e fisicamente: la sua giovinezza si era annegata in una fatica incessante e rudissima: per questo, essendogli mancata la gioventù ardente, passionale, turbolenta, conservò durante tutta la sua vita una gioventù più quieta, più armoniosa, più di chiara fonte ridente, pausata e fresca; si mantenne sempre capace di indignazione e di entusiasmo; ebbe, infine, fino alla morte, sopra il suo viso largo e fortemente assestato sulle spalle, quella tenera espressione con retrogusti malinconici che conservano nello sguardo le vergini vecchie.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/death,figures/socrates,figures/plato,forms/essay"></span>
 
 Suelen hacernos las desventuras de vidrio, como al licenciado, y no quisiéramos movernos para quebrarnos. De ordinario, en la llamada experiencia, más que aprender nuevas verdades aprendemos el olvido de esas difíciles verdades eternas que nos impulsan a la guerra santa contra la realidad. Por esto sorprende hallar algún hombre en quien luego de años largos de dolor, perdure la exaltación idealista, la segunda virtud democrática, girondina. Nietzsche hubiera llamado a Navarro Ledesma, como se nombraba a sí mismo: «Argonauta del ideal».
 

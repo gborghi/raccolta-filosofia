@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lyrical summer piece on the villégiature and on the sincerity women gain outside the city, leading into a notice of the countess Mathieu de Noailles's book Le visage émerveillé. Prose of manners and review.
 

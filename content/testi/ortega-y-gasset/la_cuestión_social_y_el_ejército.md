@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Political column criticising Spanish governments for misusing the army as a substitute for striking public services, thereby consecrating indiscipline. Non-philosophical.
+> A short text (305 words). The digest carries no prose sample, so the content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

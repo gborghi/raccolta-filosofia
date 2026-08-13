@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to Ramiro de Maeztu, with an interlude on Unamuno: both agree Spain lacks morality but differ on how to obtain it. Ortega restates the Socratic and Platonic question — is virtue innate or teachable? — and sides with Plato: virtue can be acquired because it is knowledge, against Maeztu, for whom it is an almost blind impulse, that is, an instinct.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/virtue_ethics|virtù]]  
+**Concetti:** [[concepts/virtue|virtù]], [[concepts/education|educazione]]  
+**Figure:** [[figures/socrates|Socrate]], [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +106,7 @@ Ma Maeztu non ammette, come me, un mezzo che ci possiamo procurare per fare uomi
 
 Desidererei che Maeztu non obiettasse quanto segue: È erroneo affermare che io non scopra mezzo alcuno buono per favorire il raccolto di spagnoli buoni; nel mio articolo va espresso uno: «la propaganda e diffusione della vita di fede». Sull'inutilità di questa propaganda certo non c'è dubbio alcuno. Pensare altra cosa equivale a sopprimere per intero la storia. Benché mercé un artificio metodico tagliamo la nostra continuità secolare per il giorno d'oggi, per ottenere una sezione rappresentante il secolo XX spagnolo; ma non dimentichiamoci che, poveri o ricchi, viviamo nel secolo XX.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/education,figures/socrates,figures/plato,forms/essay"></span>
 
 Ahora bien, la característica de los movimientos sociales es que multitudes e individuos tórnanse cada vez más exigentes, más difíciles de conmover. Los viejos pueblos asiáticos pudieron estremecerse fácilmente a la voz enfática y ungida de hombres que predicaban fórmulas indecisas y que como tales parecían infinitas a las muchedumbres. Hoy necesitamos un gran esfuerzo de abstracción para hacernos explicable el nacimiento de aquellas religiones: siglo tras siglo nuestro espíritu se ha ido afinando, adquiriendo precisión crítica, robusteciendo su poder de inhibición, apartando la ganga sentimental del oro de las ideas. Aquellas razas, según dice una autoridad, no necesitaban para exaltarse más que de una kibla y un kitab, una dirección para orar y un libro. Tan lejano se halla de nosotros un estrato semejante de humanidad que aún no se ha logrado reconstruir satisfactoriamente el espíritu que hacía posible aquella forma de educación y aglutinación sociales. Las religiones, como sustancias transferibles y expansivas, han fenecido para siempre. Los movimientos políticos del siglo XIX, en cambio, han nacido de representaciones científicas. Una propaganda de actos de fe es un anacronismo. Otra cosa sería una propaganda con fe de ideas científicas o, por lo menos, precisas. Pero de esto último no se me ha ocurrido nunca dudar.
 

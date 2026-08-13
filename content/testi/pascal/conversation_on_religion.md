@@ -12,8 +12,18 @@ tags:
   - "philosopher/pascal"
 ---
 
+*Pascal*
+
 > [!abstract]
 > A report (by Nicole or De Saci) of a conversation in which Pascal laid out the plan of his projected apology for the Christian religion: starting from a portraiture of man that shows at once his grandeur and baseness, contradictions and misery, he imagines a man who has lived in indifference brought to consider what he really is, so as to lead him toward the certainty of Christianity.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]], [[assi/god|Dio]], [[assi/faith_reason|Fede e ragione]]  
+**Posizioni:** [[positions/misery_and_greatness|miseria e grandezza]], [[positions/fideism|fideismo]], [[positions/original_sin|peccato originale]]  
+**Concetti:** [[concepts/religion|religione]], [[concepts/faith|fede]]  
+**Figure:** [[figures/the_libertine|il libertino]]  
+**Scuole:** [[schools/jansenism|giansenismo]]
 
 <p class="work-source">Traduzione di George Pearce · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -44,7 +54,7 @@ After making a number of forcible remarks upon this remarkable book, he desired 
 
 Hitherto, M. Pascal, while preparing his hearer’s minds, and insensibly leading them to his conclusions, had laid down no positive proofs of the truths he wished to establish; he, however, had brought them into a disposition to receive them with readiness, and even heartily to desire that those proofs might be found solid and well founded, inasmuch as they were so obviously conducive to the tranquillity of the spirit, and the clearing up of its uncertainties. They were in that state of mind, which would be natural to all reasonable persons following out such a train of reasoning as had been thus furnished; and it could be little doubted, that, after such a preparation, they would easily yield conviction to the arguments which their instructor next brought forward, to confirm and establish those important verities which form the foundation of the Christian religion.
 
-<span class="atom-split" data-atom="003" data-title="NARRATIVE OF A CONVERSATION IN WHICH PASCAL RELATED THE PLAN AND SUBSTANCE OF HIS CONTEMPLATED WORK ON RELIGION. (parte 2)" data-chapter="NARRATIVE OF A CONVERSATION IN WHICH PASCAL RELATED THE PLAN AND SUBSTANCE OF HIS CONTEMPLATED WORK ON RELIGION." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="NARRATIVE OF A CONVERSATION IN WHICH PASCAL RELATED THE PLAN AND SUBSTANCE OF HIS CONTEMPLATED WORK ON RELIGION. (parte 2)" data-chapter="NARRATIVE OF A CONVERSATION IN WHICH PASCAL RELATED THE PLAN AND SUBSTANCE OF HIS CONTEMPLATED WORK ON RELIGION." data-kind="atom" data-srclang="en" data-tags="assi/human_nature,assi/god,assi/faith_reason,positions/misery_and_greatness,positions/fideism,positions/original_sin,concepts/religion,concepts/faith,figures/the_libertine,schools/jansenism"></span>
 
 Proceeding, then, to furnish a brief view of those proofs, after showing, generally, that the truths under discussion were really contained in this book, the authenticity of which no person of competent understanding could doubt, he paused principally upon the writings of Moses, in which these revelations are chiefly comprised; and he made it apparent, by a large number of indubitable coincidences, that it was equally impossible that Moses should have left on record a mere collection of falsehoods, and that the people to whom they were delivered, would have allowed themselves to be so imposed upon.
 
@@ -66,7 +76,7 @@ Finally, omitting nothing that could confirm the veracity of the Gospel history,
 
 The above is the substance of the discourse on this occasion, which was delivered to the assembled audience, only as an epitome of the great work which the speaker was contemplating; and it is from the reports of some persons present, that the small portion here furnished has been collected.
 
-<span class="atom-split" data-atom="004" data-title="CONCLUSION. (parte 1)" data-chapter="CONCLUSION." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="CONCLUSION. (parte 1)" data-chapter="CONCLUSION." data-kind="atom" data-srclang="en" data-tags="assi/human_nature,assi/god,assi/faith_reason,positions/misery_and_greatness,positions/fideism,positions/original_sin,concepts/religion,concepts/faith,figures/the_libertine,schools/jansenism"></span>
 
 IN BRINGING THE present volume to a close, it may be not uninteresting to take a brief retrospect of the diversified subjects it has presented to the reader; and hastily to retrace a road, which I venture to believe has been traversed not wholly without satisfaction or advantage.
 
@@ -88,7 +98,7 @@ The dialogue next turns upon the philosophical systems of the ancient and the (t
 
 After this, we find ourselves admitted into another of those repositories, in which our author was accustomed to store the fruits of his meditations, and the materials from which he elaborated his richest compositions. We proceed yet further, and find ourselves in an armoury of thought, strewed with missiles, and hung round with weapons of assault, and defence. There it was, that the skilful controversialist polished and fastened the armour, by which he baffled the fiercest assaults of his opponents; and here were winged and barbed those shafts, alternately of irony and indignation, which carried terror and defeat into their infuriated ranks. And lastly, we penetrate, as it were, into the very inner chamber of his self-communings; and listen to breathings of the spirit, which were, perhaps, never designed to meet any eye but his own. We see in them stern and resentful glances cast at the tyranny of Papal Bulls, and the arrogance of hierarchical power. We find reproachful contrasts drawn between these corruptions of later days, and the simplicity of Apostolic rule. We have questions raised, but left undetermined, upon the extent to which infallibility should be conceded to man. We listen to lamentations over the degeneracy of a church, which he yet could not renounce; and aspirations after a perfection, to which no human form of spiritual government is, probably, destined to attain. We contemplate, in short, a spirit ill at ease, restless and dissatisfied with all that the theology and the church around him presented; and ripe, perhaps, had longer life been given, to embrace a purer doctrine, and a more healthy discipline, — such as that which was fast spreading throughout neighbouring and more enlightened lands!
 
-<span class="atom-split" data-atom="005" data-title="CONCLUSION. (parte 2)" data-chapter="CONCLUSION." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="CONCLUSION. (parte 2)" data-chapter="CONCLUSION." data-kind="atom" data-srclang="en" data-tags="assi/human_nature,assi/god,assi/faith_reason,positions/misery_and_greatness,positions/fideism,positions/original_sin,concepts/religion,concepts/faith,figures/the_libertine,schools/jansenism"></span>
 
 Yet all these topics, interesting and important as they were, were subordinated and eclipsed by that one great object to which the closing years of Pascal’s life were devoted. To the noblest theme which could engage the thoughts or the pen of man, were now consecrated all his capacities, all his desires, — his toilsome days, and his watchful nights. To show the misery and hopelessness of man, without a voice and a guidance from heaven; to assert the authenticity and Divine authority of [Scripture](/concepts/revelation), in which that voice is heard; to silence, by the most copious evidences, internal and external, the cavils of [atheism](/positions/atheism) and infidelity against its revelations; to exhibit the necessities of man satisfied, and the types and prophecies which went before fulfilled, in the advent to our world, of a “God manifested in the flesh;” to show how our reconciliation with an offended Creator has been achieved by His sacrifice; and the gates of heaven and immortality opened to us by His resurrection: —
 

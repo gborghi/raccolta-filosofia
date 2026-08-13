@@ -12,8 +12,16 @@ tags:
   - "philosopher/aristotle"
 ---
 
+*Aristotle*
+
 > [!abstract]
 > Spurious mathematical treatise that examines and largely refutes the arguments (including one attributed to Zeno) for the existence of indivisible lines as minimal units of magnitude, defending the infinite divisibility of the continuum.
+
+## Connections
+
+**Concetti:** [[concepts/infinity|infinito]]  
+**Forme:** [[forms/treatise|trattato]]  
+**Scuole:** [[schools/lyceum|Liceo (peripatetici)]]
 
 <p class="work-source">Traduzione di W. S. Hett · Delphi Classics, 2013 · pubblico dominio</p>
 
@@ -44,7 +52,7 @@ Tutte le linee indivisibili sono punti.
 
 [Aristotele](/figures/aristotle) dimostra poi l'assurdità di questa conclusione, demolendo così la premessa maggiore.
 
-<span class="atom-split" data-atom="002" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 1)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 1)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en" data-tags="concepts/infinity,forms/treatise,schools/lyceum"></span>
 
 Are there such things as indivisible lines, and must there be in all magnitudes some unit which has no parts, as some say?
 
@@ -128,7 +136,7 @@ Dunque la loro posizione è assurda; dopo aver professato che dimostreranno le o
 
 Inoltre è irragionevole che essi, da un lato, siano fuorviati dal ragionamento di Zenone e presumano l'esistenza di linee indivisibili solo perché non possono dimostrarne l'inesistenza; e che, dall'altro lato, non siano colpiti dagli argomenti sia dal movimento di una linea retta in un semicerchio, che deve chiaramente toccare tutti gli infiniti punti della circonferenza e le sue divisioni, e di nuovo trascurare il fatto convincente riguardo al cerchio, che ci debba essere un movimento di tal genere, se il raggio si muove in un semicerchio”, e tutti gli altri teoremi dimostrati intorno alle linee, i quali mostrano che è impossibile un movimento di tal genere che non cada su tutti i punti intermedi di volta in volta; poiché questi teoremi sono di gran lunga più universalmente ammessi degli altri.
 
-<span class="atom-split" data-atom="003" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 2)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 2)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en" data-tags="concepts/infinity,forms/treatise,schools/lyceum"></span>
 
 It is, then, clear from the arguments we have adduced that it is not inevitable nor even plausible that indivisible lines should exist. But from what follows it will become still more obvious. First of all from theorems demonstrated and laid down as axiomatic in mathematics, which must either be accepted or removed by more convincing arguments.
 
@@ -232,7 +240,7 @@ Inoltre, una linea dovrebbe essere maggiore di un'altra di un punto; e sarà all
 
 Ma forse il tempo consiste in una successione di “adesso,” e entrambe le idee appartengono alla stessa teoria.
 
-<span class="atom-split" data-atom="004" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 3)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 3)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en" data-tags="concepts/infinity,forms/treatise,schools/lyceum"></span>
 
 But if a “now” is the beginning and the limit of time, and a point is in a similar relation to a line, the beginning and the end cannot be in themselves continuous, but there must be something in between, so that neither the “nows” (in time), nor the points (in a line) could by themselves form a continuous whole.
 
@@ -300,7 +308,7 @@ Inoltre, il termine 'maggiore' può essere applicato soltanto alle seguenti cose
 
 Inoltre, poiché l'espressione "la più piccola delle cose in casa" è usata senza alcun riferimento alla grandezza della casa, così anche in altri casi, né la cosa più piccola in una linea avrà alcun riferimento alla linea, cosicché l'espressione "più piccolo" non si applica alla linea.
 
-<span class="atom-split" data-atom="005" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en" data-tags="concepts/infinity,forms/treatise,schools/lyceum"></span>
 
 Further, if that which is not” in the house cannot be the smallest of the things in the house, just in the same way in other cases (for a point can exist by itself) it will not be true to say of the point that it is the smallest thing in the line.
 

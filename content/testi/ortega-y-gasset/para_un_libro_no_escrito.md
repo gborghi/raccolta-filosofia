@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A meditation written in an Andalusian landscape: the open country disperses thought, which is precisely the attempt to set oneself apart from everything else. It contrasts the European delight in being an individual with the Asian anguish at individuation (Nirvana), and distinguishes urban from rural culture as two divergent principles of life.
+
+## Connections
+
+**Concetti:** [[concepts/self_consciousness|autocoscienza]], [[concepts/nature|natura]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ Tutte le culture sono soluzioni o tentativi di soluzione al problema della vita.
 
 La migliore introduzione all'andalusismo, alla cultura tartessia, è, a mio intendere, pensare quanto segue: si supponga che il problema della vita consista, non nel creare questo o quest'altro, non nel realizzare tali o quali valori trascendenti —la verità, la giustizia, il dominio sulla natura, l'organizzazione dell'umanità, eccetera, eccetera—, ma semplicemente nel passarla il meno ingratamente che si possa. Ebbene: da questo presupposto, la vita sivigliana è un sistema perfetto, chiuso e completo. Probabilmente, mille anni fa era nell'essenziale[36] identica a ciò che è oggi, e non c'è ragione che non lo sia tra altri mille. Certamente un europeo normale non accetta quel presupposto; per lui la vita non è un torrente che passa sull'uomo e dal quale conviene difendersi con astuzia, grazia e cautela, ma una forza che radica e sboccia in ogni individuo e lo incita a imprese. L'europeo cerca la tragedia, si ostina a intervenire nel cammino dell'universo con la pretesa di governarlo. Siccome questo è, probabilmente, impossibile, la storia d'Europa va di tragedia in tragedia, sottoposta a perpetuo cambiamento e costante inquietudine. L'andaluso è, al contrario, l'uomo risoluto a evitare la tragedia, a schivarla, a darle uno scarto. Questo, chiaro è, lo porta a non fare storia. (Uno dei temi del libro sull'Andalusia che postulo, dovrebbe determinare la misura in cui questa razza ha intervenuto o non ha intervenuto attivamente nella storia).
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/self_consciousness,concepts/nature,forms/essay"></span>
 
 Lo que la vida andaluza tiene de oriental no es su aparente y superficial orientalismo, sino la común raíz campesina. La cultura tartesia es una cultura eterna y esencialmente rural. Los ritos de la campiña son el sustituto de las ideas de Estado, de los principios religiosos, de las «razones» científicas…
 

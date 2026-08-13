@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A bibliographical note on Menéndez Pidal's Orígenes del español, judged his greatest work. Its theoretical nerve is the distinction between erudition and science: science is not knowledge but theory, and a scholar's labour becomes science only when it mobilizes facts and learning towards a theory — with a nod to the Socratic «learned not-knowing».
+
+## Connections
+
+**Concetti:** [[concepts/wisdom|sapienza]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

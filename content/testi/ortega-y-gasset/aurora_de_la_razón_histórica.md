@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Ortega credits Dilthey, "the greatest thinker of the second half of the nineteenth century", with discovering around 1860 a new reality: human life, which is neither a physical nor a psychic thing but a pure happening of dramatic character, and which unlike those possesses structure of its own. Hence the thesis of beliefs: one always lives from certain beliefs, and the gravest change is a change in the basic ones — such as the shift, after 1600, from faith in God to faith in reason, which "is nothing but a faith like the other".
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/method|Metodo]], [[assi/time_and_death|Tempo e morte]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]], [[positions/historicity|storicità]]  
+**Concetti:** [[concepts/faith|fede]], [[concepts/reason|ragione]], [[concepts/time|tempo]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/ratiovitalism_school|raziovitalismo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +112,7 @@ Si tratta di una limitazione a cui la ragione inutilmente —sebbene sia molto s
 
 Perché ora, avendo perduto la fede esclusiva in quella ragione, siamo rimasti liberi —da Dilthey— per cercare l'«essere» dell'uomo senza che ci disturbi il pregiudizio del naturalismo, dell'eleatismo. E presto siamo caduti in conto che la ragione fisica doveva fallire dinanzi ai problemi umani. Perché l'uomo non ha «natura», non ha un essere fisso, statico, previo e dato. Non solo varia come i corpi, cioè con una pseudo-variazione che circola dentro limiti invariabili, dentro la legge delle sue variazioni, ma varia illimitatamente. È qualcosa di radicalmente plastico capace di essere questo e quest'altro e così senza limiti. Per parlare dell'essere dell'uomo dobbiamo inventare un concetto di essere non-eleatico, come si è inventato uno spazio non-euclideo. L'uomo è l'uomo paleolitico ma è anche la Marchesa di Pompadour, è Gengis Khan ed è Stefan George, è Pericle ed è Charles Chaplin. Le forme più disparate dell'essere passano attraverso l'uomo senza che questo si ascriva a esse.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,assi/method,assi/time_and_death,positions/radical_reality_of_life,positions/historicity,concepts/faith,concepts/reason,concepts/time,forms/essay,schools/ratiovitalism_school"></span>
 
 Cada una de estas formas de ser significa una gründliche [Erfahrung](/concepts/experience) que el hombre hace, la cual una vez hecha revela su Beschränkung. Esta Beschränkung le abre los ojos para otra forma de ser no ensayada. Es decir que pasa a ser una cosa porque antes fue otra determinada. El hombre, que no es, se va haciendo en la serie dialéctica de sus experiencias. Y por tanto lo único que podemos saber del hombre es lo que ya ha sido. Nada de lo que ya ha sido puede volverlo a ser. El pasado estrecha al futuro. Por eso la ciencia del pasado es, a la vez, bien entendida, la única ciencia del futuro en el sentido muy preciso en que una ciencia del futuro es posible.
 

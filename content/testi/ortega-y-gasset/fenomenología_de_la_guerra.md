@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An exposition, heavily quoted, of Scheler's analysis of war: war is neither struggle for existence nor mere violence but a contest of power and will between the «collective spiritual persons» that are states; battle is only the index of power. Hence war cannot be replaced by juridical litigation, since it creates unforeseeable historical realities.
+
+## Connections
+
+**Concetti:** [[concepts/will|volontà]], [[concepts/state|Stato]], [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +121,7 @@ Questa esperienza, raccolta lungo il suo passato, venne a essere rafforzata, sec
 
 Il «liberalismo» —è Scheler che lo mette tra virgolette come tra due coppie di ulani— ha prodotto tre idee, a suo parere false: la dottrina contrattuale dello Stato, la dottrina dell'«armonia naturale degli interessi», anche nell'esercizio egoistico di essi, e la negazione (meccanicistica) di agenti centrali che governano e intervengono nel gioco di forze di qualsivoglia unità elementari (mondo, anima, Stato). Così misconosce la regolazione divina sulle parti dell'orbe, della persona sulla moltitudine di rappresentazioni e istinti, dello Stato sui processi economici: deismo, psicologia associazionistica, libero scambio e manchesterismo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/will,concepts/state,concepts/law,forms/essay"></span>
 
 Todo esto en conjunto y por igual le parece a Scheler resueltamente erróneo y funesto. Mas ¿con qué título ni pretexto aproxima y hasta mezcla la concepción atomística del alma que enseñó el viejo asociacionismo inglés con la idea del Estado contrato? El asociacionismo[64] es ciertamente insostenible en la actual psicología; pero fue en su tiempo una profunda idea, y hoy, demostrada su insuficiencia, no han tardado más los sabios ingleses en abandonarlo que los alemanes. Pero de todas suertes, tiene esa teoría un sentido completamente opuesto al que inspiró la concepción contractual del Estado. En ésta se trata precisamente de defender la inviolabilidad de la persona individual, y supone, por tanto, la más vigorosa afirmación de ésta que se ha hecho en la historia. Enoja a Scheler que no se reconozca en el Estado una persona real, tan real como el individuo. ¿No debe enojar más que Scheler rebaje, dentro de la enorme persona Estado, la persona individual al papel de una imagen, de una sensación, de un instinto?
 

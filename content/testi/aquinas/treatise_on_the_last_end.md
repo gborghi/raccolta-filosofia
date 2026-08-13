@@ -12,8 +12,19 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > The opening treatise of Aquinas's moral theology: every human act is done for an end, and there is a single last end of man, happiness. It excludes wealth, honour, fame, power or pleasure as its seat, and locates it instead in the vision of the divine essence.
+
+## Connections
+
+**Assi:** [[assi/end_of_life|Fine della vita]]  
+**Posizioni:** [[positions/beatitude|beatitudine]]  
+**Concetti:** [[concepts/eudaimonia|eudaimonia (fioritura)]]  
+**Figure:** [[figures/aristotle|Aristotele]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -38,7 +49,7 @@ TRATTATO SULL’ULTIMO DESTINO UMANO (QQ[1]-5)
 PROLOGO  
 Poiché, come afferma Damasceno (De Fide Orth. ii, 12), l’uomo è detto essere stato creato “a immagine di Dio”, nel senso che tale immagine implica “un essere intelligente dotato di libero arbitrio e capacità di autodeterminazione”; ora che abbiamo trattato dell’esempio originale, cioè di Dio, e di quelle cose che sono emerse dalla potenza di Dio in conformità alla Sua volontà, rimane da esaminare l’“immagine di Dio”, ovvero l’uomo, nel senso che anch’egli è il principio delle proprie azioni, poiché possiede libero arbitrio e controllo su di esse.
 
-<span class="atom-split" data-atom="002" data-title="OF MAN'S LAST END (EIGHT ARTICLES)" data-chapter="OF MAN'S LAST END (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF MAN'S LAST END (EIGHT ARTICLES)" data-chapter="OF MAN'S LAST END (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 In this matter we shall consider first the last end of human life; and secondly, those things by
 means of which man may advance towards this end, or stray from the path: for the end is the rule
@@ -67,7 +78,7 @@ All’interno di questa prima categoria di indagini vi sono otto punti da consid
 (7) Tutti gli uomini condividono lo stesso fine ultimo?  
 (8) Anche le altre creature concorrono con l’uomo nel raggiungimento di tale fine ultimo?
 
-<span class="atom-split" data-atom="003" data-title="Whether it belongs to man to act for an end?" data-chapter="Whether it belongs to man to act for an end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether it belongs to man to act for an end?" data-chapter="Whether it belongs to man to act for an end?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it does not belong to man to act for an end. For a cause is
 naturally first. But an end, in its very name, implies something that is last. Therefore an end is not
@@ -134,7 +145,7 @@ Risposta all’Obiezione 2: Se un qualsiasi atto umano dovesse essere lo scopo f
 
 Risposta all’Obiezione 3: Tali azioni non sono propriamente azioni umane; poiché non derivano dalla deliberazione della ragione, che è il principio fondamentale delle azioni umane. Pertanto, esse hanno effettivamente uno scopo immaginario, ma non uno stabilito dalla ragione.
 
-<span class="atom-split" data-atom="004" data-title="Whether it is proper to the rational nature to act for an end?" data-chapter="Whether it is proper to the rational nature to act for an end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether it is proper to the rational nature to act for an end?" data-chapter="Whether it is proper to the rational nature to act for an end?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is proper to the rational nature to act for an end. For man,
 to whom it belongs to act for an end, never acts for an unknown end. On the other hand, there are
@@ -211,7 +222,7 @@ Risposta all’Obiezione 2: Quello che è destinato a raggiungere un fine appart
 
 Risposta all’Obiezione 3: L’oggetto della volontà è il fine e il bene in senso universale. Di conseguenza, non può esserci volontà in quelle cose che mancano di ragione e intelletto, poiché queste non sono in grado di comprendere ciò che è universale; tuttavia, tali cose possiedono un appetito naturale o sensibile, orientato verso un bene particolare. È evidente che le cause particolari vengono mosse da una causa universale: così, ad esempio, il governante di una città, volendo il bene comune, dirige, con i suoi ordini, tutte le istituzioni della città. Pertanto, tutte le cose prive di ragione sono necessariamente mosse verso i loro fini particolari da una volontà razionale che si estende al bene universale, ovvero dalla Volontà Divina.
 
-<span class="atom-split" data-atom="005" data-title="Whether human acts are specified by their end?" data-chapter="Whether human acts are specified by their end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether human acts are specified by their end?" data-chapter="Whether human acts are specified by their end?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,concepts/act_potency,concepts/anger,concepts/will,figures/augustine"></span>
 
 Objection 1: It would seem that human acts are not specified by their end. For the end is an
 extrinsic cause. But everything is specified by an intrinsic principle. Therefore human acts are not
@@ -265,7 +276,7 @@ the relation to a natural end is accidental to morality. Consequently there is n
 which are the same considered in their natural species, should not be diverse, considered in their
 moral species, and conversely.
 
-<span class="atom-split" data-atom="006" data-title="Whether there is one last end of human life?" data-chapter="Whether there is one last end of human life?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether there is one last end of human life?" data-chapter="Whether there is one last end of human life?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is no last end of human life, but that we proceed to
 [infinity](/concepts/infinity). For good is essentially diffusive, as Dionysius states (Div. Nom. iv). Consequently if that
@@ -348,7 +359,7 @@ Risposta all’Obiezione 2: Nei casi in cui le cose sono strettamente legate tra
 
 Risposta all’Obiezione 3: Questa moltiplicazione di atti della volontà che si ripercuotono su se stessi è accidentale rispetto all’ordine degli scopi. Ciò è evidente dal fatto che, riguardo allo stesso scopo, la volontà può ripercuotersi su se stessa, in modo indifferente, una volta o più volte.
 
-<span class="atom-split" data-atom="007" data-title="Whether one man can have several last ends?" data-chapter="Whether one man can have several last ends?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether one man can have several last ends?" data-chapter="Whether one man can have several last ends?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem possible for one man's will to be directed at the same time to several
 things, as last ends. For [Augustine](/figures/augustine) says (De Civ. Dei xix, 1) that some held man's last end to consist
@@ -404,7 +415,7 @@ Reply to Objection 3: The power of the will does not extend to making opposites 
 same time. Which would be the case were it to tend to several diverse objects as last ends, as has
 been shown above (ad 2).
 
-<span class="atom-split" data-atom="008" data-title="Whether man will all, whatsoever he wills, for the last end?" data-chapter="Whether man will all, whatsoever he wills, for the last end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether man will all, whatsoever he wills, for the last end?" data-chapter="Whether man will all, whatsoever he wills, for the last end?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man does not will all, whatsoever he wills, for the last end.
 For things ordained to the last end are said to be serious matter, as being useful. But jests are foreign
@@ -445,7 +456,7 @@ in every desire directed to any object whatever, even though one's thoughts be n
 to the last end. Thus while walking along the road one needs not to be thinking of the end at every
 step.
 
-<span class="atom-split" data-atom="009" data-title="Whether all men have the same last end?" data-chapter="Whether all men have the same last end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether all men have the same last end?" data-chapter="Whether all men have the same last end?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all men have not the same last end. For before all else the
 unchangeable good seems to be the last end of man. But some turn away from the unchangeable
@@ -482,7 +493,7 @@ things in which men seek to find their last end.
 Reply to Objection 3: Although actions are of individuals, yet their first principle of action is
 nature, which tends to one thing, as stated above (A[5]).
 
-<span class="atom-split" data-atom="010" data-title="Whether other creatures concur in that last end?" data-chapter="Whether other creatures concur in that last end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether other creatures concur in that last end?" data-chapter="Whether other creatures concur in that last end?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all other creatures concur in man's last end. For the end
 corresponds to the beginning. But man's beginning---i.e. God---is also the beginning of all else.
@@ -527,7 +538,7 @@ Rispondo che, come afferma il Filosofo (Physica ii, 2), l’fine è duplice: da 
 Se quindi parliamo dello scopo finale dell’uomo come della cosa stessa che costituisce tale scopo, allora tutte le altre cose concorrono a realizzarlo, poiché Dio è lo scopo finale dell’uomo e di tutte le altre cose. Tuttavia, se consideriamo lo scopo finale dell’uomo come l’acquisizione di quel fine, allora le creature irrazionali non condividono questo scopo con l’uomo. Infatti, l’uomo e le altre creature razionali raggiungono il loro scopo finale attraverso la conoscenza e l’amore di Dio; ciò non è possibile per le altre creature, che ottengono il proprio scopo finale nella misura in cui condividono la somiglianza divina, nel grado in cui esistono, vivono o addirittura conoscono.  
 Ecco quindi come si risolvono gli obiezioni: poiché la felicità significa appunto l’acquisizione dello scopo finale.
 
-<span class="atom-split" data-atom="011" data-title="OF THOSE THINGS IN WHICH MAN'S HAPPINESS CONSISTS (EIGHT ARTICLES)" data-chapter="OF THOSE THINGS IN WHICH MAN'S HAPPINESS CONSISTS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="OF THOSE THINGS IN WHICH MAN'S HAPPINESS CONSISTS (EIGHT ARTICLES)" data-chapter="OF THOSE THINGS IN WHICH MAN'S HAPPINESS CONSISTS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,forms/quaestio"></span>
 
 We have now to consider happiness: and (1) in what it consists; (2) what it is; (3) how we can
 obtain it.
@@ -554,7 +565,7 @@ Per quanto riguarda il primo punto, ci sono otto questioni da esaminare:
 (7) In qualche bene dell’anima?  
 (8) In qualche bene creato dall’uomo?
 
-<span class="atom-split" data-atom="012" data-title="Whether man's happiness consists in wealth?" data-chapter="Whether man's happiness consists in wealth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether man's happiness consists in wealth?" data-chapter="Whether man's happiness consists in wealth?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man's happiness consists in wealth. For since happiness is
 man's last end, it must consist in that which has the greatest hold on man's affections. Now this is
@@ -630,7 +641,7 @@ Risposta all’Obiezione 2: Tutte le cose vendibili possono essere ottenute con 
 
 Risposta all’Obiezione 3: Il desiderio di ricchezze naturali non è infinito, poiché queste sono sufficienti per le esigenze umane in una certa misura. Ma il desiderio di ricchezze artificiali è infinito, poiché esso deriva da concupiscenze disordinate che non vengono frenate, come chiarisce il Filosofo (Politica I, 3). Tuttavia, questo desiderio di ricchezza è diverso dal desiderio del bene supremo: più perfettamente si possiede il bene supremo, più esso viene amato e le altre cose vengono disprezzate, poiché più lo possediamo, più lo conosciamo. Per questo si legge nell’Ecclesiaste (24:29): “Coloro che mi mangiano avranno ancora fame”. Nel caso del desiderio di ricchezze e di beni temporali, invece, accade il contrario: quando li possediamo già, li disprezziamo e cerchiamo altri. Questo è il senso delle parole del Signore (Giovanni 4:13): “Chi beve di quest’acqua”, che simboleggia i beni temporali, “avrà ancora sete”. La ragione di ciò è che quando possediamo tali beni, ne rendiamo conto più chiaramente della loro insufficienza; e proprio questo fatto dimostra che sono imperfetti, e che il bene supremo non consiste in essi.
 
-<span class="atom-split" data-atom="013" data-title="Whether man's happiness consists in honors?" data-chapter="Whether man's happiness consists in honors?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether man's happiness consists in honors?" data-chapter="Whether man's happiness consists in honors?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man's happiness consists in honors. For happiness or bliss is
 "the reward of virtue," as the Philosopher says (Ethic. i, 9). But honor more than anything else
@@ -687,7 +698,7 @@ Risposta all’Obiezione 2: L’onore è dovuto a Dio e a persone di grande ecce
 
 Risposta all’Obiezione 3: Il fatto che l’uomo desideri l’onore più di ogni altra cosa deriva dal suo naturale desiderio di felicità, dalla quale l’onore scaturisce, come già detto in precedenza. Pertanto, l’uomo cerca soprattutto di essere onorato dai saggi, nei cui giudizi ritiene di essere eccellente o felice.
 
-<span class="atom-split" data-atom="014" data-title="Whether man's happiness consists in fame or glory?" data-chapter="Whether man's happiness consists in fame or glory?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether man's happiness consists in fame or glory?" data-chapter="Whether man's happiness consists in fame or glory?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man's happiness consists in glory. For happiness seems to
 consist in that which is paid to the saints for the trials they have undergone in the world. But this
@@ -757,7 +768,7 @@ Risposta all’Obiezione 2: Il bene di un uomo che, attraverso la fama o la glor
 
 Risposta all’Obiezione 3: La fama non ha stabilità; anzi, viene facilmente distrutta da voci false. E se a volte sopravvive, è solo per caso. Ma la felicità, invece, dura da sola e per sempre.
 
-<span class="atom-split" data-atom="015" data-title="Whether man's happiness consists in power?" data-chapter="Whether man's happiness consists in power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether man's happiness consists in power?" data-chapter="Whether man's happiness consists in power?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that happiness consists in power. For all things desire to become
 like to God, as to their last end and first beginning. But men who are in power, seem, on account
@@ -825,7 +836,7 @@ Risposta all’Obiezione 2: Proprio come è molto positivo che un uomo utilizzi 
 
 Risposta all’Obiezione 3: La schiavitù rappresenta un ostacolo all’uso appropriato del potere; per questo motivo gli esseri umani la evitano naturalmente, e non perché il bene supremo dell’uomo risieda nel potere stesso.
 
-<span class="atom-split" data-atom="016" data-title="Whether man's happiness consists in any bodily good?" data-chapter="Whether man's happiness consists in any bodily good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether man's happiness consists in any bodily good?" data-chapter="Whether man's happiness consists in any bodily good?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man's happiness consists in bodily goods. For it is written
 (Ecclus. 30:16): "There is no riches above the riches of the health of the body." But happiness
@@ -903,7 +914,7 @@ Risposta all’Obiezione 2: Inteso nel senso più semplice, cioè come comprende
 
 Risposta all’Obiezione 3: Poiché la fine corrisponde all’inizio, questo argomento dimostra che l’ultima fine è il primo inizio dell’esistenza; in Lui risiede ogni perfezione dell’essere. La Sua somiglianza, in base alla loro proporzione, è desiderata da alcuni soltanto come esistenza, da altri come essere vivente, e da ancora altri come essere vivente, intelligente e felice. E questo appartiene a pochi.
 
-<span class="atom-split" data-atom="017" data-title="Whether man's happiness consists in pleasure?" data-chapter="Whether man's happiness consists in pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether man's happiness consists in pleasure?" data-chapter="Whether man's happiness consists in pleasure?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man's happiness consists in pleasure. For since happiness is
 the last end, it is not desired for something else, but other things for it. But this answers to pleasure
@@ -986,7 +997,7 @@ Risposta all’Obiezione 2: L’intensità del desiderio di piaceri sensibili de
 
 Risposta all’Obiezione 3: Tutti desiderano il piacere nello stesso modo in cui desiderano il bene; eppure desiderano il piacere a causa del bene, e non viceversa, come è stato detto sopra (ad 1). Pertanto, non si può concludere che il piacere sia il bene supremo ed essenziale, ma che ogni forma di piacere derivi da qualche bene, e che alcuni tipi di piacere derivino proprio da ciò che è il bene essenziale e supremo.
 
-<span class="atom-split" data-atom="018" data-title="Whether some good of the soul constitutes man's happiness?" data-chapter="Whether some good of the soul constitutes man's happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether some good of the soul constitutes man's happiness?" data-chapter="Whether some good of the soul constitutes man's happiness?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that some good of the soul constitutes man's happiness. For
 happiness is man's good. Now this is threefold: external goods, goods of the body, and goods of
@@ -1061,7 +1072,7 @@ Risposta all’Obiezione 2: Per quanto riguarda l’obiezione proposta, la felic
 
 Risposta all’Obiezione 3: La felicità, in sé, essendo una perfezione dell’anima, è un bene intrinseco all’anima; ma ciò che costituisce la felicità, cioè ciò che rende l’uomo felice, è qualcosa esterno alla sua anima, come già detto in precedenza.
 
-<span class="atom-split" data-atom="019" data-title="Whether any created good constitutes man's happiness?" data-chapter="Whether any created good constitutes man's happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether any created good constitutes man's happiness?" data-chapter="Whether any created good constitutes man's happiness?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/end_of_life,positions/beatitude,figures/augustine"></span>
 
 Objection 1: It would seem that some created good constitutes man's happiness. For Dionysius
 says (Div. Nom. vii) that Divine wisdom "unites the ends of first things to the beginnings of second
@@ -1108,7 +1119,7 @@ something intrinsic and inherent to him: but it is less than the good of which h
 an object, and which is infinite. And the participated good which is in an angel, and in the whole
 universe, is a finite and restricted good.
 
-<span class="atom-split" data-atom="020" data-title="WHAT IS HAPPINESS (EIGHT ARTICLES)" data-chapter="WHAT IS HAPPINESS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="WHAT IS HAPPINESS (EIGHT ARTICLES)" data-chapter="WHAT IS HAPPINESS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider (1) what happiness is, and (2) what things are required for it.
 Concerning the first there are eight points of inquiry:
@@ -1137,7 +1148,7 @@ Per quanto riguarda il primo punto, ci sono otto questioni da esaminare:
 (7) Consiste nella contemplazione delle sostanze separate, ad esempio degli angeli?  
 (8) Consiste unicamente nella contemplazione di Dio nella Sua Essenza?
 
-<span class="atom-split" data-atom="021" data-title="Whether happiness is something uncreated?" data-chapter="Whether happiness is something uncreated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether happiness is something uncreated?" data-chapter="Whether happiness is something uncreated?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that happiness is something uncreated. For Boethius says (De
 Consol. iii): "We must needs confess that God is happiness itself."
@@ -1175,7 +1186,7 @@ or enjoyment of the supreme good.
 Reply to Objection 3: Happiness is said to be the last end, in the same way as the attainment
 of the end is called the end.
 
-<span class="atom-split" data-atom="022" data-title="Whether happiness is an operation?" data-chapter="Whether happiness is an operation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether happiness is an operation?" data-chapter="Whether happiness is an operation?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that happiness is not an operation. For the Apostle says (Rom.
 6:22): "You have your fruit unto sanctification, and the end, life everlasting." But life is not an
@@ -1283,7 +1294,7 @@ Risposta all’Obiezione 3: Come affermato nella Metafisica IX, 7, l’azione è
 
 Risposta all’Obiezione 4: Poiché la felicità rappresenta una sorta di perfezione finale; e poiché le varie cose capaci di raggiungere la felicità possono alcanzare gradi diversi di perfezione, deve esserci anche più significati diversi attribuiti alla felicità stessa. In Dio, infatti, la felicità esiste essenzialmente; poiché il Suo stesso Essere è l’atto attraverso cui Egli gode soltanto di Sé stesso. Negli angeli beati, la perfezione finale si realizza attraverso un atto specifico che li unisce al Bene Immutabile; e questo atto è uno solo ed eterno. Negli uomini, invece, considerando lo stato attuale della loro esistenza, la perfezione finale deriva da un atto che li unisce a Dio; ma tale atto non può essere continuo, né quindi uno solo, poiché si interrompe quando l’uomo si allontana da esso. Per questa ragione, nello stato attuale della vita umana, la felicità perfetta non può essere raggiunta. Pertanto, il Filosofo, ponendo la felicità umana in questa vita (Etica I, 10), afferma che essa sia imperfetta; e dopo una lunga discussione conclude: “Chiamiamo gli uomini felici, ma soltanto nel senso che sono uomini”. Tuttavia, Dio ci ha promesso la felicità perfetta quando saremo “come gli angeli in cielo” (Matteo 22:30). Quindi, riguardo a questa felicità perfetta, l’obiezione fallisce: poiché in quel stato la mente umana sarà unita a Dio attraverso un atto continuo ed eterno. Nella vita attuale, invece, nella misura in cui ci manca tale unità e continuità, ci manca anche la felicità perfetta. Tuttavia, si tratta comunque di una partecipazione alla felicità; e tanto più grande è questa partecipazione, quanto più continuo ed unico possa essere quell’atto che conduce alla felicità. Di conseguenza, la vita attiva, impegnata in molte cose, contiene meno felicità rispetto alla vita contemplativa, dedicata a una sola cosa: la contemplazione della verità. E se, in qualche momento, l’uomo non è effettivamente impegnato in questa attività di contemplazione, poiché può sempre tornarvi facilmente, e poiché stesso stabilisce che il sonno o altre occupazioni possano interrompere tale attività, essa appare comunque continua. Da queste considerazioni derivano chiaramente le risposte alle Obiezioni 5 e 6.
 
-<span class="atom-split" data-atom="023" data-title="Whether happiness is an operation of the sensitive part, or of the intellective part only?" data-chapter="Whether happiness is an operation of the sensitive part, or of the intellective part only?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether happiness is an operation of the sensitive part, or of the intellective part only?" data-chapter="Whether happiness is an operation of the sensitive part, or of the intellective part only?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that happiness consists in an operation of the senses also. For there
 is no more excellent operation in man than that of the senses, except the intellective operation. But
@@ -1346,7 +1357,7 @@ Risposta all’Obiezione 2: La felicità perfetta, come quella degli angeli, com
 
 Risposta all’Obiezione 3: Nella felicità perfetta, l’intero essere umano viene perfezionato, nella sua parte inferiore, grazie a un flusso che proviene dalla parte superiore. Ma nella felicità imperfetta di questa vita, le cose sono diverse; progrediamo dalla perfezione della parte inferiore verso quella della parte superiore.
 
-<span class="atom-split" data-atom="024" data-title="Whether, if happiness is in the intellective part, it is an operation of the intellect or of the will?" data-chapter="Whether, if happiness is in the intellective part, it is an operation of the intellect or of the will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether, if happiness is in the intellective part, it is an operation of the intellect or of the will?" data-chapter="Whether, if happiness is in the intellective part, it is an operation of the intellect or of the will?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/will,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that happiness consists in an act of the will. For [Augustine](/figures/augustine) says
 (De Civ. Dei xix, 10,11), that man's happiness consists in peace; wherefore it is written (Ps. 147:3):
@@ -1445,7 +1456,7 @@ Risposta all’Obiezione 4: L’amore è superiore alla conoscenza nel suscitare
 
 Risposta all’Obiezione 5: Chi possiede tutto ciò che desidera è felice, perché ha ciò che vuole; e questo, in effetti, avviene per cause diverse dall’atto della sua volontà. Tuttavia, per essere felici è necessario non desiderare nulla di errato, poiché ciò rappresenta una condizione indispensabile. Una buona volontà rientra tra le cose positive che rendono un uomo felice, in quanto costituisce un’inclinazione della volontà stessa; proprio come un movimento è riconducibile al genere del suo termine finale, ad esempio “cambiamento” appartiene al genere “qualità”.
 
-<span class="atom-split" data-atom="025" data-title="Whether happiness is an operation of the speculative, or of the practical intellect?" data-chapter="Whether happiness is an operation of the speculative, or of the practical intellect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether happiness is an operation of the speculative, or of the practical intellect?" data-chapter="Whether happiness is an operation of the speculative, or of the practical intellect?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that happiness is an operation of the practical intellect. For the end
 of every creature consists in becoming like God. But man is like God, by his practical intellect,
@@ -1506,7 +1517,7 @@ man's last end is something outside of him, to wit, God, to Whom we reach out by
 the speculative intellect; therefore, man's happiness consists in an operation of the speculative
 intellect rather than of the practical intellect.
 
-<span class="atom-split" data-atom="026" data-title="Whether happiness consists in the consideration of speculative sciences?" data-chapter="Whether happiness consists in the consideration of speculative sciences?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether happiness consists in the consideration of speculative sciences?" data-chapter="Whether happiness consists in the consideration of speculative sciences?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man's happiness consists in the consideration of speculative
 sciences. For the Philosopher says (Ethic. i, 13) that "happiness is an operation according to perfect
@@ -1583,7 +1594,7 @@ Risposta all’Obiezione 2: Non solo la felicità perfetta è desiderata natural
 
 Risposta all’Obiezione 3: Il nostro intelletto viene indotto ad agire, in un certo modo, attraverso lo studio delle scienze speculative, ma non fino al suo atto finale e perfetto.
 
-<span class="atom-split" data-atom="027" data-title="Whether happiness consists in the knowledge of separate substances, namely, angels?" data-chapter="Whether happiness consists in the knowledge of separate substances, namely, angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether happiness consists in the knowledge of separate substances, namely, angels?" data-chapter="Whether happiness consists in the knowledge of separate substances, namely, angels?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man's happiness consists in the knowledge of separate
 substances, namely, angels. For Gregory says in a homily (xxvi in Evang.): "It avails nothing to
@@ -1653,7 +1664,7 @@ Risposta all’Obiezione 2: Secondo coloro che ritengono che le anime umane sian
 
 Risposta all’Obiezione 3: La natura inferiore può raggiungere quella superiore in due modi. Primo, in base al grado di potenza che vi partecipa; pertanto, la perfezione finale dell’uomo consiste nel raggiungere una contemplazione simile a quella degli angeli. Secondo, poiché l’oggetto viene ottenuto attraverso la potenza stessa; quindi, la perfezione finale di ogni potenza consiste nel raggiungere ciò che contiene la pienezza del suo oggetto formale.
 
-<span class="atom-split" data-atom="028" data-title="Whether man's happiness consists in the vision of the divine essence?" data-chapter="Whether man's happiness consists in the vision of the divine essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether man's happiness consists in the vision of the divine essence?" data-chapter="Whether man's happiness consists in the vision of the divine essence?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/cause,figures/aristotle"></span>
 
 Objection 1: It would seem that man's happiness does not consist in the vision of the Divine
 Essence. For Dionysius says (Myst. Theol. i) that by that which is highest in his intellect, man is
@@ -1715,7 +1726,7 @@ Risposta all’Obiezione 1: Dionigi parla della conoscenza di coloro che intrapr
 
 Risposta all’Obiezione 2: Come già detto sopra (Q[1], A[8]), il fine può essere inteso in due modi diversi. In primo luogo, riguardo alla cosa stessa che viene desiderata: in questo senso, la stessa cosa costituisce il fine sia della natura superiore che di quella inferiore, e infatti di tutte le cose, come precisato in Q[1], A[8]. In secondo luogo, riguardo all’attuazione concreta di tale desiderio: in questo caso, il fine della natura superiore è diverso da quello della natura inferiore, in base alle rispettive capacità di realizzare tale scopo. Così pure, nella felicità di Dio – che, comprendendo la propria Essenza, la percepisce pienamente – questa felicità è di grado superiore rispetto a quella di un uomo o di un angelo che, pur vedendola, non la comprende appieno.
 
-<span class="atom-split" data-atom="029" data-title="OF THOSE THINGS THAT ARE REQUIRED FOR HAPPINESS (EIGHT ARTICLES)" data-chapter="OF THOSE THINGS THAT ARE REQUIRED FOR HAPPINESS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="OF THOSE THINGS THAT ARE REQUIRED FOR HAPPINESS (EIGHT ARTICLES)" data-chapter="OF THOSE THINGS THAT ARE REQUIRED FOR HAPPINESS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider those things that are required for happiness: and concerning this there
 are eight points of inquiry:
@@ -1740,7 +1751,7 @@ Dobbiamo ora considerare quelle cose che sono necessarie per la felicità; a que
 (7) Sono necessari alcuni beni esterni?  
 (8) È necessaria l’amicizia e la compagnia degli altri?
 
-<span class="atom-split" data-atom="030" data-title="Whether delight is required for happiness?" data-chapter="Whether delight is required for happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether delight is required for happiness?" data-chapter="Whether delight is required for happiness?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that delight is not required for happiness. For [Augustine](/figures/augustine) says (De
 Trin. i, 8) that "vision is the entire reward of faith." But the prize or reward of virtue is happiness,
@@ -1782,7 +1793,7 @@ be less attentive to another: sometimes on account of opposition; thus a sensual
 contrary to reason, hinders the estimate of prudence more than it hinders the estimate of the
 speculative intellect.
 
-<span class="atom-split" data-atom="031" data-title="Whether in happiness vision ranks before delight?" data-chapter="Whether in happiness vision ranks before delight?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether in happiness vision ranks before delight?" data-chapter="Whether in happiness vision ranks before delight?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in happiness, delight ranks before vision. For "delight is the
 perfection of operation" (Ethic. x, 4). But perfection ranks before the thing perfected. Therefore
@@ -1846,7 +1857,7 @@ Risposta all’Obiezione 2: L’intuizione dei sensi non raggiunge il bene unive
 
 Risposta all’Obiezione 3: La carità non sembra essere un bene amato per il semplice piacere che procura; per la carità, il piacere derivante dal realizzare il bene che ama rappresenta soltanto una conseguenza. Pertanto, il piacere non costituisce lo scopo della carità, mentre lo fa la visione, che permette di rendere concreto tale scopo per la carità stessa.
 
-<span class="atom-split" data-atom="032" data-title="Whether comprehension is necessary for happiness?" data-chapter="Whether comprehension is necessary for happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether comprehension is necessary for happiness?" data-chapter="Whether comprehension is necessary for happiness?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that comprehension is not necessary for happiness. For [Augustine](/figures/augustine)
 says (Ad Paulinam de Videndo Deum; [*Cf. Serm. xxxciii De Verb. Dom.]): "To reach God with
@@ -1917,7 +1928,7 @@ Risposta all’Obiezione 2: Proprio come la speranza e l’amore appartengono al
 
 Risposta all’Obiezione 3: La comprensione non è un’operazione distinta dalla visione; bensì una certa relazione rispetto allo scopo già raggiunto attraverso la visione stessa. Pertanto, anche la visione in sé, o l’oggetto visto, nella misura in cui è presente, costituisce l’oggetto della comprensione.
 
-<span class="atom-split" data-atom="033" data-title="Whether rectitude of the will is necessary for happiness?" data-chapter="Whether rectitude of the will is necessary for happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether rectitude of the will is necessary for happiness?" data-chapter="Whether rectitude of the will is necessary for happiness?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/will,concepts/virtue,figures/augustine"></span>
 
 Objection 1: It would seem that rectitude of the will is not necessary for Happiness. For
 Happiness consists essentially in an operation of the intellect, as stated above (Q[3], A[4]). But
@@ -1980,7 +1991,7 @@ Risposta all’Obiezione 2: Ogni atto della volontà è preceduto da un atto del
 
 Risposta all’Obiezione 3: Non tutto ciò che è destinato a un fine specifico cessa di esistere una volta raggiunto tale fine; solo ciò che comporta imperfezioni, come il movimento, smette di essere necessario quando l’obiettivo viene raggiunto. Tuttavia, il corretto ordine nell’attuazione dei mezzi necessari per raggiungere quel fine rimane indispensabile.
 
-<span class="atom-split" data-atom="034" data-title="Whether the body is necessary for man's happiness? (parte 1)" data-chapter="Whether the body is necessary for man's happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether the body is necessary for man's happiness? (parte 1)" data-chapter="Whether the body is necessary for man's happiness?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the body is necessary for Happiness. For the perfection of
 virtue and grace presupposes the perfection of nature. But Happiness is the perfection of virtue and
@@ -2112,7 +2123,7 @@ Risposta all’Obiezione 4: Una cosa può essere ostacolata da un’altra in due
 
 Risposta all’Obiezione 5: Il desiderio dell’anima separata è completamente tranquillo riguardo all’oggetto desiderato, poiché possiede già ciò che basta a soddisfare il suo appetito. Tuttavia, non è completamente tranquillo riguardo al soggetto che desidera, poiché non possiede quel bene in tutti i modi in cui vorrebbe possederlo. Pertanto, dopo la ricongiunzione con il corpo, la Felicità aumenta non in intensità, ma in estensione.
 
-<span class="atom-split" data-atom="035" data-title="Whether the body is necessary for man's happiness? (parte 2)" data-chapter="Whether the body is necessary for man's happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether the body is necessary for man's happiness? (parte 2)" data-chapter="Whether the body is necessary for man's happiness?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,assi/god,positions/beatitude,concepts/soul,schools/scholasticism"></span>
 
 Reply to Objection 6: The statement made (Gen. ad lit. xii, 35) to the effect that "the souls of
 the departed see not God as the angels do," is not to be understood as referring to inequality of
@@ -2125,7 +2136,7 @@ the separated souls of the saints have not.
 
 Risposta all’Obiezione 6: L’affermazione contenuta in Genesi, ad litteram xii, 35, secondo cui “le anime dei defunti non vedono Dio come fanno gli angeli”, non deve essere intesa come riferita a un’ineguaglianza di quantità; infatti anche oggi alcune anime beate vengono elevate ai ranghi più elevati degli angeli, e quindi possono vedere Dio in modo più chiaro rispetto agli angeli inferiori. Si tratta invece di un’ineguaglianza di proporzione: gli angeli, anche i più umili, possiedono tutte le perfezioni della Felicità che potranno mai avere, mentre le anime separate dei santi non le possiedono.
 
-<span class="atom-split" data-atom="036" data-title="Whether perfection of the body is necessary for happiness?" data-chapter="Whether perfection of the body is necessary for happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Whether perfection of the body is necessary for happiness?" data-chapter="Whether perfection of the body is necessary for happiness?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/beatitude,concepts/virtue,figures/augustine"></span>
 
 Objection 1: It would seem that perfection of the body is not necessary for man's perfect
 Happiness. For perfection of the body is a bodily good. But it has been shown above (Q[2]) that
@@ -2198,7 +2209,7 @@ Risposta all’Obiezione 2: Sebbene il corpo non abbia alcun ruolo in quell’op
 
 Risposta all’Obiezione 3: Il perfetto funzionamento dell’intelletto richiede effettivamente che esso venga separato da questo corpo corruttibile che opprime l’anima; ma non dal corpo spirituale, che sarà interamente soggetto allo spirito. Su questo punto tratteremo nella Terza Parte di quest’opera (SS, Q[82], e seguenti).
 
-<span class="atom-split" data-atom="037" data-title="Whether any external goods are necessary for happiness?" data-chapter="Whether any external goods are necessary for happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether any external goods are necessary for happiness?" data-chapter="Whether any external goods are necessary for happiness?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that external goods also are necessary for Happiness. For that which
 is promised the saints for reward, belongs to Happiness. But external goods are promised the saints;
@@ -2234,7 +2245,7 @@ Happiness, since they are ordained to the animal life. And since, in this life, 
 contemplation, as being more Godlike, approaches nearer than that of action to the likeness of that
 perfect Happiness, therefore it stands in less need of these goods of the body as stated in Ethic. x,
 
-<span class="atom-split" data-atom="038" data-title="8." data-chapter="8." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="8." data-chapter="8." data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/revelation,figures/augustine"></span>
 
 Reply to Objection 1: All those material promises contained in Holy [Scripture](/concepts/revelation), are to be
 understood metaphorically, inasmuch as Scripture is wont to express spiritual things under the form
@@ -2261,7 +2272,7 @@ Risposta all’Obiezione 2: Questi beni che servono alla vita animale sono incom
 
 Risposta all’Obiezione 3: Secondo [Agostino](/figures/augustine) (De Serm. Dom. in Monte i, 5), non è il cielo stesso che viene descritto come ricompensa dei santi, ma un cielo elevato al di sopra delle realtà spirituali. Tuttavia, un luogo fisico, ovvero il cielo empireo, sarà destinato ai Beati, non come necessità per la loro felicità, ma in virtù di una certa adattabilità e bellezza che esso possiede.
 
-<span class="atom-split" data-atom="039" data-title="Whether the fellowship of friend is necessary for happiness?" data-chapter="Whether the fellowship of friend is necessary for happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the fellowship of friend is necessary for happiness?" data-chapter="Whether the fellowship of friend is necessary for happiness?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/friendship,concepts/charity,figures/augustine"></span>
 
 Objection 1: It would seem that friends are necessary for Happiness. For future Happiness is
 frequently designated by [Scripture](/concepts/revelation) under the name of "glory." But glory consists in man's good
@@ -2323,7 +2334,7 @@ Risposta all’Obiezione 2: Questa affermazione va intesa nel senso di una posse
 
 Risposta all’Obiezione 3: La perfezione della carità è essenziale per la Felicità, così come per l’amore di Dio, ma non necessariamente per l’amore del prossimo. Pertanto, se esistesse una sola anima che amasse Dio, essa sarebbe felice, anche senza nessuno da amare. Tuttavia, se ci fosse un prossimo da amare, l’amore verso di lui deriverebbe dall’amore perfetto per Dio. Di conseguenza, l’[amicizia](/concepts/friendship) è, in qualche modo, concomitante alla Felicità perfetta.
 
-<span class="atom-split" data-atom="040" data-title="OF THE ATTAINMENT OF HAPPINESS (EIGHT ARTICLES)" data-chapter="OF THE ATTAINMENT OF HAPPINESS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="OF THE ATTAINMENT OF HAPPINESS (EIGHT ARTICLES)" data-chapter="OF THE ATTAINMENT OF HAPPINESS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,assi/god,positions/beatitude"></span>
 
 We must now consider the attainment of Happiness. Under this heading there are eight points
 of inquiry:
@@ -2348,7 +2359,7 @@ Dobbiamo ora considerare l’ottenimento della Felicità. In questa categoria es
 (7) Sono necessarie alcune azioni umane affinché l’uomo possa ottenere la Felicità divina?  
 (8) Tutti gli uomini desiderano la Felicità?
 
-<span class="atom-split" data-atom="041" data-title="Whether man can attain happiness?" data-chapter="Whether man can attain happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether man can attain happiness?" data-chapter="Whether man can attain happiness?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man cannot attain happiness. For just as the rational is above
 the sensible nature, so the intellectual is above the rational, as Dionysius declares (Div. Nom. iv,
@@ -2412,7 +2423,7 @@ Risposta all’Obiezione 2: Per l’uomo nello stato attuale di vita, il modo na
 
 Risposta all’Obiezione 3: L’uomo non può superare gli angeli in termini naturali, per essere quindi naturalmente al di sopra di loro. Tuttavia può superarli attraverso l’operazione dell’intelletto, comprendendo che esiste qualcosa, al di sopra degli angeli, che rende gli uomini felici; e quando lo avrà raggiunto, sarà perfettamente felice.
 
-<span class="atom-split" data-atom="042" data-title="Whether one man can be happier than another?" data-chapter="Whether one man can be happier than another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether one man can be happier than another?" data-chapter="Whether one man can be happier than another?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one man cannot be happier than another. For Happiness is
 "the reward of virtue," as the Philosopher says (Ethic. i, 9). But equal reward is given for all the
@@ -2473,7 +2484,7 @@ Risposta all’Obiezione 2: Si dice che la felicità sia il bene supremo, poich�
 
 Risposta all’Obiezione 3: Nessuno dei Beati manca di alcun bene desiderabile; poiché possiedono il Bene Infinito stesso, che è “il bene di tutti i beni”, come afferma Agostino (Enarr. in Ps. 134). Tuttavia, si dice che uno sia più felice di un altro in base alla diversa misura con cui partecipa dello stesso bene. Inoltre, l’aggiunta di altri beni non aumenta la Felicità, poiché Agostino scrive (Confessioni, V, 4): “Colui che ti conosce, e anche altri, non è più felice per il fatto di conoscerli, ma è felice perché conosce te soltanto.”
 
-<span class="atom-split" data-atom="043" data-title="Whether one can be happy in this life?" data-chapter="Whether one can be happy in this life?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether one can be happy in this life?" data-chapter="Whether one can be happy in this life?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Happiness can be had in this life. For it is written (Ps. 118:1):
 "Blessed are the undefiled in the way, who walk in the law of the Lord." But this happens in this
@@ -2526,7 +2537,7 @@ Reply to Objection 3: Men esteem that there is some kind of happiness to be had 
 on account of a certain likeness to true Happiness. And thus they do not fail altogether in their
 estimate.
 
-<span class="atom-split" data-atom="044" data-title="Whether happiness once had can be lost?" data-chapter="Whether happiness once had can be lost?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="Whether happiness once had can be lost?" data-chapter="Whether happiness once had can be lost?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Happiness can be lost. For Happiness is a perfection. But every
 perfection is in the thing perfected according to the mode of the latter. Since then man is, by his
@@ -2620,7 +2631,7 @@ Risposta all’Obiezione 2: La volontà può essere indirizzata verso opposti, n
 
 Risposta all’Obiezione 3: La felicità ha un inizio a causa della condizione di colui che la vive; ma non ha fine, poiché dipende dalla condizione del bene stesso, della cui partecipazione l’uomo trae la felicità. Pertanto, l’inizio della felicità è dovuto a una determinata causa, mentre la sua infinità deriva da un’altra.
 
-<span class="atom-split" data-atom="045" data-title="Whether man can attain happiness by his natural powers?" data-chapter="Whether man can attain happiness by his natural powers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether man can attain happiness by his natural powers?" data-chapter="Whether man can attain happiness by his natural powers?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man can attain Happiness by his natural powers. For nature
 does not fail in necessary things. But nothing is so necessary to man as that by which he attains the
@@ -2695,7 +2706,7 @@ Risposta all’Obiezione 2: La natura che può raggiungere il bene perfetto, seb
 
 Risposta all’Obiezione 3: Quando l’imperfetto e il perfetto appartengono alla stessa specie, possono essere causati dalla stessa forza. Tuttavia, ciò non segue necessariamente se appartengono a specie diverse: infatti, non tutto ciò che può determinare una certa disposizione della materia è in grado di produrre la perfezione finale. Ora, l’operazione imperfetta, soggetta al potere naturale dell’uomo, non appartiene alla stessa specie dell’operazione perfetta, che rappresenta la felicità umana; poiché l’operazione riceve la sua specie dal suo oggetto. Pertanto, questo argomento non è convincente.
 
-<span class="atom-split" data-atom="046" data-title="Whether man attains happiness through the action of some higher creature?" data-chapter="Whether man attains happiness through the action of some higher creature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether man attains happiness through the action of some higher creature?" data-chapter="Whether man attains happiness through the action of some higher creature?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/act_potency,concepts/grace"></span>
 
 Objection 1: It would seem that man can be made happy through the action of some higher
 creature, viz. an angel. For since we observe a twofold order in things---one, of the parts of the
@@ -2766,7 +2777,7 @@ Risposta all’Obiezione 2: Quando una forma esiste in modo perfetto e naturale 
 
 Risposta all’Obiezione 3: Un angelo beato illumina l’intelletto di un uomo o di un angelo inferiore riguardo a determinate nozioni sulle opere divine; ma non riguardo alla visione dell’Essenza divina, come è stato detto nel FP, Q[106], A[1]: poiché per vedere ciò, tutti vengono immediatamente illuminati da Dio.
 
-<span class="atom-split" data-atom="047" data-title="Whether any good works are necessary that man may receive happiness from God?" data-chapter="Whether any good works are necessary that man may receive happiness from God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Whether any good works are necessary that man may receive happiness from God?" data-chapter="Whether any good works are necessary that man may receive happiness from God?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/beatitude,concepts/eudaimonia,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no works of man are necessary that he may obtain Happiness
 from God. For since God is an agent of infinite power, He requires before acting, neither matter,
@@ -2839,7 +2850,7 @@ Risposta all’Obiezione 2: Dio ha creato le prime creature in modo che fossero 
 
 Risposta all’Obiezione 3: L’Apostolo parla della Felicità della Speranza, quella che ci viene concessa dalla grazia santificante, e che non deriva da opere precedenti. La grazia, infatti, non è un elemento che determini un movimento verso la felicità, come lo è invece la speranza stessa; piuttosto, la grazia rappresenta il principio di quel movimento che conduce alla felicità.
 
-<span class="atom-split" data-atom="048" data-title="Whether every man desires happiness?" data-chapter="Whether every man desires happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether every man desires happiness?" data-chapter="Whether every man desires happiness?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that not all desire Happiness. For no man can desire what he knows
 not; since the apprehended good is the object of the appetite (De [Anima](/concepts/soul) iii, 10). But many know

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short laudatory review (1910) of Menéndez Pidal, praised for making Europeanism out of old Castilian epic poetry and breaking with barbarous provincialism. A journalistic note.
+> A short note (249 words) on Menéndez Pidal's 'La epopeya castellana'. The digest carries no sample, so the content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

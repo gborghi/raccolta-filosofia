@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Organisational note describing the Agrupación's regional structure and dues (committees, delegates, secretaries, treasurers) and the division of territory. An internal practical document.
+> A very short piece (245 words) for which the digest provides no prose sample: the title suggests a note on organisation and membership dues, but the content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -8,7 +8,7 @@ aliases:
   - "Schönheit"
   - "arte"
   - "art"
-work_count: 111
+work_count: 107
 tags:
   - "graph/concept"
 title: "bellezza"
@@ -17,7 +17,7 @@ title: "bellezza"
 
 *beauty*
 
-## Opere (111)
+## Opere (107)
 
 **Aristotle**
 - [Poetics (1447a)](/testi/aristotle/poetics_1447a)
@@ -48,7 +48,6 @@ title: "bellezza"
 - [Arte artístico](/testi/ortega-y-gasset/arte_artístico)
 - [Arte de este mundo y del otro](/testi/ortega-y-gasset/arte_de_este_mundo_y_del_otro)
 - [Autopsia](/testi/ortega-y-gasset/autopsia)
-- [Caricaturas de Bagaría](/testi/ortega-y-gasset/caricaturas_de_bagaría)
 - [Comienza la deshumanización del arte](/testi/ortega-y-gasset/comienza_la_deshumanización_del_arte)
 - [Conclusión](/testi/ortega-y-gasset/conclusión)
 - [Cuestiones novelescas](/testi/ortega-y-gasset/cuestiones_novelescas)
@@ -70,16 +69,13 @@ title: "bellezza"
 - [Elogio del Murciélago](/testi/ortega-y-gasset/elogio_del_murciélago)
 - [En el desierto un león más](/testi/ortega-y-gasset/en_el_desierto_un_león_más)
 - [Ensayo de estética a manera de prólogo](/testi/ortega-y-gasset/ensayo_de_estética_a_manera_de_prólogo)
-- [Envío 2](/testi/ortega-y-gasset/envío_2)
 - [Estafeta romántica Eva ausente](/testi/ortega-y-gasset/estafeta_romántica_eva_ausente)
 - [Estafeta romántica Un poeta indo](/testi/ortega-y-gasset/estafeta_romántica_un_poeta_indo)
 - [Estética en el tranvía](/testi/ortega-y-gasset/estética_en_el_tranvía)
-- [Fracaso](/testi/ortega-y-gasset/fracaso)
 - [Góngora 1627-1927](/testi/ortega-y-gasset/góngora_1627-1927)
 - [Hermetismo](/testi/ortega-y-gasset/hermetismo)
 - [Iconoclasia](/testi/ortega-y-gasset/iconoclasia)
 - [Ideas sobre Pío Baroja](/testi/ortega-y-gasset/ideas_sobre_pío_baroja)
-- [Ideas sobre la novela](/testi/ortega-y-gasset/ideas_sobre_la_novela)
 - [Impopularidad del arte nuevo](/testi/ortega-y-gasset/impopularidad_del_arte_nuevo)
 - [Influencia negativa del pasado](/testi/ortega-y-gasset/influencia_negativa_del_pasado)
 - [¿Instituciones?](/testi/ortega-y-gasset/instituciones)
@@ -88,7 +84,6 @@ title: "bellezza"
 - [Irónico destino](/testi/ortega-y-gasset/irónico_destino)
 - [La Gioconda](/testi/ortega-y-gasset/la_gioconda)
 - [La Sonata de estío de Don Ramón del Valle-Inclán](/testi/ortega-y-gasset/la_sonata_de_estío_de_don_ramón_del_valle-inclán)
-- [La boca del telón](/testi/ortega-y-gasset/la_boca_del_telón)
 - [La estética de El enano Gregorio El Botero](/testi/ortega-y-gasset/la_estética_de_el_enano_gregorio_el_botero)
 - [La intrascendencia del arte](/testi/ortega-y-gasset/la_intrascendencia_del_arte)
 - [La intuición radical de Azorín](/testi/ortega-y-gasset/la_intuición_radical_de_azorín)
@@ -108,6 +103,7 @@ title: "bellezza"
 - [Los versos de Antonio Machado](/testi/ortega-y-gasset/los_versos_de_antonio_machado)
 - [Marco, traje y adorno](/testi/ortega-y-gasset/marco_traje_y_adorno)
 - [Mauricio Barrès](/testi/ortega-y-gasset/mauricio_barrès)
+- Meditación_primera_Breve_tratado_de_la_novela
 - [Meier-Graefe](/testi/ortega-y-gasset/meier-graefe)
 - [Musicalia](/testi/ortega-y-gasset/musicalia)
 - [No definir](/testi/ortega-y-gasset/no_definir)

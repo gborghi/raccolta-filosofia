@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Literary criticism on Azorín, poet of habit, set against Baroja and against Ortega's own wish for an art of the heroic and the invented. It shows that Azorín individuates his figures by typical, commonplace traits—'Pío Cid wore a rumpled tie'—so that in his pages the concrete always coincides with the general.
+
+## Connections
+
+**Concetti:** [[concepts/custom|abitudine]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Prologue-essay on travel: when one life meets another a vital exaltation occurs; travel intensifies existence by seeking different ways of life, and Spain remains the West's last country not standardised to reason.
+> The digest carries no text sample at all (0 atoms): only the title and length (about 1,044 words) are given. The content cannot be judged from what is provided; no tags assigned.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

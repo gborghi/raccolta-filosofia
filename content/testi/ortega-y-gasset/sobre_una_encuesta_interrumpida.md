@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > 'What is happening in Europe?': newspapers never touch the historical reality, which is never 'current affairs', and abstract generalizations (decadence, crisis) say far too little. The method must be symptomatic, and the symptom chosen is the Revue Hebdomadaire's survey of young French writers' political thought, cut short because it exposed their political void.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

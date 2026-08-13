@@ -10,6 +10,8 @@ tags:
   - "philosopher/rousseau"
 ---
 
+*Rousseau*
+
 > [!abstract]
 > A lyric scene on Pygmalion, who falls in love with his own statue Galatea and sees her come to life. A theatrical melologue, without systematic philosophical content.
 
@@ -113,6 +115,102 @@ Ah ! que Pygmalion meure pour vivre dans Galathée ! Que dis-je, ô ciel ! Si j'
 Tourments, voeux, désirs, rage, impuissance, amour terrible, amour funeste oh ! tout l'enfer est dans mon cœur agité.... Dieux puissants, dieux bienfaisants, dieux du peuple, qui connûtes les passions des hommes, ah ! vous avez tant fait de prodiges pour de moindres causes ! voyez cet objet, voyez mon cœur, soyez justes, et méritez vos autels.
 
 (Avec un enthousiasme plus pathétique.)
+
+<span class="qlang-split" data-lang="en"></span>
+
+There is no soul or life in it; it is merely stone. I will never do anything with it.
+
+Oh my genius! Where are you? What has become of my talent? All my passion has faded away, my imagination has turned to ice; even the marble comes out cold from my hands.
+
+Pygmalion, cease to create gods—you are but a mere artist. Wretched instruments that are no longer tools of my glory, go now, do not dishonor my hands.
+
+(He casts his tools aside with disdain, then walks around in a daze for a while, his arms crossed.)
+
+What have I become? What strange revolution has taken place within me?.
+
+Tyr, a city of great wealth and beauty—those monuments of art that once delighted me no longer attract me; I have lost the pleasure I once found in admiring them. The dealings with artists and philosophers seem insipid to me; supporting painters and poets holds no allure anymore; praise and glory no longer elevate my soul; the compliments of those who will be honored by future generations no longer move me, and even friendship has lost its charm for me.
+
+And you, young ones, masterpieces of nature that my art dared to imitate, and whose footsteps constantly led me toward pleasure—you, my charming models who both inspired me with the flames of love and genius—now that I have surpassed you, you are all indifferent to me.
+
+(He sits down and looks around at everything around him.)
+
+Trapped in this workshop by an inconceivable charm, I don’t know what to do there, and I cannot leave. I wander from one group to another, from one figure to another; my weak, uncertain scissors can no longer recognize their guide—these crude works, left at their timid beginnings, no longer carry the imprint of the hand that once brought them to life.
+
+(He gets up abruptly.)
+
+It’s over, it’s over; I have lost my genius, so young yet, I am now surviving on what remains of my talent.
+
+But what exactly is this inner fervor that consumes me? What lies within me that seems to set me on fire? How can it be—within the languor of a extinguished genius, one still perceive these emotions, these surges of impetuous passion, this overwhelming anxiety, this secret turmoil that plagues me and whose cause I cannot fathom?
+
+I feared that admiration for my own work might cause the distraction that I already brought to my tasks; so I hid it behind this veil. My profane hands dared to cover this monument of my own glory. Now that I no longer see it, I am even sadder and less attentive than before.
+
+How dear, how precious to me will be this immortal work! When my mind can no longer produce anything great, beautiful, or worthy of me, I shall show my “Galathée” and say: “Here is my work.” O my Galathée! When I have lost everything else, you will remain with me, and I shall be consoled.
+
+(He approaches the pavilion, then steps back; he comes and goes, occasionally stopping to look at it while sighing.)
+
+But why hide it? What do I gain from doing so? Reduced to idleness, why should I be deprived of the pleasure of contemplating my most beautiful creation?. Perhaps there is some defect that I have not noticed; perhaps I can still add some embellishment to its appearance: no conceivable grace should be lacking in an object so charming. Perhaps this object will revive my languishing imagination. I must see it again, examine it once more. What am I saying? Ah! I haven’t even examined it yet; so far, I have only admired it.
+
+(He attempts to lift the veil, but lets it fall back down, as if frightened.)
+
+I do not know what emotion overcomes me when I touch this veil; a sense of fear grips me—I feel as if I am touching the sanctuary of some deity. Pygmalion, it is just a stone, your creation. What does it matter? In our temples, we worship gods made of no other material, crafted by no other hands.
+
+(He lifts the veil tremblingly and kneels down. One can see the statue of Galatea standing on a very small pedestal, but elevated by a marble stepway consisting of a few semi-circular steps.)
+
+O Galatea! Accept my homage. Yes, I erred: I sought to make you a nymph, but instead I made you a goddess. Even Venus is less beautiful than you.
+
+Vanity, human weakness! I can never cease admiring my own work; I am intoxicated with [self-love](/concepts/amour_propre); I adore what I have created. No, nothing so beautiful has ever appeared in nature; I have surpassed even the works of the gods.
+
+What! So much beauty comes from my hands! It must mean that my hands have touched these materials, my mouth must have had some role in creating this. But I see a flaw: this garment covers too much of the bare skin; it needs to be cut more open so that the charms it hides can be better revealed.
+
+(He takes his mallet and his chisel; then, moving slowly forward, he hesitantly begins to climb the steps of the statue, as if not daring to touch it. Finally, with the chisel already raised, he stops.)
+
+What a trembling! What a turmoil!. I hold the scissors in my hand, but my grip is unsteady. I can't. I dare not. I'll ruin everything.
+
+(He encourages himself; and finally, holding up his scissors, he takes just one cut—then, overcome by terror, he drops them and lets out a loud cry.)
+
+Heavens! I feel the pulsing flesh resisting the scissors.
+
+(He descends again, trembling and confused.)
+
+, Vain terror, foolish blindness!. No. I will not touch it; the gods fill me with fear. Surely it has already been dedicated to their rank.
+
+(He looks at her again.)
+
+What do you want to change? Look, what new charms do you wish to grant her?. Ah! It is precisely her perfection that constitutes her flaw. Divine Galatea! If you were less perfect, you would lack nothing at all.
+
+(Tenderly.)
+
+But you lack a soul; your face cannot do without it.
+
+(With even more tenderness.)
+
+What a beautiful soul must be that which is meant to animate such a body!
+
+(He pauses for a long time; then, returning to sit down, he says in a slow and changed voice:)
+
+What desires dare I harbor! What insane wishes! What am I feeling?. Oh heaven! The veil of illusion falls away, and I dare not look into my own heart—there would be too much to condemn.
+
+(A long pause, filled with profound desolation.)
+
+, Such is then the noble passion that leads me astray! It is for this inanimate object that I dare not leave this place!. A block of marble! A stone! An shapeless, hard mass, shaped by this iron!. Insane man, turn within yourself; lament your own fate; see your mistake, see your madness.
+
+. But no.
+
+(Impatiently.)
+
+No, I have not lost my senses; no, I am not deluding myself; no, I am reproaching myself for nothing. It is not this lifeless marble that captivates me, but a living being that resembles it, it is the form it presents before my eyes. No matter where this adorable form may be, whatever body carries it, and whatever hand created it, it will hold all the desires of my heart. Yes, my only “madness” is to recognize beauty; my only “crime” is to be sensitive to it. There is nothing in this that I should be ashamed of.
+
+(Not as passionately, but still with fervor.)
+
+What fiery qualities seem to emanate from this object, igniting my senses and carrying my soul back to their origin! Alas, it remains motionless and cold, while my heart, ignited by its charm, longs to leave my body in order to warm its own. In my delirium, I believe I could burst forth from within myself; I believe I could give it my life and infuse it with my soul.
+
+Ah! May Pygmalion die that I may live within Galatea! What am I saying—oh heavens! If I were her, I would not see her; I would not be the one who loves her. No, let my Galatea live, and let me not be her. Ah! Let me always be someone else, so that I can always desire to be her, to see her, to love her, to be loved by her!.
+
+(Transport.)
+
+Torments, wishes, desires, rage, powerlessness, terrible love, fatal love—oh! The entire hell exists within this turbulent heart of mine. Mighty gods, benevolent gods, gods who truly understand human passions, ah! You have performed so many miracles for far less causes! Look at this object, look at my heart—be just, and deserve your altars.
+
+(With even more pathetic enthusiasm.)
 
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Editorial note (1924) presenting an unpublished study by Benjamin Crémieux on Proust, deemed the best written on his work; it announces a future rejoinder. An editorial note.
+> A 203-word note with no sample in the digest: from the title, an editorial note apropos Benjamin Crémieux's Marcel Proust. Content unverifiable.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

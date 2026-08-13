@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A dialogue between the 'Spanish mystic' Rubín de Cendoya and a progressive friend: Europe is not turning reactionary but restorative, and the two must be distinguished. Restoration is a methodic return to the old, like Descartes's methodic doubt which feeds faith ('faith, to live, eats doubt'); reaction instead wants to halt in the past and is the enemy of spirit.
+
+## Connections
+
+**Assi:** [[assi/method|Metodo]]  
+**Posizioni:** [[positions/methodic_doubt|dubbio metodico]]  
+**Concetti:** [[concepts/faith|fede]]  
+**Figure:** [[figures/leibniz|Leibniz]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -156,7 +166,7 @@ II
 
 —Si riferisce lei, per esempio, all'algarata filosofico-politica dei realisti francesi?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/method,positions/methodic_doubt,concepts/faith,figures/leibniz,forms/dialogue"></span>
 
 —No es el mejor ejemplo, pero es un dato. El realismo gana terreno en Francia; el señor Carlos Maurras escribe y tonitrúa conduciendo una hueste, cada vez más numerosa, de jóvenes que arden en monárquicos furores. No obstante los razonamientos del señor Maurras no ofrecen flanco a la serena aquiescencia. Son tópicas ornamentales, críticas caprichosas y vagos proyectos. Pero no es lo importante esta restauración monárquica. La restauración hacia que vamos es más grave y honda. Es la restauración del irracionalismo, y como toda la edad moderna es un régimen racionalista, pudiera decirse que a donde vamos de cabeza es a una restauración de la Edad Media.
 

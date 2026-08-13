@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against the commonplace of Spanish individualism: from the historical record one may only infer that we are not collectivists, not that we are individualists — individualism is a passion for peculiarity, and ours is the race poorest in men of genius and without heterodox thinkers. Following Oliveira Martins, he proposes "cabilismo" or bandism as the middle term: in Europe politics is made with parties gathered around an idea, here with bands gathered around a man.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

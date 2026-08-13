@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Political polemic: the radical disease of Spanish public life is not the right/left divide but indecency in the exercise of public power ('today's Spanish state is anarchy with the official gazette in hand'), against the commonplace of those who preach attending only to 'concrete problems'. Not a philosophical text.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -138,7 +145,7 @@ III
 
 Questo vuol dire che non sono separabili i problemi parziali o «concreti» dagli integrali o fondamentali. E meno che altri quello della moneta. La moneta è un organo dello Stato che si nutre di fiducia. Non può lo straniero avere fiducia in una moneta se non la ha nello Stato di cui essa è organo di pagamento internazionale. E non può lo straniero avere fiducia in uno Stato quando gli indigeni non ce l'hanno nemmeno. Senza ricostituire l'interna personalità storica della Spagna è inutile pretendere di ricostituire isolatamente uno dei suoi attributi come il crematistico. Il decisivo nella stabilizzazione della sterlina non lo fecero gli economisti, ma il popolo inglese. Durante il 1920 e quasi tutto il 1921, prima che cominciassero ad agire le disposizioni deflazioniste, si produce spontaneamente una grande bassa di prezzi, e questa e non quelle disposizioni è ciò che origina la deflazione. Ora: fenomeno tale non è verosimile se non in un popolo che ha fiducia nel suo Stato e si sente solidale di esso.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 En España, la estabilización —y conste que no entiendo de estos asuntos— es, como problema estrictamente técnico y de «idea», cosa que puede hacerla un niño: por el reducido volumen de nuestra economía, por la gravedad incomparablemente menor de nuestra situación comparada con las naciones beligerantes, y en fin, por llegarnos la hora después de la experiencia lograda en tantas otras estabilizaciones recientes. Conviene, pues, evitar esos aires de «iniciados» que toman los señores del tópico, entre los cuales no hay un solo economista auténtico.
 
@@ -294,7 +301,7 @@ Per mala ventura del signor Cambó, il panorama politico d'Europa risulta essere
 
 L'Italia si occupa a costruire niente meno che uno Stato; nell'opinione degli italiani, nuovissimo e senza precedenti nella storia. Giorno per giorno si affanna a inventare nuove istituzioni di Potere pubblico.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 En Alemania pelean por las calles las multitudes, no con motivo de «problemas concretos», por ejemplo, el ligerísimo de sus cinco millones de obreros parados, sino sobre la Constitución, sobre democracia o autoritarismo, internacionalismo o nacionalismo.
 

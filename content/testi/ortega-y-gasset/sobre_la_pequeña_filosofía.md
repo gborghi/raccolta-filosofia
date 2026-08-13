@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Ortega praises Azorín as a born artist and demolishes him as a thinker: his few weighty readings led him to write on politics and philosophy, turning a great man of letters into a very poor thinker. The occasion is Azorín's defence of the bishop of Orihuela and his muddle about the 'two democracies'. Polemical literary criticism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +108,7 @@ Tutto questo mi lusinga, perché alimenta le mie convinzioni. Peccato che resti 
 
 Da dove proviene l'errore del signor Azorín? Molto semplice, e questa è la cosa esemplare. Il signor Azorín, così cauto e verace artista, dedica alla saggezza le parti meno attente, nobili e acute del suo spirito. Come tutti i realisti, non è fatto alla rispettosità casta nel maneggio delle astrazioni: appena esce dalle cose sensibili, gli sembra che tutto sia indifferente e che, quindi, sia superfluo il rigore del metodo e la continenza dell'intelletto. Il signor Azorín non conosce la Critica della ragion pura; ha letto Schopenhauer, che è molto più ameno. E Schopenhauer, che era un cattivo uomo, fu, per conseguenza, un cattivo filosofo: fu un grande sofista e, per conseguenza, un grande letterato. Azorín lo ha letto per arricchire il suo stile, e non ha notato che Schopenhauer sconobbe completamente Kant e che, con gravissima menomazione dell'onestà scientifica, giunse a falsificare le sue citazioni. In questo grande feuilletonista della metafisica ha letto Azorín che la Critica della ragion pura è un'opera classica, ma che la Critica della ragion pratica è una sciocchezza. Senza curarsi di rettificare tali opinioni, le ha ripetute, mentre oggi valgono come prototipo di volgarità.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Y es lamentable; porque justamente en esas otras dos obras de Kant habría hallado la fundamentación científica de la única y verdadera democracia, la democracia como ley de la moralidad. Demás de esto, habría advertido que siendo la democracia producto y fórmula de la moral autonómica, es «excusado decir» que un obispo católico ha de combatirla. Yo sentiría mucho que esto enoje al señor Azorín, pero la idea democrática, en su plenario y estricto sentido, no es posible dentro del catolicismo y de su moral heteronómica. Tan no es posible, que históricamente viene a ser la flor del «cactus» luterano abierta al cabo de tres siglos de gestación.
 

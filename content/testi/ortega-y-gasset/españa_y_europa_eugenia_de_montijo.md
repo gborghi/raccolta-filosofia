@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Obituary column on Eugénie de Montijo: what matters is not that she was an Empress but that an Empress was Eugénie de Montijo; her mission was to create a type of femininity, not to do politics. A journalistic portrait with no philosophical content.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

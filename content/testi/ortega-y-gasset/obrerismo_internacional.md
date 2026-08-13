@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article (El Sol, 1920) on the ultimatum sent by French, Italian and Portuguese workers to the Spanish government demanding the lifting of the suspension of guarantees and the freeing of political prisoners: Ortega does not believe in abstract internationalism, convicted of farce by the war, but finds the irritation justified and refuses to cover with the mantle of patriotism rulers who trample constitutional rights. Political journalism.
+
+## Connections
+
+**Concetti:** [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

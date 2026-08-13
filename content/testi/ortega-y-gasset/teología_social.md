@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Closing of a course on social pedagogy: of the two spiritual powers contending for Spain's future, culture and religion, Ortega argues culture is socially more fruitful, and reads the idea of God in its social interpretation — God as the cement among men, the individual divinised in the collectivity ('seek the fourth dimension of your I: your neighbour').
+
+## Connections
+
+**Assi:** [[assi/god|Dio]]  
+**Concetti:** [[concepts/religion|religione]], [[concepts/education|educazione]]  
+**Figure:** [[figures/spinoza|Spinoza]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

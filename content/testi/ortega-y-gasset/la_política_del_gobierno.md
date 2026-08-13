@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A speech on the Republic's provisional government: it should have preserved the national unity just won and declared itself an integral state above all partisanship; instead each minister went out "shotgun in hand" to bag decrees for his own clientele, leaving the Republic at the mercy of particular demands.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A dispatch for La Prensa (1913) on the crisis after Canalejas's death: the king reappoints the liberals without consultation, the conservatives are dismayed, and Maura withdraws from politics. Ortega reads Maura's letter as a document representative of an era. Political chronicle.
 

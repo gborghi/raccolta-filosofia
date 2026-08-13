@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Prologue to the Libros del siglo XIX series presenting Guizot's course: to understand the present one must study nineteenth-century European history; it develops the idea that surface events are never what is truly happening.
+> FLAG: 1,180 words declared but 0 atoms and no sample in the digest. The title indicates a note on Guizot and the History of Civilisation in Europe, but the content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

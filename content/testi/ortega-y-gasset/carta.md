@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A letter to Roberto Castrovido (El País, 21 November 1913) about the tribute to Azorín: Ortega asks that it take no tone of tumult or coercion against the Academy, since "that lady is impregnable", and that seats not be assigned by plebiscite — democracy belongs at the polls, academies should govern themselves by vaguely aristocratic procedures. An occasional literary letter.
+
+## Connections
+
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

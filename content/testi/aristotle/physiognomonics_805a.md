@@ -12,8 +12,16 @@ tags:
   - "philosopher/aristotle"
 ---
 
+*Aristotle*
+
 > [!abstract]
 > Spurious short treatise defending the possibility of physiognomy — inferring mental character from bodily form — on the basis of the mutual connection between soul and body, while criticizing overly simplistic methods based on animal or facial traits alone.
+
+## Connections
+
+**Concetti:** [[concepts/soul|anima]], [[concepts/passion|passione]]  
+**Forme:** [[forms/treatise|trattato]]  
+**Scuole:** [[schools/lyceum|Liceo (peripatetici)]]
 
 <p class="work-source">Traduzione di T. Loveday and E. S. Forster · Delphi Classics, 2013 · pubblico dominio</p>
 
@@ -40,7 +48,7 @@ T. L.
 
 E. S. F.
 
-<span class="atom-split" data-atom="002" data-title="PHYSIOGNOMONICA (parte 1)" data-chapter="PHYSIOGNOMONICA" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="PHYSIOGNOMONICA (parte 1)" data-chapter="PHYSIOGNOMONICA" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,assi/method,concepts/anger"></span>
 
 MENTAL character is not independent of and unaffected by bodily processes, but is conditioned by [the state](/concepts/state) of the body; and contrariwise the body is sympathetically influenced by affections of the soul. The former of these propositions is well exemplified by drunkenness and sickness, where altered bodily conditions produce obvious mental modifications, and the second by the emotions of love and fear, and by states of pleasure and pain. But still better instances of the fundamental connexion of body and soul and their very extensive interaction may be found in the normal products of nature. There never was an animal with the form of one kind and the mental character of another: the [soul and body](/axes/soul_body) appropriate to the same kind always go together, and this shows that a specific body involves a specific mental character. Moreover, experts on the lower animals are always able to judge of character by bodily form: it is thus that a horseman chooses his horse or a sportsman his dogs. Now, supposing all this to be true (and it always is true), physiognomy must be practicable.
 
@@ -104,7 +112,7 @@ Quando la carne è dura e costituzionalmente soda, indica ottusità di senso; qu
 
 I movimenti letargici sono segno di un carattere molle, i movimenti rapidi di un temperamento fervido.
 
-<span class="atom-split" data-atom="003" data-title="PHYSIOGNOMONICA (parte 2)" data-chapter="PHYSIOGNOMONICA" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="PHYSIOGNOMONICA (parte 2)" data-chapter="PHYSIOGNOMONICA" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/passion,forms/treatise,schools/lyceum"></span>
 
 As to the voice, when deep and full it is a sign of courage; when high-pitched and languid, of cowardice.
 
@@ -200,7 +208,7 @@ La loquacità è indicata da una dimensione sproporzionata delle parti superiori
 
 Una buona memoria è significata quando le parti superiori sono sproporzionatamente piccole, e sono delicate e tollerabilmente ben coperte di carne.
 
-<span class="atom-split" data-atom="004" data-title="PHYSIOGNOMONICA (parte 3)" data-chapter="PHYSIOGNOMONICA" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="PHYSIOGNOMONICA (parte 3)" data-chapter="PHYSIOGNOMONICA" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,assi/method"></span>
 
 [SOUL and body](/axes/soul_body), as it seems to me, are affected sympathetically by one another: on the one hand, an alteration of [the state](/concepts/state) of the soul produces an alteration in the form of the body, and contrariwise an alteration in bodily form produces an alteration in the state of soul. Grief and joy, to take an instance, are states of the soul, and every one knows that grief involves a gloomy and joy a cheerful countenance. Now if it were the case that the external expression persisted after the soul had got rid of these emotions, we might still say that soul and body are in [sympathy](/positions/moral_sentiment), but their sympathetic changes would not be entirely concomitant. As a matter of fact, however, it is obvious that every modification of the one involves a modification of the other. The best instance of this is to be found in manic insanity. Mania, it is generally allowed, is a condition of the soul, yet doctors cure it partly by administering purgative drugs to the body, partly by prescribing, besides these, certain courses of diet. Thus the result of proper treatment of the body is that they succeed, and that too simultaneously, not only in altering the physical condition, but also in curing the soul of mania; and the fact that the changes are simultaneous proves that the sympathetic modifications of body and soul are thoroughly concomitant.
 
@@ -252,7 +260,7 @@ Un piede grande e ben formato, ben articolato e nerboruto, è ritenuto segno di 
 
 Le caviglie nerborute e ben articolate denotano un carattere forte, secondo quanto si osserva nel sesso maschile; le caviglie carnose e mal articolate, un carattere molle, secondo quanto si osserva nel sesso femminile.
 
-<span class="atom-split" data-atom="005" data-title="PHYSIOGNOMONICA (parte 4)" data-chapter="PHYSIOGNOMONICA" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="PHYSIOGNOMONICA (parte 4)" data-chapter="PHYSIOGNOMONICA" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/passion,forms/treatise,schools/lyceum"></span>
 
 When the lower leg is at once well-articulated and sinewy and stalwart, it signifies a strong character, as in the male; sex: when it is thin and sinewy it signifies loquacity, as in birds. When it is full and almost bursting, it signifies by congruity blatant effrontery.
 
@@ -336,7 +344,7 @@ Gli uomini con orecchie piccole hanno la disposizione delle scimmie, quelli con 
 
 Una tinta troppo nera contrassegna il codardo, come testimoniano gli Egizi e gli Etiopi, e così pure una carnagione troppo bianca, come si può vedere nelle donne. Dunque la tinta che produce il coraggio dev'essere intermedia tra questi estremi. Un colore fulvo indica un animo ardito, come nei leoni; ma una tinta troppo rubiconda contrassegna un furfante, come nel caso della volpe. Una tinta pallida e chiazzata significa codardia, poiché è il colore che si assume nel terrore. I pallidi color miele sono freddi, e la freddezza significa immobilità, e un corpo immobile significa lentezza. Un colore rosso indica impetuosità, poiché tutte le parti del corpo, riscaldate dal movimento, diventano rosse. Una pelle infuocata, invece, indica mania, poiché deriva da un corpo surriscaldato, ed è probabile che un calore corporeo estremo significhi mania.
 
-<span class="atom-split" data-atom="006" data-title="PHYSIOGNOMONICA (parte 5)" data-chapter="PHYSIOGNOMONICA" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="PHYSIOGNOMONICA (parte 5)" data-chapter="PHYSIOGNOMONICA" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/passion,forms/treatise,schools/lyceum"></span>
 
 A fiery colour on the chest signifies irascibility, for it is part of the expression of the onset of [anger](/concepts/anger). Swollen veins on the neck and temples also signify irascibility, being part of the expression of anger. A face that reddens easily marks a bashful man, for blushing is an expression of bashfulness. But when the jowl goes red, you have a drunkard, for a red jowl is an expression of heavy drinking: whilst eyes that flush red indicate uncontrollable temper, for in a wild outburst of temper the eyes flush red. If the eyes are too black, they signify cowardice, for we saw above that this is the signification of too black a hue: if they are not too black, but inclining to chestnut, they indicate a bold spirit. Grey or white eyes indicate cowardice, for we saw above that this is the signification of a white hue: but if they are gleaming rather than grey, t hey mean a bold spirit, as in lions and eagles. Goatish eyes mean lustfulness, as in goats: fiery eyes, impudence, as in dogs: eyes pale and mottled, cowardice, for in terror the eyes go pale with splotches of colour: glistening eyes, lasciviousness, on the analogy of the cock and the raven.
 

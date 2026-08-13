@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Essay on Philip II's ideal and the Escorial: God as a concrete, not abstract, idea, and religion as the idealization of man's better parts (the cult one half of the individual pays to the other).
+> A short piece (303 words) for which the digest provides no sample, so its content cannot be judged. The title is the Jesuit motto "To the greater glory of God", but nothing in the digest allows the subject to be determined.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

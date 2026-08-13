@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against Lerroux's proposal to suspend the jury in Barcelona: a liberal may accept its suspension in determinate circumstances, but not when the jury has acted without irregularity and the judges who would replace it offer no better guarantee. The question is badly posed: the real ill is the general disorder of justice and law in Spain.
+
+## Connections
+
+**Concetti:** [[concepts/justice|giustizia]], [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

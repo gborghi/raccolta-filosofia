@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A May Day piece: the workers' march seen from the corner of La Equitativa. 'The people' is a poetic idealization; the reality is the worker. The Feast of Labour is the Feast of Pain, since work is essential pain. Democracy makes sense precisely because the plebs is as it is: relishing the plebeian is the aristocrat's anti-democratic emotion.
+
+## Connections
+
+**Concetti:** [[concepts/labour|lavoro]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

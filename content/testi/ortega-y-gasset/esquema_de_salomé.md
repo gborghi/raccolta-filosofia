@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay in the «morphology» of the feminine: Judith and Salome as limit cases, the «woman of prey». Ortega defines femininity as giving oneself to another person and masculinity as seizing another, and explains Salome by the atrophy of effort in someone whose every wish is granted. Speculative psychology rather than systematic philosophy.
+
+## Connections
+
+**Concetti:** [[concepts/passion|passione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

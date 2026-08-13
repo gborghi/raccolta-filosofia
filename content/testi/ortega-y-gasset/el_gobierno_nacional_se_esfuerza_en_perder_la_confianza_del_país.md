@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> El Sol editorial criticizing the inaction and mediocrity of Maura's national Cabinet, squandering the country's confidence. Political op-ed, not philosophical.
+> The digest gives neither structure nor sample (867 words, 0 atoms): the content cannot be judged; the title indicates an article against the national Government.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

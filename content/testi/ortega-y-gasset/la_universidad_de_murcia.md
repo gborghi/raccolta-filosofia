@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against the founding of the University of Murcia: a province that wanted to be reborn and founds a law faculty lacked all self-doubt, the sense that doing things well is difficult. An example of what Ortega calls a politics of the nation against a politics of the state: the force spent capturing the official gazette could have been used to correct what Murcians actually thought.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

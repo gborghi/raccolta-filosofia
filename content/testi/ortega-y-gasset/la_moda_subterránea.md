@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from the universal curiosity about Tutankhamun's tomb, a defence of fashion as a permanent dimension of spiritual life, governed by laws no less strict than other historical phenomena. Nothing happens without sufficient reason: what looks capricious springs from our innermost forces, whereas rational acts make us all alike and are therefore the most superficial.
+
+## Connections
+
+**Concetti:** [[concepts/custom|abitudine]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Long essay on Ibn Khaldun and Africa opening with a meditation on living as a circular movement in/out of the self, between intimacy and circumstance: core of Ortega's ratiovitalism.
+> The digest records 7,405 words but 0 atoms and no sample: not a single line of the text is visible, and the content cannot be judged. The title points to reflections on Ibn Khaldun and North-West Africa, but nothing is verifiable from the digest.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

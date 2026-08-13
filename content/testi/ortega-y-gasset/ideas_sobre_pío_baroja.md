@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A long critical essay on Baroja, dedicated to the provincial young irritated by the Spanish atmosphere. Its methodological thesis: a writer's style consists of a series of selective acts, and the first choice — which object of the world to make the central theme — is decisive; hence literary criticism must first isolate that generic object rather than assess a work's merits. Style of language is style's most external part.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -144,7 +151,7 @@ Un antesignano o precursore di quella sensibilità vedo io in Baroja, e questo a
 
 Una cosa ottiene la qualità di utile per i suoi risultati, cioè per altre cose che la seguono, ma che non sono essa. Guardata dai suoi risultati, la vita vagabonda e inadatta è una quantità negativa. Ma si guardi a essa stessa, al movimento interiore dello spirito, indocile, inquieto, selvatico, esigente, che non si lascia modellare dalle imposizioni del mezzo, che preferisce essere fedele al suo individuale destino, anche se questo gli costi rinunciare al trionfo nella società. Subito notiamo la nobiltà, la dignità che c'è in quel modo di affrontare la vita. E se di fronte alla [materia](/positions/materialism), spirito vuol dire sforzo, impeto, dinamicità, ci sembra esservi maggior porzione di esso nella figura vagabonda che nella normale e adattata. Di più: sotto questa nuova prospettiva l'adattamento prende i caratteri di una caduta, di un'inerzia, di una vile sottomissione a schiavitù.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Esto es lo que estima Baroja sobre todas las cosas: el dinamismo. Buscando, buscando en torno suyo seres reales donde algo dinámico se manifestara, ha tenido que ir al margen de la sociedad actual, y precisamente en eso que suele considerarse como el escombro social —los golfos, los tahúres, los extravagantes, los vividores, los suicidas—, creyó encontrar su asunto. Pues qué, ¿iba a hablarnos de los senadores, los comandantes, los gobernadores de provincia, las damas de las Cuarenta Horas y los financieros?
 
@@ -264,7 +271,7 @@ Un giorno, in un altro stato di spirito, forse quando lasciamo andare la briglia
 
 Questa avvertenza mette in evidenza l'insondabile assurdo in cui suole cadere la critica letteraria e artistica, secondo come si conduce in Spagna. Per un meccanismo reazionario, che soleva muoverci in tutti gli ordini della cultura — lo stesso in religione che in politica, in industria che in arte, o nel tratto sociale[19] —, tendiamo a inscrivere l'opera nuova dentro il cerchio delle opere vecchie. È veramente perverso il piacere che sente uno spagnolo quando trova qualcosa di oggi fatto interamente con ciò di ieri. Quel fatto che oggi non sia oggi, ma ieri, ci produce un frenesì di entusiasmo. In cambio, non possiamo tollerare la petulanza che mostrano alcune cose nel pretendere di essere nuove, distinte e finora non state. L'innovazione, il gesto creatore, quell'atto con cui si suscita qualcosa di nuovo sulla faccia del mondo, ci sembra quasi, quasi un gesto indecente, incompatibile con la dignità nazionale. L'unica cosa che di Parigi incantò un mio amico, sommamente castizo, fu che il ponte più vecchio della città si chiamasse il Pont Neuf.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Tesitura tal lleva en arte al colmo del absurdo. Porque es esencial a un valor estético su irreductibilidad a todo otro valor estético. Para mí es Cervantes acaso la calidad más alta que en literatura existe; pero si ahora naciese otra vez, antes de que los críticos casticistas consiguiesen hacerle académico yo intentaría retrotraerlo a su tumba. Un segundo Cervantes sería la cosa más fastidiosa y superflua del universo.
 
@@ -384,7 +391,7 @@ Non potremo vedere nulla di chiaro in questo [sublime](/concepts/sublime) assunt
 
 Come è possibile che immaginiamo la felicità con il sembiante del sonno, che è la negazione di tutto ciò? Lo stesso Mérimée non dice che sia come il sonno, ma come la voglia di dormire, e questa voglia è già una volontà, un desiderio, sia pure di spegnersi e sommergersi nel nulla. Allude, dunque, a quello stato intermedio in cui dalla veglia passiamo al sonno. In tali momenti sembrano essersi cancellati dal nostro spirito tutti gli impulsi che lo costituiscono: ne resta in piedi uno solo, ed è precisamente il desiderio di quel dolce annientamento[21]. E siccome in ogni stadio della situazione quel desiderio, unica attività che ci resta, va compiendosi meglio, questo cresce in maniera progressiva, va essendo un desiderio sempre maggiore, di più completo spegnimento, di totale sparizione. E nell'istante preciso di addormentarci giunge al suo estremo quell'attività di anelare al nostro proprio dissolvimento.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 De esta suerte se hace comprensible aquel primer pronto de evidencia que no podemos negar a la metáfora de Mérimée. En la «gana de dormir» somos una sola actividad, pero ésta logra ejecutarse y expansionarse ilimitadamente. Lo que tiene de feliz semejante situación no es, por tanto, lo que tiene de sueño y de inacción, sino, al contrario, lo que tiene de vida infinita. En ella, todo el potencial se vierte en actuación: todo lo que somos en potencia, lo somos en acto.
 
@@ -534,7 +541,7 @@ Un'idea manca di interesse unicamente quando, oltre a essere una falsità, è un
 
 C'è una parola che in tutte le sue possibili complicazioni appare, con insistenza spesso fastidiosa, negli scritti e nella conversazione di Baroja. Nessuna simboleggia meglio la sua attitudine intima dinanzi alla vita. La parola è questa: farsa.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Cuando Baroja ha dicho de algo que es una farsa o de alguien que es un farsante, pasa a la orden del día. Y casi todas las cosas le parecen farsas, y casi todos los hombres le parecen farsantes.
 
@@ -720,7 +727,7 @@ Soffriamo un'assurda incongruenza tra la nostra sincera intimità e i nostri ide
 
 È questo un punto dove El Espectador vorrebbe vedere chiaro. La riforma della vita europea deve partire da ciò. Altrove in questo volume ho già detto qualcosa sull'argomento.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 La hipocresía de nuestro régimen moral, que Baroja sorprende dondequiera, gracias a ese método de la lealtad consigo mismo, consiste, pues, en un error de perspectiva. Hemos dotado de colosales proporciones a aquellas cosas que están más lejos de nuestros nervios, y consideramos nimias, nulas y aun vergonzosas las que, queramos o no, influyen con mayor vigor en nuestro ánimo. Así el bien de la humanidad se nos presenta con el tamaño de un dios enorme, de un Molock gigánteo a quien todo debe sacrificarse. Y, en cambio, al bien individual sólo concedemos unos derechos tasadísimos, casi subrepticios. Nos da vergüenza hacer su afirmación, y, sin embargo, él absorbe la mayor porción de nuestra energía. Una cultura que no resuelve este estado de permanente incongruencia tiene que ser radicalmente hipócrita.
 
@@ -846,7 +853,7 @@ Certamente, sospettiamo che per l'uomo d'azione sano e forte l'azione non sia l'
 
 Senza bisogno di addentrarci oltre, notiamo la parte di errore che c’è in Baroja quando vediamo che ci dà Aviraneta come un uomo d’azione. Non è affatto così: Aviraneta è soltanto un avventuriero. Baroja riduce l’azione ad avventura. Questa confusione porta non poche perturbazioni all’opera del romanziere.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 La diferencia entre ambas cosas es grave. En el aventurero no hay más que el perfil dinámico de un hombre de acción. Mientras éste halla la justificación de sus esfuerzos en el nuevo cariz que ha logrado imponer a la realidad, es para el aventurero el resultado a obtener meramente un resorte que dispara sus movimientos. En aquél, la idea es motivo de la pasión; en éste, es sólo el pretexto. La idea constitucional actúa como pólvora en Riego; en Aviraneta, como fulminante[31].
 
@@ -972,7 +979,7 @@ Con la novelletta a cui mi sto riferendo forse questo accade meno che con le alt
 
 Non è tanto facile, come a prima vista sembra, indicare l'origine di questa mancanza. La difficoltà proviene dal fatto che essa si trova strettamente unita a una delle più geniali qualità della sua opera.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 ¿Quién no ha sentido, a veces, leyendo esas páginas de Baroja —donde los acontecimientos más diversos van y vienen rápidos, sin patética, insignificantes, rozando apenas nuestra emoción, exentos de un ayer y de un mañana—, quién no ha sentido como el paso veloz de la vida misma, con su carácter de contingencia, de azar sin sentido, de mudanza constante, pero constantemente vulgar? Por un día que al llegar nos clava su puñal en lo hondo del sentimiento, años enteros resbalan sobre nosotros, de cuyo contenido nos es tan difícil acordarnos como de una novela de Baroja. Sabemos que durante ese tiempo han pasado, al través o ante nosotros, muchas cosas, pero inconexas entre sí, faltas de trayectoria y organización, empujándose las unas a las otras, sin que ninguna alcanzase lo que yo llamaría espesor sentimental, tercera dimensión. Cuanto acaece es externo a nosotros, no acaece en nosotros, sino en un plano de dos dimensiones, como la pantalla del cinematógrafo. Es un acontecer superficial.
 
@@ -1098,7 +1105,7 @@ LA PROSA E L'UOMO
 
 Questi difetti esistono nella letteratura di Baroja; ma ampiamente li compensa un certo difetto che non v'è. A prima vista il taglio della lode parrà strano e potrebbe, in effetti, essere di quelle cose che soltanto si debbono dire all'orecchio delle persone elette, padrone di una chiara visione estetica.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Eso que no hay en el escritor vasco, y que por su mera ausencia vale como una grande virtud positiva, es la retórica. No voy ahora a desenvolver esta cuestión: estoy cierto de que los mejores se hallan en ello de acuerdo conmigo, y no me corre prisa buscar la connivencia con los peores.
 

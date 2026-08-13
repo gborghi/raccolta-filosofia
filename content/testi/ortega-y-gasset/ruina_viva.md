@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lyrical-patriotic essay: Spain as a ruin stretched from sea to sea, where what survives is death's gesture; nothing is in working order, everything begs repair. The same holds for rusted ideas, which become 'tópicos'. Prompted by Azorín's Castilla, it closes before the Escorial monastery as a future summons to heroism.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

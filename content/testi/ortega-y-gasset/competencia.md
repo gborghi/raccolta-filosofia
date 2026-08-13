@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A portrait of the generation of 1898, which lived through a single historical date and received it as the answer to its first demands. Against the grandfathers' liberalism, which opposed individual and society, Ortega asserts that the individual is one and the same thing as society, "a knot of social realities": without national life there is no individual life, and that "ghost" generation, robbed of a real fatherland, could only invent an ideological one — Europeanisation — and live critically. From 1913 a gust of optimism, tied to a competent institution coming into action.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]], [[assi/human_nature|Natura umana]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]], [[positions/social_animal|animale sociale]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -186,7 +195,7 @@ Spagna è una cosa che bisogna fare. Ed è una cosa molto difficile da fare. Gi�
 
 Io comprendo che queste parole devono essere impopolari e moleste; ma tutto ciò che non sia insistere su questo tema e inchiodarlo nella preoccupazione degli spagnoli, equivale al difetto essenziale di patriottismo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,assi/human_nature,positions/theory_of_generations,positions/social_animal,concepts/state,forms/essay"></span>
 
 No basta, no basta con querer lealmente que se organice una hacienda democrática para que, en efecto, una hacienda democrática se organice. Nueve décimas partes de ciudadanos lo deseamos así. Dios premiará, a no dudarlo, nuestra buena voluntad tomándonos asumptos en las praderas azules del cielo donde tiemblan las amapolas de oro que desde abajo parecen estrellas. Pero la buena voluntad, que sirve para ir al cielo, no sirve para organizar una hacienda; para este menester sólo es útil y es imprescindible la ciencia económica. Et si non, non. Números, estadísticas, sistemas complicadísimos, un Cuerpo burocrático de gran saber y solicitud, una cantidad enorme de prosaicas competencias. Sin esto no hay ascensión al cielo de la hacienda. ¡Qué le vamos a hacer! En La Paz, de Aristófanes, Trigeo tiene que subir al cielo cabalgando un escarabajo.
 

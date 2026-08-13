@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > When we see a man's body, do we see a body or a man? It distinguishes two species of body, mineral and flesh: the mineral is all exteriority, whereas the inside of flesh never becomes outside even when cut, being by essence intimacy, that is, life—a hidden reality because non-spatial. Hence the problem of how we perceive our fellow man.
+
+## Connections
+
+**Assi:** [[assi/soul_body|Anima e corpo]]  
+**Concetti:** [[concepts/soul|anima]], [[concepts/self_consciousness|autocoscienza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +98,7 @@ Mercé la carne umana, e sopra tutto i suoi gesti, ci siamo dimenticati per comp
 
 Quattro secoli di coltivare intensivamente l'astrazione meccanicista hanno ottuso sopra ogni cosa la nostra coscienza di questo cosmico fatto: l'espressione. E hanno ottenuto che ci sembri più illusoria di quanto non sia in verità una posizione dinanzi al mondo come quella che Novalis chiamava «[idealismo](/positions/idealism) magico». «Tutto ciò che percepiamo è una notificazione. Così l'Universo è in realtà una comunicazione, una manifestazione dello spirito. Passò il tempo in cui lo spirito di Dio era comprensibile e il concetto di mondo si è perduto. Ci siamo rimasti solo con la lettera e l'apparenza ci ha fatto dimenticare ciò che appare. In altro tempo era tutto apparizione dello spirito, oggi percepiamo solo morti riflessi che non riusciamo a intendere. Manca l'idea del geroglifico e viviamo ancora del frutto di epoche migliori».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/soul_body,concepts/soul,concepts/self_consciousness,forms/essay"></span>
 
 Sólo monsieur Homais sigue aún creyendo que la física es una representación adecuada del mundo. En cambio, los grandes físicos de nuestros días, llevando a madurez la gran idea de Kant, saben que la teoría física es una pura construcción cuyo contenido no tiene nada que ver con la realidad cósmica. Lo que el concepto físico piensa no pretende tener homogeneidad ninguna con lo real: se contenta con ser congruente como lo son dos palabras de dos idiomas que se refieren a la misma idea. La física es, también, pura interpretación y transposición de lo real a un medio original: la ideología mecánica.
 

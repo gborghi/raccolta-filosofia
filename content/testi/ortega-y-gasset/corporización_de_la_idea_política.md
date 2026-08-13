@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Parliamentary speech: politics is inevitably mass pressing on mass (votes against votes) and the bare incorporeal idea is not enough, it must take bodily form. Occasional political text.
+> The digest supplies no text sample (199 words): content cannot be judged; the title suggests a political note on the embodiment of the political idea.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

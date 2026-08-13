@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from a pamphlet by Rudolf Bultmann on synoptic gospel exegesis, Ortega deplores that Spain never discusses the history of Christianity, argues that Catholicism does not oppose scientific clarity about its own origins, and blames a specifically Iberian lack of curiosity, calling for a core of Catholics to free Catholicism from its Spanish blemishes.
+
+## Connections
+
+**Concetti:** [[concepts/religion|religione]], [[concepts/revelation|rivelazione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +102,7 @@ Per lo storico, la storia cristiana non comincia con questi, ma con gli «Atti d
 
 Ed è il caso che nel 1911 una scoperta archeologica veniva a confermare un nuovo dettaglio, in apparenza insignificante, dell'opera di Luca. A Delfi fu trovata una pietra con un'iscrizione, dove l'Imperatore Claudio fa riferimento al suo amico Giunio Gallione come proconsole in Acaia. La data dell'iscrizione —estate del 52— coincide esattamente con la notizia degli «Atti» (XVIII, 12-17) che presenta San Paolo accusato dai giudei di Corinto dinanzi al proconsole Gallione. Questa conferma che una pietra viene a dare di quella notizia afferma e illumina storicamente grandi spazi dei testi cristiani primitivi.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/religion,concepts/revelation"></span>
 
 Sabemos, pues, mucho sobre las personas y sus movimientos. En cambio, se ha complicado más que nunca la cuestión de cuáles fuesen las ideas anidadas en estas mentes cristianas de la hora primera. Antaño se creía posible deducir de la tradición judaica todo lo esencial del pensamiento cristiano. Pero la investigación sobre el paulinismo obligó a reconocer una influencia decisiva de las formas religiosas dominantes en el sincretismo helenístico. La historia cristiana se inclinó entonces hacia Grecia. Pero he aquí que una nueva corriente de investigación descubre en las ideas teológicas del Irán y Babilonia el verdadero origen de doctrinas que se habían atribuido al helenismo. El estado actualísimo de la cuestión se caracteriza por el sugestivo combate entre los partidarios de la explicación helenística (Bousset, Heitmüller) y los partidarios de la explicación iraniobabilónica (Reitzenstein, Meyer). Estos últimos ven en los esenios, en San Juan Bautista, etcétera, ejemplos de la fermentación religiosa emanada de Persia y Babel.
 

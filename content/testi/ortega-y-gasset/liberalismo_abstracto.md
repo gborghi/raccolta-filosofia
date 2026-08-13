@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to a letter from the Count: freedom cannot be willed alone, any more than one can will a woman's profile without the flesh that sustains it — Ortega cites Marx and, through him, Hegel: liberalism is the tendency that clings to the abstract and is always defeated by the concrete. The liberal must nationalise freedom and have a national politics, which the Spanish left has never had.
+
+## Connections
+
+**Concetti:** [[concepts/freedom|libertà]]  
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +121,7 @@ Questa duplicità è quella che comincia a sembrarci tanto poco ingegnosa quanto
 
 In questo senso — ciò vi dimostrerà che non lesino lo sforzo di avvicinarmi a voi — l'unica politica stimabile è la politica realista. Ma conviene non lasciare questo termine all'intemperie, senza riparo di chiarimenti, esposto a contrarre le significazioni più nocive.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/freedom,forms/epistle"></span>
 
 Política realista no puede querer decir política de intereses. Eso sería más bien una política materialista o de egoísmos. Es falso que la realidad se componga sólo de afanes interesados. Si damos una palmada dentro de nosotros, veremos que levantan el vuelo pasiones del más vario plumaje, y que junto a egoísmos baten sus alas generosidades; junto a apetitos, entusiasmos.
 
@@ -258,7 +265,7 @@ Questa convinzione mi fa ripugnare il gesto piagnucoloso, affettato e come insic
 
 Tuttavia, in Spagna, come in Italia — in principio può un giorno o l'altro accadere cosa analoga in Francia, Germania e Inghilterra —, si è sospeso di colpo e radicalmente l'esercizio delle libertà e l'impero della democrazia. Questo improvviso rarefarsi dell'atmosfera, questa dispnea di libertà ci obbliga a riflettere sull'avvenimento. Per ora, non a indignarci, non a fare sussulti nella riunione privata o in lettera di stampa, ma a riflettere su ciò che è passato. È possibile che sentire un eccessivo imbarazzo ci porti a dare troppa importanza a un episodio, dinanzi al quale non è ora di eseguire azione alcuna. Metta faccia mesta chi si contenta di mettere faccia mesta. A me urge più farmi bene carico di ciò che è passato e del suo perché. La congiuntura ispira prima che indignazione altre emozioni più tiepide e socratiche.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/freedom,forms/epistle"></span>
 
 Por muy bajo que se afore el liberalismo español, la facilidad con que se ha suspendido la Constitución y se ha volatilizado el Parlamento parece excesiva. Por otra parte, no se advierte que hayan hecho su presentación grandes fuerzas antiliberales capaces de instituir otro régimen perdurable. Todo ello nos obliga a pensar que, aunque hayan pagado el pato las libertades, el pato no es un triunfo de la reacción.
 

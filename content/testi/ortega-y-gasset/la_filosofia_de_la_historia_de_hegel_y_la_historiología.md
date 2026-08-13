@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The prologue to a translation of Hegel's Philosophy of History and the manifesto of a 'Library of Historiology', a word used here for the first time. Ortega distinguishes three kinds of human dissatisfaction and starts from the second: history books do not satisfy the cognitive appetite; history has no classics and no rigour where physics has them to spare. The sample stops before Hegel's doctrine is expounded.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +103,7 @@ I tedeschi ci presentano una volta e l'altra come prototipo di storico, come gra
 
 Ma a questa sincera impressione del lettore gli storici rispondono dicendo: «Quella mancanza di “idee” che si avverte in Ranke non è il suo difetto, ma la sua specifica virtù. Avere “idee” è cosa per i filosofi. Lo storico deve fuggirle. L'idea storica è la certificazione di un fatto o la comprensione del suo influsso su altri fatti». Niente più, niente meno. Per questo, secondo Ranke, la missione della Storia è «soltanto dire come, effettivamente, sono andate le cose»[33].
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,forms/essay"></span>
 
 Los historiadores repiten constantemente esta fórmula, como si en ella residiese un poder entre mágico y jurídico que les tranquiliza respecto a sus empedernidos usos y les otorga un fuero bien fundado. Pero la verdad es que esa frase de Ranke, típica de su estilo, no dice nada determinado[34]. Sólo cabrá algún sentido si se advierte que fue escrita como declaración de guerra contra Hegel, precisamente contra esta Filosofía de la Historia, que entonces no se había publicado aún, pero actuaba ya en forma de curso universitario. Con ella comienza la batalla entre la «escuela histórica» y la «escuela filosófica»[35].
 
@@ -186,7 +193,7 @@ Contro questo stato di cose nel regno della Storia si leva la storiologia. Va mo
 
 Ogni scienza di realtà —e la Storia è una di esse— si compone di questi quattro elementi:
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,forms/essay"></span>
 
 a) Un núcleo [a priori](/positions/transcendental_criticism), la analítica del género de realidad que se intente investigar —la [materia](/positions/materialism) en física, lo «histórico» en Historia.
 
@@ -276,7 +283,7 @@ La Storia, se vuole conquistare il titolo di vera scienza, si trova dinanzi alla
 
 Ora: questa realtà storica si trova in ogni momento costituita da un numero di ingredienti variabili e un nucleo di ingredienti invariabili —relativamente o assolutamente costanti. Queste costanti del fatto o realtà storici sono la loro struttura radicale, categorica, a priori. E siccome è a priori, non dipende, in principio, dalla variazione dei dati storici. Al contrario, è essa che incarica il filologo e l'archivista di cercare tali o quali determinati dati che sono necessari per la ricostruzione storica di tale o quale epoca concreta. La determinazione di quel nucleo categorico, dell'essenziale storico, è il tema primario della storiologia.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,forms/essay"></span>
 
 La razón que suele movilizarse contra el [a priori](/positions/transcendental_criticism) histórico es inoperante. Consiste en hacer constar que la realidad histórica es individual, innovación, etcétera, etcétera. Pero decir esto es ya practicar el a priori historiológico. ¿Cómo sabe eso el que lo dice, si no es de una vez para siempre, por tanto, a priori? Cabe, es cierto, sostener que de lo histórico sólo es posible una única tesis a priori: la que niega a lo histórico toda estructura a priori. Pero, evidentemente, no se quiere sustentar semejante proposición, que haría imposible cualquier modo de historia. Al destacar el carácter individual e innovador de lo histórico, se quiere indicar que es diferencial en potencia más elevada que lo físico. Pero esa extrema diferencialidad de todo punto histórico no excluye, antes bien, incluye la existencia de constantes históricas. César no es diferente de Pompeyo ni en sentido abstracto ni en sentido absoluto, porque entonces no habrían podido ni siquiera luchar —lucha supone comunidad, por lo menos, la de desear lo mismo uno y otro contendiente. Su diferencia es concreta, y consiste en su diferente modo de ser romanos —una constante— y de ser romanos del siglo I a. de J. C. —otra constante. Estas constantes son relativas, pero en César y Pompeyo hay, cuando menos, un sistema común de constantes absolutas —su condición de hombres, de entes históricos. Sólo sobre el fondo de esas invariantes es posible su diferencialidad.
 
@@ -324,7 +331,7 @@ Ha patito la Storia lo stesso quid pro quo che nelle menti poco attente patì la
 
 Per filosofia della Storia si è inteso finora una di due cose: o il tentativo di costruire il contenuto della Storia mediante categorie sensu stricto filosofiche (Hegel), oppure la riflessione sulla forma intellettuale che la storiografia pratica (Rickert). Questa è una logica, quella una metafisica della Storia.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,forms/essay"></span>
 
 La historiología no es ni lo uno ni lo otro. Los neokantianos conservan del gran chino de Königsberga el dogma fundamental que niega a todo ser o realidad la posesión de una forma o estructura propia. Sólo el pensar tiene y da forma a lo que carece de ella. De aquí que tampoco lo histórico tenga por sí una figura y un verdadero ser. El pensamiento encuentra un caos de datos humanos, puro material informe, al cual, mediante la historiografía, proporciona modelado y perfil. Si a la actividad intelectual del sujeto llamamos logos, tendremos que no hay más formas en el mundo que las lógicas, ni más categorías o principios estructurales que los del logos subjetivo. De esta manera los neokantianos reducen la filosofía de la Historia a una lógica de la historiografía.
 

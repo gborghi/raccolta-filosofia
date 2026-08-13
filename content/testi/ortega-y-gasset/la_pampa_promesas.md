@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An Argentine travel piece: on the train to Mendoza, Ortega feels the Pampa invade him as his new landscape after years of insensibility. Digressions on landscapes as organisms, on love as inalienable choice, and on memoirs as an attempt to save one's lived life.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +96,7 @@ In questo modo, la vista, senza giungere a fissarsi in nulla, è congedata fino 
 
 Nel confine, la Pampa socchiude il suo corpo e le sue vene perché tutta l'inverosimiglianza ascritta all'aereo e al celeste sia assorbita dalla terra geometrica, astratta e come vuota, del primo termine. Il paesaggio beve lì cielo, si abbevera e inebria di irrealtà, e per questo l'orizzonte pampero vacilla come un ubriaco, fluttua, ondeggia, vibra come i bordi di una bandiera al vento, e non è fisso sulla terra, non radica in una localizzazione rigida, a tanti chilometri o a quanti.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Esos boscajes de la lejanía pueden ser todo: ciudades, castillos de placer, sotos, islas a la deriva —son [materia](/positions/materialism) blanda seducida por toda posible forma, son metáfora universal. Son la constante y omnímoda promesa. El hombre está en su primer término —pero vive con los ojos puestos en el horizonte. Allí se le cargan de la embriaguez que hay allí —y entonces los retrae hacia su inmediato contorno. La Pampa se mira comenzando por su fin, por su órgano de promesas, vago oleaje de imaginación donde la inverosimilitud forma su espumosa rompiente que el primer término, tiritando de su propia miseria, de no ser sino atroz y vacía realidad, afanoso absorbe.
 
@@ -186,7 +192,7 @@ Oserei sostenere che il modo di collaborare di un estraneo alla conoscenza del n
 
 Ma anche come viaggiatore, parlo ora per la prima volta di questi modi criolli dell'umanità con speciale timore. Poiché è la verità che non sono stato quasi nemmeno viaggiatore. E innalzo anche questo a una potenza superlativa. È possibile, praticamente possibile, essere viaggiatore in Argentina? Ci si è resi conto che in quel paese, dove c'è possibilità aperta per le classi più diverse di uomini, l'unico praticamente impossibile è, forse, il viaggiatore?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Viajar no es ir a la Argentina como emigrante, ni para concluir un negocio, ni a dar unas conferencias. Todo esto es ir a hacer y a pasar, no es ir a ver y a estar. A mi juicio, esto último es la esencia del viaje. Justamente las dos cosas —ver y estar— que no es fácil o que es imposible practicar en nuestra patria, a la cual nos hallamos demasiado adheridos para lograr la distancia que requiere la visión, y donde los asuntos privados y públicos, el tráfago activo en que desde siempre nos hallamos insertos, nos impiden vivir estáticamente, en actitud receptiva y quieta. La celeridad de los medios de tránsito hace olvidar que lo propio del viaje no es la movilización y el correr tierras, sino la demora que en cada una se hace. Como pasa siempre al llevar una cosa hasta su forma extrema, se la anula. Cook ha acabado con el verdadero viaje, y el turismo lo ha vaciado, quedándose sólo con el pellejo, conservando de tan jugosa aventura externa e íntima como es el viajar su porción abstracta y material: el paso ante las cosas.
 

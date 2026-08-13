@@ -12,8 +12,16 @@ tags:
   - "philosopher/aristotle"
 ---
 
+*Aristotle*
+
 > [!abstract]
 > A continuation of the De Anima devoted to the senses and their objects common to animals: it examines touch, taste, smell, hearing and sight, their role in nutrition and self-preservation, and their function in generating knowledge.
+
+## Connections
+
+**Concetti:** [[concepts/soul|anima]], [[concepts/experience|esperienza]]  
+**Forme:** [[forms/treatise|trattato]]  
+**Scuole:** [[schools/lyceum|Liceo (peripatetici)]]
 
 <p class="work-source">Traduzione di J. I. Beare · Delphi Classics, 2013 · pubblico dominio</p>
 
@@ -96,7 +104,7 @@ Come quando chi ha in animo di recarsi all'estero appresta una lanterna, un barl
 
 Talora spiega la visione in questo modo, ma altre volte la attribuisce a emanazioni provenienti dagli oggetti visibili.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/experience,forms/treatise,schools/lyceum"></span>
 
 Democritus, on the other hand, is right in his opinion that the eye is of water; not, however, when he goes on to explain seeing as mere mirroring. The mirroring that takes place in an eye is due to the fact that the eye is smooth, and it really has its seat not in the eye which is seen, but in that which sees. For the case is merely one of reflexion. But it would seem that even in his time there was no scientific knowledge of the general subject of the formation of images and the phenomena of reflexion. It is strange too, that it never occurred to him to ask why, if his theory be true, the eye alone sees, while none of the other things in which images are reflected do so.
 
@@ -152,7 +160,7 @@ Ora, di ciascuno di essi si può parlare da due punti di vista, cioè o come in 
 
 Noi abbiamo già, nel trattato Sull'anima, detto della Luce che essa è il colore del Diafano, [essendo così ad esso relazionata] per accidente; poiché ogni volta che un elemento igneo è presente in un mezzo diafano, ivi è Luce; mentre la privazione di essa è l'Oscurità. Ma il 'Diafano', come lo chiamiamo, non è qualcosa di peculiare all'aria, o all'acqua, o a qualunque altro dei corpi che sogliono dirsi diafani, ma è una comune 'natura' e potenza, capace di nessuna esistenza separata propria, ma risiedente in questi, e sussistente parimenti in tutti gli altri corpi in grado maggiore o minore. Come i corpi in cui essa sussiste debbono avere qualche superficie estrema limitante, così pure deve averla essa. Qui, dunque, possiamo dire che la Luce è una 'natura' inerente nel Diafano quando questo sia senza termine determinato. Ma è manifesto che, quando il Diafano è in corpi determinati, il suo estremo limitante deve essere alcunché di reale; e che il colore sia appunto questo 'alcunché' ci è chiaramente insegnato dai fatti, essendo il colore in realtà, nei corpi, o al limite esterno, o essendo esso stesso quel limite. Onde fu che i Pitagorici chiamarono la superficie di un corpo la sua 'tinta', poiché la 'tinta', in effetti, giace al limite del corpo; ma il limite del corpo non è una cosa reale; piuttosto dobbiamo supporre che la medesima sostanza naturale che, esternamente, è veicolo del colore esista [come tale possibile veicolo] anche nell'interno del corpo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/experience,forms/treatise,schools/lyceum"></span>
 
 Air and water, too [i.e. as well as determinately bounded bodies] are seen to possess colour; for their brightness is of the nature of colour. But the colour which air or sea presents, since the body in which it resides is not determinately bounded, is not the same when one approaches and views it close by as it is when one regards it from a distance; whereas in determinate bodies the colour presented is definitely fixed, unless, indeed, when the atmospheric environment causes it to change. Hence it is clear that that in them which is susceptible of colour is in both cases the same. It is therefore the Translucent, according to the degree to which it subsists in bodies (and it does so in all more or less), that causes them to partake of colour. But since the colour is at the extremity of the body, it must be at the extremity of the Translucent in the body. Whence it follows that we may define colour as the limit of the Translucent in determinately bounded body. For whether we consider the special class of bodies called translucent, as water and such others, or determinate bodies, which appear to possess a fixed colour of their own, it is at the exterior bounding surface that all alike exhibit their colour.
 
@@ -188,7 +196,7 @@ Vi è tuttavia una mescolanza di corpi, non soltanto quella che alcuni suppongon
 
 I colori saranno così anch'essi [come pure nelle ipotesi precedenti] molti di numero, per il fatto che gli ingredienti possono essere combinati gli uni con gli altri in una moltitudine di rapporti; alcuni saranno basati su rapporti numerici determinati, mentre altri ancora avranno come fondamento una relazione di eccesso o difetto quantitativo non esprimibile in numeri interi. E tutto il resto che fu detto riguardo ai colori, considerati come giustapposti o sovrapposti, può dirsi ugualmente di essi quando siano considerati come mescolati nel modo or ora descritto.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/experience,forms/treatise,schools/lyceum"></span>
 
 Why colours, as well as savours and sounds, consist of species determinate [in themselves] and not infinite [in number] is a question which we shall discuss hereafter.
 
@@ -244,7 +252,7 @@ Come i colori intermedi nascono dalla mescolanza del bianco e del nero, così i 
 
 Il sapore dolce da solo è Ricco, [perciò quest'ultimo può essere considerato una varietà del primo], mentre [in quanto entrambi implicano privazione del Dolce] il Salino è pressoché identico all'Amaro. Tra gli estremi del dolce e dell'amaro vengono l'Aspro, il Pungente, l'Astringente e l'Acido. I Sapori e i Colori, si osserverà, contengono rispettivamente circa lo stesso numero di specie. Vi sono infatti sette specie di ciascuno, se, come è ragionevole, consideriamo il Bigio [o Grigio] come una varietà del Nero (poiché l'alternativa è che il Giallo debba essere classificato con il Bianco, come il Ricco con il Dolce); mentre [i colori irriducibili, cioè:] Cremisi, Violetto, Verde porro e Blu cupo vengono tra il Bianco e il Nero, e da questi tutti gli altri derivano per mescolanza.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/experience,forms/treatise,schools/lyceum"></span>
 
 Again, as Black is a privation of White in the Translucent, so Saline or Bitter is a privation of Sweet in the Nutrient Moist. This explains why the ash of all burnt things is bitter; for the potable [sc. the sweet] moisture has been exuded from them.
 
@@ -328,7 +336,7 @@ contiene una verità.
 
 Coloro che oggidì introducono tali sapori nelle bevande snaturano il nostro senso del piacere abituandoci ad essi, finché, da due distinte specie di sensazioni combinate, il piacere sorge come potrebbe sorgere da una specie semplice.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="figures/aristotle"></span>
 
 Of this species of odour man alone is sensible; the other, viz. that correlated with Tastes, is, as has been said before, perceptible also to the lower animals. And odours of the latter sort, since their pleasureableness depends upon taste, are divided into as many species as there are different tastes; but we cannot go on to say this of the former kind of odour, since its nature is agreeable or disagreeable per se. The reason why the perception of such odours is peculiar to man is found in the characteristic state of man’s brain. For his brain is naturally cold, and the blood which it contains in its vessels is thin and pure but easily cooled (whence it happens that the exhalation arising from food, being cooled by the coldness of this region, produces unhealthy rheums); therefore it is that odours of such a species have been generated for human beings, as a safeguard to health. This is their sole function, and that they perform it is evident. For food, whether dry or moist, though sweet to taste, is often unwholesome; whereas the odour arising from what is fragrant, that odour which is pleasant in its own right, is, so to say, always beneficial to persons in any state of bodily health whatever.
 
@@ -380,7 +388,7 @@ Ci si potrebbe chiedere: se ogni corpo è infinitamente divisibile, le sue quali
 
 Si potrebbe ben porre questa domanda, perché ciascuno di essi è produttivo di percezione sensibile, poiché, in effetti, tutti traggono il loro nome [di ‘qualità sensibili’] dalla stessa circostanza di essere in grado di stimolarla. Quindi, [se le cose stanno così], anche la nostra percezione di essi dovrebbe essere ugualmente divisibile all'[infinito](/concepts/infinity), e ogni parte di un corpo [per quanto piccola] dovrebbe essere una grandezza percepibile. Poiché è impossibile, ad esempio, vedere una cosa che sia bianca ma non di una certa grandezza.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/experience,forms/treatise,schools/lyceum"></span>
 
 Since if it were not so, [if its sensible qualities were not divisible, pari passu with body], we might conceive a body existing but having no colour, or weight, or any such quality; accordingly not perceptible at all. For these qualities are the objects of sense-perception. On this supposition, every perceptible object should be regarded as composed not of perceptible [but of imperceptible] parts. Yet it must [be really composed of perceptible parts], since assuredly it does not consist of mathematical [and therefore purely abstract and non-sensible] quantities. Again, by what faculty should we discern and cognize these [hypothetical real things without sensible qualities]? Is it by Reason? But they are not objects of Reason; nor does reason apprehend objects in space, except when it acts in conjunction with sense-perception. At the same time, if this be the case [that there are magnitudes, physically real, but without sensible quality], it seems to tell in favour of the atomistic hypothesis; for thus, indeed, [by accepting this hypothesis], the question [with which this chapter begins] might be solved [negatively]. But it is impossible [to accept this hypothesis]. Our views on the subject of [atoms](/positions/atomism) are to be found in our treatise on Movement.
 
@@ -408,7 +416,7 @@ Ora questo [viaggiare attraverso posizioni successive nel mezzo] può a buon dir
 
 Alcuni, in verità, sollevano una questione anche su questi stessi punti; dichiarano impossibile che una persona debba udire, o vedere, o odorare, lo stesso oggetto di un'altra, adducendo l'impossibilità che più persone in luoghi diversi odano o odorino [lo stesso oggetto], poiché la medesima cosa [così] verrebbe divisa da sé. La risposta è che, nel percepire l'oggetto che per primo ha suscitato il movimento — per es. una campana, o incenso, o fuoco — tutti percepiscono un oggetto numericamente uno e medesimo; mentre, naturalmente, nell'oggetto speciale percepito percepiscono un oggetto numericamente diverso per ciascuno, benché specificamente identico per tutti; e questo, di conseguenza, spiega come avvenga che molte persone insieme vedano, odorino, o odano [lo stesso oggetto]. Queste cose [l'odore o il suono proprio] non sono corpi, ma un'affezione o un processo di qualche genere (altrimenti questo [cioè la percezione simultanea dell'unico oggetto da parte di molti] non sarebbe stato, come è, un dato di esperienza) sebbene, d'altra parte, esse implichino ciascuna un corpo [come loro causa].
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/act_potency"></span>
 
 But [though sound and odour may travel,] with regard to Light the case is different. For Light has its raison d’etre in the being [not becoming] of something, but it is not a movement. And in general, even in qualitative change the case is different from what it is in local movement [both being different species of kinesis]. Local movements, of course, arrive first at a point midway before reaching their goal (and Sound, it is currently believed, is a movement of something locally moved), but we cannot go on to assert this [arrival at a point midway] like manner of things which undergo qualitative change. For this kind of change may conceivably take place in a thing all at once, without one half of it being changed before the other; e.g. it is conceivable that water should be frozen simultaneously in every part. But still, for all that, if the body which is heated or frozen is extensive, each part of it successively is affected by the part contiguous, while the part first changed in quality is so changed by the cause itself which originates the change, and thus the change throughout the whole need not take place coinstantaneously and all at once. Tasting would have been as smelling now is, if we lived in a liquid medium, and perceived [the sapid object] at a distance, before touching it.
 
@@ -452,7 +460,7 @@ Ma se è così impossibile percepire co-istantaneamente due oggetti nella medesi
 
 Inoltre, se gli stimoli del senso derivati dai Contrari sono essi stessi Contrari, e se i Contrari non possono essere concepiti come sussistenti insieme nello stesso soggetto individuale, e se i Contrari, p.es. il Dolce e l’Amaro, cadono sotto una e medesima facoltà sensitiva, dobbiamo concludere che è impossibile discernerli nello stesso tempo. È parimenti chiaramente impossibile discernere in tal modo quei sensibili omogenei che non sono [in effetti] Contrari, [ma sono tuttavia di specie diversa]. Infatti questi sono, [nella sfera del colore, per esempio], classificati alcuni col Bianco, altri col Nero, e così è, ugualmente, nelle altre province del senso; per esempio, dei sapori, alcuni sono classificati col Dolce, e altri con l’Amaro. Né si possono discernere i componenti nei composti nello stesso tempo (infatti questi sono rapporti di Contrari, come p.es. l’Ottava o la Quinta); se non, invero, a condizione di percepirli come uno. Poiché così, e non altrimenti, i rapporti dei suoni estremi si compongono in un solo rapporto: dal momento che dovremmo avere insieme il rapporto, da un lato, di Molti a Pochi o di Dispari a Pari, dall’altro, quello di Pochi a Molti o di Pari a Dispari [e questi, per essere percepiti insieme, devono essere unificati].
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/experience,forms/treatise,schools/lyceum"></span>
 
 If, then, the sensibles denominated co-ordinates though in different provinces of sense (e.g. I call Sweet and White co-ordinates though in different provinces) stand yet more aloof, and differ more, from one another than do any sensibles in the same province; while Sweet differs from White even more than Black does from White, it is still less conceivable that one should discern them [viz. sensibles in different sensory provinces whether co-ordinates or not] coinstantaneously than sensibles which are in the same province. Therefore, if coinstantaneous perception of the latter be impossible, that of the former is a fortiori impossible.
 
@@ -500,7 +508,7 @@ Se dunque, come è di fatto, l'Anima con una parte percepisce il Dolce, con un'a
 
 Non potremmo, allora, concepire questa facoltà che percepisce il Bianco e il Dolce come una in quanto indivisibile [sc. in quanto combina i suoi differenti oggetti simultanei] nella sua attualizzazione, ma differente, quando è diventata divisibile [sc. in quanto distingue i suoi differenti oggetti simultanei] nella sua attualizzazione?
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/memory,figures/aristotle"></span>
 
 Or is what occurs in the case of the perceiving Soul conceivably analogous to what holds true in that of the things themselves? For the same numerically one thing is white and sweet, and has many other qualities, [while its numerical oneness is not thereby prejudiced] if the fact is not that the qualities are really separable in the object from one another, but that the being of each quality is different [from that of every other]. In the same way therefore we must assume also, in the case of the Soul, that the faculty of perception in general is in itself numerically one and the same, but different [differentiated] in its being; different, that is to say, in genus as regards some of its objects, in species as regards others. Hence too, we may conclude that one can perceive [numerically different objects] coinstantaneously with a faculty which is numerically one and the same, but not the same in its relationship [sc. according as the objects to which it is directed are not the same].
 

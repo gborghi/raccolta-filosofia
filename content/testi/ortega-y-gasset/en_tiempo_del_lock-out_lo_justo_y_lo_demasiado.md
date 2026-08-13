@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial on the Catalan employers' lock-out: right to organize, wrong to reach at once for an extreme measure without first proposing a policy. A government's strength depends on its citizens' engagement — the state is ourselves occupied with the state's problems.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/labour|lavoro]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

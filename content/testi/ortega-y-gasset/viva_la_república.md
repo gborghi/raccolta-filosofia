@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Very short political declaration: convinced the elections will consolidate the Republic, the author for the first time shouts 'Long live the Republic', though not given to shouting. Non-philosophical.
+> Very short text (109 words). The digest carries no sample: its content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

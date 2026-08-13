@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political reckoning of the August 1917 strike and the military Juntas: both failed for the same reason, having tried to transform Spain without counting on other Spaniards. Whoever would reform must make a project broad enough for all to feel included and respected; coexistence, even revolutionary, is collaboration.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

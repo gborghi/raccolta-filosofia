@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to Ramiro de Maeztu, who feared excessive precision in abstract Spanish and preferred words steeped "in a little fog". Ortega counters that culture is the precise world, distinguished from savagery only by its method of precision, distinguishes truthfulness (which withstands technical rigour) from mere sincerity, and invokes the Platonic τὸ ὄντως ὄν against the autobiography of one's nerves.
+
+## Connections
+
+**Concetti:** [[concepts/reason|ragione]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -126,7 +134,7 @@ Sistema è unificazione dei problemi, e nell'individuo unità della coscienza, d
 
 In un dialogo —non ricordo ora quale, sebbene penso sia il Fedro— dice Platone che le idee sono come le favolose statue di Demetrio, che se non le si legava se ne andavano giungendo la notte. Non è decente mantenere nell'anima compartimenti stagni, senza comunicazione gli uni con gli altri; i cento problemi che costituiscono la visione del mondo devono vivere in unità cosciente. Si può, naturalmente, non avere pronto un sistema; ma è obbligatorio cercare di formarselo. Il sistema è l'onestà del pensatore. La mia convinzione politica deve essere in armonia sintetica con la mia fisica e la mia teoria dell'arte.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/reason,figures/plato,forms/essay"></span>
 
 No entiendo, pues, lo que usted llama conceder demasiada importancia a los sistemas. Éstos no han de ser más o menos importantes: han de ser y basta. De su falta proviene el doloroso [atomismo](/positions/atomism) de la raza española, su disgregación. Es preciso que el alma nuestra marche con perfecta continuidad desde Los borrachos, de Velázquez, hasta el cálculo infinitesimal, pasando por el imperativo categórico. Sólo mediante el sistema pondremos bien tenso el espíritu de nuestra raza como un tinglado de cuerdas y estacas sirve al beduino para poner tirante la tela feble de su tienda.
 

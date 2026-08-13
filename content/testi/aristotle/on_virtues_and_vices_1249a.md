@@ -12,8 +12,19 @@ tags:
   - "philosopher/aristotle"
 ---
 
+*Aristotle*
+
 > [!abstract]
 > Spurious compendium that, taking up the Platonic tripartition of the soul (rational, passionate, appetitive), systematically catalogues the virtues and vices corresponding to each part — wisdom and folly, courage and cowardice, temperance and profligacy, justice and injustice.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/virtue_ethics|virtù]]  
+**Concetti:** [[concepts/virtue|virtù]], [[concepts/phronesis|phronesis (saggezza pratica)]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/treatise|trattato]]  
+**Scuole:** [[schools/lyceum|Liceo (peripatetici)]]
 
 <p class="work-source">Traduzione di H. Rackham · Delphi Classics, 2013 · pubblico dominio</p>
 
@@ -100,7 +111,7 @@ All’incontinenza appartiene scegliere il godimento dei piaceri quando la ragio
 
 Dell'ingiustizia vi sono tre specie: empietà, cupidigia, oltraggio. La trasgressione nei riguardi degli dèi e degli spiriti, o anche nei riguardi dei defunti, dei genitori e della patria, è empietà. La trasgressione nei riguardi dei contratti, il prendere ciò che è in contesa contro il proprio merito, è cupidigia. L'oltraggio è quell'ingiustizia che fa procacciare piaceri agli uomini mentre altri conduce in disonore; per la qual cosa Eveno dice dell'oltraggio: "Colei che altrui offende ancorché nulla guadagni." E appartiene all'ingiustizia trasgredire i costumi e le regole avite, disobbedire alle leggi e ai governanti, mentire, spergiurare, trasgredire patti e promesse. L'ingiustizia è accompagnata da calunnia, impostura, simulazione di benevolenza, malignità, spregiudicatezza.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/phronesis,figures/plato,forms/treatise,schools/lyceum"></span>
 
 Of meanness there are three kinds, love of base gain, parsimony, niggardliness.  Love of base gain makes men seek profit from all sources and pay more regard to the profit than to the disgrace; parsimony makes them unwilling to spend money on a necessary object;  niggardliness causes them only to spend in driblets and in a bad way, and to lose more than they gain by not at the proper moment letting go the difference.  It belongs to meanness to set a very high value on money and to think nothing that brings profit a disgrace — a menial and servile and squalid mode of life, alien to ambition and to liberality.  Meanness is accompanied by pettiness, sulkiness, self-abasement, lack of proportion, ignobleness, misanthropy.
 

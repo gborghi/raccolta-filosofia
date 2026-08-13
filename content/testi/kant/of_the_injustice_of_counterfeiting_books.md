@@ -11,8 +11,17 @@ tags:
   - "philosopher/kant"
 ---
 
+*Kant*
+
 > [!abstract]
 > A short juridical essay arguing against the counterfeiting of books: publication is not the trade of a good in one's own name but the conducting of business in another's name, namely the author's. The counterfeiter transacts another's business against his will and must therefore surrender its profits.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]], [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/natural_right|diritto naturale]]  
+**Concetti:** [[concepts/property|proprietà]], [[concepts/justice|giustizia]], [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale inglese · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -27,7 +36,7 @@ Those who consider the publication of a book to be equivalent to the use of an a
 
 I believe, however, that I am justified to consider the publication of a book to be not the trading of a good [in the form of a book] in the trader’s own name, but as the transacting of business in the name of another, namely, the author. [By considering the act of publication to be such a transaction], I am able to represent easily and distinctly the wrongfulness of counterfeiting books. My argument, which also proves the editor’s right, is contained in a ratiocination; after which follows a second, wherein the counterfeiter’s pretension shall be refuted.
 
-<span class="atom-split" data-atom="002" data-title="I. Deduction of the Editor’s Right against the Counterfeiter" data-chapter="I. Deduction of the Editor’s Right against the Counterfeiter" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="I. Deduction of the Editor’s Right against the Counterfeiter" data-chapter="I. Deduction of the Editor’s Right against the Counterfeiter" data-kind="atom" data-srclang="en" data-tags="positions/natural_right,concepts/commodity,concepts/labour,concepts/representation,concepts/idea"></span>
 
 Whoever transacts another’s business in his name and yet against his will is obliged to give up to him, or to his attorney, all the profits that may arise therefrom, and to repair all the loss which is thereby occasioned to either the one or the other.
 
@@ -55,7 +64,7 @@ From this ground it follows that not the author, but the editor authorized by hi
 
 But as this right of transacting a business, which may be done just as well by another, is not inalienable (jus personalissimum), assuming that no corollary exists otherwise in the author’s contractual agreement with the editor, so the editor, as he has been authorized to have power over the work, also has the right to transfer his right of publication to another; and as the author must consent to this, he who undertakes the business from the second hand is not a counterfeiter, but a rightfully authorized editor, i.e. one to whom the editor, who was appointed by the author, has transferred his power over the work.
 
-<span class="atom-split" data-atom="003" data-title="II. Refutation of the Counterfeiter’s pretended Right against the Editor. (parte 1)" data-chapter="II. Refutation of the Counterfeiter’s pretended Right against the Editor." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="II. Refutation of the Counterfeiter’s pretended Right against the Editor. (parte 1)" data-chapter="II. Refutation of the Counterfeiter’s pretended Right against the Editor." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,concepts/property,concepts/justice,concepts/law,forms/essay"></span>
 
 The question remains still to be answered: since the editor projects to the public the ownership over the work of the author, does not the consent of the editor (and by implication also the author, who gave the editor legal control over it) to every use of the work, including reprinting it, result automatically from ownership of a copy of the work, such that such consent is automatically furnished to whoever purchases a copy of the work, however disagreeable such consent to permit counterfeiting may be to the editor? For the prospect of profit has perhaps enticed the editor to undertake, with the risk of having the published work counterfeited, the business of editor, where this risk is more likely since the purchaser has not been excluded from counterfeiting via an express contract, because it would hurt the editor’s business if the editor tried to obligate all potential purchasers of the work to agree to a contract forbidding counterfeiting, because potential purchases would generally not consent to such an agreement and therefore would be less likely to purchase a copy of the work. My answer to this question is that the ownership of the copy does not furnish the right of counterfeiting. I prove this by the following ratiocination:
 
@@ -87,7 +96,7 @@ Were the author to die after he had delivered his manuscript to the editor to be
 
 However, to this obligation of the editor’s, which will probably be granted, a corresponding right exists, namely, the right to all that, without which the editor’s obligation could not be fulfilled. This is: that he exercises the right of publication exclusively, because the rivalry of others in his business would render the transaction of it practically impossible for him.
 
-<span class="atom-split" data-atom="004" data-title="II. Refutation of the Counterfeiter’s pretended Right against the Editor. (parte 2)" data-chapter="II. Refutation of the Counterfeiter’s pretended Right against the Editor." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="II. Refutation of the Counterfeiter’s pretended Right against the Editor. (parte 2)" data-chapter="II. Refutation of the Counterfeiter’s pretended Right against the Editor." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/natural_right,concepts/property,concepts/justice,concepts/law,forms/essay"></span>
 
 Works of art, as things, may, on the other hand, be imitated or otherwise modeled, at will, from a copy of them which was rightfully acquired, and those imitations may be publicly sold, without requiring the consent of the author of the original or of the master who supervised the artist in developing the artist’s ideas. A drawing, which anyone has drawn, or had engraved by another, or executed in stone, metal, or stucco, may be copied, and the copies publicly sold; as everything, that one can perform with his thing in his own name, does not require the consent of another. Lippert’s “Dactyliotec” may be imitated by every possessor of it who understands it, and exposed to sale, and the inventor of it has no right to complain of encroachment on his business. For it is a work (an opus, not an opera; these terms are mutually exclusive) which everybody who possesses it may, without even mentioning the name of the inventor, assume title over it, and also imitate it and use it in public trade, in his own name, as his own.
 

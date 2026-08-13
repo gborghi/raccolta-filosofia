@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Political reportage on the handover from Dato to Romanones: two parties disagreeing over which legislative topic is more urgent settle their conflict by postponing everything. Ortega quotes and mocks the ministerial declaration, "the ridiculous ballad of cuanto afecta", devoid of the least literary dignity. Topical journalism.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

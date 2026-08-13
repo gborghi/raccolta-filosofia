@@ -12,8 +12,16 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > Treatise on the sacrament of Holy Orders: the hierarchy of the Church as an image of divine order, the character it imprints, its seven grades, the qualities required to receive it, and its impediments (including the female sex). It systematizes the sacramental theology of ecclesiastical ministry.
+
+## Connections
+
+**Concetti:** [[concepts/sacrament|sacramento]], [[concepts/grace|grazia]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -45,7 +53,7 @@ In seguito dobbiamo considerare il sacramento dell’Ordine: (1) L’Ordine in g
 Per quanto riguarda l’Ordine in generale, sono da considerare tre punti: (1) La sua essenza, la sua natura e i suoi elementi; (2) Il suo effetto; (3) I destinatari degli ordini.
 All’interno del primo punto vi sono cinque questioni da esaminare: (1) Dovrebbe esistere un Ordine nella Chiesa? (2) È definito in modo appropriato? (3) È un sacramento? (4) La sua forma è espressa correttamente? (5) Questo sacramento ha una materia specifica?
 
-<span class="atom-split" data-atom="002" data-title="Whether there should be Order in the Church?" data-chapter="Whether there should be Order in the Church?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Whether there should be Order in the Church?" data-chapter="Whether there should be Order in the Church?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there should not be Order in the Church. For Order requires
 subjection and preeminence. But subjection seemingly is incompatible with the liberty whereunto
@@ -111,7 +119,7 @@ Risposta all’Obiezione 2: Ognuno dovrebbe considerarsi inferiore per meriti, n
 
 Risposta all’Obiezione 3: L’ordine tra gli angeli non deriva dalla differenza di natura, a meno che ciò avvenga in modo accidentale; infatti, la differenza di grazia tra loro deriva soltanto dalla differenza di natura. Tuttavia, nel caso degli angeli, tale differenza di grazia deriva direttamente dalla diversità delle loro grazie ricevute; poiché i loro ordini riguardano la loro partecipazione alle realtà divine e la loro capacità di comunicarle nello stato di gloria, che è determinato dalla misura della grazia stessa – essendo questa, in qualche modo, lo scopo e l’effetto stesso della grazia. D’altra parte, gli ordini all’interno della Chiesa militante riguardano la partecipazione ai sacramenti e la loro distribuzione; questi ultimi, infatti, sono la causa della grazia e, in un certo senso, precedono essa stessa. Pertanto, i nostri ordini non richiedono la grazia santificatrice, ma soltanto la capacità di amministrare i sacramenti; per questo motivo, l’ordine all’interno della Chiesa corrisponde non alla differenza nella grazia santificatrice, ma piuttosto alla diversità delle funzioni e dei poteri esercitati all’interno della comunità ecclesiastica.
 
-<span class="atom-split" data-atom="003" data-title="Whether Order is properly defined?" data-chapter="Whether Order is properly defined?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether Order is properly defined?" data-chapter="Whether Order is properly defined?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/act_potency"></span>
 
 Objection 1: It would seem that order is improperly defined by the Master (Sent. iv, D, 53),
 where it is said "Order is a seal of the Church, whereby spiritual power is conferred on the person
@@ -183,7 +191,7 @@ Risposta all’Obiezione 3: Nel Battesimo viene conferita una certa [potenzialit
 
 Risposta all’Obiezione 4: La parola “ordine” viene utilizzata in due modi diversi. A volte indica la relazione stessa, e quindi si applica sia al caso di ciò che è inferiore che a quello di ciò che è superiore, come afferma l’obiezione; ma non è in questo senso che la usiamo qui. D’altra parte, la parola indica il grado di superiorità che deriva dalla relazione intesa nel primo significato. Poiché il concetto di ordine come relazione si manifesta quando incontriamo qualcosa che è superiore a un altro, ne consegue che questo grado di preminenza, derivante dal potere spirituale, viene chiamato “ordine”.
 
-<span class="atom-split" data-atom="004" data-title="Whether Order is a sacrament?" data-chapter="Whether Order is a sacrament?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether Order is a sacrament?" data-chapter="Whether Order is a sacrament?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Order is not a [sacrament](/concepts/sacrament). For a sacrament, according to Hugh
 of St. Victor (De Sacram. i) "is a material element." Now Order denotes nothing of the kind, but
@@ -238,7 +246,7 @@ Risposta all’Obiezione 2: Il potere deve necessariamente essere proporzionato 
 
 Risposta all’Obiezione 3: Non ogni benedizione o consacrazione concessa agli uomini è un sacramento, poiché sia i monaci che gli abati vengono benedetti, e tuttavia tali benedizioni non sono sacramenti; allo stesso modo, nemmeno l’unzione di un re lo è: infatti, con queste benedizioni gli uomini non vengono ordinati al ministero dei sacramenti divini, come avviene invece con la benedizione che conferisce l’ordine religioso. Pertanto, il paragone non regge.
 
-<span class="atom-split" data-atom="005" data-title="Whether the form of this sacrament is suitably expressed?" data-chapter="Whether the form of this sacrament is suitably expressed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether the form of this sacrament is suitably expressed?" data-chapter="Whether the form of this sacrament is suitably expressed?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the form of this [sacrament](/concepts/sacrament) is unsuitably set forth in the text
 (Sent. iv, D, 24). Because the sacraments take their efficacy from their form. Now the efficacy of
@@ -313,7 +321,7 @@ Risposta all’Obiezione 3: L’uso del potere è l’effetto del potere nel gen
 
 Risposta all’Obiezione 4: Qui esiste una differenza rispetto agli altri sacramenti. Poiché con questo sacramento viene conferita un’ufficio o il potere di compiere qualcosa; pertanto è appropriato menzionare la ricompensa che si ottiene se esso viene amministrato fedelmente. Negli altri sacramenti, invece, non viene conferita alcuna tale ufficio o potere d’agire, e quindi in loro non si fa menzione di ricompensa. Di conseguenza, il ricevente è in qualche modo passivo rispetto agli altri sacramenti, poiché li riceve esclusivamente al fine di perfezionare il proprio stato personale; mentre riguardo a questo sacramento, egli assume un ruolo più attivo, poiché lo riceve allo scopo di adempiere ai doveri gerarchici all’interno della Chiesa. Pertanto, sebbene anche gli altri sacramenti, per il semplice fatto di donare la grazia, indirizzino il ricevente verso la salvezza, in senso proprio non lo indirizzano verso una ricompensa, al contrario di quanto avviene con questo sacramento.
 
-<span class="atom-split" data-atom="006" data-title="Whether this sacrament has any matter?" data-chapter="Whether this sacrament has any matter?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether this sacrament has any matter?" data-chapter="Whether this sacrament has any matter?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) has no matter. Because in every sacrament that
 has a matter the power that works in the sacrament is in the matter. But in the material objects
@@ -376,7 +384,7 @@ Risposta all’Obiezione 2: È necessario che la materia venga consacrata negli 
 
 Risposta all’Obiezione 3: Se ammettiamo questa affermazione, la sua motivazione risulta chiara da quanto abbiamo detto; poiché il potere dell’ordine viene dal ministro e non dalla materia, la presentazione della materia è più essenziale per il sacramento di un semplice contatto con essa. Tuttavia, le stesse parole della formula sembrerebbero indicare che il contatto con la materia sia effettivamente essenziale per il sacramento, poiché si dice: “Ricevi” questa o quella cosa.
 
-<span class="atom-split" data-atom="007" data-title="OF THE EFFECT OF THIS SACRAMENT (FIVE ARTICLES)" data-chapter="OF THE EFFECT OF THIS SACRAMENT (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="OF THE EFFECT OF THIS SACRAMENT (FIVE ARTICLES)" data-chapter="OF THE EFFECT OF THIS SACRAMENT (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider me effect of this [sacrament](/concepts/sacrament). Under this head there are five points of
 inquiry:
@@ -395,7 +403,7 @@ Dobbiamo ora considerare gli effetti di questo [sacramento](/concepts/sacrament)
 (4) Presuppone necessariamente anche il carattere della Confermazione?  
 (5) Il carattere di un certo ordine presuppone necessariamente quello di un altro ordine?
 
-<span class="atom-split" data-atom="008" data-title="Whether sanctifying grace is conferred in the sacrament of Order?" data-chapter="Whether sanctifying grace is conferred in the sacrament of Order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether sanctifying grace is conferred in the sacrament of Order?" data-chapter="Whether sanctifying grace is conferred in the sacrament of Order?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/sacrament,concepts/divine_law,forms/quaestio"></span>
 
 Objection 1: It would seem that sanctifying grace is not conferred in the [sacrament](/concepts/sacrament) of Order.
 For it is commonly agreed that the sacrament of Order is directed to counteract the defect of
@@ -461,7 +469,7 @@ Risposta all’Obiezione 2: Sebbene i doni della grazia santificante siano comun
 
 Risposta all’Obiezione 3: L’esercizio degno delle Ordini non richiede alcun tipo di bontà, ma una bontà eccellente; in questo modo, coloro che ricevono gli ordini, essendo posti al di sopra del popolo per il grado stesso dell’Ordine, possano essere anche superiori a loro per merito di santità. Pertanto, è richiesto che abbiano la grazia sufficiente per renderli membri degni del popolo di Cristo; ma quando ricevono gli ordini, viene loro concessa una grazia ancora più grande, che li rende idonei a realizzare cose ancora più grandi.
 
-<span class="atom-split" data-atom="009" data-title="Whether in the sacrament of Order a character is imprinted in connection with all the Orders?" data-chapter="Whether in the sacrament of Order a character is imprinted in connection with all the Orders?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether in the sacrament of Order a character is imprinted in connection with all the Orders?" data-chapter="Whether in the sacrament of Order a character is imprinted in connection with all the Orders?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in the [sacrament](/concepts/sacrament) of Order a character is not imprinted in
 connection with all the Orders. For the character of Order is a spiritual power. Now some Orders
@@ -519,7 +527,7 @@ Risposta all’Obiezione 1: Ogni Ordine possiede un atto legato direttamente al 
 Risposta all’Obiezione 2: Per quanto un uomo possa tornare alla vita laica, il suo carattere rimane sempre in lui. Ciò è evidente dal fatto che, se ritorna allo stato clericale, non riceve nuovamente l’ordine religioso che aveva già prima.  
 La risposta all’Terza Obiezione è la stessa della Prima.
 
-<span class="atom-split" data-atom="010" data-title="Whether the character of Order presupposes the baptismal character?" data-chapter="Whether the character of Order presupposes the baptismal character?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the character of Order presupposes the baptismal character?" data-chapter="Whether the character of Order presupposes the baptismal character?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the character of Order does not presuppose the character of
 Baptism. For the character of Order makes a man a dispenser of the sacraments; while the character
@@ -566,7 +574,7 @@ Risposta all’Obiezione 1: In colui che possiede un potere attivo autonomo, il 
 
 Risposta all’Obiezione 2: Un tale uomo, se ordinato al sacerdozio, non è un vero sacerdote e non può né consacrare né assolvere nel tribunale della Penitenza. Pertanto, secondo i canoni, deve essere battezzato e riordinato (Extra De Presbyt. non Bapt., cap. Si quis; cap. Veniens). Anche se venisse elevato all’episcopato, coloro che egli ordina non riceverebbero effettivamente l’ordine sacerdotale. Tuttavia si può credere con pietà che, per quanto riguarda gli effetti ultimi dei sacramenti, il Sommo Sacerdote possa compensare questa mancanza e non permetterebbe mai che tale situazione diventasse così nascosta da mettere in pericolo la Chiesa.
 
-<span class="atom-split" data-atom="011" data-title="Whether the character of Order necessarily presupposes the character of Confirmation?" data-chapter="Whether the character of Order necessarily presupposes the character of Confirmation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the character of Order necessarily presupposes the character of Confirmation?" data-chapter="Whether the character of Order necessarily presupposes the character of Confirmation?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the character of Order necessarily presupposes the character
 of Confirmation. For in things subordinate to one another, as the middle presupposes the first, so
@@ -612,7 +620,7 @@ Risposta all’Obiezione 1: In questo caso, il termine intermedio non ha lo stes
 
 Risposta all’Obiezione 2: Questo argomento considera l’adeguatezza in termini di congruenza.
 
-<span class="atom-split" data-atom="012" data-title="Whether the character of one Order necessarily presupposes the character of another Order?" data-chapter="Whether the character of one Order necessarily presupposes the character of another Order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether the character of one Order necessarily presupposes the character of another Order?" data-chapter="Whether the character of one Order necessarily presupposes the character of another Order?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the character of one Order necessarily presupposes the character
 of another Order. For there is more in common between one Order and another, than between Order
@@ -668,7 +676,7 @@ Risposta all’Obiezione 1: Gli ordini religiosi hanno più in comune tra loro r
 
 Risposta all’Obiezione 2: Gli ordini non sono gradi che si combinano in un’unica azione o in un unico movimento, in modo che sia necessario raggiungere l’ultimo passo attraverso il primo; piuttosto, essi rappresentano gradi costituiti da elementi di natura diversa, come i gradi che separano l’uomo dall’angelo: non è affatto necessario che una creatura angelica sia prima di tutto un essere umano. Lo stesso vale per i rapporti tra la testa e tutti gli altri membri del corpo; non è obbligatorio che ciò che è considerato “testa” sia in precedenza stato “piede”; ed è proprio questo il caso nel nostro esempio.
 
-<span class="atom-split" data-atom="013" data-title="OF THE QUALITIES REQUIRED OF THOSE WHO RECEIVE THIS SACRAMENT (FIVE ARTICLES)" data-chapter="OF THE QUALITIES REQUIRED OF THOSE WHO RECEIVE THIS SACRAMENT (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="OF THE QUALITIES REQUIRED OF THOSE WHO RECEIVE THIS SACRAMENT (FIVE ARTICLES)" data-chapter="OF THE QUALITIES REQUIRED OF THOSE WHO RECEIVE THIS SACRAMENT (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament"></span>
 
 We must next consider the qualities required of those who receive the [sacrament](/concepts/sacrament) of Order.
 Under this head there are five points of inquiry:
@@ -687,7 +695,7 @@ Dobbiamo ora considerare le qualità richieste a coloro che ricevono il [sacrame
 (4) Chi eleva persone indegne all’Ordine commette peccato?  
 (5) Una persona che è in peccato può esercitare l’ordine ricevuto senza commettere ulteriori peccati?
 
-<span class="atom-split" data-atom="014" data-title="Whether goodness of life is required of those who receive Orders?" data-chapter="Whether goodness of life is required of those who receive Orders?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether goodness of life is required of those who receive Orders?" data-chapter="Whether goodness of life is required of those who receive Orders?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that goodness of life is not required of those who receive Orders.
 For by Orders a man is ordained to the dispensation of the sacraments. But the sacraments can be
@@ -753,7 +761,7 @@ Risposta all’Obiezione 2: Il servizio in questione consisteva soltanto nell’
 
 Risposta all’Obiezione 3: Alcuni medicinali richiedono una costituzione fisica robusta; altrimenti assumerli può essere estremamente pericoloso. Altri, invece, possono essere somministrati anche alle persone deboli. Lo stesso vale per le cose spirituali: alcuni sacramenti sono stati istituiti come rimedi al peccato e devono quindi essere conferiti ai peccatori, come il Battesimo e la Penitenza; altri, invece, che conferiscono la perfezione della grazia, richiedono che l’uomo sia già stato rafforzato dalla grazia divina.
 
-<span class="atom-split" data-atom="015" data-title="Whether knowledge of all Holy Writ is required?" data-chapter="Whether knowledge of all Holy Writ is required?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether knowledge of all Holy Writ is required?" data-chapter="Whether knowledge of all Holy Writ is required?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that knowledge of all Holy Writ is required. For one from whose
 lips we seek the law, should have knowledge of the law. Now the laity seek the law at the mouth
@@ -829,7 +837,7 @@ Risposta all’Obiezione 2: La ragione che dobbiamo fornire per la nostra fede e
 
 Risposta all’Obiezione 3: Il lettore non ha il compito di spiegare le Scritture al popolo (poiché ciò compete alle classi sociali più elevate), ma soltanto di pronunciare correttamente quelle parole. Pertanto, non è necessario che possieda una conoscenza approfondita delle Scritture per comprenderle, basta che sappia come pronunciarle correttamente. E poiché tale conoscenza può essere facilmente acquisita da molte fonti, si può presumere con ragionevole certezza che anche un chierico, se non la possiede già, la acquisirà nel tempo, soprattutto se sembra essere sulla strada giusta per ottenerla.
 
-<span class="atom-split" data-atom="016" data-title="Whether a man obtains the degrees of Order by the merit of one's life?" data-chapter="Whether a man obtains the degrees of Order by the merit of one's life?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether a man obtains the degrees of Order by the merit of one's life?" data-chapter="Whether a man obtains the degrees of Order by the merit of one's life?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man obtains the degrees of order by the mere merit of his
 life. For, according to Chrysostom [*Hom. xliii in the Opus Imperfectum, wrongly ascribed to St.
@@ -877,7 +885,7 @@ Risposta all’Obiezione 1: Crisostomo parla del sacerdote in riferimento al mot
 
 Risposta all’Obiezione 2: Le cose naturali acquisiscono un certo grado di superiorità rispetto ad altre proprio perché sono in grado di agire su di esse grazie alla loro forma; pertanto, proprio per il fatto di possedere una forma più elevata, ottengono anche un grado superiore. Tuttavia, i ministri della Chiesa sono posti al di sopra degli altri non per conferire loro qualcosa in virtù della propria santità (poiché ciò appartiene esclusivamente a Dio), ma piuttosto come ministri, e in qualche modo come strumenti, dell’effusione dello Spirito dal Capo verso i membri. Pertanto, il paragone non regge per quanto riguarda la dignità dell’Ordine, anche se è valido per quanto concerne la congruenza delle funzioni svolte.
 
-<span class="atom-split" data-atom="017" data-title="Whether he who raises the unworthy to Orders commits a sin?" data-chapter="Whether he who raises the unworthy to Orders commits a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether he who raises the unworthy to Orders commits a sin?" data-chapter="Whether he who raises the unworthy to Orders commits a sin?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that he who raises the unworthy to orders commits no sin. For a
 bishop needs assistants appointed to the lesser offices. But he would be unable to find them in
@@ -1024,7 +1032,7 @@ Risposta all’Obiezione 3: Finché un ministro della Chiesa che si trova in pec
 
 Risposta all’Obiezione 4: Quando un uomo compie un atto nel ruolo di ministro della Chiesa mentre si trova in uno stato di peccato mortale, commette un peccato mortale; e ogni volta che ripete quell’atto, poiché, come afferma Dionigi (Eccl. Hier. I), “è sbagliato persino per chi è impuro toccare i simboli”, cioè i segni sacramentali, commette un peccato mortale anche quando, nell’esercizio delle proprie funzioni, tocca oggetti sacri. Sarebbe diverso se dovesse toccare un oggetto sacro o adempiere a un dovere sacro in caso di necessità, quando ciò sarebbe permesso anche a un laico; ad esempio, se dovesse battezzare in una situazione d’urgenza o raccogliere il corpo del Signore se fosse stato gettato a terra.
 
-<span class="atom-split" data-atom="018" data-title="OF THE DISTINCTION OF ORDERS, OF THEIR ACTS, AND THE IMPRINTING OF THE CHARACTER (FIVE ARTICLES)" data-chapter="OF THE DISTINCTION OF ORDERS, OF THEIR ACTS, AND THE IMPRINTING OF THE CHARACTER (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="OF THE DISTINCTION OF ORDERS, OF THEIR ACTS, AND THE IMPRINTING OF THE CHARACTER (FIVE ARTICLES)" data-chapter="OF THE DISTINCTION OF ORDERS, OF THEIR ACTS, AND THE IMPRINTING OF THE CHARACTER (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 In the next place we must consider the distinction of the orders and their acts, and the imprinting
 of the character. Under this head there are five points of inquiry:
@@ -1043,7 +1051,7 @@ In seguito, dobbiamo considerare la distinzione tra le varie ordini e i loro att
 (4) Gli atti associati a ciascun ordine sono correttamente indicati nel testo?  
 (5) In quale momento si forma il carattere distintivo legato a ciascun ordine?
 
-<span class="atom-split" data-atom="019" data-title="Whether we ought to distinguish several Orders?" data-chapter="Whether we ought to distinguish several Orders?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether we ought to distinguish several Orders?" data-chapter="Whether we ought to distinguish several Orders?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought not to distinguish several Orders. For the greater a
 power is, the less is it multiplied. Now this [sacrament](/concepts/sacrament) ranks above the others in so far as it places
@@ -1120,7 +1128,7 @@ Risposta all’Obiezione 2: La divisione degli Ordini non è quella di un tutto 
 
 Risposta all’Obiezione 3: In un regno, sebbene l’interezza del potere risieda nel re, ciò non esclude che i ministri possedano un potere che rappresenti una partecipazione di quel potere regale. Lo stesso vale per l’Ordine sociale. Nella forma aristocratica di governo, invece, l’interezza del potere non risiede in nessuno in particolare, ma in tutti i membri della comunità.
 
-<span class="atom-split" data-atom="020" data-title="Whether there are seven Orders? (parte 1)" data-chapter="Whether there are seven Orders?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether there are seven Orders? (parte 1)" data-chapter="Whether there are seven Orders?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there are not seven Orders. For the Orders of the Church are
 directed to the hierarchical acts. But there are only three hierarchical acts, namely "to cleanse, to
@@ -1230,7 +1238,7 @@ Si afferma che il sacramento dell’Ordine sia rivolto al sacramento dell’Euca
 
 Risposta all’Obiezione 1: Dionigi parla degli ordini non come di sacramenti, ma come di istituzioni destinate ad orientare le azioni gerarchiche. Per questo motivo distingue tre ordini, corrispondenti a tali azioni. Il primo di questi ordini, ovvero quello del vescovo, comprende tutte e tre le funzioni; il secondo, ovvero quello del sacerdote, ne include due; mentre il terzo ne comprende una sola, ovvero quella della purificazione: si tratta dell’ordine dei diaconi, chiamati “ministri”. Tutti gli ordini inferiori sono inclusi in questo ultimo. Tuttavia, gli ordini ricevono la loro natura sacramentale dalla loro relazione con il più importante dei sacramenti; di conseguenza, il numero stesso degli ordini dipende da questa relazione.
 
-<span class="atom-split" data-atom="021" data-title="Whether there are seven Orders? (parte 2)" data-chapter="Whether there are seven Orders?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether there are seven Orders? (parte 2)" data-chapter="Whether there are seven Orders?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/religion,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 2: In the early Church, on account of the fewness of ministers, all the lower
 ministries were entrusted to the deacons, as Dionysius says (Eccl. Hier. iii), where he says: "Some
@@ -1273,7 +1281,7 @@ Risposta all’Obiezione 4: Gli angeli differiscono tra loro per specifici aspet
 
 Risposta all’Obiezione 5: La funzione di salmista non costituisce un Ordine religioso, ma è una funzione annessa a un Ordine stesso. Il salmista viene infatti talvolta chiamato anche “precentore”, poiché i salmi vengono recitati accompagnati dal canto. Ora, “precentore” non indica un Ordine religioso specifico: innanzitutto perché il canto è compito di tutto il coro, e in secondo luogo perché il ruolo del precentore non ha alcuna relazione particolare con il sacramento dell’Eucaristia. Tuttavia, poiché si tratta comunque di una funzione specifica all’interno di un Ordine religioso, talvolta viene inclusa tra gli Ordini stessi, se questi vengono intesi in senso lato.
 
-<span class="atom-split" data-atom="022" data-title="Whether the Order should be divided into those that are sacred and those that are not?" data-chapter="Whether the Order should be divided into those that are sacred and those that are not?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the Order should be divided into those that are sacred and those that are not?" data-chapter="Whether the Order should be divided into those that are sacred and those that are not?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Orders ought not to be divided into those that are sacred
 and those that are not. For all the Orders are sacraments, and all the sacraments are sacred. Therefore
@@ -1306,7 +1314,7 @@ Al contrario, gli ordini sacri rappresentano un ostacolo alla stipula del matrim
 Rispondo che un Ordine viene considerato sacro in due modi. Primo, in sé stesso; pertanto ogni Ordine è sacro, poiché rappresenta un [sacramento](/concepts/sacrament). Secondo, in relazione al soggetto su cui esercita la propria funzione; un Ordine è quindi definito sacro quando tale funzione riguarda qualcosa di consacrato. In questo senso, esistono soltanto tre Ordini sacri: il sacerdozio e il diaconato, che operano su corpo e sangue consacrati di Cristo, e il subdiaconato, che opera sugli oggetti consacrati. Per tale motivo viene loro imposto il dovere della continenza, affinché coloro che manipolano cose sacre possano essi stessi rimanere santi e puri.  
 Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="023" data-title="Whether the acts of the Orders are rightly assigned in the text? (parte 1)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether the acts of the Orders are rightly assigned in the text? (parte 1)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the acts of the Orders are not rightly assigned in the text (Sent.
 iv, D, 24). Because a person is prepared by absolution to receive Christ's body. Now the preparation
@@ -1454,7 +1462,7 @@ Risposta all’Obiezione 7: Gli atti fisici dell’accolito sono strettamente le
 
 Risposta all’Obiezione 8: L’atto dell’accolito è strettamente legato agli atti principali dei ministeri superiori, più di quanto lo siano gli atti degli altri ordini minori; ciò è evidente da sé stesso. Inoltre, per quanto riguarda gli atti secondari attraverso i quali questi ministri preparano il popolo con la dottrina, l’accolito, portando una lampada, rappresenta in modo visibile la dottrina del Nuovo Testamento, mentre il lettore la rappresenta in modo diverso; per questo motivo l’accolito occupa un rango più elevato. Lo stesso vale per l’esorcista: poiché l’atto del lettore può essere paragonato all’atto secondario del diacono e del sottodiacono, così anche l’atto dell’esorcista può essere paragonato all’atto secondario del sacerdote, ovvero quello di legare e sciogliere, atto mediante il quale l’uomo viene completamente liberato dalla schiavitù di Satana. Anche questo dimostra quanto i gradi degli ordini religiosi siano ben organizzati: soltanto i tre ordini superiori collaborano con il sacerdote nell’atto principale, che è la consacrazione del corpo di Cristo, mentre sia gli ordini superiori che quelli inferiori collaborano con lui negli atti secondari, ovvero in quelli legati al rilascio e alla vincolazione delle persone.
 
-<span class="atom-split" data-atom="024" data-title="Whether the acts of the Orders are rightly assigned in the text? (parte 2)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether the acts of the Orders are rightly assigned in the text? (parte 2)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 9: Some say that in receiving the Order the doorkeeper is given a Divine
 power to debar others from entering the Church, even as Christ had, when He cast out the sellers
@@ -1469,7 +1477,7 @@ be said there.
 
 Risposta all’Obiezione 9: Alcuni sostengono che, ricevendo l’Ordine, il custode della chiesa venga dotato di un potere divino che gli permette di impedire ad altri l’ingresso nella chiesa, proprio come fece Cristo quando scacciò i venditori dal Tempio. Tuttavia, questo tipo di grazia appartiene più a una grazia gratuita che a una grazia sacramentale. Pertanto, si dovrebbe rispondere che il custode riceve tale potere in virtù del proprio ufficio; anche altri potrebbero compiere lo stesso atto, ma non in modo ufficiale. È proprio questo il caso per tutti gli atti degli Ordini minori: essi possono essere legittimamente eseguiti da altre persone, anche se queste non possiedono l’ufficio specifico per farlo; allo stesso modo, la Messa può essere celebrata in un edificio non consacrato, anche se la consacrazione di una chiesa ha lo scopo proprio di permettere la celebrazione della Messa in quel luogo.
 
-<span class="atom-split" data-atom="025" data-title="Whether the character is imprinted on a priest when the chalice is handed to him?" data-chapter="Whether the character is imprinted on a priest when the chalice is handed to him?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the character is imprinted on a priest when the chalice is handed to him?" data-chapter="Whether the character is imprinted on a priest when the chalice is handed to him?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the character is not imprinted on the priest at the moment when
 the chalice is handed to him. For the consecration of a priest is done by anointing as in Confirmation.
@@ -1585,7 +1593,7 @@ Infatti, il presbitero esercita un potere direttamente sul corpo di Cristo, il s
 
 Risposta all’Obiezione 6: L’atto dell’accolito che consiste nel servire nelle funzioni secondarie, prima di quello di portare la torcia; sebbene il suo nome derivi da quest’ultimo atto, poiché è più noto e più appropriato a lui. Pertanto, l’accolito acquisisce tale ruolo quando gli viene conferita la torcia, in virtù delle parole pronunciate dal vescovo.
 
-<span class="atom-split" data-atom="026" data-title="OF THOSE WHO CONFER THIS SACRAMENT (TWO ARTICLES)" data-chapter="OF THOSE WHO CONFER THIS SACRAMENT (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="OF THOSE WHO CONFER THIS SACRAMENT (TWO ARTICLES)" data-chapter="OF THOSE WHO CONFER THIS SACRAMENT (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 We must now consider those who confer this [sacrament](/concepts/sacrament). Under this head there are two points
 of inquiry:
@@ -1598,7 +1606,7 @@ Dobbiamo ora considerare coloro che conferiscono questo [sacramento](/concepts/s
 (1) Se solo un vescovo possa conferire questo sacramento;  
 (2) Se un eretico o qualsiasi altra persona separata dalla Chiesa possa conferirlo.
 
-<span class="atom-split" data-atom="027" data-title="Whether a bishop alone confers the sacrament of Order? (parte 1)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether a bishop alone confers the sacrament of Order? (parte 1)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that not only a bishop confers the [sacrament](/concepts/sacrament) of Order. For the
 imposition of hands has something to do with the consecration. Now not only the bishop but also
@@ -1746,7 +1754,7 @@ Obiezione 5: Inoltre, è necessaria una benedizione per conferire gli ordini sac
 
 Al contrario, quando un vescovo che è caduto in eresia viene riconciliato con la Chiesa, non viene ricongiurato; pertanto non perde il potere che aveva di conferire gli ordini sacri. Inoltre, il potere di ordinare è più importante del potere stesso di conferire gli ordini. Ma nemmeno il potere di ordinare viene meno a causa dell’eresia o di simili motivi. Così come colui che battezza svolge un compito esclusivamente esteriore, allo stesso modo colui che ordina svolge una funzione puramente formale, mentre Dio agisce in modo interiore nel cuore delle persone. Tuttavia, chi viene allontanato dalla Chiesa non perde affatto il potere di battezzare; ne consegue che non perde nemmeno il potere di ordinare.
 
-<span class="atom-split" data-atom="028" data-title="Whether a bishop alone confers the sacrament of Order? (parte 2)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether a bishop alone confers the sacrament of Order? (parte 2)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 I answer that, on this question four opinions are mentioned in the text (Sent. iv, D, 25). For
 some said that heretics, so long as they are tolerated by the Church, retain the power to ordain, but
@@ -1808,7 +1816,7 @@ Risposta all’Obiezione 4: Essi sono uniti alla passione di Cristo attraverso l
 
 Risposta all’Obiezione 5: Ciò riguarda l’effetto finale dei sacramenti, come sostiene la terza opinione.
 
-<span class="atom-split" data-atom="029" data-title="OF THE IMPEDIMENTS TO THIS SACRAMENT (SIX ARTICLES)" data-chapter="OF THE IMPEDIMENTS TO THIS SACRAMENT (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="OF THE IMPEDIMENTS TO THIS SACRAMENT (SIX ARTICLES)" data-chapter="OF THE IMPEDIMENTS TO THIS SACRAMENT (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament"></span>
 
 We must next consider the impediments to this [sacrament](/concepts/sacrament). Under this head there are six points
 of inquiry:
@@ -1829,7 +1837,7 @@ Dobbiamo ora considerare gli ostacoli che possono impedire la ricezione di quest
 (5) La nascita illegittima rappresenta un ostacolo?  
 (6) La mancanza di organi genitali rappresenta un ostacolo?
 
-<span class="atom-split" data-atom="030" data-title="Whether the female sex is an impediment to receiving Orders?" data-chapter="Whether the female sex is an impediment to receiving Orders?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the female sex is an impediment to receiving Orders?" data-chapter="Whether the female sex is an impediment to receiving Orders?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the female sex is no impediment to receiving Orders. For the
 office of prophet is greater than the office of priest, since a prophet stands midway between God
@@ -1896,7 +1904,7 @@ Rispondo che alcune condizioni sono necessarie nel ricevente di un sacramento af
 Risposta all’Obiezione 1: La profezia non è un sacramento, ma un dono di Dio. Pertanto, in questo caso non si tratta di un segno simbolico, ma soltanto della realtà stessa che è necessaria per l’esercizio di tale dono. E poiché, in materia relativa all’anima, la donna non differisce dall’uomo riguardo al contenuto essenziale di tale dono (infatti talvolta si trova una donna più dotata di molti uomini sotto questo aspetto), ne consegue che lei può ricevere il dono della profezia e simili, ma non il sacramento dell’Ordine sacerdotale.  
 Con ciò si risponde anche alle Seconda e Terza Obiezioni. Tuttavia, per quanto riguarda le abbadesse, si afferma che esse non possiedano un’autorità ordinaria, ma soltanto un potere delegato, in considerazione del pericolo derivante dalla convivenza di uomini e donne. Ma Debora esercitò il proprio potere in questioni temporali, non sacerdotali; allo stesso modo, anche oggi una donna può detenere poteri di natura temporale.
 
-<span class="atom-split" data-atom="031" data-title="Whether boys and those who lack the use of reason can receive Orders?" data-chapter="Whether boys and those who lack the use of reason can receive Orders?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether boys and those who lack the use of reason can receive Orders?" data-chapter="Whether boys and those who lack the use of reason can receive Orders?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/act_potency,concepts/reason"></span>
 
 Objection 1: It would seem that boys and those who lack the use of reason cannot receive
 Orders. For, as stated in the text (Sent. iv, D, 25), the sacred canons have appointed a certain fixed
@@ -1966,7 +1974,7 @@ Risposta all’Obiezione 2: La causa del matrimonio è il consenso, che non può
 
 Risposta all’Obiezione 3: Atto e potere appartengono allo stesso soggetto; tuttavia, a volte un potere, come la volontà libera, precede il proprio atto; ed è proprio questo il caso in questione.
 
-<span class="atom-split" data-atom="032" data-title="Whether the state of slavery is an impediment to receiving Orders?" data-chapter="Whether the state of slavery is an impediment to receiving Orders?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether the state of slavery is an impediment to receiving Orders?" data-chapter="Whether the state of slavery is an impediment to receiving Orders?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [the state](/concepts/state) of slavery is not an impediment to receiving Orders.
 For corporal subjection is not incompatible with spiritual authority. But in a slave there is corporal
@@ -2048,7 +2056,7 @@ Risposta all’Obiezione 4: I segni sacramentali significano in base alla loro s
 
 Risposta all’Obiezione 5: Se viene ordinato sacerdote e il suo padrone ne è a conoscenza senza opporsi, proprio per questo fatto diventa un uomo libero. Tuttavia, se il padrone è all’oscuro della cosa, sia il vescovo che colui che lo ha presentato sono obbligati a pagare al padrone il doppio del valore dello schiavo, qualora sapessero che si trattava di uno schiavo. In caso contrario, se lo schiavo possiede beni propri, è tenuto a comprarsi la libertà; altrimenti dovrà tornare in schiavitù, nonostante l’impossibilità per lui di esercitare le funzioni sacerdotali.
 
-<span class="atom-split" data-atom="033" data-title="Whether a man should be debarred from receiving Orders on account of homicide?" data-chapter="Whether a man should be debarred from receiving Orders on account of homicide?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether a man should be debarred from receiving Orders on account of homicide?" data-chapter="Whether a man should be debarred from receiving Orders on account of homicide?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/custom,concepts/divine_law,forms/quaestio"></span>
 
 Objection 1: It would seem that a man ought not to be debarred from receiving Orders on
 account of homicide. Because our Orders originated with the office of the Levites, as stated in the
@@ -2110,7 +2118,7 @@ Risposta all’Obiezione 2: L’irregolarità non deriva soltanto dal peccato, m
 
 Risposta all’Obiezione 3: Nessuno compie un atto senza essere la sua causa; nell’uomo, tale azione è volontaria. Pertanto, colui che per disgrazia uccide qualcuno senza sapere che si tratta di una persona umana non viene considerato responsabile di omicidio, né incorre in alcuna sanzione legale (a meno che non stesse compiendo un atto illecito o non abbia mancato di prestare la dovuta attenzione; in questi casi, l’atto diventa in qualche modo volontario). Tuttavia, ciò non significa che non sia colpevole, poiché anche in assenza di colpa si possono verificare sanzioni legali. Pertanto, anche colui che, in un determinato caso, uccide qualcuno per legittima difesa senza commettere alcun peccato, comunque incorre in una sanzione legale [*San Tommaso parla secondo il diritto canonico del suo tempo; oggi la situazione è diversa.*].
 
-<span class="atom-split" data-atom="034" data-title="Whether those of illegitimate birth should be debarred from receiving Orders?" data-chapter="Whether those of illegitimate birth should be debarred from receiving Orders?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether those of illegitimate birth should be debarred from receiving Orders?" data-chapter="Whether those of illegitimate birth should be debarred from receiving Orders?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that those who are of illegitimate birth should not be debarred from
 receiving Orders. For the son should not bear the iniquity of the father (Ezech. 18:20); and yet he
@@ -2153,7 +2161,7 @@ Risposta all’Obiezione 1: L’irregolarità non rappresenta una punizione dovu
 
 Risposta all’Obiezione 2: Ciò che un uomo compie con le proprie azioni può essere annullato dal pentimento o da un atto contrario; ciò che invece deriva dalla natura non può essere modificato in questo modo. Pertanto, il paragone tra l’atto peccaminoso e la sua origine naturale è privo di fondamento.
 
-<span class="atom-split" data-atom="035" data-title="Whether lack of members should be an impediment?" data-chapter="Whether lack of members should be an impediment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether lack of members should be an impediment?" data-chapter="Whether lack of members should be an impediment?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man ought not to be debarred from receiving Orders on
 account of a lack of members. For one who is afflicted should not receive additional affliction.
@@ -2188,7 +2196,7 @@ Al contrario, coloro che commettevano simili atti erano esclusi dall’esercitar
 Rispondo che, come emerge da quanto abbiamo detto sopra (AA[3],4,5), un uomo è escluso dall’ ricevere gli Ordini, sia a causa di un impedimento che riguarda l’esecuzione stessa dell’atto, sia a causa di un difetto che ne compromette la dignità personale. Pertanto, colui che soffre di una menomazione tale da causare un evidente difetto estetico, che offuschi la sua bellezza o renda impossibile l’esercizio dell’Ordine ricevuto, è escluso dall’ riceverlo; altrimenti, non lo è. Tuttavia, questa integrità fisica è necessaria soltanto per garantire la legalità, e non la validità, del [sacramento](/concepts/sacrament) stesso.  
 Ciò basta per rispondere alle obiezioni avanzate.
 
-<span class="atom-split" data-atom="036" data-title="OF THE THINGS ANNEXED TO THE SACRAMENT OF ORDER (SEVEN ARTICLES)" data-chapter="OF THE THINGS ANNEXED TO THE SACRAMENT OF ORDER (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="OF THE THINGS ANNEXED TO THE SACRAMENT OF ORDER (SEVEN ARTICLES)" data-chapter="OF THE THINGS ANNEXED TO THE SACRAMENT OF ORDER (SEVEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the things that are annexed to the [sacrament](/concepts/sacrament) of Order. Under this head
 there are seven points of inquiry:
@@ -2211,7 +2219,7 @@ Dobbiamo ora considerare gli elementi che sono collegati al [sacramento](/concep
 (6) Se nella Chiesa possa esistere qualche potere superiore all’episcopato;  
 (7) Se gli abiti dei ministri siano stati adeguatamente istituiti dalla Chiesa stessa.
 
-<span class="atom-split" data-atom="037" data-title="Whether those who are ordained ought to wear the tonsure?" data-chapter="Whether those who are ordained ought to wear the tonsure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether those who are ordained ought to wear the tonsure?" data-chapter="Whether those who are ordained ought to wear the tonsure?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that those who are ordained ought not to wear the tonsure in the
 shape of a crown. For the Lord threatened captivity and dispersion to those who were shaven in
@@ -2279,7 +2287,7 @@ Risposta all’Obiezione 2: Le cose compiute nell’Antico Testamento rappresent
 
 Risposta all’Obiezione 3: Non solo la rinuncia alle caratteristiche temporali, ma anche la dignità regale devono essere simboleggiate dalla forma di una corona; pertanto i capelli non dovrebbero essere tagliati completamente. Un altro motivo è che ciò sarebbe inappropriato.
 
-<span class="atom-split" data-atom="038" data-title="Whether the tonsure is an Order?" data-chapter="Whether the tonsure is an Order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether the tonsure is an Order?" data-chapter="Whether the tonsure is an Order?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/religion,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the tonsure is an Order. For in the acts of the Church the
 spiritual corresponds to the corporal. Now the tonsure is a corporal sign employed by the Church.
@@ -2337,7 +2345,7 @@ Risposta all’Obiezione 2: Sebbene un uomo non riceva alcun carattere specifico
 
 Risposta all’Obiezione 3: Un uomo, in quanto chierico, si trova in uno stato più elevato rispetto a un laico; tuttavia, per quanto riguarda il potere, non possiede quel grado più alto che è richiesto per ricoprire certi ordini religiosi.
 
-<span class="atom-split" data-atom="039" data-title="Whether by receiving the tonsure a man renounces temporal goods?" data-chapter="Whether by receiving the tonsure a man renounces temporal goods?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether by receiving the tonsure a man renounces temporal goods?" data-chapter="Whether by receiving the tonsure a man renounces temporal goods?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that men renounce temporal goods by receiving the tonsure, for
 when they are tonsured they say: "The Lord is the portion of my inheritance." But as Jerome says
@@ -2396,7 +2404,7 @@ Risposta all’Obiezione 2: Nell’Antico Testamento i Leviti possedevano il dir
 
 Risposta all’Obiezione 3: I chierici elevati alle ordini sacri, se poveri, devono essere sostenuti dal vescovo che li ha ordinati; altrimenti, tale obbligo non sussiste. Inoltre, essi sono tenuti a servire la Chiesa nell’ordine che hanno ricevuto. Le parole di Ugo si riferiscono a coloro che non dispongono di mezzi per vivere.
 
-<span class="atom-split" data-atom="040" data-title="Whether above the priestly Order there ought to be an episcopal power?" data-chapter="Whether above the priestly Order there ought to be an episcopal power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Whether above the priestly Order there ought to be an episcopal power?" data-chapter="Whether above the priestly Order there ought to be an episcopal power?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there ought not to be an episcopal power above the priestly
 Order. For as stated in the text (Sent. iv, D, 24) "the priestly Order originated from Aaron." Now
@@ -2470,7 +2478,7 @@ Risposta all’Obiezione 2: Non esiste alcuna potenza superiore in relazione a q
 
 Risposta all’Obiezione 3: Proprio come le perfezioni di tutte le cose naturali esistono già in Dio come loro modello, così Cristo fu il modello di tutti gli uffici ecclesiastici. Pertanto, ogni ministro della Chiesa è, in qualche modo, una copia di Cristo, come affermato nel testo (Sentenze, iv, D, 24). Tuttavia, il vescovo rappresenta Cristo con una perfezione maggiore: un sacerdote, infatti, rappresenta Cristo perché Egli stesso ha svolto determinati ministeri, mentre il vescovo rappresenta Cristo perché ha istituito altri ministri e fondato la Chiesa. Pertanto spetta al vescovo dedicare le cose agli uffici divini, stabilendo così il culto divino secondo l’esempio di Cristo. Per questa stessa ragione, il vescovo è chiamato in modo particolare “lo sposo della Chiesa”, proprio come lo è Cristo.
 
-<span class="atom-split" data-atom="041" data-title="Whether the episcopate is an Order?" data-chapter="Whether the episcopate is an Order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether the episcopate is an Order?" data-chapter="Whether the episcopate is an Order?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the episcopate is an Order. First of all, because Dionysius
 (Eccl. Hier. v) assigns these three orders to the ecclesiastical hierarchy, the bishop, the priest, and
@@ -2528,7 +2536,7 @@ Risposta all’Obiezione 2: L’Ordine, considerato come un sacramento che impri
 
 Risposta all’Obiezione 3: Il potere episcopale è non solo di giurisdizione, ma anche di Ordine, come già detto, inteso nel senso comune del termine.
 
-<span class="atom-split" data-atom="042" data-title="Whether in the Church there can be anyone above the bishops?" data-chapter="Whether in the Church there can be anyone above the bishops?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether in the Church there can be anyone above the bishops?" data-chapter="Whether in the Church there can be anyone above the bishops?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there cannot be anyone in the Church higher than the bishops.
 For all the bishops are the successors of the apostles. Now the power so given to one of the apostles,
@@ -2613,7 +2621,7 @@ Risposta all’Obiezione 2: Il rito ebraico non si diffuse nei vari regni e prov
 
 Risposta all’Obiezione 3: Il potere sacerdotale è superato dal potere vescovile, poiché si tratta di un potere di diversa natura; ma il potere vescovile è a sua volta superato dal potere papale, poiché appartengono alla stessa categoria. Pertanto, un vescovo può compiere ogni atto gerarchico che anche il Papa può compiere; mentre un sacerdote non può compiere tutti gli atti che un vescovo può eseguire nell’amministrazione dei sacramenti. Quindi, in materia relativa all’Ordine episcopale, tutti i vescovi sono uguali tra loro, e per questo motivo qualsiasi vescovo può consacrare un altro vescovo.
 
-<span class="atom-split" data-atom="043" data-title="Whether the vestments of the ministers are fittingly instituted in the Church?" data-chapter="Whether the vestments of the ministers are fittingly instituted in the Church?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the vestments of the ministers are fittingly instituted in the Church?" data-chapter="Whether the vestments of the ministers are fittingly instituted in the Church?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/sacrament,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the vestments of the ministers are not fittingly instituted in the
 Church. For the ministers of the New Testament are more bound to chastity than were the ministers

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Ortega recalls his objections to the United States voiced in Buenos Aires in 1928 and in The Revolt of the Masses, and attacks the European snobbery that mistook a favourable hour for a radical collective superiority. Old European heads have no right to be naive — naivety in the old is called dotage; young peoples, by contrast, have the right to err with impunity.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +108,7 @@ Bisognerebbe, dunque, definire la «vita coloniale» non come è stata qua o là
 
 Con questo insinua già il mio primo carattere di questa forma di vita umana: che è soltanto tappa, periodo, momento verso un'altra. La «vita orientale», la «vita antica», la «vita europea», durarono o dureranno più o meno millenni, ma anche se non ne restasse traccia sarebbero in sé stesse imperiture, intransitorie, per la semplice ragione che non sono transito a un'altra vita, ma terminano dentro sé stesse. La vita coloniale, in cambio, porta dentro di sé l'inesorabile condizione di sfociare in un'altra forma di vita che è già stabile —la vita autoctona.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Con esto nos hallamos ya en un segundo carácter: la vida colonial es la no autóctona. Es decir, que el hombre que la vive no pertenece al espacio geográfico en que la vive. Pero dicha así, la cosa no está clara. Porque no toda emigración, no toda invasión es colonización. No basta, pues, que un pueblo caiga en un espacio distinto de aquél en que nació y se desarrolló para que se produzca el fenómeno «colonia». Hay una forma histórica de incongruencia entre hombre y espacio o tierra que es precisamente lo inverso de una colonización. Cuando los bárbaros pasan el limes romano y se instalan en aquellas tierras hipercivilizadas, no sólo pasan de un espacio a otro, sino de un tiempo a otro. La tierra no es sólo espacio, sino tiempo. Cada tierra está en un cierto estadio de «cultivo», de civilización, según sean los hombres autóctonos que la habitaban. La inseparabilidad de espacio y tiempo que la Física actual nos enseña vale también para la Historia y la Geografía. Cuando el bárbaro entra en tierra romana pasa súbitamente de una tierra históricamente más joven a una tierra históricamente más vieja. El bárbaro, pues, se avejenta de [modo](/concepts/mode) automático y traspasa su mocedad a las viejas razas invadidas por él. Sufre el anacronismo entre la edad de su organismo vital —que es juvenil— y la de la tierra donde irrumpe, que es senescente.
 
@@ -174,7 +180,7 @@ III
 
 Secondo la nostra equazione, l'uomo coloniale è l'uomo di una razza antica e avanzata la cui intimità è ricaduta nel primitivismo mentre il suo dintorno vitale gode di piena civiltà. Questo anacronismo vivente, questa duplicità costituzionale motiva la perenne illusione ottica che l'americano produce. La nostra sincerità avverte, vogliamo o no, una strana inquietudine nel tratto con lui. Nessuna delle posture che davanti a lui adottiamo è sufficiente. Sempre dobbiamo completarla con la contraria. Ed è che le due zone del suo essere, la periferica e l'intima, hanno cronologia distinta.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Hay una imagen errónea que desorienta nuestra comprensión del hombre en general. Suponemos que la personalidad humana se forma partiendo de un núcleo central, que es lo más íntimo de ella, el cual, creciendo, engrosándose y perfeccionándose, llega en su periferia a constituir nuestro yo social, aquello de cada uno de nosotros que da hacia los demás. La verdad, sin embargo, ha sido siempre lo contrario. Lo primero que del hombre se forma es su persona social, el repertorio de acciones, normas, ideas, hábitos, tendencias, en que consiste nuestro trato con los prójimos. Y puede llegarse —es precisamente el [caso](/concepts/fortune) del americano— a poseer una personalidad social muy civilizada, muy estimable y llena de virtudes, o, al menos, destrezas cuando aún la intimidad casi no existe. Tendríamos entonces que la persona podría representarse por una esfera hueca. La pared de la esfera —el espíritu social de la persona— es más o menos gruesa, pero, al cabo, tras ella hay un vacío central. Conforme progresa la plenificación de su cultura personal, la pared crece hacia dentro, va creando capas más internas del individuo. El término ideal del desarrollo sería que la esfera espiritual en que consiste la persona fuera maciza y compacta.
 

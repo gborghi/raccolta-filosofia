@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial note to the subscribers of El Espectador: it explains the delay of the second volume by the trip to Argentina, recounts the crossing, and praises the Argentine public's ability to discriminate values. Personal chronicle and editorial apology.
 

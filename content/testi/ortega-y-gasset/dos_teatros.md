@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > It contrasts French classical tragedy — an art for aristocracies that reduces action to a minimum and delights in analysing passions and in the normative exemplarity of its characters — with popular Spanish theatre, which piles up adventures and takes characters wholesale. It notes the incalculable influence of Seneca's tragedies on French dramaturgy.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +79,7 @@ La sostanza di piacere che racchiude il nostro teatro è dello stesso lignaggio 
 
 Vediamo, dunque, in entrambi i teatri due propositi artistici contrapposti: nel dramma castigliano l'essenziale è la peripezia, il destino accidentato e accanto a esso la lirica ornamentazione del verso ricamato. Nella tragedia francese, la cosa più importante è il personaggio stesso, la sua qualità esemplare e paradigmatica. Per questa ragione, Racine ci sembra freddo e monocromo. Diremmo che ci si fa entrare in un giardino dove parlano delle statue e affaticano la nostra ammirazione presentandoci lo stesso modello di gesto. In Lope de Vega, al contrario, troviamo piuttosto pittura che scultura. Una vasta tela piena di tenebre e di luminosità, dove tutto alita colorito e gesticolante, il nobile e il plebeo, l'arcivescovo e il capitano, la regina e la montanara, gente inquieta, loquace, abbondante, estrema, che va e viene follemente, senza ranghi e senza norme, come una pullulazione di infusori nella goccia d'acqua. Per vedere la massa splendida del nostro teatro, non conviene spalancare gli occhi, come chi insegue la linea di un profilo, ma piuttosto socchiuderli, con gesto di pittore, con il gesto di Velázquez che guarda le meninas, i nani e la coppia reale.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Yo creo que este punto de vista es el que nos permite ver hoy nuestro teatro bajo el ángulo más favorable. Los entendidos en literatura española —yo sé muy poco de ella— deberían ensayar su aplicación. Tal vez resulte fecundo y dirija el análisis hasta los valores efectivos de aquella gigantesca cosecha poética.
 

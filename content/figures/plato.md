@@ -3,7 +3,7 @@ id: "plato"
 type: "figure"
 label_it: "Platone"
 label_en: "Plato"
-work_count: 38
+work_count: 37
 tags:
   - "graph/figure"
 title: "Platone"
@@ -12,7 +12,7 @@ title: "Platone"
 
 *Plato*
 
-## Opere (38)
+## Opere (37)
 
 **Aristotle**
 - [Great Ethics (1181a)](/testi/aristotle/great_ethics_1181a)
@@ -43,7 +43,6 @@ title: "Platone"
 - [Filosofía pura Anejo a mi folleto Kant](/testi/ortega-y-gasset/filosofía_pura_anejo_a_mi_folleto_kant)
 - [Hay que reanimar a la República](/testi/ortega-y-gasset/hay_que_reanimar_a_la_república)
 - [La metafísica y Leibniz](/testi/ortega-y-gasset/la_metafísica_y_leibniz)
-- [Las dos grandes metáforas en el segundo centenario del nacimiento de Kant](/testi/ortega-y-gasset/las_dos_grandes_metáforas_en_el_segundo_centenario_del_nacimiento_de_kant)
 - [Los versos de Antonio Machado](/testi/ortega-y-gasset/los_versos_de_antonio_machado)
 - [Muerte y resurrección](/testi/ortega-y-gasset/muerte_y_resurrección)
 - [Pedagogía social](/testi/ortega-y-gasset/pedagogía_social)

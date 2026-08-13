@@ -12,8 +12,16 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > A theological reading of the six days of creation in Genesis: the order by which corporeal creatures are distinguished out of formless matter, the production of light, the firmament, and living bodies, read alongside the natural philosophy of the age.
+
+## Connections
+
+**Concetti:** [[concepts/nature|natura]], [[concepts/forma_substantialis|forma sostanziale]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +36,7 @@ TREATISE ON THE WORK OF THE SIX DAYS (QQ[65]-74)
 
 Trattato sul lavoro dei sei giorni (QQ[65]-74)
 
-<span class="atom-split" data-atom="002" data-title="THE WORK OF CREATION OF CORPOREAL CREATURES (FOUR ARTICLES)" data-chapter="THE WORK OF CREATION OF CORPOREAL CREATURES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="THE WORK OF CREATION OF CORPOREAL CREATURES (FOUR ARTICLES)" data-chapter="THE WORK OF CREATION OF CORPOREAL CREATURES (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 From the consideration of spiritual creatures we proceed to that of corporeal creatures, in the
 production of which, as Holy [Scripture](/concepts/revelation) makes mention, three works are found, namely, the work
@@ -52,7 +60,7 @@ Innanzitutto, dobbiamo quindi considerare la fase della creazione; in secondo lu
 (3) Se siano state create da Dio attraverso gli angeli;  
 (4) Se le forme dei corpi derivino dagli angeli o direttamente da Dio.
 
-<span class="atom-split" data-atom="003" data-title="Whether corporeal creatures are from God?" data-chapter="Whether corporeal creatures are from God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether corporeal creatures are from God?" data-chapter="Whether corporeal creatures are from God?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that corporeal creatures are not from God. For it is said (Eccles.
 3:14): "I have learned that all the works which God hath made, continue for ever." But visible
@@ -130,7 +138,7 @@ Risposta all’Obiezione 2: Le creature corporee, per loro natura, sono buone; t
 
 Risposta all’Obiezione 3: Le creature stesse non ci allontanano da Dio, ma ci conducono a Lui; infatti “le cose invisibili di Dio sono chiaramente comprensibili attraverso quelle che sono state create” (Romani 1:20). Se dunque queste creature potessero allontanare gli uomini da Dio, la colpa sarebbe di coloro che le utilizzano in modo sciocco. È detto infatti (Sapienza 14:11): “Le creature diventano trappole per i piedi degli stolti”. E il fatto stesso che possano allontanarci da Dio dimostra che provengono da Lui, poiché non potrebbero condurre gli incauti lontano da Dio se non attraverso gli attrattivi di qualche bene che possiedono e che derivano da Lui.
 
-<span class="atom-split" data-atom="004" data-title="Whether corporeal things were made on account of God's goodness?" data-chapter="Whether corporeal things were made on account of God's goodness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether corporeal things were made on account of God's goodness?" data-chapter="Whether corporeal things were made on account of God's goodness?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that corporeal creatures were not made on account of God's
 goodness. For it is said (Wis. 1:14) that God "created all things that they might be." Therefore all
@@ -219,7 +227,7 @@ Risposta all’Obiezione 2: Lo scopo immediato non esclude lo scopo finale. Pert
 
 Risposta all’Obiezione 3: L’uguaglianza nella giustizia ha il suo posto nel contesto della retribuzione, poiché ricompense o punizioni uguali sono dovute a meriti o demeriti equivalenti. Tuttavia, ciò non si applica alle cose istituite fin dall’inizio. Proprio come un architetto, senza alcuna ingiustizia, posiziona pietre dello stesso tipo in parti diverse di un edificio, non sulla base di differenze preesistenti tra quelle pietre, ma al fine di ottenere la perfezione complessiva dell’edificio, che non potrebbe essere realizzata se le pietre non fossero disposte in modo diverso; allo stesso modo, Dio, fin dall’inizio, per garantire la perfezione dell’universo, vi ha inserito creature di natura varia e disuguale, secondo la Sua saggezza e senza alcuna ingiustizia, poiché non si presuppone alcuna diversità nei meriti delle stesse.
 
-<span class="atom-split" data-atom="005" data-title="Whether corporeal creatures were produced by God through the medium of the angels?" data-chapter="Whether corporeal creatures were produced by God through the medium of the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether corporeal creatures were produced by God through the medium of the angels?" data-chapter="Whether corporeal creatures were produced by God through the medium of the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that corporeal creatures were produced by God through the medium
 of the angels. For, as all things are governed by the Divine wisdom, so by it were all things made,
@@ -275,7 +283,7 @@ made, but also by the manner of making it; for one and the same thing is made in
 higher power, in another by a lower. But the production of finite things, where nothing is presupposed
 as existing, is the work of infinite power, and, as such, can belong to no creature.
 
-<span class="atom-split" data-atom="006" data-title="Whether the forms of bodies are from the angels?" data-chapter="Whether the forms of bodies are from the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether the forms of bodies are from the angels?" data-chapter="Whether the forms of bodies are from the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the forms of bodies come from the angels. For Boethius says
 (De Trin. i): "From forms that are without matter come the forms that are in matter." But forms
@@ -349,7 +357,7 @@ into act.
 
 Reply to Objection 3: The heavenly bodies inform earthly ones by movement, not by emanation.
 
-<span class="atom-split" data-atom="007" data-title="ON THE ORDER OF CREATION TOWARDS DISTINCTION (FOUR ARTICLES)" data-chapter="ON THE ORDER OF CREATION TOWARDS DISTINCTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="ON THE ORDER OF CREATION TOWARDS DISTINCTION (FOUR ARTICLES)" data-chapter="ON THE ORDER OF CREATION TOWARDS DISTINCTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider the work of distinction; first, the ordering of creation towards distinction;
 secondly, the distinction itself. Under the first head there are four points of inquiry:
@@ -366,7 +374,7 @@ Dobbiamo ora considerare il concetto di distinzione; innanzitutto, l’ordinamen
 (3) Se il cielo empyreale sia stato creato contemporaneamente alla materia priva di forma?  
 (4) Se il tempo sia stato creato allo stesso tempo?
 
-<span class="atom-split" data-atom="008" data-title="Whether formlessness of created matter preceded in time its formation? (parte 1)" data-chapter="Whether formlessness of created matter preceded in time its formation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether formlessness of created matter preceded in time its formation? (parte 1)" data-chapter="Whether formlessness of created matter preceded in time its formation?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that formlessness of matter preceded in time its formation. For it
 is said (Gn. 1:2): "The earth was void and empty," or "invisible and shapeless," according to another
@@ -463,7 +471,7 @@ Risposta all’Obiezione 1: La parola “terra” viene intesa in modo diverso d
 
 Risposta all’Obiezione 2: La natura produce effetti nell’atto partendo dalla sua condizione di potenzialità; pertanto, nelle operazioni della natura la potenzialità deve precedere l’atto nel tempo, e la forma indeterminata deve precedere la forma definita. Ma Dio crea l’esistenza nell’atto dal nulla, e quindi può produrre qualcosa di perfetto in un istante, grazie alla grandezza del Suo potere.
 
-<span class="atom-split" data-atom="009" data-title="Whether formlessness of created matter preceded in time its formation? (parte 2)" data-chapter="Whether formlessness of created matter preceded in time its formation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether formlessness of created matter preceded in time its formation? (parte 2)" data-chapter="Whether formlessness of created matter preceded in time its formation?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: Accident, inasmuch as it is a form, is a kind of act; whereas matter, as
 such, is essentially being in [potentiality](/concepts/act_potency). Hence it is more repugnant that matter should be in act
@@ -499,7 +507,7 @@ Risposta all’Obiezione 3: L’“accidente”, in quanto forma, è un tipo di 
 Rispetto al primo argomento presentato nel senso opposto, affermiamo che, se, secondo alcuni autori sacri, l’assenza di forma fosse esistita prima della formazione della materia, ciò non deriverebbe da una mancanza di potere da parte di Dio, ma dalla Sua saggezza e dal desiderio di mantenere un ordine appropriato nella creazione, sviluppando la perfezione a partire dall’imperfezione.  
 Rispetto al secondo argomento, alcuni antichi filosofi naturali sostenevano l’esistenza di una confusione priva di qualsiasi distinzione; ad eccezione di Anassagora, che riteneva che solo l’intelletto fosse distinto e puro. Tuttavia, prima ancora dell’operazione di distinzione, la Sacra [Scrittura](/concepts/revelation) menziona diversi tipi di differenziazione: la prima riguarda la separazione tra cielo e terra, una distinzione anche materiale, come verrà chiarito in seguito (A[3]; Q[68], A[1]); questa distinzione è indicata dalle parole “All’inizio Dio creò il cielo e la terra”. La seconda distinzione riguarda gli elementi in base alle loro caratteristiche formali; aria e fuoco, infatti, non vengono menzionati per nome perché la loro natura corporea non sarebbe stata così evidente come quella di terra e acqua, soprattutto per il popolo ignorante a cui Mosè si rivolgeva. Platone (Timaeo xxvi) riteneva che l’aria fosse indicata dalle parole “Spirito di Dio”, poiché lo spirito è un altro nome per aria; inoltre, considerava il fuoco come cielo, poiché riteneva che il cielo fosse composto da fuoco, come afferma [Agostino](/figures/augustine) (De Civ. Dei viii, 11). Il rabbino Mosè (Perplex. ii), pur concordando in parte con Platone, sosteneva invece che il fuoco fosse indicato dalla parola “oscurità”, poiché il fuoco non splende nella sua sfera naturale. Tuttavia, sembra più ragionevole aderire a quanto abbiamo detto sopra: le parole “Spirito di Dio” nella Scrittura si riferiscono solitamente allo Spirito Santo, che “si muove sulle acque”, non certo in forma corporea, ma piuttosto come la volontà dell’artigiano che modella il materiale per dargli una forma. La terza distinzione riguarda lo spazio: si dice che la terra sia sotto le acque che la rendono invisibile, mentre l’aria, soggetto dell’oscurità, è descritta come situata sopra le acque, come indicato dalle parole “L’oscurità era sulla superficie delle acque”. Le altre distinzioni emergeranno nel seguito (Q[71]).
 
-<span class="atom-split" data-atom="010" data-title="Whether the formless matter of all corporeal things is the same?" data-chapter="Whether the formless matter of all corporeal things is the same?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the formless matter of all corporeal things is the same?" data-chapter="Whether the formless matter of all corporeal things is the same?" data-kind="atom" data-srclang="en" data-tags="positions/hylomorphism,concepts/act_potency,figures/aristotle,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that the formless matter of all corporeal things is the same. For
 [Augustine](/figures/augustine) says (Confess. xii, 12): "I find two things Thou hast made, one formed, the other
@@ -611,7 +619,7 @@ Risposta all’Obiezione 3: La forma della corporalità non è la stessa in tutt
 
 Risposta all’Obiezione 4: Poiché la potenzialità è orientata verso l’atto, gli esseri potenziali si differenziano attraverso i loro diversi atti, così come la vista si distingue per il colore e l’udito per il suono. Pertanto, per questo motivo, la materia dei corpi celesti è diversa da quella degli elementi, poiché la materia celeste non è in potenzialità rispetto a una forma elementare.
 
-<span class="atom-split" data-atom="011" data-title="Whether the empyrean heaven was created at the same time as formless matter?" data-chapter="Whether the empyrean heaven was created at the same time as formless matter?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the empyrean heaven was created at the same time as formless matter?" data-chapter="Whether the empyrean heaven was created at the same time as formless matter?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the empyrean heaven was not created at the same time as
 formless matter. For the empyrean, if it is anything at all, must be a sensible body. But all sensible
@@ -724,7 +732,7 @@ Risposta all’Obiezione 3: Il luogo corporeo viene attribuito alla contemplazio
 
 Risposta all’Obiezione 4: Come afferma Basilio (Homilia ii in Hexaem.), “È certo che il cielo sia stato creato di forma sferica, con un corpo denso e sufficientemente resistente da separare ciò che si trova al di fuori da ciò che racchiude. Per questo motivo oscura la regione esterna a sé stesso: la luce con cui è illuminato viene infatti trattenuta all’interno di quel limite”. Tuttavia, poiché il corpo del firmamento, sebbene solido, è trasparente e quindi non ostacola la luce (come dimostra il fatto che possiamo vedere le stelle attraverso gli strati celesti intermedi), si può anche affermare che l’empireo possieda una luce di natura più sottile; tale luce, però, non è condensata al punto di emettere raggi, come avviene per il sole. Oppure l’empireo potrebbe possedere una luminosità simile a quella della gloria divina, diversa dalla semplice luminosità naturale.
 
-<span class="atom-split" data-atom="012" data-title="Whether time was created simultaneously with formless matter?" data-chapter="Whether time was created simultaneously with formless matter?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether time was created simultaneously with formless matter?" data-chapter="Whether time was created simultaneously with formless matter?" data-kind="atom" data-srclang="en" data-tags="concepts/time,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that time was not created simultaneously with formless matter. For
 [Augustine](/figures/augustine) says (Confess. xii, 12): "I find two things that Thou didst create before time was, the
@@ -810,7 +818,7 @@ Risposta all’Obiezione 4: Tra le prime cose create vanno annoverate quelle che
 
 Risposta all’Obiezione 5: Il concetto di “luogo” viene inteso come esistente nell’universo celeste, che rappresenta il confine dell’universo stesso. Poiché il luogo si riferisce a entità permanenti, esso fu creato immediatamente nella sua totalità. Il tempo, invece, non essendo permanente, fu creato gradualmente, all’inizio dei tempi; in effetti, non possiamo afferrare alcuna parte del tempo se non il “momento presente”.
 
-<span class="atom-split" data-atom="013" data-title="ON THE WORK OF DISTINCTION IN ITSELF (FOUR ARTICLES)" data-chapter="ON THE WORK OF DISTINCTION IN ITSELF (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="ON THE WORK OF DISTINCTION IN ITSELF (FOUR ARTICLES)" data-chapter="ON THE WORK OF DISTINCTION IN ITSELF (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 We must consider next the work of distinction in itself. First, the work of the first day; secondly,
 the work of the second day; thirdly the work of the third day.
@@ -828,7 +836,7 @@ Dobbiamo ora considerare il concetto stesso di “opera di distinzione”. Prima
 (3) La luce è considerata una qualità?  
 (4) È stato appropriato creare la luce nel primo giorno?
 
-<span class="atom-split" data-atom="014" data-title="Whether the word \&quot;light\&quot; is used in its proper sense in speaking of spiritual things?" data-chapter="Whether the word \&quot;light\&quot; is used in its proper sense in speaking of spiritual things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the word \&quot;light\&quot; is used in its proper sense in speaking of spiritual things?" data-chapter="Whether the word \&quot;light\&quot; is used in its proper sense in speaking of spiritual things?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 # Whether the word "light" is used in its proper sense in speaking of spiritual things?
 
@@ -876,7 +884,7 @@ Al contrario, Ambrogio afferma nel “De Fide” II che la “splendore” rient
 
 Rispondo che qualsiasi parola può essere utilizzata in due modi: cioè, o nel suo significato originale, oppure nel suo significato più esteso. Ciò è chiaramente evidente nel caso della parola “vista”: inizialmente si riferiva all’atto percettivo effettuato con l’occhio, ma poiché la vista è il senso più nobile e affidabile, nel linguaggio comune il termine è stato esteso a indicare qualsiasi conoscenza ottenuta attraverso gli altri sensi. Per esempio, diciamo “vedere come qualcosa ha sapore”, “odore” o “effetto bruciante”. Inoltre, il termine “vista” viene utilizzato anche per indicare la conoscenza acquisita attraverso l’intelletto, come nelle parole “Beati i puri di cuore, poiché vedranno Dio” (Matteo 5:8). Lo stesso vale per la parola “luce”: nel suo significato originale indica ciò che rende visibile agli occhi; successivamente il termine è stato esteso a indicare qualsiasi cosa permetta di comprendere qualcosa attraverso la conoscenza. Pertanto, se la parola viene intesa nel suo significato stretto e originale, quando si riferisce a cose spirituali va interpretata in senso metaforico, come afferma Ambrogio nel “De Fide” (ii). Ma se viene utilizzata nel suo significato comune ed esteso, cioè per indicare qualsiasi forma di manifestazione, allora può essere applicata correttamente anche alle cose spirituali. Le obiezioni sollevate troveranno una risposta sufficiente in ciò che è stato detto finora.
 
-<span class="atom-split" data-atom="015" data-title="Whether light is a body?" data-chapter="Whether light is a body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether light is a body?" data-chapter="Whether light is a body?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that light is a body. For [Augustine](/figures/augustine) says (De Lib. Arb. iii, 5) that
 "light takes the first place among bodies."Therefore light is a body.
@@ -933,7 +941,7 @@ the order of movement as is proved Phys. viii, text. 55, we use terms belonging 
 in speaking of alteration and movement of all kinds. For even the word distance is derived from
 the idea of remoteness of place, to that of all contraries, as is said Metaph. x, text. 13.
 
-<span class="atom-split" data-atom="016" data-title="Whether light is a quality?" data-chapter="Whether light is a quality?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether light is a quality?" data-chapter="Whether light is a quality?" data-kind="atom" data-srclang="en" data-tags="concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that light is not a quality. For every quality remains in its subject,
 though the active cause of the quality be removed, as heat remains in water removed from the fire.
@@ -1007,7 +1015,7 @@ Risposta all’Obiezione 2: È casuale che la luce non abbia un contrario, poich
 
 Risposta all’Obiezione 3: Così come il calore agisce, in qualità di causa strumentale, per perfezionare la forma del fuoco, grazie alla forma sostanziale di quest’ultimo, allo stesso modo la luce agisce anch’essa in modo strumentale, attraverso i corpi celesti, per generare forme sostanziali e rendere i colori effettivamente visibili, poiché essa costituisce una qualità dei primi corpi sensibili.
 
-<span class="atom-split" data-atom="017" data-title="Whether the production of light is fittingly assigned to the first day? (parte 1)" data-chapter="Whether the production of light is fittingly assigned to the first day?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the production of light is fittingly assigned to the first day? (parte 1)" data-chapter="Whether the production of light is fittingly assigned to the first day?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the production of light is not fittingly assigned to the first day.
 For light, as stated above (A[3]), is a quality. But qualities are accidents, and as such should have,
@@ -1106,7 +1114,7 @@ distinction being brought about by the common movement of the heavens. The furth
 into successive days, seasons, and years recorded as begun on the fourth day, in the words, "let
 them be for seasons, and for days, and years" is due to proper movements.
 
-<span class="atom-split" data-atom="018" data-title="Whether the production of light is fittingly assigned to the first day? (parte 2)" data-chapter="Whether the production of light is fittingly assigned to the first day?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether the production of light is fittingly assigned to the first day? (parte 2)" data-chapter="Whether the production of light is fittingly assigned to the first day?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 4: As [Augustine](/figures/augustine) teaches (Confess. xii; Gen. ad lit. 1,15), formlessness did
 not precede forms in duration; and so we must understand the production of light to signify the
@@ -1121,7 +1129,7 @@ existing from the beginning but such as God foresaw would exist.
 
 Risposta all’Obiezione 4: Come insegna [Agostino](/figures/augustine) (Confessioni XII; Genesi ad litteram 1,15), l’“informità” non precedette le “forme” nel tempo; pertanto dobbiamo intendere la “generazione della luce” come simbolo della formazione delle creature spirituali, non certo nella loro perfezione gloriosa – in cui non furono create – ma nella perfezione della grazia, che possedevano fin dalla loro creazione, come già detto sopra (Q[62], A[3]). Così, la distinzione tra luce e oscurità indica la separazione delle creature spirituali dalle altre cose create, ancora prive di forma. Tuttavia, se tutte le cose create avessero ricevuto la loro forma nello stesso momento, l’“oscurità” dovrebbe essere intesa come l’“oscurità spirituale” dei malvagi, non come qualcosa che esistesse fin dall’inizio, ma come ciò che Dio prevedeva sarebbe esistito in seguito.
 
-<span class="atom-split" data-atom="019" data-title="ON THE WORK OF THE SECOND DAY (FOUR ARTICLES)" data-chapter="ON THE WORK OF THE SECOND DAY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="ON THE WORK OF THE SECOND DAY (FOUR ARTICLES)" data-chapter="ON THE WORK OF THE SECOND DAY (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider the work of the second day. Under this head there are four points of
 inquiry:
@@ -1138,7 +1146,7 @@ Dobbiamo ora considerare l’opera compiuta nel secondo giorno. In questo ambito
 (3) Se il firmamento separi davvero le acque l’una dall’altra;  
 (4) Se esista più di un cielo.
 
-<span class="atom-split" data-atom="020" data-title="Whether the firmament was made on the second day?" data-chapter="Whether the firmament was made on the second day?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether the firmament was made on the second day?" data-chapter="Whether the firmament was made on the second day?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,concepts/revelation,figures/augustine,figures/aristotle,forms/quaestio"></span>
 
 Objection 1: It would seem that the firmament was not made on the second day. For it is said
 (Gn. 1:8): "God called the firmament heaven." But the heaven existed before days, as is clear from
@@ -1244,7 +1252,7 @@ Tuttavia, se consideriamo questi giorni semplicemente come una sequenza nell’o
 
 Risposta all’Obiezione 1: Secondo Crisostomo (Hom. iii in Genes.), Mosè introduce il suo resoconto parlando collettivamente delle opere di Dio, con le parole “All’inizio Dio creò il cielo e la terra”, per poi spiegarle una per una; più o meno come si potrebbe dire: “Questa casa è stata costruita da quel costruttore”, e poi aggiungere: “Prima ha gettato le fondamenta, poi ha costruito i muri, e infine ha posato il tetto”. Accettando questa spiegazione, non siamo quindi costretti a ritenere che ciò di cui si parla nel versetto “All’inizio Dio creò il cielo e la terra” sia un cielo diverso da quello creato il secondo giorno; inoltre, si possono intendere diverse cose con l’espressione “cielo creato all’inizio”. Agostino afferma (Gen. ad lit. i, 9) che il cielo menzionato il primo giorno sia la natura spirituale e informe, mentre il cielo del secondo giorno sia quello corporeo. Secondo Beda (Hexaem. i) e Strabone, il cielo creato il primo giorno è l’empireo, mentre il firmamento creato il secondo giorno è il cielo stellato. Secondo Damasceno (De Fide Orth. ii), quello del primo giorno aveva una forma sferica ed era privo di stelle; si tratta dello stesso concetto di cui parlano i filosofi, chiamandolo la nona sfera e il corpo mobile primario che si muove con il movimento solare. Il firmamento creato il secondo giorno, invece, è il cielo stellato. Secondo un’altra teoria, menzionata da Agostino in Gen. ad lit. ii, 1, il cielo creato il primo giorno era proprio il cielo stellato, mentre il firmamento del secondo giorno era quella regione dell’aria dove si raccolgono le nuvole; anche questa definizione è però equivoca. Per dimostrare che il termine “cielo” viene qui usato in senso equivoco, si afferma esplicitamente che “Dio chiamò il firmamento cielo”; allo stesso modo, in un versetto precedente si dice che “Dio chiamò la luce giorno”, poiché il termine “giorno” può anche indicare un intervallo di ventiquattro ore. Esistono altri esempi di uso simile, come indica Rabbino Mosè. Le seconda e terza obiezioni sono sufficientemente risolte da quanto detto finora.
 
-<span class="atom-split" data-atom="021" data-title="Whether there are waters above the firmament?" data-chapter="Whether there are waters above the firmament?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether there are waters above the firmament?" data-chapter="Whether there are waters above the firmament?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there are not waters above the firmament. For water is heavy
 by nature, and heavy things tend naturally downwards, not upwards. Therefore there are not waters
@@ -1339,7 +1347,7 @@ Risposta all’Obiezione 2: La soluzione risulta chiara da quanto è stato detto
 
 Risposta all’Obiezione 3: Secondo la terza opinione espressa, le acque situate al di sopra del firmamento si trovano sotto forma di vapori e servono a far piovere sulla terra. Ma secondo la seconda opinione, esse si trovano al di sopra di un cielo completamente trasparente e privo di stelle. Secondo alcuni, questo cielo rappresenta il “mobile primario”, la causa della quotidiana [rotazione](/positions/revolution) dell’intero firmamento, che garantisce la continuità del processo generativo. Allo stesso modo, il cielo stellato, attraverso il movimento zodiacale, è responsabile della nascita o della distruzione di diversi corpi celesti, a causa dell’alzarsi e del tramontare delle stelle e dei loro vari influssi. Tuttavia, secondo la prima opinione, queste acque sono presenti lì per mitigare il calore dei corpi celesti, come suppone Basilio (Hom. iii in Hexaem.). Agostino, nel suo commento al Genesi (Gen. ad lit. ii, 5), afferma che alcuni ritengono questa ipotesi confermata dal freddo estremo di Saturno, dovuto alla sua vicinanza alle acque situate al di sopra del firmamento.
 
-<span class="atom-split" data-atom="022" data-title="Whether the firmament divides waters from waters?" data-chapter="Whether the firmament divides waters from waters?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the firmament divides waters from waters?" data-chapter="Whether the firmament divides waters from waters?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the firmament does not divide waters from waters. For bodies
 that are of one and the same species have naturally one and the same place. But the Philosopher
@@ -1421,7 +1429,7 @@ Risposta all’Obiezione 2: Se si ritiene che le acque siano di specie diverse, 
 
 Risposta all’Obiezione 3: Poiché l’aria e altri corpi simili sono invisibili, Mosè include tutti questi corpi sotto il nome di “acqua”; è quindi evidente che le acque si trovano su entrambi i lati del firmamento, indipendentemente dal senso in cui viene utilizzato questo termine.
 
-<span class="atom-split" data-atom="023" data-title="Whether there is only one heaven?" data-chapter="Whether there is only one heaven?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether there is only one heaven?" data-chapter="Whether there is only one heaven?" data-kind="atom" data-srclang="en" data-tags="concepts/revelation,figures/aristotle,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is only one heaven. For the heaven is contrasted with
 the earth, in the words, "In the beginning God created heaven and earth."But there is only one earth.
@@ -1508,7 +1516,7 @@ Risposta all’Obiezione 2: L’argomento è valido anche per il cielo, nella mi
 
 Risposta all’Obiezione 3: Tutti i cieli condividono la sublimità e un certo grado di luminosità, come è emerso dalle argomentazioni precedenti.
 
-<span class="atom-split" data-atom="024" data-title="ON THE WORK OF THE THIRD DAY (TWO ARTICLES)" data-chapter="ON THE WORK OF THE THIRD DAY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="ON THE WORK OF THE THIRD DAY (TWO ARTICLES)" data-chapter="ON THE WORK OF THE THIRD DAY (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 We next consider the work of the third day. Under this head there are two points of inquiry:
 (1) About the gathering together of the waters;
@@ -1520,7 +1528,7 @@ Esaminiamo ora l’opera del terzo giorno. In questa categoria vi sono due punti
 (1) Riguardo alla raccolta delle acque;  
 (2) Riguardo alla nascita delle piante.
 
-<span class="atom-split" data-atom="025" data-title="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day? (parte 1)" data-chapter="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day? (parte 1)" data-chapter="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day?" data-kind="atom" data-srclang="en" data-tags="concepts/forma_substantialis,concepts/revelation,concepts/beauty,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that it was not fitting that the gathering together of the waters
 should take place on the third day. For what was made on the first and second days is expressly
@@ -1645,7 +1653,7 @@ Risposta all’Obiezione 3: Tutte le acque hanno il mare come loro destinazione;
 
 Risposta all’Obiezione 4: Il comandamento divino conferisce ai corpi i loro movimenti naturali; attraverso questi movimenti naturali si dice che essi “adempiano alla Sua volontà”. Oppure possiamo dire che è proprio della natura dell’acqua coprire interamente la terra, così come l’aria circonda completamente sia l’acqua che la terra; ma poiché questo è un mezzo necessario per realizzare uno scopo – ovvero permettere alla vegetazione e agli animali di esistere sulla terra – era indispensabile che le acque si ritirassero da una parte della superficie terrestre. Alcuni filosofi attribuiscono questa “scopertura” della superficie terrestre all’azione del sole, che solleva i vapori e quindi asciuga la terra; tuttavia la Scrittura ne attribuisce la responsabilità al potere divino, non solo nel Libro della Genesi, ma anche in Giobbe 38:10, dove si dice nel nome del Signore: “Ho fissato i confini del mare”, e in Geremia 5:22, dove si legge: “Non temerete forse Me, dice il Signore, che ho stabilito i limiti al mare?”
 
-<span class="atom-split" data-atom="026" data-title="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day? (parte 2)" data-chapter="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day? (parte 2)" data-chapter="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 5: According to [Augustine](/figures/augustine) (De Gen. Contr. Manich. i), primary matter is
 meant by the word earth, where first mentioned, but in the present passage it is to be taken for the
@@ -1666,7 +1674,7 @@ corresponded to the name He gave.
 
 Risposta all’Obiezione 5: Secondo [Agostino](/figures/augustine) (De Gen. Contr. Manich. i), con il termine “terra” si intende la materia primordiale quando viene menzionata per la prima volta; nel presente passaggio, tuttavia, esso deve essere interpretato come l’elemento stesso. Inoltre, come afferma Basilio nell’Homilia IV in Hexaem., nella prima citazione la terra è menzionata in relazione alla sua natura, mentre qui viene considerata per la sua principale proprietà, ovvero la secchezza; da ciò deriva l’espressione “chiamò la terra asciutta Terra”. Si può anche ritenere, come sostiene il Rabbino Mosè, che l’uso del verbo “chiamare” indichi in tutti i casi un uso equivoco del nome attribuito. Così, all’inizio si legge “chiamò la luce Giorno”, poiché in seguito anche un periodo di ventiquattro ore viene definito giorno (“c’era sera e mattina, un giorno”). Allo stesso modo, il cielo, ovvero l’aria, viene chiamato “cielo”, poiché ciò che fu creato per primo ricevette anch’esso questo nome. Qui, ancora una volta, si dice che “la terra asciutta” – cioè la parte da cui le acque si erano ritirate – sia stata chiamata “Terra”, a distinzione dal mare; sebbene il termine “terra” venga utilizzato anche per indicare quelle aree coperte o meno d’acqua. Quindi, con l’espressione “chiamò”, dobbiamo intendere che la natura o la proprietà attribuite a ciascun elemento corrispondessero esattamente al nome con cui venivano designati.
 
-<span class="atom-split" data-atom="027" data-title="Whether it was fitting that the production of plants should take place on the third day?" data-chapter="Whether it was fitting that the production of plants should take place on the third day?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether it was fitting that the production of plants should take place on the third day?" data-chapter="Whether it was fitting that the production of plants should take place on the third day?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not fitting that the production of plants should take place
 on the third day. For plants have life, as animals have. But the production of animals belongs to
@@ -1764,7 +1772,7 @@ All’interno di questa prima categoria di argomenti, vi sono tre punti da esami
 (2) Lo scopo della loro creazione;  
 (3) Se queste luci siano esseri viventi.
 
-<span class="atom-split" data-atom="028" data-title="Whether the lights ought to have been produced on the fourth day?" data-chapter="Whether the lights ought to have been produced on the fourth day?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether the lights ought to have been produced on the fourth day?" data-chapter="Whether the lights ought to have been produced on the fourth day?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the lights ought not to have been produced on the fourth day.
 For the heavenly luminaries are by nature incorruptible bodies: wherefore their matter cannot exist
@@ -1890,7 +1898,7 @@ Risposta all’Obiezione 4: Secondo le parole di Basilio (Hom. v in Hexaem.), si
 
 Risposta all’Obiezione 5: Come afferma Crisostomo, i due “luoghi luminosi” vengono definiti “grandi” non tanto per le loro dimensioni, quanto per la loro influenza e il loro potere. Infatti, sebbene le stelle siano di dimensioni maggiori della luna, l’influenza della luna è più percettibile dai sensi in questo mondo inferiore; inoltre, dal punto di vista dei sensi, la sua dimensione apparente è effettivamente maggiore.
 
-<span class="atom-split" data-atom="029" data-title="Whether the cause assigned for the production of the lights is reasonable?" data-chapter="Whether the cause assigned for the production of the lights is reasonable?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether the cause assigned for the production of the lights is reasonable?" data-chapter="Whether the cause assigned for the production of the lights is reasonable?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the cause assigned for the production of the lights is not
 reasonable. For it is said (Jer. 10:2): "Be not afraid of the signs of heaven, which the heathens fear."
@@ -1953,7 +1961,7 @@ the imperfect by natural processes, yet the perfect must exist simply before the
 however (Gen. ad lit. ii), does not say this, for he says that it is not unfitting that God made things
 imperfect, which He afterwards perfected.
 
-<span class="atom-split" data-atom="030" data-title="Whether the lights of heaven are living beings? (parte 1)" data-chapter="Whether the lights of heaven are living beings?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the lights of heaven are living beings? (parte 1)" data-chapter="Whether the lights of heaven are living beings?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/soul,figures/aristotle,figures/augustine"></span>
 
 Objection 1: It would seem that the lights of heaven are living beings. For the nobler a body
 is, the more nobly it should be adorned. But a body less noble than the heaven, is adorned with
@@ -2082,7 +2090,7 @@ Risposta all’Obiezione 3: Poiché il corpo celeste è un mobile che a sua volt
 
 Risposta all’Obiezione 4: I movimenti dei corpi celesti sono naturali, non a causa del loro principio attivo, ma a causa del loro principio passivo; in altre parole, derivano da una certa predisposizione naturale ad essere mossi da una forza intelligente.
 
-<span class="atom-split" data-atom="031" data-title="Whether the lights of heaven are living beings? (parte 2)" data-chapter="Whether the lights of heaven are living beings?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether the lights of heaven are living beings? (parte 2)" data-chapter="Whether the lights of heaven are living beings?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/cause,figures/aristotle,schools/scholasticism"></span>
 
 Reply to Objection 5: The heaven is said to move itself in as far as it is compounded of mover
 and moved; not by the union of the mover, as the form, with the moved, as the matter, but by contact
@@ -2094,7 +2102,7 @@ say that voluntary movement is natural to the animal as animal (Phys. viii, text
 
 Risposta all’Obiezione 5: Si afferma che il cielo si muova da solo, in quanto è composto da un motore e da ciò che viene mosso; non per l’unione del motore – inteso come forma – con ciò che viene mosso – inteso come materia –, ma per il contatto con la forza motrice, come abbiamo già detto. Pertanto, il principio che lo muove può essere considerato intrinseco, e di conseguenza il suo movimento è naturale rispetto a quel principio attivo; proprio come si dice che il movimento volontario sia naturale per l’animale in quanto animale (Physica, VIII, testo 27).
 
-<span class="atom-split" data-atom="032" data-title="ON THE WORK OF THE FIFTH DAY (ONE ARTICLE)" data-chapter="ON THE WORK OF THE FIFTH DAY (ONE ARTICLE)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="ON THE WORK OF THE FIFTH DAY (ONE ARTICLE)" data-chapter="ON THE WORK OF THE FIFTH DAY (ONE ARTICLE)" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider the work of the fifth day.
 
@@ -2176,7 +2184,7 @@ Reply to Objection 5: The order in which the production of these animals is give
 to the order of those bodies which they are set to adorn, rather than to the superiority of the animals
 themselves. Moreover, in generation also the more perfect is reached through the less perfect.
 
-<span class="atom-split" data-atom="033" data-title="ON THE WORK OF THE SIXTH DAY (ONE ARTICLE)" data-chapter="ON THE WORK OF THE SIXTH DAY (ONE ARTICLE)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="ON THE WORK OF THE SIXTH DAY (ONE ARTICLE)" data-chapter="ON THE WORK OF THE SIXTH DAY (ONE ARTICLE)" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the work of the sixth day.
 
@@ -2301,7 +2309,7 @@ Risposta all’Obiezione 5: Poiché la generazione di una cosa equivale alla cor
 
 Risposta all’Obiezione 6: Secondo le parole di Agostino (Super. Gen. contr. Manich. i): “Se una persona inesperta entra nell’officina di un artigiano, vi vede molti strumenti il cui uso non comprende; se è una persona sciocca, potrebbe ritenere che siano inutili. Inoltre, se per caso finisse nel fuoco o si ferisse con uno strumento tagliente, penserebbe che molte di quelle cose siano dannose; mentre l’artigiano, conoscendo il loro uso, riderebbe della sua stupidità. Ed è così che alcune persone osano criticare molte cose di questo mondo, semplicemente perché non comprendono le ragioni della loro esistenza. Infatti, anche se queste cose non sono necessarie per arredare la nostra casa, sono indispensabili per il perfezionamento dell’universo. Inoltre, prima che l’uomo peccasse, avrebbe utilizzato le cose di questo mondo secondo l’ordine voluto da Dio; in tal caso, gli animali velenosi non lo avrebbero ferito.”
 
-<span class="atom-split" data-atom="034" data-title="ON THE THINGS THAT BELONG TO THE SEVENTH DAY (THREE ARTICLES)" data-chapter="ON THE THINGS THAT BELONG TO THE SEVENTH DAY (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="ON THE THINGS THAT BELONG TO THE SEVENTH DAY (THREE ARTICLES)" data-chapter="ON THE THINGS THAT BELONG TO THE SEVENTH DAY (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider the things that belong to the seventh day. Under this head there are three
 points of inquiry:
@@ -2316,7 +2324,7 @@ Dobbiamo ora considerare ciò che appartiene al settimo giorno. In questa catego
 (2) Riguardo al riposo di Dio;  
 (3) Riguardo alla benedizione e alla santificazione di questo giorno.
 
-<span class="atom-split" data-atom="035" data-title="Whether the completion of the Divine works ought to be ascribed to the seventh day?" data-chapter="Whether the completion of the Divine works ought to be ascribed to the seventh day?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether the completion of the Divine works ought to be ascribed to the seventh day?" data-chapter="Whether the completion of the Divine works ought to be ascribed to the seventh day?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/grace"></span>
 
 Objection 1: It would seem that the completion of the Divine works ought not to be ascribed
 to the seventh day. For all things that are done in this world belong to the Divine works. But the
@@ -2408,7 +2416,7 @@ Risposta all’Obiezione 2: Dio ha agito effettivamente il settimo giorno, ma no
 
 Risposta all’Obiezione 3: Dio non creò nulla di completamente nuovo in seguito; tutte le cose che vennero create successivamente esistevano, in un certo senso, già nei sei giorni della Creazione. Alcune cose, infatti, avevano una precedente esistenza materiale – come la costola tratta dal fianco di Adamo da cui Dio creò Eva; altre, invece, esistevano non solo nella materia ma anche nelle loro cause, come quelle creature individuali che oggi vengono generate: esse esistevano già fin dall’inizio, sotto forma di potenze attive. Anche le specie nuove, se mai ne esistono, esistevano in precedenza sotto forma di tali potenze; quindi animali, e forse anche nuove specie di animali, vengono creati attraverso processi naturali, come la decomposizione, grazie alle forze che le stelle ed gli elementi hanno ricevuto all’inizio. Inoltre, animali di nuovi tipi possono nascere occasionalmente dalla combinazione di individui appartenenti a specie diverse – come il mulo, figlio di asino e cavalla; anche questi esistevano già in precedenza, nelle loro cause, nei sei giorni della Creazione. Alcuni esseri esistevano anche in forma simbolica, prima ancora della loro concreta realizzazione – come le anime create oggi. Anche l’atto stesso dell’Incarnazione era preannunciato in questo modo: come leggiamo nella Lettera ai Filippesi (2:7), “Il Figlio di Dio si è fatto uomo”. Inoltre, la gloria spirituale era già anticipata negli angeli sotto forma simbolica; quella del corpo umano, invece, era prefigurata nel cielo, soprattutto nell’Empireo. Per questo si legge nell’Ecclesiaste (1:10): “Niente di nuovo esiste sotto il sole; tutto è già accaduto in tempi passati”.
 
-<span class="atom-split" data-atom="036" data-title="Whether God rested on the seventh day from all His work?" data-chapter="Whether God rested on the seventh day from all His work?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Whether God rested on the seventh day from all His work?" data-chapter="Whether God rested on the seventh day from all His work?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,positions/providence,figures/augustine"></span>
 
 Objection 1: It would seem that God did not rest on the seventh day from all His work. For it
 is said (Jn. 5:17), "My Father worketh until now, and I work." God, then, did not rest on the seventh
@@ -2475,7 +2483,7 @@ Risposta all’Obiezione 2: Il riposo qui non si oppone al lavoro o al movimento
 
 Risposta all’Obiezione 3: Proprio come Dio riposa in Se stesso e trova felicità nell’apprezzamento di Sé stesso, anche la nostra unica felicità risiede nell’apprezzamento di Dio. Pertanto, Egli ci fa trovare riposo in Sé stesso, sia attraverso le Sue opere che attraverso quelle nostre. Non è quindi irragionevole affermare che Dio abbia trovato riposo nel darci riposo. Tuttavia, questa spiegazione non deve essere considerata l’unica possibile; l’altra rappresenta infatti la spiegazione principale e fondamentale.
 
-<span class="atom-split" data-atom="037" data-title="Whether blessing and sanctifying are due to the seventh day?" data-chapter="Whether blessing and sanctifying are due to the seventh day?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether blessing and sanctifying are due to the seventh day?" data-chapter="Whether blessing and sanctifying are due to the seventh day?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that blessing and sanctifying are not due to the seventh day. For it
 is usual to call a time blessed or holy for that some good thing has happened in it, or some evil been
@@ -2534,7 +2542,7 @@ Risposta all’Obiezione 2: Nei primi sei giorni le creature furono create dalle
 
 Risposta all’Obiezione 3: Il bene menzionato nelle attività quotidiane appartiene alla prima istituzione naturale; ma la benedizione connessa al settimo giorno riguarda invece la sua diffusione.
 
-<span class="atom-split" data-atom="038" data-title="ON ALL THE SEVEN DAYS IN COMMON (THREE ARTICLES)" data-chapter="ON ALL THE SEVEN DAYS IN COMMON (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="ON ALL THE SEVEN DAYS IN COMMON (THREE ARTICLES)" data-chapter="ON ALL THE SEVEN DAYS IN COMMON (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/revelation,forms/quaestio"></span>
 
 We next consider all the seven days in common: and there are three points of inquiry:
 (1) As to the sufficiency of these days;
@@ -2548,7 +2556,7 @@ Esaminiamo ora i sette giorni che sono comuni a tutti; ci sono tre questioni da 
 (2) Se siano tutti considerati un unico giorno, o più di uno;  
 (3) Alcuni modi di espressione utilizzati dalla [Scrittura](/concepts/revelation) nel descrivere le operazioni compiute in quei sei giorni.
 
-<span class="atom-split" data-atom="039" data-title="Whether these days are sufficiently enumerated?" data-chapter="Whether these days are sufficiently enumerated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether these days are sufficiently enumerated?" data-chapter="Whether these days are sufficiently enumerated?" data-kind="atom" data-srclang="en" data-tags="figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that these days are not sufficiently enumerated. For the work of
 creation is no less distinct from the works of distinction and adornment than these two works are
@@ -2642,7 +2650,7 @@ Risposta all’Obiezione 4: La natura della luce, in quanto esistente in un sogg
 
 Risposta all’Obiezione 5: Secondo Agostino (Genesi ad litteram iv, 15), dopo tutto ciò che è stato descritto riguardo ai sei giorni, al settimo viene attribuito qualcosa di specifico: cioè che in quel giorno Dio si riposò dalle sue opere. Per questo motivo era giusto che il settimo giorno venisse menzionato dopo i sei. Si può anche affermare, come fanno altri autori, che nel settimo giorno il mondo entrò in uno stato nuovo, poiché non doveva più essere aggiunto nulla; perciò il settimo giorno viene ricordato dopo i sei, proprio perché dedicato al riposo e alla cessazione delle attività creative.
 
-<span class="atom-split" data-atom="040" data-title="Whether all these days are one day?" data-chapter="Whether all these days are one day?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Whether all these days are one day?" data-chapter="Whether all these days are one day?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all these days are one day. For it is written (Gn. 2:4,5): "These
 are the generations of the heaven and the earth, when they were created, in the day that the Lord .
@@ -2750,7 +2758,7 @@ Risposta all’Obiezione 4: Non tutte le cose furono distinte e ordinate insieme
 
 Risposta all’Obiezione 5: Secondo Agostino, l’ordine dei giorni si riferisce all’ordine naturale delle opere attribuite a ciascun giorno.
 
-<span class="atom-split" data-atom="041" data-title="Whether Scripture uses suitable words to express the work of the six days? (parte 1)" data-chapter="Whether Scripture uses suitable words to express the work of the six days?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether Scripture uses suitable words to express the work of the six days? (parte 1)" data-chapter="Whether Scripture uses suitable words to express the work of the six days?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem the [Scripture](/concepts/revelation) does not use suitable words to express the works of
 the six days. For as light, the firmament, and other similar works were made by the Word of God,
@@ -2867,7 +2875,7 @@ Risposta all’Obiezione 3: Nel racconto della creazione si trova qualcosa che c
 
 Risposta all’Obiezione 4: Il rabbino Mosè (Perplex. ii) intende con “Lo Spirito del Signore” l’aria o il vento, proprio come fece anche Platone, e afferma che tale denominazione derivi dalla consuetudine delle Scritture, nelle quali queste cose vengono costantemente attribuite a Dio. Tuttavia, secondo gli autori sacri, Lo Spirito del Signore indica lo Spirito Santo, il quale viene descritto come “che si muove sopra l’acqua” – cioè su quella che Agostino considera materia informe – affinché non si possa pensare che Dio abbia necessariamente amato le opere che avrebbe poi creato, come se ne avesse avuto bisogno. Infatti, un amore di questo tipo è soggetto all’oggetto amato, e non ne è superiore. Inoltre, è appropriato ritenere che lo Spirito si sia mosso su quella materia ancora incompleta e in via di formazione, poiché tale movimento non riguarda lo spazio, ma una potenza sovrana, come afferma Agostino (Genesi ad litteram i, 7). Tuttavia, secondo Basilio (Hom. ii in Hexaem.), Lo Spirito si è mosso sull’elemento acqua, “nutrendone e stimolandone la natura, imprimendole il potere vitale, proprio come una gallina covava i suoi pulcini”. L’acqua, infatti, possiede un particolare potere di donare la vita: molti animali nascono nell’acqua, e il seme di tutti gli esseri è liquido. Inoltre, la vita dell’anima viene conferita dall’acqua del battesimo, secondo quanto detto in Giovanni 3:5: “Se uno non nasce nuovamente dall’acqua e dallo Spirito Santo, non può entrare nel regno di Dio”.
 
-<span class="atom-split" data-atom="042" data-title="Whether Scripture uses suitable words to express the work of the six days? (parte 2)" data-chapter="Whether Scripture uses suitable words to express the work of the six days?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether Scripture uses suitable words to express the work of the six days? (parte 2)" data-chapter="Whether Scripture uses suitable words to express the work of the six days?" data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 5: According to [Augustine](/figures/augustine) (Gen. ad lit. i, 8), these three phrases denote
 the threefold being of creatures; first, their being in the Word, denoted by the command "Let . . .

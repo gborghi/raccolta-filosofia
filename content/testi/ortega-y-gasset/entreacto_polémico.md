@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Polemical letter to the Count of Romanones, cordial in tone and opposed in political substance. Occasional text, not philosophical.
+> A very short text (165 words) for which the digest carries no sample: nothing can be said about its content beyond the title.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

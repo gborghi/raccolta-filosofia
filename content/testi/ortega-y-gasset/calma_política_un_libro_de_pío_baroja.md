@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A Madrid dispatch (August 1912) for La Prensa of Buenos Aires: political life is dead, and Ortega declares that what matters is happening underground — in lecture rooms, books, the arts. Hence the choice between two Spains, the modest and energetic one being born and the magnificent past one: the fatherland is not the Vaterland but, with Nietzsche, the Kinderland, "what we think at night we must do tomorrow". A portrait of Pío Baroja follows, prompted by El árbol de la ciencia.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]], [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +126,7 @@ Andrés Hurtado è un precursore, secondo Baroja, perché rappresenta una genera
 
 Quando dicevo prima che la storia profonda della Spagna attuale non potrà essere ricostruita fissandosi nei gesti politici, nelle querelle parlamentari, ma nelle realtà del sottosuolo, mi riferivo al fatto ben significativo, che questi scrittori, rappresentanti degli ultimi quindici anni spagnoli, non presero e —salvo uno— non hanno ancora preso posizione nei grandi schieramenti della contesa pubblica. Non erano conservatori che assalivano i liberali: liberali e conservatori li odiavano e continuano a odiarli. Né perché fossero anticristiani, che venissero a bastonare i princìpi del cattolicesimo: qualcuno di loro era allora apostolico romano. Non era, dunque, una parte maggiore o minore di Spagna che pugnasse col resto.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay,forms/epistle"></span>
 
 Andrés Hurtado siente su incompatibilidad con la vida que le rodea, con la vida nacional entera: se siente otro que esa España circundante. Él y sus conciudadanos normales se sienten irreductiblemente extraños o, como los griegos decían de aquellos cuyo idioma no entendían, se sienten mutuamente bárbaros. Este mozo es un precursor porque siente germinar en lo hondo de su espíritu un nuevo idioma ideológico, una nueva manera de pensar. Ahora bien: un pueblo, más que una variedad anatómica, es eso: una genuina manera de pensar.
 

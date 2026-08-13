@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A memory of a "Nietzschean" youth and a review of Georg Simmel's book on Nietzsche: from The Birth of Tragedy to the last letter signed "The Crucified", Nietzsche fought over the definition of man, the question Socrates opened and the motor of historical change.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]]  
+**Posizioni:** [[positions/ubermensch|oltreuomo]]  
+**Figure:** [[figures/socrates|Socrate]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +98,7 @@ Si noti bene una cosa: per Nietzsche non hanno valore quegli individui per esser
 
 Per Nietzsche vivere è più vivere, o in altro modo, vita è il nome che diamo a una serie di qualità progressive, all'istinto di crescita, di perdurazione, di capitalizzazione di forze, di potere. Il principio della vita, la volontà della vita è «Volontà di potenza». Tanta vita ci sarà in ogni epoca quanto più libera sia l'espansione di quelle forze affermative. Di qui che la morale di Zarathustra imponga come un dovere fomentare la liberazione di quelle energie. In ogni secolo si libra dinanzi agli sguardi dei forti l'ideale di un'organizzazione umana più libera ed espansiva dove alcuni pochi uomini potranno vivere più intensamente. Questo ideale è il Superuomo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/human_nature,positions/ubermensch,figures/socrates"></span>
 
 Como se ve, Nietzsche no predica el rompimiento de toda ley moral. «El hecho —nota Simmel— de que se haya tomado esta doctrina como un egoísmo frívolo, como la santificación de una epicúrea indisciplina, es uno de los errores ópticos más extraños en la historia de la moral». Zarathustra escupe mil desdenes e improperios contra los snobs del libertinaje, a quienes falta el instinto para los altos fines de la humanidad. «Yo, grita, soy una ley para los míos, no para todos». Y en otro lado: «No se debe querer gozar». «El alma distinguida se tiene respeto a sí misma». En fin: «El hombre distinguido honra en sí mismo al potente, al que tiene poder sobre sí mismo, al que sabe hablar y callar que ejercita placentero rigidez y dureza consigo mismo y siente veneración hacia todo lo rígido y duro».
 

@@ -10,6 +10,8 @@ tags:
   - "philosopher/rousseau"
 ---
 
+*Rousseau*
+
 > [!abstract]
 > A very brief fragment (14 words): the heading of a 'General table of all tones and all keys', technical musical material. Without philosophical content.
 
@@ -21,3 +23,11 @@ tags:
 <span class="atom-split" data-atom="001" data-title="PIÈCES DIVERSES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Table générale de tous les tons et de toutes les clefs
+
+<span class="qlang-split" data-lang="en"></span>
+
+General table of all keys and tones
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tavola generale di tutti i toni e di tutte le chiavi

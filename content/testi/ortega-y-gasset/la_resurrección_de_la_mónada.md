@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > That novel readers now prefer characters to plot is for Ortega a symptom: preferring characters to functions is preferring substance to function. From Kant to 1900 philosophy eliminated substance; since 1900 the pendulum swings back (operari sequitur esse), and Hermann Weyl's pamphlet "What is matter?" arrives at an immaterial idea of matter whose adequate expression would be Leibniz's monad.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]]  
+**Concetti:** [[concepts/substance|sostanza]]  
+**Figure:** [[figures/leibniz|Leibniz]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +123,7 @@ Nella concezione borghese della vita, la società non ha carattere sostanziale, 
 
 Si comprende che questo regime conduca a una degenerazione di tutte le virtù autentiche. Sono sempre gli inferiori, gli assolutamente meno valevoli, coloro che sentenziano prima su quali valori siano i più stimabili, e poi coloro che decidono quali atti concreti siano quelli che meglio realizzano quei valori.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,concepts/substance,figures/leibniz,forms/essay"></span>
 
 La consecuencia es que el individuo, para valer, tiene que servir a los más, con un servilismo mucho más crudo y total que el del vasallo a su señor, del siervo a su amo. Al fin y al cabo, señorío y dominio obraban sólo sobre ciertas facetas de la actividad personal, dejando el resto libre y en franquía, aparte de que el señor y el amo quedaban recíprocamente ligados por muchas obligaciones a siervo y vasallo. Pero aquí acaece que la masa social tiene todos los derechos sobre el individuo y ninguna responsabilidad ni obligación.
 

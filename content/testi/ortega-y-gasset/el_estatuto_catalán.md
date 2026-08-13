@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> The sample (27 words) contains only the header of the Cortes Constituyentes session of 13 May 1932. No substantive text available.
+> A 27-word item with no sample in the digest: probably a heading or rubric on the Catalan Statute debate. Content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -12,8 +12,18 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > A dialogue of disputed authenticity on the value of wealth: Socrates shows Erasistratus and Eryxias that money is not a good in itself, since the same possession can help or harm depending on whether its user is wise or foolish. It concludes that only virtue and wisdom make the use of wealth good.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/virtue_ethics|virtù]]  
+**Concetti:** [[concepts/property|proprietà]], [[concepts/virtue|virtù]], [[concepts/wisdom|sapienza]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -180,7 +190,7 @@ Erissia guardò di traverso, come se avesse ricevuto qualche trattamento ingiust
 
 Oserei dire, Erissia, dissi, che tu puoi considerare questi nostri ragionamenti come una sorta di gioco; pensi che non abbiano relazione con i fatti, ma siano come le pedine nel gioco della dama che il giocatore può muovere in modo tale che i suoi avversari non riescano a fare alcuna contromossa. (Confronta la Repubblica.) E forse, anche, riguardo alle ricchezze sei dell'opinione che, mentre i fatti restano i medesimi, vi sono argomenti, non importa se veri o falsi, che mettono chi li usa in grado di provare che il più saggio e il più ricco sono una sola e medesima cosa, benché egli abbia torto e i suoi avversari abbiano ragione. Non vi sarebbe nulla di strano in questo; sarebbe come se due persone disputassero intorno alle lettere, l'una dichiarando che la parola Socrate comincia con una S, l'altra che comincia con una A, e quest'ultima potesse riportare la vittoria sulla prima.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/property,concepts/virtue,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 Eryxias glanced at the audience, laughing and blushing at once, as if he had had nothing to do with what had just been said, and replied, — No, indeed, [Socrates](/figures/socrates), I never supposed that our arguments should be of a kind which would never convince any one of those here present or be of advantage to them. For what man of sense could ever be persuaded that the wisest and the richest are the same? The truth is that we are discussing the subject of riches, and my notion is that we should argue respecting the honest and dishonest means of acquiring them, and, generally, whether they are a good thing or a bad.
 
@@ -304,7 +314,7 @@ Prodico convenne anche in questo.
 
 E quando preghi gli dèi di poter far bene e ricevere il bene, non intendi con la tua preghiera nient'altro se non che desideri divenire buono e saggio: — se, almeno, le cose sono buone ai buoni e ai saggi e cattive ai cattivi. Ma in tal caso, se la virtù è acquisita mediante l'insegnamento, apparirebbe che tu preghi soltanto di essere istruito in ciò che non sai.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/property,concepts/virtue,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 Hereupon I said to Prodicus that it was no misfortune to him if he had been proved to be in error in supposing that the Gods immediately granted to us whatever we asked: — if, I added, whenever you go up to the Acropolis you earnestly entreat the Gods to grant you good things, although you know not whether they can yield your request, it is as though you went to the doors of the grammarian and begged him, although you had never made a study of the art, to give you a knowledge of grammar which would enable you forthwith to do the business of a grammarian.
 
@@ -380,7 +390,7 @@ SOCRATE: Chiaramente non abbiamo ancora risposto alla domanda: Che cos'è la ric
 
 ERISSIA: Non ne avrebbe.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/property,concepts/virtue,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): And does not this apply in other cases? If we did not want for the service of the body the things of which we now stand in need, and heat and cold and the other bodily sensations were unperceived by us, there would be no use in this so-called wealth, if no one, that is, had any necessity for those things which now make us wish for wealth in order that we may satisfy the desires and needs of the body in respect of our various wants. And therefore if the possession of wealth is useful in ministering to our bodily wants, and bodily wants were unknown to us, we should not need wealth, and possibly there would be no such thing as wealth.
 
@@ -640,7 +650,7 @@ SOCRATE: Allora pensi che un uomo possa guadagnare ricchezza con mezzi cattivi e
 
 CRIZIA: Sì, lo penso.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/property,concepts/virtue,concepts/wisdom,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): But can that which is evil be useful for virtue?
 

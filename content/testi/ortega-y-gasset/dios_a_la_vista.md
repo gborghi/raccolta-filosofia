@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > As the Earth swings between aphelion and perihelion, the mind has epochs of odium Dei and hours when divinity re-emerges: the present is such an hour, and one must shout "God in sight!". This is not religion: he claims a secular God against the religions' monopoly, and explains the alternation by the mind's narrowness — seeing one thing requires blindness to others, so each epoch is a regime of attention, of clear-sightednesses and blindnesses.
+
+## Connections
+
+**Assi:** [[assi/god|Dio]], [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/perspectivism|prospettivismo]]  
+**Concetti:** [[concepts/religion|religione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

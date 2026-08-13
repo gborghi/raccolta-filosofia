@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A portrait of Caesar's politics by contrast with the conservative kind: the conservative reforms "backwards", adapting the new reality to the unchanging State, and is as utopian as the radical. When the type of man being governed changes, propping up the old State is vain; Caesar realised the democratic aspirations precisely by escaping narrow democratic partisanship.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]], [[assi/meaning_of_history|Senso della storia]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

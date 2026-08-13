@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > 'Barbarian criticism': Ortega playfully adopts the Maori criterion, for whom a book is a clam and is worth only what can be digested from it; whatever stays stuck to the book after reading — the difficulties overcome, the workshop finery — does not interest him. A eulogy of the periodic naivety cultures need, plus a confession of dejection before contemporary Spanish literature. Literary criticism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +84,7 @@ Sfogliando in questi giorni quell'antologia di poeti nuovi che si intitola La co
 
 Esponga bonariamente ciascuno —secondo più sopra dicevo— la sua visione del mondo nella maniera che ciò è possibile; cioè, procurando in ogni momento esprimere in una formula di parole i vaghi e informi pensieri che dentro di noi suscita tale fatto presenziato, tale libro che leggiamo, tale idea che ci fiorisce inopinatamente dentro. È possibile che non sia altra cosa nel suo germe una forte civiltà —quella di Grecia, quella d'Italia nel Risorgimento, quella d'Inghilterra durante tutto il secolo XIX, quella di Germania ieri e oggi— che il cumulo di queste visioni del mondo individuali, ancor più intime, comunicate di mille modi nella conversazione, nei giornali, nei libri, nei discorsi, con letteratura se si è letterati, alla buona se non si sa pigliare una penna; nella temperie si correggono le une e le altre, si disciplinano, si fecondano; sopra le nostre affermazioni, proiettate fuori di noi, erigiamo la nostra dimora interiore, il nostro animo; gli ideari analoghi si avvicinano, i più robusti e completi, i più ricchi in avvenire si fanno centri e nuclei intorno ai quali si coagulano altri e altri e alla fine si formano le grandi correnti politiche dei popoli muscolosi nei cui programmi e credi sarebbe già difficile riconoscere quel senza numero di torrentelli individuali, di intimi sentimenti che in essi sboccarono originandoli. Buona mancanza fa in Spagna una di quelle epoche di intimità affabile e rispettosa, di intimità familiare, preparatrice dei rinascimenti.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Lo más triste que puede ocurrir es que donde la vida intelectual llega apenas a un soplo, a un hálito, especie de agonía, esta pobreza de intelectualidad sea amanerada, narcisina y con las raicillas al viento o sin raíces, como los musgos. Esto son las literaturas de decadencia que se desentienden de todos los intereses humanos y nacionales, para cuidarse sólo del virtuosismo, estimado por los entendidos, iniciados y colegas del arte. Para ese desdén hacia la calle, propio de la aristocracia femenina, sólo hay una respuesta: la crítica bárbara, la que no se deja llevar a discusiones sutilísimas de técnica ni a sensiblerías estéticas de que saldría siempre perdiendo, sino que, como los bárbaros de Alarico entrando en Roma quebraban las labradas sillas curiales y exigían el oro y la plata de los arcanos tesoros públicos, aparta a un lado todo preciosismo y demanda al artista el secreto de las energías humanas que guarda el arte dentro de sus místicos arcaces.
 
@@ -174,7 +180,7 @@ Ma già che non quella equivoca concezione filosofica dell'arte, troppo vaga e r
 
 L'arte è una surrogazione della vita. Se ci fosse a tutti possibile godere di una vita tanto intensa, tanto piena di forti passioni leonine, di saporose e feconde malinconie, di tutti i sentimenti e tutte le sensazioni come nei drammi di Shakespeare pulsano, forse potremmo fare a meno dell'arte e questo accade agli uomini avventurieri. Ma la nostra vita suole camminare sossegatamente al filo dei giorni e al compasso delle ore, che cadono vane intorno a noi, come le noci vuote di un noce nel silenzio di una siesta. Nel tempo che «ci spia da tutti gli angoli il tedio» ci va cadendo goccia a goccia dentro le viscere il dolore universale: allora avvertiamo la vacuità dell'esistenza, allora abbiamo bisogno di bere i vini generosi delle cantine altrui, allora ci imboschiamo nelle scene tragiche dell'arte o cerchiamo i saliceti mollicci che piantò alla riva di qualche fiume qualche uomo grande e buono dal cui petto sgorgava un altro fiume di tenerezza, [idealismo](/positions/idealism) e dolcezza. Sembrandoci la vita sordida e indegna di essere sofferta, la riempiamo di arte e stiviamo di immaginazione le barche lente delle nostre ore.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Es, pues, el arte una actividad de liberación. ¿De qué nos liberta? De la vulgaridad. Yo no sé lo que tú pensarás, lector; pero para mí, vulgaridad es la realidad de todos los días; lo que traen en sus cangilones unos tras otros los minutos; el cúmulo de los hechos, significativos e insignificantes, que son urdimbre de nuestras vidas, y que sueltos, desperdigados, sin más enlace que el de la sucesión, no tienen sentido. Mas sosteniendo, como a la pompa el tronco, esas realidades de todos los días, existen las realidades perennes, es decir, las ansias, los problemas, las pasiones cardinales del vivir del universo. A éstas son a las que llega el arte, en las que se hunde, casi se ahoga el artista verdadero, y empleándolas como centros energéticos logra condensar la vulgaridad y dar un sentido a la vida. No es, por tanto, poesía lo que en tus nervios deja ese vientecillo áspero que ahora pasa, ni esa ingeniosa comparación que ahora te ocurre mirando la mar de espalda tembladora, ni esa pasioncilla o ese dolorcejo que, aislado del resto del mundo, deslíes en unas estrofas discretas y nítidas. Si no estás sumido en las grandes corrientes de subsuelo que enlazan y animan todos los seres, si no te preocupan las magnas angustias de la humanidad, a despecho de tus lindos versos a unas manos que son blancas, a unos jardines que se mueren por el amor de una rosa, a una tristeza menuda que te corretea como un ratón por el pecho, no eres un poeta, eres un filisteo del claror de luna. Porque si es cierto, según Emerson, que como cada planta tiene su parásito, tiene cada cosa su amante y su poeta, debe añadirse que tiene también su filisteo.
 
@@ -294,7 +300,7 @@ Quell'uomo entusiasta proseguì:
 
 «Come a Seneca aveva insegnato la sua casa di campagna lo squisito arte della vecchiaia, ha iniziato me questo paesaggio in una religione. Ogni paesaggio mi insegna qualcosa di nuovo e mi induce in una nuova virtù. In verità ti dico che il paesaggio educa meglio del più abile pedagogo, e se ho qualche sollazzo ti prometto di comporre di fronte all'ammirevole "Pedagogia sociale" del professor Natorp un'altra più modesta, ma più succosa: "Pedagogia del paesaggio".
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 »Acaso el único motivo de reyerta que tengo yo con Platón es haber éste dicho que nada podían enseñar a Sócrates los árboles en el campo y sí los hombres en la ciudad. Esto es, por lo demás, muy perdonable si se tiene en cuenta que en Platón quedaban aún no pocos resabios del período sofístico, lleno todo de preocupaciones y prejuicios antropológicos como el siglo XVIII francés.
 

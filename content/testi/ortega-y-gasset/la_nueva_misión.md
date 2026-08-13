@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lecture on the book: life is a series of difficulties to which man reacts by inventing instruments — culture; ideas are the chief instrument, and the book the instrument that preserves them. Today's tiger starts from scratch, man inherits: hence his life is accumulation and progress. But the instrument has itself now become a difficulty.
+
+## Connections
+
+**Assi:** [[assi/time_and_death|Tempo e morte]], [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/historicity|storicità]], [[positions/progress|progresso]]  
+**Concetti:** [[concepts/idea|idea]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +111,7 @@ Può dirsi che una necessità umana smette di essere puramente positiva e cominc
 
 Tuttavia, il pieno carattere negativo sgorga quando lo strumento creato come facilità suscita spontaneamente una difficoltà imprevista e pratica aggressione contro l'uomo. Questo è ciò che oggi comincia ad accadere col libro e ha fatto che in tutta Europa scompaia quasi per completo l'antica allegria davanti allo stampato.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/time_and_death,assi/meaning_of_history,positions/historicity,positions/progress,concepts/idea,forms/lecture"></span>
 
 Lo cual significa para mí que vuestra profesión inicia su edad madura. Si la vida es quehacer, quiere decirse que cada edad de ella se diferencia por el estilo predominante en la actuación del hombre. La juventud no suele hacer lo que hace porque haya que hacerlo, por considerarlo inexcusable. Al contrario: en cuanto advierte que algo es forzoso, ineludible, procurará evitarlo, y si no lo logra, cumplirá la tarea con tristeza y desgana. La falta de lógica que ello implica pertenece al tesoro magnífico de incongruencias en que, por su [fortuna](/concepts/fortune), la mocedad consiste. El joven sólo se embarca con ilusión en aquellas ocupaciones que se le presentan con el aspecto de revocables, es decir, que no son forzosas, que podían perfectamente ser sustituidas por otras, ni más ni menos oportunas y recomendables. Necesita pensar que en todo momento está en su mano dejar aquella faena y brincar a otra, con lo cual evita sentirse prisionero de un solo quehacer. En suma, el joven no se adscribe a lo que hace, o lo que es lo mismo, aunque lo haga con todo esmero y heroísmo, no lo hace casi nunca completamente en serio, sino que en su secreto fondo rechaza sentirse irrevocablemente comprometido y prefiere quedar en permanente disponibilidad para hacer otra cosa distinta y aun opuesta. De este modo, su concreta ocupación se le aparece como un mero ejemplo de las innumerables otras cosas a que podía en aquel instante dedicarse. Merced a este íntimo ardid consigue virtualmente lo que ambiciona: hacer todas las cosas a un tiempo, ser de un golpe todos los modos de ser hombre. Es inútil intentar negarlo; el joven es por esencia poco leal consigo mismo y torea a su misión. Su hacer conserva algo del juego infantil y es casi siempre mero ensayo, prueba, échantillon sans valeur.
 

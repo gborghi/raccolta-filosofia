@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An analysis of La Cierva's Valencia speech after the dissolution decree: Ortega grants him a new moderation compared with his old rhetoric of "energy", but dismantles the manoeuvre as petty electoral Machiavellianism — threatening Dato over railway tariffs to extract a concession. Political reporting.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

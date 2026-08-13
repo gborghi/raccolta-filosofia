@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Madrid 1926: a popularised reply to German psychologists on the differences between Germans and Spaniards, hinging on a different psycho-physical equation — the Spaniard's body is saturated with soul and his soul ballasted with body, whereas in the German the two run relatively independently. He draws consequences for eroticism and denies the Romantic cliché of the ardent Spanish woman. National psychology, not philosophy.
+
+## Connections
+
+**Concetti:** [[concepts/soul|anima]], [[concepts/passion|passione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -138,7 +145,7 @@ Inversamente per il tedesco il «tu» e l'«egli» sono sempre relativamente cos
 
 Invece lo spagnolo, quando resta solo, non sa che fare. La vita dentro di sé e con sé stesso gli si presenta con i terribili caratteri di un esilio e di un'amputazione. Lo spagnolo ha poca «intimità».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/soul,concepts/passion,forms/essay"></span>
 
 Sólo sabe de intimidad quien sabe de soledad: son potencias recíprocas. Einsamkeit, Innerlichkeit… Tal vez no haya otras palabras que resuenen más insistentemente a lo largo de la historia alemana. Eckhart, Leibniz, Kant…
 

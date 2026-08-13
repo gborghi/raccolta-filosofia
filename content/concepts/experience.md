@@ -6,7 +6,7 @@ label_en: "experience"
 aliases:
   - "Erfahrung"
   - "sensazione"
-work_count: 33
+work_count: 30
 tags:
   - "graph/concept"
 title: "esperienza"
@@ -15,7 +15,7 @@ title: "esperienza"
 
 *experience*
 
-## Opere (33)
+## Opere (30)
 
 **Aristotle**
 - [Sense and Sensibilia (436a)](/testi/aristotle/sense_and_sensibilia_436a)
@@ -50,10 +50,7 @@ title: "esperienza"
 - [SOME THOUGHTS ON THE CONDUCT OF THE UNDERSTANDING](/testi/locke/some_thoughts_on_the_conduct_of_the_understanding)
 
 **Ortega y Gasset**
-- [Abenjaldún nos revela el secreto pensamientos sobre África Menor](/testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor)
 - [Bronca en la física](/testi/ortega-y-gasset/bronca_en_la_física)
-- [Conciencia objeto y las tres distancias de éste fragmentos de una lección](/testi/ortega-y-gasset/conciencia_objeto_y_las_tres_distancias_de_éste_fragmentos_de_una_lección)
-- [EL TEMA DE NUESTRO TIEMPO](/testi/ortega-y-gasset/el_tema_de_nuestro_tiempo)
 - [El medio vital](/testi/ortega-y-gasset/el_medio_vital)
 - [Los «nuevos» Estados Unidos](/testi/ortega-y-gasset/los_nuevos_estados_unidos)
 - [Max Scheler.— Un embriagado de esencias (1874-1928)](/testi/ortega-y-gasset/max_scheler_un_embriagado_de_esencias_1874-1928)

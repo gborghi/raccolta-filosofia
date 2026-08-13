@@ -12,8 +12,16 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > An aporetic dialogue on piety: Socrates asks Euthyphro, who is prosecuting his own father, what holiness is; from this emerges the famous dilemma of whether things are pious because the gods love them, or loved by the gods because they are pious. No definition holds up, and the dialogue closes without an answer as Socrates heads off to his own trial.
+
+## Connections
+
+**Concetti:** [[concepts/religion|religione]], [[concepts/virtue|virtù]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -180,7 +188,7 @@ SOCRATE: Raro amico! Penso di non poter far di meglio che diventare tuo discepol
 
 EUTIFRONE: Sì, davvero, Socrate; e se tenta di mettermi sotto accusa m'inganno se non trovo un difetto in lui; il tribunale avrà molto più da dire a lui che a me.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/virtue,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): And I, my dear friend, knowing this, am desirous of becoming your disciple. For I observe that no one appears to notice you — not even this Meletus; but his sharp eyes have found me out at once, and he has indicted me for impiety. And therefore, I adjure you to tell me the nature of piety and impiety, which you said that you knew so well, and of murder, and of other offences against the gods. What are they? Is not piety in every action always the same? and impiety, again — is it not always the opposite of piety, and also the same with itself, having, as impiety, one notion which includes whatever is impious?
 
@@ -392,7 +400,7 @@ SOCRATE: Ma ammettono la loro colpa, Eutifrone, e tuttavia dicono che non dovreb
 
 EUTIFRONE: No; non lo fanno.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/virtue,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): Then there are some things which they do not venture to say and do: for they do not venture to argue that the guilty are to be unpunished, but they deny their guilt, do they not?
 
@@ -596,7 +604,7 @@ SOCRATE: Ma, amico Eutifrone, se ciò che è santo è la stessa cosa di ciò che
 
 EUTIFRONE: Davvero non so, Socrate, come esprimere ciò che intendo. Poiché in un modo o nell'altro i nostri ragionamenti, su qualunque fondamento li poggiamo, sembrano girarsi e allontanarsi da noi.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/virtue,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): Your words, Euthyphro, are like the handiwork of my ancestor Daedalus; and if I were the sayer or propounder of them, you might say that my arguments walk away and will not remain fixed where they are placed because I am a descendant of his. But now, since these notions are your own, you must find some other gibe, for they certainly, as you yourself allow, show an inclination to be on the move.
 
@@ -856,7 +864,7 @@ SOCRATE: E fra le molte e belle cose compiute dagli dèi, qual è la principale,
 
 EUTIFRONE: Ti ho già detto, Socrate, che apprendere accuratamente tutte queste cose sarebbe assai faticoso. Lasciami semplicemente dire che la pietà, ossia la santità, consiste nell'imparare come compiacere gli dèi con le parole e con le opere, mediante preghiere e sacrifici. Tale pietà è la salvezza delle famiglie e degli Stati, così come l'empio, che è sgradito agli dèi, è la loro rovina e distruzione.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/religion,concepts/virtue,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): I think that you could have answered in much fewer words the chief question which I asked, Euthyphro, if you had chosen. But I see plainly that you are not disposed to instruct me — clearly not: else why, when we reached the point, did you turn aside? Had you only answered me I should have truly learned of you by this time the nature of piety. Now, as the asker of a question is necessarily dependent on the answerer, whither he leads I must follow; and can only ask again, what is the pious, and what is piety? Do you mean that they are a sort of science of praying and sacrificing?
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A press note (Luz, 9 June 1933) on the government crisis: not a normal crisis, since it touches the Republic's future, and the coming six months are the only margin left for republican politics to nationalise itself. He asks for a ministry that, without hostility to the socialists, corrects the abandonment of public power to the whim of lesser authorities and party caciquismo. An occasional political document.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

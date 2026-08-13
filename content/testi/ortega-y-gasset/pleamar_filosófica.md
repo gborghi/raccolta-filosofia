@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > It notes that physicists and biologists are again forced into philosophical questions, and that this is no anomaly but a return to the norm of the centuries. 'Scientific truth' is exact and verifiable only because it renounces the ultimate problems—physics will never say whence matter comes—and it was nineteenth-century imperialism that claimed it as the only kind of truth.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Concetti:** [[concepts/reason|ragione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +86,7 @@ Secoli e secoli la fisica si è mantenuta circoscritta al suo vero ufficio. In q
 
 In questo modo ci si confinava in un piano di verità intermedie, proibendoci ogni movimento audace verso le ultime verità. Du Bois-Reymond, pontificando dal laboratorio, lanciò urbi et orbi il suo Ignorabimus. Ma non bastava volerlo così. Una prospettiva non può comporsi soltanto di piani intermedi; le è ineludibile possedere un primo piano e un fondo o piano ultimo. Quando a una prospettiva amputiamo violentemente l'ultimo piano, quello che era soltanto penultimo passa automaticamente a farsi estremo. Voglio dire con questo che non si trova nella nostra mano rinunciare all'adozione di posizioni dinanzi ai temi ultimi, perché se restiamo in una posizione penultima, vogliamo o no, si alza questa, sia pure fraudolentemente, con tutti gli attributi dell'ultimità.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/reason,forms/essay"></span>
 
 Así la física subversiva no tuvo más remedio que tomar actitud de soberana intelectual, produciendo una pésima filosofía: [materialismo](/positions/materialism) o positivismo. El materialismo consistía simplemente en la divinización de la materia. Como el físico maneja la materia, pero ignora lo que es, hizo con ella lo que el salvaje que no sabe qué es el rayo y por eso lo diviniza. Más cauteloso, el positivismo renuncia a intentar apoteosis. Convencido de que la física sólo puede resolver las cuestiones penúltimas, declara que es imposible resolver las últimas. Y haciendo, como otra vez he dicho, un gracioso gesto de zorra ante uvas altaneras, las llama mitos, predica el agnosticismo, es decir, el abandono de los problemas supremos. Y así acaeció que durante casi un siglo la humanidad occidental ha vivido con una perspectiva mutilada, con un mundo al cual faltaba el primero y el último plano, alimentándose de cuestiones intermedias, segundas si se empieza a contar por el principio, penúltimas si se cuenta por el fin.
 

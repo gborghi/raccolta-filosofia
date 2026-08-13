@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A foreign-policy article (1915) on Italy's imminent entry into the war against Austria, the Dardanelles, and the calculations of the man at the Foreign Office. Political commentary, not philosophy.
 

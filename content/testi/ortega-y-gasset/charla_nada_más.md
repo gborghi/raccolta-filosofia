@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to the editor's telegram demanding his article: one cannot write articles while travelling, because there are two forms of concentration, inward (for meditating) and outward — the traveller annuls his inner activity and becomes "pure eyes, pure ears, skin, pituitary", reverting somewhat to childhood. A portrait of the Ritz hotels follows, as a "new vulgarity", luxurious and identical everywhere on the planet. A travel feuilleton.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]], [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +102,7 @@ BADALONA
 
 FABBRICANTI DI NUBI
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay,forms/epistle"></span>
 
 Ayer ha llegado un barco cargado de solteronas inglesas. Las hay de toda edad; pero dominan esas viejas inglesas inimitables, con moños blancos de una blancura irreal. Van dirigidas por un solo varón, que tiene los dientes fuera y un peinado en cresta; del monóculo, que da al ojo aspecto de vitrina, pende una ancha cinta negra. Cuando se presenta en el comedor, al frente de su grey femenina, nos parece asistir a una escena de gallinero. Es sorprendente la fertilidad de las Islas Británicas en solteronas, y más sorprendente todavía que la existencia inglesa parezca ordenada de suerte que sea posible una vida tan grata a estas gallináceas. Sí; ya sé que todo ser tiene derecho a la existencia, etcétera… Pero el hecho es que un pueblo fuerte, colocado en todas las brechas del drama histórico, necesita dar a su vida una disciplina enérgica, áspera y hasta un poco brutal, que excluye la sensiblería y, sobre todo, lo ficticio e inoperante. Ahora bien; estas criaturas, en quienes la vida sólo puede pulsar a fuerza de negar todos sus instintos radicales, a fuerza de falsificaciones, representan un lastre formidable para una nación que tiene urgente oficio histórico. El pensamiento será un poco duro, pero es ineludible; para que estas solteronas inglesas vivan tan a gusto y se entreguen con tanta tranquilidad a sus ficticios goces —novelas tontas, asociaciones de esto y lo otro, visitas a museos, viajes alrededor del mundo— es preciso que tengan la cabeza llena de ideas falsas, las cuales les permitan flotar en la existencia. Una sola visión clara de lo real —que es siempre en su raíz terrible e impúdico— aniquilaría todo este manso averío. Pero es imposible que la falsedad de estas cabezas no impregne un poco el aire público de toda su nación. Basta verlas tan seguras de sí mismas, ver cómo a la noche, para cenar, escotan sus carnes, tan impenitentemente virginales, para comprender que en su contorno habitual es aceptada la ficción de que viven. Y, en efecto, Inglaterra, magnífica y fuerte, sigue, impertérrita, cultivando sus solteronas, como un gran señor que en sus vastas posesiones tuviese un parque de ñandúes. Es siempre maravilloso este pueblo inglés, hecho a fuerza de Biblia y de snobismo.
 
@@ -180,7 +186,7 @@ I sentimenti non avrebbero nulla da fare, quindi; non esisterebbero se l'uomo tr
 
 Ma questo suppone che prima di nascere in noi l'amore o l'entusiasmo abbiamo avvertito quei valori, la cui presenza in un essere spara i nostri affetti. Esiste, quindi, una sensibilità primaria mercé la quale scopriamo i valori delle cose. Forse l'accertamento più importante fatto dalla filosofia in quello che va del secolo è questo: tutta la nostra vita psichica, il nostro intelletto, i nostri sensi, i nostri sentimenti, funzionano incitati da quella primaria sensibilità, quella come visione incorporea dei valori. E sebbene questi non si percepiscano con piena, totale chiarezza, se non quando li vediamo realizzati in qualche cosa, è un fatto che ne abbiamo nativamente una certa previsione e come presentimento, che probabilmente non potremo trovare nel mondo reale più valori di quelli che già prima presentivamo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay,forms/epistle"></span>
 
 Existe en cada persona una predilección nativa, anterior a toda experiencia, por ciertas clases de valor y viceversa, una como ceguera o despego hacia otras. En lo esencial, todo lo que en nuestra vida veamos, pensemos y sintamos está inscripto dentro de ese sistema de predilecciones y repulsiones que a nativitate actúa en nosotros.
 

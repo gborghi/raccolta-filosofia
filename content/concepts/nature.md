@@ -6,7 +6,7 @@ label_en: "nature"
 aliases:
   - "physis"
   - "Natur"
-work_count: 88
+work_count: 85
 tags:
   - "graph/concept"
 title: "natura"
@@ -15,7 +15,7 @@ title: "natura"
 
 *nature*
 
-## Opere (88)
+## Opere (85)
 
 **Aquinas**
 - [Treatise on the Work of the Six Days](/testi/aquinas/treatise_on_the_work_of_the_six_days)
@@ -82,7 +82,6 @@ title: "natura"
 - [ON THE NATURE OF THINGS: VERSE TRANSLATION](/testi/lucretius/on_the_nature_of_things_verse_translation)
 
 **Ortega y Gasset**
-- [Abenjaldún nos revela el secreto pensamientos sobre África Menor](/testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor)
 - [Civilización cultura espontaneidad](/testi/ortega-y-gasset/civilización_cultura_espontaneidad)
 - [El hombre no es el individuo biológico](/testi/ortega-y-gasset/el_hombre_no_es_el_individuo_biológico)
 - [El medio vital](/testi/ortega-y-gasset/el_medio_vital)
@@ -97,12 +96,10 @@ title: "natura"
 - [La querella entre el hombre y el mono](/testi/ortega-y-gasset/la_querella_entre_el_hombre_y_el_mono)
 - [Meditación de la técnica](/testi/ortega-y-gasset/meditación_de_la_técnica)
 - [Ni vitalismo ni racionalismo](/testi/ortega-y-gasset/ni_vitalismo_ni_racionalismo)
-- [Nota a La biología de la ostra jacobea de Jacques von Uexküll](/testi/ortega-y-gasset/nota_a_la_biología_de_la_ostra_jacobea_de_jacques_von_uexküll)
 - [Paisaje utilitario. Paisaje deportivo](/testi/ortega-y-gasset/paisaje_utilitario_paisaje_deportivo)
 - [Para un libro no escrito](/testi/ortega-y-gasset/para_un_libro_no_escrito)
 - [Pedagogía de secreciones internas](/testi/ortega-y-gasset/pedagogía_de_secreciones_internas)
 - [Planeta sitibundo](/testi/ortega-y-gasset/planeta_sitibundo)
-- [Prólogo a Lespagne grandiose et fantastique de Serge Rovinsky](/testi/ortega-y-gasset/prólogo_a_lespagne_grandiose_et_fantastique_de_serge_rovinsky)
 - [Sobre el vuelo de las aves anilladas](/testi/ortega-y-gasset/sobre_el_vuelo_de_las_aves_anilladas)
 - [TEMAS DE VIAJE (julio de 1922)](/testi/ortega-y-gasset/temas_de_viaje_julio_de_1922)
 - [Un paisaje](/testi/ortega-y-gasset/un_paisaje)

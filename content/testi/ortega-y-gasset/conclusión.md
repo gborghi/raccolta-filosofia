@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The conclusion of the essay on the new art (The Dehumanization of Art): Isis of the ten thousand names — every reality has countless facets, so it is highly probable that this attempt to characterise the new art contains nothing but errors. Ortega says he sought the intention of the young works rather than their execution, moved neither by anger nor enthusiasm but by the delight of understanding, and leaves one point standing: the impossibility of going back.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

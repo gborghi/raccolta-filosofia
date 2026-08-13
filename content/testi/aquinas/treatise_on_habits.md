@@ -12,8 +12,17 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > A metaphysical treatise on habit as the quality that disposes an indeterminate power toward its proper act, for good or ill: the subject of habits, their cause (nature, repeated acts, divine infusion), growth and corruption. A technical foundation, drawn from Aristotle's Categories, for the entire subsequent treatment of virtues and vices.
+
+## Connections
+
+**Concetti:** [[concepts/act_potency|atto e potenza]]  
+**Figure:** [[figures/aristotle|Aristotele]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +37,7 @@ TREATISE ON HABITS (QQ[49]-54)
 
 TRATTATO SUI HABITI (QQ[49]-54)
 
-<span class="atom-split" data-atom="002" data-title="OF HABITS IN GENERAL, AS TO THEIR SUBSTANCE (FOUR ARTICLES)" data-chapter="OF HABITS IN GENERAL, AS TO THEIR SUBSTANCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF HABITS IN GENERAL, AS TO THEIR SUBSTANCE (FOUR ARTICLES)" data-chapter="OF HABITS IN GENERAL, AS TO THEIR SUBSTANCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 After treating of human acts and passions, we now pass on to the consideration of the principles
 of human acts, and firstly of intrinsic principles, secondly of extrinsic principles. The intrinsic
@@ -54,7 +63,7 @@ All’interno di questo primo ambito di indagine, vi sono altri quattro punti da
 (3) Se implichi un ordine specifico nell’esecuzione di un atto;  
 (4) La necessità stessa dell’esistenza delle abitudini.
 
-<span class="atom-split" data-atom="003" data-title="Whether habit is a quality?" data-chapter="Whether habit is a quality?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether habit is a quality?" data-chapter="Whether habit is a quality?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [habit](/concepts/custom) is not a quality. For [Augustine](/figures/augustine) says (QQ. lxxxiii, qu.
 73): "this word 'habit' is derived from the verb 'to have.'" But "to have" belongs not only to quality,
@@ -76,7 +85,7 @@ Obiezione 2: Inoltre, l’abitudine è considerata uno dei “predicamenti”; c
 
 Obiezione 3: Inoltre, “ogni abitudine è una disposizione”, come affermato nel Libro dei Predicamenti (Categorie VI). Ora, la disposizione è “l’ordine di ciò che ha parti”, come detto nella Metafisica V.
 
-<span class="atom-split" data-atom="004" data-title="24. But this belongs to the predicament Position. Therefore habit is not a quality." data-chapter="24. But this belongs to the predicament Position. Therefore habit is not a quality." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="24. But this belongs to the predicament Position. Therefore habit is not a quality." data-chapter="24. But this belongs to the predicament Position. Therefore habit is not a quality." data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 On the contrary, The Philosopher says in the Book of Predicaments (Categor. vi) that "[habit](/concepts/custom)
 is a quality which is difficult to change."
@@ -135,7 +144,7 @@ Risposta all’Obiezione 2: Questo argomento considera l’abitudine nel senso i
 
 Risposta all’Obiezione 3: La disposizione implica sempre, effettivamente, un ordine tra le parti di qualcosa; tuttavia ciò avviene in tre modi, come il Filosofo spiega subito dopo (Metafisica V, testo 25): “ovvero, in termini di posizione, di potenza o di specie”. “Dicendo questo”, osserva Simplicio nel suo Commento ai Predicamenti, “il Filosofo include tutte le tipologie di disposizioni: quelle fisiche, quando parla di ‘posizione’; quelle ancora in fase di formazione e non ancora perfettamente efficaci, come la scienza o la virtù in via di sviluppo; e infine quelle perfette, chiamate abitudini”.
 
-<span class="atom-split" data-atom="005" data-title="Whether habit is a distinct species of quality? (parte 1)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether habit is a distinct species of quality? (parte 1)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom" data-srclang="en" data-tags="concepts/custom,concepts/act_potency,concepts/beauty,figures/augustine"></span>
 
 Objection 1: It would seem that [habit](/concepts/custom) is not a distinct species of quality. Because, as we have
 said (A[1]), habit, in so far as it is a quality, is "a disposition whereby that which is disposed is
@@ -233,7 +242,7 @@ La seconda e la terza specie di qualità. Pertanto, in entrambe queste categorie
 
 Risposta all’Obiezione 1: La disposizione implica una certa ordine, come già detto sopra (A[1], ad 3). Pertanto, non si dice che un uomo sia disposto in un certo modo a causa di una qualità specifica, se non in relazione a qualcos’altro. Inoltre, se aggiungiamo “bene o male”, concetti che appartengono alla nozione essenziale dell’abitudine, dobbiamo considerare la relazione di tale qualità con la natura della cosa, ovvero con il suo scopo o utilità. Quindi, riguardo alla forma, al calore o al freddo, non si dice che un uomo sia “bene” o “male” disposto, se non in base alla loro rilevanza per la natura della cosa, cioè per la loro idoneità o inidoneità. Di conseguenza, anche le qualità legate alla forma o alle passioni, nella misura in cui vengono considerate adatte o inadatte alla natura di una cosa, appartengono agli abitudini o alle disposizioni umane: la forma e il colore, ad esempio, in base alla loro idoneità per la natura della cosa, riguardano la bellezza; mentre calore e freddo, nella stessa misura, riguardano la salute. In questo modo, calore e freddo vengono considerati appartenenti alla prima categoria delle qualità. È quindi chiaro come rispondere alla seconda obiezione: sebbene alcuni propongano altre spiegazioni, come afferma Simplicio nel suo commento ai “Predicamenti”.
 
-<span class="atom-split" data-atom="006" data-title="Whether habit is a distinct species of quality? (parte 2)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether habit is a distinct species of quality? (parte 2)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: This difference, "difficult to change," does not distinguish [habit](/concepts/custom) from
 the other species of quality, but from disposition. Now disposition may be taken in two ways; in
@@ -265,7 +274,7 @@ instead of substantial differences, in so far as by the former, essential princi
 
 Risposta all’Obiezione 3: Questa differenza, “difficile da modificare”, non distingue l’[abitudine](/concepts/custom) dalle altre specie di qualità, ma dalla disposizione. Ora, la disposizione può essere intesa in due modi: in un senso, come genere dell’abitudine, poiché essa è inclusa nella definizione stessa di abitudine (Metafisica V, testo 25); in un altro senso, considerata nel suo rapporto contrapposto all’abitudine. Ancora, la disposizione, intesa in senso proprio, può essere suddivisa in due categorie: da un lato, come perfetta o imperfetta all’interno dello stesso genere; in questo caso viene chiamata “disposizione” quando è presente in modo imperfetto e quindi facilmente perdibile, mentre viene chiamata “abitudine” quando è presente in modo perfetto e quindi difficilmente perdibile. In questo senso, una disposizione diventa un’abitudine, proprio come un ragazzo diventa un uomo. Dall’altro lato, queste differenze possono essere considerate specie diverse dello stesso genere; in questo caso si definiscono “disposizioni” quelle qualità che, per loro natura, sono facilmente perdibili poiché hanno cause variabili (ad esempio, la malattia e la salute), mentre si definiscono “abitudini” quelle qualità che, per loro natura, non cambiano facilmente poiché hanno cause immutabili (ad esempio, le scienze e le virtù). In questo senso, la disposizione non diventa un’abitudine. Questa seconda interpretazione sembra più in linea con l’intenzione di [Aristotele](/figures/aristotle), poiché egli, per confermare questa distinzione, cita il modo comune di parlare secondo cui, quando una qualità è per sua natura facilmente modificabile e, a causa di qualche circostanza, diventa difficile da modificare, allora viene chiamata “abitudine”; al contrario, ciò accade per le qualità che sono per loro natura difficilmente modificabili. Ad esempio, se un uomo possiede una scienza in modo imperfetto e quindi è soggetto a perderla facilmente, si dice che è “disposto” a quella scienza, piuttosto che che la possieda effettivamente. Da ciò risulta chiaro che il termine “abitudine” implica una certa durata nel tempo, mentre il termine “disposizione” no. Inoltre, il fatto che essere facilmente o difficilmente modificabili sia considerato una differenza specifica di una qualità non influisce sul significato di questi termini; tali differenze, sebbene apparentemente accidentali rispetto alla qualità stessa, designano in realtà caratteristiche essenziali e proprie della qualità. Allo stesso modo, nel genere della sostanza spesso si utilizzano differenze accidentali al posto di quelle sostanziali, poiché queste ultime indicano i principi essenziali della sostanza stessa.
 
-<span class="atom-split" data-atom="007" data-title="Whether habit implies order to an act?" data-chapter="Whether habit implies order to an act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether habit implies order to an act?" data-chapter="Whether habit implies order to an act?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [habit](/concepts/custom) does not imply order to an act. For everything acts
 according as it is in act. But the Philosopher says (De [Anima](/concepts/soul) iii, text 8), that "when one is become
@@ -316,7 +325,7 @@ act. Wherefore the Philosopher says (De Hist. Animal. x, 1), that man, or one of
 called healthy, "when he can perform the operation of a healthy man." And the same applies to
 other habits.
 
-<span class="atom-split" data-atom="008" data-title="Whether habits are necessary?" data-chapter="Whether habits are necessary?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether habits are necessary?" data-chapter="Whether habits are necessary?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that habits are not necessary. For by habits we are well or ill
 disposed in respect of something, as stated above. But a thing is well or ill disposed by its form:
@@ -396,7 +405,7 @@ Risposta all’Obiezione 2: La potenza, a volte, è in relazione con molte cose;
 
 Risposta all’Obiezione 3: Lo stesso abito non ha alcuna relazione con il bene e il male, come verrà chiarito più avanti (Q[54], A[3]); invece lo stesso potere ha una relazione con il bene e il male. Pertanto, gli abiti sono necessari affinché i poteri vengano indirizzati verso il bene.
 
-<span class="atom-split" data-atom="009" data-title="OF THE SUBJECT OF HABITS (SIX ARTICLES)" data-chapter="OF THE SUBJECT OF HABITS (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="OF THE SUBJECT OF HABITS (SIX ARTICLES)" data-chapter="OF THE SUBJECT OF HABITS (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/custom,concepts/will,forms/quaestio"></span>
 
 We consider next the subject of habits: and under this head there are six points of inquiry:
 (1) Whether there is a [habit](/concepts/custom) in the body?
@@ -416,7 +425,7 @@ Esaminiamo ora il tema delle abitudini: sotto questo aspetto vi sono sei punti d
 (5) Esiste un’abitudine nella volontà?
 (6) Esistono abitudini nelle sostanze separate?
 
-<span class="atom-split" data-atom="010" data-title="Whether there is a habit in the body?" data-chapter="Whether there is a habit in the body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether there is a habit in the body?" data-chapter="Whether there is a habit in the body?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is not a [habit](/concepts/custom) in the body. For, as the Commentator says
 (De [Anima](/concepts/soul) iii), "a habit is that whereby we act when we will." But bodily actions are not subject
@@ -511,7 +520,7 @@ Risposta all’Obiezione 2: Le disposizioni fisiche non sono semplicemente diffi
 
 Risposta all’Obiezione 3: Le disposizioni fisiche che appartengono alla prima specie di qualità, come alcuni sostengono, differiscono dalle qualità della terza specie in quanto queste ultime consistono in un certo “diventare” o movimento, per così dire; per questo vengono chiamate passioni o qualità passibili. Tuttavia, quando raggiungono la perfezione (si potrebbe dire la perfezione specifica), allora passano alla prima specie di qualità. Ma Simplicio nel suo Commento si oppone a questa interpretazione: in questo modo il calore apparterrebbe alla terza specie, mentre secondo Aristotele appartiene alla terza. Pertanto Porfirio, come riporta Simplicio nel suo Commento, afferma che passioni o qualità simili a passioni, disposizioni e abitudini differiscono nei corpi in termini di intensità e moderazione. Quando una cosa riceve calore soltanto perché viene riscaldata, senza però essere in grado di trasmetterlo, allora si tratta di una passione, se è transitoria, o di una qualità simile a una passione, se è permanente. Ma quando quella stessa cosa raggiunge il punto di poter riscaldare altre cose, allora diventa una disposizione; e se questa disposizione si stabilizza in modo tale da essere difficile da modificare, allora diventa un’abitudine. Quindi la disposizione rappresenta una certa intensità di una passione o di una qualità simile a una passione, mentre l’abitudine è anch’essa un tipo di intensità. Tuttavia Simplicio si oppone anche a questa interpretazione, poiché tali differenze in intensità non derivano dalla diversità della forma stessa, ma dalla diversa partecipazione di tale forma da parte del soggetto; quindi non esisterebbero differenze tra le diverse specie di qualità. Pertanto dobbiamo dire che, come spiegato sopra (Q[49], A[2], ad 1), l’adattamento delle qualità simili a passioni, in base alla loro idoneità alla natura del soggetto, implica la nozione di disposizione; quindi, quando avviene un cambiamento in queste stesse qualità – come il calore o il freddo, l’umidità o la secchezza – ne consegue un cambiamento nella condizione di salute o di malattia del soggetto. Ma un cambiamento non si verifica nelle abitudini e nelle disposizioni stesse, in quanto tali.
 
-<span class="atom-split" data-atom="011" data-title="Whether the soul is the subject of habit in respect of its essence or in respect of its power?" data-chapter="Whether the soul is the subject of habit in respect of its essence or in respect of its power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the soul is the subject of habit in respect of its essence or in respect of its power?" data-chapter="Whether the soul is the subject of habit in respect of its essence or in respect of its power?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [habit](/concepts/custom) is in the soul in respect of its essence rather than in respect
 of its powers. For we speak of dispositions and habits in relation to nature, as stated above (Q[49],
@@ -578,7 +587,7 @@ Risposta all’Obiezione 2: L’accidente, di per sé, non è soggetto di un alt
 
 Risposta all’Obiezione 3: L’abitudine ha la precedenza sulla potenza, poiché implica una disposizione verso la natura; mentre la potenza implica sempre una relazione con l’atto, che è posteriore, poiché la natura è il principio dell’atto stesso. Tuttavia, l’abitudine, il cui soggetto è la potenza, non implica una relazione con la natura, ma con l’atto; pertanto è posteriore alla potenza. In altre parole, l’abitudine ha la precedenza sulla potenza, così come ciò che è completo ha la precedenza su ciò che è incompleto, e l’atto ha la precedenza sulla [potenzialità](/concepts/act_potency). Infatti, l’atto è naturalmente anteriore alla potenzialità, sebbene quest’ultima sia anteriore in termini di ordine di generazione e di tempo, come affermato nella Metafisica vii, testo 17; ix, testo 13.
 
-<span class="atom-split" data-atom="012" data-title="Whether there can be any habits in the powers of the sensitive parts?" data-chapter="Whether there can be any habits in the powers of the sensitive parts?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether there can be any habits in the powers of the sensitive parts?" data-chapter="Whether there can be any habits in the powers of the sensitive parts?" data-kind="atom" data-srclang="en" data-tags="concepts/custom,concepts/beauty,concepts/virtue,concepts/soul,figures/augustine"></span>
 
 Objection 1: It would seem that there cannot be any habits in the powers of the sensitive part.
 For as the nutritive power is an irrational part, so is the sensitive power. But there can be no habits
@@ -652,7 +661,7 @@ Risposta all’Obiezione 2: Le facoltà sensoriali degli animali silenziosi non 
 
 Risposta all’Obiezione 3: L’appetito sensibile possiede una capacità innata di essere influenzato dall’appetito razionale, come affermato nel De [Anima](/concepts/soul) iii, testo 57; inoltre, le facoltà razionali di comprensione hanno anch’esse una capacità innata di ricevere informazioni dalle facoltà sensibili. Pertanto è più appropriato che le abitudini si formino nelle facoltà dell’appetito sensibile piuttosto che in quelle della comprensione sensibile, poiché nelle prime queste abitudini esistono soltanto quando agiscono su comando della ragione. Anche nelle facoltà interne di comprensione sensibile si possono riconoscere alcune abitudini che facilitano la memoria, il pensiero o l’immaginazione; per questo motivo il Filosofo afferma nel De Memor. et Remin. ii che “la consuetudine contribuisce molto a una buona memoria”, poiché anche queste facoltà vengono spinte ad agire su comando della ragione. D’altra parte, le facoltà di comprensione esterne, come la vista e l’udito, non sono suscettibili di abitudini, ma sono destinate a compiere azioni fisse, in base alla loro natura; allo stesso modo i membri del corpo non possiedono abitudini, ma piuttosto le facoltà che ne comandano il movimento.
 
-<span class="atom-split" data-atom="013" data-title="Whether there is any habit in the intellect?" data-chapter="Whether there is any habit in the intellect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether there is any habit in the intellect?" data-chapter="Whether there is any habit in the intellect?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there are no habits in the intellect. For habits are in conformity
 with operations, as stated above (A[1]). But the operations of man are common to [soul and body](/axes/soul_body),
@@ -744,7 +753,7 @@ Risposta all’Obiezione 2: Così come la potenzialità di essere sensibile appa
 
 Risposta all’Obiezione 3: Poiché le facoltà cognitive preparano interiormente i loro oggetti appropriati per l’intelletto “possibile”, è proprio grazie alla buona disposizione di queste facoltà, alla quale coopera anche la buona condizione del corpo, che l’uomo diventa capace di comprendere. In questo senso, l’abitudine intellettiva può esistere in modo secondario nelle suddette facoltà; ma principalmente risiede nell’intelletto “possibile”.
 
-<span class="atom-split" data-atom="014" data-title="Whether any habit is in the will?" data-chapter="Whether any habit is in the will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether any habit is in the will?" data-chapter="Whether any habit is in the will?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is not a [habit](/concepts/custom) in the will. For the habit which is in the
 intellect is the intelligible species, by means of which the intellect actually understands. But the
@@ -805,7 +814,7 @@ Risposta all’Obiezione 2: L’intelletto attivo è soltanto attivo, e in nessu
 
 Risposta all’Obiezione 3: La volontà, per la natura stessa della sua facoltà, è incline al bene della ragione. Tuttavia, poiché questo bene può assumere molteplici forme, è necessario che la volontà venga indirizzata, attraverso l’abitudine, verso un certo bene specifico della ragione, affinché le azioni possano essere intraprese in modo più tempestivo.
 
-<span class="atom-split" data-atom="015" data-title="Whether there are habits in the angels?" data-chapter="Whether there are habits in the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether there are habits in the angels?" data-chapter="Whether there are habits in the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there are no habits in the angels. For Maximus, commentator
 of Dionysius (Coel. Hier. vii), says: "It is not proper to suppose that there are intellectual (i.e.
@@ -894,7 +903,7 @@ Risposta all’Obiezione 2: Per quanto riguarda ciò che appartiene agli angeli 
 
 Risposta all’Obiezione 3: Negli angeli non esistono parti essenziali; tuttavia esistono parti potenziali, nella misura in cui il loro intelletto è perfezionato attraverso diverse specie, e nella misura in cui la loro volontà ha una relazione con molteplici oggetti.
 
-<span class="atom-split" data-atom="016" data-title="OF THE CAUSE OF HABITS, AS TO THEIR FORMATION (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF HABITS, AS TO THEIR FORMATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="OF THE CAUSE OF HABITS, AS TO THEIR FORMATION (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF HABITS, AS TO THEIR FORMATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/cause,concepts/custom"></span>
 
 We must next consider the cause of habits: and firstly, as to their formation; secondly, as to
 their increase; thirdly, as to their diminution and corruption. Under the first head there are four
@@ -912,7 +921,7 @@ Dobbiamo ora considerare la causa delle abitudini: innanzitutto, riguardo alla l
 (3) Se sia possibile che un’unica azione generi un’abitudine?
 (4) Se alcune abitudini siano insite nell’uomo per volere di Dio.
 
-<span class="atom-split" data-atom="017" data-title="Whether any habit is from nature?" data-chapter="Whether any habit is from nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether any habit is from nature?" data-chapter="Whether any habit is from nature?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no [habit](/concepts/custom) is from nature. For the use of those things which are
 from nature does not depend on the will. But habit "is that which we use when we will," as the
@@ -1016,7 +1025,7 @@ Risposta all’Obiezione 2: Qualcosa può essere aggiunto in modo naturale alla 
 
 Risposta all’Obiezione 3: La natura non è ugualmente propensa a generare tutti i diversi tipi di abitudini; alcune possono essere indotte dalla natura, altre no, come abbiamo detto in precedenza. Pertanto, il fatto che alcune abitudini siano naturali non implica affatto che tutte lo siano.
 
-<span class="atom-split" data-atom="018" data-title="Whether any habit is caused by acts?" data-chapter="Whether any habit is caused by acts?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether any habit is caused by acts?" data-chapter="Whether any habit is caused by acts?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no [habit](/concepts/custom) is caused by acts. For habit is a quality, as we have
 said above (Q[49], A[1]). Now every quality is caused in a subject, according to the latter's
@@ -1083,7 +1092,7 @@ Risposta all’Obiezione 2: La stessa cosa, e nello stesso contesto, non può es
 
 Risposta all’Obiezione 3: L’atto che precede l’abitudine, nella misura in cui deriva da un principio attivo, proviene da un principio più eccellente di quello che costituisce l’abitudine stessa; proprio come la ragione è un principio più eccellente dell’abitudine alla virtù morale che si forma nel potere appetitivo attraverso ripetuti atti, e come la comprensione dei principi primi è un principio più eccellente della scienza delle conclusioni.
 
-<span class="atom-split" data-atom="019" data-title="Whether a habit can be caused by one act?" data-chapter="Whether a habit can be caused by one act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether a habit can be caused by one act?" data-chapter="Whether a habit can be caused by one act?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a [habit](/concepts/custom) can be caused by one act. For demonstration is an act
 of reason. But science, which is the habit of one conclusion, is caused by one demonstration.
@@ -1140,7 +1149,7 @@ Al contrario, il Filosofo (Etica, I, 7) afferma: “Così come né l’ingestion
 
 Rispondo che, come abbiamo già detto (A[2]), l’abitudine è causata dall’azione, poiché una potenza passiva viene mossa da un principio attivo. Tuttavia, affinché una determinata qualità venga instillata in ciò che è passivo, il principio attivo deve completamente superare la potenza passiva. È evidente, infatti, che il fuoco non può immediatamente distruggere il materiale combustibile; lo fa gradualmente, eliminando prima le disposizioni contrarie, fino a quando non riesce a imprimere su di esso la propria natura. Ora, poiché il principio attivo, ovvero la ragione, non può in un solo atto superare completamente la potenza appetitiva – questa infatti è incline verso molte cose diverse – ne consegue che l’abitudine virtuosa non possa essere formata da un singolo atto, ma soltanto da molti atti ripetuti. Per quanto riguarda le facoltà intellettive, esistono due tipi di potenze passive: una è l’intelletto stesso nella sua capacità di comprendere il possibile (*cfr. FP, Q[79], A[2] ad 2*); l’altra è quella che Aristotele definisce “passiva”, ovvero la facoltà razionale inferiore, composta da memoria e immaginazione. Per quanto riguarda il primo tipo di potenza passiva, un certo principio attivo può in un solo atto superarla completamente; ad esempio, una proposizione autoevidente convince l’intelletto a dare un assenso deciso alla conclusione. Tuttavia, una proposizione probabile non è in grado di farlo. Pertanto, un’abitudine di opinione richiede molti atti razionali, anche da parte dell’intelletto che comprende il possibile; mentre un’abitudine scientifica può essere formata da un singolo atto razionale, almeno per quanto riguarda l’intelletto stesso. Per le facoltà intellettive inferiori, invece, sono necessari molti ripetuti atti affinché qualcosa venga fissato saldamente nella memoria; per questo il Filosofo afferma che “la meditazione rafforza la memoria” (De Memor. et Remin., 1). Le abitudini fisiche, invece, possono essere formate da un singolo atto, soprattutto quando il principio attivo è molto potente; ad esempio, una dose forte di medicina può ripristinare immediatamente la salute. Ecco quindi chiari i rimedi alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="020" data-title="Whether any habits are infused in man by God?" data-chapter="Whether any habits are infused in man by God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether any habits are infused in man by God?" data-chapter="Whether any habits are infused in man by God?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no [habit](/concepts/custom) is infused in man by God. For God treats all equally.
 If therefore He infuses habits into some, He would infuse them into all: which is clearly untrue.
@@ -1206,7 +1215,7 @@ Risposta all’Obiezione 2: Il fatto che Dio agisca in tutti secondo il loro mod
 
 Risposta all’Obiezione 3: Gli atti compiuti grazie a un’abitudine acquisita non generano nuove abitudini, ma rafforzano quelle già esistenti; proprio come i rimedi medicinali somministrati a una persona naturalmente sana non creano una nuova forma di salute, ma le conferiscono maggiore forza rispetto a quella che possedeva inizialmente.
 
-<span class="atom-split" data-atom="021" data-title="OF THE INCREASE OF HABITS (THREE ARTICLES)" data-chapter="OF THE INCREASE OF HABITS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="OF THE INCREASE OF HABITS (THREE ARTICLES)" data-chapter="OF THE INCREASE OF HABITS (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/custom,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider the increase of habits; under which head there are three points of
 inquiry:
@@ -1221,7 +1230,7 @@ Dobbiamo ora esaminare il fenomeno dell’aumento delle abitudini; in questo amb
 (2) Aumentano attraverso l’accumulo di azioni ripetute?  
 (3) Ogni singola azione contribuisce all’aumento di una determinata abitudine?
 
-<span class="atom-split" data-atom="022" data-title="Whether habits increase? (parte 1)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether habits increase? (parte 1)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that habits cannot increase. For increase concerns quantity (Phys.
 v, text. 18). But habits are not in the genus quantity, but in that of quality. Therefore there can be
@@ -1247,7 +1256,7 @@ Obiezione 3: Inoltre, quelle cose che possono aumentare o diminuire di intensit�
 
 Al contrario, la Fede è un’abitudine, eppure si rafforza; per questo i discepoli dissero al nostro Signore (Lc. 17:5): “Signore, aumenta la nostra fede”. Quindi le abitudini possono crescere.
 
-<span class="atom-split" data-atom="023" data-title="Whether habits increase? (parte 2)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether habits increase? (parte 2)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 I answer that, Increase, like other things pertaining to quantity, is transferred from bodily
 quantities to intelligible spiritual things, on account of the natural connection of the intellect with
@@ -1350,7 +1359,7 @@ In secondo luogo, questa diversità può derivare dal fatto che la forma stessa 
 Lo stesso ragionamento viene espresso da Aristotele nei “Principi Logici” (Categorie vi), dove spiega perché le figure geometriche non possono subire variazioni di intensità: “Le cose che hanno la natura di un triangolo o di un cerchio sono necessariamente triangoli o cerchi”, poiché l’indivisibilità è essenziale alla loro struttura; pertanto, ciò che partecipa a tale natura deve farlo nella sua interezza.  
 È evidente quindi che, poiché parliamo di abitudini e disposizioni in relazione a determinate caratteristiche del soggetto (Fisica vii, testo 17), l’intensità o la debolezza di tali abitudini possono variare in due modi: innanzitutto, in relazione alla stessa abitudine (ad esempio, una salute migliore o peggiore); in secondo luogo, in relazione al grado di partecipazione del soggetto a tale abitudine, a seconda delle sue capacità innate o acquisite attraverso l’abitudine. Infatti, le abitudini e le disposizioni non conferiscono al soggetto una nuova specie, né implicano necessariamente un carattere indivisibile. Ne parleremo ulteriormente in (Q[66], A[1]) riguardo alle virtù.
 
-<span class="atom-split" data-atom="024" data-title="Whether habits increase? (parte 3)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether habits increase? (parte 3)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 1: As the word "great" is taken from corporeal quantities and applied to
 the intelligible perfections of forms; so also is the word "growth," the term of which is something
@@ -1375,7 +1384,7 @@ Risposta all’Obiezione 2: L’[abitudine](/concepts/custom) è certamente una 
 
 Risposta all’Obiezione 3: L’alterazione riguarda principalmente le qualità della terza specie; ma in secondo luogo può interessare anche le qualità della prima specie. Ad esempio, se avviene un cambiamento nelle qualità legate al caldo e al freddo, ne consegue nell’animale un cambiamento nello stato di salute o di malattia. Allo stesso modo, se si verifica un mutamento nelle passioni dell’appetito sensibile o nelle facoltà percettive, ne deriva un cambiamento nel grado di conoscenza o nella virtù (Physica, VIII, testo 20).
 
-<span class="atom-split" data-atom="025" data-title="Whether habits increases by addition?" data-chapter="Whether habits increases by addition?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether habits increases by addition?" data-chapter="Whether habits increases by addition?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the increase of habits is by way of addition. For the word
 "increase," as we have said, is transferred to forms, from corporeal quantities. But in corporeal
@@ -1462,7 +1471,7 @@ Risposta all’Obiezione 2: La causa che rafforza un’abitudine agisce sempre s
 
 Risposta all’Obiezione 3: Ciò che non è ancora bianco è potenzialmente bianco, poiché non possiede ancora la forma della bianchezza; pertanto l’agente provoca nel soggetto l’apparizione di una nuova forma. Tuttavia, ciò che è meno caldo o meno bianco non si trova in potenzialità rispetto a tali forme, poiché le possiede già in atto; esso si trova invece in potenzialità rispetto a un modo perfetto di partecipazione a tali caratteristiche, e questo modo lo riceve attraverso l’azione dell’agente.
 
-<span class="atom-split" data-atom="026" data-title="Whether every act increases its habit?" data-chapter="Whether every act increases its habit?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether every act increases its habit?" data-chapter="Whether every act increases its habit?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that every act increases its [habit](/concepts/custom). For when the cause is increased
 the effect is increased. Now acts are causes of habits, as stated above (Q[51], A[2]). Therefore a
@@ -1510,7 +1519,7 @@ Rispondo che “atti simili generano abitudini simili” (Etica, ii, 1,2). Le co
 Tuttavia, poiché l’utilizzo delle abitudini dipende dalla volontà – come è stato dimostrato in precedenza (Q[50], A[5]) – così come una persona che possiede un’abitudine può decidere di non utilizzarla o di agire contro di essa, allo stesso modo può accadere che utilizzi quell’abitudine compiendo un atto che non è proporzionato all’intensità della stessa. Pertanto, se l’intensità dell’atto corrisponde in modo proporzionale all’intensità dell’abitudine, o addirittura la supera, tale atto aumenterà quell’abitudine o contribuirà al suo rafforzamento; si può infatti parlare di “aumento delle abitudini” proprio come si parla di aumento di un animale. Non ogni boccone di cibo aumenta effettivamente le dimensioni di un animale, così come non ogni goccia d’acqua scava una cavità nella pietra; tuttavia, la ripetizione degli atti porta inevitabilmente a un aumento delle abitudini. Al contrario, se l’intensità dell’atto è inferiore a quella dell’abitudine, tale atto non contribuirà al suo rafforzamento, ma piuttosto alla sua attenuazione.  
 Da ciò risulta chiaramente come risolvere le obiezioni sollevate.
 
-<span class="atom-split" data-atom="027" data-title="HOW HABITS ARE CORRUPTED OR DIMINISHED (THREE ARTICLES)" data-chapter="HOW HABITS ARE CORRUPTED OR DIMINISHED (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="HOW HABITS ARE CORRUPTED OR DIMINISHED (THREE ARTICLES)" data-chapter="HOW HABITS ARE CORRUPTED OR DIMINISHED (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/custom,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider how habits are lost or weakened; and under this head there are three
 points of inquiry:
@@ -1525,7 +1534,7 @@ Dobbiamo ora considerare in che modo le abitudini vengono perdute o indebolite; 
 (2) Se possa essere ridotta;  
 (3) In che modo le abitudini vengano corrotte o ridotte.
 
-<span class="atom-split" data-atom="028" data-title="Whether a habit can be corrupted?" data-chapter="Whether a habit can be corrupted?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether a habit can be corrupted?" data-chapter="Whether a habit can be corrupted?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a [habit](/concepts/custom) cannot be corrupted. For habit is within its subject like
 a second nature; wherefore it is pleasant to act from habit. Now so long as a thing is, its nature is
@@ -1618,7 +1627,7 @@ Risposta all’Obiezione 2: Sebbene non esista nulla di contrario alle specie in
 
 Risposta all’Obiezione 3: Il movimento del corpo non toglie la capacità di compiere attività scientifiche, se consideriamo la radice stessa dell’abitudine alla scienza, ma soltanto nel caso in cui tale movimento possa rappresentare un ostacolo all’esercizio della ragione; infatti, l’intelletto, nel suo operare, ha bisogno delle facoltà sensitive, le quali vengono compromesse dalle trasformazioni corporee. Tuttavia, il movimento intellettivo della ragione può corrompere l’abitudine alla scienza, anche riguardo alla sua stessa radice. Allo stesso modo, un’abitudine virtuosa può essere corrotta. Nonostante ciò, quando si afferma che “la virtù è più duratura dell’apprendimento”, ciò va inteso non in relazione al soggetto o alla causa, ma all’atto stesso: poiché l’esercizio della virtù continua per tutta la vita, mentre l’apprendimento no.
 
-<span class="atom-split" data-atom="029" data-title="Whether a habit can diminish?" data-chapter="Whether a habit can diminish?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether a habit can diminish?" data-chapter="Whether a habit can diminish?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a [habit](/concepts/custom) cannot diminish. Because a habit is a simple quality
 and form. Now a simple thing is possessed either wholly or not at all. Therefore although a habit
@@ -1690,7 +1699,7 @@ Risposta all’Obiezione 2: Questo argomento sarebbe valido se l’essenza stess
 
 Risposta all’Obiezione 3: Qualunque sia il modo in cui consideriamo un accidente, la sua stessa nozione implica una dipendenza da un soggetto, ma in modi diversi. Se consideriamo un accidente in astratto, esso implica una relazione con un soggetto; tale relazione ha inizio nell’accidente stesso e si conclude nel soggetto: “La bianchezza è ciò che rende qualcosa bianco”. Pertanto, nella definizione di un accidente in astratto, non poniamo il soggetto come la prima parte della definizione (cioè come il genere), ma lo collochiamo al secondo posto, come la differenza; per esempio, diciamo che “la simmetria è una curvatura del naso”. Tuttavia, se consideriamo gli accidenti concretamente, la relazione ha inizio nel soggetto e si conclude nell’accidente stesso: “Una cosa bianca è qualcosa che possiede la proprietà della bianchezza”. Pertanto, nella definizione di questo tipo di accidente, poniamo il soggetto come il genere, che rappresenta la prima parte della definizione; per esempio, diciamo che “un naso a punta è una forma specifica di naso”. Quindi, tutto ciò che è appropriato a un accidente dal punto di vista del soggetto, ma non fa parte essenziale dell’accidente stesso, viene attribuito a quest’ultimo non in modo astratto, ma concreto. Esempi di ciò sono l’aumento o la diminuzione di certi accidenti: essere più o meno bianchi non si riferisce alla proprietà della bianchezza stessa, ma a una cosa che è bianca. Lo stesso vale per le abitudini e altre qualità; alcune di queste, infatti, aumentano o diminuiscono attraverso un processo di aggiunta, come abbiamo già spiegato chiaramente (Q[52], A[2]).
 
-<span class="atom-split" data-atom="030" data-title="Whether a habit is corrupted or diminished through mere cessation from act?" data-chapter="Whether a habit is corrupted or diminished through mere cessation from act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether a habit is corrupted or diminished through mere cessation from act?" data-chapter="Whether a habit is corrupted or diminished through mere cessation from act?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a [habit](/concepts/custom) is not corrupted or diminished through mere cessation
 from act. For habits are more lasting than passion-like qualities, as we have explained above (Q[49],
@@ -1767,7 +1776,7 @@ Risposta all’Obiezione 2: La cessazione dell’atto rappresenta una causa che 
 
 Risposta all’Obiezione 3: La parte intellettuale dell’anima, considerata in sé stessa, è al di sopra del tempo; ma la parte sensibile è soggetta al tempo e, pertanto, nel corso del tempo subisce cambiamenti sia riguardo alle passioni della parte sensibile che riguardo alle facoltà di comprensione. Ecco perché il Filosofo afferma (Phys. iv., testo 117) che il tempo ci fa dimenticare.
 
-<span class="atom-split" data-atom="031" data-title="OF THE DISTINCTION OF HABITS (FOUR ARTICLES)" data-chapter="OF THE DISTINCTION OF HABITS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="OF THE DISTINCTION OF HABITS (FOUR ARTICLES)" data-chapter="OF THE DISTINCTION OF HABITS (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider the distinction of habits; and under this head there are four points of
 inquiry:
@@ -1784,7 +1793,7 @@ Ora dobbiamo considerare la distinzione tra abitudini; e in questo ambito vi son
 (3) Se le abitudini possano essere classificate come buone o cattive;  
 (4) Se una singola abitudine possa essere composta da molte altre abitudini.
 
-<span class="atom-split" data-atom="032" data-title="Whether many habits can be in one power?" data-chapter="Whether many habits can be in one power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether many habits can be in one power?" data-chapter="Whether many habits can be in one power?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/act_potency,concepts/beauty,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there cannot be many habits in one power. For when several
 things are distinguished in respect of the same thing, if one of them be multiplied, the others are
@@ -1866,7 +1875,7 @@ Risposta all’Obiezione 2: Sebbene una facoltà sia semplice per essenza, è mo
 
 Risposta all’Obiezione 3: Un corpo è definito dalla sua forma, così come dai suoi confini esterni; invece, un’abitudine non rappresenta il limite estremo di una capacità, bensì la disposizione di tale capacità verso un certo atto, considerato come suo fine ultimo. Pertanto, una stessa capacità non può manifestarsi in diversi atti contemporaneamente, se non nel caso in cui uno di questi atti sia contenuto nell’altro; allo stesso modo, un corpo non può assumere diverse forme simultaneamente, se non quando una forma si sovrappone all’altra, come nel caso di una figura a tre lati che si inserisce in una figura a quattro lati. L’intelletto, infatti, non può comprendere contemporaneamente più cose “in modo concreto”; tuttavia è in grado di conoscere più cose allo stesso tempo “in modo abituale”.
 
-<span class="atom-split" data-atom="033" data-title="Whether habits are distinguished by their objects?" data-chapter="Whether habits are distinguished by their objects?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether habits are distinguished by their objects?" data-chapter="Whether habits are distinguished by their objects?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that habits are not distinguished by their objects. For contraries
 differ in species. Now the same [habit](/concepts/custom) of science regards contraries: thus medicine regards the
@@ -1935,7 +1944,7 @@ Risposta all’Obiezione 2: Il fisico dimostra che la Terra è rotonda con un ce
 
 Risposta all’Obiezione 3: Come afferma il Filosofo (Phys. ii, testo 89; Ethic. vii, 8), nell’ambito delle questioni pratiche l’“fine” è ciò che, nelle questioni speculative, rappresenta il “principio”. Di conseguenza, la diversità dei fini richiede una diversità di virtù, proprio come la diversità dei principi attivi. Inoltre, i fini sono gli oggetti degli atti interiori, e sono proprio questi atti che riguardano principalmente le virtù, come è evidente da quanto detto in precedenza (Q[18], A[6]; Q[19], A[2], ad 1; Q[34], A[4]).
 
-<span class="atom-split" data-atom="034" data-title="Whether habits are divided into good and bad?" data-chapter="Whether habits are divided into good and bad?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether habits are divided into good and bad?" data-chapter="Whether habits are divided into good and bad?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that habits are not divided into good and bad. For good and bad
 are contraries. Now the same [habit](/concepts/custom) regards contraries, as was stated above (A[2], OBJ[1]). Therefore
@@ -2002,7 +2011,7 @@ Risposta all’Obiezione 2: Non è il bene che è comune a ogni essere ciò che 
 
 Risposta all’Obiezione 3: Diverse buone abitudini riguardanti lo stesso oggetto specifico differiscono a seconda della loro idoneità alle varie natur umane, come già detto sopra. Allo stesso modo, diverse cattive abitudini relative allo stesso atto differiscono in base al loro diverso grado di contraddizione con ciò che è conforme alla natura umana; pertanto, vari vizi legati allo stesso tema sono in opposizione a una stessa virtù.
 
-<span class="atom-split" data-atom="035" data-title="Whether one habit is made up of many habits?" data-chapter="Whether one habit is made up of many habits?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether one habit is made up of many habits?" data-chapter="Whether one habit is made up of many habits?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one [habit](/concepts/custom) is made up of many habits. For whatever is
 engendered, not at once, but little by little, seems to be made up of several parts. But a habit is

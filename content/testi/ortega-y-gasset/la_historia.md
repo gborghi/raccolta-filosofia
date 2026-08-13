@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to Maura, who condenses his politics into the word 'citizenship' and reads the Spanish past to explain political absenteeism. Ortega objects that Maura does not write history but projects his political bias across the centuries, granting politics an importance it lacks, and that in the eighteenth century absenteeism was European, not Spanish.
 

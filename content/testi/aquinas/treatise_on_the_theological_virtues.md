@@ -12,8 +12,18 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > Treatise on the theological virtues of faith, hope and charity, infused by grace and directed straight to God as their proper object. Faith's formal object is the First Truth as revealed; believing on divine authority remains meritorious even where reason could in principle demonstrate the same truth.
+
+## Connections
+
+**Assi:** [[assi/faith_reason|Fede e ragione]]  
+**Posizioni:** [[positions/harmony_of_faith_reason|armonia di fede e ragione]]  
+**Concetti:** [[concepts/faith|fede]], [[concepts/theological_virtues|virtù teologali]], [[concepts/charity|carità]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -30,7 +40,7 @@ TREATISE ON THE [THEOLOGICAL VIRTUES](/concepts/theological_virtues) (QQ[1]-46)
 SECONDA PARTE DELLA SECONDA PARTE (SS) (QQ[1]-189)  
 TRATTATO Delle [VIRTUÌ TEOLOGICHE (QQ[1]-46)
 
-<span class="atom-split" data-atom="002" data-title="OF FAITH (TEN ARTICLES)" data-chapter="OF FAITH (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF FAITH (TEN ARTICLES)" data-chapter="OF FAITH (TEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Having to treat now of the [theological virtues](/concepts/theological_virtues), we shall begin with Faith, secondly we shall
 speak of Hope, and thirdly, of Charity.
@@ -68,7 +78,7 @@ All’interno del primo punto di discussione vi sono dieci questioni principali:
 (9) In che modo tali articoli possono essere espressi attraverso simboli?  
 (10) Chi ha il diritto di proporre un simbolo della fede?
 
-<span class="atom-split" data-atom="003" data-title="Whether the object of faith is the First Truth?" data-chapter="Whether the object of faith is the First Truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether the object of faith is the First Truth?" data-chapter="Whether the object of faith is the First Truth?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the object of faith is not the First Truth. For it seems that the
 object of faith is that which is proposed to us to be believed. Now not only things pertaining to the
@@ -130,7 +140,7 @@ Risposta all’Obiezione 1: Le questioni relative alla natura umana di Cristo, a
 
 Risposta all’Obiezione 3: La carità ama anche il nostro prossimo a causa di Dio; pertanto, il suo oggetto, in senso proprio, è Dio, come dimostreremo ulteriormente in (Q[25], A[1]).
 
-<span class="atom-split" data-atom="004" data-title="Whether the object of faith is something complex, by way of a proposition?" data-chapter="Whether the object of faith is something complex, by way of a proposition?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether the object of faith is something complex, by way of a proposition?" data-chapter="Whether the object of faith is something complex, by way of a proposition?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the object of faith is not something complex by way of a
 proposition. For the object of faith is the First Truth, as stated above (A[1]). Now the First Truth
@@ -195,7 +205,7 @@ Risposta all’Obiezione 2: Il simbolo menziona le cose riguardo alle quali la f
 
 Risposta all’Obiezione 3: L’oggetto di quella visione celeste sarà la Prima Verità vista nella sua essenza stessa, secondo 1 Giovanni 3:2: “Sappiamo che, quando Egli apparirà, noi saremo come Lui; perché lo vedremo così com’è”. Pertanto, quella visione non avverrà attraverso una proposizione, ma attraverso una semplice comprensione diretta. D’altra parte, per fede, non comprendiamo la Prima Verità così com’è nella sua essenza stessa; quindi il confronto non è valido.
 
-<span class="atom-split" data-atom="005" data-title="Whether anything false can come under faith?" data-chapter="Whether anything false can come under faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether anything false can come under faith?" data-chapter="Whether anything false can come under faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that something false can come under faith. For faith is condivided
 with hope and charity. Now something false can come under hope, since many hope to have eternal
@@ -282,7 +292,7 @@ Risposta all’Obiezione 3: Dopo la nascita di Cristo, credere in Lui significav
 
 Risposta all’Obiezione 4: La fede del credente non si rivolge a determinati aspetti concreti del pane, ma al fatto che il vero corpo di Cristo si trovi sotto le apparenze del pane sensibile, quando quest’ultimo viene correttamente consacrato. Pertanto, se il pane non viene consacrato in modo corretto, non ne consegue affatto che qualcosa di falso entri a far parte della fede del credente.
 
-<span class="atom-split" data-atom="006" data-title="Whether the object of faith can be something seen?" data-chapter="Whether the object of faith can be something seen?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether the object of faith can be something seen?" data-chapter="Whether the object of faith can be something seen?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the object of faith is something seen. For Our Lord said to
 Thomas (Jn. 20:29): "Because thou hast seen Me, Thomas, thou hast believed." Therefore vision
@@ -356,7 +366,7 @@ Risposta all’Obiezione 3: La luce della fede ci permette di vedere ciò in cui
 
 Risposta all’Obiezione 4: L’udito riguarda le parole che indicano ciò in cui si crede, ma non le cose stesse in cui si crede; pertanto, da questo non segue affatto che tali cose possano essere “viste”.
 
-<span class="atom-split" data-atom="007" data-title="Whether those things that are of faith can be an object of science [*Science is certain knowledge of a demonstrated conclusion through its demonstration]?" data-chapter="Whether those things that are of faith can be an object of science [*Science is certain knowledge of a demonstrated conclusion through its demonstration]?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether those things that are of faith can be an object of science [*Science is certain knowledge of a demonstrated conclusion through its demonstration]?" data-chapter="Whether those things that are of faith can be an object of science [*Science is certain knowledge of a demonstrated conclusion through its demonstration]?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that those things that are of faith can be an object of science. For
 where science is lacking there is ignorance, since ignorance is the opposite of science. Now we are
@@ -450,7 +460,7 @@ Risposta all’Obiezione 3: Le cose che possono essere dimostrate attraverso la 
 
 Risposta all’Obiezione 4: Come afferma il Filosofo (Posteriore i), “è certamente possibile che scienza e opinione riguardo allo stesso oggetto siano diverse in persone diverse”, proprio come abbiamo già detto riguardo alla scienza e alla fede; tuttavia è anche possibile che una stessa persona abbia sia scienza che fede riguardo allo stesso oggetto, ma in contesti diversi o da punti di vista differenti. Ad esempio, una persona può conoscere per via dimostrativa l’unità della Divinità e, attraverso la fede, riconoscere la Trinità. D’altra parte, nella stessa persona, riguardo allo stesso oggetto e dallo stesso punto di vista, la scienza è incompatibile sia con l’opinione che con la fede, ma per motivi diversi: la scienza richiede che l’oggetto su cui si basa venga considerato impossibile in altro modo, mentre per l’opinione è essenziale che tale oggetto possa essere considerato alternativamente possibile. Inoltre, ciò che costituisce l’oggetto della fede, a causa della certezza insita nella fede stessa, viene anch’esso ritenuto impossibile in altro modo; la ragione per cui scienza e fede non possono riguardare lo stesso oggetto e dallo stesso punto di vista è dunque che l’oggetto della scienza è qualcosa di visibile, mentre l’oggetto della fede è ciò che è invisibile, come già detto in precedenza.
 
-<span class="atom-split" data-atom="008" data-title="Whether those things that are of faith should be divided into certain articles?" data-chapter="Whether those things that are of faith should be divided into certain articles?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether those things that are of faith should be divided into certain articles?" data-chapter="Whether those things that are of faith should be divided into certain articles?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that those things that are of faith should not be divided into certain
 articles. For all things contained in Holy Writ are matters of faith. But these, by reason of their
@@ -535,7 +545,7 @@ Risposta all’Obiezione 2: L’aspetto formale dell’oggetto della fede può e
 
 Risposta all’Obiezione 3: Questa definizione di un articolo deriva dall’etimologia della parola, intesa come derivante dal latino, e non in base al suo vero significato, che è invece legato alla radice greca; pertanto tale definizione non possiede grande valore. Tuttavia, si potrebbe comunque affermare che, sebbene la fede non venga richiesta a nessuno con la forza o per costrizione, poiché credere è un atto volontario, essa viene tuttavia imposta come necessità per raggiungere uno scopo preciso: “Chi si avvicina a Dio deve credere che Egli esista”, e “senza fede non è possibile compiacerGli”, come dichiara l’Apostolo (Ebrei 11:6).
 
-<span class="atom-split" data-atom="009" data-title="Whether the articles of faith have increased in course of time?" data-chapter="Whether the articles of faith have increased in course of time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether the articles of faith have increased in course of time?" data-chapter="Whether the articles of faith have increased in course of time?" data-kind="atom" data-srclang="en" data-tags="positions/progress,concepts/faith,concepts/revelation"></span>
 
 Objection 1: It would seem that the articles of faith have not increased in course of time.
 Because, as the Apostle says (Heb. 11:1), "faith is the substance of things to be hoped for." Now
@@ -648,7 +658,7 @@ Risposta all’Obiezione 3: Per che possa avvenire la generazione effettiva, son
 
 Risposta all’Obiezione 4: La piena realizzazione della grazia fu operata da Cristo; per questo il momento del Suo avvento è chiamato “il tempo della pienezza” (Galati 4:4). Pertanto, coloro che furono più vicini a Cristo – sia prima, come Giovanni Battista, sia dopo, come gli apostoli – possedevano una conoscenza più profonda dei misteri della fede. Infatti, anche riguardo allo stato umano, si osserva che la perfezione dell’essere umano raggiunge il suo apice nella giovinezza; quindi, lo stato di un uomo è tanto più perfetto quanto più vicino al periodo della sua giovinezza, sia prima che dopo tale periodo.
 
-<span class="atom-split" data-atom="010" data-title="Whether the articles of faith are suitably formulated?" data-chapter="Whether the articles of faith are suitably formulated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the articles of faith are suitably formulated?" data-chapter="Whether the articles of faith are suitably formulated?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the articles of faith are unsuitably formulated. For those things,
 which can be known by demonstration, do not belong to faith as to an object of belief for all, as
@@ -778,7 +788,7 @@ Risposta all’Obiezione 5: La santificazione di una creatura per grazia, e la s
 
 Risposta all’Obiezione 6: Nel sacramento dell’Eucaristia si possono considerare due aspetti. Il primo è il fatto che si tratti di un sacramento; in questo senso, esso è simile agli altri effetti della grazia santificante. Il secondo è il fatto che nel sacramento dell’Eucaristia il corpo di Cristo sia miracolosamente contenuto; pertanto, anche questo evento rientra nell’ambito dell’onnipotenza di Dio, proprio come tutti gli altri miracoli attribuiti alla sua potenza infinita.
 
-<span class="atom-split" data-atom="011" data-title="Whether it is suitable for the articles of faith to be embodied in a symbol?" data-chapter="Whether it is suitable for the articles of faith to be embodied in a symbol?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether it is suitable for the articles of faith to be embodied in a symbol?" data-chapter="Whether it is suitable for the articles of faith to be embodied in a symbol?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is unsuitable for the articles of faith to be embodied in a
 symbol. Because Holy Writ is the rule of faith, to which no addition or subtraction can lawfully be
@@ -887,7 +897,7 @@ Risposta all’Obiezione 5: Se diciamo “‘Nella’ Santa Chiesa Cattolica”,
 
 Risposta all’Obiezione 6: Poiché il simbolo dei Padri rappresenta un’esplicazione del simbolo degli Apostoli e fu redatto dopo che la fede era già diffusa in tutto il mondo, e quando la Chiesa viveva già in pace, viene cantato pubblicamente durante la Messa. D’altra parte, il simbolo degli Apostoli, che fu redatto al tempo delle persecuzioni, prima che la fede venisse resa nota a tutti, viene recitato in segreto durante le liturgie del mattino e della sera, come se servisse a contrastare l’oscurità degli errori passati e futuri.
 
-<span class="atom-split" data-atom="012" data-title="Whether it belongs to the Sovereign Pontiff to draw up a symbol of faith?" data-chapter="Whether it belongs to the Sovereign Pontiff to draw up a symbol of faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether it belongs to the Sovereign Pontiff to draw up a symbol of faith?" data-chapter="Whether it belongs to the Sovereign Pontiff to draw up a symbol of faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it does not belong to the Sovereign Pontiff to draw up a symbol
 of faith. For a new edition of the symbol becomes necessary in order to explain the articles of faith,
@@ -968,7 +978,7 @@ Risposta all’Obiezione 2: Questa proibizione e questa sentenza del concilio er
 
 Risposta all’Obiezione 3: Atanasio redasse una dichiarazione di fede, non sotto forma di simbolo, ma piuttosto attraverso un’esposizione della dottrina, come si evince dal suo modo di esprimersi. Poiché essa conteneva in breve tutta la verità della fede, fu accettata dall’autorità del Sommo Pontefice e considerata quindi una regola di fede.
 
-<span class="atom-split" data-atom="013" data-title="OF THE ACT OF FAITH (TEN ARTICLES)" data-chapter="OF THE ACT OF FAITH (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="OF THE ACT OF FAITH (TEN ARTICLES)" data-chapter="OF THE ACT OF FAITH (TEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the act of faith, and (1) the internal act; (2) the external act.
 Under the first head there are ten points of inquiry:
@@ -998,7 +1008,7 @@ All’interno della prima categoria esistono dieci punti da esaminare:
 (9) L’atto di fede è meritevole?  
 (10) La ragione umana riduce forse il valore della fede?
 
-<span class="atom-split" data-atom="014" data-title="Whether to believe is to think with assent?" data-chapter="Whether to believe is to think with assent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether to believe is to think with assent?" data-chapter="Whether to believe is to think with assent?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that to believe is not to think with assent. Because the Latin word
 "cogitatio" [thought] implies a research, for "cogitare" [to think] seems to be equivalent to
@@ -1074,7 +1084,7 @@ Risposta all’Obiezione 2: “Pensare”, in questo contesto, non indica l’at
 
 Risposta all’Obiezione 3: L’intelletto del credente è determinato verso un unico oggetto, non dalla ragione, ma dalla volontà; pertanto, l’assenso viene considerato un atto dell’intelletto che, essendo guidato dalla volontà, si dirige verso un singolo oggetto.
 
-<span class="atom-split" data-atom="015" data-title="Whether the act of faith is suitably distinguished as believing God, believing in a God and believing in God?" data-chapter="Whether the act of faith is suitably distinguished as believing God, believing in a God and believing in God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the act of faith is suitably distinguished as believing God, believing in a God and believing in God?" data-chapter="Whether the act of faith is suitably distinguished as believing God, believing in a God and believing in God?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the act of faith is unsuitably distinguished as believing God,
 believing in a God, and believing in God. For one [habit](/concepts/custom) has but one act. Now faith is one habit
@@ -1146,7 +1156,7 @@ Risposta all’Obiezione 3: Non si può dire che gli increduli “credano in un 
 
 Risposta all’Obiezione 4: Come già detto sopra (FS, Q[9], A[1]), la volontà dirige l’intelletto e le altre facoltà dell’anima verso il loro fine; in questo senso, un atto di fede consiste proprio nel “credere in Dio”.
 
-<span class="atom-split" data-atom="016" data-title="Whether it is necessary for salvation to believe anything above the natural reason?" data-chapter="Whether it is necessary for salvation to believe anything above the natural reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether it is necessary for salvation to believe anything above the natural reason?" data-chapter="Whether it is necessary for salvation to believe anything above the natural reason?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,concepts/faith,concepts/reason,concepts/revelation,concepts/grace"></span>
 
 Objection 1: It would seem unnecessary for salvation to believe anything above the natural
 reason. For the salvation and perfection of a thing seem to be sufficiently insured by its natural
@@ -1224,7 +1234,7 @@ Risposta all’Obiezione 2: Proprio come l’uomo accetta i principi primi, guid
 
 Risposta all’Obiezione 3: In molti aspetti, la fede percepisce le cose invisibili di Dio in modo più profondo rispetto alla ragione naturale, che procede verso Dio partendo dalle sue creature. Ecco perché si legge nell’Ecclesiaste (3:25): “Molte cose ti vengono rivelate al di là della comprensione umana”.
 
-<span class="atom-split" data-atom="017" data-title="Whether it is necessary to believe those things which can be proved by natural reason?" data-chapter="Whether it is necessary to believe those things which can be proved by natural reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether it is necessary to believe those things which can be proved by natural reason?" data-chapter="Whether it is necessary to believe those things which can be proved by natural reason?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unnecessary to believe those things which can be proved by natural
 reason. For nothing is superfluous in God's works, much less even than in the works of nature. Now
@@ -1292,7 +1302,7 @@ Risposta all’Obiezione 2: Scienza e fede non possono riguardare lo stesso ogge
 
 Risposta all’Obiezione 3: Sebbene tutte le cose che possono essere conosciute dalla scienza presentino uno stesso aspetto scientifico comune, non tutte portano allo stesso modo l’uomo verso la [beatitudine](/positions/beatitude); pertanto, non tutte vengono ugualmente proposte alla nostra fede.
 
-<span class="atom-split" data-atom="018" data-title="Whether man is bound to believe anything explicitly?" data-chapter="Whether man is bound to believe anything explicitly?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether man is bound to believe anything explicitly?" data-chapter="Whether man is bound to believe anything explicitly?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man is not bound to believe anything explicitly. For no man
 is bound to do what is not in his power. Now it is not in man's power to believe a thing explicitly,
@@ -1356,7 +1366,7 @@ promptness of the will subject to authority, suffices for the act of obedience, 
 and direct object of obedience. But this or that precept is accidental or consequent to that proper
 and direct object.
 
-<span class="atom-split" data-atom="019" data-title="Whether all are equally bound to have explicit faith?" data-chapter="Whether all are equally bound to have explicit faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether all are equally bound to have explicit faith?" data-chapter="Whether all are equally bound to have explicit faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,concepts/faith,concepts/revelation,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all are equally bound to have explicit faith. For all are bound
 to those things which are necessary for salvation, as is evidenced by the precepts of charity. Now
@@ -1422,7 +1432,7 @@ Risposta all’Obiezione 2: Le persone semplici non dovrebbero essere sottoposte
 
 Risposta all’Obiezione 3: I semplici non possiedono quella fede che è propria degli eruditi, se non nella misura in cui questi si attengono all’insegnamento divino. Per questo l’Apostolo dice (1 Corinzi 4:16): “Siate miei seguaci, così come io lo sono di Cristo”. Quindi non è la conoscenza umana, ma la verità divina a costituire il fondamento della fede; e se qualcuno degli eruditi si allontana da questa verità, non danneggia la fede dei semplici, i quali ritengono che gli eruditi credano correttamente. A meno che i semplici non si attaccino ostinatamente ai propri errori personali, contrari alla fede della Chiesa universale, la quale non può errare, poiché il Signore ha detto (Luca 22:32): “Ho pregato per te affinché la tua fede non vacilli”.
 
-<span class="atom-split" data-atom="020" data-title="Whether it is necessary for the salvation of all, that they should believe explicitly in the mystery of Christ?" data-chapter="Whether it is necessary for the salvation of all, that they should believe explicitly in the mystery of Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether it is necessary for the salvation of all, that they should believe explicitly in the mystery of Christ?" data-chapter="Whether it is necessary for the salvation of all, that they should believe explicitly in the mystery of Christ?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not necessary for the salvation of all that they should
 believe explicitly in the mystery of Christ. For man is not bound to believe explicitly what the
@@ -1510,7 +1520,7 @@ providence, since they believed that God would deliver mankind in whatever way w
 Him, and according to the revelation of the Spirit to those who knew the truth, as stated in Job
 35:11: "Who teacheth us more than the beasts of the earth."
 
-<span class="atom-split" data-atom="021" data-title="Whether it is necessary for salvation to believe explicitly in the Trinity?" data-chapter="Whether it is necessary for salvation to believe explicitly in the Trinity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether it is necessary for salvation to believe explicitly in the Trinity?" data-chapter="Whether it is necessary for salvation to believe explicitly in the Trinity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not necessary for salvation to believe explicitly in the
 Trinity. For the Apostle says (Heb. 11:6): "He that cometh to God must believe that He is, and is
@@ -1575,7 +1585,7 @@ Risposta all’Obiezione 2: Prima dell’avvento di Cristo, la fede nella Trinit
 
 Risposta all’Obiezione 3: La bontà sovrana di Dio, così come la comprendiamo oggi attraverso i suoi effetti, può essere intesa senza il concetto della Trinità delle Persone; ma se considerata in sé stessa e vista dai Beati, non può essere compresa senza il concetto della Trinità delle Persone. Inoltre, la missione delle Persone Divine ci conduce alla felicità celeste.
 
-<span class="atom-split" data-atom="022" data-title="Whether to believe is meritorious?" data-chapter="Whether to believe is meritorious?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether to believe is meritorious?" data-chapter="Whether to believe is meritorious?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/faith,concepts/charity,concepts/grace"></span>
 
 Objection 1: It would seem that to believe in not meritorious. For the principle of all merit is
 charity, as stated above (FS, Q[114], A[4]). Now faith, like nature, is a preamble to charity.
@@ -1648,7 +1658,7 @@ Risposta all’Obiezione 2: In ambito scientifico si possono considerare due asp
 
 Risposta all’Obiezione 3: Il credente possiede un motivo sufficiente per credere, poiché è mosso dall’autorità dell’insegnamento divino confermato dai miracoli, e inoltre dall’istinto interiore che deriva dall’invito divino; pertanto non crede in modo superficiale. Tuttavia, non dispone di ragioni sufficienti per acquisire una conoscenza scientifica, ma ciò non gli toglie il merito della sua fede.
 
-<span class="atom-split" data-atom="023" data-title="Whether reasons in support of what we believe lessen the merit of faith?" data-chapter="Whether reasons in support of what we believe lessen the merit of faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether reasons in support of what we believe lessen the merit of faith?" data-chapter="Whether reasons in support of what we believe lessen the merit of faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that reasons in support of what we believe lessen the merit of faith.
 For Gregory says (Hom. xxvi in Evang.) that "there is no merit in believing what is shown by
@@ -1732,7 +1742,7 @@ Risposta all’Obiezione 2: Le ragioni addotte a sostegno dell’autorità della
 
 Risposta all’Obiezione 3: Quantounque sia in opposizione alla fede, sia che si tratti dei pensieri di un uomo o di persecuzioni esterne, aumenta il merito della fede, nella misura in cui si dimostra che la volontà è più pronta e ferma nel credere. Pertanto i martiri possedevano un maggior merito nella fede, poiché non abbandonarono mai la loro fede a causa delle persecuzioni; anche i saggi hanno un maggiore merito nella fede, poiché non rinunciano mai alle loro convinzioni a causa delle argomentazioni avanzate dai filosofi o dagli eretici contro la fede. D’altra parte, le cose favorevoli alla fede non diminuiscono sempre la prontezza della volontà nel credere, e quindi non riducono necessariamente il merito della fede stessa.
 
-<span class="atom-split" data-atom="024" data-title="OF THE OUTWARD ACT OF FAITH (TWO ARTICLES)" data-chapter="OF THE OUTWARD ACT OF FAITH (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="OF THE OUTWARD ACT OF FAITH (TWO ARTICLES)" data-chapter="OF THE OUTWARD ACT OF FAITH (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the outward act, viz. the confession of faith: under which head there are
 two points of inquiry:
@@ -1745,7 +1755,7 @@ Dobbiamo ora considerare l’atto esteriore, ovvero la confessione di fede: in m
 (1) Se la confessione sia un atto di fede;  
 (2) Se la confessione di fede sia necessaria per la salvezza.
 
-<span class="atom-split" data-atom="025" data-title="Whether confession is an act of faith?" data-chapter="Whether confession is an act of faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether confession is an act of faith?" data-chapter="Whether confession is an act of faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that confession is not an act of faith. For the same act does not
 belong to different virtues. Now confession belongs to penance of which it is a part. Therefore it
@@ -1808,7 +1818,7 @@ Risposta all’Obiezione 2: Ciò che elimina un ostacolo non è una causa dirett
 
 Risposta all’Obiezione 3: La fede interiore, con l’aiuto della carità, determina tutti gli atti esteriori di virtù, attraverso le altre virtù; essa comanda tali atti, ma non li induce direttamente. Al contrario, l’atto di confessione è considerato un atto proprio della fede interiore, e questo avviene senza il bisogno dell’aiuto di alcuna altra virtù.
 
-<span class="atom-split" data-atom="026" data-title="Whether confession of faith is necessary for salvation?" data-chapter="Whether confession of faith is necessary for salvation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether confession of faith is necessary for salvation?" data-chapter="Whether confession of faith is necessary for salvation?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that confession of faith is not necessary for salvation. For, seemingly,
 a thing is sufficient for salvation, if it is a means of attaining the end of virtue. Now the proper end
@@ -1879,7 +1889,7 @@ Risposta all’Obiezione 2: Nei casi di necessità in cui la fede è in pericolo
 
 Risposta all’Obiezione 3: Non c’è nulla di lodevole nel fare una confessione pubblica della propria fede, se ciò provoca disturbo tra gli infedeli e non porta alcun beneficio né alla fede stessa né ai fedeli. Per questo il nostro Signore disse (Matteo 7:6): “Non date ciò che è sacro ai cani, né gettate le vostre perle davanti ai maiali, affinché, rivoltandosi contro di voi, non vi dilaniantino”. Tuttavia, se c’è la speranza di trarne qualche beneficio per la fede, o se sussiste un’urgenza, una persona dovrebbe ignorare il disturbo che ciò potrebbe causare negli infedeli e confessare pubblicamente la propria fede. Per questo è scritto (Matteo 15:12) che quando i discepoli riferirono al Signore che “i farisei, udendo queste parole, si scandalizzarono”, Lui rispose: “Lasciateli stare; sono ciechi e guide di ciechi”.
 
-<span class="atom-split" data-atom="027" data-title="OF THE VIRTUE ITSELF OF FAITH (EIGHT ARTICLES)" data-chapter="OF THE VIRTUE ITSELF OF FAITH (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="OF THE VIRTUE ITSELF OF FAITH (EIGHT ARTICLES)" data-chapter="OF THE VIRTUE ITSELF OF FAITH (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/faith,concepts/virtue,concepts/charity,concepts/theological_virtues,schools/scholasticism"></span>
 
 We must now consider the virtue itself of faith, and, in the first place, faith itself; secondly,
 those who have faith; thirdly, the cause of faith; fourthly, its effects.
@@ -1905,7 +1915,7 @@ Dobbiamo ora considerare la virtù stessa della fede, e in primo luogo la fede i
 (7) Qual è il suo rapporto con le altre virtù?  
 (8) Qual è la sua certezza, rispetto alla certezza delle virtù intellettuali?
 
-<span class="atom-split" data-atom="028" data-title="Whether this is a fitting definition of faith: \&quot;Faith is the substance of things to be hoped for, the evidence of things that appear not?\&quot;" data-chapter="Whether this is a fitting definition of faith: \&quot;Faith is the substance of things to be hoped for, the evidence of things that appear not?\&quot;" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether this is a fitting definition of faith: \&quot;Faith is the substance of things to be hoped for, the evidence of things that appear not?\&quot;" data-chapter="Whether this is a fitting definition of faith: \&quot;Faith is the substance of things to be hoped for, the evidence of things that appear not?\&quot;" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 # Whether this is a fitting definition of faith: "Faith is the substance of things to be hoped for, the evidence of things that appear not?"
 
@@ -2037,7 +2047,7 @@ Risposta all’Obiezione 4: “Sostanza” e “prova”, intesi nel senso defin
 
 Risposta all’Obiezione 5: Le prove derivate dai principi intrinseci di una cosa la rendono evidente di per sé, mentre le prove basate sull’autorità divina non rendono una cosa evidente in sé stessa; è proprio questo tipo di prova a essere menzionato nella definizione della fede.
 
-<span class="atom-split" data-atom="029" data-title="Whether faith resides in the intellect?" data-chapter="Whether faith resides in the intellect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether faith resides in the intellect?" data-chapter="Whether faith resides in the intellect?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that faith does not reside in the intellect. For [Augustine](/figures/augustine) says (De
 Praedest. Sanct. v) that "faith resides in the believer's will." Now the will is a power distinct from
@@ -2104,7 +2114,7 @@ Risposta all’Obiezione 2: Non solo la volontà deve essere disposta ad obbedir
 
 Risposta all’Obiezione 3: La fede risiede nell’intelletto speculativo, come dimostra il suo oggetto. Ma poiché questo oggetto, ovvero la Prima Verità, è lo scopo di tutti i nostri desideri e azioni, come dimostra Agostino (De Trinitate i, 8), ne consegue che la fede agisce attraverso la carità, proprio come “l’intelletto speculativo diventa pratico attraverso l’estensione delle proprie capacità” (De Anima iii, 10).
 
-<span class="atom-split" data-atom="030" data-title="Whether charity is the form of faith?" data-chapter="Whether charity is the form of faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether charity is the form of faith?" data-chapter="Whether charity is the form of faith?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/faith,concepts/theological_virtues,concepts/virtue,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity is not the form of faith. For each thing derives its
 species from its form. When therefore two things are opposite members of a division, one cannot
@@ -2162,7 +2172,7 @@ Risposta all’Obiezione 2: Questa obiezione è valida per una forma intrinseca.
 
 Risposta all’Obiezione 3: Anche l’obbedienza, così come la speranza e qualsiasi altra virtù che possa precedere l’atto di fede, vengono stimolate dalla carità, come dimostreremo ulteriormente (Q[23], A[8]); pertanto, la carità viene considerata la forma stessa della fede.
 
-<span class="atom-split" data-atom="031" data-title="Whether lifeless faith can become living, or living faith, lifeless?" data-chapter="Whether lifeless faith can become living, or living faith, lifeless?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether lifeless faith can become living, or living faith, lifeless?" data-chapter="Whether lifeless faith can become living, or living faith, lifeless?" data-kind="atom" data-srclang="en" data-tags="concepts/faith,concepts/grace,concepts/charity,concepts/theological_virtues,forms/quaestio"></span>
 
 Objection 1: It would seem that lifeless faith does not become living, or living faith lifeless.
 For, according to 1 Cor. 13:10, "when that which is perfect is come, that which is in part shall be
@@ -2253,7 +2263,7 @@ Risposta all’Obiezione 3: La grazia provoca la fede non solo quando questa ini
 
 Risposta all’Obiezione 4: Quando la fede viva diventa inerte, la fede stessa non cambia, ma ne cambia l’oggetto, cioè l’anima, che a un certo momento possiede la fede senza carità, e in un altro momento, con carità.
 
-<span class="atom-split" data-atom="032" data-title="Whether faith is a virtue?" data-chapter="Whether faith is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether faith is a virtue?" data-chapter="Whether faith is a virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/faith,concepts/virtue,concepts/charity,concepts/theological_virtues,forms/quaestio"></span>
 
 Objection 1: It would seem that faith is not a virtue. For virtue is directed to the good, since
 "it is virtue that makes its subject good," as the Philosopher states (Ethic. ii, 6). But faith is directed
@@ -2342,7 +2352,7 @@ Risposta all’Obiezione 3: La fede vivente e la fede inanimata non differiscono
 
 Risposta all’Obiezione 4: Alcuni affermano che la fede, considerata tra le grazie gratuite, sia una fede priva di vitalità. Ma questa affermazione è priva di fondamento, poiché le grazie gratuite menzionate in quel passaggio non sono comuni a tutti i membri della Chiesa; per questo motivo l’Apostolo dice: “Esistono diverse forme di grazie”, e ancora: “A uno viene data questa grazia, a un altro quella”. Ora, una fede priva di vitalità è invece comune a tutti i membri della Chiesa, poiché tale caratteristica non fa parte della sua essenza, se la consideriamo come un dono gratuito. Pertanto, dobbiamo ritenere che in quel passaggio la parola “fede” si riferisca a una certa forma di perfezione nella fede, ad esempio la “costanza nella fede”, secondo un commento biblico, oppure la “parola della fede”. La fede è considerata tra i frutti della fede, poiché il suo atto comporta una certa gioia a causa della sua certezza; per questo motivo, nel commento al quinto capitolo delle Lettere ai Galati, dove vengono elencati i frutti della fede, essa viene definita “certezza riguardo a ciò che è invisibile”.
 
-<span class="atom-split" data-atom="033" data-title="Whether faith is one virtue?" data-chapter="Whether faith is one virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether faith is one virtue?" data-chapter="Whether faith is one virtue?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that faith is not one. For just as faith is a gift of God according to
 Eph. 2:8, so also wisdom and knowledge are numbered among God's gifts according to Is. 11:2.
@@ -2383,7 +2393,7 @@ we have mentioned above (FS, Q[103], A[4]; FS, Q[107], A[1], ad 1).
 
 Reply to Objection 3: This objection considers numerical diversity of faith.
 
-<span class="atom-split" data-atom="034" data-title="Whether faith is the first of the virtues?" data-chapter="Whether faith is the first of the virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether faith is the first of the virtues?" data-chapter="Whether faith is the first of the virtues?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that faith is not the first of the virtues. For a gloss on Lk. 12:4, "I
 say to you My friends," says that fortitude is the foundation of faith. Now the foundation precedes
@@ -2454,7 +2464,7 @@ Reply to Objection 5: Some act of the will is required before faith, but not an 
 quickened by charity. This latter act presupposes faith, because the will cannot tend to God with
 perfect love, unless the intellect possesses right faith about Him.
 
-<span class="atom-split" data-atom="035" data-title="Whether faith is more certain than science and the other intellectual virtues?" data-chapter="Whether faith is more certain than science and the other intellectual virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether faith is more certain than science and the other intellectual virtues?" data-chapter="Whether faith is more certain than science and the other intellectual virtues?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that faith is not more certain than science and the other intellectual
 virtues. For doubt is opposed to certitude, wherefore a thing would seem to be the more certain,
@@ -2529,7 +2539,7 @@ Risposta all’Obiezione 2: A parità di altre condizioni, la vista è più cert
 
 Risposta all’Obiezione 3: I doni dell’intelletto e della conoscenza sono più perfetti della conoscenza derivante dalla fede in termini di chiarezza, ma non per quanto riguarda una certezza più assoluta; infatti, l’intera certezza dei doni dell’intelletto e della conoscenza deriva dalla certezza della fede, proprio come la certezza delle conclusioni deriva dalla certezza delle premesse. Tuttavia, in quanto scienza, saggezza e intelletto siano virtù intellettuali, esse si basano sulla luce naturale della ragione, che non è paragonabile alla certezza della Parola di Dio su cui si fonda la fede.
 
-<span class="atom-split" data-atom="036" data-title="OF THOSE WHO HAVE FAITH (FOUR ARTICLES)" data-chapter="OF THOSE WHO HAVE FAITH (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="OF THOSE WHO HAVE FAITH (FOUR ARTICLES)" data-chapter="OF THOSE WHO HAVE FAITH (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/faith,concepts/theological_virtues,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider those who have faith: under which head there are four points of inquiry:
 (1) Whether there was faith in the angels, or in man, in their original state?
@@ -2545,7 +2555,7 @@ Dobbiamo ora considerare coloro che hanno fede: sotto questa categoria vi sono q
 (3) Se quegli eretici che errano su un punto specifico abbiano fede negli altri aspetti della verità;
 (4) Se, tra coloro che hanno fede, alcuni ne possiedano di più rispetto ad altri.
 
-<span class="atom-split" data-atom="037" data-title="Whether there was faith in the angels, or in man, in their original state?" data-chapter="Whether there was faith in the angels, or in man, in their original state?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether there was faith in the angels, or in man, in their original state?" data-chapter="Whether there was faith in the angels, or in man, in their original state?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/faith,concepts/grace,figures/augustine"></span>
 
 Objection 1: It would seem that there was no faith, either in the angels, or in man, in their
 original state. For Hugh St. Victor says in his Sentences (De Sacram. i, 10) that "man cannot see
@@ -2640,7 +2650,7 @@ Risposta all’Obiezione 2: Nello stato originale dell’uomo e degli angeli non
 
 Risposta all’Obiezione 3: Nello stato originale, non vi era alcuna possibilità di udire ciò che l’uomo diceva esteriormente; invece, c’era la possibilità di ascoltare ciò che Dio ispirava interiormente. È così che i profeti udivano ciò che Dio voleva comunicare loro, come espresso nel Salmo 84:9: “Udirei ciò che il Signore Dio dirà dentro di me”.
 
-<span class="atom-split" data-atom="038" data-title="Whether in the demons there is faith?" data-chapter="Whether in the demons there is faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether in the demons there is faith?" data-chapter="Whether in the demons there is faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/voluntarism,concepts/grace,concepts/will,figures/augustine"></span>
 
 Objection 1: It would seem that the demons have no faith. For [Augustine](/figures/augustine) says (De Praedest.
 Sanct. v) that "faith depends on the believer's will": and this is a good will, since by it man wishes
@@ -2706,7 +2716,7 @@ Risposta all’Obiezione 2: La fede, che è un dono della grazia, spinge l’uom
 
 Risposta all’Obiezione 3: Il fatto stesso che i segni della fede siano così evidenti da costringere anche i demoni a crederci è motivo di dispiacere per loro; pertanto, la loro malvagità non diminuisce affatto per il semplice atto di credere.
 
-<span class="atom-split" data-atom="039" data-title="Whether a man who disbelieves one article of faith, can have lifeless faith in the other articles?" data-chapter="Whether a man who disbelieves one article of faith, can have lifeless faith in the other articles?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether a man who disbelieves one article of faith, can have lifeless faith in the other articles?" data-chapter="Whether a man who disbelieves one article of faith, can have lifeless faith in the other articles?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a heretic who disbelieves one article of faith, can have lifeless
 faith in the other articles. For the natural intellect of a heretic is not more able than that of a catholic.
@@ -2780,7 +2790,7 @@ Risposta all’Obiezione 2: Le varie conclusioni di una scienza dispongono dei r
 
 Risposta all’Obiezione 3: I vari precetti della Legge possono essere considerati sia in relazione ai loro motivi immediati, e quindi alcuni di essi possono essere osservati senza altri; sia in relazione al loro motivo principale, che è l’obbedienza perfetta a Dio. In questo senso, un uomo fallisce ogni volta che viola anche un solo comandamento, come afferma Giacomo 2:10: “Chiunque trasgredisca anche in una sola cosa è colpevole di tutte”.
 
-<span class="atom-split" data-atom="040" data-title="Whether faith can be greater in one man than in another?" data-chapter="Whether faith can be greater in one man than in another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Whether faith can be greater in one man than in another?" data-chapter="Whether faith can be greater in one man than in another?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that faith cannot be greater in one man than in another. For the
 quantity of a [habit](/concepts/custom) is taken from its object. Now whoever has faith believes everything that is of
@@ -2853,7 +2863,7 @@ Risposta all’Obiezione 2: È essenziale per la fede che si dia la priorità as
 
 Risposta all’Obiezione 3: La comprensione dei principi deriva dalla stessa natura umana, condivisa da tutti; mentre la fede deriva dal dono della grazia, che non è disponibile in modo uguale per tutti, come spiegato sopra (FS, Q[112], A[4]). Pertanto, il confronto tra i due concetti non è appropriato. Tuttavia, la verità dei principi è più chiara a alcuni che ad altri, in base alla maggiore capacità intellettiva di ciascuno.
 
-<span class="atom-split" data-atom="041" data-title="OF THE CAUSE OF FAITH (TWO ARTICLES)" data-chapter="OF THE CAUSE OF FAITH (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="OF THE CAUSE OF FAITH (TWO ARTICLES)" data-chapter="OF THE CAUSE OF FAITH (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the cause of faith, under which head there are two points of inquiry:
 (1) Whether faith is infused into man by God?
@@ -2865,7 +2875,7 @@ Dobbiamo ora esaminare la causa della fede; in questo ambito vi sono due punti d
 (1) Se la fede venga infusa nell’uomo da Dio stesso;  
 (2) Se una fede priva di vitalità possa essere considerata un dono di Dio.
 
-<span class="atom-split" data-atom="042" data-title="Whether faith is infused into man by God?" data-chapter="Whether faith is infused into man by God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether faith is infused into man by God?" data-chapter="Whether faith is infused into man by God?" data-kind="atom" data-srclang="en" data-tags="concepts/faith,concepts/grace,concepts/miracle,figures/augustine,figures/pelagius"></span>
 
 Objection 1: It would seem that faith is not infused into man by God. For [Augustine](/figures/augustine) says (De
 Trin. xiv) that "science begets faith in us, and nourishes, defends and strengthens it." Now those
@@ -2935,7 +2945,7 @@ Risposta all’Obiezione 2: Questo argomento si riferisce ancora alla causa che,
 
 Risposta all’Obiezione 3: Credere dipende effettivamente dalla volontà del credente; tuttavia, la volontà umana deve essere preparata da Dio con la grazia, affinché l’uomo possa elevarsi a realtà che trascendono la sua natura, come già detto in precedenza (Q[2], A[3]).
 
-<span class="atom-split" data-atom="043" data-title="Whether lifeless faith is a gift of God?" data-chapter="Whether lifeless faith is a gift of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether lifeless faith is a gift of God?" data-chapter="Whether lifeless faith is a gift of God?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that lifeless faith is not a gift of God. For it is written (Dt. 32:4)
 that "the works of God are perfect." Now lifeless faith is something imperfect. Therefore it is not
@@ -3011,7 +3021,7 @@ Si può anche osservare che il concetto di “deformità” indica non solo la p
 
 Risposta all’Obiezione 3: Chi riceve la fede da Dio senza carità viene guarito dall’incredulità, non completamente (poiché il peccato dell’incredulità precedente non viene eliminato), ma in parte, cioè nel senso di smettere di commettere determinati peccati. Spesso accade che una persona smetta di compiere un certo atto di peccato perché Dio la induce a farlo, senza però smettere di commetterne altri, spinta dalla propria malvagità. E in questo modo, a volte Dio concede a qualcuno la fede, ma non anche il dono della carità; allo stesso modo, il dono della profezia o simili può essere concesso a qualcuno senza che venga accompagnato dal dono della carità.
 
-<span class="atom-split" data-atom="044" data-title="OF THE EFFECTS OF FAITH (TWO ARTICLES)" data-chapter="OF THE EFFECTS OF FAITH (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="OF THE EFFECTS OF FAITH (TWO ARTICLES)" data-chapter="OF THE EFFECTS OF FAITH (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the effects of faith: under which head there are two points of inquiry:
 (1) Whether fear is an effect of faith?
@@ -3023,7 +3033,7 @@ Dobbiamo ora considerare gli effetti della fede; in questo ambito vi sono due pu
 (1) Se la paura sia un effetto della fede;  
 (2) Se il cuore venga purificato dalla fede.
 
-<span class="atom-split" data-atom="045" data-title="Whether fear is an effect of faith?" data-chapter="Whether fear is an effect of faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether fear is an effect of faith?" data-chapter="Whether fear is an effect of faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fear is not an effect of faith. For an effect does not precede its
 cause. Now fear precedes faith: for it is written (Ecclus. 2:8): "Ye that fear the Lord, believe in
@@ -3088,7 +3098,7 @@ Risposta all’Obiezione 2: La stessa cosa, riguardo ai contrari, può essere ca
 
 Risposta all’Obiezione 3: L’oggetto primario e formale della fede è il bene, che rappresenta la Prima Verità; tuttavia l’oggetto materiale della fede include anche alcuni mali: ad esempio, non sottomettersi a Dio o essere separati da Lui costituisce un male, così come il fatto che i peccatori subiscano punizioni da parte di Dio. In questo modo, la fede può diventare causa di paura.
 
-<span class="atom-split" data-atom="046" data-title="Whether faith has the effect of purifying the heart?" data-chapter="Whether faith has the effect of purifying the heart?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether faith has the effect of purifying the heart?" data-chapter="Whether faith has the effect of purifying the heart?" data-kind="atom" data-srclang="en" data-tags="concepts/faith,concepts/charity,concepts/theological_virtues"></span>
 
 Objection 1: It would seem that faith does not purify the heart. For purity of the heart pertains
 chiefly to the affections, whereas faith is in the intellect. Therefore faith has not the effect of
@@ -3144,7 +3154,7 @@ Risposta all’Obiezione 2: Anche una fede priva di vita esclude una certa impur
 
 Risposta all’Obiezione 3: L’oscurità della fede non riguarda l’impurità del peccato, ma piuttosto il difetto naturale dell’intelletto umano, secondo lo stato attuale della vita.
 
-<span class="atom-split" data-atom="047" data-title="OF THE GIFT OF UNDERSTANDING (EIGHT ARTICLES)" data-chapter="OF THE GIFT OF UNDERSTANDING (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="OF THE GIFT OF UNDERSTANDING (EIGHT ARTICLES)" data-chapter="OF THE GIFT OF UNDERSTANDING (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the gifts of understand and knowledge, which respond to the virtue of
 faith. With regard to the gift of understanding there are eight points of inquiry:
@@ -3170,7 +3180,7 @@ Dobbiamo ora considerare i doni della comprensione e della conoscenza, che corri
 (7) Quale delle beatitudini corrisponda a questo dono;  
 (8) Quale dei frutti dello Spirito Santo ne derivi.
 
-<span class="atom-split" data-atom="048" data-title="Whether understanding is a gift of the Holy Ghost?" data-chapter="Whether understanding is a gift of the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether understanding is a gift of the Holy Ghost?" data-chapter="Whether understanding is a gift of the Holy Ghost?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that understanding is not a gift of the Holy Ghost. For the gifts of
 grace are distinct from the gifts of nature, since they are given in addition to the latter. Now
@@ -3245,7 +3255,7 @@ Risposta all’Obiezione 2: Il discorso della ragione inizia sempre da una compr
 
 Risposta all’Obiezione 3: “La volontà” indica semplicemente un movimento dell’appetito, senza rivelare alcuna forma di eccellenza; mentre “la comprensione” rappresenta una certa qualità di conoscenza che penetra nel cuore delle cose. Per questo motivo, il dono sovrannaturale viene chiamato in base alla comprensione e non alla volontà.
 
-<span class="atom-split" data-atom="049" data-title="Whether the gift of understanding is compatible with faith?" data-chapter="Whether the gift of understanding is compatible with faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Whether the gift of understanding is compatible with faith?" data-chapter="Whether the gift of understanding is compatible with faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,concepts/faith,figures/augustine,schools/scholasticism"></span>
 
 Objection 1: It would seem that the gift of understanding is incompatible with faith. For
 [Augustine](/figures/augustine) says (QQ. lxxxiii, qu. 15) that "the thing which is understood is bounded by the
@@ -3304,7 +3314,7 @@ Dal punto di vista della comprensione, si possono distinguere due modi in cui po
 In un altro modo, possiamo comprendere qualcosa in modo imperfetto: quando l’essenza di una cosa o la verità di una proposizione non vengono conosciute nella loro essenza o nel loro modo di esistere, ma sappiamo comunque che le apparenze esterne non contraddicono tale verità; in questo caso, anche durante lo stato di fede, nulla ci impedisce di comprendere anche quelle cose che sono direttamente oggetto della fede.  
 Questo basta per rispondere alle obiezioni: le prime tre riguardano la comprensione perfetta, mentre l’ultima si riferisce alla comprensione di cose subordinate alla fede.
 
-<span class="atom-split" data-atom="050" data-title="Whether the gift of understanding is merely speculative or also practical?" data-chapter="Whether the gift of understanding is merely speculative or also practical?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Whether the gift of understanding is merely speculative or also practical?" data-chapter="Whether the gift of understanding is merely speculative or also practical?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that understanding, considered as a gift of the Holy Ghost, is not
 practical, but only speculative. For, according to Gregory (Moral. i, 32), "understanding penetrates
@@ -3365,7 +3375,7 @@ Risposta all’Obiezione 2: L’eccellenza del dono dell’intelligenza consiste
 
 Risposta all’Obiezione 3: La regola delle azioni umane è la ragione umana e la legge eterna, come detto sopra (FS, Q[71], A[6]). Ora, la legge eterna supera la ragione umana; pertanto, la conoscenza delle azioni umane, regolate dalla legge eterna, trascende la ragione naturale e richiede la luce soprannaturale donata dallo Spirito Santo.
 
-<span class="atom-split" data-atom="051" data-title="Whether the gift of understanding is in all who are in a state of grace?" data-chapter="Whether the gift of understanding is in all who are in a state of grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="Whether the gift of understanding is in all who are in a state of grace?" data-chapter="Whether the gift of understanding is in all who are in a state of grace?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the gift of understanding is not in all who are in a state of
 grace. For Gregory says (Moral. ii, 49) that "the gift of understanding is given as a remedy against
@@ -3432,7 +3442,7 @@ Risposta all’Obiezione 2: Anche se non tutti coloro che hanno fede comprendono
 
 Risposta all’Obiezione 3: Per quanto riguarda le cose necessarie alla salvezza, il dono della comprensione non viene mai ritirato dalle persone sante; tuttavia, affinché queste non abbiano motivi di orgoglio, talvolta viene ritirato per altre questioni, in modo che la loro mente non sia in grado di comprendere chiaramente tutte le cose.
 
-<span class="atom-split" data-atom="052" data-title="Whether the gift of understanding is found also in those who have not sanctifying grace?" data-chapter="Whether the gift of understanding is found also in those who have not sanctifying grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="Whether the gift of understanding is found also in those who have not sanctifying grace?" data-chapter="Whether the gift of understanding is found also in those who have not sanctifying grace?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the gift of understanding is found also in those who have not
 sanctifying grace. For [Augustine](/figures/augustine), in expounding the words of Ps. 118:20: "My soul hath coveted
@@ -3482,7 +3492,7 @@ implies a certain perception of the truth, which perception, except in one who h
 cannot regard the end, as stated above. Hence the comparison fails between understanding and
 faith.
 
-<span class="atom-split" data-atom="053" data-title="Whether the gift of understanding is distinct from the other gifts?" data-chapter="Whether the gift of understanding is distinct from the other gifts?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="Whether the gift of understanding is distinct from the other gifts?" data-chapter="Whether the gift of understanding is distinct from the other gifts?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the gift of understanding is not distinct from the other gifts.
 For there is no distinction between things whose opposites are not distinct. Now "wisdom is contrary
@@ -3573,7 +3583,7 @@ Risposta all’Obiezione 2: Il dono dell’intelligenza riguarda i primi princip
 
 Risposta all’Obiezione 3: Il dono della comprensione è correlato a entrambi i tipi di conoscenza, cioè quella speculativa e quella pratica; non riguarda il giudizio, ma l’intuizione, ovvero la capacità di comprendere ciò che viene detto.
 
-<span class="atom-split" data-atom="054" data-title="Whether the sixth beatitude, \&quot;Blessed are the clean of heart,\&quot; etc., responds to the gift of understanding?" data-chapter="Whether the sixth beatitude, \&quot;Blessed are the clean of heart,\&quot; etc., responds to the gift of understanding?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="Whether the sixth beatitude, \&quot;Blessed are the clean of heart,\&quot; etc., responds to the gift of understanding?" data-chapter="Whether the sixth beatitude, \&quot;Blessed are the clean of heart,\&quot; etc., responds to the gift of understanding?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 # Whether the sixth beatitude, "Blessed are the clean of heart," etc., responds to the gift of understanding?
 
@@ -3616,7 +3626,7 @@ This suffices for the Replies to the Objections: for the first two arguments ref
 of cleanness; while the third refers to the perfect vision of God. Moreover the gifts both perfect us
 in this life by way of inchoation, and will be fulfilled, as stated above (FS, Q[69], A[2]).
 
-<span class="atom-split" data-atom="055" data-title="Whether faith, among the fruits, responds to the gift of understanding?" data-chapter="Whether faith, among the fruits, responds to the gift of understanding?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Whether faith, among the fruits, responds to the gift of understanding?" data-chapter="Whether faith, among the fruits, responds to the gift of understanding?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that, among the fruits, faith does not respond to the gift of
 understanding. For understanding is the fruit of faith, since it is written (Is. 7:9) according to another
@@ -3685,7 +3695,7 @@ Risposta all’Obiezione 2: La fede non può precedere completamente la comprens
 
 Risposta all’Obiezione 3: Il frutto della conoscenza pratica non può consistere nella stessa conoscenza, poiché tale tipo di conoscenza viene acquisita non per se stessa, ma al fine di raggiungere un altro scopo. D’altra parte, la conoscenza speculativa trova il proprio frutto proprio in sé stessa: tale frutto è la certezza riguardo alla cosa conosciuta. Pertanto, il dono del consiglio, che appartiene esclusivamente alla conoscenza pratica, non possiede un frutto corrispondente di per sé; mentre i doni della saggezza, dell’intelligenza e della conoscenza, che possono anche appartenere alla conoscenza speculativa, hanno un solo frutto comune, che è certamente indicato dal nome di “fede”. Il motivo per cui esistono diversi frutti legati alla facoltà appetitiva è che, come già detto, il carattere di scopo, che il termine “frutto” implica, appartiene piuttosto alla parte appetitiva che a quella intellettiva.
 
-<span class="atom-split" data-atom="056" data-title="OF THE GIFT OF KNOWLEDGE (FOUR ARTICLES)" data-chapter="OF THE GIFT OF KNOWLEDGE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="OF THE GIFT OF KNOWLEDGE (FOUR ARTICLES)" data-chapter="OF THE GIFT OF KNOWLEDGE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,forms/quaestio"></span>
 
 We must now consider the gift of knowledge, under which head there are four points of inquiry:
 (1) Whether knowledge is a gift?
@@ -3701,7 +3711,7 @@ Dobbiamo ora considerare il dono della conoscenza; in questo ambito vi sono quat
 (3) Se sia di natura speculativa o pratica.  
 (4) A quale [beatitudine](/positions/beatitude) corrisponda.
 
-<span class="atom-split" data-atom="057" data-title="Whether knowledge is a gift?" data-chapter="Whether knowledge is a gift?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Whether knowledge is a gift?" data-chapter="Whether knowledge is a gift?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that knowledge is not a gift. For the gifts of the Holy Ghost surpass
 the natural faculty. But knowledge implies an effect of natural reason: for the Philosopher says
@@ -3772,7 +3782,7 @@ Risposta all’Obiezione 2: Per quanto riguarda le questioni di fede, è possibi
 
 Risposta all’Obiezione 3: I doni sono più perfetti delle virtù morali e intellettuali; tuttavia non lo sono nemmeno delle [virtù teologiche](/concepts/theological_virtues); anzi, tutti i doni sono destinati a perfezionare le virtù teologiche, nel loro scopo ultimo. Pertanto non è irragionevole che diversi doni siano destinati a una singola virtù teologica.
 
-<span class="atom-split" data-atom="058" data-title="Whether the gift of knowledge is about Divine things?" data-chapter="Whether the gift of knowledge is about Divine things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="Whether the gift of knowledge is about Divine things?" data-chapter="Whether the gift of knowledge is about Divine things?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the gift of knowledge is about Divine things. For [Augustine](/figures/augustine)
 says (De Trin. xiv, 1) that "knowledge begets, nourishes and strengthens faith." Now faith is about
@@ -3850,7 +3860,7 @@ Risposta all’Obiezione 2: Questo argomento considera la conoscenza nel suo sig
 
 Risposta all’Obiezione 3: Come già detto sopra (Q[1], A[1]), ogni [abitudine cognitiva](/concepts/custom) considera, in termini formali, il mezzo attraverso cui le cose vengono conosciute, e in termini materiali, le stesse cose che vengono conosciute tramite quel mezzo. Poiché ciò che è di natura formale ha maggiore rilevanza, ne consegue che quelle scienze che traggono conclusioni sulla materia fisica a partire da principi matematici vanno considerate piuttosto tra le scienze matematiche, anche se, per quanto riguarda il loro oggetto di studio, hanno molto in comune con le scienze fisiche. Per questo motivo si afferma nel Phys. ii, 2 che tali scienze siano più affini alla fisica. Pertanto, poiché l’uomo conosce Dio attraverso le sue creature, ciò sembra riferirsi piuttosto al “conoscimento”, che appartiene a questo ambito in termini formali, piuttosto che alla “saggezza”, che ne fa parte in termini materiali; al contrario, quando giudichiamo le creature in base alle realtà divine, ciò riguarda più la “saggezza” che il “conoscimento”.
 
-<span class="atom-split" data-atom="059" data-title="Whether the gift of knowledge is practical knowledge?" data-chapter="Whether the gift of knowledge is practical knowledge?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="Whether the gift of knowledge is practical knowledge?" data-chapter="Whether the gift of knowledge is practical knowledge?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the knowledge, which is numbered among the gifts, is practical
 knowledge. For [Augustine](/figures/augustine) says (De Trin. xii, 14) that "knowledge is concerned with the actions
@@ -3895,7 +3905,7 @@ bestowed on them, so as never to wander from the straight path of justice. This 
 of holy things, according to Wis. 10:10: "She conducted the just . . . through the right ways . . . and
 gave him the knowledge of holy things."
 
-<span class="atom-split" data-atom="060" data-title="Whether the third beatitude, \&quot;Blessed are they that mourn,\&quot; etc. corresponds to the gift of knowledge?" data-chapter="Whether the third beatitude, \&quot;Blessed are they that mourn,\&quot; etc. corresponds to the gift of knowledge?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the third beatitude, \&quot;Blessed are they that mourn,\&quot; etc. corresponds to the gift of knowledge?" data-chapter="Whether the third beatitude, \&quot;Blessed are they that mourn,\&quot; etc. corresponds to the gift of knowledge?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 # Whether the third beatitude, "Blessed are they that mourn," etc. corresponds to the gift of knowledge?
 
@@ -3945,7 +3955,7 @@ love of them: and this I say with regard to the beatitude of a wayfarer. Hence b
 contemplation is not ascribed to knowledge, but to understanding and wisdom, which are about
 Divine things.
 
-<span class="atom-split" data-atom="061" data-title="OF UNBELIEF IN GENERAL (TWELVE ARTICLES)" data-chapter="OF UNBELIEF IN GENERAL (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="OF UNBELIEF IN GENERAL (TWELVE ARTICLES)" data-chapter="OF UNBELIEF IN GENERAL (TWELVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 In due sequence we must consider the contrary vices: first, unbelief, which is contrary to faith;
 secondly, blasphemy, which is opposed to confession of faith; thirdly, ignorance and dulness of
@@ -3983,7 +3993,7 @@ All’interno della prima categoria vi sono dodici punti da considerare:
 (11) I riti degli infedeli dovrebbero essere tollerati?  
 (12) I figli degli infedeli devono essere battezzati contro la volontà dei genitori?
 
-<span class="atom-split" data-atom="062" data-title="Whether unbelief is a sin?" data-chapter="Whether unbelief is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="Whether unbelief is a sin?" data-chapter="Whether unbelief is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that unbelief is not a sin. For every sin is contrary to nature, as
 Damascene proves (De Fide Orth. ii, 4). Now unbelief seems not to be contrary to nature; for
@@ -4029,7 +4039,7 @@ It might also be replied that just as the [theological virtues](/concepts/theolo
 but precede them, so too, the vices opposed to the theological virtues are not reduced to the capital
 vices.
 
-<span class="atom-split" data-atom="063" data-title="Whether unbelief is in the intellect as its subject?" data-chapter="Whether unbelief is in the intellect as its subject?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether unbelief is in the intellect as its subject?" data-chapter="Whether unbelief is in the intellect as its subject?" data-kind="atom" data-srclang="en" data-tags="concepts/will,concepts/faith,figures/augustine"></span>
 
 Objection 1: It would seem that unbelief is not in the intellect as its subject. For every sin is
 in the will, according to [Augustine](/figures/augustine) (De Duabus Anim. x, xi). Now unbelief is a sin, as stated above
@@ -4084,7 +4094,7 @@ Risposta all’Obiezione 2: Il disprezzo da parte della volontà provoca il disa
 
 Risposta all’Obiezione 3: Chi ritiene che un angelo malvagio sia in realtà buono non si discosta da una questione di fede, poiché “i suoi sensi fisici sono ingannati, mentre la sua mente non si allontana da un giudizio vero e corretto”, come osserva l’ Kommentario [*Agostino, Enchiridion lx*]. Tuttavia, secondo lo stesso autore, attenersi a Satana quando egli inizia ad invitare qualcuno nella sua dimora, cioè nel male e nell’errore, non è privo di peccato.
 
-<span class="atom-split" data-atom="064" data-title="Whether unbelief is the greatest of sin?" data-chapter="Whether unbelief is the greatest of sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="Whether unbelief is the greatest of sin?" data-chapter="Whether unbelief is the greatest of sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,assi/god,concepts/theological_virtues,concepts/faith,figures/augustine"></span>
 
 Objection 1: It would seem that unbelief is not the greatest of sins. For [Augustine](/figures/augustine) says (De
 Bapt. contra Donat. iv, 20): "I should hesitate to decide whether a very wicked Catholic ought to
@@ -4155,7 +4165,7 @@ Risposta all’Obiezione 2: L’incredulità include sia l’ignoranza, come sua
 
 Risposta all’Obiezione 3: Un non credente viene punito più severamente per il suo peccato di incredulità di quanto un altro peccatore venga punito per qualsiasi altro peccato, se si considera la natura stessa di quel peccato. Tuttavia, nel caso di altri peccati – ad esempio l’adulterio – commessi sia da un credente che da un non credente, il credente, a parità di altre condizioni, pecca in modo più grave del non credente: sia per via della sua conoscenza della verità attraverso la fede, sia per via dei sacramenti della fede di cui ha goduto e che offende commettendo peccati.
 
-<span class="atom-split" data-atom="065" data-title="Whether every act of an unbeliever is a sin?" data-chapter="Whether every act of an unbeliever is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Whether every act of an unbeliever is a sin?" data-chapter="Whether every act of an unbeliever is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that each act of an unbeliever is a sin. Because a gloss on Rom.
 14:23, "All that is not of faith is sin," says: "The whole life of unbelievers is a sin." Now the life
@@ -4215,7 +4225,7 @@ Risposta all’Obiezione 2: La fede orienta l’intenzione riguardo al fine sopr
 
 Risposta all’Obiezione 3: L’incredulità non distrugge del tutto la ragione naturale negli increduli; rimane infatti in loro una certa conoscenza della verità, che permette loro di compiere azioni generalmente buone. Per quanto riguarda Cornelio, è da notare che non era un incredulo: altrimenti le sue opere non sarebbero state accettabili da Dio, a cui nessuno può piacere senza fede. Egli possedeva una fede implicita, poiché la verità del Vangelo non era ancora stata rivelata; per questo motivo Pietro fu inviato da lui per impartirgli un’insegnamento più completo sulla fede.
 
-<span class="atom-split" data-atom="066" data-title="Whether there are several species of unbelief?" data-chapter="Whether there are several species of unbelief?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Whether there are several species of unbelief?" data-chapter="Whether there are several species of unbelief?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there are not several species of unbelief. For, since faith and
 unbelief are contrary to one another, they must be about the same thing. Now the formal object of
@@ -4302,7 +4312,7 @@ Risposta all’Obiezione 2: Questo argomento analizza le diverse forme di incred
 
 Risposta all’Obiezione 3: Poiché la fede è “una” perché crede in molte cose che sono collegate tra loro, allo stesso modo l’incredulità, anche se erra in molte cose, può essere considerata “una” nella misura in cui tutte queste cose sono collegate tra loro. Tuttavia, nulla impedisce a una persona di commettere errori in diversi ambiti dell’incredulità, proprio come una persona può essere soggetta a vari vizi o malattie fisiche.
 
-<span class="atom-split" data-atom="067" data-title="Whether the unbelief of pagans or heathens is graver than other kinds?" data-chapter="Whether the unbelief of pagans or heathens is graver than other kinds?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="Whether the unbelief of pagans or heathens is graver than other kinds?" data-chapter="Whether the unbelief of pagans or heathens is graver than other kinds?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the unbelief of heathens or pagans is graver than other kinds.
 For just as bodily disease is graver according as it endangers the health of a more important member
@@ -4364,7 +4374,7 @@ Il secondo aspetto da considerare nell’infedeltà riguarda la corruzione dei c
 Di queste due forme di infedeltà, la prima è più grave della seconda dal punto di vista del peccato stesso; poiché, come già detto sopra (A[1]), l’infedeltà ha il carattere di un vero e proprio peccato, derivante dal suo opporsi alla fede piuttosto che dall’assenza pura e semplice di essa, poiché quest’ultima, come affermato in precedenza (A[1]), sembra piuttosto rappresentare una sorta di “punizione”. Pertanto, in termini assoluti, l’infedeltà degli eretici è la più grave.  
 Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="068" data-title="Whether one ought to dispute with unbelievers in public?" data-chapter="Whether one ought to dispute with unbelievers in public?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="Whether one ought to dispute with unbelievers in public?" data-chapter="Whether one ought to dispute with unbelievers in public?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one ought not to dispute with unbelievers in public. For the
 Apostle says (2 Tim. 2:14): "Contend not in words, for it is to no profit, but to the subverting of
@@ -4441,7 +4451,7 @@ Risposta all’Obiezione 2: Quella legge proibiva quelle dispute pubbliche sulla
 
 Risposta all’Obiezione 3: Si dovrebbe discutere di questioni di fede non come se si dubitasse di esse, ma al fine di rendere nota la verità e confutare gli errori. Infatti, per rafforzare la fede, a volte è necessario dibattere con gli infedeli, altre volte difenderla, secondo quanto detto in 1 Pietro 3:15: “Essendo sempre pronti a dare spiegazioni a chiunque vi chieda motivi per quella speranza e quella fede che sono in voi”. Altre volte ancora, è necessario convincere coloro che si trovano in errore, secondo quanto riportato in Tito 1:9: “Affinché possa esortare con dottrina salda e convincere coloro che la contestano”.
 
-<span class="atom-split" data-atom="069" data-title="Whether unbelievers ought to be compelled to the faith?" data-chapter="Whether unbelievers ought to be compelled to the faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="Whether unbelievers ought to be compelled to the faith?" data-chapter="Whether unbelievers ought to be compelled to the faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that unbelievers ought by no means to be compelled to the faith.
 For it is written (Mat. 13:28) that the servants of the householder, in whose field cockle had been
@@ -4533,7 +4543,7 @@ Risposta all’Obiezione 3: Proprio come pronunciare un voto dipende dalla volon
 
 Risposta all’Obiezione 4: Come afferma Agostino nella stessa lettera, “nessuno di noi desidera che un eretico perisca. Tuttavia, la casa di Davide non meritava la pace, se non fosse stato ucciso Absalom nella guerra che aveva scatenato contro suo padre. Pertanto, se la Chiesa Cattolica contribuisce in qualche modo alla rovina di alcuni, essa lenisce il dolore del proprio “cuore materno” salvando molte nazioni”.
 
-<span class="atom-split" data-atom="070" data-title="Whether it is lawful to communicate with unbelievers?" data-chapter="Whether it is lawful to communicate with unbelievers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="Whether it is lawful to communicate with unbelievers?" data-chapter="Whether it is lawful to communicate with unbelievers?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is lawful to communicate with unbelievers. For the Apostle
 says (1 Cor. 10:27): "If any of them that believe not, invite you, and you be willing to go, eat of
@@ -4617,7 +4627,7 @@ Risposta all’Obiezione 2: La Chiesa non esercita giudizio sugli infedeli per q
 Risposta all’Obiezione 3: È molto più probabile che un servo, guidato dai comandi del suo padrone credente, si converta alla fede di quest’ultimo, piuttosto che il contrario; pertanto non vi è alcun divieto per i credenti di avere servi non credenti. Tuttavia, se il padrone dovesse correre dei rischi a causa degli scambi con un tale servo, dovrebbe allontanarlo, secondo l’ordine del Signore (Matteo 18:8): “Se, la tua mano ti offende, taglala e gettala via da te”.  
 Per quanto riguarda l’argomentazione contraria, la risposta è che il Signore ha dato questo comando in riferimento a quelle nazioni nelle cui terre i Giudei stavano per entrare. Queste nazioni erano infatti incline all’idolatria, e si temeva che frequenti contatti con loro potessero allontanarli dalla fede; per questo il testo prosegue dicendo (Deuteronomio 7:4): “Perché essa farà sì che tuo figlio si allontani da Me”.
 
-<span class="atom-split" data-atom="071" data-title="Whether unbelievers may have authority or dominion over the faithful?" data-chapter="Whether unbelievers may have authority or dominion over the faithful?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Whether unbelievers may have authority or dominion over the faithful?" data-chapter="Whether unbelievers may have authority or dominion over the faithful?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that unbelievers may have authority or dominion over the faithful.
 For the Apostle says (1 Tim. 6:1): "Whosoever are servants under the yoke, let them count their
@@ -4710,7 +4720,7 @@ Risposta all’Obiezione 2: L’autorità di Cesare precedette la distinzione tr
 
 Risposta all’Obiezione 3: Gli schiavi sono soggetti ai loro padroni per tutta la vita e sono sottoposti ai loro sorveglianti in ogni ambito; mentre il lavoratore dell’artigiano è soggetto a lui soltanto per determinati compiti specifici. Pertanto, sarebbe ancora più pericoloso che gli infedeli avessero dominio o autorità sui fedeli, piuttosto che fosse loro permesso impiegarli in qualche attività artigianale. Per questo motivo, la Chiesa permette ai cristiani di lavorare nelle terre degli ebrei, poiché ciò non comporta che vivano insieme a loro. Così pure Salomone chiese al Re di Tiro di inviare artigiani esperti per tagliare gli alberi, come riportato in 3 Re 5:6. Tuttavia, se esistesse il timore che tali rapporti e interazioni possano corrompere i fedeli, essi dovrebbero essere assolutamente proibiti.
 
-<span class="atom-split" data-atom="072" data-title="Whether the rites of unbelievers ought to be tolerated?" data-chapter="Whether the rites of unbelievers ought to be tolerated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="Whether the rites of unbelievers ought to be tolerated?" data-chapter="Whether the rites of unbelievers ought to be tolerated?" data-kind="atom" data-srclang="en" data-tags="positions/toleration,concepts/religion,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that rites of unbelievers ought not to be tolerated. For it is evident
 that unbelievers sin in observing their rites: and not to prevent a sin, when one can, seems to imply
@@ -4750,7 +4760,7 @@ gradually be converted to the faith. For this reason the Church, at times, has t
 of heretics and pagans, when unbelievers were very numerous.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="073" data-title="Whether the children of Jews and other unbelievers ought to be baptized against their parents' will?" data-chapter="Whether the children of Jews and other unbelievers ought to be baptized against their parents' will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Whether the children of Jews and other unbelievers ought to be baptized against their parents' will?" data-chapter="Whether the children of Jews and other unbelievers ought to be baptized against their parents' will?" data-kind="atom" data-srclang="en" data-tags="positions/natural_law,concepts/custom,concepts/faith,concepts/justice,figures/augustine"></span>
 
 Objection 1: It would seem that the children of Jews and of other unbelievers ought to be
 baptized against their parents' will. For the bond of marriage is stronger than the right of parental
@@ -4874,7 +4884,7 @@ Risposta all’Obiezione 4: L’uomo è guidato verso Dio dalla sua ragione, gra
 
 Risposta all’Obiezione 5: Il pericolo derivante dall’omissione del ministero della predicazione minaccia soltanto coloro a cui è affidato questo dovere. Pertanto, era già stato detto (Ezechiele 3:17): “Ti ho fatto guardiano dei figli di Israele”. D’altra parte, fornire i sacramenti della salvezza ai figli degli increduli è compito dei loro genitori; quindi sono proprio loro a essere minacciati, nel caso in cui i loro figli, privati di questi sacramenti, non riescano ad ottenere la salvezza.
 
-<span class="atom-split" data-atom="074" data-title="OF HERESY (FOUR ARTICLES)" data-chapter="OF HERESY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="OF HERESY (FOUR ARTICLES)" data-chapter="OF HERESY (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider heresy: under which head there are four points of inquiry:
 (1) Whether heresy is a kind of unbelief?
@@ -4890,7 +4900,7 @@ Dobbiamo ora considerare l’eresia: in questo ambito vi sono quattro punti da e
 (3) Se gli eretici debbano essere tollerati;
 (4) Se i convertiti debbano essere accettati.
 
-<span class="atom-split" data-atom="075" data-title="Whether heresy is a species of unbelief?" data-chapter="Whether heresy is a species of unbelief?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Whether heresy is a species of unbelief?" data-chapter="Whether heresy is a species of unbelief?" data-kind="atom" data-srclang="en" data-tags="concepts/faith,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that heresy is not a species of unbelief. For unbelief is in the
 understanding, as stated above (Q[10], A[2]). Now heresy would seem not to pertain to the
@@ -4956,7 +4966,7 @@ from pride or covetousness, as stated in the second objection, or some illusion 
 (which gives rise to error, as the Philosopher states in Metaph. iv; Ed. Did. iii, 5), for this faculty
 has a certain connection with the flesh, in as much as its act is independent on a bodily organ.
 
-<span class="atom-split" data-atom="076" data-title="Whether heresy is properly about matters of faith?" data-chapter="Whether heresy is properly about matters of faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Whether heresy is properly about matters of faith?" data-chapter="Whether heresy is properly about matters of faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that heresy is not properly about matters of faith. For just as there
 are heresies and sects among Christians, so were there among the Jews, and Pharisees, as Isidore
@@ -5044,7 +5054,7 @@ Risposta all’Obiezione 2: Si dice che un uomo esplichi le Scritture in senso d
 
 Risposta all’Obiezione 3: Come afferma Agostino (Ep. xliii) e come si legge nei Decretali (xxiv, q. 3, can. Dixit Apostolus): “In nessun caso dovremmo accusare di eresia coloro che, per quanto false e perverse possano essere le loro opinioni, le difendono senza ostinazione e cercano la verità con attenzione e diligenza, pronti a correggerle non appena la trovino”, poiché in tal modo non compiono scelte contrarie alla dottrina della Chiesa. Pertanto, alcuni teologi sembrano essersi differenziati su questioni le cui opinioni, in questo o quel modo, non hanno alcuna rilevanza per la fede, oppure anche su questioni di fede che ancora non erano state definite dalla Chiesa; tuttavia, se qualcuno negasse ostinatamente tali dottrine dopo che queste fossero state stabilite dall’autorità della Chiesa universale, verrebbe considerato un eretico. Questa autorità risiede principalmente nel Pontefice Supremo. Infatti, leggiamo nel Decretale xxiv, q. 1, can. Quoties: “Ogni volta che si dibatte una questione di fede, tutti i nostri fratelli e vescovi dovrebbero rivolgersi soltanto a Pietro, fonte del loro nome e della loro onore; contro la sua autorità né Geromeo né Agostino né alcun altro dei santi teologi hanno mai difeso le proprie opinioni”. Da ciò deriva quanto afferma Geromeo nell’Expositio Symboli: “Questa, beato Papa, è la fede che ci è stata insegnata nella Chiesa Cattolica. Se qualcosa in essa è stato espresso in modo errato o negligente, vi supplichiamo di correggerlo voi, che custodite la fede e siete fedeli a Pietro. Tuttavia, se questa nostra professione di fede viene approvata dal giudizio del vostro apostolato, chiunque mi biasimi dimostrerà di essere ignorante, malizioso, o addirittura non cattolico, ma eretico”.
 
-<span class="atom-split" data-atom="077" data-title="Whether heretics ought to be tolerated?" data-chapter="Whether heretics ought to be tolerated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="Whether heretics ought to be tolerated?" data-chapter="Whether heretics ought to be tolerated?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that heretics ought to be tolerated. For the Apostle says (2 Tim. 2:24,25):
 "The servant of the Lord must not wrangle . . . with modesty admonishing them that resist the truth,
@@ -5118,7 +5128,7 @@ Risposta all’Obiezione 2: Il profitto derivante dall’eresia è estraneo alle
 
 Risposta all’Obiezione 3: Secondo il Decreto (xxiv, qu. iii, can. Notandum), “essere scomunicati non significa essere completamente estirpati”. Un uomo viene scomunicato, come afferma l’Apostolo (1 Cor. 5:5) affinché il suo “spirito possa essere salvato nel giorno del Signore nostro”. Tuttavia, se gli eretici venissero completamente estirpati dalla morte, ciò non sarebbe contrario all’ordine del Signore, da intendersi come riferito al caso in cui la gramigna non può essere rimossa senza eliminare anche il grano, come abbiamo spiegato sopra (Q[10], A[8], ad 1) parlando degli increduli in generale.
 
-<span class="atom-split" data-atom="078" data-title="Whether the Church should receive those who return from heresy?" data-chapter="Whether the Church should receive those who return from heresy?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="Whether the Church should receive those who return from heresy?" data-chapter="Whether the Church should receive those who return from heresy?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Church ought in all cases to receive those who return from
 heresy. For it is written (Jer. 3:1) in the person of the Lord: "Thou hast prostituted thyself to many
@@ -5200,7 +5210,7 @@ Risposta all’Obiezione 2: Nostro Signore si riferiva a peccati commessi contro
 
 Risposta all’Obiezione 3: Quando altri non credenti, che non hanno mai ricevuto la fede, si convertono, non mostrano ancora segni di incostanza nella loro fede, come fanno gli eretici che ricadono nel peccato; pertanto, il paragone non è valido.
 
-<span class="atom-split" data-atom="079" data-title="OF APOSTASY (TWO ARTICLES)" data-chapter="OF APOSTASY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="OF APOSTASY (TWO ARTICLES)" data-chapter="OF APOSTASY (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,positions/sovereignty,concepts/faith,concepts/religion"></span>
 
 We must now consider apostasy: about which there are two points of inquiry:
 (1) Whether apostasy pertains to unbelief?
@@ -5213,7 +5223,7 @@ Dobbiamo ora considerare l’apostasia: su di essa vi sono due questioni da esam
 (1) Se l’apostasia riguardi la mancanza di fede;
 (2) Se, a causa dell’apostasia dalla fede, le persone siano esentate dall’obbligo di fedeltà verso un principe apostata.
 
-<span class="atom-split" data-atom="080" data-title="Whether apostasy pertains to unbelief?" data-chapter="Whether apostasy pertains to unbelief?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="Whether apostasy pertains to unbelief?" data-chapter="Whether apostasy pertains to unbelief?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that apostasy does not pertain to unbelief. For that which is the
 origin of all sins, does not, seemingly, pertain to unbelief, since many sins there are without unbelief.
@@ -5297,7 +5307,7 @@ Risposta all’Obiezione 2: Appartiene alla fede non solo che il cuore creda, ma
 
 Risposta all’Obiezione 3: La specie di una qualità o di una forma non viene diversificata dal fatto che essa costituisca il “termine da cui” o il “termine verso cui” avviene un movimento; al contrario, è proprio il movimento a ricevere la propria specie dai termini in questione. Ora, l’apostasia considera l’incredulità come il “termine verso cui” avviene il movimento di allontanamento dalla fede; pertanto, l’apostasia non indica un tipo particolare di incredulità, ma una circostanza aggravante di essa, secondo quanto affermato in 2 Pietro 2:21: “Sarebbe stato meglio per loro non conoscere la verità, piuttosto che, dopo averla conosciuta, voltarsi indietro”.
 
-<span class="atom-split" data-atom="081" data-title="Whether a prince forfeits his dominion over his subjects, on account of apostasy from the faith, so that they no longer owe him allegiance?" data-chapter="Whether a prince forfeits his dominion over his subjects, on account of apostasy from the faith, so that they no longer owe him allegiance?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether a prince forfeits his dominion over his subjects, on account of apostasy from the faith, so that they no longer owe him allegiance?" data-chapter="Whether a prince forfeits his dominion over his subjects, on account of apostasy from the faith, so that they no longer owe him allegiance?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a prince does not so forfeit his dominion over his subjects, on
 account of apostasy from the faith, that they no longer owe him allegiance. For Ambrose [*St.
@@ -5369,7 +5379,7 @@ Risposta all’Obiezione 2: Come indicato nell’articolo, la questione non rigu
 
 Risposta all’Obiezione 3: L’apostasia dalla fede separa completamente l’uomo da Dio, come già detto sopra (A[1]); ciò non accade per alcun altro peccato.
 
-<span class="atom-split" data-atom="082" data-title="OF THE SIN OF BLASPHEMY, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE SIN OF BLASPHEMY, IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="OF THE SIN OF BLASPHEMY, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE SIN OF BLASPHEMY, IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the sin of blasphemy, which is opposed to the confession of faith; and
 (1) blasphemy in general, (2) that blasphemy which is called the sin against the Holy Ghost.
@@ -5383,7 +5393,7 @@ Under the first head there are four points of inquiry:
 
 Dobbiamo ora considerare il peccato di blasfemia, che è opposto alla confessione della fede; e: (1) la blasfemia in generale, (2) quella blasfemia chiamata “peccato contro lo Spirito Santo”. Nel primo ambito vi sono quattro punti da esaminare: (1) Se la blasfemia sia opposta alla confessione della fede; (2) Se la blasfemia sia sempre un peccato mortale; (3) Se la blasfemia sia il peccato più grave; (4) Se i dannati commettano blasfemia.
 
-<span class="atom-split" data-atom="083" data-title="Whether blasphemy is opposed to the confession of faith?" data-chapter="Whether blasphemy is opposed to the confession of faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Whether blasphemy is opposed to the confession of faith?" data-chapter="Whether blasphemy is opposed to the confession of faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that blasphemy is not opposed to the confession of faith. Because
 to blaspheme is to utter an affront or insult against the Creator. Now this pertains to ill-will against
@@ -5454,7 +5464,7 @@ Risposta all’Obiezione 2: Proprio come Dio viene lodato nei suoi santi, nella 
 
 Risposta all’Obiezione 3: In senso proprio, il peccato di blasfemia non si divide in tre specie in questo modo; infatti, affermare cose inadatte a Dio o negare che siano adatte a Lui differisce soltanto in termini di affermazione e negazione. Questa diversità non dà origine a specie distinte di peccati, poiché l’errore nelle affermazioni e nelle negazioni viene rivelato dalla stessa conoscenza, e è la stessa ignoranza che porta all’errore in entrambi i casi; inoltre, le negazioni vengono dimostrate attraverso affermazioni, secondo quanto affermato da Posteri, I, 25. Inoltre, attribuire alle creature ciò che è proprio di Dio sembra equivalere ad affermare che siano inadatte a Lui, poiché tutto ciò che è proprio di Dio è Dio stesso; quindi, attribuire alle creature ciò che è proprio di Dio significa sostenere che Dio sia identico a una creatura.
 
-<span class="atom-split" data-atom="084" data-title="Whether blasphemy is always a mortal sin?" data-chapter="Whether blasphemy is always a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Whether blasphemy is always a mortal sin?" data-chapter="Whether blasphemy is always a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that blasphemy is not always a mortal sin. Because a gloss on the
 words, "Now lay you also all away," etc. (Col. 3:8) says: "After prohibiting greater crimes he forbids
@@ -5517,7 +5527,7 @@ Risposta all’Obiezione 2: Poiché, come detto sopra (A[1]), la bestemmia è co
 
 Risposta all’Obiezione 3: Esistono due modi in cui la blasfemia può verificarsi involontariamente e senza deliberazione. Nel primo caso, quando una persona non si rende conto della natura blasfema delle proprie parole; ciò può accadere se viene improvvisamente sopraffatta da una passione, inducendola a pronunciare frasi suggerite dall’immaginazione senza prestare attenzione al loro significato: in questo caso si tratta di un peccato veniale e non di vera blasfemia. Nel secondo caso, quando la persona è consapevole del significato e della natura blasfema delle proprie parole; in tal caso non è scusata dal peccato mortale, proprio come non lo è chi, in un impeto di [ira](/concepts/anger), uccide qualcuno che si trova al suo fianco.
 
-<span class="atom-split" data-atom="085" data-title="Whether the sin of blasphemy is the greatest sin?" data-chapter="Whether the sin of blasphemy is the greatest sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="Whether the sin of blasphemy is the greatest sin?" data-chapter="Whether the sin of blasphemy is the greatest sin?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/faith,figures/augustine"></span>
 
 Objection 1: It would seem that the sin of blasphemy is not the greatest sin. For, according to
 [Augustine](/figures/augustine) (Enchiridion xii), a thing is said to be evil because it does harm. Now the sin of murder,
@@ -5580,7 +5590,7 @@ Risposta all’Obiezione 2: Un commento sulle parole “Che la bestemmia sia eli
 
 Risposta all’Obiezione 3: Scusarsi del proprio peccato è una circostanza che aggrava ogni peccato, persino la stessa blasfemia; e viene considerata il peccato più grave, poiché rende ogni altro peccato ancora più grave.
 
-<span class="atom-split" data-atom="086" data-title="Whether the damned blaspheme?" data-chapter="Whether the damned blaspheme?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="Whether the damned blaspheme?" data-chapter="Whether the damned blaspheme?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the damned do not blaspheme. Because some wicked men are
 deterred from blaspheming now, on account of the fear of future punishment. But the damned are
@@ -5641,7 +5651,7 @@ Risposta all’Obiezione 2: Merito e demerito appartengono allo [stato](/concept
 
 Risposta all’Obiezione 3: Chi muore in peccato mortale porta con sé una volontà che odia la giustizia divina riguardo a qualcosa; in questo senso, in tale persona può esistere blasfemia.
 
-<span class="atom-split" data-atom="087" data-title="OF BLASPHEMY AGAINST THE HOLY GHOST (FOUR ARTICLES)" data-chapter="OF BLASPHEMY AGAINST THE HOLY GHOST (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="OF BLASPHEMY AGAINST THE HOLY GHOST (FOUR ARTICLES)" data-chapter="OF BLASPHEMY AGAINST THE HOLY GHOST (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider in particular blasphemy against the Holy Ghost: under which head there
 are four points of inquiry:
@@ -5660,7 +5670,7 @@ Dobbiamo ora considerare in particolare la blasfemia contro lo Spirito Santo: so
 (3) Se possa essere perdonato;  
 (4) Se sia possibile commettere prima altri peccati e poi quello contro lo Spirito Santo.
 
-<span class="atom-split" data-atom="088" data-title="Whether the sin against the Holy Ghost is the same as the sin committed through certain malice?" data-chapter="Whether the sin against the Holy Ghost is the same as the sin committed through certain malice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="088" data-title="Whether the sin against the Holy Ghost is the same as the sin committed through certain malice?" data-chapter="Whether the sin against the Holy Ghost is the same as the sin committed through certain malice?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the sin against the Holy Ghost is not the same as the sin
 committed through certain malice. Because the sin against the Holy Ghost is the sin of blasphemy,
@@ -5760,7 +5770,7 @@ Risposta all’Obiezione 2: Secondo la terza interpretazione, la blasfemia contr
 
 Risposta all’Obiezione 3: Il peccato commesso con una certa malizia, nella misura in cui deriva dall’inclinazione di un’abitudine, non è un peccato specifico, ma una condizione generale del peccato; invece, nella misura in cui deriva da un disprezzo particolare verso l’effetto dello Spirito Santo in noi, ha il carattere di un peccato specifico. Secondo questa interpretazione, il peccato contro lo Spirito Santo è un tipo particolare di peccato, proprio come secondo la prima interpretazione; mentre secondo la seconda interpretazione, non costituisce una specie particolare di peccato, poiché l’impenitenza finale può essere una circostanza presente in qualsiasi tipo di peccato.
 
-<span class="atom-split" data-atom="089" data-title="Whether it is fitting to distinguish six kinds of sin against the Holy Ghost?" data-chapter="Whether it is fitting to distinguish six kinds of sin against the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="089" data-title="Whether it is fitting to distinguish six kinds of sin against the Holy Ghost?" data-chapter="Whether it is fitting to distinguish six kinds of sin against the Holy Ghost?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unfitting to distinguish six kinds of sin against the Holy Ghost,
 viz. despair, presumption, impenitence, obstinacy, resisting the known truth, envy of our brother's
@@ -5834,7 +5844,7 @@ Reply to Objection 4: To refuse to obey belongs to obstinacy, while a feigned re
 belongs to impenitence, and schism to the envy of a brother's spiritual good, whereby the members
 of the Church are united together.
 
-<span class="atom-split" data-atom="090" data-title="Whether the sin against the Holy Ghost can be forgiven?" data-chapter="Whether the sin against the Holy Ghost can be forgiven?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="090" data-title="Whether the sin against the Holy Ghost can be forgiven?" data-chapter="Whether the sin against the Holy Ghost can be forgiven?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/free_will,concepts/miracle,figures/augustine"></span>
 
 Objection 1: It would seem that the sin against the Holy Ghost can be forgiven. For [Augustine](/figures/augustine)
 says (De Verb. Dom., Serm. lxxi): "We should despair of no man, so long as Our Lord's patience
@@ -5919,7 +5929,7 @@ Risposta all’Obiezione 2: Questo argomento considera la questione dal punto di
 
 Risposta all’Obiezione 3: In questa vita, la libertà di volontà rimane effettivamente soggetta al cambiamento; tuttavia, a volte essa rifiuta ciò che, per quanto la riguarda, potrebbe portarla al bene. Pertanto, considerata in sé stessa, questo peccato è irperdonabile, anche se Dio può perdonarlo.
 
-<span class="atom-split" data-atom="091" data-title="Whether a man can sin first of all against the Holy Ghost?" data-chapter="Whether a man can sin first of all against the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="091" data-title="Whether a man can sin first of all against the Holy Ghost?" data-chapter="Whether a man can sin first of all against the Holy Ghost?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man cannot sin first of all against the Holy Ghost, without
 having previously committed other sins. For the natural order requires that one should be moved
@@ -6011,7 +6021,7 @@ Ora dobbiamo esaminare i vizi che si oppongono al conoscimento e alla comprensio
 (2) La torpidezza dei sensi è un peccato distinto dalla cecità mentale?  
 (3) Questi vizi derivano dai peccati del corpo?
 
-<span class="atom-split" data-atom="092" data-title="Whether blindness of mind is a sin?" data-chapter="Whether blindness of mind is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="092" data-title="Whether blindness of mind is a sin?" data-chapter="Whether blindness of mind is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that blindness of mind is not a sin. Because, seemingly, that which
 excuses from sin is not itself a sin. Now blindness of mind excuses from sin; for it is written (Jn.
@@ -6076,7 +6086,7 @@ Risposta all’Obiezione 2: Questo argomento considera il secondo tipo di cecit�
 
 Risposta all’Obiezione 3: Comprendere la verità è, di per sé, qualcosa che tutti amano; eppure, occasionalmente, può risultare odiosa per qualcuno, nel senso in cui impedisce a quella persona di ottenere ciò che ama ancora di più.
 
-<span class="atom-split" data-atom="093" data-title="Whether dulness of sense is a sin distinct from blindness of mind?" data-chapter="Whether dulness of sense is a sin distinct from blindness of mind?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether dulness of sense is a sin distinct from blindness of mind?" data-chapter="Whether dulness of sense is a sin distinct from blindness of mind?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that dulness of sense is not a distinct sin from blindness of mind. Because
 one thing has one contrary. Now dulness is opposed to the gift of understanding, according to
@@ -6140,7 +6150,7 @@ Analogamente ai sensi fisici, si parla anche di un “senso intellettuale”, ch
 La “ruvidità del senso intellettuale” indica quindi una certa debolezza dell’intelligenza nel considerare le realtà spirituali; mentre l’“cecità mentale” significa la completa privazione della conoscenza di tali realtà. Entrambe queste condizioni sono opposte al dono dell’intelletto, che permette all’uomo di comprendere le cose spirituali e di penetrare nella loro natura più profonda. Questa “ruvidità” ha il carattere del peccato, proprio come la “cecità mentale”, soprattutto quando è volontaria; ciò si osserva in coloro che, a causa della loro attaccamento alle cose materiali, disdegnano o trascurano di riflettere attentamente sulle realtà spirituali.  
 Questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="094" data-title="Whether blindness of mind and dulness of sense arise from sins of the flesh?" data-chapter="Whether blindness of mind and dulness of sense arise from sins of the flesh?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="Whether blindness of mind and dulness of sense arise from sins of the flesh?" data-chapter="Whether blindness of mind and dulness of sense arise from sins of the flesh?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that blindness of mind and dulness of sense do not arise from sins
 of the flesh. For [Augustine](/figures/augustine) (Retract. i, 4) retracts what he had said in his Soliloquies i, 1, "God
@@ -6221,7 +6231,7 @@ Ora dobbiamo considerare i precepti relativi a quanto detto; in questa categoria
 (1) I precepti riguardanti la fede;  
 (2) I precepti relativi ai doni della conoscenza e dell’intendimento.
 
-<span class="atom-split" data-atom="095" data-title="Whether in the Old Law there should have been given precepts of faith?" data-chapter="Whether in the Old Law there should have been given precepts of faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="095" data-title="Whether in the Old Law there should have been given precepts of faith?" data-chapter="Whether in the Old Law there should have been given precepts of faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that, in the [Old Law](/concepts/divine_law), there should have been given precepts of
 faith. Because a precept is about something due and necessary. Now it is most necessary for man
@@ -6320,7 +6330,7 @@ Risposta all’Obiezione 4: La confessione di fede e la sua insegnanza presuppon
 
 Risposta all’Obiezione 5: In questo passaggio viene nuovamente presupposta quella fede grazie alla quale crediamo che Dio esista; perciò l’esordio recita “Voi che temete il Signore”, cosa impossibile senza fede. Le parole successive, “credetelo”, si riferiscono a determinati articoli della fede, soprattutto a quelle promesse da Dio a coloro che Lo obbediscono; per questo il passaggio si conclude con “e la vostra ricompensa non andrà sprecata”.
 
-<span class="atom-split" data-atom="096" data-title="Whether the precepts referring to knowledge and understanding were fittingly set down in the Old Law?" data-chapter="Whether the precepts referring to knowledge and understanding were fittingly set down in the Old Law?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="Whether the precepts referring to knowledge and understanding were fittingly set down in the Old Law?" data-chapter="Whether the precepts referring to knowledge and understanding were fittingly set down in the Old Law?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the precepts referring to knowledge and understanding were
 unfittingly set down in the [Old Law](/concepts/divine_law). For knowledge and understanding pertain to cognition. Now
@@ -6422,7 +6432,7 @@ Risposta all’Obiezione 3: La conoscenza della Legge è strettamente legata all
 
 Risposta all’Obiezione 4: Quel precetto della Legge non intende che l’uomo debba meditare sulla “legge del sonno” di Dio, ma piuttosto che, durante il sonno, cioè nel momento in cui si prepara ad addormentarsi, debba riflettere su tale legge. Questo comportamento infatti permette di sperimentare sogni più chiari e positivi, poiché i nostri movimenti passano dallo stato di veglia a quello di sonno, come spiega il Filosofo nell’Etica (I, 13). Allo stesso modo, ci viene comandato di riflettere sulla Legge in ogni nostra azione; non si tratta però di dover pensare costantemente alla Legge in modo concreto, ma di regolare tutte le nostre azioni secondo i suoi principi.
 
-<span class="atom-split" data-atom="097" data-title="OF HOPE, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-chapter="OF HOPE, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="OF HOPE, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-chapter="OF HOPE, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/theological_virtues,forms/quaestio,schools/scholasticism"></span>
 
 After treating of faith, we must consider hope and (1) hope itself; (2) the gift of fear; (3) the
 contrary vices; (4) the corresponding precepts. The first of these points gives rise to a twofold
@@ -6449,7 +6459,7 @@ Dopo aver trattato della fede, dobbiamo considerare la speranza e: (1) la speran
 (7) Qual è la sua relazione con la fede?  
 (8) Qual è la sua relazione con la carità?
 
-<span class="atom-split" data-atom="098" data-title="Whether hope is a virtue?" data-chapter="Whether hope is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="098" data-title="Whether hope is a virtue?" data-chapter="Whether hope is a virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/theological_virtues,concepts/grace,figures/augustine"></span>
 
 Objection 1: It would seem that hope is not a virtue. For "no man makes ill use of a virtue,"
 as [Augustine](/figures/augustine) states (De Lib. Arb. ii, 18). But one may make ill use of hope, since the passion of
@@ -6515,7 +6525,7 @@ Risposta all’Obiezione 2: Si dice che la speranza derivi dai meriti, sia rigua
 
 Risposta all’Obiezione 3: Chi spera è effettivamente imperfetto rispetto a ciò che spera di ottenere, poiché ancora non l’ha raggiunto; tuttavia, è perfetto nella misura in cui già si attiene al proprio vero principio guida, ovvero Dio, sul cui aiuto si appoggia.
 
-<span class="atom-split" data-atom="099" data-title="Whether eternal happiness is the proper object of hope?" data-chapter="Whether eternal happiness is the proper object of hope?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="099" data-title="Whether eternal happiness is the proper object of hope?" data-chapter="Whether eternal happiness is the proper object of hope?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/theological_virtues,concepts/faith"></span>
 
 Objection 1: It would seem that eternal happiness is not the proper object of hope. For a man
 does not hope for that which surpasses every movement of the soul, since hope itself is a movement
@@ -6579,7 +6589,7 @@ Risposta all’Obiezione 2: Non dovremmo pregare Dio per alcun altro bene, se no
 
 Risposta all’Obiezione 3: Per colui che anela a qualcosa di grande, tutte le cose minori appaiono piccole; pertanto, per chi spera nella felicità eterna, nulla altro sembra arduo rispetto a quella speranza. Tuttavia, rispetto alle capacità dell’uomo che spera, altre cose possono comunque risultare difficili da realizzare, ma egli può comunque nutrire speranza per esse in relazione al loro obiettivo principale.
 
-<span class="atom-split" data-atom="100" data-title="Whether one man may hope for another's eternal happiness?" data-chapter="Whether one man may hope for another's eternal happiness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="100" data-title="Whether one man may hope for another's eternal happiness?" data-chapter="Whether one man may hope for another's eternal happiness?" data-kind="atom" data-srclang="en" data-tags="concepts/theological_virtues,concepts/charity,positions/beatitude,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that one may hope for another's eternal happiness. For the Apostle
 says (Phil. 1:6): "Being confident of this very thing, that He Who hath begun a good work in you,
@@ -6627,7 +6637,7 @@ Al contrario, Agostino afferma nell’“Enchiridion VIII” che “la speranza 
 Rispondo che possiamo sperare in qualcosa in due modi: innanzitutto, in modo assoluto, e quindi l’oggetto della speranza è sempre qualcosa di arduo e relativo alla persona che spera; in secondo luogo, possiamo sperare in qualcosa presupponendo l’esistenza di un altro elemento, e in questo caso l’oggetto della speranza può essere qualcosa che riguarda un’altra persona. Per spiegare ciò, dobbiamo osservare che amore e speranza differiscono in questo: l’amore indica un’unione tra il soggetto che ama e la persona amata, mentre la speranza rappresenta un movimento o uno sforzo verso un bene arduo. L’unione, infatti, riguarda cose distinte tra loro; perciò l’amore può rivolgersi direttamente all’altro con cui si instaura questa unione, considerandolo come una parte di sé stesso; mentre il movimento della speranza è sempre diretto verso un fine che sia proporzionato al soggetto che lo esprime. Pertanto, la speranza riguarda direttamente il proprio bene, e non quello che appartiene a un altro. Tuttavia, se presupponiamo l’esistenza di un legame d’amore tra due persone, allora uno può sperare e desiderare qualcosa per un’altra persona, come se fosse per sé stesso; e quindi può sperare nella vita eterna di un altro, poiché è unito a lui attraverso l’amore. E proprio come la stessa virtù della carità permette a una persona di amare Dio, se stessa e il prossimo, così anche la stessa virtù della speranza consente a una persona di sperare per sé stessa e per un altro.  
 Questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="101" data-title="Whether a man can lawfully hope in man?" data-chapter="Whether a man can lawfully hope in man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Whether a man can lawfully hope in man?" data-chapter="Whether a man can lawfully hope in man?" data-kind="atom" data-srclang="en" data-tags="concepts/predestination,concepts/four_causes"></span>
 
 Objection 1: It wold seem that one may lawfully hope in man. For the object of hope is eternal
 happiness. Now we are helped to obtain eternal happiness by the patronage of the saints, for Gregory
@@ -6674,7 +6684,7 @@ Al contrario, è scritto (Geremia 17:5): “Maledetto colui che si fida nell’u
 Rispondo che la Speranza, come già detto sopra (A[1]; FS, Q[40], A[7]), riguarda due aspetti: il bene che si intende ottenere e l’aiuto mediante il quale tale bene può essere raggiunto. Il bene che un uomo spera di ottenere presenta i caratteri di una [causa finale](/concepts/four_causes), mentre l’aiuto necessario per raggiungerlo ha le caratteristiche di una causa efficiente. In entrambi questi casi esistono una causa principale e una secondaria: la causa principale è quella ultima, destinata a realizzare il fine desiderato; la causa secondaria, invece, è quella che serve come mezzo per raggiungere tale fine. Allo stesso modo, la causa efficiente principale è l’agente che agisce direttamente, mentre quella secondaria è l’agente intermediario che fornisce il supporto necessario. La Speranza considera la felicità eterna come proprio fine ultimo e l’aiuto divino come la causa primaria che conduce verso di essa. Pertanto, così come non è lecito sperare in alcun bene se non nella felicità – intesa come scopo finale – ma solo come mezzo per raggiungerla, allo stesso modo non è lecito considerare alcuna persona o creatura come causa primaria del proprio cammino verso la felicità. È invece legittimo riconoscere in tali individui agenti secondari e strumentali che ci aiutano ad ottenere i beni necessari per raggiungere la felicità. È in questo modo che ci rivolgiamo ai santi e chiediamo aiuto anche agli altri esseri umani; ed è proprio per questa ragione alcuni vengono giudicati inaffidabili nel fornire tale aiuto.  
 Questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="102" data-title="Whether hope is a theological virtue?" data-chapter="Whether hope is a theological virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="Whether hope is a theological virtue?" data-chapter="Whether hope is a theological virtue?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hope is not a [theological virtue](/concepts/theological_virtues). For a theological virtue is one
 that has God for its object. Now hope has for its object not only God but also other goods which
@@ -6753,7 +6763,7 @@ Risposta all’Obiezione 3: L’aspettativa menzionata nella definizione della s
 
 Risposta all’Obiezione 4: La magnanimità tende verso qualcosa di arduo nella speranza di ottenere qualcosa che rientri nelle proprie possibilità; pertanto il suo vero obiettivo è compiere azioni grandi e significative. D’altra parte, la speranza, in quanto virtù teologica, riguarda qualcosa di arduo che può essere realizzato con l’aiuto altrui, come già detto sopra (A[1]).
 
-<span class="atom-split" data-atom="103" data-title="Whether hope is distinct from the other theological virtues?" data-chapter="Whether hope is distinct from the other theological virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="Whether hope is distinct from the other theological virtues?" data-chapter="Whether hope is distinct from the other theological virtues?" data-kind="atom" data-srclang="en" data-tags="concepts/theological_virtues,concepts/faith,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hope is not distinct from the other [theological virtues](/concepts/theological_virtues). For
 habits are distinguished by their objects, as stated above (FS, Q[54], A[2]). Now the object of hope
@@ -6812,7 +6822,7 @@ Risposta all’Obiezione 2: L’aspettativa viene menzionata nel simbolo della f
 
 Risposta all’Obiezione 3: La speranza ci spinge verso Dio, come verso un bene che potremo ottenere in futuro e come verso un aiuto potente che ci possa sostenere; mentre la carità, nel senso proprio del termine, ci spinge verso Dio unendo i nostri affetti a Lui, affinché viviamo non per noi stessi, ma per Dio.
 
-<span class="atom-split" data-atom="104" data-title="Whether hope precedes faith?" data-chapter="Whether hope precedes faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="104" data-title="Whether hope precedes faith?" data-chapter="Whether hope precedes faith?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hope precedes faith. Because a gloss on Ps. 36:3, "Trust in the
 Lord, and do good," says: "Hope is the entrance to faith and the beginning of salvation." But
@@ -6868,7 +6878,7 @@ Risposta all’Obiezione 2: Ciò che si spera è incluso nella definizione di fe
 
 Risposta all’Obiezione 3: La speranza non precede ogni atto meritevole; tuttavia basta che lo accompagni o lo segua.
 
-<span class="atom-split" data-atom="105" data-title="Whether charity precedes hope?" data-chapter="Whether charity precedes hope?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="105" data-title="Whether charity precedes hope?" data-chapter="Whether charity precedes hope?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,figures/augustine"></span>
 
 Objection 1: It would seem that charity precedes hope. For Ambrose says on Lk. 27:6, "If you
 had faith like to a grain of mustard seed," etc.: "Charity flows from faith, and hope from charity."
@@ -6930,7 +6940,7 @@ Risposta all’Obiezione 2: La speranza e ogni movimento dell’appetito derivan
 
 Risposta all’Obiezione 3: Il Maestro parla di una speranza viva, che naturalmente è preceduta dalla carità e dai meriti derivanti da essa.
 
-<span class="atom-split" data-atom="106" data-title="OF THE SUBJECT OF HOPE (FOUR ARTICLES)" data-chapter="OF THE SUBJECT OF HOPE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="106" data-title="OF THE SUBJECT OF HOPE (FOUR ARTICLES)" data-chapter="OF THE SUBJECT OF HOPE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the subject of hope, under which head there are four points of inquiry:
 (1) Whether the virtue of hope is in the will as its subject?
@@ -6946,7 +6956,7 @@ Dobbiamo ora considerare il tema della speranza, sotto cui si possono individuar
 (3) Se appartenga ai dannati;  
 (4) Se esista certezza nella speranza di colui che percorre il cammino della vita.
 
-<span class="atom-split" data-atom="107" data-title="Whether hope is in the will as its subject?" data-chapter="Whether hope is in the will as its subject?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="107" data-title="Whether hope is in the will as its subject?" data-chapter="Whether hope is in the will as its subject?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hope is not in the will as its subject. For the object of hope is
 an arduous good, as stated above (Q[17], A[1]; FS, Q[40], A[1]). Now the arduous is the object,
@@ -6988,7 +6998,7 @@ as was shown above (Q[17], A[8]). Hence there is no reason why both movements sh
 belong at the same time to the same power: even as the intellect can understand many things at the
 same time if they be related to one another, as stated in the FP, Q[85], A[4].
 
-<span class="atom-split" data-atom="108" data-title="Whether in the blessed there is hope?" data-chapter="Whether in the blessed there is hope?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="108" data-title="Whether in the blessed there is hope?" data-chapter="Whether in the blessed there is hope?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,positions/eternity,concepts/theological_virtues,forms/quaestio"></span>
 
 Objection 1: It would seem that in the blessed there is hope. For Christ was a perfect
 comprehensor from the first moment of His conception. Now He had hope, since, according to a
@@ -7067,7 +7077,7 @@ Risposta all’Obiezione 3: Finché dura la virtù della speranza, è proprio at
 
 Risposta all’Obiezione 4: Poiché la speranza è una [virtù teologica](/concepts/theological_virtues) il cui oggetto è Dio, il suo scopo principale è la gloria dell’anima, che consiste nel godimento di Dio, e non la gloria del corpo. Inoltre, sebbene la gloria del corpo sia qualcosa di arduo per la natura umana, non lo è per colui che possiede la gloria dell’anima; sia perché la gloria del corpo è molto piccola rispetto alla gloria dell’anima, sia perché chi possiede la gloria dell’anima dispone già della causa sufficiente per ottenere anche la gloria del corpo.
 
-<span class="atom-split" data-atom="109" data-title="Whether hope is in the damned?" data-chapter="Whether hope is in the damned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="109" data-title="Whether hope is in the damned?" data-chapter="Whether hope is in the damned?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is hope in the damned. For the devil is damned and prince
 of the damned, according to Mat. 25:41: "Depart . . . you cursed, into everlasting fire, which was
@@ -7140,7 +7150,7 @@ Risposta all’Obiezione 2: Come afferma Agostino nell’**Enchiridion viii**, �
 
 Risposta all’Obiezione 3: La mancanza di speranza nei dannati non altera il loro merito negativo, così come l’eliminazione della speranza nei beati non aumenta il loro merito positivo; entrambi questi fenomeni sono dovuti al cambiamento dei loro rispettivi stati.
 
-<span class="atom-split" data-atom="110" data-title="Whether there is certainty in the hope of a wayfarer?" data-chapter="Whether there is certainty in the hope of a wayfarer?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="110" data-title="Whether there is certainty in the hope of a wayfarer?" data-chapter="Whether there is certainty in the hope of a wayfarer?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is no certainty in the hope of a wayfarer. For hope resides
 in the will. But certainty pertains not to the will but to the intellect. Therefore there is no certainty
@@ -7191,7 +7201,7 @@ Risposta all’Obiezione 2: La speranza non si fida principalmente nella grazia 
 
 Risposta all’Obiezione 3: Il fatto che alcune persone che hanno speranza non riescano ad ottenere la felicità è dovuto a un errore della [)volontà libera](/positions/free_will), che pone l’ostacolo del peccato, e non a alcuna mancanza nel potere o nella misericordia di Dio, su cui la speranza fonda la sua fiducia. Pertanto, ciò non compromette la certezza della speranza stessa.
 
-<span class="atom-split" data-atom="111" data-title="OF THE GIFT OF FEAR (TWELVE ARTICLES)" data-chapter="OF THE GIFT OF FEAR (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="111" data-title="OF THE GIFT OF FEAR (TWELVE ARTICLES)" data-chapter="OF THE GIFT OF FEAR (TWELVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the gift of fear, about which there are twelve points of inquiry:
 (1) Whether God is to be feared?
@@ -7223,7 +7233,7 @@ Dobbiamo ora considerare il dono della paura, su cui si possono porre dodici dom
 (11) Rimane nel cielo?  
 (12) Quali delle beatitudini e dei frutti della fede corrispondono a essa?
 
-<span class="atom-split" data-atom="112" data-title="Whether God can be feared?" data-chapter="Whether God can be feared?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="112" data-title="Whether God can be feared?" data-chapter="Whether God can be feared?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that God cannot be feared. For the object of fear is a future evil,
 as stated above (FS, Q[41], AA[2],3). But God is free of all evil, since He is goodness itself.
@@ -7286,7 +7296,7 @@ Risposta all’Obiezione 2: In Dio possiamo considerare sia la Sua giustizia –
 
 Risposta all’Obiezione 3: Il male derivante dal peccato non proviene da Dio, suo autore, ma da noi, nella misura in cui ci allontaniamo da Lui; mentre il male della punizione deriva da Dio, suo autore, poiché ha caratteristiche di bene, essendo qualcosa di giusto quando viene inflitta a noi in modo equo; sebbene originariamente essa derivi dal demerito del peccato. Così è scritto (Sapienza 1:13,16): “Dio non ha creato la morte, ma i malvagi, con le loro azioni e parole, l’hanno attirata su di sé”.
 
-<span class="atom-split" data-atom="113" data-title="Whether fear is fittingly divided into filial, initial, servile and worldly fear?" data-chapter="Whether fear is fittingly divided into filial, initial, servile and worldly fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="113" data-title="Whether fear is fittingly divided into filial, initial, servile and worldly fear?" data-chapter="Whether fear is fittingly divided into filial, initial, servile and worldly fear?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fear is unfittingly divided into filial, initial, servile and worldly
 fear. For Damascene says (De Fide Orth. ii, 15) that there are six kinds of fear, viz. "laziness,
@@ -7383,7 +7393,7 @@ Risposta all’Obiezione 4: Queste tre forme di paura riguardano la punizione, m
 
 Risposta all’Obiezione 5: Non fa differenza se l’uomo si allontana da Dio per paura di perdere i suoi beni terreni, o per paura di perdere la salute del proprio corpo, poiché i beni esterni appartengono al corpo stesso. Pertanto, entrambe queste paure vengono considerate uguali in questo contesto, anche se temono mali diversi e corrispondono al desiderio di beni differenti. Questa diversità genera una specifica varietà di peccati, che tuttavia portano tutti l’uomo lontano da Dio.
 
-<span class="atom-split" data-atom="114" data-title="Whether worldly fear is always evil?" data-chapter="Whether worldly fear is always evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="114" data-title="Whether worldly fear is always evil?" data-chapter="Whether worldly fear is always evil?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that worldly fear is not always evil. Because regard for men seems
 to be a kind of human fear. Now some are blamed for having no regard for man, for instance, the
@@ -7431,7 +7441,7 @@ of worldly goods, but to forsake justice on that account is contrary to natural 
 Philosopher says (Ethic. iii, 1) that there are certain things, viz. sinful deeds, which no fear should
 drive us to do, since to do such things is worse than to suffer any punishment whatever.
 
-<span class="atom-split" data-atom="115" data-title="Whether servile fear is good?" data-chapter="Whether servile fear is good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="115" data-title="Whether servile fear is good?" data-chapter="Whether servile fear is good?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that servile fear is not good. For if the use of a thing is evil, the
 thing itself is evil. Now the use of servile fear is evil, for according to a gloss on Rom. 8:15, "if a
@@ -7498,7 +7508,7 @@ Risposta all’Obiezione 2: La paura servile, in quanto tale, non nasce dall’o
 
 Risposta all’Obiezione 3: L’amore mercenario è quello in cui Dio viene amato per il bene materiale che esso può procurare; tale amore è di per sé contrario alla carità, quindi è sempre malvagio. La paura servile, invece, nella sua essenza, si riduce semplicemente al timore delle punizioni, indipendentemente dal fatto che queste vengano considerate il male principale da temere.
 
-<span class="atom-split" data-atom="116" data-title="Whether servile fear is substantially the same as filial fear?" data-chapter="Whether servile fear is substantially the same as filial fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="116" data-title="Whether servile fear is substantially the same as filial fear?" data-chapter="Whether servile fear is substantially the same as filial fear?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that servile fear is substantially the same as filial fear. For filial
 fear is to servile fear the same apparently as living faith is to lifeless faith, since the one is
@@ -7558,7 +7568,7 @@ Risposta all’Obiezione 2: La paura servile e la paura filiale non considerano 
 
 Risposta all’Obiezione 3: La speranza considera Dio non solo come la fonte del godimento di Lui, ma anche di qualsiasi altra grazia possa esserci. Ciò non si può dire della paura; pertanto non esiste alcuna analogia tra le due emozioni.
 
-<span class="atom-split" data-atom="117" data-title="Whether servile fear remains with charity?" data-chapter="Whether servile fear remains with charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="117" data-title="Whether servile fear remains with charity?" data-chapter="Whether servile fear remains with charity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that servile fear does not remain with charity. For [Augustine](/figures/augustine) says
 (In prim. canon. Joan. Tract. ix) that "when charity takes up its abode, it drives away fear which
@@ -7604,7 +7614,7 @@ but the substance of servile fear can remain with charity, even as self-love can
 Reply to Objection 1: Augustine is speaking of fear considered as servile: and such is the sense
 of the two other objections.
 
-<span class="atom-split" data-atom="118" data-title="Whether fear is the beginning of wisdom?" data-chapter="Whether fear is the beginning of wisdom?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="118" data-title="Whether fear is the beginning of wisdom?" data-chapter="Whether fear is the beginning of wisdom?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fear is not the beginning of wisdom. For the beginning of a
 thing is a part thereof. But fear is not a part of wisdom, since fear is seated in the appetitive faculty,
@@ -7672,7 +7682,7 @@ Risposta all’Obiezione 2: La paura di Dio viene paragonata alla vita intera di
 
 Risposta all’Obiezione 3: Come detto sopra, la fede è, in un certo senso, l’inizio della saggezza; la paura, invece, ne rappresenta l’inizio in un altro contesto. Per questo si legge nell’Ecclesiaste (25:16): “La paura di Dio è l’inizio dell’amore; e l’inizio della fede consiste nel legarsi strettamente a essa”.
 
-<span class="atom-split" data-atom="119" data-title="Whether initial fear differs substantially from filial fear?" data-chapter="Whether initial fear differs substantially from filial fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="119" data-title="Whether initial fear differs substantially from filial fear?" data-chapter="Whether initial fear differs substantially from filial fear?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that initial fear differs substantially from filial fear. For filial fear
 is caused by love. Now initial fear is the beginning of love, according to Ecclus. 25:16, "The fear
@@ -7735,7 +7745,7 @@ Risposta all’Obiezione 2: La paura iniziale non teme la punizione come suo ogg
 
 Risposta all’Obiezione 3: La paura iniziale rappresenta un mezzo tra la paura servile e quella filiale; non si tratta quindi di due entità dello stesso genere, ma piuttosto di una condizione imperfetta che si colloca tra l’esistenza perfetta e la non-esistenza, come affermato nella Metafisica II. Essa, infatti, è sostanzialmente identica all’essere perfetto, pur essendo completamente diversa dalla non-esistenza.
 
-<span class="atom-split" data-atom="120" data-title="Whether fear is a gift of the Holy Ghost?" data-chapter="Whether fear is a gift of the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="120" data-title="Whether fear is a gift of the Holy Ghost?" data-chapter="Whether fear is a gift of the Holy Ghost?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fear is not a gift of the Holy Ghost. For no gift of the Holy
 Ghost is opposed to a virtue, which is also from the Holy Ghost; else the Holy Ghost would be in
@@ -7830,7 +7840,7 @@ Risposta all’Obiezione 3: Dal fatto che l’amore sia l’origine della paura,
 Risposta all’Obiezione 4: Secondo l’Ecclesiastico 10:14, “l’inizio dell’orgoglio umano consiste nel allontanarsi da Dio”, cioè nel rifiutare di sottomettersi a Lui; ciò è in contrasto con la paura filiale, che venera Dio. Pertanto, la paura taglia alla radice l’orgoglio, ed è per questo motivo concessa come rimedio contro di esso. Tuttavia, ciò non significa che sia identica alla virtù dell’umiltà, ma ne rappresenta l’origine. Infatti, i doni dello Spirito Santo sono all’origine delle virtù intellettuali e morali, come detto sopra (FS, Q[68], A[4]), mentre le virtù teologiche sono all’origine dei doni dello Spirito Santo stesso, come affermato ancora in precedenza (FS, Q[69], A[4], ad 3).  
 Ciò basta per rispondere alla Quinta Obiezione.
 
-<span class="atom-split" data-atom="121" data-title="Whether fear decreases when charity increases?" data-chapter="Whether fear decreases when charity increases?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="121" data-title="Whether fear decreases when charity increases?" data-chapter="Whether fear decreases when charity increases?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that fear decreases when charity increases. For [Augustine](/figures/augustine) says (In prim.
 canon. Joan. Tract. ix): "The more charity increases, the more fear decreases."
@@ -7869,7 +7879,7 @@ presuming to equal oneself to Him, and of submitting to Him, which separation is
 even in charity, in so far as a man loves God more than himself and more than aught else. Hence
 the increase of the love of charity implies not a decrease but an increase in the reverence of fear.
 
-<span class="atom-split" data-atom="122" data-title="Whether fear remains in heaven?" data-chapter="Whether fear remains in heaven?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="122" data-title="Whether fear remains in heaven?" data-chapter="Whether fear remains in heaven?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fear does not remain in heaven. For it is written (Prov. 1:33):
 "He . . . shall enjoy abundance, without fear of evils," which is to be understood as referring to
@@ -7950,7 +7960,7 @@ Risposta all’Obiezione 2: Come afferma Dionigi nel “Divinum Nomina” IX, �
 
 Risposta all’Obiezione 3: La speranza implica una certa imperfezione, ovvero la caratteristica di essere legata al futuro della felicità, che scompare non appena la felicità diventa presente; mentre la paura rappresenta un difetto naturale delle creature, in quanto queste sono infinitamente lontane da Dio, e tale difetto rimarrà anche in cielo. Pertanto, la paura non verrà del tutto eliminata.
 
-<span class="atom-split" data-atom="123" data-title="Whether poverty of spirit is the beatitude corresponding to the gift of fear?" data-chapter="Whether poverty of spirit is the beatitude corresponding to the gift of fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="123" data-title="Whether poverty of spirit is the beatitude corresponding to the gift of fear?" data-chapter="Whether poverty of spirit is the beatitude corresponding to the gift of fear?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that poverty of spirit is not the [beatitude](/positions/beatitude) corresponding to the gift
 of fear. For fear is the beginning of the spiritual life, as explained above (A[7]): whereas poverty
@@ -8013,7 +8023,7 @@ Reply to Objection 4: As regards the fruits, it seems that those things correspo
 of fear, which pertain to the moderate use of temporal things or to abstinence therefrom; such are
 modesty, continency and chastity.
 
-<span class="atom-split" data-atom="124" data-title="OF DESPAIR (FOUR ARTICLES)" data-chapter="OF DESPAIR (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="124" data-title="OF DESPAIR (FOUR ARTICLES)" data-chapter="OF DESPAIR (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the contrary vices; (1) despair; (2) presumption. Under the first head
 there are four points of inquiry:
@@ -8030,7 +8040,7 @@ Dobbiamo ora considerare i vizi contrari: (1) la disperazione; (2) l’arroganza
 (3) Se sia il più grave dei peccati;
 (4) Se derivi dalla pigrizia.
 
-<span class="atom-split" data-atom="125" data-title="Whether despair is a sin?" data-chapter="Whether despair is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="125" data-title="Whether despair is a sin?" data-chapter="Whether despair is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that despair is not a sin. For every sin includes conversion to a
 mutable good, together with aversion from the immutable good, as [Augustine](/figures/augustine) states (De Lib. Arb.
@@ -8107,7 +8117,7 @@ Risposta all’Obiezione 2: Una cosa può nascere da una radice virtuosa in due 
 
 Risposta all’Obiezione 3: I dannati si trovano al di fuori dell’ambito della speranza a causa dell’impossibilità di tornare alla felicità; pertanto non si può dire che non sperino, ma questa stessa impossibilità fa parte della loro condanna. Tuttavia, non sarebbe un peccato se una persona desse per perso l’obiettivo di ottenere qualcosa per cui non possiede naturalmente le capacità necessarie, o che comunque non le spetta; ad esempio, se un medico desse per perso la possibilità di guarire un malato, o se qualcuno desse per perso l’idea di poter diventare ricco.
 
-<span class="atom-split" data-atom="126" data-title="Whether there can be despair without unbelief?" data-chapter="Whether there can be despair without unbelief?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="126" data-title="Whether there can be despair without unbelief?" data-chapter="Whether there can be despair without unbelief?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there can be no despair without unbelief. For the certainty of
 hope is derived from faith; and so long as the cause remains the effect is not done away. Therefore
@@ -8172,7 +8182,7 @@ Risposta all’Obiezione 1: L’effetto viene annullato non solo quando viene ri
 
 Risposta all’Obiezione 2: Se qualcuno giudicasse, in modo generale, che la misericordia di Dio non sia infinita, sarebbe un incredulo. Ma colui che dispera non giudica in questo modo; piuttosto, ritiene che, per lui e in quella situazione, a causa di una particolare disposizione personale, non vi sia alcuna speranza nella misericordia divina. La stessa risposta vale anche per la Terza Obiezione, poiché i Novaziani negavano, in modo generale, l’esistenza della remissione dei peccati nella Chiesa.
 
-<span class="atom-split" data-atom="127" data-title="Whether despair is the greatest of sins?" data-chapter="Whether despair is the greatest of sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="127" data-title="Whether despair is the greatest of sins?" data-chapter="Whether despair is the greatest of sins?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that despair is not the greatest of sins. For there can be despair
 without unbelief, as stated above (A[2]). But unbelief is the greatest of sins because it overthrows
@@ -8226,7 +8236,7 @@ Al contrario, un peccato incurabile sembra essere il più grave, secondo Geremia
 
 Rispondo che i peccati contrari alle [virtù teologali](/concepts/theological_virtues) sono di per sé più gravi degli altri: poiché le virtù teologali hanno Dio come loro oggetto, i peccati che vi si oppongono implicano direttamente e principalemente un’allontanamento da Dio. Ora, ogni peccato mortale trae la sua principale malvagità e gravità dal fatto di allontanarsi da Dio; infatti, se fosse possibile rivolgersi a un bene mutevole, anche in modo eccessivo, senza allontanarsi da Dio, non si tratterebbe di un peccato mortale. Pertanto, un peccato che, per sua stessa natura, include un’allontanamento da Dio è senz’altro il più grave tra i peccati mortali. L’incredulità, la disperazione e l’odio verso Dio sono contrari alle virtù teologali; e tra questi, se confrontiamo l’odio verso Dio e l’incredulità con la disperazione, scopriremo che, di per sé, cioè in relazione alla loro vera natura, queste ultime sono più gravi. L’incredulità deriva dal fatto che l’uomo non crede nella verità stessa di Dio; l’odio verso Dio nasce dall’opposizione della volontà umana alla bontà stessa di Dio; mentre la disperazione consiste nel cessare di sperare di poter partecipare alla bontà di Dio. È quindi evidente che l’incredulità e l’odio verso Dio sono contrari a Dio nella Sua essenza stessa, mentre la disperazione lo è in relazione al fatto che la nostra vita dipende dalla Sua bontà. Pertanto, in senso stretto, è un peccato più grave non credere nella verità di Dio o odiarlo, piuttosto che non sperare di ricevere la sua gloria. Tuttavia, se confrontiamo la disperazione con gli altri due peccati dal nostro punto di vista, allora la disperazione è più pericolosa: poiché la speranza ci allontana dai mali e ci spinge a cercare il bene; quindi, quando la speranza viene abbandonata, le persone si precipitano verso il peccato e si allontanano dalle opere buone. Per questo motivo, un commento al Proverbi 24:10 (“Se perdi la speranza nel giorno della difficoltà, la tua forza diminuirà”) afferma: “Niente è più odioso della disperazione, poiché colui che la prova perde la sua fermezza sia nelle fatiche quotidiane di questa vita, sia, cosa ancora peggiore, nella battaglia della fede”. E Isidoro dice (De Sum. Bono ii, 14): “Commettere un crimine significa uccidere l’anima; ma disperare significa cadere all’inferno”.
 
-<span class="atom-split" data-atom="128" data-title="Whether despair arises from sloth?" data-chapter="Whether despair arises from sloth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="128" data-title="Whether despair arises from sloth?" data-chapter="Whether despair arises from sloth?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that despair does not arise from sloth. Because different causes do
 not give rise to one same effect. Now despair of the future life arises from lust, according to Gregory
@@ -8290,7 +8300,7 @@ Risposta all’Obiezione 2: Secondo il Filosofo (Retorica i, 11), così come la 
 
 Risposta all’Obiezione 3: Questo stesso trascurare di considerare i favori divini deriva dalla pigrizia. Infatti, quando un uomo è influenzato da una determinata passione, pensa principalmente alle cose che riguardano quella passione; quindi, una persona piena di tristezza difficilmente penserà a cose grandi e gioiose, ma solo a cose tristi, a meno che non si sforzi molto per distogliere i propri pensieri dalla tristezza.
 
-<span class="atom-split" data-atom="129" data-title="OF PRESUMPTION (FOUR ARTICLES)" data-chapter="OF PRESUMPTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="129" data-title="OF PRESUMPTION (FOUR ARTICLES)" data-chapter="OF PRESUMPTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider presumption, under which head there are four points of inquiry:
 (1) What is the object in which presumption trusts?
@@ -8306,7 +8316,7 @@ Dobbiamo ora esaminare la presunzione; in questo ambito vi sono quattro punti da
 (3) A cosa si oppone la presunzione?  
 (4) Da quale vizio deriva la presunzione?
 
-<span class="atom-split" data-atom="130" data-title="Whether presumption trusts in God or in our own power?" data-chapter="Whether presumption trusts in God or in our own power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="130" data-title="Whether presumption trusts in God or in our own power?" data-chapter="Whether presumption trusts in God or in our own power?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that presumption, which is a sin against the Holy Ghost, trusts, not
 in God, but in our own power. For the lesser the power, the more grievously does he sin who trusts
@@ -8378,7 +8388,7 @@ Risposta all’Obiezione 2: L’assunzione con cui un uomo si avventura indebita
 
 Risposta all’Obiezione 3: L’ipotesi che Dio sia misericordioso implica sia una conversione verso un bene mutevole, in quanto deriva da un desiderio eccessivo del proprio bene, sia un’allontanamento dal bene immutabile, poiché attribuisce al potere divino ciò che non gli è degno; in questo modo l’uomo si allontana dal vero volere di Dio.
 
-<span class="atom-split" data-atom="131" data-title="Whether presumption is a sin?" data-chapter="Whether presumption is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="131" data-title="Whether presumption is a sin?" data-chapter="Whether presumption is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that presumption is not a sin. For no sin is a reason why man should
 be heard by God. Yet, through presumption some are heard by God, for it is written (Judith 9:17):
@@ -8439,7 +8449,7 @@ Risposta all’Obiezione 2: L’ipotesi formulata non indica una speranza eccess
 
 Risposta all’Obiezione 3: Peccare con l’intenzione di perseverare nel peccato e nella speranza di essere perdonati è presuntuoso, e ciò non riduce, ma aumenta il peccato stesso. Tuttavia, peccare con la speranza di ottenere perdono in un futuro momento, e con l’intenzione di astenersi dal peccare e di pentirsi, non è presuntuoso; anzi, riduce il peccato, poiché ciò sembra indicare una volontà meno indurita nel peccato.
 
-<span class="atom-split" data-atom="132" data-title="Whether presumption is more opposed to fear than to hope?" data-chapter="Whether presumption is more opposed to fear than to hope?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="132" data-title="Whether presumption is more opposed to fear than to hope?" data-chapter="Whether presumption is more opposed to fear than to hope?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that presumption is more opposed to fear than to hope. Because
 inordinate fear is opposed to right fear. Now presumption seems to pertain to inordinate fear, for
@@ -8508,7 +8518,7 @@ Risposta all’Obiezione 2: I contrari sono cose che si trovano nella massima di
 
 Risposta all’Obiezione 3: L’arroganza si oppone alla paura per una contrarietà generica, e alla virtù della speranza per una contrarietà specifica. Pertanto, l’arroganza esclude completamente la paura, anche in senso generico; invece, non esclude la speranza se non a causa della sua differenza, ovvero escludendo il suo carattere subordinato alla paura.
 
-<span class="atom-split" data-atom="133" data-title="Whether presumption arises from vainglory?" data-chapter="Whether presumption arises from vainglory?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="133" data-title="Whether presumption arises from vainglory?" data-chapter="Whether presumption arises from vainglory?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that presumption does not arise from vainglory. For presumption
 seems to rely most of all on the Divine mercy. Now mercy [misericordia] regards unhappiness
@@ -8549,7 +8559,7 @@ Al contrario, Gregorio afferma (Moralia, xxxi, 45) che “la presunzione di novi
 
 Rispondo che, come già detto sopra (A[1]), l’arroganza si presenta in due forme: una consiste nel fare affidamento sulla propria forza quando ci si impegna in compiti al di là delle proprie possibilità, come se fossero realmente realizzabili. Un tale tipo di arroganza deriva chiaramente dall’ambizione; infatti, è proprio il forte desiderio di gloria che spinge un uomo a tentare cose che non può compiere, soprattutto quelle che richiedono ammirazione particolare. Per questo motivo Gregorio afferma esplicitamente che l’arroganza nei confronti delle novità è una conseguenza dell’ambizione stessa. L’altra forma di arroganza consiste in una fiducia eccessiva nella misericordia o nel potere divino, basata sull’illusione di ottenere gloria senza meriti o perdono senza pentimento. Questo tipo di arroganza sembra derivare direttamente dall’orgoglio; l’uomo, infatti, si considera così importante da ritenere che Dio non lo punirà né gli negherà la gloria, anche se fosse un peccatore. Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="134" data-title="OF THE PRECEPTS RELATING TO HOPE AND FEAR (TWO ARTICLES)" data-chapter="OF THE PRECEPTS RELATING TO HOPE AND FEAR (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="134" data-title="OF THE PRECEPTS RELATING TO HOPE AND FEAR (TWO ARTICLES)" data-chapter="OF THE PRECEPTS RELATING TO HOPE AND FEAR (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the precepts relating to hope and fear: under which head there are two
 points of inquiry:
@@ -8562,7 +8572,7 @@ Dobbiamo ora esaminare i precetti relativi alla speranza e alla paura; in questa
 (1) I precetti relativi alla speranza;  
 (2) I precetti relativi alla paura.
 
-<span class="atom-split" data-atom="135" data-title="Whether there should be a precept of hope?" data-chapter="Whether there should be a precept of hope?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="135" data-title="Whether there should be a precept of hope?" data-chapter="Whether there should be a precept of hope?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no precept should be given relating to the virtue of hope. For
 when an effect is sufficiently procured by one cause, there is no need to induce it by another. Now
@@ -8625,7 +8635,7 @@ dishonor their parents. And since in order to be saved it is man's duty to hope 
 induced to do so by one of the above ways, affirmatively, so to speak, wherein is implied the
 prohibition of the opposite.
 
-<span class="atom-split" data-atom="136" data-title="Whether there should have been given a precept of fear?" data-chapter="Whether there should have been given a precept of fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="136" data-title="Whether there should have been given a precept of fear?" data-chapter="Whether there should have been given a precept of fear?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that, in the Law, there should not have been given a precept of
 fear. For the fear of God is about things which are a preamble to the Law, since it is the "beginning
@@ -8700,7 +8710,7 @@ Risposta all’Obiezione 2: Dal amore deriva la paura filiale, così come altre 
 
 Risposta all’Obiezione 3: Il motivo che induce paura è sufficiente per escludere la presunzione, così come il motivo che induce speranza è sufficiente per escludere la disperazione, come già affermato sopra (A[1], ad 3).
 
-<span class="atom-split" data-atom="137" data-title="OF CHARITY, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-chapter="OF CHARITY, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="137" data-title="OF CHARITY, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-chapter="OF CHARITY, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/friendship,concepts/virtue,concepts/theological_virtues,forms/quaestio"></span>
 
 In proper sequence, we must consider charity; and (1) charity itself; (2) the corresponding gift
 of wisdom. The first consideration will be fivefold: (1) Charity itself; (2) The object of charity; (3)
@@ -8720,7 +8730,7 @@ Charity, considered in its relation to its subject. Under the first head there a
 
 In ordine corretto, dobbiamo considerare la carità; e in particolare: (1) la carità stessa; (2) il dono corrispondente della saggezza. La prima analisi sarà articolata in cinque punti: (1) la carità stessa; (2) l’oggetto della carità; (3) le sue manifestazioni pratiche; (4) i vizi opposti; (5) i precetti relativi ad essa. Il primo di questi punti sarà ulteriormente suddiviso in due parti: (1) la carità considerata in sé stessa; (2) la carità nella sua relazione con il soggetto che la pratica. All’interno della prima categoria vi sono otto questioni da esaminare: (1) La carità è forse una forma di [amicizia](/concepts/friendship)? (2) È qualcosa che si genera nell’anima? (3) È una virtù? (4) È una virtù particolare? (5) Rappresenta davvero la più grande delle virtù? (6) È possibile esistere vere virtù senza di essa? (7) Costituisce forse la “forma” delle altre virtù?
 
-<span class="atom-split" data-atom="138" data-title="Whether charity is friendship?" data-chapter="Whether charity is friendship?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="138" data-title="Whether charity is friendship?" data-chapter="Whether charity is friendship?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/friendship,concepts/charity,figures/aristotle,forms/quaestio"></span>
 
 Objection 1: It would seem that charity is not [friendship](/concepts/friendship). For nothing is so appropriate to
 friendship as to dwell with one's friend, according to the Philosopher (Ethic. viii, 5). Now charity
@@ -8797,7 +8807,7 @@ Risposta all’Obiezione 2: L’amicizia si estende verso una persona in due mod
 
 Risposta all’Obiezione 3: L’amicizia basata sulla virtù è rivolta esclusivamente a una persona virtuosa; per amor suo amiamo anche coloro che le appartengono, anche se non sono virtuosi. In questo modo la carità, che è essenzialmente un’amicizia fondata sulla virtù, si estende anche ai peccatori, i quali amiamo per amore di Dio.
 
-<span class="atom-split" data-atom="139" data-title="Whether charity is something created in the soul?" data-chapter="Whether charity is something created in the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="139" data-title="Whether charity is something created in the soul?" data-chapter="Whether charity is something created in the soul?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity is not something created in the soul. For [Augustine](/figures/augustine)
 says (De Trin. viii, 7): "He that loveth his neighbor, consequently, loveth love itself." Now God is
@@ -8888,7 +8898,7 @@ Risposta all’Obiezione 2: Dio è effettivamente la vita sia dell’anima attra
 
 Risposta all’Obiezione 3: La carità agisce in modo formale. Ora, l’efficacia di una forma dipende dal potere dell’agente che la instilla; pertanto è evidente che la carità non sia vanità. Tuttavia, poiché produce un effetto infinito – giacché, giustificando l’anima, la unisce a Dio – ciò dimostra l’[infinità](/concepts/infinity) del potere divino, che è l’autore della carità.
 
-<span class="atom-split" data-atom="140" data-title="Whether charity is a virtue?" data-chapter="Whether charity is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="140" data-title="Whether charity is a virtue?" data-chapter="Whether charity is a virtue?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity is not a virtue. For charity is a kind of [friendship](/concepts/friendship). Now
 philosophers do not reckon friendship a virtue, as may be gathered from Ethic. viii, 1; nor is it
@@ -8942,7 +8952,7 @@ higher nature is superior to its subject, in so far as it is a likeness of that 
 is superior to the diaphanous body. In this way charity is superior to the soul, in as much as it is a
 participation of the Holy Ghost.
 
-<span class="atom-split" data-atom="141" data-title="Whether charity is a special virtue?" data-chapter="Whether charity is a special virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="141" data-title="Whether charity is a special virtue?" data-chapter="Whether charity is a special virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,concepts/virtue"></span>
 
 Objection 1: It would seem that charity is not a special virtue. For Jerome says: "Let me briefly
 define all virtue as the charity whereby we love God" [*The reference should be to [Augustine](/figures/augustine), Ep.
@@ -9002,7 +9012,7 @@ Risposta all’Obiezione 2: La virtù o l’arte che si occupa dell’ultimo fin
 
 Risposta all’Obiezione 3: Si dice che il precetto dell’amore sia un comando universale, poiché tutti gli altri precetti, in termini di scopo, sono ridotti a esso, secondo quanto si legge in 1 Timoteo 1:5: “Lo scopo del precetto è l’amore”.
 
-<span class="atom-split" data-atom="142" data-title="Whether charity is one virtue?" data-chapter="Whether charity is one virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="142" data-title="Whether charity is one virtue?" data-chapter="Whether charity is one virtue?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/charity,concepts/friendship,concepts/virtue"></span>
 
 Objection 1: It would seem that charity is not one virtue. For habits are distinct according to
 their objects. Now there are two objects of charity---God and our neighbor---which are infinitely
@@ -9063,7 +9073,7 @@ Risposta all’Obiezione 2: Dio è amato per amore di carità, per il suo stesso
 
 Risposta all’Obiezione 3: L’amicizia umana di cui parla il Filosofo ha diversi scopi e diverse forme di condivisione. Ciò non vale per la carità, come già detto in precedenza; pertanto, il confronto non è valido.
 
-<span class="atom-split" data-atom="143" data-title="Whether charity is the most excellent of the virtues?" data-chapter="Whether charity is the most excellent of the virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="143" data-title="Whether charity is the most excellent of the virtues?" data-chapter="Whether charity is the most excellent of the virtues?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,concepts/faith,concepts/virtue,forms/quaestio"></span>
 
 Objection 1: It would seem that charity is not the most excellent of the virtues. Because the
 higher power has the higher virtue even as it has a higher operation. Now the intellect is higher
@@ -9135,7 +9145,7 @@ Risposta all’Obiezione 2: La fede agisce attraverso l’amore, non in modo str
 
 Risposta all’Obiezione 3: Lo stesso bene è l’oggetto sia della carità che della speranza; tuttavia la carità implica unione con quel bene, mentre la speranza implica una distanza da esso. Pertanto, la carità non considera quel bene come qualcosa di arduo, al contrario della speranza, poiché ciò che è già unito non presenta caratteristiche di difficoltà; e questo dimostra che la carità è più perfetta della speranza.
 
-<span class="atom-split" data-atom="144" data-title="Whether any true virtue is possible without charity?" data-chapter="Whether any true virtue is possible without charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="144" data-title="Whether any true virtue is possible without charity?" data-chapter="Whether any true virtue is possible without charity?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/virtue,figures/augustine"></span>
 
 Objection 1: It would seem that there can be true virtue without charity. For it is proper to
 virtue to produce a good act. Now those who have not charity, do some good actions, as when they
@@ -9217,7 +9227,7 @@ Risposta all’Obiezione 2: Poiché la fine è un elemento fondamentale nelle qu
 
 Risposta all’Obiezione 3: La scienza e l’arte, per loro natura, implicano una relazione con un certo bene particolare, e non con il bene supremo della vita umana, al contrario delle virtù morali che rendono l’uomo buono in senso assoluto, come già detto sopra (FS, Q[56], A[3]). Pertanto, tale confronto è privo di fondamento.
 
-<span class="atom-split" data-atom="145" data-title="Whether charity is the form of the virtues?" data-chapter="Whether charity is the form of the virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="145" data-title="Whether charity is the form of the virtues?" data-chapter="Whether charity is the form of the virtues?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity is not the true form of the virtues. Because the form
 of a thing is either exemplar or essential. Now charity is not the exemplar form of the other virtues,
@@ -9277,7 +9287,7 @@ Risposta all’Obiezione 2: La carità viene paragonata alla fondamenta o alla r
 
 Risposta all’Obiezione 3: Si dice che la carità sia lo scopo finale di tutte le altre virtù, poiché indirizza tutte le altre virtù verso il proprio fine. E poiché una madre è colui o colei che concepisce in sé stessa e attraverso un altro, la carità viene chiamata “madre delle altre virtù”, perché, imponendo loro dei doveri, essa “concepisce” gli atti compiuti dalle altre virtù, guidandole verso il loro scopo ultimo.
 
-<span class="atom-split" data-atom="146" data-title="OF THE SUBJECT OF CHARITY (TWELVE ARTICLES)" data-chapter="OF THE SUBJECT OF CHARITY (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="146" data-title="OF THE SUBJECT OF CHARITY (TWELVE ARTICLES)" data-chapter="OF THE SUBJECT OF CHARITY (TWELVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/theological_virtues,concepts/will,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider charity in relation to its subject, under which head there are twelve
 points of inquiry:
@@ -9310,7 +9320,7 @@ Dobbiamo ora considerare la carità in relazione al suo soggetto, sotto questa c
 (11) Può essere persa dopo essere stata posseduta?  
 (12) Viene persa a causa di un solo peccato mortale?
 
-<span class="atom-split" data-atom="147" data-title="Whether the will is the subject of charity?" data-chapter="Whether the will is the subject of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="147" data-title="Whether the will is the subject of charity?" data-chapter="Whether the will is the subject of charity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will is not the subject of charity. For charity is a kind of
 love. Now, according to the Philosopher (Topic. ii, 3) love is in the concupiscible part. Therefore
@@ -9371,7 +9381,7 @@ Risposta all’Obiezione 2: Secondo il Filosofo (De [Anima](/concepts/soul) iii,
 
 Risposta all’Obiezione 3: Come affermato nel FP, Q[83], A[4], la libertà di volontà non è una facoltà distinta dalla volontà stessa. Tuttavia, la carità non rientra nella categoria delle azioni compiute attraverso la libertà di volontà, poiché l’atto della carità non consiste nel scegliere. Infatti, il “scegliere” riguarda cose dirette verso un fine specifico, mentre la volontà stessa rappresenta quel fine stesso (Etica, iii, 2). Pertanto, la carità, la cui finalità è il fine ultimo, dovrebbe essere considerata una facoltà della volontà piuttosto che della libertà di volontà.
 
-<span class="atom-split" data-atom="148" data-title="Whether charity is caused in us by infusion?" data-chapter="Whether charity is caused in us by infusion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="148" data-title="Whether charity is caused in us by infusion?" data-chapter="Whether charity is caused in us by infusion?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity is not caused in us by infusion. For that which is
 common to all creatures, is in man naturally. Now, according to Dionysius (Div. Nom. iv), the
@@ -9434,7 +9444,7 @@ Risposta all’Obiezione 2: Proprio come Dio è supremamente conoscibile in Sé 
 
 Risposta all’Obiezione 3: Quando si afferma che in noi la carità deriva da “un cuore puro, una buona coscienza e una fede sincera”, ciò si riferisce all’atto di carità che viene suscitato da queste qualità. Oppure, si dice così perché tali atti predispongono l’uomo ad accogliere la carità stessa. Lo stesso vale per le parole di [Agostino](/figures/augustine) (Trattato IX sul primo canone di Giovanni): “La paura conduce alla carità”, e per una spiegazione del Vangelo di Matteo 1:2: “La fede genera la speranza, e la speranza genera la carità”.
 
-<span class="atom-split" data-atom="149" data-title="Whether charity is infused according to the capacity of our natural gifts?" data-chapter="Whether charity is infused according to the capacity of our natural gifts?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="149" data-title="Whether charity is infused according to the capacity of our natural gifts?" data-chapter="Whether charity is infused according to the capacity of our natural gifts?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity is infused according to the capacity of our natural gifts.
 For it is written (Mat. 25:15) that "He gave to every one according to his own virtue [Douay: 'proper
@@ -9503,7 +9513,7 @@ Risposta all’Obiezione 2: La forma non supera mai la proporzione della materia
 
 Risposta all’Obiezione 3: La natura dell’angelo è intellettuale, e è coerente con la sua condizione il fatto che venga portata ovunque venga trasportato, come affermato nel FP, Q[61], A[6]. Pertanto, negli angeli più elevati vi fu uno sforzo maggiore, sia verso il bene da parte di coloro che perseverarono, sia verso il male da parte di coloro che caddero; di conseguenza, gli angeli più elevati che rimasero fedeli divennero migliori degli altri, mentre quelli che caddero divennero peggiori. Tuttavia, la natura dell’uomo è razionale, e è coerente con essa il fatto che a volte si trovi in uno stato di [potenzialità](/concepts/act_potency) e altre volte in atto: quindi non è necessariamente portata ovunque venga trasportata; inoltre, dove esistono doni naturali maggiori, lo sforzo potrebbe essere minore, e viceversa. Pertanto, il confronto non regge.
 
-<span class="atom-split" data-atom="150" data-title="Whether charity can increase?" data-chapter="Whether charity can increase?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="150" data-title="Whether charity can increase?" data-chapter="Whether charity can increase?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity cannot increase. For nothing increases save what has
 quantity. Now quantity is twofold, namely dimensive and virtual. The former does not befit charity
@@ -9550,7 +9560,7 @@ produce an act of more fervent love. Hence charity increases essentially, not by
 or ceasing to be in its subject, as the objection imagines, but by beginning to be more and more in
 its subject.
 
-<span class="atom-split" data-atom="151" data-title="Whether charity increases by addition?" data-chapter="Whether charity increases by addition?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="151" data-title="Whether charity increases by addition?" data-chapter="Whether charity increases by addition?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity increases by addition. For just as increase may be in
 respect of bodily quantity, so may it be according to virtual quantity. Now increase in bodily quantity
@@ -9649,7 +9659,7 @@ Risposta all’Obiezione 2: L’aggiunta di luce a luce può essere spiegata con
 
 Risposta all’Obiezione 3: L’aumento della carità indica un passaggio dallo stato di “non averla” allo stato di “averla”, quindi è necessario che qualcosa venga aggiunto, qualcosa che prima non esisteva. D’altra parte, l’intensificazione della carità rappresenta semplicemente un aumento nella quantità di essa posseduta; in questo caso, non è necessario che emerga nulla di nuovo, ma piuttosto che la carità presente diventi più abbondante rispetto a prima. È proprio ciò che Dio fa quando aumenta la carità nelle persone: la rende più potente all’interno dell’anima e permette alla stessa di partecipare in modo più perfetto alla natura dello Spirito Santo.
 
-<span class="atom-split" data-atom="152" data-title="Whether charity increases through every act of charity?" data-chapter="Whether charity increases through every act of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="152" data-title="Whether charity increases through every act of charity?" data-chapter="Whether charity increases through every act of charity?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,concepts/virtue,concepts/act_potency,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity increases through every act of charity. For that which
 can do what is more, can do what is less. But every act of charity can merit everlasting life; and
@@ -9710,7 +9720,7 @@ Risposta all’Obiezione 2: Anche quando si sta formando una virtù acquisita, c
 
 Risposta all’Obiezione 3: L’uomo progredisce verso Dio non soltanto attraverso un reale aumento della carità, ma anche perché è disposto a tale aumento.
 
-<span class="atom-split" data-atom="153" data-title="Whether charity increases indefinitely?" data-chapter="Whether charity increases indefinitely?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="153" data-title="Whether charity increases indefinitely?" data-chapter="Whether charity increases indefinitely?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity does not increase indefinitely. For every movement is
 towards some end and term, as stated in Metaph. ii, text. 8,9. But the increase of charity is a
@@ -9783,7 +9793,7 @@ Risposta all’Obiezione 2: La capacità della creatura razionale viene ampliata
 
 Risposta all’Obiezione 3: Questo argomento è valido per quelle cose che possiedono lo stesso tipo di quantità, ma non per quelle che ne hanno tipi diversi; ad esempio, per quanto una linea possa allungarsi, essa non raggiungerà mai la quantità di una superficie. Ora, la quantità della carità di colui che segue la conoscenza derivante dalla fede non è dello stesso tipo della quantità della carità dei beati, che deriva da una visione diretta. Pertanto, questo argomento non dimostra nulla.
 
-<span class="atom-split" data-atom="154" data-title="Whether charity can be perfect in this life?" data-chapter="Whether charity can be perfect in this life?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="154" data-title="Whether charity can be perfect in this life?" data-chapter="Whether charity can be perfect in this life?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity cannot be perfect in this life. For this would have been
 the case with the apostles before all others. Yet it was not so, since the Apostle says (Phil. 3:12):
@@ -9849,7 +9859,7 @@ Risposta all’Obiezione 2: Ciò si afferma in riferimento ai peccati veniali, c
 
 Risposta all’Obiezione 3: La perfezione di un certo modo non è una perfezione assoluta; pertanto può sempre essere migliorata.
 
-<span class="atom-split" data-atom="155" data-title="Whether charity is rightly distinguished into three degrees, beginning, progress, and perfection?" data-chapter="Whether charity is rightly distinguished into three degrees, beginning, progress, and perfection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="155" data-title="Whether charity is rightly distinguished into three degrees, beginning, progress, and perfection?" data-chapter="Whether charity is rightly distinguished into three degrees, beginning, progress, and perfection?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unfitting to distinguish three degrees of charity, beginning, [progress](/positions/progress),
 and perfection. For there are many degrees between the beginning of charity and its ultimate
@@ -9919,7 +9929,7 @@ Risposta all’Obiezione 2: Anche se coloro che sono principianti nell’eserciz
 
 Risposta all’Obiezione 3: Anche i perfetti compiono progressi nella carità; tuttavia questa non rappresenta la loro principale preoccupazione, poiché il loro obiettivo principale è l’unione con Dio. E sebbene sia tanto il principiante che il perfezionato cerchino questo scopo, le loro attenzioni sono prevalentemente rivolte ad altre cose: per il principiante, all’evitare i peccati; per il perfezionato, al progredire nella virtù.
 
-<span class="atom-split" data-atom="156" data-title="Whether charity can decrease?" data-chapter="Whether charity can decrease?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="156" data-title="Whether charity can decrease?" data-chapter="Whether charity can decrease?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity can decrease. For contraries by their nature affect the
 same subject. Now increase and decrease are contraries. Since then charity increases, as stated
@@ -10019,7 +10029,7 @@ Risposta all’Obiezione 2: La cupidigia è di due tipi: uno in cui l’uomo pon
 
 Risposta all’Obiezione 3: Un atto della volontà libera è necessario per l’esercizio della carità, come già affermato in precedenza (FS, Q[113], A[3]). Pertanto, ciò che riduce l’intensità dell’azione della volontà libera conduce inevitabilmente a una diminuzione della carità stessa. D’altra parte, non è necessario alcun atto della volontà libera per la conservazione della carità; altrimenti essa non rimarrebbe in noi durante il sonno. Quindi, la carità non diminuisce a causa di ostacoli legati all’intensità dell’azione della volontà libera.
 
-<span class="atom-split" data-atom="157" data-title="Whether we can lose charity when once we have it?" data-chapter="Whether we can lose charity when once we have it?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="157" data-title="Whether we can lose charity when once we have it?" data-chapter="Whether we can lose charity when once we have it?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/charity,concepts/predestination,concepts/act_potency,figures/augustine"></span>
 
 Objection 1: It would seem that we cannot lose charity when once we have it. For if we lose
 it, this can only be through sin. Now he who has charity cannot sin, for it is written (1 Jn. 3:9):
@@ -10120,7 +10130,7 @@ Risposta all’Obiezione 3: L’amore di Dio realizza sempre grandi cose nel per
 
 Risposta all’Obiezione 4: La carità, per via del suo stesso atto, esclude ogni motivo per peccare. Tuttavia, a volte la carità non viene realmente messa in pratica, e in tal caso è possibile che intervenga un motivo che spinga al peccato; se permettiamo che tale motivo agisca, perdiamo la carità stessa.
 
-<span class="atom-split" data-atom="158" data-title="Whether charity is lost through one mortal sin?" data-chapter="Whether charity is lost through one mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="158" data-title="Whether charity is lost through one mortal sin?" data-chapter="Whether charity is lost through one mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity is not lost through one mortal sin. For Origen says
 (Peri Archon i): "When a man who has mounted to the stage of perfection, is satiated, I do not think
@@ -10233,7 +10243,7 @@ Risposta all’Obiezione 4: Non ogni affetto eccessivo per le cose destinate al 
 
 Risposta all’Obiezione 5: La carità indica un’unione con Dio, mentre la fede e la speranza no. Ora, ogni peccato mortale consiste in un’allontanamento da Dio, come detto sopra (Genesi, ad litteram viii, 12). Pertanto, ogni peccato morale è contrario alla carità, ma non alla fede e alla speranza; piuttosto, sono alcuni specifici peccati a distruggere l’abitudine alla fede o alla speranza, proprio come ogni peccato morale distrugge la carità stessa. È quindi evidente che la carità non può rimanere “inerte” o priva di vitalità, poiché essa rappresenta la forma ultima dell’essere umano rispetto a Dio, nell’aspetto del fine ultimo, come detto sopra (Q[23], A[8]).
 
-<span class="atom-split" data-atom="159" data-title="OF THE OBJECT OF CHARITY (TWELVE ARTICLES)" data-chapter="OF THE OBJECT OF CHARITY (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="159" data-title="OF THE OBJECT OF CHARITY (TWELVE ARTICLES)" data-chapter="OF THE OBJECT OF CHARITY (TWELVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the object of charity; which consideration will be twofold: (1) The things
 we ought to love out of charity: (2) The order in which they ought to be loved. Under the first head
@@ -10267,7 +10277,7 @@ Dobbiamo ora considerare l’oggetto della carità; tale analisi sarà articolat
 (11) Dovremmo amare i demoni?  
 (12) Come elencare le cose che siamo obbligati ad amare per motivi di carità.
 
-<span class="atom-split" data-atom="160" data-title="Whether the love of charity stops at God, or extends to our neighbor?" data-chapter="Whether the love of charity stops at God, or extends to our neighbor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="160" data-title="Whether the love of charity stops at God, or extends to our neighbor?" data-chapter="Whether the love of charity stops at God, or extends to our neighbor?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the love of charity stops at God and does not extend to our
 neighbor. For as we owe God love, so do we owe Him fear, according Dt. 10:12: "And now Israel,
@@ -10340,7 +10350,7 @@ Risposta all’Obiezione 2: L’amore riguarda il bene in generale, mentre l’o
 
 Risposta all’Obiezione 3: È sbagliato sperare nell’uomo come se fosse l’autore principale della salvezza, ma non è sbagliato sperare nell’uomo come in colui che ci aiuta nel nostro servizio a Dio. Allo stesso modo, sarebbe sbagliato se una persona amasse il proprio prossimo come se fosse lo scopo finale della propria esistenza, ma non lo amasse per amore di Dio; ed è proprio questo che fa la carità.
 
-<span class="atom-split" data-atom="161" data-title="Whether we should love charity out of charity?" data-chapter="Whether we should love charity out of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="161" data-title="Whether we should love charity out of charity?" data-chapter="Whether we should love charity out of charity?" data-kind="atom" data-srclang="en" data-tags="concepts/theological_virtues,concepts/friendship,positions/beatitude,figures/augustine"></span>
 
 Objection 1: It would seem that charity need not be loved out of charity. For the things to be
 loved out of charity are contained in the two precepts of charity (Mat. 22:37-39): and neither of
@@ -10402,7 +10412,7 @@ Risposta all’Obiezione 2: La carità stessa è quella forma di condivisione de
 
 Risposta all’Obiezione 3: Questo argomento considera l’amicizia nel contesto di quelle persone con le quali siamo amici.
 
-<span class="atom-split" data-atom="162" data-title="Whether irrational creatures also ought to be loved out of charity?" data-chapter="Whether irrational creatures also ought to be loved out of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="162" data-title="Whether irrational creatures also ought to be loved out of charity?" data-chapter="Whether irrational creatures also ought to be loved out of charity?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/friendship,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that irrational creatures also ought to be loved out of charity. For
 it is chiefly by charity that we are conformed to God. Now God loves irrational creatures out of
@@ -10467,7 +10477,7 @@ Risposta all’Obiezione 2: La somiglianza basata sulle tracce non conferisce la
 
 Risposta all’Obiezione 3: La fede può estendersi a tutto ciò che è in qualche modo vero, mentre l’amore fraterno si estende soltanto a quelle cose che possiedono una natura tale da poter condurre alla vita eterna; pertanto, il confronto non regge.
 
-<span class="atom-split" data-atom="163" data-title="Whether a man ought to love himself out of charity?" data-chapter="Whether a man ought to love himself out of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="163" data-title="Whether a man ought to love himself out of charity?" data-chapter="Whether a man ought to love himself out of charity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man is bound to love himself out of charity. For Gregory
 says in a homily (In Evang. xvii) that there "can be no charity between less than two." Therefore
@@ -10525,7 +10535,7 @@ Risposta all’Obiezione 1: Gregorio parla lì della carità nel senso generale 
 
 Risposta all’Obiezione 3: Coloro che si amano devono essere biasimati, nella misura in cui si amano per quanto riguarda la loro natura sensibile, che indulgono e coccolano. Questo non rappresenta un vero amore di sé secondo la propria natura razionale, che dovrebbe portare a desiderare per se stessi le cose buone necessarie al perfezionamento della ragione; ed è proprio in questo modo che, soprattutto attraverso la carità, l’uomo ama veramente se stesso.
 
-<span class="atom-split" data-atom="164" data-title="Whether a man ought to love his body out of charity?" data-chapter="Whether a man ought to love his body out of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="164" data-title="Whether a man ought to love his body out of charity?" data-chapter="Whether a man ought to love his body out of charity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man ought not to love his body out of charity. For we do not
 love one with whom we are unwilling to associate. But those who have charity shun the society of
@@ -10569,7 +10579,7 @@ since the body has, in a fashion, a share of happiness, it can be loved with the
 Reply to Objection 3: Mutual love is found in the friendship which is for another, but not in
 that which a man has for himself, either in respect of his soul, or in respect of his body.
 
-<span class="atom-split" data-atom="165" data-title="Whether we ought to love sinners out of charity?" data-chapter="Whether we ought to love sinners out of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="165" data-title="Whether we ought to love sinners out of charity?" data-chapter="Whether we ought to love sinners out of charity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought not to love sinners out of charity. For it is written
 (Ps. 118:113): "I have hated the unjust." But David had perfect charity. Therefore sinners should
@@ -10649,7 +10659,7 @@ did Our Lord eat and drink with sinners as related by Mat. 9:11-13. Yet all shou
 of sinners, as regards fellowship in sin; in this sense it is written (2 Cor. 6:17): "Go out from among
 them . . . and touch not the unclean thing," i.e. by consenting to sin.
 
-<span class="atom-split" data-atom="166" data-title="Whether sinners love themselves?" data-chapter="Whether sinners love themselves?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="166" data-title="Whether sinners love themselves?" data-chapter="Whether sinners love themselves?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sinners love themselves. For that which is the principle of sin,
 is most of all in the sinner. Now love of self is the principle of sin, since [Augustine](/figures/augustine) says (De Civ.
@@ -10708,7 +10718,7 @@ Reply to Objection 3: The wicked have some share of self-love, in so far as they
 themselves good. Yet such love of self is not true but apparent: and even this is not possible in
 those who are very wicked.
 
-<span class="atom-split" data-atom="167" data-title="Whether charity requires that we should love our enemies?" data-chapter="Whether charity requires that we should love our enemies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="167" data-title="Whether charity requires that we should love our enemies?" data-chapter="Whether charity requires that we should love our enemies?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that charity does not require us to love our enemies. For [Augustine](/figures/augustine)
 says (Enchiridion lxxiii) that "this great good," namely, the love of our enemies, is "not so universal
@@ -10769,7 +10779,7 @@ Risposta all’Obiezione 2: Tutto, per natura, odia il proprio contrario in quan
 
 Risposta all’Obiezione 3: È sbagliato amare i propri nemici in quanto tali: la carità non fa questo, come è stato detto sopra.
 
-<span class="atom-split" data-atom="168" data-title="Whether it is necessary for salvation that we should show our enemies the signs and effects of love?" data-chapter="Whether it is necessary for salvation that we should show our enemies the signs and effects of love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="168" data-title="Whether it is necessary for salvation that we should show our enemies the signs and effects of love?" data-chapter="Whether it is necessary for salvation that we should show our enemies the signs and effects of love?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that charity demands of a man to show his enemy the signs or
 effects of love. For it is written (1 Jn. 3:18): "Let us not love in word nor in tongue, but in deed and
@@ -10813,7 +10823,7 @@ hatred on account of the hurt done to us, but purpose to induce our enemy to lov
 our kindliness.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="169" data-title="Whether we ought to love the angels out of charity?" data-chapter="Whether we ought to love the angels out of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="169" data-title="Whether we ought to love the angels out of charity?" data-chapter="Whether we ought to love the angels out of charity?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/friendship,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we are not bound to love the angels out of charity. For, as
 [Augustine](/figures/augustine) says (De Doctr. Christ. i), charity is a twofold love: the love of God and of our neighbor.
@@ -10868,7 +10878,7 @@ Risposta all’Obiezione 2: Gli animali stupidi sono uniti a noi nel genere più
 
 Risposta all’Obiezione 3: La compagnia degli angeli non consiste in un rapporto esteriore, simile a quello che abbiamo in base alla nostra natura sensibile; essa consiste invece in un legame spirituale, imperfetto certamente in questa vita, ma perfetto in cielo, come già detto sopra (Q[23], A[1], ad 1).
 
-<span class="atom-split" data-atom="170" data-title="Whether we are bound to love the demons out of charity?" data-chapter="Whether we are bound to love the demons out of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="170" data-title="Whether we are bound to love the demons out of charity?" data-chapter="Whether we are bound to love the demons out of charity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought to love the demons out of charity. For the angels are
 our neighbors by reason of their fellowship with us in a rational mind. But the demons also share
@@ -10936,7 +10946,7 @@ Risposta all’Obiezione 2: In questa vita, gli uomini che commettono peccati co
 
 Risposta all’Obiezione 3: Il fatto che i demoni siano utili per noi non deriva dalla loro intenzione, ma dall’ordine della provvidenza divina; pertanto ciò ci porta a essere amici non di loro, ma di Dio, che trasforma la loro intenzione perversa a nostro vantaggio.
 
-<span class="atom-split" data-atom="171" data-title="Whether four things are rightly reckoned as to be loved out of charity, viz. God, our neighbor, our body and ourselves?" data-chapter="Whether four things are rightly reckoned as to be loved out of charity, viz. God, our neighbor, our body and ourselves?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="171" data-title="Whether four things are rightly reckoned as to be loved out of charity, viz. God, our neighbor, our body and ourselves?" data-chapter="Whether four things are rightly reckoned as to be loved out of charity, viz. God, our neighbor, our body and ourselves?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/beatitude,concepts/theological_virtues,concepts/friendship,figures/augustine"></span>
 
 Objection 1: It would seem that these four things are not rightly reckoned as to be loved out
 of charity, to wit: God, our neighbor, our body, and ourselves. For, as [Augustine](/figures/augustine) states (Tract. super
@@ -11001,7 +11011,7 @@ Risposta all’Obiezione 2: L’oggetto della carità è la mente razionale, cap
 
 Risposta all’Obiezione 3: L’uomo ama il proprio prossimo, sia per la sua anima che per il suo corpo, in virtù di una certa comunanza di felicità. Pertanto, da parte del proprio prossimo, esiste un solo motivo per amarlo; inoltre, il corpo del proprio prossimo non viene considerato un oggetto specifico di amore.
 
-<span class="atom-split" data-atom="172" data-title="OF THE ORDER OF CHARITY (THIRTEEN ARTICLES)" data-chapter="OF THE ORDER OF CHARITY (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="172" data-title="OF THE ORDER OF CHARITY (THIRTEEN ARTICLES)" data-chapter="OF THE ORDER OF CHARITY (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the order of charity, under which head there are thirteen points of inquiry:
 (1) Whether there is an order in charity?
@@ -11037,7 +11047,7 @@ Dobbiamo ora considerare l’ordine della carità, sotto il quale vi sono tredic
 (12) Dovremmo amare di più coloro che sono gentili con noi rispetto a coloro verso i quali siamo gentili noi stessi?  
 (13) Questo ordine della carità persiste anche in cielo?
 
-<span class="atom-split" data-atom="173" data-title="Whether there is order in charity?" data-chapter="Whether there is order in charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="173" data-title="Whether there is order in charity?" data-chapter="Whether there is order in charity?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/charity,concepts/friendship,concepts/virtue,concepts/theological_virtues"></span>
 
 Objection 1: It would seem that there is no order in charity. For charity is a virtue. But no order
 is assigned to the other virtues. Neither, therefore, should any order be assigned to charity.
@@ -11096,7 +11106,7 @@ Tuttavia, anche nella fede esiste un certo ordine, in quanto essa riguarda princ
 
 Risposta all’Obiezione 3: L’ordine appartiene alla ragione come facoltà che ordina, e al potere appetitivo come facoltà che viene ordinata. È in questo modo che si afferma che l’ordine esista anche nell’amore.
 
-<span class="atom-split" data-atom="174" data-title="Whether God ought to be loved more than our neighbor?" data-chapter="Whether God ought to be loved more than our neighbor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="174" data-title="Whether God ought to be loved more than our neighbor?" data-chapter="Whether God ought to be loved more than our neighbor?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/charity,concepts/friendship,figures/augustine"></span>
 
 Objection 1: It would seem that God ought not to be loved more than our neighbor. For it is
 written (1 Jn. 4:20): "He that loveth not his brother whom he seeth, how can he love God, Whom
@@ -11168,7 +11178,7 @@ Risposta all’Obiezione 2: La somiglianza che abbiamo con Dio precede e determi
 
 Risposta all’Obiezione 3: Considerato nella sua essenza, Dio è ugualmente presente in tutto ciò in cui può esistere, poiché non viene ridotto nella sua entità per essere in qualche cosa. Eppure il nostro prossimo non possiede la bontà di Dio allo stesso modo in cui Dio la possiede; Dio la possiede essenzialmente, mentre il nostro prossimo la possiede solo in modo derivato, attraverso la partecipazione a essa.
 
-<span class="atom-split" data-atom="175" data-title="Whether out of charity, man is bound to love God more than himself?" data-chapter="Whether out of charity, man is bound to love God more than himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="175" data-title="Whether out of charity, man is bound to love God more than himself?" data-chapter="Whether out of charity, man is bound to love God more than himself?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/charity,concepts/friendship,concepts/grace,figures/augustine"></span>
 
 Objection 1: It would seem that man is not bound, out of charity, to love God more than himself.
 For the Philosopher says (Ethic. ix, 8) that "a man's friendly relations with others arise from his
@@ -11236,7 +11246,7 @@ Risposta all’Obiezione 2: La parte ama effettivamente il bene del tutto, come 
 
 Risposta all’Obiezione 3: Il fatto che un uomo desideri godere di Dio riguarda quell’amore per Dio che è amore derivante dalla concupiscenza. Ora noi amiamo Dio con l’amore dell’amicizia, più che con l’amore derivante dalla concupiscenza, perché il bene divino è in sé stesso più grande del bene che ne ricaviamo nel goderne. Pertanto, per carità, l’uomo ama semplicemente Dio più di se stesso.
 
-<span class="atom-split" data-atom="176" data-title="Whether our of charity, man ought to love himself more than his neighbor?" data-chapter="Whether our of charity, man ought to love himself more than his neighbor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="176" data-title="Whether our of charity, man ought to love himself more than his neighbor?" data-chapter="Whether our of charity, man ought to love himself more than his neighbor?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man ought not, out of charity, to love himself more than his
 neighbor. For the principal object of charity is God, as stated above (A[2]; Q[25], AA[1],12). Now
@@ -11306,7 +11316,7 @@ Risposta all’Obiezione 2: Un uomo dovrebbe sopportare danni fisici per il bene
 
 Risposta all’Obiezione 3: Come afferma [Agostino](/figures/augustine) nella sua Regola (Ep. ccxi), il detto “‘La carità non cerca il proprio bene’ significa che preferisce il bene comune a quello privato”. Ora, il bene comune è sempre più amabile per l’individuo del suo bene privato; allo stesso modo, il bene del tutto è più amabile per la parte di quel bene particolare dell’individuo, come già detto in precedenza (A[3]).
 
-<span class="atom-split" data-atom="177" data-title="Whether a man ought to love his neighbor more than his own body?" data-chapter="Whether a man ought to love his neighbor more than his own body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="177" data-title="Whether a man ought to love his neighbor more than his own body?" data-chapter="Whether a man ought to love his neighbor more than his own body?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,figures/augustine,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man is not bound to love his neighbor more than his own
 body. For his neighbor includes his neighbor's body. If therefore a man ought to love his neighbor
@@ -11346,7 +11356,7 @@ necessarily require a man to imperil his own body for his neighbor's welfare, ex
 he is under obligation to do so and if a man of his own accord offer himself for that purpose, this
 belongs to the perfection of charity.
 
-<span class="atom-split" data-atom="178" data-title="Whether we ought to love one neighbor more than another?" data-chapter="Whether we ought to love one neighbor more than another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="178" data-title="Whether we ought to love one neighbor more than another?" data-chapter="Whether we ought to love one neighbor more than another?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought not to love one neighbor more than another. For
 [Augustine](/figures/augustine) says (De Doctr. Christ. i, 28): "One ought to love all men equally. Since, however, one
@@ -11426,7 +11436,7 @@ Risposta all’Obiezione 2: I nostri vicini non sono tutti ugualmente legati a D
 
 Risposta all’Obiezione 3: Questo argomento considera la quantità d’amore che noi desideriamo che i nostri amici dimostrino nei nostri confronti.
 
-<span class="atom-split" data-atom="179" data-title="Whether we ought to love those who are better more those who are more closely united us?" data-chapter="Whether we ought to love those who are better more those who are more closely united us?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="179" data-title="Whether we ought to love those who are better more those who are more closely united us?" data-chapter="Whether we ought to love those who are better more those who are more closely united us?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought to love those who are better more than those who
 are more closely united to us. For that which is in no way hateful seems more lovable than that
@@ -11519,7 +11529,7 @@ Risposta all’Obiezione 2: La carità conforma l’uomo a Dio in modo proporzio
 
 Risposta all’Obiezione 3: La carità induce l’atto d’amore non solo nei confronti dell’oggetto amato, ma anche nei confronti di colui che ama, come già detto in precedenza. Di conseguenza, colui che è più strettamente legato a noi viene amato di più.
 
-<span class="atom-split" data-atom="180" data-title="Whether we ought to love more those who are connected with us by ties of blood?" data-chapter="Whether we ought to love more those who are connected with us by ties of blood?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="180" data-title="Whether we ought to love more those who are connected with us by ties of blood?" data-chapter="Whether we ought to love more those who are connected with us by ties of blood?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought not to love more those who are more closely united
 to us by ties of blood. For it is written (Prov. 18:24): "A man amiable in society, shall be more
@@ -11598,7 +11608,7 @@ Risposta all’Obiezione 2: Ambrogio parla d’amore in relazione ai favori lega
 
 Risposta all’Obiezione 3: Il fatto che in battaglia un uomo obbedisca al proprio ufficiale piuttosto che a suo padre dimostra che ama meno suo padre, e non semplicemente in modo relativo, cioè rispetto all’amore basato sulla condivisione delle esperienze in battaglia.
 
-<span class="atom-split" data-atom="181" data-title="Whether a man ought, out of charity, to love his children more than his father?" data-chapter="Whether a man ought, out of charity, to love his children more than his father?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="181" data-title="Whether a man ought, out of charity, to love his children more than his father?" data-chapter="Whether a man ought, out of charity, to love his children more than his father?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that a man ought, out of charity, to love his children more than his father.
 For we ought to love those more to whom we are more bound to do good. Now we are more bound
@@ -11668,7 +11678,7 @@ Risposta all’Obiezione 2: È naturale che un uomo, in quanto padre, ami di pi�
 
 Risposta all’Obiezione 3: Come afferma [Agostino](/figures/augustine) (De Doctrina Christiana, I, 32), Dio ci ama per il nostro bene e per la Sua gloria. Pertanto, poiché il padre è legato a noi come fonte di vita, proprio come lo è Dio, spetta al padre ricevere onore dai suoi figli, e ai figli che i loro genitori provvedano loro di ciò che è utile per loro. Tuttavia, in caso di necessità, il figlio ha il dovere, a fronte dei benefici ricevuti, di prendersi cura prima di tutto dei propri genitori.
 
-<span class="atom-split" data-atom="182" data-title="Whether a man ought to love his mother more than his father?" data-chapter="Whether a man ought to love his mother more than his father?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="182" data-title="Whether a man ought to love his mother more than his father?" data-chapter="Whether a man ought to love his mother more than his father?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man ought to love his mother more than his father. For, as
 the Philosopher says (De Gener. Animal. i, 20), "the female produces the body in generation." Now
@@ -11728,7 +11738,7 @@ Risposta all’Obiezione 1: Nella generazione dell’uomo, la madre fornisce la 
 Risposta all’Obiezione 2: Ciò si applica a un altro tipo di amore. Infatti, l’amicizia tra due amanti differisce in modo specifico dall’amicizia tra figlio e genitore: l’amicizia di cui stiamo parlando qui è quella che un uomo deve ai suoi genitori per il fatto di essere stato generato da loro.  
 La risposta alla Terza Obiezione è ovvia.
 
-<span class="atom-split" data-atom="183" data-title="Whether a man ought to love his wife more than his father and mother?" data-chapter="Whether a man ought to love his wife more than his father and mother?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="183" data-title="Whether a man ought to love his wife more than his father and mother?" data-chapter="Whether a man ought to love his wife more than his father and mother?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man ought to love his wife more than his father and mother.
 For no man leaves a thing for another unless he love the latter more. Now it is written (Gn. 2:24)
@@ -11792,7 +11802,7 @@ Risposta all’Obiezione 2: Le parole dell’Apostolo non intendono che un uomo 
 
 Risposta all’Obiezione 3: Esistono anche diversi motivi per cui un uomo ama suo padre; e questi, in un certo senso, cioè riguardo ai valori positivi, sono più importanti di quelli per cui un uomo ama sua moglie; sebbene questi ultimi siano più rilevanti in termini di legame stretto tra i coniugi. Per quanto riguarda l’argomentazione nel senso opposto, bisogna osservare che nella frase citata la particella “poiché” indica non un’uguaglianza nell’amore, ma il motivo che spinge a amare. Il motivo principale per cui un uomo ama sua moglie è il fatto che lei sia unita a lui in carne e ossa.
 
-<span class="atom-split" data-atom="184" data-title="Whether a man ought to love more his benefactor than one he has benefited?" data-chapter="Whether a man ought to love more his benefactor than one he has benefited?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="184" data-title="Whether a man ought to love more his benefactor than one he has benefited?" data-chapter="Whether a man ought to love more his benefactor than one he has benefited?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man ought to love his benefactor more than one he has
 benefited. For [Augustine](/figures/augustine) says (De Catech. Rud. iv): "Nothing will incite another more to love you
@@ -11867,7 +11877,7 @@ Risposta all’Obiezione 2: L’amore del beneficiario verso il benefattore è p
 
 Risposta all’Obiezione 3: Dio ci ama anche più di quanto noi lo amiamo, e i genitori amano i loro figli più di quanto questi li amino. Tuttavia, questo non significa che amiamo tutti coloro che hanno ricevuto del bene da noi più di qualsiasi dei nostri benefattori. Infatti, preferiamo beneficiari come Dio e i nostri genitori, da cui abbiamo ricevuto i favori maggiori, a coloro a cui abbiamo concesso benefici minori.
 
-<span class="atom-split" data-atom="185" data-title="Whether the order of charity endures in heaven?" data-chapter="Whether the order of charity endures in heaven?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="185" data-title="Whether the order of charity endures in heaven?" data-chapter="Whether the order of charity endures in heaven?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the order of charity does not endure in heaven. For [Augustine](/figures/augustine)
 says (De Vera Relig. xlviii): "Perfect charity consists in loving greater goods more, and lesser goods
@@ -11949,7 +11959,7 @@ Risposta all’Obiezione 2: Questo argomento considera l’ordine della carità 
 
 Risposta all’Obiezione 3: Dio sarà, per ciascuno di noi, l’unica ragione del proprio amore, poiché Dio è il bene totale dell’uomo. Infatti, se facessimo l’assurda ipotesi che Dio non fosse il bene dell’uomo, allora Egli non sarebbe la ragione per cui l’uomo dovrebbe amarlo. Pertanto, nell’ordine dell’amore, l’uomo dovrebbe amare se stesso più di ogni altra cosa, dopo Dio.
 
-<span class="atom-split" data-atom="186" data-title="OF THE PRINCIPLE ACT OF CHARITY, WHICH IS TO LOVE (EIGHT ARTICLES)" data-chapter="OF THE PRINCIPLE ACT OF CHARITY, WHICH IS TO LOVE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="186" data-title="OF THE PRINCIPLE ACT OF CHARITY, WHICH IS TO LOVE (EIGHT ARTICLES)" data-chapter="OF THE PRINCIPLE ACT OF CHARITY, WHICH IS TO LOVE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/charity,concepts/theological_virtues"></span>
 
 We must now consider the act of charity, and (1) the principal act of charity, which is to love,
 (2) the other acts or effects which follow from that act.
@@ -11976,7 +11986,7 @@ All’interno della prima categoria esistono otto punti da esaminare:
 (7) Qual è meglio: amare un proprio amico o un proprio nemico?  
 (8) Qual è meglio: amare Dio o il proprio prossimo?
 
-<span class="atom-split" data-atom="187" data-title="Whether to be loved is more proper to charity than to love?" data-chapter="Whether to be loved is more proper to charity than to love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="187" data-title="Whether to be loved is more proper to charity than to love?" data-chapter="Whether to be loved is more proper to charity than to love?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/friendship,concepts/virtue,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It would seem that it is more proper to charity to be loved than to love. For the
 better charity is to be found in those who are themselves better. But those who are better should be
@@ -12042,7 +12052,7 @@ Risposta all’Obiezione 2: Come afferma il Filosofo (Etica, viii, 8), “Gli uo
 
 Risposta all’Obiezione 3: Alcuni amano perché vengono amati, non perché essere amati sia lo scopo del loro amore, ma perché tale amore rappresenta un mezzo per spingere l’uomo ad amare.
 
-<span class="atom-split" data-atom="188" data-title="Whether to love considered as an act of charity is the same as goodwill?" data-chapter="Whether to love considered as an act of charity is the same as goodwill?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="188" data-title="Whether to love considered as an act of charity is the same as goodwill?" data-chapter="Whether to love considered as an act of charity is the same as goodwill?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that to love, considered as an act of charity, is nothing else than
 goodwill. For the Philosopher says (Rhet. ii, 4) that "to love is to wish a person well"; and this is
@@ -12110,7 +12120,7 @@ Risposta all’Obiezione 2: Amare è certamente un atto della volontà orientato
 
 Risposta all’Obiezione 3: Queste cose menzionate dal Filosofo appartengono all’amicizia perché derivano dall’amore che un uomo prova per se stesso, come egli stesso afferma nello stesso passaggio; infatti, quando un uomo compie tutte queste azioni nei confronti del proprio amico, lo fa esattamente come le farebbe per sé stesso: e questo rappresenta appunto quell’unione degli affetti di cui si è parlato.
 
-<span class="atom-split" data-atom="189" data-title="Whether out of charity God ought to be loved for Himself?" data-chapter="Whether out of charity God ought to be loved for Himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="189" data-title="Whether out of charity God ought to be loved for Himself?" data-chapter="Whether out of charity God ought to be loved for Himself?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/four_causes,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that God is loved out of charity, not for Himself but for the sake
 of something else. For Gregory says in a homily (In Evang. xi): "The soul learns from the things
@@ -12182,7 +12192,7 @@ Risposta all’Obiezione 2: La conoscenza di Dio viene effettivamente acquisita 
 
 Risposta all’Obiezione 3: La speranza e la paura inducono alla carità attraverso una determinata disposizione d’animo, come è stato dimostrato sopra (Q[17], A[8]; Q[19], AA[4],7,10).
 
-<span class="atom-split" data-atom="190" data-title="Whether God can be loved immediately in this life?" data-chapter="Whether God can be loved immediately in this life?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="190" data-title="Whether God can be loved immediately in this life?" data-chapter="Whether God can be loved immediately in this life?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that God cannot be loved immediately in this life. For the "unknown
 cannot be loved" as [Augustine](/figures/augustine) says (De Trin. x, 1). Now we do not know God immediately in this
@@ -12297,7 +12307,7 @@ Al contrario, è scritto (Deuteronomio 6:5): “Amare il Signore tuo Dio con tut
 
 Rispondo che, poiché l’amore può essere considerato qualcosa che esiste tra colui che ama e colui che è amato, quando ci chiediamo se Dio possa essere amato completamente, questa domanda può essere intesa in tre modi. Primo: il termine “completamente” si riferisce a ciò che è amato; quindi Dio deve essere amato completamente, poiché l’uomo dovrebbe amare tutto ciò che riguarda Dio. Secondo: il termine “completamente” può essere inteso come relativo al colui che ama; in questo caso anch’egli dovrebbe amare Dio completamente, poiché deve amarlo con tutte le sue forze e dedicargli tutto ciò che possiede, secondo quanto detto in Deuteronomio 6:5: “Amerai il Signore tuo Dio con tutto il tuo cuore”. Terzo: il termine “completamente” può essere inteso come un confronto tra colui che ama e ciò che è amato; tuttavia questo è impossibile, poiché qualcosa è amabile in proporzione alla sua bontà, e Dio è infinitamente buono, quindi infinitamente amabile. Ora, nessuna creatura può amare Dio in modo infinito, poiché ogni potere delle creature, sia naturale che divino, è finito. Questo basta per rispondere alle obiezioni: le prime tre considerano la domanda nel terzo senso, mentre l’ultima la considera nel secondo.
 
-<span class="atom-split" data-atom="191" data-title="Whether in loving God we ought to observe any mode?" data-chapter="Whether in loving God we ought to observe any mode?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="191" data-title="Whether in loving God we ought to observe any mode?" data-chapter="Whether in loving God we ought to observe any mode?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought to observe some mode in loving God. For the notion
 of good consists in mode, species and order, as [Augustine](/figures/augustine) states (De Nat. Boni iii, iv). Now the
@@ -12375,7 +12385,7 @@ Risposta all’Obiezione 2: Come aggiunge Agostino nello stesso passaggio, “la
 
 Risposta all’Obiezione 3: Un affetto il cui oggetto è soggetto al giudizio della ragione dovrebbe essere misurato dalla ragione stessa. Tuttavia l’oggetto dell’amore divino, che è Dio, trascende il giudizio della ragione; pertanto non può essere misurato da essa, ma la supera. Inoltre, non esiste alcuna equivalenza tra gli atti interiori e quelli esteriori di carità. Gli atti interiori di carità hanno carattere di fine, poiché il bene supremo dell’uomo consiste nel legarsi a Dio, come si legge in Salmo 72:28: “È buono per me attaccarmi al mio Dio”; gli atti esteriori, invece, sono mezzi per raggiungere tale fine e quindi devono essere valutati sia in termini di carità che di ragione.
 
-<span class="atom-split" data-atom="192" data-title="Whether it is more meritorious to love an enemy than to love a friend?" data-chapter="Whether it is more meritorious to love an enemy than to love a friend?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="192" data-title="Whether it is more meritorious to love an enemy than to love a friend?" data-chapter="Whether it is more meritorious to love an enemy than to love a friend?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem more meritorious to love an enemy than to love a friend. For it is
 written (Mat. 5:46): "If you love them that love you, what reward shall you have?" Therefore it is
@@ -12446,7 +12456,7 @@ Tuttavia, proprio come lo stesso fuoco agisce con maggiore intensità su ciò ch
 Risposta all’Obiezione 1: Le parole del Nostro Signore devono essere intese nel loro senso stretto: infatti l’amore per i propri amici non è meritevole agli occhi di Dio se lo proviamo soltanto perché sono nostri amici; ciò sembrerebbe valere anche quando amiamo i nostri amici in modo tale da non amare i nostri nemici. D’altra parte, l’amore per i propri amici è meritevole se lo proviamo per amore di Dio, e non soltanto perché sono nostri amici.  
 La risposta alle altre obiezioni risulta evidente da quanto detto nell’articolo: infatti le due argomentazioni successive considerano il motivo per cui si ama, mentre l’ultima affronta la questione dal punto di vista di coloro che vengono amati.
 
-<span class="atom-split" data-atom="193" data-title="Whether it is more meritorious to love one's neighbor than to love God?" data-chapter="Whether it is more meritorious to love one's neighbor than to love God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="193" data-title="Whether it is more meritorious to love one's neighbor than to love God?" data-chapter="Whether it is more meritorious to love one's neighbor than to love God?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is more meritorious to love one's neighbor than to love God.
 For the more meritorious thing would seem to be what the Apostle preferred. Now the Apostle
@@ -12515,7 +12525,7 @@ Risposta all’Obiezione 2: L’amore di un uomo per i suoi amici è talvolta me
 
 Risposta all’Obiezione 3: Il “bene”, più del “difficile”, è legato alla ragione del merito e della virtù. Pertanto, non si può concludere che ciò che è più difficile sia anche più meritevole; ma soltanto ciò che è più difficile e allo stesso tempo migliore.
 
-<span class="atom-split" data-atom="194" data-title="OF JOY (FOUR ARTICLES)" data-chapter="OF JOY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="194" data-title="OF JOY (FOUR ARTICLES)" data-chapter="OF JOY (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues"></span>
 
 WE must now consider the effects which result from the principal act of charity which is love,
 and (1) the interior effects, (2) the exterior effects. As to the first, three things have to be considered:
@@ -12530,7 +12540,7 @@ Under the first head there are four points of inquiry:
 
 Dobbiamo ora considerare gli effetti che derivano dall’atto principale della carità, ovvero dall’amore: (1) gli effetti interiori e (2) quelli esteriori. Per quanto riguarda gli effetti interiori, sono da prendere in considerazione tre aspetti: (1) la gioia, (2) la pace e (3) la misericordia. All’interno di questa categoria esistono altri quattro punti di riflessione: (1) se la gioia sia effettivamente un risultato della carità; (2) se questo tipo di gioia possa coesistere con il dolore; (3) se tale gioia possa essere piena e completa; (4) se essa costituisca davvero una virtù.
 
-<span class="atom-split" data-atom="195" data-title="Whether joy is effected in us by charity?" data-chapter="Whether joy is effected in us by charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="195" data-title="Whether joy is effected in us by charity?" data-chapter="Whether joy is effected in us by charity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that joy is not effected in us by charity. For the absence of what
 we love causes sorrow rather than joy. But God, Whom we love by charity, is absent from us, so
@@ -12596,7 +12606,7 @@ Risposta all’Obiezione 2: Il lutto che merita felicità riguarda quelle cose c
 
 Risposta all’Obiezione 3: La gioia spirituale riguardo a Dio può manifestarsi in due modi. In primo luogo, quando ci rallegriamo del bene divino considerato in sé stesso; in secondo luogo, quando ci rallegriamo del bene divino che noi stessi possediamo o partecipiamo. La prima forma di gioia è la più nobile e deriva principalmente dalla carità; la seconda forma, invece, deriva anche dalla speranza, che ci fa attendere con ansia il godimento del bene divino, anche se tale godimento, sia perfetto che imperfetto, viene ottenuto nella misura della nostra carità.
 
-<span class="atom-split" data-atom="196" data-title="Whether the spiritual joy, which results from charity, is compatible with an admixture of sorrow?" data-chapter="Whether the spiritual joy, which results from charity, is compatible with an admixture of sorrow?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="196" data-title="Whether the spiritual joy, which results from charity, is compatible with an admixture of sorrow?" data-chapter="Whether the spiritual joy, which results from charity, is compatible with an admixture of sorrow?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the spiritual joy that results from charity is compatible with
 an admixture of sorrow. For it belongs to charity to rejoice in our neighbor's good, according to 1
@@ -12660,7 +12670,7 @@ Risposta all’Obiezione 2: I nostri peccati creano una distanza tra noi e Dio, 
 
 Risposta all’Obiezione 3: Sebbene in questa condizione infelice partecipiamo, in un certo modo, al Bene Divino attraverso la conoscenza e l’amore, tuttavia l’infelicità di questa vita rappresenta un ostacolo a una partecipazione perfetta al Bene Divino; pertanto proprio questo dolore, che fa sì che un uomo si addolori per il ritardo della gloria, è legato a tale impedimento nella partecipazione al Bene Divino.
 
-<span class="atom-split" data-atom="197" data-title="Whether the spiritual joy which proceeds from charity, can be filled?" data-chapter="Whether the spiritual joy which proceeds from charity, can be filled?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="197" data-title="Whether the spiritual joy which proceeds from charity, can be filled?" data-chapter="Whether the spiritual joy which proceeds from charity, can be filled?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/charity,concepts/predestination"></span>
 
 Objection 1: It would seem that the spiritual joy which proceeds from charity cannot be filled.
 For the more we rejoice in God, the more is our joy in Him filled. But we can never rejoice in Him
@@ -12732,7 +12742,7 @@ Risposta all’Obiezione 2: Quando ciascuno raggiungerà la felicità, avrà rag
 
 Risposta all’Obiezione 3: La comprensione indica una completezza della conoscenza riguardo alla cosa conosciuta, in modo che essa venga appresa nella misura in cui è possibile farlo. Tuttavia, esiste anche una completezza della conoscenza riguardo al conoscitore, proprio come abbiamo detto a proposito della gioia. Per questo motivo l’Apostolo dice (Colossesi 1:9): “Affinché siate colmi della conoscenza della sua volontà, in tutta saggezza e intelletto spirituale”.
 
-<span class="atom-split" data-atom="198" data-title="Whether joy is a virtue?" data-chapter="Whether joy is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="198" data-title="Whether joy is a virtue?" data-chapter="Whether joy is a virtue?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that joy is a virtue. For vice is contrary to virtue. Now sorrow is
 set down as a vice, as in the case of sloth and envy. Therefore joy also should be accounted a virtue.
@@ -12791,7 +12801,7 @@ Risposta all’Obiezione 2: La speranza deriva dall’amore, proprio come la gio
 
 Risposta all’Obiezione 3: La Legge prescrive la gioia come un atto di carità, sebbene non sia il primo atto di carità in sé.
 
-<span class="atom-split" data-atom="199" data-title="OF PEACE (FOUR ARTICLES)" data-chapter="OF PEACE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="199" data-title="OF PEACE (FOUR ARTICLES)" data-chapter="OF PEACE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider Peace, under which head there are four points of inquiry:
 (1) Whether peace is the same as concord?
@@ -12807,7 +12817,7 @@ Dobbiamo ora considerare la Pace; in questo ambito vi sono quattro punti da esam
 (3) Se la pace sia un effetto della carità;  
 (4) Se la pace sia una virtù.
 
-<span class="atom-split" data-atom="200" data-title="Whether peace is the same as concord?" data-chapter="Whether peace is the same as concord?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="200" data-title="Whether peace is the same as concord?" data-chapter="Whether peace is the same as concord?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that peace is the same as concord. For [Augustine](/figures/augustine) says (De Civ.
 Dei xix, 13): "Peace among men is well ordered concord." Now we are speaking here of no other
@@ -12875,7 +12885,7 @@ Risposta all’Obiezione 2: Se un uomo consente alla stessa cosa insieme a un al
 
 Risposta all’Obiezione 3: Due tipi di dissensi sono contrari alla pace: il dissenso tra una persona stessa e se stessa, e il dissenso tra due persone diverse. Solo il secondo tipo di dissenso è contrario alla concordia.
 
-<span class="atom-split" data-atom="201" data-title="Whether all things desire peace?" data-chapter="Whether all things desire peace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="201" data-title="Whether all things desire peace?" data-chapter="Whether all things desire peace?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that not all things desire peace. For, according to Dionysius (Div.
 Nom. xi), peace "unites consent." But there cannot be unity of consent in things which are devoid
@@ -12933,7 +12943,7 @@ placed peace in thy borders." The other is imperfect peace, which may be had in 
 though the chief movement of the soul finds rest in God, yet there are certain things within and
 without which disturb the peace.
 
-<span class="atom-split" data-atom="202" data-title="Whether peace is the proper effect of charity?" data-chapter="Whether peace is the proper effect of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="202" data-title="Whether peace is the proper effect of charity?" data-chapter="Whether peace is the proper effect of charity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that peace is not the proper effect of charity. For one cannot have
 charity without sanctifying grace. But some have peace who have not sanctifying grace, thus
@@ -13001,7 +13011,7 @@ Risposta all’Obiezione 2: Come afferma il Filosofo (Etica, IX, 6), gli amici n
 
 Risposta all’Obiezione 3: La pace è “l’opera della giustizia” in modo indiretto, poiché la giustizia elimina gli ostacoli alla pace; ma è l’opera della carità in modo diretto, poiché la carità, per sua stessa natura, porta alla pace. Infatti, l’amore è “una forza unificante”, come afferma Dionigi (Divinum Nomina iv); e la pace rappresenta proprio quell’unione delle inclinazioni umane.
 
-<span class="atom-split" data-atom="203" data-title="Whether peace is a virtue?" data-chapter="Whether peace is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="203" data-title="Whether peace is a virtue?" data-chapter="Whether peace is a virtue?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that peace is a virtue. For nothing is a matter of precept, unless it
 be an act of virtue. But there are precepts about keeping peace, for example: "Have peace among
@@ -13044,7 +13054,7 @@ We must now go on to consider Mercy, under which head there are four points of i
 (3) Whether mercy is a virtue?
 (4) Whether it is the greatest of virtues?
 
-<span class="atom-split" data-atom="204" data-title="Whether evil is properly the motive of mercy?" data-chapter="Whether evil is properly the motive of mercy?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="204" data-title="Whether evil is properly the motive of mercy?" data-chapter="Whether evil is properly the motive of mercy?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that, properly speaking, evil is not the motive of mercy. For, as
 shown above (Q[19], A[1]; FS, Q[79], A[1], ad 4; FP, Q[48] , A[6]), fault is an evil rather than
@@ -13124,7 +13134,7 @@ Risposta all’Obiezione 2: Poiché la pietà è una forma di compassione per la
 
 Risposta all’Obiezione 3: Proprio come il piacere deriva dalla speranza e dal ricordo di cose buone, così anche la tristezza sorge dalla prospettiva o dal ricordo di cose cattive; sebbene non con la stessa intensità quando tali cose sono presenti ai sensi. Pertanto, i segni del male ci spingono alla compassione, nella misura in cui rappresentano, come se fossero presenti, il male che suscita la nostra pietà.
 
-<span class="atom-split" data-atom="205" data-title="Whether the reason for taking pity is a defect in the person who pities?" data-chapter="Whether the reason for taking pity is a defect in the person who pities?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="205" data-title="Whether the reason for taking pity is a defect in the person who pities?" data-chapter="Whether the reason for taking pity is a defect in the person who pities?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the reason for taking pity is not a defect in the person who
 takes pity. For it is proper to God to be merciful, wherefore it is written (Ps. 144:9): "His tender
@@ -13201,7 +13211,7 @@ Risposta all’Obiezione 2: Coloro che già si trovano in condizioni di estremo 
 
 Risposta all’Obiezione 3: Coloro che sono inclini al disprezzo, sia perché sono stati a loro volta disprezzati, sia perché desiderano disprezzare gli altri, vengono spinti dall’[ira](/concepts/anger) e dal coraggio, passioni proprie dell’uomo, le quali stimolano lo spirito umano ad affrontare imprese difficili. Per questo motivo fanno sì che una persona ritenga di dover soffrire in futuro; quindi, mentre sono animati da tali sentimenti, diventano spietati, come afferma il Proverbo 27:4: “L’ira non conosce pietà, né la furia si placa quando esplode”. Per lo stesso motivo, i vanitosi sono privi di compassione: disprezzano gli altri e li considerano malvagi, quindi ritengono che le loro sofferenze siano meritate. Ecco perché Gregorio dice (Hom. in Evang. xxxiv) che la “falsa pietà” dei vanitosi “non è compassionevole, ma piena di disprezzo”.
 
-<span class="atom-split" data-atom="206" data-title="Whether mercy is a virtue?" data-chapter="Whether mercy is a virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="206" data-title="Whether mercy is a virtue?" data-chapter="Whether mercy is a virtue?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that mercy is not a virtue. For the chief part of virtue is choice as
 the Philosopher states (Ethic. ii, 5). Now choice is "the desire of what has been already counselled"
@@ -13285,7 +13295,7 @@ Risposta all’Obiezione 3: La gioia e la pace non aggiungono nulla all’aspett
 
 Risposta all’Obiezione 4: La misericordia, considerata come virtù, è una virtù morale relativa alle passioni; essa si riduce al concetto di “nemesi”, poiché “entrambe derivano dallo stesso carattere” (Retorica ii, 9). Ora, il Filosofo presenta queste pratiche non come virtù, ma come passioni, poiché, anche in quanto passioni, sono degne di lode. Tuttavia, nulla impedisce che tali pratiche derivino da un qualche “habito volontario”; in tal caso, assumono il carattere di una virtù.
 
-<span class="atom-split" data-atom="207" data-title="Whether mercy is the greatest of the virtues?" data-chapter="Whether mercy is the greatest of the virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="207" data-title="Whether mercy is the greatest of the virtues?" data-chapter="Whether mercy is the greatest of the virtues?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/virtue"></span>
 
 Objection 1: It would seem that mercy is the greatest of the virtues. For the [worship](/concepts/religion) of God
 seems a most virtuous act. But mercy is preferred before the worship of God, according to Osee
@@ -13352,7 +13362,7 @@ Risposta all’Obiezione 2: L’intera essenza della religione cristiana consist
 
 Risposta all’Obiezione 3: La carità ci assimila a Dio unendoci a Lui attraverso il legame dell’amore; per questo motivo supera la misericordia, che ci accomuna a Dio soltanto in termini di azioni simili.
 
-<span class="atom-split" data-atom="208" data-title="OF BENEFICENCE (FOUR ARTICLES)" data-chapter="OF BENEFICENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="208" data-title="OF BENEFICENCE (FOUR ARTICLES)" data-chapter="OF BENEFICENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the outward acts or effects of charity, (1) Beneficence, (2) Almsdeeds,
 which are a part of beneficence, (3) Fraternal correction, which is a kind of alms.
@@ -13371,7 +13381,7 @@ All’interno della prima categoria esistono quattro punti da esaminare:
 (3) Se dovremmo essere ancora più generosi con coloro che sono strettamente legati a noi;  
 (4) Se la benevolenza rappresenti una virtù specifica.
 
-<span class="atom-split" data-atom="209" data-title="Whether beneficence is an act of charity?" data-chapter="Whether beneficence is an act of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="209" data-title="Whether beneficence is an act of charity?" data-chapter="Whether beneficence is an act of charity?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/friendship,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that beneficence is not an act of charity. For charity is chiefly
 directed to God. Now we cannot benefit God, according to Job 35:7: "What shalt thou give Him?
@@ -13437,7 +13447,7 @@ Risposta all’Obiezione 2: Nella concessione di doni bisogna considerare due as
 
 Risposta all’Obiezione 3: Proprio come l’amicizia o la carità vedono, nel beneficio concesso, l’aspetto generale del bene, così anche la giustizia vi vede l’aspetto del debito, mentre la pietà considera il sollievo della sofferenza o del difetto.
 
-<span class="atom-split" data-atom="210" data-title="Whether we ought to do good to all?" data-chapter="Whether we ought to do good to all?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="210" data-title="Whether we ought to do good to all?" data-chapter="Whether we ought to do good to all?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,figures/augustine"></span>
 
 Objection 1: It would seem that we are not bound to do good to all. For [Augustine](/figures/augustine) says (De
 Doctr. Christ. i, 28) that we "are unable to do good to everyone." Now virtue does not incline one
@@ -13479,7 +13489,7 @@ urgent need of succor lest it fail, we are bound to help them: for instance, if 
 death through hunger or thirst, or suffer some like distress, unless this be according to the order of
 justice.
 
-<span class="atom-split" data-atom="211" data-title="Whether we ought to do good to those rather who are more closely united to us?" data-chapter="Whether we ought to do good to those rather who are more closely united to us?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="211" data-title="Whether we ought to do good to those rather who are more closely united to us?" data-chapter="Whether we ought to do good to those rather who are more closely united to us?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we are nor bound to do good to those rather who are more
 closely united to us. For it is written (Lk. 14:12): "When thou makest a dinner or a supper, call not
@@ -13565,7 +13575,7 @@ urgency it would be lawful to abandon one's children rather than one's parents, 
 it is by no means lawful, on account of the obligation we lie under towards them for the benefits
 we have received from them, as the Philosopher states (Ethic. iii, 14).
 
-<span class="atom-split" data-atom="212" data-title="Whether beneficence is a special virtue?" data-chapter="Whether beneficence is a special virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="212" data-title="Whether beneficence is a special virtue?" data-chapter="Whether beneficence is a special virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/virtue,concepts/theological_virtues,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that beneficence is a special virtue. For precepts are directed to
 virtue, since lawgivers purpose to make men virtuous (Ethic. i 9,13; ii, 1). Now beneficence and
@@ -13615,7 +13625,7 @@ Risposta all’Obiezione 1: I precetti vengono dati non riguardo alle abitudini,
 
 Risposta all’Obiezione 2: Proprio come tutti i benefici che riceviamo dal nostro prossimo, se considerati nel loro aspetto comune di bene, sono da attribuire all’amore, allo stesso modo tutte le offese, se viste nel loro aspetto comune di male, sono da attribuire all’odio. Tuttavia, se consideriamo queste stesse cose sotto determinati aspetti particolari di bene o di male, possiamo ricondurle a specifiche virtù o vizi; ed è anche in questo modo che esistono diversi tipi di benefici. Pertanto, la risposta alla Terza Obiezione risulta evidente.
 
-<span class="atom-split" data-atom="213" data-title="OF ALMSDEEDS (TEN ARTICLES)" data-chapter="OF ALMSDEEDS (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="213" data-title="OF ALMSDEEDS (TEN ARTICLES)" data-chapter="OF ALMSDEEDS (TEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider almsdeeds, under which head there are ten points of inquiry:
 (1) Whether almsgiving is an act of charity?
@@ -13643,7 +13653,7 @@ Dobbiamo ora considerare le opere di carità, sotto cui rientrano dieci punti di
 (9) A chi dovremmo darla;  
 (10) Come dovrebbero essere donate le elemosine.
 
-<span class="atom-split" data-atom="214" data-title="Whether almsgiving is an act of charity?" data-chapter="Whether almsgiving is an act of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="214" data-title="Whether almsgiving is an act of charity?" data-chapter="Whether almsgiving is an act of charity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that almsgiving is not an act of charity. For without charity one
 cannot do acts of charity. Now it is possible to give alms without having charity, according to 1
@@ -13716,7 +13726,7 @@ Risposta all’Obiezione 2: Nulla impedisce che l’atto virtuoso compiuto in mo
 
 Risposta all’Obiezione 4: La beneficenza rientra nella categoria della generosità, poiché la generosità elimina gli ostacoli che potrebbero impedire tale atto, ostacoli derivanti da un eccessivo amore per le ricchezze, il cui risultato è che si attacca a esse più di quanto sia giusto.
 
-<span class="atom-split" data-atom="215" data-title="Whether the different kinds of almsdeeds are suitably enumerated?" data-chapter="Whether the different kinds of almsdeeds are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="215" data-title="Whether the different kinds of almsdeeds are suitably enumerated?" data-chapter="Whether the different kinds of almsdeeds are suitably enumerated?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the different kinds of almsdeeds are unsuitably enumerated.
 For we reckon seven corporal almsdeeds, namely, to feed the hungry, to give drink to the thirsty,
@@ -13838,7 +13848,7 @@ Risposta all’Obiezione 3: La rimproverazione del peccatore, per quanto riguard
 
 Risposta all’Obiezione 4: L’ignoranza non è sempre un difetto, ma soltanto quando riguarda ciò che si dovrebbe conoscere; colmare tale ignoranza attraverso l’insegnamento rappresenta infatti una forma di carità. Tuttavia, nel farlo, dobbiamo tenere conto delle circostanze specifiche della persona, del luogo e del tempo, proprio come avviene in altri atti virtuosi.
 
-<span class="atom-split" data-atom="216" data-title="Whether corporal alms are of more account than spiritual alms?" data-chapter="Whether corporal alms are of more account than spiritual alms?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="216" data-title="Whether corporal alms are of more account than spiritual alms?" data-chapter="Whether corporal alms are of more account than spiritual alms?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that corporal alms are of more account than spiritual alms. For it
 is more praiseworthy to give an alms to one who is in greater want, since an almsdeed is to be
@@ -13913,7 +13923,7 @@ Risposta all’Obiezione 2: La compensazione non sminuisce il merito e la lode s
 
 Risposta all’Obiezione 3: Il merito di chi dona dipende da ciò su cui la volontà del destinatario si fonda in modo ragionevole, e non da ciò su cui essa si fonda quando tale volontà è eccessiva o irragionevole.
 
-<span class="atom-split" data-atom="217" data-title="Whether corporal almsdeeds have a spiritual effect?" data-chapter="Whether corporal almsdeeds have a spiritual effect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="217" data-title="Whether corporal almsdeeds have a spiritual effect?" data-chapter="Whether corporal almsdeeds have a spiritual effect?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that corporal almsdeeds have not a spiritual effect. For no effect
 exceeds its cause. But spiritual goods exceed corporal goods. Therefore corporal almsdeeds have
@@ -13935,7 +13945,7 @@ I answer that, Corporal almsdeeds may be considered in three ways. First, with r
 substance, and in this way they have merely a corporal effect, inasmuch as they supply our neighbor's
 corporal needs. Secondly, they may be considered with regard to their cause, in so far as a man
 gives a corporal alms out of love for God and his neighbor, and in this respect they bring forth a
-spiritual fruit, according to Ecclus. 29:13, 14: "Lose thy money for thy brother . . . place thy treasure
+spiritual fruit, according to Ecclus. 29:13, 14: "Lose thy [money](/concepts/money) for thy brother . . . place thy treasure
 in the commandments of the Most High, and it shall bring thee more profit than gold."
 Thirdly, with regard to the effect, and in this way again, they have a spiritual fruit, inasmuch
 as our neighbor, who is succored by a corporal alms, is moved to pray for his benefactor; wherefore
@@ -13970,7 +13980,7 @@ Risposta all’Obiezione 2: Chi dona l’elemosina non ha l’intenzione di acqu
 
 Risposta all’Obiezione 3: La vedova che ha donato meno in termini di quantità, ha donato di più in termini di proporzione; e da ciò deduciamo che la fervore della sua carità, da cui derivano l’efficacia spirituale delle opere di misericordia materiali, fosse maggiore.
 
-<span class="atom-split" data-atom="218" data-title="Whether almsgiving is a matter of precept?" data-chapter="Whether almsgiving is a matter of precept?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="218" data-title="Whether almsgiving is a matter of precept?" data-chapter="Whether almsgiving is a matter of precept?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that almsgiving is not a matter of precept. For the counsels are
 distinct from the precepts. Now almsgiving is a matter of counsel, according to Dan. 4:24: "Let my
@@ -14034,7 +14044,7 @@ you acknowledge them," viz. your temporal goods, "as coming from God, is He unju
 apportions them unequally? Why are you rich while another is poor, unless it be that you may have
 the merit of a good stewardship, and he the reward of patience? It is the hungry man's bread that
 you withhold, the naked man's cloak that you have stored away, the shoe of the barefoot that you
-have left to rot, the money of the needy that you have buried underground: and so you injure as
+have left to rot, the [money](/concepts/money) of the needy that you have buried underground: and so you injure as
 many as you might help." Ambrose expresses himself in the same way.
 
 Reply to Objection 3: There is a time when we sin mortally if we omit to give alms; on the
@@ -14074,7 +14084,7 @@ Risposta all’Obiezione 3: Esiste un momento in cui commettiamo un peccato mort
 
 Risposta all’Obiezione 4: Qualsiasi aiuto venga fornito al nostro prossimo si riduce, in realtà, al precetto di onorare i nostri genitori. È così che l’Apostolo lo interpreta (1 Timoteo 4:8), dove dice: “La pietà è utile in ogni cosa, poiché promette la vita presente e quella futura”. Egli afferma ciò perché il precetto di onorare i genitori contiene proprio questa promessa: “Affinché tu viva a lungo sulla terra” (Esodo 20:12); inoltre, la pietà include ogni forma di carità. [*“Pietas”: da qui deriva la parola inglese “Piety”. Si veda anche l’informazione Q[101], A[2].*]
 
-<span class="atom-split" data-atom="219" data-title="Whether one ought to give alms out of what one needs?" data-chapter="Whether one ought to give alms out of what one needs?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="219" data-title="Whether one ought to give alms out of what one needs?" data-chapter="Whether one ought to give alms out of what one needs?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one ought not to give alms out of what one needs. For the
 order of charity should be observed not only as regards the effect of our benefactions but also as
@@ -14136,7 +14146,7 @@ Al contrario, il nostro Signore disse (Matteo 19:21): “Se vuoi essere perfetto
 
 Rispondo che una cosa è necessaria in due modi: innanzitutto, perché senza di essa qualcosa diventa impossibile; sarebbe assolutamente errato donare ciò che è essenziale per noi in questo senso. Ad esempio, se una persona si trovasse di fronte a un’emergenza e avesse soltanto quanto basta per mantenersi sé stessa e i propri figli o altre persone a cui è responsabile, donare ciò che le è necessario significherebbe gettare via la propria vita e quella degli altri. Tuttavia, dico questo senza pregiudicare casi particolari in cui, privandosi di ciò che è essenziale, si possa aiutare una persona importante o sostenere l’Chiesa o lo Stato, poiché sarebbe un atto meritevole rischiare la propria vita e quella delle persone a cui si è responsabili per il bene comune. In secondo luogo, una cosa viene considerata necessaria quando senza di essa una persona non può vivere in modo conforme al proprio rango sociale, né per sé stessa né per coloro di cui ha cura. Il concetto di “necessario”, inteso in questo senso, non è fisso: si potrebbe aggiungere molto ai beni di una persona senza superare i suoi bisogni, oppure toglierle molto e comunque lei avrà abbastanza per vivere dignitosamente secondo il proprio rango. Pertanto, è giusto donare ciò che rientra in questa categoria di “necessario”; si tratta non di un dovere, ma di una raccomandazione. Tuttavia, sarebbe eccessivo privarsi delle proprie risorse al punto che il resto non fosse sufficiente per vivere in modo conforme al proprio status sociale e alle normali esigenze della vita: nessuno dovrebbe vivere in modo indegno. Esistono tuttavia tre eccezioni a questa regola: la prima si verifica quando una persona cambia stato di vita, ad esempio entrando in religione, poiché in tal caso dona tutti i propri beni per Cristo; la seconda quando ciò che si rinuncia, sebbene necessario per vivere dignitosamente, può essere facilmente recuperato senza causare gravi disagi; la terza quando si trova di fronte a estrema povertà o a un bisogno urgente del bene comune. In tali casi, sembrerebbe meritevole trascurare le esigenze proprie per soddisfare un bisogno più grande. Le obiezioni sollevate possono essere facilmente risolte sulla base di quanto detto finora.
 
-<span class="atom-split" data-atom="220" data-title="Whether one may give alms out of ill-gotten goods?" data-chapter="Whether one may give alms out of ill-gotten goods?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="220" data-title="Whether one may give alms out of ill-gotten goods?" data-chapter="Whether one may give alms out of ill-gotten goods?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one may give alms out of ill-gotten goods. For it is written
 (Lk. 16:9): "Make unto you friends of the mammon of iniquity." Now mammon signifies riches.
@@ -14212,7 +14222,7 @@ to another, and give alms thereof; or even take something if there be no other w
 one who is in need. If however this be possible without danger, he must ask the owner's consent,
 and then succor the poor man who is in extreme necessity.
 
-<span class="atom-split" data-atom="221" data-title="Whether one who is under another's power can give alms?" data-chapter="Whether one who is under another's power can give alms?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="221" data-title="Whether one who is under another's power can give alms?" data-chapter="Whether one who is under another's power can give alms?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one who is under another's power can give alms. For religious
 are under the power of their prelates to whom they have vowed obedience. Now if it were unlawful
@@ -14298,7 +14308,7 @@ Risposta all’Obiezione 2: Una moglie, che possiede altri beni oltre al dote de
 
 Risposta all’Obiezione 3: Ciò che appartiene ai figli appartiene anche al padre; pertanto il figlio non può dare lode, se non in quantità così esigua da potersi presumere che il padre sia d’accordo; a meno che, forse, il padre non autorizzi il proprio figlio a disporre di una determinata proprietà. Lo stesso vale per i servitori. Quindi la risposta all’Quarta Obiezione è chiara.
 
-<span class="atom-split" data-atom="222" data-title="Whether one ought to give alms to those rather who are more closely united to us?" data-chapter="Whether one ought to give alms to those rather who are more closely united to us?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="222" data-title="Whether one ought to give alms to those rather who are more closely united to us?" data-chapter="Whether one ought to give alms to those rather who are more closely united to us?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one ought not to give alms to those rather who are more closely
 united to us. For it is written (Ecclus. 12:4,6): "Give to the merciful and uphold not the sinner . . .
@@ -14366,7 +14376,7 @@ Risposta all’Obiezione 2: Le opere di carità meritano una ricompensa eterna p
 
 Risposta all’Obiezione 3: Poiché le opere di carità sono atti di misericordia, così come un uomo, in senso proprio, non prova pietà per se stesso, ma solo attraverso una sorta di confronto, come detto sopra (Q[30], AA[1],2), allo stesso modo nessun uomo, in senso proprio, dona qualcosa a sé stesso, se non agisce nel nome di un altro; pertanto, quando un uomo viene incaricato di distribuire elemosine, può prendere qualcosa per sé stesso, se ne ha bisogno, sulla stessa base su cui dona agli altri.
 
-<span class="atom-split" data-atom="223" data-title="Whether alms should be given in abundance?" data-chapter="Whether alms should be given in abundance?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="223" data-title="Whether alms should be given in abundance?" data-chapter="Whether alms should be given in abundance?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that alms should not be given in abundance. For we ought to give
 alms to those chiefly who are most closely connected with us. But we ought not to give to them in
@@ -14436,7 +14446,7 @@ Risposta all’Obiezione 2: Il passaggio citato riguarda l’abbondanza di elemo
 Risposta all’Obiezione 3: Nel passaggio citato, le parole “non affinché gli altri possano godere di comodità o ristoro” si riferiscono a quella quantità eccessiva di elemosine che supera i bisogni del destinatario; in tali casi, donare non dovrebbe avere lo scopo di garantire una vita agiata, ma piuttosto di alleviare la sua povertà. Tuttavia, è necessario applicare criteri di discrezione, tenendo conto delle diverse condizioni delle persone: alcune, infatti, sono cresciute in ambienti privilegiati e hanno bisogno di cibo e vestiti più raffinati. Per questo Ambrogio afferma (De Officiis I, 30): “Quando doni un’elemosina a qualcuno, devi prendere in considerazione la sua età, la sua debolezza, talvolta anche l’onore che deriva dalla sua nobile origine, e magari il fatto che sia caduto nella povertà senza alcuna colpa propria.”  
 Per quanto riguarda le parole successive, “e tu stesso ti carichi di oneri”, esse si riferiscono all’eccesso di generosità da parte del donatore. Tuttavia, come spiega un commento su quel medesimo passaggio, “Ambrogio lo afferma non perché sia meglio donare in abbondanza, ma perché teme per i più deboli e li esorta a donare proprio per evitare che manchi loro qualcosa”.
 
-<span class="atom-split" data-atom="224" data-title="OF FRATERNAL CORRECTION (EIGHT ARTICLES)" data-chapter="OF FRATERNAL CORRECTION (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="224" data-title="OF FRATERNAL CORRECTION (EIGHT ARTICLES)" data-chapter="OF FRATERNAL CORRECTION (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider Fraternal Correction, under which head there are eight points of inquiry:
 (1) Whether fraternal correction is an act of charity?
@@ -14460,7 +14470,7 @@ Dobbiamo ora considerare la “Correzione Fraternalmente Offerta”, sotto la qu
 (7) Se la correzione segreta debba precedere la denuncia ufficiale;  
 (8) Se sia necessario chiamare testimoni prima di procedere con la denuncia.
 
-<span class="atom-split" data-atom="225" data-title="Whether fraternal correction is an act of charity?" data-chapter="Whether fraternal correction is an act of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="225" data-title="Whether fraternal correction is an act of charity?" data-chapter="Whether fraternal correction is an act of charity?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/justice,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fraternal correction is not an act of charity. For a gloss on Mat.
 18:15, "If thy brother shall offend against thee," says that "a man should reprove his brother out of
@@ -14532,7 +14542,7 @@ Risposta all’Obiezione 2: Secondo il Filosofo (Etica VI, 12), la prudenza rego
 
 Risposta all’Obiezione 3: La correzione fraterna non è contraria alla tolleranza verso i deboli; anzi, ne deriva. Infatti, un uomo tollera un peccatore nella misura in cui questa tolleranza non lo disturba e in cui mantiene per lui una buona volontà; di conseguenza, si sforza di farlo migliorare.
 
-<span class="atom-split" data-atom="226" data-title="Whether fraternal correction is a matter of precept?" data-chapter="Whether fraternal correction is a matter of precept?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="226" data-title="Whether fraternal correction is a matter of precept?" data-chapter="Whether fraternal correction is a matter of precept?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fraternal correction is not a matter of precept. For nothing
 impossible is a matter of precept, according to the saying of Jerome [*Pelagius, Expos. Symb. ad
@@ -14624,7 +14634,7 @@ on the lives of others, which is against the saying of Prov. 24:19: "Lie not in 
 wickedness in the house of the just, nor spoil his rest." It is evident from this that there is no need
 for religious to leave their cloister in order to rebuke evil-doers.
 
-<span class="atom-split" data-atom="227" data-title="Whether fraternal correction belongs only to prelates?" data-chapter="Whether fraternal correction belongs only to prelates?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="227" data-title="Whether fraternal correction belongs only to prelates?" data-chapter="Whether fraternal correction belongs only to prelates?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/charity,concepts/justice,figures/augustine"></span>
 
 Objection 1: It would seem that fraternal correction belongs to prelates alone. For Jerome
 [*Origen, Hom. vii in Joan.] says: "Let priests endeavor to fulfil this saying of the Gospel: 'If thy
@@ -14685,7 +14695,7 @@ Risposta all’Obiezione 2: Proprio come colui che dispone dei mezzi necessari p
 
 Risposta all’Obiezione 3: Anche nell’ordine fisico, certe cose agiscono reciprocamente l’una sull’altra, poiché in qualche modo sono superiori l’una all’altra; ciascuna, infatti, è in parte “in atto” e in parte “in potenzialità” rispetto all’altra. Allo stesso modo, un uomo può correggere un altro quando possiede un giudizio sano su una questione in cui quest’ultimo commette errori, anche se non è necessariamente superiore a lui sotto ogni aspetto.
 
-<span class="atom-split" data-atom="228" data-title="Whether a mann is bound to correct his prelate?" data-chapter="Whether a mann is bound to correct his prelate?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="228" data-title="Whether a mann is bound to correct his prelate?" data-chapter="Whether a mann is bound to correct his prelate?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no man is bound to correct his prelate. For it is written (Ex.
 19:12): "The beast that shall touch the mount shall be stoned," [*Vulg.: 'Everyone that shall touch
@@ -14757,7 +14767,7 @@ Risposta all’Obiezione 2: Resistere pubblicamente a qualcuno va oltre i limiti
 
 Risposta all’Obiezione 3: Presumere di essere semplicemente migliori del proprio vescovo sembrerebbe un segno di presuntuoso orgoglio; tuttavia, non c’è alcuna presunzione nel ritenersi migliori in qualche ambito, poiché, in questa vita, nessuno è privo di difetti. Dobbiamo anche ricordare che quando una persona rimprovera caritatevolmente il proprio vescovo, ciò non significa affatto che si consideri migliore di lui, ma semplicemente che offre il proprio aiuto a colui che, “essendo in una posizione più elevata tra voi, è quindi esposto a maggior pericolo”, come osserva Agostino nella sua Regola citata sopra.
 
-<span class="atom-split" data-atom="229" data-title="Whether a sinner ought to reprove a wrongdoer?" data-chapter="Whether a sinner ought to reprove a wrongdoer?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="229" data-title="Whether a sinner ought to reprove a wrongdoer?" data-chapter="Whether a sinner ought to reprove a wrongdoer?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a sinner ought to reprove a wrongdoer. For no man is excused
 from obeying a precept by having committed a sin. But fraternal correction is a matter of precept,
@@ -14827,7 +14837,7 @@ In terzo luogo, c’è il problema dell’orgoglio del rimproveratore: quando un
 Da ciò si deduce che, se un peccatore rimprovera un altro con umiltà, non commette peccato né si addossa ulteriori condanne su di sé, anche se questo lo rende degno di essere giudicato sia dalla coscienza altrui che dalla propria per il peccato precedente.  
 Ecco quindi chiare le risposte alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="230" data-title="Whether one ought to forbear from correcting someone, through fear lest he become worse?" data-chapter="Whether one ought to forbear from correcting someone, through fear lest he become worse?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="230" data-title="Whether one ought to forbear from correcting someone, through fear lest he become worse?" data-chapter="Whether one ought to forbear from correcting someone, through fear lest he become worse?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one ought not to forbear from correcting someone through
 fear lest he become worse. For sin is weakness of the soul, according to Ps. 6:3: "Have mercy on
@@ -14894,7 +14904,7 @@ Risposta all’Obiezione 2: La correzione fraterna è un atto legato ai precetti
 
 Risposta all’Obiezione 3: Quello che è volto a raggiungere un fine diventa buono proprio perché è diretto verso quel fine. Pertanto, ogni volta che una correzione fraterna ostacola il raggiungimento di tale fine – ovvero la correzione del nostro fratello – essa non è più considerata buona. Quindi, quando si omette una simile correzione, non viene meno il bene; anzi, si evita che possa accadere il male.
 
-<span class="atom-split" data-atom="231" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (parte 1)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="231" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (parte 1)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the precept of fraternal correction does not demand that a
 private admonition should precede denunciation. For, in works of charity, we should above all
@@ -15023,7 +15033,7 @@ Risposta all’Obiezione 3: Quando c’è pericolo per un gran numero di persone
 
 Risposta all’Obiezione 4: Le dichiarazioni fatte nel contesto religioso riguardano solitamente piccoli difetti che non influenzano la reputazione di una persona; pertanto costituiscono piuttosto un promemoria di errori dimenticati, piuttosto che accuse o denunce. Tuttavia, se tali dichiarazioni dovessero avere lo scopo di danneggiare la reputazione di un nostro fratello, ciò sarebbe contrario al precetto del Signore nostro.
 
-<span class="atom-split" data-atom="232" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (parte 2)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="232" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (parte 2)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 5: A prelate is not to be obeyed contrary to a Divine precept, according to
 Acts 5:29: "We ought to obey God rather then men." Therefore when a prelate commands anyone
@@ -15041,7 +15051,7 @@ a judge, whether secular or ecclesiastical, can bind a man under oath to tell th
 
 Risposta all’Obiezione 5: Un prelato non deve essere obbedito in contrasto con un precetto divino, secondo quanto si legge in Atti 5:29: “Dobbiamo obbedire a Dio e non agli uomini”. Pertanto, quando un prelato ordina a qualcuno di rivelargli informazioni che sa essere errate o bisognose di correzione, tale comando, inteso correttamente, contribuisce alla tutela dell’ordine della correzione fraterna, sia che si rivolga a tutti in generale sia a un individuo specifico. D’altra parte, se un prelato emettesse un ordine palesemente contrario a questo ordine istituito dal Signore nostro, entrambi – colui che comanda e colui che obbedisce – peccerebbero, poiché disobbedirebbero al comando del Signore. Pertanto, non si dovrebbe obbedire a un tale prelato, poiché egli non è il giudice delle cose segrete; solo Dio lo è. Di conseguenza, un prelato non ha il potere di comandare riguardo a questioni nascoste, se non nella misura in cui queste vengono rese note attraverso determinati segni, come cattiva reputazione o sospetti; in tali casi, un prelato può comandare esattamente come un giudice, sia secolare che ecclesiastico, può costringere qualcuno a dire la verità sotto giuramento.
 
-<span class="atom-split" data-atom="233" data-title="Whether before the public denunciation witnesses ought to be brought forward?" data-chapter="Whether before the public denunciation witnesses ought to be brought forward?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="233" data-title="Whether before the public denunciation witnesses ought to be brought forward?" data-chapter="Whether before the public denunciation witnesses ought to be brought forward?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that before the public denunciation witnesses ought not to be
 brought forward. For secret sins ought not to be made known to others, because by so doing "a man
@@ -15121,7 +15131,7 @@ Risposta all’Obiezione 3: Ci possono essere tre motivi per citare dei testimon
 
 Risposta all’Obiezione 4: Agostino intende dire che la questione debba essere resa nota al prelato prima di essere esposta ai testimoni, poiché il prelato è una persona privata in grado di essere più utile degli altri; tuttavia, non si tratta di rivelargliela nel suo ruolo di Chiesa, cioè nel suo incarico di giudice.
 
-<span class="atom-split" data-atom="234" data-title="OF HATRED (SIX ARTICLES)" data-chapter="OF HATRED (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="234" data-title="OF HATRED (SIX ARTICLES)" data-chapter="OF HATRED (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,forms/quaestio,schools/scholasticism"></span>
 
 We must how consider the vices opposed to charity: (1) hatred, which is opposed to love; (2)
 sloth and envy, which are opposed to the joy of charity; (3) discord and schism, which are contrary
@@ -15145,7 +15155,7 @@ All’interno della prima categoria di vizi vi sono sei punti da esaminare:
 (5) È un peccato capitale?  
 (6) Da quale peccato capitale deriva?
 
-<span class="atom-split" data-atom="235" data-title="Whether it is possible for anyone to hate God?" data-chapter="Whether it is possible for anyone to hate God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="235" data-title="Whether it is possible for anyone to hate God?" data-chapter="Whether it is possible for anyone to hate God?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/beauty,concepts/divine_law,concepts/will"></span>
 
 Objection 1: It would seem that no man can hate God. For Dionysius says (Div. Nom. iv) that
 "the first good and beautiful is an object of love and dilection to all." But God is goodness and
@@ -15205,7 +15215,7 @@ Risposta all’Obiezione 2: Questo argomento è vero nella misura in cui Dio vie
 
 Risposta all’Obiezione 3: Dio attira tutte le cose verso di Sé, poiché Egli è la fonte dell’esistenza; infatti, tutte le cose, nella misura in cui esistono, tendono a diventare simili a Dio, che è l’Essere stesso.
 
-<span class="atom-split" data-atom="236" data-title="Whether hatred of God is the greatest of sins?" data-chapter="Whether hatred of God is the greatest of sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="236" data-title="Whether hatred of God is the greatest of sins?" data-chapter="Whether hatred of God is the greatest of sins?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hatred of God is not the greatest of sins. For the most grievous
 sin is the sin against the Holy Ghost, since it cannot be forgiven, according to Mat. 12:32. Now
@@ -15277,7 +15287,7 @@ Risposta all’Obiezione 2: Anche l’incredulità non è peccaminosa se non è 
 
 Risposta all’Obiezione 3: Non tutti coloro che odiano la punizione che ricevono odiano Dio, l’autore di tali punizioni. Molti infatti odiano le punizioni inflitte loro, ma le sopportano pazientemente per rispetto della giustizia divina. Per questo motivo [Agostino](/figures/augustine) afferma (Confessioni, x) che Dio ci comanda di sopportare con rassegnazione i mali punitivi, non di amarli. D’altra parte, odiare Dio quando Egli infligge tali punizioni significa odiare la stessa giustizia divina, il che rappresenta un peccato estremamente grave. Pertanto Gregorio dice (Morale, xxv, 11): “Così come a volte è più grave amare il peccato che commetterlo, allo stesso modo è più malvagio odiare la giustizia piuttosto che non commettere quel peccato.”
 
-<span class="atom-split" data-atom="237" data-title="Whether hatred of one's neighbor is always a sin?" data-chapter="Whether hatred of one's neighbor is always a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="237" data-title="Whether hatred of one's neighbor is always a sin?" data-chapter="Whether hatred of one's neighbor is always a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hatred of one's neighbor is not always a sin. For no sin is
 commanded or counselled by God, according to Prov. 8:8: "All My words are just, there is nothing
@@ -15337,7 +15347,7 @@ Risposta all’Obiezione 2: Dio odia il peccato che si trova nell’adulatore, n
 
 Risposta all’Obiezione 3: Gli uomini non ci sono contrari riguardo ai beni che hanno ricevuto da Dio; pertanto, in questo senso, dovremmo amarli. Tuttavia, sono contrari a noi nella misura in cui ci mostrano ostilità, e questa loro azione è peccaminosa. In questo caso, dovremmo odiarli, poiché odiamo il fatto stesso che siano ostili verso di noi.
 
-<span class="atom-split" data-atom="238" data-title="Whether hatred of our neighbor is the most grievous sin against our neighbor?" data-chapter="Whether hatred of our neighbor is the most grievous sin against our neighbor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="238" data-title="Whether hatred of our neighbor is the most grievous sin against our neighbor?" data-chapter="Whether hatred of our neighbor is the most grievous sin against our neighbor?" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/charity,concepts/will,figures/augustine"></span>
 
 Objection 1: It would seem that hatred of our neighbor is the most grievous sin against our
 neighbor. For it is written (1 Jn. 3:15): "Whosoever hateth his brother is a murderer." Now murder
@@ -15378,7 +15388,7 @@ Al contrario, si dice che una cosa sia malvagia perché causa dolore, come osser
 
 Rispondo che i peccati commessi contro il nostro prossimo sono malvagi per due motivi: innanzitutto a causa del disordine interiore della persona che pecca, e in secondo luogo a causa del danno arrecato alla persona contro cui si è peccato. Per quanto riguarda il primo aspetto, l’odio rappresenta un peccato più grave delle azioni esterne che feriscono il nostro prossimo, poiché l’odio costituisce un disordine nella volontà umana, che è la parte principale dell’uomo e nella quale risiede la radice del peccato. Pertanto, se le azioni esterne di una persona fossero irregolari senza alcun disordine nella sua volontà, non sarebbero considerate peccaminose; ad esempio, se qualcuno uccidesse un altro per ignoranza o per zelo verso la giustizia. E se nei peccati esterni commessi contro il prossimo vi fosse qualcosa di realmente peccaminoso, tutto ciò potrebbe essere attribuito all’odio interiore che quella persona nutre. D’altra parte, per quanto riguarda il danno arrecato al prossimo, i peccati esterni di una persona sono ancora più gravi dell’odio interiore che possiede. Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="239" data-title="Whether hatred is a capital sin?" data-chapter="Whether hatred is a capital sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="239" data-title="Whether hatred is a capital sin?" data-chapter="Whether hatred is a capital sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hatred is a capital sin. For hatred is directly opposed to charity.
 Now charity is the foremost among the virtues, and the mother of all others. Therefore hatred is
@@ -15438,7 +15448,7 @@ Risposta all’Obiezione 2: L’odio per il male che è contrario al bene natura
 
 Risposta all’Obiezione 3: Il male è di due tipi. Uno è un vero male, poiché è incompatibile con il bene naturale dell’individuo; l’odio per tale male può quindi avere priorità rispetto ad altre passioni. Esiste tuttavia anche un altro tipo di male, che non è un vero male, ma un male apparente: si tratta infatti di qualcosa che in realtà è un bene vero e connaturale, ma che viene considerato male a causa della corruzione della natura umana; l’odio per tale male, pertanto, deve necessariamente venire dopo. Questo tipo di odio è malvagio, ma il primo non lo è.
 
-<span class="atom-split" data-atom="240" data-title="Whether hatred arises from envy?" data-chapter="Whether hatred arises from envy?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="240" data-title="Whether hatred arises from envy?" data-chapter="Whether hatred arises from envy?" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/cause,concepts/passion,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It seems that hatred does not arise from envy. For envy is sorrow for another's
 good. Now hatred does not arise from sorrow, for, on the contrary, we grieve for the presence of
@@ -15508,7 +15518,7 @@ Risposta all’Obiezione 2: Amore e odio sono essenzialmente diversi; l’oggett
 
 Risposta all’Obiezione 3: Niente impedisce che una cosa derivi da varie cause in diversi modi; pertanto l’odio può sorgere sia dall’ira che dall’invidia. Tuttavia, nasce più direttamente dall’invidia, la quale considera il bene stesso del nostro prossimo come qualcosa di spiacevole e quindi odioso; invece, l’odio deriva dall’ira in modo indiretto, attraverso un processo di intensificazione. Inizialmente, infatti, a causa dell’ira, desideriamo il male del nostro prossimo in misura limitata, cioè nella misura in cui tale male rappresenta uno strumento di vendetta; ma successivamente, con la persistenza dell’ira, arriviamo al punto di desiderare assolutamente il male del nostro prossimo, e questo desiderio costituisce già una forma di odio. È quindi evidente che l’odio è causato formalmente dall’invidia riguardo all’aspetto dell’oggetto odiato, ma materialmente dall’ira.
 
-<span class="atom-split" data-atom="241" data-title="OF SLOTH (FOUR ARTICLES)" data-chapter="OF SLOTH (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="241" data-title="OF SLOTH (FOUR ARTICLES)" data-chapter="OF SLOTH (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the vices opposed to the joy of charity. This joy is either about the Divine
 good, and then its contrary is sloth, or about our neighbor's good, and then its contrary is envy.
@@ -15528,7 +15538,7 @@ All’interno della prima categoria di vizi vi sono quattro punti da analizzare:
 (3) Se sia un peccato mortale;  
 (4) Se sia un peccato capitale.
 
-<span class="atom-split" data-atom="242" data-title="Whether sloth is a sin?" data-chapter="Whether sloth is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="242" data-title="Whether sloth is a sin?" data-chapter="Whether sloth is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sloth is not a sin. For we are neither praised nor blamed for
 our passions, according to the Philosopher (Ethic. ii, 5). Now sloth is a passion, since it is a kind
@@ -15624,7 +15634,7 @@ Risposta all’Obiezione 3: È un segno di umiltà se una persona non si conside
 
 Risposta all’Obiezione 4: Il peccato deve sempre essere evitato, ma le sue insidie devono essere superate, a volte fuggendo, a volte resistendogli; fuggendo quando un pensiero continuo aumenta l’incentivo al peccato, come nel caso della lussuria; per questo motivo si legge in 1 Corinzi 6:18: “Fuggite dalla fornicazione”; resistendo quando la perseveranza nel rifiutare quel pensiero riduce tale incentivo, che spesso deriva da considerazioni banali. Lo stesso vale per la pigrizia: più riflettiamo sui beni spirituali, più questi ci diventano graditi, e così la pigrizia scompare.
 
-<span class="atom-split" data-atom="243" data-title="Whether sloth is a special vice?" data-chapter="Whether sloth is a special vice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="243" data-title="Whether sloth is a special vice?" data-chapter="Whether sloth is a special vice?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sloth is not a special vice. For that which is common to all
 vices does not constitute a special kind of vice. But every vice makes a man sorrowful about the
@@ -15674,7 +15684,7 @@ Al contrario, Gregorio (Morali, xxxi, 45) distingue la pigrizia dagli altri vizi
 Rispondo che, poiché la pigrizia rappresenta un dolore per il bene spirituale, se consideriamo il bene spirituale in senso generale, allora la pigrizia non può essere considerata un vizio specifico. Infatti, come già detto (FS, Q[71], A[1]), ogni vizio si allontana dal bene spirituale corrispondente alla virtù opposta. Inoltre, non si può affermare che la pigrizia sia un vizio specifico solo perché si allontana da ciò che è faticoso o dannoso per il corpo, o che ostacola i piaceri corporei; altrimenti ciò significherebbe che la pigrizia appartenesse ai vizi carnali, quelli cioè che mirano al comfort e al piacere fisico.  
 Pertanto, deve esistere un certo ordine tra i beni spirituali: tutti i beni spirituali presenti negli atti di ogni virtù sono infatti direzionati verso un bene spirituale supremo, ovvero il Bene Divino, per il quale esiste una virtù specifica, cioè la carità. È quindi appropriato che ogni virtù si rallegri nel proprio bene spirituale, che risiede nell’atto stesso della virtù; mentre è proprio della carità godere di quella gioia spirituale che ci fa rallegrarci del Bene Divino. Allo stesso modo, il dolore che derivante dal non apprezzare il bene spirituale presente negli atti delle varie virtù non appartiene a nessun vizio specifico, ma a tutti i vizi in generale; mentre il dolore relativo al Bene Divino, di cui la carità si rallegra, appartiene a un vizio specifico: la pigrizia. Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="244" data-title="Whether sloth is a mortal sin?" data-chapter="Whether sloth is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="244" data-title="Whether sloth is a mortal sin?" data-chapter="Whether sloth is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sloth is not a mortal sin. For every mortal sin is contrary to a
 precept of the [Divine Law](/concepts/divine_law). But sloth seems contrary to no precept, as one may see by going through
@@ -15741,7 +15751,7 @@ Risposta all’Obiezione 2: La pigrizia non rappresenta un’allontanamento dell
 
 Risposta all’Obiezione 3: In uomini santi si possono osservare movimenti imperfetti dovuti alla pigrizia, ma tali movimenti non raggiungono il livello di consenso della ragione.
 
-<span class="atom-split" data-atom="245" data-title="Whether sloth should be accounted a capital vice?" data-chapter="Whether sloth should be accounted a capital vice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="245" data-title="Whether sloth should be accounted a capital vice?" data-chapter="Whether sloth should be accounted a capital vice?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sloth ought not to be accounted a capital vice. For a capital
 vice is one that moves a man to sinful acts, as stated above (Q[34], A[5]). Now sloth does not move
@@ -15835,7 +15845,7 @@ Risposta all’Obiezione 2: Gregorio attribuisce opportunamente alle “figlie d
 
 Risposta all’Obiezione 3: Questa distinzione tra tristezza e pigrizia è anche espressa da Cassiano (De Institutio Caenobiticorum, x, 1). Tuttavia Gregorio, in modo più appropriato (Moralia, xxxi, 45), definisce la pigrizia una sorta di tristezza, poiché, come già detto (A[2]), la tristezza non costituisce un vizio a sé stante, se non nel caso in cui una persona si astenga dal compiere un lavoro sgradevole o oneroso, o soffra per qualsiasi altra causa; ma soltanto quando prova dolore a causa del bene divino, poiché è proprio questa la caratteristica essenziale della pigrizia: essa infatti cerca un riposo eccessivo, rifiutando il bene divino. Inoltre, le cose che Isidoro considera derivanti dalla pigrizia e dalla tristezza si riducono a quelle menzionate da Gregorio: la “amarezza”, che Isidoro definisce conseguenza della tristezza, è in realtà un effetto dell’“odio”; l’“ozio” e la “sonnolenza” possono essere considerate forme di “lentezza nell’adempimento dei doveri”: alcuni sono pigri e li trascurano del tutto, altri invece sono sonnolenti e li compiono con negligenza. Le altre cinque conseguenze della pigrizia menzionate da Isidoro rientrano nella categoria del “vagabondaggio dell’animo verso cose illecite”. Questa tendenza al vagabondaggio, se si manifesta nell’animo stesso che desidera inseguire cose senza logica o ordine, viene chiamata “inquietudine dell’animo”; se riguarda la facoltà immaginativa, è definita “curiosità”; se influisce sul linguaggio, si chiama “loquacità”; e se coinvolge il corpo, si denomina “irrequietezza del corpo”, quando l’uomo manifesta un comportamento instabile a causa di movimenti eccessivi dei propri membri; inoltre, se tale irrequietezza induce il corpo a spostarsi da un luogo all’altro, può essere definita “instabilità” o “capricciosità”.
 
-<span class="atom-split" data-atom="246" data-title="OF ENVY (FOUR ARTICLES)" data-chapter="OF ENVY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="246" data-title="OF ENVY (FOUR ARTICLES)" data-chapter="OF ENVY (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider envy, and under this head there are four points of inquiry:
 (1) What is envy?
@@ -15851,7 +15861,7 @@ Dobbiamo ora considerare l’invidia; in questo ambito ci sono quattro punti da 
 (3) È un peccato mortale?  
 (4) È un peccato capitale, e quali ne sono le conseguenze?
 
-<span class="atom-split" data-atom="247" data-title="Whether envy is a kind of sorrow?" data-chapter="Whether envy is a kind of sorrow?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="247" data-title="Whether envy is a kind of sorrow?" data-chapter="Whether envy is a kind of sorrow?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that envy is not a kind of sorrow. For the object of envy is a good,
 for Gregory says (Moral. v, 46) of the envious man that "self-inflicted pain wounds the pining
@@ -15938,7 +15948,7 @@ Risposta all’Obiezione 3: Un uomo non si sforza di raggiungere la maestria in 
 
 Risposta all’Obiezione 4: Il ricordo dei beni passati, nella misura in cui li abbiamo posseduti, provoca piacere; nella misura in cui li abbiamo persi, provoca dolore; e nella misura in cui altri li possiedono, provoca invidia, poiché ciò sembra soprattutto umiliare la nostra reputazione. Pertanto il Filosofo afferma (Rhetorica ii) che gli anziani invidiano i giovani, e coloro che hanno speso molto per ottenere qualcosa invidiano coloro che l’hanno ottenuto spendendo poco, poiché soffrono per aver perso i propri beni e perché altri ne hanno acquisiti.
 
-<span class="atom-split" data-atom="248" data-title="Whether envy is a sin?" data-chapter="Whether envy is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="248" data-title="Whether envy is a sin?" data-chapter="Whether envy is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that envy is not a sin. For Jerome says to Laeta about the [education](/concepts/education)
 of her daughter (Ep. cvii): "Let her have companions, so that she may learn together with them,
@@ -16024,7 +16034,7 @@ Risposta all’Obiezione 3: L’invidia è diversa dal zelo, come detto sopra. P
 
 Risposta all’Obiezione 4: Nulla impedisce che un peccato venga punito in modo accidentale, come già detto sopra (FS, Q[87], A[2]) quando trattavamo dei peccati.
 
-<span class="atom-split" data-atom="249" data-title="Whether envy is a mortal sin?" data-chapter="Whether envy is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="249" data-title="Whether envy is a mortal sin?" data-chapter="Whether envy is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that envy is not a mortal sin. For since envy is a kind of sorrow, it
 is a passion of the sensitive appetite. Now there is no mortal sin in the sensuality, but only in the
@@ -16088,7 +16098,7 @@ Risposta all’Obiezione 1: Il sentimento di invidia, nella misura in cui è una
 
 Risposta all’Obiezione 3: Secondo il Filosofo (Retorica ii, 9), l’invidia è contraria sia alla NEMESI che alla pietà, ma per motivi diversi. È direttamente contraria alla pietà, poiché gli oggetti principali di entrambe sono opposti tra loro: l’uomo invidioso si addolora del bene altrui, mentre colui che prova pietà si addolora del male altrui; pertanto, come afferma lo stesso Filosofo, l’invidioso non prova pietà, né viceversa. D’altra parte, l’invidia è contraria alla NEMESI nel caso in cui il bene di qualcuno provochi dolore all’invidioso; infatti la NEMESI rappresenta un sentimento di tristezza per il bene di coloro che non lo meritano, come si legge nel Salmo 72:3: “Invidiavo i malvagi quando vedevo la prosperità dei peccatori”. L’invidioso, invece, si addolora del bene di coloro che lo meritano; quindi è evidente che questa contrarietà sia più diretta rispetto alla precedente. Ora, poiché la pietà è una virtù e un effetto proprio della carità, ne consegue che l’invidia sia contraria sia alla pietà che alla carità stessa.
 
-<span class="atom-split" data-atom="250" data-title="Whether envy is a capital vice?" data-chapter="Whether envy is a capital vice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="250" data-title="Whether envy is a capital vice?" data-chapter="Whether envy is a capital vice?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that envy is not a capital vice. For the capital vices are distinct
 from their daughters. Now envy is the daughter of vainglory; for the Philosopher says (Rhet. ii, 10)
@@ -16167,7 +16177,7 @@ Risposta all’Obiezione 2: Non deriva dal passaggio citato che l’invidia sia 
 
 Risposta all’Obiezione 3: Il numero delle “figlie dell’invidia” può essere compreso per il motivo che, nella lotta scatenata dall’invidia, esistono elementi legati al principio, al mezzo e alla conseguenza di tale sentimento. Il principio consiste nel fatto che una persona si sforza di danneggiare la reputazione di un’altra: ciò può avvenire in modo segreto (“maldicenze”), oppure apertamente (“calunnie”). Il mezzo rappresenta il momento in cui, pur cercando di diffamare qualcuno, non si riesce nel proprio intento; in questo caso si manifestano sentimenti come “gioia per la sfortuna altrui” o “dolore per la prosperità altrui”. La conseguenza finale è l’odio stesso: così come il bene che ci rende felici genera amore, il dolore genera odio, come già affermato in precedenza (Q[34], A[6]). Il “dolore per la prosperità altrui” è, in un certo senso, lo stesso dell’invidia, quando una persona soffre per il successo del proprio vicino proprio perché questo gli conferisce una buona reputazione; in altro senso, esso rappresenta una conseguenza dell’invidia, poiché chi è invidioso vede il proprio nemico prosperare nonostante i propri sforzi per impedirlo. D’altra parte, la “gioia per la sfortuna altrui” non è esattamente lo stesso dell’invidia, ma ne è una conseguenza: il dolore derivante dal vedere il bene altrui ci porta infatti a gioire del suo male.
 
-<span class="atom-split" data-atom="251" data-title="OF DISCORD, WHICH IS CONTRARY TO PEACE (TWO ARTICLES)" data-chapter="OF DISCORD, WHICH IS CONTRARY TO PEACE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="251" data-title="OF DISCORD, WHICH IS CONTRARY TO PEACE (TWO ARTICLES)" data-chapter="OF DISCORD, WHICH IS CONTRARY TO PEACE (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the sins contrary to peace, and first we shall consider discord which is
 in the heart, secondly contention, which is on the lips, thirdly, those things which consist in deeds,
@@ -16181,7 +16191,7 @@ Dobbiamo ora considerare i peccati contrari alla pace: innanzitutto la discordia
 (1) La discordia è davvero un peccato?  
 (2) È forse figlia dell’orgoglio?
 
-<span class="atom-split" data-atom="252" data-title="Whether discord is a sin?" data-chapter="Whether discord is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="252" data-title="Whether discord is a sin?" data-chapter="Whether discord is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that discord is not a sin. For to disaccord with man is to sever
 oneself from another's will. But this does not seem to be a sin, because God's will alone, and not
@@ -16264,7 +16274,7 @@ Risposta all’Obiezione 2: Proprio come la volontà di un uomo che si attiene a
 
 Risposta all’Obiezione 3: Il disaccordo tra Paolo e Barnaba fu occasionale e non diretto: poiché entrambi intendevano fare del bene, tuttavia uno riteneva che una certa azione fosse buona, mentre l’altro ne considerava un’altra valida, e ciò derivava dalle limitazioni umane; inoltre, quella controversia non riguardava questioni essenziali per la salvezza. In ogni caso, tutto ciò fu voluto dalla provvidenza divina, al fine di realizzare il bene che ne sarebbe derivato.
 
-<span class="atom-split" data-atom="253" data-title="Whether discord is a daughter of vainglory?" data-chapter="Whether discord is a daughter of vainglory?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="253" data-title="Whether discord is a daughter of vainglory?" data-chapter="Whether discord is a daughter of vainglory?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that discord is not a daughter of vainglory. For [anger](/concepts/anger) is a vice
 distinct from vainglory. Now discord is apparently the daughter of anger, according to Prov. 15:18:
@@ -16326,7 +16336,7 @@ Risposta all’Obiezione 2: Nel disaccordo possiamo considerare ciò che rappres
 
 Risposta all’Obiezione 3: Il motivo per cui l’armonia favorisce il successo delle piccole cose, mentre il disaccordo porta al fallimento anche delle più grandi, è che “quanto più unita è una forza, tanto più potente diventa; quanto più divisa, tanto più debole” (De Causis XVII). È quindi evidente che ciò rappresenti un effetto naturale del disaccordo, ovvero la divisione delle volontà; in nessun modo si può dedurre che dal disaccordo derivino altri vizi, come se esso fosse un vizio fondamentale.
 
-<span class="atom-split" data-atom="254" data-title="OF CONTENTION (TWO ARTICLES)" data-chapter="OF CONTENTION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="254" data-title="OF CONTENTION (TWO ARTICLES)" data-chapter="OF CONTENTION (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider contention, in respect of which there are two points of inquiry:
 (1) Whether contention is a mortal sin?
@@ -16338,7 +16348,7 @@ Dobbiamo ora considerare la questione della contesa, riguardo alla quale esiston
 (1) Se la contesa sia un peccato mortale;  
 (2) Se sia una conseguenza dell’orgoglio.
 
-<span class="atom-split" data-atom="255" data-title="Whether contention is a mortal sin?" data-chapter="Whether contention is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="255" data-title="Whether contention is a mortal sin?" data-chapter="Whether contention is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that contention is not a mortal sin. For there is no mortal sin in
 spiritual men: and yet contention is to be found in them, according to Lk. 22:24: "And there was
@@ -16435,7 +16445,7 @@ Risposta all’Obiezione 3: La controversia diventa un peccato mortale quando, d
 
 Risposta all’Obiezione 4: Con il termine “contesa” si intende qui una disputa ordinaria. Infatti Giobbe aveva detto (13:3): “Parlerò con l’Onnipotente e desidero discutere con Dio”; tuttavia non intendeva mettere in discussione la verità, ma difenderla, e nel cercare la verità in questo modo, non aveva alcun desiderio di comportarsi in modo irragionevole né nel pensiero né nel parlare.
 
-<span class="atom-split" data-atom="256" data-title="Whether contention is a daughter of vainglory?" data-chapter="Whether contention is a daughter of vainglory?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="256" data-title="Whether contention is a daughter of vainglory?" data-chapter="Whether contention is a daughter of vainglory?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that contention is not a daughter of vainglory. For contention is
 akin to zeal, wherefore it is written (1 Cor. 3:3): "Whereas there is among you zeal [Douay: 'envying']
@@ -16493,7 +16503,7 @@ Risposta all’Obiezione 2: L’argomentazione di cui stiamo parlando si fa sent
 
 Risposta all’Obiezione 3: L’orgoglio e la vanità sono principalmente causati da beni, anche da quelli che sono in contrasto con essi; ad esempio, quando un uomo è orgoglioso della propria umiltà. Poiché quando qualcosa sorge in questo modo, avviene non direttamente, ma accidentalmente, non c’è alcun impedimento affinché ciò che è contrario a tale sentimento possa nascere da esso stesso. Pertanto, non vi è motivo per cui gli effetti “in sé” e diretti dell’orgoglio o della vanità non possano derivare proprio dai contrari di quei beni che ne sono la causa.
 
-<span class="atom-split" data-atom="257" data-title="OF SCHISM (FOUR ARTICLES)" data-chapter="OF SCHISM (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="257" data-title="OF SCHISM (FOUR ARTICLES)" data-chapter="OF SCHISM (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the vices contrary to peace, which belong to deeds: such are schism,
 strife, sedition, and war. In the first place, then, about schism, there are four points of inquiry:
@@ -16510,7 +16520,7 @@ Dobbiamo ora considerare i vizi contrari alla pace, che riguardano le azioni uma
 (3) Del potere esercitato dai dissidenti;  
 (4) Della punizione che loro viene inflitta.
 
-<span class="atom-split" data-atom="258" data-title="Whether schism is a special sin?" data-chapter="Whether schism is a special sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="258" data-title="Whether schism is a special sin?" data-chapter="Whether schism is a special sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that schism is not a special sin. For "schism," as Pope Pelagius I
 says (Epist. ad Victor. et Pancrat.), "denotes a division." But every sin causes a division, according
@@ -16593,7 +16603,7 @@ Risposta all’Obiezione 2: L’essenza dello scisma consiste nel disobbedire ri
 
 Risposta all’Obiezione 3: Eresia e scisma si distinguono in base a quelle cose contro cui ciascuno di essi si oppone in modo essenziale e diretto. L’eresia si oppone essenzialmente alla fede, mentre lo scismo si oppone essenzialmente all’unità della carità ecclesiastica. Pertanto, proprio come la fede e la carità sono virtù diverse – anche se chi manca di fede manca necessariamente anche di carità – allo stesso modo lo scisma e l’eresia sono vizi diversi; tuttavia, chi è eretico è anche scismatico, ma non viceversa. È quanto afferma Girolamo nel suo commento all’Epistola ai Galati (*In Ep. ad Tit. iii, 10*): “Ritengo che la differenza tra scisma ed eresia risieda nel fatto che l’eresia sostiene dottrine false, mentre lo scismo separa una persona dalla Chiesa”. Tuttavia, proprio come la perdita della carità conduce alla perdita della fede (secondo 1 Timoteo 1:6), allo stesso modo lo scisma è il cammino verso l’eresia. Per questo motivo Girolamo aggiunge ancora (*In Ep. ad Tit. iii, 10*): “All’inizio può sembrare possibile individuare una differenza tra scismo ed eresia; tuttavia non esiste alcun scisma che non contenga in sé elementi eretici, al fine di giustificare la propria separazione dalla Chiesa”.
 
-<span class="atom-split" data-atom="259" data-title="Whether schism is a graver sin than unbelief?" data-chapter="Whether schism is a graver sin than unbelief?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="259" data-title="Whether schism is a graver sin than unbelief?" data-chapter="Whether schism is a graver sin than unbelief?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that schism is a graver sin than unbelief. For the graver sin meets
 with a graver punishment, according to Dt. 25:2: "According to the measure of the sin shall the
@@ -16685,7 +16695,7 @@ Risposta all’Obiezione 2: Proprio come il bene della moltitudine è maggiore d
 
 Risposta all’Obiezione 3: La carità ha due oggetti: uno è l’oggetto principale, ovvero la bontà divina; l’altro è l’oggetto secondario, ovvero il bene del nostro prossimo. Ora, lo scisma e altri peccati contro il nostro prossimo sono contrari alla carità in relazione al suo oggetto secondario, che è di minor importanza rispetto all’oggetto della fede – poiché quest’ultimo è Dio stesso; pertanto questi peccati sono meno gravi dell’infedeltà. D’altra parte, l’odio verso Dio, che è contrario alla carità in relazione al suo oggetto principale, non è meno grave dell’infedeltà. Tuttavia, tra tutti i peccati commessi dall’uomo contro il proprio prossimo, lo scisma sembra essere il più grave, poiché è contrario al bene spirituale della moltitudine.
 
-<span class="atom-split" data-atom="260" data-title="Whether schismatics have any power?" data-chapter="Whether schismatics have any power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="260" data-title="Whether schismatics have any power?" data-chapter="Whether schismatics have any power?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that schismatics have some power. For [Augustine](/figures/augustine) says (Contra
 Donat. i, 1): "Just as those who come back to the Church after being baptized, are not baptized
@@ -16742,7 +16752,7 @@ Al contrario, Cipriano afferma in una lettera (Ep. lii, citata in vii, qu. 1, ca
 
 Rispondo che il potere spirituale è di due tipi: uno sacramentale e l’altro giurisdizionale. Il potere sacramentale è quello conferito attraverso una qualche forma di consacrazione; tutte le consacrazioni della Chiesa, infatti, rimangono valide finché l’oggetto consacrato esiste, come si può vedere anche negli oggetti inanimati: un altare, una volta consacrato, non viene consacrato nuovamente a meno che non venga distrutto. Pertanto, tale potere rimane, nella sua essenza, nell’uomo che lo ha ricevuto attraverso la consacrazione, per tutta la durata della sua vita, anche se cade in scisma o eresia; ciò è dimostrato dal fatto che, se torna alla Chiesa, non viene nuovamente consacrato. Tuttavia, poiché il potere inferiore non dovrebbe essere esercitato se non guidato da quello superiore – come avviene anche nell’ordine naturale – ne consegue che tali persone perdono l’uso legittimo di tale potere; pertanto non è lecito che lo utilizzino. Se lo facessero, tale potere avrebbe effetto negli atti sacramentali, poiché in questi casi l’uomo agisce soltanto come strumento di Dio; quindi gli effetti sacramentali non vengono compromessi da eventuali errori della persona che conferisce il sacramento. Dall’altro canto, il potere giurisdizionale è quello conferito semplicemente attraverso un incarico umano; tale potere non rimane legittimamente attivo nelle persone eretiche o scismatiche; pertanto esse non possono assolvere, escomunicare, concedere indulgenze o compiere atti del genere; se lo facessero, tali atti sarebbero invalidi. Quindi, quando si afferma che tali persone non possiedono potere spirituale, ciò si riferisce o al secondo tipo di potere, oppure, nel caso si riferisca al primo tipo, non alla sua essenza, ma al suo uso legittimo. Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="261" data-title="Whether it is right that schismatics should be punished with excommunication?" data-chapter="Whether it is right that schismatics should be punished with excommunication?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="261" data-title="Whether it is right that schismatics should be punished with excommunication?" data-chapter="Whether it is right that schismatics should be punished with excommunication?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that schismatics are not rightly punished with excommunication.
 For excommunication deprives a man chiefly of a share in the sacraments. But [Augustine](/figures/augustine) says
@@ -16807,7 +16817,7 @@ Risposta all’Obiezione 2: L’escomunione non vieta quel tipo di rapporto attr
 
 Risposta all’Obiezione 3: Le punizioni della vita presente hanno un carattere terapeutico; pertanto, quando una punizione non è sufficiente per costringere qualcuno, ne viene aggiunta un’altra: proprio come i medici utilizzano diversi rimedi quando uno solo non produce l’effetto desiderato. Allo stesso modo, la Chiesa, quando l’escomunica non riesce a contenere certe persone, ricorre alla coercizione dello Stato secolare. Tuttavia, se una sola punizione è sufficiente, non dovrebbe essere ne utilizzata un’altra.
 
-<span class="atom-split" data-atom="262" data-title="OF WAR (FOUR ARTICLES)" data-chapter="OF WAR (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="262" data-title="OF WAR (FOUR ARTICLES)" data-chapter="OF WAR (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider war, under which head there are four points of inquiry:
 (1) Whether some kind of war is lawful?
@@ -16823,7 +16833,7 @@ Dobbiamo ora considerare la guerra, sotto questa categoria di argomenti ne esist
 (3) Se sia permesso ai belligerenti tendere imboscate;  
 (4) Se sia consentito combattere nei giorni sacri.
 
-<span class="atom-split" data-atom="263" data-title="Whether it is always sinful to wage war?" data-chapter="Whether it is always sinful to wage war?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="263" data-title="Whether it is always sinful to wage war?" data-chapter="Whether it is always sinful to wage war?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is always sinful to wage war. Because punishment is not
 inflicted except for sin. Now those who wage war are threatened by Our Lord with punishment,
@@ -16934,7 +16944,7 @@ Risposta all’Obiezione 3: Coloro che conducono la guerra giustamente mirano al
 
 Risposta all’Obiezione 4: Gli esercizi marziali legati a imprese belliche non sono tutti proibiti, ma soltanto quelli eccessivi e pericolosi che portano al massacro o al saccheggio. Nell’antichità, tali esercizi non presentavano simili pericoli; per questo venivano definiti “esercizi con le armi” o “guerre senza spargimento di sangue”, come afferma Gerolamo in una sua epistola [*Riferimento errato: si veda Veget., De Re Milit. i].
 
-<span class="atom-split" data-atom="264" data-title="Whether it is lawful for clerics and bishops to fight?" data-chapter="Whether it is lawful for clerics and bishops to fight?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="264" data-title="Whether it is lawful for clerics and bishops to fight?" data-chapter="Whether it is lawful for clerics and bishops to fight?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem lawful for clerics and bishops to fight. For, as stated above (A[1]),
 wars are lawful and just in so far as they protect the poor and the entire common weal from [suffering](/concepts/suffering)
@@ -17037,7 +17047,7 @@ Risposta all’Obiezione 3: Come già detto sopra (Q[23], A[4], ad 2), ogni pote
 
 Risposta all’Obiezione 4: Sebbene sia meritevole condurre una guerra giusta, essa diventa illegale per i chierici, poiché questi sono incaricati di compiere opere ancora più meritevoli. Pertanto, l’atto coniugale può essere considerato meritevole; tuttavia, diventa riprovevole per coloro che hanno giurato di rimanere vergini, poiché sono legati a un bene ancora più grande.
 
-<span class="atom-split" data-atom="265" data-title="Whether it is lawful to lay ambushes in war?" data-chapter="Whether it is lawful to lay ambushes in war?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="265" data-title="Whether it is lawful to lay ambushes in war?" data-chapter="Whether it is lawful to lay ambushes in war?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is unlawful to lay ambushes in war. For it is written (Dt.
 16:20): "Thou shalt follow justly after that which is just." But ambushes, since they are a kind of
@@ -17087,7 +17097,7 @@ Al contrario, Agostino afferma (QQ. in Hept. qu. x super Jos): “Finché la gue
 
 Rispondo che lo scopo delle imboscate è proprio quello di ingannare il nemico. Ora, un uomo può essere ingannato dalle parole o dai fatti altrui in due modi: innanzitutto, attraverso la comunicazione di informazioni false o il mancato rispetto di promesse, e questo comportamento è sempre illegittimo; nessuno dovrebbe ingannare il nemico in questo modo, poiché esistono determinati “diritti della guerra e patti che devono essere rispettati anche tra nemici”, come afferma Ambrogio nel *De Officiis i*. In secondo luogo, un uomo può essere ingannato da ciò che diciamo o facciamo, se non gli riveliamo il nostro vero scopo o intento; tuttavia, non siamo sempre obbligati a farlo, poiché anche nella Dottrina Sacra molte cose devono essere nascoste, soprattutto agli infedeli, affinché non le deridano, come recita Matteo 7:6: “Non date ciò che è sacro ai cani”. Per questo motivo, ancor di più il piano di battaglia deve essere tenuto segreto dal nemico. Proprio per questa ragione, tra le altre cose che un soldato deve imparare c’è l’arte di nascondere i propri intenti affinché non vengano scoperti dal nemico, come affermato nel libro *Stratagematum i, 1* di Frontino. Un simile tipo di nascondimento è proprio ciò che si intende per imboscata, e può essere utilizzato legalmente in una guerra giusta. Inoltre, queste imboscate non possono essere considerate vere e proprie forme di inganno, né sono contrarie alla giustizia o a una volontà ben ordinata; infatti, un uomo mostrerebbe una volontà irragionevole se si rifiutasse che gli altri nascondessero qualcosa da lui. Questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="266" data-title="Whether it is lawful to fight on holy days?" data-chapter="Whether it is lawful to fight on holy days?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="266" data-title="Whether it is lawful to fight on holy days?" data-chapter="Whether it is lawful to fight on holy days?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unlawful to fight on holy days. For holy days are instituted that
 we may give our time to the things of God. Hence they are included in the keeping of the Sabbath
@@ -17136,7 +17146,7 @@ Rispondo che il rispetto dei giorni sacri non rappresenta alcun ostacolo per que
 (1) Se la lotta sia un peccato;  
 (2) Se sia un’emanazione dell’[ira](/concepts/anger).
 
-<span class="atom-split" data-atom="267" data-title="Whether strife is always a sin?" data-chapter="Whether strife is always a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="267" data-title="Whether strife is always a sin?" data-chapter="Whether strife is always a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that strife is not always a sin. For strife seems a kind of contention:
 hence Isidore says (Etym. x) that the word "rixosus [quarrelsome] is derived from the snarling
@@ -17205,7 +17215,7 @@ Risposta all’Obiezione 1: Il senso del testo non è che i servitori di Isacco 
 
 Risposta all’Obiezione 3: Affinché una guerra sia giusta, deve essere dichiarata dall’autorità del potere governante, come già affermato sopra (Q[40], A[1]); invece le contese derivano da sentimenti privati di rabbia o odio. Poiché, se i servitori di un sovrano o di un giudice, in virtù della loro autorità pubblica, attaccano certe persone e queste si difendono, non sono i primi ad essere considerati colpevoli di contese, ma coloro che resistono all’autorità pubblica. Pertanto, in questo caso, non sono gli aggressori a commettere peccato o a essere ritenuti responsabili delle contese, ma coloro che si difendono in modo eccessivo.
 
-<span class="atom-split" data-atom="268" data-title="Whether strife is a daughter of anger?" data-chapter="Whether strife is a daughter of anger?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="268" data-title="Whether strife is a daughter of anger?" data-chapter="Whether strife is a daughter of anger?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that strife is not a daughter of [anger](/concepts/anger). For it is written (James 4:1):
 "Whence are wars and contentions? Are they not . . . from your concupiscences, which war in your
@@ -17294,7 +17304,7 @@ Risposta all’Obiezione 4: Sebbene le liti sorgano talvolta dall’odio, questo
 
 Risposta all’Obiezione 5: Le lotte generano odio e discordia nei cuori di coloro che ne sono responsabili; pertanto colui che “intende” seminare discordia tra gli altri induce loro a litigare tra loro. Allo stesso modo, qualsiasi peccato può indurre un altro peccato, dirigendolo verso il proprio scopo. Tuttavia, ciò non dimostra che la lotta sia propriamente e direttamente figlia dell’orgoglio.
 
-<span class="atom-split" data-atom="269" data-title="OF SEDITION (TWO ARTICLES)" data-chapter="OF SEDITION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="269" data-title="OF SEDITION (TWO ARTICLES)" data-chapter="OF SEDITION (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider sedition, under which head there are two points of inquiry:
 (1) Whether it is a special sin?
@@ -17306,7 +17316,7 @@ Dobbiamo ora considerare la sedizione; in questo ambito vi sono due punti da esa
 (1) Se si tratti di un peccato specifico;  
 (2) Se sia un peccato mortale.
 
-<span class="atom-split" data-atom="270" data-title="Whether sedition is a special sin distinct from other sins?" data-chapter="Whether sedition is a special sin distinct from other sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="270" data-title="Whether sedition is a special sin distinct from other sins?" data-chapter="Whether sedition is a special sin distinct from other sins?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sedition is not a special sin distinct from other sins. For,
 according to Isidore (Etym. x), "a seditious man is one who sows dissent among minds, and begets
@@ -17368,7 +17378,7 @@ Risposta all’Obiezione 2: La sedizione si differenzia dalla scissione in due a
 
 Risposta all’Obiezione 3: La sedizione, come lo scisma, rientra nella categoria della discordia, poiché entrambe rappresentano forme di disaccordo, ma non tra individui, bensì tra le parti di un gruppo più ampio.
 
-<span class="atom-split" data-atom="271" data-title="Whether sedition is always a mortal sin?" data-chapter="Whether sedition is always a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="271" data-title="Whether sedition is always a mortal sin?" data-chapter="Whether sedition is always a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sedition is not always a mortal sin. For sedition denotes "a
 tumult tending to fight," according to the gloss quoted above (A[1]). But fighting is not always a
@@ -17434,7 +17444,7 @@ Risposta all’Obiezione 2: La dissidenza derivante da ciò che non è evidentem
 
 Risposta all’Obiezione 3: Un governo tirannico non è giusto semplicemente perché mira non al bene comune, ma al bene privato del sovrano, come afferma il Filosofo (Politica iii, 5; Etica viii, 10). Pertanto, non vi è sedizione nel disturbare un governo di questo tipo, a meno che il dominio del tiranno non venga perturbato in modo così eccessivo da causare ai suoi sudditi danni maggiori a causa dei disordini derivanti che non sotto il suo stesso governo. Infatti, è proprio il tiranno colpevole di sedizione, poiché incoraggia la discordia e i disordini tra i suoi sudditi al fine di dominarli più facilmente; questa è appunto la natura della tirannia: essa serve al bene privato del sovrano e danneggia la moltitudine.
 
-<span class="atom-split" data-atom="272" data-title="OF SCANDAL (EIGHT ARTICLES)" data-chapter="OF SCANDAL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="272" data-title="OF SCANDAL (EIGHT ARTICLES)" data-chapter="OF SCANDAL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,forms/quaestio,schools/scholasticism"></span>
 
 It remains for us to consider the vices which are opposed to beneficence, among which some
 come under the head of injustice, those, to wit, whereby one harms one's neighbor unjustly. But
@@ -17461,7 +17471,7 @@ Resta da considerare quali siano i vizi che si oppongono alla beneficenza; alcun
 (7) Bisogna rinunciare ai beni spirituali a causa dello scandalo?  
 (8) Bisogna rinunciare alle cose temporali a causa dello scandalo?
 
-<span class="atom-split" data-atom="273" data-title="Whether scandal is fittingly defined as being something less rightly said or done that occasions spiritual downfall?" data-chapter="Whether scandal is fittingly defined as being something less rightly said or done that occasions spiritual downfall?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="273" data-title="Whether scandal is fittingly defined as being something less rightly said or done that occasions spiritual downfall?" data-chapter="Whether scandal is fittingly defined as being something less rightly said or done that occasions spiritual downfall?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that scandal is unfittingly defined as "something less rightly said
 or done that occasions spiritual downfall." For scandal is a sin as we shall state further on (A[2]).
@@ -17547,7 +17557,7 @@ Reply to Objection 5: "Weakness" denotes proneness to scandal; while "offense" s
 resentment against the person who commits a sin, which resentment may be sometimes without
 spiritual downfall; and "scandal" is the stumbling that results in downfall.
 
-<span class="atom-split" data-atom="274" data-title="Whether scandal is a sin?" data-chapter="Whether scandal is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="274" data-title="Whether scandal is a sin?" data-chapter="Whether scandal is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that scandal is not a sin. For sins do not occur from necessity, since
 all sin is voluntary, as stated above (FS, Q[74], AA[1],2). Now it is written (Mat. 18:7): "It must
@@ -17614,7 +17624,7 @@ Risposta all’Obiezione 2: In quel passaggio, “scandalo” indica qualsiasi t
 
 Risposta all’Obiezione 3: Nessun uomo inciampa spiritualmente senza che ciò lo ostacoli in qualche modo nel progredire sul cammino di Dio, e questo rappresenta almeno un peccato veniale.
 
-<span class="atom-split" data-atom="275" data-title="Whether scandal is a special sin?" data-chapter="Whether scandal is a special sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="275" data-title="Whether scandal is a special sin?" data-chapter="Whether scandal is a special sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that scandal is not a special sin. For scandal is "something said or
 done less rightly." But this applies to every kind of sin. Therefore every sin is a scandal, and
@@ -17677,7 +17687,7 @@ Risposta all’Obiezione 2: Lo scandalo attivo può essere considerato separato 
 
 Risposta all’Obiezione 3: Lo scandalo non deriva la sua natura di peccato speciale dalla circostanza in questione, ma dall’intenzione che sta alla base dell’atto, come già detto in precedenza.
 
-<span class="atom-split" data-atom="276" data-title="Whether scandal is a mortal sin?" data-chapter="Whether scandal is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="276" data-title="Whether scandal is a mortal sin?" data-chapter="Whether scandal is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that scandal is a mortal sin. For every sin that is contrary to charity
 is a mortal sin, as stated above (Q[24], A[12]; Q[35] , A[3]). But scandal is contrary to charity, as
@@ -17728,7 +17738,7 @@ Al contrario, condurre una persona a commettere un peccato veniale potrebbe esse
 
 Rispondo che, come già detto sopra (A[1]), lo scandalo rappresenta un ostacolo che porta una persona verso il declino spirituale. Pertanto, lo scandalo passivo può talvolta essere un peccato veniale, quando si limita a tale ostacolo e nulla di più; ad esempio, quando una persona viene turbata da un atto o da parole altrui che causano un peccato veniale. Altre volte, invece, lo scandalo passivo è un peccato mortale, quando tale ostacolo conduce effettivamente a un peccato grave. Lo scandalo attivo, se occasionale, può anch’esso essere un peccato veniale; ad esempio, quando, a causa di una leggera imprudenza, una persona compie un atto che in sé non è peccato, ma ha un aspetto negativo. Tuttavia, lo scandalo attivo può anche essere un peccato mortale: o perché la persona commette effettivamente un peccato grave, oppure perché disprezza talmente il benessere spirituale del prossimo da rifiutarsi di rinunciare a ciò che desidera fare pur di proteggerlo. Nel caso dello scandalo attivo diretto – cioè quando una persona intende indurre un’altra al peccato – se l’intenzione è quella di far commettere un peccato mortale, anche il proprio peccato sarà mortale; allo stesso modo, se l’intenzione è quella di far commettere un peccato veniale, si tratterà anch’esso di uno scandalo veniale. E questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="277" data-title="Whether passive scandal may happen even to the perfect?" data-chapter="Whether passive scandal may happen even to the perfect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="277" data-title="Whether passive scandal may happen even to the perfect?" data-chapter="Whether passive scandal may happen even to the perfect?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that passive scandal may happen even to the perfect. For Christ
 was supremely perfect: and yet He said to Peter (Mat. 16:23): "Thou art a scandal to Me." Much
@@ -17791,7 +17801,7 @@ Risposta all’Obiezione 2: Gli uomini perfetti possono incontrare ostacoli nell
 
 Risposta all’Obiezione 3: Gli uomini perfetti a volte cadono in peccati veniali a causa della debolezza della carne; tuttavia non vengono scandalizzati (inteso lo scandalo nel suo vero senso) dalle parole o dai fatti altrui, anche se tali parole o fatti possono rappresentare un pericolo di scandalo, come si legge in Salmo 72:2: “I miei piedi quasi inciamparono”.
 
-<span class="atom-split" data-atom="278" data-title="Whether active scandal can be found in the perfect?" data-chapter="Whether active scandal can be found in the perfect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="278" data-title="Whether active scandal can be found in the perfect?" data-chapter="Whether active scandal can be found in the perfect?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that active scandal can be found in the perfect. For passion is the
 effect of action. Now some are scandalized passively by the words or deeds of the perfect, according
@@ -17854,7 +17864,7 @@ Risposta all’Obiezione 2: Secondo l’opinione di [Agostino](/figures/augustin
 
 Risposta all’Obiezione 3: I peccati veniali del perfetto consistono principalmente in movimenti improvvisi che, essendo nascosti, non possono causare scandalo. Tuttavia, se commettono qualche peccato veniale anche attraverso parole o azioni esterne, questi sono così lievi da non essere sufficienti di per sé a provocare scandalo.
 
-<span class="atom-split" data-atom="279" data-title="Whether spiritual goods should be foregone on account of scandal?" data-chapter="Whether spiritual goods should be foregone on account of scandal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="279" data-title="Whether spiritual goods should be foregone on account of scandal?" data-chapter="Whether spiritual goods should be foregone on account of scandal?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that spiritual goods ought to be foregone on account of scandal.
 For [Augustine](/figures/augustine) (Contra Ep. Parmen. iii, 2) teaches that "punishment for sin should cease, when the
@@ -17975,7 +17985,7 @@ Risposta all’Obiezione 4: La verità della vita, della dottrina e della giusti
 
 Risposta all’Obiezione 5: Alcuni hanno affermato che si debba commettere un peccato veniale al fine di evitare lo scandalo. Ma ciò comporta una contraddizione: se tale azione dovesse essere considerata giusta, allora non sarebbe più né malvagia né peccaminosa, poiché un peccato non può essere frutto di una scelta volontaria. Tuttavia, a causa di determinate circostanze, qualcosa che in altre condizioni sarebbe considerato un peccato veniale potrebbe non esserlo: ad esempio, una parola inutile pronunciata senza motivo è un peccato veniale, ma se detta per una ragione valida, non è né inutile né peccaminosa. E sebbene il peccato venale non privi l’uomo della grazia che rappresenta la sua via verso la salvezza, nel momento in cui lo spinge a commettere peccati mortali, contribuisce alla perdita della stessa salvezza.
 
-<span class="atom-split" data-atom="280" data-title="Whether temporal goods should be foregone on account of scandal?" data-chapter="Whether temporal goods should be foregone on account of scandal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="280" data-title="Whether temporal goods should be foregone on account of scandal?" data-chapter="Whether temporal goods should be foregone on account of scandal?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that temporal goods should be foregone on account of scandal. For
 we ought to love our neighbor's spiritual welfare which is hindered by scandal, more than any
@@ -18079,7 +18089,7 @@ Risposta all’Obiezione 4: Secondo Agostino (De Serm. Dom. in Monte i, 19), que
 
 Risposta all’Obiezione 5: Lo scandalo che l’Apostolo evitò derivava da un errore dei gentili, i quali non erano abituati a tale pratica di pagamento. Pertanto, gli fu necessario rinunciarvi temporaneamente, affinché prima di tutto potessero essere insegnati loro che tale pagamento rappresentava un dovere. Per lo stesso motivo, la Chiesa si astiene dal richiedere decime in quei paesi dove non è consuetudine pagarle.
 
-<span class="atom-split" data-atom="281" data-title="OF THE PRECEPTS OF CHARITY (EIGHT ARTICLES)" data-chapter="OF THE PRECEPTS OF CHARITY (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="281" data-title="OF THE PRECEPTS OF CHARITY (EIGHT ARTICLES)" data-chapter="OF THE PRECEPTS OF CHARITY (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the Precepts of Charity, under which there are eight points of inquiry:
 (1) Whether precepts should be given about charity?
@@ -18103,7 +18113,7 @@ Dobbiamo ora considerare i Precetti della Carità, i quali comprendono otto punt
 (7) Per quanto riguarda il precetto: “Amerai il tuo prossimo come te stesso”;  
 (8) Il concetto di ordine nella pratica della carità è incluso in questo precetto?
 
-<span class="atom-split" data-atom="282" data-title="Whether any precept should be given about charity?" data-chapter="Whether any precept should be given about charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="282" data-title="Whether any precept should be given about charity?" data-chapter="Whether any precept should be given about charity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no precept should be given about charity. For charity imposes
 the mode on all acts of virtue, since it is the form of the virtues as stated above (Q[23], A[8]), while
@@ -18177,7 +18187,7 @@ Risposta all’Obiezione 2: L’obbligo imposto da un precetto non si scontra co
 
 Risposta all’Obiezione 3: Tutti i precetti del Decalogo sono diretti all’amore di Dio e del prossimo; pertanto, i precetti della carità non avrebbero dovuto essere elencati tra i precetti del Decalogo, poiché sono inclusi in tutti quanti.
 
-<span class="atom-split" data-atom="283" data-title="Whether there should have been given two precepts of charity?" data-chapter="Whether there should have been given two precepts of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="283" data-title="Whether there should have been given two precepts of charity?" data-chapter="Whether there should have been given two precepts of charity?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there should not have been given two precepts of charity. For
 the precepts of the Law are directed to virtue, as stated above (A[1], OBJ[3]). Now charity is one
@@ -18249,7 +18259,7 @@ Risposta all’Obiezione 3: I mezzi traggono la loro bontà dalla loro relazione
 
 Risposta all’Obiezione 4: L’amore per il nostro prossimo include l’amore per Dio, poiché la meta è inclusa nei mezzi, e viceversa; tuttavia, ogni precetto doveva essere enunciato esplicitamente, per le ragioni già esposte.
 
-<span class="atom-split" data-atom="284" data-title="Whether two precepts of charity suffice?" data-chapter="Whether two precepts of charity suffice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="284" data-title="Whether two precepts of charity suffice?" data-chapter="Whether two precepts of charity suffice?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that two precepts of charity do not suffice. For precepts are given
 about acts of virtue. Now acts are distinguished by their objects. Since, then, man is bound to love
@@ -18319,7 +18329,7 @@ Risposta all’Obiezione 2: Come già detto sopra (Q[28], A[4]; Q[29], A[3]), gl
 
 Risposta all’Obiezione 3: Fare del bene è qualcosa di più che evitare il male; pertanto i precetti positivi includono, in sostanza, anche quelli negativi. Tuttavia esistono precetti espliciti contro i vizi contrari alla carità: contro l’odio si legge (Lv 12:17): “Non odiare il tuo fratello nel tuo cuore”; contro la pigrizia (Ecclesiaste 6:26): “Non lasciarti abbattere dalle sue difficoltà”; contro l’invidia (Galati 5:26): “Non desideriamo gloria vana, né ci stimoliamo a vicenda all’invidia”; contro le divisioni interne (1 Corinzi 1:10): “Affinché tutti dicano la stessa cosa e non vi siano divisioni tra voi”; e contro lo scandalo (Romani 14:13): “Non mettete ostacoli o cause di scandalo sul cammino vostro fratello”.
 
-<span class="atom-split" data-atom="285" data-title="Whether it is fittingly commanded that man should love God with his whole heart?" data-chapter="Whether it is fittingly commanded that man should love God with his whole heart?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="285" data-title="Whether it is fittingly commanded that man should love God with his whole heart?" data-chapter="Whether it is fittingly commanded that man should love God with his whole heart?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is unfittingly commanded that man should love God with
 his whole heart. For the mode of a virtuous act is not a matter of precept, as shown above (A[1],
@@ -18381,7 +18391,7 @@ Risposta all’Obiezione 2: Amare Dio con tutto il cuore ha un duplice significa
 
 Risposta all’Obiezione 3: Quella perfezione della carità verso cui sono diretti questi consigli si colloca tra le due perfezioni menzionate nella risposta precedente; essa consiste nel fatto che l’uomo rinunci, quanto più possibile, alle cose temporali, anche a quelle legali, poiché queste occupano la mente e ostacolano il reale movimento del cuore verso Dio.
 
-<span class="atom-split" data-atom="286" data-title="Whether to the words, \&quot;Thou shalt love the Lord thy God with thy whole heart,\&quot; it was fitting to add \&quot;and with thy whole soul, and with thy whole strength\&quot;?" data-chapter="Whether to the words, \&quot;Thou shalt love the Lord thy God with thy whole heart,\&quot; it was fitting to add \&quot;and with thy whole soul, and with thy whole strength\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="286" data-title="Whether to the words, \&quot;Thou shalt love the Lord thy God with thy whole heart,\&quot; it was fitting to add \&quot;and with thy whole soul, and with thy whole strength\&quot;?" data-chapter="Whether to the words, \&quot;Thou shalt love the Lord thy God with thy whole heart,\&quot; it was fitting to add \&quot;and with thy whole soul, and with thy whole strength\&quot;?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 # Whether to the words, "Thou shalt love the Lord thy God with thy whole heart," it was fitting to add "and with thy whole soul, and with thy whole strength"?
 
@@ -18448,7 +18458,7 @@ Rispondo che questo precetto è formulato in modo diverso in vari passaggi della
 Chrysostomo, da parte sua, interpreta “cuore” e “anima” in senso opposto; Agostino (De Doctrina Christiana I, 22) associa il “cuore” al pensiero, l’“anima” al modo di vivere e la “mente” all’intelletto. Alcuni interpretano “con tutto il tuo cuore” come riferimento all’intelletto, “con tutta l’anima tua” alla volontà, “con tutta la tua mente” alla memoria; inoltre, secondo Gregorio di Nazianzo (“De Homilia Opifera VIII”), “cuore” indica l’anima vegetativa, “anima” quella sensitiva e “mente” quella intellettiva, poiché il nostro nutrimento, le nostre sensazioni e la nostra comprensione dovrebbero essere tutte rivolte verso Dio.  
 Questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="287" data-title="Whether it is possible in this life to fulfil this precept of the love of God?" data-chapter="Whether it is possible in this life to fulfil this precept of the love of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="287" data-title="Whether it is possible in this life to fulfil this precept of the love of God?" data-chapter="Whether it is possible in this life to fulfil this precept of the love of God?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in this life it is possible to fulfil this precept of the love of
 God. For according to Jerome [*Pelagius, Exposit. Cath. Fid.] "accursed is he who says that Cod
@@ -18496,7 +18506,7 @@ Reply to Objection 3: As Augustine says (De Perfect. Justit. viii), "why should 
 perfection be prescribed to man, although no man attains it in this life? For one cannot run straight
 unless one knows whither to run. And how would one know this if no precept pointed it out."
 
-<span class="atom-split" data-atom="288" data-title="Whether the precept of love of our neighbor is fittingly expressed?" data-chapter="Whether the precept of love of our neighbor is fittingly expressed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="288" data-title="Whether the precept of love of our neighbor is fittingly expressed?" data-chapter="Whether the precept of love of our neighbor is fittingly expressed?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the precept of the love of our neighbor is unfittingly expressed.
 For the love of charity extends to all men, even to our enemies, as may be seen in Mat. 5:44. But
@@ -18548,7 +18558,7 @@ Rispondo che questo precetto è espresso in modo appropriato, poiché indica sia
 Il modo in cui dobbiamo amare è indicato dalle parole “come te stesso”. Ciò non significa che un uomo debba amare il proprio vicino esattamente come se fosse sé stesso, ma in modo simile a come ama sé stesso, e questo avviene in tre modi: primo, riguardo allo scopo dell’amore, ovvero che l’uomo ami il proprio vicino per amore di Dio, così come ama sé stesso per amore di Dio; in questo modo, il suo amore è “santo”. Secondo, riguardo alle regole dell’amore, ovvero che l’uomo non debba cedere al proprio vicino nel male, ma solo nelle cose buone, così come dovrebbe soddisfare i propri desideri soltanto in ambito di bene; in questo modo, il suo amore è “giusto”. Terzo, riguardo al motivo dell’amore, ovvero che l’uomo debba amare il proprio vicino non per interesse o piacere personale, ma con il desiderio del suo bene, così come desidera il proprio bene; in questo modo, il suo amore è “vero”. Poiché quando un uomo ama il proprio vicino per interesse o piacere personale, in realtà non lo ama veramente, ma ama sé stesso.  
 Questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="289" data-title="Whether the order of charity is included in the precept?" data-chapter="Whether the order of charity is included in the precept?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="289" data-title="Whether the order of charity is included in the precept?" data-chapter="Whether the order of charity is included in the precept?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/theological_virtues,concepts/divine_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the order of charity is not included in the precept. For whoever
 transgresses a precept does a wrong. But if man loves some one as much as he ought, and loves
@@ -18609,7 +18619,7 @@ Risposta all’Obiezione 2: L’ordine di quelle quattro cose che dobbiamo amare
 
 Risposta all’Obiezione 3: È proprio dalle parole stesse “Amare il prossimo” che deriva la conclusione che coloro che ci sono più vicini debbano essere amati di più.
 
-<span class="atom-split" data-atom="290" data-title="OF THE GIFT OF WISDOM (SIX ARTICLES)" data-chapter="OF THE GIFT OF WISDOM (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="290" data-title="OF THE GIFT OF WISDOM (SIX ARTICLES)" data-chapter="OF THE GIFT OF WISDOM (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/wisdom,concepts/grace,concepts/theological_virtues,forms/quaestio"></span>
 
 We must now consider the gift of wisdom which corresponds to charity; and firstly, wisdom
 itself, secondly, the opposite vice. Under the first head there are six points of inquiry:
@@ -18630,7 +18640,7 @@ Dobbiamo ora considerare il dono della saggezza, che corrisponde alla carità; e
 (5) È presente in tutti coloro che possiedono la grazia santificante?  
 (6) A quale [beatitudine](/positions/beatitude) corrisponde?
 
-<span class="atom-split" data-atom="291" data-title="Whether wisdom should be reckoned among the gifts of the Holy Ghost?" data-chapter="Whether wisdom should be reckoned among the gifts of the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="291" data-title="Whether wisdom should be reckoned among the gifts of the Holy Ghost?" data-chapter="Whether wisdom should be reckoned among the gifts of the Holy Ghost?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that wisdom ought not to be reckoned among the gifts of the Holy
 Ghost. For the gifts are more perfect than the virtues, as stated above (FS, Q[68], A[8]). Now virtue
@@ -18712,7 +18722,7 @@ Risposta all’Obiezione 2: La saggezza, chiamata dono dello Spirito Santo, si d
 
 Risposta all’Obiezione 3: Proprio come la pietà, che riguarda l’[adorazione](/concepts/religion) di Dio, è una manifestazione della fede – poiché professiamo la nostra fede adorando Dio – allo stesso modo anche la pietà manifesta la saggezza. Per questo motivo si dice che la pietà sia saggezza, e lo stesso vale per la paura: se un uomo teme e adora Dio, ciò dimostra che possiede un giusto giudizio sulle cose divine.
 
-<span class="atom-split" data-atom="292" data-title="Whether wisdom is in the intellect as its subject?" data-chapter="Whether wisdom is in the intellect as its subject?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="292" data-title="Whether wisdom is in the intellect as its subject?" data-chapter="Whether wisdom is in the intellect as its subject?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that wisdom is not in the intellect as its subject. For [Augustine](/figures/augustine)
 says (Ep. cxx) that "wisdom is the charity of God." Now charity is in the will as its subject, and
@@ -18777,7 +18787,7 @@ Risposta all’Obiezione 1: Agostino parla della saggezza in relazione alla sua 
 
 Risposta all’Obiezione 3: L’intelletto compie due atti principali: la percezione e il giudizio. Il dono dell’intelligenza riguarda il primo di questi atti; il dono della saggezza, invece, riguarda il secondo, in relazione alle idee divine nel caso del dono della saggezza, e alle idee umane nel caso del dono della conoscenza.
 
-<span class="atom-split" data-atom="293" data-title="Whether wisdom is merely speculative, or practical also?" data-chapter="Whether wisdom is merely speculative, or practical also?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="293" data-title="Whether wisdom is merely speculative, or practical also?" data-chapter="Whether wisdom is merely speculative, or practical also?" data-kind="atom" data-srclang="en" data-tags="concepts/wisdom,figures/augustine"></span>
 
 Objection 1: It would seem that wisdom is not practical but merely speculative. For the gift of
 wisdom is more excellent than the wisdom which is an intellectual virtue. But wisdom, as an
@@ -18820,7 +18830,7 @@ and afterwards the direction of human acts according to the Divine rules. Nor fr
 of wisdom does there result any bitterness or toil in human acts; on the contrary the result of wisdom
 is to make the bitter sweet, and labor a rest.
 
-<span class="atom-split" data-atom="294" data-title="Whether wisdom can be without grace, and with mortal sin?" data-chapter="Whether wisdom can be without grace, and with mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="294" data-title="Whether wisdom can be without grace, and with mortal sin?" data-chapter="Whether wisdom can be without grace, and with mortal sin?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/charity,concepts/wisdom,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that wisdom can be without grace and with mortal sin. For saints
 glory chiefly in such things as are incompatible with mortal sin, according to 2 Cor. 1:12: "Our
@@ -18876,7 +18886,7 @@ Risposta all’Obiezione 2: Questo argomento riguarda non la saggezza di cui par
 
 Risposta all’Obiezione 3: Sebbene la saggezza sia distinta dalla carità, essa ne presuppone l’esistenza; ed è proprio per questo motivo che separa i figli della perdizione dai figli del regno.
 
-<span class="atom-split" data-atom="295" data-title="Whether wisdom is in all who have grace?" data-chapter="Whether wisdom is in all who have grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="295" data-title="Whether wisdom is in all who have grace?" data-chapter="Whether wisdom is in all who have grace?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that wisdom is not in all who have grace. For it is more to have
 wisdom than to hear wisdom. Now it is only for the perfect to hear wisdom, according to 1 Cor.
@@ -18946,7 +18956,7 @@ Risposta all’Obiezione 2: Sebbene sia compito esclusivamente di coloro che det
 
 Risposta all’Obiezione 3: Gli idioti battezzati, come i bambini piccoli, possiedono l’[abitudine](/concepts/custom) della saggezza, che è un dono dello Spirito Santo; tuttavia non possiedono ancora la pratica concreta di tale saggezza, a causa degli ostacoli fisici che impediscono loro di utilizzare la ragione.
 
-<span class="atom-split" data-atom="296" data-title="Whether the seventh beatitude corresponds to the gift of wisdom?" data-chapter="Whether the seventh beatitude corresponds to the gift of wisdom?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="296" data-title="Whether the seventh beatitude corresponds to the gift of wisdom?" data-chapter="Whether the seventh beatitude corresponds to the gift of wisdom?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the seventh [beatitude](/positions/beatitude) does not correspond to the gift of wisdom. For
 the seventh beatitude is: "Blessed are the peacemakers, for they shall be called the children of God."
@@ -19014,7 +19024,7 @@ fruits." Thirdly, he should strive in all charity to correct the sins of others,
 the words "judging without dissimulation [*Vulg.: 'The wisdom that is from above . . . is . . . without
 judging, without dissimulation']," lest he should purpose to sate his hatred under cover of correction.
 
-<span class="atom-split" data-atom="297" data-title="OF FOLLY WHICH IS OPPOSED TO WISDOM (THREE ARTICLES)" data-chapter="OF FOLLY WHICH IS OPPOSED TO WISDOM (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="297" data-title="OF FOLLY WHICH IS OPPOSED TO WISDOM (THREE ARTICLES)" data-chapter="OF FOLLY WHICH IS OPPOSED TO WISDOM (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/wisdom,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider folly which is opposed to wisdom; and under this head there are three
 points of inquiry:
@@ -19029,7 +19039,7 @@ Dobbiamo ora considerare la follia, che è opposta alla saggezza; e in questo am
 (2) Se la follia sia un peccato;  
 (3) A quale peccato capitale possa essere ridotta.
 
-<span class="atom-split" data-atom="298" data-title="Whether folly is contrary to wisdom?" data-chapter="Whether folly is contrary to wisdom?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="298" data-title="Whether folly is contrary to wisdom?" data-chapter="Whether folly is contrary to wisdom?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that folly is not contrary to wisdom. For seemingly unwisdom is
 directly opposed to wisdom. But folly does not seem to be the same as unwisdom, for the latter is
@@ -19105,7 +19115,7 @@ Risposta all’Obiezione 3: È la saggezza del mondo quella che inganna e ci ren
 
 Risposta all’Obiezione 4: Non curarsi delle proprie ferite può talvolta derivare dal fatto che una persona non ha alcun interesse per le cose mondane, ma soltanto per quelle celesti. Pertanto, questo atteggiamento appartiene alla saggezza divina e non a quella mundana, come afferma Gregorio (Moralia, x, 49). Tuttavia, altre volte tale indifferenza deriva semplicemente dalla stupidità di una persona, come si può osservare negli idioti, i quali non riescono nemmeno a comprendere ciò che potrebbe nuocer loro; in questi casi, si tratta puramente di follia.
 
-<span class="atom-split" data-atom="299" data-title="Whether folly is a sin?" data-chapter="Whether folly is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="299" data-title="Whether folly is a sin?" data-chapter="Whether folly is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that folly is not a sin. For no sin arises in us from nature. But some
 are fools naturally. Therefore folly is not a sin.
@@ -19153,7 +19163,7 @@ Risposta all’Obiezione 2: Sebbene nessuno desideri essere uno sciocco, tuttavi
 
 Risposta all’Obiezione 3: La follia è in contrasto con i precetti relativi alla contemplazione della verità, di cui abbiamo parlato sopra (Q[16]), quando discutevamo di conoscenza e comprensione.
 
-<span class="atom-split" data-atom="300" data-title="Whether folly is a daughter of lust?" data-chapter="Whether folly is a daughter of lust?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="300" data-title="Whether folly is a daughter of lust?" data-chapter="Whether folly is a daughter of lust?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/theological_virtues,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that folly is not a daughter of lust. For Gregory (Moral. xxxi, 45)
 enumerates the daughters of lust, among which however he makes no mention of folly. Therefore

@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A speech (with applause markers) from December 1931: after seven months the Republic has lost enthusiasm and its profile must be rectified. Ortega does not blame the governing men, whose good faith he grants, but an error of framing caused partly by the political discontinuity produced by the monarchy.
 

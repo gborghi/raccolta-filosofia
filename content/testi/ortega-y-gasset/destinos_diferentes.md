@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A comparison of the Italian and Spanish souls built on the notion of ethos, distinguished from ethics (ideological justification, a science) and from morals (ideal norms often unmet): ethos is the effective, spontaneous morality that actually shapes each life. The Italian prefers exteriorisation and puts public life before private, the Spaniard the reverse — whence the rarity of revolutions in Spain.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Concetti:** [[concepts/custom|abitudine]], [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

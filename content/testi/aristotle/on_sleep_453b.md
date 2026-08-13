@@ -12,8 +12,18 @@ tags:
   - "philosopher/aristotle"
 ---
 
+*Aristotle*
+
 > [!abstract]
 > Analyses sleep and waking as affections common to soul and body, tied to the exercise of sense-perception: sleep is a privation of waking, and no animal lacking sensation can properly be said to sleep or wake.
+
+## Connections
+
+**Assi:** [[assi/soul_body|Anima e corpo]]  
+**Posizioni:** [[positions/hylomorphism|ilemorfismo]]  
+**Concetti:** [[concepts/soul|anima]]  
+**Forme:** [[forms/treatise|trattato]]  
+**Scuole:** [[schools/lyceum|Liceo (peripatetici)]]
 
 <p class="work-source">Traduzione di J. I. Beare · Delphi Classics, 2013 · pubblico dominio</p>
 
@@ -76,7 +86,7 @@ Che quindi tutti gli animali dormano può dedursi da queste considerazioni. Un a
 
 Dobbiamo ora procedere a indagare la causa per cui si dorme e si veglia, e la natura particolare della sensazione, o delle sensazioni, se ve ne sono più, da cui queste affezioni dipendono. Poiché, quindi, alcuni animali posseggono tutti i modi della sensazione, e alcuni non tutti, non, per esempio, la vista, mentre tutti posseggono il tatto e il gusto, eccetto quegli animali che sono imperfettamente sviluppati, genere di cui abbiamo già trattato nella nostra opera sull'anima; e poiché un animale, quando dorme, è incapace di esercitare, in senso assoluto, qualsivoglia particolare facoltà sensitiva, ne consegue che nello stato chiamato sonno la medesima affezione deve estendersi a tutti i sensi speciali; perché, se essa si attacca a uno di essi ma non a un altro, allora un animale, mentre dorme, potrebbe percepire con quest'ultimo; ma ciò è impossibile.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/hylomorphism,concepts/soul,forms/treatise,schools/lyceum"></span>
 
 Now, since every sense has something peculiar, and also something common; peculiar, as, e.g. seeing is to the sense of sight, hearing to the auditory sense, and so on with the other senses severally; while all are accompanied by a common power, in virtue whereof a person perceives that he sees or hears (for, assuredly, it is not by the special sense of sight that one sees that he sees; and it is not by mere taste, or sight, or both together that one discerns, and has the faculty of discerning, that sweet things are different from white things, but by a faculty connected in common with all the organs of sense; for there is one sensory function, and the controlling sensory faculty is one, though differing as a faculty of perception in relation to each genus of sensibles, e.g. sound or colour); and since this [common sensory activity] subsists in association chiefly with the faculty of touch (for this can exist apart from all the other organs of sense, but none of them can exist apart from it-a subject of which we have treated in our speculations concerning the Soul); it is therefore evident that waking and sleeping are an affection of this [common and controlling organ of sense-perception]. This explains why they belong to all animals, for touch [with which this common organ is chiefly connected], alone, [is common] to all [animals].
 
@@ -108,7 +118,7 @@ Alcune persone si muovono nel sonno e compiono molti atti simili a quelli della 
 
 3
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/hylomorphism,concepts/soul,forms/treatise,schools/lyceum"></span>
 
 The point for consideration next in order to the preceding is:-What are the processes in which the affection of waking and sleeping originates, and whence do they arise? Now, since it is when it has sense-perception that an animal must first take food and receive growth, and in all cases food in its ultimate form is, in sanguineous animals, the natural substance blood, or, in bloodless animals, that which is analogous to this; and since the veins are the place of the blood, while the origin of these is the heart-an assertion which is proved by anatomy-it is manifest that, when the external nutriment enters the parts fitted for its reception, the evaporation arising from it enters into the veins, and there, undergoing a change, is converted into blood, and makes its way to their source [the heart]. We have treated of all this when discussing the subject of nutrition, but must here recapitulate what was there said, in order that we may obtain a scientific view of the beginnings of the process, and come to know what exactly happens to the primary organ of sense-perception to account for the occurrence of waking and sleep. For sleep, as has been shown, is not any given impotence of the perceptive faculty; for unconsciousness, a certain form of asphyxia, and swooning, all produce such impotence. Moreover it is an established fact that some persons in a profound trance have still had the imaginative faculty in play. This last point, indeed, gives rise to a difficulty; for if it is conceivable that one who had swooned should in this state fall asleep, the phantasm also which then presented itself to his mind might be regarded as a dream. Persons, too, who have fallen into a deep trance, and have come to be regarded as dead, say many things while in this condition. The same view, however, is to be taken of all these cases, [i.e. that they are not cases of sleeping or dreaming].
 
@@ -132,7 +142,7 @@ Eppure si potrebbe fondare una difficoltà sul fatto che il sonno è oltremodo o
 
 Poiché, come è stato osservato altrove, il sonno sopravviene quando l'elemento corporeo [nell'‘evaporazione’] portato in alto dal caldo, lungo le vene, verso la testa. Ma quando ciò che è stato così trasportato in alto non può più ascendere, essendo troppo grande di quantità [per farlo], respinge di nuovo il caldo e scorre verso il basso. Onde avviene che gli uomini si accasciano [come fanno nel sonno] quando il calore che tende a tenerli eretti (l'uomo solo, tra gli animali, essendo naturalmente eretto) viene ritirato; e questo, quando accade loro, causa l'incoscienza, e in seguito la fantasia.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/cause,figures/aristotle"></span>
 
 Or are the solutions thus proposed barely conceivable accounts of the refrigeration which takes place, while, as a matter of fact, the region of the brain is, as stated elsewhere, the main determinant of the matter? For the brain, or in creatures without a brain that which corresponds to it, is of all parts of the body the coolest. Therefore, as moisture turned into vapour by the sun’s heat is, when it has ascended to the upper regions, cooled by the coldness of the latter, and becoming condensed, is carried downwards, and turned into water once more; just so the excrementitious evaporation, when carried up by the heat to the region of the brain, is condensed into a ‘phlegm’ (which explains why catarrhs are seen to proceed from the head); while that evaporation which is nutrient and not unwholesome, becoming condensed, descends and cools the hot. The tenuity or narrowness of the veins about the brain itself contributes to its being kept cool, and to its not readily admitting the evaporation. This, then, is a sufficient explanation of the cooling which takes place, despite the fact that the evaporation is exceedingly hot.
 

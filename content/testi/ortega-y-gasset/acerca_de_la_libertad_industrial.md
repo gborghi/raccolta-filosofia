@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A polemical reply to La Época about the royal decree regulating the price of printed paper: Ortega denies that the Subsistencias law, made for foodstuffs, can cover it, and calls the decree a "reverse price cap" that rescues a few dying newspapers at the expense of industrial freedom and competition. Political journalism on a concrete case.
+
+## Connections
+
+**Concetti:** [[concepts/freedom|libertà]], [[concepts/law|legge]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

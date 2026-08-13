@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Ortega explains why, though calling himself a socialist, he cannot belong to the party: the European intellect was socialist, but today it is socialist 'and several things more', whereas the party demands that one's whole interpretation of the world be reduced to socialism. He then takes up Lassalle's objection to liberalism (the state's abstention merely consolidates the inequalities the state itself created) and turns it against certain socialist formulas, notably the internationalism Marx derives from capitalism.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]], [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/historical_materialism|materialismo storico]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/labour|lavoro]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/historical_materialism_school|materialismo storico]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -174,7 +184,7 @@ Come si vede, per Lassalle «internazionalismo» non volle dire un principio che
 
 A questo vado: il partito spagnolo tende a un'attività puramente internazionalista; pensa che occuparsi di ciò che non sia l'operaio nel suo immediato conflitto con il capitale è incompatibile con l'azione socialista. Ora: questo mi sembra abbastanza erroneo; procede da una comprensione verbale e frammentaria del socialismo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/political_legitimacy,assi/meaning_of_history,positions/historical_materialism,concepts/state,concepts/labour,forms/essay,schools/historical_materialism_school"></span>
 
 Es para Marx el [socialismo](/schools/historical_materialism_school) la cima luminosa del capitalismo, el lugar ideal hacia donde éste camina. Pero el capitalismo es justamente un camino, un proceso en el cual hay estadios muy distintos. Se puede estar al comienzo, a la mitad, casi al fin del camino. La plenitud de la estructura capitalista es condición para que el socialismo pueda tener seria esperanza de triunfar. Si los partidos socializadores se abstraen de esto, dejan de ser lo que pretenden y se convierten en uno de tantos partidos embarulladamente radicales; partidos que se forman disolviendo la retórica de unos pocos en la tontería de unos muchos.
 

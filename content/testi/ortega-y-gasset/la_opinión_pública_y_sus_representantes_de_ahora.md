@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Political column: voters do not vote for the winning candidates but for their own pains and desires; public opinion is enigmatic and must be interpreted. Topical commentary.
+> The digest gives only title and word count (238 words): no prose sample is available, so the content cannot be judged. The title suggests a note on public opinion and its current representatives, but this cannot be confirmed from the text.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

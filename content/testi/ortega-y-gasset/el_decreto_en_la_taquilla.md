@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political article on the granting of the dissolution decree to Dato: any majority would be born tainted, made to vote a railway tariff law. It includes a mock address to the Crown arguing that the monarchy's power has grown not through its own strength but through the collapse of the other institutions.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

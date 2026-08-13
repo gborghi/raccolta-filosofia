@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to Massis on the fate of the novel: many talents but no works, because the novelist must turn wholly toward things whereas the stylist is a Narcissus who turns everything he looks at into a mirror. Literary criticism and a generational diagnosis of "narrowness of soul", not systematic philosophy.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +97,7 @@ In una conferenza su «Il romanzo di oggi», François Mauriac si pone così la 
 
 Il signor Massis vuole che nel romanzo «passi qualcosa», e quel qualcosa è, per quanto si vede, un conflitto —religioso, amoroso, personale— come passava in Balzac. Il signor Mauriac, pensando, io credo, più lealmente, più al filo delle cose, dichiara che il romanzo non può radicare nella storia di un conflitto, perché oggi non ce ne sono, e, conseguentemente, non deve somigliare a Balzac.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Si en última instancia lleva o no dentro de sí conflictos el alma contemporánea, es cuestión delicada. Pero es innegable que, aparentemente, se halla libre de ellos, y este hecho debía causar mayor sorpresa de la que levanta. ¿Qué quiere decir esa ausencia de conflictos, por lo menos, esa evidente disminución de angustias íntimas, esa niñez inesperada que sobreviene al europeo cuando sus conflictos exteriores empiezan a ser pavorosos? Pero dejando ahora este grueso tema, ¿cree Mauriac que si hubiese conflictos en nuestra vida nos interesarían en la novela? Este paralelismo entre las formas del arte y del contenido de la vida es un poco ingenuo. La historia nos pasma dándonos el espectáculo escandaloso de la aparente independencia entre el apetito artístico y el destino vital. Mientras los parisienses del 93 se guillotinaban mutuamente, el Mercure de France publicaba versos titulados «A los manes de mi canario». Cuando yo tenía veinte años me irritaba esta incongruencia; hoy me parece admirable. Ella me recuerda que la vida es más profunda que mis ideas preconcebidas y me invita a ensanchar éstas, a seguir la pista subterránea de los instintos humanos. Porque hay, en efecto, paralelismo rigoroso entre nuestro estilo y nuestra existencia; pero son idiomas distintos y es preciso descubrir la clave de sus exquisitas correspondencias. En la época más abrumada de la vida ateniense, cuando se deshace su poderío y su riqueza en trágico derrumbamiento, la gracia elástica y aérea de Praxíteles fluye en allegro cantabile por los mármoles y destierra de sus figuras toda pesadumbre.
 

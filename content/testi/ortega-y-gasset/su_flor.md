@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A literary portrait of Azorín, 'the knight of the violets': he always seeks the humble, the forgotten, the minimal — in La Celestina the stray falcon, in Las Meninas the small figure of don José Nieto in the doorway at the back. Maximus in minimis: Ortega reads in it a reversal of perspective like the primitives' and defers the study of it.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

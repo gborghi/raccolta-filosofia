@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from a rock painting at Altamira showing a man robbing a beehive, Ortega notes that the identical scene still occurs among the Veddas of Ceylon, and takes it as an exemplary case of the reciprocity between prehistory and ethnology. He then describes Vedda life — hordes of eight or ten, no state or authority, seasonal migration to caves. An anthropological essay, not a philosophical one.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

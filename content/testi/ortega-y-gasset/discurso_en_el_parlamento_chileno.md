@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An address to the Chilean parliament: Ortega presents himself as an independent meditator without office and salutes a reborn Spain. He repeats the idea dearest to him: our existence, prior to any dispute over determinism and indeterminism, is constituted by a set of circumstances that impose necessity — this is destiny — yet always leaves a margin for free decision; there is no living unless the given circumstance is accepted, and no good living unless our freedom shapes it toward perfection.
+
+## Connections
+
+**Assi:** [[assi/end_of_life|Fine della vita]], [[assi/freedom_necessity|Libertà e necessità]]  
+**Posizioni:** [[positions/life_as_project|vita come progetto]]  
+**Concetti:** [[concepts/freedom|libertà]]  
+**Argomenti:** [[arguments/yo_soy_yo_y_mi_circunstancia|io sono io e la mia circostanza]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -162,7 +172,7 @@ Si dice, da alcuni anni, che è finita la politica delle idee, si dice con verit
 
 Le nazioni che sono per voi modelli, per essere quelle che avete trovato nella pienezza del loro sviluppo quando a nuova vita nacquero questi paesi, si fecero là nel Medioevo, ma non come frutto delle idee, dell'intelligenza. Durante il Medioevo si vanno forgiando le nazioni europee mercé opere, virtù, coraggio, sforzo e costanza, che non sogliono essere le caratteristiche degli intellettuali. È quello il tempo in cui dominano i guerrieri e i sacerdoti, con le virtù proprie del loro gremio, e allora si vanno formando anno per anno, centuria per centuria, quegli accordi magnifici dell'umanità che sono state le nazioni d'Occidente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/end_of_life,assi/freedom_necessity,positions/life_as_project,concepts/freedom,arguments/yo_soy_yo_y_mi_circunstancia,forms/lecture"></span>
 
 Entretanto, germina y se prepara en los rincones de los claustros y de las universidades municipales el pensamiento, la inteligencia que tiene en el Renacimiento la primera fiesta de su madurez. Pero crece tanto esta inteligencia, va sintiéndose tan poderosa que llega, sobre todo en el siglo XVII —era de la construcción de los grandes sistemas racionales de Descartes, Spinoza y Leibniz— a creer que puede tanto como Dios, que puede deshacer y reconstruir el templo del mundo.
 

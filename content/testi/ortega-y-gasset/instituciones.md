@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against Hegel's claim that 'all that is real is rational', Ortega argues human life is not simply a reality but at once the interpretation of its own reality, hence constitutively problematic and open to falsification; he diagnoses his own age as one of the falsest, ruled by a 'false sincerism' exemplified by the new art and its nihilism.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]]  
+**Concetti:** [[concepts/nihilism|nichilismo]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +111,7 @@ Non si spiega l'atteggiamento di questi deputati in [materia](/positions/materia
 
 Sarebbe un errore considerare situazione di spirito pari come peculiare ai deputati spagnoli —che, tra parentesi, non confesseranno a se stessi tale situazione intima. La verità, si guardi ovunque con cura e si sappiano sollevare tutte le forme del mascherarsi, è che dovunque accade lo stesso. Nei paesi dove si vive sotto le istituzioni tradizionali —Inghilterra e Francia— le si lascia funzionare tristemente e per inerzia. Nei paesi dove quindici anni fa si cominciò una riforma radicale di esse —Italia e Russia— si tratta precisamente di movimenti ispirati da un curioso ateismo istituzionale. Le istituzioni sovietiche, come è noto, valgono dichiaratamente come maschere e niente più. Sotto di esse agisce un gruppo di uomini. Il fascismo fa i suoi gesti di generare un nuovo tipo di Stato, ma il tal tipo di Stato non appare mai con chiaro profilo aggettivo. Si vede soltanto l'attuazione personale di un uomo, per la quale tutto il resto —ideologia e istituzioni— è puro pretesto e contorno.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/radical_reality_of_life,concepts/nihilism,concepts/beauty,forms/essay"></span>
 
 Ni el comunismo ni el fascismo significan fe alguna en formas políticas. Son todo lo contrario. Todos los movimientos políticos que han brotado en la historia desde hace ciento cincuenta años nacieron movidos, en efecto, por la esperanza puesta en determinadas instituciones. Creían poder dar razones en pro de las formas políticas que propugnaban. Frente a ellos comunismo y fascismo no son fe en lo que propugnan, sino simplemente decisiones. Veamos si me explico. Cuando se ha perdido la fe y no puede uno optar por algo en vista de razones, sino que éstas quedan agotadas, es preciso, no obstante, seguir viviendo; por tanto es preciso seguir optando. Pero esta opción es de nuevo carácter. No se opta ya por fe en lo elegido ni en vista de razones que lo abonan, sino que se opta porque no hay más remedio que optar —más allá de la fe, más allá de la razón. Se trata, pues, del acto más específico de la voluntad.
 

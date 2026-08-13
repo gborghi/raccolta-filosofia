@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A second letter to Maeztu on the «men or ideas» dispute: the recent elections are an experimental confirmation of his thesis, since the people grouped around a pure idea while believing in none of the men carrying it. But the people — the many without the cultured minority — accomplish no historical work: culture is the continuity of sensitivity to ideas. A conservative party can live without ideas because it represents real interests; democracy cannot, because it is only an idea.
+
+## Connections
+
+**Concetti:** [[concepts/idea|idea]], [[concepts/select_minority|minoranza selecta]], [[concepts/state|Stato]]  
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -138,7 +145,7 @@ Ma per la dinamica moderna, in fisica come in politica, la forza è sempre una d
 
 Scossa dai recenti magni dolori, la massa popolare —non i pochi, non i sapienti— ha finito di vedere chiaro nel problema nazionale: la menomazione spagnola non è menomazione industriale e agricola, come sostenne l'Unione Nazionale dei Produttori; né è violenta organizzazione dei tipi etnici peninsulari, come vuole il catalanismo; né è caciquismo e rilassata amministrazione, come pretendeva il partito conservatore, ma meramente l'assenza delle sinistre nella nostra vita secolare. Poiché dove non ci sono sinistre, è chiaro che non ci sono destre; e dove non ci sono né sinistre né destre, manca la forza politica. E senza forza politica è impossibile quel sommo potere plasmatore, il solo capace di suscitare una legislazione positiva e sistematica che pedagogizzi e crei un popolo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/idea,concepts/select_minority,concepts/state,forms/epistle"></span>
 
 Nuestra ansia de regeneración, amigo Maeztu, ha necesitado doce años para llegar a esta viejísima verdad de que sin política no hay pueblo, y que la sustancia de la política es la «guerra ilustre» entre gentes de la izquierda y gentes de la derecha, entre imperialismo y democracia. Así, hace veinticuatro siglos, Platón en la República: «¿A qué hablamos de “la” ciudad? ¿No es, por ventura, cada ciudad muchas ciudades? ¿No es, por lo menos, cada ciudad dos ciudades que viven juntas en perpetua lucha, la ciudad de los pobres y la ciudad de los ricos?»
 

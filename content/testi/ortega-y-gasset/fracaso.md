@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short essay-aporia on the frame: the attempt to treat it fails, yet raises the radical difference between Far Eastern and Western art. Aesthetic note.
+> A 157-word text for which the digest gives no sample: its content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

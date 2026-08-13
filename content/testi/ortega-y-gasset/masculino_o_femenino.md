@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay in 'historical psychology': besides the rhythm of the ages (ours is a time of the young, and the intermediate generation was the unluckiest), the rhythm of the sexes acts on historical substance, and one may ask what the sex of an epoch is. Thesis: when man is defined first of all by his striving toward woman, the epoch is dominated by feminine values; masculine epochs are marked by lack of interest in woman.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -84,7 +92,7 @@ Nella prima Età Media la vita ha più rude cariz. È necessario guerreggiare qu
 
 In tale paesaggio morale, la donna manca di ruolo e non interviene in ciò che possiamo chiamare vita di prima classe. Intendiamoci: in tutte le epoche si è desiderata la donna, ma non in tutte la si è stimata. Così in questa rude età. La donna è bottino di guerra. Quando il germano di questi secoli si occupa di idealizzare la donna, immagina la valchiria, la femmina belligerante, virago muscolosa che possiede atteggiamenti e destrezze di maschio.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,forms/essay"></span>
 
 Esta existencia de áspero régimen crea las bases primeras, el subsuelo del porvenir europeo. Merced a ella se ha conseguido ya en el siglo XII acumular alguna riqueza, contar con un poco de orden, de paz, de bienestar. Y he aquí que rápidamente, como en ciertas jornadas de primavera, cambia la faz de la historia. Los hombres empiezan a pulirse en la palabra y en el modal. Ya no se aprecia el ademán bronco, sino el gesto mesurado, grácil. A la continua pendencia sustituye el solatz e deport —que quiere decir conversación y juego. La mutación se debe al ingreso de la mujer en el escenario de la vida pública. La Corte de los Carolingios era exclusivamente masculina. Pero en el siglo XII las altas damas de Provenza y Borgoña tienen la audacia sorprendente de afirmar, frente al Estado de los guerreros y frente a la Iglesia de los clérigos, el valor específico de la pura feminidad. Esta nueva forma de vida pública, donde la mujer es el centro, contiene el germen de lo que, frente a Estado e Iglesia, se va a llamar siglos más tarde «sociedad». Entonces se llamó «corte»; pero no como la antigua corte de guerra y de justicia, sino «corte de amor». Se trata, nada menos, de todo un nuevo estilo de cultura y de vida…
 
@@ -168,7 +176,7 @@ Forse dai tempi greci non si è stimata tanto la bellezza mascolina come ora. E 
 
 Non sarebbe obiezione contro questo che qualche lettrice, scrutando sinceramente nel suo interno, riconoscesse che non si rendeva conto di essere influenzata nella sua stima della bellezza mascolina dall'apprezzamento che di essa fanno i giovani. Di tutto ciò che è un impulso collettivo e spinge l'intera vita storica in una o altra direzione non ci rendiamo conto mai, come non ci rendiamo conto del movimento stellare che porta il nostro pianeta, né della faccenda chimica in cui si occupano le nostre cellule. Ciascuno crede di vivere per conto suo, in virtù di ragioni che suppone personalissime. Ma il fatto è che sotto quella superficie della nostra coscienza agiscono le grandi forze anonime, i potenti alisei della storia, soffi giganti che ci mobilitano a loro capriccio.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,forms/essay"></span>
 
 Tampoco sabe bien la mujer de hoy por qué fuma, por qué se viste como se viste, por qué se afana en deportes físicos. Cada una podrá dar su razón diferente, que tendrá alguna verdad, pero no la bastante. Es mucha casualidad que al presente el régimen de la existencia femenina en los órdenes más diversos coincida siempre en esto: la asimilación al hombre. Si en el siglo XII el varón se vestía como la mujer y hacía bajo su inspiración versitos dulcifluos, hoy la mujer imita al hombre en el vestir y adopta sus ásperos juegos. La mujer procura hallar en su corporeidad las líneas del otro sexo. Por eso lo más característico de las modas actuales no es la exigüidad del encubrimiento, sino todo lo contrario. Basta comparar el traje de hoy con el usado en la época de otro Directorio mayor —1800— para descubrir la esencia variante, tanto más expresiva cuanto mayor es la semejanza. El traje Directorio era también una simple túnica, bastante corta, casi como la de ahora. Sin embargo, aquel desnudo era un perverso desnudo de mujer. Ahora, la mujer va desnuda como un muchacho. La dama Directorio acentuaba, ceñía y ostentaba el atributo femenino por excelencia: aquella túnica era el más sobrio tallo para sostener la flor del seno. El traje actual, aparentemente tan generoso en la nudificación, oculta, en cambio, anula, escamotea, el seno femenino.
 

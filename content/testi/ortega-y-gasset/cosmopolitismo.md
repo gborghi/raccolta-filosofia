@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Contrasts two postwar phenomena: the official internationalism of the League of Nations, a phantom that never gained real body, and the spontaneous cosmopolitanism of a few dozen intellectuals per country who feel closer to their foreign peers than to the rest of their own nation. A cultural-historical diagnosis rather than systematic philosophy.
+
+## Connections
+
+**Concetti:** [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ Le minoranze scelte non le elegge nessuno. Per la semplice ragione che l'apparte
 
 Non c'è cosa che non possa farsi in uno di questi tre modi: o peggio, o uguale, o meglio di come suole farsi. E questi tre modi possibili sono quelli che producono in maniera automatica la selezione tra gli uomini. La nostra indole più intima ci determina senz'altro, e fatalmente, a deciderci per l'uno o per l'altro. C'è chi non si sente vivere se non a massima tensione delle sue capacità. Gli sa soltanto il pericolo e la difficoltà. L'esistenza non ha per lui senso se non è ascesa dal meno al più perfetto. Di qui che gli ripugni il dominio. Il temperamento dominatore vede tutto dall'alto in basso: gli compiace guardare gli inferiori, e il suo affanno di ascesa è soltanto il desiderio di stare sopra agli inferiori; quindi, di ciò che sta sotto. Il temperamento scelto non gode di nessun predominio. Signoreggiare qualcosa è, in fin dei conti, trattare con inferiori e lui ha bisogno, al contrario, dell'acre costante che lo spinga verso l'alto, della suzione del supremo. Per lo meno ha bisogno di sentirsi tra eguali. Alla fine, chi ci è eguale, poiché non lo dominiamo, è sempre in potenza di superarci e ci incita, quindi, al certame ascensionale.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/select_minority,forms/essay"></span>
 
 De aquí que los cosmopolitas de la cultura se sientan desligados de la convivencia espiritual con la masa de su nación e impremeditadamente sientan la necesidad de contacto con los pares o mejores de todo el mundo. Han menester de esa presión, de esa incitación hacia lo alto. Por su parte, la masa propensa a la inercia, al sospechar ese apetito de fuga cenital, de incansable exigencia hacia lo óptimo, se fatiga, se inquieta, se irrita y prefiere desentenderse de quien no se ocupa de ella ni siquiera para dominarla.
 

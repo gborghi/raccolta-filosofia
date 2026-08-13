@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from Westenhofer's research (man does not descend from the ape but the ape from man), Ortega denounces a defect of specialist culture: a doctrine migrating out of the speciality that bore it loses its index of problematicity and descends as dogma on everyone else. At stake is the idea man has of man and of his zoological destiny.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]]  
+**Concetti:** [[concepts/nature|natura]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +110,7 @@ Ma la dentatura, che fa dell'uomo una specie più giovane del pesce, lo fa a un 
 
 Lo stesso accade se guardiamo alle estremità. La disposizione nell'uomo di braccia e gambe rispetto al torso ricorda anzitutto la rana, anche nell'ordinamento dei muscoli. La rana e la lucertola sono parenti non molto lontani dell'uomo. È cosa molto probabile che i pesci primitivi possedessero una disposizione di pinne più vicina a quella dei sauri di quanto lo siano i pesci attuali. Le specie viventi più antiche, come il barramunda dei fiumi australiani, hanno un altro paio di pinne posteriori che con le anteriori annunciano la collocazione delle quattro estremità nei sauro-mammiferi del periodo primario[33].
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/human_nature,concepts/nature,forms/essay"></span>
 
 En este período primario, con el reptil, aparece la mano, y desde luego aparece con sus cinco dedos. Uno de los fenómenos más misteriosos de la Historia Natural es esta ley de la pentadactilia que impera en la evolución orgánica. Todo el que haya visto, aunque sólo sea en reproducción fotográfica, la huella del cheirotherion —que pertenece a la época primitiva— habrá experimentado cierto pavor advirtiendo su enorme semejanza con la huella de la mano humana. El pulgar, con su gruesa pulpa, la proporción de los dedos, etcétera, todo coincide inquietadoramente. Lejos, pues, de ser la mano una adquisición de última hora, la verdad es que se trata de uno de los órganos más antiguos, usufructuado ya por el más primitivo vertebrado terrestre. En éste como en otros atributos, se declara —dice Klaatsch— que lo sorprendente del hombre no es su progresiva adaptación, sino, al revés, su conservatismo, la tenacidad con que ha retenido y salvado elementos sumamente antiguos que las demás especies han perdido. La mano es uno de los grandes atributos del hombre. En combinación con el cerebro, ha hecho de él la bestia industriosa que fabrica instrumentos, el homo faber, o, como Franklin solía llamarle, animal instrumentificum. Según esto, lo maravilloso no sería tanto la existencia de la mano, sino la conservación de semejante antigualla zoológica.
 

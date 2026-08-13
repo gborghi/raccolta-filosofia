@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Articles on Spanish neutrality: more important than getting the international decision right is understanding the state of mind that produced it. True political realism consists in seeing that the supreme reality is the spiritual state of the people. Central claim: public opinion is nearly always larval or disguised, like dreams according to Freud, and must be deciphered like a hieroglyph.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -138,7 +145,7 @@ MAROCCO, SÌ O NO?
 
 Molto di rado, dicevo io, l'opinione pubblica è ciò che essa dice. Solo in rari, fuggitivi istanti di pienezza sociale, coincide ciò che si dice con ciò che si sente. E non mi riferisco ora alle falsificazioni premeditate dell'opinione che questo politico o quel giornale tentino di commettere. No; essa stessa è insincera, riservata, geroglifica. Dice sempre un'altra cosa, se non contraria, per lo meno diversa da quella che sente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,concepts/select_minority,forms/essay"></span>
 
 Prueba de la insinceridad radical de la opinión pública es que no se ha dado el [caso](/concepts/fortune) jamás de que en ella se eche la culpa el público a sí mismo. Siempre es otro el causante del mal. ¿Quién duda de que frecuentemente lleva razón? Pero si el mal de un pueblo llega a consistir ni más ni menos que en ser barrido del haz de la Historia, ¿quién duda que es él el culpable? No obstante, cuando ese caso ominoso llega, el pueblo tiene siempre a mano algún conde Don Julián o algún Don Opas sobre quién descargar la responsabilidad.
 

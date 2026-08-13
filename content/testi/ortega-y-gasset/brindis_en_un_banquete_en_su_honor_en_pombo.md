@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A toast at the Café Pombo: Ortega restates his thesis that the most important concept in history is that of the generation — each lives walled up in its own sensibility and communicates with the others as through a wall, hearing their voices without understanding. He adds a theory of myth as "vital luxury" (to live, says Nietzsche, is to live more) and makes Pombo the only myth produced in fifteen years, an injection of phantasmagoria into the heart of the bourgeois.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

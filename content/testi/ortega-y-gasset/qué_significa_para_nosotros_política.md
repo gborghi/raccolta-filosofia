@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A programme for the 'new politics': widen the concept of politics beyond elections and parliament, putting the nation's vitality before the conquest of government. It distinguishes the Spanish State from Spanish society and declares that, should they conflict, society is to be served against the State.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

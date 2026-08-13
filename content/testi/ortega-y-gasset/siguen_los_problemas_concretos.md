@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A polemical reply to Cambó: Ortega recapitulates the three points of his earlier article (Cambó's haughtiness, the claim that European politics now reduces to concrete rather than constituent problems, monetary stabilization) and answers the 'psychograph' Cambó draws of him, citing his own writings on the electoral regime. Newspaper polemic.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +96,7 @@ Ecco come a me non duole scoprire le carte e posso raccontare al pubblico il con
 
 In quanto sopra ho voluto accettare il ruolo di reo, sebbene non sia io il politico-uomo d'affari, ma il signor Cambó; sebbene non sia io colui che pretende di ridurre la politica a problemi concreti né chi è stato o è al ministero delle Finanze. E di queste cose precisamente si trattava. Tuttavia, ho voluto rispondere agli attacchi del signor Cambó dando io stesso loro un'aria di questioni politiche che non hanno, poiché sono, al massimo, apprezzamenti sul mio carattere intellettuale, sulla mia versatilità ed estrema presunzione.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 El hecho de no tener yo pasado de actuación política, y el señor Cambó uno largo y nutrido, da a mi posición en este match una ventaja excesiva: es difícil atacarme y me es fácil defenderme. Pero me repugna aprovechar esa ventaja negativa que no he ganado por haber hecho, sino por no haber hecho, se entiende, política; por eso trato las objeciones a lo La Bruyère que se hacen a mi carácter con igual patetismo que si me dijesen cómo siendo yo hombre público había discutido el pago al Tesoro de unos impuestos.
 
@@ -246,7 +252,7 @@ Questo è —non ho bisogno di interpretarglielo al lettore— un insulto che il
 
 Ma è vano l'impegno. Il signor Cambó, che intimidirebbe con il minore dei suoi gesti audaci la mia abituale timidezza nella vita privata, non riuscirà mai —mi dispiace farglielo sapere— a intimidirmi minimamente quando si tratta di affari pubblici. No, signor Cambó; un po' di misura. Io, invece di scompormi dinanzi al suo insulto, vado ad analizzare tranquillamente il suo paragrafo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Hay en él la intención de presentarme como un hombre a quien la polémica política lleva a violar una amistad íntima. Mas es el [caso](/concepts/fortune) que mi amistad con el señor Ventosa no tiene ese carácter, aunque yo lo desearía. Nuestro trato se ha reducido a seis u ocho encuentros en toda nuestra vida. Pero no se crea que va esto dicho con ánimo de volatilizar mi relación con este señor. Todo lo contrario. Lo digo para añadir en esta ocasión tan penosa, y cuando razones más fuertes que mi albedrío me obligan a vejarlo, que mi simpatía y estimación por su persona privada son muy superiores al grado de nuestra efectiva amistad.
 

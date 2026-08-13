@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A polemical definition: solidarity is any political grouping of citizens who renounce their ideal divergences to defend common economic interests — that is, it rests on economic primacy. The most immoral is the German one (the "bloc"), which dresses its economic assertion in titles of race, fatherland and tradition and calls itself nationalism.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -66,7 +73,7 @@ Che cosa è accaduto alla fine? Salvo alcuni indisciplinati, i liberali hanno ri
 
 Portiamo tutti, in alluvione, per le nostre vene alcune sabbioline di questo divino Mare Nostrum che ha il sorriso innumerevole. E se orientiamo la nostra anima, che con severa e avveduta virtù ci siamo fatta nella disgrazia umile, verso il mare profondo del Nord per apprendere in esso la sapienza di ciò che sta al di là della fisica, ci accompagna, invece, come viatico, la sapienza antropologica, la distinzione estetica e la malizia che insegnano il tempo e le sue figlie, le diverse fortune. Le onde riverberanti del Mediterraneo, classico costruttore di repubbliche, hanno levigato in lunghi secoli il ciottolo del nostro cuore, e volle il destino che un pomeriggio lo sfiorasse al passaggio la chiglia piena d'alghe della barca di Ulisse. Abbiamo il cuore antico e memore; e ci accadrebbe cento volte, vivendo tra tedeschi, di dir loro ciò che i sacerdoti egizii dissero all'ateniese: «Voi greci siete dei bambini. E se oggi siete in auge, già vi verrà il declino».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Pero no es preciso que lo digamos nosotros; ahí está el mismo Goethe, que lo formuló conversando con Eckermann en 3 de mayo de 1827: «Nosotros los alemanes somos de ayer. Hemos trabajado mucho, a la verdad, desde hace cien años; pero aún tienen que pasar unos siglos antes de que penetre y se generalice en nuestros compatriotas tanto de espíritu y superior cultura que lleguen a venerar la Belleza, como los griegos, a entusiasmarse por una canción linda, y que pueda, en fin, decirse de ellos que hace mucho que fueron bárbaros».
 

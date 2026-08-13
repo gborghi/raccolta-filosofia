@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A feuilleton written to fill one last sheet: Ortega describes the two photographs hanging opposite each other in his room — El Greco's Nobleman with his Hand on his Chest, who is for him Don Juan, and the Gioconda, "Doña Juana", essential femininity — and their silent duel. Rejecting the theme as too big, he falls back on a Regoyos landscape of the Bidasoa. An occasional literary piece.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

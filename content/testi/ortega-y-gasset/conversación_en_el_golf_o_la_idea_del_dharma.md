@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A literary sketch: taken to lunch at the golf club by friends, Ortega describes faun-and-nymph players and casts himself as spectator ("I attend the life of others"; martyr means witness). The sample never reaches the "idea of dharma" of the title, which therefore cannot be assessed.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -168,7 +174,7 @@ Fu allora che il fauno benevolo che si trovava di fronte, pieno di simpatia vers
 
 —In [modo](/concepts/mode) alcuno. Se lei non giocasse al golf incorrerebbe nello stesso peccato che io se giocassi. Entrambi saremmo stati indocili al nostro dharma.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 —¡Bien por el dharma! —dijo la ninfa agudísima, apoyando luego el rubí de sus labios en el gran rubí del vaso donde el sol se diluía en borgoña. Detrás de ese dharma sospecho toda una teoría. ¡Venga al punto, ahora mejor que después! Con los entremeses llegaron las anécdotas, con la entrée se aventuró usted a galantearme, ahora se presenta el asado, lo fundamental; venga, pues, la teoría. ¡No me negarán ustedes que la comida es perfecta!
 

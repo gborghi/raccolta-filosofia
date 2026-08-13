@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Contains only the epigraphs (Heraclitus fr. 51; Aristotle, Nicomachean Ethics) of El Espectador vol. III. No substantive text in the sample.
+> A 70-word item with no sample in the digest: probably the title page of the third volume of El Espectador (1921). Content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

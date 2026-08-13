@@ -12,8 +12,20 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > The elderly Parmenides subjects the young Socrates's theory of Forms to a series of devastating objections, including the famous 'third man argument' against the participation of sensible things in the Forms. In the second part, as a dialectical exercise, he ruthlessly deduces a series of opposing consequences from the hypotheses that 'the one is' and that 'the one is not'.
+
+## Connections
+
+**Assi:** [[assi/universals|Universali]], [[assi/reality_status|Statuto del reale]], [[assi/method|Metodo]]  
+**Posizioni:** [[positions/realism_universals|realismo (universali)]], [[positions/realism_of_ideas|realismo delle idee]], [[positions/dialectic|dialettica]]  
+**Concetti:** [[concepts/methexis|methexis (partecipazione)]]  
+**Argomenti:** [[arguments/third_man_argument|l'argomento del terzo uomo]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]  
+**Scuole:** [[schools/academy|Accademia platonica]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -100,7 +112,7 @@ Vedo, Parmenide, disse Socrate, che Zenone vorrebbe essere non solo uno con te i
 
 Sì, Socrate, disse Zenone. Ma sebbene tu sia acuto come un segugio spartano nell'inseguire la traccia, non afferri appieno il vero motivo della composizione, che non è davvero un'opera così artificiosa come immagini; poiché ciò di cui parli fu un accidente; non v'era pretesa di un grande proposito, né alcuna seria intenzione di ingannare il mondo. La verità è che questi miei scritti erano destinati a proteggere gli argomenti di Parmenide contro coloro che lo deridono e cercano di mostrare i molti risultati ridicoli e contraddittori che essi suppongono conseguano dall'affermazione dell'uno. La mia risposta è rivolta ai fautori dei molti, il cui attacco rendo con gli interessi, ribattendo loro che la loro ipotesi dell'essere dei molti, se condotta a fondo, appare ancor più ridicola dell'ipotesi dell'essere dell'uno. Lo zelo per il mio maestro mi indusse a scrivere il libro nei giorni della mia giovinezza, ma qualcuno rubò la copia; e perciò non ebbi scelta se dovesse essere pubblicato o no; il movente, tuttavia, dello scrivere non fu l'ambizione di un uomo maturo, ma la combattività di un giovane. Questo non sembri vedere, Socrate; sebbene per altri aspetti, come dicevo, la tua concezione sia molto giusta.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/universals,assi/reality_status,assi/method,positions/realism_universals,positions/realism_of_ideas,positions/dialectic,concepts/methexis,arguments/third_man_argument,figures/socrates,forms/dialogue,schools/academy"></span>
 
 I understand, said [Socrates](/figures/socrates), and quite accept your account. But tell me, Zeno, do you not further think that there is an idea of likeness in itself, and another idea of unlikeness, which is the opposite of likeness, and that in these two, you and I and all other things to which we apply the term many, participate — things which participate in likeness become in that degree and manner like; and so far as they participate in unlikeness become in that degree unlike, or both like and unlike in the degree in which they participate in both? And may not all things partake of both opposites, and be both like and unlike, by reason of this participation? — Where is the wonder? Now if a person could prove the absolute like to become unlike, or the absolute unlike to become like, that, in my opinion, would indeed be a wonder; but there is nothing extraordinary, Zeno, in showing that the things which only partake of likeness and unlikeness experience both. Nor, again, if a person were to show that all is one by partaking of one, and at the same time many by partaking of many, would that be very astonishing. But if he were to show me that the absolute one was many, or the absolute many one, I should be truly amazed. And so of all the rest: I should be surprised to hear that the natures or ideas themselves had these opposite qualities; but not if a person wanted to prove of me that I was many and also one. When he wanted to show that I was many he would say that I have a right and a left side, and a front and a back, and an upper and a lower half, for I cannot deny that I partake of multitude; when, on the other hand, he wants to prove that I am one, he will say, that we who are here assembled are seven, and that I am one and partake of the one. In both instances he proves his case. So again, if a person shows that such things as wood, stones, and the like, being many are also one, we admit that he shows the coexistence of the one and many, but he does not show that the many are one or the one many; he is uttering not a paradox but a truism. If however, as I just now suggested, some one were to abstract simple notions of like, unlike, one, many, rest, motion, and similar ideas, and then to show that these admit of admixture and separation in themselves, I should be very much astonished. This part of the argument appears to be treated by you, Zeno, in a very spirited manner; but, as I was saying, I should be far more amazed if any one found in the ideas themselves which are apprehended by reason, the same puzzle and entanglement which you have shown to exist in visible objects.
 
@@ -256,7 +268,7 @@ Immagino che il modo in cui siete condotti ad assumere una sola idea per ciascun
 
 Molto vero, disse Socrate.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/universals,assi/reality_status,assi/method,positions/realism_universals,positions/realism_of_ideas,positions/dialectic,concepts/methexis,arguments/third_man_argument,figures/socrates,forms/dialogue,schools/academy"></span>
 
 And if you go on and allow your mind in like manner to embrace in one view the idea of greatness and of great things which are not the idea, and to compare them, will not another greatness arise, which will appear to be the source of all these?
 
@@ -548,7 +560,7 @@ Ma, allora, che ne sarà della filosofia? Verso dove ci volgeremo, se le idee so
 
 Certamente non vedo la mia via al presente.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/universals,assi/reality_status,assi/method,positions/realism_universals,positions/realism_of_ideas,positions/dialectic,concepts/methexis,arguments/third_man_argument,figures/socrates,forms/dialogue,schools/academy"></span>
 
 Yes, said Parmenides; and I think that this arises, [Socrates](/figures/socrates), out of your attempting to define the beautiful, the just, the good, and the ideas generally, without sufficient previous training. I noticed your deficiency, when I heard you talking here with your friend Aristoteles, the day before yesterday. The impulse that carries you towards philosophy is assuredly noble and divine; but there is an art which is called by the vulgar idle talking, and which is often imagined to be useless; in that you must train and exercise yourself, now that you are young, or truth will elude your grasp.
 
@@ -840,7 +852,7 @@ Impossibile.
 
 Ma forse il moto dell'uno consiste in cambiamento di luogo?
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/universals,assi/reality_status,assi/method,positions/realism_universals,positions/realism_of_ideas,positions/dialectic,concepts/methexis,arguments/third_man_argument,figures/socrates,forms/dialogue,schools/academy"></span>
 
 Perhaps so, if it moves at all.
 
@@ -1368,7 +1380,7 @@ E non significano 'sarà', 'diventerà', 'sarà divenuto' una partecipazione del
 
 Certo.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="positions/dialectic,concepts/methexis,concepts/infinity,figures/plato"></span>
 
 And ’is,’ or ‘becomes,’ signifies a participation of present time?
 
@@ -1860,7 +1872,7 @@ Dunque non solo l'uno che ha l'essere è molteplice, ma l'uno stesso, distribuit
 
 I'm ready to translate the passage, but the source text hasn't been provided yet. Please share the English philosophical prose you'd like me to translate into Italian.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="positions/dialectic,concepts/methexis,figures/plato,forms/dialogue"></span>
 
 Further, inasmuch as the parts are parts of a whole, the one, as a whole, will be limited; for are not the parts contained by the whole?
 
@@ -2368,7 +2380,7 @@ Allora quando diciamo che gli altri sono altro dall'uno, e l'uno altro dagli alt
 
 Verissimo.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en" data-tags="positions/dialectic,concepts/idea,concepts/methexis,figures/plato,forms/dialogue"></span>
 
 Then the one which is other than others, and the other which is other than the one, in that the word ‘other’ is applied to both, will be in the same condition; and that which is in the same condition is like?
 
@@ -2828,7 +2840,7 @@ Ma, certamente, ciò che è deve sempre essere in qualche luogo?
 
 Sì.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en" data-tags="positions/dialectic,concepts/methexis,concepts/time,figures/plato,forms/dialogue"></span>
 
 But that which is in anything will be less, and that in which it is will be greater; in no other way can one thing be in another.
 
@@ -3224,7 +3236,7 @@ Allora l’uno è della stessa età di tutti gli altri, così che, se l’uno st
 
 Certamente.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/universals,assi/reality_status,assi/method,positions/realism_universals,positions/realism_of_ideas,positions/dialectic,concepts/methexis,arguments/third_man_argument,figures/socrates,forms/dialogue,schools/academy"></span>
 
 After this manner then the one is and has become. But as to its becoming older and younger than the others, and the others than the one, and neither older nor younger, what shall we say? Shall we say as of being so also of becoming, or otherwise?
 
@@ -3552,7 +3564,7 @@ Vero.
 
 Tutte queste, allora, sono le affezioni dell'uno, se l'uno ha l'essere.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en" data-tags="positions/dialectic,concepts/methexis,concepts/infinity,figures/plato,forms/dialogue"></span>
 
 Of course.
 
@@ -3952,7 +3964,7 @@ Pertanto essi non sono né medesimi, né altri, né in movimento, né in quiete,
 
 Molto vero.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/universals,assi/reality_status,assi/method,positions/realism_universals,positions/realism_of_ideas,positions/dialectic,concepts/methexis,arguments/third_man_argument,figures/socrates,forms/dialogue,schools/academy"></span>
 
 Therefore if one is, the one is all things, and also nothing, both in relation to itself and to other things.
 
@@ -4420,7 +4432,7 @@ E, inoltre, se non è mosso in alcun modo, non sarà alterato in alcun modo?
 
 No.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en" data-tags="positions/dialectic,concepts/methexis,concepts/infinity,figures/plato,forms/dialogue"></span>
 
 Then, in so far as the one that is not is moved, it is altered, but in so far as it is not moved, it is not altered?
 
@@ -4888,7 +4900,7 @@ Né come simili o dissimili?
 
 No.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en" data-tags="positions/dialectic,figures/plato,forms/dialogue"></span>
 
 Nor as the same or different, nor in contact or separation, nor in any of those states which we enumerated as appearing to be; — the others neither are nor appear to be any of these, if one is not?
 

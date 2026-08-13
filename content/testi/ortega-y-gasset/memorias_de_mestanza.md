@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Articles in La Nación (1936) on the memoirs of Gaspar de Mestanza: the portrait of an exceptional witness of the fin de siècle generation, in which the European trusted himself most and for that very reason lost all caution — the immediate but deep cause of what is happening now. Ortega observes that history tends to switch off the light at the hour of its great mutations: when humanity is about to change, men seem to turn stupid.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -66,7 +74,7 @@ Per me la cosa più sorprendente in Mestanza è che uomo di tale qualità, di me
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,forms/essay"></span>
 
 En el mismo tomo IV, que corresponde, aproximadamente a su cincuentena, escribe Mestanza: «Al llegar a cierta altura de su transcurso, nuestra vida hace automáticamente balance definitivo de sus experiencias en un cierto orden de asuntos. No por ser tan normal es menos extraño el fenómeno a que aludo. Porque esa operación de balance y cierre de cuentas respecto a un tema vital —al amor y la mujer, por ejemplo, o bien sobre lo que se espera de nuestro pueblo y de los demás, o bien sobre la política— va motivada por una absoluta convicción de que ya hemos hecho todas las experiencias acerca de él que podemos hacer. Y esto es lo extraño: ¿cómo sabe nuestra vida de antemano que ya no va a experimentar nada nuevo en aquel orden? Nada tiene que ver este balance auténticamente definitivo e inexorable con otros que hacemos en alguna hora patética y de cuya insinceridad nos damos cuenta. En éstos nos sentimos histriones de nuestra propia vida. (Sería interesante, por cierto, estudiar el histrionismo que el hombre menos histrión segrega a lo largo de su vida, como si ésta necesitase de cuando en cuando darse espectáculos íntimos). El balance a que me refiero lleva en sí mismo la garantía de su autenticidad; sabe que no es ficción y que es irremediable; más aún, se lo encuentra uno hecho y terriblemente concluso.
 
@@ -144,7 +152,7 @@ III
 
 «Quando guardo controluce —scrive Mestanza nel tomo VI delle sue Memorie— i quarant'anni e passa della mia vita diplomatica, vedo nel suo ambito agitarsi, come infusorii in un liquido corrotto, gli innumerevoli politici che ho conosciuto. Ho visto passare davanti a me i governanti di quasi tutti i paesi e quelli che aspiravano a esserlo. Che impressione ha depositato nel fondo del mio essere quella favolosa moltitudine di personaggi, a cui fosse preciso aggiungere la ricevuta nelle mie letture storiche, continuate durante mezzo secolo? Non mi è facile enunciarla perché mi ripugnano le stravaganze, e quella impressione lo è a fondo e senza rimedio. Io preferirei poter incriminare questa mia opinione sui politici trovando qualche pretesto per squalificarla dinanzi al mio proprio giudizio.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,forms/essay"></span>
 
 »Hay opiniones en cuya formación nos damos cuenta de haber intervenido: las hemos buscado y solicitado, las hemos ido urdiendo, por decirlo así, con nuestras manos y conocemos el secreto lugar de ellas donde, para redondearlas, les dimos un ligero coup de pouce que acaso es arbitrario o, por lo menos, no impuesto ineludiblemente por los hechos. Pero hay otras opiniones de que nos sabemos por completo inocentes. Nunca intentamos formárnoslas, no fuimos ni remotamente sus conscientes creadores. Al contrario: nos las encontramos un buen día formadas en nosotros por generación espontánea, sin que sepamos de dónde vinieron y cuál ha sido su gestación. Por lo visto, en nuestro roce con la realidad, se han ido poco a poco precipitando en nosotros, como mecánicamente, en virtud de cierta secreta química tan solapada que ha ido operando a espaldas de nuestra íntima vigilancia. Ello es que, precisamente por no ser obra nuestra, no podemos nada frente a estas opiniones que ejercen un influjo inexorable sobre nosotros».
 
@@ -180,7 +188,7 @@ IV
 
 «Mi sembra un errore credere che la rete con cui la società mantiene nel suo seno, prigioniero, l'individuo sia tessuta principalmente con i vantaggi materiali che gli offre, presentandogli risolte le sue più urgenti necessità fisiche. Se fosse così, penso che risulterebbe molto più frequente il caso di uomini che fuggissero risolutamente da ogni convivenza umana. Perché quei vantaggi materiali restano di sobra controbilanciati dai fastidi che comporta il tratto con i prossimi. L'esperienza mi ha insegnato che, contro ciò che affermano retoriche generalizzazioni, sono numerosissimi gli uomini che non stimano le comodità fisiche e la cui capacità di adattarsi alle maggiori scarsezze è praticamente illimitata. Non credo, dunque, che sia quella la [causa](/concepts/cause) per cui l'individuo resti con tanto strana regolarità ritenuto dentro la vita sociale, a dispetto del vigore con cui a certa altezza dell'esistenza suole sentire atroce misantropia. Chi non è passato per più di un'ora in cui gli parve con irrefragabile evidenza che non c'è nulla da fare con "gli altri", che la presunta convivenza non è tale con-vivenza, ma piuttosto una extra o antivivenza, che vivere è inesorabile incomunicazione, incorreggibile solitudine e consustanziale non intendersi con nessuno? Non si semplifichi, dunque, leggermente il problema della famosa "sociabilità" dell'uomo. Prima si risolvevano questioni come questa appellandosi al Deus ex machina degli istinti, ma ben chiaro si vede che l'uomo è un animale che li ha persi e che trascina solo la rovina di essi. Per tanto, qualcosa di peggio che non averli è conservare i suoi moncherini e inorganiche brindelle, incapaci già di dirigerci, ma sufficienti per non lasciarci seguire tranquillamente la ragione. Questo dà alla condizione dell'uomo quella penosa e ridicola ambiguità che fa di lui, a un tempo, un animale degenerato e un petulante cucciolo di arcangelo.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,forms/essay"></span>
 
 »No es, pues, la ventaja material ni un mitológico instinto de sociabilidad lo que más resueltamente mantiene al hombre en sociedad, sino esa otra ventaja moral que consiste en ahorrarle el esfuerzo de decidir qué es lo que va a hacer en cada minuto. Esto sí que es poderoso sobre nosotros y nos prende por el más secreto subsuelo de nuestra vida, iba a decir que por su peana. Tan secreto, tan previo y elemental es ese ligamen, que ni siquiera lo advertimos, y si un día nos faltara, nos pondría en trance de enloquecer. Imagínese que un hombre tuviera, de verdad, que inventar por sí mismo todos los actos intelectuales, apreciativos y corporales que necesita ejecutar en una sola de sus jornadas. ¡Sería pavoroso y sucumbiría de angustia ante la empresa! Por aquí es por donde la sociedad nos soborna haciendo que en todo instante nuestro contorno colectivo nos proponga una pauta de conducta —el sistema de costumbres, usos y leyes— en el cual, como en un cómodo cauce, dejamos fluir la mayor porción de nuestra existencia. Pero esto significa que nuestro comportamiento en esa mayor porción de nuestra existencia no es propio y original nuestro, sino módulo de origen colectivo —que esto es ser algo costumbre y uso. No es, en consecuencia, nuestra individual persona el efectivo agente de toda esa parte de nuestra vida. Somos más bien pacientes del molde en que la sociedad ahorma la [materia](/positions/materialism) fusiva de nuestro ser. Mas precisamente gracias a esta parcial enajenación de nuestra existencia podemos reservar nuestras escasas energías para poder ser individuos y vivir según propia inspiración en algún orden de ella.
 

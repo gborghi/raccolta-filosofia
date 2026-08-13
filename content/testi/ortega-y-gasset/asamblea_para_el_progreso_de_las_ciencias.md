@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An address on Europeanisation, under the Platonic-Socratic epigraph from the Apology ("a life without inquiry is not liveable"). Ortega reproaches the Europeanist programmes — beginning with Costa's — for never defining what Europe is: railways, hotels, police and commerce are only outward appearance, effects that somebody first had to invent. He defends definitions against the horror mystics and mystifiers feel for them.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Figure:** [[figures/plato|Platone]], [[figures/socrates|Socrate]], [[figures/leibniz|Leibniz]]  
+**Forme:** [[forms/essay|saggio]], [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -132,7 +140,7 @@ Qui abbiamo, infine, la novità introdotta nell'economia del mondo orientale, gr
 
 Europa = scienza; tutto il resto le è comune col resto del pianeta.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,figures/plato,figures/socrates,figures/leibniz,forms/essay,forms/lecture"></span>
 
 Y ahora volvamos al asunto de la europeización. ¿Ha habido, de 1898 acá, programa alguno que considere la ciencia como la labor central de donde únicamente puede salir esta nueva España, moza idealmente garrida que abrazamos todos en nuestros más puros ensueños? Se ha hablado, y por [fortuna](/concepts/fortune) se habla cada vez más, de educación: sólo a la insolencia irresponsable de alguno que quiera oficiar de necio representativo es lícita la duda sobre si puede correr un día más sin que iniciemos una magna acción pedagógica que restaure los últimos tejidos espirituales de nuestra raza. Pero esto no basta: el problema educativo persiste en todas las naciones con meras diferencias de intensidad. El problema español es, ciertamente, un problema pedagógico; pero lo genuino, lo característico de nuestro problema pedagógico, es que necesitamos primero educar unos pocos hombres de ciencia, suscitar siquiera una sombra de preocupaciones científicas y que sin esta previa obra el resto de la acción pedagógica será vano, imposible, sin sentido. Creo que una cosa análoga a lo que voy diciendo podría ser la fórmula precisa de europeización.
 
@@ -216,7 +224,7 @@ Le uniche faccette di sensibilità che restano alla Spagna sono la letteratura g
 
 La letteratura quotidiana e la politica di caffè sono le forme che acquistano i temi della cultura per farsi popolari, come Harun al-Rashid si travestiva da artigiano e vagava per le taverne quando voleva affacciarsi al cuore dei suoi sudditi. Nessuno, dunque, le tocchi. Il male, il deplorevole è che non ci sia in realtà più che questo. L'oro non potrà mai essere maneggiato dalle mani popolari, ma è necessario che si conservi oro nelle arche delle Banche se deve avere qualche valore certo la carta moneta e la monetina circolanti nel popolo. Quell'altra cosa che deve esserci dietro i giornali e le conversazioni pubbliche, è la scienza, la quale rappresenta —non si dimentichi— l'unica garanzia di sopravvivenza morale e materiale in Europa.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,figures/plato,figures/socrates,figures/leibniz,forms/essay,forms/lecture"></span>
 
 ¿Y quién duda de que no existe hoy entre nosotros un público para la ciencia, no hablemos ya de creadores de ciencia? Harto claramente marca nuestra temperatura espiritual el arte que producimos. Hoy, por ejemplo, es imposible que una labor de alta literatura logre reunir público suficiente para sustentarse. Sólo el señor Benavente ha conseguido hacer algo discreto y, a la vez, gustar a un público. Pero esto no es una excepción. A decir verdad, su teatro no tiene con el público más punto de contacto que el calembour. En general, sería difícil descubrir un grupo considerable de españoles capaces de reaccionar ante lo que no sea un calembour o una carga de caballería, últimos reductos de la literatura periodística y de la política de tertulia. El nivel intelectual va bajando tanto y tan deprisa en estos confines de la decadencia, que dentro de poco no habrá academias ni teatros, sino que sentados los españoles en torno a enormes mesas de café nos contaremos cuentos verdes. Y con este gesto de simiesca apocalipsis desaparecerá una [sublime](/concepts/sublime) posibilidad de riquezas humanas aún no sidas, de virtudes futuras aún no intentadas, de emociones profundas hoy ignotas, todo eso que queremos designar cuando hablamos religiosamente conmovidos de cultura española por venir.
 
@@ -300,7 +308,7 @@ Il sole, traditore amico nostro, che ci uccide in un abbraccio, può combattersi
 
 Non so se tutto questo saranno logomachie, ma sono fermamente convinto che più utile per la Spagna di quanto possa fabbricarsi nel Parlamento, sarebbe che alcuni compatrioti si dedicassero a indagare che cosa fu ciò che si mangiò alla cena Platone.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,figures/plato,figures/socrates,figures/leibniz,forms/essay,forms/lecture"></span>
 
 El Imparcial, 10 de agosto de 1908
 

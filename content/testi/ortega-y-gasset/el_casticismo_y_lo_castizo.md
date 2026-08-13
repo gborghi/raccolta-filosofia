@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > It distinguishes the "casticista" writer from the poet of the castizo: the obsession with not losing one's peculiarity is suspect, since a powerful ego does not fear absorption but absorbs, and Greece was original only while it had sensibility for the foreign. Being spontaneous, the castizo cannot become a norm: the psychology of a race is a dynamic flux, never closed.
+
+## Connections
+
+**Concetti:** [[concepts/custom|abitudine]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial on the Madrid bread conflict: a trivial dispute paralyses a city of a million. Ortega criticizes both the absurdity of the workers' violence and the right's demand to abolish the right to strike, calling for an active, impartial state that organizes internal dissent through law.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/law|legge]], [[concepts/labour|lavoro]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

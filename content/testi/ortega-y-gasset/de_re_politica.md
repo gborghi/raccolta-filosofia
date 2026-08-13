@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Parliament was meant to be the breathing-hole of national life; in Spain it has instead absorbed political spontaneity, confining public life within the scholastic limits of parliamentary life. Against Silvela's thesis that Spain has no public opinion, Ortega first asks what a "people" is and why the peoples who vote do vote.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -126,7 +134,7 @@ Ogni opinione, dunque, è sempre di origine privata e l'unica significazione giu
 
 Il popolo non sa ciò che vuole; sa al massimo ciò che non vuole e per questa ragione sdegna molti che lo sollecitano e non risponde a qualsiasi parola o scongiuro. In formula più precisa ma più tecnica si potrebbe definire il popolo come l'indeterminato storico da determinare mediante la cultura. Questo lavoro di determinazione che deve realizzare la parte più colta di una razza sulla parte meno colta o popolo è la politica. E poiché vivere non è andare trascinato, andare forzato, ma proporsi dei fini e conseguirli per quanto possibile, volere, in somma, qualcosa e volere i mezzi che lo producono, la politica significa un'azione sulla volontà indeterminata del popolo, non sui suoi muscoli, un'educazione, non un'imposizione. Non è dare leggi, è dare ideali e per ideali non si intenda nulla di vago e donzellesco, ma qualsiasi possibile miglioramento spirituale o materiale della società, dalla libertà di culto alla revisione della tariffa, dove forse questa sembri più ideale di quella in quanto più remota e difficile.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/political_legitimacy,concepts/state,forms/essay"></span>
 
 De todo esto resulta que el lugar donde menos quehaceres políticos puede haber es el Parlamento; allí no debía irse sino a refrendar la organización del espíritu público realizada fuera. Precisamente para esto se inventó el Parlamento: para que pudiera sin peligro hacerse la política fuera de él, fuera del antiguo Consejo despótico. Parlamento es representación, mero reflejo y sombra de la realidad política exterior. El único lugar donde no está un pueblo es aquél en que está su representación.
 

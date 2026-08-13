@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Chronicle of the cabinet crisis settled by confirming Romanones: the crisis of the Spanish political regime goes on, with oligarchic groups clinging to power against a country that has been demanding a transformation of politics since June 1917. Political topicality.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

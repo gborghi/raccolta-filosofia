@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Scientific ideas bear fruit quietly in books; political ideas must instead take flesh in a generation. Since each new generation arrives with a differently tempered nervous system, an artificer is needed to renew the liberal emotion — and in Spain none appeared: the liberal idea is dying and only the conservative emotion remains.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]]  
+**Concetti:** [[concepts/idea|idea]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -126,7 +135,7 @@ Un'impresa politica di Saavedra Fajardo dipinge una saetta in aria sotto la qual
 
 I partiti liberali sono partiti di frontiera della Rivoluzione o non sono nulla. L'ultimo e più fine teorizzatore dell'idea conservatrice, Federico Giulio Stahl, giurista ingegnoso e teologico, credette di dettare la sentenza del liberalismo dimostrando che il liberalismo è il «sistema della Rivoluzione». Questo fu detto verso il 1840: i liberali di allora, pur essendolo molto sul serio, perché consideravano quella parola pregiudizievole a quel tempo per i loro intenti, protestarono. Ma il tempo, che è un galant'uomo, secondo il cardinale Mazzarino, è andato ripulendo quella voce dalla sua scoria lamentevole, e oggi ci vorrebbe assai mala fede per vedere in essa altra cosa che la luce sottile e spirituale di un'idea. Oggi sono fortunatamente, le strade delle grandi urbi troppo larghe, e i caricatori dei fucili troppo rapidi perché nessuno onesto abbia diritto a interpretare sinistramente ciò che dico.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,concepts/idea,forms/essay"></span>
 
 Y es esto que digo que el liberalismo de hoy, si no quiere seguir siendo un entremés para la Historia, tiene que confesarse y declararse inequívocamente «sistema de la revolución». A los ánimos que acostumbran espantarse de la sombra que dejan en el aire las palabras propongo este punto de meditación: ¿Qué prefieren: un sistema de revolución o revolucionarios sin sistema? Un sistema es una idea: sistema de la revolución significa, pues, idea de la revolución o revolución ideal. De revolutionibus orbium cœlestium llamó el sacerdote Copérnico a su sistema de los astros, y mire el señor lector cómo, gracias al sistema astronómico, han desaparecido de tras los planetas aquellas torvas divinidades anárquicas e injustas que intervenían a lo mejor en los negocios de los hombres, y hoy quedan simplemente unas flores de dulce lumbre lejana que dan sus vueltas o revoluciones con estricta blandura y armonía. Los terremotos, en cambio, continúan siendo irreductibles a un sistema: cuando se les reduzca habráseles puesto un yugo, y en lugar de destruir ciudades los aprovechará la industria como fieras domadas.
 
@@ -204,7 +213,7 @@ Non ci capisce, dunque, equivoco nel liberalismo. Il senso che la sua tradizione
 
 Fin qui ho parlato solo del liberalismo come idea, come sistema di astrazioni, come corollario di un'etica scientifica. Ho chiamato ideale il liberalismo: vuole questo dire che sia un utopismo? In modo alcuno: l'ideale, quando lo è, né è fantasia né è sogno: è l'anticipazione di una realtà futura. Il teorizzatore del liberalismo —la mia modesta persona, in questo [caso](/concepts/fortune)—, deve stare fuori della realtà, fuori della realtà attuale, giacché si pone in una futura e in nome di questa esige la trasformazione della presente; la sua prospettiva spirituale può semplificarsi in queste parole di Pestalozzi: «È necessario deviare i nostri occhi da quanto accade, al fine di conservare in noi limpida la sensibilità per ciò che deve accadere».
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,concepts/idea,forms/essay"></span>
 
 Tampoco la realización del ideal necesita la destrucción de la realidad: cambiarla es suficiente. Aquí concluye la acción del liberalismo y comienza la del partido liberal, que es su instrumento. Consiste el papel de éste en adecuar trozo a trozo el ideal a la realidad y hallar las fórmulas para insertar en ella la mayor porción posible de ideal. De este [modo](/concepts/mode) quedan sistematizadas las revoluciones. El liberalismo señala dónde hay que ir; el partido liberal busca y proclama el camino, pero arbolando en todo instante aquella exigencia última, categórica, que da una dirección y un oriente a sus pasos.
 

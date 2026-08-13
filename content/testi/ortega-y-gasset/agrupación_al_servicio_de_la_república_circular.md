@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Circular of the parliamentary minority of the Agrupacion al Servicio de la Republica. Organizational political document, not philosophical.
+> A 97-word circular of the Agrupación al Servicio de la República, with no sample in the digest: content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

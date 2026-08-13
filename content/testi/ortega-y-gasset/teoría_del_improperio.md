@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Literary criticism of Baroja: his preferred vocabulary (canalla, estúpido, imbécil, repugnante) shows he writes not out of aesthetic love but to satisfy a psychological need. It continues with a reflection on the word as expressive sign, on technical language (maximum idea, minimum emotion) and on children's inarticulate cries.
+
+## Connections
+
+**Concetti:** [[concepts/idea|idea]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

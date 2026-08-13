@@ -6,7 +6,7 @@ label_en: "education"
 aliases:
   - "Bildung"
   - "istruzione"
-work_count: 62
+work_count: 56
 tags:
   - "graph/concept"
 title: "educazione"
@@ -15,7 +15,7 @@ title: "educazione"
 
 *education*
 
-## Opere (62)
+## Opere (56)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
@@ -34,7 +34,6 @@ title: "educazione"
 - [Menschliches, Allzumenschliches [Erster Band]](/testi/nietzsche/menschliches_allzumenschliches_erster_band)
 
 **Ortega y Gasset**
-- [Actuación social de la Liga](/testi/ortega-y-gasset/actuación_social_de_la_liga)
 - [Al margen del libro A. M. D. G.](/testi/ortega-y-gasset/al_margen_del_libro_a_m_d_g)
 - [Alemán latín y griego](/testi/ortega-y-gasset/alemán_latín_y_griego)
 - [Asamblea para el progreso de las ciencias](/testi/ortega-y-gasset/asamblea_para_el_progreso_de_las_ciencias)
@@ -45,7 +44,6 @@ title: "educazione"
 - [Cuestión religiosa](/testi/ortega-y-gasset/cuestión_religiosa)
 - [Desconfianza ante los programas simples](/testi/ortega-y-gasset/desconfianza_ante_los_programas_simples)
 - [Diputado por la cultura](/testi/ortega-y-gasset/diputado_por_la_cultura)
-- [ENSAYOS FILOSÓFICOS BIOLOGÍA Y PEDAGOGÍA](/testi/ortega-y-gasset/ensayos_filosóficos_biología_y_pedagogía)
 - [Educación](/testi/ortega-y-gasset/educación)
 - [El Quijote en la escuela](/testi/ortega-y-gasset/el_quijote_en_la_escuela)
 - [El hombre, individuo de la humanidad](/testi/ortega-y-gasset/el_hombre_individuo_de_la_humanidad)
@@ -60,7 +58,6 @@ title: "educazione"
 - [La escuela laica](/testi/ortega-y-gasset/la_escuela_laica)
 - [La psicología del cascabel](/testi/ortega-y-gasset/la_psicología_del_cascabel)
 - [La varita de virtudes](/testi/ortega-y-gasset/la_varita_de_virtudes)
-- [La vida infantil](/testi/ortega-y-gasset/la_vida_infantil)
 - [MISIÓN DE LA UNIVERSIDAD](/testi/ortega-y-gasset/misión_de_la_universidad)
 - [Misión política de las minorías intelectuales](/testi/ortega-y-gasset/misión_política_de_las_minorías_intelectuales)
 - [Más acción nacional que fórmulas políticas](/testi/ortega-y-gasset/más_acción_nacional_que_fórmulas_políticas)
@@ -70,10 +67,8 @@ title: "educazione"
 - [Pedagogía y anacronismo](/testi/ortega-y-gasset/pedagogía_y_anacronismo)
 - [Problemas culturales](/testi/ortega-y-gasset/problemas_culturales)
 - [Problemas culturales Sobre la enseñanza clásica](/testi/ortega-y-gasset/problemas_culturales_sobre_la_enseñanza_clásica)
-- [Prólogo a Pedagogía general derivada del fin de la educación de J F Herbart](/testi/ortega-y-gasset/prólogo_a_pedagogía_general_derivada_del_fin_de_la_educación_de_j_f_herbart)
 - [Se busca al hombre](/testi/ortega-y-gasset/se_busca_al_hombre)
 - [Segunda intervención sobre el Estatuto catalán](/testi/ortega-y-gasset/segunda_intervención_sobre_el_estatuto_catalán)
-- [Sobre el estudiar y el estudiante Primera lección de un curso](/testi/ortega-y-gasset/sobre_el_estudiar_y_el_estudiante_primera_lección_de_un_curso)
 - [Sobre los estudios clásicos](/testi/ortega-y-gasset/sobre_los_estudios_clásicos)
 - [Sobre una apología de la inexactitud](/testi/ortega-y-gasset/sobre_una_apología_de_la_inexactitud)
 - [Socialización de la escuela](/testi/ortega-y-gasset/socialización_de_la_escuela)
@@ -81,7 +76,6 @@ title: "educazione"
 - [Una exposición Zuloaga](/testi/ortega-y-gasset/una_exposición_zuloaga)
 - [Una fiesta de paz](/testi/ortega-y-gasset/una_fiesta_de_paz)
 - [Una respuesta a una pregunta](/testi/ortega-y-gasset/una_respuesta_a_una_pregunta)
-- [VIEJA Y NUEVA POLÍTICA Conferencia dada en el Teatro de la Comedia el 23 de marzo de](/testi/ortega-y-gasset/vieja_y_nueva_política_conferencia_dada_en_el_teatro_de_la_comedia_el_23_de_marzo_de)
 
 **Plato**
 - [EUTHYDEMUS](/testi/plato/euthydemus)

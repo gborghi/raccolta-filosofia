@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Continuation of the Egypt sketch: no society was ever more purely a State — no individuation, bureaucratic hypertrophy, a cult of official titles. Hegel's 'objective spirit' is cited in passing to define the State as a system of intellectual and moral moulds.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

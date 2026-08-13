@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Unsigned polemical note (España, 5 February 1915) replying to Azorín's attack on the journal España, defending its non-partisan character. Occasional journalism with no philosophical content.
 

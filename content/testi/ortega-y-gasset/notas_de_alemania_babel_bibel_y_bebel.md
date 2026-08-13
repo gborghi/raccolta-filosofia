@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A dispatch from Germany: after a nod to the assyriologist Delitzsch's 'Babel und Bibel' controversy, Ortega surveys the thousand German congresses and settles on the Social Democratic congress at Jena, where Bebel must mediate between the youth demanding a general strike and the party elders (Kautsky, Heine), revealing that the three million socialist votes are no homogeneous body. Journalism.
+
+## Connections
+
+**Scuole:** [[schools/historical_materialism_school|materialismo storico]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

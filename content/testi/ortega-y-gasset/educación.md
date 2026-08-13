@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lecture on pedagogy: to educate is eductio, drawing from an imperfect individual a better man, and pedagogical science faces two problems — the rigorous determination of the ideal human type and the discovery of means to orient the pupil toward it. It closes by noting that words are little glass bulbs each man inflates with his own meaning, and that science is above all speaking precisely.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

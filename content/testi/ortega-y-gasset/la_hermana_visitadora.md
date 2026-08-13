@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A travel sketch: on a train through Castile, three nuns board at Paredes; the eldest, a hospital visitor, muddles the prioresses' names, shows the fan given her by an inmate, and recalls with a smile the morning forty-nine years earlier when she left home. Narrative prose, not philosophy.
 

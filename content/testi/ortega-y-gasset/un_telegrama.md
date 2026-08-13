@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Protest telegram (1920) against the suspension of the newspaper El Sol, denounced as Spain's regression from civil society to an uncivil horde. A civic, non-philosophical text.
+> Very short text (93 words). The digest carries no sample: its content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

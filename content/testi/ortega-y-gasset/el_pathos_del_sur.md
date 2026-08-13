@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay of manners against Spanish pride in being a southern race: only a physiological analogy, the southern pathos, links us to Greece, whereas what was Hellenic is the culture that raised it. Ortega retracts his own youthful fiction of a Mediterranean genealogy.
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Letter from Marburg to Baroja on his '¿Con el latino o con el germano?': setting international politics aside, what matters is Spain's cultural rapprochement with Germany. It recalls the failure of the krausistas in the 1870s, smothered by the religious and nativist fanaticism that insisted Spanish culture had never lapsed.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +103,7 @@ Un po' tardi è, dunque, se è tardi qualche volta, per mettersi in pace con Dio
 
 Anche se non è buono ed è fin troppo dongiovannesco gettare il tutto a una carta, vengo ripetendo con meritoria insistenza che la decadenza spagnola consiste pura e semplicemente in mancanza di scienza, in privazione di teoria. Già so che con questo, non solo contraddico eccessivamente l'opinione di quei eruditi almogàvari dell'anno 70, ma nemmeno trovo eco simpatica nell'animo di quasi nessuno spagnolo maggiore di quarant'anni. È verità giovane che arriva con noi e ci rende possibile la speranza; una verità propria di chi sente un pessimismo creatore, un pessimismo che accumula i mali sul passato, per lasciare libere le vie dell'avvenire. La generazione di lei e la mia e quella che si annuncia, partecipano di questo temperamento, e c'è da sperare che, accettando quella interpretazione della storia di Spagna, comincino la riforma. Dopo tutto, la politica, i cambiamenti dell'emozione nazionale, ciò che si impone sugli egoismi individuali e familiari, è sempre uscito dai giovani. Non so se ha letto lei che, secondo gli studi più moderni e accurati, deve cercarsi l'origine della politica e della città, non tanto nell'aggregazione di famiglie, quanto nell'associazione dei ragazzi scapoli che, rompendo il circuito domestico, si riunivano in una specie di club giovanile, germe della piazza, dell'agorà, dell'Università e del Parlamento.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/epistle"></span>
 
 Todavía el señor Sánchez Toca, en su reciente libro Reconstitución de España en vida de economía política actual —libro tan anacrónico, tan maniático y tan sin ventanas a parte alguna, que parece cavilado por un bonzo solícito en un convento tibetano—, sustenta la tesis de que nuestros atrasos en el siglo XIX proceden de la manía ideológica de nuestros políticos. ¿Qué le parece a usted este tópico, amigo Baroja? ¿Cree usted que Mendizábal y Narváez, el duque de la Torre y O’Donnell y Prim, Ruiz Zorrilla y Sagasta, Castelar y Cánovas fueron ideológicos? El único que pudiera justificar este título, Castelar, ¿no fue el inventor de la «política positiva»?; ¿no se pasó los veinte años últimos de su vida predicando la «política positiva»? Por el contrario, Gioberti y Mazzini dieron el primer impulso a la realización política de Italia, y Cobden defendía la Liga Anti-Corn Law, demostrando que era un corolario de los principios del Evangelio, y en el Parlamento inglés se escucharon frases como ésta, pronunciada por Canning: «Se ha iniciado un período en que los ministros tienen en su poder aplicar a la administración de esta tierra las rectas máximas de una profunda filosofía». Y, no obstante, la generación actual de Inglaterra, heredera de Meredith, prosigue, con Wells y Shaw a la cabeza, la crítica del [empirismo](/positions/empiricism), del costumbrismo inglés, y piden que la razón, que la idea gobierne al antiguo pueblo de los Robinsones.
 
@@ -204,7 +211,7 @@ Secondo: se la storia universale è prima di tutto storia dell'evoluzione della 
 
 A misura che la società europea si andava organizzando in maniera scientifica, carattere distintivo dell'età moderna, eravamo spostati dal mondo, finché nel 1898 si udì una voce che suppongo nessuno spagnolo avrà dimenticato, perché io, pur essendo un bambino quando la udii, né la dimentico né la dimenticherò. Mi riferisco a quelle famose parole del marinaio yankee Maham: «Bisogna proclamare l'espropriazione delle razze incompetenti».
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/epistle"></span>
 
 Hablaba yo en la carta anterior con alguna acritud de los eruditos que hace treinta años sostuvieron que habíamos poseído todos los principios fundamentales de aquella nueva vida que se inicia en Europa con la serie de movimientos renacentistas. Pero es que me enojaba la inconsciencia con que un miope patriotismo les conducía a hacernos imposible toda esperanza. Pues si habiendo gozado de todas las facultades modernas no hemos podido en cuatro siglos arreglar nuestra vida ni hacernos oír con respeto, antes bien hemos perdido el poderío externo y corporal, será menester atribuir nuestro malestar y nuestra mengua a algún poder oculto, a algún defecto metafísico —sea étnico o geográfico— de nuestro ser radical sobre el que no podamos operar, que no podamos corregir. Al paso que, si no hemos tenido ciencia, ese mismo desmedramiento secular nos aparecerá como un milagro, como una incomparable demostración de energía. Y cabe pensar: cuando hemos realizado el milagro de sobrevivir en el clima de la Europa moderna sin las técnicas científicas que a otros pueblos han hecho posible la existencia, ¿qué no podremos esperar de los españoles el día que aprendan ética, física, química, economía, etcétera?
 

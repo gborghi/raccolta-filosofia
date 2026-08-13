@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A travel note: alongside the reborn industrial Nuremberg the old city survives, and Ortega borrows from a French naturalist the idea that what wins is not the type best adapted to its milieu but the one with energy enough to persist unchanged through changing milieus — a struggle for consistency rather than for existence.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +96,7 @@ L'estetica è una questione politica, come lo è ogni forza capace di porre sul 
 
 Ma non si creda che questo [idealismo](/positions/idealism) abbia da portare con sé ostilità verso il reale, ma oppostamente. Idealismo è l'amore tanto fervente della realtà, che adentriamo questa in noi, e nel più intimo chilificata ci dà un umore di quintessenza che, correndo d'arteria in arteria e di vena in vena, ci muove a vedere tutto come divinamente condito e ci fa sentire un aroma trascendente delle cose. In questo modo fu idealista il gran norimberghese Alberto Dürer, creatore di una delle incisioni più belle del mondo: «Cavaliere, Diavolo e Morte». Si ricordi la sua immagine di giovane di ventisei anni, secondo l'originale che esiste al Prado: la bellezza ideale del volto è tanta, che dalle sue stesse fattezze dedusse la figura moderna del dolce e malinconico Cristo. E, tuttavia, il suo autoritratto lascia vedere un animo sensuale e innamorato di tutti gli amori: le donne, le tele di fino lino, il tisù d'oro, la fama. Camerario diceva di lui che «la sua anima era piena di ardente desiderio per la bellezza e la virtù; ma non era per questo di una penosa rigidità; al contrario, nulla stimava tanto quanto ciò che contribuisce all'allegria del vivere». E siccome una di queste mistiche forze che agilizzano la vita è la curiosità, in certa occasione prese sua moglie e i suoi pennelli e se ne andò ai Paesi Bassi soltanto per vedere con i propri occhi una balena, «animale —dice nel suo diario— di cui si raccontano cose prodigiose».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Pero todo esto, en verdad que ha muerto: la exaltación del viajero repone en su lugar esas existencias gloriosas y representativas. Cuando una ciudad vieja llega a ser un cillero de historia, un montón de años secos, lo único que queda en ella viviente son sus fuentes viejas, que prosiguen cantando y corriendo como en la juventud de la villa. Por eso digo que los habitantes perennes, los vecinos únicos de Nuremberga, son sus fuentecitas: la del Hombrecillo del albogue o donzaniero, la del Hombrecillo de los gansos, la de las Virtudes, unas mozuelas broncinas de escasamente una vara en alto, las cuales vierten de sus pechos virtuosos unos hilos de agua. Debió haber mucho de socarrón y de burlesco a lo villano en aquellos hombres recios, corpulentos, sensuales, que se complacían en hacer todo pequeño: las casas, las plazas y los leves puentecillos. En lugar de nuestros ampulosos monumentos modernos de pétrea retórica, elevados a «grandes hombres» con pomposos dísticos en el plinto, los sabios, prudentes, demócratas y maliciosos nurembergueses dejaron aquí y allá unas figuras irónicas de unos pocos palmos. Y es como si dijeran: —Sabemos que han de llegar tiempos de aristocratismo comprimido a fuerza de palabras democráticas en que algunos espíritus que se la den de exquisitos vengan a proclamar como héroes de Nuremberga a Pirkheimer, a Durero, a Regiomontano, a Adam Kraft, el fundidor en bronce; para esos tiempos elevamos como una lección estas estatuas menudas al Hombrecillo que con dos gansos viene al mercado, y al Hombrecillo que tañe su albogón; éstos son los más grandes hombres de Nuremberga. Ténganlo por sabido.
 

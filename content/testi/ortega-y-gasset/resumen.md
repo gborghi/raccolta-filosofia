@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short editorial closing (El Sol, 1919): the government could not act otherwise, but must organise Spain's other forces and confine the army to its sole mission. A topical political note.
+> A 92-word fragment; the digest carries no text sample, so its content cannot be judged. Left untagged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

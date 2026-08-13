@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A six-point reply to señor Bello on Catalan autonomy: the nationalist question must be kept apart from regional autonomy, and his doctrine—set out in La redención de las provincias and España invertebrada—means to push both centralism and autonomism to the limit so each compensates the other. The start of 'Memorias de quince meses' follows.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -126,7 +132,7 @@ Invece, dobbiamo domandarci che cosa significhi concretamente, agli effetti dell
 
 C'è rivoluzione quando ai difetti e agli errori di un regime politico risponde con una certa prontezza una parte della società che si costituisce come opposizione extra-governativa e riesce, «in quanto tale opposizione», a raggiungere forza sufficiente per lottare col potere costituito. Per quanto si voglia volatilizzare l'idea di rivoluzione politica, non ci sarà modo di amputarle questa componente di lotta.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state"></span>
 
 Pero la lucha supone que cuando la oposición tiene ya fuerza suficiente para combatir el poder público, éste conserva todavía buena parte de la suya. Sólo así acontecerá que en cierto instante dos fuerzas opuestas coexisten y se enfrontan dentro del ámbito nacional. La revolución significa, pues, que el país se divide radicalmente en dos bandos, ninguno de los cuales es mínimo. Esto ha acaecido en Inglaterra, en Francia, en Alemania, en Italia (en estos dos últimos países con menos claridad por la interferencia que en sus revoluciones producía su falta de unidad estatal).
 

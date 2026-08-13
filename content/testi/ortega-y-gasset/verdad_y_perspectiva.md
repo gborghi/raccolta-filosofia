@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The programme of El Espectador: precisely because Spanish life forces one into political action, a part of oneself must be fenced off for contemplation. Politics is thinking about the useful; if it becomes the person's central habit one ends up confusing the true with the useful, and making utility into truth is the definition of the lie. The sample does not yet develop the notion of perspective announced in the title.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Concetti:** [[concepts/reason|ragione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +122,7 @@ Io vado molto lontano dal pretendere simile cosa. Non asevero che l'atteggiament
 
 Accentuare questa differenza tra la contemplazione e la vita —la vita, con la sua articolazione politica di interessi, desideri e convenienze—, era necessario. Perché El Espectador porta una seconda intenzione: esso specula, guarda —ma ciò che vuole vedere è la vita secondo come fluisce davanti a lui.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/reason,forms/essay"></span>
 
 Con razón se tachaba de gris la teoría, porque no se ocupaba más que de vagos, remotos y esquemáticos problemas. La historia de la ciencia del conocimiento nos muestra que la lógica, oscilando entre el escepticismo y el dogmatismo, ha solido partir siempre de esta errónea creencia: el punto de vista del individuo es falso. De aquí emanaban las dos opiniones contrapuestas: es así que no hay más punto de vista que el individual, luego no existe la verdad —escepticismo; es así que la verdad existe, luego ha de tomarse un punto de vista sobreindividual —racionalismo.
 

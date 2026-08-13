@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A note on the magazine Europa: the title is already a negation of present-day Spain, but the new fact is that some writers really collaborate in it, whereas Spanish magazines are made by juxtaposing copy. Real collaboration requires a system of serious, impersonal opinions, that is, a point of view — and in Spain, Ortega says, none has risen in twenty-five years. Cultural criticism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

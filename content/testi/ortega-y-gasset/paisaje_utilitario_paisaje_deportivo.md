@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on the 'vital environment': each species and each individual works as a sieve letting some objects through and eliminating others, so the hunter's landscape and the farmer's do not coincide. It concludes that utilitarianism narrows the horizon and that culture is born not of work but of sport.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/perspectivism|prospettivismo]]  
+**Concetti:** [[concepts/experience|esperienza]], [[concepts/nature|natura]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

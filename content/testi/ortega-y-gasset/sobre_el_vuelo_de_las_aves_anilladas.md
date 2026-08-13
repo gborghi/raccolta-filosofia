@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A natural-history essay on bird ringing and migration, with the remark that all science is sporting in origin: from Aristotle, who believed birds sleep in winter like tortoises, to Frederick II's De arte venandi, to Linnaeus (1750) and von Lucanus's book. Not philosophical; only in passing does it deny that rings and aviation permit experiment rather than observation.
+
+## Connections
+
+**Concetti:** [[concepts/nature|natura]]  
+**Figure:** [[figures/aristotle|Aristotele]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +104,7 @@ Il fatto è che l'inanellamento, a dispetto della sua ridotta espansione, cominc
 
 Come è noto, l'emigrazione o migrazione consiste in un viaggio d'autunno e uno di primavera. Gli uccelli viaggiatori vivono, dunque, mezzo anno in un luogo e mezzo in un altro. Non entrano in considerazione i trasferimenti dentro una contrada. Si tratta soltanto dello spostamento da un territorio a un altro lontano separato da quello da un terzo spazio dove l'animale non risiede mai. Di quelle due metà annuali, quella dell'estate ha un carattere tassativo: è l'epoca della covata. Vengono questi uccelli a fare nel Nord la loro covata, e in autunno, quando si avvicinano i freddi, si mobilitano verso il Sud. Hanno una patria, che è la terra dei loro figli, come Nietzsche, futurista, voleva che fosse sempre la patria; e inoltre hanno un'altra patria dove semplicemente vacano alla loro nutrizione e al loro piacere. Verso febbraio comincia il ritorno in Europa. Come si spiega questo uso della gente alata? La verità è che non si spiega, ma che si tenta di spiegarlo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/nature,figures/aristotle,forms/essay"></span>
 
 Unos lo entienden de este [modo](/concepts/mode): los animales actuales se forman en la época terciaria, durante la cual todo el globo gozó de suave temperatura, inclusive en las zonas árticas. Las aves emigrantes fueron entonces de condición estable en nuestras tierras, donde habían sido modeladas. Al sobrevenir los períodos de glacialización tuvieron poco a poco que correrse hacia los trópicos durante los inviernos, buscando temperatura y alimento. Al volver la estación favorable volvían a su solar. Ésta es la explicación geológica. Tiene en su abono la advertencia de que las aves primigenias no pudieron ser emigrantes porque sus alas, poco formadas, verdaderos bocetos de alas, no les permitían la gran altura aérea.
 
@@ -204,7 +212,7 @@ Grazie all'inanellamento sono oggi conosciute le traiettorie di più di cento sp
 
 Per questi due sapienti deve essere indiscutibile che, almeno nella specie umana, i giovani imparano dai vecchi. Ma è questa cosa tanto palmare? Soltanto negli antichi libri retorici si vede che, in effetti, il giovane impari dal vecchio. Fuori di quelle ingenue aree con bianco su nero, ciò che si osserva è piuttosto il contrario: il giovane a cui il vecchio dà noia e annoia e la tendenza di quello a fare il contrario di quanto questo gli suggerisce. Questo antagonismo tra le età impedisce lo stagnamento dell'umanità in una posizione o direzione costante e fa sì che in ogni nuova generazione si inizi qualcosa di distinto, si faccia un imprevisto viraggio e restino senza compimento i progetti della precedente.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/nature,figures/aristotle,forms/essay"></span>
 
 Entre los pájaros no hay tal vez igual hostilidad; pero acontece, contra la idea de Palmén y Weissmann, que son los pájaros nuevos los primeros que parten migratoriamente, como si tuviesen prisa por hacer el primer vuelo. Los individuos de vieja pluma permanecen todavía semanas en su lugar de estivada. El [caso](/concepts/fortune) del cuclillo es aún más decisivo, porque el joven cuco ni siquiera ha sido incubado por su madre, sino en un nido de azar y como hospiciano. No obstante, parte sin titubeo a fines de agosto o primeros de septiembre, y además hace señero el viaje.
 

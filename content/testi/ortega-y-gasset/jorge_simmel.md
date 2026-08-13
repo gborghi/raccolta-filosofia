@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Biographical-bibliographical note on Georg Simmel (1858-1918): a philosophical style grasping the universal in the minute, a Spinozist tendency and relativism, with a list of main works. Not doctrinal.
+> A very short text (234 words) on Georg Simmel. The digest carries no prose sample, so the content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

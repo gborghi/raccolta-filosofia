@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A travel sketch of Dueñas and Venta de Baños: the earth-coloured adobe village, the "earth-dwellers" burrowed into the hillock, the solitude of the July sun, and an eighteenth-century lithograph spotted in the station restaurant. Descriptive prose with no philosophical content.
 

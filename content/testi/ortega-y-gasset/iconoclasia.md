@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A note on the new art: the plastic arts of the new style show disgust at living forms and replace them with geometrical schemata, the reverse of the Renaissance. The phenomenon recurs periodically in history (prehistoric art, Byzantine iconoclasm, the Semitic ban on images) and would repay investigation; the new art's motto might be Porphyry's Omne corpus fugiendum est.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

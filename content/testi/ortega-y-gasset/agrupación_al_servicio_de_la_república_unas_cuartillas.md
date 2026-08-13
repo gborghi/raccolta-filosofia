@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A comment on the burning of convents and churches in May 1931: Ortega judges it not republican zeal but "primitive or criminal fetishism", since the religious orders, stripped of state privilege, are now harmless. He asks that the Republic break with the rhetoric of an archaic democracy — "there is no people but the organised people" — and defends the government's fullness of representation.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

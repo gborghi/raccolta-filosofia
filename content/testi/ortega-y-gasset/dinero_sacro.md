@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Madrid, January 1926: against the utilitarian explanation of vital phenomena, and for the thesis that all science begins in a bold anticipation ("tell me what hypothesis you start from and I will tell you who you are"). It reviews Bernard Laum's Heiliges Geld: in Homer the ox is a measure of value outside trade, and economic usages are shaped by vaguer activities, not the reverse.
+
+## Connections
+
+**Concetti:** [[concepts/money|denaro]], [[concepts/religion|religione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

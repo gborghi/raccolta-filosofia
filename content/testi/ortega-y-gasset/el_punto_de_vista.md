@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on the genre "Memoirs", starting from the marquise de La Tour du Pin: the historian adopts an unreal point of view, a god's ubiquitous pupil, whereas memory always imposes a private perspective with foregrounds and a closed horizon. Genres have conditions, not norms.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/perspectivism|prospettivismo]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

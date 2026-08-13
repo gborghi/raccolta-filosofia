@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The opening — dated Madrid 1917 and dedicated to Elena Sansinena de Elizalde — of the essay on Azorín: Ortega takes leave of a Spain "sour, paralytic, inert" by burying himself in El Escorial and daydreaming about the Pampa and Buenos Aires as sentimental entities. He is handed Un pueblecito and counterposes America, which sounds of the future, to Azorín, poet of the past. The sample is only the lyrical preamble; nothing of the thesis on "the exquisiteness of the commonplace" is visible.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

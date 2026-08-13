@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Reading Constant's Adolphe, Ortega opposes classicism and romanticism: classicism presupposes a prior narrowing of the horizon, hence its perfection — Greece was indignant at the ápeiron, the indefinite, and the Pythagoreans found irrational number "scandalous"; romanticism, by contrast, is a voluptuousness of infinitudes and therefore confused and fragmentary.
+
+## Connections
+
+**Concetti:** [[concepts/infinity|infinito]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +121,7 @@ Mi rendo conto che è un tema sommamente delicato. C'è una forma di erotismo ch
 
 Secondo un certo verso, il progresso della cultura ci appare come un progresso dal lontano verso il prossimo. L'uomo ha cominciato col non occuparsi che degli dèi, che sono la maggior lontananza; poi è andato prendendo in considerazione, soffermandosi su temi che sembravano più umili, troppo umili e consuetudinari, e con sorpresa sempre rinnovata ha visto che in essi trovavano il loro posto e [causa](/concepts/cause) quegli assunti sublimi. In scienza, come in arte o in politica, tutti i progressi sono consistiti in ciò che qualche spirito geniale riusciva a trasferire la seria attenzione umana dalle cose che erano riconosciute come interessanti ad altre in cui nessuno si era fissato (fissarsi è fermarsi, indugiare in qualcosa, piantare le tende sopra una superficie e caricare su di essa la serietà del nostro animo). Velázquez, dai corpi ritrae lo sguardo all'aria, che tra essi e la nostra cornea trema senza essere avvertita. La grande invenzione di Goethe — la sua lirica — risiede nell'essersi osato cantare quelle personalissime inquietudini del suo petto in cui nessuno si era prima fermato. Per questo, quando parla delle sue opere complete, può chiamarle: «l'edizione delle orme della mia vita…» In scienza e in politica accade lo stesso: il progresso coincide sempre con un ampliamento della nostra serietà a cose prima inosservate o tacciate di poco serie.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/infinity,concepts/beauty,forms/essay"></span>
 
 ¡Poetas, pensadores, políticos, los que aspiráis a la originalidad y a mundos siempre nuevos! No pretendáis crear las cosas, porque esto sería una objeción contra vuestra obra. Una cosa creada no puede menos de ser una ficción. Las cosas no se crean, se inventan en la buena acepción vieja de la palabra: se hallan. Y las cosas nuevas, las minas aún no denunciadas, se encuentran no más allá, sino más acá de lo ya conocido y consagrado, más cerca de vuestra intimidad y domesticidad, en torno de vuestras entrañas, llenando en inmenso filón las horas más humildes de vuestra vida. No insistáis sobre lo que ya triunfa santificado; esforzaos, por el contrario, en hacer arte con lo que, dado que sea percibido, parece antiartístico; en hacer ciencia sobre lo que la ciencia de hoy ignora, y política con los intereses que hoy se antojan antipolíticos. Eso mismo han hecho cuantos alguna vez hicieron verdaderamente arte y ciencia y política.
 

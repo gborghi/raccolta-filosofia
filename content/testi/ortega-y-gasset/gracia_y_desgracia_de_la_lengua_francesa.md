@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay born of the author's struggles with his translators: French's charms (clarity, logic, elegance) are paid for with inexorability — in French many things simply «cannot be said» — whereas German accepts any deformation imposed on it. Its underlying thesis: language is a social and not a personal fact, a system of signs with anonymous currency that imposes itself even on whoever first coined them.
+
+## Connections
+
+**Concetti:** [[concepts/custom|abitudine]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

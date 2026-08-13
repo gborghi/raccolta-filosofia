@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Political chronicle of the parliamentary session in which Prieto answered Gil Robles: Ortega dissents from Lerroux's tactic of «closing ranks» among republicans, since the presumed unanimity of republicans has been the Republic's greatest enemy. Political topicality.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

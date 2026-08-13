@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An invective against the Spanish right, seized by fear: masters of Spain for centuries, they are answerable not for administrative error but for a race's decay, and must be removed from the country's leadership. Topical polemical rhetoric.
 

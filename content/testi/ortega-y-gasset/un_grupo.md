@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Fragment of a speech in the constituent Cortes: the small group of deputies, without masses behind them, has come out of duty, like artisans bringing studies and observations to build the new state. A political speech.
+> Short text (204 words). The digest carries no sample: its content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

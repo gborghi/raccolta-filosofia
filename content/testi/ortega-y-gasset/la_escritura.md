@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A sketch of ancient Egypt (1925): the official is the cultured man, culture reduces to writing and its adjunct bookkeeping, to know is to know how to write, and the sage is the scribe. The form of the letter is loved, not its possible spirit: theory and science are wholly absent.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]], [[concepts/wisdom|sapienza]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

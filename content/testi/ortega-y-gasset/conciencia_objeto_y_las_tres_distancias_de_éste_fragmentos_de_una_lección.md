@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Fragments of a lecture on consciousness and its object: distinguishes real (perceptible) being from fantastic being (centaur, chimera) and holds that all consciousness is always consciousness of something (intentionality).
+> The digest records 2,588 words but 0 atoms and no sample: not a line of the text is visible. The title announces fragments of a lecture on consciousness, the object and its three distances — presumably a technical phenomenological text — but nothing can be judged from the digest.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

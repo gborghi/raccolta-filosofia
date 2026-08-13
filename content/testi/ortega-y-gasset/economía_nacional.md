@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An economic programme for 1932: convene at once a National Economic Council of technicians, liquidate the Dictatorship's debts, balance the budget, end currency intervention. It proposes an organised economy "beyond capitalism and socialism", with workers and capital as organs of the Nation and the broad lines of the economic process regulated by the State.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/money|denaro]], [[concepts/labour|lavoro]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

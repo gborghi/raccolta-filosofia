@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A short address to Spanish children: the one thing to learn is to discriminate between persons, a capacity so lacking in Spain that the chatterer passes for the intelligent man. It ends with four rules: ignore what people opine, refuse contagion, expect what is valuable to look strange, and suspect that the few are right.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]], [[concepts/select_minority|minoranza selecta]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

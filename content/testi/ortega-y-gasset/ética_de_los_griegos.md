@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Essay posing the problem of Greece as the secret of European culture: a culture born in symbiosis with another, alien and dead culture, whose ideal lies outside itself. Against the ecstatic attitude and the 'beatería' toward Hellenism, and against Spengler who fails to see the problem; it argues that after centuries of Plato-worship the real advance is admitting we do not know who Plato is.
+
+## Connections
+
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -138,7 +145,7 @@ Senza dubbio, il sole della Grecia, la gioia di vivere dell'uomo ellenico, il fi
 
 Intanto, albeggia la coscienza individuale. (In che misura i greci arrivarono mai a possedere pienamente l'idea dell'individuo personale, è questione a parte). L'individualità fu il risultato di un'avventura coloniale.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="figures/plato,forms/essay"></span>
 
 De las viejas ciudades continentales tuvieron que emigrar los más díscolos, los más audaces. Llegaron a las costas asiáticas y conquistaron tierras, donde labraron ciudades nuevas. Que nadie pretendiese contarles, como era sólito en las metrópolis, el origen divino de la ciudad y los derechos sagrados al mando adscritos a las familias descendientes del dios fundador. La ciudad nueva, hecha con sus manos o ganada con sus corajes, era obra individual suya, no recibida por tradición. La individualidad de la obra repercute en la mente de su autor, que se sospecha entonces individuo entre individuos, iguales en derechos y potencias. La política, en principio democrática, la independencia histórica, es el supuesto de la ciencia individual.
 
@@ -228,7 +235,7 @@ Con Socrate ingresso nel pensiero ellenico un altro principio che, unito indisso
 
 Non c'è figura più grande in Grecia. Già un antico lo chiamò «Ellade dell'Ellade», triplice estratto di ellenismo. Siccome per me tutto il greco è sospetto ed equivoco —non per caso, ma costitutivamente, non mi stupisce che questo arcigreco sia archiequivoco. Non c'è da dove afferrarlo. In questi ultimi anni si è conseguita una maggiore prossimità alla sua fuggitiva fisionomia. Si è conseguita a forza di negazioni. Il gran libro di Enrique Maier, pubblicato nel 1913[27], dimostra che Socrate non fu nemmeno filosofo. Fu tutto il contrario: un nemico della filosofia, di ogni filosofia. Tanto, che fermò il carro della scienza greca, e, in certo modo, lo incagliò per sempre.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="figures/plato,forms/essay"></span>
 
 El esfuerzo científico se nutre de dos impulsos diferentes, pero que han de coexistir y complementarse. Uno es la curiosidad de intelección; otro es el afán de salvación. La curiosidad es el aguijón que incita a investigar, a poner en duda lo recibido; impide la anquilosis de los pensamientos en dogmas, y dilata constantemente nuestra esfera mental. Pero bajo su sola inspiración, el hombre se movería intelectualmente de aquí para allá, frívolamente, desperdigada la atención en innumerables «curiosidades». Ahora bien: la específica dignidad de la ciencia exige que ésta sea algo más que un montón de cosas curiosas. De aquí que la curiosidad necesite someterse a una grave disciplina: el afán de resolver el gigante problema de la vida, de crear un sistema del universo, completo, solidario, en el cual nuestra mente descanse. Mientras yo no sepa lo que es el universo, mi vida no tiene sentido, porque es ella una mínima palabra y fragmento de una frase enorme, cósmica, que sólo en su integridad posee significación. Esa posibilidad de completarnos, averiguando lo que es el resto del mundo, es la «salvación». La ciencia hereda este afán de la mitología y de la religión; a él debe su arquitectura sistemática, su orden e interior jerarquía, su urgencia. Pero sin curiosidad la veríamos recaer muy pronto en el dogmatismo religioso y místico.
 

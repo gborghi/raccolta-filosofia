@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article against replacing politicians with technicians: science holds while one struggles with things, but the technician meets hostile wills, and only a mass of wills can be opposed to a mass of wills — that is, politics. A vicious circle.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/will|volontà]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

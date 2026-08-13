@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A New Year's balance-sheet: Spain's only asset is the growing respect its intellectual production wins abroad; in that class lies, vaguely, the sole chance of forming a select minority able to shape the nation's destiny. The condition, though, is that the intellectual not aim at it: intelligence cannot be put at the service of anything, and mobilizing intellectuals during the war annihilated them.
+
+## Connections
+
+**Concetti:** [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

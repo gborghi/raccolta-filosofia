@@ -12,8 +12,16 @@ tags:
   - "philosopher/aristotle"
 ---
 
+*Aristotle*
+
 > [!abstract]
 > Short work rejected as spurious by nearly all editors (perhaps by Theophrastus), devoted to the innate 'pneuma' and its physiological role in the growth and movement of animals; a corrupt text close in theme to Aristotle's zoological treatises.
+
+## Connections
+
+**Concetti:** [[concepts/nature|natura]]  
+**Forme:** [[forms/treatise|trattato]]  
+**Scuole:** [[schools/lyceum|Liceo (peripatetici)]]
 
 <p class="work-source">Traduzione di J. F. Dobson · Delphi Classics, 2013 · pubblico dominio</p>
 
@@ -48,7 +56,7 @@ I miei più sentiti ringraziamenti vanno al signor W. D. Ross, dell'Oriel Colleg
 
 J. F. D.
 
-<span class="atom-split" data-atom="002" data-title="CHAPTER 1." data-chapter="CHAPTER 1." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="CHAPTER 1." data-chapter="CHAPTER 1." data-kind="atom" data-srclang="en" data-tags="concepts/nature,forms/treatise,schools/lyceum"></span>
 
 The breath, being of bodily nature, must be maintained by some [method](/axes/method) of nutrition. Nutriment may be supplied by the blood, which ultimately nourishes all parts of the body. In this case there must be a residue consequent on the process of digestion; how can it be excreted? Difficulties are involved whether we assume that the residue is finer or coarser than the nutriment.
 
@@ -56,7 +64,7 @@ The breath, being of bodily nature, must be maintained by some [method](/axes/me
 
 Il respiro, essendo di natura corporea, deve essere mantenuto da qualche [metodo](/axes/method) di nutrizione. Il nutrimento può essere fornito dal sangue, che in ultima analisi nutre tutte le parti del corpo. In questo caso vi deve essere un residuo conseguente al processo di digestione; come può essere escreto? Sono implicate difficoltà se assumiamo che il residuo sia più fine o più grossolano del nutrimento.
 
-<span class="atom-split" data-atom="003" data-title="CHAPTER 2." data-chapter="CHAPTER 2." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="CHAPTER 2." data-chapter="CHAPTER 2." data-kind="atom" data-srclang="en" data-tags="concepts/nature,forms/treatise,schools/lyceum"></span>
 
 Aristogenes supposes that the breath digests the air breathed into the lungs; this is to assume that the breath is different from the outside air, and it may indeed be coarser. The digestion of the air is very rapid and must be caused by the bodily heat. Respiration extends only to the lungs; how then is air carried to the lower parts? Perhaps in the form of a kind of excrement. There is a difficulty in the case of non-respiratory creatures — but perhaps they are falsely so-called. Probably respiration of some sort is necessary to all. Aquatic animals must take in air with their food, since no air is contained in water.
 
@@ -64,7 +72,7 @@ Aristogenes supposes that the breath digests the air breathed into the lungs; th
 
 Aristogene suppone che il respiro digerisca l’aria inspirata nei polmoni; ciò è supporre che il respiro sia diverso dall’aria esterna, e possa anzi essere più crasso. La digestione dell’aria è assai rapida e deve essere causata dal calore corporeo. La respirazione si estende solo ai polmoni; come allora viene portata l’aria alle parti inferiori? Forse sotto forma di una specie di escremento. Vi è una difficoltà nel caso delle creature non respiranti — ma forse esse sono così chiamate a torto. Probabilmente una respirazione di qualche sorta è necessaria a tutti. Gli animali acquatici devono assumere aria col loro cibo, poiché nessuna aria è contenuta nell’acqua.
 
-<span class="atom-split" data-atom="004" data-title="CHAPTER 3." data-chapter="CHAPTER 3." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="CHAPTER 3." data-chapter="CHAPTER 3." data-kind="atom" data-srclang="en" data-tags="concepts/nature,forms/treatise,schools/lyceum"></span>
 
 Empedocles and Democritus considered the process of respiration but disregarded the purpose; others assume even the process as obvious. Its real purpose is refrigeration. The breath is uniformly distributed through the body, and causes nutrition of the lower parts and, apparently, of the bones, though in some parts we can trace no air-ducts. These parts may be compared to plants, which live and grow although they too have no air-ducts.
 
@@ -72,7 +80,7 @@ Empedocles and Democritus considered the process of respiration but disregarded 
 
 Empedocle e Democrito considerarono il processo della respirazione ma ne trascurarono il fine; altri ammettono come ovvio anche il processo. Il suo vero fine è la refrigerazione. Il respiro è distribuito uniformemente attraverso il corpo, e causa la nutrizione delle parti inferiori e, a quanto pare, delle ossa, sebbene in alcune parti non possiamo rintracciare condotti d'aria. Queste parti possono essere paragonate alle piante, che vivono e crescono sebbene anch'esse non abbiano condotti d'aria.
 
-<span class="atom-split" data-atom="005" data-title="CHAPTER 4." data-chapter="CHAPTER 4." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="CHAPTER 4." data-chapter="CHAPTER 4." data-kind="atom" data-srclang="en" data-tags="concepts/nature,forms/treatise,schools/lyceum"></span>
 
 The three functions of the breath, respiration, pulsation, and assimilation of nutriment, are perceptible in different degrees by sense or reason. The motive principle of respiration is within, probably in the Soul. Nutrition is originated by respiration. Pulsation, though a function of breath, is not connected with respiration, for variations in respiration have no effect on the pulse. No rational purpose can be assigned to pulsation, whereas the purposes of the other two functions are obvious. It is an open question which of the three is actually earliest.
 
@@ -80,7 +88,7 @@ The three functions of the breath, respiration, pulsation, and assimilation of n
 
 Le tre funzioni del respiro, la respirazione, la pulsazione e l'assimilazione del nutrimento, sono percepibili in diverso grado dal senso o dalla ragione. Il principio motore della respirazione è interno, probabilmente nell'Anima. La nutrizione è originata dalla respirazione. La pulsazione, sebbene sia una funzione del respiro, non è connessa con la respirazione, poiché le variazioni della respirazione non hanno effetto sul polso. Nessuno scopo razionale può essere assegnato alla pulsazione, mentre gli scopi delle altre due funzioni sono ovvi. È una questione aperta quale delle tre sia effettivamente la più antica.
 
-<span class="atom-split" data-atom="006" data-title="CHAPTER 5." data-chapter="CHAPTER 5." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="CHAPTER 5." data-chapter="CHAPTER 5." data-kind="atom" data-srclang="en" data-tags="concepts/soul,figures/aristotle"></span>
 
 The breath is carried to the belly by a duct passing along the loins. We cannot determine how far this breath is akin to Soul. The relations of the internal to the external air in non-respiring creatures. The warming and cooling of the internal air. The breath is not the finest of all substances. It cannot pass through sinew. Some characteristics of sinew and skin. Veins and ‘arteries’ connect with the intestines and the belly, and sinews and veins form connexions between the bones.
 
@@ -88,7 +96,7 @@ The breath is carried to the belly by a duct passing along the loins. We cannot 
 
 Il respiro è portato al ventre da un condotto che passa lungo i lombi. Non possiamo determinare fino a che punto questo respiro sia affine all'Anima. Le relazioni dell'aria interna con l'aria esterna nelle creature non respiranti. Il riscaldamento e il raffreddamento dell'aria interna. Il respiro non è la più sottile di tutte le sostanze. Non può passare attraverso il nerbo. Alcune caratteristiche del nerbo e della pelle. Le vene e le 'arterie' si congiungono con gli intestini e il ventre, e i nerbi e le vene formano connessioni tra le ossa.
 
-<span class="atom-split" data-atom="007" data-title="CHAPTER 6." data-chapter="CHAPTER 6." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="CHAPTER 6." data-chapter="CHAPTER 6." data-kind="atom" data-srclang="en" data-tags="figures/aristotle,forms/treatise,schools/lyceum"></span>
 
 The transformation of blood into flesh. Sinews are nourished from the bones, or, perhaps more probably, bones from sinews. Mode of nutrition of flesh. Blood is not universally dispersed through the body in all animals. Nail is formed from sinew, and perhaps skin from flesh, by a hardening process. Difficulties connected with hard- and soft-shelled creatures suggest exceptions to the rule that the blood is the universal nutriment.
 
@@ -96,7 +104,7 @@ The transformation of blood into flesh. Sinews are nourished from the bones, or,
 
 La trasformazione del sangue in carne. I nervi sono nutriti dalle ossa, o, forse più probabilmente, le ossa dai nervi. Modo di nutrizione della carne. Il sangue non è universalmente disperso per il corpo in tutti gli animali. L'unghia è formata dal nervo, e forse la pelle dalla carne, per un processo di indurimento. Le difficoltà connesse con le creature dal guscio duro e molle suggeriscono eccezioni alla regola che il sangue è il nutrimento universale.
 
-<span class="atom-split" data-atom="008" data-title="CHAPTER 7." data-chapter="CHAPTER 7." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="CHAPTER 7." data-chapter="CHAPTER 7." data-kind="atom" data-srclang="en" data-tags="concepts/nature,forms/treatise,schools/lyceum"></span>
 
 Bones have various functions — motion, support, covering, &c. All are well adapted for their purposes. Movable bones are connected by sinews, and those which have not to move are kept in place by sinews.
 
@@ -104,7 +112,7 @@ Bones have various functions — motion, support, covering, &c. All are well ada
 
 Le ossa hanno varie funzioni — movimento, sostegno, copertura, &c. Tutte sono ben adattate ai loro scopi. Le ossa mobili sono connesse da tendini, e quelle che non hanno da muoversi sono tenute in luogo da tendini.
 
-<span class="atom-split" data-atom="009" data-title="CHAPTER 8." data-chapter="CHAPTER 8." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="CHAPTER 8." data-chapter="CHAPTER 8." data-kind="atom" data-srclang="en" data-tags="concepts/nature,forms/treatise,schools/lyceum"></span>
 
 Physiological inquiry must be supplemented by the investigation of final causes. The purposes of bones, sinews, feet, and other parts are various, but all serve their proper ends: e g flying creatures are shaped in a way appropriate to flight.
 
@@ -112,7 +120,7 @@ Physiological inquiry must be supplemented by the investigation of final causes.
 
 L'indagine fisiologica dev'essere integrata dall'investigazione delle cause finali. Le funzioni di ossa, tendini, piedi e altre parti sono varie, ma tutte servono ai loro fini propri: ad esempio, le creature volanti sono conformate in modo adeguato al volo.
 
-<span class="atom-split" data-atom="010" data-title="CHAPTER 9." data-chapter="CHAPTER 9." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="CHAPTER 9." data-chapter="CHAPTER 9." data-kind="atom" data-srclang="en" data-tags="concepts/nature,concepts/cause,figures/aristotle"></span>
 
 The heat-principle active in our bodies produces different effects in different creatures, just as the effect of fire on different inanimate objects varies. Nature uses fire as an instrument and also as a material. Nature is an intelligent agent and varies the quality of the substance upon which the heat is to work, while the variations of the heat are only quantitative. We must reject the hypothesis of Empedocles, which would lead to the belief that there is no difference of quality between, e g., the bones of various animals.
 
@@ -120,7 +128,7 @@ The heat-principle active in our bodies produces different effects in different 
 
 Il principio del calore attivo nei nostri corpi produce effetti diversi in creature diverse, così come varia l'effetto del fuoco su diversi oggetti inanimati. La natura si serve del fuoco come strumento e anche come materia. La natura è un agente intelligente e varia la qualità della sostanza sulla quale il calore deve agire, mentre le variazioni del calore sono soltanto quantitative. Dobbiamo respingere l'ipotesi di Empedocle, la quale porterebbe a credere che non vi sia differenza di qualità tra, per esempio, le ossa dei vari animali.
 
-<span class="atom-split" data-atom="011" data-title="DE SPIRITU (parte 1)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="DE SPIRITU (parte 1)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en" data-tags="concepts/nature,forms/treatise,schools/lyceum"></span>
 
 What is the mode of growth of the natural breath and its mode of maintenance? For we see that it increases in volume and strength in accordance with both changes of age and the varying condition of the body. May we suppose that it increases as the other parts do, through the addition of some substance to it? Now it is nutriment that -is thus added to living creatures; so that we must consider the nature and origin of the nutriment in this case.
 
@@ -228,7 +236,7 @@ Ma come viene nutrito e accresciuto il respiro naturale nel caso delle creature 
 
 Riguardo alla respirazione, alcuni filosofi — come Empedocle e Democrito — non trattano del suo scopo, ma descrivono soltanto il processo; altri non trattano affatto del processo, ma lo assumono come ovvio. Ma dobbiamo inoltre chiarire bene se il suo scopo sia la refrigerazione. Infatti, se il calore corporeo è insito nelle parti superiori, ne consegue che le parti inferiori non avrebbero bisogno di refrigerazione: ma il calore non è solo nelle parti superiori, poiché in realtà il respiro innato pervade tutto il corpo, e la sua origine è dai polmoni.
 
-<span class="atom-split" data-atom="012" data-title="DE SPIRITU (parte 2)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="DE SPIRITU (parte 2)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en" data-tags="concepts/nature,forms/treatise,schools/lyceum"></span>
 
 The inspired breath also is thought to be distributed uniformly over all parts, so that it remains to be proved that this is not the case.
 
@@ -324,7 +332,7 @@ La pelle contiene vene, nervi e condotti d'aria — vene perché, quando è punt
 
 Le vene devono avere pori nei quali risiede il calore corporeo che riscalda il sangue come in un calderone; poiché esso non è caldo per natura, ma si diffonde come metalli fusi. [Per questo anche il condotto dell'aria si indurisce, e ha umidità sia in sé stesso sia nelle tuniche che circondano il suo passaggio cavo.], È provato anche dalla dissezione e dal fatto che le vene e i condotti dell'aria, i quali apparentemente conducono il nutrimento, si connettono con gli intestini e il ventre. Dalle vene il nutrimento è distribuito alla carne — non lateralmente dalle vene ma fuori dalle loro bocche, come attraverso tubi. Sottili vene corrono lateralmente dalla grande vena e dalla trachea lungo ogni costola, e una vena e un condotto dell'aria corrono sempre fianco a fianco.
 
-<span class="atom-split" data-atom="013" data-title="DE SPIRITU (parte 3)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="DE SPIRITU (parte 3)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en" data-tags="concepts/nature,forms/treatise,schools/lyceum"></span>
 
 The sinews and veins form the connexion between the bones, joining them with the centre of the body, and also form the meeting-place between the head and the body, through which fishes receive nutriment and breathe; if they did not respire, they would die immediately on being taken out of the water.
 
@@ -380,7 +388,7 @@ Ora tutte le parti che sono capaci di moto sono connesse con i nervi — e forse
 
 La migliore descrizione di ogni cosa può essere ottenuta tramite un'indagine come la presente; ma dobbiamo indagare adeguatamente le cause finali. Non dobbiamo supporre che le ossa siano in vista del movimento; quello è piuttosto lo scopo dei nervi o di ciò che ad essi corrisponde, cioè il ricettacolo immediato del soffio che causa il movimento, poiché anche il ventre si muove e il cuore ha nervi — ma solo alcune, non tutte le parti hanno ossa: ogni parte deve avere nervi appropriati per compiere tale movimento o per (compierlo bene.) Poiché la seppia cammina poco e cammina male. Dobbiamo prendere come punto di partenza il fatto che tutti gli animali hanno organi differenti per differenti scopi in vista del movimento peculiare di ciascuno, per es. gli animali terrestri hanno piedi — quelli che sono eretti ne hanno due; altri che si muovono del tutto sulla terra, la materia dei cui corpi è più terrena e più fredda, ne hanno molti. Alcune creature ancora possono essere del tutto prive di piedi, poiché è possibile per loro in queste condizioni essere mosse solo da forza esterna. Similmente, le creature volanti hanno ali, e la loro forma è appropriata alla loro natura. Le parti differiscono in proporzione a quanto devono volare più velocemente o più lentamente. Hanno piedi allo scopo di cercare cibo e per consentire loro di stare in piedi; i pipistrelli sono un'eccezione; poiché non possono usare i piedi, ottengono il loro cibo nell'aria, e non hanno bisogno di riposare a tale scopo; giacché certamente non ne hanno bisogno per nessun'altra ragione.
 
-<span class="atom-split" data-atom="014" data-title="DE SPIRITU (parte 4)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="DE SPIRITU (parte 4)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/nature,concepts/soul,forms/treatise"></span>
 
 The hard-shelled aquatic animals have feet on account of their weight; thus they are enabled to move from place to place: all that concerns their other needs is as ordered by the individual requirements of each, even if the principle is not clear — e g. why many-footed creatures are the slowest, and yet quadrupeds are swifter than bipeds. Is it because the whole of their body is on the ground or because they are naturally cold and hard to move, or for some other reason?
 

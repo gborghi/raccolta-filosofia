@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Closing of the thoughts on the novel prompted by Baroja: an invitation to young writers to explore the genre's hidden possibilities, warning that without dread at the gravity of the hour nothing will come. Literary-critical note.
+> A 128-word fragment with no sample in the digest: from the title a second envoi or dedication, about which nothing further can be said.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

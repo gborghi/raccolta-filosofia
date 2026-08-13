@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article defending Unamuno after his removal from the Salamanca rectorship: the charges of administrative irregularity are pretexts, and Ortega denounces the press for reporting the minister's accusation while suppressing the rector's reply. Topical polemic.
 

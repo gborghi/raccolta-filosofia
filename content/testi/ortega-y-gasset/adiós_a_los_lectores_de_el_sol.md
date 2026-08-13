@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Brief farewell note (58 words) to the readers of El Sol, March 1931. No philosophical content.
+> A 58-word fragment with no sample in the digest: a farewell to the readers of the newspaper El Sol. No content can be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

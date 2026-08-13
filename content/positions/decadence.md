@@ -9,7 +9,7 @@ aliases:
 axis: "meaning_of_history"
 contro:
   - "progress"
-work_count: 24
+work_count: 22
 tags:
   - "graph/position"
 title: "decadenza"
@@ -22,7 +22,7 @@ Posizione sull'asse [Senso della storia](/axes/meaning_of_history).
 
 **Contro:** [progresso](/positions/progress)
 
-## Opere (24)
+## Opere (22)
 
 **Nietzsche**
 - [Ecce Homo](/testi/nietzsche/ecce_homo)
@@ -30,9 +30,7 @@ Posizione sull'asse [Senso della storia](/axes/meaning_of_history).
 
 **Ortega y Gasset**
 - [Brindis en el banquete a la revista Hermes](/testi/ortega-y-gasset/brindis_en_el_banquete_a_la_revista_hermes)
-- [ESPAÑA INVERTEBRADA BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS](/testi/ortega-y-gasset/españa_invertebrada_bosquejo_de_algunos_pensamientos_históricos)
 - [Epílogo sobre el alma desilusionada](/testi/ortega-y-gasset/epílogo_sobre_el_alma_desilusionada)
-- [LA REBELIÓN DE LAS MASAS](/testi/ortega-y-gasset/la_rebelión_de_las_masas)
 - [La cultura tartesia](/testi/ortega-y-gasset/la_cultura_tartesia)
 - [La libación](/testi/ortega-y-gasset/la_libación)
 - [La muerte de la Restauración](/testi/ortega-y-gasset/la_muerte_de_la_restauración)

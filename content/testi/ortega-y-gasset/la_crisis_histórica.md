@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial (El Sol, 1920) on Spain's so-called 'historic crisis': the professionals of the old farce understand nothing of what is happening, nothing of the social question has been settled, and Barcelona poses the same problems as before. Topical politics; the title's scare quotes are polemical.
 

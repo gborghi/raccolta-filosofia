@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A letter to the editor of Luz denying statements attributed to him by a French paper, notably "Spain is not prepared". Ortega replies that a people, to reach a constructive stage, must necessarily pass through failed experiences and errors of its own.
+
+## Connections
+
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An open letter to the editor of El Día, used as a pretext for a hierarchy of moral values: law and legality are the most external of values, and the Pharisee's error is one of ordering, not of content ('let us be legal above all'); likewise utopian rigorism errs in forgetting life, since morality is nothing but 'the good life'. Before being morally good, Ortega says, one must be vitally good.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]]  
+**Concetti:** [[concepts/law|legge]], [[concepts/justice|giustizia]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -144,7 +153,7 @@ Amico Gómez Hidalgo: In un vecchissimo «purana» indiano si dice che dovunque 
 
 Come un osso a un cane affamato, getta lei alla mia meditazione questo fatto sociale di alcuni «galeotti» eletti consiglieri. E mi domanda: «Che cosa ne pensa?» Più facile sarebbe forse la risposta se mi domandasse che cosa non ne penso. Perché quel fatto ha fasci o facce molteplici, buoni gli uni, cattivi gli altri, dove si riflette gran parte del presente e dell'avvenire nazionali. Ricorda lei, senza dubbio, quella scena del vecchio regime morente che Marmontel riferisce nelle sue Memorie: cenando nel palazzo di Richelieu dame e proceri, a fine tavola, si chinano, invitati da Cagliostro, sopra una coppa d'acqua, e nei vaghi riflessi del liquido riescono a vedere rappresentati gli avvenimenti della grande Rivoluzione, dieci anni prima che questa sopravvenga.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,positions/radical_reality_of_life,concepts/law,concepts/justice,forms/essay"></span>
 
 Ayer tomé un sendero y dibujé una cara de las que aquel hecho presenta. Me importaba ante todo señalar lo que este fenómeno tiene de común con tantos otros surgidos en España desde hace algún tiempo. En una de sus significaciones coincide con la actitud de los militares; uno y otro hecho implican la sensación de que ciertas porciones del derecho vigente y constituido perpetúan una legalidad falsa, ficticia, hipócrita y, por lo tanto, irrespetable. La realidad social se ve obligada a afirmar contra ella su derecho preferente. Mas entiéndase bien, siempre que la vida rompe una ley va movida por la aspiración a otra ley más efectiva, compleja y respetable. Toda España ha visto la ilegalidad de la situación creada por las Juntas de defensa y, sin embargo, expresa o tácita, no ha faltado a éstas la adhesión de los corazones. ¿De dónde nace tal adhesión general? ¿Por acaso, de una perversa fruición en la ilegalidad como tal, pareja a la que siente el loco furioso al ver rotas las cosas? Algunos individuos de temperamento socialmente anómalo tal vez obedezcan a este motivo. Pero la adhesión ha sido general y no sólo de estos «especialistas en desorden».
 
@@ -258,7 +267,7 @@ El Día, 18 novembre 1917
 
 III
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,positions/radical_reality_of_life,concepts/law,concepts/justice,forms/essay"></span>
 
 Amigo Gómez Hidalgo: Mi carta anterior no concluía donde concluía su asunto. Quedó truncada por razones de espacio. En ella iba yo desarrollando esta idea: la sentencia contra el Comité de huelga nació muerta y sin eficacia moral. Porque en la ley que la dictó venía a condensarse una serie de frivolidades. La primera fue la huelga misma. La segunda fue el semblante con que el Ejército salió a su encuentro. No debió nunca castigar con la una mano sin sustentar con la otra lo que en aquel movimiento había de explosión de un descontento positivo. La huelga fue una manifestación, frívola en la forma, de un malestar realísimo que ciertas capas del cuerpo social sentían y siguen sintiendo. Reconocida la extrema defectuosidad del régimen público, en general, no puede extrañar a ningún hombre comprensivo y honrado que el malestar tome formas particulares en cada clase y grupo de la sociedad. El militar interpretará la angustia nacional acentuando ciertos rasgos de ella que los hábitos mentales propios de su oficio le fuerzan a destacar. El propietario, a su vez, se quejará preferentemente de otros defectos. El obrero hará lo mismo. Y cada cual buscará el remedio a su manera movilizando sus peculiares recursos. Si cada uno de esos grupos no consigue, mediante un esfuerzo de reflexión, reconocer y respetar el fondo común y nacional de justas exigencias que late más allá de esos ademanes discrepantes, el militar vendrá a las manos con el propietario y con el obrero, el obrero con el propietario y con el militar, todos con los políticos y los políticos con todos; de suerte que a la vuelta de unos meses va a ser España una olla de grillos cocidos en sangre.
 
@@ -348,7 +357,7 @@ Mostrare simile fretta e zelo nel comparire all'ora di agosto come sostenitori d
 
 Andrò a supporre che i loro desideri coincidano esattamente coi miei e con quelli del lettore. Il fatto che noi lo vogliamo non porta con sé che ciò risulti possibile. Noi metteremo tutti i nostri mezzi per realizzarlo, ma il mondo sul quale versiamo il nostro desiderio ha la sua peculiare struttura ed esigenze indominabili. Dovremo, dunque, guardare sempre a un tempo ciò che noi desideriamo che sia e ciò che il mondo è a parte il nostro desiderio.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/moral_foundation,positions/radical_reality_of_life,concepts/law,concepts/justice,forms/essay"></span>
 
 Saltando de su esfera de acción propia los militares cumplen un acto de instrucción política. ¿No se quiere reconocer esta intervención política por motivos abogadescos? Bien, digamos entonces algo más grave: cumplen un acto de intervención histórica, imprimen un cierto movimiento al cuerpo nacional íntegro. Lanzan una piedra al viento y la piedra al abandonar la mano sigue su trayectoria, según la ley ineludible de la gravitación. ¿Fuera serio que, en el aire la piedra, creyese la mano poder aún regir su dirección? Los militares han dado un empellón —tal vez glorioso— a la vida española. Ésta desarrollará a su manera española, de quien la manera militar es sólo un rasgo, este impulso recibido. La idea de lo que debe hacerse en cada momento tiene, por fuerza, que ser distinta en la cabeza del militar, en la del obrero, en la del industrial. No hay duda que la resultante será una articulación de todas estas ideas parciales. Pero ese término se obtendrá con tanto menos dolor y tanta menor pérdida cuanto sea el esfuerzo que cada uno de esos gremios ponga en superar sus limitadas ideas gremiales.
 

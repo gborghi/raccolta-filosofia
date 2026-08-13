@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to Gabriel Maura on the 'empty phrase' in the article 'El error Berenguer': Ortega grants the expression's stylistic vulgarity and confesses he is no 'good writer', but rejects the charge of political inanity. He claims an aristocratic interpretation of history distinct from 'señoritismo' and asks whether republic might not mean rigour, will to a State, aristocracy.
+
+## Connections
+
+**Concetti:** [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

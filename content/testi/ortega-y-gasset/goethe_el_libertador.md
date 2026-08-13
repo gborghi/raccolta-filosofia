@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A centenary essay: Goethe is a matter of conscience for the European, and a hundred years of Goethe philology have left us nothing in hand. Hence its central thesis: life is quehacer — it does not find tasks but consists in what one has to do; the idler annuls his life, while he who works hard but not at what he must falsifies it — the vice of industriousness, of which philological «science» is the example.
+
+## Connections
+
+**Assi:** [[assi/end_of_life|Fine della vita]]  
+**Posizioni:** [[positions/life_as_project|vita come progetto]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -48,7 +56,7 @@ Come il teologo analizza il suo Gottesbewußtsein (coscienza di Dio), dovremmo f
 
 E il fatto è che, negli ultimi mesi della sua esistenza, questo vecchio mandarino prende un giorno la sua vita intera in mano come per soppesarla, per precisarne i carati, per definire ciò che in essa c'era stato di essenziale. Ora commovente in cui quest'anima convertita in alambicco dei suoi ottant'anni vissuti sta per distillare da tutte le sue rose e da tutti i suoi rovi la sola goccia simbolica! Ed è curioso che allora ci dica, non ciò che questa vita è stata per sé stessa, ma ciò che è stata o può essere per gli altri, per noi, specialmente per i tedeschi, più specialmente per i giovani poeti del suo tempo. Non ci disorientino queste specializzazioni, che qui hanno soltanto un valore di piani di prospettiva. La poesia è la cosa più immediata a Goethe. È il modo radicale della sua vita. Tutti abbiamo un modo radicale verso cui gravita il resto del nostro essere, ciò che non vuol dire che esso sia tutta la nostra vita. È il piano per noi più prossimo su cui proiettiamo tutto il resto e che, per ciò stesso, si converte per noi in idioma privato con cui ci intendiamo parlando con noi stessi. Lo stesso Goethe ci indica che non parla soltanto di poesia né soltanto per i giovani tedeschi. Poniamo, dunque, tutti l'orecchio attento, giacché, in rigore, a tutti si dirige la parola. Che cosa pensava Goethe di essere stato per gli altri? Che cosa è ciò che ai suoi occhi giustifica in ultima istanza la sua esistenza? «Io non posso considerarmi come il suo maestro, ma sì posso chiamarmi il suo liberatore». Nient'altro? Nient'altro.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/end_of_life,positions/life_as_project,forms/essay"></span>
 
 Al comentar esta expresión, se ha omitido siempre subrayarla con un gran gesto de sorpresa. ¿Cómo? ¿Goethe hablando de la libertad? Se ha debido hacer constar que siendo esta palabra, entre las pertenecientes al estrato superior del léxico, la que más veces se ha pronunciado en la época que inscribe su vida, Goethe la evitó constantemente. Además de las palabras que designan cosas materiales o espirituales, cada generación necesita unos cuantos vocablos donde alojar sus entusiasmos. Lo de menos es el significado concreto que accidentalmente poseen; lo esencial es que han sido elegidas para decir con ellas lo indecible, el radical fervor o el radical terror que constituyen en cada tiempo los resortes decisivos de la vida humana. Hacia 1800 las dos palabras místicas que al resonar estremecían los corazones occidentales eran éstas: «libertad», «electricidad». Leed los libros románticos alemanes y franceses y veréis cómo de pronto, cuando menos se espera, cuando no sabe el autor cómo calificar exquisitamente algo, el autor dirá que es «eléctrico». Volta, luego Faraday, habían puesto la mano sobre esta nueva forma, tan extraña, de la energía cósmica, y las sacudidas que la pila de aquél producía las causaba, sin más, el simple vocablo «electricidad». Motivos de más honda raíz histórica concentraron en el vocablo «libertad» la máxima irradiación de potencia espiritual. Desde 1780 se llamó en Europa «libertad» todo lo que enardecía y entusiasmaba, como los griegos llamaron kalón las cosas más dispares con tal que coincidiesen en su efecto alcohólico. El menestral de París moría tras la barricada gritando: «¡Libertad!», mientras en la cátedra de Jena, a pocos metros del castillo donde Goethe trabajaba, [Fichte](/schools/german_idealism) gritaba: «¡Libertad!», desde el fondo de su alma espléndida, incandescente, frenética… Y la verdad es que ambos —el menestral y el meditador— se referían con el mismo rumor a cosas nada parientes entre sí. Tal vez pueda asegurarse que lo que Fichte y Hegel insuflaban en la palabra libertad no tenía nada o muy poco que ver con lo que esta palabra significaba usada con decoroso rigor verbal. Pues bien, mientras tanto, sólo Goethe rehusaba pronunciarla. Y he aquí que en esta hora final, casi ya desde la otra orilla de la vida, Goethe se vuelve hacia nosotros los vivientes para resumir su existencia desde el trasmundo, y lo que nos dice es: «¡Libertad!» Luego, con su andar perpendicular, desaparece en el silencio absoluto…
 
@@ -96,7 +104,7 @@ Il nostro fondo è più abissale di quanto supponessimo. Perciò non c'è mezzo 
 
 Ora si comprende perché l'io risulti inaccessibile quando lo cerchiamo. Cercare è un'operazione contemplativa, intellettuale. Si contemplano, si vedono, si cercano solo cose. Ma la norma sorge nell'azione. Nello scontro energico col fuori germoglia chiara la voce del dentro come programma di condotta. Un programma che si realizza è un dentro che si fa un fuori.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/end_of_life,positions/life_as_project,forms/essay"></span>
 
 Goethe no fue «idealista», a pesar de haber vivido en el foco mismo del [idealismo](/positions/idealism). El idealismo es aquel movimiento que empieza resueltamente con Descartes y que lleva al hombre a encerrarse dentro de sí. Su forma extrema es la mónada de Leibniz, que no tiene ventanas, que excluye el fuera. La mónada vive sumergida en su propio elemento. ¿Sería por esto por lo que Leibniz dice de ella que es un petit Dieu? Es lástima que Goethe no poseyera don filosófico. Sus ideas suelen desvirtuar su intuición. Vivamos de su promesa: oprimamos el contorno con el perfil secreto y programático de nuestro «yo mismo».
 

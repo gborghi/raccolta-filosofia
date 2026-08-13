@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A section of 'The Dehumanization of Art': art and pure science are the first symptoms of a shift in collective sensibility; the artist's reaction to tradition may be positive or negative, and the new style is largely built as a deliberate negation of old art (from Baudelaire onward).
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

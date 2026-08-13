@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against premature specialisation and against Darwin: organised life, as the use of given organs, is secondary and derivative; organising life is primary and radical, and Darwinian biology begins where life in the strict sense ends. Hence the paradox: culture and civilisation are the creation of savage man, and every great creative age has coincided with an explosion of savagery.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]]  
+**Concetti:** [[concepts/nature|natura]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A fragment on the dehumanization of art: alongside metaphor there is a simpler device — inverting the habitual hierarchy of things and putting life's smallest events in the foreground. To the suprarealism of metaphor there thus corresponds an 'infrarealism'; examples: Proust, Ramón Gómez de la Serna, Joyce, Giraudoux, Morand.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

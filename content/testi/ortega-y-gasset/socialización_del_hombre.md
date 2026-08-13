@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A diagnosis of the progressive 'publication' of European life: street noise abolishes the right to silence and invades the private corner; the family contracts, and Ortega drily notes that its support was never the household god but the servant. Walls thin out, the hours of solitude shrink — and solitude was the smith that made a person compact.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

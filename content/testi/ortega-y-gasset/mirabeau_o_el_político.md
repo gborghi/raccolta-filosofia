@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from Van Leisen's booklet on Mirabeau, Ortega distinguishes ideals from archetypes: ideals are things recreated by our desire, archetypes are things according to their inescapable reality; 'idealism' lives off a lack of imagination, since reality invents far more than we know how to wish for. Mirabeau is for him the archetype — not the ideal — of the politician.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -84,7 +91,7 @@ Più chiaroveggente degli storici di un secolo dopo, non si lasciò ingannare da
 
 Mirabeau non si smonta da questo. Era arrivato inesorabilmente il tempo di costituire la nazione per mezzo della nazione stessa, e tutto il resto erano sciocchezze. Gli espedienti e gli arbitrii che si proponevano a Luigi XVI in forma di dispotismi illuminati o non illuminati, tirannie, dittature, gli sembravano pure superfluità; peggio: gli sembravano vie funeste. Con la visione profetica che abbonda nelle sue locuzioni, disse ai cortigiani: «Così si conduce un re al patibolo».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 No se comprende que mente tan sagaz confiase en que el rey habría de reconocer la situación. La clave está acaso en que Mirabeau, de espíritu liberal y democrático, era de alma y de raza un noble. Ahora bien; el noble, por muy inteligente que sea, por muy libre de prejuicios que se imagine, suele padecer un fatal misticismo palatino.
 
@@ -174,7 +181,7 @@ Ma la verità è molto diversa: la previsione di piaceri e onori ebbe sull'anima
 
 L'opposizione tra egoismo e altruismo perde senso riferita al grande uomo, perché il suo «io» è pieno fino all'orlo con «l'altro»: il suo ego è un alter —l'opera. Preoccuparsi di se stesso è preoccuparsi dell'Universo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 La «frase» de Chénier, en su segunda parte, habla de virtudes. Pero éstas no son esas cualidades que hemos descubierto en César o Mirabeau —no son las virtudes o virtualidades del grande hombre. Son, por el contrario, las maneras normales de comportarse los pequeños hombres, las almas chicas. Chénier exige a Mirabeau que sea Mirabeau y además que sea el señor Duval, uno de los varios millones de señores Duval que componían la mediocridad de Francia o de cualquier otro pueblo en cualquiera otra época. Porque, en efecto, estos millones de hombres son virtuosos: no estafan, no mienten, no estupran. Todo su valer se reduce a no hacer ninguna de esas cosas, en efecto, inmorales.
 
@@ -270,7 +277,7 @@ Come prima aveva attaccato sua madre, scriverà ora una memoria contro suo padre
 
 Ma, per il momento, deve entrare nel castello di Vincennes, una delle alte prigioni di Francia. Mirabeau ascende nella sua categoria di perpetuo incarcerato. Ogni volta la sua prigione è più prigione, di più rango, di più catene.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Esta vez la reclusión va a durar de 1777 a 1780. Tres años «en un calabozo de diez pies de ancho». ¿Qué hará allí esta magnífica fiera? Sin duda, hozar con su alma de gran felino. Por lo pronto, se las arreglará para escribir a Sofía carta sobre carta. Este epistolario se publicó después con enorme escándalo. Porque en el calabozo de diez pies, contraída la sensualidad gigantesca de su temperamento, se escapará por la dimensión literaria. En las cartas a Sofía vierte materias de toda índole: ensayos oratorios y líricos, consideraciones morales, efusiones sinceras, pornografía y hasta trozos de libros y revistas que da como suyos. Empieza una carta: «Escucha, amiga mía, voy a verter en el tuyo mi corazón», y lo que vierte, en realidad, es un artículo ajeno del Mercurio de Francia[54]. Me interesa mucho subrayar este dato.
 
@@ -348,7 +355,7 @@ IV
 
 Convocati gli Stati Generali, Mirabeau cerca nella sua Provenza natale elettori. Va ad Aix e a Marsiglia, dove si accorge delle dimensioni che ha acquistato la sua popolarità. Nonostante ciò, i suoi congeneri i nobili di Provenza, con un'ipersensibilità da camerieri, vogliono evitare la contaminazione della sua presenza e lo escludono dallo stato nobile. Mirabeau non si scompone. Pochi giorni dopo si producono gravi sommosse a Marsiglia, tanto gravi che il Potere pubblico si dichiara incapace di reprimerle, e allora i nobili di Marsiglia ricorrono a Mirabeau, il rivoluzionario escluso dai suoi ranghi per le sue «opinioni sovversive dell'ordine pubblico e attentatorie dell'autorità reale». Che farà Mirabeau quando gli si chiede di andare a Marsiglia per correggere, contenere e punire il popolo stesso che poco prima lo acclamava e la cui adesione era la sua unica forza? Mirabeau è il politico per grazia di Dio, l'uomo di Stato nato, e non dubita un momento. Va a Marsiglia, e, senza perdere un minuto, organizza giovani borghesi e operai in una milizia cittadina, che impone subito l'ordine. Mirabeau rimane quattro giorni di seguito senza dormire. Pacificata Marsiglia, spunta la rivolta ad Aix, e Mirabeau esce al galoppo, senza prendere riposo, verso la villa dalla cui nobiltà è stato cancellato. Mirabeau sarà eletto rappresentante del Terzo Stato dal dipartimento di Aix.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 En la primera sesión de los Estados Generales se forma un vacío en torno al lugar donde Mirabeau ha tomado asiento. Es un apestado. Pocos días después es el conductor de aquel rebaño turbulento. Gracias a él, el trabajo parlamentario toma una dirección y un orden. Él mismo hará frente, con una capacidad de labor verdaderamente legendaria, a todos los asuntos. Para ello necesita sostener una oficina con numerosos secretarios. Pero Mirabeau sigue impecune. Ocupado en la cosa pública, mal puede atender a su privado presupuesto. Sin embargo, vive y mantiene su hueste de colaboradores, y produce, y crea. Es una obra de magia. La gente recelará subvenciones inconfesables, y cada movimiento de su táctica política será atribuido a alguna simonía. Como nadie sabe nada concreto, se construye imaginariamente la historia de su venalidad. ¿No es el más rico y el más ambicioso hombre de Francia el duque de Orleáns? Mirabeau se ha vendido al duque de Orleáns. Pero he aquí que el conde de la Mark, testimonio irrecusable por su carácter y posición, nos dice que mientras se acusaba a Mirabeau de haberse vendido al arca más repleta de Francia, Mirabeau, tímidamente, iba a pedirle prestados unos luises. Pero entiéndase bien: no rehusaba el oro de Orleáns por razones de virtud íntima. Mirada según su óptica moral, esta pulcra renuncia significaría una inmoralidad y una estupidez. No tenía derecho a entorpecer su acción pública por darse el gusto de mantener una pulcritud privada. No pidió dinero al duque de Orleáns porque este personaje le parecía incompatible con su política. La venalidad de Mirabeau —esto es lo esencial— fue siempre articulada con la trayectoria de su táctica política, y no era más que un ingrediente de ésta.
 
@@ -426,7 +433,7 @@ L'intellettuale non sente la necessità dell'azione. Al contrario: sente l'azion
 
 Ci sono, dunque, due classi di uomini: gli occupati e i preoccupati; politici e intellettuali. Pensare è occuparsi prima di occuparsi, è preoccuparsi delle cose, è interporre idee tra il desiderare e l'eseguire. La preoccupazione estrema porta all'aprassia, che è una malattia. L'intellettuale è, in effetti, quasi sempre, un poco malato. Invece, il politico è —come Mirabeau, come Cesare—, per il momento, un magnifico animale, una splendida fisiologia.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 La moral, psicológicamente, representa una preocupación, puesto que implica la detención de nuestras impulsiones hasta determinar si son debidas o indebidas. En el hombre normal, el acto no se dispara tan rápidamente después de deseado que no deje tiempo para hacerse cuestión moral de él, para preguntarse si es bueno o malo, para ver su cariz ético. Pero imagínese el funcionamiento de un alma impulsiva: su primer momento no es de ver ese cariz del acto, sino de comenzar desde luego su ejecución. Hay, pues, mucha injusticia en llamarle inmoral por haber querido aquel acto incorrecto. ¿Es que lo ha querido; es decir: que ha habido un instante en que lo ha visto, en que se ha colocado ante él contemplativamente? Eso es lo que hace el intelectual, el moral: contemplar sus propios actos. Por eso suele no ejecutarlos. Pero el impulsivo no se anda en contemplaciones. En él lo primario es ya el operar. Desde un punto de vista moral, lo único que cabe exigirle es que se arrepienta después de la acción consumada, ya que sólo entonces le es dado contemplarla.
 
@@ -498,7 +505,7 @@ L'intellettuale vive, principalmente, una vita interiore, vive con se stesso, at
 
 L'uomo d'azione, invece, non esiste per se stesso, non si vede a se stesso. Il rumore di fuori, verso il quale la sua anima è per natura proiettata, non gli lascia udire il brusio della sua intimità. Manca questa di attenzione e coltura, e resta deperita. Sorprende notare che tutti i grandi uomini politici mancano di vita interiore. Non è paradosso dire che non hanno personalità. Ce l'hanno i loro atti, le loro opere; ma non loro. Per questa ragione —il fenomeno è molto curioso— non sono interessanti. Per convincersene basta informarsi del sommo giudice in [materia](/positions/materialism) di uomini interessanti: la donna. Non è strano che i grandi uomini politici, in fin dei conti grandi trionfatori della vita, padroni del potere, della ricchezza, corporalmente in vista e aureolati sopra il resto dei maschi, non abbiano conseguito mai, mai, validi trionfi sulla donna? Nemmeno Cesare può essere considerato un'eccezione.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 El [caso](/concepts/fortune) de Mirabeau confirma plenamente esta regla. Su sensibilidad le inducía sin descanso hacia la mujer. Su audacia y su rumbo verbal le permitían cazar rápidamente la hembra predispuesta a ser cazada. Pero este tipo de cazador de mujeres no tiene nada que ver con el verdadero seductor. Son distintos ellos y son distintos los tipos de mujer sobre que actúan. Una cosa es conseguir favores de una mujer, y otra absorber íntegramente su alma. La que es capaz de hacer favores suele ser incapaz de entregar su alma, y viceversa. Esta última es la mujer interesante, la que vive hermética, cerrada en su íntimo recato, y que no puede conceder nada si no concede su vida entera. Salvo madama de Nehra, que era una niña, Mirabeau no conoció más que faldas, faldas, muchas faldas.
 
@@ -600,7 +607,7 @@ Mi importava, dico, sottolineare questo, perché non credo possibile la salvezza
 
 L'Asia è conformista: per essa ciò che è, deve essere. L'Europa è riformista: per essa ciò che non deve essere, non è. Se qualche senso trascendente ha il fatto della convivenza intercontinentale che caratterizza il secolo presente, sarà, a non dubitarne, rendere possibile il mutuo complemento di queste due tendenze esclusive: la riforma emanata da una previa conformità con il reale; la modificazione ideale della vita, che parte dall'aver riconosciuto precedentemente le sue condizioni.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 He aquí por qué me ha parecido de alguna oportunidad quitar la piel al grande hombre político, y mostrar, como en preparación anatómica, sus músculos rojos, sus venas azules, sus tendones lívidos. Pero claro es que ninguna de esas fuerzas zoológicas —sin las que no se da el gran político— son su política.
 
@@ -696,7 +703,7 @@ Questa nota di intellettualità che, come un fuoco di Sant'Elmo, corona l'energi
 
 In questo, come in tutto ciò che al politico si riferisce, è il maggior esempio Cesare. Il suo prodigioso profilo può valere come paradigma del genere e dose di intellettualità che qui si esige al grande politico. Lo si confronti con Mario, con Pompeo, con Marco Antonio, fila splendida di focosi animali umani. A tutti manca la fiammella di Sant'Elmo che produce nelle cime la combustione dello spirito. Nessuna visione e previsione li visita. Sono enormi automi sotto il Destino. In Cesare, il Destino non cade da fuori, ma va in lui, che lui lo porta e lo è. Perché in questo radica il dominio supremo che è stato concesso allo spirito. Come tutto nell'universo, avanza anche lui sottomesso al Destino. (Ciò che non è Destino è solo frivolezza). Ma lo spirito vede quel Destino, lo ferisce e trapassa con il suo dardo di comprensione. Comprendere è catturare. Destino compreso. Destino catturato, addomesticato. Cesare lo porta al fianco come un cane docile.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Es César un [caso](/concepts/fortune) ejemplar de agudeza intelectual. En su tiempo nadie veía en torno más que problemas de cariz insoluble. César vio la solución, clara, radiante, fecunda. Y esta solución brotaba sencillamente de una rigorosa comprensión analítica de lo que era la sociedad romana en aquel instante, de lo que podía ser, de lo que no podía ya ser[57]. Como casi todas las grandes soluciones, tuvo ésta un aspecto paradójico. Los males de Roma —todo el mundo, y principalmente los conservadores insistían en ello— eran oriundos de la fabulosa expansión a que el poderío romano había llegado. Por eso los conservadores demandaban la cesación de todo nuevo crecimiento. La solución de César —que los siglos han comprobado en una experiencia milenaria— fue estrictamente contraria: la ilimitada ampliación, el imperio universal, la inclusión en el orbe romano del intacto Occidente —que era entonces, frente a las viejas naciones orientales, la tierra nueva, la América de los antiguos.
 

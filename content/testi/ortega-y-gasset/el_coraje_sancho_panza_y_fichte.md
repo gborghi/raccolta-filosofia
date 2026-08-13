@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > It starts from Plato, who sought the soul's powers in races as in vast projections and credited the Scythians with the thymós the Greeks lacked: on that word he built the idea we now call will. Thymós — effort, courage — is said to be the Spanish power, blind unless ruled by the idea: what interests it is not action, which is worth what its end is worth, but the sheer feat. It then recalls Cohen at Marburg finding in Sancho's "hazaña", translated Tathandlung, the principle of Fichte's philosophy.
+
+## Connections
+
+**Concetti:** [[concepts/will|volontà]], [[concepts/soul|anima]]  
+**Figure:** [[figures/plato|Platone]], [[figures/socrates|Socrate]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/german_idealism|idealismo tedesco]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

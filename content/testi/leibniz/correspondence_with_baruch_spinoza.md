@@ -11,8 +11,18 @@ tags:
   - "philosopher/leibniz"
 ---
 
+*Leibniz*
+
 > [!abstract]
 > A brief 1671 epistolary exchange between the young Leibniz and Spinoza — not on metaphysics but on optics: 'pandochic' lenses and the collection of off-axis rays to widen apertures without loss of sharpness. A document of the relation between the two rationalists before the Ethica.
+
+## Connections
+
+**Assi:** [[assi/method|Metodo]]  
+**Concetti:** [[concepts/nature|natura]]  
+**Figure:** [[figures/spinoza|Spinoza]]  
+**Forme:** [[forms/epistle|epistola]]  
+**Scuole:** [[schools/continental_rationalism|razionalismo continentale]]
 
 <p class="work-source">Testo originale inglese · Delphi Classics, 2025 · pubblico dominio</p>
 

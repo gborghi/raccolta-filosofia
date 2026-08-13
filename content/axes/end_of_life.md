@@ -12,7 +12,7 @@ positions:
   - "amor_fati"
   - "pessimism"
   - "optimism"
-work_count: 46
+work_count: 43
 tags:
   - "graph/axis"
 title: "Fine della vita"
@@ -30,12 +30,12 @@ title: "Fine della vita"
 - [apatheia](/positions/apatheia) — 8 opere · contro [piacere](/positions/pleasure)
 - [beatitudine](/positions/beatitude) — 6 opere · contro [piacere](/positions/pleasure), [atarassia](/positions/ataraxia)
 - [piacere](/positions/pleasure) — 4 opere · contro [apatheia](/positions/apatheia), [beatitudine](/positions/beatitude)
-- [vita come progetto](/positions/life_as_project) — 18 opere
+- [vita come progetto](/positions/life_as_project) — 15 opere
 - [amor fati](/positions/amor_fati) — 4 opere · contro [atarassia](/positions/ataraxia), [apatheia](/positions/apatheia)
 - [pessimismo](/positions/pessimism) — 4 opere · contro [ottimismo](/positions/optimism)
 - [ottimismo](/positions/optimism) — 5 opere · contro [pessimismo](/positions/pessimism)
 
-## Opere (54)
+## Opere (51)
 
 **Aquinas**
 - [Treatise on the Last End](/testi/aquinas/treatise_on_the_last_end)
@@ -62,15 +62,12 @@ title: "Fine della vita"
 - [Ecce Homo](/testi/nietzsche/ecce_homo)
 
 **Ortega y Gasset**
-- [Abenjaldún nos revela el secreto pensamientos sobre África Menor](/testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor)
 - [[Discurso en el Parlamento chileno]](/testi/ortega-y-gasset/discurso_en_el_parlamento_chileno)
 - [El amor al sino](/testi/ortega-y-gasset/el_amor_al_sino)
 - [El derecho a la defensa de la República](/testi/ortega-y-gasset/el_derecho_a_la_defensa_de_la_república)
 - [El hombre a la defensiva](/testi/ortega-y-gasset/el_hombre_a_la_defensiva)
 - [En el centenario de una Universidad](/testi/ortega-y-gasset/en_el_centenario_de_una_universidad)
 - [Goethe, el libertador](/testi/ortega-y-gasset/goethe_el_libertador)
-- [Lo que más falta hace hoy Versión taquigráfica de una emisión por Radio Madrid a Buenos](/testi/ortega-y-gasset/lo_que_más_falta_hace_hoy_versión_taquigráfica_de_una_emisión_por_radio_madrid_a_buenos)
-- [MEDITACIONES DEL QUIJOTE](/testi/ortega-y-gasset/meditaciones_del_quijote)
 - [Meditación de la técnica](/testi/ortega-y-gasset/meditación_de_la_técnica)
 - [Misión personal](/testi/ortega-y-gasset/misión_personal)
 - [Misión profesional](/testi/ortega-y-gasset/misión_profesional)

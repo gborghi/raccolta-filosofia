@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Article: since labour is an essential principle of society, citizens should organize into unions giving juridical form to the coexistence of work, integrating the State with a guild structure. Political-social op-ed.
+> A short text (287 words) for which the digest carries no prose sample: nothing can be said about its content beyond the title.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

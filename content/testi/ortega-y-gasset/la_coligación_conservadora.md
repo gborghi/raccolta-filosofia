@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article on the coalition of the Spanish right: Ortega, who says he is scarcely conservative, judges it useful because without a serious policy bearing down from above even transforming forces gain no muscle; but he suspects the union springs only from fear of the labour question. Topical politics.
 

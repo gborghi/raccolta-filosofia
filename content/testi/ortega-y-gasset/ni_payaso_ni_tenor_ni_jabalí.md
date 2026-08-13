@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Fragment of a parliamentary speech: the democracy possible today must be sober, swift and efficient, avoiding histrionics (neither clown, nor tenor, nor boar). Political rhetoric.
+> A very short piece (225 words) for which the digest provides no prose sample: the content cannot be reconstructed from the title.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

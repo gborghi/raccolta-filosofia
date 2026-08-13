@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Letter to his friend Rubín de Cendoya: classicism must be wrested from literature and from normative poetics (which answers 'why these classics?' with 'just because') and understood as a principle of conservation of historical energy — a direction and an impulse, not a model to imitate.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]], [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +97,7 @@ Un altro sintomo di ciò che vado dicendo, amico Rubín, è la querela perdurabi
 
 In qualsiasi momento dell'oggi, dello ieri o del domani europei, si troverà la lotta metafisica di entrambi i principi, in mancanza l'uno, trionfante l'altro, polarizzando l'agitazione umana.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay,forms/epistle"></span>
 
 El error de pensar el clasicismo según una noción cronológica y más o menos estrictamente confundirlo con la antigüedad, tiene tan hondas raíces psíquicas, que no dudo atribuirlo a los restos de asiatismo que quedan en los corazones europeos. Pues es sabido que para el oriental un libro, por el mero hecho de ser antiguo, es un libro inspirado, es un libro divino. Aquí tiene usted el clasicismo histórico de mongoles y semitas, el clasicismo como superstición, el clasicismo romántico. ¿Por qué romántico? —me dirá usted…
 
@@ -180,7 +187,7 @@ Per questa suggestione di un miglioramento indefinito dell'uomo dentro l'alveo d
 
 Ma, ahimè, che il male, che il romanticismo è razziale, è radicale; come l'uomo non può saltare fuori della sua ombra, secondo il proverbio arabo, nemmeno può sradicare il suo romanticismo. Ebbene, e che? Non dà anche quel male un senso alle nostre energie, sebbene tragico? Il senso è patente: domare dentro di noi la bestia romantica perché progredisca in noi la realtà dell'uomo classico, realtà inafferrabile e per questo precisamente ideale sicuro e perenne.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay,forms/epistle"></span>
 
 ¿Recuerda usted aquella tragedia quieta y luminosa que pintó Tiziano en su cuadro Amor divino y amor humano? Dos mujeres sentadas a ambos extremos de un estanque de mármol y en medio un niño que busca en el fondo del agua tal vez una rosa ahogada, o no se sabe qué. Nuestro corazón vacila entre a qué mujer entregarse, y no acierta a decidir cuál es la hembra divina y cuál la humana, porque halla en las cavidades de sí mismo resonancias para una y otra. La equívoca alegría nos da dolor, y en tanto aquel brazo gordezuelo del niño que se refracta en el iris del agua y como que se quiebra…
 

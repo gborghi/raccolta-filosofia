@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A speech to the constituent Cortes reproaching the Catalan deputies for setting themselves up as a particularist islet instead of being magnanimous. Politics, Ortega says, is drawing animating horizons, a project of common future, not the politics of Lot's wife.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +96,7 @@ Un'altra era che è necessario animare il paese, precisare le sue illusioni —c
 
 Poi importava far constatare qualcosa di evidente, ma che non si è detto abbastanza. Né questo Governo, né nessun altro possibile della Spagna o di fuori, può fare nulla di serio senza contare con i capitalisti. Il nuovo [socialismo](/schools/historical_materialism_school) e pure il comunismo —se mi si capisce bene— lo comprendono e dichiarano. Non è assurdo che essendo tale l'indiscutibile verità si dia l'impressione di spavento al capitale? Bisogna riagire contro la politica di faccia feroce —che sarebbe ridicola se non risultasse funesta. La verità è che quella politica non è mai stata quella del Governo, ma non ha fatto abbastanza per contrastarla dall'ambiente. È noto che io e i miei amici aspiriamo, senza equivoco e con piena coscienza dei vocaboli, a organizzare la Spagna in popolo di lavoratori, cosa per nulla spaventevole e in cui tutto il mondo riconosce l'inesorabile avvenire. Non sa il Parlamento quale fu la mia delusione nel vedere che il ministro della Finanza, così acuto parlamentare, non raccoglieva al volo questa colomba di pace che, in suo onore, mi tirava fuori dalle maniche.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state"></span>
 
 En fin, era preciso que las Cortes Constituyentes, antes de cerrarse su primer debate, dirigiesen un ademán de simpatía auténtica al Ejército español, no sólo al actual, sino al de la víspera, que en medio de las indisciplinas y ligerezas cometidas por muchos de nosotros en esta temporada ha sido gran ejemplo de decencia y aceptación de la fatalidad, dos cosas que para mí son las máximas virtudes.
 

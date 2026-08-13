@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Political appeal to young Spaniards, especially those in science and technics, not to abandon politics but to intervene through their will in their surroundings. An exhortatory, non-philosophical piece.
+> A short text (252 words). The digest carries no prose sample, so the content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

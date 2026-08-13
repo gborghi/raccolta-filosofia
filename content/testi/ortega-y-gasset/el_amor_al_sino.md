@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > He wants to refresh Spaniards' perception that the Republic, like it or not, is the historical reality they are in — not a republican theory nor a regime "brought" by anyone: it arose with the spontaneity of a biological phenomenon, and even the monarchists collaborated by standing still. The title casts acceptance of that destiny as love of one's fate.
+
+## Connections
+
+**Assi:** [[assi/end_of_life|Fine della vita]]  
+**Posizioni:** [[positions/amor_fati|amor fati]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

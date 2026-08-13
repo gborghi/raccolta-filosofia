@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Essay distinguishing two species of body, mineral and flesh: the mineral is all exteriority and its inside is merely relative, whereas the inside of flesh never becomes outside and is intimacy by essence — and this intimacy is what we call life. An analysis of expression follows, in which the expressive thing (the word as sound) sacrifices itself to the thing expressed.
+
+## Connections
+
+**Assi:** [[assi/soul_body|Anima e corpo]]  
+**Concetti:** [[concepts/soul|anima]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

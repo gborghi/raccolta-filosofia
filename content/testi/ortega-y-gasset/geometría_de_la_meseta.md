@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Lyrical landscape essay on Leon and the Castilian meseta: a sentimental geometry where the vertical is the poplar and the horizontal the greyhound. Literary prose, not philosophical.
+> A 247-word text with no sample in the digest: its content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

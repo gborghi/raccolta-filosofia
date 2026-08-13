@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A summary and comment on Menéndez Pidal's doctrine of the evolution of Spanish: the archaising Visigothic romance, homogeneous and poor in Gothic and Arabic elements, and then the germination of Castile with its customary law. Ortega reads in it a confirmation of España invertebrada and points to two unexamined assumptions in Pidal. Philology and history, not philosophy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

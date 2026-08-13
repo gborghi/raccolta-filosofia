@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A letter to the editor of El Sol: Ortega denies having 'attacked' the press and defines his trade as an intellectual, which consists only in seeking truth and proclaiming it. The press is neither a person nor a group but an elemental historical force, and saying it must change if Europe is to be saved is no more an attack than describing an earthquake.
+
+## Connections
+
+**Forme:** [[forms/epistle|epistola]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -84,7 +90,7 @@ Se, dunque, non si faceva questione di quegli «interessi inconfessabili», che 
 
 Ha fatto male El Sol a non volermi lasciare nemmeno un picco di ragione, perché con ciò rivela che non andava tranquillamente a discutere ciò che le cose sono e devono essere, ma a difendere fino all'indifendibile. Non c'è verosimiglianza alcuna di che qualcuno, chiunque sia, si sbagli così integralmente, fino in quei dettagli, come El Sol dà a intendere che io mi sia sbagliato.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/epistle"></span>
 
 Conozco El Sol desde su cuna. Conozco minuciosamente la actuación de su Empresa, y sé muy bien que no sólo no inspira a su periódico según intereses inconfesables, sino que, al revés, El Sol le ha servido sólo para atraer sobre los negocios particulares de sus empresarios los rayos más abusivos del Poder público. Yo sé todo esto tan bien, ni más ni menos, como pueda saberlo El Sol mismo. Pero El Sol mismo sabe, ni más ni menos tan bien como yo, que ése es un [caso](/concepts/fortune) no único, pero sí excepcional o sumamente infrecuente en el volumen enorme de la Prensa europea. ¿Por qué entonces finge ignorarlo y me presenta como habiendo dicho yo algo que no se ajusta a la verdad?
 

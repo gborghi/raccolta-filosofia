@@ -12,8 +12,18 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > In his prison cell, Crito offers Socrates a chance to escape; Socrates refuses, giving voice to the Laws of Athens, who remind him that by living in and benefiting from the city his whole life he has tacitly agreed to its compact. He argues that one must never commit injustice, not even in return for injustice suffered: obeying the verdict, unjust as it is, is more just than fleeing.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]], [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/social_contract|contratto sociale]], [[positions/virtue_ethics|virtù]]  
+**Concetti:** [[concepts/law|legge]], [[concepts/justice|giustizia]], [[concepts/covenant|patto]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -184,7 +194,7 @@ CRITONE: Non temere — vi sono persone disposte a farti uscire di prigione a no
 
 che avrai difficoltà a sapere che fare di te stesso in qualunque altro luogo. Ché gli uomini ti ameranno anche in altri luoghi dove tu possa andare, e non ad Atene soltanto; ho amici in Tessaglia, se ti va di andare da loro, che ti stimeranno e ti proteggeranno, e nessun Tessalo ti darà noia alcuna. Né posso pensare che tu sia in alcun modo giustificato, Socrate, nel tradire la tua stessa vita quando potresti essere salvato; agendo così fai il gioco dei tuoi nemici, che affrettano la tua rovina. E inoltre direi che stai abbandonando i tuoi stessi figli; ché potresti allevarli ed educarli; invece te ne vai e li lasci, ed essi dovranno affidarsi alla sorte; e se non incontreranno il consueto destino degli orfani, poco te ne sarà reso grazie. Nessun uomo dovrebbe mettere al mondo figli se non è disposto a perseverare fino alla fine nel loro allevamento ed [educazione](/concepts/education). Ma tu sembri scegliere la parte più facile, non quella migliore e più virile, che sarebbe stata più decorosa in uno che professa di aver cura della virtù in tutte le sue azioni, come te. E in verità mi vergogno non solo di te, ma di noi che siamo tuoi amici, quando rifletto che l'intera faccenda sarà attribuita interamente alla nostra mancanza di coraggio. Il processo non avrebbe mai avuto bisogno di svolgersi, o avrebbe potuto essere gestito diversamente; e quest'ultimo atto, o culmine di follia, sembrerà essere avvenuto per la nostra negligenza e viltà, noi che avremmo potuto salvarti, se fossimo stati buoni a qualcosa; e tu avresti potuto salvare te stesso, ché non vi era alcuna difficoltà. Vedi ora, Socrate, quanto tristi e disonorevoli siano le conseguenze, tanto per noi quanto per te. Prendi dunque la tua decisione, o piuttosto abbi già la decisione presa, ché il tempo della deliberazione è finito, e vi è una sola cosa da fare, che deve esser fatta questa notte stessa, e, se indugiamo anche solo un poco, non sarà più attuabile né possibile; ti scongiuro perciò, Socrate, lasciati persuadere da me, e fa' come io dico.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/moral_foundation,positions/social_contract,positions/virtue_ethics,concepts/law,concepts/justice,concepts/covenant,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): Dear Crito, your zeal is invaluable, if a right one; but if wrong, the greater the zeal the greater the danger; and therefore we ought to consider whether I shall or shall not do as you say. For I am and always have been one of those natures who must be guided by reason, whatever the reason may be which upon reflection appears to me to be the best; and now that this [chance](/concepts/fortune) has befallen me, I cannot repudiate my own words: the principles which I have hitherto honoured and revered I still honour, and unless we can at once find other and better principles, I am certain not to agree with you; no, not even if the power of the multitude could inflict many more imprisonments, confiscations, deaths, frightening us like children with hobgoblin terrors. 
 
@@ -392,7 +402,7 @@ SOCRATE: Ché fare il male a un altro è la stessa cosa che offenderlo?
 
 CRITONE: Verissimo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/moral_foundation,positions/social_contract,positions/virtue_ethics,concepts/law,concepts/justice,concepts/covenant,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): Then we ought not to retaliate or render evil for evil to anyone, whatever evil we may have suffered from him. But I would have you consider, Crito, whether you really mean what you are saying. For this opinion has never been held, and never will be held, by any considerable number of persons; and those who are agreed and those who are not agreed upon this point have no common ground, and can only despise one another when they see how widely they differ. Tell me, then, whether you agree with and assent to my first principle, that neither injury nor retaliation nor warding off evil by evil is ever right. And shall that be the premise of our argument? Or do you decline and dissent from this? For so I have ever thought, and continue to think; but, if you are of another opinion, let me hear what you have to say. If, however, you remain of the same mind as formerly, I will proceed to the next step.
 
@@ -456,7 +466,7 @@ Poiché non uscisti mai dalla città né per assistere ai giochi, salvo una volt
 
 8
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/moral_foundation,positions/social_contract,positions/virtue_ethics,concepts/law,concepts/justice,concepts/covenant,figures/socrates,forms/dialogue"></span>
 
 and that you were not unwilling to die. And now you have forgotten these fine sentiments, and pay no respect to us the laws, of whom you are the destroyer; and are doing what only a miserable slave would do, running away and turning your back upon the compacts and agreements which you made as a citizen. And first of all answer this very question: Are we right in saying that you agreed to be governed according to us in deed, and not in word only? Is that true or not?’ How shall we answer, Crito? Must we not assent?
 

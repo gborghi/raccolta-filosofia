@@ -12,8 +12,18 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > Treatise on vice and sin as contraries of virtue: sin is famously defined as a word, deed, or desire contrary to the eternal law. It compares sins with one another by gravity, cause, object and aggravating circumstance.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/virtue_ethics|virtù]]  
+**Concetti:** [[concepts/virtue|virtù]], [[concepts/eternal_law|legge eterna]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +38,7 @@ EVIL HABITS, i.e. VICES AND SINS (QQ[71]-89)
 
 Cattive abitudini, ovvero vizi e peccati (QQ[71]-89)
 
-<span class="atom-split" data-atom="002" data-title="OF VICE AND SIN CONSIDERED IN THEMSELVES (SIX ARTICLES)" data-chapter="OF VICE AND SIN CONSIDERED IN THEMSELVES (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF VICE AND SIN CONSIDERED IN THEMSELVES (SIX ARTICLES)" data-chapter="OF VICE AND SIN CONSIDERED IN THEMSELVES (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/eternal_law,concepts/virtue,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 We have in the next place to consider vice and sin: about which six points have to be considered:
 (1) Vice and sin considered in themselves; (2) their distinction; (3) their comparison with one
@@ -54,7 +64,7 @@ All’interno della prima categoria di argomenti vi sono sei punti di indagine:
 (5) Ogni peccato include necessariamente un’azione concreta?  
 (6) Riguardo alla definizione di peccato proposta da [Agostino](/figures/augustine) (Contra Faust. xxii): “Il peccato è una parola, un atto o un desiderio contrario alla [legge eterna](/concepts/eternal_law)”.
 
-<span class="atom-split" data-atom="003" data-title="Whether vice is contrary to virtue?" data-chapter="Whether vice is contrary to virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether vice is contrary to virtue?" data-chapter="Whether vice is contrary to virtue?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that vice is not contrary to virtue. For one thing has one contrary,
 as proved in Metaph. x, text. 17. Now sin and malice are contrary to virtue. Therefore vice is not
@@ -111,7 +121,7 @@ sins from weakness or passion. Consequently vice is of wider extent than sicknes
 as virtue extends to more things than health; for health itself is reckoned a kind of virtue (Phys. vii,
 text. 17). Consequently vice is reckoned as contrary to virtue, more fittingly than sickness or disease.
 
-<span class="atom-split" data-atom="004" data-title="Whether vice is contrary to nature?" data-chapter="Whether vice is contrary to nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether vice is contrary to nature?" data-chapter="Whether vice is contrary to nature?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that vice is not contrary to nature. Because vice is contrary to
 virtue, as stated above (A[1]). Now virtue is in us, not by nature but by infusion or habituation, as
@@ -196,7 +206,7 @@ Risposta all’Obiezione 3: L’uomo possiede una doppia natura: la natura razio
 
 Risposta all’Obiezione 4: Quello che è irregolare in un’opera d’arte è innaturale per quell’arte che l’ha prodotta. Ora, la [legge eterna](/concepts/eternal_law) viene paragonata all’ordine della ragione umana, così come un’opera d’arte viene paragonata a un’altra opera d’arte. Pertanto, è lo stesso dire che vizio e peccato sono contrari all’ordine della ragione umana e quindi alla legge eterna. Da ciò deriva quanto afferma Agostino nel De Libero Arbitrio iii, 6: “Ogni natura, in sé stessa, proviene da Dio; ma diventa una natura malvagia nel momento in cui si allontana dall’arte divina con la quale è stata creata”.
 
-<span class="atom-split" data-atom="005" data-title="Whether vice is worse than a vicious act?" data-chapter="Whether vice is worse than a vicious act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether vice is worse than a vicious act?" data-chapter="Whether vice is worse than a vicious act?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that vice, i.e. a bad [habit](/concepts/custom), is worse than a sin, i.e. a bad act. For, as
 the more lasting a good is, the better it is, so the longer an evil lasts, the worse it is. Now a vicious
@@ -258,7 +268,7 @@ Risposta all’Obiezione 2: Un’abitudine è costituita da diversi atti, non se
 
 Risposta all’Obiezione 3: L’abitudine determina l’azione attraverso una causalità efficiente; ma l’azione, a sua volta, genera abitudini attraverso una causalità finale, nel contesto della quale consideriamo la natura del bene e del male. Pertanto, l’azione supera l’abitudine sia in termini di bontà che di cattiveria.
 
-<span class="atom-split" data-atom="006" data-title="Whether sin is compatible with virtue?" data-chapter="Whether sin is compatible with virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether sin is compatible with virtue?" data-chapter="Whether sin is compatible with virtue?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a vicious act, i.e. sin, is incompatible with virtue. For contraries
 cannot be together in the same subject. Now sin is, in some way, contrary to virtue, as stated above
@@ -327,7 +337,7 @@ Risposta all’Obiezione 2: Il vizio è direttamente opposto alla virtù, propri
 
 Risposta all’Obiezione 3: Le facoltà naturali agiscono per necessità; pertanto, finché tali facoltà non sono compromesse, non si può ritenere che l’atto compiuto sia peccaminoso. D’altra parte, le virtù dell’anima non producono i loro atti per necessità; quindi il confronto non è valido.
 
-<span class="atom-split" data-atom="007" data-title="Whether every sin includes an action?" data-chapter="Whether every sin includes an action?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether every sin includes an action?" data-chapter="Whether every sin includes an action?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that every sin includes an action. For as merit is compared with
 virtue, even so is sin compared with vice. Now there can be no merit without an action. Neither,
@@ -416,7 +426,7 @@ Risposta all’Obiezione 2: Il termine “volontario” viene applicato non solo
 
 Risposta all’Obiezione 3: Il peccato di omissione è contrario a un precetto positivo che obbliga sempre, ma non per tutta la vita. Pertanto, omettendo di agire, una persona pecca soltanto nel periodo in cui quel precetto positivo la obbliga ad agire.
 
-<span class="atom-split" data-atom="008" data-title="Whether sin is fittingly defined as a word, deed, or desire contrary to the eternal law?" data-chapter="Whether sin is fittingly defined as a word, deed, or desire contrary to the eternal law?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether sin is fittingly defined as a word, deed, or desire contrary to the eternal law?" data-chapter="Whether sin is fittingly defined as a word, deed, or desire contrary to the eternal law?" data-kind="atom" data-srclang="en" data-tags="concepts/eternal_law,positions/natural_law,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sin is unfittingly defined by saying: "Sin is a word, deed, or
 desire, contrary to the [eternal law](/concepts/eternal_law)." Because "Word," "deed," and "desire" imply an act; whereas
@@ -512,7 +522,7 @@ Risposta all’Obiezione 4: Quando si afferma che non ogni peccato è malvagio s
 
 Risposta all’Obiezione 5: Il teologo considera il peccato principalmente come un oltraggio a Dio; il filosofo morale, invece, come qualcosa che è contrario alla ragione. Per questo motivo Agostino definisce il peccato in base al suo essere “contrario alla legge eterna”, definizione più appropriata rispetto a quella basata sul suo essere contrario alla ragione; tanto più che la legge eterna ci guida in molte questioni che trascendono la ragione umana, ad esempio in materia di fede.
 
-<span class="atom-split" data-atom="009" data-title="OF THE DISTINCTION OF SINS (NINE ARTICLES)" data-chapter="OF THE DISTINCTION OF SINS (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="OF THE DISTINCTION OF SINS (NINE ARTICLES)" data-chapter="OF THE DISTINCTION OF SINS (NINE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the distinction of sins or vices: under which head there are nine points
 of inquiry:
@@ -539,7 +549,7 @@ Dobbiamo ora considerare la distinzione tra peccati o vizi: sotto questa categor
 (8) Variano in base all’eccesso o alla mancanza nel compierli?  
 (9) Differiscono anche in relazione alle circostanze in cui vengono commessi?
 
-<span class="atom-split" data-atom="010" data-title="Whether sins differ in species according to their objects?" data-chapter="Whether sins differ in species according to their objects?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether sins differ in species according to their objects?" data-chapter="Whether sins differ in species according to their objects?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sins do not differ in species, according to their objects. For
 acts are said to be good or evil, in relation, chiefly, to their end, as shown above (Q[1], A[3]; Q[18],
@@ -603,7 +613,7 @@ Risposta all’Obiezione 2: Il peccato non è una pura privazione, ma un atto pr
 
 Risposta all’Obiezione 3: In varie cose, che differiscono per specie o genere, nulla ostacola il nostro tentativo di individuare un aspetto formale dell’oggetto, da cui tale oggetto riceve la propria specifica natura. È così che l’orgoglio cerca l’eccellenza in relazione a diverse cose; e l’avidità cerca una quantità abbondante di beni utilizzabili dall’uomo.
 
-<span class="atom-split" data-atom="011" data-title="Whether spiritual sins are fittingly distinguished from carnal sins?" data-chapter="Whether spiritual sins are fittingly distinguished from carnal sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether spiritual sins are fittingly distinguished from carnal sins?" data-chapter="Whether spiritual sins are fittingly distinguished from carnal sins?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that spiritual sins are unfittingly distinguished from carnal sins.
 For the Apostle says (Gal. 5:19): "The works of the flesh are manifest, which are fornication,
@@ -664,7 +674,7 @@ it may be said that the thing in which the covetous man takes pleasure is someth
 this respect covetousness is numbered with the carnal sins: but the pleasure itself does not belong
 to the body, but to the spirit, wherefore Gregory says (Moral. xxxi, 17) that it is a spiritual sin.
 
-<span class="atom-split" data-atom="012" data-title="Whether sins differ specifically in reference to their causes?" data-chapter="Whether sins differ specifically in reference to their causes?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether sins differ specifically in reference to their causes?" data-chapter="Whether sins differ specifically in reference to their causes?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/four_causes,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sins differ specifically in reference to their causes. For a thing
 takes its species from that whence it derives its being. Now sins derive their being from their causes.
@@ -738,7 +748,7 @@ Risposta all’Obiezione 2: Gli oggetti, in relazione agli atti esterni, hanno i
 
 Risposta all’Obiezione 3: Queste distinzioni dei peccati vengono fornite non come specie distinte di peccati, ma per evidenziarne le varie cause.
 
-<span class="atom-split" data-atom="013" data-title="Whether sin is fittingly divided into sin against God, against oneself, and against one's neighbor?" data-chapter="Whether sin is fittingly divided into sin against God, against oneself, and against one's neighbor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether sin is fittingly divided into sin against God, against oneself, and against one's neighbor?" data-chapter="Whether sin is fittingly divided into sin against God, against oneself, and against one's neighbor?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sin is unfittingly divided into sin against God, against one's
 neighbor, and against oneself. For that which is common to all sins should not be reckoned as a
@@ -813,7 +823,7 @@ Risposta all’Obiezione 2: Quando diverse entità, tra cui una include un’alt
 
 Risposta all’Obiezione 3: Sebbene Dio e il nostro prossimo siano esterni al peccatore stesso, non lo sono rispetto all’atto di peccato, ma ne sono legati in quanto riguardano l’oggetto di tale atto.
 
-<span class="atom-split" data-atom="014" data-title="Whether the division of sins according to their debt of punishment diversifies their species?" data-chapter="Whether the division of sins according to their debt of punishment diversifies their species?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the division of sins according to their debt of punishment diversifies their species?" data-chapter="Whether the division of sins according to their debt of punishment diversifies their species?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the division of sins according to their debt of punishment
 diversifies their species; for instance, when sin is divided into "mortal" and "venial." For things
@@ -907,7 +917,7 @@ Risposta all’Obiezione 2: Dal fatto che un peccato è mortale per la sua speci
 
 Risposta all’Obiezione 3: La ricompensa è destinata a coloro che meritano o compiono azioni virtuose; al contrario, la punizione non è voluta dal peccatore, ma va contro la sua volontà. Pertanto, il paragone non regge.
 
-<span class="atom-split" data-atom="015" data-title="Whether sins of commission and omission differ specifically?" data-chapter="Whether sins of commission and omission differ specifically?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether sins of commission and omission differ specifically?" data-chapter="Whether sins of commission and omission differ specifically?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sins of commission and omission differ specifically. For
 "offense" and "sin" are condivided with one another (Eph. 2:1), where it is written: "When you
@@ -941,7 +951,7 @@ themselves differ specifically according to the natural species. Accordingly, if
 material species in sins of omission and commission, they differ specifically, using species in a
 broad sense, in so far as negation and privation may have a species. But if we refer to the formal
 species of sins of omission and commission, they do not differ specifically, because they are directed
-to the same end, and proceed from the same motive. For the covetous man, in order to hoard money,
+to the same end, and proceed from the same motive. For the covetous man, in order to hoard [money](/concepts/money),
 both robs, and omits to give what he ought, and in like manner, the glutton, to satiate his appetite,
 both eats too much and omits the prescribed fasts. The same applies to other sins: for in things,
 negation is always founded on affirmation, which, in a manner, is its cause. Hence in the physical
@@ -981,7 +991,7 @@ Risposta all’Obiezione 2: Nella legge di Dio, la necessità di vari precetti p
 
 Risposta all’Obiezione 3: Questa obiezione prende in considerazione la diversità materiale dei peccati. Tuttavia, è necessario osservare che, sebbene, in senso stretto, la negazione non appartenga a nessuna specie specifica, essa viene comunque riferita a una specie attraverso la riduzione all’affermazione su cui si basa.
 
-<span class="atom-split" data-atom="016" data-title="Whether sins are fittingly divided into sins of thought, word, and deed?" data-chapter="Whether sins are fittingly divided into sins of thought, word, and deed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether sins are fittingly divided into sins of thought, word, and deed?" data-chapter="Whether sins are fittingly divided into sins of thought, word, and deed?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sins are unfittingly divided into sins of thought, word, and
 deed. For [Augustine](/figures/augustine) (De Trin. xii, 12) describes three stages of sin, of which the first is "when the
@@ -1053,7 +1063,7 @@ Risposta all’Obiezione 2: I peccati di parola e di azione vengono entrambi com
 
 Risposta all’Obiezione 3: Il peccato del pensiero e il peccato della parola non sono distinti dal peccato dell’azione quando sono uniti ad essa; ma quando vengono considerati separatamente, sì lo sono. Così come una parte di un movimento non è distinta dall’intero movimento quando questo è continuo, ma solo quando vi è una interruzione nel movimento stesso.
 
-<span class="atom-split" data-atom="017" data-title="Whether excess and deficiency diversify the species of sins?" data-chapter="Whether excess and deficiency diversify the species of sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether excess and deficiency diversify the species of sins?" data-chapter="Whether excess and deficiency diversify the species of sins?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that excess and deficiency do not diversify the species of sins. For
 excess and deficiency differ in respect of more and less. Now "more" and "less" do not diversify
@@ -1123,7 +1133,7 @@ Risposta all’Obiezione 2: Non è intenzione del peccatore allontanarsi dalla r
 
 Risposta all’Obiezione 3: Si può essere prodighi e irrispettosi nei confronti di oggetti diversi; ad esempio, si può essere irrispettosi nel prendere ciò che non si dovrebbe [Cfr. SS, Q[119], A[1], ad 1]. Inoltre, nulla impedisce che contrari caratteristiche siano presenti nello stesso soggetto, in ambiti diversi.
 
-<span class="atom-split" data-atom="018" data-title="Whether sins differ specifically in respect of different circumstances?" data-chapter="Whether sins differ specifically in respect of different circumstances?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether sins differ specifically in respect of different circumstances?" data-chapter="Whether sins differ specifically in respect of different circumstances?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that vices and sins differ in respect of different circumstances. For,
 as Dionysius says (Div. Nom. iv), "evil results from each single defect." Now individual defects
@@ -1149,7 +1159,7 @@ a different species of sin, because the motive for sinning is the end and object
 sometimes that although different circumstances are corrupted, there is but one motive: thus the
 illiberal man, for the same motive, takes when he ought not, where he ought not, and more than he
 ought, and so on with the circumstances, since he does this through an inordinate desire of hoarding
-money: and in such cases the corruption of different circumstances does not diversify the species
+[money](/concepts/money): and in such cases the corruption of different circumstances does not diversify the species
 of sins, but belongs to one and the same species.
 Sometimes, however, the corruption of different circumstances arises from different motives:
 for instance that a man eat hastily, may be due to the fact that he cannot brook the delay in taking
@@ -1185,7 +1195,7 @@ Risposta all’Obiezione 2: Una circostanza non trasferisce mai un atto da una c
 
 Risposta all’Obiezione 3: Come già detto, nelle varie forme di gola esistono motivi diversi che le determinano.
 
-<span class="atom-split" data-atom="019" data-title="OF THE COMPARISON OF ONE SIN WITH ANOTHER (TEN ARTICLES)" data-chapter="OF THE COMPARISON OF ONE SIN WITH ANOTHER (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="OF THE COMPARISON OF ONE SIN WITH ANOTHER (TEN ARTICLES)" data-chapter="OF THE COMPARISON OF ONE SIN WITH ANOTHER (TEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the comparison of one sin with another: under which head there are ten
 points of inquiry:
@@ -1214,7 +1224,7 @@ Dobbiamo ora considerare il confronto tra un peccato e un altro: in questo ambit
 (9) Dalla posizione della persona contro cui si compie il peccato;  
 (10) Se il peccato sia aggravato dall’eccellenza della persona che lo commette.
 
-<span class="atom-split" data-atom="020" data-title="Whether all sins are connected with one another?" data-chapter="Whether all sins are connected with one another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether all sins are connected with one another?" data-chapter="Whether all sins are connected with one another?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all sins are connected. For it is written (James 2:10):
 "Whosoever shall keep the whole Law, but offend in one point, is become guilty of all." Now to
@@ -1296,7 +1306,7 @@ Risposta all’Obiezione 2: Come già detto sopra (Q[71], A[4]), non ogni atto d
 
 Risposta all’Obiezione 3: L’amore di Dio è unificante, in quanto dirige i sentimenti dell’uomo dal molteplice verso l’unità; per questo le virtù che derivano dall’amore di Dio sono tra loro collegate. Ma l’amor proprio disunisce i sentimenti umani, poiché spinge l’uomo a desiderare beni temporali, vari e di diverso genere; da ciò derivano vizi e peccati che, essendo legati all’amor proprio, non sono tra loro collegati.
 
-<span class="atom-split" data-atom="021" data-title="Whether all sins are equal?" data-chapter="Whether all sins are equal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether all sins are equal?" data-chapter="Whether all sins are equal?" data-kind="atom" data-srclang="en" data-tags="schools/stoicism,concepts/evil_privation,concepts/virtue,figures/cicero,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all sins are equal. Because sin is to do what is unlawful. Now
 to do what is unlawful is reproved in one and the same way in all things. Therefore sin is reproved
@@ -1369,7 +1379,7 @@ Risposta all’Obiezione 2: Questo argomento considera il peccato come una pura 
 
 Risposta all’Obiezione 3: Le virtù sono proporzionalmente uguali nello stesso soggetto; tuttavia, una virtù supera un’altra in eccellenza a seconda della sua specie; inoltre, uno stesso uomo può essere più virtuoso di un altro nella stessa specie di virtù, come già detto (Q[66], AA[1],2). In più, anche se le virtù fossero uguali, ciò non significherebbe necessariamente che anche i vizi lo siano, poiché le virtù sono tra loro collegate, mentre i vizi o i peccati non lo sono.
 
-<span class="atom-split" data-atom="022" data-title="Whether the gravity of sins varies according to their objects?" data-chapter="Whether the gravity of sins varies according to their objects?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the gravity of sins varies according to their objects?" data-chapter="Whether the gravity of sins varies according to their objects?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the gravity of sins does not vary according to their objects.
 Because the gravity of a sin pertains to its mode or quality: whereas the object is the matter of the
@@ -1440,7 +1450,7 @@ Risposta all’Obiezione 2: Dal semplice fatto che l’uomo si rivolga eccessiva
 
 Risposta all’Obiezione 3: Tutti gli oggetti degli atti umani sono tra loro correlati; pertanto tutti gli atti umani appartengono, in qualche modo, allo stesso genere, nella misura in cui sono diretti verso lo scopo finale. Quindi nulla impedisce di confrontare tutti i peccati tra loro.
 
-<span class="atom-split" data-atom="023" data-title="Whether the gravity of sins depends on the excellence of the virtues to which they are opposed?" data-chapter="Whether the gravity of sins depends on the excellence of the virtues to which they are opposed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether the gravity of sins depends on the excellence of the virtues to which they are opposed?" data-chapter="Whether the gravity of sins depends on the excellence of the virtues to which they are opposed?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the gravity of sins does not vary according to the excellence
 of the virtues to which they are opposed, so that, to wit, the graver the sin is opposed to the greater
@@ -1504,7 +1514,7 @@ Risposta all’Obiezione 2: La virtù maggiore, che riguarda un bene più diffic
 
 Risposta all’Obiezione 3: La carità non è alcun tipo di amore, ma l’amore di Dio; pertanto, ciò che le si oppone direttamente non è alcun tipo di odio, ma l’odio verso Dio, che rappresenta il peccato più grave di tutti.
 
-<span class="atom-split" data-atom="024" data-title="Whether carnal sins are of less guilt than spiritual sins?" data-chapter="Whether carnal sins are of less guilt than spiritual sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether carnal sins are of less guilt than spiritual sins?" data-chapter="Whether carnal sins are of less guilt than spiritual sins?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that carnal sins are not of less guilt than spiritual sins. Because
 adultery is a more grievous sin than theft: for it is written (Prov. 6:30,32): "The fault is not so great
@@ -1575,7 +1585,7 @@ Risposta all’Obiezione 2: Si dice che il diavolo si rallegri soprattutto al pe
 
 Risposta all’Obiezione 3: Come afferma lo stesso Filosofo (Etica vii, 6), il motivo per cui è più vergognoso essere incontrollati nella lussuria che nell’ira è che la lussuria coinvolge meno la ragione; nello stesso senso egli dice (Etica iii, 10) che “i peccati di intemperanza sono i più degni di rimprovero, poiché riguardano quei piaceri che sono comuni a noi e alle menti irrazionali”: per questo motivo, con questi peccati l’uomo viene, in qualche modo, brutalizzato; ed è proprio per questa ragione che Gregorio dice (Morale xxxi, 17) che tali peccati sono più vergognosi.
 
-<span class="atom-split" data-atom="025" data-title="Whether the gravity of a sin depends on its cause?" data-chapter="Whether the gravity of a sin depends on its cause?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the gravity of a sin depends on its cause?" data-chapter="Whether the gravity of a sin depends on its cause?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/concupiscence,concepts/will,concepts/reason,forms/quaestio"></span>
 
 Objection 1: It would seem that the gravity of a sin does not depend on its cause. Because the
 greater a sin's cause, the more forcibly it moves to sin, and so the more difficult is it to resist. But
@@ -1648,7 +1658,7 @@ Risposta all’Obiezione 2: Se si intende per concupiscenza il movimento della v
 
 Risposta all’Obiezione 3: Questo argomento considera la causa che rende l’atto involontario, e una tale causa riduce, come detto, la gravità del peccato.
 
-<span class="atom-split" data-atom="026" data-title="Whether a circumstance aggravates a sin?" data-chapter="Whether a circumstance aggravates a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether a circumstance aggravates a sin?" data-chapter="Whether a circumstance aggravates a sin?" data-kind="atom" data-srclang="en" data-tags="figures/aristotle,figures/cicero,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a circumstance does not aggravate a sin. Because sin takes its
 gravity from its species. Now a circumstance does not specify a sin, for it is an accident thereof.
@@ -1723,7 +1733,7 @@ Risposta all’Obiezione 2: Una circostanza può aggravare un peccato in entramb
 
 Risposta all’Obiezione 3: La ragione dovrebbe guidare l’azione non solo riguardo all’oggetto, ma anche in relazione a ogni circostanza. Pertanto, si può deviare dalla regola della ragione attraverso la corruzione di una qualsiasi singola circostanza; ad esempio, compiendo un’azione quando non si dovrebbe o in un luogo dove non si dovrebbe; e bastano queste deviazioni per rendere l’atto malvagio. Questa distacco dalla regola della ragione deriva dal fatto che l’uomo si allontana da Dio, a Quello con il quale dovrebbe essere unito attraverso la ragione retta.
 
-<span class="atom-split" data-atom="027" data-title="Whether sin is aggravated by reason of its causing more harm?" data-chapter="Whether sin is aggravated by reason of its causing more harm?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether sin is aggravated by reason of its causing more harm?" data-chapter="Whether sin is aggravated by reason of its causing more harm?" data-kind="atom" data-srclang="en" data-tags="concepts/evil_privation,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a sin is not aggravated by reason of its causing more harm.
 Because the harm done is an issue consequent to the sinful act. But the issue of an act does not add
@@ -1799,7 +1809,7 @@ not to harm but pleasure; secondly, because murder is the direct and sufficient 
 death; whereas no man can of himself be the sufficient cause of another's spiritual death, because
 no man dies spiritually except by sinning of his own will.
 
-<span class="atom-split" data-atom="028" data-title="Whether a sin is aggravated by reason of the condition of the person against whom it is committed?" data-chapter="Whether a sin is aggravated by reason of the condition of the person against whom it is committed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether a sin is aggravated by reason of the condition of the person against whom it is committed?" data-chapter="Whether a sin is aggravated by reason of the condition of the person against whom it is committed?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sin is not aggravated by reason of the condition of the person
 against whom it is committed. For if this were the case a sin would be aggravated chiefly by being
@@ -1891,7 +1901,7 @@ Risposta all’Obiezione 2: Il danno che un uomo infligge a se stesso nelle cose
 
 Risposta all’Obiezione 3: Non vi è alcun rispetto per le persone se Dio punisce più severamente coloro che peccano contro qualcuno di rango superiore; ciò avviene perché tale offesa arreca danno a molti.
 
-<span class="atom-split" data-atom="029" data-title="Whether the excellence of the person sinning aggravates the sin?" data-chapter="Whether the excellence of the person sinning aggravates the sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether the excellence of the person sinning aggravates the sin?" data-chapter="Whether the excellence of the person sinning aggravates the sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the excellence of the person sinning does not aggravate the
 sin. For man becomes great chiefly by cleaving to God, according to Ecclus. 25:13: "How great is
@@ -1957,7 +1967,7 @@ Risposta all’Obiezione 2: Dio non tratta diversamente le persone quando punisc
 
 Risposta all’Obiezione 3: L’uomo che eccelle in qualcosa subisce svantaggi, non a causa del bene che possiede, ma a causa del suo abuso di esso.
 
-<span class="atom-split" data-atom="030" data-title="OF THE SUBJECT OF SIN (TEN ARTICLES)" data-chapter="OF THE SUBJECT OF SIN (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="OF THE SUBJECT OF SIN (TEN ARTICLES)" data-chapter="OF THE SUBJECT OF SIN (TEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the subject of vice or sin: under which head there are ten points of
 inquiry:
@@ -1986,7 +1996,7 @@ Dobbiamo ora considerare il tema del vizio o del peccato: sotto questa categoria
 (9) Se la ragione superiore possa essere soggetto di peccato veniale;  
 (10) Se nella ragione superiore possa esistere un peccato veniale diretto al suo oggetto specifico.
 
-<span class="atom-split" data-atom="031" data-title="Whether the will is a subject of sin?" data-chapter="Whether the will is a subject of sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether the will is a subject of sin?" data-chapter="Whether the will is a subject of sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will cannot be a subject of sin. For Dionysius says (Div.
 Nom. iv) that "evil is outside the will and the intention." But sin has the character of evil. Therefore
@@ -2047,7 +2057,7 @@ Risposta all’Obiezione 2: Se il difetto nella capacità di comprendere non fos
 
 Risposta all’Obiezione 3: Questo argomento si applica a quelle cause efficienti il cui agire si manifesta nell’universo esterno e che non si muovono da sole, ma muovono altre cose; il contrario di ciò si osserva nella volontà umana; pertanto, questo argomento non è convincente.
 
-<span class="atom-split" data-atom="032" data-title="Whether the will alone is the subject of sin?" data-chapter="Whether the will alone is the subject of sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether the will alone is the subject of sin?" data-chapter="Whether the will alone is the subject of sin?" data-kind="atom" data-srclang="en" data-tags="concepts/will,concepts/virtue,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will alone is the subject of sin. For [Augustine](/figures/augustine) says (De
 Duabus Anim. x, 10) that "no one sins except by the will." Now the subject of sin is the power by
@@ -2088,7 +2098,7 @@ because they both act and are acted upon, as is made clear in Polit. i, 3. Moreo
 external members are actions that pass into external matter, as may be seen in the blow that is
 inflicted in the sin of murder. Consequently there is no comparison.
 
-<span class="atom-split" data-atom="033" data-title="Whether there can be sin in the sensuality?" data-chapter="Whether there can be sin in the sensuality?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether there can be sin in the sensuality?" data-chapter="Whether there can be sin in the sensuality?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there cannot be sin in the sensuality. For sin is proper to man
 who is praised or blamed for his actions. Now sensuality is common to us and irrational animals.
@@ -2158,7 +2168,7 @@ Risposta all’Obiezione 2: La continua corruzione della sensualità va intesa c
 
 Risposta all’Obiezione 3: L’uomo non compie perfettamente ciò che fa senza la deliberazione della ragione, poiché la parte principale dell’essere umano non partecipa affatto a tale processo; pertanto, un simile atto non è perfettamente umano. Di conseguenza, non può essere considerato un atto perfetto di virtù o di peccato, ma piuttosto qualcosa di imperfetto in quel genere. Quindi, qualsiasi azione guidata dalla sensibilità che prevenga il intervento della ragione rappresenta un peccato veniale, cioè qualcosa di imperfetto all’interno del genere dei peccati.
 
-<span class="atom-split" data-atom="034" data-title="Whether mortal sin can be in the sensuality?" data-chapter="Whether mortal sin can be in the sensuality?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether mortal sin can be in the sensuality?" data-chapter="Whether mortal sin can be in the sensuality?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that mortal sin can be in the sensuality. Because an act is discerned
 by its object. Now it is possible to commit a mortal sin about the objects of the sensuality, e.g.
@@ -2206,7 +2216,7 @@ the other, e.g. goodness of the imagination is a disposition to science which is
 this way the venial sin that is in the sensuality, may be a disposition to mortal sin, which is in the
 reason.
 
-<span class="atom-split" data-atom="035" data-title="Whether sin can be in the reason?" data-chapter="Whether sin can be in the reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether sin can be in the reason?" data-chapter="Whether sin can be in the reason?" data-kind="atom" data-srclang="en" data-tags="concepts/reason,concepts/will,figures/augustine"></span>
 
 Objection 1: It would seem that sin cannot be in the reason. For the sin of any power is a defect
 thereof. But the fault of the reason is not a sin, on the contrary, it excuses sin: for a man is excused
@@ -2246,7 +2256,7 @@ act of the reason, voluntary. Accordingly sin is found in the reason, either thr
 defect of the reason, or through the reason being the principle of the will's act.
 The Reply to the Third Objection is evident from what has been said (ad 1).
 
-<span class="atom-split" data-atom="036" data-title="Whether the sin of morose delectation is in the reason?" data-chapter="Whether the sin of morose delectation is in the reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Whether the sin of morose delectation is in the reason?" data-chapter="Whether the sin of morose delectation is in the reason?" data-kind="atom" data-srclang="en" data-tags="positions/pleasure,concepts/reason,concepts/passion,figures/augustine"></span>
 
 Objection 1: It would seem that the sin of morose delectation is not in the reason. For delectation
 denotes a movement of the appetitive power, as stated above (Q[31], A[1]). But the appetitive
@@ -2291,7 +2301,7 @@ the reason in deliberating dwells [immoratur] thereon, and fails to drive it awa
 holding and turning over what should have been cast aside as soon as it touched the mind," as
 Augustine says (De Trin. xii, 12).
 
-<span class="atom-split" data-atom="037" data-title="Whether the sin of consent to the act is in the higher reason?" data-chapter="Whether the sin of consent to the act is in the higher reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether the sin of consent to the act is in the higher reason?" data-chapter="Whether the sin of consent to the act is in the higher reason?" data-kind="atom" data-srclang="en" data-tags="concepts/eternal_law,concepts/divine_law,concepts/reason,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that the sin of consent to the act is not in the higher reason. For
 consent is an act of the appetitive power, as stated above (Q[15], A[1]): whereas the reason is an
@@ -2391,7 +2401,7 @@ Risposta all’Obiezione 3: La ragione superiore, considerando la legge eterna, 
 
 Risposta all’Obiezione 4: La percezione del potere dell’immaginazione avviene in modo improvviso e senza riflessione; pertanto può provocare un atto prima che la ragione superiore o inferiore abbia il tempo di deliberarne. Tuttavia, il giudizio della ragione inferiore è frutto di una riflessione attenta, quindi richiede del tempo; durante questo lasso di tempo anche la ragione superiore può esaminare la situazione. Se, a seguito di questa riflessione, la ragione superiore non riesce a impedire l’atto peccaminoso, ciò le verrà certamente attribuito.
 
-<span class="atom-split" data-atom="038" data-title="Whether consent to delectation is a mortal sin?" data-chapter="Whether consent to delectation is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether consent to delectation is a mortal sin?" data-chapter="Whether consent to delectation is a mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that consent to delectation is not a mortal sin, for consent to
 delectation belongs to the lower reason, which does not consider the eternal types, i.e. the eternal
@@ -2493,7 +2503,7 @@ in the thought of murder.
 Reply to Objection 6: The Lord's Prayer is to be said in order that we may be preserved not
 only from venial sin, but also from mortal sin.
 
-<span class="atom-split" data-atom="039" data-title="Whether there can be venial sin in the higher reason as directing the lower powers?" data-chapter="Whether there can be venial sin in the higher reason as directing the lower powers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether there can be venial sin in the higher reason as directing the lower powers?" data-chapter="Whether there can be venial sin in the higher reason as directing the lower powers?" data-kind="atom" data-srclang="en" data-tags="concepts/eternal_law,concepts/divine_law,figures/augustine"></span>
 
 Objection 1: It would seem that there cannot be venial sin in the higher reason as directing the
 lower powers, i.e. as consenting to a sinful act. For [Augustine](/figures/augustine) says (De Trin. xii, 7) that the "higher
@@ -2534,7 +2544,7 @@ is destroyed; but when the disorder leaves this untouched, the sin is not mortal
 Reply to Objection 3: Deliberate consent to a sin does not always amount to contempt of the
 Divine law, but only when the sin is contrary to the Divine law.
 
-<span class="atom-split" data-atom="040" data-title="Whether venial sin can be in the higher reason as such?" data-chapter="Whether venial sin can be in the higher reason as such?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Whether venial sin can be in the higher reason as such?" data-chapter="Whether venial sin can be in the higher reason as such?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that venial sin cannot be in the higher reason as such, i.e. as
 considering the [eternal law](/concepts/eternal_law). For the act of a power is not found to fail except that power be
@@ -2615,7 +2625,7 @@ Risposta all’Obiezione 2: In materia di azione, l’intuizione semplice dei pr
 
 Risposta all’Obiezione 3: Una stessa cosa può essere oggetto di considerazioni diverse, di cui una è più elevata dell’altra; pertanto, l’esistenza di Dio può essere considerata sia come qualcosa che può essere conosciuto dalla ragione umana, sia come qualcosa che ci viene rivelato dalla Divina [rivelazione](/concepts/revelation), la quale rappresenta una considerazione ancora più elevata. E quindi, sebbene l’oggetto della ragione più elevata sia, per sua natura, qualcosa di [sublime](/concepts/sublime), esso può comunque essere ricondotto a una considerazione ancora superiore; e in questo modo, ciò che, nel momento del suo compimento, non costituiva un peccato mortale, diventa tale a seguito di una riflessione più approfondita che lo porta sotto la luce di una visione più elevata, come è stato spiegato sopra.
 
-<span class="atom-split" data-atom="041" data-title="OF THE CAUSES OF SIN, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE CAUSES OF SIN, IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="OF THE CAUSES OF SIN, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE CAUSES OF SIN, IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the causes of sin: (1) in general; (2) in particular. Under the first head
 there are four points of inquiry:
@@ -2632,7 +2642,7 @@ Dobbiamo ora considerare le cause del peccato: (1) in generale; (2) in particola
 (3) Ha una causa esterna?
 (4) Un peccato può essere la causa di un altro?
 
-<span class="atom-split" data-atom="042" data-title="Whether sin has a cause?" data-chapter="Whether sin has a cause?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether sin has a cause?" data-chapter="Whether sin has a cause?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sin has no cause. For sin has the nature of evil, as stated above
 (Q[71], A[6]). But evil has no cause, as Dionysius says (Div. Nom. iv). Therefore sin has no cause.
@@ -2704,7 +2714,7 @@ Risposta all’Obiezione 2: Affinché questa definizione possa essere verificata
 
 Risposta all’Obiezione 3: Come detto sopra, la volontà, nel non applicare la regola della ragione o la legge divina, è la causa del peccato. Ora, il fatto stesso di non applicare la regola della ragione o la legge divina, in sé, non ha la natura del male, né quella di punizione né di colpa, prima che venga applicato all’atto concreto. Pertanto, il male non è la causa del primo peccato, ma piuttosto un bene privo di un altro bene.
 
-<span class="atom-split" data-atom="043" data-title="Whether sin has an internal cause?" data-chapter="Whether sin has an internal cause?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether sin has an internal cause?" data-chapter="Whether sin has an internal cause?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/will,concepts/cause,concepts/divine_law,figures/augustine"></span>
 
 Objection 1: It would seem that sin has no internal cause. For that which is within a thing is
 always in it. If therefore sin had an internal cause, man would always be sinning, since given the
@@ -2754,7 +2764,7 @@ the movement of the sensitive part, from which sin follows, is natural sometimes
 when anyone sins through appetite for food. Yet sin results in being unnatural from the very fact
 that the natural rule fails, which man, in accord with his nature, ought to observe.
 
-<span class="atom-split" data-atom="044" data-title="Whether sin has an external cause?" data-chapter="Whether sin has an external cause?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="Whether sin has an external cause?" data-chapter="Whether sin has an external cause?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sin has no external cause. For sin is a voluntary act. Now
 voluntary acts belong to principles that are within us, so that they have no external cause. Therefore
@@ -2817,7 +2827,7 @@ Risposta all’Obiezione 2: Il fatto che il peccato abbia una causa interna non 
 
 Risposta all’Obiezione 3: Se le cause esterne che spingono al peccato aumentano di numero, anche gli atti peccaminosi aumentano, poiché tali cause esercitano una pressione più forte e con maggiore frequenza. Tuttavia, la natura stessa del peccato viene attenuata, poiché essa dipende dal fatto che l’atto sia volontario e possa essere compiuto secondo la nostra volontà.
 
-<span class="atom-split" data-atom="045" data-title="Whether one sin is a cause of another?" data-chapter="Whether one sin is a cause of another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether one sin is a cause of another?" data-chapter="Whether one sin is a cause of another?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/four_causes"></span>
 
 Objection 1: It would seem that one sin cannot be the cause of another. For there are four kinds
 of cause, none of which will fit in with one sin causing another. Because the end has the character
@@ -2890,7 +2900,7 @@ Risposta all’Obiezione 2: Il peccato è qualcosa di imperfetto a causa della s
 
 Risposta all’Obiezione 3: Non ogni causa di un peccato è a sua volta un altro peccato; pertanto non c’è bisogno di procedere all’infinito, poiché è possibile che si verifichi un peccato che non sia causato da un altro peccato.
 
-<span class="atom-split" data-atom="046" data-title="OF THE CAUSES OF SIN, IN PARTICULAR (FOUR ARTICLES)" data-chapter="OF THE CAUSES OF SIN, IN PARTICULAR (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="OF THE CAUSES OF SIN, IN PARTICULAR (FOUR ARTICLES)" data-chapter="OF THE CAUSES OF SIN, IN PARTICULAR (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/passion,concepts/will,concepts/reason"></span>
 
 We must now consider the causes of sin, in particular, and (1) The internal causes of sin; (2)
 its external causes; and (3) sins which are the causes of other sins. In view of what has been said
@@ -2909,7 +2919,7 @@ Under the first head, there are four points of inquiry:
 Dobbiamo ora considerare le cause del peccato, in particolare: (1) le cause interne del peccato; (2) le sue cause esterne; e (3) i peccati che a loro volta sono cause di altri peccati. Alla luce di quanto detto sopra, la prima analisi sarà articolata in tre punti principali: innanzitutto tratteremo dell’ignoranza, che è la causa del peccato da parte della ragione; in secondo luogo, della debolezza o delle passioni, che ne sono la causa da parte dell’appetito sensibile; infine, della malizia, che ne è la causa da parte della volontà.  
 All’interno di questa prima categoria di cause, vi sono quattro questioni principali da esaminare: (1) L’ignoranza è davvero una causa del peccato? (2) L’ignoranza costituisce di per sé un peccato? (3) Scusa completamente l’atto peccaminoso? (4) Riduce la gravità del peccato?
 
-<span class="atom-split" data-atom="047" data-title="Whether ignorance can be a cause of sin?" data-chapter="Whether ignorance can be a cause of sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Whether ignorance can be a cause of sin?" data-chapter="Whether ignorance can be a cause of sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that ignorance cannot be a cause of sin: because a non-being is not
 the cause of anything. Now ignorance is a non-being, since it is a privation of knowledge. Therefore
@@ -2958,7 +2968,7 @@ be known in one respect, and unknown in another, the will can will it. It is thu
 the cause of sin: for instance, when a man knows that what he is killing is a man, but not that it is
 his own father; or when one knows that a certain act is pleasurable, but not that it is a sin.
 
-<span class="atom-split" data-atom="048" data-title="Whether ignorance is a sin?" data-chapter="Whether ignorance is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether ignorance is a sin?" data-chapter="Whether ignorance is a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that ignorance is not a sin. For sin is "a word, deed or desire contrary
 to God's law," as stated above (Q[71], A[5]). Now ignorance does not denote an act, either internal
@@ -3056,7 +3066,7 @@ Risposta all’Obiezione 4: Sebbene la colpevolezza scompaia attraverso il penti
 
 Risposta all’Obiezione 5: Proprio come in altri peccati di omissione, l’uomo pecca effettivamente soltanto nel momento in cui il precetto positivo è vincolante; lo stesso vale per il peccato di ignoranza. Infatti, l’uomo ignorante pecca davvero, ma non continuamente, bensì soltanto nel momento in cui avrebbe dovuto acquisire la conoscenza che gli era necessaria.
 
-<span class="atom-split" data-atom="049" data-title="Whether ignorance excuses from sin altogether?" data-chapter="Whether ignorance excuses from sin altogether?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Whether ignorance excuses from sin altogether?" data-chapter="Whether ignorance excuses from sin altogether?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that ignorance excuses from sin altogether. For as [Augustine](/figures/augustine) says
 (Retract. i, 9), every sin is voluntary. Now ignorance causes involuntariness, as stated above (Q[6],
@@ -3135,7 +3145,7 @@ Risposta all’Obiezione 2: Finché nella persona ignorante persiste la volontà
 
 Risposta all’Obiezione 3: Se l’ignoranza è tale da escludere completamente l’uso della ragione, essa scusa totalmente dall’atto peccaminoso, come nel caso dei pazzi e degli idioti; ma non sempre l’ignoranza che causa il peccato è di questo tipo; pertanto, non scusa sempre totalmente dall’atto peccaminoso.
 
-<span class="atom-split" data-atom="050" data-title="Whether ignorance diminishes a sin?" data-chapter="Whether ignorance diminishes a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Whether ignorance diminishes a sin?" data-chapter="Whether ignorance diminishes a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that ignorance does not diminish a sin. For that which is common
 to all sins does not diminish sin. Now ignorance is common to all sins, for the Philosopher says
@@ -3246,7 +3256,7 @@ Ora dobbiamo esaminare la causa del peccato, nel contesto dell’appetito sensib
 (7) Una passione può scusare completamente il compimento di un peccato?  
 (8) Un peccato commesso per passione può essere considerato mortale?
 
-<span class="atom-split" data-atom="051" data-title="Whether the will is moved by a passion of the senstive appetite?" data-chapter="Whether the will is moved by a passion of the senstive appetite?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="Whether the will is moved by a passion of the senstive appetite?" data-chapter="Whether the will is moved by a passion of the senstive appetite?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the will is not moved by a passion of the sensitive appetite.
 For no passive power is moved except by its object. Now the will is a power both passive and
@@ -3314,7 +3324,7 @@ Risposta all’Obiezione 1: Sebbene la passione dell’appetito sensibile non si
 
 Risposta all’Obiezione 2: Il motore superiore non viene mosso direttamente dal motore inferiore; tuttavia, può essere mosso da esso in modo indiretto, come è stato detto. Anche la Terza Obiezione viene risolta nello stesso modo.
 
-<span class="atom-split" data-atom="052" data-title="Whether the reason can be overcome by a passion, against its knowledge?" data-chapter="Whether the reason can be overcome by a passion, against its knowledge?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="Whether the reason can be overcome by a passion, against its knowledge?" data-chapter="Whether the reason can be overcome by a passion, against its knowledge?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the reason cannot be overcome by a passion, against its
 knowledge. For the stronger is not overcome by the weaker. Now knowledge, on account of its
@@ -3446,7 +3456,7 @@ Risposta all’Obiezione 4: Colui che possiede conoscenza di un concetto univers
 
 Risposta all’Obiezione 5: Proprio come un uomo ubriaco a volte pronuncia parole di profondo significato, delle quali tuttavia è incapace di giudicare correttamente a causa del proprio stato di ebbrezza, allo stesso modo una persona in preda alla passione può dire con le parole che non dovrebbe fare qualcosa, mentre nel suo intimo pensa di doverlo fare, come indicato nell’Etica, VII, 3.
 
-<span class="atom-split" data-atom="053" data-title="Whether a sin committed through passion, should be called a sin of weakness?" data-chapter="Whether a sin committed through passion, should be called a sin of weakness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="Whether a sin committed through passion, should be called a sin of weakness?" data-chapter="Whether a sin committed through passion, should be called a sin of weakness?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a sin committed through passion should not be called a sin of
 weakness. For a passion is a vehement movement of the sensitive appetite, as stated above (A[1]).
@@ -3517,7 +3527,7 @@ Risposta all’Obiezione 2: Il peccato consiste principalmente in un atto della 
 
 Risposta all’Obiezione 3: È nel potere della volontà concedere o rifiutare il proprio consenso a ciò che le passioni ci spingono a fare; ed è in questo senso che si dice che il nostro desiderio sia sotto il controllo della nostra volontà. Tuttavia, questo consenso o dissenso della volontà viene ostacolato nel modo già spiegato (A[1]).
 
-<span class="atom-split" data-atom="054" data-title="Whether self-love is the source of every sin?" data-chapter="Whether self-love is the source of every sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="Whether self-love is the source of every sin?" data-chapter="Whether self-love is the source of every sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that self-love is not the source of every sin. For that which is good
 and right in itself is not the proper cause of sin. Now love of self is a good and right [thing in itself](/concepts/noumenon):
@@ -3586,7 +3596,7 @@ Risposta all’Obiezione 3: Si dice che l’uomo ami sia il bene che desidera pe
 
 Risposta all’Obiezione 4: Un amico è come un altro sé stesso (Etica, IX): perciò il peccato commesso per amore di un amico sembra essere commesso per amore di sé.
 
-<span class="atom-split" data-atom="055" data-title="Whether concupiscence of the flesh, concupiscence of the eyes, and pride of life are fittingly described as causes of sin?" data-chapter="Whether concupiscence of the flesh, concupiscence of the eyes, and pride of life are fittingly described as causes of sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Whether concupiscence of the flesh, concupiscence of the eyes, and pride of life are fittingly described as causes of sin?" data-chapter="Whether concupiscence of the flesh, concupiscence of the eyes, and pride of life are fittingly described as causes of sin?" data-kind="atom" data-srclang="en" data-tags="concepts/concupiscence,concepts/passion,figures/augustine"></span>
 
 Objection 1: It would seem that "concupiscence of the flesh, concupiscence of the eyes, and
 pride of life" are unfittingly described as causes of sin. Because, according to the Apostle (1 Tim.
@@ -3673,7 +3683,7 @@ Risposta all’Obiezione 3: La vista è il senso più eccellente di tutti, e cop
 
 Risposta all’Obiezione 4: L’evitamento del male è determinato dall’appetito per il bene, come già detto sopra (Q[25], A[2]; Q[39], A[2]); pertanto vengono menzionate soltanto quelle passioni che tendono al bene, poiché sono le cause di quelle che inducono in modo eccessivo all’evitamento del male.
 
-<span class="atom-split" data-atom="056" data-title="Whether sin is alleviated on account of a passion?" data-chapter="Whether sin is alleviated on account of a passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="Whether sin is alleviated on account of a passion?" data-chapter="Whether sin is alleviated on account of a passion?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/passion,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sin is not alleviated on account of passion. For increase of
 cause adds to the effect: thus if a hot thing causes something to melt, a hotter will do so yet more.
@@ -3744,7 +3754,7 @@ Risposta all’Obiezione 2: Una buona passione che deriva dalla valutazione dell
 
 Risposta all’Obiezione 3: Sebbene il movimento della volontà suscitato dalle passioni sia più intenso, esso non rappresenta tanto un movimento spontaneo della volontà stessa, come se questa fosse spinta al peccato esclusivamente dalla ragione.
 
-<span class="atom-split" data-atom="057" data-title="Whether passion excuses from sin altogether?" data-chapter="Whether passion excuses from sin altogether?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Whether passion excuses from sin altogether?" data-chapter="Whether passion excuses from sin altogether?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/passion,concepts/concupiscence,concepts/anger,concepts/reason"></span>
 
 Objection 1: It would seem that passion excuses from sin altogether. For whatever causes an
 act to be involuntary, excuses from sin altogether. But concupiscence of the flesh, which is a passion,
@@ -3816,7 +3826,7 @@ Risposta all’Obiezione 2: L’ignoranza particolare che scusa completamente qu
 
 Risposta all’Obiezione 3: La malattia fisica è involontaria; tuttavia, ci sarebbe una qualche analogia se fosse volontaria, come abbiamo già sottolineato per l’ebrezza, che rappresenta un tipo di malattia fisica.
 
-<span class="atom-split" data-atom="058" data-title="Whether a sin committed through passion can be mortal?" data-chapter="Whether a sin committed through passion can be mortal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="Whether a sin committed through passion can be mortal?" data-chapter="Whether a sin committed through passion can be mortal?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sin committed through passion cannot be mortal. Because
 venial sin is condivided with mortal sin. Now sin committed from weakness is venial, since it has
@@ -3857,7 +3867,7 @@ be a mortal sin regards the aversion, which follows accidentally from the adhere
 (A[6], ad 1): hence the argument does not prove.
 
 Reply to Objection 3: Passion does not always hinder the act of reason altogether: consequently
-the reason remains in possession of its free-will, so as to turn away from God, or turn to Him. If,
+the reason remains in [possession](/concepts/property) of its free-will, so as to turn away from God, or turn to Him. If,
 however, the use of reason be taken away altogether, the sin is no longer either mortal or venial.
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3878,7 +3888,7 @@ Risposta all’Obiezione 2: La passione causa il peccato nel momento in cui si m
 
 Risposta all’Obiezione 3: La passione non ostacola sempre completamente l’azione della ragione; pertanto, la ragione mantiene il proprio libero arbitrio, e può quindi allontanarsi da Dio o rivolgersi a Lui. Tuttavia, se l’uso della ragione venisse completamente eliminato, il peccato non sarebbe più né mortale né veniale.
 
-<span class="atom-split" data-atom="059" data-title="OF THAT CAUSE OF SIN WHICH IS MALICE (FOUR ARTICLES)" data-chapter="OF THAT CAUSE OF SIN WHICH IS MALICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="OF THAT CAUSE OF SIN WHICH IS MALICE (FOUR ARTICLES)" data-chapter="OF THAT CAUSE OF SIN WHICH IS MALICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the cause of sin on the part of the will, viz. malice: and under this head
 there are four points of inquiry:
@@ -3895,7 +3905,7 @@ Dobbiamo ora considerare la causa del peccato da parte della volontà, ovvero l�
 (3) Chiunque pecca per una determinata malizia pecca anche a causa di un’abitudine?  
 (4) È più grave peccare per una determinata malizia che per una passione?
 
-<span class="atom-split" data-atom="060" data-title="Whether anyone sins through certain malice?" data-chapter="Whether anyone sins through certain malice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether anyone sins through certain malice?" data-chapter="Whether anyone sins through certain malice?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no one sins purposely, or through certain malice. Because
 ignorance is opposed to purpose or certain malice. Now "every evil man is ignorant," according to
@@ -3975,7 +3985,7 @@ Risposta all’Obiezione 2: Il male non può essere intenzionato da nessuno per 
 
 Risposta all’Obiezione 3: La malvagità attraverso la quale qualcuno pecca può essere intesa come malvagità abituale, nel senso in cui il Filosofo (Etica V, 1) definisce una cattiva abitudine “malvagità”, proprio come una buona abitudine viene chiamata virtù. In questo modo, si dice che qualcuno pecca per malvagità quando compie un atto peccaminoso guidato da un’abitudine negativa. La malvagità può anche indicare una malizia effettiva: sia nel senso che con “malvagità” ci si riferisca alla scelta deliberata del male (e in tal caso si dice che qualcuno pecca per malvagità quando sceglie intenzionalmente il male), sia nel senso che si riferisca a un errore precedente che ne origina uno successivo, come quando qualcuno attacca la grazia del proprio fratello per invidia. Questo però non significa che una cosa sia la propria causa: l’atto interiore è infatti la causa dell’atto esteriore, e un peccato può essere la causa di un altro; tuttavia, questa relazione non è infinita, poiché si può sempre risalire a un peccato precedente che, a sua volta, non è causato da alcun altro peccato, come spiegato in precedenza (Q[75], A[4], ad 3).
 
-<span class="atom-split" data-atom="061" data-title="Whether everyone that sins through habit, sins through certain malice?" data-chapter="Whether everyone that sins through habit, sins through certain malice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Whether everyone that sins through habit, sins through certain malice?" data-chapter="Whether everyone that sins through habit, sins through certain malice?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that not every one who sins through [habit](/concepts/custom), sins through certain
 malice. Because sin committed through certain malice, seems to be most grievous. Now it happens
@@ -4047,7 +4057,7 @@ Risposta all’Obiezione 2: Gli atti che derivano da abitudini appartengono alla
 
 Risposta all’Obiezione 3: Chi pecca per abitudine è sempre felice di ciò che fa per abitudine, finché continua a praticare quell’abitudine. Ma poiché è in grado di smetterla e di pensare ad altro, grazie alla sua ragione che non è del tutto corrotta, può accadere che, smettendo di praticare quell’abitudine, si penta di ciò che ha fatto per essa. Ed è proprio per questo che spesso tale persona si pente del suo peccato non perché il peccato in sé sia spiacevole per lei, ma perché ne subisce delle conseguenze negative.
 
-<span class="atom-split" data-atom="062" data-title="Whether one who sins through certain malice, sins through habit?" data-chapter="Whether one who sins through certain malice, sins through habit?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="Whether one who sins through certain malice, sins through habit?" data-chapter="Whether one who sins through certain malice, sins through habit?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that whoever sins through certain malice, sins through [habit](/concepts/custom). For
 the Philosopher says (Ethic. v, 9) that "an unjust action is not done as an unjust man does it," i.e.
@@ -4124,7 +4134,7 @@ Risposta all’Obiezione 2: È vero che un uomo non cade improvvisamente nel pec
 
 Risposta all’Obiezione 3: Ciò che spinge la volontà verso il male non è sempre un’abitudine o una passione, ma a volte può essere qualcos’altro. Inoltre, non esiste alcuna analogia tra scegliere il bene e scegliere il male: poiché il male contiene sempre in sé qualche aspetto positivo, mentre il bene può essere perfetto senza alcun elemento negativo.
 
-<span class="atom-split" data-atom="063" data-title="Whether it is more grievous to sin through certain malice than through passion?" data-chapter="Whether it is more grievous to sin through certain malice than through passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether it is more grievous to sin through certain malice than through passion?" data-chapter="Whether it is more grievous to sin through certain malice than through passion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not more grievous to sin through certain malice than
 through passion. Because ignorance excuses from sin either altogether or in part. Now ignorance
@@ -4201,7 +4211,7 @@ Risposta all’Obiezione 2: L’impulso derivante dalle passioni è, per così d
 
 Risposta all’Obiezione 3: È una cosa peccare mentre si sceglie, un’altra peccare a causa di una scelta. Chi pecca per passione pecca effettivamente mentre sceglie, ma non perché abbia scelto intenzionalmente; la sua scelta, infatti, non rappresenta il principio fondamentale del suo peccato, poiché viene indotta dalla passione stessa a scegliere ciò che altrimenti non sceglierebbe. D’altra parte, chi pecca per malizia sceglie deliberatamente il male, nel modo già spiegato (AA[2],3); in questo caso, la sua scelta, su cui ha pieno controllo, costituisce effettivamente il principio del suo peccato; ed è proprio per questa ragione che si dice che egli pecca “a causa” di quella scelta.
 
-<span class="atom-split" data-atom="064" data-title="OF THE EXTERNAL CAUSES OF SIN (FOUR ARTICLES)" data-chapter="OF THE EXTERNAL CAUSES OF SIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="OF THE EXTERNAL CAUSES OF SIN (FOUR ARTICLES)" data-chapter="OF THE EXTERNAL CAUSES OF SIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the external causes of sin, and (1) on the part of God; (2) on the part of
 the devil; (3) on the part of man.
@@ -4220,7 +4230,7 @@ All’interno della prima categoria esistono quattro punti da esaminare:
 (3) Se Dio sia la causa dell’oscurità spirituale e della durezza di cuore;  
 (4) Se tali fenomeni abbiano lo scopo di salvare coloro che sono stati resi ciechi o induriti nel loro cuore.
 
-<span class="atom-split" data-atom="065" data-title="Whether God is a cause of sin?" data-chapter="Whether God is a cause of sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Whether God is a cause of sin?" data-chapter="Whether God is a cause of sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that God is a cause of sin. For the Apostle says of certain ones
 (Rom. 1:28): "God delivered them up to a reprobate sense, to do those things which are not right
@@ -4314,7 +4324,7 @@ Risposta all’Obiezione 3: L’effetto che deriva dalla causa intermedia, nella
 
 Risposta all’Obiezione 4: La punizione è contraria al bene della persona punita, la quale ne viene privata di qualche bene; invece, il peccato è contrario al bene legato alla sottomissione a Dio, e quindi è direttamente contrario alla bontà divina. Pertanto, non esiste alcuna analogia tra il peccato e la punizione.
 
-<span class="atom-split" data-atom="066" data-title="Whether the act of sin is from God?" data-chapter="Whether the act of sin is from God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Whether the act of sin is from God?" data-chapter="Whether the act of sin is from God?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/free_will,concepts/cause,concepts/evil_privation,figures/augustine"></span>
 
 Objection 1: It would seem that the act of sin is not from God. For [Augustine](/figures/augustine) says (De Perfect.
 Justit. ii) that "the act of sin is not a thing." Now whatever is from God is a thing. Therefore the
@@ -4378,7 +4388,7 @@ Risposta all’Obiezione 2: Non solo l’atto, ma anche il difetto sono da attri
 
 Risposta all’Obiezione 3: Come già detto sopra (Q[72], A[1]), azioni e abitudini non ricevono la loro specie dalla privazione stessa, che costituisce la natura del male, ma da un oggetto al quale tale privazione è unita; pertanto, questo difetto, che consiste nel non provenire da Dio, appartiene necessariamente alla specie dell’azione in questione, e non come differenza specifica.
 
-<span class="atom-split" data-atom="067" data-title="Whether God is the cause of spiritual blindness and hardness of heart?" data-chapter="Whether God is the cause of spiritual blindness and hardness of heart?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="Whether God is the cause of spiritual blindness and hardness of heart?" data-chapter="Whether God is the cause of spiritual blindness and hardness of heart?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that God is not the cause of spiritual blindness and hardness of
 heart. For [Augustine](/figures/augustine) says (Qq. lxxxiii, qu. 3) that God is not the cause of that which makes man
@@ -4452,7 +4462,7 @@ Risposta all’Obiezione 2: Questo argomento considera la durezza di cuore nel s
 
 Risposta all’Obiezione 3: La malvagità è la causa deleteria che porta alla cecità, proprio come il peccato è la causa della punizione; e anche in questo senso si dice che il diavolo “acceca” l’uomo, nel momento in cui lo induce a peccare.
 
-<span class="atom-split" data-atom="068" data-title="Whether blindness and hardness of heart are directed to the salvation of those who are blinded and hardened?" data-chapter="Whether blindness and hardness of heart are directed to the salvation of those who are blinded and hardened?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="Whether blindness and hardness of heart are directed to the salvation of those who are blinded and hardened?" data-chapter="Whether blindness and hardness of heart are directed to the salvation of those who are blinded and hardened?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that blindness and hardness of heart are always directed to the
 salvation of those who are blinded and hardened. For [Augustine](/figures/augustine) says (Enchiridion xi) that "as God
@@ -4505,7 +4515,7 @@ explained in the FP, Q[23], A[5], ad 3.
 Reply to Objection 4: Evil of fault must not be done, that good may ensue; but evil of
 punishment must be inflicted for the sake of good.
 
-<span class="atom-split" data-atom="069" data-title="OF THE CAUSE OF SIN, AS REGARDS THE DEVIL (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF SIN, AS REGARDS THE DEVIL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="OF THE CAUSE OF SIN, AS REGARDS THE DEVIL (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF SIN, AS REGARDS THE DEVIL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the cause of sin, as regards the devil; and under this head there are four
 points of inquiry:
@@ -4522,7 +4532,7 @@ Dobbiamo ora considerare la causa del peccato, in relazione al diavolo; e in que
 (3) Se possa costringerci ad agire in modo da commettere peccati;  
 (4) Se tutti i peccati siano dovuti alle sue insinuazioni.
 
-<span class="atom-split" data-atom="070" data-title="Whether the devil is directly the cause of man's sinning?" data-chapter="Whether the devil is directly the cause of man's sinning?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="Whether the devil is directly the cause of man's sinning?" data-chapter="Whether the devil is directly the cause of man's sinning?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/cause,concepts/will,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It would seem that the devil is directly the cause of man's sinning. For sin consists
 directly in an act of the appetite. Now [Augustine](/figures/augustine) says (De Trin. iv, 12) that "the devil inspires his
@@ -4597,7 +4607,7 @@ Risposta all’Obiezione 2: Questo confronto è vero nella misura in cui il diav
 
 Risposta all’Obiezione 3: Dio è il principio universale di tutti i movimenti interiori dell’uomo; tuttavia il fatto che la volontà umana venga indotta a seguire un consiglio malvagio dipende direttamente dalla volontà stessa umana, nonché dal diavolo che persuade o offre l’oggetto del desiderio.
 
-<span class="atom-split" data-atom="071" data-title="Whether the devil can induce man to sin, by internal instigations?" data-chapter="Whether the devil can induce man to sin, by internal instigations?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Whether the devil can induce man to sin, by internal instigations?" data-chapter="Whether the devil can induce man to sin, by internal instigations?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the devil cannot induce man to sin, by internal instigations.
 Because the internal movements of the soul are vital functions. Now no vital functions can be
@@ -4675,7 +4685,7 @@ Risposta all’Obiezione 1: Sebbene le funzioni vitali derivino sempre da un pri
 
 Risposta all’Obiezione 2: Questa apparizione di forme immaginarie non è del tutto al di fuori dell’ordine della natura, né deriva esclusivamente da un comando, ma si verifica in base ai movimenti locali, come spiegato in precedenza. Pertanto, la risposta alla Terza Obiezione è chiara: queste forme vengono infatti ricevute originariamente dai sensi.
 
-<span class="atom-split" data-atom="072" data-title="Whether the devil can induce man to sin of necessity?" data-chapter="Whether the devil can induce man to sin of necessity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="Whether the devil can induce man to sin of necessity?" data-chapter="Whether the devil can induce man to sin of necessity?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/reason,concepts/concupiscence,figures/augustine"></span>
 
 Objection 1: It would seem that the devil can induce man to sin of necessity. Because the
 greater can compel the lesser. Now it is said of the devil (Job 41:24) that "there is no power on
@@ -4741,7 +4751,7 @@ Risposta all’Obiezione 2: Ciò che viene percepito dai sensi o dall’immagina
 
 Risposta all’Obiezione 3: Il desiderio carnale che si oppone allo spirito, quando la ragione lo resiste effettivamente, non è un peccato, ma costituisce invece l’occasione per esercitare la virtù. Se la ragione resiste a tale desiderio, allora non è sotto il potere del diavolo; pertanto, questo non può costringere alcuno ad commettere peccato.
 
-<span class="atom-split" data-atom="073" data-title="Whether all the sins of men are due to the devil's suggestion?" data-chapter="Whether all the sins of men are due to the devil's suggestion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Whether all the sins of men are due to the devil's suggestion?" data-chapter="Whether all the sins of men are due to the devil's suggestion?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,positions/free_will"></span>
 
 Objection 1: It would seem that all the sins of men are due to the devil's suggestion. For
 Dionysius says (Div. Nom. iv) that the "crowd of demons are the cause of all evils, both to themselves
@@ -4798,7 +4808,7 @@ Risposta all’Obiezione 2: Un uomo diventa schiavo di un altro non solo quando 
 
 Risposta all’Obiezione 3: Il peccato del diavolo era irreparabile, non solo perché lo commise senza l’influenza altrui, ma anche perché non era già predisposto al peccato a causa di alcun peccato precedente; il che non si può dire per nessun peccato umano.
 
-<span class="atom-split" data-atom="074" data-title="OF THE CAUSE OF SIN, ON THE PART OF MAN (FIVE ARTICLES)" data-chapter="OF THE CAUSE OF SIN, ON THE PART OF MAN (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="OF THE CAUSE OF SIN, ON THE PART OF MAN (FIVE ARTICLES)" data-chapter="OF THE CAUSE OF SIN, ON THE PART OF MAN (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/original_sin"></span>
 
 We must now consider the cause of sin, on the part of man. Now, while man, like the devil, is
 the cause of another's sin, by outward suggestion, he has a certain special manner of causing sin,
@@ -4823,7 +4833,7 @@ Dobbiamo ora considerare la causa del peccato, da parte dell’uomo. Sebbene l�
 (4) Potrebbe essere contratto anche da qualcuno creato miracolosamente a partire da una parte del corpo umano?  
 (5) Il peccato originale sarebbe stato contratto se fosse stata la donna, e non l’uomo, ad aver peccato?
 
-<span class="atom-split" data-atom="075" data-title="Whether the first sin of our first parent is contracted by his descendants, by way of origin?" data-chapter="Whether the first sin of our first parent is contracted by his descendants, by way of origin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Whether the first sin of our first parent is contracted by his descendants, by way of origin?" data-chapter="Whether the first sin of our first parent is contracted by his descendants, by way of origin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the first sin of our first parent is not contracted by others, by
 way of origin. For it is written (Ezech. 18:20): "The son shall not bear the iniquity of the father."
@@ -4948,7 +4958,7 @@ Risposta all’Obiezione 4: Il seme è il principio della generazione, un atto p
 
 Risposta all’Obiezione 5: Un uomo non viene biasimato per ciò che possiede fin dalla nascita, se lo consideriamo nel suo stato originario. Ma se lo consideriamo in relazione a un determinato principio o contesto, allora può essere rimproverato per tale cosa; ad esempio, un uomo può essere colpito da una disonore familiare fin dalla nascita, a causa di un crimine commesso da uno dei suoi antenati.
 
-<span class="atom-split" data-atom="076" data-title="Whether also other sins of the first parent or of nearer ancestors are transmitted to their descendants?" data-chapter="Whether also other sins of the first parent or of nearer ancestors are transmitted to their descendants?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Whether also other sins of the first parent or of nearer ancestors are transmitted to their descendants?" data-chapter="Whether also other sins of the first parent or of nearer ancestors are transmitted to their descendants?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,concepts/human_law,figures/augustine"></span>
 
 Objection 1: It would seem that also other sins, whether of the first parent or of nearer ancestors,
 are transmitted to their descendants. For punishment is never due unless for fault. Now some are
@@ -5008,7 +5018,7 @@ are purely personal, as stated above.
 Reply to Objection 3: The first sin infects nature with a human corruption pertaining to nature;
 whereas other sins infect it with a corruption pertaining only to the person.
 
-<span class="atom-split" data-atom="077" data-title="Whether the sin of the first parent is transmitted, by the way of origin, to all men?" data-chapter="Whether the sin of the first parent is transmitted, by the way of origin, to all men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="Whether the sin of the first parent is transmitted, by the way of origin, to all men?" data-chapter="Whether the sin of the first parent is transmitted, by the way of origin, to all men?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/grace,concepts/death"></span>
 
 Objection 1: It would seem that the sin of the first parent is not transmitted, by the way of
 origin, to all men. Because death is a punishment consequent upon [original sin](/positions/original_sin). But not all those,
@@ -5075,7 +5085,7 @@ Risposta all’Obiezione 1: Il peccato originale viene eliminato dal Battesimo r
 
 Risposta all’Obiezione 3: Proprio come il peccato di Adamo viene trasmesso a tutti coloro che nascono da lui in modo corporeo, così anche la grazia di Cristo viene trasmessa a tutti coloro che sono generati da Lui in modo spirituale, attraverso la fede e il Battesimo: e ciò non solo per eliminare il peccato del loro primo genitore, ma anche per eliminare i peccati effettivi e per ottenere la gloria.
 
-<span class="atom-split" data-atom="078" data-title="Whether original sin would be contracted by a person formed miraculously from human flesh?" data-chapter="Whether original sin would be contracted by a person formed miraculously from human flesh?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="Whether original sin would be contracted by a person formed miraculously from human flesh?" data-chapter="Whether original sin would be contracted by a person formed miraculously from human flesh?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [original sin](/positions/original_sin) would be contracted by a person formed
 miraculously from human flesh. For a gloss on Gn. 4:1 says that "Adam's entire posterity was
@@ -5116,7 +5126,7 @@ Adam, "by way of bodily substance" [*The expression is St. Augustine's (Gen. ad 
 Theologica TP, Q[31], A[6], Reply to OBJ[1]], but not according to seminal virtue, as stated above.
 Therefore he would not contract original sin.
 
-<span class="atom-split" data-atom="079" data-title="Whether if Eve, and not Adam, had sinned, their children would have contracted original sin?" data-chapter="Whether if Eve, and not Adam, had sinned, their children would have contracted original sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="Whether if Eve, and not Adam, had sinned, their children would have contracted original sin?" data-chapter="Whether if Eve, and not Adam, had sinned, their children would have contracted original sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that if Eve, and not Adam, had sinned, their children would have
 contracted [original sin](/positions/original_sin). Because we contract original sin from our parents, in so far as we were
@@ -5187,7 +5197,7 @@ Risposta all’Obiezione 2: Alcuni sostengono che, se fosse stata Eva e non Adam
 
 Risposta all’Obiezione 3: Questa purificazione preventiva della Beata Vergine non era necessaria per impedire la trasmissione del peccato originale, ma perché era dovere della Madre di Dio “risplendere con la massima purezza” [*Cfr. Anselmo, De Concep. Virg. XVIII.*]. Infatti, nulla è degno di ricevere Dio se non è puro, secondo il Salmo 92:5: “Santità sia nella tua casa, o Signore”.
 
-<span class="atom-split" data-atom="080" data-title="OF ORIGINAL SIN, AS TO ITS ESSENCE (FOUR ARTICLES)" data-chapter="OF ORIGINAL SIN, AS TO ITS ESSENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="OF ORIGINAL SIN, AS TO ITS ESSENCE (FOUR ARTICLES)" data-chapter="OF ORIGINAL SIN, AS TO ITS ESSENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/concupiscence"></span>
 
 We must now consider [original sin](/positions/original_sin) as to its essence, and under this head there are four points
 of inquiry:
@@ -5204,7 +5214,7 @@ Dobbiamo ora considerare la [peccato originale](/positions/original_sin) in term
 (3) Se il peccato originale sia la concupiscenza;  
 (4) Se il peccato originale sia uguale per tutti.
 
-<span class="atom-split" data-atom="081" data-title="Whether original sin is a habit?" data-chapter="Whether original sin is a habit?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether original sin is a habit?" data-chapter="Whether original sin is a habit?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [original sin](/positions/original_sin) is not a [habit](/concepts/custom). For original sin is the absence of
 original justice, as Anselm states (De Concep. Virg. ii, iii, xxvi), so that original sin is a privation.
@@ -5253,7 +5263,7 @@ results indirectly from bodily sickness. Nor is it necessary to says that origin
 or a habit "acquired" (except by the act of our first parent, but not by our own act): but it is a habit
 "inborn" due to our corrupt origin.
 
-<span class="atom-split" data-atom="082" data-title="Whether there are several original sins in one man?" data-chapter="Whether there are several original sins in one man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Whether there are several original sins in one man?" data-chapter="Whether there are several original sins in one man?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there are many original sins in one man. For it is written (Ps.
 1:7): "Behold I was conceived in iniquities, and in sins did my mother conceive me." But the sin
@@ -5320,7 +5330,7 @@ Risposta all’Obiezione 2: Di per sé e direttamente, cioè attraverso la propr
 
 Risposta all’Obiezione 3: Il peccato originale contamina le diverse parti dell’anima, nella misura in cui queste fanno parte di un tutto; proprio come la giustizia originale teneva unite tutte le parti dell’anima in un unico insieme. Di conseguenza, esiste soltanto un peccato originale: così come in un uomo esiste una sola febbre, anche se diverse parti del corpo ne sono colpite.
 
-<span class="atom-split" data-atom="083" data-title="Whether original sin is concupiscence?" data-chapter="Whether original sin is concupiscence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Whether original sin is concupiscence?" data-chapter="Whether original sin is concupiscence?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/concupiscence,figures/augustine"></span>
 
 Objection 1: It would seem that [original sin](/positions/original_sin) is not concupiscence. For every sin is contrary to
 nature, according to Damascene (De Fide Orth. ii, 4,30). But concupiscence is in accordance with
@@ -5366,7 +5376,7 @@ evil things, the lower part of the soul is found to take precedence, for it clou
 as stated above (Q[77], AA[1],2; Q[80], A[2]). Hence original sin is called concupiscence rather
 than ignorance, although ignorance is comprised among the material defects of original sin.
 
-<span class="atom-split" data-atom="084" data-title="Whether original sin is equally in all?" data-chapter="Whether original sin is equally in all?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Whether original sin is equally in all?" data-chapter="Whether original sin is equally in all?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/concupiscence,concepts/nature,concepts/justice,figures/augustine"></span>
 
 Objection 1: It would seem that [original sin](/positions/original_sin) is not equally in all. Because original sin is
 inordinate concupiscence, as stated above (A[3]). Now all are not equally prone to acts of
@@ -5428,7 +5438,7 @@ Risposta all’Obiezione 2: La malattia del corpo, anche se dello stesso tipo, n
 
 Risposta all’Obiezione 3: Non è la lussuria effettiva a trasmettere il peccato originale; infatti, anche se Dio permettesse a un uomo di non provare alcuna lussuria eccessiva nell’atto della generazione, egli comunque trasmetterebbe il peccato originale. Bisogna intendere con questo termine una lussuria abituale, quella cioè che impedisce all’appetito sensibile di rimanere soggetto alla ragione a causa dei vincoli della giustizia originale. Questa lussuria è presente in tutti gli esseri umani.
 
-<span class="atom-split" data-atom="085" data-title="OF THE SUBJECT OF ORIGINAL SIN (FOUR ARTICLES)" data-chapter="OF THE SUBJECT OF ORIGINAL SIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="OF THE SUBJECT OF ORIGINAL SIN (FOUR ARTICLES)" data-chapter="OF THE SUBJECT OF ORIGINAL SIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/original_sin,concepts/soul,concepts/will,concepts/concupiscence"></span>
 
 We must now consider the subject of [original sin](/positions/original_sin), under which head there are four points of
 inquiry:
@@ -5446,7 +5456,7 @@ Dobbiamo ora considerare il tema del [peccato originale](/positions/original_sin
 (3) Se la volontà, precedente alle altre facoltà dell’anima, sia l’oggetto del peccato originale;  
 (4) Se alcune particolari facoltà dell’anima siano particolarmente colpite dal peccato originale, vale a dire la facoltà procreativa, la parte concupiscente e il senso del tatto.
 
-<span class="atom-split" data-atom="086" data-title="Whether original sin is more in the flesh than in the soul?" data-chapter="Whether original sin is more in the flesh than in the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="Whether original sin is more in the flesh than in the soul?" data-chapter="Whether original sin is more in the flesh than in the soul?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [original sin](/positions/original_sin) is more in the flesh than in the soul. Because the
 rebellion of the flesh against the mind arises from the corruption of original sin. Now the root of
@@ -5552,7 +5562,7 @@ Risposta all’Obiezione 4: La corruzione del peccato originale non è affatto c
 
 Risposta all’Obiezione 5: Il bene comune ha la precedenza sul bene privato. Pertanto, Dio, secondo la Sua saggezza, non trascura l’ordine generale delle cose (ovvero che una determinata anima venga infusa in un determinato corpo), affinché tale anima non subisca corruzioni gravi; tanto più che la natura stessa dell’anima richiede che essa esista soltanto dopo essere stata infusa nel corpo, come affermato nei testi della Fede Perseguitata, Q[90], A[4] e Q[118], A[3]. Inoltre, per la natura stessa dell’anima, è preferibile che esista in questo modo piuttosto che non esistesse affatto; soprattutto perché, grazie alla grazia divina, l’anima può evitare la dannazione eterna.
 
-<span class="atom-split" data-atom="087" data-title="Whether original sin is in the essence of the soul rather than in the powers?" data-chapter="Whether original sin is in the essence of the soul rather than in the powers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="Whether original sin is in the essence of the soul rather than in the powers?" data-chapter="Whether original sin is in the essence of the soul rather than in the powers?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [original sin](/positions/original_sin) is not in the essence of the soul rather than in the
 powers. For the soul is naturally apt to be the subject of sin, in respect of those parts which can be
@@ -5624,7 +5634,7 @@ Risposta all’Obiezione 3: Il corpo è correlato all’anima come la materia al
 
 Risposta all’Obiezione 4: La concupiscenza, in relazione al peccato originale, occupa la posizione di “materia” ed “effetto”, come già affermato sopra (Q[82], A[3]).
 
-<span class="atom-split" data-atom="088" data-title="Whether original sin infects the will before the other powers?" data-chapter="Whether original sin infects the will before the other powers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="088" data-title="Whether original sin infects the will before the other powers?" data-chapter="Whether original sin infects the will before the other powers?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/will,concepts/soul"></span>
 
 Objection 1: It would seem that [original sin](/positions/original_sin) does not infect the will before the other powers.
 For every sin belongs chiefly to that power by whose act it was caused. Now original sin is caused
@@ -5682,7 +5692,7 @@ Risposta all’Obiezione 2: Il peccato originale si diffonde in due modi: dal co
 
 Risposta all’Obiezione 3: L’intelletto precede la volontà, in un certo senso, poiché le propone l’oggetto su cui agire. In un altro senso, è la volontà a precedere l’intelletto, nell’ordine del movimento verso l’azione, e tale movimento riguarda il peccato.
 
-<span class="atom-split" data-atom="089" data-title="Whether the aforesaid powers are more infected than the others?" data-chapter="Whether the aforesaid powers are more infected than the others?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="089" data-title="Whether the aforesaid powers are more infected than the others?" data-chapter="Whether the aforesaid powers are more infected than the others?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/concupiscence,figures/augustine"></span>
 
 Objection 1: It would seem that the aforesaid powers are not more infected than the others.
 For the infection of [original sin](/positions/original_sin) seems to pertain more to that part of the soul which can be first the
@@ -5727,7 +5737,7 @@ disposition, in so far as the concupiscible species is seen through the sight. B
 completed in the touch. Wherefore the aforesaid infection is ascribed to the touch rather than to
 the sight.
 
-<span class="atom-split" data-atom="090" data-title="OF THE CAUSE OF SIN, IN RESPECT OF ONE SIN BEING THE CAUSE OF ANOTHER (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF SIN, IN RESPECT OF ONE SIN BEING THE CAUSE OF ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="090" data-title="OF THE CAUSE OF SIN, IN RESPECT OF ONE SIN BEING THE CAUSE OF ANOTHER (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF SIN, IN RESPECT OF ONE SIN BEING THE CAUSE OF ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the cause of sin, in so far as one sin can be the cause of another. Under
 this head there are four points of inquiry:
@@ -5744,7 +5754,7 @@ Dobbiamo ora considerare la causa del peccato, nel senso in cui un peccato possa
 (3) Se altri peccati specifici debbano essere considerati vizi capitali, oltre all’orgoglio e all’avidità;  
 (4) Quanti siano i vizi capitali e quali essi siano.
 
-<span class="atom-split" data-atom="091" data-title="Whether covetousness is the root of all sins?" data-chapter="Whether covetousness is the root of all sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="091" data-title="Whether covetousness is the root of all sins?" data-chapter="Whether covetousness is the root of all sins?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that covetousness is not the root of all sins. For covetousness,
 which is immoderate desire for riches, is opposed to the virtue of liberality. But liberality is not the
@@ -5756,7 +5766,7 @@ stated in Ethic. i, 5. Therefore covetousness is not the root of all sins, but p
 deeper root.
 
 Objection 3: Further, it often happens that avarice, which is another name for covetousness,
-arises from other sins; as when a man desires money through ambition, or in order to sate his
+arises from other sins; as when a man desires [money](/concepts/money) through ambition, or in order to sate his
 gluttony. Therefore it is not the root of all sins.
 
 On the contrary, The Apostle says (1 Tim. 6:10): "The desire of money is the root of all evil."
@@ -5817,7 +5827,7 @@ Risposta all’Obiezione 2: Si dice che il desiderio di denaro sia alla radice d
 
 Risposta all’Obiezione 3: Proprio come nelle cose naturali non ci chiediamo cosa accade sempre, ma cosa accade più frequentemente, poiché la natura delle cose corruttibili può essere ostacolata e quindi non agisce sempre nello stesso modo; allo stesso modo, in materia morale, consideriamo ciò che accade nella maggior parte dei casi, non ciò che accade inevitabilmente, poiché la volontà non agisce per necessità. Quindi, quando affermiamo che l’avidità è la radice di tutti i mali, non intendiamo dire che nessun altro male possa esserne la radice, ma che altri mali ne derivino più frequentemente, per le ragioni sopra indicate.
 
-<span class="atom-split" data-atom="092" data-title="Whether pride is the beginning of every sin?" data-chapter="Whether pride is the beginning of every sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="092" data-title="Whether pride is the beginning of every sin?" data-chapter="Whether pride is the beginning of every sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that pride is not the beginning of every sin. For the root is a
 beginning of a tree, so that the beginning of a sin seems to be the same as the root of sin. Now
@@ -5887,7 +5897,7 @@ Risposta all’Obiezione 2: Si afferma che l’apostasia da Dio sia l’inizio d
 
 Risposta all’Obiezione 3: Nel desiderare di eccellere, l’uomo ama se stesso, poiché amarsi significa desiderare il bene per sé stesso. Pertanto, è lo stesso considerare l’orgoglio o l’amor proprio come l’inizio di ogni male.
 
-<span class="atom-split" data-atom="093" data-title="Whether any other special sins, besides pride and avarice, should be called capital?" data-chapter="Whether any other special sins, besides pride and avarice, should be called capital?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether any other special sins, besides pride and avarice, should be called capital?" data-chapter="Whether any other special sins, besides pride and avarice, should be called capital?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no other special sins, besides pride and avarice, should be
 called capital. Because "the head seems to be to an animal, what the root is to a plant," as stated in
@@ -5950,7 +5960,7 @@ Risposta all’Obiezione 2: Il peccato manca di ordine nella misura in cui si al
 
 Risposta all’Obiezione 3: Questa obiezione considera il peccato capitale tale per la punizione che merita; in questo senso, noi non lo intendiamo affatto così.
 
-<span class="atom-split" data-atom="094" data-title="Whether the seven capital vices are suitably reckoned?" data-chapter="Whether the seven capital vices are suitably reckoned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="Whether the seven capital vices are suitably reckoned?" data-chapter="Whether the seven capital vices are suitably reckoned?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought not to reckon seven capital vices, viz. vainglory,
 envy, [anger](/concepts/anger), sloth, covetousness, gluttony, lust. For sins are opposed to virtues. But there are four
@@ -6070,7 +6080,7 @@ Risposta all’Obiezione 4: Si dice che l’orgoglio sia l’inizio di ogni pecc
 
 Risposta all’Obiezione 5: Questi vizi sono chiamati “capitali” perché altri vizi, molto spesso, ne derivano; quindi nulla impedisce che alcuni peccati sorgano da cause diverse. Tuttavia si potrebbe affermare che tutti i peccati dovuti all’ignoranza possono essere ricondotti alla pigrizia, ovvero alla negligenza di colui che rifiuta di acquisire beni spirituali a causa del lavoro necessario per farlo; infatti l’ignoranza che può portare al peccato deriva proprio dalla pigrizia, come già detto sopra (Q[76], A[2]). Il fatto che una persona commetta un peccato con buone intenzioni sembra indicare l’esistenza di ignoranza, poiché non sa che non si dovrebbe compiere il male al fine di ottenere il bene.
 
-<span class="atom-split" data-atom="095" data-title="OF THE EFFECTS OF SIN, AND, FIRST, OF THE CORRUPTION OF THE GOOD OF NATURE (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF SIN, AND, FIRST, OF THE CORRUPTION OF THE GOOD OF NATURE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="095" data-title="OF THE EFFECTS OF SIN, AND, FIRST, OF THE CORRUPTION OF THE GOOD OF NATURE (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF SIN, AND, FIRST, OF THE CORRUPTION OF THE GOOD OF NATURE (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,concepts/evil_privation,concepts/death"></span>
 
 We must now consider the effects of sin; and (1) the corruption of the good of nature; (2) the
 stain on the soul; (3) the debt of punishment.
@@ -6094,7 +6104,7 @@ All’interno di questa prima categoria di riflessioni, vi sono sei punti princi
 (5) Se morte e altri difetti fisici siano il risultato del peccato;  
 (6) Se tali fenomeni siano in qualche modo naturali per l’uomo.
 
-<span class="atom-split" data-atom="096" data-title="Whether sin diminishes the good of nature?" data-chapter="Whether sin diminishes the good of nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="Whether sin diminishes the good of nature?" data-chapter="Whether sin diminishes the good of nature?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sin does not diminish the good of nature. For man's sin is no
 worse than the devil's. But natural good remains unimpaired in devils after sin, as Dionysius states
@@ -6177,7 +6187,7 @@ Risposta all’Obiezione 3: Un atto volontario deriva da diverse forze, sia atti
 
 Risposta all’Obiezione 4: Un accidente non agisce efficacemente sul proprio soggetto, ma agisce su di esso in modo formale, nello stesso senso in cui si dice che la bianchezza rende qualcosa bianco. In questo modo, nulla impedisce al peccato di diminuire il bene naturale; tuttavia, ciò avviene soltanto nella misura in cui il peccato stesso rappresenta una riduzione del bene naturale, essendo un’azione disordinata. Per quanto riguarda la disordinatezza dell’agente, bisogna riconoscere che tale disordine deriva dal fatto che negli atti dell’anima esistono un elemento attivo e uno passivo: l’oggetto sensibile infatti muove il desiderio sensibile, e questo a sua volta influisce sulla ragione e sulla volontà, come già detto in precedenza (Q[77], AA[1], 2). Il risultato di tutto ciò è proprio tale disordine, ma non perché un accidente agisca direttamente sul proprio soggetto, bensì perché l’oggetto esterno influisce su una capacità interna, facendola funzionare in modo errato.
 
-<span class="atom-split" data-atom="097" data-title="Whether the entire good of human nature can be destroyed by sin?" data-chapter="Whether the entire good of human nature can be destroyed by sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="Whether the entire good of human nature can be destroyed by sin?" data-chapter="Whether the entire good of human nature can be destroyed by sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the entire good of [human nature](/axes/human_nature) can be destroyed by sin. For
 the good of human nature is finite, since human nature itself is finite. Now any finite thing is entirely
@@ -6242,7 +6252,7 @@ grace by Divine justice. Thus even in a blind man the aptitude to see remains in
 his nature, inasmuch as he is an animal naturally endowed with sight: yet this aptitude is not reduced
 to act, for the lack of a cause capable of reducing it, by forming the organ requisite for sight.
 
-<span class="atom-split" data-atom="098" data-title="Whether weakness, ignorance, malice and concupiscence are suitably reckoned as the wounds of nature consequent upon sin?" data-chapter="Whether weakness, ignorance, malice and concupiscence are suitably reckoned as the wounds of nature consequent upon sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="098" data-title="Whether weakness, ignorance, malice and concupiscence are suitably reckoned as the wounds of nature consequent upon sin?" data-chapter="Whether weakness, ignorance, malice and concupiscence are suitably reckoned as the wounds of nature consequent upon sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that weakness, ignorance, malice and concupiscence are not suitably
 reckoned as the wounds of nature consequent upon sin. For one same thing is not both effect and
@@ -6333,7 +6343,7 @@ Risposta all’Obiezione 4: In termini generali, ogni passione può essere consi
 
 Risposta all’Obiezione 5: La “difficoltà” menzionata in questo libro di Agostino include le tre ferite che colpiscono le facoltà desiderose, ovvero “malizia”, “debolezza” e “concupiscenza”; è proprio a causa di queste tre che un uomo trova difficile tendere verso il bene. “Errore” e “angoscia” sono conseguenze di tali ferite, poiché l’uomo soffre a causa della propria debolezza riguardo agli oggetti della sua concupiscenza.
 
-<span class="atom-split" data-atom="099" data-title="Whether privation of mode, species and order is the effect of sin?" data-chapter="Whether privation of mode, species and order is the effect of sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="099" data-title="Whether privation of mode, species and order is the effect of sin?" data-chapter="Whether privation of mode, species and order is the effect of sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that privation of mode, species and order is not the effect of sin.
 For [Augustine](/figures/augustine) says (De [Natura](/concepts/nature) Boni iii) that "where these three abound, the good is great; where
@@ -6390,7 +6400,7 @@ Questo basta per rispondere alle prime due Obiezioni.
 
 Risposta all’Obiezione 3: Modo, specie e ordine seguono necessariamente l’uno dopo l’altro, come spiegato sopra; pertanto, vengono distrutti o ridotti insieme.
 
-<span class="atom-split" data-atom="100" data-title="Whether death and other bodily defects are the result of sin?" data-chapter="Whether death and other bodily defects are the result of sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="100" data-title="Whether death and other bodily defects are the result of sin?" data-chapter="Whether death and other bodily defects are the result of sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that death and other bodily defects are not the result of sin. Because
 equal causes have equal effects. Now these defects are not equal in all, but abound in some more
@@ -6469,7 +6479,7 @@ Risposta all’Obiezione 2: Sia il peccato originale che quello effettivo vengon
 
 Risposta all’Obiezione 3: Nel peccato effettivo si possono considerare due aspetti: la sostanza dell’atto stesso e l’aspetto del difetto commesso. Per quanto riguarda la sostanza dell’atto, il peccato effettivo può causare dei danni fisici; ad esempio, alcune persone ammalano e muoiono a causa di un consumo eccessivo di cibo. Tuttavia, in termini di difetto commesso, il peccato effettivo ci priva della grazia che ci viene data per regolare i nostri atti spirituali, ma non per prevenire i danni fisici, come avveniva con la giustizia originale. Pertanto, il peccato effettivo non causa quei danni fisici in modo diretto, a differenza del peccato originale.
 
-<span class="atom-split" data-atom="101" data-title="Whether death and other defects are natural to man?" data-chapter="Whether death and other defects are natural to man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Whether death and other defects are natural to man?" data-chapter="Whether death and other defects are natural to man?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that death and such like defects are natural to man. For "the
 corruptible and the incorruptible differ generically" (Metaph. x, text. 26). But man is of the same
@@ -6549,7 +6559,7 @@ Rispondo che qualsiasi cosa corruttibile può essere considerata in due modi: in
 Lo scopo dell’arte di un artista è proprio quello di esprimere tali intenzioni. Allo stesso modo, il corpo umano rappresenta la materia scelta dalla natura, in virtù della sua natura mista, affinché possa essere il mezzo più adatto per fungere da organo del tatto e delle altre facoltà sensitive e motorie. Il fatto che il corpo umano sia corruttibile deriva invece da caratteristiche intrinseche alla materia stessa, e non è certo una scelta deliberata della natura: anzi, se fosse possibile, la natura avrebbe preferito utilizzare una materia incorruttibile. Tuttavia, Dio, a cui tutte le cose sono soggette, ha compensato questa debolezza naturale, donando al corpo umano un certo grado di incorruttibilità attraverso il dono della giustizia originale, come si afferma nel FP, Q[97], A[1]. È in questo senso che si dice che “Dio non ha creato la morte”, poiché la morte rappresenta piuttosto una punizione per il peccato.  
 Questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="102" data-title="OF THE STAIN OF SIN (TWO ARTICLES)" data-chapter="OF THE STAIN OF SIN (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="OF THE STAIN OF SIN (TWO ARTICLES)" data-chapter="OF THE STAIN OF SIN (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/evil_privation,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the stain of sin; under which head there are two points of inquiry:
 (1) Whether an effect of sin is a stain on the soul?
@@ -6561,7 +6571,7 @@ Dobbiamo ora considerare la “macchia” del peccato; sotto questo aspetto ci s
 (1) Se l’effetto del peccato costituisca davvero una macchia sull’anima;  
 (2) Se tale “macchia” rimanga nell’anima dopo l’atto peccaminoso.
 
-<span class="atom-split" data-atom="103" data-title="Whether sin causes a stain on the soul?" data-chapter="Whether sin causes a stain on the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="Whether sin causes a stain on the soul?" data-chapter="Whether sin causes a stain on the soul?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sin causes no stain on the soul. For a higher nature cannot be
 defiled by contact with a lower nature: hence the sun's ray is not defiled by contact with tainted
@@ -6632,7 +6642,7 @@ Risposta all’Obiezione 2: L’azione dell’intelletto si compie quando la cos
 
 Risposta all’Obiezione 3: La “macchia” non è né qualcosa di positivo nell’anima, né indica una pura privazione; indica piuttosto la privazione della luminosità dell’anima rispetto alla sua causa, che è il peccato; pertanto, diversi peccati causano diverse “macchie”. È come un’ombra, che rappresenta la privazione di luce dovuta all’intervento di un corpo e che varia a seconda della natura di tale corpo.
 
-<span class="atom-split" data-atom="104" data-title="Whether the stain remains in the soul after the act of sin?" data-chapter="Whether the stain remains in the soul after the act of sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="104" data-title="Whether the stain remains in the soul after the act of sin?" data-chapter="Whether the stain remains in the soul after the act of sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the stain does not remain in the soul after the act of sin. For
 after an action, nothing remains in the soul except [habit](/concepts/custom) or disposition. But the stain is not a habit
@@ -6691,7 +6701,7 @@ Risposta all’Obiezione 2: Dopo che il corpo interposto è passato, il corpo tr
 
 Risposta all’Obiezione 3: L’atto del peccato separa l’uomo da Dio, e questa separazione provoca la mancanza di “luminosità”, proprio come il movimento locale causa una separazione spaziale. Pertanto, così come quando il movimento cessa la distanza spaziale non scompare, allo stesso modo, quando l’atto del peccato cessa, la macchia lasciata dal peccato non viene eliminata.
 
-<span class="atom-split" data-atom="105" data-title="OF THE DEBT OF PUNISHMENT (EIGHT ARTICLES)" data-chapter="OF THE DEBT OF PUNISHMENT (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="105" data-title="OF THE DEBT OF PUNISHMENT (EIGHT ARTICLES)" data-chapter="OF THE DEBT OF PUNISHMENT (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the debt of punishment. We shall consider (1) the debt itself; (2) mortal
 and venial sin, which differ in respect of the punishment due to them.
@@ -6717,7 +6727,7 @@ Dobbiamo ora considerare il “debito” di punizione. Esamineremo: (1) il debit
 (7) Se ogni punizione venga inflitta esclusivamente per un peccato specifico;  
 (8) Se una persona possa subire la punizione per il peccato di un’altra.
 
-<span class="atom-split" data-atom="106" data-title="Whether the debt of punishment is an effect of sin?" data-chapter="Whether the debt of punishment is an effect of sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="106" data-title="Whether the debt of punishment is an effect of sin?" data-chapter="Whether the debt of punishment is an effect of sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the debt of punishment is not an effect of sin. For that which
 is accidentally related to a thing, does not seem to be its proper effect. Now the debt of punishment
@@ -6785,7 +6795,7 @@ Risposta all’Obiezione 2: Inoltre, una punizione giusta può essere inflitta s
 
 Risposta all’Obiezione 3: Questo castigo per l’“affetto eccessivo” deriva dal peccato, poiché esso sovverte l’ordine della ragione. Tuttavia, il peccato subisce un ulteriore castigo, in quanto perturba anche l’ordine della legge divina o della [legge umana](/concepts/human_law).
 
-<span class="atom-split" data-atom="107" data-title="Whether sin can be the punishment of sin?" data-chapter="Whether sin can be the punishment of sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="107" data-title="Whether sin can be the punishment of sin?" data-chapter="Whether sin can be the punishment of sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sin cannot be the punishment of sin. For the purpose of
 punishment is to bring man back to the good of virtue, as the Philosopher declares (Ethic. x, 9).
@@ -6852,7 +6862,7 @@ Risposta all’Obiezione 1: Anche quando Dio punisce gli uomini permettendo loro
 
 Risposta all’Obiezione 2: Questa obiezione considera il peccato essenzialmente come tale; la stessa risposta vale anche per l’Osservazione Terza.
 
-<span class="atom-split" data-atom="108" data-title="Whether any sin incurs a debt of eternal punishment?" data-chapter="Whether any sin incurs a debt of eternal punishment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="108" data-title="Whether any sin incurs a debt of eternal punishment?" data-chapter="Whether any sin incurs a debt of eternal punishment?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/eternity,concepts/justice,concepts/charity,figures/augustine"></span>
 
 Objection 1: It would seem that no sin incurs a debt of eternal punishment. For a just punishment
 is equal to the fault, since justice is equality: wherefore it is written (Is. 27:8): "In measure against
@@ -6940,7 +6950,7 @@ Risposta all’Obiezione 3: Dio non si compiace nelle punizioni per il loro stes
 
 Risposta all’Obiezione 4: Sebbene la punizione sia collegata in modo indiretto alla natura, essa è essenzialmente legata al perturbamento dell’ordine e alla giustizia di Dio. Pertanto, finché tale perturbamento persiste, anche la punizione continua ad esistere.
 
-<span class="atom-split" data-atom="109" data-title="Whether sin incurs a debt of punishment infinite in quantity?" data-chapter="Whether sin incurs a debt of punishment infinite in quantity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="109" data-title="Whether sin incurs a debt of punishment infinite in quantity?" data-chapter="Whether sin incurs a debt of punishment infinite in quantity?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sin incurs a debt of punishment infinite in quantity. For it is
 written (Jer. 10:24): "Correct me, O Lord, but yet with judgment: and not in Thy fury, lest Thou
@@ -7005,7 +7015,7 @@ Risposta all’Obiezione 2: Questo argomento considera il peccato come un allont
 
 Risposta all’Obiezione 3: La durata della punizione corrisponde alla durata del peccato, non certo riguardo all’atto stesso, ma in relazione al “macchio” che tale peccato lascia; finché questo macchio esiste, rimane anche il debito di punizione. Tuttavia, la punizione corrisponde al peccato per quanto riguarda la sua severità. Un peccato irreparabile, essendo di per sé duraturo per l’eternità, comporta anch’esso una punizione eterna. Ma tale punizione non è infinita in termini della sua entità; pertanto, in questo senso, non si tratta di una punizione di quantità infinita.
 
-<span class="atom-split" data-atom="110" data-title="Whether every sin incurs a debt of eternal punishment?" data-chapter="Whether every sin incurs a debt of eternal punishment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="110" data-title="Whether every sin incurs a debt of eternal punishment?" data-chapter="Whether every sin incurs a debt of eternal punishment?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,positions/eternity,concepts/grace,figures/augustine"></span>
 
 Objection 1: It would seem that every sin incurs a debt of eternal punishment. Because
 punishment, as stated above (A[4]), is proportionate to the fault. Now eternal punishment differs
@@ -7067,7 +7077,7 @@ Risposta all’Obiezione 1: I peccati non differiscono infinitamente tra loro pe
 
 Risposta all’Obiezione 2: Il peccato originale comporta una punizione eterna, non a causa della sua gravità, ma in ragione dello stato del soggetto, ovvero di un essere umano privo di grazia, senza la quale non vi è alcuna remissione del peccato. La stessa risposta vale anche per l’Terza Obiezione riguardante il peccato veniale. Poiché l’[eternità](/positions/eternity) della punizione non corrisponde alla gravità del peccato, ma alla sua irremissibilità, come già detto sopra (A[3]).
 
-<span class="atom-split" data-atom="111" data-title="Whether the debt of punishment remains after sin?" data-chapter="Whether the debt of punishment remains after sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="111" data-title="Whether the debt of punishment remains after sin?" data-chapter="Whether the debt of punishment remains after sin?" data-kind="atom" data-srclang="en" data-tags="concepts/justice,concepts/divine_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there remains no debt of punishment after sin. For if the cause
 be removed the effect is removed. But sin is the cause of the debt of punishment. Therefore, when
@@ -7144,7 +7154,7 @@ Risposta all’Obiezione 2: L’uomo virtuoso non merita la punizione in sé, ma
 
 Risposta all’Obiezione 3: Quando la macchia viene rimossa, la “ferita” del peccato viene guarita riguardo alla volontà umana. Tuttavia, la punizione è ancora necessaria affinché anche le altre facoltà dell’anima possano essere guarite, poiché sono state profondamente turbate dal peccato commesso; soltanto il contrario di ciò che ha causato quel disordine può rimediare a tale situazione. Inoltre, la punizione è indispensabile per ripristinare l’equità e eliminare lo scandalo causato al prossimo; coloro che sono stati offesi dal peccato possono così trarre beneficio dalla punizione stessa, come si evince dall’esempio di Davide citato in precedenza.
 
-<span class="atom-split" data-atom="112" data-title="Whether every punishment is inflicted for a sin?" data-chapter="Whether every punishment is inflicted for a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="112" data-title="Whether every punishment is inflicted for a sin?" data-chapter="Whether every punishment is inflicted for a sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that not every punishment is inflicted for a sin. For it is written
 (Jn. 9:3,2) about the man born blind: "Neither hath this man sinned, nor his parents . . . that he
@@ -7217,7 +7227,7 @@ pride hath held them fast."
 
 Reply to Objection 3: Christ bore a satisfactory punishment, not for His, but for our sins.
 
-<span class="atom-split" data-atom="113" data-title="Whether anyone is punished for another's sin?" data-chapter="Whether anyone is punished for another's sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="113" data-title="Whether anyone is punished for another's sin?" data-chapter="Whether anyone is punished for another's sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one may be punished for another's sin. For it is written (Ex.
 20:5): "I am . . . God . . . jealous, visiting the iniquity of the fathers upon the children, unto the third
@@ -7300,7 +7310,7 @@ Risposta all’Obiezione 2: Le punizioni che la giustizia umana infligge a qualc
 
 Risposta all’Obiezione 3: Si dice che coloro che sono strettamente imparentati con i colpevoli vengano puniti, piuttosto che gli estranei, per i peccati altrui; sia perché la punizione dei parenti influisce in qualche modo anche su coloro che hanno commesso il peccato – come già detto, poiché il figlio è considerato una proprietà del padre – sia perché gli esempi e le punizioni che avvengono all’interno della propria famiglia sono più efficaci nel suscitare rimorso. Pertanto, quando un uomo cresce in mezzo ai peccati dei propri genitori, è più propenso a imitarli; e se non viene dissuaso dalle loro punizioni, sembra essere ancora più ostinato, e quindi meritevole di una punizione più severa.
 
-<span class="atom-split" data-atom="114" data-title="OF VENIAL AND MORTAL SIN (SIX ARTICLES)" data-chapter="OF VENIAL AND MORTAL SIN (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="114" data-title="OF VENIAL AND MORTAL SIN (SIX ARTICLES)" data-chapter="OF VENIAL AND MORTAL SIN (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 In the next place, since venial and mortal sins differ in respect of the debt of punishment, we
 must consider them. First, we shall consider venial sin as compared with mortal sin; secondly, we
@@ -7324,7 +7334,7 @@ All’interno della prima categoria di indagini vi sono sei punti principali:
 (5) Se un peccato veniale possa diventare mortale a causa di circostanze aggravanti;  
 (6) Se un peccato mortale possa ridursi a peccato veniale.
 
-<span class="atom-split" data-atom="115" data-title="Whether venial sin is fittingly condivided with mortal sin?" data-chapter="Whether venial sin is fittingly condivided with mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="115" data-title="Whether venial sin is fittingly condivided with mortal sin?" data-chapter="Whether venial sin is fittingly condivided with mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that venial sin is unfittingly condivided with mortal sin. For
 [Augustine](/figures/augustine) says (Contra Faust. xxii, 27): "Sin is a word, deed or desire contrary to the [eternal law](/concepts/eternal_law)."
@@ -7425,7 +7435,7 @@ Risposta all’Obiezione 3: Chi pecca in modo veniale si attacca ai beni tempora
 
 Risposta all’Obiezione 4: Il bene mutabile non viene considerato un concetto opposto al bene immutabile, a meno che lo scopo di una persona non sia legato a quest’ultimo; infatti, ciò che è collegato a uno scopo particolare non possiede il carattere della finalità.
 
-<span class="atom-split" data-atom="116" data-title="Whether mortal and venial sin differ generically?" data-chapter="Whether mortal and venial sin differ generically?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="116" data-title="Whether mortal and venial sin differ generically?" data-chapter="Whether mortal and venial sin differ generically?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that venial and mortal sin do not differ generically, so that some
 sins be generically mortal, and some generically venial. Because human acts are considered to be
@@ -7487,7 +7497,7 @@ Reply to Objection 2: This argument considers those sins which are venial from t
 Reply to Objection 3: This argument considers those sins which are venial by reason of the
 imperfection of the act.
 
-<span class="atom-split" data-atom="117" data-title="Whether venial sin is a disposition to mortal sin?" data-chapter="Whether venial sin is a disposition to mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="117" data-title="Whether venial sin is a disposition to mortal sin?" data-chapter="Whether venial sin is a disposition to mortal sin?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that venial sin is not a disposition to mortal sin. For one contrary
 does not dispose to another. But venial and mortal sin are condivided as contrary to one another,
@@ -7555,7 +7565,7 @@ Risposta all’Obiezione 2: Il peccato veniale non è simile al peccato mortale 
 
 Risposta all’Obiezione 3: Un’opera buona, di per sé, non costituisce una disposizione al peccato mortale; tuttavia può accidentalmente diventare l’oggetto o l’occasione di un peccato mortale; al contrario, un peccato veniale, per sua stessa natura, dispone alla commissione di un peccato mortale, come già detto.
 
-<span class="atom-split" data-atom="118" data-title="Whether a venial sin can become mortal?" data-chapter="Whether a venial sin can become mortal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="118" data-title="Whether a venial sin can become mortal?" data-chapter="Whether a venial sin can become mortal?" data-kind="atom" data-srclang="en" data-tags="concepts/custom,concepts/will,figures/augustine"></span>
 
 Objection 1: It would seem that a venial sin can become a mortal sin. For [Augustine](/figures/augustine) in
 explaining the words of Jn. 3:36: "He that believeth not the Son, shall not see life," says (Tract. xii
@@ -7634,7 +7644,7 @@ Risposta all’Obiezione 3: La malattia del corpo non è un atto, ma una condizi
 
 Risposta all’Obiezione 4: Una disposizione che diventa abitudine è simile a una cosa imperfetta della stessa specie; pertanto, la scienza imperfetta, venendo perfezionata, diventa un’abitudine. D’altra parte, il peccato veniale rappresenta una disposizione verso qualcosa che differisce in modo generico; è come un accidente che predisponde a una forma sostanziale, nella quale mai si trasforma.
 
-<span class="atom-split" data-atom="119" data-title="Whether a circumstance can make a venial sin to be mortal?" data-chapter="Whether a circumstance can make a venial sin to be mortal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="119" data-title="Whether a circumstance can make a venial sin to be mortal?" data-chapter="Whether a circumstance can make a venial sin to be mortal?" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/custom,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a circumstance can make a venial sin mortal. For [Augustine](/figures/augustine)
 says in a sermon on Purgatory (De Sanctis, serm. xli) that "if [anger](/concepts/anger) continue for a long time, or if
@@ -7725,7 +7735,7 @@ Risposta all’Obiezione 2: La delizia malinconica non costituisce un peccato mo
 
 Risposta all’Obiezione 3: Una circostanza non rende un atto buono cattivo, a meno che essa non costituisca di per sé il genere di un peccato, come abbiamo già affermato sopra (Q[18], A[5], ad 4).
 
-<span class="atom-split" data-atom="120" data-title="Whether a mortal sin can become venial?" data-chapter="Whether a mortal sin can become venial?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="120" data-title="Whether a mortal sin can become venial?" data-chapter="Whether a mortal sin can become venial?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a mortal sin can become venial. Because venial sin is equally
 distant from mortal, as mortal sin is from venial. But a venial sin can become mortal, as stated
@@ -7795,7 +7805,7 @@ Risposta all’Obiezione 2: Se l’ignoranza fosse tale da scusare completamente
 
 Risposta all’Obiezione 3: Come afferma [Agostino](/figures/augustine) (Contra Mendacium vii), “quelle cose che sono cattive di per sé non possono mai essere compiute a fin di bene”. Ora, l’omicidio è l’uccisione di un innocente, e questo certamente non può mai essere considerato un atto giusto. Tuttavia, come sostiene Agostino (De Lib. Arb. i, 4,5), il giudice che condanna a morte un ladro, o il soldato che uccide un nemico del bene comune, non sono assassini.
 
-<span class="atom-split" data-atom="121" data-title="OF VENIAL SIN IN ITSELF (SIX ARTICLES)" data-chapter="OF VENIAL SIN IN ITSELF (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="121" data-title="OF VENIAL SIN IN ITSELF (SIX ARTICLES)" data-chapter="OF VENIAL SIN IN ITSELF (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider venial sin in itself, and under this head there are six points of inquiry:
 (1) Whether venial sin causes a stain in the soul?
@@ -7815,7 +7825,7 @@ Dobbiamo ora considerare il peccato veniale in sé, e sotto questo aspetto ci so
 (5) Se le azioni degli increduli possano essere considerate peccati veniali;  
 (6) Se un uomo possa commettere peccati veniali pur avendo soltanto l’[peccato originale](/positions/original_sin).
 
-<span class="atom-split" data-atom="122" data-title="Whether venial sin causes a stain on the soul?" data-chapter="Whether venial sin causes a stain on the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="122" data-title="Whether venial sin causes a stain on the soul?" data-chapter="Whether venial sin causes a stain on the soul?" data-kind="atom" data-srclang="en" data-tags="concepts/beauty,concepts/charity,concepts/virtue,concepts/soul,figures/augustine"></span>
 
 Objection 1: It would seem that venial sin causes a stain in the soul. For [Augustine](/figures/augustine) says (De
 Poenit.) [*Hom. 50, inter. L., 2], that if venial sins be multiplied, they destroy the [beauty](/concepts/beauty) of our
@@ -7881,7 +7891,7 @@ Risposta all’Obiezione 3: Nel peccato mortale, l’anima entra in contatto con
 
 Al contrario, nel peccato veniale, l’uomo non si attacca a una creatura come al proprio fine ultimo; pertanto non esiste alcuna analogia tra i due casi.
 
-<span class="atom-split" data-atom="123" data-title="Whether venial sins are suitably designated as \&quot;wood, hay, and stubble\&quot;?" data-chapter="Whether venial sins are suitably designated as \&quot;wood, hay, and stubble\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="123" data-title="Whether venial sins are suitably designated as \&quot;wood, hay, and stubble\&quot;?" data-chapter="Whether venial sins are suitably designated as \&quot;wood, hay, and stubble\&quot;?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 # Whether venial sins are suitably designated as "wood, hay, and stubble"?
 
@@ -7979,7 +7989,7 @@ Risposta all’Obiezione 3: Anche se coloro che si ritirano dalle cure delle cos
 
 Risposta all’Obiezione 4: Come afferma il Filosofo (De Coelo i, testo 2), “tutte le cose sono comprese in tre categorie: l’inizio, il mezzo e la fine”. Pertanto, tutti i gradi dei peccati veniali possono essere ridotti a tre tipi: il “legno”, che rimane più a lungo nel fuoco; la “paglia”, che brucia immediatamente; e l“erba secca”, che si trova tra questi due estremi. I peccati veniali, infatti, vengono eliminati dal fuoco, in modo rapido o lento, a seconda del grado di attaccamento dell’uomo ad essi.
 
-<span class="atom-split" data-atom="124" data-title="Whether man could commit a venial sin in the state of innocence?" data-chapter="Whether man could commit a venial sin in the state of innocence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="124" data-title="Whether man could commit a venial sin in the state of innocence?" data-chapter="Whether man could commit a venial sin in the state of innocence?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man could commit a venial sin in [the state](/concepts/state) of innocence.
 Because on 1 Tim. 2:14, "Adam was not seduced," a gloss says: "Having had no experience of
@@ -8065,7 +8075,7 @@ Risposta all’Obiezione 2: Questo orgoglio che precedette la caduta dell’uomo
 
 Risposta all’Obiezione 3: Il peccato mortale si oppone all’integrità dello stato originario, poiché lo distrugge; ciò che un peccato veniale non è in grado di fare. E poiché l’integrità dello stato primordiale è incompatibile con qualsiasi forma di disordinio, ne consegue che l’uomo primitivo non avrebbe potuto commettere peccati veniali prima di compiere un peccato mortale.
 
-<span class="atom-split" data-atom="125" data-title="Whether a good or a wicked angel can sin venially?" data-chapter="Whether a good or a wicked angel can sin venially?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="125" data-title="Whether a good or a wicked angel can sin venially?" data-chapter="Whether a good or a wicked angel can sin venially?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that a good or wicked angel can sin venially. Because man agrees with
 the angels in the higher part of his soul which is called the mind, according to Gregory, who says
@@ -8128,7 +8138,7 @@ Risposta all’Obiezione 2: Un angelo non potrebbe amare una creatura inferiore 
 
 Risposta all’Obiezione 3: I demoni incitano l’uomo a compiere tutte quelle azioni che sembrano veniali, affinché egli si abitui ad esse e così venga condotto al peccato mortale. Pertanto, in tutte queste azioni essi commettono un peccato mortale, a causa dello scopo che hanno in vista.
 
-<span class="atom-split" data-atom="126" data-title="Whether the first movements of the sensuality in unbelievers are mortal sin?" data-chapter="Whether the first movements of the sensuality in unbelievers are mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="126" data-title="Whether the first movements of the sensuality in unbelievers are mortal sin?" data-chapter="Whether the first movements of the sensuality in unbelievers are mortal sin?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/grace,concepts/concupiscence"></span>
 
 Objection 1: It would seem that the first movements of the sensuality in unbelievers are mortal
 sins. For the Apostle says (Rom. 8:1) that "there is . . . no condemnation to them that are in Christ
@@ -8194,7 +8204,7 @@ Risposta all’Obiezione 1: L’Apostolo parla della condanna dovuta al [-peccat
 
 Risposta all’Obiezione 3: Questa libertà dalla responsabilità nei confronti della concupiscenza era il risultato della giustizia originale. Pertanto, ciò che è in contraddizione con tale libertà riguarda non il peccato effettivo, ma il peccato originale.
 
-<span class="atom-split" data-atom="127" data-title="Whether venial sin can be in anyone with original sin alone?" data-chapter="Whether venial sin can be in anyone with original sin alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="127" data-title="Whether venial sin can be in anyone with original sin alone?" data-chapter="Whether venial sin can be in anyone with original sin alone?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/virtue,concepts/eternal_law,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that venial sin can be in a man with [original sin](/positions/original_sin) alone. For disposition
 precedes [habit](/concepts/custom). Now venial sin is a disposition to mortal sin, as stated above (Q[88], A[3]). Therefore

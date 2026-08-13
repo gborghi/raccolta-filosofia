@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A continuation on the theory of the novel: the quality of detail decides a book's rank, and decadence affects only the average type, so that the highest works become possible precisely in a decadent hour. Since the novel's material is imaginary psychology and knowledge of souls has advanced enormously, today's reader is a better psychologist than the author.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

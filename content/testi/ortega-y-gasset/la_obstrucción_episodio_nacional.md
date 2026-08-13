@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political comment on parliamentary obstruction: lacking any juridical regulator, it has an almost infallible psychological one — the five obstructing deputies feel backed by liberal opinion. The real obstructionist, he concludes, is Señor Moret. Occasional political journalism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

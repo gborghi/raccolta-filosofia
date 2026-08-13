@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay in the theory of painting arising from Ortega's reaction to Zuloaga's canvases: he defends "pre-judgements" (logic, ethics, aesthetics) as the condition of culture against the idea of a virgin eye, and distinguishes painters who paint things from those who, using painted things, create pictures. A picture is defined as "the unity among some patches of paint" — an unreal element found nowhere in nature.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]], [[concepts/idea|idea]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +127,7 @@ Sappiamo già che l'unità trascendente che organizzi il quadro non ha da essere
 
 2
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,concepts/idea,forms/essay"></span>
 
 Con un vago propósito de buscar una fórmula que defina el ideal de la pintura, escribí el primer artículo, titulado Adán en el Paraíso. Yo no sé bien por qué le llamé así; al cabo del artículo me hallaba perdido en esta selva oscura del arte, donde sólo han visto claro los ciegos como Homero. En mi confusión me acogí al recuerdo de una antigua amistad: el doctor Vulpius, alemán, profesor de Filosofía. Muchas veces —pensé— me habló este hombre, sutil y metafísico, de arte; solíamos pasear todas las tardes por el jardín zoológico de Leipzig, solitario, húmedo, cubierto de césped verdinegro y plantado de altos árboles oscuros. De cuando en cuando las águilas daban un gran grito legionario e imperial; el «Wapiti», o ciervo del Canadá, mugía añorando las largas praderas frías, y no era raro que alguna pareja de patos se persiguiera sobre las aguas con lasciva algarabía, siendo escándalo al honesto pueblo de los animales mayores y más recatados.
 
@@ -252,7 +259,7 @@ Un giorno tra i giorni, come dicono i racconti arabi, laggiù, nel Giardino dell
 
 Dio, in effetti, non è se non il nome che diamo alla capacità di farsi carico delle cose. Se Dio, pertanto, creò l'uomo a sua somiglianza, si vuol dire che creò in lui la prima capacità di rendersi conto che fino ad allora esistesse fuori di Dio. Ma il testo venerabile dice soltanto a sua immagine: poi la capacità che fu donata all'uomo non coincideva esattamente con la divina originale, era un'approssimazione alla chiaroveggenza di Dio, una sapienza degradata e mancante di peso, un qualcosa di simile a. Tra la capacità di Dio e quella dell'uomo intercedeva la medesima distanza che tra rendersi conto di una cosa e rendersi conto di un problema, tra accorgersi e sapere.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,concepts/idea,forms/essay"></span>
 
 Cuando Adán apareció en el Paraíso, como un árbol nuevo, comenzó a existir esto que llamamos vida. Adán fue el primer ser que, viviendo, se sintió vivir. Para Adán la vida existe como un problema.
 
@@ -426,7 +433,7 @@ La natura, intesa così come natura conosciuta da noi, non ci presenta nulla di 
 
 Abbiamo visto che un individuo, sia cosa o persona, è il risultato del resto totale del mondo: è la totalità delle relazioni. Nella nascita di un filo d'erba collabora tutto l'universo.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,concepts/idea,forms/essay"></span>
 
 ¿Se advierte la inmensidad de la tarea que toma el arte sobre sí? ¿Cómo poner de manifiesto la totalidad de relaciones que constituye la vida más simple, la de este árbol, la de esta piedra, la de este hombre?
 
@@ -606,7 +613,7 @@ La pittura è la categoria della luce.
 
 Quanto detto anteriormente apparirà più fecondo se confrontiamo la pittura con un'altra arte: il romanzo, per esempio.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,concepts/idea,forms/essay"></span>
 
 La novela es un género poético, cuyas épocas de germinación, progreso y expansión corresponden exactamente a análogos estadios de la evolución pictórica. Pintura y novela son artes románticos, modernos, nuestros. Maduraron como frutas del Renacimiento, es decir, como expresiones del problema del individuo, característico del Renacimiento.
 
@@ -768,7 +775,7 @@ Immaginatevi dinanzi a un'opera alla moda. Le sue figure incitano la nostra fant
 
 Il pittore eccelso ha sempre posto nel suo quadro non soltanto le cose che volle o gli convenne copiare, ma un mondo inesauribile di alimenti perché quelle cose potessero perdurare nella vita eterna, in perpetuo cambio di sostanze. La conquista di ciò che si è chiamato «aria», «ambiente», è un caso particolare di quell'esigenza incalcolabile.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,concepts/idea,forms/essay"></span>
 
 Los egipcios miraban la muerte como una manera de la vida, como una existencia virtual de los seres más allá de lo visible. Por eso, para facilitarles esa nueva vida convertían los cadáveres en momias y encerraban con ellos en las mastabas toda suerte de alimentos.
 

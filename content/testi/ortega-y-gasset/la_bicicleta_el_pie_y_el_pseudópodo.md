@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay establishing a purely vital hierarchy of functions: cycling is conditioned mechanism, walking is a more fully organic function, and the amoeba's locomotion — lacking specialized organs — is more primary still. A machine gives much only within strict conditions, outside which it is an encumbrance.
+
+## Connections
+
+**Concetti:** [[concepts/nature|natura]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to the attacks of Argentine writers: he wrote those essays freely, foreseeing and willing the consequences. His reason is that he owes Argentina a substantial portion of his own life—and life, being always someone's, is for that someone the absolute, since everything else arrives through it and within it.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +116,7 @@ Ciascuno si destreggia con l'apparato della sua coscienza. La mia mi invitava a 
 
 Tutto ciò mi sembra ridicolo, petit-bourgeois, extemporaneo e ripugnante. Ma, inoltre, non è questione che a me sembri bene o male. Se per rendere all'Argentina il beneficio della sua intromissione nella mia vita io dovevo collaborare nella sua e intromettermi in essa, l'assunto restava fuori dall'area della mia elezione. Ogni vivere, individuale o collettivo, è un fare; più precisamente, un farsi. Di qui che la vita si presenti sempre, nel suo più intimo e radicale aspetto, come un compito. E se la coscienza non cammina torbida, vediamo con indomabile evidenza il piano di quel compito e in esso il luogo e la porzione di sforzo che ci corrisponde. Non c'è più che un modo di collaborare nella vita d'un altro: appoggiare risolutamente la spalla là dove si vede che fa bisogno.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/radical_reality_of_life,forms/essay"></span>
 
 Ahora bien: yo he visto que hoy el problema más sustantivo de la existencia argentina es su reforma moral. Me irrita este vocablo «moral». Me irrita porque en su uso y abuso tradicionales se entiende por moral no sé bien qué añadido de ornamento puesto a la vida y ser de un hombre o de un pueblo. Por eso yo prefiero que el lector lo entienda por lo que significa, no en la contraposición moral-inmoral, sino en el sentido que adquiere cuando de alguien se dice que está desmoralizado. Entonces se advierte que la moral no es una performance suplementaria y lujosa que el hombre añade a su ser para obtener un premio, sino que es el ser mismo del hombre cuando está en su propio quicio y vital eficiencia. Un hombre desmoralizado es simplemente un hombre que no está en posesión de sí mismo, que está fuera de su radical autenticidad y por ello no vive su vida y por ello no crea ni fecunda ni hinche su destino. Para mí la moral no es lo que el hombre debe ser, pero por lo visto puede prescindir de ser, sino que es simplemente el ser inexorable de cada hombre, de cada pueblo. Por eso, desde siempre y una vez más en mis conferencias últimas de Buenos Aires, cuando anunciaba yo un posible curso de Ética —que ya no sé bien si haré— proclamaba como imperativo fundamental de la mía el grito del viejo Píndaro: genoi’ hoios essi —llega a ser el que eres.
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on Asturias and 'Asturian ruralism': beneath urban manners peasant hearts still beat. Ortega argues Spain's road to prosperity runs through the countryside, since Spain never managed to build capitalism's modern city and handed government to a few urban islands, leaving four-fifths of the country outside the national synthesis.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Polemical column (Luz 1932) against Mr. Peman, who cites Ortega to accuse the intellectuals; Ortega demands he publish the incriminating texts. Not philosophical.
+> Very short note (277 words) with no sample in the digest: the title suggests a journalistic skirmish about José María Pemán, but the content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

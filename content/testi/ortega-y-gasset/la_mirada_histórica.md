@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The central thesis: in man nothing is exempt from change, and whatever appears fixed in him belongs to what in him is not human. Natural science, which everywhere seeks a 'nature' as the stable principle, has therefore failed with man: man has no nature, he has history. Lacking a given being he must go find one, and so is free by compulsion; the historical gaze must move with the fact instead of freezing it.
+
+## Connections
+
+**Assi:** [[assi/time_and_death|Tempo e morte]], [[assi/freedom_necessity|Libertà e necessità]]  
+**Posizioni:** [[positions/historicity|storicità]], [[positions/free_will|libero arbitrio]]  
+**Concetti:** [[concepts/nature|natura]], [[concepts/freedom|libertà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -84,7 +93,7 @@ Ma il Rinascimento significa, precisamente, il cominciamento della riaffermazion
 
 Ma precisamente tutto questo è ciò che ai nostri giorni viene a caducità. Scopriamo ora che l'uomo non ha quella supposta «natura», né per lo tanto, quell'strumentale nativo che sia sufficiente, di cui e con cui possa vivere. La ragione non è una dote. Né la ha da sé l'uomo, né soltanto la ha ancora. A forza di forze, in tentativi millenari, si è forgiato da sé stesso l'uomo un cominciamento di razionalità, ma niente di più. Dire dell'uomo che è razionale, è dire qualcosa di utopico che a tutte le ore si dà di petto con la realtà.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/time_and_death,assi/freedom_necessity,positions/historicity,positions/free_will,concepts/nature,concepts/freedom,forms/essay"></span>
 
 Pero más aún. La «naturaleza» misma —no sólo la del hombre— nos aparece hoy como una mera hipótesis. La física actual no permite imaginar esa realidad yacente, segura, acogedora y solemne en que todavía los físicos del siglo xix creían. La [materia](/positions/materialism) se revela ahora como algo también móvil, que tiene casi historia, que tampoco posee un ser fijo. Ni el mundo ni el hombre son: todo está en marcha. Viene de —va hacia— no se sabe aún adónde. Sólo se sabe que es cambio, mudanza, peregrinación. Hay que crear nuevas virtudes en el hombre que le permitan vivir enérgica y jovialmente en medio de la radical inquietud. Nuestro lema ha de ser éste: Mobilis in mobili.
 
@@ -132,7 +141,7 @@ Ma qui è dove entro io. Nel mio libretto Idee e credenze, faccio osservare che 
 
 Questa concezione obbliga a creare nuovi metodi e nuova tecnica nella storia. Bisogna convertirsi in minatore di umanità. Questo studio delle credenze come tali ci rivela i diversi stati per cui passano. Un medesimo contenuto di fede può agire in epoche successive in modi differenti. Senza addentrarci in più finezze, incontriamo, senz'altro, questi tre stati di una medesima credenza: quando è fede viva, quando è fede inerte o «morta» e quando è dubbio. Perché lo stato di dubbio appartiene allo stesso strato delle credenze, è un modo deficiente del credere. Dubitare non è semplicemente credere di no di fronte a credere di sì, né tanto meno vuoto di credenza. Al contrario, è un credere doppio. Siamo nel dubbio perché due credenze incompatibili batagliano dentro di noi, e tra ambedue oscilliamo, fluttuiamo. Per questo dissi poco fa nella Facoltà di Filosofia che il dubbio è la sorella strabica che ha la scienza.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/time_and_death,assi/freedom_necessity,positions/historicity,positions/free_will,concepts/nature,concepts/freedom,forms/essay"></span>
 
 Otra de las cosas que la teoría de las creencias nos enseña es que no puede darse una creencia, en la plenitud del término, si no es colectiva. Como individuo, puedo llegar a estar plenamente convencido, esto es, persuadido de algo, y esa convicción ser tan vigorosa y compacta que se aproxime mucho a la índole de las creencias. Pero siempre habrá entre aquélla y éstas diferencia y distancia. Los nombres mismos las declaran. Convicción, persuasión, dan a entender que son estados a los cuales hemos llegado por nuestra cuenta en virtud de razones y, cuando no, de motivos. Pero una creencia auténtica, en la cual de verdad estamos, no se funda en razones ni en motivos. En el momento en que esto aconteciese, no sería pura creencia. Tenían razón los teólogos cuando hablaban de que la fe es ciega. Sólo que ellos tenían de la fe una idea menos franca y resuelta que yo. Esos teólogos eran, en el fondo, snobs de la razón, a la cual miraban constantemente con el rabillo del ojo y delante de la cual no querían quedar mal. La razón ha sido y será siempre lo esencialmente «distinguido». Por eso el esnobismo ante ella está muy justificado y ha sido de gran fecundidad en el desarrollo humano. Ha sido menester que lleguemos a la bestialidad de nuestro tiempo, que acaso no tenga par en todo el pretérito, para que ese esnobismo casi desaparezca. El hombre-masa, en efecto, cree que lo sabe todo sin necesidad de razón. A ese esnobismo de los teólogos medievales debemos nuestra presente destreza mental. El maravilloso escolasticismo fue la piedra de afilar sobre la cual, durante cinco siglos, se estuvo afinando el corte el intelecto occidental.
 
@@ -204,7 +213,7 @@ C'è, dunque, una differenza radicale nel carattere stesso di fede tra la mediev
 
 * * *
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/time_and_death,assi/freedom_necessity,positions/historicity,positions/free_will,concepts/nature,concepts/freedom,forms/essay"></span>
 
 Platonismo y aristotelismo no fueron nunca en Grecia objeto de fe. Fueron meras ideas o, en mi terminología, ocurrencias. Pero en la Edad Media entran en las almas fundidas con las creencias religiosas y adquieren una solidez de efectivas creencias. Ahora bien: ambas filosofías, que en última instancia son dos caras de la misma, son una interpretación del mundo que hace de éste una pluralidad de realidades inmóviles. Pluralidad e invariabilidad última son, en efecto, los dos rasgos decisivos del universo medieval. La Imago mundi del siglo xiii y primera mitad del xiv —el mundo que oprimía la persona de Dante— estaba compuesta de un número crecidísimo de realidades independientes— las formas —que eran inmutables o, si se quiere, que no podían cambiar sino para desaparecer, aniquiladas por la divina omnipotencia.
 

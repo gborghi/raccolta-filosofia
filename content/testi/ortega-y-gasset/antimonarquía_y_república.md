@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Spain is almost wholly anti-monarchical but has not yet begun to be republican: to be merely "anti" is not to be but to "anti-be", and such a people is the hollow of itself. Ortega denounces a Republic facing backwards, busy punishing the past, and the "narrow-gauge Machiavellianism" that thinks it is creating republican interests; what is needed is a historical creed founded on two principles, the Nation and Labour.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

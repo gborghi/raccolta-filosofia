@@ -12,8 +12,20 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > The metaphysical core of the Summa: the five ways demonstrate God's existence from motion, causation, contingency, gradation and finality; these are followed by simplicity (in God essence and existence coincide — he is pure act), perfection, goodness, and later knowledge, will, providence and predestination. A classic model of the harmony of faith and reason: what is demonstrable by natural means precedes what must be believed on revelation.
+
+## Connections
+
+**Assi:** [[assi/god|Dio]], [[assi/faith_reason|Fede e ragione]]  
+**Posizioni:** [[positions/demonstrative_theism|teismo dimostrativo]], [[positions/harmony_of_faith_reason|armonia di fede e ragione]]  
+**Concetti:** [[concepts/actus_purus|atto puro]], [[concepts/essentia_existentia|essenza ed esistenza]], [[concepts/analogy_of_being|analogia dell'essere]], [[concepts/predestination|predestinazione]]  
+**Argomenti:** [[arguments/quinque_viae|le cinque vie]]  
+**Figure:** [[figures/aristotle|Aristotele]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +40,7 @@ TREATISE ON THE ONE GOD (QQ[2]-26)
 
 Trattato sul Dio Unico (QQ[2]-26)
 
-<span class="atom-split" data-atom="002" data-title="THE EXISTENCE OF GOD (THREE ARTICLES)" data-chapter="THE EXISTENCE OF GOD (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="THE EXISTENCE OF GOD (THREE ARTICLES)" data-chapter="THE EXISTENCE OF GOD (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Because the chief aim of sacred doctrine is to teach the knowledge of God, not only as He is
 in Himself, but also as He is the beginning of things and their last end, and especially of rational
@@ -56,7 +68,7 @@ Per quanto riguarda il primo punto, vi sono tre questioni fondamentali:
 (2) È dimostrabile?  
 (3) Dio esiste davvero?
 
-<span class="atom-split" data-atom="003" data-title="Whether the existence of God is self-evident?" data-chapter="Whether the existence of God is self-evident?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether the existence of God is self-evident?" data-chapter="Whether the existence of God is self-evident?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/knowledge_origin,positions/beatitude,arguments/ontological_argument"></span>
 
 Objection 1: It seems that the existence of God is self-evident. Now those things are said to
 be self-evident to us the knowledge of which is naturally implanted in us, as we can see in regard
@@ -137,7 +149,7 @@ Risposta all’Obiezione 2: Forse non tutti coloro che sentono questa parola “
 
 Risposta all’Obiezione 3: L’esistenza della verità in generale è autoevidente, ma l’esistenza di una “Verità Primordiale” non lo è per noi.
 
-<span class="atom-split" data-atom="004" data-title="Whether it can be demonstrated that God exists?" data-chapter="Whether it can be demonstrated that God exists?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether it can be demonstrated that God exists?" data-chapter="Whether it can be demonstrated that God exists?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the existence of God cannot be demonstrated. For it is an article of
 faith that God exists. But what is of faith cannot be demonstrated, because a demonstration produces
@@ -206,7 +218,7 @@ Risposta all’Obiezione 2: Quando l’esistenza di una causa viene dimostrata a
 
 Risposta all’Obiezione 3: Da effetti che non sono proporzionali alla causa, non è possibile ottenere una conoscenza perfetta di quella causa. Tuttavia, dall’esistenza di ogni effetto si può dimostrare chiaramente l’esistenza della causa; pertanto possiamo dimostrare l’esistenza di Dio attraverso i suoi effetti, anche se non possiamo conoscerlo perfettamente così com’è nella sua essenza.
 
-<span class="atom-split" data-atom="005" data-title="Whether God exists?" data-chapter="Whether God exists?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether God exists?" data-chapter="Whether God exists?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/act_potency,concepts/infinity,concepts/cause,arguments/quinque_viae"></span>
 
 Objection 1: It seems that God does not exist; because if one of two contraries be infinite, the
 other would be altogether destroyed. But the word "God" means that He is infinite goodness. If,
@@ -314,7 +326,7 @@ Risposta all’Obiezione 1: Come afferma [Agostino](/figures/augustine) nell’E
 
 Risposta all’Obiezione 2: Poiché la natura agisce per uno scopo determinato sotto la guida di un agente superiore, tutto ciò che avviene per opera della natura deve necessariamente essere ricondotto a Dio come alla sua causa prima. Allo stesso modo, tutto ciò che viene compiuto volontariamente deve anch’esso essere ricondotto a una causa superiore rispetto alla ragione o alla volontà umana, poiché queste possono cambiare o fallire; infatti, tutte le cose che sono soggette al cambiamento e capaci di errore devono necessariamente essere ricondotte a un principio primo immutabile e auto-necessario, come è stato dimostrato nel corpo dell’articolo stesso.
 
-<span class="atom-split" data-atom="006" data-title="OF THE SIMPLICITY OF GOD (EIGHT ARTICLES)" data-chapter="OF THE SIMPLICITY OF GOD (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="OF THE SIMPLICITY OF GOD (EIGHT ARTICLES)" data-chapter="OF THE SIMPLICITY OF GOD (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/essentia_existentia,concepts/infinity"></span>
 
 When the existence of a thing has been ascertained there remains the further question of the
 manner of its existence, in order that we may know its essence. Now, because we cannot know
@@ -352,7 +364,7 @@ Per quanto riguarda la Sua semplicità, ci sono otto punti da esaminare:
 (7) Se sia in qualche modo composto, o totalmente semplice;  
 (8) Se entri in composizione con altre cose.
 
-<span class="atom-split" data-atom="007" data-title="Whether God is a body?" data-chapter="Whether God is a body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether God is a body?" data-chapter="Whether God is a body?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God is a body. For a body is that which has the three dimensions.
 But Holy [Scripture](/concepts/revelation) attributes the three dimensions to God, for it is written: "He is higher than
@@ -455,7 +467,7 @@ Risposta all’Obiezione 4: Quanto riguarda la posizione del corpo, anch’essa 
 
 Risposta all’Obiezione 5: Non ci avviciniamo a Dio attraverso azioni corporee, poiché Egli è ovunque; bensì attraverso le emozioni della nostra anima e attraverso le azioni stesse di quell’anima ci allontaniamo da Lui. Pertanto, avvicinarsi o allontanarsi da Dio significa semplicemente compiere azioni spirituali, basate sulla metafora del movimento spaziale.
 
-<span class="atom-split" data-atom="008" data-title="Whether God is composed of matter and form?" data-chapter="Whether God is composed of matter and form?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether God is composed of matter and form?" data-chapter="Whether God is composed of matter and form?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/actus_purus,concepts/four_causes"></span>
 
 Objection 1: It seems that God is composed of matter and form. For whatever has a soul is
 composed of matter and form; since the soul is the form of the body. But [Scripture](/concepts/revelation) attributes a soul
@@ -518,7 +530,7 @@ Risposta all’Obiezione 2: L’ira e simili emozioni vengono attribuite a Dio i
 
 Risposta all’Obiezione 3: Le forme che possono essere ricevute nella materia vengono individualizzate dalla materia stessa; quelle, invece, che non possono essere ricevute nella materia ma sono autonome, vengono individualizzate proprio perché non possono essere accolte in alcun soggetto concreto; e tale forma è Dio. Pertanto, da ciò non segue affatto che la materia esista in Dio.
 
-<span class="atom-split" data-atom="009" data-title="Whether God is the same as His essence or nature?" data-chapter="Whether God is the same as His essence or nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether God is the same as His essence or nature?" data-chapter="Whether God is the same as His essence or nature?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God is not the same as His essence or nature. For nothing can be in
 itself. But the substance or nature of God---i.e. the Godhead---is said to be in God. Therefore it
@@ -578,7 +590,7 @@ Risposta all’Obiezione 1: Possiamo parlare di cose semplici soltanto come se f
 
 Risposta all’Obiezione 2: Gli effetti di Dio non lo imitano perfettamente, ma soltanto nella misura in cui ne sono capaci; e questa imitazione è imperfetta proprio perché ciò che è semplice e unitario può essere rappresentato solo attraverso cose diverse; pertanto, la composizione è qualcosa di accidentale per tali effetti, e quindi, in essi, il “suppostum” non coincide con la natura stessa di Dio.
 
-<span class="atom-split" data-atom="010" data-title="Whether essence and existence are the same in God?" data-chapter="Whether essence and existence are the same in God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether essence and existence are the same in God?" data-chapter="Whether essence and existence are the same in God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that [essence and existence](/concepts/essentia_existentia) are not the same in God. For if it be so, then
 the divine being has nothing added to it. Now being to which no addition is made is universal being
@@ -643,7 +655,7 @@ Risposta all’Obiezione 1: Una cosa a cui non è stato aggiunto nulla può esse
 
 Risposta all’Obiezione 2: “Essere” può significare una delle due cose seguenti: può indicare l’atto stesso dell’essenza, oppure può riferirsi alla composizione di una proposizione che avviene nel momento in cui la mente unisce un predicato a un soggetto. Se interpretiamo “essere” nel primo senso, non possiamo comprendere né l’esistenza di Dio né la sua essenza; ma solo nel secondo senso. Sappiamo che la proposizione “Dio è” è vera, e lo sappiamo grazie ai suoi effetti (Q[2], A[2]).
 
-<span class="atom-split" data-atom="011" data-title="Whether God is contained in a genus?" data-chapter="Whether God is contained in a genus?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether God is contained in a genus?" data-chapter="Whether God is contained in a genus?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/act_potency,concepts/essentia_existentia,concepts/substance,schools/scholasticism"></span>
 
 Objection 1: It seems that God is contained in a genus. For a substance is a being that subsists
 of itself. But this is especially true of God. Therefore God is in a genus of substance.
@@ -708,7 +720,7 @@ Risposta all’Obiezione 1: La parola “sostanza” indica non solo ciò che es
 
 Risposta all’Obiezione 2: Questa obiezione riguarda la misura proporzionale, che deve essere omogenea rispetto a ciò che viene misurato. Ora, Dio non è una misura proporzionale a nulla; tuttavia, viene chiamato “la misura di tutte le cose”, nel senso che tutto esiste soltanto nella misura in cui assomiglia a Lui.
 
-<span class="atom-split" data-atom="012" data-title="Whether in God there are any accidents?" data-chapter="Whether in God there are any accidents?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether in God there are any accidents?" data-chapter="Whether in God there are any accidents?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that there are accidents in God. For substance cannot be an accident, as
 [Aristotle](/figures/aristotle) says (Phys. i). Therefore that which is an accident in one, cannot, in another, be a substance.
@@ -756,7 +768,7 @@ Risposta all’Obiezione 1: La virtù e la saggezza non vengono attribuite a Dio
 
 Risposta all’Obiezione 2: Poiché la sostanza precede i suoi accidenti, i principi degli accidenti possono essere ridotti ai principi della sostanza, in quanto ciò che è prioritario; sebbene Dio non sia considerato “primo” nel senso di essere contenuto nel genere della sostanza, egli è tuttavia “primo” rispetto a ogni forma di esistenza, al di fuori di qualsiasi genere.
 
-<span class="atom-split" data-atom="013" data-title="Whether God is altogether simple?" data-chapter="Whether God is altogether simple?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether God is altogether simple?" data-chapter="Whether God is altogether simple?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/act_potency,concepts/essentia_existentia,figures/augustine"></span>
 
 Objection 1: It seems that God is not altogether simple. For whatever is from God must imitate
 Him. Thus from the first being are all beings; and from the first good is all good. But in the things
@@ -801,7 +813,7 @@ Reply to Objection 2: With us composite things are better than simple things, be
 perfections of created goodness cannot be found in one simple thing, but in many things. But the
 perfection of divine goodness is found in one simple thing (Q[4], A[1] and Q[6], A[2]).
 
-<span class="atom-split" data-atom="014" data-title="Whether God enters into the composition of other things?" data-chapter="Whether God enters into the composition of other things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether God enters into the composition of other things?" data-chapter="Whether God enters into the composition of other things?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God enters into the composition of other things, for Dionysius says
 (Coel. Hier. iv): "The being of all things is that which is above being---the Godhead." But the being
@@ -876,7 +888,7 @@ Risposta all’Obiezione 2: La Parola è una forma esemplare; ma non una forma c
 
 Risposta all’Obiezione 3: Le cose semplici non si distinguono per differenze aggiuntive, poiché questa è proprio la caratteristica dei composti. Pertanto, l’uomo e il cavallo si differenziano per le loro proprietà razionali e irrazionali; tuttavia, queste differenze stesse non si distinguono a loro volta per altre differenze ulteriori. Quindi, per essere del tutto precisi, è meglio dire che tali cose non sono diverse, ma eterogenee. Secondo il Filosofo (Metafisica, X), “le cose eterogenee sono assolutamente distinte, mentre quelle diverse si differenziano per qualcosa”. Pertanto, in senso stretto, la materia primordiale e Dio non si distinguono tra loro, ma sono, per la loro stessa essenza, eterogenee. Ciò tuttavia non significa che siano la stessa cosa.
 
-<span class="atom-split" data-atom="015" data-title="THE PERFECTION OF GOD (THREE ARTICLES)" data-chapter="THE PERFECTION OF GOD (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="THE PERFECTION OF GOD (THREE ARTICLES)" data-chapter="THE PERFECTION OF GOD (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/actus_purus,forms/quaestio,schools/scholasticism"></span>
 
 Having considered the divine simplicity, we treat next of God's perfection. Now because
 everything in so far as it is perfect is called good, we shall speak first of the divine perfection;
@@ -893,7 +905,7 @@ Dopo aver considerato la semplicità divina, passiamo ora alla perfezione di Dio
 (2) Dio è perfetto in modo universale, possedendo in sé le perfezioni di tutte le cose?  
 (3) Si può dire che le creature siano simili a Dio?
 
-<span class="atom-split" data-atom="016" data-title="Whether God is perfect?" data-chapter="Whether God is perfect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether God is perfect?" data-chapter="Whether God is perfect?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that perfection does not belong to God. For we say a thing is perfect if
 it is completely made. But it does not befit God to be made. Therefore He is not perfect.
@@ -955,7 +967,7 @@ Risposta all’Obiezione 2: Il principio materiale che, in noi, si rivela imperf
 
 Risposta all’Obiezione 3: L’esistenza è la cosa più perfetta di tutte, poiché viene paragonata a tutte le altre cose come ciò che le rende reali; infatti, nulla ha realtà se non nella misura in cui esiste. Pertanto, l’esistenza è ciò che dà attuazione a tutte le cose, anche alle loro forme. Non viene quindi paragonata ad altre cose nel ruolo di un ricevente rispetto a ciò che viene ricevuto, ma piuttosto nel ruolo di ciò che viene ricevuto rispetto al ricevente stesso. Quando dico, pertanto, dell’esistenza di un uomo, di un cavallo o di qualsiasi altra cosa, l’esistenza viene considerata come un principio formale, come qualcosa che viene ricevuto, e non come ciò che esiste in sé.
 
-<span class="atom-split" data-atom="017" data-title="Whether the perfections of all things are in God?" data-chapter="Whether the perfections of all things are in God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the perfections of all things are in God?" data-chapter="Whether the perfections of all things are in God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the perfections of all things are not in God. For God is simple, as
 shown above (Q[3], A[7]); whereas the perfections of things are many and diverse. Therefore the
@@ -1030,7 +1042,7 @@ Risposta all’Obiezione 1: Proprio come il sole (come osserva Dionigi nel “Di
 
 Risposta all’Obiezione 3: Lo stesso Dionigi afferma (Div. Nom. v) che, sebbene l’esistenza sia più perfetta della vita e la vita più perfetta della saggezza, se considerate in termini di distinzioni concettuali; tuttavia, una creatura vivente è più perfetta di ciò che esiste semplicemente, perché le creature viventi non solo esistono, ma sono anche intelligenti. Pertanto, sebbene l’esistenza non includa necessariamente la vita e la saggezza – poiché ciò che partecipa all’esistenza non deve necessariamente partecipare a tutti i suoi aspetti – l’esistenza di Dio include in sé sia la vita che la saggezza, perché nulla della perfezione dell’essere può mancare a Colui che è esso stesso l’essere perfetto.
 
-<span class="atom-split" data-atom="018" data-title="Whether any creature can be like God?" data-chapter="Whether any creature can be like God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether any creature can be like God?" data-chapter="Whether any creature can be like God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that no creature can be like God. For it is written (Ps. 85:8): "There is
 none among the gods like unto Thee, O Lord." But of all creatures the most excellent are those
@@ -1117,7 +1129,7 @@ Risposta all’Obiezione 3: La somiglianza delle creature con Dio non viene affe
 
 Risposta all’Obiezione 4: Anche se si possa ammettere che le creature siano in qualche modo simili a Dio, non si può assolutamente ammettere che Dio sia simile alle creature; perché, come dice Dionigi (Div. Nom. IX): “Una somiglianza reciproca può esistere tra cose dello stesso ordine, ma non tra una causa e ciò che ne è effetto”. Infatti, diciamo che una statua è simile a un uomo, ma non il contrario; allo stesso modo, si può affermare che una creatura sia in qualche modo simile a Dio, ma non che Dio sia simile a una creatura.
 
-<span class="atom-split" data-atom="019" data-title="OF GOODNESS IN GENERAL (SIX ARTICLES)" data-chapter="OF GOODNESS IN GENERAL (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="OF GOODNESS IN GENERAL (SIX ARTICLES)" data-chapter="OF GOODNESS IN GENERAL (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/analogy_of_being,concepts/cause,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 We next consider goodness: First, goodness in general. Secondly, the goodness of God.
 Under the first head there are six points of inquiry:
@@ -1139,7 +1151,7 @@ All’interno della prima categoria vi sono sei punti di indagine:
 (5) La bontà consiste forse in modi, specie e ordine?  
 (6) La bontà si divide forse nelle virtù, negli elementi utili e in ciò che è piacevole?
 
-<span class="atom-split" data-atom="020" data-title="Whether goodness differs really from being?" data-chapter="Whether goodness differs really from being?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether goodness differs really from being?" data-chapter="Whether goodness differs really from being?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,figures/augustine,schools/scholasticism"></span>
 
 Objection 1: It seems that goodness differs really from being. For Boethius says (De Hebdom.):
 "I perceive that in nature the fact that things are good is one thing: that they are is another." Therefore
@@ -1189,7 +1201,7 @@ actuality.
 Reply to Objection 3: Again, goodness is spoken of as more or less according to a thing's
 superadded actuality, for example, as to knowledge or virtue.
 
-<span class="atom-split" data-atom="021" data-title="Whether goodness is prior in idea to being?" data-chapter="Whether goodness is prior in idea to being?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether goodness is prior in idea to being?" data-chapter="Whether goodness is prior in idea to being?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that goodness is prior in idea to being. For [names](/positions/nominalism) are arranged according
 to the arrangement of the things signified by the names. But Dionysius (Div. Nom. iii) assigned
@@ -1273,7 +1285,7 @@ Risposta all’Obiezione 3: L’inesistenza è desiderabile, non di per sé, ma 
 
 Risposta all’Obiezione 4: La vita, la saggezza e simili sono desiderabili soltanto nella misura in cui sono reali. Pertanto, in ciascuno di essi è desiderabile qualche forma di essere. E quindi nulla può essere desiderato se non l’essere stesso; e di conseguenza, nulla è buono se non l’essere stesso.
 
-<span class="atom-split" data-atom="022" data-title="Whether every being is good?" data-chapter="Whether every being is good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether every being is good?" data-chapter="Whether every being is good?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that not every being is good. For goodness is something superadded to
 being, as is clear from A[1]. But whatever is added to being limits it; as substance, quantity, quality,
@@ -1342,7 +1354,7 @@ Risposta all’Obiezione 3: Poiché la materia primaria possiede soltanto un ess
 
 Risposta all’Obiezione 4: Le entità matematiche non esistono come realtà concreta; infatti, se esistessero in questo modo, avrebbero una sorta di “bontà”; ma hanno soltanto un’esistenza logica, poiché sono astratte da concetti legati al movimento e alla materia. Pertanto, non possono possedere le caratteristiche di un fine, che a sua volta presupone la capacità di muovere qualcos’altro. Inoltre, non è affatto contraddittorio che in un’entità logica non vi sia né bontà né alcuna forma di essa; infatti, l’idea di “essere” precede l’idea di “bontà”, come già detto nell’articolo precedente.
 
-<span class="atom-split" data-atom="023" data-title="Whether goodness has the aspect of a final cause?" data-chapter="Whether goodness has the aspect of a final cause?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether goodness has the aspect of a final cause?" data-chapter="Whether goodness has the aspect of a final cause?" data-kind="atom" data-srclang="en" data-tags="concepts/four_causes,concepts/beauty,concepts/forma_substantialis,figures/augustine"></span>
 
 Objection 1: It seems that goodness has not the aspect of a [final cause](/concepts/four_causes), but rather of the other
 causes. For, as Dionysius says (Div. Nom. iv), "Goodness is praised as [beauty](/concepts/beauty)." But beauty has the
@@ -1408,7 +1420,7 @@ Risposta all’Obiezione 2: La bontà viene descritta come “autodiffusiva”, 
 
 Risposta all’Obiezione 3: Si dice che colui che possiede una volontà buona sia buono, nella misura in cui tale volontà è effettivamente buona; infatti è attraverso la nostra volontà che utilizziamo tutte le facoltà che possediamo. Pertanto, un uomo viene considerato buono non per la sua intelligenza, ma per la sua volontà buona. Ora, la volontà è legata al fine, ovvero all’oggetto proprio delle nostre azioni. Da ciò deriva l’espressione “Esistiamo perché Dio è buono”, che si riferisce alla causa finale dell’esistenza umana.
 
-<span class="atom-split" data-atom="024" data-title="Whether the essence of goodness consists in mode, species and order? (parte 1)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether the essence of goodness consists in mode, species and order? (parte 1)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the essence of goodness does not consist in mode, species and order.
 For goodness and being differ logically. But mode, species and order seem to belong to the nature
@@ -1521,7 +1533,7 @@ the pleasant.
 Reply to Objection 1: Goodness, so far as it is identical with being, is divided by the ten
 predicaments. But this division belongs to it according to its proper formality.
 
-<span class="atom-split" data-atom="025" data-title="Whether the essence of goodness consists in mode, species and order? (parte 2)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the essence of goodness consists in mode, species and order? (parte 2)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom" data-srclang="en" data-tags="concepts/analogy_of_being,schools/scholasticism"></span>
 
 Reply to Objection 2: This division is not by opposite things; but by opposite aspects. Now
 those things are called pleasing which have no other formality under which they are desirable except
@@ -1540,7 +1552,7 @@ Risposta all’Obiezione 2: Questa divisione non si basa su cose opposte, ma su 
 
 Risposta all’Obiezione 3: La bontà non si divide in queste tre categorie come qualcosa di univoco che possa essere attribuito ugualmente a tutte; ma come qualcosa di analogico che possa essere attribuito loro in base a priorità e posteriorità. Pertanto, viene principalmente attribuita ai virtuosi; poi a ciò che è piacevole; e infine a ciò che è utile.
 
-<span class="atom-split" data-atom="026" data-title="THE GOODNESS OF GOD (FOUR ARTICLES)" data-chapter="THE GOODNESS OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="THE GOODNESS OF GOD (FOUR ARTICLES)" data-chapter="THE GOODNESS OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We next consider the goodness of God; under which head there are four points of inquiry:
 (1) Whether goodness belongs to God?
@@ -1556,7 +1568,7 @@ Esaminiamo ora la bontà di Dio; in questo ambito vi sono quattro punti da consi
 (3) È solo Lui essenzialmente buono?  
 (4) Sono tutte le cose buone grazie alla bontà divina?
 
-<span class="atom-split" data-atom="027" data-title="Whether God is good?" data-chapter="Whether God is good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether God is good?" data-chapter="Whether God is good?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that to be good does not belong to God. For goodness consists in mode,
 species and order. But these do not seem to belong to God; since God is immense and is not ordered
@@ -1603,7 +1615,7 @@ Risposta all’Obiezione 1: Avere modalità, specie e ordine appartiene essenzia
 
 Risposta all’Obiezione 2: Tutte le cose, desiderando la propria perfezione, desiderano Dio stesso, poiché le perfezioni di tutte le cose costituiscono tante immagini della divinità; come risulta da quanto detto sopra (Q[4], A[3]). E lo stesso vale per quelle cose che desiderano Dio: alcune Lo conoscono così com’È veramente, e questo è proprio delle creature razionali; altre conoscono soltanto una parte della Sua bontà, e questa conoscenza appartiene anche alla sfera dell’intuizione sensibile; altre ancora provano un desiderio naturale, senza alcuna vera conoscenza, poiché il loro agire è guidato da una intelligenza superiore.
 
-<span class="atom-split" data-atom="028" data-title="Whether God is the supreme good?" data-chapter="Whether God is the supreme good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether God is the supreme good?" data-chapter="Whether God is the supreme good?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God is not the supreme good. For the supreme good adds something
 to good; otherwise it would belong to every good. But everything which is an addition to anything
@@ -1652,7 +1664,7 @@ good things; not that He is any other genus, but that He is outside genus, and i
 every genus; and thus He is compared to others by excess, and it is this kind of comparison the
 supreme good implies.
 
-<span class="atom-split" data-atom="029" data-title="Whether to be essentially good belongs to God alone?" data-chapter="Whether to be essentially good belongs to God alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether to be essentially good belongs to God alone?" data-chapter="Whether to be essentially good belongs to God alone?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that to be essentially good does not belong to God alone. For as "one"
 is convertible with "being," so is "good"; as we said above (Q[5], A[1]). But every being is one
@@ -1718,7 +1730,7 @@ Risposta all’Obiezione 2: Sebbene tutto sia buono nel senso che esiste, l’es
 
 Risposta all’Obiezione 3: La bontà di una creatura non è la sua essenza stessa, ma qualcosa che le viene aggiunto; può trattarsi della sua esistenza, di qualche perfezione ulteriore, o dell’ordine che conduce al suo scopo. Tuttavia, questa bontà aggiunta è essa stessa buona, proprio come lo è l’esistenza stessa della creatura. Per questo motivo viene chiamata “esistenza”, perché grazie a essa qualcosa esiste; non perché essa stessa abbia un’essenza che dipenda da altro: allo stesso modo, viene chiamata “bontà”, perché grazie a lei qualcosa diventa buono, e non perché essa stessa possieda una bontà intrinseca che la renda tale.
 
-<span class="atom-split" data-atom="030" data-title="Whether all things are good by the divine goodness?" data-chapter="Whether all things are good by the divine goodness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether all things are good by the divine goodness?" data-chapter="Whether all things are good by the divine goodness?" data-kind="atom" data-srclang="en" data-tags="concepts/methexis,concepts/analogy_of_being,figures/augustine,figures/plato,figures/aristotle"></span>
 
 Objection 1: It seems that all things are good by the divine goodness. For [Augustine](/figures/augustine) says (De
 Trin. viii), "This and that are good; take away this and that, and see good itself if thou canst; and
@@ -1767,7 +1779,7 @@ Al contrario, tutte le cose sono buone nella misura in cui esistono. Tuttavia, n
 
 Rispondo che, per quanto riguarda le cose relative, dobbiamo ammettere l’esistenza di denominazioni esterne: ad esempio, una cosa viene chiamata “posta” in base al concetto di “luogo”, e “misurata” in base a quello di “misura”. Tuttavia, per quanto riguarda le cose assolute, le opinioni divergono. Platone riteneva l’esistenza di idee separate per tutte le cose, e che gli individui venissero denominati in base al loro partecipare a queste idee; ad esempio, [Socrate](/figures/socrates) viene chiamato “uomo” perché partecipa all’idea astratta di “uomo”. Proprio come Platone stabilì idee separate per l’“uomo” e il “cavallo”, definendole rispettivamente “uomo assoluto” e “cavallo assoluto”, così stabilì anche idee separate per “essere” e “uno”, chiamandole “essere assoluto” e “unità assoluta”; tutto ciò che partecipa a queste idee viene quindi definito “essere” o “uno”. Quello che è “essere assoluto” e “unità assoluta”, secondo Platone, è il bene supremo. Poiché il bene è sinonimo di essere, così come l’“uno”, Platone chiamò Dio il bene assoluto, da cui tutte le cose derivano la loro bontà attraverso il partecipare a queste idee. Anche se questa dottrina sembra irragionevole nell’affermare che esistano idee separate per le cose naturali in sé stesse – come sostiene [Aristotele](/figures/aristotle) in molti modi – è comunque assolutamente vero che esiste qualcosa che è essenzialmente essere e essenzialmente bene; questo qualcosa lo chiamiamo Dio, come emerge da quanto detto sopra (Q[2], A[3]), e anche Aristotele concorda su questo punto. Pertanto, da questo essere primordiale, essenzialmente tale e buono, tutto può essere definito “bene” ed “essere”, nella misura in cui vi partecipa attraverso un processo di assimilazione che è lontano dall’essere perfetto; come si evince ancora da quanto detto sopra (Q[4], A[3]). Tutto, quindi, viene definito “bene” a causa della bontà divina, che rappresenta il principio esemplare, efficace e finale di ogni forma di bontà. Tuttavia, tutte le cose vengono chiamate “bene” anche in base alla somiglianza con questa bontà divina, che è formalmente la loro stessa bontà; per questo motivo vengono definite “buone”. Esiste quindi una sola bontà in sé, ma molteplici forme di bontà nelle cose. Questa risposta è sufficiente a confutare le obiezioni avanzate.
 
-<span class="atom-split" data-atom="031" data-title="THE INFINITY OF GOD (FOUR ARTICLES)" data-chapter="THE INFINITY OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="THE INFINITY OF GOD (FOUR ARTICLES)" data-chapter="THE INFINITY OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/infinity"></span>
 
 After considering the divine perfection we must consider the divine [infinity](/concepts/infinity), and God's existence
 in things: for God is everywhere, and in all things, inasmuch as He is boundless and infinite.
@@ -1785,7 +1797,7 @@ Dopo aver considerato la perfezione divina, dobbiamo esaminare l’infinità div
 (3) È possibile che qualcosa possieda dimensioni infinite?  
 (4) Può esistere un numero infinito di entità?
 
-<span class="atom-split" data-atom="032" data-title="Whether God is infinite?" data-chapter="Whether God is infinite?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether God is infinite?" data-chapter="Whether God is infinite?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/infinity,concepts/act_potency,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God is not infinite. For everything infinite is imperfect, as the
 Philosopher says; because it has parts and matter, as is said in Phys. iii. But God is most perfect;
@@ -1852,7 +1864,7 @@ Risposta all’Obiezione 2: La quantità è delimitata dalla sua forma, come si 
 
 Risposta all’Obiezione 3: Il fatto che l’esistenza di Dio sia autonoma, non derivi da nulla altro e quindi venga definita “infinita”, dimostra che Egli è distinto da tutte le altre entità, e che queste ultime sono separate da Lui. Anche se esistesse una qualche forma di “bianchezza” autonoma, il semplice fatto che essa non si trovasse in nulla altro la renderebbe distinta da ogni altra forma di bianchezza esistente in un soggetto.
 
-<span class="atom-split" data-atom="033" data-title="Whether anything but God can be essentially infinite?" data-chapter="Whether anything but God can be essentially infinite?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether anything but God can be essentially infinite?" data-chapter="Whether anything but God can be essentially infinite?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that something else besides God can be essentially infinite. For the power
 of anything is proportioned to its essence. Now if the essence of God is infinite, His power must
@@ -1916,7 +1928,7 @@ Risposta all’Obiezione 2: Il fatto che il potere dell’intelletto si estenda 
 
 Risposta all’Obiezione 3: La materia primaria non esiste di per sé nella natura, poiché non è un essere reale, ma soltanto potenziale; pertanto è qualcosa che viene “concreata”, piuttosto che creata ex nihilo. Tuttavia, anche in quanto potenzialità, la materia primaria non è assolutamente infinita, ma relativa, poiché la sua potenzialità si estende soltanto alle forme naturali.
 
-<span class="atom-split" data-atom="034" data-title="Whether an actually infinite magnitude can exist?" data-chapter="Whether an actually infinite magnitude can exist?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether an actually infinite magnitude can exist?" data-chapter="Whether an actually infinite magnitude can exist?" data-kind="atom" data-srclang="en" data-tags="concepts/infinity,concepts/act_potency,concepts/forma_substantialis,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that there can be something actually infinite in magnitude. For in
 mathematics there is no error, since "there is no lie in things abstract," as the Philosopher says
@@ -2012,7 +2024,7 @@ Risposta all’Obiezione 3: L’infinito in termini di quantità, come è stato 
 
 Risposta all’Obiezione 4: Movimento e tempo sono entità complete, non nel senso di essere realmente tali, ma nel senso di esistere in modo successivo; pertanto possiedono una [potenzialità](/concepts/act_potency) mescolata con l’attualità. Tuttavia, la grandezza è un’entità completamente attuale; quindi ciò che è infinito in termini di quantità si riferisce alla materia e non coincide con la totalità della grandezza stessa; invece coincide con la totalità del tempo e del movimento, poiché è proprio della materia trovarsi in uno stato di potenzialità.
 
-<span class="atom-split" data-atom="035" data-title="Whether an infinite multitude can exist?" data-chapter="Whether an infinite multitude can exist?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether an infinite multitude can exist?" data-chapter="Whether an infinite multitude can exist?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/infinity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that an actually infinite multitude is possible. For it is not impossible for
 a [potentiality](/concepts/act_potency) to be made actual. But number can be multiplied to [infinity](/concepts/infinity). Therefore it is possible
@@ -2088,7 +2100,7 @@ Risposta all’Obiezione 2: Le specie di figure sono infinite in termini di nume
 
 Risposta all’Obiezione 3: Sebbene l’ipotesi di alcune cose non escluda l’ipotesi di altre, l’ipotesi di un numero infinito è comunque contraria a qualsiasi tipo di molteplicità finita. Pertanto, non è possibile che esista una molteplicità effettivamente infinita.
 
-<span class="atom-split" data-atom="036" data-title="THE EXISTENCE OF GOD IN THINGS (FOUR ARTICLES)" data-chapter="THE EXISTENCE OF GOD IN THINGS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="THE EXISTENCE OF GOD IN THINGS (FOUR ARTICLES)" data-chapter="THE EXISTENCE OF GOD IN THINGS (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/infinity,forms/quaestio,schools/scholasticism"></span>
 
 Since it evidently belongs to the infinite to be present everywhere, and in all things, we now
 consider whether this belongs to God; and concerning this there arise four points of inquiry:
@@ -2105,7 +2117,7 @@ Poiché è evidente che l’infinito sia presente ovunque e in tutte le cose, or
 (3) Dio è davvero presente ovunque in termini di essenza, potere e realtà concreta?  
 (4) Il fatto di essere “ovunque” appartiene esclusivamente a Dio?
 
-<span class="atom-split" data-atom="037" data-title="Whether God is in all things?" data-chapter="Whether God is in all things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether God is in all things?" data-chapter="Whether God is in all things?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God is not in all things. For what is above all things is not in all
 things. But God is above all, according to the Psalm (Ps. 112:4), "The Lord is high above all nations,"
@@ -2180,7 +2192,7 @@ Risposta all’Obiezione 3: Nessuna azione di un agente, per quanto potente poss
 
 Risposta all’Obiezione 4: Nei demoni esiste la loro natura, che proviene da Dio, ma anche la deformità derivante dal peccato, che non proviene da Lui; pertanto, non si può ammettere assolutamente che Dio sia nei demoni, se non aggiungendo “in quanto esseri viventi”. Tuttavia, nelle cose che non sono deformate nella loro natura, dobbiamo affermare assolutamente che Dio vi è.
 
-<span class="atom-split" data-atom="038" data-title="Whether God is everywhere?" data-chapter="Whether God is everywhere?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether God is everywhere?" data-chapter="Whether God is everywhere?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God is not everywhere. For to be everywhere means to be in every
 place. But to be in every place does not belong to God, to Whom it does not belong to be in place
@@ -2258,7 +2270,7 @@ Risposta all’Obiezione 3: Un tutto viene definito tale in relazione alle sue p
 1. Una parte dell’essenza stessa; ad esempio, la forma e la materia sono considerate parti di un composto, mentre genere e differenza sono considerate parti di una specie.  
 2. Una parte in termini di quantità; qualsiasi quantità può essere divisa in tali parti. Quindi, ciò che è considerato un tutto in base alla quantità totale non può esistere al di fuori di quel contesto, poiché la quantità di una cosa è sempre commensurabile con la quantità del luogo in cui essa si trova; pertanto, non esiste una quantità totale senza un luogo totale. Tuttavia, l’essenza stessa non è commensurabile con la quantità totale di un luogo; quindi non è necessario che ciò che è considerato un tutto in base all’essenza si trovi necessariamente al di fuori di quel contesto. Questo principio si applica anche alle forme accidentali che possiedono una quantità accidentale: ad esempio, la bianchezza è considerata un tutto in ogni parte della superficie su cui si manifesta, se si considera l’essenza stessa di tale forma; poiché, secondo l’idea perfetta della sua specie, essa esiste effettivamente in ogni parte di quella superficie. Tuttavia, se si considera la quantità accidentale che essa possiede, allora non è più considerata un tutto in ogni singola parte della superficie. D’altra parte, le sostanze incorporee non possiedono alcuna totalità, né in sé stesse né in relazione alle loro qualità accidentali, se non in riferimento all’idea perfetta della loro essenza. Pertanto, così come l’anima è un tutto in ogni parte del corpo, anche Dio è un tutto in tutte le cose e in ciascuna di esse.
 
-<span class="atom-split" data-atom="039" data-title="Whether God is everywhere by essence, presence and power?" data-chapter="Whether God is everywhere by essence, presence and power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether God is everywhere by essence, presence and power?" data-chapter="Whether God is everywhere by essence, presence and power?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the mode of God's existence in all things is not properly described
 by way of essence, presence and power. For what is by essence in anything, is in it essentially. But
@@ -2352,7 +2364,7 @@ Risposta all’Obiezione 3: La conoscenza e la volontà richiedono che l’ogget
 
 Risposta all’Obiezione 4: Nessun’altra perfezione, se non la grazia, aggiunta alla sostanza, rende Dio presente in qualcosa come oggetto conosciuto e amato; pertanto solo la grazia costituisce un modo speciale dell’esistenza di Dio nelle cose. Esiste tuttavia un altro modo speciale dell’esistenza di Dio nell’uomo attraverso l’unione, di cui si parlerà in un contesto specifico (TP).
 
-<span class="atom-split" data-atom="040" data-title="Whether to be everywhere belongs to God alone?" data-chapter="Whether to be everywhere belongs to God alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Whether to be everywhere belongs to God alone?" data-chapter="Whether to be everywhere belongs to God alone?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that to be everywhere does not belong to God alone. For the universal,
 according to the Philosopher (Poster. i), is everywhere, and always; primary matter also, since it
@@ -2453,7 +2465,7 @@ Risposta all’Obiezione 5: Se esistesse un solo animale, la sua anima sarebbe o
 
 Risposta all’Obiezione 6: Quando si afferma che l’anima “vede ovunque”, ciò può essere inteso in due modi diversi. In un senso, l’avverbio “ovunque” indica che l’atto di vedere è compiuto dall’anima stessa; e in questo caso è vero che, quando l’anima vede il cielo, lo vede effettivamente nel cielo stesso; allo stesso modo, quando percepisce qualcosa, questa percezione avviene all’interno dell’anima stessa. Tuttavia, da ciò non si può concludere che l’anima “viva” o “esista” nel cielo, poiché vivere ed esistere non significano necessariamente che un’entità si estenda verso un oggetto esterno. In un altro senso, l’espressione “vede ovunque” può essere interpretata nel senso che l’atto di vedere è compiuto dall’anima in relazione all’oggetto osservato; e in questo caso è vero che, dove l’anima percepisce o vede qualcosa, là essa si trova effettivamente. Tuttavia, anche in questo caso non si può concludere che l’anima sia “ovunque”.
 
-<span class="atom-split" data-atom="041" data-title="THE IMMUTABILITY OF GOD (TWO ARTICLES)" data-chapter="THE IMMUTABILITY OF GOD (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="THE IMMUTABILITY OF GOD (TWO ARTICLES)" data-chapter="THE IMMUTABILITY OF GOD (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/eternity,forms/quaestio"></span>
 
 We next consider God's immutability, and His [eternity](/positions/eternity) following on His immutability. On the
 immutability of God there are two points of inquiry:
@@ -2466,7 +2478,7 @@ Esaminiamo ora l’immutabilità di Dio e la Sua [eternità](/positions/eternity
 (1) Se Dio sia del tutto immutabile;  
 (2) Se l’essere immutabile appartenga esclusivamente a Dio.
 
-<span class="atom-split" data-atom="042" data-title="Whether God is altogether immutable?" data-chapter="Whether God is altogether immutable?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether God is altogether immutable?" data-chapter="Whether God is altogether immutable?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/actus_purus,concepts/act_potency,figures/augustine"></span>
 
 Objection 1: It seems that God is not altogether immutable. For whatever moves itself is in
 some way mutable. But, as [Augustine](/figures/augustine) says (Gen. ad lit viii, 20), "The Creator Spirit moves Himself
@@ -2536,7 +2548,7 @@ Risposta all’Obiezione 2: La saggezza viene definita “mobile” in senso fig
 
 Risposta all’Obiezione 3: Queste cose vengono dette di Dio nella Scrittura in senso metaforico. Poiché si dice che il sole entri in una casa o ne esca, a seconda che i suoi raggi raggiungano o meno quella casa, allo stesso modo si dice che Dio si avvicini a noi o si allontani da noi, quando riceviamo l’effetto benefico della Sua bontà o ci allontaniamo da Lui.
 
-<span class="atom-split" data-atom="043" data-title="Whether to be immutable belongs to God alone?" data-chapter="Whether to be immutable belongs to God alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether to be immutable belongs to God alone?" data-chapter="Whether to be immutable belongs to God alone?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/forma_substantialis,concepts/infinity,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It seems that to be immutable does not belong to God alone. For the Philosopher
 says (Metaph. ii) that "matter is in everything which is moved." But, according to some, certain
@@ -2611,7 +2623,7 @@ variation; but they are subject to variation because by them their subject is va
 clear that they vary in so far as they are; for they are not called beings as though they were the
 subject of being, but because through them something has being.
 
-<span class="atom-split" data-atom="044" data-title="THE ETERNITY OF GOD (SIX ARTICLES)" data-chapter="THE ETERNITY OF GOD (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="THE ETERNITY OF GOD (SIX ARTICLES)" data-chapter="THE ETERNITY OF GOD (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/eternity,concepts/time"></span>
 
 We must now consider the [eternity](/positions/eternity) of God, concerning which arise six points of inquiry:
 (1) What is eternity?
@@ -2629,7 +2641,7 @@ Dobbiamo ora considerare l’[eternità](/positions/eternity) di Dio, su cui sor
 (4) L’eternità differisce dal tempo?
 (5) In che consiste la differenza tra “aeviternità” e tempo, considerando che esiste un solo tempo e un’unica eternità?
 
-<span class="atom-split" data-atom="045" data-title="Whether this is a good definition of eternity, \&quot;The simultaneously-whole and perfect possession of interminable life\&quot;?" data-chapter="Whether this is a good definition of eternity, \&quot;The simultaneously-whole and perfect possession of interminable life\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether this is a good definition of eternity, \&quot;The simultaneously-whole and perfect possession of interminable life\&quot;?" data-chapter="Whether this is a good definition of eternity, \&quot;The simultaneously-whole and perfect possession of interminable life\&quot;?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 # Whether this is a good definition of eternity, "The simultaneously-whole and perfect possession of interminable life"?
 
@@ -2725,7 +2737,7 @@ Risposta all’Obiezione 5: Nel tempo bisogna considerare due aspetti: il tempo 
 
 Risposta all’Obiezione 6: Quello che è posseduto viene tenuto saldamente e in modo tranquillo; pertanto, per indicare l’immutabilità e la permanenza dell’eternità, utilizziamo il termine “possesso”.
 
-<span class="atom-split" data-atom="046" data-title="Whether God is eternal?" data-chapter="Whether God is eternal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether God is eternal?" data-chapter="Whether God is eternal?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/eternity,concepts/time,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It seems that God is not eternal. For nothing made can be predicated of God; for
 Boethius says (De Trin. iv) that, "The now that flows away makes time, the now that stands still
@@ -2799,7 +2811,7 @@ Risposta all’Obiezione 3: L’eternità non è altro che Dio stesso. Pertanto,
 
 Risposta all’Obiezione 4: Le parole che indicano diversi tempi vengono usate per riferirsi a Dio, perché la Sua eternità include tutti i tempi; non come se Lui stesso cambiasse nel corso del presente, del passato o del futuro.
 
-<span class="atom-split" data-atom="047" data-title="Whether to be eternal belongs to God alone?" data-chapter="Whether to be eternal belongs to God alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Whether to be eternal belongs to God alone?" data-chapter="Whether to be eternal belongs to God alone?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/eternity,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It seems that it does not belong to God alone to be eternal. For it is written that
 "those who instruct many to justice," shall be "as stars unto perpetual eternities [*Douay: 'for all
@@ -2861,7 +2873,7 @@ Risposta all’Obiezione 2: Il fuoco dell’inferno viene definito eterno soltan
 
 Risposta all’Obiezione 3: “Necessario” indica un certo modo di verità; e la verità, secondo il Filosofo (Metafisica VI), risiede nella mente. Pertanto, in questo senso, ciò che è vero e necessario è eterno, poiché esiste nella mente eterna, che non è altro che l’intelletto divino; da ciò non consegue affatto che qualcosa al di fuori di Dio sia eterno.
 
-<span class="atom-split" data-atom="048" data-title="Whether eternity differs from time? (parte 1)" data-chapter="Whether eternity differs from time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether eternity differs from time? (parte 1)" data-chapter="Whether eternity differs from time?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that [eternity](/positions/eternity) does not differ from time. For two measures of duration
 cannot exist together, unless one is part of the other; for instance two days or two hours cannot be
@@ -2945,7 +2957,7 @@ impossible. Therefore aeviternity does not differ from time.
 On the contrary, Boethius says (De Consol. iii) "Who commandest time to be separate from
 aeviternity."
 
-<span class="atom-split" data-atom="049" data-title="Whether eternity differs from time? (parte 2)" data-chapter="Whether eternity differs from time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Whether eternity differs from time? (parte 2)" data-chapter="Whether eternity differs from time?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 I answer that, Aeviternity differs from time, and from [eternity](/positions/eternity), as the mean between them
 both. This difference is explained by some to consist in the fact that eternity has neither beginning
@@ -3016,7 +3028,7 @@ Risposta all’Obiezione 3: Nell’essere stesso di un angelo considerato in mod
 
 Risposta all’Obiezione 4: La durata dell’eternità è infinita, poiché non viene delimitata dal tempo. Pertanto, non vi è alcuna incongruenza nell’affermare che una creatura sia infinita, poiché non è limitata da alcun’altra creatura.
 
-<span class="atom-split" data-atom="050" data-title="Whether there is only one aeviternity?" data-chapter="Whether there is only one aeviternity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Whether there is only one aeviternity?" data-chapter="Whether there is only one aeviternity?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that there is not only one aeviternity; for it is written in the apocryphal
 books of Esdras: "Majesty and power of ages are with Thee, O Lord."
@@ -3109,7 +3121,7 @@ Risposta all’Obiezione 3: Non tutte le cose temporali sono iniziate contempora
 
 Risposta all’Obiezione 4: Affinché le cose possano essere misurate con un certo elemento, non è necessario che tale elemento sia la causa di tutte le altre, ma basta che sia più semplice delle altre.
 
-<span class="atom-split" data-atom="051" data-title="THE UNITY OF GOD (FOUR ARTICLES)" data-chapter="THE UNITY OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="THE UNITY OF GOD (FOUR ARTICLES)" data-chapter="THE UNITY OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,forms/quaestio,schools/scholasticism"></span>
 
 After the foregoing, we consider the divine unity; concerning which there are four points of
 inquiry:
@@ -3126,7 +3138,7 @@ Dopo quanto preceduto, consideriamo l’unità divina; a proposito della quale v
 (3) Se Dio sia uno.  
 (4) Se Egli sia, nel massimo grado possibile, uno.
 
-<span class="atom-split" data-atom="052" data-title="Whether \&quot;one\&quot; adds anything to \&quot;being\&quot;?" data-chapter="Whether \&quot;one\&quot; adds anything to \&quot;being\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="Whether \&quot;one\&quot; adds anything to \&quot;being\&quot;?" data-chapter="Whether \&quot;one\&quot; adds anything to \&quot;being\&quot;?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 # Whether "one" adds anything to "being"?
 
@@ -3208,7 +3220,7 @@ Risposta all’Obiezione 2: Non esiste nulla che impedisca a una cosa di essere,
 
 Risposta all’Obiezione 3: Non si può concludere che sia inutile affermare che “essere” è “uno”, poiché “uno” aggiunge un’idea a “essere”.
 
-<span class="atom-split" data-atom="053" data-title="Whether \&quot;one\&quot; and \&quot;many\&quot; are opposed to each other?" data-chapter="Whether \&quot;one\&quot; and \&quot;many\&quot; are opposed to each other?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="Whether \&quot;one\&quot; and \&quot;many\&quot; are opposed to each other?" data-chapter="Whether \&quot;one\&quot; and \&quot;many\&quot; are opposed to each other?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 # Whether "one" and "many" are opposed to each other?
 
@@ -3303,7 +3315,7 @@ Risposta all’Obiezione 3: “Molti” può essere inteso in due modi: in senso
 
 Risposta all’Obiezione 4: “Uno” si oppone a “molti” in senso privativo, poiché l’idea di “molti” implica divisione. Pertanto, la divisione deve essere precedente all’unità, non assolutamente in sé stessa, ma secondo il nostro modo di comprenderla. Infatti, comprendiamo le cose semplici attraverso quelle composte; per questo definiamo un punto come “ciò che non ha parti”, ovvero “l’inizio di una linea”. Anche l’idea di “moltitudine” deriva da quella di “uno”: non comprendiamo le cose divise in termini di moltitudine se non attribuendo unità a ciascuna delle loro parti. Per questo motivo “uno” viene incluso nella definizione di “moltitudine”, ma “moltitudine” no in quella di “uno”. La divisione, invece, si comprende a partire dalla stessa negazione dell’essere: quindi, ciò che prima viene in mente è l’essere; successivamente, il fatto che questo essere non sia un altro tipo di essere; da qui deriva la nozione di divisione; infine, le nozioni di “uno” e “moltitudine”.
 
-<span class="atom-split" data-atom="054" data-title="Whether God is one?" data-chapter="Whether God is one?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="Whether God is one?" data-chapter="Whether God is one?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God is not one. For it is written "For there be many gods and many
 lords" (1 Cor. 8:5).
@@ -3365,7 +3377,7 @@ Risposta all’Obiezione 1: Gli dèi vengono chiamati “molti” a causa dell�
 
 Risposta all’Obiezione 2: “L’uno”, che è il principio del numero, non si applica a Dio, ma soltanto alle cose materiali. Infatti, il concetto di “uno” come principio del numero appartiene al “genere” della matematica, che riguarda entità materiali e viene astratto dalla materia soltanto a livello concettuale. Tuttavia, l’“uno” che può essere associato all’essere è un ente metafisico che non dipende dalla materia per la sua esistenza. E sebbene in Dio non vi sia alcuna privazione, secondo il modo in cui noi lo comprendiamo, Egli ci è conosciuto soltanto attraverso concetti legati alla privazione e all’allontanamento da certe caratteristiche materiali. Pertanto, non c’è motivo per cui un certo tipo di privazione non possa essere attribuito a Dio; ad esempio, il fatto che Egli sia incorporeo e infinito. E allo stesso modo si dice di Dio che Egli è “uno”.
 
-<span class="atom-split" data-atom="055" data-title="Whether God is supremely one?" data-chapter="Whether God is supremely one?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Whether God is supremely one?" data-chapter="Whether God is supremely one?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God is not supremely "one." For "one" is so called from the privation
 of division. But privation cannot be greater or less. Therefore God is not more "one" than other
@@ -3421,7 +3433,7 @@ Risposta all’Obiezione 2: Un punto e un’unità che siano il principio del nu
 
 Risposta all’Obiezione 3: Sebbene ogni essere sia “uno” per la sua sostanza, tuttavia non tutte le sostanze sono ugualmente causa di unità; infatti, la sostanza di alcune cose è composta, mentre quella di altre è semplice.
 
-<span class="atom-split" data-atom="056" data-title="HOW GOD IS KNOWN BY US (THIRTEEN ARTICLES)" data-chapter="HOW GOD IS KNOWN BY US (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="HOW GOD IS KNOWN BY US (THIRTEEN ARTICLES)" data-chapter="HOW GOD IS KNOWN BY US (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 As hitherto we have considered God as He is in Himself, we now go on to consider in what
 manner He is in the knowledge of creatures; concerning which there are thirteen points of inquiry:
@@ -3458,7 +3470,7 @@ Poiché finora abbiamo considerato Dio così come Egli è in Sé stesso, ora pas
 (12) Con la ragione naturale possiamo conoscere Dio in questa vita?  
 (13) Esiste nella vita presente qualche forma di conoscenza di Dio che trascende quella ottenibile attraverso la ragione naturale, grazie alla grazia divina?
 
-<span class="atom-split" data-atom="057" data-title="Whether any created intellect can see the essence of God?" data-chapter="Whether any created intellect can see the essence of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Whether any created intellect can see the essence of God?" data-chapter="Whether any created intellect can see the essence of God?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/actus_purus,concepts/act_potency,concepts/infinity"></span>
 
 Objection 1: It seems that no created intellect can see the essence of God. For Chrysostom
 (Hom. xiv. in Joan.) commenting on Jn. 1:18, "No man hath seen God at any time," says: "Not
@@ -3541,7 +3553,7 @@ Risposta all’Obiezione 3: Si afferma che Dio non esista non nel senso che non 
 
 Risposta all’Obiezione 4: La proporzione è duplice. In un senso, indica una determinata relazione tra due quantità, secondo che “doppio”, “triplo” ed “uguale” siano considerati tipi di proporzione. In un altro senso, qualsiasi relazione tra due cose può essere definita proporzione. E in questo senso, esiste una proporzione tra la creatura e Dio: poiché la creatura è a Lui relativa come effetto della sua causa, e come potenzialità rispetto al suo atto; ed è in questo modo che l’intelletto creato può essere “proporzionato” per conoscere Dio.
 
-<span class="atom-split" data-atom="058" data-title="Whether the essence of God is seen by the created intellect through an image?" data-chapter="Whether the essence of God is seen by the created intellect through an image?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="Whether the essence of God is seen by the created intellect through an image?" data-chapter="Whether the essence of God is seen by the created intellect through an image?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the essence of God is seen through an image by the created intellect.
 For it is written: "We know that when He shall appear, we shall be like to Him, and [Vulg.: 'because']
@@ -3621,7 +3633,7 @@ Risposta all’Obiezione 2: Agostino parla qui della conoscenza di Dio in questa
 
 Risposta all’Obiezione 3: L’essenza divina è essenzialmente l’esistenza stessa. Pertanto, così come altre forme intelligibili che non sono la loro stessa esistenza vengono unite all’intelletto attraverso qualche entità che permette all’intelletto stesso di essere informato e di agire; allo stesso modo, l’essenza divina viene unita all’intelletto creato, come oggetto effettivamente compreso, rendendo così l’intelletto attivo per sua stessa natura.
 
-<span class="atom-split" data-atom="059" data-title="Whether the essence of God can be seen with the bodily eye?" data-chapter="Whether the essence of God can be seen with the bodily eye?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="Whether the essence of God can be seen with the bodily eye?" data-chapter="Whether the essence of God can be seen with the bodily eye?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the essence of God can be seen by the corporeal eye. For it is written
 (Job 19:26): "In my flesh I shall see . . . God," and (Job 42:5), "With the hearing of the ear I have
@@ -3689,7 +3701,7 @@ Risposta all’Obiezione 2: Agostino parla come colui che pone domande e lo fa i
 
 Risposta all’Obiezione 3: L’essenza di Dio non può essere compresa attraverso una visione dell’immaginazione; tuttavia, l’immaginazione riceve una forma che rappresenta Dio, secondo un certo modo di somiglianza; proprio come nelle sacre [Scritture](/concepts/revelation), le cose divine vengono descritte in modo metaforico attraverso elementi sensibili.
 
-<span class="atom-split" data-atom="060" data-title="Whether any created intellect by its natural powers can see the Divine essence?" data-chapter="Whether any created intellect by its natural powers can see the Divine essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether any created intellect by its natural powers can see the Divine essence?" data-chapter="Whether any created intellect by its natural powers can see the Divine essence?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that a created intellect can see the Divine essence by its own natural
 power. For Dionysius says (Div. Nom. iv): "An angel is a pure mirror, most clear, receiving, if it
@@ -3779,7 +3791,7 @@ Risposta all’Obiezione 2: L’intelligenza angelica non è difettosa, se per �
 
 Risposta all’Obiezione 3: La vista, essendo interamente materiale, non può essere elevata al livello dell’immaterialità. Ma il nostro intelletto, o l’intelletto angelico, poiché è per sua natura superiore alla materia, può essere elevato al di sopra della propria natura grazie alla grazia divina. La prova sta nel fatto che la vista non può in alcun modo conoscere in modo astratto ciò che conosce in modo concreto; infatti non è in grado di percepire una natura se non come quella particolare natura concreta; mentre il nostro intelletto è in grado di considerare in modo astratto ciò che conosce concretamente. Ora, anche se l’intelletto conosce cose le cui forme risiedono nella materia, esso riesce comunque a separare tali entità nei loro elementi costitutivi e a considerare la forma stessa in modo separato. Allo stesso modo, anche l’intelletto angelico, sebbene conosca naturalmente ciò che è concreto in qualsiasi natura, è in grado di separare queste entità grazie alla propria capacità intellettiva; poiché sa che la cosa stessa è una realtà e la sua esistenza è un’altra. Pertanto, l’intelletto creato è naturalmente in grado di comprendere la forma concreta e l’esistenza concreta in modo astratto, attraverso una sorta di analisi delle loro componenti; ma grazie alla grazia divina può essere elevato al livello di comprendere sostanze e esistenze separate e distinte.
 
-<span class="atom-split" data-atom="061" data-title="Whether the created intellect needs any created light in order to see the essence of God?" data-chapter="Whether the created intellect needs any created light in order to see the essence of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Whether the created intellect needs any created light in order to see the essence of God?" data-chapter="Whether the created intellect needs any created light in order to see the essence of God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the created intellect does not need any created light in order to see
 the essence of God. For what is of itself lucid in sensible things does not require any other light in
@@ -3845,7 +3857,7 @@ Risposta all’Obiezione 2: Questa luce è necessaria per comprendere l’essenz
 
 Risposta all’Obiezione 3: La disposizione alla forma del fuoco può essere naturale soltanto per il soggetto di quella forma. Pertanto, la luce della gloria non può essere naturale per una creatura a meno che essa non abbia una natura divina; il che è impossibile. Tuttavia, attraverso questa luce, la creatura razionale viene resa “divina”, come si afferma in questo articolo.
 
-<span class="atom-split" data-atom="062" data-title="Whether of those who see the essence of God, one sees more perfectly than another?" data-chapter="Whether of those who see the essence of God, one sees more perfectly than another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="Whether of those who see the essence of God, one sees more perfectly than another?" data-chapter="Whether of those who see the essence of God, one sees more perfectly than another?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/charity,concepts/grace,figures/augustine"></span>
 
 Objection 1: It seems that of those who see the essence of God, one does not see more perfectly
 than another. For it is written (1 Jn. 3:2): "We shall see Him as He is." But He is only in one way.
@@ -3916,7 +3928,7 @@ Risposta all’Obiezione 1: Nelle parole “Lo vedremo così com’è”, la con
 
 Risposta all’Obiezione 3: La diversità nella percezione non deriverà dall’oggetto stesso che viene percepito, poiché lo stesso oggetto sarà presentato a tutti – cioè l’essenza di Dio; né deriverà dalla diversa partecipazione dell’oggetto alla percezione attraverso diverse similitudini. La diversità nella percezione deriverà invece dalle diverse facoltà intellettive, non certo dalla facoltà naturale, ma da quella glorificata.
 
-<span class="atom-split" data-atom="063" data-title="Whether those who see the essence of God comprehend Him?" data-chapter="Whether those who see the essence of God comprehend Him?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether those who see the essence of God comprehend Him?" data-chapter="Whether those who see the essence of God comprehend Him?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/act_potency,concepts/infinity,figures/augustine"></span>
 
 Objection 1: It seems that those who see the divine essence, comprehend God. For the Apostle
 says (Phil. 3:12): "But I follow after, if I may by any means comprehend [Douay: 'apprehend']."
@@ -4010,7 +4022,7 @@ Risposta all’Obiezione 2: Dio viene definito incomprensibile non perché alcun
 
 Risposta all’Obiezione 3: La parola “interamente” indica un certo modo dell’oggetto; non significa che l’intero oggetto non entri nel campo della conoscenza, ma che il modo in cui tale oggetto si presenta non corrisponda al modo con cui lo conosce colui che lo osserva. Pertanto, chi vede l’essenza di Dio ne percepisce che Egli esiste in modo infinito e sia infinitamente conoscibile; tuttavia, questo modo infinito non permette al conoscitore di comprendere tutto ciò che riguarda Dio in modo completo e totale. Ad esempio, una persona può avere l’opinione che una determinata proposizione sia dimostrabile, anche se lei stessa non la conosce nella sua forma dimostrativa.
 
-<span class="atom-split" data-atom="064" data-title="Whether those who see the essence of God see all in God?" data-chapter="Whether those who see the essence of God see all in God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="Whether those who see the essence of God see all in God?" data-chapter="Whether those who see the essence of God see all in God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that those who see the essence of God see all things in God. For Gregory
 says (Dialog. iv): "What do they not see, who see Him Who sees all things?" But God sees all
@@ -4092,7 +4104,7 @@ Risposta all’Obiezione 3: Sebbene sia più importante vedere Dio che vedere tu
 
 Risposta all’Obiezione 4: Il desiderio naturale della creatura razionale è conoscere tutto ciò che contribuisce alla perfezione dell’intelletto, cioè le specie e i generi delle cose nonché i loro tipi; queste informazioni, chiunque contempli l’essenza divina le troverà in Dio stesso. Tuttavia, conoscere altri individui specifici, i loro pensieri e le loro azioni non rientra nella perfezione dell’intelletto creato, né il suo desiderio naturale si estende a tali cose; inoltre, l’intelletto non desidera conoscere ciò che ancora non esiste, ma che Dio può far sorgere. Eppure, se venisse contemplato soltanto Dio – fonte e principio di ogni essere e di toda verità – il desiderio naturale di conoscenza verrebbe così appagato da rendere inutile qualsiasi altra ricerca; colui che Lo conoscesse sarebbe completamente beato. Per questo motivo, l’[Agostino](/figures/augustine) afferma nel “Confessione” (V): “Infelice colui che conosce tutte queste cose (cioè tutte le creature) e non Te conosce; felice invece chi Ti conosce, anche se non conosce queste altre. E chi conosce sia Te che loro non è più felice per loro, ma soltanto per Te”.
 
-<span class="atom-split" data-atom="065" data-title="Whether what is seen in God by those who see the Divine essence, is seen through any similitude?" data-chapter="Whether what is seen in God by those who see the Divine essence, is seen through any similitude?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Whether what is seen in God by those who see the Divine essence, is seen through any similitude?" data-chapter="Whether what is seen in God by those who see the Divine essence, is seen through any similitude?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It seems that what is seen in God by those who see the Divine essence, is seen
 by means of some similitude. For every kind of knowledge comes about by the knower being
@@ -4155,7 +4167,7 @@ Risposta all’Obiezione 1: L’intelligenza creata da colui che vede Dio viene 
 
 Risposta all’Obiezione 2: Alcune delle facoltà cognitive, a partire da quelle immagini primarie concepite, ne formano altre; così l’immaginazione, partendo dalle immagini preconcepite di una montagna e dell’oro, può creare l’idea di una montagna d’oro; l’intelletto, invece, a partire dalle idee preconcepite di genere e differenza, forma l’idea di specie. Allo stesso modo, dalla somiglianza di un’immagine possiamo formare nella nostra mente la rappresentazione dell’originale di quell’immagine. Pertanto, Paolo, o qualsiasi altra persona che veda Dio, attraverso la stessa visione dell’essenza divina, può formare in sé stesso le rappresentazioni di ciò che è visto nell’essenza divina; tali rappresentazioni rimangono in lui anche quando ha smesso di vedere l’essenza stessa di Dio. Tuttavia, questo tipo di visione, attraverso la quale le cose vengono percepite attraverso tali rappresentazioni concepite, non è lo stesso di quello attraverso il quale le cose vengono realmente viste in Dio.
 
-<span class="atom-split" data-atom="066" data-title="Whether those who see the essence of God see all they see in it at the same time?" data-chapter="Whether those who see the essence of God see all they see in it at the same time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Whether those who see the essence of God see all they see in it at the same time?" data-chapter="Whether those who see the essence of God see all they see in it at the same time?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that those who see the essence of God do not see all they see in Him at
 one and the same time. For according to the Philosopher (Topic. ii): "It may happen that many
@@ -4204,7 +4216,7 @@ Risposta all’Obiezione 1: Capiamo una cosa solo quando la comprendiamo attrave
 
 Risposta all’Obiezione 2: Per quanto riguarda la loro conoscenza naturale, attraverso cui comprendono le cose grazie a diverse idee che ricevono, gli angeli non conoscono tutte le cose contemporaneamente; pertanto, nel processo di comprensione, sono influenzati dal tempo. Tuttavia, per quanto riguarda ciò che vedono in Dio, lo percepiscono tutto nello stesso istante.
 
-<span class="atom-split" data-atom="067" data-title="Whether anyone in this life can see the essence of God?" data-chapter="Whether anyone in this life can see the essence of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="Whether anyone in this life can see the essence of God?" data-chapter="Whether anyone in this life can see the essence of God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that one can in this life see the Divine essence. For Jacob said: "I have
 seen God face to face" (Gn. 32:30). But to see Him face to face is to see His essence, as appears
@@ -4293,7 +4305,7 @@ Risposta all’Obiezione 3: Si dice che tutte le cose siano viste in Dio e giudi
 
 Risposta all’Obiezione 4: La visione intellettuale riguarda le cose che si trovano nell’anima per essenza loro stessa, così come le cose intelligibili esistono nell’intelletto. E pertanto Dio è nelle anime dei beati; non tuttavia è presente nella nostra anima nello stesso modo, ma attraverso la sua presenza, la sua essenza e il suo potere.
 
-<span class="atom-split" data-atom="068" data-title="Whether God can be known in this life by natural reason?" data-chapter="Whether God can be known in this life by natural reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="Whether God can be known in this life by natural reason?" data-chapter="Whether God can be known in this life by natural reason?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that by natural reason we cannot know God in this life. For Boethius
 says (De Consol. v) that "reason does not grasp simple form." But God is a supremely simple form,
@@ -4352,7 +4364,7 @@ Risposta all’Obiezione 2: Dio è conosciuto attraverso la conoscenza naturale,
 
 Risposta all’Obiezione 3: Poiché la conoscenza dell’essenza di Dio è donata per grazia, essa appartiene esclusivamente ai buoni; ma la conoscenza di Lui attraverso la ragione naturale può appartenere sia ai buoni che ai cattivi. Ecco perché Agostino, nel “Retractato” I, ritratta quanto aveva detto in precedenza: “Non approvo ciò che ho detto nella preghiera: ‘Dio, tu vuoi che solo i puri conoscano la verità’. Poiché si può ribattere che molte persone non pure possono conoscere molte verità, cioè attraverso la ragione naturale”.
 
-<span class="atom-split" data-atom="069" data-title="Whether by grace a higher knowledge of God can be obtained than by natural reason?" data-chapter="Whether by grace a higher knowledge of God can be obtained than by natural reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="Whether by grace a higher knowledge of God can be obtained than by natural reason?" data-chapter="Whether by grace a higher knowledge of God can be obtained than by natural reason?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that by grace a higher knowledge of God is not obtained than by natural
 reason. For Dionysius says (De Mystica Theol. i) that whoever is the more united to God in this
@@ -4422,7 +4434,7 @@ Risposta all’Obiezione 2: Attraverso le immagini che vengono percepite dai sen
 
 Risposta all’Obiezione 3: La fede è un tipo di conoscenza, in quanto l’intelletto viene determinato dalla fede verso un certo oggetto conoscibile. Tuttavia, questa determinazione verso un certo oggetto non deriva dalla visione del credente, ma da quella di Colui in cui si crede. Pertanto, nella misura in cui la fede è inferiore alla visione, essa è anche inferiore alla conoscenza propria della scienza, poiché la scienza determina l’intelletto verso un certo oggetto attraverso la visione e la comprensione dei principi primi.
 
-<span class="atom-split" data-atom="070" data-title="THE NAMES OF GOD (TWELVE ARTICLES)" data-chapter="THE NAMES OF GOD (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="THE NAMES OF GOD (TWELVE ARTICLES)" data-chapter="THE NAMES OF GOD (TWELVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/analogy_of_being,concepts/essentia_existentia"></span>
 
 After the consideration of those things which belong to the divine knowledge, we now proceed
 to the consideration of the divine [names](/positions/nominalism). For everything is named by us according to our knowledge
@@ -4460,7 +4472,7 @@ In questo ambito vi sono dodici punti da esaminare:
 (11) Il nome “Colui che è” è davvero il nome più appropriato per indicare Dio?  
 (12) È possibile formulare proposizioni affermative su Dio?
 
-<span class="atom-split" data-atom="071" data-title="Whether a name can be given to God?" data-chapter="Whether a name can be given to God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Whether a name can be given to God?" data-chapter="Whether a name can be given to God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that no name can be given to God. For Dionysius says (Div. Nom. i)
 that, "Of Him there is neither name, nor can one be found of Him;" and it is written: "What is His
@@ -4533,7 +4545,7 @@ Risposta all’Obiezione 2: Poiché conosciamo e chiamiamo Dio attraverso le cre
 
 Risposta all’Obiezione 3: Designare la sostanza con qualità significa indicare il “suppostum” nella sua natura o forma determinata in cui esiste. Pertanto, così come alcune cose vengono dette di Dio in senso concreto per designarne l’esistenza e la perfezione, allo stesso modo i nomi vengono applicati a Dio per indicare una sostanza dotata di qualità. Inoltre, verbi e participi che esprimono il concetto di tempo vengono usati per riferirsi a Lui, poiché la Sua [eternità](/positions/eternity) include tutto il tempo. Poiché possiamo comprendere e designare le entità semplici soltanto attraverso cose composte, allo stesso modo possiamo comprendere ed esprimere l’idea di eternità semplice solo attraverso concetti temporali, poiché la nostra intelligenza ha una naturale affinità con queste categorie. Tuttavia, i pronomi dimostrativi vengono usati per descrivere ciò che viene compreso, non ciò che viene percepito sensorialmente; possiamo descrivere Dio soltanto nella misura in cui lo comprendiamo. Pertanto, così come nomi, participi e pronomi dimostrativi possono essere applicati a Dio, allo stesso modo anche i pronomi relativi possono essere utilizzati per indicarlo.
 
-<span class="atom-split" data-atom="072" data-title="Whether any name can be applied to God substantially?" data-chapter="Whether any name can be applied to God substantially?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="Whether any name can be applied to God substantially?" data-chapter="Whether any name can be applied to God substantially?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that no name can be applied to God substantially. For Damascene says
 (De Fide Orth. i, 9): "Everything said of God signifies not His substance, but rather shows forth
@@ -4613,7 +4625,7 @@ Reply to Objection 3: We cannot know the essence of God in this life, as He real
 Himself; but we know Him accordingly as He is represented in the perfections of creatures; and
 thus the names imposed by us signify Him in that manner only.
 
-<span class="atom-split" data-atom="073" data-title="Whether any name can be applied to God in its literal sense?" data-chapter="Whether any name can be applied to God in its literal sense?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Whether any name can be applied to God in its literal sense?" data-chapter="Whether any name can be applied to God in its literal sense?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that no name is applied literally to God. For all [names](/positions/nominalism) which we apply
 to God are taken from creatures; as was explained above (A[1]). But the names of creatures are
@@ -4678,7 +4690,7 @@ Risposta all’Obiezione 2: Come dimostra Dionigi, nomi del genere vengono negat
 
 Risposta all’Obiezione 3: Questi nomi che vengono applicati a Dio implicano letteralmente condizioni corporee, non riguardo alla cosa significata in sé, ma in relazione al modo in cui viene espressa; mentre quei nomi che vengono applicati a Dio in senso metaforico implicano effettivamente una condizione corporea nella cosa significata.
 
-<span class="atom-split" data-atom="074" data-title="Whether names applied to God are synonymous?" data-chapter="Whether names applied to God are synonymous?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="Whether names applied to God are synonymous?" data-chapter="Whether names applied to God are synonymous?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that these [names applied to God](/concepts/analogy_of_being) are synonymous [names](/positions/nominalism). For synonymous
 names are those which mean exactly the same. But these names applied to God mean entirely the
@@ -4745,7 +4757,7 @@ Risposta all’Obiezione 2: I numerosi aspetti di questi nomi non sono vuoti né
 
 Risposta all’Obiezione 3: L’unità perfetta di Dio richiede che ciò che è molteplice e diviso negli altri esista in Lui in modo semplice e unitario. Per questo motivo Egli è uno nella realtà, eppure multiplo nell’intelletto umano, poiché il nostro intelletto Lo percepisce in modi diversi, così come le cose lo rappresentano.
 
-<span class="atom-split" data-atom="075" data-title="Whether what is said of God and of creatures is univocally predicated of them?" data-chapter="Whether what is said of God and of creatures is univocally predicated of them?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Whether what is said of God and of creatures is univocally predicated of them?" data-chapter="Whether what is said of God and of creatures is univocally predicated of them?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the things attributed to God and creatures are univocal. For every
 equivocal term is reduced to the univocal, as many are reduced to one; for if the name "dog" be
@@ -4850,7 +4862,7 @@ Risposta all’Obiezione 2: La somiglianza della creatura con Dio è imperfetta,
 
 Risposta all’Obiezione 3: Dio non è la misura proporzionale alle cose che vengono misurate; pertanto non è necessario che Dio e le creature appartengano allo stesso genere. Gli argomenti addotti nel senso opposto dimostrano effettivamente che questi termini non vengono applicati in modo univoco a Dio e alle creature; tuttavia, essi non dimostrano nemmeno che vengano applicati in modo equivoco.
 
-<span class="atom-split" data-atom="076" data-title="Whether names predicated of God are predicated primarily of creatures?" data-chapter="Whether names predicated of God are predicated primarily of creatures?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Whether names predicated of God are predicated primarily of creatures?" data-chapter="Whether names predicated of God are predicated primarily of creatures?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/analogy_of_being,concepts/cause,forms/quaestio"></span>
 
 Objection 1: It seems that [names](/positions/nominalism) are predicated primarily of creatures rather than of God. For
 we name anything accordingly as we know it, since "names", as the Philosopher says, "are signs
@@ -4925,7 +4937,7 @@ Risposta all’Obiezione 2: La stessa regola non si applica alle metafore e ad a
 
 Risposta all’Obiezione 3: Questa obiezione sarebbe valida se questi nomi venissero applicati a Dio soltanto in quanto causa, e non anche essenzialmente, proprio come “salutare” viene applicato alla medicina.
 
-<span class="atom-split" data-atom="077" data-title="Whether names which imply relation to creatures are predicated of God temporally? (parte 1)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="Whether names which imply relation to creatures are predicated of God temporally? (parte 1)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that [names](/positions/nominalism) which imply relation to creatures are not predicated of God
 temporally. For all such names signify the divine substance, as is universally held. Hence also
@@ -5034,7 +5046,7 @@ related to Him: and since the relation of subjection is real in the creature, it
 Lord not in idea only, but in reality; for He is called Lord according to the manner in which the
 creature is subject to Him.
 
-<span class="atom-split" data-atom="078" data-title="Whether names which imply relation to creatures are predicated of God temporally? (parte 2)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="Whether names which imply relation to creatures are predicated of God temporally? (parte 2)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 6: To know whether relations are simultaneous by nature or otherwise, it
 is not necessary by nature or otherwise of things to which they belong but the meaning of the
@@ -5053,7 +5065,7 @@ subject to Himself.
 
 Risposta all’Obiezione 6: Per sapere se le relazioni siano per natura simultanee o meno, non è necessario considerare la natura delle cose a cui tali relazioni appartengono, bensì il significato stesso delle relazioni stesse. Infatti, se in un concetto è incluso un altro concetto, e viceversa, allora queste relazioni sono per natura simultanee: ad esempio, “doppio” e “metà”, “padre” e “figlio”, e simili. Ma se in un concetto è incluso un altro concetto senza che quest’ultimo includa il primo, allora tali relazioni non sono per natura simultanee. Ciò vale anche per la scienza e il suo oggetto: l’oggetto conoscibile viene considerato come una [potenzialità](/concepts/act_potency), mentre la scienza stessa come un [atto](/concepts/custom) o come un’abitudine. Pertanto, l’oggetto conoscibile esiste già prima che venga studiato dalla scienza; ma se lo stesso oggetto viene considerato nell’atto di essere conosciuto, allora esso è simultaneo alla scienza stessa in quell’atto. Infatti, l’oggetto conosciuto non è nulla di per sé, se non viene effettivamente conosciuto. Così, anche se Dio esiste prima della creazione, poiché il concetto di “Dio” include nel proprio significato il concetto di “servo”, e viceversa, questi due termini relativi sono per natura simultanei. Pertanto, Dio non è stato “Dio” finché non ha creato una creatura soggetta a Sé stesso.
 
-<span class="atom-split" data-atom="079" data-title="Whether this name \&quot;God\&quot; is a name of the nature?" data-chapter="Whether this name \&quot;God\&quot; is a name of the nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="Whether this name \&quot;God\&quot; is a name of the nature?" data-chapter="Whether this name \&quot;God\&quot; is a name of the nature?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 # Whether this name "God" is a name of the nature?
 
@@ -5112,7 +5124,7 @@ Risposta all’Obiezione 1: Tutto ciò che dice Damasceno riguarda la provvidenz
 
 Risposta all’Obiezione 2: Possiamo denominare una cosa in base alla conoscenza che abbiamo della sua natura, delle sue proprietà e dei suoi effetti. Poiché possiamo comprendere cos’è veramente una pietra attraverso le sue caratteristiche, il nome “pietra” indica appunto la natura stessa della pietra; esso rappresenta infatti la sua definizione, che ci permette di conoscere cosa essa sia. L’idea espressa dal nome corrisponde dunque alla definizione concettuale della pietra. Al contrario, dai fenomeni divini non possiamo conoscere la natura divina in sé stessa, per comprendere cos’ella sia; possiamo conoscerla soltanto attraverso le sue caratteristiche distintive, il suo ruolo causale e i concetti di negazione, come già detto in [Q[12], A[12. Pertanto, il nome “Dio” indica la natura divina; questo nome è stato infatti coniato per designare qualcosa che esiste al di sopra di tutte le cose, che ne è il principio e che, allo stesso tempo, si distingue da esse. Chi nomina Dio intende proprio indicare tutto ciò.
 
-<span class="atom-split" data-atom="080" data-title="Whether this name \&quot;God\&quot; is communicable?" data-chapter="Whether this name \&quot;God\&quot; is communicable?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="Whether this name \&quot;God\&quot; is communicable?" data-chapter="Whether this name \&quot;God\&quot; is communicable?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 # Whether this name "God" is communicable?
 
@@ -5208,7 +5220,7 @@ Risposta all’Obiezione 2: Questo nome “Dio” è un nome appellativo, e non 
 
 Risposta all’Obiezione 3: Questi nomi, “buono”, “saggio” e simili, vengono attribuiti in base alle perfezioni che Dio trasmette alle creature; tuttavia essi non indicano la natura divina, ma piuttosto le stesse perfezioni in sé; pertanto possono essere applicati a molte persone. Ma il nome “Dio” viene dato a Dio in relazione al suo proprio operare, che sperimentiamo continuamente, e serve appunto a designare la sua natura divina.
 
-<span class="atom-split" data-atom="081" data-title="Whether this name \&quot;God\&quot; is applied to God univocally by nature, by participation, and according to opinion?" data-chapter="Whether this name \&quot;God\&quot; is applied to God univocally by nature, by participation, and according to opinion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether this name \&quot;God\&quot; is applied to God univocally by nature, by participation, and according to opinion?" data-chapter="Whether this name \&quot;God\&quot; is applied to God univocally by nature, by participation, and according to opinion?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/analogy_of_being"></span>
 
 # Whether this name "God" is applied to God univocally by nature, by participation, and according to opinion?
 
@@ -5295,7 +5307,7 @@ Risposta all’Obiezione 4: Il termine “animale”, applicato sia a un animale
 
 Risposta all’Obiezione 5: Né un cattolico né un pagano conoscono la vera natura di Dio così com’è in sé; entrambi la comprendono però in base a concetti legati alla causalità, all’eccellenza o ad altre caratteristiche. Pertanto, un pagano può usare il nome “Dio” nello stesso modo in cui un cattolico lo utilizza: quando dice che un idolo è Dio, intende esattamente ciò che un cattolico intende quando afferma che un idolo non è Dio. Tuttavia, se qualcuno fosse completamente ignorante riguardo a Dio, non sarebbe nemmeno in grado di nominarlo, a meno che non utilizzasse nomi il cui significato non conoscesse affatto.
 
-<span class="atom-split" data-atom="082" data-title="Whether this name, HE WHO IS, is the most proper name of God?" data-chapter="Whether this name, HE WHO IS, is the most proper name of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Whether this name, HE WHO IS, is the most proper name of God?" data-chapter="Whether this name, HE WHO IS, is the most proper name of God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that this name HE WHO IS is not the most proper name of God. For this
 name "God" is an incommunicable name. But this name HE WHO IS, is not an incommunicable
@@ -5369,7 +5381,7 @@ Risposta all’Obiezione 2: Questo nome “bene” è il nome principale di Dio 
 
 Risposta all’Obiezione 3: Non è necessario che tutti i nomi divini implichino una relazione con le creature; basta che siano attribuiti in base a alcune perfezioni che derivano da Dio verso le creature. Tra queste, la prima è l’esistenza, da cui deriva il nome “Colui Che Esiste”.
 
-<span class="atom-split" data-atom="083" data-title="Whether affirmative propositions can be formed about God?" data-chapter="Whether affirmative propositions can be formed about God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Whether affirmative propositions can be formed about God?" data-chapter="Whether affirmative propositions can be formed about God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that affirmative propositions cannot be formed about God. For Dionysius
 says (Coel. Hier. ii) that "negations about God are true; but affirmations are vague."
@@ -5450,7 +5462,7 @@ Risposta all’Obiezione 2: Il nostro intelletto non è in grado di comprendere 
 
 Risposta all’Obiezione 3: La proposizione “L’intelletto che comprende qualcosa diversamente da come essa è, è falso” può essere interpretata in due modi, a seconda che l’avverbio “diversamente” si riferisca alla cosa compresa o a colui che la comprende. Se intesa riguardo alla cosa compresa, la proposizione è vera: qualsiasi intelletto che riconosca che una cosa è diversa da come essa è, in realtà sta fraintendendo quella cosa. Tuttavia, questo non vale nel caso di Dio; il nostro intelletto, infatti, quando formula proposizioni su Dio, non afferma che Egli sia composto, ma che sia semplice. Se invece l’avverbio “diversamente” si riferisce a colui che comprende, la proposizione è falsa: il modo in cui l’intelletto comprende le cose è diverso dal modo in cui tali cose esistono nella loro essenza. È chiaro, infatti, che il nostro intelletto comprende le cose materiali in modo immateriale; non significa che queste cose siano immateriali in sé, ma che il modo con cui le comprendiamo è di natura immateriale. Allo stesso modo, quando l’intelletto comprende le cose semplici – che sono superiori a esso per natura – lo fa secondo i propri principi logici, che sono di natura composta; tuttavia, questo non significa che tali cose siano effettivamente composte. Pertanto, il nostro intelletto non commette errori quando formula concetti di composizione riguardo a Dio.
 
-<span class="atom-split" data-atom="084" data-title="OF GOD'S KNOWLEDGE (SIXTEEN ARTICLES)" data-chapter="OF GOD'S KNOWLEDGE (SIXTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="OF GOD'S KNOWLEDGE (SIXTEEN ARTICLES)" data-chapter="OF GOD'S KNOWLEDGE (SIXTEEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Having considered what belongs to the divine substance, we have now to treat of God's operation.
 And since one kind of operation is immanent, and another kind of operation proceeds to the exterior
@@ -5498,7 +5510,7 @@ Dopo aver considerato ciò che appartiene alla sostanza divina, dobbiamo ora tra
 (15) La conoscenza di Dio è variabile nel tempo?  
 (16) Godisce di una conoscenza speculativa o pratica delle cose?
 
-<span class="atom-split" data-atom="085" data-title="Whether there is knowledge [*Scientia]?" data-chapter="Whether there is knowledge [*Scientia]?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="Whether there is knowledge [*Scientia]?" data-chapter="Whether there is knowledge [*Scientia]?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that in God there is not knowledge. For knowledge is a [habit](/concepts/custom); and habit
 does not belong to God, since it is the mean between [potentiality](/concepts/act_potency) and act. Therefore knowledge is
@@ -5571,7 +5583,7 @@ Risposta all’Obiezione 2: Quanto è divisibile e moltiplicabile nelle creature
 
 Risposta all’Obiezione 3: La conoscenza è determinata dal modo di chi conosce; infatti, la cosa conosciuta esiste nel conoscitore secondo il modo stesso del conoscitore. Poiché il modo dell’essenza divina è superiore a quello delle creature, la conoscenza divina non esiste in Dio secondo i modi della conoscenza creata – né universale, né particolare, né abituale, né potenziale, né esistente secondo alcuno di questi modi.
 
-<span class="atom-split" data-atom="086" data-title="Whether God understands Himself?" data-chapter="Whether God understands Himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="Whether God understands Himself?" data-chapter="Whether God understands Himself?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God does not understand Himself. For it is said by the Philosopher
 (De Causis), "Every knower who knows his own essence, returns completely to his own essence."
@@ -5657,7 +5669,7 @@ Risposta all’Obiezione 2: Il concetto di movimento e di passione viene inteso 
 
 Risposta all’Obiezione 3: L’esistenza nella natura non appartiene alla materia primaria, che è una potenzialità, a meno che questa non venga ridotta all’atto attraverso una forma. Ora il nostro intelletto passivo ha lo stesso rapporto con gli oggetti intelligibili che la materia primaria ha con le cose naturali; infatti, l’intelletto passivo è in potenzialità riguardo agli oggetti intelligibili, proprio come la materia primaria lo è rispetto alle cose naturali. Pertanto, il nostro intelletto passivo può essere messo in atto riguardo agli oggetti intelligibili soltanto nella misura in cui viene perfezionato dalle specie intelligenti di tali oggetti; e in questo modo si comprende attraverso tali specie, proprio come comprende le altre cose. È infatti evidente che, conoscendo un oggetto intelligibile, si comprende anche il proprio atto di comprensione, e attraverso tale atto si conosce la facoltà intellettiva stessa. Ma Dio è un puro atto sia nell’ordine dell’esistenza che in quello degli oggetti intelligibili; pertanto Egli si comprende attraverso Sé stesso.
 
-<span class="atom-split" data-atom="087" data-title="Whether God comprehends Himself?" data-chapter="Whether God comprehends Himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="Whether God comprehends Himself?" data-chapter="Whether God comprehends Himself?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/act_potency,concepts/infinity,figures/augustine"></span>
 
 Objection 1: It seems that God does not comprehend Himself. For [Augustine](/figures/augustine) says (Octog. Tri.
 Quaest. xv), that "whatever comprehends itself is finite as regards itself." But God is in all ways
@@ -5712,7 +5724,7 @@ Risposta all’Obiezione 1: Il significato stretto di “comprensione” indica 
 
 Risposta all’Obiezione 2: Quando si afferma che “Dio è finito rispetto a Sé stesso”, ciò deve essere inteso secondo una certa analogia di proporzione; infatti, Egli ha lo stesso rapporto nel non superare i limiti del proprio intelletto, come qualsiasi cosa finita ha nel non superare i limiti dell’intelletto finito. Tuttavia, Dio non deve essere considerato finito rispetto a Sé stesso in questo senso, come se Egli si comprendesse come qualcosa di finito.
 
-<span class="atom-split" data-atom="088" data-title="Whether the act of God's intellect is His substance?" data-chapter="Whether the act of God's intellect is His substance?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="088" data-title="Whether the act of God's intellect is His substance?" data-chapter="Whether the act of God's intellect is His substance?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/act_potency,concepts/substance,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It seems that the act of God's intellect is not His substance. For to understand is
 an operation. But an operation signifies something proceeding from the operator. Therefore the act
@@ -5757,7 +5769,7 @@ cannot be likened to the act of the divine understanding which is subsistent.
 Thus appears the Reply to the Third Objection. For the act of divine understanding subsists in
 itself, and belongs to its very self and is not another's; hence it need not proceed to infinity.
 
-<span class="atom-split" data-atom="089" data-title="Whether God knows things other than Himself?" data-chapter="Whether God knows things other than Himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="089" data-title="Whether God knows things other than Himself?" data-chapter="Whether God knows things other than Himself?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God does not know things besides Himself. For all other things but
 God are outside of God. But [Augustine](/figures/augustine) says (Octog. Tri. Quaest. qu. xlvi) that "God does not behold
@@ -5837,7 +5849,7 @@ Risposta all’Obiezione 2: L’oggetto inteso è una perfezione di colui che co
 
 Risposta all’Obiezione 3: L’atto intellettuale non è determinato da ciò che viene compreso in un altro contesto, ma dall’oggetto principale che viene inteso, attraverso il quale vengono comprese altre cose. Infatti, l’atto intellettuale è definito dal proprio oggetto, poiché la forma intelligibile rappresenta il principio stesso dell’operazione intellettiva; ogni operazione, infatti, è determinata dalla forma che ne costituisce il principio di funzionamento – come, ad esempio, il riscaldamento è determinato dal calore. Pertanto, l’operazione intellettuale è definita da quella forma intelligibile che rende l’intelletto attivo; tale forma corrisponde all’immagine dell’oggetto principale che viene compreso, e in Dio questa immagine non è altro che la Sua stessa essenza, nella quale sono contenute tutte le immagini delle cose. Da ciò non segue affatto che l’atto intellettuale divino, o meglio Dio stesso, sia determinato da qualcosa di diverso dalla sua essenza divina.
 
-<span class="atom-split" data-atom="090" data-title="Whether God knows things other than Himself by proper knowledge?" data-chapter="Whether God knows things other than Himself by proper knowledge?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="090" data-title="Whether God knows things other than Himself by proper knowledge?" data-chapter="Whether God knows things other than Himself by proper knowledge?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God does not know things other than Himself by proper knowledge.
 For, as was shown (A[5]), God knows things other than Himself, according as they are in Himself.
@@ -5955,7 +5967,7 @@ Risposta all’Obiezione 2: L’essenza creata viene paragonata all’essenza di
 
 Risposta all’Obiezione 3: La stessa cosa non può essere considerata in modo equivalente rispetto alla proporzione tra cose diverse. Tuttavia, l’essenza divina supera tutte le creature; pertanto può essere considerata la vera “proporzione” propria di ciascuna cosa, in base ai diversi modi in cui le varie creature vi partecipano e la imitano.
 
-<span class="atom-split" data-atom="091" data-title="Whether the knowledge of God is discursive?" data-chapter="Whether the knowledge of God is discursive?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="091" data-title="Whether the knowledge of God is discursive?" data-chapter="Whether the knowledge of God is discursive?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/cause,figures/aristotle,figures/augustine"></span>
 
 Objection 1: It seems that the knowledge of God is discursive. For the knowledge of God is
 not habitual knowledge, but actual knowledge. Now the Philosopher says (Topic. ii): "The [habit](/concepts/custom)
@@ -6003,7 +6015,7 @@ better than we can; but still not in such a manner that the knowledge of the eff
 by the knowledge of the created causes, as is the case with us; and hence His knowledge is not
 discursive.
 
-<span class="atom-split" data-atom="092" data-title="Whether the knowledge of God is the cause of things?" data-chapter="Whether the knowledge of God is the cause of things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="092" data-title="Whether the knowledge of God is the cause of things?" data-chapter="Whether the knowledge of God is the cause of things?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the knowledge of God is not the cause of things. For Origen says,
 on Rom. 8:30, "Whom He called, them He also justified," etc.: "A thing will happen not because
@@ -6052,7 +6064,7 @@ measure, so, the knowledge of God is prior to natural things, and is the measure
 instance, a house is midway between the knowledge of the builder who made it, and the knowledge
 of the one who gathers his knowledge of the house from the house already built.
 
-<span class="atom-split" data-atom="093" data-title="Whether God has knowledge of things that are not?" data-chapter="Whether God has knowledge of things that are not?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether God has knowledge of things that are not?" data-chapter="Whether God has knowledge of things that are not?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God has not knowledge of things that are not. For the knowledge
 of God is of true things. But "truth" and "being" are convertible terms. Therefore the knowledge
@@ -6117,7 +6129,7 @@ Risposta all’Obiezione 2: Poiché Dio è l’essere stesso, tutto esiste nella
 
 Risposta all’Obiezione 3: La conoscenza di Dio, unita alla Sua volontà, è la causa delle cose. Pertanto, non è necessario che tutto ciò che Dio conosce esista, sia esistito o esisterà; ma ciò è necessario soltanto per quanto riguarda ciò che Egli vuole che esista o permette che esista. Inoltre, nella conoscenza di Dio non si tratta del fatto che le cose esistano, ma piuttosto del fatto che siano possibili.
 
-<span class="atom-split" data-atom="094" data-title="Whether God knows evil things?" data-chapter="Whether God knows evil things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="Whether God knows evil things?" data-chapter="Whether God knows evil things?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/evil_privation,concepts/act_potency,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It seems that God does not know evil things. For the Philosopher (De [Anima](/concepts/soul) iii)
 says that the intellect which is not in [potentiality](/concepts/act_potency) does not know privation. But "evil is the privation
@@ -6192,7 +6204,7 @@ Risposta all’Obiezione 3: Sebbene il male non sia in contraddizione con l’es
 
 Risposta all’Obiezione 4: Conoscere una cosa soltanto attraverso un’altra cosa appartiene a una conoscenza imperfetta, se quella cosa è in sé stessa conoscibile; ma il male non è in sé stesso conoscibile, poiché la natura stessa del male significa la privazione del bene; pertanto il male non può essere né definito né conosciuto se non attraverso il bene.
 
-<span class="atom-split" data-atom="095" data-title="Whether God knows singular things?" data-chapter="Whether God knows singular things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="095" data-title="Whether God knows singular things?" data-chapter="Whether God knows singular things?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/universals,concepts/actus_purus,concepts/act_potency,figures/socrates"></span>
 
 Objection 1: It seems that God does not know singular things. For the divine intellect is more
 immaterial than the human intellect. Now the human intellect by reason of its immateriality does
@@ -6275,7 +6287,7 @@ Risposta all’Obiezione 2: Sebbene, per quanto riguarda le specie nell’intell
 
 Risposta all’Obiezione 3: Sebbene la materia, per quanto riguarda la sua potenzialità, si allontani dalla somiglianza con Dio, tuttavia, anche nella misura in cui esiste in questo modo, mantiene una certa somiglianza con l’esistenza divina.
 
-<span class="atom-split" data-atom="096" data-title="Whether God can know infinite things?" data-chapter="Whether God can know infinite things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="Whether God can know infinite things?" data-chapter="Whether God can know infinite things?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/infinity,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It seems that God cannot know infinite things. For the infinite, as such, is unknown;
 since the infinite is that which, "to those who measure it, leaves always something more to be
@@ -6340,7 +6352,7 @@ of air, as some of the ancients held; yet it is manifest that these would have a
 being, because their being would be limited to some determinate nature. Hence they would be
 measurable as regards the knowledge of God.
 
-<span class="atom-split" data-atom="097" data-title="Whether the knowledge of God is of future contingent things? (parte 1)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="Whether the knowledge of God is of future contingent things? (parte 1)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/eternity,positions/free_will,concepts/cause,figures/socrates"></span>
 
 Objection 1: It seems that the knowledge of God is not of future contingent things. For from
 a necessary cause proceeds a necessary effect. But the knowledge of God is the cause of things
@@ -6434,7 +6446,7 @@ Risposta all’Obiezione 1: Sebbene la causa suprema sia necessaria, l’effetto
 
 Risposta all’Obiezione 2: Alcuni affermano che questo antecedente, “Dio sapeva che ciò era futuro”, non sia necessario, ma contingente; poiché, anche se è già accaduto, implica comunque una relazione con il futuro. Tuttavia, ciò non elimina la sua natura necessaria; infatti, tutto ciò che ha avuto una relazione con il futuro deve esserne stato effettivamente parte, anche se il futuro a volte non si realizza. D’altra parte, alcuni sostengono che questo antecedente sia contingente perché è composto da elementi necessari e contingenti; ma anche questa argomentazione è priva di fondamento. Quando diciamo “Dio sapeva che ciò era futuro”, il termine “contingente” viene utilizzato soltanto come elemento costitutivo della proposizione, e non come sua parte essenziale. Pertanto, la natura contingente o necessaria di questo antecedente non ha alcuna rilevanza sulla necessità o contingenza della proposizione stessa, né sul suo essere vera o falsa. Potrebbe essere altrettanto vero dire che “un uomo è un asino” quanto dire che “Socrate corre” o che “Dio esiste”; lo stesso vale per gli elementi necessari e contingenti. Quindi, bisogna affermare che questo antecedente è assolutamente necessario. Inoltre, non segue affatto, come alcuni sostengono, che anche il conseguente sia necessario; poiché l’antecedente rappresenta soltanto una causa remota del conseguente, che rimane contingente a causa di cause più immediate. Ma questa argomentazione è priva di fondamento: una proposizione condizionale sarebbe falsa se il suo antecedente fosse una causa necessaria remota e il conseguente un effetto contingente; ad esempio, “Se il sole si muove, l’erba crescerà” sarebbe falso se l’antecedente rappresentasse una causa necessaria e il conseguente un effetto casuale. Pertanto, dobbiamo affermare che, quando l’antecedente di una proposizione condizionale contiene elementi legati all’attività dell’anima, il conseguente deve essere inteso non nella sua realtà oggettiva, ma nel contesto in cui viene percepito dall’anima; infatti, l’esistenza di una cosa “in sé” è diversa dalla sua esistenza nell’intelletto umano. Ad esempio, quando diciamo “Ciò che l’anima comprende è immateriale”, ciò significa che tale comprensione è considerata immateriale nel contesto dell’intelletto, non nella realtà oggettiva di quella cosa. Allo stesso modo, quando diciamo “Se Dio sa qualcosa, allora quel qualcosa esisterà”, il conseguente deve essere inteso come qualcosa che è soggetto alla conoscenza divina, cioè nel contesto della sua presenza divina. Pertanto, sia il conseguente che l’antecedente sono necessari: “Poiché tutto ciò che esiste, mentre esiste, deve necessariamente esistere”, come afferma il Filosofo nel Peri Hermeneutica I.
 
-<span class="atom-split" data-atom="098" data-title="Whether the knowledge of God is of future contingent things? (parte 2)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="098" data-title="Whether the knowledge of God is of future contingent things? (parte 2)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/eternity,concepts/time"></span>
 
 Reply to Objection 3: Things reduced to act in time, as known by us successively in time, but
 by God (are known) in [eternity](/positions/eternity), which is above time. Whence to us they cannot be certain, forasmuch
@@ -6465,7 +6477,7 @@ is attributed to a stone in itself, which is not attributed to it inasmuch as it
 
 Risposta all’Obiezione 3: Le cose, che per noi sono conosciute nel tempo in modo successivo, ma per Dio sono conosciute nell’[eternità](/positions/eternity), che trascende il tempo, non possono essere considerate certe da noi, poiché conosciamo le cose future come contingenti; tuttavia, per Dio sono certe, poiché la sua comprensione si estende all’eternità, al di là del tempo. Proprio come colui che cammina lungo una strada non può vedere coloro che lo seguono, mentre chi osserva l’intera strada da un punto elevato riesce a vedere immediatamente tutti coloro che vi transitano. Quindi ciò che è conosciuto da noi deve necessariamente essere vero, anche nella sua essenza; poiché ciò che è futuro e contingente non può essere conosciuto da noi. Al contrario, ciò che è conosciuto da Dio deve necessariamente essere vero, secondo il modo in cui tale conoscenza si manifesta, come già detto, ma non assolutamente considerando le cause intrinseche di quelle cose. Da qui deriva anche la distinzione tra “tutto ciò che è conosciuto da Dio deve necessariamente essere vero” e l’affermazione “questa proposizione ‘tutto ciò che è conosciuto da Dio è vero’ deve necessariamente essere vera”. Alcuni obiettano, sostenendo che questa distinzione valga solo per le forme separabili dal soggetto; ad esempio, se dicessi “è possibile che una cosa bianca diventi nera”, questa affermazione sarebbe falsa riguardo al significato letterale della frase, ma vera riguardo alla cosa stessa: infatti una cosa bianca può diventare nera; mentre l’affermazione “una cosa bianca è nera” non potrebbe mai essere vera. Tuttavia, per le forme inseparabili dal soggetto, questa distinzione non vale; ad esempio, se dicessi “un corvo nero può diventare bianco”, questa affermazione sarebbe falsa in entrambi i sensi. Ora, essere conosciuto da Dio è qualcosa che è inseparabile dalla cosa stessa; poiché ciò che è conosciuto da Dio non può essere conosciuto in modo separato da esso stesso. Tuttavia, questo obiezione avrebbe senso se le parole “ciò che è conosciuto” implicassero una qualche proprietà intrinseca al soggetto; ma poiché esse indicano semplicemente un atto di conoscenza da parte di Dio, è possibile attribuire alla cosa conosciuta qualcosa che, in sé stessa, non le appartiene (anche se essa viene sempre conosciuta); ad esempio, l’esistenza materiale può essere attribuita a una pietra in sé stessa, ma non nel momento in cui viene conosciuta.
 
-<span class="atom-split" data-atom="099" data-title="Whether God knows enunciable things?" data-chapter="Whether God knows enunciable things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="099" data-title="Whether God knows enunciable things?" data-chapter="Whether God knows enunciable things?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God does not know enunciable things. For to know enunciable things
 belongs to our intellect as it composes and divides. But in the divine intellect, there is no composition.
@@ -6515,7 +6527,7 @@ Risposta all’Obiezione 1: Questa obiezione avrebbe fondamento se Dio conoscess
 
 Risposta all’Obiezione 2: La composizione enunciativa indica l’esistenza di una cosa; pertanto, Dio, con la sua esistenza che è la sua essenza stessa, rappresenta l’archetipo di tutte quelle cose che vengono indicate attraverso l’enunciato.
 
-<span class="atom-split" data-atom="100" data-title="Whether the knowledge of God is variable?" data-chapter="Whether the knowledge of God is variable?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="100" data-title="Whether the knowledge of God is variable?" data-chapter="Whether the knowledge of God is variable?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the knowledge of God is variable. For knowledge is related to what
 is knowable. But whatever imports relation to the creature is applied to God from time, and varies
@@ -6598,7 +6610,7 @@ Risposta all’Obiezione 2: Dio conosce anche ciò che potrebbe creare, ma non l
 
 Risposta all’Obiezione 3: Gli antichi Nominalisti affermavano che fosse la stessa cosa dire “Cristo è nato”, “Cristo nascerà” e “Cristo è stato nato”; poiché tutte e tre queste espressioni indicavano lo stesso concetto, ovvero la nascita di Cristo. Pertanto, sostenevano, ciò che Dio sa, Lui lo sa; poiché ora sa che Cristo è nato, il che equivale a dire che Cristo nascerà. Tuttavia, questo punto di vista è errato: da un lato, la diversità delle parti di una frase comporta anche una diversità nelle sue enunciazioni; dall’altro, ne deriverebbe che una proposizione vera in un certo momento lo sarebbe sempre, il che contraddice quanto afferma il Filosofo nel “De categoriis” (III), secondo cui la frase “Socrate siede” è vera quando Socrate è seduto e falsa quando si alza. Pertanto, bisogna ammettere che la proposizione “Ciò che Dio sa, Lui lo sa”, se riferita a proposizioni enunciabili, non è vera. Tuttavia, ciò non significa che la conoscenza di Dio sia variabile: poiché nella conoscenza divina non vi è alcuna variazione nel fatto che Dio sappia che qualcosa in un certo momento esiste e in un altro no, allo stesso modo non vi è alcuna variazione nel fatto che Dio sappia che una proposizione enunciabile in un certo momento è vera e in un altro no. La conoscenza di Dio, invece, sarebbe variabile se Lui conoscesse le cose enunciabili attraverso processi logici di composizione e divisione, come avviene nel nostro intelletto umano. Pertanto, la nostra conoscenza varia sia in termini di verità e falsità – ad esempio, quando una cosa subisce cambiamenti e noi manteniamo sempre lo stesso punto di vista su di essa – sia in termini di opinioni diverse; il che non può accadere in Dio.
 
-<span class="atom-split" data-atom="101" data-title="Whether God has a speculative knowledge of things?" data-chapter="Whether God has a speculative knowledge of things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Whether God has a speculative knowledge of things?" data-chapter="Whether God has a speculative knowledge of things?" data-kind="atom" data-srclang="en" data-tags="assi/god,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God has not a speculative knowledge of things. For the knowledge
 of God is the cause of things, as shown above (A[8]). But speculative knowledge is not the cause
@@ -6667,7 +6679,7 @@ Risposta all’Obiezione 1: La conoscenza di Dio è la causa, non certo di Sé s
 
 Risposta all’Obiezione 2: Il fatto che la conoscenza derivi da cose conosciute non appartiene essenzialmente alla conoscenza speculativa, ma solo accidentalmente, nella misura in cui tale conoscenza è umana. In risposta a quanto opposto, dobbiamo affermare che una conoscenza perfetta di quelle cose che possono essere operate è possibile soltanto se queste vengono conosciute proprio nella loro funzione operativa. Pertanto, poiché la conoscenza di Dio è in ogni senso perfetta, Egli deve conoscere ciò che può essere operato da Lui, formalmente e intrinsecamente, e non soltanto in termini speculativi. Tuttavia, ciò non diminuisce la nobiltà della Sua conoscenza speculativa, poiché Egli vede tutte le cose, tranne Se Stesso, in Sé stesso, e conosce Sé stesso a livello speculativo; quindi, nella Sua conoscenza speculativa di Sé stesso, possiede sia la conoscenza speculativa che quella pratica di tutte le altre cose.
 
-<span class="atom-split" data-atom="102" data-title="OF IDEAS (THREE ARTICLES)" data-chapter="OF IDEAS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="OF IDEAS (THREE ARTICLES)" data-chapter="OF IDEAS (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/realism_of_ideas,concepts/idea,forms/quaestio,schools/scholasticism"></span>
 
 After considering the knowledge of God, it remains to consider ideas. And about this there are
 three points of inquiry:
@@ -6682,7 +6694,7 @@ Dopo aver considerato la conoscenza di Dio, rimane da esaminare il problema dell
 (2) Sono molte, o soltanto una?  
 (3) Esistono idee di tutte le cose conosciute da Dio?
 
-<span class="atom-split" data-atom="103" data-title="Whether there are ideas?" data-chapter="Whether there are ideas?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="Whether there are ideas?" data-chapter="Whether there are ideas?" data-kind="atom" data-srclang="en" data-tags="concepts/idea,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It seems that there are no ideas. For Dionysius says (Div. Nom. vii), that God
 does not know things by ideas. But ideas are for nothing else except that things may be known
@@ -6726,7 +6738,7 @@ idea with respect to other things; though not with respect to Himself.
 Reply to Objection 3: God is the similitude of all things according to His essence; therefore
 an idea in God is identical with His essence.
 
-<span class="atom-split" data-atom="104" data-title="Whether ideas are many?" data-chapter="Whether ideas are many?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="104" data-title="Whether ideas are many?" data-chapter="Whether ideas are many?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that ideas are not many. For an idea in God is His essence. But God's
 essence is one only. Therefore there is only one idea.
@@ -6804,7 +6816,7 @@ Reply to Objection 4: Relations multiplying ideas do not exist in created things
 Yet they are not real relations, such as those whereby the Persons are distinguished, but relations
 understood by God.
 
-<span class="atom-split" data-atom="105" data-title="Whether there are ideas of all things that God knows?" data-chapter="Whether there are ideas of all things that God knows?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="105" data-title="Whether there are ideas of all things that God knows?" data-chapter="Whether there are ideas of all things that God knows?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that there are not ideas in God of all things that He knows. For the idea
 of evil is not in God; since it would follow that evil was in Him. But evil things are known by God.
@@ -6862,7 +6874,7 @@ nature regards the species, and produces individuals only that in them the speci
 However, divine providence extends not merely to species; but to individuals as will be shown later
 (Q[22], A[3] ).
 
-<span class="atom-split" data-atom="106" data-title="OF TRUTH (EIGHT ARTICLES)" data-chapter="OF TRUTH (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="106" data-title="OF TRUTH (EIGHT ARTICLES)" data-chapter="OF TRUTH (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Since knowledge is of things that are true, after the consideration of the knowledge of God, we
 must inquire concerning truth. About this there are eight points of inquiry:
@@ -6887,7 +6899,7 @@ Poiché la conoscenza riguarda cose vere, dopo aver considerato la conoscenza di
 (7) L’[eternità](/positions/eternity) della verità.  
 (8) L’immutabilità della verità.
 
-<span class="atom-split" data-atom="107" data-title="Whether truth resides only in the intellect?" data-chapter="Whether truth resides only in the intellect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="107" data-title="Whether truth resides only in the intellect?" data-chapter="Whether truth resides only in the intellect?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that truth does not reside only in the intellect, but rather in things. For
 [Augustine](/figures/augustine) (Soliloq. ii, 5) condemns this definition of truth, "That is true which is seen"; since it
@@ -6980,7 +6992,7 @@ Risposta all’Obiezione 2: I filosofi antichi ritenevano che le specie delle co
 
 Risposta all’Obiezione 3: Sebbene la verità del nostro intelletto sia causata dalla cosa stessa, non è necessario che tale verità esista primariamente nella cosa; allo stesso modo, la salute non risiede primariamente nella medicina, ma nell’animale stesso: infatti, la virtù della medicina, e non la sua capacità di produrre salute, è la vera causa di questa ultima. In questo caso, l’agente causale non è univoco. Allo stesso modo, l’esistenza stessa della cosa, e non la sua verità, è la causa della verità nell’intelletto. Per questo motivo il Filosofo afferma che un pensiero o una parola sono veri “per il fatto che una cosa esiste, e non perché quella cosa sia vera”.
 
-<span class="atom-split" data-atom="108" data-title="Whether truth resides only in the intellect composing and dividing?" data-chapter="Whether truth resides only in the intellect composing and dividing?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="108" data-title="Whether truth resides only in the intellect composing and dividing?" data-chapter="Whether truth resides only in the intellect composing and dividing?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that truth does not reside only in the intellect composing and dividing.
 For the Philosopher says (De [Anima](/concepts/soul) iii) that as the senses are always true as regards their proper
@@ -7026,7 +7038,7 @@ Al contrario, il Filosofo afferma (Metafisica VI) che, per quanto riguarda le co
 
 Rispondo che, come già detto, la verità risiede, nel suo aspetto primario, nell’intelletto. Poiché tutto è vero nella misura in cui possiede la forma propria della sua natura, l’intelletto, in quanto conoscitore, deve necessariamente essere vero, poiché possiede la somiglianza con l’oggetto conosciuto – questa somiglianza costituisce infatti la sua stessa forma di conoscenza. Per questo motivo, la verità viene definita come la conformità tra intelletto e oggetto conosciuto; quindi conoscere tale conformità significa conoscere la verità. Tuttavia, i sensi non sono in grado di comprenderla in alcun modo. Infatti, sebbene la vista possieda la somiglianza con l’oggetto visibile, essa non è in grado di percepire il rapporto che esiste tra quell’oggetto e ciò che l’intelletto ne comprende. L’intelletto, invece, può conoscere la propria conformità con l’oggetto intelligibile; tuttavia, questa conoscenza non si basa su una definizione dell’oggetto stesso (“cos’è questo oggetto”). Solo quando l’intelletto stabilisce che un certo oggetto corrisponde alla forma che ne ha compresa la natura, allora conosce e esprime la verità. Ciò avviene attraverso operazioni di composizione e divisione: in ogni proposizione, infatti, l’intelletto applica o elimina dalla nozione designata dal soggetto una certa forma indicata dal predicato; questo dimostra chiaramente che sia i sensi che l’intelletto possono conoscere la verità quando definiscono “cos’è un certo oggetto”; tuttavia, ciò non significa che possano conoscere o affermare effettivamente la verità in sé. Lo stesso vale per le parole complesse o semplici. Quindi, la verità può risiedere sia nei sensi che nell’intelletto quando quest’ultimo definisce “cos’è un certo oggetto”; tuttavia, non come l’oggetto conosciuto all’interno del conoscitore – concetto implicato dal termine stesso “verità”. La perfezione dell’intelletto consiste infatti nella verità così intesa. Pertanto, in senso proprio, la verità risiede nell’intelletto che compone e divide; non nei sensi, né nell’intelletto che definisce “cos’è un certo oggetto”. E così vengono risolti gli obiezioni sollevati.
 
-<span class="atom-split" data-atom="109" data-title="Whether the true and being are convertible terms?" data-chapter="Whether the true and being are convertible terms?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="109" data-title="Whether the true and being are convertible terms?" data-chapter="Whether the true and being are convertible terms?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the true and being are not convertible terms. For the true resides
 properly in the intellect, as stated (A[1]); but being is properly in things. Therefore they are not
@@ -7089,7 +7101,7 @@ Risposta all’Obiezione 2: L’inesistenza non possiede in sé nulla che possa 
 
 Risposta all’Obiezione 3: Quando si afferma che l’essere non possa essere compreso se non attraverso il concetto di vero, ciò può essere inteso in due modi. Nel primo senso, ciò significa che l’essere non può essere compreso se non dopo che il concetto di vero sia stato acquisito; e questo è vero. Nel secondo senso, ciò significherebbe che l’essere non possa essere compreso se non anche il concetto di vero viene acquisito; ma questo è falso. Tuttavia, il concetto di vero non può essere compreso se non anche il concetto di essere viene acquisito; poiché l’essere è incluso nel concetto di vero. Lo stesso vale se confrontiamo l’oggetto intelligibile con l’essere: l’essere non può essere compreso se non è intelligibile; eppure l’essere può essere compreso anche quando la sua intelligibilità non viene compresa. Allo stesso modo, l’essere, quando viene compreso, è vero; tuttavia il vero non viene compreso attraverso la comprensione dell’essere stesso.
 
-<span class="atom-split" data-atom="110" data-title="Whether good is logically prior to the true?" data-chapter="Whether good is logically prior to the true?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="110" data-title="Whether good is logically prior to the true?" data-chapter="Whether good is logically prior to the true?" data-kind="atom" data-srclang="en" data-tags="figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that good is logically prior to the true. For what is more universal is
 logically prior, as is evident from Phys. i. But the good is more universal than the true, since the
@@ -7134,7 +7146,7 @@ is ordained by the divine intellect, as it has been said that truth exists in ot
 the truth of "justice" is found in man as he fulfills his duty to his neighbor, as ordained by law.
 Hence we cannot argue from these particular truths to truth in general.
 
-<span class="atom-split" data-atom="111" data-title="Whether God is truth?" data-chapter="Whether God is truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="111" data-title="Whether God is truth?" data-chapter="Whether God is truth?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God is not truth. For truth consists in the intellect composing and
 dividing. But in God there is not composition and division. Therefore in Him there is not truth.
@@ -7192,7 +7204,7 @@ Risposta all’Obiezione 2: La verità del nostro intelletto dipende dalla sua c
 
 Risposta all’Obiezione 3: L’essere non-essere e la privazione non possiedono verità in sé stessi, ma soltanto nell’intuizione dell’intelletto. Ora, ogni intuizione dell’intelletto proviene da Dio. Pertanto, tutta la verità contenuta nell’affermazione “che una persona commette fornicazione è vera” deriva interamente da Dio. Tuttavia, sostenere che “quindi il fatto che questa persona commetta fornicazione sia dovuto a Dio” rappresenta un errore logico di tipo “accidente”.
 
-<span class="atom-split" data-atom="112" data-title="Whether there is only one truth, according to which all things are true?" data-chapter="Whether there is only one truth, according to which all things are true?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="112" data-title="Whether there is only one truth, according to which all things are true?" data-chapter="Whether there is only one truth, according to which all things are true?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that there is only one truth, according to which all things are true. For
 according to [Augustine](/figures/augustine) (De Trin. xv, 1), "nothing is greater than the mind of man, except God."
@@ -7251,7 +7263,7 @@ Risposta all’Obiezione 1: L’anima non giudica le cose in base a alcun tipo d
 
 Risposta all’Obiezione 2: L’affermazione di Anselmo è corretta nella misura in cui si sostiene che le cose siano vere in base alla loro relazione con l’intelletto divino.
 
-<span class="atom-split" data-atom="113" data-title="Whether created truth is eternal?" data-chapter="Whether created truth is eternal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="113" data-title="Whether created truth is eternal?" data-chapter="Whether created truth is eternal?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/universals,positions/eternity,figures/augustine"></span>
 
 Objection 1: It seems that created truth is eternal. For [Augustine](/figures/augustine) says (De Lib. Arbit. ii, 8)
 "Nothing is more eternal than the nature of a circle, and that two added to three make five." But
@@ -7308,7 +7320,7 @@ things. For this is truth concerning not-being; and not-being has not truth of i
 as our intellect apprehends it. Hence it is true to say that truth did not exist, in so far as we apprehend
 its not-being as preceding its being.
 
-<span class="atom-split" data-atom="114" data-title="Whether truth is immutable?" data-chapter="Whether truth is immutable?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="114" data-title="Whether truth is immutable?" data-chapter="Whether truth is immutable?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that truth is immutable. For [Augustine](/figures/augustine) says (De Lib. Arbit. ii, 12), that
 "Truth and mind do not rank as equals, otherwise truth would be mutable, as the mind is."
@@ -7369,7 +7381,7 @@ the truth which results, varies, and is variously signified by these proposition
 past, or future. Thus it does not follow, though one of the three propositions is true, that the same
 truth remains invariable.
 
-<span class="atom-split" data-atom="115" data-title="CONCERNING FALSITY (FOUR ARTICLES)" data-chapter="CONCERNING FALSITY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="115" data-title="CONCERNING FALSITY (FOUR ARTICLES)" data-chapter="CONCERNING FALSITY (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 We next consider falsity. About this four points of inquiry arise:
 (1) Whether falsity exists in things?
@@ -7385,7 +7397,7 @@ Esaminiamo ora la falsità. A questo proposito sorgono quattro questioni princip
 (3) Esiste nell’intelletto stesso?
 (4) In merito all’opposizione tra vero e falso.
 
-<span class="atom-split" data-atom="116" data-title="Whether falsity exists in things?" data-chapter="Whether falsity exists in things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="116" data-title="Whether falsity exists in things?" data-chapter="Whether falsity exists in things?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It appears that falsity does not exist in things. For [Augustine](/figures/augustine) says (Soliloq. ii, 8),
 "If the true is that which is, it will be concluded that the false exists nowhere; whatever reason may
@@ -7455,7 +7467,7 @@ involve the idea of falsity except in so far as it gives occasion to false opini
 always said to be false, because it resembles another thing; but only when the resemblance is such
 as naturally to produce a false opinion, not in any one case, but in the majority of instances.
 
-<span class="atom-split" data-atom="117" data-title="Whether there is falsity in the senses?" data-chapter="Whether there is falsity in the senses?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="117" data-title="Whether there is falsity in the senses?" data-chapter="Whether there is falsity in the senses?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that falsity is not in the senses. For [Augustine](/figures/augustine) says (De Vera Relig. 33):
 "If all the bodily senses report as they are affected, I do not know what more we can require from
@@ -7509,7 +7521,7 @@ the likeness of things that are not present in substance.
 Reply to Objection 3: This argument proves that the false is not in the sense, as in that which
 knows the true and the false.
 
-<span class="atom-split" data-atom="118" data-title="Whether falsity is in the intellect?" data-chapter="Whether falsity is in the intellect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="118" data-title="Whether falsity is in the intellect?" data-chapter="Whether falsity is in the intellect?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that falsity is not in the intellect. For [Augustine](/figures/augustine) says (Qq. lxxxiii, 32),
 "Everyone who is deceived, understands not that in which he is deceived." But falsity is said to
@@ -7576,7 +7588,7 @@ Risposta all’Obiezione 1: Poiché l’essenza di una cosa è l’oggetto propr
 
 Risposta all’Obiezione 2: L’intelletto è sempre corretto riguardo ai principi primi; poiché non viene ingannato su di essi per la stessa ragione per cui non viene ingannato sulla natura stessa delle cose. I principi primi, infatti, sono tali che vengono immediatamente compresi non appena i loro termini vengono chiariti, poiché il predicato è contenuto nella definizione del soggetto.
 
-<span class="atom-split" data-atom="119" data-title="Whether true and false are contraries?" data-chapter="Whether true and false are contraries?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="119" data-title="Whether true and false are contraries?" data-chapter="Whether true and false are contraries?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that true and false are not contraries. For true and false are opposed, as
 that which is to that which is not; for "truth," as [Augustine](/figures/augustine) says (Soliloq. ii, 5), "is that which is."
@@ -7624,7 +7636,7 @@ in our apprehension of Him contraries exist, for the false opinion concerning Hi
 the true. So idols are called lies, opposed to the divine truth, inasmuch as the false opinion concerning
 them is contrary to the true opinion of the divine unity.
 
-<span class="atom-split" data-atom="120" data-title="THE LIFE OF GOD (FOUR ARTICLES)" data-chapter="THE LIFE OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="120" data-title="THE LIFE OF GOD (FOUR ARTICLES)" data-chapter="THE LIFE OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,forms/quaestio,schools/scholasticism"></span>
 
 Since to understand belongs to living beings, after considering the divine knowledge and
 intellect, we must consider the divine life. About this, four points of inquiry arise:
@@ -7641,7 +7653,7 @@ Poiché comprendere è una caratteristica degli esseri viventi, dopo aver consid
 (3) Si può attribuire correttamente la vita a Dio?  
 (4) Tutte le cose che esistono in Dio sono considerate vita?
 
-<span class="atom-split" data-atom="121" data-title="Whether to live belongs to all natural things?" data-chapter="Whether to live belongs to all natural things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="121" data-title="Whether to live belongs to all natural things?" data-chapter="Whether to live belongs to all natural things?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that to live belongs to all natural things. For the Philosopher says (Phys.
 viii, 1) that "Movement is like a kind of life possessed by all things existing in nature." But all
@@ -7719,7 +7731,7 @@ Risposta all’Obiezione 2: Ai corpi, sia pesanti che leggeri, il movimento non 
 
 Risposta all’Obiezione 3: Le acque vengono definite “vive” quando presentano un flusso continuo; quelle stazionarie, che non sono collegate a una sorgente che scorre in modo costante, vengono invece definite “morte”, come nelle cisterne e nei laghi. Si tratta semplicemente di una metafora: il movimento che si osserva in queste acque le fa sembrare vive, ma tale movimento non deriva da loro stesse, bensì dalla causa che le genera. Lo stesso vale per il movimento di altri corpi, sia pesanti che leggeri.
 
-<span class="atom-split" data-atom="122" data-title="Whether life is an operation?" data-chapter="Whether life is an operation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="122" data-title="Whether life is an operation?" data-chapter="Whether life is an operation?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that life is an operation. For nothing is divided except into parts of the
 same genus. But life is divided by certain operations, as is clear from the Philosopher (De [Anima](/concepts/soul)
@@ -7793,7 +7805,7 @@ Risposta all’Obiezione 1: Il filosofo qui intende con “vivere” un’attivi
 
 Risposta all’Obiezione 2: Con “operazioni vitali” si intendono quelle il cui principio risiede nell’individuo stesso e grazie alle quali quest’ultimo è in grado di compiere tali operazioni. È vero che negli esseri umani esistono non solo principi naturali che determinano certe azioni, ma anche abitudini che, come una sorta di “seconda natura”, li spingono verso particolari tipi di attività, rendendole fonte di piacere. Pertanto, qualsiasi tipo di lavoro dal quale un uomo trae gioia – per il quale quindi è incline a dedicargli tempo e organizza tutta la propria vita in suo favore – può essere considerato l’essenza stessa della sua esistenza. Da ciò deriva che alcune persone conducono una vita di autodisciplina, altre una vita virtuosa; in questo modo, la vita contemplativa si distingue dalla vita attiva, e conoscere Dio viene definita “vita eterna”. Pertanto, anche la Risposta alla Terza Obiezione risulta chiara.
 
-<span class="atom-split" data-atom="123" data-title="Whether life is properly attributed to God?" data-chapter="Whether life is properly attributed to God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="123" data-title="Whether life is properly attributed to God?" data-chapter="Whether life is properly attributed to God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that life is not properly attributed to God. For things are said to live
 inasmuch as they move themselves, as previously stated (A[2]). But movement does not belong to
@@ -7889,7 +7901,7 @@ Risposta all’Obiezione 2: Poiché Dio è la sua stessa esistenza e comprension
 
 Risposta all’Obiezione 3: La vita in questo mondo inferiore viene concessa a una natura corruttibile, che ha bisogno della riproduzione per preservare la specie e del nutrimento per mantenere l’individuo. Per questa ragione, qui sotto la vita esiste soltanto nelle forme legate alla vita vegetativa; ma ciò non vale per le nature incorruptibili.
 
-<span class="atom-split" data-atom="124" data-title="Whether all things are life in God?" data-chapter="Whether all things are life in God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="124" data-title="Whether all things are life in God?" data-chapter="Whether all things are life in God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that not all things are life in God. For it is said (Acts 17:28), "In Him we
 live, and move, and be." But not all things in God are movement. Therefore not all things are life
@@ -7976,7 +7988,7 @@ Risposta all’Obiezione 3: Se solo la forma, e non la materia, appartenesse all
 
 Risposta all’Obiezione 4: Sebbene le cose cattive siano conosciute da Dio, poiché fanno parte di quella sua conoscenza, esse non esistono in Dio nel senso che siano state create da Lui, conservate da Lui o abbiano in Lui il proprio “modello”. Dio le conosce attraverso i “modelli” delle cose buone. Pertanto, non si può affermare che le cose cattive costituiscano una sorta di “vita” in Dio. Quelle cose che non appartengono al tempo possono essere considerate “vita” in Dio nel senso che il concetto di vita indica soltanto la conoscenza, e poiché esse sono conosciute da Dio; ma non nel senso che il concetto di vita implichi un principio di azione o di operazione.
 
-<span class="atom-split" data-atom="125" data-title="THE WILL OF GOD (TWELVE ARTICLES)" data-chapter="THE WILL OF GOD (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="125" data-title="THE WILL OF GOD (TWELVE ARTICLES)" data-chapter="THE WILL OF GOD (TWELVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,positions/free_will,concepts/will,concepts/cause"></span>
 
 After considering the things belonging to the divine knowledge, we consider what belongs to
 the divine will. The first consideration is about the divine will itself; the second about what belongs
@@ -8011,7 +8023,7 @@ Dopo aver considerato ciò che appartiene alla conoscenza divina, esaminiamo ora
 (11) In Dio esiste una volontà di manifestare ciò che vuole?  
 (12) Si possono attribuire correttamente cinque forme diverse di espressione della volontà divina?
 
-<span class="atom-split" data-atom="126" data-title="Whether there is will in God?" data-chapter="Whether there is will in God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="126" data-title="Whether there is will in God?" data-chapter="Whether there is will in God?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/will,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that there is not will in God. For the object of will is the end and the
 good. But we cannot assign to God any end. Therefore there is not will in God.
@@ -8031,7 +8043,7 @@ Obiezione 2: Inoltre, la volontà è un tipo di desiderio. Ma il desiderio, poic
 
 Obiezione 3: Inoltre, secondo il Filosofo (De [Anima](/concepts/soul) iii, 54), la volontà muove e viene mossa. Ma Dio è la causa prima del movimento, ed Egli stesso è immoto, come dimostrato in Phys. viii.
 
-<span class="atom-split" data-atom="127" data-title="49. Therefore there is not will in God." data-chapter="49. Therefore there is not will in God." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="127" data-title="49. Therefore there is not will in God." data-chapter="49. Therefore there is not will in God." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 On the contrary, The Apostle says (Rom. 12:2): "That you may prove what is the will of God."
 
@@ -8073,7 +8085,7 @@ Risposta all’Obiezione 2: La volontà in noi appartiene alla parte appetitiva;
 
 Risposta all’Obiezione 3: Una volontà il cui oggetto principale è un bene in sé stante deve essere mossa da qualcos’altro; ma l’oggetto della volontà divina è la Sua bontà, che è la Sua essenza. Pertanto, poiché la volontà di Dio è la Sua essenza, essa non viene mossa da nulla altro se non da sé stessa, ma soltanto da sé stessa, nello stesso senso in cui si dice che il comprendere e il voler siano atti di movimento. È ciò che intendeva Platone quando affermava che il primo motore si muove da solo.
 
-<span class="atom-split" data-atom="128" data-title="Whether God wills things apart from Himself?" data-chapter="Whether God wills things apart from Himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="128" data-title="Whether God wills things apart from Himself?" data-chapter="Whether God wills things apart from Himself?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God does not will things apart from Himself. For the divine will is
 the divine existence. But God is not other than Himself. Therefore He does not will things other
@@ -8154,7 +8166,7 @@ Risposta all’Obiezione 3: Dal fatto che la sua stessa bontà sia sufficiente a
 
 Risposta all’Obiezione 4: Poiché l’intelligenza divina è unica, e vede il molteplice soltanto nell’unità, allo stesso modo anche la volontà divina è unica e semplice, poiché desidera il molteplice soltanto attraverso l’unità, cioè attraverso la propria bontà.
 
-<span class="atom-split" data-atom="129" data-title="Whether whatever God wills He wills necessarily?" data-chapter="Whether whatever God wills He wills necessarily?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="129" data-title="Whether whatever God wills He wills necessarily?" data-chapter="Whether whatever God wills He wills necessarily?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that whatever God wills He wills necessarily. For everything eternal is
 necessary. But whatever God wills, He wills from [eternity](/positions/eternity), for otherwise His will would be mutable.
@@ -8269,7 +8281,7 @@ Risposta all’Obiezione 5: Una causa naturalmente contingente deve essere deter
 
 Risposta all’Obiezione 6: Poiché l’essenza divina è necessaria di per sé, lo stesso vale per la volontà divina e la conoscenza divina; tuttavia, la conoscenza divina ha una relazione necessaria con ciò che viene conosciuto, mentre la volontà divina non ha una tale relazione con ciò che viene voluto. Il motivo di ciò è che la conoscenza riguarda le cose così come esistono nell’intelletto umano; invece, la volontà si dirige verso le cose così come esistono in sé stesse. Poiché tutte le altre cose hanno un’esistenza necessaria nella misura in cui esistono in Dio, esse non possiedono però una necessità assoluta che le renda necessarie di per sé stesse; ne consegue che Dio conosce necessariamente tutto ciò che vuole, ma non vuole necessariamente tutto ciò che desidera.
 
-<span class="atom-split" data-atom="130" data-title="Whether the will of God is the cause of things?" data-chapter="Whether the will of God is the cause of things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="130" data-title="Whether the will of God is the cause of things?" data-chapter="Whether the will of God is the cause of things?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/will,concepts/cause,figures/augustine,schools/scholasticism"></span>
 
 Objection 1: It seems that the will of God is not the cause of things. For Dionysius says (Div.
 Nom. iv, 1): "As our sun, not by reason nor by pre-election, but by its very being, enlightens all
@@ -8361,7 +8373,7 @@ Risposta all’Obiezione 3: Il bene è l’oggetto della volontà. Pertanto, le 
 
 Risposta all’Obiezione 4: Anche in noi, la causa dello stesso effetto è la conoscenza che lo dirige, attraverso la quale viene concepita la forma dell’opera, e la volontà che la comanda; infatti, la forma, essendo presente soltanto nell’intelletto, non è determinata ad esistere o meno nell’effetto se non dalla volontà. Pertanto, l’intelletto speculativo non ha alcun ruolo nell’azione concreta. Ma la potenza è causa, in quanto realizza effettivamente l’operazione, poiché rappresenta il principio immediato dell’azione stessa. Tuttavia, in Dio tutte queste cose sono una sola.
 
-<span class="atom-split" data-atom="131" data-title="Whether any cause can be assigned to the divine will?" data-chapter="Whether any cause can be assigned to the divine will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="131" data-title="Whether any cause can be assigned to the divine will?" data-chapter="Whether any cause can be assigned to the divine will?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/cause,concepts/will,figures/augustine"></span>
 
 Objection 1: It seems that some cause can be assigned to the divine will. For [Augustine](/figures/augustine) says
 (Qq. lxxxiii, 46): "Who would venture to say that God made all things irrationally?" But to a
@@ -8439,7 +8451,7 @@ Risposta all’Obiezione 2: Poiché Dio vuole che gli effetti derivino da cause 
 
 Risposta all’Obiezione 3: Poiché Dio vuole che gli effetti derivino da cause, tutti gli effetti che presuppongono un altro effetto non dipendono esclusivamente dalla volontà di Dio, ma anche da altre cose; invece, il primo effetto dipende unicamente dalla volontà divina. Ad esempio, si può dire che Dio abbia voluto che l’uomo avesse mani per servire il proprio intelletto attraverso il loro lavoro, e che l’intelletto esistesse affinché l’uomo potesse essere uomo; inoltre, Dio ha voluto che l’uomo fosse uomo affinché potesse godere di Lui o affinché l’universo potesse essere completato. Ma tutto ciò non può essere ridotto ad altri fini secondari creati da Dio. Pertanto, alcune cose dipendono dalla semplice volontà divina, mentre altre dipendono dall’ordine delle altre cause.
 
-<span class="atom-split" data-atom="132" data-title="Whether the will of God is always fulfilled?" data-chapter="Whether the will of God is always fulfilled?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="132" data-title="Whether the will of God is always fulfilled?" data-chapter="Whether the will of God is always fulfilled?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/providence,concepts/will,concepts/cause,figures/augustine"></span>
 
 Objection 1: It seems that the will of God is not always fulfilled. For the Apostle says (1 Tim.
 2:4): "God will have all men to be saved, and to come to the knowledge of the truth." But this does
@@ -8532,7 +8544,7 @@ Risposta all’Obiezione 2: Un atto della facoltà cognitiva è determinato da c
 
 Risposta all’Obiezione 3: Una causa prima può vedere il proprio effetto ostacolato da una carenza nella causa secondaria, quando tale causa non è la causa prima universale che include in sé tutte le altre cause; in tal caso, l’effetto non potrebbe assolutamente sfuggire al proprio ordine. Ed è esattamente ciò che accade con la volontà di Dio, come detto sopra.
 
-<span class="atom-split" data-atom="133" data-title="Whether the will of God is changeable?" data-chapter="Whether the will of God is changeable?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="133" data-title="Whether the will of God is changeable?" data-chapter="Whether the will of God is changeable?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the Will of God is changeable. For the Lord says (Gn. 6:7): "It
 repenteth Me that I have made man." But whoever repents of what he has done, has a changeable
@@ -8622,7 +8634,7 @@ Risposta all’Obiezione 3: Da questo argomento non si deduce che Dio abbia un v
 
 Risposta all’Obiezione 4: Sebbene la volontà di Dio riguardo a qualcosa non sia dovuta a una necessità assoluta, essa è comunque necessaria in termini logici, a causa dell’immutabilità della volontà divina, come già detto sopra (A[3]).
 
-<span class="atom-split" data-atom="134" data-title="Whether the will of God imposes necessity on the things willed?" data-chapter="Whether the will of God imposes necessity on the things willed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="134" data-title="Whether the will of God imposes necessity on the things willed?" data-chapter="Whether the will of God imposes necessity on the things willed?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/freedom_necessity,positions/free_will,concepts/will,concepts/cause"></span>
 
 Objection 1: It seems that the will of God imposes necessity on the things willed. For [Augustine](/figures/augustine)
 says (Enchiridion 103): "No one is saved, except whom God has willed to be saved. He must
@@ -8696,7 +8708,7 @@ Risposta all’Obiezione 2: Dal semplice fatto che nulla si oppone alla volontà
 
 Risposta all’Obiezione 3: Le conseguenze possiedono necessità derivante dai loro antecedenti, secondo il modo in cui questi ultimi sono strutturati. Pertanto, le cose realizzate per volere divino possiedono quella sorta di necessità che Dio stesso ha voluto che avessero, sia essa assoluta che condizionata. Non tutte le cose, dunque, sono necessità assolute.
 
-<span class="atom-split" data-atom="135" data-title="Whether God wills evils?" data-chapter="Whether God wills evils?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="135" data-title="Whether God wills evils?" data-chapter="Whether God wills evils?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God wills evils. For every good that exists, God wills. But it is a
 good that evil should exist. For [Augustine](/figures/augustine) says (Enchiridion 95): "Although evil in so far as it is
@@ -8757,7 +8769,7 @@ contradictories; yet the statements that anyone wills evil to exist and that he 
 not so opposed; since either is affirmative. God therefore neither wills evil to be done, nor wills it
 not to be done, but wills to permit evil to be done; and this is a good.
 
-<span class="atom-split" data-atom="136" data-title="Whether God has free-will?" data-chapter="Whether God has free-will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="136" data-title="Whether God has free-will?" data-chapter="Whether God has free-will?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/free_will,concepts/will"></span>
 
 Objection 1: It seems that God has not free-will. For Jerome says, in a homily on the prodigal
 son [*Ep. 146, ad Damas.]; "God alone is He who is not liable to sin, nor can be liable: all others,
@@ -8799,7 +8811,7 @@ Risposta all’Obiezione 1: Sembra che Gerome neghi la libertà di volontà a Di
 
 Risposta all’Obiezione 2: Poiché il male del peccato consiste nel allontanarsi dalla bontà divina, attraverso la quale Dio vuole tutte le cose, come è stato dimostrato sopra (De Fide ii, 3), è chiaramente impossibile che Egli voglia il male del peccato; tuttavia Egli può scegliere tra due opposti, poiché può voler che una cosa esista o non esista. Allo stesso modo, anche noi, senza peccato, possiamo voler sederci o non voler sederci.
 
-<span class="atom-split" data-atom="137" data-title="Whether the will of expression is to be distinguished in God?" data-chapter="Whether the will of expression is to be distinguished in God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="137" data-title="Whether the will of expression is to be distinguished in God?" data-chapter="Whether the will of expression is to be distinguished in God?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/will,concepts/anger"></span>
 
 Objection 1: It seems that the will of expression is not to be distinguished in God. For as the
 will of God is the cause of things, so is His wisdom. But no expressions are assigned to the divine
@@ -8853,7 +8865,7 @@ Risposta all’Obiezione 1: La conoscenza non è la causa dell’attuazione di u
 
 Risposta all’Obiezione 2: Le espressioni della volontà vengono chiamate “volontà divina” non perché siano segni del fatto che Dio desideri qualcosa; ma perché ciò che in noi rappresenta l’espressione abituale della nostra volontà, viene considerato “volontà divina” in Dio. Pertanto, la punizione non è un segno dell’esistenza di ira in Dio; ma viene chiamata “ira” da Lui, perché rappresenta un’espresione di ira in noi stessi.
 
-<span class="atom-split" data-atom="138" data-title="Whether five expressions of will are rightly assigned to the divine will?" data-chapter="Whether five expressions of will are rightly assigned to the divine will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="138" data-title="Whether five expressions of will are rightly assigned to the divine will?" data-chapter="Whether five expressions of will are rightly assigned to the divine will?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that five expressions of will---namely, prohibition, precept, counsel,
 operation, and permission---are not rightly assigned to the divine will. For the same things that God
@@ -8939,7 +8951,7 @@ Risposta all’Obiezione 3: Le creature razionali sono padrone dei propri atti; 
 
 Risposta all’Obiezione 4: Tutti i mali derivanti dal peccato, sebbene si manifestino in modi diversi, hanno in comune il fatto di essere in disarmonia con la volontà divina. Pertanto, riguardo al male, viene utilizzata un’unica espressione: quella di “proibizione”. D’altra parte, il bene è legato alla bontà divina in modi diversi: ci sono azioni buone senza le quali non possiamo realizzare pienamente quella bontà, e queste rappresentano l’oggetto dei precetti; ci sono altre azioni grazie alle quali possiamo raggiungerla in modo più perfetto, e queste costituiscono l’oggetto dei consigli. Si potrebbe anche dire che i consigli riguardino non solo la ricerca di un bene maggiore, ma anche l’evitamento di mali minori.
 
-<span class="atom-split" data-atom="139" data-title="GOD'S LOVE (FOUR ARTICLES)" data-chapter="GOD'S LOVE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="139" data-title="GOD'S LOVE (FOUR ARTICLES)" data-chapter="GOD'S LOVE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We next consider those things that pertain absolutely to the will of God. In the appetitive part
 of the soul there are found in ourselves both the passions of the soul, as joy, love, and the like; and
@@ -8958,7 +8970,7 @@ Esaminiamo ora quelle cose che riguardano esclusivamente la volontà di Dio. Nel
 (3) Ami una cosa più di un’altra?  
 (4) Ama maggiormente le cose migliori?
 
-<span class="atom-split" data-atom="140" data-title="Whether love exists in God?" data-chapter="Whether love exists in God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="140" data-title="Whether love exists in God?" data-chapter="Whether love exists in God?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/will,concepts/passion,concepts/anger,concepts/soul"></span>
 
 Objection 1: It seems that love does not exist in God. For in God there are no passions. Now
 love is a passion. Therefore love is not in God.
@@ -9046,7 +9058,7 @@ Risposta all’Obiezione 2: Nelle passioni dell’appetito sensibile si può dis
 
 Risposta all’Obiezione 3: Un atto d’amore tende sempre verso due cose: al bene che si desidera e alla persona per la quale si desidera quel bene; infatti, amare qualcuno significa desiderargli il bene. Pertanto, poiché amiamo noi stessi, desideriamo a noi stessi il bene e, per quanto possibile, l’unione con tale bene. Per questo motivo l’amore è definito una forza unificante, anche in Dio, senza che ciò implichi alcuna composizione tra le parti; infatti, il bene che Dio desidera per sé stesso non è altro che Lui stesso, che è buono per essenza sua, come già dimostrato in precedenza (Q[6], AA[1],3). Inoltre, quando qualcuno ama un’altra persona, desidera quel bene per quella persona; in questo modo pone l’altra al proprio posto e considera il bene che le viene fatto come se fosse stato fatto a sé stesso. Quindi l’amore è una forza vincolante, poiché unisce un’altra persona a noi stessi e riferisce il suo bene al nostro. Anche l’amore divino è una forza vincolante, poiché Dio desidera il bene per gli altri; tuttavia, in Lui ciò non implica alcuna composizione tra le parti.
 
-<span class="atom-split" data-atom="141" data-title="Whether God loves all things?" data-chapter="Whether God loves all things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="141" data-title="Whether God loves all things?" data-chapter="Whether God loves all things?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/cause,concepts/will,concepts/friendship,positions/providence"></span>
 
 Objection 1: It seems that God does not love all things. For according to Dionysius (Div. Nom.
 iv, 1), love places the lover outside himself, and causes him to pass, as it were, into the object of
@@ -9129,7 +9141,7 @@ Risposta all’Obiezione 3: L’amicizia non può esistere se non verso creature
 
 Risposta all’Obiezione 4: Niente impedisce che la stessa cosa venga amata da un certo punto di vista e odiata da un altro. Dio ama i peccatori nella misura in cui sono esseri esistenti; infatti, hanno un’esistenza e questa esistenza deriva da Lui. Nella misura in cui sono peccatori, però, non possiedono affatto un’esistenza reale, ma ne sono privi; e questo aspetto del loro essere non proviene da Dio. Pertanto, da questo punto di vista, vengono odiati da Lui.
 
-<span class="atom-split" data-atom="142" data-title="Whether God loves all things equally?" data-chapter="Whether God loves all things equally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="142" data-title="Whether God loves all things equally?" data-chapter="Whether God loves all things equally?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God loves all things equally. For it is said: "He hath equally care of
 all" (Wis. 6:8). But God's providence over things comes from the love wherewith He loves them.
@@ -9167,7 +9179,7 @@ Reply to Objection 3: To understand and to will denote the act alone, and do not
 their meaning objects from the diversity of which God may be said to know or will more or less,
 as has been said with respect to God's love.
 
-<span class="atom-split" data-atom="143" data-title="Whether God always loves more the better things?" data-chapter="Whether God always loves more the better things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="143" data-title="Whether God always loves more the better things?" data-chapter="Whether God always loves more the better things?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God does not always love more the better things. For it is manifest
 that Christ is better than the whole human race, being God and man. But God loved the human race
@@ -9259,7 +9271,7 @@ by divine goodness. According therefore to the time, when there is to be given b
 to the predestined sinner a greater good, the sinner is better; although according to some other time
 he is the worse; because even according to some time he is neither good nor bad.
 
-<span class="atom-split" data-atom="144" data-title="THE JUSTICE AND MERCY OF GOD (FOUR ARTICLES)" data-chapter="THE JUSTICE AND MERCY OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="144" data-title="THE JUSTICE AND MERCY OF GOD (FOUR ARTICLES)" data-chapter="THE JUSTICE AND MERCY OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 After considering the divine love, we must treat of God's justice and mercy. Under this head
 there are four points of inquiry:
@@ -9276,7 +9288,7 @@ Dopo aver considerato l’amore divino, dobbiamo trattare della giustizia e dell
 (3) Esiste misericordia in Dio?  
 (4) In ogni opera di Dio vi sono sia giustizia che misericordia?
 
-<span class="atom-split" data-atom="145" data-title="Whether there is justice in God?" data-chapter="Whether there is justice in God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="145" data-title="Whether there is justice in God?" data-chapter="Whether there is justice in God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that there is not justice in God. For justice is divided against temperance.
 But temperance does not exist in God: neither therefore does justice.
@@ -9371,7 +9383,7 @@ Risposta all’Obiezione 3: A ciascuno spetta ciò che gli appartiene. Ora, ciò
 
 Risposta all’Obiezione 4: Sebbene la giustizia riguardi l’atto, ciò non impedisce che essa sia essenza di Dio; infatti anche ciò che è essenza di una cosa può essere il principio dell’azione. Ma il bene non riguarda sempre l’atto; una cosa viene infatti chiamata buona non soltanto in relazione all’atto, ma anche per la perfezione della sua essenza. Per questo motivo si dice (in “De Hebdom.”) che il bene è correlato alla giustizia, come il generale al particolare.
 
-<span class="atom-split" data-atom="146" data-title="Whether the justice of God is truth?" data-chapter="Whether the justice of God is truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="146" data-title="Whether the justice of God is truth?" data-chapter="Whether the justice of God is truth?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the justice of God is not truth. For justice resides in the will; since,
 as Anselm says (Dial. Verit. 13), it is a rectitude of the will, whereas truth resides in the intellect,
@@ -9418,7 +9430,7 @@ Risposta all’Obiezione 1: La giustizia, in relazione alla legge che guida le n
 
 Risposta all’Obiezione 2: La verità di cui parla il Filosofo in questo passaggio è quella virtù mediante la quale un uomo si manifesta, con parole e azioni, tale quale realmente è. Essa consiste quindi nella conformità del segno con la cosa che esso indica; e non nella conformità dell’effetto con la sua causa e il suo principio regolatore: come è stato detto riguardo alla verità della giustizia.
 
-<span class="atom-split" data-atom="147" data-title="Whether mercy can be attributed to God?" data-chapter="Whether mercy can be attributed to God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="147" data-title="Whether mercy can be attributed to God?" data-chapter="Whether mercy can be attributed to God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that mercy cannot be attributed to God. For mercy is a kind of sorrow,
 as Damascene says (De Fide Orth. ii, 14). But there is no sorrow in God; and therefore there is no
@@ -9450,7 +9462,7 @@ to things by God expel defects, it belongs to mercy.
 Reply to Objection 1: This argument is based on mercy, regarded as an affection of passion.
 
 Reply to Objection 2: God acts mercifully, not indeed by going against His justice, but by
-doing something more than justice; thus a man who pays another two hundred pieces of money,
+doing something more than justice; thus a man who pays another two hundred pieces of [money](/concepts/money),
 though owing him only one hundred, does nothing against justice, but acts liberally or mercifully.
 The case is the same with one who pardons an offence committed against him, for in remitting it
 he may be said to bestow a gift. Hence the Apostle calls remission a forgiving: "Forgive one another,
@@ -9472,7 +9484,7 @@ Risposta all’Obiezione 1: Questo argomento si basa sulla misericordia, conside
 
 Risposta all’Obiezione 2: Dio agisce con misericordia, non certo contravvenendo alla Sua giustizia, ma facendo qualcosa di più della semplice giustizia; pertanto, un uomo che paga duecento monete a qualcuno che gli ne deve soltanto cento non compie alcun atto contrario alla giustizia, ma agisce con generosità o misericordia. Lo stesso vale per colui che perdona un torto commesso contro di lui: nel perdonarlo, si può dire che stia offrendo un dono. Ecco perché l’Apostolo definisce il perdono “un atto di misericordia”: “Perdona uno gli altri, come Cristo vi ha perdonati” (Efesini 4:32). È quindi evidente che la misericordia non distrugge la giustizia, ma in un certo senso ne rappresenta l’essenza stessa. E per questo si dice: “La misericordia è superiore alla giustizia” (Giacomo 2:13).
 
-<span class="atom-split" data-atom="148" data-title="Whether in every work of God there are mercy and justice?" data-chapter="Whether in every work of God there are mercy and justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="148" data-title="Whether in every work of God there are mercy and justice?" data-chapter="Whether in every work of God there are mercy and justice?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that not in every work of God are mercy and justice. For some works of
 God are attributed to mercy, as the justification of the ungodly; and others to justice, as the damnation
@@ -9558,7 +9570,7 @@ Risposta all’Obiezione 3: Giustizia e misericordia si manifestano nella punizi
 
 Risposta all’Obiezione 4: Sebbene la creazione non presupponga nulla nell’universo, essa presuppone tuttavia qualcosa nella conoscenza di Dio. Anche in questo modo l’idea di giustizia viene conservata nella creazione, attraverso la produzione di esseri in modo che concordino con la saggezza e la bontà divine. Allo stesso modo, anche l’idea di misericordia viene preservata nel passaggio delle creature dall’inesistenza all’esistenza.
 
-<span class="atom-split" data-atom="149" data-title="THE PROVIDENCE OF GOD (FOUR ARTICLES)" data-chapter="THE PROVIDENCE OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="149" data-title="THE PROVIDENCE OF GOD (FOUR ARTICLES)" data-chapter="THE PROVIDENCE OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/providence,concepts/predestination"></span>
 
 Having considered all that relates to the will absolutely, we must now proceed to those things
 which have relation to both the intellect and the will, namely providence, in respect to all created
@@ -9579,7 +9591,7 @@ Avendo esaminato tutto ciò che riguarda assolutamente la volontà, dobbiamo ora
 (3) Se la provvidenza divina si occupi direttamente di tutte le cose;  
 (4) Se la provvidenza divina imponga necessariamente ciò che è previsto.
 
-<span class="atom-split" data-atom="150" data-title="Whether providence can suitably be attributed to God?" data-chapter="Whether providence can suitably be attributed to God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="150" data-title="Whether providence can suitably be attributed to God?" data-chapter="Whether providence can suitably be attributed to God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that providence is not becoming to God. For providence, according to
 Tully (De Invent. ii), is a part of prudence. But prudence, since, according to the Philosopher (Ethic.
@@ -9658,7 +9670,7 @@ Risposta all’Obiezione 2: Due aspetti riguardano la cura della provvidenza: da
 
 Risposta all’Obiezione 3: La Provvidenza risiede nell’intelletto; ma presuppone l’atto di volere quel fine. Nessuno dà precetti riguardo a azioni compiute per un certo scopo, se non si desidera effettivamente tale scopo. Pertanto, la prudenza presuppone le virtù morali, attraverso le quali la facoltà appetitiva viene indirizzata verso il bene, come afferma il Filosofo. Anche se la Provvidenza riguardasse ugualmente sia la volontà che l’intelletto divini, ciò non influenzerebbe in alcun modo la semplicità divina, poiché in Dio volontà e intelletto sono una stessa cosa, come abbiamo già detto sopra (Q[19]).
 
-<span class="atom-split" data-atom="151" data-title="Whether everything is subject to the providence of God? (parte 1)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="151" data-title="Whether everything is subject to the providence of God? (parte 1)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that everything is not subject to divine providence. For nothing foreseen
 can happen by [chance](/concepts/fortune). If then everything was foreseen by God, nothing would happen by chance.
@@ -9772,7 +9784,7 @@ Risposta all’Obiezione 2: È diverso il caso di colui che si prende cura di un
 
 Risposta all’Obiezione 3: L’uomo non è l’autore della natura; ma utilizza le cose naturali per applicare arte e virtù ai propri scopi. Pertanto, la provvidenza umana non si estende a ciò che avviene nella natura per necessità; mentre la provvidenza divina sì, poiché Dio è l’autore della natura. Apparentemente fu proprio questo argomento a convincere coloro che allontanarono il corso naturale dalla cura della provvidenza divina, attribuendolo piuttosto alla necessità stessa della materia, come fecero Democrito e altri antichi.
 
-<span class="atom-split" data-atom="152" data-title="Whether everything is subject to the providence of God? (parte 2)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="152" data-title="Whether everything is subject to the providence of God? (parte 2)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 4: When it is said that God left man to himself, this does not mean that
 man is exempt from divine providence; but merely that he has not a prefixed operating force
@@ -9804,7 +9816,7 @@ Risposta all’Obiezione 4: Quando si afferma che Dio abbia lasciato l’uomo a 
 
 Risposta all’Obiezione 5: Poiché una creatura razionale, attraverso la sua volontà libera, ha il controllo sulle proprie azioni – come è stato detto sopra (Q[19], A[10]) – essa è soggetta alla provvidenza divina in modo particolare; pertanto le sue azioni vengono considerate colpe o meriti, e di conseguenza le viene inflitta una punizione o concessa una ricompensa. In questo modo, l’Apostolo esclude gli animali dalla cura di Dio; tuttavia, ciò non significa che le creature irrazionali sfuggano alla provvidenza divina, come riteneva il Rabbino Mosè.
 
-<span class="atom-split" data-atom="153" data-title="Whether God has immediate providence over everything?" data-chapter="Whether God has immediate providence over everything?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="153" data-title="Whether God has immediate providence over everything?" data-chapter="Whether God has immediate providence over everything?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God has not immediate providence over all things. For whatever is
 contained in the notion of dignity, must be attributed to God. But it belongs to the dignity of a king,
@@ -9874,7 +9886,7 @@ Risposta all’Obiezione 2: L’intervento diretto di Dio su ogni cosa non esclu
 
 Risposta all’Obiezione 3: È meglio per noi non conoscere cose basse e vili, poiché esse ostacolano la nostra comprensione di ciò che è migliore e più nobile; inoltre, non possiamo comprendere molte cose contemporaneamente, e il pensiero del male può talvolta deviare la nostra volontà verso il male. Questo non vale per Dio, che vede tutto simultaneamente con un solo sguardo, e la cui volontà non può mai dirigersi verso il male.
 
-<span class="atom-split" data-atom="154" data-title="Whether providence imposes any necessity on things foreseen?" data-chapter="Whether providence imposes any necessity on things foreseen?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="154" data-title="Whether providence imposes any necessity on things foreseen?" data-chapter="Whether providence imposes any necessity on things foreseen?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that divine providence imposes necessity upon things foreseen. For every
 effect that has a "per se" cause, either present or past, which it necessarily follows, happens from
@@ -9935,7 +9947,7 @@ Risposta all’Obiezione 2: L’ordine della provvidenza divina è immutabile e 
 
 Risposta all’Obiezione 3: Quell’indissolubilità e immutabilità di cui parla Boezio riguardano la certezza della provvidenza, che non manca mai di produrre i suoi effetti nel modo previsto; tuttavia, tali caratteristiche non riguardano necessariamente l’inevitabilità stessa di quegli effetti. Dobbiamo ricordare che, in senso proprio, “necessario” e “contingente” derivano dal concetto stesso di essere. Pertanto, sia il concetto di necessità che quello di contingenza rientrano nell’ambito della previsione di Dio, il quale provvede universalmente a tutto ciò che esiste; non invece nel contesto delle cause che agiscono soltanto su determinati aspetti dell’esistenza.
 
-<span class="atom-split" data-atom="155" data-title="OF PREDESTINATION (EIGHT ARTICLES)" data-chapter="OF PREDESTINATION (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="155" data-title="OF PREDESTINATION (EIGHT ARTICLES)" data-chapter="OF PREDESTINATION (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 After consideration of divine providence, we must treat of [predestination](/concepts/predestination) and the book of life.
 Concerning predestination there are eight points of inquiry:
@@ -9962,7 +9974,7 @@ Per quanto riguarda la predestinazione, ci sono otto punti da esaminare:
 (7) Se il numero dei predestinati sia certo;  
 (8) Se le preghiere dei santi possano influenzare positivamente la realizzazione della predestinazione.
 
-<span class="atom-split" data-atom="156" data-title="Whether men are predestined by God?" data-chapter="Whether men are predestined by God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="156" data-title="Whether men are predestined by God?" data-chapter="Whether men are predestined by God?" data-kind="atom" data-srclang="en" data-tags="assi/end_of_life,positions/free_will,positions/providence,positions/beatitude,concepts/predestination"></span>
 
 Objection 1: It seems that men are not predestined by God, for Damascene says (De Fide Orth.
 ii, 30): "It must be borne in mind that God foreknows but does not predetermine everything, since
@@ -10046,7 +10058,7 @@ Risposta all’Obiezione 3: La predestinazione si applica agli angeli, proprio c
 
 Risposta all’Obiezione 4: Anche se, per un privilegio speciale, la loro predestinazione venisse rivelata a qualcuno, non sarebbe appropriato che fosse rivelata a tutti; infatti, in tal caso, coloro che non sono predestinati cadrebbero nel dispero, mentre coloro che lo sono diventerebbero negligenti nella loro condotta.
 
-<span class="atom-split" data-atom="157" data-title="Whether predestination places anything in the predestined?" data-chapter="Whether predestination places anything in the predestined?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="157" data-title="Whether predestination places anything in the predestined?" data-chapter="Whether predestination places anything in the predestined?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that [predestination](/concepts/predestination) does place something in the predestined. For every
 action of itself causes passion. If therefore predestination is action in God, predestination must be
@@ -10130,7 +10142,7 @@ Risposta all’Obiezione 3: La preparazione è di duplice natura: da un lato, ri
 
 Risposta all’Obiezione 4: La grazia non entra nella definizione della predestinazione come qualcosa che ne faccia parte essenziale, ma perché la predestinazione implica una relazione tra grazia e destino, cioè una relazione di causa-effetto e di atto-oggetto. Da ciò non consegue affatto che la predestinazione sia qualcosa di temporale.
 
-<span class="atom-split" data-atom="158" data-title="Whether God reprobates any man?" data-chapter="Whether God reprobates any man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="158" data-title="Whether God reprobates any man?" data-chapter="Whether God reprobates any man?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/providence,positions/free_will,concepts/predestination,concepts/grace"></span>
 
 Objection 1: It seems that God reprobates no man. For nobody reprobates what he loves. But
 God loves every man, according to (Wis. 11:25): "Thou lovest all things that are, and Thou hatest
@@ -10198,7 +10210,7 @@ Risposta all’Obiezione 2: La riprovazione differisce dalla predestinazione per
 
 Risposta all’Obiezione 3: La riprovazione da parte di Dio non sottrae nulla al potere della persona riprovata. Pertanto, quando si afferma che la persona riprovata non possa ottenere la grazia, ciò non deve essere inteso come un’impossibilità assoluta, ma solo come un’impossibilità condizionata. Come già detto in precedenza (Q[19], A[3]), il predestinato deve necessariamente essere salvato; tuttavia, questa necessità è condizionale e non elimina la libertà di scelta. Pertanto, sebbene una persona riprovata da Dio non possa acquisire la grazia, il fatto che commetta questo o quell’atto peccaminoso deriva dall’utilizzo della sua libera volontà; perciò tale azione può essere giustamente attribuita a colpa sua.
 
-<span class="atom-split" data-atom="159" data-title="Whether the predestined are chosen by God? [*\&quot;Eligantur.\&quot;]" data-chapter="Whether the predestined are chosen by God? [*\&quot;Eligantur.\&quot;]" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="159" data-title="Whether the predestined are chosen by God? [*\&quot;Eligantur.\&quot;]" data-chapter="Whether the predestined are chosen by God? [*\&quot;Eligantur.\&quot;]" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 # Whether the predestined are chosen by God? [*"Eligantur."]
 
@@ -10270,7 +10282,7 @@ Risposta all’Obiezione 2: Quando la volontà di colui che sceglie viene stimol
 
 Risposta all’Obiezione 3: Dio vuole che tutti gli uomini siano salvati attraverso la Sua volontà precedente, che è una volontà relativa e non semplice; e non attraverso la Sua volontà conseguente, che è una volontà semplice.
 
-<span class="atom-split" data-atom="160" data-title="Whether the foreknowledge of merits is the cause of predestination? (parte 1)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="160" data-title="Whether the foreknowledge of merits is the cause of predestination? (parte 1)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that foreknowledge of merits is the cause of [predestination](/concepts/predestination). For the
 Apostle says (Rom. 8:29): "Whom He foreknew, He also predestined." Again a gloss of Ambrose
@@ -10368,7 +10380,7 @@ Risposta all’Obiezione 1: L’uso della grazia prevista da Dio non è la causa
 
 Risposta all’Obiezione 2: La predestinazione trova la sua fondazione nella bontà di Dio, considerata nei suoi effetti in generale. Tuttavia, se si analizzano i suoi effetti particolari, si scopre che un effetto è spesso la causa di un altro, come già accennato in precedenza.
 
-<span class="atom-split" data-atom="161" data-title="Whether the foreknowledge of merits is the cause of predestination? (parte 2)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="161" data-title="Whether the foreknowledge of merits is the cause of predestination? (parte 2)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: The reason for the [predestination](/concepts/predestination) of some, and reprobation of others,
 must be sought for in the goodness of God. Thus He is said to have made all things through His
@@ -10408,7 +10420,7 @@ me to do what I will?" (Mat. 20:14,15).
 Risposta all’Obiezione 3: La ragione della [predestinazione](/concepts/predestination) di alcuni e della loro condanna da parte di Dio deve essere cercata nella sua bontà. Si dice infatti che Egli abbia creato tutte le cose per la sua bontà, affinché questa divina bontà potesse manifestarsi nelle cose stesse. Ora, poiché la bontà di Dio è in sé una e indivisa, è necessario che essa si manifesti in molti modi nella sua creazione; le creature, infatti, da sole non possono raggiungere la semplicità divina. Per completare l’universo, sono quindi necessari diversi gradi di essere: alcuni occupano un posto elevato, altri inferiore nell’universo stesso. Affinché questa varietà di gradi possa essere conservata nelle cose, Dio permette l’esistenza di alcuni mali, affinché molte cose buone possano comunque realizzarsi, come già detto sopra (Q[22], A[2]). Consideriamo dunque l’intera umanità, proprio come consideriamo l’intero universo: Dio vuole manifestare la sua bontà negli uomini; nei confronti di coloro che predestina, attraverso la sua misericordia, risparmiandoli; nei confronti degli altri, invece, attraverso la sua giustizia, punendoli. Questa è la ragione per cui Dio sceglie alcuni e rifiuta altri. A questo si riferisce l’Apostolo quando dice (Romani 9:22-23): “E se Dio, volendo manifestare la sua ira e far conoscere il suo potere, ha tollerato con grande pazienza quei che erano destinati alla distruzione, affinché potesse mostrare la ricchezza della sua gloria in coloro che sono destinati alla salvezza”; e (2 Timoteo 2:20): “In una casa grande ci sono infatti vasi d’oro e d’argento, ma anche di legno e di terra; alcuni servono all’onore, altri al disonore”. Tuttavia, il motivo per cui Dio sceglie alcuni per la gloria e altri per la condanna non ha alcuna spiegazione se non la sua volontà divina. Per questo motivo l’[Agostino](/figures/augustine) dice (Trattato xxvi in Giovanni): “Perché Egli attira alcuni e altri no, non cercare di giudicare, se non vuoi errare”. Allo stesso modo, nelle cose della natura si può trovare una ragione: poiché la materia primordiale è completamente uniforme, perché Dio ha plasmato una parte di essa sotto forma di fuoco, un’altra sotto forma di terra, affinché ci fosse diversità tra le specie naturali. Tuttavia, il motivo per cui questa particolare parte della materia assume questa o quell’altra forma dipende dalla semplice volontà di Dio; così come dal semplice volere dell’artigiano dipende il fatto che questa pietra sia utilizzata in un certo punto del muro e un’altra in un altro. Non si può quindi affermare che ci sia ingiustizia da parte di Dio, se Egli assegna sorti disuguali a cose che non lo sono. Ciò sarebbe completamente contrario al concetto stesso di giustizia, se l’effetto della predestinazione fosse considerato un debito e non un dono gratuito. Nelle cose che vengono date gratuitamente, una persona può dare di più o di meno, a piacimento suo (a condizione di non privare nessuno del suo diritto), senza alcuna violazione della giustizia.
 Ecco ciò che disse il padrone di casa: “Prendi ciò che è tuo e vattene per la tua strada. Non è forse legittimo che io faccia ciò che voglio?” (Matteo 20:14,15).
 
-<span class="atom-split" data-atom="162" data-title="Whether predestination is certain?" data-chapter="Whether predestination is certain?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="162" data-title="Whether predestination is certain?" data-chapter="Whether predestination is certain?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that [predestination](/concepts/predestination) is not certain. Because on the words "Hold fast that
 which thou hast, that no one take thy crown," (Rev 3:11), [Augustine](/figures/augustine) says (De Corr. et Grat. 15):
@@ -10479,7 +10491,7 @@ Risposta all’Obiezione 2: Sebbene sia possibile che una persona predestinata m
 
 Risposta all’Obiezione 3: Poiché la predestinazione include la volontà divina, come sopra detto (A[4]); e poiché il fatto che Dio voglia qualsiasi cosa creata è necessario sulla base della supposizione che Egli lo voglia effettivamente, a causa dell’immutabilità della sua volontà, ma non è necessario in modo assoluto; lo stesso deve valere anche per la predestinazione. Pertanto, non si dovrebbe dire che Dio possa non predestinare qualcuno che ha già predestinato, se si intende questo concetto in senso composto; in termini assoluti, infatti, Dio può predestinare o meno. Tuttavia, in questo modo la certezza della predestinazione non viene affatto messa in dubbio.
 
-<span class="atom-split" data-atom="163" data-title="Whether the number of the predestined is certain?" data-chapter="Whether the number of the predestined is certain?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="163" data-title="Whether the number of the predestined is certain?" data-chapter="Whether the number of the predestined is certain?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the number of the predestined is not certain. For a number to which
 an addition can be made is not certain. But there can be an addition to the number of the predestined
@@ -10559,7 +10571,7 @@ through the corruption of [original sin](/positions/original_sin), those who are
 however, appears the mercy of God, that He has chosen some for that salvation, from which very
 many in accordance with the common course and tendency of nature fall short.
 
-<span class="atom-split" data-atom="164" data-title="Whether predestination can be furthered by the prayers of the saints?" data-chapter="Whether predestination can be furthered by the prayers of the saints?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="164" data-title="Whether predestination can be furthered by the prayers of the saints?" data-chapter="Whether predestination can be furthered by the prayers of the saints?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that [predestination](/concepts/predestination) cannot be furthered by the prayers of the saints. For
 nothing eternal can be preceded by anything temporal; and in consequence nothing temporal can
@@ -10640,7 +10652,7 @@ Risposta all’Obiezione 2: Si dice che una persona sia aiutata da un’altra in
 
 Risposta all’Obiezione 3: Le cause secondarie non possono sfuggire all’ordine della prima causa universale, come è stato detto in precedenza (Q[19], A[6]); anzi, esse stesso attuano tale ordine. Pertanto, la predestinazione può essere favorita dalle creature, ma non può essere ostacolata da esse.
 
-<span class="atom-split" data-atom="165" data-title="THE BOOK OF LIFE (THREE ARTICLES)" data-chapter="THE BOOK OF LIFE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="165" data-title="THE BOOK OF LIFE (THREE ARTICLES)" data-chapter="THE BOOK OF LIFE (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We now consider the book of life; concerning which there are three points of inquiry:
 (1) What is the book of life?
@@ -10654,7 +10666,7 @@ Ora esaminiamo il “libro della vita”; su di esso vi sono tre questioni da in
 (2) Di quale vita si tratta in questo caso?  
 (3) È possibile che qualcuno venga cancellato dal “libro della vita”?
 
-<span class="atom-split" data-atom="166" data-title="Whether the book of life is the same as predestination?" data-chapter="Whether the book of life is the same as predestination?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="166" data-title="Whether the book of life is the same as predestination?" data-chapter="Whether the book of life is the same as predestination?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the book of life is not the same thing as pre-destination. For it is
 said, "All things are the book of life" (Ecclus. 4:32)---i.e. the Old and New Testament according
@@ -10723,7 +10735,7 @@ Risposta all’Obiezione 3: È la [CONSUETUDINE](/concepts/custom) a stabilire c
 
 Risposta all’Obiezione 4: La predestinazione e il “libro della vita” rappresentano aspetti diversi della stessa realtà. Il “libro della vita”, infatti, implica la conoscenza della predestinazione; come è chiarito anche dalla glossa citata sopra.
 
-<span class="atom-split" data-atom="167" data-title="Whether the book of life regards only the life of glory of the predestined?" data-chapter="Whether the book of life regards only the life of glory of the predestined?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="167" data-title="Whether the book of life regards only the life of glory of the predestined?" data-chapter="Whether the book of life regards only the life of glory of the predestined?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the book of life does not only regard the life of glory of the
 predestined. For the book of life is the knowledge of life. But God, through His own life, knows
@@ -10781,7 +10793,7 @@ Risposta all’Obiezione 1: La vita divina, anche considerata come una vita di g
 
 Risposta all’Obiezione 3: La vita di grazia presenta non l’aspetto di un fine, ma di qualcosa che è diretto verso un fine. Pertanto, nessuno viene detto essere stato scelto per la vita di grazia, se non nella misura in cui tale vita sia orientata verso la gloria. Per questo motivo, coloro che possiedono la grazia ma non riescono ad ottenere la gloria non vengono considerati semplicemente “scelti”, bensì in modo relativo. Allo stesso modo, non si dice che siano “iscritti nel libro della vita” in senso assoluto, ma in modo relativo; cioè, è nell’ordinamento e nella conoscenza di Dio che essi hanno una qualche relazione con la vita eterna, in base alla loro partecipazione alla grazia.
 
-<span class="atom-split" data-atom="168" data-title="Whether anyone may be blotted out of the book of life?" data-chapter="Whether anyone may be blotted out of the book of life?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="168" data-title="Whether anyone may be blotted out of the book of life?" data-chapter="Whether anyone may be blotted out of the book of life?" data-kind="atom" data-srclang="en" data-tags="concepts/predestination,concepts/grace,figures/augustine"></span>
 
 Objection 1: It seems that no one may be blotted out of the book of life. For [Augustine](/figures/augustine) says
 (De Civ. Dei xx, 15): "God's foreknowledge, which cannot be deceived, is the book of life." But
@@ -10852,7 +10864,7 @@ Risposta all’Obiezione 2: Sebbene le cose siano immutabili in Dio, esse stesse
 
 Risposta all’Obiezione 3: Il modo in cui si dice che qualcuno venga cancellato dal “libro della vita” è proprio quello in cui si dice che venga nuovamente scritto in esso; sia secondo l’opinione degli uomini, sia perché quella persona inizia di nuovo a avere un rapporto con la vita eterna grazie alla grazia divina; e anche questo fatto rientra nella conoscenza di Dio, sebbene non si tratti di una “nuova scrittura”.
 
-<span class="atom-split" data-atom="169" data-title="THE POWER OF GOD (SIX ARTICLES)" data-chapter="THE POWER OF GOD (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="169" data-title="THE POWER OF GOD (SIX ARTICLES)" data-chapter="THE POWER OF GOD (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 After considering the divine foreknowledge and will, and other things pertaining thereto, it
 remains for us to consider the power of God. About this are six points of inquiry:
@@ -10873,7 +10885,7 @@ Dopo aver considerato la prescienza e la volontà divine, nonché altre question
 (5) Potrebbe fare ciò che non fa, o non fare ciò che fa?  
 (6) Ciò che crea potrebbe essere migliorato?
 
-<span class="atom-split" data-atom="170" data-title="Whether there is power in God?" data-chapter="Whether there is power in God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="170" data-title="Whether there is power in God?" data-chapter="Whether there is power in God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that power is not in God. For as primary matter is to power, so God, who
 is the first agent, is to act. But primary matter, considered in itself, is devoid of all act. Therefore,
@@ -10955,7 +10967,7 @@ Risposta all’Obiezione 3: Nelle creature, il potere è il principio non solo d
 
 Risposta all’Obiezione 4: Il concetto di potere viene attribuito a Dio non come qualcosa di effettivamente distinto dalla sua conoscenza e dalla sua volontà, ma come qualcosa che si differenzia da esse logicamente; poiché il potere implica l’idea di un principio che attua ciò che la volontà comanda e ciò che la conoscenza indica, e queste tre cose in Dio sono identiche. O possiamo dire che la conoscenza o la volontà di Dio, in quanto principi effettivi, contengono in sé il concetto di potere. Pertanto, l’analisi della conoscenza e della volontà di Dio precede l’analisi del suo potere, così come la causa precede l’azione e l’effetto.
 
-<span class="atom-split" data-atom="171" data-title="Whether the power of God is infinite?" data-chapter="Whether the power of God is infinite?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="171" data-title="Whether the power of God is infinite?" data-chapter="Whether the power of God is infinite?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/infinity,concepts/act_potency,figures/aristotle,figures/augustine"></span>
 
 Objection 1: It seems that the power of God is not infinite. For everything that is infinite is
 imperfect according to the Philosopher (Phys. iii, 6). But the power of God is far from imperfect.
@@ -11030,7 +11042,7 @@ Risposta all’Obiezione 2: Il potere di un agente univoco si manifesta interame
 
 Risposta all’Obiezione 3: Il Filosofo (Phys. viii, 79) dimostra che se un corpo possedesse potenza infinita, causerebbe un movimento non temporale. Inoltre, mostra che la potenza del motore celeste è infinita, poiché può muovere nell’arco di un tempo infinito. Pertanto, secondo le sue argomentazioni, la potenza infinita di un corpo, se esistesse davvero, lo porterebbe a muoversi senza tempo; tuttavia, ciò non vale per la potenza di un motore incorporeo. Il motivo è che un corpo che muove un altro agisce in modo univoco; pertanto, l’intera sua potenza si manifesta nel movimento stesso. Quindi, maggiore è la potenza di un corpo in movimento, più rapidamente si muove; ne consegue che, se tale potenza fosse infinita, il corpo si muoverebbe in modo incomparabilmente più veloce, cioè senza tempo. Un motore incorporeo, invece, non agisce in modo univoco; pertanto non è necessario che l’intera sua potenza si manifesti nel movimento, affinché possa muoversi senza tempo; soprattutto perché il suo movimento segue la disposizione della sua volontà.
 
-<span class="atom-split" data-atom="172" data-title="Whether God is omnipotent?" data-chapter="Whether God is omnipotent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="172" data-title="Whether God is omnipotent?" data-chapter="Whether God is omnipotent?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God is not omnipotent. For movement and passiveness belong to
 everything. But this is impossible with God, for He is immovable, as was said above (Q[2], A[3]).
@@ -11154,7 +11166,7 @@ Risposta all’Obiezione 3: L’onnipotenza di Dio si manifesta in modo particol
 
 Risposta all’Obiezione 4: Ciò che è assolutamente possibile non viene definito tale né in relazione a cause superiori né a cause inferiori, ma in relazione a sé stesso. Tuttavia, ciò che è possibile in relazione a una determinata forza o capacità viene definito “possibile” in riferimento alla sua causa immediata. Pertanto, quelle azioni che spettano esclusivamente a Dio – come creare, giustificare, ecc. – vengono considerate possibili in riferimento a cause superiori; al contrario, quelle azioni che possono essere compiute da cause inferiori vengono definite possibili in relazione a tali cause. Infatti, è in base alle condizioni della causa immediata che l’effetto presenta caratteristiche di contingenza o necessità, come è stato dimostrato sopra (Q[14], A[1], ad 2). È proprio per questo che la saggezza umana viene considerata sciocca: essa ritiene impossibile per Dio ciò che è effettivamente impossibile per la natura. È evidente, quindi, che l’onnipotenza di Dio non elimina affatto la possibilità o la necessità delle cose.
 
-<span class="atom-split" data-atom="173" data-title="Whether God can make the past not to have been?" data-chapter="Whether God can make the past not to have been?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="173" data-title="Whether God can make the past not to have been?" data-chapter="Whether God can make the past not to have been?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God can make the past not to have been. For what is impossible in
 itself is much more impossible than that which is only impossible accidentally. But God can do
@@ -11224,7 +11236,7 @@ Risposta all’Obiezione 2: Poiché Dio, in conformità con la perfezione del su
 
 Risposta all’Obiezione 3: Dio può eliminare ogni corruzione dell’anima e del corpo da una donna che è caduta in peccato; ma il fatto stesso che essa sia stata corrotta non può essere cancellato; allo stesso modo, è impossibile eliminare dal peccatore il fatto di aver peccato o di aver perso la carità.
 
-<span class="atom-split" data-atom="174" data-title="Whether God can do what He does not?" data-chapter="Whether God can do what He does not?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="174" data-title="Whether God can do what He does not?" data-chapter="Whether God can do what He does not?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God cannot do other than what He does. For God cannot do what
 He has not foreknown and pre-ordained that He would do. But He neither foreknew nor pre-ordained
@@ -11318,7 +11330,7 @@ Risposta all’Obiezione 2: Dio non è vincolato da nessuno se non da Sé stesso
 
 Risposta all’Obiezione 3: Sebbene questo ordine delle cose sia limitato a ciò che esiste attualmente, il potere e la saggezza divini non sono affatto vincolati da tali limiti. Pertanto, anche se nessun altro ordine sarebbe adatto o vantaggioso per le cose che esistono oggi, Dio può comunque creare altre realtà e imporre loro un diverso ordine.
 
-<span class="atom-split" data-atom="175" data-title="Whether God can do better than what He does?" data-chapter="Whether God can do better than what He does?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="175" data-title="Whether God can do better than what He does?" data-chapter="Whether God can do better than what He does?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God cannot do better than He does. For whatever God does, He does
 in a most powerful and wise way. But a thing is so much the better done as it is more powerfully
@@ -11401,7 +11413,7 @@ Risposta all’Obiezione 3: Presumendo l’esistenza dell’universo attuale, es
 
 Risposta all’Obiezione 4: L’umanità di Cristo, in quanto unita alla divinità; e la Beata Vergine, in quanto madre di Dio, possiedono tutte una certa dignità infinita, derivante dal bene infinito che è Dio stesso. Per questo motivo, non può esistere nulla di migliore di loro; proprio come non può esistere nulla di migliore di Dio.
 
-<span class="atom-split" data-atom="176" data-title="OF THE DIVINE BEATITUDE (FOUR ARTICLES)" data-chapter="OF THE DIVINE BEATITUDE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="176" data-title="OF THE DIVINE BEATITUDE (FOUR ARTICLES)" data-chapter="OF THE DIVINE BEATITUDE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude"></span>
 
 After considering all that pertains to the unity of the divine essence, we come to treat of the
 divine [beatitude](/positions/beatitude). Concerning this, there are four points of inquiry:
@@ -11418,7 +11430,7 @@ Dopo aver esaminato tutto ciò che riguarda l’unità dell’essenza divina, pa
 (3) È essenzialmente la beatazza di ciascuno dei beati?  
 (4) Tutte le altre forme di beatitudine sono incluse nella beatitudine divina?
 
-<span class="atom-split" data-atom="177" data-title="Whether beatitude belongs to God?" data-chapter="Whether beatitude belongs to God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="177" data-title="Whether beatitude belongs to God?" data-chapter="Whether beatitude belongs to God?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/act_potency,figures/aristotle"></span>
 
 Objection 1: It seems that [beatitude](/positions/beatitude) does not belong to God. For beatitude according to Boethius
 (De Consol. iv) "is a state made perfect by the aggregation of all good things." But the aggregation
@@ -11461,7 +11473,7 @@ Risposta all’Obiezione 1: L’aggregazione del bene esiste in Dio, non nel mod
 
 Risposta all’Obiezione 2: Il fatto che la beatitudine o la felicità siano una ricompensa della virtù appartiene, in senso accidentale, alla beatitudine stessa, nella misura in cui qualcuno riesce ad alcanzarla; così come il fatto che un essere entri nel mondo appartiene, anch’esso accidentalmente, a quel being, nella misura in cui passa dalla [potenzialità](/concepts/act_potency) all’atto concreto. Pertanto, Dio ha l’esistenza, anche se non è stato generato; allo stesso modo, possiede la beatitudine, anche se non l’ha acquisita per merito proprio.
 
-<span class="atom-split" data-atom="178" data-title="Whether God is called blessed in respect of His intellect?" data-chapter="Whether God is called blessed in respect of His intellect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="178" data-title="Whether God is called blessed in respect of His intellect?" data-chapter="Whether God is called blessed in respect of His intellect?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,figures/augustine"></span>
 
 Objection 1: It seems that God is not called blessed in respect to His intellect. For [beatitude](/positions/beatitude) is
 the highest good. But good is said to be in God in regard to His essence, because good has reference
@@ -11496,7 +11508,7 @@ understood as prior to the act of a power. Whence in our manner of understanding
 precedes the act of the will at rest in it. This cannot be other than the act of the intellect; and thus
 beatitude is to be found in an act of the intellect.
 
-<span class="atom-split" data-atom="179" data-title="Whether God is the beatitude of each of the blessed?" data-chapter="Whether God is the beatitude of each of the blessed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="179" data-title="Whether God is the beatitude of each of the blessed?" data-chapter="Whether God is the beatitude of each of the blessed?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,figures/augustine"></span>
 
 Objection 1: It seems that God is the [beatitude](/positions/beatitude) of each of the blessed. For God is the supreme
 good, as was said above (Q[6], AA[2],4). But it is quite impossible that there should be many
@@ -11543,7 +11555,7 @@ Risposta all’Obiezione 1: La beata felicità, per quanto riguarda il suo ogget
 
 Risposta all’Obiezione 2: Lo scopo è duplice, cioè “oggettivo” e “soggettivo”, come afferma il Filosofo (Etica Maggiore i, 3): si tratta rispettivamente della “cosa stessa” e del suo “uso”. Pertanto, per un avaro lo scopo è il denaro e la sua acquisizione. Così, Dio rappresenta effettivamente lo scopo finale di una creatura razionale, in quanto “cosa stessa”; ma la beatitudine, essendo il risultato dell’uso o, meglio, della fruizione di tale cosa, costituisce il vero scopo ultimo.
 
-<span class="atom-split" data-atom="180" data-title="Whether all other beatitude is included in the beatitude of God?" data-chapter="Whether all other beatitude is included in the beatitude of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="180" data-title="Whether all other beatitude is included in the beatitude of God?" data-chapter="Whether all other beatitude is included in the beatitude of God?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,positions/demonstrative_theism,positions/harmony_of_faith_reason,concepts/actus_purus,concepts/essentia_existentia,concepts/analogy_of_being,concepts/predestination,arguments/quinque_viae,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the divine [beatitude](/positions/beatitude) does not embrace all other beatitudes. For there
 are some false beatitudes. But nothing false can be in God. Therefore the divine beatitude does not

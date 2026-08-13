@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A philosophical reading of Einstein's relativity: Einstein's relativism is the inverse of Galileo's and Newton's, since by denying absolute space and time it makes the relative reality the only true one and thereby grants knowledge absolute validity. Ortega contrasts this new absolutism with the rationalist one of Descartes, who sought eternal truths within his own mind.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/rationalism|razionalismo]]  
+**Concetti:** [[concepts/reason|ragione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

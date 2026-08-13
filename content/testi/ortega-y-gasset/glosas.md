@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An early gloss on personal criticism: criticism is a fight and cannot be serene; impartiality means impersonality, i.e. stepping outside oneself and suspending the differentiating features that make an individual that individual. Hence the provocative conclusion that justice is «an error of perspective», looking at things from the far side of life. It goes on to examine Taine's and Sarcey's impersonal criticism.
+
+## Connections
+
+**Concetti:** [[concepts/justice|giustizia]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -354,7 +361,7 @@ Del resto, la giustizia è una divinità così noiosa, di un [culto](/concepts/r
 
 Quella credenza è necessaria per la vita e la cercano fuori.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/justice,forms/essay"></span>
 
 La historia va mostrando grandes cuadros de imploraciones, pueblos que piden una ley, un canto, una leyenda; turbas dolientes y miserables que buscan con los ojos la serpiente de bronce.
 

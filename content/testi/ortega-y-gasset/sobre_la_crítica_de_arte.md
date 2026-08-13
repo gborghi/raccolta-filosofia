@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An address at a banquet for Juan de la Encina's ten years as a critic: the critic once judged by applying a pre-existing code, but contemporary art, after impressionism and symbolism, has no sanctioned codes, so the critic must work in the open, winning the general law and the particular verdict at once. Ortega extends the diagnosis to politics and to the whole European crisis.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +85,7 @@ Al di là di queste trivialità è dove conviene porre la questione delle nostre
 
 La spiegazione, a mio giudizio, non è impossibile. L'anima umana progredisce in forma di differenziazioni. Ciò che in un tempo fu una classe di sensibilità, in un altro posteriore si è dissociato in parecchie. Così, l'uomo primitivo non ebbe ciò che noi chiamiamo «sensibilità artistica». Ne manca e tuttavia non gli manca. L'uomo primitivo non sente l'arte come qualcosa a parte e separato dalla magia, dalla mitologia, dal rito e dalla tradizione. A tutte queste cose, per noi differenti, presenta una sola forma di sensibilità totale e caotica. Furono necessari millenni perché si disgregasse come un sentire peculiare ed esente il godimento estetico.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Pues bien; en nuestro tiempo llega a madurez una nueva disociación que venía preparándose desde centurias, sobre todo desde hace siglo y medio. El hombre europeo de las nuevas generaciones posee una sensibilidad histórica de incalculable refinamiento. Por fin hemos llegado a sentir el pasado como tal, es decir, como algo esencialmente distinto del presente. El pasado nos aparece como un universo aparte y virtual que no comunica con la hora transeúnte donde nuestra vida va. Sentimos todo pasado como algo que fue y ya no es. Aplíquese esto al arte y se verá que nuestra sensibilidad artística se ha disociado y un radio de ella ha tomado la perspectiva histórica separándose del otro que va a lo actual. Aquél aleja todo lo que toca; éste lo funde con nuestra existencia efectiva. Esta exquisita distinción entre pretérito y actualidad hace que nos sea imposible colocarnos ante el cuadro de un viejo museo, en serio, como ante un cuadro, sin más. El cuadro de Tiziano no es nuestro, sino de los hombres de su tiempo, y nosotros sólo podemos gozar de él en perspectiva histórica, como un fantasma deleitable de ultratumba, como un revenant. Pero si alguien nos propone que lo contemplemos como actualidad, el cuadro clásico no nos puede interesar o nos interesa tan poco, con tal desproporción a su fama, que más vale, por piedad, no hablar de ello.
 

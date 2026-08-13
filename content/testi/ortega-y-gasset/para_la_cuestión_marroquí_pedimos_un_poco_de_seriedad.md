@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A passage from a lecture on the Moroccan question: before deciding whether Spain should be in Morocco one must know what Spain and Morocco are, given that even the geographical ignorance of the Rif is scandalous. Topical politics, not philosophy.
+
+## Connections
+
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +126,7 @@ In ogni caso, bisogna ricordare, dinanzi ai semplicismi degli urlatori, che il p
 
 In fine, signori, dovevamo decidere il punto della guerra e l'abbandono assoluto del Marocco, anche di quei vecchi scogli calvi dove è aggrappata da secoli la Spagna, come un'aquila ferita, e tuttavia continuavamo forzati ad avere pensata una politica africana. Ma di questo non possiamo oggi parlare con opportunità.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/lecture"></span>
 
 Estos días toma un cariz nuevo este problema de Marruecos, un cariz de política interior, un cariz nuevo del que va a ser difícil tratar con discreción. Alguien, presentándose noblemente como guerrilla avanzada de quien no aparece todavía, ha disparado un venablo…, no sé cómo decir esto, ha disparado un venablo en dirección cenital. Y ha habido en muchos periódicos esta exclamación: «Eso es quebrantar secretos». Señores, vayamos claros: nos pasamos la vida diciendo que no sabemos nada de Marruecos, y cuando se nos presenta alguien que nos declara un secreto, ¿vamos a negarle la audición? No; eso tenemos que recibirlo con simpatía, con honda simpatía. Ahora, una cosa es eso y otra es que nos parezcan tan simpáticos los que pueden ser móviles de esa declaración de secretos. Porque son cosas que pasaron en 1909 y ha corrido el tiempo hasta 1914. ¿Qué ha pasado entre medias de nuevo que justifique la nueva actitud de un hombre? Nada nacional: sólo un asunto particular. Y, además, de esos secretos ahora presentados, resulta que hubo un momento en que los gobernantes de 1909 estaban plenamente convencidos de que no se debía realizar una cierta campaña en una cierta manera, y eso trajo consigo el que una porción de españoles pensaran próximamente lo mismo que el Gobierno, y eso produjo un movimiento de inquietud en Barcelona, que tuvo como consecuencia una represión por el mismo Gobierno que pensaba lo mismo que aquéllos que protestaban.
 

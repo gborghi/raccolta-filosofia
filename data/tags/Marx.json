@@ -1,233 +1,2551 @@
 {
   "ADDRESS_OF_THE_CENTRAL_COMMITTEE_TO_THE_COMMUNIST_LEAGUE": {
-    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
-    "positions": ["class_conflict", "historical_materialism", "revolution"],
-    "concepts": ["state"],
+    "axes": [
+      "political_legitimacy",
+      "meaning_of_history",
+      "state_and_individual"
+    ],
+    "positions": [
+      "class_conflict",
+      "historical_materialism",
+      "revolution"
+    ],
+    "concepts": [
+      "state"
+    ],
     "arguments": [],
     "figures": [],
     "forms": [],
-    "schools": ["historical_materialism_school"],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Circolare del 1850 che esorta la Lega dei Comunisti a riorganizzarsi e a mantenere l'indipendenza del proletariato dalla democrazia piccolo-borghese in vista della rivoluzione imminente.",
-    "summary_en": "An 1850 circular urging the Communist League to reorganize and keep the proletariat independent of the petty-bourgeois democrats in anticipation of the coming revolution."
+    "summary_en": "An 1850 circular urging the Communist League to reorganize and keep the proletariat independent of the petty-bourgeois democrats in anticipation of the coming revolution.",
+    "atoms": {
+      "002_intero": {
+        "positions": [
+          "class_conflict",
+          "revolution"
+        ],
+        "concepts": [
+          "state",
+          "property"
+        ]
+      }
+    }
   },
   "CAPITAL": {
-    "axes": ["meaning_of_history", "political_legitimacy"],
-    "positions": ["historical_materialism", "class_conflict"],
-    "concepts": ["commodity", "surplus_value", "labour", "money"],
-    "arguments": ["commodity_fetishism"],
+    "axes": [
+      "meaning_of_history",
+      "political_legitimacy"
+    ],
+    "positions": [
+      "historical_materialism",
+      "class_conflict"
+    ],
+    "concepts": [
+      "commodity",
+      "surplus_value",
+      "labour",
+      "money"
+    ],
+    "arguments": [
+      "commodity_fetishism"
+    ],
     "figures": [],
-    "forms": ["critique", "treatise"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "critique",
+      "treatise"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Primo volume del Capitale (trad. Moore-Aveling): analisi della merce, della forma di valore e del denaro, del plusvalore e del modo di produzione capitalistico, fino all'accumulazione originaria.",
-    "summary_en": "Volume I of Capital (Moore-Aveling translation): the analysis of the commodity, the value-form and money, surplus value, and the capitalist mode of production, up to primitive accumulation."
+    "summary_en": "Volume I of Capital (Moore-Aveling translation): the analysis of the commodity, the value-form and money, surplus value, and the capitalist mode of production, up to primitive accumulation.",
+    "atoms": {
+      "005_M_Block": {
+        "axes": [
+          "method"
+        ],
+        "positions": [
+          "dialectic",
+          "historical_materialism"
+        ]
+      },
+      "006_M_Block": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "labour"
+        ]
+      },
+      "011_Section_1_The": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "015_1_The_two_poles_of_the_expression_of_val": {
+        "concepts": [
+          "commodity"
+        ]
+      },
+      "017_2_The_Relative_Form_of": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "018_I_Let_the_value_of_the_linen_vary20": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "019_II_Let_the_value_of_the_linen_remain_con": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "020_III_Let_the_quantities_of_labour_time_re": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "021_IV_The_labour_time_respectively_necessar": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "026_2_The_particular_Equivalent_form": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "027_3_Defects_of_the_Total_or_Expanded_form": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "028_C_The_General_Form_of_Value": {
+        "concepts": [
+          "commodity",
+          "money"
+        ]
+      },
+      "030_2_The_Interdependent_Development_of_the": {
+        "concepts": [
+          "commodity",
+          "money"
+        ]
+      },
+      "031_3_Transition_from_the_General_form_of_va": {
+        "concepts": [
+          "commodity",
+          "money"
+        ]
+      },
+      "033_Section_4_The_Fetishism_of_Commodities_a": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ],
+        "arguments": [
+          "commodity_fetishism"
+        ]
+      },
+      "034_Section_4_The_Fetishism_of_Commodities_a": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ],
+        "arguments": [
+          "commodity_fetishism"
+        ]
+      },
+      "036_Section_4_The_Fetishism_of_Commodities_a": {
+        "concepts": [
+          "commodity"
+        ],
+        "arguments": [
+          "commodity_fetishism"
+        ]
+      },
+      "039_Chapter_3_Money_Or_the_Circulation_of": {
+        "concepts": [
+          "commodity",
+          "money"
+        ]
+      },
+      "042_Section_1_The": {
+        "concepts": [
+          "commodity",
+          "money"
+        ]
+      },
+      "045_Section_2_The_Medium": {
+        "concepts": [
+          "alienation",
+          "commodity",
+          "labour",
+          "money"
+        ]
+      },
+      "047_Section_2_The_Medium": {
+        "concepts": [
+          "commodity",
+          "money"
+        ]
+      },
+      "051_C_Coin_and_symbols_of_value": {
+        "concepts": [
+          "commodity",
+          "money",
+          "state"
+        ]
+      },
+      "053_Section_3_Money": {
+        "positions": [
+          "class_conflict"
+        ],
+        "concepts": [
+          "money",
+          "commodity",
+          "alienation"
+        ]
+      },
+      "057_Chapter_4_The_General_Formula_for_Capita": {
+        "concepts": [
+          "commodity",
+          "money"
+        ]
+      },
+      "063_10_But_after_he_has_sold_he_becomes_a_bu": {
+        "concepts": [
+          "surplus_value",
+          "commodity",
+          "labour",
+          "money"
+        ]
+      },
+      "064_Chapter_6_The_Buying_and_Selling_of": {
+        "positions": [
+          "historical_materialism"
+        ],
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "065_Chapter_6_The_Buying_and_Selling_of": {
+        "positions": [
+          "historical_materialism"
+        ],
+        "concepts": [
+          "commodity",
+          "labour",
+          "education"
+        ]
+      },
+      "067_Chapter_7_The_Labour-Process_and_the_Pro": {
+        "concepts": [
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "070_Section_1_The": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "property"
+        ]
+      },
+      "071_Section_2_The": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "072_Section_2_The": {
+        "concepts": [
+          "labour",
+          "commodity",
+          "surplus_value",
+          "money"
+        ]
+      },
+      "073_Section_2_The": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "074_Section_2_The": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value",
+          "best_of_all_possible_worlds"
+        ]
+      },
+      "079_Section_1_The": {
+        "concepts": [
+          "surplus_value",
+          "labour",
+          "commodity"
+        ]
+      },
+      "080_Section_1_The": {
+        "concepts": [
+          "surplus_value",
+          "commodity",
+          "labour"
+        ]
+      },
+      "086_Section_4": {
+        "concepts": [
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "088_Section_1_The": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ],
+        "arguments": [
+          "antinomies"
+        ],
+        "schools": [
+          "historical_materialism"
+        ]
+      },
+      "097_Section_5_The_Struggle_for_a_Normal_Work": {
+        "concepts": [
+          "labour",
+          "surplus_value",
+          "commodity"
+        ],
+        "arguments": [
+          "class_conflict"
+        ],
+        "schools": [
+          "historical_materialism"
+        ]
+      },
+      "099_Section_5_The_Struggle_for_a_Normal_Work": {
+        "positions": [
+          "class_conflict"
+        ],
+        "concepts": [
+          "labour",
+          "state",
+          "freedom"
+        ]
+      },
+      "101_Section_6_The": {
+        "positions": [
+          "class_conflict",
+          "historical_materialism",
+          "progress"
+        ],
+        "concepts": [
+          "labour",
+          "state"
+        ]
+      },
+      "110_Chapter_12_The_Concept_of_Relative_Surpl": {
+        "concepts": [
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "111_Chapter_12_The_Concept_of_Relative_Surpl": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "112_12_Hence_in_order_to_get_rid_of_the_prod": {
+        "concepts": [
+          "labour",
+          "commodity",
+          "surplus_value"
+        ]
+      },
+      "114_Chapter_13_Co-operation": {
+        "positions": [
+          "social_animal"
+        ],
+        "concepts": [
+          "labour"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      },
+      "115_Chapter_13_Co-operation": {
+        "positions": [
+          "class_conflict"
+        ],
+        "concepts": [
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "119_Section_3_The": {
+        "concepts": [
+          "labour",
+          "fortune"
+        ]
+      },
+      "122_Section_4": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ],
+        "arguments": [
+          "war_of_all_against_all"
+        ],
+        "figures": [
+          "hobbes"
+        ]
+      },
+      "132_Section_2_The_Value_Transferred_by_Machi": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "136_Section_3_The_Proximate_Effects_of_Machi": {
+        "concepts": [
+          "surplus_value",
+          "commodity",
+          "labour"
+        ],
+        "figures": [
+          "aristotle",
+          "cicero"
+        ]
+      },
+      "167_VI_Inspection_of_mines": {
+        "axes": [
+          "state_and_individual"
+        ],
+        "positions": [
+          "class_conflict"
+        ],
+        "concepts": [
+          "labour",
+          "state"
+        ]
+      },
+      "169_Chapter_16_Absolute_and_Relative_Surplus": {
+        "concepts": [
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "171_Chapter_VII_by_treating_it_in_the_abstra": {
+        "positions": [
+          "historical_materialism",
+          "progress"
+        ],
+        "concepts": [
+          "surplus_value",
+          "labour",
+          "nature"
+        ]
+      },
+      "173_Chapter_17_Changes_of_Magnitude_in_the_P": {
+        "concepts": [
+          "surplus_value",
+          "labour",
+          "commodity"
+        ]
+      },
+      "174_Section_1_Length_of_the_Working_day_and": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "177_Section_3": {
+        "concepts": [
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "179_Chapter_18_Various_Formula_for_the_Rate": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "180_I": {
+        "concepts": [
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "182_III": {
+        "concepts": [
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "196_Chapter_24_Conversion_of_Surplus-Value_i": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "198_Section_1": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value",
+          "property"
+        ]
+      },
+      "199_Section_1": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value",
+          "property"
+        ]
+      },
+      "204_Section_4_Circumstances_that_Independent": {
+        "positions": [
+          "historical_materialism"
+        ],
+        "concepts": [
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "213_Section_2_Relative_Diminution_of_the_Var": {
+        "positions": [
+          "historical_materialism"
+        ],
+        "concepts": [
+          "labour"
+        ]
+      },
+      "219_Section_4_Different_Forms_of_the_Relativ": {
+        "positions": [
+          "class_conflict"
+        ],
+        "concepts": [
+          "alienation",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "221_Section_5_Illustrations_of_the_General_L": {
+        "positions": [
+          "class_conflict",
+          "historical_materialism"
+        ],
+        "concepts": [
+          "labour",
+          "suffering"
+        ]
+      },
+      "243_Chapter_28_Bloody_Legislation_Against_th": {
+        "positions": [
+          "historical_materialism",
+          "class_conflict"
+        ],
+        "concepts": [
+          "state",
+          "law",
+          "property"
+        ]
+      },
+      "244_VII": {
+        "positions": [
+          "historical_materialism"
+        ],
+        "concepts": [
+          "labour",
+          "education",
+          "custom",
+          "state"
+        ]
+      },
+      "245_VII": {
+        "positions": [
+          "historical_materialism",
+          "class_conflict"
+        ],
+        "concepts": [
+          "labour",
+          "state",
+          "law"
+        ]
+      },
+      "249_part_in_this_private_traffic_His_favouri": {
+        "concepts": [
+          "alienation",
+          "surplus_value",
+          "state"
+        ]
+      }
+    }
   },
   "CRITIQUE_OF_THE_GOTHA_PROGRAM_1875": {
-    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
-    "positions": ["class_conflict", "historical_materialism", "revolution"],
-    "concepts": ["labour", "justice", "state"],
+    "axes": [
+      "political_legitimacy",
+      "meaning_of_history",
+      "state_and_individual"
+    ],
+    "positions": [
+      "class_conflict",
+      "historical_materialism",
+      "revolution"
+    ],
+    "concepts": [
+      "labour",
+      "justice",
+      "state"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["critique"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "critique"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Note critiche marginali (1875) al programma di unità di Gotha, contro le concezioni lassalliane su lavoro, distribuzione e Stato.",
-    "summary_en": "Marginal critical notes (1875) on the Gotha unity programme, attacking Lassallean conceptions of labour, distribution, and the state."
+    "summary_en": "Marginal critical notes (1875) on the Gotha unity programme, attacking Lassallean conceptions of labour, distribution, and the state.",
+    "atoms": {
+      "010_Appendix": {
+        "concepts": [
+          "education",
+          "labour"
+        ]
+      }
+    }
   },
   "Das_Kapital_II": {
-    "axes": ["meaning_of_history"],
-    "positions": ["historical_materialism"],
-    "concepts": ["commodity", "money", "labour", "surplus_value"],
+    "axes": [
+      "meaning_of_history"
+    ],
+    "positions": [
+      "historical_materialism"
+    ],
+    "concepts": [
+      "commodity",
+      "money",
+      "labour",
+      "surplus_value"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["critique", "treatise"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "critique",
+      "treatise"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Secondo libro del Capitale, curato da Engels: il processo di circolazione del capitale, i circuiti del capitale-denaro, produttivo e-merce, il tempo di rotazione e la riproduzione.",
-    "summary_en": "Volume II of Capital, edited by Engels: the circulation process of capital, the circuits of money-, productive- and commodity-capital, turnover time, and reproduction."
+    "summary_en": "Volume II of Capital, edited by Engels: the circulation process of capital, the circuits of money-, productive- and commodity-capital, turnover time, and reproduction.",
+    "atoms": {
+      "002_apertura": {
+        "concepts": [
+          "surplus_value",
+          "commodity"
+        ]
+      },
+      "003_apertura": {
+        "concepts": [
+          "surplus_value",
+          "labour",
+          "commodity"
+        ]
+      },
+      "006_1_Der_Kreislauf_des_Geldkapitals": {
+        "concepts": [
+          "money",
+          "commodity",
+          "surplus_value"
+        ]
+      },
+      "007_I_Erstes_Stadium_G": {
+        "concepts": [
+          "commodity",
+          "money",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "008_I_Erstes_Stadium_G": {
+        "positions": [
+          "class_conflict"
+        ],
+        "concepts": [
+          "commodity",
+          "money",
+          "labour"
+        ]
+      },
+      "009_I_Erstes_Stadium_G": {
+        "concepts": [
+          "commodity",
+          "surplus_value"
+        ]
+      },
+      "011_III_Drittes_Stadium_W": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "012_III_Drittes_Stadium_W": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "money"
+        ]
+      },
+      "013_III_Drittes_Stadium_W": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value"
+        ]
+      },
+      "015_IV_Der_Gesamt-Kreislauf": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour",
+          "money"
+        ]
+      },
+      "019_I_Einfache_Reproduktion": {
+        "concepts": [
+          "surplus_value",
+          "commodity",
+          "money"
+        ]
+      },
+      "024_II_Akkmulation_und_Reproduktion_auf_erwe": {
+        "concepts": [
+          "surplus_value",
+          "money",
+          "commodity"
+        ]
+      },
+      "027_3_Der_Kreislauf_des_Warenkapitals": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "money"
+        ]
+      },
+      "029_3_Der_Kreislauf_des_Warenkapitals": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value"
+        ]
+      },
+      "031_4_Die_drei_Figuren_des_Kreislaufsprozess": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value"
+        ]
+      },
+      "036_5_Die_Umlaufszeit": {
+        "concepts": [
+          "time",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "038_1_Kauf-_und_Verkaufszeit": {
+        "concepts": [
+          "commodity",
+          "money",
+          "time",
+          "labour"
+        ]
+      },
+      "039_2_Buchführung": {
+        "concepts": [
+          "labour",
+          "time",
+          "nature",
+          "money",
+          "commodity"
+        ]
+      },
+      "040_3_Geld": {
+        "concepts": [
+          "commodity",
+          "money",
+          "labour"
+        ]
+      },
+      "042_1_Vorratbildung_überhaupt": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "money"
+        ]
+      },
+      "044_2_Eigentlicher_Warenvorrat": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "nature",
+          "time",
+          "money"
+        ]
+      },
+      "046_III_Transportkosten": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour",
+          "law",
+          "time"
+        ]
+      },
+      "050_I_Die_Formunterschiede": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "money",
+          "surplus_value"
+        ]
+      },
+      "053_II_Bestandteile_Ersatz_Reparatur_Akkumul": {
+        "concepts": [
+          "time",
+          "surplus_value",
+          "commodity",
+          "nature",
+          "experience"
+        ]
+      },
+      "062_10_Theorien_über_fixes_und_zirkulierende": {
+        "concepts": [
+          "commodity",
+          "surplus_value"
+        ]
+      },
+      "069_12_Die_Arbeitsperiode": {
+        "concepts": [
+          "labour",
+          "commodity",
+          "time",
+          "surplus_value"
+        ]
+      },
+      "072_13_Die_Produktionszeit": {
+        "concepts": [
+          "time",
+          "labour",
+          "nature"
+        ]
+      },
+      "076_14_Die_Umlaufszeit": {
+        "concepts": [
+          "time",
+          "commodity",
+          "money"
+        ]
+      },
+      "077_15_Wirkung_der_Umschlagszeit_auf_die_Grö": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "time",
+          "surplus_value"
+        ]
+      },
+      "086_2_Arbeitsperiode_7-12_Woche": {
+        "concepts": [
+          "money"
+        ]
+      },
+      "087_2_Zirkulationsperiode_13-15_Woche": {
+        "concepts": [
+          "money"
+        ]
+      },
+      "088_3_Arbeitsperiode_13-18_Woche7": {
+        "concepts": [
+          "money",
+          "time"
+        ]
+      },
+      "101_V_Wirkung_von_Preiswechsel": {
+        "concepts": [
+          "commodity",
+          "money",
+          "time"
+        ]
+      },
+      "106_I_Die_Jahresrate_des_Mehrwerts": {
+        "concepts": [
+          "surplus_value",
+          "commodity",
+          "money",
+          "labour"
+        ]
+      },
+      "107_I_Die_Jahresrate_des_Mehrwerts": {
+        "concepts": [
+          "surplus_value",
+          "labour",
+          "time"
+        ]
+      },
+      "108_I_Die_Jahresrate_des_Mehrwerts": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "110_II_Der_Umschlag_des_variablen_Einzelkapi": {
+        "concepts": [
+          "surplus_value",
+          "money",
+          "labour",
+          "commodity"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "112_III_Der_Umschlag_des_variablen_Kapitals": {
+        "concepts": [
+          "labour",
+          "surplus_value",
+          "money",
+          "commodity",
+          "time"
+        ]
+      },
+      "117_I_Einfache_Reproduktion": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value"
+        ]
+      },
+      "118_I_Einfache_Reproduktion": {
+        "concepts": [
+          "money",
+          "surplus_value",
+          "commodity",
+          "labour"
+        ]
+      },
+      "119_I_Einfache_Reproduktion": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "122_II_Akkumulation_und_erweiterte_Reprodukt": {
+        "concepts": [
+          "money",
+          "surplus_value",
+          "commodity",
+          "labour",
+          "time"
+        ]
+      },
+      "126_II_Die_Rolle_des_Geldkapitals": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "money",
+          "time"
+        ]
+      },
+      "128_1_Smiths_allgemeine_Gesichtspunkte": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "131_3_Der_konstante_Kapitalteil": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "133_4_Kapital_und_Revenue_bei_A_Smith": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "135_5_Zusammenfassung": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour",
+          "money"
+        ]
+      },
+      "137_III_Die_Späteren": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "141_II_Produktion_von_Konsumtionsmitteln": {
+        "concepts": [
+          "commodity",
+          "surplus_value"
+        ]
+      },
+      "143_III_Der_Umsatz_zwischen_den_beiden_Abtei": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value"
+        ]
+      },
+      "144_III_Der_Umsatz_zwischen_den_beiden_Abtei": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "149_1_I_zahlt_1000_Pfd_St_Geld_für_Arbeitskr": {
+        "concepts": [
+          "commodity",
+          "money"
+        ]
+      },
+      "160_II_2000c_reproduziert_durch_Umsatz_mit_I": {
+        "concepts": [
+          "money",
+          "labour",
+          "commodity",
+          "surplus_value"
+        ]
+      },
+      "168_2_Ersatz_des_fixen_Kapitals_in_natura": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "170_II_1_200_Geld_200c_Ware_2_200c_Ware": {
+        "concepts": [
+          "commodity",
+          "money"
+        ]
+      },
+      "171_II_1_200c_Geld_2_200c_Ware": {
+        "concepts": [
+          "money",
+          "commodity",
+          "surplus_value",
+          "law",
+          "labour"
+        ]
+      },
+      "172_II_1_220c_in_Geld_2_200c_in_Ware": {
+        "concepts": [
+          "commodity",
+          "money"
+        ]
+      },
+      "173_II_1_220c_in_Geld_2_200c_in_Ware": {
+        "concepts": [
+          "money",
+          "commodity",
+          "surplus_value"
+        ]
+      },
+      "174_II_1_180c_in_Geld_2_200c_in_Ware6": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value"
+        ]
+      },
+      "175_3_Resultate": {
+        "concepts": [
+          "commodity",
+          "money",
+          "labour",
+          "nature"
+        ]
+      },
+      "177_XII_Die_Reproduktion_des_Geldmaterials": {
+        "concepts": [
+          "money",
+          "surplus_value",
+          "commodity"
+        ]
+      },
+      "180_2_Dieselben_Kapitalisten_verkaufen_ferne": {
+        "positions": [
+          "class_conflict"
+        ],
+        "concepts": [
+          "commodity",
+          "money",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "183_21_Akkumulation_und_erweiterte_Reprodukt": {
+        "concepts": [
+          "surplus_value",
+          "money",
+          "commodity",
+          "time"
+        ]
+      },
+      "187_3_Das_zusätzliche_variable_Kapital": {
+        "concepts": [
+          "surplus_value",
+          "commodity",
+          "labour"
+        ]
+      },
+      "194_II_1500c_750v_750m_3000": {
+        "concepts": [
+          "surplus_value",
+          "money"
+        ]
+      },
+      "200_II_1600c_800v_800m_3200": {
+        "concepts": [
+          "surplus_value",
+          "commodity",
+          "money"
+        ]
+      },
+      "204_II_1760c_880v_880m_3520": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "210_II_2342c_1172v_1172m_4686": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "211_2_Zweites_Beispiel": {
+        "positions": [
+          "class_conflict",
+          "historical_materialism"
+        ],
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "212_II_1430c_285v_285m_2000": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "213_II_1430c_70m_zu_kapitalisieren_285v_215m": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "216_II_1500c_299v_201m_2000_in_Waren_Gesamts": {
+        "concepts": [
+          "commodity",
+          "surplus_value"
+        ]
+      },
+      "217_I_5000c_417mc_1000v_83mv": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "220_II_1715c_342v_342m": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "224_IV_Nachträgliches": {
+        "concepts": [
+          "surplus_value",
+          "money",
+          "commodity"
+        ]
+      }
+    }
   },
   "Das_Kapital_III": {
-    "axes": ["meaning_of_history", "political_legitimacy"],
-    "positions": ["historical_materialism", "class_conflict"],
-    "concepts": ["surplus_value", "commodity", "money", "property"],
+    "axes": [
+      "meaning_of_history",
+      "political_legitimacy"
+    ],
+    "positions": [
+      "historical_materialism",
+      "class_conflict"
+    ],
+    "concepts": [
+      "surplus_value",
+      "commodity",
+      "money",
+      "property"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["critique", "treatise"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "critique",
+      "treatise"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Terzo libro del Capitale, curato da Engels: il processo complessivo, prezzo di costo e profitto, saggio del profitto, concorrenza, rendita fondiaria e le classi.",
-    "summary_en": "Volume III of Capital, edited by Engels: the total process, cost price and profit, the rate of profit, competition, ground rent, and the classes."
+    "summary_en": "Volume III of Capital, edited by Engels: the total process, cost price and profit, the rate of profit, competition, ground rent, and the classes.",
+    "atoms": {
+      "005_apertura": {
+        "concepts": [
+          "surplus_value"
+        ],
+        "forms": [
+          "critique"
+        ]
+      },
+      "006_apertura": {
+        "schools": [
+          "historical_materialism_school"
+        ]
+      },
+      "009_1_Kostpreis_und_Profit": {
+        "concepts": [
+          "surplus_value",
+          "commodity",
+          "labour"
+        ]
+      },
+      "010_1_Kostpreis_und_Profit": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "012_2_Die_Profitrate": {
+        "concepts": [
+          "surplus_value",
+          "commodity",
+          "labour"
+        ],
+        "arguments": [
+          "commodity_fetishism"
+        ]
+      },
+      "016_1_m_und_C_konstant_v_variabel": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "017_I_15000_C_12000c_3000v_3000m_und_ist_es": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "018_I_100c_20v_10m_C120_m_50_p_8_13": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "019_II_90c_30v_15m_C_120_m_50_p_12_12": {
+        "concepts": [
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "021_II_90c_30v_15m_verwandelt_sich_dann_in": {
+        "concepts": [
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "023_I_100c_20v_10m_C_120_m_50_p_8_13": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "025_3_m_und_v_konstant_c_und_damit_auch_C_va": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "028_II_m_variabel": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "029_1_m_variabel_vC_konstant": {
+        "concepts": [
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "030_III_80c_20v_40m_m_200_p_40": {
+        "concepts": [
+          "surplus_value",
+          "labour",
+          "commodity"
+        ]
+      },
+      "031_2_m_und_v_variabel_C_konstant": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "032_III_84c_16v_20m_m_125_p_20": {
+        "concepts": [
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "033_3_m_v_und_C_variabel": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "034_1_bei_gleicher_prozentiger_Zusammensetzu": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "038_I_Im_allgemeinen": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value",
+          "time"
+        ]
+      },
+      "048_I_Preisschwankungen_des_Rohstoffs_ihre_d": {
+        "concepts": [
+          "commodity",
+          "time"
+        ]
+      },
+      "054_III_Allgemeine_Illustration_die_Baumwoll": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "money"
+        ]
+      },
+      "055_III_Allgemeine_Illustration_die_Baumwoll": {
+        "positions": [
+          "class_conflict",
+          "historical_materialism"
+        ],
+        "concepts": [
+          "labour",
+          "commodity",
+          "surplus_value"
+        ]
+      },
+      "060_II_Die_Verwandlung_des_Profits_in_Durchs": {
+        "concepts": [
+          "labour",
+          "surplus_value",
+          "commodity",
+          "time"
+        ]
+      },
+      "062_V_95c_5v_100_5_105_5": {
+        "concepts": [
+          "surplus_value",
+          "labour",
+          "commodity"
+        ]
+      },
+      "063_V_95c_5v_100_5_5_10_20_15": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "064_V_95c_5v_5_20_15_37_22_17": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value",
+          "time",
+          "money"
+        ]
+      },
+      "066_I_80c_20v_20m_Profitrate_20": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "068_III_70c_30v_30m_Profitrate_20": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "073_3_endlich_durch_Zusammenwirkung_dieser_b": {
+        "concepts": [
+          "commodity"
+        ]
+      },
+      "074_3_endlich_durch_Zusammenwirkung_dieser_b": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "law",
+          "nature"
+        ]
+      },
+      "076_3_endlich_durch_Zusammenwirkung_dieser_b": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "078_11_Wirkungen_allgemeiner_Schwankungen_de": {
+        "concepts": [
+          "surplus_value",
+          "labour",
+          "commodity"
+        ]
+      },
+      "080_I_Ursachen_welche_eine_Änderung_im_Produ": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value",
+          "law"
+        ]
+      },
+      "081_II_Produktionspreis_der_Waren_mittlerer": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "087_II_15c_3v_3m_C_18_p_16_23": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "090_I_Erhöhung_des_Exploitationsgrads_der_Ar": {
+        "concepts": [
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "100_III_Überfluß_an_Kapital_bei_Überfluß_an": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour",
+          "money"
+        ]
+      },
+      "102_IV_Nachträge": {
+        "concepts": [
+          "labour",
+          "surplus_value",
+          "commodity"
+        ]
+      },
+      "107_16_Das_Warenhandlungskapital": {
+        "concepts": [
+          "commodity",
+          "money",
+          "labour",
+          "time"
+        ]
+      },
+      "108_16_Das_Warenhandlungskapital": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value",
+          "labour",
+          "time"
+        ]
+      },
+      "111_17_Der_kommerzielle_Profit": {
+        "concepts": [
+          "commodity",
+          "money",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "126_21_Das_zinstragende_Kapital": {
+        "concepts": [
+          "money",
+          "commodity",
+          "surplus_value",
+          "labour",
+          "nature"
+        ]
+      },
+      "127_21_Das_zinstragende_Kapital": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "time"
+        ]
+      },
+      "128_21_Das_zinstragende_Kapital": {
+        "concepts": [
+          "commodity",
+          "money",
+          "surplus_value",
+          "time",
+          "nature"
+        ]
+      },
+      "129_21_Das_zinstragende_Kapital": {
+        "concepts": [
+          "commodity",
+          "law",
+          "time"
+        ]
+      },
+      "136_23_Zins_und_Unternehmergewinn": {
+        "concepts": [
+          "surplus_value",
+          "labour",
+          "money",
+          "commodity"
+        ]
+      },
+      "143_25_Kredit_und_fiktives_Kapital": {
+        "concepts": [
+          "money"
+        ]
+      },
+      "146_III_Das_Folgende_ist_aus_dem_schon_zitie": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "148_26_Akkumulation_von_Geldkapital_ihr_Einf": {
+        "concepts": [
+          "money"
+        ]
+      },
+      "152_26_Akkumulation_von_Geldkapital_ihr_Einf": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "156_II_Verringerung_der_Zirkulationskosten": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "162_1_Durch_die_Verwechslung_der_funktionell": {
+        "concepts": [
+          "commodity"
+        ]
+      },
+      "164_1_Durch_die_Verwechslung_der_funktionell": {
+        "concepts": [
+          "money",
+          "surplus_value"
+        ]
+      },
+      "165_1_Durch_die_Verwechslung_der_funktionell": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "174_31_Geldkapital_und_wirkliches_Kapital_II": {
+        "concepts": [
+          "money"
+        ]
+      },
+      "179_2_Verwandlung_von_Kapital_oder_Revenue_i": {
+        "concepts": [
+          "money",
+          "surplus_value",
+          "time"
+        ]
+      },
+      "182_32_Geldkapital_und_wirkliches_Kapital_II": {
+        "concepts": [
+          "surplus_value",
+          "labour",
+          "commodity",
+          "money"
+        ]
+      },
+      "185_33_Das_Umlaufsmittel_unter_dem_Kreditsys": {
+        "concepts": [
+          "money"
+        ]
+      },
+      "192_II_Von_1844-1853": {
+        "concepts": [
+          "commodity",
+          "money"
+        ]
+      },
+      "194_II_Von_1844-1853": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "200_II_Der_Wechselkurs": {
+        "concepts": [
+          "money",
+          "commodity",
+          "labour"
+        ]
+      },
+      "202_II_Der_Wechselkurs": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "230_41_Die_Differentialrente_II": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "231_41_Die_Differentialrente_II": {
+        "concepts": [
+          "surplus_value"
+        ]
+      },
+      "255_45_Die_absolute_Grundrente": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "265_II_Die_Arbeitsrente": {
+        "positions": [
+          "historical_materialism"
+        ],
+        "concepts": [
+          "surplus_value",
+          "state",
+          "sovereignty"
+        ]
+      },
+      "281_II_2000c_500v_500m_3000": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour"
+        ]
+      },
+      "284_50_Der_Schein_der_Konkurrenz": {
+        "concepts": [
+          "commodity",
+          "surplus_value",
+          "labour",
+          "money"
+        ]
+      },
+      "285_50_Der_Schein_der_Konkurrenz": {
+        "concepts": [
+          "surplus_value",
+          "labour",
+          "commodity"
+        ]
+      },
+      "296_I_Wertgesetz_und_Profitrate": {
+        "positions": [
+          "historical_materialism"
+        ],
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "306_II_Die_Börse": {
+        "concepts": [
+          "money",
+          "labour"
+        ]
+      },
+      "311_II_Die_Börse": {
+        "concepts": [
+          "money"
+        ]
+      }
+    }
   },
   "MANIFESTO_OF_THE_COMMUNIST_PARTY_1848": {
-    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
-    "positions": ["class_conflict", "historical_materialism", "revolution"],
-    "concepts": ["property", "labour", "state", "commodity"],
+    "axes": [
+      "political_legitimacy",
+      "meaning_of_history",
+      "state_and_individual"
+    ],
+    "positions": [
+      "class_conflict",
+      "historical_materialism",
+      "revolution"
+    ],
+    "concepts": [
+      "property",
+      "labour",
+      "state",
+      "commodity"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["manifesto"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "manifesto"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Il Manifesto del partito comunista (1848): storia come lotta di classe, ascesa e caduta della borghesia, programma dei comunisti e abolizione della proprietà privata.",
-    "summary_en": "The Communist Manifesto (1848): history as class struggle, the rise and fall of the bourgeoisie, the communist programme, and the abolition of private property."
+    "summary_en": "The Communist Manifesto (1848): history as class struggle, the rise and fall of the bourgeoisie, the communist programme, and the abolition of private property.",
+    "atoms": {
+      "002_PREFACE": {
+        "positions": [
+          "progress",
+          "revolution"
+        ],
+        "concepts": [
+          "state"
+        ],
+        "schools": [
+          "historical_materialism_school"
+        ]
+      },
+      "003_MANIFESTO_OF_THE_COMMUNIST_PARTY_BY_KARL": {
+        "forms": [
+          "manifesto"
+        ]
+      },
+      "004_I_Communism_is_already_acknowledged_by_a": {
+        "forms": [
+          "manifesto"
+        ]
+      }
+    }
   },
   "MARXS_INAUGURAL_ADDRESS": {
-    "axes": ["political_legitimacy", "meaning_of_history"],
-    "positions": ["class_conflict", "historical_materialism"],
-    "concepts": ["labour"],
+    "axes": [
+      "political_legitimacy",
+      "meaning_of_history"
+    ],
+    "positions": [
+      "class_conflict",
+      "historical_materialism"
+    ],
+    "concepts": [
+      "labour"
+    ],
     "arguments": [],
     "figures": [],
     "forms": [],
-    "schools": ["historical_materialism_school"],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Indirizzo inaugurale dell'Associazione internazionale dei lavoratori (1864): la miseria persistente delle masse operaie documentata con statistiche ufficiali, nonostante la crescita industriale.",
-    "summary_en": "Inaugural Address of the International Working Men's Association (1864): the persistent misery of the working masses documented with official statistics, despite industrial growth."
+    "summary_en": "Inaugural Address of the International Working Men's Association (1864): the persistent misery of the working masses documented with official statistics, despite industrial growth.",
+    "atoms": {
+      "002_apertura": {
+        "positions": [
+          "class_conflict",
+          "historical_materialism",
+          "revolution",
+          "progress"
+        ],
+        "concepts": [
+          "labour"
+        ]
+      }
+    }
   },
   "MR_GEORGE_HOWELLS_HISTORY_OF_THE_INTERNATIONAL_WORKING-MENS_ASSOCIATION": {
-    "axes": ["political_legitimacy"],
-    "positions": ["class_conflict"],
-    "concepts": ["religion"],
+    "axes": [
+      "political_legitimacy"
+    ],
+    "positions": [
+      "class_conflict"
+    ],
+    "concepts": [
+      "religion"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["essay"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Nota polemica (1878) che corregge la 'storia' dell'Internazionale scritta da George Howell, ristabilendo i fatti sulla fondazione dell'Associazione e sul dibattito sulla religione.",
     "summary_en": "A polemical note (1878) correcting George Howell's 'history' of the International, setting the record straight on the Association's founding and the debate over religion."
   },
   "NOTES_ON_ADOLPH_WAGNER_1883": {
-    "axes": ["meaning_of_history"],
-    "positions": ["historical_materialism"],
-    "concepts": ["commodity", "labour", "money"],
+    "axes": [
+      "meaning_of_history"
+    ],
+    "positions": [
+      "historical_materialism"
+    ],
+    "concepts": [
+      "commodity",
+      "labour",
+      "money"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["critique"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "critique"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Note critiche marginali (1883) al manuale di economia politica di Adolph Wagner, in difesa dell'analisi marxiana del valore, della merce e del lavoro.",
-    "summary_en": "Marginal critical notes (1883) on Adolph Wagner's textbook of political economy, defending Marx's analysis of value, the commodity, and labour."
+    "summary_en": "Marginal critical notes (1883) on Adolph Wagner's textbook of political economy, defending Marx's analysis of value, the commodity, and labour.",
+    "atoms": {
+      "002_apertura": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "surplus_value"
+        ],
+        "figures": [
+          "aristotle"
+        ]
+      }
+    }
   },
   "REVOLUTION_AND_COUNTER-REVOLUTION": {
-    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
-    "positions": ["class_conflict", "historical_materialism", "revolution"],
-    "concepts": ["state"],
+    "axes": [
+      "political_legitimacy",
+      "meaning_of_history",
+      "state_and_individual"
+    ],
+    "positions": [
+      "class_conflict",
+      "historical_materialism",
+      "revolution"
+    ],
+    "concepts": [
+      "state"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["essay"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Serie di articoli (1851-52) sulla rivoluzione tedesca del 1848: analisi delle classi, degli Stati tedeschi e delle insurrezioni fino alla controrivoluzione.",
-    "summary_en": "A series of articles (1851-52) on the German revolution of 1848, analysing the classes, the German states, and the insurrections up to the counter-revolution."
+    "summary_en": "A series of articles (1851-52) on the German revolution of 1848, analysing the classes, the German states, and the insurrections up to the counter-revolution.",
+    "atoms": {
+      "005_I_GERMANY_AT_THE_OUTBREAK_OF_THE_REVOLUT": {
+        "positions": [
+          "class_conflict",
+          "historical_materialism",
+          "revolution"
+        ],
+        "concepts": [
+          "state"
+        ]
+      },
+      "013_V_THE_VIENNA_INSURRECTION": {
+        "positions": [
+          "class_conflict",
+          "revolution",
+          "progress",
+          "historical_materialism"
+        ],
+        "concepts": [
+          "state"
+        ]
+      },
+      "021_XI_THE_VIENNA_INSURRECTION": {
+        "positions": [
+          "revolution",
+          "class_conflict"
+        ],
+        "concepts": [
+          "state"
+        ]
+      },
+      "025_XII_THE_STORMING_OF_VIENNA": {
+        "positions": [
+          "revolution"
+        ]
+      }
+    }
   },
   "SECRET_DIPLOMATIC_HISTORY_OF_THE_EIGHTEENTH_CENTURY": {
     "axes": [],
     "positions": [],
-    "concepts": ["state"],
+    "concepts": [
+      "state"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["essay"],
+    "forms": [
+      "essay"
+    ],
     "schools": [],
     "summary_it": "Ricostruzione documentaria della diplomazia europea del Settecento, incentrata sull'influenza russa e sui rapporti anglo-russi, montata a partire da dispacci e lettere.",
-    "summary_en": "A documentary reconstruction of eighteenth-century European diplomacy, centred on Russian influence and Anglo-Russian relations, assembled from despatches and letters."
+    "summary_en": "A documentary reconstruction of eighteenth-century European diplomacy, centred on Russian influence and Anglo-Russian relations, assembled from despatches and letters.",
+    "atoms": {
+      "004_CHAPTER_I": {
+        "positions": [
+          "revolution",
+          "progress",
+          "sovereignty"
+        ],
+        "concepts": [
+          "state"
+        ]
+      }
+    }
   },
   "THE_CIVIL_WAR_IN_FRANCE_1871": {
-    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
-    "positions": ["class_conflict", "historical_materialism", "revolution"],
-    "concepts": ["state"],
+    "axes": [
+      "political_legitimacy",
+      "meaning_of_history",
+      "state_and_individual"
+    ],
+    "positions": [
+      "class_conflict",
+      "historical_materialism",
+      "revolution"
+    ],
+    "concepts": [
+      "state"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["essay"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Indirizzo del Consiglio generale (1871) sulla Comune di Parigi: la classe operaia che spezza la macchina statale e la repressione sanguinosa di Thiers.",
-    "summary_en": "The General Council's address (1871) on the Paris Commune: the working class smashing the state machine and Thiers's bloody repression."
+    "summary_en": "The General Council's address (1871) on the Paris Commune: the working class smashing the state machine and Thiers's bloody repression.",
+    "atoms": {
+      "001_Introduction_by_Friedrich_Engels": {
+        "positions": [
+          "revolution",
+          "class_conflict",
+          "historical_materialism"
+        ],
+        "concepts": [
+          "state"
+        ]
+      },
+      "008_The_Begining_of_the_Franco-Prussian_War": {
+        "positions": [
+          "historical_materialism",
+          "progress"
+        ],
+        "concepts": [
+          "class_conflict",
+          "labour"
+        ]
+      }
+    }
   },
   "THE_CLASS_STRUGGLES_IN_FRANCE_1850": {
-    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
-    "positions": ["class_conflict", "historical_materialism", "revolution"],
-    "concepts": ["state", "money"],
+    "axes": [
+      "political_legitimacy",
+      "meaning_of_history",
+      "state_and_individual"
+    ],
+    "positions": [
+      "class_conflict",
+      "historical_materialism",
+      "revolution"
+    ],
+    "concepts": [
+      "state",
+      "money"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["essay"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Analisi (1850) della lotta di classe in Francia dal 1848 al 1850: il dominio dell'aristocrazia finanziaria e le sconfitte del proletariato.",
-    "summary_en": "An analysis (1850) of the class struggle in France from 1848 to 1850: the rule of the finance aristocracy and the defeats of the proletariat."
+    "summary_en": "An analysis (1850) of the class struggle in France from 1848 to 1850: the rule of the finance aristocracy and the defeats of the proletariat.",
+    "atoms": {
+      "003_Part_I_The_Defeat_of_June_1848": {
+        "positions": [
+          "class_conflict",
+          "historical_materialism",
+          "revolution"
+        ],
+        "concepts": [
+          "state",
+          "labour"
+        ]
+      },
+      "006_Part_I_The_Defeat_of_June_1848": {
+        "positions": [
+          "class_conflict",
+          "revolution"
+        ],
+        "concepts": [
+          "state"
+        ]
+      }
+    }
   },
   "THE_EIGHTEENTH_BRUMAIRE_OF_LOUIS_NAPOLEON_1852": {
-    "axes": ["meaning_of_history", "political_legitimacy", "state_and_individual"],
-    "positions": ["class_conflict", "historical_materialism", "revolution"],
-    "concepts": ["state"],
+    "axes": [
+      "meaning_of_history",
+      "political_legitimacy",
+      "state_and_individual"
+    ],
+    "positions": [
+      "class_conflict",
+      "historical_materialism",
+      "revolution"
+    ],
+    "concepts": [
+      "state"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["essay"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Analisi (1852) del colpo di Stato di Luigi Bonaparte come filosofia della storia: lotta di classe, farsa della ripetizione storica e ruolo dello Stato bonapartista.",
-    "summary_en": "An analysis (1852) of Louis Bonaparte's coup as a philosophy of history: class struggle, the farce of historical repetition, and the role of the Bonapartist state."
+    "summary_en": "An analysis (1852) of Louis Bonaparte's coup as a philosophy of history: class struggle, the farce of historical repetition, and the role of the Bonapartist state.",
+    "atoms": {
+      "010_THE_EIGHTEENTH_BRUMAIRE_OF_LOUIS_BONAPAR": {
+        "positions": [
+          "class_conflict",
+          "sovereignty"
+        ],
+        "concepts": [
+          "education"
+        ]
+      },
+      "014_THE_EIGHTEENTH_BRUMAIRE_OF_LOUIS_BONAPAR": {
+        "positions": [
+          "class_conflict"
+        ],
+        "concepts": [
+          "state",
+          "property"
+        ]
+      }
+    }
   },
   "THE_HOLY_FAMILY_1845": {
-    "axes": ["reality_status", "meaning_of_history", "god"],
-    "positions": ["materialism", "idealism", "historical_materialism"],
-    "concepts": ["self_consciousness", "religion", "idea"],
+    "axes": [
+      "reality_status",
+      "meaning_of_history",
+      "god"
+    ],
+    "positions": [
+      "materialism",
+      "idealism",
+      "historical_materialism"
+    ],
+    "concepts": [
+      "self_consciousness",
+      "religion",
+      "idea"
+    ],
     "arguments": [],
-    "figures": ["bauer"],
-    "forms": ["critique", "essay"],
-    "schools": ["historical_materialism_school", "german_idealism"],
+    "figures": [
+      "bauer"
+    ],
+    "forms": [
+      "critique",
+      "essay"
+    ],
+    "schools": [
+      "historical_materialism_school",
+      "german_idealism"
+    ],
     "summary_it": "Polemica (1845) contro Bruno Bauer e la 'Critica critica' dei giovani hegeliani, contro l'idealismo speculativo e l'autocoscienza, in nome dell'umanismo reale.",
-    "summary_en": "A polemic (1845) against Bruno Bauer and the Young Hegelians' 'Critical Criticism', attacking speculative idealism and self-consciousness in the name of real humanism."
+    "summary_en": "A polemic (1845) against Bruno Bauer and the Young Hegelians' 'Critical Criticism', attacking speculative idealism and self-consciousness in the name of real humanism.",
+    "atoms": {
+      "012_Chapter_IV_Critical_Criticism_As_the_Tra": {
+        "concepts": [
+          "self_consciousness",
+          "alienation"
+        ],
+        "figures": [
+          "feuerbach",
+          "bauer"
+        ]
+      },
+      "013_Chapter_IV_Critical_Criticism_As_the_Tra": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "property",
+          "state"
+        ]
+      },
+      "031_Chapter_VI_Absolute_Critical_Criticism_O": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "freedom"
+        ],
+        "figures": [
+          "bauer"
+        ],
+        "schools": [
+          "enlightenment"
+        ]
+      },
+      "034_Chapter_VI_Absolute_Critical_Criticism_O": {
+        "concepts": [
+          "civil_society",
+          "freedom",
+          "labour",
+          "recognition",
+          "state"
+        ]
+      },
+      "057_Chapter_VIII_The_Earthly_Course_and_Tran": {
+        "axes": [
+          "human_nature"
+        ],
+        "positions": [
+          "progress"
+        ],
+        "concepts": [
+          "commodity",
+          "state",
+          "labour"
+        ]
+      }
+    }
   },
   "THE_POVERTY_OF_PHILOSOPHY_1847": {
-    "axes": ["meaning_of_history", "method"],
-    "positions": ["historical_materialism", "dialectic"],
-    "concepts": ["commodity", "labour", "property"],
+    "axes": [
+      "meaning_of_history",
+      "method"
+    ],
+    "positions": [
+      "historical_materialism",
+      "dialectic"
+    ],
+    "concepts": [
+      "commodity",
+      "labour",
+      "property"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["critique", "essay"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "critique",
+      "essay"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Replica (1847) alla 'Filosofia della miseria' di Proudhon: critica del valore costituito, dell'uso improprio della dialettica hegeliana e della metafisica dell'economia politica.",
-    "summary_en": "A reply (1847) to Proudhon's 'Philosophy of Poverty': a critique of constituted value, the misuse of Hegelian dialectic, and the metaphysics of political economy."
+    "summary_en": "A reply (1847) to Proudhon's 'Philosophy of Poverty': a critique of constituted value, the misuse of Hegelian dialectic, and the metaphysics of political economy.",
+    "atoms": {
+      "009_2_Use_value_and_exchange_value_are_in_in": {
+        "positions": [
+          "dialectic"
+        ],
+        "concepts": [
+          "commodity"
+        ]
+      },
+      "018_2_Constituted_Value_or_Synthetic_Value": {
+        "concepts": [
+          "labour",
+          "commodity",
+          "surplus_value",
+          "class_conflict",
+          "property"
+        ]
+      },
+      "025_3_Application_of_the_Law_of_the_Proporti": {
+        "positions": [
+          "class_conflict",
+          "historical_materialism"
+        ],
+        "concepts": [
+          "labour",
+          "surplus_value"
+        ]
+      },
+      "041_4_Property_or_Ground_Rent": {
+        "positions": [
+          "class_conflict",
+          "civil_society",
+          "revolution"
+        ]
+      }
+    }
   },
   "THESES_ON_FEUERBACH_1845": {
-    "axes": ["reality_status", "god", "knowledge_origin"],
-    "positions": ["materialism", "historical_materialism", "idealism"],
-    "concepts": ["religion", "alienation"],
+    "axes": [
+      "reality_status",
+      "god",
+      "knowledge_origin"
+    ],
+    "positions": [
+      "materialism",
+      "historical_materialism",
+      "idealism"
+    ],
+    "concepts": [
+      "religion",
+      "alienation"
+    ],
     "arguments": [],
-    "figures": ["feuerbach"],
-    "forms": ["aphorism"],
-    "schools": ["historical_materialism_school"],
+    "figures": [
+      "feuerbach"
+    ],
+    "forms": [
+      "aphorism"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Undici tesi (1845) che oppongono al materialismo contemplativo di Feuerbach la prassi rivoluzionaria: l'essenza umana come insieme dei rapporti sociali e il compito di cambiare il mondo.",
     "summary_en": "Eleven theses (1845) opposing Feuerbach's contemplative materialism with revolutionary praxis: the human essence as the ensemble of social relations and the task of changing the world."
   },
   "WAGE_LABOUR_AND_CAPITAL_1847": {
-    "axes": ["meaning_of_history", "political_legitimacy"],
-    "positions": ["historical_materialism", "class_conflict"],
-    "concepts": ["labour", "commodity", "money"],
+    "axes": [
+      "meaning_of_history",
+      "political_legitimacy"
+    ],
+    "positions": [
+      "historical_materialism",
+      "class_conflict"
+    ],
+    "concepts": [
+      "labour",
+      "commodity",
+      "money"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["lecture", "essay"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "lecture",
+      "essay"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Conferenze (1847) sul salario, la forza-lavoro come merce e il capitale, e l'opposizione diametrale fra interessi del capitale e del lavoro salariato.",
-    "summary_en": "Lectures (1847) on wages, labour-power as a commodity, capital, and the diametrical opposition between the interests of capital and wage-labour."
+    "summary_en": "Lectures (1847) on wages, labour-power as a commodity, capital, and the diametrical opposition between the interests of capital and wage-labour.",
+    "atoms": {
+      "001_Introduction_to_Karl_Marxs_Wage_Labour_a": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "005_What_are_Wages_How_are_they_Determined": {
+        "concepts": [
+          "labour",
+          "commodity",
+          "money",
+          "alienation"
+        ]
+      },
+      "006_What_are_Wages_How_are_they_Determined": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "008_By_what_is_the_price_of_a_commodity_dete": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "010_The_Nature_and_Growth_of_Capital": {
+        "positions": [
+          "historical_materialism",
+          "class_conflict"
+        ],
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      }
+    }
   },
   "Zur_Judenfrage": {
-    "axes": ["god", "state_and_individual", "political_legitimacy"],
-    "positions": ["critical_genealogy", "civil_society", "historical_materialism"],
-    "concepts": ["religion", "state", "freedom"],
+    "axes": [
+      "god",
+      "state_and_individual",
+      "political_legitimacy"
+    ],
+    "positions": [
+      "critical_genealogy",
+      "civil_society",
+      "historical_materialism"
+    ],
+    "concepts": [
+      "religion",
+      "state",
+      "freedom"
+    ],
     "arguments": [],
-    "figures": ["bauer"],
-    "forms": ["critique", "essay"],
-    "schools": ["historical_materialism_school"],
+    "figures": [
+      "bauer"
+    ],
+    "forms": [
+      "critique",
+      "essay"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Saggio (1843) contro Bruno Bauer che distingue l'emancipazione politica da quella umana, criticando lo Stato cristiano, la religione e la scissione tra Stato e società civile.",
-    "summary_en": "An essay (1843) against Bruno Bauer distinguishing political from human emancipation, criticizing the Christian state, religion, and the split between state and civil society."
+    "summary_en": "An essay (1843) against Bruno Bauer distinguishing political from human emancipation, criticizing the Christian state, religion, and the split between state and civil society.",
+    "atoms": {
+      "001_apertura": {
+        "figures": [
+          "bauer"
+        ]
+      }
+    }
   },
   "Zur_Kritik_der_Hegelschen_Rechtsphilosophie": {
-    "axes": ["god", "state_and_individual", "political_legitimacy", "meaning_of_history"],
-    "positions": ["critical_genealogy", "historical_materialism", "sovereignty", "civil_society"],
-    "concepts": ["religion", "state", "alienation", "law"],
+    "axes": [
+      "god",
+      "state_and_individual",
+      "political_legitimacy",
+      "meaning_of_history"
+    ],
+    "positions": [
+      "critical_genealogy",
+      "historical_materialism",
+      "sovereignty",
+      "civil_society"
+    ],
+    "concepts": [
+      "religion",
+      "state",
+      "alienation",
+      "law"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["critique"],
-    "schools": ["historical_materialism_school", "german_idealism"],
+    "forms": [
+      "critique"
+    ],
+    "schools": [
+      "historical_materialism_school",
+      "german_idealism"
+    ],
     "summary_it": "Critica (1843-44) della filosofia del diritto di Hegel: la celebre Introduzione sulla religione come 'oppio del popolo' e l'autoalienazione umana, con l'analisi di sovranità e società civile.",
-    "summary_en": "A critique (1843-44) of Hegel's philosophy of right: the famous Introduction on religion as the 'opium of the people' and human self-alienation, alongside the analysis of sovereignty and civil society."
+    "summary_en": "A critique (1843-44) of Hegel's philosophy of right: the famous Introduction on religion as the 'opium of the people' and human self-alienation, alongside the analysis of sovereignty and civil society.",
+    "atoms": {
+      "028_2_das_zu_Leistende_kann_nur_durch_diese": {
+        "positions": [
+          "civil_society"
+        ],
+        "concepts": [
+          "state",
+          "freedom",
+          "will",
+          "representation"
+        ]
+      }
+    }
   },
   "Zur_Kritik_der_politischen_Ökonomie": {
-    "axes": ["meaning_of_history"],
-    "positions": ["historical_materialism"],
-    "concepts": ["commodity", "labour", "money"],
+    "axes": [
+      "meaning_of_history"
+    ],
+    "positions": [
+      "historical_materialism"
+    ],
+    "concepts": [
+      "commodity",
+      "labour",
+      "money"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["critique", "treatise"],
-    "schools": ["historical_materialism_school"],
+    "forms": [
+      "critique",
+      "treatise"
+    ],
+    "schools": [
+      "historical_materialism_school"
+    ],
     "summary_it": "Contributo alla critica dell'economia politica (1859): l'analisi della merce, del valore d'uso e di scambio, del lavoro astratto e del denaro.",
     "summary_en": "A Contribution to the Critique of Political Economy (1859): the analysis of the commodity, use- and exchange-value, abstract labour, and money."
+  },
+  "Zur_Kritik_der_politischen_Ökonomie": {
+    "atoms": {
+      "002_1_Die_Ware": {
+        "concepts": [
+          "commodity",
+          "labour"
+        ]
+      },
+      "004_1_Die_Ware": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "time",
+          "nature"
+        ]
+      },
+      "009_1_Die_Ware": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "money",
+          "surplus_value",
+          "alienation"
+        ]
+      },
+      "011_1_Die_Ware": {
+        "positions": [
+          "civil_society"
+        ],
+        "concepts": [
+          "commodity",
+          "labour",
+          "money",
+          "freedom"
+        ]
+      },
+      "012_2_Das_Geld_oder_die_einfache_Zirkulation": {
+        "concepts": [
+          "commodity",
+          "money"
+        ],
+        "arguments": [
+          "commodity_fetishism"
+        ]
+      },
+      "017_1_Maß_der_Werte": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "money"
+        ]
+      },
+      "020_2_Zirkulationsmittel": {
+        "concepts": [
+          "commodity",
+          "money",
+          "labour"
+        ]
+      },
+      "024_2_Zirkulationsmittel": {
+        "concepts": [
+          "money",
+          "commodity",
+          "labour",
+          "experience",
+          "nature"
+        ]
+      },
+      "032_3_Geld": {
+        "concepts": [
+          "commodity",
+          "money",
+          "labour"
+        ]
+      },
+      "033_3_Geld": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "036_3_Geld": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      },
+      "043_C_Theorien_über_Zirkulationsmittel_und_G": {
+        "concepts": [
+          "commodity",
+          "labour",
+          "money"
+        ]
+      },
+      "046_C_Theorien_über_Zirkulationsmittel_und_G": {
+        "concepts": [
+          "money",
+          "commodity"
+        ]
+      }
+    }
   }
 }

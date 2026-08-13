@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A section of 'The Dehumanization of Art': for the newest generation art is a thing without transcendence, and it interests the artist precisely insofar as it lacks gravity. Against a nineteenth century that expected art to save the species, the new style is to be set beside the triumph of sport and cinema: Europe is entering a phase of puerility.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

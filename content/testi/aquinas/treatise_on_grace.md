@@ -12,8 +12,19 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > Treatise on the necessity of grace: without it man cannot fully know truth, love God above all things, keep the commandments, or persevere in good. It distinguishes operating from cooperating grace and prevenient from subsequent grace, resuming Augustine's anti-Pelagian polemic: grace does not abolish nature but perfects it.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]]  
+**Posizioni:** [[positions/grace_perfects_nature|la grazia perfeziona la natura]]  
+**Concetti:** [[concepts/grace|grazia]], [[concepts/will|volontà]], [[concepts/reason|ragione]]  
+**Figure:** [[figures/augustine|Agostino]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +39,7 @@ TREATISE ON GRACE (QQ[109]-114)
 
 Trattato sulla Grazia (QQ[109]-114)
 
-<span class="atom-split" data-atom="002" data-title="OF THE NECESSITY OF GRACE (TEN ARTICLES)" data-chapter="OF THE NECESSITY OF GRACE (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE NECESSITY OF GRACE (TEN ARTICLES)" data-chapter="OF THE NECESSITY OF GRACE (TEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace"></span>
 
 We must now consider the exterior principle of human acts, i.e. God, in so far as, through grace,
 we are helped by Him to do right: and, first, we must consider the grace of God; secondly, its cause;
@@ -64,7 +75,7 @@ All’interno del primo ambito di indagine vi sono dieci questioni principali:
 (9) Può l’uomo, una volta ricevuta la grazia, compiere il bene ed evitare il peccato senza ulteriore aiuto divino?  
 (10) Può l’uomo perseverare da solo nel bene?
 
-<span class="atom-split" data-atom="003" data-title="Whether without grace man can know any truth?" data-chapter="Whether without grace man can know any truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether without grace man can know any truth?" data-chapter="Whether without grace man can know any truth?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that without grace man can know no truth. For, on 1 Cor. 12:3:
 "No man can say, the Lord Jesus, but by the Holy Ghost," a gloss says: "Every truth, by whomsoever
@@ -151,7 +162,7 @@ Risposta all’Obiezione 2: Il sole materiale irradia la sua luce al di fuori di
 
 Risposta all’Obiezione 3: Abbiamo sempre bisogno dell’aiuto di Dio per ogni pensiero, poiché è Lui a spingere l’intelletto ad agire; infatti, comprendere qualcosa significa proprio pensare, come è chiaro nelle opere di Agostino (De Trinitate, xiv, 7).
 
-<span class="atom-split" data-atom="004" data-title="Whether man can wish or do any good without grace?" data-chapter="Whether man can wish or do any good without grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether man can wish or do any good without grace?" data-chapter="Whether man can wish or do any good without grace?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man can wish and do good without grace. For that is in man's
 power, whereof he is master. Now man is master of his acts, and especially of his willing, as stated
@@ -228,7 +239,7 @@ Risposta all’Obiezione 2: Peccare significa semplicemente fallire nel realizza
 
 Risposta all’Obiezione 3: L’uomo non può nemmeno conoscere la verità senza l’aiuto divino, come già affermato sopra (A[1]). Eppure, la natura umana è più corrotta dal peccato in termini di desiderio del bene che in termini di conoscenza della verità.
 
-<span class="atom-split" data-atom="005" data-title="Whether by his own natural powers and without grace man can love God above all things?" data-chapter="Whether by his own natural powers and without grace man can love God above all things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether by his own natural powers and without grace man can love God above all things?" data-chapter="Whether by his own natural powers and without grace man can love God above all things?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that without grace man cannot love God above all things by his
 own natural powers. For to love God above all things is the proper and principal act of charity.
@@ -307,7 +318,7 @@ Risposta all’Obiezione 2: Quando si afferma che la natura non può elevarsi al
 
 Risposta all’Obiezione 3: Si afferma che l’amore sia il migliore, sia in termini di intensità, sia per quanto riguarda il movente dell’amare e il modo stesso di amare. Pertanto, il grado più alto di amore è quello in cui la carità ama Dio come colui che dona la beatitudine, come già detto in precedenza.
 
-<span class="atom-split" data-atom="006" data-title="Whether man without grace and by his own natural powers can fulfil the commandments of the Law?" data-chapter="Whether man without grace and by his own natural powers can fulfil the commandments of the Law?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether man without grace and by his own natural powers can fulfil the commandments of the Law?" data-chapter="Whether man without grace and by his own natural powers can fulfil the commandments of the Law?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man without grace, and by his own natural powers, can fulfil
 the commandments of the Law. For the Apostle says (Rom. 2:14) that "the Gentiles who have not
@@ -354,7 +365,7 @@ way free that we must confess we still require God's help."
 Reply to Objection 3: Man cannot, with his purely natural endowments, fulfil the precept of
 the love of God, as stated above (A[3]).
 
-<span class="atom-split" data-atom="007" data-title="Whether man can merit everlasting life without grace?" data-chapter="Whether man can merit everlasting life without grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether man can merit everlasting life without grace?" data-chapter="Whether man can merit everlasting life without grace?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man can merit everlasting life without grace. For Our Lord
 says (Mat. 19:17): "If thou wilt enter into life, keep the commandments"; from which it would seem
@@ -418,7 +429,7 @@ Risposta all’Obiezione 2: Come afferma la spiegazione di Romani 6:23, “La gr
 
 Risposta all’Obiezione 3: Questa obiezione riguarda la fine naturale dell’uomo. Ora, la natura umana, essendo più nobile, può essere elevata con l’aiuto della grazia a uno scopo più alto, che le nature inferiori non possono mai raggiungere; proprio come un uomo che può ripristinare la propria salute con l’aiuto dei medicinali è più predisposto ad essa rispetto a colui che non ne è in grado, come osserva il Filosofo (De Coelo ii, 12).
 
-<span class="atom-split" data-atom="008" data-title="Whether a man, by himself and without the external aid of grace, can prepare himself for grace?" data-chapter="Whether a man, by himself and without the external aid of grace, can prepare himself for grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether a man, by himself and without the external aid of grace, can prepare himself for grace?" data-chapter="Whether a man, by himself and without the external aid of grace, can prepare himself for grace?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man, by himself and without the external help of grace, can
 prepare himself for grace. For nothing impossible is laid upon man, as stated above (A[4], ad 1).
@@ -507,7 +518,7 @@ Risposta all’Obiezione 3: Questa obiezione riguarda la grazia abituale, per la
 
 Risposta all’Obiezione 4: È proprio della natura umana preparare la propria anima, poiché ciò avviene attraverso la libera volontà dell’uomo stesso. Tuttavia, questo processo non avviene senza l’aiuto di Dio, che spinge e attira l’uomo verso di Sé, come è stato detto in precedenza.
 
-<span class="atom-split" data-atom="009" data-title="Whether man can rise from sin without the help of grace?" data-chapter="Whether man can rise from sin without the help of grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether man can rise from sin without the help of grace?" data-chapter="Whether man can rise from sin without the help of grace?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/free_will,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man can rise from sin without the help of grace. For what is
 presupposed to grace, takes place without grace. But to rise to sin is presupposed to the [enlightenment](/schools/enlightenment)
@@ -585,7 +596,7 @@ Risposta all’Obiezione 2: La ragione naturale non costituisce il principio suf
 
 Risposta all’Obiezione 3: Quando la natura è perfetta, può essere ripristinata da sola nella sua condizione appropriata e proporzionata; ma senza aiuto esterno non può essere riportata a uno stato che superi i limiti della sua natura. E così, la [natura umana](/axes/human_nature), corrotta a causa del peccato, non è più perfetta, ma è decaduta, come già detto sopra (Q[85]); inoltre, non può essere ripristinata da sola nel suo bene innato, tanto meno nel bene soprannaturale della giustizia.
 
-<span class="atom-split" data-atom="010" data-title="Whether man without grace can avoid sin?" data-chapter="Whether man without grace can avoid sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether man without grace can avoid sin?" data-chapter="Whether man without grace can avoid sin?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that without grace man can avoid sin. Because "no one sins in what
 he cannot avoid," as [Augustine](/figures/augustine) says (De Duab. Anim. x, xi; De Libero Arbit. iii, 18). Hence if a
@@ -673,7 +684,7 @@ Risposta all’Obiezione 2: La correzione è utile “affinché, dal dolore deri
 
 Risposta all’Obiezione 3: Come afferma Agostino (Hypognosticon iii, *Tra le opere false di Sant’Agostino*), questa affermazione va intesa dell’uomo nello stato della natura perfetta, quando ancora non era schiavo del peccato. Pertanto, era in grado sia di peccare che di non peccare. Anche oggi, tutto ciò che un uomo desidera gli viene concesso; ma il compiere volontariamente il bene è possibile grazie all’aiuto di Dio.
 
-<span class="atom-split" data-atom="011" data-title="Whether one who has already obtained grace, can, of himself and without further help of grace, do good and avoid sin?" data-chapter="Whether one who has already obtained grace, can, of himself and without further help of grace, do good and avoid sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether one who has already obtained grace, can, of himself and without further help of grace, do good and avoid sin?" data-chapter="Whether one who has already obtained grace, can, of himself and without further help of grace, do good and avoid sin?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that whoever has already obtained grace, can by himself and without
 further help of grace, do good and avoid sin. For a thing is useless or imperfect, if it does not fulfil
@@ -730,7 +741,7 @@ together with the Father and the Son, moves and protects us.
 
 Reply to Objection 3: This argument merely proves that man needs no further habitual grace.
 
-<span class="atom-split" data-atom="012" data-title="Whether man possessed of grace needs the help of grace in order to persevere?" data-chapter="Whether man possessed of grace needs the help of grace in order to persevere?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether man possessed of grace needs the help of grace in order to persevere?" data-chapter="Whether man possessed of grace needs the help of grace in order to persevere?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man possessed of grace needs no help to persevere. For
 perseverance is something less than virtue, even as continence is, as is clear from the Philosopher
@@ -792,7 +803,7 @@ Risposta all’Obiezione 1: Questa obiezione riguarda il primo modo di persevera
 
 Risposta all’Obiezione 3: Come afferma Agostino (De [Natura](/concepts/nature) et [Gratia](/concepts/grace) xliii) [*Cfr. De Correp. et Grat. xii*]: “Nello stato originale, l’uomo ricevette un dono che gli permetteva di perseverare, ma non fu dato anche il potere stesso di perseverare. Oggi, però, grazie alla grazia di Cristo, molti ricevono sia il dono della grazia che consente loro di perseverare, sia anche la capacità concreta di farlo”; pertanto il dono di Cristo è più grande del peccato originale di Adamo. Tuttavia, per l’uomo era più facile perseverare, nel stato di innocenza in cui il corpo non era ribelle allo spirito, rispetto a quanto avviene oggi. Poiché la restaurazione operata dalla grazia di Cristo, sebbene abbia già iniziato nell’anima, non è ancora completa nel corpo; ma lo sarà in cielo, dove l’uomo non solo sarà in grado di perseverare, ma non potrà più peccare.
 
-<span class="atom-split" data-atom="013" data-title="OF THE GRACE OF GOD AS REGARDS ITS ESSENCE (FOUR ARTICLES)" data-chapter="OF THE GRACE OF GOD AS REGARDS ITS ESSENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="OF THE GRACE OF GOD AS REGARDS ITS ESSENCE (FOUR ARTICLES)" data-chapter="OF THE GRACE OF GOD AS REGARDS ITS ESSENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/soul,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the grace of God as regards its essence; and under this head there are
 four points of inquiry:
@@ -809,7 +820,7 @@ Dobbiamo ora considerare la grazia di Dio in relazione alla sua essenza; e sotto
 (3) Se la grazia differisca dalla virtù infusa;  
 (4) Chi sia il soggetto della grazia.
 
-<span class="atom-split" data-atom="014" data-title="Whether grace implies anything in the soul?" data-chapter="Whether grace implies anything in the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether grace implies anything in the soul?" data-chapter="Whether grace implies anything in the soul?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/predestination,concepts/four_causes,figures/augustine"></span>
 
 Objection 1: It would seem that grace does not imply anything in the soul. For man is said to
 have the grace of God even as the grace of man. Hence it is written (Gn. 39:21) that the Lord gave
@@ -894,7 +905,7 @@ Risposta all’Obiezione 2: Dio è la vita dell’anima nel senso di una [causa 
 
 Risposta all’Obiezione 3: Agostino afferma (Retractationes, I, 25): “Quando ho detto che la grazia serve alla remissione dei peccati e la pace alla nostra riconciliazione con Dio, non dovete intendere che pace e riconciliazione si riferiscano soltanto alla remissione dei peccati, ma che il nome specifico di ‘grazia’ indichi proprio questa funzione”. Pertanto, non solo la grazia, ma anche molti altri doni di Dio sono legati alla grazia stessa. E da ciò deriva che la remissione dei peccati non avviene senza un effetto divino che agisce in noi, come verrà chiarito più avanti (Q[113], A[2]).
 
-<span class="atom-split" data-atom="015" data-title="Whether grace is a quality of the soul?" data-chapter="Whether grace is a quality of the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether grace is a quality of the soul?" data-chapter="Whether grace is a quality of the soul?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that grace is not a quality of the soul. For no quality acts on its
 subject, since the action of a quality is not without the action of its subject, and thus the subject
@@ -970,7 +981,7 @@ Risposta all’Obiezione 2: Ogni sostanza è o la natura della cosa di cui costi
 
 Risposta all’Obiezione 3: Come afferma Boezio nel [*Pseudo-Bede, Sentenze filosofiche secondo l’Arte], “l’esistenza di un accidente consiste nel fatto che esso è intrinseco a qualcosa”. Pertanto, nessun accidente viene definito “essere” nel senso che possieda realmente un’esistenza autonoma, ma perché grazie ad esso qualcos’altro esiste. Per questo motivo si dice che un accidente appartiene a un essere, piuttosto che essere esso stesso un essere (Metafisica vii, testo 2). Inoltre, poiché il diventare e il corrompersi sono caratteristiche di ciò che esiste in senso proprio, nessun accidente viene effettivamente creato o distrutto; si dice invece che entri in essere o venga corrotto nel momento in cui il suo soggetto inizia o smette di possederlo. Così pure la grazia può essere considerata “creata”, nel senso che gli uomini vengono donati una nuova esistenza, non a partire dai loro meriti, ma in relazione a essa; come si legge in Efesini 2:10: “Sono stati creati in Cristo Gesù per compiere opere buone”.
 
-<span class="atom-split" data-atom="016" data-title="Whether grace is the same as virtue?" data-chapter="Whether grace is the same as virtue?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether grace is the same as virtue?" data-chapter="Whether grace is the same as virtue?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/virtue,concepts/predestination,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that grace is the same as virtue. For [Augustine](/figures/augustine) says (De Spir. et
 Lit. xiv) that "operating grace is faith that worketh by charity." But faith that worketh by charity
@@ -1048,7 +1059,7 @@ Risposta all’Obiezione 2: Il bene viene incluso nella definizione della virtù
 
 Risposta all’Obiezione 3: La grazia viene ridotta alla prima specie di qualità; eppure non è la stessa cosa della virtù, bensì una certa disposizione che costituisce il principio e la radice delle virtù infuse.
 
-<span class="atom-split" data-atom="017" data-title="Whether grace is in the essence of the soul as in a subject, or in one of the powers?" data-chapter="Whether grace is in the essence of the soul as in a subject, or in one of the powers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether grace is in the essence of the soul as in a subject, or in one of the powers?" data-chapter="Whether grace is in the essence of the soul as in a subject, or in one of the powers?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that grace is not in the essence of the soul, as in a subject, but in
 one of the powers. For [Augustine](/figures/augustine) says (Hypognosticon iii [*Among the spurious works of St.
@@ -1123,7 +1134,7 @@ Risposta all’Obiezione 3: L’anima è soggetto della grazia, poiché appartie
 
 Risposta all’Obiezione 4: Poiché le facoltà dell’anima sono proprietà naturali che derivano dalla sua essenza specifica, l’anima non può essere priva di esse. Tuttavia, anche ammettendo che fosse priva di tali facoltà, essa continuerebbe comunque a essere definita “intelligente” o “razionale” in base alla sua specie; ciò non significa che possedesse effettivamente queste capacità, ma deriva semplicemente dall’essenza stessa di tale specie, dalla quale tali facoltà scaturiscono naturalmente.
 
-<span class="atom-split" data-atom="018" data-title="OF THE DIVISION OF GRACE (FIVE ARTICLES)" data-chapter="OF THE DIVISION OF GRACE (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="OF THE DIVISION OF GRACE (FIVE ARTICLES)" data-chapter="OF THE DIVISION OF GRACE (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the division of grace; under which head there are five points of inquiry:
 (1) Whether grace is fittingly divided into gratuitous grace and sanctifying grace?
@@ -1141,7 +1152,7 @@ Dobbiamo ora considerare la divisione della grazia; sotto questa categoria esist
 (4) La specifica della grazia gratuita;  
 (5) Il confronto tra grazia santificante e grazia gratuita.
 
-<span class="atom-split" data-atom="019" data-title="Whether grace is fittingly divided into sanctifying grace and gratuitous grace?" data-chapter="Whether grace is fittingly divided into sanctifying grace and gratuitous grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether grace is fittingly divided into sanctifying grace and gratuitous grace?" data-chapter="Whether grace is fittingly divided into sanctifying grace and gratuitous grace?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that grace is not fittingly divided into sanctifying grace and
 gratuitous grace. For grace is a gift of God, as is clear from what has been already stated (Q[110],
@@ -1216,7 +1227,7 @@ Tuttavia, in nessuno dei due casi il concetto di debito implica che Dio sia obbl
 
 Risposta all’Obiezione 3: La grazia santificante aggiunge alla nozione di grazia gratuita qualcosa che riguarda la natura stessa della grazia, poiché rende l’uomo gradito a Dio. Pertanto, la grazia gratuita che non compie questo compito mantiene lo stesso nome comune, come avviene in molti altri casi; e così le due parti di questa distinzione vengono considerate rispettivamente “grazia santificante” e “grazia non santificante”.
 
-<span class="atom-split" data-atom="020" data-title="Whether grace is fittingly divided into operating and cooperating grace?" data-chapter="Whether grace is fittingly divided into operating and cooperating grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether grace is fittingly divided into operating and cooperating grace?" data-chapter="Whether grace is fittingly divided into operating and cooperating grace?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/grace,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that grace is not fittingly divided into operating and cooperating
 grace. For grace is an accident, as stated above (Q[110], A[2]). Now no accident can act upon its
@@ -1306,7 +1317,7 @@ Risposta all’Obiezione 3: Si dice che una cosa coopera con un’altra non solt
 
 Risposta all’Obiezione 4: La grazia operante e la grazia cooperante sono la stessa grazia; tuttavia si distinguono per i loro effetti diversi, come è evidente da quanto detto finora.
 
-<span class="atom-split" data-atom="021" data-title="Whether grace is fittingly divided into prevenient and subsequent grace?" data-chapter="Whether grace is fittingly divided into prevenient and subsequent grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether grace is fittingly divided into prevenient and subsequent grace?" data-chapter="Whether grace is fittingly divided into prevenient and subsequent grace?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that grace is not fittingly divided into prevenient and subsequent.
 For grace is an effect of the Divine love. But God's love is never subsequent, but always prevenient,
@@ -1352,7 +1363,7 @@ Reply to Objection 3: Although the effects of grace may be infinite in number, e
 acts are infinite, nevertheless all reduced to some of a determinate species, and moreover all coincide
 in this---that one precedes another.
 
-<span class="atom-split" data-atom="022" data-title="Whether gratuitous grace is rightly divided by the Apostle?" data-chapter="Whether gratuitous grace is rightly divided by the Apostle?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether gratuitous grace is rightly divided by the Apostle?" data-chapter="Whether gratuitous grace is rightly divided by the Apostle?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that gratuitous grace is not rightly divided by the Apostle. For
 every gift vouchsafed to us by God, may be called a gratuitous grace. Now there are an infinite
@@ -1436,7 +1447,7 @@ that are placed in the gratuitous graces, since, as [Augustine](/figures/augusti
 merely to know what a man must believe in order to reach everlasting life, and another thing to
 know how this may benefit the godly and may be defended against the ungodly."
 
-<span class="atom-split" data-atom="023" data-title="Whether gratuitous grace is nobler than sanctifying grace?" data-chapter="Whether gratuitous grace is nobler than sanctifying grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether gratuitous grace is nobler than sanctifying grace?" data-chapter="Whether gratuitous grace is nobler than sanctifying grace?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that gratuitous grace is nobler than sanctifying grace. For "the
 people's good is better than the individual good," as the Philosopher says (Ethic. i, 2). Now
@@ -1504,7 +1515,7 @@ Risposta all’Obiezione 2: Se la grazia gratuita potesse far sì che un uomo ri
 Risposta all’Obiezione 3: Il sentimento è destinato al ragionamento come a uno scopo; pertanto, il ragionamento è più nobile del sentimento.  
 Ma in questo caso avviene il contrario: ciò che è specifico è destinato a ciò che è generale come a uno scopo. Pertanto, non esiste alcuna analogia tra i due.
 
-<span class="atom-split" data-atom="024" data-title="OF THE CAUSE OF GRACE (FIVE ARTICLES)" data-chapter="OF THE CAUSE OF GRACE (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="OF THE CAUSE OF GRACE (FIVE ARTICLES)" data-chapter="OF THE CAUSE OF GRACE (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the cause of grace; and under this head there are five points of inquiry:
 (1) Whether God alone is the [efficient cause](/concepts/four_causes) of grace?
@@ -1523,7 +1534,7 @@ Dobbiamo ora considerare la causa della grazia; e sotto questo aspetto ci sono c
 (4) Se la grazia sia uguale per tutti;  
 (5) Se qualcuno possa conoscere con certezza di aver ricevuto la grazia.
 
-<span class="atom-split" data-atom="025" data-title="Whether God alone is the cause of grace?" data-chapter="Whether God alone is the cause of grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether God alone is the cause of grace?" data-chapter="Whether God alone is the cause of grace?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/cause,concepts/sacrament"></span>
 
 Objection 1: It would seem that God alone is not the cause of grace. For it is written (Jn. 1:17):
 "Grace and truth came by Jesus Christ." Now, by the name of Jesus Christ is understood not merely
@@ -1582,7 +1593,7 @@ Risposta all’Obiezione 2: Così come nella persona di Cristo l’umanità cont
 
 Risposta all’Obiezione 3: Gli angeli purificano, illuminano e perfezionano altri angeli o uomini attraverso l’insegnamento, e non attraverso la giustificazione operata dalla grazia. Pertanto Dionigi afferma (Coel. Hier. vii) che “questa purificazione, questa [illuminazione](/schools/enlightenment) e questo perfezionamento non sono altro che l’assunzione della conoscenza divina”.
 
-<span class="atom-split" data-atom="026" data-title="Whether any preparation and disposition for grace is required on man's part?" data-chapter="Whether any preparation and disposition for grace is required on man's part?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether any preparation and disposition for grace is required on man's part?" data-chapter="Whether any preparation and disposition for grace is required on man's part?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no preparation or disposition for grace is required on man's
 part, since, as the Apostle says (Rom. 4:4), "To him that worketh, the reward is not reckoned
@@ -1654,7 +1665,7 @@ Risposta all’Obiezione 2: Poiché un uomo non può prepararsi alla grazia se D
 
 Risposta all’Obiezione 3: Un agente dotato di potere infinito non ha bisogno di alcuna materia o disposizione materiale che possa essere prodotta dall’azione di altro; eppure, considerando lo stato della cosa che viene creata, Egli deve necessariamente fornire sia la materia che la giusta disposizione affinché quella cosa assuma la forma desiderata. Allo stesso modo, quando Dio infonde la grazia in un’anima, non è necessaria alcuna preparazione preliminare: tutto ciò che è necessario viene fornito direttamente da Lui stesso.
 
-<span class="atom-split" data-atom="027" data-title="Whether grace is necessarily given to whoever prepares himself for it, or to whoever does what he can?" data-chapter="Whether grace is necessarily given to whoever prepares himself for it, or to whoever does what he can?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether grace is necessarily given to whoever prepares himself for it, or to whoever does what he can?" data-chapter="Whether grace is necessarily given to whoever prepares himself for it, or to whoever does what he can?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/free_will,concepts/grace,concepts/predestination,figures/augustine"></span>
 
 Objection 1: It would seem that grace is necessarily given to whoever prepares himself for
 grace, or to whoever does what he can, because, on Rom. 5:1, "Being justified . . . by faith, let us
@@ -1719,7 +1730,7 @@ Risposta all’Obiezione 2: La prima causa del difetto di grazia risiede da part
 
 Risposta all’Obiezione 3: Anche nelle cose naturali, la forma non deriva necessariamente dalla disposizione della materia, se non per l’azione dell’agente che causa tale disposizione.
 
-<span class="atom-split" data-atom="028" data-title="Whether grace is greater in one than in another?" data-chapter="Whether grace is greater in one than in another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether grace is greater in one than in another?" data-chapter="Whether grace is greater in one than in another?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that grace is not greater in one than in another. For grace is caused
 in us by the Divine love, as stated above (Q[110], A[1]). Now it is written (Wis. 6:8): "He made
@@ -1786,7 +1797,7 @@ Risposta all’Obiezione 2: Questa obiezione si basa sul primo tipo di “grande
 
 Risposta all’Obiezione 3: La vita naturale appartiene alla sostanza umana e, pertanto, non può essere né maggiore né minore; ma l’uomo partecipa alla vita di grazia in modo accidentale, e quindi può possederla in misura maggiore o minore.
 
-<span class="atom-split" data-atom="029" data-title="Whether man can know that he has grace?" data-chapter="Whether man can know that he has grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether man can know that he has grace?" data-chapter="Whether man can know that he has grace?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that man can know that he has grace. For grace by its physical
 reality is in the soul. Now the soul has most certain knowledge of those things that are in it by their
@@ -1866,7 +1877,7 @@ Reply to Objection 5: What was said to Abraham may refer to experimental knowled
 springs from deeds of which we are cognizant. For in the deed that Abraham had just wrought, he
 could know experimentally that he had the fear of God. Or it may refer to a revelation.
 
-<span class="atom-split" data-atom="030" data-title="OF THE EFFECTS OF GRACE (TEN ARTICLES)" data-chapter="OF THE EFFECTS OF GRACE (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="OF THE EFFECTS OF GRACE (TEN ARTICLES)" data-chapter="OF THE EFFECTS OF GRACE (TEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider the effect of grace; (1) the justification of the ungodly, which is the
 effect of operating grace; and (2) merit, which is the effect of cooperating grace. Under the first
@@ -1896,7 +1907,7 @@ Dobbiamo ora considerare l’effetto della grazia: (1) la giustificazione degli 
 (9) La giustificazione degli ingiusti è forse l’opera più grande di Dio?  
 (10) La giustificazione degli ingiusti è un fenomeno miracoloso?
 
-<span class="atom-split" data-atom="031" data-title="Whether the justification of the ungodly is the remission of sins?" data-chapter="Whether the justification of the ungodly is the remission of sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether the justification of the ungodly is the remission of sins?" data-chapter="Whether the justification of the ungodly is the remission of sins?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the justification of the ungodly is not the remission of sins.
 For sin is opposed not only to justice, but to all the other virtues, as stated above (Q[71], A[1]).
@@ -1970,7 +1981,7 @@ Risposta all’Obiezione 2: La fede e la carità implicano una direzione partico
 
 Risposta all’Obiezione 3: Il termine “essere chiamati” si riferisce all’aiuto di Dio che muove e stimola la nostra mente a rinunciare al peccato; tale azione di Dio non costituisce la remissione dei peccati, ma ne è la causa.
 
-<span class="atom-split" data-atom="032" data-title="Whether the infusion of grace is required for the remission of guilt, i.e. for the justification of the ungodly?" data-chapter="Whether the infusion of grace is required for the remission of guilt, i.e. for the justification of the ungodly?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether the infusion of grace is required for the remission of guilt, i.e. for the justification of the ungodly?" data-chapter="Whether the infusion of grace is required for the remission of guilt, i.e. for the justification of the ungodly?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that for the remission of guilt, which is the justification of the
 ungodly, no infusion of grace is required. For anyone may be moved from one contrary without
@@ -2040,7 +2051,7 @@ Risposta all’Obiezione 2: Poiché l’amore di Dio non consiste soltanto nell�
 
 Risposta all’Obiezione 3: Come afferma [Agostino](/figures/augustine) (De Nup. et Concup., i, 26), se smettere di peccare fosse equivalente a non peccare affatto, basterebbe che la [Scrittura](/concepts/revelation) ci avvertisse in questo modo: “‘Figlio mio, hai peccato? Non farlo più.’ Ora questo non è sufficiente; viene aggiunto anche: ‘Ma prega anche per i tuoi peccati passati affinché ti siano perdonati.’” Poiché l’atto del peccato può cessare, la colpa rimane, come già detto sopra (Q[87], A[6]). Pertanto, quando qualcuno passa dal peccato di un vizio al peccato di un vizio opposto, smette di compiere l’atto del primo peccato, ma non smette di possedere la colpa di entrambi; quindi può contemporaneamente essere colpevole di entrambi i peccati. I peccati, infatti, non sono contrari tra loro in termini della loro natura intrinseca, che li lega a Dio e ne costituisce la vera essenza.
 
-<span class="atom-split" data-atom="033" data-title="Whether for the justification of the ungodly is required a movement of the free-will?" data-chapter="Whether for the justification of the ungodly is required a movement of the free-will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether for the justification of the ungodly is required a movement of the free-will?" data-chapter="Whether for the justification of the ungodly is required a movement of the free-will?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,positions/original_sin,concepts/grace,concepts/sacrament,figures/augustine"></span>
 
 Objection 1: It would seem that no movement of the free-will is required for the justification
 of the ungodly. For we see that by the [sacrament](/concepts/sacrament) of Baptism, infants and sometimes adults are
@@ -2126,7 +2137,7 @@ Tuttavia va osservato che il paragone tra il dono della saggezza e il dono della
 
 Risposta all’Obiezione 3: Nell’influsso della grazia giustificante avviene una certa trasformazione dell’anima umana; pertanto è necessario che l’anima reagisca in modo appropriato affinché possa essere influenzata nel suo proprio modo. Tuttavia, la conservazione della grazia non comporta alcuna trasformazione: non è richiesto alcun movimento da parte dell’anima, ma soltanto la continuazione di quell’influsso divino.
 
-<span class="atom-split" data-atom="034" data-title="Whether a movement of faith is required for the justification of the ungodly?" data-chapter="Whether a movement of faith is required for the justification of the ungodly?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether a movement of faith is required for the justification of the ungodly?" data-chapter="Whether a movement of faith is required for the justification of the ungodly?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no movement of faith is required for the justification of the
 ungodly. For as a man is justified by faith, so also by other things, viz. by fear, of which it is written
@@ -2194,7 +2205,7 @@ Risposta all’Obiezione 2: La conoscenza naturale non induce l’uomo a rivolge
 
 Risposta all’Obiezione 3: Come afferma l’Apostolo (Romani 4:5), “Per colui che crede in Colui che giustifica gli ingiusti, la fede stessa è considerata giustizia, secondo il disegno della grazia di Dio”. È quindi evidente che, nella giustificazione degli ingiusti, sia necessario un atto di fede affinché una persona possa credere che Dio giustifichi l’uomo attraverso il mistero di Cristo.
 
-<span class="atom-split" data-atom="035" data-title="Whether for the justification of the ungodly there is required a movement of the free-will towards sin?" data-chapter="Whether for the justification of the ungodly there is required a movement of the free-will towards sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether for the justification of the ungodly there is required a movement of the free-will towards sin?" data-chapter="Whether for the justification of the ungodly there is required a movement of the free-will towards sin?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no movement of the free-will towards sin is required for the
 justification of the ungodly. For charity alone suffices to take away sin, according to Prov. 10:12:
@@ -2263,7 +2274,7 @@ Risposta all’Obiezione 2: Un uomo non dovrebbe tornare a quelle cose che sono 
 
 Risposta all’Obiezione 3: Prima della giustificazione, un uomo deve detestare ogni peccato che ricorda di aver commesso; da questo ricordo deriva in lui un sentimento generale di ripugnanza verso tutti i peccati compiuti, inclusi anche quelli dimenticati. In tale stato mentale, l’uomo proverebbe rimorso persino per quei peccati di cui non si ricorda, se li avesse presenti alla memoria; e questo sentimento contribuisce alla sua giustificazione.
 
-<span class="atom-split" data-atom="036" data-title="Whether the remission of sins ought to be reckoned amongst the things required for justification?" data-chapter="Whether the remission of sins ought to be reckoned amongst the things required for justification?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Whether the remission of sins ought to be reckoned amongst the things required for justification?" data-chapter="Whether the remission of sins ought to be reckoned amongst the things required for justification?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/grace,concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the remission of sins ought not to be reckoned amongst the
 things required for justification. For the substance of a thing is not reckoned together with those
@@ -2334,7 +2345,7 @@ Risposta all’Obiezione 2: L’influsso della grazia e la remissione del peccat
 
 Risposta all’Obiezione 3: Questa enumerazione non rappresenta la divisione di un genere nelle sue specie, nella quale gli elementi elencati devono essere simultanei; bensì si tratta della divisione degli elementi necessari per il completamento di qualcosa. In questa enumerazione possiamo quindi includere sia gli elementi che precedono che quelli che seguono, poiché alcuni principi e parti di un composto possono esserci prima di altri.
 
-<span class="atom-split" data-atom="037" data-title="Whether the justification of the ungodly takes place in an instant or successively?" data-chapter="Whether the justification of the ungodly takes place in an instant or successively?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether the justification of the ungodly takes place in an instant or successively?" data-chapter="Whether the justification of the ungodly takes place in an instant or successively?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the justification of the ungodly does not take place in an instant,
 but successively, since, as already stated (A[3]), for the justification of the ungodly, there is required
@@ -2463,7 +2474,7 @@ Risposta all’Obiezione 4: Nello stesso istante in cui una forma viene acquisit
 
 Risposta all’Obiezione 5: La successione degli opposti nello stesso soggetto deve essere considerata in modo diverso nelle cose soggette al tempo e in quelle che sono al di sopra del tempo. Infatti, nelle cose che esistono nel tempo non esiste un istante finale in cui la forma precedente persista nel soggetto; esiste invece un ultimo momento in cui la forma successiva prende il sopravvento. Ciò avviene perché, nel tempo, non possiamo considerare un singolo istante come tale, poiché gli istanti non seguono immediatamente l’uno dopo l’altro, né i punti su una linea seguono necessariamente uno dopo l’altro (come dimostrato nella Fisica VI, 1). Il tempo, tuttavia, è delimitato da un istante finale. Pertanto, nel corso di tutto il tempo precedente in cui qualcosa si dirige verso la propria forma, tale cosa si trova sotto l’influenza della forma opposta; nell’istante finale di quel tempo, che coincide con il primo istante del tempo successivo, essa assume finalmente la forma desiderata. Nelle cose che sono al di sopra del tempo, invece, le cose stanno diversamente. Se in esse esiste una successione di stati o concetti intellettuali (come negli angeli), tale successione non viene misurata dal tempo continuo, ma da un tempo discreto, poiché anche le cose su cui si basa questa misurazione non sono continue (come già affermato in FP, Q[53], AA[2],3). In questi casi esiste quindi un istante finale in cui prevale lo stato precedente e un primo istante in cui emerge lo stato successivo; inoltre, non è necessario che vi sia alcun intervallo di tempo tra questi due istanti, poiché il tempo stesso non presenta continuità. L’intelletto umano, essendo giustificato, è in sé al di sopra del tempo; tuttavia, soggiace accidentalmente al tempo, nel senso che comprende le cose nel contesto di un tempo continuo, soprattutto quando considera le specie intellettuali attraverso i fantasmi mentali (come già detto in FP, Q[85], AA[1],2). Pertanto, sulla base di ciò possiamo affermare che, riguardo ai cambiamenti che avvengono nell’intelletto umano nel contesto dei processi temporali, non esiste un istante finale in cui il peccato persista, ma soltanto un ultimo momento in cui esso prevale; al contrario, esiste un primo istante in cui la grazia diventa effettiva. Nel corso di tutto il tempo precedente, invece, il peccato continua ad esistere nell’intelletto umano.
 
-<span class="atom-split" data-atom="038" data-title="Whether the infusion of grace is naturally the first of the things required for the justification of the ungodly?" data-chapter="Whether the infusion of grace is naturally the first of the things required for the justification of the ungodly?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether the infusion of grace is naturally the first of the things required for the justification of the ungodly?" data-chapter="Whether the infusion of grace is naturally the first of the things required for the justification of the ungodly?" data-kind="atom" data-srclang="en" data-tags="positions/free_will,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the infusion of grace is not what is naturally required first for
 the justification of the ungodly. For we withdraw from evil before drawing near to good, according
@@ -2545,7 +2556,7 @@ Risposta all’Obiezione 2: Nell’ordine naturale, la disposizione del soggetto
 
 Risposta all’Obiezione 3: Come afferma il Filosofo (Physica ii, 9), nei movimenti dell’anima, il movimento verso il principio speculativo o verso lo scopo pratico è il primo e fondamentale; ma nei movimenti esteriori, la rimozione degli ostacoli precede l’attuazione dello scopo stesso. Poiché il movimento della volontà libera è anch’esso un movimento dell’anima, secondo l’ordine naturale essa si dirige verso Dio come verso il proprio fine, prima ancora di eliminare gli ostacoli rappresentati dal peccato.
 
-<span class="atom-split" data-atom="039" data-title="Whether the justification of the ungodly is God's greatest work?" data-chapter="Whether the justification of the ungodly is God's greatest work?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the justification of the ungodly is God's greatest work?" data-chapter="Whether the justification of the ungodly is God's greatest work?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,positions/beatitude,figures/augustine"></span>
 
 Objection 1: It would seem that the justification of the ungodly is not God's greatest work. For
 it is by the justification of the ungodly that we attain the grace of a wayfarer. Now by glorification
@@ -2611,7 +2622,7 @@ Risposta all’Obiezione 2: Il bene dell’universo è maggiore del bene partico
 
 Risposta all’Obiezione 3: Questa obiezione si basa sul modo in cui Dio agisce; è proprio attraverso questo modo che la creazione rappresenta il suo più grande capolavoro.
 
-<span class="atom-split" data-atom="040" data-title="Whether the justification of the ungodly is a miraculous work?" data-chapter="Whether the justification of the ungodly is a miraculous work?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Whether the justification of the ungodly is a miraculous work?" data-chapter="Whether the justification of the ungodly is a miraculous work?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the justification of the ungodly is a miraculous work. For
 miraculous works are greater than non-miraculous. Now the justification of the ungodly is greater
@@ -2690,7 +2701,7 @@ Risposta all’Obiezione 2: Non si tratta di un atto miracoloso, ogni volta che 
 
 Risposta all’Obiezione 3: Un uomo acquisisce naturalmente saggezza e conoscenza da Dio grazie al proprio talento e allo studio. Pertanto, è miracoloso quando un uomo diventa saggio o erudito al di fuori di questo processo naturale. Tuttavia, un uomo non acquisisce naturalmente la grazia salvifica attraverso le proprie azioni, ma per intervento di Dio. Perciò non esiste alcuna analogia tra i due casi.
 
-<span class="atom-split" data-atom="041" data-title="OF MERIT (TEN ARTICLES)" data-chapter="OF MERIT (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="OF MERIT (TEN ARTICLES)" data-chapter="OF MERIT (TEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider merit, which is the effect of cooperating grace; and under this head there
 are ten points of inquiry:
@@ -2720,7 +2731,7 @@ Dobbiamo ora considerare il merito, che è l’effetto della grazia cooperante; 
 (9) Se possa meritarsi la perseveranza finale nella fede;  
 (10) Se i beni temporali rientrino nel concetto di merito.
 
-<span class="atom-split" data-atom="042" data-title="Whether a man may merit anything from God?" data-chapter="Whether a man may merit anything from God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether a man may merit anything from God?" data-chapter="Whether a man may merit anything from God?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/free_will,concepts/justice,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man can merit nothing from God. For no one, it would seem,
 merits by giving another his due. But by all the good we do, we cannot make sufficient return to
@@ -2792,7 +2803,7 @@ Risposta all’Obiezione 2: Dio non cerca dai nostri beni alcun profitto, ma glo
 
 Risposta all’Obiezione 3: Poiché la nostra azione presenta caratteristiche meritorie, ciò avviene soltanto sulla premessa dell’ordinamento divino; pertanto non si può concludere che Dio diventi nostro debitore, ma piuttosto che sia proprio suo dovere che la Sua volontà venga attuata.
 
-<span class="atom-split" data-atom="043" data-title="Whether anyone without grace can merit eternal life?" data-chapter="Whether anyone without grace can merit eternal life?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether anyone without grace can merit eternal life?" data-chapter="Whether anyone without grace can merit eternal life?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that without grace anyone can merit eternal life. For man merits
 from God what he is divinely ordained to, as stated above (A[1]). Now man by his nature is ordained
@@ -2863,7 +2874,7 @@ Risposta all’Obiezione 2: Senza grazia, un uomo non può compiere un’azione 
 
 Risposta all’Obiezione 3: Per quanto riguarda il primo argomento addotto, la situazione è diversa in Dio e nell’uomo. L’uomo riceve infatti tutta la sua capacità di compiere il bene da Dio, e non dall’uomo stesso; pertanto, l’uomo non può meritare nulla da Dio se non attraverso i doni che Egli gli concede, come esprime efficacemente l’Apostolo in Romani 11:35: “Chi ha prima dato a Lui, riceverà in cambio”. Tuttavia, l’uomo può meritare qualcosa dall’uomo stesso, anche prima di aver ricevuto nulla da lui, grazie a ciò che ha ricevuto da Dio. Per quanto riguarda invece il secondo argomento basato sull’ostacolo rappresentato dal peccato, la situazione è simile sia nell’uomo che in Dio: un uomo non può infatti meritare nulla da un altro di cui si è offeso, a meno che non gli compia soddisfazione e non si riconcili con lui.
 
-<span class="atom-split" data-atom="044" data-title="Whether a man in grace can merit eternal life condignly?" data-chapter="Whether a man in grace can merit eternal life condignly?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="Whether a man in grace can merit eternal life condignly?" data-chapter="Whether a man in grace can merit eternal life condignly?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man in grace cannot merit eternal life condignly, for the
 Apostle says (Rom. 8:18): "The sufferings of this time are not worthy [condignae] to be compared
@@ -2931,7 +2942,7 @@ Risposta all’Obiezione 2: Questa affermazione va intesa in riferimento alla pr
 
 Risposta all’Obiezione 3: La grazia dello Spirito Santo che possediamo attualmente, sebbene non sia paragonabile alla gloria in atto, lo è virtualmente; infatti, il seme di un albero contiene in sé l’intero albero nel suo stato potenziale. Allo stesso modo, nella persona umana dimora la grazia dello Spirito Santo, che costituisce una causa sufficiente per la vita eterna; da qui, 2 Corinzi 1:22, lo Spirito Santo viene chiamato “pegno” della nostra eredità.
 
-<span class="atom-split" data-atom="045" data-title="Whether grace is the principle of merit through charity rather than the other virtues?" data-chapter="Whether grace is the principle of merit through charity rather than the other virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether grace is the principle of merit through charity rather than the other virtues?" data-chapter="Whether grace is the principle of merit through charity rather than the other virtues?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that grace is not the principle of merit through charity rather than
 the other virtues. For wages are due to work, according to Mat. 20:8: "Call the laborers and pay
@@ -2999,7 +3010,7 @@ Risposta all’Obiezione 2: Un compito può risultare faticoso e difficile in du
 
 Risposta all’Obiezione 3: L’atto di fede non è meritevole se non “operi attraverso la carità” (Galati 5:6). Allo stesso modo, anche gli atti di pazienza e forza d’animo non sono meritevoli se non vengono compiuti per amore della carità, secondo 1 Corinzi 13:3: “Anche se dovessi offrire il mio corpo al rogo, senza carità, nulla di tutto ciò mi sarebbe di alcun beneficio”.
 
-<span class="atom-split" data-atom="046" data-title="Whether a man may merit for himself the first grace?" data-chapter="Whether a man may merit for himself the first grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether a man may merit for himself the first grace?" data-chapter="Whether a man may merit for himself the first grace?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man may merit for himself the first grace, because, as
 [Augustine](/figures/augustine) says (Ep. clxxxvi), "faith merits justification." Now a man is justified by the first grace.
@@ -3066,7 +3077,7 @@ Risposta all’Obiezione 2: Dio dona la grazia soltanto a coloro che sono degni;
 
 Risposta all’Obiezione 3: Ogni opera buona dell’uomo deriva dalla prima grazia, cioè dal suo principio fondamentale; non invece da alcun dono umano. Pertanto, non esiste alcuna analogia tra i doni della grazia e i doni umani.
 
-<span class="atom-split" data-atom="047" data-title="Whether a man can merit the first grace for another?" data-chapter="Whether a man can merit the first grace for another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Whether a man can merit the first grace for another?" data-chapter="Whether a man can merit the first grace for another?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man can merit the first grace for another. Because on Mat.
 9:2: "Jesus seeing their faith," etc. a gloss says: "How much is our personal faith worth with God,
@@ -3134,7 +3145,7 @@ Risposta all’Obiezione 2: L’efficacia della preghiera si basa sulla miserico
 
 Risposta all’Obiezione 3: Si dice che i poveri che ricevono l’elemosina vengano ammessi alle dimore eternhe, sia attraverso la preghiera per ottenere il loro perdono, sia per meriti derivanti da altre buone azioni, oppure, in termini materiali, poiché proprio queste opere di misericordia compiute nei confronti dei poveri ci rendono degni di essere accolti nelle dimore eternhe.
 
-<span class="atom-split" data-atom="048" data-title="Whether a man may merit restoration after a fall?" data-chapter="Whether a man may merit restoration after a fall?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether a man may merit restoration after a fall?" data-chapter="Whether a man may merit restoration after a fall?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/grace,concepts/charity,figures/augustine"></span>
 
 Objection 1: It would seem that anyone may merit for himself restoration after a fall. For what
 a man may justly ask of God, he may justly merit. Now nothing may more justly be besought of
@@ -3199,7 +3210,7 @@ Risposta all’Obiezione 2: Chiunque può meritare in modo legittimo per un altr
 
 Risposta all’Obiezione 3: Alcuni hanno affermato che nessuno meriti “assolutamente” la vita eterna, se non attraverso l’atto della grazia finale, ma soltanto “condizionalmente”, cioè se persevera nel bene. Tuttavia, tale affermazione è irragionevole: talvolta, l’atto della grazia finale può rivelarsi meno meritevole degli atti precedenti a causa di circostanze negative, come la malattia. Pertanto, si deve riconoscere che ogni atto di carità merita assolutamente la vita eterna; tuttavia, il peccato successivo può creare un ostacolo al merito accumulato in precedenza, impedendogli di produrre i suoi effetti desiderati, proprio come le cause naturali possono fallire a causa di ostacoli esterni.
 
-<span class="atom-split" data-atom="049" data-title="Whether a man may merit the increase of grace or charity?" data-chapter="Whether a man may merit the increase of grace or charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Whether a man may merit the increase of grace or charity?" data-chapter="Whether a man may merit the increase of grace or charity?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/charity,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man cannot merit an increase of grace or charity. For when
 anyone receives the reward he merited no other reward is due to him; thus it was said of some (Mat.
@@ -3245,7 +3256,7 @@ with the consummation of grace which is eternal life. But just as eternal life i
 but in its own time, so neither is grace increased at once, but in its own time, viz. when a man is
 sufficiently disposed for the increase of grace.
 
-<span class="atom-split" data-atom="050" data-title="Whether a man may merit perseverance?" data-chapter="Whether a man may merit perseverance?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Whether a man may merit perseverance?" data-chapter="Whether a man may merit perseverance?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that anyone may merit perseverance. For what a man obtains by
 asking, can come under the merit of anyone that is in grace. Now men obtain perseverance by
@@ -3289,7 +3300,7 @@ movement; not so, the perseverance of the wayfarer, for the reason given in the 
 In the same way may we answer the third objection which concerns the increase of grace, as
 was explained above.
 
-<span class="atom-split" data-atom="051" data-title="Whether temporal goods fall under merit?" data-chapter="Whether temporal goods fall under merit?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="Whether temporal goods fall under merit?" data-chapter="Whether temporal goods fall under merit?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that temporal goods fall under merit. For what is promised to some
 as a reward of justice, falls under merit. Now, temporal goods were promised in the [Old Law](/concepts/divine_law) as
@@ -3316,7 +3327,7 @@ Obiezione 2: Inoltre, ciò sembrerebbe rientrare nella categoria dei meriti, che
 
 Obiezione 3: Inoltre, ciò che è meritevole è altrettanto degno di lode, così come ciò che è indegno è degno di biasimo. Tuttavia, a causa del demerito del peccato, alcuni vengono puniti da Dio con punizioni temporanee, come si evince dai Sodomiti, secondo il Genesi.
 
-<span class="atom-split" data-atom="052" data-title="19. Hence temporal goods fall under merit." data-chapter="19. Hence temporal goods fall under merit." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="19. Hence temporal goods fall under merit." data-chapter="19. Hence temporal goods fall under merit." data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/grace_perfects_nature,concepts/grace,concepts/will,concepts/reason,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 4:
 

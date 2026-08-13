@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A speech seven months into the Republic: until now the duty was not to get in the way of those governing, and to voice dissent only with measure, but now that a constitution and a state exist the duty reverses — each must say plainly what he thinks about the country's historical situation, because judgements, and with them responsibilities, must be told apart. A political speech.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

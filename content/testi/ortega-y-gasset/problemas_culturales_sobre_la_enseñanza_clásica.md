@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The continuation of the series: the sickness of the French language is a symptom of a valetudinarian culture, and the 'cure by Latin' urged by the defenders of rhetoric matches Barrès's nationalism or Maurras's royalisme in politics. To live is to change; besides, Latin is not a classical language, Latin culture being a meagre reflection of the Greek.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -144,7 +151,7 @@ Quando gli ulani imperiali ponevano cerco a Parigi non sapevano che uno dei luog
 
 L'attualità, cioè il mezzo vitale in cui oggi possiamo respirare cultura, è germanica. E questo è la prima cosa di tutto, essere attuale, accorgersi dell'elemento in cui viviamo e aprire bene i polmoni perché si riempiano di ossigeno. Con lamenti per il bene perduto e vaghe sollecitazioni dell'avvenire non otterremo nulla.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/essay"></span>
 
 Es menester que en nuestras relaciones con el pasado y con el porvenir, con aquello que recordado nos enamora y con aquello otro que apenas entrevemos y bajo el nombre de Ideal nos desasosiega y lleva al estricote —como dice Cervantes que era el terreno Sancho llevado por el ardor fugitivo de su señor— tomemos una posición firme. Ha vuelto a apoderarse en estos años de nuestro mundo civilizado una inquietud y nerviosa titilación, un descontento cósmico y una falta de apetitos y de energía que debe preocuparnos seriamente. Como a Heine, nos huele la tierra a violetas marchitas. La falta de interés que ofrece la vida europea de estos años, hace que nuestras almas se carguen de recuerdos o de esperanzas, y nuestros corazones como el semblante de los ciegos, se orientan hacia donde nos parece que se derrama un poco de luminosidad. Hemos perdido el contacto con la actualidad, y el pasado y el futuro disputan entre sí por imponer sobre nosotros cada cual su hegemonía. Y hay espíritus que van corvos bajo la pesadumbre de las remembranzas, y otros excesivamente ingrávidos, con grandes alas utópicas, que no pueden posarse sobre la tierra porque son menos pesados que el aire ambiente y actual. En política, en literatura, en filosofía, hay conservadores y arcaizantes de un lado, ilusionarios y utopistas de otro: faltan casi por completo los hombres compenetrados con el presente, los hombres actuales que viven su hora plenamente, en ella se infunden y disuelven sin nostalgia ni ascos, preparando el porvenir desde el presente. Atravesamos una calma chicha de la historia, un punto muerto.
 
@@ -252,7 +259,7 @@ Lungo sarebbe entrare nella discussione di tutti questi punti. Ma io mi contente
 
 Agli occhi salta la necessità di superare le forme differenziali che costituiscono le culture particolari, francese, italiana, spagnola, tedesca, salvarsi da questa confusione di pretese analoghe e fissare con inequivoca formula la cultura essenziale, l'unica cultura vera.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/essay"></span>
 
 Ahora bien, esa cultura esencial que atraviesa todas las variaciones históricas y las trasciende inmortal, se mostró una vez casi en su pureza, relativamente exenta de exterioridades ornamentales, de superfetaciones y desviaciones. Fue aquella hora en que nació, fue en su momento original: Grecia.
 

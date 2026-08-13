@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An open letter to Corpus Barga on fascism: it is enigmatic because the most opposite contents appear in it — authoritarianism and revolt, antidemocracy without restoring any past — but every real thing is contradictory under analysis. Like the stick submerged in water, the phenomenon's truth lies beyond its antagonistic appearances, and no political group is intelligible apart from the whole historical sentence.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -138,7 +144,7 @@ Su questo screditamento, che non è esclusivo dell'Italia, si è parlato molto, 
 
 Io credo, al contrario, che si tratti del sintomo più grave in tutta la vita pubblica contemporanea. Procede da modificazioni radicali nelle idee e nei sentimenti dell'europeo, ed esso sarà l'agente segreto di tutto il lungo processo in cui ora entrano le nazioni continentali, chi sa se anche l'Inghilterra.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 De todos modos, no se aclara suficientemente un movimiento político de alto bordo mientras no se encuentra un hecho lo bastante radical y subterráneo para que puedan derivarse de él a un tiempo la fisonomía de ese movimiento y la de sus contrarios. Todos los fenómenos de una época son hermanos uterinos, aunque sean hermanos enemigos. Y es preciso explorar hasta que hallemos su común cuenca maternal.
 
@@ -234,7 +240,7 @@ Di fronte a pari situazione, mi si fa intendere che è egualmente inepto intonar
 
 Una considerazione realista di questa classe è quella che ci scopre sotto l'atteggiamento affermativo del fascismo il suo carattere predominantemente negativo. La sua apparente forza consiste realmente nella debolezza degli altri.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Así se explica que, siendo por completo dueño del presente, tenga el fascismo que vivir al día y a nadie se le ocurra verlo proyectado sobre el futuro. Ni siquiera teóricamente conseguimos imaginar una forma futura y estable de organización política derivándose de él. Es un resultado y no un comienzo, una táctica y no una solución.
 

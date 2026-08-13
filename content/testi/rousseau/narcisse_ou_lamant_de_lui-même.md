@@ -10,8 +10,16 @@ tags:
   - "philosopher/rousseau"
 ---
 
+*Rousseau*
+
 > [!abstract]
 > An early comedy published with a substantial preface in which Rousseau defends himself against the attacks that followed the first Discourse, restating that the sciences and arts, though not intrinsically bad, corrupt the morals of peoples who cultivate them en masse.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Scuole:** [[schools/enlightenment|illuminismo]]
 
 <p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
@@ -42,7 +50,55 @@ Mais c'est trop raisonner d'après des suppositions chimériques. Si l'on m'accu
 
 Je suivrai pour cela, selon ma coutume, la méthode simple et facile qui convient à la vérité. J'établirai de nouveau l'état de la question, j'exposerai de nouveau mon sentiment ; et j'attendrai que sur cet exposé on veuille me montrer en quoi mes actions démentent mes discours. Mes adversaires, de leur côté, n'auront garde de demeurer sans réponse, eux qui possèdent l'art merveilleux de disputer pour et contre sur toutes sortes de sujets. Ils commenceront, selon leur coutume, par établir une autre question à leur fantaisie ; ils me la feront résoudre comme il leur conviendra ; pour m'attaquer plus commodément, ils me feront raisonner, non à ma manière, mais à la leur ; ils détourneront habilement les yeux du lecteur de l’objet essentiel, pour les fixer à droite et à gauche ; ils combattront un fantôme, et prétendront m'avoir vaincu : mais j'aurai fait ce que je dois faire ; et je commence.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
+<span class="qlang-split" data-lang="en"></span>
+
+I wrote this comedy at the age of eighteen[47], and I refrained from presenting it as long as I cared at all about my reputation as a writer. Finally, I felt the courage to publish it, but I would never have the courage to say anything about it. Therefore, what is at issue here is not so much my play as I myself.
+
+Despite my aversion, I must speak of myself; I must either acknowledge the faults attributed to me or defend myself against them. The weapons at my disposal will not be equal, I am well aware of that—for they will attack me with jokes, while I can only defend myself with reasons. But so long as I succeed in convincing my opponents, I care very little whether they are persuaded or not. In striving to earn my own respect, I have learned to do without the respect of others, most of whom, after all, do just as well without mine. However, while it matters little to me what people think of me, it is essential that no one have the right to hold ill opinions of me. And for the truth I have defended, it is crucial that its champion not be unjustly accused of supporting it merely out of caprice or vanity—without truly believing in it.
+
+The stance I took on the issue I was examining a few years ago undoubtedly attracted numerous opponents[48]—opponents who were perhaps more concerned with the interests of men of letters than with the honor of literature itself. I had anticipated this, and I fully expected that their behavior in this matter would prove my case better than any of my speeches could have done. Indeed, they did not conceal their surprise and disappointment at how an academy could have acted so indecently in such a matter. They spared neither indecent insults nor even false accusations[49] in their attempts to undermine the weight of its judgment. Nor was I forgotten in their outbursts; several people went so far as to publicly refute my views—and the wise could see with what vigor they did so, while the public witnessed their success at doing so.
+
+Others, being more cunning and aware of the danger of directly confronting established truths, skillfully diverted attention away from my arguments and directed it toward myself; as a result, the examination of the accusations they leveled against me overshadowed the far more serious charges I had myself brought against them. It is therefore to these people that I must respond once and for all. They claim that I do not truly believe in the truths I have defended, and that by proving a particular proposition, I did not in fact imply its opposite; in other words, they say I have proven things so absurd that it seems impossible I could have seriously held them. What an honor they bestow upon science—that foundation upon which all other knowledge is built! And one must indeed acknowledge that the art of reasoning can be extremely useful in uncovering the truth, when seen at work successfully in proving something as ridiculous as this.
+
+They claim that I do not believe a single word of the truths I have asserted; surely this is for them a novel and convenient way to respond to arguments that have no answer, to refute even Euclid’s demonstrations—and everything that has been proven in the universe. In my opinion, those who so audaciously accuse me of speaking against my own thoughts show no great scruples about speaking against their own: for surely they have not found anything in my writings or behavior that could have inspired such an idea in them, as I will soon prove; and it is certainly not permissible for them to ignore the fact that whenever a man speaks seriously, one must assume that he believes what he says—unless his actions or words prove otherwise; yet even this is not always sufficient to determine whether he truly believes it.
+
+They may therefore cry out as much as they please, but by declaring myself against science, I have in fact spoken against my own feelings. In response to such a presumptuous assertion, which is also devoid of proof and likelihood, I know only one reply; it is short and emphatic, and I ask them to accept it as true.
+
+They still claim that my actions are in contradiction with my principles, and there is no doubt that they use this second argument to establish the first one; for there are many people who know how to find evidence for things that do not exist. They will say that those who engage in music and poetry lack the proper respect for the fine arts, and that there are countless more worthy pursuits in literature than writing comedies. This accusation must also be addressed.
+
+Firstly, even if one were to admit it in all its rigor, I claim that it would only prove that I behave improperly, but not that I do not speak out of good faith. If it were permissible to derive people’s actions as evidence of their true feelings, then it would have to be concluded that the love of justice is utterly absent from everyone’s heart—and that there isn’t a single Christian on earth. Show me men who always act in accordance with their own principles, and I will immediately condemn my own principles. Such is the fate of humanity: reason points us toward our goals, but passions drive us away from them. Even if it were true that I do not act according to my principles, there would still be no grounds for accusing me of speaking against my own feelings, nor for condemning those principles as false.
+
+But if I were to wish to justify my position on this point, it would suffice for me to compare the times in order to reconcile things. I have not always been so fortunate as to think in the way I do now. For a long time, influenced by the prejudices of my century, I regarded scholarship as the only occupation worthy of a sage; I looked upon the sciences with respect and upon scholars with admiration[50]. I did not understand that one could err in constantly proving things, nor that one could do wrong in always speaking of wisdom. It was only after observing things up close that I learned to appreciate them for what they truly are. And although in my researches I always found more eloquence than wisdom, it took me much reflection, observation, and time to destroy within myself the illusion created by all this vain scientific pretense. It is not surprising that, during those times filled with prejudice and error when I held such high regard for the status of an author, I sometimes aspired to attain it myself. It was then that I composed the poems and most of the other writings that came from my pen, including this little comedy. Perhaps it would be harsh to reproach me today for these past amusements of my youth; and it would be wrong to accuse me of contradicting principles that were not yet mine at the time. Long ago, I ceased to attach any pretense to such things; and to dare present them to the public now, after having so carefully kept them hidden for so long, is enough to show that I despise both the praise and criticism they might deserve—for I no longer think in the way of the author who created them. They are like illegitimate children whom one still fondly caresses, though ashamed to admit paternity; ones to whom one bids a final farewell and sends off to seek their own fortunes, without giving much thought to what will become of them.
+
+But to reason in this manner is based on fanciful assumptions. If I am accused without cause of cultivating letters—which I despise—then I need not defend myself at all; for even if the accusation were true, there would be no inconsistency in it: and that is precisely what remains to be proven.
+
+In following this approach, I will, as is my custom, adopt a simple and straightforward method suited to the nature of truth. I will once again establish the facts of the matter and express my views; then I will await to see whether anyone will point out in what way my actions contradict my words. On their part, my opponents will surely not remain without a response—especially since they possess the remarkable ability to debate on all sorts of subjects. They will, as is their usual practice, begin by fabricating some other issue of their own devising; they will demand that I address it in their manner; and in order to attack me more effectively, they will try to make me reason not in my way but in theirs. They will skillfully distract the reader’s attention from the essential issues, leading them astray; they will fight against a phantom and claim to have defeated me—but I will have done exactly what was required of me. And now, I begin.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho scritto questa commedia all’età di diciotto anni[47], e mi sono astenuto dal mostrarla finché ho tenuto in considerazione la mia reputazione di autore. Alla fine ho trovato il coraggio di pubblicarla, ma non avrò mai il coraggio di dire nulla al riguardo. Quindi, qui non si tratta della mia commedia, ma di me stesso.
+
+Devo, nonostante la mia ripugnanza, parlare di me stesso; devo ammettere gli errori che mi vengono attribuiti o difendermi da essi. Le armi con cui combatterò non saranno uguali: loro useranno battute e scherzi, mentre io mi difenderò soltanto con argomentazioni razionali. Ma purché riesca a convincere i miei avversari, non mi interessa affatto persuaderli ulteriormente; lavorando per meritare la mia stessa stima, ho imparato a fare a meno di quella degli altri, che, nella maggior parte dei casi, fanno benissimo a fare a meno della mia. Tuttavia, se non mi importa molto ciò che gli altri pensano di me, è fondamentale che nessuno abbia il diritto di pensar male di me; inoltre, per la verità che ho difeso, è essenziale che il suo difensore non venga accusato ingiustamente di averle prestato il proprio sostegno soltanto per capriccio o vanità. Senza amarla e senza conoscerla.
+
+Le posizioni che ho assunto riguardo alla questione che stavo esaminando alcuni anni fa non hanno mancato di suscitare in me una moltitudine di avversari[48], forse più attenti agli interessi degli uomini di lettere che all’onore della letteratura stessa. Me l’aspettavo, e sapevo bene che il loro comportamento in quell’occasione avrebbe dimostrato a mio favore più di tutti i miei discorsi. Infatti, non hanno nascosto né la loro sorpresa né il loro rammarico per il fatto che un’accademia si fosse comportata in modo così inappropriato. Non hanno risparmiato né invettive indiscrete né menzogne[49] nel tentativo di indebolire l’autorità della sua valutazione. Nemmeno io sono stato dimenticato nelle loro dichiarazioni: molti si sono impegnati a confutarmi apertamente; i saggi hanno potuto constatare con quanta forza, e il pubblico con quale successo, lo abbiano fatto.
+
+Altri, più abili e consapevoli del pericolo di contraddire direttamente verità dimostrate, hanno abilmente deviato l’attenzione su di me, quando invece essa avrebbe dovuto essere rivolta alle mie argomentazioni; inoltre, l’esame delle accuse che mi hanno mosso ha fatto dimenticare quelle ben più gravi che io stesso avevo loro rivolto. È quindi a questi ultimi che bisogna rispondere una volta per tutte. Sostengono che non creda affatto alle verità che ho difeso, e che, dimostrando un’affermazione, non abbia lasciato spazio al contrario; in altre parole, affermano che abbia provato cose così assurde da poter essere considerate frutto soltanto di scherzo. Che bel complimento rivolgono così alla scienza, che costituisce la base di tutte le altre conoscenze. E si deve credere che l’arte del ragionamento sia davvero utile nella scoperta della verità, quando si vede come venga utilizzata con successo anche per dimostrare assurdità.
+
+Affermano che io non dica nemmeno una parola delle verità che ho sostenuto: probabilmente questo rappresenta per loro un modo nuovo e comodo per rispondere ad argomenti privi di risposta, per confutare persino le dimostrazioni di Euclide e tutto ciò che è stato dimostrato nell’universo. A mio parere, coloro che mi accusano così audacemente di parlare contro i miei pensieri non si preoccupano affatto di contraddire i propri: infatti, sicuramente non hanno trovato nei miei scritti o nel mio comportamento nulla che potesse ispirarli a questa idea, come dimostrerò presto; inoltre, non possono ignorare che, quando un uomo parla seriamente, si deve presumere che creda in ciò che dice, a meno che le sue azioni o i suoi discorsi non lo contraddicano; anche questo, tuttavia, non è sempre sufficiente per essere certi che egli non ci creda affatto.
+
+Quindi possono gridare quanto vogliono, ma dichiarando che mi sono opposto alle scienze ho parlato contro i miei sentimenti: di fronte a un’affermazione così temeraria, priva sia di prove che di plausibilità, so rispondere solo in un modo; è breve ed energico, e li prego di considerarlo come tale.
+
+Sostengono ancora che il mio comportamento sia in contraddizione con i miei principi, e non c’è dubbio che utilizzino questo secondo argomento per confermare il primo; infatti, ci sono molte persone capaci di trovare prove anche per ciò che non esiste. Diranno quindi che dedicarsi alla musica e alla poesia significhi mancare di rispetto per le belle arti, e che nelle lettere, che io affermo disprezzare, ci siano mille occupazioni molto più meritevoli che scrivere commedie. Anche a questa accusa bisogna rispondere.
+
+In primo luogo, anche ammettendola nella sua intera rigore, direi che essa dimostrerebbe soltanto che mi comporto male, ma non che non parli a buona fede. Se fosse possibile trarre dalle azioni delle persone la prova dei loro sentimenti, si dovrebbe concludere che l’amore per la giustizia è bandito da tutti i cuori, e che non esista nemmeno un solo cristiano al mondo. Mostratemi degli uomini che agiscano sempre in modo coerente con le proprie massime, e io rinuncerò alle mie. Questo è il destino dell’umanità: la ragione ci indica la direzione da seguire, ma le passioni ci allontanano da essa. Anche se fosse vero che non agisco secondo i miei principi, non ci sarebbe motivo di accusarmi soltanto per questo di parlare contro i miei sentimenti, né di definire i miei principi falsi.
+
+Ma se volessi giudicare severamente in questo senso, mi basterebbe confrontare i tempi per far quadrare le cose. Non ho sempre avuto la fortuna di pensare come faccio ora. A lungo sedotto dai pregiudizi del mio secolo, consideravo lo studio l’unica occupazione degna di un saggio; guardavo alle scienze con rispetto e ai saggi con ammirazione[50]. Non capivo che si potesse errare nel dimostrare sempre, né commettere errori nel parlare sempre di saggezza. Solo dopo aver osservato le cose da vicino ho imparato a valutarle per quello che realmente sono; e sebbene nelle mie ricerche abbia sempre trovato più eloquenza che sapienza, mi sono servito di molte riflessioni, osservazioni e tempo per distruggere in me l’illusione di tutta questa vana pompa scientifica. Non sorprende quindi che, in quei tempi di pregiudizi ed errori in cui stimavo molto la qualità di “autore”, a volte aspirassi anch’io ad ottenerla. Fu allora che composi i versi e la maggior parte degli altri scritti che sono usciti dalla mia penna, compresa questa piccola commedia. Forse sarebbe crudele rimproverarmi oggi per questi divertimenti della mia giovinezza; e sarebbe sbagliato accusarmi di aver contraddetto principi che all’epoca non erano ancora i miei. Da molto tempo non attribuisco più a queste cose alcuna importanza; e rischiare di presentarle al pubblico in queste circostanze, dopo aver avuto la prudenza di tenerle nascoste per tanto tempo, significa chiaramente che disprezzo sia l’elogio che il biasimo che potrebbero ricevere, perché non penso più come l’autore di cui sono l’opera. Sono come dei figli illegittimi: ancora coccolati con piacere, ma di cui ci si vergogna di essere i genitori; a cui si dice addio per l’ultima volta e che vengono mandati a cercare fortuna, senza preoccuparsi troppo di ciò che diventeranno.
+
+Ma è troppo ragionare basandosi su supposizioni chimere. Se mi si accusa senza motivo di coltivare le lettere, che disprezzo, mi difendo senza alcuna necessità; perché, anche se ciò fosse vero, non ci sarebbe alcuna inconsequenza in questo: è proprio questo che devo ancora dimostrare.
+
+Per farlo, seguirò, come al solito, il metodo semplice ed efficace che si addice alla verità. Stabilirò nuovamente la natura della questione, esporrò di nuovo le mie opinioni; e aspetterò che, sulla base di queste esposizioni, qualcuno mi mostri in cosa le mie azioni smentiscano le mie parole. I miei avversari, dal canto loro, non mancheranno certo di rispondere, essendo loro capaci dell’arte meravigliosa di discutere a favore o contro su ogni sorta di argomento. Cominceranno, come al solito, stabilendo un’altra questione a piacimento; mi faranno risolverla nel modo che più conviene a loro; per attaccarmi più agevolmente, mi faranno ragionare non secondo il mio metodo, ma secondo il loro; distoglieranno abilmente l’attenzione del lettore dall’argomento essenziale, guidandola in direzioni diverse; combatteranno contro un fantasma, e pretenderanno di avermi sconfitto. Ma io avrò fatto ciò che dovevo fare. E ora comincio.
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="assi/meaning_of_history,positions/decadence,schools/enlightenment"></span>
 
 « La science n'est bonne à rien, et ne fait jamais que du mal, car elle est mauvaise par sa nature. Elle n'est pas moins inséparable du vice que l'ignorance de la vertu. Tous les peuples lettrés ont toujours été corrompus, tous les peuples ignorants ont été vertueux : en un mot, il n'y a de vices que parmi les savants, ni d'homme vertueux que celui qui ne sait rien. Il y a donc un moyen pour nous de redevenir honnêtes gens ; c'est de nous hâter de proscrire la science et les savants, de brûler nos bibliothèques, fermer nos académies, nos collèges, nos universités, et de nous replonger dans toute la barbarie des premiers siècles. »
 
@@ -74,7 +130,71 @@ Le goût de la philosophie relâche tous les liens d'estime et de bienveillance 
 
 En même temps que la culture des sciences retire en quelque sorte de la presse le cœur du philosophe, elle y engage en un autre sens celui de l'homme de lettres, et toujours avec un égal préjudice pour la vertu. Tout homme qui s'occupe des talents agréables veut plaire, être admiré, et il veut être admiré plus qu'un autre ; les applaudissements publics appartiennent à lui seul : je dirais qu'il fait tout pour les obtenir, s'il ne faisait encore plus pour en priver ses concurrents. De là naissent, d'un côté, les raffinements du goût et de la politesse, vile et basse flatterie, soins séducteurs, insidieux, puérils, qui, à la longue, rapetissent l'âme et corrompent le cœur ; et, de l'autre, les jalousies, les rivalités, les haines d'artistes si renommées, la perfide calomnie, la fourberie, la trahison, et tout ce que le vice a de plus lâche et de plus odieux. Si le philosophe méprise les hommes, l'artiste s'en fait bientôt mépriser, et tous deux concourent enfin à les rendre méprisables.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
+<span class="qlang-split" data-lang="en"></span>
+
+“Science is good for nothing and only brings harm; it is inherently evil. It is just as inseparable from vice as ignorance is from virtue. All educated peoples have always been corrupt; all ignorant peoples have always been virtuous. In short, vices exist only among the learned, and there are no virtuous people except those who know nothing. Therefore, there is a way for us to become honest people again: we must quickly ban science and scholars, burn our libraries, close our academies, colleges, and universities, and return to the barbarity of the early centuries.”
+
+This is precisely what my opponents have refuted quite effectively: I have never said or thought a single word of all this, and one could not imagine anything more contrary to my system than this absurd doctrine that they have the kindness to attribute to me. But here are the words I actually spoke, and which have not been refuted.
+
+The question was whether the revival of science and the arts had helped to purify our morals.
+
+By showing, as I did, that our morals had not been purified[51], the issue was more or less resolved.
+
+But it implicitly contained another, more general and more important idea: namely, the influence that the culture of science must have, at all times, on the morals of peoples. It was this latter idea that I intended to examine carefully, since the former was merely a consequence of it.
+
+I began with the facts and showed that as the taste for study and literature spread among all peoples of the world, their morals had degenerated.
+
+That was not enough; for, although one could not deny that these things always occurred together, it was still possible to deny that one of them necessarily led to the other. Therefore, I set out to demonstrate this necessary connection. I showed that the source of our errors on this matter lies in our confusion of our vain and deceptive knowledge with the supreme intelligence that can perceive the truth of all things at a glance. Science, when considered in an abstract manner, deserves all our admiration; but the foolish science of mankind is worthy only of ridicule and contempt.
+
+The taste for letters always indicates in a people the beginning of a process of corruption that is rapidly accelerated. For such a taste can arise within an entire nation only from two harmful sources, which study itself feeds and exacerbates: knowledge and idleness, along with the desire to distinguish oneself above others. In a well-ordered society, every citizen has their duties to fulfill; these important responsibilities are too precious for them to allow themselves the leisure to engage in frivolous pursuits. In such a society, all citizens are so equally positioned that none can be preferred to others on the grounds of being more knowledgeable or more skilled—at most, on the basis of being better. Yet even this last distinction is often dangerous, for it gives rise to tricksters and hypocrites.
+
+The taste for letters, which arises from the desire to distinguish oneself, necessarily gives rise to evils that are infinitely more dangerous than any good that such pursuits may bring; ultimately, it leads those who indulge in them to become utterly devoid of scruples regarding the means necessary to achieve their goals. The earliest philosophers gained great renown by teaching people how to fulfill their duties and understanding the principles of virtue. But soon, as these teachings became commonplace, it became necessary to distinguish oneself by pursuing opposing paths. Such was the origin of the absurd systems propounded by Leucippus, Diogenes, Pyrrhon, Protagoras, and Lucretius. Hobbes, Mandeville, and countless others have similarly sought to distinguish themselves among us; their dangerous doctrines have flourished so greatly that, despite the existence of true philosophers who are still eager to remind us of the laws of humanity and virtue, we are horrified by the extent to which our rationalist era has encouraged disregard for the duties of man and citizen.
+
+The taste for letters, philosophy, and the fine arts destroys our love for our primary duties and true glory. Once talents usurp the honors that should belong to virtue, everyone seeks to be an agreeable person, and no one cares to be a good person. From this arises yet another inconsistency: in society, people are rewarded only for qualities that do not depend on them; after all, our talents are innate, while only our virtues truly belong to us.
+
+The very first and almost the only attention paid to our education consists of the fruits and seeds of these ridiculous prejudices. It is for the sake of teaching us literature that our miserable youth is tormented: we learn all the rules of grammar before we are even told about the duties of a human being; we know everything that has happened in the past before we hear a single word about what we ought to do now; and so long as we keep babbling on, no one cares whether we know how to act or think. In short, it is only required that we be knowledgeable in matters that are of no practical use to us at all; and our children are precisely raised in the same way as the ancient athletes in public games—whose strong bodies were trained for useless and excessive exercise, yet were never put to any useful work.
+
+The pursuit of letters, philosophy, and the arts softens both body and soul. Sedentary work makes men delicate and weakens their temperament; and it is difficult for the soul to retain its vigor when the body has lost its strength. Study exhausts the body, wears out the mind, destroys physical strength, and undermines courage—these facts alone are sufficient to prove that study is not meant for us. In this way, one becomes weak and cowardly, unable to endure either hardship or passion with equal resolve. Everyone knows how poorly city dwellers are suited for military service, and it is well known what reputation men of letters have in terms of bravery[52]. Yet nothing is more suspect than the honor of a coward.
+
+So many reflections on the weakness of our nature often serve merely to deter us from undertaking generous actions. By dwelling too much on the miseries of humanity, our imagination burdens us with their weight, and excessive caution robs us of courage by stripping us of security. In vain do we attempt to prepare ourselves for unforeseen accidents; “For if science, in its efforts to equip us with new defenses against natural inconveniences, has only served to impress upon our imagination the magnitude and severity of these dangers, it has failed to provide us with any real reasons or effective means to protect ourselves[53].”
+
+The taste for philosophy loosens all the bonds of esteem and goodwill that bind men to society, and perhaps this is the most dangerous evil it engenders. The allure of intellectual pursuit soon renders all other forms of attachment insipid. Moreover, by constantly reflecting on humanity and observing people, the philosopher learns to appreciate them according to their true worth; and it is difficult to feel deep affection for what one despises. Soon, he brings upon himself all the interests that virtuous men share with their fellow beings: his contempt for others ultimately serves to fuel his pride; his [self-love](/concepts/amour_propre) grows in direct proportion to his indifference toward the rest of the world. Family and country become empty terms for him—he is neither related nor a citizen, nor even a human being; he is merely a philosopher.
+
+At the same time as the cultivation of the sciences in some way removes the “heart of philosophy” from the press, it introduces there, in another sense, the “heart of the literati”—and once again, this has an equally detrimental effect on virtue. Any person who cultivates what is pleasing to others desires to please and be admired, and they desire to be admired more than others; public acclaim belongs solely to them. One might say that they do everything possible to obtain it—except perhaps even more to deprive their competitors of it. From this arise, on one hand, the refinements of taste and manners: vile and base flattery, seductive and insidious attentions, and other childish tactics that, in the long run, shrink the soul and corrupt the heart; and on the other hand, jealousy, rivalry, and the hatreds inherent among such renowned artists, as well as perfidious slander, deceit, betrayal, and all that vice has of most despicable and abhorrent. If the philosopher despises men, the artist soon makes them despised as well—and together, they work to render men utterly contemptible.
+
+<span class="qlang-split" data-lang="it"></span>
+
+“La scienza non è utile a nulla e non fa altro che del male, poiché per sua natura è malvagia. Non è meno inseparabile dal vizio di quanto l’ignoranza lo sia dalla virtù. Tutti i popoli colti sono sempre stati corrotti; tutti i popoli ignoranti sono stati virtuosi: in altre parole, i vizi esistono soltanto tra gli studiosi, e non esiste uomo virtuoso se non colui che non sa nulla. Esiste quindi un modo per tornare ad essere persone oneste: è quello di proibire immediatamente la scienza e gli studiosi, bruciare le nostre biblioteche, chiudere le nostre accademie, i nostri collegi, le nostre università, e ritornare alla barbarie dei primi secoli.”
+
+Ecco ciò che i miei avversari hanno confutato molto bene: pertanto non ho mai detto né pensato una sola parola al riguardo, e non si potrebbe immaginare nulla di più contrario al mio sistema di questa assurda dottrina che hanno la gentilezza di attribuirmi. Ma ecco ciò che ho effettivamente detto, e che non è stato confutato.
+
+Si trattava di capire se il ripristino delle scienze e delle arti avesse contribuito a purificare i nostri costumi.
+
+Dimostrando, come ho fatto, che i nostri costumi non si sono affatto purificati[51], la questione era praticamente risolta.
+
+Ma essa conteneva implicitamente un’altra considerazione ancora più generale e importante: riguardo all’influenza che la cultura scientifica deve esercitare, in ogni occasione, sulle abitudini dei popoli. È proprio questa seconda considerazione, di cui la prima non è che una conseguenza, che ho intenzione di esaminare con attenzione.
+
+Iniziai dai fatti e dimostrai che i costumi di tutti i popoli del mondo si sono degenerati man mano che il gusto per lo studio e la letteratura si è diffuso tra di loro.
+
+Non era sufficiente; poiché, sebbene non si potesse negare che queste cose fossero sempre andate di pari passo, si poteva negare che una di esse avesse causato l’altra: pertanto mi dedicai a dimostrare questa necessaria connessione. Dimostrai che la fonte dei nostri errori in questo campo deriva dal fatto che confondiamo le nostre conoscenze vane e ingannevoli con l’intelligenza suprema che, con un solo sguardo, comprende la verità di tutte le cose. La scienza, considerata in modo astratto, merita tutta la nostra ammirazione; mentre la sciocca scienza umana è degna soltanto di risa e disprezzo.
+
+Il gusto per le lettere annuncia sempre, in un popolo, l’inizio di una corruzione che viene rapidamente accelerata. Infatti, tale gusto può nascere in una nazione intera soltanto da due fonti negative: lo studio stesso, che lo alimenta e lo amplia ulteriormente; e l’ozio, nonché il desiderio di distinguersi dagli altri. In uno stato ben organizzato, ogni cittadino ha i propri doveri da compiere; e questi impegni importanti sono troppo preziosi per permettergli di dedicarsi a speculazioni frivole. In uno stato ben organizzato, tutti i cittadini sono così uguali che nessuno può essere preferito agli altri in base alla propria erudizione o abilità, ma al massimo in base alle proprie qualità morali; tuttavia anche questa distinzione è spesso pericolosa, poiché può generare individui astuti e ipocriti.
+
+Il gusto per le lettere, che nasce dal desiderio di distinguersi, produce inevitabilmente mali infinitamente più pericolosi di tutto il bene che esse possano apportare; in definitiva, spinge coloro che vi si dedicano a diventare molto poco scrupolosi nei mezzi per raggiungere i propri scopi. I primi filosofi si guadagnarono una grande reputazione insegnando agli uomini la pratica dei loro doveri e i principi della virtù. Ma ben presto, poiché questi precetti divennero comuni, fu necessario distinguersi attraverso idee contrarie. Ecco l’origine dei sistemi assurdi di Leucippo, Diogene, Pirrone, Protagora, Lucrizio. Hobbes, Mandeville e mille altri hanno cercato allo stesso modo di distinguersi tra di noi; e la loro pericolosa dottrina ha avuto tali conseguenze che, nonostante ci siano ancora veri filosofi desiderosi di ricordare nei nostri cuori le leggi dell’umanità e della virtù, siamo spaventati nel vedere fino a che punto il nostro secolo razionale abbia portato alle estreme le idee di disprezzo per i doveri dell’uomo e del cittadino.
+
+Il gusto per la letteratura, la filosofia e le belle arti distrugge l’amore per i nostri primi doveri e per la vera gloria. Quando i talenti prendono il posto degli onori dovuti alla virtù, tutti desiderano essere persone piacevoli, e nessuno si preoccupa di essere una persona buona. Da ciò deriva un’altra conseguenza assurda: nelle persone vengono ricompensate soltanto quelle qualità che non dipendono da loro; infatti i nostri talenti nascono con noi, mentre solo le nostre virtù ci appartengono veramente.
+
+I primi e quasi unici sforzi compiuti per la nostra educazione sono frutto di questi ridicoli pregiudizi. È proprio per insegnarci le lettere che si tormenta la nostra misera giovinezza: conosciamo tutte le regole della grammatica prima ancora di aver sentito parlare dei doveri dell’uomo; sappiamo tutto ciò che è accaduto fino ad oggi senza che nessuno ci abbia mai detto cosa dovremmo fare. E, purché continuiamo a “balbettare”, a nessuno importa se sappiamo agire o pensare. In altre parole, si considera giusto essere eruditi soltanto in cose che non possono esserci di alcuna utilità; i nostri bambini vengono educati proprio come gli antichi atleti dei giochi pubblici: i loro corpi robusti venivano addestrati a esercizi inutili e superflui, senza mai essere messi al servizio di un lavoro realmente utile.
+
+Il gusto per le lettere, la filosofia e le belle arti ammorbidisce i corpi e le anime. Il lavoro sedentario rende gli uomini delicati, indebolisce il loro temperamento; e l’anima fatica a mantenere la sua forza quando il corpo ha perso la propria. Lo studio logora il fisico, esaurisce lo spirito, distrugge la forza e indebolisce il coraggio; ed è proprio questo che dimostra chiaramente come esso non sia fatto per noi: in questo modo si diventa deboli e pusillanimi, incapaci di resistere sia al dolore che alle passioni. Ognuno sa quanto gli abitanti delle città siano poco adatti a sopportare le fatiche della guerra, e non si ignora quale sia la reputazione delle persone di lettere in termini di coraggio[52]. Eppure nulla è più sospetto dell’onore di un codardo.
+
+Tante riflessioni sulla debolezza della nostra natura finiscono spesso per allontanarci da imprese generose. Meditando troppo sulle miserie dell’umanità, la nostra immaginazione ci sovraccarica del loro peso, e una previdenza eccessiva ci priva del coraggio, togliendoci anche la sicurezza. È inutile cercare di prepararci agli imprevisti: “Se la scienza, nel tentativo di fornirci nuove difese contro gli inconvenienti naturali, non fa che rafforzare nella nostra fantasia l’immagine della loro gravità e del loro peso, piuttosto che offrirci ragioni valide e soluzioni efficaci per affrontarli[53].”
+
+Il gusto per la filosofia scioglie tutti i legami di stima e benevolenza che uniscono gli uomini alla società, ed è forse il male più pericoloso che essa genera. Il fascino dello studio rende presto insipido qualsiasi altro legame umano. Inoltre, riflettendo costantemente sull’umanità e osservando gli uomini, il filosofo impara ad apprezzarli in base al loro valore; ed è difficile provare vera affetto per ciò che si disprezza. Presto, nella sua persona, si riunisce tutto l’interesse che gli uomini virtuosi condividono tra loro: il suo disprezzo per gli altri finisce per alimentare il suo orgoglio; il suo [amor proprio](/concepts/amour_propre) cresce proporzionalmente alla sua indifferenza verso il resto dell’universo. Famiglia e patria diventano per lui parole prive di significato: non è né parente, né cittadino, né uomo. È soltanto un filosofo.
+
+Nello stesso momento in cui la cultura delle scienze, in qualche modo, toglie alla stampa il ruolo centrale che un tempo aveva per il filosofo, essa ne attribuisce uno analogo allo scrittore, con lo stesso danno per la virtù. Chiunque si dedichi alle arti del piacere desidera piacere, essere ammirato, e vuole essere ammirato più di chiunque altro; gli applausi del pubblico appartengono esclusivamente a lui: direi che fa di tutto per ottenerli, se non facesse anche di più per privarne i suoi concorrenti. Da questo derivano, da un lato, le raffinatezze del gusto e della cortesia, forme vili e meschine di adulazione, attenzioni seducenti, insidiose e infantili che, col tempo, restringono l’anima e corrompono il cuore; dall’altro lato, gelosie, rivalità, odii tra artisti di fama, calunnie perfide, inganni, tradimenti, e tutto ciò che il vizio ha di più spregevole e odioso. Se il filosofo disprezza gli uomini, l’artista finisce presto per essere disprezzato a sua volta; entrambi, in definitiva, contribuiscono a renderli degni di disprezzo.
+
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="assi/meaning_of_history,positions/decadence,schools/enlightenment"></span>
 
 Il y a plus, et de toutes les vérités que j'ai proposées à la considération des sages, voici la plus étonnante et la plus cruelle. Nos écrivains regardent tous comme le chef-d'œuvre de la politique de notre siècle les sciences, les arts, le luxe, le commerce, les lois, et les autres liens qui, resserrant entre les hommes les nœuds de la société[54] par l'intérêt personnel, les mettent tous dans une dépendance mutuelle, leur donnent des besoins réciproques et des intérêts communs, et obligent chacun d'eux de concourir au bonheur des autres pour pouvoir faire le sien. Ces idées sont belles, sans doute, et présentées sous un jour favorable ; mais, en les examinant arec attention et sans partialité on trouve beaucoup à rabattre des avantages qu'elles semblent présenter d'abord.
 
@@ -98,7 +218,55 @@ Mon avis est donc, et je l'ai déjà dit plus d'une fois, de laisser subsister e
 
 Je demande maintenant où est la contradiction de cultiver moi-même des goûts dont j'approuve le progrès. Il ne s'agit plus de porter les peuples à bien faire, il faut seulement les distraire de faire le mal ; il faut les occuper à des niaiseries pour les détourner des mauvaises actions ; il faut les amuser au lieu de les prêcher. Si mes écrits ont édifié le petit nombre des bons, je leur ai fait tout le bien qui dépendait de moi ; et c'est peut-être les servir utilement encore que d'offrir aux autres des objets de distraction qui les empêchent de songer à eux. Je m'estimerais trop heureux d'avoir tous les jours une pièce à faire siffler, si je pouvais à ce prix contenir pendant deux heures les mauvais desseins d'un seul des spectateurs, et sauver l'honneur de la fille ou de la femme de son ami, le secret de son confident, ou la fortune de son créancier. Lorsqu'il n'y a plus de mœurs, il ne faut songer qu'à la police ; et l'on sait assez que la musique et les spectacles en sont un des plus importants objets.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
+<span class="qlang-split" data-lang="en"></span>
+
+There is more to it. Of all the truths I have presented for the consideration of the wise, this one is the most astonishing and the most cruel. Our writers regard science, the arts, luxury, commerce, laws, and all those other institutions that, by binding men together through personal interests, create mutual dependence, give rise to reciprocal needs and common interests, and compel each individual to strive for the happiness of others in order to achieve his own, as the masterpieces of politics in our century. These ideas are undoubtedly beautiful and presented in a favorable light; but upon closer and impartial examination, one finds much to question about the advantages they seemingly possess at first glance.
+
+It is indeed a most wonderful thing that men have been rendered incapable of living together without warning each other, competing with one another, deceiving one another, betraying one another, and destroying one another! We must now always take care not to let others see us as we really are; for for two people whose interests coincide, perhaps a hundred thousand others have opposing interests, and there is no other way to succeed but to deceive or defeat all those people. This is the source of all violence, betrayal, perfidy, and all the horrors that inevitably arise from a system in which everyone, while pretending to work for the fortune or reputation of others, actually seeks only to elevate their own position at their expense.
+
+What have we gained from this? Much empty talk, as well as wealthy and rational people—that is to say, enemies of virtue and common sense. In contrast, we have lost innocence and good morals. The masses grovel in misery; everyone has become a slave to vice. Crimes that have not yet been committed already exist in people’s hearts, and all that is needed for them to be carried out is the assurance of impunity.
+
+What a strange and terrible constitution it is—where accumulated wealth always makes it easier to acquire even more; where those who have nothing at all are unable to gain anything; where good people have no means of escaping poverty; where the most dishonest are the most honored; and where one must inevitably abandon virtue in order to be considered an honest person! I know that orators have said all this a hundred times before; but they said it while delivering speeches, whereas I say it based on reason. They saw the evil; I reveal its causes. And what is particularly comforting and useful in my view is that all these vices do not truly belong to man, but rather to a man who is poorly governed[55].
+
+These are the truths that I have developed and sought to prove in the various writings I have published on this subject. Now, here are the conclusions I have drawn from them.
+
+Science is not intended for mankind in general. Man constantly strays in his pursuit of it; and when he occasionally succeeds in obtaining it, it is almost always at his own expense. He was born to act and think, not to indulge in reflection. Reflection only brings him unhappiness—without making him better or wiser. It makes him regret past blessings and prevents him from enjoying the present. It presents a happy future to tempt him with imagination and torment him with desires, as well as a miserable future to make him aware of in advance. Study corrupts his morals, harms his health, destroys his temperament, and often undermines his reason. Even if it taught him something, I would still consider the gain far from sufficient to compensate for the losses it brings.
+
+I admit that there are a few supreme geniuses who know how to penetrate through the veils that envelop truth; some privileged souls capable of resisting the stupidity of vanity, the baselessness of jealousy, and all those other passions born of a passion for literature. The small number of people who possess these qualities constitute the glory and honor of human genius. It is only they who, for the good of all, should devote themselves to study. And yet this very exception confirms the rule: for if everyone were a [Socrates](/figures/socrates), knowledge would not be harmful to them; on the contrary, they would have no need for it at all.
+
+Any people who possess certain customs and therefore respect their own laws, and who are unwilling to alter their traditional practices, must take great care to protect themselves against the influence of science—and especially of scholars. The prescriptive and dogmatic teachings of such scholars could quickly lead them to despise their own customs and laws; something that a nation can never afford to do without ruining itself. Even the slightest change in traditions, though beneficial in some respects, always ends up harming moral values. For traditions are the very morality of a people; and once they cease to be respected, a society has no rules other than its passions, and no restraint other than laws—laws that may sometimes restrain the wicked, but can never make them good. Moreover, once philosophy has taught a people to despise their own traditions, it is not long before they discover ways to circumvent those very laws. I therefore say that the customs of a people are just like the honor of an individual: they are treasures that must be preserved, but which cannot be regained once lost[56].
+
+But when a people has once been corrupted to a certain extent, whether through the influence of science or otherwise, should such sciences be banned, or should they be preserved in order to improve that people or to prevent them from becoming even worse? That is another question on which I have taken a negative stance. For firstly, since a corrupt people can never return to virtue, it is not a matter of making those who are no longer virtuous become good, but rather of preserving those who are fortunate enough to still be virtuous. Secondly, the very causes that led to the corruption of certain peoples sometimes serve to prevent even greater degeneration: for instance, someone whose temperament has been damaged by improper use of medicine is forced to rely on doctors again in order to stay alive. Similarly, arts and sciences, after giving rise to vices, are necessary to prevent those vices from turning into crimes; they at least provide a sort of veneer that prevents the poison of evil from being openly expressed. They destroy virtue, but they leave behind its public appearance—which is still a positive thing; they replace it with manners and propriety; and they replace the fear of appearing wicked with the fear of appearing ridiculous.
+
+Therefore, my opinion—and I have said this more than once—is that we should allow the academies, colleges, universities, libraries, performances, and all other forms of entertainment that can provide some [diversion](/arguments/divertissement) from human malice to continue existing, and indeed take care to maintain them. For in a society where there would be no longer any honest people or good morals, it would still be better to live among scoundrels than among brigands.
+
+I now ask where lies the contradiction in cultivating tastes in oneself that one approves of and supports their progress. It is no longer about encouraging people to do good; rather, it is about distracting them from doing evil—occupying them with trivial matters to turn their minds away from harmful actions, amusing them instead of preaching at them. If my writings have helped a few good people, then I have done all the good within my power; and perhaps this very service of providing entertainment that prevents others from thinking of themselves is just as useful. I would consider myself extremely fortunate if, by offering something to amuse people for a couple of hours, I could prevent a single viewer from harboring evil intentions, thereby saving the honor of someone’s friend’s daughter or wife, the secrets of their confidant, or even the fortune of their creditor. When morals no longer exist, one should think only of law and order; and it is well known that music and entertainment are among its most important tools.
+
+<span class="qlang-split" data-lang="it"></span>
+
+C’è di più: tra tutte le verità che ho proposto agli studiosi saggi, questa è senza dubbio la più sorprendente e la più crudele. I nostri scrittori considerano tutti le scienze, le arti, il lusso, il commercio, le leggi e gli altri legami che, stringendo tra gli uomini i vincoli della società attraverso gli interessi personali, li mettono in una dipendenza reciproca, danno loro bisogni comuni e interessi condivisi, e costringono ciascuno di loro a contribuire al benessere degli altri per poter realizzare il proprio, come capolavori della politica del nostro secolo. Queste idee sono certamente belle e presentate in modo favorevole; tuttavia, esaminandole con attenzione e senza pregiudizi, si scoprono molti aspetti negativi che sembrano attenuare i vantaggi che a prima vista esse presentano.
+
+È davvero una cosa meravigliosa aver reso gli uomini impossibilitati a vivere tra loro senza avvertirsi a vicenda, senza soppiantarsi, ingannarsi, tradirsi e distruggersi reciprocamente! Ora dobbiamo fare in modo che nessuno possa mai conoscerci per ciò che siamo veramente: perché per due persone le cui interessi coincidono, forse centomila altri ne sono contrari, e non esiste altro mezzo per avere successo se non ingannare o perdere tutti questi individui. Ecco la fonte funesta di violenze, tradimenti, perfidie e di tutte le orrori che inevitabilmente derivano da uno stato di cose in cui ognuno, fingendo di lavorare al bene della fortuna o della reputazione degli altri, in realtà cerca soltanto di elevare la propria posizione a scapito loro.
+
+Che cosa abbiamo guadagnato con tutto questo? Molta chiacchiera inutile, persone ricche e presuntuose, ovvero nemici della virtù e del buon senso comune. Al contrario, abbiamo perso l’innocenza e le buone maniere. La folla vive nella miseria; tutti sono schiavi del vizio. I crimini che non vengono commessi già esistono nei cuori delle persone, e per essere compiuti manca soltanto la certezza dell’impunità.
+
+Che strana e funesta costituzione: in essa le ricchezze accumulate facilitano sempre la possibilità di accumularne ancora di maggiori; colui che non possiede nulla non ha alcun mezzo per ottenere qualcosa; l’uomo onesto non ha alcuna via d’uscita dalla povertà; i più avari sono quelli che ricevono il massimo onore; e per diventare persone oneste, è necessario rinunciare alla virtù! So che gli oratori hanno detto centinaia di volte queste cose; ma lo facevano solo per esprimere le loro opinioni, mentre io lo dico basandomi su ragionamenti concreti: loro hanno visto il male, io ne scopro le cause; e soprattutto mostro qualcosa di molto consolante e utile, dimostrando che tutti questi vizi non appartengono tanto all’uomo in sé, quanto all’uomo mal governato[55].
+
+Ecco le verità che ho sviluppato e cercato di dimostrare nei vari scritti che ho pubblicato sull’argomento. Ora vi presento le conclusioni a cui sono giunto.
+
+La scienza non è fatta per l’uomo in generale. Questi si perde continuamente nella sua ricerca; e se talvolta la raggiunge, quasi mai lo fa a proprio vantaggio. È nato per agire e pensare, non per riflettere. La riflessione non fa altro che renderlo infelice, senza renderlo migliore o più saggio: gli fa rimpiangere i beni passati e gli impedisce di godere del presente; gli presenta l’avvenire felice per sedurlo con l’immaginazione e tormentarlo con i desideri, e l’avvenire infelice per farglielo percepire in anticipo. Lo studio corrompe i suoi costumi, altera la sua salute, distrugge il suo temperamento e spesso rovina la sua ragione; anche se gli insegnasse qualcosa, ritengo che non ne trarrebbe alcun reale beneficio.
+
+Ammetto che esistano alcuni geni sublimi in grado di penetrare attraverso le veli con cui la verità è avvolta; alcune anime privilegiate, capaci di resistere alla stupidità della vanità, all’odiosa gelosia e ad altre passioni generate dall’amore per le lettere. Il ristretto numero di coloro che hanno la fortuna di possedere queste qualità rappresenta la luce e l’onore del genio umano; sono soltanto a loro che spetta, per il bene di tutti, dedicarsi allo studio. E proprio questa eccezione conferma la regola: se tutti gli uomini fossero come [Socrate](/figures/socrates), la scienza non li danneggerebbe affatto, ma essi non ne avrebbero alcun bisogno.
+
+Qualsiasi popolo che abbia delle usanze e quindi rispetti le proprie leggi, e non intenda modificare i propri antichi costumi, deve prendere grandissime precauzioni riguardo alle scienze, e soprattutto nei confronti dei saggi; le loro massime sentenziose e dogmatiche potrebbero facilmente indurlo a disprezzare i propri usanzi e le proprie leggi, il che una nazione non può mai permettersi senza correre il rischio di corrompersi. Qualsiasi cambiamento nelle abitudini, anche se in alcuni aspetti vantaggioso, finisce sempre per danneggiare i costumi stessi. Le abitudini, infatti, rappresentano la morale del popolo; e non appena quest’ultimo smette di rispettarle, non gli rimane altra guida se non le proprie passioni, né alcun freno se non le leggi, che a volte possono contenere i malvagi, ma mai renderli buoni. Inoltre, quando la filosofia insegna al popolo a disprezzare le proprie usanze, quest’ultimo finisce presto per trovare il modo di eludere anche le leggi stesse. Dico quindi che i costumi di un popolo sono come l’onore di un uomo: si tratta di un tesoro che bisogna conservare, ma che non può essere più recuperato una volta perso[56].
+
+Ma quando un popolo è una volta corrotto fino a un certo punto, che sia per l’influenza delle scienze o meno, dobbiamo bandirle o preservarle affinché il popolo possa migliorare, oppure per impedire che peggiori ulteriormente? Questa è un’altra domanda sulla quale ho espresso chiaramente una posizione negativa. Perché, in primo luogo, poiché un popolo malvagio non tornerà mai alla virtù, non si tratta di rendere buoni coloro che ormai non lo sono più, ma di preservare integri coloro che hanno la fortuna di esserlo ancora. In secondo luogo, le stesse cause che hanno corrotto i popoli a volte servono anche a prevenire una corruzione ancora maggiore: è così che colui il quale ha rovinato il proprio temperamento attraverso un uso immoderato della medicina è costretto a ricorrere nuovamente ai medici per sopravvivere. E allo stesso modo, le arti e le scienze, dopo aver fatto emergere i vizi, sono necessarie per impedire che questi si trasformino in crimini; offrono almeno una sorta di “velo” che impedisce al veleno di diffondersi liberamente: distruggono la virtù, ma lasciano intatto il suo simulacro pubblico, che è comunque qualcosa di positivo; introducono al suo posto la cortesia e le buone maniere; e sostituiscono la paura di apparire cattivi con la paura di sembrare ridicoli.
+
+Quindi, la mia opinione è – e l’ho già detto più volte – che sia necessario lasciare esistere, anzi curare con attenzione, accademie, collegi, università, biblioteche, spettacoli e tutti gli altri divertimenti che possano offrire un po’ di [divertimento](/arguments/divertissement) alla malvagità umana, impedendo così che le persone impiegino il proprio tempo libero in cose ancora più pericolose. Infatti, in una regione dove non ci fossero più né onestà né buone maniere, sarebbe ancora meglio vivere tra imbroglioni piuttosto che tra banditi.
+
+Ora chiedo: dove risiede la contraddizione nel coltivare personalmente gusti di cui approvo i benefici? Non si tratta più di indurre le persone a compiere il bene, ma semplicemente di distrarle dal fare del male; bisogna occuparle con sciocchezze per allontanarle dalle cattive azioni, divertirle invece di predicare loro. Se i miei scritti hanno giovato a pochi buoni, ho fatto tutto ciò che era in mio potere per loro; e forse questo rappresenta un servizio utile, anche se consiste semplicemente nel fornire agli altri oggetti di distrazione che li impediscono di pensare a sé stessi. Mi considererei estremamente fortunato se, con questo mezzo, riuscissi ogni giorno a impedire per due ore i cattivi propositi di uno spettatore, e così salvare l’onore della figlia o della moglie del mio amico, il segreto del suo confidente o la fortuna del suo creditore. Quando non esistono più valori morali, bisogna pensare soltanto alla polizia; e si sa bene che la musica e gli spettacoli ne sono uno degli strumenti più importanti.
+
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="assi/meaning_of_history,positions/decadence,schools/enlightenment"></span>
 
 S'il reste quelque difficulté à ma justification, j'ose le dire hardiment, ce n'est vis-à-vis ni du public ni de mes adversaires ; c'est vis-à-vis de moi seul : car ce n'est qu'en m'observant moi-même que je puis juger si je dois me compter dans le petit nombre, et si mon âme est en état de soutenir le faix des exercices littéraires. J'en ai senti plus d'une fois le danger ; plus d’une fois je les ai abandonnés, dans le dessein de ne les plus reprendre ; et, renonçant à leur charme séducteur, j'ai sacrifié à la paix de mon cœur les seuls plaisirs qui pouvaient encore le flatter. Si dans les langueurs qui m'accablent, si sur la fin d'une carrière pénible et douloureuse j'ai osé les reprendre encore quelques moments pour charmer mes maux, je crois au moins n'y avoir mis ni assez d'intérêt ni assez de prétention pour mériter à cet égard les justes reproches que j'ai faits aux gens de lettres.
 
@@ -224,7 +392,259 @@ Je me réjouis de voir la contenance de Valère. De quelque manière qu'il prenn
 
 MARTON.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
+<span class="qlang-split" data-lang="en"></span>
+
+If there remains any difficulty in my justification, I dare to say it frankly: it lies not with the public nor with my opponents, but solely with myself. For only by observing myself can I determine whether I belong to that small number of people whose souls are capable of enduring the burdens imposed upon them by literary pursuits. More than once I have sensed the dangers associated with such endeavors; more than once I have abandoned them, resolved never to resume them. By renouncing their seductive allure, I sacrificed to the peace of my mind the only pleasures that could still soothe me. If, in the moments of despondency that assail me, or at the end of a weary and painful career, I have dared to pick up these pursuits once again in an attempt to alleviate my suffering, I believe I did so without either excessive enthusiasm or undue ambition—hence, I do not deserve the harsh reproaches that I have directed toward men of letters.
+
+I needed an ordeal to complete my understanding of myself, and I underwent it without hesitation. After recognizing the state of my soul through my literary successes, I had to examine it in times of failure as well. Now I know how to think about it, and I can even present the worst aspects of it to the public. My play met the fate it deserved—and one that I had anticipated; but apart from the disappointment it caused me, I emerged from its performance much more satisfied with myself, and with far more justification to feel so, than if it had been a success.
+
+Therefore, I advise those who are so eager to find faults with me to study my principles more carefully and observe my behavior more attentively before accusing me of inconsistency or hypocrisy. If they ever notice that I begin to seek the public’s favor, that I take pride in having composed beautiful songs, that I am ashamed of having written poor comedies, that I try to harm the reputation of my competitors, that I deliberately speak ill of the great men of my time in order to seem their equal by belittling them, that I aspire to academic positions, that I court women who hold influence, that I praise the foolishness of the powerful, or that, abandoning the pursuit of a life based on the work of my own hands, I resort to dishonorable means to gain wealth—then, in short, if they observe that my love for reputation makes me forget my love for virtue, I beg them to warn me, even publicly. And I promise them that I will immediately burn all my writings and books and admit any mistakes they may wish to point out.
+
+In the meantime, I will write books, compose poems and music—if I have the talent, the time, the strength, and the will to do so. I will continue to speak very frankly about all the negative things I think of literature and those who pursue it[58], and I believe that this will not make me any less worthy in any way. It is true that one day someone might say: “This declared enemy of science and the arts yet wrote and published plays”; and I must admit that such a statement would be a very bitter satire—not of me, but of my century.
+
+Characters
+
+LISIMON.
+
+Valère, the child of Lisimon.
+
+LUCINDE, daughter of Lisimon.
+
+LÉANDRE, brother of Angélique, pupil of Lisimon.
+
+Angélique, sister of Léandre, ward of Lisimon.
+
+MARTON, next.
+
+FRONTIN, Valère’s footboy.
+
+The scene takes place in Valère’s apartment.
+
+Scene One
+
+Lucinde, Marton.
+
+LUCINDE.
+
+I just saw my brother walking in the garden; let’s hurry and put his portrait on his bedside table before he comes back.
+
+MARTON.
+
+Here it is, madam; its fittings have been altered to the point where it is almost unrecognizable. Even though he is the most handsome man in the world, here he shines as a woman, with new and delightful charms.
+
+LUCINDE.
+
+Through its delicacy and the deliberate embellishment of its attire, Valère is a kind of woman hidden beneath men’s clothes; and this portrait, in such a disguised form, seems less to be a disguise than to reveal her true nature.
+
+MARTON.
+
+Well, where is the harm in that? Since women today are seeking to draw closer to men, isn’t it only right for men to take half the step towards them and strive to improve both in terms of charm and in terms of strength? With fashion, everything will become more easily balanced.
+
+LUCINDE.
+
+I cannot get used to such ridiculous [habits](/concepts/mode) and practices. Perhaps our gender will still be fortunate enough to continue to be liked, even though it becomes more esteemed as a result. But for men, I pity their blindness. What right does this foolish youth have to usurp all our rights? Do they think they will please women better by trying to resemble them?
+
+MARTON.
+
+For that one, they would be in error; and women hate each other too much to cherish anything that resembles them. But let’s return to the portrait. Are you not afraid that such a slight might offend Monsieur le Chevalier?
+
+LUCINDE.
+
+No, Marton; my brother is naturally good—even reasonable, apart from that one flaw of his. He will understand that by using this portrait to make a quiet, playful reproach to him, I merely intended to help him overcome a trait that even such a gentle person as Angélique, my father’s dear ward whom Valère is marrying today, finds offensive. To correct the faults of his lover is nothing but to do him a favor; and you know how much I need the care of this dear friend if I am to escape Léandre—his brother, who my father also wants me to marry.
+
+MARTON.
+
+So that this young stranger, this Cleonete whom you met last summer in Passy, still holds a special place in your heart?
+
+LUCINDE.
+
+I make no attempt to deny it; in fact, I rely on the promise he gave me that I would soon see him again, and on the assurance Angélique provided me that she would persuade her brother to give up pursuing me.
+
+MARTON.
+
+Well, give up then! Consider that your eyes will possess far more strength to uphold this commitment than Angélique could ever have to break it.
+
+LUCINDE.
+
+Without disputing the flattery you offer, I would say that since Léandre has never seen me, it will be easy for his sister to warn him and make him understand that, since he cannot be happy with a woman whose heart is committed to someone else, the best thing for him to do is to end their relationship through an honest refusal.
+
+MARTON.
+
+An honest refusal! Ah, mademoiselle, to refuse a woman as beautiful as you, with forty thousand écus at her disposal, that is an honesty which Léandre would never be capable of showing. (To himself.) If she knew that Léandre and Cléonte were actually the same person, such a refusal would surely deserve a different description.
+
+LUCINDE.
+
+Ah! Marton, I hear some noise; let’s hide this portrait quickly. It must be my brother returning; and while we were chatting and having fun, we forgot to carry out our plan.
+
+MARTON.
+
+No, it’s Angélique.
+
+Scene II.
+
+Angélique, Lucinde, Marton.
+
+ANGELIQUE.
+
+My dear Lucinde, you know how reluctantly I agreed to your plan when you had the portrait of Valère altered to fit a woman’s attire. Now that I see you about to carry it out, I fear that the displeasure he might feel at being made the subject of such a mockery could alienate him from us. Please, let us abandon this frivolous jest. I feel that I could never find any pleasure in indulging in such things at the risk of disturbing the peace of my own heart.
+
+LUCINDE.
+
+How shy you are! Valère loves you too much to take anything you say in a bad way, as long as you remain only his mistress. Remember that you have only one day left to indulge your whims, and his turn will come far too soon. Besides, the goal is to cure him of this weakness that exposes him to ridicule—and that is precisely the role of a mistress. We can correct the faults of a lover; but, alas, we must endure those of a husband.
+
+ANGELIQUE.
+
+What is there, after all, so ridiculous about him? Since he is kind and pleasant, what great wrong is there in him loving himself? And don’t we ourselves set an example in doing the same? He strives to please others. Ah! If that were considered a flaw, what more charming virtue could a man bring into society?
+
+MARTON.
+
+Especially in a society dominated by women.
+
+ANGELIQUE.
+
+Finally, Lucinde, if you trust me, we will remove both the portrait and all that tone of mockery—which could just as easily be taken for an insult as for a correction.
+
+LUCINDE.
+
+Oh! No. In that way, I would not be losing the costs incurred in my efforts. But I am willing to take on all the risks associated with success alone; and nothing forces you to become an accomplice in a matter for which you could merely be a witness.
+
+MARTON.
+
+What a clear distinction!
+
+LUCINDE.
+
+I am delighted to see Valère’s composure. No matter how he handles the situation, it will surely result in a rather amusing scene.
+
+MARTON.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se rimane ancora qualche difficoltà nella mia giustificazione, oso dirlo apertamente: non riguarda né il pubblico né i miei avversari, ma soltanto me stesso. Solo osservandomi attentamente posso giudicare se debba considerarmi tra coloro che si dedicano agli studi letterari, e se la mia anima sia in grado di sopportare le fatiche che questi richiedono. Ho sentito più volte il pericolo legato a tali impegni; più volte li ho abbandonati, con l’intenzione di non riprenderli mai più. Rinnegando il loro fascino seducente, ho sacrificato alla pace del mio cuore gli unici piaceri che ancora avrebbero potuto compiacerlo. Se, nelle mie sofferenze e alla fine di una carriera difficile e dolorosa, ho osato riprenderli per qualche momento al fine di alleviare i miei mali, credo comunque di non avervi messo né abbastanza interesse né troppa presunzione, da meritare in questo senso le giuste critiche che ho rivolto agli uomini di lettere.
+
+Avevo bisogno di una prova per completare la conoscenza di me stesso, e l’ho affrontata senza esitazioni. Dopo aver riconosciuto lo stato della mia anima nei successi letterari, mi restava da esaminarla anche nei fallimenti. Ora so come considerarla, e posso presentare al pubblico il lato peggiore di me stesso. La mia opera ha avuto il destino che meritava e che avevo previsto; ma, a parte la delusione che mi ha causato, sono uscito dalla rappresentazione molto più soddisfatto di me stesso, e con maggior diritto, di quanto lo sarei stato se fosse riuscita.
+
+Consiglio quindi a coloro che sono così desiderosi di trovare rimproveri da farmi di studiare più attentamente i miei principi e osservare meglio il mio comportamento, prima di accusarmi di contraddizione e incoerenza. Se mai si accorgessero che inizio a cercare il favore del pubblico, o che mi vanto di aver scritto belle canzoni, o che mi vergogno di aver composto cattive commedie, o che cerco di danneggiare la reputazione dei miei concorrenti, o che fingo di parlare male dei grandi uomini del mio secolo nel tentativo di elevarmi al loro livello umiliandoli, o che aspiro a ottenere posti nelle accademie, o che vado a corteggiare le donne che dettano la moda, o che lodo la stupidità dei potenti, o che, smettendo di vivere del lavoro delle mie mani, disprezzo il mestiere che mi sono scelto e cerco di arricchirmi con mezzi disonorevoli; se in altre parole si rendessero conto che l’amore per la reputazione mi fa dimenticare quello per la virtù, li prego di avvertirmene, anche pubblicamente; e prometto loro che immediatamente brucerò tutti i miei scritti e i miei libri, e ammetterò tutte le errori che vorranno rimproverarmi.
+
+Nel frattempo, scriverò libri, comporrò poesie e musica, se ne avrò il talento, il tempo, la forza e la volontà; continuerò a dire molto francamente tutto il male che penso delle lettere e di coloro che le coltivano[58], e crederò di non valere meno per questo. È vero che un giorno si potrà dire: «Questo nemico dichiarato delle scienze e degli arti ha tuttavia scritto e pubblicato opere teatrali»; e ammetto che tale affermazione sarà una satira molto amara, non contro di me, ma contro il mio secolo.
+
+Personaggi
+
+LISIMON.
+
+Valère, figlio di Lisimon.
+
+Lucinde, figlia di Lisimon.
+
+LÉANDRE, fratello di Angélique, pupillo di Lisimon.
+
+Angélique, sorella di Léandre, pupilla di Lisimon.
+
+MARTON, prossimo.
+
+FRONTIN, valletto di Valerio.
+
+La scena si svolge nell’appartamento di Valère.
+
+Scena Prima
+
+Lucinde, Marton.
+
+LUCCIDE.
+
+Ho appena visto mio fratello passeggiare nel giardino; affrettiamoci, prima che torni, a mettere il suo ritratto sul comodino.
+
+MARTON.
+
+Ecco, signorina: i suoi abiti sono stati modificati in modo tale da renderlo irriconoscibile. Anche se fosse l’uomo più bello del mondo, qui appare come una donna, con nuove grazie.
+
+LUCCIDE.
+
+Valerio, con la sua delicatezza e con l’attenzione che pone nel vestirsi, è una sorta di donna nascosta sotto abiti da uomo; e questo ritratto, in questo modo trasformato, sembra non tanto nasconderlo, quanto rivelarlo nella sua vera natura.
+
+MARTON.
+
+Beh, dove sta il problema? Se oggi le donne cercano di avvicinarsi agli uomini, non è forse opportuno che anche gli uomini facciano lo stesso e si sforzino di aumentare sia il proprio fascino che la propria solidità? Grazie alla moda, tutto diventerà più facile da equilibrare.
+
+LUCCIDE.
+
+Non riesco ad abituarmi a modi così ridicoli. Forse il nostro sesso avrà la fortuna di continuare ad essere apprezzato, anche se diventerà più stimato. Ma per gli uomini, mi dispiace della loro cecità. Che pretese ha questa giovinezza sciocca, usurpando tutti i nostri diritti? Pensano davvero di piacere di più alle donne cercando di assomigliarle?
+
+MARTON.
+
+Per lui, avrebbero torto; inoltre, le donne si odiano troppo tra loro per poter amare ciò che le accomuna. Ma torniamo al ritratto. Non temete forse che questa piccola battuta possa offendere il signor cavaliere?
+
+LUCCIDE.
+
+No, Marton; mio fratello è naturalmente buono; anzi, è anche ragionevole, a parte quel suo difetto. Capirà che, facendogli con questo ritratto un rimprovero silenzioso e scherzoso, non ho voluto altro che aiutarlo a correggere un vizio che offende persino quella tenera Angélique, quella cara pupilla di mio padre che oggi Valère sposa. Aiutarlo significa proprio correggere i difetti del suo amante; e tu sai quanto abbia bisogno delle cure di questa cara amica per liberarmi di Léandre, suo fratello, che anche mio padre vuole farmi sposare.
+
+MARTON.
+
+Anche se quel giovane sconosciuto, quel Cleonte che avete visto l’estate scorsa a Passy, vi è ancora molto caro nel cuore.
+
+LUCCIDE.
+
+Non mi difendo affatto; anzi, conto sulla parola che mi ha dato di tornare presto, e sulla promessa fatta da Angélique di convincere suo fratello a rinunciare a me.
+
+MARTON.
+
+Bene, arrendiamoci! Pensate che i vostri occhi avranno più forza nel mantenere questa promessa di quanto Angélique ne abbia per infrangerla.
+
+LUCCIDE.
+
+Senza mettere in dubbio le tue lusinghe, ti dirò che, poiché Léandre non mi ha mai vista, sarà facile per sua sorella avvertirlo e fargli capire che, non potendo essere felice con una donna il cui cuore appartiene a un altro, la cosa migliore da fare è liberarsi di lei con un rifiuto onesto.
+
+MARTON.
+
+Un rifiuto onesto! Ah, signorina. Rifiutare una donna come voi, che possiede quarantamila scudi, è un’onestà di cui Léandre non sarà mai capace. (Pensieroso.) Se lei sapesse che Léandre e Cléonte sono la stessa persona, un rifiuto del genere cambierebbe completamente significato.
+
+LUCCIDE.
+
+Ah! Marton, sento del rumore. Nascondiamo subito questo ritratto. Deve essere mio fratello che torna; e, mentre ci divertivamo a chiacchierare, non abbiamo avuto il tempo di realizzare il nostro piano.
+
+MARTON.
+
+No, è Angélique.
+
+Scena II.
+
+Angélique, Lucinde, Marton.
+
+ANGÉLIQUE.
+
+Mia cara Lucinde, sapete con quanta riluttanza acconsentii al vostro progetto quando decideste di modificare l’abbigliamento del ritratto di Valère per adattarlo a quello di una donna. Ora che vedo che siete pronta a metterlo in atto, temo che il dispiacere derivante da questa buffonata possa farlo rivoltarsi contro di noi. Per favore, rinunciamo a questo futile scherzo. Non riesco proprio a trovare piacere nel divertirmi a scapito della tranquillità del mio cuore.
+
+LUCCIDE.
+
+Che timidezza! Valère vi ama troppo per prendere sul serio tutto ciò che proviene da voi, finché sarete soltanto la sua amante. Pensate che avete solo un giorno per dare sfogo alle vostre fantasie, e il suo turno arriverà molto presto. Inoltre, si tratta di guarirlo da una debolezza che lo espone al rischio delle derisioni. Ed è proprio questo il compito di una vera amante. Possiamo correggere i difetti di un amante, ma, ahimè, dobbiamo sopportare quelli di un marito.
+
+ANGÉLIQUE.
+
+Che cosa trovate di così ridicolo in lui? Se è gentile, quale grave errore commetterebbe nell’amare se stesso? E non gli stiamo forse dando noi stessi questo esempio? Cerca di piacere. Ah! Se questo è considerato un difetto, quale virtù più affascinante potrebbe un uomo portare nella società?
+
+MARTON.
+
+Soprattutto nella società femminile.
+
+ANGÉLIQUE.
+
+Infine, Lucinda, se mi credete, elimineremo sia il ritratto che quell’atteggiamento derisorio che potrebbe essere interpretato sia come un insulto che come una correzione.
+
+LUCCIDE.
+
+Oh no! In questo modo non perderei i costi sostenuti per il mio impegno. Ma sono disposta ad assumere da sola i rischi legati al successo; e nessuno vi obbliga a diventare complici in un’affare di cui potete essere soltanto testimoni.
+
+MARTON.
+
+Che distinzione interessante!
+
+LUCCIDE.
+
+Sono felice di vedere l’atteggiamento di Valerio: in ogni caso, la situazione risulterà sicuramente piuttosto divertente.
+
+MARTON.
+
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="assi/meaning_of_history,positions/decadence,schools/enlightenment"></span>
 
 J'entends. Le prétexte est de corriger Valère ; mais le vrai motif est de rire à ses dépens. Voilà le génie et le bonheur des femmes. Elles corrigent souvent les ridicules en ne songeant qu'à s'en amuser.
 
@@ -562,7 +982,345 @@ J'achevais de me coiffer, et j'allais m'habiller pour me présenter décemment d
 
 LISIMON.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
+<span class="qlang-split" data-lang="en"></span>
+
+I understand. The pretext is to correct Valère; but the real motive is to laugh at his expense. Such is the genius and the joy of women—they often correct ridiculous behavior, yet only do so with the intention of enjoying themselves.
+
+ANGELIQUE.
+
+Finally, you want it; but I warn you that you will have to answer for this event.
+
+LUCINDE.
+
+Very well.
+
+ANGELIQUE.
+
+Since we have been together, you have given me a hundred reasons for which I deserve your punishment. If this matter causes me the slightest trouble with Valère, be careful of yourself.
+
+LUCINDE.
+
+Yes, yes.
+
+ANGELIQUE.
+
+Think for a moment about Léandre.
+
+LUCINDE.
+
+Ah! My dear Angélique.
+
+ANGELIQUE.
+
+Oh, if you mess things up with my brother, I swear you’ll marry mine. (In a low voice.) Marton, you promised me to keep it a secret.
+
+“MARTON,” in a low voice.
+
+Do not fear anything.
+
+LUCINDE.
+
+Finally, I.
+
+MARTON.
+
+I hear the voice of the knight. Choose your side as soon as possible—unless you intend to provide him with a group of girls to assist him with his preparations.
+
+LUCINDE.
+
+We must absolutely prevent him from seeing us. (She places the portrait on the toilet.) There it is—the trap has been set.
+
+MARTON.
+
+I want to keep an eye on my man to see what happens.
+
+LUCINDE.
+
+Peace. Save us.
+
+ANGELIQUE.
+
+I have such bad presences about all this!
+
+Scene III.
+
+Valère, Frontin.
+
+VALÈRE.
+
+“Sangaride, today is a great day for you.”[59]
+
+FRONTIN.
+
+Sangaride; that is to say, Angélique. Yes, the day of a wedding is indeed a great occasion, and it seems to prolong endlessly all the days that follow it.
+
+VALÈRE.
+
+How much pleasure I will take in making Angélique happy!
+
+FRONTIN.
+
+Would you really want to make her a widow!
+
+VALÈRE.
+
+Bad joke. You know how much I love her. Tell me: what do you know that could possibly prevent her from being happy? With a lot of love, a bit of wit, and a decent appearance, as you can see, I think one can always be fairly certain of pleasing someone.
+
+FRONTIN.
+
+This fact is undeniable, and you have personally experienced it for the first time yourself.
+
+VALÈRE.
+
+What I regret most about all this is that countless small people will feel filled with regret because of my marriage, and they will not know what to do with their [hearts](/positions/fideism).
+
+FRONTIN.
+
+Oh, indeed. Those who have loved you will go out of their way to hate your beloved other half. As for the others. But where in the world can one find those others?
+
+VALÈRE.
+
+Morning is progressing; it’s time to get dressed and go see Angélique. Let’s go. (He begins to dress.) How do you think I look this morning? There’s no fire in my eyes; my complexion looks pale; it seems I’m not in my usual good shape.
+
+FRONTIN.
+
+Normally! No, you’re just being yourself, as usual.
+
+VALÈRE.
+
+The use of rouge is a very bad habit; in the end, I won’t be able to do without it, and I’ll be in a terrible state without it. Where is my flypaper box? But what am I seeing there? A portrait. Ah! Frontin, what a charming object!. Where did you get this portrait?
+
+FRONTIN.
+
+Me? I’d rather be hanged than understand what you’re talking about.
+
+VALÈRE.
+
+What! Didn’t you put that portrait on my toilet?
+
+FRONTIN.
+
+No, rather that I die.
+
+VALÈRE.
+
+Who could it be then?
+
+FRONTIN.
+
+Well, I have no idea. It can only be the devil, or you.
+
+VALÈRE.
+
+To others! You were paid to keep silent. Do you realize that comparing this object to Angélique is harmful to her. Look, there before you—the most beautiful creature I have ever seen in my life. What eyes, Frontin!. I think they resemble mine.
+
+FRONTIN.
+
+That’s all there is to it.
+
+VALÈRE.
+
+I find her to bear a great deal of my own traits. She is, indeed, charming. Ah! If only the spirit were able to support all this. But her taste speaks volumes about her character. That mischievous woman really knows what’s good!
+
+FRONTIN.
+
+What in the world! Let us take a look at all these wonders.
+
+VALÈRE.
+
+Hold on, hold on. Do you really think you can fool me with that silly look of yours? Do you believe I’m a novice when it comes to adventures?
+
+FRONTIN, to himself.
+
+Am I mistaken? It’s him, he himself. Look how beautifully dressed he is! So many flowers, so many ribbons! It must be some trick of Lucinde’s; at least Marton is involved in it. Let us not disturb their playful antics. My previous attempts at discretion cost me too much already.
+
+VALÈRE.
+
+Well! Would Mr. Frontin be able to recognize the original of this painting?
+
+FRONTIN.
+
+Phew! I know him all too well! Hundreds of kicks in the back, and just as many slaps—which I had the honor of receiving in detail—have truly solidified my understanding of him.
+
+VALÈRE.
+
+A girl, getting kicked! That’s a bit too aggressive.
+
+FRONTIN.
+
+It’s these little, petty irritabilities that make her lose her temper over nothing at all.
+
+VALÈRE.
+
+How! How could you have served her?
+
+FRONTIN.
+
+Yes, sir; I even have the honor of always being his most humble servant.
+
+VALÈRE.
+
+It would be quite pleasant if there were a beautiful woman in Paris whom I did not know!. Tell me honestly. Is the original just as charming as the portrait?
+
+FRONTIN.
+
+How kind! Do you realize, sir, that if anyone were capable of approaching your perfection, I would find no one else but her worthy of comparison to you.
+
+VALERIE, looking at the portrait.
+
+My heart cannot resist it. Frontin, tell me the name of this beautiful woman.
+
+FRONTIN, to himself.
+
+Ah! Good heavens, now I’m truly in trouble.
+
+VALÈRE.
+
+What is her name? Speak up then.
+
+FRONTIN.
+
+Her name is, her name is, in fact, she has no name at all. She is just an anonymous girl, like so many others.
+
+VALÈRE.
+
+What sad suspicions this sly fellow is casting upon me! Could it be that such charming features are merely those of a common tavern maid?
+
+FRONTIN.
+
+Why not? Beauty takes pleasure in adorning faces that derive their pride solely from it.
+
+VALÈRE.
+
+Huh, that’s.
+
+FRONTIN.
+
+A rather coquettish, effeminate, and vain little person—in short, a true female little lord.
+
+VALÈRE.
+
+This is how those damn footboys talk about the people they have served. However, one must see it for oneself. Tell me, where does she live?
+
+FRONTIN.
+
+Well, to remain. Does anything ever truly remain?
+
+VALÈRE.
+
+If you make me impatient. Where does she live, you rascal?
+
+FRONTIN.
+
+Well, sir, to tell you the truth, you know it just as well as I do.
+
+VALÈRE.
+
+How?
+
+FRONTIN.
+
+I swear to you that I know the original of this portrait just as well as you do.
+
+VALÈRE.
+
+Didn’t you put it there yourself?
+
+FRONTIN.
+
+No, the plague is choking me!
+
+VALÈRE.
+
+These ideas you’ve shared with me.
+
+FRONTIN.
+
+Don’t you see that you are actually providing them to me yourself? Is there anyone in the world who could be more ridiculous than that?
+
+VALÈRE.
+
+How! I shall never be able to discover where this portrait comes from. The mystery and the difficulty only increase my eagerness. For, I must admit it to you, I am truly deeply infatuated with it.
+
+FRONTIN, to himself.
+
+It’s simply unbelievable! He’s actually fallen in love with himself.
+
+VALÈRE.
+
+However, Angélique, the charming Angélique. To be honest, I don’t understand what’s going on in my heart at all, and I need to see this new mistress before making any decisions regarding my marriage.
+
+FRONTIN.
+
+How is that possible, sir! You don’t. Ah! You must be mocking me.
+
+VALÈRE.
+
+No, I am telling you very seriously that I could not offer my hand to Angélique as long as the uncertainty of my feelings remains an obstacle to our mutual happiness. I cannot marry her today; that is my firm decision.
+
+FRONTIN.
+
+Yes, in your case. But your father, who has also made his own little resolutions, is the very least likely person in the world to give in to yours; you know that his weakness is not indulgence.
+
+VALÈRE.
+
+We must find it, at any cost. Come on, Frontin, let’s hurry and search everywhere.
+
+FRONTIN.
+
+Come on, let’s run, let’s fly; let’s make a list and describe all the beautiful girls in Paris. Oh! What a wonderful little book that would be! A rare book whose reading wouldn’t make one fall asleep.
+
+VALÈRE.
+
+Hurry up. Come and help me finish getting dressed.
+
+FRONTIN.
+
+Wait, here is everything you need to know about your father. Let’s invite him to join us as well.
+
+VALÈRE.
+
+Shut up, executioner. What a unfortunate mishap!
+
+Scene IV.
+
+Lisimon, Valère, Frontin.
+
+LISIMON, who must always speak in a brusque tone.
+
+Well, my son?
+
+VALÈRE.
+
+Frontin, a seat for Mr..
+
+LISIMON.
+
+I want to stay standing. I have only two words to say to you.
+
+VALÈRE.
+
+I would not be able to listen to you, sir, unless you were seated.
+
+LISIMON.
+
+Damn it! I don’t like him at all. You’ll see that that impudent boy will be flattering his father as well.
+
+VALÈRE.
+
+Respect.
+
+LISIMON.
+
+Oh! Respect means to obey me and not to hinder me in any way. But what is this? Still in your clothes? On a wedding day, no less. How charming! So Angélique has not yet received your visit?
+
+VALÈRE.
+
+I had just finished dressing up and was about to get dressed properly in order to present myself to her in a decent manner.
+
+LISIMON.
+
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="assi/meaning_of_history,positions/decadence,schools/enlightenment"></span>
 
 Faut-il tant d'appareil pour nouer des cheveux et mettre un [habit](/concepts/custom) ! Parbleu ! dans ma jeunesse nous usions mieux du temps ; et sans perdre les trois quarts de la journée à faire la roue devant un miroir, nous savions à plus juste titre avancer nos affaires auprès des belles.
 
@@ -824,7 +1582,531 @@ Je devrais l'arrêter. Mais Lisimon n'est pas un homme à céder aux sollicitati
 
 MARTON.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr"></span>
+<span class="qlang-split" data-lang="en"></span>
+
+Is it really necessary to use all this equipment just to tie one’s hair and put on a [dress](/concepts/custom)! Oh dear! In my youth, we made better use of our time; without wasting three-quarters of the day admiring ourselves in front of a mirror, we still managed to make progress in attracting the attention of the beautiful.
+
+VALÈRE.
+
+However, it seems that when one wishes to be loved, one cannot take too much care in making oneself likable; and attire that is so neglected surely does not indicate lovers who are very busy with trying to please others.
+
+LISIMON.
+
+Pure nonsense. A bit of negligence is sometimes quite acceptable when one loves. Women used to care more about our eagerness than about the time we might spend on grooming; and although we didn’t put as much effort into our appearance, we did devote far more to our [hearts](/positions/fideism). But let’s not dwell on that. I had thought of postponing your wedding until Léandre arrived, so that he could enjoy being there, and so that I could have the pleasure of celebrating both your marriage and your sister’s on the same day.
+
+"Valère," in a low voice.
+
+Frontin, what happiness!
+
+FRONTIN.
+
+Yes, a marriage delayed; it still means more time for repentance.
+
+LISIMON.
+
+What do you think, Valère? It seems inappropriate to marry the sister without waiting for the brother, since he is on his way.
+
+VALÈRE.
+
+I say, my father, that one cannot think of anything better than this.
+
+LISIMON.
+
+So, this deadline wouldn’t bother you at all?
+
+VALÈRE.
+
+Your eagerness to obey me will always overcome all my reservations.
+
+LISIMON.
+
+It was precisely out of fear that you might be displeased that I had not offered it to you.
+
+VALÈRE.
+
+Your will is just as much the guide for my desires as it is for my actions. (Bowing.) Frontin, what a kind and good father he is!
+
+LISIMON.
+
+I am delighted to find you so obedient; you will gain this merit quite easily, for, in a letter I have just received, Léandre informs me that he is arriving today.
+
+VALÈRE.
+
+Well, what about my father?
+
+LISIMON.
+
+Well, my son, in this way nothing will be disturbed.
+
+VALÈRE.
+
+How! You would want to marry him as soon as you arrive?
+
+FRONTIN.
+
+To marry a man who is always wearing boots!
+
+LISIMON.
+
+Not that—since Lucinde and he have never met before, it’s only right to give them the chance to get to know each other. But he will attend his sister’s wedding, and I wouldn’t have the heart to make such a accommodating son wait.
+
+VALÈRE.
+
+Sir.
+
+LISIMON.
+
+Don’t worry; I know too well, and I approve of your eagerness, to play such a bad trick on you.
+
+VALÈRE.
+
+My father.
+
+LISIMON.
+
+Let’s leave it at that, I tell you; I can guess everything you might want to say to me.
+
+VALÈRE.
+
+But, my father. I have thought, about it.
+
+LISIMON.
+
+Reflections, you? I was wrong; I never would have guessed that one. On what, please, do your sublime meditations revolve?
+
+VALÈRE.
+
+On the disadvantages of marriage.
+
+FRONTIN.
+
+Here is a text that provides information.
+
+LISIMON.
+
+A fool may sometimes think; but it is always only after having committed some stupidity first. I see my son in that.
+
+VALÈRE.
+
+How! After such a foolish mistake? But I’m not married yet.
+
+LISIMON.
+
+Learn, sir philosopher, that there is no difference at all between my will and the act itself. You were free to moralize when I proposed it to you, and you yourself were so eager to accept it; I would have listened to your reasons with pleasure—for you know how accommodating I am.
+
+FRONTIN.
+
+Oh! Yes, sir; we are fully capable of giving you justice on this matter.
+
+LISIMON.
+
+But now that everything has come to a halt, you may speculate at your leisure—please, without causing any harm to the wedding.
+
+VALÈRE.
+
+This constraint only doubles my aversion. Please, consider the importance of this matter. Grant me a few days.
+
+LISIMON.
+
+Goodbye, my son; you will be married tonight, or, you hear me. How I was deceived by that scoundrel’s false deference!
+
+Scene V.
+
+Valère, Frontin.
+
+VALÈRE.
+
+Heavens! Into what suffering does his inflexibility cast me!
+
+FRONTIN.
+
+Yes, marry or be disinherited! Wed a woman or face misery—anyone would choose the former rather than the latter.
+
+VALÈRE.
+
+Me, to make a choice? No; my decision was still uncertain until my father’s firmness settled it.
+
+FRONTIN.
+
+In favor of Angélique?
+
+VALÈRE.
+
+On the contrary.
+
+FRONTIN.
+
+I congratulate you, sir, on such a heroic resolution. You will die of hunger as a worthy martyr for freedom. But what if it were to marry the portrait? Hmm. Would marriage no longer seem so terrible to you?
+
+VALÈRE.
+
+No; but if my father were to try to force me to go, I believe I would resist with equal determination, and I feel that my heart would draw me back towards Angélique the moment anyone tried to keep me away from her.
+
+FRONTIN.
+
+What docility! If you do not inherit your father’s possessions, at least you will inherit his virtues. (Looking at the portrait.) Ah!
+
+VALÈRE.
+
+Qu'as-tu ?
+
+FRONTIN.
+
+Since our downfall, this portrait seems to have assumed a familiar, somewhat elongated appearance.
+
+VALÈRE.
+
+It’s a complete waste of time on such trivial matters. We should have already covered half of Paris by now. (He exits.)
+
+FRONTIN.
+
+At the rate you’re going, you’ll soon be running through the fields. However, let’s wait for the outcome of all this; and in order to pretend that I am engaged in some imaginary search, let’s hide in an inn.
+
+Scene VI.
+
+Angélique, Marton.
+
+MARTON.
+
+Ah! ah, ah, ah! What a delightful scene! Who could have predicted it? How unfortunate you are, mademoiselle, to not have been hiding here with me when he was so captivated by his own charms!
+
+ANGELIQUE.
+
+He was seen by my eyes.
+
+MARTON.
+
+How! Would you have the weakness to still hold feelings for a man who could commit such an outrageous act?
+
+ANGELIQUE.
+
+So you think he is truly guilty? But what can one really reproach him for, except the universal vice inherent to his age? Do not believe, however, that I am insensitive to the insult inflicted upon me by that knight; I suffer because he prefers, to me, the first face that catches his eye and pleases him. I have too much love in my heart to be devoid of delicacy; and on the very day when I sacrifice my love for reason, Valère will surely give up his follies for me.
+
+MARTON.
+
+I’m afraid that one of them might be just as difficult as the other.
+
+ANGELIQUE.
+
+This is Lucinde. My brother is supposed to arrive today; make sure she doesn’t suspect him of being that unknown person to her, until the right time comes.
+
+Scene VII.
+
+Lucinde, Angélique, Marton.
+
+MARTON.
+
+I bet, madam, you would never be able to guess what the effect of that portrait was. You would surely laugh at it.
+
+LUCINDE.
+
+Ah! Marron, let’s leave that portrait aside; I have many other things on my mind. My dear Angélique, I am sorry—I am dying. This is the moment when I need all your help. My father just told me that Léandre has arrived; he wants me to prepare to receive him today and to marry him in eight days.
+
+ANGELIQUE.
+
+So what exactly is there so terrible about it?
+
+MARTON.
+
+How terrible! To want to marry an eighteen-year-old beautiful girl to a twenty-two-year-old wealthy and handsome man—indeed, it’s frightening. There isn’t a single sensible young woman who wouldn’t find the idea of such a marriage utterly horrifying.
+
+LUCINDE.
+
+I want to hide nothing; I also received a letter from Cléonte at the same time; he will be in Paris constantly; he will try to persuade my father; he urges me to postpone my marriage. In short, he still loves me. Ah, my dear, will you be insensitive to the anxieties of my heart? And that friendship you swore to me.
+
+ANGELIQUE.
+
+The more precious this friendship is to me, the more I wish to see its bonds strengthened through your marriage to my brother. However, Lucinde, your well-being is my foremost concern, and my wishes are even more in line with yours than you might think.
+
+LUCINDE.
+
+Please remember your promises. Make sure Léandre understands that my heart could never belong to him.
+
+MARTON.
+
+My god! Let’s not make any promises. Men have so many resources, and women are so fickle—if Léandre really set his mind to please you, I bet he would succeed, despite your efforts to stop him.
+
+LUCINDE.
+
+Marton!
+
+MARTON.
+
+I don’t give her two days before she replaces your unknown person without you even having time to regret it.
+
+LUCINDE.
+
+Come on, continue. Dear Angélique, I rely on your care; in the turmoil that afflicts me, I am rushing to try everything possible with my father in order to delay, if at all feasible, a marriage that the anxiety in my heart makes me regard with fear. (She exits.)
+
+ANGELIQUE.
+
+I should stop it. But Lisimon is not the kind of man to yield to his daughter’s pleas; and all her prayers will only serve to reinforce this marriage—which she herself desires all the more precisely because she seems to fear it. If I take pleasure in causing her some worry for a few moments, it is only to make the outcome of this matter less painful for her. What other kind of revenge could be justified by friendship?
+
+MARTON.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Occorre davvero tutto questo trambusto per legare i capelli e indossare un [abito](/concepts/custom)! Perbacco. Da giovani sfruttavamo meglio il nostro tempo; senza sprecare tre quarti della giornata a fare la figura davanti allo specchio, riuscivamo comunque ad andare avanti nelle nostre faccende con le donne.
+
+Valère.
+
+Tuttavia, sembra che, quando si vuole essere amati, non ci sia mai abbastanza cura da dedicare per rendersi attraenti, e che un aspetto trascurato non possa certo indicare che i propri amanti siano troppo impegnati a cercare di piacere.
+
+LISIMON.
+
+Pure sciocchezze. A volte, un po’ di trascuratezza può essere addirittura vantaggiosa quando si ama. Le donne tenevano maggior conto delle nostre premure che del tempo che avremmo potuto perdere nella toeletta; e senza ostentare tanta delicatezza nell’abbigliamento, ne dimostravamo di maggiore nel [cuore](/positions/fideism). Ma lasciamo perdere. Avevo pensato di posticipare il tuo matrimonio fino all’arrivo di Léandre, affinché potesse godersi la cerimonia, e io potessi celebrare sia il tuo che quello di tua sorella nello stesso giorno.
+
+“Valère”, in tono sommesso.
+
+Frontin, che felicità!
+
+FRONTIN.
+
+Sì, un matrimonio rimandato, significa comunque guadagnare tempo per pentirsi in seguito.
+
+LISIMON.
+
+Che ne pensi, Valerio? Sembra che non sarebbe appropriato sposare la sorella senza aspettare il fratello, dato che lui è in viaggio.
+
+Valère.
+
+Dico, padre mio, che non si può pensare a nulla di meglio di questo.
+
+LISIMON.
+
+Quindi, questo lasso di tempo non ti creerebbe problemi?
+
+Valère.
+
+La vostra fretta di obbedirmi supererà sempre ogni mia riluttanza.
+
+LISIMON.
+
+Eppure, era proprio per paura di farti arrabbiare che non te l’avevo proposto.
+
+Valère.
+
+La vostra volontà è, per i miei desideri, ciò che la vostra volontà è per le mie azioni. (Bas.) Che bravo padre era Frontino!
+
+LISIMON.
+
+Sono incantato dal trovarti così docile: ne otterrai il merito senza alcuno sforzo; infatti, in una lettera che ho appena ricevuto, Léandre mi informa che arriverà oggi stesso.
+
+Valère.
+
+Ebbene, mio padre?
+
+LISIMON.
+
+Ebbene, figlio mio, in questo modo nulla verrà disturbato.
+
+Valère.
+
+Come! Vorreste sposarlo non appena arrivate?
+
+FRONTIN.
+
+Sposare un uomo sempre con gli stivali,!
+
+LISIMON.
+
+Non proprio, dato che in ogni caso Lucinde e lui non si sono mai incontrati, è giusto lasciar loro la possibilità di conoscersi. Tuttavia, parteciperà al matrimonio di sua sorella, e io non avrò il cuore di far soffrire un figlio così accomodante.
+
+Valère.
+
+Signore.
+
+LISIMON.
+
+Non temere nulla; conosco troppo bene e approvo pienamente la tua fretta per poterti giocare un simile scherzo.
+
+Valère.
+
+Mio padre.
+
+LISIMON.
+
+Lascia perdere, ti dico; indovino tutto ciò che potresti dirmi.
+
+Valère.
+
+Ma, mio padre, ho fatto, delle riflessioni.
+
+LISIMON.
+
+Riflessioni, tu? Mi sbagliavo. Non avrei mai indovinato che fosse lui. Su cosa, per favore, ruotano le tue meditazioni profonde?
+
+Valère.
+
+Sui svantaggi del matrimonio.
+
+FRONTIN.
+
+Ecco un testo che fornisce.
+
+LISIMON.
+
+A volte un idiota può riflettere; ma solo dopo aver commesso una stupidaggine. Lì riconosco mio figlio.
+
+Valère.
+
+Come! Dopo una simile stupidaggine. Ma in realtà non sono ancora sposato.
+
+LISIMON.
+
+Imparate, signor filosofo, che non esiste alcuna differenza tra la mia volontà e l’atto stesso. Avreste potuto moralizzare quando vi proposi quella cosa e voi stesso foste così desideroso di accettarla; avrei ascoltato volentieri le vostre ragioni, perché sapete quanto io sia disponibile a compiacervi.
+
+FRONTIN.
+
+Oh! Sì, signore; siamo in grado di rendervi giustizia su questo argomento.
+
+LISIMON.
+
+Ma ora che tutto è fermo, potete fare le vostre congetture liberamente; si prega, però, di non arrecare alcun danno al matrimonio.
+
+Valère.
+
+La costrizione si raddoppia, ma la mia ripugnanza rimane immutata. Pensate, vi prego, all’importanza di questa questione. Vi supplico, concedetemi qualche giorno.
+
+LISIMON.
+
+Addio, mio figlio; stasera sposerai, o, mi senti? Come sono stata ingannata dalla falsa deferenza di quel traditore!
+
+Scena V.
+
+Valerio, Frontino.
+
+Valère.
+
+Cielo! In quale dolore mi getta la sua inflessibilità.
+
+FRONTIN.
+
+Sì, matrimonio o rovina! Sposare una donna, o finire nella povertà. Si potrebbe anche scegliere di non fare nulla.
+
+Valère.
+
+Io, no; la mia scelta era ancora incerta, ma la decisione decisa di mio padre l’ha resa definitiva.
+
+FRONTIN.
+
+A favore di Angélique?
+
+Valère.
+
+Al contrario.
+
+FRONTIN.
+
+Vi congratulo, signore, per una risoluzione così eroica. Morirete di fame, da degno martire della libertà. Ma se si trattasse di sposare quel ritratto? Ehm. Il matrimonio vi sembrerebbe meno orribile, allora?
+
+Valère.
+
+No; ma se mio padre cercasse di costringermi ad andarci, credo che resisterei con la stessa determinazione, e sento che il mio cuore mi riporterebbe subito da Angélique non appena qualcuno tentasse di allontanarmi da lei.
+
+FRONTIN.
+
+Che docilità. Se non ereditate i beni di vostro padre, almeno erediterete le sue virtù. (Guardando il ritratto). Ah!
+
+Valère.
+
+Qu'as-tu ?
+
+FRONTIN.
+
+Dall’epoca della nostra sfortuna, questo ritratto mi sembra assumere un aspetto familiare, una sorta di forma allungata.
+
+Valère.
+
+È un vero spreco di tempo dedicare del tempo a cose irrilevanti. Dovremmo già essere a metà strada per Parigi, (Il destino.)
+
+FRONTIN.
+
+Andando a questo ritmo, presto finirete nei campi. Tuttavia aspettiamo la conclusione di tutto ciò; e per fingere da parte mia una ricerca immaginaria, andiamo a nasconderci in una taverna.
+
+Scena VI.
+
+Angélique, Marton.
+
+MARTON.
+
+Ah! ah, ah, ah! Che scena divertente. Chi avrebbe mai potuto prevederla? Che perdita per voi, signorina, non essere qui nascosta con me, proprio quando lui era così affascinato dai propri pregi!
+
+ANGÉLIQUE.
+
+L’ho visto con i miei occhi.
+
+MARTON.
+
+Che cosa! Avreste la debolezza di conservare dei sentimenti per un uomo capace di compiere un simile errore?
+
+ANGÉLIQUE.
+
+Quindi ti sembra davvero colpevole? Ma cosa si può realmente rimproverargli, se non il vizio tipico della sua età? Tuttavia, non credere che io, indifferente all’offesa di quel cavaliere, soffra perché lui preferisca a me la prima persona che gli piaccia. Ho troppo amore per non essere delicata. E Valerio mi sacrificherà le sue follie nel momento stesso in cui io sacrificherò il mio amore alla ragione.
+
+MARTON.
+
+Temo che uno di questi compiti sia altrettanto difficile quanto l’altro.
+
+ANGÉLIQUE.
+
+Ecco Lucinde. Mio fratello dovrebbe arrivare oggi: fai attenzione che lei non sospetti che sia l’uomo misterioso di cui parla, fino a quando non sarà il momento giusto.
+
+Scena VII.
+
+Lucinda, Angélica, Marton.
+
+MARTON.
+
+Scommetto, signorina, che non riuscireste mai a indovinare quale sia stato l’effetto di quel ritratto. Sicuramente ne riderete.
+
+LUCCIDE.
+
+Eh! Marron, lasciamo perdere quel ritratto; ho ben altre cose in mente. Mia cara Angélique, mi dispiace molto, sto morendo. Ora è il momento in cui ho bisogno di tutto il tuo aiuto. Mio padre mi ha appena comunicato l’arrivo di Léandre; vuole che io lo riceva oggi stesso e che ci sposiamo tra otto giorni.
+
+ANGÉLIQUE.
+
+Cosa trovate dunque di così terribile in ciò?
+
+MARTON.
+
+Come è terribile! Voler sposare una bella ragazza di diciotto anni con un uomo di ventidue anni, ricco e attraente. Davvero, fa paura; non esiste alcuna ragazza in età adulta per cui l’idea di un simile matrimonio non susciti preoccupazione.
+
+LUCCIDE.
+
+Non voglio nascondere nulla: ho ricevuto contemporaneamente una lettera da Cléonte; sarà costantemente a Parigi e interverrà presso mio padre per convincerlo; mi esorta a rimandare il mio matrimonio. Insomma, mi ama ancora. Ah, mia cara, sarete davvero insensibile alle preoccupazioni del mio cuore? E quell’amicizia che mi avevate giurato.
+
+ANGÉLIQUE.
+
+Più questa amicizia mi è cara, più desidero che i suoi legami si rafforzino attraverso il vostro matrimonio con mio fratello. Tuttavia, Lucinde, il vostro benessere è la mia principale preoccupazione, e i miei desideri sono ancora più in linea con i vostri di quanto possiate pensare.
+
+LUCCIDE.
+
+Pertanto, vi prego di ricordare le vostre promesse. Fate capire chiaramente a Léandre che il mio cuore non potrebbe appartenergli.
+
+MARTON.
+
+Mio Dio! Giuriamo di non fare nulla. Gli uomini hanno tante risorse e le donne tanta incostanza; quindi, se Léandre si impegnasse davvero a farvi piacere, scommetto che riuscirebbe comunque, nonostante voi.
+
+LUCCIDE.
+
+Marton!
+
+MARTON.
+
+Non gli do nemmeno due giorni per sostituire il vostro sconosciuto, senza che voi proviate il minimo rimpianto.
+
+LUCCIDE.
+
+Andiamo, continuate. Cara Angélique, conto sui vostri aiuti; nel turbamento che mi affligge, corro a tentare di tutto per ritardare, se possibile, quel matrimonio che l’angoscia del mio cuore mi fa considerare con terrore. (Esce.)
+
+ANGÉLIQUE.
+
+Dovrei fermarlo. Ma Lisimon non è il tipo d’uomo che ceda alle richieste di sua figlia; e tutte le sue preghiere non faranno altro che rafforzare questo matrimonio, che lei stessa desidera ancora di più proprio perché sembra temerlo. Se mi diverte godermi per qualche momento le sue angosie, è solo per rendere l’evento meno doloroso per lui. Quale altra vendetta potrebbe essere giustificata dall’amicizia?
+
+MARTON.
+
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="assi/meaning_of_history,positions/decadence,schools/enlightenment"></span>
 
 Je vais la suivre, et sans trahir notre secret, l'empêcher, s'il se peut, de faire quelque folie.
 
@@ -1218,7 +2500,7 @@ II a donc bien de la vanté !
 
 MARTON.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="assi/meaning_of_history,positions/decadence,schools/enlightenment"></span>
 
 Il se flatte de vous apprivoiser.
 
@@ -1488,7 +2770,547 @@ Lisimon. Léandre, Valère, Angélique, Lucinde, Marton.
 
 LISIMON.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="fr"></span>
+<span class="qlang-split" data-lang="en"></span>
+
+He takes pride in getting along well with you.
+
+ANGELIQUE.
+
+And it was only out of this hope that he agreed to the treaty I proposed to him.
+
+MARTON.
+
+I tell you that he accepts the deal only because he is fully aware that you will not take his words seriously.
+
+LUCINDE.
+
+One must be utterly devoid of any sense of decency to behave in such a manner. Well! Let him come; I’m curious to see how he will try to flaunt his charms. And I tell you, he will be received with. Let him come here. He needs a lesson—and I assure you, it will be an “instructive” one.
+
+ANGELIQUE.
+
+You see, my dear Lucinde, one cannot always accomplish everything one plans; I bet you will become more gentle soon enough.
+
+MARTON.
+
+Men are incredibly skilled; you will see that they will calm you down.
+
+LUCINDE.
+
+Rest assured on this matter.
+
+ANGELIQUE.
+
+At least be careful about it; you can’t say that no one warned you.
+
+MARTON.
+
+It will not be our fault if you are caught off guard.
+
+LUCINDE.
+
+In truth, I believe you are trying to drive me mad.
+
+“ANGÉLIQUE,” Marton said in a low voice.
+
+She has reached that point now. (In a loud voice.) Since you insist, Marton will bring her to you.
+
+LUCINDE.
+
+How?
+
+MARTON.
+
+We left him in the antechamber; he will be here in a moment.
+
+LUCINDE.
+
+Oh dear Cleontes! How you cannot see how I treat your rivals!
+
+Scene XVI.
+
+Angélique, Lucinde, Marton, Léandre.
+
+ANGELIQUE.
+
+Come closer, Léandre; come and help Lucinde to better understand her own [heart](/positions/fideism). She believes she hates you and will do everything in her power to treat you poorly, but I tell you that all these apparent signs of hatred are in fact real proofs of her love for you.
+
+LUCINDE, still not looking at Léandre.
+
+In that regard, he must consider himself quite fortunate, I assure you. What a mischievous little spirit!
+
+ANGELIQUE.
+
+Come on, Lucinde, must anger really prevent you from seeing people as they are?
+
+LÉANDRE.
+
+If my love provokes your hatred, then know how criminal I am. (He falls to his knees before Lucinde.)
+
+LUCINDE.
+
+Ah! Cleonte! Ah, wicked Angélique!
+
+LÉANDRE.
+
+Léandre has displeased you too much for me to dare to claim, under this name, the favors I have received under the name of Cléonte. But if the reason for my disguise can justify its effect, you will forgive it out of the delicacy of a heart whose weakness lies in its desire to be loved for itself.
+
+LUCINDE.
+
+Get up, Léandre; excessive delicacy offends only those who lack it, and my heart is just as pleased with this trial as yours must be with success. But you, Angélique! My dear Angélique, how cruel of you to find pleasure in my suffering!
+
+ANGELIQUE.
+
+Indeed, it would be entirely appropriate for you to complain! Alas, both of you are happy, while I am filled with anxiety.
+
+LÉANDRE.
+
+How wonderful! My dear sister, you thought of my happiness even while you were worried about your own! Ah! Such kindness I will never forget. (He kisses her hand.)
+
+Scene XVII.
+
+Léandre, Valère, Angélique, Lucinde, Marton.
+
+VALÈRE.
+
+Let my presence not disturb you in any way. How could it! Mademoiselle, I was unaware of all your conquests or of whom had the honor of being your favorite; and I will remember, out of humility, that although Valère was the one who sighed most often, he was also the one who suffered the most.
+
+ANGELIQUE.
+
+It would be done better than you think, and indeed, you would need some lessons in humility.
+
+VALÈRE.
+
+What! You dare to add mockery to insult, and you even have the audacity to applaud yourselves when you should be dying of shame.
+
+ANGELIQUE.
+
+Ah! You’re getting angry; I’ll leave you then; I don’t like insults.
+
+VALÈRE.
+
+No, you will remain; I must enjoy every bit of your shame.
+
+ANGELIQUE.
+
+Well then! Enjoy it.
+
+VALÈRE.
+
+For I hope you will not have the audacity to attempt to justify your actions.
+
+ANGELIQUE.
+
+Do not be afraid.
+
+VALÈRE.
+
+And do not delude yourselves into thinking that I still hold even the slightest fondness for you.
+
+ANGELIQUE.
+
+My opinion on this matter will not change anything at all.
+
+VALÈRE.
+
+I declare that from now on, all I feel for you is hatred.
+
+ANGELIQUE.
+
+It is very well done.
+
+VALÈRE, while painting the portrait.
+
+And now, this is the sole object of all my love.
+
+ANGELIQUE.
+
+You are right. And I declare to you that my attachment to Mr. (pointing to his brother) is hardly any less than yours for the original of this portrait.
+
+VALÈRE.
+
+That ungrateful wretch! Alas, all that remains for me is to die.
+
+ANGELIQUE.
+
+Valère, listen. I feel pity for the state you are in. You must admit that you are the most unjust of men—to get angry over what seems like infidelity, when you yourself have set an example of it; yet, out of kindness, I am still willing to overlook your faults today.
+
+VALÈRE.
+
+You will see that people will have the kindness to forgive me!
+
+ANGELIQUE.
+
+In truth, you hardly deserve it. Nevertheless, I will tell you at what cost I was forced to do so. You have previously shown me feelings for which I received only too tender responses from someone ungrateful; yet despite this, you outrageously insulted me with an extravagant love based solely on a simple portrait—with all the frivolity, and I would say, all the recklessness, characteristic of your age and your character. It is not the time to consider whether I should have imitated you; nor is it you, who are the guilty party, who should be criticizing my behavior.
+
+VALÈRE.
+
+“Not mine, by all the gods! But let’s see where these beautiful speeches are leading us.”
+
+ANGELIQUE.
+
+Here it is. I told you that I knew the object of your new love, and that is true. I also said that I loved her tenderly, and that is all too true as well. By acknowledging her merits, I did not conceal her faults. In fact, I even promised to make you aware of them; and now I swear upon my word that I will do so today, at this very moment. For I warn you: she is closer to you than you think.
+
+VALÈRE.
+
+What am I hearing? What! Over there.
+
+ANGELIQUE.
+
+Please do not interrupt me. In truth, I am compelled once again to tell you that this person loves you with great passion, and I can assure you of her devotion just as surely as of my own. It is now up to you to choose, between her and me, whom you intend to dedicate all your tenderness to: make your choice, sir; but decide now, without any hesitation.
+
+MARTON.
+
+There he is, indeed, in a rather awkward situation. The alternative is quite amusing. Believe me, sir, choose the portrait; it’s the way to stay safe from your rivals.
+
+LUCINDE.
+
+Ah! Valère, must one sway back and forth for so long merely to follow the impulses of the heart?
+
+Valère, at Angélique’s feet, throws the portrait away.
+
+It is done; you have won, beautiful Angélique. And I feel how the feelings that arise from caprice are inferior to those you inspire. (Marton picks up the portrait.) But alas! When all of my heart returns to you, can I hope that it will also bring yours back to me?
+
+ANGELIQUE.
+
+You may measure my gratitude by the sacrifice you have just made for me. Rise, Valere, and look closely at these features.
+
+LÉANDRE was also looking.
+
+Wait a minute! But I think I recognize this object. It’s, yes, indeed, it’s him.
+
+VALÈRE.
+
+Who, him? No, she—it’s a woman that I give up on, just like all the women in the world; Angélique will always have the upper hand over her.
+
+ANGELIQUE.
+
+Yes, Valère; she was a woman until now—but I hope that from now on, she will be a man who is superior to those minor weaknesses that degraded her gender and character.
+
+VALÈRE.
+
+What a strange surprise you have thrown upon me!
+
+ANGELIQUE.
+
+You should all the less fail to recognize this object, for you have had the most intimate contact with it, and surely no one will accuse you of having neglected it. Remove from this head that strange ornament which your sister has added to it.
+
+VALÈRE.
+
+Ah! What am I seeing?
+
+MARTON.
+
+Isn’t it clear? You see the portrait; here is the original.
+
+VALÈRE.
+
+Oh heavens! And yet I do not die of shame!
+
+MARTON.
+
+Ah! Sir, you might be the only one in your order who knew her.
+
+ANGELIQUE.
+
+Ungrateful wretch! Was I wrong when I told you that I liked the original version of this portrait?
+
+VALÈRE.
+
+And I no longer want to love him except because he adores you.
+
+ANGELIQUE.
+
+Would you please allow me, as a sign of our reconciliation, to introduce you to Léandre, my brother?
+
+LÉANDRE.
+
+Suffer, sir.
+
+VALÈRE.
+
+Heavens! What a perfect blend of happiness! How extraordinary—even when I was ungrateful, Angélique never proved disloyal!
+
+LUCINDE.
+
+How I rejoice in your happiness! And how it too enhances my own happiness!
+
+Scene XVIII.
+
+Lisimon. Léandre, Valère, Angélique, Lucinde, Marton.
+
+LISIMON.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Si vanta di stare imparando a conoscervi.
+
+ANGÉLIQUE.
+
+Ed è solo sulla base di questa speranza che ha accettato il trattato che gli ho proposto.
+
+MARTON.
+
+Vi rispondo che accetta questo accordo soltanto perché è certo che non lo prenderete sul serio.
+
+LUCCIDE.
+
+Bisogna essere davvero di una fatuità insopportabile. Beh, basterà che appaia: sarò curiosa di vedere come farà ad esibire i suoi “trucchi”; vi do la mia parola: sarà accolto con un certo, atteggiamento. Fatelo venire. Ha bisogno di una lezione; potete essere certi che la riceverà, e che sarà molto istruttiva.
+
+ANGÉLIQUE.
+
+Vedi, mia cara Lucinda, non si riesce sempre a realizzare tutto ciò che si propone; scommetto che ti calmerai.
+
+MARTON.
+
+Gli uomini sono estremamente abili; vedrete che vi calmeranno.
+
+LUCCIDE.
+
+Rilassatevi riguardo a questa questione.
+
+ANGÉLIQUE.
+
+Fateci almeno attenzione; non potrete certo dire che nessuno vi ha avvertito.
+
+MARTON.
+
+Non sarà colpa nostra se vi lasciate cogliere di sorpresa.
+
+LUCCIDE.
+
+In realtà, credo che vogliate farmi impazzire.
+
+ANGÉLIQUE, sussurrando a Marton.
+
+Ecco che è pronta. (Ad alta voce.) Poiché lo desiderate così tanto, Marton ve la porterà subito.
+
+LUCCIDE.
+
+Come?
+
+MARTON.
+
+L’abbiamo lasciato nell’anticamera; arriverà qui da un momento all’altro.
+
+LUCCIDE.
+
+Oh caro Cleonte! Non vedi forse in che modo accetto i tuoi rivali?
+
+Scena XVI.
+
+Angélique, Lucinde, Marton, Léandre.
+
+ANGÉLIQUE.
+
+Avvicinati, Léandre; vieni ad aiutare Lucinde a conoscere meglio il proprio [cuore](/positions/fideism): lei crede di odiarti e farà di tutto per accoglierti male, ma io ti dico che tutte queste apparenti manifestazioni di odio sono in realtà prove concrete del suo amore per te.
+
+Lucinda, continuando a non guardare Léandre.
+
+In questo senso, posso assicurarvi che si considera davvero molto fortunato. Che cattivo spirito!
+
+ANGÉLIQUE.
+
+Andiamo, Lucinda, deve forse la rabbia impedirvi di guardare le persone?
+
+LEANDRO.
+
+Se il mio amore suscita la vostra odio, allora sapete quanto io sia colpevole. (Si getta in ginocchio davanti a Lucinda.)
+
+LUCCIDE.
+
+Ah! Cleonte, ah, malvagia Angélique!
+
+LEANDRO.
+
+Léandre vi è piaciuto così poco che non oso approfittare di questo nome per menzionare i favori che ho ricevuto sotto il nome di Cléonte. Tuttavia, se il motivo della mia mascherata può giustificare l’effetto che ha avuto, vi perdonerete questa delicatezza da parte di un cuore il cui desiderio più profondo è essere amato per ciò che è veramente.
+
+LUCCIDE.
+
+Alzati, Léandre; un eccesso di delicatezza offende soltanto coloro che ne sono privi, e il mio cuore è altrettanto soddisfatto di questa prova quanto il tuo dovrebbe esserlo del successo. Ma tu, Angélique, mia cara Angélique, hai avuto la crudeltà di prenderti gioco delle mie sofferenze!
+
+ANGÉLIQUE.
+
+Davvero, vi sarebbe molto utile lamentarvi. Ahimè, voi siete entrambi felici, mentre io sono preda dell’angoscia.
+
+LEANDRO.
+
+Che cosa! Mia cara sorella, avete pensato al mio bene anche mentre eravate preoccupata per il vostro. Ah! È una gentilezza che non dimenticherò mai. (Le bacia la mano.)
+
+Scena XVII.
+
+Léandre, Valère, Angélique, Lucinde, Marton.
+
+Valère.
+
+Che la mia presenza non vi disturbi in alcun modo. Come! Signorina, non conoscevo tutte le vostre “conquiste” né l’oggetto della vostra preferenza; e mi impegnerò, per umiltà, a ricordare che, dopo essere stato il più desiderato, Valère è stato anche il più maltrattato.
+
+ANGÉLIQUE.
+
+Sarebbe meglio fatto di quanto pensiate voi, e in effetti avreste bisogno di alcune lezioni di umiltà.
+
+Valère.
+
+Che cosa! Osi aggiungere alle offese anche il sarcasmo, e hai ancora il coraggio di applaudirti quando dovresti morire di vergogna.
+
+ANGÉLIQUE.
+
+Ah! Vi arrabbiate. Lascio perdere; non mi piacciono le offese.
+
+Valère.
+
+No, rimarrai qui; devo assaporare tutta la tua vergogna.
+
+ANGÉLIQUE.
+
+Beh! Godetevi il momento.
+
+Valère.
+
+Perché spero che non abbiate l’audacia di tentare di giustificarvi.
+
+ANGÉLIQUE.
+
+Non abbiate paura.
+
+Valère.
+
+E non illudetevi che io conservi ancora la minima simpatia per voi.
+
+ANGÉLIQUE.
+
+La mia opinione in merito non cambierà assolutamente nulla nella realtà delle cose.
+
+Valère.
+
+Vi dichiaro che non desidero più provare per voi altro che odio.
+
+ANGÉLIQUE.
+
+È stato fatto molto bene.
+
+Valère, mentre dipinge il ritratto.
+
+Ed ecco ora l’unico oggetto di tutto il mio amore.
+
+ANGÉLIQUE.
+
+Avete ragione. E io vi dichiaro che provo per il signore (indicando suo fratello) un affetto che non è certo inferiore al vostro per l’originale di questo ritratto.
+
+Valère.
+
+L’ingrato! Ahimè, non mi resta altro che morire.
+
+ANGÉLIQUE.
+
+Valerio, ascoltate. Mi dispiace molto vedervi in questo stato. Dovete ammettere che siete l’uomo più ingiusto: vi arrabbiate per un’apparenza di infedeltà, e voi stesso mi avete dato l’esempio di tale comportamento; tuttavia, la mia bontà vuole ancora una volta ignorare i vostri difetti.
+
+Valère.
+
+Vedrete che mi verrà concessa la grazia di essere perdonato!
+
+ANGÉLIQUE.
+
+In verità, non lo meritate affatto. Tuttavia vi insegnerò a quale prezzo io sia stata costretta a prendere questa decisione. In passato mi avete dimostrato sentimenti che ho ricambiato con troppa tenerezza verso un ingrato; nonostante ciò, mi avete offesa in modo ignobile con un amore eccessivo nato da semplici ritratti, con tutta la leggerezza, e, oserei dire, tutta l’imprudenza tipica della vostra età e del vostro carattere. Non è il momento di discutere se avessi dovuto imitarvi. E non spetta a voi, che siete colpevoli, rimproverare il mio comportamento.
+
+Valère.
+
+Non è colpa mia, grandi dei. Ma vediamo verso cosa tendono questi bei discorsi.
+
+ANGÉLIQUE.
+
+Ecco qui. Vi ho detto che conoscevo l’oggetto del vostro nuovo amore, e questo è vero. Ho aggiunto anche che lo amavo teneramente, e questo è ancora troppo vero. Rivelandovi i suoi meriti, non vi ho nascosto i suoi difetti. Ho fatto di più: vi ho promesso di farveli conoscere. Ora vi impegnò con la mia parola a farlo oggi stesso, in questo preciso istante; perché vi avverto che si trova molto più vicino a voi di quanto pensiate.
+
+Valère.
+
+Cosa sto sentendo? Ma che cosa. Lì.
+
+ANGÉLIQUE.
+
+Per favore, non interrompetemi. Alla fine, la verità mi costringe ancora a ripetervi che questa persona vi ama con passione, e posso garantirvi la profondità del suo affetto tanto quanto il mio stesso. Ora tocca a voi scegliere, tra lei e me, a chi destinate tutta la vostra tenerezza: decidete, cavaliere, ma decidete subito, senza possibilità di ripensamento.
+
+MARTON.
+
+Eccolo lì, davvero in imbarazzo. L’alternativa è divertente. Credetemi, signore: scegliete il ritratto; è l’unica maniera per stare al sicuro dai concorrenti.
+
+LUCCIDE.
+
+Ah! Valère, è davvero necessario esitare così a lungo per seguire le impressioni del cuore?
+
+Valère, ai piedi di Angélica, getta via il ritratto.
+
+È fatto; avete vinto, bella Angélique. E sento quanto i sentimenti nati dal capriccio siano inferiori a quelli che voi ispirate. (Marton raccoglie il ritratto.) Ma, ahimè! Quando tutto il mio cuore torna a voi, posso davvero sperare che mi riporti anche il vostro?
+
+ANGÉLIQUE.
+
+Potrete giudicare della mia gratitudine dal sacrificio che mi avete appena reso. Alzatevi, Valerio, e osservate attentamente questi tratti.
+
+Anche Léandre guardava.
+
+Aspettate un attimo! Credo di riconoscere questo oggetto. È, sì, senza dubbio, è proprio quello.
+
+Valère.
+
+Lui? Ma dite piuttosto lei. È una donna che rinuncio, come a tutte le donne dell’universo; su di lei Angélique avrà sempre la meglio.
+
+ANGÉLIQUE.
+
+Sì, Valerio; fino ad ora è stata una donna. Ma spero che da ora in poi diventi un uomo, capace di superare quelle piccole debolezze che denigravano il suo sesso e il suo carattere.
+
+Valère.
+
+In quale strana sorpresa mi gettate!
+
+ANGÉLIQUE.
+
+Non dovreste affatto sottovalutare questo oggetto, visto che avete avuto con esso un rapporto estremamente intimo, e certamente non vi si potrà accusare di averlo trascurato. Rimuovete da questa testa quella strana decorazione che vostra sorella vi ha fatto aggiungere.
+
+Valère.
+
+Ah! Cosa vedo?
+
+MARTON.
+
+Non è forse chiaro? Vedete il ritratto, ed ecco l’originale.
+
+Valère.
+
+Oh cielo, eppure non muoio di vergogna!
+
+MARTON.
+
+Eh! Signore, forse siete l’unico della vostra categoria a conoscerla.
+
+ANGÉLIQUE.
+
+Ingrato! Ho forse sbagliato a dirti che amavo l’originale di questo ritratto?
+
+Valère.
+
+E io non voglio amarlo più se non perché lui vi adora.
+
+ANGÉLIQUE.
+
+Vorreste che, per confermare la nostra riconciliazione, vi presentassi Léandre, mio fratello?
+
+LEANDRO.
+
+Soffrite, signore.
+
+Valère.
+
+Dio mio! Che massimo di felicità. Anche quando ero ingrato, Angélique non è mai stata infedele!
+
+LUCCIDE.
+
+Quanto desidero il vostro felicità, e quanto anche il mio stesso benessere ne risulti aumentato!
+
+Scena XVIII.
+
+Lisimon. Léandre, Valère, Angélique, Lucinde, Marton.
+
+LISIMON.
+
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="assi/meaning_of_history,positions/decadence,schools/enlightenment"></span>
 
 Ah ! vous voici tous rassemblés fort à propos. Valère et Lucinde ayant tous deux résisté à leurs mariages, j'avais d'abord résolu de les y contraindre : mais j'ai réfléchi qu'il faut quelquefois être bon père, et que la violence ne fait pas toujours des mariages heureux. J'ai donc pris le parti de rompre dès aujourd'hui tout ce qui avait été arrêté ; et voici les nouveaux arrangements que j'y substitue : Angélique m'épousera ; Lucinde [ira](/concepts/anger) dans un couvent ; Valère sera déshérité, et quant à vous, Léandre, vous prendrez patience, s'il vous plaît.
 
@@ -1543,3 +3365,115 @@ Table des matières du titre
 Liste des Mélanges ou littérature variée
 
 Liste générale des titres
+
+<span class="qlang-split" data-lang="en"></span>
+
+Ah! You are all gathered here at just the right time. Since both Valère and Lucinde had resisted their marriages, I had initially decided to force them to go through with them; but then I thought that sometimes it is necessary to be a good father, and that violence does not always lead to happy marriages. Therefore, I have decided to cancel everything that had been arranged earlier today. Here are the new arrangements I have made: Angélique will marry me; Lucinde will [go](/concepts/anger) into a convent; Valère will be disinherited, and as for you, Léandre, please have patience.
+
+MARTON.
+
+Very well, indeed! That’s just what we needed, nothing better than that.
+
+LISIMON.
+
+What on earth is it? You are all prohibited from doing it! Does this project not suit your needs at all?
+
+MARTON.
+
+See if any of them will stop babbling! The plague of those foolish lovers and silly youths whose useless chatter never ceases, who are unable to find the right words at the right time!
+
+LISIMON.
+
+Come on, you all know my intentions; you just need to act accordingly.
+
+LÉANDRE.
+
+Ah! Sir, please restrain your anger. Don’t you see the remorse in the eyes of those guilty, and their evident embarrassment? How can you then punish the innocent together with them?
+
+LISIMON.
+
+I would be willing to indulge in the weakness of experiencing their obedience once again. Let’s see. Well! Mr. Valère, do you still engage in reflection?
+
+VALÈRE.
+
+Yes, my father; but instead of the hardships that marriage entails, it brings me only pleasures.
+
+LISIMON.
+
+Oh, oh! You’ve really changed your language! And you, Lucinde, do you still enjoy your freedom so much?
+
+LUCINDE.
+
+I feel, my father, that it can be sweet to lose her within the confines of duty.
+
+LISIMON.
+
+Ah! Now they are all reasonable—how delightful. Come, my children, give me a kiss, and let us conclude these happy marriages. What a clever way to assert authority when the time is right!
+
+VALÈRE.
+
+Come, beautiful Angélique; you have cured me of a ridiculous habit that brought shame to my youth; and now, in your presence, I will realize that when one truly loves, one no longer thinks of oneself at all.
+
+"The End of Narcissus, or The Lover of Himself"
+
+Table of Contents for the title
+
+List of Miscellaneous Works or Varied Literature
+
+General list of titles
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ah! Siete tutti riuniti proprio al momento giusto. Poiché sia Valere che Lucinde avevano resistito ai loro matrimoni, inizialmente avevo deciso di costringerli ad accettarli; ma poi ho pensato che a volte è necessario essere buoni genitori, e che la violenza non sempre porta a matrimoni felici. Pertanto, ho deciso di annullare tutto ciò che era stato stabilito in precedenza; ecco i nuovi accordi che propongo: Angélique mi sposerà; Lucinde andrà in un convento; Valere sarà privato di ogni eredità, e tu, Léandre, dovrai avere pazienza, per favore.
+
+MARTON.
+
+Benissimo, davvero! Questo è proprio ciò che si desiderava; non potrebbe essere meglio di così.
+
+LISIMON.
+
+Che cos’è? Siete tutti vietati dall’utilizzare questo progetto. Non vi soddisfa forse?
+
+MARTON.
+
+Vediamo se qualcuno di loro riuscirà a trattenersi dal parlare. La piaga degli sciocchi innamorati e della giovinezza stupida, la cui inutile chiacchierata non conosce mai fine, e che non sanno trovare nemmeno una parola nelle occasioni più importanti!
+
+LISIMON.
+
+Andiamo, tutti conoscete le mie intenzioni; dovete semplicemente attenervi ad esse.
+
+LEANDRO.
+
+Eh! Signore, si degni di placare la sua ira. Non vede forse nel loro sguardo e nel loro imbarazzo il pentimento dei colpevoli? E vuole davvero condannare gli innocenti alla stessa punizione?
+
+LISIMON.
+
+Certo, sono disposto ad avere la debolezza di provare ancora una volta la loro obbedienza. Vediamo un po’. Ebbene, signor Valère, continua ancora a riflettere?
+
+Valère.
+
+Sì, mio padre; ma, invece delle sofferenze coniugali, il matrimonio mi offre soltanto piaceri.
+
+LISIMON.
+
+Oh, oh! Avete davvero cambiato linguaggio. E tu, Lucinda, ami ancora molto la tua libertà?
+
+LUCCIDE.
+
+Sento, padre mio, che può essere dolce perderla secondo le leggi del dovere.
+
+LISIMON.
+
+Ah! Ora sono tutti ragionevoli. Ne sono incantato. Abbracciatemi, miei figli, e andiamo a concludere questi felici matrimoni. Che colpo di autorità, davvero tempestivo!
+
+Valère.
+
+Vieni, bella Angélica; tu mi hai guarito da un ridicolo che disonorava la mia giovinezza; e ora, al tuo fianco, scoprirò che quando si ama davvero, non ci si pensa più a se stessi.
+
+Fine di Narciso o l’amante di se stesso
+
+Indice dei contenuti del titolo
+
+Elenco di miscellane o letteratura varia
+
+Elenco generale dei titoli

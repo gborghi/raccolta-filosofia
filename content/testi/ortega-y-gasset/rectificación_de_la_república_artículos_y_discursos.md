@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The opening article of the collection: a salute to the 'simplicity' with which the Spanish Republic was born, without phrases or grandiloquence. It notes that a change in the form of government brings with it a whole style of public and private life, and urges against premature grand gestures.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

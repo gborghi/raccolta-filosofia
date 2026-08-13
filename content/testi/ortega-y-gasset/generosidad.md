@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A column: the human individual is barely generous, but his native faculties are — hearing a word, imagination leaps at once to the superlative (the giant, the blackest black man), and only experience and reflection drag us back to reality's wretched «almost». Against a utilitarian biology: man begins by conscientiously failing to adapt. It closes with a review of Stefansson's Tierras futuras, which strips the Arctic of its superlatives.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

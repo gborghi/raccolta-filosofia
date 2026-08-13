@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A preface to two essays on Huizinga: it urges the study of history not as ornamental culture but because historical consciousness has become a radical necessity of life. As the modern age was the time of physical reason, the age now opening will be that of historical reason; the ancient world died of technical insufficiency, ours risks dying for want of moral techniques—and the human is the historical.
+
+## Connections
+
+**Assi:** [[assi/time_and_death|Tempo e morte]], [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/historicity|storicità]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

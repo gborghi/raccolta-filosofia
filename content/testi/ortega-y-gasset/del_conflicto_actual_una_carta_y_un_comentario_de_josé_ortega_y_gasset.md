@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Letter-article to El Sol (1919): support for the telegraph workers and a private protest against the advent of La Cierva's government. Occasional political text.
+> The digest gives neither structure nor sample (283 words, 0 atoms): the content cannot be judged; the title indicates a letter with a comment on a current conflict.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

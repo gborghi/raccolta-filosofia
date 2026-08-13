@@ -12,8 +12,16 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > A metaphysical treatise on evil as the mere absence of a due good, not a positive nature: following Dionysius, Aquinas denies that evil has any essence of its own and denies that God, the supreme good, can be its cause except accidentally.
+
+## Connections
+
+**Concetti:** [[concepts/cause|causa]], [[concepts/evil_privation|male come privazione del bene]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +36,7 @@ TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
 
 Trattato sulla distinzione tra bene e male (QQ[48]-49)
 
-<span class="atom-split" data-atom="002" data-title="THE DISTINCTION OF THINGS IN PARTICULAR (SIX ARTICLES)" data-chapter="THE DISTINCTION OF THINGS IN PARTICULAR (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="THE DISTINCTION OF THINGS IN PARTICULAR (SIX ARTICLES)" data-chapter="THE DISTINCTION OF THINGS IN PARTICULAR (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/evil_privation,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the distinction of things in particular; and firstly the distinction of good
 and evil; and then the distinction of the spiritual and corporeal creatures.
@@ -51,7 +59,7 @@ Dobbiamo ora considerare in modo specifico la distinzione tra le cose; innanzitu
 (5) La divisione del male in dolore e colpa;  
 (6) Se il dolore o la colpa abbiano una natura più propria del male.
 
-<span class="atom-split" data-atom="003" data-title="Whether evil is a nature?" data-chapter="Whether evil is a nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether evil is a nature?" data-chapter="Whether evil is a nature?" data-kind="atom" data-srclang="en" data-tags="concepts/evil_privation,figures/aristotle,figures/augustine,schools/scholasticism"></span>
 
 Objection 1: It would seem that evil is a nature. For every genus is a nature. But evil is a genus;
 for the Philosopher says (Praedic. x) that "good and evil are not in a genus, but are genera of other
@@ -131,7 +139,7 @@ as was said above, this can only happen to evil as joined to some good. Hence ev
 to the perfection of the universe, nor does it come under the order of the same, except accidentally,
 that is, by reason of some good joined to it.
 
-<span class="atom-split" data-atom="004" data-title="Whether evil is found in things?" data-chapter="Whether evil is found in things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether evil is found in things?" data-chapter="Whether evil is found in things?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/evil_privation,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that evil is not found in things. For whatever is found in things, is
 either something, or a privation of something, that is a "not-being." But Dionysius says (Div. Nom.
@@ -203,7 +211,7 @@ Risposta all’Obiezione 2: Come afferma il Filosofo (Metafisica V, testo 14), l
 
 Risposta all’Obiezione 3: Dio, la natura e qualsiasi altro agente producono ciò che è migliore nel complesso, ma non necessariamente ciò che è migliore in ogni singola parte, se non nel contesto del tutto, come già detto sopra (Q[47], A[2]). E il tutto stesso, cioè l’universo delle creature, diventa ancora migliore e più perfetto quando alcune sue parti possono fallire nella loro bontà, e talvolta effettivamente falliscono, senza che Dio intervenga per impedirlo. Ciò avviene, in primo luogo, perché “spetta alla Provvidenza salvare la natura, non distruggerla”, come afferma Dionigi di Atene (Div. Nom. iv); ma spetta alla natura stessa che ciò che può fallire debba talvolta fallire. In secondo luogo, poiché, come dice Agostino (Enchiridion 11), “Dio è così potente da poter trasformare il male in bene”. Pertanto, molte cose buone scomparirebbero se Dio non permettesse l’esistenza del male: il fuoco non si genererebbe senza la corruzione dell’aria, e la vita di un leone non sarebbe salvata senza la morte di un asino. Inoltre, né la giustizia vendicativa né la pazienza di chi soffre potrebbero essere lodate se non esistesse ingiustizia.
 
-<span class="atom-split" data-atom="005" data-title="Whether evil is in good as in its subject?" data-chapter="Whether evil is in good as in its subject?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether evil is in good as in its subject?" data-chapter="Whether evil is in good as in its subject?" data-kind="atom" data-srclang="en" data-tags="concepts/evil_privation,concepts/act_potency,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that evil is not in good as its subject. For good is something that
 exists. But Dionysius says (Div. Nom. iv, 4) that "evil does not exist, nor is it in that which exists."
@@ -279,7 +287,7 @@ Risposta all’Obiezione 3: Il male non risiede nel bene che gli è opposto in q
 Risposta all’Obiezione 4: Il profeta invoca la sventura su coloro che affermano che il bene in sé sia male.  
 Ma ciò non deriva da quanto detto in precedenza, come è chiaro dall’esplicazione fornita.
 
-<span class="atom-split" data-atom="006" data-title="Whether evil corrupts the whole good? (parte 1)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether evil corrupts the whole good? (parte 1)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en" data-tags="concepts/evil_privation,concepts/act_potency,concepts/infinity,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that evil corrupts the whole good. For one contrary is wholly
 corrupted by another. But good and evil are contraries. Therefore evil corrupts the whole good.
@@ -425,7 +433,7 @@ Risposta all’Obiezione 1: Poiché il male è la privazione del bene, e non sem
 
 Risposta all’Obiezione 2: Il dolore e il peccato non dividono l’essere malvagio nel suo complesso, ma soltanto il male che si trova nelle azioni volontarie.
 
-<span class="atom-split" data-atom="007" data-title="Whether evil corrupts the whole good? (parte 2)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether evil corrupts the whole good? (parte 2)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/evil_privation,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: Temptation, as importing provocation to evil, is always an evil of fault
 in the tempter; but in the one tempted it is not, properly speaking, a fault; unless through the
@@ -443,7 +451,7 @@ Risposta all’Obiezione 3: La tentazione, in quanto comporta una provocazione a
 
 Risposta all’Obiezione 4: In risposta all’argomento opposto, si deve affermare che la stessa natura del dolore include l’idea di un danno arrecato all’agente stesso, mentre l’idea di colpa include l’idea di un danno arrecato alle azioni dell’agente; pertanto entrambi questi aspetti sono contenuti nel concetto di male, poiché esso comprende l’idea di danno.
 
-<span class="atom-split" data-atom="008" data-title="Whether pain has the nature of evil more than fault has?" data-chapter="Whether pain has the nature of evil more than fault has?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether pain has the nature of evil more than fault has?" data-chapter="Whether pain has the nature of evil more than fault has?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/evil_privation,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that pain has more of evil than fault. For fault is to pain what merit
 is to reward. But reward has more good than merit, as its end. Therefore pain has more evil in it
@@ -514,7 +522,7 @@ Risposta all’Obiezione 2: L’ordine d’azione che viene distrutto a causa di
 
 Risposta all’Obiezione 3: Dolore e colpa non devono essere paragonati come fine e ordine rispetto a quel fine; poiché entrambi possono essere privati in qualche modo, sia per colpa che per dolore; il dolore, infatti, allontana l’uomo dal fine e dall’ordine verso quel fine; la colpa, invece, si riferisce all’azione che non è diretta verso il suo scopo appropriato.
 
-<span class="atom-split" data-atom="009" data-title="THE CAUSE OF EVIL (THREE ARTICLES)" data-chapter="THE CAUSE OF EVIL (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="THE CAUSE OF EVIL (THREE ARTICLES)" data-chapter="THE CAUSE OF EVIL (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/evil_privation,concepts/theodicy"></span>
 
 We next inquire into the cause of evil. Concerning this there are three points of inquire:
 (1) Whether good can be the cause of evil?
@@ -528,7 +536,7 @@ Esaminiamo ora la causa del male. A questo proposito ci sono tre questioni da in
 (2) Il bene supremo, Dio, è forse la causa del male?  
 (3) Esiste qualche male supremo che possa essere considerato la causa primaria di tutti i mali?
 
-<span class="atom-split" data-atom="010" data-title="Whether good can be the cause of evil?" data-chapter="Whether good can be the cause of evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether good can be the cause of evil?" data-chapter="Whether good can be the cause of evil?" data-kind="atom" data-srclang="en" data-tags="concepts/evil_privation,concepts/four_causes,concepts/cause,concepts/act_potency,figures/augustine"></span>
 
 Objection 1: It would seem that good cannot be the cause of evil. For it is said (Mat. 7:18): "A
 good tree cannot bring forth evil fruit."
@@ -602,7 +610,7 @@ upon it from the fact that the will acts with this defect.
 
 Reply to Objection 4: Evil has no direct cause, but only an accidental cause, as was said above.
 
-<span class="atom-split" data-atom="011" data-title="Whether the supreme good, God, is the cause of evil?" data-chapter="Whether the supreme good, God, is the cause of evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the supreme good, God, is the cause of evil?" data-chapter="Whether the supreme good, God, is the cause of evil?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/evil_privation,concepts/cause,figures/augustine"></span>
 
 Objection 1: It would seem that the supreme good, God, is the cause of evil. For it is said (Is.
 45:5,7): "I am the Lord, and there is no other God, forming the light, and creating darkness, making
@@ -652,7 +660,7 @@ Reply to Objection 3: The sinking of a ship is attributed to the sailor as the c
 fact that he does not fulfil what the safety of the ship requires; but God does not fail in doing what
 is necessary for the safety of all. Hence there is no parity.
 
-<span class="atom-split" data-atom="012" data-title="Whether there be one supreme evil which is the cause of every evil?" data-chapter="Whether there be one supreme evil which is the cause of every evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether there be one supreme evil which is the cause of every evil?" data-chapter="Whether there be one supreme evil which is the cause of every evil?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/evil_privation,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is one supreme evil which is the cause of every evil. For
 contrary effects have contrary causes. But contrariety is found in things, according to Ecclus. 33:15:

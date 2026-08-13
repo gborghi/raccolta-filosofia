@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay in the sociology of art, taking up Guyau: the shortest road to defining the style of the new music, painting, poetry and theatre runs through a sociological fact — their unpopularity. It distinguishes what is not yet popular (romanticism, which won the people at once) from what is unpopular by essence: the new art automatically splits the public into two antagonistic castes, a small favourable minority and a hostile majority.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]], [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

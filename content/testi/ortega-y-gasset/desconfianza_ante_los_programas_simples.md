@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The close of an address for the Liga de Educación Política Española: he refuses to offer a programme, since the current programmes are obsolete and what is needed is to build a new edifice of political ideas and passions from its bases up. He asks for no votes and does not address the masses, but appeals to doctors, engineers, professors and technicians.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/education|educazione]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

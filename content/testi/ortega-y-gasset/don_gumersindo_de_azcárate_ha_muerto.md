@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An obituary of Gumersindo de Azcárate (El Sol, 15 December 1917), the last survivor of the men who acted before the Restoration. Ortega develops here the idea that the face of life changes with every generation, each bringing its own sensibility, and that three generations always coexist within an epoch: his own feels closer to the men of 1869 than to the Restoration men.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

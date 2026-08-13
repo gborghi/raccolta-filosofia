@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Opening manifesto of the weekly España (1915), born «of anger and hope»: no Spanish public institution any longer inspires trust, and Spanish hope must be reorganized against official Spain. A programmatic, not a theoretical, text.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/manifesto|manifesto]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

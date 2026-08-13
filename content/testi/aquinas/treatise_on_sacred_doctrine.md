@@ -12,8 +12,18 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > The opening question of the Summa: why, besides philosophy, a sacred doctrine founded on revelation is needed. It establishes theology's epistemic status as a science subalternated to God's own knowledge, one that employs reason but proceeds from revealed principles — the methodological keystone of the whole work.
+
+## Connections
+
+**Assi:** [[assi/faith_reason|Fede e ragione]]  
+**Posizioni:** [[positions/harmony_of_faith_reason|armonia di fede e ragione]]  
+**Concetti:** [[concepts/faith|fede]], [[concepts/reason|ragione]], [[concepts/revelation|rivelazione]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -30,7 +40,7 @@ TREATISE ON SACRED DOCTRINE (Q[1])
 PRIMA PARTE (FP: QQ 1-119)  
 TRATTATO DI DOTTRINA SACRA (Q[1])
 
-<span class="atom-split" data-atom="002" data-title="THE NATURE AND EXTENT OF SACRED DOCTRINE (TEN ARTICLES)" data-chapter="THE NATURE AND EXTENT OF SACRED DOCTRINE (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="THE NATURE AND EXTENT OF SACRED DOCTRINE (TEN ARTICLES)" data-chapter="THE NATURE AND EXTENT OF SACRED DOCTRINE (TEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/faith_reason,concepts/revelation,forms/quaestio,schools/scholasticism"></span>
 
 To place our purpose within proper limits, we first endeavor to investigate the nature and extent
 of this sacred doctrine. Concerning this there are ten points of inquiry:
@@ -59,7 +69,7 @@ Per delimitare correttamente l’ambito dei nostri scopi, cerchiamo innanzitutto
 (9) Utilizza correttamente metafore e similitudini?  
 (10) Le Sacre [Scritture](/concepts/revelation) relative a questa dottrina possono essere interpretate in modi diversi?
 
-<span class="atom-split" data-atom="003" data-title="Whether, besides philosophy, any further doctrine is required?" data-chapter="Whether, besides philosophy, any further doctrine is required?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether, besides philosophy, any further doctrine is required?" data-chapter="Whether, besides philosophy, any further doctrine is required?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,concepts/faith,concepts/revelation,concepts/reason,figures/aristotle"></span>
 
 Objection 1: It seems that, besides philosophical science, we have no need of any further
 knowledge. For man should not seek to know what is above reason: "Seek not the things that are
@@ -120,7 +130,7 @@ Risposta all’Obiezione 1: Anche se quelle cose che sono al di là della conosc
 
 Risposta all’Obiezione 2: Le scienze si differenziano in base ai diversi mezzi attraverso i quali viene acquisita la conoscenza. L’astronomo e il fisico, ad esempio, possono entrambi giungere alla stessa conclusione: che la Terra sia rotonda. L’astronomo lo fa attraverso la matematica (cioè astraendo dalla materia), mentre il fisico lo fa utilizzando direttamente la materia stessa. Pertanto non vi è alcun motivo per cui ciò che può essere appreso attraverso la scienza filosofica, nella misura in cui possa essere conosciuto mediante la ragione naturale, non possa essere insegnato anche da un’altra scienza, nella misura in cui rientri nell’ambito della rivelazione. Di conseguenza, la teologia inclusa nella dottrina sacra differisce per natura da quella che fa parte della filosofia.
 
-<span class="atom-split" data-atom="004" data-title="Whether sacred doctrine is a science?" data-chapter="Whether sacred doctrine is a science?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether sacred doctrine is a science?" data-chapter="Whether sacred doctrine is a science?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,concepts/revelation,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that sacred doctrine is not a science. For every science proceeds from
 self-evident principles. But sacred doctrine proceeds from articles of faith which are not self-evident,
@@ -153,7 +163,7 @@ concerned with them principally, but they are introduced rather both as examples
 in our lives (as in moral sciences) and in order to establish the authority of those men through whom
 the divine [revelation](/concepts/revelation), on which this sacred scripture or doctrine is based, has come down to us.
 
-<span class="atom-split" data-atom="005" data-title="Whether sacred doctrine is one science?" data-chapter="Whether sacred doctrine is one science?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether sacred doctrine is one science?" data-chapter="Whether sacred doctrine is one science?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/revelation,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that sacred doctrine is not one science; for according to the Philosopher
 (Poster. i) "that science is one which treats only of one class of subjects." But the creator and the
@@ -203,7 +213,7 @@ Risposta all’Obiezione 1: La dottrina sacra non tratta di Dio e delle creature
 
 Risposta all’Obiezione 2: Niente impedisce che facoltà o abitudini inferiori vengano differenziate da qualcosa che rientra anch’esso nella categoria di una facoltà o abitudine superiore; poiché la facoltà o abitudine superiore considera l’oggetto nella sua forma più universale, così come l’oggetto del “senso comune” è tutto ciò che colpisce i sensi, compresi quindi ciò che è visibile o udibile. Pertanto il “senso comune”, pur essendo una singola facoltà, si estende a tutti gli oggetti dei cinque sensi. Allo stesso modo, gli oggetti che sono oggetto di diverse scienze filosofiche possono essere trattati da questa singola e sacra scienza sotto un certo aspetto, nella misura in cui possano essere inclusi nella rivelazione divina. In questo modo, la dottrina sacra porta, per così dire, il sigillo della scienza divina, che è una e semplice, ma si estende a tutto.
 
-<span class="atom-split" data-atom="006" data-title="Whether sacred doctrine is a practical science?" data-chapter="Whether sacred doctrine is a practical science?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether sacred doctrine is a practical science?" data-chapter="Whether sacred doctrine is a practical science?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/reason,concepts/revelation,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that sacred doctrine is a practical science; for a practical science is that
 which ends in action according to the Philosopher (Metaph. ii). But sacred doctrine is ordained to
@@ -237,7 +247,7 @@ Al contrario, ogni scienza pratica si occupa delle azioni umane; così come la s
 
 Rispondo che la dottrina sacra, essendo unica, si estende anche alle cose appartenenti a diverse scienze filosofiche, poiché in ciascuna di esse considera lo stesso aspetto formale, ovvero ciò che può essere conosciuto attraverso la divina [rivelazione](/concepts/revelation). Pertanto, sebbene tra le scienze filosofiche vi sia quella speculativa e quella pratica, la dottrina sacra include entrambe; poiché Dio, con una sola scienza, conosce sia Sé stesso che le Sue opere. Tuttavia, essa è più di natura speculativa che pratica, poiché si occupa soprattutto delle cose divine piuttosto che degli atti umani; anche se tratta anch’essi di questi ultimi, nella misura in cui l’uomo è destinato attraverso di essi alla conoscenza perfetta di Dio, nella quale consiste la beatitudine eterna. Questa risposta è sufficiente a confutare le obiezioni sollevate.
 
-<span class="atom-split" data-atom="007" data-title="Whether sacred doctrine is nobler than other sciences?" data-chapter="Whether sacred doctrine is nobler than other sciences?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether sacred doctrine is nobler than other sciences?" data-chapter="Whether sacred doctrine is nobler than other sciences?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/reason,concepts/revelation,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that sacred doctrine is not nobler than other sciences; for the nobility of
 a science depends on the certitude it establishes. But other sciences, the principles of which cannot
@@ -299,7 +309,7 @@ Risposta all’Obiezione 1: È molto possibile che ciò che di per sé è più c
 
 Risposta all’Obiezione 2: Questa scienza può, in un certo senso, fare affidamento sulle scienze filosofiche, non perché ne abbia bisogno, ma soltanto al fine di rendere i suoi insegnamenti più chiari. Infatti, i suoi principi non le vengono trasmessi da altre scienze, ma direttamente da Dio, attraverso la [rivelazione](/concepts/revelation). Pertanto, essa non dipende dalle altre scienze come da quelle superiori, ma le utilizza come se fossero inferiori e al suo servizio; allo stesso modo, le scienze principali fanno uso di quelle che forniscono loro i materiali necessari, così come la scienza politica fa uso della scienza militare. Il fatto che essa le utilizzi in questo modo non deriva da un difetto o da un’insufficienza sua stessa, ma dal limite della nostra intelligenza, che è più facilmente guidata da ciò che viene conosciuto attraverso la ragione naturale (da cui derivano le altre scienze) verso ciò che va al di là della ragione, come sono gli insegnamenti di questa scienza.
 
-<span class="atom-split" data-atom="008" data-title="Whether this doctrine is the same as wisdom?" data-chapter="Whether this doctrine is the same as wisdom?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether this doctrine is the same as wisdom?" data-chapter="Whether this doctrine is the same as wisdom?" data-kind="atom" data-srclang="en" data-tags="concepts/wisdom,concepts/revelation,assi/god,figures/augustine"></span>
 
 Objection 1: It seems that this doctrine is not the same as wisdom. For no doctrine which
 borrows its principles is worthy of the name of wisdom; seeing that the wise man directs, and is
@@ -354,7 +364,7 @@ which is set down among the gifts of the Holy Ghost: "The spiritual man judgeth 
 experience of divine things." The second manner of judging belongs to this doctrine which is
 acquired by study, though its principles are obtained by revelation.
 
-<span class="atom-split" data-atom="009" data-title="Whether God is the object of this science?" data-chapter="Whether God is the object of this science?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether God is the object of this science?" data-chapter="Whether God is the object of this science?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/reason,concepts/revelation,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that God is not the object of this science. For in every science, the nature
 of its object is presupposed. But this science cannot presuppose the essence of God, for Damascene
@@ -408,7 +418,7 @@ Risposta all’Obiezione 1: Sebbene non possiamo conoscere in cosa consista l’
 
 Risposta all’Obiezione 2: Qualsiasi altra conclusione si raggiunga in questa sacra scienza è compresa entro i confini di Dio, non come parti, specie o attributi di Lui, ma come qualcosa che, in qualche modo, Lo riguarda.
 
-<span class="atom-split" data-atom="010" data-title="Whether sacred doctrine is a matter of argument?" data-chapter="Whether sacred doctrine is a matter of argument?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether sacred doctrine is a matter of argument?" data-chapter="Whether sacred doctrine is a matter of argument?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/reason,concepts/revelation,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems this doctrine is not a matter of argument. For Ambrose says (De Fide 1):
 "Put arguments aside where faith is sought." But in this doctrine, faith especially is sought: "But
@@ -482,7 +492,7 @@ Risposta all’Obiezione 1: Sebbene gli argomenti della ragione umana non siano 
 
 Risposta all’Obiezione 2: Questa dottrina si basa soprattutto su argomentazioni di autorità, poiché i suoi principi derivano dalla rivelazione divina; pertanto dovremmo credere sulla base dell’autorità di coloro a cui tale rivelazione è stata fatta. Ciò tuttavia non diminuisce la dignità di questa dottrina, poiché, sebbene l’argomentazione basata sull’autorità umana sia la più debole, quella basata sulla rivelazione divina è senz’altro la più forte. Tuttavia, anche la dottrina sacra fa ricorso alla ragione umana, non certo per dimostrare la fede (poiché in tal caso il merito della fede verrebbe meno), ma piuttosto per chiarire altri aspetti contenuti in essa. Poiché la grazia divina non distrugge la natura umana, bensì la perfeziona, anche la ragione naturale dovrebbe servire alla fede, così come la tendenza naturale della volontà serve alla carità. Per questo motivo l’Apostolo afferma: “Sottomettendo ogni intelletto all’obbedienza di Cristo” (2 Corinzi 10:5). La dottrina sacra fa quindi anche ricorso all’autorità dei filosofi in quelle questioni che essi sono riusciti a comprendere attraverso la ragione naturale; ad esempio, Paolo cita una frase di Arato: “Come dicono alcuni dei vostri poeti: ‘Anche noi siamo infatti suoi discendenti’” (Atti 17:28). Tuttavia, la dottrina sacra utilizza queste autorità soltanto come argomentazioni esterne e probabili; l’autorità delle Scritture canoniche, invece, viene considerata una prova inconfutabile, mentre l’autorità dei dottori della Chiesa viene riconosciuta come valida, ma solo in senso probabile. La nostra fede, infatti, si basa sulla rivelazione concessa agli apostoli e ai profeti che hanno scritto i libri canonici, e non su rivelazioni rivolte ad altri dottori. Per questo motivo Agostino afferma (Epistola ad Ieronimo xix, 1): “Solo quei libri della Scrittura che vengono considerati canonici ho imparato a rispettare al punto di credere che i loro autori non abbiano commesso alcun errore nella loro stesura. Per quanto riguarda gli altri autori, li leggo senza ritenere vero tutto ciò che hanno scritto, semplicemente perché lo hanno pensato e scritto così, indipendentemente dalla loro santità o erudizione”.
 
-<span class="atom-split" data-atom="011" data-title="Whether Holy Scripture should use metaphors?" data-chapter="Whether Holy Scripture should use metaphors?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether Holy Scripture should use metaphors?" data-chapter="Whether Holy Scripture should use metaphors?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/harmony_of_faith_reason,concepts/faith,concepts/reason,concepts/revelation,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that Holy [Scripture](/concepts/revelation) should not use metaphors. For that which is proper
 to the lowest science seems not to befit this science, which holds the highest place of all. But to
@@ -555,7 +565,7 @@ Risposta all’Obiezione 2: Il raggio della rivelazione divina non viene estinto
 
 Risposta all’Obiezione 3: Come afferma Dionigi (Coel. Hier. i), è più appropriato che le verità divine vengano espresse attraverso immagini di entità meno nobili rispetto a quelle più nobili, e ciò per tre motivi. Primo, perché in questo modo le menti umane vengono meglio protette dall’errore; infatti diventa chiaro che tali descrizioni non costituiscono rappresentazioni letterali delle verità divine, le quali potrebbero essere oggetto di dubbi se espresse attraverso immagini di entità più nobili, soprattutto per coloro che non riescono a concepire nulla di più nobile degli esseri fisici. Secondo, perché questo approccio è più in linea con la conoscenza di Dio che possediamo in questa vita: ciò che Dio non è ci appare infatti più chiaro di ciò che Egli è. Pertanto, le similitudini tratte da elementi lontani da Dio ci aiutano a comprendere meglio quanto Dio sia al di sopra di tutto ciò che possiamo dire o pensare di Lui. Terzo, perché in questo modo le verità divine vengono meglio nascoste agli inadeguati.
 
-<span class="atom-split" data-atom="012" data-title="Whether in Holy Scripture a word may have several senses?" data-chapter="Whether in Holy Scripture a word may have several senses?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether in Holy Scripture a word may have several senses?" data-chapter="Whether in Holy Scripture a word may have several senses?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/revelation,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It seems that in Holy Writ a word cannot have several senses, historical or literal,
 allegorical, tropological or moral, and anagogical. For many different senses in one text produce

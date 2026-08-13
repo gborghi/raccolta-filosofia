@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Sketch on the passes of the Cantabrian range as places of choice between two landscapes and two ways of saying yes to existence. It carries an aesthetic thesis: the taste for green landscape is disguised utilitarianism, while yellow-and-red Castile, felt as visual unreality, is one of the most beautiful things in the universe.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]], [[concepts/nature|natura]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

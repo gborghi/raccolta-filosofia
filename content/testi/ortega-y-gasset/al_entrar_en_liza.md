@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A piece of parliamentary combat: the right sought the electoral fight and the left must win it with exemplary tactics, without the verbal explosions it is prone to. The cabinet's failure lies above all in its incapacity to govern, and Ortega counterposes liberalism as "the generous politics par excellence", which obliges one to legislate for everyone and especially for the enemy.
+
+## Connections
+
+**Concetti:** [[concepts/freedom|libertà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

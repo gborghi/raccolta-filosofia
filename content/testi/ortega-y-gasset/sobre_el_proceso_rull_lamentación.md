@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lament on the Rull trial: in Spain even crimes are sterile. Ortega quotes, from Cicero's De natura deorum II, the Stoic Chrysippus's saying that Nature gave the pig a soul in place of salt so it would not rot, and makes of it a definition of the soul as the principle against corruption and inertia; its analogue in a society is political culture.
+
+## Connections
+
+**Concetti:** [[concepts/soul|anima]]  
+**Figure:** [[figures/cicero|Cicerone]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/stoicism|stoicismo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

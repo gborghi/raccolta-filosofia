@@ -12,8 +12,16 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > A short treatise on why a multitude of distinct things exists: against Democritus (chance) and Avicenna (subordinate intelligences), Aquinas argues that the distinction of things proceeds from God's own intention, since no single creature could adequately represent his simple goodness.
+
+## Connections
+
+**Concetti:** [[concepts/cause|causa]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +36,7 @@ TREATISE ON THE DISTINCTION OF THINGS IN GENERAL (Q[47])
 
 Trattato sulla distinzione delle cose in generale (Q[47])
 
-<span class="atom-split" data-atom="002" data-title="OF THE DISTINCTION OF THINGS IN GENERAL (THREE ARTICLES)" data-chapter="OF THE DISTINCTION OF THINGS IN GENERAL (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE DISTINCTION OF THINGS IN GENERAL (THREE ARTICLES)" data-chapter="OF THE DISTINCTION OF THINGS IN GENERAL (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/treatise,schools/scholasticism"></span>
 
 After considering the production of creatures, we come to the consideration of the distinction
 of things. This consideration will be threefold---first, of the distinction of things in general; secondly,
@@ -45,7 +53,7 @@ Dopo aver considerato la creazione delle creature, passiamo all’esame della di
 (2) La loro disuguaglianza.  
 (3) L’unità del mondo.
 
-<span class="atom-split" data-atom="003" data-title="Whether the multitude and distinction of things come from God?" data-chapter="Whether the multitude and distinction of things come from God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether the multitude and distinction of things come from God?" data-chapter="Whether the multitude and distinction of things come from God?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the multitude and distinction of things does not come from
 God. For one naturally always makes one. But God is supremely one, as appears from what precedes
@@ -137,7 +145,7 @@ Risposta all’Obiezione 2: Questo ragionamento si applicherebbe alla rappresent
 
 Risposta all’Obiezione 3: Nelle questioni speculative, il mezzo di dimostrazione che stabilisce perfettamente la conclusione è unico; mentre i mezzi probabili di prova sono molti. Allo stesso modo, quando si tratta di azioni pratiche, se i mezzi sono, per così dire, adeguati all’obiettivo da raggiungere, uno solo basta. Tuttavia, la creatura non è un mezzo efficace per realizzare il proprio fine, che è Dio; pertanto, la moltiplicazione delle creature è necessaria.
 
-<span class="atom-split" data-atom="004" data-title="Whether the inequality of things is from God?" data-chapter="Whether the inequality of things is from God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether the inequality of things is from God?" data-chapter="Whether the inequality of things is from God?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the inequality of things is not from God. For it belongs to the
 best to produce the best. But among things that are best, one is not greater than another. Therefore,
@@ -228,7 +236,7 @@ Risposta all’Obiezione 2: Il primo effetto dell’unità è l’uguaglianza; s
 
 Risposta all’Obiezione 3: Questo è l’argomento che convinse Origene; tuttavia esso vale soltanto per quanto riguarda la distribuzione dei premi, la cui disuguaglianza deriva da meriti diversi. Ma nella struttura stessa delle cose non esiste alcuna disuguaglianza tra le parti a causa di una precedente disparità, né nei meriti né nella disposizione materiale; l’ineguaglianza deriva piuttosto dalla perfezione del tutto. Ciò si osserva anche nelle opere realizzate dall’arte: il tetto di una casa è diverso dalle fondamenta non perché sia fatto di materiali diversi, ma affinché l’intera struttura possa risultare perfetta attraverso parti distinte; l’artigiano cerca quindi materiali appropriati, e se possibile ne utilizzerebbe altri ancora.
 
-<span class="atom-split" data-atom="005" data-title="Whether there is only one world?" data-chapter="Whether there is only one world?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether there is only one world?" data-chapter="Whether there is only one world?" data-kind="atom" data-srclang="en" data-tags="positions/atomism,concepts/fortune,concepts/infinity,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It would seem that there is not only one world, but many. Because, as [Augustine](/figures/augustine)
 says (QQ. 83, qu. 46), it is unfitting to say that God has created things without a reason. But for

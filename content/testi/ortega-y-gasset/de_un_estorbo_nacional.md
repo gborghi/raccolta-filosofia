@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Argues that national improvement depends on the disappearance of professional politicians and hence on smashing the two great parties; notes with Renan that in Spain a writer may say anything because he influences nothing, and cites Plato's irony calling intellectuals "philotheamones", lovers of looking. It takes the Count of Romanones' speech to the Liberal party as its pretext.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -174,7 +182,7 @@ Nondimeno, il partito liberale, che doveva trovare lì «la base e la caratteris
 
 Sesto. L'Esercito e la Marina; «per questo, pensateci bene, non c'è sacrificio, per esagerato che fosse, che possa sembrare grande».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,figures/plato,forms/essay"></span>
 
 Esto es todo. Para recibir semejante unción y hasta aplaudir briosamente han peregrinado de Gog y de Magog, de las cuarenta y nueve provincias, multitud de ciudadanos. Estos ciudadanos forman un partido que pretende asumir la política española. Pero, como se ve, constituyen un peligro nacional: a ser sinceros los aplausos tributados al discurso del señor conde de Romanones, pondrían de manifiesto su escaso poder de reflexionar. ¿Cómo vamos a situar el destino de España en esas manos plaudentes que obedecen a corazones tan irreflexivos?
 
@@ -294,7 +302,7 @@ Ecco ciò che è il partito liberale. Lungi dal fluire per i suoi pori l'opinion
 
 E così sono possibili dettagli come questo, che subirà, naturalmente, rettificazione, senza che per questo cessi di essere esatto. Quando gli otto uomini che fortuitamente rappresentano l'avalanche sinistrorsa assistono a certa riunione settimanale e il capo dello Stato sollecita da loro riforme democratiche, gli otto uomini si guardano tra mogi e stupiti come dicendo: Che sarà ciò che ci si chiede?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,figures/plato,forms/essay"></span>
 
 El partido liberal ha vivido, hasta hace poco, de un stock de ideas políticas, fabricadas a fines del siglo XVIII. Hace ya mucho tiempo que la cosecha se consumió, y en todas partes se retiraron los grandes organismos liberales, o, a lo sumo, dejaron minorías esporádicas y de transición. En España persiste la arcaica mole donde ha venido a aposentarse la astucia, como acude de sólito la alimaña a toda vieja construcción.
 

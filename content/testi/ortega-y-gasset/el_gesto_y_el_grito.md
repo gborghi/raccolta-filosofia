@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Taking off from a page by Azorín on Bejarano Galavis, it argues that whoever insists is plebeian and that select spirits know they will forever form a minority never understood by the inferior multitude: there will always be two opposed tables of valuation, that of the best and that of the many. It adds that in Spain the inveterate hatred of intellect, once fearful (the Inquisition), has shrunk into contempt.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]]  
+**Posizioni:** [[positions/mass_man|uomo-massa]]  
+**Concetti:** [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

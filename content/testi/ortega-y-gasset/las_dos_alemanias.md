@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Taking the 1908 Berlin riots as his cue, Ortega argues that Germany has always lacked the capacity to form a cultural unity, and that the German trait is not to suffer from this disharmony — a defect every great German from Frederick II and Kant to Nietzsche has mocked. The occasion for reforming the vulgar concept of culture: Greece turned chaos into cosmos, the Middle Ages turned it back into chaos.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

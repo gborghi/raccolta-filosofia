@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review of Heinrich Hoffmann's dissertation, written under Husserl, on the concept of sensation. Ortega notes the revival of the 'metaphysical need' and explains how phenomenology separates description from explanation in psychology: Ebbinghaus's 'pure sensation' is a constructed ideal object, like the atoms of physics — useful to genetic psychology, meaningless to descriptive psychology.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Concetti:** [[concepts/experience|esperienza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -132,7 +140,7 @@ II
 
 Quando percepiamo qualcosa ed è il percepirlo bene ciò che ci interessa, viviamo definitivamente nell'atto di percezione. Detto in altro modo: nel momento di una percezione interessante potranno costituire la nostra coscienza altri atti —per esempio, di volere, di sentire e anche di pensare— oltre l'atto del percepire, ma l'asse della nostra attenzione passa soltanto per quest'ultimo che si erige in centro della nostra vita mentale. Questa preferenza dell'attenzione per un atto determinato in ogni istante è ciò che esprimiamo dicendo: viviamo definitivamente in quell'atto.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/experience,forms/essay"></span>
 
 Mas cuando juzgamos, cuando decimos, por ejemplo: «esto es blanco», nos encontramos con un acto complejo cuyos elementos son asaz disparejos. Hay en él un puro acto de predicación por el cual afirmamos la «blancura» de «esto». Pero este acto de predicación es imposible sin otros dos actos en que se nos da la «blancura» y el «esto» a que nos referimos. En el ejemplo que tomamos, «esto» significa un objeto visual presente, por tanto, algo que sólo puede estar ante nosotros mediante un acto perceptivo; «blancura», en cambio, puede llegar a nosotros en un acto perceptivo, pero también en un acto meramente imaginativo, tal vez en un acto de fantasía[22]. Percepción, imaginación y fantasía son tres clases de actos que se reúnen en una clase única si las ponemos en relación con el acto predicativo. Frente a éste tienen aquéllas de común la función de presentar inmediata y simplemente objetos. Las llamaremos actos presentativos. La predicación no es un acto presentativo, sino que supone ineludiblemente éstos. Es, pues, el juicio un acto de segundo grado que se funda en actos presentativos o de primer grado. Y mejor aún: el juicio es una estructura de actos en la que hay un acto fundado y actos básicos o fundamentales.
 
@@ -228,7 +236,7 @@ Orbene; quella proposizione suppone in me la capacità di darmi conto di stati o
 
 In ogni oggetto individuale c'è, dunque, due elementi: uno, ciò che l'oggetto è: la tavola, con la sua figura e il suo colore, eccetera; un altro, la nota della sua esistenza, qui e ora. Questo secondo elemento è quello che fa di un oggetto un fatto. Come il tempo fluisce e le relazioni spaziali variano, trascina il fatto all'oggetto che avvolge esternamente, e perciò si dice che presenti davanti a noi, con immediatezza, si danno soltanto cose assolutamente fuggaci, un incessante cambiamento. Ma questo è un errore: in ogni intuizione individuale può astrarsi da questo elemento che individualizza e converte in fatto l'oggetto, rimanendo soltanto questo, insoggetto a narrazioni tempo-spaziali, invariabile, eterno.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/experience,forms/essay"></span>
 
 Mi acto de visión de la mesa transcurre: la mesa material motivo de mi visión se corrompe, pero el objeto «mesa que yo he visto ahora» es incorruptible y exento de vicisitudes. Tal vez mi recuerdo de él sea torpe y confuso, pero la mesa que vi, tal y como la vi, constituye un objeto puro e idéntico a sí mismo. No es un objeto individual, es una esencia. La intuición individual, la llamada experiencia, puede convertirse siempre en intuición esencial.
 
@@ -348,7 +356,7 @@ Questo piano di oggettività primaria, in cui tutto esaurisce il suo essere nell
 
 Un esempio, per concludere con questa brevissima indicazione di ciò che intendiamo, seguendo Husserl, per fenomenologia. Il luccichio metallico è questa patente peculiarità luminosa che percepiamo come avvolgente questo oggetto d'argento. Un fisico studierà per quali combinazioni non patenti, inmanifeste, si produce questo fenomeno. Lo psicologo studierà per quale meccanismo psicofisiologico arriviamo a quella percezione. Il fisico, dunque, cerca dal lato di là del fenomeno «luccichio metallico» la costituzione della cosa materiale che in quello ci si manifesta. Lo psicologo cerca la genesi dello stesso nella realtà di una psiche individuale. Entrambi, dunque, partono dal fenomeno e lo abbandonano per oggetti reali, cioè scientifici, prodotti di un'operazione razionale costruttiva. E il caso è che prima di tutto questo sarebbe convenuto intendersi su che cosa sia il «luccichio metallico» stesso —o in altro modo— che classe di colori e in quale disposizione, eccetera, dobbiamo vederli perché, in effetto, vediamo luccichio metallico. In somma, conviene fissare l'essenza di questo, di ciò che vedo in quanto e soltanto in quanto lo vedo. Sembra cosa palmare e superflua? Si provi una definizione e si vedrà come sia compito oltremodo penoso. Probabilmente non si è ancora data una descrizione soddisfacente di cosa così futile. Se la avessimo a portata di mano possederemmo la definizione della «coscienza di» luccichio metallico —la quale varrebbe per l'umana, a un tempo che per l'infraumana e la sovrumana. Ogni soggetto, divino o mondano, per cui il luccichio metallico esista, lo percepirà del medesimo modo essenziale.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/experience,forms/essay"></span>
 
 Como se ve, goza la fenomenología de un abolengo envidiable que le presta dignidad histórica sin arrebatarle novedad. Todo clásico [idealismo](/positions/idealism) —Platón, Descartes, Leibniz, Kant— ha partido del principio fenomenológico. Los objetos son, antes que reales o irreales, objetos, es decir, presencias inmediatas ante la conciencia. Lo que hace de la fenomenología una novedad consiste en elevar a método científico la detención dentro de ese plano de lo inmediato y patente en cuanto tal de lo vivido. El error a evitar radica en que siendo la pura conciencia el plano de las vivencias[26], la objetividad primaria y envolvente, se la quiere luego circunscribir dentro de una clase parcial de objetos como la realidad. La realidad es «conciencia de» la realidad; mal puede, a su vez, ser la conciencia una realidad. Bien está que la psicología considere la «conciencia humana» como una realidad que nació un día determinado y en un punto del espacio sobre el haz de lo real; pero sin olvidar que no es lo que tiene de conciencia más lo que tiene de humana quien hace de aquella unidad un tema para el estudio realista. La mecánica es un trozo de pura conciencia cuya verdad o no verdad, juntamente con sus juicios, raciocinios, etcétera, es completamente ajena a toda determinación tempoespacial. ¿Cómo podrá ser problema para una psicología realista? No lo es, en efecto, no puede serlo —tal equivaldría a estudiar la influencia de la gravitación en las leyes del ajedrez. Lo que sí puede estudiar la psicología es cómo, por qué el ideal cuerpo de la mecánica, la «conciencia de» la mecánica, se actualiza en el cuerpo vivo de un inglés en tal fecha exacta. No, pues, la conciencia misma, sino la entrada y salida de los contenidos de la conciencia en un cuerpo o, lo que me es indiferente, en un alma, en una realidad, es tema de la psicología explicativa.
 
@@ -450,7 +458,7 @@ Qual è, dunque, la grandezza della «cosa reale»? Tra le varie che vediamo pre
 
 Una curiosa complicazione viene qui incontro. Le parti di una casa —un mattone, per esempio—, non sono vedute da me nella loro «grandezza naturale» quando vedo la casa intera nella sua «grandezza naturale». Negli oggetti di notevole grandezza, la grandezza naturale non è una semplice somma delle grandezze naturali delle sue parti. È possibile, senza dubbio, riunire una sull'altra le parti nella loro grandezza naturale e ottenere così una grandezza del tutto che sia la somma. Ma questo sarebbe un prodotto costruttivo, non la grandezza visiva dell'oggetto, nel nostro esempio della casa.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/experience,forms/essay"></span>
 
 Prosigue Hoffmann haciendo observaciones interesantes sobre el género de dependencia entre las variaciones del tamaño visual y las variaciones de las imágenes retinales. En mi entender, esta consideración no interesa al problema fenomenológico para perseguir el cual en la [Memoria](/concepts/memory) de Hoffmann hago este extracto. Sólo para referirme a ello más tarde cuando hable de la sensación reproduzco sus conclusiones. Al alejarse una cosa de la pupila disminuye el tamaño natural de la cosa visual en menor grado que el tamaño métrico de las imágenes retinales. Por consiguiente, no hay correspondencia estricta, hay relativa independencia entre la base fisiológica y la imagen.
 

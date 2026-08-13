@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A biographical portrait of T. E. Lawrence: the Oxford scholar rejected as underweight who from 1916 raised the Arab tribes against the Turks and entered Damascus in 1918, afterwards refusing decorations. Journalistic profile with no philosophical content.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +108,7 @@ Tuttavia, vecchi cacciatori di linee nere su aree bianche, riusciamo, almeno, ad
 
 Ma questo non è una spiegazione del problema Lawrence. Il dandismo è sempre maschera e corazza. Non ci rivela ciò che c'è dietro; anzi, lo occulta e lo difende, segnando la frontiera di due mondi —quello degli altri, patente, esteriore, e di fronte ad esso, il mondo ermetico, recluso, intimo, di un unico individuo. Il gesto del dandy non è mai quello che corrisponde alla sua realtà interiore. Tutto il contrario. È un gesto convenzionale di prestigiatore che la persona fa per distrarre gli sguardi troppo curiosi. Ci rivela soltanto che, dietro di lui, un essere umano vive per conto proprio, secondo principi e norme individuali.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 El libro de Lawrence nos hace entrever que no estima mucho su hazaña, que más bien se avergüenza de ella. Es un héroe que desdeña su heroicidad. Por otra parte, su autor, que es arqueólogo, evita toda alusión arqueológica en la descripción de los lugares donde opera como guerrero. Desdeña también la arqueología. La dimisión de todos los honores que le han sido otorgados, la aniquilación de su propio nombre, indican que tampoco estima mucho a su país y a la sociedad que le ha educado. Todos estos desdenes son fáciles y sin gran sentido cuando aparecen solos. Pero en este [caso](/concepts/fortune) se presentan dentro de un hombre que ha demostrado ser capaz de todo, de ciencia, de genio bélico, de gracia literaria. ¿Cómo es Lawrence?
 

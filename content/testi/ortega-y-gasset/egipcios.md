@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short introductory note to an anthology of Ancient Egyptian songs and tales, sketching the traits of the Egyptian soul. Not philosophical.
+> A 49-word fragment for which the digest supplies no sample: the content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

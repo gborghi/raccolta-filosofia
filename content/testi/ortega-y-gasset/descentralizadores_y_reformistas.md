@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political article: the conservative and liberal parties are guilty of a failure of historic dimensions, and only the decentralisers and reformists remain as nuclei able to offer hope, provided they call new men from outside politics into government. Topical journalism.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

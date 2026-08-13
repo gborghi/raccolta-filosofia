@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Meditation on the Escorial as 'pure effort': an architecture that is all will, impetus and craving, void of ideas and sensibility, transcending nothing beyond its stone. From it he draws the formula of the Spanish substance — 'we only want to be great' — and quotes Nietzsche via his sister: 'the Spaniards wanted to be too much'. The sample begins mid-discourse.
+
+## Connections
+
+**Concetti:** [[concepts/will|volontà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

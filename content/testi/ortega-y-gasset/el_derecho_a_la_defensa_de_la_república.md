@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article of 9 December 1933: it demands clarity from the victorious "right" and asserts the republicans' right to defend the Regime to the last. It defends Alfonso XIII, whose withdrawal fulfilled the last national duty of an exhausted Regime, but denies that a nascent Regime may surrender itself; it closes with "Amor fati! Spain, hold fast to your fate".
+
+## Connections
+
+**Assi:** [[assi/end_of_life|Fine della vita]]  
+**Posizioni:** [[positions/amor_fati|amor fati]]  
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

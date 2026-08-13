@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to those who reproached him for calling Brennus a "German": against the epitome style, he reconstructs that the Romans did not distinguish Celts from Germans before Caesar, that "German" is a Celtic name for "neighbour", and that Chamberlain's pan-Germanist bible explicitly counts Celts and Slavs as Germans. Polemical historical-philological erudition.
 

@@ -10,6 +10,8 @@ tags:
   - "philosopher/rousseau"
 ---
 
+*Rousseau*
+
 > [!abstract]
 > A musical ballet on Apollo, Love and the Muses, performed before the Duke of Richelieu. A musical-theatrical work, without philosophical content.
 
@@ -598,6 +600,1166 @@ L'amour et la gloire
 
 Suivront le vainqueur.
 
+<span class="qlang-split" data-lang="en"></span>
+
+The ballet was performed in 1745 before Duke de Richelieu; in 1747, at the Opéra Theatre; and in 1761, before Prince de Conti.
+
+Warning
+
+Characters from the Prologue
+
+Characters of the Ballet
+
+Prologue
+
+Scene I
+
+Scene II
+
+Scene III
+
+First Entry
+
+Scene I
+
+Scene II
+
+Scene III
+
+Scene IV
+
+Scene V
+
+Scene VI
+
+Scene VII
+
+Second Entrance
+
+Scene I
+
+Scene II
+
+Scene III
+
+Scene IV
+
+Scene V
+
+Third Entry
+
+Scene I
+
+Scene II
+
+Scene III
+
+Scene IV
+
+Scene V
+
+Scene VI
+
+Scene VII
+
+Scene VIII
+
+Characters from the Prologue
+
+LOVE.
+
+APOLLO.
+
+GLORY.
+
+THE MUSES.
+
+THE GRAÇES.
+
+A Troupe of Play and Laughter.
+
+Characters of the Ballet
+
+Euterpe, under the name of Églé.
+
+Polycrates.
+
+OVID.
+
+Anacreon,
+
+HESIODE.
+
+DORIS.
+
+ÉRITHIE.
+
+THÉMIRE.
+
+A SONG.
+
+A man of the party.
+
+YOUNG SAMI GROUPS.
+
+PEOPLE.
+
+Scene I
+
+APOLLO AND THE MUSES.
+
+Born again, divine spirits, born again, famous heroes;
+
+Shine through the arts, shine through victory;
+
+You deserve to be admitted to the temple of memory:
+
+We reserve it for your glory.
+
+A reward worthy of your efforts.
+
+APOLLO.
+
+Muses, daughters of heaven, how pure your glory is!
+
+How sweet your pleasures are!
+
+The most beautiful gifts of nature.
+
+They are not as brilliant as those that people expect of you.
+
+On this peaceful mountain, far from the noise and weapons,
+
+You indulge in these innocent pleasures and savor their sweetness.
+
+Proud ambition, and love—along with its false charms.
+
+Let these things not disturb your hearts.
+
+THE MUSES.
+
+No, no—love and its false charms are nothing but that.
+
+They will never disturb our hearts.
+
+(A brilliant and gentle symphony is heard alternatingly.)
+
+Scene II
+
+Glory and Love descend from the same chariot.
+
+APOLLO, THE MUSES, LOVE, GLORY.
+
+APOLLO.
+
+What am I seeing? Oh heavens! Must I believe it?
+
+Love within the chariot of glory!
+
+GLORY.
+
+What a sad mistake that tempts you!
+
+Behold this charming god, the supporter of my empire:
+
+Through him, triumph is celebrated, while the warrior sighs.
+
+It [forms](/positions/realism_of_ideas) the heroes, and its voice guides them.
+
+One must grant him victory.
+
+When one wishes to shine at my court:
+
+Nothing is more cherished by Glory than.
+
+A great heart guided by Love.
+
+APOLLO.
+
+What! My divine laurels as a bold child.
+
+Would they adorn the bold forehead?
+
+LOVE.
+
+You despise Love; then experience its anger.
+
+At the foot of a severe beauty.
+
+Such wishes are but empty promises that amount to nothing.
+
+That a striking example may serve as a reminder to those whose hearts are filled with love.
+
+Whether I am able to please others depends solely on me.
+
+That talent, that spirit, that sincere fervor.
+
+Happy lovers do not exist.
+
+APOLLO.
+
+Heavens! What a charming object emerges before my soul!
+
+What a sudden burst of flame.
+
+It fills my senses with inspiration!
+
+It is your power, Love, that I feel.
+
+At least in the sighs that began to arise within me.
+
+Please grant that Daphne may become conscious.
+
+LOVE.
+
+I would make you happy! I claim that I am punishing you.
+
+APOLLO.
+
+What! To continue sighing without being able to bring her under one’s control!
+
+How cruel, how terrible my suffering is!
+
+(Il s'en va.)
+
+LOVE.
+
+It is the revenge of Love.
+
+THE MUSES.
+
+Let us flee from a perfidious tyrant.
+
+Let us fear in turn.
+
+GLORY.
+
+Why such a timid fear?
+
+Apollo reigned among you.
+
+May Love preside over it.
+
+Under gentler auspices.
+
+LOVE.
+
+Ah! How sweet, how delightful it is to please others!
+
+It is the most essential of arts.
+
+Ah! How gentle, how flattering it is.
+
+To know how to speak to the heart!
+
+(The Muses, persuaded by Love, recite these four verses.)
+
+LOVE.
+
+Come, Games and Laughter, gentle seducers of the beautiful.
+
+You, through whom everything yields to Love.
+
+Confirm my triumph, and make this stay worthwhile.
+
+Of myrtles and new blossoms:
+
+More brilliant graces than these.
+
+Come and adorn my courtyard.
+
+Scene III
+
+Love, glory, the Muses, the Graces—troups of play and laughter.
+
+CHORUS.
+
+Let us hurry, let us rush into this new abode; sigh, ye rebellious beauties. Through us, everything yields to Love.
+
+(Dancing.)
+
+GLORY.
+
+The winds, those terrible storms.
+
+They cause terrible devastation.
+
+The terror of the sailors:
+
+Love, when your voice guides it.
+
+One can see the timid Alcyon.
+
+To brave the fury of the waves.
+
+Your divine flames
+
+Of the weakest souls.
+
+They can become heroes.
+
+(Dancing.)
+
+CHORUS.
+
+Glory, Love, share the victory upon these hearts.
+
+May myrtle and laurel be united from this day forth.
+
+That the services rendered to Glory.
+
+Let them always be paid by Love.
+
+LOVE.
+
+Depart, Muses, leave this too barren desert.
+
+Come from your delicious feasts to enchant the universe;
+
+After having adorned a thousand different climates,
+
+May the empire of lilies be your happy refuge.
+
+Amidst the fine arts, may you shine brightly there.
+
+From your brightest light!
+
+A glorious reign will lead you to discover it there.
+
+Lovers worthy of your affection.
+
+And heroes to celebrate.
+
+This lesson is in accordance with the edition of 22 volumes in 8-degree format published in 1819 by Mr. Lefèvre. In the Geneva edition of 1782, as well as in the Paris edition in 38 volumes in 8-degree format, it is stated:
+
+May the empire of lilies be our happy refuge.
+
+END OF THE PROLOGUE.
+
+Scene I
+
+ÉGLÉ, DORIS.
+
+DORIS.
+
+Love will offer you the most delightful celebration.
+
+Already, every shepherd prepares to take part in the contest:
+
+It is promised that you will give your hand to the victor.
+
+What a pity for Hesiod! Alas, he adores you so much;
+
+But the arts of Apollo are things that he ignores;
+
+With his tender sighs, he will lose that prize.
+
+Her.
+
+Doris, I love Hesiod, and even more than people think.
+
+I am responsible for his happiness:
+
+But it is by experiencing its intensity and perseverance that.
+
+I had to make sure that he deserved my heart.
+
+DORIS.
+
+Will you be able to escape from your commitments?
+
+Her.
+
+I do not know what it means to lack faith, Doris.
+
+DORIS.
+
+How can you establish your law through your flames?
+
+Her.
+
+From today on, you will see all that Églé is capable of doing.
+
+DORIS.
+
+Églé, in our unknown, foreign villages.
+
+It enjoys, upon all hearts, a power that is truly deserved;
+
+Nothing should be impossible for him.
+
+With the invincible help of.
+
+Of spirit and beauty.
+
+Her.
+
+I see Hesiod.
+
+DORIS.
+
+Overwhelmed with sorrow, he laments the misfortune of his own creations.
+
+Her.
+
+I will know how to dispel the pain that oppresses him:
+
+But for a few moments, let us hide from its eyes.
+
+Scene II
+
+HESIODE.
+
+Églé despises my tenderness;
+
+Seduced by the songs of my happy rivals,
+
+Her heart is the price for it; and alone in these villages.
+
+I know not the secrets of the art that she embodies!
+
+Églé knows this, and she abandons me!
+
+I am going to lose her forever.
+
+With such frivolous songs, how could she possibly give anything of substance?
+
+A reward that should have belonged solely to the most perfect love?
+
+(A soft symphony can be heard.)
+
+What a sweet harmony can be heard here!.
+
+It invites to rest.
+
+I am unable to resist it.
+
+My heavy-lidded eyes allow their tears to dry.
+
+Within the embrace of sleep, I yield to its sweetness.
+
+Scene III
+
+You, Hesiod, are asleep.
+
+Her.
+
+Begin the happiness of this faithful shepherd.
+
+Songs; during this stay, Euterpe calls upon you.
+
+Come to my voice, speak to my lover;
+
+With your enticing images,
+
+Through your charming illusions,
+
+Announce to him the fate that awaits him.
+
+(The entrance of Dreams.)
+
+A SONG.
+
+Flattering dreams.
+
+When, with a heart filled with sorrow.
+
+Your care alleviates the pain.
+
+Sweet mistakes.
+
+That merciless fate.
+
+Delay the application of strict measures for a considerable period of time;
+
+Awake, move away:
+
+Ah! How gentle sleep is!
+
+But when a propitious dream.
+
+It foretells true happiness.
+
+Sleep, depart from here:
+
+Ah! How gentle is this awakening!
+
+(The Dreams withdraw.)
+
+Her.
+
+For you, I left my sisters and the Parnassus.
+
+You, whom heaven has made worthy of my love.
+
+Kind shepherd, with an air of pretended humility.
+
+Do not fear the consequences on this day.
+
+Receive the gift of poetry.
+
+May a new fire ignite within you.
+
+Transport vehicles powered by Apollo experience the [sublime](/concepts/sublime) effect;
+
+And, through your divine songs ascending to the heavens,
+
+Dare, in celebrating them, to make yourself equal to the gods.
+
+(A lyre hung from a laurel tree stands beside Hesiod.)
+
+Love whose ardor has ignited my soul.
+
+Grant that my gifts be animated by your divine flame:
+
+We can stimulate efforts through genius;
+
+But those happy successes are due to your enthusiasm and passion.
+
+Scene IV
+
+HESIODE.
+
+Where am I? What kind of awakening is this? What new inspiration is stirring within me?
+
+What new day does shine upon me? All my senses are astonished!
+
+(He sees the lyre.)
+
+But what a marvelous wonder that fills my mind with astonishment!
+
+(He touches it, and it makes sounds.)
+
+Oh gods, what resounding sounds emanate from this lyre?
+
+I experience delirium amidst an unknown state of transportation!
+
+I effortlessly produce harmonious melodies!
+
+Oh lyre! Oh precious gift of the gods!
+
+Already through your help, I am able to speak their language.
+
+The most powerful of all inspires my courage.
+
+I recognize Love by such beautiful expressions of emotion.
+
+And I will triumph over my jealous rivals.
+
+Scene V
+
+HESIODE: A GROUP OF SHEPHERDS GATHERING FOR THE FESTIVE OCCASION.
+
+CHORUS.
+
+Let everything be remembered.
+
+May everyone applaud.
+
+To our various songs!
+
+May the echo unite us.
+
+That Églé should become tender-hearted.
+
+To our lovely concerts!
+
+A gentle hope of pleasing.
+
+Bring our games to life!
+
+Apollo will do it.
+
+A happy lover.
+
+A flattering victory indeed!
+
+Enchanting triumph!
+
+Love and glory
+
+Then will come the winner.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ballet rappresentato nel 1745 davanti al duca di Richelieu; nel 1747, al teatro dell’Opera; nel 1761, davanti al principe di Conti.
+
+Avvertenza
+
+Personaggi del Prologo
+
+Personaggi del Balletto
+
+Prologo
+
+Scena I
+
+Scena II
+
+Scena III
+
+Prima Entrata
+
+Scena I
+
+Scena II
+
+Scena III
+
+Scena IV
+
+Scena V
+
+Scena VI
+
+Scena VII
+
+Secondo ingresso
+
+Scena I
+
+Scena II
+
+Scena III
+
+Scena IV
+
+Scena V
+
+Terza Entrata
+
+Scena I
+
+Scena II
+
+Scena III
+
+Scena IV
+
+Scena V
+
+Scena VI
+
+Scena VII
+
+Scena VIII
+
+Personaggi del Prologo
+
+L’AMORE.
+
+APOLLO.
+
+La gloria.
+
+Le Muse.
+
+Le Grazie.
+
+TRUPPA DI GIOCO E RIDERE.
+
+Personaggi del Balletto
+
+Euterpe, sotto il nome di Églé.
+
+Policleto.
+
+Ovidio.
+
+Anacreonte,
+
+ESIODE.
+
+DORIS.
+
+**ÉRITHIE.**
+
+TÉMIRE.
+
+UN CANTO.
+
+Un uomo della festa.
+
+GRUPPI DI GIOVANI SAMI.
+
+POPOLO.
+
+Scena I
+
+APOLLO E LE MUSE.
+
+Nascete, spiriti divini, nascete, eroi famosi.
+
+Rifulgete nelle belle arti, rifulgete nella vittoria;
+
+Meritate di essere ammessi nel tempio della memoria:
+
+Riserviamo alla vostra gloria.
+
+Un premio degno dei vostri sforzi.
+
+APOLLO.
+
+Musae, figlie del cielo, quanto è pura la vostra gloria!
+
+Che dolci siano i vostri piaceri!
+
+I più bei doni della natura
+
+Sono meno brillanti di quelli che si aspettano da voi.
+
+Su questa tranquilla montagna, lontano dal rumore e dalle armi.
+
+Godete delle dolcezze di piaceri innocenti.
+
+L’ambizione orgogliosa, l’amore e i suoi falsi incanti.
+
+Non turbino i vostri cuori.
+
+Le Muse.
+
+No, no, né l’amore né i suoi falsi incanti.
+
+Niente mai disturberà i nostri cuori.
+
+(Si sente alternativamente una sinfonia brillante e dolce.)
+
+Scena II
+
+La Gloria e l’Amore discendono dallo stesso carro.
+
+APOLLO, LE MUSE, L’AMORE, LA GLORIA.
+
+APOLLO.
+
+Cosa vedo? Oh cielo! Devo crederci?
+
+L’Amore sul carro della Gloria!
+
+La gloria.
+
+Che triste errore vi attira.
+
+Guardate questo divino e affascinante sostegno del mio impero:
+
+Per mezzo suo il trionfo esulta, mentre il guerriero sospira.
+
+È la [forma](/positions/realism_of_ideas) a creare gli eroi, e è la sua voce a guidarli.
+
+È necessario concedergli la vittoria.
+
+Quando si vuole brillare alla mia corte.
+
+Niente è più prezioso della Gloria.
+
+Un grande cuore guidato dall’Amore.
+
+APOLLO.
+
+Che cosa! I miei divini “laureli” di un bambino temerario.
+
+Cingerebbero la fronte coraggiosa?
+
+L’AMORE.
+
+Disprezzi l’Amore, sperimenta la sua rabbia.
+
+Ai piedi di una bellezza severa.
+
+Si tratta solo di formulare des desideri inutili.
+
+Un esempio evidente dimostra ai cuori innamorati.
+
+È solo da me che dipende il don di piacere agli altri.
+
+Che i talenti, lo spirito, l’ardore sincero.
+
+Gli amanti felici non lo fanno.
+
+APOLLO.
+
+Cielo! Quell’oggetto incantevole riaffiora nella mia anima.
+
+Che fiamma improvvisa.
+
+Inspira i miei sens.
+
+È il tuo potere, Amore, che percepisco.
+
+Almeno dai miei primi sospiri.
+
+Fai sì che Dafne diventi consapevole di ciò che la circonda.
+
+L’AMORE.
+
+Ti renderei felice! Pretendo di punirti.
+
+APOLLO.
+
+Che cosa! Continuare a sospirare senza riuscire a cambiarla.
+
+Crudele, quanto terribile è la mia sofferenza!
+
+(Il s'en va.)
+
+L’AMORE.
+
+È la vendetta dell’Amore.
+
+Le Muse.
+
+Fuggiamo da un tiranno perfido.
+
+Tremiamo ora noi a nostra volta.
+
+La gloria.
+
+Perché questo timido terrore?
+
+Apollo regnava tra voi.
+
+Che sia l’Amore ad averne la guida.
+
+Sotto auspici più dolci.
+
+L’AMORE.
+
+Ah! Che cosa sia dolce, che cosa sia incantevole sentirsi apprezzati!
+
+È l’arte più necessaria.
+
+Ah! Quanto è dolce, quanto è lusinghiero.
+
+Saper parlare al cuore.
+
+Le Muse, convinte dall’Amore, ripetono questi quattro versi.
+
+L’AMORE.
+
+Venite, Giochi e Risate, dolci seduttori delle belle.
+
+Voi, attraverso di voi tutto si arrende all’Amore.
+
+Confermate la mia vittoria e rendete questo soggiorno significativo.
+
+Di mirti e fiori nuovi:
+
+Grazie più splendide di queste.
+
+Venite ad abbellire la mia corte.
+
+Scena III
+
+L’AMORE, LA GLORIA, LE MUSE, LE GRAZIE: schiere di giochi e risate.
+
+CORO.
+
+Corriamo, corriamo in questo nuovo rifugio; Sospirate, belle ribelli. Per noi tutto si arrende all’Amore.
+
+(Ci si balla.)
+
+La gloria.
+
+I venti, gli orribili temporali.
+
+Causerono terribili distruzioni.
+
+La paura dei marinai:
+
+Amore, quando la tua voce lo guida.
+
+Si vede l’Alcyone timido.
+
+Affrontare la furia delle onde.
+
+Le tue divine fiamme
+
+Delle anime più deboli.
+
+Possono diventare eroi.
+
+(Ci si balla.)
+
+CORO.
+
+Gloria e Amore, condividete la vittoria nei cuori degli uomini.
+
+Che il mirto e il lauro siano uniti da oggi in poi.
+
+Che i servizi resi alla Gloria.
+
+Che siano sempre pagati dall’Amore.
+
+L’AMORE.
+
+Andate via, Muse, lasciate questo deserto troppo sterile.
+
+Torna dalle tue delizie per incantare l’universo;
+
+Dopo aver adornato mille diversi climi,
+
+Che l’impero dei gigli sia il vostro felice rifugio.
+
+Tra le belle arti, sii tu a brillare.
+
+Dalla vostra luce più intensa!
+
+Un regno glorioso vi farà scoprire.
+
+Amanti degni di piacervi.
+
+E degli eroi da celebrare.
+
+Questa lezione è conforme all’edizione in 22 volumi in ottavo di 1819, pubblicata da Monsieur Lefèvre. Nell’edizione di Ginevra del 1782, e in quella di Parigi in 38 volumi in ottavo, si legge:
+
+Che l’impero dei gigli sia il nostro felice rifugio.
+
+Fine del PROLOGO.
+
+Scena I
+
+ÉGLÉ, DORIS.
+
+DORIS.
+
+L’Amore vi offrirà la festa più incantevole.
+
+Già, per disputare, ogni pastore si prepara.
+
+È stato promesso che la vostra mano venga data al vincitore.
+
+Che sfortuna per Omero! Purtroppo, vi adora profondamente.
+
+Ma gli giochi di Apollo sono arti che lui ignora.
+
+Con i suoi teneri sospiri perderà quel premio.
+
+Ella.
+
+Doris, amo Omero, e anche di più di quanto si possa pensare.
+
+Mi occupo della sua felicità:
+
+Ma è attraverso la sperimentazione delle sue passioni e della sua costanza.
+
+Ho dovuto assicurarmi che meritasse il mio cuore.
+
+DORIS.
+
+Riuscirete a sfuggire ai vostri impegni?
+
+Ella.
+
+Non so proprio, Doris, come possa mancare della fede.
+
+DORIS.
+
+Come potete imporre la vostra legge con i vostri fuochi?
+
+Ella.
+
+Da oggi in poi, farai tutto ciò che Églé è in grado di fare.
+
+DORIS.
+
+Églé, nei nostri villaggi sconosciuti, straniera.
+
+Godi su tutti i cuori di un potere meritato;
+
+Niente dovrebbe risultargli impossibile.
+
+Con l’aiuto invincibile.
+
+Dello spirito e della bellezza.
+
+Ella.
+
+Vedo Omero.
+
+DORIS.
+
+Sopraffatto dalla tristezza, si lamenta della sfortuna dei suoi fuochi.
+
+Ella.
+
+Riuscirò a dissipare il dolore che lo affligge.
+
+Ma per qualche istante nascondiamoci ai suoi occhi.
+
+Scena II
+
+ESIODE.
+
+Églé disprezza la mia tenerezza;
+
+Sedotta dai canti dei miei felici rivali.
+
+Il prezzo da pagare è il suo cuore. E solo in questi villaggi.
+
+Ignoro i segreti dell’arte che lei incarna e rappresenta.
+
+Églé lo sa e mi abbandona.
+
+La perderò per sempre, senza possibilità di tornare indietro.
+
+A dei canti frivoli, come può lei donare qualcosa di significativo?
+
+Un premio che spettava soltanto all’amore più perfetto?
+
+(Si sente una sinfonia dolce.)
+
+Che dolce armonia si percepisce qui,!
+
+Invita al riposo.
+
+Non riesco a resistere.
+
+I miei occhi, pesanti e stanchi, lasciano che le loro lacrime si asciughino.
+
+Nel sonno, mi arrendo alle sue dolcezze.
+
+Scena III
+
+Tu, O Esiodo, dormi.
+
+Ella.
+
+Iniziate la felicità di questo fedele pastore.
+
+Sogni, in questo luogo, Euterpe vi chiama.
+
+Venite alla mia chiamata, parlate con il mio amante;
+
+Con le vostre immagini seducenti.
+
+Con le vostre incantevoli illusioni,
+
+Annunciategli il destino che lo aspetta.
+
+(L’ingresso dei Sogni.)
+
+UN CANTO.
+
+Sogni lusinghieri.
+
+Quando, con un cuore pieno di dolore.
+
+I vostri gesti di cura alleviano il dolore.
+
+Dolci errori.
+
+Di un destino spietato.
+
+Sospendetevi a lungo dalle rigorezze.
+
+“Risvegliatevi, allontanatevi, ”
+
+Ah! Quanto sia dolce il sonno.
+
+Ma quando un sogno favorevole.
+
+Preannuncia una vera felicità.
+
+Sonno, allontanati.
+
+Ah! Che dolce sia questo risveglio.
+
+(I Sogni si ritirano.)
+
+Ella.
+
+Tu, per cui ho lasciato le mie sorelle e il Parnasso.
+
+Tu, che il cielo ha reso degno del mio amore.
+
+Umile pastore, con una falsa sfortuna.
+
+Non temere gli effetti di quel giorno.
+
+Ricevi il dono dei versi.
+
+Un nuovo fuoco ti anima.
+
+I trasporti legati ad Apollo suscitano un effetto [sublimo](/concepts/sublime);
+
+E, con i tuoi canti divini che si elevano fino ai cieli,
+
+Osa, celebrandoli, renderti uguale agli dèi.
+
+(Una lira appesa a un alloro si erge accanto ad Esiodo.)
+
+Amore il cui fuoco ha incendiato la mia anima.
+
+Permetti che le tue divine fiamme animino i miei doni.
+
+Possiamo, con l’ingegno, stimolare gli sforzi delle persone;
+
+Ma i successi felici sono dovuti alle tue emozioni intense.
+
+Scena IV
+
+ESIODE.
+
+Dove mi trovo? Che risveglio. Quale nuova forza mi ispira?
+
+Qual nuovo giorno mi illumina? Tutti i miei sens sono sorpresi!
+
+(Vede la lira.)
+
+Ma quale miracolo sorprende la mia mente?
+
+(La tocca e emette suoni.)
+
+Dio, quali suoni meravigliosi emana da questa lira?
+
+Provo un delirio causato da un mezzo di trasporto sconosciuto.
+
+Crea senza sforzo canti armoniosi!
+
+Oh lira! Oh caro dono degli dei!
+
+Già grazie al tuo aiuto riesco a parlare la loro lingua.
+
+Il più potente di tutti stimola il mio coraggio.
+
+Riconosco l’Amore in emozioni così belle.
+
+E vincerò sui miei gelosi rivali.
+
+Scena V
+
+ESIODE, GREGGA DI pastori che si riuniscono per la festa.
+
+CORO.
+
+Che tutto rimanga impresso nella memoria.
+
+Che tutti applaudiscano.
+
+Ai nostri canti diversi!
+
+Che l’eco si unisca.
+
+Che Églé si commuovesse.
+
+Ai nostri dolci concerti!
+
+Dolce speranza di piacere.
+
+Rinfreschiate i nostri giochi!
+
+Apollo andrà a fare.
+
+Un amante felice.
+
+Vittoria lusinghiera.
+
+Trionfo incantevole!
+
+Amore e gloria
+
+Seguirà il vincitore.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 (On danse, après quoi Hésiode s'approche pour disputer.)
@@ -1132,6 +2294,1074 @@ ANACRÉON.
 
 Je conçois le détour :
 
+<span class="qlang-split" data-lang="en"></span>
+
+(During the dance, Hesiod then approaches to engage in a debate.)
+
+CHORUS.
+
+Oh shepherd, lay down this useless lyre;
+
+Do you wish to compete in our games today?
+
+HESIODE.
+
+Nothing is impossible for Love.
+
+I have not made art into a servile pursuit.
+
+And my unruly voice.
+
+It never joined the flames.
+
+But, in the success that I hope for,
+
+I await everything from the fire that illuminates me.
+
+And none of my poor attempts at work.
+
+CHORUS.
+
+Sing, oh bold shepherd;
+
+We shall all marvel at your new wonders.
+
+HESIODE begins.
+
+Beautiful fire that consumes my soul.
+
+Infuse your divine passion into my songs:
+
+Bring that brilliant flame into my mind.
+
+Do not burn my heart.
+
+CHORUS, who interrupts Hesiod.
+
+His lyre overshadows our simple musical instruments.
+
+Ah! We are defeated!
+
+Let us flee into our retreats.
+
+Scene VI
+
+HESIOD, ELEGEE.
+
+HESIODE.
+
+Belle Églé. But, oh heavens! what unknown charms she possesses!.
+
+You are immortal; I could have mistaken you for one!
+
+Haven't your heavenly delights been meant to teach me?
+
+Is it only permitted for gods to sigh for you?
+
+Alas! At every moment, without being able to defend myself against it.
+
+My overly guilty [heart](/positions/fideism) only serves to increase your anger.
+
+Her.
+
+Your fear insults my glory.
+
+You deserve the reward that my vows have promised you;
+
+I owe it to your victory.
+
+And give it to your emotions.
+
+HESIODE.
+
+What! You would be,? Oh heavens! Is it possible?
+
+O Muse, your divine gifts have fulfilled my wishes:
+
+Should I still hope that your sensitive soul.
+
+Will you deign to love a shepherd and share my fires?
+
+Her.
+
+The virtue of mortals determines their place among the gods.
+
+A pure soul, a tender and sincere heart.
+
+Are they the most precious possessions?
+
+And when one knows how to love at its best.
+
+One is most worthy of being pleasing.
+
+(to the shepherds.)
+
+Quiet down your jealous resentment.
+
+Bergers, gather together:
+
+Come and create the most joyful celebrations.
+
+I delight in your woods; I cherish your muskets.
+
+Recognize Euterpe, and celebrate her flames.
+
+Scene VII
+
+EGLÉ, HESIODE, THE SHEPHERDS, DORIS.
+
+CHORUS.
+
+Charming Muse, kind Muse,
+
+Who among us dares to place your tender wishes upon.
+
+Always be kind to us.
+
+You always preside over our games.
+
+(Dancing.)
+
+DORIS.
+
+Gods who rule over the earth.
+
+Everything responds to your voice.
+
+Gods who send forth thunder,
+
+Everything obeys your laws.
+
+From your brilliant glory,
+
+Of your brilliant greatness.
+
+Our hearts are not jealous:
+
+Other goods are made for us.
+
+United by sincere love,
+
+A shepherd, a shepherdess.
+
+Are they less happy than you?
+
+End of the first act.
+
+Scene I
+
+OVID.
+
+Cruel love, fatal flame,
+
+Must I still surrender my soul to you?
+
+Cruel love, fatal flame,
+
+Is Ovid's fate to always love?
+
+In these icy climates, deep within Scythia,
+
+Against your flames, is there no refuge at all?
+
+I am burning for her, oh beautiful one! For the young Érithie.
+
+For me, without her, there are no more beautiful days.
+
+Cruel love, and so on.
+
+At least complete your work.
+
+Submit Erithie in turn.
+
+Here, everything withers away without love.
+
+And yet, in her heart, she still does not know how to use it!
+
+These flowers in my gardens attract it every day.
+
+And through games I shall proceed. It is her—oh, what a sweet omen!
+
+I leave with reluctance; but soon, I will be following in my own footsteps again.
+
+Everything will speak to him in that language.
+
+Of the charming god whom she does not know.
+
+Scene II
+
+ÉRITHIE.
+
+It's all over then! In just a few moments.
+
+At her altars, Diane will receive my vows!
+
+Dear gardens, joyful groves,
+
+Alas! In my innocent games.
+
+You will no longer cast your shadows upon others!
+
+Birds, your enticing ravages.
+
+They will thus no longer enchant my senses!
+
+Vain splendor, intrusive greatness—
+
+Happy those who in the darkness.
+
+Has not been subjected to the whims of fate.
+
+Her happiness and her freedom!
+
+But what kind of concerts can be heard?
+
+What delightful sight comes to surprise me here?
+
+Scene III
+
+The statue of Love stands at the back of the theater, and the entire sequence from Ovid forms dances and songs around Erythie.
+
+CHORUS.
+
+Charming God, god of tender hearts.
+
+Rule forever, send forth your flames;
+
+Ah! What a delight it would be to flatter our souls.
+
+If there were no tender passions?
+
+Let us sing, let us never cease to celebrate its charms.
+
+That it occupies all our moments;
+
+This god does not use his weapons.
+
+That they might become happy lovers.
+
+The care, the tears, and the sighs.
+
+They are the tributes of his empire;
+
+But all the benefits he derives from it.
+
+He gives them to us through pleasures.
+
+(Dancing.)
+
+ÉRITHIE.
+
+What sweet concerts, what delightful celebration!
+
+How charming I find this new language!
+
+So then, what is this favorable god?
+
+(She looks at the statue.)
+
+Alas! He is just a child, but what an amiable child he is!
+
+Why this bow and this bandage?
+
+This quiver, these arrows, this torch?
+
+A man of the party.
+
+This frail child is the master of the world;
+
+Nature comes alive through its fruitful flame.
+
+And without it, the universe would perish along with us.
+
+Admit it, fair Érithie,
+
+A god created to rule over you;
+
+He desires your kind life.
+
+To make these moments more tender.
+
+Extend these legitimate rights.
+
+Of the most powerful of the immortals;
+
+All hearts will be its victims.
+
+When you serve at his altars.
+
+ÉRITHIE.
+
+These pleasant lessons are far too adept at pleasing me.
+
+But what exactly is this god about whom they want to talk to me?
+
+OVID.
+
+As the discreet keeper of its tenderest secrets,
+
+To you alone, in these places, must I reveal them.
+
+Scene IV
+
+ÉRITHIE, OVID.
+
+OVID.
+
+It is a pleasant mystery.
+
+Which of its charming possessions adds to its value?
+
+The more one listens to them, the better one becomes at keeping them silent.
+
+ÉRITHIE.
+
+I still do not know what such gentle goods might be.
+
+But I am eager to learn about it.
+
+OVID.
+
+Don’t you know? It’s all your own fault.
+
+In his very gaze, you should have already read it.
+
+ÉRITHIE.
+
+Your gaze. What a seductive poison there is in her eyes!
+
+Heavens! What a confused turmoil arises within my heart!
+
+OVID.
+
+Charming trouble, that my soul shares.
+
+You are the first tribute.
+
+May the kind-hearted Érithie have offered it to Love.
+
+ÉRITHIE.
+
+Love is thus that most formidable god!
+
+OVID.
+
+Love is that benevolent god.
+
+Let my burning heart announce it to you on this day.
+
+Let us reap the benefits that his efforts prepare for us:
+
+United by their bonds.
+
+ÉRITHIE.
+
+Alas! They are separating us!
+
+It is the duty assigned to me to tend to the temple of Diana.
+
+The entire people of Ithome wish to be witnesses to it.
+
+And from this day forth, I must.
+
+OVID.
+
+No, lovely Érithie,
+
+Even the peoples of Scythia themselves.
+
+They are subject to the victor whose laws we follow:
+
+We must soften their hearts; we must unite our voices.
+
+Are there any hearts that our love does not reach?
+
+If it can be explained in both ways at once.
+
+Through your tears and through my words?
+
+But we are approaching, we are coming. Love, for the sake of your glory.
+
+In a terrible exile, I must spend my days.
+
+At least let my incense preserve the memory.
+
+To my tender accents, grant your aid.
+
+Scene V
+
+Ovid, Erithie, a troupe of Sarmatians.
+
+CHORUS.
+
+Let us celebrate this brilliant glory.
+
+Of the forest goddess:
+
+Without care, without effort, and without waiting.
+
+We survive thanks to its benefits:
+
+Let us celebrate this charming beauty.
+
+Who will serve her now?
+
+That his hand has long been presented to him.
+
+The offerings of his subjects.
+
+(Dancing.)
+
+THE CHIEF OF THE SARMATIANS.
+
+Come here, beautiful Érithie.
+
+OVID.
+
+Ah! Please hear me out!
+
+For two tender lovers, the punishment shall be different:
+
+Or, if you carry out this cruel sacrifice.
+
+Look at all the tears you are going to make me cry.
+
+CHORUS.
+
+No, she is promised to Diane:
+
+Our commitments are like laws: they must be obeyed.
+
+Who could be sufficiently profane?
+
+To strip the gods of their rights!
+
+Ovid and Erithie.
+
+Even among the most powerful of gods, our hearts are meant to be shared.
+
+Our love is his creation.
+
+Are there any rights that are more sacred?
+
+Through unjust violence.
+
+The gods are not honored.
+
+Ah! If only your indifference.
+
+Despise our pains;
+
+To this god who brings us together.
+
+We swear to die together.
+
+So that our hearts are no longer separated.
+
+CHORUS.
+
+What secret emotion comes to soothe our souls?
+
+For these unfortunate lovers?
+
+By Love, they were destined for each other.
+
+May Love crown their flames!
+
+OVID.
+
+You fill my happiness; you are such a generous people.
+
+What price will be paid as recompense for this blessing?
+
+May you, through my efforts, through my gratitude.
+
+Learning how to become happy!
+
+Love calls you.
+
+Listen to his voice;
+
+That everything remain faithful.
+
+To its gentle laws.
+
+Goods whose use.
+
+It brings true happiness.
+
+The sweetest kind of sharing.
+
+It is a tender heart.
+
+End of the second act.
+
+Scene I
+
+Polycrates, Anacreon.
+
+Anacreon.
+
+The beauties of Samos at the feet of the goddess
+
+At your command, they will present their wishes today:
+
+But, my lord, if I believe the suspicion that presses upon me.
+
+Under this mysterious zeal
+
+Are you interested in a more gentle form of care?
+
+Polycrates.
+
+With tenderness, one cannot.
+
+To deceive the eyes of Anacreon.
+
+Yes, it is my gentlest inclination that leads me on:
+
+But I neither know where it is located nor what its name is.
+
+Of the object that binds me.
+
+Anacreon.
+
+I understand the need for this detour:
+
+<span class="qlang-split" data-lang="it"></span>
+
+(Dopo aver ballato, Esiodo si avvicina per discutere.)
+
+CORO.
+
+Oh, pastore! Lascia da parte questa lira inutile.
+
+Volete partecipare ai nostri giochi oggi stesso?
+
+ESIODE.
+
+Niente è impossibile per l’Amore.
+
+Non ho mai considerato l’arte come uno studio servile.
+
+E la mia voce ribelle.
+
+Non si è mai unita alle torce.
+
+Ma, nel successo che spero di ottenere,
+
+Aspetto tutto dal fuoco che mi illumina.
+
+E nulla dei miei deboli sforzi.
+
+CORO.
+
+Canta, audace pastore;
+
+Andremo ad ammirare i vostri nuovi miracoli.
+
+Inizia Esiodo.
+
+Bello fuoco che consumi la mia anima.
+
+Infondete nei miei canti la vostra divina passione.
+
+Portate nel mio cuore questa splendente fiamma.
+
+Non bruciate il mio cuore.
+
+CORO, che interrompe Esiodo.
+
+La sua lira cancella le nostre melodie semplici e tradizionali.
+
+Ah! Siamo sconfitti!
+
+Fuggiamo nelle nostre dimore solitarie.
+
+Scena VI
+
+ESIODE, Egle.
+
+ESIODE.
+
+Belle Églé. Ma, oh cielo, quali incanti sconosciuti!.
+
+Sei immortale, e io potrei essermi sbagliato!
+
+I vostri esseri celesti non avrebbero dovuto insegnarmelo?
+
+Solo agli dèi è concesso di sospirare per voi?
+
+Ahimè! In ogni istante, senza potermi difendere.
+
+Il mio troppo colpevole [cuore](/positions/fideism) aumenta la vostra ira.
+
+Ella.
+
+La tua paura offende, ma è la mia gloria.
+
+Meriti il premio che i miei giuramenti hanno promesso.
+
+Devo la mia vittoria a te.
+
+E le donne ai tuoi sentimenti.
+
+ESIODE.
+
+Che cosa! Voi sareste. Oh cielo! È possibile?
+
+O Muse, i tuoi doni divini hanno realizzato i miei desideri:
+
+Devo ancora sperare che la vostra anima sensibile.
+
+Permetti che ami un pastore e condivida il mio calore,?
+
+Ella.
+
+La virtù dei mortali determina il loro rango tra gli dèi.
+
+Un’anima pura, un cuore tenero e sincero.
+
+Sono i beni i più preziosi;
+
+E quando si sa come amare nel modo migliore.
+
+Si è i più degni di essere apprezzati.
+
+Ai pastori.
+
+Placate la vostra gelosia e il vostro risentimento.
+
+Bergers, radunatevi:
+
+Venite a creare le feste più gioiose.
+
+Mi piace stare nei vostri boschi, amo le vostre armi da caccia.
+
+Riconoscete Euterpe e celebrate i suoi fuochi.
+
+Scena VII
+
+ELE, ESIODE, I pastori, DORIS.
+
+CORO.
+
+Musa incantevole, musa affabile.
+
+Voi che qui vi degnate di esprimere i vostri teneri desideri tra noi.
+
+Rimani sempre favorevole a noi.
+
+Presiedi sempre i nostri giochi.
+
+(Ci si balla.)
+
+DORIS.
+
+Dèi che governate la terra.
+
+Tutto risponde alla vostra voce.
+
+Dèi che scatenate il tuono,
+
+Tutto obbedisce alle vostre leggi.
+
+Dalla vostra gloria splendente.
+
+Della vostra splendida grandezza.
+
+I nostri cuori non sono gelosi:
+
+Altri beni sono fatti apposta per noi.
+
+Uniti da un amore sincero,
+
+Un pastore, una pastora.
+
+Sono meno felici di voi?
+
+Fine della prima entrata.
+
+Scena I
+
+Ovidio.
+
+Amore crudele, fiamma funesta.
+
+Devo ancora abbandonarti la mia anima?
+
+Amore crudele, fiamma funesta.
+
+È destino di Ovidio amare per sempre?
+
+In questi climi gelidi, nelle profondità della Scizia.
+
+Non esiste alcun rifugio contro i tuoi fuochi?
+
+Ardo per lei, bella Érithie.
+
+Per me, senza di lei, non ci sono più giorni belli.
+
+Amore crudele, ecc.
+
+Almeno termina il tuo lavoro.
+
+Sottometti ora anche tu Érithie.
+
+Qui tutto appassisce senza amore.
+
+E ancora, nel suo cuore, ignora come utilizzarlo!
+
+Queste fiori nei miei giardini lo attirano ogni giorno.
+
+E attraverso dei giochi. È lei, oh dolce presagio!
+
+Mi allontano con riluttanza, ma presto qualcuno seguirà le mie orme.
+
+Tutto gli parlerà in quel linguaggio speciale.
+
+Del dio incantevole che lei non conosce.
+
+Scena II
+
+**ÉRITHIE.**
+
+Ecco fatto! Tra pochi momenti.
+
+Diana, ai suoi altari, riceverà i miei giuramenti!
+
+Giardini cari, campi fioriti e sorridenti.
+
+Ahimè, nei miei giochi innocenti.
+
+Non offrirete più la vostra ombra!
+
+Uccelli, i vostri seducenti rami.
+
+Non incanteranno più i miei sens.
+
+Splendore vano, maestosità invadente.
+
+Beati coloro che, nell’oscurità.
+
+Non è stato sottoposto al caso fortuito.
+
+La sua felicità e la sua libertà!
+
+Ma quali concerti si possono ascoltare?
+
+Qual spettacolo incantevole mi sorprende qui?
+
+Scena III
+
+La statua dell’Amore si erge in fondo al teatro, e l’intera sequenza delle opere di Ovidio viene utilizzata per creare danze e canti intorno a Erite.
+
+CORO.
+
+Dio incantevole, dio dei cuori teneri.
+
+Regna per sempre, scatena le tue fiamme;
+
+Eh! Che bene sarebbe per le nostre anime.
+
+Se non ci fossero queste tenere passioni,?
+
+Cantiamo, non smettiamo mai di celebrare i suoi incanti.
+
+Che occupi tutti i nostri momenti;
+
+Questo dio non utilizza le sue armi.
+
+Per diventare felici amanti.
+
+Gli affetti, i pianti e i sospiri.
+
+Sono i tributi del suo impero;
+
+Ma tutti i benefici che ne trae.
+
+Ci li restituisce attraverso i piaceri.
+
+(Ci si balla.)
+
+**ÉRITHIE.**
+
+Che dolci concerti, che piacevole festa!
+
+Che linguaggio nuovo e affascinante trovo!
+
+Qual è dunque questo dio favorevole?
+
+(Ella osserva la statua.)
+
+Ahimè, è solo un bambino, ma che bambino adorabile!
+
+Perché questo arco e questo nastro.
+
+Questo carico di frecce, queste balestre, questa torcia,?
+
+Un uomo della festa.
+
+Questo debole bambino è il padrone del mondo.
+
+La natura si anima attraverso la sua fiamma feconda.
+
+E l’univers, senza di lui, perirebbe insieme a noi.
+
+Riconosci, bella Érithie,
+
+Un dio creato per regnare su di voi;
+
+Vuole la vostra adorabile vita.
+
+Rendere i momenti più dolci.
+
+Estendete i diritti legittimi.
+
+Del più potente degli immortali.
+
+Tutti i cuori saranno sue vittime.
+
+Quando servirete i suoi altari.
+
+**ÉRITHIE.**
+
+Queste piacevoli lezioni sanno troppo bene come compiacermi.
+
+Ma quale è dunque questo dio di cui vogliono parlarmi?
+
+Ovidio.
+
+Depositario dei suoi segreti più dolci e riservati.
+
+Solo a voi, in questi luoghi, devo rivelarli.
+
+Scena IV
+
+**Érithie, Ovidio.**
+
+Ovidio.
+
+È un delizioso mistero.
+
+Di quali dei suoi meravigliosi beni si compone il prezzo?
+
+Più li si ascolta, meglio si impara a tacerli.
+
+**ÉRITHIE.**
+
+Non so ancora quali siano i beni così dolci.
+
+Ma ho una grande voglia di imparare al riguardo.
+
+Ovidio.
+
+Non lo sapevate? Incolpate solo voi stessi.
+
+Già nei vostri sguardi avreste dovuto leggerlo.
+
+**ÉRITHIE.**
+
+I vostri sguardi. Nei suoi occhi, quale veleno seducente!
+
+Dio! Che caos confuso si solleva nel mio cuore.
+
+Ovidio.
+
+Delizioso tormento che la mia anima condivide.
+
+Sei il primo omaggio che ricevo.
+
+Che la gentile Érithie abbia offerto all’Amore.
+
+**ÉRITHIE.**
+
+Quindi l’Amore è davvero questo dio così temibile!
+
+Ovidio.
+
+L’Amore è quel dio favorevole.
+
+Che il mio cuore infuocato vi annunci oggi.
+
+Godiamoci i benefici che la sua azione ci prepara.
+
+Uniti dai suoi legami.
+
+**ÉRITHIE.**
+
+Ahimè, ci stanno separando!
+
+Del tempio di Diana mi è stato affidato l’incarico di custodirlo.
+
+Tutto il popolo di Ithome desidera esserne testimone.
+
+E da questo giorno in poi devo.
+
+Ovidio.
+
+No, incantevole Érithie.
+
+Anche i popoli stessi della Scizia.
+
+Sono soggetti al vincitore, e seguiamo le sue leggi.
+
+Dobbiamo renderli più gentili, dobbiamo unire le nostre voci.
+
+Esistono cuori che il nostro amore non riesce a toccare?
+
+Se si spiega in entrambi i modi.
+
+Attraverso le tue lacrime e attraverso la mia bocca?
+
+Ma ci avviciniamo, stiamo arrivando. Amore, per la tua gloria.
+
+Devo trascorrere i miei giorni in un esilio terribile.
+
+Almeno conserva nella mia memoria questo incenso.
+
+Ai miei teneri accenti, concedi la tua assistenza.
+
+Scena V
+
+Ovidio, Erite, truppa di Sarmati.
+
+CORO.
+
+Celebriamo la gloria splendente.
+
+Della dea delle foreste:
+
+Senza cure, senza fatica e senza attesa.
+
+Sopravviviamo grazie ai suoi benefici.
+
+Celebriamo la bellezza incantevole.
+
+Chi ora la servirà.
+
+Che la sua mano gli sia per lungo tempo stata vicina.
+
+Le offerte dei suoi sudditi.
+
+(Ci si balla.)
+
+Il capo dei Sarmati.
+
+Vieni, bella Érithie.
+
+Ovidio.
+
+Ah! Vi prego, ascoltatemi!
+
+Distinguiamo la punizione di due teneri amanti.
+
+Oppure, se completate questo crudele sacrificio.
+
+Guardate le lacrime che mi costerete.
+
+CORO.
+
+No, è promessa a Diana.
+
+I nostri impegni sono leggi.
+
+Chi potrebbe essere abbastanza profano.
+
+Per privare gli dèi dei loro diritti!
+
+Ovidio ed Eritia.
+
+Anche dal più potente degli dèi i nostri cuori sono divisi in parti uguali.
+
+Il nostro amore è il suo opera.
+
+Esistono diritti più sacri di altri?
+
+Attraverso una violenza ingiusta.
+
+Gli dèi non vengono onorati.
+
+Ah! Se solo la vostra indifferenza.
+
+Disprezza i nostri dolori.
+
+A questo dio che ci riunisce.
+
+Giuriamo di morire insieme.
+
+Per non separare più i nostri cuori.
+
+CORO.
+
+Qual sentimento segreto viene a lenire le nostre anime?
+
+Per questi infelici amanti?
+
+Per Amore erano destinati l’uno all’altro.
+
+Che l’Amore incoroni le loro fiamme!
+
+Ovidio.
+
+Riempite la mia felicità, popolo troppo generoso.
+
+Qual sarà il prezzo di questo benevolo gesto, quale la ricompensa?
+
+Permettetemi, con i miei sforzi e la mia gratitudine,
+
+Imparare ad essere felici!
+
+L’Amore vi chiama.
+
+Ascoltate la sua voce;
+
+Che tutto sia fedele alla realtà.
+
+Alle sue dolci leggi.
+
+Beni la cui utilizzazione.
+
+È ciò che porta vera felicità.
+
+Il più dolce dei doni.
+
+È un cuore gentile e tenero.
+
+Fine della seconda entrata.
+
+Scena I
+
+Policleto, Anacreonte.
+
+Anacreonte.
+
+Le bellezze di Samo ai piedi della dea
+
+Su vostra ordinazione, oggi presenteranno i loro desideri:
+
+Ma, signore, se do retta al sospetto che mi assale.
+
+Sotto questo zelo misterioso.
+
+Vi interessa un trattamento più delicato?
+
+Policleto.
+
+Non si può, sulla tenerezza.
+
+Ingannare gli occhi di Anacreonte.
+
+Sì, la mia inclinazione più dolce mi spinge in quella direzione:
+
+Ma ignoro sia la durata del soggiorno che il nome.
+
+Dell’oggetto che mi lega.
+
+Anacreonte.
+
+Comprendo perfettamente questo giro lungo.
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Parmi tant de beautés vous espérez connaître
@@ -1649,3 +3879,1039 @@ Est bientôt le maître.
 Et rit à son tour.
 
 FIN des MUSES GALANTES.
+
+<span class="qlang-split" data-lang="en"></span>
+
+Amidst so much beauty, you hope to come to know it all.
+
+That one whose charms have captivated your love;
+
+But this love, at last.
+
+Polycrates.
+
+For a moment, it was born:
+
+It was during those wonderful games.
+
+Where my happy successes are celebrated by your lyre.
+
+Anacreon.
+
+That day, I remember, I fell in love.
+
+Of the young Thémire.
+
+Polycrates.
+
+Well! Always new troubles?
+
+Anacreon.
+
+With such beautiful eyes, my heart easily yields.
+
+It changes just as easily as well:
+
+Love follows upon love.
+
+Only the taste of pleasure reigns there constantly.
+
+Polycrates.
+
+Soon, a gentle victory.
+
+Has it surely enslaved his heart?
+
+Anacreon.
+
+This triumph lacks to my glory, And this pleasure completes my happiness.
+
+Polycrates.
+
+But we are coming. What a feast!
+
+Ah! The wisest hearts.
+
+Seeing so many attractions, one must surely fear the chains that come with them.
+
+Anacreon.
+
+Juno, on this beautiful day, the tenderest tributes.
+
+They are not those that will be offered to you.
+
+Scene II
+
+Polycrates, Anacreon.
+
+The Young Sami Ensemble, who come to pay their respects to the goddess.
+
+Hymn to Juno.
+
+Queen of the gods, mother of the universe.
+
+You, through whom all things breathe.
+
+Who shall conquer this empire?
+
+Of all your most cherished possessions,
+
+O Juno, behold these offerings:
+
+Our hearts, which you desire.
+
+They will introduce them to you.
+
+May your benevolent hands.
+
+With our innocent hands.
+
+May they be willing to accept them.
+
+(Dancing.)
+
+Thémire, carrying a basket of flowers, enters the temple at the head of the young Samian women.
+
+Polycrates, spotting Thémire.
+
+Oh, happiness!
+
+Anacreon.
+
+What extreme pleasure!
+
+Polycrates.
+
+What charming features! What enchanting looks!
+
+Anacreon.
+
+Ah! How gracefully she carries these flowers!
+
+Polycrates.
+
+These flowers! What do you think? It is beauty that I love.
+
+Anacreon.
+
+It is Thémire herself.
+
+Polycrates.
+
+A too dear friend, a too dangerous rival.
+
+Ah! How I fear your formidable flames!
+
+Put an end to this martyrdom caused by my restless heart;
+
+Direct your fleeting desires toward other pleasures.
+
+Let me experience these pleasures.
+
+To love you always, and to adore Thémire.
+
+Anacreon.
+
+If my passion were voluntary.
+
+I would immolate it on the spot:
+
+But the love in my heart is none the less sincere.
+
+In order not to remain constant at all times.
+
+Glory and greatness, according to your desires.
+
+You promise the most beautiful days:
+
+But what would I do with life?
+
+Without pleasures, without loves?
+
+Polycrates.
+
+Ah! What good will your futile resistance be to you?
+
+Ingrat, avoid my presence.
+
+Anacreon.
+
+You will calm this unjust anger;
+
+He is not worthy of you enough.
+
+Scene III
+
+Polycrates.
+
+Jealous transports, torments that I detest.
+
+Ah! Must I submit to your sad and furious outbursts?
+
+Must there always be such a terrible rage?
+
+To inspire hatred and its horrors with love?
+
+Cruel Amour, your fatal power.
+
+It divides more hearts than it unites.
+
+She doesn’t put any intelligence into it at all.
+
+I see Thémire: oh, what enchanting delights!
+
+Scene IV
+
+Polycrates, Thémire.
+
+Polycrates.
+
+Thémire, seeing your resistance is futile.
+
+Everything yields to your conquering charm.
+
+Happy is that lover whose tender passions burn brightly.
+
+You will make others share this chain.
+
+What you bestow upon all hearts!
+
+THÉMIRE.
+
+I flee from sighs and languors.
+
+The care, the torment, the alarms:
+
+A pleasure that comes at the cost of tears.
+
+It will never possess any charm for me.
+
+Polycrates.
+
+It is a torment to love nothing at all.
+
+It is an agonizing torment to love without any hope:
+
+But it is a supreme good.
+
+It is to love each other with intelligence.
+
+THÉMIRE.
+
+No, I even fear those bonds that are formed through love.
+
+Polycrates.
+
+Ah! At least know the good things that he has prepared for you.
+
+You owe the rest of today to Junon.
+
+Tomorrow, an illustrious conquest.
+
+It is promised to you during this stay.
+
+Scene V
+
+THÉMIRE.
+
+He concealed his rank from me; I pretended in return.
+
+Polycrates offers me his homage.
+
+Who would fulfill such ambition:
+
+A gentler fate flatters me even more.
+
+And in secret, my heart loves Anacreon.
+
+Upon the flowers, with a light wing.
+
+One can see the zephyrs dancing about:
+
+Just like them, with a fleeting intensity.
+
+I revel in pleasures.
+
+A formidable chain.
+
+I want to protect my heart.
+
+Love would amuse me just like a kind child would.
+
+I fear him like a proud victor.
+
+Scene VI
+
+Anacreon, Thémire.
+
+Anacreon.
+
+Belle Thémire, at last, the king returns your arms to you.
+
+The confessions of all hearts give me permission to confess mine as well:
+
+If love were to infuse your charms.
+
+They would have nothing left to lack.
+
+THÉMIRE.
+
+You are announcing it to me through this indifference.
+
+How indifferent such a choice would seem to you.
+
+Who sees a rival without fear
+
+It is not far from being fickle.
+
+Anacreon.
+
+You are causing a cruel insult to my passion.
+
+You are mainly targeting my sincerity.
+
+Even in love.
+
+I speak the truth;
+
+And when I no longer love, I no longer say that I love.
+
+THÉMIRE.
+
+When one exudes extreme fervor.
+
+There was less tranquility.
+
+Anacreon.
+
+Thémire, judge my loyalty more fairly.
+
+Ah! How much madness there is in the heart of a lover.
+
+To love and then hate in turn!
+
+What he gives to jealousy.
+
+I dedicate it entirely to love.
+
+THÉMIRE.
+
+I fear what it costs to become too tender.
+
+No, love in people’s hearts brings too much suffering.
+
+Anacreon.
+
+If winter devastates our fields,
+
+Is it up to Flore to defend them?
+
+If there are evils for lovers,
+
+Should we blame Love for this?
+
+Without the snow and the storms,
+
+Without the winds and their devastation,
+
+Flowers would bloom at any time*.
+
+Without that cold indifference,
+
+Without any resistance at all.
+
+All hearts would be satisfied.
+
+THÉMIRE.
+
+You seem to take great pride in being fickle.
+
+If I [form](/positions/realism_of_ideas) knots, I want them to be permanent.
+
+Anacreon.
+
+The excess of my fervor is a even more worthy tribute.
+
+What about the fidelity of ordinary lovers?
+
+It is better to love more deeply.
+
+And not to have loved for such a long time.
+
+THÉMIRE.
+
+No, nothing can secure a lover so fickle.
+
+Anacreon.
+
+No, nothing can compensate for such charming transportation.
+
+THÉMIRE.
+
+You seduce rather than convince.
+
+I see Terror, and I allow myself to be overcome by it.
+
+Ah! Deceive me for a long time with these tender words.
+
+The illusion that brings pleasure should last forever.
+
+Anacreon.
+
+It is by passing through your hope that.
+
+Let me pretend from now on that I am deceiving you.
+
+You will have to endure my fickleness.
+
+And you will never experience it.
+
+(together.)
+
+United by the same desires,
+
+Let us unite our fate with yours.
+
+Always faithful to pleasures,
+
+We must be that to one another.
+
+Scene VII
+
+Polycrates, Thémire, Anacreon.
+
+Polycrates.
+
+Remain, Anacreon; I lay aside my wrath.
+
+And for a moment, wishes to be equal to myself.
+
+I will not abuse my supreme power:
+
+Let Thémire decide and choose between us.
+
+(to Thémire.)
+
+Tell me which knots your soul prefers.
+
+Feel free to name them:
+
+I swear to confirm the choice you will make.
+
+THÉMIRE.
+
+I fully understand the value of bringing you joy.
+
+If I dared to indulge in it; yet on this day.
+
+Lord, you might think.
+
+That I give everything for the sake of glory;
+
+I want to give everything to love.
+
+Forgive my heart for its invincible inclination.
+
+Polycrates.
+
+That’s enough. I give up at this point.
+
+Come on, unite together: I am capable of being sensitive too.
+
+But I shall not forget my glory and my oath.
+
+THÉMIRE and ANACREON.
+
+A worthy example of kings, whose hearts are marked by fairness.
+
+Triumph over oneself, as our flames are crowned thereby.
+
+May heaven always grant fulfillment to all your wishes!
+
+May your reign be one of kindness and benevolence.
+
+By a constant happiness that will be remembered forever.
+
+Eternalize your happy days.
+
+Polycrates to Anacreon.
+
+Begin to fulfill such a charming prophecy;
+
+Return to my favor, do not leave my court;
+
+May at least friendship compensate for it.
+
+Disgraces of love.
+
+May everyone celebrate this feast.
+
+The fortunate Anacreon sees his desires fulfilled:
+
+Come, sing of his conquests.
+
+Just as he sang of your pleasures.
+
+Scene VIII
+
+Anacreon, Thémire, and the people of Samos.
+
+CHORUS.
+
+May everyone celebrate this feast.
+
+The fortunate Anacreon sees his desires fulfilled:
+
+Let us hasten and sing of his conquests.
+
+Just as he sang about our pleasures.
+
+(Dancing.)
+
+Anacreon, alternating with the chorus.
+
+Games, shine forever:
+
+Without your tenderness
+
+It would linger on forever.
+
+As a most tender tribute.
+
+A gentle flirtatious exchange
+
+Provide assistance.
+
+(Dancing.)
+
+When, in order to please the beautiful.
+
+One can see around them.
+
+To frolic with Love.
+
+In their hearts, the traitor.
+
+The master will arrive soon.
+
+And she laughed in turn.
+
+End of the Gallant Muses.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tra tante bellezze, sperate di poterle conoscere tutte.
+
+Lei, la cui bellezza ha suscitato il vostro amore.
+
+Ma questo amore, finalmente.
+
+Policleto.
+
+Un istante fu sufficiente perché nascesse.
+
+Fu in quei meravigliosi giochi.
+
+Dove i miei felici successi sono stati celebrati dalla tua lira.
+
+Anacreonte.
+
+Quel giorno, me ne ricordo ancora, mi innamorai.
+
+Di giovane Temira.
+
+Policleto.
+
+Ebbene! Sempre nuovi incendi.
+
+Anacreonte.
+
+Con bei occhi, facilmente il mio cuore si arrende.
+
+Anche esso cambia con la stessa facilità:
+
+L’amore segue l’amore.
+
+Vi regna costantemente soltanto il desiderio di godere.
+
+Policleto.
+
+Ben presto, una dolce vittoria.
+
+Ti ha sicuramente sottomesso il suo cuore.
+
+Anacreonte.
+
+Questo trionfo manca alla mia gloria, E questo piacere manca alla mia felicità.
+
+Policleto.
+
+Ma sta arrivando. Che delizia!
+
+Ah! I cuori più saggi.
+
+Di fronte a tanti attratti, devono temere le catene.
+
+Anacreonte.
+
+Giunone, in questo bel giorno, i più teneri omaggi.
+
+Non sono quelli che ti verranno offerti.
+
+Scena II
+
+Policleto, Anacreonte.
+
+Truppe giovanili sami della UE, che vengono a rendere omaggio alla dea.
+
+Inno a Giunone.
+
+Regina degli dei, madre dell’universo.
+
+Tu, attraverso cui tutto respira.
+
+Chi distrugge questo impero.
+
+Tra i tuoi beni più preziosi.
+
+Giunone, guarda queste offerte:
+
+I nostri cuori, che tu chiedi.
+
+Ti le presenteranno.
+
+Che le tue mani benevole.
+
+Dalle nostre mani innocenti.
+
+Che abbiano la gentilezza di accettarli.
+
+(Ci si balla.)
+
+Thémire, portando un cestino di fiori, entra nel tempio alla testa delle giovani Samine.
+
+Policleto, avvistando Temira.
+
+Che felicità!
+
+Anacreonte.
+
+Che piacere estremo!
+
+Policleto.
+
+Che tratti affascinanti! Che sguardi incantevoli!
+
+Anacreonte.
+
+Ah! Con quale grazia indossa queste fiori!
+
+Policleto.
+
+Queste fiori! Che ne pensate? È la bellezza che amo.
+
+Anacreonte.
+
+È proprio Thémire stessa.
+
+Policleto.
+
+Caro amico, rivale troppo pericoloso.
+
+Ah! Quanto temo i tuoi terribili fuochi!
+
+Ponga fine al martirio del mio cuore agitato.
+
+Conduci i tuoi desideri fugaci verso altre mete.
+
+Lasciami assaporare questi piaceri.
+
+Amarti per sempre e adorare Thémire.
+
+Anacreonte.
+
+Se la mia fiamma fosse volontaria.
+
+Lo sacrificherei all’istante:
+
+Ma l’amore nel mio cuore non è certo meno sincero.
+
+Per non essere sempre costante.
+
+La gloria e la grandezza, secondo i vostri desideri.
+
+Promettete i giorni più belli.
+
+Ma cosa farei della vita.
+
+Senza i piaceri, senza gli amori?
+
+Policleto.
+
+Eh! A cosa ti servirà questa tua inutile resistenza?
+
+Ingrate, evita la mia presenza.
+
+Anacreonte.
+
+Placcherete questa ingiusta ira.
+
+Non è abbastanza degno di voi.
+
+Scena III
+
+Policleto.
+
+Trasporti gelosi, tormenti che odio.
+
+Ah! Devo forse subire le vostre tristi furie?
+
+Deve sempre esserci una rabbia funesta.
+
+Ispirare, con l’amore, l’odio e le sue orrori?
+
+Amore crudele, la tua potenza fatale.
+
+Non unisce più i cuori.
+
+Ci mette davvero molto ingegno in ciò che fa.
+
+Vedo Thémire. Oh, meravigliosi sentimenti!
+
+Scena IV
+
+Policleto, Temire.
+
+Policleto.
+
+Thémire, vedendoti, so che ogni resistenza è inutile.
+
+Tutto cede ai vostri irresistibili fascini.
+
+Beato l’amante le cui tenere passioni.
+
+Faranno condividere la catena.
+
+Che dono offrite a tutti i cuori!
+
+TÉMIRE.
+
+Fuggo dai sospiri, dalle languidezze.
+
+Gli affanni, le sofferenze, le preoccupazioni.
+
+Un piacere che costa lacrime.
+
+Per me non avrà mai alcun fascino.
+
+Policleto.
+
+È un tormento non amare nulla.
+
+È un tormento terribile amare senza speranza:
+
+Ma esiste un bene supremo.
+
+È amarsi con intelligenza.
+
+TÉMIRE.
+
+No, temo persino que i legami creati dall’amore possano rivelarsi insidiosi.
+
+Policleto.
+
+Ah! Almeno conoscete i beni che vi prepara.
+
+Dovete dedicare il resto di questa giornata a Giunone:
+
+Domani una gloriosa conquista.
+
+Vi è promesso qualcosa durante questo soggiorno.
+
+Scena V
+
+TÉMIRE.
+
+Mi nascondeva il suo rango; anch’io fingevo allo stesso modo.
+
+Policrate mi rende omaggio.
+
+Chi potrebbe soddisfare questa ambizione?
+
+Un destino più dolce mi lusinga ancora di più.
+
+E nel segreto del mio cuore amo Anacreonte.
+
+Sulle fiori, con un leggero movimento delle ali.
+
+Si vedono i zefiri volteggiare nell’aria.
+
+Come loro, con un ardore passeggero.
+
+Volo tra i piaceri.
+
+Di una catena terribile.
+
+Voglio preservare il mio cuore.
+
+L’amore mi divertirebbe come un bambino gentile e affettuoso.
+
+Lo temo come un fiero vincitore.
+
+Scena VI
+
+Anacreonte, Temire.
+
+Anacreonte.
+
+Belle Thémire, finalmente il re vi restituisce le armi.
+
+L’confessione di tutti i cuori autorizza la mia.
+
+Se fosse l’amore ad alimentare i vostri fascini.
+
+Non gli mancherebbe più nulla.
+
+TÉMIRE.
+
+Con questa vostra indifferenza, mi state annunciando.
+
+Quanto sembrerebbe equo tale scelta, a vostro parere.
+
+Chi vede senza difficoltà un rivale.
+
+Non è lontano dall’incostanza.
+
+Anacreonte.
+
+Commettete un atto di crudeltà verso la mia passione.
+
+Lo fate soprattutto a causa della mia sincerità.
+
+Anche nell’amore.
+
+Dico la verità.
+
+E quando non amo più, non dico più di amare.
+
+TÉMIRE.
+
+Quando si prova un’ardore estremo.
+
+C’è meno tranquillità.
+
+Anacreonte.
+
+Thémire, giudicate meglio la mia fedeltà.
+
+Ah! Quanta follia possiede un amante.
+
+Amare e odiare alternativamente.
+
+Quello che dà alla gelosia.
+
+Lo dono interamente all’amore.
+
+TÉMIRE.
+
+Temo ciò che comporti diventare troppo teneri.
+
+No, l’amore nei cuori provoca troppi tormenti.
+
+Anacreonte.
+
+Se l’inverno devasta i nostri campi.
+
+È forse a Flora il compito di difenderli?
+
+Se esistono mali per gli innamorati.
+
+Dovremmo incolpare l’Amore?
+
+Senza la neve e i temporali,
+
+Senza i venti e i loro flagelli,
+
+I fiori nascerebbero in qualsiasi momento*.
+
+Senza quella fredda indifferenza.
+
+Senza alcuna resistenza.
+
+Tutti i cuori sarebbero felici.
+
+TÉMIRE.
+
+Vi compiacciate di essere incostanti.
+
+Se creo dei nodi, voglio che siano stabili e inalterabili.
+
+Anacreonte.
+
+L'eccesso della mia passione rappresenta un omaggio ancora più degno.
+
+Che la fedeltà degli amanti comuni.
+
+È meglio amare di più.
+
+E non amare per così tanto tempo.
+
+TÉMIRE.
+
+No, nulla può legare un amante così incostante.
+
+Anacreonte.
+
+No, nulla può eguagliare la bellezza di trasporti così incantevoli.
+
+TÉMIRE.
+
+Seducete piuttosto che convincere.
+
+Vedo la Paura, e mi lascio sconfiggere da essa.
+
+Ah! Ingannami a lungo con queste dolci parole.
+
+L’illusione che ci piace dovrebbe durare per sempre.
+
+Anacreonte.
+
+È attraverso la vostra speranza.
+
+Che ora pretenda di ingannarvi.
+
+Aspetterete la mia incostanza.
+
+E non lo proverete mai.
+
+(tutti insieme.)
+
+Uniti dagli stessi desideri,
+
+Uniamo il mio destino al vostro.
+
+Sempre fedeli ai piaceri.
+
+Dovremmo esserlo l’uno per l’altro.
+
+Scena VII
+
+Policleto, Temire, Anacreonte.
+
+Policleto.
+
+Rimani, Anacreonte; sospendo la mia ira.
+
+E desidero, per un momento solo, essere alla tua stessa altezza.
+
+Non abuserò del mio potere supremo:
+
+Che Thémire decida e scelga tra di noi.
+
+(a Thémire.)
+
+Dite quali siano i nodi che la vostra anima preferisce.
+
+Non esitate affatto a nominarli:
+
+Giuro di confermare la scelta che farete.
+
+TÉMIRE.
+
+Conosco appieno il valore della felicità di piacervi.
+
+Se osassi impegnarmi in ciò. Tuttavia, in questo giorno.
+
+Signore, potreste crederci.
+
+Che doni tutto alla gloria.
+
+Voglio dare tutto all’amore.
+
+Perdonate il mio cuore per questa inclinazione invincibile.
+
+Policleto.
+
+Basta così. In questo momento mi arrendo.
+
+Andate, unitevi: anch’io posso essere sensibile.
+
+Ma non dimenticherò mai la mia gloria e il mio giuramento.
+
+TÉMIRE e ANACREONE.
+
+Esempio degno dei re, i cui cuori sono imparziali e giusti.
+
+Trionfo su se stessi, coronando i nostri desideri più ardenti.
+
+Che il cielo possa sempre esaudire tutti i vostri desideri!
+
+Che il vostro regno pieno di amore.
+
+Per una felicità costante e per sempre memorabile.
+
+Eternizza i tuoi giorni felici.
+
+Policleto ad Anacreonte.
+
+Inizia ad attuare un presagio così incantevole.
+
+Vieni in mio favore, non lasciare mai la mia corte.
+
+Che almeno l’amicizia possa compensarmi.
+
+Disgrazie d’amore.
+
+Che tutti celebrino questa festa.
+
+Il felice Anacreonte vede i suoi desideri realizzarsi:
+
+Venite, cantate la sua vittoria!
+
+Come ha cantato i vostri piaceri.
+
+Scena VIII
+
+Anacreonte, Temire, popoli di Samo.
+
+CORO.
+
+Che tutti celebrino questa festa.
+
+Il felice Anacreonte vede i suoi desideri realizzarsi:
+
+Corriamo, cantiamo la sua vittoria!
+
+Come ha cantato i nostri piaceri.
+
+(Ci si balla.)
+
+Anacreonte, alternatamente con il coro.
+
+“Jeu, brillate senza sosta, ”
+
+Senza la tua tenerezza.
+
+Continuerebbe sempre ad agonizzare.
+
+Con il più tenero omaggio.
+
+Una dolce scherzosa conversazione.
+
+Presta aiuto.
+
+(Ci si balla.)
+
+Per compiacere le belle.
+
+Si può osservare intorno a loro.
+
+Distraere l’Amore.
+
+Nel loro cuore, il traditore.
+
+Sta per arrivare il padrone.
+
+E a sua volta torna indietro.
+
+Fine delle Muse Galanti.

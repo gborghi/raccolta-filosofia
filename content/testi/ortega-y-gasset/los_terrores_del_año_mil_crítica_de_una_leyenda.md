@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Defective extract: only 27 words, the title-page caption of the 1904 doctoral dissertation. The actual text is absent from the digest, so content cannot be tagged.
+> A 27-word fragment with no sample in the digest: effectively a title only (in all likelihood the heading of a historical study of the terrors of the year 1000). Nothing can be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to 'Sancho Quijano', who had attributed to him the doctrine of a healthy vital nation opposed to a corrupt state and charged him with ignoring that Spanish public life today is what it always was. Ortega answers by quoting España invertebrada, where he argues that Spanish decadence has no accidental causes and stretches across the whole modern age: the objection thrown at him coincides with his own thesis. Literary polemic.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

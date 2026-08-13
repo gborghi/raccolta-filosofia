@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A passage from a political lecture on Antonio Maura: behind him there is a reality — the uncultured, 'hysterical' part of Spain, the inert weight of centuries — but that does not make him one; Maura is the typical figure of Restoration politics, defender of the parties' rotation and of Spain as a question of public order. Political polemic.
+
+## Connections
+
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

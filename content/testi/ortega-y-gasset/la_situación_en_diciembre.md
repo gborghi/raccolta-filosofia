@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Political chronicle: the Canalejas government was manufacturing time without keeping its promises when the premier was assassinated at the Puerta del Sol. Ortega notes the crudity of Spanish politicians' reactions to the killing and how quickly the event was forgotten, since Spain owes that statesman little.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

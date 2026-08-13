@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Political column: a nascent regime that does not triumph in the economy has no future; a plan of economic reforms led by experts is needed, given the elastic interweaving of production and consumption. Topical commentary.
+> A 283-word text; the digest carries neither structure nor sample (atoms: 0), so its content cannot be judged. Left untagged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A correction of misquotations: against those claiming he had recanted, Ortega retranscribes passages of his 1914 lecture Vieja y nueva política on official Spain as «the skeleton of an evaporated organism» and on the vital Spain still barred from entering history. A polemical self-citation note.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

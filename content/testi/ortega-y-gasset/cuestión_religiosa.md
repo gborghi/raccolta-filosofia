@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Argues the State must be rigorously secular — secular meaning not atheist but simply national — since the Church's political privileges were anti-national. It faults Republican legislators for giving ecclesiastical policy an aggressive edge: the dominance of state schooling is won by efficacy, not by legal thunderbolts.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/toleration|tolleranza]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/religion|religione]], [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

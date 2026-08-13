@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from the false idea Europe formed of the United States, Ortega develops a theory of ideas as schemata for handling things (with a critique of pragmatism, whose error is to reduce what we deal with to the perceptible) and concludes that to live is to face the oncoming circumstance and interpret it: 'living is a work of imagination', possible for man thanks to memory.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]], [[assi/reality_status|Statuto del reale]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]]  
+**Concetti:** [[concepts/idea|idea]], [[concepts/experience|esperienza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -66,7 +75,7 @@ L'uomo è l'unico vivente che per vivere ha bisogno di darsi ragioni di esistere
 
 Si supponga un uomo che ha esercitato un enorme sforzo per riuscire a creare qualcosa. Da dove è sgorgato quello sforzo? Evidentemente dalla fede che aveva nel valore di quel qualcosa e dalla convinzione che soltanto mediante quello sforzo si potesse conseguirla. Ma ecco che all'improvviso, accanto a lui, un altro uomo riesce a creare un'altra cosa ancora migliore e con una pienezza, con una semplicità e precisione di mezzi, soprattutto, con una facilità e sicurezza radicalmente superiori. Non c'è dubbio che questa scoperta produrrà completo scoramento nel primo. Con sforzo incomparabilmente maggiore, ha ottenuto soltanto un risultato incomparabilmente inferiore. Questo lascerà in lui l'impressione di non poter più lottare, di essersi sbagliato e che quell'altro uomo appartenga a una specie qualitativamente distinta per la quale, naturalmente, non esistono le difficoltà e i problemi in cui restò sepolto il suo sforzo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,assi/reality_status,positions/radical_reality_of_life,concepts/idea,concepts/experience,forms/essay"></span>
 
 Pues éste ha sido el estado espiritual de Europa durante unos años frente a los Estados Unidos. Creyó ver que un pueblo joven, sin necesidad de larga preparación, de angustias, de luchas, conseguía crear un tipo de vida nueva, dentro del cual quedaban eliminados casi todos los azares, fallas y lacras que los conocidos hasta ahora habían siempre arrastrado. Imagen tal disminuía automáticamente la idea heroica de sí mismo que durante siglos había mantenido al europeo en la brecha de las esforzadas creaciones. Tenía que perder fe en su obra y en sus propias cualidades. Seres de condición nativamente superior venían a implantar una vida nueva, cuyo nivel inferior se hallaba desde luego muy por encima de toda la historia humana antecedente. Era inevitable que Europa, comparando su realidad con esa imagen del norteamericano, se sintiese como un definitivo e irremediable pasado. Se vive, decía yo, de la idea que uno tiene de sí mismo, pero en ésta interviene siempre, más o menos, la idea que tengamos de los demás. Si de los demás tenemos una idea demasiado buena, cuanto somos o hacemos nosotros nos parecerá despreciable, y este desprecio reflejo, actuando hora tras hora sobre nosotros, acabará por aflojar nuestra tensión vital.
 

@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A dispatch from Berlin (El Imparcial, November 1905) on Alfonso XIII's visit to the Kaiser: the gala dinner, crowds on the pavements, policemen everywhere, the recruits' oath in the Lustgarten. Newspaper reportage, with no philosophical content.
 

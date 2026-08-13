@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial against the Dato government during the European war: the premier's bloodless figure stands for the collapse of Spain's collective will, and the parties have squandered the chance to spend on internal restoration the energy other nations are spending on war. "Enthusiasm and competence" are named as the alpha and omega of the new politics. Occasional political journalism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

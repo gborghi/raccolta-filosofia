@@ -6,7 +6,7 @@ label_en: "religion"
 aliases:
   - "culto"
   - "worship"
-work_count: 68
+work_count: 67
 tags:
   - "graph/concept"
 title: "religione"
@@ -15,7 +15,7 @@ title: "religione"
 
 *religion*
 
-## Opere (68)
+## Opere (67)
 
 **Aristotle**
 - [On the Universe (391a)](/testi/aristotle/on_the_universe_391a)
@@ -76,7 +76,6 @@ title: "religione"
 - [Zur Kritik der Hegelschen Rechtsphilosophie](/testi/marx/zur_kritik_der_hegelschen_rechtsphilosophie)
 
 **Ortega y Gasset**
-- [A la mayor gloria de Dios](/testi/ortega-y-gasset/a_la_mayor_gloria_de_dios)
 - [Caracterización de la monarquía](/testi/ortega-y-gasset/caracterización_de_la_monarquía)
 - [Catecismo para la lectura de una carta](/testi/ortega-y-gasset/catecismo_para_la_lectura_de_una_carta)
 - [Cuestión religiosa](/testi/ortega-y-gasset/cuestión_religiosa)

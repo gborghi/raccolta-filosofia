@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The founding manifesto of the Agrupación al Servicio de la República: the traditional Spanish state is decomposing through its own vices, and the Sagunto monarchy never became a nationalised institution but an association of particular groups living parasitically on the nation. Against fascism and bolshevism, which lead into dead ends, it calls for a Republic resting on the free and enthusiastic collaboration of every citizen.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/manifesto|manifesto]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

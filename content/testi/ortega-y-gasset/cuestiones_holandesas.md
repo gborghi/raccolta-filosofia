@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Notes from a lecture tour of Holland (Rotterdam, Delft, Leiden, Amsterdam, The Hague, with Huizinga): every people is a stubborn attempt to live on certain assumptions, and the traveller's assertions should be read as questions. He breaks with the zoological notion of race: man has no fixed being, all he is he has become, and race is merely consolidated history; he adds that the intellect is as mechanical as digestion.
+
+## Connections
+
+**Assi:** [[assi/time_and_death|Tempo e morte]]  
+**Posizioni:** [[positions/historicity|storicità]]  
+**Concetti:** [[concepts/reason|ragione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +129,7 @@ Ma in Olanda va tutto il mondo in bicicletta, qualunque sia la sua età, il suo 
 
 Al giungere qui il nostro intelletto, lottando dialetticamente con sé stesso, si fa questa obiezione: non sarà che considero naturale e corretto semplicemente ciò che mi è abituale, ciò che ho visto negli altri popoli? Perché non ha da essere l'Olanda il popolo eletto dal dio delle biciclette, quello a cui è stato rivelato il suo più autentico destino?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/time_and_death,positions/historicity,concepts/reason,forms/essay"></span>
 
 A este puñetazo lógico nuestro intelecto se responde a sí mismo con cierta impaciencia enojada: ¡Ah, no! ¡Nada de eso! No es sólo cuestión de hábito: no se trata sólo de dos comportamientos, uno a que estamos, por azar, acostumbrados y otro insólito que, nada más por serlo, nos perturba. Si analizamos nuestra extrañeza, vemos que se nutre de razones nada accidentales. Que personas de edad y volumen caminen en bicicleta constantemente en medio del tráfago de una gran ciudad es estúpidamente arriesgado, es injustificadamente fatigoso y es… deplorablemente antiestético. La línea fina de la bicicleta no tolera, sin que sufra la estética, ser encargada de sostener la mole de una abundante señora cincuentona o de un magistrado bebedor de cerveza. Esto no es accidental ni es habitual, sino que es inexorable y esencial. No hablemos de lo penoso que resulta asistir al frecuente y vano combate de las mujeres ciclistas con sus faldas para evitar ostentaciones impudorosas. El viajero que va por la calle respetuosamente interesado por la nueva humanidad que visita y que no se siente en vena erótica, experimenta algún enojo de que se le ofrezca a la mirada, tan inoportunamente, un muslo femenino.
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial on a cabinet crisis caused by the hidden power of the military juntas: for years Spain has lived in a state of revolution, that is, of an illegal public power masked by constitutional fictions. Either the people rebuilds legality through a constituent assembly, or it should openly accept being ruled by those who already rule. Topical politics.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/law|legge]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A section of 'The Dehumanization of Art': an invitation not to bristle at young art. Against the assumption that a work must have a core of lived reality, Ortega argues that perceiving reality and perceiving artistic form are incompatible, and that to stylize is to deform the real, that is, to dehumanize.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

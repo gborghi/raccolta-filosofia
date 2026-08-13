@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Very short lyrical envoi (42 words) signed Esquivel, El Sol 1919, on the Torres Bermejas at sunset. No philosophical content.
+> A 42-word fragment with no sample in the digest: from the title it is a dedication or envoi closing a book, not a standalone text.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

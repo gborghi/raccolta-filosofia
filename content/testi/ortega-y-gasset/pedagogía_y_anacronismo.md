@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against Kerschensteiner, for whom the end of education is to form useful citizens: the pedagogue is never the philosopher of his own pedagogy, so a book of 1922 lives on the philosophy of 1890 and only shapes schools by 1940, two generations late. Citizenship is a puny attribute of the human fact, not its purpose.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]]  
+**Concetti:** [[concepts/education|educazione]], [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

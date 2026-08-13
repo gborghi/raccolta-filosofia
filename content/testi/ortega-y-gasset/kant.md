@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> The sample (59 words) is only the editorial note gathering under the title Kant two studies (Reflexiones de centenario, 1924; Filosofia pura, 1929). No doctrinal text in the sample.
+> A 59-word fragment titled KANT. The digest carries no sample; nothing doctrinal is verifiable, and the title alone warrants no attribution.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

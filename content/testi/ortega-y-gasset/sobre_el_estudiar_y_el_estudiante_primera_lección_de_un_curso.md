@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> First lesson of a metaphysics course: studying is in a sense a falsehood, since truth exists only for those who need it; a science is such only for one who anxiously seeks it. A ratiovitalist reflection on learning.
+> The first lesson of a course, 4,003 words; the digest carries neither structure nor sample (atoms: 0), so its content cannot be judged from the title alone. Left untagged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

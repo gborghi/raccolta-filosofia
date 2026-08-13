@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Historical variation does not come from causes outside the organism: living is an operation from the inside out. Ortega argues that the elementary biological categories — male/female, youth/old age — are the first social institutions and shaping powers of history, and that every age must be read by asking which of them prevails.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]]  
+**Concetti:** [[concepts/nature|natura]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +81,7 @@ Io non so se questo trionfo della gioventù sarà un fenomeno passeggero o un at
 
 Per trovare un'altra epoca di gioventù come la nostra, bisognerebbe scendere fino al Rinascimento. Ripassi il lettore rapidamente la serie delle stagioni europee. Il romanticismo che, con una o l'altra intensità, impregna tutto il secolo XIX, può sembrare nella sua iniziazione un tempo di giovani. C'è in esso, effettivamente, una sovversione contro il passato ed è un saggio di affermazione di sé della gioventù. La Rivoluzione aveva fatto tabula rasa della generazione precedente e permise per quindici anni che occupassero tutte le eminenze sociali uomini assai giovani. Il giacobino e il generale di Bonaparte sono ragazzi. Tuttavia, offre questo tempo l'esempio di un falso trionfo giovanile e il romanticismo metterà in evidenza la sua mancanza di autenticità. Il giovane rivoluzionario è soltanto l'esecutore delle vecchie idee confezionate nei due secoli anteriori. Ciò che il giovane afferma allora non è la sua gioventù, ma principii ricevuti: nulla di così rappresentativo come il Robespierre, il vecchio di nascita. Quando nel romanticismo si reagisce contro il secolo XVIII è per tornare a un passato più antico, e i giovani, guardando dentro di sé, trovano soltanto svogliatezza vitale. È l'epoca dei blasé, dei suicidi, dell'aria prematuramente caduca nell'andare e nel sentire. Il giovane imita in sé il vecchio, preferisce le sue attitudini stanche e si affretta ad abbandonare la sua giovinezza. Tutte le generazioni del secolo XIX hanno aspirato a essere mature il più presto possibile e sentivano una strana vergogna della propria gioventù. Si confrontino con i giovani attuali —maschi e femmine— che tendono a prolungare illimitatamente la loro fanciullaggine e vi si installano come definitivamente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,concepts/nature,forms/essay"></span>
 
 Si damos un paso atrás caemos en el siglo vieillot por excelencia, el XVIII, que abomina de toda calidad juvenil, detesta el sentimiento y la pasión, el cuerpo elástico y nudo. Es el siglo de entusiasmo por los decrépitos, que se estremece al paso de Voltaire, cadáver viviente que pasa sonriendo a sí mismo en la sonrisa innumerable de sus arrugas. Para extremar tal estilo de vida se finge en la cabeza la nieve de la edad y la peluca empolvada cubre toda frente primaveral —hombre o mujer— con una suposición de sesenta años.
 
@@ -162,7 +171,7 @@ Ma c'è un fatto che sottolinea più di ogni altro questo trionfo della giovent�
 
 Ebbene: oggi si preferisce il corpo allo spirito. Non credo che vi sia sintomo più importante nell'esistenza europea attuale. Forse le generazioni anteriori hanno reso troppo [culto](/concepts/religion) allo spirito e —salvo l'Inghilterra— hanno disdegnato eccessivamente la carne. Era conveniente che l'essere umano fosse ammonito e gli si ricordasse che non è soltanto anima, ma unione magica di spirito e corpo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/theory_of_generations,concepts/nature,forms/essay"></span>
 
 El cuerpo es por sí puerilidad. El entusiasmo que hoy despierta ha inundado de infantilismo la vida continental, ha aflojado la tensión de intelecto y voluntad en que se retorció el siglo XIX, arco demasiado tirante hacia metas demasiado problemáticas. Vamos a descansar un rato en el cuerpo. Europa —cuando tiene ante sí los problemas más pavorosos— se entrega a unas vacaciones. Brinca elástico el músculo del cuerpo desnudo detrás de un balón que declara francamente su desdén a toda trascendencia volando por el aire con aire en su interior.
 

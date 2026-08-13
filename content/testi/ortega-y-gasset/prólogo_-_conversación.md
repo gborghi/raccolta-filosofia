@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A preface-interview written NOT by Ortega but by the editor of Revista de Occidente, who speaks of him in the third person and claims responsibility for gathering his essays into a book. The piece unfolds as a conversation on a new theme: the 'biography of themes', which like men have childhood, akmé and decrepitude, and which Ortega is accused of raising and then murdering.
+
+## Connections
+
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -156,7 +162,7 @@ Ma Ortega schiva la risposta:
 
 Alla fine, acconsente alla mia preghiera. Ma sorge un terribile inconveniente. Il giorno dopo mi dice:
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/dialogue"></span>
 
 —¡Hombre! Me obliga usted a leer lo que he escrito. Como a usted le consta, eso no lo he hecho casi nunca. Y no es amaneramiento, sino que obedece a algo que ha de advertir todo el que se dé alguna cuenta de la trayectoria de mi obra: me importa ante todo el futuro, y en mis escritos he insultado siempre a la mujer de Lot, a la cual, entre paréntesis, tampoco le importaba el pasado, porque el pasado sólo importa desde y para el futuro. La [memoria](/concepts/memory) no es sino el culatazo que da la esperanza.
 
@@ -306,7 +312,7 @@ Ma questo, come si avverte subito, implica un fenomeno molto curioso. Quando un 
 
 —Potrebbe lei chiarirmi la teoria con esempi?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/dialogue"></span>
 
 —Ya sabe usted que considero nota esencial del mundo antiguo la insuficiente individuación del hombre griego y latino. Recuerde usted mi nota Sobre la sinceridad triunfante, uno de mis artículos perfectamente desatendidos, pero que yo estimo de algún interés. Siempre que el antiguo se ha acercado, en casos excepcionales, a lo que podríamos llamar la modernidad, se ha producido paralelamente un cambio en el sujeto que se supone hablar: el sujeto genérico, abstracto, se acercaba al individuo autor. Esto es notorio en el [caso](/concepts/fortune) de San Agustín, que representa evidentemente un brote inesperado de modernidad en las postrimerías del mundo antiguo. San Agustín va a anticipar el gran descubrimiento romántico que consiste en hacer coincidir el personaje que se supone hablar con el efectivo hombre que escribe. San Agustín habla desde su yo, y por eso fue un escándalo sin par en el mundo antiguo. No sólo escribe sus confesiones —género literario en el que el punto de «hablada» coincide exactamente con la criatura real que escribe—, sino que toda su obra es, en efecto, confesión, como la de Chateaubriand. Por eso suena a grito. El estilo de San Agustín es un grito pelado, aunque bastante retorcido.
 
@@ -408,7 +414,7 @@ D'altra parte, qualcosa di coincidenza ci sarà tra quei diversi «uomini intere
 
 Credo che, in ultimo riassunto, così avevo io premeditato di porre la questione. Ora: quali «valori» sono quelli che sembra preferire la donna nell'uomo? Non fissiamoci sui matrimoni. Il matrimonio non ha a che vedere con l'amore se non per accidens. Il matrimonio ha altre radici —sociali, economiche, eccetera. E così deve essere. Il matrimonio è un'istituzione civile e non lo si deve studiare né giudicare né valutare guardandolo dall'intimità della persona —come deve farsi con l'amore—, ma dalla vita collettiva alla quale appartiene. Questo sarà tutto il paradossale che lei vuole —che il senso del matrimonio, che è il «focolare» e l'«interno» della famiglia, eccetera, abbia poco a che vedere con l'intimità—, ma è la pura verità. Bisogna parlare del matrimonio come si parla del Parlamento, dei Tribunali di giustizia o del sistema elettorale…
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/dialogue"></span>
 
 Pero volvamos al asunto: ¿qué valores parece preferir la mujer en el hombre? Evidentemente, no prefiere que sepa matemáticas, ni que sea un buen abogado o un excelente físico. La mujer no se enamora de eso, ni de ninguno de los talentos que preferimos los hombres. También es falso que la mujer se enamore de la belleza masculina. Sobre esto hay mucho que hablar, y hablo largamente en el libro ese que usted me exige tantas veces y del que tiene usted, hace cinco o seis años, impresas ya 150 páginas de gran formato y letra menuda, titulado: Estudios sobre el amor[4]. Ahora se ha publicado en Alemania, pero yo no quisiera darlo aquí hasta que no pueda escribir las otras 150 páginas que le faltan.
 

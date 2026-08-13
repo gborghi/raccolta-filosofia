@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A long essay: Spaniards do not believe in education because the idea of education is an idea of becoming, and Spain, having no twilights and a scholastic intellect and heart, loves only what fits in a pigeonhole. There follows a comparison of German and Spanish universities, the former's infinite advantage lying not in wealth but in the thought that informs it.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +103,7 @@ Questa ultima è la più importante: da essa dipende la capacità e fa buoni o c
 
 Contando con la pazienza del lettore, si parlerà delle tre dimensioni successivamente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/essay"></span>
 
 Firmado X. Z., El Imparcial, 16 de enero de 1906
 
@@ -234,7 +241,7 @@ Imitazione! Questa parola deve a suo tempo prendersi in un senso molto restritti
 
 «La Spagna doveva essere la Grecia cristiana». Questo imperativo storico, a cui siamo venuti meno finora, può essere realtà un giorno, e sebbene quel giorno sia lontano, con un po' di buona fede possiamo andarlo preparando. Per fare della Spagna nientemeno che una Grecia, non è certamente l'Università l'unico strumento, ma sì il più importante.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/essay"></span>
 
 Hemos convenido —según notábamos en el artículo anterior— que para renovar y enriquecer la agricultura es preciso dar de lado al viejo arado de los padres de Roma, y que para crear civilización hay que desechar también el arado romano universitario. Todo es cuestión de arados, y es vieja la idea: las selvas se apaciguan con el arado, decía Horacio el viejo: pacantur vomere silvae. Ahora bien, la Universidad es la fábrica de arados que ararán el porvenir.
 
@@ -372,7 +379,7 @@ Firmato X. Z., El Imparcial, 1 febbraio 1906
 
 IV
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/essay"></span>
 
 Quedábamos en que los estudiantes nuestros son malos estudiantes y malos profesores nuestros profesores porque la Universidad es mala y no al contrario. No se diga que ésta es tan sólo la suma y conocimiento de alumnos y profesores, porque el mismo Pero Grullo, último padre de la Iglesia, olvidado injustamente por Migne, protestaría de ello; pueden ser unos y otros cumplidores de sus deberes y el resultado mezquino, como ocurre en Francia. Un verso no es un puñado de letras, sino un orden de letras. Ese orden es lo que está en la mente del poeta y lo que se llama idea.
 
@@ -468,7 +475,7 @@ STIPENDI E ONORARI.— Il professore tedesco ha due sorti di guadagni: uno uffic
 
 Secondo l'ordine del 1897 i professori ordinari di Prussia ricevono 4.000 marchi di stipendio, e se lo sono a Berlino 4.800, poco più di 7.000 pesetas e rotto. Gli straordinari 2.000 marchi, 2.400 a Berlino. Gli scatti fino a cinque, a Berlino sei, sono di 400 marchi ogni quattro anni.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/essay"></span>
 
 Los honorarios varían grandemente según la personalidad del profesor y según la disciplina. Las más elevadas materias de la ciencia tienen muy pocos oyentes, al paso que las elementales y populares son escuchadas por verdaderos rebaños de aprendices. En 1900 hubo la siguiente proporción entre los honorarios cobrados por los 502 profesores prusianos:
 
@@ -666,7 +673,7 @@ Poi appare il primo libro dove quegli anni di giovanile meditazione si mostrano 
 
 Il sapiente sente la maturità del suo spirito come nella fanciullezza sentì la pubertà del suo corpo. Allora sceglie un'Università e chiede alla facoltà il permesso di spiegare, venia legendi: compone il suo curriculum vitae, uno schema della sua vita, invia a referto le sue opere e due discorsi, uno dei quali diretto alla facoltà, l'altro in forma di lezione (Vorlesung) agli studenti. La facoltà delibera: questi due discorsi sono mere formule che non si prendono in conto. L'importante sono le opere, siano impresse o manoscritte, che manifesti il richiedente; cioè che «la capacità creatrice scientifica è la cosa decisiva per entrare nella carriera accademica; un collegio di sapienti approva o riprova le condizioni di sapiente del giovane scienziato».
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/essay"></span>
 
 Concedida la venia legendi, inicia sus explicaciones con igual libertad que un profesor ordinario: su lección —y esto es muy importante— se considera válida como la de éste para el cuadro de disciplinas, cultivadas oficialmente, que se exige a los estudiantes cuando solicitan sus grados. Por su trabajo no cobra sueldo del Estado, sólo percibe los honorarios de sus clases, que a fuer de maestro nuevo, suelen ser pequeñísimos. Y siguen años, muchos años ordinariamente, a veces toda la vida, sin que llegue el deseado profesorazgo. ¿De qué vive en tanto? Como no posea alguna [fortuna](/concepts/fortune) de herencia, o su labor libresca o lecciones particulares no le ayuden, no vive. En Alemania, al contrario que en España, la ciencia es patrimonio de los hombres acomodados, ya que no ricos, al paso que entre nosotros es cosa que se deja al buen arbitrio de algunos golfos geniales. Claro que también lo que en Alemania ocurre es perjudicial: conviene que la ciencia esté en manos a quienes no ate ni trabe excesivamente la necesidad; sólo así se la librará de caer en un ganapán, cosa que jamás, jamás, debe ser la profesión de maestro. Pero, en cambio, se desperdician muchas fuerzas que acaso fueran las mejores, porque las tales fuerzas habían ido a asentarse en cuerpos proletarios. Para obviar, siquiera en corto trecho, ese inconveniente, creáronse en 1875 unas ayundantías por valor total de 54.000 marcos, que se otorgaban a mozos de largas esperanzas y de escasos dineros. Cada ayudantía dura cuatro años: en su ejercicio puede el joven maestro hacerse lo bastantemente conocido para que sus lecciones sean escuchadas por un número crecido de oyentes.
 
@@ -762,7 +769,7 @@ Oggi c'è gran lite tra i sostenitori della lezione e i difensori dell'esercizio
 
 La lezione è attualmente lo stesso che era nei tempi classici dell'Università di Salamanca, salvo che là si «leggeva» il maestro in o circa un libro prefissato e così le cattedre di Avicenna e di Lulio erano come glosse parlate delle opere dell'uno e dell'altro. Oggi la lezione è una semilettura sugli appunti (Kollegheft, Kolleg) che il professore ha abbozzato in precedenza, appunti che vengono a essere l'armatura di filo che sostiene il discorso libero dinanzi agli studenti. Ma non si creda che questo discorso sia qualcosa di simile alle ingegnose ed eloquenti divagazioni del Collegio di Francia, che lo stesso Renan condannò: la Vorlesung, da una a cinque ore settimanali, è un'esposizione sistematica di una disciplina, o di una parte di essa, seguita con tutto il rigore scientifico per lo comune e mescolata con raccomandazioni per il lavoro isolato e personale degli uditori, con critica bibliografica, eccetera.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/essay"></span>
 
 El complicado artefacto de la ciencia va apareciendo poco a poco ante los estudiosos noveles, van fijándose sus líneas, cuajándose sus fondos, irguiéndose los problemas y floreciendo sobre ellos súbitamente las soluciones como las veletas en las torres. El solícito oyente puede decir que ha visto cómo se creaba ante él la ciencia completa de la nada, o mejor dicho, de la confusa realidad vulgar. Véanse los títulos de algunas Vorlesungen, tomados del índice de lecciones de la Universidad de Berlín para el semestre invernal que ahora termina:
 
@@ -894,7 +901,7 @@ E dicono i difensori:
 
 4.º Nelle discipline il cui oggetto può essere mostrato intuitivamente (anatomia, eccetera), non c'è dubbio, ma anche nelle altre (diritto, filosofia, eccetera) è utile il discorso, poiché consente la palesizzazione del processo di idee in forma di schemi. (Si noti che un tedesco è capace di mettere in schemi di «Tauromachia» quella di Montes senza muoversi da un mattone).
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/essay"></span>
 
 5.º Es además útil para el profesor porque el tener que dirigirse a gentes aún ignorantes del «argot» científico, «argot» que suele ser más de conceptos que de palabras, y el haber de atraer blandamente su atención y retenerla evita el excesivo especialismo y la hieratización científica. Demás de esto obliga al sabio a volver con gran frecuencia su pensamiento a los primeros elementos básicos de su ciencia.
 

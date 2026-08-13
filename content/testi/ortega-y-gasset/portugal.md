@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The sample consists entirely of a quoted speech against the idea of annexing Portugal: three conditions would be needed—that Europe tolerate it, that Spain want it, that Portugal let itself be conquered—and none obtains. A reported political text, not a philosophical argument by Ortega.
 

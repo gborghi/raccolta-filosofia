@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to a polemical challenge from Maura y Gamazo. Ortega opens by praising polemic as the sole form of intellectual work — the history of the sciences is a history of disputes, and the Critique of Pure Reason is intelligible only as a two-front polemic against Leibniz and Hume — then laments the disputants' heterogeneity and his uncertainty about what is being disputed.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +102,7 @@ C'è una Libertà, con maiuscola, venivo a dire, una libertà generica, l'idea d
 
 Per questo mi è sembrato peregrino che il signor Maura dica: «Che cos'è ideale morale? Chi lo definisce? La maggioranza, senza dubbio». Mi rincresce una volta di più il prurito parlamentare di questo uomo giovane e intelligente, che vuole far passare tutte le tragedie metafisiche della Storia universale per lo stretto canale del Diario delle Sedute. Ebbene, non arriva a preferire i nomi di sinistre e destre, che hanno nella lingua un'origine periferica, contingente, dovuta a un capriccio semantico, a quelli di liberali e conservatori, parole perfette, che restano fedeli alla significazione della loro radice?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 ¿Qué es eso de que la mayoría define el ideal moral? Si hubiera el señor Maura contestado a su propia pregunta primera, habría advertido que ideal moral no es más que ley moral y ley es el resultado de la ciencia. El ideal moral es, pues, definido por la ciencia moral. La intervención de la mayoría, sea parlamentaria, sea popular, en esa definición, téngola por funesta y no poco absurda.
 
@@ -180,7 +186,7 @@ Di qui parte la mia convinzione che la Spagna non avrà vita intima, non sarà c
 
 Lo stigma della nostra storia è stata la carenza di preoccupazioni universali. Abbiamo realizzato fatti universalmente conosciuti, ma non abbiamo compiuto azioni di fecondità universale. Non abbiamo iniziato riforme, né rinascimenti né rivoluzioni. Siamo stati più spagnoli che uomini. Ed è necessario che alla fine la Spagna cessi di pendere, nella mappa morale così come nella geografica, come un brandello d'Europa. Se con questo sovrapatriottismo posso essere chiamato patriota, lo sono.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 ¿Hay algún partido político que traiga a la raza española esas emociones universales, cosmopolitas? No, ciertamente. Para mí, en consecuencia, todos los partidos actuales son conservadores. Si, como indica el señor Maura, su partido se contenta con ir componiendo reglamentos que presten yo no sé qué burocrática realidad a lo que por definición es irreal: la cultura, el progreso, el ánimo libre, la historia universal se olvidará de él en sus índices. Y sólo le quedará una historia a que recurrir: la historia natural, donde se estudia al hombre en sus instintos y se clasifican las degeneraciones físicas de las razas.
 

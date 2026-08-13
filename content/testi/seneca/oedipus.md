@@ -12,8 +12,17 @@ tags:
   - "philosopher/seneca"
 ---
 
+*Seneca*
+
 > [!abstract]
 > Tragedy of Oedipus, king of Thebes, who in trying to escape the oracle commits the very parricide and incest foretold: fate is fulfilled inexorably and the plague reveals his guilt. Exalted power lies exposed to fortune.
+
+## Connections
+
+**Assi:** [[assi/freedom_necessity|Libertà e necessità]]  
+**Posizioni:** [[positions/fate_providence|fato e provvidenza]]  
+**Concetti:** [[concepts/fortune|fortuna]], [[concepts/death|morte]]  
+**Forme:** [[forms/tragedy|tragedia]]
 
 <p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
 
@@ -42,7 +51,29 @@ CHORUS of Theban elders.
 
 THE SCENE is laid before the royal palace of Thebes; the play opens in the early morning of the day within which the tragedy is consummated.
 
-<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Edipo, re di Tebe; figlio, come credeva, di Polibo, re di Corinto, e di Merope sua moglie, ma in realtà figlio di Laio e Giocasta.
+
+Giocasta, moglie di Edipo, si scopre essere anche sua madre.
+
+Creonte, principe di Tebe, fratello di Giocasta.
+
+Tirsiasio, il profeta di Tebe, ormai vecchio e cieco.
+
+Manto, figlia di Tiresia.
+
+UN VECCHIO, inviato da Corinto per annunciare a Edipo la morte di Polibo.
+
+Forbas, pastore incaricato delle greggi reali di Tebe.
+
+Il messaggero che annuncia la cecità autoinflitta di Edipo e il suicidio di Giocasta.
+
+Coro degli anziani tebani.
+
+La scena si svolge davanti al palazzo reale di Tebe; l’opera inizia all’alba del giorno in cui la tragedia avrà luogo.
+
+<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/fate_providence,concepts/fortune,concepts/death,forms/tragedy"></span>
 
 An oracle once came to Laïus, king of Thebes, that he should perish by his own son’s hands. When, therefore, a son was born to him, he gave the infant to his chief shepherd to expose on Mount Cithaeron. But the tender-hearted rustic gave the babe instead to a wandering herdsman of Polybus, the king of Corinth.
 
@@ -52,7 +83,17 @@ Now other years have passed, and sons and daughters have been born to the royal 
 
 OEDIPUS
 
-<span class="atom-split" data-atom="003" data-title="OEDIPUS (parte 1)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Un oracolo disse un tempo a Laio, re di Tebe, che sarebbe morto per mano del proprio figlio. Quando quindi gli nacque un figlio, lo affidò al suo caposchiutta affinché lo abbandonasse sul Monte Citaione. Ma quel pastore dal cuore tenero consegnò invece il bambino a un nomade che pascolava le greggi di Polibo, re di Corinto.
+
+Anni dopo, un presunto figlio di Polibo, di nome Edipo, temendo l’oracolo che lo condannava a uccidere suo padre e a sposare sua madre, fuggì da Corinto per sfuggire a questo terribile destino. Mentre viaggiava verso nord, incontrò e uccise un vecchio che gli ostacolava il cammino in modo prepotente. Arrivato nel regno di Tebe, risolse l’enigma della Sfinge, distruggendo così quel mostro inviato da Giunone per tormentare quella terra che lei odiava; per questo merito Edipo divenne marito di Giocasta, la vedova del re Laio (che, secondo quanto si diceva, era stato ucciso di recente da una banda di briganti lungo la strada principale), e salì al trono vuoto.
+
+Sono trascorsi altri anni, e al re e alla regina sono nati figli e figlie. Ma ora una terribile pestilenza affligge [lo Stato](/concepts/state). Edipo ha inviato Creonte dall’oracolo per conoscere la causa di questa calamità e cercare modi per liberarsi da essa. Mentre aspetta il ritorno del messaggero, l’alba cupa lo trova ancora immerso nel dolore per la tragica situazione del suo regno.
+
+Edipo
+
+<span class="atom-split" data-atom="003" data-title="OEDIPUS (parte 1)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/fate_providence,concepts/fortune,concepts/death,forms/tragedy"></span>
 
 [1] Now night is driven away; the hesitant sun returns, and rises, sadly veiling his beams in murky cloud; with woeful flame he brings a light of gloom and will look forth upon our homes stricken with ravening plague, and day will reveal the havoc which night has wrought.
 
@@ -88,7 +129,43 @@ CHORUS
 
 [154] No more do the woods, crowned with their own foliage, shed dusky shadows on the mountain-sides; the fields no more grow green with fertile glebe, no more do the vine’s full branches bend ‘neath the load of its own deity; all things have felt our plague.
 
-<span class="atom-split" data-atom="004" data-title="OEDIPUS (parte 2)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[1] Ora la notte è stata scacciata; il sole esita a tornare, sorgendo con i suoi raggi oscurati dalle nuvole; con una luce triste e cupa, illuminerà le nostre case devastate dalla pestilenza, rivelando così il disastro che la notte ha causato.
+
+[6] Esiste forse qualcuno che si rallegri alla regalità? Oh, ingannevole bene, quante mali nascondi sotto il tuo volto sorridente! Così come le vette alte sono sempre esposte ai venti più violenti, e così come la scogliera, con le sue rocce sporgenti che si affacciano sul mare profondo, viene battuta dalle onde anche di un oceano tranquillo, allo stesso modo l’impero elevato è esposto al destino. Quanto felicemente sono riuscito a sfuggire dal regno di mio padre, Polibo. Un esiliato libero da ogni preoccupazione, senza paura, errante. Su un regno – che il cielo e gli dei ne siano testimoni – sono giunto per caso. Temo cose inesprimibili. Che a causa mia mio padre possa essere ucciso. Di questo mi avvertono le lauri di Delfi; inoltre, mi attribuiscono un crimine ancora più grave. Esiste forse qualche malvagità peggiore dell’assassinio di un padre? Oh, sventurato amore filiale. Mi vergogno di confessare il mio destino. Febo minaccia il figlio con la camera del padre stesso, con un letto reso infame e contaminato da passioni profane. È stato proprio questo timore a spingermi a lasciare il regno di mio padre. Non sono fuggito come un disperato; per mia stessa volontà, diffidando di me stesso. Oh, Natura, ho reso le tue leggi sicure. Quando temi una grande calamità, anche se pensi che non possa accadere, comunque devi temerla. Io temo ogni cosa con estrema intensità. E non mi fido affatto di me stesso.
+
+[28] Ora, anche in questo momento, il destino sembra volermi colpire; cosa dovrei pensare, se questa peste, così mortale per la stirpe di Cadmo, così devastante nella sua azione distruttiva, mi risparmia? Per quale male sono destinato? Tra le rovine della mia città, tra funerali che richiedono lacrime fresche e continue, nel mezzo del massacro di un intero popolo, io resto illeso. Sì! Prigioniero sotto il dominio di Febo. Potresti davvero sperare che per crimini come i tuoi venga concesso un regno sano e prospero? Ho reso il cielo stesso fonte di pestilenza.
+
+[37] Nessuna brezza fresca allevia il nostro respiro affannoso per il calore; nessun vento gentile soffia. Solo Titano intensifica la furia delle stelle ardenti, schiacciando il “Leone di Nemea” sotto il loro peso. L’acqua ha abbandonato i ruscelli e l’erba è diventata secca. Dirce è priva d’acqua; il fiume di Ismeno scorre appena, le sue poche onde a malapena bagnano la sabbia nuda. La sorella di Febo si muove lentamente nel cielo; il firmamento cupo appare pallido con l’avvicinarsi della notte. Nessuna stella brilla nelle notti limpide. Solo una densa nebbia nera avvolge la terra. Le dimore degli dei celesti sono velate da un aspetto infernale. Il grano maturo non produce più raccolti; anche se le spighe dorate ondeggiano alte, il frutto muore appassito sui gambi aridi. Nessuna classe è al riparo dalla morte. Tutti, senza distinzione di età o sesso, sono colpiti allo stesso modo. Giovani e anziani, padri e figli, tutti vengono travolti dalla stessa pestilenza. Mariti e mogli bruciano insieme; i funerali mancano di lacrime e lamenti. Anzi, la maledizione che ci affligge ha prosciugato le nostre lacrime. In questo luogo, un padre porta suo figlio verso le fiamme finali; laggiù, una madre folle trasporta il proprio bambino, per poi correre a prenderne un altro e gettarlo nello stesso rogo. E nella loro stessa angoscia sorgono nuove sofferenze. I riti funebri vengono distrutti. Con i fuochi altrui bruciano i corpi dei propri cari. Il fuoco viene rubato, poiché i miseri non hanno più vergogna. Nessun tumulo separa le ossa sacre. Basta che brucino. Quanto poco di loro diventa cenere. Non resta terra per tombe, né foreste per i roghi. Né preghiere, né alcuna cura possono aiutare coloro che soffrono. Anche i guaritori diventano vittime. La malattia distrugge chi cerca di salvarli.
+
+[71] Prostrato davanti agli altari, tendo le mani in preghiera, supplico che il mio destino si acceleri, affinché possa anticipare la rovina della mia patria e non cadere insieme a tutti gli altri. Che la mia morte sia l’ultima a segnare la fine del mio regno. Oh divinità troppo spietate, oh fato crudele! Solo a me, tra tutta questa gente, viene negata la morte. Mentre per tutti gli altri essa sembra così vicina. Andate via, lasciate questo paese contaminato dalla vostra mano funesta, lasciate le lacrime, le morti, l’aria infestata dalla pestilenza che portate con voi. Voi ospiti maledetti, andatevene subito! (Da tempo sarebbe stato meglio, ) Anche verso i vostri genitori.
+
+GIOCASTA
+
+[Chi è arrivata in tempo per ascoltare le ultime parole di suo marito.]
+
+[81] A che serve, marito mio, aggravare il dolore con i lamenti? Credo proprio che sia questa l’atteggiatura degna di un re: affrontare le avversità con coraggio, soprattutto quando la propria posizione è precaria e l’impero sembra sul punto di cadere. Non è da vero uomo voltare le spalle alla Fortuna.
+
+Edipo
+
+[87] Lontano da me sono il crimine e la vergogna della codardia; il mio coraggio non conosce paura né timore vile. Se le spade fossero levate contro di me, affronterei con coraggio anche i feroci Giganti. La Sfinge, che intrecciava parole oscure e minacciose, non fui certo a fuggire: affrontai le sue fauci insanguinate e il terreno coperto di ossa sparse. E quando, appesa su un alto dirupo e pronta ad attaccare la sua preda, scosse la coda come una leonessa selvaggia e sprigionò la sua furia minacciosa, le porsi la sua enigmatica domanda. Allora risuonò un suono terribile: le sue fauci si chiusero con violenza, e le sue artigli, pronti a colpire, affondarono nelle rocce nella loro sete di distruggermi. Ma io risolsi l’enigma oscuro e ingannevole di quella bestia alata.
+
+[103] [A se stesso.] Perché ora, nella tua follia, preghi troppo tardi per la morte? Avevi già avuto la tua opportunità di morire. Questo scettro è il tuo premio, la tua ricompensa per aver distrutto la Sfinge. Quella polvere, quella maledetta polvere del mostro astuto, continua ancora a combattere contro di me; quella piaga che io stesso ho annientato sta ora distruggendo Tebe. Ora ci resta una sola via di salvezza, se solo Febo ne mostrerà uno.
+
+CORO
+
+[110] Cadete, o nobile stirpe di Cadmo, insieme a tutta la vostra città. Privata dei suoi coltivatori, vedete la vostra terra, oh misera Tebe. La distruzione si nutre, oh Bacco, di quei tuoi soldati, dei tuoi compagni che osarono attraversare le pianure orientali e issare le tue bandiere ai confini del mondo. Gli Arabi, benedetti dai loro boschi di cannella, videro quegli uomini in fuga, i traditori Parti, temibili per le loro balestre. Quegli uomini raggiunsero le rive del mare rosso, dove Febo fa emergere i suoi raggi al mattino, apre le porte del giorno, e con la sua luce oscura gli indigeni nudi di quelle terre.
+
+[124] Noi, discendenti di una stirpe invincibile, stiamo perire, cadendo sotto l’aspra offensiva del destino. Ogni ora, un nuovo convoglio si dirige verso la Morte; la lunga processione dei dolenti si affretta verso le ombre dell’aldilà; la cupa processione si intasa, e per la folla che cerca sepoltura, le sette porte non si aprono abbastanza. Il terribile disastro della carneficina continua, e le folle funebri avanzano in una linea ininterrotta.
+
+[133] Prima la peste colpì le pecore lente nel muoversi; per loro rovina, quel gregge lanoso brucò tutta l’erba rigogliosa. Il sacerdote, pronto a colpire il collo della sua vittima, si era messo in posizione; mentre la sua mano alzata mirava con precisione, il toro, con le corna scintillanti d’oro, cadde pesantemente a terra. Il collo, frantumato dal colpo di un’ascia pesante, si aprì; ma non uscì sangue, solo una materia viscosa e sporca che fuoriusciva dalla ferita nera, macchiando la lama dell’arma. Il cavallo, che fino a quel momento correva veloce, rallentò improvvisamente e cadde, facendo cadere il suo cavaliere oltre la sua spalla che si stava inabissando nel fango.
+
+[145] I bovini abbandonati giacciono morenti nei campi; il toro consuma le sue ultime forze insieme alle bestie che muoiono una dopo l’altra. Il pastore abbandona il suo gregge in declino, mentre questi animali continuano a morire. Gli stalloni non temono più i lupi affamati; il ruggito del leone feroce tace; nemmeno gli orsi pelosi mostrano più aggressività. Il serpente nascosto ha perso la sua letale veleno; assetato e morente, giace immobile, il suo veleno essiccato per sempre.
+
+[154] I boschi, incoronati dal loro stesso fogliame, non gettano più ombre scure sulle pendici delle montagne; i campi non sono più verdi e fertili, e i rami rigogliosi della vite non si piegano più sotto il peso dei loro frutti; tutte le cose hanno subito la nostra calamità.
+
+<span class="atom-split" data-atom="004" data-title="OEDIPUS (parte 2)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/fate_providence,concepts/fortune,concepts/death,forms/tragedy"></span>
 
 [160] They have burst the bars of abysmal Erebus, the throng of sisters with Tartarean torch, and Phlegethon, changing his own course, has mingled Styx with our Sidonian streams. Dark Death opens wide his greedy, gaping jaws and unfolds all his wings, and the boatman who plies the troubled stream with roomy skiff, tough hardy in his vigorous old age, can scarce draw back his arms wearied with constant poling, worn out with ferrying the fresh throng o’er. Nay more, they say that the dog has burst his chains of Taenarian iron, and is wandering through our fields; that the earth has rumbled; that ghosts go stealing through the groves, larger than mortal forms; that twice have Cadmean forests trembled and shed their snows; twice has Dirce welled up with blood; in the silent night Amphion’s hounds have bayed.
 
@@ -220,7 +297,139 @@ TIRESIAS
 
 MANTO
 
-<span class="atom-split" data-atom="005" data-title="OEDIPUS (parte 3)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[160] Hanno spezzato le sbarre dell’abisso di Erebo; la folla delle sorelle, munita di torce tartariche, e il fiume Phlegeton, cambiando il proprio corso, hanno mescolato lo Styx con i nostri corsi d’acqua. La Morte Oscura apre le sue fauci voraci e dispiega tutte le sue ali; il barcaiolo che naviga lungo quel corso turbolento, robusto e tenace nonostante la vecchiaia, fatica a ritirare le braccia stanche per via dei continui remate, esausto dal dover trasportare continuamente quella folla numerosa. Si dice ancora che il cane abbia spezzato le sue catene d’ferro e ora vaga per i nostri campi; che la terra abbia tremato; che fantasmi più grandi delle forme umane si aggirino tra gli alberi; che due volte le foreste di Cadmea abbiano tremato e abbiano perso la neve; che due volte il fiume Dirce si sia riempito di sangue; e che, nella notte silenziosa, i cani di Amphion abbiano ululato.
+
+[180] O meglio: un aspetto e una forma nuova della morte, molto più terribili della morte stessa! Una debolezza paralizzante avvolge gli arti inerti; le guance pallide diventano rosse; piccole macchie si diffondono sul viso. Poi vapori caldi bruciano il corpo intero, facendo gonfiare le guance di sangue; gli occhi restano fissi, e un fuoco interno consuma gli arti. Si sente un ronzio nelle orecchie; sangue nero sgorga dalle narici dilatate e rompe le vene gonfie. Spesso una tosse straziante tormenta il corpo. Allora si appoggiano pietre fredde contro il petto; oppure, dove la casa permette di muoversi liberamente – dopo che il custode è stato allontanato – si corre verso le sorgenti per dissetarsi con acqua fresca. Le folle giacciono prostrate davanti agli altari, pregando per la morte: solo essa può essere concessa dagli dèi obbedienti. Vanno ai templi non per offrire doni alle divinità, ma per godere nel nutrirle con il loro stesso sangue.
+
+[Si vede Creonte tornare dal suo incarico.]
+
+Edipo
+
+[202] Chi è dunque colui che cerca quel palazzo con passi affrettati? È Creonte, nobile per sangue e azioni, o forse la mia mente malata confonde il falso con il vero?
+
+CORO
+
+[205] È finalmente qui, Creonte: è ciò che tutti noi desideravamo ardentemente.
+
+[Entra Creonte.]
+
+Edipo
+
+[206] Tremo di terrore, temendo la direzione che il destino sta prendendo; il mio cuore agitato oscilla tra due sentimenti opposti: la gioia si mescola con il dolore, e nell’incertezza l’anima teme, anche se anela a conoscere la verità.
+
+[210] Oh fratello di mia consorte, se porti qualche conforto a cuori stanchi, annuncia rapidamente le tue novità.
+
+Creonte
+
+[212] Una risposta dubbia porta inevitabilmente alla rovina.
+
+Edipo
+
+[213] Chi offre un aiuto incerto a coloro che soffrono, in realtà non offre alcun aiuto.
+
+Creonte
+
+[214] Nel labirinto dei enigmi, il dio di Delfi nasconde i suoi segreti.
+
+Edipo
+
+[215] Parla apertamente, anche se ciò fosse incerto; è solo a Edipo che è concesso decifrare enigmi.
+
+Creonte
+
+[217] Il dio ordina che l’omicidio del re venga espiato con l’esilio e che il defunto Laio venga vendicato. Non appena il sole splenderà nel cielo, fornendo aria pura e benefica.
+
+Edipo
+
+[221] E chi fu l’assassino di quel nobile re? Dite chi Febo [menziona](/positions/nominalism), affinché possa pagare la pena.
+
+Creonte
+
+[223] Possa essere sicuro, prego, possedere oro proveniente da cose orribili da vedere e ascoltare. La paralisi ha invaso i miei arti; il mio sangue freddo sembra congelarsi. Quando entrai nel sacro santuario di Febo con passi reverenti e alzai le mani in preghiera verso il dio, le due cime innevate del Parnasso emisero un ruggito furioso; la chioma di alloro che sovrastava il tempio tremò violentemente, e improvvisamente le acque sacre della sorgente Castalia si fermarono. La sacerdotessa del figlio di Leto iniziò a sciogliere i suoi capelli folti e, profondamente commossa, offrì sacrifici a Febo. Ma non aveva ancora raggiunto la grotta, quando, con un ruggito potente, parole più forti della voce umana risuonarono nell’aria:
+
+[233] “Gentili saranno le stelle che torneranno nella città tebana di Cadmo.
+
+Se tu, o ospite fugace, lasci dietro di te la Dirce ismenia.
+
+Imbrattato dal sangue di un re, conosciuto da Apollo fin dall’infanzia.
+
+Brevi saranno per te le gioie derivanti da questo tuo sacrilego massacro.
+
+Con te porterai la guerra, e alla tua discendenza lascerai in eredità la guerra.
+
+Ritornato in modo osceno, ancora una volta nel grembo empio di tua madre.
+
+Edipo
+
+[239] Quello che, su avvertimento del Cielo, sono ora pronto a compiere avrebbe dovuto essere fatto opportunamente in onore della polvere del re defunto, affinché nessuno potesse profanare traditoriamente lo scettro sacro. I re hanno più bisogno di proteggere la propria vita; nessuno si preoccupa per loro quando sono morti, mentre in vita li temevano.
+
+Creonte
+
+[244] Il nostro interesse per i morti è in realtà un modo per scacciare la paura.
+
+Edipo
+
+[245] Qualche timore ha mai impedito di adempiere a un dovere pio?
+
+Creonte
+
+[246] Sì, la Sfinge e le terribili minacce contenute nel suo incantesimo.
+
+Edipo
+
+[247] Ora, per volere del Cielo, che questo crimine venga punito. Voi dèi che favoreggiate i regni – tu, che possiedi le leggi dei cieli in continua rotazione; tu, massima gloria del cielo sereno, che presiedi ai dodici segni zodiacali nel loro corso mutevole, che srotoli i secoli con il movimento veloce delle ruote celesti; e tu, sua sorella, Febe, viaggiatrice notturna; tu, a cui obbediscono i venti, che attraverso le profondità marine guidi la tua corrente azzurra; e tu, che assegni dimore privi di luce. Venite tutti: colui per mano del quale Laio cadde non debba trovare alcun rifugio pacifico, né dèi domestici amichevoli, né una terra ospitale in esilio. Che pianga su matrimoni vergognosi e che abbia discendenza empia; che anche lui uccida con le proprie mani il proprio padre. Esiste forse cosa più grave di ciò da cui io stesso sono fuggito? Non vi sarà alcuna possibilità di perdono. Giuro sul potere che ora esercito, come straniero, e su quello che ho abbandonato; sui miei dèi domestici; su di te, o padre Nettuno, che con le tue onde si frangono contro le mie rive. E vieni tu stesso a testimoniare queste parole, tu che ispiri le labbra della sacerdotessa di Cirra, quelle che pronunciano il destino degli uomini. Che mio padre possa trascorrere giorni sereni e concludere la sua vita in sicurezza sul suo alto trono; che Merope abbia soltanto i matrimoni felici con Polybo. Poiché il colpevole non sfuggirà mai alla mia vendetta.
+
+[274] Ma dimmi: dove è stato commesso quel crimine empio? È morto in battaglia aperta o per tradimento?
+
+Creonte
+
+[276] Alla ricerca degli ombrosi boschi di Castalia sacra, percorse un sentiero delimitato da fitte boscaglie; il cammino si divideva in tre diramazioni che conducevano verso le pianure. Una strada attraversava la regione di Focide, amata da Bacco; l’alto Parnasso, lasciando le zone basse, sollevava dolcemente i suoi due picchi verso il cielo; un’altra strada conduceva alla terra di Sisifo, bagnata da due mari; la terza, attraverso una valle bassa e tortuosa, raggiungeva le acque incerte del fiume Elis. Mentre procedeva, fidandosi in tempi pacifici, fu improvvisamente assalito da una banda di banditi che lo attaccarono con la spada, commettendo un crimine senza testimoni.
+
+[Tiiresias si avvicina.]
+
+[288] Ma all’ultimo momento, spinto dall’oracolo di Febo, Tiresia arriva di corsa, con le membra tremanti; con lui c’è anche Manto, che guida suo padre non vedente.
+
+[Entra TIRESIA, vecchio e cieco, guidato da sua figlia MANTO.]
+
+Edipo
+
+[291] Oh tu, consacrato agli dèi e secondo solo a Febo stesso, spiega l’oracolo; rivela a chi il destino ordina di andare.
+
+TIRESIA
+
+[293] Che la mia lingua sia lenta nel parlare, che desideri indugiare. Non è necessario che tu meravigliarti, o Edipo dal grande cuore; molte verità sono nascoste dietro l’oscurità. Ma dove mi chiama la mia patria, dove mi invita Febo, lì seguirò. Dobbiamo scoprire il destino. Se il mio sangue fosse ancora fresco e caldo, accoglierei il dio nel mio petto stesso. Portate agli altari un toro bianco puro e una giovenca la cui gola non abbia mai portato il giogo curvo. Tu, figlio mio, che guidi tuo padre cieco, riferisci i segni chiari di questo sacrificio profetico.
+
+Le vittime sono posizionate ai piedi degli altari, secondo le istruzioni ricevute.
+
+Manto
+
+[303] Una vittima perfetta si trova di fronte agli altari sacri.
+
+TIRESIA
+
+[304] Invochiamo la presenza del Cielo con le preghiere consuete nei nostri voti, e riempiamo gli altari con l’offerta dell’incenso proveniente dall’Oriente.
+
+Manto
+
+Ora ho offerto incenso all’altare sacro degli dèi.
+
+TIRESIA
+
+[307] E la fiamma? Ha già avvolto quel generoso banchetto?
+
+Manto
+
+[308] Si accese improvvisamente con una luce intensa, per poi spegnersi all’improvviso.
+
+TIRESIA
+
+[309] Il fuoco ardeva chiaro e luminoso? Alzava una fiamma pura e appuntita verso il cielo, diffondendosi e formando un pennacchio nell’aria, oppure si muoveva incerto lungo il suo percorso, emettendo fumo ondeggiante che oscurava l’ambiente?
+
+Manto
+
+<span class="atom-split" data-atom="005" data-title="OEDIPUS (parte 3)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/fate_providence,concepts/fortune,concepts/death,forms/tragedy"></span>
 
 [314] Not one appearance only had the changeful flame. As when rain-bringing Iris entwines her various colours, who, over a great space of heaven sweeping, by her painted bow proclaims the storm, so wouldst thou be in doubt what colour is lacking, what is present in the flame; dark-blue, mingled with yellow spots, it hovered, then was blood-red, and at last trailed off in blackness.
 
@@ -296,7 +505,83 @@ CHORUS
 
 [449] Thee, O boy, a Tyrrhenian band once captured and Nereus allayed the swollen sea; the dark blue waters he changed to meadows. Thence flourish the plane-tree with vernal foliage and the laurel-grove dear to Phoebus; the chatter of birds sounds loud through the branches. Fast-growing ivy clings to the oars, and grape-vines twine at the mast-head. On the prow an Idaean lion roars; at the stern crouches a tiger of Ganges. Then the frightened pirates swim in the sea, and plunged in the water their bodies assume new forms: the robbers’ arms first fall away; their breasts smite their bellies and are joined in one; a tiny hand comes down at the side; with curving back they dive into the waves, and with crescent-shaped tail they cleave the sea; and now as curved dolphins they follow the fleeing sails.
 
-<span class="atom-split" data-atom="006" data-title="OEDIPUS (parte 4)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[314] Nessuna singola fiamma presentava un’unica tonalità costante. Proprio come l’Iride, portatrice di pioggia, intreccia i suoi vari colori per annunciare l’arrivo della tempesta attraverso il cielo, così anche in quella fiamma era difficile distinguere quali colori mancassero o quali fossero presenti: a volte era di un blu scuro mescolato a macchie gialle, altre volte diventava rosso sangue, per poi sfumare nel nero.
+
+[321] Ma guarda, la fiamma combattiva si sta dividendo in due parti; le scintille discordanti di quel sacro fuoco sono state spezzate a metà. Oh padre, tremo mentre osservo: il dono di Bacco si è trasformato in sangue, e una densa nuvola di fumo avvolge la testa del re; ancora più densa, questa nuvola si deposita proprio sul suo viso, nascondendo la luce nella tenebra. Oh padre, dìci a noi cosa significa tutto questo.
+
+TIRESIA
+
+[328] Cosa posso dire, mentre mi fermo nel mezzo di voci contrastanti provenienti da un’anima stupita? Che cosa devo dire? Posso solo affermare che si tratta di cose malvagie, ma nascoste nel mistero. È volontà degli dèi manifestare la loro ira attraverso segni evidenti. Ma cosa è ciò che desiderano rivelare, e cosa invece preferiscono nascondere? Quale terribile minaccia stanno celando? Qualcosa che addirittura vergogna gli stessi dèi. Presto, portate qui le vittime; cospargete i colli dei buoi con farina salata. Subiscono questi riti con espressioni serene, e le mani tese verso di loro non rappresentano alcuna minaccia.
+
+Manto
+
+[337] Con la testa alta rivolta verso est, il toro si ritraeva dal giorno e fuggiva, terrorizzato, dal volto luminoso del sole.
+
+TIRESIA
+
+[340] Cadono tutti a terra con un solo colpo?
+
+Manto
+
+[341] La giovenca si gettò contro la lama affilata e cadde immediatamente; ma il toro, colpito due volte, vagava senza meta, cercando invano di sfogare la sua vita ormai debolmente pulsante.
+
+TIRESIA
+
+[345] Il sangue sgorga rapidamente da una ferita causata da un colpo stretto e veloce, oppure si diffonde lentamente dopo un attacco violento e profondo?
+
+Manto
+
+[347] Il sangue di uno, attraverso il percorso naturale – dove il petto si apre ampiamente – scorre a fiotto; quelle del altro, invece, presentano ferite gravi da cui fuoriescono soltanto poche gocce; anzi, in alcuni casi, il sangue scorre abbondantemente attraverso bocca e occhi.
+
+TIRESIA
+
+[351] Questi sacrifici infausti suscitano terribili presagi. Ma descrivimi i segni certi che si possono ricavare dagli organi interni degli animali offerti in sacrificio.
+
+Manto
+
+[353] Padre, cos’è questo? Le viscere non tremano dolcemente, come è loro abitudine, ma tutta la mia mano inizia a tremare e il sangue sgorga nuovamente dalle vene. Il cuore, completamente malato, è appassito e nascosto in profondità; le vene presentano un colore livido. Gran parte delle viscere manca; dal fegato in decomposizione fuoriesce bile nera. E guarda: due teste si ergono una accanto all’altra, con dimensioni uguali. Ma ciascuna di esse è nascosta da una sottile membrana che non permette a nulla di nascondersi al suo interno. Quella parte “nemica” delle viscere si solleva con forza e presenta sette vene gonfie. Ma una linea retta le taglia tutte, impedendo loro di tornare al loro posto naturale. Tutti gli organi sono stati messi sottosopra: i polmoni a destra sono pieni di sangue, senza spazio per respirare; a sinistra non c’è più il cuore. La natura è stata sovvertita. Guardiamo meglio: da dove deriva questa rigidità nelle viscere? Che mostro è questo? Un feto in una vacca non accoppiata. Non si trova nel posto abituale, ma riempie tutto l’interno del corpo materno in modo innaturale. Si muove gemendo, i suoi arti tremano convulsivamente. Il sangue livido ha macchiato le viscere di nero. [Si interrompe mentre i corpi delle vittime iniziano improvvisamente a muoversi.] Le loro forme orribilmente mutilate cercano di alzarsi. Uno dei corpi decapitati tenta di rialzarsi e minaccia i sacerdoti con le sue corna. Le viscere mi sfuggono dalle mani. Quel suono che sentite non è il muggito del bestiame spaventato. È il rumore delle fiamme degli altari, il mormorio terrorizzato proveniente dal luogo dei sacrifici.
+
+Edipo
+
+[384] Che presagio rappresentano questi segni dei riti terribili? Parla; non esiterò ad ascoltare le tue parole con attenzione. Gli eventi più gravi spesso portano gli uomini alla calma.
+
+TIRESIA
+
+[387] Guarderai con invidia queste calamità per le quali cerchi aiuto.
+
+Edipo
+
+[388] Ditemi una cosa che gli dèi vorrebbero che sapessi: chi ha contaminato le proprie mani uccidendo il re?
+
+TIRESIA
+
+[390] Né gli uccelli che con ali leggere solcano le profondità del cielo, né i cuori strappati dai petti ancora vivi possono pronunciare quel nome. Dobbiamo tentare un altro percorso: il re stesso deve essere richiamato dalle regioni dell’eterna notte, affinché, liberato da Erebo, possa indicarci l’assassino. Dobbiamo scoperire i segreti della terra, implorare la divinità implacabile di Dis, e far emergere dal regno infernale gli abitanti dello Styx. Indica pure a chi vuoi affidare questa terribile missione; poiché non è giusto che tu, che possiedi i più alti poteri dello stato, ti avvicini alle ombre dell’aldilà.
+
+Edipo
+
+[399] A te, Creonte, spetta questo compito; tu sei colui a cui il mio regno sarà affidato successivamente.
+
+TIRESIA
+
+[401] Mentre stiamo liberandoci dalle catene dell’abisso del Styx, lasciate che il canto del popolo risuoni pieno di lodi a Bacchus.
+
+[Escono Creonte, Tiresia e Manto.]
+
+CORO
+
+[403] Lega i tuoi capelli con l’edera che ondeggia dolcemente, e nelle tue mani tenere il tirso niseo!
+
+[405] Splendida gloria del cielo, vieni qui alle preghiere che la tua stessa illustre Tebe ti offre con mani supplicanti. Volgi verso di noi il tuo volto virginale; con il tuo viso luminoso come una stella allontana le nuvole, le minacce terribili di Erebo e il destino avido. È degno di te adornare i tuoi capelli con fiori della primavera, coprire la tua testa con un turbante tirioano o intrecciare sulla tua fronte liscia i grappoli di edera; ora sciogli i tuoi capelli fluenti, ora li lega in un nodo stretto. In questo abito, come quando temevi la furia della tua matrigna, divenisti adulto con arti apparentemente false, una fanciulla simulata con riccioli dorati e una cintura di zafferano che stringeva i tuoi vestiti. Così, da allora, ti è piaciuto questo abito morbido e fluttuante. Seduto nel tuo carro d’oro, con i tuoi leoni coperti di drappi lunghi, tutta la vasta costa dell’Oriente ti vide: sia colui che beve dalle acque del Gange, sia chi rompe il ghiaccio del nevoso Arasse.
+
+[429] Un vecchio e indecoroso Sileno ti accompagna; le sue tempie gonfie sono avvolte in ghirlande di edera; mentre i tuoi giovani seguaci guidano le celebrazioni mistiche. Con te c’è una schiera di Baccanti che danzano con movimenti frenetici, ora sulla cima del Monte Pangaeo, ora sulle pendici del Pinduso tracio; ora, tra dame cadmee, appare una menade, compagna empia di Bacchus l’Ogigio: avvolta in pelli sacre di cerbiatto, brandisce un leggero tirso nella sua mano. I loro cuori, invasi dalla follia, fanno scorrere i loro capelli liberamente; e infine, dopo che le membra di Penteo sono state dilaniate, le Baccanti, ormai liberate da quella frenesia, guardano alle loro azioni infami come se non le conoscessero affatto.
+
+[444] Cadmea Ino, madre adottiva del luminoso Bacco, regna sui regni degli abissi, circondata da schiere di Nereidi che danzano; sulle onde dell’immenso mare domina un giovane, appena giunto: cugino di Bacco, non un dio comune. Palaemon.
+
+[449] O ragazzo, un tempo una banda di pirati tirrenici ti catturò; Nereo placò le onde impetuose e trasformò le acque scure in praterie. Lì fioriscono platani con foglie primaverili e boschi di allori cari a Febo; il canto degli uccelli risuona forte tra i rami. La vite rampicante si attacca alle pale, mentre i tralci d’uva si intrecciano intorno alla prua. Sulla punta della nave ruggisce un leone idaico; a poppa si accovaccia un tigre del Gange. Allora i pirati spaventati nuotano nel mare, e immergendosi nell’acqua i loro corpi assumono forme nuove: le braccia dei ladri scompaiono; i loro petti si fondono con l’addome; una piccola mano appare sul fianco; con il dorso curvo si tuffano nelle onde, e con la coda a forma di mezzaluna solcano il mare. Ora, sotto forma di delfini, inseguono le vele in fuga.
+
+<span class="atom-split" data-atom="006" data-title="OEDIPUS (parte 4)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/fate_providence,concepts/fortune,concepts/death,forms/tragedy"></span>
 
 [467] On its rich stream has Lydian Pactolus borne thee, leading along its burning banks the golden waters; the Massgetan who mingles blood with milk in his goblets has unstrung his vanquished bow and given up his Getan arrows; the realms of axe-wielding Lycurgus have felt the dominion of Bacchus; the fierce lands of the Zalaces have felt it, and those wandering tribes whom neighbouring Boreas smites, and the nations which Maeotis’ cold water washes, and they on whom the Arcadian constellation looks down from the zenith and the wagons twain. He has subdued the scattered Gelonians; he has wrested their arms form the warrior maidens; with downcast face they fell to earth, those Thermodontian hordes, gave up at length their light arrows, and became maenads. Sacred Cithaeron has flowed with the blood of Ophionian slaughter; the Proetides fled to the woods, and Argos, in his stepdame’s very presence, paid homage to Bacchus.
 
@@ -378,7 +663,89 @@ CREON
 
 [598] Straightway, like clouds, the shadowy forms flit forth and snuff the air of open heaven. Not as many falling leaves does Eryx show; nor does Hybla in mid-spring as many flowers produce, when in close masses cling the swarming bees; as many waves break not on the Ionian sea; as many birds, fleeing cold Strymon’s threats, leave not the wintry land and, cleaving the sky, change Arctic snows for the warm valley of the Nile; as were the throngs which the priest’s call summoned forth. Eagerly the shivering ghosts seek the shelter of the shady grove. First from the gound, his right hand grasping a wild bull by the horns, Zethus emerges, and Amphion, in his left holding the shell which by its sweet music drew the rocks. And midst her children Tantalis, at last safe in her pride, holds up her head with insolent arrogance, and numbers o’er her shades. A mother worse than she, Agave comes, still raging; her the whole band follows who rent their king in pieces, and after the Bacchanals mangled Pentheus comes, even now savage and holding to his threats.
 
-<span class="atom-split" data-atom="007" data-title="OEDIPUS (parte 5)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[467] Lungo il suo corso ricco, il Pactolus lidio ti ha portato, guidandoti lungo le sue rive ardenti con acque dorate; il Massgetano, che mescola sangue e latte nei suoi calici, ha abbassato l’arco vinto e gettato via le sue frecce gotiche; i regni governati da Licurgo, armato di ascia, hanno subito il dominio di Bacco; anche le terre feroci dei Zalaci ne sono state influenzate, così come quelle tribù erranti colpite dal vicino Boreas, e le nazioni bagnate dalle acque fredde del Maeotis. E loro, su cui la costellazione arcaica guarda dall’zenit. Lui ha sottomesso i dispersi Geloniani; ha strappato le armi alle loro guerriere. Con il viso abbassato, quelle orde di Thermodonti si sono arrese, abbandonando le loro frecce leggere e diventando menadi. Il sacro Cithaeron è stato inondato dal sangue degli Ophioniani uccisi; i Proetidi sono fuggiti nelle foreste, e Argos, davanti agli occhi stessi della sua matrigna, ha reso omaggio a Bacco.
+
+[487] Naxos, circondata dal mare Egeo, gli diede in sposa una fanciulla orfana, compensandola con un marito migliore. Dalle rocce aride sgorgava il liquido di Nyctelus; ruscelli serpeggiavano attraverso i prati erbosi; la terra assorbiva i succhi dolci della terra, e fontane bianche di latte nevoso e vino lesbico si mescolavano con il profumato timo. La giovane sposa viene condotta verso i cieli elevati; Febo canta un’antica melodia, con i suoi capelli che gli scendono sulle spalle, mentre i due Cupidi brandiscono le loro torce. Giove mette da parte le sue armi infuocate e, quando arriva Bacco, aborrisce il suo fulmine.
+
+[504] Finché le stelle luminose del cielo antico seguiranno il loro corso; finché l’oceano circonderà la terra imprigionata con le sue acque; finché la luna piena raccoglierà di nuovo il suo splendore perduto; finché la Stella del Giorno annuncerà l’alba; finché le maestose Orse ignoreranno l’esistenza del celeste Nereo. Per tutto questo tempo, noi continueremo a [adorare](/concepts/religion) il volto splendente del bellissimo Lyaeus.
+
+[Entra Creonte, tornato dai riti di necromanzia.]
+
+Edipo
+
+[509] Anche se il tuo volto mostra segni di dolore, dichiara per chi dobbiamo sacrificare affinché placiamo gli dèi.
+
+Creonte
+
+[511] Mi chiedi di dire ciò che la paura impedirebbe di esprimere.
+
+Edipo
+
+[512] Se la caduta di Tebe non è sufficiente a commuoverti, almeno lascia che ti commuova il vacillante scettro di una casa nostra congiunta.
+
+Creonte
+
+[514] Presto scoprirai che ciò che desideri conoscere così ardentemente non è affatto ciò che in realtà desideri.
+
+Edipo
+
+[515] L’ignoranza rappresenta un rimedio inutile ai mali. Ma davvero si vorranno seppellire anche le rivelazioni utili al bene pubblico?
+
+Creonte
+
+[517] Quando il rimedio è disgustoso, è difficile accettare di guarire con esso.
+
+Edipo
+
+[518] Pronuncia le tue notizie, altrimenti, spezzato da terribili sofferenze, scoprirai cosa può fare il potere di un re infuriato.
+
+Creonte
+
+[520] I re odiano quelle parole che sono costretti a pronunciare.
+
+Edipo
+
+[521] Sarai inviato ad Erebo, un sacrificio insignificante per tutti, a meno che con le tue parole non riveli i segreti che i riti nascondono.
+
+Creonte
+
+[523] Lasciatemi in silenzio. Si può forse chiedere ai re una libertà minore di questa?
+
+Edipo
+
+[524] Spesso, più della parola stessa, la libertà silenziosa porta rovina a re e regni.
+
+Creonte
+
+[526] Quando il silenzio non è permesso, cosa allora è permesso?
+
+Edipo
+
+[527] Chi tace quando gli viene chiesto di parlare, indebolisce il potere stesso.
+
+Creonte
+
+[528] Parole strappate a forza da me. Ti prego, ascoltale con calma.
+
+Edipo
+
+[529] È mai stato qualcuno punito per aver espresso opinioni imposte contro la sua volontà?
+
+Creonte
+
+Lontano dalla città, c’è un boschetto ombreggiato da alberi di ilex, situato vicino alla valle ben irrigata dove sgorga la sorgente di Dirce. Un cipresso, con il suo tronco maestoso che si erge sopra gli altri alberi, avvolge l’intero boschetto con il suo abbraccio sempreverde; un antico quercio, con i suoi rami contorti e in decomposizione, si estende su quel luogo. Un lato del bosco è stato distrutto dal tempo; l’altro, con le radici spezzate, pende appoggiato a un albero vicino. Qui crescono il lauro dai frutti amari, i sottili tigli, il mirto di Pafo e l’aldero, destinato a diffondere la sua forza su quel mare infinito; lì, un pino, con il suo tronco liscio che si erge verso il sole, resiste ai venti. Al centro del boschetto c’è un albero di dimensioni imponenti: con la sua ombra densa sovrasta gli altri alberi e, con i suoi rami che si estendono lontano, funge da guardiano solitario di quel luogo. Sotto quest’albero sgorga una sorgente cupa, priva di luce e sole, immersa in un freddo perpetuo; intorno a essa si estende uno stagno stagnante e fangoso.
+
+[548] Quando il vecchio sacerdote arrivava in quel luogo, non vi era alcun ritardo; l’ambiente veniva immediatamente preparato per la cerimonia notturna. Si scavava quindi una fossa nella quale venivano gettati tizzoni presi dalle pire funebri. Il sacerdote avvolgeva il corpo della vittima in un drappo nero e agitava una fronda; il suo abito cupo gli sfiorava i piedi mentre, vestito con i simboli del lutto, avanzava verso la fossa. I suoi capelli bianchi erano legati da un mazzo di tasso, pianta associata alla morte. Ovini e buoi dal vello nero venivano trascinati indietro; le fiamme divoravano i cibi offerti in sacrificio, e le vittime vive si contorcevano nel fuoco letale. Poi il sacerdote invocava gli spiriti dei morti, colui che governava quegli spiriti e colui che bloccava l’ingresso al fiume Lethaean; ripeteva incessantemente incantesimi magici e, con labbra frenetiche, recitava formule capaci di placare o costringere gli spettri a obbedire. Offriva sacrifici di sangue sugli altari, bruciava interamente le vittime e inondava la fossa con il loro sangue. Offriva anche latte bianco come neve, versava vino con la mano sinistra, ripeteva i suoi incantesimi e, fissando il suolo con uno sguardo cupo e selvaggio, chiamava gli spiriti con voce ancora più profonda e intensa.
+
+[569] Il lupo ululò forte; la profonda valle emise tre volte un suono funebre; tutto il luogo tremò e il terreno fu scosso dalle profondità sottostanti. “Le mie preghiere sono state ascoltate”, disse il sacerdote; “le parole che ho pronunciato hanno avuto effetto; il caotico regno di Caos si è aperto, e alle tribù di Dis è stato concesso il passaggio verso il mondo superiore”. Tutti gli alberi si piegarono, le loro foglie tremarono; i robusti querce si spezzarono e l’intero bosco fu scosso dal terrore; anche la terra si ritirò indietro, emettendo un gemito dalle sue profondità: forse l’Inferno si ribellava perché le sue oscure prigioni venivano attaccate, oppure la Terra stessa, desiderosa di permettere ai morti di uscire, infrangeva con fragore le sue barriere. Oppure forse il terribile Cerbero, a causa della sua furia folle, scuoteva le sue pesanti catene.
+
+[582] All’improvviso, la terra si spalancò, rivelando un abisso immenso e incommensurabile. Io stesso vidi quelle acque torpide, nascoste nell’oscurità; io stesso vidi quei divini pallidi e quella notte stessa, nella loro vera essenza. Il mio sangue si gelò, bloccando le mie vene. Allora emerse una schiera selvaggia, armata fino ai denti: l’intera stirpe dei serpenti, i fratelli nati dalle zanne di Dirce. Allora gridò la terribile Erinys, insieme alla cieca Furia e all’Orrore; apparvero tutte quelle forme oscure che nascono e si annidano tra le ombre eternhe: il Dolore, che si strappava i capelli; la Malattia, che a stento riusciva a tenere sollevata la sua testa stanca; l’Invecchiamento, schiacciato dal proprio peso; la Paura imminente, e la Pestilenza avida, la maledizione del popolo degli Ogygi. I nostri spiriti morirono dentro di noi. Anche lei, che conosceva i riti e le arti del suo vecchio padre, rimase sbalordita. Ma lui, indomito e coraggioso nonostante la sua cecità, chiamò a sé quella schiera senza sangue della crudele Dis.
+
+[598] All’istante, come nuvole, quelle ombre scure si materializzano e invadono l’aria aperta del cielo. Nessun albero autunnale produce tante foglie cadute; nessuna regione, a metà primavera, fiorisce con tale abbondanza da attirare api in gran numero; nessun mare ionio vede tante onde infrangersi sulla riva; nessun stormo di uccelli, fuggendo dalle minacce del freddo fiume Strymon, abbandona le terre invernali per attraversare il cielo e sostituire la neve artica con la calda valle del Nilo. Tante sono le schiere che il richiamo del sacerdote ha radunato. Con avidità, quelle ombre tremanti cercano rifugio nella foresta oscura. Primo emerge Zethus, con la mano destra che afferra per le corna un toro selvaggio; accanto a lui, Amphion, con la sinistra stringe il corno che, con la sua musica dolce, faceva muovere le rocce. Tra i suoi figli, Tantali, finalmente al sicuro nella propria arroganza, solleva la testa con disprezzo e conta le sue ombre. Poi arriva Agave, ancora furiosa; tutta la banda che aveva dilaniato il loro re la segue. E dopo di loro, Pentheus: ancora selvaggio, continua a mantenere le sue minacce.
+
+<span class="atom-split" data-atom="007" data-title="OEDIPUS (parte 5)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/fate_providence,concepts/fortune,concepts/death,forms/tragedy"></span>
 
 [619] At length, when often called, one lifts his shame-stricken head and, shrinking afar from all the throng, seeks to hide himself. The seer presses hard after him and redoubles his Stygian prayers, until he bring out to open view the features that fain would hide – Laïus! I shudder as I tell it. There he stood, a sight of horror, his limbs streaming o’er with blood, his ragged locks matted with foul filth; and with raving lips he spoke: “O savage house of Cadmus, rejoicing even in kindred blood, brandish the thyrsus, with frenzied hands rend thy sons – ‘twere better so; for Thebes’ crowning crime is – the love of mother. O fatherland, not by the wrath of Heaven, but by sin art thou despoiled. ’Tis not the plague-fraught south wind with its destructive blast, nor yet the earth, too little watered by the rain from heaven, that with its dry breath is harming thee; but thy blood-stained king, who as the price of cruel murder has seized the sceptre and the incestuous chamber of his sire, detested son! – but worse the mother than the son, again pregnant in her unhallowed womb; and to his own origin he returned and brought his mother impious progeny, and (a thing the beasts scarce do) himself begot brothers to himself – entanglement of evil, a monster more confused than his own Sphinx. Thee, thee, who in thy blood-stained hand dost hold the sceptre, thee and thy whole city will I, thy father, still unavenged, pursue; and with me Erinys as bridesmaid of thy nuptials will I bring, yea, I will bring her sounding with her lash; thine incestuous house will I overturn and thy household with unnatural strife will I destroy.
 
@@ -490,7 +857,119 @@ OEDIPUS
 
 JOCASTA
 
-<span class="atom-split" data-atom="008" data-title="OEDIPUS (parte 6)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[619] Alla fine, quando viene chiamato più volte, alza la testa piena di vergogna e, allontanandosi dal gruppo, cerca di nascondersi. Il veggente lo insegue con insistenza e raddoppia le sue preghiere disperate, fino a far emergere quelle sembianze che avrebbe voluto nascondere. Laio! Rabbrividisco mentre lo racconto. Lì stava: una visione di orrore; i suoi arti erano coperti di sangue, i suoi capelli sporchi e arruffati; con labbra deliranti pronunciava parole incomprensibili: “O casa selvaggia di Cadmo, che gioisci persino nel sangue dei tuoi stessi parenti, brandite il tirso, strappate via i vostri figli con mani folli. Sarebbe meglio così. Il crimine più orribile di Tebe è l’amore di una madre. O patria mia, non è la collera del Cielo a distruggervi, ma il peccato. Non è il vento del sud portatore di pestilenze, né la terra troppo arida per le piogge, ma vostro re, macchiato di sangue, che ha usurpato lo scettro e il letto incestuoso di suo padre. Figlio detestabile. Ma ancora peggiore è la madre: incinta nuovamente nel suo grembo impuro. Ha ripreso da sé stesso i propri fratelli. Un groviglio di male, un mostro più confuso della stessa Sfinge. Tu, tu che stringi lo scettro nelle tue mani insanguinate, io, tuo padre, ti perseguirò ancora, senza mai vendicarmi. E con me verrà Erinis, a fare da damigella d’onore alle tue nozze. Sì, porterò con me la sua frusta risonante. Farò crollare la tua casa incestuosa e distruggerò tutta la tua famiglia con lotte innaturali, ”
+
+[647] “Pertanto, scacciate rapidamente quel re dai vostri confini, mandatelo in esilio in qualsiasi luogo, affinché il suo passo funesto non possa più causare danno. Lasciatelo lasciare questa terra; allora, fiorita di germogli primaverili, essa riacquisterà la sua verdeggia, l’aria vitale riprenderà a respirare liberamente, e la sua [bellezza](/concepts/beauty) tornerà nelle foreste. Distruzione, Pestilenza, Morte, Sofferenza, Corruzione e Sventura, compagni adatti a lui, se ne andranno tutti insieme. E lui stesso, con passi affrettati, cercherà di fuggire dal nostro regno; ma io porrò ostacoli davanti ai suoi piedi per trattenerlo. Dovrà strisciare, incerto sulla direzione da prendere, usando il bastone dell’età per cercare la via nel buio. Privatelo della terra; suo padre gli toglierà anche il cielo.”
+
+Edipo
+
+[659] Un freddo gelido mi ha invaso ossa e membra; tutto ciò che temevo di fare mi viene attribuito. Ma Merope, ancora sposata con Polibo, smentisce l’accusa di incesto; e Polibo, vivo e vegeto, dichiara la mia innocenza. Entrambi i genitori mi scagionano da queste accuse: quale spazio rimane per il crimine? Per quanto riguarda Laio, Tebe piangeva già la sua perdita molto prima che io mettessi piede su suolo beotico. Il vecchio sacerdote mente forse, o è qualche divinità a opprimere Tebe? Ora so chi sono i complici di questa astuta congiura: il sacerdote inventa queste accuse, usando gli dèi come scudo per le sue trame, e promette a te il mio scettro.
+
+Creonte
+
+[671] Vorrei davvero che mia sorella fosse allontanata dal trono? Se il sacro dovere verso la mia famiglia non mi tenesse fermo nella mia posizione attuale, anche quella nobile condizione, sempre oppressa dalle preoccupazioni, mi spaventerebbe. Lascia che tu possa liberarti senza pericolo di questo peso, e che esso non ti schiacci quando vorrai allontanartene. Ora potrai metterti in una posizione più umile con maggiore sicurezza.
+
+Edipo
+
+[678] Mi esorti forse tu stesso, in nome della [libera volontà](/positions/free_will), a abbandonare i pesanti oneri dello stato?
+
+Creonte
+
+[679] Ecco il consiglio che darei a coloro per i quali ancora esiste la possibilità di scegliere; ma per te, ora è necessario accettare il tuo destino.
+
+Edipo
+
+[682] Chi desidera regnare ha il modo più sicuro per raggiungere il suo scopo: lodare la vita umile e parlare di tranquillità e sonno. Spesso, la calma è solo un’illusione per un’anima inquieta.
+
+Creonte
+
+[685] Non basta forse la mia lunga lealtà a parlare per me?
+
+Edipo
+
+[686] Alla lealtà dei traditori viene data l’opportunità di commettere nuovi atti di tradimento.
+
+Creonte
+
+[687] Liberato dai pesi imposti da un re, godo dei vantaggi che tale status comporta; la mia casa è onorata dalle folle dei cittadini, e nessuna giornata inizia senza che la generosità del mio parente reale colmi la mia dimora di doni; abiti eleganti, cibo ricco, protezione, tutto ciò viene concesso a molti grazie alla mia influenza. Cosa potrei ancora desiderare, per chi è così fortunato?
+
+Edipo
+
+[694] Manca solo la follia. La prosperità non conosce limiti.
+
+Creonte
+
+[695] Dovrò quindi cadere come un criminale, senza che nessuno ascolti la mia causa?
+
+Edipo
+
+[696] Avete forse rispettato la mia vita? Tiresia ha ascoltato le mie ragioni? Eppure mi considerate colpevole. Voi date l’esempio; io vi seguo semplicemente.
+
+Creonte
+
+[699] E se fossi innocente?
+
+Edipo
+
+[699] Dubbi, come se i re temessero mai le certezze.
+
+Creonte
+
+Chi trema per una paura vana merita davvero la vera paura.
+
+Edipo
+
+[701] Lasciate libero il colpevole, e lui odierà; che tutto ciò che è dubbio venga distrutto.
+
+Creonte
+
+[703] Ed è così che nasce l’odio.
+
+Edipo
+
+[703] Chi teme eccessivamente l’odio non sa come governare; la paura è la guardiana dei regni.
+
+Creonte
+
+[705] Chi impugna con durezza lo scettro esercitando un potere tirannico teme coloro che hanno paura; il terrore ricade sulla testa di colui che lo usa.
+
+Edipo
+
+[707] [Ai servitori.] Chiudete l’uomo colpevole in una prigione rocciosa e sorvegliatelo attentamente. Io tornerò al palazzo reale.
+
+[Creonte viene portato via dai suoi assistenti. Esce Edipo.]
+
+CORO
+
+[709] Non tu sei la causa dei nostri grandi pericoli; non a causa tua le sorti colpiscono la casa di Labdaco. È piuttosto l’antica ira degli dèi che ci perseguita. Il bosco di Castalia offrì ombra al viandante sidoneo, e Dirce lavò i coloni di Tiro. Quando il figlio di Agenore, stanco di inseguire in tutto il mondo i furti compiuti da Giove, si fermò spaventato sotto i nostri alberi, pregando per il rapitore di sua sorella; e seguendo il consiglio di Febo, incaricato di seguire una vacca dispersa che mai aveva portato il aratro o il giogo del carro lento, abbandonò la sua ricerca e diede nome a un popolo da quella malaugurata bestia.
+
+[725] Da quel momento in poi, la nostra terra ha continuato a produrre strani mostri: o serpenti che emergono dalle profondità della valle, sibilando in alto sopra gli antichi querce e superando i pini; sempre più in alto, oltre agli alberi di Chaonian, espongono la loro testa di colore blu scuro, sebbene la maggior parte del loro corpo rimanga ancora a terra; oppure uomini armati che emergono dalla terra stessa, emettendo il grido di battaglia dal corno ricurvo e la tromba di bronzo che diffonde suoni penetranti. Le loro lingue e le loro labbra, prima mai agili, vengono ora utilizzate per lanciare grida di battaglia con voci del tutto nuove per loro.
+
+[738] Le tribù affini popolavano le pianure; questi discendenti, degni della semina piantata, vivevano soltanto per un singolo giorno: nati dopo l’alba, perivano prima dell’aurora. Il viandante tremava di fronte a tali strani fenomeni e attendeva con terrore l’attacco di quel popolo appena nato; finché il giovane selvaggio non morì, e sua madre vide i bambini che aveva appena partorito tornare nel suo grembo. Possa ormai svanire l’orrore delle guerre civili. Possano solo le città di Ercole conoscere tali lotte fratricide!
+
+[751] E che dire della sorte del nipote di Cadmo, quando le corna dell’antico cervo coprirono la sua fronte con i loro strani rami, e i suoi stessi cani iniziarono a inseguirlo? Actaeon fuggì disperatamente attraverso foreste e montagne; con passi agili corse tra prati e luoghi rocciosi, tremando al vedere le piume che ondeggiavano nella brezza, evitando le trappole che stesso aveva preparato. Alla fine guardò nell’acqua del laghetto immobile e vide le proprie corna e il proprio volto bestiale. Fu in quel medesimo laghetto che la dea della castità troppo severa aveva bagnato i propri membri vergini!
+
+Edipo
+
+[764] La mia anima è oppressa dai suoi timori e dalle sue angosie. Gli dèi del cielo e dell’inferno affermano che Laio sia caduto a causa del mio crimine; eppure io, consapevole della mia innocenza e conoscendola meglio di quanto la conoscano gli stessi dèi, nego tutto. Ripercorrendo i vaghi sentieri della memoria, vedo che qualcuno lungo quel cammino fu colpito dal mio bastone e consegnato a Dis; ma prima ancora, quell’uomo anziano, con arroganza, spintonò via il più giovane dal sentiero. Eppure quel luogo era lontano da Tebe, dove la terra di Focide separa i tre percorsi che si diramano.
+
+[Entra GIOCASTA.]
+
+[773] Oh tu, compagna dell’anima mia, ti prego: rispondi con certezza alle mie domande. Quanti anni aveva Laio al momento della sua morte? È morto nella piena giovinezza o in età avanzata?
+
+GIOCASTA
+
+[776] A metà strada tra l’età adulta e la giovinezza, ma più vicino all’età adulta.
+
+Edipo
+
+[777] Il re era avvolto in un magnifico cordone?
+
+GIOCASTA
+
+<span class="atom-split" data-atom="008" data-title="OEDIPUS (parte 6)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/fate_providence,concepts/fortune,concepts/death,forms/tragedy"></span>
 
 [778] The most mistook the uncertain path and strayed; a few by faithful toil kept near his car.
 
@@ -754,7 +1233,271 @@ MESSENGER
 
 [926] “Why do I delay punishment?” he cries; “let someone with the sword assail this guilty breast, or overwhelm me with burning fire or stones. What tigress, what ravening bird will pounce upon my vitals? Do thou thyself, thou all-holding haunt of crime, O curst Cithaeron, send thy wild beasts against me from thy forests, send thy maddened dogs – once more send Agave. O soul, why shrinkst from death? ’Tis death alone saves innocence from fortune.”
 
-<span class="atom-split" data-atom="009" data-title="OEDIPUS (parte 7)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[778] Molti errarono lungo la via incerta e si persero; pochi, però, con un lavoro instancabile, rimasero fedeli al loro compito.
+
+Edipo
+
+[780] Qualcun altro, oltre al re, condivise la sua stessa sorte?
+
+GIOCASTA
+
+[781] Uno trovò nella fede e nel coraggio la forza di condividere il proprio destino.
+
+Edipo
+
+[782] [Tra sé.] Ho l’uomo colpevole; i dati corrispondono, e anche il luogo. [A GIOCASTA.] Ma bisogna aggiungere anche il tempo.
+
+GIOCASTA
+
+[783] Ora si sta raccogliendo la decima raccolta.
+
+[Entra un vecchio messaggero corinzio.]
+
+UOMO VECCHIO
+
+[784] [A ODIPO]. I Corinzi ti chiamano sul trono di tuo padre. Polibo ha trovato il suo riposo eterno.
+
+Edipo
+
+[786] Quanto spietata è la Fortuna che mi assale da ogni parte. Ma ditemi quale sorte ha colpito mio padre.
+
+UOMO VECCHIO
+
+[788] Un sonno dolce liberò la sua anima anziana.
+
+Edipo
+
+[789] Mio padre è morto in modo naturale, senza alcuna violenza. Chiedo che tutti sappiano che ora posso alzare le mani pulite verso il cielo, mani che non hanno nulla da temere riguardo a crimini. Tuttavia, la parte più inquietante del mio destino rimane ancora da affrontare.
+
+UOMO VECCHIO
+
+[793] Tutti i timori saranno dissipati dal regno di tuo padre.
+
+Edipo
+
+[794] Cercherei il regno di mio padre, ma mi ritraggo davanti a mia madre.
+
+UOMO VECCHIO
+
+[795] Temi forse tua madre, che, nell’ansiosa attesa, anela al tuo arrivo?
+
+Edipo
+
+[796] È proprio l’amore stesso che mi esorta a fuggire.
+
+UOMO VECCHIO
+
+[797] La lascerai vedova?
+
+Edipo
+
+[797] Proprio su questo tema temo di dover parlare.
+
+UOMO VECCHIO
+
+[798] Parla apertamente: quale timore nascosto opprime la tua anima? È mia abitudine offrire ai re un silenzio leale.
+
+Edipo
+
+Avvertito dall’oracolo di Delfi, temo il letto di mia madre.
+
+UOMO VECCHIO
+
+[801] Allora smettila di avere paura per nulla, smettila di provare quelle orribili premonizioni: in realtà, Merope non era tua madre.
+
+Edipo
+
+[803] Cosa sperava di ottenere avendo un figlio “cambiato”?
+
+UOMO VECCHIO
+
+[804] I figli dei re impongono un controllo su quella lealtà spesso grossolana.
+
+Edipo
+
+[805] I segreti di quella stanza, racconta come tu li conosca.
+
+UOMO VECCHIO
+
+[806] Furono queste mani ad affidarti, ancora un piccolo bambino, alla tua madre.
+
+Edipo
+
+[807] Mi hai dato a mia madre; ma chi ti ha dato te?
+
+UOMO VECCHIO
+
+[808] Un pastore, sotto la nevosa cima del Cithaeron.
+
+Edipo
+
+[809] Quale [caso](/concepts/fortune) ti ha portato in quel bosco?
+
+UOMO VECCHIO
+
+[810] Su quel versante della montagna, io pascolavo le mie greggi cornute.
+
+Edipo
+
+[811] Ora indica anche i segni certi presenti sul mio corpo.
+
+UOMO VECCHIO
+
+[812] Le tue piante dei piedi erano state perforate con il ferro; il tuo nome deriva dai tuoi piedi gonfi e storpiati.
+
+Edipo
+
+[814] Chi è stato colui che ti ha donato il mio corpo come regalo? Voglio saperlo.
+
+UOMO VECCHIO
+
+[815] Nutriva le greggi reali; sotto di lui c’era un gruppo di pastori più umili.
+
+Edipo
+
+[817] Ditemi il suo nome.
+
+UOMO VECCHIO
+
+[817] I ricordi più antichi di un anziano diventano sempre più vaghi a causa della debolezza e dell’uso prolungato che non ne viene fatto.
+
+Edipo
+
+[819] Riusciresti a riconoscere quell’uomo dal viso e dai tratti fisici?
+
+UOMO VECCHIO
+
+[820] Forse potrei riuscirci; a volte, un segno insignificante basta per richiamare alla mente ricordi che il tempo ha sepolto e offuscato.
+
+Edipo
+
+[822] Che tutti i greggi vengano condotti qui, presso gli altari sacri, insieme ai loro guardiani; andate, schiavi, e chiamate rapidamente coloro che hanno il controllo principale su questi greggi.
+
+[Gli schiavi partono per svolgere la loro missione.]
+
+UOMO VECCHIO
+
+[825] Che sia il disegno o la casualità a nascondere queste cose, che rimangano nascoste per sempre ciò che è stato nascosto per così lungo tempo. La verità, spesso, diventa una maledizione per colui che la scopre.
+
+Edipo
+
+[828] Esiste qualche maledizione più terribile di tutte queste?
+
+UOMO VECCHIO
+
+[829] È davvero grande il male che cerchi con tanta determinazione e sforzo. Da entrambi i lati si incontrano qui il bene pubblico e quello del re, e entrambi sono in perfetto equilibrio. Tieniti lontano da entrambi; non sfidare nulla; lascia che il destino si compia da solo.
+
+Edipo
+
+[833] Non è opportuno perturbare uno stato di felicità; ciò che è già al peggio può essere cambiato in modo sicuro.
+
+UOMO VECCHIO
+
+[835] Cerchi forse qualcosa di più nobile della discendenza reale? Fai attenzione, altrimenti potresti pentirti di aver scoperto la tua origine.
+
+Edipo
+
+[837] Cercherò la certezza, anche riguardo a ciò che è nato dal rimorso; sono così deciso a conoscere la verità.
+
+[Entra Phorbas.]
+
+[838] [A se stesso.] Ecco l’anziano, carico di anni, un tempo custode delle greggi reali: Phorbas. [ALL’UOMO ANZIANO.] Ricordi il nome o i tratti di quell’uomo?
+
+UOMO VECCHIO
+
+[841] La sua figura mi viene facilmente in mente; ma quel volto, sebbene non molto conosciuto, non è del tutto sconosciuto a me.
+
+[843] [A PHORBAS.] Mentre Laio regnava, hai mai guidato greggi ricche come schiavo nelle terre di Citaione?
+
+Phorbas
+
+[845] Cithaeron, ricco di pascoli freschi in estate, offriva terreni adatti al pascolo per le mie greggi.
+
+UOMO VECCHIO
+
+[847] Mi conosci?
+
+Phorbas
+
+[847] La mia memoria vacilla e è piena di dubbi.
+
+Edipo
+
+[848] Gli hai mai dato un figlio quest’uomo qui? Parla! Esitanti. Perché ti cambia colore il viso? Perché cerchi le parole giuste? La verità disprezza i ritardi.
+
+Phorbas
+
+[851] Tu risvegli questioni offuscate dal lungo trascorrere del tempo.
+
+Edipo
+
+[852] Parla, affinché il dolore non ti costringa a dire la verità.
+
+Phorbas
+
+[853] Gli ho dato un bambino, un dono senza valore; come avrebbe mai potuto godere della luce o del cielo?
+
+UOMO VECCHIO
+
+[855] Che quel presagio non si avveri! Lui vive, e prego che viva ancora a lungo.
+
+Edipo
+
+[856] Perché dici che il bambino che hai dato non sia sopravvissuto?
+
+Phorbas
+
+[857] Gli furono infilati attraverso entrambi i piedi sottili barre di ferro, che gli legarono le gambe insieme. Una ferita si gonfiò, causando dolore al corpo del bambino: una vera e propria piaga disgustosa.
+
+Edipo
+
+[860] [A se stesso.] Perché cercare ancora? Ora il destino si avvicina. [A PHORBAS.] Chi era quel bambino? Parla.
+
+Phorbas
+
+[861] La mia lealtà me lo vieta.
+
+Edipo
+
+[862] Portate il fuoco qui, qualcuno! Ora le fiamme cancelleranno la lealtà.
+
+Phorbas
+
+[863] Dovrebbe forse la verità essere cercata con metodi così crudeli? Vi prego, perdonatemi.
+
+Edipo
+
+[864] Se ti sembro crudele o testardo, la vendetta è nelle tue mani; parla la verità. Chi era? Di quale padre discendeva? Da quale madre nacque?
+
+Phorbas
+
+[867] Nato da tua moglie.
+
+Edipo
+
+[868] Ahimè, terra. E tu, re del mondo oscuro, sovrano delle ombre, getta nel più profondo Tartaro questo scambio innaturale tra genitori e figli. Cittadini, gettate pietre sulla mia testa maledetta; uccidetemi con le armi. Che padre e figlio mi assalgano con la spada; che marito e fratelli si uniscano contro di me. E che il popolo malato strappi tizzoni dalle fiamme per scagliarmeli addosso. Il crimine dell’epoca in cui vivo, l’odio degli dei, la distruzione della legge sacra. Già dal giorno in cui ho respirato quell’aria mai provata, meritavo la morte. [A se stesso.] Ora sii coraggioso. Ora compi un atto degno dei tuoi crimini. Vai, recati al palazzo a passi affrettati. Congratulati tua madre per la casa arricchita dai suoi figli.
+
+[Esce.]
+
+CORO
+
+[882] Se fosse mio potere plasmare il destino a mio piacimento, regolerei le vele affinché seguissero venti dolci, per evitare che si piegassero sotto la forza di raffiche violente. Possano brezze leggere e costanti guidare la mia barca senza incertezze; possa la vita portarmi avanti in sicurezza, lungo il corso giusto.
+
+[892] Mentre, spaventato dal re di Creta, il ragazzo cercava disperatamente le stelle, affidandosi a strani mezzi, e provava ad abbattere gli uccelli nel loro volo, imponendo i propri comandi a ali troppo false. Il suo nome stesso venne “rubato” al mare stesso. Ma il saggio vecchio Dedalo, trovando una via di mezzo, si fermò a metà strada tra le nuvole, aspettando il proprio figlio alato (come un uccello che fugge dal falco minaccioso per raccogliere i suoi piccoli sparsi e spaventati), fino a quando il ragazzo, nel mare, continuò a lottare, intrappolato nelle catene del suo audace tentativo di volo. Tutto ciò che supera i limiti stabiliti rimane sospeso in un luogo incerto.
+
+[Entra un messaggero proveniente dall’interno del palazzo.]
+
+[911] Ma cos’è questo? Le porte si aprono con un cigolio; ecco, un servo del re, colpito dal dolore, con la mano sulla testa. Dicci quali notizie porti.
+
+Messaggero
+
+[915] Quando Edipo affrontò il proprio destino predetto e la propria origine orribile, si condannò come colpevole di quel crimine; con intenti letali, entrò nel palazzo, avanzando a passi frettolosi verso quella dimora odiata. Come un leone libico che ruggisce nei campi, con il muso minaccioso e la criniera fulva tremante; così lui, con il volto alterato dalla passione, gli occhi folli e fissi, emettendo gemiti e mormori profondi, con il sudore freddo che gli colava lungo il corpo, pronunciava minacce e mostrava tutta la propria angoscia nascosta nel profondo del suo essere. In preda alla furia interiore, pianificò un atto orribile per adeguarsi al proprio destino.
+
+[926] “Perché ritardo la punizione?”, grida; “lasciate che qualcuno, armato di spada, colpisca questo petto colpevole, o che mi sommerga con fuoco ardente o pietre. Quale tigre, quale uccello rapace si scatenerà contro la mia vita? Tu stesso, o maledetto Cithaeron, rifugio di ogni crimine, manda le tue bestie feroci dalle tue foreste contro di me, manda i tuoi cani impazziti. Ancora una volta, manda Agave. O anima mia, perché tremi davanti alla morte? Solo la morte può salvare l’innocenza dal destino.”
+
+<span class="atom-split" data-atom="009" data-title="OEDIPUS (parte 7)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en" data-tags="assi/freedom_necessity,positions/fate_providence,concepts/fortune,concepts/death,forms/tragedy"></span>
 
 [935] With this he lays impious hand on hilt and draws his sword. “So then? With brief suffering like this canst atone for so great crimes, and with one blow wilt pay all debts? Thy death – for thy father ’tis enough; what then to thy mother, what to thy children shamefully begot, what to her who with utter ruin is atoning for thy crime, thy mourning country, wilt thou give? Thou canst not pay! Let that same Nature who in Oedipus alone reverses established laws, devising strange births, be changed anew for my punishment. Be it thine to live again, to die again, ever to be reborn, that at each birth thou mayst pay new penalties. Now use thy wit, poor wretch; let that which may not oft befall, befall thee long – choose thou a lasting death. Search out a way whereon to wander, not mingling with the dead and yet removed from the living; die thou, but reaching not thy sire. Dost hesitate, O soul?”
 
@@ -819,3 +1562,69 @@ OEDIPUS
 [1052] All ye who are weary in body and burdened with disease, whose hearts are faint within you, see, I fly, I leave you; lift your heads. Milder skies come when I am gone. He who, though near to death, still keeps some feeble life, may freely now draw deep, life-giving draughts of air. Go, bear ye aid to those given up to death; all pestilential humours of the land I take with me. Ye blasting Fates, thou quaking terror of Disease, Wasting, and black Pestilence, and mad Despair, come ye with me, with me. ’Tis sweet to have such guides.
 
 [Exit.]
+
+<span class="qlang-split" data-lang="it"></span>
+
+[935] Così, con mano empia, afferra la spada e la sguaina. “E allora? Con un breve dolore come questo puoi espiare crimini così gravi, e con un solo colpo saldare tutti i tuoi debiti? La tua morte, basta per tuo padre; ma che ne sarà di tua madre, dei tuoi figli generati in modo vergognoso, di colei che con la propria rovina sta espiando il tuo crimine, della tua patria addolorata, cosa le darai? Non puoi pagare! Che quella stessa Natura che, solo in Edipo, ha sovvertito le leggi stabilite, creando nascite strane, operi nuovamente per la mia punizione. Che sia a te decidere di vivere ancora, di morire ancora, di rinascere sempre, affinché ad ogni nascita tu debba scontare nuove pene. Ora usa la tua astuzia, povero disgraziato, scegli una morte definitiva. Trova un modo per vagabondare, senza mescolarti con i morti eppure lontano dai vivi, muori, ma non raggiungere mai tuo padre. Esiti forse, o anima mia?”
+
+[952] All’improvviso, un diluvio di lacrime sommerge il suo viso, inondando le sue guance. “Ma basta forse piangere? Solo fino a questo punto i miei occhi verseranno qualche goccia. No! Lasciate che esca tutto ciò che hanno versato. Oh dèi del matrimonio, è davvero sufficiente? Questi occhi devono essere strappati via!” Parla e delira di rabbia; le sue guance ardevono come se bruciassero di un fuoco feroce, i suoi bulbi oculari sembrano sul punto di uscire dalle orbite. Il suo viso è pieno di una follia selvaggia e spietata. Con gemiti terribili, si afferra il viso con le mani; ma i suoi occhi, ancora visibili, cercano disperatamente di uscire. Con dita acuminate, estrae i propri bulbi oculari dalle orbite e li strappa via. Le sue mani rimangono nelle cavità vuote, graffiando con le unghie quelle profonde ferite. Inutile la sua rabbia. Continua a urlare di furia.
+
+[971] Il pericolo rappresentato dalla luce è ormai superato; alza la testa, osserva le regioni del cielo con quelle orbite vuote e cerca di comprendere i misteri della notte. Strappa via gli ultimi brandelli di carne ancora attaccati agli occhi che ha rimosso in modo maldestro, e grida trionfante a tutti gli dèi: “Per favore, risparmiate ora la mia terra; ho finalmente compiuto la giustizia, ho pagato il debito che avevo. Finalmente ho trovato una notte degna del mio matrimonio.” Una terribile pioggia lo inonda; dalla sua fronte sanguinante sgorgano fiotti di sangue dalle vene spezzate.
+
+CORO
+
+[980] Siamo guidati dal destino; arrendetevi al destino. Nessuna preoccupazione ansiosa può alterare i fili del suo ineluttabile ordine. Quello che noi mortali sopportiamo, quello che facciamo, proviene dall’alto; e Lachesis mantiene fedelmente le decisioni prese dal suo fuso, irrevocabili per qualsiasi mano. Tutto procede lungo un percorso prestabilito, e il nostro primo giorno ha già determinato il nostro ultimo. Ci sono cose che Dio non può cambiare: quelle che seguono il loro corso inevitabile, strettamente legate alle loro cause. Ognuno prosegue nella propria vita, immutabile di fronte a qualsiasi preghiera. Per molti, proprio la paura rappresenta una maledizione; infatti, molti hanno incontrato il proprio destino mentre cercavano di evitarlo.
+
+[995] Le porte si sono aperte; lui stesso, senza alcuno che lo guidi e completamente cieco, cerca la strada a tentoni.
+
+[Entra Edipo.]
+
+Edipo
+
+[998] Tutto è finito; ho ripagato il debito verso mio padre. Che dolce oscurità. Quale dio, finalmente placato, ha avvolto la mia testa in questo velo nero? Chi ha perdonato i miei crimini? Sono fuggito dall’occhio vigile del giorno. Niente, o parricida, ti rimane da fare con la tua mano destra; la luce ti ha abbandonato. Questo è il volto che Oedipo deve assumere.
+
+[Entra GIOCASTA.]
+
+CORO
+
+[1004] Guardate: con passi affrettati, in preda al panico, Jocasta corre fuori, proprio come la madre di Cadmo, in un furore folle, strappò via la testa a suo figlio e poi si rese conto di ciò che aveva fatto. Esita, desidera parlare con quella donna sconvolta, ma ha paura. Ora la vergogna è stata sostituita dal dolore; ma le sue prime parole rimangono bloccate sulle sue labbra.
+
+GIOCASTA
+
+[1009] Come devo chiamarti? Figlio mio? Lo metti in dubbio? Sei mio figlio. Il termine “figlio” ti imbarazza forse? Anche se non vuoi parlare, figlio mio. Perché distogli il viso, quel tuo volto senza sguardo?
+
+Edipo
+
+[1012] Chi non vorrebbe che io godessi della mia oscurità? Chi mi restituisce la vista? È la voce di mia madre. Ho lavorato invano. È vietato che ci incontriamo di nuovo. Lasciate che il vasto mare separi i nostri cuori impii, lasciate che terre lontane ci dividano. E se sotto questo mondo esiste un altro, rivolto verso altre stelle e un sole errante, che prenda uno di noi.
+
+GIOCASTA
+
+[1019] Quella colpa è tua, frutto del destino: per volontà del fato nessuno viene ritenuto colpevole.
+
+Edipo
+
+[1020] Ora risparmia le tue parole, madre, risparmia anche i miei orecchi. Per questi resti del mio corpo distrutto, te lo supplico, per tutti coloro che discendono dal mio sangue, per tutto ciò che nei nostri [nomi](/positions/nominalism) rappresenta il giusto e l’ingiusto.
+
+GIOCASTA
+
+[1024] Perché sei intorpidita, o mia anima? Poiché hai condiviso la sua colpa, perché rifiuti di condividere anche la sua punizione? Attraverso di te, o empia, tutta la grazia della [legge umana](/concepts/human_law) è stata confusa e perduta. Allora muori, e lascia che il tuo spirito impio esca insieme alla spada. Nemmeno se lo stesso padre degli dei, scuotendo l’universo con la sua mano mortale, scagliasse contro di me i suoi fulmini abbaglianti, potrei mai pagare una pena adeguata ai miei crimini. Io, una madre maledetta. La morte è il mio desiderio più ardente; che si cerchi dunque la strada verso la morte.
+
+[1032] [A ODIPO.] Avanti, aiutami a uccidere mia madre, se davvero sei un parricida. Questo manca ancora per completare il tuo “opera”.
+
+[1034] [A se stessa.] No. Lasciami prendere la sua spada; con questa lama è stato ucciso mio marito. Anzi, perché non chiamarlo con il suo vero nome? Il padre di mio marito. Devo pugnalarmi al petto con questa spada, o conficcarla nella mia gola nuda? Non sai come scegliere il luogo giusto per infliggere il colpo? Colpisci qui. La mia mano. Attraverso questo ventre che ha portato mio marito e i miei figli!
+
+Si pugnala e cade morta.
+
+CORO
+
+[1040] Lì giace lei, morta. La sua mano si immobilizza sulla ferita, e la spada viene espulsa da forti flussi di sangue.
+
+Edipo
+
+[1042] Te, o rivelatore di destini, te, guardiano e dio della verità, è a te che mi rivolgo in rimprovero. Ai soli fati dovevo debito mio padre; due volte assassino e più colpevole di quanto temessi, ho ucciso mia madre. È a causa del mio peccato che lei è morta. O bugiardo Febo, ho superato persino le empie leggi del destino.
+
+[1047] Prosegui con passi tremanti lungo i tuoi sentieri oscuri; barcolla nella notte cieca, cercando la strada con mani incerte. Affrettati, ma fermati, per non inciampare e cadere addosso a tua madre.
+
+[1052] Tutti voi che siete stanchi nel corpo e oppressi dalla malattia, i cui cuori sono deboli. Ecco, io me ne vado; alzate la testa. Quando me ne sarò andato, arriveranno cieli più sereni. Chi, pur essendo vicino alla morte, conserva ancora un debole soffio di vita, può ora respirare liberamente, inalando aria vitale. Andate, portate aiuto a coloro che sono abbandonati alla morte; tutti i miasmi pestilenziali di questa terra li porterò con me. O Destini distruttori, o terrore tremendo della Malattia, della Distruzione e della Peste nera. Venite con me, venite con me. È dolce avere guide del genere.
+
+[Esce.]

@@ -1,6 +1,7 @@
 // Pure helpers for the tiered depth search (searchDepth.inline.ts). Kept separate so
 // they can be unit-tested without a DOM. Shard entries use compact keys to save bytes:
-// s=slug t=title g=tags l=links c=content.
+// s=slug t=title g=tags c=content. (`l`/links is dropped — the search client never reads
+// it; the graph + backlinks read links from contentIndex.json instead.)
 
 export type Entry = { s: string; t?: string; g?: string[]; l?: string[]; c: string }
 export type Doc = {

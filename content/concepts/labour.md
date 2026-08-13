@@ -6,7 +6,7 @@ label_en: "labour"
 aliases:
   - "Arbeit"
   - "work"
-work_count: 39
+work_count: 33
 tags:
   - "graph/concept"
 title: "lavoro"
@@ -15,7 +15,7 @@ title: "lavoro"
 
 *labour*
 
-## Opere (39)
+## Opere (33)
 
 **Locke**
 - [FURTHER CONSIDERATIONS CONSIDERING RAISING THE VALUE OF MONEY](/testi/locke/further_considerations_considering_raising_the_value_of_money)
@@ -35,22 +35,16 @@ title: "lavoro"
 - [Zur Kritik der politischen Ökonomie](/testi/marx/zur_kritik_der_politischen_ökonomie)
 
 **Ortega y Gasset**
-- [A los capitalistas y a los obreros](/testi/ortega-y-gasset/a_los_capitalistas_y_a_los_obreros)
 - [Ante el movimiento social](/testi/ortega-y-gasset/ante_el_movimiento_social)
 - [Antiliberalismo](/testi/ortega-y-gasset/antiliberalismo)
 - [Beatería obrerista](/testi/ortega-y-gasset/beatería_obrerista)
 - [Demasiadas huelgas](/testi/ortega-y-gasset/demasiadas_huelgas)
 - [Economía nacional](/testi/ortega-y-gasset/economía_nacional)
-- [El capitalismo y el colectivismo](/testi/ortega-y-gasset/el_capitalismo_y_el_colectivismo)
-- [El principio del trabajo](/testi/ortega-y-gasset/el_principio_del_trabajo)
-- [El principio sindicativo](/testi/ortega-y-gasset/el_principio_sindicativo)
-- [El problema agrario andaluz Una carta de don José Ortega y Gasset](/testi/ortega-y-gasset/el_problema_agrario_andaluz_una_carta_de_don_josé_ortega_y_gasset)
 - [En tiempo del lock-out.— Lo justo y lo demasiado](/testi/ortega-y-gasset/en_tiempo_del_lock-out_lo_justo_y_lo_demasiado)
 - [Hay que organizar a España](/testi/ortega-y-gasset/hay_que_organizar_a_españa)
 - [Inmediatas concesiones](/testi/ortega-y-gasset/inmediatas_concesiones)
 - [La agitación obrera](/testi/ortega-y-gasset/la_agitación_obrera)
 - [La fiesta del trabajo Pensamientos para mañana](/testi/ortega-y-gasset/la_fiesta_del_trabajo_pensamientos_para_mañana)
-- [La reforma agraria](/testi/ortega-y-gasset/la_reforma_agraria)
 - [Miscelánea socialista](/testi/ortega-y-gasset/miscelánea_socialista)
 - [Misión profesional](/testi/ortega-y-gasset/misión_profesional)
 - [Nación y trabajo](/testi/ortega-y-gasset/nación_y_trabajo)

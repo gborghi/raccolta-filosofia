@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An exposition of Herbart's doctrine: every image refers at once to what is imagined and to an I, and the problem is that of inherence, the "thing with many properties" applied to the I. The I is a Real in commerce with other Reals, whose acts of self-preservation are the representations; there follows his psychology, whose real problem is the unity of consciousness.
+
+## Connections
+
+**Assi:** [[assi/soul_body|Anima e corpo]]  
+**Concetti:** [[concepts/idea|idea]], [[concepts/self_consciousness|autocoscienza]], [[concepts/soul|anima]], [[concepts/substance|sostanza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -126,7 +134,7 @@ Il risultato del mutuo ostacolo può essere che a perda tutta la sua energia —
 
 Finora abbiamo parlato del caso in cui due rappresentazioni siano opposte. Vediamo il caso inverso. Non essendo a e b contrapposte, non si ostacolano; ma così come le opposte convivono solo nell'unità dell'anima in forma di mutuo ostacolo, le omogenee possono convivere solo unendosi. Queste unioni sono di due lignaggi: rappresentazioni di una stessa classe (colori tra loro, suoni tra loro), possono essere incontrate (esempio: bianco e nero); quelle di classe distinta, no. Le prime si uniscono soltanto in quanto l'ostacolo lo permette, e formano fusioni. Le seconde si uniscono per completo, e formano complicazioni.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/soul_body,concepts/idea,concepts/self_consciousness,concepts/soul,concepts/substance,forms/essay"></span>
 
 Lo mismo en unas que en otras hay que tener en cuenta dos instantes: las representaciones antes de ser detenidas y después. En la detención pierden una porción de sí mismas y entran a la fusión modificadas. Esto que entra de ellas es lo que tienen de común con las a la sazón dominantes en la conciencia. Después de la detención fúndense sin más, pero ya no son las mismas que eran. Han sido, por decirlo así, reducidas a un común denominador con las preexistentes.
 
@@ -234,7 +242,7 @@ Un giudizio è anche il gusto, precisamente il giudizio estimativo (Schätzung),
 
 Tale estetica ha per oggetto il bello nelle sue varie forme concrete: c'è il bello-musicale e il bello-plastico, c'è accanto a questi il bello-morale. Le prime forme del bello sono state trattate solo di passaggio da Herbart nella sua Breve Enciclopedia, in alcune altre pagine perdute dentro la sua lunga produzione; non ci interessa maggiormente. Al contrario, l'estetica morale reclama la nostra attenzione.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/soul_body,concepts/idea,concepts/self_consciousness,concepts/soul,concepts/substance,forms/essay"></span>
 
 Podía el gusto confundirse con el sentimiento de placer y dolor, que ya hemos estudiado en la psicología, así como algunos lo han confundido con el deseo. Pero la diferencia es clara a poco que nos fijemos. El deseo era aquel esfuerzo de una representación por llegar a triunfar en la conciencia; es, pues, un movimiento de la representación, un defecto de plenitud en ésta. En el juicio estimativo, por el contrario, no hay ese movimiento del representar ni esa imperfección en lo representado. La estimación o desestimación son, por decirlo así, momentáneas, tranquilas declaraciones de nuestra conciencia, simples e irrevocables como sentencias supremas. Del placer y dolor se diferencia en que, si bien tienen de común la nota de aprobación y desaprobación, lo aprobado y desaprobado por el sentimiento no es discernible, separable del sentimiento mismo. En un dolor de muelas, el desagrado y lo que desagrada no son cosas que toleren disyunción: sentimos el desagrado —dolor—, pero no sabemos bien qué es el dolor aparte del desagrado. La razón de esto se declara recordando que, en efecto, el objeto a que el sentimiento se refiere, es momentáneo, relativo, distinto siempre; es el estado general de la conciencia que varía de momento a momento y nunca se repite idénticamente.
 
@@ -324,7 +332,7 @@ L'uomo che si trova dinanzi al dilemma di cedere a un'imposizione dell'ambiente 
 
 La terza relazione tipica è l'idea di benevolenza[61]. Invece di relazionarsi una volizione mia con un'altra mia, entra anche in relazione il mio volere con l'immagine ricevuta nel mio io di un volere di un'altra persona. La mia volontà fa suo quel volere del prossimo, voglio per lui ciò che lui vuole per sé, voglio la sua soddisfazione. L'uso corrente delle parole «buono», «bontà», esprime chiaramente questa «idea». Un buon carattere è questo carattere benevolo. Consiste, non nel volere ciò che io credo che sia il bene dell'altro[62], ma ciò che io credo che lui voglia.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/soul_body,concepts/idea,concepts/self_consciousness,concepts/soul,concepts/substance,forms/essay"></span>
 
 En esta relación la voluntad de la otra persona no tiene que ser real: no es con ella como realidad con quien mi volición entra en conexión, sino sólo con la representación que yo tengo de ella. Cuando ambas voluntades —la mía y la suya— se exteriorizan, se hacen reales externamente, es que entre ambas se ha interpuesto un objeto real. Los dos tenemos un mismo objeto como término de nuestras voluntades: un conflicto sobreviene. No quiere esto decir que haya entre nuestras voluntades malevolencia, en el sentido de la «idea» anterior: en el conflicto no se refieren una a otra directamente, sino mediante el objeto. La evitación del conflicto lleva a la idea del derecho. A diferencia de las anteriores, esta idea presenta un carácter negativo: lo ingrato de todo conflicto.
 

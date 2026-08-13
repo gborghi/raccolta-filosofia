@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on Baroja: his inspiration is philosophical and social, not aesthetic — he cares not for his characters but for the constitution of the real society he lives in. Ortega praises his demolishing drive but judges it frivolous for lacking the awareness that destruction is necessary and sad. It carries the thesis that the human individual is not an individual of the biological species but of society.
+
+## Connections
+
+**Assi:** [[assi/human_nature|Natura umana]]  
+**Posizioni:** [[positions/social_animal|animale sociale]]  
+**Concetti:** [[concepts/custom|abitudine]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -160,7 +169,7 @@ Tutto questo, rigorosamente storico. Oggi leggo con frequenza nella Frankfürter
 
 È già al secondo passo della sua carriera di esploratore asiatico, e non dubito che la concluda con la normalità e il buon ritmo con cui il figlio di un cacique si fa in Spagna prima bachiller, poi laureato in Diritto, e alla fine giudice o registratore o notaio. Max Funke valeva per molto poco; forse valeva soltanto per andare una volta al Tibet. Se arriva ad andarci, avrà realizzato la sua definizione. E la Germania non tarderà ad avere a Lhasa una fattoria.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/human_nature,positions/social_animal,concepts/custom,forms/essay"></span>
 
 Mas no es lo peor que sean tan pocas las maneras de vivir entre que puede elegir el español venido al mundo. Mucho peor es que, siendo tan pocas sean tan rígidas. Entre nosotros no tolera la opinión pública esa penumbra en torno al tipo de vida adscrito a cada oficio, donde puede dar el individuo alimento a las apetencias más delicadas de su fantasía, a las efervescencias de su sentimentalidad.
 

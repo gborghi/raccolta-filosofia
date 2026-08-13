@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Ortega credits the economic interpretation of history with making history a science — beneath events, each age's economic organization rules — but denounces its exaggeration in reducing law, art, science and religion to 'superstructure'. Marx's thesis held above all for a nineteenth century that had deified the instrument and made man a homo oeconomicus.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/historical_materialism|materialismo storico]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +116,7 @@ Questo pensiero potrebbe fornirci un'interpretazione bellica della storia, che f
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/historical_materialism,forms/essay"></span>
 
 La interpretación bélica de la historia tiene de común con la idea de Marx la convicción previa de que la realidad histórica es lucha, y que en ella, quienes luchan, más que los hombres, son los instrumentos. El poder social parece repartido en cada época según la calidad y cantidad de medios de destrucción que cada hombre posea. En rigor, este pensamiento de la lucha como substrato de la realidad cósmica, lo mismo física que histórica, yace en los más hondos senos del alma moderna. Debiera haberse hecho antes la curiosa observación de que toda la física moderna está elaborada en torno a las leyes del choque formuladas por Wreen. En cambio, no se ha sabido qué hacer con la idea de «atracción universal», que, instalada en la cima de la mecánica de Newton, tuvo siempre el aire de una noción mágica y heterogénea a todas las demás de la ciencia, como caída de otro mundo espiritual distinto del moderno. Y no es el menos sugestivo síntoma de que con Einstein empieza tiempo nuevo el hecho de que haya sido el primero en destacar esa idea de «atracción» y absorber en ella, por decirlo así, toda la mecánica.
 
@@ -174,7 +182,7 @@ Ogni nave —trireme— necessitava da 150 a 180 rematori: tre file da sessanta,
 
 Verso la stessa epoca esiste in Grecia uno Stato rigidamente aristocratico: Sparta. Si compone di soli 12.000 spartani, di fronte a 180.000 iloti e 50.000 perieci. Come riescono quelli a mantenere in obbedienza una massa tanto superiore? Il mistero si chiarisce quando scopriamo che gli spartani non lasciano gli iloti prendere parte alle guerre o, al massimo, li impiegano come scudieri, e sempre senza armi. Solo ammettevano nel loro esercito un certo numero di perieci, al più uguale a quello degli spartiati.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/historical_materialism,forms/essay"></span>
 
 Lo mismo que la democracia supone el servicio militar generalizado, la aristocracia tiene que hacer del guerrear un privilegio. Siempre mandan —como insinuaba Aristóteles, hoi kektemenoi ta hopla— los que tienen las armas. La Edad Media fue de constitución aristocrática mientras supo guardar celosamente para unos pocos este privilegio del peligro y la ofensa. De aquí el [culto](/concepts/religion) a la guerra, a la postura bélica, del señor medieval. En tanto que el místico, cuyo afán es triunfar en el otro mundo, pide morir de rodillas, el bárbaro Siguardo el Fuerte, anglodanés, canta en la agonía: «¡Levantadme! Quiero morir como un soldado, y no tumbado como una vaca. Vestidme la cota, cubridme con mi casco, poned mi escudo en el brazo izquierdo y mi hacha dorada en mi diestra, a fin de que expire bajo las armas».
 
@@ -252,7 +260,7 @@ Accanto a entrambe le innovazioni —giurisdizione consolare e manipolo—, non 
 
 Il popolo romano! Converrebbe, forse, che ci intendessimo sul senso stretto di questa espressione. Sempre che parlava il Potere pubblico lo faceva in nome del Senato e del popolo —Senatus populusque romanus— il S.P.Q.R. dei tirsoli ufficiali —(che appaiono nelle processioni di Siviglia, e un ingenuo sportivo, meravigliato, leggeva: SPORT). Sorprende, prima di tutto, la dualità: Roma non è, a quanto pare, una cosa sola, ma due: un Senato e un popolo. Quando Roma cessò di essere quelle due cose e si fece una sola —al modo delle nazioni attuali— cessò di esistere. Quella dualità ha una sostanza incalcolabile, che sarebbe benefico presentare alla meditazione dei politici contemporanei. In essa va nascosto il segreto della grandezza romana —e dico il segreto, perché, in effetti, si tratta di un mistero, di una costituzione, la più irrazionale che sia mai esistita, e, nonostante ciò, o forse per ciò, la più efficace della storia. Ma non è ora occasione per tanto.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/historical_materialism,forms/essay"></span>
 
 Quería decir que si traducimos el Senatus populusque por el Senado y el pueblo, habremos dado una versión literal, pero falsa. Por pueblo entendemos hoy el cuerpo civil. Pues bien: el sentido verdadero de populus fue originariamente el de cuerpo armado. Para quien quisiera expresar el significado más hondo de esa fórmula, según el espíritu de Roma, tendría que invertir paradójicamente los términos, y decir: el pueblo y el Ejército. En la mente romana lo civil era el Senado: los señores territoriales, las viejas familias o gentes que gozaban de derecho sagrado, se casaban por confarreatio y podían dejar herederos. Estos herederos —que heredan todo, hacienda y plenitud de derechos— son los únicos hijos de padre, los patricios. Los demás no tienen padre, en puro estilo jurídico romano, sino sólo generador; son prole —de aquí proletarios. Estos viejos agricultores, el pueblo civil, combate con las armas en la mano, pero necesita auxiliares para sus campañas, y entonces organizan en torno a sí un cuerpo de guerreros —el populus—, compuesto de los pequeños terratenientes asentados en la campiña. Mommsen pone este vocablo en relación con populari, que no es poblar, sino, al contrario, despoblar, devastar. (El que hería la víctima del sacrificio se llamaba popa). El populus primitivamente no interviene sino en faenas de guerra, y su ingreso en la política se hace a fuerza de huelgas militares. Cuando el enemigo se acerca a las Siete Colinas, el populus se niega a formar y partir a la guerra. De aquí las innumerables y legendarias retiradas a uno u otro monte —Aventino, Sacro, Janículo, etcétera—, que tantas cabezas de eruditos han quebrado.
 

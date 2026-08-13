@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial against political murders that traces them to their moral root: nineteenth-century capitalism, cultivating the nerve of interest and the dogma of utility to the exclusion of all else, blunted the moral emotions. Marx rejected justice as a ground for socialism and Sorel commends violence because it works; the low agitator draws the last utilitarian consequence—assassination.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/utility_pleasure|utile e piacere]]  
+**Concetti:** [[concepts/justice|giustizia]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

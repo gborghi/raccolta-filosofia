@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A request to the minister of education to mount a Zuloaga exhibition, not as homage but as a pedagogical act: Zuloaga's painting throws one back on the Spanish problem and is a national examination of conscience. It includes a definition of genius as an experimental value and a secular perspective ('genial are the creations that can still bear children').
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]], [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

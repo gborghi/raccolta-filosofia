@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Open letter to Castrovido (1914) protesting Unamuno's dismissal, defending the generic use of intelligence and the solidarity of intellectuals. A civic, non-philosophical piece.
+> The digest records 500 words but zero atoms and neither sample nor structure: the text cannot be inspected. From the title, a letter on Unamuno's dismissal. Flagged for extraction review.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The close of a speech: Ortega concedes his own slight capacity for political action and calls dynamic men to a new party of enormous size and rigorous discipline, able to impose itself on all partisanship, to take the Republic in hand like a chisel — "to organise the gaiety of the Spanish Republic".
+
+## Connections
+
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

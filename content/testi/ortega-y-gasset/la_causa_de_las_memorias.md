@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A short essay on why France produces so many memoirs and Spain so few. The cause, he claims, is joy in living: memoirs and the novel are twin ways of caressing existence, whereas the Spaniard feels life as a universal toothache.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short pedagogical essay against using Don Quixote in schools: too modern for children's classrooms, which should stay primitive; the choice of readings should follow from the notion of child life.
+> A 101-word fragment for which the digest gives no sample: content cannot be judged. The title points to Ortega's series of articles on child life.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

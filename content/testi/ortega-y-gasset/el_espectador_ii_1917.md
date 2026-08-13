@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Contains only the epigraph (Aristotle, Nicomachean Ethics: be like archers with a target) of El Espectador vol. II. No content in the sample.
+> A 31-word item with no sample in the digest: probably the title page of the second volume of El Espectador (1917). Content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

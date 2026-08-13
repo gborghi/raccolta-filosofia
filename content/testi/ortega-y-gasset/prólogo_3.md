@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A 1940 preface: after five wandering years of poverty and illness he cannot finish his two big books, Aurora de la razón histórica and El hombre y la gente, and meanwhile publishes the first chapter of the former, 'Ideas y creencias', along with the Granada address, pages on Hegel, 'Miseria y esplendor de la traducción' and the memoirs of Gaspar de Mestanza. It includes a recollection of Unamuno.
 

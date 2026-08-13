@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Prologue to Herbart's work: the first great attempt to reduce education to a science founded on ethics (its end) and psychology (its means); it concludes that the teacher must be a philosopher, lamenting the absence of philosophy in Spanish teacher-training schools.
+> The digest carries no text sample at all (0 atoms): only the title and length (about 2,007 words) are given. The content cannot be judged from what is provided; no tags assigned.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

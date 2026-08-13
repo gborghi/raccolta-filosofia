@@ -12,8 +12,19 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > An Eleatic Stranger tracks down a definition of the sophist through the method of division, finally identifying him as an 'image-maker' — a mimetic art — which forces a confrontation with the problem of not-being: how can false appearance exist if not-being is not at all? The Stranger 'kills the father Parmenides' by showing not-being to be otherness, and redefines being as a communion of the highest kinds.
+
+## Connections
+
+**Assi:** [[assi/method|Metodo]], [[assi/reality_status|Statuto del reale]]  
+**Posizioni:** [[positions/dialectic|dialettica]], [[positions/realism_of_ideas|realismo delle idee]]  
+**Concetti:** [[concepts/mimesis|mimesis (imitazione poetica)]], [[concepts/substance|sostanza]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]  
+**Scuole:** [[schools/academy|Accademia platonica]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -228,7 +239,7 @@ TEETETO: Sì.
 
 STRANIERO: E non v'è ragione che l'arte della caccia non debba essere ulteriormente divisa.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 THEAETETUS: How would you make the division?
 
@@ -636,7 +647,7 @@ STRANIERO: In seguito, supporremo che l'arte del vendere sia divisa in due parti
 
 TEETETO: Come?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 STRANGER: There is one part which is distinguished as the sale of a man’s own productions; another, which is the exchange of the works of others.
 
@@ -984,7 +995,7 @@ Vi è la purificazione dei corpi viventi nelle loro parti interne ed esterne, de
 
 THEAETETUS: Verissimo.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 STRANGER: There can be no doubt that they are thought ridiculous, Theaetetus; but then the dialectical art never considers whether the benefit to be derived from the purge is greater or less than that to be derived from the sponge, and has not more interest in the one than in the other; her endeavour is to know what is and is not kindred in all arts, with a view to the acquisition of intelligence; and having this in view, she honours them all alike, and when she makes comparisons, she counts one of them not a whit more ridiculous than another; nor does she esteem him who adduces as his example of hunting, the general’s art, at all more decorous than another who cites that of the vermin-destroyer, but only as the greater pretender of the two. And as to your question concerning the name which was to comprehend all these arts of purification, whether of animate or inanimate bodies, the art of [dialectic](/positions/dialectic) is in no wise particular about fine words, if she may be only allowed to have a general name for all other purifications, binding them up together and separating them off from the purification of the soul or intellect. For this is the purification at which she wants to arrive, and this we should understand to be her aim.
 
@@ -1292,7 +1303,7 @@ Per tutte queste ragioni, Teeteto, dobbiamo ammettere che la confutazione è la 
 
 THEAETETUS: Verissimo.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 STRANGER: And who are the ministers of this art? I am afraid to say the Sophists.
 
@@ -1620,7 +1631,7 @@ THEAETETUS: Certamente.
 
 STRANIERO: E non si dovrebbe forse supporre un'arte imitativa del ragionamento? Non è forse possibile incantare i cuori dei giovani con parole versate attraverso le loro orecchie, quando sono ancora lontani dalla verità dei fatti, mostrando loro argomenti fittizi, e facendo loro credere che siano veri, e che colui che parla sia il più saggio degli uomini in ogni cosa?
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 THEAETETUS: Yes; why should there not be another such art?
 
@@ -1904,7 +1915,7 @@ THEAETETUS: L'argomento implica che avremmo torto nel farlo.
 
 STRANIERO: Ma come può un uomo esprimere a parole o anche solo concepire col pensiero cose che non sono, o una cosa che non è, senza numero?
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 THEAETETUS: How indeed?
 
@@ -2264,7 +2275,7 @@ STRANIERO: Sì, un cieco, come si dice, potrebbe vedere ciò, e, a meno che ques
 
 TEETETO: Verissimo.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 STRANGER: And therefore I must venture to lay hands on my father’s argument; for if I am to be over-scrupulous, I shall have to give the matter up.
 
@@ -2548,7 +2559,7 @@ STRANIERO: Diremo che l'essere è uno e un tutto, perché ha l'attributo dell'un
 
 TEETETO: Questa è un'alternativa difficile da offrire.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 STRANGER: Most true; for being, having in a certain sense the [attribute](/concepts/attribute) of one, is yet proved not to be the same as one, and the all is therefore more than one.
 
@@ -2840,7 +2851,7 @@ STRANIERO: Essi negano ciò, e dicono che la potenza dell'agire e del subire è 
 
 TEETETO: E non c'è forse qualche verità in ciò che dicono?
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 STRANGER: Yes; but our reply will be, that we want to ascertain from them more distinctly, whether they further admit that the soul knows, and that being or essence is known.
 
@@ -3160,7 +3171,7 @@ TEETETO: No.
 
 STRANIERO: Allora con questa ammissione tutto è immediatamente sovvertito, tanto la dottrina del movimento universale quanto quella del riposo universale, e anche la dottrina di coloro che distribuiscono l'essere in generi immutabili ed eterni; giacché tutti costoro aggiungono una nozione dell'essere, gli uni affermando che le cose 'sono' veramente in movimento, gli altri che 'sono' veramente in quiete.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 THEAETETUS: Just so.
 
@@ -3520,7 +3531,7 @@ STRANIERO: E l'altro è sempre relativo ad altro?
 
 TEETETO: Vero.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 STRANGER: But this would not be the case unless being and the other entirely differed; for, if the other, like being, were absolute as well as relative, then there would have been a kind of other which was not other than other. And now we find that what is other must of necessity be what it is in relation to some other.
 
@@ -3904,7 +3915,7 @@ STRANIERO: Ora, non solo abbiamo dimostrato che le cose che non sono, sono, ma a
 
 E certamente, Straniero, avevamo proprio ragione.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 STRANGER: Let not any one say, then, that while affirming the opposition of not-being to being, we still assert the being of not-being; for as to whether there is an opposite of being, to that enquiry we have long said good-bye — it may or may not be, and may or may not be capable of definition. But as touching our present account of not-being, let a man either convince us of error, or, so long as he cannot, he too must say, as we are saying, that there is a communion of classes, and that being, and difference or other, traverse all things and mutually interpenetrate, so that the other partakes of being, and by reason of this participation is, and yet is not that of which it partakes, but other, and being other than being, it is clearly a necessity that not-being should be. And again, being, through partaking of the other, becomes a class other than the remaining classes, and being other than all of them, is not each one of them, and is not all the rest, so that undoubtedly there are thousands upon thousands of cases in which being is not, and all other things, whether regarded individually or collectively, in many respects are, and in many respects are not.
 
@@ -4124,7 +4135,7 @@ Intendo dire che parole come «cammina», «corre», «dorme», o qualsiasi altr
 
 TEETETO: Come possono?
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 STRANGER: Or, again, when you say ‘lion,’ ‘stag,’ ‘horse,’ or any other words which denote agents — neither in this way of stringing words together do you attain to discourse; for there is no expression of action or inaction, or of the existence of existence or non-existence indicated by the sounds, until verbs are mingled with nouns; then the words fit, and the smallest combination of them forms language, and is the simplest and least form of discourse.
 
@@ -4520,7 +4531,7 @@ STRANIERO: L'opinione che la natura li faccia nascere da qualche causa spontanea
 
 Oserei dire che, a causa della mia giovinezza, possa spesso vacillare nella mia opinione, ma ora, quando guardo a te e vedo che inclini a riferirli a Dio, mi rimetto alla tua autorità.
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,assi/reality_status,positions/dialectic,positions/realism_of_ideas,concepts/mimesis,concepts/substance,figures/socrates,forms/dialogue,schools/academy"></span>
 
 STRANGER: Nobly said, Theaetetus, and if I thought that you were one of those who would hereafter change your mind, I would have gently argued with you, and forced you to assent; but as I perceive that you will come of yourself and without any argument of mine, to that belief which, as you say, attracts you, I will not forestall the work of time. Let me suppose, then, that things which are said to be made by nature are the work of divine art, and that things which are made by man out of these are works of human art. And so there are two kinds of making and production, the one human and the other divine.
 

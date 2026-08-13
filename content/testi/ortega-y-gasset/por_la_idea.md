@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The close of a series (España, 1915) on liberty: Spanish law must be reformed to guarantee the exercise of liberties and give legal standing to resistance against abuses of authority, as with the plea of unconstitutionality in Switzerland and the United States. It ends bitterly: liberty—'the right to distance between man and man'—is now either felt or not, and Spaniards do not feel it.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Concetti:** [[concepts/freedom|libertà]], [[concepts/law|legge]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

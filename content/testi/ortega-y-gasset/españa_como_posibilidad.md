@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Newspaper comment (1910) on Meier-Graefe's Viaje de España: Spain as a European possibility. Its one theoretical claim is that the breadth of a horizon depends not on the land but on the point of view, and that «Europe» is not a geographical expression but a vantage point to be planted over Spain.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/perspectivism|prospettivismo]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

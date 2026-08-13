@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Art criticism on the Zubiaurre brothers, Basque deaf-mute painters: silence, Ortega argues, dams up expressive force and makes it emerge as gesture, so that in their canvases figures, clothes and landscapes radiate intimacy. He contrasts their way (subject as centre of gravity) with French painting, where the sitter is a mere pretext for formal qualities.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

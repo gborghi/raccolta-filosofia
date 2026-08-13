@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Behind the multiplicity of directions in young art Ortega seeks the common ground — "different things differ in what they resemble", as Aristotle taught — and finds it in the tendency to dehumanise art. Comparing an 1860 canvas with a recent one: the earlier painter first of all secured resemblance, whereas the new painter is not missing his target but deliberately going against reality, burning the bridges to our habitual world and forcing us to invent unprecedented acts — which are artistic understanding and enjoyment.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Figure:** [[figures/aristotle|Aristotele]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

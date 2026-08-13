@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A dispatch from Marburg on El Greco's sudden vogue in Germany, set off by Julius Meier-Graefe's Viaje de España, which after the Prado repudiates Velázquez in favour of El Greco. Art criticism and cultural chronicle, with one theoretical aside: what is not natural is cultural.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +126,7 @@ Tuttavia, la scienza ufficiale estetica di Monaco e Berlino ha reagito, come tan
 
 Justi, la massima autorità in queste materie, si vendica nella nuova edizione del suo monumentale libro su Velázquez, insistendo nella leggenda che fa del Greco un povero pazzo megalomane, impegnato a differenziarsi da Tiziano; altri appuntano il sospetto che patisse una certa anomalia oculare che gli faceva vedere gli oggetti allungati. Infine, Augusto L. Mayer, che gode una fama invidiabile di specialista in storia dell'arte spagnola, ha appena pubblicato un tometto, dove, senza accettare quelle supposizioni, combatte crudamente il suo collega Meier-Graefe.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty"></span>
 
 Y en tanto, los libros sobre el Greco se venden a granel; sus cuadros alcanzan precios fabulosos y muchos honrados filisteos se dan de cabezadas para penetrar en el alcázar maravilloso de las visiones grequescas, un alcázar con puertas de triple bronce que no se han abierto todavía. Greco tiene que ser tomado por asalto, como un castillo roquero, y no a todo el mundo puede pedirse este bélico esteticismo.
 

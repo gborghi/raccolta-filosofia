@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On Azorín's aesthetic: his characters matter not in themselves but because each is the end of an unlimited series of identical elements, the pleasure being that of sheer repetition. He sets beside it the biology of Semon and Hering, for whom mneme is the elementary force of life, and notes that such art has no room for the heroic, since heroism is a break with habit.
+
+## Connections
+
+**Concetti:** [[concepts/custom|abitudine]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

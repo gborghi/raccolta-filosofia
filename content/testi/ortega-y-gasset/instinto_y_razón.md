@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short essay (El Sol 1927) which, from Stefansson's example among the Eskimos, argues that reason does not replace but completes and corrects instinct: a miniature statement of ratiovitalism.
+> A very short text (151 words). The digest carries no prose sample, so nothing beyond the title can be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

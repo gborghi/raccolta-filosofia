@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An obituary of Max Scheler, but the sample is almost wholly a diagnosis of the positivism Scheler came out of: the positivist was a tightrope walker over the void, because in emptying the world of sense he admitted only 'facts' and frequencies of relations among facts, never any way of being of things; and yet, Ortega notes, an error must be ridden to the end, for thought feeds on its own errors.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/empiricism|empirismo]]  
+**Concetti:** [[concepts/experience|esperienza]], [[concepts/cause|causa]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +99,7 @@ Oggi ci sembra favoloso che trent'anni fa fosse mestieri passare tanti fastidi e
 
 Il cambiamento, per il fatto di essere improvviso, assomiglia a ciò che ci accade quando guardiamo a faccia in giù l'acqua della vasca. Prima vediamo soltanto acqua, che quanto più è limpida tanto meno è visibile, più vuota di contorno e figura. Ma a un tratto, variando minimamente l'accomodazione oculare, vediamo la vasca abitata da tutto un paesaggio. L'orto vi si bagna, le mele nuotano, riflesse nel liquido, e la luna della prima sera passeggia sul fondo la sua ispettrice faccia da palombaro. Qualcosa di simile accade nei grandi cambiamenti storici: in fin dei conti, la loro [causa](/concepts/cause) radicale è una semplice variazione dell'apparato mentale dell'uomo, che gli fa raccogliere riflessi prima inavvertiti.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,positions/empiricism,concepts/experience,concepts/cause,forms/essay"></span>
 
 El afán sempiterno de la filosofía —la aprehensión de las esencias— se lograba, por fin, en la fenomenología de la manera más sencilla. Fácil es comprender la embriaguez del primero que usó esta nueva óptica. Todo en su derredor se henchía de sentido, todo era esencial, todo definible, de aristas inequívocas, todo diamante. El primer hombre de genio, Adán del nuevo Paraíso, y como Adán hebreo, fue Max Scheler. Por lo mismo, ha sido de nuestra época el pensador por excelencia. Ahora, con su muerte, esa época se cierra —la época del descubrimiento de las esencias. Su obra se caracteriza por la más extraña pareja de cualidades: claridad y desorden. En todos sus libros —sin arquitectura— se habla de casi todas las cosas. Conforme leemos, advertimos que el autor no puede contener la avalancha de sentido que se le viene encima. En vez de ir penosamente a descubrirlo en vagas lontananzas, se siente acometido por él. Los objetos más a la vera disparan urgentes su secreto esencial. Scheler no sabe resistir, y puesto en viaje hacia los grandes problemas, los olvida para enunciar las verdades sobre lo inmediato. Ha sido el filósofo de las cuestiones más cercanas: los caracteres humanos, los sentimientos, las valoraciones históricas. Dejaba siempre para luego la metafísica, la teoría del conocimiento, la lógica. Y, sin embargo, había pensado también sobre ellas. Pero vivía mentalmente atropellado, de pura riqueza. Al mover las manos en el aire próximo, como a un prestidigitador, se le llenaban de joyas. Es un [caso](/concepts/fortune) curiosísimo de sobreproducción ideológica. No ha escrito una sola frase que no diga en forma directa, lacónica y densa, algo esencial, claro, evidente y, por tanto, hecho de luminosa serenidad. Pero tenía que decir tantas serenidades, que se atropellaba, que iba dando tumbos, ebrio de claridades, beodo de evidencias, borracho de serenidad. La expresión es barroca, pero, como todo lo barroco, se encuentra siempre en los clásicos. Para Platón, el filósofo es recognoscible por ese paradójico gesto. A su juicio, el filósofo no es un hombre tranquilo, tibio, pausado. Es un frenético, un exaltado, un «entusiasta». «Entusiasmo» era el estado orgiástico que producían ciertos cultos, especialmente el de Dionysos. Es, pues, un hombre embriagado. Sólo que la [materia](/positions/materialism) de que se embriaga es precisamente lo contrario de todo frenesí: la serenidad de lo evidente, la calma cósmica de lo verdadero, fijo en sí mismo, inmutable, eterno. En efecto, no es verosímil que tenga nadie algo de filósofo y no se le vea en la cara algún vestigio de esa serena borrachera inseparable de quien es bebedor de esencias. Proyectando esta impresión en su vocabulario plástico, los antiguos crearon ese doble busto tan extraño que llamaban Dionysoplatón. Dos caras pegadas por el cogote: la una, de facciones serenas; la otra, en orgiástico arrebato.
 

@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Political address drawing on Fichte (politics as declaring what is): true public opinion lies beneath commonplaces, and every generation must dare to formulate its own authentic feelings, on pain of historical sterility.
+> The digest records 795 words but zero atoms and no sample: the text cannot be inspected. The title concerns public opinion in times of crisis, but the content is unverifiable.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

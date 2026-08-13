@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A press polemic against Maura: the 1907 Crown message on foreign policy is reproduced unchanged in 1919, yet maurismo was in fact anti-French and anti-British during the war. Topical political journalism, no philosophical content.
 

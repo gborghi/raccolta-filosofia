@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against the 'new old houses' of 1926 in Madrid and Seville: the will to style is praiseworthy, but choosing a ready-made style from the past is an error. The errors listed: that art is always creation and never election (on the beholder's side too); that taste has none of the licence of 'there is no accounting for taste'; that each epoch must have its own congenital style, a predetermined fruit of its very being. Architectural criticism.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ A rigore, oggi non volevo se non arrivare, con qualche senso per il lettore, a q
 
 Nell'ammobiliare una stanza o costruire un edificio è un dovere vitale, ispirato dalla stima verso se stesso, tentare la bellezza, partendo dalle forme e necessità attuali. Ed è preferibile sbagliarsi al servizio di questo impegno che azzeccare nella triviale risoluzione di copiare un vecchio stile.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Nadie saldría a la calle —fuera de Carnestolendas— vestido con un traje a lo Felipe IV. Sería hacer de la propia vida y el propio ser una ruin mascarada. Pues ¿qué diferencia hay entre eso y vivir en una nueva casa antigua? La casa, como los nómadas árabes dicen de la tienda de campaña, es el traje de la familia.
 

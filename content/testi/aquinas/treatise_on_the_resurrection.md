@@ -12,8 +12,16 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > Treatise on the state of separated souls after death, before the resurrection of the body: the places assigned to them (heaven, hell, limbo), the possibility of suffering from a bodily fire, and the efficacy of the living's suffrages for the dead.
+
+## Connections
+
+**Concetti:** [[concepts/soul|anima]], [[concepts/death|morte]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +36,7 @@ TREATISE ON THE RESURRECTION (QQ[69]-86)
 
 Trattato sulla Resurrezione (QQ[69]-86)
 
-<span class="atom-split" data-atom="002" data-title="OF MATTERS CONCERNING THE RESURRECTION, AND FIRST OF THE PLACE WHERE SOULS ARE AFTER DEATH (SEVEN ARTICLES)" data-chapter="OF MATTERS CONCERNING THE RESURRECTION, AND FIRST OF THE PLACE WHERE SOULS ARE AFTER DEATH (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF MATTERS CONCERNING THE RESURRECTION, AND FIRST OF THE PLACE WHERE SOULS ARE AFTER DEATH (SEVEN ARTICLES)" data-chapter="OF MATTERS CONCERNING THE RESURRECTION, AND FIRST OF THE PLACE WHERE SOULS ARE AFTER DEATH (SEVEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 In sequence to the foregoing we must treat of matters concerning [the state](/concepts/state) of resurrection: for
 after speaking of the sacraments whereby man is delivered from the death of sin, we must next
@@ -62,7 +70,7 @@ In seguito a quanto preceduto, dobbiamo trattare delle questioni relative allo [
 (6) Il limbo dei patriarchi è lo stesso del limbo dei bambini morti senza battesimo?  
 (7) Dovrebbero essere distinti diversi tipi di luoghi per le anime dopo la morte?
 
-<span class="atom-split" data-atom="003" data-title="Whether places are appointed to receive souls after death?" data-chapter="Whether places are appointed to receive souls after death?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether places are appointed to receive souls after death?" data-chapter="Whether places are appointed to receive souls after death?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that places are not appointed to receive souls after death. For as
 Boethius says (De Hebdom.): "Wise men are agreed that incorporeal things are not in a place," and
@@ -123,7 +131,7 @@ the same way as bodies which are maintained by their respective places: yet thes
 through knowing themselves to be appointed to such places, gather joy or sorrow therefrom; and
 thus their place conduces to their punishment or reward.
 
-<span class="atom-split" data-atom="004" data-title="Whether souls are conveyed to heaven or hell immediately after death?" data-chapter="Whether souls are conveyed to heaven or hell immediately after death?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether souls are conveyed to heaven or hell immediately after death?" data-chapter="Whether souls are conveyed to heaven or hell immediately after death?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no souls are conveyed to heaven or hell immediately after
 death. For a gloss on Ps. 36:10, "Yet a little while and the wicked shall not be," says that "the saints
@@ -223,7 +231,7 @@ Risposta all’Obiezione 3: Esiste una sorta di continuità tra gli uomini rigua
 
 Risposta all’Obiezione 4: Gregorio affronta e risolve proprio questa difficoltà (Dial. iv, 25): “Se dunque”, dice, “le anime dei giusti si trovano già in cielo ora, cosa riceveranno in ricompensa della loro giustizia nel giorno del giudizio?” E risponde: “Certamente sarà un vantaggio per loro nel giorno del giudizio il fatto che, mentre ora godono soltanto della felicità dell’anima, in seguito godranno anche di quella del corpo, potendo così gioire anche nella carne nella quale hanno sopportato dolore e sofferenze per il Signore.” Lo stesso si può dire riguardo ai dannati.
 
-<span class="atom-split" data-atom="005" data-title="Whether the souls who are in heaven or hell are able to go from thence?" data-chapter="Whether the souls who are in heaven or hell are able to go from thence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether the souls who are in heaven or hell are able to go from thence?" data-chapter="Whether the souls who are in heaven or hell are able to go from thence?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,positions/providence,concepts/miracle,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the souls in heaven or hell are unable to go from thence. For
 [Augustine](/figures/augustine) says (De Cura pro Mort. xiii): "If the souls of the dead took any part in the affairs of the
@@ -345,7 +353,7 @@ Risposta all’Obiezione 5: Non esiste alcuna parità tra demoni e angeli da un 
 
 Risposta all’Obiezione 6: Sebbene le anime dei santi o dei dannati a volte appaiano effettivamente nei luoghi in cui si manifestano, non dobbiamo credere che ciò avvenga sempre; infatti, talvolta queste apparizioni si verificano sia nelle persone addormentate che sveglie, per opera di angeli buoni o malvagi, al fine di istruire o ingannare i vivi. Così pure, a volte anche i vivi appaiono ad altri e raccontano loro molte cose durante il sonno; tuttavia è evidente che in tali casi non sono realmente presenti, come dimostra Agostino attraverso numerosi esempi (De Cura pro Mort., xi, xii).
 
-<span class="atom-split" data-atom="006" data-title="Whether the limbo of hell is the same as Abraham's bosom?" data-chapter="Whether the limbo of hell is the same as Abraham's bosom?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether the limbo of hell is the same as Abraham's bosom?" data-chapter="Whether the limbo of hell is the same as Abraham's bosom?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the limbo of hell is not the same as Abraham's bosom. For
 according to [Augustine](/figures/augustine) (Gen. ad lit. xxxiii): "I have not yet found [Scripture](/concepts/revelation) mentioning hell in a
@@ -420,7 +428,7 @@ Risposta all’Obiezione 1: Lo stato dei Santi Padri, per quanto riguarda ciò c
 Risposta all’Obiezione 2: Il luogo di riposo dei santi Padri veniva chiamato “grembo di Abramo” sia prima che dopo la venuta di Cristo, ma in modi diversi. Poiché, prima della venuta di Cristo, il riposo dei santi era accompagnato da una mancanza di vera pace, quel luogo veniva definito sia inferno che “grembo di Abramo”; perciò in quel contesto Dio non veniva visto. Tuttavia, dopo la venuta di Cristo, il riposo dei santi diventa completo grazie alla visione di Dio; quindi questo stesso luogo viene chiamato “grembo di Abramo”, ma assolutamente non inferno. È proprio a questo “grembo di Abramo” che la Chiesa prega affinché i fedeli possano essere condotti.  
 Da ciò risulta evidente anche la risposta alla Terza Obiezione; lo stesso significato si applica anche a una spiegazione del versetto di Luca 16:22 (“Avvenne che il mendicante morì”), secondo cui “il grembo di Abramo è il riposo dei poveri beati, ai quali appartiene il regno dei cieli”.
 
-<span class="atom-split" data-atom="007" data-title="Whether limbo is the same as the hell of the damned?" data-chapter="Whether limbo is the same as the hell of the damned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether limbo is the same as the hell of the damned?" data-chapter="Whether limbo is the same as the hell of the damned?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the limbo of hell is the same as the hell of the damned. For
 Christ is said to have "bitten" [*Allusion to Osee 13:14] hell, but not to have swallowed it, because
@@ -486,7 +494,7 @@ Risposta all’Obiezione 1: Quando Cristo, con la Sua discesa, liberò i Padri d
 
 Risposta all’Obiezione 3: Giobbe discese non all’inferno dei dannati, ma nel limbo degli Antenati. Quest’ultimo viene definito il luogo più profondo non in riferimento ai luoghi di punizione, ma in confronto ad altri luoghi, poiché include tutti i luoghi punitivi sotto un’unica categoria. Possiamo anche rispondere citando Agostino (Genesi, XII): egli dice di Giacobbe: “Quando Giacobbe disse ai suoi figli: ‘Farrete sì che le mie canute chiome cadano nel dolore all’inferno’, sembra temesse soprattutto di essere tormentato da un dolore così grande da non ottenere, al contrario degli altri uomini buoni, l’ingresso nel regno dei giusti, ma piuttosto l’inferno dei peccatori”. Anche le parole di Giobbe possono essere interpretate nello stesso modo: esse rappresentano l’espressione del terrore di una persona, piuttosto che un’affermazione categorica.
 
-<span class="atom-split" data-atom="008" data-title="Whether the limbo of children is the same as the limbo of the Fathers?" data-chapter="Whether the limbo of children is the same as the limbo of the Fathers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether the limbo of children is the same as the limbo of the Fathers?" data-chapter="Whether the limbo of children is the same as the limbo of the Fathers?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the limbo of children is the same as the limbo of the Fathers.
 For punishment should correspond to sin. Now the Fathers were detained in limbo for the same sin
@@ -537,7 +545,7 @@ D’altra parte, nei bambini esiste un ostacolo sia a livello della persona che 
 
 Risposta all’Obiezione 2: Agostino si riferisce alle punizioni che qualcuno subisce in base alla sua stessa natura o condizione personale. Tra queste, le più lievi sono quelle inflitte a coloro che sono colpiti soltanto dal peccato originale. Ancora più leggere sono le punizioni riservate a coloro a cui viene negata la possibilità di ricevere la gloria non a causa di alcun difetto personale, ma unicamente per una caratteristica intrinseca alla loro natura; proprio questo ritardo nella ricezione della gloria viene considerato una sorta di punizione.
 
-<span class="atom-split" data-atom="009" data-title="Whether so many abodes should be distinguished? (parte 1)" data-chapter="Whether so many abodes should be distinguished?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether so many abodes should be distinguished? (parte 1)" data-chapter="Whether so many abodes should be distinguished?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we should not distinguish so many abodes. For after death,
 just as abodes are due to souls on account of sin, so are they due on account of merit. Now there
@@ -695,7 +703,7 @@ Risposta all’Obiezione 8: Sebbene anime separate vengano talvolta puniti nel l
 
 Risposta all’Obiezione 9: È impossibile che il male sia puro e privo di qualsiasi traccia di bene, proprio come il bene supremo è privo di qualsiasi traccia di male. Pertanto, coloro che devono essere condotti verso la [beatazza](/positions/beatitude), che rappresenta un bene supremo, devono essere purificati da ogni forma di male. Ne consegue l’esistenza di un luogo in cui tali persone possano essere purificate, qualora arrivino laggiù non essendo perfettamente pure. Tuttavia, coloro che verranno gettati all’inferno non saranno privi di alcun bene; pertanto il confronto non regge, poiché coloro che si trovano all’inferno possono ricevere la ricompensa dei loro beni, nella misura in cui questi ultimi possano alleviare la loro punizione.
 
-<span class="atom-split" data-atom="010" data-title="Whether so many abodes should be distinguished? (parte 2)" data-chapter="Whether so many abodes should be distinguished?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether so many abodes should be distinguished? (parte 2)" data-chapter="Whether so many abodes should be distinguished?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 10: The essential reward consists in the glory of the soul, but the body's
 glory, since it overflows from the soul, is entirely founded as it were on the soul: and consequently
@@ -708,7 +716,7 @@ the Fathers both before and after the glorification of souls.
 
 Risposta all’Obiezione 10: La vera ricompensa consiste nella gloria dell’anima, ma la gloria del corpo, poiché deriva dall’anima, è interamente basata su di essa; pertanto, la mancanza della gloria dell’anima comporta un cambiamento dello stato spirituale, mentre la mancanza della gloria del corpo no. Per questa stessa ragione, lo stesso luogo, ovvero l’empireo, viene assegnato alle anime sante separate dai loro corpi e unite a corpi gloriosi; invece, lo stesso luogo non veniva assegnato alle anime dei Santi né prima né dopo la glorificazione delle anime stesse.
 
-<span class="atom-split" data-atom="011" data-title="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES) (parte 1)" data-chapter="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES) (parte 1)" data-chapter="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/soul,figures/augustine,figures/aristotle"></span>
 
 We must next consider the general quality of the soul after leaving the body, and the punishment
 inflicted on it by material fire. Under this head there are three points of inquiry:
@@ -844,7 +852,7 @@ Infine, il Filosofo, parlando dell’intelletto, dice (De Anima ii, 2): “Solo 
 Rispondo che su questa questione esistono molte opinioni diverse. Alcuni ritengono che tutte le facoltà dell’anima siano presenti in essa nello stesso modo in cui il colore è presente nel corpo, e sostengono che quando l’anima si separa dal corpo, porti con sé tutte queste facoltà; infatti, se ne mancasse una sola, ciò significherebbe che le proprietà naturali dell’anima cambierebbero, poiché tali proprietà non possono cambiare finché il loro soggetto rimane invariato. Tuttavia questa opinione è errata: poiché una facoltà viene definita tale perché ci permette di compiere o subire qualcosa, e poiché compiere e essere capaci di fare appartengono allo stesso soggetto, ne consegue che il soggetto di una facoltà è lo stesso di colui che agisce o soffre. Pertanto il Filosofo afferma nel “De Somn. et Vigil.” che “dove troviamo una facoltà, lì troviamo anche l’azione corrispondente”. È evidente che alcune operazioni, le cui facoltà dell’anima ne sono le cause principali, non appartengono propriamente all’anima in sé, ma all’anima unita al corpo, poiché non possono essere compiute se non attraverso il mezzo del corpo stesso – come vedere, ascoltare, ecc. Di conseguenza, tali facoltà appartengono all’anima e al corpo uniti come loro soggetto, ma all’anima in quanto principio che le rende attive, proprio come la forma è il principio delle proprietà di un essere composto. Altre operazioni, invece, vengono compiute dall’anima senza l’intervento di organi corporei – ad esempio comprendere, riflettere, volere; poiché queste azioni sono proprie dell’anima stessa, le facoltà che ne sono le cause principali appartengono all’anima non solo come loro principio, ma anche come loro soggetto. Pertanto, poiché finché il soggetto proprio dell’anima rimane invariato, anche le sue passioni naturali devono rimanere tali; e quando l’anima viene corrotta, anche queste passioni vengono corrotte, ne consegue che quelle facoltà che non utilizzano organi corporei per compiere le loro azioni devono necessariamente rimanere nell’anima separata dal corpo, mentre quelle che richiedono l’intervento di tali organi devono necessariamente corrompersi quando il corpo stesso viene corrotto. Tutte queste facoltà appartengono all’anima sensitiva e vegetativa. Per questo motivo alcuni fanno una distinzione tra le facoltà sensitive dell’anima: affermano che esse siano di due tipi – alcune, essendo azioni degli organi corporei e derivanti dall’anima stessa verso il corpo, vengono corrotte insieme al corpo; altre, da cui le prime derivano, rimangono nell’anima, poiché sono quelle che permettono all’anima di rendere il corpo sensibile a vedere, ascoltare, ecc.; e queste facoltà primarie rimangono nell’anima separata dal corpo. Tuttavia questa affermazione sembra irragionevole: poiché l’anima, per sua essenza stessa e senza l’intervento di altre facoltà, è la fonte delle facoltà che costituiscono le funzioni degli organi corporei; proprio come qualsiasi forma, per il semplice fatto di essere ciò che dota la materia delle sue proprietà naturali, è la fonte di tali proprietà nell’essere composto. Se fosse necessario ipotizzare altre facoltà nell’anima, attraverso le quali le facoltà che rendono gli organi funzionanti potessero derivare dall’essenza stessa dell’anima, per lo stesso motivo sarebbe necessario ipotizzare altre facoltà attraverso le quali.
 Queste potenze significative derivano dall’essenza dell’anima e, di conseguenza, si estendono fino all’[infinito](/concepts/infinity); quindi, se dobbiamo fermarle, è meglio farlo fin dal primo passo. Per questo motivo alcuni affermano che le potenze sensitive e simili non rimangano nell’anima separata se non in senso limitato, cioè radicalmente, proprio come il risultato deriva dal suo principio: infatti, nell’anima separata rimane la capacità di produrre queste potenze qualora dovesse essere riunita al corpo; inoltre, questa capacità non ha bisogno di rappresentare nulla di aggiuntivo rispetto all’essenza stessa dell’anima, come già detto. Questa opinione sembra la più ragionevole.
 
-<span class="atom-split" data-atom="012" data-title="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES) (parte 2)" data-chapter="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES) (parte 2)" data-chapter="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/soul,figures/augustine,figures/aristotle"></span>
 
 Reply to Objection 1: This saying of [Augustine](/figures/augustine) is to be understood as meaning that the soul
 takes away with it some of those powers actually, namely understanding and intelligence, and some
@@ -901,7 +909,7 @@ Risposta all’Obiezione 6: Si dice che le facoltà dell’anima sensibile siano
 
 Risposta all’Obiezione 7: Il filosofo parla di queste facoltà come radicate nell’anima. Ciò è chiaro dal suo affermare che “la vecchiaia non è un affetto dell’anima, ma di ciò in cui l’anima risiede”, ovvero del corpo. In questo modo, le facoltà dell’anima non vengono né indebolite né corrotte a causa del corpo.
 
-<span class="atom-split" data-atom="013" data-title="Whether the acts of the sensitive powers remain in the separated soul? (parte 1)" data-chapter="Whether the acts of the sensitive powers remain in the separated soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether the acts of the sensitive powers remain in the separated soul? (parte 1)" data-chapter="Whether the acts of the sensitive powers remain in the separated soul?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the acts of the sensitive powers remain in the separated soul.
 For [Augustine](/figures/augustine) says (De Spiritu et [Anima](/concepts/soul) xv): "When the soul leaves the body it derives pleasure
@@ -998,7 +1006,7 @@ intellective faculty, in so far namely as it abstracts from all differences of t
 only the past but also the present, and the future as Augustine says (De Trin. xiv, 11). Taking
 memory in this sense the separated soul will remember [*Cf. FP, Q[77], A[8]; FP, Q[89], A[6]].
 
-<span class="atom-split" data-atom="014" data-title="Whether the acts of the sensitive powers remain in the separated soul? (parte 2)" data-chapter="Whether the acts of the sensitive powers remain in the separated soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the acts of the sensitive powers remain in the separated soul? (parte 2)" data-chapter="Whether the acts of the sensitive powers remain in the separated soul?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 5: Love, joy, sorrow, and the like, have a twofold signification. Sometimes
 they denote passions of the sensitive appetite, and thus they will not be in the separated soul, because
@@ -1012,7 +1020,7 @@ joy is one simple delight."
 
 Risposta all’Obiezione 5: Amore, gioia, dolore e simili hanno un duplice significato. A volte indicano passioni dell’appetito sensibile; in questo caso non esistono nell’anima separata, poiché in tal modo non si manifestano senza un movimento concreto del cuore. In un altro senso, indicano atti della volontà che appartengono alla parte intellettiva dell’anima; in questo caso sì, esistono nell’anima separata, proprio come la gioia può esistere senza alcun movimento fisico, così come avviene in Dio – cioè nella misura in cui si tratta di un semplice atto della volontà. In questo senso, il Filosofo afferma (Etica, vii, 14) che “la gioia di Dio è una semplice forma di felicità”.
 
-<span class="atom-split" data-atom="015" data-title="Whether the separated soul can suffer from a bodily fire? (parte 1)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the separated soul can suffer from a bodily fire? (parte 1)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the separated soul cannot suffer from a bodily fire. For
 [Augustine](/figures/augustine) says (Gen. ad lit. xii): "The things that affect the soul well or ill after its separation from
@@ -1078,7 +1086,7 @@ Further, there is greater union between form and matter than between agent and p
 the diversity of spiritual and corporeal nature does not hinder the soul from being the form of the
 body. Therefore neither is it an obstacle to its suffering from a body.
 
-<span class="atom-split" data-atom="016" data-title="Whether the separated soul can suffer from a bodily fire? (parte 2)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether the separated soul can suffer from a bodily fire? (parte 2)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 I answer that, Given that the fire of hell is not so called metaphorically, nor an imaginary fire,
 but a real corporeal fire, we must needs say that the soul will suffer punishment from a corporeal
@@ -1180,7 +1188,7 @@ Risposta all’Obiezione 2: Sebbene l’anima sia semplicemente più eccellente 
 
 Risposta all’Obiezione 3: Il Filosofo e Boezio parlano dell’azione mediante la quale il soggetto passivo viene trasformato nella natura del soggetto attivo. Tuttavia, questa non è l’azione del fuoco sull’anima; pertanto, l’argomentazione non è conclusiva.
 
-<span class="atom-split" data-atom="017" data-title="Whether the separated soul can suffer from a bodily fire? (parte 3)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the separated soul can suffer from a bodily fire? (parte 3)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 4: By acting on the soul the fire bestows nothing on it but detains it, as
 stated above. Hence the argument is not to the point.
@@ -1227,7 +1235,7 @@ Risposta all’Obiezione 7: Sebbene non esista alcun contatto fisico tra l’['a
 
 Risposta all’Obiezione 8: Le anime dei dannati non si trovano mai al di fuori dell’inferno, se non per permesso divino, sia allo scopo di istruire i prescelti che di metterli alla prova. E ovunque si trovino al di fuori dell’inferno, vedono comunque il fuoco infernale come preparato appositamente per la loro punizione. Poiché questa visione è la causa immediata del loro dolore, soffrono sempre a causa del fuoco infernale, indipendentemente dal luogo in cui si trovino. Allo stesso modo, anche i prigionieri, pur essendo al di fuori della prigione, soffrono in qualche misura a causa di essa, poiché si considerano condannati ad essa. Pertanto, proprio come la gloria dei prescelti non diminuisce, né per quanto riguarda il premio essenziale né quello accidentale, anche se si trovassero al di fuori dell’empireo, anzi ciò potrebbe addirittura contribuire alla loro gloria; allo stesso modo, la punizione dei dannati non diminuisce affatto, nemmeno se, per permesso divino, si trovassero temporaneamente al di fuori dell’inferno. Una spiegazione del versetto di Giacomo 3:6 (“infiamma la ruota della nostra nascita”, ecc.) è in accordo con questo principio, poiché vi si legge: “Il diavolo, ovunque si trovi – sia nell’aria che sotto la terra – trascina con sé i tormenti delle sue fiamme”. Tuttavia, l’obiezione sembra supporre che il fuoco corporeo torturi lo spirito nello stesso modo in cui tormenta i corpi.
 
-<span class="atom-split" data-atom="018" data-title="OF THE SUFFRAGES FOR THE DEAD (FOURTEEN ARTICLES)" data-chapter="OF THE SUFFRAGES FOR THE DEAD (FOURTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="OF THE SUFFRAGES FOR THE DEAD (FOURTEEN ARTICLES)" data-chapter="OF THE SUFFRAGES FOR THE DEAD (FOURTEEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the suffrages for the dead. Under this head there are fourteen points of
 inquiry:
@@ -1267,7 +1275,7 @@ Dobbiamo ora considerare le preghiere e i riti dedicati ai defunti. In questa ma
 (13) Le preghiere per molte persone portano lo stesso beneficio a ciascuna di loro, come se fossero offerte individualmente?  
 (14) Le preghiere generali sono altrettanto utili a coloro per i quali non vengono offerte preghiere particolari, quanto le preghiere sia particolari che generali insieme?
 
-<span class="atom-split" data-atom="019" data-title="Whether the suffrages of one person can profit others?" data-chapter="Whether the suffrages of one person can profit others?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether the suffrages of one person can profit others?" data-chapter="Whether the suffrages of one person can profit others?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the suffrages of one person cannot profit others. For it is written
 (Gal. 6:8): "What things a man shall sow, those also shall he reap." Now if one person reaped fruit
@@ -1365,7 +1373,7 @@ Risposta all’Obiezione 3: La lode non viene rivolta a una persona se non in re
 
 Risposta all’Obiezione 4: È direttamente contrario alla giustizia privare una persona di ciò che le spetta; ma dare a una persona qualcosa che non le spetta non è contrario alla giustizia, anzi va oltre i suoi limiti, poiché rappresenta un atto di generosità. Ora, una persona non può essere danneggiata dai mali altrui se non viene privata di qualcosa che le appartiene. Pertanto, non è appropriato che una persona venga punita per i peccati altrui, così come non è appropriato che ne traggia qualche vantaggio.
 
-<span class="atom-split" data-atom="020" data-title="Whether the dead can be assisted by the works of the living?" data-chapter="Whether the dead can be assisted by the works of the living?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether the dead can be assisted by the works of the living?" data-chapter="Whether the dead can be assisted by the works of the living?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the dead cannot be assisted by the works of the living. First,
 because the Apostle says (2 Cor. 5:10): "We must all be manifested before the judgment seat of
@@ -1456,7 +1464,7 @@ Risposta all’Obiezione 3: Sebbene, in senso stretto, dopo la morte le anime no
 
 Risposta all’Obiezione 4: Sebbene la condivisione delle azioni civili di cui parla il Filosofo sia impossibile tra i morti e i viventi, poiché i morti sono al di fuori della vita civile, la condivisione della vita spirituale è possibile tra loro, poiché tale vita si fonda sull’amore verso Dio, in Lui vivono infatti gli spiriti dei morti.
 
-<span class="atom-split" data-atom="021" data-title="Whether suffrages performed by sinners profit the dead?" data-chapter="Whether suffrages performed by sinners profit the dead?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether suffrages performed by sinners profit the dead?" data-chapter="Whether suffrages performed by sinners profit the dead?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that suffrages performed by sinners do not profit the dead. For,
 according to Jn. 9:31, "God doth not hear sinners." Now if their prayers were to profit those for
@@ -1569,7 +1577,7 @@ Risposta all’Obiezione 5: Sebbene non si possa sapere con certezza se un altro
 
 Risposta all’Obiezione 6: Affinché il diritto di voto possa essere utile a qualcuno, è necessario che la persona per cui esso viene esercitato sia in grado di trarne beneficio; un uomo diventa tale grazie alle azioni che ha compiuto durante la sua vita. È questo ciò che Agostino intende dire. Tuttavia, tali azioni devono essere effettivamente utili per quella persona, e ciò non dipende dalla persona per cui il diritto di voto viene esercitato, ma piuttosto da colui che lo offre, sia attraverso la sua stessa azione che attraverso un comando.
 
-<span class="atom-split" data-atom="022" data-title="Whether suffrages offered by the living for the dead profit those who offer them?" data-chapter="Whether suffrages offered by the living for the dead profit those who offer them?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether suffrages offered by the living for the dead profit those who offer them?" data-chapter="Whether suffrages offered by the living for the dead profit those who offer them?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that suffrages offered by the living for the dead do not profit those
 who offer them. For according to human justice a man is not absolved from his own debt if he pay
@@ -1620,7 +1628,7 @@ In primo luogo, come un atto di compensazione che sconta una pena, e in questo s
 In secondo luogo, il lavoro legato al diritto di voto può essere considerato come un atto meritevole che porta alla vita eterna; questo aspetto deriva dalla sua radice stessa, ovvero dalla carità. In questo caso, il beneficio derivante da tale atto non riguarda soltanto la persona a cui viene compiuto, ma anche chi lo esegue.  
 Ciò basta per rispondere alle obiezioni: il primo punto considera il lavoro di voto come un atto di compensazione, mentre gli altri lo vedono come un atto meritevole.
 
-<span class="atom-split" data-atom="023" data-title="Whether suffrages profit those who are in hell? (parte 1)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether suffrages profit those who are in hell? (parte 1)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that suffrages profit those who are in hell. For it is written (2 Macc.
 12:40): "They found under the coats of the slain some of the donaries of the idols . . . which the
@@ -1684,7 +1692,7 @@ Al contrario, Dionigi afferma (Eccl. Hier. vii): “Il sommo sacerdote non prega
 Inoltre, Gregorio dice (Moralia xxxiv, 19): “Esiste lo stesso motivo per cui non si prega dopo il giorno del giudizio per gli uomini condannati al fuoco eterno, così come oggi non si prega per il diavolo e i suoi angeli destinati a una punizione eterna; per questa stessa ragione i santi non pregano per i morti increduli e malvagi, poiché, sapendo che sono già condannati a una pena eterna, evitano di intercedere per loro attraverso le proprie preghiere, prima che vengano chiamati davanti al giusto Giudice”.  
 Inoltre, il testo (Sententiae iv, D, 45) cita le parole di Agostino (De Verbis Post Sermones xxxii): “Se un uomo lascia questa vita senza la fede che si manifesta attraverso l’amore e i suoi sacramenti, è inutile che i suoi amici ricorrono a simili atti di benevolenza”. Ora, tutti i dannati rientrano in questa categoria; pertanto, le suppliche non sono di alcun aiuto per loro.
 
-<span class="atom-split" data-atom="024" data-title="Whether suffrages profit those who are in hell? (parte 2)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether suffrages profit those who are in hell? (parte 2)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 I answer that, There have been three opinions about the damned. For some have said that a
 twofold distinction must be made in this matter. First, as to time; for they said that after the judgment
@@ -1793,7 +1801,7 @@ Risposta all’Obiezione 3: Il diritto di voto per una persona morta è più acc
 
 Risposta all’Obiezione 4: Questo aiuto non consisteva nella riduzione della loro punizione, ma soltanto nel fatto (come indicato nello stesso testo) che, quando pregavano, veniva loro permesso di vedersi a vicenda; in questo modo provavano una certa gioia, sebbene non reale ma immaginaria, nell’appagamento del loro desiderio. Allo stesso modo si dice che i demoni si rallegrino quando inducono gli uomini al peccato, anche se ciò in alcun modo riduce la loro punizione, così come la gioia degli angeli non diminuisce per il fatto che provano compassione per le nostre sofferenze.
 
-<span class="atom-split" data-atom="025" data-title="Whether suffrages profit those who are in hell? (parte 3)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether suffrages profit those who are in hell? (parte 3)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 5: Concerning the incident of Trajan it may be supposed with probability
 that he was recalled to life at the prayers of blessed Gregory, and thus obtained the grace whereby
@@ -1810,7 +1818,7 @@ accordance with the general law from that which is permitted in particular cases
 Even so the bounds of human affairs differ from those of the miracles of the Divine power as
 [Augustine](/figures/augustine) says (De Cura pro Mort. xvi).
 
-<span class="atom-split" data-atom="026" data-title="Whether suffrages profit those who are in purgatory?" data-chapter="Whether suffrages profit those who are in purgatory?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether suffrages profit those who are in purgatory?" data-chapter="Whether suffrages profit those who are in purgatory?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that suffrages do not profit even those who are in purgatory. For
 purgatory is a part of hell. Now "there is no redemption in hell" [*Office of the Dead, Resp. vii],
@@ -1904,7 +1912,7 @@ Risposta all’Obiezione 3: La purificazione dell’anima attraverso le punizion
 
 Risposta all’Obiezione 4: I suffragi sono efficaci sotto due aspetti: da un lato, per l’azione stessa compiuta dall’agente (“ex opere operantes”); dall’altro, per gli effetti derivanti da tale azione. Con “effetti derivanti dall’azione” intendo non solo i sacramenti della Chiesa, ma anche le conseguenze positive di tali atti – ad esempio, la beneficenza fatta porta al sollievo dei poveri e alle loro preghiere per i defunti. Allo stesso modo, l’azione dell’agente può essere considerata sia in relazione all’agente principale che all’esecutore. Quindi, una persona morente, non appena dispone che vengano offerti determinati suffragi per suo conto, riceve pienamente i benefici di tali suffragi, anche prima che vengano effettivamente eseguiti; ciò riguarda l’efficacia dei suffragi derivanti dall’azione compiuta dall’agente principale. Tuttavia, per quanto riguarda l’efficacia dei suffragi derivanti dall’azione dell’esecutore, tale beneficio non viene ricevuto prima che i suffragi vengano effettivamente eseguiti. E se, prima di ciò, la persona morente dovesse essere liberata dalla sua punizione, in questo senso le verrebbero negati i frutti dei suffragi offerti per lei; tali benefici andrebbero quindi a coloro che, con la loro colpa, hanno causato tale privazione. Non è infatti irragionevole che una persona venga defraudata in questioni temporali a causa della colpa altrui – e la punizione del purgatorio è di natura temporale – anche se, per quanto riguarda la ricompensa eterna, nessuno può essere privato di essa se non a causa della propria colpa.
 
-<span class="atom-split" data-atom="027" data-title="Whether suffrages avail the children who are in limbo?" data-chapter="Whether suffrages avail the children who are in limbo?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether suffrages avail the children who are in limbo?" data-chapter="Whether suffrages avail the children who are in limbo?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/grace,figures/augustine"></span>
 
 Objection 1: It would seem that suffrages avail the children who are in limbo. For they are not
 detained there except for another's sin. Therefore it is most becoming that they should be assisted
@@ -1946,7 +1954,7 @@ Risposta all’Obiezione 1: Sebbene il [peccato originale](/positions/original_s
 
 Risposta all’Obiezione 2: Agostino si riferisce a coloro che non sono particolarmente cattivi, ma che sono stati battezzati. Ciò è chiaro da quanto precede: “Poiché questi sacrifici, sia quelli offerti sull’altare che qualsiasi altra forma di elemosina, vengono dedicati a coloro che sono stati battezzati”, ecc.
 
-<span class="atom-split" data-atom="028" data-title="Whether suffrages profit the saints in heaven?" data-chapter="Whether suffrages profit the saints in heaven?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether suffrages profit the saints in heaven?" data-chapter="Whether suffrages profit the saints in heaven?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in some way suffrages profit the saints in heaven; on account
 of the words of the Collect in the Mass [*Postcommunion, Feast of St. Andrew, Apostle]: "Even
@@ -2031,7 +2039,7 @@ Risposta all’Obiezione 3: Sebbene i santi in cielo gioiscano di tutte le nostr
 
 Risposta all’Obiezione 4: Non si intende che un aumento di ricompensa o premio venga attribuito al santo a seguito delle preghiere offerte da qualcuno, ma che tale aumento vada invece al soggetto che ha offerto tali preghiere. Oppure si può rispondere che il beato defunto possa ricevere una ricompensa attraverso queste preghiere, poiché, durante la sua vita, aveva provveduto affinché venissero offerte per lui, e questo è stato un atto meritevole da parte sua.
 
-<span class="atom-split" data-atom="029" data-title="Whether the prayers of the Church, the sacrifice of the altar and alms profit the departed?" data-chapter="Whether the prayers of the Church, the sacrifice of the altar and alms profit the departed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether the prayers of the Church, the sacrifice of the altar and alms profit the departed?" data-chapter="Whether the prayers of the Church, the sacrifice of the altar and alms profit the departed?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the souls of the departed are not assisted only by the prayers
 of the Church, the sacrifice of the altar and alms, or that they are not assisted by them chiefly. For
@@ -2116,7 +2124,7 @@ the saint whose suffrage is besought in the Mass.
 Reply to Objection 6: This offering of candles or oil may profit the departed in so far as they
 are a kind of alms: for they are given for the [worship](/concepts/religion) of the Church or for the use of the faithful.
 
-<span class="atom-split" data-atom="030" data-title="Whether the indulgences of the Church profit the dead?" data-chapter="Whether the indulgences of the Church profit the dead?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the indulgences of the Church profit the dead?" data-chapter="Whether the indulgences of the Church profit the dead?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the indulgences granted by the Church profit even the dead.
 First, on account of the [custom](/concepts/custom) of the Church, who orders the preaching of a crusade in order that
@@ -2170,7 +2178,7 @@ Al contrario, affinché le indulgenze possano essere di qualche utilità per una
 
 Rispondo che un’indulgenza può essere utile a una persona in due modi: in modo principale, da un lato; e in modo secondario, dall’altro. È utile principalmente alla persona che ne fa uso, cioè a colui che compie l’atto per il quale l’indulgenza è stata concesa, ad esempio chi visita il santuario di un santo. Poiché i morti non possono compiere tali atti, le indulgenze non possono essergli di alcun aiuto direttamente. Tuttavia, possono essere utili in modo secondario e indiretto a coloro per i quali viene compiuto l’atto che costituisce il motivo della concessione dell’indulgenza. Ciò è possibile a volte, ma non sempre, a seconda del tipo di indulgenza concesso. Se, ad esempio, l’indulgenza è concesa in questo modo: “Chi compie questo o quell’atto otterrà tale quantità di indulgenze”, colui che compie l’atto non può trasferire i benefici derivanti dall’indulgenza a un altro, poiché non gli è possibile applicare all’altro la volontà della Chiesa che concede tali indulgenze, come già detto sopra (Q[27], A[3], ad 2). Se invece l’indulgenza viene concesa in questo modo: “Chi compie questo o quell’atto, lui stesso, suo padre o qualsiasi altra persona a lui legata e trattenuta nel purgatorio otterrà tale quantità di indulgenze”, un’indulgenza di questo tipo può essere utile sia a una persona viva che a una morta. Non esiste infatti alcun motivo per cui la Chiesa non possa trasferire i meriti comuni su cui si basano le indulgenze alle persone viventi e non anche ai morti. Inoltre, non segue necessariamente che un prelato della Chiesa possa liberare le anime dal purgatorio semplicemente elencando gli individui per i quali concedere l’indulgenza, poiché affinché queste possano essere efficaci, deve esserci una causa adeguata per la loro concessione, come già detto sopra (Q[26], A[3]).
 
-<span class="atom-split" data-atom="031" data-title="Whether the burial service profits the dead?" data-chapter="Whether the burial service profits the dead?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether the burial service profits the dead?" data-chapter="Whether the burial service profits the dead?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the burial service profits the dead. For Damascene (Serm.: De
 his qui in fide dormierunt) quotes Athanasius as saying: "Even though he who has departed in
@@ -2284,7 +2292,7 @@ Risposta all’Obiezione 4: Come afferma Agostino (De Cura pro Mort., iv), la de
 
 Risposta all’Obiezione 5: L’uomo malvagio, una volta morto, non subisce alcun danno se sepolto in un luogo sacro, salvo nel caso in cui abbia reso tale luogo di sepoltura inadatto a lui a causa della sua stessa vanità umana.
 
-<span class="atom-split" data-atom="032" data-title="Whether suffrages offered for one deceased person profit the person for whom they are offered more than others?" data-chapter="Whether suffrages offered for one deceased person profit the person for whom they are offered more than others?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether suffrages offered for one deceased person profit the person for whom they are offered more than others?" data-chapter="Whether suffrages offered for one deceased person profit the person for whom they are offered more than others?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that suffrages offered for one deceased person are not more profitable
 to the one for whom they are offered, than to others. For spiritual light is more communicable than
@@ -2370,7 +2378,7 @@ Risposta all’Obiezione 2: Un tale merito è condizionato, poiché in questo mo
 
 Risposta all’Obiezione 3: Nulla impedisce ai ricchi di trovarsi, sotto alcuni aspetti, in una condizione migliore rispetto ai poveri, ad esempio per quanto riguarda l’espiazione delle loro punizioni. Tuttavia, tutto ciò è nulla in confronto al regno dei cieli, dove, come dimostra l’autorità citata, i poveri si rivelano essere in una condizione migliore.
 
-<span class="atom-split" data-atom="033" data-title="Whether suffrages offered for several are of as much value to each one as if they had been offered for each in particular?" data-chapter="Whether suffrages offered for several are of as much value to each one as if they had been offered for each in particular?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether suffrages offered for several are of as much value to each one as if they had been offered for each in particular?" data-chapter="Whether suffrages offered for several are of as much value to each one as if they had been offered for each in particular?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that suffrages offered for several are of as much value to each one
 as if they had been offered for each in particular. For it is clear that if one person receives a lesson
@@ -2444,7 +2452,7 @@ Risposta all’Obiezione 2: Poiché i sacrifici offerti per una persona sono di 
 
 Risposta all’Obiezione 3: La preghiera può essere considerata sia dal punto di vista di colui che prega, sia da quello della persona a cui si prega; il suo effetto dipende da entrambi. Pertanto, anche se non è più difficile per il potere divino assolvere molte persone che una sola, la preghiera di colui che prega in questo modo non è altrettanto efficace quando riguarda molti, rispetto a quando riguarda una sola persona.
 
-<span class="atom-split" data-atom="034" data-title="Whether general suffrages avail those for whom special suffrages are not offered, as much as special suffrages avail those for whom they are offered in addition to general suffrages?" data-chapter="Whether general suffrages avail those for whom special suffrages are not offered, as much as special suffrages avail those for whom they are offered in addition to general suffrages?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether general suffrages avail those for whom special suffrages are not offered, as much as special suffrages avail those for whom they are offered in addition to general suffrages?" data-chapter="Whether general suffrages avail those for whom special suffrages are not offered, as much as special suffrages avail those for whom they are offered in addition to general suffrages?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that general suffrages avail those for whom special suffrages are
 not offered, as much as special suffrages avail those for whom they are offered in addition to general
@@ -2506,7 +2514,7 @@ Risposta all’Obiezione 1: Come già detto sopra (A[12], ad 2), l’aiuto deriv
 
 Risposta all’Obiezione 2: Sebbene il potere di Cristo, contenuto nel [Sacramento](/concepts/sacrament) dell’Eucaristia, sia infinito, tale Sacramento ha comunque un effetto preciso e definito. Pertanto non si può dedurre che l’intera punizione di coloro che si trovano in purgatorio venga espiata attraverso un solo sacrificio offerto sull’altare: tuttavia, con quel singolo sacrificio che un uomo compie, non viene comunque eliminata l’intera soddisfazione dovuta per i suoi peccati; per questo motivo, a volte vengono prescritte più messe come forma di soddisfazione per un solo peccato. Tuttavia, se da tali sacrifici rimane qualcosa in eccesso per coloro a cui sono offerti (ad esempio, se non ne hanno bisogno), possiamo ben credere che, per grazia di Dio, tale surplus venga utilizzato anche per altri che ne hanno bisogno: come afferma Damasceno nel suo Sermone “De his qui in fide dormierunt”, il quale dice: “Davvero, poiché Dio è giusto, egli concede capacità di adattamento a coloro che ne sono privi e organizza uno scambio delle loro mancanze”: tale scambio avviene quando ciò che manca a uno viene compensato da qualcos’altro.
 
-<span class="atom-split" data-atom="035" data-title="OF PRAYERS WITH REGARD TO THE SAINTS IN HEAVEN (THREE ARTICLES)" data-chapter="OF PRAYERS WITH REGARD TO THE SAINTS IN HEAVEN (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="OF PRAYERS WITH REGARD TO THE SAINTS IN HEAVEN (THREE ARTICLES)" data-chapter="OF PRAYERS WITH REGARD TO THE SAINTS IN HEAVEN (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider prayer with regard to the saints in heaven. Under this head there are
 three points of inquiry:
@@ -2521,7 +2529,7 @@ Dobbiamo ora considerare la preghiera in relazione ai santi in cielo. In questo 
 (2) Se dovremmo chiedere loro di pregare per noi;  
 (3) Se le preghiere che essi rivolgono a nostro favore vengano sempre ascoltate.
 
-<span class="atom-split" data-atom="036" data-title="Whether the saints have knowledge of our prayers?" data-chapter="Whether the saints have knowledge of our prayers?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Whether the saints have knowledge of our prayers?" data-chapter="Whether the saints have knowledge of our prayers?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/charity,concepts/soul"></span>
 
 Objection 1: It would seem that the saints have no knowledge of our prayers. For a gloss on
 Is. 62:16, "Thou art our father and Abraham hath not known us, and Israel hath been ignorant of
@@ -2615,7 +2623,7 @@ Reply to Objection 5: God alone of Himself knows the thoughts of the heart: yet 
 them, in so far as these are revealed to them, either by their vision of the Word or by any other
 means.
 
-<span class="atom-split" data-atom="037" data-title="Whether we ought to call upon the saints to pray for us?" data-chapter="Whether we ought to call upon the saints to pray for us?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether we ought to call upon the saints to pray for us?" data-chapter="Whether we ought to call upon the saints to pray for us?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/custom,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we ought not to call upon the saints to pray for us. For no man
 asks anyone's friends to pray for him, except in so far as he believes he will more easily find favor
@@ -2727,7 +2735,7 @@ Risposta all’Obiezione 4: Come chiariremo ulteriormente in (A[3]), si dice che
 
 Risposta all’Obiezione 5: Una persona diventa degna delle preghiere di un santo proprio per il fatto che, nel momento del bisogno, si rivolge a lui con pura devozione. Pertanto, non è affatto inutile pregare i santi.
 
-<span class="atom-split" data-atom="038" data-title="Whether the prayers which the saints pour forth to God for us are always granted? (parte 1)" data-chapter="Whether the prayers which the saints pour forth to God for us are always granted?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether the prayers which the saints pour forth to God for us are always granted? (parte 1)" data-chapter="Whether the prayers which the saints pour forth to God for us are always granted?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the prayers which the saints pour forth to God for us are not
 always granted. For if they were always granted, the saints would be heard especially in regard to
@@ -2857,7 +2865,7 @@ Risposta all’Obiezione 4: Sebbene i santi non si trovino in una condizione che
 
 Risposta all’Obiezione 5: Come risulta dall’autorità di Gregorio citata sopra (ad 3), i santi e gli angeli fanno soltanto ciò che ritengono essere nella volontà divina; pertanto non pregano nemmeno per altro. Né le loro preghiere risultano vane, poiché, come afferma [Agostino](/figures/augustine) (De Praed. Sanct., De Dono Persever., xxii): “Le preghiere dei santi giovano a coloro che sono destinati alla salvezza, poiché forse è già stato predestinato che vengano salvati grazie alle preghiere di coloro che intercedono per loro”; e di conseguenza, anche Dio vuole che ciò che i santi ritengono sia nella Sua volontà venga realizzato attraverso le loro preghiere.
 
-<span class="atom-split" data-atom="039" data-title="Whether the prayers which the saints pour forth to God for us are always granted? (parte 2)" data-chapter="Whether the prayers which the saints pour forth to God for us are always granted?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the prayers which the saints pour forth to God for us are always granted? (parte 2)" data-chapter="Whether the prayers which the saints pour forth to God for us are always granted?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 6: The suffrages of the Church for the dead are as so many satisfactions
 of the living in lieu of the dead: and accordingly they free the dead from the punishment which the
@@ -2868,7 +2876,7 @@ consequently the parallel fails between their prayers and the suffrages of the C
 
 Risposta all’Obiezione 6: Le preghiere e le offerte della Chiesa per i morti rappresentano, in sostanza, delle soddisfazioni da parte dei viventi al posto di quelle che i defunti non hanno potuto compiere; pertanto, tali pratiche liberano i morti dalla punizione che non sono stati in grado di scontare. Tuttavia, i santi in cielo non si trovano in una condizione tale da poter effettuare personalmente queste soddisfazioni; per questo motivo il paragone tra le loro preghiere e le offerte della Chiesa non è valido.
 
-<span class="atom-split" data-atom="040" data-title="OF THE SIGNS THAT WILL PRECEDE THE JUDGMENT (THREE ARTICLES)" data-chapter="OF THE SIGNS THAT WILL PRECEDE THE JUDGMENT (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="OF THE SIGNS THAT WILL PRECEDE THE JUDGMENT (THREE ARTICLES)" data-chapter="OF THE SIGNS THAT WILL PRECEDE THE JUDGMENT (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider the signs that will precede the judgment: and under this head there are
 three points of inquiry:
@@ -2883,7 +2891,7 @@ Dobbiamo ora considerare i segni che precederanno il giudizio: e in questo ambit
 (2) Se davvero il sole e la luna si oscureranno?
 (3) Se le forze celesti saranno scosse quando il Signore arriverà?
 
-<span class="atom-split" data-atom="041" data-title="Whether any signs will precede the Lord's coming to judgment?" data-chapter="Whether any signs will precede the Lord's coming to judgment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether any signs will precede the Lord's coming to judgment?" data-chapter="Whether any signs will precede the Lord's coming to judgment?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Lord's coming to judgment will not be preceded by any
 signs. Because it is written (1 Thess. 5:3): "When they shall say: Peace and security; then shall
@@ -2975,7 +2983,7 @@ Risposta all’Obiezione 2: Si dice che il giorno del Signore arriverà “come 
 
 Risposta all’Obiezione 3: Al suo primo avvento, Cristo venne in segreto, sebbene il tempo stabilito fosse già noto in anticipo dai profeti. Pertanto, non fu necessario che apparissero segni particolari al suo primo arrivo, a differenza di quanto accadrà al suo secondo avvento, quando Egli verrà apertamente, anche se il tempo preciso rimarrà sconosciuto.
 
-<span class="atom-split" data-atom="042" data-title="Whether towards the time of the judgment the sun and moon will be darkened in very truth?" data-chapter="Whether towards the time of the judgment the sun and moon will be darkened in very truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether towards the time of the judgment the sun and moon will be darkened in very truth?" data-chapter="Whether towards the time of the judgment the sun and moon will be darkened in very truth?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that towards the time of the judgment the sun and moon will be
 darkened in very truth. For, as Rabanus says, commenting on  Mat. 24:29 "nothing hinders us from
@@ -3042,7 +3050,7 @@ Risposta all’Obiezione 2: La luce nei corpi celesti non serve soltanto a favor
 
 Risposta all’Obiezione 3: Non sembra probabile che le qualità elementari vengano rimosse dagli stessi elementi, anche se alcuni hanno affermato il contrario. Tuttavia, anche nel caso in cui tali qualità venissero effettivamente rimosse, non esisterebbe comunque alcuna analogia tra di esse e la luce: le qualità elementari, infatti, sono tra loro opposte e quindi hanno un effetto distruttivo; mentre la luce rappresenta un principio di azione che non si basa sull’opposizione, ma su un meccanismo capace di regolare le cose opposte tra loro e di riportarle all’armonia. Inoltre, non esiste alcuna analogia nemmeno con il movimento dei corpi celesti: il movimento è infatti l’atto di ciò che è imperfetto, e quindi deve necessariamente cessare quando l’imperfezione scompare; cosa che non si può dire della luce.
 
-<span class="atom-split" data-atom="043" data-title="Whether the virtues of heaven will be moved when our Lord shall come?" data-chapter="Whether the virtues of heaven will be moved when our Lord shall come?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the virtues of heaven will be moved when our Lord shall come?" data-chapter="Whether the virtues of heaven will be moved when our Lord shall come?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the virtues of heaven will not be moved when our Lord shall
 come. For the virtues of heaven can de. note only the blessed angels. Now immobility is essential
@@ -3113,7 +3121,7 @@ Risposta all’Obiezione 1: Questo movimento non altera nulla riguardo allo stat
 Risposta all’Obiezione 2: Lo stupore è tipico di ciò che supera la nostra conoscenza o le nostre capacità; pertanto, le virtù celesti provano meraviglia di fronte al potere divino che compie tali cose, poiché esse non sono in grado di comprenderle. In questo senso, la beata Agnese disse che “il sole e la luna ammirano la Sua [bellezza](/concepts/beauty)”: ciò non implica ignoranza negli angeli, ma indica semplicemente che essi non sono in grado di comprendere appieno Dio.  
 La risposta alla Terza Obiezione è chiara, a partire da quanto detto finora.
 
-<span class="atom-split" data-atom="044" data-title="OF THE FIRE OF THE FINAL CONFLAGRATION (NINE ARTICLES)" data-chapter="OF THE FIRE OF THE FINAL CONFLAGRATION (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="OF THE FIRE OF THE FINAL CONFLAGRATION (NINE ARTICLES)" data-chapter="OF THE FIRE OF THE FINAL CONFLAGRATION (NINE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the fire of the final conflagration: and under this head there are nine
 points of inquiry:
@@ -3140,7 +3148,7 @@ Dobbiamo ora considerare il fuoco della conflagrazione finale; in questo ambito 
 (8) Gli uomini saranno consumati da quel fuoco?  
 (9) Anche i malvagi ne saranno coinvolti?
 
-<span class="atom-split" data-atom="045" data-title="Whether the world is to be cleansed?" data-chapter="Whether the world is to be cleansed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether the world is to be cleansed?" data-chapter="Whether the world is to be cleansed?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is not to be any cleansing of the world. For only that
 which is unclean needs cleansing. Now God's creatures are not unclean, wherefore it is written
@@ -3227,7 +3235,7 @@ Risposta all’Obiezione 2: Sebbene gli elementi corporei non possano essere sog
 
 Risposta all’Obiezione 3: La forma di un corpo misto e la forma di un elemento possono essere considerate in due modi: o in relazione alla perfezione della specie, e in questo caso un corpo misto è più perfetto; oppure in relazione alla loro capacità di durare nel tempo; e in questo caso il corpo semplice è più nobile, poiché non possiede in sé stesso la causa della corruzione, a meno che non venga corrotto da fattori esterni; mentre un corpo misto contiene in sé stesso la causa della propria corruzione, ovvero la composizione di elementi contrari. Pertanto, un corpo semplice, sebbene possa essere parzialmente corruttibile, è incorruttibile nel suo insieme, il che non si può dire di un corpo misto. Poiché l’incorruttibilità appartiene alla perfezione della gloria, ne consegue che la perfezione di un corpo semplice è più in linea con la perfezione della gloria rispetto a quella di un corpo misto, a meno che il corpo misto non possieda anch’esso qualche principio di incorruttibilità, come avviene nel caso del corpo umano, la cui forma è intrinsecamente incorruttibile. Tuttavia, sebbene un corpo misto sia in qualche modo più nobile di un corpo semplice, un corpo semplice che esiste autonomamente possiede una realtà più nobile rispetto a quando fa parte di un corpo misto; infatti, in un corpo misto i corpi semplici si trovano in uno stato di [potenzialità](/concepts/act_potency), mentre quando esistono separatamente raggiungono la loro perfezione ultima.
 
-<span class="atom-split" data-atom="046" data-title="Whether the cleansing of the world will be effected by fire?" data-chapter="Whether the cleansing of the world will be effected by fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether the cleansing of the world will be effected by fire?" data-chapter="Whether the cleansing of the world will be effected by fire?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this cleansing will not be effected by fire. For since fire is a
 part of the world, it needs to be cleansed like the other parts. Now, the same thing should not be
@@ -3305,7 +3313,7 @@ Risposta all’Obiezione 2: La prima purificazione del mondo attraverso il diluv
 
 Risposta all’Obiezione 3: Attraverso l’operazione della distinzione, le cose ricevono forme diverse che le rendono distinte le une dalle altre; pertanto, ciò può avvenire soltanto da Colui che è l’autore della natura. Ma attraverso la purificazione finale, le cose torneranno alla purezza nella quale sono state create; di conseguenza, la natura creata sarà in grado di servire il proprio Creatore per questo scopo. Ed è proprio per questa ragione che una creatura viene utilizzata come strumento di servizio, affinché possa essere elevata a tal fine.
 
-<span class="atom-split" data-atom="047" data-title="Whether the fire whereby the world will be cleansed will be of the same species with elemental fire?" data-chapter="Whether the fire whereby the world will be cleansed will be of the same species with elemental fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Whether the fire whereby the world will be cleansed will be of the same species with elemental fire?" data-chapter="Whether the fire whereby the world will be cleansed will be of the same species with elemental fire?" data-kind="atom" data-srclang="en" data-tags="concepts/revelation,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the fire in question is not of the same species as elemental fire.
 For nothing consumes itself. But that fire will consume the four elements according to a gloss on
@@ -3382,7 +3390,7 @@ matter, which it requires when it is outside its own sphere, it follows the site
 Accordingly it is not unreasonable for it to take a circular or a downward course, especially in so
 far as it acts as the instrument of the Divine power.
 
-<span class="atom-split" data-atom="048" data-title="Whether that fire will cleanse also the higher heavens?" data-chapter="Whether that fire will cleanse also the higher heavens?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether that fire will cleanse also the higher heavens?" data-chapter="Whether that fire will cleanse also the higher heavens?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that that fire will cleanse also the higher heavens. For it is written
 (Ps. 101:26,27): "The heavens are the works of Thy hands: they shall perish but Thou remainest."
@@ -3460,7 +3468,7 @@ Risposta all’Obiezione 2: Pietro spiega a quali cieli si riferisce. Infatti, p
 
 Risposta all’Obiezione 3: Questo lavoro e questo servizio da parte delle creature, che Ambrogio attribuisce ai corpi celesti, non sono altro che i movimenti successivi attraverso cui questi corpi sono soggetti al tempo, nonché la mancanza di quella perfezione finale che raggiungeranno infine. Inoltre, il cielo empyreale non subì alcuna macchia a causa del peccato dei demoni, poiché questi furono espulsi da quel cielo non appena commisero il loro peccato.
 
-<span class="atom-split" data-atom="049" data-title="Whether that fire will consume the other elements?" data-chapter="Whether that fire will consume the other elements?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Whether that fire will consume the other elements?" data-chapter="Whether that fire will consume the other elements?" data-kind="atom" data-srclang="en" data-tags="concepts/forma_substantialis,concepts/act_potency,concepts/beauty,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that the fire in question will consume the other elements. For a
 gloss of Bede on 2 Pet. 3:12 says: "This exceeding great fire will engulf the four elements whereof
@@ -3579,7 +3587,7 @@ Risposta all’Obiezione 3: Questo fuoco agirà soltanto come strumento della pr
 
 Risposta all’Obiezione 4: Nei componenti elementari dobbiamo considerare non solo ciò che è appropriato a ciascun elemento in sé stesso, ma anche ciò che è appropriato alla sua relazione con l’intero insieme. Dico quindi che, sebbene l’acqua fosse più nobile se avesse la forma del fuoco, così come la terra e l’aria, l’universo sarebbe però meno perfetto se tutta la materia elementare assumesse la forma del fuoco.
 
-<span class="atom-split" data-atom="050" data-title="Whether all the elements will be cleansed by that fire?" data-chapter="Whether all the elements will be cleansed by that fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Whether all the elements will be cleansed by that fire?" data-chapter="Whether all the elements will be cleansed by that fire?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that neither will all the elements be cleansed by that fire. Because
 that fire, as stated already (A[3]), will not rise higher than the waters of the deluge. But the waters
@@ -3657,7 +3665,7 @@ Risposta all’Obiezione 3: Lo scopo di questa purificazione sarà principalment
 
 Risposta all’Obiezione 4: Sebbene il peccato dell’uomo primogenito sia stato commesso nel paradiso terrestre, questo non è certo il luogo dei peccatori, così come non lo è il cielo empireo: poiché da entrambi questi luoghi l’uomo e il diavolo furono immediatamente espulsi dopo il loro peccato. Pertanto, quel luogo non ha bisogno di essere purificato.
 
-<span class="atom-split" data-atom="051" data-title="Whether the fire of the final conflagration is to follow the judgment?" data-chapter="Whether the fire of the final conflagration is to follow the judgment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="Whether the fire of the final conflagration is to follow the judgment?" data-chapter="Whether the fire of the final conflagration is to follow the judgment?" data-kind="atom" data-srclang="en" data-tags="figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the fire of the final conflagration is to follow the judgment.
 For [Augustine](/figures/augustine) (De Civ. Dei xx, 30) gives the following order of the things to take place at the
@@ -3715,7 +3723,7 @@ who will live in the body until the time of the conflagration.
 Reply to Objection 4: That fire will not carry out the sentence of the judge except as regards
 the engulfing of the wicked: in this respect it will follow the judgment.
 
-<span class="atom-split" data-atom="052" data-title="Whether that fire will have such an effect on men as is described?" data-chapter="Whether that fire will have such an effect on men as is described?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="Whether that fire will have such an effect on men as is described?" data-chapter="Whether that fire will have such an effect on men as is described?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this fire will not have such an effect on men as is described
 in the text (Sent. iv, D, 47). For a thing is said to be consumed when it is reduced to naught. Now
@@ -3802,7 +3810,7 @@ Risposta all’Obiezione 4: Questo fuoco agirà non solo secondo la forza natura
 
 Risposta all’Obiezione 5: Ci sono tre motivi per cui coloro che saranno ancora in vita potranno essere purificati improvvisamente. Il primo è che in loro ci sarà poco da purificare, poiché saranno già stati purificati dalle paure e dalle persecuzioni precedenti. Il secondo è che soffriranno dolore sia durante la loro vita che di propria volontà: il dolore subito volontariamente in questa vita purifica molto di più rispetto al dolore inflitto dopo la morte, come nel caso dei martiri, poiché “se in loro ci fosse qualcosa che necessita di essere purificato, esso verrebbe tagliato via dalla falce del dolore”, come afferma [Agostino](/figures/augustine) (De Unic. Bapt. xiii), anche se il dolore del martirio ha una durata breve rispetto al dolore sperimentato nel purgatorio. Il terzo motivo è che l’intensità del calore aumenterà in proporzione alla riduzione della sua durata nel tempo.
 
-<span class="atom-split" data-atom="053" data-title="Whether that fire will engulf the wicked?" data-chapter="Whether that fire will engulf the wicked?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="Whether that fire will engulf the wicked?" data-chapter="Whether that fire will engulf the wicked?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that that fire will not engulf the wicked. For a gloss on Malachi
 3:3, "He shall purify the sons of Levi," says that "it is a fire consuming the wicked and refining the
@@ -3879,7 +3887,7 @@ Risposta all’Obiezione 2: Questo fuoco sarà premiato, poiché tutto ciò che 
 
 Risposta all’Obiezione 3: La punizione dei malvagi, così come la gloria degli eletti, sarà maggiore dopo il giudizio che prima. Pertanto, proprio come alla creatura superiore verrà aggiunta la carità al fine di aumentare la gloria degli eletti, altrettanto ciò che è vile nelle creature umane verrà gettato all’inferno per accrescere la sofferenza dei dannati. Di conseguenza, non è affatto inappropriato che venga aggiunto un altro “fuoco” al fuoco dei dannati, quel fuoco che era già stato preparato fin dall’inizio del mondo.
 
-<span class="atom-split" data-atom="054" data-title="OF THE RESURRECTION (THREE ARTICLES)" data-chapter="OF THE RESURRECTION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="OF THE RESURRECTION (THREE ARTICLES)" data-chapter="OF THE RESURRECTION (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 In the next place we must consider things connected with and accompanying the resurrection.
 Of these the first to be considered will be the resurrection itself; the second will be the cause of the
@@ -3897,7 +3905,7 @@ In seguito, dobbiamo considerare gli aspetti legati alla risurrezione e che ne s
 (2) Se essa sia universale, cioè riguardi tutti i corpi;  
 (3) Se sia un fenomeno naturale o miracoloso.
 
-<span class="atom-split" data-atom="055" data-title="Whether there is to be a resurrection of the body?" data-chapter="Whether there is to be a resurrection of the body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Whether there is to be a resurrection of the body?" data-chapter="Whether there is to be a resurrection of the body?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is not to be a resurrection of the body: for it is written
 (Job 14:12): "Man, when he is fallen asleep, shall not rise again till the heavens be broken." But
@@ -4034,7 +4042,7 @@ Risposta all’Obiezione 4: A parità di altre condizioni, lo [stato](/concepts/
 
 Risposta all’Obiezione 5: La morte fisica fu causata dal peccato di Adamo, il quale fu cancellato dalla morte di Cristo; pertanto la sua punizione non dura per l’eternità. Ma il peccato mortale, che attraverso l’impenitenza provoca una morte eterna, non verrà mai espiato in futuro; quindi quella morte sarà effettivamente eterna.
 
-<span class="atom-split" data-atom="056" data-title="Whether the resurrection will be for all without exception?" data-chapter="Whether the resurrection will be for all without exception?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="Whether the resurrection will be for all without exception?" data-chapter="Whether the resurrection will be for all without exception?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the resurrection will not be for all without exception. For it is
 written (Ps. 1:5): "The wicked shall not rise again in judgment." Now men will not rise again except
@@ -4122,7 +4130,7 @@ Risposta all’Obiezione 4: Coloro che sono morti a causa del peccato originale,
 
 Risposta all’Obiezione 5: Rinasciamo per la grazia di Cristo che ci viene concessa, ma risorgiamo anche grazie alla stessa grazia di Cristo che lo ha reso capace di assumere la nostra natura; è proprio attraverso questa identificazione con la nostra natura umana che veniamo conformati a Lui. Pertanto, coloro che muoiono nel grembo materno, sebbene non rinascano ricevendo direttamente la grazia di Cristo, risorgeranno comunque in virtù di questa conformità della loro natura con la Sua, conformità che essi hanno acquisito raggiungendo la perfezione della specie umana.
 
-<span class="atom-split" data-atom="057" data-title="Whether the resurrection is natural?" data-chapter="Whether the resurrection is natural?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Whether the resurrection is natural?" data-chapter="Whether the resurrection is natural?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/act_potency,concepts/miracle,concepts/nature"></span>
 
 Objection 1: It would seem that the resurrection is natural. For, as the Damascene says (De
 Fide Orth. iii, 14), "that which is commonly observed in all, marks the nature of the individuals
@@ -4248,7 +4256,7 @@ Risposta all’Obiezione 4: L’intero funzionamento della natura è subordinato
 
 Risposta all’Obiezione 5: Sebbene non possa esistere un movimento naturale che termini in uno stato di riposo violento, può esistere un movimento non naturale che termini in uno stato di riposo naturale, come spiegato sopra.
 
-<span class="atom-split" data-atom="058" data-title="OF THE CAUSE OF THE RESURRECTION (THREE ARTICLES)" data-chapter="OF THE CAUSE OF THE RESURRECTION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="OF THE CAUSE OF THE RESURRECTION (THREE ARTICLES)" data-chapter="OF THE CAUSE OF THE RESURRECTION (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/cause,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider the cause of our resurrection. Under this head there are three points of
 inquiry:
@@ -4263,7 +4271,7 @@ Dobbiamo ora esaminare la causa della nostra risurrezione. In questo ambito ci s
 (2) Se il suono della tromba sia effettivamente legato a questo processo;  
 (3) Se gli angeli abbiano un ruolo in tutto ciò.
 
-<span class="atom-split" data-atom="059" data-title="Whether the resurrection of Christ is the cause of our resurrection?" data-chapter="Whether the resurrection of Christ is the cause of our resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="Whether the resurrection of Christ is the cause of our resurrection?" data-chapter="Whether the resurrection of Christ is the cause of our resurrection?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the resurrection of Christ is not the cause of our resurrection.
 For, given the cause, the effect follows. Yet given the resurrection of Christ the resurrection of the
@@ -4370,7 +4378,7 @@ Risposta all’Obiezione 3: Questo argomento è valido quando tutte le cose appa
 
 Risposta all’Obiezione 4: La risurrezione di tutti gli uomini avrà alcune somiglianze con la risurrezione di Cristo, per quanto riguarda ciò che è legato alla vita naturale, in relazione a cui tutti furono conformati a Cristo. Pertanto, tutti risorgeranno nuovamente a una vita immortale; ma nei santi, che furono conformati a Cristo per grazia, ci sarà una conformità anche riguardo a ciò che è legato alla gloria.
 
-<span class="atom-split" data-atom="060" data-title="Whether the sound of the trumpet will be the cause of our resurrection?" data-chapter="Whether the sound of the trumpet will be the cause of our resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the sound of the trumpet will be the cause of our resurrection?" data-chapter="Whether the sound of the trumpet will be the cause of our resurrection?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the sound of the trumpet will not be the cause of our
 resurrection. For the Damascene says (De Fide Orth. iv): "Thou must believe that the resurrection
@@ -4454,7 +4462,7 @@ Risposta all’Obiezione 2: Poiché le forme del [Sacramento] possiedono il pote
 
 Risposta all’Obiezione 3: Questo argomento sarebbe valido se il potere attribuito a quel suono fosse una realtà naturale completa; in tal caso, ciò che ne deriverebbe avrebbe come principio un potere già considerato naturale. Ma tale potere non è di questo tipo, bensì di quello che abbiamo attribuito, come sopra detto, alle forme dei Sacramenti (Sententiae, IV, D, 1; FP, Q[62], AA[1], 4).
 
-<span class="atom-split" data-atom="061" data-title="Whether the angels will do anything towards the resurrection?" data-chapter="Whether the angels will do anything towards the resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Whether the angels will do anything towards the resurrection?" data-chapter="Whether the angels will do anything towards the resurrection?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels will do nothing at all towards the resurrection. For
 raising the dead shows a greater power than does begetting men. Now when men are begotten, the
@@ -4490,7 +4498,7 @@ higher orders will, in a way, do also. In like manner the lower angels will co-o
 to the resurrection of each individual to whose guardianship they were appointed: so that this voice
 can be ascribed either to one or to many angels.
 
-<span class="atom-split" data-atom="062" data-title="OF THE TIME AND MANNER OF THE RESURRECTION (FOUR ARTICLES)" data-chapter="OF THE TIME AND MANNER OF THE RESURRECTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="OF THE TIME AND MANNER OF THE RESURRECTION (FOUR ARTICLES)" data-chapter="OF THE TIME AND MANNER OF THE RESURRECTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/time,forms/quaestio"></span>
 
 We must now consider the time and manner of the resurrection. Under this head there are four
 points of inquiry:
@@ -4507,7 +4515,7 @@ Dobbiamo ora considerare il momento e il modo della risurrezione. In questo ambi
 (3) Se la risurrezione avverrà di notte;  
 (4) Se accadrà improvvisamente.
 
-<span class="atom-split" data-atom="063" data-title="Whether the time of our resurrection should be delayed till the end of the world? (parte 1)" data-chapter="Whether the time of our resurrection should be delayed till the end of the world?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether the time of our resurrection should be delayed till the end of the world? (parte 1)" data-chapter="Whether the time of our resurrection should be delayed till the end of the world?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the time of the resurrection ought not to be delayed till the end
 of the world, so that all may rise together. For there is more conformity between head and members
@@ -4620,7 +4628,7 @@ Risposta all’Obiezione 2: Sebbene tra i membri alcuni abbiano un rango più el
 
 Risposta all’Obiezione 3: Geromeo, in un sermone sull’Assunzione (*Epistola x a Paolo ed Eustochio*, oggi riconosciuta come spuria), sembra dubitare della risurrezione dei santi insieme a Cristo, cioè se, essendo stati testimoni di tale risurrezione, siano morti nuovamente, in modo che la loro fosse una sorta di “risurrezione temporanea” (come nel caso di Lazzaro), piuttosto che una risurrezione vera e propria come quella che avverrà alla fine del mondo; oppure se siano davvero risorti a vita immortale, per vivere per sempre nel corpo e ascendere fisicamente in cielo insieme a Cristo, come si legge in un commento al Vangelo di Matteo 27:52. La seconda ipotesi sembra più probabile, poiché, secondo Geromeo, affinché i santi potessero testimoniare veramente della vera risurrezione di Cristo, era necessario che risorgessero davvero. Inoltre, la loro risurrezione non fu accelerata per il loro bene, ma al fine di permettere loro di testimoniare della risurrezione di Cristo; e attraverso questo testimonianza potessero gettare le basi della fede del Nuovo Testamento. Per questo motivo, era più appropriato che tale evento fosse compiuto dai “padri” dell’Antico Testamento, piuttosto che da coloro che morirono dopo la fondazione del Nuovo Testamento. Tuttavia, va osservato che, sebbene il Vangelo menzioni la loro risurrezione prima di quella di Cristo, questa affermazione deve essere intesa come fatta in modo anticipato, come spesso avviene negli scrittori di storia. Infatti, nessuno risorse veramente prima di Cristo, poiché Egli è “il primo frutto di coloro che dormono” (1 Corinzi 15:20); sebbene alcuni siano stati risuscitati prima della risurrezione di Cristo, come nel caso di Lazzaro.
 
-<span class="atom-split" data-atom="064" data-title="Whether the time of our resurrection should be delayed till the end of the world? (parte 2)" data-chapter="Whether the time of our resurrection should be delayed till the end of the world?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="Whether the time of our resurrection should be delayed till the end of the world? (parte 2)" data-chapter="Whether the time of our resurrection should be delayed till the end of the world?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 4: On account of these words, as [Augustine](/figures/augustine) relates (De Civ. Dei xx, 7),
 certain heretics asserted that there will be a first resurrection of the dead that they may reign with
@@ -4641,7 +4649,7 @@ all, "generations."
 
 Risposta all’Obiezione 4: A causa di queste parole, come riferisce [Agostino](/figures/augustine) (De Civ. Dei xx, 7), alcuni eretici sostenevano che ci sarebbe stata una prima risurrezione dei morti, affinché potessero regnare con Cristo sulla terra per mille anni; da qui furono chiamati “chiliasti” o “millenaristi”. Pertanto Agostino afferma (De Civ. Dei xx, 7) che queste parole debbano essere intese in un altro senso, ovvero come riferimento alla risurrezione spirituale, mediante la quale gli uomini si risveglieranno dai loro peccati e riceveranno il dono della grazia; mentre la seconda risurrezione riguarderà i corpi. Il regno di Cristo indica la Chiesa, nella quale non solo i martiri ma anche gli altri eletti regneranno; questa espressione indica quindi l’insieme dei fedeli. Inoltre, essi regneranno con Cristo in gloria riguardo a tutti, con particolare menzione dei martiri, poiché sono loro quelli che, dopo la morte, hanno combattuto per la verità fino alla fine. Il numero di mille anni non indica un valore fisso, ma l’intero periodo attuale in cui i santi regnano già con Cristo; il numero 1.000 simboleggia infatti l’universalità, più di quanto faccia il numero 100: 100 è infatti il quadrato di 10, mentre 1.000 è il cubo risultante dalla moltiplicazione di 10 per se stesso (10 × 10 = 100, 100 × 10 = 1.000). Ancora, nel Salmo 104:8 si legge: “La parola che Egli ha rivolto a tutte le generazioni”.
 
-<span class="atom-split" data-atom="065" data-title="Whether the time of our resurrection is hidden?" data-chapter="Whether the time of our resurrection is hidden?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Whether the time of our resurrection is hidden?" data-chapter="Whether the time of our resurrection is hidden?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this time is not hidden. Because when we know exactly the
 beginning of a thing, we can know its end exactly, since "all things are measured by a certain period"
@@ -4723,7 +4731,7 @@ the truth and sometimes not." The same remarks would seem applicable to the stat
 Joachim, who by means of such conjectures about the future foretold some things that were true,
 and in others was deceived.
 
-<span class="atom-split" data-atom="066" data-title="Whether the resurrection will take place at night-time?" data-chapter="Whether the resurrection will take place at night-time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Whether the resurrection will take place at night-time?" data-chapter="Whether the resurrection will take place at night-time?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the resurrection will not be at night-time. For the resurrection
 will not be "till the heavens be broken" (Job 14:12). Now when the heavenly movement ceases,
@@ -4787,7 +4795,7 @@ Risposta all’Obiezione 2: Si dice che il momento più perfetto del tempo sia m
 
 Risposta all’Obiezione 3: Il momento dovrebbe essere adattato alla manifestazione riguardo alle cose che avverranno in quel tempo, e al segreto riguardo alla determinazione effettiva di quell’ora. Pertanto, entrambe le possibilità possono verificarsi in modo appropriato: cioè che la risurrezione avvenga di giorno o di notte.
 
-<span class="atom-split" data-atom="067" data-title="Whether the resurrection will happen suddenly or by degrees?" data-chapter="Whether the resurrection will happen suddenly or by degrees?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="Whether the resurrection will happen suddenly or by degrees?" data-chapter="Whether the resurrection will happen suddenly or by degrees?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the resurrection will not happen suddenly but by degrees. For
 the resurrection of the dead is foretold (Ezech. 37:7,8) where it is written: "The bones came together
@@ -4861,7 +4869,7 @@ Obiezione 3: Ciò sembrerebbe valere sia per quel suono che per le forme dei sac
 
 Risposta all’Obiezione 4: La raccolta delle ceneri, che non può avvenire senza un movimento locale, sarà effettuata dagli angeli. Pertanto, l’operazione avverrà tempestivamente, anche se non sarà percepibile a causa della facilità con cui gli angeli possono svolgerla.
 
-<span class="atom-split" data-atom="068" data-title="OF THE TERM \&quot;WHEREFROM\&quot; OF THE RESURRECTION (THREE ARTICLES)" data-chapter="OF THE TERM \&quot;WHEREFROM\&quot; OF THE RESURRECTION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="OF THE TERM \&quot;WHEREFROM\&quot; OF THE RESURRECTION (THREE ARTICLES)" data-chapter="OF THE TERM \&quot;WHEREFROM\&quot; OF THE RESURRECTION (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 # OF THE TERM "WHEREFROM" OF THE RESURRECTION (THREE ARTICLES)
 
@@ -4880,7 +4888,7 @@ Dobbiamo ora considerare il termine “da cui” deriva la risurrezione; e sotto
 (2) Se le ceneri, o la polvere, siano quel “termine da cui”;  
 (3) Se questa polvere abbia una tendenza naturale ad attrarre l’anima.
 
-<span class="atom-split" data-atom="069" data-title="Whether death will be the term \&quot;wherefrom\&quot; of the resurrection in all cases?" data-chapter="Whether death will be the term \&quot;wherefrom\&quot; of the resurrection in all cases?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="Whether death will be the term \&quot;wherefrom\&quot; of the resurrection in all cases?" data-chapter="Whether death will be the term \&quot;wherefrom\&quot; of the resurrection in all cases?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,concepts/death,concepts/revelation,figures/augustine"></span>
 
 # Whether death will be the term "wherefrom" of the resurrection in all cases?
 
@@ -4992,7 +5000,7 @@ Risposta all’Obiezione 3: È errato affermare che qualcuno, diverso da Cristo,
 
 Risposta all’Obiezione 4: La strada più breve non è sempre quella da scegliere, ma soltanto quando è più adatta, o almeno altrettanto adatta, a raggiungere lo scopo desiderato. In questo caso, invece, non è così, come risulta evidente da quanto abbiamo detto.
 
-<span class="atom-split" data-atom="070" data-title="Whether all will rise again from ashes?" data-chapter="Whether all will rise again from ashes?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="Whether all will rise again from ashes?" data-chapter="Whether all will rise again from ashes?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,assi/soul_body,positions/original_sin,concepts/custom"></span>
 
 Objection 1: It would seem that all will not rise again from ashes. For Christ's resurrection is
 the exemplar of ours. Yet His resurrection was not from ashes, for His flesh saw not corruption
@@ -5077,7 +5085,7 @@ Risposta all’Obiezione 3: Il fuoco che purificherà la superficie della terra 
 
 Risposta all’Obiezione 4: Il movimento non deriva la sua specie dal termine “da cui” ma dal termine “verso cui”. Pertanto, la risurrezione dei santi, che sarà gloriosa, deve necessariamente differire dalla risurrezione dei malvagi, che non sarà gloriosa, in relazione al termine “verso cui”, e non in relazione al termine “da cui”. Spesso accade infatti che il termine “verso cui” sia diverso da quello “da cui”; ad esempio, una cosa può essere spostata dalla nerezza verso la bianchezza e poi verso il pallore.
 
-<span class="atom-split" data-atom="071" data-title="Whether the ashes from which the human body will be restored have any natural inclination towards the soul which will be united to them?" data-chapter="Whether the ashes from which the human body will be restored have any natural inclination towards the soul which will be united to them?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Whether the ashes from which the human body will be restored have any natural inclination towards the soul which will be united to them?" data-chapter="Whether the ashes from which the human body will be restored have any natural inclination towards the soul which will be united to them?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the ashes from which the human body will be restored will
 have a natural inclination towards the soul which will be united to them. For if they had no inclination
@@ -5145,7 +5153,7 @@ Risposta all’Obiezione 2: L’anima separata dal corpo mantiene la stessa natu
 
 Risposta all’Obiezione 3: Queste parole di Giobbe non intendono dire che i vizi rimangano effettivamente nelle ceneri dei morti, ma che essi persistano secondo l’ordine della giustizia divina, in base al quale quelle ceneri sono destinate alla restituzione del corpo che dovrà soffrire eternamente per i peccati commessi.
 
-<span class="atom-split" data-atom="072" data-title="OF THE CONDITIONS OF THOSE WHO RISE AGAIN, AND FIRST OF THEIR IDENTITY (THREE ARTICLES)" data-chapter="OF THE CONDITIONS OF THOSE WHO RISE AGAIN, AND FIRST OF THEIR IDENTITY (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="OF THE CONDITIONS OF THOSE WHO RISE AGAIN, AND FIRST OF THEIR IDENTITY (THREE ARTICLES)" data-chapter="OF THE CONDITIONS OF THOSE WHO RISE AGAIN, AND FIRST OF THEIR IDENTITY (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 In the next place we must consider the conditions of those who rise again. Here we shall consider:
 (1) Those which concern the good and wicked in common; (2) those which concern the good only;
@@ -5172,7 +5180,7 @@ All’interno della prima categoria di considerazioni, vi sono tre punti princip
 (2) Se si tratterà dello stesso individuo;  
 (3) Se è necessario che le stesse ceneri ritornino alle stesse parti del corpo da cui provenivano in origine.
 
-<span class="atom-split" data-atom="073" data-title="Whether in the resurrection the soul will be reunited to the same identical body? (parte 1)" data-chapter="Whether in the resurrection the soul will be reunited to the same identical body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Whether in the resurrection the soul will be reunited to the same identical body? (parte 1)" data-chapter="Whether in the resurrection the soul will be reunited to the same identical body?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the soul will not be reunited to the same identical body at the
 resurrection, for "thou sowest not the body that shall be, but bare grain" (1 Cor. 15:37). Now the
@@ -5287,7 +5295,7 @@ Risposta all’Obiezione 2: L’anima che risorge e l’anima che vive in questo
 
 Risposta all’Obiezione 3: Ciò che viene inteso come esistente nella materia prima della sua forma rimane nella materia anche dopo la corruzione, poiché, quando ciò che è venuto in seguito viene rimosso, ciò che è venuto prima può ancora persistere. Ora, come osserva il Commentatore nel Primo Libro di Fisica e nel De [Substantia](/concepts/substance) Orbis, per quanto riguarda le cose soggette a generazione e corruzione, dobbiamo presupporre dimensioni indeterminate; proprio queste dimensioni rendono la materia divisibile, permettendole di assumere varie forme nelle sue diverse parti. Pertanto, anche dopo la separazione della [forma sostanziale](/concepts/forma_substantialis) dalla materia, queste dimensioni rimangono invariate; di conseguenza, la materia che esiste entro tali dimensioni, qualsiasi forma assuma, è più strettamente legata a ciò che da essa è stato generato di qualsiasi altra parte della materia che possa assumere qualsiasi altra forma. Così, la materia che verrà utilizzata per ricostituire il corpo umano sarà esattamente la stessa materia di quel corpo in origine.
 
-<span class="atom-split" data-atom="074" data-title="Whether in the resurrection the soul will be reunited to the same identical body? (parte 2)" data-chapter="Whether in the resurrection the soul will be reunited to the same identical body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="Whether in the resurrection the soul will be reunited to the same identical body? (parte 2)" data-chapter="Whether in the resurrection the soul will be reunited to the same identical body?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 4: Even as a simple quality is not the [substantial form](/concepts/forma_substantialis) of an element, but
 its proper accident, and the disposition whereby its matter is rendered proper to such a form; so the
@@ -5311,7 +5319,7 @@ previous reply (ad 2).
 
 Risposta all’Obiezione 4: Proprio come una qualità semplice non è la [forma sostanziale](/concepts/forma_substantialis) di un elemento, ma il suo accidente proprio, così anche la forma di un corpo misto – che è una qualità risultante dalla combinazione di qualità semplici – non è la forma sostanziale del corpo misto stesso, ma il suo accidente proprio, e la disposizione grazie alla quale la materia di quel corpo è adatta a ricevere tale forma. Ora, il corpo umano non possiede alcuna altra forma sostanziale se non questa forma di corpo misto; l’unica eccezione è l’anima razionale. Infatti, se l’anima umana avesse una qualche forma sostanziale preesistente, ciò le conferirebbe un’esistenza sostanziale e la collocherebbe nel genere della sostanza; in tal caso, l’anima sarebbe unita a un corpo già appartenente al genere della sostanza, e quindi l’anima verrebbe considerata, rispetto al corpo, come una forma artificiale rispetto alla sua materia, poiché entrambe esistono nel genere della sostanza grazie alla materia stessa. Pertanto, l’unione dell’anima al corpo sarebbe accidentale, il che costituisce l’errore degli antichi filosofi confutato dal Filosofo stesso (De Anima ii, 2 [Cfr. FP, Q[76], A[1). Ciò significherebbe anche che il corpo umano e ciascuna delle sue parti non mantenerebbero più i loro stessi nomi nel medesimo senso, il che è contrario all’insegnamento del Filosofo (De Anima ii, 1). Quindi, poiché l’anima razionale rimane, nessuna forma sostanziale del corpo umano scompare completamente. Inoltre, le variazioni delle forme accidentali non modificano l’identità stessa di quel corpo; pertanto lo stesso corpo potrà risorgere, poiché la stessa materia verrà nuovamente utilizzata, come già accennato in una precedente risposta (ad 2).
 
-<span class="atom-split" data-atom="075" data-title="Whether it will be identically the same man that shall rise again? (parte 1)" data-chapter="Whether it will be identically the same man that shall rise again?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Whether it will be identically the same man that shall rise again? (parte 1)" data-chapter="Whether it will be identically the same man that shall rise again?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it will not be identically the same man that shall rise again.
 For according to the Philosopher (De Gener. ii): "Whatsoever things are changed in their corruptible
@@ -5427,7 +5435,7 @@ Si può anche osservare che la forma delle cose soggette a generazione e corruzi
 
 Risposta all’Obiezione 2: Esistono due opinioni riguardo all’umanità e a qualsiasi forma di “tutto”. Alcuni sostengono che la forma del tutto e quella della parte siano in realtà la stessa cosa; ma vengono chiamate rispettivamente “forma della parte” nel senso in cui perfezionano la materia, e “forma del tutto” nel senso in cui dal loro insieme deriva la natura specifica del tutto stesso. Secondo questa opinione, l’umanità non è altro che l’anima razionale; pertanto, poiché si tratta sempre della stessa anima razionale, esisterà necessariamente la stessa identica umanità anche dopo la morte, sebbene non più sotto forma di umanità propriamente detta, poiché il composto non deriva la sua natura specifica da un’umanità separata. L’altra opinione, che sembra più vicina alla verità, è quella di Avicenna: secondo lui, la forma del tutto non è soltanto la forma della parte, né qualche altra forma diversa da essa, ma è il tutto stesso risultante dalla combinazione di forma e materia. Questa forma del tutto viene chiamata “essenza” o “quiddità”. Poiché, alla resurrezione, ci saranno lo stesso corpo e la stessa anima razionale, ne consegue necessariamente l’esistenza della stessa umanità. Il primo argomento addotto per dimostrare l’esistenza di una distinzione nell’umanità si basava sull’ipotesi che l’umanità fosse una forma distinta derivante dalla combinazione di materia e forma; ma questa ipotesi è falsa. Il secondo argomento non confuta l’identicità dell’umanità, poiché l’unione tra elementi diversi implica necessariamente un certo tipo di relazione o interazione; tuttavia, anche se esiste una differenza nella natura di questa relazione, ciò non impedisce che l’umanità rimanga identica. Inoltre, l’identicità dell’uomo risorto con quello nato in precedenza non viene compromessa da questo fattore; allo stesso modo, l’identicità dell’umanità non viene negata nemmeno se si considera l’unione tra elementi come una semplice relazione concorrente all’esistenza stessa dell’umanità. Infatti, l’umanità non è una di quelle forme che derivano dalla combinazione di altri elementi, come le forme delle cose prodotte dall’arte; quindi, se esiste un’altra forma diversa di “composizione”, esisterà anche una forma diversa di umanità.
 
-<span class="atom-split" data-atom="076" data-title="Whether it will be identically the same man that shall rise again? (parte 2)" data-chapter="Whether it will be identically the same man that shall rise again?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Whether it will be identically the same man that shall rise again? (parte 2)" data-chapter="Whether it will be identically the same man that shall rise again?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: This argument affords a very good proof against those who held a
 distinction between the sensitive and rational souls in man: because in that case the sensitive soul
@@ -5459,7 +5467,7 @@ Ma se affermiamo che nell’uomo lo stesso spirito sia, per sua essenza, sia raz
 
 Risposta all’Obiezione 4: Una statua può essere considerata in due modi: o come una sostanza particolare, oppure come qualcosa di artificiale. Poiché rientra nel genere delle sostanze in base alla sua materia, ne consegue che, se la consideriamo come una sostanza particolare, si tratta sempre della stessa statua ricreata dalla stessa materia. D’altra parte, appartiene al genere delle cose artificiali perché possiede una forma accidentale che scompare quando la statua viene distrutta; pertanto, essa non può tornare ad essere esattamente la stessa di prima. Invece, l’anima umana sopravvive alla morte del corpo: quindi questa analogia non regge.
 
-<span class="atom-split" data-atom="077" data-title="Whether the ashes of the human body must needs, by the resurrection, return to the same parts of the body that were dissolved into them?" data-chapter="Whether the ashes of the human body must needs, by the resurrection, return to the same parts of the body that were dissolved into them?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="Whether the ashes of the human body must needs, by the resurrection, return to the same parts of the body that were dissolved into them?" data-chapter="Whether the ashes of the human body must needs, by the resurrection, return to the same parts of the body that were dissolved into them?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem necessary for the ashes of the human body to return, by the
 resurrection, to the same parts that were dissolved into them. For, according to the Philosopher,
@@ -5536,7 +5544,7 @@ Risposta all’Obiezione 2: Un cambiamento nella posizione delle parti che compo
 
 Risposta all’Obiezione 3: L’operazione, in senso proprio, non viene attribuita alla parte, ma al tutto; pertanto, la ricompensa spetta non alla parte, ma al tutto.
 
-<span class="atom-split" data-atom="078" data-title="OF THE INTEGRITY OF THE BODIES IN THE RESURRECTION (FIVE ARTICLES)" data-chapter="OF THE INTEGRITY OF THE BODIES IN THE RESURRECTION (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="OF THE INTEGRITY OF THE BODIES IN THE RESURRECTION (FIVE ARTICLES)" data-chapter="OF THE INTEGRITY OF THE BODIES IN THE RESURRECTION (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,assi/soul_body"></span>
 
 We must next consider the integrity of the bodies in the resurrection. Under this head there are
 five points of inquiry:
@@ -5555,7 +5563,7 @@ Dobbiamo ora considerare l’integrità dei corpi nella risurrezione. In questo 
 (4) Tutto ciò che costituisce la vera natura umana risorgerà?  
 (5) Anche gli elementi materiali presenti nel corpo risorgeranno?
 
-<span class="atom-split" data-atom="079" data-title="Whether all the members of the human body will rise again?" data-chapter="Whether all the members of the human body will rise again?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="Whether all the members of the human body will rise again?" data-chapter="Whether all the members of the human body will rise again?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,assi/human_nature,concepts/four_causes,figures/aristotle"></span>
 
 Objection 1: It would seem that not all the members of the human body will rise again. For if
 the end be done away it is useless to repair the means. Now the end of each member is its act. Since
@@ -5633,7 +5641,7 @@ Risposta all’Obiezione 2: Gli intestini risorgeranno nuovamente nel corpo, pro
 
 Risposta all’Obiezione 3: Gli atti attraverso i quali meritiamo non sono, propriamente parlando, atti delle mani o dei piedi, ma dell’intero essere umano; così come l’opera d’arte non viene attribuita allo strumento utilizzato, ma all’artista che l’ha creata. Pertanto, anche se il membro che è stato amputato prima del pentimento di una persona non ha potuto collaborare con essa nello [stato](/concepts/state) in cui essa merita la gloria, l’intera persona merita comunque di essere ricompensata, poiché è interamente dedicata al servizio di Dio.
 
-<span class="atom-split" data-atom="080" data-title="Whether the hair and nails will rise again in the human body?" data-chapter="Whether the hair and nails will rise again in the human body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="Whether the hair and nails will rise again in the human body?" data-chapter="Whether the hair and nails will rise again in the human body?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,assi/soul_body,concepts/soul,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the hair and nails will not rise again in the human body. For
 just as hair and nails result from the surplus of food, so do urine, sweat and other superfluities or
@@ -5699,7 +5707,7 @@ Risposta all’Obiezione 2: Il seme non è necessario per la perfezione dell’i
 
 Risposta all’Obiezione 3: I capelli e le unghie vengono nutriti e crescono; è quindi evidente che svolgano qualche funzione specifica, la quale non sarebbe possibile se non fossero in qualche modo perfezionati dall’anima. Poiché nell’uomo esiste un’unica anima, ovvero l’anima razionale, ne consegue che anche i capelli e le unghie siano perfezionati da questa anima, sebbene non al punto di partecipare alle funzioni sensoriali, proprio come le ossa. Tuttavia è certo che queste parti del corpo risorgeranno dopo la morte e faranno parte dell’integrità individuale.
 
-<span class="atom-split" data-atom="081" data-title="Whether the humors will rise again in the body?" data-chapter="Whether the humors will rise again in the body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether the humors will rise again in the body?" data-chapter="Whether the humors will rise again in the body?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,assi/soul_body,concepts/soul,concepts/sacrament,figures/augustine"></span>
 
 Objection 1: It would seem that the humors will not rise again in the body. For it is written (1
 Cor. 15:50): "Flesh and blood cannot possess the kingdom of God." Now blood is the chief humor.
@@ -5790,7 +5798,7 @@ Risposta all’Obiezione 2: Proprio come i membri del corpo che svolgono funzion
 
 Risposta all’Obiezione 3: Proprio come gli elementi, nel processo di formazione dei corpi misti, sono la loro materia senza però trovarsi costantemente in uno stato di transizione all’interno di tali corpi, allo stesso modo i umori hanno una relazione con i vari organi del corpo umano. E poiché gli elementi, nelle varie parti dell’universo, possiedono forme definite che contribuiscono alla perfezione dell’universo stesso, così anche i umori contribuiscono alla perfezione del corpo umano, sebbene non raggiungano mai la sua completa perfezione, proprio come le altre parti dell’universo. Inoltre, mentre gli elementi non possiedono forme perfette come i corpi misti, tutti i componenti dell’universo ricevono la loro perfezione da Dio, ma in misura diversa a seconda della loro natura. Allo stesso modo, anche i umori vengono in qualche modo perfezionati dall’anima razionale, sebbene non nella stessa misura delle parti più perfette del corpo umano.
 
-<span class="atom-split" data-atom="082" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (parte 1)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (parte 1)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that what was in the body, belonging to the truth of [human nature](/axes/human_nature),
 will not all rise again in it. For food is changed into the truth of human nature. Now sometimes the
@@ -5850,7 +5858,7 @@ Obiezione 5: Inoltre, se si afferma che ciò che viene trasformato in seme non s
 
 Al contrario, tutto ciò che appartiene alla verità della natura umana viene perfezionato dall’anima razionale. Ed è proprio attraverso questa perfezione che il corpo umano viene guidato verso la risurrezione. Pertanto, tutto ciò che appartiene alla verità della natura umana risorgerà nuovamente in ciascuno di noi. Inoltre, se qualcosa che appartiene alla verità della natura umana venisse rimosso dal corpo di un uomo, quel corpo non sarebbe più considerato perfetto. Tutte le imperfezioni dell’uomo verranno eliminate durante la risurrezione, soprattutto in coloro che sono stati eletti, a cui è stato promesso (Lc 21:18) che nemmeno un capello della loro testa andrà perduto. Quindi, tutto ciò che appartiene alla verità della natura umana risorgerà nuovamente in ciascuno di noi.
 
-<span class="atom-split" data-atom="083" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (parte 2)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (parte 2)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 I answer that, "Everything is related to truth in the same way as to being" (Metaph. ii), because
 a thing is true when it is as it appears to him who actually knows it. For this reason Avicenna
@@ -5961,7 +5969,7 @@ Queste tre opinioni sono state esposte e analizzate più ampiamente nel Secondo 
 Quello che in primo luogo apparteneva alla sostanza del corpo umano verrà completamente restituito; quanto invece è stato aggiunto successivamente – in secondo, terzo ordine, e così via – verrà reintegrato nella misura necessaria per ripristinare la quantità originale. Questo punto viene dimostrato attraverso due argomentazioni: innanzitutto, perché ciò che è stato aggiunto aveva lo scopo di riparare ciò che era andato perduto in precedenza; pertanto, non appartiene essenzialmente alla vera natura umana nella stessa misura di ciò che esisteva già inizialmente. In secondo luogo, l’aggiunta di elementi estranei ai liquidi radicali del corpo umano fa sì che il composto risultante non condivida più perfettamente la vera natura specifica della specie umana; ad esempio, l’acqua mescolata al vino ne indebolisce sempre la qualità, fino a renderlo acquoso. Allo stesso modo, ciò che viene trasformato successivamente da cibo in carne non raggiunge mai perfettamente lo stato specifico della carne; pertanto, non appartiene nella stessa misura alla vera natura umana né al processo di risurrezione. È evidente quindi che questa opinione sostiene che soltanto ciò che appartiene essenzialmente alla vera natura umana possa essere completamente restituito, mentre ciò che è stato aggiunto successivamente no. La terza opinione differisce in parte dalla seconda e in alcuni aspetti concorda con essa: afferma infatti che tutto ciò che ha la forma di carne e ossa appartiene alla vera natura umana; non distingue, infatti, durante tutta la vita dell’uomo, alcun elemento essenziale e primario della sua natura, ma soltanto elementi che contribuiscono al mantenimento della quantità corporea, senza riguardare la loro natura specifica. Sostiene inoltre che tutte le parti del corpo umano che rientrano nell’intento originale della natura generatrice appartengono alla vera natura umana, in termini di specie; tuttavia, non in termini di materia, poiché quest’ultima può subire variazioni senza alterare la specie stessa. Si può quindi dire che ciò che accade alle singole parti di un individuo accade anche all’intera popolazione di una città: alcuni individui muoiono e altri ne prendono il posto, ma la comunità nel suo insieme rimane invariata. Allo stesso modo, se alcune parti del corpo umano subiscono alterazioni, tutte queste parti continuano a far parte della stessa specie umana, anche se la loro materia può cambiare.
 D’altra parte, la terza opinione concorda con la seconda, poiché ritiene che le parti che vengono dopo non raggiungano la perfezione della specie nello stesso modo in cui lo fanno quelle che vengono prima; di conseguenza, la terza opinione afferma che la stessa cosa risorga nell’uomo, proprio come sostiene la seconda opinione, ma non per le stesse ragioni. Infatti, essa ritiene che tutto ciò che deriva dal seme possa risorgere nuovamente, non perché appartenga alla verità della natura umana in modo diverso da ciò che viene dopo, ma perché condivide tale verità in modo più perfetto; lo stesso ordine viene applicato dalla seconda opinione a quelle cose che derivano successivamente dal cibo, e anche in questo punto le due opinioni concordano.
 
-<span class="atom-split" data-atom="084" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (parte 3)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (parte 3)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 1: A natural thing is what it is, not from its matter but from its form;
 wherefore, although that part of matter which at one time was under the form of bovine flesh rises
@@ -6023,7 +6031,7 @@ Risposta all’Obiezione 4: Secondo la prima opinione, questo argomento può ess
 
 Risposta all’Obiezione 5: L’embrione, prima di essere animato da un’anima razionale, non è interessato alla resurrezione; in tale stato, molte sostanze vengono aggiunte alla sostanza seminale provenienti dal cibo, poiché il bambino viene nutrito nell’utero materno. Pertanto, supponendo che un uomo abbia consumato tale cibo e che ne sia derivato un figlio, ciò che si trovava nella sostanza seminale risorgerà effettivamente in quel figlio; a meno che quella sostanza non contenga elementi appartenenti alle persone da cui è stata ricavata la materia seminale, poiché tali elementi risorgerebbero soltanto nella prima persona e non nella seconda. Il resto della carne consumata, non essendo trasformato in seme, risorgerà chiaramente nella prima persona, poiché il potere divino compensa eventuali carenze. La prima opinione non è turbata da questa obiezione, poiché non ritiene che il seme derivi dal cibo in eccesso; tuttavia esistono molte altre ragioni contro di essa, come si può vedere nel Secondo Libro (Sentenze, ii, D, 30; FP, Q[119], A[2]).
 
-<span class="atom-split" data-atom="085" data-title="Whether whatever was materially in a man's members will all rise again?" data-chapter="Whether whatever was materially in a man's members will all rise again?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="Whether whatever was materially in a man's members will all rise again?" data-chapter="Whether whatever was materially in a man's members will all rise again?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that whatever was materially in a man's members will all rise again.
 For the hair, seemingly, is less concerned in the resurrection than the other members. Yet whatever
@@ -6116,7 +6124,7 @@ Risposta all’Obiezione 2: Secondo la terza opinione, le parti di una specie so
 
 Risposta all’Obiezione 3: Per quanto riguarda le cose soggette a generazione e corruzione, è necessario presupporre dimensioni indefinite prima dell’acquisizione della [forma sostanziale](/concepts/forma_substantialis). Pertanto, la divisione effettuata in base a queste dimensioni appartiene propriamente alla materia. Tuttavia, una quantità completa e definita arriva alla materia soltanto dopo l’acquisizione della forma sostanziale; per questo motivo, la divisione che si basa su una quantità definita riguarda specificamente la specie, soprattutto quando una posizione precisa delle parti fa parte dell’essenza stessa di quella specie, come nel caso del corpo umano.
 
-<span class="atom-split" data-atom="086" data-title="OF THE QUALITY OF THOSE WHO RISE AGAIN (FOUR ARTICLES)" data-chapter="OF THE QUALITY OF THOSE WHO RISE AGAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="OF THE QUALITY OF THOSE WHO RISE AGAIN (FOUR ARTICLES)" data-chapter="OF THE QUALITY OF THOSE WHO RISE AGAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the quality of those who rise again. Under this head there are four points
 of inquiry:
@@ -6133,7 +6141,7 @@ Dobbiamo ora considerare la natura di coloro che risorgono. In questo ambito vi 
 (3) Se saranno tutti dello stesso sesso;  
 (4) Se risorgeranno nuovamente alla vita animale.
 
-<span class="atom-split" data-atom="087" data-title="Whether all will rise again of the same age?" data-chapter="Whether all will rise again of the same age?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="Whether all will rise again of the same age?" data-chapter="Whether all will rise again of the same age?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,figures/augustine"></span>
 
 Objection 1: It would seem that all will not rise again of the same, namely the youthful age.
 Because God will take nothing pertaining to man's perfection from those who rise again, especially
@@ -6201,7 +6209,7 @@ Risposta all’Obiezione 2: Parliamo di età non in termini di numero di anni, m
 
 Risposta all’Obiezione 3: Si dice che la forza della specie umana sia più perfetta in un bambino che in un giovane, per quanto riguarda la capacità di trasformare il nutrimento in modo specifico; allo stesso modo, tale forza è più perfetta nel seme che nell’uomo adulto. Tuttavia, nella giovinezza, questa forza raggiunge il suo apice in termini di completamento. Pertanto, ciò che appartiene essenzialmente alla vera natura umana viene portato a quella perfezione che essa possiede nell’età giovanile, e non a quella perfezione che si manifesta nell’infanzia, quando gli umori corporei non hanno ancora raggiunto la loro configurazione definitiva.
 
-<span class="atom-split" data-atom="088" data-title="Whether all will rise again of the same stature?" data-chapter="Whether all will rise again of the same stature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="088" data-title="Whether all will rise again of the same stature?" data-chapter="Whether all will rise again of the same stature?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/nature,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all will rise again of the same stature. For just as man is
 measured by dimensive quantity, so is he by the quantity of time. Now the quantity of time will be
@@ -6280,7 +6288,7 @@ Risposta all’Obiezione 2: La quantità di un individuo particolare corrisponde
 
 Risposta all’Obiezione 3: La quantità di coloro che risorgeranno dai morti non è proporzionale alla forza restauratrice, poiché questa forza non appartiene alle capacità del corpo – né alle ceneri, in quanto rappresentano lo [stato](/concepts/state) in cui si trovano prima della resurrezione – ma alla natura che l’individuo possedeva originariamente. Tuttavia, se la forza formatrice, a causa di qualche difetto, non fosse in grado di produrre quella quantità adeguata alla specie, la potenza divina compenserebbe tale difetto durante la resurrezione, proprio come avviene nei nani o in coloro che, per dimensioni eccessive, hanno superato i limiti naturali.
 
-<span class="atom-split" data-atom="089" data-title="Whether all will rise again of the male sex?" data-chapter="Whether all will rise again of the male sex?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="089" data-title="Whether all will rise again of the male sex?" data-chapter="Whether all will rise again of the male sex?" data-kind="atom" data-srclang="en" data-tags="figures/augustine,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all will rise again of the male sex. For it is written (Eph. 4:13)
 that we shall all meet "unto a perfect man," etc. Therefore there will be none but the male sex.
@@ -6322,7 +6330,7 @@ Reply to Objection 3: Although the begetting of a woman is beside the intention 
 nature, it is in the intention of universal nature, which requires both sexes for the perfection of the
 human species. Nor will any defect result from sex as stated above (ad 2).
 
-<span class="atom-split" data-atom="090" data-title="Whether all will rise again to animal life so as to exercise the functions of nutrition and generation?" data-chapter="Whether all will rise again to animal life so as to exercise the functions of nutrition and generation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="090" data-title="Whether all will rise again to animal life so as to exercise the functions of nutrition and generation?" data-chapter="Whether all will rise again to animal life so as to exercise the functions of nutrition and generation?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,assi/soul_body,assi/end_of_life,positions/beatitude,figures/aristotle"></span>
 
 Objection 1: It would seem that they will rise again to the animal life, or in other words that
 they will make use of the acts of the nutritive and generative powers. For our resurrection will be
@@ -6415,7 +6423,7 @@ Risposta all’Obiezione 3: Le suddette operazioni non appartengono all’uomo i
 
 Risposta all’Obiezione 4: Come afferma il Filosofo (Etica vii, 12, x, 5), i piaceri del corpo sono di natura “medicinale”, poiché servono ad alleviare la stanchezza; al contrario, diventano dannosi quando vengono goduti in modo eccessivo, come se fossero veri piaceri: proprio come una persona il cui gusto è corrotto si compiace di cose che non sono gradevoli per chi è sano. Pertanto, non segue affatto che tali piaceri facciano parte della perfezione della beatitudine, come sostengono gli Ebrei e i Turchi, così come alcuni eretici noti come “Chiliasti”; questi ultimi, secondo l’insegnamento del Filosofo, sembrerebbero avere un appetito malsano, poiché soltanto i piaceri spirituali sono veramente tali e vanno cercati per il loro valore intrinseco; quindi sono soltanto questi ad essere necessari per raggiungere la beatitudine.
 
-<span class="atom-split" data-atom="091" data-title="OF THE IMPASSIBILITY OF THE BODIES OF THE BLESSED AFTER THEIR RESURRECTION (FOUR ARTICLES)" data-chapter="OF THE IMPASSIBILITY OF THE BODIES OF THE BLESSED AFTER THEIR RESURRECTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="091" data-title="OF THE IMPASSIBILITY OF THE BODIES OF THE BLESSED AFTER THEIR RESURRECTION (FOUR ARTICLES)" data-chapter="OF THE IMPASSIBILITY OF THE BODIES OF THE BLESSED AFTER THEIR RESURRECTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/beatitude,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the conditions under which the blessed rise again, and (1) the impassibility
 of their bodies; (2) their subtlety; (3) their agility; (4) their clarity. Under the first head there are
@@ -6433,7 +6441,7 @@ Dobbiamo ora considerare le condizioni sotto cui i beati risorgeranno, e in part
 (3) Questa impassibilità renderà i loro corpi gloriosi?  
 (4) In loro, tutti i sensi saranno attivi?
 
-<span class="atom-split" data-atom="092" data-title="Whether the bodies of the saints will be impassible after the resurrection? (parte 1)" data-chapter="Whether the bodies of the saints will be impassible after the resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="092" data-title="Whether the bodies of the saints will be impassible after the resurrection? (parte 1)" data-chapter="Whether the bodies of the saints will be impassible after the resurrection?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that the bodies of the saints will not be impassible after the resurrection.
 For everything mortal is passible. But man, after the resurrection, will be "a mortal rational animal,"
@@ -6525,7 +6533,7 @@ rational soul, even as the soul will be perfectly subject to God. Wherefore it w
 the glorified body to be subject to any change contrary to the disposition whereby it is perfected
 by the soul; and consequently those bodies will be impassible.
 
-<span class="atom-split" data-atom="093" data-title="Whether the bodies of the saints will be impassible after the resurrection? (parte 2)" data-chapter="Whether the bodies of the saints will be impassible after the resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether the bodies of the saints will be impassible after the resurrection? (parte 2)" data-chapter="Whether the bodies of the saints will be impassible after the resurrection?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/act_potency,concepts/soul,concepts/beauty,figures/augustine"></span>
 
 Reply to Objection 1: According to Anselm (Cur Deus Homo ii, 11), "mortal is included in
 the philosophers' definition of man, because they did not believe that the whole man could be ever
@@ -6587,7 +6595,7 @@ Risposta all’Obiezione 4: Secondo [Agostino](/figures/augustine) (Epistola ad 
 
 Risposta all’Obiezione 5: Le cicatrici delle ferite non esisteranno nei santi, né esistevano in Cristo; esse, infatti, non indicano alcun difetto, ma rappresentano segni della virtù più incrollabile grazie alla quale i santi soffrirono per amore di giustizia e fede. Tali cicatrici aumentano sia la loro che la gioia degli altri (cfr. TP, Q[54], A[4], ad 3). Per questo Agostino afferma (De Civ. Dei xxii, 19): “Proviamo un amore indescrivibile per i beati martiri e desideriamo vedere in quel regno le cicatrici delle ferite che portarono per il nome di Cristo; forse le vedremo davvero, poiché ciò non renderà loro meno belli, ma anzi più gloriosi. In loro splenderà una certa bellezza: una bellezza che, pur essendo corporea, non appartiene al corpo stesso, ma alla virtù”. Tuttavia, quei martiri che sono stati mutilati e privati di arti non li mancheranno nella risurrezione dei morti, poiché per loro è detto (Lc 21:18): “Nessun capello della tua testa andrà perduto”.
 
-<span class="atom-split" data-atom="094" data-title="Whether all will be equally impassible?" data-chapter="Whether all will be equally impassible?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="Whether all will be equally impassible?" data-chapter="Whether all will be equally impassible?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all will be equally impassible. For a gloss on 1 Cor. 15:42, "It
 is sown in corruption," says that "all have equal immunity from [suffering](/concepts/suffering)." Now the gift of
@@ -6642,7 +6650,7 @@ Risposta all’Obiezione 2: Sebbene le negazioni e le privazioni, considerate in
 
 Risposta all’Obiezione 3: Alcune cose aumentano non solo allontanandosi dal loro contrario, ma anche avvicinandosi a un certo limite; è il caso della luce, ad esempio. Di conseguenza, anche l’impassibilità può essere maggiore in un soggetto rispetto a un altro, anche se in nessuno di essi rimane traccia di passibilità.
 
-<span class="atom-split" data-atom="095" data-title="Whether impassibility excludes actual sensation from glorified bodies?" data-chapter="Whether impassibility excludes actual sensation from glorified bodies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="095" data-title="Whether impassibility excludes actual sensation from glorified bodies?" data-chapter="Whether impassibility excludes actual sensation from glorified bodies?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that impassibility excludes actual sensation from glorified bodies.
 For according to the Philosopher (De [Anima](/concepts/soul) ii, 11), "sensation is a kind of passion." But the glorified
@@ -6771,7 +6779,7 @@ Risposta all’Obiezione 3: Proprio come ci sarà una nuova percezione delle spe
 
 Risposta all’Obiezione 4: Quando una delle due cose è il “tipo” dell’altra, l’attenzione dell’anima verso la prima non ostacola né riduce in alcun modo la sua attenzione verso l’altra. Così, un medico, mentre esamina l’urina, non è affatto meno in grado di ricordare le regole della sua arte riguardo ai colori dell’urina; anzi, ne è ancora più capace. E poiché Dio viene percepito dai santi come il “tipo” di tutte le cose che essi compiranno o conosceranno in futuro, la loro attenzione verso gli oggetti sensibili, o verso qualsiasi altra attività contemplativa o pratica, non ostacola affatto la loro contemplazione di Dio, né viceversa. Si potrebbe anche dire che il motivo per cui un’attività viene ostacolata quando un’altra è intensamente impegnata è che una sola forza non è sufficiente per un’operazione così intensa, a meno che non riceva l’aiuto necessario dal principio della vita. E poiché nei santi tutte le forze sono al massimo grado di perfezione, ciascuna di esse potrà agire con intensità senza ostacolare l’attività delle altre, proprio come avvenne in Cristo.
 
-<span class="atom-split" data-atom="096" data-title="Whether in the blessed, after the resurrection, all the senses will be in act? (parte 1)" data-chapter="Whether in the blessed, after the resurrection, all the senses will be in act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="Whether in the blessed, after the resurrection, all the senses will be in act? (parte 1)" data-chapter="Whether in the blessed, after the resurrection, all the senses will be in act?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all the senses are not in act there. For touch is the first of all
 the senses (De [Anima](/concepts/soul) ii, 2). But the glorified body will lack the actual sense of touch, since the
@@ -6893,7 +6901,7 @@ Risposta all’Obiezione 3: Alcuni hanno considerato l’odore semplicemente un�
 
 Risposta all’Obiezione 4: In cielo ci sarà lode vocale (sebbene alcuni la pensino diversamente), e presso i beati essa influenzerà l’organo dell’udito attraverso un cambiamento puramente spirituale. Non avverrà certo al fine di acquisire conoscenza, ma per il perfezionamento di questo senso e per il piacere stesso. Come sia possibile che la voce produca suoni in cielo, l’abbiamo già spiegato (Sentenze ii, D, 2; Q[2], A[2], ad 5).
 
-<span class="atom-split" data-atom="097" data-title="Whether in the blessed, after the resurrection, all the senses will be in act? (parte 2)" data-chapter="Whether in the blessed, after the resurrection, all the senses will be in act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="Whether in the blessed, after the resurrection, all the senses will be in act? (parte 2)" data-chapter="Whether in the blessed, after the resurrection, all the senses will be in act?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 5: The intensity of light does not hinder the spiritual reception of the image
 of color, so long as the pupil retains its diaphanous nature; thus it is evident that however much the
@@ -6921,7 +6929,7 @@ Risposta all’Obiezione 5: L’intensità della luce non ostacola la ricezione 
 
 Risposta all’Obiezione 6: Più perfetto è il senso, meno è necessario che venga modificato per percepire il proprio oggetto. Ora, più piccolo è l’angolo attraverso cui la vista viene influenzata dall’oggetto visibile, minore è la modifica richiesta all’organo di visione. Per questo motivo, una vista più potente riesce a percepire oggetti a distanze maggiori rispetto a una vista più debole; infatti, maggiore è la distanza, minore è l’angolo attraverso cui un oggetto viene visto. E poiché la vista di un corpo glorificato sarà la più perfetta, essa potrà funzionare con le modifiche più lievi dell’organo di visione; conseguentemente, sarà in grado di percepire oggetti da angoli molto più ridotti rispetto a quelli attuali, e quindi da distanze molto maggiori.
 
-<span class="atom-split" data-atom="098" data-title="OF THE SUBTLETY OF THE BODIES OF THE BLESSED (SIX ARTICLES)" data-chapter="OF THE SUBTLETY OF THE BODIES OF THE BLESSED (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="098" data-title="OF THE SUBTLETY OF THE BODIES OF THE BLESSED (SIX ARTICLES)" data-chapter="OF THE SUBTLETY OF THE BODIES OF THE BLESSED (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/miracle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the subtlety of the bodies of the blessed. Under this head there are six
 points of inquiry:
@@ -6943,7 +6951,7 @@ Dobbiamo ora considerare la natura sottile dei corpi dei beati. In questo ambito
 (5) Se un corpo glorificato necessariamente richieda uno spazio uguale a se stesso;  
 (6) Se un corpo glorificato sia palpabile.
 
-<span class="atom-split" data-atom="099" data-title="Whether subtlety is a property of the glorified body?" data-chapter="Whether subtlety is a property of the glorified body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="099" data-title="Whether subtlety is a property of the glorified body?" data-chapter="Whether subtlety is a property of the glorified body?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that subtlety is not a property of the glorified body. For the properties
 of glory surpass the properties of nature, even as the clarity of glory surpasses the clarity of the
@@ -7041,7 +7049,7 @@ Al contrario, è scritto (1 Corinzi 15:44): “È seminato un corpo corruttibile
 Rispondo che la “sottilità” prende il nome dal suo potere di penetrare nelle cose. Per questo motivo si dice nel “De Generati” che “una sostanza sottile riempie tutte le parti, e anche le parti delle parti”. Ora, il fatto che un corpo possieda tale capacità di penetrazione può derivare da due cause: in primo luogo, dalla sua piccola dimensione, soprattutto in termini di profondità e larghezza, ma non di lunghezza, poiché la penetrazione riguarda principalmente la profondità; quindi la lunghezza non costituisce un ostacolo. In secondo luogo, dalla scarsità della materia che lo compone; per questo motivo la “rarezza” è sinonimo di “sottilità”. Poiché nei corpi rari la forma prevale sulla materia, il termine “sottilità” viene applicato a quei corpi che sono più perfettamente soggetti alla loro forma e quindi più completamente perfezionati; ecco perché parliamo di sottilità nel sole, nella luna e in altri corpi simili, così come si dice che l’oro e altre sostanze siano “sottili” quando sono al massimo della loro completezza specifica. Poiché le cose incorporee mancano sia di quantità che di materia, il termine “sottilità” viene applicato anche a esse, non solo in base alla loro natura sostanziale, ma anche in relazione al loro potere. Infatti, una cosa sottile è detta penetrante perché riesce ad arrivare fino alle parti più interne di un’altra cosa; allo stesso modo, si dice che un’intelligenza sia sottile quando è in grado di comprendere i principi intrinseci e le proprietà nascoste delle cose. Allo stesso modo, si dice che una persona abbia una vista “sottile” se è in grado di percepire oggetti di dimensioni estremamente piccole; lo stesso vale per gli altri sensi. Di conseguenza, le persone hanno attribuito la sottilità ai corpi glorificati in modi diversi. Alcuni eretici, come racconta sant’Agostino nel “De Civitate Dei” (xiii, 22), attribuivano loro una sottilità che rendeva le sostanze spirituali particolarmente delicate; affermavano inoltre che, alla risurrezione, il corpo umano si trasformasse in spirito, e per questo motivo l’Apostolo descriveva i corpi dei risorti come “spirituali” (1 Corinzi 15:44). Ma questa tesi non può essere sostenuta. Primo perché un corpo non può trasformarsi in uno spirito, poiché tra loro non esiste alcuna comunanza di materia; Boezio ne dà una dimostrazione nel “De Duabus Naturae”. Secondo perché, se ciò fosse possibile e il nostro corpo si trasformasse in uno spirito, non risorgeremmo più come esseri umani, poiché un essere umano è naturalmente composto da anima e corpo. Terzo perché, se questo fosse il vero significato delle parole dell’Apostolo, allora parlerebbe anche dei corpi “naturali” come di corpi che si trasformano in anime, il che è chiaramente falso. Alcuni eretici sostenevano inoltre che, alla risurrezione, il corpo umano rimanesse intatto, ma acquisisse una natura sottile attraverso un processo di rarefazione; quindi i corpi umani risorti sarebbero diventati simili all’aria o al vento, come racconta Gregorio nel “Moralium” (xiv, 56). Ma nemmeno questa tesi può essere accettata: il nostro Signore, infatti, dopo la risurrezione aveva un corpo tangibile, come si evince dall’ultimo capitolo del Vangelo di Luca.
 Dobbiamo credere che il corpo del Signore fosse di una estrema sottigliezza. Inoltre, il corpo umano risorgerà nuovamente con carne e ossa, proprio come è avvenuto per il corpo del nostro Signore, secondo quanto affermato in Luca 24:39 (“Lo spirito non ha carne né ossa, come voi vedete che io ne ho”), e in Giobbe 19:26 (“Nella mia carne vedrò Dio, il mio Salvatore”); la natura stessa di carne e ossa è infatti incompatibile con tale estrema sottigliezza. Pertanto, ai corpi glorificati deve essere attribuita una diversa forma di sottigliezza, dovuta alla loro completa perfezione. Alcuni spiegano questa perfezione in relazione alla quinta essenza, quella celeste, che allora diventerebbe predominante in tali corpi; tuttavia ciò è impossibile: innanzitutto, la quinta essenza non può affatto entrare nella composizione di un corpo, come abbiamo già dimostrato (Sentenze D, 12, q. 1); in secondo luogo, anche ammesso che potesse entrarvi, sarebbe impossibile spiegare perché essa avrebbe una predominanza maggiore rispetto alla natura elementare del corpo umano di oggi, a meno che non aumentasse la quantità di questa essenza celeste nei corpi umani (il che significherebbe che tali corpi non sarebbero più dello stesso livello), oppure che la natura elementare ricevesse le proprietà della natura celeste grazie al dominio di quest’ultima sul corpo; in tal caso, una forza naturale diventerebbe la causa di proprietà legate alla gloria, il che sembra assurdo. Altri sostengono invece che tale perfezione derivi dal dominio dell’anima glorificata (che è la forma del corpo) sul corpo stesso; grazie a questo dominio, il corpo glorificato viene considerato “spirituale”, poiché è interamente soggetto allo spirito. La prima forma di sottomissione del corpo all’anima consiste nel fatto che il corpo partecipa dell’essere specifico dell’anima, in quanto materia su cui l’anima esercita la sua funzione formativa; inoltre, il corpo è soggetto all’anima anche per quanto riguarda le altre operazioni di quest’ultima, poiché l’anima è un principio di movimento. Pertanto, la prima ragione della “spiritualità” del corpo umano è proprio la sua sottigliezza; successivamente vengono considerate agilità e altre proprietà tipiche dei corpi glorificati. Per questo motivo, l’Apostolo, come spiegano i maestri, indica con il termine “spiritualità” proprio la sottigliezza del corpo umano; Gregorio d’Origo afferma infatti che “il corpo glorificato è considerato sottile a causa di una forza spirituale”. Questo basta per rispondere alle obiezioni riguardanti la sottigliezza dei corpi glorificati.
 
-<span class="atom-split" data-atom="100" data-title="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified? (parte 1)" data-chapter="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="100" data-title="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified? (parte 1)" data-chapter="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that by reason of this subtlety a body is able to be in the same place
 with another body not glorified. For according to  Phil. 3:21, "He will reform the body of our
@@ -7095,7 +7103,7 @@ Obiezione 5: Inoltre, così come due punti sono in corrispondenza reciproca, lo 
 
 Al contrario, Boezio afferma (De Trinitate i): “La differenza negli accidenti determina la distinzione in termini di numero. Infatti, tre uomini non differiscono per genere né per specie, ma per gli accidenti che li caratterizzano. Se eliminassimo assolutamente tutti questi accidenti da loro, ciascuno di essi continuerebbe comunque a occupare un posto diverso; è del tutto concepibile, inoltre, che possano tutti occupare lo stesso posto.” Pertanto, se supponiamo che due corpi occupino lo stesso luogo, numericamente esisterà soltanto un corpo.
 
-<span class="atom-split" data-atom="101" data-title="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified? (parte 2)" data-chapter="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified? (parte 2)" data-chapter="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 I answer that, It cannot be maintained that a glorified body, by reason of its subtlety, is able
 to be in the same place with another body, unless the obstacle to its being now in the same place
@@ -7197,7 +7205,7 @@ Risposta all’Obiezione 4: Dal fatto che Dio verrà in aiuto dei beati secondo 
 
 Risposta all’Obiezione 5: Come affermato nella Physica iv, 5, “un punto non si trova in un luogo”: pertanto, se si dice che si trovi in un luogo, ciò avviene soltanto in modo accidentale, poiché il corpo di cui fa parte si trova effettivamente in un luogo. E proprio come l’intero luogo corrisponde all’intero corpo, così anche il “termine” del luogo corrisponde al “termine” del corpo. Tuttavia, può accadere che due luoghi abbiano lo stesso “termine”, proprio come due linee possano terminare in un punto. Di conseguenza, sebbene due corpi debbano necessariamente trovarsi in luoghi diversi, lo stesso “termine” di due luoghi corrisponde ai due “termini” dei due corpi. È in questo senso che si dice che i confini di corpi contigui coincidono.
 
-<span class="atom-split" data-atom="102" data-title="Whether it is possible, by a miracle, for two bodies to be in the same place? (parte 1)" data-chapter="Whether it is possible, by a miracle, for two bodies to be in the same place?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="Whether it is possible, by a miracle, for two bodies to be in the same place? (parte 1)" data-chapter="Whether it is possible, by a miracle, for two bodies to be in the same place?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/miracle,concepts/sacrament,forms/quaestio"></span>
 
 Objection 1: It would seem that not even by a [miracle](/concepts/miracle) is it possible for two bodies to be in the
 same place. For it is not possible that, by a miracle, two bodies be at once two and one, since this
@@ -7297,7 +7305,7 @@ Rispondo che, come mostrato sopra (A[2]), il motivo per cui due corpi debbano ne
 
 Risposta all’Obiezione 1: Questo argomento è sofistico perché si basa su un’ipotesi falsa o, in altre parole, presuppone già ciò che si vuole dimostrare. Infatti, l’argomentazione parte dall’idea che esista una dimensione specifica di un luogo, con cui le dimensioni di un corpo che lo occupa debbano identificarsi; da questo si deduce che le dimensioni di due corpi che occupano lo stesso luogo diventerebbero una sola dimensione. Tuttavia, questa ipotesi è errata: se fosse vera ogni volta che un corpo occupa un nuovo luogo, ne conseguirebbe che le dimensioni del luogo o dell’oggetto posto al suo interno subissero modifiche, il che è impossibile, poiché due cose non possono diventare una sola senza che una di esse cambi. In realtà, a un luogo appartengono soltanto le dimensioni dell’oggetto che lo occupa; quindi l’argomentazione non dimostra nulla, ma si limita a ripetere ciò che già si sa: cioè che le dimensioni di un oggetto sono uguali alle dimensioni del luogo in cui è posto. Si aggiunge soltanto che queste dimensioni dell’oggetto sono contenute all’interno dei confini del luogo, e che la distanza tra i confini del luogo è proporzionale alla distanza tra i confini dell’oggetto stesso. In altre parole, affermare che le dimensioni di due corpi siano le stesse di un luogo equivale semplicemente ad affermare che questi due corpi si trovino nello stesso luogo, il che rappresenta proprio la questione principale in discussione.
 
-<span class="atom-split" data-atom="103" data-title="Whether it is possible, by a miracle, for two bodies to be in the same place? (parte 2)" data-chapter="Whether it is possible, by a miracle, for two bodies to be in the same place?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="Whether it is possible, by a miracle, for two bodies to be in the same place? (parte 2)" data-chapter="Whether it is possible, by a miracle, for two bodies to be in the same place?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 2: Granted that by a [miracle](/concepts/miracle) two bodies be together in the same place,
 nothing follows either against common principles, or against the definition of a line, or against any
@@ -7347,7 +7355,7 @@ Risposta all’Obiezione 3: Dio potrebbe creare un corpo che non si trovi in alc
 
 Risposta all’Obiezione 4: È impossibile che un solo corpo si trovi miracolosamente in due luoghi allo stesso tempo (poiché il corpo di Cristo non si trova fisicamente sull’altare), anche se è possibile, per mezzo di un miracolo, che due corpi si trovino nello stesso luogo. Infatti, essere contemporaneamente in più luoghi è incompatibile con l’idea stessa di individualità, poiché un essere indiviso non può essere suddiviso in parti; al contrario, trovarsi nello stesso luogo con un altro corpo non contraddice la natura dell’individualità. La natura dell’unità si realizza nell’indivisione, mentre la distinzione dagli altri è una conseguenza della stessa unità. Pertanto, l’ipotesi che un solo corpo possa essere contemporaneamente in più luoghi comporta una contraddizione; al contrario, il fatto che due corpi si trovino nello stesso luogo non presenta alcuna contraddizione, come già spiegato. Di conseguenza, questa analogia non è valida.
 
-<span class="atom-split" data-atom="104" data-title="Whether one glorified body can be in the same place together with another glorified body?" data-chapter="Whether one glorified body can be in the same place together with another glorified body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="104" data-title="Whether one glorified body can be in the same place together with another glorified body?" data-chapter="Whether one glorified body can be in the same place together with another glorified body?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a glorified body can be in the same place together with another
 glorified body. Because where there is greater subtlety there is less resistance. If then a glorified
@@ -7405,7 +7413,7 @@ Risposta all’Obiezione 1: Questo argomento presuppone che un corpo glorificato
 
 Risposta all’Obiezione 3: Si può dire, in senso equivoco, che il corpo celeste e gli altri corpi siano glorificati, nel senso che parteciperanno in qualche modo alla gloria, ma non nel senso che sia loro dovuto ricevere i doni di corpi umani glorificati.
 
-<span class="atom-split" data-atom="105" data-title="Whether by virtue of its subtlety a glorified body will no longer need to be in an equal place?" data-chapter="Whether by virtue of its subtlety a glorified body will no longer need to be in an equal place?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="105" data-title="Whether by virtue of its subtlety a glorified body will no longer need to be in an equal place?" data-chapter="Whether by virtue of its subtlety a glorified body will no longer need to be in an equal place?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that by virtue of its subtlety, a glorified body will no longer need
 to be in an equal place. For the glorified bodies will be made like to the body of Christ according
@@ -7494,7 +7502,7 @@ Risposta all’Obiezione 2: L’argomentazione del filosofo è che, per la stess
 
 Risposta all’Obiezione 3: Un corpo viene visto perché agisce sulla vista; ma il fatto che agisca o meno sulla vista non provoca alcun cambiamento nel corpo stesso. Pertanto, non è inappropriato che un corpo possa essere visto quando lo si desidera e non visto quando invece lo si preferirebbe [*Cfr. TP, Q[55], A[4. D’altra parte, trovarsi in un luogo non rappresenta un’azione che derivi dalla quantità di un corpo, così come essere visti non dipende dal colore di tale corpo. Di conseguenza, questa analogia non è valida.
 
-<span class="atom-split" data-atom="106" data-title="Whether the glorified body, by reason of its subtlety, will be impalpable?" data-chapter="Whether the glorified body, by reason of its subtlety, will be impalpable?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="106" data-title="Whether the glorified body, by reason of its subtlety, will be impalpable?" data-chapter="Whether the glorified body, by reason of its subtlety, will be impalpable?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the glorified body, by reason of its subtlety, is impalpable. For
 Gregory says (Hom. xxv in Evang.): "What is palpable must needs be corruptible." But the glorified
@@ -7569,7 +7577,7 @@ Risposta all’Obiezione 2: Sebbene, in un certo senso, sia possibile che un cor
 
 Risposta all’Obiezione 3: Nei corpi glorificati, le qualità tangibili non vengono ridotte al valore reale, cioè a quello misurato in base alla distanza uguale dai due estremi, ma al valore proporzionale, secondo quanto sia più appropriato alla natura umana di ogni singola parte del corpo. Pertanto, il contatto con tali corpi sarà particolarmente piacevole, poiché una forza vitale si compiace sempre di ciò che è appropriato e si addolora di fronte all’eccesso.
 
-<span class="atom-split" data-atom="107" data-title="OF THE AGILITY OF THE BODIES OF THE BLESSED (THREE ARTICLES)" data-chapter="OF THE AGILITY OF THE BODIES OF THE BLESSED (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="107" data-title="OF THE AGILITY OF THE BODIES OF THE BLESSED (THREE ARTICLES)" data-chapter="OF THE AGILITY OF THE BODIES OF THE BLESSED (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/beatitude,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the agility of the bodies of the blessed in the resurrection. Under this
 head there are three points of inquiry:
@@ -7584,7 +7592,7 @@ Dobbiamo ora considerare l’agilità dei corpi dei beati nella risurrezione. In
 (2) Se si muoveranno;  
 (3) Se si muoveranno in modo istantaneo.
 
-<span class="atom-split" data-atom="108" data-title="Whether the glorified bodies will be agile?" data-chapter="Whether the glorified bodies will be agile?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="108" data-title="Whether the glorified bodies will be agile?" data-chapter="Whether the glorified bodies will be agile?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the glorified bodies will not be agile. For that which is agile
 by itself needs not to be carried in order to move. But the glorified bodies will, after the resurrection,
@@ -7671,7 +7679,7 @@ Risposta all’Obiezione 3: Grazie al dono dell’agilità, il corpo glorificato
 
 Risposta all’Obiezione 4: Proprio come la natura fornisce agli animali più veloci strumenti di caratteristiche diverse per forma e quantità, così Dio conferirà ai corpi dei santi una diversa disposizione rispetto a quella che hanno attualmente, non certo in termini di forma e quantità, ma riguardo a quella qualità chiamata “agilità”.
 
-<span class="atom-split" data-atom="109" data-title="Whether the saints will never use their agility for the purpose of movement?" data-chapter="Whether the saints will never use their agility for the purpose of movement?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="109" data-title="Whether the saints will never use their agility for the purpose of movement?" data-chapter="Whether the saints will never use their agility for the purpose of movement?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the saints will never use their agility for the purpose of
 movement. For, according to the Philosopher (Phys. iii, 2), "movement is the act of the imperfect."
@@ -7783,7 +7791,7 @@ Risposta all’Obiezione 4: Il movimento locale non toglie nulla alla stabilità
 
 Risposta all’Obiezione 5: Il luogo appropriato assegnato a ciascun corpo glorificato, in base al grado della sua dignità, appartiene alla ricompensa accidentale. Non segue però che tale ricompensa diminuisca ogni volta che il corpo si trovi al di fuori di quel luogo; infatti, quel luogo è legato alla ricompensa non perché contenga effettivamente il corpo che vi si trova (poiché nulla vi fluisce dal luogo stesso verso il corpo glorificato, ma piuttosto il corpo riceve da esso splendore), ma perché tale ricompensa deriva dai meriti compiuti. Pertanto, anche se si trovano al di fuori di quel luogo, continueranno comunque a gioirne.
 
-<span class="atom-split" data-atom="110" data-title="Whether the movement of the saints will be instantaneous? (parte 1)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="110" data-title="Whether the movement of the saints will be instantaneous? (parte 1)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that movement of the saints will be instantaneous. For [Augustine](/figures/augustine)
 says (De Civ. Dei xxii, 30) that "wherever the spirit listeth there will the body be." Now the
@@ -7895,7 +7903,7 @@ Al contrario, nello spazio dei movimenti locali, sia il movimento che il tempo s
 Rispondo che su questo punto le opinioni sono molto divise. Alcuni sostengono che un corpo glorificato possa passare da un luogo all’altro senza attraversare lo spazio intermedio, proprio come la volontà può passare da un luogo all’altro senza attraversarlo; di conseguenza, si potrebbe ritenere che il movimento di un corpo glorificato sia istantaneo. Tuttavia, questa ipotesi non regge: poiché un corpo glorificato non raggiungerà mai la dignità della natura spirituale, proprio come non smetterà mai di essere un corpo. Inoltre, quando si dice che la volontà si muova da un luogo all’altro, in realtà essa non viene essenzialmente trasferita da un luogo all’altro, poiché in nessuno dei due luoghi è contenuta in modo essenziale; piuttosto, viene direzionata verso uno di essi sulla base di un’intenzione specifica. In questo senso si dice che la volontà si muova da un luogo all’altro. Altri, come Alessandro di Hales nel “Summa Theologica”, affermano che sia una proprietà intrinseca della natura di un corpo glorificato il fatto che possa attraversare lo spazio intermedio e quindi essere mosso nel tempo; tuttavia, grazie al potere della gloria che eleva tale corpo a un livello infinitamente superiore rispetto alle leggi naturali, è possibile che esso non attraversi lo spazio intermedio e quindi si muova istantaneamente. Tuttavia, questa ipotesi è impossibile, poiché comporterebbe una contraddizione: supponiamo infatti che un corpo glorificato si muova da A a B; in questo caso, mentre si trova in A non è in movimento, e allo stesso modo, quando si trova in B, il movimento è già terminato. Pertanto, se si trova in movimento, non può essere contemporaneamente interamente in A né in B; quindi, durante il movimento, deve trovarsi in qualche luogo intermediario. Ma è impossibile che non si trovi in alcun luogo, poiché ciò significherebbe che esistesse una quantità dimensionale senza un luogo specifico, il che è assurdo. Inoltre, è impossibile che si trovi contemporaneamente in A e in B senza occupare lo spazio intermedio; poiché B è un luogo distante da A, ciò significherebbe che la parte di Z che si trova in B non sarebbe continuativa con quella che si trova in A. Pertanto, il corpo glorificato deve necessariamente trovarsi interamente in qualche luogo intermediario, come C, prima di poter passare da A a B; altrimenti, ciò significherebbe che si muove senza mai cambiare posizione, il che è contraddittorio, poiché il movimento stesso implica un cambiamento di luogo. Lo stesso discorso vale per qualsiasi cambiamento che abbia due termini opposti, entrambi positivi; non vale invece per quei cambiamenti che hanno un solo termine positivo e l’altro una pura privazione, poiché tra affermazione e negazione non esiste uno spazio fisico definito.
 Ciò che è nella negazione può trovarsi più vicino o più lontano dall’affermazione, e viceversa; ciò avviene a causa di qualcosa che ne determina uno stato o l’altro. Quindi, mentre ciò che viene modificato si trova interamente in uno stato negativo, esso passa all’affermazione, e “viceversa”. Da ciò deriva che, in tali casi, “il cambiamento precede la cosa che cambia”, come dimostrato nella Fisica VI, 5. Non vi è alcuna analogia con il movimento di un angelo, poiché l’espressione “trovarsi in un luogo” può essere applicata in modo equivoco sia a un corpo che a un angelo. È quindi evidente che sia assolutamente impossibile per un corpo passare da un luogo all’altro senza attraversare tutti gli intervalli intermedi. Alcuni ammettono questa verità, ma sostengono comunque che il corpo glorificato si muova in modo istantaneo; ciò significherebbe che tale corpo possa trovarsi contemporaneamente in due o più luoghi, il che è impossibile. A questo argomento rispondono dicendo che, sebbene dal punto di vista della realtà sia lo stesso istante, dal punto di vista logico non lo è, proprio come un punto in cui terminano diverse linee non rappresenta necessariamente il luogo in cui si trovano tali linee. Tuttavia, questo argomento non è sufficiente: un istante, infatti, misura ciò che è istantaneo in base alla sua realtà, e non secondo il nostro modo di considerarlo. Pertanto, un istante, se considerato in modo diverso, non può essere utilizzato per misurare eventi che non avvengono contemporaneamente nel tempo; allo stesso modo, un punto, se considerato in modo diverso, non permette a un punto spaziale di contenere elementi che sono localmente distanti tra loro. Per questi motivi, altri ritengono con maggiore probabilità che il corpo glorificato si muova nel tempo, ma che questo tempo sia così breve da essere impercettibile; inoltre, sostengono che un corpo glorificato possa attraversare lo stesso spazio in meno tempo di un altro, poiché non esiste limite alla divisibilità del tempo, indipendentemente dalla brevità dello spazio considerato.
 
-<span class="atom-split" data-atom="111" data-title="Whether the movement of the saints will be instantaneous? (parte 2)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="111" data-title="Whether the movement of the saints will be instantaneous? (parte 2)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 1: That which is little lacking is as it were not lacking at all (Phys. ii, 5);
 wherefore we say: "I do so and so at once," when it is to be done after a short time. It is in this
@@ -7979,7 +7987,7 @@ movement will not be instantaneous, because the movable body itself will resist 
 from the very fact that it has a determinate place, as we have said in reference to the heavenly
 bodies.
 
-<span class="atom-split" data-atom="112" data-title="Whether the movement of the saints will be instantaneous? (parte 3)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="112" data-title="Whether the movement of the saints will be instantaneous? (parte 3)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en" data-tags="concepts/time,figures/augustine"></span>
 
 Reply to Objection 3: Although the power of a glorified soul surpasses immeasurably the
 power of a non-glorified soul, it does not surpass it infinitely, because both powers are finite: hence
@@ -8014,7 +8022,7 @@ Risposta all’Obiezione 4: Secondo le parole di [Agostino](/figures/augustine),
 
 Risposta all’Obiezione 5: Anche se, dopo la risurrezione, il tempo, inteso come misura del movimento celeste, non esisterà più, ci sarà comunque un “tempo” che deriverà dal rapporto tra il “prima” e il “dopo” di qualsiasi tipo di movimento.
 
-<span class="atom-split" data-atom="113" data-title="OF THE CLARITY OF THE BEATIFIED BODIES (THREE ARTICLES)" data-chapter="OF THE CLARITY OF THE BEATIFIED BODIES (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="113" data-title="OF THE CLARITY OF THE BEATIFIED BODIES (THREE ARTICLES)" data-chapter="OF THE CLARITY OF THE BEATIFIED BODIES (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/beatitude"></span>
 
 We must now consider the clarity of the beatified bodies at the resurrection. Under this head
 there are three points of inquiry:
@@ -8029,7 +8037,7 @@ Dobbiamo ora considerare la chiarezza dei corpi beati alla risurrezione. In ques
 (2) Se questa chiarezza sarà visibile agli occhi non glorificati;  
 (3) Se un corpo glorificato debba necessariamente essere visto da un corpo non glorificato.
 
-<span class="atom-split" data-atom="114" data-title="Whether clarity is becoming to the glorified body?" data-chapter="Whether clarity is becoming to the glorified body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="114" data-title="Whether clarity is becoming to the glorified body?" data-chapter="Whether clarity is becoming to the glorified body?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/beauty,concepts/revelation,figures/augustine"></span>
 
 Objection 1: It would seem that clarity is unbecoming to the glorified body. Because according
 to Avicenna (Natural. vi, 2), "every luminous body consists of transparent parts." But the parts of
@@ -8104,7 +8112,7 @@ different parts should have clarity in different ways, according as they are dif
 thereto by their nature. Nor is there any comparison with the other gifts of the body, for the various
 parts of the body are not differently disposed in their regard.
 
-<span class="atom-split" data-atom="115" data-title="Whether the clarity of the glorified body is visible to the non-glorified eye?" data-chapter="Whether the clarity of the glorified body is visible to the non-glorified eye?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="115" data-title="Whether the clarity of the glorified body is visible to the non-glorified eye?" data-chapter="Whether the clarity of the glorified body is visible to the non-glorified eye?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the clarity of the glorified body is invisible to the non-glorified
 eye. For the visible object should be proportionate to the sight. But a non-glorified eye is not
@@ -8179,7 +8187,7 @@ Risposta all’Obiezione 2: Proprio come un corpo glorificato non è soggetto a 
 
 Risposta all’Obiezione 3: La chiarezza del corpo glorificato deriva dal merito della volontà; pertanto, sarà soggetta alla volontà stessa, in modo che possa essere mostrata o nascosta secondo i suoi comandi. Quindi, spetterà al corpo glorificato decidere se far manifestare o nascondere la propria chiarezza: ed questa era l’opinione di Praepositivus.
 
-<span class="atom-split" data-atom="116" data-title="Whether a glorified body will be necessarily seen by a non-glorified body?" data-chapter="Whether a glorified body will be necessarily seen by a non-glorified body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="116" data-title="Whether a glorified body will be necessarily seen by a non-glorified body?" data-chapter="Whether a glorified body will be necessarily seen by a non-glorified body?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,schools/scholasticism,forms/quaestio"></span>
 
 Objection 1: It would seem that a glorified body will be necessarily seen by a non-glorified
 body. For the glorified bodies will be lightsome. Now a lightsome body reveals itself and other
@@ -8242,7 +8250,7 @@ Risposta all’Obiezione 2: Il colore di un corpo non impedisce che esso sia tra
 
 Risposta all’Obiezione 3: La quantità è intrinseca al corpo glorificato stesso; inoltre, non sarebbe possibile modificare tale quantità su comando dell’anima senza che il corpo glorificato subisse alterazioni incompatibili con la sua impassibilità. Pertanto, non esiste alcuna analogia tra quantità e visibilità: nemmeno questa qualità che rende il corpo visibile può essere eliminata su comando dell’anima; piuttosto, l’effetto di tale qualità viene semplicemente sospeso, permettendo così al corpo di rimanere nascosto quando lo si desidera.
 
-<span class="atom-split" data-atom="117" data-title="OF THE CONDITIONS UNDER WHICH THE BODIES OF THE DAMNED WILL RISE AGAIN (THREE ARTICLES)" data-chapter="OF THE CONDITIONS UNDER WHICH THE BODIES OF THE DAMNED WILL RISE AGAIN (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="117" data-title="OF THE CONDITIONS UNDER WHICH THE BODIES OF THE DAMNED WILL RISE AGAIN (THREE ARTICLES)" data-chapter="OF THE CONDITIONS UNDER WHICH THE BODIES OF THE DAMNED WILL RISE AGAIN (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider the conditions in which the bodies of the damned will rise again. Under
 this head there are three points of inquiry:
@@ -8257,7 +8265,7 @@ Dobbiamo ora considerare le condizioni nelle quali i corpi dei dannati risorgera
 (2) Se tali corpi saranno soggetti alla decomposizione;  
 (3) Se saranno insensibili alle sensazioni fisiche.
 
-<span class="atom-split" data-atom="118" data-title="Whether the bodies of the damned will rise again with their deformities?" data-chapter="Whether the bodies of the damned will rise again with their deformities?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="118" data-title="Whether the bodies of the damned will rise again with their deformities?" data-chapter="Whether the bodies of the damned will rise again with their deformities?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the bodies of the damned will rise again with their deformities.
 For that which was appointed as a punishment for sin should not cease except the sin be forgiven.
@@ -8352,7 +8360,7 @@ Risposta all’Obiezione 2: Non esiste alcuna parità tra il bene e il male, poi
 
 Risposta all’Obiezione 3: La lentezza dei movimenti è uno di quei difetti che derivano naturalmente dai principi strutturali del corpo umano; ma la deformità non lo è, e pertanto il confronto non è valido.
 
-<span class="atom-split" data-atom="119" data-title="Whether the bodies of the damned will be incorruptible?" data-chapter="Whether the bodies of the damned will be incorruptible?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="119" data-title="Whether the bodies of the damned will be incorruptible?" data-chapter="Whether the bodies of the damned will be incorruptible?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the bodies of the damned will be corruptible. For everything
 composed of contraries must necessarily be corruptible. Now the bodies of the damned will be
@@ -8443,7 +8451,7 @@ Risposta all’Obiezione 2: Questa incorruttibilità deriverà dalla natura stes
 
 Risposta all’Obiezione 3: Sebbene la morte sia semplicemente la più grave delle punizioni, nulla impedisce che essa, in un certo senso, porti alla cessazione di altre punizioni; pertanto, l’eliminazione della morte potrebbe contribuire all’aumento del numero stesso delle punizioni. Come afferma il Filosofo nell’Etica (IX, 9): “La vita è piacevole per tutti, poiché tutti desiderano vivere. Ma questo non si può applicare alla vita malvagia o corrotta, né a quella trascorsa nel dolore”. Così come la vita è in sé piacevole, ma non quella vissuta tra sofferenze, allo stesso modo la morte, che rappresenta la privazione della vita, è dolorosa e considerata la più grave delle punizioni, poiché priva l’uomo del bene primario, ovvero dell’esistenza stessa. Tuttavia, nella misura in cui la morte elimina una vita malvagia o piena di dolore, essa rappresenta un rimedio a tali sofferenze, ponendole fine. Pertanto, l’eliminazione della morte potrebbe portare all’aumento delle punizioni, rendendole eternhe. Se invece si sostiene che la morte sia punitiva in quanto causa dolore fisico durante il momento della scomparsa, allora senza dubbio i dannati continueranno a provare un dolore ancora più intenso; per questo motivo vengono definiti “in morte eterna”, come recita il Salmo (48:15): “La morte li divorerà”.
 
-<span class="atom-split" data-atom="120" data-title="Whether the bodies of the damned will be impassible?" data-chapter="Whether the bodies of the damned will be impassible?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="120" data-title="Whether the bodies of the damned will be impassible?" data-chapter="Whether the bodies of the damned will be impassible?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the bodies of the damned will be impassible. For, according
 to the Philosopher (Topic. vi), "increase of passion results in loss of substance." Now "if a finite

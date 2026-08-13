@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Political parliamentary address urging reassurance of the capitalist and a richer Spain so that workers be less poor; occasional, non-philosophical text.
+> A very short text (202 words) with no sample in the digest: the title indicates an address to capitalists and workers, but the content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

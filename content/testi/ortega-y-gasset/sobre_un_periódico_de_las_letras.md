@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A greeting to the Gaceta Literaria and a theory of three genres: the book is intellectual flow crystallized, and Ortega recalls that Plato felt horror at the book, sensing in it a cadaverous rigidity. The review's mission is 'placental' — publishing the premature and the confidential; the literary newspaper's is literature as living event.
+
+## Connections
+
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

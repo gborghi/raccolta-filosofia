@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Thanking two Argentine journals for understanding España invertebrada, Ortega complains that Spain practises a bold monologuism. Thought is not monologue but dialogue: Socrates accused the sophists of macrology, and by fragmenting speech into micrology shared between two, dialogue is born and with it dialectic, which is collaboration; honest thought is always dialectic.
+
+## Connections
+
+**Assi:** [[assi/method|Metodo]]  
+**Posizioni:** [[positions/dialectic|dialettica]]  
+**Figure:** [[figures/socrates|Socrate]], [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -60,7 +69,7 @@ La demoralizzazione delle gioventù intellettuali in Europa è superlativa. Prob
 
 In questa disciplina della gioventù c'è un punto che è il più delicato di tutti e, a la volta, il decisivo. La gioventù ha bisogno di lasciarsi influenzare. Una giovinezza ermetica che non si lascia penetrare da forme esemplari di vita rinuncia a formarsi il tesoro interiore di idee ed emozioni che dovranno operare poi come magnifici congegni organici. Biologicamente, sembra essere stata prevista la gioventù come una tappa di energica assorbimento. Il giovane deve lasciarsi trapassare fino all'asse stesso della sua persona da ogni esemplarità. Il resto della vita sarà, per disgrazia, un'incessante scherma con cui impediamo di essere divinamente vulnerati dall'acuta perfezione. Voglia o no, in virtù di una legge inesorabile, l'organismo si va obliterando, formando un guscio difensivo che ampara ciò che ci sia dentro, ma impedisce ogni nuovo ingresso dall'esterno. Conviene, dunque, arrivare alla maturità con i sotterranei dell'anima ben forniti.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/method,positions/dialectic,figures/socrates,figures/plato,forms/essay"></span>
 
 Pero esta necesidad biológica de dejarse influir que siente toda sana juventud le obliga a cultivar en sí un fino instinto de elección. Sobre todo cuando se trata de influencias intelectuales. El joven exento de una vigorosa disciplina tenderá a preferir como ejemplares aquellas actitudes que es más fácil imitar. De aquí que en las generaciones decadentes los jóvenes rindan [culto](/concepts/religion) fervoroso al aspaviento. Por el contrario, en las generaciones ascendentes es la mocedad un juez terrible, insobornable, que exige a quien pretenda influir sobre él la más impecable honestidad. ¿Honestidad? No sé bien por qué he empleado este vocablo habitado por resonancias éticas y, consiguientemente, patéticas. Fuera más simple y cabal decir «talento». El mozo debe exigir a quien pretenda influir en él simplemente eso. Si se trata de influencia ideológica, el talento consiste en pensar pensamientos que ajusten sutilmente con la realidad. Nada más, nada menos. ¿A qué gestos? Quien carece de ese talento buscará un sustitutivo en grandes ademanes de heroísmo político. En vez de averiguarnos una nueva verdad gritará que la libertad está amenazada, cuando lo que esperamos es que descubra alguna ley psicológica o estética, algún secreto nexo histórico, alguna intacta visión metafísica. Otras veces, en lugar de la gran gesticulación tribunicia, el escritor exhausto prefiere segregar «elegancia». Hará el desdeñoso, pondrá los ojos en coulisse, cuando de lo que se trata es simplemente de disparar la flecha de la idea y alcanzar bajo el ala una verdad que trasvuela. ¡Cuánta diferencia entre todo esto y esas lecturas de que salimos más densos, con un extraño aumento de peso espiritual, porque hemos recibido visiones ponderables!
 
@@ -144,7 +153,7 @@ Non è possibile fare nulla di più utile in questa questione se non si ottiene 
 
 Chi è, parlando con rigore, il vero o il falso? Naturalmente non sono le cose propriamente vere o false. Il «vero amico» è un uso incorretto, quanto meno un uso secondario e derivato del vocabolo verità. In luogo di «vero amico» si dovrebbe dire «un uomo di cui affermare che è amico risulta vero». Non è, dunque, l'amico primitivamente vero ma nella proporzione in cui gli si attribuisce quel carattere. Secondo ciò, vero o falso può essere soltanto il pensiero.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/method,positions/dialectic,figures/socrates,figures/plato,forms/essay"></span>
 
 Pero aquí está el punto delicado. La palabra «pensamiento» como casi todas sus congéneres —idea, imaginación, concepto, juicio, etcétera— arrastran un pernicioso equívoco, acaso el estorbo más grave que en el progreso actual encuentra la filosofía. Yo pienso ahora en Buenos Aires, y el lector, en el instante de leer esta línea también. Tenemos, pues, dos pensamientos sobre Buenos Aires: el mío y el del lector. Ambos son sucesos reales, que acontecen en el espacio y en el tiempo: el mío ahora en Madrid, el del lector dentro de un mes, junto al Plata. El mío es un trozo real de mi persona, forma parte efectiva de mí, me pertenece. Lo propio acontece al lector con el suyo. Son, pues, dos realidades distintas. Sin embargo, esos dos pensamientos distintos, son, en otro sentido del vocablo, el mismo pensamiento. Ambos, en efecto, piensan lo mismo: Buenos Aires. (Dejemos a un lado las variantes; para la cuestión es suficiente con un núcleo mínimo de coincidencia, y que éste existe es obvio, de otro modo no nos entenderíamos los unos a los otros). Esto común que pensamos tiene atributos diferentes de los que acabamos de reconocer a nuestros pensamientos. El Buenos Aires que pensamos no es un hecho real; no forma parte de nuestro ser: es indiferente al tiempo y al lugar. ¿Se advierte la urgencia de corregir el empleo equívoco del término pensamiento? Una sencilla distinción va a aclarar prontamente la confusión. En todo fenómeno intelectual hay que distinguir el «acto» de pensar, percibir, etcétera, de «lo» pensado, «lo» percibido, etcétera. Lo pensado, por otra parte, no es la «cosa» en que pensamos, sino «lo» que pensamos de la cosa. Aunque Buenos Aires desapareciese, nuestra «idea» de Buenos Aires quedaría indemne, y no menos indemne quedará cuando nuestros «actos» de pensar en ella se hayan cumplido y nuestros espíritus se ocupen de otro asunto.
 
@@ -252,7 +261,7 @@ IL CARATTERE ORGANICO DELLE CULTURE
 
 I
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/method,positions/dialectic,figures/socrates,figures/plato,forms/essay"></span>
 
 León Frobenius ha dado unas conferencias en Madrid. Soy, en gran parte, responsable de ello y por tal motivo quisiera explicar mi interés en que la obra de Frobenius sea conocida de la espiritualidad hispanoamericana. Desearía contribuir a que se formase en este mundo nuestro de inflexión española una pequeña minoría de hombres con cabeza clara y un fuerte temperamento de exploración intelectual. Gente, a la vez, audaz y serena, gente de proa. Hemos ido demasiado tiempo a la zaga de todos los arcaísmos para que no sea llegada la sazón de intentar en nosotros todas las innovaciones. Vivíamos en la reserva; adaptemos ahora una disciplina de vanguardia. Esto, claro está, puede degenerar en un prurito de novedades, en una frivolidad de «últimos gritos». Pero este peligro no debe retraernos de la empresa. No hay nada que no esté en peligro de degeneración y las actitudes más fértiles y generosas más cerca que lo demás.
 
@@ -336,7 +345,7 @@ L'in-dividuo umano, la persona non serve da in-dividuo storico. Bruto non finisc
 
 Si vede, perciò, che l'idea di Frobenius, che considera i complessi di manifestazioni vitali di un popolo come un tutto organico, al quale chiama cultura, significa un opportuno saggio di risolvere il gran problema di logica storica che io chiamo problema dell'in-dividuo. Né Frobenius né Spengler si accorgono dell'urgenza filosofica della loro dottrina. Sono entrambi, sebbene tedeschi, di un'insensibilità filosofica —perché non dire ignoranza?— superlativa. Di qui, l'aspetto capriccioso con cui la loro tesi si presenta.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/method,positions/dialectic,figures/socrates,figures/plato,forms/essay"></span>
 
 A mi juicio son muchas las objeciones que a este pensamiento de las culturas como seres orgánicos independientes hay que hacer. Pero antes de hacerlas conviene subrayar lo que en él hay de profundo y justificado.
 

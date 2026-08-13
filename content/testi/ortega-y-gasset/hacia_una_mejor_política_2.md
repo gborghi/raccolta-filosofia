@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Continuation of the series: since June 1917 Spain has watched «a revolution in instalments» — military rebellion, the Barcelona parliamentary secession, the general strike, the October crisis — because monarchical politics answers with «quasis». Radical ideas are one thing, radical methods another: the country asks for different men and procedures, not different goals.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -162,7 +169,7 @@ Questo fenomeno sociologico non è peculiare della Spagna né del nostro tempo: 
 
 Se risaliamo al momento in cui il popolo ionico o il popolo romano entrano nella Storia, li troviamo già trascinando principi sociali che non avevano senso chiaro per i contemporanei. Così, tra gli Ioni l'organizzazione in fratrie o fratellanze non ha più, all'albeggiare storico, altra realtà che certi periodici pasti in comune. Quando Roma mette piede nella Storia appare carica di non poche magistrature e regolamenti superflui e senza senso vivo. Per il momento, le tribù originarie che formarono la città conservano una gerarchia che il romano di Servio Tullio accetta ancora, ma non comprende più: i Tatii precedono sempre i Ramnes, e questi, i Luceres. Inoltre, quasi tutte le istituzioni sono doppie; vi sono due collegi di sacerdoti Salii, e altri due di Luperci. Ogni tribù si duplica in due ordini: vi sono Tatii priores, cioè antichi, e posteriores, o moderni. Le vestali formano tre coppie. L'origine di questa duplicazione, che si conserverà nell'istituire il consolato, il tribunato, gli edili, eccetera, sembra essere la fusione preistorica di due comunità: la Roma del monte, o palatina, con la Roma del colle, o Quirinale. I cittadini dell'una e dell'altra non sentono tra loro la minima differenza, e hanno perduto persino la nozione chiara della loro originaria separazione. Nondimeno, ogni magistratura palatina ha rango superiore alla sua corrispondente del Quirinale. E curioso esempio del potere suggestivo che queste preeminenze tradizionali possiedono, è che, nonostante la maggior altezza del Quirinale, mai un romano lo chiamò altrimenti che colle, riservando la dignità di monte al meno elevato Palatino.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Cito estos ejemplos tan conocidos porque no existen otras sociedades a cuyo nacimiento asistamos con mayor proximidad. Además, se trata de dos pueblos que nacen no sólo como Estados, sino como culturas. Parecería, pues, natural que, no habiendo en ellos ni un pasado por liquidar ni principios heterogéneos recibidos de otras civilizaciones, todo en el cuerpo público gozase de plena actualidad. Sin embargo, vemos que no es así. Toda sociedad despilfarra una cantidad de sus energías en llevar a cuestas instituciones supervivientes que no sirven para lo que pretenden servir. En su clásico libro sobre Civilización primitiva, llamó Taylor a este fenómeno survival. El nombre no es el más oportuno, porque esos residuos de otros tiempos no sobreviven, antes bien, sobremueren, hacen gravitar sus cadáveres sobre la porción viva de la sociedad.
 
@@ -312,7 +319,7 @@ IV
 
 PIÙ, PIÙ MINISTRI
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Aunque remota de la sangrienta línea, comienza España a sentir vagamente análogo afán. Por lo menos, se ha logrado ya una cosa: que sea lícito hablar de ciertas reformas sin quedar convicto de lunatismo.
 
@@ -438,7 +445,7 @@ L'uomo della strada è ormai vecchio, tanto vecchio quanto il suffragio universa
 
 Il secolo XIX, che è il nostro più prossimo nemico, commise il mostruoso errore di applicare alla politica gli stessi sentimenti radicali che prima si pascevano nella religione. Essa ci prometteva di salvarci, mettendoci in contatto con poteri sovrani capaci di risolvere i nostri ultimi problemi. La religione amministra le cose ultime, e pertanto, sarà erroneo, ma non assurdo, che le dedichiamo le più profonde emozioni.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Mas la política, aun en el mejor [caso](/concepts/fortune), ¿qué puede lograr? Un mejor orden en lo más externo de la vida social. Ni siquiera tiene medios para acercarse a las relaciones sociales más importantes: no puede organizar la amistad entre los hombres, ni la lealtad mutua, ni el amor, ni la diversión. En el mundo antiguo intentó, con grave fracaso, algo de esto: en Esparta instituyó la legión sagrada que sancionaba la fidelidad de los amigos; en Roma se ocupó de dar placer al pueblo haciendo de los juegos circenses una institución del Estado. Pero en nuestra edad, ¿qué puede la política? Torciendo hacia la escena interior nuestra atención observemos lo que íntimamente nos ocupa y preocupa durante los días de un año, lo que constituye en verdad nuestra vida, y advirtamos que la política es sólo una tangente que apenas roza un punto de esa nuestra viva realidad. Casi por entero, el volumen de nuestra existencia personal queda intacto por la política. Ni siquiera en el orden económico logra ésta tener una misión sustantiva. A lo sumo, podría intentar repartir con equidad la riqueza. Pero no puede crearla. La pretensión de salvar económicamente a un pueblo desde el ministerio de Hacienda ha resultado dondequiera fallida. Un pueblo donde no abunden los ambiciosos de dinero que vayan frenéticamente empujados por una sed individual de oro será siempre un pueblo mendigo.
 

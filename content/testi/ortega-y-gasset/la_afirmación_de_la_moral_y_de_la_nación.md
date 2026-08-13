@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article (El Sol, 1933): what Spain most lacks is morality, and it is a demoralized people in both the ethical and the vital sense. Ortega argues politics cannot rest on partial interests — capitalist, workerist, militarist — which have abused the state and cancelled each other out, but on moral values around the idea of the Nation.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

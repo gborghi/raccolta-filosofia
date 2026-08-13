@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Pages on the Great War: a sad and morally deaf war in which not one spiritual word has been heard, and in which the Germans fight with an excessive craving to win — a people must also know how to be defeated. Central claim: in every great war the real losers are the philistines, because war fluidifies the human and makes it visible that everything is possible.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

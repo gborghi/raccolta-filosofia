@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Letter to a friend commenting on the memoirs of the Marquise de La Tour du Pin, with a remark on reading (one reads better slightly depressed). An epistolary literary note.
+> A 130-word text; the digest carries no sample, so its content cannot be judged. Left untagged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

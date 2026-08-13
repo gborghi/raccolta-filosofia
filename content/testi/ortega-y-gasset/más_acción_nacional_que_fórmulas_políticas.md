@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A programmatic speech (Liga de Educación Política): a programme is not to be announced but created theme by theme in shared life; one must travel the countryside, live in the villages, create cooperatives and circles of mutual education, string a network of nodes of effort serving at once as organ of propaganda and of study of the national fact. He rejects the labels liberal and radical: if things are complex, conduct must be complex. Politics, not philosophy.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

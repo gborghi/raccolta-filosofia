@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A 1919 political editorial on the Maura cabinet: the Spanish state has lost authority and efficacy, so a radical transformation is needed—transferring predominance from certain classes and men to others. Occasional journalism, no philosophical thesis.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

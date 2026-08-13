@@ -12,8 +12,18 @@ tags:
   - "philosopher/spinoza"
 ---
 
+*Spinoza*
+
 > [!abstract]
 > The Letters gather Spinoza's philosophical correspondence, initiated by Oldenburg, in which he clarifies and defends the pillars of his system. He defines God as absolutely infinite substance and derives from it definitions, axioms, and the first propositions of the Ethics, distinguishing the infinity of substance from the finitude of the modes. He discusses the necessity of all things and the meaning of freedom, the origin of error and evil, and criticizes the defects of the Cartesian and Baconian philosophies. The letters display Spinozan thought in living dialogue on metaphysics, God, and nature.
+
+## Connections
+
+**Assi:** [[assi/god|Dio]], [[assi/reality_status|Statuto del reale]], [[assi/freedom_necessity|Libertà e necessità]], [[assi/soul_body|Anima e corpo]]  
+**Posizioni:** [[positions/pantheism|panteismo]], [[positions/monism|monismo]], [[positions/determinism|determinismo]]  
+**Concetti:** [[concepts/substance|sostanza]], [[concepts/attribute|attributo]], [[concepts/mode|modo]], [[concepts/nature|natura]], [[concepts/infinity|infinito]], [[concepts/cause|causa]], [[concepts/freedom|libertà]]  
+**Forme:** [[forms/epistle|epistola]]  
+**Scuole:** [[schools/continental_rationalism|razionalismo continentale]]
 
 <p class="work-source">Traduzione di R. H. M. Elwes / A. Wolf · Delphi Classics, 2019 · pubblico dominio</p>
 
@@ -30,7 +40,7 @@ London
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="002" data-title="LETTER I. Henry Oldenburg to B. de Spinoza." data-chapter="LETTER I. Henry Oldenburg to B. de Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="LETTER I. Henry Oldenburg to B. de Spinoza." data-chapter="LETTER I. Henry Oldenburg to B. de Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OLDENBURG, AFTER COMPLIMENTING Spinoza, asks him to enter into a philosophical correspondence.]
 
@@ -56,7 +66,7 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
-<span class="atom-split" data-atom="003" data-title="LETTER II. Spinoza to Oldenburg." data-chapter="LETTER II. Spinoza to Oldenburg." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="LETTER II. Spinoza to Oldenburg." data-chapter="LETTER II. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [ANSWER TO LETTER I. Spinoza defines “God,” and “[attribute](/concepts/attribute),” and sends definitions, axioms, and first four propositions of Book I. of Ethics. Some errors of Bacon and Descartes discussed.]
 
@@ -90,7 +100,7 @@ London
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="004" data-title="LETTER III. Oldenburg to Spinoza." data-chapter="LETTER III. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="LETTER III. Oldenburg to Spinoza." data-chapter="LETTER III. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OLDENBURG PROPOUNDS SEVERAL questions concerning God and His existence, thought, and the axioms of Eth. I. He also informs Spinoza of a philosophical society, and promises to send Boyle’s book.]
 
@@ -124,7 +134,7 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
-<span class="atom-split" data-atom="005" data-title="LETTER IV. Spinoza to Oldenburg." data-chapter="LETTER IV. Spinoza to Oldenburg." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="LETTER IV. Spinoza to Oldenburg." data-chapter="LETTER IV. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA ANSWERS SOME of Oldenburg’s questions and doubts, but has not time to reply to all, as he is just setting out for Amsterdam.]
 
@@ -142,7 +152,7 @@ Henry Oldenburg
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="006" data-title="LETTER V. Oldenburg to Spinoza." data-chapter="LETTER V. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="LETTER V. Oldenburg to Spinoza." data-chapter="LETTER V. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OLDENBURG SENDS BOYLE’S book, and laments that Spinoza has not been able to answer all his doubts.]
 
@@ -158,13 +168,13 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
-<span class="atom-split" data-atom="007" data-title="LETTER VI. Spinoza to Oldenburg." data-chapter="LETTER VI. Spinoza to Oldenburg." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="LETTER VI. Spinoza to Oldenburg." data-chapter="LETTER VI. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [CONTAINING DETAILED CRITICISMS by Spinoza of Robert Boyle’s book.]
 
 Omitted.
 
-<span class="atom-split" data-atom="008" data-title="LETTER VII. Oldenburg to Spinoza." data-chapter="LETTER VII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="LETTER VII. Oldenburg to Spinoza." data-chapter="LETTER VII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [AFTER THANKING SPINOZA, in the name of himself and Boyle, Oldenburg mentions the foundation of the Royal Society, and begs his correspondent to publish his theological and philosophical works.]
 
@@ -182,7 +192,7 @@ Henry Oldenburg.
 
 London
 
-<span class="atom-split" data-atom="009" data-title="LETTER VIII. Oldenburg to Spinoza." data-chapter="LETTER VIII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="LETTER VIII. Oldenburg to Spinoza." data-chapter="LETTER VIII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [AFTER FURTHER REPLYING to Spinoza’s criticisms on Boyle’s book, Oldenburg again exhorts his correspondent to publish.]
 
@@ -200,7 +210,7 @@ London,
 
 3 April, 1663.
 
-<span class="atom-split" data-atom="010" data-title="LETTER IX. Spinoza to Oldenburg." data-chapter="LETTER IX. Spinoza to Oldenburg." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="LETTER IX. Spinoza to Oldenburg." data-chapter="LETTER IX. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA INFORMS OLDENBURG that he has removed to Rhijnsburg, and has spent some time at Amsterdam for the purpose of publishing the “Principles of Cartesian Philosophy.” He then replies to Boyle’s objections.]
 
@@ -214,7 +224,7 @@ LETTERS X-XIV.
 
 [Contain further correspondence concerning Boyle’s book, and kindred subjects.]
 
-<span class="atom-split" data-atom="011" data-title="LETTER XIII.a. Oldenburg to Spinoza." data-chapter="LETTER XIII.a. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="LETTER XIII.a. Oldenburg to Spinoza." data-chapter="LETTER XIII.a. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [THE PLACE OF this letter is between Letters XIII. and XIV. It was written apparently in September, 1665. It mentions the plague, which was then at its height, the war, and the labours of the Royal Society, and especially of Boyle. Then comes the passage here given. The letter terminates with references to the comets, and to Huyghens.]
 
@@ -226,7 +236,7 @@ Here we are daily expecting news of a second naval battle, unless indeed your fl
 
 * * * * *
 
-<span class="atom-split" data-atom="012" data-title="LETTER XV. Spinoza to Oldenburg." data-chapter="LETTER XV. Spinoza to Oldenburg." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="LETTER XV. Spinoza to Oldenburg." data-chapter="LETTER XV. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA WRITES TO his friend concerning the reasons which lead us to believe, that “every part of nature agrees with the whole, and is associated with all other parts.” He also makes a few remarks about Huyghens.]
 
@@ -252,7 +262,7 @@ Henry Oldenburg
 
 London
 
-<span class="atom-split" data-atom="013" data-title="LETTER XVI. Oldenburg to Spinoza." data-chapter="LETTER XVI. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="LETTER XVI. Oldenburg to Spinoza." data-chapter="LETTER XVI. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [AFTER SOME REMARKS on Spinoza’s last letter, and an account of experiments at the Royal Society and at Oxford, Oldenburg mentions a report about the return of the Jews to Palestine].
 
@@ -278,7 +288,7 @@ London
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="014" data-title="LETTER XVII. Oldenburg to Spinoza." data-chapter="LETTER XVII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="LETTER XVII. Oldenburg to Spinoza." data-chapter="LETTER XVII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/soul_body,assi/faith_reason,concepts/religion,figures/spinoza,forms/epistle"></span>
 
 [OLDENBURG THANKS SPINOZA for the Tractatus Theoligico-Politicus despatched but not received, and modifies an adverse verdict expressed in a former letter (now lost).]
 
@@ -294,11 +304,11 @@ London,
 
 Henry Oldenburg
 
-<span class="atom-split" data-atom="015" data-title="LETTER XVIII. Oldenburg to Spinoza." data-chapter="LETTER XVIII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="LETTER XVIII. Oldenburg to Spinoza." data-chapter="LETTER XVIII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OLDENBURG REJOICES AT the renewal of correspondence, and alludes to the five books of the Ethics which Spinoza (in a letter now lost) had announced his intention of publishing.]
 
-Our correspondence being thus happily renewed, I should be unwilling to fall short of a friend’s duty in the exchange of letters. I understand from your answer delivered to me on July 5, that you intend to publish your treatise in five parts. Allow me, I beg, to warn you by the sincerity of your affection for me, not to insert any passages which may seem to discourage the practice of religion and virtue; especially as nothing is more sought after in this degenerate and evil age than doctrines of the kind, which seem to give countenance to rampant vice.
+Our correspondence being thus happily renewed, I should be unwilling to fall short of a friend’s [duty](/positions/duty_imperative) in the exchange of letters. I understand from your answer delivered to me on July 5, that you intend to publish your treatise in five parts. Allow me, I beg, to warn you by the sincerity of your affection for me, not to insert any passages which may seem to discourage the practice of religion and virtue; especially as nothing is more sought after in this degenerate and evil age than doctrines of the kind, which seem to give countenance to rampant vice.
 
 However, I will not object to receiving a few copies of the said treatise. I will only ask you that, when the time arrives, they may be entrusted to a Dutch merchant living in London, who will see that they are forwarded to me. There is no need to mention, that books of the kind in question have been sent to me: if they arrive safely to my keeping, I do not doubt that I can conveniently dispose of some copies to my friends here and there, and can obtain a just price for them. Farewell, and when you have leisure write to
 
@@ -314,7 +324,7 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
-<span class="atom-split" data-atom="016" data-title="LETTER XIX. Spinoza to Oldenburg." data-chapter="LETTER XIX. Spinoza to Oldenburg." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="LETTER XIX. Spinoza to Oldenburg." data-chapter="LETTER XIX. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA RELATES HIS journey to Amsterdam for the purpose of publishing his Ethics; he was deterred by the dissuasions of theologians and Cartesians. He hopes that Oldenburg will inform him of some of the objections to the Tractatus Theologico-Politicus, made by learned men, so that they may be answered in notes.]
 
@@ -330,7 +340,7 @@ London
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="017" data-title="LETTER XX. Oldenburg to Spinoza." data-chapter="LETTER XX. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="LETTER XX. Oldenburg to Spinoza." data-chapter="LETTER XX. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 AS I SEE from your last letter, the book you propose to publish is in peril. It is impossible not to approve your purpose of illustrating and softening down those passages in the Tractatus Theologico-Politicus, which have given pain to its readers. First I would call attention to the ambiguities in your treatment of God and Nature: a great many people think you have confused the one with the other. Again, you seem to many to take away the authority and value of miracles, whereby alone, as nearly all Christians believe, the certainty of the divine [revelation](/concepts/revelation) can be established.
 
@@ -346,7 +356,7 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
-<span class="atom-split" data-atom="018" data-title="LETTER XXI. Spinoza to Oldenburg." data-chapter="LETTER XXI. Spinoza to Oldenburg." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="LETTER XXI. Spinoza to Oldenburg." data-chapter="LETTER XXI. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 DISTINGUISHED SIR, —
 
@@ -362,7 +372,7 @@ London
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="019" data-title="LETTER XXII. Oldenburg to Spinoza." data-chapter="LETTER XXII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="LETTER XXII. Oldenburg to Spinoza." data-chapter="LETTER XXII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OLDENBURG WISHES TO be enlightened concerning the doctrine of fatalism, of which Spinoza has been accused. He discourses on man’s limited intelligence and on the incarnation of the Son of God.]
 
@@ -384,7 +394,7 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
-<span class="atom-split" data-atom="020" data-title="LETTER XXIII. Spinoza to Oldenburg." data-chapter="LETTER XXIII. Spinoza to Oldenburg." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="LETTER XXIII. Spinoza to Oldenburg." data-chapter="LETTER XXIII. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA EXPOUNDS TO Oldenburg his views on fate and necessity, discriminates between miracles and ignorance, takes the resurrection of Christ as spiritual, and deprecates attributing to the sacred writers Western [modes](/concepts/mode) of speech.]
 
@@ -406,7 +416,7 @@ London
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="021" data-title="LETTER XXIV. Oldenburg to Spinoza." data-chapter="LETTER XXIV. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="LETTER XXIV. Oldenburg to Spinoza." data-chapter="LETTER XXIV. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OLDENBURG RETURNS TO the questions of universal necessity, of miracles, and of the literal and allegorical interpretation of [Scripture](/concepts/revelation).]
 
@@ -428,7 +438,7 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
-<span class="atom-split" data-atom="022" data-title="LETTER XXV. Written" data-chapter="LETTER XXV. Written" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="LETTER XXV. Written" data-chapter="LETTER XXV. Written" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 7 FEB., 1676.
 
@@ -452,7 +462,7 @@ London
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="023" data-title="LETTER XXV.a. Oldenburg to Spinoza." data-chapter="LETTER XXV.a. Oldenburg to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="LETTER XXV.a. Oldenburg to Spinoza." data-chapter="LETTER XXV.a. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OLDENBURG ADDUCES CERTAIN further objections against Spinoza’s doctrine of necessity and miracles, and exposes the inconsistency of a partial allegorization of [Scripture](/concepts/revelation).]
 
@@ -484,7 +494,7 @@ Amsterdam
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="024" data-title="LETTER XXVI. Simon de Vries to Spinoza." data-chapter="LETTER XXVI. Simon de Vries to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="LETTER XXVI. Simon de Vries to Spinoza." data-chapter="LETTER XXVI. Simon de Vries to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SIMON DE VRIES, a diligent student of Spinoza’s writings and philosophy, describes a club formed for the study of Spinoza’s MS. containing some of the matter afterwards worked into the Ethics, and asks questions about the difficulties felt by members of the club.]
 
@@ -516,7 +526,7 @@ Benedict de Spinoza
 
 Simon de Vries
 
-<span class="atom-split" data-atom="025" data-title="LETTER XXVII. Spinoza to Simon de Vries." data-chapter="LETTER XXVII. Spinoza to Simon de Vries." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="LETTER XXVII. Spinoza to Simon de Vries." data-chapter="LETTER XXVII. Spinoza to Simon de Vries." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA DEPRECATES HIS correspondent’s jealousy of Albert Burgh; and answers that distinction must be made between different kinds of definitions. He explains his opinions more precisely.]
 
@@ -534,7 +544,7 @@ Benedict de Spinoza
 
 Simon de Vries
 
-<span class="atom-split" data-atom="026" data-title="LETTER XXVIII. Spinoza to Simon de Vries." data-chapter="LETTER XXVIII. Spinoza to Simon de Vries." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="LETTER XXVIII. Spinoza to Simon de Vries." data-chapter="LETTER XXVIII. Spinoza to Simon de Vries." data-kind="atom" data-srclang="en" data-tags="concepts/attribute,concepts/mode,concepts/essentia_existentia,figures/spinoza,schools/continental_rationalism"></span>
 
 [SPINOZA, IN ANSWER to a letter from De Vries now lost, speaks of the experience necessary for proving a definition, and also of eternal truths.]
 
@@ -552,7 +562,7 @@ Rhijnsburg
 
 Lewis Meyer
 
-<span class="atom-split" data-atom="027" data-title="LETTER XXIX. Spinoza to L. M. (Lewis Meyer). (parte 1)" data-chapter="LETTER XXIX. Spinoza to L. M. (Lewis Meyer)." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="LETTER XXIX. Spinoza to L. M. (Lewis Meyer). (parte 1)" data-chapter="LETTER XXIX. Spinoza to L. M. (Lewis Meyer)." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 DEAREST FRIEND, —
 
@@ -572,7 +582,7 @@ Again, from the fact that we can limit duration and quantity at our pleasure, wh
 
 Further, as it is evident from what has been said, that neither number, nor measure, nor time, being mere aids to the imagination, can be infinite (for, otherwise, number would not be number, nor measure measure, nor time time); it is hence abundantly evident, why many who confuse these three abstractions with realities, through being ignorant of the true nature of things, have actually denied the infinite.
 
-<span class="atom-split" data-atom="028" data-title="LETTER XXIX. Spinoza to L. M. (Lewis Meyer). (parte 2)" data-chapter="LETTER XXIX. Spinoza to L. M. (Lewis Meyer)." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="LETTER XXIX. Spinoza to L. M. (Lewis Meyer). (parte 2)" data-chapter="LETTER XXIX. Spinoza to L. M. (Lewis Meyer)." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 The wretchedness of their reasoning may be judged by mathematicians, who have never allowed themselves to be delayed a moment by arguments of this sort, in the case of things which they clearly and distinctly perceive. For not only have they come across many things, which cannot be expressed by number (thus showing the inadequacy of number for determining all things); but also they have found many things, which cannot be equalled by any number, but surpass every possible number. But they infer hence, that such things surpass enumeration, not because of the multitude of their component parts, but because their nature cannot, without manifest contradiction, be expressed in terms of number. As, for instance, in the case of two circles, non-concentric, whereof one encloses the other, no number can express the inequalities of distance which exist between the two circles, nor all the variations which matter in motion in the intervening space may undergo. This conclusion is not based on the excessive size of the intervening space. However small a portion of it we take, the inequalities of this small portion will surpass all numerical expression. Nor, again, is the conclusion based on the fact, as in other cases, that we do not know the maximum and the minimum of the said space. It springs simply from the fact, that the nature of the space between two non-concentric circles cannot be expressed in number. Therefore, he who would assign a numerical equivalent for the inequalities in question, would be bound, at the same time, to bring about that a circle should not be a circle.
 
@@ -598,7 +608,7 @@ Voorberg
 
 Lewis Meyer
 
-<span class="atom-split" data-atom="029" data-title="LETTER XXIX.a. Spinoza to Lewis Meyer." data-chapter="LETTER XXIX.a. Spinoza to Lewis Meyer." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="LETTER XXIX.a. Spinoza to Lewis Meyer." data-chapter="LETTER XXIX.a. Spinoza to Lewis Meyer." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 DEAR FRIEND, —
 
@@ -624,7 +634,7 @@ Voorburg
 
 Peter Balling
 
-<span class="atom-split" data-atom="030" data-title="LETTER XXX. Spinoza to Peter Balling." data-chapter="LETTER XXX. Spinoza to Peter Balling." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="LETTER XXX. Spinoza to Peter Balling." data-chapter="LETTER XXX. Spinoza to Peter Balling." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [CONCERNING OMENS AND phantoms. The mind may have a confused presentiment of the future.]
 
@@ -646,7 +656,7 @@ Dordrecht
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="031" data-title="LETTER XXXI. William de Blyenbergh to Spinoza." data-chapter="LETTER XXXI. William de Blyenbergh to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="LETTER XXXI. William de Blyenbergh to Spinoza." data-chapter="LETTER XXXI. William de Blyenbergh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 UNKNOWN FRIEND AND Sir, —
 
@@ -672,7 +682,7 @@ Amsterdam
 
 William de Blyenbergh
 
-<span class="atom-split" data-atom="032" data-title="LETTER XXXII. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="LETTER XXXII. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 (SPINOZA ANSWERS WITH his usual courtesy the question propounded by Blyenbergh.)
 
@@ -692,7 +702,7 @@ The will of God is identical with His intellect, hence the former can no more be
 
 Thus, as it seems to me, the difficulty is completely solved. However, in order to make the way still plainer, and remove every doubt, I deem it necessary to answer the two following difficulties: — First, why Holy [Scripture](/concepts/revelation) says that God wishes for the conversion of the wicked, and also why God forbade Adam to eat of the fruit when He had ordained the contrary? Secondly, that it seems to follow from what I have said, that the wicked by their pride, avarice, and deeds of desperation, [worship](/concepts/religion) God in no less degree than the good do by their nobleness, patience, love, &c., inasmuch as both execute God’s will.
 
-<span class="atom-split" data-atom="033" data-title="LETTER XXXII. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="LETTER XXXII. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 In answer to the first question, I observe that [Scripture](/concepts/revelation), being chiefly fitted for and beneficial to the multitude, speaks popularly after the fashion of men. For the multitude are incapable of grasping [sublime](/concepts/sublime) conceptions. Hence I am persuaded that all matters, which God revealed to the prophets as necessary to salvation, are set down in the form of laws. With this understanding, the prophets invented whole parables, and represented God as a king and a law-giver, because He had revealed the means of salvation and perdition, and was their cause; the means which were simply causes they styled laws and wrote them down as such; salvation and perdition, which are simply effects necessarily resulting from the aforesaid means, they described as reward and punishment; framing their doctrines more in accordance with such parables than with actual truth. They constantly speak of God as resembling a man, as sometimes angry, sometimes merciful, now desiring what is future, now jealous and suspicious, even as deceived by the devil; so that philosophers and all who are above the law, that is, who follow after virtue, not in obedience to law, but through [love](/concepts/charity), because it is the most excellent of all things, must not be hindered by such expressions.
 
@@ -718,7 +728,7 @@ Dordrecht
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="034" data-title="LETTER XXXIII. Blyenbergh to Spinoza." data-chapter="LETTER XXXIII. Blyenbergh to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="LETTER XXXIII. Blyenbergh to Spinoza." data-chapter="LETTER XXXIII. Blyenbergh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 (A SUMMARY ONLY of this letter is here given. — Tr.)
 
@@ -738,7 +748,7 @@ Voorberg
 
 William de Blyenbergh
 
-<span class="atom-split" data-atom="035" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA COMPLAINS THAT Blyenbergh has misunderstood him: he sets forth his true meaning.]
 
@@ -758,7 +768,7 @@ I say then, first, that privation is not the act of depriving, but simply and me
 
 Thus privation is nothing else than denying of a thing something, which we think belongs to its nature; negation is denying of a thing something, which we do not think belongs to its nature.
 
-<span class="atom-split" data-atom="036" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 We may now see, how Adam’s desire for earthly things was evil from our standpoint, but not from God’s. Although God knew both the present and the past state of Adam, He did not, therefore, regard Adam as deprived of his past state, that is, He did not regard Adam’s past state as within the scope of Adam’s present nature. Otherwise God would have apprehended something contrary to His own will, that is, contrary to His own understanding. If you quite grasp my meaning here and at the same time remember, that I do not grant to the mind the same freedom as Descartes does — L[ewis] M[eyer] bears witness to this in his preface to my book — you will perceive, that there is not the smallest contradiction in what I have said. But I see that I should have done far better to have answered you in my first letter with the words of Descartes, to the effect that we cannot know how our freedom and its consequences agree with the foreknowledge and freedom of God (see several passages in my appendix), that, therefore, we can discover no contradiction between creation by God and our freedom, because we cannot understand how God created the universe, nor (what is the same thing) how He preserves it. I thought that you had read the preface, and that by not giving you my real opinions in reply, I should sin against those duties of [friendship](/concepts/friendship) which I cordially offered you. But this is of no consequence.
 
@@ -778,7 +788,7 @@ As to the two points which you say, before passing on to your second rule, that 
 
 As to your second difficulty, I say with Descartes, that if we cannot extend our will beyond the bounds of our extremely limited understanding, we shall be most wretched — it will not be in our power to eat even a crust of bread, or to walk a step, or to go on living, for all things are uncertain and full of peril.
 
-<span class="atom-split" data-atom="037" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 3)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 3)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 I now pass on to your second rule, and assert that I believe, though I do not ascribe to [Scripture](/concepts/revelation) that sort of truth which you think you find in it, I nevertheless assign to it as great if not greater authority than you do. I am far more careful than others not to ascribe to Scripture any childish and absurd doctrines, a precaution which demands either a thorough acquaintance with philosophy or the possession of divine revelations. Hence I pay very little attention to the glosses put upon Scripture by ordinary theologians, especially those of the kind who always interpret Scripture according to the literal and outward meaning: I have never, except among the Socinians, found any theologian stupid enough to ignore that Holy Scripture very often speaks in human fashion of God and expresses its meaning in parables; as for the contradiction which you vainly (in my opinion) endeavour to show, I think you attach to the word parable a meaning different from that usually given. For who ever heard, that a man, who expressed his opinions in parables, had therefore taken leave of his senses? When Micaiah said to King Ahab, that he had seen God sitting on a throne, with the armies of heaven standing on the right hand and the left, and that God asked His angels which of them would deceive Ahab, this was assuredly a parable employed by the prophet on that occasion (which was not fitted for the inculcation of [sublime](/concepts/sublime) theological doctrines), as sufficiently setting forth the message he had to deliver in the name of God. We cannot say that he had in anywise taken leave of his senses. So also the other prophets of God made manifest God’s commands to the people in this fashion as being the best adapted, though not expressly enjoined by God, for leading the people to the primary object of Scripture, which, as Christ Himself says, is to bid men [love](/concepts/charity) God above all things, and their neighbour as themselves. Sublime speculations have, in my opinion, no bearing on Scripture. As far as I am concerned I have never learnt or been able to learn any of God’s eternal attributes from Holy Scripture.
 
@@ -798,7 +808,7 @@ Dordrecht
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="038" data-title="LETTER XXXV. Blyenbergh to Spinoza." data-chapter="LETTER XXXV. Blyenbergh to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="LETTER XXXV. Blyenbergh to Spinoza." data-chapter="LETTER XXXV. Blyenbergh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [THIS LETTER (EXTENDING over five pages) is only given here in brief summary.]
 
@@ -818,7 +828,7 @@ Voorburg
 
 William de Blyenbergh
 
-<span class="atom-split" data-atom="039" data-title="LETTER XXXVI. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXVI. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="LETTER XXXVI. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXVI. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA REPLIES, THAT there is a difference between the theological and the philosophical way of speaking of God and things divine. He proceeds to discuss Blyenbergh’s questions. (Voorburg, 13th March, 1665.)]
 
@@ -842,7 +852,7 @@ To your first question, I answer, that I do not know, speaking as a philosopher,
 
 However, this is not the place to expound all the foundations of my Ethics, or to prove all that I have advanced; I am now only concerned in answering your questions, and defending myself against them.
 
-<span class="atom-split" data-atom="040" data-title="LETTER XXXVI. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXVI. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="LETTER XXXVI. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXVI. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 Lastly, as to your third question, it assumes a contradiction, and seems to me to be, as though one asked: If it agreed better with a man’s nature that he should hang himself, could any reasons be given for his not hanging himself? Can such a nature possibly exist? If so, I maintain (whether I do or do not grant [free will](/positions/free_will)), that such an one, if he sees that he can live more conveniently on the gallows than sitting at his own table, would act most foolishly, if he did not hang himself. So anyone who clearly saw that, by committing crimes, he would enjoy a really more perfect and better life and existence, than he could attain by the practice of virtue, would be foolish if he did not act on his convictions. For, with such a perverse [human nature](/axes/human_nature) as his, crime would become virtue.
 
@@ -858,7 +868,7 @@ Dordrecht
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="041" data-title="LETTER XXXVII. Blyenbergh to Spinoza." data-chapter="LETTER XXXVII. Blyenbergh to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="LETTER XXXVII. Blyenbergh to Spinoza." data-chapter="LETTER XXXVII. Blyenbergh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [BLYENBERGH, WHO HAD been to see Spinoza, asks the latter to send him a report of their conversation, and to answer five fresh questions. (Dordrecht, 27th March, 1665.)]
 
@@ -872,7 +882,7 @@ Voorburg
 
 William de Blyenbergh
 
-<span class="atom-split" data-atom="042" data-title="LETTER XXXVIII. Spinoza to Blyenbergh." data-chapter="LETTER XXXVIII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="LETTER XXXVIII. Spinoza to Blyenbergh." data-chapter="LETTER XXXVIII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA DECLINES FURTHER correspondence with Blyenbergh, but says he will give explanations of certain points by word of mouth. (Voorburg, 3rd June, 1665.)]
 
@@ -888,7 +898,7 @@ Voorburg
 
 Christian Huyghens
 
-<span class="atom-split" data-atom="043" data-title="LETTER XXXIX. Spinoza to Christian Huyghens." data-chapter="LETTER XXXIX. Spinoza to Christian Huyghens." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="LETTER XXXIX. Spinoza to Christian Huyghens." data-chapter="LETTER XXXIX. Spinoza to Christian Huyghens." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 (TREATING OF THE Unity of God.)
 
@@ -920,7 +930,7 @@ Voorburg
 
 Christian Huyghens
 
-<span class="atom-split" data-atom="044" data-title="LETTER XL. Spinoza to Christian Huyghens." data-chapter="LETTER XL. Spinoza to Christian Huyghens." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="LETTER XL. Spinoza to Christian Huyghens." data-chapter="LETTER XL. Spinoza to Christian Huyghens." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 FURTHER ARGUMENTS FOR the unity of God.
 
@@ -956,7 +966,7 @@ Voorburg
 
 Christian Huyghens
 
-<span class="atom-split" data-atom="045" data-title="LETTER XLI. Spinoza to Christian Huyghens." data-chapter="LETTER XLI. Spinoza to Christian Huyghens." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="LETTER XLI. Spinoza to Christian Huyghens." data-chapter="LETTER XLI. Spinoza to Christian Huyghens." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [FURTHER DISCUSSION CONCERNING the unity of God. Spinoza asks for advice about polishing lenses. (Voorburg, May, 1666.)]
 
@@ -986,7 +996,7 @@ May or June, 1665
 
 John Bresser
 
-<span class="atom-split" data-atom="046" data-title="LETTER XLI.a. Spinoza to * * * * * (May or June, 1665)." data-chapter="LETTER XLI.a. Spinoza to * * * * * (May or June, 1665)." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="LETTER XLI.a. Spinoza to * * * * * (May or June, 1665)." data-chapter="LETTER XLI.a. Spinoza to * * * * * (May or June, 1665)." data-kind="atom" data-srclang="en" data-tags="concepts/friendship,concepts/reason,concepts/soul"></span>
 
 [SPINOZA URGES HIS correspondent to be diligent in studying philosophy, promises to send part of the Ethics, and adds some personal details.]
 
@@ -1010,7 +1020,7 @@ Voorburg
 
 John Bredenburg
 
-<span class="atom-split" data-atom="047" data-title="LETTER XLII. Spinoza to I. B." data-chapter="LETTER XLII. Spinoza to I. B." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="LETTER XLII. Spinoza to I. B." data-chapter="LETTER XLII. Spinoza to I. B." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [CONCERNING THE BEST [method](/axes/method), by which we may safely arrive at the knowledge of things.]
 
@@ -1036,7 +1046,7 @@ Voorburg
 
 v. M.
 
-<span class="atom-split" data-atom="048" data-title="LETTER XLIII. Spinoza to I. v. M." data-chapter="LETTER XLIII. Spinoza to I. v. M." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="LETTER XLIII. Spinoza to I. v. M." data-chapter="LETTER XLIII. Spinoza to I. v. M." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA SOLVES FOR his friend an arithmetical problem connected with games of [chance](/concepts/fortune). (Voorburg, Oct. 1, 1666.)]
 
@@ -1050,15 +1060,15 @@ LETTERS XLIV., XLV., XLVI. (XXXIX., XL., XLI.)
 
 Spinoza to I. I.
 
-<span class="atom-split" data-atom="049" data-title="XLIV." data-chapter="XLIV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="XLIV." data-chapter="XLIV." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [REMARKS ON DESCARTES’ treatise on Optics.]
 
-<span class="atom-split" data-atom="050" data-title="XLV." data-chapter="XLV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="XLV." data-chapter="XLV." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [Remarks on some alchemistic experiments, on the third and fourth meditations of Descartes, and on Optics.]
 
-<span class="atom-split" data-atom="051" data-title="XLVI." data-chapter="XLVI." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="XLVI." data-chapter="XLVI." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [Remarks on Hydrostatics.]
 
@@ -1070,7 +1080,7 @@ The Hague
 
 Jarig Jellis
 
-<span class="atom-split" data-atom="052" data-title="LETTER XLVII. Spinoza to I. I." data-chapter="LETTER XLVII. Spinoza to I. I." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="LETTER XLVII. Spinoza to I. I." data-chapter="LETTER XLVII. Spinoza to I. I." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA BEGS HIS friend to stop the printing of the Dutch version of the Tractatus Theologico-Politicus. Some remarks on a pernicious pamphlet, “Homo Politicus,” and on Thales of Miletus.]
 
@@ -1096,7 +1106,7 @@ Isaac Orobio
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="053" data-title="LETTER XLVIII." data-chapter="LETTER XLVIII." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="LETTER XLVIII." data-chapter="LETTER XLVIII." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 WRITTEN BY A physician, Lambert de Velthuysen, to Isaac Orobio, and forwarded by the latter to Spinoza. It contains a detailed attack on the Tractatus Theologico-Politicus. Its tenor may be sufficiently seen from Spinoza’s reply. (Written at Utrecht, January 24th, 1671.) Velthuysen afterwards became more friendly to Spinoza, as appears from Letter LXXV.
 
@@ -1108,7 +1118,7 @@ The Hague
 
 Isaac Orobio
 
-<span class="atom-split" data-atom="054" data-title="LETTER XLIX. Spinoza to Isaac Orobio. (parte 1)" data-chapter="LETTER XLIX. Spinoza to Isaac Orobio." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="LETTER XLIX. Spinoza to Isaac Orobio. (parte 1)" data-chapter="LETTER XLIX. Spinoza to Isaac Orobio." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [A DEFENCE OF the Tractatus Theologico-Politicus. (The Hague, 1671.)]
 
@@ -1130,7 +1140,7 @@ Though I think I have said enough to prove what I intended, I have yet thought i
 
 Again, I cannot see why he says, that all will adopt my opinions, who deny that reason and philosophy should be the interpreters of [Scripture](/concepts/revelation); I have refuted the doctrine of such persons, together with that of Maimonides.
 
-<span class="atom-split" data-atom="055" data-title="LETTER XLIX. Spinoza to Isaac Orobio. (parte 2)" data-chapter="LETTER XLIX. Spinoza to Isaac Orobio." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="LETTER XLIX. Spinoza to Isaac Orobio. (parte 2)" data-chapter="LETTER XLIX. Spinoza to Isaac Orobio." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 It would take too long to review all the indications he gives of not having judged me altogether calmly. I therefore pass on to his conclusion, where he says, “that I have no arguments left to prove, that Mahomet was not a true prophet.” This he endeavours to show from my opinions, whereas from them it clearly follows, that Mahomet was an impostor, inasmuch as he utterly forbids that freedom, which the Catholic religion revealed by our natural faculties and by the prophets grants, and which I have shown should be granted in its completeness. Even if this were not so, am I, I should like to know, bound to show that any prophet is false? Surely the burden lies with the prophets, to prove that they are true. But if he retorts, that Mahomet also taught the [divine law](/concepts/divine_law), and gave certain signs of his mission, as the rest of the prophets did, there is surely no reason why he should deny, that Mahomet also was a true prophet.
 
@@ -1148,7 +1158,7 @@ The Hague
 
 Jarig Jellis
 
-<span class="atom-split" data-atom="056" data-title="LETTER L. Spinoza to Jarig Jellis." data-chapter="LETTER L. Spinoza to Jarig Jellis." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="LETTER L. Spinoza to Jarig Jellis." data-chapter="LETTER L. Spinoza to Jarig Jellis." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OF THE DIFFERENCE between the political theories of [Hobbes](/figures/hobbes) and Spinoza, of the Unity of God, of the notion of figure, of the book of a Utrecht professor against the Tractatus Theologico-Politicus.]
 
@@ -1174,7 +1184,7 @@ Frankfort
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="057" data-title="LETTER LI. Godfrey Leibnitz to Spinoza." data-chapter="LETTER LI. Godfrey Leibnitz to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="LETTER LI. Godfrey Leibnitz to Spinoza." data-chapter="LETTER LI. Godfrey Leibnitz to Spinoza." data-kind="atom" data-srclang="en" data-tags="figures/leibniz,figures/spinoza,forms/epistle"></span>
 
 DISTINGUISHED SIR, —
 
@@ -1202,7 +1212,7 @@ The Hague
 
 Godfrey Leibnitz
 
-<span class="atom-split" data-atom="058" data-title="LETTER LII. Spinoza to Leibnitz." data-chapter="LETTER LII. Spinoza to Leibnitz." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="LETTER LII. Spinoza to Leibnitz." data-chapter="LETTER LII. Spinoza to Leibnitz." data-kind="atom" data-srclang="en" data-tags="concepts/idea,figures/spinoza,figures/leibniz,forms/epistle"></span>
 
 [ANSWER TO THE foregoing letter].
 
@@ -1230,13 +1240,13 @@ Heidelberg
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="059" data-title="LETTER LIII. Fabritius to Spinoza." data-chapter="LETTER LIII. Fabritius to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="LETTER LIII. Fabritius to Spinoza." data-chapter="LETTER LIII. Fabritius to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [FABRITIUS, UNDER THE order and in the name of the Elector Palatine, offers Spinoza the post of Professor of Philosophy at Heidelberg, under very liberal conditions.]
 
 Most renowned Sir, —
 
-His Most Serene Highness the Elector Palatine, my most gracious master, commands me to write to you, who are, as yet, unknown to me, but most favourably regarded by his Most Serene Highness, and to inquire of you, whether you are willing to accept an ordinary professorship of Philosophy in his illustrious university. An annual salary would be paid to you, equal to that enjoyed at present by the ordinary professors. You will hardly find elsewhere a prince more favourable to distinguished talents, among which he reckons yourself. You will have the most ample freedom in philosophical teaching, which the prince is confident you will not misuse, to disturb the religion publicly established. I cannot refrain from seconding the prince’s injunction. I therefore most earnestly beg you to reply as soon as possible, and to address your answer either under cover to the Most Serene Elector’s resident at the Hague, Mr. Grotius, or to Mr. Gilles Van der Hele, so that it may come in the packet of letters usually sent to the court, or else to avail yourself of some other convenient opportunity for transmitting it. I will only add, that if you come here, you will live pleasantly a life worthy of a philosopher, unless events turn out quite contrary to our expectation and hope. So farewell.
+His Most Serene Highness the Elector Palatine, my most gracious master, commands me to write to you, who are, as yet, unknown to me, but most favourably regarded by his Most Serene Highness, and to inquire of you, whether you are willing to accept an ordinary professorship of Philosophy in his illustrious university. An annual salary would be paid to you, equal to that enjoyed at present by the ordinary professors. You will hardly find elsewhere a prince more favourable to distinguished talents, among which he reckons yourself. You will have the most ample [freedom](/concepts/freedom) in philosophical teaching, which the prince is confident you will not misuse, to disturb the religion publicly established. I cannot refrain from seconding the prince’s injunction. I therefore most earnestly beg you to reply as soon as possible, and to address your answer either under cover to the Most Serene Elector’s resident at the Hague, Mr. Grotius, or to Mr. Gilles Van der Hele, so that it may come in the packet of letters usually sent to the court, or else to avail yourself of some other convenient opportunity for transmitting it. I will only add, that if you come here, you will live pleasantly a life worthy of a philosopher, unless events turn out quite contrary to our expectation and hope. So farewell.
 
 I remain, illustrious Sir, Your devoted admirer,
 
@@ -1256,7 +1266,7 @@ The Hague
 
 Lewis Fabritius
 
-<span class="atom-split" data-atom="060" data-title="LETTER LIV. Spinoza to Fabritius." data-chapter="LETTER LIV. Spinoza to Fabritius." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="LETTER LIV. Spinoza to Fabritius." data-chapter="LETTER LIV. Spinoza to Fabritius." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA THANKS THE Elector for his kind offer, but, owing to his unwillingness to teach in public, and other causes, humbly begs to be allowed time to consider it.]
 
@@ -1280,7 +1290,7 @@ Hugo Boxel
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="061" data-title="LETTER LV. Hugo Boxel to Spinoza." data-chapter="LETTER LV. Hugo Boxel to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="LETTER LV. Hugo Boxel to Spinoza." data-chapter="LETTER LV. Hugo Boxel to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [A FRIEND ASKS Spinoza’s opinion about Ghosts.]
 
@@ -1300,7 +1310,7 @@ The Hague
 
 Hugo Boxel
 
-<span class="atom-split" data-atom="062" data-title="LETTER LVI. Spinoza to Hugo Boxel." data-chapter="LETTER LVI. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="LETTER LVI. Spinoza to Hugo Boxel." data-chapter="LETTER LVI. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA ANSWERS THAT he does not know what ghosts are, and can gain no information from antiquity. (The Hague, Sept., 1674.)]
 
@@ -1318,7 +1328,7 @@ Hugo Boxel
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="063" data-title="LETTER LVII. Hugo Boxel to Spinoza." data-chapter="LETTER LVII. Hugo Boxel to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="LETTER LVII. Hugo Boxel to Spinoza." data-chapter="LETTER LVII. Hugo Boxel to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 MOST SAGACIOUS SIR, —
 
@@ -1340,7 +1350,7 @@ Benedict de Spinoza
 
 Hugo Boxel
 
-<span class="atom-split" data-atom="064" data-title="LETTER LVIII. Spinoza to Hugo Boxel. (parte 1)" data-chapter="LETTER LVIII. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="LETTER LVIII. Spinoza to Hugo Boxel. (parte 1)" data-chapter="LETTER LVIII. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA TREATS OF the necessary creation of the world — he refutes his friend’s arguments and quotations.]
 
@@ -1360,7 +1370,7 @@ Your fourth, and last reason, is the same as your first, and I refer you to my a
 
 Thus, passing by this argument and what remains, I conclude, that these and similar reasons will convince no one of the existence of all kinds of ghosts and spectres, unless it be those persons, who shut their ears to the understanding, and allow themselves to be led away by superstition. This last is so hostile to right reason, that she lends willing credence to old wives’ tales for the sake of discrediting philosophers.
 
-<span class="atom-split" data-atom="065" data-title="LETTER LVIII. Spinoza to Hugo Boxel. (parte 2)" data-chapter="LETTER LVIII. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="LETTER LVIII. Spinoza to Hugo Boxel. (parte 2)" data-chapter="LETTER LVIII. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 As regards the stories, I have already said in my first letter, that I do not deny them altogether, but only the conclusion drawn from them. To this I may add, that I do not believe them so thoroughly, as not to doubt many of the details, which are generally added rather for ornament than for bringing out the truth of the story or the conclusion drawn from it. I had hoped, that out of so many stories you would at least have produced one or two, which could hardly be questioned, and which would clearly show that ghosts or spectres exist. The case you relate of the burgomaster, who wanted to infer their existence, because he heard spectral brewers working in his mother’s brewhouse by night, and making the same noises as he was accustomed to hear by day, seems to me laughable. In like manner it would be tedious here to examine all the stories of people, who have written on these trifles. To be brief, I cite the instance of Julius Cæsar, who, as Suetonius testifies, laughed at such things and yet was happy, if we may trust what Suetonius says in the 59th chapter of his life of that leader. And so should all, who reflect on the human imagination, and the effects of the emotions, laugh at such notions; whatever Lavater and others, who have gone dreaming with him in the matter, may produce to the contrary.
 
@@ -1368,7 +1378,7 @@ Hugo Boxel
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="066" data-title="LETTER LIX. Hugo Boxel to Spinoza." data-chapter="LETTER LIX. Hugo Boxel to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="LETTER LIX. Hugo Boxel to Spinoza." data-chapter="LETTER LIX. Hugo Boxel to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [A CONTINUATION OF the arguments in favour of ghosts, which may be summarized as follows: — I say a thing is done by [chance](/concepts/fortune), when it has not been the subject of will on the part of the doer; not when it might never have happened. — Necessity and freedom, not necessity and chance, are contraries. — If we do not in some sense [attribute](/concepts/attribute) human qualities to God, what meaning can we attach to the term? — You ask for absolute proof of the existence of spirits; such proof is not obtainable for many things, which are yet firmly believed. — Some things are more beautiful intrinsically than others. — As God is a spirit, spirits resemble Him more than embodied creatures do. — A ghost cannot be conceived as clearly as a triangle: can you say that your own idea of God is as clear as your idea of a triangle? — As a circle exists without a sphere, so a sphere exists without a circle. — We call things higher or lower in proportion to their distance from the earth. — All the Stoics, Pythagoreans, and Platonists, Empedocles, Maximus Tyrius, Apuleius, and others, bear witness to ghosts; and no modern denies them. It is presumption to sneer at such a body of testimony. Cæsar did not ridicule ghosts, but omens, and if he had listened to Spurina he would not have been murdered.]
 
@@ -1380,7 +1390,7 @@ The Hague
 
 Hugo Boxel
 
-<span class="atom-split" data-atom="067" data-title="LETTER LX. Spinoza to Hugo Boxel." data-chapter="LETTER LX. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="LETTER LX. Spinoza to Hugo Boxel." data-chapter="LETTER LX. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA AGAIN ANSWERS the argument in favour of ghosts. (The Hague, 1674).]
 
@@ -1412,7 +1422,7 @@ Van Volten
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="068" data-title="LETTER LXI. * * * * to Spinoza." data-chapter="LETTER LXI. * * * * to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="LETTER LXI. * * * * to Spinoza." data-chapter="LETTER LXI. * * * * to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [PHILOSOPHERS OFTEN DIFFER through using words in different senses. Thus in the question of [free will](/positions/free_will) Descartes means by free, constrained by no cause. You mean by the same, undetermined in a particular way by a cause. The question of free will is threefold: — I. Have we any power whatever over things external to us? II. Have we absolute power over the intentional movements of our own body? III. Have we free use of our reason? Both Descartes and yourself are right according to the terms employed by each (8th October, 1674).]
 
@@ -1424,7 +1434,7 @@ The Hague
 
 G. H. Schaller
 
-<span class="atom-split" data-atom="069" data-title="LETTER LXII. Spinoza to * * * * * (The Hague, October, 1674)." data-chapter="LETTER LXII. Spinoza to * * * * * (The Hague, October, 1674)." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="LETTER LXII. Spinoza to * * * * * (The Hague, October, 1674)." data-chapter="LETTER LXII. Spinoza to * * * * * (The Hague, October, 1674)." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA GIVES HIS opinions on liberty and necessity.]
 
@@ -1456,7 +1466,7 @@ E. W. von Tschirnhausen
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="070" data-title="LETTER LXIII. * * * * to Spinoza." data-chapter="LETTER LXIII. * * * * to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="LETTER LXIII. * * * * to Spinoza." data-chapter="LETTER LXIII. * * * * to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [THE WRITER EXHORTS Spinoza to publish the treatises on Ethics and on the Improvement of the Understanding. — Remarks on the definition of motion. On the difference between a true and an adequate idea.]
 
@@ -1474,7 +1484,7 @@ The Hague
 
 E. W. von Tschirnhausen
 
-<span class="atom-split" data-atom="071" data-title="LETTER LXIV. Spinoza to * * * * *." data-chapter="LETTER LXIV. Spinoza to * * * * *." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="LETTER LXIV. Spinoza to * * * * *." data-chapter="LETTER LXIV. Spinoza to * * * * *." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [THE DIFFERENCE BETWEEN a true and an adequate idea is merely extrinsic, &c. The Hague, Jan., 1675.]
 
@@ -1492,7 +1502,7 @@ Amsterdam
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="072" data-title="LETTER LXV. G. H. Schaller to Spinoza." data-chapter="LETTER LXV. G. H. Schaller to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="LETTER LXV. G. H. Schaller to Spinoza." data-chapter="LETTER LXV. G. H. Schaller to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SCHALLER ASKS FOR answers to four questions of his friend Tschirnhausen on the attributes of God, and mentions that Tschirnhausen has removed the unfavourable opinion of Spinoza lately conceived by Boyle and Oldenburg.]
 
@@ -1528,7 +1538,7 @@ The Hague
 
 E. W. von Tschirnhausen
 
-<span class="atom-split" data-atom="073" data-title="LETTER LXVI. Spinoza to * * * * *." data-chapter="LETTER LXVI. Spinoza to * * * * *." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="LETTER LXVI. Spinoza to * * * * *." data-chapter="LETTER LXVI. Spinoza to * * * * *." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA ANSWERS BY references to the first three books of the Ethics.]
 
@@ -1558,7 +1568,7 @@ London
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="074" data-title="LETTER LXVII. * * * * to Spinoza." data-chapter="LETTER LXVII. * * * * to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="LETTER LXVII. * * * * to Spinoza." data-chapter="LETTER LXVII. * * * * to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [A FRESH INQUIRY as to whether there are two or more attributes of God.]
 
@@ -1578,7 +1588,7 @@ The Hague
 
 E. W. von Tschirnhausen
 
-<span class="atom-split" data-atom="075" data-title="LETTER LXVIII. Spinoza to * * * * *." data-chapter="LETTER LXVIII. Spinoza to * * * * *." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="LETTER LXVIII. Spinoza to * * * * *." data-chapter="LETTER LXVIII. Spinoza to * * * * *." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [IN THIS FRAGMENT of a letter Spinoza refers his friend to Ethics, I. x. and II. vii. note.]
 
@@ -1596,7 +1606,7 @@ Amsterdam
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="076" data-title="LETTER LXVIII.a. G. H. Schaller to Spinoza." data-chapter="LETTER LXVIII.a. G. H. Schaller to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="LETTER LXVIII.a. G. H. Schaller to Spinoza." data-chapter="LETTER LXVIII.a. G. H. Schaller to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SCHALLER RELATES TO Spinoza Tschirnhausen’s doings in France, and letter to him, and makes known to Spinoza the answers contained in that letter to Spinoza’s objections in Letter LXVIII. and the request of Leibnitz to see Spinoza’s unpublished writings.]
 
@@ -1632,7 +1642,7 @@ The Hague
 
 G. H. Schaller
 
-<span class="atom-split" data-atom="077" data-title="LETTER LXVIII.b. Spinoza to Schaller." data-chapter="LETTER LXVIII.b. Spinoza to Schaller." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="LETTER LXVIII.b. Spinoza to Schaller." data-chapter="LETTER LXVIII.b. Spinoza to Schaller." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA ANSWERS ALL the points in Schaller’s letter, and hesitates to entrust his writings to Leibnitz.]
 
@@ -1654,7 +1664,7 @@ E. W. von Tschirnhausen
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="078" data-title="LETTER LXIX. * * * * to Spinoza." data-chapter="LETTER LXIX. * * * * to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="LETTER LXIX. * * * * to Spinoza." data-chapter="LETTER LXIX. * * * * to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [THE WRITER ASKS for explanations of some passages in the letter about the infinite.]
 
@@ -1672,7 +1682,7 @@ The Hague
 
 E. W. von Tschirnhausen
 
-<span class="atom-split" data-atom="079" data-title="LETTER LXX. Spinoza to * * * * *" data-chapter="LETTER LXX. Spinoza to * * * * *" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="LETTER LXX. Spinoza to * * * * *" data-chapter="LETTER LXX. Spinoza to * * * * *" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA EXPLAINS HIS view of the infinite.]
 
@@ -1692,7 +1702,7 @@ Paris
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="080" data-title="LETTER LXXI. * * * * to Spinoza." data-chapter="LETTER LXXI. * * * * to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="LETTER LXXI. * * * * to Spinoza." data-chapter="LETTER LXXI. * * * * to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [HOW CAN THE variety of the universe be shown à priori from the Spinozistic conception of extension?]
 
@@ -1714,7 +1724,7 @@ The Hague
 
 E. W. von Tschirnhausen
 
-<span class="atom-split" data-atom="081" data-title="LETTER LXXII. Spinoza to * * * *" data-chapter="LETTER LXXII. Spinoza to * * * *" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="LETTER LXXII. Spinoza to * * * *" data-chapter="LETTER LXXII. Spinoza to * * * *" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA GIVES THE required explanation. Mentions the treatise of Huet, &c.]
 
@@ -1738,7 +1748,7 @@ Florence
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="082" data-title="LETTER LXXIII. Albert Burgh to Spinoza. (parte 1)" data-chapter="LETTER LXXIII. Albert Burgh to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="LETTER LXXIII. Albert Burgh to Spinoza. (parte 1)" data-chapter="LETTER LXXIII. Albert Burgh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [ALBERT BURGH ANNOUNCES his reception into the Romish Church, and exhorts Spinoza to follow his example.]
 
@@ -1766,7 +1776,7 @@ If you cannot pronounce on what I have just been enumerating (divining rods, alc
 
 I have written this letter to you with intentions truly Christian; first, in order to show the [love](/concepts/charity) I bear to you, though you are a heathen; secondly, in order to beg you not to persist in converting others.
 
-<span class="atom-split" data-atom="083" data-title="LETTER LXXIII. Albert Burgh to Spinoza. (parte 2)" data-chapter="LETTER LXXIII. Albert Burgh to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="LETTER LXXIII. Albert Burgh to Spinoza. (parte 2)" data-chapter="LETTER LXXIII. Albert Burgh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 I therefore will thus conclude: God is willing to snatch your soul from eternal damnation, if you will allow Him. Do not doubt that the Master, who has called you so often through others, is now calling you for the last time through me, who having obtained grace from the ineffable mercy of God Himself, beg the same for you with my whole heart. Do not deny me. For if you do not now give ear to God who calls you, the wrath of the Lord will be kindled against you, and there is a danger of your being abandoned by His infinite mercy, and becoming a wretched victim of the Divine Justice which consumes all things in wrath. Such a fate may Almighty God avert for the greater glory of His name, and for the salvation of your soul, also for a salutary example for the imitation of your most unfortunate and idolatrous followers, through our Lord and Saviour Jesus Christ, Who with the Eternal Father liveth and reigneth in the Unity of the Holy Spirit, God for all [Eternity](/positions/eternity). Amen.
 
@@ -1782,7 +1792,7 @@ The Hague
 
 Albert Burgh
 
-<span class="atom-split" data-atom="084" data-title="LETTER LXXIV. Spinoza to Albert Burgh. (parte 1)" data-chapter="LETTER LXXIV. Spinoza to Albert Burgh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="LETTER LXXIV. Spinoza to Albert Burgh. (parte 1)" data-chapter="LETTER LXXIV. Spinoza to Albert Burgh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA LAMENTS THE step taken by his pupil, and answers his arguments. The Hague, end of 1675.]
 
@@ -1808,7 +1818,7 @@ The organization of the Roman Church, which you so greatly praise, I confess to 
 
 If, therefore, you had rightly judged, you would have seen that only your third point tells in favour of the Christians, namely, that unlearned and common men should have been able to convert nearly the whole world to a belief in Christ. But this reason militates not only for the Romish Church, but for all those who profess the name of Christ.
 
-<span class="atom-split" data-atom="085" data-title="LETTER LXXIV. Spinoza to Albert Burgh. (parte 2)" data-chapter="LETTER LXXIV. Spinoza to Albert Burgh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="LETTER LXXIV. Spinoza to Albert Burgh. (parte 2)" data-chapter="LETTER LXXIV. Spinoza to Albert Burgh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 But assume that all the reasons you bring forward tell in favour solely of the Romish Church. Do you think that you can thereby prove mathematically the authority of that Church? As the case is far otherwise, why do you wish me to believe that my demonstrations are inspired by the prince of evil spirits, while your own are inspired by God, especially as I see, and as your letter clearly shows, that you have been led to become a devotee of this Church not by your [love](/concepts/charity) of God, but by your fear of hell, the single cause of superstition? Is this your humility, that you trust nothing to yourself, but everything to others, who are condemned by many of their fellow men? Do you set it down to pride and arrogance, that I employ reason and acquiesce in this true Word of God, which is in the mind and can never be depraved or corrupted? Cast away this deadly superstition, acknowledge the reason which God has given you, and follow that, unless you would be numbered with the brutes. Cease, I say, to call ridiculous errors mysteries, and do not basely confound those things which are unknown to us, or have not yet been discovered, with what is proved to be absurd, like the horrible secrets of this Church of yours, which, in proportion as they are repugnant to right reason, you believe to transcend the understanding.
 
@@ -1820,7 +1830,7 @@ Utrecht
 
 Lambert van Velthuysen
 
-<span class="atom-split" data-atom="086" data-title="LETTER LXXV. Spinoza to Lambert van Velthuysen (Doctor of Medicine at Utrecht.)" data-chapter="LETTER LXXV. Spinoza to Lambert van Velthuysen (Doctor of Medicine at Utrecht.)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="LETTER LXXV. Spinoza to Lambert van Velthuysen (Doctor of Medicine at Utrecht.)" data-chapter="LETTER LXXV. Spinoza to Lambert van Velthuysen (Doctor of Medicine at Utrecht.)" data-kind="atom" data-srclang="en" data-tags="figures/spinoza,forms/epistle"></span>
 
 [OF THE PROPOSED annotation of the “Tractatus Theologico-Politicus.”
 

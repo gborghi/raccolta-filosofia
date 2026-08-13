@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An aesthetic fragment on the function of the picture frame: reflection is pure formless colour, and the gilt frame inserts between painting and real surroundings a band of splendour that cuts the threads we stretch between the unreal and the real.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -630,6 +630,10 @@
    "id": "fideism",
    "cap": false
   },
+  "custom": {
+   "id": "custom",
+   "cap": false
+  },
   "das apollinische": {
    "id": "apollonian",
    "cap": false
@@ -804,6 +808,10 @@
   },
   "dubbio metodico": {
    "id": "methodic_doubt",
+   "cap": false
+  },
+  "duty": {
+   "id": "duty_imperative",
    "cap": false
   },
   "dynamis": {
@@ -1108,6 +1116,10 @@
   },
   "free will": {
    "id": "free_will",
+   "cap": false
+  },
+  "freedom": {
+   "id": "freedom",
    "cap": false
   },
   "freedom and necessity": {
@@ -1530,6 +1542,10 @@
    "id": "voluntarism",
    "cap": false
   },
+  "labour": {
+   "id": "labour",
+   "cap": false
+  },
   "labour founds property": {
    "id": "labour_theory_of_property",
    "cap": false
@@ -1902,6 +1918,10 @@
    "id": "money",
    "cap": false
   },
+  "money": {
+   "id": "money",
+   "cap": false
+  },
   "monism": {
    "id": "monism",
    "cap": false
@@ -2262,6 +2282,10 @@
    "id": "jansenism",
    "cap": false
   },
+  "possession": {
+   "id": "property",
+   "cap": false
+  },
   "possesso": {
    "id": "property",
    "cap": false
@@ -2474,6 +2498,10 @@
    "id": "ressentiment",
    "cap": false
   },
+  "revelation": {
+   "id": "revelation",
+   "cap": false
+  },
   "revolt": {
    "id": "revolution",
    "cap": false
@@ -2581,6 +2609,10 @@
   "scommessa": {
    "id": "the_libertine",
    "cap": true
+  },
+  "scripture": {
+   "id": "revelation",
+   "cap": false
   },
   "scrittura": {
    "id": "revelation",

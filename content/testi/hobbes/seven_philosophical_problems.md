@@ -11,8 +11,17 @@ tags:
   - "philosopher/hobbes"
 ---
 
+*Hobbes*
+
 > [!abstract]
 > A collection of inquiries into natural philosophy, the work treats seven physical problems, from gravity and tides to vacuum, heat, and motion, seeking to trace every effect to mechanical causes of motion. Hobbes rejects occult principles and hidden qualities and holds that, since all effects are produced by motion, explaining a phenomenon means showing by what motions it could be produced. Appended geometrical propositions attest to his ideal of demonstrative method.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/method|Metodo]]  
+**Posizioni:** [[positions/materialism|materialismo]], [[positions/geometric_method|metodo geometrico]]  
+**Concetti:** [[concepts/mechanism|meccanicismo]], [[concepts/cause|causa]], [[concepts/nature|natura]]  
+**Forme:** [[forms/treatise|trattato]]
 
 <p class="work-source">Testo originale inglese · Delphi Classics, 2019 · pubblico dominio</p>
 
@@ -95,7 +104,7 @@ Because as it descends, and is already in motion, it receiveth a new impression 
 
 A.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/treatise"></span>
 
 ’Tis true; For it will be accelerated equally in equal times; and the way it makes will encrease in a double proportion to the times, as hath heretofore been demonstrated by Galileo. I see the solution now of an Experiment, which before did not a little puzzle me. You know that if two plummets hang by two strings of equal length, and you remove them from the perpendicular equally, I mean in equal angles, and then let them go, they will make their turns and returns together, and in equal times; And though the arches they describe grow continually less and less, yet the times they spend in the greater arches, will still be equal to the time they spend in the lesser.
 
@@ -203,7 +212,7 @@ What bar is that you find in the Ocean, that stops the current of the water, lik
 
 B.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/treatise"></span>
 
 You know that the main Ocean lies East and West, between India and the Coast of America; and again, on the other side, between America and India. If therefore the Earth have such a motion as I have supposed, it must needs carry the current of the Sea East and West; In which course, the bar that stoppeth it is the South part of America, which leaves no passage for the water, but the narrow Streight of Magellan. The Tide rises therefore upon the Coast of America; And the rising of the same in this part of the world proceedeth from the swelling chiefly of the water there; and partly also from the North Sea, which lieth also East and West, and has a passage out of the South Sea by the Streight of Anian, between America and Asia.
 
@@ -311,7 +320,7 @@ What reason can you render (without supposing Vacuum) of the effects produced in
 
 B.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/treatise"></span>
 
 That Engine produceth the same effects, that a strong wind would produce in a narrow room.
 
@@ -399,7 +408,7 @@ When the Quick-silver is fallen to D, there is so much the more in the bason. An
 
 A.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/treatise"></span>
 
 If a man suck a Vial that has nothing in it but Air, and presently dip the mouth of it into water, the water will ascend into the Vial. Is not that an argument that part of the Air had been sucked out, and part of the room within the Vial left empty?
 
@@ -519,7 +528,7 @@ I confess (though you be not my Confessor,) I have, but very seldom, and I remem
 
 B.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/treatise"></span>
 
 Nothing, but that it was the Wine that caused it; which having a good degree of that Motion before, did when it was Heated in the Veins, give that concussion (which you thought was in the window,) to the Veins themselves, and (by the continuation of the parts of mans Body) to the Brain; and that was it which made the window seem to move.
 
@@ -675,7 +684,7 @@ But has that endeavour no effect at all before the impediment be removed? For if
 
 B.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/treatise"></span>
 
 So it does. For in time (in a long time) the course of this internal Motion will lie along the Bow, not according to the former, but to the new acquired posture. And then it will be as uneasie to return it to its former posture, as it was before to bend it.
 
@@ -753,7 +762,7 @@ If that be the cause, I need not ask how a Bottle of water is made to Freeze in 
 
 B.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/mechanism,concepts/cause,forms/dialogue"></span>
 
 A deep Pit is a very thick Bottle, and such as the Air cannot come at but only at the top, or where the Earth is very loose and spungy.
 
@@ -887,7 +896,7 @@ How do you apply this to a Ship?
 
 B.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/mechanism,concepts/cause,forms/dialogue"></span>
 
 Let A. B. be the Ship, the head of it A. If the Wind blow just from A. towards B. ’tis true, the Ship cannot go forward howsoever the sail be set. Let C. D. be perpendicular to the Ship, and let the Sail E. C. be never so little oblique to it, and F. C. perpendicular to E. C. and then you see the Ship will gain the space D. F. to the headward.
 
@@ -1011,7 +1020,7 @@ Let it be supposed, and withall, that abundance of Earth (which I see you aim at
 
 B.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/treatise"></span>
 
 Then if many pregnant Clouds, some ascending and some descending meet together, and make concavities between, and by the pressing out of the Air, as I have said before, become Ice; those Atomes (as I may call them) of Earth will be by the straining of the Air through the water of the Clouds, be left behind, and remain in the Cavities of the Clouds, and be more in number then for the proportion of the Air therein. Therefore for want of liberty they must needs justle one another, and become (as they are more and more streightened of room) more and more swift, and consequently at last break the Ice suddenly and violently, now in one place, and by and by in another; and make thereby so many claps of Thunder, and so many Flashes of Lightning. For the Air Recoiling upon our Eyes, is that which maketh those Flashes to our Fancy.
 
@@ -1109,7 +1118,7 @@ How comes Refractin?
 
 B.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/treatise"></span>
 
 When the action is in a line Perpendicular to the superficies of the Body wrought upon, there will be no Refraction at all. The action will proceed still in the same straight Line, whether it be Pression as in Light, or in Percussion as in the shooting of a Bullet. But when the Pression is Oblique, then will the Refraction be that way which the Nature of the Bodies through which the Action proceeds shall determin.
 
@@ -1239,7 +1248,7 @@ That does not follow. For though an Arithmetical Calculation be true in Numbers,
 
 A.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/treatise"></span>
 
 Is their Calculation so inconstant, or rather so foolish as you make it?
 
@@ -1373,7 +1382,7 @@ In Arithmetick the numbers consist of so many Units; and are never considered th
 
 A.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/treatise"></span>
 
 Well, but then your Demonstration is not confuted; for the Point Y, will have Latitude enough to take in that little difference which is between the Root of 1681 and the Root of 1682. This putting off an Vuit sometimes for one Line, sometimes for one Square, must needs marr the reckoning. Again he says the Cube of AB. is equal to 8. but seeing AB. is 2, the Cube of AB. must be just equal to four of its own sides; so that the Vnit which was before sometimes a Line, sometimes a Square, is now a Cube.
 

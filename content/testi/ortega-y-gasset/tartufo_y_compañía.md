@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Political column against La Cierva and against Maura, accused of squandering his prestige by returning to power to rebuild a great party artificially in Restoration style. Political journalism, not philosophy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +108,7 @@ Se ci fosse spazio, verrebbe a proposito raccontare ora la crisi del bigliettino
 
 Vero è che la Monarchia ha usato con tutti i suoi uomini, uno dopo l'altro, lo stesso trattamento. Prima li avvicinò al suo seno e poi li annientò con il suo disdegno. Così fu con Moret e poi con Maura; così, in varia misura e successivamente, con i caporioni liberali; così, infine, con il signor Dato. Ora, percorsi tutti, il ciclo si rinnova e vediamo il signor Maura, un tempo espulso, che ora torna al favore, e si consegnano atti e si inviano ai governi di provincia i giovani mauristi che un anno e mezzo fa, non di più, praticavano nel loro Circolo della Carrera esercizi iconoclasti. In verità la Corona ha toccato il colmo degli amori e dei disdegni.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 «Somos monárquicos sin vocación de guardias de corps», decíamos en nuestro programa de nacimiento. No extrañe, pues, que expresemos nuestra leal convicción patriótica con franqueza de viejos castellanos. Estos días hay en torno a Palacio una condensación de tartuferías y se llevan allá muchas palabras de vil adulación por gentes a quienes no interesa el mañana de la Monarquía con tal de que hoy se les deje gozar mando y cordón.
 

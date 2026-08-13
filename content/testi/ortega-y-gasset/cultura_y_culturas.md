@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > History is the attempt to understand others, so one must suspend the absolute validity of one's own culture and admit that others have existed: the plurality of cultures is one and the same as the historical method. He faults Grote and Mommsen for projecting their democratic ideal onto the past and dismisses the neo-Hegelian, neo-Fichtean and neo-Kantian "philosophies of culture" as archaisms.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]], [[assi/time_and_death|Tempo e morte]]  
+**Posizioni:** [[positions/perspectivism|prospettivismo]], [[positions/historicity|storicità]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

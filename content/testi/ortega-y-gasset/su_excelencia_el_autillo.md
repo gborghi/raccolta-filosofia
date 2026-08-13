@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An unsigned article (El Sol, 9 March 1918) against minister La Cierva, likened to the Guadarrama scops owl, a bird of ill omen that harms with neither beak nor claw yet whose presence brings disaster. It charges him with having overseen the elections from government and now mocking the newborn Cortes. Pure newspaper polemic.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

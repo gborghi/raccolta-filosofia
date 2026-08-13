@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A chronological biographical sketch of Juan Luis Vives: Valencia, Paris, Bruges, his relation to Erasmus, the commentaries on the Psalms and the City of God, the book on poor relief, the 'De disciplinis' encyclopedia, poverty and death. A list of dates and works, with no doctrinal development.
 

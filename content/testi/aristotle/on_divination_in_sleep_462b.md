@@ -12,8 +12,16 @@ tags:
   - "philosopher/aristotle"
 ---
 
+*Aristotle*
+
 > [!abstract]
 > Examines whether dreams can genuinely predict the future: it rejects the idea that they are sent by a god (who would not send them to ordinary people) and distinguishes dreams that are a cause, a token, or a mere coincidence of the events they seem to predict.
+
+## Connections
+
+**Concetti:** [[concepts/cause|causa]], [[concepts/fortune|fortuna]]  
+**Forme:** [[forms/treatise|trattato]]  
+**Scuole:** [[schools/lyceum|Liceo (peripatetici)]]
 
 <p class="work-source">Traduzione di J. I. Beare · Delphi Classics, 2013 · pubblico dominio</p>
 
@@ -56,7 +64,7 @@ Nel complesso, poiché anche alcuni degli animali inferiori sognano, si può con
 
 Che molti sogni non abbiano compimento non è strano, poiché così è anche per molti sintomi corporei e segni del tempo, per esempio quelli di pioggia o di vento. Se infatti sopraggiunge un altro movimento più influente di quello da cui, mentre [l'evento a cui esso tendeva era] ancora futuro, il dato segno fu tratto, l'evento [a cui tale segno tendeva] non ha luogo. Così, delle cose che devono essere compiute mediante l'azione umana, molte, benché ben pianificate, sono per l'operare di altri principî più potenti [dell'azione umana] ridotte a nulla. Poiché, parlando in generale, ciò che stava per accadere non è in ogni caso ciò che ora accade, né ciò che sarà in seguito è identico a ciò che ora sta per essere. Tuttavia, dobbiamo ritenere che gli inizi da cui, come abbiamo detto, non segue alcun compimento, sono inizi reali, e questi costituiscono segni naturali di certi eventi, anche se gli eventi non vengono a compimento.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/fortune,forms/treatise,schools/lyceum"></span>
 
 As for [prophetic] dreams which involve not such beginnings [sc. of future events] as we have here described, but such as are extravagant in times, or places, or magnitudes; or those involving beginnings which are not extravagant in any of these respects, while yet the persons who see the dream hold not in their own hands the beginnings [of the event to which it points]: unless the foresight which such dreams give is the result of pure coincidence, the following would be a better explanation of it than that proposed by Democritus, who alleges ‘images’ and ‘emanations’ as its cause. As, when something has caused motion in water or air, this [the portion of water or air], and, though the cause has ceased to operate, such motion propagates itself to a certain point, though there the prime movement is not present; just so it may well be that a movement and a consequent sense-perception should reach sleeping souls from the objects from which Democritus represents ‘images’ and ‘emanations’ coming; that such movements, in whatever way they arrive, should be more perceptible at night [than by day], because when proceeding thus in the daytime they are more liable to dissolution (since at night the air is less disturbed, there being then less wind); and that they shall be perceived within the body owing to sleep, since persons are more sensitive even to slight sensory movements when asleep than when awake. It is these movements then that cause ‘presentations’, as a result of which sleepers foresee the future even relatively to such events as those referred to above. These considerations also explain why this experience befalls commonplace persons and not the most intelligent. For it would have regularly occurred both in the daytime and to the wise had it been God who sent it; but, as we have explained the matter, it is quite natural that commonplace persons should be those who have foresight [in dreams]. For the mind of such persons is not given to thinking, but, as it were, derelict, or totally vacant, and, when once set moving, is borne passively on in the direction taken by that which moves it. With regard to the fact that some persons who are liable to derangement have this foresight, its explanation is that their normal mental movements do not impede [the alien movements], but are beaten off by the latter. Therefore it is that they have an especially keen perception of the alien movements.
 

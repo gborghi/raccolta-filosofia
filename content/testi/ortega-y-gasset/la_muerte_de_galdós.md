@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An unsigned press note on Galdós's death: official Spain was absent from the popular mourning, and the belated decree equating Galdós with Campoamor is cold and merely protocolary. Journalism, not philosophy.
 

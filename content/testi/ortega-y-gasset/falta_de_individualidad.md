@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A page of historical psychology on Egypt: the Egyptian soul is collective, not individual. Its general thesis, against received psychology, is that the soul's periphery — the social self — forms first, and that the group thinks and feels in each subject; Egyptian painting and the tale of Sinuhe confirm the absence of individuation.
+
+## Connections
+
+**Concetti:** [[concepts/self_consciousness|autocoscienza]], [[concepts/soul|anima]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

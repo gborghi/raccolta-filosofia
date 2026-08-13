@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Expository fragment on Herbart's metaphysics: Synecology treats space, time, matter and motion as forms of the problem of continuity, grounding the apparent world in the real. A technical note within the Herbart study.
+> A very short section (201 words) with no sample in the digest. Its title and place in the series (a Methodology, b Ontology) indicate the third part of the exposition of Herbart's system, but the content cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

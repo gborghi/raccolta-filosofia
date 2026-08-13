@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A polemic against an Azorín article dismissing Haeckel, Anatole France and Maeterlinck as a «collection of frauds». Ortega prefaces it with a brief thesis on respect as the socializing virtue par excellence and a religious emotion (from religare), and answers Azorín's gesture with the «manly blush» provoked by an act of barbarism.
+
+## Connections
+
+**Concetti:** [[concepts/religion|religione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +79,7 @@ Io non posso simpatizzare con la filosofia di Haeckel: la considero erronea, rit
 
 Mi si perdoni una riconoscente reminiscenza se in questo istante attraversa la mia memoria la figura severa e bella di Radl che spiegava, laggiù, sotto la triste luce di quell'anfiteatro, nell'Istituto di Anatomia di Lipsia, la storia delle ossa di un cranio che aveva posto nelle mie mani. Già mi sono dimenticati i nomi di quelle ossa: probabilmente porto sulle spalle altri uguali; ho dimenticato parimenti tutta l'osteologia che, a dir vero, non imparai mai. Ma ricordo ancora la voce di Radl che diceva semplicemente che il cranio di Kant, dell'uomo più saggio e virtuoso, è uno dei più ampi e capaci studiati, così come uno dei più minuscoli è quello pulito e bianco di una certa cortigiana alessandrina che chiamavano Glykera, la Dolce.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/religion,forms/essay"></span>
 
 En cuanto al «farsante» Anatole France… nadie que conozca un poco la técnica literaria ignora que sin el aprendizaje de su prosa y de la de Flaubert, Azorín no hubiera escrito las páginas realmente sólidas que pueden sacarse de entre sus antiguos libros. Se trata, pues, por lo pronto de un filial desagradecimiento. Mas, fuera de esto, comete aquí Azorín una grave falta de respeto humano. El dominio de un arte, como el de una ciencia, supone un esfuerzo dolorosísimo: años de labor, renunciamientos, vida austera y recogida. La perfección no viene lograda del cielo: el cielo pone sólo en los elegidos el ansia de ella, y junto a este ansia poderes de virtud para conquistarla. Si algún dato de la firmeza moral de un alma podemos tener, es justamente éste de haber dado cima a la ruda conquista de una perfección. Anatole France vivió muchos años preparándose, huyendo todo fácil triunfo: hoy mismo, dueño de un nombre universal, conduce en el ruido de París sus días luminosos de ateniense desterrado a la manera de los antiguos sabios de la Academia pirrónica. Su escepticismo es inaceptable y es, teóricamente, una incapacidad de pensar lo abstracto. Su genialidad es plástica y política. Sí, política; porque Azorín ha callado que el escepticismo de France tiene un límite. El escepticismo en teoría no sería inmoral: en práctica, sí. Ahora bien; a France se debe en gran parte un hecho ilustre y ejemplar, un [caso](/concepts/fortune) prodigioso que fue como una comprobación empírica de que la moralidad no es un pío deseo, sino una realidad de carne y hueso sobre la tierra. La revindicación de Dreyfus es el timbre moral de Anatole France: a él se debió en parte que hayamos visto a un pueblo entero desdecirse, reconocer un error cometido y restablecer la justicia con ocasión de un mísero e ínfimo individuo trastornada. Éste, este mismo Anatole France es uno de los «farsantes».
 

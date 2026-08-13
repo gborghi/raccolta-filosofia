@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A critical analysis of syndicalism: unlike socialism, which is at once democratic and liberal, it wants a society with no State and no public power, organized by trade unions. Ortega objects that the coal union would in fact exercise coercion: abolishing public power does not abolish the State, it revives the arbitrary State of the absolute kings. It is antiliberal and antidemocratic.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/labour|lavoro]], [[concepts/freedom|libertà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

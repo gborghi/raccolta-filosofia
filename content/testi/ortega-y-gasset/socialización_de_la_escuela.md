@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > If society is cooperation, its members must be workers: here democracy sharpens into socialism, and to socialize man is to make him a worker in culture. Hence the ethical value of social pedagogy and the condemnation of the double school, one for the rich and one for the poor, which breaks human unity by dividing men into cultured and uncultured. It closes with Plato: 'let us make education the citadel of the State'.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

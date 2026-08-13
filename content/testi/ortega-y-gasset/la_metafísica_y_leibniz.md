@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A tribute to the Monadology as the only philosophical system expoundable in a few pages, an epitome of ninety theses working like clockwork. Ortega uses Leibniz's clarity to challenge the cliché of Greek clarity — Plato is today pure mystery, Aristotle remains partly hermetic — and argues that good metaphysics is pocket-sized because it is made of definitions and arguments, not verbal tirades.
+
+## Connections
+
+**Figure:** [[figures/leibniz|Leibniz]], [[figures/plato|Platone]], [[figures/aristotle|Aristotele]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

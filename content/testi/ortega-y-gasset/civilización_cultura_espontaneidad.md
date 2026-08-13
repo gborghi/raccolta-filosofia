@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The sample begins in mid-argument ("Translating this example from the physical to the psychic order"), which shows the opening example is missing. Ortega distinguishes three classes of spiritual activity: civilisation (the use of mechanisms and techniques), culture (scientific thought, morality, artistic creation) and the psyche's original impulses — courage, curiosity, imagination, memory — which are their root. Hence a pedagogical thesis: elementary school must foster that primary spontaneous life, educating not for life already made but for creative life, natura naturans before natura naturata.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]], [[concepts/nature|natura]], [[concepts/will|volontà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

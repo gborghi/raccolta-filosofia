@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A long essay on the theory of love as "crystallisation" in De l'amour: Stendhal, like Baroja, has many theories and for that reason is no theorist — the philosopher has only one, because the real is formidably one. Ortega locates the doctrine in the European nineteenth century and shows its two faces, idealism and pessimism: it is idealist because it makes the beloved object a mere projection of the subject, so that love turns out not blind but visionary, an error by essence.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]]  
+**Posizioni:** [[positions/idealism|idealismo]]  
+**Concetti:** [[concepts/passion|passione]], [[concepts/idea|idea]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +118,7 @@ Stendhal è uno di questi amatori dell'amore. Nel suo libro recente sulla Vita a
 
 Ci sono due classi di teorie sull'amore. Una di esse contiene dottrine convenzionali, puri luoghi comuni che si ripetono senza previa intuizione delle realtà che enunciano. L'altra comprende nozioni più sostanziose, che provengono dall'esperienza personale. Così, in ciò che concettualmente opiniamo sull'amore si disegna e rivela il profilo dei nostri amori.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/idealism,concepts/passion,concepts/idea,figures/socrates,forms/essay"></span>
 
 En el [caso](/concepts/fortune) de Stendhal no hay duda alguna. Se trata de un hombre que ni verdaderamente amó ni, sobre todo, verdaderamente fue amado. Es una vida llena de falsos amores. Ahora bien: de los falsos amores sólo puede quedar en el alma la melancólica advertencia de su falsedad, la experiencia de su evaporación. Si se analiza y se descompone la teoría stendhaliana, se ve claramente que ha sido pensada del revés; quiero decir que el hecho culminante en el amor es para Stendhal su conclusión. ¿Cómo explicar que el amor concluya si el objeto amado permanece idéntico? Sería preciso más bien suponer —como hizo Kant en la teoría del conocimiento— que nuestras emociones eróticas no se regulan por el objeto hacia que van, sino, al contrario: que el objeto es elaborado por nuestra apasionada fantasía. El amor muere porque su nacimiento fue una equivocación.
 
@@ -204,7 +214,7 @@ mérite de vives attaques
 
 Le ore di felicità trascorrono rapidamente, senza ritorno possibile. Chateaubriand si allontana per non tornare o poco meno: naviga già verso nuove isole d'amore. Passano i mesi, gli anni. La Marchesa di Custine si avvicina ai settanta. Un giorno mostra il castello a un visitatore. Quando questi giunge alla stanza del grande caminetto, dice: «Dunque questo è il luogo dove Chateaubriand era ai suoi piedi?» E lei, pronta, stupita e come offesa: «Ah, no, signore, no; io ai piedi di Chateaubriand!»
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/idealism,concepts/passion,concepts/idea,figures/socrates,forms/essay"></span>
 
 Este tipo de amor en que un ser queda adscrito de una vez para siempre y del todo a otro ser —especie de metafísico injerto— fue desconocido para Stendhal. Por eso cree que es esencial a un amor su consunción, cuando probablemente la verdad está más cerca de lo contrario. Un amor pleno, que haya nacido en la raíz de la persona, no puede verosímilmente morir. Va inserto por siempre en el alma sensible. Las circunstancias —por ejemplo, la lejanía— podrán impedir su necesaria nutrición, y entonces ese amor perderá volumen, se convertirá en un hilillo sentimental, breve vena de emoción que seguirá manando en el subsuelo de la conciencia. Pero no morirá: su calidad sentimental perdura intacta. En ese fondo radical, la persona que amó se sigue sintiendo absolutamente adscrita a la amada. El azar podrá llevarla de aquí para allá en el espacio físico y en el social. No importa: ella seguirá estando junto a quien ama. Éste es el síntoma supremo del verdadero amor: estar al lado de lo amado, en un contacto y proximidad más profundos que los espaciales. Es un estar vitalmente con el otro. La palabra más exacta, pero demasiado técnica, sería ésta: un estar ontológicamente con el amado, fiel al destino de éste, sea el que sea. La mujer que ama al ladrón, hállese ella —con el cuerpo dondequiera, está con el sentido en la cárcel.
 
@@ -270,7 +280,7 @@ Un'osservazione capitale è qui di urgenza. Non si è mai distinto sufficienteme
 
 L'istinto sessuale assicura, forse, la conservazione della specie, ma non il suo perfezionamento. Invece, l'autentico amore sessuale, l'entusiasmo verso un altro essere, verso la sua anima e verso il suo corpo, in indissolubile unità, è per se stesso, originariamente, una forza gigantesca incaricata di migliorare la specie. In luogo di preesistere al suo oggetto, nasce sempre suscitato da un essere che appare dinanzi a noi, e di quell'essere è qualche qualità egregia ciò che spara il processo erotico.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/idealism,concepts/passion,concepts/idea,figures/socrates,forms/essay"></span>
 
 Apenas comienza éste, experimenta el amante una extraña urgencia de disolver su individualidad en la del otro, y, viceversa, absorber en la suya la del ser amado. ¡Misterioso afán! Mientras en todos los otros casos de la vida nada repugnamos tanto como ver invadidas por otro ser las fronteras de nuestra existencia individual, la delicia del amor consiste en sentirse metafísicamente poroso para otra individualidad, de suerte que sólo en la fusión de ambas, sólo en una «individualidad de dos», halla satisfacción. Recuerda esto la doctrina de los saint-simonianos, según la cual, el verdadero individuo humano es la pareja hombre-mujer. Sin embargo, no para en esto el anhelo de fusión. Cuando el amor es plenario, culmina en un deseo más o menos claro de dejar simbolizada la unión en un hijo en quien se prolonguen y afirmen las perfecciones del ser amado. Este tercer elemento, precipitado del amor, parece recoger con toda pureza su esencial sentido. El hijo ni es del padre ni es de la madre: es unión de ambos personificada y es afán de perfección modelado en carne y en alma. Tenía razón el ingenuo Platón: el amor es anhelo de engendrar en lo perfecto, o como otro platónico, Lorenzo de Médicis, había de decir: es appetito di [bellezza](/concepts/beauty).
 
@@ -348,7 +358,7 @@ Un vocabolo è equivoco quando con esso denominiamo cose che non hanno tra loro 
 
 L'amore, parlando strettamente[68], è pura attività sentimentale verso un oggetto, che può essere qualunque, persona o cosa. A forza di attività «sentimentale», resta, da una parte, separato da tutte le funzioni intellettuali —percepire, attendere, pensare, ricordare, immaginare—; dall'altra parte, dal desiderio con cui spesso lo si confonde. Si desidera, quando c'è sete, un bicchiere d'acqua; ma non lo si ama. Nascono, senza dubbio, dall'amore desideri; ma l'amore stesso non è desiderare. Desideriamo ventura alla patria e desideriamo vivere in essa «perché» la amiamo. Il nostro amore è previo a quei desideri, che nascono da esso come la pianta dal seme.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/idealism,concepts/passion,concepts/idea,figures/socrates,forms/essay"></span>
 
 A fuer de «actividad» sentimental, el amor se diferencia de los sentimientos inertes, como alegría o tristeza. Son éstos a manera de una coloración que tiñe nuestra alma. Se «está» triste o se «está» alegre, en pura pasividad. La alegría, por sí, no contiene actuación ninguna, aunque pueda llevar a ella. En cambio, amar algo no es simplemente «estar», sino actuar hacia lo amado. Y no me refiero a los movimientos físicos o espirituales que el amor provoca, sino que el amor es de suyo, constitutivamente, un acto transitivo en que nos afanamos hacia lo que amamos. Quietos, a cien leguas del objeto, y aun sin que pensemos en él, si lo amamos, estaremos emanando hacia él una fluencia indefinible, de carácter afirmativo y cálido. Esto se advierte con claridad si confrontamos el amor con el odio. Estar odiando algo o alguien no es un «estar» pasivo, como el estar triste, sino que es, en un algún modo, acción, terrible acción negativa, idealmente destructora del objeto odiado. Esta advertencia de que hay una actividad sentimental específica, distinta de todas las actividades corporales y de todas las demás del espíritu, como la intelectual, la del deseo y de la volición, me parece de una importancia decisiva para una fina psicología del amor. Cuando se habla de éste, casi siempre se describen sus consecuencias o concomitancias, sus motivos generadores o sus resultados. Casi nunca se coge con las pinzas del análisis el amor mismo, en lo que tiene de peculiar y distinto de la restante fauna psíquica.
 
@@ -432,7 +442,7 @@ Ebbene: io credo che l'«innamoramento» sia un fenomeno dell'attenzione, uno st
 
 Già il fatto iniziale dell'«innamoramento» lo mostra. Nella società si trovano fronte a fronte molte donne e molti uomini. In stato d'indifferenza, l'attenzione di ogni uomo —come di ogni donna— si sposta dall'uno all'altro sopra i rappresentanti del sesso contrario. Ragioni di antica simpatia, di maggiore prossimità, eccetera, faranno che quell'attenzione della donna si fermi un poco più sopra questo maschio che sopra l'altro; ma la sproporzione tra l'attendere a uno e il disattendere gli altri non è grande. Per dir così —e salve quelle piccole differenze—, tutti gli uomini che la donna conosce sono a uguale distanza attenzionale da lei, in fila retta. Ma un giorno questa ripartizione egualitaria dell'attenzione cessa. L'attenzione della donna propende a fermarsi da sé sopra uno di quegli uomini e presto le costa uno sforzo staccare da lui il suo pensiero, mobilitare verso altri o altre cose la preoccupazione. La fila rettilinea si è rotta: uno dei maschi resta spiccato, a minore distanza attenzionale da quella donna.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/idealism,concepts/passion,concepts/idea,figures/socrates,forms/essay"></span>
 
 El «enamoramiento», en su iniciación, no es más que eso: atención anómalamente detenida en otra persona. Si ésta sabe aprovechar su situación privilegiada y nutre ingeniosamente aquella atención, lo demás se producirá con irremisible mecanismo. Cada día se hallará más adelantado sobre la fila de los otros, de los indiferentes; cada día desalojará mayor espacio en el alma atenta. Ésta se irá sintiendo incapaz de desatender a aquel privilegiado. Los demás seres y cosas serán poco a poco desalojados de la conciencia. Dondequiera que la «enamorada» esté, cualquiera que sea su aparente ocupación, su atención gravitará por el propio peso hacia aquel hombre. Y, viceversa, le costará una gran violencia arrancarla un momento de esa dirección y orientarla hacia las urgencias de la vida. San Agustín vio sagazmente este ponderar espontáneo hacia un objeto que es característico del amor. Amor meus, pondus meum: illo feror, quocumque feror. («Mi amor es mi peso: por él voy dondequiera que voy»).
 
@@ -552,7 +562,7 @@ La differenza, tuttavia, è radicale. Nell'innamoramento, l'attenzione si fissa 
 
 Una psicologia delicata di questo fenomeno descriverebbe qui una curiosa situazione a doppio fascio, in cui attendiamo, a un tempo, di grado e senza remissione.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/idealism,concepts/passion,concepts/idea,figures/socrates,forms/essay"></span>
 
 Entendido con sutileza, puede decirse que todo el que se enamora es que quiere enamorarse. Esto distancia el enamoramiento, que es, a la postre, un fenómeno normal, de la obsesión, que es un fenómeno patológico. El obseso no se «fija» en su idea por propia inclinación. Lo horrible de su estado es precisamente que, siendo suya la idea, aparece en su interior con el carácter de feroz imposición ajena, emanada de un «otro» anónimo e inexistente.
 
@@ -678,7 +688,7 @@ Il misticismo è anche un fenomeno dell'attenzione.
 
 La prima cosa che ci propone la tecnica mistica è che fissiamo la nostra attenzione in qualcosa. In che cosa? La tecnica estatica più rigorosa, sapiente e illustre, che è lo Yoga, scopre ingenuamente il carattere meccanico di quanto accadrà poi, perché a quella domanda ci risponde: in qualunque cosa. Non è, dunque, l'oggetto ciò che qualifica e ispira il processo, ma serve soltanto di pretesto perché la mente entri in una situazione anormale. In effetti, bisogna attendere a qualcosa semplicemente come mezzo per disattendere tutto il resto del mondo. La via mistica comincia con l'evacuare dalla nostra coscienza la pluralità di oggetti che in essa suole esservi e che permette il normale movimento dell'attenzione. Così, in San Giovanni della Croce, il punto di partenza per ogni avanzamento ulteriore è «la casa quieta». Ottundere gli appetiti e le curiosità: «un grande distacco da tutto» —dice Santa Teresa—, «uno strappo dell'anima»; cioè, tagliare le radici e i legamenti dei nostri interessi mondani, plurali, al fine di poter restare «imbevuti» (Santa Teresa) in una sola cosa. Identicamente l'indù porrà come condizione all'ingresso del misticismo: nanatvan na pasyati —non vedere moltitudine, diversità.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/idealism,concepts/passion,concepts/idea,figures/socrates,forms/essay"></span>
 
 Esta operación de espantar las cosas entre que va y viene de sólito nuestro atender se consigue por pura fijación de la mente. En la India se llamó kasina este ejercicio, que puede valerse de cualquiera cosa. Por ejemplo: el meditador se fabrica un disco de barro, se sienta cerca de él y fija en él la mirada. O bien desde una altura mira correr un arroyo o contempla un charco donde la luz se refleja. O bien enciende fuego, pone ante él una pantalla, donde abre un agujero, y mira la lumbre a su través, etcétera, etcétera. Se busca el mismo efecto de máquina neumática a que antes me he referido, merced al cual los enamorados se «sorben los sesos» el uno al otro.
 
@@ -732,7 +742,7 @@ Questa situazione superlativa trova la sua compagna nell'evoluzione dell'«innam
 
 È lo «stato di grazia» comune all'innamorato e al mistico[72]. Questa vita e questo mondo, né in bene né in male li toccano; hanno cessato di essere questione per loro. Nella situazione normale, le cose che facciamo e patiamo, per toccare il più intimo di noi, ci si convertono in problemi, ci angustiano e assediano. Per questo sentiamo la nostra propria esistenza come un peso che sosteniamo a fatica, affannosamente. Ma se trasportiamo questo nucleo intimo in un'altra regione e in un altro essere, fuori del mondo, ciò che in questo ci accada resta svuotato e senza efficacia su di noi, come sospeso in una parentesi. Camminando tra le cose ci sentiamo privi di gravità. Come se vi fossero due mondi di dimensioni distinte, ma compenetrabili, il mistico vive nel terreno soltanto in apparenza; dove veramente sta è nell'altro, regione a parte che abita lui solo con Dio. Deum et animan. Nihilne plus? Nihil omnino —dice Sant'Agostino. E ugualmente l'innamorato transita tra noi, senza che valiamo ad altra cosa che a sfiorare la periferia della sua sensibilità. Egli ha, in anticipo e —crede— per sempre, la sua vita risolta.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/idealism,concepts/passion,concepts/idea,figures/socrates,forms/essay"></span>
 
 En el «estado de gracia» —sea místico o sea erótico—, la vida pierde peso y acritud. Con la generosidad de un gran señor, sonríe el feliz a cuanto le rodea. Pero la generosidad del gran señor es siempre módica y no supone esfuerzo. Es una generosidad muy poco generosa; en rigor, originada en desdén. El que se cree de una naturaleza superior acaricia «generosamente» los seres de orden inferior que no le pueden nunca hacer daño por la sencilla razón de que «no se trata» con ellos, no convive con ellos. El colmo del desdén consiste en no dignarnos descubrir los defectos del prójimo, sino, desde nuestra altura inaccesible, proyectar sobre ellos la luz favorable de nuestro bienestar. Así, para el místico y el amante correspondido, todo es bonito y gracioso. Es que al volver, tras su etapa de absorción, a mirar las cosas, las ve, no en ellas mismas, sino reflejadas en lo único que para él existe: Dios o lo amado. Y lo que les falta de gracia lo añade espléndido el espejo donde las contempla. Así Eckhart: el que ha renunciado a las cosas, las vuelve a recibir en Dios, como el que se vuelve de espaldas al paisaje lo encuentra reflejado, incorpóreo, en la tersa y prestigiosa superficie del lago. O bien los versos famosos de nuestro San Juan de la Cruz:
 
@@ -888,7 +898,7 @@ Maggior profitto possiamo trarre dalle note con cui caratterizza lo stato psichi
 
 Si noti che tutti questi attributi possono, senza riserva, trasferirsi all'innamoramento. Anche questo —già lo osservammo— è sempre «voluto» e implica un desiderio di consegnarsi e riposare nell'altro essere, desiderio che è già di per sé delizioso. Quanto alla ricaduta in uno stato mentale di relativa infantilità, significa lo stesso che ho chiamato «restringimento dello spirito», contrazione e impoverimento del campo attenzionale.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,positions/idealism,concepts/passion,concepts/idea,figures/socrates,forms/essay"></span>
 
 Es incomprensible que Schilder no aluda siquiera al mecanismo de la atención como al más obvio factor de la hipnosis, siendo así que la técnica hipnótica consiste principalmente en un retraimiento del atender sobre un objeto: un espejo, una punta de diamante, una luz, etcétera. Por otra parte, una comparación entre los diferentes tipos de personalidad, en orden a su capacidad de hipnosis, muestra máxima coincidencia con la escala que de esos mismos tipos formaríamos en orden a su aptitud para enamorarse.
 

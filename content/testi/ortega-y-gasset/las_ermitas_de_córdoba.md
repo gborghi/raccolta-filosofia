@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A travel sketch: the hermitages of Córdoba as a "factory of solitude", with cypresses, white cells, the two paintings of the soul in torment and the soul in grace, the silence and the bells. There the passions become intellectualised — "a theory always hurts less than a love". Lyrical prose, not philosophy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

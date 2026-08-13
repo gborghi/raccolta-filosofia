@@ -11,8 +11,17 @@ tags:
   - "philosopher/hobbes"
 ---
 
+*Hobbes*
+
 > [!abstract]
 > Cast as a dialogue between two speakers, the work defines philosophy as the knowledge of natural causes and displays its method through the examination of phenomena such as gravity, heat, light, and tides. Hobbes ridicules the pseudo-explanations of the Schools grounded on occult qualities, sympathies, and antipathies, empty words amounting to an I cannot tell. Every effect is instead to be traced to the motion of matter, according to a consistently mechanistic and materialist physics.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/method|Metodo]]  
+**Posizioni:** [[positions/materialism|materialismo]], [[positions/geometric_method|metodo geometrico]]  
+**Concetti:** [[concepts/mechanism|meccanicismo]], [[concepts/cause|causa]], [[concepts/nature|natura]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Testo originale inglese · Delphi Classics, 2019 · pubblico dominio</p>
 
@@ -27,7 +36,7 @@ B.
 
 I doubt not, but what so many do so highly praise must be very admirable, and what is derided and scorn’d by many, foolish and ridiculous. The honour and scorn falleth finally not upon Philosophy, but upon the Professors. Philosophy is The knowledge of Natural Causes. And there is no Knowledge but of Truth. And to know the true Causes of things, was never in contempt, but in admiration. Scorn can never fasten upon Truth. But the difference is all in the Writers and Teachers. Whereof some have neither studied, nor care for it, otherwise than as a Trade to maintain themselves or gain Preferment; and some for Fashion, and to make themselves fit for ingenious Company: and their study hath not been meditation, but acquiescence in the Authority of those Authors whom they have heard commended. And some (but few) there be, that have studied it for Curiosity, and the delight which commonly men have in the acquisition of Science, and in the mastery of difficult and subtil Doctrines. Of this last sort I count [Aristotle](/figures/aristotle), and a few others of the Ancients, and some few Moderns: and to these it is that properly belong the Praises which are given to Philosophy.
 
-<span class="atom-split" data-atom="002" data-title="A. (parte 1)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="A. (parte 1)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 If I have a minde to study (for example Natural Philosophy) must I then needs read [Aristotle](/figures/aristotle), or some of those that now are in request?
 
@@ -105,7 +114,7 @@ No doubt, the Emperour: For he onely had the Sword.
 
 B.
 
-<span class="atom-split" data-atom="003" data-title="A. (parte 2)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="A. (parte 2)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 When the Swords are in the hands of men, whether had you rather command the Men or the Swords?
 
@@ -197,7 +206,7 @@ THIS History of the old Philosophers has not put me out of [love](/concepts/char
 
 B.
 
-<span class="atom-split" data-atom="004" data-title="A. (parte 3)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="A. (parte 3)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 Your desire (you say) is to know the Causes of the Effects or Phaenomena of Nature; and you confess they are Fancies, and (consequently) that they are in your self; so that the Causes you seek for onely are without you, and now you would know how those external Bodies work upon you to produce those Phaenomena. The beginning therefore of your enquiry ought to be at What it is you call a Cause, I mean an [Efficient Cause](/concepts/four_causes): For the Philosophers make four kindes of Causes, whereof the Efficient is one. Another they call the Formal Cause, or simply the form or essence of the thing caused; as when they say, Four equal Angles and four equal Sides are the Cause of a Square Figure, or that Heaviness is the Cause that makes heavie Bodies to descend. But that’s not the Cause you seek for, nor any thing but this: It descends because it descends. The third is the Material Cause, as when they say, The Walls and Roof, &c. of a house, are the cause of a House. The fourth is the Final Cause, and hath place onely in Moral Philosophy.
 
@@ -331,7 +340,7 @@ But what mean you by resistance?
 
 B.
 
-<span class="atom-split" data-atom="005" data-title="A. (parte 4)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="A. (parte 4)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 Resistance is the Motion of a Body in a way wholly or partly contrary to the way of its Movent, and thereby repelling or retarding it. As when a man runs swiftly, he shall feel the Motion of the Air in his face. But when two hard Bodies meet, much more may you see how they abate each others Motion, and rebound from one another. For in a space already full, the Movent cannot, in an instant, be communicated through the whole depth of the Body that is to be moved.
 
@@ -429,7 +438,7 @@ Yes, I conceive you well enough. What follows?
 
 A.
 
-<span class="atom-split" data-atom="006" data-title="A. (parte 5)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="A. (parte 5)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 The Quicksilver will descend in the Cylinder, not till it be level with that in the Bason according to the nature of heavie Fluids, but stay and stand above it at the height of 29 inches or very neer it, the bottom being now uppermost that no Air can get in.
 
@@ -577,7 +586,7 @@ A.
 
 B.
 
-<span class="atom-split" data-atom="007" data-title="A. (parte 6)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="A. (parte 6)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 You see by this, that this Parallel-motion is compounded of two Motions, one Circular upon the Superficies of a Sphere, the other a streight Motion from the Centre to every point of the same Superficies, and beyond it.
 
@@ -683,7 +692,7 @@ That’s time enough: For I intend it for our next meeting. In the mean time I p
 
 B.
 
-<span class="atom-split" data-atom="008" data-title="A. (parte 7)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="A. (parte 7)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/cause,forms/dialogue"></span>
 
 The cause of that can be no other, than that the Earth (which is l m) hath the like Motion to that which I suppose the Sun to have in L M, compounded of streight and circular from West to East in a day, as the Annual Motion hath in a year; so that (not reckoning the Excentricity) it will be moved through the Ecliptiques one [Revolution](/positions/revolution) (as Copernicus proveth) about one degree. Suppose then the whole Earth moved from H to I, (which is half the year) circularly, but falling from I to i in the same time about 30 minutes, and as much in the other Hemisphere from H to k; then draw the line i k, which will be equal and parallel to H I, and be the Diameter of the Aequator for the next year. But it shall not cut the Diameter of the Ecliptick B Z in A, which was the Equinoctial of the former year, but in o 36 seconds from the first degree of Aries. Suppose the same done in the Hemisphere under the Plain of the paper, and so you have the double of 36 seconds, that is 72 seconds, or very neer, for the [progress](/positions/progress) of the Vernal Equinox in a year. The cause why I suppose the Arch I i to be half a degree in the Ecliptique of the Earth, is, that Copernicus and other Astronomers, and Experience, agree in this, that the Aequinoctial points proceed according to the order of the Signes, Aries, Taurus, Gemini, &c. from West to East every 100 year one degree or very neer.
 
@@ -757,7 +766,7 @@ But I think it impossible to distinguish where the part illuminate toucheth the 
 
 B.
 
-<span class="atom-split" data-atom="009" data-title="A. (parte 8)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="A. (parte 8)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 Another way is this: Upon the Aequinoctial-day, with a Watch that shews the minutes standing by you, observe when the lower brim of the Suns setting first comes to the Horizon, and set the Index to some minute of the Watch; and observe again the upper brim when it comes to the Horizon: then count the minutes, and you have what you look for. Other way I know none.
 
@@ -871,7 +880,7 @@ A.
 
 B.
 
-<span class="atom-split" data-atom="010" data-title="A. (parte 9)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="A. (parte 9)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 I have tried and found both the Sound and Motion; and do not doubt but the pressure of the parts of the Glass was part of the Cause. But the Motion of my finger about the Glass was always parallel; and when it chanced to be otherwise, both Sound and Motion ceased.
 
@@ -979,7 +988,7 @@ None.
 
 B.
 
-<span class="atom-split" data-atom="011" data-title="A. (parte 10)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="A. (parte 10)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="positions/atomism,positions/materialism,concepts/anger,concepts/mechanism,figures/aristotle"></span>
 
 How then can you infer your heat from the Sense of Feeling? Your walking may have made you hot: Is Motion therefore hot? No. You are to consider the Concomitants of your heat; as, that you are more faint, or more ruddy, or that you sweat, or feel some Endeavour of Moisture or Spirits tending outward; and when you have found the Causes of those Accidents, you have found the Causes of Heat, which in a living Creature, and specially in a Man, is many times the Motion of the parts within him, such as happen in sickness, [anger](/concepts/anger), and other passions of the minde; which are not in the Sun nor in Fire.
 
@@ -1069,7 +1078,7 @@ A.
 
 B.
 
-<span class="atom-split" data-atom="012" data-title="A. (parte 11)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="A. (parte 11)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="positions/materialism,concepts/mechanism,concepts/cause,forms/dialogue"></span>
 
 When the Air shaves the Globe of the Earth with such swiftness, as that of Sixty miles in a minute of an hour, it cannot (where it meets with still water) but beat it up into small and undistinguishable bubbles, and involve it self in them as in so many bladders or skins of Water. And Ice is nothing else but the smallest imaginable parts of Air and Water mixt; which is made hard by this compounded Motion, that keeps the parts so close together, as not to be separated in one place without disordering the Motion of them all. For when a Body will not easily yield to the impression of an external Movent in one place without yielding in all, we call it Hard; And when it does, we say ’tis Soft.
 
@@ -1151,7 +1160,7 @@ This I understand, and that it may cause Ice. But when the Ice is made, how is i
 
 B.
 
-<span class="atom-split" data-atom="013" data-title="A. (parte 12)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="A. (parte 12)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 The particles are inclosed in small Caverns of the Ice; and their Natural Motion being the same which we have ascribed to the Globe of the Earth, requires a sufficient space to move in. But when it is imprisoned in a less room that that, then a great part of the Ice breaks: And this is the Thunder-clap. The Murmur following is from the settling of the Air. The Lightening is the fancie made by the recoiling of the Air against the Eye. [The fall](/positions/original_sin) is in Rain, not in Shivers; because the prisons which they break are extreme narrow, and the shivers being small, are dissolved by the Heat. But in less Heat they would fall in Drops of Hail, that is to say, half frozen by the shaving of the Air as they fall, and be in a very little time (much less than Snow or Ice) dissolved.
 
@@ -1227,7 +1236,7 @@ It is the opinion of many learned men, that Ice (in long time) will be turned in
 
 B.
 
-<span class="atom-split" data-atom="014" data-title="A. (parte 13)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="A. (parte 13)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 If that were so, it would still be Ice, though also Christal: Which cannot be, because Christal is heavier than Water, and therefore much heavier than Ice.
 
@@ -1293,7 +1302,7 @@ Why then do men say they finde one Air healthy, another infectious?
 
 B.
 
-<span class="atom-split" data-atom="015" data-title="A. (parte 14)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="A. (parte 14)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 Not because the nature of the Air varies, but because there are in the Air drawn, or rather, beaten up by the Sun, many little Bodies, whereof some have such Motion as is healthful, others such as is hurtful to the life of man. For the Sun (as you see in the generation of Plants) can fetch up Earth as well as Water; and from the driest ground any kind of Body that lieth loose, so it be small enough, rather than admit any Emptiness. By some of these small Bodies it is that we live; which being taken in with our breath, pass into our blood, and cause it (by their compounded Motion) to circulate through the Veins and Arteries; which the blood of it self (being a heavie Body) without it cannot do. What kind of substance these Atomes are, I cannot tell. Some suppose them to be Nitre. As for those infectious creatures in the Air, whereof so many die of the Plague, I have heard that Monsieur Des Cartes, a very ingenious man, was of opinion, that they were little Flies. But what grounds he had for it, I know not, though there be many Experiments that invite me to believe it. For first, we know that the Air is never universally infected over a whole Country, but onely in or neer to some populous Town. And therefore the cause must also be partly ascribed to the multitude thronged together, and constrained to carry their Excrements into the fields round about and neer to their habitation. Which in time fermenting breed Worms, which commonly in a month or little more, naturally become Flies; and though engendred at one Town, may flie to another. Secondly, in the beginning of a Plague, those that dwell in the Suburbs, that is to say, neerest to this corruption, are the poorest of the people, that are nourished for the most part with the Roots and Herbs which grow in that corrupted dirt; so that the same filth makes both the blood of poor people, and the substance of the Fly. And ’tis said by [Aristotle](/figures/aristotle), that every thing is nourished by the matter whereof it is generated. Thirdly, when a Town is infected, the Gentlemen, and those that live on wholsomest food, scarce one of Five hundred die of the Plague. It seems therefore, whatsoever creatures they be that invade us from the Air, they can discern their proper nourishment, and do not enter into the mouth and nostrils with the breath of every man alike, as they would do if they were inanimate. Fourthly, a man may carry the infection with him a great way into the Country in his Clothes, and infect a Village. Shall another man there draw the Infection from the Clothes onely by his breath? Or from the Hangings of a Chamber wherein a man hath died? It is impossible. Therefore whatsoever killing thing is in the Clothes or Hangings, it must rise and go into his mouth or nostrils before it can do him hurt. It must therefore be a Fly, whereof great numbers get into the blood, and there feeding and breeding Worms, obstruct the Circulation of the blood, and kill the man.
 
@@ -1381,7 +1390,7 @@ This is true enough; and he himself is one of those men, in that he considered n
 
 A.
 
-<span class="atom-split" data-atom="016" data-title="A. (parte 15)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="A. (parte 15)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 His first is, That as in a Pyramide of Brick, wherein the Bricks are so joyned, that the uppermost lies every where over the joynt or Cement of the two next below it, you may break down a part, and leave a Cavity, and yet the Bricks above will stand firm and sustain one another by their cross posture: So also it is in Wheat, Hail-shot, Sand, or Water; and so they arch themselves, and thereby the Fish is every way secured by an arch of water over it.
 
@@ -1499,7 +1508,7 @@ I leave this Question of the Fish, as cleerly resolved, because the water tendin
 
 B.
 
-<span class="atom-split" data-atom="017" data-title="A. (parte 16)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="A. (parte 16)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 I have already shewed you in general, that the difference of Motion in the parts of several Bodies makes the difference of their Natures. And all the difference of Motions consisteth either in swiftness, or in the way, or in the duration. But to tell you in Special, why Gold is heaviest, and then Quicksilver, and then (perhaps) Lead, is more than I hope to know, or mean to enquire: for I doubt not but that the Species of heavie, hard, Opaque, and Diaphanous, were all made so at their creation, and at the same time separated from different Species. So that I cannot guess at any particular Motions that should constitute their natures, further than I am guided by the Experiments made by fire or mixture.
 
@@ -1577,7 +1586,7 @@ Yes, you know it hath been demonstrated by Galileo.
 
 A.
 
-<span class="atom-split" data-atom="018" data-title="A. (parte 17)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="A. (parte 17)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/mechanism,figures/hobbes,forms/dialogue"></span>
 
 Then if (for instance) you put into a pair of Scales equal quantities of Quicksilver and Water, seeing they are both accelerated in the same proportion, why should not the weight of Quicksilver to the weight of Water be in duplicate proportions to their first Endeavours?
 
@@ -1649,7 +1658,7 @@ Proceed now to the Cause of Attraction.
 
 B.
 
-<span class="atom-split" data-atom="019" data-title="A. (parte 18)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="A. (parte 18)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="positions/materialism,concepts/mechanism,concepts/cause,forms/dialogue"></span>
 
 Suppose now that the Internal parts of the Loadstone had the same Motion with that of the Internal parts of the Sun which make the Annual Motion of the Earth from West to East, but in a contrary way, for otherwise the Loadstone and the Iron can never be made to meet. Then set the Loadstone at a little distance from the Earth, marked with z; and the Iron marked with x upon the superficies of the Earth. Now that which makes x rise to z, can be nothing else but Air; for nothing touches it but Air. And that which makes the Air to rise, can be nothing but those small circles made by the parts of the Earth (such as are at a b c,) for nothing else touches the Air. Seeing then the Motion of each point of the Loadstone is from East to West in Circles, and the motion of each point of the Iron from West to East; it follows, that the Air between the Loadstone and the Iron shall be cast off both East and West; and consequently the place left empty, if the Iron did not rise up and fill it. Thus you see the Cause that maketh the Loadstone and the Iron to meet.
 
@@ -1723,7 +1732,7 @@ The Longitude of places being yet to seek, how came he to know this difference o
 
 B.
 
-<span class="atom-split" data-atom="020" data-title="A. (parte 19)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="A. (parte 19)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 I believe he trusted to the Globe for that. For the distance between the places is not above 2000 Miles the nearest way. But we will pass by that, and come to his Demonstration, and to his Diagram, wherein L is London, P the North-Pole of the Earth, V Vaygates. So that L P is 38 deg. 28 min. P V 20 deg. the Angle L P V 58 deg. for the difference between the Longitudes of Vaygates and London. This is the Construction. But before I come to the demonstration, I have an Inference to draw from these observations, which is this. Because in the same year the Variation at London was 11 deg. 15 min. East, and at Vaygates 8 deg. 38 min. West; If you substract 11 deg. 15 min. from the Arc L P; and 8 deg. 38 min. from the Arc L V, the Variation on both sides will be taken away; so that P V being the Meridian of Vaygates, and L P the Meridian of London, they shall both of them meet in P the Pole of the Earth. And if the Pole of the Magnet be nearer to the Zenith of London than is the Pole of the Earth, it shall be just as much nearer to the Zenith of Vaygates in the Meridian of Vaygates which is P V; as is manifest by the Diurnal Motion of the Earth.
 
@@ -1797,7 +1806,7 @@ But that helpeth him not. For if the Body of the Magnet be not there, the vertue
 
 B.
 
-<span class="atom-split" data-atom="021" data-title="A. (parte 20)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="A. (parte 20)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 You see how unsafe it is to boast of Doctrines as of Gods gifts, till we are sure that they are true. For God giveth and denieth as he pleaseth, not as our selves wish; as now to him he hath given Confidence enough, but hath denied him (at least hitherto) the finding of the Longitudes. In the next place (Pag. 8.) he seems much pleased that his Doctrine agrees with an opinion of Keplerus, That from the Creation to the year of our Lord it is to the year 1657 now 5650 years; and with that which he saith some Divines have held in times past, That as this World was created in six days, so it should continue six thousand years. By which account the World will be at an end 350 years hence; though the [Scripture](/concepts/revelation) tell us it shall come as a Thief in the night. O what advantage 340 years hence will they have that know this, over them that know it not, by taking up Money at Interest, or selling Lands at 20 years purchase!
 
@@ -1901,7 +1910,7 @@ I come therefore now to the business of the day. Seeing all Generation, Augmenta
 
 B.
 
-<span class="atom-split" data-atom="022" data-title="A. (parte 21)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="A. (parte 21)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 I think it can never be done by the Art of Man. For as I said of Hard and Heavy Bodies in the Creation, so I think of Diaphanous, that the very same Individual Body which was not Transparent then, shall never be made Transparent by Humane Art.
 
@@ -1975,7 +1984,7 @@ But since you hold that Motion is propagated through all Bodies, how hard or hea
 
 B.
 
-<span class="atom-split" data-atom="023" data-title="A. (parte 22)" data-chapter="A." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="A. (parte 22)" data-chapter="A." data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/method,positions/materialism,positions/geometric_method,concepts/mechanism,concepts/cause,concepts/nature,forms/dialogue"></span>
 
 There are divers Causes that take away Transparency. First, if the Body be not perfectly Homogeneous, that is to say, if the smallest parts of it be not all precisely of the same nature, or do not so touch one another as to leave no Vacuum within it; or though they touch, if they be not as hard in the contact as in any other line. For then the Refractions will be so changed both in their direction, and in their strength, as that no Light shall come through it to the Eye; as in Wood and ordinary Stone and Metal. Secondly, The Gravity and hardness may be so great, as to make the Angle refracted so great, as the second Refraction shall not direct the beam of light to the Eye; as if the Angle of Refraction were D A E, the Refracted line would be perpendicular to A B, and never come to the line A D, in which is the Eye.
 

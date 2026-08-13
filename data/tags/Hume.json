@@ -1,110 +1,877 @@
 {
   "A_LETTER_FROM_A_GENTLEMAN_TO_HIS_FRIEND_IN_EDINBURGH": {
-    "axes": ["knowledge_origin", "god"],
-    "positions": ["scepticism", "empiricism_sceptical"],
-    "concepts": ["reason", "religion", "experience"],
+    "axes": [
+      "knowledge_origin",
+      "god"
+    ],
+    "positions": [
+      "scepticism",
+      "empiricism_sceptical"
+    ],
+    "concepts": [
+      "reason",
+      "religion",
+      "experience"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["epistle"],
-    "schools": ["british_empiricism", "enlightenment"],
+    "forms": [
+      "epistle"
+    ],
+    "schools": [
+      "british_empiricism",
+      "enlightenment"
+    ],
     "summary_it": "Lettera che difende il Trattato sulla natura umana dalle accuse di scetticismo e ateismo mosse a Edimburgo, replicando articolo per articolo al capo d'imputazione e mostrando che lo scetticismo empirico dell'autore non intacca religione e morale.",
     "summary_en": "A letter defending the Treatise of Human Nature against charges of scepticism and atheism raised in Edinburgh, answering the indictment point by point and arguing that the author's sceptical empiricism does not undermine religion or morality."
   },
   "A_TREATISE_OF_HUMAN_NATURE": {
-    "axes": ["knowledge_origin", "method", "moral_foundation", "freedom_necessity", "soul_body"],
-    "positions": ["empiricism", "empiricism_sceptical", "scepticism", "induction", "moral_sentiment", "compatibilism"],
-    "concepts": ["idea", "experience", "cause", "custom", "reason", "passion", "self_consciousness", "substance", "virtue", "justice", "property", "beauty", "soul"],
-    "arguments": ["problem_of_induction"],
+    "axes": [
+      "knowledge_origin",
+      "method",
+      "moral_foundation",
+      "freedom_necessity",
+      "soul_body"
+    ],
+    "positions": [
+      "empiricism",
+      "empiricism_sceptical",
+      "scepticism",
+      "induction",
+      "moral_sentiment",
+      "compatibilism"
+    ],
+    "concepts": [
+      "idea",
+      "experience",
+      "cause",
+      "custom",
+      "reason",
+      "passion",
+      "self_consciousness",
+      "substance",
+      "virtue",
+      "justice",
+      "property",
+      "beauty",
+      "soul"
+    ],
+    "arguments": [
+      "problem_of_induction"
+    ],
     "figures": [],
-    "forms": ["treatise"],
-    "schools": ["british_empiricism", "enlightenment"],
+    "forms": [
+      "treatise"
+    ],
+    "schools": [
+      "british_empiricism",
+      "enlightenment"
+    ],
     "summary_it": "L'opera maggiore di Hume: applica il metodo sperimentale alla scienza dell'uomo, deriva ogni idea dalle impressioni, riduce la causalità ad abitudine e attesa, nega un io sostanziale, fonda la morale sul sentimento e concilia libertà e necessità.",
-    "summary_en": "Hume's principal work: it applies the experimental method to the science of man, derives every idea from impressions, reduces causation to custom and expectation, denies a substantial self, grounds morality in sentiment, and reconciles liberty with necessity."
+    "summary_en": "Hume's principal work: it applies the experimental method to the science of man, derives every idea from impressions, reduces causation to custom and expectation, denies a substantial self, grounds morality in sentiment, and reconciles liberty with necessity.",
+    "atoms": {
+      "002_ADVERTISEMENT": {
+        "axes": [
+          "human_nature"
+        ],
+        "forms": [
+          "treatise"
+        ]
+      },
+      "003_INTRODUCTION": {
+        "axes": [
+          "human_nature",
+          "method"
+        ],
+        "positions": [
+          "scepticism"
+        ]
+      },
+      "008_SECT_III_OF_THE_IDEAS_OF_THE_MEMORY_AND": {
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "memory",
+          "idea",
+          "experience"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "056_SECT_XIV_OF_THE_IDEA_OF_NECESSARY_CONNEX": {
+        "positions": [
+          "empiricism",
+          "scepticism"
+        ],
+        "concepts": [
+          "cause"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ]
+      },
+      "072_SECT_III_OF_THE_ANTIENT_PHILOSOPHY": {
+        "axes": [
+          "human_nature"
+        ],
+        "positions": [
+          "hylomorphism"
+        ],
+        "concepts": [
+          "substance",
+          "forma_substantialis"
+        ],
+        "schools": [
+          "lyceum"
+        ]
+      },
+      "084_SECT_VII_CONCLUSION_OF_THIS_BOOK": {
+        "axes": [
+          "human_nature"
+        ],
+        "positions": [
+          "scepticism"
+        ],
+        "concepts": [
+          "custom",
+          "experience"
+        ]
+      },
+      "128_SECT_I_OF_LIBERTY_AND_NECESSITY": {
+        "axes": [
+          "freedom_necessity"
+        ],
+        "positions": [
+          "compatibilism",
+          "determinism"
+        ],
+        "concepts": [
+          "custom",
+          "cause"
+        ]
+      },
+      "134_SECT_IV_OF_THE_CAUSES_OF_THE_VIOLENT_PAS": {
+        "axes": [
+          "human_nature"
+        ],
+        "concepts": [
+          "custom",
+          "passion",
+          "will",
+          "anger"
+        ]
+      },
+      "140_SECT_VIII_THE_SAME_SUBJECT_CONTINUed": {
+        "concepts": [
+          "sublime",
+          "custom",
+          "passion",
+          "reason",
+          "will"
+        ]
+      },
+      "142_SECT_IX_OF_THE_DIRECT_PASSIONS": {
+        "concepts": [
+          "passion"
+        ]
+      },
+      "148_SECT_I_MORAL_DISTINCTIONS_NOT_DERIVed_FR": {
+        "axes": [
+          "moral_foundation"
+        ],
+        "positions": [
+          "moral_sentiment"
+        ],
+        "concepts": [
+          "reason",
+          "passion"
+        ]
+      },
+      "154_SECT_I_JUSTICE_WHETHER_A_NATURAL_OR_ARTI": {
+        "axes": [
+          "human_nature"
+        ],
+        "positions": [
+          "moral_sentiment"
+        ],
+        "concepts": [
+          "property",
+          "virtue"
+        ]
+      },
+      "159_SECT_II_OF_THE_ORIGIN_OF_JUSTICE_AND_PRO": {
+        "concepts": [
+          "justice",
+          "property",
+          "education",
+          "custom"
+        ],
+        "arguments": [
+          "state_of_nature"
+        ]
+      },
+      "193_SECT_III_OF_GOODNESS_AND_BENEVOLENCE": {
+        "axes": [
+          "moral_foundation"
+        ],
+        "positions": [
+          "moral_sentiment"
+        ],
+        "concepts": [
+          "virtue"
+        ]
+      }
+    }
   },
   "A_TRUE_ACCOUNT_OF_THE_BEHAVIOURS_AND_CONDUCT_OF_ARCHIBALD_STEWART": {
     "axes": [],
     "positions": [],
-    "concepts": ["justice"],
+    "concepts": [
+      "justice"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["epistle"],
+    "forms": [
+      "epistle"
+    ],
     "schools": [],
     "summary_it": "Pamphlet epistolare che difende Archibald Stewart, ex Lord Provost di Edimburgo, dall'accusa di aver ceduto la città ai ribelli giacobiti nel 1745, valutando le forze disponibili e la giustizia del processo. Testo d'occasione, non filosofico.",
     "summary_en": "An epistolary pamphlet defending Archibald Stewart, former Lord Provost of Edinburgh, against the charge of surrendering the city to the Jacobite rebels in 1745, weighing the available forces and the fairness of the trial. An occasional, non-philosophical piece."
   },
   "AN_ABSTRACT_OF_A_BOOK_LATELY_PUBLISHED_ENTITLED_A_TREATISE_OF_HUMAN_NATURE_ETC": {
-    "axes": ["knowledge_origin", "method"],
-    "positions": ["empiricism", "empiricism_sceptical", "induction"],
-    "concepts": ["cause", "custom", "experience", "idea"],
-    "arguments": ["problem_of_induction"],
+    "axes": [
+      "knowledge_origin",
+      "method"
+    ],
+    "positions": [
+      "empiricism",
+      "empiricism_sceptical",
+      "induction"
+    ],
+    "concepts": [
+      "cause",
+      "custom",
+      "experience",
+      "idea"
+    ],
+    "arguments": [
+      "problem_of_induction"
+    ],
     "figures": [],
-    "forms": ["essay"],
-    "schools": ["british_empiricism", "enlightenment"],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "british_empiricism",
+      "enlightenment"
+    ],
     "summary_it": "Riassunto anonimo del Trattato scritto da Hume stesso, che isola un solo argomento tracciato dall'inizio alla fine: l'analisi del nesso causale come inferenza fondata sull'abitudine e non sulla ragione.",
     "summary_en": "An anonymous abstract of the Treatise written by Hume himself, isolating a single argument traced from start to finish: the analysis of the causal connexion as an inference founded on custom rather than reason."
   },
   "AN_ENQUIRY_CONCERNING_HUMAN_UNDERSTANDING": {
-    "axes": ["knowledge_origin", "method", "freedom_necessity", "god"],
-    "positions": ["empiricism", "empiricism_sceptical", "scepticism", "induction", "compatibilism"],
-    "concepts": ["cause", "custom", "experience", "idea", "reason", "miracle"],
-    "arguments": ["problem_of_induction", "against_miracles"],
+    "axes": [
+      "knowledge_origin",
+      "method",
+      "freedom_necessity",
+      "god"
+    ],
+    "positions": [
+      "empiricism",
+      "empiricism_sceptical",
+      "scepticism",
+      "induction",
+      "compatibilism"
+    ],
+    "concepts": [
+      "cause",
+      "custom",
+      "experience",
+      "idea",
+      "reason",
+      "miracle"
+    ],
+    "arguments": [
+      "problem_of_induction",
+      "against_miracles"
+    ],
     "figures": [],
-    "forms": ["essay"],
-    "schools": ["british_empiricism", "enlightenment"],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "british_empiricism",
+      "enlightenment"
+    ],
     "summary_it": "Riformulazione più accessibile dell'epistemologia del Trattato: origine delle idee dalle impressioni, problema dell'induzione, causalità come abitudine, compatibilità di libertà e necessità e il celebre argomento contro la credibilità dei miracoli.",
-    "summary_en": "A more accessible restatement of the Treatise's epistemology: the origin of ideas in impressions, the problem of induction, causation as custom, the compatibility of liberty and necessity, and the famous argument against the credibility of miracles."
+    "summary_en": "A more accessible restatement of the Treatise's epistemology: the origin of ideas in impressions, the problem of induction, causation as custom, the compatibility of liberty and necessity, and the famous argument against the credibility of miracles.",
+    "atoms": {
+      "004_SECTION_II": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "arguments": [
+          "no_innate_ideas"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      },
+      "007_SECTION_IV": {
+        "positions": [
+          "scepticism"
+        ],
+        "arguments": [
+          "problem_of_induction"
+        ]
+      },
+      "010_PART_II": {
+        "positions": [
+          "empiricism_sceptical"
+        ],
+        "concepts": [
+          "cause",
+          "experience"
+        ],
+        "arguments": [
+          "problem_of_induction"
+        ]
+      },
+      "020_PART_I": {
+        "axes": [
+          "soul_body"
+        ],
+        "positions": [
+          "scepticism"
+        ],
+        "concepts": [
+          "experience",
+          "cause",
+          "will"
+        ]
+      },
+      "023_PART_II": {
+        "axes": [
+          "knowledge_origin"
+        ],
+        "positions": [
+          "empiricism_sceptical"
+        ],
+        "concepts": [
+          "cause",
+          "custom"
+        ],
+        "arguments": [
+          "problem_of_induction"
+        ]
+      },
+      "025_PART_I": {
+        "axes": [
+          "freedom_necessity"
+        ],
+        "positions": [
+          "compatibilism",
+          "determinism",
+          "free_will"
+        ],
+        "concepts": [
+          "cause"
+        ]
+      },
+      "028_PART_I": {
+        "axes": [
+          "freedom_necessity"
+        ],
+        "positions": [
+          "compatibilism"
+        ],
+        "concepts": [
+          "cause",
+          "will"
+        ]
+      },
+      "029_PART_II": {
+        "axes": [
+          "freedom_necessity"
+        ],
+        "positions": [
+          "compatibilism",
+          "free_will",
+          "moral_sentiment"
+        ],
+        "concepts": [
+          "cause"
+        ]
+      },
+      "035_PART_II": {
+        "axes": [
+          "human_nature"
+        ],
+        "concepts": [
+          "miracle",
+          "sublime"
+        ],
+        "arguments": [
+          "against_miracles"
+        ]
+      },
+      "036_PART_II": {
+        "positions": [
+          "scepticism"
+        ],
+        "concepts": [
+          "miracle",
+          "religion"
+        ],
+        "arguments": [
+          "against_miracles"
+        ]
+      },
+      "037_PART_II": {
+        "concepts": [
+          "miracle"
+        ],
+        "arguments": [
+          "against_miracles"
+        ]
+      },
+      "038_PART_II": {
+        "axes": [
+          "faith_reason"
+        ],
+        "concepts": [
+          "miracle",
+          "faith",
+          "revelation"
+        ],
+        "arguments": [
+          "against_miracles"
+        ]
+      },
+      "047_PART_II": {
+        "positions": [
+          "scepticism"
+        ],
+        "concepts": [
+          "cause",
+          "infinity",
+          "reason"
+        ],
+        "arguments": [
+          "problem_of_induction"
+        ]
+      },
+      "048_PART_III": {
+        "axes": [
+          "human_nature",
+          "method"
+        ],
+        "positions": [
+          "scepticism"
+        ],
+        "concepts": [
+          "custom",
+          "sublime"
+        ]
+      }
+    }
   },
   "AN_ENQUIRY_CONCERNING_THE_PRINCIPLES_OF_MORALS": {
-    "axes": ["moral_foundation", "method"],
-    "positions": ["moral_sentiment", "utility_pleasure", "empiricism"],
-    "concepts": ["virtue", "passion", "reason", "justice", "beauty", "custom"],
+    "axes": [
+      "moral_foundation",
+      "method"
+    ],
+    "positions": [
+      "moral_sentiment",
+      "utility_pleasure",
+      "empiricism"
+    ],
+    "concepts": [
+      "virtue",
+      "passion",
+      "reason",
+      "justice",
+      "beauty",
+      "custom"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["essay"],
-    "schools": ["british_empiricism", "enlightenment"],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "british_empiricism",
+      "enlightenment"
+    ],
     "summary_it": "Indagine sui fondamenti della morale che Hume giudicava la sua opera migliore: le distinzioni morali derivano dal sentimento più che dalla ragione, e virtù e vizio si spiegano attraverso l'utilità e la piacevolezza dei caratteri per sé e per gli altri.",
-    "summary_en": "An enquiry into the foundations of morals that Hume rated his best work: moral distinctions derive from sentiment rather than reason, and virtue and vice are explained through the utility and agreeableness of character traits to oneself and others."
+    "summary_en": "An enquiry into the foundations of morals that Hume rated his best work: moral distinctions derive from sentiment rather than reason, and virtue and vice are explained through the utility and agreeableness of character traits to oneself and others.",
+    "atoms": {
+      "003_PART_I": {
+        "axes": [
+          "human_nature"
+        ],
+        "positions": [
+          "moral_sentiment"
+        ],
+        "concepts": [
+          "friendship"
+        ],
+        "figures": [
+          "cicero"
+        ]
+      },
+      "014_PART_I": {
+        "axes": [
+          "human_nature",
+          "moral_foundation"
+        ],
+        "positions": [
+          "utility_pleasure"
+        ],
+        "concepts": [
+          "beauty",
+          "education"
+        ]
+      },
+      "017_PART_II": {
+        "axes": [
+          "human_nature"
+        ],
+        "positions": [
+          "moral_sentiment"
+        ],
+        "concepts": [
+          "beauty",
+          "compassion"
+        ]
+      },
+      "034_PART_II": {
+        "axes": [
+          "moral_foundation"
+        ],
+        "positions": [
+          "moral_sentiment",
+          "pleasure"
+        ],
+        "concepts": [
+          "virtue",
+          "justice"
+        ]
+      }
+    }
   },
   "DIALOGUES_CONCERNING_NATURAL_RELIGION": {
-    "axes": ["god", "faith_reason", "method"],
-    "positions": ["scepticism", "deism", "demonstrative_theism"],
-    "concepts": ["religion", "reason", "cause", "nature"],
+    "axes": [
+      "god",
+      "faith_reason",
+      "method"
+    ],
+    "positions": [
+      "scepticism",
+      "deism",
+      "demonstrative_theism"
+    ],
+    "concepts": [
+      "religion",
+      "reason",
+      "cause",
+      "nature"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["dialogue"],
-    "schools": ["enlightenment"],
+    "forms": [
+      "dialogue"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
     "summary_it": "Dialogo postumo fra Cleante, Demea e lo scettico Filone sulla religione naturale: sottopone a critica serrata l'argomento del disegno e la teologia razionale, lasciando irrisolta la natura del divino.",
-    "summary_en": "A posthumous dialogue among Cleanthes, Demea, and the sceptic Philo on natural religion, subjecting the argument from design and rational theology to sustained criticism while leaving the nature of the divine unresolved."
+    "summary_en": "A posthumous dialogue among Cleanthes, Demea, and the sceptic Philo on natural religion, subjecting the argument from design and rational theology to sustained criticism while leaving the nature of the divine unresolved.",
+    "atoms": {
+      "004_PART_1": {
+        "axes": [
+          "faith_reason"
+        ],
+        "positions": [
+          "scepticism",
+          "atheism",
+          "deism"
+        ],
+        "concepts": [
+          "education"
+        ]
+      },
+      "024_PART_10": {
+        "axes": [
+          "god"
+        ],
+        "positions": [
+          "pessimism",
+          "scepticism"
+        ],
+        "concepts": [
+          "suffering",
+          "theodicy"
+        ]
+      },
+      "028_PART_11": {
+        "positions": [
+          "optimism",
+          "pessimism",
+          "scepticism"
+        ],
+        "concepts": [
+          "education",
+          "religion"
+        ]
+      }
+    }
   },
   "ESSAYS_MORAL_POLITICAL_AND_LITERARY": {
-    "axes": ["political_legitimacy", "state_and_individual", "moral_foundation", "god", "meaning_of_history"],
-    "positions": ["scepticism", "moral_sentiment", "toleration", "progress"],
-    "concepts": ["state", "law", "money", "beauty", "virtue", "passion", "religion", "soul", "death", "justice", "freedom"],
+    "axes": [
+      "political_legitimacy",
+      "state_and_individual",
+      "moral_foundation",
+      "god",
+      "meaning_of_history"
+    ],
+    "positions": [
+      "scepticism",
+      "moral_sentiment",
+      "toleration",
+      "progress"
+    ],
+    "concepts": [
+      "state",
+      "law",
+      "money",
+      "beauty",
+      "virtue",
+      "passion",
+      "religion",
+      "soul",
+      "death",
+      "justice",
+      "freedom"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["essay"],
-    "schools": ["british_empiricism", "enlightenment", "epicureanism", "stoicism"],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "british_empiricism",
+      "enlightenment",
+      "epicureanism",
+      "stoicism"
+    ],
     "summary_it": "Ampia raccolta di saggi su politica, governo, commercio, gusto e religione, con l'autobiografia di Hume, i ritratti delle quattro sette filosofiche (Epicureo, Stoico, Platonista, Scettico) e i saggi sul suicidio e sull'immortalità dell'anima.",
-    "summary_en": "A broad collection of essays on politics, government, commerce, taste, and religion, including Hume's autobiography, the portraits of the four philosophical sects (Epicurean, Stoic, Platonist, Sceptic), and the essays on suicide and the immortality of the soul."
+    "summary_en": "A broad collection of essays on politics, government, commerce, taste, and religion, including Hume's autobiography, the portraits of the four philosophical sects (Epicurean, Stoic, Platonist, Sceptic), and the essays on suicide and the immortality of the soul.",
+    "atoms": {
+      "007_ESSAY_II_OF_THE_LIBERTY_OF_THE_PRESS": {
+        "axes": [
+          "political_legitimacy",
+          "human_nature"
+        ],
+        "concepts": [
+          "law",
+          "custom",
+          "state"
+        ]
+      },
+      "026_ESSAY_XIII_OF_ELOQUENCE": {
+        "concepts": [
+          "education",
+          "sublime"
+        ],
+        "figures": [
+          "cicero"
+        ],
+        "forms": [
+          "essay"
+        ]
+      },
+      "039_ESSAY_XVII_THE_PLATONIST": {
+        "axes": [
+          "god"
+        ],
+        "concepts": [
+          "beauty",
+          "religion",
+          "reason",
+          "wisdom"
+        ]
+      },
+      "041_ESSAY_XVIII_THE_SCEPTIC": {
+        "positions": [
+          "scepticism"
+        ],
+        "concepts": [
+          "beauty",
+          "moral_sentiment",
+          "custom",
+          "education"
+        ]
+      },
+      "060_ESSAY_XXIII_OF_THE_STANDARD_OF_TASTE": {
+        "axes": [
+          "human_nature"
+        ],
+        "concepts": [
+          "beauty",
+          "fortune"
+        ],
+        "figures": [
+          "aristotle",
+          "cicero"
+        ]
+      },
+      "069_ESSAY_III_OF_MONEY": {
+        "concepts": [
+          "money",
+          "commodity",
+          "labour",
+          "state"
+        ]
+      },
+      "082_ESSAY_VIII_OF_TAXES": {
+        "concepts": [
+          "labour",
+          "commodity",
+          "custom"
+        ],
+        "figures": [
+          "cicero"
+        ]
+      },
+      "100_ESSAY_XI_OF_THE_POPULOUSNESS_OF_ANCIENT": {
+        "concepts": [
+          "friendship"
+        ],
+        "figures": [
+          "aristotle"
+        ],
+        "forms": [
+          "essay"
+        ]
+      },
+      "103_ESSAY_XI_OF_THE_POPULOUSNESS_OF_ANCIENT": {
+        "axes": [
+          "human_nature"
+        ]
+      },
+      "130_ESSAY_VIII_A_CHARACTER_OF_SIR_ROBERT_WAL": {
+        "forms": [
+          "essay"
+        ]
+      }
+    }
   },
   "FOUR_DISSERTATIONS": {
-    "axes": ["god", "moral_foundation"],
-    "positions": ["deism", "scepticism", "empiricism"],
-    "concepts": ["religion", "passion", "beauty", "custom", "nature"],
+    "axes": [
+      "god",
+      "moral_foundation"
+    ],
+    "positions": [
+      "deism",
+      "scepticism",
+      "empiricism"
+    ],
+    "concepts": [
+      "religion",
+      "passion",
+      "beauty",
+      "custom",
+      "nature"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["essay"],
-    "schools": ["enlightenment"],
+    "forms": [
+      "essay"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
     "summary_it": "Quattro dissertazioni: la Storia naturale della religione, che ricostruisce il passaggio dal politeismo al teismo come processo psicologico e storico; e i saggi sulle passioni, sulla tragedia e sullo standard del gusto.",
-    "summary_en": "Four dissertations: the Natural History of Religion, which reconstructs the movement from polytheism to theism as a psychological and historical process; and the essays on the passions, on tragedy, and on the standard of taste."
+    "summary_en": "Four dissertations: the Natural History of Religion, which reconstructs the movement from polytheism to theism as a psychological and historical process; and the essays on the passions, on tragedy, and on the standard of taste.",
+    "atoms": {
+      "009_SECT_VI_Origin_of_Theism_from_Polytheism": {
+        "axes": [
+          "human_nature"
+        ],
+        "concepts": [
+          "religion",
+          "sublime"
+        ]
+      },
+      "012_SECT_IX_Comparison_of_these_Religions_wi": {
+        "positions": [
+          "toleration"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "016_SECT_XII_With_regard_to_Doubt_or_Convict": {
+        "positions": [
+          "scepticism",
+          "deism"
+        ],
+        "concepts": [
+          "religion"
+        ],
+        "figures": [
+          "cicero"
+        ]
+      },
+      "032_DISSERTATION_III_OF_TRAGEDY": {
+        "positions": [
+          "moral_sentiment",
+          "pleasure"
+        ],
+        "concepts": [
+          "compassion",
+          "suffering"
+        ],
+        "forms": [
+          "tragedy"
+        ]
+      },
+      "035_DISSERTATION_IV_OF_THE_STANDARD_OF_TASTE": {
+        "axes": [
+          "human_nature"
+        ],
+        "positions": [
+          "empiricism"
+        ],
+        "concepts": [
+          "beauty",
+          "experience"
+        ],
+        "forms": [
+          "essay"
+        ]
+      }
+    }
   },
   "LETTER_TO_THE_AUTHOR_OF_THE_DELINEATION_OF_THE_NATURE_AND_OBLIGATION_OF_MORALITY": {
     "axes": [],
-    "positions": ["scepticism"],
-    "concepts": ["friendship", "virtue"],
+    "positions": [
+      "scepticism"
+    ],
+    "concepts": [
+      "friendship",
+      "virtue"
+    ],
     "arguments": [],
     "figures": [],
-    "forms": ["epistle"],
+    "forms": [
+      "epistle"
+    ],
     "schools": [],
     "summary_it": "Breve lettera cortese a un critico anonimo che protesta contro l'attribuzione a Hume delle opinioni del personaggio dello Scettico nel dialogo, difendendo l'amicizia tra uomini di lettere al di là delle sette filosofiche.",
     "summary_en": "A short courteous letter to an anonymous critic, protesting against the ascription to Hume of the Sceptic character's opinions in the dialogue, and defending friendship among men of letters across philosophical sects."
@@ -129,6 +896,482 @@
     "forms": [],
     "schools": [],
     "summary_it": "Vasta storia narrativa dell'Inghilterra dall'invasione romana in poi, opera che diede a Hume fama e fortuna in vita. Storia politica e narrativa, non filosofia.",
-    "summary_en": "A vast narrative history of England from the Roman invasion onward, the work that brought Hume fame and fortune in his lifetime. Political narrative history, not philosophy."
+    "summary_en": "A vast narrative history of England from the Roman invasion onward, the work that brought Hume fame and fortune in his lifetime. Political narrative history, not philosophy.",
+    "atoms": {
+      "007_CHAPTER_I": {
+        "positions": [
+          "progress"
+        ]
+      },
+      "023_870": {
+        "positions": [
+          "sovereignty"
+        ],
+        "concepts": [
+          "fortune",
+          "justice"
+        ]
+      },
+      "055_997": {
+        "concepts": [
+          "friendship",
+          "covenant",
+          "social_animal",
+          "custom"
+        ]
+      },
+      "058_997": {
+        "concepts": [
+          "custom",
+          "law",
+          "justice",
+          "progress"
+        ]
+      },
+      "060_997": {
+        "concepts": [
+          "commodity",
+          "custom"
+        ]
+      },
+      "097_CHAPTER_VIII": {
+        "concepts": [
+          "education",
+          "friendship"
+        ]
+      },
+      "156_CHAPTER_XII": {
+        "concepts": [
+          "money",
+          "religion"
+        ]
+      },
+      "188_CHAPTER_XIII": {
+        "concepts": [
+          "freedom"
+        ]
+      },
+      "192_CHAPTER_XIII": {
+        "concepts": [
+          "law",
+          "state"
+        ]
+      },
+      "219_CHAPTER_XV": {
+        "concepts": [
+          "anger"
+        ]
+      },
+      "231_CHAPTER_XVI": {
+        "concepts": [
+          "death",
+          "fortune"
+        ]
+      },
+      "253_CHAPTER_XVIII": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "concepts": [
+          "state",
+          "education"
+        ]
+      },
+      "261_CHAPTER_XIX": {
+        "positions": [
+          "sovereignty",
+          "civil_society",
+          "progress"
+        ],
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "277_CHAPTER_XX": {
+        "concepts": [
+          "custom"
+        ]
+      },
+      "296_CHAPTER_XXII": {
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "323_CHAPTER_XXVI": {
+        "concepts": [
+          "beauty"
+        ]
+      },
+      "332_CHAPTER_XXVII": {
+        "concepts": [
+          "beauty",
+          "state"
+        ]
+      },
+      "346_CHAPTER_XXVIII": {
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "364_CHAPTER_XXX": {
+        "positions": [
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "friendship",
+          "education"
+        ]
+      },
+      "368_CHAPTER_XXX": {
+        "positions": [
+          "sovereignty",
+          "progress"
+        ],
+        "concepts": [
+          "anger",
+          "state"
+        ]
+      },
+      "385_CHAPTER_XXXI": {
+        "concepts": [
+          "friendship",
+          "education",
+          "religion"
+        ]
+      },
+      "389_CHAPTER_XXXII": {
+        "concepts": [
+          "beauty",
+          "friendship"
+        ]
+      },
+      "391_CHAPTER_XXXII": {
+        "concepts": [
+          "state",
+          "friendship"
+        ]
+      },
+      "393_CHAPTER_XXXII": {
+        "axes": [
+          "human_nature"
+        ]
+      },
+      "401_CHAPTER_XXXIII": {
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "408_CHAPTER_XXXIV": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "sovereignty",
+          "traditional_authority"
+        ],
+        "concepts": [
+          "state"
+        ]
+      },
+      "419_CHAPTER_XXXV": {
+        "positions": [
+          "class_conflict",
+          "revolution",
+          "sovereignty",
+          "state"
+        ]
+      },
+      "422_CHAPTER_XXXV": {
+        "positions": [
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion",
+          "sacrament",
+          "revelation",
+          "augustine"
+        ]
+      },
+      "438_CHAPTER_XXXVII": {
+        "axes": [
+          "human_nature"
+        ],
+        "positions": [
+          "civil_society",
+          "toleration"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "453_CHAPTER_XXXVIII": {
+        "positions": [
+          "toleration",
+          "moral_sentiment"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "456_CHAPTER_XXXVIII": {
+        "concepts": [
+          "friendship",
+          "beauty"
+        ]
+      },
+      "471_CHAPTER_XXXIX": {
+        "concepts": [
+          "justice",
+          "law",
+          "state",
+          "sovereignty"
+        ]
+      },
+      "475_201": {
+        "positions": [
+          "moral_sentiment",
+          "civil_society"
+        ],
+        "concepts": [
+          "education"
+        ]
+      },
+      "491_CHAPTER_XL": {
+        "positions": [
+          "liberty_of_conscience",
+          "toleration"
+        ]
+      },
+      "544_CHAPTER_XLIV": {
+        "concepts": [
+          "anger"
+        ]
+      },
+      "545_CHAPTER_XLIV": {
+        "positions": [
+          "progress",
+          "toleration"
+        ],
+        "concepts": [
+          "anger"
+        ]
+      },
+      "546_CHAPTER_XLIV": {
+        "axes": [
+          "method"
+        ],
+        "concepts": [
+          "friendship",
+          "beauty"
+        ]
+      },
+      "576_CHAPTER_XLVI": {
+        "concepts": [
+          "custom",
+          "law",
+          "property"
+        ]
+      },
+      "592_CHAPTER_XLIX": {
+        "concepts": [
+          "alienation"
+        ]
+      },
+      "594_300_Parl_Hist_vol_vi": {
+        "positions": [
+          "original_sin",
+          "moral_sentiment"
+        ],
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "624_CHAPTER_LI": {
+        "concepts": [
+          "anger",
+          "religion",
+          "justice",
+          "law"
+        ]
+      },
+      "630_CHAPTER_LII": {
+        "concepts": [
+          "alienation",
+          "religion",
+          "sacrament"
+        ]
+      },
+      "663_CHAPTER_LV": {
+        "axes": [
+          "human_nature"
+        ],
+        "concepts": [
+          "religion",
+          "compassion",
+          "suffering"
+        ]
+      },
+      "694_CHAPTER_LVII": {
+        "positions": [
+          "toleration"
+        ]
+      },
+      "727_CHAPTER_LX": {
+        "concepts": [
+          "toleration"
+        ]
+      },
+      "733_CHAPTER_LX": {
+        "concepts": [
+          "covenant",
+          "commonwealth"
+        ]
+      },
+      "738_CHAPTER_LX": {
+        "concepts": [
+          "commodity",
+          "commonwealth",
+          "state"
+        ]
+      },
+      "747_CHAPTER_LXI": {
+        "positions": [
+          "sovereignty"
+        ],
+        "concepts": [
+          "state"
+        ]
+      },
+      "767_CHAPTER_LXII": {
+        "positions": [
+          "toleration"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "770_CHAPTER_LXII": {
+        "positions": [
+          "progress"
+        ]
+      },
+      "777_CHAPTER_LXIII": {
+        "positions": [
+          "toleration",
+          "revolution"
+        ],
+        "concepts": [
+          "friendship"
+        ]
+      },
+      "786_CHAPTER_LXIV": {
+        "concepts": [
+          "property",
+          "money"
+        ]
+      },
+      "806_CHAPTER_LXV": {
+        "concepts": [
+          "commonwealth"
+        ]
+      },
+      "810_CHAPTER_LXVI": {
+        "concepts": [
+          "anger"
+        ]
+      },
+      "824_CHAPTER_LXVII": {
+        "positions": [
+          "sovereignty"
+        ]
+      },
+      "840_CHAPTER_LXVIII": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "concepts": [
+          "sovereignty"
+        ]
+      },
+      "858_CHAPTER_LXIX": {
+        "axes": [
+          "human_nature"
+        ],
+        "concepts": [
+          "education",
+          "friendship"
+        ]
+      },
+      "863_CHAPTER_LXX": {
+        "concepts": [
+          "justice",
+          "law",
+          "suffering",
+          "charity",
+          "death"
+        ]
+      },
+      "864_CHAPTER_LXX": {
+        "axes": [
+          "political_legitimacy"
+        ],
+        "positions": [
+          "sovereignty"
+        ],
+        "concepts": [
+          "state",
+          "freedom"
+        ]
+      },
+      "869_CHAPTER_LXX": {
+        "positions": [
+          "toleration",
+          "liberty_of_conscience",
+          "sovereignty"
+        ],
+        "concepts": [
+          "religion"
+        ]
+      },
+      "875_CHAPTER_LXXI": {
+        "positions": [
+          "toleration",
+          "liberty_of_conscience"
+        ],
+        "concepts": [
+          "religion",
+          "education"
+        ]
+      },
+      "949_CHAPTER_LXI": {
+        "concepts": [
+          "commonwealth"
+        ]
+      },
+      "950_CHAPTER_LXII": {
+        "concepts": [
+          "commonwealth"
+        ]
+      }
+    }
+  },
+  "AN_ABSTRACT_OF_A_BOOK_LATELY_PUBLISHED_ENTITLED_A_TREATISE_O": {
+    "atoms": {
+      "004_AN_ABSTRACT_OF_A_BOOK_LATELY_PUBLISHED_E": {
+        "positions": [
+          "empiricism_sceptical"
+        ],
+        "concepts": [
+          "cause",
+          "custom"
+        ],
+        "arguments": [
+          "problem_of_induction"
+        ],
+        "schools": [
+          "british_empiricism"
+        ]
+      }
+    }
   }
 }

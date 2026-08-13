@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Letter to El Sol from Cordoba: an account of a general strike as a symptom of the coming agrarian storm over Andalusia, and a denunciation of Madrid's ignorance of rural problems. Occasional political text.
+> The digest records 1,678 words but zero atoms and no sample: the text cannot be inspected. The title indicates a public letter on the Andalusian agrarian problem, but the content is unverifiable.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

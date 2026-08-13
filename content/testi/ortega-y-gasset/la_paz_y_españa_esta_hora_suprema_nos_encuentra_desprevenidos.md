@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> 1918 editorial on peace after the Great War: Spain faces it unprepared; peace is a struggle of virtues (competence, efficiency) requiring political forces able to transform the state. Non-philosophical.
+> The digest contains no prose sample at all (0 atoms, 991 words declared): the content cannot be judged. The title points to an article on peace and an unprepared Spain, but this cannot be verified.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

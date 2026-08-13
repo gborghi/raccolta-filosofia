@@ -12,8 +12,18 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > A philosophical comedy in which the eristic sophists Euthydemus and Dionysodorus bamboozle their interlocutor with captious syllogisms, while Socrates, conversing with the young Cleinias, argues that no external good — health, wealth, power — is good without the wisdom to use it well. Wisdom emerges as the only unconditional good.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/virtue_ethics|virtù]]  
+**Concetti:** [[concepts/wisdom|sapienza]], [[concepts/virtue|virtù]], [[concepts/education|educazione]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -104,7 +114,7 @@ Allora vi ritengo più fortunati nel possedere un tale tesoro di quanto lo sia i
 
 È per questo che siamo venuti qui, Socrate; e il nostro scopo non è solo di dar mostra, ma anche di insegnare a chiunque desideri imparare.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/wisdom,concepts/virtue,concepts/education,figures/socrates,forms/dialogue"></span>
 
 But I can promise you, I said, that every unvirtuous person will want to learn. I shall be the first; and there is the youth Cleinias, and Ctesippus: and here are several others, I said, pointing to the lovers of Cleinias, who were beginning to gather round us. Now Ctesippus was sitting at some distance from Cleinias; and when Euthydemus leaned forward in talking with me, he was prevented from seeing Cleinias, who was between us; and so, partly because he wanted to look at his love, and also because he was interested, he jumped up and stood opposite to us: and all the other admirers of Cleinias, as well as the disciples of Euthydemus and Dionysodorus, followed his example. And these were the persons whom I showed to Euthydemus, telling him that they were all eager to learn: to which Ctesippus and all of them with one voice vehemently assented, and bid him exhibit the power of his wisdom. Then I said: O Euthydemus and Dionysodorus, I earnestly request you to do myself and the company the favour to exhibit. There may be some trouble in giving the whole exhibition; but tell me one thing, — can you make a good man of him only who is already convinced that he ought to learn of you, or of him also who is not convinced, either because he imagines that virtue is a thing which cannot be taught at all, or that you are not the teachers of it? Has your art power to persuade him, who is of the latter temper of mind, that virtue can be taught; and that you are the men from whom he will best learn it?
 
@@ -344,7 +354,7 @@ Convenne.
 
 Allora, Clinia, disse, coloro che non sanno imparano, e non coloro che sanno.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/eudaimonia,concepts/wisdom,concepts/virtue,figures/socrates,forms/dialogue"></span>
 
 Euthydemus was proceeding to give the youth a third fall; but I knew that he was in deep water, and therefore, as I wanted to give him a respite lest he should be disheartened, I said to him consolingly: You must not be surprised, Cleinias, at the singularity of their mode of speech: this I say because you may not understand what the two strangers are doing with you; they are only initiating you after the manner of the Corybantes in the mysteries; and this answers to the enthronement, which, if you have ever been initiated, is, as you will know, accompanied by dancing and sport; and now they are just prancing and dancing about you, and will next proceed to initiate you; imagine then that you have gone through the first part of the sophistical ritual, which, as Prodicus says, begins with initiation into the correct use of terms. The two foreign gentlemen, perceiving that you did not know, wanted to explain to you that the word ‘to learn’ has two meanings, and is used, first, in the sense of acquiring knowledge of some matter of which you previously have no knowledge, and also, when you have the knowledge, in the sense of reviewing this matter, whether something done or spoken by the light of this newly-acquired knowledge; the latter is generally called ‘knowing’ rather than ‘learning,’ but the word ‘learning’ is also used; and you did not see, as they explained to you, that the term is employed of two opposite sorts of men, of those who know, and of those who do not know. There was a similar trick in the second question, when they asked you whether men learn what they know or what they do not know. These parts of learning are not serious, and therefore I say that the gentlemen are not serious, but are only playing with you. For if a man had all that sort of knowledge that ever was, he would not be at all the wiser; he would only be able to play with men, tripping them up and oversetting them with distinctions of words. He would be like a person who pulls away a stool from some one when he is about to sit down, and then laughs and makes merry at the sight of his friend overturned and laid on his back. And you must regard all that has hitherto passed between you and them as merely play. But in what is to follow I am certain that they will exhibit to you their serious purpose, and keep their promise (I will show them how); for they promised to give me a sample of the hortatory philosophy, but I suppose that they wanted to have a game with you first. And now, Euthydemus and Dionysodorus, I think that we have had enough of this. Will you let me see you explaining to the young man how he is to apply himself to the study of virtue and wisdom? And I will first show you what I conceive to be the nature of the task, and what sort of a discourse I desire to hear; and if I do this in a very inartistic and ridiculous manner, do not laugh at me, for I only venture to improvise before you because I am eager to hear your wisdom: and I must therefore ask you and your disciples to refrain from laughing. And now, O son of Axiochus, let me put a question to you: Do not all men desire happiness? And yet, perhaps, this is one of those ridiculous questions which I am afraid to ask, and which ought not to be asked by a sensible man: for what human being is there who does not desire happiness?
 
@@ -568,7 +578,7 @@ E si può usarle o rettamente o erroneamente?
 
 Deve usarle rettamente.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/wisdom,concepts/virtue,concepts/education,figures/socrates,forms/dialogue"></span>
 
 That is quite true, I said. And the wrong use of a thing is far worse than the non-use; for the one is an evil, and the other is neither a good nor an evil. You admit that?
 
@@ -876,7 +886,7 @@ E parlare è fare e produrre?
 
 Convenne.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/wisdom,concepts/virtue,concepts/education,figures/socrates,forms/dialogue"></span>
 
 Then no one says that which is not, for in saying what is not he would be doing something; and you have already acknowledged that no one can do what is not. And therefore, upon your own showing, no one says what is false; but if Dionysodorus says anything, he says what is true and what is.
 
@@ -1144,7 +1154,7 @@ Non saprei dire di conoscerne.
 
 Allora perché mi hai chiesto che senso avessero le mie parole?
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/wisdom,concepts/virtue,concepts/education,figures/socrates,forms/dialogue"></span>
 
 Why, because I was stupid and made a mistake. And yet, perhaps, I was right after all in saying that words have a sense; — what do you say, wise man? If I was not in error, even you will not refute me, and all your wisdom will be non-plussed; but if I did fall into error, then again you are wrong in saying that there is no error, — and this remark was made by you not quite a year ago. I am inclined to think, however, Dionysodorus and Euthydemus, that this argument lies where it was and is not very likely to advance: even your skill in the subtleties of logic, which is really amazing, has not found out the way of throwing another and not falling yourself, now any more than of old.
 
@@ -1344,7 +1354,7 @@ SOCRATE: Trovarla! mio caro signore, no davvero. E facemmo ben magra figura; era
 
 CRITONE: Come accadde ciò, Socrate?
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/wisdom,concepts/virtue,concepts/education,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): I will tell you; the kingly art was identified by us with the political.
 
@@ -1632,7 +1642,7 @@ Certamente no, disse Ctesippo: dovete inoltre dirci quest'unica cosa, e allora s
 
 Certamente, replicò.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/wisdom,concepts/virtue,concepts/education,figures/socrates,forms/dialogue"></span>
 
 And can he vault among swords, and turn upon a wheel, at his age? has he got to such a height of skill as that?
 
@@ -1920,7 +1930,7 @@ Allora, disse, Cheredemo non è un padre.
 
 Non è mio padre, dissi.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/wisdom,concepts/virtue,concepts/education,figures/socrates,forms/dialogue"></span>
 
 But can a father be other than a father? or are you the same as a stone?
 
@@ -2292,7 +2302,7 @@ No, disse Ctesippo, ma la domanda che pongo è se tutte le cose sono silenti o p
 
 Né l'uno né l'altro, e entrambi, disse Dionisodoro, interponendosi rapidamente; sono sicuro che rimarrai 'sconcertato' a quella risposta.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/wisdom,concepts/virtue,concepts/education,figures/socrates,forms/dialogue"></span>
 
 Here Ctesippus, as his manner was, burst into a roar of laughter; he said, That brother of yours, Euthydemus, has got into a dilemma; all is over with him. This delighted Cleinias, whose laughter made Ctesippus ten times as uproarious; but I cannot help thinking that the rogue must have picked up this answer from them; for there has been no wisdom like theirs in our time. Why do you laugh, Cleinias, I said, at such solemn and beautiful things?
 
@@ -2532,7 +2542,7 @@ Bravo Eracle, o è Eracle un bravo? disse Dionisodoro.
 
 Poseidone, disse Ctesippo, che terribili distinzioni. Non ne voglio più; i due sono invincibili.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/wisdom,concepts/virtue,concepts/education,figures/socrates,forms/dialogue"></span>
 
 Then, my dear Crito, there was universal applause of the speakers and their words, and what with laughing and clapping of hands and rejoicings the two men were quite overpowered; for hitherto their partisans only had cheered at each successive hit, but now the whole company shouted with delight until the columns of [the Lyceum](/schools/lyceum) returned the sound, seeming to sympathize in their joy. To such a pitch was I affected myself, that I made a speech, in which I acknowledged that I had never seen the like of their wisdom; I was their devoted servant, and fell to praising and admiring of them. What marvellous dexterity of wit, I said, enabled you to acquire this great perfection in such a short time? There is much, indeed, to admire in your words, Euthydemus and Dionysodorus, but there is nothing that I admire more than your magnanimous disregard of any opinion — whether of the many, or of the grave and reverend seigniors — you regard only those who are like yourselves. And I do verily believe that there are few who are like you, and who would approve of such arguments; the majority of mankind are so ignorant of their value, that they would be more ashamed of employing them in the refutation of others than of being refuted by them. I must further express my approval of your kind and public-spirited denial of all differences, whether of good and evil, white or black, or any other; the result of which is that, as you say, every mouth is sewn up, not excepting your own, which graciously follows the example of others; and thus all ground of offence is taken away. But what appears to me to be more than all is, that this art and invention of yours has been so admirably contrived by you, that in a very short time it can be imparted to any one. I observed that Ctesippus learned to imitate you in no time. Now this quickness of attainment is an excellent thing; but at the same time I would advise you not to have any more public entertainments; there is a danger that men may undervalue an art which they have so easy an opportunity of acquiring; the exhibition would be best of all, if the discussion were confined to your two selves; but if there must be an audience, let him only be present who is willing to pay a handsome fee; — you should be careful of this; — and if you are wise, you will also bid your disciples discourse with no man but you and themselves. For only what is rare is valuable; and ‘water,’ which, as Pindar says, is the ‘best of all things,’ is also the cheapest. And now I have only to request that you will receive Cleinias and me among your pupils.
 
@@ -2564,7 +2574,7 @@ SOCRATE: Ora capisco, Critone; è uno di una classe anfibia, che stavo per menzi
 
 CRITONE: Che dici di loro, Socrate? C'è certo qualcosa di specioso in quella loro nozione.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/education,concepts/methexis,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): Yes, Crito, there is more speciousness than truth; they cannot be made to understand the nature of intermediates. For all persons or things, which are intermediate between two other things, and participate in both of them — if one of these two things is good and the other evil, are better than the one and worse than the other; but if they are in a mean between two good things which do not tend to the same end, they fall short of either of their component elements in the attainment of their ends. Only in the case when the two component elements which do not tend to the same end are evil is the participant better than either. Now, if philosophy and political action are both good, but tend to different ends, and they participate in both, and are in a mean between them, then they are talking nonsense, for they are worse than either; or, if the one be good and the other evil, they are better than the one and worse than the other; only on the supposition that they are both evil could there be any truth in what they say. I do not think that they will admit that their two pursuits are either wholly or partly evil; but the truth is, that these philosopher-politicians who aim at both fall short of both in the attainment of their respective ends, and are really third, although they would like to stand first. There is no need, however, to be angry at this ambition of theirs — which may be forgiven; for every man ought to be loved who says and manfully pursues and works out anything which is at all like wisdom: at the same time we shall do well to see them as they really are.
 

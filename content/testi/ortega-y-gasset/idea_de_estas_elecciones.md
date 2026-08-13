@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article (1918) against the commonplace that Spain's parliament does not represent public opinion: the fiction is not the Cortes but our idea of our public opinion, which matches them exactly. The two alternating parties differed not in ideas but in persons; now opinion has voted for the highest bidder, and the national Cunegonde has walked spontaneously towards her ravishment.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -162,7 +169,7 @@ Riconosciamo, prima di tutto, che nella maggior parte dei distretti spagnoli que
 
 Conviene in queste esperienze che va facendo l'anima patria ricorrere al commentario con leale interezza, e che ciascuno esuma, chiara e ragionata, la sua intimità di giudizio.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/political_legitimacy,positions/sovereignty,positions/civil_society,concepts/property,concepts/education"></span>
 
 Prefiero mil veces que el censo se venda a que el censo se regale. Siquiera por aquel triste medio aprenderán los españoles a dar valor a su voto, y descubrirán que ese derecho soberano a elegir constituye una propiedad real y eficiente, patrimonio de cada ciudadano. Sesenta años de discursos no han servido, al parecer, para que se enteren de que ese pequeño tesoro existía. Esperemos que en unos años de finanza electoral hagan mejor aprendizaje. Tal vez así, cuando vuelvan a inyectarse en el aire social fuertes ideas políticas, encuentren un pueblo que tiene de su soberanía una noción más clara y hasta métricodecimal. Ahora, como siempre, será la economía el mejor pedagogo del derecho.
 

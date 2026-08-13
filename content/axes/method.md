@@ -11,7 +11,7 @@ positions:
   - "genealogy"
   - "ratiovitalism"
   - "geometric_method"
-work_count: 64
+work_count: 59
 tags:
   - "graph/axis"
 title: "Metodo"
@@ -25,15 +25,15 @@ title: "Metodo"
 
 ## Posizioni su questo asse
 
-- [dubbio metodico](/positions/methodic_doubt) — 11 opere · contro [quaestio disputata](/positions/quaestio_disputata)
+- [dubbio metodico](/positions/methodic_doubt) — 10 opere · contro [quaestio disputata](/positions/quaestio_disputata)
 - [quaestio disputata](/positions/quaestio_disputata) — 0 opere · contro [dubbio metodico](/positions/methodic_doubt), [genealogia](/positions/genealogy)
 - [dialettica](/positions/dialectic) — 15 opere · contro [induzione](/positions/induction)
 - [induzione](/positions/induction) — 6 opere · contro [dialettica](/positions/dialectic), [dubbio metodico](/positions/methodic_doubt)
 - [genealogia](/positions/genealogy) — 2 opere · contro [quaestio disputata](/positions/quaestio_disputata)
-- [raziovitalismo](/positions/ratiovitalism) — 7 opere
+- [raziovitalismo](/positions/ratiovitalism) — 2 opere
 - [metodo geometrico](/positions/geometric_method) — 5 opere
 
-## Opere (64)
+## Opere (59)
 
 **Aristotle**
 - [Posterior Analytics (71a)](/testi/aristotle/posterior_analytics_71a)
@@ -90,23 +90,18 @@ title: "Metodo"
 
 **Ortega y Gasset**
 - [3.º Antiutopismo o antirracionalismo](/testi/ortega-y-gasset/3º_antiutopismo_o_antirracionalismo)
+- Advertencia_al_lector
 - [Aurora de la razón histórica](/testi/ortega-y-gasset/aurora_de_la_razón_histórica)
 - [Bronca en la física](/testi/ortega-y-gasset/bronca_en_la_física)
 - [Capítulo primero Creer y pensar](/testi/ortega-y-gasset/capítulo_primero_creer_y_pensar)
 - [Capítulo segundo Los mundos interiores](/testi/ortega-y-gasset/capítulo_segundo_los_mundos_interiores)
 - [Defensa del teólogo frente al místico](/testi/ortega-y-gasset/defensa_del_teólogo_frente_al_místico)
 - [Descartes y el método transcendental](/testi/ortega-y-gasset/descartes_y_el_método_transcendental)
-- [EL TEMA DE NUESTRO TIEMPO](/testi/ortega-y-gasset/el_tema_de_nuestro_tiempo)
 - [El deber de la nueva generación argentina](/testi/ortega-y-gasset/el_deber_de_la_nueva_generación_argentina)
-- [Instinto y razón](/testi/ortega-y-gasset/instinto_y_razón)
-- [La crisis de hoy y de hace cinco siglos Creación y recepción La socialización del](/testi/ortega-y-gasset/la_crisis_de_hoy_y_de_hace_cinco_siglos_creación_y_recepción_la_socialización_del)
-- [Lo que más falta hace hoy Versión taquigráfica de una emisión por Radio Madrid a Buenos](/testi/ortega-y-gasset/lo_que_más_falta_hace_hoy_versión_taquigráfica_de_una_emisión_por_radio_madrid_a_buenos)
-- [MEDITACIONES DEL QUIJOTE](/testi/ortega-y-gasset/meditaciones_del_quijote)
 - [Ni vitalismo ni racionalismo](/testi/ortega-y-gasset/ni_vitalismo_ni_racionalismo)
 - [Qué es el conocimiento Trozos de un curso](/testi/ortega-y-gasset/qué_es_el_conocimiento_trozos_de_un_curso)
 - [Restauración](/testi/ortega-y-gasset/restauración)
 - [Sensación construcción e intuición](/testi/ortega-y-gasset/sensación_construcción_e_intuición)
-- [Sobre el estudiar y el estudiante Primera lección de un curso](/testi/ortega-y-gasset/sobre_el_estudiar_y_el_estudiante_primera_lección_de_un_curso)
 - [a Metodología](/testi/ortega-y-gasset/a_metodología)
 
 **Pascal**

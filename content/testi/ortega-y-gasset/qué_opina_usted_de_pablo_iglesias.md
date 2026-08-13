@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A brief reply (December 1915) to a survey by Acción Socialista: praise of Pablo Iglesias's probity against a defamation campaign, with the single reservation that Ortega holds it illicit to be a 'party man'. An occasional piece, not philosophical.
 

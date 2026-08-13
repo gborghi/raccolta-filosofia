@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review-essay on Schulten's 'Tartessos': the city on the Guadalquivir older than Gades, identified by Schulten with Atlantis, reconstructed from the Massaliote periplus preserved in Avienus's Ora maritima. Ortega adds his own inference: a people with six-thousand-year-old laws and no martial spirit already felt itself old, historically weary, decadent.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from Strauss's book on Renan's politics, Ortega shows that Renan's electoral programmes were corollaries of his philosophy of history — and that, since for him the historical is the divine, that philosophy is in fact a theology. He distinguishes Spinoza's pantheism (impossible after the eighteenth century) from Renan's God as "the category of the ideal": the divine is the imaginary place onto which man projects whatever he finds of great value in himself.
+
+## Connections
+
+**Assi:** [[assi/god|Dio]]  
+**Posizioni:** [[positions/pantheism|panteismo]], [[positions/critical_genealogy|genealogia critica]]  
+**Concetti:** [[concepts/religion|religione]]  
+**Figure:** [[figures/spinoza|Spinoza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

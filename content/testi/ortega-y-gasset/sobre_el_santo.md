@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review of the translation of Fogazzaro's Il Santo, the emblematic work of Italian modernism. Ortega, who calls himself outside every Church, confesses that he found in it the 'Catholic emotion' and argues that there is a religious sense as there is an aesthetic sense or a sense of smell: whoever lacks it has one world fewer, and the trans-scientific core of things is their religiosity.
+
+## Connections
+
+**Assi:** [[assi/god|Dio]]  
+**Concetti:** [[concepts/religion|religione]], [[concepts/faith|fede]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +110,7 @@ Mediante l'origenismo, i riformisti esercitano la virtù moderna della veracità
 
 «Il terzo spirito maligno che corrompe la Chiesa —dice il santo al Papa stesso— è lo spirito di avarizia… Il Vicario di Cristo vive in questa magnificenza, come visse nel suo arcivescovado con un cuore puro di povero. Molti Pastori venerandi vivono nella Chiesa con uguale cuore; ma lo spirito di povertà non è abbastanza insegnato come lo insegnò Cristo; le labbra dei ministri di Cristo sono troppo spesso compiacenti con la cupidigia degli avari… Lo spirito mi obbliga a dire di più. Non è opera di un giorno; ma si prepari questo giorno e non si lasci tale missione ai nemici di Dio e della Chiesa; si prepari il giorno nel quale i sacerdoti di Cristo diano esempio di povertà effettiva, vivano poveri per obbligo, come per obbligo vivono casti».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/god,concepts/religion,concepts/faith,forms/essay"></span>
 
 Éste es el franciscanismo, reforma de la práctica evangélica, como el otro momento llevaba a la reforma de la teoría dogmática. Taxativamente lo declara otro personaje: «Los tiempos, señores, piden una acción franciscana. Pero yo no veo señal de ella. Veo a las antiguas órdenes religiosas que ya no tienen fuerza para obrar sobre la sociedad. Veo una democracia cristiana, administrativa y política que no tiene el espíritu de San Francisco, que no ama la santa Pobreza. Veo una sociedad de estudios franciscanos ¡juguetes intelectuales! Yo desearía que se suscitase una acción franciscana. ¡Si se quiere, una reforma católica!»
 
@@ -186,7 +194,7 @@ E ora vi domando: che altra cosa è la cultura se non il lavoro graduale dell'um
 
 —Bene, don Rubín —disse allora Giovanni Storione—; ma la cultura, la soluzione di un problema è, innanzi tutto e sopra tutto, un'attività scientifica. Sostiene lei, perciò, che la scienza nasce dall'emozione religiosa, e sebbene questo sembri molto esatto, mi occorre domandare: come spiega lei questa dissensione quasi incessante tra la religione e la scienza? Già vedo che lei distingue tra religione e sentimento religioso: ma in ogni [caso](/concepts/fortune), saranno scienza e religione due sorelle concepite in quella matrice originaria del rispetto. Come è possibile che siano nemiche?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/god,concepts/religion,concepts/faith,forms/essay"></span>
 
 —Ahí tienes, hermano Esturión —repuso el místico español—, lo que ha dado interés supremo a la algarada modernista: la cuestión de las relaciones entre la fe y la ciencia, querella eterna y brava, en que todos debemos tomar posiciones, porque anda en el juego la suerte de la cultura y el porvenir del respeto.
 

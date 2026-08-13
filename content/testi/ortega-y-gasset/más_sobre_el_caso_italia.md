@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A reply to the irritation stirred by his article 'El caso Italia' on the Tripoli venture: Ortega defends himself by saying he merely reflected, in far milder form, what the European press had printed, and recalls that his article's theme was the astonishment that hostile world opinion should coagulate only against Italy and Spain while the great nations commit far graver imperialist acts. Journalism.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +120,7 @@ Neppure mi sembra che nei fondi dei giornali si conceda l'importanza opportuna a
 
 Si tratta del disprezzo crescente nelle grandi razze del Nord, nelle razze germaniche e anglosassone, verso i popoli meridionali. Neppure con lagnanze diplomatiche e luoghi comuni retorici si sopprime quel fatto. Eccolo là, terribile e minaccioso. Un disprezzo che fa gravitare sempre più sui destini di Spagna e Italia le volontà incontestate dei popoli anglosassoni e germanici. Fin dove giungerà l'imperialismo di questi popoli? Nessuno lo sa: soltanto si sa che i limiti non si vedono, e che tutto, tutto è da temere.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 En consecuencia, hace años que en periódicos de España y América prosigo una campaña de excitación a la defensa de los pueblos latinos contra los del Norte, y especialmente de España contra las potencias circundantes. Sólo que los espíritus patrioteros creen que adulando los vicios meridionales y proclamando un vacuísimo renacimiento latino, van a conseguir dotarnos de energías y de armas. Mi convicción es inversa: los pueblos del Sur sólo podrán hacerse respetar de los del Norte si concurren con ellos en tecnicismo, serenidad y severa moral.
 

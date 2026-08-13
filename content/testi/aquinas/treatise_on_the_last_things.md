@@ -12,8 +12,16 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > An eschatological treatise on the general judgment, the resurrection of bodies, and the final state of a renewed world. It discusses who will judge and who will be judged, the form in which Christ the Judge will appear, and the final destiny of the good and the wicked.
+
+## Connections
+
+**Concetti:** [[concepts/death|morte]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +36,7 @@ TREATISE ON THE LAST THINGS (QQ[86]-99)
 
 Trattato sulle ultime cose (QQ[86]-99)
 
-<span class="atom-split" data-atom="002" data-title="OF THE KNOWLEDGE WHICH, AFTER RISING AGAIN, MEN WILL HAVE AT THE JUDGMENT CONCERNING MERITS AND DEMERITS (THREE ARTICLES)" data-chapter="OF THE KNOWLEDGE WHICH, AFTER RISING AGAIN, MEN WILL HAVE AT THE JUDGMENT CONCERNING MERITS AND DEMERITS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE KNOWLEDGE WHICH, AFTER RISING AGAIN, MEN WILL HAVE AT THE JUDGMENT CONCERNING MERITS AND DEMERITS (THREE ARTICLES)" data-chapter="OF THE KNOWLEDGE WHICH, AFTER RISING AGAIN, MEN WILL HAVE AT THE JUDGMENT CONCERNING MERITS AND DEMERITS (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 In the next place we must treat of those things which follow the resurrection. The first of these
 to be considered will be the knowledge, which after rising again, men will have at the judgment,
@@ -48,7 +56,7 @@ In seguito, dobbiamo trattare di quelle cose che seguono la risurrezione. La pri
 (2) Se ognuno sarà in grado di leggere ciò che si trova nella coscienza degli altri;  
 (3) Se si potranno vedere, in un istante, tutti i meriti e i demeriti delle persone.
 
-<span class="atom-split" data-atom="003" data-title="Whether after the resurrection every one will know what sins he has committed?" data-chapter="Whether after the resurrection every one will know what sins he has committed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether after the resurrection every one will know what sins he has committed?" data-chapter="Whether after the resurrection every one will know what sins he has committed?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that after the resurrection everyone will not be able to know all the sins
 he has committed. For whatever we know, either we receive it anew through the senses, or we draw
@@ -134,7 +142,7 @@ diminish their pain; indeed, it will increase it, because the greatest sorrow is
 goods: for which reason Boethius says (De Consol. ii) that "the greatest misfortune is to have been
 happy."
 
-<span class="atom-split" data-atom="004" data-title="Whether every one will be able to read all that is in another's conscience?" data-chapter="Whether every one will be able to read all that is in another's conscience?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether every one will be able to read all that is in another's conscience?" data-chapter="Whether every one will be able to read all that is in another's conscience?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that it will be impossible for every one to read all that is in another's
 conscience. For the knowledge of those who rise again will not be clearer than that of the angels,
@@ -230,7 +238,7 @@ Risposta all’Obiezione 3: La rivelazione dei peccati di un uomo al fine di con
 
 Risposta all’Obiezione 4: La confusione del peccatore non diminuirà, ma anzi aumenterà, quando vedrà i peccati altrui; infatti, riconoscendo che gli altri sono da biasimare, egli comprenderà ancora più chiaramente di essere anch’egli colpevole. Tuttavia, una riduzione di tale confusione potrebbe derivare da cause legate all’opinione altrui, poiché la vergogna riguarda l’opinione umana, che valuta meno ciò che è considerato normale o consuetudinario. Ma in questo caso, la confusione riguarderebbe invece l’opinione di Dio, il quale valuta ogni peccato secondo la verità, indipendentemente dal fatto che sia commesso da uno solo o da molti.
 
-<span class="atom-split" data-atom="005" data-title="Whether all merits and demerits, one's own as well as those of others, will be seen by anyone at a single glance?" data-chapter="Whether all merits and demerits, one's own as well as those of others, will be seen by anyone at a single glance?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether all merits and demerits, one's own as well as those of others, will be seen by anyone at a single glance?" data-chapter="Whether all merits and demerits, one's own as well as those of others, will be seen by anyone at a single glance?" data-kind="atom" data-srclang="en" data-tags="concepts/time,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that not all merits and demerits, one's own as well as those of
 others, will be seen by anyone at a single glance. For things considered singly are not seen at one
@@ -274,7 +282,7 @@ in a very short time, the Divine power coming to their aid. This agrees with the
 in a space of time, however short, is potentially an infinite number of instants. This suffices for the
 replies to the objections on either side of the question.
 
-<span class="atom-split" data-atom="006" data-title="OF THE GENERAL JUDGMENT, AS TO THE TIME AND PLACE AT WHICH IT WILL BE (FOUR ARTICLES)" data-chapter="OF THE GENERAL JUDGMENT, AS TO THE TIME AND PLACE AT WHICH IT WILL BE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="OF THE GENERAL JUDGMENT, AS TO THE TIME AND PLACE AT WHICH IT WILL BE (FOUR ARTICLES)" data-chapter="OF THE GENERAL JUDGMENT, AS TO THE TIME AND PLACE AT WHICH IT WILL BE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider the general judgment, as to the time and place at which it will be. Under
 this head there are four points of inquiry:
@@ -291,7 +299,7 @@ Dobbiamo ora considerare il giudizio universale, in relazione al tempo e al luog
 (3) Se avverrà in un momento sconosciuto;  
 (4) Se si terrà nella valle di Giosafat.
 
-<span class="atom-split" data-atom="007" data-title="Whether there will be a general judgment?" data-chapter="Whether there will be a general judgment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether there will be a general judgment?" data-chapter="Whether there will be a general judgment?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there will not be a general judgment. For according to Nahum
 1:9, following the Septuagint version, "God will not judge the same thing a second time." But God
@@ -381,7 +389,7 @@ Risposta all’Obiezione 2: La frase che caratterizza questo giudizio generale �
 
 Risposta all’Obiezione 3: Il giudizio generale considererà in modo più diretto la natura umana in quanto tale, piuttosto che ogni singolo individuo che deve essere giudicato, come già detto sopra. Pertanto, anche se prima di quel giudizio ciascuno sarà certo della propria condanna o ricompensa, non conoscerà quelle degli altri. Da qui deriva la necessità del giudizio generale.
 
-<span class="atom-split" data-atom="008" data-title="Whether the judgment will take place by word of mouth?" data-chapter="Whether the judgment will take place by word of mouth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether the judgment will take place by word of mouth?" data-chapter="Whether the judgment will take place by word of mouth?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this judgment, as regards the inquiry and sentence, will take
 place by word of mouth. For according to [Augustine](/figures/augustine) (De Civ. Dei xx) "it is uncertain how many
@@ -458,7 +466,7 @@ Risposta all’Obiezione 2: Anche se il giudizio avvenga esclusivamente nella me
 
 Risposta all’Obiezione 3: Cristo apparirà in carne e ossa, affinché il Giudice possa essere riconosciuto da tutti sotto forma umana; inoltre, ciò può avvenire improvvisamente. Tuttavia, se la giustizia dovesse avvenire attraverso parole pronunciate ad alta voce, l’intero processo richiederebbe un tempo estremamente lungo.
 
-<span class="atom-split" data-atom="009" data-title="Whether the time of the future judgment is unknown?" data-chapter="Whether the time of the future judgment is unknown?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether the time of the future judgment is unknown?" data-chapter="Whether the time of the future judgment is unknown?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/time,concepts/revelation,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that the time of the future judgment is not unknown. For just as
 the holy Fathers looked forward to the first coming, so do we look forward to the second. But the
@@ -570,7 +578,7 @@ Risposta all’Obiezione 3: L’espressione “È l’ultima ora” e simili fra
 
 Risposta all’Obiezione 4: Nonostante l’incertezza della morte, l’incertezza del giudizio universale spinge all’attenzione in due modi. Primo, riguardo a ciò che viene ignorato, poiché il suo verificarsi può avvenire in qualsiasi momento, durante tutta la durata della vita umana; quindi l’incertezza stessa induce a una maggiore prudenza. In secondo luogo, poiché un uomo è sollecito non solo per se stesso, ma anche per la propria famiglia, la propria città, il proprio regno o tutta la Chiesa, la cui esistenza non dipende dalla durata della vita umana; pertanto è necessario che tutto ciò sia organizzato in modo che il giorno del Signore non ci trovi impreparati.
 
-<span class="atom-split" data-atom="010" data-title="Whether the judgment will take place in the valley of Josaphat?" data-chapter="Whether the judgment will take place in the valley of Josaphat?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the judgment will take place in the valley of Josaphat?" data-chapter="Whether the judgment will take place in the valley of Josaphat?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the judgment will not take place in the valley of Josaphat or
 in the surrounding locality. For at least it will be necessary for those to be judged to stand on the
@@ -633,7 +641,7 @@ Risposta all’Obiezione 2: Sebbene Cristo abbia meritato il Suo potere giudizia
 
 Risposta all’Obiezione 3: Secondo alcuni, il termine “nuvole” viene qui utilizzato per indicare determinate condensazioni della luce che proviene dai corpi dei santi, e non per riferirsi ad evaporazioni provenienti dalla terra e dall’acqua. Oppure si può dire che tali nuvole vengano generate per mezzo del potere divino al fine di evidenziare il legame tra la Sua venuta a giudicare e la Sua ascesa al cielo; in questo modo, Colui che è asceso su una nuvola può anche venire a giudicare su una nuvola. Inoltre, la nuvola, per via del suo effetto rinfrescante, simboleggia la misericordia del Giudice.
 
-<span class="atom-split" data-atom="011" data-title="OF THOSE WHO WILL JUDGE AND OF THOSE WHO WILL BE JUDGED AT THE GENERAL JUDGMENT (EIGHT ARTICLES)" data-chapter="OF THOSE WHO WILL JUDGE AND OF THOSE WHO WILL BE JUDGED AT THE GENERAL JUDGMENT (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="OF THOSE WHO WILL JUDGE AND OF THOSE WHO WILL BE JUDGED AT THE GENERAL JUDGMENT (EIGHT ARTICLES)" data-chapter="OF THOSE WHO WILL JUDGE AND OF THOSE WHO WILL BE JUDGED AT THE GENERAL JUDGMENT (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider who will judge and who will be judged at the general judgment. Under
 this head there are eight points of inquiry:
@@ -658,7 +666,7 @@ Dobbiamo ora considerare chi giudicherà e chi sarà giudicato nel grande Giudiz
 (7) Se anche alcuni dei malvagi saranno giudicati;  
 (8) Se anche gli angeli saranno giudicati.
 
-<span class="atom-split" data-atom="012" data-title="Whether any men will judge together with Christ?" data-chapter="Whether any men will judge together with Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether any men will judge together with Christ?" data-chapter="Whether any men will judge together with Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no men will judge with Christ. For it is written (Jn. 5:22,23):
 "The Father . . . hath given all judgment to the Son, that all men may honor the Son." Therefore,
@@ -739,7 +747,7 @@ Risposta all’Obiezione 1: Questa obiezione riguarda il giudizio di autorità, 
 
 Risposta all’Obiezione 3: Non c’è alcun motivo per cui alcuni santi non dovrebbero rivelare certe cose ad altri, sia attraverso la [illuminazione](/schools/enlightenment), come fanno gli angeli più elevati con quelli inferiori [*Cfr. FP, Q[106*, sia attraverso il discorso, come fanno gli angeli inferiori con quelli superiori [*Cfr. FP, Q[107], A[2*.
 
-<span class="atom-split" data-atom="013" data-title="Whether the judicial power corresponds to voluntary poverty?" data-chapter="Whether the judicial power corresponds to voluntary poverty?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether the judicial power corresponds to voluntary poverty?" data-chapter="Whether the judicial power corresponds to voluntary poverty?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the judicial power does not correspond to voluntary poverty.
 For it was promised to none but the twelve apostles (Mat. 19:28): "You shall sit on twelve seats,
@@ -856,7 +864,7 @@ Risposta all’Obiezione 4: Cristo si umiliò perché fu giudicato ingiustamente
 
 Risposta all’Obiezione 5: Un inferiore non può giudicare un superiore in base alla propria autorità, ma può farlo attraverso l’autorità di un superiore, come nel caso di un giudice delegato. Pertanto, non è inappropriato che ai poveri venga concesso il diritto di giudicare gli altri, anche coloro che possiedono maggior merito riguardo alla ricompensa essenziale.
 
-<span class="atom-split" data-atom="014" data-title="Whether the angels will judge?" data-chapter="Whether the angels will judge?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the angels will judge?" data-chapter="Whether the angels will judge?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels will judge. For it is written (Mat. 25:31): "When
 the Son of man shall come in His majesty, and all the angels with Him." Now He is speaking of
@@ -916,7 +924,7 @@ Risposta all’Obiezione 2: Il nome “Troni” viene attribuito agli angeli in 
 
 Risposta all’Obiezione 3: Agli uomini viene promessa l’uguaglianza con gli angeli riguardo alla ricompensa essenziale. Tuttavia, nulla impedisce che venga concessa agli uomini una ricompensa accidentale a scapito degli angeli, come nel caso delle corone delle vergini e dei martiri; lo stesso si può dire per il potere giudiziario.
 
-<span class="atom-split" data-atom="015" data-title="Whether the demons will carry out the sentence of the Judge on the damned?" data-chapter="Whether the demons will carry out the sentence of the Judge on the damned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the demons will carry out the sentence of the Judge on the damned?" data-chapter="Whether the demons will carry out the sentence of the Judge on the damned?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the demons will not carry out the sentence of the Judge on the
 damned after the day of judgment. For, according to the Apostle (1 Cor. 15:24): "He will then bring
@@ -995,7 +1003,7 @@ Risposta all’Obiezione 2: Sebbene il demerito dei demoni non richieda che sian
 
 Risposta all’Obiezione 3: Gli angeli buoni non sono la causa della principale ricompensa riservata agli eletti, poiché tutti la ricevono immediatamente da Dio. Tuttavia, gli angeli sono la causa di alcune ricompense accessorie per gli uomini, nella misura in cui gli angeli più elevati illuminano quelli inferiori, sia angeli che uomini, riguardo a certe verità nascoste di Dio che non fanno parte dell’essenza stessa della [beatazza](/positions/beatitude). Allo stesso modo, i dannati riceveranno la loro principale punizione immediatamente da Dio, ovvero l’esilio eterno dalla visione divina; tuttavia non vi è alcun motivo per cui i demoni non possano tormentare gli uomini con altre punizioni sensibili. Esiste tuttavia questa differenza: il merito eleva, mentre il peccato degrada. Poiché la natura angelica è superiore a quella umana, alcuni, grazie all’eccellenza del loro merito, saranno elevati al punto di trovarsi sopra gli angeli sia per natura che per ricompense [*Cfr. FP, Q[108], A[8]*]; in tal modo, alcuni angeli saranno illuminati da alcuni uomini. D’altra parte, nessun peccatore umano, grazie a un certo grado di virtù, raggiungerà l’elevatezza propria della natura dei demoni.
 
-<span class="atom-split" data-atom="016" data-title="Whether all men will be present at the judgment?" data-chapter="Whether all men will be present at the judgment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether all men will be present at the judgment?" data-chapter="Whether all men will be present at the judgment?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that men will not all be present at the judgment. For it is written
 (Mat. 19:28): "You . . . shall sit on twelve seats, judging the twelve tribes of Israel." But all men
@@ -1054,7 +1062,7 @@ Risposta all’Obiezione 2: Le parole “I malvagi non si leveranno al giudizio�
 
 Risposta all’Obiezione 3: Anche i bambini che sono morti prima di raggiungere l’età perfetta saranno presenti al giudizio, non per essere giudicati, ma per vedere la gloria del Giudice.
 
-<span class="atom-split" data-atom="017" data-title="Whether the good will be judged at the judgment?" data-chapter="Whether the good will be judged at the judgment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the good will be judged at the judgment?" data-chapter="Whether the good will be judged at the judgment?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/faith,concepts/justice,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that none of the good will be judged at the judgment. For it is
 declared (Jn. 3:18) that "he that believeth in Him is not judged." Now all the good believed in Him.
@@ -1126,7 +1134,7 @@ Risposta all’Obiezione 2: I meriti degli eletti verranno discussi non per elim
 
 Risposta all’Obiezione 3: Gregorio parla di coloro che saranno ancora in carne mortale; per questo aveva già detto: “Coloro che saranno ancora nel corpo, sebbene ormai coraggiosi e perfetti, dovranno comunque essere turbati dal terrore in mezzo a un simile vortice di orrore”. È quindi chiaro che questo timore si riferisce al periodo immediatamente precedente il giudizio: un momento davvero terribile per i malvagi, ma non per i buoni, i quali non proveranno alcuna apprensione riguardo al male. Gli argomenti contrari considerano invece il giudizio come un momento legato alla distribuzione delle ricompense.
 
-<span class="atom-split" data-atom="018" data-title="Whether the wicked will be judged?" data-chapter="Whether the wicked will be judged?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether the wicked will be judged?" data-chapter="Whether the wicked will be judged?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that none of the wicked will be judged. For even as damnation is
 certain in the case of unbelievers, so is it in the case of those who die in mortal sin. Now it is
@@ -1182,7 +1190,7 @@ Risposta all’Obiezione 1: Sebbene sia certo che coloro che muoiono in peccato 
 
 Risposta all’Obiezione 2: Considerate da questo particolare punto di vista, le parole rivolte ai credenti che stanno per essere condannati non saranno terribili, poiché riveleranno in loro certe qualità piacevoli, che è impossibile trovare negli increduli, dato che “senza fede è impossibile compiacere Dio” (Ebrei 11:6). Tuttavia, la sentenza di condanna che verrà emessa contro tutti loro sarà terribile per tutti quanti. L’argomento presentato nel senso opposto riguarda invece il giudizio di riparazione.
 
-<span class="atom-split" data-atom="019" data-title="Whether at the coming judgment the angels will be judged?" data-chapter="Whether at the coming judgment the angels will be judged?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether at the coming judgment the angels will be judged?" data-chapter="Whether at the coming judgment the angels will be judged?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels will be judged at the coming judgment. For it is
 written (1 Cor. 6:3): "Know you not that we shall judge angels?" But this cannot refer to [the state](/concepts/state)
@@ -1244,7 +1252,7 @@ Risposta all’Obiezione 1: Questa affermazione dell’Apostolo si riferisce al 
 
 Risposta all’Obiezione 2: I demoni saranno quindi gettati giù agli occhi di tutti, poiché verranno imprigionati per l’eternità nelle prigioni dell’inferno; non potranno più uscire liberamente, poiché ciò loro era permesso soltanto nella misura in cui erano guidati dalla provvidenza divina al fine di mettere alla prova la vita umana. Lo stesso risposta vale anche per l’Terza Obiezione.
 
-<span class="atom-split" data-atom="020" data-title="OF THE FORM OF THE JUDGE IN COMING TO THE JUDGMENT (THREE ARTICLES)" data-chapter="OF THE FORM OF THE JUDGE IN COMING TO THE JUDGMENT (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="OF THE FORM OF THE JUDGE IN COMING TO THE JUDGMENT (THREE ARTICLES)" data-chapter="OF THE FORM OF THE JUDGE IN COMING TO THE JUDGMENT (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the form of the Judge in coming to the judgment. Under this head there
 are three points of inquiry:
@@ -1259,7 +1267,7 @@ Dobbiamo ora considerare la forma sotto cui il Giudice emetterà la sua sentenza
 (2) Se apparirà nella forma della Sua umanità glorificata;  
 (3) Se la Sua divinità possa essere compresa senza provare gioia.
 
-<span class="atom-split" data-atom="021" data-title="Whether Christ will judge under the form of His humanity?" data-chapter="Whether Christ will judge under the form of His humanity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether Christ will judge under the form of His humanity?" data-chapter="Whether Christ will judge under the form of His humanity?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ will not judge under the form of His humanity. For
 judgment requires authority in the judge. Now Christ has authority over the quick and the dead as
@@ -1376,7 +1384,7 @@ Risposta all’Obiezione 4: In quella visione di Daniele l’intero ordine del p
 
 Risposta all’Obiezione 5: Agostino utilizza una sorta di “appropriazione” per individuare le effetti che Cristo ha operato nella natura umana, attribuendoli a cause in qualche modo simili. Poiché noi siamo fatti a immagine e somiglianza di Dio riguardo alla nostra anima, e apparteniamo alla stessa specie dell’uomo Cristo riguardo al nostro corpo, Agostino attribuisce alla divinità gli effetti che Cristo ha prodotto nelle nostre anime, mentre quelli che Egli ha operato o opererà nei nostri corpi li attribuisce alla Sua carne; sebbene la Sua carne, essendo lo strumento della Sua divinità, abbia anch’essa un effetto sulle nostre anime, come afferma Damasceno nel De Fide Orthodossa iii, 15, secondo quanto dice l’Epistola agli Ebrei 9:14, dove si legge che il “suo sangue” ha purificato “la nostra coscienza dai peccati”. Pertanto, il fatto che “il Verbo si sia fatto carne” costituisce la causa della risurrezione delle anime; ed è proprio per questo motivo che, in base alla Sua natura umana, Egli diventa giudice non solo dei beni materiali, ma anche di quelli spirituali [*Cfr. TP, Q[56], A[2], ad 1].
 
-<span class="atom-split" data-atom="022" data-title="Whether at the judgment Christ will appear in His glorified humanity?" data-chapter="Whether at the judgment Christ will appear in His glorified humanity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether at the judgment Christ will appear in His glorified humanity?" data-chapter="Whether at the judgment Christ will appear in His glorified humanity?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that at the judgment Christ will not appear in His glorified humanity.
 For a gloss [*St. [Augustine](/figures/augustine), Tract. cxx in Joan.] on  Jn. 19:37, "They shall look on him whom they
@@ -1478,7 +1486,7 @@ Risposta all’Obiezione 4: Proprio come la gloria del nostro amico ci procura p
 
 Risposta all’Obiezione 5: Con “forma” si intende qui la [natura umana](/axes/human_nature) entro la quale Egli fu giudicato e allo stesso modo giudicherà; non invece una qualità della natura, come quella della debolezza, che in Lui non sarà la stessa quando giudica che quando è giudicato (Cfr. ad 2).
 
-<span class="atom-split" data-atom="023" data-title="Whether the Godhead can be seen by the wicked without joy?" data-chapter="Whether the Godhead can be seen by the wicked without joy?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether the Godhead can be seen by the wicked without joy?" data-chapter="Whether the Godhead can be seen by the wicked without joy?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Godhead can be seen by the wicked without joy. For there
 can be no doubt that the wicked will know with the greatest certainty that Christ is God. Therefore
@@ -1579,7 +1587,7 @@ Risposta all’Obiezione 4: Il dolore non rappresenta una disposizione d’animo
 
 Risposta all’Obiezione 5: La disfunzione di un organo elimina la proporzione naturale tra quell’organo e l’oggetto che possiede una capacità naturale di procurare piacere; di conseguenza, il piacere stesso viene ostacolato. Tuttavia, la disfunzione presente nei dannati non elimina quella proporzione naturale che li dirige verso la bontà divina, poiché l’immagine di Dio rimane sempre in loro. Pertanto, questo confronto non è valido.
 
-<span class="atom-split" data-atom="024" data-title="OF THE QUALITY OF THE WORLD AFTER THE JUDGMENT (FIVE ARTICLES)" data-chapter="OF THE QUALITY OF THE WORLD AFTER THE JUDGMENT (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="OF THE QUALITY OF THE WORLD AFTER THE JUDGMENT (FIVE ARTICLES)" data-chapter="OF THE QUALITY OF THE WORLD AFTER THE JUDGMENT (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must next discuss the quality which the world and those who rise again will have after the
 judgment. Here a threefold matter offers itself to our consideration: (1) [The state](/concepts/state) and quality of the
@@ -1600,7 +1608,7 @@ Dobbiamo ora discutere della qualità che il mondo e coloro che risorgeranno avr
 (4) Gli elementi acquisiranno una maggiore chiarezza?  
 (5) Animali e piante rimarranno esistenti?
 
-<span class="atom-split" data-atom="025" data-title="Whether the world will be renewed?" data-chapter="Whether the world will be renewed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the world will be renewed?" data-chapter="Whether the world will be renewed?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the world will never be renewed. For nothing will be but what
 was at some time as to its species: "What is it that hath been? the same thing that shall be" (Eccles.
@@ -1710,7 +1718,7 @@ Risposta all’Obiezione 4: Questa disposizione alla novità non sarà né natur
 
 Risposta all’Obiezione 5: Sebbene, in senso stretto, i corpi insensibili non abbiano meritato questa gloria, l’uomo ha comunque meritato che tale gloria venisse conferita all’intero universo, nella misura in cui ciò contribuisce al rafforzamento della sua stessa gloria. Pertanto, un uomo merita di essere vestito con abiti ancora più splendidi, di un lusso che tali abiti da soli non avrebbero mai meritato.
 
-<span class="atom-split" data-atom="026" data-title="Whether the movement of the heavenly bodies will cease? (parte 1)" data-chapter="Whether the movement of the heavenly bodies will cease?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether the movement of the heavenly bodies will cease? (parte 1)" data-chapter="Whether the movement of the heavenly bodies will cease?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that when the world is thus renewed the movement of the heavenly bodies
 will not cease. For it is written (Gn. 8:22): "All the days of the earth . . . cold and heat, summer and
@@ -1843,7 +1851,7 @@ Rispondo che esistono tre opinioni al riguardo di questa questione. La prima è 
 
 Risposta all’Obiezione 1: Queste parole si riferiscono alla terra nel suo stato attuale, quando è in grado di essere il principio della generazione e della distruzione delle piante. Ciò è evidente da frasi come: “Per tutti i giorni della terra, periodo di semina e raccolto”, ecc. È semplicemente vero che, finché la terra rimane adatta alla semina e alla raccolta, il movimento del cielo non cesserà mai. Rispondiamo allo stesso modo anche all’Obiezione 2: il Signore parla qui della durata della “semenza di Israele” nel suo stato attuale. Ciò è chiaro dalle parole: “Allora anche la semenza di Israele perirà, e non sarà più una nazione davanti a Me”. Dopo questo stato, infatti, non ci sarà più alcuna successione di giorni; pertanto anche le leggi menzionate dal Signore cesseranno di valere dopo tale evento.
 
-<span class="atom-split" data-atom="027" data-title="Whether the movement of the heavenly bodies will cease? (parte 2)" data-chapter="Whether the movement of the heavenly bodies will cease?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether the movement of the heavenly bodies will cease? (parte 2)" data-chapter="Whether the movement of the heavenly bodies will cease?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: The end which is there assigned to the heavenly bodies is their proximate
 end, because it is their proper act. But this act is directed further to another end, namely the service
@@ -1946,7 +1954,7 @@ Risposta all’Obiezione 9: Il tempo finirà, quando cesserà il movimento celes
 Risposta all’Obiezione 10: Si afferma che il movimento del cielo sia naturale, non nel senso che esso faccia parte della natura nello stesso modo in cui parliamo di principi naturali; ma perché ha la sua origine nella natura di un corpo, sebbene non nel suo principio attivo, bensì in quello passivo. Il suo principio attivo è una sostanza spirituale, come afferma il Commentatore nel De Coelo et Mundo; pertanto non è irragionevole che questo movimento possa cessare con la rinascita della gloria divina, poiché la natura del corpo celeste non cambierà con l’interruzione di tale movimento.  
 Riconosciamo le altre obiezioni formulate in senso contrario, ovvero le prime tre, poiché sono argomentate in modo corretto. Tuttavia, poiché le ultime due sembrano concludere che il movimento del cielo cesserà naturalmente, dobbiamo rispondervi. Alla prima obiezione rispondiamo che il movimento cessa quando il suo scopo viene raggiunto, a condizione che tale scopo sia conseguenza del movimento stesso e non ne faccia parte integrante. Ora, secondo i filosofi, lo scopo del movimento celeste è proprio l’imitazione della bontà divina nella causalità di quel movimento rispetto al mondo terreno; pertanto non si può concludere che tale movimento cessi naturalmente. Alla seconda obiezione rispondiamo che, sebbene la quiete sia in sé più nobile del movimento, il movimento in un essere che così può acquisire una perfetta partecipazione alla bontà divina è ancora più nobile della quiete in un essere che non è in grado di raggiungere tale perfezione attraverso il movimento. Per questo motivo, la terra, essendo l’elemento più basso tra tutti, è priva di movimento; tuttavia Dio, che è al di sopra di tutte le cose e anch’Egli privo di movimento, è colui che muove i corpi più nobili. Ecco perché si può considerare che i movimenti dei corpi celesti siano perenni, nella misura in cui dipendono dalla loro natura intrinseca, e mai terminino con la quiete, a differenza dei movimenti dei corpi terreni.
 
-<span class="atom-split" data-atom="028" data-title="Whether the brightness of the heavenly bodies will be increased at this renewal? (parte 1)" data-chapter="Whether the brightness of the heavenly bodies will be increased at this renewal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether the brightness of the heavenly bodies will be increased at this renewal? (parte 1)" data-chapter="Whether the brightness of the heavenly bodies will be increased at this renewal?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the brightness of the heavenly bodies will not be increased at
 this renewal. For this renewal as regards the lower bodies will be caused by the cleansing fire. But
@@ -2081,7 +2089,7 @@ Risposta all’Obiezione 4: Questa diminuzione, secondo l’opinione più probab
 
 Risposta all’Obiezione 5: Una cosa può essere utile all’uomo in due modi. Primo, per necessità; in tal caso, nessuna creatura sarà utile all’uomo, poiché egli disporrà di tutto ciò di cui ha bisogno direttamente da Dio. Ciò è indicato nelle parole citate nell’Apocalisse (21:23), secondo cui quella “città non avrà bisogno né del sole né della luna”. Secondo, per via di una maggiore perfezione; in questo caso, l’uomo farà uso delle altre creature, ma non come se queste fossero indispensabili per raggiungere i propri scopi, proprio come avviene attualmente.
 
-<span class="atom-split" data-atom="029" data-title="Whether the brightness of the heavenly bodies will be increased at this renewal? (parte 2)" data-chapter="Whether the brightness of the heavenly bodies will be increased at this renewal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether the brightness of the heavenly bodies will be increased at this renewal? (parte 2)" data-chapter="Whether the brightness of the heavenly bodies will be increased at this renewal?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 6: This is the argument of Rabbi Moses who endeavors to prove (Dux
 errantium iii) that the world was by no means made for man's use. Wherefore he maintains that
@@ -2100,7 +2108,7 @@ as though this were the principal end, since the principal end of all things is 
 
 Risposta all’Obiezione 6: Questo è l’argomento del Rabbino Mosè, il quale cerca di dimostrare (Dux errantium iii) che il mondo non è affatto stato creato per l’uso dell’uomo. Sostiene quindi che quanto leggiamo nell’Antico Testamento riguardo al rinnovamento del mondo, come evidenziato dalle citazioni di Isaia, vada inteso in senso metaforico: così come si dice che il sole si oscuri quando una persona affronta una grande sofferenza e non sa cosa fare (un modo di esprimersi comune nella [Scrittura](/concepts/revelation)), allo stesso modo si dice che il sole splenda più intensamente e che l’intero mondo si rinnovi quando una persona passa da uno stato di dolore a uno di grande gioia. Tuttavia, questo argomento non è in armonia con l’autorità e i commenti degli uomini santi. Pertanto dobbiamo rispondere dicendo che, sebbene i corpi celesti superino di gran lunga il corpo umano, l’anima razionale supera i corpi celesti molto di più di quanto questi ultimi superino il corpo umano. Quindi non è irragionevole affermare che i corpi celesti siano stati creati per l’uomo; tuttavia, questo non significa che tale sia lo scopo principale della loro esistenza, poiché lo scopo principale di tutte le cose è Dio.
 
-<span class="atom-split" data-atom="030" data-title="Whether the elements will be renewed by an addition of brightness?" data-chapter="Whether the elements will be renewed by an addition of brightness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the elements will be renewed by an addition of brightness?" data-chapter="Whether the elements will be renewed by an addition of brightness?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the elements will not be renewed by receiving some kind of
 brightness. For just as light is a quality proper to a heavenly body, so are hot and cold, wet and dry.
@@ -2207,7 +2215,7 @@ Risposta all’Obiezione 4: Questa luminosità sarà presente in questi corpi es
 
 Risposta all’Obiezione 5: L’ordine dell’universo non verrà distrutto dal miglioramento degli elementi, poiché anche tutte le altre parti ne trarranno beneficio e quindi la stessa armonia rimarrà intatta.
 
-<span class="atom-split" data-atom="031" data-title="Whether the plants and animals will remain in this renewal?" data-chapter="Whether the plants and animals will remain in this renewal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether the plants and animals will remain in this renewal?" data-chapter="Whether the plants and animals will remain in this renewal?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the plants and animals will remain in this renewal. For the
 elements should be deprived of nothing that belongs to their adornment. Now the elements are said
@@ -2334,7 +2342,7 @@ Risposta all’Obiezione 5: Il desiderio naturale, presente negli animali e nell
 (2) Se lo vedranno con gli occhi del corpo;  
 (3) Se, vedendo Dio, vedranno anche tutto ciò che Dio vede.
 
-<span class="atom-split" data-atom="032" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 1)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 1)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the human intellect cannot attain to the vision of God in His
 essence. For it is written (Jn. 1:18): "No man hath seen God at any time"; and Chrysostom in his
@@ -2462,7 +2470,7 @@ Obiezione 15: Inoltre, ciò che viene visto attraverso un mezzo non viene percep
 
 Obiezione 16: Inoltre, in cielo Dio sarà visto faccia a faccia, secondo 1 Corinzi 13:12. Ora, quando vediamo un uomo faccia a faccia, lo vediamo attraverso la sua somiglianza. Pertanto, in cielo Dio sarà visto attraverso la Sua somiglianza, e quindi non nella Sua essenza stessa.
 
-<span class="atom-split" data-atom="033" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 2)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 2)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,forms/quaestio"></span>
 
 On the contrary, It is written (1 Cor. 13:12): "We see now through a glass in a dark manner,
 but then face to face." Now that which is seen face to face is seen in its essence. Therefore God
@@ -2494,7 +2502,7 @@ Inoltre, è scritto (Giovanni 14:21): “Chi Mi ama sarà amato dal Mio Padre; e
 Inoltre, Gregorio, commentando (Moralia XVIII) le parole dell’Esodo 33:20 (“L’uomo non Mi potrà vedere e vivere”), disapprova l’opinione di coloro che sostengono che “in questo regno della beatitudine Dio possa essere visto nella Sua gloria, ma non nella Sua natura; infatti la Sua gloria non è diversa dalla Sua natura”. Ma la Sua natura è la Sua essenza. Pertanto, Egli sarà visto nella Sua essenza.  
 Infine, il desiderio dei santi non può essere del tutto frustrato. Il desiderio comune dei santi è vedere Dio nella Sua essenza, come si legge nell’Esodo 33:13 (“Mostrami la Tua gloria”), nel Salmo 79:20 (“Mostra il Tuo volto e saremo salvati”) e in Giovanni 14:8 (“Mostraci il Padre e ci sarà sufficiente”). Pertanto, i santi vedranno Dio nella Sua essenza.
 
-<span class="atom-split" data-atom="034" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 3)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 3)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 I answer that, Even as we hold by faith that the last end of man's life is to see God, so the
 philosophers maintained that man's ultimate happiness is to understand immaterial substances
@@ -2628,7 +2636,7 @@ Le immagini delle loro sostanze non sono certo astratte da esse – poiché tali
 Non è né una quiddità astratta dall’intelletto da cose composite, come sosteneva la prima opinione, né un’impressione lasciata nell’intelletto dalla sostanza separata, come affermava la seconda opinione; ma è la stessa sostanza separata unita all’intelletto come sua forma, in modo da essere sia ciò che viene compreso, sia ciò mediante cui viene compreso. E qualunque possa essere il caso per altre sostanze separate, dobbiamo comunque riconoscere che questo è il nostro modo di vedere Dio nella Sua essenza, perché con qualsiasi altra forma venisse informato l’intelletto, non potrebbe mai giungere all’essenza divina. Tuttavia, ciò non deve essere inteso nel senso che l’essenza divina sia realmente la forma del nostro intelletto, né che dalla sua unione con l’intelletto derivi un’unica entità, come avviene nelle cose naturali dalla forma naturale e dalla materia; ma significa piuttosto che la proporzione dell’essenza divina rispetto al nostro intelletto è simile alla proporzione tra forma e materia. Poiché quando due cose, una delle quali è la perfezione dell’altra, vengono ricevute nello stesso soggetto, la proporzione di una rispetto all’altra – cioè della più perfetta rispetto a quella meno perfetta – è simile alla proporzione tra forma e materia: così la luce e il colore, ricevuti in un oggetto trasparente, hanno una relazione tale che la luce è alla materia come la forma alla materia. Pertanto, quando la “luce intellettuale” viene ricevuta nell’anima insieme all’essenza divina residente in essa, sebbene non vengano ricevute nello stesso modo, l’essenza divina sarà rispetto all’intelletto come la forma rispetto alla materia; e si può dimostrare che ciò è sufficiente affinché l’intelletto possa vedere l’essenza divina attraverso l’essenza stessa di Dio. Poiché, proprio come dalla forma naturale (che dà essere a una cosa) e dalla materia deriva un’unica entità, così dalla forma mediante cui l’intelletto comprende e dall’intelletto stesso deriva qualcosa che può essere compreso in modo intellettivo. Ora, nelle cose naturali, una cosa autonoma non può essere la forma di alcuna materia, se quella cosa ha la materia come uno dei suoi componenti, poiché è impossibile che la materia sia la forma di una cosa; ma se questa cosa autonoma fosse semplicemente una forma, nulla impedirebbe che fosse la forma di qualche materia e diventasse ciò mediante cui quella cosa composta viene formata, come avviene nell’anima. Nell’intelletto, dobbiamo considerare l’intelletto stesso nella sua [potenzialità](/concepts/act_potency) come materia, e le specie intellegibili come forma; in questo modo, l’intelletto che comprende effettivamente sarà quella cosa composta risultante dalla combinazione di entrambi. Pertanto, se esiste una cosa autonoma la cui essenza consiste unicamente nelle cose intellegibili, tale cosa potrebbe essere essa stessa la forma mediante cui l’intelletto comprende. Una cosa è intellegibile in relazione alla sua realtà, e non alla sua potenzialità (Metafisica IX): a dimostrazione di ciò, è necessario astrarre una forma intelligibile dalla materia e da tutte le sue proprietà. Poiché l’essenza divina è un [atto puro](/concepts/actus_purus), essa.
 È possibile che questa sia la forma attraverso cui l’intelletto comprende; ed essa rappresenterà la visione beata. Per questo motivo il Maestro afferma (Sentenze, ii, D, 1) che l’unione del corpo con l’anima è un’esemplificazione dell’unione beata dello spirito con Dio.
 
-<span class="atom-split" data-atom="035" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 4)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 4)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 1: The words quoted can be explained in three ways, according to [Augustine](/figures/augustine)
 (De Videndo Deo: Ep. cxlvii). In one way as excluding corporeal vision, whereby no one ever saw
@@ -2755,7 +2763,7 @@ Risposta all’Obiezione 9: Non sosteniamo l’affermazione di Avicenna riguardo
 
 Risposta all’Obiezione 10: Una sostanza separata dalla materia è in grado di comprendere sia se stessa che altre cose; in entrambi i casi, l’autorità citata può essere verificata. Poiché l’essenza stessa di una sostanza separata è di per sé intelligibile e reale, e poiché essa è separata dalla materia, è evidente che quando una sostanza separata comprende se stessa, ciò che comprende e ciò che viene compreso sono assolutamente identici: essa non si comprende attraverso un’intenzione astratta da sé stessa, come avviene nel caso degli oggetti materiali. Questo sembra essere il significato delle parole del Filosofo (De Anima iii.), come indicato dal Commentatore (De Anima iii.). Tuttavia, quando una sostanza separata comprende altre cose, l’oggetto effettivamente compreso diventa uno con l’intelletto in atto, nella misura in cui la forma di quell’oggetto diventa la forma dell’intelletto stesso; non si tratta però di un’unione identica con l’essenza stessa dell’intelletto, come dimostra Avicenna (De Naturalibus vi.), poiché l’essenza dell’intelletto rimane una sotto due forme diverse, attraverso le quali comprende due cose in successione, proprio come la materia primaria rimane una sotto varie forme. Per questo motivo anche il Commentatore (De Anima iii.) paragona, in questo senso, l’intelletto passivo alla materia primaria. Da ciò non segue affatto che il nostro intelletto, nel contemplare Dio, diventi la stessa essenza di Dio; piuttosto, Dio viene considerato la sua perfezione o forma.
 
-<span class="atom-split" data-atom="036" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 5)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 5)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 11: These and all like authorities must be understood to refer to the
 knowledge whereby we know God on the way, for the reason given above.
@@ -2879,7 +2887,7 @@ Obiezione 6: Inoltre, l’uomo può essere beato soltanto da Dio. Ora, però, sa
 
 Obiezione 7: Inoltre, così come Dio è presente all’intelletto per la sua essenza, lo sarà anche ai sensi, poiché Egli sarà “tutto in tutto” (1 Corinzi 15:28). Ora, l’intelletto può percepire Dio attraverso l’unione della sua essenza con quella dell’intelletto stesso; pertanto, anche i sensi potranno vederLo.
 
-<span class="atom-split" data-atom="037" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 6)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 6)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 On the contrary, Ambrose, commenting on Lk. 1:2, "There appeared to him an angel," says:
 "God is not sought with the eyes of the body, nor surveyed by the sight, nor clasped by the touch."
@@ -3015,7 +3023,7 @@ Obiezione 2: Inoltre, Gregorio afferma (Dial. iv.): “Poiché tutti vedono Dio 
 
 Obiezione 3: Inoltre, nel De [Anima](/concepts/soul) (iii, testo 7) si afferma che “quando un intelletto comprende le cose più grandi, diventa ancora più capace di comprendere anche quelle più piccole”. Ora Dio è la cosa più grande tra tutte quelle comprensibili. Pertanto, la capacità dell’intelletto aumenta notevolmente nel comprendere Lui. Quindi, vedendo Dio, l’intelletto riesce a comprendere ogni cosa.
 
-<span class="atom-split" data-atom="038" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 7)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 7)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/soul,concepts/act_potency"></span>
 
 Objection 4: Further, the intellect is not hindered from understanding a thing except by this
 surpassing it. Now no creature surpasses the intellect that understands God, since, as Gregory says
@@ -3147,7 +3155,7 @@ Risposta all’Obiezione 1: L’affermazione di Isidoro, secondo cui “gli ange
 
 Risposta all’Obiezione 2: Da queste parole di Gregorio deriva che questa beata visione è sufficiente affinché l’essenza divina, in qualità di mezzo attraverso il quale si percepisce tutto, possa vedere tutte le cose; ed è proprio grazie a questa essenza divina che Dio vede ogni cosa. Tuttavia, non tutte le cose vengono effettivamente percepite a causa della limitatezza dell’intelletto creato, che non è in grado di comprendere l’essenza divina.
 
-<span class="atom-split" data-atom="039" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the human intellect can attain to the vision of God in His essence? (parte 8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: The created intellect sees the Divine essence not according to the mode
 of that same essence, but according to its own mode which is finite. Hence its efficacy in knowing
@@ -3252,7 +3260,7 @@ Risposta all’Obiezione 11: L’intelletto attivo è una forma proporzionata al
 
 Risposta all’Obiezione 12: Nulla ci impedisce di affermare che, dopo il giorno del giudizio, quando la gloria degli uomini e degli angeli sarà compiutamente realizzata, tutti i beati conosceranno tutto ciò che Dio conosce attraverso la visione divina; tuttavia, non tutti vedranno ogni cosa nell’essenza stessa di Dio. L’anima di Cristo, invece, vedrà chiaramente tutte le cose, proprio come le vede ora; gli altri, invece, ne percepiranno un numero maggiore o minore a seconda del grado di chiarezza con cui conosceranno Dio. Pertanto, l’anima di Cristo illuminerà tutte le altre anime riguardo a quelle cose che essa vede nella Parola, meglio di quanto possano farlo gli altri. Ecco perché è scritto (Apoc. 21:23): “La gloria di Dio illuminerà la città di Gerusalemme; il Agnello ne è la lampada”. Allo stesso modo, le anime più elevate illumineranno quelle inferiori, non certo con un nuovo tipo di conoscenza, ma attraverso una sorta di continuo processo di [illuminazione](/schools/enlightenment); possiamo quindi considerare il sole che illumina l’atmosfera anche quando rimane fermo nello stesso luogo. Ecco perché è scritto (Dan. 12:3): “Coloro che insegnano la giustizia splenderanno come stelle per tutta l’[eternità](/positions/eternity)”. L’affermazione secondo cui la superiorità delle diverse gerarchie divine cesserebbe si riferisce soltanto al loro attuale ruolo di guida nei nostri confronti, come è chiaro da questo stesso commento.
 
-<span class="atom-split" data-atom="040" data-title="OF THE HAPPINESS OF THE SAINTS AND THEIR MANSIONS (THREE ARTICLES)" data-chapter="OF THE HAPPINESS OF THE SAINTS AND THEIR MANSIONS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="OF THE HAPPINESS OF THE SAINTS AND THEIR MANSIONS (THREE ARTICLES)" data-chapter="OF THE HAPPINESS OF THE SAINTS AND THEIR MANSIONS (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/charity,concepts/theological_virtues"></span>
 
 We must next consider the happiness of the saints and their mansions. Under this head there
 are three points of inquiry:
@@ -3267,7 +3275,7 @@ Dobbiamo ora considerare la felicità dei santi e i loro “luoghi di beatitudin
 (2) Se questi gradi di felicità possano essere definiti “luoghi di beatitudine”;  
 (3) Se tali luoghi di beatitudine differiscano a seconda dei diversi livelli di carità dimostrati dai santi.
 
-<span class="atom-split" data-atom="041" data-title="Whether the happiness of the saints will be greater after the judgment than before?" data-chapter="Whether the happiness of the saints will be greater after the judgment than before?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether the happiness of the saints will be greater after the judgment than before?" data-chapter="Whether the happiness of the saints will be greater after the judgment than before?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/beatitude,concepts/soul,figures/augustine"></span>
 
 Objection 1: It would seem that the happiness of the saints will not be greater after the judgment
 than before. For the nearer a thing approaches to the Divine likeness, the more perfectly does it
@@ -3374,7 +3382,7 @@ Risposta all’Obiezione 3: Sebbene nell’atto di comprendere l’anima non uti
 
 Risposta all’Obiezione 4: Sebbene la somma di qualcosa di finito e di qualcosa di infinito non produca necessariamente una realtà più grande, essa produce comunque più realtà, poiché il finito e l’infinito sono due entità distinte, mentre l’infinito considerato in sé è un’unica entità. Ora, l’estensione maggiore della gioia non riguarda necessariamente una realtà più grande, ma piuttosto il numero maggiore di realtà coinvolte. Pertanto, la gioia aumenta in estensione quando si riferisce a Dio e alla gloria del corpo, rispetto alla gioia che si riferisce soltanto a Dio. Inoltre, la gloria del corpo contribuisce all’intensità della gioia che si riferisce a Dio, poiché essa favorisce un’operazione più perfetta attraverso cui l’anima tende verso Dio; essendo l’operazione più perfetta quella che conduce a una maggiore beatitudine [*Cfr. FS, Q[32], A[1, come affermato nell’Etica, x, 8].
 
-<span class="atom-split" data-atom="042" data-title="Whether the degrees of beatitude should be called mansions?" data-chapter="Whether the degrees of beatitude should be called mansions?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether the degrees of beatitude should be called mansions?" data-chapter="Whether the degrees of beatitude should be called mansions?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the degrees of [beatitude](/positions/beatitude) should not be called mansions. For
 beatitude implies the notion of a reward: whereas mansion denotes nothing pertaining to a reward.
@@ -3435,7 +3443,7 @@ Risposta all’Obiezione 2: Sebbene esista un solo luogo spirituale, esistono di
 
 Risposta all’Obiezione 3: Coloro che si trovavano nel limbo o che attualmente sono nel purgatorio non hanno ancora raggiunto la loro fine. Pertanto, nel purgatorio o nel limbo non vi sono diverse “dimore” o stadi di purificazione, ma soltanto in cielo e all’inferno, dove si trova la fine dei buoni e dei cattivi.
 
-<span class="atom-split" data-atom="043" data-title="Whether the various mansions are distinguished according to the various degrees of charity?" data-chapter="Whether the various mansions are distinguished according to the various degrees of charity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the various mansions are distinguished according to the various degrees of charity?" data-chapter="Whether the various mansions are distinguished according to the various degrees of charity?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the various mansions are not distinguished according to the
 various degrees of charity. For it is written (Mat. 25:15): "He gave to every one according to his
@@ -3507,7 +3515,7 @@ Risposta all’Obiezione 2: Le opere in sé non richiedono il pagamento di una r
 
 Risposta all’Obiezione 3: Sebbene l’abitudine alla carità o a qualsiasi altra virtù non costituisca un merito per il quale sia dovuta una ricompensa, essa rappresenta comunque il principio e la ragione del merito nell’atto stesso; di conseguenza, in base alla sua diversità, si verifica anche la diversità delle ricompense. Ciò non impedisce tuttavia di riconoscere un certo grado di merito nell’atto considerato in modo generale, non certo in relazione alla ricompensa essenziale che è la gioia in Dio, ma in relazione a qualche ricompensa accidentale, che consiste nella gioia derivante da alcuni beni creati.
 
-<span class="atom-split" data-atom="044" data-title="OF THE RELATIONS OF THE SAINTS TOWARDS THE DAMNED (THREE ARTICLES)" data-chapter="OF THE RELATIONS OF THE SAINTS TOWARDS THE DAMNED (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="OF THE RELATIONS OF THE SAINTS TOWARDS THE DAMNED (THREE ARTICLES)" data-chapter="OF THE RELATIONS OF THE SAINTS TOWARDS THE DAMNED (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider the relations of the saints towards the damned. Under this head there
 are three points of inquiry:
@@ -3522,7 +3530,7 @@ Dobbiamo ora esaminare le relazioni dei santi nei confronti dei dannati. In ques
 (2) Li compiangono?
 (3) Si rallegrano dei loro tormenti?
 
-<span class="atom-split" data-atom="045" data-title="Whether the blessed in heaven will see the sufferings of the damned?" data-chapter="Whether the blessed in heaven will see the sufferings of the damned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether the blessed in heaven will see the sufferings of the damned?" data-chapter="Whether the blessed in heaven will see the sufferings of the damned?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/beauty,concepts/suffering,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that the blessed in heaven will not see the sufferings of the damned.
 For the damned are more cut off from the blessed than wayfarers. But the blessed do not see the
@@ -3574,7 +3582,7 @@ Risposta all’Obiezione 1: Questo commento riguarda ciò che i santi defunti so
 
 Risposta all’Obiezione 2: Sebbene la [bellezza](/concepts/beauty) della cosa vista contribuisca alla perfezione della visione, può esistere una deformità nella cosa stessa senza che ciò influisca negativamente sulla percezione visiva; infatti, le immagini delle cose attraverso cui l’anima comprende i contrari non sono esse stesse contrarie. Pertanto, anche Dio, che possiede una conoscenza assolutamente perfetta, vede tutte le cose, sia belle che deformi.
 
-<span class="atom-split" data-atom="046" data-title="Whether the blessed pity the unhappiness of the damned?" data-chapter="Whether the blessed pity the unhappiness of the damned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether the blessed pity the unhappiness of the damned?" data-chapter="Whether the blessed pity the unhappiness of the damned?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the blessed pity the unhappiness of the damned. For pity
 proceeds from charity [*Cf. SS, Q[30]]; and charity will be most perfect in the blessed. Therefore
@@ -3622,7 +3630,7 @@ Risposta all’Obiezione 1: La carità è il principio della pietà quando, per 
 
 Risposta all’Obiezione 2: Si dice che Dio sia misericordioso, nel senso che soccorre coloro che, secondo l’ordine della saggezza e della giustizia, meritano di essere liberati dalle loro sofferenze; non come se provasse pietà per i dannati, se non forse perché li punisce in modo meno severo di quanto meritino.
 
-<span class="atom-split" data-atom="047" data-title="Whether the blessed rejoice in the punishment of the wicked?" data-chapter="Whether the blessed rejoice in the punishment of the wicked?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Whether the blessed rejoice in the punishment of the wicked?" data-chapter="Whether the blessed rejoice in the punishment of the wicked?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the blessed do not rejoice in the punishment of the wicked.
 For rejoicing in another's evil pertains to hatred. But there will be no hatred in the blessed. Therefore
@@ -3697,7 +3705,7 @@ Ora dobbiamo considerare i doni dei beati; in questo ambito vi sono cinque punti
 (4) Gli angeli sono in grado di possedere tali doni?  
 (5) Tre dei doni dell’anima vanno attribuiti correttamente ai beati?
 
-<span class="atom-split" data-atom="048" data-title="Whether any gifts should be assigned as dowry to the blessed? (parte 1)" data-chapter="Whether any gifts should be assigned as dowry to the blessed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether any gifts should be assigned as dowry to the blessed? (parte 1)" data-chapter="Whether any gifts should be assigned as dowry to the blessed?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no gifts should be assigned as dowry to the blessed. For a
 dowry (Cod. v, 12, De jure dot. 20: Dig. xxiii, 3, De jure dot.) is given to the bridegroom for the
@@ -3815,7 +3823,7 @@ Risposta all’Obiezione 1: Sebbene nel matrimonio carnale la dote venga data al
 
 Risposta all’Obiezione 2: Il Padre dello Sposo, cioè di Cristo, è la sola Persona del Padre; mentre il Padre della sposa è l’intera Trinità, poiché ciò che avviene nelle creature appartiene all’intera Trinità. Pertanto, nel matrimonio spirituale, questi doni vengono propriamente detti conferiti dal Padre della sposa e non da quello dello Sposo. Tuttavia, sebbene tale donazione sia effettuata da tutte le Persone della Trinità, essa può essere ricevuta in modo appropriato da ciascuna di esse: dalla Persona del Padre, poiché Egli possiede l’autorità necessaria; e la paternità nei confronti delle creature è anch’essa attribuita a Lui, quindi Egli è Padre sia dello Sposo che della sposa. Alla Persona del Figlio tale donazione è attribuita in quanto viene effettuata per il Suo bene e attraverso di Lui; e alla Santissima Trinità, poiché avviene in Lei e secondo Lei, poiché l’amore è la ragione di ogni donazione [*Cfr. FP, Q[38], A[2*.
 
-<span class="atom-split" data-atom="049" data-title="Whether any gifts should be assigned as dowry to the blessed? (parte 2)" data-chapter="Whether any gifts should be assigned as dowry to the blessed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Whether any gifts should be assigned as dowry to the blessed? (parte 2)" data-chapter="Whether any gifts should be assigned as dowry to the blessed?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: That which is effected by the dowry belongs to the dowry by its nature,
 and that is the ease of marriage: while that which the dowry removes, namely the marriage burden
@@ -3921,7 +3929,7 @@ Risposta all’Obiezione 3: La visione può essere intesa in due modi. In primo 
 
 Risposta all’Obiezione 5: La beata felicità è la somma di tutti i beni, non come se questi fossero parti essenziali della stessa, ma perché, come detto sopra, sono in qualche modo direzionati verso la realizzazione della beata felicità.
 
-<span class="atom-split" data-atom="050" data-title="Whether it is fitting that Christ should receive a dowry?" data-chapter="Whether it is fitting that Christ should receive a dowry?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Whether it is fitting that Christ should receive a dowry?" data-chapter="Whether it is fitting that Christ should receive a dowry?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem fitting that Christ should receive a dowry. For the saints will be
 conformed to Christ through glory, according to Phil. 3:21, "Who will reform the body of our
@@ -4037,7 +4045,7 @@ Risposta all’Obiezione 4: Il termine “Chiesa” viene inteso in due modi div
 
 Risposta all’Obiezione 5: Qui si verifica un errore logico legato al concetto di “casualità”; infatti, queste cose non sono degne di Cristo se vengono considerate dal punto di vista del dote.
 
-<span class="atom-split" data-atom="051" data-title="Whether the angels receive the dowries?" data-chapter="Whether the angels receive the dowries?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="Whether the angels receive the dowries?" data-chapter="Whether the angels receive the dowries?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angels receive dowries. For a gloss on Canticle of Canticles
 6:8, "One is my dove," says: "One is the Church among men and angels." But the Church is the
@@ -4139,7 +4147,7 @@ Risposta all’Obiezione 4: La conformità tra gli angeli e Cristo come Dio non 
 
 Risposta all’Obiezione 5: Cristo non può nemmeno essere chiamato propriamente Capo degli angeli, se consideriamo che il capo richieda una conformità di natura tra sé e i suoi membri. Tuttavia, dobbiamo osservare che, sebbene il capo e gli altri membri facciano parte di un individuo della stessa specie, considerati singolarmente, non appartengono alla stessa specie: ad esempio, la mano è una parte specificamente diversa dalla testa. Pertanto, parlando dei membri in sé stessi, l’unica conformità richiesta tra loro è quella di proporzione, affinché uno possa ricevere dal altro e servirlo. Di conseguenza, la conformità tra Dio e gli angeli è sufficiente per intendere il concetto di “capo”, ma non necessariamente quello di “sposo”.
 
-<span class="atom-split" data-atom="052" data-title="Whether three dowries of the soul are suitably assigned?" data-chapter="Whether three dowries of the soul are suitably assigned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="Whether three dowries of the soul are suitably assigned?" data-chapter="Whether three dowries of the soul are suitably assigned?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unfitting to assign to the soul three dowries, namely, "vision,"
 "love" and "fruition." For the soul is united to God according to the mind wherein is the image of
@@ -4253,7 +4261,7 @@ good of one is made known to others, or as "reverence," as indicating that good 
 thereof, for reverence is the showing of honor which bears witness to virtue. Hence it is evident
 that these five should not be called dowries, but conditions of beatitude.
 
-<span class="atom-split" data-atom="053" data-title="OF THE AUREOLES (THIRTEEN ARTICLES)" data-chapter="OF THE AUREOLES (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="OF THE AUREOLES (THIRTEEN ARTICLES)" data-chapter="OF THE AUREOLES (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 In the next place we must consider the aureoles. Under this head there are thirteen points of
 inquiry:
@@ -4288,7 +4296,7 @@ In seguito, dobbiamo considerare le aureole. In questa categoria esistono tredic
 (12) Se l’aureola della vergine sia la più importante;  
 (13) Se una persona possa godere di un grado più elevato di aureola rispetto a un’altra.
 
-<span class="atom-split" data-atom="054" data-title="Whether the aureole is the same as the essential reward which is called the aurea? (parte 1)" data-chapter="Whether the aureole is the same as the essential reward which is called the aurea?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="Whether the aureole is the same as the essential reward which is called the aurea? (parte 1)" data-chapter="Whether the aureole is the same as the essential reward which is called the aurea?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/charity,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the aureole is not distinct from the essential reward which is
 called the "aurea." For the essential reward is [beatitude](/positions/beatitude) itself. Now according to Boethius (De
@@ -4416,7 +4424,7 @@ Risposta all’Obiezione 1: La beatitudine include tutti i beni necessari per la
 
 Risposta all’Obiezione 2: Colui che osserva costantemente i consigli e i comandamenti merita sicuramente di più rispetto a colui che osserva soltanto i comandamenti, se consideriamo il concetto di merito nelle azioni stesse in base al genere stesso di tali azioni; ma non sempre, se misuriamo il merito alla sua radice essenziale, ovvero la carità: poiché a volte una persona osserva i comandamenti soltanto per motivi di carità più profonda rispetto a colui che li osserva insieme ai consigli. Tuttavia, nella maggior parte dei casi accade il contrario, poiché “la prova dell’amore si trova nell’attuazione concreta delle azioni”, come afferma Gregorio (Hom. xxx in Evang.). Pertanto, ciò che viene chiamato “aurora” non è una ricompensa essenziale più elevata, ma qualcosa che viene aggiunto a tale ricompensa, senza considerare se la ricompensa essenziale del possessore dell’“aurora” sia maggiore, minore o uguale a quella di chi ne è privo.
 
-<span class="atom-split" data-atom="055" data-title="Whether the aureole is the same as the essential reward which is called the aurea? (parte 2)" data-chapter="Whether the aureole is the same as the essential reward which is called the aurea?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Whether the aureole is the same as the essential reward which is called the aurea? (parte 2)" data-chapter="Whether the aureole is the same as the essential reward which is called the aurea?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: Charity is the first principle of merit: but our actions are the instruments,
 so to speak, whereby we merit. Now in order to obtain an effect there is requisite not only a due
@@ -4448,7 +4456,7 @@ Risposta all’Obiezione 4: Tutti gli angeli meritarono la loro [beatazza](/posi
 
 Risposta all’Obiezione 5: Il merito derivante dalla carità è più eccellente di quello che deriva dal genere di azione compiuta; proprio come lo scopo verso cui la carità ci dirige è più nobile delle cose stesse a cui tali azioni mirano. Pertanto, la ricompensa corrispondente al merito derivante dalla carità, per quanto modesta possa essere, è superiore a qualsiasi ricompensa derivante da un’azione qualsiasi, in base al suo genere. Ecco perché il termine “aureola” viene usato in senso diminutivo rispetto a “aurea”.
 
-<span class="atom-split" data-atom="056" data-title="Whether the aureole differs from the fruit?" data-chapter="Whether the aureole differs from the fruit?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="Whether the aureole differs from the fruit?" data-chapter="Whether the aureole differs from the fruit?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the aureole does not differ from the fruit. For different rewards
 are not due to the same merit. Now the aureole and the hundredfold fruit correspond to the same
@@ -4552,7 +4560,7 @@ Risposta all’Obiezione 2: Il “frutto”, nel senso proprio in cui lo stiamo 
 
 Risposta all’Obiezione 3: Sebbene l’aureola sia una ricompensa accidentale aggiunta alla ricompensa essenziale, tuttavia non ogni ricompensa accidentale è un’aureola; essa riguarda soltanto quelle che vengono assegnate alle opere di perfezione, attraverso le quali l’uomo si conforma maggiormente a Cristo nell’ottenimento di una vittoria perfetta. Pertanto non è inappropriato che un’altra ricompensa accidentale, chiamata “frutto”, possa talvolta derivare dal distacco da una vita carnale.
 
-<span class="atom-split" data-atom="057" data-title="Whether a fruit is due to the virtue of continence alone?" data-chapter="Whether a fruit is due to the virtue of continence alone?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Whether a fruit is due to the virtue of continence alone?" data-chapter="Whether a fruit is due to the virtue of continence alone?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/theological_virtues,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a fruit is not due to the virtue of continence alone. For a gloss
 on 1 Cor. 15:41, "One is the glory of the sun," says that "the worth of those who have the hundredfold
@@ -4631,7 +4639,7 @@ Risposta all’Obiezione 4: Sebbene i piaceri legati al cibo siano più necessar
 
 Risposta all’Obiezione 5: Il termine “frutto”, qui utilizzato, non si riferisce al senso in cui il concetto di realizzazione si collega alla gioia finale; bensì a un altro significato, come indicato sopra (A[2]). Pertanto, questo argomento non dimostra nulla.
 
-<span class="atom-split" data-atom="058" data-title="Whether three fruits are fittingly assigned to the three parts of continence?" data-chapter="Whether three fruits are fittingly assigned to the three parts of continence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="Whether three fruits are fittingly assigned to the three parts of continence?" data-chapter="Whether three fruits are fittingly assigned to the three parts of continence?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that three fruits are unfittingly assigned to the three parts of
 continence: because twelve fruits of the Spirit are assigned, "charity, joy, peace," etc. (Gal. 5:22).
@@ -4733,7 +4741,7 @@ Risposta all’Obiezione 3: La distinzione tra questi “frutti” va intesa in 
 
 Risposta all’Obiezione 4: Sebbene questi segni numerici siano un’invenzione umana, sono in qualche modo basati sulla natura delle cose, poiché i numeri vengono rappresentati in modo graduale, secondo l’ordine dei suddetti collegamenti e contatti.
 
-<span class="atom-split" data-atom="059" data-title="Whether an aureole is due on account of virginity? (parte 1)" data-chapter="Whether an aureole is due on account of virginity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="Whether an aureole is due on account of virginity? (parte 1)" data-chapter="Whether an aureole is due on account of virginity?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an aureole is not due on account of virginity. For where there
 is greater difficulty in the work, a greater reward is due. Now widows have greater difficulty than
@@ -4843,7 +4851,7 @@ Rispondo che, dove esiste una vittoria di rilievo, spetta una corona speciale. P
 
 Risposta all’Obiezione 1: In alcuni aspetti, le vergini sperimentano un conflitto maggiore nel rimanere caste; in altri aspetti, le vedove, a parità di condizioni. Le vergini, infatti, sono colpite dalla concupiscenza e dal desiderio di sperimentare, desiderio che nasce da una sorta di curiosità che spinge l’uomo ad essere più propenso a conoscere ciò che non ha mai visto prima. A volte, questa concupiscenza aumenta anche perché le vergini ritengono che il piacere derivante da tali atti sia maggiore di quanto in realtà sia; inoltre, non considerano i disagi o gli svantaggi legati a tale piacere. In questi aspetti, le vedove sperimentano un conflitto minore; tuttavia, il loro conflitto è più intenso proprio a causa dei ricordi legati a quei piaceri. Inoltre, in individui diversi, uno stesso motivo può avere maggiore forza a seconda delle rispettive condizioni personali e disposizioni mentali: alcuni sono più suscettibili ad alcuni tipi di motivazioni, altri ad altri. Comunque sia, indipendentemente dal grado di conflitto che si possa sperimentare, è certo che la vittoria della vergine sia più perfetta di quella della vedova, poiché il tipo di vittoria più completo e più splendido consiste proprio nel non aver mai ceduto al nemico; inoltre, la corona spetta non alla battaglia stessa, ma alla vittoria ottenuta attraverso essa.
 
-<span class="atom-split" data-atom="060" data-title="Whether an aureole is due on account of virginity? (parte 2)" data-chapter="Whether an aureole is due on account of virginity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether an aureole is due on account of virginity? (parte 2)" data-chapter="Whether an aureole is due on account of virginity?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 2: There are two opinions about this. For some say that the Blessed Virgin
 has not an aureole in reward of her virginity, if we take aureole in the proper sense as referring to
@@ -4915,7 +4923,7 @@ Risposta all’Obiezione 6: Il frutto sessanta volte maggiore è dovuto non a tu
 
 Risposta all’Obiezione 7: Se le persone dal cuore freddo e gli eunuchi hanno la volontà di osservare un’incorruzione perpetua, anche se sono capaci di rapporti sessuali, devono essere considerati vergini e meritano l’aureola; poiché trasformano una necessità in virtù. Se, d’altra parte, avessero la volontà di sposarsi se fossero in grado di farlo, non meriterebbero l’aureola. Ecco quindi quanto afferma Agostino nel “De Sancta Virginia” (xxiv): “Per coloro come gli eunuchi, i cui corpi sono talmente strutturati da non poter procreare, basta che diventino cristiani e osservino i comandamenti di Dio; è sufficiente che abbiano la volontà di prendere moglie se fossero in grado di farlo, affinché possano essere considerati tra i fedeli sposati.”
 
-<span class="atom-split" data-atom="061" data-title="Whether an aureole is due to martyrs? (parte 1)" data-chapter="Whether an aureole is due to martyrs?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Whether an aureole is due to martyrs? (parte 1)" data-chapter="Whether an aureole is due to martyrs?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an aureole is not due to martyrs. For an aureole is a reward
 given for works of supererogation, wherefore Bede commenting on Ex. 25:25, "Thou shalt also
@@ -5056,7 +5064,7 @@ Risposta all’Obiezione 1: Soffrire la morte per amore di Cristo è, in senso a
 
 Risposta all’Obiezione 2: Una ricompensa è dovuta per il martirio, non in relazione alla sofferenza esterna subita, ma perché essa viene sopportata volontariamente; poiché meritiamo qualcosa soltanto attraverso ciò che è in noi. E più la sofferenza che si subisce volontariamente è difficile e naturalmente contraria alla volontà, più si dimostra che tale volontà, nel sopportarla per amore di Cristo, è saldamente radicata in Lui; di conseguenza, a tale persona spetta una ricompensa più elevata.
 
-<span class="atom-split" data-atom="062" data-title="Whether an aureole is due to martyrs? (parte 2)" data-chapter="Whether an aureole is due to martyrs?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="Whether an aureole is due to martyrs? (parte 2)" data-chapter="Whether an aureole is due to martyrs?" data-kind="atom" data-srclang="en" data-tags="concepts/suffering,concepts/charity,concepts/virtue,concepts/faith,figures/augustine"></span>
 
 Reply to Objection 3: There are certain acts which, in their very selves, contain intense pleasure
 or difficulty: and in such the act always adds to the character of merit or demerit, for as much as
@@ -5172,7 +5180,7 @@ Risposta all’Obiezione 11: Il bene non creato supera ogni bene creato. Pertant
 
 Risposta all’Obiezione 12: Alcuni sostengono che l’uso della ragione sia stato accelerato per grazia divina nei Bambini innocenti uccisi per amore di Cristo, così come nel caso di Giovanni Battista ancora nel grembo di sua madre; in questo caso essi furono davvero martiri sia nell’atto che nella volontà, e pertanto possiedono l’aureola dei martiri. Altri, tuttavia, affermano che essi siano stati martiri soltanto nell’atto e non nella volontà; questa sembra essere l’opinione di Bernardo, il quale distingue tre tipi di martiri, come già accennato in precedenza (OBIEZIONE 3). In questo caso, i Bambini innocenti, anche se non soddisfano tutte le condizioni richieste per essere considerati martiri, sono comunque martiri in senso lato, poiché morirono per Cristo; pertanto possiedono l’aureola, sebbene non nella sua piena perfezione, ma in modo parziale, poiché gioiscono di essere morti al servizio di Cristo. Come già detto in precedenza (A[5]) riguardo ai bambini battezzati, essi proveranno una certa gioia nella loro innocenza e integrità fisica; [*Cfr. Santi, Q[124], A[1], ad 1, dove San Tommaso afferma che i Santi Bambini innocenti furono davvero martiri.*]
 
-<span class="atom-split" data-atom="063" data-title="Whether an aureole is due to doctors?" data-chapter="Whether an aureole is due to doctors?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether an aureole is due to doctors?" data-chapter="Whether an aureole is due to doctors?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an aureole is not due to doctors. For every reward to be had
 in the life to come will correspond to some act of virtue. But preaching or teaching is not the act
@@ -5240,7 +5248,7 @@ Risposta all’Obiezione 2: Sebbene la capacità di predicare e insegnare sia ta
 
 Risposta all’Obiezione 3: L’esaltazione in questa vita non riduce la ricompensa dell’altra vita, tranne per colui che cerca nella propria esaltazione gloria personale; invece, chi utilizza quell’esaltazione a beneficio altrui ne ottiene una ricompensa anche per sé. Tuttavia, quando si afferma che l’insegnamento meriti un riconoscimento, ciò si riferisce all’insegnamento relativo alla salvezza, attraverso il quale il diavolo viene scacciato dai cuori degli uomini, come se si trattasse di un’arma spirituale; di questo si parla in 2 Corinzi 10:4: “Le armi della nostra lotta non sono carnali, ma spirituali”.
 
-<span class="atom-split" data-atom="064" data-title="Whether an aureole is due to Christ?" data-chapter="Whether an aureole is due to Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="Whether an aureole is due to Christ?" data-chapter="Whether an aureole is due to Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an aureole is due to Christ. For an aureole is due to virginity,
 martyrdom, and teaching. Now these three were pre-eminently in Christ. Therefore an aureole is
@@ -5307,7 +5315,7 @@ Risposta all’Obiezione 2: Sebbene l’aureola derivi da un’opera estremament
 
 Risposta all’Obiezione 3: Sebbene la verginità abbia in qualche modo il proprio esempio in Dio, tale esempio non è omogeneo. L’incorruzione di Dio, che la verginità imita, non esiste in Dio nello stesso modo in cui esiste in una vergine.
 
-<span class="atom-split" data-atom="065" data-title="Whether an aureole is due to the angels?" data-chapter="Whether an aureole is due to the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Whether an aureole is due to the angels?" data-chapter="Whether an aureole is due to the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an aureole is due to the angels. For Jerome (Serm. de Assump.
 [*Ep. ad Paul. et Eustoch. ix]) speaking of virginity says: "To live without the flesh while living
@@ -5363,7 +5371,7 @@ Risposta all’Obiezione 2: L’incorruzione perpetua dello spirito negli angeli
 
 Risposta all’Obiezione 3: Gli atti mediante i quali gli angeli ci insegnano fanno parte della loro gloria e del loro stato comune; pertanto, non meritano per questo motivo alcun riconoscimento particolare.
 
-<span class="atom-split" data-atom="066" data-title="Whether an aureole is also due to the body?" data-chapter="Whether an aureole is also due to the body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Whether an aureole is also due to the body?" data-chapter="Whether an aureole is also due to the body?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/beauty,concepts/soul,figures/augustine"></span>
 
 Objection 1: It would seem that an aureole is also due to the body. For the essential reward is
 greater than the accidental. But the dowries which belong to the essential reward are not only in
@@ -5409,7 +5417,7 @@ Al contrario, le anime che ora si trovano in cielo possiedono aureole; eppure no
 Rispondo che, per usare un termine preciso, l’aureola esiste soltanto nella mente: poiché essa rappresenta la gioia derivante dalle opere a cui spetta tale onore. Tuttavia, proprio come dalla gioia derivante dalla ricompensa essenziale – che è l’aureola stessa – deriva una certa bellezza nel corpo, così anche dalla gioia legata all’aureola si origina una sorta di grazia fisica; in altre parole, l’aureola risiede principalmente nella mente, ma, per così dire, “trasborda” e si manifesta anche nel corpo.  
 Ciò basta per rispondere alle obiezioni sollevate. Va tuttavia osservato che la bellezza delle cicatrici che appariranno sui corpi dei martiri non può essere considerata un’aurora, poiché alcuni martiri possiederanno un’aureola senza tali segni fisici: ad esempio coloro che furono uccisi annegati, per fame o nelle condizioni disumane della prigione.
 
-<span class="atom-split" data-atom="067" data-title="Whether three aureoles are fittingly assigned, those of virgins, of martyrs, and of doctors?" data-chapter="Whether three aureoles are fittingly assigned, those of virgins, of martyrs, and of doctors?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="Whether three aureoles are fittingly assigned, those of virgins, of martyrs, and of doctors?" data-chapter="Whether three aureoles are fittingly assigned, those of virgins, of martyrs, and of doctors?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the three aureoles of virgins, martyrs, and doctors are unfittingly
 assigned. For the aureole of martyrs corresponds to their virtue of fortitude, the aureole of virgins
@@ -5492,7 +5500,7 @@ Risposta all’Obiezione 2: Sebbene la povertà sia un mezzo di perfezionamento,
 
 Risposta all’Obiezione 5: Un’aureola spetta coloro che pongono la dottrina sacra per iscritto; tuttavia essa non è diversa dall’aureola degli studiosi, poiché la stesura di scritti rappresenta anch’essa un modo di insegnare.
 
-<span class="atom-split" data-atom="068" data-title="Whether the virgin's aureole is the greatest of all?" data-chapter="Whether the virgin's aureole is the greatest of all?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="Whether the virgin's aureole is the greatest of all?" data-chapter="Whether the virgin's aureole is the greatest of all?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the virgin's aureole is the greatest of all. For it is said of virgins
 (Apoc. 14:4) that they "follow the Lamb whithersoever He goeth," and (Apoc. 14:3) that "no" other
@@ -5548,7 +5556,7 @@ In primo luogo, dal punto di vista dei conflitti: quell’aureola viene ritenuta
 In secondo luogo, dal punto di vista degli obiettivi per cui si svolge quel conflitto: in questo caso, l’aureola del medico ha la precedenza su tutte le altre, poiché il suo impegno riguarda beni intellettuali, mentre gli altri conflitti riguardano passioni sensibili. Tuttavia, la precedenza considerata in base al tipo di conflitto è quella più essenziale per definire l’importanza dell’aureola stessa; poiché, secondo la sua natura intrinseca, un’aureola rappresenta soprattutto la vittoria ottenuta attraverso una battaglia ardua. La difficoltà di tale battaglia è quindi più rilevante di quella percepita dal nostro punto di vista, dato che il conflitto avviene a distanza ravvicinata.  
 Pertanto, l’aureola del martire è senza dubbio la più importante di tutte; per questo motivo, un commento sul Vangelo di Matteo 5:10 afferma che “tutte le altre beatitudini si realizzano nella ottava, quella dei martiri”, cioè: “Beati coloro che soffrono persecuzioni”. Proprio per questa ragione, la Chiesa, nell’elencare i santi, pone i martiri prima dei medici e delle vergini. Tuttavia, nulla impedisce alle altre aureole di essere più eccellenti in alcuni aspetti specifici. E questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="069" data-title="Whether one person has an aureole more excellently than another person?" data-chapter="Whether one person has an aureole more excellently than another person?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="Whether one person has an aureole more excellently than another person?" data-chapter="Whether one person has an aureole more excellently than another person?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one person has not the aureole either of virginity, or of
 martyrdom, or of doctrine more perfectly than another person. For things which have reached their
@@ -5583,7 +5591,7 @@ more subtle than another.
 Reply to Objection 2: The virginity of one may be greater than the virginity of another, by
 reason of a greater withdrawal from that which is contrary to virginity: so that virginity is stated
 to be greater in one who avoids more the occasions of corruption. For in this way privations may
-increase, as when a man is said to be more blind, if he be removed further from the possession of
+increase, as when a man is said to be more blind, if he be removed further from the [possession](/concepts/property) of
 sight.
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5600,7 +5608,7 @@ Risposta all’Obiezione 1: I meriti per i quali un’aureola è degna di essere
 
 Risposta all’Obiezione 2: La verginità di una persona può essere considerata maggiore rispetto a quella di un’altra, in quanto tale persona si astiene maggiormente da ciò che è contrario alla virtù della verginità; quindi la verginità viene ritenuta più elevata in chi evita con maggiore determinazione le occasioni che potrebbero portare alla corruzione. In questo modo, infatti, il grado di astinenza può aumentare: così come si dice che un uomo sia più cieco se è privato della vista in misura maggiore rispetto ad altri.
 
-<span class="atom-split" data-atom="070" data-title="OF THE PUNISHMENT OF THE DAMNED (SEVEN ARTICLES)" data-chapter="OF THE PUNISHMENT OF THE DAMNED (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="OF THE PUNISHMENT OF THE DAMNED (SEVEN ARTICLES)" data-chapter="OF THE PUNISHMENT OF THE DAMNED (SEVEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,assi/god,positions/eternity,forms/quaestio,schools/scholasticism"></span>
 
 In due sequence we must consider those things that concern the damned after the judgment: (1)
 The punishment of the damned, and the fire by which their bodies will be tormented; (2) matters
@@ -5628,7 +5636,7 @@ In due fasi successive dobbiamo considerare quelle cose che riguardano i dannati
 (6) Se appartenga alla stessa specie del nostro fuoco;  
 (7) Se questo fuoco si trovi sotto la terra.
 
-<span class="atom-split" data-atom="071" data-title="Whether in hell the damned are tormented by the sole punishment of fire?" data-chapter="Whether in hell the damned are tormented by the sole punishment of fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Whether in hell the damned are tormented by the sole punishment of fire?" data-chapter="Whether in hell the damned are tormented by the sole punishment of fire?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in hell the damned are tormented by the sole punishment of
 fire; because Mat. 25:41, where their condemnation is declared, mention is made of fire only, in
@@ -5689,7 +5697,7 @@ Risposta all’Obiezione 2: La punizione del purgatorio non ha lo scopo principa
 
 Risposta all’Obiezione 3: I dannati passeranno dall’estrema calura all’estremo freddo senza che ciò loro conceda alcun sollievo; poiché soffriranno a causa di agenti esterni, e non a causa della trasformazione del loro corpo nella sua disposizione naturale originale. La passione opposta, invece, potrebbe offrire un sollievo ripristinando una temperatura equilibrata o moderata, come avviene oggi; ma ciò accadrebbe soltanto attraverso un’azione spirituale, proprio come gli oggetti sensibili agiscono sui sensi imprimendo la loro forma sull’organo percettivo, in base alla loro natura spirituale e non materiale.
 
-<span class="atom-split" data-atom="072" data-title="Whether the worm of the damned is corporeal?" data-chapter="Whether the worm of the damned is corporeal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="Whether the worm of the damned is corporeal?" data-chapter="Whether the worm of the damned is corporeal?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/soul,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that the worm by which the damned are tormented is corporeal.
 Because flesh cannot be tormented by a spiritual worm. Now the flesh of the damned will be
@@ -5735,7 +5743,7 @@ Risposta all’Obiezione 1: Anche le stesse anime dei dannati vengono chiamate �
 
 Risposta all’Obiezione 2: Agostino parla per mezzo di confronti. Non intende affermare in modo assoluto che questo verme sia materiale, ma ritiene più appropriato considerare entrambi elementi materiali, piuttosto che interpretarli esclusivamente in senso spirituale; altrimenti, i dannati non soffrirebbero alcun dolore fisico. Questo è evidente a chiunque esamini il contesto delle sue parole in questo passaggio.
 
-<span class="atom-split" data-atom="073" data-title="Whether the weeping of the damned will be corporeal?" data-chapter="Whether the weeping of the damned will be corporeal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Whether the weeping of the damned will be corporeal?" data-chapter="Whether the weeping of the damned will be corporeal?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/suffering,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the weeping of the damned will be corporeal. For a gloss on
 Lk. 13:28, "There will be weeping," says that "the weeping with which our Lord threatens the
@@ -5775,7 +5783,7 @@ Al contrario, il pianto corporeo deriva dallo sciogliersi in lacrime. Ora non pu
 
 Rispondo che, riguardo al pianto fisico, si devono osservare due aspetti. Il primo è la trasformazione delle lacrime: poiché, dopo il giorno del giudizio, ogni movimento corporeo cesserà, non ci saranno né generazione, né decomposizione, né alterazioni fisiche; pertanto, in questo senso, sarà impossibile che i dannati piangano. Il secondo aspetto riguarda una certa agitazione e disturbo della testa e degli occhi: in questo caso, il pianto sarà possibile anche per i dannati dopo la risurrezione, poiché i loro corpi saranno tormentati sia dall’esterno che dall’interno, in base alle emozioni del loro spirito verso il bene o il male. In questo senso, il pianto rappresenta una prova della risurrezione del corpo e corrisponde al piacere derivante dal peccato, provato sia dall’anima che dal corpo. Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="074" data-title="Whether the damned are in material darkness?" data-chapter="Whether the damned are in material darkness?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="Whether the damned are in material darkness?" data-chapter="Whether the damned are in material darkness?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the damned are not in material darkness. For commenting on
 Job 10:22, "But everlasting horror dwelleth," Gregory says (Moral. ix): "Although that fire will
@@ -5830,7 +5838,7 @@ Al contrario, è scritto (Matteo 22:13): “Legatelo con mani e piedi e gettatel
 
 Rispondo che l’ambiente dell’inferno è stato concepito appositamente per rendere il più possibile intensa l’infelicità dei dannati. Pertanto, sia la luce che l’oscurità vi sono presenti nella misura in cui contribuiscono maggiormente a tale infelicità. La vista, in sé piacevole – come si afferma nel “Metafisico” I, dove si dice che “il senso della vista è il più prezioso, poiché grazie ad esso si conoscono molte cose” – diventa tuttavia dolorosa quando ciò che si vede è dannoso o contrario alla nostra volontà. Pertanto, nell’inferno l’ambiente deve essere così organizzato da impedire di vedere chiaramente qualsiasi cosa; soltanto ciò che può causare angoscia dovrebbe essere percepito in modo sfocato. In altre parole, il luogo è interamente oscuro. Tuttavia, per disposizione divina, vi è una certa quantità di luce, sufficiente appunto a permettere di vedere quelle cose capaci di tormentare l’anima. La natura stessa di quel luogo è sufficiente a questo scopo: nel centro della Terra, dove si dice che si trovi l’inferno, il fuoco è necessariamente denso, fumoso e oscuro. Alcuni ritengono che questa oscurità sia causata dall’accumulo dei corpi dei dannati, i quali riempiono interamente quel luogo al punto di non lasciare spazio per l’aria; pertanto, non esiste alcun elemento traslucido in grado di permettere la presenza della luce o dell’oscurità, tranne che negli occhi dei dannati stessi, i quali diventano completamente ciechi. Questo basta a rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="075" data-title="Whether the fire of hell will be corporeal?" data-chapter="Whether the fire of hell will be corporeal?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Whether the fire of hell will be corporeal?" data-chapter="Whether the fire of hell will be corporeal?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,schools/scholasticism,concepts/soul,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that the fire of hell whereby the bodies of the damned will be
 tormented will not be corporeal. For Damascene says (De Fide Orth. iv): The devil, and "demons,
@@ -5936,7 +5944,7 @@ Risposta all’Obiezione 2: L’affermazione di Agostino può essere intesa nel 
 Risposta all’Obiezione 3: Quel fuoco sarà lo strumento della giustizia divina per infliggere punizioni.  
 Ora, uno strumento agisce non solo con la propria forza e nel proprio modo, ma anche con la forza dell’agente principale e secondo le sue direttive. Pertanto, sebbene il fuoco, di per sé, non sia in grado di torturare alcune persone in misura maggiore o minore a seconda del peso del loro peccato, può comunque farlo nella misura in cui la sua azione è regolata dall’ordine della giustizia divina; allo stesso modo, il fuoco della fucina è guidato dalla premeditazione del fabbro, secondo le esigenze dell’arte che egli pratica.
 
-<span class="atom-split" data-atom="076" data-title="Whether the fire of hell is of the same species as ours?" data-chapter="Whether the fire of hell is of the same species as ours?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Whether the fire of hell is of the same species as ours?" data-chapter="Whether the fire of hell is of the same species as ours?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this fire is not of the same species as the corporeal fire which
 we see. For [Augustine](/figures/augustine) says (De Civ. Dei xx, 16): "In my opinion no man knows of what kind is
@@ -6025,7 +6033,7 @@ Risposta all’Obiezione 3: Proprio come i corpi dei dannati saranno della stess
 
 Risposta all’Obiezione 4: Dare luce non appartiene al fuoco, in nessun modo di esistenza; infatti, nella sua materia stessa il fuoco non emette luce; pertanto, secondo i filosofi, esso non brilla nel proprio ambito naturale. Allo stesso modo, in determinate sostanze esterne il fuoco non emette luce, ad esempio quando si trova in una sostanza opaca come lo zolfo. Lo stesso accade quando la sua luminosità viene oscurata da fumo denso. Pertanto, il fatto che il fuoco dell’inferno non dia luce non costituisce una prova sufficiente del fatto che appartenga a una specie diversa.
 
-<span class="atom-split" data-atom="077" data-title="Whether the fire of hell is beneath the earth?" data-chapter="Whether the fire of hell is beneath the earth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="Whether the fire of hell is beneath the earth?" data-chapter="Whether the fire of hell is beneath the earth?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this fire is not beneath the earth. For it is said of the damned
 (Job 18:18), "And God shall remove him out of the globe [Douay: 'world']." Therefore the fire
@@ -6111,7 +6119,7 @@ from that due to wayfarers. We may also reply that these words refer to the puni
 on man on the way: according as each sin has its corresponding punishment, since "inordinate love
 is its own punishment," as Augustine states (Confess. i, 12).
 
-<span class="atom-split" data-atom="078" data-title="OF THE WILL AND INTELLECT OF THE DAMNED (NINE ARTICLES)" data-chapter="OF THE WILL AND INTELLECT OF THE DAMNED (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="OF THE WILL AND INTELLECT OF THE DAMNED (NINE ARTICLES)" data-chapter="OF THE WILL AND INTELLECT OF THE DAMNED (NINE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/will,concepts/evil_privation,schools/scholasticism"></span>
 
 We must next consider matters pertaining to the will and intellect of the damned. Under this
 head there are nine points of inquiry:
@@ -6138,7 +6146,7 @@ Dobbiamo ora considerare questioni relative alla volontà e all’intelletto dei
 (8) Se pensino mai a Dio;  
 (9) Se riescano a percepire la gloria dei beati.
 
-<span class="atom-split" data-atom="079" data-title="Whether every act of will in the damned is evil?" data-chapter="Whether every act of will in the damned is evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="Whether every act of will in the damned is evil?" data-chapter="Whether every act of will in the damned is evil?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that not every act of will in the damned is evil. For according to
 Dionysius (Div. Nom. iv), "the demons desire the good and the best, namely to be, to live, to
@@ -6199,7 +6207,7 @@ Risposta all’Obiezione 2: Il male, in quanto tale, non influenza la volontà; 
 
 Risposta all’Obiezione 3: Le abitudini della virtù civica non rimangono nell’anima separata, poiché tali virtù ci perfezionano soltanto nella vita civile, che non sopravviverà dopo questa vita. Anche se rimanessero, non verrebbero mai messe in atto, essendo come incatenate dall’ostinazione della mente.
 
-<span class="atom-split" data-atom="080" data-title="Whether the damned repent of the evil they have done?" data-chapter="Whether the damned repent of the evil they have done?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="Whether the damned repent of the evil they have done?" data-chapter="Whether the damned repent of the evil they have done?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the damned never repent of the evil they have done. For Bernard
 says on the Canticle [*Cf. De Consideratione v, 12; De [Gratia](/concepts/grace) et [Libero Arbitrio](/positions/free_will) ix] that "the damned
@@ -6268,7 +6276,7 @@ Risposta all’Obiezione 3: Sarà possibile ai dannati pentirsi dei loro peccati
 
 Risposta all’Obiezione 4: Per quanto ostinati possano essere gli uomini in questo mondo, si pentono dei loro peccati in modo indiretto, se vengono puniti per essi. Così dice [Agostino](/figures/augustine) (QQ[83], qu. 36): “Vediamo che anche le bestie più feroci sono dissuase dai piaceri più grandi dal timore del dolore”.
 
-<span class="atom-split" data-atom="081" data-title="Whether the damned by right and deliberate reason would wish not to be?" data-chapter="Whether the damned by right and deliberate reason would wish not to be?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether the damned by right and deliberate reason would wish not to be?" data-chapter="Whether the damned by right and deliberate reason would wish not to be?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem impossible for the damned, by right and deliberate reason, to wish
 not to be. For [Augustine](/figures/augustine) says (De Lib. Arb. iii, 7): "Consider how great a good it is to be; since
@@ -6313,7 +6321,7 @@ Reply to Objection 3: Although "not to be" is very evil, in so far as it removes
 good, in so far as it removes unhappiness, which is the greatest of evils, and thus it is preferred
 "not to be."
 
-<span class="atom-split" data-atom="082" data-title="Whether in hell the damned would wish others were damned who are not damned?" data-chapter="Whether in hell the damned would wish others were damned who are not damned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Whether in hell the damned would wish others were damned who are not damned?" data-chapter="Whether in hell the damned would wish others were damned who are not damned?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in hell the damned would not wish others were damned who
 are not damned. For it is said (Lk. 16:27, 28) of the rich man that he prayed for his brethren, lest
@@ -6374,7 +6382,7 @@ Risposta all’Obiezione 2: L’amore che non si basa sulla virtù è facilmente
 
 Risposta all’Obiezione 3: Sebbene un aumento del numero dei dannati comporti un aggravamento della punizione di ciascuno di loro, tanto maggiore sarà anche l’aumento del loro odio e invidia; per questo preferiranno essere tormentati da molti piuttosto che essere tormentati da soli, ma con meno sofferenze.
 
-<span class="atom-split" data-atom="083" data-title="Whether the damned hate God?" data-chapter="Whether the damned hate God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Whether the damned hate God?" data-chapter="Whether the damned hate God?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/will,concepts/justice,forms/quaestio"></span>
 
 Objection 1: It would seem that the damned do not hate God. For, according to Dionysius (Div.
 Nom. iv), "the beautiful and good that is the cause of all goodness and [beauty](/concepts/beauty) is beloved of all."
@@ -6417,7 +6425,7 @@ Risposta all’Obiezione 1: L’affermazione di Dionigi si riferisce al desideri
 
 Risposta all’Obiezione 2: Questo argomento dimostrerebbe che i dannati, se Lo vedessero in Se Stesso, Lo riconoscerebbero come parte della Sua essenza stessa.
 
-<span class="atom-split" data-atom="084" data-title="Whether the damned demerit?" data-chapter="Whether the damned demerit?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Whether the damned demerit?" data-chapter="Whether the damned demerit?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the damned demerit. For the damned have an evil will, as
 stated in the last Distinction of Sentent. iv. But they demerited by the evil will that they had here.
@@ -6563,7 +6571,7 @@ Risposta all’Obiezione 2: In questo mondo l’anima è unita a un corpo corrut
 
 Risposta all’Obiezione 3: Il tempo provoca l’oblio in modo accidentale, poiché il movimento del quale è misura costituisce la causa del cambiamento. Ma dopo il Giorno del Giudizio non ci sarà più alcun movimento dei cieli; pertanto non sarà nemmeno possibile che l’oblio derivi da alcuna durata di tempo, per quanto lunga possa essere. Prima del Giorno del Giudizio, tuttavia, l’anima separata dalla carne non subisce modifiche nella sua natura a causa dei movimenti celesti.
 
-<span class="atom-split" data-atom="085" data-title="Whether the damned will ever think of God?" data-chapter="Whether the damned will ever think of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="Whether the damned will ever think of God?" data-chapter="Whether the damned will ever think of God?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the damned will sometimes think of God. For one cannot hate
 a thing actually, except one think about it. Now the damned will hate God, as stated in the text of
@@ -6599,7 +6607,7 @@ Rispondo che Dio può essere considerato in due modi. Primo, in Se Stesso e seco
 
 Risposta all’Obiezione 1: I dannati odiano Dio soltanto perché Egli punisce e vieta ciò che è in accordo con la loro cattiva volontà; di conseguenza, lo considerano soltanto come colui che punisce e vieta. Ciò basta per rispondere anche alla Seconda Obiezione, poiché la coscienza non proverà rimorso per il peccato se non perché esso è vietato dal comandamento divino.
 
-<span class="atom-split" data-atom="086" data-title="Whether the damned see the glory of the blessed?" data-chapter="Whether the damned see the glory of the blessed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="Whether the damned see the glory of the blessed?" data-chapter="Whether the damned see the glory of the blessed?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the damned do not see the glory of the blessed. For they are
 more distant from the glory of the blessed than from the happenings of this world. But they do not
@@ -6648,7 +6656,7 @@ Risposta all’Obiezione 1: Gli avvenimenti di questa vita, se visti dai dannati
 
 Risposta all’Obiezione 2: Paolo considerava quella vita nella quale i santi vivono con Dio [*Cfr. S.S., Q[185], A[3], ad 2*] attraverso l’esperienza diretta e nella speranza di poterla vivere in modo ancora più perfetto nell’aldilà. Non lo stesso vale per i dannati; pertanto, il confronto non è valido.
 
-<span class="atom-split" data-atom="087" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (parte 1)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (parte 1)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider God's justice and mercy towards the damned: under which head there
 are five points of inquiry:
@@ -6732,7 +6740,7 @@ Obiezione 6: Inoltre, la giustizia di Dio sembrerebbe richiedere che i peccatori
 
 Al contrario, è scritto (Matteo 25:46): “Questi”, cioè i malvagi, “entreranno nel castigo eterno”. Inoltre, così come la ricompensa corrisponde al merito, così anche il castigo corrisponde al peccato. Ora, secondo la giustizia divina, una ricompensa eterna è dovuta a un merito temporale: “Chiunque veda il Figlio e ci creda avrà la vita eterna”. Pertanto, secondo la giustizia divina, un castigo eterno è dovuto a un peccato temporale. Inoltre, secondo il Filosofo (Etica V, 5), il castigo viene inflitto in base alla dignità della persona contro cui si è peccato; quindi chi offende qualcuno che detiene autorità riceve una punizione più severa rispetto a chi offende un altro qualsiasi. Ora, chi commette un peccato mortale pecca contro Dio, violando i Suoi comandamenti e attribuendo onore ad altri invece di Lui stesso, ponendo la propria fine in qualcun altro al di fuori di Dio. Ma la maestà di Dio è infinita; pertanto chi commette un peccato mortale merita una punizione infinita; e quindi sembra giusto che per un peccato mortale una persona venga punita per l’eternità.
 
-<span class="atom-split" data-atom="088" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (parte 2)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="088" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (parte 2)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 I answer that, Since punishment is measured in two ways, namely according to the degree of
 its severity, and according to its length of time, the measure of punishment corresponds to the
@@ -6825,7 +6833,7 @@ Reply to Objection 5: Although the punishment relates to the soul accidentally, 
 essentially to the soul infected with guilt. And since guilt will remain in the soul for ever, its
 punishment also will be everlasting.
 
-<span class="atom-split" data-atom="089" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (parte 3)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="089" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (parte 3)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/justice"></span>
 
 Reply to Objection 6: Punishment corresponds to fault, properly speaking, in respect of the
 inordinateness in the fault, and not of the dignity in the person offended: for if the latter were the
@@ -6839,7 +6847,7 @@ FS, Q[85], A[1]]: and consequently privation of being cannot be the punishment d
 
 Risposta all’Obiezione 6: La punizione corrisponde, propriamente parlando, al difetto commesso, in relazione all’eccesso di tale difetto e non alla dignità della persona offesa; infatti, se fosse questo il caso, una punizione di intensità infinita corrisponderebbe a ogni peccato. Pertanto, anche se un uomo merita di perdere la propria esistenza per aver peccato contro Dio, l’autore della sua stessa esistenza, tuttavia, considerando l’eccesso del proprio atto peccaminoso, tale perdita non gli è dovuta. L’esistenza, infatti, è presupposta sia dal merito che dal demerito; inoltre, l’esistenza non viene persa o corrotta a causa dell’eccesso del peccato [*Cfr. FS, Q[85], A[1: pertanto, la privazione dell’esistenza non può essere considerata la punizione dovuta per alcun peccato.
 
-<span class="atom-split" data-atom="090" data-title="Whether by God's mercy all punishment of the damned, both men and demons, comes to an end?" data-chapter="Whether by God's mercy all punishment of the damned, both men and demons, comes to an end?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="090" data-title="Whether by God's mercy all punishment of the damned, both men and demons, comes to an end?" data-chapter="Whether by God's mercy all punishment of the damned, both men and demons, comes to an end?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that by God's mercy all punishment of the damned, both men and
 demons, comes to an end. For it is written (Wis. 11:24): "Thou hast mercy upon all, O Lord, because
@@ -6909,7 +6917,7 @@ Risposta all’Obiezione 2: Nelle parole citate, la distribuzione del predicato 
 
 Risposta all’Obiezione 3: Anselmo intende dire che non si tratta semplicemente del fatto che le creature diventino parte della bontà divina, ma parla genericamente di tutte le creature. Infatti, non è la bontà divina stessa a essere privata dello scopo per cui quelle creature sono state create; pertanto non è appropriato che tutti gli uomini o tutti gli angeli vengano dannati. Non esiste alcun motivo per cui alcuni uomini o alcuni angeli debbano perire per sempre, poiché l’intenzione della volontà divina viene comunque realizzata negli altri che vengono salvati.
 
-<span class="atom-split" data-atom="091" data-title="Whether God's mercy suffers at least men to be punished eternally?" data-chapter="Whether God's mercy suffers at least men to be punished eternally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="091" data-title="Whether God's mercy suffers at least men to be punished eternally?" data-chapter="Whether God's mercy suffers at least men to be punished eternally?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that God's mercy does not suffer at least men to be punished
 eternally. For it is written (Gn. 6:3): "My spirit shall not remain in man for ever because he is flesh";
@@ -7014,7 +7022,7 @@ Risposta all’Obiezione 4: Queste parole del Salmo si riferiscono ai “vasi de
 
 Risposta all’Obiezione 5: Questo commento non si basa su una premessa assoluta, ma su un’ipotesi impossibile, al fine di evidenziare l’enormità del peccato del diavolo o di Nabucodonosor.
 
-<span class="atom-split" data-atom="092" data-title="Whether the punishment of Christians is brought to an end by the mercy of God?" data-chapter="Whether the punishment of Christians is brought to an end by the mercy of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="092" data-title="Whether the punishment of Christians is brought to an end by the mercy of God?" data-chapter="Whether the punishment of Christians is brought to an end by the mercy of God?" data-kind="atom" data-srclang="en" data-tags="concepts/faith,concepts/charity,concepts/sacrament,concepts/revelation,figures/augustine"></span>
 
 Objection 1: It would seem that at least the punishment of Christians is brought to an end by
 the mercy of God. "For he that believeth and is baptized shall be saved" (Mk. 16:16). Now this
@@ -7072,7 +7080,7 @@ which whosoever shall build venial sins [*Cf. FS, Q[89], A[2]] "shall suffer los
 be punished for them by God; yet "he himself shall be saved" in the end "by fire," either of temporal
 tribulation, or of the punishment of purgatory which will be after death.
 
-<span class="atom-split" data-atom="093" data-title="Whether all those who perform works of mercy will be punished eternally?" data-chapter="Whether all those who perform works of mercy will be punished eternally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether all those who perform works of mercy will be punished eternally?" data-chapter="Whether all those who perform works of mercy will be punished eternally?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all who perform works of mercy will not be punished eternally,
 but only those who neglect those works. For it is written (James 2:13): "Judgment without mercy
@@ -7145,7 +7153,7 @@ Appendix 1
 The following two questions were compiled by Nicolai from St. Thomas' Commentary on the
 Sentences, and by him included in the supplement between Questions 70 and 71.
 
-<span class="atom-split" data-atom="094" data-title="OF THE QUALITY OF THOSE SOULS WHO DEPART THIS LIFE WITH ORIGINAL SIN ONLY (TWO ARTICLES)" data-chapter="OF THE QUALITY OF THOSE SOULS WHO DEPART THIS LIFE WITH ORIGINAL SIN ONLY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="OF THE QUALITY OF THOSE SOULS WHO DEPART THIS LIFE WITH ORIGINAL SIN ONLY (TWO ARTICLES)" data-chapter="OF THE QUALITY OF THOSE SOULS WHO DEPART THIS LIFE WITH ORIGINAL SIN ONLY (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/soul,forms/quaestio,schools/scholasticism"></span>
 
 We must next consider the various qualities of souls that are stripped of their bodies, according
 to their respective states; and first we shall treat of the souls which depart this life with [original sin](/positions/original_sin)
@@ -7161,7 +7169,7 @@ In questo ambito vi sono due questioni principali da esaminare:
 (1) Se queste anime soffrono a causa di un fuoco corporeo e vengono punite con il fuoco;  
 (2) Se queste anime subiscono tormenti spirituali interiori.
 
-<span class="atom-split" data-atom="095" data-title="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire? (parte 1)" data-chapter="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="095" data-title="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire? (parte 1)" data-chapter="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that souls which depart with none but [original sin](/positions/original_sin), suffer from a
 bodily fire and are punished by fire. For [Augustine](/figures/augustine) [*Fulgentius, De Fide ad Petrum, xxvii] says:
@@ -7286,7 +7294,7 @@ Risposta all’Obiezione 3: Non esiste alcuna parità tra il dolore sensoriale p
 
 Risposta all’Obiezione 4: Il dolore sensibile corrisponde al piacere sensibile, che è presente nella conversione del peccato effettivo; mentre la concupiscenza abituale, che appartiene al peccato originale, non comporta alcun piacere. Pertanto, il dolore sensibile non può essere considerato una punizione relativa a tale concupiscenza.
 
-<span class="atom-split" data-atom="096" data-title="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire? (parte 2)" data-chapter="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire? (parte 2)" data-chapter="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/original_sin,concepts/suffering,concepts/justice"></span>
 
 Reply to Objection 5: The bodies of children will be impassible, not through their being unable
 in themselves to suffer, but through the lack of an external agent to act upon them: because, after
@@ -7300,7 +7308,7 @@ of [suffering](/concepts/suffering); hence impassibility in them will be a gift,
 
 Risposta all’Obiezione 5: I corpi dei bambini saranno insensibili non perché non siano in grado di soffrire in sé stessi, ma perché mancherà un agente esterno che possa agire su di loro; infatti, dopo la risurrezione, nessun corpo agirà su un altro, tanto meno al fine di indurlo alla corruzione attraverso l’azione della natura, ma soltanto per punirlo secondo l’ordine della giustizia divina. Pertanto, quei corpi a cui, per volontà della giustizia divina, non è previsto il dolore sensoriale non subiranno alcuna punizione. D’altra parte, i corpi dei santi saranno insensibili perché mancherà in loro la capacità di soffrire; quindi, l’insensibilità per loro sarà un dono divino, mentre per i bambini no.
 
-<span class="atom-split" data-atom="097" data-title="Whether these same souls suffer spiritual affliction on account of the state in which they are?" data-chapter="Whether these same souls suffer spiritual affliction on account of the state in which they are?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="Whether these same souls suffer spiritual affliction on account of the state in which they are?" data-chapter="Whether these same souls suffer spiritual affliction on account of the state in which they are?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the souls in question suffer spiritual affliction on account of
 [the state](/concepts/state) wherein they are, because as Chrysostom says (Hom. xxiii in Matth.), the punishment of
@@ -7430,7 +7438,7 @@ Risposta all’Obiezione 4: Il dono di Cristo supera il peccato di Adamo, come a
 
 Risposta all’Obiezione 5: Sebbene i bambini non battezzati siano separati da Dio riguardo all’unione di gloria, non sono del tutto separati da Lui: anzi, sono uniti a Lui attraverso la loro parte di beni naturali, e quindi potranno anche gioire in Lui grazie alla loro conoscenza e amore naturali.
 
-<span class="atom-split" data-atom="098" data-title="OF THE QUALITY OF SOULS WHO EXPIATE ACTUAL SIN OR ITS PUNISHMENT IN PURGATORY (SIX ARTICLES)" data-chapter="OF THE QUALITY OF SOULS WHO EXPIATE ACTUAL SIN OR ITS PUNISHMENT IN PURGATORY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="098" data-title="OF THE QUALITY OF SOULS WHO EXPIATE ACTUAL SIN OR ITS PUNISHMENT IN PURGATORY (SIX ARTICLES)" data-chapter="OF THE QUALITY OF SOULS WHO EXPIATE ACTUAL SIN OR ITS PUNISHMENT IN PURGATORY (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 We must next treat of the souls which after this life expiate the punishment of their actual sins
 in the fire of Purgatory.
@@ -7452,7 +7460,7 @@ Dobbiamo ora trattare delle anime che, dopo questa vita, espiano la punizione de
 (5) Il fuoco del Purgatorio libera davvero dalla colpa e dalla punizione?  
 (6) Qualcuno viene liberato da quella punizione prima di un altro?
 
-<span class="atom-split" data-atom="099" data-title="Whether the pains of Purgatory surpass all the temporal pains of this life?" data-chapter="Whether the pains of Purgatory surpass all the temporal pains of this life?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="099" data-title="Whether the pains of Purgatory surpass all the temporal pains of this life?" data-chapter="Whether the pains of Purgatory surpass all the temporal pains of this life?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the pains of Purgatory do not surpass all the temporal pains
 of this life. Because the more passive a thing is the more it suffers if it has the sense of being hurt.
@@ -7508,7 +7516,7 @@ by the same sentence than another; and yet the judge acts justly in condemning b
 crimes to the same punishment.
 This suffices for the Reply to the Third Objection.
 
-<span class="atom-split" data-atom="100" data-title="Whether this punishment is voluntary?" data-chapter="Whether this punishment is voluntary?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="100" data-title="Whether this punishment is voluntary?" data-chapter="Whether this punishment is voluntary?" data-kind="atom" data-srclang="en" data-tags="concepts/will,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this punishment is voluntary. For those who are in Purgatory
 are upright in heart. Now uprightness in heart is to conform one's will to God's, as [Augustine](/figures/augustine) says
@@ -7550,7 +7558,7 @@ Al contrario, nessuno chiede di essere liberato da una punizione che subisce vol
 
 Rispondo che una cosa viene considerata volontaria in due modi. Primo, attraverso un atto assoluto della volontà; pertanto, nessuna punizione può essere considerata volontaria, poiché la stessa nozione di punizione implica che essa sia contraria alla volontà. Secondo, una cosa viene considerata volontaria attraverso un atto condizionato della volontà: ad esempio, l’intervento chirurgico può essere considerato volontario se mira a ripristinare la salute. Quindi, una punizione può essere volontaria in due modi: primo, perché subendola otteniamo qualche bene; in questo caso, è la stessa volontà ad accettarla, come avviene nella soddisfazione di un debito o quando una persona accetta volentieri una punizione, anche se non la desidererebbe in assoluto, come nel caso del martirio. Secondo, quando, pur non ottenendo alcun beneficio dalla punizione, non possiamo raggiungere quel bene senza subirla, come nel caso della morte naturale; in questo caso, la volontà non accetta direttamente la punizione, ma vi si sottomette; ed è in questo senso che si dice che la punizione sia volontaria. In questo secondo significato, si afferma che anche la punizione del Purgatorio sia volontaria. Tuttavia, alcuni sostengono che essa non lo sia affatto, poiché le anime nel Purgatorio sono così sommerse dal dolore da non rendersi conto di essere purificate attraverso quelle sofferenze e ritengono di essere dannate. Ma ciò è falso: se non sapessero di essere destinate alla liberazione, non chiederebbero certo preghiere per sé, come spesso fanno. Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="101" data-title="Whether the soul in Purgatory are punished by the demons?" data-chapter="Whether the soul in Purgatory are punished by the demons?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Whether the soul in Purgatory are punished by the demons?" data-chapter="Whether the soul in Purgatory are punished by the demons?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the souls in Purgatory are punished by the demons; for,
 according to the Master, "they will have for torturers in their pains, those who were their tempters
@@ -7589,7 +7597,7 @@ Al contrario, sarebbe ingiusto che colui che ha trionfato su qualcuno venga sott
 
 Rispondo che, così come dopo il Giorno del Giudizio la giustizia divina accenderà il fuoco con cui i dannati saranno puniti per l’eternità, allo stesso modo anche ora gli eletti vengono purificati, dopo questa vita, esclusivamente dalla giustizia divina; né attraverso l’intervento dei demoni che hanno sconfitto, né tramite quello degli angeli, i quali non vorrebbero infliggere tali torture ai loro simili. Tuttavia è possibile che gli angeli li accompagnino nel luogo della punizione; anche i demoni, che gioiscono nella punizione dell’uomo, potrebbero accompagnarli e assistere mentre vengono purificati, sia per soddisfare la propria sete di sofferenza, sia perché, quando queste sofferenze lasciano il corpo umano, possano trovare qualcosa che appartiene loro stessi in esso. Ma in questa vita, finché c’è ancora tempo per combattere, gli uomini vengono puniti sia dagli angeli malvagi, come nemici – come dimostra l’esempio di Giobbe – sia dagli angeli buoni, come mostra l’esempio di Giacobbe, il cui muscolo della coscia si contrasse al tocco dell’angelo [*Gen. 32:25*]. Inoltre, Dionigi afferma esplicitamente che gli angeli buoni talvolta infliggono punizioni. Questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="102" data-title="Whether venial sin is expiated by the pains of Purgatory as regards the guilt? (parte 1)" data-chapter="Whether venial sin is expiated by the pains of Purgatory as regards the guilt?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="Whether venial sin is expiated by the pains of Purgatory as regards the guilt? (parte 1)" data-chapter="Whether venial sin is expiated by the pains of Purgatory as regards the guilt?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that venial sin is not expiated by the pains of Purgatory as regards
 the guilt. For a gloss [*St. Gregory, Moral. xvi, 28] on 1 Jn. 5:16, "There is a sin unto death," etc.
@@ -7715,7 +7723,7 @@ Risposta all’Obiezione 3: I peccati veniali non alterano lo stato di una perso
 
 Risposta all’Obiezione 4: Dopo questa vita non può esserci alcun merito riguardo alla ricompensa essenziale, ma può esserci merito riguardo a qualche ricompensa accidentale, purché l’uomo rimanga, in un certo senso, nello [stato](/concepts/state) previsto dal percorso spirituale. Di conseguenza, nel Purgatorio può esserci un atto meritevole che porti alla remissione dei peccati veniali.
 
-<span class="atom-split" data-atom="103" data-title="Whether venial sin is expiated by the pains of Purgatory as regards the guilt? (parte 2)" data-chapter="Whether venial sin is expiated by the pains of Purgatory as regards the guilt?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="Whether venial sin is expiated by the pains of Purgatory as regards the guilt? (parte 2)" data-chapter="Whether venial sin is expiated by the pains of Purgatory as regards the guilt?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 5: Although venial sin arises from the proneness of the fomes, sin results
 in the mind; wherefore even when the fomes is no more, sin can still remain.
@@ -7724,7 +7732,7 @@ in the mind; wherefore even when the fomes is no more, sin can still remain.
 
 Risposta all’Obiezione 5: Sebbene il peccato veniale derivi dalla propensione alle tendenze peccaminose, il peccato stesso ha origine nella mente; pertanto, anche quando tali tendenze scompaiono, il peccato può comunque persistere.
 
-<span class="atom-split" data-atom="104" data-title="Whether the fire of Purgatory delivers from the debt of punishment?" data-chapter="Whether the fire of Purgatory delivers from the debt of punishment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="104" data-title="Whether the fire of Purgatory delivers from the debt of punishment?" data-chapter="Whether the fire of Purgatory delivers from the debt of punishment?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the fire of Purgatory does not deliver from the debt of
 punishment. For every cleansing is in respect of some uncleanness. But punishment does not imply
@@ -7778,7 +7786,7 @@ Risposta all’Obiezione 2: Sebbene la punizione non sia in contraddizione con s
 
 Risposta all’Obiezione 3: Molteplici significati si nascondono dietro le stesse parole delle Scritture Sacre. Pertanto, il termine “fuoco” può indicare sia la tribolazione attuale che la punizione futura; inoltre, i peccati veniali possono essere purificati attraverso entrambe queste realtà. È già stato detto in precedenza che la morte naturale non è sufficiente a questo scopo (Sentenze, iv, D, 20).
 
-<span class="atom-split" data-atom="105" data-title="Whether one person is delivered from this punishment sooner than another?" data-chapter="Whether one person is delivered from this punishment sooner than another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="105" data-title="Whether one person is delivered from this punishment sooner than another?" data-chapter="Whether one person is delivered from this punishment sooner than another?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one person is not delivered from this punishment sooner than
 another. For the more grievous the sin, and the greater the debt, the more severely is it punished in
@@ -7824,7 +7832,7 @@ Risposta all’Obiezione 1: La severità della punizione corrisponde, per così 
 Risposta all’Obiezione 2: Il peccato mortale, che merita la punizione dell’inferno, e la carità, che merita la ricompensa del cielo, rimarranno immutabilmente radicati nell’anima dell’uomo dopo questa vita. Pertanto, in entrambi i casi il tempo di permanenza di tali stati è lo stesso. Al contrario, per quanto riguarda i peccati veniali, essi vengono puniti nel Purgatorio, come già detto sopra (A[6]).  
 Appendice 2: Due articoli sul Purgatorio
 
-<span class="atom-split" data-atom="106" data-title="Whether there is a Purgatory after this life?" data-chapter="Whether there is a Purgatory after this life?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="106" data-title="Whether there is a Purgatory after this life?" data-chapter="Whether there is a Purgatory after this life?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is not a Purgatory after this life. For it is said (Apoc.
 14:13): "Blessed are the dead who die in the Lord. From henceforth now, saith the Spirit, that they
@@ -7903,7 +7911,7 @@ Risposta all’Obiezione 2: Il male non ha una causa perfetta, ma deriva da ogni
 
 Risposta all’Obiezione 3: Chi commette un peccato mortale annulla ogni bene che abbia compiuto in precedenza; ciò che fa mentre si trova in stato di peccato mortale è, di per sé, privo di valore, poiché offendendo Dio merita di perdere tutto il bene che da Lui ha ricevuto. Pertanto, chi muore in stato di peccato mortale non riceve alcuna ricompensa nell’aldilà; al contrario, a volte colui che muore nella carità viene punito, anche se questa non cancella sempre il peccato che si trova in lui, ma soltanto quello che è in contrasto con essa.
 
-<span class="atom-split" data-atom="107" data-title="Whether it is the same place where souls are cleansed, and the damned punished?" data-chapter="Whether it is the same place where souls are cleansed, and the damned punished?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="107" data-title="Whether it is the same place where souls are cleansed, and the damned punished?" data-chapter="Whether it is the same place where souls are cleansed, and the damned punished?" data-kind="atom" data-srclang="en" data-tags="concepts/death,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not the same place where souls are cleansed and the
 damned punished. For the punishment of the damned is eternal, according to Mat. 25:46, "These

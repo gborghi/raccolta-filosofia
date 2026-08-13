@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article against the censorship whose continuation the Count of Romanones requested: eight years of censorship have been a pedagogy of stupefaction, arriving just when Spain must face a radical reform of the state armed with current ideas. From it he draws the portrait of a political generation for whom intelligence reduces to 'the art of not being fooled', a rustic cunning that can only undo.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -6,7 +6,7 @@ label_en: "faith"
 aliases:
   - "fides"
   - "Glaube"
-work_count: 46
+work_count: 45
 tags:
   - "graph/concept"
 title: "fede"
@@ -15,7 +15,7 @@ title: "fede"
 
 *faith*
 
-## Opere (46)
+## Opere (45)
 
 **Aquinas**
 - [Treatise on Sacred Doctrine](/testi/aquinas/treatise_on_sacred_doctrine)
@@ -67,7 +67,6 @@ title: "fede"
 - [Con Einstein en Toledo](/testi/ortega-y-gasset/con_einstein_en_toledo)
 - [Defensa del teólogo frente al místico](/testi/ortega-y-gasset/defensa_del_teólogo_frente_al_místico)
 - [La época de un progreso y la época de un peligro](/testi/ortega-y-gasset/la_época_de_un_progreso_y_la_época_de_un_peligro)
-- [Las opiniones particulares de los hombres contra la fe de su tiempo son inauténticas](/testi/ortega-y-gasset/las_opiniones_particulares_de_los_hombres_contra_la_fe_de_su_tiempo_son_inauténticas)
 - [Restauración](/testi/ortega-y-gasset/restauración)
 - [Sobre El Santo](/testi/ortega-y-gasset/sobre_el_santo)
 - [Unamuno y Europa fábula](/testi/ortega-y-gasset/unamuno_y_europa_fábula)

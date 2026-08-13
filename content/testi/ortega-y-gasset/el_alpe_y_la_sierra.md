@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > From Cauterets, the site of Romantic summering: we are no longer Romantics and not yet anything else, we live off mocking Romanticism, and that irony is the only clear inspiration left us. The vertical landscape is "sublime", and sublime was the magic word of those two generations — every age has its magic word, bringing to the surface the radical savour life has for it.
+
+## Connections
+
+**Concetti:** [[concepts/sublime|sublime]], [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +85,7 @@ Risulta paradossale preferire un paesaggio che comincia con l'offrire difficolt�
 
 Dubito molto che in nessun avvenire prossimo il paesaggio alpino torni a conquistare la nostra preferenza, e spero, invece, fermamente in un nuovissimo entusiasmo per le sierra chiare e ben formate. È molto probabile che verso il 1940 l'europeo cerchi i suoi paesaggi favoriti nel Sahara, fecondo di catene montuose. (Ai bagni di mare succederanno i bagni di sabbia, molto più tonici e disinfettanti).
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/sublime,concepts/beauty,forms/essay"></span>
 
 La razón que tengo para pensar así es que en medio de todas las censuras merecidas por la vida actual —sus limitaciones, sus miserias, sus petulancias, sus absurdos—, es forzoso reconocerle una virtud y un don: el sentido para la belleza plástica, para la gracia del volumen y la dignidad del color. Y no es en el arte actual —tan problemático— donde más clara aparece esta fina percepción, sino en la vida, en el traje, en los cuerpos, en los gestos, en los usos, en los utensilios. Es sorprendente notar cómo se ha extendido hasta las clases más humildes el discernimiento de lo que es visualmente bello. A pesar de que hemos heredado un tipo de vestimenta que parece irreductible a normas de belleza, el apetito y criterio para ésta se hallan tan extendidos, que tal vez nunca han ido las gentes todas, las ricas y las pobres, tan bien vestidas, tan pulcras, ni han cuidado tanto el ritmo en el ademán y el canon del cuerpo. No creo que la vida del hombre medio haya sido nunca, en toda la historia, tan bella como ahora.
 

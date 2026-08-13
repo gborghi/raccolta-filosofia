@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review-cum-narrative of the yacht Noma's voyage to the Galápagos: travelling in order to see, as the Greeks did; a digression on the animal soul, on playing dolphins, and on joy as man's real originality. It contains one passing anti-Kantian aside («I do not much believe in duty, as Kant did; I expect everything from enthusiasm»). Travel prose.
+
+## Connections
+
+**Concetti:** [[concepts/nature|natura]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +85,7 @@ Ma la visita classica che dà al minimo arcipelago un'illustre consacrazione fu 
 
 Tuttavia, la scena maggiore che queste isole oscure offrono è un'altra. I personaggi di essa sono, come nelle favole, delle lucertole. In questo angolo del pianeta sono venuti a conservarsi viventi gli ultimi residui di quella che fu fauna gigante di un'età scomparsa. Il viaggio che facciamo trascinati da questo frastuono di amici gioviali e curiosi ci fa intimare con le due orride iguane: quella di mare e quella di terra, rappresentanti in ultima degenerazione della grande razza araldica dei draghi, dei sauri. Quando sulla costa nera, sopra le rocce di lava che il mare affatica o, pochi metri entroterra, negli scoscendimenti agri di spigoli affilati, che tagliano come rasoi il cuoio delle scarpe, vediamo i greggi di ingenti lucertole antiche, irte di creste dentate, muovendosi stupidamente —con una stupidità distinta nella sua qualità dalla stupidità frequente nell'attuale tappa geologica— ci pare di morire a un vasto presente e di rinascere magicamente in un premondo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/nature,forms/essay"></span>
 
 Estas iguanas, de armadura tremenda y mirada bondadosa, son de una mansedumbre inusitada. No hay [modo](/concepts/mode) de enfurecerlas. Uno de estos amigos agarra una por la cola, la hace girar violentamente en el aire y luego la despide a unos metros de distancia. El animal rebota sobre la tierra, se recobra y pacíficamente echa a andar hacia nuestro amigo, se acerca a él, mirándole con sus ojos milenarios, llenos de bondad prehumana, y aguanta seis veces seguidas el mismo trato sin variar de reacción. ¿A qué, pues, sus cimeras dentadas, sus garras, sus poderosos miembros, su tamaño, que a veces llega a un metro veinte?
 

@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A polemic against minister La Cierva's project of 'reforming customs': custom is the product of two factors, individual character and the vital medium, and to change the product one must change a factor. Custom is therefore unlegislatable — banning it is like banning earthquakes; only when custom and ideal coincide is law born.
+
+## Connections
+
+**Concetti:** [[concepts/custom|abitudine]], [[concepts/law|legge]]  
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +80,7 @@ Riforma dei costumi del popolo! Benedetto sia Dio! Ma non sa il signor La Cierva
 
 Nel prologo al Regio Decreto ci dice il signor La Cierva che vuole «esercitare la proficua influenza comprovata in altri paesi». Il solito: da un secolo andiamo trapiantando in Spagna tutte le sciocchezze di Francia, d'Inghilterra, di Germania e nessuna delle loro saggezze; perché queste saggezze sono genuinamente francesi, inglesi o tedesche e, pertanto, intrasplantabili. Ciò che vale in questi popoli è il carattere; i costumi sono diversi.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/custom,concepts/law,figures/plato,forms/essay"></span>
 
 Creo haber dicho inequívocamente que la Real Orden del señor La Cierva envuelve en su insignificancia una tremenda inmoralidad; frente a la cual son pecados veniales todos los navajazos de la pasión y del instinto. Y si yo, que soy ciudadano tan privado como pacífico, he salido ahora a la liza con el pertrecho de unas pobres armas mías, acháquese a que considero un deber primario protestar contra esa faena de desorientación que se está ejerciendo sobre el ánimo español. Y si la Real Orden halla muchos defensores, mayor será el dolor en torno a mi ánima. Porque se ha iniciado dentro de España, en actos y en escritos, una estólida forma de seriedad y unos pujos de graveza sin sabiduría que no puede advertir sin inquietud el que tiene puestos sus amores en el porvenir cultural de esta raza. Refiere Eliano en las Historias diversas la conseja antigua, según la cual, un león enfermo para sanar había de tragarse un mono. A esta lamentable cura quieren someter el reblandecido león celtíbero, cebándole de pedantería. Y cuanto más seria sea y más precisa y más honda la visión que tengamos de la cultura, más ha de adolecernos el panorama de los idearios españoles.
 

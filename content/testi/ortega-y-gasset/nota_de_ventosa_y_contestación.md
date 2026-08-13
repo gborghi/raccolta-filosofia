@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A press exchange (El Sol, 15 March 1931): finance minister Ventosa contradicts Ortega about his vice-presidency of the Chade company and the existence of a tax file, and Ortega replies ironically, agreeing to call that file 'H'. A news document with no philosophical content.
 

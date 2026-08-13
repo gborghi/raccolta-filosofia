@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On Azorín and El Escorial: the long quotation from Father Sigüenza on the swarming workmen lets Ortega show that for Azorín history is made not of great men but of an anonymous anthill of guild activity. Hence the thesis that Spanish individualism is a myth: life here runs in typical, not individual, varieties — which is why Baroja, hunting heroic figures, has not yet hit the mark.
+
+## Connections
+
+**Concetti:** [[concepts/custom|abitudine]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

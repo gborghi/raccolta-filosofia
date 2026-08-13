@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Epilogue (El Sol 1918) to notes on the Catalan problem: the author, a mere summarizer save on the point of sovereignty, denies that Maura eased the solution. Occasional political text.
+> A 135-word fragment with no sample in the digest: from the title the epilogue of some volume, about which nothing more can be said.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

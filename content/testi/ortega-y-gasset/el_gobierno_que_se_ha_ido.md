@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A newspaper column on the fall of Dato's government, charged with doing nothing while the European war reshaped the world. Ortega ends by denying that a nation's deep ills come from its governments: virtues and vices come from the social body as a whole.
 

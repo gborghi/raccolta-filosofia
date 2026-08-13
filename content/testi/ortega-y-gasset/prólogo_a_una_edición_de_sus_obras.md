@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A preface to a compact edition of his works, the publisher's idea and not his: gathering up one's own past marks the turn from ascending to descending vitality, and he confesses 'a strange disgust at recollection'. Hence a reflection on biography: every life is a secret and a hieroglyph, entering it is a gamble of intuition, and he who judges does not understand.
 

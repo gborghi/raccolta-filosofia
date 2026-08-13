@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political article resting on a philosophical thesis: nothing that wants to live can be anachronistic, because the life to be lived is always 'this one, now', hic et nunc — all the more so for the life of the State. Hence the call to study youth, since the present is an organism in which tomorrow acts as its inner organ.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]], [[assi/time_and_death|Tempo e morte]]  
+**Posizioni:** [[positions/theory_of_generations|teoria delle generazioni]], [[positions/historicity|storicità]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

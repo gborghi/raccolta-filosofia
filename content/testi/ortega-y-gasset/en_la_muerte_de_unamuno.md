@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An obituary written on the first night of 1937: Unamuno died of "the Spanish sickness". His whole life and philosophy were, like Spinoza's, a meditatio mortis; he was the precursor of an inspiration now triumphant. Also a portrait of his compact, jongleur-like ego.
+
+## Connections
+
+**Assi:** [[assi/time_and_death|Tempo e morte]]  
+**Concetti:** [[concepts/death|morte]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

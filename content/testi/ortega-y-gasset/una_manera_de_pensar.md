@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Reply to the German and French press casting him now as leader of Spanish Germanophobia, now as a Germanophile sans nuance. He defends silence as the intellectual's ideal stance in wartime, broken by the German professors' manifesto, and protests against the quarrel of 'Germanophiles' and 'Francophiles' as noise about what one does not know.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -126,7 +132,7 @@ Le epoche di rivolta politica sono state sempre approfittate per vendette person
 
 Mi limito, dunque, a ciò che mi proponevo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Coincido con los que desean vivamente el triunfo de los aliados. Nada tendría que añadir si los que desean el triunfo de los aliados no se extendiesen a desear y pensar otras cosas que yo ni deseo ni pienso. Contra esta tendencia excesiva a fundir unas cuestiones con otras, he movido protesta desde el principio.
 
@@ -282,7 +288,7 @@ Vadano, dunque, formulati, con estrema concisione, i punti di vista che più mi 
 
 Diceva Averroè che chi volesse comprare un buon libro doveva andare a Cordova; ma chi volesse comprare un buon liuto doveva andare a Siviglia. È un peccato —aggiungeva— che a Cordova non ci siano, insieme a buoni libri, buoni liuti.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Una cosa así podría yo decir en resumen: toma el saber de Alemania y el mandar de Inglaterra. Esta manera de pensar es la misma que he usado siempre. Los que sí han variado son muchos de estos maestros y amigos de Alemania, a quienes yo he oído maldecir de la Weltpolitik y del partido militarista y de quienes hoy leo que consideran una y otro como los salvadores de su pueblo. Pero ésta es una cuestión delicada, sobre que no es piadoso insistir desde un país que goza la paz mientras en los otros la guerra dura. Los que envían sus hijos y hermanos a las trincheras tienen derecho a la pasión. Nosotros, no. Antes bien: nos trae la hora una exquisita obligación de piedad, de respeto y de amor.
 

@@ -12,8 +12,19 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > Comparing his own method to a midwife's art (maieutics), Socrates examines with the young Theaetetus three definitions of knowledge: sense-perception, true belief, and true belief with an account (logos). Each is refuted in turn — the perceptual one by tying it to Protagorean relativism and Heraclitean flux — and the dialogue closes in aporia, with knowledge left undefined.
+
+## Connections
+
+**Assi:** [[assi/method|Metodo]]  
+**Posizioni:** [[positions/dialectic|dialettica]]  
+**Concetti:** [[concepts/experience|esperienza]], [[concepts/wisdom|sapienza]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]  
+**Scuole:** [[schools/academy|Accademia platonica]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -252,7 +263,7 @@ SOCRATE: E l'astronomia, l'armonia e il calcolo?
 
 TEETETO: Farò del mio meglio.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): Yes, my boy, and so do I; and my desire is to learn of him, or of anybody who seems to understand these things. And I get on pretty well in general; but there is a little difficulty which I want you and the company to aid me in investigating. Will you answer me a question: ’Is not learning growing wiser about that which you learn?’
 
@@ -512,7 +523,7 @@ SOCRATE: E che io stesso eserciti l'arte della maieutica?
 
 TEETETO: No, mai.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): Let me tell you that I do though, my friend: but you must not reveal the secret, as the world in general have not found me out; and therefore they only say of me, that I am the strangest of mortals and drive men to their wits’ end. Did you ever hear that too?
 
@@ -652,7 +663,7 @@ SOCRATE: Ora, il vento, considerato non in relazione a noi ma assolutamente, è 
 
 TEETETO: Suppongo l'ultimo.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): Then it must appear so to each of them?
 
@@ -864,7 +875,7 @@ SOCRATE: Questi tre assiomi, se non erro, combattono tra loro nelle nostre menti
 
 Sì, Socrate, e sono stupito quando penso ad essi; per gli dèi, lo sono! e voglio sapere che cosa mai significhino; e vi sono momenti in cui la testa mi si confonde del tutto per la contemplazione di essi.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): I see, my dear Theaetetus, that Theodorus had a true insight into your nature when he said that you were a philosopher, for wonder is the feeling of a philosopher, and philosophy begins in wonder. He was not a bad genealogist who said that Iris (the messenger of heaven) is the child of Thaumas (wonder). But do you begin to see what is the explanation of this perplexity on the hypothesis which we attribute to Protagoras?
 
@@ -980,7 +991,7 @@ SOCRATE: E la verità o la falsità è da determinarsi dalla durata del tempo?
 
 TEETETO: Sarebbe per molti versi ridicolo.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): But can you certainly determine by any other means which of these opinions is true?
 
@@ -1208,7 +1219,7 @@ SOCRATE: Sono affascinato dalla sua dottrina, che ciò che appare è vero per ci
 
 Era un mio amico, Socrate, come dicevi, e perciò non posso permettere che venga confutato dalle mie labbra, né posso oppormi a te quando sono d'accordo con te; ti prego, allora, di riprendere Teeteto; mi è parso che rispondesse assai bene.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): If you were to go into a Lacedaemonian palestra, Theodorus, would you have a right to look on at the naked wrestlers, some of them making a poor figure, if you did not strip and give them an opportunity of judging of your own person?
 
@@ -1464,7 +1475,7 @@ SOCRATE: Dunque vedi e non vedi la medesima cosa nel medesimo tempo.
 
 TEETETO: Sì, in un certo senso.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): None of that, he will reply; I do not ask or bid you answer in what sense you know, but only whether you know that which you do not know. You have been proved to see that which you do not see; and you have already admitted that seeing is knowing, and that not-seeing is not-knowing: I leave you to draw the inference.
 
@@ -1492,7 +1503,7 @@ SOCRATE: Egli ripeterà tutte quelle cose che abbiamo esortato in suo favore, e 
 
 Teodoro: Tu scherzi, Socrate; in verità, la tua difesa di lui è stata assai valorosa.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): Thank you, friend; and I hope that you observed Protagoras bidding us be serious, as the text, ‘Man is the measure of all things,’ was a solemn one; and he reproached us with making a boy the medium of discourse, and said that the boy’s timidity was made to tell against his argument; he also declared that we made a joke of him.
 
@@ -1680,7 +1691,7 @@ SOCRATE: E la verità di Protagora, essendo messa in dubbio da tutti, sarà vera
 
 Penso, Socrate, che stiamo incalzando troppo il mio vecchio amico.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): But I do not know that we are going beyond the truth. Doubtless, as he is older, he may be expected to be wiser than we are. And if he could only just get his head out of the world below, he would have overthrown both of us again and again, me for talking nonsense and you for assenting to me, and have been off and underground in a trice. But as he is not within call, we must make the best use of our own faculties, such as they are, and speak out what appears to us to be true. And one thing which no one will deny is, that there are great differences in the understandings of men.
 
@@ -1748,7 +1759,7 @@ Socrate: Ti illustrerò il mio pensiero, Teodoro, con la facezia che si dice abb
 
 Sì, e ciò che dici è vero.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): And thus, my friend, on every occasion, private as well as public, as I said at first, when he appears in a law-court, or in any place in which he has to speak of things which are at his feet and before his eyes, he is the jest, not only of Thracian handmaids but of the general herd, tumbling into wells and every sort of disaster through his inexperience. His awkwardness is fearful, and gives the impression of imbecility. When he is reviled, he has nothing personal to say in answer to the civilities of his adversaries, for he knows no scandals of any one, and they do not interest him; and therefore he is laughed at for his sheepishness; and when others are being praised and glorified, in the simplicity of his heart he cannot help going into fits of laughter, so that he seems to be a downright idiot. When he hears a tyrant or king eulogized, he fancies that he is listening to the praises of some keeper of cattle — a swineherd, or shepherd, or perhaps a cowherd, who is congratulated on the quantity of milk which he squeezes from them; and he remarks that the creature whom they tend, and out of whom they squeeze the wealth, is of a less tractable and more insidious nature. Then, again, he observes that the great man is of necessity as ill-mannered and uneducated as any shepherd — for he has no leisure, and he is surrounded by a wall, which is his mountain-pen. Hearing of enormous landed proprietors of ten thousand acres and more, our philosopher deems this to be a trifle, because he has been accustomed to think of the whole earth; and when they sing the praises of family, and say that some one is a gentleman because he can show seven generations of wealthy ancestors, he thinks that their sentiments only betray a dull and narrow vision in those who utter them, and who are not educated enough to look at the whole, nor to consider that every man has had thousands and ten thousands of progenitors, and among them have been rich and poor, kings and slaves, Hellenes and barbarians, innumerable. And when people pride themselves on having a pedigree of twenty-five ancestors, which goes back to Heracles, the son of Amphitryon, he cannot understand their poverty of ideas. Why are they unable to calculate that Amphitryon had a twenty-fifth ancestor, who might have been anybody, and was such as fortune made him, and he had a fiftieth, and so on? He amuses himself with the notion that they cannot count, and thinks that a little arithmetic would have got rid of their senseless vanity. Now, in all these cases our philosopher is derided by the vulgar, partly because he is thought to despise them, and also because he is ignorant of what is before him, and always at a loss.
 
@@ -1792,7 +1803,7 @@ Troppo vero, amico mio, come ben so; v'è però una particolarità nel loro caso
 
 Quanto a me, Socrate, preferirei le digressioni, perché alla mia età le trovo più facili da seguire; ma se vuoi, torniamo all'argomento.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): Had we not reached the point at which the partisans of the perpetual flux, who say that things are as they seem to each one, were confidently maintaining that the ordinances which [the state](/concepts/state) commanded and thought just, were just to the state which imposed them, while they were in force; this was especially asserted of justice; but as to the good, no one had any longer the hardihood to contend of any ordinances which the state thought and enacted to be good that these, while they were in force, were really good; — he who said so would be playing with the name ‘good,’ and would not touch the real question — it would be a mockery, would it not?
 
@@ -1924,7 +1935,7 @@ SOCRATE: Suppongo, Teodoro, che tu li abbia veduti soltanto quando combattevano,
 
 Discepoli! Mio buon signore, non ne hanno; uomini di tal sorta non sono discepoli gli uni degli altri, ma crescono a loro proprio piacimento, e traggono la loro ispirazione da ogni dove, ciascuno dicendo del suo vicino che egli non sa nulla. Da questi uomini, dunque, come stavo per osservare, non otterrete mai una ragione, sia con la loro volontà che senza; dobbiamo togliere la questione dalle loro mani, e fare noi stessi l'analisi, come se risolvessimo un problema geometrico.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): Quite right too; but as touching the aforesaid problem, have we not heard from the ancients, who concealed their wisdom from the many in poetical figures, that Oceanus and Tethys, the origin of all things, are streams, and that nothing is at rest? And now the moderns, in their superior wisdom, have declared the same openly, that the cobbler too may hear and learn of them, and no longer foolishly imagine that some things are at rest and others in motion — having learned that all is motion, he will duly honour his teachers. I had almost forgotten the opposite doctrine, Theodorus,
 
@@ -2104,7 +2115,7 @@ TEETETO: Sì, se lo desidera; ma avrei preferito udire la dottrina della quiete.
 
 TEODORO: Invita Socrate a una disputa — invita cavalieri in aperta pianura; non hai che da chiedergli, ed egli risponderà.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): Nevertheless, Theodorus, I am afraid that I shall not be able to comply with the request of Theaetetus.
 
@@ -2368,7 +2379,7 @@ TEETETO: Chiaramente no, Socrate; e la conoscenza è stata ora provata nel modo 
 
 SOCRATE: Ma lo scopo originario della nostra discussione era di scoprire piuttosto che cosa è la conoscenza che non che cosa non è; allo stesso tempo abbiamo fatto qualche [progresso](/positions/progress), poiché non cerchiamo più la conoscenza nella percezione, ma in quell'altro processo, comunque chiamato, in cui la mente è sola e impegnata con l'essere.
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 THEAETETUS: You mean, [Socrates](/figures/socrates), if I am not mistaken, what is called thinking or opining.
 
@@ -2696,7 +2707,7 @@ Dunque quando alcuno pensa a una cosa come a un'altra, dice a se stesso che una 
 
 THEAETETUS: Sì.
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): But do you ever remember saying to yourself that the noble is certainly base, or the unjust just; or, best of all — have you ever attempted to convince yourself that one thing is another? Nay, not even in sleep, did you ever venture to say to yourself that odd is even, or anything of the kind?
 
@@ -2868,7 +2879,7 @@ SOCRATE: E ciò che egli non conosce, talvolta non sarà da lui percepito, e tal
 
 TEETETO: Anche questo è vero.
 
-<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): See whether you can follow me better now: Socrates can recognize Theodorus and Theaetetus, but he sees neither of them, nor does he perceive them in any other way; he cannot then by any possibility imagine in his own mind that Theaetetus is Theodorus. Am I not right?
 
@@ -3048,7 +3059,7 @@ SOCRATE: Precisamente; e voglio che tu consideri se ciò non implichi che i dodi
 
 TEETETO: Sì, così pare.
 
-<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): Then do we not come back to the old difficulty? For he who makes such a mistake does think one thing which he knows to be another thing which he knows; but this, as we said, was impossible, and afforded an irresistible proof of the non-existence of false opinion, because otherwise the same person would inevitably know and not know the same thing at the same time.
 
@@ -3276,7 +3287,7 @@ SOCRATE: Diremo allora che dei [nomi](/positions/nominalism) non ci curiamo per 
 
 THEAETETUS: Una spiegazione molto razionale.
 
-<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): But when he catches the one which he wants, then he is not deceived, and has an opinion of what is, and thus false and true opinion may exist, and the difficulties which were previously raised disappear. I dare say that you agree with me, do you not?
 
@@ -3440,7 +3451,7 @@ SOCRATE: Ottimo; ma allora, come distinse tra le cose che sono e non sono ‘con
 
 TEETETO: Non so se riesco a ricordarlo; ma se un altro me lo dicesse, credo che potrei seguirlo.
 
-<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): Let me give you, then, a dream in return for a dream: — Methought that I too had a dream, and I heard in my dream that the primeval letters or elements out of which you and I and all other things are compounded, have no reason or explanation; you can only name them, but no predicate can be either affirmed or denied of them, for in the one case existence, in the other non-existence is already implied, neither of which must be added, if you mean to speak of this or that thing by itself alone. It should not be called itself, or that, or each, or alone, or this, or the like; for these go about everywhere and are applied to all things, but are distinct from them; whereas, if the first elements could be described, and had a definition of their own, they would be spoken of apart from all else. But none of these primeval elements can be defined; they can only be named, for they have nothing but a name, and the things which are compounded of them, as they are complex, are expressed by a combination of [names](/positions/nominalism), for the combination of names is the essence of a definition. Thus, then, the elements or letters are only objects of perception, and cannot be defined or known; but the syllables or combinations of them are known and expressed, and are apprehended by true opinion. When, therefore, any one forms the true opinion of anything without rational explanation, you may say that his mind is truly exercised, but has no knowledge; for he who cannot give and receive a reason for a thing, has no knowledge of that thing; but when he adds rational explanation, then, he is perfected in knowledge and may be all that I have been denying of him. Was that the form in which the dream appeared to you?
 
@@ -3780,7 +3791,7 @@ SOCRATE: E non è parimenti un intero ciò da cui nulla è assente? ma ciò da c
 
 Ora ritengo che non vi sia alcuna differenza tra un intero e la totalità.
 
-<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 [SOCRATES](/figures/socrates): But were we not saying that when a thing has parts, all the parts will be a whole and all?
 
@@ -4052,7 +4063,7 @@ TEETETO: Così sembrerebbe.
 
 SOCRATE: E ciò che immaginavamo essere una definizione perfetta della conoscenza è soltanto un sogno. Ma forse faremmo meglio a non dirlo ancora, poiché non vi erano forse tre spiegazioni della conoscenza, una delle quali, come dicevamo, deve essere adottata da chi sostiene che la conoscenza è opinione vera combinata con spiegazione razionale? E molto probabilmente si troverà qualcuno che non preferirà questa, ma la terza.
 
-<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/method,positions/dialectic,concepts/experience,concepts/wisdom,figures/socrates,forms/dialogue,schools/academy"></span>
 
 THEAETETUS: You are quite right; there is still one remaining. The first was the image or expression of the mind in speech; the second, which has just been mentioned, is a way of reaching the whole by an enumeration of the elements. But what is the third definition?
 

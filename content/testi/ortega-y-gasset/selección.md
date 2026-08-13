@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political article: Spain can rise again historically, but favourable circumstances are not enough — a few dozen 'clear heads' are needed. Governing is not driving a finished car down a finished road: it is making and remaking both people and route; history always depends on which type of man is preferred.
+
+## Connections
+
+**Concetti:** [[concepts/select_minority|minoranza selecta]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

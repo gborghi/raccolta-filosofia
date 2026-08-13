@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A series on the crisis of the parliamentary institution: the crop of southern dictatorships (from Turkey to Spain) should not be dismissed with the «liberals'» comfortable indignation but explained like a natural phenomenon. Thesis: one cannot govern with parliament, nor without it; the democratic institutions it crowns were inspired by the muse of distrust.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -150,7 +157,7 @@ II
 
 DISOCIAZIONE NECESSARIA DI PARLAMENTO E GOVERNO
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 No se puede gobernar con el Parlamento, pero es imposible gobernar sin él. ¿Por qué ha de ser difícil resolver esta antítesis en una síntesis? Solo sería, no ya difícil, sino imposible en el [caso](/concepts/fortune) de que la democracia prolongase definitivamente su anquilosamiento de treinta años y no volviese a tener plasticidad bastante para inventar nuevas instituciones. Pero entonces la antítesis se resolvería en otra forma. El espíritu democrático, bizantinizado, sucumbiría víctima de su propia esclerosis y a la par dejaría de ser una necesidad contar con el Parlamento. La democracia, que lo ha engendrado, tiene adscritos a él sus destinos: o acierta a reformarlo, o desaparecerá como fuerza histórica.
 
@@ -258,7 +265,7 @@ Un giorno o l'altro sarà preciso tornare al Parlamento. Ma, a quale? A quello a
 
 Per dignificare il Parlamento è preciso dignificare la sua funzione e i suoi funzionari. Entrambi i mestieri devono essere curati separatamente.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Es un poco absurdo hablar tan patéticamente del Parlamento, como hacen los demócratas, y encargarle a la par de faenas tan ínfimas. Resulta grotesco que la representación de la soberanía tenga que ocuparse de la nueva carreterita allá en la aldea serrana, o del oscuro peatón que el diputado nombra en su distrito apremiando al ministro. Es inmoral, asimismo, que el representante de la voluntad pública pida al Gobierno un juez domesticado para su distrito. Es ridículo que el jefe del Gabinete tenga que contestar a un discurso donde se le ataca porque en el villorrio un guardia civil ha dado un palo a un concejal, o un concejal a un guardia civil. Es bochornoso que el cuerpo entero de los diputados haya de discutir uno por uno los artículos de una ley de Instrucción pública, porque esto sólo puede servir para que se ponga de manifiesto la incompetencia de los diputados. Peor que todo esto es la escena consuetudinaria en que medio Parlamento pugna por derribar al Gobierno, acumulando sobre él denuestos, gratuitas acusaciones, etcétera. Todo este arcaico repertorio de unos parlamentarios, que tanto complace a los políticos de antaño, creo yo que repugna a la sensibilidad actual.
 
@@ -372,7 +379,7 @@ Il caciquismo è stato la forma reale di organizzazione politica vigente in Spag
 
 Che cos'è il caciquismo? L'organizzazione ufficiale dello Stato spagnolo determinava che l'esercizio del Potere pubblico dovesse ridursi ad applicare leggi, cioè, norme oggettive, uguali per tutti, e che i chiamati ad applicarle, le autorità, erano responsabili di questa operazione. Nel caciquismo o organizzazione reale dello Stato spagnolo, al contrario, l'esercizio del Potere non era l'applicazione di leggi o norme oggettive, ma l'imposizione della volontà di certe persone, i caciques, che erano irresponsabili. Per l'intervento dei caciques nelle elezioni risultava che tutte le leggi concrete erano propriamente una mera legalizzazione di quelle volontà private. Lo Stato democratico pretendeva di essere una collettività di cittadini, di soggetti di diritto, uniti tra sé dal nesso impersonale delle leggi. Il caciquismo era uno Stato senza leggi, senza nulla di giuridico, impersonale e oggettivo; era una collettività di uomini di carne e ossa, uniti da relazioni puramente personali e private. Nel villaggio, tale individuo aveva degli amici e un gruppo di clienti riconoscenti o timorosi; quell'individuo era il cacique di primo grado. Il suo piccolo «Stato» aveva come principi di coesione la simpatia o il timore di certi uomini verso altri. Nella capitale, un altro individuo aveva riunito in più ampia articolazione quei caciques di primo grado: era il cacique di secondo grado. Infine, a Madrid un «politico» concentrava periodicamente nella sua tertulia quei caciques di secondo grado, agendo su di essi con le stesse forze magiche della simpatia, del favore o della persecuzione.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Esta trabazón de «amigos» formaba un edificio de ancha base y punta aguda: la pirámide caciquil. Cada partido político era una de estas pirámides, y el paisaje egipciaco que componían representaba la verdadera y única realidad del Estado español. ¿La justicia? ¿El respeto a los derechos del prójimo, simplemente por ser derechos, quienquiera que sea el prójimo? ¿Fervor por el mérito de los mejores? ¿Asco hacia la vileza e ineptitud de los peores? ¿Reverencia ante los destinos nacionales y reflexión sobre sus condiciones y urgencias? ¿Afición o curiosidad por la ciencia, por la técnica, por el arte, por el decoro urbano, por los residuos del pasado, por las posibilidades del futuro? Nada de esto influía en el alma del cacique, cualquiera que fuera su grado, e influía tanto menos cuanto más se descendía del «político» al cacique provincial, del provincial al de aldea. Los únicos poderes vigentes, eficaces, eran la simpatía o antipatía, el favor o el daño.
 
@@ -510,7 +517,7 @@ La condizione essenziale perché il Parlamento abbia qualche decoro è che si tr
 
 I parlamentari devono, invece, rappresentare grandi porzioni del territorio: le regioni. Ciascuna di queste poteva eleggere una ventina di deputati. Un'elezione per lista e con uno dei sistemi di proporzionalità —che sono risultati efficaci solo in corpi elettorali molto numerosi— eviterebbe quasi tutte le ripugnanti, paesane corruttele del suffragio nel nostro paese. Una regione intera non è facile da manovrare.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Yo comprendo que un proyecto de este linaje habría de irritar a toda la gentecilla inferior que, merced a vilezas de vario estilo, sabe «organizarse» un distrito. Si se llevaba a efecto equivaldría a «desaldeanizar» el Parlamento, permitiendo, con no escasas probabilidades, que esos veinte hombres destacados por cada región no fuesen nunca de calidad inferior. Cada asamblea pondría en manos de una Comisión, escogida en su interior, la presidencia de esas grandes elecciones parlamentarias.
 

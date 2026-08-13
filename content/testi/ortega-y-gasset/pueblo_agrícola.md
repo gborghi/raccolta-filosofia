@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on Egyptian history: the Nile and its geography impose on Egypt an agricultural destiny and the necessity of a State, which arises as a material condition of private life rather than by warlike imposition. The political principle displaces the family principle (nomes, Meyer, Herodotus).
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

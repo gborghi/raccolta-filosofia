@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Review of Cuartero's book against oratorical charlatanism: the orator's original vice is to live only by connivance with his circumstance — witness Cicero's cynicism, 'omnes enim illae orationes causarum et temporum sunt' — so that he is born and dies with the occasion and has an innumerable personality.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

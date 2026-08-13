@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A column on the social power of money: the complaint 'money is everything' recurs in wholly different epochs, and recurs, Ortega argues, precisely in times of moral crisis, when the other organising powers have withdrawn; hence his explicit rejection of the 'economic conception of history' that would make all history a monotonous consequence of money. The sample never mentions the shop windows of the title.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/historical_materialism|materialismo storico]]  
+**Concetti:** [[concepts/money|denaro]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -84,7 +93,7 @@ Così si spiega quella nota comune a tutte le epoche sottomesse all'impero crema
 
 Ma anche limitando in tal guisa la frase iniziale che dà occasione a questa nota, io mi domando se c'è qualche ragione per affermare che nel nostro tempo il denaro gode di un potere sociale maggiore che in nessun'altra stagione del passato. Anche questa curiosità è esposta e difficile da soddisfare. Se ci lasciamo andare, tutto ciò che accade nella nostra ora ci sembrerà unico ed eccezionale nella serie dei tempi. C'è, tuttavia, a mio giudizio, una ragione che dà probabilità chiara al sospetto di essere il nostro tempo il più crematistico di quanti furono. È anche età di crisi: i prestigi, ancora vigenti anni fa, hanno perduto la loro efficienza. Né la religione né la morale dominano la vita sociale né il cuore della moltitudine. La cultura intellettuale e artistica è valutata meno di vent'anni fa. Resta soltanto il denaro. Ma, come ho indicato, questo è accaduto varie volte nella storia. Il nuovo, l'esclusivo del presente è quest'altra congiuntura. Il denaro ha avuto, per il suo potere, un limite automatico nella sua propria essenza. Il denaro non è più che un mezzo per comprare cose. Se ci sono poche cose da comprare, per molto denaro che ci sia e molto libera che si trovi la sua azione da conflitti con altre potenze, il suo influsso sarà scarso. Questo ci permette di formare una scala con le epoche di crematismo e dire: il potere sociale del denaro —ceteris paribus— sarà tanto maggiore quante più cose ci saranno da comprare, non quanto maggiore sia la quantità del denaro stesso. Ora: non c'è dubbio che l'industrialismo moderno, nella sua combinazione coi favolosi progressi della tecnica, ha prodotto in questi anni un cumulo tale di oggetti mercabili, di tante classi e qualità, che il denaro può sviluppare fantasticamente la sua essenza: il comprare.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/historical_materialism,concepts/money,forms/essay"></span>
 
 En el siglo XVIII existían también grandes fortunas, pero había poco que comprar. El rico, si quería algo más que el breve repertorio de mercancías existente, tenía que inventar un apetito y el objeto que lo satisfaría, tenía que buscar el artífice que lo realizase y dejar tiempo para su fabricación. En todo este intrincamiento intercalado entre el dinero y el objeto se complicaba aquél con otras fuerzas espirituales —fantasía creadora de deseos en el rico, selección del artífice, labor técnica de éste, etcétera— de que se hacía, sin quererlo, dependiente.
 

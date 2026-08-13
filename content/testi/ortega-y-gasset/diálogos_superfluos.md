@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A satirical dialogue between Juan Rémora and Juan Esturión about the Spanish government: Esturión grants it is the best of possible governments but denies it is a good one, and to explain himself defends Leibniz against Voltaire's Pangloss caricature. The real Leibniz would tell Sancho: you are right, this world is very bad, but it is the best — imagine the others.
+
+## Connections
+
+**Figure:** [[figures/leibniz|Leibniz]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

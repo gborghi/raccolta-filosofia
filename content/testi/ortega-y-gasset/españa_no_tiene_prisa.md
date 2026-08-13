@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Unsigned editorial (El Sol 1918) urgently demanding a capable government, denouncing capital flight and the decadence of a Cabinet sustained only by monarchic oxygen. Political op-ed.
+> Very short text (269 words) for which the digest gives no sample at all: its content cannot be judged. Title and context suggest a newspaper piece on Spain, but this cannot be asserted.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

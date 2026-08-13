@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A homecoming note after a month and a half spent in Asturias: Ortega contrasts the dry air of the Castilian plateau, which strings the nerves until the Castilian becomes "a dangerous apparatus", with the moist, mild coastal air that heals them. A travel-and-climate sketch with no philosophical content.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The first part of a series on classical teaching, starting from the league of Richepin, France and Barrès in defence of the French language. Its core thesis: languages are living channels of thought, and not every thought can be thought in a given tongue; against the mystics, the human is the articulate and the inexpressible is the infra-human.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -162,7 +169,7 @@ LA FRANCIA, POTENZA CONSERVATRICE
 
 La memoria è un elemento base della vita spirituale, ma non è tutta essa. Spirito è forza, e come nella fisica c'è una forza inerte che serve di sostegno alla forza viva che si chiama materia, è la memoria l'inerzia spirituale, il peso dell'anima, la materia mentale. Su di essa agisce l'elemento veramente vivo, il potere inventore, creatore, anticipatore, l'intelletto. Dentro, dunque, di quella vitalità omnimoda che caratterizza lo spirito, si potrebbe dire che è la memoria il morto del vivo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/education,forms/essay"></span>
 
 Esta metáfora puede servirnos para descubrir en el arcaísmo la forma de producción literaria y científica que escoge un pueblo cuando su vida interna decae y se orienta hacia la muerte. Es cierto que del pasado, cantera maternal, han de extraerse los materiales para lo nuevo, pero el arcaísmo consiste precisamente en querer retener el pasado galvanizándolo, dotándole de una falsa actualidad y vigencia. Así es arcaico Chateaubriand cuando ensaya la reviviscencia del cristianismo como actividad o actualidad poética, y es Víctor Hugo arcaizante cuando ve en la reconstrucción de lo histórico el tema propio de la fantasía novelesca y dramática. Lo es Renan cuando busca la reforma intelectual y moral de Francia, y la vuelta al feudalismo galo; y se deja llevar de Gobineau, que ve en la idea de la raza —raza es la condensación de un pasado milenario en los caracteres anatómicos— el motor de las variaciones históricas. Lo es Taine, porque también busca el secreto de la cultura de la raza, en el medio, que es la condensación de un pasado centenario en los caracteres jurídicos y sociales, en el momento, que es la intersección de la raza y el medio. Es curioso observar cómo, a despecho de las apariencias, el movimiento intelectual de Francia durante el siglo XIX, al menos en sus figuras representativas, ha sido profundamente conservador. De aquí que la democracia política francesa haya vivido durante esa época una existencia gris y enervada que contrasta con el heroísmo luminoso e inquieto de los hombres de la gran Revolución.
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Short historical note: the Egyptian calendar and the pyramids show that Egypt reached full political, artistic and religious maturity in a fantastic 'prestissimo' and then stayed unchanged for millennia. The sample breaks off on the question '¿Cómo se explica esto?' without answering.
+
+## Connections
+
+**Concetti:** [[concepts/time|tempo]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

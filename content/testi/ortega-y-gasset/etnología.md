@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A note on how disciplines shift within the intellectual perspective: classical philology yields the centre to prehistory and ethnology, which vastly extend the historical horizon in space and time. Chief consequence: culture, once a single European norm, becomes plural and loses its normative standing — there are Chinese, Malay and Hottentot cultures as there is a European one.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

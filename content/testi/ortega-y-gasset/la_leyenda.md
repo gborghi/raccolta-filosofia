@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A two-part essay on the legend of the world ending in the year 1000: the first quotes Michelet at length on a Middle Ages that awaited order from death amid miracles, visions and devils; the second seeks the legend's basis in a millenarianism surviving as a sediment of superstition and in cabbalistic readings of the Apocalypse.
+
+## Connections
+
+**Concetti:** [[concepts/religion|religione]], [[concepts/miracle|miracolo]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -198,7 +205,7 @@ Resta, dunque, tutto ridotto alla Francia e a quel vidente della Turingia, che g
 
 Per sostenere la leggenda, quelli che la coltivarono (che oggi non è più nessuno, secondo crediamo), dovettero ricorrere, oltre ai già citati brani, fin troppo vaghi, a un paragrafo della Cronaca di Guglielmo Godel, monaco di Limoges, che scrisse dopo il 1124, cioè un secolo e più dopo la data terribile. In essa si legge che estendendosi per il mondo la notizia della presa di Gerusalemme da parte dei turchi Anno Domini MX in multis locis per orbem, tali rumore audito, timor et maeror corda plurimorum occupavit et suspicaci sunt multi finem sæculi adesse.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/religion,concepts/miracle,forms/essay"></span>
 
 Como se ve aquí, Godel habla del año 1010. Los demás cronistas de la época nada dicen al escribir esta fecha. Al concluir la relación de una de las hambres más terribles, Raúl Glaber dice: «creíase que la ordenación de las estaciones y las leyes de los elementos que hasta entonces habían gobernado el Universo habían recaído en un eterno caos y se temía el fin del género humano». Ahora bien, esta hambre ocurrió en el año 1033. Tampoco, pues, sirve este testimonio, y en cambio quita a los anteriores la fuerza que pudieran tener, pues demuestra que no existió un terror general al acercarse el año mil precisamente, sino que en muchos lugares, a raíz de cualquier calamidad, los escritores y predicadores trataban de remover los espíritus angustiados y les hacían ver lo acontecido con colores aún más negros.
 

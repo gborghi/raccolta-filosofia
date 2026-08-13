@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An article (1915) on Bruno Garibaldi's red shirt waved in a Roman square: Italy made itself with courage and talent while Spain's leaders unmade Spain, which faced with war will find itself a 'shirtless nation'. Patriotic journalism.
 

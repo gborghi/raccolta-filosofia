@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on the Argentine: to judge a nation justly one must destroy it in imagination and rebuild it. Ortega finds in Argentina a rigid, mature state out of proportion with its society, and reads it as a people projecting itself high — since all life is at root a project.
+
+## Connections
+
+**Assi:** [[assi/end_of_life|Fine della vita]]  
+**Posizioni:** [[positions/life_as_project|vita come progetto]]  
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +111,7 @@ Non accade qualcosa di questo nella nazione argentina? L'eccessivo avanzamento d
 
 Non è opportuno sviluppare ora queste domande, giacché, come si vedrà, vado di passaggio verso un altro tema. Ma non meravigli eccessivamente che se è uso tra quelli che parlano dell'Argentina segnalare ciò che le manca, cominci io per sottolineare ciò che le sovrabbonda, e in ciò che poteva sembrare un vantaggio assoluto veda io un possibile difetto e un verosimile pericolo. La ragione è questa:
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/end_of_life,positions/life_as_project,concepts/state,forms/essay"></span>
 
 Uno de los caracteres más salientes del pasado siglo fue su entusiasmo por el Estado. Por eso, hizo de la política el centro de su preocupación. Se consiguió de esta manera formar los Estados más perfectos que han existido en todo el ámbito histórico. Mas por lo mismo, de ellos viene el más grave riesgo que hoy amenaza a la civilización. Cuando el Estado llega a cierto grado de desarrollo, es una máquina tan formidable, tan eficiente y ejecutiva, tan fácil de manejar, que es muy difícil resistir a la tentación de usarla siempre que se tropieza con algún problema colectivo y siempre que la porción dominante de ciudadanos desea que las cosas pasen de este o el otro modo. Con sólo tocar el resorte del Poder Público, el gigantesco artefacto autoritario pone en movimiento su fabuloso cuerpo mecánico, ortopédicamente ajustado a la sociedad, y obtiene, sin posible oposición, el resultado apetecido. La masa se encanta al ver su Estado, que la representa, funcionando arrolladoramente, triturando sin esfuerzo mayor toda voluntad indócil que pretenda enfrontársele.
 
@@ -162,7 +171,7 @@ Ora si tratta unicamente di fissare uno dei tratti che nella contestura dell'uom
 
 Nella nostra relazione con l'argentino le cose passano d'altra maniera. Tutto al principio ci invita alla più pronta e scorrevole interpenetrazione. Non solo parla il nostro stesso idioma grammaticale, ma lo stesso idioma di idee e valori. Il contenuto vitale è in tutto l'importante identico al nostro. Per questo nel tratto con lui ci lanciamo rapidamente all'intimazione. Questo è il nostro errore. La velocità con cui tentiamo di scivolare nell'intimità dell'uomo platense serve solo perché urtiamo violentemente con la sua superficie e ci facciamo male. È stata un'illusione ottica. La penetrazione non era tanto facile. I cammini verso quella intimità erano solo un trompe-l'oeil, come se in una costa scoscesa qualcuno dipingesse viali seducenti.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/end_of_life,positions/life_as_project,concepts/state,forms/essay"></span>
 
 Afinemos ahora un poco la descripción del extraño fenómeno. ¿Qué notamos después de ese choque inicial? Notamos como si aquel hombre, presente ante nosotros, estuviese en verdad ausente y hubiese dejado de sí mismo sólo su persona exterior, a la periferia de su alma, lo que de ésta da al contorno social. En cambio, su intimidad no está allí. Lo que vemos es, pues, una máscara y sentimos el azoramiento acostumbrado al hablar con una careta. No asistimos a un vivir espontáneo. Su comportamiento nos parece en parte demasiado pueril para ser sincero, en parte demasiado repulido para ser también sincero. En suma, notamos falta de autenticidad. La palabra, el gesto no se producen como naciendo directamente de un fondo vital íntimo, sino como fabricados expresamente para el uso externo. Por la palabra que oímos y el gesto que vemos no conseguimos deslizarnos hasta el fondo personal, sino que nos quedamos en ellos como ante algo que fuese sólo fachada. Sin tiempo para prevenirnos topamos con que aquel hombre acaba allí, con que sus manifestaciones no lo son en rigor, ni emanan de su intimidad, ni recíprocamente la abren al prójimo, sino que, por el contrario, son una coraza y una defensa a toda penetración. Detrás del gesto y la palabra no hay —parece— una realidad congruente y en continuidad con ellos.
 
@@ -222,7 +231,7 @@ La descrizione che ne ho abbozzato non è solo esagerata, ma prende unicamente i
 
 In effetto, non si dimentichi la cosa più elementare: la società argentina si è fatta e vive sempre più sotto gli assalti dell'emigrazione. Migliaia e migliaia di uomini nuovi giungono alla sua costa atlantica senza altro contenuto che un feroce appetito individuale, anormalmente esenti da ogni disciplina interiore. Gente dislocata dalle sue società native, dove sarebbero vissuti, senza rendersene conto, moralizzati da un tipo di vita collettiva stabilizzata e integrale. Ma l'emigrante non è un italiano, né uno spagnolo, né un siriano. È un essere astratto che ha ridotto la sua personalità all'esclusiva mira di fare [fortuna](/concepts/fortune). Tutti gli uomini aspirano alla stessa cosa, ma nell'anima di coloro che vivono inscritti in società antiche quell'aspirazione occupa molto meno spazio e non è la [norma](/concepts/law) radicale dei loro atti, ma si trova mediatizzata da molte altre norme e aspirazioni. L'ipertrofia di quella si produce a spese di queste che, depresse, lasciano libera l'audacia.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/end_of_life,positions/life_as_project,concepts/state,forms/essay"></span>
 
 La influencia que en la vida entera de la Argentina, en lo moral y aun en lo sentimental, adquieren las crisis económicas, sería inconcebible en una nación europea. Pero me parece un error explicar ese monstruoso influjo señalando simplemente la diferencia de constitución entre la economía de aquel país y las nuestras. La [causa](/concepts/cause) decisiva es psicológica y consiste, a mi juicio, en que dentro de cada individuo —no en la objetividad de los hechos económicos— ocupa el afán de riqueza un lugar completamente anómalo. Esta exorbitación del apetito económico es característica e inevitable en todo pueblo nutrido por el torrente migratorio.
 
@@ -282,7 +291,7 @@ Per chiarire questo pensiero possiamo ricorrere a un'immagine grafica e rapprese
 
 Forse la parola fattoria suona male alle orecchie argentine. Ma sarà un errore questo schifo verso un vocabolo dietro il quale palpita il magnifico destino di quel paese. Basterebbe sostituire il fonema latino col suo equivalente greco, per rendere patente tutta la dignità di ciò che significa. La fattoria è strettamente l'emporio. E questo fu Roma. E non si intendono i meravigliosi destini di Roma, se non si parte da una sociologia degli empori. Credo che nulla chiarirebbe di più agli argentini l'evoluzione del loro paese come un'analisi sociologica della prima storia romana.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/end_of_life,positions/life_as_project,concepts/state,forms/essay"></span>
 
 Esta dualidad del cuerpo colectivo, que no cesará en la Argentina hasta que deje de ser emporio y se convierta en una nación como las demás, orgánica y de paso lento, impone por sí misma al individuo una índole también dual. Le obliga, quiera o no, a preocuparse demasiado de representar su papel. Los oficios y puestos o rangos suelen ser, como he indicado, situaciones externas al sujeto, sin adherencia ni continuidad con su ser íntimo. Son posiciones, en el sentido bélico de la palabra, ventajas transitorias, que se defienden mientras facilitan el avance individual. Esto da irremediablemente un carácter extrínseco y frívolo a la relación entre el individuo y su situación. El individuo que es periodista, o industrial, o catedrático, no lo es ante sí mismo y para sí mismo; no lo es irrevocablemente, no ve su profesión como su destino vital, sino como algo que ahora le pasa, como mera anécdota, como papel. De este [modo](/concepts/mode) la vida de la persona queda escindida en dos: su persona auténtica y su figura social o papel. Entre ambas no hay comunicación efectiva. Ya esto bastaría para explicarnos por qué nos es difícil la comunicación con este hombre: él mismo no comunica consigo.
 
@@ -354,7 +363,7 @@ Perché a questo veniamo forzatamente: se il tipo di uomo che scrutiamo non ha p
 
 Posta così la questione, si giudicherà che non resta che una risposta: la persona che non si interessa radicalmente di nulla, si interessa solo di sé stessa. Un'indole siffatta suole chiamarsi egoismo. Era necessario un così lungo e difficile giro, per finire nella scoperta che l'argentino è un uomo egoista? La verità è che il risultato non meriterebbe la pena. Ma inoltre sarebbe un grosso errore. Un tipo di umanità non si può definire per un difetto. Potrà il modo di essere che investiguiamo facilitare la frequenza di determinati difetti. E ancora, ogni modo di essere si trascina dietro un repertorio di degenerazioni affini, come ogni contestura corporale —l'obesità, la magrezza, l'atletismo— predetermina una certa classe di malattie. A Buenos Aires ho sentito molti argentini lamentarsi dell'egoismo frequente nei loro compatrioti. Ma, a mio giudizio, questa qualifica è erronea. Con egoisti non si fa in un secolo un popolo del portamento che oggi ha l'Argentina. Inoltre, quella supposizione di egoismo congenito non spiega nessuna delle altre peculiarità.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/end_of_life,positions/life_as_project,concepts/state,forms/essay"></span>
 
 No; es otra cosa. Una distinción, sutil al primer pronto, nos pone en una pista muy diferente. Este tipo de hombre no tiene, en efecto, puesta su vida a nada, pero tampoco es su persona lo que más le interesa. Lo que más le interesa, lo que le preocupa es… la idea que él tiene de su persona.
 
@@ -432,7 +441,7 @@ Ma l'argentino è troppo Narciso, lo è radicalmente. Vive assorto nell'attenzio
 
 La tragedia di Narciso è che, occupato esclusivamente a contemplarsi, la sua propria immagine lo affoga, cioè, che non vive. Se vivesse, sarebbe la sua immagine il vivente. Ma un'immagine ha solo una vita immaginaria, apparente, fittizia. Questo è il grave nella psicologia dell'argentino. Non l'egoismo, non la vanità. La sua indole favorisce oltremodo questi due vizi, e non nasconderò che i casi più comici di vanità che ho conosciuto, li ho trovati in Argentina. Ma entrambi i difetti, come ho detto prima, sono naturali degenerazioni di un certo modo di essere e non qualificano primariamente il tipo di uomo che analizzo. L'egoismo è una mancanza di attenzione agli altri esseri e cose. Ma il grave del narcisismo non è che disattenda gli altri, bensì che porta a disattendere la propria persona reale, l'autentica vita. L'individuo si abitua a negare il suo essere spontaneo in beneficio del personaggio immaginario che crede di essere. Porta alla più strana insolidarietà con sé stesso. Per prendere in ogni istante la postura che quel personaggio irreale prenderebbe, rinuncia all'atteggiamento sincero che la persona reale vorrebbe adottare. E così un giorno e l'altro e sempre. Alla fine resta annullata, atrofizzata l'intimità, che è il nostro unico tesoro vero, che è la sola potenza effettiva capace di creare in ogni ordine, dalla scienza, passando per la politica, fino all'amore e alla conversazione.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/end_of_life,positions/life_as_project,concepts/state,forms/essay"></span>
 
 Quien sabe eludir los trompe-l’oeil psicológicos y ha visto, como por una rendija, la magnífica intimidad que el hombre argentino llega a paralizar dentro de sí por reducirse a la fruición de su imagen, se impacientará pensando en todo lo que podría ser ya este pueblo —lo que podría haber creado en los órdenes más altos— sin más que moderar aquella propensión. Se impacientará de que en el pueblo con más vigorosos resortes históricos que existe hoy, haya faltado una minoría enérgica que suscite una nueva moral en la sociedad, llame al argentino a sí mismo, a su efectiva intimidad y sinceridad, temple con rigor su narcisismo, se muestre intratable para cuanto es mera postura o papel, y, le fuerce a vivir verdaderamente, a manar, a brotar de su riqueza interior, en vez de mantenerse en perpetua deserción de sí mismo. El día que tal minoría enseñe a este hombre a aceptar hondamente su individual destino, a existir formalmente y no en gesticulación y representación de un rôle imaginario, la Argentina ascenderá de manera automática en la jerarquía de las más altas calidades históricas. Porque el hombre del Plata es uno de los mejor dotados que acaso haya. Se impacientará tanto, repito, que escribirá este pequeño ensayo.
 

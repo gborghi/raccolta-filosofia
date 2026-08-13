@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Ideals, always unmet, are a characteristic reality of each epoch, but he suspects they serve as an imaginary second storey where great attitudes can be acted out: those who believe they have a "mission" often compensate thereby for unfitness for their primary destiny. He illustrates with the fifteenth-century chivalric ideal, citing Huizinga's Autumn of the Middle Ages and a poem by Jean de Beaumont.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -180,7 +186,7 @@ Poche volte si mostra così chiaramente l'impossibilità di isolare un fatto uma
 
 Nel nostro tempo, servire un uomo a un altro è un'operazione inferiore, in certa maniera denigrante. Si comprende che sia così, perché nel nostro tempo regna la favola convenuta che tutti siamo uguali. Siccome servire implica sudditanza ed è un'attività che moralmente si esercita dal basso in alto, servire equivale a rompere il livello di uguaglianza degradandosi per sommersione sotto di esso. Ma immaginiamo un momento il presupposto contrario: che gli uomini sono costitutivamente disuguali, che alcuni valgono e sono più di altri. Allora ogni approssimazione di chi vale meno a chi vale più sarà un beneficio per quello; sarà, in rigore, un'ascensione nella gerarchia. Orbene: la forma organica e non meramente casuale di quella approssimazione è il servizio. Servire sarà, dunque, la forma di convivenza in cui l'inferiore partecipa delle eccellenze annesse al superiore. Ecco perché profonda ragione nel Medioevo il servizio nobilita invece di denigrare, ed è un mezzo elevatorio nel sistema dei ranghi umani.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 En los castillos, el servicio no se entendía como un trabajo, y consecuentemente no se pagaba. Nuestras ideas económicas se han empobrecido y simplificado gravemente; casi no conocemos otra forma de retribución que el pago. Se paga una faena humana exactamente en el mismo sentido que se paga una mercancía. Una y otra tienen su precio mercantil. En la Edad Media se remuneraba el servicio, pero no con la intención de pagarlo. ¿Cómo pagar el esfuerzo de un hombre en torno a otro? Ello equivaldría a desvirtuarlo, a descalificarlo. Yo creo que la idea actual más cercana de lo que era la remuneración de los servicios en aquella otra edad es el gasto de representación. Y esto es lo que Cervantes esperaba del conde de Lemos. Todo hombre que no perteneciera a la clase artesana tenía en la Edad Media un papel social muy marcado, al cual iba adscrito un cierto decoro o régimen de vida adecuado. Y se consideraba que la sociedad estaba obligada a proporcionar a cada uno los medios de sostener su figura y función sociales. No, pues, en beneficio del individuo, sino de la sociedad misma, y esto desde las más altas jerarquías. Tal viene a ser la exquisita doctrina sobre el reparto de la riqueza insinuada en Santo Tomás. El recto principio distributivo no era, como para nosotros, la cantidad de trabajo que el individuo rinde, sino la dosis de liberalidad y de lujo que su rango le imponía. La riqueza y su medida no se fundaban en un derecho a poseer, no eran una ganancia propiamente, sino al contrario, se regulaban según la obligación de gastar aneja a cada puesto social. Y esta idea provenía, a su vez, de la forma general que la economía adoptaba entonces: se partía del presupuesto de gastos, y no del de ingresos, como hace el capitalismo moderno. La producción se regulaba por el consumo, y no, según acaeció luego, el consumo por la producción, que es, al decir de los entendidos en estas cosas, el rasgo esencial del capitalismo. Lo cual —sea advertido al margen— es una perversión del orden natural y correcto. Pues la riqueza no es sino el medio para adquirir lo que se necesita o se desea. Parece, pues, el mejor orden que se comience por sentir la necesidad o el deseo de una cosa y luego se piense en lograr la cuantía exigida para su adquisición. Pero el hombre moderno comienza por desear la riqueza, esto es: el puro medio adquisitivo. A este fin aumenta indefinidamente la producción, no por necesitar el producto, sino con ánimo de obtener aún más riqueza. De donde resulta que el producto, la mercancía, se ha convertido en medio, y el dinero, la riqueza, en fin último.
 
@@ -246,7 +252,7 @@ Che cosa succede a questi muri, così seri, così gravi, per d'un tratto rizzars
 
 Ed è da avvertire una importante coincidenza. La linea della Spagna dove cominciano a pullulare gli scudi segna la fine delle città. È tempo che Corpus Barga sottolineò questo fatto che nel paese basco non esiste l'urbs. Un meridionale non potrebbe realizzare la sua idea di città vedendo questa dispersione di dimore, che sembrano fuggire l'una dall'altra e costituiscono le villas del Nord. La città andalusa o castigliana è una scultura compatta; la città cantabra è piuttosto un paesaggio, un'urbs centrifugata, dove ogni edificio è stato lanciato verso i campi.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Esto nos llevaría a reflexiones algo complicadas sobre el ruralismo cántabro. Como toda España es rural, es de no poca sutileza definir la forma genuina de cada ruralismo regional. Pero que existe en el Norte este instinto de dispersión urbana me parece indudable. Así, no hay grupo nacional que pareciera más llamado que Bilbao a construir una urbe sólida y sin poros. Sin embargo, cuando Bilbao ha querido ensancharse se ha evadido del perfil oficial que el Municipio proponía. El verdadero ensanche bilbaíno no es el que se llama así, sino Neguri, Algorta, Las Arenas —la población centrifuga con campiña interior. (¡Tema sobremanera sugestivo fuera una morfología de las ciudades!)
 
@@ -336,7 +342,7 @@ Bisogna fare, tuttavia, eccezione per una parte della scienza: la sperimentale. 
 
 Ma l'arte e la pura scienza vivono di essere problemi, e possono interessare sinceramente soltanto a gloriosi equipaggi di avventurieri. Non fondiamo le cose se non nella sincerità, terra ferma. Ma si dirà che anche esse hanno bisogno di mezzi, ausilio sociale. Perfettamente. Che siano loro procurati da gruppi particolari della società veramente sensibili a così divine avventure.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Aquí, delante de esta cueva donde parece haber nacido el arte, reconozcamos que es éste un soberano azar. No cabe premeditarlo como un crimen o un negocio. Estos hombres de Altamira lo encontraron sin buscarlo. Vino sobre ellos como una revelación, como un bisonte.
 
@@ -408,7 +414,7 @@ Per noi, due cose che si assomigliano in qualcosa non per questo hanno a che ved
 
 Esiste, dunque, per l'anima primitiva una penetrabilità prodigiosa tra le realtà, che permette di passare dall'una all'altra come se fossero piene di metafisici pori o fossero di natura gassosa. Questa condizione delle cose rende possibile la tecnica magica e l'ispirazione simbolica.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Ahora bien; hay ciertas cosas cuyo parecido con otras es superlativo, a saber: sus imágenes o figuras. Para nosotros, la figura dibujada no tiene ninguna realidad propia, y tal vez exageramos un poco más de lo justo. Pero se comprende que el hombre ha tardado milenios en convencerse de que un bisonte pintado no es, al fin y al cabo, un bisonte. Pasa como con el nombre que es para la mente primaria un [modo](/concepts/mode) de la cosa misma. Los esquimales sostienen que el hombre se compone de tres partes: su cuerpo, su alma y su nombre. Nombrar es, pues, en algún modo, tener la cosa. Por eso es tan general en las épocas primeras dar al niño dos nombres: uno falso, que se hace público, y otro auténtico, que sólo la madre sabe y luego comunica a la esposa. Un resto de esta magia nominal conserva el lector piadoso cuando se persigna «en el nombre del Padre, del Hijo y del Espíritu Santo».
 

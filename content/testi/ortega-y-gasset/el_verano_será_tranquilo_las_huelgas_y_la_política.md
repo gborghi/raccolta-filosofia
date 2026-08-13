@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial on the announced railway strike and the risk that revolutionary parties will hijack it: the government must ascertain the movement's nature and the merit of the demands. Topical labour and political comment.
 

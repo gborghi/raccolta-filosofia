@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A bibliographical reply (La Prensa, 1911) to Buenos Aires readers asking for reading on psychoanalysis: an annotated list of titles in Spanish, French, English and German (Freud, Jung, Ferenczi, Jones, Hitschmann), with notice that his own assessment of Freud's theories is unfavourable. A bibliographic piece.
 

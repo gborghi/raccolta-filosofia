@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Column on the fifth centenary of the University of Leipzig: against the idea that wars explain Spain's cultural dismantling, Ortega argues other nations worked at organising peace even amid war. The inner peace of Stoics and ascetics is no natural gift but a conquest, and its watchword is Abstine: the organ of peace is the University.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]  
+**Scuole:** [[schools/stoicism|stoicismo]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

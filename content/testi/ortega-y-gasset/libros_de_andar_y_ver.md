@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A series of travel notes and geopolitical comment on the Rif and Melilla. The sample opens with "geographical utopias": the classical utopias (Homer's Phaeacians, Plato's Atlantis) were not romantic escapes but stimulants for dulled sensibilities, since all sensation presupposes a difference of level. There follows a denunciation of Spanish ignorance of the Rif.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -102,7 +108,7 @@ Cunningham Graham, il democratico, viaggiatore e stilista inglese, mi riferì ch
 
 Ho a la vista l'opera più recente, secondo credo, sul Marocco, composta da Otto C. Artbauer, un austriaco ancora giovane, che dopo aver percorso l'Oriente è penetrato per l'Impero mogrebita in tutte le direzioni, padrone della lingua, fatto alle scorribande, e nel sostanziale dei suoi giudizi degno di credito. Artbauer fece l'ultima campagna di Melilla dal campo rifeño, e le sue note vedranno molto presto la luce. Non diciamo che Artbauer sia molto intelligente, ma per andare e vedere — libri di andare e vedere chiamano gli arabi le loro opere di viaggio — non fa bisogno impiegare tanto talento quanto quello che spende ogni giorno un caudillo liberale per né vedere né andare. Che non è intelligente lo dimostra Artbauer scrivendo un libro sopra i cui dati esatti pesa una crosta ripugnante di odio ai francesi e di disprezzo agli spagnoli. Nel suo odio ai francesi, Artbauer si è fatto realmente un africano.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Sin embargo, ¿qué observaciones podrían lealmente oponerse a párrafos como éste de un capítulo titulado «Los derechos históricos de España»?: «En una ladera oriental del peñasco Dchebel Uarca, cuya punta Norte “Tres Forcas” se adelanta sobre el mar 25 kilómetros, se halla la posesión más antigua de los españoles en tierra marroquí, Melilla. Desde 1496 era ya tiempo más que suficiente para que se hubieran entablado relaciones de amigable vecindad con las porciones de la tribu Gelaia, que habita en aquella tierra tan rica. Mas el comercio con los naturales es poco más crecido que en cualquiera de los otros cinco presidios. Y, sin embargo, Melilla está situada como ningún otro pueblo de la costa de Marruecos para servir de capital a un poderoso comercio interior. Los rifeños bereberes llaman este lugar Tamrirt; esto es, lugar de encuentro. Aquí desemboca el hasta hace poco tan frecuentado camino de Tafilet; parten vías usaderas para Taza y Fez, llegan aquí habitantes de Kebdana y del Rif, porque sería un rodeo excesivo y campo a traviesa buscar por otro lado el cambio de productos. El puerto posee las más raras condiciones para desarrollarse opimamente. A pesar de todo esto, hace un decenio no podía arriesgarse ningún español más allá de las piedras blancas que indicaban el estrecho territorio neutral, sin ser amonestado por saludos de plomo, procedentes de los siempre alerta fusiles rifeños» (96-97). Y añade: «Si los españoles fueran más discretos, más pacientes y enérgicos, podía Melilla acaparar todo el comercio entre el Estrecho de Gibraltar y la capital argelina».
 
@@ -228,7 +234,7 @@ Ma monsieur Say non si lasciò intimorire: seguì imperterrito costruendo, senza
 
 I lavori erano realizzati, sotto la sua direzione, da ingegneri francesi; ma, disgraziatamente, non li sapeva scegliere bene. Poco esperto del cuore umano soffrì frequenti disinganni, e lavori errati gli costarono perdite di denaro e di tempo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Por lo demás, reinaba en Port Say siempre buen humor entre los pocos franceses distinguidos que allí se reunían. Se pasaba el tiempo de la mejor manera, y, como no solía haber señoras, no eran graves las preocupaciones por el traje. Monsieur Say solía recibir en camiseta, con pantalones cortos de pana, alpargatas y sin medias. ¡Verdaderamente —exclamaba Karow— una vida fronteriza! Por la noche, a la hora de comer, la indumentaria no variaba; a lo sumo, Say se ponía un cuello, pero jamás medias ni cosa que las valiera.
 
@@ -306,7 +312,7 @@ Il Turco passa a Melilla. Il suo capitano va di sera a terra, e nell'hotel Afric
 
 »Mi parve — prosegue l'autore —, in verità, abbastanza sorprendente quanto vidi e udii di queste genti. Madame Du Gast partì per Fez con ufficiali francesi, dopo aver provato a chiudere affari col pretendente, e mentre uno dei suoi agenti lavorava ancora con lui. C… seguitò senza pagare il suo conto nella locanda. B…, che andava in tutto l'intrigo, era fratello di un alto impiegato francese ad Argel. Ma, sopra tutto ciò, mi sembravano incalificabili le andanze di madame Du Gast, che, per incarico del suo Governo, esercitava quel gioco doppio. Non potei fare a meno di mettere al corrente di tutto Torres, invitandolo a diffidare del nuovo metodo di attrazione francese, la bella signora Du Gast».
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Tal es la vida y alguno de los milagros de monsieur Say, aventurero y fundador, termita francés que trabaja el sultanado occidental por el rincón de Muluya. Lo escrito es simplemente un extracto, en su mayor parte literal, de las notas que hallo desparramadas en el libro de Karow.
 
@@ -402,7 +408,7 @@ Politica di popolo a popolo, e non di Governo a Governo, deve essere la nostra i
 
 La lista di misfatti addotta da Artbauer è lunga; poi aggiunge: «L'unica eccezione illustre è Tetuán, con il piccolo capitano Cogolludo, l'uomo della barba nera».
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Cuando la tropa fue organizada faltaban clases indígenas. Francia se las proporcionó en los regimientos argelinos; España, en su tabor rifeño de Ceuta, compuesto de 150 hombres. Ambas medidas, explicables en un principio, se mostraron luego defectuosas. Los instructores españoles se dieron cuenta de ello y sustituyeron poco a poco a la oficialidad subalterna, de modo que hoy puede tenerse en ella bastante confianza. Francia, empero, introdujo cada vez más elementos extraños.
 

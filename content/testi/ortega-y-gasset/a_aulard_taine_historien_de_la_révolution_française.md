@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A polemical review of Aulard's book against Taine: Ortega uses the occasion to denounce Taine's "scientific bad faith" — he supposedly read a tiny fraction of the documents behind the Origines — and to urge the Spanish generation schooled by him to revise its assumptions. A piece of historiographical and literary criticism, not philosophy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -114,7 +120,7 @@ Taine è oggi l'ultimo baluardo teorico dei conservatori perché fu nemico della
 
 Anche Renan fu letterato e forse la letteratura danneggiò un poco l'integrità della sua coscienza scientifica. Ma così poco! Con tutto ciò, Renan —benché figura di secondo ordine nella grande prospettiva della storia della cultura— seppe innestare il suo ingegno nei profondi boschi sacri, vergini, aspri, difficili, che sono vivaio di umanità. Renan, se non giunse mai a inventare un'idea —l'invenzione non è la sua caratteristica—, giunse fino in fondo all'apprendistato nello studio dei grandi produttori. Non fu un filosofo originale, ma si abbeverò severamente nei problemi disciplinari della saggezza come quei ferventi buddisti che giungono fino al fiume sacro e vivono qualche tempo nelle sue acque lasciando che la divinità liquida maceri e saturi le loro carni.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 No pretendo en dos párrafos cerrar con el nombre de Taine: sería necio, sería poco piadoso y, sobre todo, sería injusto. Todos debemos a las paradojas de Taine un primer impulso al juego intelectual cuando en torno a los veinte años, cansado de jugar nuestro cuerpo, despertó al ejercicio nuestro espíritu. Además, Taine puede operar un influjo fecundo en los estudios artísticos: su idea de la historia del arte, su noción de lo bello, aun pareciéndome terriblemente falsas, llevan en aluvión un interés serio y objetivo. La crítica artística, como interpretación histórica de las obras bellas, obliga al estudio y a la síntesis de épocas pasadas del hombre, ensancha el criterio y el gusto, enriquece el horizonte del juicio y, por encima de todo, lleva a considerar la obra de arte como una realidad hondamente humana ante la cual aparecen ridículos los párrafos de una crítica subjetiva.
 

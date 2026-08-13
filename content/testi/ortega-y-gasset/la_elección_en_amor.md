@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay: the core of individuality is neither opinion nor temperament but an innate system of preferences and disdains; the heart, a machine for preferring, upholds the person, and the historian must fix any age's table of dominant values. The choice of a beloved is the situation in which that secret core confesses itself.
+
+## Connections
+
+**Concetti:** [[concepts/passion|passione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -84,7 +91,7 @@ Se la volontà dell'uomo potesse soppiantare completamente la sua spontaneità, 
 
 Quanto più l'attuale psicologia va penetrando nel meccanismo dell'essere umano, tanto più evidente appare che il mestiere della volontà, e in generale quello dello spirito, non è creatore, ma meramente correttore. La volontà non muove, ma sospende, questo o quell'impeto prevolontario che ascende vegetativamente dal nostro sottosuolo animico. Il suo intervento è, quindi, negativo. Se a volte sembra il contrario, è per la seguente ragione: costantemente accade che nell'intrico delle nostre inclinazioni, appetiti, desideri, uno di essi agisca come un freno sopra un altro. La volontà, sospendendo quel frenamento, permette all'inclinazione, prima trattenuta, di fluire e stendersi pienamente. Allora sembra che il nostro «volere» abbia un potere attivo, quando, in rigor di termini, l'unica cosa che ha fatto è stata alzare le cateratte che contenevano quell'impeto preesistente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/passion,forms/essay"></span>
 
 El sumo error, desde el Renacimiento hasta nuestros días, fue creer —con Descartes— que vivimos de nuestra conciencia, de aquella breve porción de nuestro ser que vemos claramente y en que nuestra voluntad opera. Decir que el hombre es racional y libre me parece una expresión muy próxima a ser falsa. Porque, en efecto, poseemos razón y libertad; pero ambas potencias forman sólo una tenue película que envuelve el volumen de nuestro ser, cuyo interior ni es racional ni es libre. Las ideas mismas de que la razón se compone nos llegan hechas y listas de un fondo oscuro, enorme, que está situado debajo de nuestra conciencia. Parejamente, los deseos se presentan en el escenario de nuestra mente clara como actores que vienen ya vestidos y recitando su papel de entre los misteriosos, tenebrosos bastidores. Y como sería falso decir que un teatro es la pieza que se representa en su iluminado escenario, me parece, por lo menos, inexacto decir que el hombre vive de su conciencia, de su espíritu. La verdad es que, salvo esa somera intervención de nuestra voluntad, vivimos de una vida irracional que desemboca en la conciencia, oriunda de la cuenca latente, del fondo invisible que en rigor somos. Por eso el psicólogo tiene que transformarse en buzo y sumergirse bajo la superficie de las palabras, de los actos, de los pensamientos del prójimo, que son mero escenario. Lo importante está detrás de todo eso. Al espectador le basta con ver a Hamlet que arrastra su neurastenia por el jardín ficticio. El psicólogo le espera cuando sale por el foro, y quiere conocer, en la penumbra de telones y cordajes, quién es el actor que hace de Hamlet.
 
@@ -162,7 +169,7 @@ Questo interesse è l'amore, che agisce sulle innumerevoli attrazioni sentite, e
 
 Ho indicato che l'amore vive del dettaglio e procede microscopicamente. L'istinto, invece, è macroscopico, si scatena dinanzi agli insiemi. Si direbbe che agiscano entrambi da due distanze diverse. La bellezza che attrae raramente coincide con la bellezza che innamora. Se l'indifferente e l'innamorato potessero confrontare ciò che per entrambi costituisce la bellezza, l'incanto di una stessa donna, si sorprenderebbero dell'incongruenza. L'indifferente troverà la bellezza nelle grandi linee del viso e della figura —ciò che, in effetti, suole chiamarsi bellezza. Per l'innamorato non esistono, si sono già cancellate quelle grandi linee, architettura della persona amata che si percepisce da lontano. Se è sincero, chiamerà bellezza i minuti tratti sciolti, distanti tra loro: il colore della pupilla, la commessura delle labbra, il timbro della sua voce…
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/passion,forms/essay"></span>
 
 Cuando analiza su sentimiento y persigue la trayectoria de esto que va desde su interior al ser querido, nota que el hilo del amor va a anudarse en esas menudas facciones y de ellas se nutre en todo instante. Porque, no hay duda, el amor se alimenta continuamente, se embebe de [causa](/concepts/cause) y razón de amar contemplando real o imaginariamente las gracias de lo amado. Vive en forma de incesante confirmación. (El amor es monótono, insistente, pesadísimo; no soportaría nadie que se le repitiese muchas veces la frase más ingeniosa, y, en cambio, exige la reiteración innumerable de que el ser amado le ama. Viceversa: cuando alguien no ama, el amor que le es dedicado le desespera, le atosiga por su extremada pesadumbre).
 
@@ -258,7 +265,7 @@ Ma ragioni di bastante peso, che non è opportuno accumulare qui, mi inclinano a
 
 No, no. Precisamente, questa opinione gode di elasticità sufficiente per adattarsi ai fatti in tutto il loro inarcamento. Essa ci permette di distinguere tra le piccole modificazioni che gli avvenimenti esterni introducono nel nostro modo di essere e altri cambiamenti più profondi che non obbediscono a quei motivi di azzardo, ma all'indole stessa del carattere. Io direi che il carattere cambia, se per questo cambiamento s'intende propriamente un'evoluzione. E questa evoluzione, come quella di ogni organismo, è provocata e diretta da ragioni interne, connaturali all'essere stesso, innate come il suo carattere. Il lettore avrà sicuramente l'impressione che alcune volte le trasformazioni dei suoi prossimi gli sembrino frivole, ingiustificate, quando non oriunde dall'inconfessabile, ma che in altri casi la mutazione possieda tutta la dignità e tutto il senso di una crescita. È il germoglio che si fa albero, è la nudità di foglie che precede la foliazione, è il frutto che segue alla fronda.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/passion,forms/essay"></span>
 
 Contesto, pues, a la objeción antecedente. Hay personas que no evolucionan, caracteres relativamente anquilosados (en general, los de menos vitalidad: prototipo, el «buen burgués»). Éstas persistirán dentro de un invariable esquema de elección amorosa. Pero hay individuos con carácter fértil, rico de posibilidades y destinos, los cuales esperan en buen orden su hora de explosión. Casi puede afirmarse que éste es el [caso](/concepts/fortune) normal. La personalidad experimenta en el transcurso de su vida dos o tres grandes transformaciones, que son como estadios diferentes de una misma trayectoria moral. Sin perder la solidaridad, más aún, la homogeneidad radical con nuestro sentir de ayer, cierto día advertimos que hemos ingresado en una nueva etapa o modulación de nuestro carácter. A esto llamo cambio radical. No es más, pero tampoco es menos[76]. Nuestro ser profundo parece en cada una de esas dos o tres etapas girar sobre sí mismo unos grados, desplazarse hacia otro cuadrante del Universo y orientarse hacia nuevas constelaciones.
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Retelling of the memoirs of the Strasbourg banker Zetzner, who came to Spain in 1718 to collect 11,000 livres from a Cádiz banker: the sword confiscated in Barcelona, the caleche driver, the bandits, the gentleman don Bernardo. A historical-literary sketch with remarks on northern and southern temperaments; no philosophical content.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +114,7 @@ Almeno dichiara Zetzner che siamo sobri e che sogliono dire: «Noi non mangiamo 
 
 «Ecco —dice Zetzner— ciò che ho notato nel mio diario sul regno di Spagna e ciò che ho riunito poi a Cadice: avrei potuto, senza dubbio, aggiungere altre molte cose, ma la depressione mentale causata dalle mie grandi perdite di denaro mi ha impedito di farlo».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Zetzner era, pues, un infeliz; pero muchas de estas apreciaciones fantásticas las encontramos nada menos que en Montesquieu.
 

@@ -12,8 +12,15 @@ tags:
   - "philosopher/seneca"
 ---
 
+*Seneca*
+
 > [!abstract]
 > Tragedy of Phaedra's incestuous passion for her stepson Hippolytus, the chaste hunter: the love-sickness sent by Venus overwhelms reason and leads to ruin and death. Unbridled passion set against chastity and order.
+
+## Connections
+
+**Concetti:** [[concepts/passion|passione]], [[concepts/nature|natura]], [[concepts/death|morte]]  
+**Forme:** [[forms/tragedy|tragedia]]
 
 <p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
 
@@ -38,7 +45,25 @@ CHORUS of Athenian citizens.
 
 THE SCENE is laid throughout the court in front of the royal palace at Athens, and the action is confined to the space of one day.
 
-<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ippolito, figlio di Teseo e di Antiope, un’Amazzone.
+
+Fedra, moglie di Teseo e matrigna di Ippolito.
+
+Teseo, re di Atene.
+
+La nutrice di Fedra.
+
+Messaggero
+
+SCHIavi e servitori
+
+Coro di cittadini ateniesi.
+
+La scena si svolge nel cortile antistante il palazzo reale ad Atene, e gli avvenimenti sono circoscritti all’arco di una sola giornata.
+
+<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 
 Theseus had wed Antiope, the Amazons, and of their union had been born Hippolytus. This youth grew up to love the chase, austere and beautiful, shunning the haunts of men and scorning the love of women. Theseus had meanwhile slain Antiope, and married Phaedra, Cretan Minos’ child.
 
@@ -46,7 +71,15 @@ And now, for four years past, the king has not been seen upon the earth, for, fo
 
 Deserted by her lord, the hapless Phaedra has conceived a hopeless passion for Hippolytus; for Venus mindful of her old armour with Mars, which Phaedra’s ancestor, Apollo [Phoebus or Sol the Sun], had exposed, has sent this madness on her, even as Pasiphaë, her mother, had been cursed with a most mad and fatal malady.
 
-<span class="atom-split" data-atom="003" data-title="PHAEDRA (parte 1)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Teseo aveva sposato Antiope, una delle Amazzoni; dal loro matrimonio era nato Ippolito. Questo giovane coltivò l’amore per la caccia, un’attività austera e nobile, evitando le compagnie degli uomini e disprezzando l’amore femminile. Nel frattempo, Teseo aveva ucciso Antiope e sposato Fedra, figlia di Minosse di Creta.
+
+E ora, da quattro anni a questa parte, il re non è più stato visto sulla terra; infatti, in seguito all’avventura folle del suo caro amico Piritoe, egli è disceso nel Tartaro per aiutarlo a rapire la sua regina, e da lì, si pensa, non tornerà mai più.
+
+Abbandonata dal suo signore, la sfortunata Fedra ha concepito una passione senza speranza per Ippolito; poiché Venere, ricordandosi della sua antica relazione con Marte, che l’antenato di Fedra, Apollo [Febo o Sole], aveva resa nota, le ha inflitto questa follia, proprio come Pasifae, sua madre, era stata maledetta da una malattia folle e fatale.
+
+<span class="atom-split" data-atom="003" data-title="PHAEDRA (parte 1)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 
 HIPPOLYTUS
 
@@ -86,7 +119,47 @@ NURSE
 
 [140] Best is the upright purpose and the unswerving path; next is the shame, that knows some measure in transgressing. To what end art thou hasting, wretched woman? Why heap fresh infamy upon thy house and outsin thy mother? Impious sin is worse than monstrous passion; for monstrous love thou mayst impute to fate, but crime, to character. If, because thy husband sees not the realms of earth, thou dost believe thy guilt safe and devoid of fear, thou errest. Suppose that Theseus is indeed held fast, hidden away in Lethean depths, and must suffer the Styx eternally; what of him, thy father, who holds the seas under his wide dominion and gives law to a hundred peoples? Will he permit so great a crime to lie concealed? Shrewd is the care of fathers. Yet suppose that by craft and guile we do hide this great wickedness from him; what of him who sheds his light on all things, thy mother’s sire? What of him who makes the heavens rocks, brandishing Aetnean bolts in his glittering hand, the father of the gods? Dost believe thou canst so sin as to escape the all-seeing eyes of both thy grandsires?
 
-<span class="atom-split" data-atom="004" data-title="PHAEDRA (parte 2)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ippolito
+
+[All’alba, nel cortile del palazzo ad Atene. Entra IPPOLITO accompagnato da un numeroso gruppo di cacciatori armati delle varie armi utilizzate nella caccia, e con diversi cani al guinzaglio. Ippolito inizia a assegnare ai suoi seguaci le varie mansioni previste per la giornata.]
+
+[1] Andate, circondate i boschi oscuri e le cime più alte delle montagne, figli di Cecrope! Con passi agili e veloci, esplorate tutte quelle zone nascoste che si trovano sotto le rocce del Parnaso e nella valle di Thria, dove il corso rapido del fiume batte contro le sue rive; salite su quelle colline sempre innevate. Lì, lì possono andare gli altri. Mentre qui, dove i boschi di ontani delimitano la foresta, dove i prati sono accarezzati dal respiro umido della brezza primaverile che fa germogliare l’erba, dove il flebile fiume Ilissos scorre lentamente attraverso campi desolati, formando un corso poco abbondante su sabbie sterili.
+
+[17] Andate per la strada a sinistra, dove Marathon si apre nelle sue valli boschive, dove le madri con i loro piccoli cercano ogni notte cibo; e voi, là dove il rigido Acharneus attenua le sue gelide temperature sotto la calda brezza meridionale.
+
+[23] Che uno cammini sulle dolci scogliere dell’Hymettus, un altro lungo le rive di Aphidnae. Quel luogo, dove il promontorio di Sunium si affaccia sul mare increspato, è troppo a lungo rimasto indisturbato. Se qualcuno sente il richiamo della foresta, Phlye lo chiama a sé: là si nasconde il cinghiale, terrore dei contadini. Un luogo ormai noto per le molte ferite che causa.
+
+[31] Ma forse si dovrebbero togliere i guinzagli dai cani che cacciano in silenzio; lasciare che le corde tengano saldamente questi feroci animali, e permettere ai selvaggi Cretesi di tirare con forza quelle robuste catene. Gli Spartani, invece (poiché la loro razza è audace e desiderosa di cacciare), li tengono stretti con nodi ancora più saldi. Arriverà il momento in cui le rocce vuote risuoneranno dei loro ululati; per ora, con la testa bassa, lasciate che annusino l’aria con i loro nasi acuti, e che, con il muso a terra, setaccino le foreste ancora avvolte nell’oscurità, mentre il terreno umido conserva ancora chiaramente le tracce lasciate dai loro passi.
+
+[44] Che alcuni di voi si affrettino a caricarsi sulle spalle reti pesanti e a maglia larga, mentre altri preparino trappole ben confezionate. Che una corda adornata di piume rosse susciti nel cervo un terrore vano. Tu brandirai la lancia; tu, con entrambe le mani, scaglierai il pesante bastone di quercia munito di punta di ferro larga; tu ti nasconderai e, con grida, spingerai la preda verso di te; e quando la vittoria sarà ottenuta, con il tuo coltello da caccia curvo separerai la carne dalla pelle.
+
+[54] E tu sii con il tuo seguace, o dea simile agli uomini, la cui [sovranità](/positions/sovereignty) riserva i luoghi più segreti della terra; le tue frecce, mirate con precisione infallibile, colpiscono la preda che beve dalle acque fresche dell’Araxes o si muove lungo i corsi ghiacciati dell’Ister. La tua mano colpisce i leoni del Getauro e i cervi di Creta; ora, con un movimento più leggero, penetri nelle carni delle lepri veloci. I tigri striati ti affrontano, ma i bisonti dal dorso folto fuggono, così come l’ariete dalle corna larghe e distese. Tutte le creature che si nutrono nei campi solitari, sia che siano conosciute dagli arabi nelle loro foreste rigogliose, che dai poveri Garamantiani o dai nomadi Sarmati sulle loro pianure deserte; tutto ciò che i ripidi monti dei Pirenei o le valli dell’Ircania nascondono, tutte temono il tuo arco, Diana. Se il tuo fedele devoto, dopo aver offerto i suoi sacrifici, ti porta con sé nelle foreste, le sue reti cattureranno prede abbondanti; nessuna creatura riuscirà a sfuggire alle sue trappole. La sua caccia verrà riportata a casa su carri cigolanti, i suoi cani avranno il muso insanguinato, e tutta la folla contadina tornerà a casa in una lunga processione trionfale.
+
+[81] O dea, mi ascolti: i cani dal linguaggio acuto hanno dato il segnale. Sono stato chiamato nei boschi. Ecco, mi affretterò per la strada più breve.
+
+[Escluso.]
+
+[Entra Fedra, proveniente dal palazzo.]
+
+FAE Dela
+
+[85] O potente Creta, padrona del vasto mare, la cui innumerevole flotta ha solcato ogni costa, aprendo la strada alle navi fino ad Assiria. Perché mi costringi a finire nelle mani del nemico, come ostaggio, moglie del mio avversario, a trascorrere i miei giorni nella miseria e nel pianto? Mio signore è fuggito lontano, rispettando il suo giuramento nuziale, secondo la tradizione di Teseo. Attraverso le oscure profondità di quell’abisso, nessuno osa attraversare. Lui, quel coraggioso seguace di un folle amante, cerca di rapire sua moglie dal trono stesso del re degli inferi. Prosegue senza paura né vergogna. E lì, nelle profondità dell’Acheronte, cerca adulterio e un letto illegittimo. Questo padre di Ippolito.
+
+[99] Ma un’altra preoccupazione, ancora più grande, opprime il mio cuore angosciato. Nella notte non trovo pace, e nessun sonno profondo mi libera dai miei timori. Una malattia cresce dentro di me, bruciando con intensità come il fiume che sgorga dalle caverne dell’Etna. Il telaio di Pallas rimane inutilizzato, e i compiti che un tempo mi procuravano piacere sfuggono ora dalle mie mani inerte; non mi diverte più adornare i templi con offerte votive, né alzare le torce davanti agli altari, tra gruppi di dame ateniesi, per testimoniare questi riti silenziosi; né pregare con devozione e rendere omaggio alla dea che protegge questa terra che un tempo le fu concessa! La mia unica gioia ora è inseguire quelle bestie spaventate e scagliare loro lance con mano ferma.
+
+[112] Dove ti dirigi, o mia anima? Perché questo folle amore per le valli boschive? Riconosco la maledizione fatale di mia madre infelice; il suo amore e il mio sanno come peccare nelle profondità della foresta. Madre, il mio cuore soffre per te. Spazzata via da un male inesprimibile, hai amato coraggiosamente quel selvaggio capo di quella turba indomita. Era feroce e irrequieto, senza legge nell’amore. Eppure amava qualcosa. Ma quanto a me, quale dio, quale Dedalo potrebbe alleviare la mia misera passione? Anche se lui stesso tornasse, quel maestro dell’ingegno attico che rinchiuse il nostro mostro nel labirinto oscuro, non potrebbe certo aiutarmi nella mia sventura. Venere, che odia la prole di quel Sole odiato, si vendica attraverso di noi delle catene che la legavano al suo amato Marte, e getta su tutta la stirpe di Febo una vergogna inesprimibile. Nessuna figlia della casa di Minos ha mai trovato leggera la schiavitù dell’amore. Sempre è legata al peccato.
+
+Infermiera.
+
+[129] O moglie di Teseo, illustre figlia di Giove, scaccia rapidamente dai tuoi puri seni questi pensieri colpevoli, spegni queste “fiamme” del desiderio, e non cedere alla tentazione di questa terribile passione d’amore. Chi, fin dall’inizio, ha resistito e sconfitto l’amore, è rimasto al sicuro e vittorioso; ma chi, con le sue relazioni amorose, ha alimentato questo dolce tormento, rifiuta troppo tardi di sopportare il giogo che si è imposto.
+
+[136] So bene come l’orgoglio testardo dei principi, che non tollera la verità, si rifiuti di sottomettersi alla rettitudine; ma qualunque sia il risultato che il destino deciderà di concedermi, sono pronto ad affrontarlo; la libertà ormai vicina rende gli anziani coraggiosi.
+
+[140] Il meglio è un intento retto e un percorso incrollabile; al secondo posto viene la vergogna, che impone dei limiti nel commettere peccati. A quale scopo ti affretti, misera donna? Perché aggiungere ulteriore disonore alla tua famiglia e compiere atti peggiori di quelli di tua madre? Il peccato empio è più grave della passione mostruosa: per l’amore folle si può dare la colpa al destino, ma per il crimine, al proprio carattere. Se credi che la tua colpa sia al sicuro e non ti spaventi perché tuo marito non vede i regni terreni, ti sbagli. Supponiamo che Theseus sia davvero prigioniero nelle profondità del fiume Lethe e debba soffrire per l’eternità nel fiume Stige. E tuo padre, colui che domina i mari e impone leggi a centinaia di popoli? Permetterà che un crimine così grave rimanga nascosto? La preoccupazione dei padri è davvero saggezza. Ma anche se riuscissimo a nascondere questo atto malvagio con inganni e stratagemmi. E tuo nonno, colui che illumina ogni cosa con la sua luce? E il padre degli dèi, che scuote i cieli impugnando fulmini ardenti? Credi davvero di poter commettere un simile crimine senza essere vista dagli occhi onnipresenti dei tuoi antenati?
+
+<span class="atom-split" data-atom="004" data-title="PHAEDRA (parte 2)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 
 [159] But grant that heaven’s kindly grace conceals this impious intercourse; grant that to incest be shown the loyalty which great crimes never find; what of the ever-present penalty, the soul’s conscious dread, and the heart filled with crime and fearful of itself? Some women have sinned with safety, but none with peace of soul. Then quench the fires of impious love, I pray, and shun a deed which no barbaric land has ever done, neither the Getae, wandering on their plains, nor the inhospitable Taurians, nor scattered Scythians. Drive this hideous purpose from thy chaste mind, and, remembering thy mother, shun strange matings. Dost purpose to share thy bed with father and with son, and receive in an incestuous womb a blended progeny? Then go thou on and overturn all nature with thy unhallowed fires. Why do monsters cease? Why does thy brother’s labyrinth stand empty? Shall the world hear of strange prodigies, shall nature’s laws give way, whenever a Cretan woman loves?
 
@@ -200,7 +273,121 @@ CHORUS
 
 [274] Thou goddess, born of the cruel sea, who art called mother of both Loves, that wanton, smiling boy of thine, reckless alike with torches and with arrows, with how sure bow doth he aim his shafts! His madness steals to the inmost marrow, while with creeping fire he ravages the veins. The wound he deals has no broad front, but it eats its way deep into the hidden marrow. There is no open peace with that boy of thine; throughout the world nimbly he scatters his flying shafts. The shore that beholds the new-born sun and the shore that lies at this far western goal, the land lying beneath the burning Crab and the cold region of the Arcadian Bear, which sustains its ever-wandering husbandmen, all know these fires of his. He kindles the fierce flames of youth and in worn-out age he wakes again the extinguished fires; he smites maids’ breasts with unknown heat, and bids the very gods leave heaven and dwell on earth in borrowed forms.
 
-<span class="atom-split" data-atom="005" data-title="PHAEDRA (parte 3)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[159] Ma ammettiamo pure che la benevola grazia del cielo nasconda questo rapporto empio; ammettiamo pure che all’incesto venga riservata quella lealtà che i più grandi crimini non riescono mai a ottenere. Eppure, dove va a finire la punizione sempre presente, la paura consapevole dell’anima, e il cuore pieno di colpe e atterrito di se stesso? Alcune donne hanno peccato senza subire conseguenze negative, ma nessuna di loro ha trovato pace nell’animo. Allora, per favore, spegnete le fiamme di questo amore empio e evitate un atto che nessuna terra barbarica ha mai compiuto: né i Geti erranti nelle loro pianure, né i Tauriani inospitali, né gli Sciti dispersi. Scacciate questo orribile proposito dalla vostra mente casta; ricordatevi di vostra madre e evitate matrimoni strani. Intendete forse condividere il vostro letto con padre e figlio, e dare alla luce una prole nata da un incesto? Allora continuate pure, e sovvertite tutta la natura con le vostre fiamme profane. Perché mai i mostri cessano di esistere? Perché il labirinto di vostro fratello rimane vuoto? Il mondo dovrà forse ascoltare di strani prodigi. Le leggi della natura dovranno forse cedere ogni volta che una donna cretese ama?
+
+FAE Dela
+
+[177] So, nutrice, che ciò che dici è vero; ma la passione mi costringe ad intraprendere la strada peggiore. Con piena consapevolezza, la mia anima si dirige verso l’abisso, cercando invano un percorso diverso che possa guidarla verso la saggezza. Così come il marinaio spinge la sua nave carica contro correnti contrarie: il suo sforzo è vano e la nave, vinta dalla forza delle onde, viene trascinata via. Cosa può fare la ragione? La passione ha vinto e ora domina sovrana; essa, come un potente dio, governa tutta la mia anima. Questo “dio alato” regna con crudeltà su tutta la terra e infiamma persino Giove stesso, ferito da fiamme inestinguibili. Gradivus, il dio guerriero, ha provato quelle fiamme; quel dio che forgia i fulmini a tre ramificazioni, sì, colui che custodisce le ardenti fornaci situate sotto le cime dell’Etna è anch’egli infuocato da una fiamma altrettanto violenta. E persino Febo, che scaglia le sue frecce con precisione infallibile, un ragazzo ancora più abile nel suo compito colpisce i suoi bersagli con dardi mortali, volando qua e là, minaccioso sia per il cielo che per la terra.
+
+Infermiera.
+
+[195] È una lussuria vile e perversa quella che ha trasformato l’amore in un “dio”, conferendo alla passione il titolo di una divinità irreale, al fine di godere di maggiore libertà. La dea di Eryx manda davvero suo figlio a vagare per tutte le terre; egli, volando nel vuoto celeste, impugna armi “vane” nelle sue mani infantili. Eppure, nonostante sia il più umile tra gli dei, possiede un potere immenso! Sono proprio queste anime follemente innamorate ad aver adottato tali concezioni vanitose, fingendo la divinità di Venere e le abilità archeristiche degli dei. Chi si compiace di una prosperità eccessiva e vive nel lusso cerca sempre piaceri insoliti. Allora quel terribile “compagno” della ricchezza e del potere, il desiderio smisurato, fa irruzione nella vita delle persone: le feste abituali non bastano più, né le case semplici né i bicchieri modesti. Perché mai questa pestilenza mortale invade raramente le dimore umili, preferendo invece quelle eleganti? Perché l’amore sacro dimora sotto tetti modesti, e la gente comune possiede impulsi sani e onesti? Perché una fortuna moderata comporta autocontrollo. E perché, d’altra parte, i ricchi, appoggiati dal loro potere, cercano sempre di ottenere di più di quanto il cielo permetta? Chi possiede troppo potere desidera ancora di più. Quello che accade a chi ha grandi ricchezze lo sai bene tu stesso. Allora temi e rispetta lo scettro del tuo signore.
+
+FAE Dela
+
+[218] Penso che l’amore sia la più potente [-sovranità](/positions/sovereignty) su di me, e non temo il ritorno di alcun signore. Non ha mai più raggiunto quei cieli a volta, che, una volta immersi nella notte eterna, sono tornati al silenzioso regno della quiete.
+
+Infermiera.
+
+[222] Non fidarti del Male. Anche se egli chiude i suoi regni e anche se il cane degli abissi monta la guardia alle porte oscure, solo Teseo riesce a scoprire le strade proibite.
+
+FAE Dela
+
+[225] Forse concederà spazio al mio amore.
+
+Infermiera.
+
+[226] Era crudele persino con una moglie virtuosa; l’estranea Antiope trovò la sua condotta severa e dura. Ma supponiamo che tu riesca a placare il tuo marito irascibile, chi potrà mai piegare l’anima testarda di questo giovane? Odia persino il nome stesso delle donne; le fugge tutte, dedica con determinazione i suoi anni alla vita da single e evita ogni legame matrimoniale. Si direbbe che appartenga alla stirpe delle Amazzoni.
+
+FAE Dela
+
+[233] Anche se lo tenga tra le cime delle colline innevate, anche se corra veloce tra le rocce frastagliate, attraverso le profonde foreste e oltre le montagne, è mia determinazione seguirlo.
+
+Infermiera.
+
+[236] Si fermerà per te e si lascerà accarezzare da te? Abbandonerà le sue pure abitudini per un amore impuro? Rinuncierà al suo odio per te, quando forse è proprio a causa di quell’odio che respinge tutte le donne? Nessuna preghiera potrà convincerlo.
+
+FAE Dela
+
+[240] È selvaggio, ma abbiamo imparato che le cose selvagge possono essere domate dall’amore.
+
+Infermiera.
+
+[241] Scapperà via.
+
+FAE Dela
+
+[241] Anche se fugisse attraverso i mari stessi, lo seguirò comunque.
+
+Infermiera.
+
+[242] Ricorda tuo padre.
+
+FAE Dela
+
+[242] Ricordo anche mia madre.
+
+Infermiera.
+
+[243] Evita completamente tutte le donne.
+
+FAE Dela
+
+[243] Allora non ho motivo di temere alcun rivale.
+
+Infermiera.
+
+[244] Mio marito arriverà qui.
+
+FAE Dela
+
+[244] Sì, compagno di Piritoùs!
+
+Infermiera.
+
+[245] E tuo padre sarà qui.
+
+FAE Dela
+
+[245] Sarà gentile, il padre di Arianna.
+
+Infermiera.
+
+[246] Con queste chiome splendenti dell’età, con questo cuore segnato dal tempo, con questi seni cari. Ti prego, interrompi questa relazione e cerca tu stesso il tuo sollievo. Il desiderio di guarigione è sempre stato la metà della vera salute.
+
+FAE Dela
+
+[250] Ora la vergogna ha completamente abbandonato la mia nobile anima. Mi arrendo, cara nutrice. Lascia che l’amore, che non può essere domato, prenda il sopravvento. Bella fama, non permetterò che tu venga contaminata. Questo è l’unico modo, l’unica via di fuga dal male: lasciami seguire mio marito. Con la morte impedirò che commetta il peccato.
+
+Infermiera.
+
+[255] Controlla, o mio figlio, l’impeto del tuo spirito incontenuto; domina le tue passioni. Per questo motivo ti ritengo degno di vivere, poiché dichiari di essere degno anche della morte.
+
+FAE Dela
+
+[258] Sono deciso a morire; cerco soltanto il modo in cui avverrà la mia fine. Dovrò porre fine alla mia vita con la corda, o cadere sotto la spada? O forse dovrò gettarmi giù dalla fortezza di Pallas?
+
+Infermiera.
+
+[262] Può la mia vecchiaia permetterti di correre così verso la morte? Resisti a questo impulso folle. Nessuno può essere facilmente riportato in vita.
+
+FAE Dela
+
+[265] Nessun argomento può salvare colui che ha deciso di morire e che deve morire. Pertanto, per proteggere la mia onore, lasciate che mi armi della necessaria determinazione.
+
+Infermiera.
+
+[267] O mia signora, unica consolazione dei miei anni stanchi. Se una passione così indomabile opprime la tua anima, disprezza questa fama; infatti, la fama raramente favorisce la verità: è più propensa a premiare i malvagi che i buoni. Proviamo dunque quella anima crudele e testarda. A me spetta il compito di avvicinarmi a quel giovane selvaggio e piegare la sua volontà spietata.
+
+[Entrano nel palazzo.]
+
+CORO
+
+[274] O dea, nata dal crudele mare, chiamata madre di entrambi gli Amori. Quel tuo giovane, capriccioso e sorridente ragazzo, spensierato tanto con le torce quanto con le frecce. Con quale precisione mira con il suo arco! La sua follia penetra fino al midollo più profondo; con un fuoco lento e insidioso distrugge tutte le vene. La ferita che infligge non ha un segno evidente, ma si diffonde profondamente nel cuore nascosto dell’essere umano. Non esiste pace con quel tuo ragazzo. In tutto il mondo sparge rapidamente le sue frecce volanti. La riva che accoglie il sole nascente, la riva lontana all’estremità occidentale, la terra sotto la costellazione del Cancro ardente, la regione fredda dell’Orso Arcadio. Tutti conoscono questi “fuochi” suoi. Accende le fiamme violente della giovinezza; anche nell’età avanzata risveglia di nuovo quelle fiamme ormai spente. Colpisce i seni delle fanciulle con un calore sconosciuto. E ordina persino agli dèi di lasciare il cielo e vivere sulla terra, sotto forme umane.
+
+<span class="atom-split" data-atom="005" data-title="PHAEDRA (parte 3)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 
 [296] Phoebus as keeper of the Thessalian herd drove his cattle along and, laying quill aside, called together his bulls on the unequal reeds. How often did he put on lower forms, even he who made heaven and the clouds: now as a bird he fluttered his white wings with note sweeter than the dying swan; now with savage front as a wanton bull he lowered his back for the sport of maidens and through the strange kingdom of his brother’s waves, using his hoofs in place of pliant oars, he breasted the deep sea and overcame it, a ferryman trembling for the prize he bore. The radiant goddess of the darksome sky burned with love and, forsaking the night, gave her gleaming chariot to her brother to guide in fashion other than his own. He learned to drive the team of night and to wheel in narrower circuit, while the axle groaned beneath the car’s heavier weight; nor did the nights keep their accustomed length, and with belated dawning came the day. The son of Alcmena laid by his quiver and the threatening skin of the huge lion, letting emeralds be fitted on his fingers and law be enforced on his rough locks; he bound his legs with cross-garterings of gold and within yellow sandals confined his feet; and in that hand, with which he but now bore the club, he spun out threads with flying spindle.
 
@@ -242,7 +429,49 @@ NURSE
 
 [446] Enjoy thy life; ’tis speeding swift away. Now hearts are light, now love to youth is pleasing. Let thy heart rejoice. Why dost lie on a lonely couch? Free thy youth from gloom; lay hold on pleasures; loosen the reins; let not life’s best days escape thee. God has portioned out its proper duties to each time of life and led this span of ours through its own stages; joy befits the young, a serious face the old. Why dost hold thyself in check and strangle thy true nature? That crop will give to the farmer the best return which in the tender blade runs riot with joyous growth, and that tree with lofty head will overtop the grove which no grudging hand cuts down or prunes away. So will right minds be reared unto a richer fruit of praise, if sprightly freedom nourish the high-born soul.
 
-<span class="atom-split" data-atom="006" data-title="PHAEDRA (parte 4)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[296] Febo, custode del gregge tessalo, guidava le sue bestiame lungo il cammino; mettendo da parte la penna, radunò i suoi tori sui canneti rigidi e disomogenei. Quante volte assumeva forme umili, anche lui, che aveva creato il cielo e le nuvole: ora, come un uccello, agitava le sue ali bianche, emettendo suoni più dolci di quelli dell’usignolo morente; ora, con fronte minaccioso, si trasformava in un toro selvaggio, offrendosi alle gioie delle fanciulle. Attraverso il regno misterioso delle onde create dal suo fratello, utilizzava le sue zampe al posto di remi flessibili per attraversare il mare profondo e superarlo. Un traghettatore tremante davanti al premio che portava con sé. La radiosa dea del cielo notturno ardeva d’amore; abbandonando la notte, affidò la sua carrozza scintillante a suo fratello, affinché la guidasse in modo diverso dal solito. Lui imparò a condurre il “gregge della notte”, facendola girare su un percorso più stretto; l’asse gemeva sotto il peso eccessivo della carrozza. Le notti non mantenevano più la loro durata abituale. Con l’alba ritardata arrivava il giorno. Il figlio di Alcmena mise da parte il suo arco e la pelle minacciosa del leone gigante; fece incastonare smeraldi sui suoi dita e ordinò che i suoi capelli ruvidi venissero sistemati in modo ordinato. Si legò le gambe con lacci dorati e racchiuse i piedi nelle sue sandali gialli. Con quella stessa mano che poco prima impugnava il bastone, ora filava con la sua fionda veloce.
+
+[325] La Persia e il ricco e fertile regno della Lidia videro la pelle del feroce leone abbandonata; su quelle spalle, sulle quali un tempo riposava l’intera struttura celeste, fu drappeggiato un velo sottile di seta tiriana. È un fuoco maledetto (credeteci coloro che ne hanno sofferto), e terribilmente potente. Là dove la terra è circondata dalle profondità marine, là dove le stelle brillano nel cielo stesso, su questi regni il spietato dominatore esercita la sua [sovranità](/positions/sovereignty); anche nelle più profonde acque del mare, le Nereidi avvertono il suo potere, e nemmeno le acque oceaniche riescono a placare il suo ardore. Anche le creature alate percepiscono queste fiamme. Spinte dall’amore, i tori coraggiosi si lanciano in battaglia per tutta la loro mandria; se sentono che i loro compagni sono in pericolo, anche gli stolti cervi sfidano il nemico in guerra. In tempi del genere, l’India teme particolarmente i tigri striati; il cinghiale affila le sue zanne mortali e le sue fauci si coprono di schiuma. I leoni africani scuotono la loro criniera e con i loro ruggiti esprimono la passione che li divora. Quando l’amore li risveglia, la foresta tremba sotto il loro terribile clamore. L’amore domina anche i mostri del mare impetuoso, i tori lucani, e si impadronisce di tutta la natura; nulla gli sfugge. E l’odio stesso perisce al suo comando. Vecchi rancori cedono davanti alle sue fiamme. Perché parlare ancora? Le preoccupazioni dell’amore sovrastano persino le più crudeli matrigne.
+
+[Entra l’INFERMIERA dal palazzo interno.]
+
+[358] Infermiera, racconta la notizia che porti. Come sta la regina? È stata placata la sua furia?
+
+Infermiera.
+
+[360] Non c’è alcuna speranza che tali sofferenze possano essere alleviate, e le sue folli passioni non conosceranno mai fine. È consumata da una febbre silenziosa; sebbene nascosta nel profondo del suo cuore, la sua passione si legge chiaramente sul suo volto: scintille di fuoco sprigionano dai suoi occhi; poi, il suo sguardo stanco fuggisce dalla luce. Nulla più può soddisfare la sua anima squilibrata, e i suoi membri sono scossi da dolori incessanti. A volte si accascia, come se stesse morendo, e a malapena riesce a tenere alta la testa; altre volte si sdraia per riposare, ma il sonno non le porta sollievo. Li ordina di sollevarla, poi di adagiarla di nuovo a terra; di sciogliere i suoi capelli, poi di raccoglierli di nuovo. I suoi abiti, anch’essi insoddisfatti, vengono cambiati continuamente. Ora non le importa più né del cibo né della salute. Cammina senza meta, la sua forza è ormai esaurita. La vivacità di un tempo è scomparsa; il rossore della salute non illumina più il suo viso. Il dolore consuma i suoi membri; i suoi passi vacillano. La grazia delicata del suo corpo un tempo bellissimo è svanita. I suoi occhi, un tempo luminosi come la torcia di Febo, non brillano più con quella luce antica. Lacrime scorrono sul suo viso; le sue guance sono bagnate da gocce incessanti. Come quando, sulla cima del Taurus, la neve si scioglie sotto una pioggia calda.
+
+[384] Ma guardate: le porte del palazzo si stanno aprendo, e lei stessa, distesa su un divano d’oro, completamente prostrata nello spirito, rifiuta i suoi abiti consueti.
+
+FAE Dela
+
+[387] Andate via, voi schiavi, con vesti adornate di porpora e d’oro; andate via, con quei colori rossi ottenuti dalle conchiglie di Tiro, con quelle tele che i lontani Seri raccolgono dagli alberi. Lasciate che un semplice cinturino tenga uniti i lembi della mia veste, senza che alcun collare appesanti le mie orecchie con perle bianche, dono dell’oceano indiano; lasciate che i miei capelli cadano liberi, senza essere profumati dal nardo assiro. Così, scossi casualmente dal vento, i miei capelli penderanno sul mio collo e sulle mie spalle, ondeggiando al ritmo della corsa. La mia mano sinistra sarà occupata con l’arco, mentre la destra impugnerà una lancia tessalica. Con tale aspetto, come quella che abita presso il fiume Tanaïs o il Maeotis, lasciando alle spalle le fredde terre del Ponto, guidando le sue schiere e calpestando la terra ateniese, con i capelli legati in un nodo, ma liberi di scorrere, e protetta da uno scudo a forma di mezzaluna, così mi recherò nei boschi.
+
+CORO
+
+[404] Cessa di lamentarti: il dolore non aiuta i miseri. Placare la “divinità rustica” della nostra dea vergine è ciò che conta.
+
+Infermiera.
+
+[406] O regina dei boschi, tu che nell’isolamento ami le tue dimore montane e che su queste solitarie cime sei considerata sacra, trasforma in qualcosa di migliore queste oscure e minacciose presagi. Oh grande dea delle foreste, luminoso astro del cielo, gloria della notte, grazie ai tuoi raggi l’universo risplende chiaramente. O Hecate a tre forme, eccoti qui, pronta ad aiutarci nel nostro intento. Sottometti l’anima indomabile di Hippolyto; che ascolti le nostre preghiere e si arrenda alla nostra volontà. Addolcisce il suo cuore crudele; che impari ad amare, che provi sentimenti simili ai nostri. Incanta la sua mente; che ritorni alla fedeltà dell’amore. Per questo scopo, dirige le tue forze, affinché tu possa apparire con un volto splendente, mentre le nuvole si disperdono e tu continui il tuo cammino con corna luminose. Così, quando guidi la tua carrozza attraverso i cieli notturni, nessuna stregoneria della Tessaglia possa trascinarti giù, né alcun pastore possa vantarsi di te. Sii vicina a noi, dea, rispondi al nostro appello, ascolta ora le nostre preghiere.
+
+[HIPPOLYTUS si avvicina.]
+
+[424] Vedo quell’uomo stesso venire ad eseguire i tuoi riti sacri, senza alcun compagno al suo fianco. [A se stessa.] Perché esiti? [Casualità](/concepts/fortune) ti ha fornito sia il tempo che il luogo giusti. Devi utilizzare le tue abilità. Perché tremo? Non è certo facile osare commettere un crimine ordinato da un altro; ma chi teme i voleri di un sovrano deve scacciare dalla propria mente ogni pensiero d’onore: la vergogna non è altro che un servitore obbediente degli ordini di un sovrano.
+
+Ippolito
+
+[431] Perché percorri con passi stanchi e affaticati questo sentiero, o fedele nutrice, con fronte preoccupato e volto abbattuto? Certamente mio padre è al sicuro, Phaedra è al sicuro, e anche i loro due figli.
+
+Infermiera.
+
+[435] Scaccia la tua paura: il regno è in uno stato di prosperità, la tua casa è forte e fiorisce sotto il sorriso del Cielo. Ma in questa fortuna felice, sii meno severo con te stesso; poiché la tua sofferenza angoscia il mio cuore, vedendoti infliggere a te stesso pesanti penitenze nonostante tutto. Se il destino lo impone, è perdonabile essere infelici; ma chi, di sua volontà, si sottomette alla miseria e si causa dolore da solo merita di perdere quella felicità che non sa come apprezzare. Ricorda la tua giovinezza e rilassa il tuo spirito: esce di notte, accendi le torce festive; lascia che Bacco sollevi il peso dei tuoi pensieri angosciosi.
+
+[446] Goditi la tua vita; vola via velocemente. Ora i cuori sono leggeri, ora l’amore è piacevole per i giovani. Lascia che il tuo cuore si rallegri. Perché giaci su un letto solitario? Liberati dalla tristezza, goditi le gioie della vita; non lasciare che i suoi giorni migliori ti sfuggano. Dio ha assegnato a ciascun periodo della vita i propri compiti e ha guidato la nostra esistenza attraverso le sue fasi naturali: la gioia è adatta ai giovani, un volto serio agli anziani. Perché ti trattiene e soffochi la tua vera natura? Quella pianta darà al contadino il miglior raccolto, se cresce rigogliosa nella sua tenera giovinezza; quell’albero, con la sua chioma maestosa, supererà tutti gli altri, senza che alcuna mano malvagia lo tagli o lo potzi. Così anche le menti rette porteranno a frutti più abbondanti di lode, se una libertà vivace nutre l’anima nobile.
+
+<span class="atom-split" data-atom="006" data-title="PHAEDRA (parte 4)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 
 [461] Wilt thou, as a harsh wood-dweller, ignorant of life, spend thy youth in gloom and let Venus be forgot? Is it man’s allotted task, thinkst thou, to endure hardship, curb horses in their swift course, and wage savage wars in bloody battles? How various are the forms of death that seize and feed no mortal throngs! the sea, the steel and treachery! But suppose these lacking: by thy path we make wantonly for murky death. The unwedded life let barren youth applaud; then will all that thou beholdest be the throng of one generation only and will fall in ruins on itself. In his providence did yonder almighty father of the universe, when he saw how greedy were the hands of Fate, give heed ever by fresh progeny to make losses good. Come now, let love but be banished from human life, love, which supplies and renews the impoverished race: the whole globe will lie foul in vile neglect; the sea will stand empty of its fish; birds will be lacking to the heaven, wild bests to the woods, and the paths of air will be traversed only by the winds. Follow, then, nature as life’s guide; frequent the city; seek out the haunts of men.
 
@@ -322,7 +551,7 @@ HIPPOLYTUS
 
 PHAEDRA
 
-<span class="atom-split" data-atom="007" data-title="PHAEDRA (parte 5)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="PHAEDRA (parte 5)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 
 [609] Mother – that name is too proud and high; a humbler name better suits my feelings. Call me sister, Hippolytus, or slave – yes, slave is better; I will endure servitude. Shouldst thou bid me walk through deep-drifted snows, I would not shrink from faring along the cold peaks of Pindus; shouldst thou send me through fire and midst deadly battle ranks, I would not hesitate to offer my breast to naked swords. Take thou in my stead the sceptre committed to my care, accept me for thy slave; it becomes thee to bear sway, me, to obey thine orders. It is no woman’s task to watch o’er royal cities. Do thou, in the vigour of thy youth’s first bloom, rule o’er the citizens, strong in thy father’s power; take to thine arms thy suppliant, and protect thy slave. Pity my widowhood –
 
@@ -418,7 +647,103 @@ CHORUS
 
 [741] Let fame compare with thee all ancient beauty, fame, admirer of the olden time; as much fairer does thy beauty shine as gleams more brightly the full-orbed moon when with meeting horns she has joined her fires, when at the full with speeding chariot blushing Phoebe shows her face and the lesser stars fade out of sight. Such as he is the messenger of night, who brings the first shadows back, Hesperus, fresh bathed in ocean; and when the shadows have been driven away again, Lucifer also.
 
-<span class="atom-split" data-atom="008" data-title="PHAEDRA (parte 6)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[609] Madre, quel nome è troppo nobile e maestoso; un nome più umile si addice meglio ai miei sentimenti. Chiamami sorella, Ippolito, o schiava. Sì, “schiava” è ancora meglio: sopporterò volentieri la servitù. Se mi comandassi di camminare attraverso nevi profonde, non esiterei a percorrere le fredde cime del Pindo; se mi mandassi tra il fuoco e le file dei combattenti, non esiterei a offrire il mio petto alle spade nude. Prendi tu al mio posto lo scettro affidatomi, accetta me come tua schiava: è tuo dovere governare, mio compito obbedire ai tuoi ordini. Non è compito di una donna vegliare su città reali. Tu, nel fiore della tua giovinezza, regna sui tuoi cittadini, forte del potere di tuo padre. Abbraccia il tuo supplicante e proteggi la tua schiava. Compassione per la mia vedovanza.
+
+Ippolito
+
+[623] Che il Dio supremo scacci quel presagio! Mio padre tornerà presto sano e salvo.
+
+FAE Dela
+
+[625] Il sovrano di quel regno dominato dalla fermezza e del silenzioso Stige non ha mai trovato il modo per tornare nel mondo superiore una volta che lo ha lasciato; permetterà forse al ladro del suo letto nuziale di far ritorno? A meno che, forse, anche Plutone non sorrida alla vista dell’amore.
+
+Ippolito
+
+[629] Di certo le divinità benevole lo riporteranno indietro. Ma finché Dio non ha ancora accolto le nostre preghiere con favore, prenderò cura dei miei cari fratelli con tutto il dovuto affetto, così da meritare che tu non ti consideri vedova, e io stesso assumerò il posto di mio padre al tuo fianco.
+
+FAE Dela
+
+[634] [Nota a margine.] Oh, credula speranza degli amanti, oh, ingannevole speranza! Non ha detto abbastanza? Farò appello alle mie preghiere per attaccarlo.
+
+[636] [A IPPOLITO.] Abbi pietà! Ascolta le preghiere che il mio cuore non riesce a esprimere a parole. Desidero ardentemente, e al contempo mi vergogno, di parlarne.
+
+Ippolito
+
+[637] Qual è, per favore, il tuo problema?
+
+FAE Dela
+
+[638] Un problema che difficilmente si potrebbe credere possa accadere a una matrigna.
+
+Ippolito
+
+[639] Pronunci parole di significato dubbio con labbra enigmatiche. Parla chiaramente e senza ambiguità.
+
+FAE Dela
+
+[640] È un amore ardente che brucia il mio cuore folle di dolore. Un fuoco intenso arde nelle profondità della mia essenza e si nasconde oscuremente nelle mie vene, proprio come fiamme veloci si diffondono attraverso legni densi e profondi.
+
+Ippolito
+
+[644] Bruci di pura amore per Teseo, non è vero?
+
+FAE Dela
+
+[645] Ipolito, è proprio così per me: amo i tratti del volto di Teseo, quegli aspetti che aveva da giovane, quando la sua prima barba iniziava a spuntare sulle guance lisce, quando fissava il buio rifugio del mostro cretese. Quanto era glorioso allora! I suoi capelli erano raccolti in trecce, il suo viso giovane ardeva di timidezza; sotto la morbidezza delle sue braccia si nascondevano muscoli forti; i suoi tratti assomigliavano a quelli di Febe, o meglio, erano proprio i tuoi stessi. Così era quando vinse il coraggio del suo avversario. E così teneva alta la testa. In te splende ancora più intensamente una bellezza naturale, senza ornamenti; in te c’è tutto di tuo padre, ma anche una parte della severità di tua madre si fonde con un fascino altrettanto grande; sul viso greco si legge l’austerità scita. Se fossi venuta alle rive di Creta insieme a tuo padre, sarebbe stata per te, e non per lui, che mia sorella avrebbe filato quel filo. Tu, oh sorella, ovunque tu splenda tra le stelle, ti chiamo in aiuto per una causa simile alla tua. Una sola casa ha distrutto due sorelle: te, il padre, ma me, il figlio.
+
+[Si inginocchia davanti ad Ippolito.]
+
+[666] Vedi: la figlia di un re giace ai tuoi piedi, in preghiera. Immacolata, pura, innocente. Sono cambiata soltanto per te. Con determinazione mi sono umiliata e ho pregato; oggi questa giornata porterà fine alla mia sofferenza, o alla mia vita. Abbi pietà di lei che ama.
+
+Ippolito
+
+[671] Grande sovrano degli dèi, ascolti forse con tanta calma i crimini che avvengono? Li osservi con tanta indifferenza? E quando invierai il tuo fulmine, con mano furiosa, se ora il cielo è sereno e privo di nuvole? Che tutto il cielo cada in rovina, che il giorno sia avvolto nelle tenebre; che le stelle vengano sconvolte nei loro percorsi naturali. E tu, stella tra le stelle, o radioso Sole, non vedi questa vergogna della tua stirpe? Nascondi la tua luce e rifugia nell’oscurità. Perché la tua destra è vuota, o sovrano degli dèi e degli uomini? Perché il mondo non brucia ancora sotto i tuoi fulmini? Colpiscimi con il tuo tuono, distruggimi con il fuoco che scagli rapidamente. Sono colpevole, merito di morire; ho spinto mia matrigna ad amarmi.
+
+[684] [A Fedra.] Guarda! Sono davvero adatta agli adulteri? È per un crimine del genere che sono stata considerata lo strumento ideale per te. È forse la mia austera condotta a meritarmi questo? Oh tu, che hai superato tutte le altre donne, che hai osato compiere un male ancora più grande di quello della tua madre, tu, peggiore di lei che ti ha partorito! Lei si è solo contaminata con la sua vergognaosa lussuria; tuttavia il suo figlio, con la sua mostruosa natura, ha rivelato il suo crimine, sebbene a lungo nascosto. Quel grembo è stato quello che ti ha dato alla luce. Oh, quante volte fortunati sono coloro che vengono distrutti dall’odio e dalla tradizione! Oh padre, ti invidio. Questa maledizione è molto più terribile di quella della tua matrigna colchiana!
+
+FAE Dela
+
+[698] Anch’io riconosco la “fortuna” della mia famiglia: cerchiamo ciò che dovremmo evitare; ma io non sono padrona di me stessa. Ti seguirò anche attraverso il fuoco, attraverso il mare tempestoso. Sì, oltre scogliere e fiumi in piena furia; ovunque tu dirigi i tuoi passi, lì correrò follemente. Ancora una volta, orgoglioso uomo, mi prostrerò ai tuoi piedi.
+
+Ippolito
+
+[704] Lontano da me il tuo tocco impuro! Cosa? Vuoi addirittura gettarti tra le mie braccia? Via, spada, e infliggile la giusta punizione. Vedi: con la mano sinistra, afferrandole i capelli contorti, ho piegato indietro quella sua testa senza vergogna. Mai il sangue è stato versato più giustamente sul tuo altare, o dea dell’arco.
+
+FAE Dela
+
+[710] O Ipolito, ora concedimi la realizzazione del mio desiderio: tu mi guarisci dalla mia follia. Questo va oltre quanto avessi potuto sperare: che, con la mia onore salva, sia proprio per mano tua che io muoia.
+
+[Afferra la spada e la punta verso il proprio petto.]
+
+Ippolito
+
+[713] Vattene, vivi, affinché non si avveri il tuo desiderio; e lascia che questa spada, contaminata dal tuo tocco, si allontani dalla mia casta persona.
+
+[Lui getta via la sua spada.]
+
+[715] Che cosa potrà purificarmi il fiume Tanaïs, che cosa il fiume Maeotis, con le sue onde barbariche che si gettano nel Mar Pontoico? Nemmeno il grande Nettuno stesso, con tutto il suo oceano, potrebbe cancellare una colpa così grave. Oh foreste, oh bestie!
+
+[Si precipita nelle profondità della foresta.]
+
+Infermiera.
+
+[719] Il suo peccato è stato scoperto. Oh anima, perché rimani immobile e atterrita? Dobbiamo attribuire il crimine a lui stesso e accusarlo di amore incestuoso. I crimini devono essere nascosti con altri crimini. Quando si ha paura, l’unica cosa da fare è attaccare per primi. Che sia stato noi ad osare commettere quel peccato o che lo abbiamo subito, poiché è stato compiuto in segreto, chi, a sua conoscenza, potrebbe testimoniare contro di lui?
+
+[Eleva la voce, gridando forte.]
+
+[725] Aiuto, Atene, aiuto! Fedeli schiavi, venite in nostro soccorso! Il rapitore, Ippolito, con intenti vili e lussuriosi, ci insegue; è su di noi e ci minaccia di morte; con la spada terrorizza la nostra casta regina. Ah! È fuggito in preda al panico, lasciando indietro la sua spada. Possediamo le prove della sua colpevolezza. Ma la regina, per prima cosa, riprendetevi. Lasciate che i vostri capelli scomposti rimangano così com’erano: sono le prove di quella terribile colpa. Portatela in città. Ora riprendetevi, mia signora. Perché vi strappate i vestiti e evitate lo sguardo di tutti noi? Sono i pensieri a rendere l’anima impura, non le circostanze.
+
+[Escluso.]
+
+CORO
+
+[736] Fuggì come una tempesta furiosa, più veloce del Corus che raccoglie le nuvole, più rapido della fiamma che si propaga quando una stella, spinta dai venti, estende il suo lungo pennacchio di fuoco.
+
+[741] Lascia che la fama ti paragoni a tutte le bellezze del passato, o fama, ammiratrice dell’antichità: la tua bellezza splende ancora più radiosa quando la luna piena unisce i suoi raggi, quando Febe, con il suo veicolo veloce, mostra il suo volto al plenilunio e le stelle minori scompaiono dalla vista. Così è Hespero, messaggero della notte che riporta indietro le prime ombre, appena bagnato nell’oceano; e quando anche queste ombre sono state scacciate via, arriva anche Lucifer.
+
+<span class="atom-split" data-atom="008" data-title="PHAEDRA (parte 6)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 
 [753] And thou, Bacchus, from thyrsus-bearing India, with unshorn locks, perpetually young, thou who frightenest tigers with thy vine-clad spear, and with a turban bindest thy hornèd head – thou wilt not surpass Hippolytus’ crisp locks. Admire not thou thy [beauty](/concepts/beauty) overmuch; story has spread through every nation whom the sister of Phaedra preferred to Bromius.
 
@@ -564,7 +889,153 @@ PHAEDRA
 
 THESEUS
 
-<span class="atom-split" data-atom="009" data-title="PHAEDRA (parte 7)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[753] E tu, Bacco, proveniente dall’India dove si portano i tirsi, con i capelli incolti e perennemente giovane, tu che spaventi i tigri con la tua lancia avvolta di viti, e che leghi la tua testa cornuta con un turbante. Non supererai mai i biondi capelli di Ippolito. Non ammirare troppo la tua [bellezza](/concepts/beauty); la storia si è diffusa in tutte le nazioni, poiché la sorella di Fedra preferì lui a Bromio.
+
+[761] O bellezza, dono incerto per i mortali, regalo effimero che dura solo un breve istante. Come scivoli via rapidamente! Nemmeno i prati, belli all’inizio della primavera e devastati dal calore dell’estate, cambiano così in fretta: il fuoco del mezzogiorno li distrugge, e le notti passano in un attimo. Così come i gigli appassiscono e le loro foglie impallidiscono, anche i nostri bei capelli cadono dalla testa; la luce che illumina le guance giovani scompare in un istante. Nessun giorno riesce a preservare la bellezza del nostro corpo. La bellezza è qualcosa di effimero. Chi è saggio oserebbe affidarsi a un dono così fragile? Goditela finché puoi. Il tempo la distrugge silenziosamente, e ogni ora che passa è peggiore della precedente.
+
+[777] Perché cercare luoghi desolati? La bellezza non è più al sicuro nemmeno nelle regioni inaccessibili. Nasconditi nei boschi quando arriva mezzogiorno: le audaci Naiadi, una folla dispettosa, ti circonderanno; esse amano imprigionare giovani di bell’aspetto nelle loro acque, e le divinità giocose dei boschi tenderanno trappole per i tuoi sonni. Le Dryadi, che inseguono i Pan erranti sulle montagne, potrebbero anche minacciarti. Oppure, guardandoti dal cielo stellato, quel astro nato dopo gli antichi Arcadi potrebbe perdere il controllo della sua vettura luminosa. Di recente ha assunto un colore rosso fuoco, sebbene nessuna nuvola oscurasse il suo viso splendente; noi, preoccupati per la nostra dea in difficoltà, pensavamo che fosse tormentata da incantesimi tessalici. Eppure era tu la causa dei suoi problemi, tu il motivo del suo ritardo. Mentre ti fissava, la dea della notte arrestò la sua corsa veloce.
+
+[795] Lascia che i geli devastino più raramente questo tuo volto, lascia che il sole lo illumini più spesso; brillerà ancora più intensamente del marmo di Paros. Quanto è piacevole la severità virile del tuo viso e la dignità solenne della tua fronte, che sembra così anziana! Con Febo potresti competere per quella bellezza del tuo collo scintillante; i tuoi capelli, liberi di cadere sulle tue spalle, ti adornano in modo naturale; mentre tu, con la tua fronte folta e i tuoi capelli corti e disordinati, appari ancora più affascinante. È proprio grazie alla tua forza virile che puoi sfidare gli dèi guerrieri e sconfiggerli con il tuo imponente fisico; già da giovane possiedi muscoli degni di Ercole, e un torace più ampio di quello di Marte, il dio della guerra. Se volessi cavalcare un cavallo a zoccoli cornuti, con una mano più agile sulla briglia di quella di Castore, potresti guidare facilmente il nobile Cyllarus degli Spartani. Tendi la corda con i tuoi primi pollici e scaglia la freccia con tutta la tua forza; anche i Cretesi, pur essendo abili nel lanciare frecce, non riuscirebbero a colpire così lontano. Oppure, se volessi scagliare le tue frecce verso il cielo, come fanno i Parti, nessuna di esse cadrebbe senza aver colpito un bersaglio: rimarrebbero conficcate profondamente nel cielo caldo e porterebbero prede direttamente dalle nuvole.
+
+[820] A pochi uomini, nel corso dei secoli, la bellezza non ha portato con sé la sua punizione. Possa Dio, più misericordioso, lasciarti indenne, e possa la tua illustre bellezza superare i confini di un’epoca senza forma e senza caratteristiche distintive.
+
+[824] Quali limiti potrebbe mai conoscere la follia di questa donna? Sta preparando accuse infondate contro questo giovane innocente. Guardate le sue astuzie colpevoli! Con i capelli strappati cerca di suscitare compassione; disordina tutta la bellezza dei suoi capelli, bagna le sue guance di lacrime. Sta utilizzando ogni mezzo conosciuto dalle donne per realizzare il suo piano malvagio.
+
+Si vede avvicinarsi un uomo che si rivela essere TESEO.
+
+[829] Ma chi è quest’uomo, che porta sul volto un’aria di maestosa dignità e tiene la testa alta? Assomiglia tanto al giovane Piritoe in volto, se solo le sue guance non fossero così pallide e i suoi capelli disordinati non apparissero così sporchi. Ecco, è proprio Teseo stesso, ristabilito nel mondo superiore.
+
+Teseo
+
+[835] Finalmente sono riuscito a fuggire dal regno dell’eterna notte, da quel mondo oscuro che, come una vasta prigione, avvolge i morti; i miei occhi faticano persino a sopportare la luce tanto desiderata. Ora, per la quarta volta, Eleusis raccoglie i frutti del lavoro di Triptolemo. Quante volte già Libra ha fatto sì che il giorno fosse uguale alla notte. Finché una lotta incerta contro un destino ignoto mi ha tenuto confinato tra le calamità della morte e della vita. Sebbene per tutto il resto fossi “morto”, una parte della vita mi era rimasta: la consapevolezza dei mali che mi circondavano. Alcide fu colui che, trascinando con la forza quel cane fuori dal Tartaro, mi portò anche lui nel mondo superiore. Ma le mie forze sono esaurite; hanno perso il vigore di un tempo, e i miei passi vacillano. Ahimè, quale ardua lotta è stata quella per raggiungere i regni dell’aria, per sfuggire alla morte e seguire Ercole!
+
+[850] Ma che cos’è questo pianto straziante che raggiunge le mie orecchie? Che qualcuno mi spieghi. Lutto, lacrime, dolore. E proprio sulla mia soglia, lamenti così tristi. Che presagi possono mai essere questi, adatti forse a un ospite proveniente dall’inferno?
+
+Infermiera.
+
+[854] Fedra nutre una determinazione inalterabile di commettere suicidio; disprezza le nostre lacrime e si trova sull’orlo della morte.
+
+Teseo
+
+[856] Qual è la causa della morte? Perché morire, ora che suo marito è tornato?
+
+Infermiera.
+
+[857] Proprio quella causa ha portato con sé una morte rapida.
+
+Teseo
+
+[858] Le tue enigmatiche parole nascondono qualcosa di importante. Dimmi chiaramente quale dolore la tormenta.
+
+Infermiera.
+
+[860] Non lo rivela a nessuno; nonostante il dolore, nasconde la sua tristezza segreta e è decisa a portare con sé quella sofferenza fino alla morte. Ma ora vieni, ti prego, vieni subito; c’è bisogno di affrettarsi.
+
+Teseo
+
+[863] Apriete i portali chiusi della casa reale.
+
+Le porte vengono spalancate e Teseo incontra sua moglie proprio all’interno.
+
+[854] Oh compagna del mio letto, è davvero così che accogli il ritorno del tuo signore e la presenza del marito tanto atteso? Vieni, metti da parte la spada che tieni nella destra mano, ridammi il coraggio. E dimmi, qual è ciò che ti spinge a cercare la morte.
+
+FAE Dela
+
+[868] Ahimè, o Theseo, nobile d’animo. Per lo scettro del tuo regno, per la vita dei tuoi figli, per il tuo ritorno. E per il mio corpo già destinato alla polvere. Permettimi di morire.
+
+Teseo
+
+[871] Qual motivo ti costringe a morire?
+
+FAE Dela
+
+[872] Se la causa della mia morte viene rivelata, il suo effetto andrà perduto.
+
+Teseo
+
+[873] Nessun altro lo sentirà, tranne me stesso.
+
+FAE Dela
+
+[874] Una donna casta teme soltanto che suo marito ascolti ciò che dice.
+
+Teseo
+
+[875] Parla liberamente; nel mio cuore sincero nasconderò il tuo segreto.
+
+FAE Dela
+
+[876] Laddove desideri che qualcun altro osservi il silenzio, prima tu stesso devi mantenere il silenzio.
+
+Teseo
+
+[877] Nessun mezzo di morte ti sarà concesso.
+
+FAE Dela
+
+[878] Se uno desidera morire, la morte non può mai mancare.
+
+Teseo
+
+[879] Ditemi quale peccato possa essere purificato dalla morte.
+
+FAE Dela
+
+[880] Il fatto che io sia ancora vivo.
+
+Teseo
+
+[880] Non ti commuovono le mie lacrime?
+
+FAE Dela
+
+[881] È meglio morire in modo che i propri amici possano piangere per noi.
+
+Teseo
+
+[882] Lei persiste nel silenzio. Allora, con frusti e catene, la sua vecchia nutrice rivelerà tutto ciò che lei rifiuta di dire. [Ai servitori.] Legatela con le catene. Lasciate che il potere della frusta faccia emergere i segreti della sua anima.
+
+FAE Dela
+
+[885] Aspettate! Sarò io stesso ad confessare.
+
+Teseo
+
+[886] Perché distogli il tuo volto pieno di dolore e nascondi con un velo le lacrime che improvvisamente scorrono sulle tue guance?
+
+FAE Dela
+
+[888] Te, te, o Signore degli dei celesti, ti chiamo a testimone; e te, splendido raggio di luce celeste, su cui dipende la fondazione di questa nostra dimora. Nonostante le forti tentazioni, ho resistito alle sue preghiere; né alla spada né alle minacce la mia anima si è arresa; tuttavia il mio corpo ha subito la sua violenza. Questo marchio d’umiliazione sarà lavato via dal mio sangue.
+
+Teseo
+
+[894] Chi, ditemi, è stato il distruttore della mia onorabilità?
+
+FAE Dela
+
+[895] Chi ritieni essere il meno importante.
+
+Teseo
+
+[895] Chi è? Voglio saperlo.
+
+FAE Dela
+
+[896] Questa spada rivelerà chi, nel panico e nella paura, l’aggressore abbia lasciato indietro, temendo l’intervento dei cittadini.
+
+Teseo
+
+[898] Ahimè. Che malvagità sto assistendo. Che cosa orribile vedo. Il fodero reale, fatto d’avorio e inciso con minuscole figure, luccica davanti ai miei occhi. La gloria della razza ateniese. Ma lui, dove è fuggito?
+
+FAE Dela
+
+[901] I schiavi lo videro allontanarsi rapidamente, fuggendo a tutta velocità.
+
+Teseo
+
+<span class="atom-split" data-atom="009" data-title="PHAEDRA (parte 7)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 
 [903] O holy Piety, O ruler of the heavens, and thou who with thy billows dost sway the second realm, whence came this infection of infamy in our stock? Was that man nurtured by the land of Greece or by the Scythian Taurus and Colchian Phasis? The breed reverts to its progenitors and debased blood reproduces the primal stock. This, truly, is the madness of that warlike race, to contemn Venus’ laws and to prostitute the long-chaste body to the crowd. O abominable race, yielding to no laws of a better land! Even the very beasts do shun incestuous love, and instinctive chastity guards Nature’s laws. Where are those features, that feigned austerity of the man, that rough garb, aping old-fashioned and archaic ways? Where thy stern manners and the sour severity of age? O two-faced life, thou keepest thy true thoughts hidden and dost clothe foul purpose with an aspect fair – chaste bearing hides unchastity; meekness, effrontery; piety, sin unspeakable; false men approve truth and the soft affect hardihood.
 
@@ -614,7 +1085,57 @@ MESSENGER
 
 [1025] While we in dumb amaze are wondering what this means, behold, the whole sea bellows, and the cliffs on every hand echo back the sound; the highest peak is wet with dashed-up spray; it foams, and then in turn spews back the flood, as when a cavernous whale swims through the deep ways of ocean, spouting back streams of water form his mouth. Then the great globe of waters shivered, shook and broke, and brought to the shore a thing more terrible than our fear; the sea rushed landward, following its monster. My lips tremble in the telling. How the thing looked! how huge! A bull it was, towering high with a dark blue neck, and he reared a high mane upon his verdant crest; his shaggy ears stood up; his eyes flashed with changing colour, now such as the lord of the wild herd might have, now such as one born beneath the sea – now his eyes dart flame, now they flash wondrous with cerulean gleam. His brawny neck with great muscles bulges and his wide nostrils roar with his gaping draughts of air. His breast and dewlap are green with clinging moss, and his long flanks with red seaweed are spotted. His hinder parts are joined into monstrous shape, and, all scaly, the huge beast drags his measureless length along. Such is that sea-monster of the outer ocean which swallows or crushes swift-flying ships. The lands quaked with fear; herds fled in frenzy in all directions through the fields, and the herdsman forgot to follow his cattle. All beasts fled from their wooded haunts; all hunters stood trembling, pale with chilling fear. Hippolytus alone, quite unafraid, with tight reins holds fast his horses and, terror-stricken though they are, urges them on with the encouragement of his familiar voice.
 
-<span class="atom-split" data-atom="010" data-title="PHAEDRA (parte 8)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[903] O sacra Pietà, o sovrano dei cieli, tu che con le tue onde regoli quel secondo regno. Da dove è provenuta questa contaminazione di disonore nella nostra stirpe? Quell’uomo fu forse allevato nella terra della Grecia, o nel Tauro scitico e nel Fasi colchico? La razza ritorna ai suoi antenati; il sangue corrotto riproduce le caratteristiche originarie della stirpe. Questa, davvero, è la follia di quella nazione guerriera: disprezzare le leggi di Venere e prostituire il corpo un tempo casto alla folla. O abominabile razza, che non obbedisci ad alcuna legge di una terra migliore! Anche gli animali evitano l’amore incestuoso; la castità istintiva protegge le leggi della Natura. Dov’è quella presunta austerità di quell’uomo, quel vestito grezzo che imita modi antiquati e arcaici? Dov’è la tua durezza nei modi, quella severità tipica dell’età avanzata? O vita ipocrita, nascondi i tuoi veri pensieri e rivesti intenti malvagi con un aspetto apparentemente puro; la modestia cela l’impudenza, la dolcezza la sfacciataggine, la pietà il peccato indicibile. Gli uomini falsi lodano la verità e fingono la fermezza.
+
+[922] O tu, amante dei boschi, quel presuntuoso “uomo selvaggio”, casto, ruvido e integro. È forse per me che ti tratti con tanta moderazione? Con il mio letto, è stato attraverso un crimine del genere che hai voluto mettere alla prova la tua virilità? Ora, ora ringrazio le potenze celesti che hanno fatto sì che Antiope fosse colpita dalla mia mano, e che, discendendo negli abissi del Tartaro, non ti abbiano lasciato tua madre. Fuggitivo, attraversa nazioni lontane e sconosciute; anche se una terra situata ai confini più remoti del mondo ti separa dalle nostre terre, anche se dimori nel regno opposto al nostro, anche se scappi nelle gelide regioni del nord e ti nascondi nei suoi angoli più remoti, anche se sei al di là della portata dell’inverno e delle sue nevi bianche, pagherai comunque il prezzo del tuo crimine. Fuggitivo, ti inseguirò instancabilmente in tutti i tuoi rifugi; attraverserò regioni lontane, inaccessibili e nascoste, nessun luogo mi fermerà, tu sai da dove tornerò. Lì dove le armi non possono essere scagliate, lì invierò le mie preghiere. Mio padre, il dio del mare, mi ha concesso tre volte la possibilità di creare preghiere che potessero far piegare gli dèi, e chiamando la Styx, ha confermato questa grazia.
+
+[945] [A NETTUNO.] O sovrano dei mari, adesso compi questa triste promessa! Che Hippolyto non veda mai più la luce del giorno e, nella sua giovinezza, si unisca agli spiriti furibondi contro suo padre. O padre mio, aiuta tuo figlio, anche se questo mi ripugna profondamente; non avrei mai chiesto questa tua ultima grazia, se non fossero sorte grandi calamità. Nei abissi del Tartaro, di fronte al terribile Dis e alla minaccia imminente del signore dell’inferno, ho risparmiato questa preghiera. Ora mantieni la tua promessa. Padre, perché esiti? Perché le tue onde rimangono silenziose? Copri ora la notte con nuvole scure spinte dal vento; strappa stelle e cielo dalla vista; riversa le profondità dell’oceano. E, sollevandoti in alto, chiama le inondazioni direttamente dall’Oceano stesso.
+
+CORO
+
+[959] O Natura, potente madre degli dei, e tu, signore del fuoco sull’Olimpo, che attraverso il veloce firmamento fai ruotare le stelle sparse e i pianeti nei loro percorsi erranti, che fai girare i cieli attorno al loro asse rapido. Perché ti prendi tanto cura di mantenere stabili i sentieri del cielo? Perché ora il gelo invernole può spogliare i boschi, ora l’ombra ritorna sulle piantagioni, perché in estate il calore ardente del Leone fa maturare i frutti e l’anno segue il suo corso naturale? Ma perché, ancora, tu, che eserciti un potere così vasto, e le cui mani regolano il movimento delle immense masse dell’universo. Perché rimani lontana, troppo indifferente agli uomini, senza alcun desiderio di portare benedizioni ai buoni o maledizioni ai cattivi?
+
+[978] Il destino, privo di ordine, governa gli affari degli uomini; distribuisce i suoi doni con una mano cieca, favorendo ciò che è peggiore. La lussuria oscena prevale sugli uomini puri, e il crimine regna nei luoghi più nobili. La plebe si rallegra nel concedere il potere ai vili, tributando loro onori anche quando li odia. Le ricompense per la rettitudine e la virtù sono distorte; la miseria assillia coloro che sono puri, mentre l’adultero, forte nella sua malvagità, domina su tutti. Oh decenza, oh onore, quanto vuoti e falsi sono!
+
+[989] Ma perché quel messaggero si affretta con tanta fretta, il suo volto triste bagnato di lacrime di dolore?
+
+[Entra il Messaggero.]
+
+Messaggero
+
+[991] Oh amara e crudele schiavitù, perché il destino mi costringe a portare notizie inesprimibili?
+
+Teseo
+
+[993] Non temete di esprimere apertamente una calamità, per quanto crudele possa essere; il mio cuore non è certo impreparato ad affrontare la [sofferenza](/concepts/suffering).
+
+Messaggero
+
+[995] La mia lingua rifiuta di esprimere questa angoscia che porta dolore.
+
+Teseo
+
+[996] Racconta quale sventura opprime questa casa distrutta.
+
+Messaggero
+
+[997] Ipolito, ahimè, gli uomini, muore in una morte tragica.
+
+Teseo
+
+[998] Il padre sa da tempo che suo figlio è morto; ora anche il rapitore è morto. Ma raccontate come sia avvenuta la sua fine.
+
+Messaggero
+
+[1000] Quando lasciò la città con passi incerti, come un fuggitivo che si muoveva rapidamente, condusse rapidamente i suoi cavalli sotto il giogo e li controllò con redini stretti. Poi pronunciò molte parole, parlando da solo; maledisse la sua terra natale, chiamò spesso suo padre e scosse con forza le redini. All’improvviso, dal profondo del mare si levò un tuono potente; nessun vento soffiava sulla superficie salata dell’acqua, nessun rumore proveniva dall’orizzonte. Ma una tempesta improvvisa agitò le acque tranquille. Non è così violenta nemmeno la furia del vento meridionale che colpisce lo stretto di Sicilia, né l’Ionia si solleva con tanta violenza sotto l’effetto delle forze del nord-ovest, quando le scogliere tremano sotto i colpi delle onde e il bianco schiuma bagna la cima di Leucate. L’immensa profondità del mare si sollevò in un enorme monte d’acqua; l’oceano, gonfiato da forze mostruose, si precipitò verso la riva.
+
+[1017] Quella vasta distruzione non è destinata alle navi; minaccia la terra. La marea avanzava senza alcun segno premonitore; qualcosa di strano, nascosto nel suo “grembo” carico, quella ondata pesante trasportava con sé. Quale nuova terra sta emergendo tra le stelle? Si sta forse formando una nuova isola delle Cicladi? Le rocce, il luogo sacro del dio di Epidauro, sono scomparse; le scogliere famose per il crimine di Sciro, e quella terra circondata da due mari.
+
+[1025] Mentre noi, in silenzioso stupore, ci chiediamo cosa significhi tutto questo, ecco che l’intero mare si scatena in un tuono assordante; le scogliere intorno riecheggiano il suono delle onde; la vetta più alta è bagnata dalla schiuma spruzzata in aria; l’acqua ribolle, poi scarica di nuovo verso il basso, come se una enorme balena nuotasse nelle profondità dell’oceano, sputando getti d’acqua dalla bocca. Allora il vasto globo d’acqua trema, si scuote e, qualcosa di ancora più terribile arriva sulla riva: il mare si precipita verso la terra, inseguendo quel mostro. Le mie labbra tremano mentre racconto. Com’era quell’essere! Che enorme dimensione! Era un toro, alto e maestoso, con un collo di colore blu scuro; sulla sua testa verde cresceva una criniera folta; le sue orecchie pelose si ergevano; i suoi occhi lampeggiavano di luci mutevoli: a volte avevano lo sguardo del signore delle mandrie selvatiche, altre volte quello di qualcuno nato sotto il mare. A volte sprigionavano fiamme, altre volte brillavano di un bagliore ceruleo meraviglioso. Il suo collo robusto, ricco di muscoli, si gonfiava; le sue narici larghe emettevano ruggiti mentre inspirava profondamente l’aria. Il suo petto e il suo ventre erano coperti di muschio verde; i suoi fianchi lunghi erano macchiati di alghe rosse. La sua parte posteriore aveva una forma mostruosa; interamente coperto di scaglie, quell’enorme bestia si trascinava lungo il fondo del mare. Ecco quel mostro marino che inghiotte o distrugge le navi che volano velocemente. Le terre tremavano per la paura; le mandrie fuggivano in preda al panico in tutte le direzioni; i pastori dimenticavano di seguire il loro bestiame. Tutti gli animali scappavano dalle loro tane nelle foreste; tutti i cacciatori restavano immobili, pallidi per la terrore. Solo Ippolito, completamente indifferente al pericolo, teneva saldamente le redini dei suoi cavalli e, nonostante anch’essi fossero terrorizzati, li incitava ad andare avanti con la voce calma e familiare.
+
+<span class="atom-split" data-atom="010" data-title="PHAEDRA (parte 8)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 
 [1057] There is a deep passage towards the fields through the broken hills, hard by the neighbouring stretches of the sea below. Here that huge creature sharpens his [anger](/concepts/anger) and prepares his wrath. When he has gained his spirit, and with full trail rehearsed his wrath, he darts forth, running swiftly, scarce touching the surface of the ground with flying feet, and stands, in grim menace, before the trembling steeds. Thy son, rising up, confronts him with fierce, threatening look, nor does he change countenance, but loudly thunders: “This empty terror cannot break my spirit, for ’twas my father’s task to conquer bulls.” But straightway his horses, disobedient to the reins, seized the chariot and, roaming from the road, wherever frenzied terror carried them in their mad flight, there they plunged along and dashed amid the rocks.
 
@@ -682,7 +1203,75 @@ PHAEDRA
 
 THESEUS
 
-<span class="atom-split" data-atom="011" data-title="PHAEDRA (parte 9)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[1057] C’è un sentiero profondo che conduce verso i campi, attraverso colline rovinate, vicino alle zone costiere sottostanti. Qui quella enorme creatura alimenta la propria [ira](/concepts/anger) e prepara il proprio furore. Quando si è completamente riempita di rabbia e ha ripassato nella mente ogni dettaglio della sua vendetta, si lancia in corsa, muovendosi rapidamente, con i piedi che a malapena toccano il suolo; poi si ferma davanti ai cavalli tremanti, minacciosa e imponente. Tuo figlio, alzandosi in piedi, lo affronta con uno sguardo feroce e minaccioso; non cambia espressione, ma tuona ad alta voce: “Questo terrore vuoto non può spezzare il mio spirito. Infatti, è stato compito di mio padre sconfiggere i tori.” Ma immediatamente i suoi cavalli, disobbedienti alle redini, prendono il controllo del carro e, guidati dalla follia della paura, si allontanano dalla strada, precipitandosi ovunque la loro corsa folle li porti, tra le rocce.
+
+[1072] Ma lui, come un timoniere che mantiene la sua nave stabile in mare tempestoso per evitare che si rovesci sotto le onde, guida con abilità i suoi cavalli veloci. A volte tira forte le redini per controllarli, altre volte usa la frusta per costringerli ad obbedire alla sua volontà. Il suo compagno continua la caccia con determinazione: a volte corre al fianco dei cavalli, altre volte prende deviazioni per intercettarli da ogni direzione, suscitando in loro terrore.
+
+[1080] Ma ormai non potevano più fuggire; poiché quell’essere mostruoso, coperto di corna e pronto a colpire, si era lanciato contro di loro con tutta la sua forza. Allora, davvero, i cavalli, spinti da un terrore folle, persero il controllo; lottarono disperatamente per liberarsi dal giogo, si alzarono sulle zampe posteriori e gettarono a terra il loro carico. Phaëthon cadde a faccia in avanti e, mentre cadeva, i finimenti gli si attorcigliarono intorno al corpo; più si dibatteva, più quei lacci si stringevano. I cavalli, rendendosi conto di ciò che avevano fatto,, ormai senza controllo, corsero ovunque il terrore li spingesse. Non riconoscendo più il loro solito carico e indignati perché la giornata fosse stata affidata a un “finto Sole”, i cavalli scagliarono Phaëthon lontano dalla sua strada celeste. I campi erano macchiati di sangue ovunque; la sua testa, sbattuta contro le rocce, rimbalzava indietro. I cespugli gli strappavano i capelli; le pietre dure devastavano quel bellissimo viso. La sua sfortunata [bellezza](/concepts/beauty) fu distrutta da innumerevoli ferite. Le ruote veloci trascinavano via le sue membra morenti. Alla fine, mentre veniva girato vorticosamente, un albero, il cui tronco era stato bruciato fino a diventare una punta acuminata, lo trafisse alla gola e lo tenne fermo. Per un momento, il carro rimase immobile. Poi anche i cavalli, esauriti, si fermarono. Dopo di ciò, i cespugli lacerarono il suo corpo semivivo; le spine acuminate dei rovi lo strapparono a pezzi. Ogni albero prese la sua parte di lui.
+
+[1105] Ora gruppi dei suoi servitori in lutto percorrono i campi, nei luoghi dove Ipolito è stato trascinato via, segnati da una lunga scia di tracce insanguinate; i suoi cani, piangenti e lamentosi, seguono le orme delle membra del loro padrone. Ma ancora il paziente impegno dei suoi amici in lutto non è riuscito a ricomporre il suo corpo. È davvero giunto a questo punto la sua gloriosa bellezza? Lui, che fino ad ora, come illustre erede al trono di suo padre, brillava come le stelle. Ora viene raccolto da tutte le parti per essere bruciato sulla pira funebre.
+
+Teseo
+
+[1114] [Pianto.] Oh natura, così potente. Con quali forti legami di sangue unisci i genitori ai loro figli! Quanto ti amiamo, anche contro la nostra volontà. Colpevole, desideravo che morisse; perso, ne piango.
+
+Messaggero
+
+[1118] Nessuno ha il diritto di piangere ciò che ha voluto lui stesso.
+
+Teseo
+
+[1119] Credo davvero che questo sia il dolore più grande di tutti, quando la fortuna ci costringe a desiderare ciò che dobbiamo odiare.
+
+Messaggero
+
+[1121] Se continui a provare odio, perché allora le tue guance sono bagnate di lacrime?
+
+Teseo
+
+[1122] Non perché abbia perso, ma perché ho ucciso, piango.
+
+CORO
+
+[1123] Quanto la [fortuna](/concepts/fortune) ruoti capricciosamente nelle vicende umane! Tra le persone umili, la sorte imperversa meno; e Dio colpisce con maggiore leggerezza coloro che sono più fortunati. Una tranquillità inosservata mantiene gli uomini in pace, e una semplice capanna dona un’età serena e senza preoccupazioni.
+
+[1128] Le cime montuose, elevate verso altezze aeree, assorbono i venti orientali e meridionali, le minacce del furioso Boreas e il tempestoso vento nord-occidentale carico di pioggia. Raramente la valle umida subisce i colpi dei fulmini; ma l’immenso Caucaso e il bosco frigio della dea Cybele tremano sotto i tuoni del potente Giove. Poiché, per gelosa paura, Giove colpisce ciò che si trova nelle vicinanze del cielo supremo; ma le umili dimore, con i loro tetti bassi, non sentono mai i suoi potenti fulmini. Intorno ai suoi troni tuona.
+
+[1141] L’ora incerta vola su ali incerte; la fortuna veloce non giura fedeltà a nessuno. Chi un tempo, con gioia, ammirava il cielo stellato e la luce del giorno, ora, nella tristezza, si lamenta del proprio ritorno doloroso, trovando il proprio arrivo nella dimora del padre ancora più desolante dell’Averno stesso.
+
+[1149] O Pallas, sempre venerata dalla razza ateniese. Poiché il tuo Theseus ha guardato il cielo e il mondo superiore ed è riuscito a sfuggire dalle acque del fiume Stige. Casta tu sei; non devi nulla al tuo zio, colui che tutto divora. La storia rimane inalterata per il re degli inferni.
+
+[1154] Qual voce di pianto risuona dal palazzo elevato? E cosa potrebbe far impazzire Fedra con quella spada nuda?
+
+[Entra Fedra, con una spada sguainata in mano.]
+
+Teseo
+
+[1156] Qual furia ti spinge, folle di dolore? Perché quella spada? A che servono i tuoi gridi e i tuoi lamenti su quel cadavere odiato?
+
+FAE Dela
+
+[1159] Me, me, attaccami, o crudele sovrano delle profondità oceaniche; manda contro di me i mostri del mare azzurro, quelli che l’Oceano nasconde nelle sue onde inquiete, nei suoi luoghi più remoti. O Theseus, sempre spietato, che mai torni senza causare danno ai tuoi cari, figlio e padre hanno pagato con la loro vita il prezzo dei tuoi ritorni a casa. Tu sei il distruttore della tua stessa famiglia, sempre dannoso, sia per amore che per odio verso le tue mogli.
+
+[Voltandosi verso il cadavere sfigurato.]
+
+[1168] Oh Hippolyto, è davvero così il tuo volto. È forse così che l’ho reso? Quale selvaggio mostro, quale torturatore crudele ha disperso i tuoi membri in questo modo. O forse qualche terribile creatura cretese, un mostro furioso e mostruoso, ha dilaniato il tuo corpo con le sue corna. Ah, quanto dolore. Dove è fuggita la tua gloriosa bellezza, dove sono i tuoi occhi, le mie stelle? Giaci forse nella morte? Torna per un momento e ascolta le mie parole. Non dico nulla di vergognoso. Con questa mano ti compenserò; nel mio cuore malvagio conficcherò la spada e renderò Phaedra libera sia dalla vita che dal crimine. Allora, attraverso acque oscure, attraverso abissi infernali, attraverso il fiume Stige, attraverso ruscelli di fuoco, ti seguirò follemente. Lascia che placi la tua ombra. Prendi i trofei della mia testa. Accetta questa ciocca di capelli strappata dalla mia fronte ferita. Non era destino che noi fossimo uniti nella vita. Ma certamente lo sarà nella morte.
+
+[1184] [A se stessa.] Ora muori, se sei pura, per amore di tuo marito; se non lo sei, per amore tuo stesso. Devo forse cercare nuovamente il letto di mio marito, contaminato da un crimine così grave? L’unico orrore che mi mancava era che tu, come se fossi pura, potessi godere di quel letto che ti spetta per diritto. O morte, unica consolazione per un amore malvagio. O morte, massima grazia per un onore distrutto. Volo verso di te; apri le tue braccia misericordiose.
+
+[1191] Ascoltami, o Atene, e tu, suo padre, peggiore di una matrigna malvagia: ti ho mentito. Il crimine che, folle di passione, avevo concepito nel mio stesso cuore pazzo, l’ho falsamente attribuito a lui. Tu, padre, hai punito invano; mentre quel giovane casto giace lì, innocente e puro, a causa delle accuse di una donna immorale.
+
+[1196] [A Ippolito.] Riconquista ora la tua onore. Il mio petto empio è esposto alla spada della giustizia, e il mio sangue compie l’espiazione per un uomo innocente.
+
+[1199] [A TESSEO.] Quello che tu, suo padre, dovresti fare ora che tuo figlio è stato assassinato, impara a farlo da sua matrigna: nasconditi nell’Acheronte.
+
+[Cade sulla sua spada e muore.]
+
+Teseo
+
+<span class="atom-split" data-atom="011" data-title="PHAEDRA (parte 9)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 
 [1201] Ye jaws of wan Avernus, ye Taenarean caves, ye waves of Lethe, welcome to the wretched, ye sluggish pools, hide ye in my impious self, plunge deep and bury me in unending woes. Come now, savage monsters of the deep, now, vast sea, and whatever Proteus has hidden away in the furthest hollow of his waters, and hurry me off, me who felt triumph in crime so great, to your deep pools. And thou, father, who didst e’er give too quick assent to my angry prayer, I am not worthy of an easy death who have brought unheard-of destruction on my son and scattered his mangled limbs throughout the fields; who, while, as stern avenger, I was punishing an unreal crime, have myself fallen into true guilt. Heaven, hell, and ocean have I filled up by my sin; there remains no further lot; three kingdoms know me.
 
@@ -715,3 +1304,37 @@ THESEUS
 [Pointing to PHAEDRA’s corpse.]
 
 [1279] As for her, let her be buried deep in earth, and heavy may the soil lie on her unholy head!
+
+<span class="qlang-split" data-lang="it"></span>
+
+[1201] O ghiaccio di Avernus, o caverne di Taenaros, o onde di Lete, benvenuti voi che accogliete i miseri. Nascondetevi nel mio cuore empio, immergetemi nelle vostre profonde acque e seppellitemi nelle sofferenze infinite. Venite dunque, mostri selvaggi delle profondità marine, vasto oceano. E tu, Proteo, che hai nascosto tutto ciò che possiedi nelle più remote cavità delle tue acque, portami via. Io, che ho provato trionfo nel commettere un crimine così orribile. Portami nelle tue oscure profondità. E tu, padre, che mai hai esaudito troppo rapidamente le mie preghiere furiose. Non merito una morte facile. Ho causato distruzione senza precedenti a mio figlio, ho disperso i suoi resti mutilati per i campi. Mentre, come severo vendicatore, punivo un crimine immaginario, sono io stesso caduto in vera colpa. Cielo, inferno e oceano, li ho riempiti tutti con i miei peccati. Non mi resta più alcun destino. Tre regni conoscono il mio nome.
+
+[1213] Perché sono tornato proprio per questo? Il cammino verso la luce del cielo è stato aperto soltanto affinché potessi assistere a due funerali e a un doppio omicidio. Affinché, privo di moglie e figli, potessi accendere con una sola torcia le pire funebri di mio figlio e mia moglie? Oh tu, donatore di luce che non è altro che oscurità, Alcide, restituisci il tuo dono a Dis. Riconducimi di nuovo tra gli spiriti dai quali sono fuggito. Imploro invano la morte che ho lasciato alle mie spalle. Tu, uomo sanguinario, abile nelle arti della morte, che hai concepito modi di morire mai uditi prima, ora subisci tu stesso la punizione che meriti. Sarà forse un pino, il cui tronco è stato piegato verso terra, a spezzarmi in due e scagliarmi di nuovo nel cielo? O sarò gettato giù dalle scogliere di Sciro. Ho visto cose ancora più terribili: i peccatori imprigionati nel Flegetonte subiscono tormenti inflitti dal suo flusso di fuoco. So quale punizione mi aspetta, e dove mi troverò.
+
+[1229] O ombre colpevoli, fate spazio. Lasciate che questa roccia, il peso dell’infinito compito di quel figlio di Eolo, si appoggi su queste mie spalle, schiacciando le mie stanche mani. Lasciate che l’acqua, lambendo le mie labbra, deridi la mia sete. Lasciate che il rapace venga qui da Tizio. Lasciate che il mio fegato continui a crescere per subire ulteriori punizioni. E tu, padre di Pirito. Lascia che quella ruota che mai smette di girare porti via questi miei arti sul suo bordo veloce. Ahimè. Terra, accoglimi. O Caos, prendimi. Questo è il cammino più adatto per me. Seguo mio figlio. E non temere tu, che regni tra le ombre. Vengo con le mani pulite. Accetta me nel tuo eterno regno, affinché non debba mai più uscire da esso. Le mie preghiere non commuovono gli dèi. Ma se avessi chiesto cose empie. Come potrebbero acconsentire a rispondere?
+
+CORO
+
+[1244] Teseo, un tempo senza fine attende le tue lamentazioni. Ora compi i riti dovuti a tuo figlio e seppellisci al più presto quelle membra sparse e così vergognosamente mutilate.
+
+Teseo
+
+[1247] Portate qui, portate là i resti del suo caro corpo e accumulateli tutti insieme, così come arrivano. È questo Hippolyto? Il mio è il peccato, lo ammetto; sono stato io a ucciderti. E per non commettere un crimine da solo, quando io, suo padre, avrei osato compiere un atto così orribile, ho chiamato in mio aiuto anche mio padre stesso. Ecco, godo del favore che mio padre mi ha concesso. Oh sterilità, amara sfortuna per gli anni perduti! Avvicinati, abbraccia le sue membra e tutto ciò che ti è rimasto di tuo figlio, poveruomo, e stringili a te nel tuo cuore addolorato, custodiscili con affetto.
+
+CORO
+
+[1256] Padre suo, metti in ordine quelle parti sparse del suo corpo lacerato e rimetti al loro posto i frammenti sparsi. Qui dovrebbe esserci la sua forte mano destra; qui invece dobbiamo posizionare la sua sinistra, abile nel maneggiare le redini. Riconosco le tracce del suo lato sinistro. Ma quanta parte ancora ci manca,!
+
+Teseo
+
+[1262] Siate forti, mie mani tremanti, nel compiere questo triste dovere; siate asciutte, mie guance, e fermate le vostre lacrime, mentre un padre distribuisce i “pezzi” del proprio corpo al figlio per formarne il nuovo essere. Che cosa è questa massa informe, brutta, piena di ferite su tutti i lati? Non so quale parte del tuo corpo sia, ma è senz’altro una tua parte. Mettila qui, non nel suo posto naturale, ma in un luogo vuoto. È questo il viso che un tempo brillava come le stelle, che faceva deviare lo sguardo dei tuoi nemici? La tua [bellezza](/concepts/beauty) è davvero caduta a tal punto? Oh destino crudele, oh atroce volontà degli dèi! Così il figlio ritorna dal padre in risposta alla sua preghiera.
+
+[Posizionando alcuni ornamenti sul corpo lacerato.]
+
+[1273] Ecco, questi sono gli ultimi doni di tuo padre. Accettali, o tu che spesso dovrai essere portato alla sepoltura. Ora lascia che il fuoco consumi queste membra.
+
+[1275] [Ai servitori.] Aprite completamente il mio palazzo, oscuro e impregnato di sangue, e lasciate che tutto Atene risuoni di lamenti strazianti. State preparando le fiamme della pira reale? State cercando nei campi i resti del suo corpo ancora dispersi?
+
+[Indicando il cadavere di Fedra.]
+
+[1279] Quanto a lei, che venga sepolta in profondità nella terra; che il peso del terreno gravi sulla sua testa impura!

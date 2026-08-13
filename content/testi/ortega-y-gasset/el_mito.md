@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A pedagogical lecture defending myth against the practical schoolmaster of "facts, nothing but facts": Hercules and Ulysses remain eternally school material because myth is a psychic hormone, an inner function feeding the vital pulse. Art, like myth, lives by unrealizing the world.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]], [[concepts/education|educazione]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

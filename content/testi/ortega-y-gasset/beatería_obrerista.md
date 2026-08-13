@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against one-way sentimentality about workers: whoever is moved only when the employer breaks a worker's arm is no free soul but a "handmaid of the labourist religion", like the pious women in the sacristy. Ortega accuses these devotees — Sorel foremost — of imposing on workers a straight-line tactic that secures early victories at the cost of final triumph, and defines syndicalism as the schematic exaggeration of labourist ideas, pushed out of joint "with a geometer's exclusivism".
+
+## Connections
+
+**Concetti:** [[concepts/labour|lavoro]], [[concepts/freedom|libertà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

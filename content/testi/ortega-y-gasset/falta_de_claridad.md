@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An analysis of a Maura speech on the Catalan question: Ortega asked of it only clarity and did not find it — «so many diamonds together dazzle but do not illuminate» — and supplies a schematic anatomy of the oration. Topical political comment.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

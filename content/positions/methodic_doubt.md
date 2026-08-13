@@ -10,7 +10,7 @@ aliases:
 axis: "method"
 contro:
   - "quaestio_disputata"
-work_count: 11
+work_count: 10
 tags:
   - "graph/position"
 title: "dubbio metodico"
@@ -23,7 +23,7 @@ Posizione sull'asse [Metodo](/axes/method).
 
 **Contro:** [quaestio disputata](/positions/quaestio_disputata)
 
-## Opere (11)
+## Opere (10)
 
 **Descartes**
 - [DISCOURS DE LA MÉTHODE](/testi/descartes/discours_de_la_méthode)
@@ -36,6 +36,5 @@ Posizione sull'asse [Metodo](/axes/method).
 - [RÈGLES POUR LA DIRECTION DE LESPRIT](/testi/descartes/règles_pour_la_direction_de_lesprit)
 
 **Ortega y Gasset**
-- [La crisis de hoy y de hace cinco siglos Creación y recepción La socialización del](/testi/ortega-y-gasset/la_crisis_de_hoy_y_de_hace_cinco_siglos_creación_y_recepción_la_socialización_del)
 - [Restauración](/testi/ortega-y-gasset/restauración)
 - [Sensación construcción e intuición](/testi/ortega-y-gasset/sensación_construcción_e_intuición)

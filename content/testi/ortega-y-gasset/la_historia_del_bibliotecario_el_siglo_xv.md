@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lecture to librarians: the librarian's task has varied strictly with what the book meant as a social need, and his public figure emerges only at the dawn of the Renaissance, just before printing, when the book begins to be felt socially as a necessity. Hence the thesis that history is above all the history of the rise and fall of collective 'vigencias' — prevailing usages.
+
+## Connections
+
+**Concetti:** [[concepts/custom|abitudine]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,18 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A report on and analysis of the controversy opened in Nature by Dingler's article "Modern Aristotelianism" against Eddington, Milne and Dirac, whom he accuses of "treason". At issue is a new kind of book that determines the structure of "the universe" a priori, by mathematical deduction from axioms, even deriving new laws with neither experiment nor induction — against the classical physics born with Galileo, which sticks to manifest phenomena. The piece opens with a praise of serenity and of ensimismamiento as the privilege of the human species.
+
+## Connections
+
+**Assi:** [[assi/method|Metodo]], [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/induction|induzione]], [[positions/rationalism|razionalismo]]  
+**Concetti:** [[concepts/reason|ragione]], [[concepts/experience|esperienza]]  
+**Figure:** [[figures/aristotle|Aristotele]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +130,7 @@ Non possiamo reprimere un leggero movimento di sorpresa leggendo questo perché 
 
 Sta il [caso](/concepts/fortune) che da trecento anni si discute precisamente ciò che il signor Dingler dà come cosa libera di possibile errore. Si discute, dai tempi dello stesso Galileo, se la scienza è osservazione o qualcosa di più. Perché le obiezioni più forti che gli aristotelici opponevano a Galileo consistevano in tacciarlo per non adeguarsi strettamente a ciò che si osserva, all'esperimento.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/method,assi/knowledge_origin,positions/induction,positions/rationalism,concepts/reason,concepts/experience,figures/aristotle,forms/essay"></span>
 
 Pues fuera oportuno recordar al articulista que los aristotélicos, frente a los cuales se hallaba Galileo, eran predominantemente nominalistas, gentes que no creían —hacía ya dos siglos— que la naturaleza fuese racional y que, por lo mismo, sólo cabía de ella un conocimiento empírico, de observación, que se contentase con formar teorías donde «se salvasen las apariencias», donde los «fenómenos manifiestos» fuesen de alguna manera ordenados. Y por eso en París y en Padua se hacían experimentos cien años antes que en Padua estudiase Galileo.
 
@@ -204,7 +214,7 @@ A questa situazione è giunta la fisica attuale. Una situazione abbastanza parad
 
 Io non andrò a dirimere la questione. Ma sta il [caso](/concepts/fortune) che i fisici stessi non hanno potuto meno di percepire lo strano carattere che in quanto conoscenza offre la loro scienza. E alcuni di essi si sono risolti a dichiarare che la fisica è una «conoscenza simbolica», quella che ha dei soprabiti chi non li ha mai visti, ma possiede l'insieme dei gettoni e sa che a ciascuno di questi corrisponde uno di quelli e il luogo dell'attaccapanni in cui è appeso. A ciò che non si sono risolti né questi né gli altri fisici è a riflettere energicamente se una conoscenza simbolica è sul serio conoscenza. Perché ha da essere la fisica una conoscenza? Per ventura è la conoscenza una cosa così chiara che sembri giustificato l'impegno delle «scienze» in essere tenute per conoscenze? Perché non ha da essere la fisica, e in generale le «scienze», un'altra cosa: per esempio, tecnica e nulla più, tecnica e nulla meno? Dopo tutto, se qualcuno dicesse che la conoscenza fu solo un saggio e un'illusione degli uomini di Grecia, che terminò in glorioso fallimento, direbbe qualcosa di molto meno stravagante e molto più profondo di ciò che al pronto pare, sebbene forse non sia l'ultimamente vero.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/method,assi/knowledge_origin,positions/induction,positions/rationalism,concepts/reason,concepts/experience,figures/aristotle,forms/essay"></span>
 
 Véase, pues, cómo en la cuestión planteada por el doctor Dingler fermentan otras mucho más graves y más radicales. Pero el doctor Dingler y la mayor parte de sus víctimas mantienen la polémica dentro de la órbita gremial. No quieren embarcarse en problemas filosóficos. Hacen bien, ¡qué diablo! La física sirve para muchas cosas, mientras que la filosofía no sirve para nada. Ya lo dijo, conste, un filósofo, el patrón de los filósofos, Aristóteles. Precisamente por eso soy yo filósofo: porque no sirve para nada serlo. La notoria «inutilidad» de la filosofía es acaso el síntoma más favorable para que veamos en ella el verdadero conocimiento. Una cosa que sirve es una cosa que sirve para otra, y en esa medida es servil. La filosofía, que es la vida auténtica, la vida poseyéndose a sí misma, no es útil para nada ajeno a ella misma. En ella, el hombre es sólo siervo de sí mismo, lo cual quiere decir que sólo en ella el hombre es señor de sí mismo. Mas, por supuesto, la cosa no tiene importancia. Queda usted en entera libertad de elegir entre estas dos cosas: o ser filósofo o ser sonámbulo. Los físicos, en general, van sonámbulos dentro de su física, que es el sueño egregio, la modorra genial de Occidente.
 
@@ -300,7 +310,7 @@ Milne si propone di applicare nel modo più radicale possibile il principio dell
 
 Vale a dire —e questo è l'enorme del fatto— che la fisica sta per convertirsi in una geometria che tra i suoi vari assiomi include uno dove si anticipa la nozione di movimento. Il che — passando ora nuovamente dalla chiarezza matematica alla chiarezza plastica — significa che un uomo chiuso nella sua stanza, senza apparecchi, senza materie osservabili, per semplice combinazione di idee, può in poche settimane riscoprire ciò che ha richiesto impiegare trecento anni e trentamila laboratori. Con questa aggravante: che non c'è ragione che questa nuova fisica-geometria non prosegua le sue deduzioni e non accerti innumerevoli leggi nuove.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/method,assi/knowledge_origin,positions/induction,positions/rationalism,concepts/reason,concepts/experience,figures/aristotle,forms/essay"></span>
 
 La dignidad o carácter matemático de esta investigación no permite, claro está, garantizar que las cosas se comportan según esos teoremas. La observación será quien decida si, en efecto, es así. Pero es evidente que el papel de ésta queda, en principio, invertido. Según Dingler, sólo la observación nos permite descubrir las leyes de la naturaleza. Según Milne se puede llegar a ellas [a priori](/positions/transcendental_criticism) y la observación reduce su papel a confirmarlas.
 
@@ -408,7 +418,7 @@ Mi conceda il lettore la soddisfazione di leggere ora ciò che nel 1927 scrivevo
 
 »Di modo che se i fenomeni —le palle di piombo, di ferro e di pietra— non si comportano secondo la nostra costruzione, peggio per loro, suo danno.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/method,assi/knowledge_origin,positions/induction,positions/rationalism,concepts/reason,concepts/experience,figures/aristotle,forms/essay"></span>
 
 »Claro es que la física actual se diferencia mucho de la de Galileo y Toscanelli, no sólo por su contenido, sino por su método. Pero esta diferencia metódica no es contraposición, sino, al contrario, continuación y perfeccionamiento, depuración y enriquecimiento de aquella táctica intelectual descubierta por los gigantes del post-renacimiento».
 

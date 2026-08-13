@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A proposed minimum programme for the coming government: national transformation will be either orderly or chaotic, and as much disorder will be avoided as radicalism is anticipated from power — «form is the only bad thing about revolutions». Its chapters: constitutional reform (absolute liberty of conscience and secularization of the state, intangible guarantees for liberties, an action for unconstitutionality, abolition of the Senate), decentralization, social policy.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Posizioni:** [[positions/liberty_of_conscience|libertà di coscienza]], [[positions/revolution|rivoluzione]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/law|legge]], [[concepts/freedom|libertà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

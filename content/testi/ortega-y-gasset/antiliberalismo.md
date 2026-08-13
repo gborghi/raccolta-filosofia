@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Syndicalism infers from the fact that society is a community of workers that it is nothing but that — Ortega ridicules the inference by comparing it to reducing man to a self-propelled nose. Thinking, writing, loving and amusing oneself escape the union's tutelage: the sum of these minimal rights is called liberty. Liberalism, "the highest idea yet invented", cannot fight without first handing its weapon to the enemy.
+
+## Connections
+
+**Assi:** [[assi/state_and_individual|Stato e individuo]]  
+**Concetti:** [[concepts/freedom|libertà]], [[concepts/labour|lavoro]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

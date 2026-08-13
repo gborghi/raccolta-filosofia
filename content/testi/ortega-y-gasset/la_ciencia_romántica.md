@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Starting from Cejador's 'Diccionario del Quijote', Ortega deplores the guild-like closure of Spanish life and claims every act has a national dimension: the individual is an abstraction, humanity an ideal, and the only present reality is the nation. He then praises travel books and etymological dictionaries as 'volcanic' views of humanity.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +114,7 @@ Tutti dobbiamo sospirare perché andando il tempo diano gli spiriti spagnoli un 
 
 Menéndez Pelayo, quando giovanile e baldanzoso, ruppe quelle famose lance in favore della scienza spagnola; prima del suo libro intravedevasi già che in Spagna non c'era stata scienza; poi di pubblicato si vide palesemente che mai c'era stata. Scienza, no; uomini di scienza, sì. E questo vorrei far notare. La nostra razza estrema, il nostro clima estremo, le nostre anime estremose non sono chiamate a lasciare sulla storia il ricordo di una forma di vita continua e ragionevole.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Como hemos hecho historia a la manera que un terremoto, hemos hecho y haremos todo lo demás. «No mañanamos, no mañanamos», se complacía en repetir Navarro Ledesma. Y ¿queremos tener ciencia disciplinada? Al tiempo que supone ésta una continuidad en el esfuerzo, la ciencia y los sabios españoles son monolíticos, como sus pintores y sus poetas: seres de una pieza que nacen sin precursores, por generación espontánea, de las madres bravas, aunque bastante cenagosas de nuestra raza, y mueren muerte de su cuerpo y de su obra, sin dejar discípulos. Al contrario de Alemania, nuestra ciencia ha vivido sólo en los entresijos de los que la crearon y se la han comido los gusanos también. Es en nosotros la ciencia un hecho personalísimo y no una acción social, o como quiera decirse, lo que se ha llamado sinergia.
 

@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Madrid 1933: he separates fifteenth-century "humanism" from sixteenth-century Renaissance and asks why the man of 1450 was enthused by antiquity, reproaching historians for never asking "why" — while life itself is an infinite why. His answer: from the late fourteenth century man grows blunt toward God, and Greco-Roman culture promised a secular, intramundane culture without the theological beyond.
+
+## Connections
+
+**Assi:** [[assi/time_and_death|Tempo e morte]], [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/historicity|storicità]]  
+**Concetti:** [[concepts/religion|religione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -60,7 +69,7 @@ Per conseguenza, l'entusiasmo verso gli antichi non era diretto, ma obliquo. Pi�
 
 L'autentica e segreta significazione dell'umanesimo si rivela quando cadiamo nella consapevolezza che non basta a definire il suo tempo. Rappresenta soltanto la soluzione vitale — ben insufficiente e transitoria o insincera — di certi circoli. Accanto a essi ce ne sono altri intatti dall'umanesimo, che perdurano dentro l'atteggiamento religioso e, nondimeno, dentro di esso lo combattono attivamente o passivamente. Tutta la devotio moderna che rappresenta, per esempio, la «Imitazione di Cristo», e che guadagna intera l'area europea durante il secolo XV, è uno scambio curiosissimo della religione secondo ciò che questa fu nel Medioevo. La devotio moderna, praticata soprattutto dai «fratelli della vita comune», cerca l'occupazione religiosa fuori della Chiesa, dei suoi ordini monastici, dei suoi riti e perfino dei suoi dogmi e crea una religiosità «privata» e laica che ripugna ogni [norma](/concepts/law) e prescrizione e si interessa soltanto nello stato sentimentale dell'individuo. Il suo motivo radicale è il sospetto che l'uomo non possa conoscere il Dio trascendente, che, in conseguenza, bisogna rinunciarvi e accontentarsi della pura emozione di pietà attiva dentro la persona. La cosa è paradossale e, per ciò stesso, caratteristica di un'epoca di crisi. La religione medievale, che nella sua piena vigenza significa la proiezione del mondano nell'aldilà trascendente, si volta di spalle e si riduce a raccogliere in questo mondo i riflessi dell'altro inaccessibile. La «Imitazione di Cristo» è la stanchezza dei dogmi e la loro riduzione al versante della fede che dà verso l'uomo e guarda alla nostra vita. Questo Cristo di Tommaso da Kempis non è il Dio extramondano ma l'uomo divino, a cui per essere uomo è possibile imitare in questa valle di lacrime. Si veda per quale strada contorta, al polo opposto dell'umanesimo, nella più tipica ed estrema bigotteria dell'epoca si finisce coll'affermare questo mondo di fronte all'altro e si prepara il distacco dal trascendente. La radice vitale dell'uno e dell'altro fenomeno è identica e non può stupire che dalla devotio moderna, educati da essa, sorgessero i più grandi umanisti del Nord: il cardinale Cusano, Erasmo, Adriano VI, Muciano, eccetera.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/time_and_death,assi/meaning_of_history,positions/historicity,concepts/religion,forms/essay"></span>
 
 Al perder el hombre el punto de apoyo que para su vida era el Dios trascendente —un ser absoluto, plenario, en quien se podía absolutamente confiar— no tiene más remedio que buscar otra tierra firme donde hincar los talones. Pero ese principio teológico era la clave y la sustancia misma de la cultura existente. La obnubilación de ese principio traía consigo la suspicacia frente a toda la cultura, y hacía a ésta sospechosa. De aquí que el hombre del siglo XV comience a creer que la cultura, se entiende, la entonces constituida es, por esencia, falsificación de la vida, y que la verdad está donde el hombre se hallaba antes de esa cultura. De aquí que presienta la salvación en forma de retroceso, de retorno a un pasado preescolástico, en suma, de «vuelta a los antiguos». Como se ve, el papel de éstos era representar lo primitivo y auténtico del hombre frente a su posterior falsificación. Por eso, la vuelta no se hace sólo a griegos y romanos. Ya en Petrarca se advierte el afán de «volver» no sólo a la antigüedad clásica, sino también a la antigüedad cristiana, al cristianismo primitivo. En el siglo XV alemán la piedad busca, tras la religión dogmática y el ritual eclesiástico, la «religión del alma», que sobre todo consiste en la simplicitas, la sencillez. Por todas partes se elogia este simplismo y se encomia frente a la complicación sabia, «culta». El mayor genio de la época, el cardenal Cusano, lanza su lema de la docta ignorantia, que otros más exagerados no vacilan en exaltar como sacra ignorantia. En su diálogo De Mente hace del «Idiota» auténtico representante de la verdad frente al sabio escolástico y el «idiota» es el «hombre privado», el «Juan particular», el «cualquiera», es decir, el hombre elemental.
 

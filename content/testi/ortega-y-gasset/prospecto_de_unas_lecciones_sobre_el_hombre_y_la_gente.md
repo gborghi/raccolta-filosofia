@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A written summary of the earlier lessons of 'El hombre y la gente': the confusion over state, law, nation and revolution springs from sociologists never having analysed elementary social phenomena radically. To decide whether the social is an authentic reality one must start from the fundamental reality, each person's own life, which consists in having to exist in a circumstance, always having to be doing something.
+
+## Connections
+
+**Assi:** [[assi/reality_status|Statuto del reale]], [[assi/end_of_life|Fine della vita]]  
+**Posizioni:** [[positions/radical_reality_of_life|la vita come realtà radicale]], [[positions/life_as_project|vita come progetto]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -150,7 +157,7 @@ Ciò che pensiamo o diciamo perché si dice; ciò che facciamo perché si fa, su
 
 I fatti sociali costitutivi sono usi.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/reality_status,assi/end_of_life,positions/radical_reality_of_life,positions/life_as_project"></span>
 
 Los usos son formas de comportamiento humano que el individuo adopta y cumple porque, de una u otra manera, en una u otra medida, no tiene remedio. Le son impuestos por su contorno de convivencia: por los «demás», por la «gente», por… la sociedad.
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Rereading Balzac, Ortega reflects on repetition — which means the opposite of what it means, since a repeated event produces a different impression — and on the difference between reading and rereading: first reading is participation, a shipwreck inside the work (it happens with Balzac as with the Critique of Pure Reason); rereading means staying outside and seeing it as a work.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

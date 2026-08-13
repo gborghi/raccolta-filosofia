@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A polemical political article: Ortega denies that his recent paragraphs are a 'retraction' or a fit of ill humour, and announces a series of notes amounting to political memoirs of the Republic's first fifteen months. He insists on raising the intellectual level of public life after the Dictatorship.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

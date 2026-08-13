@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A speech against the two formulas 'conservative Republic' and 'bourgeois Republic': no conservative politics is possible today, since the substance of the average man has changed and no past can serve as norm. And Spain, Ortega argues, declined through the modern age precisely because its bourgeoisie was scarce and weak, in a climate governed by rationalism and capitalism.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/decadence|decadenza]]  
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -96,7 +104,7 @@ Per non disorientarci, evitiamo, dunque, di parlare di politica conservatrice e 
 
 Perché non si è fatto questo, o, per parlare con più cautela e forse con più giustizia, perché si è data l'impressione che non si facesse questo, ma che si approfittasse di quel trionfo spontaneo e nazionale — e nazionale! — della Repubblica per avvolgerci propositi, preferenze, credi politici particolari, che non erano coincidenza nazionale, è per questo che risulta che dopo sette mesi è caduta la temperatura dell'entusiasmo repubblicano e la Spagna trotta, rattristata, per rotta alla deriva. E questo è ciò che bisogna rettificare.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/decadence,concepts/state"></span>
 
 Apenas sobrevenido su triunfo, comienza ya a falsearse. Gentes atropelladas comenzaron a decir: ¿Cómo? ¿No se ha hecho más que cambiar la forma de gobierno? Con lo cual no hacían sino descubrir su inconsciencia y revelar que no tenían una idea clara de lo que era la monarquía en España, cuando su simple ausencia y su sustitución por un régimen opuesto se les antojaba a estos señores parva mutación. Les parecía poco el cambio de régimen, y, en cambio, les parecía mucho media docena de reformas verbalistas que habían capturado en los archivos de una vetusta y agotada democracia. (Muy bien). Esta agitación formó un círculo de inquietud en torno a los gobernantes, la mayor parte de los cuales —estoy seguro— no simpatizaba con ella, veía perfectamente su inanidad, pero no acertó a resistirla. ¡Ahí es nada: que España haya dejado de vivir bajo la monarquía de Sagunto y aliente hoy constituida bajo la figura de una República! ¿Es que se sabe, se sabe, lo que esa monarquía significaba más allá de todo detalle, más allá de todos los abusos particulares, por su esencia misma, lo que significaba para los destinos españoles?
 

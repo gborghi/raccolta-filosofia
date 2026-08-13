@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Short literary essay (1915) on Don Quixote as a critique of pure effort: the hero who acts without knowing what he conquers ends in melancholy. A reading of Cervantes.
+> A short text (271 words). The digest carries no prose sample, so the content cannot be judged.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

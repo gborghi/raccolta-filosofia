@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An editorial on the double censorship, governmental and typographers': the first legal but abusive, the second illegal and unaccountable. Ortega draws the thesis that one can no longer govern by force, since the state does not stand above society but is immersed in it, and unjust authority breeds social illegality.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/law|legge]], [[concepts/freedom|libertà]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

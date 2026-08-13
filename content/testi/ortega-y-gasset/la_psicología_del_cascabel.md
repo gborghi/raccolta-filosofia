@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Against a pedagogy that works against the child's childhood: childhood must be educated as such, not by an ideal of the mature man. Maturity does not suppress childhood but integrates it (Ortega cites Hegel's Aufhebung: to overcome is to negate, but to negate is to preserve); we are all double creatures, like a rattle, with a bold child inside the adult shell.
+
+## Connections
+
+**Concetti:** [[concepts/education|educazione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

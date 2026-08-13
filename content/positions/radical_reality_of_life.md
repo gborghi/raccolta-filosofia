@@ -12,7 +12,7 @@ contro:
   - "idealism"
   - "materialism"
   - "atomism"
-work_count: 18
+work_count: 15
 tags:
   - "graph/position"
 title: "la vita come realtà radicale"
@@ -25,18 +25,15 @@ Posizione sull'asse [Statuto del reale](/axes/reality_status).
 
 **Contro:** [idealismo](/positions/idealism), [materialismo](/positions/materialism), [atomismo](/positions/atomism)
 
-## Opere (18)
+## Opere (15)
 
 **Ortega y Gasset**
-- [Abenjaldún nos revela el secreto pensamientos sobre África Menor](/testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor)
 - [Aurora de la razón histórica](/testi/ortega-y-gasset/aurora_de_la_razón_histórica)
 - [Capítulo primero Creer y pensar](/testi/ortega-y-gasset/capítulo_primero_creer_y_pensar)
 - [¿Instituciones?](/testi/ortega-y-gasset/instituciones)
 - [La paradoja del salvajismo](/testi/ortega-y-gasset/la_paradoja_del_salvajismo)
-- [Lo que más falta hace hoy Versión taquigráfica de una emisión por Radio Madrid a Buenos](/testi/ortega-y-gasset/lo_que_más_falta_hace_hoy_versión_taquigráfica_de_una_emisión_por_radio_madrid_a_buenos)
 - [Los «nuevos» Estados Unidos](/testi/ortega-y-gasset/los_nuevos_estados_unidos)
 - [Los votos van al presidio](/testi/ortega-y-gasset/los_votos_van_al_presidio)
-- [MEDITACIONES DEL QUIJOTE](/testi/ortega-y-gasset/meditaciones_del_quijote)
 - [Maximus in minimis](/testi/ortega-y-gasset/maximus_in_minimis)
 - [Meditación de la técnica](/testi/ortega-y-gasset/meditación_de_la_técnica)
 - [Muerte y resurrección](/testi/ortega-y-gasset/muerte_y_resurrección)

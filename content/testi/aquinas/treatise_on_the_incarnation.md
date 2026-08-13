@@ -12,8 +12,16 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > The second-longest treatise in the Summa (over 280,000 words): the hypostatic union of divine and human natures in Christ, its fittingness, the mode of union in the person rather than the nature, and the grace of union. The Christological summit of the work.
+
+## Connections
+
+**Concetti:** [[concepts/grace|grazia]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -47,7 +55,7 @@ Poiché il nostro Salvatore, il Signore Gesù Cristo, al fine di “salvare il s
 In merito a ciò dobbiamo considerare: (1) il Salvatore stesso; (2) i sacramenti attraverso i quali raggiungiamo la nostra salvezza; (3) lo scopo della vita immortale, che otteniamo attraverso la risurrezione. Per quanto riguarda il primo punto, sorge una doppia considerazione: la prima riguarda il mistero dell’Incarnazione stessa, mediante la quale Dio si è fatto uomo per la nostra salvezza; la seconda riguarda le azioni e le sofferenze patite dal nostro Salvatore, cioè da Dio incarnato.
 TRATTATO SULL’INCARNAZIONE (QQ[1]-59)
 
-<span class="atom-split" data-atom="002" data-title="OF THE FITNESS OF THE INCARNATION (SIX ARTICLES)" data-chapter="OF THE FITNESS OF THE INCARNATION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE FITNESS OF THE INCARNATION (SIX ARTICLES)" data-chapter="OF THE FITNESS OF THE INCARNATION (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/original_sin"></span>
 
 Concerning the first, three things occur to be considered: first, the fitness of the Incarnation;
 secondly, the mode of union of the Word Incarnate; thirdly, what follows this union.
@@ -69,7 +77,7 @@ Per quanto riguarda il primo punto, ci sono tre aspetti da considerare: in primo
 (5) Era appropriato che Dio si incarnasse fin dall’inizio del mondo?  
 (6) La Sua Incarnazione avrebbe dovuto essere rinviata alla fine del mondo?
 
-<span class="atom-split" data-atom="003" data-title="Whether it was fitting that God should become incarnate?" data-chapter="Whether it was fitting that God should become incarnate?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether it was fitting that God should become incarnate?" data-chapter="Whether it was fitting that God should become incarnate?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not fitting for God to become incarnate. Since God from
 all [eternity](/positions/eternity) is the very essence of goodness, it was best for Him to be as He had been from all
@@ -163,7 +171,7 @@ Risposta all’Obiezione 3: Ogni modo di essere in cui qualsiasi creatura si dif
 
 Risposta all’Obiezione 4: Come risponde Agostino (Epistola ad Volusiano, cxxxvii): “La dottrina cristiana non afferma mai che Dio sia stato unito alla carne umana in modo tale da dover abbandonare o perdere, o trasferire – per così dire – la responsabilità di governare l’universo all’interno di questo fragile corpo. Questa è l’opinione delle persone incapaci di vedere qualcosa al di là delle cose corporee. Dio è grande non per la sua massa, ma per il suo potere; pertanto, la grandezza del Suo potere non incontra alcuna limitazione in ambienti ristretti. E se le parole fugaci di un uomo vengono udite immediatamente da molti, e ciascuno le riceve nella loro interezza, perché dovrebbe essere incredibile che la Parola eterna di Dio sia onnipresente in ogni luogo nello stesso istante?” Pertanto, nulla di inappropriato deriva dall’incarnazione di Dio.
 
-<span class="atom-split" data-atom="004" data-title="Whether it was necessary for the restoration of the human race that the Word of God should become incarnate?" data-chapter="Whether it was necessary for the restoration of the human race that the Word of God should become incarnate?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether it was necessary for the restoration of the human race that the Word of God should become incarnate?" data-chapter="Whether it was necessary for the restoration of the human race that the Word of God should become incarnate?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not necessary for the reparation of the human race that
 the Word of God should become incarnate. For since the Word of God is perfect God, as has been
@@ -280,7 +288,7 @@ Risposta all’Obiezione 2: Si può dire che la soddisfazione sia sufficiente in
 
 Risposta all’Obiezione 3: Prendendo carne, Dio non ha diminuito la Sua maestà; e di conseguenza non ha ridotto i motivi per rispettarLo, anzi tali motivi sono aumentati con una maggiore conoscenza di Lui. Al contrario, poiché desiderava avvicinarsi a noi prendendo carne, ci ha permesso di conoscerLo ancora meglio.
 
-<span class="atom-split" data-atom="005" data-title="Whether, if man had not sinned, God would have become incarnate?" data-chapter="Whether, if man had not sinned, God would have become incarnate?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether, if man had not sinned, God would have become incarnate?" data-chapter="Whether, if man had not sinned, God would have become incarnate?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that if man had not sinned, God would still have become incarnate.
 For the cause remaining, the effect also remains. But as [Augustine](/figures/augustine) says (De Trin. xiii, 17): "Many
@@ -363,7 +371,7 @@ cause is not revealed. Hence, the mystery of the Incarnation could be revealed t
 without his being fore-conscious of his fall. For not everyone who knows the effect knows the
 cause.
 
-<span class="atom-split" data-atom="006" data-title="Whether God became incarnate in order to take away actual sin, rather than to take away original sin?" data-chapter="Whether God became incarnate in order to take away actual sin, rather than to take away original sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether God became incarnate in order to take away actual sin, rather than to take away original sin?" data-chapter="Whether God became incarnate in order to take away actual sin, rather than to take away original sin?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that God became incarnate as a remedy for actual sins rather than
 for [original sin](/positions/original_sin). For the more grievous the sin, the more it runs counter to man's salvation, for which
@@ -439,7 +447,7 @@ Risposta all’Obiezione 2: In futuro, il dolore fisico non verrà più inflitto
 
 Risposta all’Obiezione 3: Crisostomo afferma (De Compunctione Cordis ii, 6): “L’Apostolo usò queste parole non per voler sminuire i doni di Cristo, che sono così abbondanti e diffusi in tutto il mondo, ma per far credere che fosse lui stesso la causa di tali doni. Infatti, che importanza ha se questi doni vengono concessi ad altri, se ciò che viene dato a te è completo e perfetto, come se nessuno altro ne ricevesse traccia?” Pertanto, anche se un uomo dovrebbe considerare i doni di Cristo come fatti per sé stesso, non deve pensare che essi non siano destinati ad altri. Non escludiamo quindi che Cristo sia venuto per cancellare il peccato di tutta la natura umana, e non soltanto quello di una singola persona; tuttavia, il peccato della natura umana viene sanato in modo perfetto in ciascuno di noi, come se fosse stato sanato esclusivamente in lui. Pertanto, a causa dell’unione dell’amore fraterno, ciò che è concesso a tutti dovrebbe essere considerato proprietà propria da parte di ognuno di noi.
 
-<span class="atom-split" data-atom="007" data-title="Whether it was fitting that God should become incarnate in the beginning of the human race?" data-chapter="Whether it was fitting that God should become incarnate in the beginning of the human race?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether it was fitting that God should become incarnate in the beginning of the human race?" data-chapter="Whether it was fitting that God should become incarnate in the beginning of the human race?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was fitting that God should become incarnate in the beginning
 of the human race. For the work of the Incarnation sprang from the immensity of Divine charity,
@@ -540,7 +548,7 @@ Risposta all’Obiezione 2: [Agostino](/figures/augustine) risponde a questa obi
 
 Risposta all’Obiezione 3: La perfezione è anteriore all’imperfezione, sia nel tempo che nella natura, nelle cose diverse (poiché ciò che porta le altre alla perfezione deve esso stesso essere perfetto); ma nello stesso oggetto, l’imperfezione è anteriore nel tempo sebbene posteriore nella natura. Pertanto, la perfezione eterna di Dio precede, in termini di durata, l’imperfezione della [natura umana](/axes/human_nature); ma la sua perfezione ultima, nell’unione con Dio, segue.
 
-<span class="atom-split" data-atom="008" data-title="Whether the Incarnation ought to have been put off till the end of the world?" data-chapter="Whether the Incarnation ought to have been put off till the end of the world?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether the Incarnation ought to have been put off till the end of the world?" data-chapter="Whether the Incarnation ought to have been put off till the end of the world?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the work of the Incarnation ought to have been put off till the
 end of the world. For it is written (Ps. 91:11): "My old age in plentiful mercy"---i.e. "in the last
@@ -631,7 +639,7 @@ Risposta all’Obiezione 2: L’opera dell’Incarnazione deve essere considerat
 
 Risposta all’Obiezione 3: Come afferma Crisostomo nel commento su Giovanni 3:11 (“Poiché Dio non ha mandato suo Figlio nel mondo per giudicare il mondo”, Omelia xxviii): “Ci sono due venite di Cristo: la prima, per la remissione dei peccati; la seconda, per giudicare il mondo. Se non fosse stato così, tutti sarebbero periti insieme, poiché tutti hanno peccato e hanno bisogno della gloria di Dio”. Pertanto è evidente che Cristo non avrebbe dovuto rimandare la sua venuta per misericordia fino alla fine del mondo.
 
-<span class="atom-split" data-atom="009" data-title="OF THE MODE OF UNION OF THE WORD INCARNATE (TWELVE ARTICLES)" data-chapter="OF THE MODE OF UNION OF THE WORD INCARNATE (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="OF THE MODE OF UNION OF THE WORD INCARNATE (TWELVE ARTICLES)" data-chapter="OF THE MODE OF UNION OF THE WORD INCARNATE (TWELVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Now we must consider the mode of union of the Incarnate Word; and, first, the union itself;
 secondly, the Person assuming; thirdly, the nature assumed.
@@ -666,7 +674,7 @@ Relativamente al primo punto, vi sono dodici questioni da esaminare:
 (11) Sono stati necessari alcuni meriti precedenti a tale unione?  
 (12) La grazia che ha permesso questa unione era naturale nell’uomo Cristo?
 
-<span class="atom-split" data-atom="010" data-title="Whether the Union of the Incarnate Word took place in the nature?" data-chapter="Whether the Union of the Incarnate Word took place in the nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the Union of the Incarnate Word took place in the nature?" data-chapter="Whether the Union of the Incarnate Word took place in the nature?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Union of the Word Incarnate took place in the nature. For
 Cyril says (he is quoted in the acts of the Council of Chalcedon, part ii, act. 1): "We must understand
@@ -777,7 +785,7 @@ Risposta all’Obiezione 2: Dalla anima e dal corpo deriva una doppia unità, ci
 
 Risposta all’Obiezione 3: Come afferma Damasceno (De Fide Orthodossa iii, 6,11), si dice che la Natura Divina sia incarnata perché si unisce personalmente alla carne, e non perché venga trasformata in carne. Allo stesso modo, si dice che la carne sia deificata, come egli stesso afferma (De Fide Orthodossa 15,17), non per una qualche trasformazione, ma per l’unione con la Parola di Dio; le sue proprietà naturali rimangono infatti invariate. Pertanto, si può considerare la carne deificata nel senso che diventa la carne della Parola di Dio, ma non che essa stessa diventi Dio.
 
-<span class="atom-split" data-atom="011" data-title="Whether the union of the Incarnate Word took place in the Person?" data-chapter="Whether the union of the Incarnate Word took place in the Person?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the union of the Incarnate Word took place in the Person?" data-chapter="Whether the union of the Incarnate Word took place in the Person?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the union of the Incarnate Word did not take place in the
 person. For the Person of God is not distinct from His Nature, as we said (FP, Q[39], A[1]). If,
@@ -865,7 +873,7 @@ Risposta all’Obiezione 2: La personalità appartiene necessariamente alla dign
 
 Risposta all’Obiezione 3: La Parola di Dio “non ha assunto la natura umana nel suo complesso, ma ‘in un individuo’”, come afferma Damasceno (De Fide Orth. iii, 11); altrimenti ogni uomo sarebbe considerato la Parola di Dio, proprio come Cristo. Tuttavia dobbiamo ricordare che non ogni individuo appartenente al genere della sostanza, nemmeno quelli di natura razionale, è una persona; solo ciò che esiste in modo autonomo può essere considerato una persona, e non ciò che esiste all’interno di qualcosa di più perfetto. Pertanto, la mano di Socrate, sebbene sia un individuo, non è una persona, poiché non esiste in modo autonomo, ma all’interno di qualcosa di più perfetto, ovvero del tutto umano. La definizione di “persona” come “sostanza individuale” indica proprio questo: la mano non è una sostanza completa, ma ne fa parte. Quindi, sebbene questa natura umana sia un individuo appartenente al genere della sostanza, essa non possiede una personalità autonoma, poiché esiste in modo congiunto a qualcosa di più perfetto, ovvero alla Persona della Parola di Dio. Pertanto, l’unione tra la natura umana e la divinità ha avuto luogo nella Persona stessa della Parola.
 
-<span class="atom-split" data-atom="012" data-title="Whether the union of the Word Incarnate took place in the suppositum or hypostasis?" data-chapter="Whether the union of the Word Incarnate took place in the suppositum or hypostasis?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether the union of the Word Incarnate took place in the suppositum or hypostasis?" data-chapter="Whether the union of the Word Incarnate took place in the suppositum or hypostasis?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the union of the Word Incarnate did not take place in the
 suppositum or hypostasis. For [Augustine](/figures/augustine) says (Enchiridion xxxv, xxxviii): "Both the Divine and
@@ -970,7 +978,7 @@ Risposta all’Obiezione 2: L’ipostasi indica una sostanza particolare, non in
 
 Risposta all’Obiezione 3: Nelle cose create, un essere singolo viene collocato in un genere o in una specie non in base a ciò che appartiene alla sua [individualizzazione](/concepts/individuation), ma in base alla sua natura, che deriva dalla sua forma; nelle cose composite, invece, l’individualizzazione dipende maggiormente dalla materia. Pertanto diciamo che Cristo appartiene alla specie umana in base alla natura assunta, e non in base all’ipostasi.
 
-<span class="atom-split" data-atom="013" data-title="Whether after the Incarnation the Person or Hypostasis of Christ is composite?" data-chapter="Whether after the Incarnation the Person or Hypostasis of Christ is composite?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether after the Incarnation the Person or Hypostasis of Christ is composite?" data-chapter="Whether after the Incarnation the Person or Hypostasis of Christ is composite?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Person of Christ is not composite. For the Person of Christ
 is naught else than the Person or hypostasis of the Word, as appears from what has been said (A[2]).
@@ -1023,7 +1031,7 @@ Risposta all’Obiezione 2: Questa composizione di una persona da parti diverse 
 
 Risposta all’Obiezione 3: Non si verifica in ogni composizione che la cosa risultante sia omogenea alle sue parti componenti, ma soltanto nelle parti di una cosa continua; infatti, ciò che è continuo è composto esclusivamente da parti continue. Tuttavia, un animale è composto da ['anima e corpo](/axes/soul_body), e nessuno dei due elementi costitutivi è esso stesso un animale.
 
-<span class="atom-split" data-atom="014" data-title="Whether in Christ there is any union of soul and body?" data-chapter="Whether in Christ there is any union of soul and body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether in Christ there is any union of soul and body?" data-chapter="Whether in Christ there is any union of soul and body?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there was no union of [soul and body](/axes/soul_body). For from the
 union of soul and body in us a person or a human hypostasis is caused. Hence if the soul and body
@@ -1112,7 +1120,7 @@ Secondo, questa affermazione di Damascene può essere intesa non come riferita a
 
 Risposta all’Obiezione 3: Esistono due principi della vita corporea: uno è il principio efficace; in questo senso, la Parola di Dio è il principio di tutta la vita; l’altro è il principio formale della vita, poiché, come afferma il Filosofo (De Anima ii, 37), “per gli esseri viventi essere significa vivere”. Proprio come tutto è formalmente determinato dalla propria forma, così anche il corpo vive grazie all’anima: in questo modo, un corpo non potrebbe vivere attraverso la Parola di Dio, poiché questa non può essere considerata una forma corporea.
 
-<span class="atom-split" data-atom="015" data-title="Whether the human nature was united to the Word of God accidentally? (parte 1)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the human nature was united to the Word of God accidentally? (parte 1)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the [human nature](/axes/human_nature) was united to the Word of God accidentally.
 For the Apostle says (Phil. 2:7) of the Son of God, that He was "in [habit](/concepts/custom) found as a man." But habit
@@ -1237,7 +1245,7 @@ Risposta all’Obiezione 2: Quello che accade dopo la completazione dell’esist
 
 Risposta all’Obiezione 3: L’accidente viene contrapposto alla sostanza. Ora, la sostanza, come è chiaro dalla Metafisica V, 25, può essere intesa in due modi: in primo luogo, come essenza o natura; in secondo luogo, come suppositum o ipostasi. Pertanto, il fatto che l’unione si sia verificata a livello dell’ipostasi è sufficiente per dimostrare che non si tratta di un’unione accidentale, anche se l’unione stessa non ha avuto luogo a livello dell’essenza o della natura.
 
-<span class="atom-split" data-atom="016" data-title="Whether the human nature was united to the Word of God accidentally? (parte 2)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether the human nature was united to the Word of God accidentally? (parte 2)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 4: Not everything that is assumed as an instrument pertains to the hypostasis
 of the one who assumes, as is plain in the case of a saw or a sword; yet nothing prevents what is
@@ -1253,7 +1261,7 @@ in Christ is an instrument belonging to the unity of the hypostasis.
 
 Risposta all’Obiezione 4: Non tutto ciò che viene assunto come strumento appartiene alla stessa ipostasi di colui che lo assume, come è evidente nel caso di una sega o di una spada; tuttavia nulla impedisce che ciò che viene assunto entri a far parte dell’unità della stessa ipostasia e venga utilizzato come strumento, proprio come il corpo umano o i suoi membri. Per questo motivo Nestorio sosteneva che la [natura umana](/axes/human_nature) fosse stata assunta dal Verbo soltanto come strumento, e non nell’unità della stessa ipostasia. Pertanto, non ammetteva che l’uomo fosse veramente il Figlio di Dio, ma soltanto il suo strumento. Così dice Cirillo nell’Epistola ai Monaci d’Egitto: “La [Scritura](/concepts/revelation) non afferma che questo Emmanuel, cioè Cristo, sia stato assunto per svolgere la funzione di uno strumento, ma che sia diventato veramente umano”. Al contrario, Damasceno riteneva che la natura umana in Cristo fosse uno strumento che faceva parte dell’unità della stessa ipostasia.
 
-<span class="atom-split" data-atom="017" data-title="Whether the union of the Divine nature and the human is anything created?" data-chapter="Whether the union of the Divine nature and the human is anything created?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the union of the Divine nature and the human is anything created?" data-chapter="Whether the union of the Divine nature and the human is anything created?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the union of the Divine and human natures is not anything
 created. For there can be nothing created in God, because whatever is in God is God. But the union
@@ -1311,7 +1319,7 @@ Risposta all’Obiezione 2: La natura specifica di una relazione, come quella de
 
 Risposta all’Obiezione 3: Un uomo viene chiamato Creatore e Dio a causa di quell’unione che si conclude nella ipostasi divina; tuttavia ciò non significa che l’unione stessa sia il Creatore o Dio, poiché quando si dice che qualcosa è stato creato, ci si riferisce al suo essere piuttosto che alla sua relazione.
 
-<span class="atom-split" data-atom="018" data-title="Whether union is the same as assumption?" data-chapter="Whether union is the same as assumption?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether union is the same as assumption?" data-chapter="Whether union is the same as assumption?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that union is the same as assumption. For relations, as motions,
 are specified by their termini. Now the term of assumption and union is one and the same, viz. the
@@ -1381,7 +1389,7 @@ Risposta all’Obiezione 2: Ciò che unisce e ciò che assorbe non sono la stess
 
 Risposta all’Obiezione 3: L’assunzione determina, da parte di colui che assume, con chi avvenga l’unione, poiché assumere significa “prendersi qualcosa per sé” [ad se sumere]; invece l’incarnazione e l’umanizzazione determinano, da parte della cosa assunta – ovvero della carne o della natura umana – con chi avvenga tale unione. Pertanto, l’assunzione differisce logicamente sia dall’unione che dall’incarnazione o dall’umanizzazione.
 
-<span class="atom-split" data-atom="019" data-title="Whether the union of the two natures in Christ is the greatest of all unions?" data-chapter="Whether the union of the two natures in Christ is the greatest of all unions?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether the union of the two natures in Christ is the greatest of all unions?" data-chapter="Whether the union of the two natures in Christ is the greatest of all unions?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the union of the two natures in Christ is not the greatest of all
 unions. For what is united falls short of the unity of what is one, since what is united is by
@@ -1434,7 +1442,7 @@ the Son in the Father---namely, inasmuch as the same suppositum is signified whe
 meaning Christ, and when I say "Son of God"; whereas it is not the same suppositum of Father and
 Son.
 
-<span class="atom-split" data-atom="020" data-title="Whether the union of the Incarnation took place by grace?" data-chapter="Whether the union of the Incarnation took place by grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether the union of the Incarnation took place by grace?" data-chapter="Whether the union of the Incarnation took place by grace?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,assi/human_nature,concepts/grace,figures/augustine"></span>
 
 Objection 1: It would seem that the union of the Incarnation did not take place by grace. For
 grace is an accident, as was shown above (FS, Q[110], A[2]). But the union of the [human nature](/axes/human_nature)
@@ -1485,7 +1493,7 @@ secondly, by sanctifying grace, as in the saints; thirdly, by personal union, wh
 Hence the reply to the third is manifest, viz. because the union of the Incarnation did not take
 place by habitual grace alone, but in subsistence or person.
 
-<span class="atom-split" data-atom="021" data-title="Whether any merits preceded the union of the Incarnation?" data-chapter="Whether any merits preceded the union of the Incarnation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether any merits preceded the union of the Incarnation?" data-chapter="Whether any merits preceded the union of the Incarnation?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/beatitude,concepts/grace,figures/augustine"></span>
 
 Objection 1: It would seem that the union of the Incarnation followed upon certain merits,
 because upon Ps. 32:22, "Let Thy mercy, o Lord, be upon us, as," etc. a gloss says: "Here the
@@ -1541,7 +1549,7 @@ Reply to Objection 3: The Blessed Virgin is said to have merited to bear the Lor
 that she merited His Incarnation, but because by the grace bestowed upon her she merited that grade
 of purity and holiness, which fitted her to be the Mother of God.
 
-<span class="atom-split" data-atom="022" data-title="Whether the grace of union was natural to the man Christ?" data-chapter="Whether the grace of union was natural to the man Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the grace of union was natural to the man Christ?" data-chapter="Whether the grace of union was natural to the man Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the grace of union was not natural to the man Christ. For the
 union of the Incarnation did not take place in the nature, but in the Person, as was said above (A[2]).
@@ -1603,7 +1611,7 @@ are eight points of inquiry:
 (8) Whether it was more fitting for the Person of the Son of God to assume human nature than
 for another Divine Person?
 
-<span class="atom-split" data-atom="023" data-title="Whether it is befitting for a Divine Person to assume?" data-chapter="Whether it is befitting for a Divine Person to assume?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether it is befitting for a Divine Person to assume?" data-chapter="Whether it is befitting for a Divine Person to assume?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/eternity,concepts/infinity,figures/augustine"></span>
 
 Objection 1: It would seem that it is not befitting to a Divine Person to assume a created nature.
 For a Divine Person signifies something most perfect. Now no addition can be made to what is
@@ -1668,7 +1676,7 @@ Risposta all’Obiezione 2: Si dice che una Persona Divina sia “incomunicabile
 
 Risposta all’Obiezione 3: Come è stato detto sopra (Q[2], A[1]), l’[natura umana](/axes/human_nature) costituisce una Persona Divina, non semplicemente, ma perché tale Persona deriva proprio da questa natura. Infatti, la natura umana non rende il Figlio dell’Uomo “solo” umano, poiché Egli esisteva già dall’[eternità](/positions/eternity); essa lo rende soltanto uomo. È grazie alla Natura Divina che una Persona Divina viene effettivamente costituita come tale. Pertanto, non si dice che la Persona Divina “assuma” la Natura Divina, ma piuttosto che assume la natura umana.
 
-<span class="atom-split" data-atom="024" data-title="Whether it is befitting to the Divine Nature to assume?" data-chapter="Whether it is befitting to the Divine Nature to assume?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether it is befitting to the Divine Nature to assume?" data-chapter="Whether it is befitting to the Divine Nature to assume?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not befitting to the Divine Nature to assume. Because, as
 was said above (A[1]), to assume is to take to oneself. But the Divine Nature did not take to Itself
@@ -1729,7 +1737,7 @@ Risposta all’Obiezione 2: Ciò che è degno della Natura Divina in sé stesso 
 
 Risposta all’Obiezione 3: Così come in Dio “ciò che è” e “il modo in cui esiste” sono la stessa cosa, allo stesso modo in Lui “ciò che agisce” e “il modo in cui agisce” sono la stessa cosa; poiché tutto agisce, nella misura in cui è un essere. Pertanto, la Natura Divina è sia ciò mediante il quale Dio agisce, sia lo stesso Dio che agisce.
 
-<span class="atom-split" data-atom="025" data-title="Whether the Nature abstracted from the Personality can assume?" data-chapter="Whether the Nature abstracted from the Personality can assume?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the Nature abstracted from the Personality can assume?" data-chapter="Whether the Nature abstracted from the Personality can assume?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that if we abstract the Personality by our mind, the Nature cannot
 assume. For it was said above (A[1]) that it belongs to the Nature to assume by reason of the Person.
@@ -1798,7 +1806,7 @@ Risposta all’Obiezione 2: Anche se le proprietà personali delle Tre Persone v
 
 Risposta all’Obiezione 3: Se astraiamo mentalmente la nozione di “Personalità”, si sostiene che non rimanga nulla in termini di distinzione logica tra il soggetto della relazione e la relazione stessa, poiché tutto ciò che possiamo considerare riguardo a Dio viene inteso come un semplice presupposto esistente. Tuttavia, alcune delle qualità attribuite a Dio possono essere comprese senza altre, non attraverso processi di astrazione logica, ma secondo il metodo menzionato in precedenza.
 
-<span class="atom-split" data-atom="026" data-title="Whether one Person without another can assume a created nature?" data-chapter="Whether one Person without another can assume a created nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether one Person without another can assume a created nature?" data-chapter="Whether one Person without another can assume a created nature?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one Person cannot assume a created nature without another
 assuming it. For "the works of the Trinity are inseparable," as [Augustine](/figures/augustine) says (Enchiridion xxxviii).
@@ -1857,7 +1865,7 @@ Risposta all’Obiezione 2: Si afferma che la Natura Divina sia incarnata e che 
 
 Risposta all’Obiezione 3: L’assunzione che avviene per grazia dell’adozione termina in una certa partecipazione alla Natura Divina, attraverso un’assimilazione alla Sua bontà, secondo quanto si legge in 2 Petri 1:4: “Affinché possiate diventare partecipi della Natura Divina”; pertanto questa assunzione è comune alle tre Persone della Trinità, sia riguardo al principio che al termine. Tuttavia, l’assunzione che avviene per grazia dell’unione è comune soltanto riguardo al principio, ma non anche al termine, come già detto in precedenza.
 
-<span class="atom-split" data-atom="027" data-title="Whether each of the Divine Persons could have assumed human nature?" data-chapter="Whether each of the Divine Persons could have assumed human nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether each of the Divine Persons could have assumed human nature?" data-chapter="Whether each of the Divine Persons could have assumed human nature?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/nature,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no other Divine Person could have assumed [human nature](/axes/human_nature)
 except the Person of the Son. For by this assumption it has been brought about that God is the Son
@@ -1928,7 +1936,7 @@ Risposta all’Obiezione 2: La filiazione adottiva rappresenta una certa forma d
 
 Risposta all’Obiezione 3: Spetta al Padre essere “innascibile” riguardo alla sua nascita eterna; una nascita temporale non distruggerebbe questa caratteristica. Tuttavia, si dice che il Figlio di Dio sia stato inviato in relazione all’Incarnazione, poiché proviene da un altro essere; senza questo elemento, l’Incarnazione non sarebbe stata sufficiente per adempiere alla natura della sua missione.
 
-<span class="atom-split" data-atom="028" data-title="Whether several Divine Persons can assume one and the same individual nature?" data-chapter="Whether several Divine Persons can assume one and the same individual nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether several Divine Persons can assume one and the same individual nature?" data-chapter="Whether several Divine Persons can assume one and the same individual nature?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that two Divine Persons cannot assume one and the same individual
 nature. For, this being granted, there would either be several men or one. But not several, for just
@@ -2013,7 +2021,7 @@ Risposta all’Obiezione 2: In questa ipotesi, si assumerebbe che la natura uman
 
 Risposta all’Obiezione 3: Nel mistero dell’Incarnazione si verifica una comunicazione delle proprietà appartenenti alla natura umana, poiché tutto ciò che appartiene alla natura umana può essere attribuito alla Persona del Padre che esiste in quella natura, indipendentemente dal fatto che tale attributo si riferisca alla natura umana o a quella divina. Pertanto, nella persona del Padre possono essere attribuiti sia i tratti della natura umana che quelli della natura divina; lo stesso vale per la persona del Figlio e dello Spirito Santo. Tuttavia, ciò che appartiene alla persona del Padre in virtù della sua essenza propria non potrebbe essere attribuito alla persona del Figlio o dello Spirito Santo a causa della distinzione delle persone divine. Si potrebbe quindi dire che, così come il Padre è “non generato”, allo stesso modo anche l’uomo è “non generato”, nel senso che il termine “uomo” indica appunto la persona del Padre. Tuttavia, se si continuasse a sostenere che “l’uomo è non generato; il Figlio è uomo; pertanto il Figlio è non generato”, ciò costituirebbe un errore logico, analogo alla fallacia basata su una somiglianza accidentale; proprio come oggi diciamo che Dio è “non generato” perché il Padre lo è, ma questo non ci permette di concludere che anche il Figlio sia “non generato”, sebbene anch’Egli sia Dio.
 
-<span class="atom-split" data-atom="029" data-title="Whether one Divine Person can assume two human natures?" data-chapter="Whether one Divine Person can assume two human natures?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether one Divine Person can assume two human natures?" data-chapter="Whether one Divine Person can assume two human natures?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one Divine Person cannot assume two human natures. For the
 nature assumed in the mystery of the Incarnation has no other suppositum than the suppositum of
@@ -2104,7 +2112,7 @@ Risposta all’Obiezione 2: Potrebbe sembrare possibile affermare che, in una ta
 
 Risposta all’Obiezione 3: La natura divina e quella umana non hanno lo stesso rapporto con la Persona Divina; la natura divina è in relazione con essa innanzitutto, poiché è una cosa con essa fin dall’[eternità](/positions/eternity); successivamente, la natura umana entra in relazione con la Persona Divina, nel senso che viene assunta da questa nella dimensione temporale. Non si tratta però di un’unione tra le due nature, ma piuttosto del fatto che la Persona di Dio esiste all’interno della natura umana. Il Figlio di Dio è infatti la Sua divinità, ma non la Sua umanità. Pertanto, affinché la natura umana possa essere assunta dalla Persona Divina, è necessario che la natura divina si unisca personalmente a tutta la natura umana assunta, cioè a tutte le sue parti. Nelle due nature assunte esisterebbe però un rapporto uniforme con la Persona Divina; inoltre, una delle due nature non assumerebbe l’altra. Di conseguenza, non sarebbe necessario che una di esse si unisse completamente all’altra, cioè che tutte le parti di una natura si combinassero con tutte le parti dell’altra.
 
-<span class="atom-split" data-atom="030" data-title="Whether it was more fitting that the Person of the Son rather than any other Divine Person should assume human nature?" data-chapter="Whether it was more fitting that the Person of the Son rather than any other Divine Person should assume human nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether it was more fitting that the Person of the Son rather than any other Divine Person should assume human nature?" data-chapter="Whether it was more fitting that the Person of the Son rather than any other Divine Person should assume human nature?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not more fitting that the Son of God should become
 incarnate than the Father or the Holy Ghost. For by the mystery of the Incarnation men are led to
@@ -2194,7 +2202,7 @@ Risposta all’Obiezione 2: La prima creazione delle cose fu realizzata per mezz
 
 Risposta all’Obiezione 3: Essere il dono del Padre e del Figlio è proprio dello Spirito Santo. Tuttavia, la remissione dei peccati è opera dello Spirito Santo, come di un dono di Dio. Pertanto, era più appropriato per la giustificazione dell’uomo che il Figlio si incarnasse, poiché lo Spirito Santo è proprio quel dono del Figlio.
 
-<span class="atom-split" data-atom="031" data-title="OF THE MODE OF UNION ON THE PART OF THE HUMAN NATURE (SIX ARTICLES)" data-chapter="OF THE MODE OF UNION ON THE PART OF THE HUMAN NATURE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="OF THE MODE OF UNION ON THE PART OF THE HUMAN NATURE (SIX ARTICLES)" data-chapter="OF THE MODE OF UNION ON THE PART OF THE HUMAN NATURE (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the union on the part of what was assumed. About which we must
 consider first what things were assumed by the Word of God; secondly, what were co-assumed,
@@ -2224,7 +2232,7 @@ Sotto il primo aspetto, vi sono sei punti da esaminare:
 (5) Era appropriato che assumesse la natura umana nella sua totalità, compresi tutti gli individui?  
 (6) Era appropriato che assumesse la natura umana in qualsiasi uomo discendente da Adamo?
 
-<span class="atom-split" data-atom="032" data-title="Whether human nature was more assumable by the Son of God than any other nature?" data-chapter="Whether human nature was more assumable by the Son of God than any other nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether human nature was more assumable by the Son of God than any other nature?" data-chapter="Whether human nature was more assumable by the Son of God than any other nature?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [human nature](/axes/human_nature) is not more capable of being assumed by the
 Son of God than any other nature. For [Augustine](/figures/augustine) says (Ep. ad Volusianum cxxxvii): "In deeds
@@ -2319,7 +2327,7 @@ Risposta all’Obiezione 3: Alcuni affermano che gli angeli non possano essere a
 
 Risposta all’Obiezione 4: La perfezione dell’universo non è la perfezione di una singola persona o entità, ma quella di qualcosa che è unitario in termini di posizione o ordine; molte delle sue parti, come già detto in precedenza, non sono suscettibili di essere “assunte” o considerate separatamente. Pertanto, solo la natura umana è in grado di essere considerata un’entità unitaria nel contesto dell’universo.
 
-<span class="atom-split" data-atom="033" data-title="Whether the Son of God assumed a person?" data-chapter="Whether the Son of God assumed a person?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether the Son of God assumed a person?" data-chapter="Whether the Son of God assumed a person?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Son of God assumed a person. For Damascene says (De
 Fide Orth. iii, 11) that the Son of God "assumed [human nature](/axes/human_nature) 'in atomo,'" i.e. in an individual. But
@@ -2377,7 +2385,7 @@ Risposta all’Obiezione 2: La sua vera natura non consiste nella perdita di ci�
 
 Risposta all’Obiezione 3: L’‘assorbimento’, in questo contesto, non implica la distruzione di nulla che esistesse già prima, ma piuttosto l’impedimento a ciò che altrimenti avrebbe potuto verificarsi. Infatti, se la natura umana non fosse stata assunta da una Persona Divina, essa avrebbe avuto una propria personalità; ed è per questo motivo che si dice, anche se in modo improprio, che quella Persona “ha assorbito” la natura umana, nel senso che l’unione con la Persona Divina ha impedito alla natura umana di sviluppare una propria individualità.
 
-<span class="atom-split" data-atom="034" data-title="Whether the Divine Person assumed a man?" data-chapter="Whether the Divine Person assumed a man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether the Divine Person assumed a man?" data-chapter="Whether the Divine Person assumed a man?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/nature,figures/augustine"></span>
 
 Objection 1: It would seem that the Divine Person assumed a man. For it is written (Ps. 64:5):
 "Blessed is he whom Thou hast chosen and taken to Thee," which a gloss expounds of Christ; and
@@ -2437,7 +2445,7 @@ Risposta all’Obiezione 2: La parola “uomo” indica la natura umana nel suo 
 
 Risposta all’Obiezione 3: Il Figlio di Dio non è l’uomo che ha assunto, ma l’uomo il cui essere umano ha assunto.
 
-<span class="atom-split" data-atom="035" data-title="Whether the Son of God ought to have assumed human nature abstracted from all individuals?" data-chapter="Whether the Son of God ought to have assumed human nature abstracted from all individuals?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether the Son of God ought to have assumed human nature abstracted from all individuals?" data-chapter="Whether the Son of God ought to have assumed human nature abstracted from all individuals?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Son of God ought to have assumed [human nature](/axes/human_nature) abstracted
 from all individuals. For the assumption of human nature took place for the common salvation of
@@ -2514,7 +2522,7 @@ Risposta all’Obiezione 2: L’uomo che esiste di per sé non si trova nella na
 
 Risposta all’Obiezione 3: Sebbene la natura umana non venga presa in considerazione in modo concreto, come se il presupposto fosse già dato prima della stessa ipotesi, essa viene comunque considerata a livello individuale, poiché viene presa in considerazione proprio nel contesto dell’individuo.
 
-<span class="atom-split" data-atom="036" data-title="Whether the Son of God ought to have assumed human nature in all individuals?" data-chapter="Whether the Son of God ought to have assumed human nature in all individuals?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Whether the Son of God ought to have assumed human nature in all individuals?" data-chapter="Whether the Son of God ought to have assumed human nature in all individuals?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Son of God ought to have assumed [human nature](/axes/human_nature) in all
 individuals. For what is assumed first and by itself is human nature. But what belongs essentially
@@ -2581,7 +2589,7 @@ Risposta all’Obiezione 2: L’amore di Dio per gli uomini si manifesta non sol
 
 Risposta all’Obiezione 3: Al fine di abbreviare il percorso, come fa ogni lavoratore abile, ciò che può essere fatto da una sola persona non deve necessariamente essere fatto da molte persone. Pertanto era assolutamente appropriato che fosse un solo individuo a compiere tutte le operazioni necessarie per salvare gli altri.
 
-<span class="atom-split" data-atom="037" data-title="Whether it was fitting for the Son of God to assume human nature of the stock of Adam?" data-chapter="Whether it was fitting for the Son of God to assume human nature of the stock of Adam?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether it was fitting for the Son of God to assume human nature of the stock of Adam?" data-chapter="Whether it was fitting for the Son of God to assume human nature of the stock of Adam?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,concepts/justice,figures/augustine"></span>
 
 Objection 1: It would seem that it was not fitting for the Son of God to assume [human nature](/axes/human_nature)
 of the stock of Adam, for the Apostle says (Heb. 7:26): "For it was fitting that we should have such
@@ -2647,7 +2655,7 @@ Risposta all’Obiezione 2: Come è stato detto sopra (al punto 1), Colui che ve
 
 Risposta all’Obiezione 3: Poiché Cristo doveva essere particolarmente separato dai peccatori in termini di peccato e possedere l’innocenza suprema, era appropriato che tra il primo peccatore e Cristo vi fossero alcuni uomini giusti, nei quali si potessero intravedere alcune anticipazioni della Sua futura santità. Pertanto, anche tra il popolo dal quale Cristo avrebbe dovuto nascere, Dio instituì segni di santità: questi iniziarono con Abramo, che fu il primo ad ricevere la promessa di Cristo, e con la circoncisione, come simbolo del rispetto dell’alleanza, come è scritto (Genesi 17:11).
 
-<span class="atom-split" data-atom="038" data-title="OF THE PARTS OF HUMAN NATURE WHICH WERE ASSUMED (FOUR ARTICLES)" data-chapter="OF THE PARTS OF HUMAN NATURE WHICH WERE ASSUMED (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="OF THE PARTS OF HUMAN NATURE WHICH WERE ASSUMED (FOUR ARTICLES)" data-chapter="OF THE PARTS OF HUMAN NATURE WHICH WERE ASSUMED (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,assi/soul_body,concepts/soul"></span>
 
 We must now consider the assumption of the parts of [human nature](/axes/human_nature); and under this head there
 are four points of inquiry:
@@ -2664,7 +2672,7 @@ Dobbiamo ora esaminare l’ipotesi relativa alle componenti della [natura umana]
 (3) Se dovesse aver assunto un’anima;
 (4) Se dovesse aver assunto un’intelligenza.
 
-<span class="atom-split" data-atom="039" data-title="Whether the Son of God ought to have assumed a true body?" data-chapter="Whether the Son of God ought to have assumed a true body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the Son of God ought to have assumed a true body?" data-chapter="Whether the Son of God ought to have assumed a true body?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Son of God did not assume a true body. For it is written
 (Phil. 2:7), that He was "made in the likeness of men." But what is something in truth is not said
@@ -2720,7 +2728,7 @@ apparition of the Son of God in the world should be in a real body, being the th
 these figures. Hence the Apostle says (Col. 2:17): "Which are a shadow of things to come, but the
 body is Christ's."
 
-<span class="atom-split" data-atom="040" data-title="Whether the Son of God ought to have assumed a carnal or earthly body?" data-chapter="Whether the Son of God ought to have assumed a carnal or earthly body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Whether the Son of God ought to have assumed a carnal or earthly body?" data-chapter="Whether the Son of God ought to have assumed a carnal or earthly body?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ had not a carnal or earthly, but a heavenly body. For
 the Apostle says (1 Cor. 15:41): "The first man was of the earth, earthy; the second man from
@@ -2795,7 +2803,7 @@ Risposta all’Obiezione 2: Qui il “carne e sangue” non vengono intesi come 
 
 Risposta all’Obiezione 3: Il fatto che Dio abbia elevato un corpo debole e terreno a tale sublimità costituisce la sua più grande gloria. Pertanto, nel Concilio Generale di Efeso (P. II, Atto I) leggiamo le parole di San Teofilo: “Proprio come i migliori artigiani vengono apprezzati non solo per la maestria con cui utilizzano materiali preziosi, ma spesso anche perché, impiegando i materiali più umili e comuni, dimostrano la potenza della loro arte; allo stesso modo, il migliore di tutti gli artigiani, la Parola di Dio, non è discesa tra noi assumendo un corpo celeste fatto di materiale prezioso, ma ha mostrato la grandezza della Sua abilità nell’uso dell’argilla.”
 
-<span class="atom-split" data-atom="041" data-title="Whether the Son of God assumed a soul?" data-chapter="Whether the Son of God assumed a soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether the Son of God assumed a soul?" data-chapter="Whether the Son of God assumed a soul?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Son of God did not assume a soul. For John has said,
 teaching the mystery of the Incarnation (Jn. 1:14): "The Word was made flesh"---no mention being
@@ -2872,7 +2880,7 @@ a nature which was constituted by the soul coming to the body. But Damascene den
 Christ there was a common species, i.e. a third something resulting from the Godhead and the
 humanity.
 
-<span class="atom-split" data-atom="042" data-title="Whether the Son of God assumed a human mind or intellect?" data-chapter="Whether the Son of God assumed a human mind or intellect?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether the Son of God assumed a human mind or intellect?" data-chapter="Whether the Son of God assumed a human mind or intellect?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/soul,figures/augustine"></span>
 
 Objection 1: It would seem that the Son of God did not assume a human mind or intellect. For
 where a thing is present, its image is not required. But man is made to God's image, as regards his
@@ -2955,7 +2963,7 @@ Risposta all’Obiezione 2: La luce più intensa offusca la luce meno intensa di
 
 Risposta all’Obiezione 3: Sebbene la facoltà intellettiva non sia un atto del corpo, l’essenza dell’anima umana, che è la forma di quel corpo, richiede che essa sia di natura più nobile, affinché possa disporre della capacità di comprendere; pertanto è necessario che vi corrisponda un corpo meglio strutturato.
 
-<span class="atom-split" data-atom="043" data-title="OF THE ORDER OF ASSUMPTION (SIX ARTICLES)" data-chapter="OF THE ORDER OF ASSUMPTION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="OF THE ORDER OF ASSUMPTION (SIX ARTICLES)" data-chapter="OF THE ORDER OF ASSUMPTION (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/soul,concepts/grace,forms/quaestio"></span>
 
 We must now consider the order of the foregoing assumption, and under this head there are six
 points of inquiry:
@@ -2976,7 +2984,7 @@ Dobbiamo ora considerare l’ordine delle suddette ipotesi; in questo ambito vi 
 (5) Se l’intera [natura umana](/axes/human_nature) sia stata assunta attraverso le sue singole parti;  
 (6) Se sia stata assunta attraverso il mezzo della grazia.
 
-<span class="atom-split" data-atom="044" data-title="Whether the Son of God assumed flesh through the medium of the soul?" data-chapter="Whether the Son of God assumed flesh through the medium of the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="Whether the Son of God assumed flesh through the medium of the soul?" data-chapter="Whether the Son of God assumed flesh through the medium of the soul?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Son of God did not assume flesh through the medium of
 the soul. For the mode in which the Son of God is united to [human nature](/axes/human_nature) and its parts, is more
@@ -3040,7 +3048,7 @@ account of her [beauty](/concepts/beauty), which makes a woman's fittingness for
 passes away, the marriage tie still remains. So likewise, when the soul was separated, the union of
 the Word with flesh still endured.
 
-<span class="atom-split" data-atom="045" data-title="Whether the Son of God assumed a soul through the medium of the spirit or mind?" data-chapter="Whether the Son of God assumed a soul through the medium of the spirit or mind?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether the Son of God assumed a soul through the medium of the spirit or mind?" data-chapter="Whether the Son of God assumed a soul through the medium of the spirit or mind?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Son of God did not assume a soul through the medium of
 the spirit or mind. For nothing is a medium between itself and another. But the spirit is nothing else
@@ -3081,7 +3089,7 @@ Reply to Objection 3: The soul, between which and the Word of God the intellect 
 be a medium, does not stand for the essence of the soul, which is common to all the powers, but
 for the lower powers, which are common to every soul.
 
-<span class="atom-split" data-atom="046" data-title="Whether the soul was assumed before the flesh by the Son of God?" data-chapter="Whether the soul was assumed before the flesh by the Son of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether the soul was assumed before the flesh by the Son of God?" data-chapter="Whether the soul was assumed before the flesh by the Son of God?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/soul,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the soul of Christ was assumed before the flesh by the Word.
 For the Son of God assumed flesh through the medium of the soul, as was said above (A[1]). Now
@@ -3158,7 +3166,7 @@ Risposta all’Obiezione 2: Come afferma Papa Leone nella stessa Epistola, l’a
 
 Risposta all’Obiezione 3: Tutti gli uomini ricevono la pienezza di Cristo in proporzione alla fede che hanno in Lui; infatti è scritto (Romani 3:22) che “la giustizia di Dio si attua per fede in Gesù Cristo, verso tutti coloro che credono in Lui”. Proprio come noi crediamo che Cristo sia già nato, gli antichi credevano che Egli stesse per nascere, poiché “avendo lo stesso spirito di fede, anche noi crediamo”, come è scritto (2 Corinzi 4:13). Ma la fede in Cristo possiede il potere di giustificare, grazie allo scopo della grazia di Dio, secondo quanto riportato in Romani 4:5: “Ma colui che non opera, ma crede in Colui che giustifica i malvagi, la sua fede è reputata giustizia, secondo lo scopo della grazia di Dio”. Pertanto, poiché questo scopo è eterno, nulla può impedire ad alcuno di essere giustificato per la fede in Gesù Cristo, anche prima che la sua anima fosse piena di grazia e verità.
 
-<span class="atom-split" data-atom="047" data-title="Whether the flesh of Christ was assumed by the Word before being united to the soul?" data-chapter="Whether the flesh of Christ was assumed by the Word before being united to the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Whether the flesh of Christ was assumed by the Word before being united to the soul?" data-chapter="Whether the flesh of Christ was assumed by the Word before being united to the soul?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/forma_substantialis,concepts/act_potency,figures/augustine"></span>
 
 Objection 1: It would seem that the flesh of Christ was assumed by the Word before being
 united to the soul. For [Augustine](/figures/augustine) [*Fulgentius] says (De Fide ad Petrum xviii): "Most firmly hold,
@@ -3232,7 +3240,7 @@ Risposta all’Obiezione 2: La forma fornisce effettivamente la specie; ma la ma
 
 Risposta all’Obiezione 3: Si intende che la Parola di Dio sia unita alla carne prima che lo sia all’anima, attraverso lo stesso modo con cui essa è presente nelle altre creature per essenza, potere e presenza. Tuttavia, dico “prima” non in termini di tempo, ma di natura; infatti la carne viene considerata un essere che riceve dalla Parola prima ancora di essere considerata animata, cioè dotata di vita spirituale, grazie all’anima. Ma con l’unione personale si intende che la carne sia unita all’anima prima ancora di essere unita alla Parola in Persona; infatti è proprio dall’unione con l’anima che la carne diventa capace di unirsi alla Parola in Persona; soprattutto perché una “persona” esiste soltanto nella natura razionale.
 
-<span class="atom-split" data-atom="048" data-title="Whether the whole human nature was assumed through the medium of the parts?" data-chapter="Whether the whole human nature was assumed through the medium of the parts?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether the whole human nature was assumed through the medium of the parts?" data-chapter="Whether the whole human nature was assumed through the medium of the parts?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Son of God assumed the whole [human nature](/axes/human_nature) through the
 medium of its parts. For [Augustine](/figures/augustine) says (De Agone Christ. xviii) that "the invisible and unchangeable
@@ -3301,7 +3309,7 @@ Risposta all’Obiezione 2: Dio è così semplice che è anche il più perfetto;
 
 Risposta all’Obiezione 3: Si tratta di un’unione personale in cui l’assunzione di determinati caratteri termina al momento della formazione dell’unione stessa, e non di un’unione naturale che scaturisce dalla congiunzione di parti.
 
-<span class="atom-split" data-atom="049" data-title="Whether the human nature was assumed through the medium of grace?" data-chapter="Whether the human nature was assumed through the medium of grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Whether the human nature was assumed through the medium of grace?" data-chapter="Whether the human nature was assumed through the medium of grace?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/grace,concepts/four_causes,figures/augustine"></span>
 
 Objection 1: It would seem that the Son of God assumed [human nature](/axes/human_nature) through the medium
 of grace. For by grace we are united to God. But the human nature in Christ was most closely united
@@ -3365,7 +3373,7 @@ Risposta all’Obiezione 2: L’anima è la perfezione sostanziale del corpo; la
 
 Risposta all’Obiezione 3: La nostra parola è unita al nostro discorso attraverso il respiro [spiritus], non come mezzo formale, ma come mezzo che agisce dinamicamente. Infatti, dalla parola concepita interiormente deriva il respiro, e da questo si forma il discorso. Allo stesso modo, dalla Parola eterna deriva lo Spirito Santo, che ha formato il corpo di Cristo, come verrà dimostrato in (Q[32], A[1]). Tuttavia, ciò non significa affatto che la grazia dello Spirito Santo sia il mezzo formale nell’unione menzionata.
 
-<span class="atom-split" data-atom="050" data-title="OF THE GRACE OF CHRIST AS AN INDIVIDUAL MAN (THIRTEEN ARTICLES)" data-chapter="OF THE GRACE OF CHRIST AS AN INDIVIDUAL MAN (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="OF THE GRACE OF CHRIST AS AN INDIVIDUAL MAN (THIRTEEN ARTICLES)" data-chapter="OF THE GRACE OF CHRIST AS AN INDIVIDUAL MAN (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/virtue,concepts/theological_virtues,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider such things as were co-assumed by the Son of God in [human nature](/axes/human_nature);
 and first what belongs to perfection; secondly, what belongs to defect.
@@ -3392,7 +3400,7 @@ Under the first head there are thirteen points of inquiry:
 
 Dobbiamo ora considerare quelle caratteristiche che il Figlio di Dio condivise nella [natura umana](/axes/human_nature); innanzitutto ciò che appartiene alla perfezione, e in secondo luogo ciò che riguarda i difetti. Per quanto riguarda la perfezione, vi sono tre aspetti da considerare: (1) La grazia di Cristo; (2) La Sua conoscenza; (3) Il Suo potere. Per quanto riguarda la Sua grazia, dobbiamo prendere in considerazione due aspetti: (1) La Sua grazia come individuo umano; (2) La Sua grazia come Capo della Chiesa. Della grazia dell’unione abbiamo già parlato (Q[2]). All’interno del primo ambito di riflessione vi sono tredici punti da esaminare: (1) Esisteva nella anima di Cristo qualche grazia abituale? (2) Possedeva Cristo delle virtù? (3) Aveva fede? (4) Aveva speranza? (5) Possedeva Cristo i doni dello Spirito Santo? (6) Possedeva il dono della paura? (7) Esistevano in Cristo alcune grazie gratuite? (8) Possedeva Cristo la profezia? (9) Era in Lui la pienezza di grazia? (10) Questa pienezza era propria esclusivamente di Cristo? (11) La grazia di Cristo era infinita? (12) Poteva essere aumentata? (13) In che modo questa grazia si relazionava all’unione con Dio?
 
-<span class="atom-split" data-atom="051" data-title="Whether in the Soul of Christ there was any habitual grace?" data-chapter="Whether in the Soul of Christ there was any habitual grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="Whether in the Soul of Christ there was any habitual grace?" data-chapter="Whether in the Soul of Christ there was any habitual grace?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem there was no habitual grace in the soul assumed by the Word. For
 grace is a certain partaking of the Godhead by the rational creature, according to 2 Pet. 1:4: "By
@@ -3465,7 +3473,7 @@ Risposta all’Obiezione 2: A Cristo, in quanto Figlio naturale di Dio, spetta u
 
 Risposta all’Obiezione 3: L’umanità di Cristo è lo strumento della divinità – non certo uno strumento inanimato che non agisce affatto, ma piuttosto uno strumento animato da un’anima razionale, la quale viene influenzata in modo tale da poter agire. E proprio per questo motivo, la natura di tale azione richiedeva che Cristo possedesse una grazia abituale.
 
-<span class="atom-split" data-atom="052" data-title="Whether in Christ there were virtues?" data-chapter="Whether in Christ there were virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="Whether in Christ there were virtues?" data-chapter="Whether in Christ there were virtues?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there were no virtues. For Christ had the plenitude
 of grace. Now grace is sufficient for every good act, according to 2 Cor. 12:9: "My grace is sufficient
@@ -3535,7 +3543,7 @@ Risposta all’Obiezione 2: Un’abitudine eroica o divina si differenzia dalla 
 
 Risposta all’Obiezione 3: La liberalità e la magnanimità sono degne di lode in relazione alle ricchezze, nella misura in cui nessuno apprezza il denaro al punto da volerlo trattenere a tutti i costi, rinunciando così a ciò che è doveroso fare. Tuttavia, colui che disprezza completamente le ricchezze e le scarta per amore della perfezione le apprezza di meno di ogni altro. Ecco perché Cristo, disprezzando totalmente tutte le ricchezze, dimostrò il più alto grado di liberalità e magnanimità; sebbene compisse anch’Egli atti di generosità, nella misura in cui ciò era conforme alla Sua natura, facendo distribuire ai poveri ciò che Gli veniva dato. Quando quindi il nostro Signore disse a Giuda (Giovanni 13:21): “Fai presto ciò che devi fare”, i discepoli intesero che Egli gli ordinasse di dare del denaro ai poveri. Ma Cristo non aveva alcun desiderio malvagio, come verrà dimostrato in seguito; tuttavia ciò non Lo impedì di possedere la temperanza, che è ancora più perfetta nell’uomo privo di desideri malvagi. Pertanto, secondo il Filosofo (Etica vii, 9), l’uomo temperante si distingue dall’uomo casto proprio per questo: l’uomo temperante non possiede quei desideri malvagi che caratterizzano l’uomo casto. Quindi, se si intende la castità nel senso indicato dal Filosofo, allora Cristo, essendo dotato di tutte le virtù, non possedeva affatto la castità, poiché questa non è una vera virtù, ma qualcosa di inferiore alle vere virtù.
 
-<span class="atom-split" data-atom="053" data-title="Whether in Christ there was faith?" data-chapter="Whether in Christ there was faith?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="Whether in Christ there was faith?" data-chapter="Whether in Christ there was faith?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there was faith in Christ. For faith is a nobler virtue than the
 moral virtues, e.g. temperance and liberality. Now these were in Christ, as stated above (A[2]).
@@ -3593,7 +3601,7 @@ Risposta all’Obiezione 2: Il merito della fede consiste nel fatto che l’uomo
 
 Risposta all’Obiezione 3: Come afferma un commento nello stesso passaggio, la fede è quella “per mezzo della quale si credono cose che non sono visibili”. Tuttavia, chiamare fede ciò che è visibile sarebbe improprio; tale denominazione è appropriata soltanto quando vi è una certa somiglianza tra quelle cose visibili e la fede riguardo alla loro realtà, in termini di certezza e fermezza nella credenza.
 
-<span class="atom-split" data-atom="054" data-title="Whether in Christ there was hope?" data-chapter="Whether in Christ there was hope?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="Whether in Christ there was hope?" data-chapter="Whether in Christ there was hope?" data-kind="atom" data-srclang="en" data-tags="concepts/theological_virtues,positions/beatitude,concepts/virtue,concepts/faith,forms/quaestio"></span>
 
 Objection 1: It would seem that there was hope in Christ. For it is said in the Person of Christ
 (Ps. 30:1): "In Thee, O Lord, have I hoped." But the virtue of hope is that whereby a man hopes in
@@ -3656,7 +3664,7 @@ Risposta all’Obiezione 2: La gloria del corpo non riguarda l’[beatazza](/pos
 
 Risposta all’Obiezione 3: La crescita della Chiesa attraverso la conversione dei fedeli non riguarda la perfezione di Cristo, che è perfetto in se stesso, ma piuttosto il fatto che tale processo permetta ad altri di condividere la Sua perfezione. Poiché la speranza riguarda ciò che si attende da colui che spera, non si può affermare che la virtù della speranza risieda propriamente in Cristo, per le ragioni sopra menzionate.
 
-<span class="atom-split" data-atom="055" data-title="Whether in Christ there were the gifts?" data-chapter="Whether in Christ there were the gifts?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Whether in Christ there were the gifts?" data-chapter="Whether in Christ there were the gifts?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the gifts were not in Christ. For, as is commonly said, the gifts
 are given to help the virtues. But what is perfect in itself does not need an exterior help. Therefore,
@@ -3714,7 +3722,7 @@ Risposta all’Obiezione 2: Cristo non è, in senso analogo, né destinatario n�
 
 Risposta all’Obiezione 3: In Cristo non vi era soltanto conoscenza celeste, ma anche conoscenza terrena, come verrà detto più avanti (Q[15], A[10]). E tuttavia, anche in cielo i doni dello Spirito Santo esisteranno ancora, in un certo modo, come è stato affermato sopra (FS, Q[68], A[6]).
 
-<span class="atom-split" data-atom="056" data-title="Whether in Christ there was the gift of fear?" data-chapter="Whether in Christ there was the gift of fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="Whether in Christ there was the gift of fear?" data-chapter="Whether in Christ there was the gift of fear?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there was not the gift of fear. For hope would seem
 to be stronger than fear; since the object of hope is goodness, and of fear, evil. as was said above
@@ -3777,7 +3785,7 @@ Risposta all’Obiezione 2: Questo ragionamento si basa sulla paura, nel senso c
 
 Risposta all’Obiezione 3: La carità perfetta scaccia la paura servile, quella che riguarda principalmente il castigo. Ma questo tipo di paura non esisteva in Cristo.
 
-<span class="atom-split" data-atom="057" data-title="Whether the gratuitous graces were in Christ?" data-chapter="Whether the gratuitous graces were in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Whether the gratuitous graces were in Christ?" data-chapter="Whether the gratuitous graces were in Christ?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/grace,concepts/faith,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that the gratuitous graces were not in Christ. For whoever has
 anything in its fulness, to him it does not pertain to have it by participation. Now Christ has grace
@@ -3830,7 +3838,7 @@ not wanting to Him, since even the secrets of hearts, of which all words are sig
 from Him, as will be shown (Q[10], A[2]). Nor was this knowledge uselessly possessed. just as it
 is not useless to have a habit, which we do not use when there is no occasion.
 
-<span class="atom-split" data-atom="058" data-title="Whether in Christ there was the gift of prophecy?" data-chapter="Whether in Christ there was the gift of prophecy?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="Whether in Christ there was the gift of prophecy?" data-chapter="Whether in Christ there was the gift of prophecy?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there was not the gift of prophecy. For prophecy
 implies a certain obscure and imperfect knowledge, according to Num. 12:6: "If there be among
@@ -3905,7 +3913,7 @@ Risposta all’Obiezione 2: La fede riguarda cose che non sono visibili a colui 
 
 Risposta all’Obiezione 3: Gli angeli, essendo “comprensori”, sono superiori ai profeti, i quali sono soltanto “viandanti”; ma non sono superiori a Cristo, che fu sia un “comprensore” che un “viandante”.
 
-<span class="atom-split" data-atom="059" data-title="Whether in Christ there was the fulness of grace?" data-chapter="Whether in Christ there was the fulness of grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="Whether in Christ there was the fulness of grace?" data-chapter="Whether in Christ there was the fulness of grace?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/virtue,concepts/cause"></span>
 
 Objection 1: It would seem that in Christ there was not the fulness of grace. For the virtues
 flow from grace, as was said above (FS, Q[110], A[4]). But in Christ there were not all the virtues;
@@ -3979,7 +3987,7 @@ Risposta all’Obiezione 2: Essenzialmente, la grazia operante riguarda il proce
 
 Risposta all’Obiezione 3: La pienezza della grazia viene attribuita all’anima di Cristo in base alle capacità della creatura, e non in confronto alla pienezza infinita della bontà divina.
 
-<span class="atom-split" data-atom="060" data-title="Whether the fulness of grace is proper to Christ?" data-chapter="Whether the fulness of grace is proper to Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the fulness of grace is proper to Christ?" data-chapter="Whether the fulness of grace is proper to Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the fulness of grace is not proper to Christ. For what is proper
 to anyone belongs to him alone. But to be full of grace is attributed to some others; for it was said
@@ -4051,7 +4059,7 @@ Risposta all’Obiezione 2: L’Apostolo parla di quella pienezza che riguarda i
 
 Risposta all’Obiezione 3: Questi doni che sono comuni in cielo – cioè la visione, la possessione e la fruizione, e simili – hanno nella vita terrena doni corrispondenti anch’essi comuni a tutti i santi. Tuttavia, esistono alcune prerogative dei santi, sia in cielo che sulla terra, che non sono possedute da tutti.
 
-<span class="atom-split" data-atom="061" data-title="Whether the grace of Christ is infinite?" data-chapter="Whether the grace of Christ is infinite?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Whether the grace of Christ is infinite?" data-chapter="Whether the grace of Christ is infinite?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/grace,concepts/infinity,positions/eternity,figures/augustine"></span>
 
 Objection 1: It would seem that Christ's grace is infinite. For everything immeasurable is
 infinite. But the grace of Christ is immeasurable; since it is written (Jn. 3:34): "For God doth not
@@ -4127,7 +4135,7 @@ Risposta all’Obiezione 2: La grazia di Cristo ha un effetto infinito, sia a ca
 
 Risposta all’Obiezione 3: Il minore può raggiungere lo stesso livello del maggiore aumentando la propria quantità, quando entrambi possiedono lo stesso tipo di quantità. Tuttavia, la grazia di un uomo viene paragonata alla grazia di Cristo come qualcosa di particolare rispetto a una forza universale; pertanto, così come la potenza del fuoco, per quanto possa aumentare, non potrà mai eguagliare la forza del sole, allo stesso modo la grazia di un uomo, per quanto possa crescere, non potrà mai essere paragonabile alla grazia di Cristo.
 
-<span class="atom-split" data-atom="062" data-title="Whether the grace of Christ could increase?" data-chapter="Whether the grace of Christ could increase?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="Whether the grace of Christ could increase?" data-chapter="Whether the grace of Christ could increase?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the grace of Christ could increase. For to every finite thing
 addition can be made. But the grace of Christ was finite. Therefore it could increase.
@@ -4205,7 +4213,7 @@ Risposta all’Obiezione 2: Sebbene il potere divino possa rendere qualcosa più
 
 Risposta all’Obiezione 3: Chiunque può aumentare in saggezza e grazia in due modi. Primo, nel senso che le stesse abitudini di saggezza e grazia vengono rafforzate; e in questo modo Cristo non aumentò affatto. Secondo, per quanto riguarda gli effetti concreti, cioè nel senso che compie opere sempre più sagge e meritevoli; ed è in questo modo che Cristo aumentò in saggezza e grazia, proprio come aumentò in età, poiché nel corso del tempo compì opere sempre più perfette per dimostrare di essere veramente un uomo, sia nelle cose di Dio che in quelle degli uomini.
 
-<span class="atom-split" data-atom="063" data-title="Whether the habitual grace of Christ followed after the union?" data-chapter="Whether the habitual grace of Christ followed after the union?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether the habitual grace of Christ followed after the union?" data-chapter="Whether the habitual grace of Christ followed after the union?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the habitual grace did not follow after the union. For nothing
 follows itself. But this habitual grace seems to be the same as the grace of union; for [Augustine](/figures/augustine)
@@ -4280,7 +4288,7 @@ individual man?
 (7) Whether the devil is the head of all the wicked?
 (8) Whether Anti-christ can be called the head of all the wicked?
 
-<span class="atom-split" data-atom="064" data-title="Whether Christ is the Head of the Church?" data-chapter="Whether Christ is the Head of the Church?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="Whether Christ is the Head of the Church?" data-chapter="Whether Christ is the Head of the Church?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it does not belong to Christ as man to be Head of the Church.
 For the head imparts sense and motion to the members. Now spiritual sense and motion which are
@@ -4340,7 +4348,7 @@ but the heart has a certain hidden influence. And hence the Holy Ghost is likene
 He invisibly quickens and unifies the Church; but Christ is likened to the Head in His visible nature
 in which man is set over man.
 
-<span class="atom-split" data-atom="065" data-title="Whether Christ is the Head of men as to their bodies or only as to their souls?" data-chapter="Whether Christ is the Head of men as to their bodies or only as to their souls?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Whether Christ is the Head of men as to their bodies or only as to their souls?" data-chapter="Whether Christ is the Head of men as to their bodies or only as to their souls?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ is not the Head of men as to their bodies. For Christ is
 said to be the Head of the Church inasmuch as He bestows spiritual sense and the movement of
@@ -4397,7 +4405,7 @@ Risposta all’Obiezione 2: Il corpo di un animale non ha alcuna relazione con u
 
 Risposta all’Obiezione 3: Sebbene Cristo abbia tratto la materia del Suo corpo da altri uomini, tuttavia tutti ricevono da Lui la vita immortale del proprio corpo, secondo 1 Corinzi 15:22: “E così come in Adamo tutti muoiono, così anche in Cristo tutti saranno resi vivi”.
 
-<span class="atom-split" data-atom="066" data-title="Whether Christ is the Head of all men?" data-chapter="Whether Christ is the Head of all men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Whether Christ is the Head of all men?" data-chapter="Whether Christ is the Head of all men?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/predestination,concepts/faith,concepts/grace,concepts/charity"></span>
 
 Objection 1: It would seem that Christ is not the Head of all men. For the head has no relation
 except to the members of its body. Now the unbaptized are nowise members of the Church which
@@ -4475,7 +4483,7 @@ Risposta all’Obiezione 2: Essere “una Chiesa gloriosa, priva di macchie o im
 
 Risposta all’Obiezione 3: I Santi Padri utilizzavano i sacramenti legittimi non come realtà, ma come immagini e ombre di ciò che sarebbe avvenuto in futuro. Ora, il rapporto tra un’immagine e la sua realtà corrisponde esattamente a quello descritto dal Filosofo nel “De Memor. et Remin.” II. Pertanto, i Santi Padri antichi, osservando questi sacramenti legittimi, furono condotti verso Cristo attraverso la stessa fede e lo stesso amore che anche noi utilizziamo per avvicinarci a Lui; da ciò si deduce che anch’essi appartenevano alla stessa Chiesa di noi.
 
-<span class="atom-split" data-atom="067" data-title="Whether Christ is the Head of the angels?" data-chapter="Whether Christ is the Head of the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="Whether Christ is the Head of the angels?" data-chapter="Whether Christ is the Head of the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ as man is not the head of the angels. For the head and
 members are of one nature. But Christ as man is not of the same nature with the angels, but only
@@ -4543,7 +4551,7 @@ Risposta all’Obiezione 2: La Chiesa, sulla terra, è la congregazione dei fede
 
 Risposta all’Obiezione 3: Agostino utilizza qui l’analogia tra causa ed effetto, cioè nel senso in cui le cose corporee agiscono su corpi e le cose spirituali su altre cose spirituali. Tuttavia, l’umanità di Cristo, grazie alla sua natura spirituale, ovvero a quella divina, può produrre effetti non solo negli spiriti degli uomini, ma anche negli spiriti degli angeli, in virtù della sua stretta unione con Dio, cioè attraverso l’unità personale.
 
-<span class="atom-split" data-atom="068" data-title="Whether the grace of Christ, as Head of the Church, is the same as His habitual grace, inasmuch as He is Man?" data-chapter="Whether the grace of Christ, as Head of the Church, is the same as His habitual grace, inasmuch as He is Man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="Whether the grace of Christ, as Head of the Church, is the same as His habitual grace, inasmuch as He is Man?" data-chapter="Whether the grace of Christ, as Head of the Church, is the same as His habitual grace, inasmuch as He is Man?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,positions/original_sin,concepts/soul,assi/human_nature,figures/augustine"></span>
 
 Objection 1: It would seem that the grace whereby Christ is Head of the Church and the
 individual grace of the Man are not the same. For the Apostle says (Rom. 5:15): "If by the offense
@@ -4615,7 +4623,7 @@ Risposta all’Obiezione 2: Azioni diverse, di cui una è la ragione e la causa 
 
 Risposta all’Obiezione 3: La grazia personale e la grazia capitale sono destinate a un atto specifico; ma la grazia dell’unione non è destinata a un atto, bensì all’esistenza personale stessa. Pertanto, la grazia personale e la grazia capitale condividono essenzialmente lo stesso carattere; la grazia dell’unione, invece, no. Tuttavia, la grazia personale può essere considerata, in un certo senso, anche grazia dell’unione, poiché contribuisce a rendere possibile tale unione. Così, la grazia dell’unione, la grazia capitale e la grazia personale sono una cosa nella loro essenza, sebbene esista una distinzione razionale tra di esse.
 
-<span class="atom-split" data-atom="069" data-title="Whether it is proper to Christ to be Head of the Church?" data-chapter="Whether it is proper to Christ to be Head of the Church?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="Whether it is proper to Christ to be Head of the Church?" data-chapter="Whether it is proper to Christ to be Head of the Church?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that it is not proper to Christ to be Head of the Church. For it is written
 (1 Kings 15:17): "When thou wast a little one in thy own eyes, wast thou not made the head of the
@@ -4672,7 +4680,7 @@ house; and it is Christ alone by "Whom also we have access . . . into this grace
 (Rom. 5:2); but by the other [names](/positions/nominalism) above-mentioned there may be implied not merely the principal
 but also the secondary authority.
 
-<span class="atom-split" data-atom="070" data-title="Whether the devil is the head of all the wicked?" data-chapter="Whether the devil is the head of all the wicked?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="Whether the devil is the head of all the wicked?" data-chapter="Whether the devil is the head of all the wicked?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the devil is not the head of the wicked. For it belongs to the
 head to diffuse sense and movement into the members, as a gloss says, on Eph. 1:22, "And made
@@ -4741,7 +4749,7 @@ Risposta all’Obiezione 2: Un governante non suggerisce sempre ai suoi sudditi 
 
 Risposta all’Obiezione 3: Tutti i peccati condividono l’avversione verso Dio, anche se si differenziano per il loro orientamento verso beni diversi e mutevoli.
 
-<span class="atom-split" data-atom="071" data-title="Whether Anti-christ may be called the head of all the wicked?" data-chapter="Whether Anti-christ may be called the head of all the wicked?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Whether Anti-christ may be called the head of all the wicked?" data-chapter="Whether Anti-christ may be called the head of all the wicked?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Antichrist is not the head of the wicked. For there are not
 several heads of one body. But the devil is the head of the multitude of the wicked. Therefore
@@ -4805,7 +4813,7 @@ Risposta all’Obiezione 2: Poiché la testa di Cristo è Dio, eppure Egli è la
 
 Risposta all’Obiezione 3: Si dice che l’Anticristo sia il capo di tutti i malvagi non per una somiglianza nell’influenza, ma per una somiglianza nella perfezione. Poiché in lui il diavolo, per così dire, porta la sua malvagità al suo apice, proprio come si dice che qualcuno porti a compimento il proprio scopo quando lo realizza.
 
-<span class="atom-split" data-atom="072" data-title="OF CHRIST'S KNOWLEDGE IN GENERAL (FOUR ARTICLES)" data-chapter="OF CHRIST'S KNOWLEDGE IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="OF CHRIST'S KNOWLEDGE IN GENERAL (FOUR ARTICLES)" data-chapter="OF CHRIST'S KNOWLEDGE IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider Christ's knowledge; concerning which the consideration will be twofold.
 First, of Christ's knowledge in general; secondly, of each particular kind of knowledge He had.
@@ -4825,7 +4833,7 @@ All’interno della prima categoria di considerazioni vi sono quattro punti da e
 (3) Se Egli possedesse una conoscenza innata o infusa direttamente da Dio;  
 (4) Se Egli possedesse qualche conoscenza acquisita attraverso esperienze personali.
 
-<span class="atom-split" data-atom="073" data-title="Whether Christ had any knowledge besides the Divine?" data-chapter="Whether Christ had any knowledge besides the Divine?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Whether Christ had any knowledge besides the Divine?" data-chapter="Whether Christ had any knowledge besides the Divine?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there was no knowledge except the Divine. For
 knowledge is necessary that things may be known thereby. But by His Divine knowledge Christ
@@ -4905,7 +4913,7 @@ Risposta all’Obiezione 2: Se si suppone che le due luci siano disposte nello s
 
 Risposta all’Obiezione 3: Per quanto riguarda ciò che è unito in Cristo, riteniamo esistere una conoscenza in Lui, sia riguardo alla Sua natura divina che a quella umana; pertanto, a causa dell’unione che rende Dio e l’uomo un’unica ipostasi, le cose di Dio vengono attribuite all’uomo, e le cose dell’uomo vengono attribuite a Dio, come già detto in precedenza (Q[3], AA[1],6). Tuttavia, per quanto riguarda l’unione stessa, non possiamo ammettere l’esistenza di alcuna conoscenza in Cristo. Questa unione, infatti, ha carattere personale, e la conoscenza appartiene alla persona soltanto in relazione a una natura specifica.
 
-<span class="atom-split" data-atom="074" data-title="Whether Christ had the knowledge which the blessed or comprehensors have?" data-chapter="Whether Christ had the knowledge which the blessed or comprehensors have?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="Whether Christ had the knowledge which the blessed or comprehensors have?" data-chapter="Whether Christ had the knowledge which the blessed or comprehensors have?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/beatitude,concepts/act_potency"></span>
 
 Objection 1: It would seem that in Christ there was not the knowledge of the blessed or
 comprehensors. For the knowledge of the blessed is a participation of Divine light, according to
@@ -4974,7 +4982,7 @@ Risposta all’Obiezione 2: Attraverso questa unione, quest’Uomo è benedetto 
 
 Risposta all’Obiezione 3: La visione beatifica e la conoscenza trascendono, in qualche misura, la natura dell’anima razionale, poiché quest’ultima non è in grado di raggiungerle con le proprie forze; tuttavia, in un altro senso, esse sono in armonia con la sua natura, poiché l’anima razionale ne è naturalmente capace, essendo stata creata a immagine di Dio, come già detto. La conoscenza non creatasi, invece, trascende in ogni modo la natura dell’anima umana.
 
-<span class="atom-split" data-atom="075" data-title="Whether Christ had an imprinted or infused knowledge?" data-chapter="Whether Christ had an imprinted or infused knowledge?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Whether Christ had an imprinted or infused knowledge?" data-chapter="Whether Christ had an imprinted or infused knowledge?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there was not in Christ another infused knowledge besides the
 beatific knowledge. For all other knowledge compared to the beatific knowledge is like imperfect
@@ -5058,7 +5066,7 @@ Risposta all’Obiezione 2: La disposizione viene intesa come perfezione in due 
 
 Risposta all’Obiezione 3: La conoscenza beata non è una specie, cioè una somiglianza con l’Essenza Divina o con ciò che è conosciuto nell’Essenza Divina, come risulta chiaramente da quanto detto nel FP, Q[12], A[2]; bensì è una conoscenza immediata dell’Essenza Divina, in quanto l’Essenza Divina stessa si unisce alla mente beata come qualcosa di intelligibile per un essere intelligente; e l’Essenza Divina è una forma che trascende la capacità di qualsiasi creatura. Pertanto, insieme a questa forma sovraordinaria, non esiste nulla che possa impedire che nella mente razionale esistano specie intellegibili, proporzionate alla sua natura.
 
-<span class="atom-split" data-atom="076" data-title="Whether Christ had any acquired knowledge?" data-chapter="Whether Christ had any acquired knowledge?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Whether Christ had any acquired knowledge?" data-chapter="Whether Christ had any acquired knowledge?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there was no empiric and acquired knowledge. For
 whatever befitted Christ, He had most perfectly. Now Christ did not possess acquired knowledge
@@ -5139,7 +5147,7 @@ Risposta all’Obiezione 2: La mente umana ha due tipi di relazioni: una riguard
 
 Risposta all’Obiezione 3: Le abitudini acquisite e quelle infuse non devono essere classificate insieme; infatti, l’abitudine alla conoscenza viene acquisita attraverso la relazione tra la mente umana e i fantasmi; pertanto, un’altra abitudine dello stesso tipo non può essere nuovamente acquisita. Tuttavia, l’abitudine alla conoscenza infusa è di natura diversa, poiché discende nell’anima da fonti superiori, e non dai fantasmi. Ecco perché non esiste alcuna equivalenza tra queste due tipologie di abitudini.
 
-<span class="atom-split" data-atom="077" data-title="OF THE BEATIFIC KNOWLEDGE OF CHRIST'S SOUL (FOUR ARTICLES)" data-chapter="OF THE BEATIFIC KNOWLEDGE OF CHRIST'S SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="OF THE BEATIFIC KNOWLEDGE OF CHRIST'S SOUL (FOUR ARTICLES)" data-chapter="OF THE BEATIFIC KNOWLEDGE OF CHRIST'S SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/soul,schools/scholasticism"></span>
 
 Now we must consider each of the aforesaid knowledges. Since, however, we have treated of
 the Divine knowledge in the FP, Q[14], it now remains to speak of the three others: (1) of the
@@ -5160,7 +5168,7 @@ Ora dobbiamo considerare ciascuna delle suddette conoscenze. Tuttavia, poiché a
 (3) Se conoscesse l’infinito attraverso la Parola;  
 (4) Se vedesse la Parola o l’Essenza Divina in modo più chiaro di qualsiasi altra creatura.
 
-<span class="atom-split" data-atom="078" data-title="Whether the soul of Christ comprehended the Word or the Divine Essence?" data-chapter="Whether the soul of Christ comprehended the Word or the Divine Essence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="Whether the soul of Christ comprehended the Word or the Divine Essence?" data-chapter="Whether the soul of Christ comprehended the Word or the Divine Essence?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the soul of Christ comprehended and comprehends the Word
 or Divine Essence. For Isidore says (De Summo Bono i, 3) that "the Trinity is known only to Itself
@@ -5228,7 +5236,7 @@ Risposta all’Obiezione 2: Nemmeno nell’unione personale l’essenza umana ri
 
 Risposta all’Obiezione 3: Questa dichiarazione di Agostino va intesa in riferimento alla grazia dell’unione, per mezzo della quale tutto ciò che si dice del Figlio di Dio nella Sua Natura Divina si può anche dire del Figlio dell’Uomo, a causa dell’identità dei loro “suppositi” (cioè delle loro nature essenziali). In questo modo si può affermare che il Figlio dell’Uomo sia colui che comprende l’Essenza Divina, non certo attraverso la sua anima, ma nella Sua Natura Divina; così come si può dire che il Figlio dell’Uomo sia anche il Creatore.
 
-<span class="atom-split" data-atom="079" data-title="Whether the Son of God knew all things in the Word?" data-chapter="Whether the Son of God knew all things in the Word?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="Whether the Son of God knew all things in the Word?" data-chapter="Whether the Son of God knew all things in the Word?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 2: It would seem that the soul of Christ does not know all things in the Word. For
 it is written (Mk. 13:32): "But of that day or hour no man knoweth, neither the angels in heaven
@@ -5319,7 +5327,7 @@ Risposta all’Obiezione 2: Dio conosce la Sua Essenza in modo ancora più perfe
 
 Risposta all’Obiezione 3: L’estensione della conoscenza dipende non soltanto dal numero delle cose conosciute, ma anche dalla chiarezza di tale conoscenza. Pertanto, sebbene la conoscenza che l’anima di Cristo possiede nella Parola sia paragonabile, per quanto riguarda il numero delle cose conosciute, alla conoscenza ottenuta attraverso la visione diretta, la conoscenza di Dio supera infinitamente quella dell’anima di Cristo in termini di chiarezza cognitiva. Infatti, la luce divina, non creata dall’essere umano, è di gran lunga più intensa di qualsiasi luce creata che possa essere ricevuta dall’anima di Cristo; e sebbene, in termini assoluti, la conoscenza divina sia superiore a quella dell’anima di Cristo, non solo per quanto riguarda il modo stesso di conoscere, ma anche per quanto riguarda il numero delle cose conosciute, come già detto in precedenza.
 
-<span class="atom-split" data-atom="080" data-title="Whether the soul of Christ can know the infinite in the Word?" data-chapter="Whether the soul of Christ can know the infinite in the Word?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="Whether the soul of Christ can know the infinite in the Word?" data-chapter="Whether the soul of Christ can know the infinite in the Word?" data-kind="atom" data-srclang="en" data-tags="concepts/act_potency,concepts/infinity,concepts/soul"></span>
 
 Objection 1: It would seem that the soul of Christ cannot know the infinite in the Word. For
 that the infinite should be known is repugnant to the definition of the infinite which (Phys. iii, 63)
@@ -5425,7 +5433,7 @@ Risposta all’Obiezione 2: Non esiste nulla che impedisca a una cosa di essere 
 
 Risposta all’Obiezione 3: Ciò che è infinito in ogni senso può essere soltanto uno. Pertanto il Filosofo afferma (De Coel., i, 2, 3) che, poiché i corpi hanno dimensioni in ogni loro parte, non possono esistere più corpi infiniti. Tuttavia, se qualcosa fosse infinito soltanto in un certo senso, nulla impedirebbe l’esistenza di più entità infinite di questo tipo; come se potessimo immaginare diverse linee di lunghezza infinita disegnate su una superficie di larghezza finita. Poiché l’infinito non è una sostanza, ma un attributo accidentale delle cose che vengono definite infinite, come afferma il Filosofo (Phys., iii, 37, 38), e poiché l’infinito può essere applicato a soggetti diversi, allo stesso modo anche le sue proprietà devono essere considerate in relazione a tali soggetti. Ora, una delle proprietà dell’infinito è che nulla può essergli maggiore. Pertanto, se prendiamo una linea infinita, non esiste nulla al suo interno che sia maggiore dell’infinito stesso; lo stesso vale per qualsiasi altra linea infinita: ognuna di esse contiene parti infinite. Di conseguenza, in una data linea infinita non può esserci nulla di maggiore di tutte queste parti infinite; mentre in un’altra linea potrebbero essercene ancora di più. Questo fenomeno si osserva anche nei numeri: le specie dei numeri pari e dispari sono infinite, ma esistono più numeri pari che dispari. Pertanto, si può affermare che nulla è maggiore dell’infinito in senso assoluto; tuttavia, rispetto all’infinito che è limitato in qualche modo, potrebbe esistere qualcosa di ancora maggiore, sebbene possiamo soltanto ipotizzarlo al di fuori di tale ambito. In questo modo, dunque, nell’universo creato esistono molte cose infinite; tuttavia, nel potere di Dio ce ne sono ancora di più rispetto a quelle presenti nell’universo stesso. Allo stesso modo, l’anima di Cristo conosce molte cose infinite attraverso la conoscenza intellettuale semplice; ma Dio conosce ancora di più attraverso questo tipo di conoscenza o comprensione.
 
-<span class="atom-split" data-atom="081" data-title="Whether the soul of Christ sees the Word or the Divine Essence more clearly than does any other creature?" data-chapter="Whether the soul of Christ sees the Word or the Divine Essence more clearly than does any other creature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether the soul of Christ sees the Word or the Divine Essence more clearly than does any other creature?" data-chapter="Whether the soul of Christ sees the Word or the Divine Essence more clearly than does any other creature?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/grace,concepts/infinity,forms/quaestio"></span>
 
 Objection 1: It would seem that the soul of Christ does not see the Word more perfectly than
 does any other creature. For the perfection of knowledge depends upon the medium of knowing;
@@ -5511,7 +5519,7 @@ Ora dobbiamo considerare la conoscenza impressa o infusa nell’anima di Cristo;
 (5) Si tratta di una conoscenza abituale, cioè costantemente presente nella sua coscienza?  
 (6) Questa conoscenza era caratterizzata da diverse forme o modalità di manifestazione?
 
-<span class="atom-split" data-atom="082" data-title="Whether by this imprinted or infused knowledge Christ knew all things?" data-chapter="Whether by this imprinted or infused knowledge Christ knew all things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Whether by this imprinted or infused knowledge Christ knew all things?" data-chapter="Whether by this imprinted or infused knowledge Christ knew all things?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that by this knowledge Christ did not know all things. For this
 knowledge is imprinted upon Christ for the perfection of the passive intellect. Now the passive
@@ -5587,7 +5595,7 @@ Risposta all’Obiezione 2: L’anima umana, nello [stato](/concepts/state) di q
 
 Risposta all’Obiezione 3: La conoscenza dei singoli individui riguarda la perfezione dell’anima intellettiva, non nel campo della conoscenza speculativa, ma in quello della conoscenza pratica, che è imperfetta senza la conoscenza dei singoli individui, nei quali si svolgono le operazioni mentali, come affermato nell’Etica VI, 7. Pertanto, per la prudenza sono necessarie la memoria di ciò che è accaduto in passato, la conoscenza di ciò che sta avvenendo nel presente e la previsione di ciò che accadrà in futuro, come sostiene Tullio (De Inventione II). Poiché Cristo possedeva la pienezza della prudenza grazie al dono del consiglio, Egli conosceva quindi tutti i singoli individui – presenti, passati e futuri.
 
-<span class="atom-split" data-atom="083" data-title="Whether Christ could use this knowledge by turning to phantasms?" data-chapter="Whether Christ could use this knowledge by turning to phantasms?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Whether Christ could use this knowledge by turning to phantasms?" data-chapter="Whether Christ could use this knowledge by turning to phantasms?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the soul of Christ could not understand by this knowledge
 except by turning to phantasms, because, as is stated De [Anima](/concepts/soul) iii, 18,31,39, phantasms are compared
@@ -5655,7 +5663,7 @@ Risposta all’Obiezione 2: Sebbene l’anima di Cristo avesse la stessa natura 
 
 Risposta all’Obiezione 3: Sebbene l’anima di Cristo potesse comprendere senza ricorrere ai fantasmi, poteva comunque comprenderli anche attraverso di essi. Pertanto, i sensi non erano inutili per lei; soprattutto perché i sensi non vengono dati all’uomo esclusivamente per la conoscenza intellettuale, ma anche per le esigenze della vita animale.
 
-<span class="atom-split" data-atom="084" data-title="Whether this knowledge is collative?" data-chapter="Whether this knowledge is collative?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Whether this knowledge is collative?" data-chapter="Whether this knowledge is collative?" data-kind="atom" data-srclang="en" data-tags="assi/knowledge_origin,concepts/reason,concepts/soul,forms/quaestio"></span>
 
 Objection 1: It would seem that the soul of Christ had not this knowledge by way of comparison.
 For Damascene says (De Fide Orth. iii, 14): "We do not uphold counsel or choice in Christ." Now
@@ -5716,7 +5724,7 @@ Risposta all’Obiezione 2: Questo ragionamento si basa sulla discussione e sul 
 
 Risposta all’Obiezione 3: I beati sono paragonati agli angeli per quanto riguarda i doni della grazia; tuttavia rimane comunque la differenza di natura tra loro. Pertanto, l’uso del confronto e della discussione è congeniale alle anime dei beati, ma non agli angeli.
 
-<span class="atom-split" data-atom="085" data-title="Whether in Christ this knowledge was greater than the knowledge of the angels?" data-chapter="Whether in Christ this knowledge was greater than the knowledge of the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="Whether in Christ this knowledge was greater than the knowledge of the angels?" data-chapter="Whether in Christ this knowledge was greater than the knowledge of the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this knowledge was not greater in Christ than in the angels.
 For perfection is proportioned to the thing perfected. But the human soul in the order of nature is
@@ -5762,7 +5770,7 @@ Al contrario, l’Apostolo afferma (Ebrei 2:9): “Poiché vediamo Gesù, che è
 
 Rispondo che la conoscenza impressa nell’anima di Cristo può essere considerata in due modi: innanzitutto, in relazione a ciò che essa riceve dalla causa che l’ha generata; in secondo luogo, in relazione a ciò che essa possiede nel soggetto che la riceve. Per quanto riguarda il primo aspetto, la conoscenza impressa nell’anima di Cristo era superiore a quella degli angeli, sia per il numero delle cose conosciute che per la certezza stessa di tali conoscenze; infatti, la luce spirituale che è insita nell’anima di Cristo è molto più eccellente della luce propria alla natura angelica. Tuttavia, per quanto riguarda il secondo aspetto, la conoscenza impressa nell’anima di Cristo è inferiore a quella degli angeli, in quanto si basa su metodi di conoscenza propri dell’anima umana, cioè sull’analisi dei fenomeni, sul confronto e sulla riflessione. E con ciò rispondono chiaramente alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="086" data-title="Whether this knowledge was habitual?" data-chapter="Whether this knowledge was habitual?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="Whether this knowledge was habitual?" data-chapter="Whether this knowledge was habitual?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there was no habitual knowledge. For it has been
 said (Q[9], A[1]) that the highest perfection of knowledge befitted Christ's soul. But the perfection
@@ -5835,7 +5843,7 @@ Risposta all’Obiezione 2: Gli abiti si riducono ad azioni per comando della vo
 
 Risposta all’Obiezione 3: La bontà e l’essere vengono intesi in due modi: in primo luogo, in modo semplice; e quindi una sostanza che esiste nella sua essenza e nella sua bontà è considerata buona ed essere. In secondo luogo, la bontà e l’essere vengono intesi in modo relativo; e in questo caso un accidente è considerato essere e bontà non perché possieda effettivamente queste qualità, ma perché il suo soggetto è un essere e una bontà. Pertanto, la conoscenza abituale non è semplicemente migliore o più eccellente dell’anima di Cristo; ma lo è in modo relativo, poiché tutta la bontà della conoscenza abituale viene aggiunta alla bontà del suo soggetto.
 
-<span class="atom-split" data-atom="087" data-title="Whether this knowledge was distinguished by divers habits?" data-chapter="Whether this knowledge was distinguished by divers habits?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="Whether this knowledge was distinguished by divers habits?" data-chapter="Whether this knowledge was distinguished by divers habits?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in the soul of Christ there was only one [habit](/concepts/custom) of knowledge.
 For the more perfect knowledge is, the more united it is; hence the higher angels understand by the
@@ -5909,7 +5917,7 @@ Ora dobbiamo considerare i conoscimenti acquisiti o empirici dell’anima di Cri
 (3) Se imparò qualcosa dagli uomini;  
 (4) Se ricevette qualcosa dagli angeli.
 
-<span class="atom-split" data-atom="088" data-title="Whether Christ knew all things by this acquired or empiric knowledge?" data-chapter="Whether Christ knew all things by this acquired or empiric knowledge?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="088" data-title="Whether Christ knew all things by this acquired or empiric knowledge?" data-chapter="Whether Christ knew all things by this acquired or empiric knowledge?" data-kind="atom" data-srclang="en" data-tags="assi/knowledge_origin,concepts/act_potency,concepts/soul,concepts/experience,concepts/reason"></span>
 
 Objection 1: It would seem that Christ did not know everything by this knowledge. For this
 knowledge is acquired by experience. But Christ did not experience everything. Therefore He did
@@ -5972,7 +5980,7 @@ Risposta all’Obiezione 2: Sebbene non tutte le cose sensibili fossero soggette
 
 Risposta all’Obiezione 3: Con questa conoscenza, l’anima di Cristo non conosceva tutte le cose in modo assoluto, ma soltanto quelle che possono essere comprese attraverso la luce dell’intelletto umano. Pertanto, con questa conoscenza Egli non conosceva le essenze delle sostanze separate, né i singoli eventi del passato, presente o futuro; queste cose, tuttavia, le conosceva attraverso una conoscenza infusa, come è stato detto sopra (Q[11]).
 
-<span class="atom-split" data-atom="089" data-title="Whether Christ advanced in acquired or empiric knowledge?" data-chapter="Whether Christ advanced in acquired or empiric knowledge?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="089" data-title="Whether Christ advanced in acquired or empiric knowledge?" data-chapter="Whether Christ advanced in acquired or empiric knowledge?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not advance in this knowledge. For even as Christ
 knew all things by His beatific and His infused knowledge, so also did He by this acquired
@@ -6049,7 +6057,7 @@ Risposta all’Obiezione 2: Anche questa conoscenza era sempre perfetta per il m
 
 Risposta all’Obiezione 3: Questa affermazione di Damasceno riguarda coloro che sostengono in modo assoluto che alla conoscenza di Cristo sia stata aggiunta qualche informazione, cioè qualsiasi tipo di conoscenza da Lui posseduta, soprattutto quella infusa nella Sua anima attraverso l’unione con la Parola; tuttavia, non si riferisce all’aumento della conoscenza causato dagli agenti naturali.
 
-<span class="atom-split" data-atom="090" data-title="Whether Christ learned anything from man?" data-chapter="Whether Christ learned anything from man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="090" data-title="Whether Christ learned anything from man?" data-chapter="Whether Christ learned anything from man?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ learned something from man. For it is written (Lk.
 2:46,47) that, "They found Him in the temple in the midst of the doctors, hearing them, and asking
@@ -6117,7 +6125,7 @@ Risposta all’Obiezione 2: Chi impara dall’uomo non riceve la conoscenza dire
 
 Risposta all’Obiezione 3: Gesù avanzò nella conoscenza empirica, così come nell’età, come detto sopra (A[2]). Ora, poiché per un uomo è necessaria un’età adeguata per acquisire conoscenza attraverso la scoperta, così pure lo è per poterla acquisire tramite l’insegnamento. Ma il nostro Signore non fece nulla che non fosse conforme alla Sua età; pertanto non ascoltò le lezioni della dottrina fino a quando non fu in grado di raggiungere quel livello di conoscenza attraverso l’esperienza. Per questo motivo Gregorio dice (Sup. Ezech. Lib. i, Hom. ii): “Nel dodicesimo anno della Sua età si degnò di porre domande alle persone sulla terra, poiché, secondo la logica naturale, la parola della dottrina non viene rivelata prima dell’età della perfezione”.
 
-<span class="atom-split" data-atom="091" data-title="Whether Christ received knowledge from the angels?" data-chapter="Whether Christ received knowledge from the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="091" data-title="Whether Christ received knowledge from the angels?" data-chapter="Whether Christ received knowledge from the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ received knowledge from the angels. For it is written
 (Lk. 22:43) that "there appeared to Him an angel from heaven, strengthening Him." But we are
@@ -6169,7 +6177,7 @@ Reply to Objection 3: The Son of God assumed a passible body (as will be said he
 body was rightly subject to the impression of heavenly bodies; but His soul was not subject to the
 impression of heavenly spirits.
 
-<span class="atom-split" data-atom="092" data-title="OF THE POWER OF CHRIST'S SOUL (FOUR ARTICLES)" data-chapter="OF THE POWER OF CHRIST'S SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="092" data-title="OF THE POWER OF CHRIST'S SOUL (FOUR ARTICLES)" data-chapter="OF THE POWER OF CHRIST'S SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/soul_body,concepts/will,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the power of Christ's soul; and under this head there are four points of
 inquiry:
@@ -6186,7 +6194,7 @@ Dobbiamo ora considerare il potere dell’anima di Cristo; e in questo ambito vi
 (3) Se Egli possedesse onnipotenza riguardo al proprio corpo;  
 (4) Se Egli possedesse onnipotenza per quanto riguarda l’esecuzione della propria volontà.
 
-<span class="atom-split" data-atom="093" data-title="Whether the soul of Christ had omnipotence?" data-chapter="Whether the soul of Christ had omnipotence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether the soul of Christ had omnipotence?" data-chapter="Whether the soul of Christ had omnipotence?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the soul of Christ had omnipotence. For Ambrose [*Gloss,
 Ord.] says on Lk. 1:32: "The power which the Son of God had naturally, the Man was about to
@@ -6278,7 +6286,7 @@ Risposta all’Obiezione 2: Secondo alcuni, conoscenza e potere attivo non sono 
 
 Risposta all’Obiezione 3: L’anima di Cristo possiede conoscenza pratica e conoscenza speculativa; tuttavia non è necessario che abbia una conoscenza pratica di quelle cose di cui possiede una conoscenza speculativa. Poiché per la conoscenza speculativa basta semplicemente che il conoscitore si conformi o si assimili alla cosa conosciuta; mentre per la conoscenza pratica è necessario che le forme delle cose nell’intelletto siano efficaci, cioè capaci di agire. Ora, possedere una forma e imprimere questa forma su qualcos’altro significa qualcosa di più che semplicemente possederla; così come essere “leggeri” e “illuminanti” significa qualcosa di più che semplicemente essere “leggeri”. Pertanto, l’anima di Cristo possiede una conoscenza speculativa della creazione (poiché conosce il modo in cui Dio ha creato), ma non ne possiede una conoscenza pratica, poiché non dispone di alcuna conoscenza efficace riguardo alla creazione stessa.
 
-<span class="atom-split" data-atom="094" data-title="Whether the soul of Christ had omnipotence with regard to the transmutation of creatures?" data-chapter="Whether the soul of Christ had omnipotence with regard to the transmutation of creatures?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="Whether the soul of Christ had omnipotence with regard to the transmutation of creatures?" data-chapter="Whether the soul of Christ had omnipotence with regard to the transmutation of creatures?" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/grace,concepts/miracle,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that the soul of Christ had omnipotence with regard to the
 transmutation of creatures. For He Himself says (Mat. 28:18): "All power is given to Me in heaven
@@ -6347,7 +6355,7 @@ He might work miracles, but also that He might communicate this grace to others.
 (Mat. 10:1) that, "having called His twelve disciples together, He gave them power over unclean
 spirits, to cast them out, and to heal all manner of diseases, and all manner of infirmities."
 
-<span class="atom-split" data-atom="095" data-title="Whether the soul of Christ had omnipotence with regard to His own body?" data-chapter="Whether the soul of Christ had omnipotence with regard to His own body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="095" data-title="Whether the soul of Christ had omnipotence with regard to His own body?" data-chapter="Whether the soul of Christ had omnipotence with regard to His own body?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's soul had omnipotence with regard to His own body.
 For Damascene says (De Fide Orth. iii, 20,23) that "all natural things were voluntary to Christ; He
@@ -6419,7 +6427,7 @@ Risposta all’Obiezione 2: Non faceva parte della giustizia originale che Adamo
 
 Risposta all’Obiezione 3: Se l’immaginazione è forte, il corpo obbedisce naturalmente in alcune cose; ad esempio, nel caso di una caduta da un’impalcatura posta in alto, poiché l’immaginazione è stata creata appunto per essere il principio del movimento locale, come si afferma nel De [Anima](/concepts/soul) iii, 9,10. Lo stesso vale per i cambiamenti dovuti al caldo e al freddo, nonché alle loro conseguenze; infatti, le emozioni dell’anima, che influenzano il cuore, seguono naturalmente l’immaginazione, e così, attraverso la perturbazione degli spiriti, l’intero corpo viene modificato. Tuttavia, altre caratteristiche corporee che non hanno alcuna relazione naturale con l’immaginazione non vengono alterate da essa, per quanto forte possa essere; ad esempio, la forma della mano o del piede, e simili.
 
-<span class="atom-split" data-atom="096" data-title="Whether the soul of Christ had omnipotence as regards the execution of His will?" data-chapter="Whether the soul of Christ had omnipotence as regards the execution of His will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="Whether the soul of Christ had omnipotence as regards the execution of His will?" data-chapter="Whether the soul of Christ had omnipotence as regards the execution of His will?" data-kind="atom" data-srclang="en" data-tags="concepts/will,concepts/soul,concepts/miracle,figures/augustine"></span>
 
 Objection 1: It would seem that the soul of Christ had not omnipotence as regards the execution
 of His own will. For it is written (Mk. 7:24) that "entering into a house, He would that no man
@@ -6471,7 +6479,7 @@ power, and for what He Himself was to do by His human will, since the power and 
 Christ's soul depended on God, "Who works in all [Vulg.: 'you'], both to will and to accomplish"
 (Phil. 2:13).
 
-<span class="atom-split" data-atom="097" data-title="OF THE DEFECTS OF BODY ASSUMED BY THE SON OF GOD (FOUR ARTICLES)" data-chapter="OF THE DEFECTS OF BODY ASSUMED BY THE SON OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="OF THE DEFECTS OF BODY ASSUMED BY THE SON OF GOD (FOUR ARTICLES)" data-chapter="OF THE DEFECTS OF BODY ASSUMED BY THE SON OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the defects Christ assumed in the [human nature](/axes/human_nature); and first, of the defects
 of body; secondly, of the defects of soul.
@@ -6490,7 +6498,7 @@ All’interno di questa prima categoria esistono quattro punti da esaminare:
 (3) Se abbia realmente contratto tali difetti;  
 (4) Se abbia assunto tutti questi difetti.
 
-<span class="atom-split" data-atom="098" data-title="Whether the Son of God in human nature ought to have assumed defects of body?" data-chapter="Whether the Son of God in human nature ought to have assumed defects of body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="098" data-title="Whether the Son of God in human nature ought to have assumed defects of body?" data-chapter="Whether the Son of God in human nature ought to have assumed defects of body?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,concepts/suffering,positions/beatitude,figures/augustine"></span>
 
 Objection 1: It would seem that the Son of God ought not to have assumed [human nature](/axes/human_nature) with
 defects of body. For as His soul is personally united to the Word of God, so also is His body. But
@@ -6596,7 +6604,7 @@ Risposta all’Obiezione 3: La punizione segue sempre il peccato, sia quello com
 
 Risposta all’Obiezione 4: Le infermità che Cristo sopportò non ostacolarono affatto, ma anzi favorirono grandemente il compimento dell’Incarnazione, come già detto in precedenza. E sebbene queste infermità nascondessero la Sua divinità, esse resero evidente la Sua umanità, che rappresenta proprio il mezzo per raggiungere la divinità, secondo quanto si legge in Romani 5:1-2: “Per mezzo di Gesù Cristo abbiamo accesso a Dio”. Inoltre, gli antichi Padri non desideravano che Cristo possedesse una forza fisica, ma una forza spirituale, con la quale potesse sconfiggere il diavolo e guarire le debolezze umane.
 
-<span class="atom-split" data-atom="099" data-title="Whether Christ was of necessity subject to these defects?" data-chapter="Whether Christ was of necessity subject to these defects?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="099" data-title="Whether Christ was of necessity subject to these defects?" data-chapter="Whether Christ was of necessity subject to these defects?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ was not of necessity subject to these defects. For it is
 written (Is. 53:7): "He was offered because it was His own will"; and the prophet is speaking of
@@ -6658,7 +6666,7 @@ Risposta all’Obiezione 2: Ciò è evidente da quanto è stato detto finora.
 
 Risposta all’Obiezione 3: Niente era assolutamente più potente dell’anima di Cristo; tuttavia non esisteva nulla che potesse impedire a qualcosa di essere ancora più potente riguardo a questo o quel effetto, come ad esempio un chiodo utilizzato per pungere. E dico questo nel senso che l’anima di Cristo va considerata nella sua natura e potenza proprie.
 
-<span class="atom-split" data-atom="100" data-title="Whether Christ contracted these defects?" data-chapter="Whether Christ contracted these defects?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="100" data-title="Whether Christ contracted these defects?" data-chapter="Whether Christ contracted these defects?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,figures/augustine"></span>
 
 Objection 1: It would seem that Christ contracted bodily defects. For we are said to contract
 what we derive with our nature from birth. But Christ, together with [human nature](/axes/human_nature), derived His
@@ -6703,7 +6711,7 @@ them.
 Reply to Objection 3: Christ was made like to other men in the quality and not in the cause of
 these defects; and hence, unlike others, He did not contract them.
 
-<span class="atom-split" data-atom="101" data-title="Whether Christ ought to have assumed all the bodily defects of men?" data-chapter="Whether Christ ought to have assumed all the bodily defects of men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Whether Christ ought to have assumed all the bodily defects of men?" data-chapter="Whether Christ ought to have assumed all the bodily defects of men?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,concepts/grace"></span>
 
 Objection 1: It would seem that Christ ought to have assumed all the bodily defects of men.
 For Damascene says (De Fide Orth. iii, 6,18): "What is unassumable is incurable." But Christ came
@@ -6770,7 +6778,7 @@ Risposta all’Obiezione 2: La pienezza di tutta la grazia e della conoscenza de
 
 Risposta all’Obiezione 3: La morte colpisce tutti gli uomini a causa del peccato del nostro primo genitore; ma non altri difetti, anche se questi sono meno gravi della morte. Pertanto, non esiste alcuna equivalenza tra di essi.
 
-<span class="atom-split" data-atom="102" data-title="OF THE DEFECTS OF SOUL ASSUMED BY CHRIST (TEN ARTICLES)" data-chapter="OF THE DEFECTS OF SOUL ASSUMED BY CHRIST (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="OF THE DEFECTS OF SOUL ASSUMED BY CHRIST (TEN ARTICLES)" data-chapter="OF THE DEFECTS OF SOUL ASSUMED BY CHRIST (TEN ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/soul,concepts/anger,concepts/passion,forms/treatise,schools/scholasticism"></span>
 
 We must now consider the defects pertaining to the soul; and under this head there are ten points
 of inquiry:
@@ -6799,7 +6807,7 @@ Dobbiamo ora considerare i difetti relativi all’anima; e in questa categoria e
 (9) Se in Lui vi fosse stata [ira](/concepts/anger)?  
 (10) Se Egli fosse stato al contempo un viaggiatore nel cammino spirituale e colui che comprendeva i misteri della verità.
 
-<span class="atom-split" data-atom="103" data-title="Whether there was sin in Christ?" data-chapter="Whether there was sin in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="Whether there was sin in Christ?" data-chapter="Whether there was sin in Christ?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,figures/augustine"></span>
 
 Objection 1: It would seem that there was sin in Christ. For it is written (Ps. 21:2): "O God,
 My God . . . why hast Thou forsaken Me? Far from My salvation are the words of My sins." Now
@@ -6900,7 +6908,7 @@ Risposta all’Obiezione 4: Dio “fece di Cristo un peccatore” – non certo 
 
 Risposta all’Obiezione 5: Un pentito può offrire un esempio lodevole non perché abbia peccato, ma perché sopporta liberamente la punizione del peccato. E per questo Cristo ha dato il più alto esempio ai pentiti, poiché ha volontariamente sopportato la punizione, non dei propri peccati, ma di quelli degli altri.
 
-<span class="atom-split" data-atom="104" data-title="Whether there was the \&quot;fomes\&quot; of sin in Christ?" data-chapter="Whether there was the \&quot;fomes\&quot; of sin in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="104" data-title="Whether there was the \&quot;fomes\&quot; of sin in Christ?" data-chapter="Whether there was the \&quot;fomes\&quot; of sin in Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/concupiscence,concepts/grace,concepts/virtue,forms/quaestio,schools/scholasticism"></span>
 
 # Whether there was the "fomes" of sin in Christ?
 
@@ -6977,7 +6985,7 @@ Risposta all’Obiezione 2: La carne umana, essendo un animale razionale, cerca 
 
 Risposta all’Obiezione 3: Lo spirito dimostra una certa forza di volontà resistendo a quella concupiscenza della carne che gli è opposta; tuttavia, una maggiore forza dello spirito si manifesta quando, grazie alla sua potenza, la carne viene completamente sconfitta, al punto di non essere più in grado di contrastare lo spirito. Proprio questo caratterizzava Cristo, il cui spirito raggiunse il massimo livello di forza di volontà. Sebbene non subisse alcuna aggressione interna da parte dei “vizi” del peccato, dovette affrontare attacchi esterni da parte del mondo e del diavolo; li sconfisse tutti, conquistando così la corona della vittoria.
 
-<span class="atom-split" data-atom="105" data-title="Whether in Christ there was ignorance?" data-chapter="Whether in Christ there was ignorance?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="105" data-title="Whether in Christ there was ignorance?" data-chapter="Whether in Christ there was ignorance?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there was ignorance in Christ. For that is truly in Christ which
 belongs to Him in His [human nature](/axes/human_nature), although it does not belong to Him in His Divine Nature, as
@@ -7047,7 +7055,7 @@ Risposta all’Obiezione 2: Si afferma che Cristo non conoscesse il peccato, per
 
 Risposta all’Obiezione 3: In questo passaggio, il profeta parla della conoscenza umana di Cristo; quindi dice: “Prima che il Bambino” (cioè nella Sua natura umana) “sappia chiamare suo padre” (cioè Giuseppe, che era considerato suo padre), “e sua madre” (cioè Maria), “la forza di Damasco, sarà presa”. Non dobbiamo intendere questo nel senso che Cristo sia stato per un certo periodo un uomo senza saperlo; ma “prima che egli sappia” (cioè prima che diventi un uomo con una conoscenza umana) – letteralmente: “la forza di Damasco e i tesori di Samaria saranno presi dal Re degli Assiri” – o, in senso spirituale: “prima della Sua nascita, Egli salverà il Suo popolo esclusivamente attraverso la preghiera”, come spiega un commento. Tuttavia, [Agostino](/figures/augustine) (Sermone xxxii de Temp.) afferma che ciò si è avverato nell’adorazione dei Magi; egli dice: “Prima che Cristo pronunciasse parole umane in carne umana, ricevette la ‘forza di Damasco’, cioè le ricchezze di cui Damasco andava orgogliosa (poiché le ricchezze sono rappresentate soprattutto dall’oro). Quei tesori erano i ‘tesori di Samaria’: poiché Samaria simboleggia l’idolatria; infatti quel popolo, allontanandosi dal Signore, si era rivolto all’adorazione degli idoli. Pertanto, quei tesori furono i primi che il Bambino strappò al dominio dell’idolatria”. In questo modo, “prima che il Bambino sappia” può essere inteso come “prima che mostri di sapere”.
 
-<span class="atom-split" data-atom="106" data-title="Whether Christ's soul was passible?" data-chapter="Whether Christ's soul was passible?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="106" data-title="Whether Christ's soul was passible?" data-chapter="Whether Christ's soul was passible?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the soul of Christ was not passible. For nothing suffers except
 by reason of something stronger; since "the agent is greater than the patient," as is clear from
@@ -7110,7 +7118,7 @@ Now, it is manifest that passions like these were not in Christ.
 Reply to Objection 3: The "passions of sins" are movements of the sensitive appetite that tend
 to unlawful things; and these were not in Christ, as neither was the "fomes" of sin.
 
-<span class="atom-split" data-atom="107" data-title="Whether there was sensible pain in Christ?" data-chapter="Whether there was sensible pain in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="107" data-title="Whether there was sensible pain in Christ?" data-chapter="Whether there was sensible pain in Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there was no true sensible pain in Christ. For Hilary says (De
 Trin. x): "Since with Christ to die was life, what pain may He be supposed to have suffered in the
@@ -7179,7 +7187,7 @@ Risposta all’Obiezione 2: La carne concepita nel peccato è soggetta al dolore
 
 Risposta all’Obiezione 3: Come è stato detto sopra (Q[14], A[1], ad 2), per il potere della divinità di Cristo la [beatazza](/positions/beatitude) veniva trattenuta nell’anima, affinché non traboccasse nel corpo e così non si togliesse alla Sua passibilità e mortalità; e per lo stesso motivo, la gioia della contemplazione veniva trattenuta nella mente, affinché non si riversasse nelle facoltà sensibili e così non si impedisse il dolore sensibile.
 
-<span class="atom-split" data-atom="108" data-title="Whether there was sorrow in Christ?" data-chapter="Whether there was sorrow in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="108" data-title="Whether there was sorrow in Christ?" data-chapter="Whether there was sorrow in Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there was no sorrow. For it is written of Christ (Is.
 42:4): "He shall not be sad nor troublesome."
@@ -7266,7 +7274,7 @@ Risposta all’Obiezione 3: Tutta la tristezza rappresenta un male derivante da 
 
 Risposta all’Obiezione 4: Non c’è alcun motivo per cui una cosa non possa essere di per sé contraria alla volontà, eppure essere voluta a causa dello scopo per cui è destinata; così come il medicinale amaro non è desiderato in sé stesso, ma solo perché serve alla salute. Pertanto, la morte e la passione di Cristo erano di per sé involontarie e causavano dolore, sebbene fossero volontarie nel senso che servivano allo scopo finale, ovvero il redenzimento dell’umanità.
 
-<span class="atom-split" data-atom="109" data-title="Whether there was fear in Christ?" data-chapter="Whether there was fear in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="109" data-title="Whether there was fear in Christ?" data-chapter="Whether there was fear in Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there was no fear in Christ. For it is written (Prov. 28:1): "The
 just, bold as a lion, shall be without dread." But Christ was most just. Therefore there was no fear
@@ -7324,7 +7332,7 @@ Risposta all’Obiezione 2: Hilary esclude la paura da Cristo nello stesso modo 
 
 Risposta all’Obiezione 3: Sebbene Cristo avesse potuto evitare i mali futuri con il potere della Sua divinità, essi erano comunque inevitabili, o almeno difficilmente evitabili a causa della debolezza della carne umana.
 
-<span class="atom-split" data-atom="110" data-title="Whether there was wonder in Christ?" data-chapter="Whether there was wonder in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="110" data-title="Whether there was wonder in Christ?" data-chapter="Whether there was wonder in Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there was no wonder. For the Philosopher says
 (Metaph. i, 2) that wonder results when we see an effect without knowing its cause; and thus wonder
@@ -7381,7 +7389,7 @@ Risposta all’Obiezione 2: Cristo non si meravigliò della fede del centurione 
 
 Risposta all’Obiezione 3: Avrebbe potuto fare tutto grazie al Potere Divino, poiché in questo senso non vi era nulla di meraviglioso in Lui, ma soltanto riguardo alla Sua conoscenza empirica umana, come detto sopra.
 
-<span class="atom-split" data-atom="111" data-title="Whether there was anger in Christ?" data-chapter="Whether there was anger in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="111" data-title="Whether there was anger in Christ?" data-chapter="Whether there was anger in Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/passion,concepts/justice,concepts/reason,figures/augustine"></span>
 
 Objection 1: It would seem that there was no [anger](/concepts/anger) in Christ. For it is written (James 1:20):
 "The anger of man worketh not the justice of God." Now whatever was in Christ pertained to the
@@ -7445,7 +7453,7 @@ Risposta all’Obiezione 2: È l’ira che supera i limiti della ragione ad esse
 
 Risposta all’Obiezione 3: In noi l’ordine naturale è tale che le facoltà dell’anima si ostacolano a vicenda; cioè, se l’attività di una facoltà è intensa, quella dell’altra ne risulta indebolita. È per questo motivo che qualsiasi manifestazione di rabbia, anche se moderata dalla ragione, offusca la capacità di riflessione della persona che la prova. Ma in Cristo, grazie al controllo del potere divino, “ogni facoltà poté esercitarsi nel modo che le era proprio”, e nessuna facoltà fu ostacolata dall’altra. Pertanto, poiché la gioia della Sua mente durante la contemplazione non ostacolava il dolore o la sofferenza della parte inferiore del suo essere, allo stesso modo le passioni di quella parte inferiore non influenzarono in alcun modo l’attività della ragione.
 
-<span class="atom-split" data-atom="112" data-title="Whether Christ was at once a wayfarer and a comprehensor?" data-chapter="Whether Christ was at once a wayfarer and a comprehensor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="112" data-title="Whether Christ was at once a wayfarer and a comprehensor?" data-chapter="Whether Christ was at once a wayfarer and a comprehensor?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/beatitude,figures/augustine"></span>
 
 Objection 1: It would seem that Christ was not at once a wayfarer and a comprehensor. For it
 belongs to a wayfarer to be moving toward the end of [beatitude](/positions/beatitude), and to a comprehensor it belongs
@@ -7511,7 +7519,7 @@ Risposta all’Obiezione 2: La beata felicità appartiene principalmente e in mo
 
 Risposta all’Obiezione 3: Non esiste alcuna parità tra l’anima di un santo e quella di Cristo, per due motivi: in primo luogo, perché le anime dei santi non sono soggette a sofferenze, come lo fu l’anima di Cristo; in secondo luogo, perché i loro corpi non compiono alcuna azione che possa portarli alla beatitudine, mentre Cristo, attraverso le sue sofferenze fisiche, tendeva verso la beatitudine per quanto riguarda la gloria del suo corpo.
 
-<span class="atom-split" data-atom="113" data-title="OF THOSE THINGS WHICH ARE APPLICABLE TO CHRIST IN HIS BEING AND BECOMING (TWELVE ARTICLES)" data-chapter="OF THOSE THINGS WHICH ARE APPLICABLE TO CHRIST IN HIS BEING AND BECOMING (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="113" data-title="OF THOSE THINGS WHICH ARE APPLICABLE TO CHRIST IN HIS BEING AND BECOMING (TWELVE ARTICLES)" data-chapter="OF THOSE THINGS WHICH ARE APPLICABLE TO CHRIST IN HIS BEING AND BECOMING (TWELVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the consequences of the union; and first as to what belongs to Christ in
 Himself; secondly, as to what belongs to Christ in relation with His Father; thirdly, as to what
@@ -7553,7 +7561,7 @@ Sotto questo primo capito, vi sono dodici punti da esaminare:
 (11) È vero che Cristo, in quanto uomo, è Dio?  
 (12) È vero che Cristo, in quanto uomo, rappresenta un’“ipostasi” o una “persona” divina?
 
-<span class="atom-split" data-atom="114" data-title="Whether this is true: \&quot;God is man\&quot;?" data-chapter="Whether this is true: \&quot;God is man\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="114" data-title="Whether this is true: \&quot;God is man\&quot;?" data-chapter="Whether this is true: \&quot;God is man\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether this is true: "God is man"?
 
@@ -7642,7 +7650,7 @@ Reply to Objection 4: This word "man" is predicated of God, because of the union
 and this union implies a relation. Hence it does not follow the rule of those words which are
 absolutely predicated of God from [eternity](/positions/eternity).
 
-<span class="atom-split" data-atom="115" data-title="Whether this is true: \&quot;Man is God\&quot;?" data-chapter="Whether this is true: \&quot;Man is God\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="115" data-title="Whether this is true: \&quot;Man is God\&quot;?" data-chapter="Whether this is true: \&quot;Man is God\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether this is true: "Man is God"?
 
@@ -7782,7 +7790,7 @@ Risposta all’Obiezione 2: Questo “supposto”, che riguarda sia la natura um
 
 Risposta all’Obiezione 3: Il termine “Divino” viene spesso usato anche per indicare cose di cui il termine “Dio” viene utilizzato in senso essenziale; pertanto diciamo che “l’Essenza Divina è Dio”, a causa dell’identità tra i due concetti; e che “l’Essenza appartiene a Dio”, ovvero è “Divina”, per via del diverso modo in cui questi termini vengono utilizzati. Parliamo anche di “Parola Divina”, sebbene la Parola stessa sia Dio. Allo stesso modo, diciamo “Persona Divina”, proprio come diciamo “la persona di Platone”, a causa della diversa modalità con cui questi concetti vengono interpretati. Tuttavia, il termine “nobile” non viene utilizzato per indicare cose di cui il termine “signore” viene usato in senso essenziale; infatti non chiamiamo un uomo che è un signore “nobile”; piuttosto, ciò che appartiene a un signore viene definito “nobile”, come la “volontà nobile”, la “mano nobile” o la “possessione nobile”. Pertanto, l’uomo Cristo, che è il nostro Signore, non può essere chiamato “nobile”; tuttavia la Sua carne può essere definita “carne nobile”, e la Sua passione “passione nobile”.
 
-<span class="atom-split" data-atom="116" data-title="Whether what belongs to the human nature can be predicated of God?" data-chapter="Whether what belongs to the human nature can be predicated of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="116" data-title="Whether what belongs to the human nature can be predicated of God?" data-chapter="Whether what belongs to the human nature can be predicated of God?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that what belongs to the [human nature](/axes/human_nature) cannot be said of God. For
 contrary things cannot be said of the same. Now, what belongs to human nature is contrary to what
@@ -7864,7 +7872,7 @@ Risposta all’Obiezione 2: Se le cose relative al difetto venissero attribuite 
 
 Risposta all’Obiezione 3: L’atto di “assumere” riguarda la natura umana, non nel suo aspetto ipotetico, ma in sé stessa; pertanto, non appartiene a Dio.
 
-<span class="atom-split" data-atom="117" data-title="Whether what belongs to the human nature can be predicated of the Divine Nature?" data-chapter="Whether what belongs to the human nature can be predicated of the Divine Nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="117" data-title="Whether what belongs to the human nature can be predicated of the Divine Nature?" data-chapter="Whether what belongs to the human nature can be predicated of the Divine Nature?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that what belongs to the [human nature](/axes/human_nature) can be said of the Divine
 Nature. For what belongs to the human nature is predicated of the Son of God, and of God. But
@@ -7934,7 +7942,7 @@ Risposta all’Obiezione 2: L’incarnazione implica l’unione con la carne, e 
 
 Risposta all’Obiezione 3: Ciò che appartiene alla Natura Divina può essere attribuito anche alla natura umana – non certo nel senso in cui tale attributo faccia parte essenziale della Natura Divina, ma piuttosto nel senso in cui la natura umana ne partecipa. Pertanto, tutto ciò che non può essere posseduto dalla natura umana (come l’essere increato o onnipotente) non può affatto essere attribuito alla natura umana. Inoltre, la Natura Divina non ha ricevuto nulla dalla natura umana attraverso la partecipazione; quindi ciò che appartiene alla natura umana non può in alcun modo essere attribuito alla Natura Divina.
 
-<span class="atom-split" data-atom="118" data-title="Whether this is true: \&quot;God was made man\&quot;?" data-chapter="Whether this is true: \&quot;God was made man\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="118" data-title="Whether this is true: \&quot;God was made man\&quot;?" data-chapter="Whether this is true: \&quot;God was made man\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether this is true: "God was made man"?
 
@@ -8003,7 +8011,7 @@ Risposta all’Obiezione 2: Come detto sopra, “essere reso” implica che qual
 
 Risposta all’Obiezione 3: L’uomo non rappresenta semplicemente la Persona del Figlio di Dio, ma soltanto nella misura in cui questa Persona si realizza nella natura umana. Pertanto, anche se l’affermazione “Dio è diventato la Persona del Figlio di Dio” è falsa, è vera l’affermazione che “Dio è diventato uomo” unendosi alla natura umana.
 
-<span class="atom-split" data-atom="119" data-title="Whether this is true: \&quot;Man was made God\&quot;?" data-chapter="Whether this is true: \&quot;Man was made God\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="119" data-title="Whether this is true: \&quot;Man was made God\&quot;?" data-chapter="Whether this is true: \&quot;Man was made God\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether this is true: "Man was made God"?
 
@@ -8100,7 +8108,7 @@ Risposta all’Obiezione 2: Questa affermazione di Agostino deve essere intesa n
 
 Risposta all’Obiezione 4: Un termine posto nel soggetto viene inteso in senso materiale, cioè riguardo al suppostum della natura umana; posto nel predicato, invece, viene inteso in senso formale, cioè riguardo alla natura stessa che viene significata. Pertanto, quando si dice “L’uomo è stato reso Dio”, l’atto di essere reso Dio non viene attribuito alla natura umana in sé, ma al suppostum di tale natura, che è Dio fin dall’[eternità](/positions/eternity); quindi non è appropriato dire che a Dio sia accaduto questo. Al contrario, quando si dice “Dio è stato reso uomo”, l’atto di essere reso uomo viene inteso come avente luogo all’interno della natura umana. Quindi, in senso proprio, queste affermazioni sono rispettivamente vera (“Dio è stato reso uomo”) e falsa (“L’uomo è stato reso Dio”); è come se uno che già era un uomo, come [Socrate](/figures/socrates), venisse reso bianco: in questo caso si direbbe correttamente “Quest’uomo è stato reso bianco oggi”, mentre “Questo essere bianco è stato reso uomo oggi” sarebbe errato. Tuttavia, se al soggetto viene aggiunto un termine che indica la natura umana in senso astratto, tale termine potrebbe essere inteso anche come soggetto dell’atto di trasformazione; ad esempio, si potrebbe dire “La natura umana è stata resa Figlio di Dio”.
 
-<span class="atom-split" data-atom="120" data-title="Whether this is true: \&quot;Christ is a creature\&quot;?" data-chapter="Whether this is true: \&quot;Christ is a creature\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="120" data-title="Whether this is true: \&quot;Christ is a creature\&quot;?" data-chapter="Whether this is true: \&quot;Christ is a creature\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether this is true: "Christ is a creature"?
 
@@ -8173,7 +8181,7 @@ Risposta all’Obiezione 2: Tutte le proprietà dell’essere umano, così come 
 
 Risposta all’Obiezione 3: Non vi può alcun dubbio sul modo in cui la nascita dalla Vergine si applichi alla Persona del Figlio di Dio, così come non vi può alcun dubbio nel caso della creazione; pertanto non esiste alcuna analogia tra i due casi.
 
-<span class="atom-split" data-atom="121" data-title="Whether this Man, i.e. Christ, began to be?" data-chapter="Whether this Man, i.e. Christ, began to be?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="121" data-title="Whether this Man, i.e. Christ, began to be?" data-chapter="Whether this Man, i.e. Christ, began to be?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this Man, i.e. Christ, began to be. For [Augustine](/figures/augustine) says (Tract.
 cv in Joan.) that "before the world was, neither were we, nor the Mediator of God and men---the
@@ -8235,7 +8243,7 @@ Risposta all’Obiezione 2: Con la parola “iniziare” non possiamo passare da
 
 Risposta all’Obiezione 3: La parola “Uomo”, quando si riferisce a Cristo, sebbene significhi la natura umana che ha iniziato ad esistere, indica anche l’essenza eterna che non ha mai avuto un inizio. Pertanto, poiché questa parola indica l’essenza umana quando posta nel soggetto e si riferisce alla natura umana quando posta nel predicato, è falsa l’affermazione “L’Uomo Cristo ha iniziato ad esistere”; invece è vera l’affermazione “Cristo è diventato Uomo”.
 
-<span class="atom-split" data-atom="122" data-title="Whether this is true: \&quot;Christ as Man is a creature\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is a creature\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="122" data-title="Whether this is true: \&quot;Christ as Man is a creature\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is a creature\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether this is true: "Christ as Man is a creature"?
 
@@ -8305,7 +8313,7 @@ Risposta all’Obiezione 2: L’uomo, considerato nel suo ruolo di soggetto, si 
 
 Risposta all’Obiezione 3: È proprio di ogni essere umano che ha la sua esistenza soltanto nell’ambito della natura umana il fatto di essere considerato un “suppositum” della natura umana stessa. Pertanto, se tale essere è una creatura umana, allora lo è in senso stretto. Ma Cristo non è soltanto un “suppositum” della natura umana, ma anche della Natura Divina; in questa ultima possiede un’esistenza non creata. Pertanto, non si può concludere che, se Cristo è una creatura umana, sia necessariamente una creatura in senso stretto.
 
-<span class="atom-split" data-atom="123" data-title="Whether this is true: \&quot;Christ as Man is God\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is God\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="123" data-title="Whether this is true: \&quot;Christ as Man is God\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is God\&quot;?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/human_nature,concepts/grace,concepts/nature"></span>
 
 # Whether this is true: "Christ as Man is God"?
 
@@ -8372,7 +8380,7 @@ Risposta all’Obiezione 2: Il Figlio dell’Uomo possiede sulla terra il potere
 
 Risposta all’Obiezione 3: Quando diciamo “quest’uomo”, il pronome dimostrativo “questo” associa la parola “uomo” al soggetto della proposizione; pertanto, l’affermazione “Cristo come quest’uomo è Dio” rappresenta una proposizione più vera dell’affermazione “Cristo come uomo è Dio”.
 
-<span class="atom-split" data-atom="124" data-title="Whether this is true: \&quot;Christ as Man is a hypostasis or person\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is a hypostasis or person\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="124" data-title="Whether this is true: \&quot;Christ as Man is a hypostasis or person\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is a hypostasis or person\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether this is true: "Christ as Man is a hypostasis or person"?
 
@@ -8440,7 +8448,7 @@ Risposta all’Obiezione 2: La “sostanza individuale”, inclusa nella definiz
 
 Risposta all’Obiezione 3: Poiché una persona indica qualcosa di completo e autosufficiente nella natura razionale, allo stesso modo un’ipostasi, un supposto o un essere di natura appartenente al genere della sostanza indicano qualcosa che esiste per sé stesso. Pertanto, così come la natura umana non è di per sé una persona separata dalla Persona del Figlio di Dio, allo stesso modo non è nemmeno un’ipostasi, un supposto o un essere di natura. Quindi, nel senso in cui neghiamo che “Cristo nell’essere uomo sia una persona”, dobbiamo negare anche tutte le altre affermazioni correlate.
 
-<span class="atom-split" data-atom="125" data-title="OF CHRIST'S UNITY OF BEING (TWO ARTICLES)" data-chapter="OF CHRIST'S UNITY OF BEING (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="125" data-title="OF CHRIST'S UNITY OF BEING (TWO ARTICLES)" data-chapter="OF CHRIST'S UNITY OF BEING (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider what pertains to Christ's unity in common. For, in their proper place,
 we must consider what pertains to unity and plurality in detail: thus we concluded (Q[9]) that there
@@ -8455,7 +8463,7 @@ Under the first head there are two points of inquiry:
 
 Dobbiamo ora considerare ciò che riguarda l’unità di Cristo. Infatti, nel loro giusto contesto, dobbiamo analizzare in dettaglio i concetti di unità e pluralità; così abbiamo concluso (Q[9]) che non esiste soltanto una conoscenza in Cristo, e in seguito concluderemo ancora (Q[35], A[2]) che non esiste soltanto un’unica nascita in Cristo. Pertanto dobbiamo esaminare l’unità di Cristo sotto tre aspetti: (1) dell’essere; (2) della volontà; (3) delle opere. Nel primo di questi ambiti vi sono due questioni da considerare: (1) Se Cristo sia uno o due; (2) Se esista un solo essere in Cristo.
 
-<span class="atom-split" data-atom="126" data-title="Whether Christ is one or two? (parte 1)" data-chapter="Whether Christ is one or two?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="126" data-title="Whether Christ is one or two? (parte 1)" data-chapter="Whether Christ is one or two?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ is not one, but two. For [Augustine](/figures/augustine) says (De Trin. i, 7):
 "Because the form of God took the form of a servant, both are God by reason of God Who assumed,
@@ -8593,7 +8601,7 @@ Risposta all’Obiezione 5: Nel mistero della Divina Trinità, la Natura Divina 
 
 Risposta all’Obiezione 6: Il numero “due” indica ciò che presenta dualità, non in un altro elemento, ma nell’oggetto stesso di cui si parla. Ora, ciò di cui si parla è riferito al soggetto presupposto, che viene indicato dalla parola “Cristo”. Pertanto, anche se Cristo possiede una dualità di natura, poiché non presenta una dualità nel suo soggetto presupposto, non si può affermare che Cristo sia due.
 
-<span class="atom-split" data-atom="127" data-title="Whether Christ is one or two? (parte 2)" data-chapter="Whether Christ is one or two?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="127" data-title="Whether Christ is one or two? (parte 2)" data-chapter="Whether Christ is one or two?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 7: Otherwise implies diversity of accident. Hence diversity of accident
 suffices for anything to be called "otherwise" simply. But "another thing" implies diversity of
@@ -8606,7 +8614,7 @@ relatively, i.e. in nature, if there is no diversity of suppositum.
 
 Risposta all’Obiezione 7: “Altrimenti” implica diversità di accidenti; pertanto, la diversità di accidenti è sufficiente affinché qualcosa venga semplicemente definito “altro”. Tuttavia, “un’altra cosa” implica diversità di sostanza. Ora, non solo la natura, ma anche il suppostum viene considerato una sostanza, come si afferma nel Metafisico V, testo 15. Pertanto, la diversità di natura non è sufficiente affinché qualcosa venga definito “un’altra cosa” in senso assoluto, a meno che non esista anche diversità di suppostum. Ma la diversità di natura rende “un’altra cosa” relativa, cioè in termini di natura, se non vi è diversità di suppostum.
 
-<span class="atom-split" data-atom="128" data-title="Whether there is only one being in Christ?" data-chapter="Whether there is only one being in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="128" data-title="Whether there is only one being in Christ?" data-chapter="Whether there is only one being in Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there is not merely one being, but two. For Damascene
 says (De Fide Orth. iii, 13) that whatever follows the nature is doubled in Christ. But being follows
@@ -8700,7 +8708,7 @@ Risposta all’Obiezione 3: Come è stato detto nel FP, Q[50], A[2], ad 3; FP, Q
 
 Risposta all’Obiezione 4: In Cristo l’anima dà essere al corpo, poiché lo rende effettivamente animato, cioè gli conferisce il complemento della sua natura e della sua specie. Tuttavia, se consideriamo il corpo perfezionato dall’anima, senza che entrambi i componenti siano realmente presenti insieme – questo tutto, composto da anima e corpo, come indicato dal termine “umanità”, non indica “ciò che è”, ma “quello mediante cui qualcosa esiste”. Pertanto, l’essere appartiene alla persona sostanziale, in quanto essa ha una relazione con tale natura; e di questa relazione l’anima è la causa, poiché perfeziona la natura umana attraverso il corpo.
 
-<span class="atom-split" data-atom="129" data-title="OF CHRIST'S UNITY OF WILL (SIX ARTICLES)" data-chapter="OF CHRIST'S UNITY OF WILL (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="129" data-title="OF CHRIST'S UNITY OF WILL (SIX ARTICLES)" data-chapter="OF CHRIST'S UNITY OF WILL (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/free_will,concepts/will"></span>
 
 We must now consider unity as regards the will; and under this head there are six points of
 inquiry:
@@ -8721,7 +8729,7 @@ Dobbiamo ora considerare l’unità in relazione alla volontà; e sotto questo a
 (5) Se la volontà umana di Cristo fosse sempre stata conforme alla volontà divina nell’oggetto della sua scelta;  
 (6) Se vi fosse stata qualche contraddizione tra le volontà in Cristo.
 
-<span class="atom-split" data-atom="130" data-title="Whether there are two wills in Christ?" data-chapter="Whether there are two wills in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="130" data-title="Whether there are two wills in Christ?" data-chapter="Whether there are two wills in Christ?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/free_will,schools/scholasticism,concepts/will,forms/quaestio"></span>
 
 Objection 1: It would seem that in Christ there are not two wills, one Divine, the other human.
 For the will is the first mover and first commander in whoever wills. But in Christ the first mover
@@ -8831,7 +8839,7 @@ Risposta all’Obiezione 3: Il potere della volontà è naturale e ne consegue n
 
 Risposta all’Obiezione 4: Quando diciamo “volere in un certo modo”, intendiamo un determinato modo di volere. Ora, un determinato modo riguarda l’oggetto su cui si esercita tale modo. Pertanto, poiché la volontà appartiene alla natura umana, “volere in un certo modo” rientra anch’esso nella natura umana, non certo considerata in sé stessa, ma nel suo aspetto concreto all’interno di una determinata ipostasi. Di conseguenza, la volontà umana di Cristo possedeva un modo determinato proprio per il fatto di trovarsi in un’ipostasi divina; cioè era sempre guidata dalle indicazioni della volontà divina.
 
-<span class="atom-split" data-atom="131" data-title="Whether in Christ there was a will of sensuality besides the will of reason?" data-chapter="Whether in Christ there was a will of sensuality besides the will of reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="131" data-title="Whether in Christ there was a will of sensuality besides the will of reason?" data-chapter="Whether in Christ there was a will of sensuality besides the will of reason?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/reason,concepts/will,figures/augustine,figures/aristotle"></span>
 
 Objection 1: It would seem that in Christ there was no will of sensuality besides the will of
 reason. For the Philosopher says (De [Anima](/concepts/soul) iii, text. 42) that "the will is in the reason, and in the
@@ -8893,7 +8901,7 @@ Risposta all’Obiezione 2: La sensualità è simboleggiata dal serpente – non
 
 Risposta all’Obiezione 3: “Quando una cosa esiste a causa di un’altra, sembra essercene soltanto una” ([Aristotele](/figures/aristotle), Topicus iii); pertanto, una superficie visibile per il colore è considerata una sola cosa visibile insieme al colore stesso. Allo stesso modo, poiché la sensibilità viene definita “volontà”, soltanto perché condivide le caratteristiche della volontà razionale, si afferma che in Cristo esista una sola volontà umana, così come esiste una sola natura umana.
 
-<span class="atom-split" data-atom="132" data-title="Whether in Christ there were two wills as regards the reason?" data-chapter="Whether in Christ there were two wills as regards the reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="132" data-title="Whether in Christ there were two wills as regards the reason?" data-chapter="Whether in Christ there were two wills as regards the reason?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there were two wills as regards the reason. For
 Damascene says (De Fide Orth. ii, 22) that there is a double will in man, viz. the natural will which
@@ -8958,7 +8966,7 @@ Risposta all’Obiezione 2: L’intelletto e la ragione non sono poteri distinti
 
 Risposta all’Obiezione 3: La “volontà di pietà” non sembrerebbe distinguersi dalla volontà considerata come natura, poiché si astiene dall’agire male verso gli altri, in modo assoluto e indipendente da qualsiasi considerazione.
 
-<span class="atom-split" data-atom="133" data-title="Whether there was free-will in Christ?" data-chapter="Whether there was free-will in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="133" data-title="Whether there was free-will in Christ?" data-chapter="Whether there was free-will in Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there was no free-will. For Damascene says (De Fide
 Orth. iii, 14) that {gnome}, i.e. opinion, thinking or cogitation, and {proairesis}, i.e. choice, "cannot
@@ -9022,7 +9030,7 @@ Risposta all’Obiezione 2: La scelta presuppone un consulto; tuttavia essa segu
 
 Risposta all’Obiezione 3: La volontà di Cristo, sebbene orientata verso il bene, non è determinata verso questo o quel particolare bene. Pertanto spetta a Cristo, così come ai beati, scegliere liberamente, con una volontà confermata nel bene.
 
-<span class="atom-split" data-atom="134" data-title="Whether the human will of Christ was altogether conformed to the Divine will in the thing willed?" data-chapter="Whether the human will of Christ was altogether conformed to the Divine will in the thing willed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="134" data-title="Whether the human will of Christ was altogether conformed to the Divine will in the thing willed?" data-chapter="Whether the human will of Christ was altogether conformed to the Divine will in the thing willed?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the human will in Christ did not will anything except what
 God willed. For it is written (Ps. 39:9) in the person of Christ: "That I should do Thy will: O my
@@ -9094,7 +9102,7 @@ Risposta all’Obiezione 2: La conformità della volontà umana a quella Divina 
 
 Risposta all’Obiezione 3: Cristo era al contempo colui che comprendeva tutto e colui che percorreva il cammino della vita, poiché gustava Dio nella sua mente e possedeva un corpo mortale. Pertanto, cose contrarie alla sua volontà naturale e ai suoi desideri sensuali potevano accadere a Lui nel suo corpo mortale.
 
-<span class="atom-split" data-atom="135" data-title="Whether there was contrariety of wills in Christ?" data-chapter="Whether there was contrariety of wills in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="135" data-title="Whether there was contrariety of wills in Christ?" data-chapter="Whether there was contrariety of wills in Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there was contrariety of wills in Christ. For contrariety of wills
 regards contrariety of objects, as contrariety of movements springs from contrariety of termini, as
@@ -9187,7 +9195,7 @@ Risposta all’Obiezione 2: In noi i desideri dello spirito vengono ostacolati o
 
 Risposta all’Obiezione 3: L’agonia di Cristo non riguardava l’anima razionale, poiché questa non comporta una lotta nella volontà derivante da diversità di motivi – come quando qualcuno, valutando un certo aspetto con la ragione, desidera una cosa, mentre considerandone un altro, desidera il contrario. Ciò deriva infatti dalla debolezza della ragione, che non è in grado di giudicare in modo semplice e chiaro quale sia la scelta migliore. Questo però non accadde in Cristo: con la sua ragione, Egli ritenne infatti che fosse il meglio permettere che la volontà divina riguardante la salvezza dell’umanità si realizzasse attraverso le sue sofferenze. Tuttavia, in Cristo esistette un’agonia riguardo alla parte sensibile del suo essere, poiché Egli temeva le prove future che lo aspettavano, come afferma Damasceno (De Fide Orthodossa ii, 15; iii, 18,23).
 
-<span class="atom-split" data-atom="136" data-title="OF THE UNITY OF CHRIST'S OPERATION (FOUR ARTICLES)" data-chapter="OF THE UNITY OF CHRIST'S OPERATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="136" data-title="OF THE UNITY OF CHRIST'S OPERATION (FOUR ARTICLES)" data-chapter="OF THE UNITY OF CHRIST'S OPERATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the unity of Christ's operation; and under this head there are four points
 of inquiry:
@@ -9204,7 +9212,7 @@ Dobbiamo ora considerare l’unità delle operazioni di Cristo; e sotto questo a
 (3) Se Cristo, con le sue operazioni umane, abbia meritato qualcosa per sé stesso?  
 (4) Se abbia meritato qualcosa per noi attraverso queste operazioni?
 
-<span class="atom-split" data-atom="137" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (parte 1)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="137" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (parte 1)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that in Christ there is but one operation of the Godhead and the
 Manhood. For Dionysius says (Div. Nom. ii): "The most loving operation of God is made manifest
@@ -9305,7 +9313,7 @@ Al contrario, Ambrogio afferma (De Fide ii, 8): “Come può lo stesso atto deri
 Rispondo che, come già detto sopra (Q[18], A[1]), gli eretici menzionati, che attribuivano a Cristo un’unica volontà, attribuivano anche a Lui un’unica azione. Ora, per comprendere meglio il loro errore, dobbiamo ricordare che quando ci sono diversi agenti che agiscono reciprocamente, quello inferiore è mosso da quello superiore; così come nel caso dell’uomo, il corpo è mosso dall’anima e le facoltà inferiori dalla ragione. Pertanto, le azioni e i movimenti del principio inferiore sono piuttosto cose operate che operazioni in sé stesse. Quello che riguarda il principio supremo, invece, è propriamente un’operazione; per questo diciamo dell’uomo che camminare, che appartiene ai piedi, o toccare, che appartiene alle mani, sono azioni operate dall’uomo stesso: una di queste viene compiuta dall’anima attraverso i piedi, l’altra attraverso le mani. Poiché è sempre la stessa anima a operare in entrambi i casi, esiste un’unica operazione, da parte del principio che agisce; ma si riscontra una differenza nella cosa che viene operata. Così come nel caso dell’uomo comune il corpo è mosso dall’anima e le facoltà sensibili dall’appetito razionale, così nel Signore Gesù Cristo la natura umana è guidata e regolata dalla divinità. Per questo essi affermavano che esistesse un’unica operazione da parte della divinità che agisce, ma che venissero compiute diverse azioni: la divinità di Cristo ha compiuto alcune cose in modo diretto, come sostenere tutte le cose con la parola del suo potere; altre invece attraverso la sua natura umana, come camminare nel corpo. Il Sesto Concilio [Terzo Concilio di Costantinopoli, Atto 10] cita infatti le parole dell’eretico Severo, che diceva: “Le cose compiute da Cristo sono molto diverse tra loro; alcune appartengono alla natura divina, altre alla natura umana. Camminare fisicamente sulla terra è certamente un atto umano, ma aiutare arti malate a muoversi è un atto divino. Tuttavia, la Parola Incarnata ha compiuto entrambi questi atti; né l’uno né l’altro provenivano da nature diverse; e non possiamo dire giustamente che, poiché sono state compiute azioni diverse, esistessero due nature o forme operanti.” Ma in questo essi si sbagliavano: ciò che è mosso da un altro ha infatti due tipi di azione: una che deriva dalla sua stessa natura, e un’altra che derivante dal fatto di essere mosso dall’altro. L’azione di un’ascia, per esempio, è quella di tagliare; ma se l’ascia viene usata da un artigiano, la sua azione diventa quella di costruire panche. Quindi, l’azione che appartiene a una cosa in base alla sua natura è propria di essa stessa; non appartiene al soggetto che la utilizza, se non nel senso in cui quest’ultimo ne fa uso per il proprio lavoro. Riscaldare, ad esempio, è un’azione propria del fuoco, ma non di un fabbro, se non nel caso in cui questi utilizzi il fuoco per riscaldare il ferro. L’azione che appartiene a una cosa quando viene mosso da un altro, invece, non è distinta dall’azione del soggetto che la muove; costruire una panca, ad esempio, non è un atto dell’ascia in sé stessa, ma del fabbro che la utilizza. Pertanto, dove il soggetto che agisce e ciò che viene agito hanno nature o funzioni operative diverse.
 Perché le facoltà siano efficaci, deve esserci una distinzione tra l’azione del motore e l’azione corretta di ciò che viene mosso; sebbene ciò che viene mosso partecipi all’azione del motore, e il motore utilizzi l’azione di ciò che viene mosso, e quindi entrambi agiscano in comunione reciproca. Pertanto, in Cristo la natura umana possiede la propria forma e potenza specifiche attraverso le quali agisce; lo stesso vale per la natura divina. Di conseguenza, l’azione della natura umana è distinta da quella della natura divina, e viceversa. Tuttavia, la natura divina utilizza l’azione della natura umana, come se utilizzasse l’azione di uno strumento; allo stesso modo, la natura umana partecipa all’azione della natura divina, proprio come uno strumento partecipa all’azione dell’agente principale. Ed è ciò che afferma Papa Leone nell’Epistola ad Flavianum xxviii: “Entrambe le nature” (cioè quella divina e quella umana in Cristo) “fanno ciò che è proprio di ciascuna, in unione reciproca; ovvero la Parola compie ciò che spetta alla Parola, e la carne attua ciò che spetta alla carne”. Ma se in Cristo esistesse un’unica sola azione della divinità e dell’umanità, sarebbe necessario affermare o che la natura umana non possedesse la propria forma e potenza specifiche (ciò è assolutamente impossibile per quanto riguarda la natura divina), il che significherebbe che in Cristo esiste soltanto l’azione divina; oppure che dalla potenza divina e umana si sia formata un’unica potenza. Entrambe queste ipotesi sono impossibili. La prima implicherebbe che la natura umana in Cristo fosse imperfetta; la seconda significherebbe una confusione delle due nature. Pertanto, è giusto che il Sesto Concilio (Atti 18) condannasse questa opinione, decretando: “Confessiamo due azioni naturali, indivisibili, inconvertibili, inseparabili e indiscutibili nello stesso Signore Gesù Cristo, nostro vero Dio”; cioè l’azione divina e l’azione umana.
 
-<span class="atom-split" data-atom="138" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (parte 2)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="138" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (parte 2)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 1: Dionysius places in Christ a theandric, i.e. a God-manlike or
 Divino-human, operation not by any confusion of the operations or powers of both natures, but
@@ -9369,7 +9377,7 @@ Risposta all’Obiezione 4: L’esistenza e l’attività appartengono alla pers
 
 Risposta all’Obiezione 5: L’azione propria dell’intervento divino è diversa dall’azione propria dell’intervento umano. Pertanto, guarire un lebbroso rientra nell’ambito delle azioni proprie dell’intervento divino, mentre toccarlo fa parte delle azioni proprie dell’intervento umano. Tuttavia, entrambi questi interventi concorrono in uno stesso risultato, poiché una natura agisce in unione con l’altra.
 
-<span class="atom-split" data-atom="139" data-title="Whether in Christ there are several human operations?" data-chapter="Whether in Christ there are several human operations?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="139" data-title="Whether in Christ there are several human operations?" data-chapter="Whether in Christ there are several human operations?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/soul,concepts/reason,concepts/will"></span>
 
 Objection 1: It would seem that in Christ there are several human operations. For Christ as
 man communicates with plants by His nutritive soul, with the brutes by His sensitive soul, and with
@@ -9446,7 +9454,7 @@ Risposta all’Obiezione 1: Le funzioni delle parti sensibili e nutrizionali non
 Risposta all’Obiezione 2: Le facoltà e gli abiti umani si diversificano in base ai loro oggetti. Pertanto, la varietà delle azioni umane corrisponde sia alle diverse facoltà e abitudini, sia agli oggetti su cui queste si esercitano. Non intendiamo escludere questa diversità dalle operazioni compiute da Cristo nella sua natura umana, né quella che deriva dalla variazione nel tempo; vogliamo soltanto escludere ciò che riguarda il primo principio attivo, come già detto in precedenza.  
 (Sant’Tommaso non fornisce alcuna risposta all’Obiezione 3; alcuni codici aggiungono: “Da ciò si può trarre la risposta anche alla terza obiezione.”)
 
-<span class="atom-split" data-atom="140" data-title="Whether the human action of Christ could be meritorious to Him?" data-chapter="Whether the human action of Christ could be meritorious to Him?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="140" data-title="Whether the human action of Christ could be meritorious to Him?" data-chapter="Whether the human action of Christ could be meritorious to Him?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the human action of Christ could not be meritorious to Him.
 For before His death Christ was a comprehensor even as He is now. But comprehensors do not
@@ -9540,7 +9548,7 @@ Risposta all’Obiezione 3: È per disposizione divina che esista un flusso di g
 
 Risposta all’Obiezione 4: La manifestazione dell’eccellenza di Cristo consiste nel Suo bene, inteso in relazione alla Sua esistenza nella conoscenza degli altri; sebbene, riguardo all’esistenza che Egli ha in sé stesso, tale bene appartenga principalmente a coloro che Lo conoscono. Tuttavia anche questo aspetto viene attribuito a Cristo, poiché coloro che Lo conoscono ne fanno parte integrante.
 
-<span class="atom-split" data-atom="141" data-title="Whether Christ could merit for others?" data-chapter="Whether Christ could merit for others?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="141" data-title="Whether Christ could merit for others?" data-chapter="Whether Christ could merit for others?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ could not merit for others. For it is written (Ezech.
 18:4): "The soul that sinneth, the same shall die." Hence, for a like reason, the soul that meriteth,
@@ -9600,7 +9608,7 @@ Risposta all’Obiezione 2: Alcuni ricevono dalla pienezza di Cristo non la font
 
 Risposta all’Obiezione 3: Così come il peccato di Adamo raggiunge gli altri soltanto attraverso la generazione carnale, allo stesso modo anche il merito di Cristo raggiunge gli altri solo attraverso la rigenerazione spirituale, che avviene nel battesimo; mediante questo battesimo veniamo incorporati in Cristo, secondo quanto si legge in Galati 3:27: “Tutti voi che siete stati battezzati in Cristo, avete indossato Cristo”. Ed è per grazia che all’uomo viene concesso di essere incorporato in Cristo. E pertanto, la salvezza dell’uomo deriva dalla grazia.
 
-<span class="atom-split" data-atom="142" data-title="OF CHRIST'S SUBJECTION TO THE FATHER (TWO ARTICLES)" data-chapter="OF CHRIST'S SUBJECTION TO THE FATHER (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="142" data-title="OF CHRIST'S SUBJECTION TO THE FATHER (TWO ARTICLES)" data-chapter="OF CHRIST'S SUBJECTION TO THE FATHER (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider such things as belong to Christ in relation to the Father. Some of these
 things are predicated of Him because of His relation to the Father, e.g. that He was subject to Him,
@@ -9621,7 +9629,7 @@ All’interno della prima categoria di considerazioni vi sono due punti principa
 (1) Se Cristo sia soggetto al Padre;  
 (2) Se Egli sia soggetto a Sé Stesso.
 
-<span class="atom-split" data-atom="143" data-title="Whether we may say that Christ is subject to the Father?" data-chapter="Whether we may say that Christ is subject to the Father?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="143" data-title="Whether we may say that Christ is subject to the Father?" data-chapter="Whether we may say that Christ is subject to the Father?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we may not say that Christ was subject to the Father. For
 everything subject to the Father is a creature, since, as is said in De Eccles. Dogm. iv, "in the Trinity
@@ -9710,7 +9718,7 @@ Risposta all’Obiezione 2: La relazione di sottomissione e dominio si basa su a
 
 Risposta all’Obiezione 3: Come afferma Agostino (De Trinitate i, 8): “Cristo consegnerà il regno a Dio e al Padre quando avrà portato i fedeli, su di cui attualmente regna per fede, alla visione”, cioè alla conoscenza dell’essenza comune al Padre e al Figlio; allora Egli sarà totalmente soggetto al Padre non solo in Sé stesso, ma anche nei Suoi membri, attraverso la piena partecipazione alla divinità. E allora tutte le cose saranno completamente soggette a Lui, con il compimento finale della Sua volontà riguardo ad esse; sebbene già ora tutte le cose siano soggette a Lui in termini di potere, come recita Matteo 28:18: “A Me è data tutta la potenza nel cielo e sulla terra”.
 
-<span class="atom-split" data-atom="144" data-title="Whether Christ is subject to Himself?" data-chapter="Whether Christ is subject to Himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="144" data-title="Whether Christ is subject to Himself?" data-chapter="Whether Christ is subject to Himself?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ is not subject to Himself. For Cyril says in a synodal
 letter which the Council of Ephesus (Part I, ch. xxvi) received: "Christ is neither servant nor master
@@ -9776,7 +9784,7 @@ said to be subject and subservient to Himself as regards His different parts.
 To the other arguments, the reply is clear from what has been said. For Augustine asserts that
 the Son is less than, or subject to, Himself in His human nature, and not by a diversity of supposita.
 
-<span class="atom-split" data-atom="145" data-title="OF CHRIST'S PRAYER (FOUR ARTICLES)" data-chapter="OF CHRIST'S PRAYER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="145" data-title="OF CHRIST'S PRAYER (FOUR ARTICLES)" data-chapter="OF CHRIST'S PRAYER (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider Christ's prayer; and under this head there are four points of inquiry:
 (1) Whether it is becoming that Christ should pray?
@@ -9792,7 +9800,7 @@ Dobbiamo ora considerare la preghiera di Cristo; e sotto questo argomento vi son
 (3) Se sia opportuno che pregasse per sé stesso o soltanto per gli altri;  
 (4) Se ogni sua preghiera venisse ascoltata.
 
-<span class="atom-split" data-atom="146" data-title="Whether it is becoming of Christ to pray?" data-chapter="Whether it is becoming of Christ to pray?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="146" data-title="Whether it is becoming of Christ to pray?" data-chapter="Whether it is becoming of Christ to pray?" data-kind="atom" data-srclang="en" data-tags="positions/beatitude,concepts/act_potency,concepts/soul,concepts/will,figures/augustine"></span>
 
 Objection 1: It would seem unbecoming that Christ should pray. For, as Damascene says (De
 Fide Orth. iii, 24), "prayer is the asking for becoming things from God." But since Christ could do
@@ -9865,7 +9873,7 @@ Risposta all’Obiezione 2: Tra le altre cose che sapeva sarebbero accadute, sap
 
 Risposta all’Obiezione 3: “Alzarsi” non significa altro che muoversi verso ciò che è “al di sopra”. Ora, il movimento può essere inteso in due modi, come si afferma nel De [Anima](/concepts/soul) iii, 7: innanzitutto, in senso stretto, come atto che conduce dalla [potenzialità](/concepts/act_potency) all’atto effettivo; in questo caso, “alzarsi” riguarda ciò che è potenzialmente, ma non realmente, “al di sopra”. In questo senso, come dice Damasceno nel De Fide Orth. iii, 24, “la mente umana di Cristo non ebbe bisogno di ‘alzarsi’ verso Dio, poiché era sempre unita a Lui sia per la sua essenza personale che per la visione beata”. In secondo luogo, il movimento può indicare anche l’atto di qualcosa di perfetto, cioè di ciò che esiste già nell’atto effettivo; in questo caso, “alzarsi” significa raggiungere una condizione di perfezione. La mente di Cristo era sempre “sollevata” verso Dio, poiché Lo contemplava costantemente come qualcosa che esisteva al di sopra Di Lui stesso.
 
-<span class="atom-split" data-atom="147" data-title="Whether it pertains to Christ to pray according to His sensuality?" data-chapter="Whether it pertains to Christ to pray according to His sensuality?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="147" data-title="Whether it pertains to Christ to pray according to His sensuality?" data-chapter="Whether it pertains to Christ to pray according to His sensuality?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/reason,concepts/will,figures/augustine"></span>
 
 Objection 1: It would seem that it pertains to Christ to pray according to His sensuality. For it
 is written (Ps. 83:3) in the person of Christ: "My heart and My flesh have rejoiced in the Living
@@ -9933,7 +9941,7 @@ Risposta all’Obiezione 2: Sebbene la sensualità desiderasse ciò che la ragio
 
 Risposta all’Obiezione 3: L’unione in sé stessa è legata all’essere personale, che riguarda ogni aspetto della natura umana; ma l’atto di pregare è un atto che riguarda esclusivamente la ragione, come già detto. Pertanto non vi è alcuna equivalenza tra i due concetti.
 
-<span class="atom-split" data-atom="148" data-title="Whether it was fitting that Christ should pray for Himself?" data-chapter="Whether it was fitting that Christ should pray for Himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="148" data-title="Whether it was fitting that Christ should pray for Himself?" data-chapter="Whether it was fitting that Christ should pray for Himself?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not fitting that Christ should pray for Himself. For Hilary
 says (De Trin. x): "Although His word of beseeching did not benefit Himself, yet He spoke for the
@@ -10004,7 +10012,7 @@ Risposta all’Obiezione 2: Cristo desiderava davvero soffrire ciò che ha soffe
 
 Risposta all’Obiezione 3: Proprio quella gloria che Cristo chiese per sé mentre pregava apparteneva alla salvezza degli altri, secondo Romani 4:25: “Risorse per la nostra giustificazione”. Pertanto, la preghiera che Egli offrì per sé era in qualche modo anche una preghiera per gli altri. Allo stesso modo, chi chiede a Dio di concedergli qualcosa da utilizzare al bene degli altri non prega soltanto per se stesso, ma anche per gli altri.
 
-<span class="atom-split" data-atom="149" data-title="Whether Christ's prayer was always heard?" data-chapter="Whether Christ's prayer was always heard?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="149" data-title="Whether Christ's prayer was always heard?" data-chapter="Whether Christ's prayer was always heard?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's prayer was not always heard. For He besought that
 the chalice of His passion might be taken from Him, as we read (Mat. 26:39): and yet it was not
@@ -10092,7 +10100,7 @@ Risposta all’Obiezione 2: Nostro Signore non pregò per tutti coloro che Lo cr
 
 Risposta all’Obiezione 4: Quando Egli dice: “Griderò e Tu non mi ascolterai”, dobbiamo intendere che ciò si riferisce al desiderio della sensualità, che fuggiva dalla morte. Tuttavia, Egli viene ascoltato riguardo al desiderio della Sua ragione, come detto sopra.
 
-<span class="atom-split" data-atom="150" data-title="OF THE PRIESTHOOD OF CHRIST (SIX ARTICLES)" data-chapter="OF THE PRIESTHOOD OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="150" data-title="OF THE PRIESTHOOD OF CHRIST (SIX ARTICLES)" data-chapter="OF THE PRIESTHOOD OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider the Priesthood of Christ; and under this head there are six points of
 inquiry:
@@ -10113,7 +10121,7 @@ Dobbiamo ora considerare il Sacerdozio di Cristo; sotto questo argomento vi sono
 (5) Della durata eterna del Suo Sacerdozio;  
 (6) Se Egli debba essere chiamato “sacerdote secondo l’ordine di Melchisedek”.
 
-<span class="atom-split" data-atom="151" data-title="Whether it is fitting that Christ should be a priest?" data-chapter="Whether it is fitting that Christ should be a priest?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="151" data-title="Whether it is fitting that Christ should be a priest?" data-chapter="Whether it is fitting that Christ should be a priest?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unfitting that Christ should be a priest. For a priest is less than an
 angel; whence it is written (Zech. 3:1): "The Lord showed me the high-priest standing before the
@@ -10189,7 +10197,7 @@ Risposta all’Obiezione 2: Come afferma Damasceno (De Fide Orthodossa iii, 26):
 
 Risposta all’Obiezione 3: Come detto sopra (Q[7], A[7], ad 1), gli altri uomini possiedono determinate grazie distribuite tra loro; ma Cristo, essendo la Testa di tutti, possiede la perfezione di tutte le grazie. Pertanto, riguardo agli altri, alcuni sono legislatori, altri sacerdoti, altri re; ma in Cristo tutte queste funzioni si fondono, poiché Egli è la fonte di ogni grazia. Ecco perché è scritto (Isaia 33:22): “Il Signore è il nostro Giudice, il Signore è il nostro Legislatore, il Signore è il nostro Re; Egli verrà a salvarci”.
 
-<span class="atom-split" data-atom="152" data-title="Whether Christ was Himself both priest and victim?" data-chapter="Whether Christ was Himself both priest and victim?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="152" data-title="Whether Christ was Himself both priest and victim?" data-chapter="Whether Christ was Himself both priest and victim?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/divine_law,figures/augustine"></span>
 
 Objection 1: It would seem that Christ Himself was not both priest and victim. For it is the
 duty of the priest to slay the victim. But Christ did not kill Himself. Therefore He was not both
@@ -10271,7 +10279,7 @@ Risposta all’Obiezione 2: L’uccisione di Cristo può essere considerata in r
 
 Risposta all’Obiezione 3: Il fatto che la umanità di Cristo fosse santa fin dal suo inizio non impedisce che tale umanità, quando fu offerta a Dio nella Passione, venisse santificata in un modo nuovo, cioè come vittima effettivamente offerta in quel momento. Infatti, in quell’occasione acquisì la vera santità di una vittima, grazie alla carità che possedeva fin dall’inizio e alla grazia dell’unione che la santificò in modo assoluto.
 
-<span class="atom-split" data-atom="153" data-title="Whether the effect of Christ's priesthood is the expiation of sins?" data-chapter="Whether the effect of Christ's priesthood is the expiation of sins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="153" data-title="Whether the effect of Christ's priesthood is the expiation of sins?" data-chapter="Whether the effect of Christ's priesthood is the expiation of sins?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the effect of Christ's priesthood is not the expiation of sins.
 For it belongs to God alone to blot out sins, according to Is. 43:25: "I am He that blot out thy
@@ -10352,7 +10360,7 @@ Risposta all’Obiezione 2: I peccati vengono ricordati nella Nuova Legge non a 
 
 Risposta all’Obiezione 3: Come afferma Origene (Sup. Joan. i, 29), sebbene sotto la Legge Antica venissero offerti vari animali, il sacrificio quotidiano, celebrato al mattino e alla sera, consisteva sempre in un agnello, come si evince da Numeri 38:3,4. Ciò simboleggiava che l’offerta dell’agnello vero, cioè di Cristo, rappresentasse il sacrificio culminante di tutti. Per questo motivo (Giovanni 1:29) si dice: “Ecco l’Agnello di Dio, colui che toglie i peccati del mondo”.
 
-<span class="atom-split" data-atom="154" data-title="Whether the effect of the priesthood of Christ pertained not only to others, but also to Himself?" data-chapter="Whether the effect of the priesthood of Christ pertained not only to others, but also to Himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="154" data-title="Whether the effect of the priesthood of Christ pertained not only to others, but also to Himself?" data-chapter="Whether the effect of the priesthood of Christ pertained not only to others, but also to Himself?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the effect of the priesthood of Christ pertained not only to
 others, but also to Himself. For it belongs to the priest's office to pray for the people, according to
@@ -10434,7 +10442,7 @@ Risposta all’Obiezione 2: Nella offerta di un sacrificio da parte di qualsiasi
 
 Risposta all’Obiezione 3: Una figura non può essere paragonabile alla realtà; pertanto, il sacerdote figurale dell’Antico Testamento non poteva raggiungere una perfezione tale da non aver bisogno di un sacrificio di soddisfazione. Ma Cristo non aveva bisogno di nulla del genere. Di conseguenza, non esiste alcuna analogia tra i due; ed è proprio ciò che afferma l’Apostolo (Ebrei 7:28): “La Legge rende sacerdoti gli uomini, i quali sono imperfetti; ma la parola del giuramento, che è sorta dopo la Legge, il Figlio, che è perfetto per sempre”.
 
-<span class="atom-split" data-atom="155" data-title="Whether the priesthood of Christ endures for ever?" data-chapter="Whether the priesthood of Christ endures for ever?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="155" data-title="Whether the priesthood of Christ endures for ever?" data-chapter="Whether the priesthood of Christ endures for ever?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the priesthood of Christ does not endure for ever. For as stated
 above (A[4], ad 1,3) those alone need the effect of the priesthood who have the weakness of sin,
@@ -10496,7 +10504,7 @@ Risposta all’Obiezione 1: I Santi che saranno in cielo non avranno bisogno di 
 
 Risposta all’Obiezione 2: Sebbene la passione e la morte di Cristo non debbano ripetersi, la virtù di quel Sacrificio dura per sempre, poiché, come è scritto (Ebrei 10:14), “con un’unica offerta Egli ha perfezionato per sempre coloro che sono stati santificati”. Pertanto, anche la risposta alla terza obiezione risulta chiara. Per quanto riguarda l’unità di questo sacrificio, essa era già preannunciata nella Legge: una volta all’anno, il sommo sacerdote entrava nel Santuario con un’offerta di sangue, come stabilito in Levitico 16:11. Tuttavia, quella figura simbolica non raggiungeva la realtà, poiché il sacrificio offerto non possedeva una virtù eterna; per questo motivo tali sacrifici dovevano essere rinnovati ogni anno.
 
-<span class="atom-split" data-atom="156" data-title="Whether the priesthood of Christ was according to the order of Melchisedech?" data-chapter="Whether the priesthood of Christ was according to the order of Melchisedech?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="156" data-title="Whether the priesthood of Christ was according to the order of Melchisedech?" data-chapter="Whether the priesthood of Christ was according to the order of Melchisedech?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/revelation,figures/augustine"></span>
 
 Objection 1: It would seem that Christ's priesthood was not according to the order of
 Melchisedech. For Christ is the fountain-head of the entire priesthood, as being the principal priest.
@@ -10566,7 +10574,7 @@ Risposta all’Obiezione 2: Del sacerdozio di Cristo si possono considerare due 
 
 Risposta all’Obiezione 3: Melchisedek viene descritto come “senza padre, senza madre, senza genealogia”, e come “che non ha né inizio di giorni né fine di vita”; ciò non significa che tali cose non gli appartengano, ma piuttosto che questi dettagli riguardo a lui non vengono forniti dalle Sacre [Scritture](/concepts/revelation). Ed è proprio per questo motivo che, come afferma l’Apostolo nello stesso passaggio, Melchisedek viene paragonato al Figlio di Dio, il quale, secondo Isaia 53:8 (“Chi annuncierà la sua genealogia?”), non aveva padre terreno, né madre celeste, né genealogia; e nella Sua divinità non ha né inizio né fine di giorni.
 
-<span class="atom-split" data-atom="157" data-title="OF ADOPTION AS BEFITTING TO CHRIST (FOUR ARTICLES)" data-chapter="OF ADOPTION AS BEFITTING TO CHRIST (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="157" data-title="OF ADOPTION AS BEFITTING TO CHRIST (FOUR ARTICLES)" data-chapter="OF ADOPTION AS BEFITTING TO CHRIST (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now come to consider whether adoption befits Christ: and under this head there are
 four points of inquiry:
@@ -10583,7 +10591,7 @@ Dobbiamo ora esaminare se l’adozione sia appropriata a Cristo; in merito vi so
 (3) È opportuno che l’uomo venga adottato nella filiazia di Dio?  
 (4) Si può chiamare Cristo “Figlio adottivo”?
 
-<span class="atom-split" data-atom="158" data-title="Whether it is fitting that God should adopt sons?" data-chapter="Whether it is fitting that God should adopt sons?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="158" data-title="Whether it is fitting that God should adopt sons?" data-chapter="Whether it is fitting that God should adopt sons?" data-kind="atom" data-srclang="en" data-tags="assi/god,positions/beatitude,concepts/grace,concepts/predestination"></span>
 
 Objection 1: It would seem that it is not fitting that God should adopt sons. For, as jurists say,
 no one adopts anyone but a stranger as his son. But no one is a stranger in relation to God, Who is
@@ -10648,7 +10656,7 @@ Risposta all’Obiezione 2: L’uomo lavora al fine di soddisfare i propri bisog
 Risposta all’Obiezione 3: I beni spirituali possono essere posseduti da molti contemporaneamente; i beni materiali invece no. Pertanto, nessuno può ricevere un eredità materiale se non il successore di una persona deceduta; tutti, invece, ricevono l’eredità spirituale contemporaneamente e nella sua interezza, senza alcun danno per il Padre eterno.  
 Si potrebbe tuttavia affermare che Dio smetta di esistere, nel senso in cui è in noi attraverso la fede, per iniziare a esistere in noi attraverso la visione, come si legge in un commento su Romani 8:17: “Se sono figli, allora sono anche eredi”.
 
-<span class="atom-split" data-atom="159" data-title="Whether it is fitting that the whole Trinity should adopt?" data-chapter="Whether it is fitting that the whole Trinity should adopt?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="159" data-title="Whether it is fitting that the whole Trinity should adopt?" data-chapter="Whether it is fitting that the whole Trinity should adopt?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unfitting that the whole Trinity should adopt. For adoption is said
 of God in likeness to human [custom](/concepts/custom). But among men those only adopt who can beget: and in God
@@ -10717,7 +10725,7 @@ Risposta all’Obiezione 2: Attraverso l’adozione diventiamo fratelli di Crist
 
 Risposta all’Obiezione 3: Come già detto sopra (A[1], ad 2), la filiazione adottiva rappresenta una certa somiglianza con la Filiazia Eterna: proprio come tutto ciò che avviene nel tempo è una certa riproduzione di ciò che è esistito fin dall’[eternità](/positions/eternity). L’uomo, dunque, è paragonabile alla gloria del Figlio Eterno grazie alla luce della grazia attribuita allo Spirito Santo. Pertanto, sebbene la filiazione adottiva sia comune a tutta la Trinità, essa viene riconosciuta come appartenente al Padre in quanto suo autore, al Figlio in quanto suo modello, e allo Spirito Santo in quanto colui che imprime in noi questa somiglianza.
 
-<span class="atom-split" data-atom="160" data-title="Whether it is proper to the rational nature to be adopted?" data-chapter="Whether it is proper to the rational nature to be adopted?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="160" data-title="Whether it is proper to the rational nature to be adopted?" data-chapter="Whether it is proper to the rational nature to be adopted?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not proper to the rational nature to be adopted. For God
 is not said to be the Father of the rational creature, save by adoption. But God is called the Father
@@ -10784,7 +10792,7 @@ Risposta all’Obiezione 2: Gli angeli vengono chiamati figli di Dio in base a u
 
 Risposta all’Obiezione 3: L’adozione è una proprietà che non deriva dalla natura, ma dalla grazia, di cui la natura razionale è capace. Pertanto, non è necessario che appartenga a ogni essere razionale; tuttavia, ogni creatura razionale deve necessariamente essere in grado di ricevere l’adozione.
 
-<span class="atom-split" data-atom="161" data-title="Whether Christ as man is the adopted Son of God?" data-chapter="Whether Christ as man is the adopted Son of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="161" data-title="Whether Christ as man is the adopted Son of God?" data-chapter="Whether Christ as man is the adopted Son of God?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ as man is the adopted Son of God. For Hilary says (De
 Trin. ii) speaking of Christ: "The dignity of power is not forfeited when carnal humanity [*Some
@@ -10848,7 +10856,7 @@ Risposta all’Obiezione 2: Questo confronto con Agostino va inteso in relazione
 
 Risposta all’Obiezione 3: Essere una creatura, nonché essere soggetti o subordinati a Dio, riguarda non solo la natura umana, ma anche la sua condizione di creatura; tuttavia ciò non si può dire della relazione di figlio con Dio. Pertanto, questa analogia non è valida.
 
-<span class="atom-split" data-atom="162" data-title="OF THE PREDESTINATION OF CHRIST (FOUR ARTICLES)" data-chapter="OF THE PREDESTINATION OF CHRIST (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="162" data-title="OF THE PREDESTINATION OF CHRIST (FOUR ARTICLES)" data-chapter="OF THE PREDESTINATION OF CHRIST (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/predestination"></span>
 
 We shall now consider the [predestination](/concepts/predestination) of Christ. Under this head there are four points of
 inquiry:
@@ -10865,7 +10873,7 @@ Ora considereremo la [predestinazione](/concepts/predestination) di Cristo. In q
 (3) Se la Sua predestinazione costituisca un modello per la nostra;  
 (4) Se essa sia la causa della nostra predestinazione.
 
-<span class="atom-split" data-atom="163" data-title="Whether it is befitting that Christ should be predestinated?" data-chapter="Whether it is befitting that Christ should be predestinated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="163" data-title="Whether it is befitting that Christ should be predestinated?" data-chapter="Whether it is befitting that Christ should be predestinated?" data-kind="atom" data-srclang="en" data-tags="concepts/predestination,concepts/grace,positions/eternity,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem unfitting that Christ should be predestinated. For the term of
 anyone's [predestination](/concepts/predestination) seems to be the adoption of sons, according to Eph. 1:5: "Who hath
@@ -10962,7 +10970,7 @@ Risposta all’Obiezione 2: Come afferma una glossa [*tratta da Sant’Agostino,
 
 Risposta all’Obiezione 3: Origene, commentando Romani 1:4, afferma che la vera interpretazione di questo passaggio dell’Apostolo sia: “Colui che era destinato ad essere il Figlio di Dio in potenza”; in questo modo non viene implicata alcuna precedenza temporale. Così non sorgerebbero difficoltà. Altri ritengono che la precedenza indicata dal participio “predestinato” si riferisca non al fatto stesso di essere il Figlio di Dio, ma alla sua manifestazione, secondo lo stile tipico della Sacra [Scrittura](/concepts/revelation), che parla di eventi come se avvenissero nel momento in cui vengono resi noti; quindi il senso sarebbe: “Cristo fu predestinato ad essere rivelato come Figlio di Dio”. Tuttavia, questa interpretazione è impropria. Infatti, si dice che una persona sia predestinata in relazione al fine della beatitudine a cui è destinata; ma la beatitudine di Cristo non dipende dalla nostra conoscenza di essa. È quindi più appropriato ritenere che la precedenza indicata dal participio “predestinato” si riferisca alla Persona stessa, ma non in sé, bensì in relazione alla sua natura umana: poiché, sebbene quella Persona fosse il Figlio di Dio fin dall’eternità, non è sempre stato vero che colui che esisteva nella natura umana fosse effettivamente il Figlio di Dio. Per questo Agostino afferma (De Praedestin. Sanct., XV): “Gesù fu predestinato affinché Colui che, secondo la carne, doveva essere figlio di Davide, potesse comunque diventare il Figlio di Dio in potenza”. Inoltre, bisogna osservare che, sebbene il participio “predestinato”, proprio come il participio “fatto”, implichino una precedenza temporale, esiste una differenza: “essere fatto” riguarda la cosa stessa; mentre “essere predestinato” riguarda qualcuno nel contesto di chi preordina. Ora, ciò che è soggetto di una forma o natura può essere considerato sia sotto quella forma sia in modo assoluto. Poiché non si può dire in modo assoluto della Persona di Cristo che abbia “iniziato ad essere il Figlio di Dio”, tuttavia questo diventa vero per Lui nel momento in cui viene compreso o riconosciuto come esistente nella natura umana; quindi l’affermazione “Cristo fu predestinato a essere il Figlio di Dio” è più vera dell’affermazione “Cristo fu fatto il Figlio di Dio”.
 
-<span class="atom-split" data-atom="164" data-title="Whether this proposition is false: \&quot;Christ as man was predestinated to be the Son of God\&quot;?" data-chapter="Whether this proposition is false: \&quot;Christ as man was predestinated to be the Son of God\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="164" data-title="Whether this proposition is false: \&quot;Christ as man was predestinated to be the Son of God\&quot;?" data-chapter="Whether this proposition is false: \&quot;Christ as man was predestinated to be the Son of God\&quot;?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/predestination,concepts/grace,figures/augustine"></span>
 
 # Whether this proposition is false: "Christ as man was predestinated to be the Son of God"?
 
@@ -11025,7 +11033,7 @@ nature, that it might be united to the Son of God; it is more proper to say that
 predestinated to be the Son of God," than that, "Christ, as Son of God, was predestinated to be
 Man."
 
-<span class="atom-split" data-atom="165" data-title="Whether Christ's predestination is the exemplar of ours?" data-chapter="Whether Christ's predestination is the exemplar of ours?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="165" data-title="Whether Christ's predestination is the exemplar of ours?" data-chapter="Whether Christ's predestination is the exemplar of ours?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's [predestination](/concepts/predestination) is not the exemplar of ours. For the
 exemplar exists before the exemplate. But nothing exists before the eternal. Since, therefore, our
@@ -11082,7 +11090,7 @@ Risposta all’Obiezione 1: Questo argomento prende in considerazione l’atto m
 
 Risposta all’Obiezione 3: L’esemplare non deve necessariamente conformarsi all’esemplare originale in tutti gli aspetti; è sufficiente che lo imiti in alcuni di essi.
 
-<span class="atom-split" data-atom="166" data-title="Whether Christ's predestination is the cause of ours?" data-chapter="Whether Christ's predestination is the cause of ours?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="166" data-title="Whether Christ's predestination is the cause of ours?" data-chapter="Whether Christ's predestination is the cause of ours?" data-kind="atom" data-srclang="en" data-tags="positions/eternity,concepts/predestination,concepts/cause,figures/augustine"></span>
 
 Objection 1: It would seem that Christ's [predestination](/concepts/predestination) is not the cause of ours. For that which
 is eternal has no cause. But our predestination is eternal. Therefore Christ's predestination is not
@@ -11130,7 +11138,7 @@ Risposte agli Obiezioni 1 e 2: Questi argomenti considerano la predestinazione d
 
 Risposta all’Obiezione 3: Se Cristo non fosse stato incarnato, Dio avrebbe decretato la salvezza degli uomini con altri mezzi. Ma poiché Egli ha decretato l’incarnazione di Cristo, ha anche decretato che Egli dovesse essere la causa della nostra salvezza.
 
-<span class="atom-split" data-atom="167" data-title="OF THE ADORATION OF CHRIST (SIX ARTICLES)" data-chapter="OF THE ADORATION OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="167" data-title="OF THE ADORATION OF CHRIST (SIX ARTICLES)" data-chapter="OF THE ADORATION OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider things pertaining to Christ in reference to us; and first, the adoration
 of Christ, by which we adore Him; secondly, we must consider how He is our Mediator with God.
@@ -11152,7 +11160,7 @@ Ora dobbiamo considerare ciò che riguarda Cristo in relazione a noi; innanzitut
 (5) E alla Sua Madre?  
 (6) In merito all’adorazione delle reliquie dei Santi.
 
-<span class="atom-split" data-atom="168" data-title="Whether Christ's humanity and Godhead are to be adored with the same adoration?" data-chapter="Whether Christ's humanity and Godhead are to be adored with the same adoration?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="168" data-title="Whether Christ's humanity and Godhead are to be adored with the same adoration?" data-chapter="Whether Christ's humanity and Godhead are to be adored with the same adoration?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's humanity and Godhead are not to be adored with the
 same adoration. For Christ's Godhead is to be adored, as being common to Father and Son; wherefore
@@ -11232,7 +11240,7 @@ Risposta all’Obiezione 2: L’azione concreta non è l’oggetto dell’onore,
 
 Risposta all’Obiezione 3: Se l’anima di Cristo non fosse unita alla Parola di Dio, essa sarebbe la parte principale di quell’Uomo. Pertanto, onore dovrebbe essere attribuito principalmente a lei, poiché l’uomo è ciò che costituisce la parte principale in lui [*Cfr. Etica, IX, 8*]. Ma poiché l’anima di Cristo è unita a una Persona di maggiore dignità, onore dovrebbe essere attribuito principalmente a quella Persona, alla quale è unita l’anima di Cristo. La dignità dell’anima di Cristo non viene in questo modo diminuita, ma anzi aumentata, come già detto sopra (Q[2], A[2], ad 2).
 
-<span class="atom-split" data-atom="169" data-title="Whether Christ's humanity should be adored with the adoration of \&quot;latria\&quot;?" data-chapter="Whether Christ's humanity should be adored with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="169" data-title="Whether Christ's humanity should be adored with the adoration of \&quot;latria\&quot;?" data-chapter="Whether Christ's humanity should be adored with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether Christ's humanity should be adored with the adoration of "latria"?
 
@@ -11303,7 +11311,7 @@ Niente in tutto ciò è inappropriato: infatti, l’onore dovuto alla “latria�
 
 Risposta all’Obiezione 1: Quella spiegazione non deve essere intesa nel senso che la carne di Cristo debba essere adorata separatamente dalla sua divinità; ciò sarebbe possibile soltanto se esistessero due ipostasi distinte, una per Dio e un’altra per l’uomo. Ma poiché, come afferma Damasceno (De Fide Orthodossa iv, 3): “Se si distingue in modo sottile ciò che è visibile da ciò che è intellegibile, allora tale cosa non può essere adorata, poiché è una creatura” – cioè con un’adorazione di tipo “latria” – e se così venisse considerata separata dalla Parola di Dio, dovrebbe essere venerata con un’adorazione di tipo “dulia”; non però con la stessa forma di “dulia” riservata ad altre creature, ma con una venerazione più elevata, chiamata “iperdulia”. Da ciò derivano le risposte anche alle seconda e terza obiezioni: l’adorazione di tipo “latria” non viene infatti rivolta all’umanità di Cristo in sé stessa, ma alla sua divinità, con la quale è unita; per questo motivo Cristo non è considerato inferiore al Padre.
 
-<span class="atom-split" data-atom="170" data-title="Whether the image of Christ should be adored with the adoration of \&quot;latria\&quot;?" data-chapter="Whether the image of Christ should be adored with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="170" data-title="Whether the image of Christ should be adored with the adoration of \&quot;latria\&quot;?" data-chapter="Whether the image of Christ should be adored with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether the image of Christ should be adored with the adoration of "latria"?
 
@@ -11404,7 +11412,7 @@ Risposta all’Obiezione 3: Il rispetto dovuto alla creatura razionale è dovuto
 
 Risposta all’Obiezione 4: Gli Apostoli, guidati dall’istinto interno dello Spirito Santo, trasmisero alle chiese alcune istruzioni che non registrarono per iscritto, ma le quali furono stabilite e osservate dalla Chiesa nel corso del tempo dai fedeli. Per questo motivo l’Apostolo dice (2 Tessalonicesi 2:14): “Rimanete saldi e custodite le tradizioni che avete appreso, sia orali che scritte”. Tra queste tradizioni vi è anche il culto dell’immagine di Cristo; per questo si dice che il beato Luca abbia dipinto l’immagine di Cristo, che si trova a Roma.
 
-<span class="atom-split" data-atom="171" data-title="Whether Christ's cross should be worshipped with the adoration of \&quot;latria\&quot;?" data-chapter="Whether Christ's cross should be worshipped with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="171" data-title="Whether Christ's cross should be worshipped with the adoration of \&quot;latria\&quot;?" data-chapter="Whether Christ's cross should be worshipped with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether Christ's cross should be worshipped with the adoration of "latria"?
 
@@ -11496,7 +11504,7 @@ Risposta all’Obiezione 2: Sebbene la croce di Cristo non fosse unita alla Paro
 
 Risposta all’Obiezione 3: Per via del contatto delle membra di Cristo, non veneriamo soltanto la croce, ma tutto ciò che appartiene a Cristo. Pertanto Damasceno afferma (De Fide Orth. iv, 11): “Il legno prezioso, essendo stato santificato dal contatto del Suo corpo e del Suo sangue sacri, merita di essere venerato adeguatamente; così come i Suoi chiodi, la Sua lancia e i luoghi in cui visse, come la mangiatoia, la grotta, ecc.” Tuttavia, queste cose non rappresentano l’immagine di Cristo nel modo in cui lo fa la croce, che è chiamata “il Segno del Figlio dell’Uomo” e che “apparirà in cielo”, come è scritto (Matteo 24:30). Per questo motivo, l’angelo disse alle donne (Marco 16:6): “Cercate Gesù di Nazareth, che è stato crocifisso”; non disse “perfetto con le piaghe”, ma “crocifisso”. Proprio per questa ragione veneriamo l’immagine della croce di Cristo in qualsiasi materiale, ma non l’immagine dei chiodi o di altre cose simili.
 
-<span class="atom-split" data-atom="172" data-title="Whether the Mother of God should be worshipped with the adoration of \&quot;latria\&quot;?" data-chapter="Whether the Mother of God should be worshipped with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="172" data-title="Whether the Mother of God should be worshipped with the adoration of \&quot;latria\&quot;?" data-chapter="Whether the Mother of God should be worshipped with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether the Mother of God should be worshipped with the adoration of "latria"?
 
@@ -11539,7 +11547,7 @@ Reply to Objection 3: The cross, considered in itself, is not an object of vener
 above (AA[4],5). But the Blessed Virgin is in herself an object of veneration. Hence there is no
 comparison.
 
-<span class="atom-split" data-atom="173" data-title="Whether any kind of worship is due to the relics of the saints?" data-chapter="Whether any kind of worship is due to the relics of the saints?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="173" data-title="Whether any kind of worship is due to the relics of the saints?" data-chapter="Whether any kind of worship is due to the relics of the saints?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/religion,concepts/miracle,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that the relics of the saints are not to be worshiped at all. For we
 should avoid doing what may be the occasion of error. But to [worship](/concepts/religion) the relics of the dead seems
@@ -11590,7 +11598,7 @@ Reply to Objection 3: The dead body of a saint is not identical with that which 
 during life, on account of the difference of form, viz. the soul: but it is the same by identity of
 matter, which is destined to be reunited to its form.
 
-<span class="atom-split" data-atom="174" data-title="OF CHRIST AS CALLED THE MEDIATOR OF GOD AND MAN (TWO ARTICLES)" data-chapter="OF CHRIST AS CALLED THE MEDIATOR OF GOD AND MAN (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="174" data-title="OF CHRIST AS CALLED THE MEDIATOR OF GOD AND MAN (TWO ARTICLES)" data-chapter="OF CHRIST AS CALLED THE MEDIATOR OF GOD AND MAN (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider how Christ is called the Mediator of God and man, and under this
 head there are two points of inquiry:
@@ -11603,7 +11611,7 @@ Dobbiamo ora considerare in che modo Cristo venga chiamato Mediatore tra Dio e l
 (1) È appropriato che Cristo sia il Mediatore tra Dio e l’uomo?  
 (2) Questo ruolo Gli appartiene in virtù della Sua [natura umana](/axes/human_nature)?
 
-<span class="atom-split" data-atom="175" data-title="Whether it is proper to Christ to be the Mediator of God and man?" data-chapter="Whether it is proper to Christ to be the Mediator of God and man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="175" data-title="Whether it is proper to Christ to be the Mediator of God and man?" data-chapter="Whether it is proper to Christ to be the Mediator of God and man?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not proper to Christ to be the Mediator of God and man.
 For a priest and a prophet seem to be mediators between God and man, according to Dt. 5:5: "I was
@@ -11685,7 +11693,7 @@ Risposta all’Obiezione 2: Gli angeli buoni, come afferma Agostino (De Civ. Dei
 
 Risposta all’Obiezione 3: Poiché lo Spirito Santo è in tutto ciò che è uguale a Dio, non si può dire che sia intermediario tra Dio e gli uomini; ma solo Cristo, il quale, sebbene uguale al Padre nella Sua divinità, è tuttavia inferiore al Padre nella Sua [natura umana](/axes/human_nature), come detto sopra (Q[20], A[1]). Pertanto, riguardo a Galati 3:20 (“Cristo è l’intermediario, ”, nel testo volgare “Ora un intermediario non è di uno solo, ma Dio è uno”), il commento afferma: “Né il Padre né lo Spirito Santo”. Tuttavia, si dice che lo Spirito Santo “chieda per noi”, perché è Lui a farci chiedere.
 
-<span class="atom-split" data-atom="176" data-title="Whether Christ, is the Mediator of God and men? (parte 1)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="176" data-title="Whether Christ, is the Mediator of God and men? (parte 1)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ is not, as man, the Mediator of God and men. For
 [Augustine](/figures/augustine) says (Contra Felic. x): "One is the Person of Christ: lest there be not one Christ, not one
@@ -11744,7 +11752,7 @@ Risposta all’Obiezione 1: Se traiamo la Natura Divina da Cristo, ne traiamo ne
 
 Risposta all’Obiezione 2: Cristo, in quanto Dio, è uguale al Padre in tutte le cose. Tuttavia, anche nella sua natura umana, Egli è superiore a tutti gli uomini. Pertanto, come uomo, può essere Mediatore, ma non come Dio.
 
-<span class="atom-split" data-atom="177" data-title="Whether Christ, is the Mediator of God and men? (parte 2)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="177" data-title="Whether Christ, is the Mediator of God and men? (parte 2)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: Although it belongs to Christ as God to take away sin authoritatively,
 yet it belongs to Him, as man, to satisfy for the sin of the human race. And in this sense He is called
@@ -11816,7 +11824,7 @@ La Legge e il corso del [peccato originale](/positions/original_sin) sotto la Le
 Si può così comprendere quanto accuratamente San Tommaso parli del “corpo” della nostra Beata Vergine: secondo lui, il corpo umano è animato da un’anima vegetativa, sensibile e razionale; pertanto l’affermazione che “il corpo della Vergine Maria sia stato concepito nel peccato originale” significa semplicemente che tale corpo, essendo discendente di Adamo, ha contratto i difetti fisici derivanti da tale peccato. Tuttavia, nella Concezione Immacolata, la grazia divina ha impedito che tali difetti venissero trasmessi all’anima.
 A meno che la grazia del Redentore non intervenisse e santificasse la sua anima “nello stesso istante”, salvandola così dal peccato originale. Allora perché San Tommaso afferma che, poiché la Beata Vergine non fu santificata prima dell’animazione, potesse essere santificata soltanto dopo? Una tale conclusione sarebbe valida se si trattasse di una questione legata all’ordine naturale: “una cosa deve esistere prima di diventare ciò che è”; quindi l’anima dovrebbe esistere prima di essere santificata. Ma se San Tommaso considerava tale processo come successivo nel tempo, per quanto breve, non si capisce come non abbia riconosciuto l’errore di questo ragionamento: in realtà il momento della santificazione potrebbe coincidere esattamente con quello dell’animazione. La risposta è semplice: San Tommaso, essendo un Dottore della Chiesa e occupandosi di questioni che all’epoca non riguardavano la fede in sé stante, rifletteva soltanto l’espressione della fede del suo tempo. Pertanto il suo ragionamento coincide con quello di San Bernardo, Pietro Lombardo, Alessandro di Hales, Alberto Magno e San Bonaventura. Non è probabile che San Tommaso si discostasse dai grandi maestri del suo tempo, i quali non comprendevano che la grazia della redenzione potesse essere allo stesso tempo una grazia di conservazione e di salvazione. Inoltre, non è verosimile che San Tommaso disponesse di informazioni affidabili riguardo al diffondersi, in quel periodo, della credenza nella Concezione Immacolata – soprattutto in Inghilterra, dove, grazie all’influenza di Sant’Anselmo (1109), questa dottrina fu sostenuta da Eadmer (1137), Niccolò di St Albans (1175), Osberto di Clare (1170), Roberto Grosseteste vescovo di Lincoln (1253) e Guglielmo di Ware (1300), maestro di Duns Scoto (1308). Senza dubbio San Tommaso ne era a conoscenza, ma i nomi dei suoi sostenitori avrebbero avuto scarso peso rispetto a quelli di Bernardo, Alberto, Pietro, Alessandro e Bonaventura. Inoltre, va ricordato che tra coloro che sostenevano la dottrina della Concezione Immacolata, molti consideravano tale privilegio assoluto, e non legato soltanto alla conservazione o alla redenzione dell’anima. Ecco perché San Tommaso insiste su due punti fondamentali: (1) che la Madre di Dio sia stata redenta, e (2) che la grazia della sua santificazione sia stata una grazia di conservazione. In conclusione, questi due aspetti, sottolineati con tanta insistenza da San Tommaso, costituiscono proprio le basi della dottrina cattolica sulla Concezione Immacolata.
 
-<span class="atom-split" data-atom="178" data-title="OF THE SANCTIFICATION OF THE BLESSED VIRGIN (SIX ARTICLES)" data-chapter="OF THE SANCTIFICATION OF THE BLESSED VIRGIN (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="178" data-title="OF THE SANCTIFICATION OF THE BLESSED VIRGIN (SIX ARTICLES)" data-chapter="OF THE SANCTIFICATION OF THE BLESSED VIRGIN (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 After the foregoing treatise of the union of God and man and the consequences thereof, it
 remains for us to consider what things the Incarnate Son of God did or suffered in the [human nature](/axes/human_nature)
@@ -11845,7 +11853,7 @@ Per quanto riguarda il primo punto, si possono considerare quattro aspetti: (1) 
 Per quanto riguarda la Madre, si possono considerare quattro aspetti: (1) La Sua santificazione; (2) La Sua verginità; (3) I Suoi sponsali; (4) L’Annunciazione, ovvero le circostanze che precedettero la Concezione.  
 Per quanto riguarda il primo punto, vi sono sei questioni da esaminare: (1) Se la Beata Vergine, Madre di Dio, fu santificata prima della sua nascita; (2) Se fu santificata prima dell’infusione dello spirito vitale; (3) Se, a causa di questa santificazione, tutti i mali del peccato furono completamente eliminati da Lei; (4) Se, come conseguenza di questa santificazione, Lei non peccò mai più; (5) Se, grazie a questa santificazione, ricevette la pienezza della grazia divina; (6) Se fosse appropriato che Lei venisse santificata in questo modo.
 
-<span class="atom-split" data-atom="179" data-title="Whether the Blessed Virgin was sanctified before her birth from the womb?" data-chapter="Whether the Blessed Virgin was sanctified before her birth from the womb?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="179" data-title="Whether the Blessed Virgin was sanctified before her birth from the womb?" data-chapter="Whether the Blessed Virgin was sanctified before her birth from the womb?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/grace,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Blessed Virgin was not sanctified before her birth from
 the womb. For the Apostle says (1 Cor. 15:46): "That was not first which is spiritual but that which
@@ -11933,7 +11941,7 @@ Risposta all’Obiezione 3: La Beata Vergine fu santificata nel grembo materno d
 
 Risposta all’Obiezione 4: Il peccato originale si trasmette attraverso l’origine, poiché è proprio attraverso l’origine che viene trasmessa la [natura umana](/axes/human_nature), e il peccato originale, in senso stretto, colpisce proprio questa natura. Ciò avviene quando il seme concepito riceve la vita. Pertanto, nulla impedisce che il figlio concepito venga santificato dopo aver ricevuto la vita: infatti, a quel punto rimane nel grembo materno non al fine di ricevere la natura umana, ma per un ulteriore perfezionamento di ciò che ha già ricevuto.
 
-<span class="atom-split" data-atom="180" data-title="Whether the Blessed Virgin was sanctified before animation?" data-chapter="Whether the Blessed Virgin was sanctified before animation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="180" data-title="Whether the Blessed Virgin was sanctified before animation?" data-chapter="Whether the Blessed Virgin was sanctified before animation?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,concepts/grace,concepts/predestination,concepts/soul"></span>
 
 Objection 1: It would seem that the Blessed Virgin was sanctified before animation. Because,
 as we have stated (A[1]), more grace was bestowed on the Virgin Mother of God than on any saint.
@@ -12038,7 +12046,7 @@ Risposta all’Obiezione 3: Sebbene la Chiesa di Roma non celebri la Concezione 
 
 Risposta all’Obiezione 4: La santificazione è di due tipi. Il primo riguarda l’intera natura umana: in quanto l’intera [natura umana](/axes/human_nature) viene liberata da ogni corruzione dovuta al peccato e alla punizione. Ciò avverrà durante la risurrezione. Il secondo tipo di santificazione è quella personale; essa non si trasmette ai figli nati dal matrimonio, poiché riguarda l’anima e non il corpo. Pertanto, sebbene i genitori della Beata Vergine fossero stati purificati dal peccato originale, lei stessa lo contrasse, poiché fu concepita attraverso un rapporto carnale tra uomo e donna. Come afferma [Agostino](/figures/augustine) nel “De Nupio et Concupiscentia” I: “Tutta la carne nata da un rapporto sessuale è peccaminosa”.
 
-<span class="atom-split" data-atom="181" data-title="Whether the Blessed Virgin was cleansed from the infection of the fomes?" data-chapter="Whether the Blessed Virgin was cleansed from the infection of the fomes?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="181" data-title="Whether the Blessed Virgin was cleansed from the infection of the fomes?" data-chapter="Whether the Blessed Virgin was cleansed from the infection of the fomes?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Blessed Virgin was not cleansed from the infection of the
 fomes. For just as the fomes, consisting in the rebellion of the lower powers against the reason, is
@@ -12148,7 +12156,7 @@ Risposta all’Obiezione 2: La “debolezza” della carne, che riguarda i vizi 
 Risposta all’Obiezione 3: Lo Spirito Santo operò una duplice purificazione nella Beata Vergine.  
 La prima fu, per così dire, preparatoria alla concezione di Cristo: essa non la purificò dalla macchia del peccato o dalle impurità spirituali, ma le conferì un’uniformità di intenti e la liberò da ogni distrazione (cfr. Dionigi di Atene, *Divini Nomi* iv), poiché anche gli angeli, secondo Dionigi stesso (*Ecclesiastica Hierarchica* vi), vengono purificati, essendo privi di qualsiasi impurità. La seconda purificazione operata da Lo Spirito Santo in lei fu quella derivante dalla stessa concezione di Cristo, che costituì un atto concreto dell’operazione dello Spirito Santo stesso. In questo senso, si può affermare che Lo Spirito Santo la purificò completamente dalle impurità spirituali.
 
-<span class="atom-split" data-atom="182" data-title="Whether by being sanctified in the womb the Blessed Virgin was preserved from all actual sin?" data-chapter="Whether by being sanctified in the womb the Blessed Virgin was preserved from all actual sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="182" data-title="Whether by being sanctified in the womb the Blessed Virgin was preserved from all actual sin?" data-chapter="Whether by being sanctified in the womb the Blessed Virgin was preserved from all actual sin?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that by being sanctified in the womb the Blessed Virgin was not
 preserved from all actual sin. For, as we have already stated (A[3]), after her first sanctification the
@@ -12235,7 +12243,7 @@ Risposta all’Obiezione 2: Origene (Hom. XVII in Luc.) e alcuni altri autori in
 
 Risposta all’Obiezione 3: Con quelle parole Crisostomo va troppo oltre. Tuttavia, possono essere interpretate nel senso che il nostro Signore corresse non quel movimento eccessivo di vanagloria da parte sua stessa, ma ciò che poteva esserci nei pensieri degli altri.
 
-<span class="atom-split" data-atom="183" data-title="Whether, by her sanctification in the womb, the Blessed Virgin received the fulness of grace?" data-chapter="Whether, by her sanctification in the womb, the Blessed Virgin received the fulness of grace?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="183" data-title="Whether, by her sanctification in the womb, the Blessed Virgin received the fulness of grace?" data-chapter="Whether, by her sanctification in the womb, the Blessed Virgin received the fulness of grace?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that, by her sanctification in the womb, the Blessed Virgin did not
 receive the fulness or perfection of grace. For this seems to be Christ's privilege, according to Jn.
@@ -12327,7 +12335,7 @@ Il fatto che il secondo livello sia superiore al primo, e il terzo al secondo, e
 
 Risposta all’Obiezione 3: Non vi è dubbio che la Beata Vergine abbia ricevuto in alto grado sia il dono della saggezza che la grazia dei miracoli, nonché quella della profezia, proprio come li ebbe Cristo. Tuttavia, ella non li utilizzò in modo da impiegarli in ogni occasione, come fece Cristo, ma secondo le esigenze della sua condizione di vita. La saggezza le fu utile per la contemplazione, come si legge in Luca 2:19: “Maria custodiva tutte queste parole, meditandole nel suo cuore”. Tuttavia, non ne fece uso per insegnare, poiché ciò non era consono al genere femminile, come afferma 1 Timoteo 2:12: “Non permetto infatti a una donna di insegnare”. La grazia dei miracoli non le fu necessaria durante la sua vita, poiché in quel periodo l’insegnamento di Cristo doveva essere confermato dai miracoli; pertanto era appropriato che fossero soltanto Cristo e i suoi discepoli, portatori della Sua dottrina, a compiere miracoli. Per questo motivo, di Giovanni Battista si legge (Giovanni 10:41) che “non fece alcun segno”; ciò avvenne affinché tutti potessero rivolgere la loro attenzione su Cristo. Quanto alla grazia della profezia, è evidente che ella la possedesse, come si evince dal canto che recitò: “La mia anima esulta nel Signore” (Luca 1:46).
 
-<span class="atom-split" data-atom="184" data-title="Whether after Christ, it was proper to the Blessed Virgin to be sanctified in the womb?" data-chapter="Whether after Christ, it was proper to the Blessed Virgin to be sanctified in the womb?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="184" data-title="Whether after Christ, it was proper to the Blessed Virgin to be sanctified in the womb?" data-chapter="Whether after Christ, it was proper to the Blessed Virgin to be sanctified in the womb?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was proper for the Blessed Virgin, after Christ, to be sanctified
 in the womb. For it has been said (A[4]) that the Blessed Virgin was sanctified in the womb, in
@@ -12413,7 +12421,7 @@ Risposta all’Obiezione 2: In altri aspetti, questi santi potrebbero essere pi�
 
 Risposta all’Obiezione 3: La misericordia di cui parla Giobbe non è una virtù innata, ma piuttosto una certa inclinazione naturale verso l’atto di tale virtù.
 
-<span class="atom-split" data-atom="185" data-title="OF THE VIRGINITY OF THE MOTHER OF GOD (FOUR ARTICLES)" data-chapter="OF THE VIRGINITY OF THE MOTHER OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="185" data-title="OF THE VIRGINITY OF THE MOTHER OF GOD (FOUR ARTICLES)" data-chapter="OF THE VIRGINITY OF THE MOTHER OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We now have to consider the virginity of the Mother of God; concerning which there are four
 points of inquiry:
@@ -12430,7 +12438,7 @@ Dobbiamo ora considerare la verginità della Madre di Dio; al riguardo vi sono q
 (3) Se rimase vergine dopo la Sua nascita;  
 (4) Se prese un voto di verginità.
 
-<span class="atom-split" data-atom="186" data-title="Whether the Mother of God was a virgin in conceiving Christ?" data-chapter="Whether the Mother of God was a virgin in conceiving Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="186" data-title="Whether the Mother of God was a virgin in conceiving Christ?" data-chapter="Whether the Mother of God was a virgin in conceiving Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Mother of God was not a virgin in conceiving Christ. For
 no child having father and mother is conceived by a virgin mother. But Christ is said to have had
@@ -12561,7 +12569,7 @@ Risposta all’Obiezione 4: Questo argomento è valido per quelle cose che vengo
 
 Risposta all’Obiezione 5: Secondo il Filosofo (De Generatione Animalium, i, ii, iv), nella concezione l’“seme” maschile non agisce in qualità di materia, ma come elemento attivo; è soltanto la femmina a fornire la materia necessaria. Pertanto, anche se nel caso di Cristo mancava l’“seme” maschile, ciò non significa che mancasse la materia necessaria per la sua formazione. Tuttavia, se l’“seme” maschile fosse effettivamente la materia del feto nella concezione animale, sarebbe evidente che si tratta di una materia suscettibile di trasformazione, e non di una materia che rimane immutata sotto una forma specifica. Sebbene il potere naturale possa trasformare soltanto determinate materie in determinate forme, il Potere Divino, essendo infinito, può trasformare qualsiasi materia in qualsiasi forma desiderata. Pertanto, proprio come il Potere Divino ha trasformato la “limaccia della terra” nel corpo di Adamo, avrebbe potuto trasformare anche la materia fornita dalla Madre di Cristo nel suo corpo, anche se essa non fosse stata sufficiente per una concezione naturale.
 
-<span class="atom-split" data-atom="187" data-title="Whether Christ's Mother was a virgin in His birth?" data-chapter="Whether Christ's Mother was a virgin in His birth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="187" data-title="Whether Christ's Mother was a virgin in His birth?" data-chapter="Whether Christ's Mother was a virgin in His birth?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/miracle,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that Christ's Mother was not a virgin in His Birth. For Ambrose
 says on Lk. 2:23: "He who sanctified a strange womb, for the birth of a prophet, He it is who opened
@@ -12649,7 +12657,7 @@ Risposta all’Obiezione 2: Cristo volle così dimostrare la realtà del Suo cor
 
 Risposta all’Obiezione 3: Alcuni hanno sostenuto che Cristo, al momento della Sua nascita, abbia assunto il dono della “sottigliezza” quando è uscito dal grembo vergine di Maria; e che abbia assunto il dono dell’“agilità” quando ha camminato sul mare senza bagnarsi i piedi. Tuttavia, ciò non è coerente con quanto già stabilito in precedenza (Q[14]). Infatti, questi doni derivanti dal corpo glorificato sono il risultato di un’effusione della gloria dell’anima sul corpo stesso, come spiegheremo più avanti nel trattare dei corpi glorificati (XP, Q[82]); inoltre, è stato detto in precedenza (Q[13], A[3], ad 1; Q[16], A[1], ad 2) che prima della Sua Passione Cristo “permise al proprio corpo di compiere ciò che era conforme alla sua natura” (Damasceno, De Fide Orth. iii); inoltre, non vi fu alcuna effusione della gloria dell’anima sul corpo. Pertanto, dobbiamo affermare che tutte queste cose si siano verificate per miracolo, grazie al potere divino. Da ciò deriva quanto afferma Agostino (Sup. Joan. Tract. 121): “Per la sostanza di un corpo in cui risiedeva la Divinità, le porte chiuse non costituivano alcun ostacolo; poiché Egli aveva davvero il potere di entrare attraverso porte chiuse, e nella Sua nascita la verginità di Maria rimase intatta”. E Dionigi nel suo epistola ad Caio iv afferma che “Cristo superò l’uomo nell’eseguire ciò che è proprio dell’uomo: ciò si manifesta nella Sua concezione soprannaturale da parte di una vergine, e nel fatto che le acque instabili potessero sostenere il peso dei suoi piedi terreni”.
 
-<span class="atom-split" data-atom="188" data-title="Whether Christ's Mother remained a virgin after His birth? (parte 1)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="188" data-title="Whether Christ's Mother remained a virgin after His birth? (parte 1)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's Mother did not remain a virgin after His Birth. For it
 is written (Mat. 1:18): "Before Joseph and Mary came together, she was found with child of the
@@ -12755,7 +12763,7 @@ to be supplied by our understanding. Thus the evangelist says that the Mother of
 known by her husband until she gave birth, that we may be given to understand that still less did
 he know her afterwards" (Adversus Helvid. v).
 
-<span class="atom-split" data-atom="189" data-title="Whether Christ's Mother remained a virgin after His birth? (parte 2)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="189" data-title="Whether Christ's Mother remained a virgin after His birth? (parte 2)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 4: The Scriptures are wont to designate as the first-born, not only a child
 who is followed by others, but also the one that is born first. "Otherwise, if a child were not first-born
@@ -12786,7 +12794,7 @@ Risposta all’Obiezione 5: Alcuni, come afferma Geromeo in riferimento a Matteo
 
 Risposta all’Obiezione 6: Maria, chiamata “madre di Giacomo e Giuseppe”, non deve essere considerata la Madre del nostro Signore, la quale nei Vangeli non viene mai nominata se non con questa designazione che esprime la sua dignità: “madre di Gesù”. Questa Maria va intesa come moglie di Alfeo, il cui figlio era Giacomo minore, conosciuto come “fratello del Signore” (Galati 1:19).
 
-<span class="atom-split" data-atom="190" data-title="Whether the Mother of God took a vow of virginity?" data-chapter="Whether the Mother of God took a vow of virginity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="190" data-title="Whether the Mother of God took a vow of virginity?" data-chapter="Whether the Mother of God took a vow of virginity?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/custom,concepts/religion,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that the Mother of God did not take a vow of virginity. For it is
 written (Dt. 7:14): "No one shall be barren among you of either sex." But sterility is a consequence
@@ -12833,7 +12841,7 @@ Reply to Objection 3: These words of the Apostle are to be understood of those w
 chastity absolutely. Christ's Mother did not do this until she was espoused to Joseph. After her
 espousals, however, by their common consent she took a vow of virginity together with her spouse.
 
-<span class="atom-split" data-atom="191" data-title="OF THE ESPOUSALS OF THE MOTHER OF GOD (TWO ARTICLES)" data-chapter="OF THE ESPOUSALS OF THE MOTHER OF GOD (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="191" data-title="OF THE ESPOUSALS OF THE MOTHER OF GOD (TWO ARTICLES)" data-chapter="OF THE ESPOUSALS OF THE MOTHER OF GOD (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We now consider the espousals of God's Mother: concerning which two points arise for inquiry:
 (1) Whether Christ should have been born of an espoused virgin?
@@ -12845,7 +12853,7 @@ Ora esaminiamo le nozze promesse della Madre di Dio: a proposito delle quali sor
 (1) Se Cristo dovesse essere nato da una vergine promessa in matrimonio?
 (2) Se vi fosse stato un vero matrimonio tra la Madre del nostro Signore e Giuseppe?
 
-<span class="atom-split" data-atom="192" data-title="Whether Christ should have been born of an espoused virgin? (parte 1)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="192" data-title="Whether Christ should have been born of an espoused virgin? (parte 1)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ should not have been born of an espoused virgin. For
 espousals are ordered to carnal intercourse. But our Lord's Mother never wished to have carnal
@@ -12975,7 +12983,7 @@ Risposta all’Obiezione 2: Come afferma Ambrogio riguardo a Luca 1:26: “Il no
 
 Risposta all’Obiezione 3: Come afferma Agostino (De Trinitate iii), il diavolo può compiere molte cose con la sua forza naturale, ma è ostacolato dalla potenza divina nel farlo. Pertanto, è possibile che il diavolo, con la sua forza naturale, sapesse che la Madre di Dio non conosceva l’uomo e che era vergine; tuttavia, Dio gli impedì di conoscere i dettagli della Nascita divina. Il fatto che in seguito il diavolo abbia appreso che Cristo era il Figlio di Dio non rappresenta alcuna difficoltà: a quel punto infatti era già giunto il momento per Cristo di manifestare la sua potenza contro il diavolo e di subire le persecuzioni da lui suscitate. Tuttavia, durante la sua infanzia, era necessario che la malvagità del diavolo fosse trattenuta, affinché non lo perseguitasse troppo severamente: Cristo, infatti, non desiderava subire tali cose in quel momento, né manifestare la propria potenza, ma voleva dimostrare di essere, in tutto, simile agli altri bambini. Per questo motivo Papa Leone (Sermone sull’Epifania iv) afferma che “i Magi trovarono il Bambino Gesù di piccolo corpo, dipendente dagli altri, incapace di parlare, e in nessun modo diverso dalla norma dei bambini umani”. Ambrogio, tuttavia, interpretando Luca 1:26, sembra intendere ciò riguardo ai membri del diavolo. Dopo aver fornito il motivo sopra menzionato – ovvero che il principe del mondo potesse essere ingannato – prosegue così: “Eppure il diavolo ingannò ancora di più i principi del mondo, poiché la natura malvagia dei demoni riesce facilmente a scoprire anche le cose nascoste; ma coloro che trascorrono la loro vita nelle vanità mondane non possono avere alcuna conoscenza delle cose divine”.
 
-<span class="atom-split" data-atom="193" data-title="Whether Christ should have been born of an espoused virgin? (parte 2)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="193" data-title="Whether Christ should have been born of an espoused virgin? (parte 2)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 4: The sentence of adulteresses according to the Law was that they should
 be stoned, not only if they were already espoused or married, but also if their maidenhood were
@@ -12995,7 +13003,7 @@ Risposta all’Obiezione 4: La pena prevista dalla Legge per le adultere era la 
 Secondo alcuni autori, la Beata Vergine apparteneva alla famiglia o al clan di Aronne, quindi era imparentata con Elisabetta, come ci viene detto (Luca 1:36). Ora, una vergine appartenente al sacerdotale clan veniva condannata a morte per adulterio; infatti si legge (Levitico 21:9): “Se la figlia di un sacerdote commette adulterio e disonora il nome di suo padre, sarà bruciata viva”.  
 Infine, alcuni interpretano il passaggio di Gerome come riferimento al lancio di pietre nei confronti delle donne di cattiva reputazione.
 
-<span class="atom-split" data-atom="194" data-title="Whether there was a true marriage between Mary and Joseph?" data-chapter="Whether there was a true marriage between Mary and Joseph?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="194" data-title="Whether there was a true marriage between Mary and Joseph?" data-chapter="Whether there was a true marriage between Mary and Joseph?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there was no true marriage between Mary and Joseph. For
 Jerome says against Helvidius that Joseph "was Mary's guardian rather than her husband." But if
@@ -13086,7 +13094,7 @@ Risposta all’Obiezione 2: Con “matrimonio”, Gerome intende l’intimità c
 
 Risposta all’Obiezione 3: Come afferma Crisostomo (Homilie su Matteo, Opus Imperfectum tra le opere supposte appartenenti a San Crisostomo), la Beata Vergine fu data in sposa a Giuseppe in modo tale che risiedesse nella sua casa: “Poiché coloro che concepiscono nella casa del proprio marito si ritiene che abbiano concepito da lui, coloro che concepiscono altrove sono sospettati”. Pertanto, non sarebbero state prese sufficienti precauzioni per proteggere la nobile reputazione della Beata Vergine, se lei non avesse avuto accesso alla casa di suo marito. Per questo motivo, le parole “non volendo portarla via” vanno intese come “non volendo esporla pubblicamente”, piuttosto che come un riferimento al fatto di portarla nella sua casa. Ecco perché l’evangelista aggiunge che “egli intendeva sposarla in segreto”. Tuttavia, sebbene lei avesse accesso alla casa di Giuseppe a causa della promessa di matrimonio, non era ancora giunto il momento di celebrare la cerimonia nuziale; per questo motivo il matrimonio non era stato ancora consumato. Come dice Crisostomo (Homilie iv su Matteo): “L’evangelista non scrive ‘prima che fosse portata nella casa di suo marito’, perché lei era già lì. Infatti, tra gli antichi era consuetudine che le fanciulle promesse in sposa entrassero spesso nelle case dei loro futuri coniugi”. Per questo motivo anche l’angelo disse a Giuseppe: “Non temere di prenderti Maria tua moglie”; cioè: “Non temere di celebrare il tuo matrimonio con lei”. Altri, tuttavia, sostengono che lei non fosse ancora stata ammessa nella sua casa, ma soltanto promessa in sposa. Ma la prima interpretazione è più in linea con il racconto evangelico.
 
-<span class="atom-split" data-atom="195" data-title="OF THE ANNUNCIATION OF THE BLESSED VIRGIN (FOUR ARTICLES)" data-chapter="OF THE ANNUNCIATION OF THE BLESSED VIRGIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="195" data-title="OF THE ANNUNCIATION OF THE BLESSED VIRGIN (FOUR ARTICLES)" data-chapter="OF THE ANNUNCIATION OF THE BLESSED VIRGIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 We now have to consider the Blessed Virgin's Annunciation, concerning which there are four
 points of inquiry:
@@ -13104,7 +13112,7 @@ Ora dobbiamo considerare l’Annunciazione della Beata Vergine, riguardo alla qu
 (3) In quale modo doveva essere effettuata questa comunicazione;  
 (4) L’ordine con cui si svolse l’Annunciazione stessa.
 
-<span class="atom-split" data-atom="196" data-title="Whether it was necessary to announce to the Blessed Virgin that which was to be done in her?" data-chapter="Whether it was necessary to announce to the Blessed Virgin that which was to be done in her?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="196" data-title="Whether it was necessary to announce to the Blessed Virgin that which was to be done in her?" data-chapter="Whether it was necessary to announce to the Blessed Virgin that which was to be done in her?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was unnecessary to announce to the Blessed Virgin that
 which was to be done in her. For there seems to have been no need of the Annunciation except for
@@ -13175,7 +13183,7 @@ Risposta all’Obiezione 2: La Beata Vergine credeva effettivamente in modo espl
 
 Risposta all’Obiezione 3: La concezione spirituale di Cristo attraverso la fede è preceduta dalla predicazione della fede stessa, poiché “la fede viene per ascolto” (Romani 10:17). Tuttavia, l’uomo non sa con certezza se abbia ricevuto la grazia; ma sa con certezza che la fede che ha ricevuto è vera.
 
-<span class="atom-split" data-atom="197" data-title="Whether the annunciation should have been made by an angel to the Blessed Virgin?" data-chapter="Whether the annunciation should have been made by an angel to the Blessed Virgin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="197" data-title="Whether the annunciation should have been made by an angel to the Blessed Virgin?" data-chapter="Whether the annunciation should have been made by an angel to the Blessed Virgin?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Annunciation should not have been made by an angel to
 our Blessed Lady. For revelations to the highest angels are made immediately by God, as Dionysius
@@ -13284,7 +13292,7 @@ Risposta all’Obiezione 3: Come si può evincere dal passaggio citato da Dionig
 
 Risposta all’Obiezione 4: Alcuni affermano che Gabriele appartenesse al più alto ordine degli angeli; infatti Gregorio nel suo sermone “De Centum Ovibus” (*34 in Evang.) dice: “Era giusto che fosse uno degli angeli più elevati ad annunciare questo messaggio, poiché esso era di estrema [sublimità](/concepts/sublime)”. Tuttavia, ciò non implica necessariamente che Gabriele fosse il più alto di tutti gli angeli, ma soltanto rispetto agli altri arcangeli; infatti egli stesso era un arcangelo. Per questo motivo la Chiesa lo chiama arcangelo, e lo stesso Gregorio afferma nel suo sermone che “quelli che annunciano cose sublimi sono chiamati arcangeli”. È quindi pienamente credibile che Gabriele fosse il più alto tra gli arcangeli. Inoltre, come dice Gregorio, questo nome corrisponde perfettamente al suo ruolo: “Gabriele significa ‘Forza di Dio’; pertanto era appropriato che fosse proprio la ‘Forza di Dio’ ad annunciare questo messaggio, poiché il Signore degli eserciti e potente in battaglia stava per venire a sconfiggere le forze del male”.
 
-<span class="atom-split" data-atom="198" data-title="Whether the angel of annunciation should have appeared to the Virgin in a bodily vision?" data-chapter="Whether the angel of annunciation should have appeared to the Virgin in a bodily vision?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="198" data-title="Whether the angel of annunciation should have appeared to the Virgin in a bodily vision?" data-chapter="Whether the angel of annunciation should have appeared to the Virgin in a bodily vision?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the angel of the Annunciation should not have appeared to the
 Virgin in a bodily vision. For "intellectual vision is more excellent than bodily vision," as [Augustine](/figures/augustine)
@@ -13379,7 +13387,7 @@ Risposta all’Obiezione 2: L’immaginazione è certamente un potere superiore 
 
 Risposta all’Obiezione 3: Come afferma Ambrogio riguardo a Luca 1:11, “Siamo turbati e perdiamo la nostra lucidità mentale quando ci troviamo di fronte alla presenza di un potere superiore”. E questo accade non solo in contesti fisici, ma anche nelle visioni immaginarie. Per questo motivo si legge nel Genesi 15:12 che “quando il sole stava per tramontare, Abramo cadde in un sonno profondo e fu assalito da una grande angoscia”. Tuttavia, tale turbamento non è tale da costringere l’uomo a rinunciare alla visione di un angelo. Primo perché, proprio nel momento in cui l’uomo viene elevato al di sopra di sé – e questo riguarda la sua dignità – le sue facoltà inferiori vengono indebolite; da ciò deriva il suddetto turbamento. Allo stesso modo, quando il calore naturale si concentra all’interno del corpo, le parti esterne tremano. In secondo luogo, come afferma Origene nell’Homilia IV su Luca, “l’angelo che apparve, sapendo di avere una natura umana, cercò prima di tutto di alleviare il turbamento mentale dell’uomo”. Per questo motivo, sia a Zaccaria che a Maria, non appena si sentirono turbati, l’angelo disse loro: “Non temete”. Proprio per questa ragione, come leggiamo nella vita di Antonio, “è difficile distinguere gli spiriti buoni da quelli malvagi: se la gioia segue al timore, allora sappiamo che l’aiuto proviene dal Signore; infatti, la tranquillità dell’anima è un segno della Sua maestà. Ma se il timore persiste, allora si tratta di un nemico”. Inoltre, era appropriato alla modestia virginale che la Vergine fosse turbata: come afferma Ambrogio in Luca 1:20, “È proprio della natura di una vergine essere timida, temere le avances degli uomini e ritrarsi dal loro contatto”. Altri sostengono invece che, essendo la Beata Vergine abituata alle visioni angeliche, non fu turbata dalla vista di quell’angelo, ma solo meravigliata dalle parole che egli le disse, poiché non si considerava così importante. Per questo motivo l’evangelista non dice che ella fu turbata dalla vista dell’angelo, ma “dalle sue parole”.
 
-<span class="atom-split" data-atom="199" data-title="Whether the Annunciation took place in becoming order?" data-chapter="Whether the Annunciation took place in becoming order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="199" data-title="Whether the Annunciation took place in becoming order?" data-chapter="Whether the Annunciation took place in becoming order?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Annunciation did not take place in becoming order. For
 the dignity of the Mother of God results from the child she conceived. But the cause should be
@@ -13453,7 +13461,7 @@ Concerning the first there are eight points of inquiry:
 (7) Whether the flesh of Christ in the patriarchs was subject to sin?
 (8) Whether Christ paid tithes in the loins of Abraham?
 
-<span class="atom-split" data-atom="200" data-title="Whether the flesh of Christ was derived from Adam?" data-chapter="Whether the flesh of Christ was derived from Adam?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="200" data-title="Whether the flesh of Christ was derived from Adam?" data-chapter="Whether the flesh of Christ was derived from Adam?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,concepts/miracle"></span>
 
 Objection 1: It would seem that Christ's flesh was not derived from Adam. For the Apostle
 says (1 Cor. 15:47): "The first man was of the earth, earthly: the second man, from heaven, heavenly."
@@ -13518,7 +13526,7 @@ Risposta all’Obiezione 2: Come già detto sopra (Q[29], A[1], ad 2), il mister
 
 Risposta all’Obiezione 3: Come già detto sopra (Q[15], A[1], ad 2), il corpo di Cristo era “in” Adamo in termini di sostanza corporea; cioè, la materia corporea del corpo di Cristo proveniva da Adamo. Tuttavia, tale sostanza non fu trasmessa a Cristo attraverso il processo riproduttivo umano, poiché Cristo non fu concepito dal seme umano. Pertanto, Cristo non contrasse il peccato originale, a differenza di altre persone che discendono da Adamo attraverso il seme umano.
 
-<span class="atom-split" data-atom="201" data-title="Whether Christ took flesh of the seed of David?" data-chapter="Whether Christ took flesh of the seed of David?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="201" data-title="Whether Christ took flesh of the seed of David?" data-chapter="Whether Christ took flesh of the seed of David?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not take flesh of the seed of David. For Matthew,
 in tracing the [genealogy](/positions/genealogy) of Christ, brings it down to Joseph. But Joseph was not Christ's father, as
@@ -13610,7 +13618,7 @@ Inoltre, si può affermare, seguendo Agostino (Contra Faustus, xxii), che se Gia
 
 Risposta all’Obiezione 3: Come afferma Ambrogio riguardo a Luca 3:25, questo passaggio profetico non nega che dalla discendenza di Ezechia nascerà una posterità; quindi anche Cristo appartiene alla sua stirpe. Inoltre, il fatto che Cristo abbia regnato in modo contrario alle profezie non costituisce un contraddittorio, poiché non ha regnato con onori mondani; anzi, egli stesso dichiarò: “Il mio regno non è di questo mondo”.
 
-<span class="atom-split" data-atom="202" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (parte 1)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="202" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (parte 1)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's [genealogy](/positions/genealogy) is not suitably traced by the Evangelists.
 For it is written (Is. 53:8): "Who shall declare His generation?" Therefore Christ's genealogy should
@@ -13719,7 +13727,7 @@ Risposta all’Obiezione 1: Come afferma Girolamo nel commento al Vangelo di Mat
 Risposta all’Obiezione 2: Alcuni autori hanno fornito diverse spiegazioni a questa obiezione sollevata da Giuliano l’Apostata. Alcuni, come Gregorio di Nazianzo, sostengono che le persone menzionate dai due evangelisti siano la stessa persona, ma con nomi diversi, come se ciascuno di loro ne avesse due. Tuttavia questa ipotesi non regge: Matteo infatti menziona uno dei figli di Davide, ovvero Salomone; mentre Luca ne menziona un altro, Nathan, che secondo la storia dei re (2 Re 5:14) era chiaramente suo fratello. Altri affermano che Matteo abbia fornito la vera genealogia di Cristo, mentre Luca ne abbia data una fittizia; per questo motivo Luca inizia il suo racconto dicendo: “Poiché si riteneva che fosse figlio di Giuseppe”. Tra i Giudei c’erano infatti coloro che credevano che, a causa dei crimini commessi dai re di Giuda, Cristo dovesse nascere dalla famiglia di Davide, ma non attraverso i re stessi, bensì attraverso un’altra linea di discendenza. Altri ancora ritengono che Matteo abbia elencato gli antenati di Cristo secondo la carne, mentre Luca li abbia elencati secondo lo spirito, ovvero uomini giusti che, per virtù, possono essere considerati antenati di Cristo. Tuttavia, nelle “Qq. Vet. et Nov. Test.” (*Parte I, q. lvi; Parte II, q. vi*) si afferma che non dobbiamo intendere che Luca definisca Giuseppe figlio di Eli; bensì che, al tempo di Cristo, Eli e Giuseppe discendessero entrambi da Davide in modi diversi. Per questo motivo si dice che Cristo fosse considerato figlio sia di Giuseppe che di Eli, come se l’evangelista volesse dire che Cristo, essendo figlio di Giuseppe, potesse essere chiamato anche figlio di Eli e di tutti coloro che discendevano da Davide; come afferma l’Apostolo in Romani 9:5: “Di loro” (cioè dei Giudei) “Cristo è secondo la carne”. Agostino, nel suo “De Qq. Evang. ii”, propone tre spiegazioni diverse per questo fenomeno, sostenendo che l’evangelista possa essere stato guidato da uno o più motivi: o forse uno degli evangelisti menziona il padre biologico di Giuseppe, mentre l’altro ne menziona il nonno materno o qualche altro antenato successivo; oppure uno era il padre naturale di Giuseppe, l’altro un padre adottivo; inoltre, secondo le usanze ebraiche, quando qualcuno moriva senza figli, un parente stretto sposava la sua vedova e il figlio nato da questo matrimonio veniva considerato figlio del defunto. Quest’ultimo caso rappresenta una sorta di adozione legale, come afferma lo stesso Agostino nel “De Consensu Evang. ii”. Questa ultima spiegazione sembra la più plausibile; anche Gerolamo la menziona commentando Matteo 1:16, e Eusebio di Cesarea, nella sua “Storia della Chiesa” (I, vii), afferma che questa interpretazione sia stata proposta dall’istorico africano Afranio. Secondo questi autori, Matteo e Melchio, in momenti diversi, ebbero entrambi un figlio dalla stessa donna di nome Estera: Matteo, discendente di Salomone, la sposò per primo e morì lasciando un figlio di nome Giacobbe; dopo la sua morte, poiché la legge non vietava questo tipo di matrimonio.
 Melchi, il cui lignaggio risaliva a Mattan e che apparteneva alla stessa tribù ma non alla stessa famiglia di Mattan, sposò la vedova di quest’ultimo; da questo matrimonio nacque un figlio chiamato Eli. Così Giacobbe ed Eli divennero fratelli per parte di madre, sebbene avessero padri diversi. Quando Eli morì senza eredi, Giacobbe sposò la sua vedova, secondo quanto prescriveva la legge; da questo matrimonio nacque un figlio chiamato Giuseppe: che, per natura, era figlio di Giacobbe, ma secondo la legge veniva considerato figlio di Eli. Per questo motivo Matteo scrive “Giacobbe generò Giuseppe”, mentre Luca, nel fornire la genealogia legale, non menziona alcun padre. Anche se Damasceno afferma che la Beata Vergine Maria fosse imparentata con Giuseppe in quanto Eli veniva considerato suo padre, poiché lei discendeva da Melchi, dobbiamo comunque credere che ella fosse in qualche modo imparentata anche con Salomone, attraverso quei patriarchi menzionati da Matteo, il quale avrebbe trascritto la genealogia di Cristo secondo la carne. Questo è ancora più vero considerando quanto afferma Ambrogio, secondo cui Cristo proveniva dalla discendenza di Ezechia.
 
-<span class="atom-split" data-atom="203" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (parte 2)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="203" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (parte 2)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom" data-srclang="en" data-tags="positions/genealogy,figures/augustine"></span>
 
 Reply to Objection 3: According to [Augustine](/figures/augustine) (De Consensu Evang. ii) "Matthew purposed
 to delineate the royal personality of Christ; Luke the priestly personality: so that in Matthew's
@@ -13812,7 +13820,7 @@ Risposta all’Obiezione 4: Come afferma Geromeo riguardo a Matteo 1:8,11: “Po
 
 Risposta all’Obiezione 5: Come afferma Girolamo nel commento al Vangelo di Matteo 1:3, “Nella genealogia del Salvatore non vengono menzionate alcune delle donne sante, ma soltanto quelle che la [Scrittura](/concepts/revelation) condanna; in questo modo Colui che è venuto per i peccatori, essendo nato da peccatori, potesse cancellare ogni peccato”. Viene quindi menzionata Tamar, condannata per il suo peccato con lo zio; Rahab, una prostituta; Ruth, una straniera; e Bettsabea, moglie di Urias, adultera. Quest’ultima, tuttavia, non viene nominata per nome, ma indicata attraverso il marito: sia a causa del suo peccato – poiché era a conoscenza dell’adulterio e dell’omicidio commessi da lui – sia per ricordare il peccato di Davide. Poiché Luca intende presentare Cristo come l’espiatore dei nostri peccati, non menziona queste donne; invece cita i fratelli di Giuda per dimostrare che appartengono al popolo di Dio, mentre Ismaele, fratello di Isacco, ed Esaù, fratello di Giacobbe, furono esclusi dal popolo di Dio e per questo non sono inclusi nella genealogia di Cristo. Un altro motivo della loro omissione è quello di dimostrare l’illusorietà dell’orgoglio legato alla discendenza: molti dei fratelli di Giuda erano nati da schiave, eppure tutti divennero patriarchi e capi di tribù. Farès e Zara vengono menzionati insieme perché, come afferma Ambrogio nel commento al Vangelo di Luca 3:23, “rappresentano i due aspetti della vita umana: uno legato alla Legge, simboleggiato da Zara; l’altro legato alla Fede, rappresentato da Farès”. I fratelli di Gionia sono inclusi nella genealogia perché tutti regnarono in momenti diversi, il che non accadde per altri re; inoltre, erano simili nel male e nelle sfortune.
 
-<span class="atom-split" data-atom="204" data-title="Whether the matter of Christ's body should have been taken from a woman?" data-chapter="Whether the matter of Christ's body should have been taken from a woman?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="204" data-title="Whether the matter of Christ's body should have been taken from a woman?" data-chapter="Whether the matter of Christ's body should have been taken from a woman?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the matter of Christ's body should not have been taken from
 a woman. For the male sex is more noble than the female. But it was most suitable that Christ
@@ -13905,7 +13913,7 @@ Risposta all’Obiezione 2: Agostino risponde così (Contra Faustus, xxiii) a Fa
 
 Risposta all’Obiezione 3: Non esiste alcuna impurità nella concezione dell’uomo da parte di una donna, poiché si tratta di un atto compiuto da Dio; per questo è scritto (Atti 10:15): “Quello che Dio ha purificato, non considerarlo tu impuro”. Tuttavia, esiste una certa impurità derivante dal peccato, soprattutto quando il desiderio lussurioso accompagna la concezione attraverso l’unione sessuale. Ma questo non fu il caso di Cristo, come dimostrato in precedenza (Q[28], A[1]). E se ci fosse stata qualche impurità nella sua concezione, la Parola di Dio non ne sarebbe stata contaminata, poiché Egli è assolutamente immutabile. Per questo Agostino afferma (Contra Quinque Haereses v): “Dio, Creatore dell’uomo, dice: ‘Che cosa ti turba riguardo alla mia nascita? Non sono stato concepito per desideri lussuriosi; io stesso mi sono reso madre di colui che doveva nascere da me. Se i raggi del sole possono asciugare la sporcizia nei canali di scolo senza esserne contaminati, tanto più il Splendore della luce eterna può purificare tutto ciò su cui si posa, senza però essere esso stesso contaminato’”.
 
-<span class="atom-split" data-atom="205" data-title="Whether the flesh of Christ was conceived of the Virgin's purest blood?" data-chapter="Whether the flesh of Christ was conceived of the Virgin's purest blood?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="205" data-title="Whether the flesh of Christ was conceived of the Virgin's purest blood?" data-chapter="Whether the flesh of Christ was conceived of the Virgin's purest blood?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the flesh of Christ was not conceived of the Virgin's purest
 blood: For it is said in the collect (Feast of the Annunciation) that God "willed that His Word should
@@ -13992,7 +14000,7 @@ Risposta all’Obiezione 2: Come affermato nel FP, Q[92], A[3], ad 2, Adamo, ess
 
 Risposta all’Obiezione 3: Il seme femminile non è adatto alla generazione; si tratta di qualcosa di imperfetto nell’ordine seminale, e a causa dell’imperfezione del potere femminile non è stato possibile portarlo a una completa perfezione seminale. Pertanto, questo seme non costituisce la materia necessaria alla concezione; come afferma il Filosofo (De Gener. Animal., i): ecco perché nella concezione di Cristo non vi fu alcun seme femminile. Del resto, sebbene il seme femminile sia imperfetto nell’ordine seminale, la sua emissione è accompagnata da una certa concupiscenza, proprio come quella del seme maschile; mentre nella concezione verginale non poteva esserci alcuna concupiscenza. Per questo motivo Damasceno afferma (De Fide Orth., iii) che il corpo di Cristo non fu concepito “per via seminale”. Il sangue mestruale, invece, caratterizzato da periodicità mensile e da una certa impurità naturale, è simile ad altre sostanze superflue che la natura elimina. Da questo sangue mestruale contaminato e rifiutato dalla natura non si può formare una vita; mentre dalla secrezione di un sangue puro, preparato attraverso processi naturali per la concezione – essendo cioè più puro e perfetto del resto del sangue – può sorgere una nuova vita. Tuttavia, questo sangue puro viene contaminato dall’impurità della lussuria durante la concezione di altri uomini; poiché attraverso il rapporto sessuale tale sangue raggiunge un luogo adatto alla concezione. Questo, però, non avvenne nella concezione di Cristo: poiché quel sangue fu unito nel grembo della Vergine e trasformato in un bambino grazie all’operazione dello Spirito Santo. Per questo motivo si dice che il corpo di Cristo sia “formato dal sangue più puro e casto della Vergine”.
 
-<span class="atom-split" data-atom="206" data-title="Whether Christ's body was in Adam and the other patriarchs, as to something signate?" data-chapter="Whether Christ's body was in Adam and the other patriarchs, as to something signate?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="206" data-title="Whether Christ's body was in Adam and the other patriarchs, as to something signate?" data-chapter="Whether Christ's body was in Adam and the other patriarchs, as to something signate?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's body was in Adam and the patriarchs as to something
 signate. For [Augustine](/figures/augustine) says (Gen. ad lit. x) that the flesh of Christ was in Adam and Abraham "by
@@ -14067,7 +14075,7 @@ Risposta all’Obiezione 2: Sebbene il corpo di Cristo non appartenesse ad Adamo
 
 Risposta all’Obiezione 3: Cristo e la razza umana sono imparentati a causa della loro appartenenza alla stessa specie. Ora, una somiglianza specifica deriva non da elementi lontani, ma da quelli immediatamente collegati tra loro, nonché dal principio attivo che genera individui simili all’interno della stessa specie. Pertanto, il legame di parentela tra Cristo e la razza umana è pienamente mantenuto dal fatto che il Suo corpo sia stato formato dal sangue della Vergine, il quale, a sua volta, ha origine da Adamo e dagli altri patriarchi. Questa parentela non viene influenzata nemmeno dal materiale da cui proviene tale sangue, così come non lo è la generazione di altri esseri umani, come affermato nel FP, Q[119], A[2], ad 3.
 
-<span class="atom-split" data-atom="207" data-title="Whether Christ's flesh in the patriarchs was infected by sin?" data-chapter="Whether Christ's flesh in the patriarchs was infected by sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="207" data-title="Whether Christ's flesh in the patriarchs was infected by sin?" data-chapter="Whether Christ's flesh in the patriarchs was infected by sin?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's flesh was not infected by sin in the patriarchs. For it
 is written (Wis. 7:25) that "no defiled thing cometh into" Divine Wisdom. But Christ is the Wisdom
@@ -14140,7 +14148,7 @@ Risposta all’Obiezione 2: Si dice che Cristo abbia assunto le “prime frutte�
 
 Risposta all’Obiezione 3: Prima di Cristo, nella natura umana esisteva effettivamente una “ferita”, ovvero l’infezione del peccato originale. Tuttavia, il balsamo necessario per guarire quella ferita non era ancora disponibile; esso sarebbe emerso solo grazie a una particolare virtù originaria, poiché attraverso quei patriarchi la carne di Cristo avrebbe dovuto essere generata.
 
-<span class="atom-split" data-atom="208" data-title="Whether Christ paid tithes in Abraham's loins?" data-chapter="Whether Christ paid tithes in Abraham's loins?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="208" data-title="Whether Christ paid tithes in Abraham's loins?" data-chapter="Whether Christ paid tithes in Abraham's loins?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/grace,figures/augustine"></span>
 
 Objection 1: It would seem that Christ "paid tithes" in Abraham's loins. For the Apostle says
 (Heb. 7:6-9) that Levi, the great-grandson of Abraham, "paid tithes in Abraham," because, when
@@ -14226,7 +14234,7 @@ Risposta all’Obiezione 3: Si afferma che la carne di Cristo sia stata soggetta
 
 Risposta all’Obiezione 4: Il sacerdozio levitico fu trasmesso per via di origine carnale; pertanto non era inferiore in Abramo che in Levi. Di conseguenza, poiché Abramo pagava le decime a Melchisedech come a qualcuno più grande di sé, ne consegue che il sacerdozio di Melchisedech, in quanto figura di Cristo, fosse superiore a quello di Levi. Ma il sacerdozio di Cristo non deriva da origine carnale, bensì dalla grazia spirituale. Pertanto è possibile che un padre paghi le decime a un sacerdote, come ciò che è minore a ciò che è maggiore; tuttavia suo figlio, se vescovo, è superiore a quel sacerdote, non per via di origine carnale, ma per la grazia spirituale ricevuta da Cristo.
 
-<span class="atom-split" data-atom="209" data-title="OF THE ACTIVE PRINCIPLE IN CHRIST'S CONCEPTION (FOUR ARTICLES)" data-chapter="OF THE ACTIVE PRINCIPLE IN CHRIST'S CONCEPTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="209" data-title="OF THE ACTIVE PRINCIPLE IN CHRIST'S CONCEPTION (FOUR ARTICLES)" data-chapter="OF THE ACTIVE PRINCIPLE IN CHRIST'S CONCEPTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We shall now consider the active principle in Christ's conception: concerning which there are
 four points of inquiry:
@@ -14243,7 +14251,7 @@ Ora considereremo il principio attivo nella concezione di Cristo: su questo argo
 (3) Se si possa dire che lo Spirito Santo sia il “padre” di Cristo secondo la carne;  
 (4) Se la Beata Vergine abbia collaborato attivamente alla concezione di Cristo.
 
-<span class="atom-split" data-atom="210" data-title="Whether the accomplishment of Christ's conception should be attributed to the Holy Ghost?" data-chapter="Whether the accomplishment of Christ's conception should be attributed to the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="210" data-title="Whether the accomplishment of Christ's conception should be attributed to the Holy Ghost?" data-chapter="Whether the accomplishment of Christ's conception should be attributed to the Holy Ghost?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the accomplishment of Christ's conception should not be
 attributed to the Holy Ghost, because. as [Augustine](/figures/augustine) says (De Trin. i), "The works of the Trinity are
@@ -14339,7 +14347,7 @@ Risposta all’Obiezione 2: La missione riguarda la Persona che viene inviata da
 
 Risposta all’Obiezione 3: Come afferma Agostino (QQ. Vet. et Nov. Test., q. 52): “Ciò può essere inteso in due modi. Primo, la casa di Cristo è la Chiesa, che Egli ha costruita con il proprio sangue. Secondo, il Suo corpo può essere chiamato Sua casa, così come viene chiamato Suo tempio. E ciò che avviene per mezzo dello Spirito Santo avviene anche per mezzo del Figlio di Dio, poiché la loro Natura e la loro Volontà sono una sola.”
 
-<span class="atom-split" data-atom="211" data-title="Whether it should be said that Christ was conceived of [de] the Holy Ghost?" data-chapter="Whether it should be said that Christ was conceived of [de] the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="211" data-title="Whether it should be said that Christ was conceived of [de] the Holy Ghost?" data-chapter="Whether it should be said that Christ was conceived of [de] the Holy Ghost?" data-kind="atom" data-srclang="en" data-tags="concepts/four_causes,figures/augustine"></span>
 
 Objection 1: It would seem that we should not say that Christ was conceived of [de] the Holy
 Ghost. Because on Rom. 11:36: "For of Him [ex ipso] and by Him, and in Him, are all things," the
@@ -14412,7 +14420,7 @@ Risposta all’Obiezione 2: Sembra che su questo punto esista una divergenza di 
 
 Risposta all’Obiezione 3: Come afferma Agostino nell’Enchiridion XL, si dice che Cristo sia stato concepito o nato dallo Spirito Santo in un senso; dalla Vergine Maria in un altro senso: materialmente dalla Vergine Maria, efficacemente dallo Spirito Santo. Pertanto, non vi è stata alcuna mescolanza tra questi elementi.
 
-<span class="atom-split" data-atom="212" data-title="Whether the Holy Ghost should be called Christ's father in respect of His humanity?" data-chapter="Whether the Holy Ghost should be called Christ's father in respect of His humanity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="212" data-title="Whether the Holy Ghost should be called Christ's father in respect of His humanity?" data-chapter="Whether the Holy Ghost should be called Christ's father in respect of His humanity?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Holy Ghost should be called Christ's father in respect of
 His humanity. Because, according to the Philosopher (De Gener. Animal. i): "The Father is the
@@ -14468,7 +14476,7 @@ Trinity.
 But with Christ it is different, as stated above.
 The same reply avails for the Third Objection.
 
-<span class="atom-split" data-atom="213" data-title="Whether the Blessed Virgin cooperated actively in the conception of Christ's body?" data-chapter="Whether the Blessed Virgin cooperated actively in the conception of Christ's body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="213" data-title="Whether the Blessed Virgin cooperated actively in the conception of Christ's body?" data-chapter="Whether the Blessed Virgin cooperated actively in the conception of Christ's body?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Blessed Virgin cooperated actively in the conception of
 Christ's body. For Damascene says (De Fide Orth. iii) that "the Holy Ghost came upon the Virgin,
@@ -14553,7 +14561,7 @@ Risposta all’Obiezione 2: Il potere generativo della femmina è imperfetto ris
 
 Risposta all’Obiezione 3: Affinché una trasformazione sia naturale, non è necessario che nella materia esista un principio attivo, ma soltanto un principio passivo, come già detto in precedenza.
 
-<span class="atom-split" data-atom="214" data-title="OF THE MODE AND ORDER OF CHRIST'S CONCEPTION (FOUR ARTICLES)" data-chapter="OF THE MODE AND ORDER OF CHRIST'S CONCEPTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="214" data-title="OF THE MODE AND ORDER OF CHRIST'S CONCEPTION (FOUR ARTICLES)" data-chapter="OF THE MODE AND ORDER OF CHRIST'S CONCEPTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/soul,concepts/miracle"></span>
 
 We have now to consider the mode and order of Christ's conception, concerning which there
 are four points of inquiry:
@@ -14570,7 +14578,7 @@ Dobbiamo ora considerare il modo e l’ordine della concezione di Cristo, su cui
 (3) Fu assunto dal Verbo nel primo istante della sua concezione?  
 (4) Questa concezione fu naturale o miracolosa?
 
-<span class="atom-split" data-atom="215" data-title="Whether Christ's body was formed in the first instant of its conception?" data-chapter="Whether Christ's body was formed in the first instant of its conception?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="215" data-title="Whether Christ's body was formed in the first instant of its conception?" data-chapter="Whether Christ's body was formed in the first instant of its conception?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's body was not formed in the first instant of its
 conception. For it is written (Jn. 2:20): "Six-and-forty years was this Temple in building"; on which
@@ -14670,7 +14678,7 @@ Risposta all’Obiezione 3: Non è possibile determinare con precisione l’ulti
 
 Risposta all’Obiezione 4: L’aumento è causato dal potere incrementale di ciò che è soggetto a tale aumento; ma la formazione del corpo umano è dovuta al potere generativo, non di ciò che viene generato, bensì del padre che genera attraverso il seme, nel quale il potere formativo derivante dall’anima del padre agisce. Tuttavia, il corpo di Cristo non fu formato dal seme umano, come detto sopra (Q[31], A[5], ad 3), ma per l’azione dello Spirito Santo. Pertanto, la sua formazione doveva essere tale da essere degna dello Spirito Santo stesso. Lo sviluppo del corpo di Cristo, invece, fu il risultato del potere incrementale presente nell’anima di Cristo; e poiché questo potere apparteneva alla stessa natura della nostra, era necessario che il suo corpo si sviluppasse nello stesso modo dei corpi degli altri uomini, al fine di dimostrare la realtà della Sua [natura umana](/axes/human_nature).
 
-<span class="atom-split" data-atom="216" data-title="Whether Christ's body was animated in the first instant of its conception?" data-chapter="Whether Christ's body was animated in the first instant of its conception?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="216" data-title="Whether Christ's body was animated in the first instant of its conception?" data-chapter="Whether Christ's body was animated in the first instant of its conception?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's body was not animated in the first instant of its
 conception. For Pope Leo says (Ep. ad Julian.): "Christ's flesh was not of another nature than ours:
@@ -14746,7 +14754,7 @@ Risposta all’Obiezione 2: L’anima richiede una certa quantità nella materia
 
 Risposta all’Obiezione 3: Quello che il Filosofo afferma è vero per la generazione degli altri uomini, poiché il corpo viene gradualmente formato e predisposto ad accogliere l’anima: inizialmente, essendo imperfettamente predisposto, riceve un’anima imperfetta; successivamente, quando diventa perfettamente predisposto, riceve un’anima perfetta. Ma il corpo di Cristo, grazie al potere infinito dell’Agente Divino, fu immediatamente e perfettamente predisposto ad accogliere l’anima razionale. Pertanto, fin dal primo istante della sua esistenza, ricevette una forma perfetta, ovvero l’anima razionale.
 
-<span class="atom-split" data-atom="217" data-title="Whether Christ's flesh was first of all conceived and afterwards assumed?" data-chapter="Whether Christ's flesh was first of all conceived and afterwards assumed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="217" data-title="Whether Christ's flesh was first of all conceived and afterwards assumed?" data-chapter="Whether Christ's flesh was first of all conceived and afterwards assumed?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's flesh was first of all conceived, and afterwards assumed.
 Because what is not cannot be assumed. But Christ's flesh began to exist when it was conceived.
@@ -14794,7 +14802,7 @@ Photinus maintained. Rather is it to be considered as a descent, by reason of th
 God taking unto Himself the imperfection of our nature; according to Jn. 6:38: "I came down from
 heaven."
 
-<span class="atom-split" data-atom="218" data-title="Whether Christ's conception was natural?" data-chapter="Whether Christ's conception was natural?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="218" data-title="Whether Christ's conception was natural?" data-chapter="Whether Christ's conception was natural?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/miracle,concepts/nature"></span>
 
 Objection 1: It would seem that Christ's conception was natural. For Christ is called the Son
 of Man by reason of His conception in the flesh. But He is a true and natural Son of Man: as also
@@ -14851,7 +14859,7 @@ Risposta all’Obiezione 2: La concezione viene attribuita alla Beata Vergine, n
 
 Risposta all’Obiezione 3: Un principio passivo naturale è sufficiente affinché una trasformazione sia considerata naturale, quando essa viene determinata dal proprio principio attivo in modo naturale e consueto. Tuttavia, nel caso in questione ciò non vale. Pertanto, questa concezione non può essere definita semplicemente “naturale”.
 
-<span class="atom-split" data-atom="219" data-title="OF THE PERFECTION OF THE CHILD CONCEIVED (FOUR ARTICLES)" data-chapter="OF THE PERFECTION OF THE CHILD CONCEIVED (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="219" data-title="OF THE PERFECTION OF THE CHILD CONCEIVED (FOUR ARTICLES)" data-chapter="OF THE PERFECTION OF THE CHILD CONCEIVED (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/free_will,positions/beatitude,concepts/grace"></span>
 
 We must now consider the perfection of the child conceived: and concerning this there are four
 points of inquiry:
@@ -14868,7 +14876,7 @@ Dobbiamo ora considerare la perfezione del bambino concepito; e a questo proposi
 (3) Se, nello stesso istante, Egli potesse meritare qualcosa;  
 (4) Se, nello stesso istante, Egli fosse già una entità perfetta e completa.
 
-<span class="atom-split" data-atom="220" data-title="Whether Christ was sanctified in the first instant of His conception?" data-chapter="Whether Christ was sanctified in the first instant of His conception?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="220" data-title="Whether Christ was sanctified in the first instant of His conception?" data-chapter="Whether Christ was sanctified in the first instant of His conception?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ was not sanctified in the first instant of His conception.
 For it is written (1 Cor. 15:46): "That was not first which is spiritual, but that which is natural:
@@ -14941,7 +14949,7 @@ Risposta all’Obiezione 2: Essere santificati significa essere resi sacri. Ora,
 
 Risposta all’Obiezione 3: Il Padre crea le cose attraverso il Figlio, e l’intera Trinità santifica gli uomini attraverso l’Uomo Cristo, ma non nello stesso modo. Poiché la Parola di Dio possiede lo stesso potere e la stessa efficacia del Dio Padre, il Padre non agisce attraverso il Figlio come attraverso uno strumento che sia allo stesso tempo motore e mosso. Al contrario, l’umanità di Cristo funge da strumento dell’Divinità, come già detto in precedenza (Q[7], A[1], ad 3; Q[8], A[1], ad 1). Pertanto, l’umanità di Cristo è sia santificata che santificatrice.
 
-<span class="atom-split" data-atom="221" data-title="Whether Christ as man had the use of free-will in the first instant of His conception?" data-chapter="Whether Christ as man had the use of free-will in the first instant of His conception?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="221" data-title="Whether Christ as man had the use of free-will in the first instant of His conception?" data-chapter="Whether Christ as man had the use of free-will in the first instant of His conception?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ as man had not the use of free-will in the first instant
 of His conception. For a thing is, before it acts or operates. Now the use of free-will is an operation.
@@ -15002,7 +15010,7 @@ had the rational soul in the first instant of His conception, through His body b
 and endowed with sensible organs, much more was it possible for Him to exercise the sense of
 touch in that same instant.
 
-<span class="atom-split" data-atom="222" data-title="Whether Christ could merit in the first instant of His conception?" data-chapter="Whether Christ could merit in the first instant of His conception?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="222" data-title="Whether Christ could merit in the first instant of His conception?" data-chapter="Whether Christ could merit in the first instant of His conception?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ could not merit in the first instant of His conception.
 For the free-will bears the same relation to merit as to demerit. But the devil could not sin in the
@@ -15074,7 +15082,7 @@ Risposta all’Obiezione 2: Ciò che l’uomo possiede nel primo momento della s
 
 Risposta all’Obiezione 3: Niente impedisce che la stessa cosa appartenga a qualcuno per diverse cause. Ed è proprio per questo che Cristo fu in grado, attraverso azioni e sofferenze successive, di meritare la gloria dell’immortalità; gloria che Egli meritava già dal primo istante della Sua concezione. Non perché essa divenisse così più dovuta a Lui rispetto al passato, ma perché gli era dovuta per un numero maggiore di cause rispetto al passato.
 
-<span class="atom-split" data-atom="223" data-title="Whether Christ was a perfect comprehensor in the first instant of His conception?" data-chapter="Whether Christ was a perfect comprehensor in the first instant of His conception?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="223" data-title="Whether Christ was a perfect comprehensor in the first instant of His conception?" data-chapter="Whether Christ was a perfect comprehensor in the first instant of His conception?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/beatitude,concepts/grace"></span>
 
 Objection 1: It would seem that Christ was not a perfect comprehensor in the first instant of
 His conception. For merit precedes reward, as fault precedes punishment. But Christ merited in the
@@ -15132,7 +15140,7 @@ Risposta all’Obiezione 1: Come già detto sopra (Q[19], A[3]), Cristo non meri
 
 Risposta all’Obiezione 3: Poiché Cristo era sia Dio che uomo, anche nella Sua umanità possedeva qualcosa di più rispetto alle altre creature: cioè, si trovava nello stato di beatitudine fin dal principio.
 
-<span class="atom-split" data-atom="224" data-title="OF CHRIST'S NATIVITY (EIGHT ARTICLES)" data-chapter="OF CHRIST'S NATIVITY (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="224" data-title="OF CHRIST'S NATIVITY (EIGHT ARTICLES)" data-chapter="OF CHRIST'S NATIVITY (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 After considering Christ's conception, we must treat of His nativity. First, as to the nativity
 itself; secondly, as to His manifestation after birth.
@@ -15159,7 +15167,7 @@ Dopo aver considerato la concezione di Cristo, dobbiamo trattare della Sua nasci
 (7) Dove ebbe luogo la Sua nascita?  
 (8) Quando avvenne la Sua nascita?
 
-<span class="atom-split" data-atom="225" data-title="Whether nativity regards the nature rather than the person?" data-chapter="Whether nativity regards the nature rather than the person?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="225" data-title="Whether nativity regards the nature rather than the person?" data-chapter="Whether nativity regards the nature rather than the person?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that nativity regards the nature rather than the person. For [Augustine](/figures/augustine)
 [*Fulgentius] says (De Fide ad Petrum): "The eternal Divine Nature could not be conceived and
@@ -15222,7 +15230,7 @@ Risposta all’Obiezione 2: Nessun movimento o cambiamento viene definito in bas
 
 Risposta all’Obiezione 3: La natura, in senso proprio, non inizia ad esistere; piuttosto è la persona che inizia ad esistere entro una determinata natura. Poiché, come detto sopra, “natura” indica ciò mediante cui qualcosa esiste; mentre “persona” indica qualcosa che possiede un essere sostanziale.
 
-<span class="atom-split" data-atom="226" data-title="Whether a temporal nativity should be attributed to Christ?" data-chapter="Whether a temporal nativity should be attributed to Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="226" data-title="Whether a temporal nativity should be attributed to Christ?" data-chapter="Whether a temporal nativity should be attributed to Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that temporal nativity is not to be attributed to Christ. For "to be
 born is a certain movement of a thing that did not exist before it was born, which movement procures
@@ -15306,7 +15314,7 @@ Risposta all’Obiezione 3: La nascita considera la persona come suo soggetto e 
 
 Risposta all’Obiezione 4: Si può dire che Cristo sia nato due volte, in relazione alle sue due nascite. Proprio come si dice che una persona corra due volte se corre in due momenti diversi, allo stesso modo si può dire che Cristo sia nato due volte, poiché è nato una volta dall’eternità e una volta nel tempo: infatti, l’eternità e il tempo differiscono molto di più di due momenti diversi, anche se entrambi indicano un certo lasso di durata.
 
-<span class="atom-split" data-atom="227" data-title="Whether the Blessed Virgin can be called Christ's Mother in respect of His temporal nativity?" data-chapter="Whether the Blessed Virgin can be called Christ's Mother in respect of His temporal nativity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="227" data-title="Whether the Blessed Virgin can be called Christ's Mother in respect of His temporal nativity?" data-chapter="Whether the Blessed Virgin can be called Christ's Mother in respect of His temporal nativity?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Blessed Virgin cannot be called Christ's Mother in respect
 of His temporal nativity. For, as stated above (Q[32], A[4]), the Blessed Virgin Mary did not
@@ -15365,7 +15373,7 @@ Risposta all’Obiezione 2: Come afferma Damasceno (De Fide Orthodossa iii): “
 
 Risposta all’Obiezione 3: Come già detto sopra (Q[31], A[5], ad 3; Q[32], A[4]), la dissoluzione dello sperma femminile non è necessaria per la concezione; pertanto, né lo è nemmeno per l’atto di diventare madri.
 
-<span class="atom-split" data-atom="228" data-title="Whether the Blessed Virgin should be called the Mother of God?" data-chapter="Whether the Blessed Virgin should be called the Mother of God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="228" data-title="Whether the Blessed Virgin should be called the Mother of God?" data-chapter="Whether the Blessed Virgin should be called the Mother of God?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the Blessed Virgin should not be called the Mother of God.
 For in the Divine mysteries we should not make any assertion that is not taken from Holy [Scripture](/concepts/revelation).
@@ -15449,7 +15457,7 @@ Risposta all’Obiezione 2: Questo era un argomento utilizzato da Nestorio. Ma C
 
 Risposta all’Obiezione 3: Sebbene il nome “Dio” sia comune alle tre Persone della Trinità, a volte indica soltanto la Persona del Padre, altre volte soltanto quella del Figlio o dello Spirito Santo, come già accennato sopra (Q[16], A[1]; FP, Q[39], A[4]). Pertanto, quando diciamo “La Beata Vergine è la Madre di Dio”, questa parola “Dio” indica esclusivamente la Persona incarnata del Figlio.
 
-<span class="atom-split" data-atom="229" data-title="Whether there are two filiations in Christ?" data-chapter="Whether there are two filiations in Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="229" data-title="Whether there are two filiations in Christ?" data-chapter="Whether there are two filiations in Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there are two filiations in Christ. For nativity is the cause of
 filiation. But in Christ there are two nativities. Therefore in Christ there are also two filiations.
@@ -15568,7 +15576,7 @@ Risposta all’Obiezione 2: La filiazione eterna non dipende da una madre tempor
 
 Risposta all’Obiezione 3: L’unità e l’esistenza sono reciprocamente conseguenti, come si afferma nel “Metafisico” IV. Pertanto, proprio come in uno dei due estremi di una relazione vi è qualcosa di reale, mentre nell’altro non c’è nulla di reale, ma soltanto un certo aspetto – come osserva il Filosofo riguardo alla conoscenza e al conoscibile – allo stesso modo, da un lato della relazione esiste una sola connessione, mentre dall’altro ne esistono molte. Ad esempio, nell’uomo vi sono due relazioni legate ai genitori: quella di paternità e quella di maternità, che sono specificamente diverse, poiché il padre è il principio della generazione in un modo, mentre la madre in un altro (mentre se più persone collaborassero allo stesso compito – ad esempio, se molte persone insieme trascinassero una nave – ci sarebbe una sola relazione per tutte); tuttavia, per il bambino esiste in realtà una sola filiazione, anche se dal punto di vista concettuale ne esistono due, corrispondenti alle due relazioni dei genitori. Allo stesso modo, in Cristo esiste soltanto una vera filiazione rispetto al Padre Eterno; tuttavia, esiste anche un’altra relazione temporale rispetto alla Sua madre terrena.
 
-<span class="atom-split" data-atom="230" data-title="Whether Christ was born without His Mother suffering?" data-chapter="Whether Christ was born without His Mother suffering?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="230" data-title="Whether Christ was born without His Mother suffering?" data-chapter="Whether Christ was born without His Mother suffering?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ was not born without His Mother suffering. For just as
 man's death was a result of the sin of our first parents, according to Gn. 2:17: "In what day soever
@@ -15617,7 +15625,7 @@ iv): "No midwife was there, no officious women interfered. She was both mother a
 'With swaddling clothes,' says he, 'she wrapped up the child, and laid Him in a manger.'" These
 words prove the falseness of the apocryphal ravings.
 
-<span class="atom-split" data-atom="231" data-title="Whether Christ should have been born in Bethlehem?" data-chapter="Whether Christ should have been born in Bethlehem?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="231" data-title="Whether Christ should have been born in Bethlehem?" data-chapter="Whether Christ should have been born in Bethlehem?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ should not have been born in Bethlehem. For it is written
 (Is. 2:3): "The law shall come forth from Sion, and the Word of the Lord from Jerusalem." But
@@ -15694,7 +15702,7 @@ Risposta all’Obiezione 2: Cristo desiderava “fiorire” attraverso la Sua vi
 
 Risposta all’Obiezione 3: Secondo un sermone tenuto al Concilio di Efeso [*P. iii, cap. ix*]: “Se avesse scelto la grande città di Roma, il cambiamento nel mondo sarebbe stato attribuito all’influenza dei suoi cittadini; se fosse stato figlio dell’Imperatore, i Suoi benefici sarebbero stati attribuiti al potere di quest’ultimo. Ma affinché riconoscessimo l’opera di Dio nella trasformazione di tutta la terra, Egli scelse una madre povera e un luogo di nascita ancora più umile.” “Ma Dio ha scelto le cose deboli del mondo, per confondere quelle forti” (1 Cor. 1:27). E pertanto, al fine di dimostrare ulteriormente il Suo potere, Egli stabilì la sede della Sua Chiesa proprio a Roma, che era allora la capitale del mondo, come segno della Sua vittoria totale; affinché da quella città la fede potesse diffondersi in tutto il mondo. Come recitano Isai 26:5-6: “La città elevata Egli l’abbasserà, i piedi dei poveri”, cioè di Cristo, “la calperanno; i passi dei bisognosi”, cioè degli apostoli Pietro e Paolo”.
 
-<span class="atom-split" data-atom="232" data-title="Whether Christ was born at a fitting time?" data-chapter="Whether Christ was born at a fitting time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="232" data-title="Whether Christ was born at a fitting time?" data-chapter="Whether Christ was born at a fitting time?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ was not born at a fitting time. Because Christ came in
 order to restore liberty to His own. But He was born at a time of subjection---namely, when the
@@ -15770,7 +15778,7 @@ Risposta all’Obiezione 2: Cristo volle nascere durante il regno di un stranier
 
 Risposta all’Obiezione 3: Come afferma l’autore del libro De Qq. Nov. et Vet. Test., “Cristo volle nascere quando la durata del giorno inizia ad aumentare”, affinché dimostrasse di essere venuto per permettere all’uomo di avvicinarsi di più alla [Luce Divina](/positions/divine_illumination), secondo quanto detto in Luca 1:79: “Per illuminare coloro che sono nella oscurità e nell’ombra della morte”. Allo stesso modo, scelse di nascere durante la rigida stagione invernale, affinché potesse iniziare da quel momento a soffrire fisicamente per noi.
 
-<span class="atom-split" data-atom="233" data-title="OF THE MANIFESTATION OF THE NEWLY BORN CHRIST (EIGHT ARTICLES)" data-chapter="OF THE MANIFESTATION OF THE NEWLY BORN CHRIST (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="233" data-title="OF THE MANIFESTATION OF THE NEWLY BORN CHRIST (EIGHT ARTICLES)" data-chapter="OF THE MANIFESTATION OF THE NEWLY BORN CHRIST (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the manifestation of the newly born Christ: concerning which there are
 eight points of inquiry:
@@ -15796,7 +15804,7 @@ Dobbiamo ora considerare la manifestazione di Cristo appena nato: su questo argo
 (7) Che ruolo ebbe la stella che annunciò la sua nascita?  
 (8) E che significato ha l’adorazione dei Magi, informati della nascita di Cristo grazie a quella stella?
 
-<span class="atom-split" data-atom="234" data-title="Whether Christ's birth should have been made known to all?" data-chapter="Whether Christ's birth should have been made known to all?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="234" data-title="Whether Christ's birth should have been made known to all?" data-chapter="Whether Christ's birth should have been made known to all?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/faith,concepts/revelation,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that Christ's birth should have been made known to all. Because
 fulfilment should correspond to promise. Now, the promise of Christ's coming is thus expressed
@@ -15866,7 +15874,7 @@ Risposta all’Obiezione 2: Tutti gli uomini dovevano essere istruiti al fine de
 
 Risposta all’Obiezione 3: Affinché si possa emettere un giudizio, è necessario conoscere l’autorità del giudice; per questo motivo è opportuno che la venuta di Cristo per il giudizio sia manifesta. Tuttavia, la Sua prima venuta ebbe lo scopo di salvare tutti, e ciò avvenne attraverso la fede in cose invisibili. Pertanto, era appropriato che la Sua prima venuta rimanesse nascosta.
 
-<span class="atom-split" data-atom="235" data-title="Whether Christ's birth should have been made known to some?" data-chapter="Whether Christ's birth should have been made known to some?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="235" data-title="Whether Christ's birth should have been made known to some?" data-chapter="Whether Christ's birth should have been made known to some?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's birth should not have been made known to anyone.
 For, as stated above (A[1], ad 3), it befitted the salvation of mankind that Christ's first coming
@@ -15952,7 +15960,7 @@ Risposta all’Obiezione 2: Maria e Giuseppe dovevano essere istruiti riguardo a
 
 Risposta all’Obiezione 3: Lo stesso scompiglio che si verificò quando si seppe della nascita di Cristo era in realtà propizio alla Sua nascita. Primo perché così veniva rivelata la dignità celeste di Cristo. Per questo Gregorio dice nell’Homilia x sull’Evangelo: “Dopo la nascita del Re del cielo, il re terreno fu turbato: senza dubbio perché la grandezza terrena viene oscurata dalla rivelazione della maestà celeste”. Secondo, in questo modo veniva preannunciato il potere giudiziario di Cristo. Come afferma Agostino in un sermone sulle Epifanie (30 de Temp.), “Come sarà Cristo sul trono del giudizio, se fin dalla culla incuteva terrore nel cuore di un re orgoglioso?”. Terzo, così veniva preannunciata la rovina del regno di Satana. Come dice Papa Leone in un sermone sulle Epifanie (“Sermone V dell’*Opus Imperfectum in Matth.*”, falsamente attribuito a San Giovanni Crisostomo): “Erode non era turbato tanto per sé quanto Satana per Erode; Erode lo considerava un uomo, ma Satana lo riteneva Dio. Entrambi temevano un successore al loro regno: Satana, uno celeste; Erode, uno terreno”. Ma la loro paura era inutile, poiché Cristo non era venuto a stabilire un regno terreno, come dice Papa Leone rivolgendosi a Erode: “Il tuo palazzo non può ospitare Cristo; né il Signore del mondo è soddisfatto del misero potere del tuo scettro”. Il fatto che i Giudei fossero turbati, quando invece avrebbero dovuto rallegrarsi, era dovuto o al fatto che, come dice Crisostomo, “gli uomini malvagi non possono gioire dell’avvento del Santo”, oppure al desiderio di compiacere Erode, che temevano; infatti “il popolo tende a favorire eccessivamente coloro contro cui subisce crudeltà”. Inoltre, il fatto che i bambini venissero uccisi da Erode non fu dannoso per loro, ma anzi vantaggioso. Come afferma Agostino in un sermone sulle Epifanie (66 de Diversis): “Non si può dubitare che Cristo, venuto per liberare l’uomo, abbia ricompensato coloro che furono uccisi per Lui; infatti, mentre era appeso alla croce, pregava per coloro che Lo stavano condannando a morte”.
 
-<span class="atom-split" data-atom="236" data-title="Whether those to whom Christ's birth was made known were suitably chosen?" data-chapter="Whether those to whom Christ's birth was made known were suitably chosen?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="236" data-title="Whether those to whom Christ's birth was made known were suitably chosen?" data-chapter="Whether those to whom Christ's birth was made known were suitably chosen?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that those to whom Christ's birth was made known were not suitably
 chosen. For our Lord (Mat. 10:5) commanded His disciples, "Go ye not into the way of the Gentiles,"
@@ -16033,7 +16041,7 @@ Reply to Objection 5: As Ambrose says (on Lk. 2:25): "It was right that our Lord
 be attested not only by the shepherds, but also by people advanced in age and virtue": whose
 testimony is rendered the more credible by reason of their righteousness.
 
-<span class="atom-split" data-atom="237" data-title="Whether Christ Himself should have made His birth know?" data-chapter="Whether Christ Himself should have made His birth know?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="237" data-title="Whether Christ Himself should have made His birth know?" data-chapter="Whether Christ Himself should have made His birth know?" data-kind="atom" data-srclang="en" data-tags="concepts/faith,concepts/miracle,concepts/revelation,concepts/wisdom,forms/quaestio"></span>
 
 Objection 1: It would seem that Christ should have Himself made His birth known. For "a
 direct cause is always of greater power than an indirect cause," as is stated Phys. viii. But Christ
@@ -16098,7 +16106,7 @@ Risposta all’Obiezione 2: Sebbene la saggezza nascosta sia inutile, non c’è
 
 Risposta all’Obiezione 3: Il libro “De Infantia Salvatoris” è apocrifo. Inoltre, Crisostomo (Hom. xxi super Joan.) afferma che Cristo non compì miracoli prima di trasformare l’acqua in vino, secondo quanto riportato in Giovanni 2:11: “‘Questo fu il primo dei miracoli che Gesù fece’. Se infatti avesse compiuto miracoli fin da piccolo, non ci sarebbe stato bisogno che altri Lo rivelassero agli Israeliti; invece Giovanni Battista dice (Giovanni 1:31): ‘Sono venuto a battezzare con acqua affinché Lui possa essere rivelato in Israele’. Inoltre, era appropriato che Cristo non iniziasse a compiere miracoli fin da giovane: altrimenti la gente avrebbe potuto considerare l’Incarnazione una realtà irreale e, per pura malvagità, L’avrebbe crocifisso prima del tempo giusto.”
 
-<span class="atom-split" data-atom="238" data-title="Whether Christ's birth should have been manifested by means of the angels and the star?" data-chapter="Whether Christ's birth should have been manifested by means of the angels and the star?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="238" data-title="Whether Christ's birth should have been manifested by means of the angels and the star?" data-chapter="Whether Christ's birth should have been manifested by means of the angels and the star?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's birth should not have been manifested by means of
 the angels. For angels are spiritual substances, according to  Ps. 103:4: "Who maketh His [Vulg.:
@@ -16220,7 +16228,7 @@ Oppure si può dire, come si legge nel libro De Qq. Vet. et Nov. Test., qu. lxii
 Oppure, come afferma Agostino in un sermone sull’Epifania (ccclxxiv), “i Magi avevano ricevuto una [rivelazione](/concepts/revelation) attraverso gli angeli”, secondo cui quella stella era un segno della nascita di Cristo; egli ritiene probabile che si trattasse di “angeli buoni, poiché, adorando Cristo, cercavano la salvezza”.  
 Oppure, come afferma Papa Leone in un sermone sull’Epifania (xxxiv), “oltre alla forma esteriore che attirò l’attenzione dei loro occhi corporei, un raggio ancora più luminoso illuminò le loro menti con la luce della fede”.
 
-<span class="atom-split" data-atom="239" data-title="Whether Christ's birth was made known in a becoming order?" data-chapter="Whether Christ's birth was made known in a becoming order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="239" data-title="Whether Christ's birth was made known in a becoming order?" data-chapter="Whether Christ's birth was made known in a becoming order?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's birth was made known in an unbecoming order. For
 Christ's birth should have been made known to them first who were nearest to Christ, and who
@@ -16316,7 +16324,7 @@ Risposta all’Obiezione 2: Sebbene la “pienezza dei gentili” abbia raggiunt
 
 Risposta all’Obiezione 3: Esistono due opinioni riguardo all’apparizione della stella vista dai Magi. Secondo Crisostomo (Homilia ii in Matteo) e Agostino in un sermone sull’Epifania, la stella fu vista dai Magi nei due anni precedenti la nascita di Cristo; dopo aver riflettuto sulla questione e preparato il viaggio, essi partirono dall’estremo Oriente per raggiungere Cristo, arrivando nel tredicesimo giorno dopo la Sua nascita. Pertanto Erode, non appena i Magi se ne furono andati, “rendendosi conto che era stato ingannato”, ordinò di uccidere tutti i bambini di età superiore ai due anni, temendo che Cristo fosse già nato al momento dell’apparizione della stella, come gli avevano riferito i Magi. Altri sostengono invece che la stella apparve soltanto al momento della nascita di Cristo; i Magi partirono immediatamente dopo averla vista e completarono un viaggio estremamente lungo in tredici giorni, grazie in parte all’aiuto divino e in parte alla velocità dei dromedari. Si ipotizza che provenissero dall’estremo Oriente; tuttavia altri ritengono che provenissero da una nazione vicina, dalla quale proveniva anche Balamo, le cui dottrine essi seguivano. Si dice che venissero dall’Oriente perché la loro terra si trovava a est di quella degli Ebrei. In questo caso, Erode uccise i bambini non subito dopo la partenza dei Magi, ma due anni dopo; forse perché in quel periodo era andato a Roma a causa di un’accusa contro di lui, o perché era preoccupato per un pericolo imminente e decise di sospendere temporaneamente i suoi piani omicidi, oppure perché pensava che i Magi, essendo stati ingannati dall’apparenza illusoria della stella e non avendo trovato il bambino come si aspettavano, si sarebbero vergognati di tornare da lui. Come afferma Agostino in un sermone sugli Innocenti, la ragione per cui uccise anche i bambini più piccoli era che temeva che un bambino su cui le stelle avessero potere potesse apparire più vecchio o più giovane di quanto fosse realmente.
 
-<span class="atom-split" data-atom="240" data-title="Whether the star which appeared to the Magi belonged to the heavenly system?" data-chapter="Whether the star which appeared to the Magi belonged to the heavenly system?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="240" data-title="Whether the star which appeared to the Magi belonged to the heavenly system?" data-chapter="Whether the star which appeared to the Magi belonged to the heavenly system?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the star which appeared to the Magi belonged to the heavenly
 system. For [Augustine](/figures/augustine) says in a sermon on the Epiphany (cxxii): "While God yet clings to the
@@ -16399,7 +16407,7 @@ Risposta all’Obiezione 2: Gli angeli del cielo, per via della loro stessa funz
 
 Risposta all’Obiezione 3: Poiché quella stella non seguiva la traiettoria delle altre stelle celesti, né seguì la traiettoria delle comete, le quali né appaiono di giorno né modificano la loro normale orbita. Tuttavia, nel suo significato, essa ha qualcosa in comune con le comete. Infatti, il regno celeste di Cristo “si spezzerà in pezzi e distruggerà tutti i regni della terra”, mentre esso stesso “rimarrà per sempre” (Daniele 2:44).
 
-<span class="atom-split" data-atom="241" data-title="Whether it was becoming that the Magi should come to adore Christ and pay homage to Him?" data-chapter="Whether it was becoming that the Magi should come to adore Christ and pay homage to Him?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="241" data-title="Whether it was becoming that the Magi should come to adore Christ and pay homage to Him?" data-chapter="Whether it was becoming that the Magi should come to adore Christ and pay homage to Him?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was unbecoming that the Magi should come to adore Christ
 and pay homage to Him. For reverence is due to a king from his subjects. But the Magi did not
@@ -16495,7 +16503,7 @@ Risposta all’Obiezione 3: Come afferma Agostino in un sermone sull’Epifania:
 
 Risposta all’Obiezione 4: Come afferma Crisostomo (Hom. ii in Matth.), “Se i Magi fossero venuti alla ricerca di un Re terreno, si sarebbero sentiti delusi nel scoprire che avevano fatto tanta strada invano; pertanto non avrebbero né adorato né offerto doni. Ma poiché cercavano un Re celeste, anche se in Lui non trovarono segni di maestosità regale, si accontentarono della testimonianza della stella e Lo adorarono: infatti videro un uomo, ma riconobbero un Dio”. Inoltre, offrirono doni in linea con la grandezza di Cristo: “l’oro, come segno del Re supremo; l’incenso, perché utilizzato nei sacrifici divini; e il mirro, che serve per imbalsamare i corpi dei morti, perché offerto a Colui che doveva morire per la salvezza di tutti” (Gregorio, Hom. x in Evang.). E così, come dice Gregorio, impariamo ad offrire l’oro, “che simboleggia la saggezza”, al Re appena nato, attraverso il splendore della nostra sapienza davanti a Lui; offriamo a Dio l’incenso, “che rappresenta la fervente devozione nella preghiera”, se le nostre preghiere raggiungono Dio con un profumo di dolcezza; e offriamo il mirro, “che simboleggia la mortificazione del corpo”, se rinunciamo alle cattive azioni.
 
-<span class="atom-split" data-atom="242" data-title="OF CHRIST'S CIRCUMCISION, AND OF THE OTHER LEGAL OBSERVANCES ACCOMPLISHED IN REGARD TO THE CHILD CHRIST (FOUR ARTICLES)" data-chapter="OF CHRIST'S CIRCUMCISION, AND OF THE OTHER LEGAL OBSERVANCES ACCOMPLISHED IN REGARD TO THE CHILD CHRIST (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="242" data-title="OF CHRIST'S CIRCUMCISION, AND OF THE OTHER LEGAL OBSERVANCES ACCOMPLISHED IN REGARD TO THE CHILD CHRIST (FOUR ARTICLES)" data-chapter="OF CHRIST'S CIRCUMCISION, AND OF THE OTHER LEGAL OBSERVANCES ACCOMPLISHED IN REGARD TO THE CHILD CHRIST (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider Christ's circumcision. And since the circumcision is a kind of profession
 of observing the Law, according to Gal. 5:3: "I testify . . . to every man circumcising himself that
@@ -16514,7 +16522,7 @@ Dobbiamo ora considerare la circoncisione di Cristo. Poiché la circoncisione ra
 (3) La sua presentazione agli anziani della comunità;  
 (4) La purificazione di sua madre.
 
-<span class="atom-split" data-atom="243" data-title="Whether Christ should have been circumcised?" data-chapter="Whether Christ should have been circumcised?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="243" data-title="Whether Christ should have been circumcised?" data-chapter="Whether Christ should have been circumcised?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ should not have been circumcised. For on the advent
 of the reality, the figure ceases. But circumcision was prescribed to Abraham as a sign of the
@@ -16589,7 +16597,7 @@ Risposta all’Obiezione 2: Cristo si sottopose alla circoncisione quando essa e
 
 Risposta all’Obiezione 3: Poiché Cristo ha volontariamente assunto su di Sé la nostra morte, che è l’effetto del peccato, pur non avendo Egli stesso alcun peccato, al fine di liberarci dalla morte e di farci morire spiritualmente al peccato, così pure ha assunto su di Sé la circoncisione, che era un rimedio contro il peccato originale, pur non essendone stato affetto, al fine di liberarci dal giogo della Legge e di realizzare in noi una vera circoncisione spirituale. In altre parole, assumendo su di Sé quella “ombra” del peccato, Egli ha potuto realizzare la sua vera natura.
 
-<span class="atom-split" data-atom="244" data-title="Whether His name was suitably given to Christ?" data-chapter="Whether His name was suitably given to Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="244" data-title="Whether His name was suitably given to Christ?" data-chapter="Whether His name was suitably given to Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that an unsuitable name was given to Christ. For the Gospel reality
 should correspond to the prophetic foretelling. But the prophets foretold another name for Christ:
@@ -16684,7 +16692,7 @@ Risposta all’Obiezione 2: Il nome Gesù poteva essere adatto, per altri motivi
 
 Risposta all’Obiezione 3: Come si legge in Genesi 17, Abramo ricevette da Dio sia il proprio nome che l’ordine della circoncisione. Per questo motivo era consuetudine tra gli Ebrei dare ai bambini il loro nome proprio nel giorno della circoncisione, come se prima di essere circoncisi non avessero ancora una vera esistenza; allo stesso modo, oggi i bambini ricevono il loro nome durante il Battesimo. Pertanto, in Proverbi 4:3 – “Ero il figlio prediletto di mio padre, tenero e unico figlio agli occhi di mia madre” – la glossa commenta: “Perché Salomone si definisce ‘unico figlio agli occhi di sua madre’, se le Scritture affermano che avesse un fratello maggiore della stessa madre? A meno che quest’ultimo non sia morto poco dopo la nascita senza ricevere un nome”. Ed è proprio per questo motivo che Cristo ricevette il proprio nome al momento della circoncisione.
 
-<span class="atom-split" data-atom="245" data-title="Whether Christ was becomingly presented in the temple?" data-chapter="Whether Christ was becomingly presented in the temple?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="245" data-title="Whether Christ was becomingly presented in the temple?" data-chapter="Whether Christ was becomingly presented in the temple?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/law,concepts/revelation,concepts/grace"></span>
 
 Objection 1: It would seem that Christ was unbecomingly presented in the Temple. For it is
 written (Ex. 13:2): "Sanctify unto Me every first-born that openeth the womb among the children
@@ -16790,7 +16798,7 @@ Risposta all’Obiezione 3: Proprio per questo motivo Egli volle che le vittime 
 
 Risposta all’Obiezione 4: La legge di Levitico 12:6,8 “comandava a coloro che ne erano in grado di offrire, per un figlio o una figlia, un agnello insieme a una tortora o a una colomba; ma a coloro che non potevano offrire un agnello veniva comandato di offrire due tortore o due colombe giovani” [*Bede, Omelia XV sulle Purificazioni*]. “E così il Signore, che ‘essendo ricco, divenne povero per noi’, affinché attraverso la Sua povertà noi potessimo diventare ricchi”, come è scritto in 2 Corinzi 8:9, “volle che il sacrificio dell’uomo povero fosse offerto per Lui”, proprio come al momento della Sua nascita fu ‘avvolto in fasce e posto in una mangiatoia’ [*Bede sull’Vangelo di Luca 1*]. Tuttavia, questi animali hanno un significato simbolico: la tortora, essendo un uccello loquace, rappresenta il predicare e la confessione della fede; essendo un animale casto, simboleggia la castità; essendo un animale solitario, indica la contemplazione. La colomba, essendo un animale gentile e semplice, simboleggia la dolcezza e la semplicità; inoltre, essendo un animale gregario, rappresenta la vita comunitaria. Pertanto, questo sacrificio indicava la perfezione di Cristo e dei suoi discepoli. Inoltre, “entrambi questi animali, con il loro canto lamentoso, rappresentavano il lutto dei santi in questa vita; ma la tortora, essendo solitaria, simboleggia le lacrime della preghiera; mentre la colomba, essendo gregaria, indica le preghiere pubbliche della Chiesa” [*Bede, Omelia XV sulle Purificazioni*]. Infine, vengono offerti due esemplari di ciascun animale, per dimostrare che la santità deve esistere non solo nell’anima, ma anche nel corpo.
 
-<span class="atom-split" data-atom="246" data-title="Whether it was fitting that the Mother of God should go to the temple to be purified?" data-chapter="Whether it was fitting that the Mother of God should go to the temple to be purified?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="246" data-title="Whether it was fitting that the Mother of God should go to the temple to be purified?" data-chapter="Whether it was fitting that the Mother of God should go to the temple to be purified?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/revelation,concepts/law,concepts/grace"></span>
 
 Objection 1: It would seem that it was unfitting for the Mother of God to go to the Temple to
 be purified. For purification presupposes uncleanness. But there was no uncleanness in the Blessed
@@ -16853,7 +16861,7 @@ Risposta all’Obiezione 2: Sembra che Mosè abbia scelto con cura le sue parole
 
 Risposta all’Obiezione 3: I sacramenti della Legge non purificavano dall’impurità del peccato, che viene eliminata per grazia; tuttavia preannunciavano questa purificazione, poiché effettuavano una sorta di purificazione carnale dall’impurità derivante da certe irregolarità, come indicato nelle opere di San Francesco di Sales, Q[102], A[5]; FS, Q[103], A[2]. Ma la Beata Vergine non subì mai alcuna impurità e, pertanto, non ebbe bisogno di essere purificata.
 
-<span class="atom-split" data-atom="247" data-title="OF THE BAPTISM OF JOHN (SIX ARTICLES)" data-chapter="OF THE BAPTISM OF JOHN (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="247" data-title="OF THE BAPTISM OF JOHN (SIX ARTICLES)" data-chapter="OF THE BAPTISM OF JOHN (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We now proceed to consider the baptism wherewith Christ was baptized. And since Christ was
 baptized with the baptism of John, we shall consider (1) the baptism of John in general; (2) the
@@ -16875,7 +16883,7 @@ Ora passiamo a considerare il battesimo con cui Cristo fu battezzato. Poiché Cr
 (5) Se quel battesimo dovesse cessare quando Cristo fu battezzato;  
 (6) Se coloro che ricevettero il battesimo di Giovanni dovessero in seguito ricevere anche il battesimo di Cristo.
 
-<span class="atom-split" data-atom="248" data-title="Whether it was fitting that John should baptize?" data-chapter="Whether it was fitting that John should baptize?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="248" data-title="Whether it was fitting that John should baptize?" data-chapter="Whether it was fitting that John should baptize?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/revelation,concepts/sacrament,figures/augustine"></span>
 
 Objection 1: It would seem that it was not fitting that John should baptize. For every sacramental
 rite belongs to some law. But John did not introduce a [new law](/concepts/divine_law). Therefore it was not fitting that he
@@ -16951,7 +16959,7 @@ Risposta all’Obiezione 2: Giovanni non era soltanto un profeta, ma “più di 
 
 Risposta all’Obiezione 3: I battesimi dei farisei erano vani, poiché erano destinati soltanto a garantire una pulizia carnale. Ma il battesimo di Giovanni aveva lo scopo di promuovere la purità spirituale, poiché induceva le persone a compiere penitenze, come già detto in precedenza.
 
-<span class="atom-split" data-atom="249" data-title="Whether the baptism of John was from God?" data-chapter="Whether the baptism of John was from God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="249" data-title="Whether the baptism of John was from God?" data-chapter="Whether the baptism of John was from God?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the baptism of John was not from God. For nothing sacramental
 that is from God is named after a mere man: thus the baptism of the [New Law](/concepts/divine_law) is not named after
@@ -17018,7 +17026,7 @@ Risposta all’Obiezione 2: L’intera dottrina e l’opera di Giovanni erano ri
 
 Risposta all’Obiezione 3: Il battesimo di Giovanni era destinato da Dio a durare solo per un breve periodo, per le ragioni sopra indicate (A[1]). Pertanto non costituiva oggetto di alcun comandamento generale stabilito nelle Scritture Sacre, ma di una rivelazione interna del Santo Spirito, come già accennato.
 
-<span class="atom-split" data-atom="250" data-title="Whether grace was given in the baptism of John?" data-chapter="Whether grace was given in the baptism of John?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="250" data-title="Whether grace was given in the baptism of John?" data-chapter="Whether grace was given in the baptism of John?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/grace,concepts/sacrament,forms/quaestio"></span>
 
 Objection 1: It would seem that grace was given in the baptism of John. For it is written (Mk.
 1:4): "John was in the desert baptizing and preaching the baptism of penance unto remission of
@@ -17091,7 +17099,7 @@ Risposta all’Obiezione 2: Quella confessione dei peccati non aveva lo scopo di
 
 Risposta all’Obiezione 3: La circoncisione fu istituita come rimedio al peccato originale. Mentre il battesimo di Giovanni non fu istituito per questo scopo, ma servì soltanto a preparare il battesimo di Cristo, come detto sopra; inoltre, i sacramenti ottengono il loro effetto grazie alla forza della loro stessa istituzione.
 
-<span class="atom-split" data-atom="251" data-title="Whether Christ alone should have been baptized with the baptism of John?" data-chapter="Whether Christ alone should have been baptized with the baptism of John?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="251" data-title="Whether Christ alone should have been baptized with the baptism of John?" data-chapter="Whether Christ alone should have been baptized with the baptism of John?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/grace,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that Christ alone should have been baptized with the baptism of
 John. For, as stated above (A[1]), "the reason why John baptized was that Christ might receive
@@ -17155,7 +17163,7 @@ Risposta all’Obiezione 2: Altri che si avvicinarono a Giovanni per farsi batte
 
 Risposta all’Obiezione 3: Si trattava del battesimo della “penitenza”, per il quale i bambini non erano adatti; pertanto non venivano battezzati con esso. Tuttavia, portare le nazioni sulla via della salvezza era riservato unicamente a Cristo, che è “l’aspettata redenzione delle nazioni”, come leggiamo in Genesi 49:10. Infatti, Cristo proibì agli apostoli di predicare il Vangelo ai Gentili prima della Sua Passione e Resurrezione. Pertanto, era ancora meno appropriato che i Gentili fossero battezzati da Giovanni.
 
-<span class="atom-split" data-atom="252" data-title="Whether John's baptism should have ceased after Christ was baptized?" data-chapter="Whether John's baptism should have ceased after Christ was baptized?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="252" data-title="Whether John's baptism should have ceased after Christ was baptized?" data-chapter="Whether John's baptism should have ceased after Christ was baptized?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that John's baptism should have ceased after Christ was baptized.
 For it is written (Jn. 1:31): "That He may be made manifest in Israel, therefore am I come baptizing
@@ -17216,7 +17224,7 @@ Risposta all’Obiezione 2: Il battesimo di Giovanni cessò dopo che Cristo fu b
 
 Risposta all’Obiezione 3: Il battesimo di Giovanni preparò il terreno non solo per il battesimo di Cristo, ma anche affinché altri potessero avvicinarsi al battesimo di Cristo; e ciò non avvenne immediatamente dopo che Cristo fu battezzato.
 
-<span class="atom-split" data-atom="253" data-title="Whether those who had been baptized with John's baptism had to be baptized with the baptism of Christ?" data-chapter="Whether those who had been baptized with John's baptism had to be baptized with the baptism of Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="253" data-title="Whether those who had been baptized with John's baptism had to be baptized with the baptism of Christ?" data-chapter="Whether those who had been baptized with John's baptism had to be baptized with the baptism of Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that those who had been baptized with John's baptism had not to
 be baptized with the baptism of Christ. For John was not less than the apostles, since of him is it
@@ -17334,7 +17342,7 @@ Risposta all’Obiezione 4: Il motivo per cui queste persone furono battezzate d
 
 Risposta all’Obiezione 5: Come afferma Agostino (Contra Faustus, xix), i nostri sacramenti sono segni di grazia presente, mentre i sacramenti dell’[Antico Testamento](/concepts/divine_law) erano segni di grazia futura. Pertanto, il semplice fatto che Giovanni battezzasse nel nome di colui che sarebbe venuto in seguito dimostra chiaramente che non impartiva il battesimo di Cristo, che è un sacramento del Nuovo Testamento.
 
-<span class="atom-split" data-atom="254" data-title="OF THE BAPTIZING OF CHRIST (EIGHT ARTICLES)" data-chapter="OF THE BAPTIZING OF CHRIST (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="254" data-title="OF THE BAPTIZING OF CHRIST (EIGHT ARTICLES)" data-chapter="OF THE BAPTIZING OF CHRIST (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider the baptizing of Christ, concerning which there are eight points of
 inquiry:
@@ -17359,7 +17367,7 @@ Dobbiamo ora considerare il battesimo di Cristo, riguardo al quale esistono otto
 (7) Se quella colomba fosse stata un animale reale;  
 (8) La voce del Padre che testimoniò in suo favore.
 
-<span class="atom-split" data-atom="255" data-title="Whether it was fitting that Christ should be baptized?" data-chapter="Whether it was fitting that Christ should be baptized?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="255" data-title="Whether it was fitting that Christ should be baptized?" data-chapter="Whether it was fitting that Christ should be baptized?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,concepts/divine_law,concepts/justice,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that it was not fitting for Christ to be baptized. For to be baptized
 is to be washed. But it was not fitting for Christ to be washed, since there was no uncleanness in
@@ -17418,7 +17426,7 @@ Risposta all’Obiezione 2: Era appropriato che Cristo non solo adempisse a ciò
 
 Risposta all’Obiezione 3: Cristo è il principio fondamentale dell’effetto spirituale del battesimo. Non fu battezzato per questo scopo, ma soltanto nell’acqua.
 
-<span class="atom-split" data-atom="256" data-title="Whether it was fitting for Christ to be baptized with John's baptism?" data-chapter="Whether it was fitting for Christ to be baptized with John's baptism?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="256" data-title="Whether it was fitting for Christ to be baptized with John's baptism?" data-chapter="Whether it was fitting for Christ to be baptized with John's baptism?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was unfitting for Christ to be baptized with John's baptism.
 For John's baptism was the "baptism of penance." But penance is unbecoming to Christ, since He
@@ -17485,7 +17493,7 @@ Risposta all’Obiezione 2: Il battesimo ebraico prescritto dalla legge era solt
 
 Risposta all’Obiezione 3: Il battesimo è un rimedio spirituale. Ora, più perfetta è una cosa, meno bisogno ha di rimedi. Pertanto, proprio perché Cristo è la persona più perfetta, è logico che non abbia ricevuto il battesimo più perfetto possibile: proprio come una persona sana non ha bisogno di un farmaco potente.
 
-<span class="atom-split" data-atom="257" data-title="Whether Christ was baptized at a fitting time?" data-chapter="Whether Christ was baptized at a fitting time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="257" data-title="Whether Christ was baptized at a fitting time?" data-chapter="Whether Christ was baptized at a fitting time?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ was baptized at an unfitting time. For Christ was baptized
 in order that He might lead others to baptism by His example. But it is commendable that the faithful
@@ -17586,7 +17594,7 @@ Risposta all’Obiezione 3: Cristo fu presentato agli uomini come esempio per tu
 
 Risposta all’Obiezione 4: Non era appropriato che Cristo fosse battezzato da Giovanni, né prima né dopo gli altri. Infatti, come afferma Crisostomo nell’Homilia IV sul Vangelo di Matteo (“Dall’opera ipotetica imperfetta”), Cristo fu battezzato “affinché potesse confermare il messaggio e il battesimo di Giovanni, e affinché Giovanni potesse testimoniare a suo favore”. Gli uomini, infatti, non avrebbero creduto alla testimonianza di Giovanni se molti non fossero stati già battezzati da lui. Pertanto, non era appropriato che Giovanni lo battezzasse prima di chiunque altro; allo stesso modo, non era nemmeno appropriato che lo battezzasse per ultimo. Come dice ancora Crisostomo nello stesso passaggio: “Così come la luce del sole non aspetta il tramonto della stella del mattino, ma appare mentre questa è ancora sopra l’orizzonte e con la sua intensità offusca la sua luce; così Cristo non attese che Giovanni terminasse il suo compito, ma apparve mentre questi ancora insegnava e battezzava”.
 
-<span class="atom-split" data-atom="258" data-title="Whether Christ should have been baptized in the Jordan?" data-chapter="Whether Christ should have been baptized in the Jordan?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="258" data-title="Whether Christ should have been baptized in the Jordan?" data-chapter="Whether Christ should have been baptized in the Jordan?" data-kind="atom" data-srclang="en" data-tags="concepts/sacrament,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that Christ should not have been baptized in the Jordan. For the
 reality should correspond to the figure. But baptism was prefigured in the crossing of the Red Sea,
@@ -17646,7 +17654,7 @@ Risposta all’Obiezione 2: Nel battesimo “saliamo” progredendo nella grazia
 
 Risposta all’Obiezione 3: Come afferma [Agostino](/figures/augustine) in un sermone per l’Epifania (x): “Così come un tempo le acque del Giordano furono trattenute, così anche ora, quando Cristo fu battezzato, il flusso del peccato fu arrestato.” Oppure ciò potrebbe significare che, contro la corrente discendente delle acque, il fiume delle benedizioni scorreva verso l’alto.
 
-<span class="atom-split" data-atom="259" data-title="Whether the heavens should have been opened unto Christ at His baptism?" data-chapter="Whether the heavens should have been opened unto Christ at His baptism?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="259" data-title="Whether the heavens should have been opened unto Christ at His baptism?" data-chapter="Whether the heavens should have been opened unto Christ at His baptism?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the heavens should not have been opened unto Christ at His
 baptism. For the heavens should be opened unto one who needs to enter heaven, by reason of his
@@ -17747,7 +17755,7 @@ Risposta all’Obiezione 2: Come afferma Geromeo in Matteo 3:16-17, i cieli si a
 
 Risposta all’Obiezione 3: La Passione di Cristo è la causa comune che permette agli uomini di accedere al cielo. Tuttavia, questa causa deve essere applicata individualmente a ciascuno, affinché possa entrare nel cielo. Ciò avviene attraverso il battesimo, come si legge in Romani 6:3: “Noi che siamo battezzati in Cristo Gesù siamo battezzati nella Sua morte”. Per questo motivo, viene menzionata l’apertura dei cieli durante il suo battesimo e non durante la sua Passione. Oppure, come afferma Crisostomo (Homelia IV su Matteo; tratta dall’opera ipotetica “Opus Imperfectum”): “Quando Cristo fu battezzato, i cieli si aprirono semplicemente; ma dopo che egli sconfisse il tiranno attraverso la croce – poiché non erano più necessari portali per un cielo che da allora in poi non avrebbe mai più chiuso le sue porte – gli angeli dissero non ‘aprite i portali’, ma ‘rimuoveteli’”. Così Crisostomo ci fa comprendere che gli ostacoli che fino ad allora impedivano alle anime dei defunti di entrare nel cielo furono completamente eliminati dalla Passione di Cristo; durante il suo battesimo, invece, i cieli si aprirono, come se fosse stato mostrato il cammino attraverso cui gli uomini potevano accedere al cielo.
 
-<span class="atom-split" data-atom="260" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (parte 1)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="260" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (parte 1)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,concepts/sacrament,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that it is not fitting to say that when Christ was baptized the Holy
 Ghost came down on Him in the form of a dove. For the Holy Ghost dwells in man by grace. But
@@ -17834,7 +17842,7 @@ Pertanto, si dice che lo Spirito Santo sia disceso su Cristo non perché fosse u
 
 Risposta all’Obiezione 3: Come afferma Crisostomo (Homilia XII su Matteo): “All’inizio di ogni esperienza spirituale compaiono visioni sensibili, al fine di aiutare coloro che non riescono affatto a concepire una natura incorporea, in modo che, anche se in seguito tali fenomeni non si verifichino più, possano comunque formare la propria fede in base a ciò che è accaduto una volta per tutte”. Pertanto lo Spirito Santo discese visibilmente, sotto forma corporea, su Cristo al momento del suo battesimo, affinché noi potessimo credere che Egli discenda invisibilmente su tutti coloro che vengono battezzati.
 
-<span class="atom-split" data-atom="261" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (parte 2)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="261" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (parte 2)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 4: The Holy Ghost appeared over Christ at His baptism, under the form
 of a dove, for four reasons. First, on account of the disposition required in the one baptized---namely,
@@ -17886,7 +17894,7 @@ Risposta all’Obiezione 4: Lo Spirito Santo apparve sopra Cristo al momento del
 Ma sugli apostoli lo Spirito Santo discese sotto forma di fuoco per due ragioni. Prima di tutto, per mostrare con quale fervore i loro cuori dovevano essere mossi, affinché potessero predicare Cristo ovunque, anche in mezzo all’opposizione. Per questo motivo lo Spirito apparve come una lingua di fuoco. Da qui deriva quanto afferma [Agostino](/figures/augustine) (Super Joan., Tract. vi): il nostro Signore “manifesta” lo Spirito Santo “in modo visibile in due modi”: cioè, “con la colomba che si posò sul Signore al momento del battesimo; con il fuoco che discese sui discepoli quando si riunirono. Nel primo caso viene mostrata la semplicità, nel secondo il fervore. Impariamo quindi dalla colomba che coloro che sono santificati dallo Spirito devono essere privi di inganno; e dal fuoco che la loro semplicità non deve mai raffreddarsi. Non si debba inoltre considerare strano il fatto che le lingue fossero divise. Nella colomba si riconosce l’unità dello Spirito Santo”.  
 In secondo luogo, perché, come afferma Crisostomo (Gregorio, Omelia xxx sull’Evangelo): “Poiché i peccati dovevano essere perdonati – e ciò avviene attraverso il battesimo – era necessaria la umiltà”; questa umiltà viene rappresentata dalla colomba. “Ma quando abbiamo ricevuto la grazia, dobbiamo aspettarci di essere giudicati”; questo è simboleggiato dal fuoco.
 
-<span class="atom-split" data-atom="262" data-title="Whether the dove in which the Holy Ghost appeared was real?" data-chapter="Whether the dove in which the Holy Ghost appeared was real?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="262" data-title="Whether the dove in which the Holy Ghost appeared was real?" data-chapter="Whether the dove in which the Holy Ghost appeared was real?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the dove in which the Holy Ghost appeared was not real. For
 that seems to be a mere apparition which appears in its semblance. But it is stated (Lk. 3:22) that
@@ -17947,7 +17955,7 @@ Risposta all’Obiezione 2: Non fu affatto superfluo creare una colomba reale, n
 
 Risposta all’Obiezione 3: Le proprietà della colomba ci permettono di comprendere la sua natura, nonché gli effetti dell’Avvento del Santo Spirito, nello stesso modo. Poiché proprio il fatto che la colomba possieda tali proprietà ne fa un simbolo dell’Avvento del Santo Spirito.
 
-<span class="atom-split" data-atom="263" data-title="Whether it was becoming, when Christ was baptized that the Father's voice should be heard, bearing witness to the Son?" data-chapter="Whether it was becoming, when Christ was baptized that the Father's voice should be heard, bearing witness to the Son?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="263" data-title="Whether it was becoming, when Christ was baptized that the Father's voice should be heard, bearing witness to the Son?" data-chapter="Whether it was becoming, when Christ was baptized that the Father's voice should be heard, bearing witness to the Son?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was unbecoming when Christ was baptized for the Father's
 voice to be heard bearing witness to the Son. For the Son and the Holy Ghost, according as they
@@ -18026,7 +18034,7 @@ Risposta all’Obiezione 2: Il Padre si manifesta attraverso la voce, ma soltant
 
 Risposta all’Obiezione 3: Era opportuno che la divinità di Cristo non venisse proclamata a tutti al momento della Sua nascita, ma piuttosto che rimanesse nascosta mentre Egli era soggetto ai difetti dell’infanzia. Tuttavia, quando raggiunse l’età perfetta, quando arrivò il momento per Lui di insegnare, compiere miracoli e attirare gli uomini a Sé, allora fu necessario che la Sua divinità venisse attestata dal Padre dall’alto, affinché le Sue dottrine risultassero ancora più credibili. Per questo motivo Egli dice (Giovanni 5:37): “Il Padre stesso che Mi ha mandato, ha dato testimonianza di Me”. In particolare, durante il battesimo – con cui gli uomini vengono rigenerati e fatti figli adottivi di Dio – poiché i figli adottivi di Dio diventano simili al Suo Figlio naturale, secondo quanto si legge in Romani 8:29: “Coloro che Egli aveva conosciuto in anticipo, li ha anche predestinati a conformarsi all’immagine del Suo Figlio”. Pertanto, Hilario afferma (Super Matth. ii) che quando Gesù fu battezzato, lo Spirito Santo discese su di Lui e si udì la voce del Padre dire: “Questo è il Mio Figlio amato”, affinché noi potessimo comprendere, attraverso ciò che avvenne in Cristo, che dopo essere stati lavati nelle acque del battesimo lo Spirito Santo discende su di noi dall’alto e che la voce del Padre ci dichiara di essere diventati figli adottivi di Dio.
 
-<span class="atom-split" data-atom="264" data-title="OF CHRIST'S MANNER OF LIFE (FOUR ARTICLES)" data-chapter="OF CHRIST'S MANNER OF LIFE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="264" data-title="OF CHRIST'S MANNER OF LIFE (FOUR ARTICLES)" data-chapter="OF CHRIST'S MANNER OF LIFE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Having considered those things which relate to Christ's entrance into the world, or to His
 beginning, it remains for us to consider those that relate to the process of His life. And we must
@@ -18046,7 +18054,7 @@ Dopo aver esaminato ciò che riguarda l’ingresso di Cristo nel mondo o i suoi 
 (3) Se dovesse aver scelto una condizione di povertà o una vita di ricchezza ed onore;  
 (4) Se dovesse aver vissuto in conformità alla Legge.
 
-<span class="atom-split" data-atom="265" data-title="Whether Christ should have associated with men, or led a solitary life?" data-chapter="Whether Christ should have associated with men, or led a solitary life?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="265" data-title="Whether Christ should have associated with men, or led a solitary life?" data-chapter="Whether Christ should have associated with men, or led a solitary life?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ should not have associated with men, but should have
 led a solitary life. For it behooved Christ to show by His manner of life not only that He was man,
@@ -18134,7 +18142,7 @@ Risposta all’Obiezione 2: Come affermato nelle SS, Q[182], A[1]; SS, Q[188], A
 
 Risposta all’Obiezione 3: L’azione di Cristo è la nostra guida. Pertanto, affinché gli insegnanti imparassero a non trovarsi sempre di fronte al pubblico, il nostro Signore si ritirava talvolta dalla folla. Ci vengono fornite tre ragioni per questo comportamento. La prima riguarda il bisogno di riposo: così è detto in (Marco 6:31) che il Signore disse ai suoi discepoli: “Andate nel deserto e riposatevi un po’, perché molte persone vengono e vanno, e non avete nemmeno il tempo di mangiare”. A volte, invece, il ritiro aveva lo scopo della preghiera; come si legge in (Luca 6:12): “In quei giorni egli andò in montagna a pregare e trascorse l’intera notte in preghiera”. Ambrogio osserva che “con il suo esempio ci insegna i precetti della virtù”. Altre volte, Cristo si ritirava per insegnarci ad evitare la simpatia o il favore delle persone. Per questo motivo Crisostomo, commentando (Matteo 5:1), dove Gesù “vedendo la folla, salì su un monte”, afferma: “Non sedendosi in città né nei mercati, ma in luoghi solitari, Egli ci insegnò a non fare nulla per attirare l’attenzione e a allontanarci dalla folla, soprattutto quando dovevamo parlare di cose importanti”.
 
-<span class="atom-split" data-atom="266" data-title="Whether it was becoming that Christ should lead an austere life in this world?" data-chapter="Whether it was becoming that Christ should lead an austere life in this world?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="266" data-title="Whether it was becoming that Christ should lead an austere life in this world?" data-chapter="Whether it was becoming that Christ should lead an austere life in this world?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was becoming that Christ should lead an austere life in this
 world. For Christ preached the perfection of life much more than John did. But John led an austere
@@ -18235,7 +18243,7 @@ Risposta all’Obiezione 2: Proprio come gli altri uomini acquisiscono la capaci
 
 Risposta all’Obiezione 3: Come afferma Crisostomo (Hom. xiii super Matth.), “affinché tu possa comprendere quanto sia grande il bene del digiuno, e come esso costituisca uno scudo contro il diavolo; affinché, dopo il battesimo, ti dedichi non al lusso, ma al digiuno. Per questo motivo Cristo digiunò: non perché ne avesse bisogno lui stesso, ma per insegnarcelo. E per questo non andò oltre Mosè ed Elia, affinché il suo assumere la nostra carne non sembrasse incredibile”. Il significato mistico, come dice Gregorio (Hom. xvi in Evang.), è che, attraverso l’esempio di Cristo, nel suo digiuno viene rispettata la cifra “quaranta”, poiché il potere del Decalogo si realizza pienamente nei quattro libri dell’Evangelo Sacro: dieci moltiplicati per quattro danno infatti quaranta. Oppure perché “viviamo in questo corpo mortale composto dai quattro elementi, e attraverso i suoi desideri trasgrediamo ai comandamenti del Signore, espressi nel Decalogo”. O ancora, secondo Agostino (QQ. lxxxiii, qu. 81): “Conoscere il Creatore e la creatura costituisce l’intera dottrina della saggezza. Il Creatore è la Trinità: Padre, Figlio e Spirito Santo. La creatura, invece, è in parte invisibile – come l’anima, alla quale si può attribuire il numero tre, poiché ci viene comandato di amare Dio con tutto il cuore, con tutta l’anima e con tutta la mente – e in parte visibile, come il corpo, al quale si applica il numero quattro, poiché è soggetto a caldo, umidità, freddo e secchezza. Pertanto, se moltiplichiamo dieci – che rappresenta l’intero codice morale – per quattro – che simboleggia il corpo, poiché è il corpo ad attuare la legge – il risultato è quaranta: cifra che indica il periodo di tempo durante il quale soffriamo e ci addoloriamo”. Eppure non vi fu alcuna contraddizione nel fatto che Cristo, dopo aver digiunato e ritiratosi nel deserto, tornasse alla normale vita quotidiana. Poiché è proprio caratteristico di quel tipo di vita – che riteniamo Cristo abbia scelto – che un uomo condivida con gli altri i frutti delle sue riflessioni spirituali: innanzitutto si dedica alla contemplazione, e solo successivamente torna alla vita pubblica, associandosi agli altri. Per questo motivo Beda commenta Marco 2:18 dicendo: “Cristo digiunò affinché non trasgredisse al comandamento; mangiò con i peccatori affinché si potesse riconoscere la Sua santità e il Suo potere”.
 
-<span class="atom-split" data-atom="267" data-title="Whether Christ should have led a life of poverty in this world?" data-chapter="Whether Christ should have led a life of poverty in this world?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="267" data-title="Whether Christ should have led a life of poverty in this world?" data-chapter="Whether Christ should have led a life of poverty in this world?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ should not have led a life of poverty in this world.
 Because Christ should have embraced the most eligible form of life. But the most eligible form of
@@ -18323,7 +18331,7 @@ Risposta all’Obiezione 2: Un uomo può provvedersi del cibo e degli abiti in m
 
 Risposta all’Obiezione 3: L’umiltà non merita grandi lodi in colui che è povero per necessità. Ma in colui che, come Cristo, è povero volontariamente, la povertà stessa è un segno di grande umiltà.
 
-<span class="atom-split" data-atom="268" data-title="Whether Christ conformed His conduct to the Law?" data-chapter="Whether Christ conformed His conduct to the Law?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="268" data-title="Whether Christ conformed His conduct to the Law?" data-chapter="Whether Christ conformed His conduct to the Law?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not conform His conduct to the Law. For the Law
 forbade any work whatsoever to be done on the Sabbath, since God "rested on the seventh day from
@@ -18406,7 +18414,7 @@ Risposta all’Obiezione 2: Con quelle parole Cristo voleva mostrare che l’uom
 
 Risposta all’Obiezione 3: Anche i discepoli, quando, affamati, raccoglievano le spighe di grano nel giorno del Sabato, devono essere scusati per aver violato la Legge, poiché erano costretti dalla fame; proprio come Davide non violò la Legge quando, per necessità, mangiò i pani che non gli era permesso consumare.
 
-<span class="atom-split" data-atom="269" data-title="OF CHRIST'S TEMPTATION (FOUR ARTICLES)" data-chapter="OF CHRIST'S TEMPTATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="269" data-title="OF CHRIST'S TEMPTATION (FOUR ARTICLES)" data-chapter="OF CHRIST'S TEMPTATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider Christ's temptation, concerning which there are four points of inquiry:
 (1) Whether it was becoming that Christ should be tempted?
@@ -18422,7 +18430,7 @@ Dobbiamo ora considerare la tentazione di Cristo, riguardo alla quale esistono q
 (3) Il momento in cui essa ebbe luogo;  
 (4) Il modo e l’ordine con cui si svolse la tentazione.
 
-<span class="atom-split" data-atom="270" data-title="Whether it was becoming that Christ should be tempted?" data-chapter="Whether it was becoming that Christ should be tempted?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="270" data-title="Whether it was becoming that Christ should be tempted?" data-chapter="Whether it was becoming that Christ should be tempted?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not becoming for Christ to be tempted. For to tempt is
 to make an experiment, which is not done save in regard to something unknown. But the power of
@@ -18512,7 +18520,7 @@ Risposta all’Obiezione 2: Cristo venne per distruggere le opere del diavolo, n
 
 Risposta all’Obiezione 3: Come afferma l’Apostolo (Ebrei 4:15), Cristo desiderava essere “tentato in tutte le cose, senza peccare”. Ora, la tentazione che proviene da un nemico può essere priva di peccato, poiché si manifesta soltanto attraverso suggerimenti esteriori. Ma la tentazione che proviene dalla carne non può essere priva di peccato, poiché è causata dal piacere e dalla concupiscenza; e, come dice Agostino (De Civitate Dei xix), “non è senza peccato quando ‘la carne desidera contro lo spirito’”. Pertanto, Cristo desiderava essere tentato da un nemico, ma non dalla carne.
 
-<span class="atom-split" data-atom="271" data-title="Whether Christ should have been tempted in the desert?" data-chapter="Whether Christ should have been tempted in the desert?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="271" data-title="Whether Christ should have been tempted in the desert?" data-chapter="Whether Christ should have been tempted in the desert?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ should not have been tempted in the desert. Because
 Christ wished to be tempted in order to give us an example, as stated above (A[1]). But an example
@@ -18594,7 +18602,7 @@ L’altro tipo di tentazione proviene dal diavolo, che “invidia sempre coloro 
 
 Risposta all’Obiezione 3: Alcuni affermano che tutte le tentazioni siano avvenute nel deserto. Tra questi, alcuni sostengono che Cristo sia stato condotto nella Città Santa, non realmente, ma attraverso una visione immaginaria; altri invece dicono che la stessa Città Santa, cioè Gerusalemme, venga chiamata “deserto” perché abbandonata da Dio. Tuttavia, questa spiegazione non è necessaria. Infatti, Marco afferma che Cristo sia stato tentato nel deserto dal diavolo, ma non che le tentazioni siano avvenute esclusivamente lì.
 
-<span class="atom-split" data-atom="272" data-title="Whether Christ's temptation should have taken place after His fast?" data-chapter="Whether Christ's temptation should have taken place after His fast?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="272" data-title="Whether Christ's temptation should have taken place after His fast?" data-chapter="Whether Christ's temptation should have taken place after His fast?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's temptation should not have taken place after His fast.
 For it has been said above (Q[40], A[2]) that an austere mode of life was not becoming to Christ.
@@ -18685,7 +18693,7 @@ Risposta all’Obiezione 2: Queste parole di Marco possono essere intese nel sen
 
 Risposta all’Obiezione 3: Come afferma Ambrogio riguardo a Luca 4:13, il diavolo si allontanò da Cristo “per un certo tempo”, poiché in seguito tornò non per tentarlo, ma per attaccarlo apertamente – cioè durante il momento della Sua Passione. Tuttavia, in questo secondo attacco il diavolo sembrava cercare di indurre Cristo alla disperazione e all’odio verso il suo prossimo; proprio come nel deserto aveva tentato di spingerlo verso piaceri sensuali e un disprezzo idolatrico per Dio.
 
-<span class="atom-split" data-atom="273" data-title="Whether the mode and order of the temptation were becoming? (parte 1)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="273" data-title="Whether the mode and order of the temptation were becoming? (parte 1)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/miracle,concepts/revelation,figures/augustine"></span>
 
 Objection 1: It would seem that the mode and order of the temptation were unbecoming. For
 the devil tempts in order to induce us to sin. But if Christ had assuaged His bodily hunger by
@@ -18825,7 +18833,7 @@ Risposta all’Obiezione 4: Come afferma Ambrogio riguardo a Luca 4:13, le Scrit
 
 Risposta all’Obiezione 5: Come afferma Agostino (De Consensu Evang. ii): “Non è certo quale dei due eventi sia avvenuto per primo: se prima furono mostrati al Signore i regni della terra e poi Egli fu posto sulla sommità del Tempio, oppure il contrario. Tuttavia, non ha importanza, purché si dimostri chiaramente che tutti questi eventi sono realmente accaduti.” È possibile che gli Evangelisti abbiano riportato questi fatti in ordini diversi, poiché a volte la cupidigia deriva dall’orgoglio, e altre volte succede il contrario.
 
-<span class="atom-split" data-atom="274" data-title="Whether the mode and order of the temptation were becoming? (parte 2)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="274" data-title="Whether the mode and order of the temptation were becoming? (parte 2)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 6: When Christ had suffered the wrong of being tempted by the devil
 saying, "If Thou be the Son of God cast Thyself down," He was not troubled, nor did He upbraid
@@ -18850,7 +18858,7 @@ Risposta all’Obiezione 6: Quando Cristo subì l’offesa di essere tentato dal
 Risposta all’Obiezione 7: Come afferma Crisostomo nell’Omelia V sul Vangelo di Matteo: “Il diavolo Lo pose su un picco del Tempio affinché fosse visto da tutti; tuttavia, a insaputa del diavolo, Egli agì in modo tale che nessuno Lo vide.”  
 Per quanto riguarda le parole “Gli mostrò tutti i regni del mondo e la loro gloria”, non dobbiamo intendere che Egli abbia visto effettivamente quei regni con le loro città, gli abitanti, l’oro e l’argento; bensì che il diavolo Gli indicasse le regioni in cui si trovavano ciascun regno o città e Gli descriveva a parole la loro gloria e lo stato in cui si trovavano. Oppure, come afferma Origene nell’Omelia XXX sul Vangelo di Luca: “Gli mostrò come, attraverso i vari vizi, egli fosse il signore del mondo”.
 
-<span class="atom-split" data-atom="275" data-title="OF CHRIST'S DOCTRINE (FOUR ARTICLES)" data-chapter="OF CHRIST'S DOCTRINE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="275" data-title="OF CHRIST'S DOCTRINE (FOUR ARTICLES)" data-chapter="OF CHRIST'S DOCTRINE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider Christ's doctrine, about which there are four points of inquiry:
 (1) Whether Christ should have preached to the Jews only, or to the Gentiles also?
@@ -18869,7 +18877,7 @@ Ora dobbiamo considerare la dottrina di Cristo, su cui vi sono quattro punti da 
 (4) Se avrebbe dovuto predicare soltanto a parole o anche per iscritto.  
 Per quanto riguarda il momento in cui iniziò ad insegnare, ne abbiamo parlato sopra quando trattavamo del suo battesimo (Q[29], A[3]).
 
-<span class="atom-split" data-atom="276" data-title="Whether Christ should have preached not only to the Jews, but also to the Gentiles?" data-chapter="Whether Christ should have preached not only to the Jews, but also to the Gentiles?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="276" data-title="Whether Christ should have preached not only to the Jews, but also to the Gentiles?" data-chapter="Whether Christ should have preached not only to the Jews, but also to the Gentiles?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ should have preached not only to the Jews, but also to
 the Gentiles. For it is written (Is. 49:6): "It is a small thing that thou shouldst be My servant to raise
@@ -18965,7 +18973,7 @@ Ora, il potere dell’insegnamento di Cristo va considerato nei miracoli con cui
 
 Risposta all’Obiezione 3: Proprio come non era appropriato che Cristo, fin dall’inizio, rendesse nota la Sua dottrina sia ai Gentili che agli Ebrei, affinché potesse apparire come inviato agli Ebrei, al popolo eletto; allo stesso modo non era opportuno che trascurasse del tutto i Gentili, per evitare che venissero privati della speranza di salvezza. Per questo motivo, alcuni individui gentili furono ammessi, in considerazione dell’eccellenza della loro fede e della loro devozione.
 
-<span class="atom-split" data-atom="277" data-title="Whether Christ should have preached to the Jews without offending them?" data-chapter="Whether Christ should have preached to the Jews without offending them?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="277" data-title="Whether Christ should have preached to the Jews without offending them?" data-chapter="Whether Christ should have preached to the Jews without offending them?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ should have preached to the Jews without offending
 them. For, as [Augustine](/figures/augustine) says (De Agone Christ. xi): "In the Man Jesus Christ, a model of life is
@@ -19034,7 +19042,7 @@ Risposta all’Obiezione 2: Rimproverando pubblicamente i Scribi e i Farisei, Cr
 
 Risposta all’Obiezione 3: Queste parole dell’Apostolo devono essere intese riferendosi a quegli anziani i cui anni vengono considerati non solo in termini di età e autorità, ma anche di integrità; secondo il Numeri 11:16: “Raduna per Me settanta uomini tra gli anziani d’Israele, quelli che tu conosci come tali, tra il popolo”. Tuttavia, se, peccando apertamente, trasformano l’autorità derivante dalla loro età in uno strumento di malvagità, devono essere rimproverati apertamente e severamente, proprio come dice Daniele (Dan. 13:52): “O tu che sei invecchiato nei giorni del male”, ecc.
 
-<span class="atom-split" data-atom="278" data-title="Whether Christ should have taught all things openly?" data-chapter="Whether Christ should have taught all things openly?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="278" data-title="Whether Christ should have taught all things openly?" data-chapter="Whether Christ should have taught all things openly?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ should not have taught all things openly. For we read
 that He taught many things to His disciples apart: as is seen clearly in the sermon at the Supper.
@@ -19124,7 +19132,7 @@ Risposta all’Obiezione 2: Secondo la Sua dottrina, il nostro Signore non rivel
 
 Risposta all’Obiezione 3: Come detto sopra, il nostro Signore parlò alle folle attraverso parabole, perché queste non erano né capaci né degne di ricevere la verità nuda che Egli rivelava ai Suoi discepoli. E quando si dice che “senza parabole non parlò loro”, secondo Crisostomo (Hom. xlvii in Matth.), ciò va inteso riguardo a quel particolare sermone, poiché in altre occasioni Egli disse molte cose alle folle senza ricorrere alle parabole. Oppure, come afferma Agostino (De Qq. Evang., q. xvii), ciò significa: “non che non parlasse mai letteralmente, ma che quasi mai pronunciava una frase senza introdurre una parabola, anche se talvolta esprimeva i propri concetti in senso letterale”.
 
-<span class="atom-split" data-atom="279" data-title="Whether Christ should have committed His doctrine to writing?" data-chapter="Whether Christ should have committed His doctrine to writing?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="279" data-title="Whether Christ should have committed His doctrine to writing?" data-chapter="Whether Christ should have committed His doctrine to writing?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/revelation,figures/augustine,figures/socrates"></span>
 
 Objection 1: It would seem that Christ should have committed His doctrine to writing. For the
 purpose of writing is to hand down doctrine to posterity. Now Christ's doctrine was destined to
@@ -19194,7 +19202,7 @@ Reply to Objection 3: Those who were unwilling to believe what the apostles wrot
 would have refused to believe the writings of Christ, whom they deemed to work miracles by the
 magic art.
 
-<span class="atom-split" data-atom="280" data-title="OF THE MIRACLES WORKED BY CHRIST, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE MIRACLES WORKED BY CHRIST, IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="280" data-title="OF THE MIRACLES WORKED BY CHRIST, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE MIRACLES WORKED BY CHRIST, IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/miracle,forms/quaestio"></span>
 
 We must now consider the miracles worked by Christ: (1) In general; (2) Specifically, of each
 kind of [miracle](/concepts/miracle); (3) In particular, of His transfiguration.
@@ -19208,7 +19216,7 @@ Concerning the first, there are four points of inquiry:
 
 Dobbiamo ora considerare i miracoli operati da Cristo: (1) In generale; (2) Nello specifico, per ciascun tipo di [miracolo](/concepts/miracle); (3) In particolare, la Sua trasfigurazione. Per quanto riguarda il primo punto, ci sono quattro questioni da esaminare: (1) Se Cristo dovesse aver operato miracoli; (2) Se li abbia operati con potere divino; (3) Quando abbia iniziato a compiere miracoli; (4) Se i Suoi miracoli costituiscano una prova sufficiente della Sua divinità.
 
-<span class="atom-split" data-atom="281" data-title="Whether Christ should have worked miracles?" data-chapter="Whether Christ should have worked miracles?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="281" data-title="Whether Christ should have worked miracles?" data-chapter="Whether Christ should have worked miracles?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,concepts/miracle,concepts/faith,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ should not have worked miracles. For Christ's deeds
 should have been consistent with His words. But He Himself said (Mat. 16:4): "A wicked and
@@ -19278,7 +19286,7 @@ Risposta all’Obiezione 2: Sebbene Cristo sia venuto “nella debolezza” dell
 
 Risposta all’Obiezione 3: I miracoli riducono il merito della fede in quanto dimostrano che esistono persone di cuore duro, disposte a non credere in ciò che è provato dalle Scritture se non sono convinte dai miracoli. Tuttavia, per loro è meglio convertirsi alla fede anche attraverso i miracoli, piuttosto che rimanere completamente nell’infedeltà. Infatti, è scritto (1 Corinzi 14:22) che i segni vengono dati “agli infedeli”, cioè affinché possano convertirsi alla fede.
 
-<span class="atom-split" data-atom="282" data-title="Whether Christ worked miracles by Divine power?" data-chapter="Whether Christ worked miracles by Divine power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="282" data-title="Whether Christ worked miracles by Divine power?" data-chapter="Whether Christ worked miracles by Divine power?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not work miracles by Divine power. For the Divine
 power is omnipotent. But it seems that Christ was not omnipotent in working miracles; for it is
@@ -19349,7 +19357,7 @@ Risposta all’Obiezione 2: Come afferma Crisostomo riguardo a Matteo 14:19, “
 
 Risposta all’Obiezione 3: Cristo scacciava i demoni in modo diverso da come essi vengono scacciati dal potere stesso dei demoni. Infatti, i demoni vengono espulsi dai corpi grazie al potere di demoni più potenti, ma conservano comunque il loro potere sull’anima; poiché Satana non agisce contro il proprio regno. Al contrario, Cristo scacciava i demoni non solo dal corpo, ma soprattutto dall’anima. Per questo motivo il nostro Signore rimproverò la blasfemia dei Giudei, che affermavano che Lui scacciasse i demoni con il potere di questi stessi: innanzitutto, dicendo che Satana non è diviso contro se stesso; in secondo luogo, citando esempi di altre persone che scacciavano i demoni con lo Spirito di Dio; in terzo luogo, perché non avrebbe potuto scacciare un demone senza averlo sconfitto con il potere divino; infine, perché le sue opere e i loro effetti non avevano nulla in comune con quelli di Satana; poiché lo scopo di Satana era “disperdere” coloro che Cristo “radunava insieme” [*Cfr. Matteo 12:24-30; Marco 3:22; Luca 11:15-32*].
 
-<span class="atom-split" data-atom="283" data-title="Whether Christ began to work miracles when He changed water into wine at the marriage feast?" data-chapter="Whether Christ began to work miracles when He changed water into wine at the marriage feast?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="283" data-title="Whether Christ began to work miracles when He changed water into wine at the marriage feast?" data-chapter="Whether Christ began to work miracles when He changed water into wine at the marriage feast?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not begin to work miracles when He changed water
 into wine at the marriage feast. For we read in the book De Infantia Salvatoris that Christ worked
@@ -19418,7 +19426,7 @@ Risposta all’Obiezione 2: Quello che il Potere Divino realizzò in Cristo fu p
 
 Risposta all’Obiezione 3: I discepoli dovevano essere lodati proprio perché seguirono Cristo “senza averlo visto compiere alcun miracolo”, come afferma Gregorio in un’omelia (Hom. v in Evangelia). E, come dice Crisostomo (Hom. xxiii in Giovanni), “la necessità di compiere miracoli sorse proprio allora, soprattutto quando i discepoli erano già riuniti intorno a Lui e attenti a ciò che accadeva intorno a loro. Per questo si aggiunge: ‘E i suoi discepoli credevano in Lui’”, non perché in quel momento credessero in Lui per la prima volta, ma perché allora “credevano con maggiore discernimento e perfezione”. Oppure vengono chiamati “discepoli” perché “in seguito avrebbero dovuto diventarlo”, come osserva Agostino (De Consensu Evangeliorum ii).
 
-<span class="atom-split" data-atom="284" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (parte 1)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="284" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (parte 1)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the miracles which Christ worked were not a sufficient proof
 of His Godhead. For it is proper to Christ to be both God and man. But the miracles which Christ
@@ -19502,7 +19510,7 @@ Terzo, dal fatto stesso che Cristo dichiarava apertamente di essere Dio; altrime
 Risposta all’Obiezione 1: Questo era l’argomento dei Gentili. Per questo motivo [Agostino](/figures/augustine) afferma (Epistola a Volusiano, cxxxvii): “Nessun miracolo degno di nota; dicono essi – aggiunge Agostino – dimostra la presenza di una tale maestosità: il ‘purificamento spirituale’ con cui scacciava i demoni, la guarigione dei malati, la risurrezione dei morti. Se si considerano altri miracoli, questi sembrano insignificanti davanti a Dio”. Agostino risponde così: “Ammettiamo che anche i profeti abbiano compiuto simili imprese. Ma persino Mosè e gli altri profeti hanno fatto di Cristo il soggetto delle loro profezie e Gli hanno attribuito grande gloria. Pertanto, Egli scelse di compiere azioni simili per evitare l’incoerenza di non fare ciò che aveva fatto attraverso altri. Tuttavia, era necessario che facesse qualcosa che nessun altro aveva mai fatto: nascere da una vergine, risorgere dai morti e ascendere in cielo. Se qualcuno ritiene che queste cose siano poco significative per Dio, non so cosa possa ancora aspettarsi. Essendo diventato uomo, avrebbe dovuto creare un altro mondo, affinché potessimo credere che Egli sia colui che ha creato questo mondo. Ma in questo mondo né un mondo più grande né uno uguale a esso poteva essere creato; e se avesse creato un mondo più piccolo di questo, anche quello sarebbe stato considerato insignificante”.  
 Per quanto riguarda i miracoli compiuti da altri, Cristo ne ha realizzati di ancora più grandi. Pertanto, a proposito di Giovanni 15:24 (“Se non avessi compiuto in loro opere che nessun altro uomo ha mai fatto, ”), Agostino dice: “Nessuna delle opere di Cristo sembra più grande della risurrezione dei morti; anche gli antichi profeti l’hanno compiuta. Tuttavia, Cristo ha realizzato alcune opere ‘che nessun altro uomo ha mai fatto’. Ma ci viene detto che altri hanno compiuto azioni che Lui non ha fatto, e che nessun altro ha mai compiuto. Ma guarire con tale potenza tanti mali e sofferenze degli uomini mortali, questo non è stato raccontato riguardo a nessuno degli antichi. Per non parlare di coloro che, su Suo comando, venivano da Lui e venivano guariti. Marco dice (6:56): ‘Ovunque entrasse, nelle città, nei villaggi o nelle città, mettevano i malati per le strade e lo pregavano di poter toccare almeno il bordo del suo abito; e tutti quelli che Lo toccavano venivano guariti’. Nessun altro ha compiuto queste cose in loro; perché quando dice ‘in loro’, non si intende ‘tra di loro’ o ‘davanti a loro’, ma proprio ‘in loro’, poiché Li guariva. Pertanto, qualsiasi opera abbia compiuto in loro è un’opera che nessuno ha mai fatto prima; poiché se qualcun altro avesse compiuto anche solo una di queste opere, lo avrebbe fatto attraverso Lui; mentre queste opere Le sono state compiute da Lui stesso”.
 
-<span class="atom-split" data-atom="285" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (parte 2)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="285" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (parte 2)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom" data-srclang="en" data-tags="concepts/miracle,figures/augustine"></span>
 
 Reply to Objection 2: [Augustine](/figures/augustine) explains this passage of John as follows (Tract. lxxi): "What
 are these 'greater works' which believers in Him would do? That, as they passed by, their very
@@ -19545,7 +19553,7 @@ Risposta all’Obiezione 2: [Agostino](/figures/augustine) interpreta questo pas
 
 Risposta all’Obiezione 3: Quando un determinato compito è proprio di un certo agente, allora quel compito stesso costituisce una prova sufficiente della totalità del potere di quell’agente; pertanto, poiché l’atto di ragionare è proprio dell’uomo, il semplice fatto che qualcuno ragioni su una determinata proposizione dimostra che si tratta di un uomo. Allo stesso modo, poiché compiere miracoli è proprio di Dio con il Suo potere, qualsiasi singolo miracolo operato da Cristo con il Suo potere costituisce una prova sufficiente del fatto che Egli sia Dio.
 
-<span class="atom-split" data-atom="286" data-title="OF (CHRIST'S) MIRACLES CONSIDERED SPECIFICALLY (FOUR ARTICLES)" data-chapter="OF (CHRIST'S) MIRACLES CONSIDERED SPECIFICALLY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="286" data-title="OF (CHRIST'S) MIRACLES CONSIDERED SPECIFICALLY (FOUR ARTICLES)" data-chapter="OF (CHRIST'S) MIRACLES CONSIDERED SPECIFICALLY (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/miracle"></span>
 
 We have now to consider each kind of [miracle](/concepts/miracle):
 (1) The miracles which He worked in spiritual substances;
@@ -19561,7 +19569,7 @@ Ora dobbiamo considerare ogni tipo di [miracolo](/concepts/miracle):
 (3) I miracoli che Egli compì sull’uomo;  
 (4) I miracoli che Egli compì sulle creature irrazionali.
 
-<span class="atom-split" data-atom="287" data-title="Whether those miracles were fitting which Christ worked in spiritual substances?" data-chapter="Whether those miracles were fitting which Christ worked in spiritual substances?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="287" data-title="Whether those miracles were fitting which Christ worked in spiritual substances?" data-chapter="Whether those miracles were fitting which Christ worked in spiritual substances?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that those miracles were unfitting which Christ worked in spiritual
 substances. For among spiritual substances the holy angels are above the demons; for, as [Augustine](/figures/augustine)
@@ -19682,7 +19690,7 @@ Risposta all’Obiezione 3: I miracoli che Cristo compì per scacciare i demoni 
 Risposta all’Obiezione 4: Cristo venne appositamente per insegnare e compiere miracoli a beneficio dell’uomo, soprattutto al fine della salvezza della sua anima. Pertanto, permise ai demoni che scacciava di causare danno all’uomo, sia nel corpo che nei beni, proprio per la salvezza della sua anima – cioè, a scopo didattico. Per questo motivo Crisostomo commenta il versetto Matteo 8:32 dicendo che Cristo permise ai demoni di entrare nei maiali “non perché li avesse assecondati, ma per dimostrare, in primo luogo, quanto siano dannosi i demoni che attaccano gli uomini; in secondo luogo, affinché tutti comprendessero che i demoni non oserebbero nemmeno ferire i maiali se Cristo non lo avesse permesso; in terzo luogo, per far capire che avrebbero trattato quegli uomini ancora più crudelmente di quanto avessero fatto con i maiali, se non fossero stati protetti dalla provvidenza di Dio”.  
 Per gli stessi motivi, permise all’uomo che veniva liberato dai demoni di soffrire gravemente in quel momento; tuttavia lo liberò immediatamente da quella sofferenza. Inoltre, come afferma Beda riguardo al versetto Marco 9:25, questo ci insegna che “spesso, quando dopo aver peccato cerchiamo di tornare a Dio, subiamo attacchi sempre più violenti da parte del vecchio nemico. Egli fa ciò sia per ispirarci avversione verso la virtù, sia per vendicare l’umiliazione derivante dal nostro peccato”. L’uomo che fu guarito, infatti, “divenne come morto”, dice Gerolamo, “perché a coloro che sono guariti si dice: ‘Siete morti; e la vostra vita è nascosta in Cristo presso Dio’” (Colossesi 3:3).
 
-<span class="atom-split" data-atom="288" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (parte 1)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="288" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (parte 1)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom" data-srclang="en" data-tags="positions/providence,concepts/miracle,concepts/nature,figures/augustine"></span>
 
 Objection 1: It would seem that it was unfitting that Christ should work miracles in the heavenly
 bodies. For, as Dionysius says (Div. Nom. iv), "it beseems Divine providence not to destroy, but
@@ -19740,7 +19748,7 @@ Rispondo che, come già detto sopra (Q[43], A[4]), i miracoli di Cristo dovevano
 
 Risposta all’Obiezione 1: Proprio come è naturale che i corpi inferiori siano mossi dai corpi celesti, che occupano un posto più elevato nell’ordine della natura, così è naturale che qualsiasi creatura venga modificata da Dio, secondo la Sua volontà. Pertanto, [Agostino](/figures/augustine) afferma (Contra Faustus, xxvi; citato nel commento su Romani 11:24): “Contrario alla natura sei stato innestato, ”, ecc.: “Dio, Creatore e Autore di tutte le nature, non fa nulla che vada contro la natura; infatti, ciò che Egli fa in ogni cosa costituisce proprio quella sua natura”. Di conseguenza, la natura di un corpo celeste non viene distrutta quando Dio ne modifica il corso; al contrario, ciò accadrebbe se tale cambiamento fosse dovuto a una causa diversa da quella divina.
 
-<span class="atom-split" data-atom="289" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (parte 2)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="289" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (parte 2)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 2: The order of the seasons was not disturbed by the [miracle](/concepts/miracle) worked by
 Christ. For, according to some, this gloom or darkening of the sun, which occurred at the time of
@@ -19829,7 +19837,7 @@ Poiché non era il periodo giusto per un’eclissi, gli astronomi di tutto il mo
 
 Risposta all’Obiezione 3: Allora, soprattutto, perché era necessaria una prova miracolosa della divinità di Cristo, quando la debolezza della [natura umana](/axes/human_nature) era in Lui particolarmente evidente? Per questo motivo, al Suo nascere apparve una nuova stella nel cielo. Come afferma Massimo nei suoi Sermoni sul Natale (VIII): “Se disprezi il mangiatore di pagnotte, alza lo sguardo verso quella nuova stella nel cielo: essa annuncia al mondo la nascita del nostro Signore”. Ma durante la Sua Passione, nella Sua condizione umana, si manifestò una debolezza ancora maggiore. Pertanto furono necessari miracoli ancora più straordinari, in un contesto di rilievo mondiale ancora più significativo. Come dice Crisostomo nell’Homilia lxxxviii sul Vangelo secondo Matteo: “Questo è il segno che Egli aveva promesso a coloro che ne cercavano uno; disse infatti: ‘Una generazione malvagia e adultera cerca un segno; non le sarà dato alcun segno, se non quello del profeta Giona’, alludendo alla Sua Croce, e alla Sua Resurrezione. Poiché fu molto più meraviglioso che ciò accadesse quando Egli era crocifisso, piuttosto che quando camminava sulla terra”.
 
-<span class="atom-split" data-atom="290" data-title="Whether Christ worked miracles fittingly on men? (parte 1)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="290" data-title="Whether Christ worked miracles fittingly on men? (parte 1)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ worked miracles unfittingly on men. For in man the
 soul is of more import than the body. Now Christ worked many miracles on bodies, but we do not
@@ -19932,7 +19940,7 @@ Rispondo che i mezzi devono essere proporzionati al fine. Cristo venne nel mondo
 Risposta all’Obiezione 1: I mezzi sono distinti dal fine. Ora, lo scopo per cui furono compiuti i miracoli di Cristo era la salvezza della parte razionale dell’uomo, che viene guarita dalla luce della saggezza e dal dono della giustizia; il primo di questi presuppone necessariamente il secondo, poiché, come è scritto nella Saggezza (1:4): “La saggezza non entrerà in un’anima malvagia, né dimorerà in un corpo soggetto ai peccati”. Non sarebbe stato appropriato che l’uomo diventasse giusto senza la sua volontà, poiché ciò sarebbe stato contrario sia alla natura stessa della giustizia, che implica rettitudine di volontà, sia alla natura umana, che richiede che il bene venga perseguito attraverso la libertà di volontà e non con la forza. Pertanto, Cristo ha giustificato l’uomo interiormente con il potere divino, ma non contro la sua volontà. Ciò non riguardava i suoi miracoli in sé, bensì lo scopo per cui furono compiuti. Allo stesso modo, con il potere divino, Egli infuse saggezza nelle menti semplici dei Suoi discepoli; per questo disse loro (Lc 21:15): “Vi darò una parola e la saggezza, contro le quali nessuno dei vostri avversari potrà resistere o confutare”. E poiché questa illuminazione era di natura interiore, non può essere considerata un miracolo, bensì soltanto riguardo all’effetto esteriore che ne derivò: ossia il fatto che persone ignoranti e semplici parlavano con tanta saggezza e fermezza. Per questo è scritto negli Atti degli Apostoli (4:13) che i Giudei, “vedendo la fermezza di Pietro e Giovanni, e comprendendo che erano uomini ignoranti, ne furono meravigliati”. E sebbene tali effetti spirituali siano diversi dai miracoli visibili, essi testimoniano comunque alla dottrina e al potere di Cristo, come afferma l’Epistola agli Ebrei (2:4): “Dio stesso ne dà testimonianza con segni, miracoli e varie meraviglie, nonché con la distribuzione dello Spirito Santo”. Tuttavia, Cristo compì alcuni miracoli anche sull’anima umana, soprattutto modificando le sue facoltà inferiori. Per questo Girolamo, commentando Matteo 9:9 (“Si alzò e lo seguì”), dice: “Era tale la maestosità della Sua divinità nascosta, che risplendeva già nel Suo aspetto umano, tanto da attirare coloro che Lo guardavano fin dal primo istante”. E riguardo a Matteo 21:12 (“Scacciò tutti quelli che vendevano e compravano”), lo stesso Girolamo afferma: “Di tutti i segni compiuti dal nostro Signore, questo mi sembra il più meraviglioso: che un uomo, allora disprezzato, potesse, con pochi colpi di frusta, scacciare una tale folla. Infatti, dai Suoi occhi sprigionò una luce ardente e celestiale, e la maestosità della Sua divinità risplendette nel Suo volto”. Origene, invece, commentando Giovanni 2:15, dice che “questo è un miracolo ancora più grande di quando trasformò l’acqua in vino, poiché in quel caso dimostrò il proprio potere sulle cose inanimate; qui, invece, plasmò le menti di migliaia di uomini”. Ancora, riguardo a Giovanni 18:6 (“Si voltarono indietro e caddero a terra”), Agostino osserva: “Sebbene quella folla fosse piena d’odio e armata di armi terribili, tuttavia una sola parola Sua, senza alcuna arma, li sconfisse”.
 Attraversandoli, li respingeva e li faceva cadere prostrati; infatti, Dio era nascosto in quel corpo. Inoltre, a questo si deve riferire quanto dice Luca (4:30): cioè che Gesù, “passando in mezzo a loro, proseguì per la Sua strada”. Su ciò Crisostomo osserva nell’Homilia XLVIII su Giovanni: “Il fatto che Egli si trovasse in mezzo a coloro che lo aspettavano in agguato e non venisse catturato da loro dimostra il potere della Sua divinità”. Inoltre, si deve ricordare quanto è scritto in Giovanni 8:59: “Gesù si nascose e uscì dal Tempio”. A questo proposito Teofilatto afferma: “Non si nascose in un angolo del Tempio, come se avesse paura, né si rifugiò dietro un muro o una colonna; ma con il Suo potere divino fece sì che coloro che lo minacciavano Lo vedessero invisibile, e così passò in mezzo a loro”. Da tutti questi esempi è chiaro che Cristo, quando lo desiderava, cambiava la mente degli uomini con il Suo potere divino: non solo donando giustizia e infondendo saggezza – attività che rientrano nella fase finale dei miracoli – ma anche attirandoli a Sé in modo visibile, o terrorizzandoli o stordendoli, operazioni che costituiscono il nucleo stesso del fenomeno miracoloso.
 
-<span class="atom-split" data-atom="291" data-title="Whether Christ worked miracles fittingly on men? (parte 2)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="291" data-title="Whether Christ worked miracles fittingly on men? (parte 2)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/miracle,concepts/grace,concepts/faith,figures/augustine"></span>
 
 Reply to Objection 2: Christ came to save the world, not only by Divine power, but also
 through the mystery of His Incarnation. Consequently in healing the sick He frequently not only
@@ -19989,7 +19997,7 @@ Risposta all’Obiezione 3: Come già detto sopra (Q[43], A[2]), Cristo compì m
 
 Risposta all’Obiezione 4: Riguardo a Matteo 9:30, “Che nessuno lo sappia”, Crisostomo afferma: “Se in un altro passaggio Lo troviamo dire ‘Andate e proclamate la gloria di Dio’ (cfr. Marco 5:19; Luca 8:39), ciò non è contrario a quanto detto qui. Infatti, Egli ci ordina di impedire che coloro che lodano noi per i nostri meriti lo facciano; ma se la gloria si riferisce a Dio, allora non dobbiamo impedirlo, bensì incoraggiarlo”.
 
-<span class="atom-split" data-atom="292" data-title="Whether Christ worked miracles fittingly on irrational creatures?" data-chapter="Whether Christ worked miracles fittingly on irrational creatures?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="292" data-title="Whether Christ worked miracles fittingly on irrational creatures?" data-chapter="Whether Christ worked miracles fittingly on irrational creatures?" data-kind="atom" data-srclang="en" data-tags="assi/god,concepts/miracle,positions/providence,figures/augustine"></span>
 
 Objection 1: It would seem that Christ worked miracles unfittingly on irrational creatures. For
 brute animals are more noble than plants. But Christ worked a [miracle](/concepts/miracle) on plants as when the fig-tree
@@ -20080,7 +20088,7 @@ Risposta all’Obiezione 3: Cristo compì anche miracoli degni di Lui stesso nel
 
 Risposta all’Obiezione 4: La moltiplicazione dei pani non avvenne attraverso un atto di creazione, ma mediante l’aggiunta di materia esterna trasformata in pani; per questo motivo [Agostino](/figures/augustine) afferma riguardo a Giovanni 6:1-14: “Da qui Egli trasforma pochi chicchi in raccolti; da qui, nelle Sue mani, moltiplica i cinque pani”: è chiaramente attraverso un processo di trasformazione che i chicchi vengono trasformati in raccolti.
 
-<span class="atom-split" data-atom="293" data-title="OF CHRIST'S TRANSFIGURATION (FOUR ARTICLES)" data-chapter="OF CHRIST'S TRANSFIGURATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="293" data-title="OF CHRIST'S TRANSFIGURATION (FOUR ARTICLES)" data-chapter="OF CHRIST'S TRANSFIGURATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We now consider Christ's transfiguration; and here there are four points of inquiry:
 (1) Whether it was fitting that Christ should be transfigured?
@@ -20096,7 +20104,7 @@ Ora consideriamo la trasfigurazione di Cristo; in questo contesto vi sono quattr
 (3) Riguardo ai testimoni di questa trasfigurazione;  
 (4) In merito al testimo fornito dalla voce del Padre.
 
-<span class="atom-split" data-atom="294" data-title="Whether it was fitting that Christ should be transfigured?" data-chapter="Whether it was fitting that Christ should be transfigured?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="294" data-title="Whether it was fitting that Christ should be transfigured?" data-chapter="Whether it was fitting that Christ should be transfigured?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not fitting that Christ should be transfigured. For it is
 not fitting for a true body to be changed into various shapes [figuras], but only for an imaginary
@@ -20167,7 +20175,7 @@ Risposta all’Obiezione 2: La figura si manifesta nel contorno di un corpo, poi
 
 Risposta all’Obiezione 3: Di quei quattro doni, soltanto la chiarezza è una qualità intrinseca alla stessa Persona di Cristo; gli altri tre, invece, non sono percepibili se non attraverso alcuna azione, movimento o passione. Cristo, dunque, manifestò in sé alcune tracce di quei tre doni: ad esempio, l’agilità quando camminò sulle onde del mare; la sottigliezza quando uscì dal grembo chiuso della Vergine; l’impassibilità quando riuscì a sfuggire incolume alle mani dei Giudei che volevano gettarlo giù o lapidarlo. Eppure, non si dice che Cristo sia stato trasfigurato per questi motivi, ma soltanto per la chiarezza, che riguarda l’aspetto della Sua Persona.
 
-<span class="atom-split" data-atom="295" data-title="Whether this clarity was the clarity of glory?" data-chapter="Whether this clarity was the clarity of glory?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="295" data-title="Whether this clarity was the clarity of glory?" data-chapter="Whether this clarity was the clarity of glory?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that this clarity was not the clarity of glory. For a gloss of Bede
 on Mat. 17:2, "He was transfigured before them," says: "In His mortal body He shows forth, not
@@ -20258,7 +20266,7 @@ Risposta all’Obiezione 2: Si afferma che questa chiarezza sia stata di natura 
 
 Risposta all’Obiezione 3: Proprio come la chiarezza che caratterizzava il corpo di Cristo rappresentava la futura chiarezza del Suo corpo, così anche la luminosità delle Sue vesti presagiva la futura gloria dei santi, una gloria che sarà superata da quella di Cristo, proprio come la brillantezza della neve è superata da quella del sole. Pertanto Gregorio afferma (Moralia, xxxii) che le vesti di Cristo divennero splendenti “perché, nell’apice della chiarezza celeste, tutti i santi si attaccheranno a Lui nella luce della giustizia; infatti Le Sue vesti simboleggiano i giusti, poiché Egli li unirà a Sé”, secondo Isaia 49:18: “Tu sarai vestito di tutte queste cose come di un ornamento”. La nuvola luminosa rappresenta inoltre la gloria dello Spirito Santo o il “potere del Padre”, come afferma Origene (Trattato III su Matteo), grazie al quale, nella gloria futura, i santi saranno avvolti da questa luce. Oppure si può dire che essa simboleggi la chiarezza del mondo redento, una chiarezza che avvolgerà i santi come un mantello protettivo. Per questo motivo, quando Pietro propose di costruire delle tende, “una nuvola luminosa coprì i discepoli”.
 
-<span class="atom-split" data-atom="296" data-title="Whether the witnesses of the transfiguration were fittingly chosen?" data-chapter="Whether the witnesses of the transfiguration were fittingly chosen?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="296" data-title="Whether the witnesses of the transfiguration were fittingly chosen?" data-chapter="Whether the witnesses of the transfiguration were fittingly chosen?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the witnesses of the transfiguration were unfittingly chosen.
 For everyone is a better witness of things that he knows. But at the time of Christ's transfiguration
@@ -20357,7 +20365,7 @@ Risposta all’Obiezione 3: Come afferma Crisostomo nel commento al Vangelo di M
 
 Risposta all’Obiezione 4: I misteri sublimi non dovrebbero essere spiegati immediatamente a tutti, ma dovrebbero essere trasmessi, attraverso i superiori, alle persone nel loro ordine naturale. Come afferma Crisostomo (sul Vangelo di Matteo 17:3): “Questi tre erano considerati superiori agli altri”. Infatti, Pietro eccelleva nell’amore che provava per Cristo e nella potenza che gli era stata concessa; Giovanni, nel privilegio dell’amore di Cristo verso di lui a causa della sua verginità, nonché per il fatto di essere stato scelto come Vangelo; Giacomo, invece, per il privilegio di essere morto martire. Tuttavia, Cristo non volle che loro raccontassero agli altri ciò che avevano visto prima della Sua Risurrezione: “Perché”, dice Gerolamo (sul Vangelo di Matteo 17:19), “una cosa così meravigliosa potesse sembrare incredibile a loro; o perché, dopo aver ascoltato parlare di tanta gloria, potessero scandalizzarsi di fronte alla Croce che ne seguì”; inoltre, “perché la Croce non venisse del tutto ostacolata dalle persone” (*Bede, Omelia XVIII; cfr. Catena Aurea*); e “affinché potessero diventare testimoni di realtà spirituali quando fossero stati colmi dello Spirito Santo” (*Gillario, sul Vangelo di Matteo 17*).
 
-<span class="atom-split" data-atom="297" data-title="Whether the testimony of the Father's voice, saying, \&quot;This is My beloved Son,\&quot; was fittingly added?" data-chapter="Whether the testimony of the Father's voice, saying, \&quot;This is My beloved Son,\&quot; was fittingly added?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="297" data-title="Whether the testimony of the Father's voice, saying, \&quot;This is My beloved Son,\&quot; was fittingly added?" data-chapter="Whether the testimony of the Father's voice, saying, \&quot;This is My beloved Son,\&quot; was fittingly added?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 # Whether the testimony of the Father's voice, saying, "This is My beloved Son," was fittingly added?
 
@@ -20441,7 +20449,7 @@ Risposta all’Obiezione 3: Cristo è venuto per donare realmente la grazia e pe
 
 Risposta all’Obiezione 4: Era appropriato che i discepoli provassero paura e cadessero al suono della voce del Padre, affinché si dimostrasse che la gloria rivelata in quel momento supera di gran lunga le capacità sensoriali e intellettive di ogni essere mortale; come dice Esodo 33:20: “L’uomo non può vedermi e vivere”. Questo è ciò che Girolamo afferma riguardo a Matteo 17:6: “Tanta è la debolezza umana da non poter sopportare lo sguardo su una tale grandezza di gloria”. Tuttavia, gli uomini vengono guariti da questa debolezza attraverso Cristo, quando Egli li conduce nella gloria. E ciò viene indicato dalle parole che Egli rivolge loro: “Alzatevi e non temete”.
 
-<span class="atom-split" data-atom="298" data-title="THE PASSION OF CHRIST (TWELVE ARTICLES)" data-chapter="THE PASSION OF CHRIST (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="298" data-title="THE PASSION OF CHRIST (TWELVE ARTICLES)" data-chapter="THE PASSION OF CHRIST (TWELVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 In proper sequence we have now to consider all that relates to Christ's leaving the world. In the
 first place, His Passion; secondly, His death; thirdly, His burial; and, fourthly, His descent into hell.
@@ -20477,7 +20485,7 @@ In ordine corretto, dobbiamo ora considerare tutto ciò che riguarda la partenza
 (11) Era appropriato che fosse crocifisso insieme ai ladri?  
 (12) La Passione di Cristo deve essere attribuita alla Sua divinità?
 
-<span class="atom-split" data-atom="299" data-title="Whether it was necessary for Christ to suffer for the deliverance of the human race?" data-chapter="Whether it was necessary for Christ to suffer for the deliverance of the human race?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="299" data-title="Whether it was necessary for Christ to suffer for the deliverance of the human race?" data-chapter="Whether it was necessary for Christ to suffer for the deliverance of the human race?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not necessary for Christ to suffer for the deliverance of
 the human race. For the human race could not be delivered except by God, according to Is. 45:21:
@@ -20569,7 +20577,7 @@ Risposta all’Obiezione 3: Il fatto che l’uomo dovesse essere salvato attrave
 
 Risposta all’Obiezione 4: Il peccato degli angeli era irreparabile; non lo stesso vale per il peccato dell’uomo primogenito (FP, Q[64], A[2]).
 
-<span class="atom-split" data-atom="300" data-title="Whether there was any other possible way of human deliverance besides the Passion of Christ?" data-chapter="Whether there was any other possible way of human deliverance besides the Passion of Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="300" data-title="Whether there was any other possible way of human deliverance besides the Passion of Christ?" data-chapter="Whether there was any other possible way of human deliverance besides the Passion of Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there was no other possible way of human deliverance besides
 Christ's Passion. For our Lord says (Jn. 12:24): "Amen, amen I say to you, unless the grain of wheat
@@ -20653,7 +20661,7 @@ Risposta all’Obiezione 3: Anche questa giustizia dipende dalla volontà divina
 
 Risposta all’Obiezione 4: La fede umana, e persino le Sacre Scritture su cui essa si basa, sono entrambe fondate sulla prescienza e sull’ordine divini. Lo stesso ragionamento vale per quella necessità che deriva dalle supposizioni umane, così come per quella necessità che scaturisce dalla prescienza e dalla volontà divine.
 
-<span class="atom-split" data-atom="301" data-title="Whether there was any more suitable way of delivering the human race than by Christ's Passion?" data-chapter="Whether there was any more suitable way of delivering the human race than by Christ's Passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="301" data-title="Whether there was any more suitable way of delivering the human race than by Christ's Passion?" data-chapter="Whether there was any more suitable way of delivering the human race than by Christ's Passion?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there was some other more suitable way of delivering the
 human race besides Christ's Passion. For nature in its operation imitates the Divine work, since it
@@ -20734,7 +20742,7 @@ Risposta all’Obiezione 2: Come afferma Crisostomo in [*Atanasio, Oratio de Inc
 
 Risposta all’Obiezione 3: Sebbene il diavolo abbia assalito l’uomo ingiustamente, tuttavia, a causa del peccato, Dio ha lasciato l’uomo sotto il dominio del diavolo. Pertanto era appropriato che l’uomo fosse liberato dal dominio del diavolo attraverso la giustizia, grazie alla sofferenza e alla morte di Cristo che hanno compiuto una vera espiazione per lui. Questo fu anche un mezzo efficace per sconfiggere l’orgoglio del diavolo, “che è un traditore della giustizia e desideroso di potere”; infatti, Cristo lo sconfisse e liberò l’uomo non soltanto con il potere della Sua divinità, ma anche con la giustizia e l’umiltà della sua Passione, come afferma Agostino (De Trin. xiii).
 
-<span class="atom-split" data-atom="302" data-title="Whether Christ ought to have suffered on the cross?" data-chapter="Whether Christ ought to have suffered on the cross?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="302" data-title="Whether Christ ought to have suffered on the cross?" data-chapter="Whether Christ ought to have suffered on the cross?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ ought not to have suffered on the cross. For the truth
 ought to conform to the figure. But in all the sacrifices of the Old Testament which prefigured
@@ -20852,7 +20860,7 @@ Risposta all’Obiezione 2: Cristo rifiutò di subire sofferenze disonorevoli le
 
 Risposta all’Obiezione 3: Come afferma Agostino (Contra Faustus, xiv), il peccato è maledetto; di conseguenza lo è anche la morte e la mortalità che ne derivano. “Ma la carne di Cristo era mortale, ‘avendo l’aspetto della carne del peccato’”; per questo Mosè la definì ‘maledetta’, proprio come l’Apostolo la chiamò ‘peccato’, dicendo (2 Corinzi 5:21): ‘Colui che non conosceva peccato, lo ha reso peccato per noi’ – cioè a causa della punizione del peccato. Non esiste infatti ignominia maggiore in questo senso, poiché Cristo stesso fu dichiarato maledetto da Dio. Infatti, ‘se Dio non avesse odiato il peccato, non avrebbe mai mandato suo Figlio a prendersi su di sé la nostra morte e a distruggerla’. Riconoscete dunque che è stato per noi che Cristo ha assunto su di sé questa maledizione, Lui che voi ammettete essere morto per noi”. Ecco perché si scrive (Galati 3:13): “Cristo ci ha redenti dalla maledizione della legge, diventando egli stesso la maledizione per noi”.
 
-<span class="atom-split" data-atom="303" data-title="Whether Christ endured all suffering?" data-chapter="Whether Christ endured all suffering?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="303" data-title="Whether Christ endured all suffering?" data-chapter="Whether Christ endured all suffering?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did endure all sufferings, because Hilary (De Trin. x)
 says: "God's only-begotten Son testifies that He endured every kind of human sufferings in order
@@ -20928,7 +20936,7 @@ Risposta all’Obiezione 2: La somiglianza si manifesta non nel numero delle sof
 
 Risposta all’Obiezione 3: Anche il minimo dei sofferimenti di Cristo sarebbe stato sufficiente da solo per redimere l’umanità da tutti i peccati; quanto alla loro adeguazione al fine della redenzione, è stato sufficiente che Egli sopportasse ogni tipo di sofferenza, come già detto in precedenza.
 
-<span class="atom-split" data-atom="304" data-title="Whether the pain of Christ's Passion was greater than all other pains? (parte 1)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="304" data-title="Whether the pain of Christ's Passion was greater than all other pains? (parte 1)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the pain of Christ's Passion was not greater than all other pains.
 For the sufferer's pain is increased by the sharpness and the duration of the suffering. But some of
@@ -21051,7 +21059,7 @@ Risposta all’Obiezione 2: La virtù morale riduce in un modo la tristezza inte
 
 Risposta all’Obiezione 3: Il dolore di un’anima separata dal corpo appartiene allo stato della futura condanna, che supera ogni male di questa vita, proprio come la gloria dei santi trascende ogni bene della presente vita. Pertanto, quando affermiamo che il dolore di Cristo fu il più grande, non stiamo facendo alcuna comparazione tra il Suo dolore e quello di un’anima separata dal corpo. Tuttavia, il corpo di Adamo non poteva soffrire se non avesse peccato; solo così sarebbe diventato mortale e soggetto al dolore. E anche se avesse effettivamente sofferto, il suo dolore sarebbe stato minore di quello del corpo di Cristo, per le ragioni già espresse. Da tutto ciò risulta chiaro che, anche se Adamo avesse sofferto nella condizione dell’innocenza, il suo dolore sarebbe stato comunque inferiore a quello di Cristo.
 
-<span class="atom-split" data-atom="305" data-title="Whether the pain of Christ's Passion was greater than all other pains? (parte 2)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="305" data-title="Whether the pain of Christ's Passion was greater than all other pains? (parte 2)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 4: Christ grieved not only over the loss of His own bodily life, but also
 over the sins of all others. And this grief in Christ surpassed all grief of every contrite heart, both
@@ -21084,7 +21092,7 @@ Risposta all’Obiezione 5: L’innocenza della vittima riduce effettivamente, i
 
 Risposta all’Obiezione 6: Cristo volle salvare l’umanità dai peccati non soltanto con il Suo potere, ma anche secondo la giustizia. Pertanto, non si limitò ad analizzare quale grande virtù derivasse dal Suo soffrire in unione con la divinità, ma valutò anche in che misura, considerata la Sua natura umana, il Suo dolore potesse contribuire a una tale soddisfazione.
 
-<span class="atom-split" data-atom="306" data-title="Whether Christ suffered in His whole soul?" data-chapter="Whether Christ suffered in His whole soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="306" data-title="Whether Christ suffered in His whole soul?" data-chapter="Whether Christ suffered in His whole soul?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not suffer in His whole soul. For the soul suffers
 indirectly when the body suffers, inasmuch as it is the "act of the body." But the soul is not, as to
@@ -21172,7 +21180,7 @@ Risposta all’Obiezione 3: Si dice quindi che il dolore sia una vera passione, 
 
 Risposta all’Obiezione 4: L’intelletto speculativo non può provare dolore o tristezza riguardo al proprio oggetto, che è la verità considerata in modo assoluto e che rappresenta la sua perfezione; tuttavia, sia il dolore che la sua causa possono raggiungerlo attraverso il percorso menzionato sopra.
 
-<span class="atom-split" data-atom="307" data-title="Whether Christ's entire soul enjoyed blessed fruition during the Passion?" data-chapter="Whether Christ's entire soul enjoyed blessed fruition during the Passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="307" data-title="Whether Christ's entire soul enjoyed blessed fruition during the Passion?" data-chapter="Whether Christ's entire soul enjoyed blessed fruition during the Passion?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's entire soul did not enjoy blessed fruition during the
 Passion. For it is not possible to be sad and glad at the one time, since sadness and gladness are
@@ -21237,7 +21245,7 @@ Risposta all’Obiezione 2: L’argomentazione del filosofo è vera in quanto si
 
 Risposta all’Obiezione 3: Un simile argomento è valido per l’intera essenza dell’anima, in relazione alle sue facoltà.
 
-<span class="atom-split" data-atom="308" data-title="Whether Christ suffered at a suitable time? (parte 1)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="308" data-title="Whether Christ suffered at a suitable time? (parte 1)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not suffer at a suitable time. For Christ's Passion
 was prefigured by the sacrifice of the Paschal lamb: hence the Apostle says (1 Cor. 5:7): "Christ
@@ -21349,7 +21357,7 @@ Il primo giorno del pane senza lievito, poiché, secondo il rito della festivit�
 
 Risposta all’Obiezione 2: Come afferma Agostino (De Consensu Evangeliorum iii): “‘Era circa la sesta ora’ quando il Signore fu consegnato da Pilato per essere crocifisso”, come racconta Giovanni. Infatti, “non era esattamente la sesta ora, ma piuttosto verso la sesta: cioè dopo la quinta ora, e quando già era iniziata una parte della sesta ora fino al suo termine, quando iniziò l’oscurità mentre Cristo era appeso alla croce”. Si ritiene che fosse la terza ora quando i Giudei chiesero con insistenza che il Signore venisse crocifisso; e si dimostra chiaramente che lo crocificarono proprio in quel momento. Pertanto, affinché nessuno distogliesse l’attenzione da questo atto così grave dai Giudei verso i soldati, Agostino scrive: “‘Era la terza ora, e lo crocifissero’, affinché si possa riconoscere chiaramente che furono loro ad averlo crocifisso, proprio in quel momento in cui chiedevano con insistenza la sua morte”. Sebbene ci siano alcune persone che intendono che “la Parasceve” sia da interpretare come la terza ora, così come ricorda Giovanni: “‘Era la Parasceve, circa la sesta ora’”; poiché “Parasceve” viene spesso inteso come “preparazione”. Ma la vera Pasqua, celebrata durante la Passione del Signore, iniziò a essere preparata dalla nona ora della notte: cioè quando i sommi sacerdoti dissero: “Merita di morire”. Secondo Giovanni, quindi, “la sesta ora della Parasceve” va da quell’ora della notte fino alla crocifissione di Cristo; mentre secondo Marco è la terza ora del giorno. Tuttavia, alcuni sostengono che questa discrepanza derivi dall’errore di un trascrittore greco: poiché i caratteri utilizzati per rappresentare il numero 3 e il numero 6 sono piuttosto simili tra loro.
 
-<span class="atom-split" data-atom="309" data-title="Whether Christ suffered at a suitable time? (parte 2)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="309" data-title="Whether Christ suffered at a suitable time? (parte 2)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: According to the author of De Qq. Vet. et Nov. Test., qu. lv, "our Lord
 willed to redeem and reform the world by His Passion, at the time of year at which He had created
@@ -21374,7 +21382,7 @@ Risposta all’Obiezione 3: Secondo l’autore di “De Qq. Vet. et Nov. Test.�
 
 Risposta all’Obiezione 4: Cristo volle soffrire quando era ancora giovane per tre motivi. Primo, per esaltare ulteriormente il Suo amore, donando la Sua vita per noi nel momento in cui si trovava nello stato più perfetto della Sua esistenza. Secondo, perché non sarebbe stato appropriato che Egli mostrasse alcun segno di decadimento naturale o fosse soggetto a malattie, come già detto sopra (Q[14], A[4]). Terzo, perché morendo e risorgendo in giovane età, Cristo potesse dimostrare con la Sua stessa persona lo stato futuro di coloro che risorgeranno. Ecco quindi ciò che è scritto (Efesini 4:13): “Finché non ci riuniremo tutti nella unità della fede e della conoscenza del Figlio di Dio, per diventare un uomo perfetto, alla misura dell’epoca della piena realizzazione di Cristo”.
 
-<span class="atom-split" data-atom="310" data-title="Whether Christ suffered in a suitable place?" data-chapter="Whether Christ suffered in a suitable place?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="310" data-title="Whether Christ suffered in a suitable place?" data-chapter="Whether Christ suffered in a suitable place?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not suffer in a suitable place. For Christ suffered
 according to His [human nature](/axes/human_nature), which was conceived in Nazareth and born in Bethlehem.
@@ -21464,7 +21472,7 @@ Risposta all’Obiezione 2: Per tre motivi Cristo soffrì fuori dalle mura della
 
 Risposta all’Obiezione 3: Secondo Geromeo, nel suo commento su Matteo 27:33, “qualcuno spiegò che ‘il luogo del Calvario’ fosse quello in cui fu sepolto Adamo; e che tale nome derivasse dal fatto che la sua testa vi fu sepolta. Un’interpretazione piacevole, certamente adatta a catturare l’attenzione della gente, ma comunque non vera. Infatti, i luoghi in cui vengono decapitati i condannati si trovano al di fuori della città, oltre le porte; da qui deriva il nome ‘Calvario’, ovvero ‘luogo delle decapitazioni’. Gesù fu quindi crocifisso lì, affinché gli stendardi del martirio potessero essere elevati sopra ciò che un tempo era il luogo dei condannati. Ma Adamo fu sepolto vicino a Hebron e Arbe, come leggiamo nel libro di Gesù Ben Nave”. Tuttavia, Gesù doveva essere crocifisso nel luogo comune dei condannati, e non accanto alla tomba di Adamo, affinché si manifestasse chiaramente che la croce di Cristo era il rimedio non solo per il peccato personale di Adamo, ma anche per il peccato di tutto il mondo.
 
-<span class="atom-split" data-atom="311" data-title="Whether it was fitting for Christ to be crucified with thieves?" data-chapter="Whether it was fitting for Christ to be crucified with thieves?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="311" data-title="Whether it was fitting for Christ to be crucified with thieves?" data-chapter="Whether it was fitting for Christ to be crucified with thieves?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unfitting for Christ to have been crucified with thieves, because it
 is written (2 Cor. 6:14): "What participation hath justice with injustice?" But for our sakes Christ
@@ -21544,7 +21552,7 @@ Risposta all’Obiezione 2: Non era appropriato che qualcun altro morisse con Cr
 
 Risposta all’Obiezione 3: Come afferma Agostino nel “De Consensu Evangeliorum” III, possiamo interpretare Matteo come se utilizzasse il plurale al posto del singolare quando scrive “i ladri Lo rimproverarono”. Oppure, come sostiene Gerolamo, si può dire che “inizialmente entrambi Lo insultarono, ma in seguito uno credeva in Lui dopo aver visto i miracoli”.
 
-<span class="atom-split" data-atom="312" data-title="Whether Christ's Passion is to be attributed to His Godhead?" data-chapter="Whether Christ's Passion is to be attributed to His Godhead?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="312" data-title="Whether Christ's Passion is to be attributed to His Godhead?" data-chapter="Whether Christ's Passion is to be attributed to His Godhead?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's Passion is to be attributed to His Godhead; for it is
 written (1 Cor. 2:8): "If they had known it, they would never have crucified the Lord of glory." But
@@ -21608,7 +21616,7 @@ Risposta all’Obiezione 2: Come si afferma in un sermone del Concilio di Efeso 
 
 Risposta all’Obiezione 3: Come si legge nel passaggio citato: “I Giudei non crocifissero semplicemente un uomo; imposero le loro presunzioni su Dio. Immaginiamo che un principe parli a voce, e che le sue parole vengano trascritte su pergamena e inviate alle città; se qualcuno ribelle distruggesse tale documento, il principe verrebbe condannato a morte non semplicemente per averlo distrutto, ma perché avrebbe distrutto il messaggio imperiale. Pertanto, i Giudei non possono considerarsi al sicuro, poiché ciò che hanno crocifisso non era semplicemente un uomo: ciò che era nascosto sotto quella “pergamena” era la Parola divina, il Figlio di Dio in carne e ossa, e non semplicemente le parole pronunciate da una lingua umana.”
 
-<span class="atom-split" data-atom="313" data-title="OF THE EFFICIENT CAUSE OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFICIENT CAUSE OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="313" data-title="OF THE EFFICIENT CAUSE OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFICIENT CAUSE OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/four_causes"></span>
 
 We have now to consider the [efficient cause](/concepts/four_causes) of Christ's Passion, concerning which there are
 six points of inquiry:
@@ -21630,7 +21638,7 @@ Dobbiamo ora considerare la [causa effettiva](/concepts/four_causes) della Passi
 (5) I suoi assassini conoscevano la Sua vera identità?  
 (6) Qual era il peccato di coloro che uccisero Cristo?
 
-<span class="atom-split" data-atom="314" data-title="Whether Christ was slain by another or by Himself?" data-chapter="Whether Christ was slain by another or by Himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="314" data-title="Whether Christ was slain by another or by Himself?" data-chapter="Whether Christ was slain by another or by Himself?" data-kind="atom" data-srclang="en" data-tags="concepts/death,concepts/will,concepts/miracle,concepts/cause,figures/augustine"></span>
 
 Objection 1: It would seem that Christ was not slain by another, but by Himself. For He says
 Himself (Jn. 10:18): "No men taketh My life from Me, but I lay it down of Myself." But he is said
@@ -21703,7 +21711,7 @@ Risposta all’Obiezione 2: Affinché Cristo potesse dimostrare che la Passione 
 
 Risposta all’Obiezione 3: Cristo subì violenza allo scopo di morire e, tuttavia, morì volontariamente; poiché la violenza fu inflitta al Suo corpo, questo corpo, però, ne fu sopraffatto soltanto nella misura in cui Egli lo volle.
 
-<span class="atom-split" data-atom="315" data-title="Whether Christ died out of obedience?" data-chapter="Whether Christ died out of obedience?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="315" data-title="Whether Christ died out of obedience?" data-chapter="Whether Christ died out of obedience?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not die out of obedience. For obedience is referred
 to a command. But we do not read that Christ was commanded to suffer. Therefore He did not
@@ -21784,7 +21792,7 @@ Risposta all’Obiezione 2: Sebbene l’obbedienza implichi necessità riguardo 
 
 Risposta all’Obiezione 3: Per lo stesso motivo, Cristo soffrì per carità e per obbedienza; poiché adempiette anche ai precetti della carità soltanto per obbedienza, e fu obbediente, per amore, al comando del Padre.
 
-<span class="atom-split" data-atom="316" data-title="Whether God the Father delivered up Christ to the Passion?" data-chapter="Whether God the Father delivered up Christ to the Passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="316" data-title="Whether God the Father delivered up Christ to the Passion?" data-chapter="Whether God the Father delivered up Christ to the Passion?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that God the Father did not deliver up Christ to the Passion. For it
 is a wicked and cruel act to hand over an innocent man to torment and death. But, as it is written
@@ -21836,7 +21844,7 @@ from charity, and consequently we give praise to both: but Judas betrayed Christ
 Jews from envy, and Pilate from worldly fear, for he stood in fear of Caesar; and these accordingly
 are held guilty.
 
-<span class="atom-split" data-atom="317" data-title="Whether it was fitting for Christ to suffer at the hands of the Gentiles?" data-chapter="Whether it was fitting for Christ to suffer at the hands of the Gentiles?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="317" data-title="Whether it was fitting for Christ to suffer at the hands of the Gentiles?" data-chapter="Whether it was fitting for Christ to suffer at the hands of the Gentiles?" data-kind="atom" data-srclang="en" data-tags="concepts/divine_law,concepts/charity,figures/augustine"></span>
 
 Objection 1: It would seem unfitting that Christ should suffer at the hands of the Gentiles. For
 since men were to be freed from sin by Christ's death, it would seem fitting that very few should
@@ -21901,7 +21909,7 @@ Risposta all’Obiezione 2: La Passione di Cristo fu un sacrificio, nel senso ch
 
 Risposta all’Obiezione 3: Come afferma [Agostino](/figures/augustine) (Trattato cxiv in Giovanni): “I Giudei dicevano che ‘non è legale per noi uccidere alcuno’, perché ritenevano che non fosse loro permesso farlo a causa della sacralità del giorno festivo, che avevano già iniziato a celebrare. Oppure, come osserva Crisostomo (Omelia lxxxiii in Giovanni), perché volevano che Lui venisse ucciso non come trasgressore della Legge, ma come nemico pubblico, dato che Si era proclamato re, e non spettava a loro giudicarlo. Oppure ancora, perché non era legale per loro crocifiggerLo (come volevano fare), ma lapidarlo, come fecero con Stefano. Ancora meglio si potrebbe dire che il potere di uccidere fu loro tolto dai Romani, dei quali erano sudditi”.
 
-<span class="atom-split" data-atom="318" data-title="Whether Christ's persecutors knew who He was?" data-chapter="Whether Christ's persecutors knew who He was?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="318" data-title="Whether Christ's persecutors knew who He was?" data-chapter="Whether Christ's persecutors knew who He was?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's persecutors did know who He was. For it is written
 (Mat. 21:38) that the husbandmen seeing the son said within themselves: "This is the heir; come,
@@ -21994,7 +22002,7 @@ Risposta all’Obiezione 2: Le parole citate sono precedute da quanto segue: “
 
 Risposta all’Obiezione 3: L’ignoranza voluta non scusa dalla colpa, anzi sembra aggravarla; dimostra infatti che una persona è così strettamente legata al peccato da preferire rimanere ignorante pur di evitare di commetterlo. Pertanto, i Giudei hanno peccato, non solo come crocifissori dell’Uomo-Cristo, ma anche come nemici di Dio.
 
-<span class="atom-split" data-atom="319" data-title="Whether the sin of those who crucified Christ was most grievous?" data-chapter="Whether the sin of those who crucified Christ was most grievous?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="319" data-title="Whether the sin of those who crucified Christ was most grievous?" data-chapter="Whether the sin of those who crucified Christ was most grievous?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the sin of Christ's crucifiers was not the most grievous. Because
 the sin which has some excuse cannot be most grievous. But our Lord Himself excused the sin of
@@ -22059,7 +22067,7 @@ Risposta all’Obiezione 2: Giuda non consegnò Cristo a Pilato, ma ai sommi sac
 
 Risposta all’Obiezione 3: Cristo volle davvero la Sua Passione esattamente come lo voleva il Padre; tuttavia non approvò l’azione ingiusta dei Giudei. Pertanto, coloro che uccisero Cristo non sono scusati della loro ingiustizia. Ciononostante, chiunque uccida un uomo commette un torto non solo verso la vittima, ma anche verso Dio e verso lo [Stato](/concepts/state); proprio come colui che si suicida, come afferma il Filosofo (Etica V). Ecco perché Davide condannò a morte l’uomo che “non temeva di levare le mani sull’Ungito del Signore”, anche se quest’ultimo lo aveva chiesto, come raccontato in 2 Re 1:5-14.
 
-<span class="atom-split" data-atom="320" data-title="OF THE EFFICIENCY OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFICIENCY OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="320" data-title="OF THE EFFICIENCY OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFICIENCY OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We now have to consider Christ's Passion as to its effect; first of all, as to the manner in which
 it was brought about; and, secondly, as to the effect in itself. Under the first heading there are six
@@ -22081,7 +22089,7 @@ Ora dobbiamo considerare la Passione di Cristo in relazione al suo effetto; inna
 (5) È appropriato che Cristo sia considerato il Redentore?  
 (6) La Passione ha realmente garantito efficacemente la salvezza dell’uomo?
 
-<span class="atom-split" data-atom="321" data-title="Whether Christ's Passion brought about our salvation by way of merit?" data-chapter="Whether Christ's Passion brought about our salvation by way of merit?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="321" data-title="Whether Christ's Passion brought about our salvation by way of merit?" data-chapter="Whether Christ's Passion brought about our salvation by way of merit?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's Passion did not bring about our salvation by way of
 merit. For the sources of our sufferings are not within us. But no one merits or is praised except
@@ -22141,7 +22149,7 @@ Risposta all’Obiezione 2: Fin dal momento della Sua concezione, Cristo meritav
 
 Risposta all’Obiezione 3: La Passione di Cristo ha un effetto particolare, che i Suoi meriti precedenti non possedevano; tale effetto deriva non da una maggiore carità, ma dalla natura stessa dell’atto compiuto da Cristo, che era adatta a produrre proprio quel risultato, come risulta chiaramente dagli argomenti addotti riguardo alla perfetta appropriazione della Passione di Cristo (Q[46], AA, 3,4).
 
-<span class="atom-split" data-atom="322" data-title="Whether Christ's Passion brought about our salvation by way of atonement?" data-chapter="Whether Christ's Passion brought about our salvation by way of atonement?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="322" data-title="Whether Christ's Passion brought about our salvation by way of atonement?" data-chapter="Whether Christ's Passion brought about our salvation by way of atonement?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's Passion did not bring about our salvation by way of
 atonement. For it seems that to make the atonement devolves on him who commits the sin; as is
@@ -22206,7 +22214,7 @@ Risposta all’Obiezione 2: L’amore di Cristo era più grande della malvagità
 
 Risposta all’Obiezione 3: La dignità della carne di Cristo non deve essere valutata esclusivamente in base alla natura stessa della carne, ma anche in relazione alla Persona che l’ha assunta – cioè, in quanto era la carne di Dio, il che ne faceva qualcosa di di infinito valore.
 
-<span class="atom-split" data-atom="323" data-title="Whether Christ's Passion operated by way of sacrifice?" data-chapter="Whether Christ's Passion operated by way of sacrifice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="323" data-title="Whether Christ's Passion operated by way of sacrifice?" data-chapter="Whether Christ's Passion operated by way of sacrifice?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,concepts/divine_law,concepts/sacrament,concepts/charity,figures/augustine"></span>
 
 Objection 1: It would seem that Christ's Passion did not operate by way of sacrifice. For the
 truth should correspond with the figure. But human flesh was never offered up in the sacrifices of
@@ -22284,7 +22292,7 @@ Risposta all’Obiezione 2: Agostino parla lì di sacrifici figurativi visibili;
 
 Risposta all’Obiezione 3: La Passione di Cristo fu certamente un atto malvagio da parte dei suoi assassini; ma da parte Sua stesso rappresentò il sacrificio di colui che soffriva per carità. Per questo si dice che sia stato Cristo ad offrire questo sacrificio, e non gli esecutori.
 
-<span class="atom-split" data-atom="324" data-title="Whether Christ's Passion brought about our salvation by way of redemption?" data-chapter="Whether Christ's Passion brought about our salvation by way of redemption?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="324" data-title="Whether Christ's Passion brought about our salvation by way of redemption?" data-chapter="Whether Christ's Passion brought about our salvation by way of redemption?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's Passion did not effect our salvation by way of
 redemption. For no one purchases or redeems what never ceased to belong to him. But men never
@@ -22367,7 +22375,7 @@ Risposta all’Obiezione 2: L’uomo, peccando, è diventato schiavo sia di Dio 
 
 Risposta all’Obiezione 3: Poiché, per quanto riguarda Dio, la redenzione era necessaria per la liberazione dell’uomo, ma non per quanto riguarda il diavolo, il prezzo doveva essere pagato non al diavolo, bensì a Dio. E pertanto si dice che Cristo abbia pagato il prezzo della nostra redenzione – il proprio prezioso sangue – non al diavolo, ma a Dio.
 
-<span class="atom-split" data-atom="325" data-title="Whether it is proper to Christ to be the Redeemer?" data-chapter="Whether it is proper to Christ to be the Redeemer?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="325" data-title="Whether it is proper to Christ to be the Redeemer?" data-chapter="Whether it is proper to Christ to be the Redeemer?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not proper to Christ to be the Redeemer, because it is
 written (Ps. 30:6): "Thou hast redeemed me, O Lord, the God of Truth." But to be the Lord God
@@ -22426,7 +22434,7 @@ Risposta all’Obiezione 2: L’Uomo-Cristo pagò il prezzo della nostra redenzi
 
 Risposta all’Obiezione 3: Le sofferenze dei santi sono benefiche per la Chiesa, non nel senso della redenzione, ma come esempio e incoraggiamento, secondo quanto si legge in 2 Corinzi 1:6: “Se siamo nella tribolazione, è per la vostra esortazione e salvezza”.
 
-<span class="atom-split" data-atom="326" data-title="Whether Christ's Passion brought about our salvation efficiently?" data-chapter="Whether Christ's Passion brought about our salvation efficiently?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="326" data-title="Whether Christ's Passion brought about our salvation efficiently?" data-chapter="Whether Christ's Passion brought about our salvation efficiently?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's Passion did not bring about our salvation efficiently.
 For the [efficient cause](/concepts/four_causes) of our salvation is the greatness of the Divine power, according to Is. 59:1:
@@ -22490,7 +22498,7 @@ Risposta all’Obiezione 2: La Passione di Cristo, sebbene corporea, ha comunque
 
 Risposta all’Obiezione 3: La Passione di Cristo, considerata in relazione alla Sua divinità, agisce in modo efficace; ma se vista nel contesto della volontà dell’anima di Cristo, agisce in modo meritorio. Essendo parte integrante della carne stessa di Cristo, essa opera come soddisfazione del debito di punizione che abbiamo contratto; liberandoci da tale debito, ci libera anche dalla schiavitù del peccato. Inoltre, riconciliandoci con Dio, essa agisce come sacrificio, come verrà ulteriormente spiegato in seguito (Q[49]).
 
-<span class="atom-split" data-atom="327" data-title="OF THE EFFECTS OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="327" data-title="OF THE EFFECTS OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider what are the effects of Christ's Passion, concerning which there are
 six points of inquiry:
@@ -22511,7 +22519,7 @@ Dobbiamo ora considerare quali siano gli effetti della Passione di Cristo, su cu
 (5) La porta del cielo ci è stata aperta a seguito della Passione di Cristo?  
 (6) Cristo ne ha tratto elevazione e gloria?
 
-<span class="atom-split" data-atom="328" data-title="Whether we were delivered from sin through Christ's Passion?" data-chapter="Whether we were delivered from sin through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="328" data-title="Whether we were delivered from sin through Christ's Passion?" data-chapter="Whether we were delivered from sin through Christ's Passion?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we were not delivered from sin through Christ's Passion. For
 to deliver from sin belongs to God alone, according to Is. 43:25: "I am He who blot out your
@@ -22605,7 +22613,7 @@ Risposta all’Obiezione 4: Come già detto, poiché la Passione di Cristo costi
 
 Risposta all’Obiezione 5: La Passione di Cristo ci viene applicata anche attraverso la fede, affinché possiamo partecipare dei suoi frutti, secondo Romani 3:25: “Colui che Dio ha proposto come espiazione, per mezzo della fede nel suo sangue”. Ma la fede con cui veniamo purificati dal peccato non è una “fede inerte”, che possa esistere anche insieme al peccato, bensì una “fede viva” attraverso la carità; così la Passione di Cristo può essere applicata a noi, non solo nel nostro intelletto, ma anche nel nostro cuore. E anche in questo modo i peccati vengono perdonati grazie al potere della Passione di Cristo.
 
-<span class="atom-split" data-atom="329" data-title="Whether we were delivered from the devil's power through Christ's Passion?" data-chapter="Whether we were delivered from the devil's power through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="329" data-title="Whether we were delivered from the devil's power through Christ's Passion?" data-chapter="Whether we were delivered from the devil's power through Christ's Passion?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we were not delivered from the power of the devil through
 Christ's Passion. For he has no power over others, who can do nothing to them without the sanction
@@ -22686,7 +22694,7 @@ Risposta all’Obiezione 2: Se Dio lo permette, il diavolo può comunque tentare
 
 Risposta all’Obiezione 3: Dio permette al diavolo di ingannare gli uomini attraverso determinate persone, in momenti e luoghi specifici, secondo i motivi nascosti delle Sue decisioni; tuttavia, esiste sempre un rimedio offerto dalla Passione di Cristo per difendersi dalle insidie malvagie dei demoni, anche nel tempo dell’Anticristo. Ma se qualcuno trascura di utilizzare questo rimedio, ciò non diminuisce affatto l’efficacia della Passione di Cristo.
 
-<span class="atom-split" data-atom="330" data-title="Whether men were freed from the punishment of sin through Christ's Passion?" data-chapter="Whether men were freed from the punishment of sin through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="330" data-title="Whether men were freed from the punishment of sin through Christ's Passion?" data-chapter="Whether men were freed from the punishment of sin through Christ's Passion?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that men were not freed from the punishment of sin by Christ's
 Passion. For the chief punishment of sin is eternal damnation. But those damned in hell for their
@@ -22755,7 +22763,7 @@ Risposta all’Obiezione 2: Come già detto sopra (A[1], ad 4,5), affinché poss
 
 Risposta all’Obiezione 3: La soddisfazione di Cristo agisce su di noi nella misura in cui siamo uniti a Lui, come i membri al loro capo, come detto sopra (A[1]). Ora, i membri devono essere conformi al loro capo. Pertanto, così come Cristo prima ricevette la grazia nella Sua anima e, attraverso la Passione, raggiunse la gloria dell’immortalità, anche noi, che siamo i Suoi membri, veniamo liberati dalla Sua Passione da ogni debito di punizione; tuttavia, prima riceviamo nelle nostre anime “lo spirito di adozione figliuoli”, grazie al quale i nostri [nomi](/positions/nominalism) vengono iscritti per l’eredità della gloria immortale, anche se possediamo ancora un corpo mortale e soggetto alle sofferenze: in seguito, “essendo resi conformi” alle sofferenze e alla morte di Cristo, veniamo introdotti nella gloria immortale, secondo le parole dell’Apostolo (Romani 8:17): “E se siamo figli, allora siamo anche eredi; eredi veri di Dio, co-eredi con Cristo. Se dunque soffriamo insieme a Lui, è per essere glorificati insieme a Lui”.
 
-<span class="atom-split" data-atom="331" data-title="Whether we were reconciled to God through Christ's Passion?" data-chapter="Whether we were reconciled to God through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="331" data-title="Whether we were reconciled to God through Christ's Passion?" data-chapter="Whether we were reconciled to God through Christ's Passion?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that we were not reconciled to God through Christ's Passion. For
 there is no need of reconciliation between friends. But God always loved us, according to Wis.
@@ -22817,7 +22825,7 @@ Risposta all’Obiezione 2: Non si dice che Cristo ci abbia riconciliati con Dio
 
 Risposta all’Obiezione 3: Poiché coloro che uccisero Cristo erano uomini, allo stesso modo lo fu anche il Cristo ucciso. Ora, la carità di Cristo sofferente superava la malvagità dei suoi assassini. Pertanto, la Passione di Cristo ebbe un ruolo più decisivo nel riconciliare Dio con l’intera umanità che nel provocarne la collera.
 
-<span class="atom-split" data-atom="332" data-title="Whether Christ opened the gate of heaven to us by His Passion?" data-chapter="Whether Christ opened the gate of heaven to us by His Passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="332" data-title="Whether Christ opened the gate of heaven to us by His Passion?" data-chapter="Whether Christ opened the gate of heaven to us by His Passion?" data-kind="atom" data-srclang="en" data-tags="positions/original_sin,concepts/faith,concepts/grace,positions/beatitude"></span>
 
 Objection 1: It would seem that Christ did not open the gate of heaven to us by His Passion.
 For it is written (Prov. 11:18): "To him that soweth justice, there is a faithful reward." But the
@@ -22908,7 +22916,7 @@ Risposta all’Obiezione 3: Come è stato detto sopra (Q[39], A[5]), i cieli si 
 
 Risposta all’Obiezione 4: Cristo, con la Sua Passione, meritò per noi l’apertura del regno dei cieli e rimuove il ostacolo che vi si frapponeva; ma con la Sua Ascensione, per così dire, ci portò alla possesso di quel regno celeste. Per questo si dice che, ascendendo, “abbia aperto la strada davanti a noi”.
 
-<span class="atom-split" data-atom="333" data-title="Whether by His Passion Christ merited to be exalted?" data-chapter="Whether by His Passion Christ merited to be exalted?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="333" data-title="Whether by His Passion Christ merited to be exalted?" data-chapter="Whether by His Passion Christ merited to be exalted?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that Christ did not merit to be exalted on account of His Passion. For
 eminence of rank belongs to God alone, just as knowledge of truth, according to Ps. 112:4: "The
@@ -22995,7 +23003,7 @@ Risposta all’Obiezione 2: Cristo, per i suoi meriti precedenti, meritò l’in
 
 Risposta all’Obiezione 3: Fu grazie a una particolare dispensazione di Cristo che, prima della Passione, la gloria della Sua anima non si manifestasse nel Suo corpo, affinché Egli potesse ottenere la propria gloria corporea con maggiore onore, quando l’avesse meritata attraverso la Passione. Tuttavia, non era appropriato che la gloria dell’anima venisse rinviata, poiché l’anima era immediatamente unita alla Parola; pertanto era giusto che fosse proprio la Parola stessa a colmare quella gloria. Il corpo, invece, era unito alla Parola attraverso l’anima.
 
-<span class="atom-split" data-atom="334" data-title="OF THE DEATH OF CHRIST (SIX ARTICLES)" data-chapter="OF THE DEATH OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="334" data-title="OF THE DEATH OF CHRIST (SIX ARTICLES)" data-chapter="OF THE DEATH OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider the death of Christ; concerning which there are six subjects of inquiry:
 (1) Whether it was fitting that Christ should die?
@@ -23015,7 +23023,7 @@ Dobbiamo ora considerare la morte di Cristo; su di essa vi sono sei argomenti da
 (5) Se si trattasse dello stesso corpo, sia in vita che dopo la morte;  
 (6) Se la Sua morte abbia avuto qualche effetto sulla nostra salvezza.
 
-<span class="atom-split" data-atom="335" data-title="Whether it was fitting that Christ should die?" data-chapter="Whether it was fitting that Christ should die?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="335" data-title="Whether it was fitting that Christ should die?" data-chapter="Whether it was fitting that Christ should die?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not fitting that Christ should die. For a first principle
 in any order is not affected by anything contrary to such order: thus fire, which is the principle of
@@ -23089,7 +23097,7 @@ Risposta all’Obiezione 2: Cristo non subì la morte causata dalla malattia, af
 
 Risposta all’Obiezione 3: Un contrario, di per sé, non conduce necessariamente all’altro; tuttavia, a volte lo fa in modo indiretto: ad esempio, il freddo può essere la causa indiretta del calore. In questo senso, Cristo, con la Sua morte, ci ha riportati alla vita, poiché con essa ha distrutto la nostra morte; proprio come colui che subisce al posto di un altro elimina quella punizione.
 
-<span class="atom-split" data-atom="336" data-title="Whether the Godhead was separated from the flesh when Christ died?" data-chapter="Whether the Godhead was separated from the flesh when Christ died?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="336" data-title="Whether the Godhead was separated from the flesh when Christ died?" data-chapter="Whether the Godhead was separated from the flesh when Christ died?" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/soul_body,concepts/grace,concepts/death,figures/augustine"></span>
 
 Objection 1: It would seem that the Godhead was separated from the flesh when Christ died.
 For as Matthew relates (27:46), when our Lord was hanging upon the cross He cried out: "My God,
@@ -23162,7 +23170,7 @@ Risposta all’Obiezione 2: Si dice che la Parola di Dio sia unita alla carne at
 
 Risposta all’Obiezione 3: L’anima possiede formalmente l’energia che dona la vita; pertanto, finché è presente e unita in modo formale al corpo, quest’ultimo deve necessariamente essere vivente. La Divinità, invece, non possiede formalmente tale energia, ma solo efficacemente; poiché non può costituire la forma del corpo. Quindi non è necessario che la carne sia vivente finché rimane l’unione tra la Divinità e la carne, poiché Dio agisce per volontà propria, e non per necessità.
 
-<span class="atom-split" data-atom="337" data-title="Whether in Christ's death there was a severance between His Godhead and His soul?" data-chapter="Whether in Christ's death there was a severance between His Godhead and His soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="337" data-title="Whether in Christ's death there was a severance between His Godhead and His soul?" data-chapter="Whether in Christ's death there was a severance between His Godhead and His soul?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,assi/god,assi/human_nature,figures/augustine"></span>
 
 Objection 1: It would seem that there was a severance in death between Christ's Godhead and
 His soul, because our Lord said (Jn. 10:18): "No man taketh away My soul from Me: but I lay it
@@ -23256,7 +23264,7 @@ Risposta all’Obiezione 2: Poiché il Verbo di Dio è unito alla [natura umana]
 
 Risposta all’Obiezione 4: Come afferma Damasceno (De Fide Orth. iii): “Nella morte di Cristo l’anima fu separata dal corpo; non si trattò di una singola ipostasi divisa in due parti, poiché sia l’anima che il corpo, nello stesso contesto, avevano la loro esistenza fin dall’inizio nell’ipostasia della Parola. E nella morte, pur essendo separati l’uno dall’altro, ciascuno continuò ad appartenere alla stessa ipostasia della Parola. Pertanto, l’unica ipostasia della Parola era anche l’ipostasia dell’anima e del corpo. Poiché né l’anima né il corpo ebbero mai un’ipostasia propria, al di fuori di quella della Parola; esistette sempre soltanto un’unica ipostasia della Parola, e mai due.”
 
-<span class="atom-split" data-atom="338" data-title="Whether Christ was a man during the three days of His death?" data-chapter="Whether Christ was a man during the three days of His death?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="338" data-title="Whether Christ was a man during the three days of His death?" data-chapter="Whether Christ was a man during the three days of His death?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ was a man during the three days of His death, because
 [Augustine](/figures/augustine) says (De Trin. iii): "Such was the assuming [of nature] as to make God to be man, and
@@ -23326,7 +23334,7 @@ Risposta all’Obiezione 2: Si dice che l’uomo sia il proprio intelletto, non 
 
 Risposta all’Obiezione 3: Un uomo è idoneo ad essere sacerdote in virtù dell’anima, che costituisce l’elemento fondamentale del carattere gerarchico; pertanto un uomo non perde la sua condizione sacerdotale con la morte, e tanto meno Cristo, che è la fonte di tutto il sacerdozio.
 
-<span class="atom-split" data-atom="339" data-title="Whether Christ's was identically the same body living and dead?" data-chapter="Whether Christ's was identically the same body living and dead?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="339" data-title="Whether Christ's was identically the same body living and dead?" data-chapter="Whether Christ's was identically the same body living and dead?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's was not identically the same body living and dead.
 For Christ truly died just as other men do. But the body of everyone else is not simply identically
@@ -23407,7 +23415,7 @@ Risposta all’Obiezione 2: Poiché si dice che una cosa sia la stessa in modo i
 
 Risposta all’Obiezione 3: La corruzione e la morte non appartengono a Cristo in base al presupposto secondo cui il suo essere umano è identico alla sua natura divina; ma in base alla sua natura umana, nella quale si riscontra la distinzione tra vita e morte nel suo corpo.
 
-<span class="atom-split" data-atom="340" data-title="Whether Christ's death conduced in any way to our salvation?" data-chapter="Whether Christ's death conduced in any way to our salvation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="340" data-title="Whether Christ's death conduced in any way to our salvation?" data-chapter="Whether Christ's death conduced in any way to our salvation?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/death,concepts/cause,figures/augustine"></span>
 
 Objection 1: It would seem that Christ's death did not conduce in any way to our salvation.
 For death is a sort of privation, since it is the privation of life. But privation has not any power of
@@ -23449,7 +23457,7 @@ by way of merit, yet it did so by way of causality, as stated above.
 Reply to Objection 3: Christ's death was indeed corporeal; but the body was the instrument
 of the Godhead united to Him, working by Its power, although dead.
 
-<span class="atom-split" data-atom="341" data-title="OF CHRIST'S BURIAL (FOUR ARTICLES)" data-chapter="OF CHRIST'S BURIAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="341" data-title="OF CHRIST'S BURIAL (FOUR ARTICLES)" data-chapter="OF CHRIST'S BURIAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider Christ's burial, concerning which there are four points of inquiry:
 (1) Whether it was fitting for Christ to be buried?
@@ -23465,7 +23473,7 @@ Dobbiamo ora considerare la sepoltura di Cristo, su cui si possono porre quattro
 (3) Il suo corpo si decompose nella tomba?  
 (4) Quanto tempo rimase sepolto nella tomba?
 
-<span class="atom-split" data-atom="342" data-title="Whether it was fitting for Christ to be buried?" data-chapter="Whether it was fitting for Christ to be buried?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="342" data-title="Whether it was fitting for Christ to be buried?" data-chapter="Whether it was fitting for Christ to be buried?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unfitting for Christ to have been buried, because it is said of Him
 (Ps. 87:6): "He is [Vulg.: 'I am'] become as a man without help, free among the dead." But the
@@ -23527,7 +23535,7 @@ Risposta all’Obiezione 2: Proprio come la morte di Cristo ha operato la nostra
 
 Risposta all’Obiezione 3: Come si afferma in un discorso tenuto al Concilio di Efeso [*P. iii, cap. 9*]: “Niente di ciò che salva l’uomo è disonorevole per Dio; ciò dimostra che Egli non è suscettibile di offese, ma è misericordioso”; e in un altro discorso dello stesso Concilio [*P. iii, cap. 10*]: “Dio non considera nulla come un’offesa che possa costituire un mezzo per la salvezza degli uomini. Pertanto, non dovete ritenere che la Natura di Dio sia così vile da poter essere soggetta a offese”.
 
-<span class="atom-split" data-atom="343" data-title="Whether Christ was buried in a becoming manner?" data-chapter="Whether Christ was buried in a becoming manner?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="343" data-title="Whether Christ was buried in a becoming manner?" data-chapter="Whether Christ was buried in a becoming manner?" data-kind="atom" data-srclang="en" data-tags="concepts/custom,concepts/faith,concepts/death,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that Christ was buried in an unbecoming manner. For His burial
 should be in keeping with His death. But Christ underwent a most shameful death, according to
@@ -23636,7 +23644,7 @@ Risposta all’Obiezione 3: La mirra e l’aloe furono utilizzate sul corpo di C
 
 Risposta all’Obiezione 4: Cristo fu sepolto “in un giardino” per significare che, attraverso la Sua morte e sepoltura, veniamo liberati dalla morte che deriva dal peccato di Adamo commesso nel Giardino dell’Eden. Proprio per questo, “il nostro Signore fu sepolto nella tomba di uno straniero”, come afferma Agostino in un sermone (ccxlviii), “poiché morì per la salvezza degli altri; e una tomba è l’abitazione della morte”. Inoltre, si può stimare l’estensione della povertà che Egli sopportò per noi: poiché, essendo privo di dimora in vita, dopo la morte fu sepolto nella tomba di un altro e, essendo nudo, fu vestito da Giuseppe. Ma Cristo è sepolto in una “nuova” tomba, come osserva Gerolamo riguardo a Matteo 27:60: “affinché, dopo la risurrezione, non si potesse sostenere che qualcun altro fosse risorto, mentre i corpi degli altri rimanevano lì”. La “nuova tomba” può anche simboleggiare il grembo vergine di Maria. Inoltre, si può comprendere che tutti noi veniamo rinnovati attraverso la sepoltura di Cristo: la morte e la corruzione vengono infatti distrutte. Cristo fu sepolto in un monumento “scavato nella roccia”, come afferma Gerolamo riguardo a Matteo 27:64: “affinché, se fosse stato costruito con molte pietre, si potesse dire che fosse stato rubato scavando via le fondamenta della tomba”. Pertanto, la “grande pietra” posta davanti alla tomba dimostra che “essa non poteva essere aperta se non con l’aiuto di molte persone”. Inoltre, se fosse stato sepolto nella terra, si sarebbe potuto dire: “Hanno scavato la terra e L’hanno rubato”, come osserva Agostino (*Cf. Catena Aurea*). Ilario (Commento su Matteo, cap. xxxiii) fornisce un’interpretazione mistica, affermando che “secondo l’insegnamento degli apostoli, Cristo viene portato nel cuore di pietra dei gentili; poiché esso è stato scavato attraverso il processo dell’insegnamento, non levigato e ancora nuovo, inaccessibile e aperto soltanto al timore di Dio. E poiché nulla altro, se non Lui, deve entrare nei nostri cuori, una grande pietra viene rotolata davanti alla porta”. Inoltre, come afferma Origene (Trattato xxxv su Matteo): “Non è stato scritto per caso: ‘Giuseppe avvolse il corpo di Cristo in un lenzuolo pulito e lo pose in una nuova tomba’”; e “‘rotolò una grande pietra’, perché tutto ciò che circonda il corpo di Gesù è pulito, nuovo ed estremamente prezioso”.
 
-<span class="atom-split" data-atom="344" data-title="Whether Christ's body was reduced to dust in the tomb?" data-chapter="Whether Christ's body was reduced to dust in the tomb?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="344" data-title="Whether Christ's body was reduced to dust in the tomb?" data-chapter="Whether Christ's body was reduced to dust in the tomb?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's body was reduced to dust in the tomb. For just as man
 dies in punishment of his first parent's sin, so also does he return to dust, since it was said to the
@@ -23704,7 +23712,7 @@ Risposta all’Obiezione 2: Il corpo di Cristo era soggetto alla corruzione in b
 
 Risposta all’Obiezione 3: Cristo risorse dalla tomba per mezzo del Potere Divino, un potere che non è limitato da alcun confine. Pertanto, la Sua risurrezione costituisce una prova sufficiente del fatto che gli uomini possano essere risuscitati per mezzo del Potere Divino, non solo dalle loro tombe, ma anche da qualsiasi condizione di morte o di decadimento.
 
-<span class="atom-split" data-atom="345" data-title="Whether Christ was in the tomb only one day and two nights?" data-chapter="Whether Christ was in the tomb only one day and two nights?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="345" data-title="Whether Christ was in the tomb only one day and two nights?" data-chapter="Whether Christ was in the tomb only one day and two nights?" data-kind="atom" data-srclang="en" data-tags="assi/time_and_death,concepts/time,concepts/death,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that Christ was not in the tomb during only one day and two nights;
 because He said (Mat. 12:40): "As Jonas was in the whale's belly three days and three nights: so
@@ -23757,7 +23765,7 @@ expression "early" can be taken as partly night and partly day, from its fitting
 Reply to Objection 3: The light prevailed so far in Christ's death (which is denoted by the one
 day) that it dispelled the darkness of the two nights, that is, of our twofold death, as stated above.
 
-<span class="atom-split" data-atom="346" data-title="OF CHRIST'S DESCENT INTO HELL (EIGHT ARTICLES)" data-chapter="OF CHRIST'S DESCENT INTO HELL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="346" data-title="OF CHRIST'S DESCENT INTO HELL (EIGHT ARTICLES)" data-chapter="OF CHRIST'S DESCENT INTO HELL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/original_sin"></span>
 
 We have now to consider Christ's descent into hell; concerning which there are eight points of
 inquiry:
@@ -23782,7 +23790,7 @@ Dobbiamo ora considerare la discesa di Cristo all’inferno; a questo proposito 
 (7) Liberò anche i bambini morti a causa del [-peccato originale](/positions/original_sin)?  
 (8) Liberò gli uomini dal Purgatorio?
 
-<span class="atom-split" data-atom="347" data-title="Whether it was fitting for Christ to descend into hell?" data-chapter="Whether it was fitting for Christ to descend into hell?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="347" data-title="Whether it was fitting for Christ to descend into hell?" data-chapter="Whether it was fitting for Christ to descend into hell?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not fitting for Christ to descend into hell, because
 [Augustine](/figures/augustine) says (Ep. ad Evod. cliv.): "Nor could I find anywhere in the Scriptures hell mentioned
@@ -23855,7 +23863,7 @@ Risposta all’Obiezione 2: La Passione di Cristo fu una sorta di causa universa
 
 Risposta all’Obiezione 3: L’anima di Cristo discese all’inferno non con lo stesso tipo di movimento che muove i corpi, ma con quello stesso tipo di movimento che muove gli angeli, come è stato detto nel FP, Q[53], A[1].
 
-<span class="atom-split" data-atom="348" data-title="Whether Christ went down into the hell of the lost?" data-chapter="Whether Christ went down into the hell of the lost?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="348" data-title="Whether Christ went down into the hell of the lost?" data-chapter="Whether Christ went down into the hell of the lost?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ went down into the hell of the lost, because it is said
 by the mouth of Divine Wisdom (Ecclus. 24:45): "I will penetrate to all the lower parts of the earth."
@@ -23978,7 +23986,7 @@ Risposta all’Obiezione 4: L’espressione “grembo di Abramo” può essere i
 
 Risposta all’Obiezione 5: Come afferma Gregorio (Moralia, xiii): “Anche le regioni più elevate dell’inferno vengono definite l’inferno più profondo. Poiché, se rispetto all’altezza del cielo quest’aria oscura è considerata infernale, allora, rispetto all’altezza di quell’aria stessa, la terra che si trova al di sotto può essere considerata infernale e profonda. E ancora, in confronto all’altezza della stessa terra, quelle parti dell’inferno che sono più elevate delle altre dimore infernali possono essere definite in questo modo come l’inferno più profondo.”
 
-<span class="atom-split" data-atom="349" data-title="Whether the whole Christ was in hell?" data-chapter="Whether the whole Christ was in hell?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="349" data-title="Whether the whole Christ was in hell?" data-chapter="Whether the whole Christ was in hell?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the whole Christ was not in hell. For Christ's body is one of
 His parts. But His body was not in hell. Therefore, the whole Christ was not in hell.
@@ -24023,7 +24031,7 @@ it is outside that place. But this is not the case with God. Hence Augustine say
 at one time whole in one place, at another time whole in another: but as being whole always and
 everywhere."
 
-<span class="atom-split" data-atom="350" data-title="Whether Christ made any stay in hell?" data-chapter="Whether Christ made any stay in hell?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="350" data-title="Whether Christ made any stay in hell?" data-chapter="Whether Christ made any stay in hell?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not make any stay in hell. For Christ went down
 into hell to deliver men from thence. But He accomplished this deliverance at once by His descent,
@@ -24085,7 +24093,7 @@ Risposta all’Obiezione 2: Con l’espressione “barriere dell’inferno” si
 
 Risposta all’Obiezione 3: L’espressione del nostro Signore non deve essere intesa nel senso di un paradiso terreno e corporeo, ma di uno spirituale, in cui si trovano tutti coloro che godono della gloria divina. Pertanto, il ladro discese effettivamente all’inferno insieme a Cristo, poiché gli fu detto: “In questo giorno sarai con Me nel paradiso”; tuttavia, in termini di ricompensa, egli si trovava nel paradiso, poiché godette della divinità di Cristo, proprio come gli altri santi.
 
-<span class="atom-split" data-atom="351" data-title="Whether Christ descending into hell delivered the holy Fathers from thence?" data-chapter="Whether Christ descending into hell delivered the holy Fathers from thence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="351" data-title="Whether Christ descending into hell delivered the holy Fathers from thence?" data-chapter="Whether Christ descending into hell delivered the holy Fathers from thence?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ descending into hell did not deliver the holy Fathers
 from thence. For [Augustine](/figures/augustine) (Epist. ad Evod. clxiv) says: "I have not yet discovered what Christ
@@ -24169,7 +24177,7 @@ Risposta all’Obiezione 2: I Santi Padri, mentre erano ancora in vita, furono l
 
 Risposta all’Obiezione 3: Quando Cristo morì, la Sua anima discese all’inferno e donò i frutti della Sua Passione ai santi che vi erano imprigionati; tuttavia, finché Cristo rimase nell’inferno, anche quei santi non ne uscirono, poiché la Sua presenza faceva parte della pienezza della loro gloria.
 
-<span class="atom-split" data-atom="352" data-title="Whether Christ delivered any of the lost from hell?" data-chapter="Whether Christ delivered any of the lost from hell?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="352" data-title="Whether Christ delivered any of the lost from hell?" data-chapter="Whether Christ delivered any of the lost from hell?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did deliver some of the lost from hell, because it is
 written (Is. 24:22): "And they shall be gathered together as in the gathering of one bundle into the
@@ -24237,7 +24245,7 @@ Risposta all’Obiezione 2: Quando il commento afferma “dove nessuna misericor
 
 Risposta all’Obiezione 3: Non fu certo a causa di una qualche mancanza di potere da parte di Cristo che alcuni non furono liberati da ogni stato d’inferno, così come non lo furono da ogni stato presente tra gli uomini in questo mondo; bensì ciò fu dovuto alle condizioni assolutamente diverse di ciascun di questi stati. Infatti, finché gli uomini vivono in questa vita terrena, è ancora possibile che si convertano alla fede e alla carità; poiché in questa vita non sono ancora definitivamente confermati né nel bene né nel male, a differenza di ciò che accade dopo la morte.
 
-<span class="atom-split" data-atom="353" data-title="Whether the children who died in original sin were delivered by Christ?" data-chapter="Whether the children who died in original sin were delivered by Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="353" data-title="Whether the children who died in original sin were delivered by Christ?" data-chapter="Whether the children who died in original sin were delivered by Christ?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/original_sin,positions/free_will,concepts/sacrament,concepts/grace"></span>
 
 Objection 1: It would seem that the children who died in [original sin](/positions/original_sin) were delivered from hell
 by Christ's descending thither. For, like the holy Fathers, the children were kept in hell simply
@@ -24306,7 +24314,7 @@ Risposta all’Obiezione 2: Quando l’Apostolo afferma che la grazia di Dio “
 
 Risposta all’Obiezione 3: Il battesimo viene conferito agli uomini in questa vita, durante la quale lo stato umano può essere modificato dal peccato alla grazia; ma la discesa di Cristo all’inferno fu un atto concesso alle anime dopo questa vita, quando queste non sono più in grado di subire tale cambiamento. Pertanto, è attraverso il battesimo che i bambini vengono liberati dal peccato originale e dall’inferno, e non grazie alla discesa di Cristo all’inferno.
 
-<span class="atom-split" data-atom="354" data-title="Whether Christ by His descent into hell delivered souls from purgatory?" data-chapter="Whether Christ by His descent into hell delivered souls from purgatory?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="354" data-title="Whether Christ by His descent into hell delivered souls from purgatory?" data-chapter="Whether Christ by His descent into hell delivered souls from purgatory?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ by His descent into hell delivered souls from
 Purgatory---for [Augustine](/figures/augustine) says (Ep. ad Evod. clxiv): "Because evident testimonies speak of hell
@@ -24382,7 +24390,7 @@ Risposta all’Obiezione 2: Il potere di Cristo agisce nei sacramenti attraverso
 
 Risposta all’Obiezione 3: Quei difetti da cui Cristo ha completamente liberato gli uomini in questo mondo erano puramente personali e riguardavano l’individuo; mentre l’esclusione dalla gloria di Dio rappresentava un difetto generale, comune a tutta la [natura umana](/axes/human_nature). Pertanto, non esisteva nulla che impedisse a coloro che erano trattenuti nel Purgatorio di essere liberati da Cristo dalla privazione della gloria, ma non dal debito di punizione presente nel Purgatorio, che riguarda difetti personali. Proprio come, d’altra parte, i santi Padri precedenti la venuta di Cristo furono liberati dai loro difetti personali, ma non da quel difetto comune, come già detto sopra (A[7], ad 1; Q[49], A[5], ad 1).
 
-<span class="atom-split" data-atom="355" data-title="OF CHRIST'S RESURRECTION (FOUR ARTICLES)" data-chapter="OF CHRIST'S RESURRECTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="355" data-title="OF CHRIST'S RESURRECTION (FOUR ARTICLES)" data-chapter="OF CHRIST'S RESURRECTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/god,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider those things that concern Christ's Exaltation; and we shall deal with
 (1) His Resurrection; (2) His Ascension; (3) His sitting at the right hand of God the Father; (4) His
@@ -24398,7 +24406,7 @@ causality. Concerning the first there are four points of inquiry:
 
 Ora dobbiamo considerare quelle cose che riguardano l’Esaltazione di Cristo; affronteremo: (1) la Sua Risurrezione; (2) la Sua Ascesa al Cielo; (3) il Suo sedere alla destra di Dio Padre; (4) il Suo potere giudiziario. All’interno della prima categoria esistono quattro aspetti da analizzare: (1) la Risurrezione di Cristo in sé; (2) la natura della Persona che risorge; (3) le manifestazioni della Risurrezione; (4) le cause che l’hanno determinata. Per quanto riguarda il primo punto, vi sono quattro questioni fondamentali da esaminare: (1) la necessità della Sua Risurrezione; (2) il momento in cui essa avvenne; (3) l’ordine con cui si svolsero gli eventi legati alla Risurrezione; (4) la causa che la provocò.
 
-<span class="atom-split" data-atom="356" data-title="Whether it was necessary for Christ to rise again?" data-chapter="Whether it was necessary for Christ to rise again?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="356" data-title="Whether it was necessary for Christ to rise again?" data-chapter="Whether it was necessary for Christ to rise again?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not necessary for Christ to rise again. For Damascene
 says (De Fide Orth. iv): "Resurrection is the rising again of an animate being, which was disintegrated
@@ -24484,7 +24492,7 @@ Risposta all’Obiezione 2: La Divinità si unì alla carne di Cristo dopo la mo
 
 Risposta all’Obiezione 3: La Passione di Cristo ha operato la nostra salvezza, per così dire, eliminando i mali; ma la Risurrezione lo ha fatto come inizio e esempio di tutte le cose buone.
 
-<span class="atom-split" data-atom="357" data-title="Whether it was fitting for Christ to rise again on the third day?" data-chapter="Whether it was fitting for Christ to rise again on the third day?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="357" data-title="Whether it was fitting for Christ to rise again on the third day?" data-chapter="Whether it was fitting for Christ to rise again on the third day?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unfitting that Christ should have risen again on the third day. For
 the members ought to be in conformity with their head. But we who are His members do not rise
@@ -24579,7 +24587,7 @@ Risposta all’Obiezione 2: La detenzione implica una certa costrizione. Ma Cris
 
 Risposta all’Obiezione 3: Come già detto sopra (Q[51], A[4], ad 1,2), Cristo risorse all’alba, per indicare che con la Sua Resurrezione ci ha portati alla luce della gloria; allo stesso modo morì al tramonto, quando il giorno stava per finire e si avvicinava l’oscurità, per significare che con la Sua morte avrebbe distrutto l’oscurità del peccato e le sue punizioni. Tuttavia si dice che sia risorto nel terzo giorno, inteso come un giorno naturale composto da ventiquattro ore. Come afferma Agostino (De Trin. iv): “La notte fino all’alba, quando fu proclamata la Resurrezione del Signore, appartiene al terzo giorno. Poiché Dio, che fece sì che la luce emergesse dall’oscurità, per mezzo della grazia del Nuovo Testamento e partecipando alla risurrezione di Cristo possiamo ascoltare queste parole: ‘Un tempo eravate oscurità, ma ora siete luce nel Signore’ – ci fa intendere in qualche modo che quel giorno ha origine dalla notte; infatti, così come i primi giorni vengono calcolati dalla luce all’oscurità a causa della caduta dell’uomo, anche questi giorni vengono contati dall’oscurità alla luce grazie alla restaurazione dell’uomo.” È quindi evidente che anche se Cristo fosse risorto a mezzanotte, si potrebbe comunque dire che sia risorto nel terzo giorno, inteso come un giorno naturale. Ma poiché risorse all’alba, si può affermare con certezza che sia risorto nel terzo giorno, anche considerando il giorno artificiale determinato dalla presenza del sole, poiché il sole aveva già iniziato ad illuminare il cielo. Per questo motivo è scritto (Mc 16:2) che “le donne arrivarono al sepolcro quando il sole era già sorto”; ciò non contraddice quanto affermato da Giovanni (“quando ancora era buio”), come spiega Agostino (De Cons. Evang. iii): “Poiché, man mano che il giorno avanza, la luce aumenta e le ombre rimanenti si dissipano sempre di più.” Ma quando Marco dice “quando il sole era già sorto”, non si intende che il sole fosse già visibile all’orizzonte, ma che stesse appena iniziando a illuminare il cielo.
 
-<span class="atom-split" data-atom="358" data-title="Whether Christ was the first to rise from the dead?" data-chapter="Whether Christ was the first to rise from the dead?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="358" data-title="Whether Christ was the first to rise from the dead?" data-chapter="Whether Christ was the first to rise from the dead?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ was not the first to rise from the dead, because we read
 in the Old Testament of some persons raised to life by Elias and Eliseus, according to Heb. 11:35:
@@ -24661,7 +24669,7 @@ Risposta all’Obiezione 2: Esistono due opinioni riguardo a coloro che risorser
 
 Risposta all’Obiezione 3: Così come tutto ciò che precedette la venuta di Cristo era preparatorio a Lui, allo stesso modo la grazia rappresenta una disposizione verso la gloria. Pertanto, tutte le cose relative alla gloria – sia quelle che riguardano l’anima, intesa come la piena realizzazione di Dio, sia quelle che riguardano il corpo, considerato la risurrezione gloriosa – dovevano necessariamente avere origine in Cristo, che è l’autore della gloria; ma la grazia doveva essere particolarmente presente in coloro che erano destinati a Cristo.
 
-<span class="atom-split" data-atom="359" data-title="Whether Christ was the cause of His own Resurrection?" data-chapter="Whether Christ was the cause of His own Resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="359" data-title="Whether Christ was the cause of His own Resurrection?" data-chapter="Whether Christ was the cause of His own Resurrection?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It seems that Christ was not the cause of His own Resurrection. For whoever is
 raised up by another is not the cause of his own rising. But Christ was raised up by another, according
@@ -24725,7 +24733,7 @@ Risposta all’Obiezione 2: Cristo, pregando, chiese e meritò la Sua Risurrezio
 
 Risposta all’Obiezione 3: Secondo la sua natura creata, il corpo di Cristo non è più potente della Sua anima; tuttavia, in base al Suo potere divino, lo è. D’altra parte, l’anima, in quanto unita alla Divinità, è più potente del corpo rispetto alla sua natura creata. Pertanto, è stato attraverso il potere divino che corpo e anima si sono ricongiunti, e non attraverso il potere della loro natura creata.
 
-<span class="atom-split" data-atom="360" data-title="OF THE QUALITY OF CHRIST RISING AGAIN (FOUR ARTICLES)" data-chapter="OF THE QUALITY OF CHRIST RISING AGAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="360" data-title="OF THE QUALITY OF CHRIST RISING AGAIN (FOUR ARTICLES)" data-chapter="OF THE QUALITY OF CHRIST RISING AGAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider the quality of the rising Christ, which presents four points of inquiry:
 (1) Whether Christ had a true body after His Resurrection?
@@ -24741,7 +24749,7 @@ Dobbiamo ora considerare la natura del Cristo risorto, il che comporta quattro a
 (3) Se il suo corpo fosse stato un corpo glorificato;
 (4) E, infine, le cicatrici presenti sul suo corpo.
 
-<span class="atom-split" data-atom="361" data-title="Whether Christ had a true body after His Resurrection? (parte 1)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="361" data-title="Whether Christ had a true body after His Resurrection? (parte 1)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not have a true body after His Resurrection. For a
 true body cannot be in the same place at the same time with another body. But after the Resurrection
@@ -24865,7 +24873,7 @@ Obiezione 3: Inoltre, un corpo glorificato non è di natura animale, ma spiritua
 
 Al contrario, l’Apostolo afferma (Filippesi 3:21): “Riformerà il corpo della nostra debolezza, rendendolo simile al corpo della Sua gloria”.
 
-<span class="atom-split" data-atom="362" data-title="Whether Christ had a true body after His Resurrection? (parte 2)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="362" data-title="Whether Christ had a true body after His Resurrection? (parte 2)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 I answer that, Christ's was a glorified body in His Resurrection, and this is evident from three
 reasons. First of all, because His Resurrection was the exemplar and the cause of ours, as is stated
@@ -24924,7 +24932,7 @@ Risposta all’Obiezione 2: Affermiamo che un corpo possa essere manipolato non 
 
 Risposta all’Obiezione 3: Come afferma Agostino nel “De Civitate Dei” XIII: “Dopo la Resurrezione, il nostro Salvatore, nella carne spirituale ma vera, mangiò con i discepoli; non per necessità di cibo, ma perché ciò era in suo potere”. Come dice infatti Beda riguardo a Luca 24:41: “La terra assetata assorbe l’acqua, e il raggio ardente del sole la assorbe anch’esso; la prima per necessità, il secondo per il proprio potere”. Pertanto, dopo la Resurrezione Egli mangiò “non perché avesse bisogno di cibo, ma per dimostrare la natura del suo corpo risorto”. E ciò non implica affatto che il Suo corpo fosse un corpo animale che ha bisogno di cibo.
 
-<span class="atom-split" data-atom="363" data-title="Whether Christ's body rose again entire?" data-chapter="Whether Christ's body rose again entire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="363" data-title="Whether Christ's body rose again entire?" data-chapter="Whether Christ's body rose again entire?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's body did not rise entire. For flesh and blood belong
 to the integrity of the body: whereas Christ seems not to have had both, for it is written (1 Cor.
@@ -25008,7 +25016,7 @@ Risposta all’Obiezione 2: Come afferma Agostino nello stesso libro: “Forse, 
 
 Risposta all’Obiezione 3: Tutta la sangue che fuoriuscì dal corpo di Cristo, essendo parte integrante dell’integrità della [natura umana](/axes/human_nature), tornò nuovamente nel Suo corpo dopo la sua risurrezione; lo stesso ragionamento vale per tutte le altre parti del corpo umano che rappresentano la verità e l’integrità di questa natura. Tuttavia, il sangue conservato come reliquia in alcune chiese non fuoriuscì dal corpo di Cristo, ma si dice sia proveniente da un’immagine di Cristo maltrattata.
 
-<span class="atom-split" data-atom="364" data-title="Whether Christ's body ought to have risen with its scars?" data-chapter="Whether Christ's body ought to have risen with its scars?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="364" data-title="Whether Christ's body ought to have risen with its scars?" data-chapter="Whether Christ's body ought to have risen with its scars?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's body ought not to have risen with its scars. For it is
 written (1 Cor. 15:52): "The dead shall rise incorrupt." But scars and wounds imply corruption and
@@ -25087,7 +25095,7 @@ Risposta all’Obiezione 2: Sebbene tali aperture delle ferite interrompano la c
 
 Risposta all’Obiezione 3: Cristo volle che le cicatrici delle Sue ferite rimanessero sul Suo corpo, non solo per confermare la fede dei Suoi discepoli, ma anche per altri motivi. Da ciò si deduce che quelle cicatrici rimarranno sempre sul Suo corpo; infatti, come afferma Agostino (Ad Consent., De Resurr. Carn.): “Credo che il corpo del nostro Signore sia in cielo, esattamente com’era quando ascendette al cielo”. E Gregorio (Moralia, xiv) dice: “Se qualcosa potesse cambiare nel corpo di Cristo dopo la Sua Risurrezione, contrariamente all’insegnamento veritiero di Paolo, allora il Signore, dopo la Sua Risurrezione, sarebbe tornato alla morte; e quale sciocco oserebbe dire una cosa del genere, se non colui che nega la vera risurrezione della carne?”. Pertanto, è evidente che le cicatrici che Cristo mostrò sul Suo corpo dopo la Sua Risurrezione non sono mai state rimosse da Lui.
 
-<span class="atom-split" data-atom="365" data-title="OF THE MANIFESTATION OF THE RESURRECTION (SIX ARTICLES)" data-chapter="OF THE MANIFESTATION OF THE RESURRECTION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="365" data-title="OF THE MANIFESTATION OF THE RESURRECTION (SIX ARTICLES)" data-chapter="OF THE MANIFESTATION OF THE RESURRECTION (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider the manifestation of the Resurrection: concerning which there are six
 points of inquiry:
@@ -25109,7 +25117,7 @@ Dobbiamo ora considerare la manifestazione della Risurrezione: su questo argomen
 (5) Se Dovesse aver dimostrato la propria Risurrezione attraverso prove concrete?  
 (6) Quanto siano convincenti tali prove.
 
-<span class="atom-split" data-atom="366" data-title="Whether Christ's Resurrection ought to have been manifested to all?" data-chapter="Whether Christ's Resurrection ought to have been manifested to all?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="366" data-title="Whether Christ's Resurrection ought to have been manifested to all?" data-chapter="Whether Christ's Resurrection ought to have been manifested to all?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's Resurrection ought to have been manifested to all.
 For just as a public penalty is due for public sin, according to 1 Tim. 5:20: "Them that sin reprove
@@ -25171,7 +25179,7 @@ the women whose love for our Lord was more persistent---so much so that "when ev
 withdrew" from the sepulchre "they did not depart" [*Gregory, Hom. xxv in Evang.]---were the
 first to see Him rising in glory.
 
-<span class="atom-split" data-atom="367" data-title="Whether it was fitting that the disciples should see Him rise again?" data-chapter="Whether it was fitting that the disciples should see Him rise again?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="367" data-title="Whether it was fitting that the disciples should see Him rise again?" data-chapter="Whether it was fitting that the disciples should see Him rise again?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem fitting that the disciples should have seen Him rise again, because
 it was their office to bear witness to the Resurrection, according to Acts 4:33: "With great power
@@ -25237,7 +25245,7 @@ Risposta all’Obiezione 2: L’Ascensione di Cristo, per quanto riguarda il mom
 
 Risposta all’Obiezione 3: Lazzaro fu risuscitato affinché tornasse alla stessa vita di prima, una vita che non è al di là della comprensione comune dell’uomo. Pertanto, non esiste alcuna equivalenza tra i due casi.
 
-<span class="atom-split" data-atom="368" data-title="Whether Christ ought to have lived constantly with His disciples after the Resurrection?" data-chapter="Whether Christ ought to have lived constantly with His disciples after the Resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="368" data-title="Whether Christ ought to have lived constantly with His disciples after the Resurrection?" data-chapter="Whether Christ ought to have lived constantly with His disciples after the Resurrection?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ ought to have lived constantly with His Disciples,
 because He appeared to them after His Resurrection in order to confirm their faith in the Resurrection,
@@ -25357,7 +25365,7 @@ Risposta all’Obiezione 4: Crisostomo, spiegando Matteo 26:32, afferma: “Dopo
 Come afferma Ambrogio nell’Esposizione di Luca: “Il Signore aveva detto ai discepoli che lo avrebbero visto in Galilea; tuttavia si manifestò loro per la prima volta quando erano riuniti, spinti dal timore. Non si tratta affatto di una mancata promessa, ma piuttosto di un’accelerazione nel suo adempimento, dovuta alla sua bontà” (*Cfr. Catena Aurea in Luca xxiv, 36*): “In seguito, quando il loro spirito fu rincuorato, andarono effettivamente in Galilea”. Non c’è motivo di dubitare che nella stanza ci fossero poche persone, mentre molte altre si trovavano sulla montagna. Come afferma Eusebio (*De Caesarea*, Cfr. Migne, P.G., xxii, 1003): “Due evangelisti, Luca e Giovanni, scrivono che Egli si manifestò solo agli undici discepoli a Gerusalemme; gli altri due invece dicono che un angelo e il nostro Salvatore ordinarono non solo agli undici, ma a tutti i discepoli di andare in Galilea. Paolo menziona questo fatto nel 1 Corinzi 15:6: ‘In seguito si manifestò contemporaneamente a più di cinquecento fratelli’”.  
 La spiegazione più corretta è che, mentre si nascondevano a Gerusalemme, Egli si manifestò loro per primo al fine di confortarli; in Galilea, invece, non si fece conoscere segretamente, né una sola volta, ma più volte con grande potenza, “mostrandosi vivo dopo la sua Passione, attraverso molte prove”, come dice Luca negli Atti degli Apostoli 1:3. O come scrive Agostino nel *De Consensu Evangeliorum* iii: “Quello che l’angelo e il Signore dissero – che Egli ‘andrebbe davanti a loro in Galilea’ – deve essere inteso in senso profetico. Se interpretiamo Galilea come un ‘passaggio’, dobbiamo intendere che i discepoli stavano per passare dal popolo di Israele ai Gentili, i quali non avrebbero creduto alle prediche degli apostoli se Egli non avesse preparato il loro cuore ad accoglierle; e questo è ciò che significano le parole ‘andrà davanti a voi in Galilea’. Ma se interpretiamo Galilea come una ‘rivelazione’, dobbiamo intendere che si riferisce al modo in cui Egli si manifestò non come servo, ma nella forma in cui è uguale al Padre, e che ha promesso loro attraverso l’amore. Anche se Egli ci ha preceduti in questo senso, non ci ha mai abbandonati”.
 
-<span class="atom-split" data-atom="369" data-title="Whether Christ should have appeared to the disciples \&quot;in another shape\&quot;?" data-chapter="Whether Christ should have appeared to the disciples \&quot;in another shape\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="369" data-title="Whether Christ should have appeared to the disciples \&quot;in another shape\&quot;?" data-chapter="Whether Christ should have appeared to the disciples \&quot;in another shape\&quot;?" data-kind="atom" data-srclang="en" data-tags="concepts/revelation,concepts/sacrament,concepts/faith,figures/augustine"></span>
 
 # Whether Christ should have appeared to the disciples "in another shape"?
 
@@ -25441,7 +25449,7 @@ Risposta all’Obiezione 2: Come afferma Agostino nel “De Consensu Evangelioru
 
 Risposta all’Obiezione 3: Un simile argomento dimostrerebbe, se non fossero stati riportati dal vedere una forma strana a quella del vero volto di Cristo, che tale visione era effettivamente possibile. Infatti, come afferma Agostino nel “De Consensu Evangeliorum” III: “Il permesso fu concesso da Cristo stesso”, cioè che i loro occhi fossero tenuti fissi in quel modo fino al momento del [Sacramento dell’Eucaristia]; affinché, una volta partecipati all’unione del Suo corpo, l’ostacolo posto dal nemico venisse rimosso e Cristo potesse essere riconosciuto. Agostino prosegue quindi dicendo: “‘I loro occhi furono aperti e Lo riconobbero’; non perché prima camminassero con gli occhi chiusi, ma perché in loro esisteva qualcosa che impediva loro di riconoscere ciò che vedevano. Ciò poteva essere causato dall’oscurità o da qualche particolare condizione fisica.”
 
-<span class="atom-split" data-atom="370" data-title="Whether Christ should have demonstrated the truth of His Resurrection by proofs?" data-chapter="Whether Christ should have demonstrated the truth of His Resurrection by proofs?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="370" data-title="Whether Christ should have demonstrated the truth of His Resurrection by proofs?" data-chapter="Whether Christ should have demonstrated the truth of His Resurrection by proofs?" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/beatitude,concepts/faith,positions/beatitude"></span>
 
 Objection 1: It would seem that Christ should not have demonstrated the truth of His
 Resurrection by proofs. For Ambrose says (De Fide, ad Gratian. i): "Let there be no proofs where
@@ -25524,7 +25532,7 @@ Risposta all’Obiezione 2: Il merito della fede deriva dal fatto che, per volon
 
 Risposta all’Obiezione 3: Come già detto (ad 2), il merito della beatitudine, che deriva dalla fede, non viene del tutto escluso, a meno che una persona si rifiuti di credere soltanto in ciò che può vedere. Tuttavia, il fatto che una persona creda, sulla base di segni visibili, in cose che non vede, non la priva completamente né della fede né del merito derivante da essa: proprio come Tommaso, a cui fu detto (Giovanni 20:29): “‘Poiché mi hai visto, Tommaso, hai creduto’”; egli vide qualcosa e credeva in qualcos’altro. Le ferite erano ciò che vedeva, ma Dio era l’oggetto della sua fede. Tuttavia, la fede più perfetta è quella che non ha bisogno di tali aiuti per credere. Pertanto, per umiliare la fede di alcuni uomini, il nostro Signore disse (Giovanni 4:48): “Se non vedete segni e miracoli, non crederete”. Da ciò si può comprendere quanto siano beati coloro che sono così disposti a credere in Dio, anche senza vedere alcun segno, rispetto a coloro che non credono se non vedono cose simili.
 
-<span class="atom-split" data-atom="371" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (parte 1)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="371" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (parte 1)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the proofs which Christ made use of did not sufficiently
 manifest the truth of His Resurrection. For after the Resurrection Christ showed nothing to His
@@ -25621,7 +25629,7 @@ in Evang.): "The Lord manifested two wonders, which are mutually contrary accord
 reason, when after the Resurrection He showed His body as incorruptible and at the same time
 palpable."
 
-<span class="atom-split" data-atom="372" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (parte 2)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="372" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (parte 2)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Reply to Objection 3: As [Augustine](/figures/augustine) says (Tract. cxxi super Joan.), "these words of our Lord,
 'Do not touch Me, for I am not yet ascended to My Father,'" show "that in that woman there is a
@@ -25670,7 +25678,7 @@ Risposta all’Obiezione 4: Come afferma Agostino in dialogo con Orosio (Dial. l
 
 Risposta all’Obiezione 5: Come afferma Agostino nel “De Consensu Evangeliorum” III, “Possiamo comprendere che un angelo sia stato visto dalle donne, secondo sia Matteo che Marco, se consideriamo che essi siano entrati nella tomba, cioè in una sorta di recinto murato, e che lì abbiano visto un angelo seduto sulla pietra che era stata spostata dal sepolcro, come dice Matteo; questa descrizione corrisponde anche all’espressione di Marco: ‘seduto sul lato destro’; in seguito, quando esaminarono il luogo dove giaceva il corpo del Signore, videro due angeli che, secondo Giovanni, erano inizialmente seduti e che poi si alzarono, rendendosi visibili in piedi, come racconta Luca”.
 
-<span class="atom-split" data-atom="373" data-title="OF THE CAUSALITY OF CHRIST'S RESURRECTION (TWO ARTICLES)" data-chapter="OF THE CAUSALITY OF CHRIST'S RESURRECTION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="373" data-title="OF THE CAUSALITY OF CHRIST'S RESURRECTION (TWO ARTICLES)" data-chapter="OF THE CAUSALITY OF CHRIST'S RESURRECTION (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider the causality of Christ's Resurrection, concerning which there are
 two points of inquiry:
@@ -25683,7 +25691,7 @@ Dobbiamo ora esaminare la causalità della Risurrezione di Cristo, riguardo alla
 (1) Se la Risurrezione di Cristo sia la causa della nostra risurrezione;  
 (2) Se essa sia la causa della nostra giustificazione.
 
-<span class="atom-split" data-atom="374" data-title="Whether Christ's Resurrection is the cause of the resurrection of our bodies?" data-chapter="Whether Christ's Resurrection is the cause of the resurrection of our bodies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="374" data-title="Whether Christ's Resurrection is the cause of the resurrection of our bodies?" data-chapter="Whether Christ's Resurrection is the cause of the resurrection of our bodies?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's Resurrection is not the cause of the resurrection of
 our bodies, because, given a sufficient cause, the effect must follow of necessity. If, then, Christ's
@@ -25797,7 +25805,7 @@ Risposta all’Obiezione 3: In senso proprio, la Risurrezione di Cristo non è l
 
 Risposta all’Obiezione 4: Se considerate in termini di efficacia, che dipende dal Potere Divino, sia la morte che la risurrezione di Cristo sono la causa sia della distruzione della morte che del rinnovamento della vita; tuttavia, se viste come cause esemplari, la morte di Cristo – con cui egli si allontanò dalla vita mortale – è la causa della distruzione della nostra morte; mentre la sua risurrezione, con cui inaugurò la vita immortale, è la causa del ripristino della nostra vita. Inoltre, la Passione di Cristo rappresenta anche una causa meritoria, come già detto sopra (Q[48], A[1]).
 
-<span class="atom-split" data-atom="375" data-title="Whether Christ's Resurrection is the cause of the resurrection of souls?" data-chapter="Whether Christ's Resurrection is the cause of the resurrection of souls?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="375" data-title="Whether Christ's Resurrection is the cause of the resurrection of souls?" data-chapter="Whether Christ's Resurrection is the cause of the resurrection of souls?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's Resurrection is not the cause of the resurrection of
 souls, because [Augustine](/figures/augustine) says (Tract. xxiii super Joan.) that "bodies rise by His human dispensation,
@@ -25879,7 +25887,7 @@ Risposta all’Obiezione 3: La risurrezione delle anime riguarda il merito, che 
 
 Risposta all’Obiezione 4: Due elementi concorrono nella giustificazione delle anime, ovvero il perdono dei peccati e la novità di vita attraverso la grazia. Pertanto, in termini di efficacia – che deriva dal potere divino – sia la Passione che la Resurrezione di Cristo sono cause della giustificazione, per entrambi questi aspetti. Ma, in termini di esemplarità, propriamente detta, la Passione e la morte di Cristo sono la causa del perdono dei peccati, grazie al quale cessiamo di essere schiavi del peccato; mentre la Resurrezione di Cristo è la causa della novità di vita, che deriva dalla grazia o dalla giustizia. Per questo motivo l’Apostolo afferma (Romani 4:25) che “Lui fu dato in sacrificio per i nostri peccati” – cioè per eliminarli – “e risorse per la nostra giustificazione”. Inoltre, la Passione di Cristo rappresentò anche una causa meritoria, come già accennato sopra (A[1], ad 4; Q[48], A[1]).
 
-<span class="atom-split" data-atom="376" data-title="OF THE ASCENSION OF CHRIST (SIX ARTICLES)" data-chapter="OF THE ASCENSION OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="376" data-title="OF THE ASCENSION OF CHRIST (SIX ARTICLES)" data-chapter="OF THE ASCENSION OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider Christ's Ascension: concerning which there are six points of inquiry:
 (1) Whether it belonged for Christ to ascend into heaven?
@@ -25899,7 +25907,7 @@ Dobbiamo ora considerare l’Ascensione di Cristo: su di essa vi sono sei punti 
 (5) Ascendette al di sopra di tutte le creature spirituali?
 (6) Qual è l’effetto dell’Ascensione?
 
-<span class="atom-split" data-atom="377" data-title="Whether it was fitting for Christ to ascend into heaven?" data-chapter="Whether it was fitting for Christ to ascend into heaven?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="377" data-title="Whether it was fitting for Christ to ascend into heaven?" data-chapter="Whether it was fitting for Christ to ascend into heaven?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it was not fitting for Christ to ascend into heaven. For the
 Philosopher says (De Coelo ii) that "things which are in a state of perfection possess their good
@@ -25985,7 +25993,7 @@ during forty days He established the fact of His being alive again. Or the forty
 understood as a figure of this world, wherein Christ dwells in His Church: inasmuch as man is
 made out of the four elements, and is cautioned not to transgress the Decalogue."
 
-<span class="atom-split" data-atom="378" data-title="Whether Christ's Ascension into heaven belonged to Him according to His Divine Nature?" data-chapter="Whether Christ's Ascension into heaven belonged to Him according to His Divine Nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="378" data-title="Whether Christ's Ascension into heaven belonged to Him according to His Divine Nature?" data-chapter="Whether Christ's Ascension into heaven belonged to Him according to His Divine Nature?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's Ascension into heaven belonged to Him according to
 His Divine Nature. For, it is written (Ps. 46:6): "God is ascended with jubilee": and (Dt. 33:26):
@@ -26061,7 +26069,7 @@ Risposta all’Obiezione 2: Colui che è disceso è lo stesso Colui che è salit
 
 Risposta all’Obiezione 3: Si dice che Cristo ascendesse al Padre, nel senso che salì per sedersi alla destra del Padre; e ciò è degno di Cristo, sia in quanto riguarda la Sua Natura Divina, sia in quanto riguarda la Sua Natura Umana, come verrà detto in seguito (Q[58], A[3]).
 
-<span class="atom-split" data-atom="379" data-title="Whether Christ ascended by His own power?" data-chapter="Whether Christ ascended by His own power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="379" data-title="Whether Christ ascended by His own power?" data-chapter="Whether Christ ascended by His own power?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not ascend by His own power, because it is written
 (Mk. 16:19) that "the Lord Jesus, after He had spoken to them, was taken up to heaven"; and (Acts
@@ -26148,7 +26156,7 @@ Risposta all’Obiezione 2: Questo argomento dimostra che Cristo non ascendette 
 
 Risposta all’Obiezione 3: Anche se il potere divino è infinito e agisce in modo infinito, per quanto riguarda l’oggetto su cui esercita la sua azione, l’effetto di tale azione viene ricevuto dalle cose secondo le loro capacità e secondo come Dio lo dispone. Ora, un corpo non può essere mosso localmente in un istante, poiché deve essere in armonia con lo spazio, secondo la divisione dello spazio su cui si basa il calcolo del tempo, come dimostrato nella Fisica VI. Pertanto, non è necessario che un corpo mosso da Dio venga mosso in modo istantaneo, ma a una velocità determinata da Dio stesso.
 
-<span class="atom-split" data-atom="380" data-title="Whether Christ ascended above all the heavens?" data-chapter="Whether Christ ascended above all the heavens?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="380" data-title="Whether Christ ascended above all the heavens?" data-chapter="Whether Christ ascended above all the heavens?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not ascend above all the heavens, for it is written
 (Ps. 10:5): "The Lord is in His holy temple, the Lord's throne is in heaven." But what is in heaven
@@ -26245,7 +26253,7 @@ Risposta all’Obiezione 4: Quella nuvola non costituiva un mezzo attraverso cui
 
 Risposta all’Obiezione 5: Un corpo glorificato ha la capacità di trovarsi in cielo o al di sopra del cielo; questa capacità non deriva dai suoi principi naturali, ma dall’anima beata da cui trae la sua gloria. E proprio come il movimento verso l’alto di un corpo glorificato non è violento, allo stesso modo nemmeno il suo riposo lo è; pertanto, nulla impedisce che sia eterno.
 
-<span class="atom-split" data-atom="381" data-title="Whether Christ's body ascended above every spiritual creature?" data-chapter="Whether Christ's body ascended above every spiritual creature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="381" data-title="Whether Christ's body ascended above every spiritual creature?" data-chapter="Whether Christ's body ascended above every spiritual creature?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's body did not ascend above every spiritual creature.
 For no fitting comparison can be made between things which have no common ratio. But place is
@@ -26306,7 +26314,7 @@ Risposta all’Obiezione 2: Questo argomento è valido per il corpo di Cristo in
 
 Risposta all’Obiezione 3: Questo confronto può essere considerato sia dal punto di vista dei luoghi; in questo caso non esiste alcun luogo così elevato da poter superare la dignità di una sostanza spirituale: è su questo piano che si basa l’obiezione. Oppure può essere considerato dal punto di vista della dignità delle cose a cui viene attribuito un luogo; in questo caso, il corpo di Cristo merita di essere considerato superiore alle creature spirituali.
 
-<span class="atom-split" data-atom="382" data-title="Whether Christ's Ascension is the cause of our salvation?" data-chapter="Whether Christ's Ascension is the cause of our salvation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="382" data-title="Whether Christ's Ascension is the cause of our salvation?" data-chapter="Whether Christ's Ascension is the cause of our salvation?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's Ascension is not the cause of our salvation. For, Christ
 was the cause of our salvation in so far as He merited it. But He merited nothing for us by His
@@ -26395,7 +26403,7 @@ Risposta all’Obiezione 2: La Passione di Cristo è la causa del nostro ascende
 
 Risposta all’Obiezione 3: Cristo, ascendendo una volta al cielo, acquisì per Sé e per noi in modo perpetuo il diritto e la dignità di un luogo di dimora celeste; tale dignità non viene affatto meno se, per qualche disposizione speciale, Egli scende talvolta in carne e ossa sulla terra: sia per manifestarsi a tutto il mondo, come avverrà al Giudizio Universale, sia per manifestarsi in modo particolare a qualcuno, come nel caso di Paolo, come leggiamo negli Atti degli Apostoli 9. E affinché nessuno possa pensare che Cristo non fosse fisicamente presente in quei momenti, il contrario viene dimostrato da quanto dice l’Apostolo nella prima lettera ai Corinzi 14:8, per confermare la fede nella Resurrezione: “Infine, anch’io lo vidi, come colui che è nato nel tempo debito”: una visione del genere non potrebbe confermare la verità della Resurrezione se non avesse visto il corpo stesso di Cristo.
 
-<span class="atom-split" data-atom="383" data-title="OF CHRIST'S SITTING AT THE RIGHT HAND OF THE FATHER (FOUR ARTICLES)" data-chapter="OF CHRIST'S SITTING AT THE RIGHT HAND OF THE FATHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="383" data-title="OF CHRIST'S SITTING AT THE RIGHT HAND OF THE FATHER (FOUR ARTICLES)" data-chapter="OF CHRIST'S SITTING AT THE RIGHT HAND OF THE FATHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 WE have now to consider Christ's sitting at the right hand of the Father, concerning which there
 are four points of inquiry:
@@ -26412,7 +26420,7 @@ Dobbiamo ora considerare il fatto che Cristo sia seduto alla destra del Padre; s
 (3) Gli appartiene anche in base alla Sua [natura umana](/axes/human_nature)?  
 (4) È qualcosa che è specificamente proprio di Cristo?
 
-<span class="atom-split" data-atom="384" data-title="Whether it is fitting that Christ should sit at the right hand of God the Father?" data-chapter="Whether it is fitting that Christ should sit at the right hand of God the Father?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="384" data-title="Whether it is fitting that Christ should sit at the right hand of God the Father?" data-chapter="Whether it is fitting that Christ should sit at the right hand of God the Father?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem unfitting that Christ should sit at the right hand of God the Father.
 For right and left are differences of bodily position. But nothing corporeal can be applied to God,
@@ -26479,7 +26487,7 @@ Risposta all’Obiezione 2: L’argomento è valido se si intende che il fatto d
 
 Risposta all’Obiezione 3: Come afferma Gregorio in un Orazione sull’Ascensione (Hom. xxix in Evang.), “È compito del giudice sedere, mentre è compito di chi combatte o aiuta stare in piedi. Pertanto, Stefano, nel corso della sua lotta, Lo vide in piedi, poiché Egli era il suo aiutante; ma Marco Lo descrive come seduto dopo l’Ascensione, perché, dopo la gloria dell’Ascensione, Alla fine Egli sarà visto come giudice.”
 
-<span class="atom-split" data-atom="385" data-title="Whether it belongs to Christ as God to sit at the right hand of the Father?" data-chapter="Whether it belongs to Christ as God to sit at the right hand of the Father?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="385" data-title="Whether it belongs to Christ as God to sit at the right hand of the Father?" data-chapter="Whether it belongs to Christ as God to sit at the right hand of the Father?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it does not belong to Christ as God to sit at the right hand of
 the Father. For, as God, Christ is the Father's right hand. But it does not appear to be the same thing
@@ -26543,7 +26551,7 @@ Risposta all’Obiezione 2: Cristo, in quanto uomo, viene elevato all’onore di
 
 Risposta all’Obiezione 3: In nessun modo si può affermare che il Padre sia seduto alla destra del Figlio o dello Spirito Santo; poiché il Figlio e lo Spirito Santo derivano la loro origine dal Padre, e non viceversa. Tuttavia, lo Spirito Santo può essere propriamente detto “seduto” alla destra del Padre o del Figlio, nel senso sopra indicato; anche se, in un certo modo, questa attribuzione viene estesa al Figlio, a cui è riconosciuta l’uguaglianza con il Padre. Così afferma Agostino (De Doctrina Christi i): “Nel Padre c’è l’unità, nel Figlio l’uguaglianza, nello Spirito Santo la connessione tra unità ed uguaglianza”.
 
-<span class="atom-split" data-atom="386" data-title="Whether it belongs to Christ as man to sit at the right hand of the Father?" data-chapter="Whether it belongs to Christ as man to sit at the right hand of the Father?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="386" data-title="Whether it belongs to Christ as man to sit at the right hand of the Father?" data-chapter="Whether it belongs to Christ as man to sit at the right hand of the Father?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/beatitude,concepts/grace,figures/augustine"></span>
 
 Objection 1: It would seem that it does not belong to Christ as man to sit at the right hand of
 the Father, because, as Damascene says (De Fide Orth. iv): "What we call the Father's right hand
@@ -26605,7 +26613,7 @@ Reply to Objection 3: It does not belong to Christ's human nature to be in equal
 Father, but only to the Person who assumed it; but it does belong even to the assumed human nature
 to share in God's mightier gifts, in so far as it implies exaltation above other creatures.
 
-<span class="atom-split" data-atom="387" data-title="Whether it is proper to Christ to sit at the right hand of the Father?" data-chapter="Whether it is proper to Christ to sit at the right hand of the Father?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="387" data-title="Whether it is proper to Christ to sit at the right hand of the Father?" data-chapter="Whether it is proper to Christ to sit at the right hand of the Father?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not proper to Christ to sit at the right hand of the Father,
 because the Apostle says (Eph. 2:4,6): "God . . . hath raised us up together, and hath made us sit
@@ -26688,7 +26696,7 @@ Risposta all’Obiezione 3: Con il termine “trono” si intende il potere giud
 
 Risposta all’Obiezione 4: Come afferma Crisostomo nell’Homilia lxv su Matteo, “quel luogo”, cioè il posto alla destra di Cristo, “non è accessibile né agli uomini né agli angeli; infatti Paolo lo definisce una prerogativa esclusiva di Cristo, dicendo: ‘A quale degli angeli ha mai detto: Siedi alla mia destra?’” Pertanto, il nostro Signore non rispose come se qualcuno un giorno dovesse realmente sedervi, ma acconsentì per compiacere la richiesta dei suoi interlocutori; essi, più di tutti, desideravano soltanto stare vicino a Lui. Tuttavia si può anche affermare che i figli di Zebedeo cercassero una posizione di maggiore eccellenza, partecipando al potere giudiziario di Cristo; per questo non chiesero di sedersi alla destra o alla sinistra del Padre, ma proprio accanto a Cristo.
 
-<span class="atom-split" data-atom="388" data-title="OF CHRIST'S JUDICIARY POWER (SIX ARTICLES)" data-chapter="OF CHRIST'S JUDICIARY POWER (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="388" data-title="OF CHRIST'S JUDICIARY POWER (SIX ARTICLES)" data-chapter="OF CHRIST'S JUDICIARY POWER (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider Christ's judiciary power. Under this head there are six points of
 inquiry:
@@ -26714,7 +26722,7 @@ Dobbiamo ora esaminare il potere giudiziario di Cristo. In questo ambito vi sono
 (6) Il suo potere giudiziario si estende anche agli angeli?  
 Sarà più opportuno discutere dell’attuazione del Giudizio Finale quando tratteremo argomenti relativi alla fine del mondo [*Vedi XP, QQ[88], e seguenti*]. Per il momento sarà sufficiente affrontare quei punti che riguardano la dignità di Cristo.
 
-<span class="atom-split" data-atom="389" data-title="Whether judiciary power is to be specially attributed to Christ?" data-chapter="Whether judiciary power is to be specially attributed to Christ?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="389" data-title="Whether judiciary power is to be specially attributed to Christ?" data-chapter="Whether judiciary power is to be specially attributed to Christ?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that judiciary power is not to be specially attributed to Christ. For
 judgment of others seems to belong to their lord; hence it is written (Rom. 14:4): "Who art thou
@@ -26790,7 +26798,7 @@ Risposta all’Obiezione 2: Come afferma Agostino (De Trinitate VI), l’eternit
 
 Risposta all’Obiezione 3: Come afferma Agostino (Trattato xcv in Giovanni): “Cristo disse che lo Spirito Santo convincerà il mondo del peccato, come per dire ‘Verserà carità nei vostri cuori’. Poiché così, quando la paura sarà allontanata, avrete la libertà di convincere gli altri”. Pertanto, il giudizio viene attribuito allo Spirito Santo non in relazione alla capacità di emettere giudizi, ma in relazione al desiderio umano di giudicare correttamente gli altri.
 
-<span class="atom-split" data-atom="390" data-title="Whether judiciary power belongs to Christ as man?" data-chapter="Whether judiciary power belongs to Christ as man?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="390" data-title="Whether judiciary power belongs to Christ as man?" data-chapter="Whether judiciary power belongs to Christ as man?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that judiciary power does not belong to Christ as man. For [Augustine](/figures/augustine)
 says (De Vera Relig. xxxi) that judgment is attributed to the Son inasmuch as He is the law of the
@@ -26883,7 +26891,7 @@ Risposta all’Obiezione 2: Solo a Dio spetta conferire la beatitudine alle anim
 
 Risposta all’Obiezione 3: Conoscere e giudicare i segreti dei cuori appartiene esclusivamente a Dio; tuttavia, grazie all’estensione della divinità nella anima di Cristo, anche a Lui spetta conoscere e giudicare i segreti dei cuori, come abbiamo già affermato in precedenza (Q[10], A[2]) nel discutere della conoscenza di Cristo. Per questo si legge (Romani 2:16): “Nel giorno in cui Dio giudicherà i segreti degli uomini attraverso Gesù Cristo”.
 
-<span class="atom-split" data-atom="391" data-title="Whether Christ acquired His judiciary power by His merits?" data-chapter="Whether Christ acquired His judiciary power by His merits?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="391" data-title="Whether Christ acquired His judiciary power by His merits?" data-chapter="Whether Christ acquired His judiciary power by His merits?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ did not acquire His judiciary power by His merits. For
 judiciary power flows from the royal dignity: according to Prov. 20:8: "The king that sitteth on the
@@ -26948,7 +26956,7 @@ Risposta all’Obiezione 2: Questo argomento si basa sul principio della Sua gra
 
 Risposta all’Obiezione 3: Questo argomento è valido per quanto riguarda la grazia abituale, che perfeziona l’anima di Cristo. Tuttavia, anche se il potere giudiziario appartiene a Cristo in questi contesti, ciò non impedisce che esso gli spetti anche in base ai suoi meriti.
 
-<span class="atom-split" data-atom="392" data-title="Whether judiciary power belongs to Christ with respect to all human affairs?" data-chapter="Whether judiciary power belongs to Christ with respect to all human affairs?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="392" data-title="Whether judiciary power belongs to Christ with respect to all human affairs?" data-chapter="Whether judiciary power belongs to Christ with respect to all human affairs?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that judiciary power concerning all human affairs does not belong
 to Christ. For as we read in Lk. 12:13,14, when one of the crowd said to Christ: "Speak to my
@@ -27026,7 +27034,7 @@ Risposta all’Obiezione 2: Tutte le cose sono sottomesse a Cristo per quanto ri
 
 Risposta all’Obiezione 3: Questo tipo di giudizi fu esercitato da Cristo prima della Sua Incarnazione, poiché Egli è la Parola di Dio; e l’anima unita a Lui in modo personale divenne partecipante di questa potenza attraverso l’Incarnazione.
 
-<span class="atom-split" data-atom="393" data-title="Whether after the Judgment that takes place in the present time, there remains yet another General Judgment?" data-chapter="Whether after the Judgment that takes place in the present time, there remains yet another General Judgment?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="393" data-title="Whether after the Judgment that takes place in the present time, there remains yet another General Judgment?" data-chapter="Whether after the Judgment that takes place in the present time, there remains yet another General Judgment?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,assi/time_and_death,concepts/justice,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that after the Judgment that takes place in the present time, there
 does not remain another General Judgment. For a judgment serves no purpose after the final allotment
@@ -27116,7 +27124,7 @@ Risposta all’Obiezione 2: “Dio non giudicherà due volte la stessa cosa”, 
 
 Risposta all’Obiezione 3: Sebbene la ricompensa o la punizione del corpo dipendano dalla ricompensa o dalla punizione dell’anima, tuttavia, poiché l’anima è soggetta al cambiamento soltanto in modo accidentale, a causa del corpo, una volta separata da esso entra in uno stato immutabile e riceve il proprio giudizio. Il corpo, invece, rimane soggetto al cambiamento fino alla fine dei tempi; pertanto deve ricevere la propria ricompensa o punizione in quel momento, durante il Giudizio Universale.
 
-<span class="atom-split" data-atom="394" data-title="Whether Christ's judiciary power extends to the angels?" data-chapter="Whether Christ's judiciary power extends to the angels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="394" data-title="Whether Christ's judiciary power extends to the angels?" data-chapter="Whether Christ's judiciary power extends to the angels?" data-kind="atom" data-srclang="en" data-tags="concepts/grace,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Christ's judiciary power does not extend to the angels, because
 the good and wicked angels alike were judged in the beginning of the world, when some fell through

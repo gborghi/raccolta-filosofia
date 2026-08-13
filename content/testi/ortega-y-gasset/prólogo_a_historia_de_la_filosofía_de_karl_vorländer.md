@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A preface to Vorländer's history of philosophy, with an account of the 'difficulty of philosophy': it lies in the unfamiliarity of its objects, since the intellect is a biological function formed in the struggle with material things and we are born corporealists. In life we think concrete things by means of abstractions; in philosophy we think abstract objects by means of abstractions.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Concetti:** [[concepts/reason|ragione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ Se la difficoltà della filosofia si origina, come ho detto, esclusivamente nell
 
 SCETTICISMO.— Ho voluto indicare che il passato filosofico non è mai definitivamente passato, ma perdura vivace e attivo nella scienza presente. Non accade lo stesso nelle altre discipline. L'astronomia tolemaica esercita scarso influsso, per non dire nullo, sull'astronomia attuale. Platone o Aristotele, invece, sono di oggi tanto quanto di ieri, almeno per ciò che riguarda la linea midollare del loro pensiero. Ogni pensatore contemporaneo, se guarda in trasparenza la propria dottrina, vede in essa brulicante integro il passato filosofico.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/reason"></span>
 
 La proclamación de esta identidad radical de la filosofía a lo largo de los tiempos da en rostro a la opinión más extendida hoy entre el vulgo para el cual un filósofo es siempre un hombre que piensa de manera distinta a los demás de su gremio. Apenas hay para el vulgo intelectual de nuestra Edad —ingenieros, médicos, políticos— hecho más popular que la escandalosa divergencia de los sistemas filosóficos entre sí. Muchos jóvenes que por naturaleza se sienten inclinados a la filosofía se apartan de su estudio por virtud de este tópico e infundado prejuicio.
 
@@ -192,7 +199,7 @@ A mio giudizio, di fronte alle smodatezze dell'evoluzionismo commesse dal XIX se
 
 Così nella storia della filosofia, per un curioso ritorno delle attitudini, dobbiamo insistere sul differenziale dei sistemi. Con maggiore ardimento ancora bisognerà fare questo nella storia generale delle culture. Ma non ci sia dubbio, questa tendenza, lungi dal negare il fondamento della contraria, lo suppone e riconosce. La filosofia non è stata, attraverso il tempo, un'accumulazione di capricci; lungi da questo è proprio, con la matematica, quella che è variata dentro limiti più angusti.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/reason"></span>
 
 Si en el público [culto](/concepts/religion) no se hubiese perdido, como arriba he indicado, la tradición de los conocimientos filosóficos, no habría reparo en recomendar al principiante y al curioso obras de historia filosófica más en armonía con el pensamiento de los investigadores actuales. Pero aunque esas obras estuviesen ya escritas —y no lo están—, me parecería funesto ponerlas en manos de los que se inician. La realidad es que existe una perfecta incongruencia entre el estado de espíritu de los que hoy hacen filosofía y el del público. Sigue éste en 1850: en la masa social dominan hoy los mismos prejuicios e ignorancias que entonces respecto a la filosofía. Si hay alguna diferencia habrá que buscarla en la expansión mayor adquirida por aquellos prejuicios. Verdad es que se va nutriendo con triunfal progresión el grupo de los que vuelven a filosofar tras el eclipse ideológico de media centuria. Pero entretanto los que no son filósofos siguen pseudo-filosofando a la moda de 1850.
 

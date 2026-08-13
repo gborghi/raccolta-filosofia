@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A speech (with applause noted) defining the Sagunto monarchy as a mutual-aid society of tiny groups — great capital, the military high command, the blood aristocracy, the Church — for the use of public power, of which the monarch was the manager. It follows that the Spanish people could never make the history germinating inside it; the clearest case is the Church, whose social power was a gift from the state and which, "living falsely", demoralised itself.
+
+## Connections
+
+**Assi:** [[assi/political_legitimacy|Legittimità del potere]]  
+**Posizioni:** [[positions/traditional_authority|autorità tradizionale]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/religion|religione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

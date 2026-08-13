@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political column on Gil Robles's right after the elections: Ortega notes those polls scraped the bottom of the conservative electoral barrel, and warns against the Church as an extra-national power. Topical journalism.
 

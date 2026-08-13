@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An aesthetic thesis on the decline of the novel: a genre is not an infinite orb but a quarry with a huge yet finite belly, and when the material runs out talent can do nothing — like a brilliant woodcutter in the Sahara. He thus denies that creation depends on inspiration or genius alone, and rejects Croce's claim that genres do not exist.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Unsigned editorial (España, March 1915) on Spanish neutrality: the war will reveal each nation's real «density», and Spain, which neither suffers nor decides, risks having no vital energy to show. Loyola's Spiritual Exercises appear only as an image («composition of place»). Journalism, not philosophy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A critical portrait of Barrès as the last of the literary demigods that began with Chateaubriand: with these, romanticism inverts the traditional terms by pouring the author's person into the work, which then counts not in itself but as a symptom of its author, who thereby becomes a social power. Ortega diagnoses it biologically ('literature of a male in rut') and declares it over. Literary criticism.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ La cosa peggiore di Barrès sono le sue idee, chiamiamole così. Piuttosto che p
 
 All'educazione astratta, senza radici, oppone Barrès un imperativo di disciplina francese. Appena vi sarà cosa su cui Barrès abbia insistito di più. Ma immaginiamo che un giovane francese prenda sul serio questo pertinace e monotono ordine di Barrès e cerchi di orientarsi nella sua opera su che cosa sia la disciplina francese. Vano intento! Nell'opera di Barrès non vi è alcuna idea chiara sul senso francese della vita. Non ci insegna il minimo su come è stato e deve essere un francese. Invece di una dottrina positiva, troviamo soltanto una frase formale e inane, un formalismo ancora più sterile di quello dell'imperativo kantiano, al quale pretende di sostituirsi. Barrès non ha estratto nulla di sostanziale dai classici francesi, e da quello che ha stimato di più, da Pascal, ha imparato soltanto qu'il faut s'abêtir.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Va a ser muy difícil salvar a Barrès. Aunque no quisiera que esta nota se tomase como expresión completa ni bien ponderada de mi juicio sobre su labor, he buscado manera de tejerle una corona con sus propias virtudes. Pero, lealmente dicho, no las he hallado fuera de su gracia verbal. Diez años antes de morirse, Barrès no significaba ya nada importante para las nuevas generaciones. Como Heine diría, era ya el rey abdicado del milenio romántico. Suya es esta frase: Les jeunes gens et moi, nous ne nous comprenons pas! Para un hombre que ha sido y ha querido ser un poder social sin límites, esta renuncia a dominar la juventud equivale a una abdicación. Con los jóvenes es preciso entenderse siempre. Nunca tienen razón en lo que niegan, pero siempre en lo que afirman. Nuestra obra debe extender siempre un tentáculo hacia los corazones de mañana. Hoy vemos que la figura de Barrès estaba toda vuelta al pasado. De sus páginas no se levanta cenital ninguna alondra que vuele hacia auroras. Todas sus inspiraciones fueron vespertinas —recogen un día ya cumplido; son densas, fatigadas y somníferas.
 

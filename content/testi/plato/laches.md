@@ -12,8 +12,16 @@ tags:
   - "philosopher/plato"
 ---
 
+*Plato*
+
 > [!abstract]
 > Two fathers ask the generals Laches and Nicias whether training in armour benefits their sons' education; the discussion slides into a search for the definition of courage, which Socrates tests until none of the proposals — endurance, knowledge of what is to be feared — survives on its own. The dialogue ends in aporia.
+
+## Connections
+
+**Concetti:** [[concepts/virtue|virtù]]  
+**Figure:** [[figures/socrates|Socrate]]  
+**Forme:** [[forms/dialogue|dialogo]]
 
 <p class="work-source">Traduzione di Benjamin Jowett · Delphi Classics, 2012 · pubblico dominio</p>
 
@@ -92,7 +100,7 @@ LISIMACO: Grandissima lode è quella che ti viene tributata, Socrate, da fedeli 
 
 SOCRATE: Mi adoprerò a consigliarti, Lisimaco, per quanto posso in questa faccenda, e in ogni modo mi conformerò ai tuoi desideri; ma poiché sono più giovane e non così esperto, penso che debba certamente udire prima ciò che i miei maggiori hanno da dire, e imparare da loro, e se ho qualcosa da aggiungere, allora potrò arrischiarmi a dare la mia opinione a loro non meno che a te. Supponi, Nicia, che l'uno o l'altro di voi cominci.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,figures/socrates,forms/dialogue"></span>
 
 NICIAS: I have no objection, [Socrates](/figures/socrates); and my opinion is that the acquirement of this art is in many ways useful to young men. It is an advantage to them that among the favourite amusements of their leisure hours they should have one which tends to improve and not to injure their bodily health. No gymnastics could be better or harder exercise; and this, and the art of riding, are of all arts most befitting to a freeman; for they only who are thus trained in the use of arms are the athletes of our military profession, trained in that on which the conflict turns. Moreover in actual battle, when you have to fight in a line with a number of others, such an acquirement will be of some use, and will be of the greatest whenever the ranks are broken and you have to fight singly, either in pursuit, when you are attacking some one who is defending himself, or in flight, when you have to defend yourself against an assailant. Certainly he who possessed the art could not meet with any harm at the hands of a single person, or perhaps of several; and in any case he would have a great advantage. Further, this sort of skill inclines a man to the love of other noble lessons; for every man who has learned how to fight in armour will desire to learn the proper arrangement of an army, which is the sequel of the lesson: and when he has learned this, and his ambition is once fired, he will go on to learn the complete art of the general. There is no difficulty in seeing that the knowledge and practice of other military arts will be honourable and valuable to a man; and this lesson may be the beginning of them. Let me add a further advantage, which is by no means a slight one, — that this science will make any man a great deal more valiant and self-possessed in the field. And I will not disdain to mention, what by some may be thought to be a small matter; — he will make a better appearance at the right time; that is to say, at the time when his appearance will strike terror into his enemies. My opinion then, Lysimachus, is, as I say, that the youths should be instructed in this art, and for the reasons which I have given. But Laches may take a different view; and I shall be very glad to hear what he has to say.
 
@@ -140,7 +148,7 @@ SOCRATE: E per questa ragione, come immagino, — perché una buona decisione si
 
 MELESIA: Senza dubbio.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/education,concepts/soul,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): Must we not then first of all ask, whether there is any one of us who has knowledge of that about which we are deliberating? If there is, let us take his advice, though he be one only, and not mind the rest; if there is not, let us seek further counsel. Is this a slight matter about which you and Lysimachus are deliberating? Are you not risking the greatest of your possessions? For children are your riches; and upon their turning out well or ill depends the whole order of their father’s house.
 
@@ -256,7 +264,7 @@ NICIA: Vedo assai chiaramente, Lisimaco, che tu hai conosciuto soltanto il padre
 
 LISIMACO: Perché dici questo, Nicia?
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,concepts/education,figures/socrates,forms/dialogue"></span>
 
 NICIAS: Because you seem not to be aware that any one who has an intellectual affinity to [Socrates](/figures/socrates) and enters into conversation with him is liable to be drawn into an argument; and whatever subject he may start, he will be continually carried round and round by him, until at last he finds that he has to give an account both of his present and past life; and when he is once entangled, Socrates will not let him go until he has completely and thoroughly sifted him. Now I am used to his ways; and I know that he will certainly do as I say, and also that I myself shall be the sufferer; for I am fond of his conversation, Lysimachus. And I think that there is no harm in being reminded of any wrong thing which we are, or have been, doing: he who does not fly from reproof will be sure to take more heed of his after-life; as Solon says, he will wish and desire to be learning so long as he lives, and will not think that old age of itself brings wisdom. To me, to be cross-examined by Socrates is neither unusual nor unpleasant; indeed, I knew all along that where Socrates was, the argument would soon pass from our sons to ourselves; and therefore, I say that for my part, I am quite willing to discourse with Socrates in his own manner; but you had better ask our friend Laches what his feeling may be.
 
@@ -368,7 +376,7 @@ LACHETE: Come, fuggendo?
 
 SOCRATE: Ebbene, come si dice combattano gli Sciti, fuggendo non meno che inseguendo; e come Omero dice, lodando i cavalli di Enea, che essi sapevano «inseguire e fuggire rapidamente or qua or là»; ed egli fa l'elogio di Enea stesso, come di uno che ha conoscenza della paura o della fuga, e lo chiama «autore di paura o di fuga».
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,figures/socrates,forms/dialogue"></span>
 
 LACHES: Yes, [Socrates](/figures/socrates), and there Homer is right: for he was speaking of chariots, as you were speaking of the Scythian cavalry, who have that way of fighting; but the heavy-armed Greek fights, as I say, remaining in his rank.
 
@@ -636,7 +644,7 @@ LACHETE: Mi piacerebbe.
 
 SOCRATE: Vieni allora, Nicia, e fa' ciò che puoi per aiutare i tuoi amici, che sono sbattuti sulle onde del ragionamento, e all'ultimo respiro: vedi la nostra difficoltà estrema, e puoi salvarci e insieme fissare la tua stessa opinione, se vorrai dirci ciò che pensi intorno al coraggio.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,figures/socrates,forms/dialogue"></span>
 
 NICIAS: I have been thinking, [Socrates](/figures/socrates), that you and Laches are not defining courage in the right way; for you have forgotten an excellent saying which I have heard from your own lips.
 
@@ -872,7 +880,7 @@ NICIA: Non è così, Lachete, ma non allarmarti; ché sono ben disposto a dire d
 
 LACHETE: Potrei ribattere a questo; ma non vorrei che tu mi rinfacciassi di essere un altezzoso Aexonio.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/virtue,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): Do not answer him, Laches; I rather fancy that you are not aware of the source from which his wisdom is derived. He has got all this from my friend Damon, and Damon is always with Prodicus, who, of all the Sophists, is considered to be the best puller to pieces of words of this sort.
 
@@ -1072,7 +1080,7 @@ NICIA: A questo convengo pienamente, se Socrate è disposto a prenderli sotto la
 
 LISIMACO: Dovrebbe, Nicia: ché certamente farei per lui cose che non farei per molti altri. Che dici, Socrate — acconsentirai? E sei pronto a prestare aiuto nel miglioramento dei giovani?
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/education,figures/socrates,forms/dialogue"></span>
 
 [SOCRATES](/figures/socrates): Indeed, Lysimachus, I should be very wrong in refusing to aid in the improvement of anybody. And if I had shown in this conversation that I had a knowledge which Nicias and Laches have not, then I admit that you would be right in inviting me to perform this duty; but as we are all in the same perplexity, why should one of us be preferred to another? I certainly think that no one should; and under these circumstances, let me offer you a piece of advice (and this need not go further than ourselves). I maintain, my friends, that every one of us should seek out the best teacher whom he can find, first for ourselves, who are greatly in need of one, and then for the youth, regardless of expense or anything. But I cannot advise that we remain as we are. And if any one laughs at us for going to school at our age, I would quote to them the authority of Homer, who says, that
 

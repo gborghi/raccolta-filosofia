@@ -12,8 +12,19 @@ tags:
   - "philosopher/aquinas"
 ---
 
+*Aquinas*
+
 > [!abstract]
 > A systematic analysis of the soul's passions (love, hate, desire, joy, sorrow, hope, fear, anger), seated in the sensitive appetite: Aquinas shows how they can be morally good or bad depending on their conformity to reason.
+
+## Connections
+
+**Assi:** [[assi/moral_foundation|Fondamento della morale]]  
+**Posizioni:** [[positions/virtue_ethics|virtù]]  
+**Concetti:** [[concepts/passion|passione]], [[concepts/reason|ragione]], [[concepts/will|volontà]]  
+**Figure:** [[figures/aristotle|Aristotele]]  
+**Forme:** [[forms/quaestio|quaestio]]  
+**Scuole:** [[schools/scholasticism|scolastica]]
 
 <p class="work-source">Traduzione di Fathers of the English Dominican Province · Benziger Bros. edition, 1947 (CCEL digital text), 1947 · pubblico dominio</p>
 
@@ -28,7 +39,7 @@ TREATISE ON THE PASSIONS (QQ[22]-48)
 
 TRATTATO DELLE PASSIONI (QQ[22]-48)
 
-<span class="atom-split" data-atom="002" data-title="OF THE SUBJECT OF THE SOUL'S PASSIONS (THREE ARTICLES)" data-chapter="OF THE SUBJECT OF THE SOUL'S PASSIONS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE SUBJECT OF THE SOUL'S PASSIONS (THREE ARTICLES)" data-chapter="OF THE SUBJECT OF THE SOUL'S PASSIONS (THREE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the passions of the soul: first, in general; secondly, in particular. Taking
 them in general, there are four things to be considered: (1) Their subject: (2) The difference between
@@ -47,7 +58,7 @@ All’interno del primo ambito di indagine, vi sono tre questioni principali:
 (2) Le passioni appartengono piuttosto alla parte appetitiva che a quella intellettiva dell’anima?  
 (3) Le passioni rientrano nella sfera dell’appetito sensibile o in quella dell’appetito intellettuale, chiamato volontà?
 
-<span class="atom-split" data-atom="003" data-title="Whether any passion is in the soul?" data-chapter="Whether any passion is in the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Whether any passion is in the soul?" data-chapter="Whether any passion is in the soul?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is no passion in the soul. Because passivity belongs to
 matter. But the soul is not composed of matter and form, as stated in the FP, Q[75], A[5]. Therefore
@@ -116,7 +127,7 @@ Risposta all’Obiezione 2: Sebbene non sia intrinseco alla stessa anima essere 
 
 Risposta all’Obiezione 3: Questo argomento è valido per le passioni accompagnate da una trasformazione verso qualcosa di peggiore. E in questo senso, le passioni non si trovano nell’anima se non in modo accidentale; invece, il composto, essendo corruttibile, le permette di esistere a causa della sua stessa natura.
 
-<span class="atom-split" data-atom="004" data-title="Whether passion is in the appetitive rather than in the apprehensive part?" data-chapter="Whether passion is in the appetitive rather than in the apprehensive part?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Whether passion is in the appetitive rather than in the apprehensive part?" data-chapter="Whether passion is in the appetitive rather than in the apprehensive part?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that passion is in the apprehensive part of the soul rather than in
 the appetitive. Because that which is first in any genus, seems to rank first among all things that
@@ -204,7 +215,7 @@ Risposta all’Obiezione 2: Si dice che la potenza appetitiva sia più attiva pe
 
 Risposta all’Obiezione 3: Come indicato nel FP, Q[78], A[3], gli organi dell’anima possono subire modifiche in due modi. In primo luogo, attraverso un cambiamento spirituale, per cui l’organo riceve un’“intenzione” riguardante l’oggetto; questo aspetto è essenziale per l’atto di comprensione sensoriale: ad esempio, l’occhio viene modificato dall’oggetto visibile, non perché venga colorato, ma perché riceve un’“intenzione” relativa al colore. Tuttavia, gli organi possono subire anche cambiamenti naturali che influenzano la loro struttura originale; ad esempio, quando diventano caldi o freddi, o subiscono modifiche simili. Mentre questo tipo di cambiamento è accidentale rispetto all’atto di comprensione sensoriale – ad esempio, se l’occhio si stanca a causa di uno sguardo prolungato su un oggetto – esso è invece essenziale per l’atto dell’appetito sensibile. Pertanto, nell’ambito delle definizioni dei movimenti della parte appetitiva, l’elemento materiale fondamentale è proprio il cambiamento naturale dell’organo; ad esempio, si dice che “la [ira](/concepts/anger) sia un’infiammazione del sangue attorno al cuore”. È evidente quindi che il concetto di passione sia più in linea con l’atto dell’appetito sensibile che con quello della comprensione sensoriale, anche se entrambi riguardano azioni di organi corporei.
 
-<span class="atom-split" data-atom="005" data-title="Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is called the will?" data-chapter="Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is called the will?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is called the will?" data-chapter="Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is called the will?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that passion is not more in the sensitive than in the intellectual
 appetite. For Dionysius declares (Div. Nom. ii) Hierotheus "to be taught by a kind of yet more
@@ -268,7 +279,7 @@ Risposta all’Obiezione 2: L’intensità della passione dipende non solo dalla
 
 Risposta all’Obiezione 3: Quando amore, gioia e simili sentimenti vengono attribuiti a Dio o agli angeli, oppure all’uomo in relazione al suo appetito intellettuale, essi indicano semplici atti della volontà che producono effetti analoghi, ma senza coinvolgimento passionale. Pertanto, [Agostino](/figures/augustine) afferma nel “De Civitate Dei” IX, 5: “Gli angeli santi non provano alcuna [ira](/concepts/anger) quando puniscono, non condividono la sofferenza degli infelici quando li alleviano; eppure il linguaggio comune umano tende ad attribuire loro anche queste passioni, poiché, sebbene essi siano privi di tutte le nostre debolezze, i loro atti presentano una certa somiglianza con i nostri.”
 
-<span class="atom-split" data-atom="006" data-title="HOW THE PASSIONS DIFFER FROM ONE ANOTHER (FOUR ARTICLES)" data-chapter="HOW THE PASSIONS DIFFER FROM ONE ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="HOW THE PASSIONS DIFFER FROM ONE ANOTHER (FOUR ARTICLES)" data-chapter="HOW THE PASSIONS DIFFER FROM ONE ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/passion,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider how the passions differ from one another: and under this head there are
 four points of inquiry:
@@ -287,7 +298,7 @@ Dobbiamo ora considerare in che modo le passioni si differenziano l’una dall�
 (3) Se esista qualche passione che non abbia un contrario;  
 (4) Se, nella stessa forza o intensità, possano esistere passioni diverse per specie, ma non contrarie l’una all’altra.
 
-<span class="atom-split" data-atom="007" data-title="Whether the passions of the concupiscible part are different from those of the irascible part?" data-chapter="Whether the passions of the concupiscible part are different from those of the irascible part?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether the passions of the concupiscible part are different from those of the irascible part?" data-chapter="Whether the passions of the concupiscible part are different from those of the irascible part?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the same passions are in the irascible and concupiscible parts.
 For the Philosopher says (Ethic. ii, 5) that the passions of the soul are those emotions "which are
@@ -368,7 +379,7 @@ Risposta all’Obiezione 2: Girolamo attribuisce l’odio per il vizio alla faco
 
 Risposta all’Obiezione 3: Il bene, in quanto piacevole, muove la forza concupiscente. Tuttavia, se si rivela difficile da ottenere, proprio per questo presenta una certa contraddizione rispetto a tale forza; di conseguenza, è necessaria un’altra forza che tenda verso quel bene. Lo stesso vale per il male, e questa forza è la facoltà irascibile. Pertanto, le passioni concupiscenti sono specificamente diverse dalle passioni irascibili.
 
-<span class="atom-split" data-atom="008" data-title="Whether the contrariety of the irascible passions is based on the contrariety of good and evil?" data-chapter="Whether the contrariety of the irascible passions is based on the contrariety of good and evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Whether the contrariety of the irascible passions is based on the contrariety of good and evil?" data-chapter="Whether the contrariety of the irascible passions is based on the contrariety of good and evil?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the contrariety of the irascible passions is based on no other
 contrariety than that of good and evil. For the irascible passions are ordained to the concupiscible
@@ -436,7 +447,7 @@ Al contrario, paura e coraggio sono opposti tra loro, come affermato nell’Etic
 
 Rispondo che la passione è un tipo di movimento, come affermato nella Fisica iii, 3. Pertanto, la contrarietà delle passioni si basa sulla contrarietà dei movimenti o dei cambiamenti. Ora, esiste una doppia forma di contrarietà nei cambiamenti e nei movimenti, come indicato nella Fisica v, 5: una riguarda l’avvicinamento e il allontanamento rispetto allo stesso termine; questa contrarietà appartiene propriamente ai cambiamenti, cioè alla generazione, che è un cambiamento “verso l’essere”, e alla corruzione, che è un cambiamento “dall’essere”. L’altra forma di contrarietà riguarda l’opposizione dei termini e appartiene propriamente ai movimenti; ad esempio, il sbiancamento, che è un movimento dal nero al bianco, è contrario al scurirsi, che è un movimento dal bianco al nero. Di conseguenza, nelle passioni dell’anima esiste una doppia contrarietà: una riguarda la contrarietà degli oggetti, cioè del bene e del male; l’altra riguarda l’avvicinamento e il allontanamento rispetto allo stesso termine. Nelle passioni concupiscenti si trova soltanto la prima forma di contrarietà, quella basata sugli oggetti; nelle passioni irascibili, invece, si trovano entrambe le forme. Il motivo di ciò è che l’oggetto della facoltà concupiscente, come già detto, è il bene o il male sensibile considerati in modo assoluto. Ora, il bene, in sé, non può essere considerato un termine verso cui tendere, ma soltanto un termine da cui allontanarsi, poiché nulla fugge dal bene in sé; al contrario, tutte le cose lo desiderano. Allo stesso modo, nulla desidera il male in sé; tutte le cose lo evitano; pertanto, il male non può essere considerato un termine verso cui tendere, ma soltanto un termine da cui allontanarsi. Di conseguenza, ogni passione concupiscente riguardo al bene tende verso di esso, come amore, desiderio e gioia; mentre ogni passione concupiscente riguardo al male tende lontano da esso, come odio, evitamento o tristezza. Pertanto, nelle passioni concupiscenti non può esistere contrarietà nell’avvicinamento e nel allontanamento rispetto allo stesso oggetto. D’altra parte, l’oggetto della facoltà irascibile è il bene o il male sensibile, considerati non in modo assoluto, ma sotto l’aspetto della difficoltà o dell’ardore. Ora, il bene che è difficile o arduo, considerato come bene, induce in noi una tendenza verso di esso; questa tendenza appartiene alla passione della “speranza”; mentre, considerato come difficile o arduo, ci spinge a allontanarcene; e questo appartiene alla passione della “disperazione”. Allo stesso modo, il male arduo, considerato come male, ha l’aspetto di qualcosa da evitare; e questo appartiene alla passione della “paura”; tuttavia, contiene anche una ragione per tendervi, come nel tentativo di affrontare qualcosa di difficile al fine di sfuggire al male; e questa tendenza è chiamata “coraggio”. Pertanto, nelle passioni irascibili troviamo contrarietà riguardo al bene e al male (come tra speranza e paura); e anche contrarietà nell’avvicinamento e nel allontanamento rispetto allo stesso termine (come tra coraggio e paura). Dalla discussione appena fatta, le risposte alle obiezioni risultano evidenti.
 
-<span class="atom-split" data-atom="009" data-title="Whether any passion of the soul has no contrariety?" data-chapter="Whether any passion of the soul has no contrariety?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether any passion of the soul has no contrariety?" data-chapter="Whether any passion of the soul has no contrariety?" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/soul,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that every passion of the soul has a contrary. For every passion of
 the soul is either in the irascible or in the concupiscible faculty, as stated above (A[1]). But both
@@ -483,7 +494,7 @@ Al contrario, l’[Rabbia](/concepts/anger) è una passione dell’anima. Tuttav
 
 Rispondo che la passione della rabbia presenta una caratteristica particolare: non può avere un opposto, né in termini di avvicinamento o allontanamento, né in relazione alla contrapposizione tra bene e male. La rabbia infatti è scatenata da un male difficile che già esiste; quando tale male è presente, l’appetito umano deve necessariamente subirne l’influenza, in modo da non oltrepassare i limiti della “tristezza”, che è una passione appartenente alla facoltà concupiscente; oppure deve manifestarsi con un attacco contro quel male dannoso, e questo è proprio il carattere della rabbia. Tuttavia, non può esistere alcun movimento di allontanamento da tale male, poiché esso si presuppone già presente o passato. Pertanto, nessuna altra passione può essere contraria alla rabbia, né in termini di avvicinamento o allontanamento, né in relazione alla contrapposizione tra bene e male. Allo stesso modo, non esiste alcun opposto della rabbia che possa derivare dalla contrapposizione tra bene e male: l’opposto del male presente è il bene ottenuto, il quale non può più presentare caratteristiche di difficoltà o arduità; inoltre, una volta ottenuto il bene, non rimane alcun altro movimento dell’appetito umano, se non quello del riposo nella felicità derivante da tale bene, e questo riposo appartiene alla gioia, che è anch’essa una passione della facoltà concupiscente. Pertanto, nessun movimento dell’anima può essere contrario al movimento della rabbia; l’unica cosa che possa esserne contrario è la cessazione di tale movimento. Ecco perché il Filosofo afferma (Rhetorica ii, 3) che “la calma è contraria alla rabbia”, ma questa contrapposizione non deriva dalla diversità dei loro caratteri, bensì dalla negazione o privazione della rabbia stessa. Da quanto detto, risulta evidente come possano essere confutate le obiezioni avanzate contro questa tesi.
 
-<span class="atom-split" data-atom="010" data-title="Whether in the same power, there are any passions, specifically different, but not contrary to one another?" data-chapter="Whether in the same power, there are any passions, specifically different, but not contrary to one another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether in the same power, there are any passions, specifically different, but not contrary to one another?" data-chapter="Whether in the same power, there are any passions, specifically different, but not contrary to one another?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there cannot be, in the same power, specifically different
 passions that are not contrary to one another. For the passions of the soul differ according to their
@@ -555,7 +566,7 @@ Al contrario, amore e gioia appartengono a specie diverse e rientrano nella sfer
 Rispondo che le passioni differiscono in base alle loro cause attive, le quali, nel caso delle passioni dell’anima, sono i loro oggetti. Ora, la differenza nelle cause attive può essere considerata in due modi: innanzitutto, dal punto di vista della loro specie o natura, così come il fuoco è diverso dall’acqua; in secondo luogo, dal punto di vista della differenza nella loro forza attiva. Nelle passioni dell’anima, non possiamo considerare la differenza nelle cause attive o motivanti in relazione alla loro forza motrice, come se fossero agenti naturali. Infatti, ogni agente, in qualche modo, attira verso di sé l’oggetto su cui agisce o lo allontana da sé. Quando attira verso di sé, compie tre azioni sull’oggetto: innanzitutto, gli conferisce un’inclinazione o una tendenza naturale verso di sé; ad esempio, un corpo leggero conferisce al corpo generato la proprietà della leggerezza, facendogli avere l’inclinazione a trovarsi in posizioni elevate. In secondo luogo, se il corpo generato si trova fuori dal suo posto naturale, l’agente gli dà la forza di muoversi verso quel posto. Terzo, lo fa riposare quando raggiunge il suo posto naturale; infatti, la stessa causa può produrre sia il riposo che il movimento verso quel luogo. Lo stesso vale per le cause di repulsione. Nelle azioni della facoltà appetitiva, il bene possiede una forza attrattiva, mentre il male ha una forza repulsiva. Pertanto, il bene genera nell’appetito un’inclinazione naturale verso di sé; questo corrisponde alla passione dell’“amore”, e il suo opposto è l’“odio” verso il male. Inoltre, se il bene non è ancora posseduto, suscita nel desiderio il movimento verso la sua realizzazione; questo corrisponde alle passioni del “desiderio” o della “concupiscenza”, e il loro opposto è l’“avversione” verso il male. Infine, quando il bene viene ottenuto, fa sì che l’appetito si riposi in esso; questo corrisponde alla passione della “gioia” o del “contentamento”, e il suo opposto è la “tristezza”. D’altra parte, nelle passioni irascibili, l’inclinazione a cercare il bene o a evitare il male deriva dalla facoltà concupiscibile, che considera il bene e il male in modo assoluto. Per quanto riguarda il bene ancora non ottenuto, abbiamo “speranza” e “disperazione”; per quanto riguarda il male già presente, abbiamo “paura” e “coraggio”. Tuttavia, quando il bene è stato ottenuto, non esiste più alcuna passione irascibile, poiché non viene più considerato come qualcosa di difficile da raggiungere; al contrario, il male già presente genera la passione dell’“ira”. È quindi evidente che nella facoltà concupiscibile esistono tre coppie di passioni: amore e odio, desiderio e avversione, gioia e tristezza. Allo stesso modo, nella facoltà irascibile esistono tre gruppi di passioni: speranza e disperazione, paura e coraggio, e l’ira, che non ha un opposto diretto.
 Di conseguenza, esistono in totale undici passioni che si differenziano tra loro in modo specifico: sei appartenenti alla facoltà concupiscibile e cinque a quella irascibile; sotto queste categorie rientrano tutte le passioni dell’anima. Da ciò derivano chiaramente le risposte alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="011" data-title="OF GOOD AND EVIL IN THE PASSIONS OF THE SOUL (FOUR ARTICLES)" data-chapter="OF GOOD AND EVIL IN THE PASSIONS OF THE SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="OF GOOD AND EVIL IN THE PASSIONS OF THE SOUL (FOUR ARTICLES)" data-chapter="OF GOOD AND EVIL IN THE PASSIONS OF THE SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,concepts/passion,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider good and evil in the passions of the soul: and under this head there are
 four points of inquiry:
@@ -572,7 +583,7 @@ Dobbiamo ora considerare il bene e il male nelle passioni dell’anima; in quest
 (3) Ogni passione aumenta o diminuisce la bontà o la malvagità di un atto?  
 (4) Esiste qualche passione che sia specificamente buona o cattiva?
 
-<span class="atom-split" data-atom="012" data-title="Whether moral good and evil can be found in the passions of the soul?" data-chapter="Whether moral good and evil can be found in the passions of the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether moral good and evil can be found in the passions of the soul?" data-chapter="Whether moral good and evil can be found in the passions of the soul?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no passion of the soul is morally good or evil. For moral good
 and evil are proper to man: since "morals are properly predicated of man," as Ambrose says (Super
@@ -614,7 +625,7 @@ in so far as they are subordinate to reason. Hence he continues: "For the man wh
 is not praised . . . or blamed, but the man who is angry in a certain way, i.e. according to, or against
 reason."
 
-<span class="atom-split" data-atom="013" data-title="Whether every passion of the soul is evil morally?" data-chapter="Whether every passion of the soul is evil morally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether every passion of the soul is evil morally?" data-chapter="Whether every passion of the soul is evil morally?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all the passions of the soul are morally evil. For [Augustine](/figures/augustine)
 says (De Civ. Dei ix, 4) that "some call the soul's passions diseases or disturbances of the soul"
@@ -681,7 +692,7 @@ Risposta all’Obiezione 2: In ogni passione si verifica un aumento o una diminu
 
 Risposta all’Obiezione 3: Le passioni dell’anima, nella misura in cui sono contrarie all’ordine della ragione, ci spingono a peccare; ma nella misura in cui sono controllate dalla ragione, appartengono alla virtù.
 
-<span class="atom-split" data-atom="014" data-title="Whether passion increases or decreases the goodness or malice of an act?" data-chapter="Whether passion increases or decreases the goodness or malice of an act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether passion increases or decreases the goodness or malice of an act?" data-chapter="Whether passion increases or decreases the goodness or malice of an act?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that every passion decreases the goodness of a moral action. For
 anything that hinders the judgment of reason, on which depends the goodness of a moral act,
@@ -761,7 +772,7 @@ Risposta all’Obiezione 2: In Dio e negli angeli non esistono né desideri sens
 
 Risposta all’Obiezione 3: Una passione che tende al male e precede il giudizio della ragione riduce la gravità del peccato; ma se essa segue in uno dei modi menzionati sopra (Risposta all’Obiezione 1), allora aggrava il peccato, oppure è un segno che esso sia ancora più grave.
 
-<span class="atom-split" data-atom="015" data-title="Whether any passion is good or evil in its species?" data-chapter="Whether any passion is good or evil in its species?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether any passion is good or evil in its species?" data-chapter="Whether any passion is good or evil in its species?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no passion of the soul is good or evil morally according to its
 species. Because moral good and evil depend on reason. But the passions are in the sensitive appetite;
@@ -824,7 +835,7 @@ Risposta all’Obiezione 2: Le passioni che hanno una tendenza verso il bene son
 
 Risposta all’Obiezione 3: Negli animali irrazionali il desiderio sensibile non obbedisce alla ragione. Tuttavia, nella misura in cui sono guidati da una sorta di facoltà valutativa soggetta a una ragione superiore, cioè quella divina, esiste in loro una certa somiglianza con il bene morale, riguardo alle passioni dell’anima.
 
-<span class="atom-split" data-atom="016" data-title="OF THE ORDER OF THE PASSIONS TO ONE ANOTHER (FOUR ARTICLES)" data-chapter="OF THE ORDER OF THE PASSIONS TO ONE ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="OF THE ORDER OF THE PASSIONS TO ONE ANOTHER (FOUR ARTICLES)" data-chapter="OF THE ORDER OF THE PASSIONS TO ONE ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/passion,forms/quaestio"></span>
 
 We must now consider the order of the passions to one another: and under this head there are
 four points of inquiry:
@@ -841,7 +852,7 @@ Dobbiamo ora considerare l’ordine reciproco delle passioni; in questo ambito v
 (3) Il rapporto tra le passioni irascibili tra loro;  
 (4) Le quattro principali passioni.
 
-<span class="atom-split" data-atom="017" data-title="Whether the irascible passions precede the concupiscible passions, or vice versa?" data-chapter="Whether the irascible passions precede the concupiscible passions, or vice versa?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the irascible passions precede the concupiscible passions, or vice versa?" data-chapter="Whether the irascible passions precede the concupiscible passions, or vice versa?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the irascible passions precede the concupiscible passions. For
 the order of the passions is that of their objects. But the object of the irascible faculty is the difficult
@@ -921,7 +932,7 @@ Risposta all’Obiezione 1: Questo argomento dimostrerebbe che, se l’oggetto f
 
 Risposta all’Obiezione 2: Colui che rimuove un ostacolo non agisce in modo diretto, ma in modo accidentale; e qui stiamo parlando di passioni che sono direttamente collegate tra loro. Inoltre, la passione irascibile elimina l’ostacolo che impedisce alla passione concupiscente di riposare sul proprio oggetto. Pertanto, ne consegue soltanto che le passioni irascibili precedono quelle concupiscenti che implicano uno stato di tranquillità. Anche il terzo argomento porta alla stessa conclusione.
 
-<span class="atom-split" data-atom="018" data-title="Whether love is the first of the concupiscible passions?" data-chapter="Whether love is the first of the concupiscible passions?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether love is the first of the concupiscible passions?" data-chapter="Whether love is the first of the concupiscible passions?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that love is not the first of the concupiscible passions. For the
 concupiscible faculty is so called from concupiscence, which is the same passion as desire. But
@@ -972,7 +983,7 @@ betokens such a union. This union precedes the movement of desire.
 
 Reply to Objection 3: Pleasure causes love, in so far as it precedes love in the order of intention.
 
-<span class="atom-split" data-atom="019" data-title="Whether hope is the first of the irascible passions?" data-chapter="Whether hope is the first of the irascible passions?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether hope is the first of the irascible passions?" data-chapter="Whether hope is the first of the irascible passions?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hope is not the first of the irascible passions. Because the
 irascible faculty is denominated from [anger](/concepts/anger). Since, therefore, "things are [names](/positions/nominalism) from their chief
@@ -1053,7 +1064,7 @@ Risposta all’Obiezione 2: Non è la difficoltà, ma il bene a costituire il mo
 
 Risposta all’Obiezione 3: Il movimento dell’appetito è essenzialmente e direttamente rivolto al bene, in quanto suo oggetto proprio; il suo movimento verso il male deriva da questo stesso principio. Infatti, il movimento della parte appetitiva è proporzionale non al movimento naturale, ma all’intento della natura stessa, che mira prima all’ottenimento dell’fine desiderato e solo in seguito all’allontanamento di ciò che vi si oppone, e tale allontanamento è auspicabile esclusivamente al fine di raggiungere l’obiettivo prefissato.
 
-<span class="atom-split" data-atom="020" data-title="Whether these are the four principal passions: joy, sadness, hope and fear?" data-chapter="Whether these are the four principal passions: joy, sadness, hope and fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether these are the four principal passions: joy, sadness, hope and fear?" data-chapter="Whether these are the four principal passions: joy, sadness, hope and fear?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that joy, sadness, hope and fear are not the four principal passions.
 For [Augustine](/figures/augustine) (De Civ. Dei xiv, 3,[7] sqq.) omits hope and puts desire in its place.
@@ -1113,7 +1124,7 @@ The effects of love. Under the first head there are four points of inquiry:
 (3) Whether love is the same as dilection?
 (4) Whether love is properly divided into love of [friendship](/concepts/friendship), and love of concupiscence?
 
-<span class="atom-split" data-atom="021" data-title="Whether love is in the concupiscible power?" data-chapter="Whether love is in the concupiscible power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether love is in the concupiscible power?" data-chapter="Whether love is in the concupiscible power?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that love is not in the concupiscible power. For it is written (Wis.
 8:2): "Her," namely wisdom, "have I loved, and have sought her out from my youth." But the
@@ -1163,7 +1174,7 @@ soul's powers, and also in all the parts of the body, and universally in all thi
 says (Div. Nom. iv), "[Beauty](/concepts/beauty) and goodness are beloved by all things"; since each single thing has
 a connaturalness with that which is naturally suitable to it.
 
-<span class="atom-split" data-atom="022" data-title="Whether love is a passion?" data-chapter="Whether love is a passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether love is a passion?" data-chapter="Whether love is a passion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that love is not a passion. For no power is a passion. But every
 love is a power, as Dionysius says (Div. Nom. iv). Therefore love is not a passion.
@@ -1226,7 +1237,7 @@ Risposta all’Obiezione 2: L’unione appartiene all’amore in quanto, a causa
 
 Risposta all’Obiezione 3: Sebbene l’amore non indichi il movimento dell’appetito verso l’oggetto desiderabile, esso indica tuttavia quel movimento attraverso cui l’appetito viene modificato dall’oggetto stesso, al punto di provare soddisfazione in sua presenza.
 
-<span class="atom-split" data-atom="023" data-title="Whether love is the same as dilection?" data-chapter="Whether love is the same as dilection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether love is the same as dilection?" data-chapter="Whether love is the same as dilection?" data-kind="atom" data-srclang="en" data-tags="concepts/charity,concepts/friendship,concepts/will,concepts/passion,figures/augustine"></span>
 
 Objection 1: It would seem that love is the same as dilection. For Dionysius says (Div. Nom.
 iv) that love is to dilection, "as four is to twice two, and as a rectilinear figure is to one composed
@@ -1296,7 +1307,7 @@ Risposta all’Obiezione 3: Amore e dilezione differiscono non in termini di ben
 
 Risposta all’Obiezione 4: Il motivo per cui alcuni ritenevano che, anche quando applicata alla volontà stessa, la parola “amore” indicasse qualcosa di più divino rispetto a “dilezione”, era perché l’amore rappresenta una passione, soprattutto nel senso in cui riguarda il desiderio sensibile; mentre la dilezione presuppone il giudizio della ragione. Tuttavia, è possibile che l’uomo tenda verso Dio attraverso l’amore, essendo come se fosse attirato passivamente da Lui, più di quanto possa essere attratto dalla sua ragione, che appartiene alla natura della dilezione, come detto sopra. E pertanto, l’amore è più divino della dilezione.
 
-<span class="atom-split" data-atom="024" data-title="Whether love is properly divided into love of friendship and love of concupiscence?" data-chapter="Whether love is properly divided into love of friendship and love of concupiscence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether love is properly divided into love of friendship and love of concupiscence?" data-chapter="Whether love is properly divided into love of friendship and love of concupiscence?" data-kind="atom" data-srclang="en" data-tags="concepts/friendship,concepts/concupiscence,figures/aristotle,schools/scholasticism"></span>
 
 Objection 1: It would seem that love is not properly divided into love of [friendship](/concepts/friendship) and love
 of concupiscence. For "love is a passion, while friendship is a [habit](/concepts/custom)," according to the Philosopher
@@ -1358,7 +1369,7 @@ Risposta all’Obiezione 1: L’amore non si divide in amicizia e concupiscenza,
 
 Risposta all’Obiezione 3: Quando l’amicizia si basa sull’utilità o sul piacere, un uomo desidera davvero il bene per il proprio amico; in questo senso, il carattere dell’amicizia viene mantenuto. Tuttavia, poiché tale desiderio è legato al proprio piacere o utilità personale, l’amicizia basata sull’utilità o sul piacere, nella misura in cui è connessa all’amore per i piaceri sensuali, perde il carattere dell’amicizia vera e propria.
 
-<span class="atom-split" data-atom="025" data-title="OF THE CAUSE OF LOVE (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF LOVE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="OF THE CAUSE OF LOVE (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF LOVE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/passion,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the cause of love: and under this head there are four points of inquiry:
 (1) Whether good is the only cause of love?
@@ -1374,7 +1385,7 @@ Dobbiamo ora considerare la causa dell’amore: e in questo ambito ci sono quatt
 (3) La somiglianza è una causa dell’amore?
 (4) Esiste qualche altra passione dell’anima che possa essere considerata causa dell’amore?
 
-<span class="atom-split" data-atom="026" data-title="Whether good is the only cause of love?" data-chapter="Whether good is the only cause of love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="Whether good is the only cause of love?" data-chapter="Whether good is the only cause of love?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that good is not the only cause of love. For good does not cause
 love, except because it is loved. But it happens that evil also is loved, according to Ps. 10:6: "He
@@ -1417,7 +1428,7 @@ and beautiful odors. Thus it is evident that [beauty](/concepts/beauty) adds to 
 faculty: so that "good" means that which simply pleases the appetite; while the "beautiful" is
 something pleasant to apprehend.
 
-<span class="atom-split" data-atom="027" data-title="Whether knowledge is a cause of love?" data-chapter="Whether knowledge is a cause of love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether knowledge is a cause of love?" data-chapter="Whether knowledge is a cause of love?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that knowledge is not a cause of love. For it is due to love that a
 thing is sought. But some things are sought without being known, for instance, the sciences; for
@@ -1483,7 +1494,7 @@ Risposta all’Obiezione 2: Per la perfezione della conoscenza è necessario qua
 
 Risposta all’Obiezione 3: Anche l’amore naturale, che esiste in tutte le cose, è causato da una sorta di conoscenza; questa conoscenza, tuttavia, non esiste nelle cose stesse, ma in Colui che ha creato la loro natura, come già detto sopra (Q[26], A[1]; cfr. FP, Q[6], A[1], ad 2).
 
-<span class="atom-split" data-atom="028" data-title="Whether likeness is a cause of love?" data-chapter="Whether likeness is a cause of love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether likeness is a cause of love?" data-chapter="Whether likeness is a cause of love?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that likeness is not a cause of love. For the same thing is not the
 cause of contraries. But likeness is the cause of hatred; for it is written (Prov. 13:10) that "among
@@ -1566,7 +1577,7 @@ Risposta all’Obiezione 3: Chi ama ciò di cui ha bisogno presenta una somiglia
 
 Risposta all’Obiezione 4: Secondo la stessa analogia tra potenzialità e atto, l’uomo illiberale ama l’uomo liberale nella misura in cui si aspetta da lui qualcosa che desidera; lo stesso vale per l’uomo costante nelle sue amicizie rispetto a colui che è incostante. In entrambi i casi, infatti, l’amicizia sembra basarsi sull’utilità reciproca. Si potrebbe anche dire che, sebbene non tutti gli uomini possiedano queste virtù in modo completo, le possiedono comunque secondo determinati principi innati presenti nella ragione; per effetto di questi principi, l’uomo non virtuoso ama l’uomo virtuoso, poiché quest’ultimo è in armonia con la sua stessa natura razionale.
 
-<span class="atom-split" data-atom="029" data-title="Whether any other passion of the soul is a cause of love?" data-chapter="Whether any other passion of the soul is a cause of love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether any other passion of the soul is a cause of love?" data-chapter="Whether any other passion of the soul is a cause of love?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that some other passion can be the cause of love. For the Philosopher
 (Ethic. viii, 3) says that some are loved for the sake of the pleasure they give. But pleasure is a
@@ -1621,7 +1632,7 @@ Risposta all’Obiezione 2: Il desiderio per qualcosa presuppone sempre l’amor
 
 Risposta all’Obiezione 3: La speranza causa o aumenta l’amore; sia per via del piacere che essa provoca, sia perché rafforza il desiderio, poiché non desideriamo con tanta intensità ciò di cui non abbiamo alcuna speranza di ottenere. Tuttavia, la speranza stessa riguarda un bene che è amato.
 
-<span class="atom-split" data-atom="030" data-title="OF THE EFFECTS OF LOVE (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF LOVE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="OF THE EFFECTS OF LOVE (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF LOVE (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We now have to consider the effects of love: under which head there are six points of inquiry:
 (1) Whether union is an effect of love?
@@ -1641,7 +1652,7 @@ Dobbiamo ora considerare gli effetti dell’amore: in questa categoria esistono 
 (5) Il fatto che l’amore sia una passione dannosa per colui che la prova;
 (6) Il fatto che l’amore sia la causa di tutto ciò che colui che la prova fa.
 
-<span class="atom-split" data-atom="031" data-title="Whether union is an effect of love?" data-chapter="Whether union is an effect of love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="Whether union is an effect of love?" data-chapter="Whether union is an effect of love?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that union is not an effect of love. For absence is incompatible
 with union. But love is compatible with absence; for the Apostle says (Gal. 4:18): "Be zealous for
@@ -1719,7 +1730,7 @@ Risposta all’Obiezione 2: L’unione presenta una triplice relazione rispetto 
 
 Risposta all’Obiezione 3: La conoscenza si perfeziona quando la cosa conosciuta viene unita, attraverso la sua somiglianza, al conoscitore. Tuttavia l’effetto dell’amore è che la cosa stessa amata viene, in qualche modo, unita all’amante, come già detto sopra. Pertanto, l’unione causata dall’amore è più stretta di quella causata dalla conoscenza.
 
-<span class="atom-split" data-atom="032" data-title="Whether mutual indwelling is an effect of love?" data-chapter="Whether mutual indwelling is an effect of love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether mutual indwelling is an effect of love?" data-chapter="Whether mutual indwelling is an effect of love?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that love does not cause mutual indwelling, so that the lover be in
 the beloved and vice versa. For that which is in another is contained in it. But the same cannot be
@@ -1801,7 +1812,7 @@ Risposta all’Obiezione 2: La comprensione della ragione precede l’espression
 
 Risposta all’Obiezione 3: Questo argomento è valido per il terzo tipo di reciproca immersione emotiva, che non si riscontra in ogni forma d’amore.
 
-<span class="atom-split" data-atom="033" data-title="Whether ecstasy is an effect of love?" data-chapter="Whether ecstasy is an effect of love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether ecstasy is an effect of love?" data-chapter="Whether ecstasy is an effect of love?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that ecstasy is not an effect of love. For ecstasy seems to imply
 loss of reason. But love does not always result in loss of reason: for lovers are masters of themselves
@@ -1868,7 +1879,7 @@ Risposta all’Obiezione 2: Questo argomento si applica all’amore basato sulla
 
 Risposta all’Obiezione 3: Chi ama si espone al di fuori di sé, nella misura in cui desidera il bene del proprio amico e si impegna per realizzarlo. Tuttavia, non desidera il bene dell’amico più del proprio; pertanto, non ne consegue che ami l’altro più di se stesso.
 
-<span class="atom-split" data-atom="034" data-title="Whether zeal is an effect of love?" data-chapter="Whether zeal is an effect of love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="Whether zeal is an effect of love?" data-chapter="Whether zeal is an effect of love?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that zeal is not an effect of love. For zeal is a beginning of
 contention; wherefore it is written (1 Cor. 3:3): "Whereas there is among you zeal [Douay: 'envying']
@@ -1942,7 +1953,7 @@ Risposta all’Obiezione 2: Il bene è amato nella misura in cui può essere con
 
 Risposta all’Obiezione 3: Il fatto stesso che un uomo odii tutto ciò che è in opposizione all’oggetto del suo amore è proprio l’effetto dell’amore. Pertanto, lo zelo viene considerato un effetto dell’amore e non dell’odio.
 
-<span class="atom-split" data-atom="035" data-title="Whether love is a passion that wounds the lover?" data-chapter="Whether love is a passion that wounds the lover?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="Whether love is a passion that wounds the lover?" data-chapter="Whether love is a passion that wounds the lover?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that love wounds the lover. For languor denotes a hurt in the one
 that languishes. But love causes languor: for it is written (Cant 2:5): "Stay me up with flowers,
@@ -2003,7 +2014,7 @@ Rispondo che, come già detto sopra (Q[26], AA[1],2; Q[27], A[1]), l’amore rap
 Si debba intendere che questo discorso si riferisce all’aspetto formale dell’amore, cioè alla relazione tra la potenza appetitiva e l’oggetto amato. Tuttavia, riguardo all’aspetto materiale dell’amore, ovvero ai cambiamenti fisici che esso provoca, può accadere che tale amore sia dannoso, soprattutto quando tali cambiamenti sono eccessivi; lo stesso vale per i sensi e per qualsiasi attività dello spirito che si manifesti attraverso modificazioni degli organi corporei.  
 In risposta alle obiezioni, si possono individuare quattro effetti principali dell’amore: il rilassamento, il piacere, la tristezza e l’intensità desiderosa. Il primo di questi effetti è il “rilassamento”, che è l’opposto della rigidità; infatti, ciò che è rigido è difficile da modificare. L’amore, invece, fa sì che la potenza appetitiva sia pronta ad accogliere il bene amato, poiché l’oggetto dell’amore si trova dentro colui che ama, come già detto sopra (A[2]). Pertanto, una corazza rigida o indurita è incompatibile con l’amore; mentre un cuore rilassato indica disponibilità verso ciò che si ama. Se l’oggetto amato è presente, ne deriva piacere; se invece è assente, sorgono due emozioni: la tristezza per la sua assenza (che si manifesta come “depressione”) e un’intensa voglia di possederlo, che si esprime come “fervore”. Questi sono gli effetti dell’amore considerati dal punto di vista formale, cioè in relazione alla potenza appetitiva e al suo oggetto. Nella pratica concreta dell’amore, però, possono verificarsi altri effetti, proporzionali a quelli sopra menzionati, legati ai cambiamenti fisici che l’amore provoca nell’individuo.
 
-<span class="atom-split" data-atom="036" data-title="Whether love is cause of all that the lover does?" data-chapter="Whether love is cause of all that the lover does?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="Whether love is cause of all that the lover does?" data-chapter="Whether love is cause of all that the lover does?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the lover does not do everything from love. For love is a
 passion, as stated above (Q[26], A[2]). But man does not do everything from passion: but some
@@ -2054,7 +2065,7 @@ Risposta all’Obiezione 2: Come già detto sopra (A[5]; Q[27], A[4]), desiderio
 
 Risposta all’Obiezione 3: Anche l’odio è un risultato dell’amore, come spiegheremo più avanti (Q[29], A[2]).
 
-<span class="atom-split" data-atom="037" data-title="OF HATRED (SIX ARTICLES)" data-chapter="OF HATRED (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="OF HATRED (SIX ARTICLES)" data-chapter="OF HATRED (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider hatred: concerning which there are six points of inquiry:
 (1) Whether evil is the cause and the object of hatred?
@@ -2074,7 +2085,7 @@ Dobbiamo ora considerare l’odio: su di esso vi sono sei punti da indagare:
 (5) Se un uomo possa odiare la verità;
 (6) Se qualcosa possa essere oggetto di un odio universale.
 
-<span class="atom-split" data-atom="038" data-title="Whether evil is the cause and object of hatred?" data-chapter="Whether evil is the cause and object of hatred?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether evil is the cause and object of hatred?" data-chapter="Whether evil is the cause and object of hatred?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that evil is not the object and cause of hatred. For everything that
 exists, as such, is good. If therefore evil be the object of hatred, it follows that nothing but the lack
@@ -2137,7 +2148,7 @@ Risposta all’Obiezione 2: Proprio come una cosa può essere percepita come buo
 
 Risposta all’Obiezione 3: Per cose diverse, la stessa cosa può essere amabile o odiosa: riguardo all’appetito naturale, poiché la stessa cosa è naturalmente adatta a una cosa e naturalmente inadatta a un’altra; ad esempio, il calore è adatto al fuoco e inadatto all’acqua. Riguardo all’appetito animale, invece, la stessa cosa può essere percepita da uno come buona e da un altro come cattiva.
 
-<span class="atom-split" data-atom="039" data-title="Whether love is a cause of hatred?" data-chapter="Whether love is a cause of hatred?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether love is a cause of hatred?" data-chapter="Whether love is a cause of hatred?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/passion,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that love is not a cause of hatred. For "the opposite members of a
 division are naturally simultaneous" (Praedic. x). But love and hatred are opposite members of a
@@ -2182,7 +2193,7 @@ one term is the reason for turning away from the other. Now the appetitive movem
 rather to the order of intention than to that of execution. Wherefore love precedes hatred: because
 each is an appetitive movement.
 
-<span class="atom-split" data-atom="040" data-title="Whether hatred is stronger than love?" data-chapter="Whether hatred is stronger than love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="Whether hatred is stronger than love?" data-chapter="Whether hatred is stronger than love?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hatred is stronger than love. For [Augustine](/figures/augustine) says (QQ. 83, qu.
 36): "There is no one who does not flee from pain, more than he desires pleasure." But flight from
@@ -2239,7 +2250,7 @@ Inoltre, l’amore deve necessariamente essere, in senso assoluto, più forte de
 Tuttavia, a volte l’odio sembra essere più forte dell’amore per due motivi. Primo, perché l’odio viene provato con maggiore intensità dell’amore. Poiché la percezione sensoriale è accompagnata da un certo impatto emotivo; una volta che tale impatto viene ricevuto, non viene più percepito con la stessa intensità del momento in cui si è verificato. Per questo motivo, il calore di una febbre acuta, sebbene maggiore, non viene percepito con la stessa intensità del calore di una febbre terziana; poiché il calore della febbre acuta diventa quasi “seconda natura”. Per questo motivo, l’amore viene provato con maggiore intensità quando manca l’oggetto amato; come afferma Agostino (De Trinitate, x, 12): “L’amore si prova con maggiore intensità quando ci manca ciò che amiamo”. E per lo stesso motivo, la bruttezza di ciò che viene odiato viene percepita con maggiore intensità della bellezza di ciò che viene amato. Secondo, perché si effettua un confronto tra un odio e un amore che non sono reciprocamente corrispondenti. Poiché, a seconda dei diversi gradi di bene, esistono diversi gradi di amore che corrispondono a diversi gradi di odio; pertanto, un odio che corrisponde a un amore più forte ci spinge con maggiore intensità rispetto a un odio legato a un amore minore.  
 Ecco quindi come si può rispondere alla Prima Obiezione. Poiché l’amore per il piacere è inferiore all’amore per la autodifesa, che comporta la fuga dal dolore; pertanto, fugiamo dal dolore con maggiore intensità di quanto amiamo il piacere.
 
-<span class="atom-split" data-atom="041" data-title="Whether a man can hate himself?" data-chapter="Whether a man can hate himself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether a man can hate himself?" data-chapter="Whether a man can hate himself?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man can hate himself. For it is written (Ps. 10:6): "He that
 loveth iniquity, hateth his own soul." But many love iniquity. Therefore many hate themselves.
@@ -2296,7 +2307,7 @@ Risposta all’Obiezione 2: Nessun uomo desidera e compie atti malvagi nei propr
 
 Risposta all’Obiezione 3: Il misero odia ciò che è accidentale per lui, ma non per questo motivo odia se stesso; allo stesso modo, un uomo malato odia la propria malattia proprio perché si ama. Oppure possiamo dire che l’avarizia rende l’uomo odioso agli altri, ma non a se stesso. In realtà, l’avarizia è causata da un eccessivo amore per sé stesso: in questo caso, l’uomo desidera per sé beni temporali più di quanto sia giusto.
 
-<span class="atom-split" data-atom="042" data-title="Whether a man can hate the truth?" data-chapter="Whether a man can hate the truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether a man can hate the truth?" data-chapter="Whether a man can hate the truth?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man cannot hate the truth. For good, true, and being are
 convertible. But a man cannot hate good. Neither, therefore, can he hate the truth.
@@ -2340,7 +2351,7 @@ so far as it hinders one from accomplishing one's desire.
 Reply to Objection 3: The reason why we love those who are straightforward is that they make
 known the truth, and the knowledge of the truth, considered in itself, is a desirable thing.
 
-<span class="atom-split" data-atom="043" data-title="Whether anything can be an object of universal hatred?" data-chapter="Whether anything can be an object of universal hatred?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether anything can be an object of universal hatred?" data-chapter="Whether anything can be an object of universal hatred?" data-kind="atom" data-srclang="en" data-tags="assi/universals,concepts/anger"></span>
 
 Objection 1: It would seem that a thing cannot be an object of universal hatred. Because hatred
 is a passion of the sensitive appetite, which is moved by an apprehension in the senses. But the
@@ -2404,7 +2415,7 @@ Risposta all’Obiezione 2: Ciò che è comune a tutti non può costituire motiv
 
 Risposta all’Obiezione 3: Questo argomento considera l’universale dal punto di vista della sua universalità; pertanto, non rientra nell’ambito dell’intuizione sensibile né del desiderio umano.
 
-<span class="atom-split" data-atom="044" data-title="OF CONCUPISCENCE (FOUR ARTICLES)" data-chapter="OF CONCUPISCENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="OF CONCUPISCENCE (FOUR ARTICLES)" data-chapter="OF CONCUPISCENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/concupiscence,concepts/passion,concepts/nature,concepts/infinity,forms/quaestio"></span>
 
 We have now to consider [concupiscence](/concepts/concupiscence): under which head there are four points of inquiry:
 (1) Whether concupiscence is in the sensitive appetite only?
@@ -2420,7 +2431,7 @@ Dobbiamo ora considerare la [concupiscenza](/concepts/concupiscence): sotto ques
 (3) Se alcune forme di concupiscenza siano naturali e altre no;
 (4) Se la concupiscenza possa essere infinita.
 
-<span class="atom-split" data-atom="045" data-title="Whether concupiscence is in the sensitive appetite only?" data-chapter="Whether concupiscence is in the sensitive appetite only?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether concupiscence is in the sensitive appetite only?" data-chapter="Whether concupiscence is in the sensitive appetite only?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that concupiscence is not only in the sensitive appetite. For there
 is a concupiscence of wisdom, according to Wis. 6:21: "The concupiscence [Douay: 'desire'] of
@@ -2485,7 +2496,7 @@ Risposta all’Obiezione 2: In senso proprio, il desiderio può esistere non sol
 
 Risposta all’Obiezione 3: Spetta a ciascuna facoltà dell’anima cercare il proprio bene naturale attraverso l’appetito naturale, che non deriva dall’intellezione. Tuttavia, il desiderio di bene, prodotto dall’appetito animale e derivante dall’intellezione, appartiene esclusivamente alla facoltà appetitiva. Invece, il desiderare qualcosa in quanto piacevole ai sensi – che costituisce propriamente la concupiscenza – appartiene alla facoltà concupiscente.
 
-<span class="atom-split" data-atom="046" data-title="Whether concupiscence is a specific passion?" data-chapter="Whether concupiscence is a specific passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether concupiscence is a specific passion?" data-chapter="Whether concupiscence is a specific passion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that concupiscence is not a specific passion of the concupiscible
 power. For passions are distinguished by their objects. But the object of the concupiscible power
@@ -2559,7 +2570,7 @@ Risposta all’Obiezione 2: Nel passaggio citato si tratta di predicati causali,
 
 Risposta all’Obiezione 3: La passione che è direttamente contraria alla concupiscenza non ha nome e si rapporta al male, così come la concupiscenza si rapporta al bene. Tuttavia, poiché, proprio come la paura, riguarda il male assente, a volte viene chiamata “paura”, proprio come la speranza viene talvolta definita “desiderio”. Infatti, un piccolo bene o un piccolo male vengono considerati come nulla; di conseguenza, ogni movimento dell’appetito verso un bene o un male futuro viene chiamato speranza o paura, poiché entrambi riguardano il bene e il male come qualcosa di difficile da ottenere.
 
-<span class="atom-split" data-atom="047" data-title="Whether some concupiscences are natural, and some not natural?" data-chapter="Whether some concupiscences are natural, and some not natural?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Whether some concupiscences are natural, and some not natural?" data-chapter="Whether some concupiscences are natural, and some not natural?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that concupiscences are not divided into those which are natural
 and those which are not. For [concupiscence](/concepts/concupiscence) belongs to the animal appetite, as stated above (A[1],
@@ -2632,7 +2643,7 @@ Risposta all’Obiezione 2: La differenza tra quelle concupiscenze che sono natu
 
 Risposta all’Obiezione 3: L’uomo dispone non solo di una ragione universale, relativa alla facoltà intellettiva, ma anche di una ragione particolare, relativa alla facoltà sensitiva, come affermato nel “Filosofo Politico”, Q[78], A[4] e Q[81], A[3]; pertanto anche la concupiscenza razionale può riguardare l’appetito sensibile. Inoltre, l’appetito sensibile può essere mosso anche dalla ragione universale, attraverso il mezzo dell’immaginazione particolare.
 
-<span class="atom-split" data-atom="048" data-title="Whether concupiscence is infinite?" data-chapter="Whether concupiscence is infinite?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="Whether concupiscence is infinite?" data-chapter="Whether concupiscence is infinite?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that concupiscence is not infinite. For the object of concupiscence
 is good, which has the aspect of an end. But where there is [infinity](/concepts/infinity) there is no end (Metaph. ii, 2).
@@ -2700,7 +2711,7 @@ Risposta all’Obiezione 2: La ragione possiede, in un certo senso, un potere in
 
 Risposta all’Obiezione 3: Affinché un uomo provi piacere, non è necessario che realizzi tutto ciò che desidera; egli prova infatti piacere nella realizzazione di ciascun oggetto del proprio desiderio.
 
-<span class="atom-split" data-atom="049" data-title="OF DELIGHT CONSIDERED IN ITSELF [*Or, Pleasure] (EIGHT ARTICLES)" data-chapter="OF DELIGHT CONSIDERED IN ITSELF [*Or, Pleasure] (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="OF DELIGHT CONSIDERED IN ITSELF [*Or, Pleasure] (EIGHT ARTICLES)" data-chapter="OF DELIGHT CONSIDERED IN ITSELF [*Or, Pleasure] (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/pleasure,concepts/passion,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider delight and sadness. Concerning delight four things must be considered:
 (1) Delight in itself; (2) The causes of delight; (3) Its effects; (4) Its goodness and malice.
@@ -2730,7 +2741,7 @@ Dobbiamo ora considerare la gioia e il dolore. Per quanto riguarda la gioia, son
 (7) Se esistano piaceri non naturali;  
 (8) Se un certo tipo di gioia possa essere contrario a un altro.
 
-<span class="atom-split" data-atom="050" data-title="Whether delight is a passion?" data-chapter="Whether delight is a passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="Whether delight is a passion?" data-chapter="Whether delight is a passion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that delight is not a passion. For Damascene (De Fide Orth. ii, 22)
 distinguishes operation from passion, and says that "operation is a movement in accord with nature,
@@ -2790,7 +2801,7 @@ which have a corruptive and evil tendency, such as bodily ailments, as also sadn
 soul; yet some passions have a tendency to something good, as stated above (Q[23], AA[1],4): and
 in this sense delight is called a passion.
 
-<span class="atom-split" data-atom="051" data-title="Whether delight is in time?" data-chapter="Whether delight is in time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="Whether delight is in time?" data-chapter="Whether delight is in time?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that delight is in time. For "delight is a kind of movement," as the
 Philosopher says (Rhet. i, 11). But all movement is in time. Therefore delight is in time.
@@ -2849,7 +2860,7 @@ Risposta all’Obiezione 2: Si dice che la gioia sia duratura o malinconica a se
 
 Risposta all’Obiezione 3: Le altre passioni non hanno come oggetto un bene ottenuto, come invece avviene con la gioia. Pertanto, in esse c’è un elemento di imperfezione maggiore rispetto alla gioia; di conseguenza, è proprio della gioia il non essere legata al tempo.
 
-<span class="atom-split" data-atom="052" data-title="Whether delight differs from joy?" data-chapter="Whether delight differs from joy?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="Whether delight differs from joy?" data-chapter="Whether delight differs from joy?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that delight is altogether the same as joy. Because the passions of
 the soul differ according to their objects. But delight and joy have the same object, namely, a good
@@ -2914,7 +2925,7 @@ Risposta all’Obiezione 2: Una differenza simile si osserva anche nelle concupi
 
 Risposta all’Obiezione 3: Questi altri [nomi](/positions/nominalism) che riguardano la gioia derivano dagli effetti stessi della gioia; infatti, “laetitia” [gioia] deriva dalla “dilatazione” del cuore, come se si dicesse semplicemente “latitia”; “esultazione” deriva dai segni esteriori di una gioia interiore che si manifestano all’esterno, nel momento in cui la felicità interiore trascende i suoi limiti; e “allegria” viene definita così a causa di certi segni e effetti specifici della gioia. Tuttavia, tutti questi nomi sembrano riferirsi comunque alla gioia stessa; infatti, non li utilizziamo se non quando parliamo di esseri razionali.
 
-<span class="atom-split" data-atom="053" data-title="Whether delight is in the intellectual appetite?" data-chapter="Whether delight is in the intellectual appetite?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="Whether delight is in the intellectual appetite?" data-chapter="Whether delight is in the intellectual appetite?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that delight is not in the intellectual appetite. Because the
 Philosopher says (Rhet. i, 11) that "delight is a sensible movement." But sensible movement is not
@@ -2975,7 +2986,7 @@ Risposta all’Obiezione 2: Il piacere ha il carattere di passione, in senso pro
 
 Risposta all’Obiezione 3: In noi esiste la gioia, non solo in comune con gli animali privi di parola, ma anche in comune con gli angeli. Per questo Dionigi dice (De Coel. Hier.) che “gli uomini santi spesso partecipano alle gioie angeliche”. Pertanto, abbiamo gioia non soltanto nell’appetito sensibile, che condividiamo con gli animali privi di parola, ma anche nell’appetito intellettuale, che condividiamo con gli angeli.
 
-<span class="atom-split" data-atom="054" data-title="Whether bodily and sensible pleasures are greater than spiritual and intellectual pleasures?" data-chapter="Whether bodily and sensible pleasures are greater than spiritual and intellectual pleasures?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="Whether bodily and sensible pleasures are greater than spiritual and intellectual pleasures?" data-chapter="Whether bodily and sensible pleasures are greater than spiritual and intellectual pleasures?" data-kind="atom" data-srclang="en" data-tags="positions/pleasure,concepts/soul,concepts/passion,figures/aristotle,figures/augustine"></span>
 
 Objection 1: It would seem that bodily and sensible pleasures are greater than spiritual and
 intelligible pleasures. For all men seek some pleasure, according to the Philosopher (Ethic. x, 2,4).
@@ -3066,7 +3077,7 @@ Risposta all’Obiezione 2: La trasformazione fisica deriva soprattutto dai piac
 
 Risposta all’Obiezione 3: I piaceri corporei si realizzano attraverso la facoltà sensibile, che è governata dalla ragione; pertanto necessitano di essere moderati e controllati dalla ragione stessa. I piaceri spirituali, invece, risiedono nella mente, che è essa stessa il principio guida; per questo motivo sono di per sé sobri e moderati.
 
-<span class="atom-split" data-atom="055" data-title="Whether the pleasures of touch are greater than the pleasures afforded by the other senses?" data-chapter="Whether the pleasures of touch are greater than the pleasures afforded by the other senses?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Whether the pleasures of touch are greater than the pleasures afforded by the other senses?" data-chapter="Whether the pleasures of touch are greater than the pleasures afforded by the other senses?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the pleasures of touch are not greater than the pleasures afforded
 by the other senses. Because the greatest pleasure seems to be that without which all joy is at an
@@ -3144,7 +3155,7 @@ Risposta all’Obiezione 2: La vista è quella che viene amata di più, “per v
 
 Risposta all’Obiezione 3: Il piacere provoca l’amore carnale in un modo; la vista, in un altro. Infatti, il piacere, soprattutto quello derivante dal contatto fisico, è la [causa finale](/concepts/four_causes) dell’amicizia nata dall’apprezzamento di ciò che è piacevole; mentre la vista rappresenta una causa che dà origine a un movimento, nel senso che chi guarda, vedendo l’oggetto amabile, riceve l’impressione della sua immagine, il che lo spinge ad amarlo e a cercarne il piacere.
 
-<span class="atom-split" data-atom="056" data-title="Whether any pleasure is not natural?" data-chapter="Whether any pleasure is not natural?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="Whether any pleasure is not natural?" data-chapter="Whether any pleasure is not natural?" data-kind="atom" data-srclang="en" data-tags="assi/human_nature,positions/pleasure,concepts/custom,concepts/nature,concepts/reason"></span>
 
 Objection 1: It would seem that no pleasure is not natural. For pleasure is to the emotions of
 the soul what repose is to bodies. But the appetite of a natural body does not repose save in a
@@ -3197,7 +3208,7 @@ Al contrario, il Filosofo afferma (Etica, VII, 5, 6) che alcune cose sono piacev
 
 Rispondo che parliamo di ciò che è “naturale” nel senso di ciò che è in armonia con la natura, come affermato nella Physica ii, 1. Ora, nell’uomo, il concetto di natura può essere inteso in due modi. In primo luogo, poiché l’intelletto e la ragione costituiscono la parte principale della natura umana, ciò che deriva da queste facoltà può essere considerato “naturale” per l’uomo: ad esempio, è naturale per lui godere nel contemplare la verità o nell’eseguire atti di virtù. In secondo luogo, il concetto di natura può essere inteso anche in contrapposizione alla ragione, indicando ciò che è comune all’uomo e ad altri animali, soprattutto quella parte dell’essere umano che non obbedisce alla ragione. In questo senso, ciò che serve alla conservazione del corpo – sia a livello individuale (cibo, bevande, sonno, ecc.) sia a livello della specie (relazioni sessuali) – può essere considerato fonte di piacere naturale per l’uomo. Tuttavia, all’interno di ciascun tipo di piacere, esistono casi in cui ciò che è “naturale” in senso assoluto diventa, in qualche modo, “contranaturale”. Ciò può accadere a causa di una corruzione delle leggi naturali insite nell’individuo: ad esempio, per un uomo affetto da febbre, le cose dolci possono sembrare amare, e viceversa. Tale corruzione può derivare dal corpo (a causa di malattie) o dall’anima (a causa di abitudini viziose). In tal caso, ciò che non è naturale per l’uomo diventa, in quel particolare individuo, “contranaturale”. Questo spiega sufficientemente le obiezioni sollevate.
 
-<span class="atom-split" data-atom="057" data-title="Whether one pleasure can be contrary to another?" data-chapter="Whether one pleasure can be contrary to another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Whether one pleasure can be contrary to another?" data-chapter="Whether one pleasure can be contrary to another?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that one pleasure cannot be contrary to another. Because the passions
 of the soul derive their species and contrariety from their objects. Now the object of pleasure is the
@@ -3259,7 +3270,7 @@ Risposta all’Obiezione 2: Il piacere, tra le emozioni dell’anima, può esser
 
 Risposta all’Obiezione 3: Le cose che ci procurano piacere, poiché sono gli oggetti di tale piacere, causano non solo una differenza materiale, ma anche una differenza formale, qualora la “formalità” del piacevole sia diversa. Poiché una differenza nell’oggetto formale determina una differenza specifica negli atti e nelle passioni, come già affermato in precedenza (Q[23], AA[1],4; Q[30], A[2]).
 
-<span class="atom-split" data-atom="058" data-title="OF THE CAUSE OF PLEASURE (EIGHT ARTICLES)" data-chapter="OF THE CAUSE OF PLEASURE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="058" data-title="OF THE CAUSE OF PLEASURE (EIGHT ARTICLES)" data-chapter="OF THE CAUSE OF PLEASURE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the causes of pleasure: and under this head there are eight points of
 inquiry:
@@ -3284,7 +3295,7 @@ Dobbiamo ora considerare le cause del piacere: e in questo ambito ci sono otto p
 (7) Il fatto che la somiglianza tra persone possa generare piacere;
 (8) Il fatto che lo [stupore](/concepts/memory) possa essere una causa di piacere.
 
-<span class="atom-split" data-atom="059" data-title="Whether operation is the proper cause of pleasure?" data-chapter="Whether operation is the proper cause of pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="059" data-title="Whether operation is the proper cause of pleasure?" data-chapter="Whether operation is the proper cause of pleasure?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that operation is not the proper and first cause of pleasure. For, as
 the Philosopher says (Rhet. i, 11), "pleasure consists in a perception of the senses," since knowledge
@@ -3344,7 +3355,7 @@ Risposta all’Obiezione 2: Anche quando non si tratta di un’operazione in sé
 
 Risposta all’Obiezione 3: Le attività sono piacevoli nella misura in cui siano proporzionali e conformi alle capacità naturali dell’individuo. Poiché la forza umana è finita, le attività sono proporzionali a essa entro certi limiti. Se tali limiti vengono superati, le attività non saranno più proporzionali né piacevoli, ma, al contrario, dolorose e sgradevoli. In questo senso, il riposo, i giochi e altre attività legate al relax sono piacevoli perché eliminano la tristezza derivante dal lavoro.
 
-<span class="atom-split" data-atom="060" data-title="Whether movement is a cause of pleasure?" data-chapter="Whether movement is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether movement is a cause of pleasure?" data-chapter="Whether movement is a cause of pleasure?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that movement is not a cause of pleasure. Because, as stated above
 (Q[31], A[1]), the good which is obtained and is actually possessed, is the cause of pleasure:
@@ -3426,7 +3437,7 @@ Risposta all’Obiezione 2: Il movimento provoca fatica e stanchezza quando supe
 
 Risposta all’Obiezione 3: Ciò che è consuetudine diventa piacevole, nella misura in cui diventa naturale; infatti la consuetudine è come una seconda natura. Ma il movimento che provoca piacere non è quello che si discosta dalla consuetudine, bensì quello che impedisce la corruzione del modo naturale di essere, che potrebbe derivare da un’azione continua dello stesso. E così, per la stessa ragione di connaturalità, sia la consuetudine che il movimento diventano piacevoli.
 
-<span class="atom-split" data-atom="061" data-title="Whether hope and memory causes pleasure?" data-chapter="Whether hope and memory causes pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Whether hope and memory causes pleasure?" data-chapter="Whether hope and memory causes pleasure?" data-kind="atom" data-srclang="en" data-tags="positions/pleasure,concepts/memory,concepts/concupiscence,forms/quaestio"></span>
 
 Objection 1: It would seem that [memory](/concepts/memory) and hope do not cause pleasure. Because pleasure is
 caused by present good, as Damascene says (De Fide Orth. ii, 12). But hope and memory regard
@@ -3489,7 +3500,7 @@ Risposta all’Obiezione 2: Niente impedisce che la stessa cosa, in modi diversi
 
 Risposta all’Obiezione 3: L’amore e la [concupiscenza](/concepts/concupiscence) causano anch’essi piacere. Infatti, tutto ciò che è amato diventa gradito a colui che ama, poiché l’amore rappresenta una sorta di unione o affinità naturale tra l’amante e la persona amata. Allo stesso modo, ogni oggetto del desiderio è piacevole per chi lo desidera, poiché il desiderio consiste principalmente nel bramare il piacere. Tuttavia, la speranza, in quanto implica una certezza della reale presenza di quel bene gradito – qualcosa che né l’amore né la concupiscenza implicano – viene considerata più efficace di loro nel causare piacere; lo è anche rispetto alla memoria, che riguarda ciò che è già passato.
 
-<span class="atom-split" data-atom="062" data-title="Whether sadness causes pleasure?" data-chapter="Whether sadness causes pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="062" data-title="Whether sadness causes pleasure?" data-chapter="Whether sadness causes pleasure?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sadness does not cause pleasure. For nothing causes its own
 contrary. But sadness is contrary to pleasure. Therefore it does not cause it.
@@ -3528,7 +3539,7 @@ recollection of pleasant things, by reason of these being lost, may cause sadnes
 Reply to Objection 3: Hatred also can be the accidental cause of love: i.e. so far as some love
 one another, inasmuch as they agree in hating one and the same thing.
 
-<span class="atom-split" data-atom="063" data-title="Whether the actions of others are a cause of pleasure to us?" data-chapter="Whether the actions of others are a cause of pleasure to us?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether the actions of others are a cause of pleasure to us?" data-chapter="Whether the actions of others are a cause of pleasure to us?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the actions of others are not a cause of pleasure to us. Because
 the cause of pleasure is our own good when conjoined to us. But the actions of others are not
@@ -3592,7 +3603,7 @@ Risposta all’Obiezione 2: Questo argomento è valido per il terzo modo, ma non
 
 Risposta all’Obiezione 3: Sebbene le azioni di un altro non derivino da abitudini che esistono in me, esse producono comunque in me qualcosa che mi procura piacere; oppure mi fanno comprendere o conoscere un certo modo di pensare; o ancora derivano dall’abitudine di una persona che è unita a me attraverso l’amore.
 
-<span class="atom-split" data-atom="064" data-title="Whether doing good to another is a cause of pleasure?" data-chapter="Whether doing good to another is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="Whether doing good to another is a cause of pleasure?" data-chapter="Whether doing good to another is a cause of pleasure?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that doing good to another is not a cause of pleasure. Because
 pleasure is caused by one's obtaining one's proper good, as stated above (AA[1],5; Q[31], A[1]).
@@ -3668,7 +3679,7 @@ Risposta all’Obiezione 2: La prodigalità rappresenta un’esagerata spesa, qu
 
 Risposta all’Obiezione 3: Sconfiggere, contraddire e punire possono procurare piacere non come atti volti al male altrui, ma come azioni legate al proprio bene, che l’uomo ama molto di più del male altrui. Infatti è naturalmente piacevole sconfiggere qualcuno, poiché ci fa apprezzare la propria superiorità. Per questo motivo, tutti quei giochi in cui c’è uno sforzo per ottenere la vittoria procurano il massimo piacere; allo stesso modo, tutte le competizioni che offrono la possibilità di vincere sono fonte di gioia. Contraddire e rimproverare possono dare piacere in due modi: innanzitutto, facendo sì che una persona si consideri saggia ed eccellente, poiché è proprio dei saggi e degli anziani il compito di rimproverare; in secondo luogo, perché attraverso i rimproveri si fa del bene agli altri, il che, come già detto, provoca piacere. È anche piacevole per una persona arrabbiata punire qualcuno, poiché ritiene di eliminare un’offesa apparente causata da un torto precedente; infatti, quando una persona viene offesa, ha l’impressione di essere stata umiliata, e quindi desidera vendicarsi per rimuovere questa umiliazione. È evidente quindi che fare del bene agli altri possa essere in sé stesso fonte di piacere, mentre fare del male agli altri non lo è, se non nel caso in cui ciò sembri vantaggioso per il proprio interesse personale.
 
-<span class="atom-split" data-atom="065" data-title="Whether likeness is a cause of pleasure?" data-chapter="Whether likeness is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="Whether likeness is a cause of pleasure?" data-chapter="Whether likeness is a cause of pleasure?" data-kind="atom" data-srclang="en" data-tags="positions/pleasure,concepts/cause,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that likeness is not a cause of pleasure. Because ruling and presiding
 seem to imply a certain unlikeness. But "it is natural to take pleasure in ruling and presiding," as
@@ -3737,7 +3748,7 @@ Risposta all’Obiezione 2: Ciò che procura piacere all’uomo addolorato, anch
 
 Risposta all’Obiezione 3: I beni materiali sono condizionati da una determinata misura fissa; pertanto, l’eccesso di tali beni distrugge il vero bene, generando disgusto e tristezza, poiché è contrario al vero bene dell’uomo.
 
-<span class="atom-split" data-atom="066" data-title="Whether wonder is a cause of pleasure?" data-chapter="Whether wonder is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Whether wonder is a cause of pleasure?" data-chapter="Whether wonder is a cause of pleasure?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that wonder is not a cause of pleasure. Because wonder is the act
 of one who is ignorant of the nature of something, as Damascene says. But knowledge, rather than
@@ -3808,7 +3819,7 @@ Risposta all’Obiezione 2: Il piacere comprende due aspetti: il riposo nella bo
 
 Risposta all’Obiezione 3: È piacevole fare ciò che siamo abituati a fare, poiché questo è, per così dire, connaturale a noi. Eppure anche le cose che accadono raramente possono essere piacevoli: sia dal punto di vista della conoscenza, poiché desideriamo apprenderne di più su di esse, soprattutto quando sono straordinarie; sia dal punto di vista dell’azione, poiché “la mente è naturalmente incline ad agire con maggiore intensità nei confronti delle cose nuove”, come affermato nell’Etica, X, 4, dato che un’azione più perfetta genera una gioia più profonda.
 
-<span class="atom-split" data-atom="067" data-title="OF THE EFFECTS OF PLEASURE (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF PLEASURE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="OF THE EFFECTS OF PLEASURE (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF PLEASURE (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="positions/pleasure,concepts/reason,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the effects of pleasure; and under this head there are four points of
 inquiry:
@@ -3825,7 +3836,7 @@ Dobbiamo ora considerare gli effetti del piacere; e in questo ambito ci sono qua
 (3) Se il piacere ostacoli l’uso della ragione;  
 (4) Se il piacere perfezioni le nostre azioni.
 
-<span class="atom-split" data-atom="068" data-title="Whether expansion is an effect of pleasure?" data-chapter="Whether expansion is an effect of pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="068" data-title="Whether expansion is an effect of pleasure?" data-chapter="Whether expansion is an effect of pleasure?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that expansion is not an effect of pleasure. For expansion seems
 to pertain more to love, according to the Apostle (2 Cor. 6:11): "Our heart is enlarged." Wherefore
@@ -3888,7 +3899,7 @@ Risposta all’Obiezione 2: Il desiderio include una certa espansione derivante 
 
 Risposta all’Obiezione 3: Chi trova piacere in qualcosa la tiene saldamente a sé, aggrappandosi ad essa con tutte le sue forze; ma colui che apre il proprio cuore verso di essa è in grado di godersela appieno.
 
-<span class="atom-split" data-atom="069" data-title="Whether pleasure causes thirst or desire for itself?" data-chapter="Whether pleasure causes thirst or desire for itself?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="069" data-title="Whether pleasure causes thirst or desire for itself?" data-chapter="Whether pleasure causes thirst or desire for itself?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that pleasure does not cause desire for itself. Because all movement
 ceases when repose is reached. But pleasure is, as it were, a certain repose of the movement of
@@ -3951,7 +3962,7 @@ same time.
 
 Reply to Objection 3: Pleasures cause distaste in one way, desire in another, as stated above.
 
-<span class="atom-split" data-atom="070" data-title="Whether pleasure hinders the use of reason?" data-chapter="Whether pleasure hinders the use of reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="Whether pleasure hinders the use of reason?" data-chapter="Whether pleasure hinders the use of reason?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that pleasure does not hinder the use of reason. Because repose
 facilitates very much the due use of reason: wherefore the Philosopher says (Phys. vii, 3) that "while
@@ -4022,7 +4033,7 @@ Risposta all’Obiezione 2: Le facoltà dell’appetito e di quella di comprensi
 
 Risposta all’Obiezione 3: L’uso della ragione richiede l’appropriato utilizzo dell’immaginazione e delle altre facoltà sensibili, le quali vengono esercitate attraverso organi corporei. Pertanto, qualsiasi alterazione nel corpo ostacola l’uso della ragione, poiché interferisce con l’attività dell’immaginazione e delle altre facoltà sensibili.
 
-<span class="atom-split" data-atom="071" data-title="Whether pleasure perfects operation?" data-chapter="Whether pleasure perfects operation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Whether pleasure perfects operation?" data-chapter="Whether pleasure perfects operation?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that pleasure does not perfect operation. For every human operation
 depends on the use of reason. But pleasure hinders the use of reason, as stated above (A[3]).
@@ -4081,7 +4092,7 @@ Al contrario, il piacere che deriva dall’atto di ragionare rafforza l’uso de
 Risposta all’Obiezione 2: Come affermato nella Physica ii, 3, due cose possono essere causa l’una dell’altra, se una è la causa efficiente e l’altra la [causa finale](/concepts/four_causes). In questo modo, l’azione è la causa efficiente del piacere, mentre il piacere perfeziona l’azione in qualità di causa finale, come già detto.  
 La risposta alla Terza Obiezione è evidente, data quanto è stato esposto finora.
 
-<span class="atom-split" data-atom="072" data-title="OF THE GOODNESS AND MALICE OF PLEASURES (FOUR ARTICLES)" data-chapter="OF THE GOODNESS AND MALICE OF PLEASURES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="072" data-title="OF THE GOODNESS AND MALICE OF PLEASURES (FOUR ARTICLES)" data-chapter="OF THE GOODNESS AND MALICE OF PLEASURES (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the goodness and malice of pleasures: under which head there are four
 points of inquiry:
@@ -4098,7 +4109,7 @@ Dobbiamo ora considerare la bontà e la malvagità dei piaceri: in questa sede v
 (3) Se qualche piacere possa essere considerato il massimo bene.
 (4) Se il piacere sia la misura o il criterio con cui giudicare il bene e il male morali.
 
-<span class="atom-split" data-atom="073" data-title="Whether every pleasure is evil?" data-chapter="Whether every pleasure is evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Whether every pleasure is evil?" data-chapter="Whether every pleasure is evil?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that every pleasure is evil. For that which destroys prudence and
 hinders the use of reason, seems to be evil in itself: since man's good is to be "in accord with reason,"
@@ -4194,7 +4205,7 @@ Risposta all’Obiezione 2: L’uomo temperato non evita tutti i piaceri, ma sol
 
 Risposta all’Obiezione 3: L’arte non si occupa di tutti i tipi di bene, ma della creazione di cose esterne, come illustreremo più avanti (Q[57], A[3]). Tuttavia, le azioni e le passioni, che risiedono in noi stessi, rientrano piuttosto nell’ambito della prudenza e della virtù che dell’arte. Ciononostante, esiste un’arte volta a generare piacere, ovvero “l’arte culinaria e l’arte di argomentare”, come indicato nell’Etica, VII, 12.
 
-<span class="atom-split" data-atom="074" data-title="Whether every pleasure is good?" data-chapter="Whether every pleasure is good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="Whether every pleasure is good?" data-chapter="Whether every pleasure is good?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that every pleasure is good. Because as stated in the FP, Q[5], A[6]
 there are three kinds of good: the virtuous, the useful, and the pleasant. But everything virtuous is
@@ -4261,7 +4272,7 @@ Risposta all’Obiezione 2: Il motivo per cui il piacere non viene cercato al fi
 
 Risposta all’Obiezione 3: Tutte le cose cercano il piacere nello stesso modo in cui cercano il bene, poiché il piacere rappresenta il riposo dell’appetito verso il bene. Tuttavia, proprio come non ogni bene desiderato è di per sé e veramente buono, allo stesso modo non ogni piacere è di per sé e veramente buono.
 
-<span class="atom-split" data-atom="075" data-title="Whether any pleasure is the greatest good?" data-chapter="Whether any pleasure is the greatest good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Whether any pleasure is the greatest good?" data-chapter="Whether any pleasure is the greatest good?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that no pleasure is the greatest good. Because nothing generated
 is the greatest good: since generation cannot be the last end. But pleasure is a consequence of
@@ -4296,7 +4307,7 @@ Secondly, because by greatest good he understood that which is the supreme good 
 the good as existing apart from, and unparticipated by, all else, in which sense God is the Supreme
 Good; whereas we are speaking of the greatest good in human things. Now the greatest good of
 everything is its last end. And the end, as stated above (Q[1], A[8]; Q[2], A[7]) is twofold; namely,
-the thing itself, and the use of that thing; thus the miser's end is either money or the possession of
+the thing itself, and the use of that thing; thus the miser's end is either [money](/concepts/money) or the [possession](/concepts/property) of
 money. Accordingly, man's last end may be said to be either God Who is the Supreme Good simply;
 or the enjoyment of God, which implies a certain pleasure in the last end. And in this sense a certain
 pleasure of man may be said to be the greatest among human goods.
@@ -4335,7 +4346,7 @@ Risposta all’Obiezione 2: Questo argomento è valido per il “massimo bene”
 
 Risposta all’Obiezione 3: Il fatto che il piacere sia il massimo bene non deriva semplicemente dal suo essere piacere, ma dal fatto che rappresenti un perfetto riposo nel perfetto bene. Pertanto, non si può concludere che ogni tipo di piacere sia di per sé supremamente buono, o addirittura buono in assoluto. Ad esempio, una certa scienza è senz’altro di grande valore, ma non tutte le scienze lo sono.
 
-<span class="atom-split" data-atom="076" data-title="Whether pleasure is the measure or rule by which to judge of moral good or evil?" data-chapter="Whether pleasure is the measure or rule by which to judge of moral good or evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Whether pleasure is the measure or rule by which to judge of moral good or evil?" data-chapter="Whether pleasure is the measure or rule by which to judge of moral good or evil?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that pleasure is not the measure or rule of moral good and evil.
 Because "that which is first in a genus is the measure of all the rest" (Metaph. x, 1). But pleasure
@@ -4384,7 +4395,7 @@ A[4]); an operation cannot be perfectly good, unless there be also pleasure in g
 goodness of a thing depends on its end. And thus, in a way, the goodness of the pleasure is the
 cause of goodness in the operation.
 
-<span class="atom-split" data-atom="077" data-title="OF PAIN OR SORROW, IN ITSELF (EIGHT ARTICLES)" data-chapter="OF PAIN OR SORROW, IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="077" data-title="OF PAIN OR SORROW, IN ITSELF (EIGHT ARTICLES)" data-chapter="OF PAIN OR SORROW, IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/passion,positions/pleasure,forms/quaestio,schools/scholasticism"></span>
 
 We have now to consider pain and sorrow: concerning which we must consider: (1) Sorrow or
 pain in itself; (2) Its cause; (3) Its effects; (4) Its remedies; (5) Its goodness or malice.
@@ -4411,7 +4422,7 @@ All’interno della prima categoria di indagini vi sono otto punti da esaminare:
 (7) Se il dolore esterno sia più intenso di quello interno;  
 (8) Le diverse tipologie di tristezza.
 
-<span class="atom-split" data-atom="078" data-title="Whether pain is a passion of the soul?" data-chapter="Whether pain is a passion of the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="Whether pain is a passion of the soul?" data-chapter="Whether pain is a passion of the soul?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that pain is not a passion of the soul. Because no passion of the
 soul is in the body. But pain can be in the body, since [Augustine](/figures/augustine) says (De Vera Relig. xii), that
@@ -4480,7 +4491,7 @@ Risposta all’Obiezione 2: Parliamo del dolore dei sensi, non come se fosse un 
 
 Risposta all’Obiezione 3: Il dolore derivante dalla perdita di qualcosa di buono dimostra la bontà della natura umana, non perché il dolore sia un’espressione dell’appetito naturale, ma perché la natura desidera ciò che è considerato buono; e quando questa perdita viene percepita, ne deriva il sentimento di dolore nell’appetito sensibile.
 
-<span class="atom-split" data-atom="079" data-title="Whether sorrow is the same as pain?" data-chapter="Whether sorrow is the same as pain?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="079" data-title="Whether sorrow is the same as pain?" data-chapter="Whether sorrow is the same as pain?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,schools/scholasticism,concepts/passion,positions/pleasure,concepts/suffering,figures/augustine"></span>
 
 Objection 1: It would seem that sorrow is not pain. For [Augustine](/figures/augustine) says (De Civ. Dei xiv, 7)
 that "pain is used to express bodily suffering." But sorrow is used more in reference to the soul.
@@ -4528,7 +4539,7 @@ contrasted with sorrow, according to the distinction of interior and exterior ap
 on the part of the objects, pleasure extends further than does bodily pain. But if pain be taken in a
 wide sense, then it is the genus of sorrow, as stated above.
 
-<span class="atom-split" data-atom="080" data-title="Whether sorrow or pain is contrary to pleasure?" data-chapter="Whether sorrow or pain is contrary to pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="080" data-title="Whether sorrow or pain is contrary to pleasure?" data-chapter="Whether sorrow or pain is contrary to pleasure?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sorrow is not contrary to pleasure. For one of two contraries
 is not the cause of the other. But sorrow can be the cause of pleasure; for it is written (Mat. 5:5):
@@ -4595,7 +4606,7 @@ Risposta all’Obiezione 2: Il dolore stesso può essere piacevole in modo accid
 
 Risposta all’Obiezione 3: La volontà e la ragione riflettono sui propri atti, nella misura in cui tali atti vengono considerati dal punto di vista del bene o del male. In questo modo, il dolore può diventare oggetto di piacere, o viceversa; non essenzialmente, ma accidentalmente: cioè, nella misura in cui uno qualsiasi di questi due fenomeni venga considerato dal punto di vista del bene o del male.
 
-<span class="atom-split" data-atom="081" data-title="Whether all sorrow is contrary to all pleasure?" data-chapter="Whether all sorrow is contrary to all pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether all sorrow is contrary to all pleasure?" data-chapter="Whether all sorrow is contrary to all pleasure?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all sorrow is contrary to all pleasure. Because, just as whiteness
 and blackness are contrary species of color, so pleasure and sorrow are contrary species of the soul's
@@ -4675,7 +4686,7 @@ Risposta all’Obiezione 1: La bianchezza e il nero non traggono la loro essenza
 
 Risposta all’Obiezione 2: Il genere deriva dalla materia, come affermato nella Metafisica viii, 2; negli accidenti, invece, il soggetto sostituisce la materia. Come già detto in precedenza, piacere e dolore sono genericamente contrari tra loro. Pertanto, in ogni caso di dolore, il soggetto presenta una disposizione opposta a quella del soggetto che prova piacere: infatti, nel piacere l’appetito è visto come qualcosa che viene accettato, mentre nel dolore viene considerato come qualcosa da evitare. Di conseguenza, ogni forma di piacere rappresenta un rimedio contro qualsiasi tipo di dolore, mentre ogni dolore ostacola ogni genere di piacere; soprattutto quando il piacere è specificamente opposto al dolore. Pertanto, la risposta alla Terza Obiezione risulta evidente. Oppure si può dire che, sebbene non ogni dolore sia specificamente contrario a ogni forma di piacere, essi sono comunque contrari tra loro in termini di effetti: poiché uno di questi effetti consiste nel rafforzare la natura animale, mentre l’altro provoca una sorta di disagio.
 
-<span class="atom-split" data-atom="082" data-title="Whether there is any sorrow contrary to the pleasure of contemplation?" data-chapter="Whether there is any sorrow contrary to the pleasure of contemplation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Whether there is any sorrow contrary to the pleasure of contemplation?" data-chapter="Whether there is any sorrow contrary to the pleasure of contemplation?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is a sorrow that is contrary to the pleasure of
 contemplation. For the Apostle says (2 Cor. 7:10): "The sorrow that is according to God, worketh
@@ -4766,7 +4777,7 @@ pleasure of contemplation, but is in harmony with it, as stated above.
 Reply to Objection 5: Affliction of the flesh affects contemplation accidentally and indirectly,
 as stated above.
 
-<span class="atom-split" data-atom="083" data-title="Whether sorrow is to be shunned more than pleasure is to be sought?" data-chapter="Whether sorrow is to be shunned more than pleasure is to be sought?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Whether sorrow is to be shunned more than pleasure is to be sought?" data-chapter="Whether sorrow is to be shunned more than pleasure is to be sought?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sorrow is to be shunned more than pleasure is to be sought.
 For [Augustine](/figures/augustine) says (QQ. 83, qu. 63): "There is nobody that does not shun sorrow more than he
@@ -4860,7 +4871,7 @@ Risposta all’Obiezione 2: Non è lo stesso tra il movimento che proviene dall�
 
 Risposta all’Obiezione 3: Un uomo coraggioso non viene lodato perché, in conformità con la ragione, non viene sopraffatto da alcun tipo di dolore o sofferenza, ma perché non viene sopraffatto da ciò che riguarda i pericoli della morte. Questo genere di dolore viene evitato più volentieri di quanto vengano cercati i piaceri legati al cibo o alle relazioni sessuali, i quali sono invece l’oggetto della temperanza; così la vita è amata più del cibo e dei piaceri sessuali. Ma l’uomo temperante viene lodato soprattutto per il fatto che si astiene dai piaceri legati al contatto fisico, piuttosto che perché evita i dolori che sono contrari ad essi, come affermato nell’Etica, III, 11.
 
-<span class="atom-split" data-atom="084" data-title="Whether outward pain is greater than interior sorrow?" data-chapter="Whether outward pain is greater than interior sorrow?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Whether outward pain is greater than interior sorrow?" data-chapter="Whether outward pain is greater than interior sorrow?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that outward pain is greater than interior sorrow of the heart.
 Because outward pain arises from a cause repugnant to the well-being of the body in which is life:
@@ -4942,7 +4953,7 @@ Risposta all’Obiezione 2: Il dolore interno non è causato dalla percezione de
 
 Risposta all’Obiezione 3: I cambiamenti fisici sono più suscettibili di essere causati dal dolore esterno, sia perché il dolore esterno stesso è provocato da fattori materiali che interagiscono con il corpo, e questo rappresenta una condizione necessaria per la percezione tattile; sia perché il senso esterno è di natura più materiale rispetto al senso interno, proprio come l’appetito sensibile lo è rispetto all’intelletto. Per queste ragioni, come già detto in precedenza (Q[22], A[3]; Q[31], A[5]), il corpo subisce cambiamenti più significativi a seguito dell’azione dell’appetito sensibile; e allo stesso modo, tali cambiamenti sono più evidenti a causa del dolore esterno che di quello interno.
 
-<span class="atom-split" data-atom="085" data-title="Whether there are only four species of sorrow?" data-chapter="Whether there are only four species of sorrow?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="Whether there are only four species of sorrow?" data-chapter="Whether there are only four species of sorrow?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Damascene's (De Fide Orth. ii, 14) division of sorrow into
 four species is incorrect; viz. into "torpor, distress," which Gregory of Nyssa [*Nemesius, De Nat.
@@ -5020,7 +5031,7 @@ Risposta all’Obiezione 2: Il pentimento riguarda il proprio male, che è l’o
 
 Risposta all’Obiezione 3: Questa divisione non si basa su specie opposte, ma sulla diversità delle sostanze esterne alle quali viene applicata nozione di dolore, come detto sopra.
 
-<span class="atom-split" data-atom="086" data-title="OF THE CAUSES OF SORROW OR PAIN (FOUR ARTICLES)" data-chapter="OF THE CAUSES OF SORROW OR PAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="OF THE CAUSES OF SORROW OR PAIN (FOUR ARTICLES)" data-chapter="OF THE CAUSES OF SORROW OR PAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the causes of sorrow: under which head there are four points of inquiry:
 (1) Whether sorrow is caused by the loss of a good or rather by the presence of an evil?
@@ -5036,7 +5047,7 @@ Dobbiamo ora considerare le cause del dolore: in questa categoria esistono quatt
 (3) Il bisogno di unità è una causa di dolore?
 (4) Una forza irresistibile è una causa di dolore?
 
-<span class="atom-split" data-atom="087" data-title="Whether sorrow is caused by the loss of good or by the presence of evil?" data-chapter="Whether sorrow is caused by the loss of good or by the presence of evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="Whether sorrow is caused by the loss of good or by the presence of evil?" data-chapter="Whether sorrow is caused by the loss of good or by the presence of evil?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sorrow is caused by the loss of a good rather than by the
 presence of an evil. For [Augustine](/figures/augustine) says (De viii QQ. Dulcit. qu. 1) that sorrow is caused by the
@@ -5091,7 +5102,7 @@ Reply to Objection 3: When many movements arise from one cause, it does not foll
 they all regard chiefly that which the cause regards chiefly, but only the first of them. And each of
 the others regards chiefly that which is suitable to it according to its own nature.
 
-<span class="atom-split" data-atom="088" data-title="Whether desire is a cause of sorrow?" data-chapter="Whether desire is a cause of sorrow?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="088" data-title="Whether desire is a cause of sorrow?" data-chapter="Whether desire is a cause of sorrow?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that desire is not a cause of pain or sorrow. Because sorrow of
 itself regards evil, as stated above (A[1]): whereas desire is a movement of the appetite towards
@@ -5162,7 +5173,7 @@ Risposta all’Obiezione 2: Ciò che è desiderato, pur essendo effettivamente f
 
 Risposta all’Obiezione 3: Il desiderio procura piacere, purché esista la speranza di ottenere ciò che si desidera. Tuttavia, quando questa speranza viene meno a causa dell’esistenza di un ostacolo, il desiderio provoca dolore.
 
-<span class="atom-split" data-atom="089" data-title="Whether the craving for unity is a cause of sorrow?" data-chapter="Whether the craving for unity is a cause of sorrow?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="089" data-title="Whether the craving for unity is a cause of sorrow?" data-chapter="Whether the craving for unity is a cause of sorrow?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,figures/aristotle,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the craving for unity is not a cause of sorrow. For the
 Philosopher says (Ethic. x, 3) that "this opinion," which held repletion to be the cause of pleasure,
@@ -5208,7 +5219,7 @@ Reply to Objection 3: Separation from things hurtful and corruptive is desired, 
 they destroy the unity which is due. Wherefore the desire for such like separation is not the first
 cause of sorrow, whereas the craving for unity is.
 
-<span class="atom-split" data-atom="090" data-title="Whether an irresistible power is a cause of sorrow?" data-chapter="Whether an irresistible power is a cause of sorrow?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="090" data-title="Whether an irresistible power is a cause of sorrow?" data-chapter="Whether an irresistible power is a cause of sorrow?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a greater power should not be reckoned a cause of sorrow. For
 that which is in the power of the agent is not present but future. But sorrow is for present evil.
@@ -5251,7 +5262,7 @@ Reply to Objection 3: External agents can be the causes of appetitive movements,
 they cause the presence of the object: and it is thus that a greater power is reckoned to be the cause
 of sorrow.
 
-<span class="atom-split" data-atom="091" data-title="OF THE EFFECTS OF PAIN OR SORROW (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF PAIN OR SORROW (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="091" data-title="OF THE EFFECTS OF PAIN OR SORROW (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF PAIN OR SORROW (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/passion,concepts/suffering,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the effects of pain or of sorrow: under which head there are four points
 of inquiry:
@@ -5268,7 +5279,7 @@ Dobbiamo ora considerare gli effetti del dolore o del lutto: in questa categoria
 (3) Il dolore o il lutto indeboliscono ogni forma di attività umana?  
 (4) Il lutto è più dannoso per il corpo di tutte le altre passioni dell’anima?
 
-<span class="atom-split" data-atom="092" data-title="Whether pain deprives one of the power to learn?" data-chapter="Whether pain deprives one of the power to learn?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="092" data-title="Whether pain deprives one of the power to learn?" data-chapter="Whether pain deprives one of the power to learn?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that pain does not deprive one of the power to learn. For it is written
 (Is. 26:9): "When Thou shalt do Thy judgments on the earth, the inhabitants of the world shall learn
@@ -5328,7 +5339,7 @@ sorrow be very intense, it attracts the intention, so that man is unable to lear
 time: wherefore on account of sorrow Gregory interrupted his commentary on Ezechiel (Hom. xxii
 in Ezechiel).
 
-<span class="atom-split" data-atom="093" data-title="Whether the effect of sorrow or pain is to burden the soul?" data-chapter="Whether the effect of sorrow or pain is to burden the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether the effect of sorrow or pain is to burden the soul?" data-chapter="Whether the effect of sorrow or pain is to burden the soul?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that it is not an effect of sorrow to burden the soul. For the Apostle
 says (2 Cor. 7:11): "Behold this self-same thing, that you were made sorrowful according to God,
@@ -5394,7 +5405,7 @@ Risposta all’Obiezione 2: Per quanto riguarda il movimento dell’appetito, la
 
 Risposta all’Obiezione 3: Si dice che il dolore consumi l’uomo quando la forza del male che lo colpisce è tale da escludere qualsiasi speranza di sfuggirvi; ed è proprio per questo che il dolore contemporaneamente deprime e distrugge l’individuo. Infatti, alcune cose, intese in senso metaforico, si implicano a vicenda, mentre se prese letteralmente sembrano escludersi a vicenda.
 
-<span class="atom-split" data-atom="094" data-title="Whether sorrow or pain weakens all activity?" data-chapter="Whether sorrow or pain weakens all activity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="Whether sorrow or pain weakens all activity?" data-chapter="Whether sorrow or pain weakens all activity?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sorrow does not weaken all activity. Because carefulness is
 caused by sorrow, as is clear from the passage of the Apostle quoted above (A[2], OBJ[1]). But
@@ -5436,7 +5447,7 @@ Al contrario, il Filosofo afferma (Etica, x, 4) che “il piacere perfeziona l�
 
 Rispondo che, come già detto sopra (A[2]), il dolore a volte non deprime né consuma l’anima al punto di impedire qualsiasi movimento, interno o esterno; tuttavia, alcuni movimenti sono talvolta causati proprio dal dolore stesso. Pertanto, l’azione è in relazione duplice rispetto al dolore: innanzitutto, in quanto oggetto del dolore, il quale ostacola qualsiasi azione; infatti non facciamo mai ciò che facciamo con dolore, così come non lo facciamo con piacere o senza dolore. La ragione di ciò è che la volontà è la causa delle azioni umane; quindi, quando compiamo qualcosa che provoca dolore, tale azione necessariamente ne risulta indebolita. In secondo luogo, l’azione è in relazione al dolore anche come sua fonte e causa principale: in questo caso, il dolore stesso può spingerci ad agire con maggiore determinazione; più ci addoloriamo per qualcosa, più cerchiamo di scacciare quel dolore, purché esista la speranza di riuscirci; altrimenti, da quel dolore non deriverebbe alcun movimento o azione. Da quanto detto, le risposte alle obiezioni risultano evidenti.
 
-<span class="atom-split" data-atom="095" data-title="Whether sorrow is more harmful to the body than the other passions of the soul?" data-chapter="Whether sorrow is more harmful to the body than the other passions of the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="095" data-title="Whether sorrow is more harmful to the body than the other passions of the soul?" data-chapter="Whether sorrow is more harmful to the body than the other passions of the soul?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sorrow is not most harmful to the body. For sorrow has a
 spiritual existence in the soul. But those things which have only a spiritual existence do not cause
@@ -5512,7 +5523,7 @@ Risposta all’Obiezione 2: Altre passioni implicano una trasformazione fisica c
 
 Risposta all’Obiezione 3: Una causa minore è sufficiente per ostacolare l’uso della ragione, piuttosto che per distruggere la vita; infatti osserviamo che molte malattie privano una persona dell’uso della ragione, prima ancora di privarla della vita. Tuttavia, paura e rabbia causano gravi danni al corpo, a causa del dolore che comportano e che deriva dall’assenza di ciò che si desidera. Inoltre, il dolore a volte priva anche l’uomo dell’uso della ragione: come si può vedere in coloro che, a causa del dolore, diventano vittime di melanconia o follia.
 
-<span class="atom-split" data-atom="096" data-title="OF THE REMEDIES OF SORROW OR PAIN (FIVE ARTICLES)" data-chapter="OF THE REMEDIES OF SORROW OR PAIN (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="OF THE REMEDIES OF SORROW OR PAIN (FIVE ARTICLES)" data-chapter="OF THE REMEDIES OF SORROW OR PAIN (FIVE ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the remedies of pain or sorrow: under which head there are five points
 of inquiry:
@@ -5531,7 +5542,7 @@ Dobbiamo ora considerare i rimedi al dolore o alla tristezza: in questa categori
 (4) Se vengano alleviati dalla contemplazione della verità;  
 (5) Se vengano alleviati dal sonno e dai bagni.
 
-<span class="atom-split" data-atom="097" data-title="Whether pain or sorrow is assuaged by every pleasure?" data-chapter="Whether pain or sorrow is assuaged by every pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="Whether pain or sorrow is assuaged by every pleasure?" data-chapter="Whether pain or sorrow is assuaged by every pleasure?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that not every pleasure assuages every pain or sorrow. For pleasure
 does not assuage sorrow, save in so far as it is contrary to it: for "remedies work by contraries"
@@ -5596,7 +5607,7 @@ Risposta all’Obiezione 2: I piaceri degli uomini malvagi non sono causa di dol
 
 Risposta all’Obiezione 3: Quando ci sono due cause che tendono verso movimenti opposti, ciascuna ostacola l’altra; tuttavia quella più forte e persistente prevale alla fine. Ora, quando un uomo prova dolore a causa di cose di cui ha goduto in compagnia di un amico defunto o assente, esistono due cause che generano reazioni opposte: il ricordo della morte o dell’assenza dell’amico lo spinge al dolore, mentre i beni presenti lo spingono verso la gioia. Pertanto, ciascuna di queste cause modifica l’effetto dell’altra. Tuttavia, poiché la percezione del presente agisce con maggiore forza della memoria del passato, e poiché l’amore per se stessi è più persistente dell’amore per un altro, alla fine è la gioia a sopraffare il dolore. Per questo motivo, in un passo successivo delle Confessioni (IV, 8), Agostino afferma che “il suo dolore cedette il posto alle sue precedenti gioie”.
 
-<span class="atom-split" data-atom="098" data-title="Whether pain or sorrow is assuaged by tears?" data-chapter="Whether pain or sorrow is assuaged by tears?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="098" data-title="Whether pain or sorrow is assuaged by tears?" data-chapter="Whether pain or sorrow is assuaged by tears?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that tears do not assuage sorrow. Because no effect diminishes its
 cause. But tears or groans are an effect of sorrow. Therefore they do not diminish sorrow.
@@ -5638,7 +5649,7 @@ which is fitting according to his actual state, he feels a certain amount of ple
 reason if laughter escapes a man when he is so disposed that he thinks he ought to weep, he is sorry
 for it, as having done something unbecoming to him, as [Cicero](/figures/cicero) says (De Tusc. Quaest. iii, 27).
 
-<span class="atom-split" data-atom="099" data-title="Whether pain or sorrow are assuaged by the sympathy of friends?" data-chapter="Whether pain or sorrow are assuaged by the sympathy of friends?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="099" data-title="Whether pain or sorrow are assuaged by the sympathy of friends?" data-chapter="Whether pain or sorrow are assuaged by the sympathy of friends?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the sorrow of sympathizing friends does not assuage our own
 sorrow. For contraries have contrary effects. Now as [Augustine](/figures/augustine) says (Confess. viii, 4), "when many
@@ -5691,7 +5702,7 @@ Risposta all’Obiezione 1: In entrambi i casi esiste una dimostrazione dell’e
 
 Risposta all’Obiezione 2: Il dolore stesso di quell’amico sarebbe una causa di tristezza; ma considerando la sua origine, ovvero l’amore che prova, si prova piuttosto gioia. E questo basta per rispondere alla Terza Obiezione.
 
-<span class="atom-split" data-atom="100" data-title="Whether pain and sorrow are assuaged by the contemplation of truth?" data-chapter="Whether pain and sorrow are assuaged by the contemplation of truth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="100" data-title="Whether pain and sorrow are assuaged by the contemplation of truth?" data-chapter="Whether pain and sorrow are assuaged by the contemplation of truth?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the contemplation of truth does not assuage sorrow. For it is
 written (Eccles. 1:18): "He that addeth knowledge addeth also sorrow" [Vulg.: 'labor']. But knowledge
@@ -5733,7 +5744,7 @@ Reply to Objection 3: In the powers of the soul there is an overflow from the hi
 lower powers: and accordingly, the pleasure of contemplation, which is in the higher part, overflows
 so as to mitigate even that pain which is in the senses.
 
-<span class="atom-split" data-atom="101" data-title="Whether pain and sorrow are assuaged by sleep and baths?" data-chapter="Whether pain and sorrow are assuaged by sleep and baths?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Whether pain and sorrow are assuaged by sleep and baths?" data-chapter="Whether pain and sorrow are assuaged by sleep and baths?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,positions/pleasure,concepts/suffering,figures/augustine"></span>
 
 Objection 1: It would seem that sleep and baths do not assuage sorrow. For sorrow is in the
 soul: whereas sleep and baths regard the body. Therefore they do not conduce to the assuaging of
@@ -5789,7 +5800,7 @@ Risposta all’Obiezione 2: Come già detto sopra (Q[31], A[8]), un piacere osta
 
 Risposta all’Obiezione 3: Ogni buona condizione fisica ha un certo effetto sul cuore, che rappresenta l’inizio e la fine di tutti i movimenti del corpo, come affermato nel De [CAUSA](/concepts/cause) Mot. Animal. xi.
 
-<span class="atom-split" data-atom="102" data-title="OF THE GOODNESS AND MALICE OF SORROW OR PAIN (FOUR ARTICLES)" data-chapter="OF THE GOODNESS AND MALICE OF SORROW OR PAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="OF THE GOODNESS AND MALICE OF SORROW OR PAIN (FOUR ARTICLES)" data-chapter="OF THE GOODNESS AND MALICE OF SORROW OR PAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the goodness and malice of pain or sorrow: under which head there are
 four points of inquiry:
@@ -5806,7 +5817,7 @@ Dobbiamo ora considerare la bontà o la malvagità del dolore o del lutto: in qu
 (3) Se possa essere un bene utile.
 (4) Se il dolore fisico sia il male più grande.
 
-<span class="atom-split" data-atom="103" data-title="Whether all sorrow is evil?" data-chapter="Whether all sorrow is evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="Whether all sorrow is evil?" data-chapter="Whether all sorrow is evil?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that all sorrow is evil. For Gregory of Nyssa [*Nemesius, De Nat.
 Hom. xix.] says: "All sorrow is evil, from its very nature." Now what is naturally evil, is evil always
@@ -5862,7 +5873,7 @@ Rispondo che una cosa può essere buona o cattiva in due modi: innanzitutto, con
 Risposta all’Obiezione 1: Gregorio di Nissa, nel suo *Nemesio*, parla del dolore da parte del male che lo provoca, ma non da parte della persona che lo percepisce e lo rifiuta. Da questo punto di vista, tutti evitano il dolore nella misura in cui evitano il male; tuttavia, non evitano necessariamente la percezione e il rifiuto del male stesso. Lo stesso vale per il dolore fisico: infatti, la percezione e il rifiuto del male fisico costituiscono una prova della bontà della natura umana.  
 Ciò è sufficiente per rispondere alle Seconda e Terza Obiezioni.
 
-<span class="atom-split" data-atom="104" data-title="Whether sorrow can be a virtuous good?" data-chapter="Whether sorrow can be a virtuous good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="104" data-title="Whether sorrow can be a virtuous good?" data-chapter="Whether sorrow can be a virtuous good?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sorrow is not a virtuous good. For that which leads to hell is
 not a virtuous good. But, as [Augustine](/figures/augustine) says (Gen. ad lit. xii, 33), "Jacob seems to have feared lest
@@ -5927,7 +5938,7 @@ Risposta all’Obiezione 2: Proprio come il dolore per il male deriva da una vol
 
 Risposta all’Obiezione 3: Alcune cose accadono effettivamente, non perché Dio lo voglia, ma perché permette che accadano – come ad esempio i peccati. Pertanto, una volontà che si opponga al peccato, sia in se stessi che negli altri, non è in disaccordo con la volontà divina. I mali punitivi avvengono effettivamente, anche per volere di Dio; tuttavia, non è necessario che l’uomo li desideri personalmente affinché la rettitudine della sua volontà sia garantita: basta semplicemente che non si ribelli all’ordine della giustizia divina, come già detto sopra (Q[19], A[10]).
 
-<span class="atom-split" data-atom="105" data-title="Whether sorrow can be a useful good?" data-chapter="Whether sorrow can be a useful good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="105" data-title="Whether sorrow can be a useful good?" data-chapter="Whether sorrow can be a useful good?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that sorrow cannot be a useful good. For it is written (Ecclus.
 30:25): "Sadness hath killed many, and there is no profit in it."
@@ -5992,7 +6003,7 @@ Risposta all’Obiezione 2: Proprio come qualsiasi oggetto di scelta diventa men
 
 Risposta all’Obiezione 3: Il dolore causato da un’azione ostacola quell’azione stessa; ma il dolore per la cessazione di un’azione spinge le persone a compierla con ancora maggiore impegno.
 
-<span class="atom-split" data-atom="106" data-title="Whether bodily pain is the greatest evil?" data-chapter="Whether bodily pain is the greatest evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="106" data-title="Whether bodily pain is the greatest evil?" data-chapter="Whether bodily pain is the greatest evil?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that pain is the greatest evil. Because "the worst is contrary to the
 best" (Ethic. viii, 10). But a certain pleasure is the greatest good, viz. the pleasure of bliss. Therefore
@@ -6080,7 +6091,7 @@ Ora dobbiamo considerare le passioni irascibili: (1) Speranza e disperazione; (2
 (7) Qual è l’ordine tra speranza e amore;  
 (8) Se l’amore porti all’azione.
 
-<span class="atom-split" data-atom="107" data-title="Whether hope is the same as desire of cupidity?" data-chapter="Whether hope is the same as desire of cupidity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="107" data-title="Whether hope is the same as desire of cupidity?" data-chapter="Whether hope is the same as desire of cupidity?" data-kind="atom" data-srclang="en" data-tags="concepts/passion,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hope is the same as desire or cupidity. Because hope is reckoned
 as one of the four principal passions. But [Augustine](/figures/augustine) in setting down the four principal passions
@@ -6147,7 +6158,7 @@ Risposta all’Obiezione 1: L’oggetto della speranza è il bene futuro conside
 
 Risposta all’Obiezione 3: L’oggetto della speranza non aggiunge soltanto possibilità all’oggetto del desiderio, ma anche difficoltà; ed è proprio questo che rende la speranza appartenente a un’altra facoltà umana, ovvero quella irascibile, la quale considera qualcosa come difficile, come indicato nel FP, Q[81], A[2]. Inoltre, possibilità e impossibilità non sono affatto accidentali rispetto all’oggetto della facoltà appetitiva: poiché l’appetito è un principio di movimento, e nulla viene mosso verso qualcosa se non sotto l’aspetto della possibilità; infatti, nessuno si muove verso ciò che ritiene impossibile da ottenere. Di conseguenza, la speranza differisce dal dispero in base alla distinzione tra possibile e impossibile.
 
-<span class="atom-split" data-atom="108" data-title="Whether hope is in the apprehensive or in the appetitive power?" data-chapter="Whether hope is in the apprehensive or in the appetitive power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="108" data-title="Whether hope is in the apprehensive or in the appetitive power?" data-chapter="Whether hope is in the apprehensive or in the appetitive power?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hope belongs to the cognitive power. Because hope, seemingly,
 is a kind of awaiting; for the Apostle says (Rom. 8:25): "If we hope for that which we see not; we
@@ -6217,7 +6228,7 @@ Risposta all’Obiezione 2: Quando un uomo desidera qualcosa e ritiene di poterl
 
 Risposta all’Obiezione 3: La certezza viene attribuita non solo al movimento dei sensi, ma anche a quello dell’appetito naturale; per questo diciamo che una pietra tende inevitabilmente verso il basso. Ciò è dovuto all’inerrabilità del movimento dei sensi o addirittura dell’appetito naturale, derivante dalla certezza della conoscenza che lo precede.
 
-<span class="atom-split" data-atom="109" data-title="Whether hope is in dumb animals?" data-chapter="Whether hope is in dumb animals?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="109" data-title="Whether hope is in dumb animals?" data-chapter="Whether hope is in dumb animals?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is no hope in dumb animals. Because hope is for some
 future good, as Damascene says (De Fide Orth. ii, 12). But knowledge of the future is not in the
@@ -6279,7 +6290,7 @@ Risposta all’Obiezione 2: L’oggetto della speranza non è il possibile intes
 
 Risposta all’Obiezione 3: Sebbene ciò che è futuro non rientri nell’ambito dell’oggetto della vista, tuttavia, osservando qualcosa di presente, l’appetito di un animale viene stimolato a cercare o evitare qualcosa che sarà nel futuro.
 
-<span class="atom-split" data-atom="110" data-title="Whether despair is contrary to hope?" data-chapter="Whether despair is contrary to hope?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="110" data-title="Whether despair is contrary to hope?" data-chapter="Whether despair is contrary to hope?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that despair is not contrary to hope. Because "to one thing there is
 one contrary" (Metaph. x, 5). But fear is contrary to hope. Therefore despair is not contrary to hope.
@@ -6340,7 +6351,7 @@ Risposta all’Obiezione 2: Il disperazione non considera il male in sé; talvol
 
 Risposta all’Obiezione 3: La disperazione implica non solo la privazione della speranza, ma anche un ritiro da ciò che si desidera, poiché si ritiene impossibile ottenerlo. Pertanto, la disperazione, come la speranza, presuppone il desiderio; infatti, non speriamo né ci disperiamo per ciò che non desideriamo affatto avere. Per questo motivo, sia la speranza che la disperazione riguardano entrambe il bene, che è l’oggetto del desiderio.
 
-<span class="atom-split" data-atom="111" data-title="Whether experience is a cause of hope?" data-chapter="Whether experience is a cause of hope?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="111" data-title="Whether experience is a cause of hope?" data-chapter="Whether experience is a cause of hope?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that experience is not a cause of hope. Because experience belongs
 to the cognitive power; wherefore the Philosopher says (Ethic. ii, 1) that "intellectual virtue needs
@@ -6407,7 +6418,7 @@ Risposta all’Obiezione 2: Gli anziani sono privi di speranza a causa della lor
 
 Risposta all’Obiezione 3: La follia e l’inesperienza possono, per così dire, essere causa di speranza, poiché eliminano quella conoscenza che permetterebbe di giudicare veramente qualcosa come impossibile. Pertanto, l’inesperienza è una causa di speranza, per lo stesso motivo per cui l’esperienza ne è una causa inversa.
 
-<span class="atom-split" data-atom="112" data-title="Whether hope abounds in young men and drunkards?" data-chapter="Whether hope abounds in young men and drunkards?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="112" data-title="Whether hope abounds in young men and drunkards?" data-chapter="Whether hope abounds in young men and drunkards?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that youth and drunkenness are not causes of hope. Because hope
 implies certainty and steadiness; so much so that it is compared to an anchor (Heb. 6:19). But young
@@ -6464,7 +6475,7 @@ Risposta all’Obiezione 1: Sebbene i giovani e gli uomini ubriachi manchino di 
 
 Risposta all’Obiezione 3: Non solo l’esperienza, ma anche la mancanza di esperienza rappresentano, in qualche modo, una causa di speranza, come spiegato sopra (A[5], ad 3).
 
-<span class="atom-split" data-atom="113" data-title="Whether hope is a cause of love?" data-chapter="Whether hope is a cause of love?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="113" data-title="Whether hope is a cause of love?" data-chapter="Whether hope is a cause of love?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hope is not a cause of love. Because, according to [Augustine](/figures/augustine)
 (De Civ. Dei xiv, 7,9), love is the first of the soul's emotions. But hope is an emotion of the soul.
@@ -6506,7 +6517,7 @@ Al contrario, il commento che accompagna Matteo 1:2 (“Abramo generò Isacco, e
 
 Rispondo che la speranza può riguardare due aspetti: da un lato, essa ha come oggetto il bene che si desidera; dall’altro, poiché il bene che speriamo di ottenere è qualcosa di difficile ma possibile, e spesso ciò che sembra difficile diventa possibile grazie ad altri e non per nostre forze, la speranza include anche ciò che rende possibile tale realtà. Quindi, nella misura in cui la speranza riguarda il bene che desideriamo ottenere, essa è motivata dall’amore, poiché non speriamo se non in ciò che desideriamo e amiamo. Tuttavia, quando la speranza riguarda qualcuno attraverso il quale qualcosa diventa possibile per noi, allora è l’amore a essere motivato dalla speranza, e non viceversa: poiché proprio il fatto di sperare che quel bene ci venga concesso attraverso quella persona ci spinge verso di lei come verso un bene nostro, e così iniziamo ad amarla. Al contrario, dal semplice fatto di amare qualcuno non derivi necessariamente la speranza che egli ricambi il nostro amore, se non occasionalmente, cioè nel caso in cui riteniamo che lo faccia. Pertanto, essere amati da un altro ci spinge a sperare in lui; ma il nostro amore per lui è causato dalla speranza che abbiamo in lui stesso. Ecco quindi chiaramente risolte le obiezioni sollevate.
 
-<span class="atom-split" data-atom="114" data-title="Whether hope is a help or a hindrance to action?" data-chapter="Whether hope is a help or a hindrance to action?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="114" data-title="Whether hope is a help or a hindrance to action?" data-chapter="Whether hope is a help or a hindrance to action?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that hope is not a help but a hindrance to action. Because hope
 implies security. But security begets negligence which hinders action. Therefore hope is a hindrance
@@ -6561,7 +6572,7 @@ Risposta all’Obiezione 2: La speranza, in sé, provoca piacere; è solo per ca
 
 Risposta all’Obiezione 3: Il dispero rappresenta un pericolo in guerra, poiché è legato a una certa speranza. Coloro che perdono ogni speranza di fuggire si sforzano meno di scappare e invece sperano di vendicare la propria morte; per questo motivo combattono con maggiore coraggio e diventano quindi pericolosi per il nemico.
 
-<span class="atom-split" data-atom="115" data-title="OF FEAR, IN ITSELF (FOUR ARTICLES)" data-chapter="OF FEAR, IN ITSELF (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="115" data-title="OF FEAR, IN ITSELF (FOUR ARTICLES)" data-chapter="OF FEAR, IN ITSELF (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/soul,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider, in the first place, fear; and, secondly, daring. With regard to fear, four
 things must be considered: (1) Fear, in itself; (2) Its object; (3) Its cause; (4) Its effect. Under the
@@ -6579,7 +6590,7 @@ Dobbiamo ora considerare, in primo luogo, la paura; e, in secondo luogo, il cora
 (3) Se esista una paura naturale;  
 (4) Le diverse tipologie di paura.
 
-<span class="atom-split" data-atom="116" data-title="Whether fear is a passion of the soul?" data-chapter="Whether fear is a passion of the soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="116" data-title="Whether fear is a passion of the soul?" data-chapter="Whether fear is a passion of the soul?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fear is not a passion of the soul. For Damascene says (De Fide
 Orth. iii, 23) that "fear is a power, by way of {systole}"---i.e. of contraction---"desirous of vindicating
@@ -6623,7 +6634,7 @@ the apprehension of the soul.
 Reply to Objection 3: The senses do not apprehend the future: but from apprehending the
 present, an animal is moved by natural instinct to hope for a future good, or to fear a future evil.
 
-<span class="atom-split" data-atom="117" data-title="Whether fear is a special passion?" data-chapter="Whether fear is a special passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="117" data-title="Whether fear is a special passion?" data-chapter="Whether fear is a special passion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fear is not a special passion. For [Augustine](/figures/augustine) says (QQ. 83, qu.
 33) that "the man who is not distraught by fear, is neither harassed by desire, nor wounded by
@@ -6668,7 +6679,7 @@ In like manner desire is ascribed by Damascene to fear, because just as hope ari
 of good, so fear arises from avoidance of evil; while avoidance of evil arises from the desire of
 good, as is evident from what has been said above (Q[25], A[2]; Q[29], A[2]; Q[36], A[2]).
 
-<span class="atom-split" data-atom="118" data-title="Whether there is a natural fear?" data-chapter="Whether there is a natural fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="118" data-title="Whether there is a natural fear?" data-chapter="Whether there is a natural fear?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that there is a natural fear. For Damascene says (De Fide Orth. iii,
 23) that "there is a natural fear, through the soul refusing to be severed from the body."
@@ -6727,7 +6738,7 @@ Al contrario, ciò che è naturale è comune sia alle cose animate che a quelle 
 
 Rispondo che un movimento si dice naturale perché la natura lo incoraggia. Ciò avviene in due modi: innanzitutto, quando tale movimento viene compiuto interamente dalla natura, senza alcun intervento della facoltà intellettiva; ad esempio, il movimento verso l’alto è naturale per il fuoco, e la crescita è il movimento naturale di animali e piante. In secondo luogo, un movimento si dice naturale anche quando viene compiuto interamente dalla facoltà intellettiva, purché tale facoltà sia guidata da inclinazioni innate; poiché, come già detto (Q[10], A[1]), i movimenti delle facoltà cognitive e appetitive possono essere ricondotti alla natura come al loro principio originario. In questo senso, anche gli atti della facoltà intellettiva – come il comprendere, il sentire e il ricordare – nonché i movimenti dell’appetito animale, a volte vengono considerati naturali. In questo stesso senso possiamo dire che esiste una paura naturale; essa si distingue dalla paura non naturale per la diversità del suo oggetto. Come afferma il Filosofo (Rhet. ii, 5), esiste una paura del “male corrottivo”, da cui la natura si allontana in base al proprio desiderio innato di esistere; tale paura è quindi considerata naturale. Al contrario, esiste anche una paura del “male doloroso”, che non è contraria alla natura stessa, ma piuttosto al desiderio dell’appetito; pertanto tale paura non è naturale. In questo senso abbiamo già affermato (Q[26], A[1]; Q[30], A[3]; Q[31], A[7]) che amore, desiderio e piacere possono essere divisi in naturali e non naturali. Tuttavia, nel primo significato della parola “naturale”, dobbiamo osservare che alcune passioni dell’anima vengono talvolta considerate naturali – come amore, desiderio e speranza – mentre altre non possono essere definite tali. Il motivo è che sentimenti come amore e odio, desiderio e evitamento implicano un’innata tendenza a cercare il bene o a evitare il male; tale inclinazione esiste anche nell’appetito naturale. Pertanto, l’amore è considerato un sentimento naturale; mentre desiderio e speranza possono esistere anche in cose prive di conoscenza. D’altra parte, altre passioni dell’anima indicano movimenti per i quali l’inclinazione naturale non è sufficiente: ciò può essere dovuto al fatto che la percezione o la conoscenza siano essenziali per tali sentimenti (come abbiamo detto in Q[31], AA[1],3; Q[35], A[1]), quindi cose prive di conoscenza non possono provare piacere o dolore; oppure perché tali movimenti sono contrari alla natura stessa delle inclinazioni umane – ad esempio, il disperazione ci spinge a evitare il bene a causa di difficoltà insormontabili, e la paura ci fa allontanare dal male; entrambi questi sentimenti sono in contrasto con l’inclinazione naturale. Pertanto, passioni del genere non possono essere attribuite agli esseri inanimati. Ecco quindi chiari le risposte alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="119" data-title="Whether the species of fear is suitably assigned?" data-chapter="Whether the species of fear is suitably assigned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="119" data-title="Whether the species of fear is suitably assigned?" data-chapter="Whether the species of fear is suitably assigned?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that six species of fear are unsuitably assigned by Damascene (De
 Fide Orth. ii, 15); namely, "laziness, shamefacedness, shame, amazement, stupor, and anxiety."
@@ -6819,7 +6830,7 @@ Risposta all’Obiezione 4: Non ogni meraviglia e stupore sono forme di paura, m
 
 Risposta all’Obiezione 5: Chi è colpito dallo stupore esita inizialmente ad formulare un giudizio su ciò che lo ha sorpreso, temendo di non raggiungere la verità; successivamente, però, cerca di indagare. Al contrario, chi è sopraffatto dallo stupore teme sia di giudicare in quel momento sia di cercare una spiegazione in seguito. Pertanto, lo stupore rappresenta un ostacolo alla ricerca filosofica, mentre la sorpresa può essere l’inizio di essa.
 
-<span class="atom-split" data-atom="120" data-title="OF THE OBJECT OF FEAR (SIX ARTICLES)" data-chapter="OF THE OBJECT OF FEAR (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="120" data-title="OF THE OBJECT OF FEAR (SIX ARTICLES)" data-chapter="OF THE OBJECT OF FEAR (SIX ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the object of fear: under which head there are six points of inquiry:
 (1) Whether good or evil is the object of fear?
@@ -6839,7 +6850,7 @@ Dobbiamo ora considerare l’oggetto della paura: in questa categoria esistono s
 (5) Se le cose impreviste siano particolarmente temute.
 (6) Se queste cose siano ancora più temute quando non esistono rimedi per evitarle.
 
-<span class="atom-split" data-atom="121" data-title="Whether the object of fear is good or evil?" data-chapter="Whether the object of fear is good or evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="121" data-title="Whether the object of fear is good or evil?" data-chapter="Whether the object of fear is good or evil?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that good is the object of fear. For [Augustine](/figures/augustine) says (QQ. 83, qu.
 83) that "we fear nothing save to lose what we love and possess, or not to obtain that which we
@@ -6876,7 +6887,7 @@ to do us a harm: thus a man fears another, who knows him to be guilty of a crime
 to others.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="122" data-title="Whether evil of nature is an object of fear?" data-chapter="Whether evil of nature is an object of fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="122" data-title="Whether evil of nature is an object of fear?" data-chapter="Whether evil of nature is an object of fear?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that evil of nature is not an object of fear. For the Philosopher says
 (Rhet. ii, 5) that "fear makes us take counsel." But we do not take counsel about things which
@@ -6948,7 +6959,7 @@ Risposta all’Obiezione 2: Sebbene il male di natura rappresenti sempre una min
 
 Risposta all’Obiezione 3: La morte e altri difetti della natura sono effetti della natura comune; eppure la natura individuale si ribella contro di essi nel limite delle sue possibilità. Pertanto, dall’inclinazione della natura individuale derivano dolore e sofferenza di fronte a tali mali, quando sono presenti; paura, invece, quando questi minacciano in futuro.
 
-<span class="atom-split" data-atom="123" data-title="Whether the evil of sin is an object of fear?" data-chapter="Whether the evil of sin is an object of fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="123" data-title="Whether the evil of sin is an object of fear?" data-chapter="Whether the evil of sin is an object of fear?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the evil of sin can be an object of fear. For [Augustine](/figures/augustine) says on
 the canonical Epistle of John (Tract. ix), that "by chaste fear man fears to be severed from God."
@@ -7026,7 +7037,7 @@ Risposta all’Obiezione 3: La speranza riguarda un bene che è ottenibile. Ora,
 
 Risposta all’Obiezione 4: Come già detto sopra (Q[41], A[4], ad 2,3), la vergogna non è paura dell’atto stesso di peccare, ma della disonore o dell’umiliazione che ne derivano e che sono causate da fattori esterni.
 
-<span class="atom-split" data-atom="124" data-title="Whether fear itself can be feared?" data-chapter="Whether fear itself can be feared?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="124" data-title="Whether fear itself can be feared?" data-chapter="Whether fear itself can be feared?" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/will,figures/augustine,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fear cannot be feared. For whatever is feared, is prevented
 from being lost, through fear thereof: thus a man who fears to lose his health, keeps it, through
@@ -7064,7 +7075,7 @@ cases.
 Reply to Objection 3: On account of the various kinds of fear already alluded to (ad 2) a man's
 present fear may have a future fear for its object.
 
-<span class="atom-split" data-atom="125" data-title="Whether sudden things are especially feared?" data-chapter="Whether sudden things are especially feared?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="125" data-title="Whether sudden things are especially feared?" data-chapter="Whether sudden things are especially feared?" data-kind="atom" data-srclang="en" data-tags="concepts/anger,figures/augustine,figures/cicero,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that unwonted and sudden things are not especially feared. Because,
 as hope is about good things, so fear is about evil things. But experience conduces to the increase
@@ -7113,7 +7124,7 @@ more to be evil. However, it may happen through some accident that the greatness
 hidden; for instance if the foe hides himself in ambush: and then it is true that evil inspires greater
 fear through being much thought about.
 
-<span class="atom-split" data-atom="126" data-title="Whether those things are more feared, for which there is no remedy?" data-chapter="Whether those things are more feared, for which there is no remedy?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="126" data-title="Whether those things are more feared, for which there is no remedy?" data-chapter="Whether those things are more feared, for which there is no remedy?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that those things are not more to be feared, for which there is no
 remedy. Because it is a condition of fear, that there be some hope of safety, as stated above (A[2]).
@@ -7176,7 +7187,7 @@ Risposta all’Obiezione 2: Sebbene la morte sia un male senza rimedio, poiché 
 
 Risposta all’Obiezione 3: Il filosofo parla lì di cose che sono buone in sé stesse, cioè buone per loro natura specifica. E un bene del genere non diventa migliore se dura a lungo o per sempre: la sua bontà dipende proprio dalla sua essenza intrinseca.
 
-<span class="atom-split" data-atom="127" data-title="OF THE CAUSE OF FEAR (TWO ARTICLES)" data-chapter="OF THE CAUSE OF FEAR (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="127" data-title="OF THE CAUSE OF FEAR (TWO ARTICLES)" data-chapter="OF THE CAUSE OF FEAR (TWO ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the cause of fear: under which head there are two points of inquiry:
 (1) Whether love is the cause of fear?
@@ -7188,7 +7199,7 @@ Dobbiamo ora esaminare la causa della paura: in questo ambito vi sono due aspett
 (1) Se l’amore sia la causa della paura;
 (2) Se il difetto sia la causa della paura.
 
-<span class="atom-split" data-atom="128" data-title="Whether love is the cause of fear?" data-chapter="Whether love is the cause of fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="128" data-title="Whether love is the cause of fear?" data-chapter="Whether love is the cause of fear?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that love is not the cause of fear. For that which leads to a thing is
 its cause. But "fear leads to the love of charity" as [Augustine](/figures/augustine) says on the canonical epistle of John
@@ -7258,7 +7269,7 @@ Risposta all’Obiezione 2: Colui da cui ci si aspetta il male viene effettivame
 
 Risposta all’Obiezione 3: Questo argomento è valido per ciò che rappresenta la causa effettiva del male da temere; mentre l’amore provoca paura attraverso una disposizione emotiva concreta, come già detto in precedenza.
 
-<span class="atom-split" data-atom="129" data-title="Whether defect is the cause of fear?" data-chapter="Whether defect is the cause of fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="129" data-title="Whether defect is the cause of fear?" data-chapter="Whether defect is the cause of fear?" data-kind="atom" data-srclang="en" data-tags="concepts/cause,concepts/passion,concepts/four_causes,forms/quaestio"></span>
 
 Objection 1: It would seem that defect is not a cause of fear. Because those who are in power
 are very much feared. But defect is contrary to power. Therefore defect is not a cause of fear.
@@ -7314,7 +7325,7 @@ Risposta all’Obiezione 2: Coloro che vengono già giustiziati soffrono effetti
 
 Risposta all’Obiezione 3: Coloro che si scontrano tra loro temono non a causa del potere che li rende in grado di combattere, ma a causa della mancanza di tale potere, che li priva della fiducia nella vittoria.
 
-<span class="atom-split" data-atom="130" data-title="OF THE EFFECTS OF FEAR (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF FEAR (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="130" data-title="OF THE EFFECTS OF FEAR (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF FEAR (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider the effects of fear: under which head there are four points of inquiry:
 (1) Whether fear causes contraction?
@@ -7330,7 +7341,7 @@ Dobbiamo ora considerare gli effetti della paura: in questa categoria vi sono qu
 (3) Se induce tremori;
 (4) Se ostacola l’azione.
 
-<span class="atom-split" data-atom="131" data-title="Whether fear causes contraction?" data-chapter="Whether fear causes contraction?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="131" data-title="Whether fear causes contraction?" data-chapter="Whether fear causes contraction?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/passion,concepts/anger,figures/aristotle,figures/cicero"></span>
 
 Objection 1: It would seem that fear does not cause contraction. For when contraction takes
 place, the heat and vital spirits are withdrawn inwardly. But accumulation of heat and vital spirits
@@ -7417,7 +7428,7 @@ Risposta all’Obiezione 2: Per chiunque soffra, sia uomo che animale, è natura
 
 Risposta all’Obiezione 3: I pericoli mortali sono contrari non solo al desiderio dell’anima, ma anche alla sua natura stessa. Pertanto, in simili casi di paura, si verifica una contrazione non soltanto del desiderio, ma anche della natura corporea; infatti, quando un animale viene colpito dall’immaginazione della morte, sperimenta un raccoglimento del calore verso le parti interne del corpo, come se fosse minacciato da una morte naturale. Ecco perché “coloro che temono la morte impallidiscono” (Etica, iv, 9). Tuttavia, il male che provoca la vergogna è contrario non alla natura dell’anima, ma soltanto al suo desiderio; di conseguenza, si verifica una contrazione soltanto di questo desiderio, e non della natura corporea. Anzi, l’anima, pur essendo “raccoglita” in sé stessa, è libera di far muovere gli spiriti vitali e il calore, permettendo loro di diffondersi nelle parti esterne del corpo; di conseguenza, coloro che provano vergogna arrossiscono.
 
-<span class="atom-split" data-atom="132" data-title="Whether fear makes one suitable for counsel?" data-chapter="Whether fear makes one suitable for counsel?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="132" data-title="Whether fear makes one suitable for counsel?" data-chapter="Whether fear makes one suitable for counsel?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fear does not make one suitable for counsel. For the same
 thing cannot be conducive to counsel, and a hindrance thereto. But fear hinders counsel: because
@@ -7478,7 +7489,7 @@ Risposta all’Obiezione 2: Più intensa è una passione, maggiore diventa l’o
 
 Risposta all’Obiezione 3: La speranza rende anche l’uomo un buon consigliere; infatti, come afferma il Filosofo (Retorica ii, 5), “nessuno chiede consiglio su cose di cui dispera”, né riguardo a cose impossibili, come dice nell’Etica iii, 3. Tuttavia, la paura spinge più della speranza a cercare consigli. La speranza riguarda infatti cose buone, considerate possibili da realizzare; la paura, invece, riguarda cose cattive, ritenute difficili da evitare, quindi la paura si concentra maggiormente sull’aspetto della difficoltà rispetto alla speranza. Ed è proprio in situazioni di difficoltà, soprattutto quando non ci fidiamo di noi stessi, che cerchiamo consiglio, come già detto sopra.
 
-<span class="atom-split" data-atom="133" data-title="Whether fear makes one tremble?" data-chapter="Whether fear makes one tremble?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="133" data-title="Whether fear makes one tremble?" data-chapter="Whether fear makes one tremble?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that trembling is not an effect of fear. Because trembling is
 occasioned by cold; thus we observe that a cold person trembles. Now fear does not seem to make
@@ -7536,7 +7547,7 @@ Risposta all’Obiezione 1: Quando il calore si sposta dalle parti esterne verso
 
 Risposta all’Obiezione 3: Nel momento della paura, il calore abbandona il cuore e si dirige verso il basso; per questo motivo, nelle persone spaventate, il cuore trema in modo particolare, così come gli organi collegati al petto dove si trova il cuore. Di conseguenza, coloro che hanno paura tremano soprattutto nel parlare, poiché l’arteria tracheale si trova vicino al cuore. Anche il labbro inferiore e la mandibola tremano a causa della loro connessione con il cuore; questo spiega il fenomeno del battere dei denti. Per lo stesso motivo, anche braccia e mani tremano; oppure perché tali membri sono più mobili. Per questa ragione, anche le ginocchia tremano nelle persone spaventate, come si legge in Isaia 35:3: “Rafforzate le mani deboli e stabilizzate le ginocchia tremanti”.
 
-<span class="atom-split" data-atom="134" data-title="Whether fear hinders action?" data-chapter="Whether fear hinders action?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="134" data-title="Whether fear hinders action?" data-chapter="Whether fear hinders action?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that fear hinders action. For action is hindered chiefly by a
 disturbance in the reason, which directs action. But fear disturbs reason, as stated above (A[2]).
@@ -7587,7 +7598,7 @@ Risposta all’Obiezione 2: Chi cade da una piattaforma posta in alto subisce un
 
 Risposta all’Obiezione 3: Chiunque abbia paura evita ciò che teme; pertanto, poiché la pigrizia rappresenta una paura del lavoro stesso, considerato faticoso, essa ostacola il lavoro allontanando la volontà da esso. Ma la paura di altre cose, invece, conduce all’azione, in quanto spinge la volontà a compiere ciò che permette all’uomo di sfuggire a ciò che teme.
 
-<span class="atom-split" data-atom="135" data-title="OF DARING (FOUR ARTICLES)" data-chapter="OF DARING (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="135" data-title="OF DARING (FOUR ARTICLES)" data-chapter="OF DARING (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider daring: under which head there are four points of inquiry:
 (1) Whether daring is contrary to fear?
@@ -7603,7 +7614,7 @@ Dobbiamo ora considerare il coraggio: in questo ambito vi sono quattro punti da 
 (3) Qual ne sia la causa;  
 (4) Qual ne sia l’effetto.
 
-<span class="atom-split" data-atom="136" data-title="Whether daring is contrary to fear?" data-chapter="Whether daring is contrary to fear?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="136" data-title="Whether daring is contrary to fear?" data-chapter="Whether daring is contrary to fear?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that daring is not contrary to fear. For [Augustine](/figures/augustine) says (QQ. 83,
 qu. 31) that "daring is a vice." Now vice is contrary to virtue. Since, therefore, fear is not a virtue
@@ -7660,7 +7671,7 @@ Risposta all’Obiezione 2: Da un lato, nello stesso contesto, non esistono dive
 
 Risposta all’Obiezione 3: La sicurezza non indica qualcosa di contrario alla paura, ma semplicemente l’esclusione della paura; si dice infatti che una persona sia al sicuro quando non teme nulla. Pertanto, la sicurezza è opposta alla paura come forma di privazione, mentre il coraggio ne è l’opposto diretto. E poiché la contrarietà implica sempre una privazione, anche il coraggio comporta necessariamente sicurezza.
 
-<span class="atom-split" data-atom="137" data-title="Whether daring ensues from hope?" data-chapter="Whether daring ensues from hope?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="137" data-title="Whether daring ensues from hope?" data-chapter="Whether daring ensues from hope?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that daring does not ensue from hope. Because daring regards evil
 and fearful things, as stated in Ethic. iii, 7. But hope regards good things, as stated above (Q[40],
@@ -7727,7 +7738,7 @@ Risposta all’Obiezione 2: Sebbene il bene, in senso assoluto, sia precedente a
 
 Risposta all’Obiezione 3: Sebbene l’oggetto del coraggio sia un male al quale, secondo la valutazione di colui che osa, è connesso il bene della vittoria; tuttavia il coraggio riguarda direttamente quel male, mentre la speranza riguarda il bene connesso a esso. Allo stesso modo, la disperazione riguarda direttamente il bene dal quale si allontana, mentre la paura riguarda il male connesso a esso. Pertanto, in senso proprio, il coraggio non è una parte della speranza, ma ne è l’effetto; così come la disperazione è un effetto, e non una parte, della paura. Per questa stessa ragione, il coraggio non può essere considerato una passione principale.
 
-<span class="atom-split" data-atom="138" data-title="Whether some defect is a cause of daring?" data-chapter="Whether some defect is a cause of daring?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="138" data-title="Whether some defect is a cause of daring?" data-chapter="Whether some defect is a cause of daring?" data-kind="atom" data-srclang="en" data-tags="assi/soul_body,concepts/passion,concepts/cause,concepts/suffering,figures/aristotle"></span>
 
 Objection 1: It would seem that some defect is a cause of daring. For the Philosopher says (De
 Problem. xxvii, 4) that "lovers of wine are strong and daring." But from wine ensues the effect of
@@ -7803,7 +7814,7 @@ Risposta all’Obiezione 2: Coloro che non hanno esperienza dei pericoli sono pi
 
 Risposta all’Obiezione 3: Come afferma il Filosofo (Retorica ii, 5), “coloro che sono stati ingiustamente trattati sono coraggiosi, perché ritengono che Dio venga in aiuto di coloro che soffrono ingiustizia”. È quindi evidente che nessun difetto, per sé, genera audacia, se non in modo accidentale; cioè soltanto quando a quel difetto è associata qualche forma di eccellenza, reale o immaginaria, sia in sé stessi che negli altri.
 
-<span class="atom-split" data-atom="139" data-title="Whether the brave are more eager at first than in the midst of danger?" data-chapter="Whether the brave are more eager at first than in the midst of danger?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="139" data-title="Whether the brave are more eager at first than in the midst of danger?" data-chapter="Whether the brave are more eager at first than in the midst of danger?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the daring are not more eager at first than in the midst of
 danger. Because trembling is caused by fear, which is contrary to daring, as stated above (A[1];
@@ -7873,7 +7884,7 @@ Risposta all’Obiezione 2: L’oggetto dell’amore è semplicemente il bene; p
 
 Risposta all’Obiezione 3: Il dolore non genera rabbia a meno che non esista qualche speranza, come vedremo in seguito (Q[46], A[1]). Pertanto, se il pericolo fosse tale da eliminare ogni possibilità di vittoria, la rabbia non sorgerebbe. Tuttavia, è vero che, qualora la rabbia dovesse manifestarsi, ciò comporterebbe un maggiore coraggio.
 
-<span class="atom-split" data-atom="140" data-title="OF ANGER, IN ITSELF (EIGHT ARTICLES)" data-chapter="OF ANGER, IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="140" data-title="OF ANGER, IN ITSELF (EIGHT ARTICLES)" data-chapter="OF ANGER, IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/passion,concepts/reason,forms/quaestio,schools/scholasticism"></span>
 
 We must now consider [anger](/concepts/anger): and (1) anger in itself; (2) the cause of anger and its remedy; (3)
 the effect of anger.
@@ -7900,7 +7911,7 @@ All’interno di questa prima categoria vi sono otto punti da esaminare:
 (7) Se l’ira si manifesti soltanto nei confronti di coloro con i quali abbiamo un rapporto basato sulla giustizia;  
 (8) Le diverse specie di ira.
 
-<span class="atom-split" data-atom="141" data-title="Whether anger is a special passion?" data-chapter="Whether anger is a special passion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="141" data-title="Whether anger is a special passion?" data-chapter="Whether anger is a special passion?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is not a special passion. For the irascible power takes
 its name from anger [ira]. But there are several passions in this power, not only one. Therefore
@@ -7966,7 +7977,7 @@ Risposta all’Obiezione 2: Dal semplice fatto che la rabbia sia causata da pass
 
 Risposta all’Obiezione 3: La rabbia comprende diverse passioni, non certo nel senso in cui un genere include diverse specie, ma piuttosto in base alla relazione di causa ed effetto che esiste tra queste passioni.
 
-<span class="atom-split" data-atom="142" data-title="Whether the object of anger is good or evil?" data-chapter="Whether the object of anger is good or evil?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="142" data-title="Whether the object of anger is good or evil?" data-chapter="Whether the object of anger is good or evil?" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/passion"></span>
 
 Objection 1: It would seem that the object of [anger](/concepts/anger) is evil. For Gregory of Nyssa says
 [*Nemesius, De Nat. Hom. xxi.] that anger is "the sword-bearer of desire," inasmuch, to wit, as it
@@ -8025,7 +8036,7 @@ Al contrario, [Agostino](/figures/augustine) afferma (Confessioni, II, 6) che �
 
 Rispondo che il movimento della potenza appetitiva segue un atto della potenza apprensiva. Ora, la potenza apprensiva comprende una cosa in due modi: innanzitutto, come oggetto semplice e non complesso, quando capiamo cos’è un uomo; in secondo luogo, come oggetto complesso, quando comprendiamo che la bianchezza è presente in un uomo. Di conseguenza, in entrambi i casi, la potenza appetitiva può tendere sia verso il bene che verso il male: nel primo caso, quando l’appetito segue semplicemente ciò che è buono o si allontana da ciò che è male; movimenti di questo tipo sono desiderio, speranza, piacere, dolore, e così via. Nel secondo caso, quando l’appetito riguarda un bene o un male presente in qualcuno o compiuto su di lui, cercando di ottenerlo o di evitarlo; questo è evidente nel caso dell’amore e dell’odio: amiamo qualcuno perché desideriamo che in lui ci sia del bene; odiamo qualcuno perché desideriamo che in lui ci sia del male. Lo stesso vale per la rabbia: quando siamo arrabbiati, desideriamo vendicarci di qualcuno. Pertanto, il movimento della rabbia ha una doppia tendenza: da un lato, verso la vendetta stessa, che consideriamo un bene e per cui proviamo piacere; dall’altro lato, verso la persona contro cui cerchiamo vendetta, che rappresenta qualcosa di negativo e dannoso, quindi di male. Tuttavia, dobbiamo osservare due differenze principali tra la rabbia da un lato, e l’amore e l’odio dall’altro: la prima è che la rabbia riguarda sempre due oggetti, mentre l’amore e l’odio a volte ne riguardano uno solo; la seconda è che gli oggetti dell’amore sono sempre positivi, poiché chi ama desidera il bene per l’altra persona; gli oggetti dell’odio, invece, sono sempre negativi, poiché chi odia desidera il male per l’altra persona. La rabbia, dunque, considera un oggetto sotto l’aspetto del male, ovvero la persona che odiamo, e per questo tende verso di essa con intenti vendicativi. Questo basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="143" data-title="Whether anger is in the concupiscible faculty?" data-chapter="Whether anger is in the concupiscible faculty?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="143" data-title="Whether anger is in the concupiscible faculty?" data-chapter="Whether anger is in the concupiscible faculty?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is in the concupiscible faculty. For [Cicero](/figures/cicero) says (De
 Quaest. Tusc. iv, 9) that anger is a kind of "desire." But desire is in the concupiscible faculty.
@@ -8083,7 +8094,7 @@ Risposta all’Obiezione 2: Si dice che la rabbia si trasformi in odio, non nel 
 
 Risposta all’Obiezione 3: Si dice che la rabbia sia composta da tristezza e desiderio, non nel senso che queste siano le sue parti, ma perché sono le sue cause; inoltre, come già detto in precedenza (Q[25], A[2]), si afferma che le passioni concupiscenti siano le cause delle passioni irascibili.
 
-<span class="atom-split" data-atom="144" data-title="Whether anger requires an act of reason?" data-chapter="Whether anger requires an act of reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="144" data-title="Whether anger requires an act of reason?" data-chapter="Whether anger requires an act of reason?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) does not require an act of reason. For, since anger is a
 passion, it is in the sensitive appetite. But the sensitive appetite follows an apprehension, not of
@@ -8141,7 +8152,7 @@ Risposta all’Obiezione 2: Gli animali stupidi possiedono un istinto naturale c
 
 Risposta all’Obiezione 3: Come affermato nell’Etica vii, 6, “la rabbia ascolta in parte la ragione” nel senso che questa denuncia il danno arrecato; “ma non l’ascolta completamente”, poiché non segue le regole della ragione riguardo alla misura della vendetta. Pertanto, la rabbia richiede un intervento razionale; eppure rappresenta un ostacolo allo stesso processo razionale. Per questo motivo il Filosofo afferma (De Problematis iii, 2,27) che coloro che sono completamente ubriachi, al punto di non essere in grado di utilizzare la ragione, non si arrabbiano; mentre quelli che sono leggermente ubriachi sì, poiché sono ancora in grado, sebbene con difficoltà, di formulare giudizi razionali.
 
-<span class="atom-split" data-atom="145" data-title="Whether anger is more natural than desire?" data-chapter="Whether anger is more natural than desire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="145" data-title="Whether anger is more natural than desire?" data-chapter="Whether anger is more natural than desire?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is not more natural than desire. Because it is proper to
 man to be by nature a gentle animal. But "gentleness is contrary to anger," as the Philosopher states
@@ -8220,7 +8231,7 @@ Risposta all’Obiezione 2: La ragione stessa appartiene alla natura umana; pert
 
 Risposta all’Obiezione 3: Questo argomento riguarda la rabbia e il desiderio da parte dell’oggetto in questione.
 
-<span class="atom-split" data-atom="146" data-title="Whether anger is more grievous than hatred?" data-chapter="Whether anger is more grievous than hatred?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="146" data-title="Whether anger is more grievous than hatred?" data-chapter="Whether anger is more grievous than hatred?" data-kind="atom" data-srclang="en" data-tags="concepts/anger,figures/aristotle,figures/augustine,forms/quaestio"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is more grievous than hatred. For it is written (Prov.
 27:4) that "anger hath no mercy, nor fury when it breaketh forth." But hatred sometimes has mercy.
@@ -8303,7 +8314,7 @@ Risposta all’Obiezione 2: Come già detto, un uomo arrabbiato desidera il male
 
 Risposta all’Obiezione 3: Ciò che deriva da diverse cause appare più stabile quando queste cause sono dello stesso tipo; tuttavia può accadere che una singola causa prevarrà sulle altre. L’odio, ad esempio, nasce da una causa più duratura dell’ira: l’ira infatti scaturisce da un’emozione dell’anima dovuta a un torto subito, mentre l’odio deriva da una disposizione interiore per cui si ritiene che ciò che si odia sia contrario e dannoso. Pertanto, poiché le passioni sono più transitorie delle disposizioni o degli abiti, anche l’ira è meno duratura dell’odio; sebbene l’odio stesso sia una passione che deriva da tale disposizione. Ecco perché il Filosofo afferma (Rhetorica ii, 4) che “l’odio è più incurabile dell’ira”.
 
-<span class="atom-split" data-atom="147" data-title="Whether anger is only towards those to whom one has an obligation of justice?" data-chapter="Whether anger is only towards those to whom one has an obligation of justice?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="147" data-title="Whether anger is only towards those to whom one has an obligation of justice?" data-chapter="Whether anger is only towards those to whom one has an obligation of justice?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is not only towards those to whom one has an obligation
 of justice. For there is no justice between man and irrational beings. And yet sometimes one is
@@ -8369,7 +8380,7 @@ Risposta all’Obiezione 2: Come afferma il Filosofo (Etica, v, 11), “in senso
 
 Risposta all’Obiezione 3: Il Filosofo (Retorica ii, 4) indica come una differenza tra odio e rabbia il fatto che “l’odio possa essere provato verso un intero gruppo di persone, come quando odiamo l’intera categoria dei ladri; mentre la rabbia è diretta soltanto verso un individuo”. La ragione sta nel fatto che l’odio sorge dal considerare una qualità come incompatibile con la nostra natura o disposizione interiore; ciò può riguardare sia un gruppo generale che un singolo individuo. La rabbia, invece, nasce quando qualcuno ci ha ferito con le sue azioni. Ora, poiché tutte le azioni sono compiute da individui, anche la rabbia è sempre rivolta verso un individuo specifico. Quando l’intera comunità ci danneggia, l’intera comunità viene considerata come un unico individuo [*Cfr. Q[29], A[6*.
 
-<span class="atom-split" data-atom="148" data-title="Whether the species of anger are suitably assigned?" data-chapter="Whether the species of anger are suitably assigned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="148" data-title="Whether the species of anger are suitably assigned?" data-chapter="Whether the species of anger are suitably assigned?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that Damascene (De Fide Orth. ii, 16) unsuitably assigns three
 species of anger---"wrath," "ill-will" and "rancor." For no genus derives its specific differences
@@ -8452,7 +8463,7 @@ Ora dobbiamo considerare la causa che provoca l’ira e i modi per contrastarla.
 (3) Qual è la causa dell’ira da parte della persona stessa che si arrabbia?  
 (4) Qual è la causa dell’ira da parte di quella con cui ci si scontra?
 
-<span class="atom-split" data-atom="149" data-title="Whether the motive of anger is always something done against the one who is angry?" data-chapter="Whether the motive of anger is always something done against the one who is angry?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="149" data-title="Whether the motive of anger is always something done against the one who is angry?" data-chapter="Whether the motive of anger is always something done against the one who is angry?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that the motive of [anger](/concepts/anger) is not always something done against the
 one who is angry. Because man, by sinning, can do nothing against God; since it is written (Job
@@ -8523,7 +8534,25 @@ Risposta all’Obiezione 3: Quando proviamo un grande interesse per qualcosa, la
 
 Risposta all’Obiezione 4: Il silenzio induce l’insultatore ad arrabbiarsi quando egli ritiene che esso derivi dal disprezzo, come se la sua rabbia fosse stata offesa; e un insulto è, in fondo, un atto.
 
-<span class="atom-split" data-atom="150" data-title="Whether the sole motive of anger is slight or contempt?" data-chapter="Whether the sole motive of anger is slight or contempt?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="150" data-title="Parte 150" data-chapter="" data-kind="atom" data-srclang="it" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
+
+Obiezione 1: Sembra che il disprezzo o l’insulto non siano gli unici motivi dell’[ira](/concepts/anger). Infatti, Damasceno afferma (De Fide Orth. ii, 16) che siamo arrabbiati “quando subiamo, o pensiamo di subire, un danno”. Tuttavia, è possibile subire un danno senza essere disprezzati o insultati. Pertanto, l’insulto non è l’unico motivo dell’ira.
+
+Obiezione 2: Inoltre, il desiderio di onore e il dolore provato per un insulto appartengono allo stesso soggetto. Tuttavia, gli animali muti non desiderano onore; pertanto non provano dolore quando vengono offesi. Eppure, “si infuriano quando vengono feriti”, come afferma il Filosofo (Etica, iii, 8). Quindi, un insulto non è l’unico motivo di rabbia.
+
+Obiezione 3: Inoltre, il Filosofo (Rhetorica ii, 2) enumera molte altre cause di rabbia, ad esempio: “essere dimenticati dagli altri; che gli altri gioiscano delle nostre sfortune; che vengano divulgati i nostri difetti; essere ostacolati nel fare ciò che desideriamo”. Pertanto, essere trascurati non è l’unica motivazione per provare rabbia.
+
+Al contrario, il Filosofo afferma (Retorica ii, 2) che la rabbia è “un desiderio, accompagnato dal dolore, di vendetta a causa di una presunta offesa commessa in modo indecoroso”.
+
+Rispondo che tutte le cause dell’ira si riducono alle offese. Le offese, infatti, sono di tre tipi, come indicato nella Retorica ii, 2: “disprezzo”, “trattamento sprezzante” – cioè quelli che impediscono a qualcuno di agire secondo la propria volontà – e “insolenza”. Tutti i motivi dell’ira possono essere ricondotti a questi tre tipi. Si possono addurre due ragioni a sostegno di questa tesi. Prima di tutto, perché l’ira cerca di causare danno all’altro come mezzo di vendetta giusta; pertanto, essa si manifesta quando il danno sembra giusto. Ora, la vendetta giusta viene inflitta soltanto per ciò che è stato fatto ingiustamente; quindi ciò che provoca l’ira è sempre qualcosa considerato in termini di ingiustizia. Per questo motivo il Filosofo afferma (Retorica ii, 3) che “le persone non si arrabbiano se ritengono di aver offeso qualcuno e di subire quindi una punizione meritata; poiché non c’è rabbia per ciò che è giusto”. L’offesa viene infatti inflitta in tre modi: attraverso l’ignoranza, attraverso le passioni o intenzionalmente. In particolare, si commette un’ingiustizia quando si causa danno a qualcuno con intento deliberato o malizia premeditata, come indicato nell’Etica v, 8. Per questo motivo ci arrabbiamo soprattutto con coloro che, a nostro parere, ci hanno fatto del male intenzionalmente. Se riteniamo che qualcuno ci abbia offeso per ignoranza o passione, o non ci arrabbiamo affatto, oppure lo facciamo molto meno; poiché agire per ignoranza o passione toglie alla cosa il carattere di ingiustizia e, in qualche modo, merita pietà e perdono. Al contrario, coloro che causano danno intenzionalmente sembrano peccare per disprezzo; quindi ci arrabbiamo soprattutto con loro. Per questo motivo il Filosofo afferma ancora (Retorica ii, 3) che “non ci arrabbiamo affatto, o molto poco, con coloro che agiscono per ira, poiché non sembra che abbiano agito in modo sprezzante”. La seconda ragione è che un’offesa contraddice l’eccellenza di una persona; infatti “le persone sottovalutano ciò che non merita grande attenzione” (Retorica ii, 2). Noi cerchiamo sempre qualche forma di eccellenza in tutto ciò che possediamo; pertanto, qualsiasi offesa che venga inflitta a noi e che riduca la nostra eccellenza sembra rappresentare un atto di disprezzo.
+
+Risposta all’Obiezione 1: Qualsiasi altra causa, oltre al disprezzo, attraverso la quale un uomo subisce un danno, toglie significato stesso al concetto di danno; soltanto il disprezzo o l’insulto aggiungono motivazione alla rabbia e, pertanto, costituiscono di per sé la causa della rabbia.
+
+Risposta all’Obiezione 2: Sebbene un animale muto non cerchi l’onore in sé stesso, cerca naturalmente una certa superiorità e si arrabbia di fronte a tutto ciò che potrebbe minacciarla.
+
+Risposta all’Obiezione 3: Ognuna di queste cause equivale a una sorta di disprezzo. Pertanto, l’oblio è un chiaro segno di scarsa stima per qualcuno: più pensiamo a qualcosa, più essa si imprime nella nostra memoria. Inoltre, se una persona non esita a causare dolore ad altri con le proprie parole, ciò sembra indicare che li consideri poco importanti; allo stesso modo, coloro che mostrano segni di ilarità quando un’altra persona è in difficoltà, sembrano non curarsi affatto del suo bene o del suo male. Inoltre, chi ostacola qualcuno nel realizzare i suoi desideri, senza trarne alcun vantaggio personale, probabilmente non tiene molto alla sua [amicizia](/concepts/friendship). Di conseguenza, tutte queste cose, in quanto segni di disprezzo, suscitano rabbia.
+
+<span class="atom-split" data-atom="150" data-title="Whether the sole motive of anger is slight or contempt?" data-chapter="Whether the sole motive of anger is slight or contempt?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that slight or contempt is not the sole motive of [anger](/concepts/anger). For
 Damascene says (De Fide Orth. ii, 16) that we are angry "when we suffer, or think that we are
@@ -8599,7 +8628,7 @@ Risposta all’Obiezione 2: Sebbene un animale muto non cerchi l’onore in sé 
 
 Risposta all’Obiezione 3: Ognuna di queste cause equivale a una sorta di disprezzo. Pertanto, l’oblio è un chiaro segno di scarsa stima per qualcuno: più pensiamo a qualcosa, più essa si imprime nella nostra memoria. Inoltre, se una persona non esita a causare dolore ad altri con le proprie parole, ciò sembra indicare che li consideri poco importanti; allo stesso modo, coloro che mostrano segni di ilarità quando un’altra persona è in difficoltà, sembrano non curarsi affatto del suo bene o del suo male. Inoltre, chi ostacola qualcuno nel realizzare i suoi desideri, senza trarne alcun vantaggio personale, probabilmente non tiene molto alla sua [amicizia](/concepts/friendship). Di conseguenza, tutte queste cose, in quanto segni di disprezzo, suscitano rabbia.
 
-<span class="atom-split" data-atom="151" data-title="Whether a man's excellence is the cause of his being angry?" data-chapter="Whether a man's excellence is the cause of his being angry?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="151" data-title="Whether a man's excellence is the cause of his being angry?" data-chapter="Whether a man's excellence is the cause of his being angry?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a man's excellence is not the cause of his being more easily
 angry. For the Philosopher says (Rhet. ii, 2) that "some are angry especially when they are grieved,
@@ -8658,7 +8687,7 @@ Risposta all’Obiezione 2: Se un uomo viene disprezzato in una materia in cui o
 
 Risposta all’Obiezione 3: Tutti questi fattori ostacolano l’ira nella misura in cui impediscono il dolore. Tuttavia, da un altro punto di vista, sono naturalmente propensi a provocare rabbia, poiché rendono ancora più indecoroso insultare qualcuno.
 
-<span class="atom-split" data-atom="152" data-title="Whether a person's defect is a reason for being more easily angry with him?" data-chapter="Whether a person's defect is a reason for being more easily angry with him?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="152" data-title="Whether a person's defect is a reason for being more easily angry with him?" data-chapter="Whether a person's defect is a reason for being more easily angry with him?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that a person's defect is not a reason for being more easily angry
 with him. For the Philosopher says (Rhet. ii, 3) that "we are not angry with those who confess and
@@ -8718,7 +8747,7 @@ Risposta all’Obiezione 2: Ci sono due motivi per cui la rabbia scompare alla v
 
 Risposta all’Obiezione 3: Essere disprezzati dai propri amici sembra rappresentare un’offesa ancora più grave. Pertanto, se ci disprezzano ferendoci o rifiutandosi di aiutarci, siamo arrabbiati con loro per lo stesso motivo per cui siamo arrabbiati con coloro che sono al nostro livello inferiore.
 
-<span class="atom-split" data-atom="153" data-title="OF THE EFFECTS OF ANGER (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF ANGER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="153" data-title="OF THE EFFECTS OF ANGER (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF ANGER (FOUR ARTICLES)" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/passion,forms/quaestio"></span>
 
 We must now consider the effects of [anger](/concepts/anger): under which head there are four points of inquiry:
 (1) Whether anger causes pleasure?
@@ -8734,7 +8763,7 @@ Dobbiamo ora considerare gli effetti della [rabbia](/concepts/anger): in questo 
 (3) Se, soprattutto, ostacoli l’uso della ragione;
 (4) Se induca la taciturnità.
 
-<span class="atom-split" data-atom="154" data-title="Whether anger causes pleasure?" data-chapter="Whether anger causes pleasure?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="154" data-title="Whether anger causes pleasure?" data-chapter="Whether anger causes pleasure?" data-kind="atom" data-srclang="en" data-tags="positions/pleasure,concepts/anger,concepts/passion"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) does not cause pleasure. Because sorrow excludes
 pleasure. But anger is never without sorrow, since, as stated in Ethic. vii, 6, "everyone that acts
@@ -8794,7 +8823,7 @@ Risposta all’Obiezione 2: Questo argomento è valido per il piacere derivante 
 
 Risposta all’Obiezione 3: Il piacere che precede impedisce che segua il dolore, e di conseguenza rappresenta un ostacolo alla rabbia. Tuttavia, il piacere provato nell’esercitare la vendetta deriva dalla rabbia stessa.
 
-<span class="atom-split" data-atom="155" data-title="Whether anger above all causes fervor in the heart?" data-chapter="Whether anger above all causes fervor in the heart?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="155" data-title="Whether anger above all causes fervor in the heart?" data-chapter="Whether anger above all causes fervor in the heart?" data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/passion,concepts/reason,concepts/will,figures/aristotle,forms/quaestio,schools/scholasticism"></span>
 
 Objection 1: It would seem that heat is not above all the effect of [anger](/concepts/anger). For fervor, as stated
 above (Q[28], A[5]; Q[37], A[2]), belongs to love. But love, as above stated, is the beginning and
@@ -8882,7 +8911,7 @@ Risposta all’Obiezione 2: Il tempo, necessariamente, indebolisce tutte quelle 
 
 Risposta all’Obiezione 3: Ogni potere che è diviso in sé stesso si indebolisce. Pertanto, se un uomo, essendo già arrabbiato con una persona, si arrabbia anche con un’altra, proprio questo fatto indebolisce la sua rabbia verso la prima persona. Ciò vale soprattutto nel caso in cui la sua rabbia nella seconda situazione sia maggiore: infatti, l’offesa che ha scatenato la sua prima rabbia sembrerà di poca o nessuna importanza rispetto alla seconda offesa, considerata più grave.
 
-<span class="atom-split" data-atom="156" data-title="Whether anger above all hinders the use of reason?" data-chapter="Whether anger above all hinders the use of reason?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="156" data-title="Whether anger above all hinders the use of reason?" data-chapter="Whether anger above all hinders the use of reason?" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/reason,concepts/passion"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) does not hinder the use of reason. Because that which
 presupposes an act of reason, does not seem to hinder the use of reason. But "anger listens to reason,"
@@ -8955,7 +8984,7 @@ Risposta all’Obiezione 2: Si dice che un uomo arrabbiato agisca apertamente, n
 
 Risposta all’Obiezione 3: Come già detto sopra (al punto 1), il processo che porta all’ira ha inizio nella ragione; pertanto, la contrapposizione di un contrario a un altro facilita il giudizio della ragione, proprio come tale contrapposizione aumenta l’intensità dell’ira stessa. Quando una persona che possiede onore o ricchezza subisce una perdita in questi ambiti, tale perdita appare ancora più grave, sia a causa del contrasto tra ciò che si aveva e ciò che si è perso, sia perché essa era imprevista. Di conseguenza, provoca un dolore maggiore; allo stesso modo, un grande bene, ricevuto inaspettatamente, genera una gioia ancora più intensa. E proporzionalmente all’aumento del dolore che precede l’ira, anche quest’ultima si intensifica.
 
-<span class="atom-split" data-atom="157" data-title="Whether anger above all causes taciturnity?" data-chapter="Whether anger above all causes taciturnity?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="157" data-title="Whether anger above all causes taciturnity?" data-chapter="Whether anger above all causes taciturnity?" data-kind="atom" data-srclang="en" data-tags="concepts/anger,concepts/passion,concepts/reason,forms/quaestio"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) does not cause taciturnity. Because taciturnity is opposed
 to speech. But increase in anger conduces to speech; as is evident from the degrees of anger laid

@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A retelling of a Sudanese folktale: obeying her dying parents, Sarra does everything to keep her little brother Dan-Auta from ever crying, while he burns the granaries and blinds the king's son. Folkloric narrative with no philosophical content.
 

@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The death agony of a famous man as seen by four bystanders — wife, doctor, journalist, painter: one and the same fact splinters into as many divergent realities as there are points of view, each authentic for its own. The dimension that orders them is spiritual distance from the event, from the wife who lives it to the painter who contemplates it.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/perspectivism|prospettivismo]]  
+**Concetti:** [[concepts/experience|esperienza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

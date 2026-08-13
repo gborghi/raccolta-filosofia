@@ -7,7 +7,7 @@ aliases:
   - "lex"
   - "Gesetz"
   - "norma"
-work_count: 74
+work_count: 73
 tags:
   - "graph/concept"
 title: "legge"
@@ -16,7 +16,7 @@ title: "legge"
 
 *law*
 
-## Opere (74)
+## Opere (73)
 
 **Aquinas**
 - [Treatise on Law](/testi/aquinas/treatise_on_law)
@@ -78,7 +78,6 @@ title: "legge"
 - [Glosas a un discurso](/testi/ortega-y-gasset/glosas_a_un_discurso)
 - [Guerra y ética](/testi/ortega-y-gasset/guerra_y_ética)
 - [Idea de un programa mínimo](/testi/ortega-y-gasset/idea_de_un_programa_mínimo)
-- [La Constitución](/testi/ortega-y-gasset/la_constitución)
 - [La agitación obrera](/testi/ortega-y-gasset/la_agitación_obrera)
 - [La censura negra y la censura roja Sólo pedimos libertad](/testi/ortega-y-gasset/la_censura_negra_y_la_censura_roja_sólo_pedimos_libertad)
 - [La hora de Hércules](/testi/ortega-y-gasset/la_hora_de_hércules)

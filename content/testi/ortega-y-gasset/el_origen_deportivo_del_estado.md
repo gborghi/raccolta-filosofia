@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay whose opening attacks nineteenth-century agnosticism: experimental science buys exactness by leaving the ultimate questions untouched, but the man behind every physicist prolongs the line. Scientific truth floats in mythology, and science itself is the admirable European myth.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Concetti:** [[concepts/state|Stato]], [[concepts/reason|ragione]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -78,7 +86,7 @@ Così, dunque, possiamo distribuire i fenomeni organici — animali e umani — 
 
 Lasciando da parte le forme organiche e attendendo soltanto alle azioni, la vita piena ci appare sempre come uno sforzo, ma questo sforzo è di due specie: lo sforzo che facciamo per la semplice delizia di farlo, come dice Goethe: «È il canto che canta la gola, il pagamento più gentile per colui che canta»; e lo sforzo obbligato a cui una necessità imposta e non inventata o sollecitata da noi ci urge e trascina. E come questo sforzo obbligato, in cui strettamente soddisfiamo una necessità, ha il suo esempio massimo in ciò che l'uomo suole chiamare lavoro, così quella specie di sforzi superflui trova il suo esempio più chiaro nello sport. Questo ci condurrà a trasmutare l'inveterata gerarchia e a considerare l'attività sportiva come la primaria e creatrice, come la più elevata, seria e importante nella vita, e l'attività laboriosa come derivata da quella, come sua mera decantazione e precipitato. Anzi, vita propriamente parlando è soltanto quella di caratura sportiva, l'altro è relativamente meccanizzazione e mero funzionamento. Il vitale è la formazione del braccio e il suo repertorio di movimenti possibili; dato il braccio e le sue possibilità, la sua traiettoria in ogni [caso](/concepts/fortune) è questione semplicemente meccanica. Così pure, una volta fatto l'occhio, le leggi dell'ottica fisica si compiono nella visione, ma con le leggi fisiche non si fa un occhio. A Descartes, che sosteneva la natura meccanica dei corpi viventi, già diceva Cristina di Svezia che «lei non aveva mai visto che il suo orologio desse alla luce orologini».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/state,concepts/reason,forms/essay"></span>
 
 En modo alguno quiero decir con esto que la acción utilitaria no reobre a su vez, no inspire y dé pretexto a nuevas creaciones de la potencia deportiva; lo único que estrictamente quisiera insinuar es que, en todo proceso vital, lo primario, el punto de partida, es una energía de sentido superfluo y libérrimo, lo mismo en la vida corporal que en la vida histórica. Al hacer la historia de toda existencia viviente hallaremos siempre que la vida fue primero una pródiga invención de posibilidades y luego una selección entre ellas que se fijan y como solidifican en hábitos utilitarios. Bastaría con que cada cual hiciese resbalar la atención sobre el film de su vida para que viese cómo su destino individual ha consistido en la selección que las circunstancias afectivas han ido ejecutando entre sus posibilidades personales. El individuo que a lo largo de nuestra vida llegamos a ser es sólo uno de los varios o muchos que pudimos ser y que quedaron sin realizar como bajas lamentables de nuestro ejército interior. Por eso, importa mucho que penetremos en la existencia muy ricos en posibilidades, a fin de que luego la poda fatal que es el destino deje siempre en nosotros potencias invulneradas y robustas. Esta abundancia de posibilidades es el síntoma más característico de vida pujante, como el utilitarismo, el atenerse a lo estrictamente necesario, al modo del enfermo que ahorra movimientos, es el síntoma de debilidad y de vida menguante.
 
@@ -150,7 +158,7 @@ L'istinto di coetaneità. — Le classi di età. — Associazioni giovanili. —
 
 I giovani!… Io vorrei in qualche giorno prossimo parlare a lungo sull'ammirevole filone di segreti che scopriamo tentando una psicologia della gioventù. In generale, è necessario attaccare decisamente la grande questione degli studi biologici: infanzia, gioventù, maturità, vecchiaia.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/state,concepts/reason,forms/essay"></span>
 
 Permítaseme augurar para tiempo muy próximo la convergencia de la atención científica sobre este problema de las edades, común a todos los organismos —no sólo propio al animal, a la planta y al hombre. Spengler no ha hecho aquí, como en muchas otras cosas, más que levantar la caza a destiempo, sin madurez ni mesura. Pero —recuerde el lector mi pronóstico— antes de un lustro será uno de los grandes temas de la meditación intelectual el hecho trágico de la «senescencia de las razas». Paralelamente, la biología se convencerá en estos años de que el secreto de la vida tiene que ser palpado saliendo de este hecho tan evidente como desatendido: la inevitabilidad de la muerte.
 
@@ -234,7 +242,7 @@ E allora ha luogo una delle azioni più geniali della storia umana, da cui sono 
 
 La vita in comune ispira l'idea di costruire un albergo stabile e capace, che non sia la tana transitoria o il semplice riparo contro il vento. E così accade che la prima casa che l'uomo edifica non è la casa della famiglia ancora inesistente, ma il casino dei giovani. In essa preparano le loro spedizioni, compiono i loro riti; in essa si dedicano al canto, alla bevuta e al frenetico banchetto comune. Cioè, il «club» è, vogliasi o no, più antico del focolare domestico, come il casino più antico della casa.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/state,concepts/reason,forms/essay"></span>
 
 Está prohibido, so pena mortal, a los hombres maduros, mujeres y niños entrar en el casino varonil, que, por sus formas subsecuentes, llaman los etnólogos la «casa de los solteros». Todo es en ella misterioso, secreto y tabú. Porque es un hecho sorprendente que estas primitivas asociaciones juveniles suelen tener el carácter de sociedades secretas, de férrea disciplina interna, donde se cultivan las destrezas vitales de la caza y la guerra con un severo entrenamiento. Es decir, que la asociación política originaria es la sociedad secreta y que si sirve para el placer y la bebida es, al propio tiempo, el lugar donde se ejercita el primer ascetismo religioso y atlético. Recuérdese que la más exacta traducción del vocablo ascetismo es «ejercicio de entrenamiento», y los monjes no han hecho sino tomarlo del vocabulario deportivo usado por los atletas griegos. Askesis era el régimen de vida del atleta, llena de ejercicios y privaciones. De donde resulta que el casino de los jóvenes, primera casa y primer «club» placentero, es también el primer cuartel y el primer convento.
 
@@ -378,7 +386,7 @@ Conviene, in effetti, mostrare la fecondità che questa sorprendente illuminazio
 
 La gente attica era troppo intelligente, e l'acutezza mentale è una [sublime](/concepts/sublime) inquietudine e come una nevrastenia meravigliosa, che disfa facilmente l'organismo. Per questo ad Atene tutto il tradizionale si cancellò presto, e il corpo sociale entra, da subito, in un processo di riforme utopiche, che finiscono per annichilirlo. Per questa ragione rimangono nell'Attica così scarsi residui dell'organizzazione primitiva. Sparta, al contrario, pensa meno e vive più gagliardamente. Là troviamo le fratrie in pieno vigore, sotto la specie di organizzazione militare. I guerrieri vivono insieme e separati dalle loro famiglie; la solidarietà della loro associazione culturale e bellica si simbolizza nelle famose cene, dove si prendeva la «minestra nera», che era un cibo rituale. E non è strano che qui si localizzi il mito del ratto di Elena, che era prima una divinità lunare e poi una donna straniera. Chi voglia confrontare ciò che si sa della vita militare lacedemone con una qualunque associazione di giovani di quelle esistenti ancora nei popoli chiamati selvaggi, i Masai dell'Africa orientale, per esempio, si sorprenderà dell'identità.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/knowledge_origin,concepts/state,concepts/reason,forms/essay"></span>
 
 Si un exceso de agudeza e inquietud intelectual —forzoso es reconocerlo, porque la historia nos lo demuestra reiteradamente— descompone, como un álcali, el Estado, llega éste a su mayor solidez y perduración cuando un pueblo moderadamente inteligente posee cierto extraño y nativo don de mando. Éste fue el [caso](/concepts/fortune) de Roma, como hoy lo es de Inglaterra. Y, notable semejanza, ambos son pueblos que se caracterizan por su maniática conservación del pasado.
 

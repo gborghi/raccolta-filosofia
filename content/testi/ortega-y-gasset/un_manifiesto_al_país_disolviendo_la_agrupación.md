@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Public manifesto dissolving the Agrupación al Servicio de la República: founded with the two sole aims of fighting the monarchy and bringing in the Republic through a Constituent Cortes, both achieved (along with the Catalan Statute and land reform), it has no reason to continue. A political document.
+
+## Connections
+
+**Forme:** [[forms/manifesto|manifesto]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

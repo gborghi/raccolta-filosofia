@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A political programme: it starts from the irremediable discredit of state institutions and concludes that replacing the politicians is not enough, nor is a politics of "intellectuals" — what is needed is that politics in the old sense not be practised at all, since it is the uses, not the abuses, that corrupt even the best men.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

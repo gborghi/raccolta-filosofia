@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Parliamentary satire: Ortega mocks a deputy who, while discussing the Barcelona revolt, dismisses in passing "this revolutionary lyricism, baleful like all lyricisms". A piece of manners, not philosophy.
 

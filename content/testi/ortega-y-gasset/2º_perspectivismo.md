@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Using the image of the provincial mind that believes itself at the centre of the world, Ortega reads relativity as perspectivism: perspective is not subjective distortion but a quality of reality itself, which organises differently according to where it is viewed from. He claims to have set out this doctrine already in the introduction to the first Espectador (1916) and rejects the standard reading of Einstein as confirming Kantian subjectivism.
+
+## Connections
+
+**Assi:** [[assi/knowledge_origin|Origine della conoscenza]]  
+**Posizioni:** [[positions/perspectivism|prospettivismo]], [[positions/transcendental_criticism|criticismo trascendentale]]  
+**Concetti:** [[concepts/reason|ragione]], [[concepts/time|tempo]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

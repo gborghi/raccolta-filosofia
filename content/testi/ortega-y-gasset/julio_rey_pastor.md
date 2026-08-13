@@ -10,6 +10,8 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A presentation to the Buenos Aires public (La Prensa, 1917) of the Spanish mathematician Julio Rey Pastor, invited by the Institución cultural española, with a note on the nineteenth-century expansion of mathematics. An occasional piece.
 

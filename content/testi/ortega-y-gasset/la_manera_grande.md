@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lecture on El Escorial: around 1560 Europe loses the Renaissance coincidence between aspiration and reality — Leonardo's line is answered by Michelangelo's verses — and the 'maniera gentile' gives way to the 'maniera grande', the colossal and the enormous. As the constellation of Hercules rises on Europe's moral horizon, Philip II raises his monument in the Guadarrama in that manner.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > Only Pablo Iglesias, Castrovido, Domingo and Soriano have gone on defending a liberty that is neither vague nor rhetorical but "the grandmother liberty", the elementary norm of modern public life won by Cromwell's soldiers under the motto Vestigia nulla retrorsum. Ortega demands an account of their absence from the press and the party that live off the adjective "liberal": if liberalism compromises on this cardinal point, it has lost everything, and honour above all.
+
+## Connections
+
+**Concetti:** [[concepts/freedom|libertà]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

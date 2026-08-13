@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review: Valle-Inclán is a "Renaissance man", a quattrocento soul who, facing the rigid spectre of the law codes, turns into a dilettante of the Renaissance, loving its times and heroes as a family tradition. In an age where pessimism plays the macabre jester, his is rare art, a flower of other historical latitudes.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -108,7 +115,7 @@ Quanto lontani questi tempi in cui un artefice riversava la sua vita, un'intensa
 
 Sembra che nel secolo XIX le opere dei nostri autori si ispirassero, più che a un'arte sincera, spontanea, a pragmatiche oratorie e ad abili prospettive di scenografo. Poiché la creazione bella non era più una necessità espansiva, un lusso di forze, un eccesso di [idealismo](/positions/idealism), di fortezza spirituale, ma un mestiere, un mezzo di vita riconosciuto, studiato, socialmente statuito, si cominciò a scrivere per guadagnare lettori.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Cambiado el fin de la elaboración literaria, cambió el origen, y viceversa. Se escribía para ganar; se ganaba, es natural, tanto más cuanto mayor número de ciudadanos leyera lo escrito. El compositor lograba esto halagando a la mayoría de los hombres, «sirviéndoles un ideal», que diría Unamuno, deseado por ellos, mas previamente creado por el público. Y ello servido fácilmente, popularmente. Ya no hubo quien adornara sus puños de encajes, como cuentan que hacía para escribir Buffon. El gran estilo había muerto. ¿Quién iba a detenerse en reflexionar un cuarto de hora sobre la colocación de un adjetivo a la zaga de un sustantivo? Flaubert y Stendhal: un hombre rico y aficionado, y un desdeñoso, de pluma inactual.
 
@@ -216,7 +223,7 @@ Non c'è nessun essere volgare in questi romanzi e in questi racconti; tutti son
 
 Il pittoresco: ecco la forza principale delle pagine che annotiamo. Valle-Inclán corre senza fiato a caccia del pittoresco nelle sue composizioni. È l'asse della sua produzione: mi dicono che lo sia anche della sua vita, e io lo credo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty,forms/essay"></span>
 
 Para poder atrapar esa postura graciosa y amena de las cosas y de las personas hace falta haber vivido bastante, haber huroneado en muchos rincones y —¿quién sabe?— tal vez haber tenido poco amor al hogar y haber dado muchos bandazos por esos curiosísimos mundos. Yo pienso en ocasiones por qué [causa](/concepts/cause) lo pintoresco estará desterrado de la literatura diplomática. Pienso esto cuando leo los libros fríos y correctos de algunos escritores nuevos del Ministerio de Estado que alienta y ampara el alma de don Juan Valera, ese Dios-Pan sonriente y ciego que perdura en el yermo jardín de nuestras bellas letras como la estatua blanca y rota de una deidad gentílica.
 

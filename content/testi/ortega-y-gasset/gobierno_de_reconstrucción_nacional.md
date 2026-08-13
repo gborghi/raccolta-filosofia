@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A series of articles against the national government's «four points» programme: the four points are too little to be cardinal and its aims must be widened. Its underlying claim: in Spain the current of ultimate solidarity that elsewhere localizes conflict is absent — the trouble is not that there are disagreements but that there is nothing but disagreements. Political journalism.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -168,7 +175,7 @@ E invece, con esso si sarà inutilizzato l'ultimo apparato che c'era nell'arsena
 
 Si ponga intorno a ciò il probabile aumento della nervosità pubblica, motivato dalle ultime scosse della guerra, che, su tutti i temi di discordia, scaricheranno allora sulla Spagna la necessità inaplazabile di adottare un atteggiamento internazionale per l'ora della pace, ora nella quale crediamo che non basti la salomonica neutralità del signor Dato.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 A primera vista podrá antojarse todo esto emanación de un prurito pesimista en que suelen caer los escritores, por oficio acostumbrados a poner negro sobre blanco. Pero invitamos a los lectores leales y reflexivos —y sólo a ellos nos dirigimos— a que repasen nuestro razonamiento. Seguramente echarán de menos otras muchas notas oscuras que de propósito dejamos en el tintero.
 
@@ -354,7 +361,7 @@ Ciascuno è figlio delle sue opere, diceva Cervantes, parlando in generale. Ma q
 
 Per questa ragione, torniamo al nostro tema, che ci sembra l'essenziale per l'avvenire spagnolo. Sotto pena di polverizzazione nazionale, questo Governo deve durare: perché duri deve offrire al popolo un vasto programma alentante. Solo questa chiamata al latente entusiasmo pubblico può solidarizzare intorno a sé le forze collettive necessarie a sostenersi. Dei quattro punti convenzionali che gli servirono di culla, tre sono prossimi a compiersi. Il quarto, il bilancio, sarà facile se si contenta di essere convenzionale. Non è già ora di iniziare suggerimenti all'opinione pubblica affinché si disponga a organizzarsi in vista del domani prossimo?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state,forms/essay"></span>
 
 Si, lo que juzgamos improbable, antipatriótico y absurdo, algunos elementos del Gobierno se negasen a colaborar en un programa más amplio y de largo desarrollo dentro del actual Gobierno, convendría prevenir al ánimo popular para que éste, llegada la hora, apareciese vigorosamente adherido a aquel trozo del Ministerio que mejor garantizase la resolución de no volver al antiguo régimen.
 

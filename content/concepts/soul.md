@@ -7,7 +7,7 @@ aliases:
   - "anima"
   - "psyché"
   - "Seele"
-work_count: 59
+work_count: 58
 tags:
   - "graph/concept"
 title: "anima"
@@ -16,7 +16,7 @@ title: "anima"
 
 *soul*
 
-## Opere (59)
+## Opere (58)
 
 **Aquinas**
 - [Treatise on Man](/testi/aquinas/treatise_on_man)
@@ -79,7 +79,6 @@ title: "anima"
 - [Falta de individualidad](/testi/ortega-y-gasset/falta_de_individualidad)
 - [Las huellas del alma](/testi/ortega-y-gasset/las_huellas_del_alma)
 - [No ser hombre de partido](/testi/ortega-y-gasset/no_ser_hombre_de_partido)
-- [Para una psicología del hombre interesante Conocimiento del hombre](/testi/ortega-y-gasset/para_una_psicología_del_hombre_interesante_conocimiento_del_hombre)
 - [Problemas del aspecto humano](/testi/ortega-y-gasset/problemas_del_aspecto_humano)
 - [Prólogo a Obras completas de Sigmundo Freud](/testi/ortega-y-gasset/prólogo_a_obras_completas_de_sigmundo_freud)
 - [Prólogo a Psicología de Francisco Brentano](/testi/ortega-y-gasset/prólogo_a_psicología_de_francisco_brentano)

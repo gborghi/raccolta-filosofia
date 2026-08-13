@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A gallant epilogue to the countess of Noailles's book on Dante: to look at the world obliquely, mirrored in a face, is Dante's own lesson. Onto it Ortega grafts the thesis that woman as norm is Dante's great discovery and that history advances by a sexual rhythm.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +96,7 @@ La donna fu prima per l'uomo una preda —un corpo che si può rapire. A questa 
 
 Col suo saluto e col suo disdegno, come con due redini invisibili, invisibili come i coluri astronomici, regge la cauta donzella la brava giovinezza del poeta. Certo questo potere così magico e quasi incorporeo può risiedere solo nella donna che si è raffinata —quella che è gentil e non pura femmina dice con piena coscienza Dante. Con un gesto un po' eccessivo di sprezzo della carne, insiste che se parla degli occhi che sono principio d'Amore e della bocca ch'è fine d'Amore si eviti ogni cattivo pensiero, si lievi ogni vizioso pensiero, ricordisi chi legge, che di sopra è scritto che il saluto di questa donna, lo quale era operazione della sua bocca, fu fine degli miei desiderii, mentre che io lo potei ricevere.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Dicen que San Francisco pudo vivir una semana entera del canto de una cigarra. Dante, de la boca y la pupila, toma sólo la mística electricidad de la sonrisa que saluda. Esta sonrisa que va a aparecer tantas veces en la obra posterior de Dante, este disiato riso es la sonrisa gótica que perpetúan las oscuras vírgenes de piedra en los portales de las catedrales europeas.
 
@@ -210,7 +216,7 @@ Questa semplice osservazione ci indica che il mezzo non è qualcosa di esterno a
 
 Con questo veniamo alla seguente conclusione: perché qualcosa sia un ideale non basta che sembri degno di esserlo per ragioni di etica, di gusto o convenienza, ma deve avere, in effetti, quel dono di incantare e attrarre i nostri nervi, di incastrare perfettamente nella nostra sensibilità. Altrimenti sarà soltanto uno spettro di ideale, un ideale paralitico incapace di tendere la balestra dell'impeto. Delle due facce che l'ideale ha, solo finora si è attesa quella che dà all'assoluto e si è dimenticata l'altra, quella che dà verso l'interno dell'economia vitale. Con la parola più volgare di «illusioni» sogliamo esprimere quel ministero attrattivo che è l'essenza dell'ideale.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Ahora podría más a placer contestar a la pregunta anterior. El oficio de la mujer, cuando no es sino mujer, es ser el concreto ideal («encanto», «ilusión») del varón. Nada más. Pero nada menos. Puede un hombre amar con insuperable fervor a la madre, esposa, hija o hermana sin que haya en su sentimiento la menor tonalidad de ilusión. Por el contrario, puede sentirse ilusionado, encantado, atraído, sin que experimente nada de eso que propiamente llamamos amor filial, paterno, conyugal o fraternal. Las mujeres, con su aguda intuición, distinguen perfectamente cuándo en las emociones que suscitan existe ese matiz de la ilusión y, en el secreto de su ánima, sólo entonces se sienten halagadas y satisfechas. Decía Ramón Campos, un fino escritor español de fines del siglo XVIII, que «sólo una cosa puede llenar por completo el corazón del hombre, y es el corazón de la mujer».
 
@@ -288,7 +294,7 @@ La soluzione di Hebbel al problema da lui sottilmente posto mi sembra eccessiva.
 
 Ogni uomo padrone di una sensibilità ben temprata ha sperimentato al fianco di qualche donna l'impressione di trovarsi davanti a qualcosa di strano e assolutamente superiore a lui. Quella donna, è certo, sa meno di scienza di noi, ha meno potere creatore d'arte, non suole essere capace di reggere un popolo né di vincere battaglie, e, tuttavia, percepiamo nella sua persona una superiorità su di noi di indole più radicale di qualunque di quelle che possono esistere, per esempio, tra due uomini di uno stesso mestiere. Ed è che le eccellenze virili —il talento scientifico o artistico, la destrezza politica e finanziaria, l'eroicità morale— sono, in certa maniera, estrinseche alla persona, e, per così dire, strumentali. Il talento consiste in un'attitudine a creare certi prodotti socialmente utili —la scienza, l'arte, la ricchezza, l'ordine pubblico. Ma ciò che propriamente stimiamo sono questi prodotti, e solo un riflesso del valore che attribuiamo loro si proietta sulle doti necessarie per produrli. Non è il poeta, ma la poesia ciò che ci interessa; non è il politico, ma la sua politica. Questo carattere estrinseco dei talenti si fa patente perché si dà spesso nell'uomo accanto ai più gravi difetti personali. L'eccellenza virile risiede, dunque, in un fare; quella della donna in un essere e in uno stare; o con altre parole: l'uomo vale per ciò che fa; la donna, per ciò che è.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Cuando menos, lo que al hombre atrae de ellas no son sus actos, sino su esencia. De aquí que la profunda intervención femenina en la historia no necesite consistir en actuaciones, en faenas, sino en la inmóvil, serena presencia de su personalidad. Como al presentarse la luz, sin que ella se lo proponga y realice ningún esfuerzo, simplemente porque es luz, quedan iluminados los objetos y cantan en sus flancos los colores, todo lo que hace la mujer lo hace sin hacerlo, simplemente estando, siendo, irradiando. Y es curioso advertir cómo este carácter, que da a todo movimiento femenino un aire más bien de emanación que de acto regido por finalidades externas, luce en cada uno de sus oficios peculiares. ¿Es, por ventura, trabajar lo que hace la madre al ocuparse de sus hijos, la solicitud de la esposa o la hermana? ¿Qué tienen todos esos afanes de increíble misterio, que les hace como irse borrando conforme son ejecutados, y no dejar en el aire acusada una línea de acción o faena? Pues esta fluidez del acto es eminente en el oficio titular de mujer. La mujer, en efecto, parece no intervenir en nada; su influjo no tiene el aspecto violento o siquiera afanado propio a la intervención masculina. El hombre golpea con su brazo en la batalla, jadea por el planeta en arriesgadas exploraciones, coloca piedra sobre piedra en el monumento, escribe libros, azota el aire con discursos y hasta cuando no hace sino meditar, recoge los músculos sobre sí mismos en una quietud tan activa, que más parece la contracción preparatoria del brinco audaz. La mujer, en tanto, no hace nada, y si sus manos se mueven, es más bien en gesto que en acción. Sobre un sepulcro de la vetusta Roma republicana, donde descansó el cuerpo de una de aquellas matronas genitrices de la raza más fuerte, se leen junto al nombre estas palabras: domiseda, lanifica; guardó su casa e hiló. Nada más. Nos parece ver la noble figura quieta en su umbral, con los largos dedos consulares enredados en el blanco vellocino.
 
@@ -402,7 +408,7 @@ L'Eterno-Femminile
 
 ci attrae verso le altezze,
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 o como luego dice la Mater gloriosa, dirigiéndose a Margarita:
 
@@ -588,7 +594,7 @@ Lo sol sen va e vien la sera:
 
 non v´arrestate ma studiate il passo,
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 mentre che l´occidente non s´annera.
 

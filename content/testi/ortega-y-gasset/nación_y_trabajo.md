@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A parliamentary group's manifesto: above every question stands the need to install a new state, possible only if the mass lying between the two extremisms proclaims the principle of the Nation — the duty to break every partial interest in the name of a common destiny. Ortega calls it a mirage to think the struggle of capitalism and socialism will end with either side's victory: we are watching both defeated as exclusivisms. 'NATION AND WORK' is the motto.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]], [[concepts/labour|lavoro]]  
+**Forme:** [[forms/manifesto|manifesto]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

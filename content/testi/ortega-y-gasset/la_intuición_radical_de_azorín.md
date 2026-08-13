@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An essay on Azorín: art does not copy the real but catches it in its 'status nascens'. Azorín's radical intuition, Ortega says, is that Spain neither lives nor changes but repeats: its present is the past enduring — hence his poetics of the commonplace, that is, of custom, life's inert form.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]], [[concepts/custom|abitudine]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A note written for foreign readers on the coming of the Republic in April 1931: history is not narration but the understanding of genesis. Ortega explains why in Spain the change of regime came without revolution, with nearly the whole country already convinced.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +126,7 @@ In Francia, come in Inghilterra, come in Germania, si è costituita da sempre un
 
 Ma questo che può essere un vizio, come la rivoluzione, può essere, come essa, un talento: quello di coincidere con se stesso e, in un certo istante del destino, potersi lanciare un popolo coerente e compatto in una grande costruzione storica. Questo accadde una volta alla Spagna e non è detto che non le accada un'altra.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/state"></span>
 
 Un pueblo que no cambia sino entero, avanza por la historia, necesariamente, con [tempo](/concepts/time) lento. La nueva polarización se va produciendo secretamente, con gran lentitud, hasta que gana a la sociedad entera. En los comienzos del siglo XIX, pudo Buckle presentar a España como un país cuyo destino había sido permanecer fiel a sus reyes. Ésta es la visión superficial. Pero bajo ella la realidad ha sido muy distinta. España ha sido monárquica mientras en el mundo la Monarquía significaba el gubernamentalismo. Pero esto no quiere decir que desde 1500 se sintiese vitalmente unida a sus reyes. Todo lo contrario. El dato seco de que las dinastías españolas desde aquella fecha sean extranjeras, resume la verdadera situación. La Monarquía, es decir, el Estado, se hallaba sobre el pueblo español, pesando sobre él, pero siempre fuera de él. La unión consustancial entre los Luises y los franceses no ha tenido jamás su paridad en la Península. La Monarquía vivió siempre desnacionalizada, aun en aquellas horas en que un rey como Carlos III quiso de buena fe el bien de la Nación —siempre, por supuesto, que no estorbase su política internacional puramente familiar. Una cosa es querer el bien del prójimo y otra fundirse con él. Siempre ha vivido España con una duplicidad de intereses difícilmente armonizables: las necesidades de la Nación y las de la Monarquía.
 

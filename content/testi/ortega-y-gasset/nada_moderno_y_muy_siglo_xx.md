@@ -10,8 +10,16 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > On why the nineteenth century is 'the true, the only enemy': not the thirteenth, which throws only imaginary javelins at us, but the one we carry inside and through whose genius we see every past. Its peculiarity was to guard itself in advance against being surpassed: a century that calls itself modern cannot tolerate having its ideas declared out of date. Ortega announces that making progress the centre of one's concerns is an almost pathological deviation of consciousness.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/progress|progresso]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

@@ -10,8 +10,17 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A lecture promoting a Romantic Museum to be housed in Madrid's Hospicio, a baroque building under threat from the municipal pickaxe. Its underlying thesis: progressives and reactionaries are equally wrong about the past, since the progressive disqualifies the men of yesterday by reducing them to a preparation of the present.
+
+## Connections
+
+**Assi:** [[assi/meaning_of_history|Senso della storia]]  
+**Posizioni:** [[positions/progress|progresso]]  
+**Concetti:** [[concepts/beauty|bellezza]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -90,7 +99,7 @@ Forse la conquista più delicata dell'Età contemporanea, conquista ancora molto
 
 Quanto più si va approfondendo lo studio della storia, si avverte con maggiore chiarezza che la vita varia profondamente d'epoca in epoca. E non è che in un'epoca la vita sia diversa che in un'altra perché lo siano le sue idee, le sue arti, la sua politica, la sua industria, ma, al rovescio; due epoche hanno idee, arti, politica e industria diverse perché il sentimento radicale della vita era in esse differente. Ciò che pensiamo e ciò che facciamo è risultato e frutto di un clima sentimentale che portiamo al mondo, di un'intuizione o sensazione primaria, seme di tutto il resto. Conviene che abbandoniamo la credenza che i cambiamenti storici decisivi provengano da grandi, solenni avvenimenti, da invenzioni illustri, da guerre gigantesche. Niente di tutto ciò.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/progress,concepts/beauty,forms/lecture"></span>
 
 En uno de sus cuentos fantásticos refiere Wells que un aficionado de antigüedades halló en un almacén de ellas un huevo de cristal. Extrañado de encontrar entre los demás objetos valiosos aquél tan baladí, lo compró y salió a la calle con él entre las manos, mirándolo al trasluz. De pronto, al inclinarse hacia un lado, notó que dentro de él se dibujaban escenas nunca vistas donde intervenían seres extrahumanos. Era que el cuerpo cristalino, colocado en cierta inclinación, recogía los rayos de una lejana estrella, los cuales reflejaban la vida insospechada del astro remoto. Pues bien, señores; para que el panorama vital varíe radicalmente, no son menester grandes guerras, pavorosos cataclismos, mágicos inventos; basta con que el corazón del hombre incline su sensitivo vértice hacia un lado o hacia otro del horizonte, hacia el optimismo o hacia el pesimismo, hacia la heroicidad o hacia la utilidad, hacia la lucha o hacia la paz.
 
@@ -156,7 +165,7 @@ Povere cose quiete sono queste tele e questi mobili; ma appena fissiamo su di es
 
 Permettetemi voi un'immagine barocca, ma esatta: quando il toro, nella campagna, riesce a passare accanto al luogo dove resta sangue di un altro toro, si freme magnificamente, tremolano i suoi forti tendini, ansima frenetico e, alzando la testa al firmamento, riempie lo spazio concavo con un muggito appassionato. Salvate voi quanto vogliate salvare, ma in fondo la cosa è la stessa. Quando un uomo che lo sia pienamente trova dinanzi a sé un'impronta profonda che un'altra vita umana ha lasciato, scuote elettricamente la sua anima una fraterna convulsione, a un tempo dilettevole e dolente.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/progress,concepts/beauty,forms/lecture"></span>
 
 ¿Cómo fueron, cómo fueron en su sentir estos caballeros y estas damas que con su gracioso empaque asisten mudos a esta hora de nuestras vidas? ¿Cómo amaban, cómo odiaban? ¿Qué era lo que preferían y lo que menospreciaban en la existencia? ¿Cómo sonaba esa voz íntima que murmura en el fondo de todo corazón?
 
@@ -222,7 +231,7 @@ Lo stesso errore che si commette credendo che la vita umana sia stata sempre ide
 
 L'epoca romantica scopre una nuova qualità d'amore. Il XVIII secolo aveva significato, in questo punto, un evidente regresso. L'impero della ragione non lasciò esente questo territorio, e versò sui teneri affetti il suo periodo glaciale. Fu l'amore del Settecento freddo erotismo, sensualità squisita e raffinata, niente di più. Che diverse da quelle damigelle, quasi inverosimili, deliziose porcellane, meraviglie di umana ceramica, testoline di acuto e chiaro pensare, dove annidava un'anima senza temperatura — queste altre dame qui ritratte, senza dubbio meno graziose e brillanti, ma che lasciano intravedere possibilità di fuoco entusiasta e ardente sacrificio!
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es" data-tags="assi/meaning_of_history,positions/progress,concepts/beauty,forms/lecture"></span>
 
 Yo no quería, según al comienzo dije, sino atraer la atención de ustedes sobre el proyecto generoso y oportuno del marqués de la Vega Inclán. Razones, como hemos visto, de alguna trascendencia nos invitan a esperar algunas espirituales ventajas en el confrontamiento de nuestra sensibilidad actual con la época romántica. Es indudable que padeció ésta un exceso de gesto y una evidente propensión a exagerarlo todo. Pero bajo esa pompa inútil del sobrado ademán y la palabra superlativa laten en ella potencias abundantes de sana vitalidad. Pues bien; yo creo que nada es hoy tan urgente en España como mover los corazones a que se abreven, a que se embriaguen en anhelos de vivir. No tenemos mucha ciencia ni mucha previsión; nos falta buen orden, buena economía, buen gobierno; todo esto es cierto; pero ninguno de esos defectos importaría gravemente si en el cuerpo peninsular se sintiese la vibración de una vitalidad poderosa, resuelta a exigir a la hora que pasa la posible plenitud. Llevamos treinta años buscando qué es lo que falta a la vida española, sin encontrarlo en definitiva. Y es que acaso lo que nos falta es precisamente la vida.
 

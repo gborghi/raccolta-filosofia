@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An early sketch (Faro de Vigo, 1902): a dispute with an old translator of Virgil about beauty in poor countries dissolves into a long lyrical description of dusk over a Galician estuary. Occasional prose with no philosophical content.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

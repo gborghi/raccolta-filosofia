@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > An address to a librarians' congress: much is said about the librarian's mission and nothing about what a book is. Ortega goes back to Plato's Phaedrus (books as 'written sayings') and distinguishes instrumental saying, whose end lies outside it, from the substantive saying of the geometer and the poet, whose end is in itself.
+
+## Connections
+
+**Figure:** [[figures/plato|Platone]]  
+**Forme:** [[forms/lecture|lezione]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -120,7 +127,7 @@ Il libro, oggettivando la memoria, materializzandola, la rende, in principio, il
 
 Ma è questo davvero così? Ha l'alfabeto un così magico potere da riuscire, senz'altro, a salvare il vivente dal suo ingenito morire? Il dire che si scrive resta per ciò vivo? —ζῶντα, 275, d. O, ciò che è uguale, continua a dire sempre ciò che volle dire?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="figures/plato,forms/lecture"></span>
 
 Todo lo que el hombre hace, lo hace en vista de las circunstancias. Muy especialmente cuando lo que hace es decir. Brota el decir siempre de una situación y se refiere a ella. Mas, por lo mismo, él no dice esta situación: la deja tácita, la supone. Lo cual significa que todo decir es incompleto, es fragmento de sí mismo y tiene en la escena vital, donde nace, la mayor porción de su propio sentido. Imagínense todos los supuestos tácitos sin los cuales el más simple enunciado matemático resulta ininteligible. Para entenderlo fuera, por lo menos, necesario haber caído en la cuenta de que el que nos habla pretende hacer una cosa llamada ciencia o teoría. Ahora bien, la ciencia, la teoría, no es sino una situación en que el hombre se encontró ante las cosas desde una fecha determinada y sólo en ciertos lugares del planeta. Esta situación dura, en lo esencial, desde hace muchos siglos, seguimos en ella y por eso entendemos el enunciado matemático. Pero ni ha sido siempre ni es seguro que perdure indefinidamente.
 

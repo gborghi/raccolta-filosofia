@@ -10,8 +10,15 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > The action programme of a national group still outside parliament: to intervene at once in the political battle, drawing near to whichever governing parties circumstantially agree with its views, since the norm of public action is efficacy. It then reviews the Spanish parties: liberal (a corpse), traditional republican (the question of the form of government, which Ortega settles against their dogma), conservative (prefers the past to the future). Politics.
+
+## Connections
+
+**Concetti:** [[concepts/state|Stato]]  
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

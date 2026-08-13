@@ -10,8 +10,10 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
-> Programmatic text broadening the concept of politics beyond government: the State is only one organ of national life, and politics must foster the spontaneity and vitality of society. History is the history of national vitalities.
+> The digest gives neither structure nor sample (912 words, 0 atoms): the content cannot be judged; the title indicates a text on the difference between the Liga de Educación Política and the existing parties.
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 

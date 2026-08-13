@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A commentary on the document with which Maura withdraws from politics, read as a 'literary failure': style is not chosen, one writes as one is. Ortega attacks the archaic baroque inherited from Castilian rhetorical historians and reads in it the imbalance between the little one has to say and the pomp of saying it. Literary and political criticism, not philosophy.
+
+## Connections
+
+**Forme:** [[forms/essay|saggio]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -162,7 +168,7 @@ Questa dottrina è ciò che di forte e personale giace nella sua figura politica
 
 Si dirà che questo non è una dottrina, che è, a sommo, un sentimento, uno stato di spirito. È certo; ma, che altra cosa è il signor Maura? La sua storia politica si caratterizza precisamente per aver usato dei sentimenti soggettivi come se fossero dottrine. La sua verità fu la sua passione. Al rimuoversi dalla pubblicità lo fa con un'esplosione passionale.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 Y aquella sensación de repugnancia ante la impureza ambiente, que era justa y ejemplar como estado íntimo de espíritu, al ser formulada en pensamiento, en juicios concretos, pierde todo su valor e incita a que excusemos al señor Maura hasta el mérito de haberla sentido. Porque la repugnancia hacia lo repugnante es una gran virtud privada; mas la política comienza donde aquel asco sentimental concluye e inicia la clara intelección un sistema de medios correctivos.
 
@@ -372,7 +378,7 @@ L'ESPERIENZA MONARCHICA
 
 Il potere moderatore… Dichiaro che questa frase mi è poco simpatica; suona a ipocrisia e a giuridico scolasticismo. È insufficiente per definire la funzione dell'istituzione massima in una società, ed è inesatta se pretende formulare il flusso reale, vivente della storia. È un'espressione grigia. Fu ideata dal liberalismo del XIX secolo, il quale ci sembra cosa così vecchia e trita come la politica dei Faraoni.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es" data-tags="forms/essay"></span>
 
 ¡Un poder, cuya potencia es sólo moderar! En la dinámica historia sólo hay poderes contrarios, y la moderación surge espontáneamente de ellos. Mejor aún; como todo poder se forma y crece en lucha con otro poder enemigo, necesita que éste no desaparezca del todo y mantiene con él una tácita comunidad de intereses extremos. La moderación viene a ser, pues, la medida de la necesidad que en cada [caso](/concepts/fortune) siente un partido de su contrario. ¿A qué más moderador que la opinión pública, en la cual se reúnen y vienen fatalmente a composición y límites los torbellinos particulares?
 

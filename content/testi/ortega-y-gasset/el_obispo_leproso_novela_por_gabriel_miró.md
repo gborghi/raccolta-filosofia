@@ -10,8 +10,14 @@ tags:
   - "philosopher/ortega y gasset"
 ---
 
+*Ortega y Gasset*
+
 > [!abstract]
 > A review of Gabriel Miró's novel, where each sentence rests on its own isolation and does not fire us at the next. The piece turns into a thesis on genres: the novel is perhaps the only genre still existing, because it imposes an inexorable decalogue.
+
+## Connections
+
+**Concetti:** [[concepts/beauty|bellezza]]
 
 <p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
 
@@ -72,7 +78,7 @@ Non è questo egregio lirismo? Si può dire meglio? Il male è che questo si tro
 
 È un peccato che gli intenditori della cosa letteraria non abbiano chiarito, una volta per sempre, l'errore di questo procedimento. L'esperienza degli esseri va precipitando in noi automaticamente certi schemi di uniformità vitale. Così, il mestiere scolora sull'individuo che lo esercita e gli imprime con grande frequenza alcuni tratti comuni. Oppure gli avari coincideranno molto probabilmente in determinate reazioni. In tal modo si forma nell'intelletto il generico, il tipo «militare», «gesuita», «avaro», «ambizioso», eccetera. Ma si noti che questi tipi o entità generiche non pretendono di rappresentare adeguatamente alcuna realtà; voglio dire: gli ingredienti che integrano il tipo «gesuita» non bastano a fare un gesuita effettivo. Quello contiene solo le note comuni a molti gesuiti, ma lascia fuori ex professo tutto ciò che li differenzia.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es" data-tags="concepts/beauty"></span>
 
 ¿Qué debe hacer el novelista con esos tipos que la experiencia vulgar ha decantado en las mentes medias? Para mí, no hay duda: debe evitarlos, precisamente porque todo el mundo los posee en su haber mental. Tan los posee, tan seguro está de ellos, tan sabidos le son, que el hombre mediocre se acostumbra a suplantar con ellos la visión directa de cada realidad, y entonces se convierten en simplistas falsificaciones y violaciones de la plenitud maravillosa, inagotable, en que lo real consiste. Producto de una experiencia burda y superficial, todo espíritu alerta, aun sintiéndolos dentro de sí, menosprecia esos tipos y percibe su sordidez, su falsedad, su convencionalismo.
 
