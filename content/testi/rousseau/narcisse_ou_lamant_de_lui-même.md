@@ -148,7 +148,7 @@ That was not enough; for, although one could not deny that these things always o
 
 The taste for letters always indicates in a people the beginning of a process of corruption that is rapidly accelerated. For such a taste can arise within an entire nation only from two harmful sources, which study itself feeds and exacerbates: knowledge and idleness, along with the desire to distinguish oneself above others. In a well-ordered society, every citizen has their duties to fulfill; these important responsibilities are too precious for them to allow themselves the leisure to engage in frivolous pursuits. In such a society, all citizens are so equally positioned that none can be preferred to others on the grounds of being more knowledgeable or more skilled—at most, on the basis of being better. Yet even this last distinction is often dangerous, for it gives rise to tricksters and hypocrites.
 
-The taste for letters, which arises from the desire to distinguish oneself, necessarily gives rise to evils that are infinitely more dangerous than any good that such pursuits may bring; ultimately, it leads those who indulge in them to become utterly devoid of scruples regarding the means necessary to achieve their goals. The earliest philosophers gained great renown by teaching people how to fulfill their duties and understanding the principles of virtue. But soon, as these teachings became commonplace, it became necessary to distinguish oneself by pursuing opposing paths. Such was the origin of the absurd systems propounded by Leucippus, Diogenes, Pyrrhon, Protagoras, and Lucretius. Hobbes, Mandeville, and countless others have similarly sought to distinguish themselves among us; their dangerous doctrines have flourished so greatly that, despite the existence of true philosophers who are still eager to remind us of the laws of humanity and virtue, we are horrified by the extent to which our rationalist era has encouraged disregard for the duties of man and citizen.
+The taste for letters, which arises from the desire to distinguish oneself, necessarily gives rise to evils that are infinitely more dangerous than any good that such pursuits may bring; ultimately, it leads those who indulge in them to become utterly devoid of scruples regarding the means necessary to achieve their goals. The earliest philosophers gained great renown by teaching people how to fulfill their duties and understanding the principles of virtue. But soon, as these teachings became commonplace, it became necessary to distinguish oneself by pursuing opposing paths. Such was the origin of the absurd systems propounded by Leucippus, Diogenes, Pyrrhon, Protagoras, and Lucretius. [Hobbes](/figures/hobbes), Mandeville, and countless others have similarly sought to distinguish themselves among us; their dangerous doctrines have flourished so greatly that, despite the existence of true philosophers who are still eager to remind us of the laws of humanity and virtue, we are horrified by the extent to which our rationalist era has encouraged disregard for the duties of man and citizen.
 
 The taste for letters, philosophy, and the fine arts destroys our love for our primary duties and true glory. Once talents usurp the honors that should belong to virtue, everyone seeks to be an agreeable person, and no one cares to be a good person. From this arises yet another inconsistency: in society, people are rewarded only for qualities that do not depend on them; after all, our talents are innate, while only our virtues truly belong to us.
 
@@ -180,7 +180,7 @@ Non era sufficiente; poiché, sebbene non si potesse negare che queste cose foss
 
 Il gusto per le lettere annuncia sempre, in un popolo, l’inizio di una corruzione che viene rapidamente accelerata. Infatti, tale gusto può nascere in una nazione intera soltanto da due fonti negative: lo studio stesso, che lo alimenta e lo amplia ulteriormente; e l’ozio, nonché il desiderio di distinguersi dagli altri. In uno stato ben organizzato, ogni cittadino ha i propri doveri da compiere; e questi impegni importanti sono troppo preziosi per permettergli di dedicarsi a speculazioni frivole. In uno stato ben organizzato, tutti i cittadini sono così uguali che nessuno può essere preferito agli altri in base alla propria erudizione o abilità, ma al massimo in base alle proprie qualità morali; tuttavia anche questa distinzione è spesso pericolosa, poiché può generare individui astuti e ipocriti.
 
-Il gusto per le lettere, che nasce dal desiderio di distinguersi, produce inevitabilmente mali infinitamente più pericolosi di tutto il bene che esse possano apportare; in definitiva, spinge coloro che vi si dedicano a diventare molto poco scrupolosi nei mezzi per raggiungere i propri scopi. I primi filosofi si guadagnarono una grande reputazione insegnando agli uomini la pratica dei loro doveri e i principi della virtù. Ma ben presto, poiché questi precetti divennero comuni, fu necessario distinguersi attraverso idee contrarie. Ecco l’origine dei sistemi assurdi di Leucippo, Diogene, Pirrone, Protagora, Lucrizio. Hobbes, Mandeville e mille altri hanno cercato allo stesso modo di distinguersi tra di noi; e la loro pericolosa dottrina ha avuto tali conseguenze che, nonostante ci siano ancora veri filosofi desiderosi di ricordare nei nostri cuori le leggi dell’umanità e della virtù, siamo spaventati nel vedere fino a che punto il nostro secolo razionale abbia portato alle estreme le idee di disprezzo per i doveri dell’uomo e del cittadino.
+Il gusto per le lettere, che nasce dal desiderio di distinguersi, produce inevitabilmente mali infinitamente più pericolosi di tutto il bene che esse possano apportare; in definitiva, spinge coloro che vi si dedicano a diventare molto poco scrupolosi nei mezzi per raggiungere i propri scopi. I primi filosofi si guadagnarono una grande reputazione insegnando agli uomini la pratica dei loro doveri e i principi della virtù. Ma ben presto, poiché questi precetti divennero comuni, fu necessario distinguersi attraverso idee contrarie. Ecco l’origine dei sistemi assurdi di Leucippo, Diogene, Pirrone, Protagora, Lucrizio. [Hobbes](/figures/hobbes), Mandeville e mille altri hanno cercato allo stesso modo di distinguersi tra di noi; e la loro pericolosa dottrina ha avuto tali conseguenze che, nonostante ci siano ancora veri filosofi desiderosi di ricordare nei nostri cuori le leggi dell’umanità e della virtù, siamo spaventati nel vedere fino a che punto il nostro secolo razionale abbia portato alle estreme le idee di disprezzo per i doveri dell’uomo e del cittadino.
 
 Il gusto per la letteratura, la filosofia e le belle arti distrugge l’amore per i nostri primi doveri e per la vera gloria. Quando i talenti prendono il posto degli onori dovuti alla virtù, tutti desiderano essere persone piacevoli, e nessuno si preoccupa di essere una persona buona. Da ciò deriva un’altra conseguenza assurda: nelle persone vengono ricompensate soltanto quelle qualità che non dipendono da loro; infatti i nostri talenti nascono con noi, mentre solo le nostre virtù ci appartengono veramente.
 
@@ -568,7 +568,7 @@ Beh, dove sta il problema? Se oggi le donne cercano di avvicinarsi agli uomini, 
 
 LUCCIDE.
 
-Non riesco ad abituarmi a modi così ridicoli. Forse il nostro sesso avrà la fortuna di continuare ad essere apprezzato, anche se diventerà più stimato. Ma per gli uomini, mi dispiace della loro cecità. Che pretese ha questa giovinezza sciocca, usurpando tutti i nostri diritti? Pensano davvero di piacere di più alle donne cercando di assomigliarle?
+Non riesco ad abituarmi a [modi](/concepts/mode) così ridicoli. Forse il nostro sesso avrà la fortuna di continuare ad essere apprezzato, anche se diventerà più stimato. Ma per gli uomini, mi dispiace della loro cecità. Che pretese ha questa giovinezza sciocca, usurpando tutti i nostri diritti? Pensano davvero di piacere di più alle donne cercando di assomigliarle?
 
 MARTON.
 
@@ -1317,6 +1317,344 @@ Oh! Respect means to obey me and not to hinder me in any way. But what is this? 
 VALÈRE.
 
 I had just finished dressing up and was about to get dressed properly in order to present myself to her in a decent manner.
+
+LISIMON.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capisco. Il pretesto è correggere Valère; ma il vero motivo è ridere alle sue spalle. Ecco il genio e la felicità delle donne. Spesso correggono le ridicolaggini pensando soltanto a divertirsi.
+
+ANGÉLIQUE.
+
+Insomma, lo vuoi; ma ti avviso che risponderai tu dell'accaduto.
+
+LUCINDE.
+
+D'accordo.
+
+ANGÉLIQUE.
+
+Da quando siamo insieme, mi hai fatto cento scherzi dei quali devo essere punita. Se questa faccenda mi causa anche solo un minimo fastidio con Valère, stai attento a te stesso.
+
+LUCINDE.
+
+Sì, sì.
+
+ANGÉLIQUE.
+
+Pensa un po' a Léandre.
+
+LUCINDE.
+
+Ah! Cara Angélique...
+
+ANGÉLIQUE.
+
+Oh, se mi metti in cattiva luce con tuo fratello, giuro che sposi il mio. (Sottovoce) Marton, mi hai promesso il segreto.
+
+MARTON, sottovoce.
+
+Non temere nulla.
+
+LUCINDE.
+
+Insomma, io...
+
+MARTON.
+
+Sento la voce del cavaliere. Decidi al più presto, a meno che non voglia dargli un cerchio di ragazze alla toilette.
+
+LUCINDE.
+
+Bisogna proprio evitare che ci veda. (Mette il ritratto sulla toilette.) Ecco il tranello teso.
+
+MARTON.
+
+Voglio dare un'occhiata al mio uomo per vedere...
+
+LUCINDE.
+
+Silenzio. Salviamoci.
+
+ANGÉLIQUE.
+
+Che brutti presentimenti ho su tutto questo!
+
+Scena III.
+
+Valère, Frontin.
+
+VALÈRE.
+
+« Sangaride, questo giorno è un grande giorno per te.[59]»
+
+FRONTIN.
+
+Sangaride; cioè, Angélique. Sì, è un gran giorno quello delle nozze, e che addirittura allunga maledettamente tutti quelli che lo seguono.
+
+VALÈRE.
+
+Quanto piacere proverò nel rendere felice Angélique!
+
+FRONTIN.
+
+Avresti voglia di renderla vedova?
+
+VALÈRE.
+
+Brutto scherzo... Sai quanto la amo. Dimmi: cosa conosci che possa mancare alla sua felicità? Con tanto amore, un po' di spirito e una figura... come vedi, penso che si possa sempre star certi di piacere.
+
+FRONTIN.
+
+La cosa è indubbia, e ne hai fatto tu stesso la prima esperienza.
+
+VALÈRE.
+
+Quello che mi dispiace in tutto questo sono chissà quante piccole persone che il mio matrimonio farà seccare dal rimpianto, e che non sapranno più cosa fare del loro [cuore](/positions/fideism).
+
+FRONTIN.
+
+Oh, certo. Quelle che ti hanno amato, per esempio, si impegneranno a odiare bene la tua cara metà. Le altre... Ma dove diamine trovarle, queste altre?
+
+VALÈRE.
+
+La mattina avanza; è tempo di vestirmi per andare da Angélique. Andiamo. (Si mette alla toilette.) Come mi trovi stamattina? Non ho fuoco negli occhi; ho il colorito spento; sembra che non sia nella mia normale condizione.
+
+FRONTIN.
+
+Nella normale condizione! No, sei semplicemente nella tua normale condizione.
+
+VALÈRE.
+
+È una bruttissima abitudine quella del rossetto; alla fine non potrò farne a meno, e senza sarei nel peggiore dei guai. Dov'è dunque la mia scatola di mosche? Ma cosa vedo lì? Un ritratto... Ah! Frontin; l'oggetto incantevole!... Dove hai preso questo ritratto?
+
+FRONTIN.
+
+Io? Voglio essere impiccato se so di cosa mi parli.
+
+VALÈRE.
+
+Come! Non sei stato tu a mettere questo ritratto sulla mia toilette?
+
+FRONTIN.
+
+No, che muoia.
+
+VALÈRE.
+
+Chi sarà mai?
+
+FRONTIN.
+
+Davvero, non ne so niente. Può essere solo il diavolo, oppure tu.
+
+VALÈRE.
+
+Altro che! Ti hanno pagato perché taccia... Sai benissimo che la comparazione di questo oggetto fa male ad Angélique... Ecco, per onore, la figura più bella che abbia mai visto in vita mia. Che occhi, Frontin!... Credo che assomiglino ai miei.
+
+FRONTIN.
+
+È tutto dire.
+
+VALÈRE.
+
+Trovo molti tratti del mio aspetto in lei... È davvero incantevole... Ah! Se lo spirito sostiene tutto questo... Ma il suo gusto mi conferma il suo spirito. La furba sa riconoscere il merito!
+
+FRONTIN.
+
+Che diavolo! Vediamo dunque tutte queste meraviglie.
+
+VALÈRE.
+
+Ecco, ecco. Pensi di ingannarmi col tuo aria da sciocco? Mi credi novellino nelle avventure?
+
+FRONTIN, tra sé.
+
+Non mi sbaglio? È lui... è proprio lui. Guardalo com'è agghindato! Quante fioriture! Quanti fiocchetti! Senza dubbio è uno scherzo di Lucinde; Marton ci sarà almeno per metà. Non disturbiamo il loro bisticcio. Le mie precedenti discrezioni mi sono costate troppo caro.
+
+VALÈRE.
+
+Ebbene! Il signor Frontin riconoscerebbe l'originale di questo dipinto?
+
+FRONTIN.
+
+Puh! Se lo riconosco! Qualche centinaio di calci nel sedere, e altrettanti schiaffi, che ho avuto l'onore di ricevere nel dettaglio, hanno cementato bene la conoscenza.
+
+VALÈRE.
+
+Una ragazza, dei calci! È un po' audace.
+
+FRONTIN.
+
+Sono piccole impazienze domestiche che la prendono per niente.
+
+VALÈRE.
+
+Come! L'avresti servita?
+
+FRONTIN.
+
+Sì, signore; e ho persino l'onore di essere sempre il suo umilissimo servo.
+
+VALÈRE.
+
+Sarebbe piuttosto buffo se a Parigi ci fosse una bella che non conoscessi!... Parlami sinceramente. L'originale è così amabile come il ritratto?
+
+FRONTIN.
+
+Amabile! Sai, signore, che se qualcuno potesse avvicinarsi alle tue perfezioni, non troverei nessun altro da paragonarti.
+
+VALÈRE, osservando il ritratto.
+
+Il mio cuore non resiste... Frontin, dimmi il nome di questa bellezza.
+
+FRONTIN, tra sé.
+
+Ah! Per la verità, mi hanno beccato senza via di scampo.
+
+VALÈRE.
+
+Come si chiama? Parla dunque.
+
+FRONTIN.
+
+Si chiama... si chiama... non si chiama proprio. È una ragazza anonima, come tante altre.
+
+VALÈRE.
+
+In quali tristi sospetti mi getta questo furfante! Potrebbe essere che tratti così incantevoli siano solo quelli di una garçonnière?
+
+FRONTIN.
+
+Perché no? La bellezza ama adornarsi con volti che traggono la loro fierezza solo da lei.
+
+VALÈRE.
+
+Cosa, è...
+
+FRONTIN.
+
+Una piccola persona molto civettuola, molto coquette, molto vanitosa, senza grandi motivi per esserlo; in una parola, una vera femmina snob.
+
+VALÈRE.
+
+Ecco come questi servi sfacciati parlano delle persone che hanno servito. Bisogna però vedere. Dimmi dov'è che abita?
+
+FRONTIN.
+
+Beh, abitare! Abita mai?
+
+VALÈRE.
+
+Se mi innervosisci... Dove abita, canaglia?
+
+FRONTIN.
+
+Davvero, signore, per non mentirti, lo sai meglio tu di me.
+
+VALÈRE.
+
+Come?
+
+FRONTIN.
+
+Giuro che non conosco meglio di te l'originale di questo ritratto.
+
+VALÈRE.
+
+Non sei stato tu a metterlo lì?
+
+FRONTIN.
+
+No, la peste mi soffochi!
+
+VALÈRE.
+
+Queste idee che mi hai dato...
+
+FRONTIN.
+
+Non vedi che me le fornisci tu stesso? C'è forse qualcuno al mondo più ridicolo di così?
+
+VALÈRE.
+
+Cosa! Non riuscirò a scoprire da dove viene questo ritratto? Il mistero e la difficoltà irritano il mio impaziente desiderio. Perché, te lo confesso, ne sono davvero innamorato.
+
+FRONTIN, tra sé.
+
+La cosa è impagabile! Eccolo innamorato di se stesso.
+
+VALÈRE.
+
+Tuttavia, Angélique, la splendida Angélique... Davvero, non capisco niente del mio cuore, e voglio vedere questa nuova amante prima di decidere qualcosa sul mio matrimonio.
+
+FRONTIN.
+
+Come, signore! Tu non... Ah! Ti stai prendendo gioco di me.
+
+VALÈRE.
+
+No, ti dico molto seriamente che non posso offrire la mia mano ad Angélique finché l'incertezza dei miei sentimenti sarà un ostacolo al nostro reciproco benessere. Non posso sposarla oggi; è una questione decisa.
+
+FRONTIN.
+
+Sì, da te. Ma tuo padre, che ha preso anch'egli le sue decisioni personali, è l'uomo al mondo meno propenso a cedere alle tue; sai che il suo punto debole non è la disponibilità.
+
+VALÈRE.
+
+Bisogna trovarla, a qualunque costo. Andiamo, Frontin, corriamo, cerchiamo ovunque.
+
+FRONTIN.
+
+Andiamo, corriamo, voliamo; facciamo l'inventario e la descrizione di tutte le belle ragazze di Parigi. Peste! Che bel libro avremmo lì! Libro raro, la cui lettura non addormenterebbe.
+
+VALÈRE.
+
+Affrettiamoci. Vieni a finire di vestirmi.
+
+FRONTIN.
+
+Aspetta, ecco proprio tuo padre. Proponiamogli di partecipare.
+
+VALÈRE.
+
+Zitto, carnefice. Il maledetto contrattempo!
+
+Scena IV.
+
+Lisimon, Valère, Frontin.
+
+LISIMON, che deve sempre avere un tono brusco.
+
+Ebbene, figlio mio?
+
+VALÈRE.
+
+Frontin, una sedia per il signore.
+
+LISIMON.
+
+Voglio restare in piedi. Ho solo due parole da dirti.
+
+VALÈRE.
+
+Non potrei, signore, ascoltarti se non fossi seduto.
+
+LISIMON.
+
+Che diavolo! Non mi va. Vedrai che l'impertinente farà complimenti con suo padre.
+
+VALÈRE.
+
+Il rispetto...
+
+LISIMON.
+
+Oh! Il rispetto consiste nell'obbedirmi e non darmi fastidio. Ma, cosa? Ancora in mutande? Un giorno di nozze? Ecco che bello! Angélique non ti ha ancora fatto visita?
+
+VALÈRE.
+
+Stavo finendo di pettinarmi, e stavo per vestirmi per presentarmi decorosamente davanti a lei.
 
 LISIMON.
 
@@ -2500,6 +2838,794 @@ II a donc bien de la vanté !
 
 MARTON.
 
+<span class="qlang-split" data-lang="en"></span>
+
+I’ll follow her, and without betraying our secret, prevent her, if possible, from doing something foolish.
+
+Scene IX.
+
+Angélique, Valère.
+
+VALÈRE, not seeing Angélique.
+
+I run without knowing where I should seek this charming object. Will love not guide my steps?
+
+ANGÉLIQUE, to herself.
+
+Ungrateful! He guides them all too well.
+
+VALÈRE.
+
+Thus love always has its sorrows. I must experience them by searching for the beauty I love, unable to find one who will love me in return.
+
+ANGÉLIQUE, to herself.
+
+What impertinence! Alas! How can one be so vain and so charming at the same time?
+
+VALÈRE.
+
+I must wait for Frontin; he might have had better luck. In any case, Angélique adores me...
+
+ANGÉLIQUE, to herself.
+
+Ah, traitor! You know my weakness all too well.
+
+VALÈRE.
+
+After all, I still feel that I won’t lose anything with her; [the heart](/positions/fideism), the charms—everything is there.
+
+ANGÉLIQUE, to herself.
+
+He’ll do me the honor of accepting me as a second choice.
+
+VALÈRE.
+
+What oddness I feel in my sentiments! I give up possession of a charming object, yet deep down my inclination still draws me back to it. I expose myself to my father’s displeasure just to stubbornly pursue a beauty, perhaps unworthy of my sighs, perhaps imaginary, based solely on a portrait fallen from the sky and surely flattered. What caprice! What folly! But what’s more—aren’t folly and caprices precisely what make an amiable man appealing? (Looking at the portrait.) How many graces!... What features!... How enchanted it is!... How divine! Ah! Let Angélique not delude herself into thinking she can compare with such charms.
+
+ANGÉLIQUE, seizing the portrait.
+
+I certainly wouldn’t dare. But allow me to share your admiration. Knowing the charms of this fortunate rival will at least soften the shame of my defeat.
+
+VALÈRE.
+
+Oh heavens!
+
+ANGÉLIQUE.
+
+What’s wrong with you? You seem utterly stunned. I never would’ve thought a dandy could be so easily disconcerted.
+
+VALÈRE.
+
+Ah! Cruel one, you know all the power you have over me, and you insult me without my being able to respond.
+
+ANGÉLIQUE.
+
+That’s really unfair; and you ought to be insulting me properly. Go on, sir knight, I pity your embarrassment: here’s your portrait; and I’m even less upset that you liked the original, since your feelings on this point completely match mine.
+
+VALÈRE.
+
+What! You know the person?...
+
+ANGÉLIQUE.
+
+Not only do I know her, but I can tell you she’s the dearest thing in the world to me.
+
+VALÈRE.
+
+Really, now that’s new; and the language is rather peculiar coming from a rival’s mouth.
+
+ANGÉLIQUE.
+
+I don’t know; but it’s sincere. (To herself) If he gets proud, I’ll triumph.
+
+VALÈRE.
+
+So she really has merit?
+
+ANGÉLIQUE.
+
+It’s entirely up to her to have infinitely more.
+
+VALÈRE.
+
+No flaws, surely?
+
+ANGÉLIQUE.
+
+Oh! Plenty. She’s a strange little person, capricious, flighty, scatterbrained, fickle, and above all, intolerably vain. But still, despite all that, she’s charming, and I predict right now that you’ll love her until your dying day.
+
+VALÈRE.
+
+You’re okay with that?
+
+ANGÉLIQUE.
+
+Yes.
+
+VALÈRE.
+
+It won’t upset you?
+
+ANGÉLIQUE.
+
+No.
+
+VALÈRE, to himself.
+
+Her indifference drives me mad. (Aloud) May I dare to hope that for my sake you’ll be willing to strengthen your bond with her even further?
+
+ANGÉLIQUE.
+
+That’s all I ask.
+
+VALÈRE, outraged.
+
+You say all this with a calmness that delights me.
+
+ANGÉLIQUE.
+
+How come! You were complaining just now about my cheerfulness, and now you’re angry at my coolness. I don’t know which tone to take with you anymore.
+
+VALÈRE, under his breath.
+
+I’m bursting with spite. (Aloud) Will Miss grant me the favor of letting me meet her?
+
+ANGÉLIQUE.
+
+Now that’s a kind of service I’m quite sure you’re not expecting from me—but I’ll go along with your hopes, and I promise it anyway.
+
+VALÈRE.
+
+It’ll be soon, at least?
+
+ANGÉLIQUE.
+
+Maybe even today.
+
+VALÈRE.
+
+I can’t stand it anymore. (He tries to leave.)
+
+ANGÉLIQUE, to herself.
+
+I’m starting to see good signs in all this; he’s too spiteful not to still be in love. (Aloud) Where are you going, Valère?
+
+VALÈRE.
+
+I see my presence bothers you, and I’ll give you space.
+
+ANGÉLIQUE.
+
+Ah! Not at all. I’ll withdraw myself: it’s not fair that I chase you out of your own home.
+
+VALÈRE.
+
+Go on, go on; remember that whoever loves nothing doesn’t deserve to be loved.
+
+ANGÉLIQUE.
+
+It’s still better to love nothing than to be in love with oneself.
+
+Scene XI.
+
+Valère, Frontin, drunk.
+
+FRONTIN.
+
+What the devil! I can’t help it—I can’t stay steady; I did my best to gather strength, though.
+
+VALÈRE.
+
+Well then! Frontin, did you find it?
+
+FRONTIN.
+
+Oh yes, sir.
+
+VALÈRE.
+
+Oh heavens! Could it be possible?
+
+FRONTIN.
+
+I really had a hard time.
+
+VALÈRE.
+
+Hurry up and tell me...
+
+FRONTIN.
+
+I had to run through every tavern in the neighborhood.
+
+VALÈRE.
+
+Taverns!
+
+FRONTIN.
+
+But I succeeded beyond my wildest hopes.
+
+VALÈRE.
+
+Tell me then...
+
+FRONTIN.
+
+It was a fire... A foam...
+
+VALÈRE.
+
+What the devil is this animal babbling about?
+
+FRONTIN.
+
+Wait while I recount it in order.
+
+VALÈRE.
+
+Shut up, drunkard, rascal; or answer me about the instructions I gave you regarding the original of the portrait.
+
+FRONTIN.
+
+Ah! Yes, the original; exactly. Rejoice, rejoice, I tell you.
+
+VALÈRE.
+
+Well?
+
+FRONTIN.
+
+It’s no longer at the Croix-blanche, nor at the Lion-d’or, nor at the Pomme de pin, nor...
+
+VALÈRE.
+
+Hangman, will you ever finish?
+
+FRONTIN.
+
+Patience. Since it’s not there, it must be elsewhere; and... Oh! I’ll find it, I’ll find it...
+
+VALÈRE.
+
+I’m itching to knock him senseless; let’s leave.
+
+Scene XIII.
+
+Lucinde, Frontin.
+
+LUCINDE.
+
+Frontin, where’s your master?
+
+FRONTIN.
+
+But I think he’s looking for himself right now.
+
+LUCINDE.
+
+What, he’s looking for himself?
+
+FRONTIN.
+
+Yes, he’s looking for himself to get married.
+
+LUCINDE.
+
+What’s all this gibberish?
+
+FRONTIN.
+
+Gibberish! Don’t you understand a thing?
+
+LUCINDE.
+
+No, honestly.
+
+FRONTIN.
+
+Well, neither do I: I’ll explain it to you, if you want.
+
+LUCINDE.
+
+How can you explain something you don’t understand?
+
+FRONTIN.
+
+Oh! Madam, I went to school.
+
+LUCINDE.
+
+He’s drunk, I think. Hey, Frontin, please, bring back some common sense; try to make yourself understood.
+
+FRONTIN.
+
+Why, nothing could be easier. Here. It’s a portrait... metamorph... no, metaphor... yes, metaphorized. It’s my master, it’s a girl... you made a certain mix... Because I figured it all out, myself. Well, could you speak more clearly?
+
+LUCINDE.
+
+No, that’s impossible.
+
+FRONTIN.
+
+Only my master doesn’t understand it; because he’s fallen in love with his own likeness.
+
+LUCINDE.
+
+What! Without recognizing himself?
+
+FRONTIN.
+
+Yes, and that’s precisely what’s extraordinary.
+
+LUCINDE.
+
+Ah! I understand everything else. And who could’ve predicted that? Run fast, poor Frontin, fly and fetch your master and tell him I have the most urgent things to communicate to him. Be careful, especially, not to mention your guesses to him. Here, take this for...
+
+FRONTIN.
+
+To drink, isn’t it?
+
+LUCINDE.
+
+Oh no! You don’t need it.
+
+FRONTIN.
+
+It’ll be just in case.
+
+Scene XV.
+
+Angélique, Lucinde, Marton.
+
+ANGÉLIQUE.
+
+Cheer up, Lucinde; Léandre doesn’t mean to make you die. I’ll admit, though, that he wanted to see you without your knowing it.
+
+LUCINDE.
+
+Alas! Too bad.
+
+ANGÉLIQUE.
+
+But do you realize that “too bad” isn’t exactly modest?
+
+MARTON.
+
+It’s a little vein of fraternal blood.
+
+LUCINDE.
+
+My God! You’re so cruel! After that, what did he say?
+
+ANGÉLIQUE.
+
+He told me he’d be desperate to win you against your will.
+
+MARTON.
+
+He even added that your resistance somehow pleased him. But he said it with a certain air... Do you know, judging your feelings for him carefully, I’d bet he’s not holding back much toward you either. Keep hating him just the same; he won’t treat you badly in return.
+
+LUCINDE.
+
+That’s a way of obeying me that’s not very polite.
+
+MARTON.
+
+To be polite with other women, you don’t always have to be so obedient.
+
+ANGÉLIQUE.
+
+The only condition he set for his renunciation is that you’ll receive his farewell visit.
+
+LUCINDE.
+
+Oh! No way; I’m off the hook.
+
+ANGÉLIQUE.
+
+Ah! You couldn’t refuse him that. Besides, it’s an agreement I made with him. I’ll even confide in you that he’s counting a lot on the success of this meeting, and he dares to hope that after appearing before your eyes, you’ll no longer resist this alliance.
+
+LUCINDE.
+
+He’s got quite a bit of boasting, then!
+
+MARTON.
+
+<span class="qlang-split" data-lang="it"></span>
+
+La seguirò e, senza tradire il nostro segreto, cercherò, se possibile, di impedirle di commettere qualche follia.
+
+Scena IX.
+
+Angélique, Valère.
+
+VALÈRE, senza vedere Angélique.
+
+Corro senza sapere dove devo cercare questo oggetto incantevole. L'amore non guiderà forse i miei passi?
+
+ANGÉLIQUE, a parte.
+
+Ingordo! Li conduce fin troppo bene.
+
+VALÈRE.
+
+Così l'amore ha sempre le sue pene. Devo provarle cercando la bellezza che amo, non riuscendo a trovarla per farmi amare.
+
+ANGÉLIQUE, a parte.
+
+Che impertinenza! Ahimè! Come si può essere così presuntuosi e così affascinanti nello stesso tempo?
+
+VALÈRE.
+
+Bisogna aspettare Frontin; lui forse avrà avuto più fortuna. In ogni caso, Angélique mi adora...
+
+ANGÉLIQUE, a parte.
+
+Ah, traditore! Conosci troppo bene il mio debole.
+
+VALÈRE.
+
+Dopotutto, sento sempre che non perderò nulla ai suoi occhi; il [cuore](/positions/fideism), gli incanti, tutto c'è.
+
+ANGÉLIQUE, a parte.
+
+Mi farà l'onore di gradirmi come alternativa.
+
+VALÈRE.
+
+Che stranezza provo nei miei sentimenti! Rinuncio alla possessione di un oggetto incantevole, e al quale, in fondo, il mio desiderio mi riporta ancora. Mi espongo alla disapprovazione di mio padre per ostinarmi su una bella donna, forse indegna dei miei sospiri, forse immaginaria, sulla sola fede di un ritratto caduto dal cielo e sicuramente adulato. Che capriccio! Che follia! Ma insomma, la follia e i capricci non sono forse il tocco caratteristico di un uomo affascinante? (Guardando il ritratto.) Quante grazie!... Quali lineamenti!... Com'è incantevole!... Com'è divino! Ah! Angélique non si illuda di reggere il confronto con tanti incanti.
+
+ANGÉLIQUE, afferrando il ritratto.
+
+Non me ne preoccupo certo. Ma permettetemi di condividere la vostra ammirazione. La conoscenza degli incanti di questa fortunata rivale almeno attenuerà la vergogna della mia sconfitta.
+
+VALÈRE.
+
+Oh cielo!
+
+ANGÉLIQUE.
+
+Che avete dunque? Sembrate completamente interdetto. Non avrei mai creduto che un piccolo signore fosse così facile da smontare.
+
+VALÈRE.
+
+Ah! crudele, voi conoscete tutto il potere che avete su di me e mi offendete senza che io possa rispondere.
+
+ANGÉLIQUE.
+
+È davvero mal fatto; e sarebbe giusto che mi diceste delle ingiurie. Andate, cavaliere, ho pietà del vostro imbarazzo: ecco il vostro ritratto; e sono tanto meno offesa che abbiate amato l'originale, quanto più i vostri sentimenti su questo punto coincidono pienamente con i miei.
+
+VALÈRE.
+
+Cosa! Conoscete la persona?...
+
+ANGÉLIQUE.
+
+Non solo la conosco, ma posso dirvi che è ciò che ho di più caro al mondo.
+
+VALÈRE.
+
+Davvero, ecco una novità; e il linguaggio è un po' singolare nella bocca di una rivale.
+
+ANGÉLIQUE.
+
+Non lo so; ma è sincero. (A parte) Se si innervosisce, io trionfo.
+
+VALÈRE.
+
+Ha dunque molti meriti?
+
+ANGÉLIQUE.
+
+Dipende solo da lei averne infiniti.
+
+VALÈRE.
+
+Nessun difetto, senza dubbio?
+
+ANGÉLIQUE.
+
+Oh! Molti. È una piccola persona strana, capricciosa, leggera, distratta, volubile e soprattutto di una vanità insopportabile. Ma, insomma! È affascinante nonostante tutto, e prevedo già che la amerete fino alla tomba.
+
+VALÈRE.
+
+Volete dunque acconsentire?
+
+ANGÉLIQUE.
+
+Sì.
+
+VALÈRE.
+
+Questo non vi farà arrabbiare?
+
+ANGÉLIQUE.
+
+No.
+
+VALÈRE, a parte.
+
+La sua indifferenza mi dispera. (Ad alta voce) Oserò sperare che, per amor mio, vorrete stringere ulteriormente il vostro legame con lei?
+
+ANGÉLIQUE.
+
+È proprio quello che chiedo.
+
+VALÈRE, esasperato.
+
+Dite tutto questo con una tranquillità che mi incanta.
+
+ANGÉLIQUE.
+
+Come! Vi lamentavate poco fa del mio allegro spirito e ora vi arrabbiate per il mio sangue freddo. Non so più che tono prendere con voi.
+
+VALÈRE, sottovoce.
+
+Muoio di dispetto. (Ad alta voce) Signorina, mi concederete la cortesia di presentarmi a lei?
+
+ANGÉLIQUE.
+
+Ecco, per esempio, un tipo di favore che sono ben certa non vi aspettiate da me: però voglio soddisfare la vostra speranza e ve lo prometto ancora.
+
+VALÈRE.
+
+Sarà presto, almeno?
+
+ANGÉLIQUE.
+
+Forse già oggi.
+
+VALÈRE.
+
+Non ce la faccio più. (Vuole andarsene.)
+
+ANGÉLIQUE, a parte.
+
+Comincio a sperare bene da tutto questo; ha troppo dispetto per non avere più amore. (Ad alta voce) Dove state andando, Valère?
+
+VALÈRE.
+
+Vedo che la mia presenza vi disturba e vi lascio il posto.
+
+ANGÉLIQUE.
+
+Ah! No. Me ne vado io stessa: non è giusto che io vi scacci da casa vostra.
+
+VALÈRE.
+
+Andate, andate; ricordatevi che chi non ama nulla non merita di essere amato.
+
+ANGÉLIQUE.
+
+È meglio non amare nulla che essere innamorati di sé stessi.
+
+Scena XI.
+
+Valère, Frontin, ubriaco.
+
+FRONTIN.
+
+Che diavolo! Non riesco a stare in piedi; eppure ho fatto del mio meglio per rafforzarmi.
+
+VALÈRE.
+
+Allora, Frontin, hai trovato?
+
+FRONTIN.
+
+Oh! Sì, signore.
+
+VALÈRE.
+
+Ah, cielo! È possibile?
+
+FRONTIN.
+
+Mi è costato parecchio.
+
+VALÈRE.
+
+Affrettati a dirmi...
+
+FRONTIN.
+
+Ho dovuto correre per tutti i cabaret del quartiere.
+
+VALÈRE.
+
+Per i cabaret!
+
+FRONTIN.
+
+Ma ho avuto successo oltre ogni aspettativa.
+
+VALÈRE.
+
+Raccontami dunque...
+
+FRONTIN.
+
+Era un fuoco... Una schiuma...
+
+VALÈRE.
+
+Che diavolo sta balbettando questo animale?
+
+FRONTIN.
+
+Aspettate che riprenda la cosa in ordine.
+
+VALÈRE.
+
+Taci, ubriacone, furfante; o rispondimi sugli ordini che ti ho dato riguardo all'originale del ritratto.
+
+FRONTIN.
+
+Ah! Sì, l'originale; proprio così. Rallegratevi, rallegratevi, ve lo dico.
+
+VALÈRE.
+
+Ebbene?
+
+FRONTIN.
+
+Non è più né alla Croix-blanche, né al Lion-d'or, né alla Pomme de pin, né...
+
+VALÈRE.
+
+Carnefice, finirai?
+
+FRONTIN.
+
+Pazienza. Poiché non è lì, deve essere altrove; e... Oh! Lo troverò, lo troverò...
+
+VALÈRE.
+
+Mi prude la mano di menarlo; usciamo.
+
+Scena XIII.
+
+Lucinde, Frontin.
+
+LUCINDE.
+
+Frontin, dov'è il tuo padrone?
+
+FRONTIN.
+
+Ma, credo che in questo momento si stia cercando.
+
+LUCINDE.
+
+Come, si sta cercando?
+
+FRONTIN.
+
+Sì, si sta cercando per sposarsi.
+
+LUCINDE.
+
+Che cos'è questo gergo?
+
+FRONTIN.
+
+Questo gergo! Non ci capite proprio nulla?
+
+LUCINDE.
+
+No, davvero.
+
+FRONTIN.
+
+Be', nemmeno io: comunque ve lo spiegherò, se volete.
+
+LUCINDE.
+
+Come spiegarmi ciò che tu non capisci?
+
+FRONTIN.
+
+Oh! Certo, ho studiato anch'io.
+
+LUCINDE.
+
+È ubriaco, credo. Ehi, Frontin, ti prego, richiama un po' il buon senso; cerca di farti capire.
+
+FRONTIN.
+
+Certo, niente di più facile. Eccolo. È un ritratto... metamorf... no, metafor... sì, metaforizzato. È il mio padrone, è una ragazza... avete fatto un certo miscuglio... Perché ho indovinato tutto questo, io. Insomma, si può parlare più chiaro?
+
+LUCINDE.
+
+No, non è possibile.
+
+FRONTIN.
+
+Solo il mio padrone non ci capisce nulla; perché si è innamorato della sua somiglianza.
+
+LUCINDE.
+
+Cosa! Senza riconoscersi?
+
+FRONTIN.
+
+Sì, ed è proprio questo che è straordinario.
+
+LUCINDE.
+
+Ah! Capisco tutto il resto. E chi poteva prevederlo? Corri, mio povero Frontin, vai a cercare il tuo padrone e digli che ho cose urgentissime da comunicargli. Attento, soprattutto, a non parlargli delle tue intuizioni. Tieni, ecco per...
+
+FRONTIN.
+
+Per bere, vero?
+
+LUCINDE.
+
+Oh no! Non ne hai bisogno.
+
+FRONTIN.
+
+Sarà per precauzione.
+
+Scena XV.
+
+Angélique, Lucinde, Marton.
+
+ANGÉLIQUE.
+
+Consolati, Lucinde, Léandre non vuole farti morire. Ti confesso però che ha voluto vederti senza che tu lo sapessi.
+
+LUCINDE.
+
+Ahimè! Tanto peggio.
+
+ANGÉLIQUE.
+
+Ma sai che questo tanto peggio non è poi così modesto?
+
+MARTON.
+
+È una piccola venatura del sangue fraterno.
+
+LUCINDE.
+
+Mio Dio! Come sei cattiva! Dopo tutto questo, cosa ha detto?
+
+ANGÉLIQUE.
+
+Mi ha detto che sarebbe disperato di ottenermi contro la tua volontà.
+
+MARTON.
+
+Ha persino aggiunto che la tua resistenza in qualche modo gli fa piacere. Ma l'ha detto con un certo tono... Sai che, a giudicare bene dei tuoi sentimenti verso di lui, scommetterei che non è affatto restio con te. Continua a odiarlo allo stesso modo, non ti renderà male per male.
+
+LUCINDE.
+
+Ecco un modo di obbedirti che non è molto educato.
+
+MARTON.
+
+Per essere educato con le altre donne non bisogna sempre essere così obbedienti.
+
+ANGÉLIQUE.
+
+L'unica condizione che ha posto alla sua rinuncia è che riceverai la sua visita d'addio.
+
+LUCINDE.
+
+Oh! Per questo no; me ne libero.
+
+ANGÉLIQUE.
+
+Ah! Non potresti negarglielo. Del resto, è un impegno che ho preso con lui. Ti avviso anche confidenzialmente che conta molto sul successo di questa visita e osa sperare che, dopo essersi mostrato ai tuoi occhi, non resisterai più a quest'unione.
+
+LUCINDE.
+
+Ha dunque molta presunzione!
+
+MARTON.
+
 <span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="assi/meaning_of_history,positions/decadence,schools/enlightenment"></span>
 
 Il se flatte de vous apprivoiser.
@@ -3444,7 +4570,7 @@ Andiamo, tutti conoscete le mie intenzioni; dovete semplicemente attenervi ad es
 
 LEANDRO.
 
-Eh! Signore, si degni di placare la sua ira. Non vede forse nel loro sguardo e nel loro imbarazzo il pentimento dei colpevoli? E vuole davvero condannare gli innocenti alla stessa punizione?
+Eh! Signore, si degni di placare la sua [ira](/concepts/anger). Non vede forse nel loro sguardo e nel loro imbarazzo il pentimento dei colpevoli? E vuole davvero condannare gli innocenti alla stessa punizione?
 
 LISIMON.
 

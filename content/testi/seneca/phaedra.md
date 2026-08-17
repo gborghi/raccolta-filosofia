@@ -147,7 +147,7 @@ FAE Dela
 
 [85] O potente Creta, padrona del vasto mare, la cui innumerevole flotta ha solcato ogni costa, aprendo la strada alle navi fino ad Assiria. Perché mi costringi a finire nelle mani del nemico, come ostaggio, moglie del mio avversario, a trascorrere i miei giorni nella miseria e nel pianto? Mio signore è fuggito lontano, rispettando il suo giuramento nuziale, secondo la tradizione di Teseo. Attraverso le oscure profondità di quell’abisso, nessuno osa attraversare. Lui, quel coraggioso seguace di un folle amante, cerca di rapire sua moglie dal trono stesso del re degli inferi. Prosegue senza paura né vergogna. E lì, nelle profondità dell’Acheronte, cerca adulterio e un letto illegittimo. Questo padre di Ippolito.
 
-[99] Ma un’altra preoccupazione, ancora più grande, opprime il mio cuore angosciato. Nella notte non trovo pace, e nessun sonno profondo mi libera dai miei timori. Una malattia cresce dentro di me, bruciando con intensità come il fiume che sgorga dalle caverne dell’Etna. Il telaio di Pallas rimane inutilizzato, e i compiti che un tempo mi procuravano piacere sfuggono ora dalle mie mani inerte; non mi diverte più adornare i templi con offerte votive, né alzare le torce davanti agli altari, tra gruppi di dame ateniesi, per testimoniare questi riti silenziosi; né pregare con devozione e rendere omaggio alla dea che protegge questa terra che un tempo le fu concessa! La mia unica gioia ora è inseguire quelle bestie spaventate e scagliare loro lance con mano ferma.
+[99] Ma un’altra preoccupazione, ancora più grande, opprime il mio cuore angosciato. Nella notte non trovo pace, e nessun sonno profondo mi libera dai miei timori. Una malattia cresce dentro di me, bruciando con intensità come il fiume che sgorga dalle caverne dell’Etna. Il telaio di Pallas rimane inutilizzato, e i compiti che un tempo mi procuravano piacere sfuggono ora dalle mie mani inerte; non mi diverte più adornare i templi con offerte votive, né alzare le torce davanti agli altari, tra gruppi di dame ateniesi, per testimoniare questi riti silenziosi; né pregare con devozione e rendere [omaggio](/concepts/religion) alla dea che protegge questa terra che un tempo le fu concessa! La mia unica gioia ora è inseguire quelle bestie spaventate e scagliare loro lance con mano ferma.
 
 [112] Dove ti dirigi, o mia anima? Perché questo folle amore per le valli boschive? Riconosco la maledizione fatale di mia madre infelice; il suo amore e il mio sanno come peccare nelle profondità della foresta. Madre, il mio cuore soffre per te. Spazzata via da un male inesprimibile, hai amato coraggiosamente quel selvaggio capo di quella turba indomita. Era feroce e irrequieto, senza legge nell’amore. Eppure amava qualcosa. Ma quanto a me, quale dio, quale Dedalo potrebbe alleviare la mia misera passione? Anche se lui stesso tornasse, quel maestro dell’ingegno attico che rinchiuse il nostro mostro nel labirinto oscuro, non potrebbe certo aiutarmi nella mia sventura. Venere, che odia la prole di quel Sole odiato, si vendica attraverso di noi delle catene che la legavano al suo amato Marte, e getta su tutta la stirpe di Febo una vergogna inesprimibile. Nessuna figlia della casa di Minos ha mai trovato leggera la schiavitù dell’amore. Sempre è legata al peccato.
 
@@ -551,6 +551,86 @@ HIPPOLYTUS
 
 PHAEDRA
 
+<span class="qlang-split" data-lang="it"></span>
+
+[461] Vuoi, come un aspro abitante dei boschi, ignorante della vita, trascorrere la tua giovinezza nella malinconia e dimenticare Venere? È forse compito dell’uomo sopportare fatiche, domare cavalli nel loro rapido corso e ingaggiare guerre feroci in sanguinose battaglie? Quante diverse sono le forme di morte che colpiscono e nutrono folle di mortali! Il mare, l’acciaio e la perfidia! Ma supponiamo che manchino tutte queste: sulla tua strada ci avventuriamo voluttuosamente verso una morte tenebrosa. La vita senza sposo lascia che la giovinezza sterile applaudi; allora tutto ciò che vedrai sarà solo la folla di una sola generazione e crollerà su se stessa in rovina. Nella sua provvidenza, quell’onnipotente padre dell’universo, quando vide quanto avidi fossero i mani della Sorte, diede sempre nuovo vigore alla progenie per compensare le perdite. Dunque, basta che l’amore sia bandito dalla vita umana, quell’amore che rifornisce e rinnova la razza impoverita: il globo intero giacerà immondo nell’abbandono più vile; il mare resterà vuoto di pesci; agli uccelli mancheranno i cieli, alle bestie selvatiche i boschi, e le vie dell’aria saranno percorse soltanto dai venti. Segui dunque la natura come guida della vita; frequenta la città; cerca le dimore degli uomini.  
+
+IPPOLITO  
+
+[482] Non esiste vita così libera e innocente, nessuna che custodisca meglio le antiche usanze, quanto quella che, abbandonando le città, ama i boschi. Il suo cuore non è infiammato da alcuna folle brama di guadagno chi si è dedicato a vagare innocuo sulle vette delle montagne; qui non c’è popolo urlante, né turba infedele ai buoni uomini, né odio velenoso, né favore fragile. Non è schiavo dei re, né in cerca di regalità rincorre onori vuoti o ricchezze elusive, libero tanto dalla speranza quanto dalla paura; il velenoso dispetto non lo assale con il morso di denti ignobili; non conosce quei mali che nascono tra le folle brulicanti della città, né trema davanti a ogni rumore con coscienza colpevole, né inventa parole menzognere. Non cerca con orgoglio di ricchezza di essere riparato sotto un tetto eretto su mille colonne, né con insolente sfarzo riveste di oro le sue travi. Nessun torrente di sangue bagna i suoi altari pii, nessun sacrificio di tori candidi, cosparso della farina sacra, piega il collo; ma il suo dominio è sui campi spogli, e sotto il cielo aperto egli vaga senza colpa.  
+
+[502] La sua unica arte è tendere astuti tranelli alle bestie selvatiche, e, quando si stanca per la dura fatica, ristora il corpo nelle acque del fiume Ilissos, rinfrescate dalle nevi. Ora cammina lungo la riva del veloce Alfeo, ora attraversa i luoghi profondi del bosco elevato, dove la fresca Lerna è trasparente con i suoi banchi cristallini, e le silenziose profondità forestali, dove gli uccelli lamentosi intonano musica, e i frassini e i faggi secolari tremano dolcemente al vento. Dolce è sdraiarsi sulla riva di qualche fiume errante, o sull’erba nuda per godersi sonni leggeri, sia là dove una fonte abbondante versa le sue acque rapide, sia là dove un ruscello mormora dolcemente tra fiori in boccio mentre scorre.  
+
+[515] Frutti scossi dagli alberi della foresta placano la sua fame, e bacche raccolte dai bassi cespugli offrono un pasto facile. È la sua passione fuggire lontano dal lusso regale. È dalle ansiose coppe d’oro che bevono i superbi! Com’è dolce afferrare con mano nuda l’acqua della sorgente! Qui il sonno lenisce più sicuro mentre si adagia, senza preoccupazioni, sul suo duro giaciglio. Non tramava colpevolmente segreti in stanze oscure e su letti nascosti, né si nasconde timoroso nel suo labirintico palazzo; cerca l’aria e la luce, e la sua vita ha il cielo come testimone.  
+
+[525] Fu così, mi sembra, che vivevano coloro che l’età primordiale generò, in amichevole comunione con gli dèi. Non avevano amore cieco per l’oro; nessuna pietra sacra, che giudicasse tra i popoli, separava i campi nella pianura spaziosa; ancora non navigavano temerari vascelli per il mare; ogni uomo conosceva solo le proprie acque native. Allora le città non erano circondate da massicci muri, punteggiate da molte torri; nessun soldato impugnava armi feroci, né catapulte rompevano porte chiuse con pesanti pietre. Ancora la terra, soffrendo sotto il dominio di un padrone, feconda di sé stessa, nutriva nazioni che non chiedevano altro; i boschi davano agli uomini la loro ricchezza naturale, e le grotte ombrose offrivano case naturali.  
+
+[540] Una passione profana per il guadagno spezzò questa vita pacifica, ira impetuosa e concupiscenza che infiamma i cuori degli uomini. Poi venne la sete crudele di potere; il più debole diventava preda del più forte, e la forza prendeva il posto della giustizia. Prima gli uomini combattevano con pugni nudi [poi cominciarono a impugnare armi mortali] e trasformavano pietre e bastoni grezzi in armi. Ancora non c’era una lancia leggera con punta di ferro affusolata; nessuna spada lunga e appuntita pendeva al fianco; nessun elmo coronato di penne brillava da lontano; la rabbia forniva armi. Marte guerriero inventò nuovi [[modi|modi] di combattimento e mille forme di morte. Da questa sorgente, fiumi di sangue macchiarono tutte le terre e il mare si tinse di rosso. Allora il crimine marciava indisturbato in ogni casa e nessun atto empio mancava di precedenti. Fratello uccideva fratello, padre per mano del figlio, marito giaceva morto per la spada della moglie, e madri innaturali distruggevano i propri figli. Non parlo delle matrigne; non sono affatto più misericordiose delle bestie. Ma la capostipite di ogni malvagità è la donna; è lei, abile padrona del crimine, che insidia le nostre menti; sono i suoi adulteri nefasti che fanno fumare tante città, fanno guerreggiare tante nazioni, fanno cadere tanti popoli sotto le rovine dei loro regni, completamente distrutti. Che altri rimangano senza nome; la moglie di Egeo, Medea, da sola dimostrerà che le donne sono una razza maledetta.  
+
+NURSE  
+
+[564] Perché far ricadere su tutti il crimine di pochi?  
+
+IPPOLITO  
+
+[565] Li aborro tutti, li temo, li evito, li maledico tutti. Che sia ragione, istinto o furia selvaggia: è mia gioia odiarli. Prima che tu faccia incontrare fuoco e acqua, prima che le pericolose Sirti offrano alle navi un passaggio amichevole, prima che Teti dalla sua lontana costa occidentale porti l’alba luminosa, e i lupi guardino le femmine con occhi carezzevoli, io, vinto dall’odio, non avrò mai pensieri gentili verso la donna.  
+
+NURSE  
+
+[574] Spesso l’Amore mette freno ai cuori ostinati e cambia il loro odio. Guarda il regno di tua madre; quelle guerriere sentono il giogo di Venere. Ne sei testimone, unico figlio della sua stirpe.  
+
+IPPOLITO  
+
+[578] Considero l’unico conforto per mia madre perduta il fatto che ora possa odiare tutte le donne.  
+
+NURSE  
+
+[580] [A parte.] Come una rupe dura, inaccessibile da ogni lato, resiste alle onde e respinge lontano l’impetuoso flusso, così lui respinge le mie parole.  
+
+[583] Ma Fedra si avvicina a noi, impaziente di ritardo. Dove andrà la fortuna? Dove si dirigerà la follia?  
+
+[FEDRA entra e cade come in uno svenimento.]  
+
+[585] Il suo corpo esanime è caduto improvvisamente a terra e un pallore mortale ha invaso il suo viso.  
+
+[IPPOLITO si affretta a sollevarla tra le sue braccia.]  
+
+[587] Solleva il viso, rompi il silenzio. Guarda, figlia mia, il tuo stesso Ippolito ti abbraccia.  
+
+FEDRA  
+
+[589] [Riprendendosi.] Chi mi restituisce al dolore e riaccende nella mia anima questa febbre terribile? Com’era beata la mia inconsapevolezza di me stessa!  
+
+IPPOLITO  
+
+[591] Perché rifuggi il dolce dono della vita ritrovata?  
+
+FEDRA  
+
+[592] [A parte.] Coraggio! Anima mia, prova, compi il tuo stesso comando. Le tue parole siano coraggiose e ferme; chi fa richieste timide invita al rifiuto. La parte principale della mia colpa è già compiuta da tempo; troppo tardi per me è la modestia – ho amato indegnamente. Se porto a termine ciò che ho iniziato, forse posso nascondere il mio peccato dietro la fiaccola nuziale. Il successo rende onesti alcuni peccati. Su, anima mia, comincia! [A IPPOLITO.] Prestami un po’ di attenzione in privato, ti prego. Se c’è qualche tuo compagno qui, che si allontani.  
+
+IPPOLITO  
+
+[601] Ecco, il luogo è libero da ogni testimone.  
+
+FEDRA  
+
+[602] Ma le mie labbra rifiutano di pronunciare le parole che vorrei formulare; una forza potente mi spinge a parlare, e una ancora più forte mi trattiene. Vi chiamo tutti a testimoni, o poteri celesti, che ciò che desidero –  
+
+IPPOLITO  
+
+[606] Il tuo cuore desidera qualcosa e non riesce a dirlo?  
+
+FEDRA  
+
+[607] Le cose leggere trovano voce; quelle pesanti restano mute.  
+
+IPPOLITO  
+
+[608] Affida i tuoi problemi alle mie orecchie, madre.  
+
+FEDRA
+
 <span class="atom-split" data-atom="007" data-title="PHAEDRA (parte 5)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 
 [609] Mother – that name is too proud and high; a humbler name better suits my feelings. Call me sister, Hippolytus, or slave – yes, slave is better; I will endure servitude. Shouldst thou bid me walk through deep-drifted snows, I would not shrink from faring along the cold peaks of Pindus; shouldst thou send me through fire and midst deadly battle ranks, I would not hesitate to offer my breast to naked swords. Take thou in my stead the sceptre committed to my care, accept me for thy slave; it becomes thee to bear sway, me, to obey thine orders. It is no woman’s task to watch o’er royal cities. Do thou, in the vigour of thy youth’s first bloom, rule o’er the citizens, strong in thy father’s power; take to thine arms thy suppliant, and protect thy slave. Pity my widowhood –
@@ -741,7 +821,7 @@ CORO
 
 [736] Fuggì come una tempesta furiosa, più veloce del Corus che raccoglie le nuvole, più rapido della fiamma che si propaga quando una stella, spinta dai venti, estende il suo lungo pennacchio di fuoco.
 
-[741] Lascia che la fama ti paragoni a tutte le bellezze del passato, o fama, ammiratrice dell’antichità: la tua bellezza splende ancora più radiosa quando la luna piena unisce i suoi raggi, quando Febe, con il suo veicolo veloce, mostra il suo volto al plenilunio e le stelle minori scompaiono dalla vista. Così è Hespero, messaggero della notte che riporta indietro le prime ombre, appena bagnato nell’oceano; e quando anche queste ombre sono state scacciate via, arriva anche Lucifer.
+[741] Lascia che la fama ti paragoni a tutte le [bellezze](/concepts/beauty) del passato, o fama, ammiratrice dell’antichità: la tua bellezza splende ancora più radiosa quando la luna piena unisce i suoi raggi, quando Febe, con il suo veicolo veloce, mostra il suo volto al plenilunio e le stelle minori scompaiono dalla vista. Così è Hespero, messaggero della notte che riporta indietro le prime ombre, appena bagnato nell’oceano; e quando anche queste ombre sono state scacciate via, arriva anche Lucifer.
 
 <span class="atom-split" data-atom="008" data-title="PHAEDRA (parte 6)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en" data-tags="concepts/passion,concepts/nature,concepts/death,forms/tragedy"></span>
 

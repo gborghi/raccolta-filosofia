@@ -113,7 +113,7 @@ Few people notice how the ear identifies such measures or beats in music compose
 
 Lo scopo della musica è il suono.
 
-Il suo scopo è quello di piacere e suscitare in noi diverse emozioni; infatti, è certo possibile comporre melodie che siano al contempo tristi e gradevoli. Non dovrebbe quindi sorprendere il fatto che la musica sia in grado di produrre effetti così diversi: anche le elegie e le tragedie ci piacciono tanto più quanto suscitano in noi compassione, dolore e ci toccano profondamente.
+Il suo scopo è quello di piacere e suscitare in noi diverse emozioni; infatti, è certo possibile comporre melodie che siano al contempo tristi e gradevoli. Non dovrebbe quindi sorprendere il fatto che la musica sia in grado di produrre effetti così diversi: anche le elegie e le tragedie ci piacciono tanto più quanto suscitano in noi [compassione](/concepts/compassion), dolore e ci toccano profondamente.
 
 I mezzi per raggiungere questo scopo, ovvero le proprietà del suono più significative, sono due: da un lato, conoscere le sue differenze in relazione al tempo o alla durata, e dall’altro, in relazione alla forza o all’intensità del suono, considerato come grave o acuto; quanto alla natura e alla qualità del suono stesso, stabilire quali corpi e quali mezzi si debbano utilizzare per renderlo più piacevole spetta ai fisici.
 

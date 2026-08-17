@@ -96,7 +96,7 @@ Le “Ambracia” e le “Sabinae” di Ennio (239-169 a.C.) vengono solitamente
 
 Disponiamo di quattro brevi frammenti attribuiti a Paolo di Pacuvio (220-130 a.C.), scritti in occasione delle imprese di L. Emilio Paolo, che conquistò Perseo, re della Macedonia, nella battaglia di Pydna nel 168 a.C.
 
-I frammenti delle opere teatrali già menzionate sono troppo brevi per fornire un’idea adeguata del loro carattere o contenuto. Tuttavia, nell’“Brutus” di Accio (nato nel 170 a.C.), che tratta dell’allontanamento dei Tarquini e della fondazione della Repubblica, abbiamo due frammenti particolarmente interessanti: il primo è composto da dodici trimetri iambici, mentre il secondo da dieci tetrametri trocaici. Nel primo frammento, re Tarquin racconta a un indovino di un sogno infausto che ha avuto; nel secondo, l’indovino interpreta questo sogno, prevedendo la deposizione di Tarquin da parte di Brutus. Altri brevi frammenti offrono dettagli sull’aggressione di Sexto contro Lucrezia a Collatia, nonché sulla scena nel foro in cui Brutus giura l’incarico di primo console. A differenza della maggior parte delle opere precedenti, questo dramma non fu scritto all’epoca degli eventi che descrive; tuttavia, per quanto riguarda il suo scopo, può comunque essere considerato appartenente a questa categoria, poiché si ritiene generalmente sia stato composto in onore di D. Giunio Brutus, console nel 138 a.C., con il quale il poeta intratteneva una stretta amicizia.
+I frammenti delle opere teatrali già menzionate sono troppo brevi per fornire un’idea adeguata del loro carattere o contenuto. Tuttavia, nell’“Brutus” di Accio (nato nel 170 a.C.), che tratta dell’allontanamento dei Tarquini e della fondazione della Repubblica, abbiamo due frammenti particolarmente interessanti: il primo è composto da dodici trimetri iambici, mentre il secondo da dieci tetrametri trocaici. Nel primo frammento, re Tarquin racconta a un indovino di un sogno infausto che ha avuto; nel secondo, l’indovino interpreta questo sogno, prevedendo la deposizione di Tarquin da parte di Brutus. Altri brevi frammenti offrono dettagli sull’aggressione di Sexto contro Lucrezia a Collatia, nonché sulla scena nel foro in cui Brutus giura l’incarico di primo console. A differenza della maggior parte delle opere precedenti, questo dramma non fu scritto all’epoca degli eventi che descrive; tuttavia, per quanto riguarda il suo scopo, può comunque essere considerato appartenente a questa categoria, poiché si ritiene generalmente sia stato composto in onore di D. Giunio Brutus, console nel 138 a.C., con il quale il poeta intratteneva una stretta [amicizia](/concepts/friendship).
 
 È conservata un’altra opera di Accio, il “Decio”, di cui rimangono undici brevi frammenti. Quest’opera celebra la vittoria di Quinto Fabio Massimo e P. Decio Mure su Samniti e Galli a Sentinum nel 295 a.C. Il culmine dell’opera è rappresentato dall’autodistruzione di Decio, che segue l’esempio di suo padre durante la guerra latina del 340 a.C.
 
@@ -508,7 +508,7 @@ Sì! Una padrona più favorita.
 
 Infermiera.
 
-— Sottomessa e umile, manifesta segni che rivelano la sua grande paura. Anche lei tradirà il volubile e ingannevole Cupido; nonostante sia di bell’aspetto e possieda grande potere, la sua gioia sarà solo effimera.
+— Sottomessa e umile, manifesta segni che rivelano la sua grande paura. Anche lei tradirà il volubile e ingannevole Cupido; nonostante sia di [bell’aspetto](/concepts/beauty) e possieda grande potere, la sua gioia sarà solo effimera.
 
 Anche la regina degli dei stessa soffrì profondamente quando il signore del cielo e padre degli dei assunse mille forme diverse: a volte assumeva le ali di un cigno, altre volte i corni di un toro di Sidone; poi scendeva sulla terra sotto forma di una pioggia d’oro. Le stelle di Leda brillavano nel cielo, Bacco dimorava sull’Olimpo accanto a suo padre, Alcide, ormai divino, possedeva Hebe. E più non temeva la furia di Giove: era diventato suo genero, pur essendo stato un tempo suo nemico. Tuttavia, una saggezza controllata e una rabbia moderata permisero a questa regina di vincere; senza rivali, senza preoccupazioni, Giove rimaneva al suo fianco nel cielo. E tu, sulla terra, seconda Juno, moglie e sorella di Augusto, supera anche tu le tue dolorose prove.
 
@@ -1171,6 +1171,76 @@ Why do you stir up dire strife in vain? Invincible the shafts that Cupid bears; 
 [Enter NERO.]
 
 NERO
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Al Coro] Trattenete le lacrime in questo lieto, festoso giorno di Roma; non sia la vostra grande affezione e cura per me a suscitare l’acuta ira dell’imperatore e a causarvi sofferenza. Questa ferita non è la prima che il mio cuore abbia patito; ne ho sopportate di ben più gravi. Ma oggi le mie preoccupazioni avranno fine, anche con la mia morte. Non dovrò più guardare il volto del mio crudele marito, né entrare nella stanza di una schiava che odio: sarò la sorella di Augusto, non la moglie. Solo mi si risparmi punizioni atroci e una morte spaventosa. — E tu, povera, folle fanciulla, ricordando i crimini del tuo crudele marito, puoi ancora sperare in ciò? A lungo tenuta in disparte per questa festa nuziale, cadrà infine, vittima sfortunata. Ma perché tante volte rivolgi lo sguardo alla casa paterna con gli occhi pieni di lacrime? Affrettati a lasciare questo tetto; abbandona il palazzo insanguinato dell’imperatore. [Esce.]  
+
+CORO  
+
+Ecco, ora è spuntato il giorno tanto a lungo temuto, tanto spesso annunciato da voci mormorate. Claudia ha lasciato la camera del crudele Nerone, che già Poppaea occupa trionfante, mentre il nostro amore langue oppresso da un timore angoscioso e il dolore è intorpidito. Dov’è ora la virilità del popolo romano, che spesso nei tempi antichi ha schiacciato illustri condottieri, dato leggi a una terra invincibile, consegnato i fasci ai cittadini meritevoli, deciso guerra e pace a suo piacimento, sottomesso popoli selvaggi e imprigionato re prigionieri? Ecco, dolorosa alla nostra vista, ovunque ora brilla l’immagine di Poppaea, unita a quella di Nerone! Che mani violente le gettino a terra, simili troppo ai tratti della loro padrona; che la trascinino giù dal suo alto letto e poi, con fiamme divoratrici e lance feroci, assaltino il palazzo dell’imperatore. [Esce il CORO.]  
+
+[Entra la NUTRICE DI POPPEA e Poppaea stessa, che appare turbata, uscendo dalla sua camera.]  
+
+NUTRICE  
+
+Dove vai, cara bambina, tutta tremante dalla camera del tuo signore, o quale luogo nascosto cerchi con il viso afflitto? Perché le tue guance sono bagnate di pianto? Di certo il giorno tanto pregato e promesso dalle nostre preghiere è arrivato; al tuo Cesare sei unita dalla fiaccola nuziale, lui che la tua [bellezza](/concepts/beauty) ha catturato, lui che Venere ti ha consegnato in catene, Venere, derisa da Seneca, madre d’Amore, divinità potentissima. Oh, quanto eri bella e maestosa sul letto nuziale, distesa nella sala! Il senato ammirava la tua bellezza, estasiato, quando offrivi incenso agli dei e cospargevi di vino gradito i sacri altari, la testa coperta da un velo nuziale trasparente, color fiamma. E accanto a te, maestosa tra gli applausi favorevoli dei cittadini, camminava proprio il principe, mostrando, nell’aspetto e nel portamento, gioia e orgoglio. Così Peleo prese Teti per sposa, sorta dalla schiuma dell’Oceano, alla cui nozze, si dice, accorsero gli immortali del cielo, e ogni divinità marina con uguale allegria. Quale causa ha cambiato così all’improvviso il tuo volto? Dimmi cosa significano il tuo pallore e le tue lacrime.  
+
+POPPAEA  
+
+Il mio cuore triste, cara nutrice, è confuso e turbato da una visione spaventosa della notte scorsa, e i sensi mi girano. Dopo che il giorno felice aveva ceduto alle stelle oscure e il cielo alla notte, io giacevo rilassata nel sonno tra le braccia del mio Nerone. Ma non mi fu concesso molto tempo per godere dolce riposo; perché la mia camera nuziale sembrava gremita di molti luttuosi; donne romane venivano con i capelli sciolti, facendo lamenti strazianti; tra ripetuti e spaventosi squilli di tromba, la madre di mio marito, con aria minacciosa e feroce, brandiva una torcia macchiata di sangue.  
+
+Mentre la seguivo, spinta da un timore urgente, improvvisamente la terra si aprì sotto di me in una voragine possente. Giù precipitai attraverso essa e là, come sulla terra, vidi il mio letto nuziale, stupita di trovarlo, dove caddi esausta; vidi avvicinarsi, circondato da una folla, il mio ex marito e mio figlio. Crispino si affrettò ad abbracciarmi, a baciarmi come un tempo; quando Nerone irruppe di fretta nella mia camera e conficcò la sua spada feroce nella gola dell’altro. Finalmente un terrore enorme mi svegliò dal sonno; le ossa e le membra tremavano violentemente; il cuore batteva impazzito; la paura bloccava la mia voce, che ora il tuo amore e la tua lealtà mi hanno restituito. Ahimè! Cosa mi minacciano gli spiriti dei morti, o cosa significa quel sangue di mio marito che ho visto?  
+
+NUTRICE  
+
+Qualunque cosa la mente vigile persegua con ardore, un senso misterioso e segreto, rapido nel lavorare, la riporta nel sonno. Ti meravigli che tu abbia visto marito e letto nuziale, stretti nelle braccia del tuo nuovo signore? Ma ti turba che mani battano il petto e capelli sciolti in un giorno di gioia? Era il divorzio di Ottavia che piangevano tra i sacri dei del fratello e la casa paterna. Quella torcia che hai seguito, portata dalla mano di Augusta, annuncia il nome che conquisterai illuminata dall’invidia. La tua dimora nel mondo inferiore promette il letto nuziale stabile di una casa senza fine. Mentre il tuo imperatore conficcò la spada nella gola dell’altro, non farà guerre, ma deporrà la spada in pace. Coraggio, ricorda la tua gioia, ti prego; bandisci la paura e torna nella tua camera.  
+
+POPPAEA  
+
+Piuttosto sono decisa a cercare i santuari e gli altari sacri, e con vittime sacrificali offrire agli dei santi, affinché le minacce della notte e del sonno siano scongiurate e il mio terrore folle si rivolga contro i miei nemici. Tu fa’ voti per me e con preghiere devote implora gli dei del cielo affinché la mia sorte presente sia duratura. [Escono.]  
+
+CORO  
+
+[delle donne romane in [simpatia](/positions/moral_sentiment) con POPPEA.] Se davvero corrono voci balbettanti sui dolci amori rubati del Tonante, (che ora, si dice, nascosto in piume leggere, stringeva Leda tra le sue braccia, ora sulle onde, in forma di toro feroce, portava Europa rapita,) anche ora egli abbandonerà le stelle su cui governa e cercherà le tue braccia, Poppaea, che forse preferirebbe persino a Leda, e a te, O Danae, davanti ai cui occhi stupiti un tempo riversò oro giallo. Che Sparta si vanti della bellezza di sua figlia, e che il pastore frigio si vanti del suo premio; lei supererà il volto di Tindaro, che scatenò una guerra terribile e rase al suolo il regno di Frigia.  
+
+Ma chi viene correndo con passi agitati? Quali notizie porta nel petto ansimante?  
+
+[Entra il MESSENGER.]  
+
+MESSENGER  
+
+Qualunque guardia vegli sulla casa del nostro leader, difenda il palazzo che la furia del popolo minaccia. Guarda, con trepidazione i capitani portano coorti a difendere la città; e la follia della folla, provocata con imprudenza, non cede, presa dal timore, ma raccoglie forza.  
+
+CORO  
+
+Che cos’è quel frenesimo selvaggio che agita i loro cuori?  
+
+MESSENGER  
+
+Presi dall’amore per Ottavia e fuori di sé dalla rabbia, le folle si lanciano, pronte a qualsiasi crimine.  
+
+CORO  
+
+Cosa osano fare, o qual è il loro piano, dimmelo.  
+
+MESSENGER  
+
+Pianificano di restituire a Claudia la casa del padre morto, il letto del fratello e la sua parte di impero.  
+
+CORO  
+
+Che ora Poppaea condivide con il suo signore nella reciproca lealtà?  
+
+MESSENGER  
+
+È proprio questo amore ostinato che infiamma le loro menti e li spinge a una folle imprudenza. Qualsiasi statua fosse stata eretta di marmo nobile o di bronzo splendente, che raffigurasse i tratti di Poppaea, giace a terra, abbattuta da mani ignobili e rovesciata da barre implacabili; le membra, tirate giù con corde, le trascinano pezzo per pezzo, le calpestano ripetutamente e le ricoprono di fango immondo. Maledizioni mescolate accompagnano le loro azioni feroci, che temo di raccontare. Si preparano a circondare di fiamme la casa dell’imperatore se egli non cederà all’ira del popolo la sua nuova sposa, non cederà a Claudia la casa che le appartiene. Affinché lui stesso sappia dell’insurrezione dei cittadini, con le mie proprie labbra mi affretterò a eseguire l’ordine del prefetto. [Esce.]  
+
+CORO  
+
+Perché suscitate inutilmente una grave contesa? Invincibili sono le frecce che Cupido porta; con le sue stesse fiamme travolgerà i vostri fuochi, con cui spesso ha spento fulmini e trascinato Giove come prigioniero dal cielo. Pagherete con il vostro sangue anche severe punizioni al dio offeso. Il ragazzo ardente non tarda a infuriarsi, né è facile da dominare; fu lui a ordinare al feroce Achille di colpire la cetra, a distruggere i Greci, a piegare gli Atridi, a rovesciare i regni di Priamo e a devastare città celebri; e ora la mia mente trema al pensiero di ciò che farà il potere incontrastato del dio implacabile.  
+
+[Entra NERONE.]
 
 <span class="atom-split" data-atom="010" data-title="OCTAVIA (parte 6)" data-chapter="OCTAVIA" data-kind="atom" data-srclang="en" data-tags="assi/state_and_individual,concepts/state,concepts/justice,forms/tragedy"></span>
 

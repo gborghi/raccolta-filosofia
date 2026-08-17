@@ -766,9 +766,9 @@ E poi, se lo si fa.
 
 Il cerchio descrit attorno al centro f con raggio fe sarà tangente alla curva, e il prodotto di.
 
-  per, sarà il risultato di.
+  per, sarà il risultato di.
 
- Cioè, allo stesso modo in cui 3 è relativo a 7.
+  Cioè, allo stesso modo in cui 3 è relativo a 7.
 
 Quindi, se la curva ea contiene un corpo solido trasparente in cui avviene la rifrazione con un rapporto di 3:7, tutti i raggi provenienti dal punto r si dirigeranno verso il punto c dopo essere stati rifratti.
 
@@ -828,7 +828,7 @@ Da ciò si dimostra chiaramente che tutti i raggi provenienti dal punto b tendon
 
 Ora facciamolo.
 
-Ora, per elencare tutte le specie di curve che modificano il fenomeno della rifrazione da un punto all’altro, suppongo che a sia sempre maggiore di b, e c maggiore di d, e procedo così.
+Ora, per elencare tutte le [specie](/positions/realism_of_ideas) di curve che modificano il fenomeno della rifrazione da un punto all’altro, suppongo che a sia sempre maggiore di b, e c maggiore di d, e procedo così.
 
 Quindi ci sono otto capi; per ciascuno di essi è necessario verificare se la sommità della curva sia posizionata in “C” o in “B” tra i punti A e C, nonché se la concavità della curva si diriga verso il punto A o verso il lato opposto.
 

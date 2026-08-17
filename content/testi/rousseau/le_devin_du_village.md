@@ -1258,7 +1258,7 @@ L’amore e le tue lezioni mi hanno finalmente reso saggio.
 
 Preferisco Colette a beni superflui.
 
-Riuscii ad piacerle indossando l’abito da contadina.
+Riuscii ad piacerle indossando l’[abito](/concepts/custom) da contadina.
 
 Sotto un abito dorato, cosa altro potrei ottenere?
 

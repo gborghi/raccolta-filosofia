@@ -74,8 +74,62 @@ To find two diameters that meet in a given angle.
 
 To find two diameters cutting at a given angle and having a given ratio.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prima definizione
+
+Quando diverse rette si intersecano nello stesso punto o sono parallele tra loro, si dice che queste rette appartengano allo stesso ordine. L’insieme di tutte queste rette viene definito “ordine di rette”. [Questa definizione è tratta quasi parola per parola da DESARGUES. Si vedano le note all’edizione di BRUNSCHVICG e BOUTROUX, t. I, Parigi, 1908. Questa traduzione è basata sul facsimile dell’originale contenuto in questa edizione; si ringraziano pertanto le note per l’aiuto fornito nell’interpretazione di diversi passaggi. Va inoltre sottolineato che il testo di questa edizione contrasta notevolmente con quello imperfetto pubblicato nell’edizione parigina del 1819.]
+
+Definizione II
+
+Con l’espressione “sezione conica” ci riferiamo al cerchio, all’ellisse, all’iperbola e alla parabola; poiché un cono tagliato parallelamente alla sua base, o attraverso il suo vertice, oppure nelle altre tre direzioni che producono rispettivamente un’ellisse, un’iperbola e una parabola, genera sulla superficie conica o la circonferenza di un cerchio, o un angolo, o un’ellisse, un’iperbola o una parabola.
+
+Definizione III
+
+Con la parola “droite” (dritta), usata da sola, intendiamo “ligne droite” (linea retta).
+
+[In questa traduzione, la parola “line”, che indica un segmento rettilineo, verrà utilizzata al posto di “droite”.]
+
+**Lemma I**
+
+Se nel piano M, S, Q vengono tracciate due rette MK, MV partenti dal punto M e due rette SK, SV partenti dal punto S; e se K è il punto di intersezione delle rette MK, SK; V il punto di intersezione delle rette MV, SV; A il punto di intersezione delle rette MA, SA; e μ il punto di intersezione delle rette MV, SK; e se attraverso due dei quattro punti A, K, μ, V – che non possono trovarsi sulla stessa retta dei punti M, S – e anche attraverso i punti K, V viene tracciato un cerchio che interseca le rette MV, MP, SV, SK nei punti O, P, Q, N, allora affermo che le rette MS, NO, PQ sono dello stesso ordine.
+
+**Lemma II**
+
+Se attraverso la stessa retta vengono tracciate diverse piane e queste vengono tagliate da un’altra retta, tutte le rette di intersezione di queste piane hanno lo stesso ordine della retta attraverso cui sono state tracciate.
+
+Sulla base di questi due enunciati e di alcune deduzioni semplici da essi, possiamo dimostrare che, se vengono accettate le stesse ipotesi formulate per il primo enunciato – cioè che attraverso i punti K, V qualsiasi sezione conica che intersechi le rette MK, MV, SK, SV nei punti P, O, N, Q abbia caratteristiche geometriche analoghe – allora anche le rette MS, NO, PQ avranno lo stesso ordine geometrico. Questo costituisce un terzo enunciato. [Si tratta del cosiddetto “Esagramma Mistico”, il dualo del Teorema di Brianchon. Pascal non formulò questo teoremo nella forma comunemente presente nei libri di testo.]
+
+Attraverso questi tre assiomi e alcune deduzioni derivanti da essi, proponiamo di ricavare una sequenza completa e ordinata di coniche, [.. elementi conici completi], cioè tutte le proprietà dei diametri e altre rette, [, e lati retti] delle tangenti, ecc.; inoltre, la costruzione del cono a partire da questi dati fondamentali, nonché la descrizione delle sezioni coniche in base ai punti, ecc.
+
+Dopo aver fatto ciò, enuncieremo le proprietà che ne derivano, in modo più generale del solito. Prendiamo ad esempio quanto segue: se nel piano MSQ, nel cono PKV, vengono tracciate le rette AK, AV, che intersecano il cono nei punti P, K, Q, V; e se da due di questi quattro punti, che non si trovano sulla stessa retta del punto A – ad esempio i punti K, V – e attraverso due punti N, O, situati sul cono, vengono tracciate le rette KN, KO, VN, VO, che intersecano le rette AV, AP nei punti L, M, T, S – allora affermo che la proporzione composta dai rapporti tra la retta PM e la retta MA, e tra la retta AS e la retta SQ, è uguale alla proporzione composta dai rapporti tra la retta PL e la retta LA, e tra la retta AT e la retta TQ.
+
+Possiamo anche dimostrare che, se esistono tre rette DE, DG, DH tagliate dalle rette AP, AR nei punti F, G, H, C, y, B, e se il punto E è fisso sulla retta DC, la proporzione composta dai rapporti tra i rettangoli EF.FG e EC.Cy, nonché tra la retta Ay e la retta AG, è uguale al rapporto tra i rettangoli EF.FH ed EC.CB, e tra la retta AB e la retta AH. Lo stesso vale anche per il rapporto tra i rettangoli FE.FD e CE.CD. Pertanto, se una sezione conica attraversa i punti E, D, tagliando le rette AH, AB nei punti P, K, R, ψ, la proporzione composta dai rapporti tra i rettangoli formati dalle linee EF, FC e quelle formate dalle linee EC, Cγ, nonché tra la retta γA e la retta AG, sarà uguale al rapporto tra i rettangoli formati dalle linee FK, FP e quelle formate dalle linee CR, Cψ, e tra i rettangoli formati dalle linee AR, Αψ e quelle formate dalle linee AK, AP.
+
+Possiamo anche dimostrare che, se quattro rette AC, AF, EH, EL si intersecano nei punti N, P, M, O, e se una sezione conica taglia queste rette nei punti C, B, F, D, H, G, L, K, allora la proporzione costituita dai rapporti tra i lati dei rettangoli MC.MB e PF.PD, nonché tra i lati dei rettangoli AD.AF e AB.AC, è uguale alla proporzione composta dai rapporti tra i lati dei rettangoli ML.MK e PH.PG, e tra i lati dei rettangoli EH.EG e EK.EL.
+
+Possiamo anche dimostrare una proprietà enunciata di seguito, attribuita a M. DESARGUES di Lione, uno dei grandi geni di quel tempo e profondamente versato in matematica, in particolare nelle coniche. I suoi scritti su questo argomento, sebbene pochi in numero, offrono prove abbondanti della sua erudizione a chiunque desideri informazioni al riguardo. Vorrei dire che tutto ciò che ho appreso su questo tema lo devo ai suoi scritti e che ho cercato di imitare il suo [metodo](/axes/method) nel misuro del possibile; in esso, infatti, M. Desargues affrontava l’argomento senza fare uso del triangolo passante per l’asse.
+
+Nella trattazione generale delle sezioni coniche, viene discussa la seguente proprietà notevole: Se nel piano MSQ esiste una sezione conica PQN, su di essa si prendono quattro punti K, N, O, V da cui si tracciano le rette KN, KO, VN, VO in modo che soltanto due di queste rette possano passare attraverso gli stessi quattro punti; inoltre, se un’altra retta interseca la sezione conica nei punti R, ψ e le rette KN, KO, VN, VO nei punti X, Y, Z, δ, allora, come il rettangolo ZR·Zψ è rapportato al rettangolo γR·γψ, così anche il rettangolo δR·δφ è rapportato al rettangolo XR·Xψ.
+
+Possiamo anche dimostrare che, se nel piano dell’iperbola, dell’ellisse o del cerchio il cui centro è C viene tracciata la retta AB in modo che tocchi la sezione in A, e dopo aver tracciato il diametro si prende tale retta AB affinché il suo quadrato sia uguale al quadrato della figura in questione, [affinché il quadrato del segmento AB, che è uguale a DE + DF, sia uguale a un quarto del rettangolo circoscritto, la conica deve essere un cerchio. Se la conica è un’ellisse, AB sarà scelta tale da essere uguale all’asse perpendicolare a CA. DESARGUES ha trattato questioni analoghe nel suo “Brouillon Projet” (Œuvres de DESARGUES, I, pp. 202 e 284).] E se si traccia la retta CB, allora qualsiasi retta come DE, parallela a AB e che interseca la sezione in E, insieme alle rette AC e CB nei punti D e F, farà sì che, se la sezione AGE è un’ellisse o un cerchio, la somma dei quadrati delle rette DE e DF sia uguale al quadrato della retta AB; nell’iperbola, invece, la differenza tra i medesimi quadrati delle rette DE e DF sarà uguale al quadrato della retta AB.
+
+Possiamo anche dedurre da questo diversi problemi; ad esempio:
+
+Dai un punto dato tracciare una tangente a una data sezione conica.
+
+Trovare due diametri che si intersecano sotto un angolo dato.
+
+Trovare due diametri che si intersecano sotto un angolo dato e abbiano un rapporto specifico.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="forms/essay"></span>
 
 There are many other problems and theorems, and many deductions which can be made from what has been stated above, but the distrust which I have, due to my little experience and capacity, does not allow me to go further into the subject until it has passed the examination of able men who may be willing to take this trouble. After that if someone thinks the subject worth continuing, I shall endeavor to extend it as far as God gives me the strength.
 
 At Paris, M.DC.XL.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esistono molti altri problemi e teoremi, nonché molte deduzioni che si possono trarre da quanto è stato detto sopra; tuttavia, a causa della mia scarsa esperienza e capacità, la mancanza di fiducia in me stesso mi impedisce di approfondire ulteriormente l’argomento finché esso non sia stato esaminato da persone competenti disposte a dedicarvi del tempo. Solo dopo, se qualcuno ritenesse che l’argomento meriti di essere continuato, cercherò di svilupparlo nel limite delle forze che Dio mi darà.
+
+A Parigi, nel 1640.

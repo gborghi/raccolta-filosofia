@@ -4642,7 +4642,7 @@ Un destino più dolce mi lusinga ancora di più.
 
 E nel segreto del mio cuore amo Anacreonte.
 
-Sulle fiori, con un leggero movimento delle ali.
+Sulle [fiori](/positions/realism_of_ideas), con un leggero movimento delle ali.
 
 Si vedono i zefiri volteggiare nell’aria.
 

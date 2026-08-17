@@ -428,6 +428,402 @@ The vines that mellow when the autumn lures,
 
 If not because the fixed seeds of things
 
+<span class="qlang-split" data-lang="it"></span>
+
+PROEMIO
+
+Madre di Roma, gioia degli dèi e degli uomini.
+
+Caro Venere, sotto le stelle che scivolano nel cielo.
+
+Riempisci tu stesso il mare, solcato da innumerevoli viaggi.
+
+E terre fertili, per tutte le creature viventi.
+
+Solo attraverso te vengono sempre concepiti.
+
+Attraverso di te sono risorti per visitare il grande sole.
+
+Davanti a te, Dea, e prima del tuo arrivo.
+
+Allontanate il vento tempestoso e le nuvole dense.
+
+Per te, la Terra, opera di Dedalo, produce fiori profumati.
+
+Per te, acque delle profondità insondabili.
+
+Sorridi, e le profondità di quel cielo sereno.
+
+Riluca per te con una luce diffusa e tenue!
+
+Poiché non appena arriva la primavera, il giorno assume un aspetto diverso.
+
+E venti potenti soffiano liberamente da ovest.
+
+Le prime “piume d’aria”, colpite direttamente al cuore da te.
+
+Annunzia la tua venuta, o Divino.
+
+E saltare tra le selvagge mandrie nei felici campi.
+
+O nuotare nelle impetuose correnti. Così deve essere.
+
+Posseduti da questo incantesimo, tutte le creature ti seguiranno.
+
+Ovunque tu vada per guidare gli altri,
+
+E da lì, attraverso mari, montagne e rapide correnti d’acqua.
+
+Attraverso i nidi frondosi degli uccelli e le pianure rigogliose di verde,
+
+Accendendo nel cuore di ognuno il desiderio d’amore.
+
+Tu porti alla luce le eterne generazioni.
+
+Generazione dopo generazione. E poiché sei tu l’unico.
+
+Guida l’Universo; senza di te, nulla esisterebbe.
+
+È risorto per raggiungere le luminose rive della luce.
+
+Né nulla di gioioso o di bello nasce spontaneamente.
+
+È te che desidero come compagno in quel versetto.
+
+Presumo che sia la Natura stessa a comporre tutto ciò.
+
+Per il mio caro Memmio, che tu hai voluto che fosse.
+
+Ineguagliabile in ogni grazia, in ogni momento.
+
+Pertanto, o Divino, concedi che le mie parole possano essere udite.
+
+Incanto immortale. Un sonno tranquillo e propizio nel momento giusto.
+
+Sia su mare che sulla terra, i selvaggi atti della guerra.
+
+Poiché solo tu possiedi il potere necessario per garantire la pace pubblica.
+
+Per favorire la mortalità, poiché colui che governa.
+
+Gli spietati flagelli della battaglia, o potente Marte.
+
+Quante volte getta nel tuo grembo tutta la sua forza.
+
+Dominati dal dolore eterno dell’amore.
+
+E lì, con gli occhi e la gola spalancati all’indietro.
+
+Guardandoti, mia Dea, con la bocca aperta.
+
+Gli occhi avidi di amore, il suo respiro.
+
+Rimasto appeso alle tue labbra. Così giaceva.
+
+Riempiti del tuo corpo sacro, oh cielo!
+
+Fai scaturire da quelle labbra dolci sillabe capaci di vincere.
+
+Pace ai Romani, gloriosa Signora, pace!
+
+Poiché in un periodo turbolento per lo [stato](/concepts/state).
+
+Né io posso svolgere questa mia incombenza.
+
+Con pensieri sereni, e non nel mezzo di simili eventi.
+
+Il nobile discendente della famiglia Memmia
+
+Ignorare la causa civica.
+
+Mentre la specie umana.
+
+In tutte le terre, tutto giaceva distrutto e devastato.
+
+Di fronte agli occhi di tutti, sotto il velo della Religione, chi.
+
+Sarebbe visibile nella regione dei cieli.
+
+Con il suo volto orribile, fissava i mortali con uno sguardo minaccioso.
+
+Fu un greco il primo ad osare opporsi.
+
+Alzate occhi mortali capaci di sopportare tale terrore.
+
+Né la fama degli dèi né il colpo del fulmine possono.
+
+Né il tuono minaccioso del cielo infausto.
+
+Imbarazzato, ma piuttosto irritato fino allo sdegno.
+
+Il suo cuore intrepido era pronto ad essere il primo a offrire il proprio contributo.
+
+Le traverse alle porte della Vecchia Natura.
+
+E così la sua volontà e la sua saggezza tenace ebbero la meglio.
+
+E così proseguì il suo cammino, sempre più lontano.
+
+Le fiammeggianti mura del mondo, fino a quando.
+
+Vagò nell’Infinito, senza confini.
+
+Pertanto, egli ci racconta, in qualità di conquistatore.
+
+Quali cose possono diventare realtà, quali no.
+
+E secondo quale legge ciascuno riceve il proprio ambito di azione stabilito?
+
+La sua pietra del confine, che si insinua così profondamente nel Tempo.
+
+Pertanto, ora che la Religione è in auge.
+
+E ora la sua vittoria ci eleva fino al cielo.
+
+So quanto sia difficile comporre versi in latino.
+
+Per raccontare le oscure scoperte dei Greci.
+
+Soprattutto perché il nostro linguaggio, adatto ai poveri, deve essere in grado di esprimere.
+
+Termini strani, adatti alla stranezza stessa di quella cosa.
+
+Tuttavia, degno di te e della gioia che ci si aspetta.
+
+Con la tua dolce [amicizia](/concepts/friendship), convincimi.
+
+Sopportare ogni fatica e vegliare per tutta la notte.
+
+Cercando, con le parole e con la musica.
+
+Finalmente, posso dissipare tutte le nuvole che offuscano la mia visione, in modo assolutamente glorioso.
+
+Per te, quella luce lontana, con la quale poter vedere.
+
+Il nucleo stesso del fatto di trovarsi al centro rimaneva nascosto.
+
+E per il resto, chiamate a giudizio ciò che è vero.
+
+Orecchie libere da distrazioni e una mente serena e concentrata.
+
+Distaccati dalle preoccupazioni del mondo; affinché questi miei doni, disposti con cura.
+
+Per te, con un servizio devoto e appassionato, disprezi tutto ciò che non sia tale.
+
+Prima che tu comprenda, poiché per te.
+
+Dimostro la legge suprema degli Dei e del cielo.
+
+E i germi primordiali di tutte le cose si sviluppano.
+
+Da lì la Natura crea e moltiplica tutto.
+
+E favorisce tutto ciò verso cui si decide di procedere.
+
+Alla fine, ogni cosa viene rovesciata quando arriva la sua fine.
+
+Questo nome definitivo che abbiamo ideato per.
+
+Gli atomi che si riproducono, la materia: i semi di tutte le cose.
+
+O corpi primordiali, così essenziali per il mondo stesso.
+
+Temo che forse tu ritenga che noi stiamo procedendo.
+
+Un sentiero empio che conduce verso regni di pensiero profano.
+
+Ma è proprio quella stessa religione che, molto più spesso.
+
+Ha generato le orribili empietà degli uomini.
+
+Come un tempo ad Aulide, i capi eletti.
+
+Tra gli eroi più illustri, i consiglieri di Danaan.
+
+Il altare di Diana fu profanato, regina vergine.
+
+Con la figlia di Agamennone, brutalmente uccisa.
+
+Sentì la corona di fiori intorno ai suoi capelli castani.
+
+E i filetti, che piovevano giù su entrambe le guance.
+
+E all’altare era segnato il suo addolorato padre.
+
+I sacerdoti che gli erano accanto e avevano nascosto il coltello.
+
+E tutta la gente piangeva alla sua vista.
+
+Con un terrore silenzioso e le ginocchia che cedevano.
+
+Cadde; ormai nulla avrebbe potuto aiutarla, dopo quel primo momento.
+
+Fu lei ad attribuire al re un nome da padre.
+
+La sollevarono, presero in braccio la ragazza tremante.
+
+Verso l’altare, ma non ora.
+
+Con riti solenni e un coro nuziale,
+
+Ma donna senza peccato, destinata fin dal principio al peccato.
+
+Una madre la colpì il giorno del suo matrimonio.
+
+Trasformare suo figlio in una vittima sacrificale.
+
+Affinché alle navi di Troia soffiassero venti propizi.
+
+Ecco i crimini a cui conduce la religione.
+
+E verrà il momento in cui anche tu.
+
+Costretto dai terribili racconti del veggente, dovrai cercare.
+
+Per allontanarsi da noi. Ah, quanti sogni ancora oggi.
+
+Riusciranno davvero a sovvertire i tuoi piani di vita?
+
+E rovina tutta la tua fortuna con timori meschini e infondati.
+
+Affermo questo con ragionevole certezza; infatti, se solo gli uomini lo sapessero.
+
+Se ci fosse un limite definito alle sofferenze, saremmo più forti.
+
+Con qualche mezzo ancora insuperato.
+
+Le religioni e le minacce dei profeti.
+
+Ma ora né abilità né strumenti sono a loro disposizione.
+
+Poiché gli uomini devono temere i dolori eterni dopo la morte.
+
+Non sanno cosa possa essere l’anima.
+
+Che sia nato con esso o che ne entri in possesso dopo la nascita.
+
+E se, rapito dalla morte, dovesse morire con noi.
+
+O visita le ombre e le vaste caverne.
+
+Di Orco, o per qualche decreto divino.
+
+Entrate nelle sterminate mandrie, come cantava il nostro Ennio.
+
+Chi fu il primo, dal bel monte Elicone, a portare giù.
+
+Un ghirlando di alloro composto da foglie perenni e brillanti.
+
+Riconosciuto per sempre tra i clan italiani.
+
+Eppure anche Ennio, con i suoi versi immortali.
+
+Proclama quei abissi di Acheronte come.
+
+Disse che da lì né anime né corpi potessero procedere.
+
+Ma solo figure fantasma, stranamente pallide.
+
+E racconta di come, un tempo, da quelle regioni sorse.
+
+Che lo spirito dell’antico Omero gli appaia e versi lacrime di sale.
+
+E attraverso le sue parole si rivelò la fonte della Natura.
+
+Allora, con mente ferma, sia nostro il compito di afferrarlo.
+
+Lo scopo dei cieli, la legge che li governa.
+
+I percorsi erranti del sole e della luna;
+
+Per analizzare le forze che accelerano ogni forma di vita al di sotto di noi.
+
+Ma soprattutto, se si osserva con occhi razionali.
+
+Di ciò che è fatto la mente, di ciò che è fatto l’anima.
+
+E ciò che è così terribile da distruggere completamente.
+
+Su di noi, che dormiamo o che ci svegliamo ammalati.
+
+Fino a quando sembra che possiamo percepire e udire ciò che è immediatamente davanti a noi.
+
+Uomini morti i cui resti sono sepolti da molto tempo nella terra.
+
+La sostanza è eterna.
+
+Quindi, questo terrore, questa oscurità della mente.
+
+Non l’alba con i suoi raggi di luce che si diffondono.
+
+Né le scintillanti frecce dell’alba possono disperdere.
+
+Ma solo l’aspetto della Natura e la sua legge.
+
+Il quale, insegnandoci ciò che segue, inizia con queste parole:
+
+Niente è mai nato dal nulla.
+
+La paura domina la mortalità.
+
+Solo perché, osservando la terra e il cielo.
+
+È una causa di cui nessuno saggio conosce la vera natura.
+
+Gli uomini pensano che siano le divinità a operare in quel luogo.
+
+Nel frattempo, non appena avremo scoperto qualcosa, anche se ancora senza alcuna certezza.
+
+Niente può essere creato; dobbiamo limitarci a indovinare.
+
+In altre parole, ciò che cerchiamo sono quegli elementi.
+
+Da questo solo derivano tutte le cose create.
+
+E realizzato senza l’ausilio di alcun strumento divino.
+
+Supponiamo che tutto derivi da ogni cosa, qualsiasi tipo di cosa.
+
+Potrebbe avere origine da qualsiasi cosa.
+
+Non era necessario utilizzare semi fissi; gli uomini provenienti dal mare.
+
+Potrebbe risorgere, e da quella terra, quella razza squamosa.
+
+E gli uccelli, ormai completamente sviluppati, sembrano spuntare dal cielo;
+
+Il bestiame cornuto, le mandrie e tutta la fauna selvatica.
+
+Avrebbe perseguitato, con conseguenze diverse e disastrose, fino alla distruzione totale.
+
+Né gli stessi frutti potrebbero rimanere sugli alberi di un tempo.
+
+Ma ognuno di essi potrebbe crescere da qualsiasi parte del tronco o dei rami.
+
+Per caso e per variabili circostanze. Infatti, se non ci fossero.
+
+Per ogni singolo atomo che partecipa al processo di riproduzione, le cose avrebbero potuto essere diverse.
+
+Ognuno legato alla propria madre immutabile, antica.
+
+Ma poiché tutto ciò che viene prodotto da semi fissi è.
+
+Ogni nascita avviene sulle rive della luce.
+
+Dalle sue stesse materie, dai suoi stessi corpi primordiali.
+
+E tutto ciò non può diventare realtà, perché.
+
+Ognuno di essi possiede una forza segreta, propria solo a sé.
+
+Ancora una volta: perché vediamo che abbiamo sprecato le risorse di queste terre?
+
+In primavera la rosa; con il calore dell’estate il mais.
+
+Le viti che maturano quando arriva l’autunno.
+
+Se non fosse per i “semi immutabili” delle cose.
+
 <span class="atom-split" data-atom="002" data-title="BOOK I (parte 2)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="positions/atomism,positions/materialism,concepts/nature,schools/epicureanism"></span>
 
 At their own season must together stream,
@@ -822,6 +1218,400 @@ Had staid at rest, its parts together crammed.
 
 Then too, however solid objects seem,
 
+<span class="qlang-split" data-lang="it"></span>
+
+Devono scorrere insieme nella loro stagione naturale.
+
+E le nuove creazioni vengono rivelate soltanto.
+
+Quando arrivano i due momenti previsti, la terra feconda.
+
+Può con sicurezza approdare sulle rive della luce.
+
+I suoi teneri figli. Ma se tutto è nato dal nulla.
+
+Se fossero stati pronti, si sarebbero precipitati all’esterno.
+
+All’improvviso, in modo imprevisto, negli “mesi alieni”.
+
+Senza alcun germine primordiale da preservare.
+
+Da unioni procreative in momenti sfavorevoli.
+
+Né nemmeno quando i semi viventi si mescolano tra loro.
+
+Sarebbe necessario dello spazio per la crescita delle cose?
+
+Se la vita fosse un semplice accrescimento di nulla, allora.
+
+Il minuscolo bambino, all’istante, avrebbe iniziato a camminare come un uomo.
+
+E dal tappeto erboso sarebbe spuntata un’albero con rami che si diramavano.
+
+Meraviglie mai udite prima; infatti, per volontà della Natura, ogni.
+
+Cresce lentamente a partire dal suo seme legittimo.
+
+E attraverso tale aumento, manterrà la propria specie intatta.
+
+Dove si trova la prova che le cose crescono e si nutrono?
+
+Dalla loro stessa materia originale. Ed è così che accade.
+
+Quella terra, priva delle sue stagioni caratterizzate da piogge regolari.
+
+Non poteva produrre nulla che ci rendesse felici.
+
+E qualsiasi essere vivente, se privato di cibo,
+
+Non prolunga più la propria specie e non protegge più la propria vita.
+
+È quindi più facile ritenere che molte cose.
+
+Hanno corpi primordiali in comune (come possiamo osservare).
+
+Le singole lettere comuni a molte parole.
+
+Tutto esiste senza le proprie origini.
+
+Inoltre, perché mai la Natura non dovrebbe prepararsi.
+
+Uomini di tale forza fisica da poter attraversare i mari a piedi.
+
+O trasformare con le proprie mani quelle maestose montagne.
+
+O conquista il Tempo allungando la durata dei giorni, se non altro.
+
+Poiché, per tutte le cose generate, vale.
+
+La materia immutabile, e ciò che da essa può scaturire.
+
+È fissato per sempre? Infine, vediamo.
+
+Di quanto i campi coltivati superano quelli incolti.
+
+E ritornino alla [fatica](/concepts/labour) delle nostre mani.
+
+I loro raccolti, più abbondanti. Infatti, è così.
+
+All’interno della terra, germi primordiali di tutte le cose.
+
+Il che, proprio come la lama del aratro rivolge i cumuli di terra fertili.
+
+E impastando la materia, rapidamente veniamo alla luce.
+
+Altrimenti, avreste notato senza alcuno sforzo da parte nostra.
+
+Generazioni spontanee, forme più belle.
+
+Allora confessa: da nulla non può derivare nulla.
+
+Poiché tutto deve avere i propri semi da cui crescere.
+
+Da lì si raggiungono i dolci campi dell’aria.
+
+Ed è proprio per questo che la Natura si dissolve completamente.
+
+Ritornarono nei loro corpi primordiali, e nulla più.
+
+Perisce, per sempre, nell’annientamento.
+
+Infatti, se qualcosa di mortale fosse perfetto in ogni sua parte.
+
+Davanti ai nostri occhi, potrebbe essere strappato via da noi.
+
+Verso la distruzione, poiché non era necessaria alcuna forza.
+
+Per separare i suoi membri e sciogliere le sue legami.
+
+In realtà, poiché tutte le cose esistono.
+
+Con semi immortali, la Natura permette.
+
+Nessuna distruzione, né crollo di nulla, fino a quando.
+
+Qualsiasi forza esterna può frantumare qualcosa con un colpo.
+
+O l’abilità manuale che penetra nelle sue cavità interne.
+
+Scioglierlo completamente. E ancora di più: se il Tempo.
+
+Che spreca, con il fuoco, le opere create in tutto il mondo.
+
+Distruggere tutta la materia, consumarla completamente.
+
+Dove, dunque, può Venere ritornare alla luce della vita?
+
+Ristabilire le generazioni una dopo l’altra, in modo ordinato e corretto?
+
+O come, una volta ripristinata in questo modo, la Terra possa.
+
+Nutri e arricchisci con il suo cibo antico.
+
+Quale, specie per specie, offre lei a ciascuno di loro?
+
+Da dove possono provenire queste sorgenti d’acqua, sotto il mare?
+
+O i fiumi interni, sparsi in ogni direzione.
+
+Mantenere l’oceano insondabile pieno?
+
+E di cosa si nutrono le stelle con l’[[Ether]?
+
+Perché gli anni trascorsi e l’eternità stessa richiedono necessariamente.
+
+Hanno consumato ogni forma di vita mortale.
+
+Ma sia che nel “Tanto Tempo Fa” esistessero già quei germi.
+
+Ed è attraverso questo insieme di elementi che le cose acquisiscono la capacità di “vivere”.
+
+Quegli stessi esseri, inevitabilmente, non possono mai morire.
+
+Né nulla tornerà mai più da nulla.
+
+E, inoltre, la stessa forza potrebbe terminare allo stesso modo.
+
+Tutte le cose, se non fossero ancora tenute unite.
+
+Dalla materia eterna, vincolata nelle sue parti.
+
+Ora di più, ora di meno. Forse basterà un semplice tocco.
+
+Per causare distruzione. Con la minima forza possibile.
+
+Perderei il filo conduttore di tutte le cose, in cui nessuna parte.
+
+Erano di una stirpe immortale. Ma ora.
+
+Poiché i meccanismi di fissaggio delle parti primordiali.
+
+Vengono assemblati in modi diversi e simili.
+
+È eterno: le cose rimangono sempre uguali.
+
+Illeso e sicuro di me stesso, finché non arriva qualche forza che possa cambiare tutto.
+
+Capace di distruggere la trama e l’ordine di ogni cosa.
+
+Niente ritorna nel nulla; tutto, invece, ritorna.
+
+Nel loro ritorno alle forme primordiali della materia.
+
+Ecco, le piogge svaniscono nel momento in cui il Padre Eterele le scatena.
+
+Fino al grembo della Madre Terra, ma poi.
+
+Fa germogliare il grano luminoso; i rami sono verdi.
+
+Tra gli alberi, e gli stessi alberi diventano sempre più grandi.
+
+E si caricavano di frutti; e così, a loro volta.
+
+La specie umana e tutte le creature selvatiche trovano cibo.
+
+Pertanto, le città gioiose prosperano grazie ai ragazzi e alle ragazze.
+
+E le foreste rigogliose risuonano dei canti di nuovi uccelli;
+
+Pertanto, il bestiame, grasso e sonnolento, giace immobile nel proprio peso.
+
+Lungo i gioiosi pascoli, mentre le gocce.
+
+Dalla dilatazione delle sacche fuoriesce un liquido bianco che gocciola lentamente.
+
+Pertanto, i giovani corrono sulle loro fragili articolazioni.
+
+Tra le tenere erbe aromatiche, cuori giovani e pieni di vitalità.
+
+Con latte fresco e caldo. Così, nulla di ciò che sembra può verificarsi realmente.
+
+Perisce completamente, poiché la Natura, da sempre.
+
+Costruisce una cosa partendo da un’altra, senza subire alcun dolore.
+
+Nascere, ma solo attraverso la morte di un altro.
+
+E ora, poiché ho insegnato che le cose non possono.
+
+Nascere dal nulla, e non essere nemmeno lo stesso dopo la nascita.
+
+Che nulla possa essere ricordato. Non dubitate delle mie parole.
+
+Poiché i nostri occhi non percepiscono alcun germoglio primordiale.
+
+Per individuare quei corpi che, sebbene noti come tali.
+
+In questo nostro mondo, sono ancora invisibili.
+
+I venti impetuosi colpiscono con forza il nostro viso e il nostro corpo.
+
+Invisibile, sommerge enormi navi e trasforma le nuvole.
+
+O, vorticando selvaggiamente verso il basso, si disperdono sulle pianure.
+
+Con alberi maestosi, o sfregare le cime delle montagne.
+
+Con esplosioni che fanno crepitare la foresta. Così continuano a devastare tutto intorno.
+
+Con un urlo stridulo e un lamento minaccioso. I venti.
+
+È evidente che ci sono corpi ciechi che si muovono attraverso.
+
+Il mare, le terre, le nuvole nel cielo.
+
+Intrigante, vorticoso e incessantemente attivo.
+
+E così scorrono, accumulando distruzione ovunque.
+
+Anche se la massa dell’acqua è morbida e flessibile.
+
+Diventando un fiume di inondazioni incessanti.
+
+Una pioggia battente proveniente dalle alte colline.
+
+Si gonfia con forti piogge, che scendono impetuose verso il basso.
+
+Fragmenti di bosco e alberi interi con molteplici rami.
+
+Nemmeno i ponti solidi possono resistere a tale impatto.
+
+Come le onde impetuose che si schiantano contro la riva: il corso d’acqua turbolento.
+
+Potente come cento piogge, batte contro i moli.
+
+Crolli che causano distruzione, e si rotola sotto le sue onde.
+
+Materiale murario rovesciato e pietre pesanti.
+
+Scacciare via qualsiasi cosa possa opporsi.
+
+Eppure è proprio così che devono muoversi le raffiche di tutti i venti.
+
+Il quale, una volta diffuso, come un potente diluvio.
+
+In un modo o nell’altro, spingere le cose avanti.
+
+E gettarli a terra con un attacco ancora più violento.
+
+O a volte, nel loro vortice rotante, li afferrano.
+
+E diffondeteli nel mondo sotto forma di vortici impetuosi.
+
+I venti sono entità invisibili e nulla di più.
+
+Poiché sia nelle opere che nei modi di agire sono entrambi molto competitivi.
+
+I potenti fiumi, quelli che hanno una forma visibile.
+
+Anche allora conosciamo i diversi odori delle cose.
+
+Eppure mai riesce ai nostri nasi vederli arrivare.
+
+Con i nostri occhi non vediamo calore ardente né freddo intenso.
+
+Non siamo nemmeno abituati ad osservare le voci degli uomini.
+
+Tuttavia, queste cose devono essere di natura corporea nella loro essenza fondamentale.
+
+Poiché in questo modo colpiscono i sensi, nulla esiste.
+
+Il corpo è dotato della capacità di percepire il tatto.
+
+E i vestiti, appesi sulla riva battuta dalle onde, diventano umidi.
+
+Lo stesso, steso sotto il sole, si asciugherà.
+
+Eppure nessuno vide come quella umidità si infiltrasse all’interno.
+
+Né come possa essere spinto via dal calore. Ecco ciò che sappiamo.
+
+Quell’umidità si disperde in piccoli frammenti.
+
+Troppo piccolo perché gli occhi possano vederlo. Un altro esempio:
+
+Un anello sul dito, col tempo, si assottiglia.
+
+Lungo il lato inferiore, con gli anni e i raggi del sole.
+
+Gli goccioli che cadono dalle grondaie corroderanno la pietra.
+
+La lama del aratro a uncino, sebbene fatta di ferro, si consuma facilmente.
+
+Tra i campi, in modo insidioso. Lo osserviamo.
+
+Le autostrade lastricate di pietra, logorate dal passaggio di innumerevoli persone.
+
+E alle porte, le statue di bronzo lo dimostrano.
+
+Le loro mani destra risultano più consumate a causa del frequente uso.
+
+Di innumerevoli viandanti che salutano.
+
+Possiamo osservare come l’usura abbia ridotto drasticamente la loro entità.
+
+Ma quali sono esattamente i motivi che spingono le persone ad agire in un determinato momento.
+
+La natura invidiosa della vista ostacola la nostra capacità di vedere.
+
+Infine, qualsiasi giorno o elemento naturale venga aggiunto.
+
+Poco a poco, costringendo le cose a crescere.
+
+Nella stessa misura in cui qualsiasi sguardo, per quanto acuto, non possa.
+
+Di tutto ciò che i nostri occhi hanno visto e conosciuto. Non c’è altro da aggiungere.
+
+Possiamo osservare ciò che viene perso in qualsiasi momento?
+
+Quando le cose invecchiano a causa del tempo e della decomposizione,
+
+O quando i mari salati erodono le scogliere massicce.
+
+Ecco come la Natura agisce sempre, attraverso entità invisibili.
+
+Il Vuoto
+
+Eppure, la creazione non è né sovraccarica né ostacolata.
+
+Per quanto riguarda il corpo: nelle cose esiste un vuoto.
+
+Saperlo ti sarà di grande aiuto in molte situazioni.
+
+Né ti lascerà vagare nel dubbio.
+
+Cercando per sempre nella somma di tutto.
+
+E perdendo fiducia in queste mie dichiarazioni.
+
+Esiste uno spazio intangibile, un vuoto e uno spazio libero.
+
+Se non fosse così, nulla potrebbe muoversi affatto.
+
+Poiché il corpo possiede la capacità di bloccare e controllare.
+
+Funzionerebbe su tutti, e a volte allo stesso modo.
+
+Pertanto, nulla avrebbe mai più potuto procedere o avanzare.
+
+Poiché altrove non esisterebbe alcun punto di partenza.
+
+Ma ora, attraverso oceani, terre e le vette del cielo.
+
+Per diverse cause e in modi vari,
+
+Davanti ai nostri occhi possiamo osservare quanto possa cambiare.
+
+Il quale, non trovando nulla di vuoto, fallirebbe se privo di ciò che è necessario.
+
+Di movimento e agitazione. Anzi, allora sarebbe stato proprio così.
+
+Non è mai nato nulla, poiché la materia, quindi.
+
+Se fosse rimasto fermo, le sue parti sarebbero state tutte stipate insieme.
+
+Anche allora, per quanto gli oggetti appaiano solidi.
+
 <span class="atom-split" data-atom="003" data-title="BOOK I (parte 3)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 They yet are formed of matter mixed with void:
@@ -1211,6 +2001,396 @@ There not at all exists the void inane.
 Thus primal bodies are solid, without a void.
 
 But since there’s void in all begotten things,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sono ancora formati da materia mescolata con il vuoto.
+
+Nelle rocce e nelle caverne, l’umidità acquosa si infiltra.
+
+E quelle gocce scintillanti spiccano come lacrime abbondanti.
+
+E il cibo trova sempre il modo di penetrare in ogni ambito della vita umana.
+
+Gli alberi crescono e producono i frutti della stagione.
+
+Poiché il loro cibo viene versato in tutto il processo di preparazione.
+
+Fin dalle radici più profonde, attraverso i tronchi e i rami.
+
+E le voci attraversano i muri solidi e volano via.
+
+Risonante attraverso le porte chiuse di una casa.
+
+E una brina rigida penetra fino alle nostre ossa.
+
+Che altro, se non vuoti attraverso i quali i corpi possono passare?
+
+È evidente che ciò non potrebbe accadere in alcun modo.
+
+Ancora una volta: perché vediamo tra gli oggetti alcuni.
+
+Di peso maggiore, ma senza dimensioni più ingombranti?
+
+Infatti, se in una palla di lana ci sia.
+
+Un corpo pesante come un blocco di piombo.
+
+I due dovrebbero avere lo stesso peso, poiché il corpo tende.
+
+Per caricare le cose verso il basso, mentre il vuoto persiste.
+
+Per natura opposta, l’imponderabile.
+
+Pertanto, un oggetto della stessa dimensione ma più leggero.
+
+Afferma in modo incontrovertibile che esso è ancora più vuoto.
+
+Anche se la materia più densa ne rappresenta una maggiore quantità,
+
+E tanto meno spazio vuoto all’interno.
+
+Quello che cerchiamo attraverso una ricerca sagace.
+
+Esiste, in modo inevitabile, mescolata alle cose.
+
+Il vuoto, l’invisibile e l’insensato.
+
+Proprio qui.
+
+Sono costretto a porre una domanda per spiegarla più chiaramente.
+
+Prevenendo qualcosa che la gente ritiene inevitabile.
+
+Affinché ciò non ti distolga dalla verità.
+
+Si dice che le acque precedano la nascita di quelle creature splendenti.
+
+Di quelle rapide creature squamose, in qualche modo.
+
+E immediatamente si aprono strade liquide e improvvisate.
+
+Perché i pesci lasciano loro dello spazio alle spalle.
+
+Alle quali, immediatamente, le onde docili si fondono e scorrono.
+
+Pertanto, le cose stesse possono ancora essere mosse tra loro.
+
+E cambiare il loro posto, per quanto piena possa essere la Somma.
+
+Un’opinione comune, che in realtà è del tutto falsa.
+
+Poiché dove possono le creature squamose muoversi rapidamente verso l’avanti.
+
+Salvo nei luoghi in cui le acque ne lasciano lo spazio. Di nuovo,
+
+Dove possono le onde aprire un varco, se così dura.
+
+Come sempre, i pesci sono impotenti e non possono muoversi.
+
+Pertanto, o tutti i corpi in movimento sono privi di.
+
+O forse le cose contengono una miscela di “vuoto”.
+
+Ove ogni cosa inizia il proprio movimento.
+
+Infine, in quei casi in cui, dopo l’impatto, due corpi di grandi dimensioni.
+
+All’improvviso si separano, e l’aria deve riempire lo spazio creato.
+
+Si creò un vuoto completamente nuovo tra quei corpi.
+
+Ma l’aria, per quanto soffi con raffiche rapide,
+
+Non si può ancora colmare immediatamente questa lacuna, poiché innanzitutto.
+
+Si tratta di un luogo unico, che poi si diffonde in tutto ciò che esiste.
+
+E poi, se per caso qualcuno ritiene che ciò possa accadere.
+
+Quando i corpi si separano a causa dell’aria.
+
+In qualche modo si condensano, ma si allontanano dalla verità.
+
+In quel momento si crea un vuoto, uno che prima non esisteva affatto.
+
+Inoltre, viene colmata una vuota che esisteva prima.
+
+Né l’aria può essere condensata in modo così efficace.
+
+Né, anche ammettendo che ciò fosse possibile senza creare un vuoto logico, io lo ritengo possibile.
+
+Non riusciva ancora a contrarsi su se stesso.
+
+E unire le sue parti in un tutto unico.
+
+Pertanto, nonostante le obiezioni e le argomentazioni contrarie,
+
+Devi ammettere che esiste un vuoto nelle cose.
+
+Eppure, con molti argomenti a mia disposizione, potrei ancora.
+
+Ecco, cercate di dare credito alle mie parole.
+
+Ma per un occhio attento, questi semplici segni lasciati dai piedi sono sufficienti.
+
+Così potrai comprendere da solo il resto.
+
+Come cani che spesso hanno il naso premuto a terra.
+
+Scoprite quei nascondigli silenziosi, anche se nascosti tra i cespugli.
+
+Tra le bestie, i guardiaparco, una volta soltanto.
+
+Percepiscono con chiarezza i passi sicuri che indicano la strada da seguire.
+
+Ecco, dunque, come tu stesso, solo in temi del genere.
+
+Posso cacciare da un pensiero all’altro, e avvolgerli con precisione.
+
+Proseguendo ancora, fino ai luoghi segreti.
+
+E trascinare in lungo la verità. Ma se tu esiti con riluttanza.
+
+O deviare, anche di poco, dal punto prescelto.
+
+Questo te lo posso promettere con certezza, Memmio:
+
+Tali abbondanti versi la mia lingua canora riverserà.
+
+Dai numerosi “fonti” presenti nel mio cuore colmo.
+
+Tanto temo che l’età che avanza lentamente possa rubarmi e avvolgermi nelle sue spire.
+
+Lungo i nostri membri, e apri le porte.
+
+Della vita che è in noi, prima ancora che io scrivessi questi versi per te.
+
+Ha posto nelle tue orecchie le prove accumulate.
+
+A disposizione, per qualsiasi domanda venisse sollevata.
+
+NIENTE ESISTE DI PER SE, TRA LE [ATOMI](/positions/atomism) E IL VUOTO.
+
+Ma, ancora una volta, per continuare questa storia che è già iniziata.
+
+Quindi, l’intera natura, in quanto autosufficiente, è composta da.
+
+Di due cose soltanto: dei corpi e del vuoto.
+
+In quali contesti vengono collocati e dove vengono spostati.
+
+Poiché l’istinto comune della nostra razza lo dichiara chiaramente.
+
+Quel corpo esiste di per sé; a meno che.
+
+Questa fede primordiale, radicata nel profondo, non ci abbandoni mai.
+
+Non ci sarà nulla a cui poter ricorrere.
+
+Su cose oscure, quando si cerca qualcosa per provarle.
+
+Attraverso i ragionamenti della mente. Ancora una volta, senza.
+
+Quel luogo e quella stanza che definiamo “inutili”,
+
+Allora, in nessun luogo era possibile posizionare i corpi, né muoverli.
+
+In un senso o nell’altro, come già mostrato in precedenza.
+
+Inoltre, non c’è nulla di cui tu possa parlare.
+
+Esiste separato dal corpo, chiuso davanti al vuoto.
+
+Una sorta di terzo elemento nella natura. Per qualsiasi motivo.
+
+“Esistere” deve significare qualcosa; e lo stesso vale per.
+
+Se fosse concreto, per quanto ciò comportasse lotta e umiliazioni.
+
+Aumenterà ancora di più la quantità totale del corpo.
+
+Con i propri aggiuntivi, grandi o piccoli che siano;
+
+Ma, se ciò che è intangibile e impotente dovesse mai.
+
+Per impedire che qualcosa possa “passare attraverso se stesso”.
+
+In ogni caso, non potrà esserci nulla di diverso da questo.
+
+Quello che chiamiamo vuoto, insensato.
+
+Ancora una volta: qualsiasi cosa esista, di per sé.
+
+O agire o subire le conseguenze delle proprie azioni.
+
+Oppure che sia ciò in cui le cose si muovono e esistono.
+
+Niente, se non il corpo e le azioni, viene effettivamente compiuto.
+
+Solo ciò che è privo di significato può offrire spazio. E così.
+
+Oltre all’insensato e ai corpi, non esiste nulla di terzo.
+
+La natura, tra tutte le cose.
+
+Non rimane nessuno da colpire in qualsiasi momento.
+
+Al di fuori dei nostri sensi, non può essere catturato né visto.
+
+Da qualsiasi uomo, attraverso i ragionamenti della mente.
+
+Chiamala come vuoi con qualsiasi [nome](/positions/nominalism) desideri.
+
+Troverai soltanto le proprietà di quei primi due.
+
+O considera soltanto gli accidenti che quei due producono.
+
+Una proprietà è qualcosa che, in nessun modo, può essere separato dall’oggetto a cui appartiene.
+
+Può essere separato e distaccato da una cosa.
+
+Senza una dissoluzione fatale: ecco,
+
+Peso alle rocce, calore al fuoco, e fluidità nel movimento.
+
+Verso le vaste acque, che toccano le cose materiali.
+
+Intangibilità rispetto al vuoto invisibile.
+
+Ma lo stato di schiavitù, la povertà e la ricchezza.
+
+Libertà, guerra, armonia, e tutto il resto.
+
+Queste cose vanno e vengono, mentre la natura rimane immutata.
+
+Siamo soliti, e a ragione, definire questi eventi “incidenti”.
+
+Anche il tempo non esiste di per sé; ma esiste attraverso i sensi.
+
+Legge nelle cose ciò che è accaduto molto tempo fa.
+
+Ciò che è urgente in questo momento, e ciò che seguirà dopo.
+
+Dobbiamo ammettere che nessun uomo percepisce realmente il tempo stesso.
+
+Separato dal movimento e dal riposo delle cose.
+
+Pertanto, quando dicono che “esiste” la rapina.
+
+Per quanto riguarda la principessa Elena, l’assedio e il sacco rappresentano ciò che le è accaduto.
+
+Attenzione alla Città di Troia: ci costringono a non.
+
+Ammettere che questi atti esistano di per sé.
+
+Solo perché quelle razze dell’umanità.
+
+(Di coloro per i quali tali azioni furono soltanto incidenti, ) da molto tempo.
+
+L’irrevocabile passare del tempo ha portato via tutto.
+
+Poiché tutte le azioni passate possono essere considerate.
+
+Ma gli incidenti, in un certo senso, sono parte della natura stessa dell’umanità.
+
+In altre parole, in una qualche regione del mondo.
+
+Inoltre, non c’era nulla che contasse, né spazio per alcunché.
+
+In quel luogo dove tutto avviene, il fuoco dell’amore.
+
+Sollevato da quella bella forma, il carbone incandescente.
+
+Sotto il petto di Alessandro il Frigio.
+
+Se mai non avesse scatenato quella famosa contesa.
+
+Del crudele conflitto, nemmeno il cavallo di legno.
+
+Immersa nelle fiamme antiche, Pergamo, per un destino predestinato.
+
+A mezzanotte, in una notte degli Elleni.
+
+E così si può notare che ogni atto.
+
+In fondo, non esiste di per sé stesso, né è.
+
+Così come il corpo esiste, nemmeno un nome simile può essere attribuito al vuoto.
+
+Ma piuttosto che essere chiamati in un modo più appropriato.
+
+Un incidente legato al corpo e al luogo.
+
+È lì che tutto avviene.
+
+CARATTERISTICHE DEI ATOMI
+
+Di nuovo, i corpi.
+
+In parte sono i germi primordiali delle cose, e in parte.
+
+Unioni che derivano dai germi primordiali.
+
+E quelle che sono i germi primordiali di tutte le cose.
+
+Nessuna forza può spegnere tale ardore; perché alla fine esso vince sempre.
+
+Per la loro stessa solidità; anche se ciò sia difficile.
+
+Pensare che qualcosa nelle cose abbia una struttura solida.
+
+Poiché i fulmini passano, proprio come le voci e gli urli,
+
+Attraverso le mura di difesa delle case e il ferro.
+
+Bagliori bianchi nel fuoco, e le rocce bruceranno.
+
+Con respiri furiosi e spezzati.
+
+Il rigido oro si scioglieva al calore.
+
+Il bronzo, conquistato nel fuoco, si scioglie come ghiaccio.
+
+Il calore e il gelido pungente filtrano attraverso l’argento.
+
+Poiché, tenendo le tazze correttamente nella mano.
+
+Spesso proviamo entrambe le cose, come se venissero riversate da sopra.
+
+La rugiada che si forma tra i loro lati scintillanti.
+
+È così vero che non si trova alcuna forma solida.
+
+Eppure, proprio perché la vera ragione e la natura delle cose.
+
+Costringeteci, dunque, anche se si tratta soltanto di poche righe.
+
+Cerco di capire come sia ancora possibile che esistano.
+
+Corpi di struttura solida e eterna.
+
+I semi delle cose, quei germi primordiali di cui parliamo.
+
+Da lì è nata tutta la creazione che ci circonda.
+
+Innanzitutto, poiché sappiamo che esiste una doppia natura.
+
+Di cose che sono sia simili che completamente diverse.
+
+Il corpo, e lo spazio in cui le cose avvengono.
+
+Allora ciascuno deve essere allo stesso tempo per sé e attraverso sé stesso.
+
+E tutto puro, senza mescolanze: ovunque vi sia spazio vuoto.
+
+Non esiste alcun corpo; e quindi, dove c’è un corpo.
+
+Non esiste affatto quel vuoto privo di significato.
+
+Pertanto, i corpi primordiali sono solidi, privi di vuoto interno.
+
+Ma poiché in tutte le cose generate esiste il vuoto.
 
 <span class="atom-split" data-atom="004" data-title="BOOK I (parte 4)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -1610,6 +2790,404 @@ And thus a somewhat must persist unharmed
 
 Amid the world, lest all return to naught,
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tutta la materia solida deve avere la stessa forma circolare.
+
+Né, con ragionamenti validi, puoi dimostrare che alcunché si nasconda.
+
+E contiene un vuoto all’interno del proprio corpo, a meno che.
+
+Tu riconosci che ciò che è solido deve necessariamente mantenersi tale. Sappi.
+
+Ciò che è in grado di contenere un vuoto, un “spazio” privo di cose all’interno di sé.
+
+Non può essere altro che materia, unita e intrecciata insieme.
+
+Pertanto, la materia, che è costituita da una struttura solida.
+
+Ha il potere di essere eterno, mentre tutto il resto.
+
+Anche se tutta la creazione dovesse dissolversi.
+
+Ancora una volta, se non ci fosse nulla di vuoto e di insensato.
+
+Allora il mondo era un tutto uniforme; infatti, senza.
+
+Alcuni corpi specifici sono destinati a occupare quei posti.
+
+Il mondo che esiste è soltanto un vuoto desolato.
+
+E così, in modo inevitabile e alternato.
+
+Corpo e vuoto sono ancora distinti.
+
+Poiché la natura non conosce nulla che sia completamente pieno né completamente vuoto.
+
+Esistono quindi certi corpi che possiedono tale potere.
+
+Variare per sempre ciò che è vuoto e ciò che è pieno.
+
+E questi non possono essere separati dall’esterno.
+
+Non può essere strappato né con colpi né con violenze, né dall’interno.
+
+Attraverso la penetrazione, e nemmeno essere rovesciati.
+
+Con qualsiasi tipo di attacco, ovunque nel mondo.
+
+Poiché, a quanto pare, senza il vuoto nulla potrebbe essere schiacciato.
+
+Né spezzato, né diviso in due da una ferita.
+
+Né può assorbire l’umidità né il freddo che penetra lentamente.
+
+O fuoco accecante, quei vecchi distruttori, tre in tutto.
+
+Ma più vuoto è qualcosa all’interno, più.
+
+Si indebolisce completamente di fronte al loro attacco deciso.
+
+Pertanto, se i primi corpi esistono, come ho insegnato io.
+
+Solidi, senza alcun vuoto interno, devono quindi essere così.
+
+Eterno. E se mai la materia non fosse esistita.
+
+Tutto era già scomparso da tempi eterni.
+
+Tornare completamente nel nulla, e basta.
+
+Ci guardiamo intorno e vediamo che nulla è mai nato.
+
+Ma poiché ho detto in precedenza che nulla può essere.
+
+Dalla nulla creato, né ciò che un tempo fu generato.
+
+A nulla possono essere richiamati indietro questi germi primordiali.
+
+Deve esistere un’“immortalità della struttura”.
+
+E in questi elementi deve essere risolta ogni cosa.
+
+Quando arriverà l’ora suprema, che ciò avvenga così come previsto.
+
+A disposizione c’è tutto ciò che è necessario per popolare il mondo.
+
+Quindi, i germi primordiali possiedono una natura assolutamente unica.
+
+Altrimenti non avrebbero potuto essere conservati.
+
+Attraverso eoni e un’[infinità](/concepts/infinity) di tempo.
+
+Per il ripristino dei mondi distrutti.
+
+Ancora una volta, se la natura avesse concesso uno spazio per le cose.
+
+Essere continuamente spezzati, sempre di più.
+
+A questo punto, i corpi di materia avrebbero già dovuto essere.
+
+Fino ad oggi, tale situazione è stata ridotta a causa di rovine e distruzioni avvenute in tempi antichi.
+
+Che da loro nulla potesse, in un momento prestabilito,
+
+Nascere e raggiungere l’apice della propria vita.
+
+Infatti, ogni cosa si rovina più rapidamente di quanto venga creata.
+
+E così, qualunque sia l’infinità del tempo.
+
+Di quei giorni e di tutto il tempo trascorso in precedenza, ora.
+
+In questo modo sono stati distrutti, rovinati e dissolti.
+
+Né mai, per tutto il resto del tempo.
+
+Siate costruiti per colmare il mondo.
+
+Ma notate bene: esiste inevitabilmente un limite fisso.
+
+Rimane stabilito, al fine di impedirne il crollo.
+
+Poiché vediamo ogni cosa rigenerarsi continuamente,
+
+E per tutti, le loro stagioni, secondo la loro natura.
+
+Lì raggiungono la piena espressione della loro giovinezza.
+
+Ancora una volta, se non sono stati stabiliti limiti.
+
+Il crollo di questo mondo corporeo.
+
+Tuttavia, tutti i corpi, di qualsiasi cosa si tratti, devono.
+
+Hanno continuato ad esistere fin dai tempi eterni.
+
+Fino ad oggi, poiché ancora non è stato attaccato.
+
+Attraverso colpi di pericolo. Ma perché proprio quelli stessi.
+
+Secondo te, hanno una natura debole.
+
+Non è logico che possano rimanere in questo modo.
+
+(E così fanno) attraverso l’eternità del tempo.
+
+Perseguitati attraverso i secoli, proprio come lo sono in realtà.
+
+Grazie agli innumerevoli colpi della [fortuna](/concepts/fortune).
+
+Quindi, nel nostro programma di creazione, osserva.
+
+Come mai è che, sebbene i corpi di tutte le cose.
+
+Sono solide fino al nucleo, eppure continuiamo a cercare una spiegazione.
+
+I modi con cui alcune cose vengono realizzate in modo morbido.
+
+Aria, acqua, terra e emissioni infuocate.
+
+E con quale forza funzionano e continuano ad operare.
+
+Il fatto si basa sul nulla delle cose.
+
+Ma se i germi primordiali stessi sono deboli.
+
+Non è possibile utilizzare la ragione per dimostrare.
+
+I modi attraverso i quali è possibile creare queste cose.
+
+Grandi massi di basalto e ferro.
+
+Poiché nella loro intera natura mancherà profondamente.
+
+I primi fondamenti di un quadro solido e stabile.
+
+Ma potente nella sua antica semplicità.
+
+Rispetta ciò che è solido, quei germi primordiali.
+
+E attraverso le loro combinazioni ancora più concentrate,
+
+Tutti gli oggetti possono essere strettamente intrecciati e legati tra loro.
+
+E resi in grado di dimostrare una forza invincibile.
+
+Ancora una volta, poiché tutte le cose ricevono ciò che è proprio della loro specie.
+
+Confini fissi per la crescita e la conservazione della vita;
+
+Poiché la Natura ha decretato in modo irrevocabile.
+
+Ciò che ognuno può fare, ciò che ognuno non potrà mai fare.
+
+Poiché nulla cambia, e tutto rimane così com’è.
+
+Che mai gli uccelli dai colori variati rivelino.
+
+Le macchie o le strisce caratteristiche della loro specie.
+
+Primavera dopo primavera. Sicuramente è così che va tutto.
+
+Deve essere composto da materia immutabile.
+
+Perché, se i germi primordiali, in qualche modo.
+
+Se fossimo aperti alla conquista e al cambiamento, allora.
+
+Incerti anche riguardo a ciò che potesse nascere da tutto questo.
+
+E ciò che non poteva essere fatto, e secondo quale legge per ciascuno.
+
+Il suo ambito è ben definito; la sua “pietra del confine” rimane saldamente fissata al suolo.
+
+Così lontano nel Tempo. Nemmeno le generazioni successive avrebbero potuto.
+
+Una specie dopo l’altra, spesso si riproducono.
+
+La natura, gli abiti, i movimenti, i modi di vita.
+
+Dei loro antenati.
+
+E poi ancora.
+
+Poiché esiste sempre un punto estremo di confine.
+
+Di quel primo essere che i nostri sensi oggi.
+
+Non riesco a percepire. Quel punto di confine, davvero.
+
+Esiste, senza tutte le sue parti, un minimo essenziale.
+
+Nella natura non esisteva mai nulla di separato.
+
+Di per sé stesso, — e non lo sarà nemmeno in futuro,
+
+Poiché essa stessa è ancora parte di qualcos’altro,
+
+Un unico e primo elemento da cui derivano tutti gli altri.
+
+E altri, simili in ordine, seguono.
+
+In una formazione compatta, stipata fino all’ultimo spazio disponibile.
+
+La natura del primo corpo: essere, dunque.
+
+Non essendo autoesistenti, devono necessariamente attaccarsi a qualcosa di esterno a loro.
+
+Di cui non possono in alcun modo essere separati.
+
+Quindi i germi primordiali possiedono una solida unità intrinseca.
+
+Quelli strettamente compressi e saldamente uniti mantengono la loro coesione.
+
+Grazie alle loro particelle minuscole.
+
+Nessun composto può essere ottenuto semplicemente unendo elementi identici tra loro.
+
+Ma forti nella loro eterna unicità,
+
+La natura, riservandoli come semi di cose future,
+
+Non ammette alcuna rottura o diminuzione.
+
+Inoltre, se non esistesse un minimo.
+
+I corpi più piccoli avrebbero infinite parti.
+
+Da allora, una metà di qualcosa poteva ancora essere divisa a metà.
+
+Con una divisione illimitata, sempre di meno.
+
+Allora, qual è la differenza tra il massimo e il minimo?
+
+Nessuno: poiché per quanto infinita possa essere la somma.
+
+Eppure, anche la più piccola di queste cose sarebbe comunque costituita allo stesso modo.
+
+Di infinite parti. Ma poiché la vera ragione, in questo caso.
+
+Proteste che negano la possibilità che la mente possa effettivamente pensare in quel modo.
+
+Devi ammettere, convinto che esistano davvero cose del genere.
+
+Così come le parti non esistono, nemmeno i minimi della natura hanno un’esistenza concreta.
+
+E poiché queste sono, confessa dunque che devono essere così.
+
+Che quei corpi primordiali siano solidi ed eterni.
+
+Ancora una volta: se la Natura, creatrice di tutte le cose.
+
+Eravamo soliti costringere tutte le cose ad avere una risoluzione.
+
+In tal caso, almeno in parte, non sarebbe di alcuna utilità.
+
+Per ricavare qualcosa da essi.
+
+Poiché ciò che non è dotato di parti.
+
+Non è possibile possedere quelle proprietà necessarie.
+
+Di elementi generativi, diverse connessioni.
+
+Pesi, colpi, incontri, movimenti, attraverso i quali le cose.
+
+Da sempre, l’esistenza continua e prosegue.
+
+Confutazione degli altri filosofi
+
+E su tali basi è che coloro che sostenevano.
+
+La sostanza di tutte le cose è il fuoco, e dal fuoco.
+
+Solo così si forma la somma cosmica; è in questo modo che essa viene percepita.
+
+Si è allontanato notevolmente dalla vera ragione.
+
+Di questi, il principale comandante in battaglia è.
+
+Che Eraclito, famoso per i suoi discorsi oscuri.
+
+Tra i greci sciocchi, non tra quelli seri.
+
+Coloro che cercano la verità. Poiché gli sciocchi sono sempre propensi.
+
+Ammirare e adorare ciò che si nasconde.
+
+Sotto parole distorte, mantenere quella verità.
+
+Qualcosa che li fa ridere dolcemente, nelle loro orecchie “stupide”.
+
+O che è rivestito di frasi finemente elaborate.
+
+Come è possibile, mi chiedo, che cose così diverse possano esistere?
+
+Se formato di fuoco, unico e puro. No, assolutamente no.
+
+Sarebbe utile che il fuoco venisse condensato o diluito.
+
+Se tutte le parti del fuoco continuassero ancora a esistere.
+
+Ma la natura stessa del fuoco, osservata in modo diretto e concreto.
+
+Il calore diventava ancora più intenso nelle parti comprimate.
+
+Ancora più lieve, quando viene reciso o disperso.
+
+E di più di questo non puoi nemmeno immaginare nulla.
+
+Che da tali cause potesse derivare qualcosa, figuriamoci di più.
+
+Potrebbe mai nascere la varietà delle cose sulla Terra?
+
+Da qualsiasi tipo di fuoco, sia denso che raro.
+
+Anche questo: se suppongono l’esistenza di un vuoto nelle cose.
+
+Allora i fuochi possono essere concentrati e rimanere comunque rari.
+
+Ma poiché vedono tali opposti di pensiero.
+
+Si sollevano contro di loro e sono riluttanti ad arrendersi.
+
+Un vuoto puro e intatto all’interno delle cose, temono quella vertigine improvvisa.
+
+E perdono la strada della verità. Non se ne rendono nemmeno conto.
+
+Cioè, se togliessimo il vuoto dalle cose.
+
+Tutte le cose, quindi, si condensano e da esse deriva tutto ciò che esiste.
+
+Un unico corpo, privo della capacità di muoversi rapidamente.
+
+Nient’affatto: nulla emerge rapidamente da esso stesso.
+
+Come il fuoco irradia luce e calore intorno a sé.
+
+Ti dimostro che le sue parti non sono compatte tra loro.
+
+Ma se forse pensano in modo diverso.
+
+I fuochi che scaturiscono dalle loro combinazioni possono essere spenti.
+
+E cambiare la loro sostanza, certamente: ecco.
+
+Se il fuoco non risparmierà alcuna parte.
+
+Allora il calore scomparirà completamente, insieme a tutto il resto.
+
+E dal nulla sarebbe stato formato il mondo.
+
+Per qualsiasi cambiamento che esca dai suoi limiti.
+
+Significa la morte immediata di ciò che esisteva prima.
+
+E così, qualcosa deve necessariamente persistere indenne.
+
+In mezzo al mondo, affinché tutto non ritorni al nulla.
+
 <span class="atom-split" data-atom="005" data-title="BOOK I (parte 5)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 And, born from naught, abundance thrive anew.
@@ -2004,6 +3582,400 @@ Yieldeth no name in the Italian tongue,
 
 Although the thing itself is not o’erhard
 
+<span class="qlang-split" data-lang="it"></span>
+
+E, nata dal nulla, l’abbondanza fiorisce nuovamente.
+
+Ora, poiché esistono davvero quei corpi assolutamente certi.
+
+Che mantengono la loro natura immutata per sempre,
+
+Al momento del loro ingresso e uscita.
+
+E quando l’ordine delle cose viene cambiato, anche la loro natura cambia.
+
+E tutte le sostanze corporee trasformate.
+
+Allora, è tuo compito conoscere quei corpi primordiali.
+
+Non sono fatti di fuoco. Altrimenti non avrebbero alcun effetto.
+
+Se alcuni dovessero allontanarsi e andarsene, e altri.
+
+Vanno aggiunti elementi nuovi e alcuni vanno modificati nella loro posizione.
+
+Se ancora tutto mantenesse la sua antica natura di calore.
+
+Per tutto ciò che crearono allora.
+
+In ogni caso, sarebbe comunque solo fuoco.
+
+La verità, credo, sia questa: esistono corpi.
+
+Di chi sono questi scontri, queste mosse, questo ordine, questa postura, queste forme?
+
+Genera il fuoco; e quel fuoco, una volta modificato secondo gli ordini ricevuti,
+
+Cambiare necessariamente la natura della cosa prodotta.
+
+E da quel momento in poi, non sono più in grado di sparare.
+
+Nient’altro, inoltre, ha il potere di far muovere i suoi corpi.
+
+Con un impatto che coinvolge i sensi del tatto.
+
+Di nuovo: dire che tutte le cose non siano altro che fuoco.
+
+E nessuna cosa vera, tra tutte le cose esistenti.
+
+Esiste soltanto il fuoco, come dice proprio questo individuo.
+
+Sembra una follia assurda. Per quell’uomo stesso.
+
+Contro i sensi, con i sensi si combatte.
+
+E attacca proprio ciò attraverso cui si fonda ogni credenza.
+
+Attraverso di esso, dunque, egli stesso ne è a conoscenza.
+
+Quella che lui chiama “fuoco”. Perché, anche se lui pensa.
+
+I sensi possono davvero percepire il fuoco.
+
+Pensa che, per quanto riguarda tutto il resto, non possano farlo.
+
+Che sono ancora chiaramente percepibili e comprensibili.
+
+Per me, anche un pensiero inadeguato e folle.
+
+A chi dovremmo rivolgerci per chiedere aiuto? Per quale motivo?
+
+Non può esserci nulla di più certo di ciò che i nostri sensi percepiscono.
+
+In che modo possiamo distinguere l’errore dalla verità?
+
+Inoltre, perché non eliminare semplicemente tutto?
+
+E si desidera permettere solo il passaggio del calore, e poi negarlo.
+
+Il fuoco, eppure permette che tutto il resto esista ancora? —
+
+In entrambi i casi, sembra trattarsi della stessa follia.
+
+Pertanto, chiunque abbia posseduto la sostanza delle cose.
+
+Essere soltanto fuoco, e nello stesso tempo l’essenza stessa del fuoco.
+
+E chiunque abbia creato l’aria.
+
+Come primo inizio di tutte le cose generate.
+
+E tutti coloro che hanno sostenuto che essa, in sé stessa.
+
+Solo l’acqua è in grado di plasmare le cose, o forse anche la terra.
+
+Crea tutto e rinnova continuamente le cose.
+
+A nature diverse, appaiono davvero notevoli.
+
+Un lungo cammino per allontanarsi dalla verità.
+
+Aggiungiamo anche chiunque produca le materie prime primordiali.
+
+In duplice modo: unendo aria e fuoco, e terra.
+
+Per annaffiare: aggiungete coloro che ritengono che le cose possano crescere.
+
+Dei quattro elementi – fuoco, terra, respiro e pioggia –
+
+Come primo Empedocle di Agrigento,
+
+Chi è quella piccola isola, tra tutte le terre.
+
+Si estende lungo le sue coste, intorno alle quali il flusso d’acqua continua senza sosta.
+
+Nei maestosi golfi e baie dei mari ionici.
+
+Spruzzando la salinità delle loro onde di colore grigio-verde.
+
+Qui, ondeggianti lungo gli stretti passaggi,
+
+Un oceano impetuoso delimita i suoi confini lungo le rive.
+
+Della penisola italica. Qui, la desolazione.
+
+Caridbo. E qui Etna rimbomba con minacce.
+
+Raccogliere nuovamente tali furie di fiamme.
+
+Proprio come quando riacquista la forza di eruttare fiamme,
+
+Espulse dal proprio petto, si sollevò di nuovo verso il cielo.
+
+Il bagliore dei suoi fulmini. E sebbene in molti modi sembri.
+
+L’isola maestosa e meravigliosa, per gli uomini.
+
+Ricco di tutte le cose buone e fortificato.
+
+Con la generosa forza degli eroi, lei non ha mai.
+
+Se possedesse anche solo un po’ più di fama.
+
+Niente di più sacro, meraviglioso e prezioso.
+
+Che questo vero uomo. No, anzi, ancora più grande e puro di così.
+
+La maestosa musica del suo cuore divino.
+
+Alza la sua voce e racconta delle glorie che ha trovato.
+
+Quell’essere, che a stento sembra appartenere alla specie umana.
+
+Eppure lui e coloro che sono stati menzionati in precedenza (noti per essere, )
+
+Molto più in basso di lui, inferiore a lui sotto ogni aspetto.
+
+Sebbene, in quanto scopritori di molte verità meravigliose.
+
+Donarono, come se provenisse direttamente dall’altare del loro cuore.
+
+Risposte più sacre e più giuste, basate su.
+
+Più che mai, la Pitia pronunciò le sue profezie per gli uomini.
+
+Dai rami spezzati e dal lauro di Delfi.
+
+Rimangono ancora da considerare i primi elementi.
+
+Si sono rovinati da soli. E questi grandi uomini, grandi davvero.
+
+Certamente, quella [caduta](/positions/original_sin) rappresenta un peso enorme per loro.
+
+Innanzitutto, perché eliminando il vuoto dalle cose.
+
+Tuttavia, loro attribuiscono loro movimento e li permettono di agire.
+
+Cose morbide e dal tessuto lasso devono esistere.
+
+Come l’aria, la rugiada, il fuoco, la terra, gli animali e i cereali.
+
+Senza alcuna componente vuota all’interno della loro struttura.
+
+In seguito, perché ritenendo che non possa esistere alcun limite.
+
+Nel ridurre i corpi sempre di più.
+
+Nessun momento di pausa veniva previsto per la loro separazione.
+
+Essi sostengono che non esista alcun limite minimo nelle cose.
+
+Sebbene vediamo il punto di confine di ogni cosa.
+
+È ciò che ai nostri sensi sembra essere il meno importante.
+
+Da ciò si può dedurre che, poiché.
+
+Le cose che non riesci a percepire possiedono punti di confine.
+
+Di certo hanno i loro limiti minimi. Anche in quel caso.
+
+Poiché questi filosofi attribuiscono alle cose.
+
+Tenue germi primordiali, che consideriamo essere.
+
+Nato mortale nel corpo e nell’anima, così è per sempre.
+
+La somma di tutte le cose deve essere ricondotta al nulla.
+
+E, nata dal nulla, l’abbondanza fiorisce nuovamente.
+
+Vedi fino a che punto ogni dottrina si allontani dalla verità.
+
+E inoltre, questi corpi sono tra loro.
+
+In molti modi, veleni e nemici l’uno per l’altro.
+
+Pertanto, il loro incontro li distruggerà completamente.
+
+O essere separati l’uno dall’altro, proprio come avviene durante le tempeste.
+
+Piogge, venti e fulmini volano tutti in direzioni opposte.
+
+E allo stesso modo, se tutte le cose sono create da quattro elementi.
+
+E tutto, ancora una volta, si dissolse nei quattro elementi.
+
+Come possono essere definiti i quattro “germi primordiali”?
+
+Più delle cose stesse, è necessario riflettere sulle idee che riguardano queste cose.
+
+Attraverso la retroversione, quei germi primordiali di essi?
+
+Per sempre, entrambi si generano in modo alternativo.
+
+Con l’alternanza di natura e aspetto.
+
+Da tempi immemorabili. Ma se, forse.
+
+Pensi che la struttura di fuoco e terra, l’aria.
+
+Il rugiada d’acqua può, in questo modo, incontrare.
+
+Poiché non è attraverso l’mescolarsi che essi possono rinunciare alla propria natura.
+
+Da loro, per te, nessun mondo può essere creato.
+
+Nessuna creatura vivente, nessun tronco o stelo d’albero.
+
+Nel caotico insieme di questa variegata moltitudine.
+
+Ogni cosa mostrerà la propria natura intrinseca.
+
+E sarà possibile vedere chiaramente l’aria mescolarsi con gli altri elementi.
+
+Con la terra unita, il calore inestinguibile si unisce all’acqua.
+
+Ma i germi primordiali, nel far nascere le cose.
+
+Deve possedere una qualità latente, invisibile.
+
+Per evitare che qualche elemento alieno e straordinario.
+
+Confusi e ridotti alla dimensione di ciò che è stato creato.
+
+La sua essenza stessa.
+
+Ma questi uomini iniziano.
+
+Dall’alto cielo, e dalle sue fiamme. E prima di tutto, fingono.
+
+Quel fuoco si trasformerà nei venti dell’aria.
+
+In seguito, si afferma che la pioggia nasce dall’aria.
+
+E la terra fu creata dalla pioggia, e poi.
+
+Che tutto, al contrario, venga restituito dalla terra.
+
+Prima l’umidità, poi l’aria e infine il calore.
+
+E che questi stessi scambi non cessano mai.
+
+Per seguire le loro strade, dal cielo alla terra, dalla terra.
+
+Verso le stelle del mondo etereo.
+
+Qualcosa che, in nessun modo possibile, i germi possono fare.
+
+Poiché qualcosa di immutabile deve pur esistere,
+
+Affinché nulla venga completamente distrutto o annullato.
+
+Per qualsiasi cambiamento che esca dai suoi limiti.
+
+Significa la morte immediata di ciò che esisteva prima.
+
+Pertanto, poiché quelle cose menzionate in precedenza.
+
+Dovendo subire un cambiamento di stato, devono necessariamente trarne delle conseguenze.
+
+Da coloro che mai potranno essere convertiti.
+
+Affinché nulla non torni completamente nel nulla.
+
+Allora, perché non ipotizzare piuttosto che esista.
+
+Corpi di tale natura producevano.
+
+Cioè, se per caso hanno creato il fuoco.
+
+È ancora possibile (grazie ad alcune pratiche isolate e riservate, ).
+
+O ne venivano aggiunti alcuni, e così mutavano movimento e ordine.
+
+Plasma i venti dell’aria, e così tutte le cose.
+
+“Per sempre” deve essere sostituito con “tutto”?
+
+“Ma i fatti che ne sono la prova sono evidenti”, dici tu.
+
+“Che tutte le cose crescano sotto i venti dell’aria, ”
+
+E da terra prendono origine tutte le forme di vita; se non fosse così.
+
+La stagione, nel momento propizio.
+
+Con piogge tali da far barcollare gli alberi.
+
+Sotto l’impatto di imponenti cumuli temporaleschi.
+
+E il sole, a sua volta, favorisce la crescita e dona calore.
+
+Nessun cereale, nessun albero, nessuna creatura vivente può crescere.
+
+Vero, a meno che cibi duri e umidità non li ammorbidiscano.
+
+Uomo reclutato in forza lavoro, il suo corpo si sarebbe consumato.
+
+E la vita si dissolve dalle sue membra e dai suoi ossa.
+
+Poiché, senza dubbio, siamo stati reclutati e nutriti apposta per questo scopo.
+
+Per alcune cose, così come per altre cose per altri motivi.
+
+Perché, in molti modi, i numerosi germi.
+
+Molte cose hanno in comune il fatto di essere composte da elementi diversi tra loro.
+
+Non c’è da meravigliarsi che, di conseguenza, ci siano molte cose diverse.
+
+Vi sono diversi modi con cui si viene nutriti. E, ancora una volta.
+
+Spesso è di fondamentale importanza considerare ciò che gli altri pensano o fanno.
+
+In quali posizioni si trovano i germi primordiali.
+
+Sono legati tra loro, e anche i loro movimenti sono coordinati.
+
+Si danno e prendono l’uno dall’altro; perché questi.
+
+Gli stessi germi sono responsabili della formazione del cielo, del mare e delle terre.
+
+Fiumi, sole, grani, alberi e tutte le creature che respirano.
+
+Eppure sono mescolati in modi diversi.
+
+Con molte cose, che continuano a muoversi per sempre.
+
+No, tu vedi nelle nostre versi qui.
+
+Elementi numerosi, comuni a molti mondi.
+
+Anche se devi ammettere ogni versetto, ogni parola.
+
+Si differenziano l’uno dall’altro sia nel significato che.
+
+E quel cerchio di suoni, tutti quegli elementi.
+
+Può essere realizzato semplicemente modificando l’ordine delle cose.
+
+Ma quelle che sono i germi primordiali delle cose.
+
+Avere la capacità di creare ancora più combinazioni.
+
+Da ciò derivano che diverse cose possano essere prodotte a turno.
+
+Ora esaminiamo anche questo aspetto con attenzione.
+
+L’omonimia di Anassagora.
+
+Chiamato così dai Greci, per i quali utilizziamo un linguaggio semplice e poco formale.
+
+Non ha alcun nome nella lingua italiana.
+
+Sebbene la cosa stessa non sia troppo difficile.
+
 <span class="atom-split" data-atom="006" data-title="BOOK I (parte 6)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 For explanation. First, then, when he speaks
@@ -2386,6 +4358,388 @@ Thereafter of thy spear?” ‘Twill come to pass
 
 That nowhere can a world’s-end be, and that
 
+<span class="qlang-split" data-lang="it"></span>
+
+Per spiegare: innanzitutto, quando parla.
+
+Riguardo a questa omogeneità delle cose, egli pensa.
+
+Ossa che si formano dalle più piccole ossicelle.
+
+E da quella carne minuscola e insignificante, nasce tutta la carne.
+
+E il sangue nacque da gocce di sangue.
+
+Immaginare l’oro sotto forma di un composto costituito da grani d’oro.
+
+E la terra si è formata attraverso l’unione di frammenti di terra stessa.
+
+Fuoco fatto di fuochi, e acqua fatta d’acque.
+
+Fingendo lo stesso per tutte le altre cose.
+
+Eppure non ammette alcuna vacuità nelle cose.
+
+Nessun limite nemmeno alla riduzione delle dimensioni dei corpi.
+
+Pertanto, da entrambi questi punti di vista, mi sembra.
+
+Commettere gli stessi errori di coloro che abbiamo menzionato prima.
+
+Aggiungiamo anche questo: questi germi che lui finge esistere sono in realtà troppo deboli.
+
+Se si tratta di germi primordiali che sono stati creati.
+
+Con una natura identica a quella delle cose stesse,
+
+E lavorerà e perirà allo stesso modo di loro.
+
+E nessuna briglia può impedire la loro distruzione.
+
+Perché ciò che sopravviverà alla stretta e alla distruzione.
+
+Sotto i denti della morte? Il fuoco? L’umidità?
+
+Oppure l’aria? E poi? Il sangue? Le ossa?
+
+Nessuno, credo, quando tutto sarà.
+
+In fondo, siamo mortali come qualsiasi altra creatura.
+
+Perire con la forza, davanti ai nostri occhi.
+
+Ma il mio appello si rivolge alle prove sopra menzionate.
+
+Che le cose non possano tornare al nulla, né tantomeno.
+
+Dalla nulla non sorge nulla. E ancora una volta: poiché il cibo.
+
+Ricchisce e nutre il corpo umano.
+
+È tuo compito conoscere le nostre vene, il nostro sangue e le nostre ossa.
+
+E queste strutture sono formate da particelle diverse dalle altre.
+
+In cambio di ciò che offrono loro; oppure, se dicono che tutti i cibi.
+
+Sono di natura mista, e in sé contengono.
+
+Piccoli gruppi di muscoli, ossa e vene.
+
+E particelle di sangue, e poi ogni tipo di cibo.
+
+Che sia solido o liquido, deve comunque essere considerato come tale.
+
+Essendo composto da elementi di natura diversa tra loro.
+
+Di ossa, di muscoli, di linfa e di sangue.
+
+Ancora una volta: se tutti i corpi che crescono.
+
+Dalla terra: prima si trova all’interno della terra, poi la stessa terra.
+
+Deve essere composto da sostanze aliene.
+
+Quelle primavere e quei fiorimenti che spuntano dal suolo.
+
+Trasferisci l’argomento, e potrai utilizzarlo.
+
+Le stesse parole: se fiamme, fumo e ceneri.
+
+Nel bosco, ancora nascosti e invisibili, quegli esseri.
+
+Deve essere composto da sostanze aliene.
+
+Che nascono dal bosco.
+
+Proprio qui rimane.
+
+Un certo mezzo subdolo per eludere la verità.
+
+Quello che Anassagora si attribuisce.
+
+Chi sostiene che tutte le cose si trovino mescolate insieme a tutto il resto?
+
+Mentre quell’altro viene mostrato soltanto per.
+
+I corpi sono più numerosi di tutti gli altri.
+
+E trovarsi più vicini, proprio davanti.
+
+Un concetto lontano da ogni logica vera e propria.
+
+In tal caso, sarebbe appropriato che i semi dei cereali.
+
+Se spesso, schiacciato tra la forza delle pietre.
+
+Mostrami un segno di sangue, o qualcos’altro.
+
+Il quale, nel nostro contesto umano, viene alimentato, e che.
+
+La roccia che si sfrega contro un’altra dovrebbe produrre una sostanza vischiosa e sanguinolenta.
+
+Allo stesso modo, le erbe dovrebbero spesso secernere gocce.
+
+Di latte dolce, dal sapore simile a quello del latte delle pecore che hanno appena partorito.
+
+Infatti, dovremmo scoprire che, quando tutto si frantuma.
+
+Quei grumi di terra, quelle erbe, quei cereali, quelle foglie.
+
+Tutti i tipi di esseri si disperdevano minutamente nel terreno;
+
+Infine, dovremmo trovare nel legno diviso.
+
+Ceneri, fumo e frammenti di fuoco si nascondevano lì.
+
+Ma poiché i fatti dimostrano che non è così.
+
+È tuo compito comprendere che le cose non si mescolano tra loro.
+
+E così; ma i semi, comuni a molte cose.
+
+Mescolate in molti modi, devono certamente esserci nascoste nelle cose stesse.
+
+“Ma spesso accade sulle piste da sci”, dici tu.
+
+“Quei rami di alberi alti che si toccano a vicenda, ”
+
+Uno contro l’altro, colpiti dal vento impetuoso del sud.
+
+Fino a quando tutto non sarà avvolto da un fiore di fiamme che esplodono.
+
+Per verità, tuttavia il fuoco non è “innestato” nel legno.
+
+Ma ci sono molte “semi di calore”, e quando.
+
+Frustandosi l’uno contro l’altro, scorrono insieme.
+
+Essi scatenano le incendi nelle foreste.
+
+Se invece la fiamma, già formata, giacesse lì.
+
+Nascosti nelle foreste, e poi i fuochi.
+
+Non poteva assolutamente rimanere nascosto per molto tempo.
+
+Ma ciò significherebbe distruggere completamente tutta quella vegetazione selvatica.
+
+E bruciando tutta la boscaglia. Ora lo vedi?
+
+(Proprio come abbiamo detto poco sopra, )
+
+Quanto sia importante ciò che gli altri pensano o fanno.
+
+In quali posizioni si trovano questi stessi germi primordiali.
+
+Sono legati tra loro? E quali movimenti, inoltre.
+
+Si danno e prendono l’uno dall’altro, in che modo, quindi?
+
+Lo stesso, se modificato tra di loro, può prendere forma concreta.
+
+Sia gli oggetti di origine magmatica che quelli di origine lignea.
+
+Esattamente come queste parole stesse sono state create.
+
+Modificando leggermente i loro elementi,
+
+Sebbene indichiamo con nomi effettivamente diversi.
+
+Il magmatico dal lignoso. Ancora una volta.
+
+Se tu consideri tutto ciò che vedi.
+
+Tra tutti gli oggetti visibili, non può esserci.
+
+A meno che tu non finga corpi di materia dotati.
+
+Con una natura simile, attraverso i tuoi vani stratagemmi.
+
+Per te periranno tutti i germi delle cose.
+
+Accadrà che rideranno ad alta voce, come gli uomini.
+
+Scosso da un attacco di ilarità incontrollabile,
+
+O bagnate con salate lacrime che inumidiscono guance e menti.
+
+L’[Infinito](/concepts/infinity) dell’universo
+
+Ora apprendete ciò che rimane! Ascoltate con ancora maggiore attenzione!
+
+E per quanto mi riguarda, la mia mente non viene ingannata.
+
+Che oscurità. Ma c’è la grande speranza di ricevere lodi.
+
+Ha colpito il mio cuore con un tirso appuntito.
+
+Nella stessa ora, qualcosa ha colpito il mio cuore.
+
+Dolce amore delle Muse, con il quale ora l’istinto.
+
+Vago lontano da qui, prosperando nel corso di riflessioni solide e profonde.
+
+Attraverso luoghi solitari e inesplorati delle Pieridi.
+
+Calpestata da nessuno prima d’ora. Ne gioisco.
+
+Per giungere lì da sorgenti incontaminate.
+
+Per svuotarli completamente. Mi compiace cogliere fiori nuovi.
+
+Per cercare questo, la mia testa indossa una corona di segnali.
+
+Dalle regioni dove le Muse non sono mai esistite.
+
+Hai adornato i tempie di un uomo con ghirlande.
+
+Innanzitutto, poiché insegno su argomenti di grande importanza.
+
+E continuare senza indugio, liberando la mente da ogni vincolo.
+
+Le strette spire della religione del terrore.
+
+In seguito, poiché, riguardo a temi così oscuri, io li presento in un determinato contesto.
+
+Canzoni così chiare, che toccano nel profondo di tutti noi.
+
+Anche con il fascino delle Muse – che, a quanto pare.
+
+Non è privo di fondamenti ragionevoli.
+
+Ma come medici, quando cercano di fornire.
+
+I giovani ragazzi, per primi, toccano quella disgustosa erba amara.
+
+Il bordo della coppa è pieno di succo dolce.
+
+E il giallo del miele, affinché.
+
+L’età insensata dell’infanzia deve essere guidata con dolcezza.
+
+Per quanto riguarda le labbra, e nel frattempo, ingoiare tutto.
+
+Il amaro sorso dell’assenzio, e, nonostante fossimo ingannati,
+
+Non essere semplicemente ingannato, ma piuttosto in questo modo.
+
+Riacquistate la forza e una salute rigenerata:
+
+Quindi ora anch’io, poiché questa sembra essere la mia dottrina.
+
+Nel complesso, una situazione piuttosto tragica per coloro che.
+
+Chi non l’ha avuto tra le mani, e da allora, la folla.
+
+Coloro che hanno desiderato farlo con orrore.
+
+Per esporre la nostra dottrina a te attraverso la musica
+
+Di voce dolce e melodiosa, e, come se fosse.
+
+Toccarlo con il dolce miele della Musa.
+
+Se con tale [METODO](/axes/method) potessi, per caso, riuscire a comprendere.
+
+La tua mente, di fronte a queste nostre riflessioni.
+
+Finché non avrai compreso la vera natura di tutte le cose,
+
+E come esiste questo insieme intrecciato di elementi?
+
+Ma poiché ho insegnato che i corpi di materia, creati.
+
+Completamente solido; vola da una parte all’altra.
+
+Per sempre invincibile attraverso tutti i tempi.
+
+Ora vieni, e considera anche la somma di tutto ciò.
+
+Che ci sia un limite, o che non ce ne sia affatto, per te.
+
+Riveliamo ciò che è stato scoperto.
+
+Essere quel vasto, vuoto spazio, quella distesa infinita senza forma né limite.
+
+In ogni caso in cui le cose si svolgono in un certo modo.
+
+Esaminiamo se sia finito.
+
+Integro e completo, o raggiungere una perfezione infinita.
+
+E in basso, un abisso infinito e profondo.
+
+Pertanto, l’Tutto ciò che esiste è limitato.
+
+In nessuna delle fasi del suo percorso,
+
+Poiché allora “deve necessariamente avere un oltre per sempre”.
+
+E ciò che va oltre i confini della vista non può mai essere conosciuto.
+
+Per quanto ne sappiamo, a meno che non emergano ulteriori elementi.
+
+Un luogo, in qualche parte, che potrebbe delimitare lo stesso.
+
+Affinché la cosa possa essere ancora vista fino a quel punto.
+
+La natura della sensazione di quella cosa
+
+Non riesco più a seguirlo. Ora, perché.
+
+Dobbiamo ammetterlo: non esiste nulla al di fuori di questa somma.
+
+Non esiste nulla al di là, quindi manca completamente di fine.
+
+Non importa affatto dove ti posi.
+
+In qualsiasi regione del medesimo territorio.
+
+Anche in qualsiasi luogo un uomo si sia fermato.
+
+Intorno a lui rimane ancora tutto ciò che è infinito e illimitato.
+
+In tutte le direzioni esterne; o, supponendo.
+
+Per un istante, tutto lo spazio fu considerato finito.
+
+Se qualche viaggiatore lontano si mettesse in movimento.
+
+Verso le coste estreme e oltre.
+
+Un giavellotto volante, è dunque questo il tuo desiderio?
+
+Viene scagliato lontano, verso la destinazione per cui è stato inviato.
+
+E spara lontano, o forse verso qualche oggetto laggiù.
+
+È possibile impedirlo e fermarlo? Per l’uno o per l’altro.
+
+Devi ammetterlo e accettarlo. O uno, o l’altro.
+
+Ti priva della possibilità di fuggire e ti costringe ad agire.
+
+Che tu conceda che l’“tutto” si diffonda ovunque.
+
+Senza confini di sorta. Poiché, in fondo, non importa se esistano o meno.
+
+Qualsiasi cosa possa ostacolarlo e impedirne l’arrivo.
+
+Non là dove è stato inviato, né si trova nel suo obiettivo.
+
+O se, secondo una qualsiasi di queste prospettive, siamo semplicemente trascinati avanti.
+
+“Tutto è iniziato senza alcun punto di partenza. E così, ”
+
+Io continuerò, ovunque tu mi indirizzi.
+
+Le coste estreme, chiederò: “Cosa ne diventa?”
+
+“Dopo la tua lancia, cosa accadrà?” “Accadrà ciò che deve accadere.”
+
+Che in nessun luogo può esistere la fine del mondo, e che.
+
 <span class="atom-split" data-atom="007" data-title="BOOK I (parte 7)" data-chapter="BOOK I" data-kind="atom" data-srclang="en" data-tags="positions/atomism,concepts/infinity"></span>
 
 The [chance](/concepts/fortune) for further flight prolongs forever
@@ -2739,6 +5093,360 @@ Nor shall the blind night rob thee of the road,
 To hinder thy gaze on nature’s Farthest-forth.
 
 Thus things for things shall kindle torches new.
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [possibilità](/concepts/fortune) di continuare il volo si protra per l’eternità.
+
+Il volo stesso. Inoltre, tutto lo spazio.
+
+Di tutta quella totalità e di quella somma racchiuse all’interno.
+
+Con coste stabili e confini ben definiti in ogni direzione,
+
+Allora, l’abbondanza della materia del mondo fluirebbe.
+
+Uniti dal peso solido che proviene da ogni direzione.
+
+Ancora più in basso, verso il fondo del mondo.
+
+Niente potrebbe accadere sotto questo cielo.
+
+Non potrebbe esistere alcun cielo, né alcun sole.
+
+Infatti, in quel luogo dove tutta la materia giacerebbe ammucchiata.
+
+Essendo si stabilito nel corso di un tempo infinito.
+
+Ma in realtà, il riposo viene concesso.
+
+Nessun corpo, tra tutti gli elementi.
+
+Poiché non esiste alcun fondo verso cui possa scendere.
+
+Potrebbero, in qualche modo, scorrere insieme, e lì.
+
+Potrebbero riprendere le loro dimore, intatte e inalterate.
+
+In un movimento incessante, tutto continua ad andare avanti.
+
+Per sempre, tra tutte le regioni possibili, persino.
+
+Dalla fossa sottostante, dal profondo abisso.
+
+Corpi feriti vengono continuamente forniti.
+
+La natura di una stanza, lo spazio dell’abisso.
+
+È tale che persino i fulmini lampeggianti.
+
+Né l’una né l’altra può accelerare il proprio corso attraverso.
+
+Planando attraverso eterni spazi del tempo,
+
+Né, inoltre, far sì che ciò avvenga mentre continuano a correre.
+
+Affinché possano anche solo un po’ facilitare il proprio viaggio.
+
+Una tale enorme abbondanza si diffonde ovunque.
+
+Stanze disposte ad ogni angolo, senza fine.
+
+Infine, davanti ai nostri occhi si presenta.
+
+Cosa lega una cosa all’altra: l’aria separa le colline le une dalle altre.
+
+E le pareti montuose delimitano lo spazio aereo; la terra confina con il mare.
+
+E il mare, a sua volta, circonda tutte le terre; tranne che per L’Onnipotente.
+
+Veramente, nulla di ciò che esiste all’esterno può limitarci.
+
+Anche questo: che la stessa somma di tutte le cose possa non essere.
+
+Avere il potere di stabilire da soli una propria misura.
+
+La grande natura è una guardiana: è lei che costringe il vuoto ad esistere.
+
+Per delimitare ogni corpo, così come ogni vuoto è delimitato da un corpo.
+
+Così, attraverso questi alterni, l’intero processo viene modificato.
+
+Un infinito, oppure l’uno o l’altro.
+
+Essendo privo di limiti rispetto all’altro, si diffonde.
+
+Anche per via della sua natura unica, comunque.
+
+Inesauribilmente lontano.
+
+Né mare, né terra, né le luminose cupole del cielo.
+
+Nessuna stirpe di mortali, né le sacre membra degli dèi.
+
+Non sarebbero in grado di mantenere la loro posizione nemmeno per un quarto d’ora:
+
+Poiché, spinti lontano dai suoi incontri appropriati.
+
+Le merci, una volta sciolte, verrebbero trasportate.
+
+Lungo l’infinito e vuoto orizzonte lontano.
+
+O meglio, in realtà, non si sarebbero mai uniti nemmeno una volta.
+
+E dato che tutto è nato da qualcosa, poiché ogni cosa è dispersa ovunque.
+
+Non poteva essere unito. Poiché, in verità.
+
+Né con consigli i primi germi.
+
+“Instaurarsi, attraverso un intenso sforzo mentale, ”
+
+Ognuno al proprio posto; e non fecero nulla di più.
+
+Certamente, esiste un accordo preciso su come ogni germe debba muoversi.
+
+Ma poiché siamo molti e cambiamo in molti modi.
+
+Lungo l’All, vengono spinti all’estero e tormentati.
+
+Colpo dopo colpo, fin dai tempi antichi.
+
+E così, dopo aver tentato di tutto.
+
+I tipi di movimento e di connessione, così come.
+
+All’interno di quei grandiosi disegni che.
+
+Questa serie di elementi stabiliti costituisce la creazione stessa.
+
+E attraverso quegli anni immensi, inoltre.
+
+Viene conservato, una volta che è stato gettato via.
+
+Inserirsi nei movimenti appropriati, per realizzare ciò che è necessario.
+
+Che mai i ruscelli rinfreschino il corso principale, avido di acqua.
+
+Con le onde del fiume che si moltiplicano e quella terra.
+
+Avvolti dai caldi respiri del sole.
+
+Rinnova le sue cucciolate, e quella razza ardente.
+
+Di tutte le creature viventi, animali e piante, e di tutto ciò che esiste.
+
+Le fiamme scivolanti dell’etere sono vive.
+
+Quello che nemmeno i germi primordiali erano in grado di fare.
+
+A meno che non venga dal nulla dell’infinito dello spazio.
+
+Potrebbe provenire la fonte di materia, da cui, al momento giusto.
+
+Sono pronti a riparare qualsiasi tipo di danno subito.
+
+Poiché la natura delle creature che respirano è destinata al decadimento.
+
+Perdendo il proprio corpo, quando privato di cibo.
+
+Quindi, tutto deve essere dissolto immediatamente.
+
+In ogni caso, indipendentemente dal mezzo utilizzato per deviarla.
+
+Allontanandosi dal suo percorso naturale, non sarà più disponibile sul posto.
+
+Né i colpi provenienti dall’esterno possono ancora preservare.
+
+Da ogni parte, qualsiasi sia la natura di questo mondo.
+
+È stato unito in un tutto; possono.
+
+Infatti, mediante percosse ripetute, si può controllare una certa parte.
+
+Fino a quando altri non arriveranno per completare la somma.
+
+Ma nel frattempo, spesso sono costretti ad agire immediatamente.
+
+Riprendendosi e, mentre si sollevano, cedendo di nuovo.
+
+Da quegli elementi da cui deriva un mondo.
+
+Una stanza e un momento per volare, che glielo permettano.
+
+Nascere al di fuori di quella vasta unione.
+
+Liberi e lontani. Pertanto, ancora e ancora:
+
+Per soddisfare le necessità, spesso è necessario ricorrere a molte risorse.
+
+E inoltre, che i colpi stessi debbano essere.
+
+Immutabile per sempre. Deve forse esistere qualcosa del genere?
+
+Una forza infinita di materia da tutte le parti intorno.
+
+E in questi problemi, restringiti, mio caro Memmio, molto.
+
+Abbandonando la fede per seguire quelle parole infami.
+
+Che tutte le cose presenti all’interno del centro tendano ad essere spinte verso di esso;
+
+E così, la natura del mondo rimane immutata.
+
+Senza alcun soffio dall’esterno, né può esserci alcuna azione esterna che possa influenzarlo.
+
+In nessun luogo separato, poiché ogni altezza e profondità.
+
+Sempre spinto verso l’interno, verso il centro.
+
+(Se sei disposto a credere che qualcosa, )
+
+Può riposare su se stesso; oppure che.
+
+I pesanti corpi che si trovano sotto la terra.
+
+Tutti spingono verso l’alto e poi si fermano.
+
+Sulla terra, in qualche modo capovolto.
+
+Come quelle immagini di cose che vediamo.
+
+Attualmente, nelle acque, essi si scontrano tra loro.
+
+Con lo stesso procedimento, tutte le creature viventi.
+
+Vagare verso il basso, eppure non essere in grado di farlo.
+
+Cadere dalla terra verso i regni del cielo sottostante.
+
+Non diversamente dai nostri corpi, anche queste cose si allontanano volando.
+
+Spontaneamente, verso le vette del cielo.
+
+Cioè, quando quelle creature guardano il sole.
+
+Osserviamo le costellazioni della notte;
+
+E questo, proprio per noi, riguarda anche le stagioni del cielo.
+
+Pertanto, si dividono a turno, e in questo modo.
+
+Che le notti siano uguali ai nostri giorni.
+
+Ma un errore vano ha concesso questi sogni agli sciocchi.
+
+Hanno adottato queste idee con un ragionamento perverso.
+
+Poiché il mondo è in movimento costante, non esiste alcun punto centrale.
+
+Senza confini. E nemmeno, se ora esistesse un centro.
+
+C’è qualcosa che possa assumere una posizione fissa in modo ancora più definito?
+
+Poi, per qualche altro motivo, potrebbe essere spostato.
+
+Tutto lo spazio che chiamiamo “vuoto” è in realtà formato da materia e energia.
+
+Devono entrambi, sia attraverso il centro che al di fuori di esso, cedere.
+
+Simili ai pesi, la cui direzione del movimento è sempre prestabilita.
+
+Non esiste alcun luogo, dove, quando vi arrivano,
+
+I corpi possono rimanere immobili nel vuoto,
+
+Privato della forza di gravità; né può essere considerato vuoto.
+
+Fornire sostegno a chiunque, anzi, è proprio necessario farlo.
+
+Fedele alla propria natura, cede comunque il posto.
+
+Pertanto, in questo modo, le cose non possono affatto essere.
+
+Rimani unito, come se fossi stato sconfitto.
+
+Desiderando ardentemente un centro.
+
+Ma inoltre.
+
+Notando che fingono che non tutti i corpi esercitino una pressione.
+
+Per concentrarsi verso l’interno, soltanto quelli.
+
+Di terra e acqua (l’acqua liquida del mare, ).
+
+E le grandi onde che si formano sulle pendici della montagna.
+
+E tutto ciò che è racchiuso, in qualche modo.
+
+Nel corpo terreno, al contrario, insegnano.
+
+Come l’aria rarefatta, e con essa il fuoco ardente.
+
+Si separa dal centro, e in che modo?
+
+Per questo motivo, tutto l’etere tremola di stelle luminose.
+
+E la fiamma del sole, lungo il cielo blu, continua ad ardere.
+
+(Poiché il calore, proveniente dal centro e che si diffonde all’esterno, )
+
+Tutti si riuniscono lì), e come, ancora una volta, i rami.
+
+Le foglie non riuscivano a spuntare sulle cime degli alberi.
+
+A meno che, poco a poco, non emerga dalla terra.
+
+Per ciascuno di loro esisteva un alimento.
+
+Affinché, come le fiamme alate,
+
+Le mura del mondo dovrebbero dissolversi.
+
+Si disperse completamente nell’immensità del vuoto.
+
+E affinché nulla altro non seguisse lo stesso percorso,
+
+Sì, affinché le tuonanti volte del cielo non esplodano.
+
+E si spezza verso l’alto; immediatamente la terra.
+
+Si ritira sotto i nostri piedi, insieme a tutta la sua massa.
+
+Tra i suoi relitti mescolati con quelli del cielo.
+
+Con lo scioglimento delle originarie “semi”,
+
+Dovrebbe passare, lungo l’immensità del nulla.
+
+Lontano per sempre. E in quell’istante, nulla più.
+
+Sarebbero rimasti solo rovine e resti, oltre ad altro.
+
+Lo spazio desolato, e i germi invisibili.
+
+Poiché, da qualsiasi lato tu consideri le cose per primo.
+
+I corpi primordiali, mancanti di quella particolare caratteristica.
+
+Per alcune cose, quella stessa porta della morte rappresenta l’unico mezzo.
+
+Attraverso cui la folla della materia andrà tutti in frantumi.
+
+In tutto il mondo.
+
+Questi punti, se vorrai rifletterci attentamente.
+
+Poi, con pochissimi sforzi, furono guidati.
+
+Perché una cosa dopo l’altra diventerà chiara.
+
+Né la notte oscura ti priverà della strada da percorrere.
+
+Per impedirti di fissare lo sguardo verso le più lontane estremità della natura.
+
+E così, le cose stesse accenderanno nuove torce.
 
 <span class="atom-split" data-atom="008" data-title="BOOK II (parte 1)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -3132,6 +5840,398 @@ Their motion also must they veil from men —
 
 For mark, indeed, how things we can see, oft
 
+<span class="qlang-split" data-lang="it"></span>
+
+PROEMIO
+
+È dolce quando, lungo il vasto fiume, i venti.
+
+Raccoglie le sue acque in eccesso, provenienti dalla terra.
+
+Vedere l’angoscia e lo sforzo di un altro da lontano.
+
+Non è che ci compiaccia davvero molto quell’uomo.
+
+Dovrebbe essere colpito in questo modo, ma perché è dolce.
+
+Per comprendere quali mali possano essere risparmiati a noi stessi.
+
+È dolce, ancora una volta, osservare questa potente lotta.
+
+Di quelle armate impegnate in battaglia laggiù, sulle pianure.
+
+Noi stessi non siamo coinvolti in questo pericolo; ma nulla.
+
+Non c’è nulla di più bello che occupare una posizione elevata.
+
+Pianure sereni, ben difesi dai saggi.
+
+Da lì puoi guardare gli altri uomini dall’alto in basso.
+
+E vederli dappertutto, dispersi e senza meta.
+
+Nella loro solitaria ricerca della strada della vita.
+
+Rivali nel genio, o gelosi nella posizione sociale.
+
+Superando giorni e notti di estrema fatica.
+
+Per le vette del potere e il dominio del mondo.
+
+Oh, miseri esseri umani! Oh, cuori ciechi!
+
+In quali grandi pericoli, in quali oscurità della vita.
+
+Quanti anni umani vengono sprecati, anche se brevi,!
+
+O non riconoscere la natura per ciò che realmente è.
+
+Abbaia senza motivo, se non per chiedere che quel dolore si allontani.
+
+Separato dal corpo, e quel cervello che ne gode.
+
+Un sentimento delizioso, lontano da preoccupazioni e paura!
+
+Pertanto, vediamo che la nostra vita corporea.
+
+Richiede davvero poco, e soltanto cose del genere.
+
+Poiché elimina il dolore e, inoltre.
+
+Disperdere sotto di sé una certa quantità di delizie.
+
+A volte si è ancora più grati (poiché la natura richiede, )
+
+Nessun artificio, né lusso, se mai esistono davvero.
+
+Non esistano immagini dorate di ragazzi.
+
+Lungo i corridoi, con le mani destre tese in avanti.
+
+Le lampade ardenti, le luci per i banchetti serali.
+
+E se la casa non scintilla d’oro.
+
+Né brillano d’argento, né risuonano alla lira.
+
+Nessun soffitto intagliato e dorato sopra la testa.
+
+Eppure, continuare a rilassarsi con gli amici sull’erba soffice.
+
+Accanto a un fiume d’acqua, sotto di esso.
+
+I rami di un grande albero, che si muovono allegramente per rinfrescare l’aria.
+
+I nostri sistemi, senza grandi investimenti – soprattutto.
+
+Se il tempo ride e le stagioni dell’anno.
+
+Cospargi l’erba verde intorno di fiori.
+
+Né le febbri gravi si placano più rapidamente.
+
+Se su un arazzo dipinto lanci i dadi,
+
+O roba viola, meglio ancora se è tua quella che giace lì.
+
+Sul giaciglio del poveruomo. Pertanto, poiché.
+
+Né tesori, né rango, né gloria di un regno.
+
+Che questo nostro corpo non ci sia di alcun aiuto in questa circostanza.
+
+Considerali anch’essi come nulla per la mente.
+
+Salva dunque, forse, quando tu guarderai fuori.
+
+Le tue legioni, numerose e schierate intorno al Campo di Marte.
+
+Scatenando una sorta di guerra simulata, da entrambe le parti.
+
+Rafforzati da numerosi ausiliari e cavalli,
+
+Equipaggiati allo stesso modo con armi, ispirati allo stesso modo.
+
+O salvami anche quando tu guarderai fuori.
+
+Le tue flotte si dispiegano lungo il mare.
+
+Poiché allora, umiliati da una circostanza così evidente.
+
+La religione svanisce e fugge dalla tua mente. Allora.
+
+Le paure della morte rendono il cuore completamente libero da preoccupazioni.
+
+Ma se osserviamo come tutta questa pompa, alla fine.
+
+Non è altro che una buffonata e uno scherzo derisorio.
+
+E in verità, la paura dell’uomo, seguita da mille preoccupazioni.
+
+Non teme questi suoni di armi, queste spade selvagge.
+
+Ma tra re e signori di tutto il mondo.
+
+Si mescola senza timore, né si lascia intimidire.
+
+Né per il bagliore dell’oro, né per lo splendore abbagliante.
+
+Con quel mantello viola, puoi forse dubitare che questo.
+
+Non è forse tutto ridotto alla capacità di pensare? – quando, inoltre.
+
+Tutta la vita, in realtà, non è altro che un lavoro svolto nell’oscurità.
+
+Poiché proprio come i bambini tremano e hanno paura di tutto.
+
+Nella oscurità impenetrabile, anche noi a volte.
+
+Tremo alla luce di tutte quelle cose che esistono.
+
+Niente è più spaventoso di ciò che i bambini fingono.
+
+Tremeranno. Qualcosa li colpirà nell’oscurità.
+
+Quindi questo terrore, questa oscurità della mente.
+
+Non l’alba con i suoi raggi di luce che si diffondono.
+
+Né le scintillanti frecce dell’alba possono disperdere.
+
+Ma soltanto l’aspetto della natura e le sue leggi.
+
+MOZIONI ATOMICHE
+
+Ora vieni: io disperderò gli ostacoli dal tuo cammino.
+
+Ora, con quali movimenti i corpi generativi.
+
+Dagli elementi del mondo nasce questo mondo così vario e complesso.
+
+E poi risolverlo per sempre non appena viene generato.
+
+E con quale forza sono costretti a farlo.
+
+E quale sia la velocità loro assegnata.
+
+Con ciò per viaggiare attraverso l’immensità vuota.
+
+Ricordati di sottometterti alle mie parole.
+
+Poiché in realtà la materia non è coerente, non si raggruppa strettamente.
+
+Poiché vediamo ogni cosa declinare e svanire.
+
+E osserviamo come tutto continui ad andare avanti e indietro.
+
+Come se, con il tempo immemorabile e lontano dai nostri occhi.
+
+Come l’età avanzata allontana ogni cosa alla fine.
+
+Sebbene la somma appaia rimanere invariata.
+
+Intatti, perché queste particelle che costituiscono ogni cosa.
+
+Riduci ciò da cui si separano, ma dona loro qualcos’altro in cambio.
+
+Con l’aumento di quelle cose da cui a loro volta derivano.
+
+Costringendoli ad appassire nella vecchiaia.
+
+E quelle che fioriscono nel loro pieno rigoglio, eppure.
+
+Non rimase a lungo tra di loro. E così, la somma.
+
+Il “per sempre” si rinnova continuamente, e noi viviamo.
+
+Come esseri mortali, siamo costretti a un eterno scambio e reciprocità.
+
+Le nazioni crescono, le nazioni declinano.
+
+In un breve lasso di tempo, le generazioni si susseguono una dopo l’altra.
+
+E, come i corridori che portano con sé la luce della vita.
+
+Uno dopo l’altro.
+
+Ma se tu credi.
+
+Che i germi primordiali delle cose possano arrestarsi.
+
+E nel loro arrestarsi danno vita a nuovi movimenti.
+
+Lontano dal cammino della verità ti allontani.
+
+Poiché vagano nel vuoto sterile e privo di significato.
+
+Tutti i germi primordiali delle cose devono necessariamente.
+
+Essere trascinati avanti, sia dal proprio peso.
+
+O forse, senza alcun motivo, a causa di un colpo inferto da qualcun altro.
+
+Infatti, quando, nella loro incessante ripetizione, spesso.
+
+Si incontrano e si scontrano; così accade inevitabilmente.
+
+Si separano di scatto, faccia a faccia: niente di strano.
+
+Essendo i più duri e pesanti,
+
+E nulla ostacolava il movimento, da dietro.
+
+E affinché tu possa comprendere più chiaramente come tutto ciò.
+
+Questi piccoli esseri della materia si muovono rapidamente in tutte le direzioni.
+
+Ricordatevi che, in nessun punto di tutto ciò.
+
+Di tutto esiste un fondo; da nessuna parte.
+
+Un regno di riposo per i corpi primordiali, poiché.
+
+(Come è stato ampiamente dimostrato e confermato da ragionamenti certi.)
+
+Lo spazio non ha confini né dimensioni e si estende all’infinito.
+
+Si diffonde senza limiti, in tutte le direzioni intorno.
+
+Poiché ciò è certo, non vi può essere alcun dubbio al riguardo.
+
+Ai corpi primordiali non viene concesso alcun riposo.
+
+Attraverso l’insondabile e l’inutile, piuttosto che altro.
+
+Costantemente assillati da movimenti confusi e disordinati.
+
+Alcuni, durante le loro interferenze, rimangono sbalorditi e se ne vanno immediatamente.
+
+Enormi distanze tra di loro, e alcuni addirittura lontani dal punto d’impatto.
+
+Si affrettano, lasciando spazi ridotti tra una parola e l’altra.
+
+E tutto ciò, unito a alcune piccole discrepanze,
+
+In un’unione più stretta e improvvisa.
+
+Connessi tra loro da forme intricate e intrecciate.
+
+Queste costituiscono le radici inconfutabili delle rocce.
+
+E quelle enormi masse di ferro, e altro ancora.
+
+Appartiene alla loro stessa specie.
+
+Gli altri si allontanano di molto, arretrano con forza.
+
+Lasciando enormi lacune tra, e queste forniture.
+
+Per noi, l’aria rarefatta e i raggi splendenti del sole.
+
+E molti, oltre a questi, vagano nel vasto vuoto.
+
+Ripartendo dalle unioni di cose esistenti.
+
+Nessuna parte dell’universo lo accetta.
+
+E in nessun modo collegato, nel suo movimento, con il resto.
+
+E di questo fatto (così come lo registro qui).
+
+Un’immagine, un simbolo continuano ad apparire davanti ai nostri occhi.
+
+Vivete ogni momento appieno, perché ebbene, ognuna volta che.
+
+La luce del sole e i suoi raggi, che filtrano all’interno, si riversano giù.
+
+Attraverso oscuri corridoi di case, vedrai.
+
+I numerosi acari, in molti modi diversi, si mescolavano tra loro.
+
+In mezzo al vuoto, proprio nel cuore dei raggi di luce.
+
+E continuando a lottare, in una lotta eterna.
+
+E in battaglioni che combattono senza sosta.
+
+Nei meeting, nelle separazioni, sempre in movimento, sempre sotto pressione.
+
+Da questo puoi dedurre di che tipo.
+
+Il continuo movimento delle semine primordiali.
+
+Nel vuoto più imponente, almeno per ora.
+
+Un piccolo fatto può servire a realizzare qualcosa di molto più grande.
+
+E, per esempio, mettiti sulla traccia giusta.
+
+Del conoscere. Proprio per questa ragione, è appropriato.
+
+Tu rivolgi sempre di più la tua attenzione verso questi corpi.
+
+Qui vengono mostrati mentre cadono, illuminati dalla luce.
+
+Cioè, perché tali capovolgimenti rappresentano un segno.
+
+Anche quei movimenti della materia primordiale.
+
+Nascosti e invisibili, si annidano laggiù, dietro.
+
+Poiché qui noterai molte macchie, spinte dal movimento.
+
+Con colpi invisibili, per modificare leggermente la sua traiettoria.
+
+E poi battuti all’indietro per tornare di nuovo.
+
+In tutte le direzioni, da un lato all’altro.
+
+Tutto il loro movimento incessante appartiene al passato.
+
+Dai primordiali [atomi](/positions/atomism); proprio per questo.
+
+I semi primordiali delle cose si muovono per prima cosa da sé stessi.
+
+E poi quei corpi formati da piccole unioni.
+
+E, per così dire, il più vicino alle forze.
+
+Gli atomi primordiali vengono agitati.
+
+Per l’effetto di quei colpi invisibili degli atomi,
+
+E questi, a loro volta, stimolano quelli di dimensioni maggiori che seguono:
+
+Pertanto, il movimento si eleva dai primordi.
+
+E, gradualmente, emerge davanti alla nostra percezione.
+
+Fino a quando anche quegli oggetti non si muoveranno, che noi.
+
+Può essere segnato dai raggi del sole, anche se non sembra evidente.
+
+Quali spinte li motivano?
+
+In questo caso, non meravigliatevi.
+
+Come mai, se i semi di tutte le cose esistono già.
+
+Si muove per sempre, ma la somma, in qualche modo, sembra rimanere immutata.
+
+Estremamente immobile, tranne nei casi in cui.
+
+Un oggetto manifesta il proprio movimento nel suo insieme complessivo.
+
+Molto al di là della portata dei sensi si trova.
+
+La natura di quegli elementi supremi del mondo.
+
+E così, poiché nemmeno tu riesci a vederli,
+
+Anche il loro movimento deve essere nascosto agli occhi degli uomini.
+
+Infatti, osservate bene: le cose che possiamo vedere spesso.
+
 <span class="atom-split" data-atom="009" data-title="BOOK II (parte 2)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Yet hide their motions, when afar from us
@@ -3511,6 +6611,386 @@ First from the spirit’s will, whence at the last
 ’Tis given forth through joints and body entire.
 
 Quite otherwise it is, when forth we move,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Eppure nascondono le loro azioni quando si trovano lontane da noi.
+
+Lungo quel paesaggio lontano. Spesso è così.
+
+Su un pendio di collina, le greggi lanose.
+
+Stanno tagliando via il loro cibo prezioso e si muovono furtivamente dappertutto.
+
+Dove vadano le invocazioni dell’erba, adornate.
+
+Con la rugiada fresca che chiama, e i agnelli.
+
+Ben sazi, si muovono con energia, si scontrano con vigore nello sport.
+
+Eppure tutto ciò che ci circonda sembra sfocato e confuso, lontano da noi.
+
+Un bagliore bianco, fermo su una collina verde.
+
+Ancora una volta, quando potenti legioni marciavano intorno.
+
+Riempite tutti i quartieri delle pianure sottostanti.
+
+Scatenando una sorta di guerra simulata, ecco apparire quel bagliore.
+
+Si innalza verso il cielo, e si estende su tutti i campi circostanti.
+
+Scintilla di rame, e da sotto, un suono.
+
+Nasce dalle gambe di soldati forti e coraggiosi.
+
+E le pareti di montagna, colpite dai loro gridi, risuonano.
+
+Voci che si dirigono verso le stelle del cielo.
+
+E da una parte e dall’altra la cavalleria si muove rapidamente.
+
+E all’improvviso, attraverso i campi più centrali.
+
+Colpi così potenti da scuotere tutto intorno.
+
+La terra solida. Eppure, in qualche modo, essa esiste ancora.
+
+Lassù, tra le alte montagne, viste da lì sembrano.
+
+Rimanere in piedi, un bagliore immobile lungo le pianure.
+
+Ora, quale sia la velocità delle [atomi](/positions/atomism) della materia.
+
+Mio caro Memmio, da questo puoi imparare molto poco.
+
+Quando, all’inizio, l’alba sparge nuova luce.
+
+Le terre, e tutti i tipi di uccelli che esistono in natura.
+
+Vola attraverso le foreste senza sentieri, emettendo suoni liquidi e melodiosi.
+
+Riempendo le regioni attraverso l’aria dolce e profumata.
+
+Rivolgendo lo sguardo, diventa immediatamente evidente all’uomo.
+
+Quanto improvvisamente il sole appena sorto cambia comportamento.
+
+A un’ora del genere, per diffondere e coprire.
+
+Il tutto, con la sua bellezza intrinseca; ma il sole.
+
+Respiri caldi e questa luce serena.
+
+Non viaggiate attraverso un vuoto desolato; e così.
+
+Sono costretti ad avanzare più lentamente.
+
+Mentre, per così dire, fendevano le onde d’aria.
+
+Nessuna di queste particelle viaggia una per una.
+
+Di quei caldi respiri, ma sono tutti.
+
+Intrecciati e ammassati insieme, in modo che immediatamente.
+
+Ognuno è vincolato dagli altri, e anche dall’esterno.
+
+Controllato, finché non si è stati costretti ad avanzare più lentamente.
+
+Ma gli atomi primordiali, con le loro caratteristiche antiche.
+
+Una semplice solidità, quando si mettono in viaggio.
+
+Lungo il vuoto desolato, tutto senza indugi.
+
+Da nulla esterno a loro stessi; e loro, ognuno di loro.
+
+Essendo un’unica entità nella natura delle sue parti,
+
+Vengono portati in quel luogo verso cui si sforzano di arrivare.
+
+Per poterlo afferrare, quindi, non c’è dubbio che sia necessario.
+
+Superare in velocità e essere trasportati più rapidamente.
+
+Più della luce del sole, attraverso le regioni si precipita.
+
+Di uno spazio molto più vasto, nello stesso tempo.
+
+La luce del sole si diffonde in tutto il cielo.
+
+Né tantomeno cercare di analizzare gli atomi uno per uno.
+
+Per comprendere la legge secondo cui ogni cosa avviene.
+
+Ma alcuni uomini, ignoranti della natura della materia, pensano.
+
+In opposizione a ciò, si sostiene che non sia possibile senza gli dèi.
+
+In un tale adattamento ai nostri modi umani,
+
+Può la natura cambiare le stagioni degli anni?
+
+E far sorgere i cereali e tutto il resto.
+
+A quale Divina Gioia, guida della vita.
+
+Convince la morte e la guida lungo il suo cammino.
+
+Che, attraverso le sue abili lusinghe d’amore,
+
+Si continua ancora a propagare le generazioni.
+
+Affinché l’umanità non perisse. Quando fingono.
+
+Che gli dèi abbiano creato tutte le cose tranne l’uomo.
+
+Sembra che, sotto ogni aspetto, siano destinati ad andare incontro a gravi difficoltà.
+
+Dalla verità della ragione: poiché anche se mai non l’avessi conosciuta.
+
+Quali siano queste semi primordiali, ma oserei forse?
+
+Questo per affermare, persino sulla base di una profonda valutazione.
+
+In merito ai movimenti e alle caratteristiche del cielo.
+
+Questo viene confermato da molti fatti, oltre ad altro.
+
+Che in alcun modo la natura del mondo.
+
+Per noi è stato costruito da una forza divina.
+
+Tali sono i suoi difetti che ne rappresentano un vero ostacolo.
+
+Il quale, mio Memmio, in seguito, per te.
+
+Risolveremo tutto. Ora, per quanto riguarda ciò che rimane.
+
+Per quanto riguarda i movimenti, svilupperemo ulteriormente il nostro ragionamento.
+
+Ora sembra essere il momento giusto, in queste circostanze.
+
+Per dimostrartelo anche questo: nulla di corporeo.
+
+Per sua stessa forza, non può mai essere spinto verso l’alto.
+
+O salire verso l’alto, né permettere che i corpi di fiamme.
+
+In questo caso ti ingannano, poiché in realtà sono stati generati.
+
+Con un impulso verso l’alto, tale crescita avviene così.
+
+Da qui crescono verso l’alto grani luminosi e alberi.
+
+Sebbene tutto il peso interno tenda verso il basso.
+
+Né quando le fiamme scaturiranno improvvisamente da sotto.
+
+I tetti delle case, e le fiamme veloci li avvolgono.
+
+Legno e travi: quindi si deve presumere.
+
+Agiscono di loro spontanea iniziativa, senza alcuna coercizione esterna.
+
+Per spingerli ad agire. È così che il sangue, versato.
+
+Dai nostri corpi spruzzano getti verso l’alto.
+
+E schizzi di sangue. Non hai mai notato?
+
+Con quale forza l’acqua verrà scaricata.
+
+Legno e travi. Più profondi, dritti e verso il basso.
+
+Li spingiamo dentro, e sebbene siamo molti.
+
+Più ci sforziamo con impegno e fatica, più.
+
+L’acqua li rigetta indietro, scagliandoli via.
+
+Per più della metà della loro lunghezza, emergono proprio lì.
+
+Riprendendoci. Eppure, sembra che non dubitiamo mai.
+
+Che tutto il peso che è in loro tenda verso il basso.
+
+Attraverso il vuoto desolato. Beh, allo stesso modo, le fiamme.
+
+Dovrebbe anche essere in grado, quando viene compresso.
+
+Attraverso i venti dell’aria, si eleva verso l’alto, nonostante.
+
+Il peso che è in loro cerca di trascinarli verso il basso.
+
+Non l’hai forse visto, spazzare così lontano e in alto.
+
+I meteori, quegli “falò” del cielo a mezzanotte.
+
+Come, dopo di loro, lasciano dietro di sé lunghi tracciati di fiamme.
+
+Ovunque la Natura apra un percorso attraversabile.
+
+Come le stelle e le costellazioni cadono sulla terra.
+
+Non lo vedi? Eppure anche il sole, dall’apice del cielo.
+
+Scaglia intorno, in ogni direzione, il suo intenso calore.
+
+E semina le terre appena arate con la luce.
+
+Allo stesso modo, il calore del sole tende verso la terra.
+
+Attraverso la pioggia vedi i fulmini saettare;
+
+Ora qui, ora lì, spuntano fuori dalle nuvole.
+
+Le fiamme si muovono in linee zigzaganti, e quella potenza infuocata.
+
+Anche questo ritorna alla realtà terrena.
+
+In queste questioni
+
+Desideriamo che tu sia pienamente consapevole anche di questo:
+
+Gli atomi, spinti verso il basso dal proprio peso.
+
+Attraversare il vuoto, in momenti appena decisi.
+
+In pochi luoghi ben definiti, lungo il loro corso.
+
+Inclinati leggermente, si potrebbe dire così.
+
+Solo un cambiamento di tendenza. Se non fosse nella loro natura.
+
+In questo modo, [deviando](/positions/clinamen) dal percorso giusto, ognuno di loro sarebbe caduto.
+
+Come gocce di pioggia, attraverso il vuoto senza fondo.
+
+E poi, né collisioni né colpi sarebbero mai stati possibili.
+
+Tra gli elementi primordiali, e quindi.
+
+La natura non avrebbe mai creato nulla.
+
+Ma, se forse ci fosse qualcuno che credesse.
+
+I corpi più pesanti, essendo spinti con maggiore velocità.
+
+Penetrate nel vuoto, siete in grado di farlo dall’alto.
+
+Per accendere la lampada, quindi per infliggere colpi.
+
+In grado di generare tali movimenti riproduttivi, molto lontano.
+
+Si ritirano dalle strade della vera ragione.
+
+Per tutto ciò che cade attraverso le acque.
+
+O attraverso l’aria stessa, devono accelerare la loro discesa.
+
+Ognuno, in base al proprio peso. Proprio per questo motivo.
+
+Sia l’immensa quantità d’acqua che l’etereo e sottile aria.
+
+In nessun modo si può rallentare ogni cosa allo stesso modo.
+
+Ma concedi più velocità prima di applicare quel peso maggiore.
+
+Ma al contrario, il vuoto assoluto non può.
+
+In qualsiasi modo, in qualsiasi momento, per qualsiasi motivo.
+
+Ostinate resistenza, ma mai ci arrenderemo.
+
+Fedele alla propria natura. Pertanto, tutto ciò che accade.
+
+A velocità uguale, anche se non uguale per peso.
+
+Devo affrettarmi, discendere verso il nulla immobile e silenzioso.
+
+Pertanto, mai in alcun momento abbiamo subito punizioni più severe da parte di coloro che si trovano “lassù”.
+
+È stato veloce accendere la lampada, con movimenti delicati e precisi.
+
+Qual è la causa di tali movimenti diversi, e con quali mezzi essi avvengono?
+
+La natura svolge la sua opera. Ed è per questo che dico.
+
+Gli atomi, a volte, devono deviare leggermente dal loro percorso originale.
+
+Ma solo il minimo indispensabile, affinché non sembri che fingiamo.
+
+Movimenti obliqui, e i fatti ci contraddicono in questo.
+
+Pertanto, è immediatamente evidente che.
+
+Qualunque sia il peso, non può muoversi in modo obliquo.
+
+Durante il suo viaggio precipitoso verso il basso, da lassù.
+
+Almeno per quanto tu possa osservare; ma chi.
+
+Esiste forse un segno, percepibile con i sensi, che dimostri che nulla può deviare dal proprio percorso?
+
+A parte la linea retta della sua strada sterrata, c’è qualcos’altro da considerare?
+
+Ancora una volta: se tutti i movimenti sono tra loro collegati.
+
+E dal vecchio nasce sempre il nuovo.
+
+In un ordine fisso, e da semi primordiali.
+
+Non produrre nulla attraverso deviazioni o inizi nuovi.
+
+Del movimento che spezza i patti del destino.
+
+Quella causa non è una causa eterna; non deriva da qualcosa di infinito o duraturo nel tempo.
+
+Da dove deriva questo [libero arbitrio](/positions/free_will) delle creature che popolano la terra?
+
+Da dove viene strappata alle sorti questa volontà?
+
+In questo modo facciamo un passo avanti proprio nel punto in cui il desiderio.
+
+Ognuno di noi segue questa strada, e proprio per questo ci allontaniamo dal giusto cammino.
+
+Nelle azioni, e non in un momento preciso stabilito.
+
+Né in una qualche linea fissa dello spazio, ma lì dove.
+
+È stata la mente stessa ad incoraggiarci. Poiché, senza dubbio.
+
+In queste questioni, è la volontà stessa di ciascun uomo a decidere.
+
+Quello rappresenta l’inizio; da lì, attraverso tutti i nostri arti.
+
+I movimenti incipienti sono sparsi, dispersi. Ancora una volta.
+
+Non lo vedi forse? Quando, in un certo momento.
+
+Le barriere sono state aperte; con quanta impazienza e forza.
+
+I cavalli non possono accelerare rapidamente quanto gli altri animali.
+
+Come possono i loro pensieri essere indirizzati verso qualcosa se ciò non è necessario o opportuno? Poiché tale comportamento non è affatto appropriato.
+
+Che tutto l’insieme della materia, attraverso questo sistema strutturale.
+
+Svegliatevi, affinché, attraverso ogni singola parte di voi,
+
+Una volta destata, essa esercita pressione e segue i desideri della mente;
+
+Ecco dunque come si manifesta il genere del movimento iniziale.
+
+Dalla profondità del cuore, sì, davvero, nasce.
+
+Prima dalla volontà dello spirito; da lì, infine.
+
+Viene emesso attraverso le articolazioni e l’intero corpo.
+
+Al contrario è proprio così quando ci muoviamo verso l’esterno.
 
 <span class="atom-split" data-atom="010" data-title="BOOK II (parte 3)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -3901,6 +7381,396 @@ But that thou seest among the things that flow
 Some bitter, as the brine of ocean is,
 
 Is not the least a marvel...
+
+<span class="qlang-split" data-lang="it"></span>
+
+Spinto da un impulso derivante dai potenti mezzi altrui.
+
+E un impulso potente, perché allora tutto diventa abbastanza chiaro.
+
+Tutta la materia del nostro corpo intero.
+
+Spinti avanti in fretta, contro la nostra volontà.
+
+Fino a quando la volontà non prenderà in mano le redini.
+
+E l’abbiamo verificato di nuovo, in tutti i nostri membri.
+
+A cui giudizio, in effetti, talvolta.
+
+La quantità di materia è costretta a cambiare la propria traiettoria.
+
+In tutti i nostri muscoli e in tutte le nostre articolazioni.
+
+E, dopo essere stato proiettato in avanti, diventa.
+
+Si ferma, e poi si riposa di nuovo.
+
+Quindi non vedi forse come, nonostante la forza esterna.
+
+Guida gli uomini davanti a te e spesso fai sì che si muovano.
+
+Avanti, spinti dal desiderio, e afferrati con impeto.
+
+Eppure, in questi nostri seni, c’è qualcosa.
+
+Forti nel combattere, forti anche nel resistere allo stesso? —
+
+Pertanto, anche all’interno dei semi primordiali.
+
+Devi ammettere che, oltre a tutti quei colpi e a quella pressione.
+
+Un’altra causa del movimento, da cui deriva.
+
+Questo potere, innato in noi, ci permette di compiere atti liberi.
+
+Poiché nulla può nascere dal nulla, ne concludiamo che ciò è impossibile.
+
+Poiché il peso impedisce che tutte le cose possano avvenire.
+
+Attraverso colpi, come se fossero inflitti da una qualche forza esterna;
+
+Ma la mente di quell’uomo, in tutto ciò che fa.
+
+Non esiste forza necessaria e immutabile all’interno di.
+
+Né è costretto, come qualcosa che sia stato conquistato, ad obbedire.
+
+Sopportare e soffrire: è questo lo stato che colpisce l’uomo.
+
+A causa di quel lieve deviazamento degli elementi.
+
+Nessuna linea fissa nello spazio, nessun momento fisso nel tempo.
+
+Né mai prima d’ora l’accumulo di merci era stato così intenso.
+
+E mai più, separati da divari ancora più ampi.
+
+Poiché nulla aumenta e nulla sottrae.
+
+Pertanto, proprio come si muovono oggi,
+
+I corpi elementari si muovevano già in tempi antichi.
+
+E così sarà per sempre da ora in poi.
+
+E ciò che era destinato ad essere generato in tempi antichi.
+
+Sarà generato secondo gli stessi termini.
+
+E crescere e prosperare nel potere, nella misura in cui ciò sia possibile.
+
+A ciascuno, secondo gli immutabili e antichi decreti della Natura.
+
+La somma delle cose è qualcosa che nessuna forza può cambiare.
+
+Poiché non esiste nulla all’esterno a cui possa fuggire.
+
+Tra tutte le forme di materia esistenti nel mondo,
+
+Né da essa può provenire un nuovo flusso di risorse.
+
+Intromettersi nel mondo già esistente e cambiarlo.
+
+Intera la natura delle cose, e ne cambia il corso.
+
+Forme atomiche e le loro combinazioni
+
+Ora vieni, e da questo momento in poi comprendi.
+
+Di quali tipi, quanto diversi nella forma.
+
+Quanto diversi sono, nelle loro infinite forme.
+
+Questi antichi inizi dell’universo.
+
+Non nel senso che solo pochi siano dotati di tali cose.
+
+Con una forma del genere, ma in realtà affatto no.
+
+In generale, hanno forse qualche somiglianza l’uno con l’altro?
+
+Nessuna meraviglia: poiché la loro quantità è così vasta.
+
+Che non esista fine (come ho insegnato), né somma totale.
+
+Certamente, non tutti devono essere contrassegnati in questo modo.
+
+Di uguali dimensioni e della stessa forma.
+
+Inoltre, l’umanità e le silenti greggi.
+
+Di quelle creature squamose che nuotano nei ruscelli.
+
+E branchi gioiosi che si muovono in giro, e tutta la natura selvaggia.
+
+E tutte le specie di uccelli – sia quelle che abbondano.
+
+Nei felici regni delle zone acquatiche,
+
+Per quanto riguarda le rive dei fiumi, le sorgenti e gli stagni.
+
+E quelli che si muovono in stormo, volando da un albero all’altro.
+
+Attraverso boschi senza sentieri. Vai, scegli pure quello che vuoi.
+
+In qualsiasi modo tu lo provi, scoprirai comunque.
+
+Ognuno di essi, per forma, rimane diverso dall’altro.
+
+Né in alcun altro modo i discendenti avrebbero potuto conoscere.
+
+Né la madre, né il figlio – come possiamo vedere.
+
+Essi possono ancora distinguerli l’uno dall’altro.
+
+Non meno degli esseri umani, attraverso segni evidenti.
+
+Spesso, davanti ai bei templi degli dèi,
+
+Accanto agli altari dove si bruciava l’incenso, uccisi.
+
+Scende dal petto del vitellino appena nato.
+
+Respirando flussi caldi di sangue, la madre orfana.
+
+Intanto, pascoli di boschi verdi si estendevano intorno.
+
+Conosce bene quelle orme lasciate da zoccoli divaricati.
+
+Con lo sguardo che osservava ogni angolo intorno,
+
+Per cercare traccia di quella giovane che se n’era andata.
+
+E, fermandosi improvvisamente, riempie i sentieri ombreggiati dalle foglie.
+
+Con le sue lamentele, e spesso cerca ancora una volta di ottenere qualcosa.
+
+All’interno della bancarella, ancora trafitta dal suo desiderio inesauribile.
+
+Né teneri salici, né erba umida di rugiada.
+
+Né i dolci ruscelli che scorrono lungo le rive basse.
+
+Può attirare la sua attenzione e alleviare quel dolore improvviso.
+
+Né altre forme di vitelli che pascolano in quei luoghi.
+
+Distraerla o alleviare anche solo in minima parte il dolore.
+
+Era così desiderosa di trovare qualcosa che fosse familiare e appartenesse a lei.
+
+Inoltre, bambini piccoli con voci rauche.
+
+Conosci bene le loro femmine cornute e i agnelli che si scontrano tra loro.
+
+Le greggi di pecore, e così continuano a muoversi.
+
+Invariabilmente, ognuno di essi raggiungeva la propria “tetta” naturale.
+
+Come desidera la natura. Infine, per quanto riguarda qualsiasi tipo di grano.
+
+Vedrai che nessun seme, di una data specie.
+
+È così simile a un altro, che ancora.
+
+Non esiste forse una qualche differenza nelle forme che si riscontra in tutto?
+
+Secondo una legge analoga, possiamo comprendere come la terra sia “calpestata”.
+
+Con gusci e conchiglie, là dove, tra onde dolci, il mare.
+
+Colpi sulle sabbie aride delle rive sinuose.
+
+Pertanto, ancora una volta: poiché i semi delle cose.
+
+Esistono per natura, e non sono stati creati con le mani dell’uomo.
+
+Dopo un modello fisso di alternanza reciproca.
+
+I loro bisogni devono necessariamente mutare continuamente, assumendo diverse forme.
+
+In tipi diversi tra loro.
+
+Abbastanza semplice da risolvere con la sola forza del pensiero.
+
+Perché i fulmini, in numero maggiore, riescono a penetrare più profondamente.
+
+Più di quelli fatti di pino rosso, nati sulla terra.
+
+Poiché puoi definire il fuoco celeste del fulmine.
+
+Così sottile, formato da figure ancora più raffinate.
+
+E così attraversa delle aperture create dal nostro fuoco.
+
+Nato dal legno, creato dal pino.
+
+Non è possibile. Ancora una volta, la luce attraversa il corno.
+
+Sul lato della lanterna, mentre la pioggia viene scacciata via.
+
+E perché? – a meno che quei corpi di luce non dovessero.
+
+Più delicati di quelle piacevoli docce d’acqua.
+
+Possiamo vedere quanto rapidamente tutto passi attraverso un colino.
+
+I vini scorreranno. Ma d’altra parte.
+
+I lenti tempi di produzione dell’olio d’oliva causano ritardi: senza dubbio.
+
+Poiché è formato da elementi più grandi.
+
+Oppure ancora più contorti e intrecciati. Così.
+
+Si deduce che i primordiali non possono essere.
+
+Così, improvvisamente, si separarono l’uno dall’altro e iniziarono a filtrare.
+
+Uno per ogni singola apertura di qualsiasi oggetto.
+
+E notate inoltre che quel liquido ottenuto da miele o latte.
+
+Il sapore che si percepisce in bocca è piacevole per la lingua.
+
+Mentre l’amaro assenzio e il pungente centauro.
+
+Con il loro sapore disgustoso, torcevano le labbra in una smorfia di disgusto.
+
+È così semplice comprendere che qualsiasi cosa.
+
+Ciò che può stimolare i sensi in modo piacevole viene creato apposta per questo scopo.
+
+Elementi lisci e arrotondati, mentre quelli.
+
+Quelli che appaiono amari e taglienti sono considerati.
+
+Avvinti da elementi ancora più sinuosi e complessi.
+
+Sono soliti irrompere nei nostri sensi con violenza.
+
+E renda il nostro corpo simile a quello che entrano loro.
+
+In breve: tutto ciò che è piacevole da percepire con i sensi è buono; tutto ciò che è sgradevole da toccare è cattivo.
+
+Essendo composto da figure così diverse tra loro.
+
+Sono in reciproco conflitto, affinché tu non possa pensare.
+
+Il suono stridulo e rauco di una sega che stride.
+
+È composto da elementi tanto fluidi e armoniosi quanto una canzone.
+
+Che, suonate da dita agili, vibrano sulle corde.
+
+I dolci musicisti creano queste forme, o forse le immaginano soltanto.
+
+Quegli [atomi](/positions/atomism) di forma identica, attraverso le narici degli uomini, penetrano.
+
+Quando i corpi in decomposizione bruciano, proprio come avviene sul palco.
+
+È condito con zafferano cilicio fresco e tritato.
+
+E l’altare emana quasi un profumo antichissimo, primordiale.
+
+O considera, come provenienti da una stessa “semina”, questi bei colori.
+
+Di quelle cose che deliziano i nostri occhi, così come di quelle che pungono.
+
+Contra la pupilla che brucia e che fa scorrere le lacrime.
+
+O mostrarsi, con un aspetto orribile, cupo e spregevole.
+
+Poiché nessuna forma che incanti i nostri sensi è mai stata creata.
+
+Senza una certa fluidità elementare, mentre.
+
+Tutto ciò che è duro e fastidioso è stato concepito in questo modo.
+
+Ancora caratterizzato da alcune asperità nei suoi elementi.
+
+Ci sono anche alcuni che, giustamente, possono essere considerati tali.
+
+Non essere né liscio né completamente ricurvo.
+
+Con le punte piegate ma leggermente inclinate all’esterno.
+
+Per stimolare, piuttosto che ferire, i sensi.
+
+E di quale tipo è il tartaro di sale del vino?
+
+E i sapori dell’elecampano gommoso.
+
+Di nuovo, quel fuoco ardente e quella brina gelida.
+
+Sono muniti di zanne diverse da quelle utilizzate per pungere.
+
+I sensi del nostro corpo, il tatto in particolare, ne forniscono la prova.
+
+Per quanto riguarda il tatto, per le sacre maestà degli Dei!.
+
+Il tatto è davvero l’unico senso del corpo –
+
+Se qualcosa agisse in modo diretto e immediato.
+
+Forse è qualcosa che nasce già all’interno del corpo.
+
+Le ferite, o il piacere che si prova nel momento in cui svaniscono.
+
+lungo i sentieri della procreazione di Afrodite;
+
+O forse i semi, per qualche collisione, vengono scagliati via.
+
+Disordini nel corpo e confusione.
+
+Attraverso il tumulto e la confusione, tutti i sensi.
+
+Come potrai constatare, se per caso con la mano.
+
+Colpisci tu stesso qualsiasi parte del tuo corpo.
+
+Per questo motivo, le forme elementari.
+
+Deve essere molto diverso, poiché in questo modo diventa possibile.
+
+Per suscitare sensazioni diverse.
+
+E ancora una volta.
+
+Quello che ci sembra essere qualcosa di indurito e condensato.
+
+Deve trattarsi di atomi tra loro più strettamente legati tra loro.
+
+Essere racchiuso in profondità, come se.
+
+Attraverso atomi simili a rami – di questo tipo ne esistono principalmente.
+
+I diamanti, che disprezzano ogni colpo.
+
+E la tenacia del selce, e la forza dell’acciaio solido.
+
+E sbarre di ferro, che resistono con tenacia alle serrature.
+
+Gridate e urlate. Ma cosa sono i liquidi, in realtà?
+
+Di corpi fluidi, certamente devono essere così.
+
+Di elementi più lisci e arrotondati, perché.
+
+I loro globuli, separatamente considerati, non si aggregano tra loro.
+
+Estrarre i semi di papavero dalla palma della mano
+
+È altrettanto facile quanto bere dell’acqua.
+
+E loro, una volta colpiti, rotolano proprio come quelli.
+
+Ma affinché tu possa vedere, tra le cose che scorrono.
+
+Alcuni sono amari, proprio come il sale marino.
+
+Non è forse un vero miracolo.
 
 <span class="atom-split" data-atom="011" data-title="BOOK II (parte 4)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="positions/atomism,concepts/infinity,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -4297,6 +8167,402 @@ The image of that mother, the divine.
 Her the wide nations, after antique rite,
 
 Do name Idaean Mother, giving her
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché è fluido, i suoi [atomi](/positions/atomism) sono lisci e regolari.
+
+E rotondi, con alcuni di essi duri e dolorosi al tatto.
+
+Tuttavia, non è necessario che queste cose siano collegate tra loro in modo vincolante.
+
+Infatti, sebbene grezzi, hanno anche una forma sferica.
+
+Capace immediatamente di rotolare e di offuscare la percezione.
+
+E più tu possa credermi in questo,
+
+Che elementi lisci siano mescolati con quelli ruvidi.
+
+(Da dove deriva il corpo asciugante e salino di Nettuno, )
+
+Esiste un mezzo per separare le due cose.
+
+E così, divisi in gruppi, per osservare.
+
+Come l’acqua dolce, dopo essere stata filtrata.
+
+Spesso, sottoterra, scorrono acque rinnovate.
+
+In qualche cavità, poiché lascia qualcosa sopra di sé.
+
+I germi primordiali di quell’acqua salata e disgustosa.
+
+Poiché nella terra ciò che è ruvido si attacca più facilmente.
+
+Infine, qualsiasi cosa tu intenda dispersare.
+
+Nello stesso istante: fumo, nuvole e fiamme.
+
+Non deve essere così (anche se non tutti sono lisci e rotondi).
+
+Essere ancora collegati ad atomi intrecciati tra loro.
+
+Così possono, senza unirsi tra loro,
+
+Quindi perfora il nostro corpo e sfida le rocce stesse.
+
+Qualunque cosa vediamo.
+
+Concesso ai sensi, affinché tu possa percepire.
+
+Non sono costituiti da elementi collegati tra loro, ma da elementi che si estendono in una direzione specifica.
+
+Ora che ho finito di insegnare, proseguirò.
+
+Per collegare un fatto a questo elemento correlato.
+
+E da ciò trae la propria prova: questi germi primordiali.
+
+Variare, ma soltanto entro i limiti di un numero finito di forme possibili.
+
+Se queste forme fossero davvero infinite, alcune “semi”.
+
+Avrebbe un corpo di crescita infinita.
+
+Poiché in un solo seme, in una singola piccola entità qualsiasi.
+
+Le forme non possono differire troppo l’una dall’altra.
+
+Supponiamo, per esempio, che di tre parti minime.
+
+Compongono i corpi primordiali, o ne aggiungiamo alcuni?
+
+Ora, mettendo insieme tutte queste parti che fanno parte di un tutto.
+
+In alto e in basso, cambiando i lati sinistri e destra.
+
+Hai scoperto, con ogni possibile mezzo, che.
+
+Qual è l’aspetto, la forma di tutto il suo corpo?
+
+Ogni nuova disposizione, per quanto rimanga, offre.
+
+Se mai volessi alterare le sue antiche forme.
+
+Devono quindi essere aggiunti nuovi componenti; dopo di ciò.
+
+Se mai volessi ancora variarne le forme,
+
+Secondo una logica analoga, ogni altro ordine possiede anch’esso.
+
+Richiede l’aumento di altre parti per poter funzionare correttamente.
+
+Pertanto, un ampliamento della sua struttura.
+
+Segue ogni novità di forma.
+
+Pertanto, non si può intraprendere tale azione.
+
+Le semen hanno infinite differenze di forma.
+
+Perché così potresti costringere alcuni ad essere.
+
+Di un’immensità incommensurabile.
+
+Quello che ho detto sopra non può essere dimostrato.
+
+E ora, per te, abiti barbarici e bagliori scintillanti.
+
+Di un viola meliboeo, sfumato con coloranti.
+
+Della conchiglia tessalica.
+
+Le generazioni dorate del pavone, macchiate.
+
+Con allegrie maculate, giacerebbero rovesciate.
+
+Attraverso un nuovo colore, che rende le cose ancora più brillanti.
+
+Il profumo della mirra e il sapore del miele venivano disprezzati.
+
+La vecchia melodia del cigno e gli inni di Apollo.
+
+Una volta modulata su questi numerosi accordi,
+
+Anche questo sarebbe sommerso e rimarrebbe in silenzio.
+
+Perché, in effetti, era un po’ più raffinato degli altri.
+
+Sarebbero continuati ad emergere sempre di nuovo. Anche in quel caso.
+
+Tutti potrebbero ritirarsi in qualche luogo più semplice e modesto.
+
+Anche se abbiamo detto che potrebbero arrivare in modo migliore.
+
+Perché, in qualche modo, più sgradevole degli altri.
+
+Per le nostre narici, orecchie, occhi e il gusto della lingua.
+
+Quindi, applicando un ragionamento inverso, ciò esisterebbe davvero.
+
+Poiché non è così, ma alle cose viene data.
+
+I loro limiti fissi, che li vincolano inevitabilmente.
+
+La somma di entrambi i lati “deve essere ammessa”.
+
+Anche quella materia, attraverso una serie finita di forme.
+
+È diverso. Ancora una volta, dalle calde temperature dell’estate terrestre.
+
+Fino ai ghiaccioli gelidi dell’inverno.
+
+Il percorso da seguire è già stabilito, e secondo lo stesso principio.
+
+Viaggiai all’indietro all’alba della primavera.
+
+Per ogni grado di calore e per ogni grado di freddo.
+
+E quella mezza calore, tutto contribuisce a completare il quadro.
+
+In due fasi successive si svolge tutto, mio Memmio.
+
+Tra questi due estremi: le cose vengono create.
+
+Deve quindi differire per un cambiamento finito.
+
+Poiché, in ogni caso, vengono sempre delimitati da estremità ben definite.
+
+Attraverso un punto fermo, da un lato tormentato dalle fiamme.
+
+E d’altra parte, dai ghiacci che si formano congelando.
+
+Ora che ho finito di insegnare, proseguirò.
+
+Per collegare un fatto a questo elemento correlato.
+
+E da ciò trae la propria prova: quei germi primordiali.
+
+Tutti sono stati realizzati con la stessa forma.
+
+Sono infinite in questo senso; poiché, dato che le forme.
+
+Essi stessi sono limitati nelle loro divergenze.
+
+Allora, ciò che è simile dovrà essere.
+
+Infinito, altrimenti la somma di tutte le cose rimarrebbe costante.
+
+Un essere finito. Quello che ho dimostrato non è il fatto stesso.
+
+Rappresentando in versi come i corpuscoli di materia.
+
+Da sempre e fino ad oggi, è sempre lo stesso.
+
+Mantenere l’equilibrio di tutte le cose, in ogni loro aspetto.
+
+Attraverso una serie ininterrotta di colpi incessanti.
+
+Poiché, sebbene tu consideri alcune bestie più rare.
+
+E vi si nota una stirpe meno prolifica.
+
+Eppure, in un’altra regione, in terre lontane.
+
+Quel tipo di abbondanza può certamente essere considerato un fattore importante.
+
+Anche mentre riconosciamo, tra le specie alte quattro piedi.
+
+Elefanti dalle mani a forma di serpente, le cui migliaia costituiscono un muro impenetrabile.
+
+Con mura d’avorio che la circondano, l’India.
+
+Il fatto che i suoi interni non possano essere accessi è.
+
+Tanto numerosi sono quegli esseri brutali che vediamo.
+
+Esempi così pochi. O supponiamo, inoltre, che.
+
+Fingiamo qualcosa di particolare e unico nel suo genere.
+
+Con un corpo nato, al quale non corrisponde nulla.
+
+In tutte le terre, ma ora, a meno che non accada qualcosa.
+
+Un numero infinito di particelle materie, da cui.
+
+Pertanto, per concepirlo e dargli vita.
+
+Non può essere creato, e inoltre.
+
+Non può procurarsi il cibo necessario per aumentare di numero.
+
+Sì, se attraverso tutto il mondo, in un modo finito e delimitato.
+
+Vengano gettati via i corpi generativi di una certa entità.
+
+Dunque, da dove e in che modo, con quale potere.
+
+Si riuniranno lì per incontrarsi?
+
+In un oceano così vasto di materia e di strani turbamenti.
+
+Non esistono mezzi per loro di unirsi in un tutto unico.
+
+Ma proprio come, dopo che enormi naufragi si sono accumulati uno sopra l’altro.
+
+Il potente fiume ha l’abitudine di diffondersi ampiamente.
+
+I sedili dei rematori, le costole della barca, i metri di misura, la prua.
+
+Alberi e remi da nuoto, così che da lontano.
+
+Su tutte le coste delle terre si vedono imbarcazioni galleggiare.
+
+I frammenti scolpiti di quella merda ridotta in pezzi.
+
+Insegnare una lezione alla mortalità
+
+Per evitare l’imboscata del nemico infedele.
+
+La violenza e l’inganno. E non fidartene mai.
+
+In qualsiasi momento, per quanto possa sorridere.
+
+Le astute tentazioni delle profondità tranquille.
+
+Esattamente così: se una volta tu ritenessi vero.
+
+Che certi semi abbiano una storia limitata.
+
+Le varie “marea” della materia, dunque, devono necessariamente.
+
+Disperderli, gettarli in giro attraverso i secoli, tutti quanti.
+
+Così che mai possano unirsi, come spinti da una forza esterna.
+
+Insieme, uniti, senza rimanere separati.
+
+In unione, non può crescere né aumentare.
+
+Ma i fatti che ne costituiscono la prova sono evidenti per ognuno di noi.
+
+Le cose possono sia essere generate che aumentare di numero.
+
+È quindi evidente che i germi primordiali.
+
+Sono infiniti in qualsiasi classe tu voglia.
+
+Da dove deriva la materia necessaria per tutte le cose?
+
+Nemmeno quelle azioni che portano alla morte possono avere la meglio.
+
+Per sempre, né per l’eternità sepolto.
+
+Il benessere del mondo, né, inoltre, si può.
+
+Quei movimenti che danno vita alle cose e ne favoriscono la crescita.
+
+Rimaneteli per sempre nel momento in cui vengono creati lì.
+
+Ecco quindi questa lunga guerra, combattuta da sempre.
+
+Con uno sforzo uguale da parte di tutti gli elementi.
+
+Continua all’infinito. Ora qui, ora là, la stessa situazione prevale.
+
+Le forze vitali del mondo, o la loro caduta.
+
+Mescolato ai riti funebri, c’è quel lamento disperato e confuso.
+
+Dei bambini che giungono sulle rive della luce:
+
+Nessuna notte seguì il giorno, nessun alba seguì la notte.
+
+Quello che non udì, mescolandosi con i deboli pianti dei neonati.
+
+I lamenti selvaggi, antichi compagni della morte.
+
+E i riti neri.
+
+Anche questo, in queste circostanze.
+
+È giusto che tu lo tenga ben sigillato e ne custodisca il contenuto con cura.
+
+Senza un cervello capace di dimenticare: nulla esiste lì.
+
+La cui natura è evidente fin dal primo momento.
+
+Quello di un certo tipo di elementi consiste in.
+
+Niente di ciò che esiste è di origine pura; tutto è frutto di una mescolanza.
+
+E qualsiasi cosa possieda in sé.
+
+In generale, molte proprietà e caratteristiche.
+
+Ciò dimostra che, all’interno di sé stesso, esistono.
+
+Il maggior numero di specie e forme diverse.
+
+Di elementi. E, soprattutto, della terra.
+
+Contiene in sé stessa i primi corpi da cui derivano le fonti.
+
+Acque gelide e correnti, che si rinnovano per sempre.
+
+La sorgente inesauribile; da cui nascono i fuochi.
+
+Per le ustioni presenti in molte zone, la sua pelle formava croste infuocate.
+
+Mentre la impetuosa Etna infatti tuona.
+
+Dai fuochi più profondi, e lei, ancora una volta.
+
+In sé possiede il seme dal quale può far nascere.
+
+I grani scintillanti e gli alberi gioiosi creati per l’uomo.
+
+Da qui, dunque, i fiumi, le foglie e i piacevoli pascoli.
+
+Riesce a provvedere per quelle bestie che vagano per le montagne?
+
+Pertanto, o grande madre degli dei e madre delle bestie.
+
+Ed è l’unica ad essere stata chiamata “madre dell’uomo”.
+
+Ella lodava gli antichi e eruditi bardi della Grecia.
+
+Risieduto in una carrozza che attraversa i regni dell’aria.
+
+Per guidare la sua squadra di “leoni”, insegnando loro in questo modo.
+
+Che la grande terra sia sospesa in equilibrio e non possa cadere.
+
+Riposando su un’altra terra. Accanto alla sua auto.
+
+Hanno legato le bestie feroci, da quando esiste una discendenza umana.
+
+Per quanto selvaggio possa essere, deve essere addomesticato e rimproverato.
+
+Per cura dei genitori. Loro hanno provveduto a tutto.
+
+Con una sorta di “torretta” sulla sommità della testa.
+
+Poiché, difesa dalle sue solide fortezze situate in luoghi elevati,
+
+Sono le città che lei sostiene; ora, adornate.
+
+Con lo stesso principio, anche oggi si prosegue lungo questa strada.
+
+Con un profondo senso di reverenza, attraverso molte terre maestose.
+
+L’immagine di quella madre, divina.
+
+Le vaste nazioni, secondo antichi rituali.
+
+Chiamiamola Madre Ideale, attribuendole.
 
 <span class="atom-split" data-atom="012" data-title="BOOK II (parte 5)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -4696,6 +8962,404 @@ Why what was black of hue an hour ago
 
 Can of a sudden like the marble gleam, —
 
+<span class="qlang-split" data-lang="it"></span>
+
+Si dice che fin dall’inizio siano state accompagnate da bande frigie.
+
+Fu proprio da quelle regioni che quel grano iniziò a crescere.
+
+In tutto il mondo. A lei viene attribuito ciò che appartiene loro.
+
+I Galli, quegli emasculati, poiché così era.
+
+Desiderano dimostrare che gli uomini che violano.
+
+La maestosità della madre, e ne abbiamo dato prova.
+
+Chi è ingrato verso i genitori deve essere giudicato.
+
+Inadatto ad approdare sulle rive della luce.
+
+Una discendenza vivente. I Galli arrivano così:
+
+E cimbali vuoti, tamburelli dalla pelle tesa.
+
+Risonano intorno i suoni dei loro pugni che battono.
+
+Le feroci corna minacciano con un ruggito stridulo;
+
+Il tubo in metallo eccita le loro menti folli di rabbia.
+
+Misurati secondo le scale frigie; portano con sé dei coltelli.
+
+Simboli selvaggi della loro follia, che possiedono potere.
+
+Le teste ingrate e i cuori empio della plebaglia.
+
+Panicare, atterriti dal potere della dea.
+
+E così, mentre attraversavo quelle imponenti città.
+
+Ella benedice l’uomo con saluti silenziosi.
+
+Sparsi lungo l’intera strada del suo viaggio.
+
+Con monete di rame e argento, le facemmo dono.
+
+Con elemosine e generosità, ricoprendola di doni e proteggendola con la propria ombra.
+
+Con fiori di rosa che cadono come la neve.
+
+Sulla Madre e sulle sue compagnie.
+
+Ecco un esercito armato; i Greci.
+
+Vengono chiamati i Cureti Frigi. Poiché.
+
+Forse tra loro hanno l’abitudine di giocare.
+
+Nei giochi di armi e nei salti misurati attorno.
+
+Con una risata crudele e con un semplice cenno del capo.
+
+Le terribili creste presenti sulle loro teste.
+
+Questa è la truppa armata che rappresenta.
+
+I armati Cureti di Dictea, che, a Creta.
+
+Secondo la storia, un tempo venivano sommersi dall’acqua.
+
+Quel pianto infantile di Zeus. In quale momento è nata la loro banda.
+
+Bambini piccoli, danzando velocemente intorno a un altro bambino.
+
+Un ritmo misurato, battuto dal suono del bronzo che si scontra con altro bronzo.
+
+Che Saturno non gli prendesse le mascelle.
+
+E infliggere alla sua madre una ferita eterna.
+
+Lungo il suo cuore. Ed è proprio per questo motivo.
+
+Armati come sono, scortano la potente Madre.
+
+Oppure perché con questo intendono indicare.
+
+Che lei, la dea, insegni agli uomini ad essere.
+
+Desiderosi di difendere con coraggio armato.
+
+La loro patria, pronta a farsi avanti.
+
+La guardia e la gloria degli anni dei loro genitori.
+
+Un racconto, per quanto ben congegnato,
+
+È ben lontano dal seguire i canoni della ragione.
+
+Poiché tutti gli dèi devono necessariamente godere.
+
+Eoni immortali e riposo supremo.
+
+Distaccati dalle nostre faccende, lontani e separati.
+
+Al riparo dal pericolo e al riparo dal dolore,
+
+Essi stessi, ricchi di beni propri,
+
+Non avendo bisogno di noi, non vengono colpiti dall’ira.
+
+Non vengono presi in prestito né regalati.
+
+Veramente, la terra rimarrà per sempre insensata.
+
+Ma, ottenendo i “germi” di molte cose.
+
+In molti modi, lei fa emergere ciò che è molteplice.
+
+Nella luce del sole. E qui, chiunque.
+
+Decide di chiamare l’oceano Neptunio, o.
+
+La coltura di cereali, Cerere, e preferisce essere abusata.
+
+Il nome di Bacco, piuttosto che pronunciarlo.
+
+La denominazione corretta di quel liquore, lui.
+
+Permettiamoci di continuare a chiamare la terra.
+
+Madre delle Dei, se solo potesse risparmiarmi.
+
+Per contaminare la sua anima con una religione spregevole.
+
+Anche le greggi di lana e gli animali cornuti.
+
+E i branchi di cavalli desiderosi di combattere, che pascolano.
+
+Spesso insieme, lungo una pianura erbosa.
+
+Sotto lo stesso cielo blu, e mentre si rinfrescano.
+
+Ognuno, da un singolo flusso d’acqua, soddisfa la propria sete.
+
+Tutti vivono la loro vita con un volto e una forma diversi dagli altri.
+
+Mantenendo la natura dei genitori, le abitudini dei genitori.
+
+Che, specie per specie, attraverso i secoli continuano a ripetere.
+
+Che meravigliosa sia qualsiasi erba tu voglia.
+
+Di nuovo straordinario, in qualsiasi fiume della terra.
+
+Le diverse caratteristiche della materia.
+
+Pertanto, ancora di più, ogni creatura – qualsiasi essa sia –
+
+Tra tutti questi elementi, ciò che emerge è sempre lo stesso.
+
+Di ossa, sangue, vene, calore, umidità, carne e muscoli.
+
+Tutti molto diversi nelle loro forme e nella loro struttura.
+
+Di elementi di forma diversa.
+
+Di nuovo, tutte le cose furono consumate dal fuoco, bruciando completamente.
+
+All’interno del loro contesto, se non altro, erano conservate.
+
+Almeno quegli [atomi](/positions/atomism) da cui deriva la loro forza.
+
+Per scatenare fuoco e emettere luce dal basso.
+
+Per scatenare scintille e far volare in ogni direzione le braci ardenti.
+
+Se, con un ragionamento simile, tutto il resto.
+
+Attraversandolo, scoprirai così.
+
+Che, nel loro contesto, i semi di molte cose.
+
+Si nascondono e contengono semini di varie forme.
+
+Inoltre, tu osservi con attenzione molte cose che vengono date o assegnate.
+
+Insieme al colore, al sapore e all’odore.
+
+Tra questi, soprattutto, vi sono molti sacrifici di offerte bruciate.
+
+Pertanto, devono essere composti da forme diverse.
+
+Un odore di bruciato penetra nel nostro ambiente.
+
+Là dove il colore brillante della tintura non arriva.
+
+E il colore, in un certo senso; il sapore, in un altro completamente diverso.
+
+Agisce all’interno dei nostri sensi; così puoi vedere.
+
+Differiscono anche nelle forme elementari.
+
+Pertanto, a differenza di quando le forme si uniscono in un’unica massa,
+
+E le cose esistono grazie alla mescolanza dei loro elementi costitutivi.
+
+Ma comunque, non si deve pensare che in tutti i modi.
+
+Tutte le cose possono essere unite; in tal caso, infatti, le vedresti come tali.
+
+Presagi si suscitano intorno a te da ogni parte.
+
+Giganti dell’umanità, ancora in parte bestiali, si alzano.
+
+A volte grandi rami spuntano dal “tronco” dell’uomo.
+
+Le membra di una bestia marina e quelle di una bestia terrestre sono unite tra loro.
+
+E la natura, su questa terra che tutto produce.
+
+Nutrire quelle terribili Chimere che emettono fiamme.
+
+Dalle orribili fauci. Il che è un semplice fatto.
+
+Che nessuno sia stato generato; perché lo vediamo.
+
+Tutti provengono da semi selezionati e da femmine stabbili.
+
+Sono generati e funzionano appunto per mantenere in essere ciò che esiste.
+
+Nel corso della loro crescita, mantengono sempre lo stesso tipo ancestrale.
+
+Ciò avviene sicuramente secondo una legge fissa.
+
+Poiché, una volta ingeriti, tutti i cibi vengono digeriti.
+
+Atomi spezzati in parti, adatti ciascuno alla propria creatura.
+
+In tutto il loro corpo, e in modo interconnesso.
+
+Genera i movimenti appropriati, ma noi li vediamo.
+
+Al contrario, la natura sulla terra.
+
+Scartano ciò che è estraneo al loro contesto; e molti.
+
+Dai loro corpi emergono entità invisibili che volano via.
+
+Spinti da colpi, coloro che erano impotenti nel partecipare.
+
+Adattarsi in qualsiasi modo possibile, o, quando si è all’interno, conformarsi alle circostanze.
+
+E assumere quelle movenze vitali lì.
+
+Ma non pensiate che siano soltanto le forme viventi ad essere coinvolte in questo processo.
+
+Sono vincolati da queste leggi: esse distinguono tutti.
+
+Poiché tutte le cose della creazione sono.
+
+Nella loro intera natura, ognuno diverso dall’altro.
+
+Pertanto, anche i loro atomi devono avere una forma diversa da.
+
+Da quando pochi soltanto sono fatti della stessa forma.
+
+Ma poiché, in generale, nessuno di loro lo è.
+
+Lo stesso che per tutti gli altri. Anzi, proprio in questi nostri versi.
+
+Elementi comuni a molte parole.
+
+Vedi bene, anche se è necessario ammetterlo.
+
+Le parole e i versetti sono diversi l’uno dall’altro.
+
+Composto da diversi elementi.
+
+Da molto tempo ormai, le lettere comuni non vengono più utilizzate in questo modo.
+
+Attraverso tutte queste parole – o forse nemmeno due di esse –
+
+Ciascuno di loro, formato da elementi del tutto simili.
+
+Ma poiché, in generale, nessuno di loro lo è.
+
+Lo stesso vale per tutte le altre cose. Anche in questi altri casi, dunque, è lo stesso.
+
+Mentre molti germi sono comuni a molte cose.
+
+Esistono, eppure, quando si uniscono tra loro.
+
+È possibile creare nuove entità complessive che siano del tutto diverse dalle altre.
+
+Si può quindi affermare con ragionevole certezza che l’umanità.
+
+I grani, gli alberi rigogliosi, tutto è formato da elementi specifici.
+
+Di atomi diversi. Inoltre, poiché i semi.
+
+Sono diversi; quindi deve esserci anche differenza.
+
+Nei spazi intermedi, nelle strade principali.
+
+Connessioni, pesi, colpi, scontri, movimenti, tutto ciò.
+
+Questi elementi non solo distinguono le forme viventi.
+
+Ma separare l’intero oceano terrestre dalle terre.
+
+E tiene l’intero cielo lontano dalle terre terrene.
+
+ASSENZA DI QUALITÀ SECONDERIE
+
+Ora vieni, questa saggezza è frutto del mio dolce sforzo.
+
+Guarda e comprendi, affinché non possa accadere che tu indovini.
+
+Che quegli oggetti bianchi che brillano davanti ai tuoi occhi.
+
+Sono formati da atomi bianchi, o da atomi neri?
+
+Di un seme nero. O forse credere che qualcosa esista davvero.
+
+Qualsiasi colore vi sia immerso deve necessariamente assumerne le caratteristiche.
+
+Da frammenti di materia colorati nello stesso modo.
+
+Poiché i corpi materiali non possiedono alcun colore, nemmeno minimamente.
+
+O simili agli oggetti, o, ancora, diversi da essi.
+
+Ma, se per caso ti sembrasse che quella mente.
+
+Non è in grado di esercitare alcuna influenza propria.
+
+In questi corpi, ti perdi lontano.
+
+Poiché coloro che nascono ciechi, che mai hanno contemplato.
+
+La luce del sole, che tuttavia si può riconoscere anche al tatto.
+
+Cose che fin dalla nascita non avevano mai assunto alcun colore.
+
+Spetta a te conoscere che i corpi possono essere portati.
+
+Anche questo è accessibile alla nostra mente.
+
+Anche se quei corpi, privi di qualsiasi colore, siano macchiati.
+
+Ancora una volta, noi stessi, nel buio.
+
+Tocchiamo, ma allo stesso tempo non riusciamo a comprendere cosa sia realmente.
+
+Colorato di qualsiasi colore.
+
+Ora che qui.
+
+Vincendo questa argomentazione, proseguirò con l’insegnamento.
+
+Ora, ogni colore cambia, tranne uno.
+
+E ogni.
+
+Qualcosa che i primordiali non dovrebbero assolutamente fare.
+
+Poiché qualcosa di immutabile deve pur rimanere.
+
+Affinché nulla venga completamente distrutto.
+
+Per modificare qualsiasi cosa al di fuori dei suoi limiti.
+
+Significa la morte immediata di ciò che esisteva prima.
+
+Pertanto, ricorda di non macchiare nulla con i colori.
+
+I semi di tutte le cose, affinché queste non tornino contro di te.
+
+Tutto, completamente, ridotto a nulla.
+
+Ma ora, se i semi.
+
+Non riceve alcuna caratteristica legata al colore, eppure.
+
+Rimane ancora dotato di forme variabili.
+
+Da ciò derivano ogni sorta di colori.
+
+E variare, poiché ciò ha sempre grande importanza.
+
+Con quali semi, e in quali posizioni unite.
+
+E le azioni che compiono e ricevono.
+
+E così, con estrema facilità, potrai escogitare.
+
+Perché ciò che un’ora fa aveva un colore nero.
+
+All’improvviso, come il bagliore del marmo.
+
 <span class="atom-split" data-atom="013" data-title="BOOK II (parte 6)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="positions/atomism,forms/didactic_poem,schools/epicureanism"></span>
 
 As ocean, when the high winds have upheaved
@@ -5083,6 +9747,394 @@ Naught would result, indeed, besides a throng
 And hurly-burly all of living things —
 
 Precisely as men, and cattle, and wild beasts,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come l’oceano, quando i venti forti lo hanno sconvolto.
+
+Le sue pianure uniformi si trasformano in onde grigie e ondulate.
+
+Di una bianchezza di marmo. Poiché tu puoi dichiararlo.
+
+Cioè, quando quella cosa che spesso consideriamo nera.
+
+Quindi, nella sua essenza, viene nuovamente mescolata.
+
+Alcuni [atomi](/positions/atomism) si sono riorganizzati, mentre altri sono stati rimossi.
+
+E si aggiunse che, immediatamente dopo, ciò sarebbe cambiato.
+
+Rilucente e bianco. Ma se fosse fatto di semi azzurri.
+
+Si componevano delle acque tranquille delle profondità marine.
+
+Non potevano assolutamente sbiancare; poiché, per quanto.
+
+Scuoti semi d’azzurro, ma tali non possono mai.
+
+Assumono il colore del marmo. Ma se i semi.
+
+Ed è così che si genera quell’unica, pura lucentezza dell’oceano.
+
+Ora di un colore, ora di un altro tinto.
+
+Come spesso, da forme straniere e di varie configurazioni.
+
+Un cubo presenta sempre una forma uniforme.
+
+Sarebbe del tutto naturale, proprio come nel caso del cubo.
+
+Riteniamo che queste forme siano diverse tra loro.
+
+E così, nella luce delle profondità, potremmo vedere.
+
+(O, in qualsiasi forma di pura bellezza tu lo desideri.)
+
+Colori diversi e tutti distinti tra loro.
+
+Inoltre, le forme diverse non ostacolano in alcun modo.
+
+L’intero, esteriormente, ha la forma di un cubo.
+
+Ma le diverse tonalità delle cose effettivamente bloccano e impediscono.
+
+Il tutto, per via della sua unica tonalità risultante, appare uniforme.
+
+Anche allora, è la stessa ragione che ci attira.
+
+A volte, attribuire dei colori ai semi.
+
+Si distrugge completamente, visto che le cose bianche non lo sono.
+
+Creare partendo da elementi bianchi, né neri partendo da elementi neri.
+
+Ma continuano ad essere creati da cose.
+
+Di vari colori. Davvero, il bianco.
+
+Si solleverà più facilmente, nasce prima.
+
+Senza alcun colore, se non il nero o qualcosa del genere.
+
+Il quale, pertanto, si trova in ostile opposizione.
+
+Inoltre, poiché i colori non possono esistere senza la luce.
+
+E i primordiali non emergono alla luce.
+
+È tuo compito comprendere che non sono vestiti di colore.
+
+Davvero, quale tipo di colore potrebbe esistere.
+
+Nell’oscurità invisibile? No, nella luce stessa.
+
+Un colore cambia, brillando in modi diversi.
+
+Quando colpito da un raggio verticale o obliquo.
+
+Così, sotto la luce del sole, si vede il piumaggio delle colombe.
+
+Quello che circonda e avvolge la nuca e il collo.
+
+Ora è di colore rosso intenso, con riflessi dorati e bronzosi.
+
+Ora, per una strana sensazione, tutto diventa.
+
+Il verde smeraldo si fondeva con il rosso corallo.
+
+La coda del pavone, piena di quella luce abbondante.
+
+Cambia anch’esso colore quando ruota.
+
+Pertanto, poiché da qualche colpo di luce è nato.
+
+Senza un simile impulso, questi colori non potrebbero manifestarsi.
+
+E poiché la pupilla dell’occhio riceve.
+
+In sé stesso, un certo tipo di colpo, quando viene descritto.
+
+Per percepire un colore bianco, e poi un altro tipo di colore.
+
+Quando si percepisce un colore nero o qualsiasi altro colore,
+
+E poiché non ha alcuna importanza di quale colore sia.
+
+Le cose che tocchi forse sono dotate di qualcosa.
+
+Ma piuttosto con quale tipo di struttura o forma dotato.
+
+Spetta a te comprendere che gli atomi non hanno bisogno di avere colore.
+
+Ma produrre sensazioni, come quelle del tatto.
+
+Che variano in base alle loro diverse forme.
+
+Inoltre,
+
+Poiché le forme particolari non hanno un colore specifico,
+
+E tutte le formazioni dei germi primordiali.
+
+Può avere qualsiasi lucentezza tu desideri; allora, perché.
+
+Non sono forse quegli oggetti che vengono creati da loro?
+
+Imbottite ciascuna di ogni sorta di colori?
+
+Poiché allora sarebbe appropriato che i corvi, mentre volano.
+
+Se dalle ali bianche dovesse sprigionarsi un bagliore bianco.
+
+O gli anatre selvatiche diventano nere a causa dei semi neri, oppure no.
+
+Di qualsiasi colore diverso tu desideri.
+
+Ancora una volta: più un oggetto viene “smantellato” in parti,
+
+Più vedi svanire il suo colore.
+
+Poco a poco, fino a quando scompare del tutto.
+
+Come accade quando la stoffa vistosa viene raccolta.
+
+Strappo dopo strappo. Quel colore viola lì.
+
+Il rosso fenicio, il più brillante di tutti i coloranti.
+
+È disperso in mille pezzi, filo dopo filo.
+
+Pertanto puoi comprendere come questi frammenti vengano gradualmente distrutti.
+
+Prima ancora di partire, si manifestano attraverso il loro colore.
+
+Tornare ai primordi delle cose stesse.
+
+E infine, poiché non ammetti che tutti i corpi.
+
+Emettere un suono o un odore, è proprio così che avviene.
+
+Non è che a tutti tu doni suoni e odori.
+
+Anche in questo caso, poiché non vediamo tutto con gli occhi.
+
+È tuo compito comprendere che alcune cose esistono davvero.
+
+Mancante di colore, proprio come altri privi di odore.
+
+E privi di suono. E coloro la cui mente è all’erta.
+
+Non si può comprendere qualcosa se non si riesce anche a individuarne i tratti distintivi.
+
+Le cose che mancano di altre qualità.
+
+Ma non pensiate che i corpi primordiali.
+
+Rimani privo di colore, da solo. Così.
+
+Sono stati separati dal calore e dal freddo.
+
+E dalle calde esalazioni; e si muovono.
+
+Sia privo di suono che di succo; e gettalo via.
+
+Nessun odore proveniente dai loro corpi stessi.
+
+Proprio come quando ci si impegna a preparare.
+
+Un balsamo liquido a base di mirra e maggiorana.
+
+E il fiore di narciso, che diffonde il suo profumo nelle nostre narici.
+
+Il profumo del nettare: questo è ciò che prima di tutto si desidera.
+
+Tu cerchi, per quanto tu possa e sappia fare,
+
+L’olio d’oliva inodore (che mai emana alcun odore, )
+
+Un solo soffio di profumo nelle narici, affinché possa.
+
+Il minimo decadimento e rovina, con un sapore pungente.
+
+L’essenza profumata, mescolata con il suo corpo.
+
+E vi ribolliva dentro. E per lo stesso motivo.
+
+Non si deve pensare ai germi primordiali delle cose.
+
+Per conferire un senso di vitalità alla generazione delle cose.
+
+Né suono, poiché privi di forza non sono in grado di emettere alcun segnale.
+
+Né da loro stessi, né da alcun sapore in particolare.
+
+Né freddo, né respiro caldo o tiepido.
+
+Il resto. Tuttavia, poiché queste cose sono mortali, tutto ciò.
+
+Il mortale flessibile, con un corpo morbido.
+
+Il fragile mortale, con un corpo in declino.
+
+La cavità, essendo porosa, deve necessariamente essere così.
+
+Separato dagli elementi primordiali,
+
+Se ancora desideriamo, in questo mondo, porre.
+
+Opere immortali, su cui si può riposare.
+
+La somma di benessere e sicurezza, affinché per te.
+
+Tutto ritorna completamente al nulla.
+
+Anche ora: qualsiasi cosa vediamo e che abbia un senso.
+
+Deve comunque essere ammesso che tutto ciò debba ancora essere stabilito con certezza.
+
+Dai più elementi insensati. E quei segni.
+
+Tanto chiaro per tutti e osservato immediatamente.
+
+Non confutate questa massima, né vi opponetevi ad essa.
+
+Ma piuttosto sono loro stessi a guidarci per mano.
+
+Una convinzione profonda e irrefutabile che le creature viventi nascano.
+
+Di elementi insensati, come dico io.
+
+Ebbene, possiamo vedere tutto questo attraverso quel fetido sterco.
+
+Dopo le piogge torrenziali, emergono vermi vivi dal terreno.
+
+La terra bagnata marcisce; e tutte le cose cambiano allo stesso modo.
+
+Ecco, cambia i fiumi, le foglie, le gioiose praterie.
+
+Negli animali da allevamento, la loro natura stessa cambia.
+
+Nel nostro corpo, e spesso dal nostro corpo stesso.
+
+Rafforzino le forze e i corpi delle bestie selvatiche.
+
+E uccelli dalle ali possenti. Così la natura cambia.
+
+Tutti i cibi servono a nutrire gli organismi viventi e a favorirne la riproduzione.
+
+Da loro derivano tutti i sensi delle creature viventi.
+
+Proprio come si scioglie tra le fiamme.
+
+Legni secchi, e li trasformo tutti in fiamme.
+
+E non capisci forse quanto sia importante questo?
+
+In quale ordine sono disposti i germi primordiali?
+
+E con quali altri “germi” sono tutti mescolati.
+
+E quali sono i movimenti che essi compiono e ricevono?
+
+Ma ora, cosa è che colpisce la tua mente scettica?
+
+Costringendoti ad adottare diversi argomenti.
+
+Contrariamente alla credenza che germi insensibili possano.
+
+Il sensibile è “genereizzato”? – Certamente sì.
+
+Ecco di cosa si tratta: liquidi, terra e legno, anche se mescolati insieme.
+
+Non siamo ancora in grado di attribuire un genere ai sensi vitali.
+
+E quindi, in queste circostanze, sarà opportuno agire così.
+
+Da ricordare: non ho detto nulla.
+
+I sensi nascono, in condizioni precise e specifiche.
+
+Da tutte quelle cose che, in modo assoluto, contribuiscono alla creazione.
+
+Oggetti che percepiscono sensazioni. Ma in questo contesto, ciò ha davvero molta importanza.
+
+Innanzitutto, quanto piccole siano le semine che così costituiscono.
+
+Quindi, quella questione legata ai sentimenti, e alle forme che li caratterizzano.
+
+E infine, ciò che loro sono nelle rispettive posizioni.
+
+Nelle mosse, negli arrangiamenti. Di questi fatti.
+
+Niente di ciò che percepiamo nei tronchi d’albero e nelle zolle di terra.
+
+Eppure anche questi, quando bagnati dalle piogge.
+
+Danno vita a larve verminose, perché i loro corpi.
+
+Della materia, dalle sue antiche strutture scosse e mescolate.
+
+Quindi, con questo nuovo fattore, si deve ricombinare tutto da capo.
+
+Nel modo in cui lo fanno gli esseri viventi di entrambi i sessi.
+
+In seguito, coloro che ritengono che gli oggetti possano suscitare sentimenti.
+
+Dall’idea che gli oggetti vengano creati, e che questi.
+
+A loro volta, da coloro che non sono abituati a provare sentimenti.
+
+Quando sono morbidi, li creano così; poiché ogni senso è interconnesso.
+
+Con carne, muscoli e vene – ed è proprio questo che vediamo.
+
+Sono fatti di materia morbida e hanno una struttura mortale.
+
+Eppure, che possano durare per sempre.
+
+Avranno quella sensibilità che è propria di una parte specifica.
+
+Altrimenti, si dovrà ritenere che abbiate lo stesso senso di noi.
+
+Così come avviene all’interno degli esseri viventi nel loro insieme.
+
+Ma da sole quelle parti non possono mai provare nulla.
+
+Per tutto il senso che risiede in ogni singolo membro del corpo.
+
+Riferirsi a qualcos’altro significa, una mano mozzata.
+
+O qualsiasi altro componente del nostro organismo.
+
+Da solo, non è in grado di generare sensazioni.
+
+Quindi, rimane il fatto che devono necessariamente assomigliarsi.
+
+Le creature viventi nel loro insieme, per poter disporre di tale capacità.
+
+Del sentire sensazioni armoniose in ogni parte del corpo.
+
+Con quel senso vitale, e quindi sono destinati a provare certe emozioni.
+
+Le cose che proviamo le proviamo esattamente come sono.
+
+Se è così, come possono allora essere chiamati?
+
+I germi primordiali delle cose, e come evitarli.
+
+Le strade della distruzione? – poiché esistono.
+
+Che semplici esseri viventi e tutti gli esseri viventi siano così.
+
+Lo stesso vale per gli esseri mortali. Ammettiamo pure che possano.
+
+Eppure, attraverso le loro riunioni e le loro unioni, tutti quanti.
+
+In realtà, non ne deriverebbe nulla, se non una folla.
+
+E, in un vortice incessante, tutte le creature viventi.
+
+Esattamente come gli uomini, il bestiame e le belve selvatiche.
 
 <span class="atom-split" data-atom="014" data-title="BOOK II (parte 7)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -5484,6 +10536,406 @@ In huge embrace.
 
 Besides, when matter abundant
 
+<span class="qlang-split" data-lang="it"></span>
+
+Solo attraverso una semplice aggregazione, l’uno con l’altro.
+
+Può ancora generare soltanto cose vecchie, nulla di nuovo.
+
+Ma se, per [caso](/concepts/fortune), dovessero perdere, all’interno di un corpo.
+
+Il loro stesso senso e un altro senso assumono.
+
+Quindi, a cosa serve assegnare loro ciò?
+
+Quello che viene poi ritirato. E inoltre,
+
+Per tornare alla prova di cui abbiamo parlato in precedenza.
+
+Proprio come vediamo le uova degli uccelli coperti di piume.
+
+Per trasformarsi in pulcini vivi e vermi che si muovono in stormo.
+
+Affiorare quando le piogge torrenziali si placano.
+
+La terra è bagnata, sicuramente. Tutte queste sensazioni.
+
+Può nascere qualcosa da sensazioni prive di significato?
+
+Ma se si afferma che il senso possa elevarsi fino a questo punto.
+
+Dall’assurdità derivante da mutazioni, o per qualche altro motivo.
+
+Sorse come se fosse nata in un certo modo.
+
+Ciò servirà a chiarire tutto per lui e a dimostrare.
+
+Non esiste nascita, se prima non c’è stata una vita precedente.
+
+Alcuni elementi si unirono tra loro, formando complessi nuovi.
+
+Nessun cambiamento è possibile, se non quando sono uniti.
+
+In primo luogo, i sensi, nel corpo umano, non possono.
+
+Prima ancora che la sua natura vivente venisse creata.
+
+Poiché tutte le sue sostanze, nella fede, sono considerate disperse.
+
+Attraverso fiumi, aria e terra, e tutto ciò che esiste.
+
+È qualcosa creato dalla terra; non ha mai incontrato nulla prima.
+
+In combinazione, e nel modo appropriato.
+
+Fusi in quei movimenti vitali che.
+
+Accendi i sensi onnipresenti, essi.
+
+Quello che custodisce e protegge ogni essere vivente, qualunque esso sia.
+
+Ancora una volta, un colpo che va oltre le forze della sua stessa natura.
+
+Rompiono immediatamente ogni essere vivente che esista.
+
+E così continua, confondendo ogni logica e senso comprensibile.
+
+Di corpo e mente. Poiché dai germi primordiali.
+
+I loro vecchi accordi sono stati sciolti, e in tutto ciò.
+
+I movimenti vitali venivano bloccati, fino a quando quella materia.
+
+Scosso profondamente in ogni sua parte,
+
+Scioglie i nodi essenziali dell’anima legati al corpo.
+
+E getta quella anima, lontano, dispersa in ogni direzione.
+
+Attraverso ogni poro del corpo. A cosa possiamo allora ipotizzare?
+
+Un colpo inferto può ottenere, oltre ad altro.
+
+Scuotersi e allentare ogni cosa, separandola completamente?
+
+Accade anche quando il colpo non è così violento.
+
+Le movenze vitali che rimangono sono ormai abituali.
+
+Spesso, per vincere, per vincere davvero, bisogna fermarsi e rimanere immobili.
+
+I turbamenti selvaggi generati da quel colpo.
+
+E richiamare ciascuna parte al proprio corso naturale.
+
+E scaccia via quel movimento della morte che ora.
+
+Inizia la propria “dominazione” all’interno del corpo.
+
+E ravvivare nuovamente i sensi ormai quasi spenti.
+
+Perché con quali altri mezzi avrebbero potuto farlo meglio?
+
+Raccogliete le loro facoltà mentali e rivolgetele ancora una volta.
+
+Dai primi segni della distruzione.
+
+Tornare in vita, piuttosto che passare oltre.
+
+Sono già quasi pronti, quindi.
+
+Morire completamente?
+
+Ancora una volta, poiché il dolore esiste.
+
+Là dove corpi di materia, agitati da qualche forza,
+
+Attraverso i vasi vitali e le articolazioni, nei loro rispettivi luoghi.
+
+Tremi e ti scuoti dentro, ma è una dolce gioia.
+
+Quando si ritirano di nuovo nei loro luoghi.
+
+Spetta a te comprendere che i germi primordiali possono esistere.
+
+Attaccati senza dolore, né da loro stessi.
+
+Non rallegrarti, perché in realtà sono così.
+
+Non è composto da alcun insieme di elementi primordiali.
+
+Per quali strani nuovi movimenti potrebbero soffrire.
+
+O raccogliere il frutto di qualche nuova, deliziosa scoperta.
+
+E quindi devono essere privi di qualsiasi senso.
+
+Ancora una volta: se così fosse, allora ogni essere vivente.
+
+Potrebbe avere sensazioni; è necessario attribuirle.
+
+Analizzando anche i suoi elementi, allora cosa ne consegue?
+
+Di quegli elementi immutabili da cui deriva l’umanità.
+
+È stato formato grazie alla sua particolare virtù?
+
+In verità, rideranno ad alta voce, come gli uomini.
+
+Scosso da un attacco di ilarità incontrollabile,
+
+O adornate con guance e menti bagnate dalle gocce di lacrime.
+
+E avere la astuzia e la fermezza necessarie per dire.
+
+Molto riguardo alla composizione del mondo.
+
+E a loro volta chiedono quali siano gli elementi.
+
+Essi stessi, poiché sono uguali per natura.
+
+Come esseri mortali nel loro insieme, anche loro.
+
+Deve anche derivare da altri elementi.
+
+E poi, quelli altri, ancora da altri, sempre di più.
+
+Affinché tu non osi mai fermarti da nessuna parte.
+
+Oh, ti seguirò fino a quando non lo concederai.
+
+Il seme (che qui tu dici parlare, ridere e, )
+
+pensa.
+
+Deriva ancora da altre semenze?
+
+E loro, a loro volta, fanno esattamente la stessa cosa.
+
+Ma se osserviamo quanto assurdo e incoerente sia tutto ciò.
+
+E che un uomo possa ridere, anche se, forse, non lo faccia davvero.
+
+Composto da elementi legati alla risata,
+
+E pensa, e esprimi ragionamenti con parole colte e educate.
+
+Sebbene in realtà non fosse lui stesso coinvolto nella composizione di tale cosa.
+
+Di semi saggi e parole eloquenti, allora, perché.
+
+Non possono forse quelle cose che percepiamo come esistenti.
+
+Anche la loro stessa sensazione è composta allo stesso modo.
+
+Di semi mescolati, del tutto privi di senso?
+
+MONDI INFINITI
+
+Ancora una volta, tutti noi proveniamo da quella “primavera celeste” originaria.
+
+Tutti provengono da quel stesso padre, da cui deriva la terra.
+
+La madre surrogata, mentre somministra le gocce.
+
+Della umidità liquida, l’orsa gravida nutre i suoi cuccioli.
+
+I grani scintillanti, e gli arbusti e gli alberi gioiosi.
+
+E rappresenta sia la specie umana che quella selvatica.
+
+Tutte le generazioni, nel corso del tempo, mentre lei cede.
+
+I cibi con i quali tutti nutrono il proprio corpo e ne mantengono la salute.
+
+Vivono una vita serena e si riproducono per perpetuare la loro specie.
+
+Pertanto, possiede quel nome materno.
+
+Attraverso l’antico deserto. Ciò che esisteva prima, sulla Terra.
+
+Lo stesso accade sulla terra: ciò che è stato inviato ritorna indietro.
+
+Dalle rive dell’etere, che, tornando a casa.
+
+Le vette del cielo accolgono. E nemmeno la morte agisce in questo modo.
+
+Finora, tutte le cose che lei distrugge sono state annientate.
+
+Corpi di materia, ma lei si disperde.
+
+Le loro combinazioni, e i modi in cui si uniscono nuovamente.
+
+Un elemento, insieme ad altri, viene utilizzato per creare qualcosa di nuovo.
+
+Che tutte le cose cambino forma e colore.
+
+E provare sensazioni, per poi trasmetterle immediatamente.
+
+E così potrai comprendere quanto sia importante considerare le opinioni degli altri.
+
+E in quale struttura si trovano i germi primordiali.
+
+Sono tenuti insieme, e quali movimenti compiono.
+
+Tra di loro donano e ricevono; né pensino.
+
+Che tutto ciò che vediamo, qui e là, sulle acque.
+
+Sul culmine di tutte le cose, e ora, un nuovo inizio.
+
+E immediatamente, una rovina rimane immobile nel suo silenzio.
+
+Nel profondo delle eterni [atomi](/positions/atomism) del mondo.
+
+Perché, anche in questi nostri stessi versi.
+
+È molto importante sapere con cosa e in quale ordine procedere.
+
+Ogni elemento è stato fissato; ciò che è lo stesso indica.
+
+Cielo, oceano, terre, fiumi e sole.
+
+Lo stesso vale per i grani, gli alberi e tutte le creature viventi.
+
+E se non tutti allo stesso modo, almeno la maggior parte.
+
+Ma quali distinzioni derivanti dalle posizioni occupate.
+
+E allo stesso modo anche nelle cose stesse, quando una volta.
+
+Intorno a noi sono cambiati gli intervalli tra.
+
+I percorsi della materia, le sue connessioni, i suoi pesi.
+
+Soffi, collisioni, movimenti, ordine, struttura, forme.
+
+Anche le cose stesse devono necessariamente cambiare.
+
+Ora dedica la tua attenzione alla vera ragione, per nostro beneficio.
+
+Poiché qui la strana verità sta esercitando la sua forza.
+
+Per colpirti dritto negli orecchi, un nuovo aspetto della realtà.
+
+Di cose che mostrano la loro faccia. Eppure, non c’è nulla lì.
+
+Così semplice da non sembrare nemmeno complicato all’inizio.
+
+Più difficile da credere di quanto poi si possa ritenere.
+
+E nulla mai è così grande fino a questo punto.
+
+Fino ad ora nulla di sorprendente, ma tutta l’umanità.
+
+Poco a poco, abbandonano la loro sorpresa.
+
+Alza lo sguardo verso quel cielo luminoso e sereno lassù in alto.
+
+E ciò che contiene, le stelle che vagano nel cielo.
+
+La luna, il bagliore del sole splendente.
+
+Eppure, se solo ora fossero per la prima volta creati per gli esseri umani.
+
+Se ciò che oggi è imprevisto dovesse improvvisamente manifestarsi.
+
+Cosa potrebbe esserci di più meraviglioso da raccontare?
+
+Ciò che le nazioni prima avrebbero osato fare.
+
+Forse ci sarebbe meno da credere. Immagino che nulla, in realtà.
+
+Quella visione era davvero straordinaria.
+
+Coloro che si sono stancati di osservare, oggi.
+
+Nessuno si degna di alzare lo sguardo verso quei regni luminosi.
+
+Allora, non lasciare che la ragione venga scagliata via dal tuo cuore.
+
+Sii turbato dal fatto che la situazione è nuova.
+
+Ma piuttosto, valutate con acuto giudizio.
+
+E se allora ti sembra vero.
+
+Metti le tue mani in gioco, oppure, se alla fine si dovesse rivelare tutto falso.
+
+Preparati alla battaglia. Poiché la mia mente umana.
+
+Ora si cerca la natura di quel vasto “Altro Lato”.
+
+Lì, dall’altra parte, quella quantità infinita.
+
+Che si trova al di fuori delle mura del mondo.
+
+Verso ciò che lo spirito anela ardentemente di contemplare da lontano.
+
+Verso cui, infatti, l’impetuoso slancio del pensiero.
+
+Le mosche si librano libere e senza ostacoli.
+
+Innanzitutto, osserviamo che.
+
+Verso tutte le regioni circostanti, su entrambi i lati.
+
+Sopra, sotto, in tutto l’universo.
+
+Non esiste forse una fine, come ho insegnato anch’io, così come altri hanno fatto.
+
+La cosa stessa, in sé, lo dichiara apertamente.
+
+E, proprio per la natura di quell’abisso senza fondo.
+
+Si manifesta chiaramente; non possiamo nemmeno ipotizzare.
+
+In ogni caso, è molto probabile, (visto che lo spazio, )
+
+In ogni direzione si estende qualcosa di infinito e libero.
+
+E i semi, innumerevoli nel loro numero, in definitiva.
+
+Senza fondo, in molti modi volano.
+
+In movimento eterno, lì.
+
+Che solo questa nostra terra e questo nostro cielo.
+
+È stato creato, e quei corpi di materia.
+
+Tanti di loro non svolgono alcun lavoro al di fuori di ciò che è previsto;
+
+Inoltre, vedendo che anche questo mondo è stato.
+
+Plasmati per natura, proprio come i semi di tutte le cose.
+
+Per un movimento innato che, per caso, si scontrò e si attaccò.
+
+Dopo essere stati spinti in molti modi.
+
+Insieme, in modo casuale, senza alcun disegno preciso, invano.
+
+E finalmente, quando quei semi furono uniti tra loro.
+
+Il quale, quando improvvisamente viene gettato insieme agli altri.
+
+Dovrebbe sempre fornire le basi adatte per iniziare.
+
+Di cose maestose, la terra, il mare, il cielo.
+
+E la razza delle creature viventi. Così dico io.
+
+Di nuovo, ancora una volta, “bisogna ammettere che ci sono, ”
+
+Tali aggregazioni di materia in altri luoghi.
+
+Così è il nostro mondo, contenuto nell’immensità dell’etere.
+
+In un abbraccio enorme.
+
+Inoltre, quando la materia è abbondante.
+
 <span class="atom-split" data-atom="015" data-title="BOOK II (parte 8)" data-chapter="BOOK II" data-kind="atom" data-srclang="en" data-tags="positions/atomism,positions/materialism,concepts/infinity,concepts/nature,schools/epicureanism"></span>
 
 Is ready there, when space on hand, nor object
@@ -5785,6 +11237,308 @@ Nor grasps that all of things by sure degrees
 Are wasting away and going to the tomb,
 
 Outworn by venerable length of life.
+
+<span class="qlang-split" data-lang="it"></span>
+
+È pronto, e quando c’è spazio a disposizione, non ci sono obiezioni.
+
+Nessuna causa può rallentare questo processo; non c’è nulla di meraviglioso in ciò.
+
+Che le cose continuino ad esistere e vengano portate a compimento.
+
+Per forza. E ora, se lì esiste ancora qualche riserva di semi.
+
+Così grande da rendere impossibile che intere esistenze umane possano comprenderne appieno la portata.
+
+Posso raccontare questa storia.
+
+E se la loro forza e la loro natura rimangono le stesse,
+
+In grado di unire insieme i “semi” delle cose.
+
+Nelle loro posizioni, proprio come vengono gettati qui.
+
+I semi, tutti insieme in questo nostro mondo.
+
+Deve essere ammesso che in altri ambiti esistono.
+
+Altri mondi ancora, altre razze di uomini.
+
+E altre generazioni di animali selvatici.
+
+Ecco perché, in definitiva, accade proprio questo.
+
+Nessuna singola cosa del suo genere esiste fin dal momento della sua nascita.
+
+E cresce in modo unico e solitario, ma piuttosto è.
+
+Un membro di una qualche razza generata artificialmente.
+
+Tra moltissimi altri di simile natura.
+
+Prima di tutto, rivolgi la tua attenzione verso coloro che sono ancora in vita:
+
+Troverai che la razza di quegli animali selvaggi che abitano le montagne.
+
+Anche così essere, e così i discendenti degli uomini.
+
+Nascere, e infine, le silenziose mandrie.
+
+Di pesci dotati di scaglie e degli scheletri alati degli uccelli.
+
+Pertanto, dobbiamo confessarlo sulla base degli stessi motivi.
+
+Quella terra, quel sole, quella luna, quegli oceani e tutto il resto.
+
+Non esistono singolarmente, ma in numero.
+
+Numero eccessivo. Poiché è radicato profondamente.
+
+Per loro, quella vecchia pietra di confine della vita rimane ancora lì.
+
+Non meno; e loro appartengono a un corpo nato dalla morte.
+
+Nessuno meno di qualsiasi altro essere esistente su questa terra.
+
+È così abbondante nei suoi membri, si trova facilmente.
+
+Il quale sarà chiaramente comprensibile se lo tieni a mente.
+
+Allora la Natura, liberata da ogni signore arrogante,
+
+E immediatamente, libero com’è, si vede che fa tutte le cose.
+
+Da sé stessa e di propria volontà.
+
+Eliminate tutti gli dèi. Perché – con i loro cuori “santi”.
+
+Quel passo, nella lunga e serena pace.
+
+Epoche tranquille e una vita serena,!
+
+Chi possiede tale potere? Chiedo: chi è colui che detiene tale potere?
+
+Per governare l’insieme di ciò che è immensamente vasto.
+
+Tenere saldamente in mano le redini gigantesche.
+
+Delle profondità insondabili. Chi possiede tale potere?
+
+Per poter immediatamente far ruotare innumerevoli cieli.
+
+Per riscaldare immediatamente tutto con fiamme eteree.
+
+Le fertili terre di innumerevoli mondi.
+
+Essere sempre, ovunque, vicini.
+
+Con le sue nuvole stabilire l’oscurità, scuotere.
+
+Gli spazi sereni del cielo, uniti al suono.
+
+E scaglia i suoi fulmini, ah, quanto spesso li scaglia!
+
+Distruggendo i propri stessi templi e impazzendo.
+
+Ritirandosi nelle lande selvagge, lì.
+
+Durante l’allenamento con quel suo “fulmine”,
+
+Eppure, quanto spesso ciò colpisce proprio i colpevoli.
+
+E uccide coloro che sono onesti e innocenti!
+
+Fin dal momento della nascita del mondo, fin da allora.
+
+Il primo giorno in cui il mare, la terra e il sole emersero.
+
+Sono stati aggiunti molti germi dall’esterno?
+
+Molte semi sono stati seminati intorno.
+
+Il grande Tutto, mentre li scagliava avanti,
+
+Portati qui, affinché dal loro interno il mare e le terre.
+
+Potrebbe diventare ancora più grande, e quella casa nel cielo.
+
+Potrebbe ottenere più spazio e avere tetti più alti.
+
+Lontano sopra la terra, l’aria si solleva intorno.
+
+Poiché tutti i corpi, provenienti da tutte le regioni, sono.
+
+Divisi in gruppi, ognuno secondo le proprie funzioni.
+
+E tutti ritornano alle loro rispettive categorie.
+
+Il umido si ritira dal umido; la terra aumenta di volume.
+
+Da un corpo terreno; e fuochi, come in una fucina.
+
+Genera nuovo fuoco; e l’etere forgia altro etere.
+
+Fino a quando la natura, autrice e fine del mondo.
+
+Ha portato tutte le cose ai limiti estremi della crescita:
+
+Come accade quando ciò che è stato versato all’interno.
+
+Le vene vitali della vita non esistono più.
+
+Più di ciò che si esaurisce dentro di loro e scorre via.
+
+Ecco il momento in cui la vita di ogni cosa termina.
+
+Ecco il momento in cui la natura, con le sue forze.
+
+Tutti gli aumenti sono limitati. Per qualsiasi cosa tu possa vedere.
+
+Cresci ampiamente e in modo felice, passo dopo passo.
+
+Salendo verso l’età matura, questi per sé stessi.
+
+Assorbono più corpi di quelli che ne espellono dal proprio interno.
+
+Finché il cibo è ancora facilmente permeabile alle sostanze in questione.
+
+Attraverso tutte le vene, e finché le cose non sono.
+
+Erano stati così ampliati che alla fine vennero gettati via.
+
+Un numero così elevato di [atomi](/positions/atomism) da causare uno spreco.
+
+Più importante del cibo di cui si nutrono per crescere.
+
+È vero che bisogna ammettere che, dalle cose.
+
+Molti corpi si gonfiano e poi scoppiano.
+
+Ma ancora di più dovrà accadere, fino a quando quelle cose.
+
+Hanno raggiunto la vetta dello sviluppo;
+
+Allora la vecchiaia indebolisce le loro forze e la loro vigoria fiorente svanisce.
+
+E poi prosegue in una parte ancora peggiore.
+
+Per sempre, ciò che è più vasto e più ampio.
+
+Non appena la sua espansione termina.
+
+Si disperde immediatamente in tutte le direzioni intorno.
+
+Altri corpi, che ne provenivano direttamente dall’interno.
+
+Ora non è più facile distribuire il cibo.
+
+Attraverso tutte le sue vene. Eppure quel cibo non è sufficiente.
+
+Per poter eguagliare con una nuova risorsa disponibile.
+
+Quei numerosi respiri che emette.
+
+Pertanto, in modo inevitabile, tutte le cose periscono quando la loro forza decresce.
+
+Diventano meno densi e, quando subiscono colpi.
+
+Sono stati sconfitti; poiché alla fine anche il cibo finirà.
+
+Fuoco estremo, e corpi provenienti dall’esterno.
+
+Non cessare mai di colpire con forza per annullare qualcosa.
+
+E sconfiggerli con colpi devastanti.
+
+E così anche le mura del potente mondo.
+
+Da tutte le parti circostanti verrà preso d’assalto.
+
+E poi si frantumavano in pezzi, cadendo a terra in frammenti distrutti e tremolanti.
+
+Per quanto riguarda il cibo, è essenziale mantenere le cose integre e rinnovarle continuamente.
+
+È il cibo che deve sostenere e nutrire tutti.
+
+Ma invano, poiché nemmeno le vene sono sufficienti.
+
+Per poter contenere abbastanza, nemmeno la natura ci aiuta.
+
+Per quanto necessario. E anche ora è così:
+
+La sua età è ormai avanzata e la terra, logorata dal tempo.
+
+Dopo molte parti, ben poco nasce realmente.
+
+Le piccole vite, lei che le creò all’inizio.
+
+Tutte le generazioni, alla nascita.
+
+Enormi corpi di bestie selvatiche dell’antichità.
+
+Perché, credo, mai un cordone d’oro.
+
+Dall’alto firmamento, lasciato scendere.
+
+Le generazioni mortali si recano nei campi.
+
+Né il mare, né le onde che si schiantano contro le rocce.
+
+Li ho creati; ma è stata la terra ad accoglierli.
+
+Lo stesso vale oggi, quando è lei stessa a nutrirli.
+
+Inoltre, di sua iniziativa, lei fu la prima.
+
+I grani scintillanti e i vigneti di ogni gioia.
+
+Creata per la mortalità, eppure essa stessa.
+
+Donava frutti deliziosi e rendeva felici i pascoli.
+
+Che oggi ancora appena aumenta di dimensioni.
+
+Anche quando siamo aiutati dalle nostre braccia che lavorano sodo.
+
+Spezziamo l’ossa del bue e consumiamo la sua forza.
+
+Mani robuste, abituate al lavoro nei campi; attrezzi di ferro, d’oggi.
+
+A malapena sufficienti per la coltivazione dei campi.
+
+Sono così avari da invidiare i nostri raccolti.
+
+Un tale aumento aumenta notevolmente il nostro [lavoro](/concepts/labour). Oggi, in particolare.
+
+Il vecchio contadino scuoteva la testa,
+
+Sospiri incessanti per quei lavori fatti con le sue mani.
+
+Si sono scontrati invano, e, secondo lui.
+
+Come i tempi attuali siano diversi da quelli di un tempo.
+
+Spesso esalta le fortune di suo padre.
+
+E crepitii, chiacchiere. Come quella antica razza.
+
+Vita sostenuta e colmata di devozione.
+
+Con semplici comodità in un piccolo spazio,
+
+Poiché, da uomo a uomo, la misura di ogni campo.
+
+Ai tempi antichi era molto più piccolo. E, ancora una volta.
+
+Il cupo coltivatore della vite appassita.
+
+I binari, con il cambio della stagione, affaticano il cielo.
+
+Né si rende conto che tutte le cose seguono, in modo certo e graduale, determinati percorsi.
+
+Si stanno consumando e andranno dritti alla tomba.
+
+Logorato da una venerabile longevità.
 
 <span class="atom-split" data-atom="016" data-title="BOOK III (parte 1)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -6168,6 +11922,388 @@ Whilst yet the soul’s remainder through the limbs
 
 And through the frame is stirred by nothing new.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PROEMIO
+
+O tu che per primo sollevasti, in tanta oscurità.
+
+Una torcia così chiara, levata in alto. Chi fu il primo ad irradiarla con la sua luce?
+
+Riguardo agli scopi proficui dell’uomo.
+
+Oh te, che seguo, gloria dei Greci.
+
+E ora posiziono i miei passi con fermezza e decisione.
+
+Anche nelle impronte e nei segni lasciati da te.
+
+Più che qualcuno desideroso di contestare tale attribuzione.
+
+Più che come un desiderio nato da profondo amore.
+
+Affinché possa copiarti. Ma come potrei inghiottirti?
+
+Affrontare cigni, o qualsiasi altra cosa possa presentarsi.
+
+In una gara tra bambini piccoli dalle gambe incerte.
+
+E la potente forza del cavallo? Tu, nostro padre.
+
+E tu, che scopri la verità, sei per noi.
+
+Obbedisci ai precetti di un padre, e da lì.
+
+Quei fogli scritti da te, o anima illustre.
+
+(Come api che assorbono tutto nei campi fioriti),
+
+Ci nutriamo tutti delle tue parole d’oro.
+
+Vita eterna e dorata, sempre la più degna di essere desiderata.
+
+Non appena quel pensiero progettuoso nacque.
+
+Dalla mente simile a quella di Dio ha inizio la sua proclamazione sonora.
+
+Tra i fenomeni naturali, le paure generate dal cervello.
+
+Lontano, fuggite, le mura del mondo.
+
+Allontanarsi, e attraversare l’intero vuoto.
+
+Percepo i movimenti dell’universo.
+
+Alza lo sguardo per contemplare la maestosità degli dèi.
+
+E i loro luoghi di eterna tranquillità.
+
+Che né il vento possa scuotere né le nuvole di pioggia bagnare.
+
+Nemmeno la neve, congelata dai gelidi freddi intensi, può causare danno.
+
+Con la sua bianca caduta, sempre, cielo sereno e senza nuvole.
+
+Sui tetti, risate accompagnate da una luce diffusa e lontana.
+
+E la natura dona loro tutto, senza riserve.
+
+Che possa mai portare via la loro serenità d’animo.
+
+Ma, nella mia visione, nulla più emergeva.
+
+Le caverne di Acheronte, nonostante la vasta terra.
+
+Non mi impedisce più di guardare giù su tutto ciò.
+
+Cosa sta succedendo sotto i nostri piedi, laggiù in basso?
+
+Attraverso il vuoto. Oh, in queste circostanze.
+
+Una nuova gioia divina e un timore reverenziale.
+
+Si impadronisce di me, affinché così, per il potere tuo.
+
+La natura, finalmente così chiara e evidente.
+
+È stato rivelato in ogni suo dettaglio all’uomo!
+
+E poiché ho già parlato di che tipo.
+
+I semi di tutte le cose sono, e in che modo, distinti l’uno dall’altro.
+
+In diverse forme, si muovono di loro spontanea volontà.
+
+Mescolato da un movimento eterno e continuo.
+
+E in quale modo le cose, partendo da esse, vengono create.
+
+Ora, dopo tutto ciò, forse il mio verso.
+
+Spiegare chiaramente la natura della mente e dell’anima.
+
+E suscitare quella terribile paura di Acheron senza.
+
+Con slancio in avanti, qualcosa che sconvolge profondamente la nostra vita umana.
+
+Verso le sue profondità, si riversa su tutto ciò che esiste.
+
+Il nero della morte non lascia nulla indietro.
+
+Prosperare, una gioia fluida e immacolata.
+
+Per quanto riguarda ciò che talvolta gli uomini affermano.
+
+Che sia qualcosa di più terribile del Tartaro (il regno della morte).
+
+Temono le malattie e una vita di vergogna.
+
+E sappiate che la sostanza dell’anima è il sangue.
+
+O meglio, il vento, se così piacerà loro.
+
+E quindi non abbiamo alcun bisogno di questa nostra scienza.
+
+Puoi facilmente notare, da ciò che seguirà ora.
+
+Per gloria, più ancora, si vantano di ciò.
+
+Piuttosto che per la fede. Perché notate bene questi stessi aspetti:
+
+Esuli lontani dal loro paese, fuggitivi in terre lontane.
+
+Alla vista degli uomini, accusati di gravi crimini.
+
+Umiliati da ogni sorta di miseria, tuttavia.
+
+Vivete; e ovunque quei miseri arrivino, loro ancora.
+
+Offrite lì i sacrifici ancestrali.
+
+Uccidete la pecora nera, e così anche agli dèi inferni.
+
+Concedi gli onori, e, nel caso estremo,
+
+Rivolgetevi ancora più intensamente alla religione.
+
+Pertanto, questo è il modo più sicuro per mettere alla prova un uomo.
+
+Di fronte a pericoli incerti, osservatelo così com’è realmente.
+
+Nel mezzo delle avversità, perché solo allora.
+
+Le vere voci emergono davvero dal suo petto?
+
+La maschera è stata rimossa; dietro di essa c’è la realtà.
+
+E ancora, l’avidità e la cieca brama di onori.
+
+Quale forza spinge questi poveri disgraziati oltre i limiti della legge.
+
+E spesso alleati e complici del crimine.
+
+Per superare notti e giorni di estrema fatica.
+
+Salire senza ostacoli verso le vette del potere.
+
+Queste ferite della vita, in nessun modo vengono ignorate o trascurate.
+
+Insuppurando e aperta a causa di questa paura della morte.
+
+Per sempre vediamo la spietata Povertà e la vergognosa Disgrazia.
+
+Scacciati lontano da una vita sicura e serena.
+
+Come forme raggruppate davanti alle porte della morte.
+
+E mentre, a causa di queste cose, gli uomini desiderano allontanarsi il più possibile.
+
+Spinti da un falso terrore, e lontani da tutto ciò che è reale.
+
+Con il sangue dei cittadini accumulano una fortuna.
+
+Accumulano ricchezze in modo avido e smisurato.
+
+Risalgono su cadaveri, con una risata crudele.
+
+Per il triste funerale di un fratello nato dallo stesso grembo.
+
+E odio e paura nei confronti dei membri della loro stessa famiglia.
+
+Allo stesso modo, attraverso lo stesso terrore, l’invidia spesso.
+
+Li porta al culmine, perché davanti ai loro occhi.
+
+Quell’uomo era nobile; quell’uomo guardava con dignità.
+
+Chi cammina circondato da onore e gloria.
+
+Mentre essi giacciono nel fango e nell’oscurità.
+
+Alcuni periscono soltanto per delle statue e un nome.
+
+E spesso fino a quel punto, per la paura della morte.
+
+Odierà vivere e vedere la luce.
+
+Ricordate, umanità: ciò che infliggono.
+
+La loro stessa distruzione, vissuta con un cuore cupo.
+
+Dimenticando che questa paura è la fonte di tutti i nostri timori.
+
+Questo timore minaccia profondamente il loro senso di vergogna.
+
+E questo è ciò che spezza i legami della camaraderia.
+
+E sovrasta ogni forma di rispetto e fede.
+
+Nel mezzo di un massacro spietato. Molto tempo prima di oggi.
+
+Spesso c’erano traditori della patria e dei cari genitori.
+
+Attraverso questa ricerca, per sfuggire ai regni di Acheron.
+
+Poiché proprio come i bambini tremano e hanno paura di tutto.
+
+Nella oscurità impenetrabile, anche noi a volte.
+
+Tremo alla luce di tutte quelle cose che esistono.
+
+Niente è più spaventoso di ciò che i bambini fingono.
+
+Tremeranno. Qualcosa li colpirà nell’oscurità.
+
+Quindi, questo terrore, questa oscurità della mente.
+
+Non l’alba con i suoi raggi di luce che si diffondono.
+
+Né le scintillanti frecce del sole mattutino riescono a disperderle.
+
+Ma soltanto l’aspetto della natura e le sue leggi.
+
+NATURA E COMPOSIZIONE DELLA MENTE
+
+Prima di tutto, dico quindi che la mente, che spesso chiamiamo.
+
+L’intelletto, in cui risiede la vita stessa.
+
+Consiglio e regime alimentare sono anch’essi elementi fondamentali.
+
+Dell’uomo, la mano, il piede e gli occhi sono le parti più importanti.
+
+Di un’unica creatura vivente, intera e unitaria. [Ma alcuni sostengono il contrario].
+
+Quel tipo di pensiero non ha una sede fissa in alcuna parte del cervello.
+
+Ma esiste forse uno stato vitale del corpo,?
+
+Chiamata “armonia” dai Greci, perché in questo modo.
+
+Viviamo attraverso i sensi, anche se l’intelletto non sia necessario.
+
+In qualsiasi ambito: come spesso si dice riguardo al corpo.
+
+Per godere di buona salute, anche se la salute, a volte, non lo è.
+
+Una parte di lui che lo possiede, quindi lo posizionano lì.
+
+La facoltà mentale non si trova in alcuna parte specifica del corpo umano.
+
+Sembrano sbagliare in modi molti e diversi.
+
+Spesso, il corpo è palpabile e visibile.
+
+Rivoltante, eppure, in qualche modo invisibile.
+
+Proviamo piacere; spesso, invece, è l’opposto.
+
+Chi è infelice nel cuore prova comunque piacere.
+
+In tutto il suo corpo, esattamente come quando.
+
+Un piede può dolere senza che ci sia dolore alla testa.
+
+Inoltre, quando questi nostri arti vengono utilizzati.
+
+Verso un sonno dolce riposa il corpo stanco e affaticato.
+
+In un vuoto assolutamente privo di senso, qualcos’altro.
+
+È ancora in noi ciò che, in quel momento.
+
+Si agita in molti saggi, ricevendo.
+
+Tutti i movimenti di gioia e le illusioni prodotte dai pensieri del cuore.
+
+Ora, per comprendere che nei membri dell’uomo dimora.
+
+Anche l’anima e il corpo non sono mai destinati a.
+
+Per percepire una sensazione attraverso un’“armonia”.
+
+Tenete bene a mente questo punto fondamentale: il fatto che la vita continui ad esistere.
+
+Spesso, nelle nostre membra, quando gran parte del corpo è già andata.
+
+Eppure quella stessa vita, quando le particelle di calore.
+
+Sebbene pochi, sono stati dispersi attraverso la bocca.
+
+L’aria è stata rilasciata all’esterno, immediatamente.
+
+Per sempre abbandona le vene e lascia i ossa vuoti.
+
+E così potrai comprendere che non tutte le particelle.
+
+Non agite come parti distinte, né in modo uniforme tutti quanti.
+
+Sono gli strumenti del benessere e della sicurezza: piuttosto questi.
+
+I semi portati dal vento e gli esalazioni riscaldano.
+
+Assicurati che nella vita dei nostri membri tutto rimanga com’è.
+
+Pertanto, lì esistono un calore vitale e un vento vitale.
+
+All’interno dello stesso corpo, che alla morte.
+
+Abbandonano i nostri corpi. E così, poiché la natura della mente.
+
+E si scopre che anche l’anima è, in qualche modo,
+
+Una parte dell’uomo rinuncia alla “armonia”.
+
+I nomi dei musicisti provenienti dall’Eliso.
+
+A meno che non lo abbiano rubato loro stessi in qualche altro modo.
+
+Per fungere da ciò che, fino ad allora, non aveva ancora ricevuto un nome.
+
+Qualunque cosa sia, sono benvenuti ad essa, tu,
+
+Ascoltate le mie altre massime.
+
+Con mente e anima intere.
+
+Dico che sono tenuti uniti l’uno all’altro.
+
+E formare una singola natura per sé stessi;
+
+Ma è proprio ciò che domina e governa l’intero sistema.
+
+È ancora quel consiglio che chiamiamo “mente”.
+
+E quel sentimento si radica nel profondo del cuore.
+
+Qui si ergono lo sconforto e il terrore; intorno a questi luoghi.
+
+Siano essi dolci incanti di gioia. E quindi, qui.
+
+L’intelletto, la mente. Il resto dell’anima.
+
+Disperse in tutto il corpo, ma obbediscono.
+
+Mosso dal cenno e dal movimento della mente.
+
+Questo, in sé stesso, unicamente per se stesso, ha pensato.
+
+Questo, in sé, è fonte di gioia, anche quando la cosa.
+
+Quello lo fa muovere, ma non muove né l’anima né il corpo in alcun modo.
+
+E così, quando nella nostra mente o nei nostri occhi accade qualcosa.
+
+Attaccando il dolore, allora non veniamo più tormentati.
+
+In tutto il corpo, quindi soltanto nella mente.
+
+A volte è colpito da un’emozione intensa, o si illumina di gioia.
+
+Mentre ancora la parte rimanente dell’anima attraverso i membri.
+
+E, attraverso quel quadro, nulla di nuovo viene scosso o agitato.
+
 <span class="atom-split" data-atom="017" data-title="BOOK III (parte 2)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 But when the mind is moved by shock more fierce,
@@ -6549,6 +12685,388 @@ Primordials whence this variation springs.
 But this meseems I’m able to declare:
 
 Those vestiges of natures left behind
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma quando la mente viene scossa da uno shock ancora più violento.
+
+Rappresentiamo l’intera anima che soffre contemporaneamente.
+
+Su tutti i membri del corpo umano: sudore e pallore si diffondono.
+
+Su tutto il corpo, e la lingua è spezzata.
+
+E quella voce svanisce, lasciando solo un eco nelle orecchie.
+
+Le nebbie offuscano le pupille degli occhi e le articolazioni cedono.
+
+Sì, uomini muoiono per la paura che nasce nella loro mente.
+
+Pertanto, chiunque voglia può facilmente osservare.
+
+Quell’anima unita alla mente, quando.
+
+È stato influenzato dal pensiero; immediatamente.
+
+A sua volta, colpisce e influisce anche sul corpo.
+
+E proprio questo stesso argomento dimostra.
+
+La natura di mente e anima è corporea.
+
+Poiché si osserva che spinge i vari membri del corpo ad agire.
+
+Strappare il corpo dal sonno e cambiarlo.
+
+L’espressione del volto e lo stato generale di un uomo.
+
+Regnare e cambiare. Cosa che, tuttavia, non è mai stato possibile.
+
+Senza contatto, e senza contatto fisico, tutto fallisce.
+
+Non dobbiamo forse ammettere che mente e anima siano costituite da.
+
+Di natura corporea? – E inoltre.
+
+Noti bene che, allo stesso modo, con questo nostro corpo.
+
+È lo spirito ad soffrire, e attraverso il nostro corpo proviamo le emozioni.
+
+Se la terribile velocità di quella lancia che spezza le ossa.
+
+E se le ferite interne non colpiscono la vita stessa.
+
+Eppure segue un svenimento e una caduta improvvisa e violenta.
+
+E a terra, un caos confuso nella mente.
+
+E in quel momento, una volontà incerta inizia ad agire.
+
+Pertanto, la natura della mente deve essere corporea, poiché.
+
+Dalla ferita causata da un colpo di lancia, il corpo è in preda alle convulsioni.
+
+Ora, di quale corpo, di quali componenti era formato.
+
+È lo stesso spirito di cui continuerò a parlare.
+
+Prima di tutto, ho composto qualcosa di davvero superbo.
+
+Di particelle minuscole, che proprio questo è il fatto.
+
+Se presti attenzione, puoi comprendere da questo.
+
+Non si osserva che nulla accada con tale velocità.
+
+Come ciò che la mente propone e inizia.
+
+Pertanto, lo stesso elemento si attiva con maggiore rapidità.
+
+Più di qualsiasi altra cosa la cui natura sia evidente agli occhi.
+
+Ma ciò che è così agile deve necessariamente essere costituito da semi.
+
+Più rotondi, più piccoli, in modo che possano essere spostati facilmente.
+
+Quando viene colpito da un impulso lieve. È così che l’acqua si muove.
+
+In onde che si susseguono, con un impulso appena percettibile.
+
+Essendo formato da piccole forme che rotolano.
+
+Ma, al contrario, la qualità del miele.
+
+È più stabile; i suoi liquidi sono più inerti.
+
+Il suo corso è più lento; poiché possiede una quantità limitata di materia.
+
+Si unisce ancora di più, poiché, in effetti, è proprio così che è stato creato.
+
+Gli [atomi](/positions/atomism) non sono così lisci, così fini e così rotondi.
+
+Per la brezza leggera che aleggia, ma può anche soffiare con forza.
+
+Alti mucchi di semi di papavero, riservati solo per te.
+
+Discendendo dal punto più alto, ma, al contrario.
+
+Un mucchio di pietre o di glume di grano spinose.
+
+Non può affatto. Pertanto, nella misura in cui i corpi.
+
+Sono piccoli e lisci: questa è la loro caratteristica principale in termini di mobilità.
+
+Ma, al contrario, più pesanti e ruvidi.
+
+Più si dimostrano inamovibili. Allora, ecco.
+
+Poiché la natura della mente è così soggetta ai cambiamenti.
+
+Deve necessariamente essere composto da semi di dimensioni molto piccole.
+
+E liscio e rotondo. Una volta conosciuto questo fatto,
+
+Caro amico, ti sarà utile in altre circostanze.
+
+Ciò dimostra anche la natura stessa di tale fenomeno.
+
+Che bella è la sua consistenza, in uno spazio così piccolo.
+
+Potrebbe funzionare, se venisse compattato sotto forma di pellet.
+
+Quando il riposo sereno della morte si impadronisce dell’uomo.
+
+E mente e anima si ritirano lì; è là che tu registri tutto.
+
+Dall’intero corpo non viene preso nulla sotto forma concreta.
+
+Niente di significativo. La morte vi dona tutto.
+
+Ma i sensi vitali sono attivi e il respiro è caldo.
+
+Pertanto, l’anima intera deve essere formata da semini estremamente piccoli.
+
+Intrecciati nelle vene, nei tessuti vitali e nelle fibre muscolari.
+
+Vedendo che, quando esso se ne va completamente dal corpo.
+
+La forma esteriore degli arti
+
+È intatto e il suo peso non è diminuito affatto.
+
+E così, quando quel mazzo di vini scomparve.
+
+O quando il profumo di un unguento è delicato.
+
+Si allontana tra i venti, o forse quando.
+
+Da qualsiasi sapore sia svanito, ancora.
+
+La cosa stessa sembra non ridursi affatto ai nostri occhi.
+
+Pertanto, nulla viene sottratto dal suo peso.
+
+Non c’è da meravigliarsi, poiché i semi sono numerosi e minuscoli.
+
+Genera quei sapori e quelle fragranze.
+
+In tutto l’insieme delle cose. E così.
+
+Di nuovo, ancora una volta: la natura della mente e dell’anima.
+
+È tuo compito comprendere che tutto ciò che è stato creato deriva da semi.
+
+Il più piccolo di tutti i tempi, da quando è nato.
+
+Non ha affatto lo stesso peso.
+
+Eppure, non immaginate che la sua natura sia così semplice.
+
+A causa di un’aura impercettibile, mescolata al calore.
+
+Abbandona coloro che stanno morendo, e il calore risucchia l’aria dall’ambiente circostante.
+
+E non esiste calore, se non quando viene mescolato con l’aria.
+
+Poiché la natura di ogni forma di calore è rara.
+
+Attraverso di esso, molti “semi d’aria” devono muoversi.
+
+Pertanto, la natura della mente è tripla; eppure tutti questi aspetti.
+
+Bastano, per creare senso, non la mente.
+
+Non ammette che nulla di tutto ciò possa causare.
+
+I movimenti che portano significato, e ancor meno i pensieri stessi.
+
+Un uomo occupa i miei pensieri. Così è anche per questi.
+
+Deve essere aggiunto anche un quarto elemento.
+
+Quello, in qualche modo, è del tutto privo di nome.
+
+Dopo di ciò, non esiste nulla di più mutevole, nulla.
+
+Più che altro, un insieme di elementi impercettibili.
+
+Più piccolo, liscio e rotondo. Quello primo trasmette.
+
+I movimenti che trasmettono significato all’interno di quel contesto, appunto per questo.
+
+Il primo viene risvegliato da piccole forme;
+
+Da lì, calore e forze del vento invisibili assumono il sopravvento.
+
+I movimenti, e quindi l’aria, e quindi tutte le cose.
+
+Vengono messi in movimento; il sangue scorre, e poi.
+
+Tutti i processi vitali iniziano a manifestarsi e continuano nel tempo.
+
+La sensazione arriva fino alle ossa e al midollo.
+
+Piacere o tormento. E nemmeno il dolore sarà vano.
+
+Finora non è entrato nulla; nessun male grave si è infiltrato.
+
+Ma tutte le cose sono turbate fino a quel punto.
+
+Quella “stanza della vita” fallirà, e parti dell’anima.
+
+Si diffonderà in ogni poro del corpo.
+
+Tuttavia, di solito, quasi fino alla pelle.
+
+Questi movimenti sono stati fermati, ed è proprio per questo motivo.
+
+Abbiamo il potere di conservare la nostra vita.
+
+Ora, nella mia fretta di raccontarti come.
+
+Si mescolano tra loro, attraverso le unioni che si adattano l’una all’altra.
+
+Funzionano in questo modo, il linguaggio utilizzato dai poveri nel mio paese.
+
+Mi costringe, purtroppo. Tuttavia, faccio del mio meglio.
+
+Affronterò alcuni argomenti e poi passerò oltre. In modo così, saggio.
+
+Naturalmente, questi esseri primitivi tra di loro.
+
+Con movimenti che nessuno può comprendere.
+
+Da altre separazioni, né dalla loro azione.
+
+Eseguisci, se una volta diviso da uno spazio.
+
+Come molte facoltà racchiuse in un unico organismo, esse operano insieme.
+
+Come nel corpo di qualsiasi creatura ancora viva.
+
+Il profumo, il sapore e una certa calore.
+
+Eppure, da tutto ciò, emerge un’unica entità corporea.
+
+Quindi, la forza invisibile del vento diventa completa.
+
+E calore e aria, mescolandosi insieme, davvero creano.
+
+Un’unica natura, attraverso quell’energia mutevole.
+
+Un aiuto che proveniva da loro stessi.
+
+Crea il movimento iniziale, permettendo così, per prima cosa.
+
+Movimento significativo che si snoda lungo le “molle vitali”.
+
+Poiché questa essenza si nasconde lontano e in profondità.
+
+Né nel nostro corpo c’è nulla che sia completamente nascosto alla vista.
+
+Ed è proprio l’anima stessa di tutta l’anima.
+
+E così, all’interno dei nostri membri e del nostro intero organismo.
+
+L’energia dell’intelletto e la forza dell’anima
+
+È misto e latente, poiché è proprio creandolo che diventa tale.
+
+Tra corpi piccoli e pochi, si nasconde questo quarto elemento.
+
+Questa essenza priva di nome, composta da elementi piccoli.
+
+E sembra che sia proprio l’anima stessa di tutte le anime.
+
+E esercita il dominio su tutto il corpo umano.
+
+E per lo stesso motivo, vento, aria e calore.
+
+Deve funzionare in questo modo: mescolandosi all’interno del quadro.
+
+E ora uno si placa, e ora un altro.
+
+In cambio della dominazione, così.
+
+Da tutti loro debba derivare una sola natura.
+
+Per evitare che calore e vento si separino, così come l’aria.
+
+Ha senso perire, attraverso la separazione.
+
+Si intende davvero che diventi molto caldo.
+
+Quando ribolliva di rabbia, e i lampi nei suoi occhi.
+
+Fate fuoco più rapidamente. C’è di nuovo quel vento.
+
+Molto, e così freddo: compagno di ogni terrore.
+
+Ciò suscita un brivido nel corpo scosso da tremori.
+
+Non esiste uno stato d’aria meno composto di questo.
+
+Crea un petto sereno, un volto tranquillo.
+
+Ma ci sono molti altri la cui inquieta mente.
+
+Di coloro la cui mente, piena di passione, ribolle rapidamente di rabbia.
+
+Di quale tipo sono i leoni più feroci e numerosi?
+
+Chi spesso, con un urlo potente, scoppia in lacrime.
+
+Incapace di trattenere la furia che montava dentro di sé;
+
+Ma la mente fredda degli stalloni è più piena di vento.
+
+E più rapidamente, attraverso le loro profondità interiori, si risvegliano.
+
+Le correnti gelide che fanno tremare i loro membri.
+
+Ma più gli buoi vivono in un ambiente sereno e tranquillo.
+
+Né mai viene accesa la torcia fumante della rabbia.
+
+Si diffonde con ombre di una tenebra crescente.
+
+Scuotili troppo forte; né si irrigideranno completamente.
+
+Trafiggiati da gelide “aste di paura”;
+
+Ma hanno il loro posto a metà strada tra i due.
+
+Cervi e feroci leoni. Così è la natura dell’uomo.
+
+Sebbene l’addestramento li renda ugualmente raffinati,
+
+Lascia indietro quei resti intatti.
+
+Della natura stessa di ogni mente. E non possiamo nemmeno supporlo.
+
+Il male non può mai essere completamente estirpato fino a questo punto.
+
+Che quell’uomo non sia più soggetto a scatti d’ira.
+
+Nessuno altro viene colpito dal terrore con la stessa rapidità.
+
+Un terzo, non meno paziente di quanto fosse necessario.
+
+E le necessità devono differire in molti aspetti, oltre ad altri.
+
+Le diverse nature e le abitudini che ne derivano.
+
+Dell’umanità, di cui in questo momento non posso parlare.
+
+Spiega le cause nascoste, ma non cercare[nomi](/positions/nominalism).
+
+Basta così, per tutte le diverse forme di quelle.
+
+I primordiali da cui deriva questa variazione.
+
+Ma questa volta sembra che io possa dichiarare:
+
+Quei resti della natura che sono rimasti indietro.
 
 <span class="atom-split" data-atom="018" data-title="BOOK III (parte 3)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -6933,6 +13451,390 @@ When the strong wine has entered into man,
 And its diffused fire gone round the veins,
 
 Why follows then a heaviness of limbs,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quale motivo, dunque, non può del tutto scacciare da noi.
+
+Sono ancora così lievi che nulla può impedire a un uomo.
+
+Vivere una vita degna persino degli dèi.
+
+Quindi, questa anima è sostenuta e mantenuta da tutto il corpo.
+
+Essa stessa è la guardia del corpo e la fonte della prosperità:
+
+Poiché hanno radici comuni, si legano l’uno all’altro.
+
+Né può essere separato senza causare la morte.
+
+Non è affatto facile, con questi pezzi di incenso.
+
+Per estrarne il profumo, senza rispettare la sua natura originale.
+
+Anche questo finirà allo stesso modo. Quindi, non è affatto facile.
+
+Dall’intera natura del corpo, della mente e dell’anima.
+
+Allontanarsi, senza che tutto si dissolva.
+
+Con semi così strettamente intrecciati fin dalla nascita.
+
+Vengono dotati insieme di una vita coniugale;
+
+Nessuna energia, né fisica né mentale, può esistere separatamente.
+
+Ognuno di essi, privo del potere dell’altro,
+
+È possibile provare sensazioni; ma i nostri sensi, quando sono stimolati.
+
+Lungo i vasi vitali, entrambi soffiano la fiamma.
+
+Attraverso movimenti reciproci. Oltre al corpo stesso.
+
+Né è generato, né cresce, né esiste dopo la morte.
+
+Deve resistere. Poiché, a differenza dell’acqua, non è sempre fluido.
+
+Emette quel calore “alieno”, e non per questo.
+
+Distrutto da sé stesso, ma ancora intatto.
+
+Non è così, dico io, che il corpo abbandonato possa.
+
+Sopporta la separazione di quella anima che un tempo era unita a te.
+
+Ma, affittate e in rovina, si deteriorano tutte.
+
+Pertanto, il contatto congiunto tra corpo e anima.
+
+Fin da piccoli imparano i movimenti essenziali per la vita.
+
+Anche quando ancora sepolti nel grembo della madre.
+
+Pertanto, nulla può separarli.
+
+Senza la loro maledizione e il loro male. E da ciò potrai comprendere.
+
+Poiché è proprio questa unione che costituisce la loro fonte di benessere,
+
+Anche la loro natura deve essere congiunta.
+
+Se inoltre si nega che il corpo possa provare sensazioni.
+
+E trattiene quella anima, attraverso tutto il corpo mescolato.
+
+Assume questa forma che chiamiamo “senso”.
+
+Lotta invano contro fatti innegabili.
+
+Chi potrà mai spiegare quale sia la sensazione che proviene dal corpo?
+
+Tranne che per ciò che il fatto stesso pubblico dimostra.
+
+“Ci ha dato e insegnato tutto, ” Ma quando l’anima si separa.
+
+“Il corpo è privo di ogni sensazione.” Vero! – Perde ciò che.
+
+Nemmeno durante la sua esistenza, esso apparteneva a sé stesso.
+
+E molto altro perde quando l’anima viene spinta.
+
+Al di là di quella vita. O, per dirla in altri termini, quegli occhi.
+
+Essi stessi non riescono a vedere nulla, se non attraverso lo stesso mezzo.
+
+La mente si proietta verso l’esterno, come se uscisse da porte aperte.
+
+È una frase difficile da pronunciare, poiché ciò che si legge negli occhi.
+
+Afferma il contrario. Perché anche questo si basa su.
+
+E le forze che entrano nelle nostre pupille.
+
+La nostra coscienza. E notate quel caso in cui spesso.
+
+Ci manca la capacità di vedere le cose che irradiano luce.
+
+Poiché i nostri occhi vengono ostacolati dalla loro stessa luce.
+
+Con una semplice porta, questo non accadrebbe mai.
+
+Poiché sono proprio noi stessi a vedere,
+
+Nessun portale aperto si impegna in tale fatica.
+
+Inoltre, se i nostri occhi funzionassero soltanto come porte.
+
+Penso che, se la nostra vista venisse meno, la mente.
+
+Dovrebbe quindi essere ancora più bello poter osservare una cosa.
+
+Quando anche i portali sono stati rimossi.
+
+In queste faccende, non occupatevi affatto di questo aspetto.
+
+Quel nobile saggio, Democrito, afferma.
+
+Quella proposizione, quei “primordiali”.
+
+Di corpo e mente, ciascuno sovrapposto all’altro.
+
+Cambiare in modo alternato e intrecciarsi tra loro.
+
+La struttura stessa dei nostri membri. Non solo perché.
+
+Gli elementi dell’anima sono forse molto più piccoli di quelli.
+
+Il nostro corpo e le sue parti interne sono composti da questi elementi.
+
+Ma sono anche meno numerosi tra loro.
+
+E sparse, in modo rado, all’interno del nostro corpo. E così.
+
+Questo puoi garantirlo: i germi primordiali dell’anima.
+
+Mantenere tra di loro intervalli il più ampi possibile.
+
+Almeno come i corpi più piccoli, che.
+
+Quando viene scagliato contro di noi, nel nostro corpo si risveglia.
+
+Movimenti che trasmettono significato. Ed è per questo che noi.
+
+A volte non ci sembra che nulla si posizioni realmente su di noi.
+
+La polvere tenace, o la cenere che si deposita in modo soffice.
+
+Né le nebbie della notte, né la seta di ragno.
+
+Sentiamo che ci sono ostacoli sul nostro cammino.
+
+La sua rete ci avvolge senza che ce ne rendiamo conto, nemmeno sulla nostra testa.
+
+La perdita delle sue vesti appassite.
+
+Né piume d’uccello, né peli vegetali.
+
+Volano intorno, così leggeri da quasi non cadere;
+
+Né percepire i passi di ogni creatura che striscia sul terreno.
+
+Né ognuno di quei segni lasciati sulla nostra pelle.
+
+Di mosche e simili. Fino a quel punto.
+
+Devono esserci molti “germi primordiali” che si agitano dentro di noi.
+
+Un tempo, i semi dell’anima che attraverso il nostro corpo.
+
+Sono mescolati insieme, per far sì che quelle persone possano sentirlo.
+
+I elementi primordiali del corpo sono stati toccati.
+
+E prima ancora, nel colpire con tali vuoti tra loro.
+
+Si scontrano, si combinano e poi si separano a turno.
+
+Ma la mente è piuttosto il custode di quei “portali”.
+
+Ha un maggiore potere sulla vita che sull’anima.
+
+Poiché senza intelletto e mente non esiste nulla.
+
+Una parte dell’anima può riposare all’interno del nostro corpo.
+
+Solo per brevi momenti; un semplice accompagnamento, nient’altro.
+
+Con la mente persa tra i venti e le foglie.
+
+I membri congelati nel freddo della morte.
+
+Ma colui la cui mente e intelletto rimangono vigili.
+
+Lui stesso rimane nella vita, per quanto possa accadere.
+
+Il tronco era straziato, con le braccia e le gambe tagliate via.
+
+L’anima, ritirata e separata dai membri del corpo.
+
+Il tronco continua a vivere e assorbe l’aria vitale.
+
+Anche quando privi di quasi tutto, tranne che dell’anima stessa.
+
+Eppure continuerà ad esistere e a legarsi alla vita.
+
+Proprio perché il potere della vista è ancora forte,
+
+Se solo lo studente rimanesse illeso.
+
+Anche quando l’occhio che lo circonda è gravemente ferito.
+
+A condizione che tu non distrugga.
+
+Interamente la sfera, ma, tagliando attorno alla pupilla.
+
+Lasciate quel discepolo da solo indietro.
+
+Poiché una quantità maggiore ne rovinerebbe la vista. Ma se quel centro.
+
+Quella piccolissima parte dell’occhio, divorata completamente.
+
+Immediatamente la visione svanisce e arriva l’oscurità.
+
+Sebbene, in ogni altro aspetto, la sfera immacolata appaia chiara e trasparente.
+
+È attraverso un simile accordo che l’anima e la mente.
+
+Sono legati l’uno all’altro per sempre.
+
+L’ANIMA È MORTALE
+
+Ora vieni: affinché tu possa comprendere.
+
+Che le menti e le anime pure di tutte le creature viventi.
+
+Avendo una nascita e una morte mortali, continuerò comunque.
+
+Versi che possano servire a costruire una vita conforme alle tue regole di condotta.
+
+Cercato a lungo, scoperto con fatica e impegno.
+
+Ma sotto un solo nome, ti chiederei di legarli entrambi insieme;
+
+E quando, ad esempio, parlerò di anima.
+
+Insegnare che l’uomo sia soltanto mortale, pensaci.
+
+In questo modo, parlo anche della mente.
+
+Poiché entrambi sono uno, una sostanza strettamente connessa tra loro.
+
+Prima di tutto, poiché ho spiegato in che modo esista l’anima.
+
+Un tessuto sottile, composto da particelle estremamente piccole.
+
+Composto da [atomi](/positions/atomism) molto più piccoli di quelli.
+
+Dell’umidità liquida dell’acqua, della nebbia o del fumo.
+
+Quindi, in termini di mobilità, eccelle di gran lunga.
+
+Più propenso a muoversi, anche se stimolato da motivi meno gravi.
+
+Anche di fronte alle immagini di fumo o nebbia.
+
+Quando, durante il sonno, veniamo cullati.
+
+Gli altari che emettono vapore e fumo verso l’alto.
+
+Infatti, senza dubbio, queste apparizioni arrivano.
+
+Per noi, dall’esterno. Ora, dunque, poiché tu vedi.
+
+I loro liquidi si allontanano, le loro acque scorrono via.
+
+Quando i vasi vengono scossi, e poiché la nebbia e il fumo.
+
+Allontanati con i venti, credici.
+
+Anche l’anima, allo stesso modo, viene dispersa e muore.
+
+Più in fretta, molto più in fretta si dissolve tutto.
+
+Tornando ai suoi corpi primordiali, quando vengono ritirati.
+
+È svanito dai membri del corpo umano.
+
+Certamente, se il corpo (contenitore di ciò che è lo stesso, )
+
+Come una giara, quando scossa per qualche motivo.
+
+E rarefatto a causa della perdita di sangue dalle vene.
+
+Non riesco più a trattenere l’anima. Come può essere allora?
+
+Pensi davvero che possa essere trattenuto da qualche tipo di aria,?
+
+Una sostanza molto più rara dei nostri corpi,?
+
+Inoltre, riteniamo che sia proprio la mente a conferire significato all’esistenza.
+
+Insieme al corpo, anche l’anima cresce e invecchia.
+
+Poiché, proprio come i bambini barcollano intorno.
+
+Con telai deboli e fragili, ne consegue.
+
+Una saggezza debole nella loro mente. E poi,
+
+Lì dove gli anni hanno trasformato queste forze in qualcosa di solido e potente.
+
+Il consiglio è anche più grande, più potente.
+
+Il potere della mente. In seguito, dove già esisteva.
+
+Il corpo viene distrutto dalle potenti forze del fuoco.
+
+E così il sistema, con le sue forze ormai indebolite, è caduto in rovina.
+
+Il pensiero inciampa, la lingua divaga e la mente cede il posto all’oscurità.
+
+Tutto fallisce; tutto manca contemporaneamente.
+
+Pertanto, è appropriato che anche l’anima, una volta dissolta.
+
+Come fumo, si disperde nei soffi elevati dell’aria.
+
+Poiché vediamo che lo stesso sta per accadere di nuovo.
+
+Insieme al corpo, cresciamo. E, come ho insegnato,
+
+Si sfaldano e si crepacciano, consumati dal tempo.
+
+Anche in quel caso, vediamo che, proprio come il corpo assorbe.
+
+Malattie orribili e dolori terribili.
+
+Pertanto, considera con attenzione le sue amare preoccupazioni, il dolore, la paura.
+
+Pertanto, è logico che anche la mente non sia da meno.
+
+Chi partecipa alla vita umana è destinato alla morte; poiché soffre e si ammala.
+
+Sono entrambi artefici della morte, proprio come gli altri.
+
+Abbiamo imparato, nel corso degli anni, attraverso l’esperienza di molti uomini.
+
+Anzi, anche nelle malattie del corpo, spesso è lo spirito ad essere colpito.
+
+Vaga lontano, poiché è completamente fuori di sé.
+
+E parla in modo folle; o spesso affonda.
+
+Con le palpebre che si chiudevano e un leggero cenno del capo,
+
+Nel sonno profondo, verso il sonno eterno.
+
+Da lì non sente più alcuna voce.
+
+Nessuno è in grado di riconoscere i volti presenti qui.
+
+Di coloro che stavano intorno a lui, con le guance bagnate di lacrime.
+
+Coloro che invano cercano di riportarlo alla luce e alla vita.
+
+Pertanto, dobbiamo anche ammettere che la mente, in definitiva, si dissolve.
+
+Infatti, si osservano spesso contagi di malattie.
+
+Entra anche tu nel medesimo stato. Ancora una volta. Oh, perché?
+
+Quando il vino forte entra nel corpo umano,
+
+E il suo fuoco diffuso si propaga attraverso le vene.
+
+Allora, perché segue una sensazione di pesantezza nelle membra?
 
 <span class="atom-split" data-atom="019" data-title="BOOK III (parte 4)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -7320,6 +14222,392 @@ And sheer abandon in the zest of battle:
 
 With the remainder of his frame he seeks
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le gambe si intrecciano mentre lui rotola su se stesso.
+
+Una lingua balbettante, un’intelligenza sommersa.
+
+Occhi pieni di lacrime, singhiozzi, grida e liti.
+
+E cosa altro c’è di questo genere? — Perché proprio questo? —
+
+Se non fosse per quel vino così violento e impetuoso.
+
+È forse voler confondere l’anima all’interno del corpo?
+
+Ma ciò che può essere confuso o ostacolato.
+
+Questo dimostra che, se intervenisse una causa più potente,
+
+Sarebbe possibile che allora perisse, privo di tutto.
+
+Di qualsiasi vita possa seguire. E, inoltre,
+
+Spesso, qualcuno, preso da un impulso improvviso.
+
+Come se colpiti da un fulmine, crollano tutti insieme.
+
+Davanti ai nostri occhi, schiuma spruzza e suoni gutturali si levano.
+
+Balbettare e contorcersi con i muscoli tesi.
+
+Trattenendo il respiro all’inizio, affatica i suoi arti.
+
+Con continui movimenti avanti e indietro. Non c’è da meravigliarsi, visto che ciò serve solo a distrarre l’attenzione.
+
+Attraverso i tormenti causati dalle malattie.
+
+È confuso; sputa schiuma, come se volesse vomitare l’anima stessa.
+
+Come sul mare salato le onde si levano in tumulto.
+
+Sotto il potere dominante dei venti. E ora.
+
+Un gemito sfugge involontariamente, poiché le sue membra sono strette con forza.
+
+Ma, in sostanza, perché i semi della voce.
+
+Vengono spinti fuori e trasportati tutti insieme, come un gruppo unico.
+
+Verso l’esterno, attraverso la bocca, dove di solito non vanno.
+
+E ha costruito un’autostrada. Lui diventa.
+
+Stupido ignorante, poiché l’energia della mente e dell’anima.
+
+È confuso, e, come ho dimostrato, anche distrutto interiormente.
+
+Scagliati lontano, distrutti in mille pezzi, tutti quanti.
+
+Con lo stesso veleno. Ma, ancora una volta, dove sta la causa?
+
+Di quella malattia si è parlato molto, in passato e anche di recente.
+
+Le ritirate rilasciano un veleno acuto derivante da strutture corrotte.
+
+Nelle sue tenebrose tane, quell’uomo, all’inizio.
+
+Si alza barcollando, e gradualmente ritrova l’equilibrio.
+
+A tutti i suoi sensi, e alla sua anima che si riprende.
+
+Pertanto, poiché all’interno del corpo umano stesso.
+
+La mente e l’anima, a causa di tali gravi malattie.
+
+Scosso, profondamente turbato nel mio [sforzo](/concepts/labour), distratto.
+
+Allora, perché credere che all’aperto.
+
+Senza un corpo, possono trascorrere la loro vita.
+
+Immortale, che lotta contro i venti più potenti?
+
+E poiché riteniamo che lo stesso intelletto venga guarito.
+
+Come un corpo malato, che può essere ripristinato.
+
+Medicamente parlando, anche questo rappresenta un segnale d’allarme.
+
+È proprio così che l’uomo vive, guidato dal proprio pensiero. È ciò che è giusto.
+
+Chiunque inizi e intraprenda qualcosa.
+
+Per modificare la mente, o per meditare al fine di cambiarla.
+
+Qualsiasi altra natura, in qualunque modo si manifestasse, aggiungerebbe.
+
+Nuove parti, o un riallineamento dell’ordine prestabilito.
+
+O togliere almeno una parte da quella somma.
+
+Ma ciò che è immortale desidera per sé stesso.
+
+Le sue parti non devono né essere aumentate né riorganizzate.
+
+Nessuna parte di esso deve andare perduta o dispersa.
+
+Per modificare qualsiasi cosa al di fuori dei suoi limiti.
+
+Significa la morte immediata di ciò che esisteva prima.
+
+Pertanto, la mente, anche quando colpita dalla malattia,
+
+O forse, grazie alla medicina che lo ha guarito, mostra segni di miglioramento.
+
+Come ho insegnato, della sua mortalità.
+
+Quindi, certamente, un fatto di verità riuscirà ad avere la meglio.
+
+Tutte le teorie che si contrappongono agli errori, e quindi vengono messe da parte.
+
+Tutto ciò che può offrire rifugio dall’avversario, e la sconfitta totale.
+
+Errore che può essere confutato in modo decisivo e diretto.
+
+E poiché la mente di un uomo è costituita da più parti,
+
+Che rimane fermo in un unico luogo, come delle orecchie.
+
+E gli occhi, e ogni senso che guida la vita.
+
+E proprio come la mano, o l’occhio, o il naso, considerati separatamente.
+
+Separato da noi, non può né sentire né esistere.
+
+Ma non resta nemmeno il minimo tempo necessario perché tutto marcisca.
+
+Pertanto, solo la mente non può mai esistere, senza.
+
+Il corpo e l’uomo stesso, che sembra.
+
+Come se fossero lo stesso vaso, o qualcosa del genere.
+
+Qualunque cosa tu voglia fingere, per rendere tutto ancora più strettamente connesso.
+
+Poiché il corpo è strettamente legato alla mente attraverso vincoli indissolubili.
+
+Ancora una volta, le forze vitali del corpo e della mente.
+
+Solo nell’unione si può prosperare e godere veramente.
+
+Poiché né la natura della mente, in quanto tale, né l’io stesso possono.
+
+Senza corpo, fai sì che i movimenti vitali avvengano.
+
+Né, dunque, un corpo privo di anima può sopravvivere.
+
+E utilizzate i sensi. Certamente, proprio come l’occhio.
+
+Da solo, strappato dalle proprie radici, separato.
+
+Dall’intero corpo, non si riesce a vedere nulla intorno.
+
+Quindi sembra che anima e mente non siano in grado di nulla.
+
+Quando da soli. Non c’è da meravigliarsi, perché, mescolati insieme.
+
+Attraverso le vene e l’interno del corpo, attraverso ossa e muscoli.
+
+I loro elementi primordiali sono confinati.
+
+Prigionieri di tutto il corpo, senza alcun potere libero.
+
+Vagare attraverso spazi immensi.
+
+Così, confinati in questi limiti, assumono.
+
+I movimenti dei sensi, che, dopo la morte, vengono abbandonati.
+
+Oltre il corpo, verso i venti dell’aria.
+
+Assumetevi ciò che non sono in grado di fare; e per questo motivo.
+
+Perché non più confinati in quel modo.
+
+Poiché l’aria sarà un corpo, sarà viva.
+
+Se nell’aria quella anima può conservarsi integra.
+
+E in quell’aria sono racchiuse tutte quelle movenze.
+
+Che si manifesti nelle azioni e nel corpo stesso.
+
+Un po’ di tempo fa ne stavo facendo uno. Quindi, per questo.
+
+Di nuovo, ancora una volta, dico che dobbiamo confessare.
+
+Cioè, quando le bende del corpo vengono rimosse.
+
+E quando il respiro vitale viene forzato ad uscire.
+
+L’anima, i sensi dell’intelletto si dissolvono.
+
+Poiché, per entrambi, la causa e il fondamento della vita.
+
+Risiede nel fatto della loro condizione comune.
+
+Ancora una volta, poiché il corpo non è in grado di sostenere.
+
+Separazione dall’anima, senza decadimento.
+
+E quell’odore disgustoso. Come puoi dubitarne?
+
+L’anima, risalita dalle profondità del corpo,
+
+Si è disperso, si è diffuso ampiamente come il fumo.
+
+O che quel corpo mutato, ormai in rovina, cadesse.
+
+Con una rovina così totale, perché, in effetti.
+
+Le sue fondamenta profonde sono state spostate dal loro posto originale.
+
+L’anima si fa strada attraverso ogni ostacolo.
+
+E attraverso ogni angolo e curva del corpo.
+
+E l’apertura? E così, con molti mezzi.
+
+Sei libero di scoprire la natura dell’anima.
+
+Si è diffuso in frammenti lungo tutta la struttura.
+
+E quel tremore si percepiva letteralmente nel corpo stesso.
+
+Quando mai si è staccato e si è allontanato nuotando.
+
+Verso i venti dell’aria. Poiché nessun uomo mai.
+
+Morire sembra significare che l’anima si stacchi dal corpo e vada via.
+
+Come un’unica entità coerente che emerge dall’intero suo corpo nello stesso istante,
+
+Né prima salgono in gola e nella bocca.
+
+Ma si percepisce che in un certo punto fallisca.
+
+Anche se sa che i sensi, anch’essi, finiscono per dissolversi.
+
+Ognuno nella propria posizione all’interno del quadro.
+
+Ma se la nostra mente fosse davvero immortale.
+
+Morire difficilmente significherebbe lamentare la fine di qualcosa.
+
+Ma piuttosto il processo di spogliarsi del proprio “mantello”.
+
+Come una serpente. Pertanto, non appena il corpo.
+
+È scomparso. Dobbiamo ammettere che quella anima.
+
+Tremò in tutto il suo corpo e anche lui morì.
+
+No, anche quando ci muoviamo entro i confini della vita.
+
+Spesso l’anima, ora vacillante per qualche motivo.
+
+Desidera uscire, e rimane integro nella sua struttura originale.
+
+Rilassato, diventa così il volto.
+
+Flaccido, come se l’ora suprema fosse già arrivata.
+
+E poi, in modo debolmente flaccido, tutti i membri si accasciano.
+
+Contro il tronco privo di sangue, quel tipo di custodia.
+
+Lo vediamo quando utilizziamo espressioni comuni.
+
+“Quell’uomo è completamente svenuto”, o “è morto per lo shock”.
+
+E lì dove ora regna un trambusto di allarme,
+
+E tutti sono desiderosi di afferrare qualcosa, di ottenere qualcosa.
+
+L’ultimo legame vitale di quell’uomo. Perché allora, la mente.
+
+E tutta la forza dell’anima viene scossa con tale violenza.
+
+E queste cose oscillano insieme a tutto il resto del sistema.
+
+Che qualsiasi causa, anche solo leggermente più potente, potrebbe.
+
+Scioglierli completamente. Allora, perché dubitare?
+
+Quella anima, una volta separata dal corpo.
+
+Lì, all’aperto, una creatura debole.
+
+Una volta rimosse le sue coperture, non può più resistere.
+
+Non solo perché non esiste alcuna età eterna.
+
+Ma anche, davvero, nemmeno nel più breve lasso di tempo?
+
+Allora, perché mai l’intelletto.
+
+La mente consigliera, nata nella testa.
+
+I piedi, le mani, invece di rimanere immobili.
+
+Verso un solo luogo, un rifugio immutabile: il petto.
+
+Se non fosse per l’assegnazione di luoghi fissi.
+
+Per la nascita di ogni cosa, nel momento in cui viene creata.
+
+È in grado di resistere, e i nostri corpi.
+
+Tali sono i meccanismi di regolazione complessi che nessun cambiamento è possibile.
+
+In quale ordine dovrebbero apparire i nostri membri?
+
+In quel grado, l’effetto riesce a generare la causa stessa.
+
+Né la fiamma, una volta sorta, può essere spenta.
+
+Nei corsi d’acqua che scorrono liberamente, né il freddo nasce dal fuoco.
+
+Inoltre, se l’anima è immortale.
+
+E in grado di percepire, quando separato dal nostro corpo.
+
+Credo che lo stesso si debba ritenere anche in questo caso.
+
+Dotati di cinque sensi, e non esiste alcun modo.
+
+Ma questo modo di rappresentarci mentalmente.
+
+Come gli spiriti più infimi possano vagare nell’Acheronte.
+
+Ecco quindi come pittori e l’antica stirpe dei bardi.
+
+Mi sono immaginato anime dotate di sensi così straordinari.
+
+Ma né gli occhi, né il naso, né la mano, da soli.
+
+Oltre al corpo, anche l’anima può esistere.
+
+Né lingua né orecchie separate. E proprio per questo.
+
+Da soli, non possono né sentire né esistere.
+
+E poiché consideriamo il senso vitale come.
+
+In tutto il corpo, in ogni essere vivente,
+
+Se, all’improvviso, una forza agisse con un movimento rapido.
+
+Dovremmo tagliarlo a metà e dividere in due parti.
+
+Senza dubbio, anche l’anima stessa.
+
+Diviso, separato, scagliato lontano.
+
+Insieme al corpo. Ma ciò che è stato reciso è.
+
+E si divide effettivamente in molte parti diverse.
+
+Ammette di non possedere una natura eterna.
+
+Ascoltiamo parlare di carri da guerra, areek.
+
+Con un massacro furioso, tagliando con falci lampeggianti.
+
+Le membra furono staccate così all’improvviso che, lì.
+
+Caduti dal tronco, tremolano sulla terra.
+
+Mentre la mente e le facoltà dell’uomo.
+
+Non può provare dolore, poiché la sua ferita è stata inflitta con estrema rapidità.
+
+E un totale abbandono, nel fervore della battaglia.
+
+Con la parte rimanente del suo corpo, cerca.
+
 <span class="atom-split" data-atom="020" data-title="BOOK III (parte 5)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Anew the battle and the slaughter, nor marks
@@ -7695,6 +14983,382 @@ For an immortal perils are there none.
 Again, at parturitions of the wild
 
 And at the rites of Love, that souls should stand
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di nuovo battaglie e massacri, senza traccia alcuna.
+
+Come i veloci ruote e le falci della distruzione hanno trascinato via.
+
+Via la sua braccia sinistra e lo scudo.
+
+Nessun altro motivo può spiegare come il suo diritto sia svanito.
+
+Ripartire di nuovo. Un terzo tentativo.
+
+Con le gambe spezzate, si sforzava di alzarsi in piedi.
+
+Mentre, poco lontano da terra, il piede morente.
+
+Muove leggermente le dita dei piedi. E anche la testa.
+
+Quando viene tagliata via dal tronco caldo e vitale.
+
+Mantiene a terra quel volto vitale.
+
+E tenere gli occhi aperti, fino a quando non si sarà ottenuto ciò che si desidera.
+
+Tutti i resti dell’anima. No, ancora una volta:
+
+Se, quando un serpente sfodera la sua lingua.
+
+E agitando la coda, ottieni l’[opportunità](/concepts/fortune) di colpire.
+
+Con un’ascia lunga quanto il tronco, veniva divisa in molte parti.
+
+Vedrai ogni frammento reciso contorcersi intorno.
+
+Con la sua ferita fresca, che schizzava sangue sul prato.
+
+E lì, la parte anteriore si muoveva utilizzando le mascelle.
+
+Dopo l’ostacolo, con un morso per fermare il dolore.
+
+Dunque possiamo dire che queste siano anime complete.
+
+In tutte quelle frazioni. Ma da ciò ne deriverebbe.
+
+Una singola creatura avrebbe nel proprio corpo molte anime.
+
+Pertanto, l’anima, che in realtà era una sola.
+
+È stato diviso anche dal corpo:
+
+Ognuno non è altro che un mortale, poiché tutti sono uguali.
+
+Diviso in molte parti. Ancora una volta, quante volte.
+
+Consideriamo i nostri simili come esseri che evolvono gradualmente.
+
+E, perdendo uno dopo l’altro i sensi vitali.
+
+Prima le unghie delle mani e dei piedi diventano blu.
+
+Prima muoiono i piedi e le gambe, poi il resto del corpo.
+
+I passi sicuri e lenti della morte fredda.
+
+E poiché questa natura dell’anima è lacerata.
+
+Né si allontana più, come un tempo, intero e integro.
+
+Dobbiamo necessariamente considerarlo mortale. Ma forse.
+
+Se ritieni che l’anima stessa.
+
+È possibile attirare verso l’interno lungo la struttura e portarlo qui.
+
+Le sue parti vengono riunite in un unico luogo, e così.
+
+Da tutti questi elementi deriva la distorsione del significato originale.
+
+Allora, perché proprio quel luogo, in cui si trova tale riserva di “anima”.
+
+Ciò che è raccolto appare, in senso logico, di maggiore rilevanza.
+
+Ma poiché un luogo del genere, in realtà, non esiste da nessuna parte.
+
+Come detto in precedenza, è tutto sparpagliato e disperso ovunque.
+
+E così tutto va sotto. O forse, se ora.
+
+Mi compiaccio di concedere l’illusione, e di affermare che quella anima.
+
+Pertanto, possono essere inseriti all’interno dei contesti di quelli.
+
+Coloro che abbandonano la luce del sole, morendo poco a poco.
+
+Anche l’anima, in quanto mortale, deve essere confessata.
+
+Non importa affatto se dobbiamo distruggerlo completamente.
+
+Disperse nei venti, o raccolte in un unico insieme.
+
+In tutte le sue parti, affondi nel più brutale dei morti.
+
+Poiché sempre più, in ogni regione, si percepisce.
+
+Fallisce l’intero essere umano; di conseguenza, anche la vita stessa diventa sempre meno significativa.
+
+In ogni regione persiste.
+
+E inoltre,
+
+Se l’anima è immortale e percorre il suo cammino.
+
+Nel corpo dell’uomo al momento della nascita,
+
+Perché allora non riusciamo a ricordare qualcosa?
+
+Dei momenti trascorsi nella vita, perché non tenerli con noi?
+
+Alcune tracce di ciò che abbiamo fatto, cose vecchie, insomma?
+
+Ma se tale è stata la trasformazione del potere della mente,
+
+Che ogni ricordo di ciò che è stato fatto.
+
+È caduto, e non si trova a grande distanza da noi.
+
+Credo che sia proprio questo ciò che intendiamo per morte.
+
+Pertanto, è certo che ciò che è accaduto in precedenza.
+
+È morto; ciò che esiste ora è qualcosa che è stato creato in questo momento stesso.
+
+Inoltre, se dopo che il corpo è stato formato.
+
+Le potenze vivide della nostra mente non sono destinate ad essere utilizzate.
+
+Proprio nel momento in cui veniamo al mondo,
+
+E se si attraversassero i “limiti” della vita, difficilmente ci starebbe dentro.
+
+Per loro, vivere come se stessero davvero crescendo.
+
+Insieme agli arti e alla struttura fisica del corpo, persino nel sangue.
+
+Ma piuttosto come in una caverna deserta, completamente solitaria.
+
+(Tuttavia, l’intero corpo è pieno di sensazioni.)
+
+Ma i fatti pubblici smentiscono completamente tutto ciò:
+
+Poiché l’anima è strettamente intrecciata con le vene.
+
+La carne, i muscoli, le ossa, persino i denti.
+
+Condividere le stesse sensazioni, come dimostra quel dolore sordo.
+
+A causa del brivido provocato dall’acqua gelida, o per quel suono stridulo e fastidioso.
+
+Su una pietra che finì nella bocca insieme al pane.
+
+Pertanto, ancora e ancora, bisogna ritenere che le anime.
+
+Né privo della nascita, né esente dalla legge della morte;
+
+Né tantomeno, se questi sentieri si snodassero all’interno.
+
+Si potrebbe considerare che siano in grado di separarsi così facilmente?
+
+A questi nostri schemi, né, essendo così intrecciati,
+
+Sembra che siano in grado di procedere avanti.
+
+Intatti, illesi e liberi, si liberarono senza subire alcun danno.
+
+Dai vari tendini, articolazioni e ossa.
+
+Ma se forse pensi che l’anima.
+
+È consuetudine che il percorso si snodi in modo tortuoso verso l’esterno.
+
+Per infiltrarsi e penetrare attraverso questi nostri membri.
+
+Allora tanto più periranno, in questo modo.
+
+Con i corpi fusi insieme – perché ciò che si infiltrerà e si assorbirà.
+
+Si dissolverà e, di conseguenza, morirà.
+
+Poiché, proprio come il cibo, diffuso in tutti i pori.
+
+Del corpo, che attraversava arti e ogni parte del suo scheletro.
+
+Perisce, fornendo da sé stesso la materia necessaria.
+
+Per quanto riguarda altre realtà della natura, come l’anima e la mente.
+
+Sebbene intero e nuovo, fonde in un unico corpo che si muove.
+
+Sono ancora lì, ma si stanno lentamente dissolvendo, infiltrandosi gradualmente.
+
+Mentre, come attraverso pori, tutto il corpo ne è permeato.
+
+Quei particolati da cui tutto è stato creato.
+
+Questa natura mentale, che ora domina il nostro corpo.
+
+Nato da quella anima che perì quando fu divisa.
+
+Lungo il perimetro del quadro. Pertanto, sembra che l’anima.
+
+Ha sia l’ora della nascita che quella della morte.
+
+Inoltre, vi sono semi dell’anima che rimangono indietro.
+
+Nel corpo senza respiro, o forse no? Se ci sono, là si trovano.
+
+Non può essere giustamente considerato immortale.
+
+Poiché alcune parti sono andate perdute, “quello è scomparso”.
+
+Ma se, portati via con membra intatte.
+
+“È completamente scomparso.”
+
+Non lascia alcun residuo di sé stesso.
+
+Se i corpi vengono prodotti da dietro, allora da dove provengono i cadaveri?
+
+Dalla loro carne in decomposizione escono i vermi.
+
+E da dove deriva una tale quantità di esseri viventi?
+
+Senza ossa e senza sangue, su quel corpo gonfio.
+
+Bolla e stormo. Ma se forse pensi.
+
+Che le anime possano trasformarsi in vermi.
+
+E ognuno di essi si trasforma in un corpo separato, così.
+
+E non si chiede perché migliaia di anime.
+
+Raccogliere ciò che è andato via soltanto in un unico luogo.
+
+Ecco un punto, in verità, che sembra richiedere una riflessione più approfondita.
+
+Indagine e verifica.
+
+Se le anime intraprendano una caccia alle semenze.
+
+Di vermi con i quali costruire le loro dimore.
+
+O entrare in corpi già pronti, per così dire.
+
+Ma perché proprio loro dovrebbero comportarsi in questo modo e faticare così tanto?
+
+È difficile dirlo, poiché, essendo privi di corpo.
+
+Si muovono qua e là, senza essere afflitti da alcuna malattia.
+
+Né freddo né fame; poiché il corpo lavora.
+
+Per via di un legame più stretto con questi difetti della vita.
+
+E ricorda che, attraverso il contatto con quel corpo, soffre.
+
+Tanti mali. Ma ammettiamolo: sono tutti per loro.
+
+Per quanto utile possa essere costruire un corpo.
+
+È evidente che non possono affatto entrarvi.
+
+Allora, le anime non si creano né corpi né strutture per sé stesse.
+
+Non esiste nemmeno il modo con cui un tempo avrebbero potuto entrarvi.
+
+Per corpi già pronti, poiché non possono.
+
+Essere ben intrecciati con lo stesso materiale.
+
+E non si verificherà alcuna interazione tra i sensi.
+
+Comune a tutti.
+
+Di nuovo, perché non succede?
+
+Furia impetuosa, simile a quella della razza dei leoni, e malinconia.
+
+E astuto con le volpi. E perché mai dovrebbe esserlo anche con i cervi?
+
+La paura atavica e la tendenza a fuggire.
+
+E, in breve, perché tutti gli altri tratti.
+
+Generare fin dal momento stesso dell’inizio della vita.
+
+Nel comportamento e nella mentalità, se non altro.
+
+Perché una certa capacità mentale che era emersa.
+
+Dalla propria semina e dal proprio lignaggio nasce ciò che è identico a esso.
+
+Insieme a tutto il corpo? Ma anche la mente.
+
+Immortale, se solo volesse cambiare i suoi corpi.
+
+Quanto in modo sconvolto agirebbero le creature della terra!
+
+Il levriero dell’Ircania spesso fuggiva non appena iniziava l’attacco.
+
+Di fronte allo stambo con le corna, l’aquila che correva tremava di paura.
+
+lungo i venti d’aria che accompagnano l’arrivo della colomba.
+
+E gli uomini ameranno appassionatamente, e le bestie feroci diventeranno sagge.
+
+Poiché errato è il ragionamento di coloro che affermano.
+
+La mente immortale cambia con il cambiamento del corpo.
+
+Poiché ciò che cambia si dissolve, e quindi muore.
+
+Poiché le parti vengono riposizionate, ne viene alterata l’ordine originale.
+
+Pertanto, devono anche essere in grado di.
+
+Della dissoluzione, infine, attraverso tutto il corpo.
+
+Che anch’essi, insieme al corpo, periscano completamente.
+
+Ma se qualcuno dovesse dire che sempre le anime degli uomini.
+
+Entrate nei corpi umani, vi chiederò:
+
+Come può un uomo saggio trasformarsi in una persona ottusa e insensata?
+
+E perché mai un bambino possiede una mente prudente?
+
+E perché non addestrare anche la cavalla marina con la stessa cura?
+
+Come la robusta forza di un cavallo. Possiamo esserne certi.
+
+Si rifugeranno nel pensiero che la mente.
+
+Diventa un debole all’interno di un corpo debole.
+
+Anche se fosse così, è necessario ammetterlo.
+
+L’anima è pur mortale; quindi, ora è profondamente cambiata.
+
+In tutto il contesto, perde vita e significato.
+
+Lo aveva già fatto in precedenza. Altrimenti, come potrebbe la mente diventare più forte?
+
+Allo stesso modo del corpo, anche le capacità intellettuali possono essere sviluppate e perfezionate.
+
+Il tanto desiderato “fiore della vita”, a meno che non sia.
+
+Il “collega” del corpo nelle sue origini?
+
+O qual è lo scopo della sua pubblicazione?
+
+Dalle membra invecchiate. Forse teme di dover rimanere lì.
+
+Rinchiuso in un corpo distrutto? O forse, per evitare che la sua casa.
+
+Logoro da un’antichità millenaria.
+
+Potrebbe crollare su di esso. Ma davvero.
+
+Per un immortale, non esistono pericoli.
+
+Ancora una volta, durante i parti delle bestie selvatiche.
+
+E nei riti d’Amore, che le anime possano ergersi.
 
 <span class="atom-split" data-atom="021" data-title="BOOK III (parte 6)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -8086,6 +15750,396 @@ Soon, soon departed, and thereafter, no,
 
 It may not be recalled.” — As if, forsooth,
 
+<span class="qlang-split" data-lang="it"></span>
+
+Essere pronti in modo eccessivo sembra già abbastanza ridicolo.
+
+Immortali in attesa delle loro membra mortali.
+
+In numero innumerevole, lottando follemente.
+
+Qual sarà il primo e principale ad entrare,?
+
+A meno che, forse, tra quelle anime ci sia.
+
+Tali trattati stabilivano che chi arrivasse per primo.
+
+Volando via, entrerà per primo.
+
+E che non esistano alcune rivalità basate sulla forza tra di loro!
+
+Ancora una volta: nell’etere non può esistere un albero.
+
+Né le nuvole nelle profondità degli oceani, né nei campi.
+
+Possono i pesci vivere? E può il sangue esistere nel legno?
+
+Né si sa nelle rocce: immobili e disposte in modo ordinato.
+
+Un luogo in cui tutto può crescere e trovare la propria collocazione.
+
+Pertanto, la natura della mente non può nascere da sola.
+
+Senza il corpo, non esistiamo nemmeno lontano.
+
+Dalla polvere e dal sangue. Ma se fosse possibile.
+
+Piuttosto che altro, proprio questa capacità mentale.
+
+Posizionarsi nella testa, sulle spalle o sui tacchi.
+
+E, pur nato in qualsiasi luogo che sia, tuttavia.
+
+Nello stesso uomo, nel medesimo essere, risiedono entrambi.
+
+Ma poiché, anche all’interno di questo nostro corpo.
+
+Rimane fermo e sembra essere disposto in modo stabile.
+
+Là dove anima e mente possono esistere e crescere ciascuna per sé,
+
+Più ancora dobbiamo negare che possano averlo.
+
+Durata e nascita: entrambe completamente al di fuori di quel contesto.
+
+Poiché, in verità, per l’uomo mortale è possibile unire.
+
+Con l’eterno, e fingendo di provarne sentimenti.
+
+Insieme, e ciascuno può funzionare in relazione all’altro.
+
+Non è altro che un’idolatria; infatti, ciò che può essere concepito.
+
+Più diversi, discordanti, mal assortiti.
+
+Qualcosa di mortale, unito in un’unione.
+
+Con un immortale e uno secolare.
+
+Per affrontare tempeste così violente?
+
+E poi, ancora una volta.
+
+Quello che esiste per l’eternità deve certamente.
+
+O respingere tutti gli attacchi, poiché è così che è stato concepito.
+
+Di forma solida, e che non permetta alcun ingresso.
+
+Di tutto ciò che ha il potere di distruggere dall’interno.
+
+Le parti si compattano, proprio come quei semi di materia.
+
+La cui natura abbiamo già mostrato in precedenza;
+
+Oppure essere in grado di resistere nel corso del tempo.
+
+Per questo motivo: perché sono esenti da colpi.
+
+Così come il vuoto, che rimane intatto e inalterato.
+
+Indomabile di fronte a qualsiasi colpo; o forse perché.
+
+Non c’è spazio intorno, dove le cose possano essere disposte.
+
+Come se tutto dovesse dissolversi.
+
+Proprio come l’insieme di tutti gli infiniti numeri è eterno,
+
+Senza un luogo o una direzione verso cui le cose possano tendere.
+
+Che volino lontano quei corpi capaci di colpire.
+
+E così dissolverli con i colpi del potere.
+
+Ma se forse l’anima dovesse essere giudicata.
+
+Immortale, soprattutto a terra, rimane al sicuro.
+
+Nelle forze vitali – o perché esse sorgono.
+
+In nessun caso, nulla che possa essere ostile al suo bene.
+
+Oppure perché ciò che arriva, in qualche modo, si ritira.
+
+Rifiutandoli, o prima ancora che possiamo percepire il danno che causano.
+
+Perché, inoltre, quando la struttura è malata.
+
+Anche l’anima si offende; spesso accade.
+
+Ciò che lo tormenta riguardo alle cose che devono accadere.
+
+Lo tiene prigioniero del terrore e lo logora con preoccupazioni continue;
+
+E anche quando gli atti malvagi appartengono al passato,
+
+Ancora oggi, quelle vecchie trasgressioni continuano a tormentarci amaramente.
+
+Aggiungiamo anche quella frenesia, tipica della mente umana.
+
+E quell’oblio delle cose che sono state.
+
+Aggiungere la sua immersione nelle onde torbide.
+
+Di sonnolenza e torpore.
+
+La follia della paura della morte
+
+Pertanto, la morte per noi.
+
+Non è nulla e non ci riguarda affatto.
+
+Poiché la natura della mente è sempre mortale.
+
+E proprio come nelle epoche trascorse.
+
+Non provavamo alcun sentimento negativo, nonostante ciò che accadeva intorno a noi.
+
+Alla battaglia si presentò l’esercito cartaginese.
+
+E i tempi, scossi da guerre tumultuose,
+
+Sotto le coste aeree del cielo arcuato.
+
+Tremavano e rabbrividivano, tutta l’umanità.
+
+Si dubitava su quale impero sarebbe caduta la vittoria.
+
+Sia per terra che per mare, anche quando non ci saremo più.
+
+Quando avverrà quella separazione tra il nostro corpo e la nostra anima.
+
+Attraverso di essa siamo plasmati in uno stato unico.
+
+Davvero nulla ci appartiene; quindi, non ci appartiene più nulla.
+
+Può accadere; in tal caso, nulla potrà scuotere i nostri sensi.
+
+No, nemmeno se la terra si mescolasse con il mare.
+
+E il mare con il cielo. Ma se davvero lo sento.
+
+La natura della mente e l’energia dell’anima.
+
+Dopo la loro separazione da questo nostro corpo,
+
+Eppure nulla di tutto ciò riguarda noi, che siamo legati da vincoli.
+
+E il matrimonio tra l’['anima](/axes/soul_body) e il corpo dura per tutta la vita.
+
+Attraverso di essa siamo plasmati in uno stato unico.
+
+E, anche se il tempo continuasse ad “accumularsi” dopo la morte.
+
+La questione dei nostri contesti e di come li organizziamo, tutto ciò.
+
+Di nuovo al proprio posto, come ora. E se ancora una volta.
+
+A noi è stata data la luce della vita. Eppure.
+
+Anche quel processo non ci riguarderebbe affatto.
+
+Non appena la successione naturale dei nostri sensi.
+
+È stato spezzato in due. E ora, proprio qui.
+
+A malapena riusciamo a occuparci di noi stessi.
+
+In precedenza, nemmeno riguardo a loro.
+
+Soffri una grande angoscia. Poiché se tu guardassi.
+
+Indietro, attraverso tutti i giorni del passato.
+
+L’immensità, pensando a quanto sia variegata.
+
+Le movenze della materia, allora potresti ben capire.
+
+Dai anche merito a questo: spesso sono proprio queste “semi”.
+
+Quelli da cui deriviamo oggi erano stati stabiliti in tempi antichi.
+
+Nello stesso ordine in cui si trovano oggi.
+
+Eppure non riusciamo a ricordarlo consapevolmente.
+
+Attraverso la mente che ricorda. Poiché è stato così.
+
+Un intervallo di vita, lungo e significativo.
+
+Tutti questi movimenti si sono dispersi dappertutto.
+
+Dai nostri sensi derivano queste percezioni. Poiché, se dolore e sofferenza.
+
+Forse è proprio verso di lui che si dirige l’uomo.
+
+Il male può accadere solo se lui stesso è presente.
+
+Nello stesso istante. Ma la morte lo impedisce.
+
+Negare la vita a colui che potrebbe causare sovraffollamento.
+
+Tanta irritazione e preoccupazione. E ammesso che si voglia davvero saperlo.
+
+Nella morte non c’è nulla che possa spaventarci.
+
+Nessuna miseria per colui che non è più tra noi.
+
+Lo stesso stato in cui sembrava non essere mai esistito prima.
+
+Quando la morte immortale ha preso la vita mortale.
+
+Pertanto, quando vedi un uomo che soffre.
+
+Quando muore, marcisce mentre il suo corpo viene sepolto.
+
+O perisce tra le fiamme o nelle fauci delle belve.
+
+Sappi bene: non corrisponde alla verità, e ciò che c’è sotto.
+
+Continua a infliggere un dolore invisibile nel suo cuore.
+
+Tuttavia, nega di credere in ciò che afferma.
+
+Dopo la morte, egli proverà qualcosa, un qualche sentimento.
+
+Perché, credo, lui stesso non crede in ciò che afferma.
+
+Né ciò che ciò presuppone, e fallisce.
+
+Strapparsi via, con tutte le proprie radici, dalla vita.
+
+E gettare via quel sé stesso, completamente all’improvviso.
+
+Fingendo che ne sia rimasto ancora del resto.
+
+Perché, nella vita, quando ci si immagina.
+
+Il suo corpo, dilaniato da bestie e avvoltoi, giaceva morto.
+
+Si compiange della propria condizione, senza mai separarsi da sé stesso.
+
+Di conseguenza, non si riesce a liberarsi abbastanza dal proprio “io”.
+
+Distaccato dal corpo, immaginando.
+
+Quell’uomo stesso era quel corpo, e da esso si proiettava.
+
+La sua stessa percezione, nel momento in cui si trova al suo fianco: ecco da dove deriva.
+
+Si addolora per essere nato mortale, senza alcun segno distintivo.
+
+Che nella vera morte non esista un secondo io.
+
+Vivo e in grado di provare dolore per ciò che ho distrutto da solo.
+
+O restare lì a lamentarsi che il proprio “io” si trovi in quel luogo.
+
+Distrutto o bruciato. Poiché, se si tratta di un male.
+
+Disposto a non essere più manipolato da mascelle e zanne.
+
+Tra quelle bestie selvagge, non vedo perché non dovrebbe essere.
+
+È amaro giacere sulle fiamme e arrostire tra le lingue di fuoco.
+
+O soffocare nel miele, e, sdraiati.
+
+Su quella liscia lastra di ghiaccio, allungata e rettangolare.
+
+Rigidisci nel freddo, o affonda sotto il peso della terra.
+
+Una pressione schiacciante dall’alto.
+
+Ora non più.
+
+La casa piena di gioia e le migliori mogli accoglieranno con favore.
+
+Nemmeno i bambini corrono ad afferrare i loro baci.
+
+E lascia che una felicità silenziosa tocchi il tuo cuore.
+
+Non dovrai affrettarti più nelle tue imprese.
+
+Non essere più tu stesso il custode di te stesso.
+
+“Povero disgraziato,” dicono, “una sola ora ostile gli è stata fatale.”
+
+“Miserabilmente, da te vengono tutti i beni della vita, ”
+
+Ma non aggiungere: “e ormai più non per te”.
+
+Rimane ancora un desiderio per loro.
+
+Se solo riuscissero a comprenderlo pienamente con la mente.
+
+E, affiancati da massime, avrebbero potuto liberarsi.
+
+Il loro stato umano, caratterizzato dall’angoscia e dal terrore.
+
+“O anche come tu sei qui, addormentato nella morte, ”
+
+E così potrai riposare per il resto del tempo.
+
+Liberati da ogni tormento angoscioso. Ma noi,
+
+Ti abbiamo pianto con un lutto incessante e inesauribile.
+
+In piedi accanto, mentre si trovava su quella terribile pira.
+
+Sei stato ridotto in cenere; e nessun giorno potrà cancellare ciò che è accaduto.
+
+Per noi, quel dolore eterno che proviene dal petto.
+
+Ma chiedete al dolente quale sia la amarezza che prova.
+
+Che quell’uomo debba sprecare la sua vita in un dolore eterno.
+
+Se, dopotutto, tutto ciò non è altro che sonno e riposo?
+
+Perché quando anima e corpo vengono entrambi travolti.
+
+Nel sonno, nessuno esige più di sé stesso.
+
+O forse essere. Beh, questo sonno potrebbe durare per sempre.
+
+Senza alcun desiderio di una personalità individuale,
+
+Poiché tutto ciò non ha alcuna rilevanza per noi, che siamo addormentati.
+
+Eppure, in nessun modo quei germi primordiali.
+
+Vagavano tra i nostri membri, in quel lontano periodo.
+
+Dai loro stessi movimenti, che generano i nostri sensi.
+
+Poiché, quando un uomo viene svegliato improvvisamente dal sonno.
+
+Riprende i sensi. Allora, per noi, la morte è.
+
+Ancor meno, se mai esiste qualcosa di ancora meno di così.
+
+Il quale, in realtà, non è nulla; poiché poi arriva.
+
+Subito dopo la morte, un’altra grande dispersione.
+
+Tra la folla di materia, nessuno si sveglia.
+
+Su colui che una volta cade quella gelida pausa della vita.
+
+Anche questo, oh, spesso gli uomini lo dicono dal profondo dell’anima.
+
+Mentre seduti sui loro divani tenevano in mano le tazze.
+
+Con i volti ombreggiati da freschi mazzi di fiori disposti in modo irregolare.
+
+“Breve è questo frutto della gioia per l’uomo meschino.
+
+Se ne andò presto, molto presto. E dopo di allora, no, più nulla.
+
+“Forse non è possibile ricordarlo.” – Come se, davvero.
+
 <span class="atom-split" data-atom="022" data-title="BOOK III (parte 7)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 It were their prime of evils in great death
@@ -8474,6 +16528,394 @@ In perils and alarms? one fixed end
 
 Of life abideth for mortality;
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quella fu l’epoca più tragica dei loro mali, un momento di morte e distruzione su larga scala.
+
+Per poter parcheggiare, povere lingue, assetate e afflitte dalla siccità.
+
+O lamentarsi per qualsiasi mancanza.
+
+Ancora una volta: se la Natura.
+
+Se improvvisamente una voce si diffondesse all’esterno.
+
+E lei stessa ci rimprovera in questo modo:
+
+“O mortale, che cosa ti preoccupa così profondamente?”
+
+Che ti abbandoni a lamentele eccessivamente malinconiche?
+
+Perché tutto questo lamento e pianto per la morte?
+
+Perché, se la tua vita nel passato e in futuro.
+
+Era grato verso di te, non per tutto ciò che era buono in te.
+
+Era stato ammucchiato come in una cerniera, pronto a scorrere via.
+
+E perire invano, perché no?
+
+Anche come un convitato a una festa, lascia le sale.
+
+Carico di vita, perché non anche di soddisfazione mentale?
+
+O tu sciocco, vuoi davvero godere di questo riposo senza preoccupazioni?
+
+Ma se tutto ciò che hai goduto è stato.
+
+Disperatamente sprecata e persa. Ora la vita stessa è un’offesa.
+
+Perché cercare di aggiungere altro, se ciò, a sua volta.
+
+Perirà in modo orribile e tutto sarà vano?
+
+O perché non porre semplicemente fine alla vita.
+
+Del [lavoro](/concepts/labour)? Per quanto io possa immaginare o scoprire.
+
+Rallegrarti non è nulla: tutto è.
+
+Sempre lo stesso, per sempre. Anche se non ancora il tuo corpo.
+
+Le rughe arrivano con gli anni, ma il corpo non si esaurisce mai.
+
+Logorate, le cose rimangono uguali, anche se.
+
+Continuerai a conquistare tutto il tempo.
+
+“Con l’allungarsi dei giorni, sì, anche se non morissi mai, ”
+
+Qual era la nostra risposta, se non che la Natura qui.
+
+Insiste affinché si adotti semplicemente ciò che è giusto, e con queste parole stabilisce chiaramente.
+
+La vera causa dell’azione legale. Eppure, dovremmo forse lamentarci?
+
+Più maturo negli anni e più anziano, si lamenta.
+
+Povero diavolo. La sua morte è stata più tragica di quanto sia giusto.
+
+Allora, non avrebbe lei, con ancora maggior diritto, su di lui.
+
+Grida, esprimendo la tua indignazione con una voce ancora più stridula:
+
+“Lascia perdere le tue lacrime e smetti di lamentarti, buffone!”
+
+Tu ti arricci la fronte, dopo aver ricevuto quella somma.
+
+Dei doni della vita. Eppure, poiché tu li desideri sempre.
+
+Ciò che non è immediatamente a disposizione, disprezzando il bene presente.
+
+Che la vita sia svanita, imperfetta.
+
+E inutile per te. E ora.
+
+O prima ancora che tu possa indovinarlo, la morte sarà accanto a te.
+
+Resta fermo, prima ancora che tu possa tornare a casa.
+
+Sazi e carichi del delizioso banchetto.
+
+Ma ora abbandona tutto ciò che è estraneo alla tua età.
+
+Alzati, con buona grazia, fai spazio ai figli: è tuo dovere.
+
+Giustamente, penso, lei ragionerebbe in questo modo.
+
+È giusto indignarsi e prepararsi alla lotta: fin dai tempi antichi.
+
+Il vecchio, sopraffatto dal nuovo, cede il posto, e così via all’infinito.
+
+L’unica cosa, tra tutte le altre, è stata riparata.
+
+Nessun uomo viene abbandonato nell’abisso.
+
+Del Tartaro, nero. Poiché le cose devono necessariamente esistere.
+
+E così le generazioni future crescono.
+
+Anche se questi, con la loro vita ormai conclusa, ti seguono.
+
+E così, proprio come te, sono tutte le generazioni.
+
+Già caduto, o destinato a cadere in breve tempo.
+
+Così, da una cosa ne deriva sempre un’altra.
+
+Nella vita di semplice possesso, nulla viene concesso a nessuno.
+
+Ma soltanto per un semplice uso fruttuoso.
+
+Riflettiamo sul passato:
+
+Niente di ciò che ci accadeva era già stato previsto in precedenza.
+
+Del tempo eterno, prima ancora che noi nascessimo.
+
+E la Natura lo mostra, come se fosse uno specchio levato davanti ai nostri occhi.
+
+Del tempo che verrà, quando noi saremo morti e scomparsi.
+
+E allora, cosa c’è di così terribile in tutto ciò?
+
+Allora, qual è il motivo di tutto questo dolore?
+
+Non è forse più tranquillo di qualsiasi sonno?
+
+E, in verità, quelle torture di cui si dice.
+
+Nell’Acheronte, nelle profondità abissali, tutti appartengono a noi.
+
+Qui, in questa vita. Nessun Tantalo, nessuna sofferenza insopportabile.
+
+Con un terrore senza fondamento, come raccontano le favole.
+
+Teme quel enorme masso sospeso nell’aria.
+
+Ma, piuttosto, nella vita esiste una paura vuota e senza fondamento nei confronti degli Dei.
+
+Incita alla mortalità, e ognuno ne ha paura.
+
+Un simile declino della fortuna può [capitare](/concepts/fortune) a chiunque.
+
+Né lasciare che i falchi divorino Tizio.
+
+Prostrati nell’Acheronte, non riescono nemmeno a trovarlo.
+
+Certamente, attraverso eterni secoli, nulla.
+
+Per cercare qualcosa in quel possente petto.
+
+Per quanto possa aumentare enormemente la propria massa.
+
+Chi, con braccia e gambe così estese da coprire ben nove acri.
+
+Ma l’intera terra, non ne sarà in grado.
+
+Sopportare un dolore eterno senza fornire alcun nutrimento.
+
+Per sempre, all’interno del suo stesso contesto. Ma per noi.
+
+Colui che viene divorato dai falchi è chiamato Tito.
+
+Prostrato d’amore, divorato da un’angoscia ansiosa.
+
+Chi è tormentato da desideri non appagati.
+
+Divisi. Davanti ai nostri occhi.
+
+Anche in questa vita esiste un Sisifo.
+
+Nella persona che cerca di guadagnarsi il favore della gente.
+
+Le bacchette, gli assi caddero, e così fu per sempre.
+
+Si ritira come un uomo sconfitto e cupo.
+
+Poiché cercare il potere, è solo un nome vuoto.
+
+Non è mai stato dato, né mai è stato cercato.
+
+Per sopportare un mondo di fatiche. Ecco ciò che è necessario.
+
+Spingere una pietra in cima alla collina usando la spalla
+
+Eppure ritorna indietro, rotolando giù dal vertice.
+
+E si dirige dritto verso i livelli della pianura.
+
+Allora, alimentare costantemente un’anima ingrata.
+
+Riempito di cose buone, mai del tutto soddisfacente.
+
+Così come le stagioni dell’anno per noi,
+
+Quando torneranno e porteranno con loro le loro discendenze.
+
+E mille diversi incanti, ma mai siamo saziati.
+
+Con i frutti della vita. Oh, credo che questo sia.
+
+Versare, come quelle giovani vergini della storia.
+
+Acque che scorrono attraverso un setaccio, mai colmate del tutto.
+
+Cerbero e le Furie, e quella mancanza di luce.
+
+Tartaro, che vomitava fuori dalla bocca quelle onde tumultuose.
+
+Di un calore terribile, che non esiste da nessuna parte, né.
+
+Infatti, può essere così; ma in questa vita c’è la paura.
+
+Di punizioni giuste e espiazioni meritate.
+
+Per le azioni malvagie: la prigione e il salto nel vuoto.
+
+Da quella terribile roccia dell’infamia, quelle strisce.
+
+Gli esecutori, la graticola di quercia.
+
+Le piastre di ferro, il bitume e la torcia.
+
+E anche se queste cose sono assenti, tuttavia la mente.
+
+Con una coscienza piena di timori, esercita la sua pressione su di noi.
+
+E brucia sotto la frusta, senza però accorgersene in quel momento.
+
+Qual fine alle sofferenze, qual termine alla desolazione.
+
+Potrà mai accadere, e teme che ciò possa verificarsi.
+
+Ma diventano ancora più pesanti dopo la morte. In verità,
+
+La vita degli sciocchi è un vero e proprio “Acheronte” in terra.
+
+Anche questo, a volte, riguarda te stesso.
+
+Puoi ripetere quanto segue: “Ecco, persino il nobile Ancus lasciò, ”
+
+Il sole, attraverso i suoi occhi, nelle varie cose.
+
+Un uomo migliore di te, o inutile individuo.
+
+E molti altri re e signori che esercitavano il potere.
+
+Da allora, molti di coloro che un tempo esercitavano potere sono scomparsi.
+
+Su popoli potenti. E anche lui, lui.
+
+Chi un tempo costruì una strada attraverso il mare.
+
+E concesse ai suoi legionari il libero passaggio.
+
+Lungo le profondità, e insegnò loro come attraversarle.
+
+Le pozze di sale presenti sul terreno venivano disprezzate.
+
+Calpestandolo con la sua cavalleria,
+
+I ruggiti dell’oceano, inondarono la sua anima.
+
+Dall’ corpo morente, poiché la sua luce era stata spenta.
+
+E il figlio di Scipione, la saetta della guerra.
+
+L’orrore di Cartagine fece sì che le sue ossa venissero sepolte nella terra.
+
+Come il più umile servitore di questa casa.
+
+Aggiungiamo coloro che cercano e scoprono nella scienza e nell’arte.
+
+Aggiungiamo anche le compagne delle dame di Elide.
+
+Tra questi, Omero, che dominava su tutti loro.
+
+Ora giace nel sonno, sommerso insieme agli altri.
+
+Anche allora, Democrito, quando raggiunse la maturità.
+
+Gli fu ricordato che la sua memoria stava declinando.
+
+Di sua spontanea volontà offrì la propria vita in cambio della morte.
+
+Anche Epicuro, la luce della sua vita.
+
+Se n’era andato, quel genio che aveva superato tutti gli altri.
+
+La specie umana, estinguendo tutte le altre.
+
+Come il sole che sorge nell’etere, così tutte le stelle.
+
+Allora, perché esitare, perché lamentarti se vuoi andare?
+
+Per coloro per i quali la vita è già come la morte.
+
+Mentre ancora vivi e guardi, chi, nel sonno.
+
+Rischiare di sprecare la maggior parte della propria vita, e poi dormire ancora di più.
+
+Anche quando si è svegli, e non si smette mai di vedere.
+
+Materie dei sogni, e un’anima assillata da pensieri tormentosi.
+
+Con terrore infondato, spesso non si riesce a scoprire nulla.
+
+Che ti succede, quando, come un miserabile ubriaco.
+
+Sei spinto avanti da molte preoccupazioni che si accumulano una dopo l’altra.
+
+E vaghi in cerchio, confuso e stordito, con la mente in tumulto.
+
+Se gli uomini, nello stesso modo in cui avviene nella mente.
+
+Percepiscono quel peso che li stanca con la sua intensità.
+
+Si potrebbero anche conoscere le cause da cui esso deriva.
+
+E perché mai un così grande peso di dolore nel cuore.
+
+Non è certo in questo modo che avrebbero vissuto la loro vita.
+
+Ora che li vediamo così spesso, non sappiamo ancora nulla di loro.
+
+Cosa vogliono, e continuano a cercare senza sosta.
+
+Un cambio di luogo, come se volessimo liberarci del peso.
+
+L’uomo che si stanca della sua casa esce.
+
+Uscendo dalle sue splendide sale, e dritto via, torna indietro.
+
+Sentivo che la mia fede non migliorava all’estero.
+
+Corre veloce, guidando i suoi cavalli gallici lungo la strada.
+
+Giù, verso la sua villa, con frenesia, come se fosse in fretta.
+
+Affrettarsi ad aiutare una casa in fiamme. Subito.
+
+Appena i suoi piedi toccano la soglia, sbadiglia.
+
+O si addormenta sonnolentamente e cerca.
+
+Dimenticanza, o forse solo un gran trambusto intorno.
+
+E poi ritorna in città. In questo modo.
+
+Ogni essere umano fugge da se stesso: un sé, in realtà.
+
+Come capita spesso, lui non può assolutamente sfuggire.
+
+E, volente o no, vi si attacca con ostinazione e ne prova avversione.
+
+Malato, malato, e senza alcuna idea della causa del male.
+
+Eppure, se solo potesse vedere, soprattutto in quel momento.
+
+A parte tutto il resto, avrebbe studiato per cercare di comprendere.
+
+La natura delle cose, poiché è oggetto di dibattito qui.
+
+Il tempo eterno, e non un singolo istante.
+
+Il patrimonio del mortale, in ciò che ancora rimane.
+
+Dopo una grande morte.
+
+E inoltre, a dire il vero.
+
+Che terribile e malvagia brama di vita sia questa.
+
+Ci sottomette alla vita, in modo così terribilmente distolto da ogni pensiero razionale.
+
+In pericoli e minacce, un solo obiettivo fisso.
+
+Della vita rimane qualcosa per la mortalità;
+
 <span class="atom-split" data-atom="023" data-title="BOOK III (parte 8)" data-chapter="BOOK III" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Death’s not to shun, and we must go to meet.
@@ -8517,6 +16959,50 @@ And he who died with light of yesterday
 Shall be no briefer time in death’s No-more
 
 Than he who perished months or years before.
+
+<span class="qlang-split" data-lang="it"></span>
+
+La morte non è qualcosa da evitare; dobbiamo andarle incontro.
+
+Inoltre, siamo impegnati con gli stessi dispositivi.
+
+Per sempre, e noi siamo sempre con loro.
+
+E non esiste alcuna nuova gioia che possa essere creata.
+
+Continuando a vivere. Ma mentre ciò che desideriamo.
+
+Ciò che manca, sembra essere proprio ciò che è più importante di ogni altra cosa.
+
+In seguito, quando lo abbiamo toccato, qualcos’altro.
+
+Aneliamo, con una sete eterna e uguale di vita.
+
+Ci lascia sbalorditi. E difficile è capire quale sia la volontà del destino.
+
+I tempi futuri potrebbero portare, o forse no.
+
+Quella [possibilità](/concepts/fortune) potrebbe portare, o cosa ne deriverà in seguito.
+
+Ci aspetta. E nemmeno prolungando la vita.
+
+Se togliamo anche solo un istante al tempo stesso della morte.
+
+Né possiamo estrarre un singolo istante dal corso del tempo, attraverso il quale.
+
+Per ridurre all’essenziale gli eoni del nostro stato di morte.
+
+Pertanto, o uomo, continuando a vivere, adempisci a questo dovere.
+
+Per quante generazioni tu voglia.
+
+Lì attende ancora la morte eterna.
+
+E colui che morì sotto la luce di ieri.
+
+Non ci sarà un lasso di tempo più breve nel regno della morte.
+
+Peggio di colui che è morto mesi o anni prima.
 
 <span class="atom-split" data-atom="024" data-title="BOOK IV (parte 1)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -8918,6 +17404,406 @@ Stream back to us; and howso suddenly
 
 Thou place, at any instant, anything
 
+<span class="qlang-split" data-lang="it"></span>
+
+PROEMIO
+
+Vago lontano da qui, prosperando nel corso di riflessioni solide e profonde.
+
+Attraverso luoghi solitari e inesplorati delle Pieridi.
+
+Calpestata da nessuno prima d’ora. Ne gioisco.
+
+Per giungere lì da sorgenti incontaminate.
+
+Per svuotarli completamente. Mi compiace cogliere fiori nuovi.
+
+Per cercare questo, la mia testa indossa una corona di segnali.
+
+Dalle regioni dove le Muse non sono mai esistite.
+
+Hai adornato i tempie di un uomo con ghirlande.
+
+Innanzitutto, poiché insegno su argomenti di grande importanza.
+
+E continuare senza indugio, liberando la mente da ogni vincolo.
+
+Le strette spire della religione del terrore.
+
+In seguito, poiché, riguardo a temi così oscuri, io li presento in un determinato contesto.
+
+Una canzone così chiara e commovente in ogni sua parte.
+
+Anche con il fascino delle Muse – che, a quanto pare.
+
+Non è privo di fondamenti ragionevoli.
+
+Poiché, in qualità di medici, quando cercano di fornire.
+
+I giovani ragazzi, per primi, toccano quella disgustosa erba amara.
+
+Il bordo della coppa è pieno di succo dolce.
+
+E il giallo del miele, affinché.
+
+L’età insensata dell’infanzia deve essere guidata con dolcezza.
+
+Per quanto riguarda le labbra, e nel frattempo, ingoiare tutto.
+
+Il amaro sorso dell’assenzio, e, nonostante fossimo ingannati,
+
+Non essere semplicemente ingannato, ma piuttosto in questo modo.
+
+Riacquistate la forza e una salute rigenerata:
+
+Quindi ora anch’io, poiché questa sembra essere la mia dottrina.
+
+Nel complesso, una situazione piuttosto tragica per coloro che.
+
+Chi non l’ha avuto tra le mani, e da allora, la folla.
+
+Coloro che hanno desiderato farlo con orrore.
+
+Per esporre la nostra dottrina a te attraverso la musica
+
+Di voce dolce e melodiosa, e, come se fosse.
+
+Toccarlo con il dolce miele della Musa.
+
+Se con tale [METODO](/axes/method) potessi, per caso, riuscire a comprendere.
+
+La tua mente, di fronte a queste nostre riflessioni.
+
+Finché non avrai compreso la natura di tutte le cose.
+
+E comprendi la loro [utilità](/positions/utility_pleasure).
+
+ESISTENZA E CARATTERE DELL’IMMAGINE
+
+Ma poiché ho già parlato di che tipo.
+
+I semi di tutte le cose esistono, e quanto diversi sono tra loro!
+
+Si muovono in diverse forme, di loro spontanea volontà.
+
+Mescolato da un movimento eterno e continuo.
+
+E in quale modo le cose, partendo da esse, vengono create.
+
+E poiché ho insegnato quale sia la natura della mente,
+
+E di quali cose è fatto il corpo umano.
+
+E prospera nella forza, e con quale mezzo viene sollevata.
+
+Quel pensiero ritorna alle sue origini primordiali.
+
+Ora intraprenderò un argomentazione.
+
+Per quanto riguarda queste questioni di estrema importanza.
+
+Esistono certe cose che chiamiamo.
+
+Le immagini delle cose: queste, simili ai film.
+
+Misurando tutto rispetto ai limiti estremi delle cose stesse.
+
+Vola avanti e indietro nell’atmosfera.
+
+E lo stesso spaventa i nostri intelletti.
+
+Che ci colga mentre siamo svegli o mentre dormiamo.
+
+Quando spesso osserviamo forme meravigliose e strane.
+
+E immagini di persone prive di luce.
+
+Quegli eventi che spesso ci hanno scosso profondamente quando eravamo tranquilli.
+
+Nel sonno, che forse non torneremo mai più da esso.
+
+Supponiamo che le anime riescano a liberarsi da Acheronte.
+
+O ombre fluttuano tra i vivi.
+
+O forse, alla morte, nulla di noi rimane indietro.
+
+Quando corpo e mente vengono distrutti insieme, ognuno di loro.
+
+Torna alle sue origini primordiali e scompare.
+
+E quindi dico che le rappresentazioni delle cose.
+
+E forme tenue vengono emesse da quelle cose.
+
+Dall’estremo margine delle cose.
+
+Che sono come film o che possono essere definiti “foglie esterne”.
+
+Poiché l’immagine presenta lo stesso aspetto e la stessa forma.
+
+Con quale che corpo sia stato espulso, esso si diffonde tremolando.
+
+Un fatto che, per quanto tu possa essere stupido, devi riconoscere.
+
+Imparate bene da questo: soprattutto perché vediamo.
+
+Anche tra gli oggetti visibili, molti possono essere.
+
+Che emettono corpi, alcuni dei quali diffusi in modo disordinato.
+
+Come il fumo che si sprigiona dai tronchi di quercia e il calore delle fiamme.
+
+E ancora di più intrecciati e condensati.
+
+Proprio come le cavallette in estate.
+
+Lasciate da parte le loro tuniche lucide, o quando i vitelli.
+
+Al momento della nascita, delle membrane si staccano dalla superficie del loro corpo.
+
+O quando, ancora una volta, quel serpente astuto si spoglia.
+
+I suoi abiti, tra i rovi, poiché spesso li vediamo.
+
+I fratelli arricchirono le loro ricchezze grazie ai bottini ottenuti volando.
+
+Poiché ciò avviene, è altrettanto certo anche.
+
+Che immagini tenue di cose vengano inviate.
+
+Dall’estremo esterno delle cose stesse.
+
+Perché tali cose dovrebbero abbandonare e separarsi dalle altre.
+
+Piuttosto che essere deboli e fragili come gli altri.
+
+Nessuna forza umana ha il potere di aprire bocca per raccontare.
+
+In particolare, poiché all’esterno delle cose.
+
+Esistono forse molti corpi minuscoli che potrebbero.
+
+Nello stesso ordine in cui erano prima.
+
+E con la loro forma fisica intatta.
+
+Essere gettati all’estero, e anche molto più rapidamente di così.
+
+Essendo meno soggetti ad ostacoli,
+
+Pochi in numero e disposti lungo la linea di fronte.
+
+Perché, in effetti, molte cose che vediamo si manifestano o si realizzano nel corso del tempo.
+
+Le loro cose, in generale, non solo i loro nuclei.
+
+Profondamente radicato all’interno di noi, come abbiamo detto sopra.
+
+Ma a volte, anche dalle loro superfici.
+
+Anche i loro colori, in genere.
+
+Le tettoie, di colore zafferano, rosso e blu scuro.
+
+Distese sopra le teste nei grandi teatri,
+
+Sulle loro aste e travi trasversali sventolavano.
+
+Compiete davvero un’azione del genere. Lì, infatti, tingono i capelli.
+
+E far sì che ondeggiino con tutte le loro sfumature.
+
+La folla raccolta sotto, e l’intera scena.
+
+E abiti lussuosi nei posti riservati ai patrizi.
+
+E più ancora, le oscure pareti del teatro.
+
+Intorno a loro tutto si chiudeva, ancora di più tutte le cose all’interno.
+
+Ridete nella luce abbagliante di quei strani bagliori.
+
+La luce del giorno stava svanendo. E quindi, poiché.
+
+Le tele appese in questo modo rilasciano così il loro colore.
+
+In generale, le cose, osservate dal loro esterno, devono necessariamente.
+
+Allo stesso modo, le loro fragili immagini irradiano.
+
+Perché in entrambi i casi vengono scagliati via.
+
+Apparentemente sì. Quindi, in effetti, esistono.
+
+Tali impronte e tracce sicure di forme.
+
+Quegli esseri che volano intorno, di una consistenza estremamente sottile.
+
+Invisibili, quando separati, ciascuno di essi.
+
+Ancora una volta: ogni odore, fumo, calore e simili.
+
+Scorre diffusamente dalle cose, perché.
+
+Mentre emergeva dalle profondità del corpo.
+
+E sollevandosi, lungo la loro traiettoria sinuosa.
+
+Sono divisi in due parti, e non esistono vie d’accesso dirette.
+
+Per radunarsi in massa e lottare all’esterno.
+
+Ma al contrario, quando una tale sottile pellicola.
+
+Se si elimina ogni elemento di colore esterno, non rimane nulla.
+
+Posso riprodurlo, poiché è posizionato sul davanti.
+
+Pronte all’uso. Infine, quelle immagini.
+
+Quelli che ai nostri occhi appaiono nei riflessi degli specchi.
+
+In acqua, o su qualsiasi superficie lucida,
+
+Deve essere così, poiché dotato dello stesso aspetto delle cose.
+
+Formate attraverso le immagini di cose che vengono inviate.
+
+Esistono quindi deboli rappresentazioni di forme.
+
+Simili a coloro che nessuno è in grado di prevedere.
+
+Quando presi singolarmente, quelli che tuttavia restituiscono.
+
+Quando, attraverso un flusso continuo e ricorrente.
+
+Espulso, un’immagine proveniente dal piano dei riflessi.
+
+Non sembra che ci sia alcun altro modo per tenerli sotto controllo.
+
+Così ben conservato da poter essere restituito così com’è.
+
+Le figure assomigliano molto a ogni singolo oggetto.
+
+Allora, impara.
+
+Quanto fragile è la natura di un’immagine.
+
+E innanzitutto, poiché gli esseri primordiali sono.
+
+Così lontano dai nostri sensi, e ancora di più.
+
+Anche quegli oggetti che iniziano a crescere.
+
+Troppo piccolo perché gli occhi possano notarlo. Impara ora, in pochissimo tempo.
+
+Quanto sono belle le origini di tutte le cose.
+
+Anche questo posso ancora confermare come prova concreta:
+
+Innanzitutto, le creature viventi a volte sono così piccole.
+
+Che nemmeno la loro terza parte possa essere vista in alcun modo.
+
+Giudicate quindi la dimensione di qualsiasi organo interno.
+
+E che dire del loro cuore, dei loro occhi, delle loro membra?
+
+Lo scheletro. Quanto sono piccoli, in realtà!
+
+E, oltre a quelle prime particelle.
+
+Dove, allora, devono essere formate l’anima e la mente? – Non lo vedi forse?
+
+Che bello, e così minuto. Inoltre, qualsiasi cosa.
+
+Dalla sua bocca esce un odore pungente.
+
+L’aspirina nauseabonda, o la panacea.
+
+Il robusto “southernwood”, o il “bitter centaury”.
+
+Se mai, con tanta leggerezza, con le tue due dita.
+
+Forse toccherai uno di loro.
+
+Allora, perché non cercare di comprendere che le immagini.
+
+Volano avanti e indietro, molti di loro, in modi diversi.
+
+Senza corpo e invisibile?
+
+Ma affinché non.
+
+Speriamo che tu ritenga che quelle immagini.
+
+Quelli che provengono dagli oggetti sono gli unici ad essere in movimento costante.
+
+Infatti, ci sono altri che lo fanno di loro spontanea volontà.
+
+Nato e formato nei cieli azzurri della Terra.
+
+Che, plasmato in innumerevoli forme,
+
+Vengono sollevati in alto e, essendo fluidi com’è loro natura,
+
+Non cessare mai di cambiare aspetto e di trasformarti.
+
+In nuove forme e configurazioni di ogni genere.
+
+Mentre osserviamo le nuvole addensarsi in alto.
+
+E offusca quella serena visione del mondo.
+
+Movimenti che accarezzano l’aria. Poiché spesso si vedono.
+
+I volti dei giganti si allontanavano lontano nel cielo.
+
+E lasciando dietro di sé una scia d’ombra; e a volte.
+
+Le imponenti montagne e le rocce frantumate dalle montagne.
+
+Andando avanti e attraversando sotto il sole.
+
+In seguito, una bestia mostruosa iniziò a trascinarsi avanti con forza.
+
+E guidando le altre nubi temporalesche.
+
+Ora ascoltate quanto siano semplici e rapidi.
+
+Generati e che continuano a scorrere incessantemente.
+
+Le cose e i movimenti fluidi svaniscono.
+
+Per sempre, ogni flusso esterno si disperde.
+
+Tra tutti gli oggetti, quelli che possono essere scaricati.
+
+E quando questo “esterno” entra in contatto con altre cose,
+
+Essendo composto principalmente di vetro, lascia passare la luce; ma in quei punti.
+
+Arriva fino alle rocce ruvide o ai pezzi di legno.
+
+È talmente usurpato che non può essere restituito.
+
+Un’immagine. Ma quando oggetti densi e scintillanti.
+
+Poiché davanti ad esso sono stati posizionati principalmente specchi,
+
+Niente del genere accade. Perché non è possibile.
+
+Vai, come se attraversassi del vetro, eppure non essere spezzato; la sua sicurezza.
+
+Grazie a quella fluidità, ne siamo certi.
+
+Ecco perché da loro derivano queste immagini.
+
+Ritorna da noi, e in modo così improvviso.
+
+In qualsiasi momento, puoi posizionare qualsiasi cosa.
+
 <span class="atom-split" data-atom="025" data-title="BOOK IV (parte 2)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Before a mirror, there an image shows;
@@ -9299,6 +18185,388 @@ From mirror into mirror handed on,
 Until of idol-films even five or six
 
 Have thus been gendered. For whatever things
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di fronte a uno specchio, appare un’immagine.
+
+Dimostrare che, da sempre, dalla superficie di un corpo.
+
+Scorre lungo le superfici sottili e le forme snelle delle cose.
+
+Così, molte immagini appaiono in poco tempo.
+
+Hanno un genere specifico; per questo la loro origine viene denominata in modo appropriato.
+
+Giustamente, in modo rapido. E proprio mentre il sole.
+
+Devo inviarlo immediatamente sulla Terra.
+
+Tanti raggi, necessari per mantenere tutto pieno.
+
+Di luce incessante; pertanto, per le stesse ragioni.
+
+Dalle cose deriva necessariamente, in molti modi diversi.
+
+Ad ogni quarto di giro, nel preciso istante.
+
+Le molte immagini delle cose, perché.
+
+Qualunque sia la prospettiva da cui consideriamo le cose.
+
+Lo specchio, oggetti la cui forma e colore sono identici.
+
+Rispondi. Inoltre, anche se è solo un momento fa.
+
+Il cielo presentava un’atmosfera serena e tranquilla.
+
+È così improvviso e terribilmente denso.
+
+Affinché possiate pensare che, attorno a tutta quell’oscurità.
+
+Si era allontanato da Acherone e aveva riempito.
+
+Le imponenti volte del cielo, così terribilmente.
+
+Mentre così si radunano le terribili nuvole temporalesche nella notte.
+
+Appaiono forse volti di orrore nero lassù in alto.
+
+Di tutto ciò, quanto piccola parte rappresenta un’immagine.
+
+Non c’è nulla da raccontare o da calcolare a parole.
+
+Ora vieni: con quale rapidità vengono trasportati.
+
+Queste immagini, e la velocità loro attribuita.
+
+Per loro, là dove le brezze si muovono.
+
+Così, attraverso immense distanze spaziali, in soltanto un breve lasso di tempo.
+
+Da solo si è sprecati, in qualsiasi direzione si vada.
+
+Ognuno, con il proprio impulso particolare, tende, ve lo dirò.
+
+In versi più dolci di molti altri.
+
+Anche se il tenue suono del cigno è di gran lunga più bello.
+
+Più di quel clamore disordinato dei gru.
+
+Tra le nuvole leggere del vento meridionale. E prima di tutto,
+
+Spesso si può osservare che gli oggetti leggeri.
+
+E sono fatti di corpicini minuscoli gli uccelli veloci;
+
+In quale classe rientrano la luce e il calore del sole?
+
+Poiché è formato da piccoli elementi primordiali.
+
+Che, in qualche modo, vengono spinti avanti.
+
+E attraverso gli spazi vuoti dell’aria.
+
+Per superare il ritardo, non bisogna indugiare, spinti dai colpi che arrivano da dietro.
+
+Poiché la luce viene fornita istantaneamente, pezzo dopo pezzo.
+
+E, seguendo un bagliore dopo l’altro, viene spinto e guidato verso la luce.
+
+E allo stesso modo, anche queste immagini devono possedere potere.
+
+Attraverso spazi inimmaginabili, alla velocità massima.
+
+In un lasso di tempo breve, – innanzitutto, a causa di una determinata causa.
+
+Esiste qualcosa di ancora più piccolo, che si trova alle loro spalle.
+
+È la spinta verso il futuro che li muove e li spinge avanti, anche lì.
+
+Vengono portati avanti con una leggerezza così incantevole.
+
+E, in secondo luogo, poiché una volta forniti, vengono inviati.
+
+Con una consistenza di tale rarità che.
+
+Attraverso qualsiasi oggetto possano penetrare.
+
+E sembra filtrare, per così dire, attraverso l’aria che le circonda.
+
+Inoltre, se quelle sottili particelle delle cose.
+
+Quegli impulsi che provengono da così profonde radici e vengono inviati all’esterno.
+
+Come la luce e il calore del sole, si può osservare come scivolino via.
+
+E si diffusero in tutto lo spazio del cielo.
+
+In un istante preciso della giornata, e volare via.
+
+Attraverso mari e terre, invadendo persino il cielo. E allora?
+
+Di coloro che apparentemente sono pronti.
+
+Quando vengono scagliati via senza nulla che possa fermarli.
+
+La loro uscita? Non lo vedi forse chiaramente?
+
+Quanto più veloci e quanto più lontano devono recarsi.
+
+E attraversare rapidamente la vastità dello spazio in ogni sua direzione.
+
+Nel tempo, proprio come i raggi del sole.
+
+Distribuire il cielo in tutto lo spazio? Anche questo sembra essere.
+
+Esempio di capo autentico, con quale velocità.
+
+Le immagini delle cose vengono trasportate da un luogo all’altro.
+
+Che, molto presto, sotto cieli aperti.
+
+Si diffonde l’acqua scintillante, all’improvviso.
+
+Se le stelle sono visibili nel cielo e brillano anche sulla terra.
+
+Serena e radiosa nell’acqua lì.
+
+Le costellazioni dell’universo.
+
+Ora non vedi forse in quale momento preciso.
+
+Un’immagine proveniente dalle rive dell’etere cade.
+
+Verso le rive della terra? E perché mai, ancora una volta.
+
+E ancora una volta, è necessario ammetterlo.
+
+Con una meraviglia.
+
+I sensi e le immagini mentali
+
+Corpi che colpiscono lo sguardo, risvegliando la vista.
+
+Da certe cose emanano costantemente odori.
+
+Freddo proveniente dai fiumi, calore dal sole e spruzzi d’acqua.
+
+Dalle onde dell’oceano, divoratrici delle pareti.
+
+Intorno alle coste. E mai smettere di volare.
+
+Voci diverse, suoni che risuonano nell’aria.
+
+Anche allora, a volte, qualcosa entra nella bocca.
+
+L’umidità con un sapore salato, vicino al mare.
+
+Vagabondiamo senza meta; e così, ogni volta che osserviamo.
+
+Quando quella parola velenosa viene mescolata, ne derivano pungenti effetti negativi.
+
+In tale misura, ogni cosa è separata dalle altre.
+
+Portato via fluidamente, e disperso ovunque.
+
+In ogni direzione intorno; e la natura lo concede.
+
+Né riposo né tregua nel flusso inarrestabile del tempo.
+
+Poiché è incessantemente attraverso i nostri sentimenti che percepiamo le cose,
+
+E tutto il tempo si permette loro di osservare, di descrivere.
+
+E annusare tutte le cose che ci circondano, e ascoltare i loro suoni.
+
+Inoltre, poiché la forma può essere esaminata con le nostre mani.
+
+Si sa che ciò che si trova nell’oscurità è lo stesso di ciò che si trova altrove.
+
+Poiché ciò viene percepito con gli occhi, all’interno della luce.
+
+E in quel giorno luminoso, sia il tatto che la vista devono essere coinvolti.
+
+Scatenato da una causa analoga. Quindi, se lo mettiamo alla prova.
+
+Un quadrato, e il suo stimolo su di noi.
+
+Nel buio, nella luce, quale quadrato?
+
+Ciò che può apparire davanti ai nostri occhi, se non un quadrato.
+
+Quelle immagini rappresentano le cose. Perché sembra così?
+
+La fonte della visione risiede nelle immagini.
+
+Né senza di essi nulla può essere considerato o compreso.
+
+Ora, proprio questi film di cui parlo vengono diffusi in giro.
+
+E dispersi in tutte le direzioni, sparsi in varie regioni.
+
+Ma poiché percepiamo soltanto attraverso gli occhi.
+
+Ne consegue quindi che, qualunque sia la direzione in cui ci volgiamo.
+
+La nostra vista: tutte le cose vi vengono proiettate contro.
+
+Con forma e colore. E quanto lontano da noi.
+
+Ogni cosa può essere lontana, ma l’immagine rimane.
+
+Per noi, il potere di vedere e la [possibilità](/concepts/fortune) di raccontare.
+
+Poiché, non appena viene inviato, subito si muove avanti.
+
+E si muove attraverso l’aria che si trova nello spazio.
+
+Proprio davanti ai nostri occhi. Ed è così che questo ambiente.
+
+Tutto scorre davanti ai nostri occhi, come se.
+
+Attraversano le nostre pupille e in questo modo.
+
+Attraversa. Ed è per questo che lo vediamo.
+
+Per quanto lontana possa essere ogni cosa da noi.
+
+E più aria viene spinta avanti.
+
+E inoltre, più lunga sarà la brezza che accarezza.
+
+Davanti ai nostri occhi, ciò che è sempre più lontano.
+
+Ogni cosa viene considerata in questo modo: certamente, quest’opera.
+
+Con un ordine estremamente rapido, tutto procede senza intoppi.
+
+Così che, in un istante, possiamo vedere.
+
+Di che tipo è l’oggetto e a quale distanza si trova?
+
+Non si deve considerare questo fatto particolarmente straordinario.
+
+In queste questioni, sebbene i film che colpiscono.
+
+Gli occhi non possono essere osservati singolarmente.
+
+Gli oggetti stessi possono essere percepiti. Poiché è proprio in questo modo.
+
+Quando il vento ci colpisce, colpo dopo colpo.
+
+E quando scorrono i freddi flussi taglienti, non è nella nostra natura.
+
+Per percepire ogni singola particella di vento.
+
+O di quel freddo, anzi, di un freddo improvviso e totale.
+
+E così vediamo come i colpi influenzino il nostro corpo.
+
+Come se una cosa stesse battendo contro la stessa.
+
+E ci dà la sensazione di possedere un proprio corpo.
+
+Al di fuori di noi. Ancora una volta, ogni volta che colpiamo.
+
+Con la punta del dito su una pietra, tocchiamo.
+
+Ma la superficie della roccia e il suo colore esterno.
+
+Non percepire quel colore attraverso il contatto; piuttosto, sentirlo direttamente.
+
+La stessa durezza presente nelle profondità della roccia.
+
+Ora vieni, e perché proprio oltre uno specchio?
+
+Un’immagine può essere vista, percepita. Poiché è visibile.
+
+È davvero così: si trova lontano, nel profondo interno.
+
+È lo stesso tipo di oggetti che vengono osservati da vicino.
+
+All’esterno, nella loro vera forma, ogni volta che una porta.
+
+Genera di per sé un’apertura attraverso la quale è possibile guardare all’interno.
+
+E ci permette di vedere così tante cose là fuori.
+
+Oltre la casa. Anche quella vista è visibile.
+
+Attraverso due aspetti gemelli: innanzitutto, si osserva.
+
+L’aria all’interno dei montanti delle porte; poi le porte stesse.
+
+I due, a sinistra e a destra; e poi.
+
+Una luce proveniente da lontano sfiora i nostri occhi.
+
+Poi altri frammenti d’aria, poi altri oggetti cominciarono a emergere alla vista.
+
+All’esterno, nella loro vera forma. E così, quando per la prima volta.
+
+L’immagine del vetro si proietta da sé.
+
+Quanto al nostro sguardo, esso procede in avanti senza esitazione.
+
+E si muove attraverso l’aria che si trova nello spazio.
+
+Proprio davanti ai nostri occhi, si realizza ciò che accade.
+
+Che percepiamo l’aria ancora prima del vetro stesso.
+
+Ma quando abbiamo anche visto il vetro stesso.
+
+Immediatamente, quell’immagine che da noi viene emessa.
+
+Arriva fino al bicchiere, e poi viene di nuovo scagliato via.
+
+Ritorna davanti ai nostri occhi, e si avvicina lentamente.
+
+Davanti a sé, un altro tipo d’aria, che poi.
+
+È proprio questo che vediamo davanti ai nostri occhi, ed è così.
+
+Sembra così lontano, al di là del vetro.
+
+Pertanto, ancora una volta, non c’è nulla di sorprendente in questo.
+
+In quei casi in cui si ottiene l’immagine dal piano dello specchio.
+
+Un’immagine del passato, poiché ogni evento ha la sua origine in quel tempo.
+
+Attraverso questi due suoni. Ora, nel vetro.
+
+La parte destra dei nostri arti viene osservata attentamente.
+
+A sinistra, perché, quando appare l’immagine.
+
+Colpendo il livello del vetro,
+
+Non è stato restituito così com’era, ma è stato costretto a cambiare forma.
+
+All’indietro, in linea retta e non obliqua.
+
+Esattamente come colui che indossa una maschera di gesso.
+
+Se dovesse bagnarsi, prima ancora di asciugare, su un palo o su una trave.
+
+E dovrebbe immediatamente rimanere lì, attaccato a quel luogo.
+
+La sua forma, rovesciata, rivolta verso colui che l’aveva lanciata.
+
+E così plasmare di nuovo quei tratti che esso ci restituisce.
+
+Ora succede che l’occhio destro diventi il sinistro.
+
+Lasciò la destra. Anche un’immagine può essere così.
+
+Da uno specchio all’altro, tramandato di mano in mano.
+
+Fino ad alcuni film idol, persino cinque o sei.
+
+Ecco quindi come sono stati definiti in termini di genere. Per qualsiasi cosa.
 
 <span class="atom-split" data-atom="026" data-title="BOOK IV (parte 3)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -9689,6 +18957,396 @@ And twain the furniture in all the house,
 Two-fold the visages of fellow-men,
 
 And twain their bodies. And again, when sleep
+
+<span class="qlang-split" data-lang="it"></span>
+
+Si nasconderà di nuovo lì dentro, proprio come prima.
+
+Per quanto distanti e complessi possano essere nei loro sviluppi,
+
+Tutto potrebbe ancora essere portato alla luce attraverso percorsi tortuosi.
+
+E attraverso questi diversi “specchi” che si rivelano essere.
+
+All’interno della casa, poiché la natura lo impone così.
+
+Tutto deve essere portato indietro e da lì ripartire.
+
+A uguali angoli rispetto a tutte le altre cose.
+
+In tale misura, quell’immagine risplende davanti ai nostri occhi.
+
+Da uno specchio all’altro, lì dove era stato lasciato.
+
+Si tratta della giustizia, e poi ancora una volta.
+
+I ritorni e i cambiamenti avvengono verso sinistra.
+
+Ancora una volta, quei piccoli bordi dei specchi erano curvi.
+
+Proporzionale alla protuberanza del nostro stesso fianco.
+
+Rinviateci i loro idoli nel modo giusto.
+
+A destra; e questo perché.
+
+O l’immagine viene trasmessa lungo.
+
+Da uno specchio all’altro, e poi ancora.
+
+Quando vengono scacciate due volte, le mosche tornano da noi.
+
+Altrimenti, è l’immagine stessa che ruota su se stessa.
+
+Non appena giunge davanti allo specchio.
+
+Poiché la superficie curva gli insegna a girare.
+
+Verso di noi. Inoltre, puoi ben crederci.
+
+Che questi idoli del cinema camminino insieme a noi.
+
+E mettere i loro piedi all’unisono con i nostri.
+
+E imitate il nostro modo di comportarci, poiché da ciò.
+
+Una parte di uno specchio da cui ti sei allontanato.
+
+Immediatamente, nessuna immagine può essere restituita.
+
+Inoltre, i nostri bulbi oculari tendono a allontanarsi dalle luci intense.
+
+E evita di fissarlo: anche il sole può accecare.
+
+Se continui a spingerli verso di lui.
+
+Poiché la sua forza è immensa, e le pellicole.
+
+Pesantemente, dal cielo in alto, vengono portate giù.
+
+Attraverso l’etere puro e i venti invisibili.
+
+E colpisce gli occhi, disturbando i loro movimenti naturali.
+
+Quindi, applicare troppo lucido spesso brucia gli occhi.
+
+Perché contiene molti semi di fuoco.
+
+Ciò che, entrando negli occhi, provoca dolore.
+
+Ancora una volta, qualsiasi cosa le persone prevenute possano considerare.
+
+Diventa di un giallo pallido, poiché fuoriesce dai loro corpi.
+
+Molte semi di colore giallo pallido germogliano, pronti ad incontrare.
+
+I film delle cose, e molti di essi sono mescolati tra loro.
+
+Nel loro sguardo, che, come per contagio, si tinge.
+
+Tutte le cose presentano un aspetto pallido; ancora una volta, osserviamo.
+
+Dai bui angoli nascosti emergono cose che, una volta esposte alla luce.
+
+Perché, non appena qualcosa entra per la prima volta e ci prende possesso.
+
+Gli occhi aperti in questo ambiente sempre più buio.
+
+Rapidamente, l’aria scintillante e la luce.
+
+Viene quindi quello che purifica gli occhi.
+
+E si disperde in quel diverso tipo di aria.
+
+Le ombre scure del martora, poiché in gran parte.
+
+Quest’aria è più leggera, più piacevole e più potente.
+
+E subito, come sempre, si riempì e si illuminò di luce.
+
+I percorsi degli occhi, che in precedenza.
+
+Aria nera aveva bloccato tutto; subito dopo.
+
+Quei filmati di oggetti che si stagliano nella luce.
+
+Una visione provocatoria, qualcosa che non possiamo realizzare.
+
+Dalla luce, verso gli oggetti nell’oscurità.
+
+Perché quell’aria più densa e oscura dietro.
+
+Segue all’interno e riempie ogni apertura.
+
+E così bloccano i percorsi visivi degli occhi.
+
+Che non esistano immagini di alcuna cosa.
+
+Può essere inserito e utilizzato per stimolare gli occhi.
+
+E quando, da lontano, lo vediamo davvero.
+
+Le torri quadrate di una città, spesso.
+
+Sembrano avere forme arrotondate; e questo per il seguente motivo.
+
+Ogni angolo lontano viene percepito come ottuso.
+
+O, meglio detto, non viene affatto percepito.
+
+E non si attenua il suo impatto, né sfugge al nostro sguardo.
+
+Arriva il momento giusto, poiché attraverso tale distanza nell’aria.
+
+Vengono trasportati da quegli idoli che l’aria stessa.
+
+Rende insensibile l’idolo rappresentato dal punto di quell’angolo.
+
+Attraverso numerosi scontri. In questo modo.
+
+Tutti e ogni angolo della torre.
+
+È del tutto impossibile comprenderne il significato; quelle pietre sembrano semplicemente, esistere lì.
+
+Come veniva levigato e arrotondato su un tornio.
+
+Eppure, a differenza degli oggetti vicini e veramente rotondi.
+
+Ma solo in apparenza, in modo vago e sfumato.
+
+Allo stesso modo, la nostra ombra nel sole appare.
+
+Per procedere e seguire le nostre stesse orme.
+
+E imita il nostro modo di comportarci, se lo ritieni opportuno.
+
+Un’aria priva di luce può comunque “muoversi”.
+
+Seguendo l’andatura e i movimenti dell’umanità.
+
+Per ciò che di solito chiamiamo “ombra”, certamente.
+
+Non è altro che aria priva di luce. Niente di sorprendente.
+
+Poiché la terra, da un luogo all’altro, è priva di qualcosa.
+
+Gradualmente, con la luce del sole, ogni volta che.
+
+Muovendoci in cerchio, finiamo per intralciarne il cammino.
+
+Mentre qualsiasi luogo della terra venga da noi abbandonato.
+
+È di nuovo pieno di luce, per questo motivo.
+
+Accade che ciò che era soltanto l’ombra del corpo.
+
+Sembra ancora la stessa cosa da fare, seguendoci.
+
+In un’unica direzione continua. Poiché, da allora, tutto continua ad affluire in quel senso.
+
+Nuovi raggi di luce, e così i vecchi vengono distrutti.
+
+Proprio come la lana che viene attirata verso la fiamma.
+
+Pertanto, la terra viene facilmente privata della luce.
+
+E può essere facilmente rifornita, e lo fa da sola.
+
+Lava via completamente quelle ombre nere.
+
+Eppure, in questo non cediamo affatto.
+
+Che gli occhi vengano ingannati. È proprio questo il loro compito.
+
+È necessario notare che, ovunque vi sia luce.
+
+Nella penombra, che importa se ci siano o meno bagliori.
+
+Rimanga immutato, e che la ombra.
+
+Proprio adesso è passato di qui colui che stava andando da quella parte.
+
+O se i fatti siano davvero quelli che abbiamo detto sopra.
+
+Dopo tutto, si tratta di un ragionamento del pensiero stesso.
+
+Quello deve essere deciso; inoltre, i nostri occhi non possono saperlo.
+
+La natura della realtà. E così via.
+
+Non attribuire questa caratteristica mentale agli occhi.
+
+Non pensare mai troppo facilmente che i nostri sensi siano onnipresenti ovunque.
+
+Stanno barcollando. La nave su cui viaggiamo.
+
+Viene trascinato avanti, anche se sembra stare fermo.
+
+Si ritiene che la nave che rimane all’ancora nel porto.
+
+C’erano colline e campi che si estendevano lungo il cammino.
+
+Sembrano fuggire rapidamente alle nostre spalle, oltre ciò che noi inseguiamo con determinazione.
+
+La nave naviga e vola sotto le vele spiegate.
+
+Le stelle, ognuna di esse, sembrano davvero fermarsi, immobili nel loro cielo.
+
+Verso le caverne eteree, anche se tutte.
+
+Per sempre sono in movimento, emergendo.
+
+E da lì, ripercorrendo i loro antichi antenati.
+
+Quando hanno misurato con i loro corpi, che brillano di luce.
+
+L’immensità del cielo. E allo stesso modo, il sole e la luna.
+
+Sembrano immobili in un porto sicuro, oggetti che,
+
+Come dimostra un fatto evidente, le cose vengono davvero spinte avanti in questo modo.
+
+Tra due montagne lontane, in alto nel cielo.
+
+Nel mezzo del vortice delle acque si apre.
+
+Un’uscita ampia e accessibile per la flotta, eppure.
+
+Sembrano essere uniti in un’unica isola.
+
+Quando anche i ragazzi stessi hanno smesso di girare in tondo.
+
+I corridoi sembrano ancora vorticare e le colonne ondeggiare.
+
+Fino ad ora, dovevano quasi pensare che i tetti.
+
+Minacciano di distruggerli completamente.
+
+E ora, quando la natura inizia a sollevarsi verso l’alto.
+
+Lo splendore rosso del sole e i fuochi tremolanti.
+
+E sollevarlo sopra le cime delle montagne, quelle montagne.
+
+Quello che allora ti sembra che sia.
+
+Il suo splendore abbagliante li raggiunge immediatamente.
+
+Con il proprio fuoco, sono ancora lontani da noi.
+
+Appena duemila colpi di freccia, in realtà.
+
+Spesso, appena quattrocento o cinquecento lanci di una freccia.
+
+Sebbene, tra quelle montagne e il sole.
+
+Si estendono sotto di noi vaste pianure oceaniche.
+
+Le vaste rive dell’etere, e ciò che si trova in mezzo.
+
+Mille terre, possedute da molti popoli.
+
+E generazioni di bestie selvatiche. Ancora una volta.
+
+Un laghetto d’acqua profondo appena quanto un dito.
+
+Quello che si trova tra le pietre del selciato.
+
+Offre una visione verso il basso, verso la terra.
+
+Per quanto riguarda la terra stesa lontano nel cielo.
+
+I “golfi” del cielo. È così che sembri vederli.
+
+Le nuvole in basso e i corpi celesti cadevano precipitosamente.
+
+Meravigliosamente, sia nel cielo che sulla terra.
+
+Anche allora, quando si trovavano nel mezzo del corso d’acqua.
+
+Il nostro veloce cavallo si incastra, e noi guardiamo in basso.
+
+Nelle rapide onde del fiume, qualche forza.
+
+Sembra quindi che porti il corpo del cavallo.
+
+Sebbene rimanesse fermo, andando nella direzione opposta al suo percorso originale.
+
+E si spingono rapidamente verso l’alto corso del fiume. E ovunque esso si dirami.
+
+Abbiamo guardato intorno: tutti gli oggetti sembrano.
+
+E così, essere spinti avanti e scorrere lungo il cammino.
+
+Nello stesso modo in cui facciamo noi. Un portico.
+
+Sebbene sia ben fissato da un’estremità all’altra.
+
+Su colonne uguali, parallele e di grandi dimensioni.
+
+I contratti si sviluppano gradualmente all’interno di un cono stretto.
+
+Quando, da un’estremità, si può vedere l’intero insieme lungo e esteso.
+
+Fino a quando il soffitto non si unisse al pavimento.
+
+E l’intera parte destra, insieme a quella sinistra, si unisce tra loro.
+
+Insieme, verso quel punto del cono quasi invisibile.
+
+Per i marinai in mare aperto, il sole sembra.
+
+Emerge dalle onde, e rimane tra le onde.
+
+Per spegnere e seppellire la sua luce, perché davvero.
+
+Non vedono altro che acqua e cielo.
+
+Ancora una volta, per coloro che ignorano il mare.
+
+Le imbarcazioni in porto sembrano, proprio come i escrementi rotti.
+
+Appoggiarsi all’acqua, con un brivido di eccitazione.
+
+Per qualsiasi parte dell’remo che venga sollevata.
+
+Al di sopra della schiuma salata, tutto è dritto, completamente dritto.
+
+I timoni vengono posizionati dall’alto. Ma altre parti.
+
+Quelli sommersi, immersi sotto la linea di galleggiamento.
+
+Sembrano tutti spezzati, piegati e inclinati.
+
+Inclinata verso l’alto, poi ruotata per tornare a galleggiare.
+
+Quasi in superficie dell’acqua. E quando i venti.
+
+Trasporta quelle particelle sparse lungo il cielo.
+
+Di notte, sembra che si muovano silenziosamente lungo.
+
+Le brillanti costellazioni, contro le nuvole.
+
+E lì, in alto, intraprende un percorso del tutto diverso.
+
+Da ciò da cui, in realtà, sono nati. E poi,
+
+Se per caso la nostra mano venisse posizionata sotto un occhio.
+
+E premi lì sotto; poi, davanti ai nostri occhi.
+
+Ogni oggetto su cui posiamo lo sguardo sembra essere.
+
+Attraverso una qualche sensazione, due luci, allora due luci.
+
+Di lanterne che sbocciano tra fiori di fiamma.
+
+E tutti i mobili presenti in tutta la casa.
+
+Raddoppiano i volti degli esseri umani.
+
+E i loro corpi si unirono. E ancora, quando venne il sonno.
 
 <span class="atom-split" data-atom="027" data-title="BOOK IV (parte 4)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -10088,6 +19746,404 @@ In passing through shut chambers of a house,
 
 Is dulled, and in a jumble enters ears,
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ha legato i nostri membri in un sonno profondo e dolce.
+
+E l’intero corpo giace in un profondo riposo.
+
+Eppure, in quei momenti, sembriamo essere completamente svegli.
+
+E muovere i nostri membri, nella cupa oscurità della notte.
+
+Pensiamo di utilizzare la luce del giorno e il sole per fare dei segni.
+
+E, rinchiusi in una stanza, tuttavia sembriamo ancora.
+
+Per cambiare i nostri cieli, i nostri oceani, i nostri fiumi, le nostre colline.
+
+Per attraversare le pianure a piedi e ascoltare suoni nuovi.
+
+Nonostante persistesse il rigido silenzio della notte.
+
+Rimane intorno a noi e, per così dire, risponde alle nostre domande.
+
+Sebbene siano prive di suono. Altri casi del genere.
+
+Meravigliosamente numerosi sono quelli che vediamo, tutti quanti.
+
+In altre parole, si cerca di danneggiare la fiducia che abbiamo nel senso.
+
+Inutilmente, perché la maggior parte di queste.
+
+Inganna attraverso semplici opinioni della mente.
+
+Noi stessi lo aggiungiamo, fingendo di vederlo.
+
+Ciò che i sensi non riescono affatto a percepire.
+
+Poiché nulla è più difficile di separare.
+
+Fatti semplici, provenienti da fonti dubbi, che la mente, immediatamente.
+
+Si aggiunge da solo.
+
+Ancora una volta, se si ipotizza.
+
+Che nulla sia conosciuto. Lui stesso non sa se ciò che dice sia vero o falso.
+
+Esso stesso può essere conosciuto, poiché lui.
+
+Non confessa di sapere nulla. Pertanto, con lui.
+
+Rinuncio a qualsiasi discussione: chi ha già preso una decisione.
+
+Anche lì dove dovrebbero essere i suoi piedi. Ma ammettiamolo pure.
+
+So che lo sa. Mi chiedo: da dove derivi questa sua conoscenza?
+
+Che cosa significa conoscere e non conoscere a turno.
+
+E fu proprio ciò che diede origine al concetto di verità.
+
+E quale dispositivo ha dimostrato la dubbia efficacia di tale metodo?
+
+Per differire da ciò che è certo, poiché nelle cose.
+
+Finora non ha mai visto nulla di vero. Scoprirai.
+
+Che tutto sia nato prima dai sensi.
+
+Il concetto di verità, né i sensi possono.
+
+Rifiutato. Poiché è necessario trovare un criterio.
+
+Digno di una maggiore fiducia, quella che permetterà di sconfiggere.
+
+Con la propria autorità, ciò che è falso viene presentato come vero.
+
+Dunque, oltre ai nostri sensi, deve esistere qualcos’altro.
+
+Digno di una maggiore fiducia? La ragione, nata.
+
+Da un falso senso di ragione, si preferisce contraddire la realtà.
+
+Quei sensi, che sono sorti insieme alla ragione stessa.
+
+Al di là dei sensi? – Perché se ciò fosse vero.
+
+In tal caso, anche tutta la ragione viene falsificata.
+
+O forse gli orecchi avranno il potere di rimproverare gli occhi?
+
+O forse quel contatto con le orecchie? Ancora una volta, il gusto?
+
+Accusare questo contatto, o forse il naso stesso lo confuterà?
+
+O forse gli occhi lo sconfiggono? Non credo che sia così.
+
+Poiché a ciascuno è stato assegnato ciò che gli spetta.
+
+La sua funzione è del tutto distinta; il suo potere agisce su ciascuno individualmente.
+
+E così siamo ancora costretti a percepire in questo modo.
+
+Il morbido, il freddo, il caldo, separati l’uno dall’altro.
+
+Tutti i colori e tutte le altre cose esistenti.
+
+Insieme ai colori. Allo stesso modo, anche la lingua che assapora.
+
+Ha un potere proprio, distinto da quello degli altri; inoltre, ha anche un odore particolare, diverso da qualsiasi altro.
+
+I suoni diversi sono noti; ed è proprio così che stanno le cose.
+
+Nessun senso umano può mai condannare un altro.
+
+Nessun sentimento avrà il potere di incolparsi da solo.
+
+Perché deve sempre essere considerato lo stesso.
+
+Digni di uguale fiducia. E quindi, cosa?
+
+In qualsiasi momento questi sensi lo manifestassero.
+
+Lo stesso vale in questo caso. E se la ragione.
+
+Incapace di chiarirci la causa.
+
+Perché gli oggetti, che da vicino appaiono quadrati, da lontano.
+
+Sembrava completo, ma in realtà ci è di maggior aiuto.
+
+Mancando una ragione reale, fingere di avere un motivo.
+
+Per ciascuna configurazione, quindi lasciare che.
+
+Dalle nostre mani sfuggono le cose ovvie.
+
+E danneggiare la fede primordiale nel senso, e distruggere.
+
+Tutti quei fondamenti su cui tutto si basa.
+
+La nostra vita e la nostra sicurezza. Non per una sola ragione, ma per molteplici motivi.
+
+Cadrebbe giù, ma persino la nostra stessa vita.
+
+Crollerebbe immediatamente, se non osassimo.
+
+Confidare nei nostri sensi e tenersi alla larga.
+
+Dai vertici pericolosi e dai luoghi da evitare.
+
+Di un pericolo simile, e bisogna agire con rapidità.
+
+I loro opposti! Ancora una volta, proprio come in un edificio.
+
+Se la prima linea di piombo è storta, e se.
+
+La piazza descrive una [deviazione](/positions/clinamen) ingannevole rispetto alle linee rette e precise.
+
+E se quel livello vacilla anche solo di poco.
+
+In qualsiasi parte si consideri, l’intera struttura risulta quindi.
+
+Deve essere difettoso: gli scaffali sono storti e inclinati.
+
+Dondolando avanti e indietro, in modo disarmonioso.
+
+Ora sembra che alcune parti stiano per crollare.
+
+E presto tutto crollerà, davvero tradito.
+
+In primo luogo, ingannando le stime. Anche così.
+
+I tuoi calcoli nelle questioni della vita.
+
+Deve essere storto e falso, se è stato creato apposta per te.
+
+Dai sensi ingannevoli. Quindi, tutta quella serie di parole.
+
+Qualsiasi tentativo di contrastare i sensi è del tutto vano.
+
+E ora resta solo dimostrarlo con facilità.
+
+In che modo ciascun altro senso percepisca le proprie cose.
+
+Innanzitutto, ogni suono e ogni voce vengono uditi.
+
+Quando entrano nelle orecchie, colpiscono i sensi.
+
+Con il proprio corpo. Perché per confessare è necessario farlo con il proprio corpo.
+
+Anche la voce e il suono devono essere considerati elementi corporei.
+
+Perché sono in grado di colpire attraverso i sensi.
+
+Oltre al fatto che la voce spesso si strofina contro la gola.
+
+E i grida emessi nel momento della uscita rendono tutto ancora più caotico.
+
+Il tubo del vento, naturalmente, penso.
+
+Quando, attraverso l’uscita stretta che si innalza.
+
+In masse più numerose, questi primordiali “germi” della voce.
+
+Hanno così iniziato a manifestarsi. In verità.
+
+Anche la bocca viene graffiata contro qualcosa.
+
+[Espulso dall’aria] attraverso le guance gonfie.
+
+E quindi, senza dubbio, esistono quella voce e quelle parole.
+
+È composto da elementi materiali, fisici.
+
+Con il potere del dolore. E non sei certo ignaro di ciò.
+
+Allo stesso modo, per quanta parte del corpo venga rimossa.
+
+Quanto, davvero, dalle forze e dai poteri umani.
+
+Può essere ritirato attraverso conversazioni tranquille e prolungate.
+
+Anche dallo splendore che sorge all’alba.
+
+Verso le ombre della notte nera, soprattutto.
+
+Se si riversano grida estremamente forti.
+
+Pertanto, la voce deve essere di natura corporea.
+
+Poiché colui che parla a lungo perde qualcosa nel proprio modo di esprimersi.
+
+Una parte.
+
+Inoltre, la ruvidità del suono.
+
+Proviene dalla ruvidità dei germi primordiali.
+
+Come un suono armonioso nasce da elementi armoniosi.
+
+Nessuno di questi elementi presenta una forma identica agli altri.
+
+Quando il tuono rimbomba con un rombo vuoto.
+
+Come quando la barbara flauta di Berecinto.
+
+Risuona di rumori cupi e potenti; o quando le anatre selvatiche.
+
+Di notte, dalle gelide rive dell’Eliso.
+
+Con voci strazianti elevano la loro lamentela liquida, piena di dolore.
+
+Pertanto, quando da profondità del nostro essere costringiamo.
+
+Queste voci, che vengono espulse attraverso la bocca.
+
+La lingua mobile, artefice delle parole.
+
+Li rende capaci di esprimersi chiaramente, e anche le loro labbra ne sono coinvolte in questo processo.
+
+Attraverso le loro forme, contribuiscono a plasmarli.
+
+Pertanto, quando lo spazio che separa il punto di partenza da destinazione è ridotto.
+
+Ovunque arrivi quella voce, le stesse parole.
+
+Deve essere udito chiaramente, deve essere evidenziato distintamente.
+
+Poiché in tal caso la voce mantiene la propria struttura originale.
+
+Mantiene la sua forma. Ma se lo spazio tra.
+
+Se le parole sono più lunghe di quanto sia appropriato, devono essere.
+
+Attraverso l’aria densa di confusione e quella voce.
+
+Disordinato nel suo volo tra i venti.
+
+E così avviene che tu possa percepire chiaramente.
+
+Eppure non possiamo stabilire con certezza cosa queste parole possano significare.
+
+A tal punto confusi e intralciati.
+
+La voce ci si avvicina. Di nuovo, una sola parola.
+
+Uscendo dalle labbra del gridaio, possa risvegliare tutti gli orecchi.
+
+Tra la gente comune. E così, una sola voce.
+
+Si disperde in molte voci diverse.
+
+Poiché si divide per essere ascoltato da orecchie diverse.
+
+La forma di impronta del termine e un tono chiaro.
+
+Ma qualunque parte delle voci non riesca ad essere percepita.
+
+Gli stessi orecchi periscono, trascinati oltre.
+
+Disperso casualmente tra i venti. Una parte di esso.
+
+Colpivano con forza le solide colonne del portico, scagliandole all’indietro.
+
+Emette un suono; e a volte prende in giro l’orecchio.
+
+Con una semplice parola, un’illusione di parole. Quando questo.
+
+Hai notato bene; puoi farne il conto.
+
+Per te stesso e per gli altri, perché sia così.
+
+Lungo quei luoghi solitari dove le rocce.
+
+Ridare, come forme di parole, in un ordine preciso.
+
+Quando cerchiamo compagni che vagano.
+
+Tra le montagne ombrose, e ad alta voce.
+
+Chiamateli, quelli dispersi. L’ho visto.
+
+Macchie che riuscivano persino a restituire voci, sei o sette.
+
+Per ciò che è stato gettato via, poiché anche le colline stesse.
+
+Scagliandoli indietro contro le colline, continuava.
+
+Con le loro risonanze. E questi luoghi.
+
+La zona rurale confinante finge di essere.
+
+Luoghi frequentati dai satiri dalle zampe di capra e dalle ninfe.
+
+E vi dice che esistono folletti, i cui rumori notturni.
+
+E laggiù celebrano feste e baldorie antiche.
+
+I silenzi senza suoni vengono spesso interrotti.
+
+E i suoni delle corde vengono prodotti, emettendo dolci lamenti.
+
+Il flauto, suonato dalle dita dei musicisti.
+
+Si riversa fuori; e in ogni direzione, la razza dei contadini.
+
+Inizia ad ascoltare, quando scuote i propri abiti.
+
+Di pino sulla sua testa semiumana, dio Pan.
+
+Con le labbra serrate, spesso si ripete quella stessa frase.
+
+Le canne aperte, affinché la flauta non smettesse di suonare.
+
+La musica del bosco. Altri miracoli.
+
+E storie di questo genere amano raccontare.
+
+Affinché non si pensi che vivano in luoghi solitari.
+
+E persino abbandonati dagli dèi. Ecco perché.
+
+Si vangano delle meraviglie che raccontano nelle loro storie;
+
+O, per qualche altro motivo, siamo indirizzati verso.
+
+Avidi, come sempre è stata l’umanità.
+
+Mormorare favole all’orecchio delle persone.
+
+Di nuovo.
+
+Non c’è bisogno di chiedersi come ciò possa accadere.
+
+Che attraverso quei luoghi (attraverso i quali gli occhi non possono, )
+
+Gli oggetti appaiono alla vista; i suoni si percepiscono, ma possono anche svanire.
+
+E colpisce le orecchie. Spesso, infatti, osserviamo.
+
+Le persone conversano, anche se le porte sono chiuse.
+
+Nessuna meraviglia, in fondo: tutte le voci sono rimaste intatte.
+
+Il vento può passare attraverso aperture piegate o incorniciate nelle cose.
+
+Mentre i film sugli idoli perdono di popolarità – poiché sono soltanto opere commerciali.
+
+A meno che non nuotino attraverso aperture rettilinee.
+
+Come quelle di vetro, attraverso cui tutte le immagini.
+
+“Vola pure attraverso. Eppure questa stessa voce, ”
+
+Passando attraverso stanze chiuse di una casa,
+
+Diventa ovattato e arriva alle orecchie in un disordine totale.
+
 <span class="atom-split" data-atom="028" data-title="BOOK IV (parte 5)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="positions/atomism,concepts/mechanism,forms/didactic_poem,schools/epicureanism"></span>
 
 And sound we seem to hear far more than words.
@@ -10481,6 +20537,400 @@ Itself so subtle and so strangely quick.
 That these things come to pass as I record,
 
 From this thou easily canst understand:
+
+<span class="qlang-split" data-lang="it"></span>
+
+E sembra che percepiamo molto di più i suoni rispetto alle parole.
+
+Inoltre, una voce si diffonde in tutte le direzioni.
+
+Divisi, poiché lontani gli uni dagli altri.
+
+Nuove voci nascono quando una voce.
+
+Una volta si è lanciato avanti, precedendo molti altri.
+
+Come spesso una scintilla di fuoco si diffonde intorno.
+
+Si divide in diverse fiamme. E così.
+
+Voci riempiono davvero quei luoghi nascosti dietro.
+
+Tutti sono impegnati in un gran trambusto intorno a.
+
+Risuonanti di suoni. Tuttavia, i film sugli idoli tendono spesso.
+
+Non appena inviati, tutti si diressero in direzioni precise e parallele.
+
+Pertanto, all’interno di un muro non si può vedere nulla.
+
+Eppure, ascoltate quelle voci provenienti dall’al di là.
+
+Né la lingua né il palato, con i quali percepiamo i sapori.
+
+Problemi più complessi richiedono un maggior impegno di riflessione.
+
+Innanzitutto, percepiamo un sapore in bocca.
+
+Quando lo schiacciamo mentre masticiamo il cibo.
+
+Quando qualcuno inizia forse a stringere.
+
+Asciugare una spugna imbevuta d’acqua con la mano.
+
+In seguito, tutto ciò che otteniamo viene distribuito ovunque.
+
+Attraverso i pori e i sentieri intrecciati.
+
+Della lingua dal tessuto lasso. E così, quando è liscia.
+
+I corpi di quel sapore vischioso, allora.
+
+Si toccano in modo delizioso, in modo davvero delizioso.
+
+Trattano tutti i punti, anche quelli umidi e gocciolanti.
+
+Inchieste riguardanti la lingua. E viceversa.
+
+Col loro attacco, feriscono e tormentano i sensi.
+
+A seconda del grado di ruvidità con cui vengono forniti.
+
+In seguito, il piacere dipende esclusivamente dal palato.
+
+Nascendo dal sapore; poiché, in verità, quando si scende.
+
+“È sceso giù per la gola. Non c’è alcun piacere in questo.”
+
+Mentre si diffonde in tutto l’ambito circostante.
+
+Non importa affatto con quale cibo venga nutrito.
+
+Il corpo, se solo potessi prendere ciò che desideri.
+
+Distribuito in modo ben assimilabile nel corpo.
+
+E mantieni lo stomaco in uno stato umido.
+
+Ora, come mai alcuni di noi riescono a trovare del cibo.
+
+Gli altri per gli altri.
+
+Rivelerò ciò che, per alcuni, potrebbe risultare incomprensibile o insensato.
+
+È sporco e amaro, ma ugualmente per tutti gli altri.
+
+Può sembrare delizioso da mangiare. Perché proprio qui?
+
+Tanto grande è la distanza, e tanto evidente la differenza.
+
+Quello che è cibo per uno, per altri diventa.
+
+Un veleno feroce, proprio come una certa specie di serpente.
+
+Ciò che, toccato dal bava di un uomo, andrà sprecato.
+
+E si conclude mordendo via la propria spirale.
+
+Ancora una volta, il veleno più letale è l’elèboro.
+
+Per noi, ma aggiunge grasso alle capre e ai quagliai.
+
+Affinché tu possa comprendere con quali mezzi ciò è stato realizzato.
+
+Deve essere realizzato, innanzitutto devi ricordarlo.
+
+Quello che abbiamo detto in precedenza, ovvero che i semi vengono conservati.
+
+Mescolate in modi diversi. Ancora una volta.
+
+Poiché tutte le creature viventi che assorbono cibo.
+
+Appaiono diversi dall’esterno e presentano una forma esterna differente.
+
+E i contorni dei loro membri li delimitano completamente.
+
+Ognuna di queste specie è diversa dalle altre; pertanto, esse sono composte in questo modo.
+
+Semini di forme diverse. E inoltre,
+
+Poiché i semi sono diversi tra loro, anche le varietà devono essere diverse.
+
+Gli spazi vuoti e i percorsi (che effettivamente chiamiamo, )
+
+Le aperture presenti in tutti i membri, persino.
+
+Anche in bocca e sul palato. Pertanto, alcuni devono essere così.
+
+Più piccoli o più grandi, alcuni di essi avevano tre angoli.
+
+Alcuni venivano quadrati, molti altri arrotondati.
+
+E alcuni di loro, inoltre, da molteplici angolazioni.
+
+In molti modi. Infatti, poiché la combinazione.
+
+E i movimenti delle loro diverse forme richiedono.
+
+Le forme delle aperture devono essere varie.
+
+E i sentieri devono variare in base alle loro pareti.
+
+Quello li legava. Pertanto, quando ciò che è dolce per alcuni.
+
+Diventa amaro per gli altri, ma per colui che lo assapora.
+
+È dolce, anche le particelle più lisce devono necessariamente.
+
+Sono penetrate con tenerezza nelle pori del palato.
+
+E, al contrario, per coloro per i quali quel dolce.
+
+È sicuramente amaro in bocca.
+
+Le particelle ruvide e spinose hanno assunto.
+
+Nelle strette aperture.
+
+Ora è facile, a partire da queste circostanze, capirlo.
+
+Qualunque cosa.
+
+Infatti, quando qualcuno, a causa di un eccesso di bile.
+
+È affetto da febbre, o in qualche altro modo.
+
+Si percepisce la violenza scatenata da qualche male oscuro.
+
+Lì, l’intero sistema è ormai sconvolto, e.
+
+Tutte le posizioni dei semi sono state cambiate.
+
+Affinché quei corpi che prima erano adatti.
+
+Per suscitare quel sapore, ormai non sono più adatti.
+
+E ora sono ancora più adatte altre soluzioni che siano in grado di.
+
+Per penetrare nelle pori e rendere tutto aspro.
+
+In realtà, entrambi questi elementi sono presenti nel miele.
+
+Ciò che molte volte ti abbiamo dimostrato in precedenza.
+
+Ora vieni, e ti indicherò quale sia la via della saggezza.
+
+L’impatto dell’odore sulle narici è immediato e profondo.
+
+E innanzitutto, è necessario che ci siano molte cose.
+
+Da dove deriva quel flusso continuo di odori diversi.
+
+Che tutto continui così, e noi siamo costretti a pensare in questo modo.
+
+Si muovono velocemente, si disperdono in ogni direzione.
+
+Imparzialmente. Ma solo per alcune creature viventi.
+
+Un odore è più adatto per alcuni, un altro invece per altri ancora.
+
+A causa delle diverse forme dei semi e dei pori.
+
+E così via, lungo i soffi della brezza, le api.
+
+Anche gli avvoltoi sono guidati dall’odore del miele.
+
+Attraverso i cadaveri. Di nuovo, quella forza motrice che spinge in avanti.
+
+È il profumo che guida il cacciatore attraverso la natura.
+
+Ovunque si muova la zampa storta della bestia selvatica.
+
+Ha accelerato il corso del suo destino; e la oca bianca.
+
+Il salvatore della cittadella romana.
+
+Da lontano si avverte l’odore dell’umanità.
+
+Pertanto, a ciascuno viene dato in modo diverso.
+
+Un odore particolare che guida ciascuno lungo la sua strada.
+
+Che si tratti del suo stesso cibo o che lo faccia rimanere sbalordito.
+
+Dall’orribile veleno, ed è così che avviene.
+
+Le generazioni della natura selvaggia si sono conservate intatte.
+
+Tuttavia, questa intensità olfattiva non è l’unica caratteristica dei profumi.
+
+O nel campo dei sapori; ma, allo stesso modo.
+
+L’aspetto delle cose e i loro colori non coincidono del tutto.
+
+Tutti sono dotati di sensi in modo perfetto, tranne che.
+
+Alcuni saranno destinati ad osservare altri.
+
+Più acuto e doloroso. Ecco, quei leoni furiosi.
+
+Non osano affrontare e guardare quel gallo.
+
+Chi non possiede ali per scacciare via la notte.
+
+Dall’al di là del palco, chiamiamo quella mattina radiosa.
+
+Con voce squillante – e i leoni, immediatamente, così fecero.
+
+Pensino alla fuga, perché, vedete.
+
+All’interno del corpo dei gallo ci sono.
+
+Alcuni semi particolari, che, agli occhi dei leoni.
+
+Iniettato, penetrato profondamente nelle pupille.
+
+E provocano un dolore così intenso che non si riesce a resistere.
+
+Contro i maschi, per quanto feroci possano essere.
+
+Sebbene queste “semi” non possano in alcun modo danneggiare la nostra vista.
+
+O perché non penetrano.
+
+O poiché hanno una libera uscita dagli occhi.
+
+Non appena penetra, in questo modo.
+
+Non possono ferire i nostri occhi, in alcun modo.
+
+Perché rimane ancora lì.
+
+Per parlare ancora una volta di odore.
+
+Qualunque cosa raggiunga le nostre narici, alcune di esse possono “viaggiare”.
+
+Un percorso più lungo rispetto agli altri. Nessuno di loro.
+
+Tuttavia, ciò che è stato espresso fino ad ora riguarda soltanto suoni o voci.
+
+Sebbene ometta qualsiasi menzione di tali cose.
+
+Colpisce la vista e offusca la capacità di vedere.
+
+Poiché arriva lentamente, lungo un percorso incerto.
+
+E perisce più rapidamente, assorbito gradualmente.
+
+Facilmente si disperde tra tutti i venti dell’aria.
+
+E innanzitutto, perché dal profondo dell’essere stesso.
+
+Viene rilasciato attraverso lo [sforzo](/concepts/labour) fisico (a causa di questo fatto).
+
+Che ogni oggetto, quando viene scosso o frantumato.
+
+O distrutto dal fuoco, continuerà ad avere un odore intenso.
+
+È un segno che gli odori si diffondono e poi scompaiono.
+
+Dalle regioni interne delle cose. E poi, in seguito.
+
+Si può osservare che l’odore è qualcosa che viene creato.
+
+Di germi primordiali più grandi della voce, perché.
+
+Non entra attraverso muri di pietra, attraverso i quali.
+
+Inesorabilmente, quella voce e quel suono si diffondono.
+
+Pertanto, inoltre, noterai che non è.
+
+Così facile da individuare, ovunque si trovi.
+
+L’oggetto su cui si esercita l’atto di annusare. Poiché, indugiando in tale attività.
+
+Lungo i venti, le particelle si raffreddano.
+
+E poi, quei messaggeri veloci e frenetici delle cose.
+
+Raggiungono i nostri sensi quando non sono più caldi.
+
+Quindi i cani spesso si perdono e seguono le tracce lasciate dagli odori.
+
+Ora osservate attentamente e ascoltate quali oggetti stimolano la mente.
+
+E impara, in breve tempo, da dove derivi l’intelligenza.
+
+Che accada pure ciò che deve accadere. E innanzitutto ti dico questo:
+
+Tante immagini di oggetti vagano liberamente.
+
+In molti modi, in ogni regione intorno.
+
+Così sottile che si confonde facilmente con l’altro.
+
+Non appena si incontrano, si uniscono a mezz’aria.
+
+Come seta trasparente o foglie d’oro. Perché, in effetti,
+
+Sono molto più sottili nella loro struttura rispetto a.
+
+Quegli immagini che si imprimono nella mente.
+
+E distruggi quella visione, poiché attraverso i pori del corpo.
+
+Penetrano e, in modo profondo, suscitano reazioni interiori.
+
+La natura sottile della mente colpisce i sensi.
+
+Pertanto, i Centauri e gli arti di Scilla, così.
+
+I volti di Cerbero rappresentati dai cani che vediamo.
+
+E immagini di persone che sono venute prima.
+
+Uomini morti i cui resti sono da tempo sepolti nella terra.
+
+Perché le immagini di ogni tipo.
+
+Sono dappertutto intorno a noi, in parte.
+
+Quelli che sono “genderizzati” fin dall’atmosfera stessa.
+
+Di propria iniziativa, in parte quegli altri che.
+
+Da diverse cose si dipartono, e quelle.
+
+Si tratta di elementi che si combinano tra loro, formando nuove strutture a partire dalle loro forme originali.
+
+Infatti, nessun centauro vivente può.
+
+Quel genere fantomatico, poiché nessuna specie di bestia.
+
+Come lui era sempre stato. Ma quando le immagini.
+
+Di cavallo e uomo, per [caso](/concepts/fortune), si sono uniti insieme.
+
+Come già detto, si uniscono facilmente tra loro.
+
+All’istante, attraverso una natura sottile e una struttura leggera.
+
+Allo stesso modo, anche altri di questo genere.
+
+Vengono creati. E quando vengono rapidamente portati via.
+
+Nella loro estrema leggerezza, facilmente.
+
+(Come ho già mostrato in precedenza) un’immagine sottile.
+
+Insieme, con un solo colpo, sconvolge la mente.
+
+Così sottile, eppure stranamente veloce.
+
+Che queste cose avvengano esattamente come le descrivo io.
+
+Da questo puoi facilmente comprendere:
 
 <span class="atom-split" data-atom="029" data-title="BOOK IV (parte 6)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -10878,6 +21328,402 @@ That particles so fine can whirl around
 
 So great a body and turn this weight of ours;
 
+<span class="qlang-split" data-lang="it"></span>
+
+Finché le persone sono simili l’una all’altra.
+
+Vedere con la mente, così come con gli occhi.
+
+Deve accadere in modo più o meno simile.
+
+Bene, ora che ho dimostrato di percepire.
+
+Forse, attraverso quei film sugli idoli.
+
+Ciò che colpisce i miei occhi, è tuo compito conoscerlo.
+
+Analogamente, anche la mente viene influenzata nello stesso modo.
+
+E vede, né di più né di meno di quanto vedano gli occhi.
+
+(Solo che percepisce strati più sottili).
+
+Il leone, e ogni altro essere, attraverso i film sugli idoli.
+
+E quando il sonno sopraffà il nostro corpo.
+
+L’intelligenza della mente è ora sveglia.
+
+Ancora, per nessun altro motivo se non perché questi.
+
+Gli stessi film che vediamo quando siamo svegli.
+
+Colpiscete le nostre menti, fino a questo punto, davvero.
+
+Sembra davvero che possiamo vedere con certezza quell’uomo.
+
+Chi, privo di vita, ora è posseduto dalla morte e dalla terra.
+
+Il dominio su. E la natura impone questo.
+
+Per poter accadere, è necessario che i sensi del corpo.
+
+Stanno riposando; tutti i loro membri sono stati paralizzati dall’insuccesso.
+
+Ormai incapaci di confondere il falso con il vero.
+
+E la memoria giace distesa, priva di forza e languida.
+
+Nel sonno, nessun segno che lui, quell’uomo.
+
+Chi la mente immagina di vedere vivo, da molto tempo ormai.
+
+È stata la vittoria della morte e della dissoluzione.
+
+Inoltre, non c’è da meravigliarsi se gli idoli si muovono.
+
+E agitano le braccia e gli altri arti in giro.
+
+Nel ritmo del tempo, e spesso durante il sonno degli uomini.
+
+Si verifica che un’immagine possa essere vista in questo modo.
+
+In verità, quando l’immagine precedente scompare.
+
+E un altro è caratterizzato da una diversa posizione.
+
+Quel precedente sembra aver cambiato i suoi gesti.
+
+Naturalmente, questo cambiamento deve essere considerato rapido.
+
+Tanto grande è la velocità, tanto enorme è la quantità.
+
+Di queste cose idolatrate, e (in un istante brevissimo).
+
+Quanto immenso, ancora una volta, è questo tesoro.
+
+Di parti distinte dell’idolo, utilizzate per portare rifornimenti.
+
+Accade anche che venga fornito.
+
+A volte, un’immagine di tipo diverso.
+
+Ma ciò che un tempo era donna, ora è lì davanti a noi.
+
+Si vede che sta lì, trasformato in un uomo.
+
+O un altro volto, un’altra età subentra.
+
+Ma il sonno e l’oblio se ne occuperanno.
+
+Che non proveremo alcuna meraviglia di fronte a questa cosa.
+
+E in molte di queste questioni è necessario indagare.
+
+E molta luce, se ne desideriamo ardentemente.
+
+Con semplicità, per esporre i fatti. E innanzitutto.
+
+Perché la mente di colui che si lascia guidare da un capriccio.
+
+Pensare significa forse che quella cosa esista immediatamente dopo averci pensato?
+
+O forse gli idoli osservano la nostra volontà.
+
+E ci viene forse in mente un’immagine.
+
+Desideriamo ardentemente, se il cuore lo preferisce.
+
+Il mare, la terra, o forse il cielo?
+
+Assemblee dei cittadini, parate.
+
+Banchetti e battaglie, tutte queste cose lei le compie.
+
+La natura, creare e fornire su nostra richiesta? —
+
+Peggio ancora il fatto che, nello stesso luogo e nella stessa posizione.
+
+La mente di un altro sta riflettendo su certe cose.
+
+Del tutto diverso. E poi, cosa dire di questo.
+
+Quando, nel sonno, vediamo quegli “idoli” muoversi.
+
+Avanzando con movimenti fluidi e agili delle membra.
+
+Mentre uno dopo l’altro tendevano ciascuno il proprio braccio flessibile.
+
+Con movimenti rapidi e con occhi attenti.
+
+Ripeti il movimento, mentre il piede segue il ritmo.
+
+Certamente, gli idoli nei quali sono immersi nell’arte.
+
+E vagare avanti e indietro, davvero ben istruiti.
+
+Pertanto, per poterlo fare di notte.
+
+Creare simili giochi. Oppure la verità è un’altra?
+
+Perché, in un solo istante che segniamo.
+
+In altre parole, la produzione di un singolo suono.
+
+Ci sono ancora molti momenti nascosti, che la ragione.
+
+Scoprire di esistere significa, quindi, venire alla luce.
+
+Che, in un attimo così breve.
+
+Quegli idoli diversi sono lì, pronti all’uso.
+
+Ognuno nel proprio posto, diverso dagli altri. Quanto grande è questa rapidità!
+
+Quindi, ancora una volta, quel vasto assortimento di oggetti idolatrici.
+
+E così, quando scompare l’immagine precedente.
+
+E un altro è caratterizzato da una diversa posizione.
+
+I primi sembrano aver cambiato i loro gesti.
+
+E poiché sono così tenue, la mente può percepirle.
+
+Solo, in modo netto e distinto, coloro che si sforzano di vederlo.
+
+E così tutti gli altri periscono senza eccezione.
+
+Riservale per coloro per i quali la mente si prepara.
+
+Inoltre, si prepara effettivamente per farlo.
+
+E si spera di vedere ciò che accade dopo ciascuno di essi.
+
+Ecco quindi questo risultato. Poiché non hai forse osservato.
+
+Come gli occhi, nel tentativo di percepire ciò che è delicato e sottile.
+
+Ci sarà uno sforzo eccessivo nella preparazione, altrimenti.
+
+Impossibile percepire nulla in modo chiaro e netto?
+
+Tuttavia sappi che, anche negli oggetti più semplici,
+
+Se non presti attenzione, è esattamente la stessa cosa.
+
+Come se fosse sempre lontano, irraggiungibile.
+
+Quale meraviglia, dunque, se la mente perde tutto il resto.
+
+Salvare coloro a cui “esso si è donato”?
+
+Ecco quindi come, partendo da piccoli segni, facciamo congetture.
+
+Affari importanti e significativi, ci coinvolgono completamente.
+
+Nel vortice dell’autoinganno.
+
+ALCUNE FUNZIONI VITALE
+
+In queste questioni
+
+Aneliamo che tu fugga con passione.
+
+Quell’unica colpa, che si deve evitare con ogni sforzo.
+
+L’errore di presumere l’esistenza di luci chiare e distinte.
+
+Gli occhi furono creati affinché potessimo vedere.
+
+O cosce e ginocchia, proprio vicino ai piedi.
+
+In questo modo può essere piegato ciò che ci permetta di procedere.
+
+Con passi decisi e sicuri, o con i gomiti uniti.
+
+Alle robuste parti superiori, o alle “mani” utili per il servizio.
+
+Da entrambi i lati ci veniva offerta l’opportunità di agire così.
+
+Le esigenze stesse della vita. Tutto ciò rappresenta una forma di interpretazione.
+
+“Avanti-indietro” rappresenta un ragionamento inverso.
+
+Poiché nulla nasce nel corpo in modo tale che noi.
+
+Si può utilizzare lo stesso concetto, ma la nascita genera l’uso di determinate cose.
+
+Prima ancora che nascessero le luci degli occhi, non c’era alcuna visione.
+
+Prima ancora che la lingua venisse creata, non esisteva alcuna capacità di parlare.
+
+Ma l’origine della lingua risale a tempi molto più remoti.
+
+Il discorso delle parole e gli orecchi creati.
+
+Molto prima che si udisse qualsiasi suono;
+
+E sembra che tutti i membri fossero presenti.
+
+Prima che venissero utilizzati, e quindi, essi.
+
+Non è possibile attribuire un genere a tale termine per motivi di utilità pratica.
+
+Ma al contrario, combattendo in quella lotta.
+
+A corpo a corpo, con le articolazioni spezzate.
+
+E le membra erano imbrattate di sangue. C’era davvero.
+
+Molto prima che le lance scintillanti venissero scagliate.
+
+E la natura spinse l’uomo ad evitare le ferite.
+
+Prima dell’arto sinistro, con l’aiuto della tecnica.
+
+Contrappose lo scudo protettivo. E, in verità,
+
+Concedendo al corpo stanco il riposo che merita,
+
+Molto più antichi dei cuscini dei letti morbidi.
+
+E placare la sete avviene prima ancora che vengano utilizzate le tazze.
+
+Questi oggetti, pertanto, che sono utilizzati nella vita quotidiana.
+
+Sono stati ideati; possono essere considerati come già esistenti.
+
+Per motivi di utilità. Ma al di là di ciò.
+
+Tutti coloro che sono nati per primi e in seguito.
+
+Rivelò la loro stessa [utilità](/positions/utility_pleasure).
+
+In primo luogo, ricordiamo i sensi e gli arti.
+
+Pertanto, ancora una volta, è assolutamente al di fuori del tuo potere.
+
+Sostenere che queste cose potessero essere create in questo modo.
+
+Per un ufficio di utilità.
+
+Allo stesso modo,
+
+Non c’è nulla di strano nel fatto che tutte le creature viventi.
+
+Cercano il proprio cibo, anche in base alle caratteristiche fisiche del loro organismo.
+
+Sì, poiché ti ho insegnato che tutto ciò deriva dalle cose.
+
+Innumerevoli corpi scorrono e si allontanano.
+
+In modi innumerevoli, anche, ma soprattutto.
+
+Devono essere i corpi che emergono dai viventi.
+
+Quali corpi, costantemente tormentati dal movimento.
+
+Innumerevoli cose vengono espulse attraverso la bocca.
+
+Quando le creature stanche ansimano, o attraverso il sudore.
+
+Espulsi in numero inesauribile dalle profondità interne.
+
+Così il corpo si rarefa, venendo progressivamente indebolito.
+
+Nella sua essenza stessa, lo stato di dolore è inevitabile.
+
+E così il cibo viene portato sotto, per essere sostenuto.
+
+Le articolazioni instabili, e attraverso la loro fusione.
+
+Per ricostituire le loro forze, e basta così.
+
+Il desiderio, che pervade ogni parte del corpo e ogni vena.
+
+Per mangiare. E anche l’umidità se ne va.
+
+In tutte le regioni che richiedono umidità.
+
+E molte particelle calde e accumulate.
+
+Qual è la causa di queste bruciature nei nostri stomaci?
+
+Il liquido, non appena arriva, si disperde immediatamente.
+
+E spegne, come un fuoco, quel calore ardente e soffocante.
+
+Ora non è più possibile bruciare il telaio. E così.
+
+Vedi come la sete ardente venga cancellata.
+
+Dall’esterno del nostro corpo, come quel dolore acuto della fame.
+
+Anche quello si placò.
+
+Ora, come mai noi.
+
+Ogni volta che lo desideriamo, possiamo avanzare con passi decisi verso il futuro.
+
+E come mai è possibile muovere i nostri arti?
+
+E quale strumento non è propenso ad andare avanti?
+
+Questo rappresenta il peso principale del nostro corpo fisico.
+
+Ti dico una cosa: presta attenzione a ciò che viene detto.
+
+Dico che, innanzitutto, alcuni film sugli idoli in movimento.
+
+Nella nostra mente giungono e colpiscono con forza.
+
+Come detto in precedenza, successivamente si verificherà.
+
+Nessuno inizia a fare qualcosa prima di.
+
+L’intelletto prevede ciò che desidera.
+
+E ciò che esso prevede dipende.
+
+Su cosa si basi quell’immagine. Quando, dunque, la mente.
+
+Si muove in modo tale da poter esprimere la propria volontà.
+
+Andare e procedere insieme, sembra la cosa più naturale al mondo.
+
+Quell’energia dell’anima che è diffusa ovunque.
+
+In tutto il corpo, attraverso gli arti e la struttura fisica.
+
+E questo è facile da realizzare, poiché.
+
+L’anima è strettamente legata alla mente.
+
+In seguito, l’anima colpisce a sua volta il corpo, e gradualmente.
+
+Così l’intera massa viene spinta avanti e si muove.
+
+Anche allora il corpo si rarefa, e l’aria.
+
+Certamente, come sempre quando si tratta di tale agilità.
+
+Arriva e penetra in abbondanza.
+
+Attraverso pori aperti, e così si diffonde ovunque.
+
+Fino ai luoghi più piccoli del nostro essere.
+
+Pertanto, grazie a questi due fattori, considerati separatamente.
+
+Il corpo viene spinto avanti come una nave, grazie alle remi e al vento.
+
+Nemmeno in queste circostanze c’è nulla di sorprendente.
+
+Che particelle così sottili possano ruotare vorticosamente.
+
+Un corpo così grande, eppure in grado di sollevare un peso del genere.
+
 <span class="atom-split" data-atom="030" data-title="BOOK IV (parte 7)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="positions/atomism,positions/materialism,concepts/soul,schools/epicureanism"></span>
 
 For wind, so tenuous with its subtle body,
@@ -11271,6 +22117,400 @@ Whether a boy with limbs effeminate
 Assault him, or a woman darting love
 
 From all her body — that one strains to get
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per il vento, così tenue nella sua essenza sottile.
+
+Eppure spinge, facendo avanzare quella potente nave.
+
+Di imponenti dimensioni; una sola mano ne dirige il movimento.
+
+Qualunque sia la sua velocità, e con un solo timone.
+
+Giralo pure come desiderate; e caricateci sopra ciò che volete.
+
+Molti e enormi vengono mossi e sollevati in alto.
+
+Attraverso l’uso di sistemi di pulegge e ruote,
+
+Con un semplice sforzo lieve.
+
+Ora, con quali [MODI](/concepts/mode) avviene questo sonno.
+
+Acque di riposo scorrono attraverso i nostri membri.
+
+E libera il petto dai pesi dell’anima. Ve lo dirò.
+
+In versi più dolci di molti altri.
+
+Anche se il tenue suono del cigno è di gran lunga più bello.
+
+Più di quel clamore disordinato dei gru.
+
+Tra le nuvole leggere del vento meridionale. Tu.
+
+Datemmi orecchie acute e una mente perspicace.
+
+Affinché tu non possa negare l’esistenza di queste cose.
+
+Di ciò di cui parlo, non devi allontanarti.
+
+Disprezzando profondamente queste verità enunciate ad alta voce,
+
+Sei tu stesso in errore, incapace di percepire la verità.
+
+Il sonno sopravviene principalmente quando l’energia dell’anima.
+
+Ora è stato disperso in tutto il contesto, e in parte.
+
+Espulsi all’estero e lontani da casa, e separati.
+
+Incastrato all’interno del telaio e sistemato in posizione stabile.
+
+Dopo di ciò, i nostri membri, ormai rilassati, si abbassano.
+
+Non esiste alcun dubbio che, attraverso l’azione dell’anima.
+
+In noi esiste questo senso; e quando, nel sonno.
+
+Quel senso viene ostacolato; siamo costretti a pensare in un altro modo.
+
+L’anima, confusa e scacciata lontano.
+
+Tuttavia, non del tutto; altrimenti, l’intero quadro andrebbe distrutto.
+
+Immersi nel freddo eterno della morte.
+
+In verità, quando nessuna parte dell’anima rimaneva.
+
+Nascosto tra i membri, proprio come il fuoco.
+
+Nascosto sotto molte ceneri, da lì.
+
+Potrebbe il senso essere nuovamente ravvivato nei membri.
+
+Come può una fiamma risorgere da un fuoco invisibile?
+
+Con quali mezzi si è raggiunto questo strano stato e questa novità.
+
+Può verificarsi per causa di qualcosa, e quale possa essere questa causa per l’anima.
+
+Può essere confuso e il contesto diventa sfocato.
+
+Sciolgerò questo intreccio. Vedi di far sì che io possa.
+
+Emana le mie parole, non verso venti vuoti.
+
+In primo luogo, il corpo nelle sue parti esterne.
+
+Poiché queste sono colpite da brezze d’aria vicine.
+
+Deve necessariamente esserci un movimento continuo di colpi d’aria?
+
+Più e più volte. E quindi, quasi sempre.
+
+Sono ricoperti o da pelli o da gusci.
+
+O con lo strato corneo, o con la corteccia.
+
+Eppure lo stesso stesso ambiente colpisce duramente le loro interiorità.
+
+Quando le creature inspirano o espirano.
+
+Pertanto, poiché il corpo viene frustato allo stesso modo.
+
+Dentro e fuori, e i soffi.
+
+Entrano in noi attraverso quei piccoli pori.
+
+Anche nelle parti più primitive del nostro corpo.
+
+E gli elementi primordiali, così accade.
+
+Gradualmente, lungo i nostri arti.
+
+Una sorta di rovesciamento, poiché in quel caso tutto diventa confuso.
+
+Sono forse quegli schemi dei germi primordiali.
+
+Di corpo e di mente. Accade così.
+
+Che quella parte dell’anima venga espulsa all’esterno.
+
+Una parte si ritira in nascondigli nascosti.
+
+Inoltre, alcune parti erano sparse dappertutto all’interno del telaio.
+
+Non può unirsi né impegnarsi in alcuna azione congiunta.
+
+In cambio del movimento. Ora, la natura.
+
+Quindi si allontanano da qualsiasi approccio o percorso possibile.
+
+E così, il senso stesso, con tutte le sue funzioni alterate.
+
+Si ritira nelle profondità interiori. E poiché non c’è nulla.
+
+In un certo senso, per sostenere quella struttura, il corpo si indebolisce.
+
+E tutti i membri languiscono, e le braccia.
+
+E le palpebre si chiudono; e, mentre giaci a letto.
+
+Anche lì, le ossa delle spalle si appesantiranno e perderanno la loro forza.
+
+Ancora una volta, il sonno segue il pasto, perché.
+
+Il cibo produce lo stesso effetto dell’aria.
+
+Mentre sono disseminati in tutte le vene.
+
+E ciò che è forse più grave è quel sonno che.
+
+Che tu sia sazio o stanco, prendi pure; poiché è così che deve essere.
+
+Che i corpi più complessi si scompongano.
+
+Stremati da fatiche ardue. E allo stesso modo.
+
+Questo cambiamento triplo: una spinta dell’anima.
+
+Più in profondità, si tratta piuttosto di un’estensione di esso.
+
+Un movimento più diviso nelle sue parti.
+
+E ancora più sparse.
+
+E per qualsiasi scopo si perseguisca.
+
+Un uomo si attacca con grande intensità alle proprie occupazioni, o meglio, ai propri affari.
+
+Su questo argomento abbiamo quindi dedicato molto tempo alle nostre riflessioni.
+
+E la mente si sforza ancora di più; sembra che.
+
+Nel sonno, non è raro che si ripeta la stessa cosa.
+
+Gli avvocati sembrano fare appello e citare decreti.
+
+Comandarono loro di combattere e di gettarsi nella mischia.
+
+I marinai devono vivere combattendo contro i venti.
+
+E noi stessi, in effetti, abbiamo voluto scrivere questo libro.
+
+Eppure, continuare a cercare la natura del mondo.
+
+E scrivilo qui, non appena verrà scoperto.
+
+Nelle foglie del mio paese. Così tutte le attività umane.
+
+Tutte le arti, in generale, sembrano schernire il mondo nel sonno.
+
+E dominare le menti degli uomini. Chiunque lo faccia.
+
+Giorno dopo giorno, per molto tempo, i giochi hanno rappresentato.
+
+Con tutta la loro attenzione concentrata, continuano comunque.
+
+(Come spesso osserviamo), anche quando hanno smesso di comprenderlo.
+
+Quei giochi, con i loro “propri sensi” e i percorsi aperti che offrono.
+
+Nella mente attraverso la quale scorrono quelle immagini idolatriche.
+
+Solo da quei giochi possono derivare cose del genere. Ed è proprio così.
+
+Per molti, nei giorni che seguirono, quelle cose sembrarono davvero reali.
+
+Fluttuante davanti agli occhi, anche quando si è svegli.
+
+Pensano di essere in grado di osservare i ballerini muoversi intorno.
+
+Le loro membra flessibili, e l’abilità di afferrare con entrambe le orecchie.
+
+La melodia liquida dell’arpa e le corde che sembrano parlare.
+
+E osservate lo stesso assemblaggio sui sedili.
+
+E le molteplici, splendide meraviglie del palcoscenico.
+
+Tanto grande è l’influenza dell’impegno e dell’entusiasmo.
+
+E tra tutte le cose per cui “è sempre stato così”.
+
+Che gli uomini si impegnino, e non solo gli uomini.
+
+Ma in realtà tutti gli animali. Ecco.
+
+Vedrai quei cavalli robusti, anche se distesi completamente.
+
+Eppure, sudavano nel sonno e continuavano ad ansimare senza sosta.
+
+E usando tutta la propria forza, come se si trattasse di conquistare un premio.
+
+Come se, ora che le barriere sono state rimosse.
+
+E branchi di cacciatori, spesso in tranquillo riposo.
+
+Eppure, improvvisamente, iniziarono a muovere tutte le loro gambe disordinatamente.
+
+E ringhiano, abbaiano, e annusano con le loro narici.
+
+I venti, ancora e ancora, come se davvero.
+
+Avevano individuato le tracce profumate di bestie selvatiche.
+
+E, anche quando si svegliano, spesso continuano nella loro strada.
+
+Le immagini fantasma dei cervi, come se.
+
+Hanno effettivamente notato che fuggivano davanti a loro.
+
+Fino a quando l’illusione non verrà scossa via e i cani.
+
+Tornare in sé. E quella razza servile.
+
+Solo i cuccioli allevati in casa provano questo improvviso impulso.
+
+Per scuotere i loro corpi e partire da zero.
+
+Come se stessimo osservando volti sconosciuti.
+
+E più feroce è la razza, più.
+
+Nel sonno, lo stesso fenomeno è inevitabilmente destinato a ripetersi.
+
+Ma fuggi dalle varie tribù di uccelli e dai loro fastidi.
+
+Con ali improvvisate, di notte, attraversano i boschi degli dei.
+
+Quando, nei loro dolci sonnellini, hanno sognato.
+
+Di aquile che inseguono, piombando giù per combattere.
+
+Ancora una volta, le menti dei mortali che compiono.
+
+Con movimenti potenti e imprese grandiose.
+
+Spesso, nel sonno, si fanno e si osano le stesse cose.
+
+In modo simile. I re conquistano le città con un assalto improvviso.
+
+Cedere alla cattura, combattere sul campo di battaglia.
+
+Alzarono un grido selvaggio, come se loro gole fossero state tagliate.
+
+Anche allora e lì. E molti continuano a lottare.
+
+E gemere di dolore, e riempire tutte le regioni circostanti.
+
+Con grida potenti e disperate, come se in quel momento venissero lacerati.
+
+Con i denti affilati della pantera o del leone feroce.
+
+Molti, mentre dormono, parlano di.
+
+Le loro imprese grandiose, e spesso.
+
+Gli stessi fatti diventano la prova dei loro crimini.
+
+Molti incontrano la morte; molti, come se si precipitassero verso di essa.
+
+Dai maestosi monti che si precipitano sulla terra.
+
+Con tutto il loro essere, sono presi dal panico per la paura.
+
+E dopo il sonno, come se ancora fosse folle di mente,
+
+A malapena riescono ad arrivare, così confusi com’sono.
+
+Attraverso la fermentazione del loro organismo. L’uomo assetato.
+
+Allo stesso modo, siede accanto a una deliziosa primavera.
+
+O fiume, che lo inghiotte tutto con la gola spalancata.
+
+Per quasi l’intero corso del fiume. E spesso i giovani innocenti.
+
+Con il sonno che li domina, pensano di sollevare le loro vesti.
+
+Per secchio o attraverso canali pubblici, e poi nel nulla.
+
+L’acqua filtrava attraverso tutto il loro corpo.
+
+E inumidire quelle coperte babilonesi.
+
+Straordinariamente luminosi. Ancora una volta, quei maschi.
+
+Nel flusso impetuoso degli anni.
+
+Prima di tutto, è stata generata la semina.
+
+All’interno dei loro membri, con il passare dei giorni.
+
+Mentre dormono, vengono affrontati dall’esterno.
+
+Attraverso le immagini idealizzate di alcune forme belle.
+
+Notizie di volti splendidi e bellezza incantevole.
+
+Che agitano e stimolano quelle regioni ormai gonfie.
+
+Con semi in abbondanza; in modo che, per così dire.
+
+Dopo che tutte le procedure necessarie sono state adeguatamente eseguite,
+
+Essi generano le onde di un corso d’acqua potente e impetuoso.
+
+E macchiano i loro vestiti.
+
+E come detto in precedenza,
+
+Quel seme si risveglia in noi quando arriviamo all’età matura.
+
+Ha reso il nostro corpo forte.
+
+Poiché diverse cause producono effetti diversi in cose diverse.
+
+Impulso e irritazione: quindi, una sola forza.
+
+Nella specie umana, è proprio il seme umano a suscitare.
+
+Scaturire dall’uomo. Non appena emerge.
+
+Costretto a lasciare le sue prime dimore, prosegue il suo cammino.
+
+In tutto il corpo, attraverso gli arti e la struttura fisica.
+
+In alcune zone dei nostri territori, si verificano incontri.
+
+E agita con forza gli organi genitali dell’uomo.
+
+Le regioni stimolate si riempiono di semi, e poi.
+
+Arriva la gioia di poter fare lo stesso anche con.
+
+Un desiderio folle anela ardentemente; il corpo cerca disperatamente.
+
+Quell’oggetto dal quale la mente viene penetrata dall’amore.
+
+Perché quasi ogni uomo tende a tornare verso la ferita che lo ha colpito.
+
+E il nostro sangue si riversa persino verso quel luogo da cui.
+
+Il colpo che ci ha colpiti, e se davvero.
+
+Il nemico è vicino; il getto rosso lo colpisce.
+
+Pertanto, colui che subisce un ictus causato dai “raggi” di Venere.
+
+Se un ragazzo con arti effeminati.
+
+Attaccalo, oppure una donna che scaglia amore.
+
+Dall’intero suo corpo: quel corpo che si sforza di raggiungere.
 
 <span class="atom-split" data-atom="031" data-title="BOOK IV (parte 8)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -11668,6 +22908,402 @@ Whom they desire to keep in bonds of love —
 
 In vain, since ne’ertheless thou canst by thought
 
+<span class="qlang-split" data-lang="it"></span>
+
+Anche verso quella cosa che lo ha colpito, e per la quale anela.
+
+Per unirsi ad esso e inserirsi nel suo contesto.
+
+Il fluido viene estratto persino dal suo stesso interno.
+
+Poiché quel desiderio silenzioso preannuncia gioia.
+
+La passione d’amore
+
+Questo desiderio è proprio ciò che Venere rappresenta per noi.
+
+Da ciò derivano tutte le seduzioni dell’amore.
+
+Da ciò, o primi tra gli uomini.
+
+Quella goccia di gioia che, presto o tardi.
+
+È attraverso una calma e attenta considerazione che si ottiene il successo. Poiché, in effetti,
+
+Anche se la donna che ami ora è lontana,
+
+Eppure, le immagini idolatrate di lei sono vicine.
+
+E quel dolce nome risuona ancora nelle tue orecchie.
+
+Ma è necessario fuggire da tali immagini;
+
+E spaventa da lontano tutto ciò che nutre il tuo amore.
+
+E rivolgi altrove i tuoi pensieri; e sfoga quella “essenza”.
+
+In te sono raccolti, in diverse forme e corpi.
+
+Né tantomeno, con i tuoi pensieri ancora assorti in un unico amore.
+
+Conservalo come una fonte di gioia e conservalo così.
+
+Prenditi cura di te stesso: il dolore è inevitabile.
+
+Infatti, l’ulcera, semplicemente nutrendosi.
+
+Cresce con una profonda e ostinata vitalità.
+
+E giorno dopo giorno la furia cresce sempre di più, diventando sempre più intensa.
+
+E la sofferenza aumenta di giorno in giorno.
+
+A meno che tu non distrugga tutto con nuovi colpi.
+
+Le vecchie ferite d’amore, e guariscile.
+
+Mentre sono ancora freschi, vagando liberamente dappertutto.
+
+Dopo Venere, che vagava liberamente, o forse.
+
+Puoi forse indirizzare altrove i turbamenti della tua mente.
+
+Né colui che si allontana dall’amore.
+
+Tuttavia, mancano i frutti di Venere; anzi, si preferisce.
+
+Quei piaceri che sono privi di conseguenze negative.
+
+Per i piaceri di Venere, davvero.
+
+Più puri, per i mortali di mente sana.
+
+Per coloro che soffrono per amore.
+
+Sì, proprio nel momento in cui si possiede qualcosa.
+
+Il calore degli amanti si intensifica avanti e indietro.
+
+Inquieti, incerti, e non riescono a prendere una decisione.
+
+Su cosa godere per primo con gli occhi e con le mani.
+
+Le parti che cercano, quelle che stringono con tanta forza.
+
+E infliggere dolore al corpo di quella creatura, farle stringere i denti.
+
+Spesso vicino alle sue labbra, e colpito con un bacio.
+
+Bocca a bocca, perché proprio questa stessa gioia.
+
+Non è puro; e in fondo ci sono delle punture.
+
+Ciò che spinge un uomo a danneggiare proprio ciò che.
+
+Qualunque esso sia, da dove derivi per lui.
+
+Quei germi della follia. Ma con un tocco delicato.
+
+Venere placa i dolori nel mezzo dell’amore.
+
+E l’aggiunta di una gioia tenera e affettuosa.
+
+Riesce a contenere i morsi della passione. Poiché essi sperano.
+
+Proprio attraverso quel corpo dal quale avevano tratto.
+
+Le fiamme dell’amore possono essere spente.
+
+Ma la natura protesta: le cose stanno del tutto diversamente.
+
+Per questo stesso amore, è l’unica cosa che conta.
+
+Di questi, più ne possediamo, più intensa diventa la fiamma che li consuma.
+
+Il seno, con desideri lussuriosi. Per cibo e bevande.
+
+Sono incluse tra i nostri membri; e poiché esse.
+
+È possibile bloccare alcune parti in modo facile.
+
+Il desiderio d’acqua viene saziato, così come quello di pane.
+
+Ma, oh, dal volto umano e dalla grazia incantevole.
+
+Niente penetra nel nostro essere per poter essere goduto.
+
+Lasciate perdere quelle fragili immagini di idoli e le vanità.
+
+Una speranza vana, spesso dispersa dal vento.
+
+Come quando l’uomo assetato, nel sonno, cerca.
+
+Per bere, ma mai gli viene concessa dell’acqua.
+
+Per placare il calore che ardeva in ogni parte del suo corpo.
+
+Ma dopo che gli idoli dei liquidi hanno lottato.
+
+E lavora invano, e ha sete anche mentre beve avidamente.
+
+Nel mezzo del torrente, così innamorati.
+
+Venere inganna con immagini di idoli.
+
+I due amanti. Nemmeno loro riescono a saziare la loro lussuria.
+
+Bastava semplicemente osservare quei corpi per, né.
+
+Non possono strofinare utilizzando le palme e le dita.
+
+Ogni tenero arto, mentre vagano.
+
+Incerto riguardo al corpo intero. Poi.
+
+Finalmente, con i loro membri intrecciati, quando.
+
+Goditi la “fioritura” della loro età, in questo momento.
+
+I loro corpi preannunciano dolci gioie future.
+
+E Venere sta per seminare i campi.
+
+Delle donne, con avidità ne chiudono i corpi in gabbie.
+
+E mescolare le parole che escono dalle loro bocche, e respirare.
+
+Insieme, con i denti premuti l’uno contro l’altro.
+
+Tuttavia, è inutile, poiché sono impotenti.
+
+Per cancellare qualcosa, o per penetrare e superare ogni ostacolo.
+
+Con tutto il corpo, in tutto il corpo, poiché spesso.
+
+Sembra che si sforzino e lottino appunto per farlo.
+
+Con tale avidità si aggrappano ai legami di Venere.
+
+Mentre i loro membri si sciolgono, supera.
+
+Per un’estrema gioia. Ma quando finalmente.
+
+La lussuria, raccolta nelle tenebre, si è esaurita.
+
+Si verifica una breve pausa nel calore torrido.
+
+Ma poi, ancora una volta, ritorna la stessa follia.
+
+E quella vecchia furia li assale di nuovo.
+
+Quando ancora una volta cercano e anelano a raggiungere.
+
+Non sanno cosa; sono completamente impotenti nel cercare di scoprirlo.
+
+L’ingegno necessario per sottomettere quel male.
+
+In uno stato così incerto, si consumano gradualmente.
+
+Con una ferita invisibile.
+
+A questo si aggiunge anche.
+
+Sprecano le loro forze e, con tale sforzo, diminuiscono progressivamente.
+
+Si aggiunge inoltre che trascorrono i loro anni vani.
+
+Alla chiamata di un altro; i loro doveri.
+
+Ciò che viene trascurato languisce, e anche il suo nome onesto perde significato.
+
+Reeleth è malata, molto malata. E nel frattempo, le loro [proprietà](/concepts/commodity).
+
+Persi nelle tappezzerie babilonesi.
+
+E unguenti, e delicati sandali sicioniani.
+
+Ride fino alle lacrime, e (come potete esserne certi, )
+
+Grandi smeraldi di luce verde sono incastonati nell’oro.
+
+E quel vestito color viola marino, diventato logoro a causa dell’uso costante.
+
+Diventa logoro e completamente intriso del sudore di Venere;
+
+E la ben meritata proprietà ereditaria.
+
+Diventano fascie per la testa, acconciature varie, e spesso ancora di più.
+
+Gli abiti o i vestiti degli Alideniani.
+
+O dell’isola di Ceo. E banchetti, preparati con cura.
+
+Con i tessuti e i cibi più rari, vengono preparati.
+
+E giochi di [caso](/concepts/fortune), e molte tazze da bere.
+
+E unguenti, corone e ghirlande. Tutto invano.
+
+Poiché, dal cuore stesso di quelle fonti di delizia.
+
+Aggiungi qualche goccia di amarezza per tormentare.
+
+Tra i fiori stessi, se per caso la mente.
+
+Si dilania interiormente, ora colpito dal rimorso.
+
+Per anni di pigrizia e rovina descritti da Baudelaire.
+
+O forse perché lo ha lasciato completamente nel dubbio.
+
+Con l’uso di qualche parola astuta, che ancora oggi, come il fuoco.
+
+Vive con passione, attaccato al suo cuore pieno di desiderio;
+
+O forse perché pensa che lei muova rapidamente gli occhi.
+
+Troppo tempo trascorso a fissare un altro.
+
+E sul suo viso vede tracce di una risata.
+
+Questi mali si riscontrano anche nell’amore prospero e sincero.
+
+Ma nell’amore contrastante e nella disperazione esistono proprio queste situazioni.
+
+Come se attraverso palpebre chiuse potessi ancora percepire.
+
+Innumerevoli mali. Meglio quindi astenersi del tutto.
+
+Per poterlo osservare in anticipo, nel modo che ho mostrato.
+
+E fate attenzione alle tentazioni: poiché evitare.
+
+Cadere nelle trappole amorose.
+
+Non è così difficile riuscire a uscirne di nuovo.
+
+Quando si trovavano intrappolati proprio in quelle reti e venivano spezzati.
+
+I robusti lacci di Afrodite.
+
+Eppure, anche quando i piedi sono intrecciati in nodi complicati.
+
+Puoi ancora sfuggire al pericolo, a meno che davvero.
+
+Tu ostacoli la realizzazione del tuo stesso bene.
+
+E soprattutto osservi tutte le imperfezioni.
+
+Del corpo e dell’anima della tua amata.
+
+Dama desiderabile. È così che fanno gli uomini.
+
+Ciechi di passione, e assegnare loro.
+
+In realtà, non si tratta di grazie loro. E così vediamo.
+
+Esseri viventi, molti dei quali saggi, contorti e brutti.
+
+I giovani innamorati, molto stimati da tutti.
+
+E gli amanti si avvolgono l’uno nell’altro e si consigliano a vicenda.
+
+Per placare Venere, poiché i loro amici sono stati colpiti.
+
+Con una passione profonda, miserabili ingannati.
+
+Coloro che raramente si rendono conto del proprio peggiore nemico.
+
+La ragazza di pelle nera è “di colore dorato, come il miele”.
+
+Il “negligé” del lurido e del putrido.
+
+Con quegli occhi da gatto, è davvero una “piccola Pallas”.
+
+Il vecchio, agile e rugoso, era come una “gazella”.
+
+Il grassoccio e il nanetto sono “piccanti”.
+
+“Una delle Grazie, senza dubbio”; quella grande e robusta.
+
+Oh, lei è davvero “un’ammirazione, imponente”.
+
+Quei balbettii e quelle parole inceppate, pronunciate con un tono dolce.
+
+La “modestia” della ragazza muta, e la loquacità di quella chiacchierona.
+
+Quella persona velenosa e irascibile è davvero dotata di un “ingegno scintillante”.
+
+E lei, che a malapena vive per la sua magrezza.
+
+Diventa “una creatura snella e adorabile”; “delicata”.
+
+È lei quella che sta per morire a causa di un attacco di tosse così violento.
+
+La donna dal corpo rotondo e dai seni prominenti.
+
+È “come Cere quando la dea la creò”.
+
+“Piccolo Bacco, succhia, ”; la donna innamorata dal naso schiacciato.
+
+“Una satira, un Sileno femminile, ”
+
+Le labbra carnose rappresentano “un unico e delizioso bacio”.
+
+Raccontare tutto richiederebbe molto tempo.
+
+Ma che il suo volto possieda tutto il fascino che volete.
+
+Lasciate che la gloria di Venere emerga da tutti i suoi membri.
+
+Certo, ne esistono ancora altri; e certamente.
+
+Abbiamo vissuto prima senza di lei; e in effetti.
+
+Fa le stesse cose, e sappiamo che le fa.
+
+Tutto, come quella creatura orribile, e lei ne percepisce l’odore.
+
+Sì, lei, quella sua misera persona, profumata di odori volgari.
+
+Di fronte a cui persino le sue ancelle fuggono e ridacchiano.
+
+Di nascosto, dietro le sue spalle. Ma lui, l’amante, in lacrime.
+
+Perché esclusa, copre la soglia della sua casa.
+
+Spesso con fiori e ghirlande, e anche con unguenti.
+
+I suoi orgogliosi stipiti, decorati con maggiorana.
+
+E stampe, povero ragazzo, baci sulle porte.
+
+Ammesso finalmente, se solo per un attimo.
+
+Appena mi avvicinavo, lui cercava di.
+
+Scuse più che valide per uscire immediatamente.
+
+E il suo lamento, a lungo riflettuto, sarebbe infine espresso.
+
+Inseguendolo senza sosta. E così si sarebbe rovinato da solo.
+
+A causa della sua stupidità, osservare come.
+
+Aveva assegnato a quella stessa signora molto di più.
+
+Allora è giusto concedere questo ai mortali.
+
+E queste nostre “Veneri” ne sono la “manifestazione”.
+
+Pertanto, più si sforzano di nascondere.
+
+Tutti gli aspetti della vita che avvengono “dietro le quinte”, da quelli.
+
+Chi desiderano tenere legati da vincoli d’amore.
+
+Inutilmente, poiché comunque non puoi con il pensiero.
+
 <span class="atom-split" data-atom="032" data-title="BOOK IV (parte 9)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Drag all the matter forth into the light
@@ -11939,6 +23575,278 @@ Is overcome and wavers. Seest thou not,
 Besides, how drops of water falling down
 
 Against the stones at last bore through the stones?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Portate tutto ciò alla luce.
+
+E indagate bene la causa di tutti questi sorrisi.
+
+E se è di animo gentile e premuroso.
+
+Anche tu, a tua volta, ignora queste cose.
+
+E così si spiega l’elevata mortalità infantile.
+
+Né la donna sospira sempre con un amore fingito.
+
+Chi avvolge il proprio corpo intorno a quello di un uomo, serrandolo stretto.
+
+E lo tiene stretto, rendendo i suoi baci umidi.
+
+Con le labbra fuse una contro l’altra; spesso lei agisce così.
+
+Anche nascendo dal desiderio e nella ricerca di gioie reciproche.
+
+Incita lui ad attraversare la pista di corsa dell’amore.
+
+Né allo stesso modo possono farlo bovini, uccelli, bestie selvatiche.
+
+E pecore e cavalle si sottomettono ai maschi.
+
+Tranne che la loro stessa natura è in uno stato di eccitazione.
+
+E brucia con abbondanza, e lo accetta con gioia.
+
+Ancora una volta, la “Venus” dei giovani uomini in piena fioritura.
+
+E non vedi forse come coloro che provano piacere reciproco.
+
+Sono forse legati e tormentati dai loro stessi vincoli comuni?
+
+Quante volte, agli incroci delle strade, i cani ansimano.
+
+Per separarsi, si sforzano con impazienza di allontanarsi l’uno dall’altro.
+
+Con la massima forza possibile? — Mentre in realtà si muovono molto velocemente.
+
+Nelle robuste catene di Venere. Ma loro non avrebbero mai.
+
+Quindi tiravano, anche se conoscevano quelle gioie reciproche.
+
+Così potente da gettarli in trappole.
+
+E tenerli legati. Pertanto, ancora una volta.
+
+Proprio mentre lo dico, esiste una gioia condivisa.
+
+E quando, forse, mescolando i propri semi con quelli di lui.
+
+La donna ha sopraffatto la forza dell’uomo.
+
+E con un movimento improvviso l’ha afferrato saldamente.
+
+Allora i discendenti sono, per lo più, frutto del seme materno.
+
+Più simili alle loro madri; poiché, dal seme dei padri.
+
+Sono come padri. Ma chi si può considerare tale?
+
+Partecipanti di ogni forma, una miscela uniforme e uguale.
+
+Tra le caratteristiche dei genitori, queste sono quelle che vengono trasmesse ai figli.
+
+Dallo corpo dei padri e dal sangue delle madri.
+
+Quando il calore reciproco e armonioso si è dissipato.
+
+Insieme, i semi, risvegliati lungo i loro steli.
+
+Per le lusinghe di Venere, e nessuno dei due.
+
+Imparare o essere imparati. Anche questo succede.
+
+A volte i discendenti possono nascere.
+
+Simili ai loro antenati, e riportarli indietro.
+
+Spesso le sembianze dei padri dei nonni, perché.
+
+I loro genitori, nei loro corpi, spesso conservano.
+
+Nascosti molti germi primordiali, mescolati insieme.
+
+In molti modi, che iniziano dallo standard.
+
+Il signore trasmette ciò che possiede al figlio, che a sua volta è un signore.
+
+Da qui Venere, per una variabile [fortuna](/concepts/fortune).
+
+Genera forme e le riporta in modi diversi.
+
+Tratti ancestrali, voci, e anche i capelli.
+
+Una generazione femminile emerge.
+
+Dalla semenza paterna e dal corpo materno.
+
+L’Esistenza ha creato i maschi: poiché il sesso sorge.
+
+Non più, come nei semi, che i volti siano diversi tra loro.
+
+O i nostri corpi, o le nostre membra: poiché ogni nascita.
+
+Proviene da un doppio seme; e ciò che viene creato.
+
+Proviene da quel genitore con cui ha più somiglianze.
+
+Più della propria giusta quota; come puoi notare.
+
+Che si tratti di bestiame maschio o femmina.
+
+Nemmeno le potenze divine serbano rancore verso alcun uomo.
+
+I frutti del suo seminare, affinché mai.
+
+È chiamato “padre” dai suoi adorabili bambini.
+
+E trascorrere i suoi ultimi giorni in un amore sterile, per sempre.
+
+Quello che molti uomini ritengono, e con aria cupa.
+
+Spargono abbondante sangue sugli altari.
+
+E rendete quelle alte piattaforme profumate di offerte bruciate.
+
+Per rendere le loro mogli più belle attraverso una abbondante produzione di semi.
+
+E che la peste sia invana per le divinità e i sortilegi sacri.
+
+Poiché questi uomini sono sterili: il loro seme è troppo denso.
+
+Altrimenti, sarebbe decisamente troppo acquoso e diluito.
+
+Poiché ciò che è sottile non ha la forza di separare.
+
+Arrivare rapidamente nei luoghi giusti, immediatamente.
+
+Scorre fuori da loro e, tornando indietro,
+
+Si ritira in modo fallimentare. E poi, da quel momento, inizia la fase di produzione dei semi.
+
+Viene speso di più di quanto sia necessario, in quantità eccessive e materiali.
+
+Secondo alcuni uomini, quel qualcosa non riesce nemmeno a prendere il volo correttamente.
+
+Se tale impulso dura abbastanza a lungo, altrimenti fallirà.
+
+Per entrare adeguatamente nei luoghi appropriati.
+
+O, una volta entrata, la semina viene mescolata in modo debole.
+
+Con il seme della donna: armonie di Venere
+
+Si ritiene che qui abbiano un’importanza enorme; e alcuni.
+
+Più facilmente impregnabili, e da alcuni.
+
+Alcune donne concepiscono più facilmente e diventano.
+
+Incinta. E molte donne, prima di questo, erano sterili.
+
+In diversi letti coniugali, da allora in poi.
+
+Raccolsero i partner con cui poter procreare.
+
+I bambini maschi, e con una prole adorabile.
+
+Arricchitevi. E anche per gli uomini (le cui mogli, a loro volta, )
+
+Sebbene possedessero ventri fecondi, non sono riuscite a dar loro figli.
+
+Non si trovano bambini in casa.
+
+Nature in armonia tra loro, affinché alla fine.
+
+Possono difendere la loro vecchiaia con figli valorosi.
+
+Si tratta davvero di una questione di grande importanza.
+
+Che i semi possano mescolarsi facilmente tra loro.
+
+Adatto alla riproduzione, e così denso.
+
+Dovrebbe essere mescolato con semi liquidi, in un ambiente dove il liquido sia denso.
+
+E in questo settore, ciò ha una certa importanza.
+
+Su quale alimentazione si basa la vita:
+
+Per alcuni alimenti, i semi presenti all’interno del nostro organismo si addensano.
+
+E altri li assottigliano e li fanno consumare lentamente.
+
+E in quali modi si manifesta questa profonda gioia.
+
+Prosegue. Anche questo è di estrema importanza.
+
+Poiché comunemente si ritiene che le mogli concepiscano.
+
+Più facilmente, come fanno le bestie selvatiche.
+
+Dopo la [abitudine](/concepts/custom) delle razze di quattro piedi.
+
+Poiché erano posizionate in quel modo, con i seni rivolti verso il basso.
+
+E quando i glutei si sollevano, i semi possono essere rilasciati.
+
+Nei loro luoghi appropriati. Non è nemmeno necessario nulla in più.
+
+Che le mogli utilizzino gesti e modi di adorazione.
+
+Poiché è così che questa donna ostacola e si oppone.
+
+La sua stessa concezione, sebbene troppo gioiosa.
+
+È lei stessa ad trattare la “Venus” dell’uomo con particolare cura.
+
+Con i fianchi che si sollevavano e con tutto il suo petto.
+
+Ora si piega, come le onde del mare.
+
+Sì, dal corso regolare e dall’orma uniforme della lama del aratro.
+
+Lancia la zolla, e da luoghi appropriati.
+
+Devia la forza dello slancio del seme. E le cortigiane.
+
+Sono dunque disposti a muoversi soltanto per raggiungere i propri scopi.
+
+Per evitare la gravidanza e il parto.
+
+E tutto ciò, soltanto per rendere Venere ancora più.
+
+Un piacere per gli uomini, che sembra.
+
+Le nostre mogli non ne hanno mai avuto bisogno.
+
+A volte anche troppo.
+
+Accade, e non per intervento di alcuna divinità.
+
+Né le frecce di Venere, che un misero pezzo di carta.
+
+Ciò che possiede scarsa grazia sarà amato dall’uomo.
+
+Perché a volte lei stessa, con i suoi stessi atti,
+
+Con i suoi modi accomodanti e le sue abitudini ordinate,
+
+Ti abituerà facilmente ad affrontare le difficoltà.
+
+Con tutta la tua vita, e, inoltre, ecco.
+
+Una lunga abitudine può trasformare l’amore umano.
+
+Anche quando un oggetto viene colpito ripetutamente.
+
+Con colpi, anche se leggeri, alla fine.
+
+Viene superata e vacilla. Non lo vedi forse?
+
+Inoltre, come le gocce d’acqua che cadono.
+
+Finalmente, contro le pietre, si è fatto strada attraverso di esse?
 
 <span class="atom-split" data-atom="033" data-title="BOOK V (parte 1)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -12342,6 +24250,408 @@ With life-force quickened.
 
 Likewise, thou canst ne’er
 
+<span class="qlang-split" data-lang="it"></span>
+
+PROEMIO
+
+Oh, chi può comporre una canzone con un cuore così potente.
+
+Degno della maestosità di queste grandi scoperte?
+
+O chi, con parole così potenti da riuscire a formulare.
+
+Tutte quelle lodi eccessive rivolte a lui.
+
+Chi ci ha lasciato come eredi di simili immense ricchezze?
+
+Scoperto e cercato direttamente sul suo petto stesso? —
+
+Non ne dovrebbe esserci nessuno, a mio parere, tra la stirpe mortale.
+
+Poiché, se proprio deve essere dato un nome a lui, quel nome.
+
+Richiesto dall’attuale sovrano.
+
+Di queste questioni elevate, dunque, egli era un dio.
+
+Ascoltami, illustre Memmio, un dio.
+
+Chi fu il primo, e soprattutto, ad scoprire quel piano di vita?
+
+Quello che oggi viene chiamato filosofia, e chi ne è il responsabile?
+
+Con abili manovre, in mezzo a onde così impetuose,
+
+Fuori da tale oscurità impenetrabile, la vita si ancorava.
+
+In porti così sereni, in una luce così chiara.
+
+Confronta quelle antiche scoperte, divine.
+
+Per quanto riguarda gli altri, secondo la leggenda, lo.
+
+Ceres rappresenta la mortalità.
+
+Il grano e il succo di Bacco ottenuto dalle uve coltivate sulle viti.
+
+Anche se la vita potesse continuare senza queste cose,
+
+Come riferito oggi, alcune popolazioni continuano a vivere.
+
+Ma il benessere dell’uomo era impossibile.
+
+Senza un seno, tutto è libero. E per questo, tanto più.
+
+Quell’uomo ci sembra davvero un dio.
+
+Da chi provengono i dolci conforti della vita, lontano da qui.
+
+Distribuito in vasti e popolosi territori,
+
+Ora placate le menti degli uomini. Ma se tu pensi.
+
+Le fatiche di Ercole superano queste stesse imprese.
+
+Ti allontani molto dal vero ragionamento.
+
+Perché ciò che potrebbe ferirci ora, quella poderosa bocca.
+
+Del Leone di Nemea, o di ciò che rappresenta il Cinghiale.
+
+Chi si infuriò ad Arcadia? O, ancora.
+
+Oh, che male potrebbero causare il Toro di Creta o l’Idra.
+
+Di Lerna, circondata da vipere velenose.
+
+O, che cosa rappresenta quella forza triplice del suo.
+
+Il triplice Geryone.
+
+I viaggiatori nelle paludi di Stinfalia
+
+Offendeteci quindi in modo terribile, oppure rispettate i Cavalli.
+
+Diomede di Tracia che sputa fuoco.
+
+Fuori dalle loro narici, lungo quelle zone.
+
+Bistoniano e Ismariano. E la Serpente.
+
+Quel terribile e feroce guardiano, custode dell’oro.
+
+E le lucide mele delle Esperidi.
+
+Avvolto attorno al tronco dell’albero con una massa enorme.
+
+Oh, cosa altro potrebbe ancora infliggerci?
+
+Lungo la costa atlantica e le sterminate distese marine? —
+
+Laddove nessuno di noi si avvicini nemmeno di poco.
+
+Nessun barbaro osa intraprendere nulla. E il resto.
+
+Di tutti quei mostri uccisi, anche se ancora vivi.
+
+Ancora invincibili, che danno avrebbero potuto infliggere?
+
+Nessuno, immagino. Poiché così è la terra sovraccarica.
+
+Ancora oggi sono infestate da bestie feroci, ancora oggi.
+
+È pieno di terrore ansioso mentre si attraversano i boschi.
+
+E montagne imponenti e profonde foreste.
+
+In generale, dobbiamo evitare i quartieri del genere.
+
+Ma se non si purifica il cuore, quali conflitti ne derivano allora?
+
+Quanti pericoli dobbiamo affrontare, contro nostra volontà.
+
+Allora, quanto grandi e acute devono essere le preoccupazioni derivanti dal desiderio.
+
+Quella separazione gettò l’uomo nel più profondo sconforto. Quanto grandi erano le sue paure!
+
+E ecco: l’orgoglio, la voracità spietata e la dissolutezza.
+
+Quanto grandi sono i massacri che ne derivano. E guarda!
+
+Vizi e ogni sorta di pigrizia!
+
+Pertanto, quell’uomo che soggiogò queste cose.
+
+E dal cervello espulso, davvero attraverso le parole.
+
+Non armi. Non sarebbe appropriato per lui.
+
+Onorarlo collocandolo tra gli dèi? —
+
+E tanto più perché non era abituato a dare nulla.
+
+Per quanto riguarda gli stessi dèi immortali.
+
+Molti dichiaramenti pronunciati con una “lingua divina”,
+
+E, attraverso le sue dichiarazioni, rivelare tutto ciò.
+
+La natura del mondo.
+
+**Argomento del libro e nuovo proemio contro il concetto teleologico**
+
+E ora, mentre cammino.
+
+Seguo esattamente le sue orme.
+
+I suoi ragionamenti, e le sue dichiarazioni, insegnano.
+
+Il patto grazie al quale tutte le cose sono ordinate.
+
+Come, secondo quel patto, devono attenersi alle sue disposizioni.
+
+E mai riuscirà a abolire gli eoni.
+
+Decreti inesorabili, come abbiamo potuto constatare,
+
+Tra tutti gli oggetti mortali, più di ogni altro.
+
+La mente esiste grazie alla struttura corporea nata sulla terra.
+
+E impotente, indenne, incapace di resistere.
+
+Attraverso gli immensi eoni. E perché mai?
+
+Nel sonno, quelle apparizioni idolatriche.
+
+Che l’intelligenza venga così ingannata quando noi.
+
+Sembrano davvero considerare un uomo che la vita ha abbandonato.
+
+Fino ad ora abbiamo proceduto in questo modo; l’ordine del mio piano.
+
+Mi ha portato ora fino al punto in cui.
+
+Devo redigere un rapporto su come, inoltre, l’universo.
+
+È costituito da un corpo mortale, nato nel tempo.
+
+E in quali modi si aggregava quella materia.
+
+Si è affermata come terra e cielo.
+
+Oceano, stelle, sole e luna.
+
+E poi, quali creature viventi emersero da lì.
+
+Quei vecchi luoghi legati alla terra, e quali altri ancora?
+
+Non sono mai nati affatto. E in che modo?
+
+La razza umana iniziò a dare nomi alle cose che la circondavano.
+
+E utilizzate il linguaggio diversificato che esiste tra le persone.
+
+E in quali modi tutto ciò è stato custodito nei loro cuori.
+
+Quel timore reverenziale per gli dèi, che rende sacri tutti i luoghi.
+
+Idoli, altari, boschetti sacri, laghi, gli oggetti di culto degli dei.
+
+Inoltre, deciderò con quale potere risolvere questa questione.
+
+La natura del timoniere guida il percorso del sole.
+
+E i sinuosi movimenti della luna, affinché noi,
+
+Forse, se si credesse nella propria [libera volontà](/positions/free_will).
+
+Percorrono continuamente i loro soliti sentieri, in cerchio.
+
+Cronometrano i loro movimenti al fine di aumentare la produzione delle colture.
+
+E gli esseri viventi, o forse per evitare che pensassimo.
+
+Si muovono seguendo qualsiasi disegno degli dèi.
+
+Anche coloro che hanno appreso perfettamente.
+
+Quei semidei conducono una vita lunga e libera da preoccupazioni.
+
+Se intanto si chiedono con quale piano.
+
+Le cose possono continuare ad andare avanti, soprattutto quelle cose lassù, in alto.
+
+Observato lassù, sulle coste eteree.
+
+Di nuovo ci ritroviamo precipitati verso quelle paure.
+
+Riprendere in considerazione le antiche pratiche religiose e adottarle nuovamente.
+
+Padroni crudeli, considerati onnipotenti, uomini miseri.
+
+Senza sapere ciò che è possibile e ciò che non lo è.
+
+E secondo quale legge ciascuno riceve il proprio ambito di azione stabilito?
+
+La sua pietra del confine, che si insinua così profondamente nel Tempo.
+
+Ma per il resto, affinché non ti tratteniamo oltre in questo luogo.
+
+Promesse vuote che si prolungano all’infinito. Ecco qua.
+
+Prima di tutto, i mari, le terre, il cielo.
+
+Oh Memmio, la loro natura tripla, ecco.
+
+I loro corpi presentano tre aspetti così diversi tra loro.
+
+Tre dimensioni così immense, un solo giorno sarà sufficiente per comprenderle.
+
+Verso l’annientamento! Allora crollerà.
+
+Quella forma imponente e quella struttura del mondo.
+
+Sono durato per così tanti eoni. E nemmeno io.
+
+Non riuscire a comprendere quanto sia strano e meraviglioso.
+
+Questo fatto deve colpire l’intelligenza umana.
+
+La distruzione del cielo e della terra
+
+In altre parole, — e con quale fatica di parole.
+
+Spetta a me dimostrarlo; come accade spesso.
+
+Quando una volta offrite alle orecchie dell’uomo.
+
+Qualcosa di mai sentito prima, ma forse non è così.
+
+Sottoporlo alla vista dei suoi occhi.
+
+Né metterlo in mano: la vista e il tatto.
+
+Grazie ai quali i sentieri aperti della fede.
+
+Conduce direttamente al seno umano.
+
+E regioni dell’intelligenza. Eppure.
+
+Parlerò apertamente. Il fatto stesso, forse.
+
+La forza costringerà ad credere in queste mie parole, e tu.
+
+Potrete vedere, in poco tempo, cose straordinarie.
+
+Con l’aumentare dei disordini in tutte le terre, ogni cosa.
+
+Tremando fino alle fondamenta, lontano da noi.
+
+Che lei, la timoniera Natura, guidi. E che possa.
+
+La ragione, piuttosto che il fatto stesso.
+
+Convincici che tutto possa essere rovesciato.
+
+E affondi, con un fragore terribile.
+
+Ma prima di procedere, faccio un passo indietro per riflettere attentamente.
+
+Oracoli più sacri e autorevoli, basati su.
+
+Più che mai, il sacerdote di Delfi pronunciò le sue parole per gli uomini.
+
+Dalla treppiede e dal lauro di Delfi.
+
+Ti spiegherò tutto con parole erudite.
+
+Molte sono le consolazioni, nel caso in cui.
+
+Ancora vincolato dalla religione, tu presumi.
+
+Terreni, sole e cielo, mare, costellazioni, luna.
+
+Deve durare per sempre, come parte di un disegno divino.
+
+E quindi si conclude che sono proprio loro.
+
+(Nel modo dei Giganti), se tutti.
+
+Pagare le enormi punizioni per crimini orribili.
+
+Coloro che, con i loro ragionamenti, scuotono le convinzioni altrui.
+
+Le mura dell’universo e il desiderio.
+
+Lì, per spegnere quel splendido sole del cielo.
+
+Il marchioaggio di cose immortali attraverso parole mortali.
+
+Sebbene queste stesse cose siano così lontane.
+
+Da qualsiasi traccia di divinità e sembianza.
+
+Fino ad ora indegno di essere annoverato tra gli dèi.
+
+Si può considerare che tali elementi, piuttosto che altro.
+
+Un ottimo esempio di questo tipo di cose.
+
+Quella mancanza di movimento vitale, di senso vivido.
+
+Senza dubbio, è del tutto fuori luogo pensare.
+
+Quel giudizio e la natura della mente.
+
+In qualsiasi tipo di corpo possa esistere.
+
+Proprio come nell’etere non può esistere un albero,
+
+Né nuvole nel mare salato, né nei campi.
+
+Possono i pesci vivere? E può il sangue esistere nel legno?
+
+Né si sa nelle rocce: immobili e disposte in modo ordinato.
+
+Un luogo in cui tutto può crescere e trovare la propria collocazione.
+
+Pertanto, la natura della mente non può nascere da sola.
+
+Senza il corpo, nemmeno la sua esistenza ha significato.
+
+Dalla polvere e dal sangue. Eppure, se fosse possibile? —
+
+Piuttosto che altro, proprio questa capacità mentale.
+
+Posizionarsi nella testa, sulle spalle o sui talloni.
+
+E, pur nato in qualsiasi luogo che sia, tuttavia.
+
+Nello stesso uomo, nello stesso essere umano, risiedono entrambi questi aspetti.
+
+Ma poiché, anche all’interno di questo nostro corpo.
+
+Rimane fermo e sembra essere disposto in modo stabile.
+
+Là dove anima e mente possono esistere e crescere ciascuna per sé,
+
+Tanto più dobbiamo negare che possano durare a lungo.
+
+Al di fuori del corpo e della forma respiratoria.
+
+In mucchi di terra in decomposizione, nel fuoco del sole.
+
+Nell’acqua, o sulle coste celesti dell’etere.
+
+Pertanto, queste cose non sono affatto fornite o disponibili in alcun modo.
+
+Con un senso divino, poiché mai possono essere diversi da ciò.
+
+Con la forza vitale ravvivata.
+
+Allo stesso modo, non puoi mai.
+
 <span class="atom-split" data-atom="034" data-title="BOOK V (parte 2)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Believe the sacred seats of gods are here
@@ -12739,6 +25049,404 @@ In constant flux do all things stream.
 Likewise,
 
 The abounding well-spring of the liquid light,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Credete che i sacri luoghi degli dèi si trovino qui.
+
+In qualsiasi regione di questo mondo terreno.
+
+Infatti, la natura degli dèi, così sottile.
+
+Così lontano da questi nostri sensi, appena percepibile.
+
+È percepibile anche attraverso l’intelligenza mentale.
+
+E poiché sono sempre sfuggiti al contatto e alle tentativi di raggiungerli.
+
+Con le mani umane, non è possibile raggiungerli per afferrarli.
+
+Qualsiasi cosa sia tangibile per noi. Perché, chissà cosa potrebbe non esserlo.
+
+Ciò che viene a sua volta toccato non può mai toccare a sua volta.
+
+Pertanto, inoltre, anche i loro posti devono essere.
+
+A differenza di questi nostri sedili, anche quelli più discreti.
+
+Come è appropriato per un’essenza sottile, come dimostrerò.
+
+Da questo momento in poi, ti parlerò ampiamente su questo argomento.
+
+Inoltre, affermare che, per il bene degli uomini.
+
+Desideravano contribuire a rendere ancora più splendido questo mondo.
+
+E pertanto è dovere e necessità.
+
+Elogiare l’opera degli dèi come degna di lode.
+
+E è un sacrilegio per gli uomini scuotere ciò che è sacro.
+
+Mai, per alcuna forza, venivano costretti ad abbandonare i loro posti.
+
+Quello che è stato stabilito dall’antica Previdenza.
+
+Per sempre, per tutte le stirpi dell’umanità.
+
+E considerare sacrilego attaccare qualcuno con le parole.
+
+E far crollare tutto, dalla base fino alle travi.
+
+Memmio, concepire e accumulare simili idee.
+
+È davvero, essere innamorati. La nostra gratitudine.
+
+Oh, quali benefici potrebbe portare.
+
+Su gli Immortali e sui Beati.
+
+Che dovessero compiere un passo per gestire qualcosa.
+
+Per nostro bene? O quale nuovo fattore potrebbe.
+
+Dopo tanto tempo, ingannali.
+
+Ciò che fino ad ora era tranquillo, desidera ora qualcosa di diverso.
+
+Cambiare la loro vita precedente? Meglio di no.
+
+Chi è infastidito dalle cose vecchie sembra probabile che si rallegri.
+
+È qualcosa di nuovo, ma che, in tempi passati, già esisteva.
+
+Non ha incontrato alcun male, in questi bei anni.
+
+Oh, cosa potrebbe mai suscitare in una persona del genere.
+
+Passione per strani esperimenti. O qualcos’altro?
+
+Qual sarebbe stato il male per noi, se non fossimo mai nati?
+
+Come se, forse, in regni di oscurità e dolore.
+
+La nostra vita proseguiva, in attesa che finalmente spuntasse l’alba.
+
+L’alba della creazione. Chiunque.
+
+Voglie che, inevitabilmente, devono rimanere tali.
+
+Nella vita, finché persiste un piacere profondo.
+
+Ma chiunque abbia mai assaporato la gioia della vita.
+
+E tra tutte le creature viventi, mai esistette.
+
+Cosa gli fa soffrire il fatto di non essere mai nato?
+
+Da ciò, dunque, per la prima volta nei dei fu piantata l’idea.
+
+L’archetipo per la categorizzazione del mondo in termini di genere
+
+E l’idea preconcetta di ciò che sia l’uomo.
+
+Affinché lo sapessero e lo concepissero in anticipo con la mente.
+
+Esattamente ciò che volevano creare. O come lo sapevano?
+
+Sempre le energie dei germi primordiali.
+
+E quei germi, attraverso lo scambio di posizione.
+
+Potrebbe quindi essere prodotto, se solo la natura stessa non avesse.
+
+Esempio fornito per creare tutti quanti.
+
+Poiché proprio in tali elementi primordiali delle cose.
+
+Molti, in molti [modi](/concepts/mode) diversi, sono stati scossi da questi colpi.
+
+Da eoni immemorabili, anch’esso in movimento.
+
+Per il loro stesso peso, sono sempre stati abituati a comportarsi in un certo modo.
+
+Essere portati avanti in questo modo, e sotto tutti questi aspetti.
+
+Rintracciarci e provare di tutto.
+
+Che, combinandoli tra loro, essi.
+
+Hanno il potere di creare; ed è proprio per questo che esistono.
+
+Non c’è da meravigliarsi ora, se anche loro sono caduti.
+
+In tali disposizioni, e se sono già state attuate.
+
+In vibrazioni del genere, cioè di quelle che.
+
+Questa serie di eventi prosegue ancora oggi.
+
+Attraverso un rinnovo costante. Ma sapevo che non avrei mai capito cosa fosse realmente.
+
+I semi erano primordiali, ma oserei forse?
+
+Questo per affermare, anche sulla base di valutazioni profonde e fondate.
+
+In merito ai movimenti e alle caratteristiche del cielo.
+
+Questo viene confermato da molti fatti, oltre ad altro.
+
+Che in alcun modo la natura di tutte le cose.
+
+Per noi è stato plasmato da una forza divina.
+
+Tali sono i suoi difetti che ne rappresentano un vero ostacolo.
+
+Prima di tutto, segna tutte le regioni che sono sovrastate da qualcosa.
+
+Per le immense distanze del cielo.
+
+Una delle parti più vaste di quelle catene montuose.
+
+E le foreste sono davvero piene di bestie; esse le ospitano e le custodiscono.
+
+E scogliere, e torbiere deserte, e distese sterminate di mare.
+
+(Che separano da lontano le spiagge di quelle terre)
+
+Basta semplicemente possederlo, e ancora una volta, riguardo ad esso.
+
+Quasi due terzi di un calore intollerabile.
+
+E una continua caduta di brina priva tutto.
+
+Dalla specie mortale. E ciò che rimane da fare.
+
+Anche se la forza della natura potesse sbagliare.
+
+Con i rovi, la forza umana non si oppose.
+
+Da tempo si soffre per guadagnarsi da vivere, lavorando sodo e sudando.
+
+Attraverso la falce a doppio taglio, per separare e dividere.
+
+Il terreno viene diviso in due parti premendo con la falce.
+
+A meno che la lama del aratro non rivolti quei terreni fertili.
+
+E impastando questa materia plastica, ci trasformiamo rapidamente in esseri viventi.
+
+Le colture, spontaneamente, non riuscivano a crescere.
+
+Nell’aria libera e luminosa. Anche allora, a volte.
+
+Quando le cose vengono ottenute attraverso il lavoro più arduo.
+
+Ora sono in foglia, ora sono in fiore, tutti quanti.
+
+O il sole degli sci, con i suoi calori pericolosi.
+
+Parchi, piogge improvvise o gelide brume.
+
+Distrugge, o danneggia, ciò che i venti violenti e turbinosi portano con sé.
+
+Tortura e sofferenza. Oltre a queste cose, perché.
+
+La natura si nutre e si sviluppa sia sulla terra che sul mare.
+
+Quella terribile razza di bestie selvagge, quei nemici.
+
+Del clan umano. Perché le stagioni portano con sé.
+
+Malattie con loro? Perché allora vagano liberamente.
+
+La morte, così prematura? D’altra parte, quel bambino.
+
+Come il naufrago tra le onde impetuose.
+
+Giace nudo a terra, senza parole, nella povertà.
+
+Di ogni aiuto necessario alla vita, fin dalle prime origini della natura.
+
+Lo ha versato sulle rive della luce.
+
+Con i dolori del parto che provengono dall’interno dell’utero materno,
+
+E con un lamento lamentoso riempie tutto lo spazio intorno.
+
+Come è degno di colui per il quale rimane.
+
+Nella vita, si attraversano molte difficoltà e sofferenze.
+
+Ma tutte le greggi, le mandrie e tutte le bestie selvatiche.
+
+Uscite e crescete; non avete bisogno di quei piccoli rumori.
+
+Né deve essere trattato con la gentilezza di una infermiera comprensiva.
+
+Caro, frammentario chiacchiericcio, né cercare abiti diversi.
+
+Per adattarsi ai cieli in continua mutazione, e, in fondo, non c’è nemmeno bisogno di.
+
+Né armi, né imponenti mura: con nessuno di questi mezzi.
+
+Dovevano proteggere ciò che era loro – perché la stessa terra.
+
+E la natura, artefice del mondo, dà vita a tutto ciò che esiste.
+
+Tutte le cose sono in abbondanza per tutti.
+
+Il mondo non è eterno.
+
+E prima di tutto,
+
+Poiché il corpo della terra e dell’acqua, il leggero respiro dell’aria.
+
+E fumose esalazioni (di cui quattro, ).
+
+Si osserva che questa serie di elementi è compatta.
+
+Quindi tutti hanno un corpo nato e destinato alla morte.
+
+Ecco, dunque, la vera natura del mondo stesso.
+
+Deve essere considerato anch’esso effimero.
+
+Infatti, quelle cose che vediamo.
+
+Le parti e i membri che nascono nel tempo.
+
+E quelle forme effimere, proprio quelle che segniamo.
+
+Nascere inevitabilmente nel tempo.
+
+E nasci per morire. E quindi, quando lo vedo.
+
+I membri più potenti e le parti che compongono questo.
+
+Il nostro mondo viene consumato e poi rigenerato nuovamente.
+
+È mio dovere comprendere anche ciò che accade nel cielo sopra di me.
+
+E la terra, laggiù sotto, esisteva già da tempi antichi.
+
+E col tempo andrà incontro al disastro.
+
+E affinché in queste questioni tu non mi consideri.
+
+Aver colto questa opportunità con astuzia per servire ai propri scopi.
+
+È stato un mio capriccio personale, perché ho deciso di farlo.
+
+Che la terra e il fuoco siano davvero cose mortali.
+
+E non abbiamo mai dubitato dell’esistenza dell’acqua e dell’aria.
+
+Anche entrambi periscono, e hanno affermato la stessa cosa.
+
+Riprendere a nascere e crescere.
+
+Prendete bene atto di questo argomento: innanzitutto, lo.
+
+Alcune zone della Terra, gravemente aride.
+
+Sotto i soli implacabili, calpestati senza pietà.
+
+Attraverso un enorme numero di piedi che esalano all’esterno.
+
+Una nebbia polverosa e nuvole di polvere in movimento.
+
+I forti venti li disperdono per tutto l’aria.
+
+Inoltre, una parte del suo terreno e della sua terra.
+
+Viene chiamato in azione dalle piogge, per causare inondazioni;
+
+E i fiumi erodono e scavano via le rive.
+
+Inoltre, qualsiasi cosa assuma una propria funzione specifica.
+
+Nel promuovere e aumentare qualsiasi cosa.
+
+Viene restituito indietro; e poiché, senza dubbio,
+
+La Terra, la madre universale, è considerata.
+
+Allo stesso modo, la comune “tomba” delle cose.
+
+Pertanto vedi che la sua abbondanza è diminuita.
+
+E poi, ancora una volta, arricchito da nuovo sviluppo.
+
+E per quanto riguarda il resto, quel mare, quei fiumi, quelle sorgenti.
+
+Per sempre, con nuove acque che si riversano.
+
+E quei fluidi sgorgano continuamente.
+
+Non occorrono parole: basta il potente flusso stesso delle cose.
+
+Dai numerosi corsi d’acqua che ci circondano.
+
+Lo dichiara così. Ma che cosa, prima di tutto, è l’acqua?
+
+Quello che scorre verso l’alto viene immediatamente portato via.
+
+E così accade che, in definitiva.
+
+Non c’è alcun sovrapporsi; in parte perché.
+
+I venti impetuosi (che soffiano con forza incessante).
+
+E quel sole che, con i suoi raggi, tutto dissolve.
+
+Abbassate i livelli del mare; in parte perché.
+
+L’acqua si diffonde sottoterra.
+
+In tutte queste regioni, il sale viene filtrato via.
+
+E poi quella sostanza liquida si infiltra di nuovo all’interno.
+
+E tutto si riunisce alle sorgenti dei fiumi.
+
+Da lì, nelle correnti d’acqua dolce che vi scorrono.
+
+Attraverso le terre, lungo i canali che.
+
+Un tempo erano divisi, e un tempo continuarono ad esistere separati.
+
+Le inondazioni causate da liquidi in movimento.
+
+Ora, dunque, dell’aria.
+
+Parlerò, ora dopo ora, di tutto ciò che accade.
+
+Cambia innumerevoli volte. Per qualsiasi motivo.
+
+Si sprigiona sotto forma di polvere o vapore dalle cose.
+
+Lo stesso viene sempre e costantemente portato con sé.
+
+Nel vasto oceano dell’aria.
+
+E non fu l’aria stessa a ripristinare le cose nel loro stato originale?
+
+Corpi, e quindi reclutarli mentre scorrono via.
+
+A quel punto, tutte le questioni erano state risolte.
+
+E si trasformò in aria. Pertanto, non accadde mai più nulla.
+
+Cessa di essere generato a partire dalle cose.
+
+E tornando alle cose, poiché davvero.
+
+Tutte le cose scorrono in un flusso costante.
+
+Allo stesso modo,
+
+La fonte inesauribile di quella luce liquida.
 
 <span class="atom-split" data-atom="035" data-title="BOOK V (parte 3)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -13150,6 +25858,416 @@ Of ocean, and courses of the sun and moon,
 
 I’ll now in order tell. For of a truth
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il sole etereo inonda tutto il cielo.
+
+Con un flusso costante di luce sempre nuova.
+
+E con nuovi rifornimenti di luce, quel luogo viene illuminato di nuovo.
+
+Nel momento stesso. Per qualsiasi splendore che possa esistere.
+
+È già stato rilasciato in streaming; non importa dove cada.
+
+È perduto nel sole. E questo appartiene a te.
+
+Da questi esempi si può dedurre che, non appena compaiono le nuvole.
+
+Hanno appena iniziato ad “superare” il sole.
+
+E, in qualche modo, per far sì che i raggi di luce.
+
+Divisi in due parti, immediatamente la loro parte inferiore.
+
+È completamente perduto, e la terra è avvolta nella oscurità.
+
+Ovunque si accumulino le nubi temporalesche.
+
+Pertanto sappi che le cose hanno sempre bisogno.
+
+Un nuovo rifornimento di luce e splendore.
+
+E ogni splendore, per primo, brillò intensamente.
+
+Ognuno perisce, uno dopo l’altro. E non in altro modo.
+
+Possibile vedere le cose alla luce del sole, affinché non ci siano sempre.
+
+La sorgente di luce fornisce nuova luce.
+
+Infatti, i vostri segnali luminosi terreni nella notte.
+
+I lanterne appese e le torce, luminose.
+
+Con scintille fugaci e denso di fuliggine livida.
+
+Affrettatevi quindi anche voi a fornire quanto necessario.
+
+Con il calore del servire, una nuova luce sorge ancora.
+
+Sono tutti ancora vivi, pronti a tremare per il fuoco che li anima.
+
+Sono così vividi, che la luce non li abbandona mai.
+
+Le macchie su cui illumina sembrano dividersi in due parti.
+
+Così rapidamente la sua distruzione viene nascosta.
+
+Attraverso la rapida apparizione di fiamme provenienti da tutti i fuochi.
+
+Pertanto, dobbiamo presumere che il sole e la luna.
+
+E le stelle irradiano la loro luce dalle loro “nascite”.
+
+Sempre nuovo, e ciò che arde con tale intensità.
+
+Le prime rivolte vengono sempre sconfitte, una dopo l’altra.
+
+Per evitare che tu possa pensare che ognuno di loro sopporti.
+
+Indiscutibile.
+
+Ancora una volta, non te ne rendi conto.
+
+In che modo anche le pietre vengono sottomesse dal Tempo? —
+
+Non è il modo in cui le maestose torri crollano.
+
+E le rocce si frantumano? – Non come i templi degli dèi.
+
+E gli idoli, logori dal tempo. E poi, come mai mai.
+
+L’influenza sacra non possiede ancora alcun potere.
+
+Era lì per rinviare i “Termini del Destino”.
+
+O si può ottenere qualche progresso contro i decreti immutabili della Natura?
+
+Ancora una volta, osservate: non vediamo questi monumenti.
+
+Di eroi, ormai in rovina, che ci chiedono.
+
+A loro volta, se non crediamo.
+
+Anche loro invecchiano con l’età. Non lo vediamo forse?
+
+Il basalto frantumato continua a distruggere tutto intorno.
+
+Dai maestosi monti, impotenti.
+
+Per resistere e sopravvivere alle potenti forze che vi sono.
+
+Di tempo finito? – perché non cadrebbero mai.
+
+Apparso all’improvviso, come se provenisse da un Passato infinito.
+
+Erano riusciti a prevalere su tutte le difficoltà e gli ostacoli.
+
+Tra gli eoni che ci assaltano, senza alcun fragore.
+
+Di nuovo, ora guardate questo: quella forma rotonda, lassù.
+
+Contiene l’intera terra nel suo unico abbraccio:
+
+Se da sé stesso procrea tutte le cose.
+
+Come dicono alcuni uomini, e questo li porta a credere in ciò che affermano.
+
+Una volta distrutto, deve essere completamente annientato.
+
+Nato di carne e sangue, mortale per natura, poiché, qualunque cosa accada.
+
+Da sé stesso, fornisce ciò che è necessario ad altre cose.
+
+L’aumento della produzione alimentare richiede necessariamente lo stesso approccio.
+
+Ridotto di dimensioni, e poi reclutato quando ne sorge la necessità.
+
+Tutto ritorna al suo stato originale.
+
+Oltre a tutto ciò,
+
+Se non fosse esistita un’origine legata alla nascita.
+
+Di terre e cielo, e così era sempre stato fin dall’inizio.
+
+Il eterno, perché, prima della guerra di Tebe.
+
+E le commemorazioni di Troia hanno altri poeti.
+
+Non venivano cantate anche altre questioni importanti?
+
+Dove sono andate a finire tutte queste imprese, che così spesso sono state compiute?
+
+Di eroi? Perché quelle imprese non esistono più.
+
+Inseriti in monumenti eterni
+
+Di gloria? Credo proprio che sia per questo.
+
+“La Somma” è un’opera nuova, di data recente.
+
+La natura del nostro universo, e se.
+
+Non molto tempo fa, ne aveva già scritto l’introduzione.
+
+Pertanto, anche oggi alcune arti continuano ancora ad essere praticate.
+
+Raffinati, ancora migliorati: ora utilizzabili anche sui navicli.
+
+Vengono aggiunti molti nuovi dispositivi.
+
+E poi, l’altro giorno, quel musicista folk.
+
+Diede vita a suoni melodiosi e armoniosi.
+
+E poi, questa natura, questa spiegazione delle cose.
+
+È stato scoperto più tardi, e io.
+
+Io stesso sono stato scoperto solo ora.
+
+Tra i primi, in grado di cambiare direzione per primi.
+
+Lo stesso, espresso nel linguaggio antico dei Romani.
+
+Tuttavia, se per caso ritieni che prima di questo.
+
+Tutte le cose esistevano allo stesso modo, ma.
+
+Sono periti i cicli della razza umana.
+
+Con fiammeggianti esplosioni, intere città venivano distrutte.
+
+A causa di qualche terribile scossa del mondo.
+
+O fiumi impetuosi, dopo piogge incessanti.
+
+Si era precipitato attraverso le terre della terra.
+
+E se le città furono sommerse, allora, tanto più devi.
+
+Ammettilo: sconfitto da quel ragionamento.
+
+Che anche l’annientamento debba esistere.
+
+Di terre e cielo. Poiché in un’epoca in cui le cose.
+
+Se fossimo soggetti a malattie così gravi.
+
+E così grandi pericoli, se qualcosa ne scatena di ancora più terribili.
+
+Se li avessimo attaccati allora, si sarebbero dispersi in tutte le direzioni.
+
+Sono finite nel disastro e nel collasso totale.
+
+E per nessun altro motivo possiamo considerare.
+
+Ritenuti mortali, tranne che tutti noi.
+
+A loro volta, si ammalano delle stesse malattie.
+
+Con queste cose, in passato, quegli uomini sono stati contagiati da malattie.
+
+Chi la natura ha strappato alla vita.
+
+ottenere.
+
+Quello che esiste per l’eternità deve certamente.
+
+O respingere tutti gli attacchi, poiché è così che è stato concepito.
+
+Di forma solida, e che non permetta alcun ingresso.
+
+Di tutto ciò che ha il potere di distruggere dall’interno.
+
+Le parti si compattano, proprio come quei semi di materia.
+
+La cui natura abbiamo già mostrato in precedenza;
+
+Oppure essere in grado di resistere nel corso del tempo.
+
+Per questo motivo: perché sono esenti da colpi.
+
+Così come il vuoto, che rimane intatto e inalterato.
+
+Indomabile di fronte a qualsiasi colpo; o forse perché.
+
+Non c’è spazio intorno, dove le cose possano essere disposte.
+
+Come se tutto dovesse dissolversi.
+
+Proprio come l’insieme di tutti gli infiniti numeri è eterno,
+
+Senza un luogo o una direzione verso cui le cose possano tendere.
+
+Che volino lontano quei corpi capaci di colpire.
+
+E così dissolverli con i colpi del potere.
+
+Ma non di forma solida, come ho dimostrato.
+
+Esiste la natura del mondo, perché?
+
+Nelle cose esiste un vuoto che si mescola con tutto il resto.
+
+Né il mondo è ancora uno “spazio vuoto”, né.
+
+Inoltre, corpi senza i quali, forse.
+
+Emerge dall’infinito, può essere abbattuto?
+
+Con vortici di furia che coinvolgono tutte queste cose.
+
+O scatenare su di loro altri disastri catastrofici.
+
+Un pericolo strano. E anche lì, persiste.
+
+Lo spazio infinito e l’abisso profondo.
+
+Ecco dunque le mura del mondo.
+
+Può ancora essere scosso da brividi. O forse da qualche altra forza.
+
+Posso continuare a colpirli fino a che non siano tutti distrutti.
+
+Ecco dunque la porta della rovina, mai chiusa.
+
+Contro il cielo, contro il sole e la terra.
+
+E le acque profonde del mare, ma tutto è completamente aperto.
+
+E se ne compiace, mostruoso e con la bocca spalancata.
+
+Pertanto, ancora una volta, è necessario ammetterlo.
+
+Che queste stesse cose nascano nel tempo, poiché le cose.
+
+Coloro che hanno un corpo mortale potrebbero davvero.
+
+Mai, dall’infinito passato fino ad oggi.
+
+Hanno respinto gli innumerevoli attacchi.
+
+Di quegli eoni immensamente antichi.
+
+Ancora una volta, poiché le battaglie si svolgono con tale ferocia l’una contro l’altra.
+
+I quattro membri più potenti del mondo.
+
+Scatenati in una guerra assolutamente sacrilega.
+
+Non vedi forse che per loro potrebbe esserci una fine?
+
+Di quella lunga lotta. O quando il sole splenderà nel cielo.
+
+E tutto questo calore ha conquistato il dominio su.
+
+Hanno risucchiato tutte quelle acque. E ora cercano di fare qualcosa al riguardo.
+
+Ancora da realizzare, anche se per ora falliscono.
+
+Poiché i corsi d’acqua ne forniscono in quantità così abbondante.
+
+Nuove riserve idriche, che, in realtà, sono piuttosto.
+
+Coloro che minacciano il mondo con inondazioni di vasta portata.
+
+Dai abissi insondabili del mare.
+
+Ma è inutile, poiché i venti, che soffiano con forza incessante.
+
+E quel sole che, con i suoi raggi, tutto dissolve.
+
+Riducete le acque degli oceani e fidatevi del loro potere.
+
+Per asciugare tutto prima che le acque possano.
+
+Raggiungere la fine dei propri sforzi.
+
+Scatenando guerre di tale portata, essi si scontrano tra loro.
+
+Nella lotta equilibrata, le parti in conflitto rimangono comunque.
+
+Per quanto riguarda questioni di grande importanza, — sebbene in realtà.
+
+Il fuoco divenne ancora una volta vincitore.
+
+E una volta, secondo la leggenda, l’acqua vinse.
+
+Un regno nei campi. Per un fuoco che è stato domato.
+
+E leccò via molte cose, bruciandole tutte.
+
+A che ora i cavalli impetuosi del Sole.
+
+Strappò Phaethon via dal suo percorso celeste.
+
+Per tutto l’etere e in tutte le terre.
+
+Ma il Padre onnipotente, nel suo furore acuto.
+
+Poi, con il improvviso tuono.
+
+Scagliò via quel eroe dal forte carattere.
+
+Quei cavalli, a terra. E Sol, loro padre.
+
+Incontrandolo mentre cadeva, lo afferrai per la mano.
+
+La lanterna eternamente ardente del mondo.
+
+E radunò insieme quei cavalli, che correvano disordinatamente in quel luogo.
+
+E li legò tutti insieme, facendoli tremare.
+
+Guidandoli lungo la loro vecchia strada.
+
+Il cosmo è stato ripristinato, come certamente sentiamo dire.
+
+Dai canti degli antichi poeti greci.
+
+Una storia troppo lontana dalla verità, a mio parere.
+
+Poiché il fuoco può trionfare quando proviene dall’infinito.
+
+Si è formato un numero maggiore di particelle.
+
+Di materia infuocata. E poi le sue forze si arrendono.
+
+In qualche modo, di nuovo domato, o forse, finalmente.
+
+In ambienti torridi, si restringe, e così anche il mondo intero.
+
+E un tempo anche l’acqua iniziò ad avere la meglio.
+
+Secondo la storia, quando tutto ciò lo sommerse.
+
+La vita degli uomini è piena di alti e bassi; e dopo.
+
+Quando tutta quella forza del liquido idrico che si sprigiona.
+
+Dall’infinito era sorto qualcosa.
+
+Ora si è ritirato, come se in qualche modo avesse deviato dal proprio percorso.
+
+Le tempeste di pioggia si fermarono, e la loro furia si placò.
+
+La formazione del mondo e.
+
+DOMANDE ASTRONOMICHE
+
+Ma in quali [MODI](/concepts/mode) avviene quel flusso di elementi primordiali.
+
+Hanno scoperto l’immensità dell’universo.
+
+Della terra, del cielo e delle profondità insondabili.
+
+Dell’oceano, e dei percorsi del sole e della luna.
+
+Ora racconterò tutto nell’ordine giusto, poiché è la verità stessa.
+
 <span class="atom-split" data-atom="036" data-title="BOOK V (parte 4)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="positions/atomism,concepts/mechanism,forms/didactic_poem,schools/epicureanism"></span>
 
 Neither by counsel did the primal germs
@@ -13543,6 +26661,400 @@ Whileth the driven fires, or, then, because
 The fires themselves have power to creep along,
 
 Going wherever their food invites and calls,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Né con consigli i primi germi.
+
+“Instaurarsi, attraverso un intenso sforzo mentale, ”
+
+Ognuno al proprio posto; e non fecero nulla di più.
+
+Certamente, esiste un accordo preciso su come ogni germe debba muoversi.
+
+Ma, oh, poiché sono le origini stesse delle cose.
+
+Molti, in molti modi diversi, sono stati scossi da questi colpi.
+
+Da eoni immemorabili, anch’esso in movimento.
+
+Per il loro stesso peso, sono sempre stati abituati a comportarsi in un certo modo.
+
+Essere portati avanti in questo modo, e sotto tutti questi aspetti.
+
+Rintracciarci e provare di tutto.
+
+Che, combinandoli tra loro, essi.
+
+Hanno il potere di creare; proprio per questo.
+
+Accade che quei primordiali.
+
+Distribuito ampiamente attraverso immensi eoni,
+
+Mentre i sindacati ci provano, e anche altre iniziative vengono intraprese.
+
+Di ogni sorta, si incontrano infine tutti insieme.
+
+E così spesso diventano i presupposti necessari per iniziare qualcosa.
+
+Di cose maestose: la terra, il mare e il cielo, e le razze umane.
+
+Di creature viventi.
+
+In quel lontano passato.
+
+Non era possibile scorgere da nessuna parte la ruota del sole.
+
+Salendo in alto nel cielo con la sua fiamma intensa e abbondante.
+
+Né le costellazioni di questo immenso mondo.
+
+Né oceano, né cielo, né terra, né aria.
+
+Niente di ciò che esiste è simile alle cose nostre.
+
+Si poteva quindi osservare, ma solo una strana tempesta.
+
+E una massa enorme e caotica.
+
+Composto da ogni sorta di germi primordiali,
+
+Le discordie combattute in disordine continuavano ad persistere.
+
+Interstizi, percorsi, coerenze.
+
+E pesi, e colpi, incontri e movimenti.
+
+Perché, a causa delle loro forme diverse.
+
+E forme varie. Non tutte potevano essere rappresentate in questo modo.
+
+Rimanere uniti, ma non in armonia.
+
+Ci sono interazioni tra i movimenti. Ma da lì in poi.
+
+Alcune parti iniziarono a separarsi e, come.
+
+Con il desiderio di unirsi e di escludere tutto ciò che non rientra in quel mondo.
+
+E per dividere i suoi membri e disporli in modo appropriato.
+
+Le sue parti più potenti, cioè, quelle necessarie per garantire la sicurezza.
+
+I cieli elevati, che si estendono sopra le terre, e la causa di tutto ciò.
+
+Il mare si estende con acque distinte l’una dall’altra.
+
+E fiamme di etere, pure e distinte.
+
+Allo stesso modo, è possibile radunarsi anche in [modi](/concepts/mode) diversi.
+
+Infatti, ecco.
+
+Prima di tutto, si unirono le particelle terrestri.
+
+(Essendo pesanti e intrecciati, essi, ) erano lì.
+
+Nella regione centrale, tutto iniziò ad assumere una certa forma.
+
+Gli alloggi più umili; e più ne possedevano, più.
+
+Intrecciati l’uno con l’altro, sempre di più.
+
+Estrassero quelle particelle dal loro insieme.
+
+Quegli elementi avrebbero formato il mare, le stelle, il sole.
+
+E la luna, e le mura di questo immenso mondo.
+
+Poiché queste piante sono costituite da semi più lisci e rotondi.
+
+E composti da elementi molto più piccoli della terra.
+
+E così fu che l’etere, carico di fuoco,
+
+Prima si staccarono le parti terrestri.
+
+Attraverso gli innumerevoli pori della terra.
+
+Si sollevò in alto, portandosi con sé.
+
+Si allontanò lentamente da quelle molte luci stellari.
+
+E non molto lontano da qui, spesso vediamo.
+
+E i laghi immobili e i ruscelli perenni.
+
+Espira una nebbia. E proprio come la terra stessa.
+
+A volte si vede fumare, soprattutto all’alba.
+
+La luce del sole, quella multicolore e splendente, inizia.
+
+Per trasformarsi in oro, sopra l’erba.
+
+Coperti di rugiada. Quando tutto ciò verrà portato qui.
+
+Insieme, lassù in alto, le nuvole.
+
+Con questo corpo ormai concreto, intrecciare una copertura.
+
+Sotto i cieli. E allo stesso modo anche l’etere.
+
+Luce e diffusività, con un corpo concreto.
+
+Si estendeva su tutti i lati, si piegava in tutte le direzioni.
+
+All’interno di una cupola, e diffuso ovunque.
+
+In ogni direzione, in tutte le regioni.
+
+Così, tutto il resto veniva inghiottito nella sua avida stretta.
+
+Le origini seguirono immediatamente l’etere.
+
+Del sole e della luna, i cui corpi ruotano nell’aria.
+
+A metà strada tra la terra e l’etere più potente.
+
+Poiché nessuno dei due li prese, essendo troppo leggeri.
+
+Per affondare e stabilizzarsi, ma non abbastanza per scivolare dolcemente.
+
+Lungo le coste più settentrionali. Eppure esistono.
+
+In una posizione così saggia, a metà strada tra i due.
+
+Come sempre, per far ruotare i loro corpi viventi.
+
+E che possano durare per sempre come parti di quell’Unico Tutto.
+
+Nello stesso modo in cui alcuni membri possono.
+
+In noi tutto rimane fermo, mentre in altri tutto si muove.
+
+Quando dunque queste sostanze furono rimosse.
+
+Sul suolo terrestre, dove ora si estendono le vaste.
+
+Le zone di colore ceruleo presenti in tutti gli strati degli oceani.
+
+Si è ceduto, e giù lungo le cavità è scorso tutto quanto.
+
+I vortici del suo sale marino, e giorno dopo giorno.
+
+Più le maree dell’etere e i raggi del sole.
+
+Da tutti i lati confinati in un’unica massa.
+
+La terra, legandola ancora e ancora.
+
+Nei suoi bordi esterni (così che, allora,, )
+
+Essendo stato così martellato, tutto si era condensato.
+
+Riguardo al suo centro proprio, sempre di più.
+
+Il sudore salato, estratto dal suo corpo.
+
+Oceano ampliato e campi di schiuma.
+
+Infiltrandosi attraverso la sua struttura, e ancora di più.
+
+Tante di quelle particelle di calore e aria.
+
+Iniziò a fuggire, a salire in alto nel cielo e a prendere forma.
+
+Per condensazione, lontano dalla Terra.
+
+I luminosi circuiti celesti.
+
+Le pianure iniziarono ad abbassarsi, e le pendici ventose.
+
+Per rendere più alte le montagne, per le rocce.
+
+Non riusciva a placarsi; nessuna parte del terreno smetteva di tremare.
+
+Raggiungere tutti lo stesso livello lì.
+
+E così, dunque, il pesante peso della terra rimase fermo e immobile.
+
+Ora che ha assunto una forma concreta, quando (come se, )
+
+Tutta la melma del mondo, pesante e disgustosa.
+
+Si erano raccolti insieme e si erano posizionati sul fondo.
+
+Come le impurità residue o l’acqua di sentina. Poi l’oceano, e poi l’aria.
+
+Poi anche lei stessa, piena di fuoco interno, divenne tutto ciò.
+
+Rimasti con i loro corpi liquidi puri e liberi,
+
+E ogni uno di essi sempre più leggero del precedente.
+
+E l’etere, il più leggero e liquido dei tre.
+
+Galleggia sopra i lunghi venti aerei.
+
+Né con il fragore dei venti dell’aria.
+
+Si mescola con il suo corpo liquido. E non lascia traccia di sé.
+
+Tutto ciò che esiste lì, quei regni sotterranei al di sotto delle sue dimensioni.
+
+Lì, pronte ad essere sconvolte da vortici impetuosi.
+
+Lascia tutto ciò alla rissa, guidata da impulsi capricciosi.
+
+Mentre scivolavamo ancora con un impulso costante.
+
+Porta con sé i propri fuochi lungo il cammino. Poiché, ecco.
+
+Che quell’etere possa fluire in questo modo, costantemente.
+
+Con un unico e immutabile impulso, il Ponte dimostra.
+
+Quel mare che scorre con maree regolari.
+
+Mantenendo un andamento costante mentre scorre via.
+
+E affinché la terra possa riposare in pace lì.
+
+Nella regione centrale del mondo, è necessario.
+
+Deve scomparire poco a poco, perdendo di peso e diminuendo.
+
+E sotto c’è un’altra sostanza.
+
+Collegato a esso fin dalle sue prime fasi di vita.
+
+In perfetta armonia con l’immensità del mondo.
+
+I regni dell’aria in cui si radica e vive.
+
+Per questo motivo, la terra non rappresenta un peso oneroso.
+
+Né esercita pressione sui venti che si muovono al di sotto;
+
+Proprio come i membri di un uomo.
+
+Senza alcun peso, la testa non rappresenta un onere.
+
+Fino al collo, e nemmeno percepiamo l’intera entità.
+
+Il peso del corpo deve essere distribuito equamente sui piedi.
+
+Ma qualunque peso ci venga imposto dall’esterno,
+
+Pesi che ci vengono imposti, questi fastidi e irritazioni.
+
+Anche se spesso molto più leggero. Per quel grado.
+
+È sempre importante capire quali siano le capacità innate di una persona.
+
+Di qualsiasi cosa si possa parlare, la terra.
+
+Quindi, nessuna sostanza estranea fu effettivamente recuperata.
+
+E non proveniente da alcun cielo straniero.
+
+Nell’aria degli alieni, ma concepito, proprio come l’aria,
+
+Nella prima origine di questo mondo.
+
+Come una parte fissa di ciò che è, proprio come ora.
+
+I nostri membri sono considerati parte di noi stessi.
+
+Inoltre, la terra, all’improvviso, tremò.
+
+Per il grande tuono, si scuote con il suo movimento.
+
+Tutto ciò che le era sopra, e che lei non avrebbe mai potuto ottenere.
+
+In ogni caso, se la terra non fosse saldamente legata.
+
+Verso i vasti regni dell’aria e del cielo del grande mondo.
+
+Poiché sono uniti da radici comuni,
+
+Uniti entrambi fin da la più tenera età.
+
+In perfetta armonia, uniti nel medesimo ritmo. Sì, non lo vedi forse?
+
+Che questa energia estremamente sottile dell’anima.
+
+Sostiene il nostro corpo, nonostante sia un peso così grande.
+
+Perché, in effetti, è strettamente legata a esso.
+
+In perfetta armonia tra loro? Quale potere, in definitiva.
+
+Possiamo sollevare il nostro corpo in alto con un balzo agile,
+
+Risparmiare l’energia mentale che guida i movimenti del corpo,?
+
+Ora non vedi forse quanto possente possa essere.
+
+Una natura sottile, quando unita.
+
+Con un corpo pesante, proprio come l’aria è legata alla terra.
+
+Uniti a noi, e condividendo la nostra energia mentale?
+
+Ora cantiamo ciò che fa muovere le stelle.
+
+In primo luogo, se la maestosa sfera del cielo.
+
+Ruota incessantemente, quindi dobbiamo necessariamente possederlo.
+
+Che sia sulla polare superiore che su quella inferiore.
+
+Esprime un certo tipo di atmosfera, e da esterno.
+
+Li delimita e li racchiude su entrambi i lati;
+
+E inoltre, un’atmosfera diversa sopra di tutto ciò.
+
+Fiumi che scorrono attraverso la superficie della sfera e tendono.
+
+Nella stessa direzione in cui vengono fatti rotolare.
+
+Le scintillanti stelle del mondo eterno.
+
+O forse un altro flusso continua ancora più in basso.
+
+Per far ruotare la sfera da sotto verso l’alto e poi ancora avanti.
+
+Nella direzione opposta – come possiamo vedere.
+
+I fiumi fanno girare le ruote e gli scovoli d’acqua.
+
+È anche possibile che i cieli facciano tutto ciò.
+
+Rimani fermo, mentre ancora vieni trascinato avanti.
+
+Le costellazioni chiare e ben definite. Forse perché.
+
+Veloci correnti di etere sono racchiuse dal cielo.
+
+E ruotare incessantemente, alla ricerca di una via d’uscita.
+
+E ovunque facciano scaturire le fiamme stellate.
+
+Attraverso le regioni celesti di Summania.
+
+O forse perché un soffio d’aria, che scorre via.
+
+Da un angolo eterno e lontano.
+
+Mentre i fuochi ardono intensamente, o forse proprio per questo.
+
+Le stesse fiamme hanno la capacità di diffondersi lentamente.
+
+Andando ovunque li conduca e li attiri il cibo.
 
 <span class="atom-split" data-atom="037" data-title="BOOK V (parte 5)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -13938,6 +27450,400 @@ Of the whole starry Zodiac, through which
 
 That sun, in winding onward, takes a year,
 
+<span class="qlang-split" data-lang="it"></span>
+
+E nutrono i loro corpi infuocati ovunque.
+
+Dappertutto nel cielo. Ma quale di queste cose è la causa?
+
+Nel nostro mondo, è difficile dirlo con certezza.
+
+Ma cosa può esistere in tutto l’universo.
+
+In mondi diversi, su piani diversi, si crea.
+
+Questo è l’unico che mostro e su cui mi baso.
+
+Assegnare un significato ai movimenti delle stelle.
+
+Anche diverse cause, che sono possibili.
+
+Esistere in tutto l’Universo.
+
+Di questi, tuttavia, uno deve pur essere la causa, anche in questo caso.
+
+Ciò che dà origine al movimento delle nostre costellazioni.
+
+Eppure, decidere quale di essi sia.
+
+Non è forse compito essenziale di un uomo.
+
+Avanzando passo dopo passo con cautela, come io.
+
+Nemmeno la ruota del sole può essere di molto più grande.
+
+Né la sua stessa fiamma, tanto meno gli altri due elementi, sembrano avere un’importanza significativa.
+
+Ai nostri sensi. Poiché da qualsiasi spazio.
+
+I fuochi possiedono il potere di proiettare le loro fiamme su di noi.
+
+E emettono i loro ardenti respiri.
+
+Contro i nostri membri, quelle stesse distanze.
+
+Non togliere nulla di quegli intervalli.
+
+Dai flutti di fiamme, e alla vista del fuoco stesso.
+
+Niente è diminuito di dimensioni. Pertanto, poiché il calore.
+
+E la luce intensa del sole che splende nel cielo.
+
+Raggiungono i nostri sensi e accarezzano le nostre membra.
+
+La forma e le dimensioni del sole devono necessariamente essere tali da.
+
+Anche qui, sulla Terra, proprio come sono realmente.
+
+Così che tu possa appena prendere o aggiungere qualcosa.
+
+E se la luna in movimento possa illuminare.
+
+Le regioni circostanti sono costituite da travi bastarde, o qualcosa del genere.
+
+Dalla sua stessa carne emanava la sua luce.
+
+Qualunque essa sia, viaggia sotto una certa forma.
+
+Niente sembra essere più grande della forma stessa.
+
+Quello che percepiamo con i nostri occhi. Perché tutto ciò.
+
+Gli oggetti lontani che fissiamo con lo sguardo.
+
+Sembrano confusi, come se fossero immersi in un ambiente pieno d’aria.
+
+Erano ridotti alla loro dimensione originale. Per questo motivo, o luna.
+
+Poiché presenta un aspetto luminoso e forme ben definite,
+
+Che lassù, in alto, accanto a noi sulla terra, possa essere visto.
+
+Proprio perché è delimitata da confini estremi,
+
+E proprio di quella dimensione. E infine, qualsiasi cosa possa scatenare un incendio.
+
+Di quell’etere che tu vedi dalla terra, queste.
+
+Puoi considerarlo, forse, di una certa dimensione.
+
+Nemmeno di un po’ meno, né di un pelo di più.
+
+Allora appaiono, poiché ciò che vediamo è frutto di un qualche processo che ha avuto luogo.
+
+Qui, nelle terre della terra, si osserva che tutto cambia.
+
+Di tanto in tanto, la loro dimensione diminuiva o aumentava.
+
+Solo il minimo, quando è più o meno lontano.
+
+Finché continuano a litigare apertamente e senza sosta.
+
+Il loro bagliore viene percepito.
+
+Non è nemmeno necessario che gli uomini.
+
+Stupore di fronte a quel sole così piccolo.
+
+Può ancora emanare una luce così intensa da riempire tutto.
+
+Oceani, tutte le terre e il cielo furono sommersi dall’acqua.
+
+E con i suoi ardenti getti di fumo si inumidisce tutto intorno.
+
+Il mondo nel suo complesso. Poiché è davvero possibile che sia così.
+
+Quella fonte inesauribile da cui tutto proviene.
+
+Un vasto mondo si è aperto davanti a noi, sgorgando fuori.
+
+E ne emise la luce verso l’esterno; perché in questo modo.
+
+Gli elementi delle esalazioni infuocate
+
+Dai vari angoli del mondo intero, tutti insieme.
+
+E così, si fondono in un insieme di dimensioni così vaste.
+
+Che da una singola sorgente possa scorrere.
+
+Questo calore e questa luce. E non lo vedi forse, davvero?
+
+Quanto ampiamente un piccolo ruscello può bagnare.
+
+A volte, le zone di prateria inondano i campi.
+
+È persino possibile, inoltre, che il calore.
+
+Dalla stessa fiamma del sole, sebbene quella fiamma.
+
+Non essere grandioso; lascia che ciò che sei penetri nell’aria intorno a te.
+
+Con quel caldo intenso, se solo l’aria.
+
+Allora, sii in grado di farlo e abituati ad agire in quel modo.
+
+Per essere infiammato, anche quando viene colpito.
+
+Solo attraverso piccolissime particelle di calore.
+
+Proprio come a volte vediamo i chicchi di grano ancora in piedi.
+
+O paglia bruciata in mezzo alle fiamme, tutto.
+
+Da una singola scintilla. E forse anche dal sole.
+
+Splendente in alto, con i suoi lampioni rosa.
+
+Lo avvolge una sorta di calore invisibile.
+
+Un fuoco abbondante, privo di alcun bagliore particolare.
+
+Affinché egli possa creare, lui stesso, colui che è pieno di fuoco.
+
+Aumentare la forza dei raggi fino a tale grado.
+
+Non esiste nemmeno una causa certa rivelata agli uomini.
+
+Come il sole si dirama dalle sue dimore estive.
+
+Passiamo ora ai momenti decisivi della metà dell’inverno.
+
+In Capricorno, quei cambiamenti di direzione che poi tornano indietro.
+
+Tornando agli obiettivi solstiziali del Cancro, né.
+
+Come mai ogni mese si osserva che la luna attraversa il cielo.
+
+Proprio quella distanza che, nel percorrerla.
+
+Il sole consuma l’arco di tempo corrispondente a un anno.
+
+Dico che non è stata fornita alcuna ragione chiara e comprensibile.
+
+Per queste questioni. E soprattutto, con ogni probabilità.
+
+Sembra che la dottrina proposta da quel pensiero sacro.
+
+Il grande Democrito afferma: che mai.
+
+Più le costellazioni sono vicine alla Terra.
+
+Quanto meno possono fare, con quel vorticare del cielo.
+
+Essere trascinati via, perché quelle forze legate allo sci.
+
+Di velocità, in alto, svaniscono e diminuiscono.
+
+Nei sotto-territori, e quindi il sole.
+
+Lasciato gradualmente indietro, tra quei segni.
+
+Quelli che seguono, poiché il sole vi giace sopra.
+
+Molto in basso, sotto quelle costellazioni che brillano intensamente.
+
+E la luna ritarda ancora di più rispetto al sole:
+
+Nella misura in cui il suo percorso si discosta.
+
+Dall’alto cielo fino quasi alle terre terrene.
+
+Proprio in questo aspetto, non riesce a mantenere il ritmo desiderato.
+
+Con i segni stellari sopra di noi; proprio fino a quel punto.
+
+Quanto più debole è il vortice che la trasporta.
+
+(Dato che è effettivamente ancora più basso del sole),
+
+Fino a questo punto, tutti i segni zodiacali.
+
+Gira intorno a lei e superala.
+
+Pertanto, succede che la luna appaia.
+
+Per tornare più rapidamente a qualsiasi segno.
+
+Lungo lo Zodiaco, così anche il sole.
+
+Perché quei segni ritornano ancora da lei.
+
+Più rapidamente di quanto visitino il grande sole.
+
+È anche possibile che due correnti d’aria.
+
+A intervalli regolari e fissi.
+
+Si diffondono dalle regioni trasversali del mondo.
+
+Di cui uno è in grado di allontanare il sole.
+
+Dai segni dell’estate ai obiettivi più importanti di metà inverno.
+
+E i rigori del freddo, e altro ancora.
+
+Che possa essere riportato indietro dalle gelide ombre del freddo.
+
+Anche nelle regioni soggette al calore intenso e nei segni che ne derivano.
+
+Quel bagliore lungo lo Zodiaco. Anche quello, altrettanto.
+
+Dobbiamo presumere che la luna e tutte le stelle.
+
+Che, attraverso gli immensi e eterni anni.
+
+Rotate lungo vaste orbite, possano essere accelerate.
+
+Attraverso flussi d’aria provenienti da regioni diverse.
+
+Non vedi anche tu come si muovono le nuvole?
+
+Da venti contrari provenienti da regioni opposte.
+
+Le nuvole inferiori sono diverse da quelle superiori?
+
+Allora, perché mai quelle stelle nell’etere lassù.
+
+Non vengono trasportati lungo le loro maestose orbite.
+
+Attraverso correnti opposte a quella principale?
+
+Ma la notte avvolge le terre in un’oscurità impenetrabile.
+
+O quando il sole, dopo il suo percorso quotidiano.
+
+Ha percorso le regioni più remote del cielo.
+
+E con fatica ha emesso le sue fiamme.
+
+Scossi dal lungo viaggio e consumati.
+
+Attraversando l’immensità dell’aria.
+
+Oppure perché la stessa forza che spingeva.
+
+La sua sfera, posizionata sopra le terre, esercita una forza irresistibile.
+
+Allora egli cambiò direzione, dirigendosi verso le terre sottostanti.
+
+Anche Matuta, alle ore stabilite.
+
+Disperde la luce rosata del mattino su tutto intorno.
+
+Le coste del cielo diffondono la luce.
+
+O forse perché lo stesso sole, tornando.
+
+Sotto le terre, si anela ad afferrare il cielo.
+
+[Sforzandosi](/concepts/conatus) di farlo brillare con i suoi raggi
+
+Ora che egli stesso è apparso, o forse perché.
+
+Allora i fuochi si concentreranno e molte semi.
+
+Alla calore si è abituati, persino in momenti precisi.
+
+Trasmettere insieme, un processo di genere che continua senza sosta.
+
+Nuovi soli e luce. Così vuole la storia.
+
+Si possono vedere, dalle cime montuose dell’Ida,
+
+Fiamme sparse all’alba.
+
+Che quindi si uniscono, come se fossero una singola entità, in un unico insieme.
+
+E formano un globo. E nemmeno in queste circostanze.
+
+Non c’è nulla di sorprendente in queste “semi di fuoco”.
+
+Possono quindi fluire insieme, in un momento così preciso.
+
+E plasmare nuovamente lo splendore del sole.
+
+Per molti fatti che osserviamo accadere.
+
+In ogni cosa, in momenti precisi, i cespugli germogliano.
+
+In un momento preciso, e sempre in un momento preciso.
+
+Lanciarono i loro fiori; e Eld comandò ai denti.
+
+In un momento sicuramente prestabilito, tutto svanirà.
+
+E la Gioventù comanda al ragazzo in crescita di fiorire.
+
+Con quella morbida peluria che gli ricopriva entrambe le guance.
+
+La morbida barba cade. E infine, i fulmini.
+
+Neve, piogge, nuvole, venti, nelle varie stagioni dell’anno.
+
+Tutto ciò che accade non è mai immutabile; ogni evento ha inevitabilmente luogo.
+
+Poiché, fin dal loro antico inizio primordiale.
+
+Le cause hanno sempre agito in questo modo.
+
+E là, fin dalle origini stesse del mondo,
+
+Ed è così che le cose sono accadute, ancora oggi.
+
+In ordine prestabilito, arrivano uno dopo l’altro.
+
+Anche in sequenza.
+
+Allo stesso modo, anche i giorni possono trascorrere lentamente.
+
+Mentre le notti si assottigliano e la luce del giorno diminuisce.
+
+Sebbene le notti subiscano delle trasformazioni,
+
+O forse perché lo stesso sole, che scorre nel cielo.
+
+Sotto le terre e sopra, in due archi.
+
+Ciò che è più lungo e ciò che è più breve si separano l’uno dall’altro.
+
+Le coste dell’etere si dividono in due parti.
+
+La sua orbita è assolutamente irregolare, e aggiunge:
+
+Dato che è rotondo, si trova nella metà di lì.
+
+Per quanto sia stato preso dall’altra metà.
+
+Fino a quando non arriverà quel segno del cielo.
+
+Là dove il nodo dell’anno porta le ombre della notte.
+
+Pari ai periodi di luce.
+
+Perché quando il sole si trova a metà del suo percorso.
+
+Tra i soffi del vento nord e quelli del vento sud.
+
+Il cielo mantiene i suoi due obiettivi equidistanti l’uno dall’altro.
+
+In virtù della posizione fissa, antica.
+
+Di tutto l’arcobaleno stellato attraverso cui.
+
+Quel sole, avanzando lungo la sua traiettoria, impiega un anno per completare il suo percorso.
+
 <span class="atom-split" data-atom="038" data-title="BOOK V (parte 6)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Illumining the sky and all the lands
@@ -14328,6 +28234,396 @@ Upon the mighty mountains and all birds
 
 Aerial with many a varied shape.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Illumina il cielo e tutte le terre.
+
+Con una luce obliqua – così ci dicono gli uomini.
+
+Coloro che, con i loro diagrammi, hanno tracciato con precisione la strada da seguire.
+
+Quei settori del cielo che sono adornati.
+
+Con i segni zodiacali predisposti in modo specifico.
+
+Altrimenti, perché in alcune zone l’aria.
+
+Sotto la superficie terrestre, tutto è più denso; i movimenti vibranti che si verificano lì sono più intensi.
+
+Intensi fasci di luce infuocata tremolano lentamente.
+
+Nessuno può penetrare facilmente in quell’atmosfera.
+
+Né ancora sono emersi dal loro luogo di origine.
+
+È proprio per questo che le notti d’inverno.
+
+Non indugiare a lungo, prima che arrivi colui dalle molte luci.
+
+Emblema del giorno. O forse, come detto prima, per qualche altro motivo.
+
+In stagioni alternate dell’anno.
+
+I fuochi, ora più rapidi, ora più lenti, seguono sempre lo stesso andamento.
+
+Per ardere insieme, quei fuochi che danno vita al sole.
+
+Alzarsi in un certo luogo, ed è proprio questo che conta.
+
+Quegli uomini sembrano dire la verità [quelli che sostengono, ].
+
+Con ogni nuova alba nasce un nuovo sole.
+
+La luna, forse, brilla perché.
+
+Bagnato dai raggi del sole, giorno dopo giorno.
+
+Che la sua luce si rivolga verso di noi, ancora di più.
+
+Si allontana dall’orbita del sole, fino a quando.
+
+Di fronte a lui, dall’altra parte del mondo.
+
+Ha brillato con tutto il suo splendore.
+
+E, mentre si eleva e vola sempre più in alto.
+
+Ha osservato il suo sorgere; e da lì, allo stesso modo.
+
+Deve assolutamente nascondere, per così dire, la sua luce dietro.
+
+Gradualmente, man mano che si avvicina sempre di più.
+
+lungo l’arco dello Zodiaco,
+
+Dalla sua lontana dimora, verso i fuochi di quel sole lontano.
+
+Coloro che fingono che la luna sia.
+
+Proprio come una palla che segue una certa traiettoria.
+
+Tra il sole e la terra, c’è, ancora una volta,
+
+C’è qualche motivo per ritenere che la Luna possa rotolare.
+
+Con una luce tutta sua, e così si manifesta.
+
+Le varie forme della sua splendidezza, lì.
+
+Poiché vicino a lei potrebbe esserci un altro corpo.
+
+Invisibile, poiché privo di luce.
+
+Trasportata e guidata da essa,
+
+Ci sono tre modi attraverso i quali ciò può oscurare e cancellare la sua superficie.
+
+Di nuovo, potrebbe concentrarsi soltanto su se stessa.
+
+Come la sfera di una palla, se forse così può essere descritto.
+
+Una metà di lei era illuminata da una luce splendente.
+
+E attraverso la [rivoluzione](/positions/revolution) di quella sfera.
+
+È lei che può generare per noi le sue molteplici forme.
+
+Fino a quando non mostrerà quella sua parte appassionata.
+
+Visibile a tutti, sotto gli occhi di tutti gli uomini.
+
+Da lì, attraverso lenti e continui movimenti circolari, lei ruota avanti e indietro.
+
+Ritirando così la parte luminosa.
+
+Della sua massa sferica e rotonda, davvero, così era.
+
+La dottrina caldea babilonese.
+
+Confutando l’arte degli astrologi greci,
+
+Al contrario, i sforzi compiuti per dimostrare qualcosa con certezza.
+
+Come se, in realtà, ciò per cui ognuno lotta.
+
+Forse non è altrettanto vero, o forse nulla di tutto ciò esiste davvero.
+
+Pertanto, affinché tu possa osare abbracciare qualcuno.
+
+Più di qualsiasi altra nozione. Ancora una volta, quindi.
+
+Perché una luna nuova potrebbe non durare per sempre.
+
+Creato attraverso sequenze prestabilite, lì.
+
+Di forme e configurazioni fissate.
+
+E perché, ogni giorno, quella luna splendente viene creata.
+
+Potrebbe non fallire e ne nascerne un altro.
+
+Al suo posto, è nato qualcos’altro, nuovo e diverso.
+
+È difficile dimostrarlo con la ragione o con le parole.
+
+Per dimostrare che è assurdo, poiché, infatti, ci sono così tante cose.
+
+Può essere creato attraverso sequenze fisse e ripetitive.
+
+Arriva la primavera e Venere. E anche il giovane compagno di Venere.
+
+Il messaggero alato si avvicina per primo.
+
+E sulle orme di Zephyr, Madre Flora.
+
+Disperdendosi lungo i sentieri davanti a loro, tutto viene riempito.
+
+Con colori e profumi eccellenti;
+
+In seguito arriva il caldo arido, e lui.
+
+È accompagnata da Cere, quella polverosa.
+
+E attraverso i venti etesii del nord.
+
+Poi arriva l’Autunno, e insieme a esso.
+
+Signore Bacco, e poi anche le altre stagioni.
+
+E altri venti seguono, quel fragore potente e incessante.
+
+Del potente Volturno e del forte vento del sud.
+
+Con fulmini. Alla fine, il giorno più breve della terra.
+
+Porta sugli uomini le nevi e poi le ritira di nuovo.
+
+Il freddo intenso. E l’inverno la segue.
+
+I suoi denti tremavano per il freddo; quindi, è così.
+
+Se avviene in un momento preciso, allora non è più considerato un miracolo.
+
+Un satellite naturale viene così creato, e ancora una volta.
+
+Distrutto in un momento preciso, poiché le cose sono così numerose.
+
+Può prendere forma in questo modo in un momento preciso.
+
+Allo stesso modo, gli eclissi del sole e quelli della luna.
+
+Le occulazioni puoi considerarle con piena ragione.
+
+Per diverse ragioni. Infatti, davvero.
+
+Perché la luna dovrebbe essere in grado di oscurare tutto?
+
+La Terra, illuminata dalla luce del sole, e sul lato.
+
+In direzione della terra, spinse in alto la sua testa sotto il sole.
+
+Contrapponeva un globo oscuro ai suoi raggi luminosi.
+
+Eppure, allo stesso tempo, si presume che esista questo effetto.
+
+Non potrebbe derivare da qualche altro corpo.
+
+Qualo è quel movimento che avviene senza luce, per sempre?
+
+Di nuovo, perché il sole, in uno stato di debolezza, non avrebbe potuto.
+
+A un orario prestabilito, perdeva le sue fiamme, e poi.
+
+Quando si sarà allontanato nell’aria.
+
+Oltre alle regioni ostili alle sue fiamme.
+
+Qualcosa che potesse spegnere e uccidere quelle fiamme. Perché non poteva esistere?
+
+Rinnovare la sua luce? E perché mai la terra, a sua volta.
+
+Avere il potere di privare la luna della sua luce. E là.
+
+Essa stessa, in alto, tiene nascosto il sole sotto di sé.
+
+Mentre la luna percorre il suo cammino mensile.
+
+Attraverso le rigide ombre di quel cono? —
+
+Eppure, allo stesso tempo, esiste un altro corpo.
+
+Non avere la capacità di sorpassare la luna.
+
+O scivolare sopra l’orbita del sole.
+
+Spezzare i suoi raggi e disperderne la luce?
+
+Eppure, anche se la stessa luna fosse splendente.
+
+Con quel suo proprio splendore, perché non avrebbe potuto, a volte.
+
+In un quarto di questo immenso mondo.
+
+Diventa debole e stanco, mentre lei prosegue il suo cammino.
+
+Regioni ostili ai propri stessi raggi?
+
+Origini della vita vegetale e animale
+
+E ora veniamo a ciò che resta. Poiché ho deciso.
+
+Secondo quali disposizioni avvengono tutte le cose?
+
+Attraverso le regioni blu di questo immenso mondo.
+
+Come possiamo conoscere quale energia e quale causa.
+
+Iniziò il corso naturale del sole.
+
+E i movimenti della luna, e con quali straordinari mezzi.
+
+Possono soccombere, mentre la luce viene ostacolata.
+
+E coprite con l’ombra quelle terre ignare e innocenti.
+
+Quando, per così dire, sbattono le palpebre, e poi di nuovo.
+
+Con gli occhi aperti, esamino tutte le regioni circostanti.
+
+Rifulgente di luce bianca. Ora lo faccio davvero.
+
+Tornare all’epoca primordiale del mondo.
+
+E racconta quale fu la prima cosa ad apparire su quei teneri, giovani campi di terra.
+
+Con il più precoce parto era già stato decretato.
+
+Alzarsi nell’aria, verso le rive della luce.
+
+E affidarlo ai venti capricciosi.
+
+All’inizio, la terra produsse, intorno.
+
+Le colline e l’intera estensione delle pianure.
+
+La specie delle erbe e quel verde brillante.
+
+I prati fioriti brillavano di luce.
+
+Con un colore verde, e poi, ecco.
+
+A ciascun tipo di albero fu dato.
+
+Un impulso di competizione forte spingeva a sparare con tutte le forze.
+
+Con totale libertà, si innalzano nel cielo.
+
+Poiché piume, peli e setole vengono generati.
+
+I primi membri delle razze di quattro piedi.
+
+E sui corpi di quegli uccelli dalle ali forti e potenti.
+
+E così, la nuova Terra, innanzitutto, diede vita.
+
+Erbe e arbusti, e poi ne nacquero altri.
+
+Le generazioni mortali, lì nacquero.
+
+Innumerevoli, nei modi più svariati.
+
+Dopo che le mode si sono divaricate. Poiché dal cielo.
+
+Queste creature che respirano non avrebbero mai potuto cadere.
+
+Né gli abitanti della terra sono mai saliti fin lassù.
+
+Dai laghetti salati del mare. Quanto è vero ciò che dici.
+
+Quanto meritato sia quel nome adottato.
+
+Della terra, “La Madre!”, poiché proprio dalla terra.
+
+Tutti sono nati. E anche ora continuano ad emergere.
+
+Dai campi, quante creature viventi.
+
+Formatosi a causa delle piogge e del calore del sole.
+
+Pertanto, non è poi così sorprendente che siano sorti.
+
+In tempi lontani c’erano molte più cose, e tutte molto più grandi.
+
+Risalgono a quei tempi, ai freschi anni della giovinezza.
+
+Di terra ed etere. Prima di tutto, la razza.
+
+Tra gli esseri alati e gli uccelli dai colori vivaci,
+
+Schiusi in primavera, lasciavano dietro di sé le loro uova.
+
+Come avviene oggi d’estate con i grilli sugli alberi.
+
+Lascino davvero le loro lucenti “scorie” di propria volontà.
+
+Cercavano il loro cibo e sopravvivevano. E così era allora.
+
+Questa tua terra fu la prima a dare origine al giorno.
+
+Le generazioni mortali, poiché prevalse la loro volontà.
+
+Tra i campi caldi e umidi.
+
+E quindi, ovunque si presentasse un luogo adatto,
+
+Iniziarono ad apparire cavità addominali, generate dalle radici.
+
+Attaccati alla terra. E quando giungerà il momento propizio.
+
+L’epoca dei giovani che cercavano l’aria.
+
+E se le umidezze della terra fossero esplose fuori da questi grembi, oh allora.
+
+La Natura aprirebbe forse i pori della terra in quel luogo?
+
+E far sì che dalle sue vene aperte sgorgi un liquido.
+
+Come il latte, proprio come una donna in questo momento.
+
+È riempita, durante la gravidanza, di latte dolce.
+
+Perché tutto quel rapido flusso di sostanze nutritive.
+
+Si rivolge quindi ai seni materni.
+
+La terra avrebbe fornito ai bambini del cibo.
+
+Il calore era la loro coperta; l’erba, il loro letto.
+
+Ricco di soffice piuma. Allora, la novità della Terra.
+
+Non avrebbe suscitato alcuna terribile ondata di freddo intenso.
+
+Né calori estremi né venti potenti.
+
+Poiché tutte le cose crescono e acquisiscono forza nel corso del tempo.
+
+Nelle stesse proporzioni. E allora la Terra era ancora giovane.
+
+Pertanto, ancora e ancora, quanto meritato!
+
+È quel nome adottivo per la Terra: “La Madre”!
+
+Poiché è stata lei stessa ad generare la razza umana.
+
+E in un momento quasi preciso, venne alla luce.
+
+Ogni seno che si muove freneticamente intorno.
+
+Sui maestosi monti e su tutti gli uccelli.
+
+Forme aeree di ogni sorta.
+
 <span class="atom-split" data-atom="039" data-title="BOOK V (parte 7)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 But, lo, because her bearing years must end,
@@ -14717,6 +29013,396 @@ And Venus in the forests then would link
 The lovers’ bodies; for the woman yielded
 
 Either from mutual flame, or from the man’s
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma, ahimè, poiché gli anni della sua vita devono necessariamente concludersi.
+
+Si fermò, come una donna logorata dagli anni.
+
+Poiché eoni che trascorrono modificano la natura di.
+
+L’intero mondo, e tutte le cose necessarie, devono essere presi in considerazione.
+
+Uno stato dopo l’altro, nulla persiste.
+
+Per sempre, uguale a se stesso. Tutto si allontana.
+
+La natura cambia tutto, costringe ogni cosa ad adeguarsi ai suoi cambiamenti.
+
+Verso la trasformazione. Questo materiale si plasmica facilmente.
+
+Un atteggiamento rilassato, con un’aria di stanchezza. E ancora una volta.
+
+Prospera nella gloria, nata dal disprezzo.
+
+E così, dunque, gli eoni che trascorrono cambiano.
+
+La natura di tutto questo vasto mondo, e della terra.
+
+Assume uno stato dopo l’altro. E poi cosa?
+
+In passato riusciva a sopportarlo; ora, invece, non ce la fa più.
+
+E ciò che non è mai riuscita a sopportare, oggi può farlo.
+
+Anche in quei tempi, il mondo terrestre.
+
+Cercò di generare quei mostri che poi emersero.
+
+Con i loro volti e gli arti straordinari.
+
+L’essere ibrido uomo-donna – qualcosa che si trova tra i due generi.
+
+Eppure nessuno dei due, e lontano da entrambi i sessi.
+
+Alcuni orribili esseri privi di piedi.
+
+Alcune vedove, e anche orrori silenziosi.
+
+Senza bocca, o esseri ciechi privi di occhi.
+
+O masse di esseri tutti incatenati alle gambe e ai bracci.
+
+Diviso in due parti, una anteriore e una posteriore, il corpo.
+
+In questo modo, non erano mai in grado di fare nulla o di andare da qualche parte.
+
+Né evitare il disastro, né accettare ciò che è positivo per loro.
+
+E altri miracoli e mostri della terra.
+
+Quindi, un tale tipo di procreazione era, vano.
+
+Poiché la Natura, con orrore, vietò loro di moltiplicarsi.
+
+E erano impotenti nel poter raggiungere.
+
+Il tanto desiderato fiore di perfetta maturità.
+
+O per trovare cibo, o per intrecciarsi tra loro.
+
+Nei lavori di Venere. Poiché vediamo che deve essere così.
+
+Condividere condizioni di vita molteplici.
+
+Se la vita può esistere soltanto attraverso la generazione di nuova vita.
+
+Per plasmare le generazioni, una dopo l’altra.
+
+Prima di tutto, i cibi devono essere. E in secondo luogo, è necessario un percorso attraverso cui.
+
+I semi dell’impregnazione all’interno del contesto.
+
+Che possa fuoriuscire da tutti i loro membri.
+
+Infine, la possesso di quegli strumenti.
+
+Permeando così la possibilità che maschio e femmina possano unirsi.
+
+Uno nell’altro, in un reciproco abbandono.
+
+E nei secoli successivi alla scomparsa dei mostri,
+
+Inevitabilmente, molte piante morirono, incapaci di sopravvivere in quelle condizioni.
+
+Attraverso la riproduzione, si genera una prole.
+
+Per qualsiasi creatura tu osservi.
+
+Ricevuti il soffio della vita, sono stati proprio questi gli stessi.
+
+Riservati in vita fin dalle loro prime età.
+
+Con astuzia, o con coraggio, o almeno.
+
+A piedi o con le ali. E molte specie di animali.
+
+Resta ancora, a causa dell’uso da parte dell’uomo.
+
+E quindi, così dedicata alla tutela dell’uomo.
+
+Il coraggio ha salvato in vita feroci branchi di leoni.
+
+E molte altre razze spaventose.
+
+Essendo astuti come le volpi, fuggono i cervi dalle corna.
+
+Cani che dormono profondamente, con un cuore fedele nel petto.
+
+Tuttavia, ogni specie nasce da un seme.
+
+Dei animali da tiro, così come delle greggi lanose.
+
+E tutti quei bovini cornuti, mio caro Memmio.
+
+Sono stati incaricati della tutela degli uomini.
+
+Fuggirono ansiosamente da quelle bestie feroci.
+
+E cercavano la pace e cibi abbondanti.
+
+Ottenuto senza alcuno sforzo da parte loro stessi.
+
+Quello che garantiamo loro come giuste ricompense.
+
+Per i loro servizi meritevoli. Ma quegli animali, verso i quali.
+
+La natura non ci ha donato nulla di tutto ciò.
+
+Bestie del tutto inadatte, per via della propria [libera volontà](/positions/free_will), a prosperare.
+
+E inutile, qualsiasi sia il servizio che ci venga reso.
+
+Per ringraziarli di ciò, dovremmo permettere loro di fare del bene.
+
+Per essere nutriti e protetti al sicuro.
+
+Quei individui, in verità, erano soliti essere esposti.
+
+Incatenati dai terribili legami del destino,
+
+Da preda e bottino per gli altri, fino a quando.
+
+La natura ridusse quella popolazione all’estinzione totale.
+
+Ma i Centauri non sono mai esistiti, e non possono esistere.
+
+Creature di natura duplice e struttura doppia.
+
+Patto tra membri che si scambiano beni di natura simile.
+
+Eppure, formati con la stessa funzione, con la stessa forza.
+
+In ogni parte del corpo – un fatto che puoi certamente osservare.
+
+Per quanto possano essere noiosi i tuoi ragionamenti, impara bene da questo:
+
+Il cavallo, una volta trascorsi i suoi tre anni.
+
+Fiori nel pieno della loro vitalità, ma il ragazzo.
+
+Non è così, perché spesso anche allora egli si aggira alla cieca nel sonno.
+
+Dopo i capezzoli bianchi e lattiginosi dei seni.
+
+Un bambino ancora piccolo. E poi, quando finalmente.
+
+Le forze vigorose dei cavalli e le membra robuste.
+
+Ora, indeboliti dal trascorrere del tempo, falliamo con l’avanzare dell’età.
+
+Solo allora la gioventù, nei suoi anni fioriti.
+
+Iniziate con i ragazzi e coprite le loro guance rosee.
+
+Con quel morbido piumino. Quindi, per nessuna ragione, pensate mai.
+
+Che da un uomo e dal seme del cavallo.
+
+La bestia del vento. I Centauri possono forse essere composti da elementi diversi?
+
+O non esista più in vita, né Scilla esista.
+
+Corpi semiumani, avvolti da cani furiosi.
+
+Né altri di questo tipo, nei quali rileviamo.
+
+Membri che si contraddicono a vicenda; poiché mai.
+
+Nello stesso istante, raggiungono la piena maturità.
+
+O acquisire e perdere tutta la loro forza fisica.
+
+E mai ardere con lo stesso desiderio d’amore.
+
+E mai nelle loro abitudini si accordano.
+
+Né si possono considerare gli stessi cibi tutti ugualmente deliziosi.
+
+Tranquilli, come si può spesso vedere accadere con le capre barbute.
+
+Si attacca alla cicuta, che per l’uomo.
+
+È un veleno violento. Ancora una volta, poiché la fiamma.
+
+È propenso a bruciare e incendiare quelle masse di colore marrone.
+
+Come per le altre specie, anche per i grandi leoni.
+
+Di carne e sangue, esistenti in queste terre.
+
+Come era possibile che lei, la solitaria Chimera.
+
+Con un corpo triplo – davanti, una leonessa;
+
+E dietro, un drago; e in mezzo, una capra.
+
+Potrebbe eruttare dalla bocca, fuori dal corpo.
+
+Fiamma furiosa? E perché mai colui che finge.
+
+Tali esseri avrebbero potuto essere creati.
+
+Quando la terra era nuova e il cielo giovane e fresco.
+
+Basando il suo argomento vuoto su elementi nuovi.
+
+Che possano mormorare, con una logica simile, molte fantasie.
+
+Nelle nostre orecchie risuonerà, forse, la sua voce che dirà: “Allora, ”
+
+Fiumi d’oro scorrevano in ogni paesaggio.
+
+Che gli alberi fossero soliti fiorire adornati di pietre preziose.
+
+O forse, in quei lontani eoni, l’uomo nacque.
+
+Con arti così giganteschi in lunghezza e capacità di sollevamento.
+
+Per quanto riguarda la capacità di muoversi utilizzando i piedi.
+
+Oceani profondi da attraversare a piedi o con le proprie mani.
+
+Per far ruotare l’universo intorno alla sua testa.
+
+Poiché, sebbene sulla terra esistano molte “semi” di cose.
+
+Ai tempi antichi, quando questo mondo terrestre.
+
+Innanzitutto, furono introdotte all’estero varie razze di animali.
+
+Tuttavia, questo non costituisce affatto un segno che.
+
+Tali creature ibride avrebbero potuto essere generate.
+
+E gli arti di tutte le bestie sono eterogenei.
+
+Sono stati uniti insieme; perché, in effetti,
+
+I vari tipi di erbe e i cereali.
+
+E quegli alberi deliziosi, che anche ora.
+
+Sorgi in abbondanza dal profondo della terra.
+
+Non possono mai essere generati attraverso i loro steli.
+
+Innestato in uno solo; ma ogni singola cosa.
+
+Prosegue secondo la sua natura intrinseca.
+
+E tutti mantengono le proprie distinzioni, basate su.
+
+Nel decreto immutabile della natura.
+
+Origini e periodo selvaggio dell’umanità
+
+Ma l’uomo mortale.
+
+Era quindi molto più resistente nelle antiche campagne.
+
+Anche lui dovrebbe esserlo, visto che la terra è più resistente.
+
+Lo aveva generato; anche lui fu costruito.
+
+Ossa più grandi e più solide all’interno.
+
+E intrecciati con muscoli forti attraverso la carne.
+
+Né facilmente influenzato dal caldo né dal freddo,
+
+O cibo alieno, o qualsiasi malattia o disturbo.
+
+E mentre così tanti raggi del sole.
+
+Si muovevano lungo il cielo; gli uomini conducevano una certa vita.
+
+Dopo l’abitudine nomade delle bestie selvatiche.
+
+Non era ancora allora che esistessero robusti conducenti di aratri curvi.
+
+E allora nessuno sapeva come lavorare i campi utilizzando il ferro.
+
+Oppure piantare i germogli giovani nelle buche scavate nel terreno fertile.
+
+O tagliarli via con coltelli a uncino da alte piante.
+
+Gli rami dell’anno scorso. Che sole e piogge.
+
+A loro era stato dato ciò che la terra, di sua spontanea volontà, aveva offerto.
+
+Creata allora, fu una benedizione sufficiente a portare gioia.
+
+I loro cuori semplici. Tra querce cariche di ghiande.
+
+Si sarebbero riposati, rinfrescati per un momento?
+
+E i frutti selvatici dell’arbusto.
+
+Che ora vedi maturare, di colore viola-rosso.
+
+Durante l’inverno, quel vecchio terreno terrigeno.
+
+Allora sarebbero più abbondanti e più grandi.
+
+E anche molti cibi grezzi, molto tempo fa.
+
+La freschezza rigogliosa di questo giovane mondo in fiore.
+
+Prodotto in quantità sufficienti per quei poveri disgraziati là.
+
+E fiumi e sorgenti, un tempo, li chiamavano a sé.
+
+Per placare la sete, proprio come ora dalle grandi colline.
+
+La corrente d’acqua scorre verso il basso, con un suono che si sente chiaramente da lontano.
+
+Le generazioni assetate della natura selvaggia.
+
+Anche loro cercarono le grotte delle Ninfe.
+
+I luoghi boschivi che venivano scoperti durante le loro escursioni.
+
+Da lì capirono che quei ruscelli che scorrevano silenziosamente.
+
+Con schiuma e spruzzi abbondanti, le acque lavavano le rocce.
+
+Le rocce da cui gocciolava l’acqua, e quella che scorreva dall’alto.
+
+Sopra la verde muschiovia; e qua e là.
+
+Si accumularono e si riversarono nelle pianure aperte.
+
+Fino ad allora non sapevano ancora come accendere il fuoco.
+
+Contro il freddo, senza pelli pelose da utilizzare.
+
+E vestono i loro corpi con i predoni delle bestie;
+
+Ma rannicchiati nei boschetti, nelle caverne delle montagne e nelle foreste.
+
+E tra i cespugli nascondevano le loro schiene luride.
+
+Quando costretti a fuggire dalle feroci raffiche dei venti.
+
+E le piogge torrenziali. Nemmeno allora potevano considerarle.
+
+Il bene generale, né sapevano come utilizzarlo.
+
+In ogni ambito, qualsiasi [abitudine](/concepts/custom), qualsiasi legge.
+
+Qualunque sia la fortuna in termini di ricchezze che cada in mano a ciascuno.
+
+Se fossero stati offerti uno per uno, ognuno di essi sarebbe stato portato via.
+
+Per istinto, allenato affinché l’individuo possa prosperare e vivere.
+
+E allora Venere, nelle foreste, avrebbe creato quel legame.
+
+I corpi degli amanti, poiché la donna si arrese.
+
+O a causa di un sentimento reciproco, o a causa dell’uomo.
 
 <span class="atom-split" data-atom="040" data-title="BOOK V (parte 8)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -15124,6 +29810,412 @@ Already, when their teeth and claws be scarce
 
 As yet engendered. So again, we see
 
+<span class="qlang-split" data-lang="it"></span>
+
+Furia impetuosa e lussuria insaziabile.
+
+O attraverso una tangente – come noci di quercia, pere selezionate.
+
+O i frutti selvatici dell’arbusto.
+
+E confidando nella meravigliosa forza delle proprie mani e dei propri piedi.
+
+Avrebbero inseguito i viaggiatori che si aggiravano nella foresta, quelle bestie.
+
+E ne conquistarono molti, ma alcuni riuscirono a fuggire.
+
+Si nascondono furtivamente nei loro rifugi.
+
+Con le pietre scagliate e con quel peso imponente.
+
+Di un ramo contorto. E quando arrivava la notte.
+
+Catturati, avrebbero attaccato come maiali setolosi.
+
+Le loro membra, simili a quelle di un selvaggio, erano nude a contatto con la terra.
+
+Avvolgendosi nelle foglie e nei rami frondosi.
+
+Né avrebbero inviato grida di lamento.
+
+Per i campi, alla luce del giorno e sotto il sole.
+
+Tremando e vagando nell’oscurità della notte.
+
+Ma, in silenzio e immersi nel sonno, avrebbero aspettato.
+
+Fino a quando il sole, con i suoi raggi rosati, non portò.
+
+La gloria va verso il cielo. Fin dall’infanzia non si cambia.
+
+Per vedere sempre come il buio e il giorno nascano l’uno dall’altro.
+
+In tempi alterni, mai potrebbero essere diversi.
+
+Confusi da oscure preoccupazioni, temendo che una notte.
+
+L’Eterno dovrebbe possedere queste terre, insieme alla luce.
+
+Di un sole per sempre ritiratosi. Ma la loro preoccupazione.
+
+Piuttosto, erano i clan di bestie selvagge.
+
+Spesso rendevano orribile il loro momento di sonno.
+
+Per quei poveri disgraziati, e costretti ad allontanarsi dalla propria casa.
+
+Si sarebbero allontanati dalle loro dimore rocciose non appena qualcuno si fosse avvicinato.
+
+Del maiale, dal labbro spumoso, o del leone, forte e potente.
+
+E a mezzanotte, con terrore, ci arrendiamo.
+
+A quei visitatori “feroci”, letti fatti di foglie disposte a terra.
+
+Eppure, in quei tempi, non c’era molto di diverso rispetto a oggi.
+
+Le generazioni di esseri mortali.
+
+Lascia alle spalle la dolce luce di una vita che svanisce.
+
+Infatti, in quei tempi, di tanto in tanto, un uomo.
+
+Più spesso venivano afferrati e inghiottiti dalle zanne.
+
+Fu fornito ai animali un cibo che, una volta ingerito, li faceva ruggire vivacemente.
+
+Risonando tra i boschi, le colline e gli alberi della foresta.
+
+Mentre osservava la propria carne viva sepolta sotto terra.
+
+All’interno di una tomba vivente; mentre coloro che fuggono.
+
+Aveva salvato, mordendosi ossa e carne, urlando.
+
+Premendo le loro mani tremanti su quelle piaghe disgustose.
+
+Con voci orribili che promettevano la morte eterna.
+
+Fino a quando, privi di aiuto e senza più alcuna idea.
+
+Forse la medicina potrebbe lenire le loro sofferenze, quei dolori strazianti.
+
+Li ha portati via dalla vita. Ma non in quei tempi lontani.
+
+Potrebbe mai un solo giorno essere destinato alla rovina?
+
+Migliaia di soldati che marciano.
+
+Sotto le bandiere di battaglia, nemmeno allora.
+
+Le onde impetuose dei mari principali si schiantano contro.
+
+Intere flotte e equipaggi distrutti sulle rocce.
+
+Ma anche se gli oceani si sollevassero in furia, spesso tutto sarebbe vano.
+
+Senza fine né risultato, e arrendersi.
+
+Anche le sue minacce vuote sono altrettanto prive di peso.
+
+Né le dolci seduzioni di un mare sereno.
+
+Potrebbe forse il riso attirare qualsiasi uomo?
+
+Verso il disastro, per la scienza, audace e spregiudicata.
+
+In quei tempi lontani, le conoscenze riguardanti la navigazione marittima erano molto limitate.
+
+Ancora una volta, fu proprio in quel momento che la mancanza di cibo divenne insopportabile.
+
+Le membra deboli degli uomini, destinate alla dissoluzione. Ora.
+
+La abbondanza stessa diventa un ostacolo. Inavvertitamente, loro.
+
+Spesso, per loro stessi, riversavano fuori.
+
+Il veleno, ora, con metodi più raffinati, sono loro stessi a usarlo.
+
+Distribuiscono i bozzi ad altri.
+
+I INIZI DELLA CIVILIZAZIONE
+
+In seguito,
+
+Quando ebbero ottenuto capanne, pelli e fuoco.
+
+E quando la donna, unita all’uomo.
+
+Si ritirò con lui in un unico luogo di dimora.
+
+Erano conosciuti; e quando videro nascere un discendente.
+
+Fu proprio da loro che, per la prima volta, l’umanità nacque.
+
+Iniziò ad ammorbidirsi. Poiché era proprio in quel momento che il fuoco.
+
+Il loro tremore rendeva i loro corpi ancora meno in grado di resistere.
+
+Sotto la cupola del cielo, il freddo.
+
+E l’Amore attenuò la loro durezza e ruvidezza.
+
+E i bambini, con le loro parole sciocche e i loro baci.
+
+Ben presto, l’arrogante carattere dei genitori si placò.
+
+Anche allora i vicini si unirono come amici.
+
+Desideroso di non sbagliare più e di non subire ingiustizie,
+
+E si sollecitava l’attenzione per i bambini e le donne.
+
+Misericordia, da parte dei padri, mentre con grida e gesti.
+
+Balbettavano suggerimenti su quanto fosse opportuno che tutto ciò accadesse.
+
+Dovremmo provare compassione per i deboli. Eppure, ancora.
+
+Sebbene non fosse possibile concordare in ogni modo.
+
+Che nasca una persona buona, davvero bella.
+
+Mantenere la fede intatta, altrimenti, l’umanità.
+
+Da molto tempo ormai era completamente isolato, tagliato fuori da ogni contatto.
+
+E la propagazione non avrebbe mai potuto portare a ciò.
+
+Le specie, nel corso dei secoli.
+
+Per timore che, forse.
+
+Riguardo a queste questioni, tu rifletti attentamente.
+
+Nella meditazione silenziosa, lasciate che dica.
+
+Fu il fulmine ad portare per primo la luce sulla terra.
+
+Il fuoco destinato ai mortali, e da lì si è diffuso.
+
+In tutte le terre, fiamme di calore. Così è.
+
+Anche ora vediamo così tanti oggetti, che vengono toccati.
+
+Per le fiamme celesti, che brillino intensamente.
+
+Quando il fulmine li ha colpiti con il suo calore.
+
+Eppure, anche quando un albero ramificato.
+
+Sfiduciato dai venti, si contorce oscillando avanti e indietro.
+
+Spingendosi contro i rami di un albero vicino.
+
+Lì, grazie al potere di un vigoroso strofinamento.
+
+Il fuoco viene generato, e a volte si diffonde con violenza.
+
+Il calore ardente delle fiamme, quando i rami vengono bruciati.
+
+Contro i tronchi. E tra queste cause, una qualsiasi di esse.
+
+È molto probabile che abbia donato agli esseri umani il fuoco.
+
+In seguito, cibo da cucinare e ammorbidire sul fuoco.
+
+Il sole diede istruzioni, poiché spesso lo vedevano agire così.
+
+Come gli oggetti si invecchiavano dolcemente, quando venivano mitigati dal calore.
+
+E sotto i colpi incessanti di raggi infuocati.
+
+Attraverso tutti i campi.
+
+E sempre di più, giorno dopo giorno.
+
+Se gli uomini fossero più forti di mente, più saggi nel cuore.
+
+Insegnate loro a cambiare il proprio modo di vivere e le proprie abitudini precedenti.
+
+Con il fuoco e nuovi strumenti. I re iniziarono così.
+
+Città da fondare e fortezze da erigere.
+
+Come fortezze e rifugi per se stessi,
+
+E greggi e campi da distribuire a ciascun uomo.
+
+Dopo la [bellezza](/concepts/beauty), la forza e il senso di ogni singola cosa.
+
+La bellezza, quindi, veniva importata in grandi quantità, così come la forza.
+
+Aveva i propri diritti ritenuti supremi; in seguito, la ricchezza.
+
+Fu scoperto l’oro; esso venne portato alla luce.
+
+Che presto privò sia i forti che i belli della loro onore.
+
+Per gli uomini, per quanto belli nella forma.
+
+O i valorosi seguiranno, per lo più.
+
+La festa del ricco. Se solo l’uomo potesse guidarla.
+
+Con un ragionamento più logico, avrebbe potuto possedere la sua vita.
+
+Ricchezze abbondanti, purché l’animo sia soddisfatto.
+
+Conduceva una vita frugale; poiché, credo, mai.
+
+Nel mondo, manca davvero molto di poco.
+
+Ma gli uomini desideravano gloria per sé stessi e potere.
+
+Anche se le loro fortune sono basate su fondamenti solidi.
+
+Potrebbero riposare per sempre, e anche loro stessi.
+
+Coloro che possiedono ricchezze abbondanti potrebbero condurre una vita tranquilla.
+
+In vano, in vano, poiché, nel tentativo di salire.
+
+Salendo verso le vette dell’onore, gli uomini davvero riescono a raggiungerle.
+
+Il loro cammino era terribile; e anche quando, una volta.
+
+Li raggiungono, li invidiano con la forza di un fulmine.
+
+A volte colpisce con forza, gettandoti giù a capofitto.
+
+Nel più oscuro Tartaro, con disprezzo, perché, ecco.
+
+Tutti i picchi, tutte le regioni più elevate delle altre.
+
+Fumo, scatenato come fulmini di invidia.
+
+È quindi meglio obbedire in silenzio e senza proteste.
+
+Piuttosto che desiderare di avere il controllo assoluto su tutte le cose.
+
+E la proprietà degli imperi. Che sia così.
+
+E che coloro che sono stanchi versino tutto il loro sangue nel sudore.
+
+Senza fine, combattendo nell’odio.
+
+Il stretto sentiero dell’ambizione umana.
+
+Poiché tutta la loro saggezza proviene dalle parole altrui,
+
+E tutto ciò che cercano è reso noto da ciò che hanno sentito.
+
+E meno ancora per ciò che hanno pensato. E questa non è certo una follia.
+
+Più grande oggi, e probabilmente non più grande in futuro.
+
+Così era un tempo.
+
+E per questo i re venivano uccisi.
+
+E la maestosità intatta di quei troni d’oro.
+
+E orgogliosi scettri giacciono rovesciati nella polvere;
+
+E le corone, così splendide sulle teste dei sovrani.
+
+Ben presto, sotto i piedi del proletariato.
+
+Gemettero per le loro glorie perdute, per ciò che un tempo era stato così grande.
+
+Da allora, con ancora maggiore avidità.
+
+Calpestati sotto i tacchi della folla. Ecco come stanno le cose.
+
+Fino alle più vili componenti di quelle folle turbolente.
+
+Cedettero tutti, mentre ognuno cercava solo se stesso.
+
+Dominio e supremazia. Quindi, proseguiamo.
+
+Alcuni saggi consigliarono alle persone di fondare.
+
+La carica di magistrato, e fu proprio così che venne istituita.
+
+Codici che potrebbero indurli ad aderire alle leggi.
+
+Per l’umanità, stancata da una vita.
+
+Nutrito con la forza, soffriva a causa delle sue lotte intestine.
+
+E così, prima possibile, attraverso la propria [libera volontà](/positions/free_will).
+
+Si sottomise alle leggi e ai codici più rigorosi. Poiché, da allora.
+
+Ogni mano, pronta nella sua furia, era pronta ad afferrare.
+
+Una vendetta più feroce di quelle permesse dalle leggi umane.
+
+Ora si ammette universalmente che, per questo motivo, gli uomini.
+
+Odiava quella vecchia vita alimentata dalla forza. Era proprio da lì che tutto aveva iniziato.
+
+Quella paura delle punizioni contamina ogni premio.
+
+Di giorni malvagi, in cui forza e inganno tendono insidie.
+
+Ogni uomo intorno a me, e in generale, reagisce con ritiro.
+
+Da lui, da dove sono nate. Non è affatto facile.
+
+Per colui che viola con atti brutti.
+
+I legami della pace comune per vivere una vita insieme
+
+Composto e tranquillo. Poiché, sebbene egli “fugga”.
+
+La razza di dèi e uomini, deve ancora temerla.
+
+Non rimarrà nascosto per sempre, poiché, in realtà,
+
+Tanti, che spesso borbottano tra i loro sogni.
+
+O, delirando nella malattia, si sono traditi da soli.
+
+(Come raccontano le storie, ) e finalmente pubblicato.
+
+Antichi segreti e peccati.
+
+Ma la natura era.
+
+Esortava gli uomini a emettere diversi suoni con la lingua.
+
+E fu la necessità e l’uso a plasmare i [nomi](/positions/nominalism) delle cose.
+
+Più o meno nello stesso modo in cui avveniva durante gli anni in cui non si parlava.
+
+Costringere i bambini piccoli a compiere certi gesti.
+
+Farli indicare qua e là con il dito.
+
+Di ciò che li attende. Poiché ogni creatura lo percepisce in modo diverso.
+
+Per istinto, sapeva quale fosse lo scopo per cui utilizzare le sue capacità.
+
+Ancora i corni appena formatisi del vitello non si erano completamente sviluppati.
+
+Proietta in alto le sopracciglia; con esse “inizia”.
+
+Furioso, colpiva con forza e spingeva selvaggiamente.
+
+Ma i cuccioli di pantera e i piccoli leoni.
+
+Artigli, zampe e morsi sono tutti coinvolti nella lotta.
+
+Già ora, quando i loro denti e artigli sono scarsi.
+
+Ancora non generato. Quindi, ancora una volta, vediamo.
+
 <span class="atom-split" data-atom="041" data-title="BOOK V (parte 9)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 All breeds of winged creatures trust to wings
@@ -15520,6 +30612,402 @@ With net or stirring it with dogs of chase.)
 
 Howso the fact, and from what cause soever
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tutte le specie di creature alate si affidano alle loro ali.
+
+E dai loro ancora immaturi artigli cercano di afferrare.
+
+Un aiuto che arriva con un leggero fruscio. Ecco come bisogna pensare.
+
+In quei tempi, qualcuno provvide ad assegnare equamente.
+
+Alle cose i loro [nomi](/positions/nominalism), e fu da lui che gli uomini impararono ad usarli.
+
+La loro prima denominazione è pura follia.
+
+Perché, dopotutto, avrebbe potuto indicare ogni cosa con le parole?
+
+E pronunciare i vari suoni della lingua, in quale momento?
+
+Si può presumere che il resto sia privo di potere.
+
+Fare lo stesso? E, se gli altri non l’avessero fatto.
+
+Parole che ormai erano diventate parte l’una dell’altra.
+
+Da dove, dunque, nacque in quell’insegnante la convinzione.
+
+La previsione del loro utilizzo, e da dove proveniva tale conoscenza?
+
+Solo a lui appartenevano quelle facoltà primordiali.
+
+Conoscere e comprendere, nella propria mente, ciò che egli aveva voluto?
+
+Inoltre, solo un uomo avrebbe potuto a malapena riuscire a sottometterlo.
+
+Una moltitudine sopraffatta, costretta a scegliere.
+
+Imparare a memoria i nomi di tutte quelle cose. Un compito non facile.
+
+Non è affatto facile, in alcun modo, insegnare.
+
+E per convincere i sordi riguardo a ciò che.
+
+È necessario farlo. Poiché mai lo avrebbero fatto.
+
+Permetterlo, né tollerarlo in alcun modo.
+
+Un continuo e vano rumore nelle loro orecchie.
+
+Suoni vocali mai uditi prima. E cosa ancora?
+
+Finalmente, in questa faccenda così meravigliosa.
+
+Quella razza umana (in cui una voce e una lingua, )
+
+Se fossero ancora in vigore oggi, dovrebbero essere espressi con parole diverse.
+
+Indica i suoi oggetti, poiché ogni significato è diverso.
+
+Potrebbe essere un suggerimento, poiché anche le mute mandrie, sì, proprio loro.
+
+Le stesse generazioni di bestie selvatiche.
+
+I suoni abituali sono diversi e vari tra loro.
+
+Per risvegliarli quando provano paura o dolore.
+
+E quando esplodono di gioia. E questo, certamente.
+
+È tuo dovere conoscere, a partire dai fatti più evidenti: quando tutto ebbe inizio.
+
+Enormi guance flaccide dei furiosi cani molossidi.
+
+Mostrando i loro denti bianchi e duri, iniziano a ringhiare.
+
+Minacciano, con le labbra furiose e scoperte.
+
+Con suoni molto diversi da quelli con cui abbaiano.
+
+E riempire tutte le regioni circostanti di voci.
+
+E quando, con la loro lingua amorevole, iniziano a leccare.
+
+I loro cuccioli, o forse li lanciano in giro con le zampe?
+
+Fingendo morsi delicati per poi aprire la bocca e afferrare qualcosa con un morso deciso.
+
+Si comportano in modo servile, emettendo suoni molto diversi da quelli che dovrebbero usare.
+
+Allora, quando, soli nella casa, ululano.
+
+O strisciare in silenzio, con i fianchi tremanti per i colpi ricevuti.
+
+Di nuovo il nitrito del cavallo. È forse questo?
+
+Non si riscontra alcuna differenza neanche in questo caso, quando lo stemma.
+
+Nel fiore rigoglioso della sua giovinezza, esulta.
+
+Spinti dall’amore alato, tra le cavalle.
+
+E quando, con le narici dilatate, soffia forte.
+
+Il richiamo alla battaglia, e se per caso lui.
+
+Rinchiudono le zampe, tremanti di terrore, e nitriscono, a volte?
+
+Infine, la razza volante, quegli uccelli maculati.
+
+Aquila, falco pescatore, gabbiano marino: in cerca di cibo e di vita.
+
+Tra le onde dell’oceano nel sale marino.
+
+In altri momenti, emettono grida del tutto diverse.
+
+Più di quando lottano per il cibo o contro le loro prede.
+
+Lotta e sforzo. E ci sono uccelli che cambiano.
+
+Con i cambiamenti del tempo, le loro stesse canzoni rauche.
+
+Generazioni di corvi, dotate di una lunga vita.
+
+O stormi di corvi, quando si dice che gridino.
+
+Per la pioggia e l’acqua, e per poter chiamare talvolta.
+
+Per venti e tempeste. Pertanto, se ci sono diverse condizioni atmosferiche.
+
+Costringete quegli esseri brutali, anche se per sempre privi della capacità di parlare.
+
+Per emettere suoni diversi, allora davvero.
+
+Quanto più probabile sarebbe che gli uomini mortali.
+
+In quei tempi, ci potevano essere molti suoni diversi.
+
+Indica ciascuna cosa separata.
+
+E ora, quale ne è la causa?
+
+Ha diffuso le divinità degli dèi in tutto il mondo.
+
+Attraverso nazioni potenti, riempì le città.
+
+Di quegli altari elevati, e delle pratiche che ne derivavano.
+
+Di riti solenni celebrati nel momento giusto, riti che ancora oggi.
+
+Fiorire nel mezzo di grandi questioni di stato.
+
+E in mezzo ai grandi centri della vita civica umana,
+
+I riti da cui ancora una misera umanità.
+
+È stata innestata quella tremante reverenza che si eleva verso l’alto.
+
+Eppure, i nuovi templi degli dèi si ergono da un capo all’altro della terra.
+
+E spinge l’umanità ad andarle a visitare in gran numero.
+
+Nei giorni sacri, non è così difficile donare.
+
+La ragione di ciò si trova nel discorso stesso. Perché, in verità.
+
+Anche in quei tempi, la specie umana.
+
+Vedo volti straordinari di dèi.
+
+Con la mente sveglia; e nei suoi sogni, ancora di più.
+
+Corpi di straordinario sviluppo. E così, per questi.
+
+Gli uomini attribuirebbero senso alle cose soltanto perché queste sembrano possederlo?
+
+Per muovere le loro membra e proferire dichiarazioni ad alta voce.
+
+Adatto a un volto glorioso e a poteri immensi.
+
+E gli uomini avrebbero concesso loro una vita eterna.
+
+Poiché i loro volti, per sempre.
+
+Se prima di loro esistevano e le loro forme sono rimaste intatte.
+
+E soprattutto perché gli uomini non erano disposti a riflettere.
+
+Esseri dotati di poteri così immensi.
+
+Potrebbe benissimo essere domato con qualsiasi mezzo.
+
+E gli uomini penserebbero che siano felici.
+
+Molto più di quanto si possa immaginare, a causa della paura della morte.
+
+Non disturbava affatto nessuno di loro, e poiché.
+
+Nello stesso momento, durante il sonno degli uomini, questi li vedevano compiere tali atti.
+
+Tanti meravigli, eppure non si riesce a percepirne appieno la portata.
+
+Essi stessi non provavano alcuna stanchezza. Inoltre, gli uomini osservavano attentamente.
+
+Come, in un ordine fisso, ruotava continuamente.
+
+I sistemi celesti e i tempi in continua evoluzione.
+
+Nei confronti delle stagioni annuali, nemmeno allora erano in grado di.
+
+Per conoscere le cause di ciò. Pertanto, fu necessario farlo.
+
+Gli uomini cercavano rifugio nel credere che tutto fosse.
+
+Verso le divinità, e fingendo tutto ciò.
+
+Guidato dal loro cenno di assenso. E nel cielo.
+
+Posero i seggi e le statue degli dèi, perché.
+
+Nel cielo notturno si vedono la luna e le stelle.
+
+Continuare ad avanzare, luna, giorno e notte, senza sosta.
+
+Antiche e meravigliose costellazioni, per sempre.
+
+E quelle palle di fuoco che vagano per il cielo durante la notte.
+
+E fiamme che volano, nuvole e il sole, le piogge.
+
+La neve, i venti, i fulmini e la grandine.
+
+E quei rapidi brontolii, quel ruggito vuoto.
+
+Di terribili minacce per l’eternità.
+
+Oh, umanità sfortunata, quando attribuiva.
+
+A divinità capaci di compiere simili imprese straordinarie.
+
+E in aggiunta, la ferocia di una rabbia intensa.
+
+Quali gemiti suscitarono gli uomini in quel triste giorno.
+
+Anche per loro stessi. E oh, quali ferite per noi.
+
+Che lacrime per i figli dei nostri figli. E nemmeno tu, o uomo.
+
+È davvero questa la tua vera devozione: chinare la testa.
+
+Sotto quel velo, ancora visibile mentre si gira.
+
+Di fronte a una pietra, e sempre più vicini.
+
+Davanti a tutti gli altari, né così inclini sulla terra.
+
+In avanti, verso la caduta, verso le mani rivolte verso l’alto.
+
+Prima dei templi degli dèi, né tantomeno davanti alla rugiada.
+
+Altari imbrattati dal sangue abbondante di bestie alte quattro piedi.
+
+Né giuramenti con altri giuramenti si devono legare tra loro. Ma piuttosto, questo.
+
+Considerare tutte le cose con uno sguardo attento e perspicace.
+
+E mantieni la mente in pace. Perché quando alziamo lo sguardo verso l’alto.
+
+Sulle vette innevate di quel grande mondo.
+
+E l’etere, immobile sopra le stelle scintillanti.
+
+E nei nostri pensieri affiorano i ricordi di quei viaggi.
+
+Del sole e della luna, allora, nei nostri petti.
+
+Già oppressi da altre sofferenze,
+
+Inizia immediatamente a farsi strada, emergendo improvvisamente.
+
+Un’altra preoccupazione: nel caso che, per qualche motivo.
+
+È il potere immenso degli dèi.
+
+Si rotola, con movimenti diversi, avanti e indietro.
+
+Le lontane costellazioni bianche. A causa della loro mancanza.
+
+Di tutte le ragioni, è proprio questa che mette alla prova la mente confusa.
+
+Se mai esistette un momento preciso in cui il mondo venne al mondo.
+
+E se, allo stesso modo, esisterà qualche fine.
+
+Fino a che punto le mura del mondo possono ancora.
+
+Supera questa tendenza verso un movimento incessante e continuo.
+
+O forse, per volere divino e nell’eterno bene.
+
+Dotati di tali capacità, possono attraversare interminabili periodi del tempo.
+
+Scivola via, sfidando le potenze sovrannaturali.
+
+Dei tempi immensamente lunghi. Lo.
+
+Esiste forse un uomo il cui animo, preso dal terrore degli dèi.
+
+Non si avvicinino coloro i cui arti sono incantati dal terrore.
+
+Non accovacciatevi insieme, quando la terra è arida.
+
+Terremoti accompagnati da terribili fulmini continuano senza sosta.
+
+E attraverso il vasto cielo risuonano questi tuoni?
+
+Non tremano forse i popoli e le nazioni?
+
+E i re orgogliosi non abbracciano forse le loro stesse membra.
+
+Attraversarono quel luogo con paura delle divinità.
+
+Per evitare che qualche atto malvagio o parole folli possano.
+
+È giunto il momento di pagare il prezzo pesante che abbiamo dovuto pagare?
+
+E quando, inoltre, violente raffiche di vento furioso si scatenano sul mare.
+
+Spazza via l’ammiraglio di una flotta lungo la rotta principale.
+
+Con le sue numerose legioni e i suoi elefanti,
+
+Non cerca forse la pace degli dei attraverso voti e promesse?
+
+E pregare con fervore, tremare, lasciarsi cullare dai venti.
+
+E i venti gentili? – invano, poiché spesso vengono sollevati verso l’alto.
+
+Nei cicloni di furia, viene trascinato via.
+
+Nonostante tutte le sue parole, è destinato alla rovina.
+
+Ah, quindi, in modo irreversibile, qualche forza nascosta.
+
+Disprezza per sempre gli affari degli uomini.
+
+E visibilmente calpesta con il tacco nel fango.
+
+Le gloriose mazze e asce dei littori dicono.
+
+Deriderli. Ancora una volta, quando la terra.
+
+Da un capo all’altro, tutto si muove sotto i piedi.
+
+E le città scosse dal terremoto crollano o minacciano di crollare.
+
+Sul punto di compiersi, quale meraviglia c’è allora?
+
+Che le generazioni mortali si umilino.
+
+E agli dèi, in tutte le questioni terrene.
+
+Assegnare, come ultima risorsa, poteri onnipotenti.
+
+E energie meravigliose per governare tutto?
+
+Ora, per quanto riguarda il resto, rame, oro e ferro.
+
+Quello che fu scoperto fu, insieme al peso dell’argento.
+
+E il potere del piombo, quando accompagnato da un calore incredibile.
+
+Le fiamme hanno distrutto gli alberi della foresta.
+
+Tra le maestose montagne, con un fulmine.
+
+O per un fulmine sceso dal cielo, o per qualche altro motivo.
+
+Gli uomini, che combattevano nelle foreste contro i loro nemici.
+
+Aveva scagliato fiamme per spaventare e disorientare.
+
+O forse perché, grazie alla qualità del terreno.
+
+Invitati, gli uomini desideravano coltivare quei fertili campi.
+
+E trasformare le campagne in terreni da pascolo.
+
+O uccidere la selvaggina e prosperare con i suoi predoni.
+
+(La caccia mediante trappole e l’uso del fuoco nacque, )
+
+Prima che nascesse l’arte di aggirare le difficoltà in modo subdolo.
+
+Con reti o facendolo agitare da cani da caccia.)
+
+Comunque sia, il fatto, e per qualsiasi motivo ciò avvenga.
+
 <span class="atom-split" data-atom="042" data-title="BOOK V (parte 10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 The flamy heat with awful crack and roar
@@ -15910,6 +31398,396 @@ Would circle round; for then the rustic muse
 
 Was in her glory; then would antic Mirth
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il calore ardente, accompagnato da terribili crepiti e ruggiti.
+
+Se avessero divorato fino alle loro radici più profonde.
+
+Gli alberi della foresta bruciavano e il fuoco riscaldava la terra.
+
+Poi, dalle vene in ebollizione, iniziò a fuoriuscire.
+
+O ruscelli d’argento e d’oro.
+
+Anche di piombo e rame, che presto verranno raccolti.
+
+Nelle cavità del terreno.
+
+E quando gli uomini videro quei blocchi ormai raffreddati.
+
+Per brillare con un bagliore splendente sulla terra.
+
+Profondamente affascinato da quella piacevole e lucente morbidezza.
+
+Riuscirono a estrarli e videro come ciascuno di essi.
+
+Aveva assunto una forma conforme alla sua natura terrena.
+
+Allora gli sarebbe venuto in mente come proprio quei medesimi noduli.
+
+Se fuso dal calore, potrebbe assumere qualsiasi forma.
+
+O forse le cose vengono rappresentate in un certo modo. E ancora, come esattamente?
+
+Se venissero perfezionati, potrebbero essere disegnati molto bene.
+
+Verso i punti più affilati o i bordi più sottili, e così via.
+
+Cedete alle armi dei forgiatori e date loro potere.
+
+Per tagliare la foresta e ricavare i tronchi.
+
+Per raschiare le travi e i listelli, oltre che per praticare fori.
+
+E pugni, e martelli. Gli uomini iniziarono a compiere quel genere di lavoro.
+
+All’inizio, tanto quanto con strumenti d’argento e d’oro.
+
+Proprio come la forza impetuosa del robusto rame.
+
+Ma invano, poiché il loro potere era stato completamente sopraffatto.
+
+Si sarebbe presto arreso, incapace di resistere.
+
+Come il rame, un lavoro così duro. In quei tempi.
+
+Era il rame, dunque, l’elemento che ne determinava il prezzo.
+
+E l’oro giaceva inutilizzato, con un bordo smussato e privo di taglientezza.
+
+Ora il rame giace immobile; l’oro è emerso.
+
+Alle più alte onorificenze. È così che deve essere.
+
+Quegli eterni cicli del tempo cambiano le epoche delle cose.
+
+Ciò che un tempo aveva un certo valore, alla fine diventa, qualcos’altro.
+
+Un rifiuto che non comporta alcuna vergogna; mentre un altro.
+
+Segue la gloria, nata dal disprezzo.
+
+E giorno dopo giorno si cerca sempre di più.
+
+E, quando viene scoperto, germoglia nell’ammirazione degli uomini.
+
+Oggetti di meravigliosa dignità.
+
+Ora, Memmio.
+
+Come fu scoperta la natura del ferro, tu puoi immaginare.
+
+Della tua stessa divinità interiore. Gli antichi strumenti dell’uomo.
+
+Se mani, unghie e denti fossero anche pietre e rami.
+
+La rottura degli alberi della foresta, e fiamme, fuoco.
+
+Non appena sarà noto. In seguito, l’uso della forza.
+
+Fu scoperto il rame, e ne fu individuato l’uso.
+
+Era conosciuto già prima dell’uso del ferro, poiché più facile da lavorare.
+
+La sua natura è tale, e la sua abbondanza ancora di più.
+
+Con gli uomini di rame che lavoravano la terra, tutto iniziò.
+
+Con il rame, per suscitare le tempeste furiose della guerra.
+
+Per coprire quelle ferite orribili e impossibilitare che vengano curate.
+
+Gli greggi e i campi di altri. Poiché appartengono a loro.
+
+Così armati, tutte le cose prive di qualsiasi difesa.
+
+Si arrese facilmente. Poi, gradualmente, poco a poco.
+
+La spada di ferro ebbe successo; quella forma.
+
+La spada di ferro battuto divenne oggetto di disprezzo:
+
+Con ferro per dissodare la terra, essi procedettero.
+
+E le contese di una guerra incerta.
+
+Diventarono uguali.
+
+E, ecco, l’uomo era abituato a farlo.
+
+Armato per montare sul dorso dei cavalli.
+
+E guidalo con le redini, e divertiti un po’.
+
+Con la destra libera, molte volte prima di provare.
+
+I pericoli della guerra su carri trainati da cavalli.
+
+E i cavalli legati in coppia avanzavano uno accanto all’altro, prima di tutti gli altri.
+
+Poi i carri armati a quattro cavalli, o le bighe munite di falci.
+
+I soldati vi si arrampicarono sopra. E poi.
+
+Il popolo punico addestrava davvero gli elefanti.
+
+Quei maledetti buoi lucani, orribili.
+
+Le creature dalle mani a serpente, con torri sulle loro masse.
+
+Per sopravvivere alle ferite della guerra e agli attacchi di panico.
+
+Le potenti truppe di Marte. Così Discordo, addolorato.
+
+Generò quella Cosa, una dopo l’altra, affinché esistesse.
+
+Il terrore delle nazioni armate.
+
+E giorno dopo giorno, verso gli orrori della vecchia guerra.
+
+Ha aggiunto un aumento.
+
+Anche i tori hanno provato.
+
+Nel cupo contesto della guerra, si cercò di inviare.
+
+Maiali spaventosi contro i nemici. E alcuni altri ancora.
+
+Mandati avanti, davanti alle loro file, potenti leoni.
+
+Con addestratori armati e maestri spietati.
+
+Guidare e tenere in catene, eppure invano.
+
+Essendo animati da un desiderio frenetico di uccidere, volavano con ferocia.
+
+E, ciecamente, attraverso le formazioni militari, si causava distruzione ovunque.
+
+Scuotendo le terribili creste presenti sulle loro teste,
+
+Ora qui, ora lì. Nemmeno i cavalieri riuscivano a calmarsi.
+
+I loro cavalli, col petto palpitante per il terrore al suono di quel ruggito,
+
+E guidali verso il nemico. Con la primavera.
+
+Le furiose leonesse si sarebbero alzate in piedi di scatto.
+
+Ora qui, ora lì. E chiunque arrivasse in fretta.
+
+Contro di loro, li avrebbero lacerati in volto.
+
+E altri, ignari, da dietro lo strapperebbero via.
+
+Scendete dalle vostre cavalcature e avvolgetevi attorno a loro, portatele con voi.
+
+Cadendo a terra, sopraffatto dal dolore della ferita.
+
+E con quei potenti denti affilati e artigli uncini.
+
+Aggrappatevi a loro. I tori avrebbero gettato via i loro amici.
+
+E calpestare tutto sotto i piedi, e da sotto.
+
+Colpisci i fianchi e le pance dei cavalli con i loro corni.
+
+E con una fronte minacciosa, conficca la zolla nel terreno.
+
+E i maiali selvatici conficcavano le loro forti zanne nei loro alleati.
+
+Spruzzando con rabbia il proprio sangue sulle lance.
+
+Divisi all’interno dei loro stessi corpi, e sarebbero caduti.
+
+In fuga e rovina, sia l’infanteria che la cavalleria.
+
+Lì, le bestie da sella cercarono di fuggire.
+
+Evitando gli affondi selvaggi delle zanne, si allontanava.
+
+O sollevandosi sulle zampe posteriori con gli zoccoli alzati in aria.
+
+Inutilmente, poiché lì avresti potuto vederli affondare.
+
+I loro tendini erano stati recisi; dopo una caduta violenta.
+
+Spargili per terra. E quelli tra questi che sono uomini.
+
+Si presumeva che fossero stati ben addestrati molto tempo fa in patria.
+
+Nel bel mezzo dell’azione, si poteva notare che schiumavano.
+
+Con furia, a causa delle ferite, dei grida, della fuga.
+
+Il panico e il caos. Nessuno riusciva a fare nulla.
+
+Nessuno dei loro membri si unisce agli altri; ogni razza, infatti.
+
+E varie bestie selvatiche fuggirono in tutte le direzioni.
+
+In un modo o nell’altro, proprio come avviene spesso nelle guerre di oggi.
+
+Fuggite da quei buoi lucani, con l’aiuto dell’acciaio!
+
+Terribilmente mutilati, dopo aver compiuto i loro atti.
+
+Tanti terribili destini per i loro amici.
+
+(Si davvero fosse così che agirono, )
+
+Ma fatico a credere che gli uomini non possano.
+
+Con la mente che prevede e vede ciò che è certo accadere.
+
+Un disastro così orribile e generale. Questo.
+
+Possiamo quindi ritenere vero, nell’intero universo, che.
+
+In mondi diversi, su piani diversi, si crea.
+
+In qualche luogo lontano, molto più probabilmente che qui.
+
+Un’unica Terra. Ma gli uomini scelsero proprio di agire in questo modo.
+
+Non tanto nella speranza di conquistare, quanto piuttosto per donare.
+
+I loro nemici rappresentavano una valida causa di dolore per loro.
+
+Anche se in questo modo persero la vita loro stessi,
+
+Poiché eravamo in numero inferiore e privi di armi.
+
+Ora, abiti realizzati con fili intrecciati in modo approssimativo.
+
+Erano anteriori alle coperture tessute a telaio.
+
+Il telaio fu inventato in un momento successivo rispetto all’uso del ferro da parte dell’uomo.
+
+Poiché il ferro è necessario nell’arte della tessitura,
+
+Nessun altro mezzo può essere utilizzato per realizzarlo.
+
+Tali strumenti ben levigati – i pedali, i fusi, le navette.
+
+E i fili di lana che risuonavano. La natura costringeva gli uomini.
+
+Prima che esistesse la donna gentile, per lavorare la lana.
+
+Poiché tutti gli esseri di sesso maschile eccellono grandemente per abilità.
+
+E molto più astuto, fino alla fine.
+
+I contadini robusti e semplici deridevano simili compiti.
+
+E così, eravamo ansiosi di darli loro al più presto.
+
+Nelle mani delle donne, e attraverso un [lavoro](/concepts/labour) più duro.
+
+Per rendere più forti le braccia e le mani.
+
+Ma la natura stessa.
+
+Madre di tutte le cose, fu la prima a seminare i semi.
+
+E quel primordiale rubacuori, poiché i frutti e le ghiande.
+
+Cadendo giù dagli alberi, ci sarebbe qualcosa laggiù sotto.
+
+Producete, nella stagione giusta, schiere di piccoli germogli.
+
+Ecco anche perché gli uomini hanno la tendenza ad inserire errori o imprecisioni nelle loro azioni.
+
+Sui rami e sporgendo dalle cavità.
+
+I giovani arbusti nei campi. Allora avrebbero provato.
+
+Modi sempre nuovi di coltivare i loro amati campicelli.
+
+E osservate come la terra abbia migliorato i sapori.
+
+Dai frutti selvatici, coltivati con amorevole cura.
+
+E giorno dopo giorno costringevano i boschi a muoversi.
+
+Ancora più in alto sulla montagna, e poi arrendersi.
+
+Il luogo sottostante, adatto alla coltivazione, affinché potessero.
+
+Nei pianori e nelle zone collinari esistono le loro distese di prati.
+
+Cisterne e canali di scolo, colture di cereali in crescita.
+
+E vigneti felici, e così via, lungo tutto il percorso.
+
+Potrebbe correre sopra colline, valli e pianure.
+
+La fascia di ulivi di colore verde argenteo.
+
+Delimitando quel paesaggio tracciato sulla mappa, proprio come ora.
+
+Vedi come sei segnato da una varietà di bellezze.
+
+Tutto il terreno che gli uomini abbelliscono e coltivano.
+
+Con file di bei alberi da frutto e siepi intorno.
+
+Con arbusti rigogliosi appena piantati.
+
+Ma attraverso la bocca.
+
+Per imitare i suoni liquidi degli uccelli
+
+Un tempo, tra gli uomini, c’era molta più volontà che capacità di realizzare.
+
+Attraverso canti misurati, versi melodiosi, e donazioni.
+
+Un piacere per le orecchie. E i sibili del vento.
+
+Fu attraverso le cavità dei giunchi che tutto iniziò ad essere insegnato per la prima volta.
+
+I contadini soffiano all’interno dei gambi delle piante.
+
+Di erba di cicuta cava. Poi, poco a poco.
+
+Impararono a utilizzare dolci espressioni, come quelle melodiose che si esprimono attraverso la musica del flauto.
+
+Colpito dalle dita dei cantanti.
+
+Quando udito attraverso boschi inesplorati e profonde foreste.
+
+E praterie boschive, in luoghi ancora inesplorati.
+
+Di gente pastorella e luoghi di pace divina.
+
+E così, il tempo fa avanzare ogni cosa.
+
+Poco a poco, fino a raggiungere il centro della folla umana.
+
+E la ragione lo eleva verso le rive della luce.
+
+Queste melodie avrebbero lenito e rallegrato l’animo dei mortali.
+
+Quando si è sazi di cibo, allora le canzoni sono benvenute.
+
+E spesso, sdraiarsi con gli amici sull’erba soffice.
+
+Accanto a un fiume d’acqua, sotto di esso.
+
+I rami di un grande albero, con gioia, rinfrescavano l’aria.
+
+I loro telai, senza grandi spese – soprattutto.
+
+Se il tempo fosse sereno e le stagioni.
+
+Stavamo dipingendo di verde l’erba e i fiori intorno ad essa.
+
+Poi risate, poi conversazioni, infine scoppi di allegria.
+
+Si sarebbe ripetuto all’infinito; perché allora la musa rustica.
+
+Era nel suo momento di gloria; allora, l’antica Gioia.
+
 <span class="atom-split" data-atom="043" data-title="BOOK V (parte 11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 Prompt them to garland head and shoulders about
@@ -16077,6 +31955,174 @@ For one thing after other did men see
 Grow clear by intellect, till with their arts
 
 They’ve now achieved the supreme pinnacle.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Incoraggiali a adornare la testa e le spalle con ghirlande.
+
+Con ghirlande di fiori e foglie intrecciati,
+
+E continuare a danzare, fuori tempo, con le membra.
+
+Ondeggiando in modo ridicolo, e con dei movimenti delle gambe altrettanto buffi.
+
+Per sconfiggere la nostra madre terra – da cui tutto è nato.
+
+Risate e grida di gioia, perché, ecco.
+
+Tali scherzi e giochi rappresentavano allora il culmine della loro gloria.
+
+Essere più nuovi e strani. E uomini svegli.
+
+Trovarono conforto nelle ore insonni.
+
+Estragendo una varietà di note.
+
+Nella modulazione delle melodie, nel loro svolgimento continuo.
+
+Con le labbra serrate lungo le canne accordate.
+
+Pertanto, anche ai nostri tempi, i custodi vegliano.
+
+Queste antiche tradizioni, le abbiamo imparate bene.
+
+Per mantenere la misura corretta. Eppure, in nessun modo.
+
+Assicurati di ottenere un frutto più grande della gioia.
+
+Poi arrivarono gli abitanti autoctoni della foresta.
+
+Nelle antiche epoche. Per ciò che abbiamo davanti a noi.
+
+Se fino ad allora non abbiamo conosciuto nulla di più dolce.
+
+Questo è ciò che più piace e sembra davvero il meglio di tutto.
+
+Ma poi, in un secondo momento, probabilmente qualcosa di migliore viene scoperto.
+
+Distrugge il suo valore e cambia i nostri desideri.
+
+Riguardo al bene di ieri.
+
+E così.
+
+Iniziò l’odio per quella ghianda; ed è così che.
+
+Abbandonati furono quei letti sui quali erano sparsi dei ciuffi d’erba.
+
+E con le foglie cariche. Così, ancora una volta.
+
+Le pelli di bestie divennero oggetto di nuovo disprezzo.
+
+Un tempo un simbolo onorifico, che, immagino,
+
+In quei tempi, tale invidia era estremamente malvagia.
+
+Che il primo portatore abbia trovato una morte tragica.
+
+Attraverso imboscate. Eppure, quella preda pelosa.
+
+Lì, da avidi nemici, siamo ridotti in stracci.
+
+E, imbrattato di sangue, fu completamente distrutto.
+
+Al di là di ogni utilità o vantaggio. Così era un tempo.
+
+Erano pelli; oggi, invece, sono di colore viola e oro.
+
+Quella vita piena di preoccupazioni e logora dallo sforzo della guerra.
+
+Pertanto, credo che sia proprio in questo che risieda la maggiore colpa.
+
+Noi vani uomini di oggi, poiché il freddo ci tormenterebbe.
+
+Senza le loro pelli, i figli nudi della terra.
+
+Ma per noi non c’è alcun problema a farne a meno.
+
+La veste viola, ricamata d’oro.
+
+E con figure imponenti, se ancora.
+
+Accontentati di indossare qualche semplice abito dei plebei.
+
+Quindi l’uomo si affanna invano in attività vane.
+
+Per sempre, i suoi anni trascorrono in vane preoccupazioni.
+
+Perché, in verità, non ha imparato nulla.
+
+Qual è la vera fine di ciò che si ottiene, né ancora.
+
+Per quanto possa aumentare il vero piacere.
+
+Ed è proprio il desiderio di qualcosa di meglio, di qualcosa in più.
+
+Ha gradualmente introdotto la morte nel mondo.
+
+Avanti, verso le profondità, e risvegliati.
+
+Dai più profondi abissi sorgono le potenti onde della guerra.
+
+Ma il sole e la luna, quei custodi del mondo.
+
+Con le loro lanterne, si muovevano avanti e indietro.
+
+Il potente, quella cupola che ruota incessantemente, ci ha insegnato.
+
+All’umanità, quei periodi dell’anno.
+
+Torna ancora, e che quella cosa avvenga.
+
+Dopo aver stabilito un piano e un ordine precisi.
+
+Già avrebbero trascorso la loro vita in modo così protetto.
+
+Presso le forti torri, e coltivare la terra.
+
+Tutto è stato diviso e delimitato; già.
+
+Esisterebbero fiori del mare e navi dalle ali di vela?
+
+Già allora gli uomini, attraverso trattati e accordi,
+
+Confluenti e alleati, quando i poeti iniziarono.
+
+Raccontare le imprese eroiche attraverso i versi;
+
+Non era trascorso molto tempo quando vennero inventate le lettere.
+
+Ecco perché la nostra epoca è incapace di guardare indietro.
+
+Riguardo a ciò che è accaduto in precedenza, salvo nei casi in cui la ragione.
+
+Ci mostra una traccia, un segno lasciato dietro.
+
+Viaggi per mare.
+
+Semine nei campi, muri, leggi, armi e strade.
+
+Abbigliamento e simili: tutti premi, tutte delizie.
+
+Di una vita più raffinata, poesie, dipinti, forme scolpite.
+
+Le sculture levigate. Tutte queste arti venivano apprese.
+
+Attraverso la pratica e l’esperienza mentale,
+
+Mentre gli uomini avanzavano, un passo dopo l’altro, con impazienza.
+
+E così, il tempo fa avanzare ogni cosa.
+
+Poco a poco, in mezzo alle persone.
+
+E la ragione lo eleva verso le rive della luce.
+
+Gli uomini, uno dopo l’altro, videro accadere queste cose.
+
+Diventa chiaro attraverso l’intelletto, finché con le loro arti.
+
+Hanno ora raggiunto la vetta suprema.
 
 <span class="atom-split" data-atom="044" data-title="BOOK VI (parte 1)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -16471,6 +32517,400 @@ Is manifest from facts when here on earth
 A blast more gentle yet uptwists tall trees
 
 And sucks them madly from their deepest roots.
+
+<span class="qlang-split" data-lang="it"></span>
+
+PROEMIO
+
+Fu Atene per prima, la gloriosa per nome.
+
+Ciò che un tempo fu dato ai sfortunati figli dell’uomo.
+
+Gli steli del raccolto e una vita riorganizzata.
+
+E stabilì leggi; fu lei la prima ad attuarle.
+
+La vita offrì i suoi dolci conforti quando lei, (il testo si interrompe qui).
+
+Un uomo dal cuore così saggio, che un tempo versò.
+
+Tutta la saggezza proveniva dalle sue parole veritiere;
+
+La gloria di colui, sebbene morto, è ancora oggi.
+
+A causa di quelle scoperte divine.
+
+Anticamente rinomato, elevato fino al cielo.
+
+Poiché quando vide che quasi tutto.
+
+Quali sono le esigenze dell’uomo che richiedono con maggiore urgenza attenzione?
+
+Era pronto ad essere offerto agli esseri umani, quella vita.
+
+Nel misuro del possibile, tutto fu sistemato in modo sicuro.
+
+Gli uomini erano signori di ricchezze, onore e lodi.
+
+E rinomato anche per i suoi figli, tutti di grande valore.
+
+Eppure, oh sì, all’interno della casa.
+
+Avevo ancora quel cuore ansioso che tormentava la mia vita.
+
+Senza sosta, tra tormenti mentali.
+
+E fu costretto a esprimersi con furiose lamentele, poi lui stesso.
+
+Allora lui, il maestro, si rese conto che era così.
+
+La stessa nave che causava quel danno, e tutto il resto.
+
+Per quanto sano e salutare possa essere, qualcosa che si trova qui o là.
+
+Fu raccolto in esso; fu da quel flagello.
+
+Corrotto dall’interno. In parte, perché vedeva.
+
+La nave era così crepata e perdente che in nessun modo.
+
+Potrebbe mai essere riempito fino all’orlo; in parte perché.
+
+Indicò chiaramente in che modo esso contaminava l’ambiente con un sapore disgustoso.
+
+Qualunque cosa ci fosse al suo interno. Così lui,
+
+Il maestro, quindi, con le sue parole sincere.
+
+Rimuovere i seni agli uomini e stabilire dei confini.
+
+Di lussuria e terrore, e mostrati apertamente.
+
+Il bene supremo verso cui tutti noi tendiamo.
+
+E ci mostrò la strada percorribile per raggiungere il nostro obiettivo.
+
+Per questo motivo, con un piccolo taglio diagonale diretto.
+
+E che dire delle calamità presenti in tutte le vicende umane?
+
+Si sollevò e volò in modo tortuoso intorno.
+
+(Sia per [caso](/concepts/fortune) che per forza, poiché la natura è così, )
+
+Aveva destinato. E da quali porte un uomo.
+
+Doveva andare in battaglia da solo. E lui lo dimostrò.
+
+Così, per lo più invano, fa l’umanità.
+
+Accoglie nel suo grembo le cupe onde dell’angoscia.
+
+Poiché proprio come i bambini tremano e hanno paura di tutto.
+
+Nella oscurità impenetrabile, anche noi a volte.
+
+Tremo alla luce di tutte quelle cose che esistono.
+
+Niente è più spaventoso di ciò che i bambini fingono.
+
+Tremeranno. Qualcosa li colpirà nell’oscurità.
+
+Quindi questo terrore, questa oscurità della mente.
+
+Non l’alba con i suoi raggi di luce che si diffondono.
+
+Né le scintillanti frecce dell’alba possono disperdere.
+
+Ma soltanto l’aspetto della natura e le sue leggi.
+
+Pertanto, continuerò ancora di più a intrecciare.
+
+Nei versi risiede la mia compito intrapreso.
+
+E poiché ti ho insegnato che le vaste cupole del mondo.
+
+Siamo mortali, e quel cielo è stato creato.
+
+Di forma, nata nel tempo, e qualsiasi altra cosa ci sia.
+
+E così continua, e deve necessariamente continuare.
+
+È tutto ciò che sono riuscito a scoprire; il resto rimane ancora un mistero.
+
+Inoltre, comprendi bene: poiché una volta per tutte.
+
+Per salire su quella celebre carrozza.
+
+Dai venti sorgono; e poi si placano.
+
+Così che tutto possa tornare.
+
+Quelli che un tempo erano, ora sono cambiati, poiché la furia è stata placata.
+
+Tutti gli altri movimenti sulla terra e nel cielo.
+
+Quali mortali, spesso ansiosi, fissano quegli oggetti.
+
+Con pensieri tremanti, e che umiliano la loro mente.
+
+Con terrore delle divinità, le schiacciarono sotto i loro piedi.
+
+Terreni, a causa della loro ignoranza.
+
+Per cause cosmiche, queste forze sono costrette a cedere.
+
+Tutto appartiene all’impero degli dèi.
+
+E concedere loro il dominio regale.
+
+Anche coloro che hanno appreso perfettamente.
+
+Quei semidei conducono una vita lunga e libera da preoccupazioni.
+
+Se intanto si chiedono con quale piano.
+
+Le cose possono continuare ad andare avanti, soprattutto quelle cose lassù, in alto.
+
+Observato lassù, sulle coste eteree.
+
+Di nuovo ci ritroviamo precipitati verso quelle paure.
+
+Riprendere in considerazione le antiche pratiche religiose e adottarle nuovamente.
+
+Padroni crudeli, considerati onnipotenti, uomini miseri.
+
+Senza sapere ciò che è possibile e ciò che non lo è.
+
+E secondo quale legge ciascuno riceve il proprio ambito di azione stabilito?
+
+La sua pietra del confine, che si insinua così profondamente nel Tempo.
+
+Pertanto, più spesso vengono trascinati in un vagabondaggio senza fine.
+
+Per mezzo di una ragione guidata dall’ignoranza. E, Memmio, a meno che.
+
+Tutto ciò lo escogiti soltanto dalla tua mente.
+
+E scaccia lontano da te ogni pensiero che possa.
+
+Dèi indegni e estranei alla loro pace.
+
+Allora, spesso le sacre maestà.
+
+Che gli dei supremi ti portino danno.
+
+Degradato dal tuo pensiero, non proprio, in realtà.
+
+Quell’essenza suprema degli dèi poteva essere ottenuta in questo modo.
+
+Così indignato, così furioso, da non poter fare a meno di cercare.
+
+La vendetta è ardente, ma proprio perché sei tu stesso.
+
+Tu ci tormenti con l’idea che gli dèi.
+
+Anche loro, quei tranquilli che vivono in sereno riposo.
+
+Lasciate che le potenti onde della rabbia si susseguano una dopo l’altra.
+
+Né entrerai con un cuore sereno.
+
+Santuari degli dei, né sarai in grado di farlo.
+
+Con una mente serena e tranquilla, per poter accettare e comprendere.
+
+Quegli immagini che, provenienti dai loro corpi sacri.
+
+Vengono trasferiti negli intelletti degli uomini.
+
+Come gli annunciatori della loro forma divina.
+
+Che tipo di vita seguirà dopo questo?
+
+È a te decidere. Ma ciò che è lontano da noi.
+
+La più valida delle ragioni può spingere una persona ad abbandonare una tale vita.
+
+Molto ancora deve essere arricchito o perfezionato.
+
+In versi raffinati, sebbene sia stato espresso.
+
+Ho già detto molto. Ecco, c’è ancora qualcosa.
+
+La legge e l’aspetto del cielo che devono essere.
+
+Attraverso la comprensione della ragione, si possono affrontare i momenti di tempesta.
+
+E quei fulmini luminosi, che ora vanno esaltati.
+
+Anche ciò che fanno, e per quale motivo lo facciano, in ogni caso.
+
+Vengono portati avanti, affinché tu non tremi.
+
+Delimitare le aree dei cieli profetici
+
+Per gli presagi. Oh, voi che siete follemente distratti.
+
+Anche riguardo alla provenienza di quella fiamma che vola nell’aria.
+
+O verso quale metà del cielo si volga, o in che modo.
+
+Si è insinuato attraverso luoghi recinti da mura.
+
+O, dopo averne dimostrato il dominio in quel luogo,
+
+Come si sia rapidamente diffuso da lì in ogni direzione.
+
+Di cui gli uomini non conoscono affatto le cause.
+
+E pensare che delle divinità operino in quel luogo.
+
+O tu, Calliope, musa ingegnosa.
+
+Consolazione dei mortali e gioia degli dèi.
+
+Indica la strada davanti a me, mentre corro.
+
+Verso la linea bianca del traguardo finale.
+
+Affinché io possa ricevere lode degna di un re per la mia impresa.
+
+Con te, mio guida.
+
+Grandi fenomeni meteorologici, ecc.
+
+E così, innanzitutto.
+
+Con tuoni si scuotono le profondità azzurre del cielo.
+
+Poiché le nuvole eteree, che si muovono velocemente in alto nel cielo.
+
+Insieme si scontrano, quale tempo ne deriva l’uno dall’altro.
+
+I venti si scontrano tra loro; non si sente alcun suono.
+
+Dalle serene regioni del cielo.
+
+Ma ovunque, all’interno di un esercito più numeroso.
+
+Le nuvole si radunano; da lì, più spesso, arriva.
+
+Un urto violento, accompagnato da un forte rombo. E di nuovo.
+
+Le nuvole non possono avere una struttura così compatta.
+
+Come pietre e legni, né tantomeno in modo più raffinato.
+
+Come nebbie e fumo che volano via; poiché in quel momento è inevitabile.
+
+O sarebbero caduti, schiacciati dal loro peso enorme.
+
+Come pietre, o come il fumo, sarebbero privi di qualsiasi potere.
+
+Per mantenere la loro massa, o per conservarla all’interno.
+
+Neve gelida e tempeste di grandine. E queste cose emettono.
+
+Su livelli innevati di questo mondo in espansione.
+
+Un suono acuto, simile a una tenda di lino tesa.
+
+Su imponenti scenari, a volte si sprigiona.
+
+Un ruggito potente, quando molto viene frantumato e scagliato in giro.
+
+Tra i pali e le travi trasversali. A volte, anche.
+
+Diviso in frammenti da venti impetuosi, si agita furiosamente.
+
+E imita il suono strapposo delle lenzuola.
+
+Di carta, persino questo tipo di rumore puoi produrlo.
+
+Ascolta il tuono, o quel suono simile al vorticare dei venti.
+
+Con corde e imbracciando vari oggetti, si muovono nell’aria.
+
+Un pezzo di stoffa appeso e fogli di carta che volano nell’aria.
+
+Perché a volte anche le nuvole.
+
+Non possono schiantarsi frontalmente l’uno contro l’altro, bensì.
+
+Muoversi di lato e con movimenti contrari.
+
+Accarezzarsi a vicenda con movimenti lenti e delicati.
+
+Da dove proviene quel suono secco che ci delizia le orecchie.
+
+Così lungo e interminabile, fino a quando le nuvole non saranno passate.
+
+Dalle loro posizioni ravvicinate.
+
+E ancora una volta.
+
+Seguendo questa via, spesso sembra che tutte le cose tremino.
+
+Al tuono fragoroso e alle mura più imponenti.
+
+Nei vasti confini del mondo superiore.
+
+In quell’istante, avrebbero dovuto separarsi immediatamente.
+
+Diviso in due, in quale momento un’unica forza potente.
+
+Dell’implacabile uragano, tutto è stato distrutto all’improvviso.
+
+Si intrecciò in una massa di nuvole.
+
+E, al suo interno, sempre di più.
+
+Con la sua rotazione vorticosa, costringe le nuvole ad obbedire alla sua forza.
+
+Diventare completamente vuoti, con una crosta ispessita.
+
+Intorno a esso; poiché in seguito, quando quella forza.
+
+E l’improvviso aumento della forza del vento lo ha indebolito.
+
+Quella crosta, poi quella nuvola, che si divide in due parti.
+
+Produce un orribile rumore, con boati e scoppi sonori.
+
+Non c’è da meravigliarsi; poiché spesso una piccola vescica.
+
+Riempito d’aria, esploderà improvvisamente.
+
+Emetti un suono altrettanto potente.
+
+C’è anche una ragione per questo.
+
+Perché le nuvole emettono suoni, quando attraverso di loro soffiano i venti.
+
+Vediamo, discendere dal cielo, spesso forme di nuvole.
+
+Con margini irregolari o ramificazioni che si diramano in molte direzioni.
+
+Ed è lo stesso che quando improvvisi difetti.
+
+Il vento di nord-ovest soffia attraverso la fitta foresta.
+
+Far sussurrare le foglie e far cadere i rami con fragore.
+
+A volte accade anche che una forza scatenata.
+
+Del feroce uragano che squarci le nuvole.
+
+Superandolo con un attacco frontale;
+
+Chissà cosa potrebbe causare un tale soffio di vento lassù.
+
+È evidente dai fatti che, qui sulla terra.
+
+Un’esplosione più delicata, ma che piega comunque gli alberi alti verso l’alto.
+
+E le risucchia con violenza, fino alle loro radici più profonde.
 
 <span class="atom-split" data-atom="045" data-title="BOOK VI (parte 2)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="positions/atomism,concepts/nature,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -16870,6 +33310,404 @@ For in a two-fold manner is that wind
 
 Enkindled all: it trembles into heat
 
+<span class="qlang-split" data-lang="it"></span>
+
+Inoltre, tra le nuvole ci sono delle onde, e queste.
+
+Emettono un ruggito cupo e profondo, proprio mentre si frantumano.
+
+Come quando, lungo profondi fiumi o il vasto mare.
+
+Rompie il fragore delle onde. Accade anche in quei momenti.
+
+Dalla una nuvola all’altra cade.
+
+L’energia incandescente del fulmine.
+
+Quel nuvolo, se pieno di umidità.
+
+Spegne il fuoco con un fragore potente;
+
+Come il ferro, bianco dopo essere stato estratto dalle fucine roventi.
+
+Scintilla, quando rapidamente ne abbiamo immerso la luce nel buio.
+
+Giù nell’acqua fredda. Inoltre, se una nuvola.
+
+Ciò che è più secco riceve il fuoco; improvvisamente.
+
+Si accende con fiamme violente e brucia emettendo suoni terribili.
+
+Come se una fiamma, accompagnata da vortici di vento, si diffondesse ovunque.
+
+Lungo le montagne incoronate di allori, lontano.
+
+Bruciando vivamente, quell’attacco devastante distrusse quegli alberi.
+
+Né c’è nulla, nella fiamma che crepita.
+
+Un consumo che, per l’uomo, comporta suoni terribili.
+
+Allora, il lauro divino di Apollo.
+
+Spesso, anche, il fragore assordante del ghiaccio.
+
+E la pioggia di grandine rapida emette un suono.
+
+Tra le imponenti nuvole lassù in cielo, poiché quando.
+
+Il vento li ha stretti insieme; ogni massa montuosa.
+
+Delle nuvole di pioggia, tutte si erano completamente solidificate.
+
+E mescolato con pietre di grandine, schianti e tuoni.
+
+Allo stesso modo, si schiarisce quando le nuvole hanno cessato di rovesciare pioggia.
+
+Dalla loro collisione nascono i semi del fuoco.
+
+Come se una pietra colpisse un’altra pietra o dell’acciaio.
+
+Pertanto, anche allora la luce irrompe e il fuoco si diffonde ovunque.
+
+Le scintille luminose. Ma con le nostre orecchie percepiamo soltanto.
+
+Il tuono segue immediatamente dopo che gli occhi hanno visto il lampo.
+
+Perché per sempre le cose giungono alle nostre orecchie.
+
+Più tardi dei nostri occhi, come puoi vedere.
+
+Anche da questo esempio: quando lo noti?
+
+In lontananza, un uomo stava tagliando un grande albero.
+
+Con un’ascia a doppio taglio, ciò avviene inevitabilmente.
+
+Il tuo sguardo vede già il colpo che sta per essere sferrato.
+
+Il colpo emette un suono che raggiunge le tue orecchie.
+
+E così anche noi osserviamo quel lampeggiare che avviene prima.
+
+Sentiamo il tuono che si è appena scatenato.
+
+Nello stesso momento in cui scoppiò l’incendio, e per la stessa causa.
+
+Nato dalla stessa collisione.
+
+Nel modo seguente.
+
+Le nuvole, illuminate da luci scintillanti, illuminano le terre.
+
+E la tempesta scoppia con un impeto tremulo.
+
+Quando il vento invade una nuvola e vi ruota all’interno.
+
+Ha creato quella nuvola, come ho mostrato sopra.
+
+All’interno di una cavità la cui crosta si era ispessita.
+
+Si riscalda per la sua stessa velocità:
+
+Proprio come vedi come il movimento riscalda tutto ciò che tocca.
+
+E accendete tutti gli oggetti, davvero.
+
+Una sfera di piombo, che si precipita attraverso lo spazio.
+
+Anche il ghiaccio si scioglie. Pertanto, quando lo stesso vento e il fuoco.
+
+Ha diviso le nuvole nere; sparge i semi del fuoco.
+
+In altre parole, sono stati spinti via con la forza.
+
+All’improvviso, dal cielo. E questi, davvero, esistono.
+
+I bagliori intermittenti delle fiamme; e poi.
+
+La detonazione che colpisce i nostri orecchi.
+
+Più tardi di qualsiasi altra cosa possa accadere.
+
+Di fronte agli occhi umani. Questo avviene.
+
+Come ben sai, a volte, quando le nuvole sono fitte.
+
+E uno sopra l’altro, ammucchiati in alto.
+
+Con meravigliosi sconvolgimenti, né tu.
+
+Ingannati, perché vediamo quanto sia ampia la loro base di sostenitori.
+
+Dai loro piedi, e non dall’altezza vertiginosa a cui si ergono.
+
+Per poter effettuare le tue osservazioni in un unico momento.
+
+Quando i venti soffieranno attraverso il blu dell’orizzonte.
+
+Le nuvole si muovono come catene montuose.
+
+O quando, lungo i versanti delle imponenti cime.
+
+Li vedi ammassarsi l’uno sopra l’altro.
+
+E gravando verso il basso, ancorato in un alto stato di riposo.
+
+Con i venti silenziosi su tutti i lati intorno.
+
+Allora potrai comprendere le loro immense masse, allora.
+
+Puoi vedere le loro caverne, come se fossero state costruite apposta lì.
+
+Di scogliere imponenti e minacciose; che, quando i uragani.
+
+Nella tempesta che si è scatenata, tutto è stato completamente sommerso.
+
+Poi, imprigionati tra le nuvole, impazziscono e si agitano ovunque.
+
+Con potenti ruggiti, e in quelle tane.
+
+Con ruggiti simili a quelli di bestie selvagge. E ora, da qui.
+
+E ora, da lì, inviare ringhi attraverso le nuvole.
+
+E, cercando una via d’uscita, iniziano a girare vorticosamente intorno a se stessi.
+
+E dalle profondità delle nuvole cadono i semi del fuoco.
+
+E accumularli in gran numero lì.
+
+E all’interno di quelle fornaci vuote.
+
+La fiamma ruota intorno, fino a emergere dalle nuvole squarciate.
+
+Sono apparse in brevi, intermittenti lampi.
+
+Ancora una volta, ciò avviene per la seguente ragione.
+
+Quel rapido colore dorato di fuoco liquido.
+
+Piovono verso la terra, perché le nuvole.
+
+Devono essi stessi possedere abbondanti semi di fuoco.
+
+Poiché, quando sono completamente privi di umidità, allora.
+
+Per la maggior parte, hanno un colore rosso vivo.
+
+E splendente. E, in effetti, devono esserlo.
+
+Anche alla luce del sole stesso.
+
+Prendete innumerevoli semi, e così, inevitabilmente.
+
+Arrossiscano e scatenino le loro fiamme brillanti ovunque.
+
+E quindi, quando il vento spinge e soffia con forza.
+
+Ha costretto e compresso queste nuvole in un unico punto.
+
+Spargono all’estero i semi del fuoco che sono stati schiacciati.
+
+Questi elementi fanno sì che le fiamme irradiano questi colori.
+
+Allo stesso modo, anche le nuvole si schiariscono.
+
+Spandetevi raramente e sottilmente lungo il cielo, perché, quando.
+
+Il vento, con un tocco delicato, li scioglie.
+
+E quelle semi si spezzano non appena si muovono.
+
+Per questo motivo, i fulmini, per loro natura, devono cadere.
+
+A un’ora del genere, l’orizzonte si schiarisce intorno.
+
+Senza l’orribile terrore di quei suoni spaventosi.
+
+E il clamore degli sciatori.
+
+Per procedere rapidamente,
+
+Di che tipo di natura sono i fulmini?
+
+È attraverso i loro gesti che tutto diventa manifesto e chiaro.
+
+Le tracce del loro calore ardente sulle cose.
+
+E attraverso le cicatrici bruciate che si sprigionano intorno.
+
+I pesanti fumi di zolfo. Per tutto questo.
+
+Queste tracce, dunque, non sono dovute al vento o alla pioggia, ma al fuoco.
+
+Ancora una volta, spesso riescono ad incendiare persino i tetti.
+
+Di case e all’interno delle stanze stesse.
+
+Con fiamme rapide, esercita un dominio feroce.
+
+Sappi che è stata la natura stessa a creare questo fuoco.
+
+Più sottile di qualsiasi altro fuoco, con una delicatezza infinitesimale.
+
+E corpi che si muovono rapidamente, un fuoco contro cui non c’è nulla che possa opporsi.
+
+Non può assolutamente resistere: il fulmine.
+
+Il potente attraversa le mura di difesa.
+
+Di case, come di voci o di grida.
+
+Attraverso le pietre, attraverso il bronzo, passa, e si scioglie.
+
+Nel momento stesso, bronzo e oro, e ne viene creato qualcosa di nuovo.
+
+Allo stesso modo, i vini che scomparivano improvvisamente.
+
+I vasi di vino erano intatti, — perché, vedete.
+
+Il calore che ne deriva lo rende morbido e poroso.
+
+In un attimo tutto il vino, le pareti di terracotta del vaso.
+
+E serpeggiando all’interno, si disperde.
+
+Gli elementi primordiali del vino
+
+Con una rapida dissoluzione – un processo che.
+
+Anche in un’epoca caratterizzata dal calore ardente del sole.
+
+Non riuscì a compiere ciò che desiderava, per quanto potente fosse.
+
+Con le sue scintille ardenti, molto di più ancora.
+
+Questa forza è agile e irresistibile.
+
+Allora, in quale modo vengono generate queste cose?
+
+Che modo straordinario di manifestare una forza così impulsiva.
+
+Per quanto riguarda la capacità di far crollare torri e case, tutte quante.
+
+Per rovesciare e strappare via completamente.
+
+Legni e travi, monumenti agli eroi.
+
+Per accumulare rovine e scatenare sconvolgimenti senza sosta.
+
+E per privare gli uomini della possibilità di respirare per sempre.
+
+E sparpagliare il bestiame ovunque.
+
+Sì, con quale forza i fulmini compiono tutto ciò.
+
+Tutto questo e molto di più ti rivelerò.
+
+Non tenerti più prigioniero di semplici promesse.
+
+I fulmini, quindi, devono essere intesi in questo modo.
+
+Poiché tutti sono nati da quelle nuvole grezze.
+
+Ammucchiati in alto; poiché, dal cielo sereno.
+
+E dalle nuvole di densità più bassa,
+
+Nessuno viene mandato via per sempre. È proprio così.
+
+Senza dubbio, un fatto evidente per l’intuizione afferma:
+
+In altre parole, in un momento del genere, le nuvole dense.
+
+Quindi si fanno strada attraverso l’intero cielo superiore.
+
+Per poter pensare che, in mezzo a tutta questa oscurità.
+
+Si era allontanato da Acherone e aveva riempito.
+
+Le imponenti volte del cielo, così terribilmente.
+
+Mentre così si raccoglie la terribile forza delle nuvole temporalesche.
+
+Appaiono forse volti di orrore nero lassù in alto.
+
+Quando la tempesta inizia a scagliare i suoi fulmini per plasmare il mondo.
+
+Inoltre, spesso anche in mare aperto.
+
+Una nube temporalesca più cupa del buio, simile a una cateratta.
+
+Di pietre scagliate dal cielo, lontano.
+
+Riempito di oscurità, giù sulle onde.
+
+Cade con un enorme fragore e si ferma immediatamente.
+
+Le tempeste oscure, piene di fulmini.
+
+E gli uragani, che spesso sono così compressi.
+
+Con fuochi e venti terribili, tanto che persino.
+
+Tornati nelle loro terre, la gente trema di paura.
+
+E cercare riparo. Pertanto, come ho detto.
+
+La tempesta deve essere concepita come qualcosa che si trova sopra le nostre teste.
+
+Elevandosi più in alto di ogni cosa; poiché mai le nuvole.
+
+Inondate le terre con una tale massa di oscurità.
+
+A meno che non vengano accumulati uno sopra l’altro, in pile sempre più alte.
+
+Per oscurare quel sole rotondo. Nemmeno le nuvole avrebbero potuto riuscirci.
+
+Mentre arrivano, vengono avvolti da una pioggia così intensa.
+
+Al fine di far straripare i fiumi.
+
+E i campi fluttuerebbero, se l’etere non fosse così.
+
+Avvolto da nuvole alte e dense. Ecco dunque.
+
+Ecco che tutte le cose si realizzano attraverso venti e fuochi.
+
+Ecco quindi i lunghi fulmini e i tuoni fragorosi.
+
+Poiché, in verità, ti ho appena insegnato questo.
+
+Come nuvole immensamente vaste racchiudano in sé innumerevoli semi.
+
+Di esalazioni infuocate, e devono necessariamente essere così.
+
+Lontano dai raggi del sole e dal calore di tutto ciò.
+
+Prendine molte altre ancora. E così, quando lo stesso vento.
+
+(Che, forse, in una certa parte del cielo, )
+
+Raccoglie quei nuvoli, e li ha spinti fuori da lì stesso.
+
+I numerosi semi infuocati, e con quel fuoco stesso.
+
+Si è intrecciata allo stesso tempo con.
+
+In quel momento stesso, quel vento, che ora è diventato un tornado.
+
+Nel profondo dell’addome della nuvola, tutto ruota incessantemente.
+
+In spazi ristretti, si affila lì dentro.
+
+Nei forni ardenti, il fulmine.
+
+Poiché, in due modi diversi, quel vento.
+
+Accende tutti quanti; trema, trasformandosi in calore.
+
 <span class="atom-split" data-atom="046" data-title="BOOK VI (parte 3)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="positions/atomism,concepts/mechanism,forms/didactic_poem,schools/epicureanism"></span>
 
 Both by its own velocity and by
@@ -17263,6 +34101,400 @@ Contend that never hath it come to pass
 That divers strokes have happened at one time?
 
 But oft and often hath it come to pass,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sia per la sua velocità propria che per altri fattori.
+
+Contatto ripetuto con il fuoco. In seguito, quando.
+
+L’energia eolica viene riscaldata attraverso.
+
+E l’intenso impulso del fuoco ha accelerato il processo.
+
+Profondamente dentro di noi, allora, quel fulmine.
+
+Ora, per così dire, essendo maturata, improvvisamente.
+
+Spezzi quella nuvola, e quel lampo che si è acceso all’improvviso.
+
+Balzi in avanti, illuminati da una luce intensa e biforcuta.
+
+In tutti i luoghi intorno. E subito dopo.
+
+Un applauso così forte da far tremare le volte delle piste da sci.
+
+Come se si spezzassero all’improvviso, sembrano cadere dal cielo.
+
+Per inghiottire la terra. Poi, con terrore, un terremoto.
+
+Permea le terre e, per lungo tempo, anche i cieli elevati.
+
+Lasciate che risuonino quei lontani brontolii. Poiché in un momento del genere.
+
+Quasi l’intera tempesta tremava, scuotendosi in ogni sua parte.
+
+E si sono risvegliati i ruggiti, da cui deriva questo shock.
+
+Piove una pioggia così intensa e abbondante.
+
+Che tutto quell’etere oscuro sembri trasformarsi.
+
+Ora è diventata pioggia; mentre cade giù.
+
+Per richiamare i campi alle piene primordiali.
+
+Tali sono le piogge che si scatenano sugli uomini.
+
+Attraverso le folate di nuvole e l’uragano.
+
+A che ora è avvenuto quel tuono, prodotto da quel fulmine ardente?
+
+Quello rompe la nuvola e vola via. A volte.
+
+La forza del vento, stimolata dall’esterno.
+
+Si trasforma in una nuvola già calda.
+
+Con un tuono potente. E quando quel vento.
+
+Ha spezzato quella nuvola; subito dopo, laggiù in basso, tutto si schiarisce.
+
+Quel vortice di fiamme ardenti che ancora oggi chiamiamo.
+
+Anche con la parola dei nostri padri, un fulmine.
+
+Lo stesso accade in ogni altro ambito.
+
+Ovunque quella forza abbia spazzato via tutto. Accade anche questo.
+
+A volte quella forza del vento, pur essendo scatenata con violenza.
+
+Senza alcun fuoco, eppure nel suo viaggio nello spazio.
+
+Accendi, mentre si avvicina, mentre procede.
+
+Perdere alcuni corpi più grandi che non possono.
+
+Attraversa, come gli altri, le masse d’aria.
+
+E, strappandolo letteralmente dall’aria stessa.
+
+Alcuni corpi più piccoli li trasportano insieme a loro.
+
+E queste, mescolandosi nel loro volo, generano fuoco.
+
+In modo molto simile a quando una palla di piombo.
+
+Diventa sempre più caldo lungo il suo percorso nell’aria.
+
+Perde molti corpi, travolti dal freddo intenso.
+
+E assorbe tutto ciò che si trova nell’aria attorno a sé.
+
+Nuove particelle di fuoco. Anche questo può accadere.
+
+Quella stessa forza del colpo genera fuoco.
+
+Quando la forza del vento, freddo e impetuoso, si scatenava.
+
+Senza alcun fuoco, ha colpito qualcosa in modo diretto.
+
+Non c’è da meravigliarsi, perché, quando con un colpo terribile.
+
+“È stato colpito, gli elementi di quel materiale infuocato.”
+
+Possono fluire insieme, direttamente dal vento stesso.
+
+E, contemporaneamente, da quella cosa lì.
+
+Che in quel momento riceve il colpo, come le mosche.
+
+Il fuoco, quando con il ferro tagliamo la pietra.
+
+E nemmeno perché la forza dell’acciaio è fredda e immobile.
+
+Raccoglietevi lì il prima possibile.
+
+Sotto quel colpo, i suoi semi di luce si accendono intensamente.
+
+E pertanto, un oggetto deve essere considerato in questo stesso modo.
+
+Che possa essere acceso da un fulmine, se così dovesse accadere.
+
+“È stato adattato e modificato per adattarsi alle fiamme.”
+
+Tuttavia, la forza del vento non deve essere considerata in modo avventato.
+
+Completamente e assolutamente freddo.
+
+Quella forza che si sprigiona dall’alto.
+
+Con un potere così straordinario, ma se non fosse così.
+
+Sul suo percorso, già infuocato dal fuoco.
+
+Arriva ancora caldo e mescolato con calore.
+
+E ora, la velocità e l’impeto del fulmine.
+
+È così imponente, e si muove con tale rapidità.
+
+Quei fulmini si precipitano verso l’alto e verso il basso, perché.
+
+Le loro forze, ormai scatenate, si radunano da sole.
+
+Prima sempre tra le nuvole, e poi si prepara.
+
+Per lo enorme sforzo che hanno compiuto nel mettersi in viaggio.
+
+In seguito, quando la nuvola non sarà più in grado di trattenere.
+
+L’aumento della loro intensa determinazione.
+
+La loro forza viene spinta all’esterno e, di conseguenza, “vola” via.
+
+Con un impeto così meraviglioso, simile a colpi d’arma da fuoco.
+
+Scagliati dalle potenti catapulte romane.
+
+Notate anche che questa forza è composta da elementi diversi.
+
+Sia piccolo che liscio; non c’è nulla che possa.
+
+Si può facilmente resistere a una tale natura. Poiché essa si muove con rapidità.
+
+Si insinua e penetra attraverso le pori delle cose;
+
+E così, non si verifica mai alcun ritardo.
+
+Nonostante innumerevoli collisioni, ma.
+
+Mosche che volano avanti con un movimento rapido e deciso.
+
+In seguito, poiché per natura ogni peso.
+
+Si abbassa verso il basso; raddoppiata, allora, diventa la sua velocità.
+
+E quell’entusiasmo è ancora più selvaggio e spaventoso.
+
+Quando, invero, ai colpi già inflitti se ne aggiungono altri.
+
+Pertanto, in modo ancora più folle e ancora più feroce di prima.
+
+Il fulmine scuote tutto, trasformando ogni cosa in tremori.
+
+Qualcosa gli blocca la strada, impedendogli di proseguire lungo il suo percorso.
+
+Anche in quel caso, perché semplicemente arriva, così com’è.
+
+Con uno slancio costante, deve essere possibile.
+
+Assumi di nuovo la velocità, ancora una volta.
+
+Il valore aumenta continuamente man mano che procede, e così avviene sempre.
+
+Potenzia enormemente i poteri del fulmine e l’efficacia del colpo stesso.
+
+Dona maggiore vigore; poiché costringe tutti.
+
+Tutte quelle “semi di fuoco” del tuono, pronte ad abbattere.
+
+In linea retta, verso un unico luogo, come se si trattasse di una direzione precisa e ineluttabile.
+
+Mettendoli uno dopo l’altro, mentre rotolano.
+
+In quel percorso in avanti. Forse, ancora una volta.
+
+Mentre si avvicina, sembra emergere dal nulla.
+
+Alcuni corpi specifici, che con i loro stessi colpi.
+
+Accendi la sua velocità. E, ecco,
+
+Si manifesta attraverso oggetti che rimangono intatti, indenni da qualsiasi danno.
+
+Passa attraverso molte cose e le lascia intatte.
+
+Poiché il fuoco liquido scorre lungo la superficie.
+
+Attraverso le loro pori. E molto riesce effettivamente a penetrare dentro di esse.
+
+Quando questi primordiali [atomi](/positions/atomism) del fulmine.
+
+Si sono depositate sugli atomi di queste sostanze.
+
+Proprio in quei punti in cui gli atomi sono intrecciati.
+
+Sono tenuti insieme. E, inoltre, in modo facile.
+
+Il rame lo scioglie e fonde rapidamente l’oro.
+
+Poiché la sua forza è generata in modo estremamente delicato e preciso.
+
+Di parti e elementi minuscoli, così lisci.
+
+Con facilità riescono ad insinuarsi all’interno.
+
+E, una volta entrati, sciogliete rapidamente tutti i nodi.
+
+E sciogliere tutti i legami che vi uniscono.
+
+E nella maggior parte degli autunni, la dimora celeste viene scossa.
+
+La casa, così adornata di stelle scintillanti.
+
+E tutta la terra intorno, soprattutto in primavera.
+
+Quando i tempi fioriti si dispiegano davanti a noi, poiché, ecco.
+
+Nella stagione fredda manca il fuoco.
+
+E nei luoghi caldi i venti sono scarsi, e le nuvole.
+
+Non hanno una massa così densa. Ma quando, in realtà.
+
+Le stagioni del cielo si trovano tra questi due estremi.
+
+Le diverse cause del fulmine
+
+Allora tutti concordano, perché in quel caso sia il freddo che il caldo.
+
+Si mescolano nei mari transoceanici dell’anno.
+
+Così che sorga una discordia tra le cose.
+
+E l’aria, nel suo vasto tumulto.
+
+Onde furiose, scatenate dal fuoco e dal vento.
+
+Di cui entrambi sono necessari per la formazione delle nuvole.
+
+Per la fabbricazione del fulmine.
+
+Nella prima fase del calore e nell’ultima della freddura.
+
+È l’epoca della primavera; perché, dunque, le cose diverse dovrebbero.
+
+Combattete tra di voi; e quando vi mescolerete.
+
+Scatenate la vostra furia con violenza. E quando arriverà il momento.
+
+Il caldo più intenso si mescolava con il freddo più precoce.
+
+Il tempo che porta il nome di autunno, allora.
+
+Allo stesso modo, intensi periodi di freddo si scontrano con intense ondate di caldo.
+
+Per questo motivo, queste stagioni dell’anno.
+
+Vengono nominati “oltremare”. – E non c’è da meravigliarsi.
+
+Se in quei tempi i fulmini avessero avuto la meglio.
+
+E tempeste violente si scatenano nel cielo.
+
+Da allora, entrambe le parti continuano a combattere in una guerra dubbia e senza fine.
+
+Con grande tumulto: l’uno avvolto dalle fiamme, l’altro.
+
+Con venti e acque mescolate ai venti.
+
+Ecco, proprio questo, o Memmio, è ciò che si deve comprendere appieno.
+
+La stessa natura del fulmine, carico di fuoco.
+
+Oh, ecco dunque ciò che indica quale forza cieca.
+
+È esso stesso a produrre ogni effetto, e non altro. Oh, no.
+
+Per decifrare gli antichi rotoli oracolari etruschi,
+
+Segni enigmatici della volontà occulta degli dèi.
+
+Anche riguardo alla provenienza di quella fiamma che vola nell’aria.
+
+O verso quale metà del cielo si volga, o in che modo.
+
+Si è insinuato attraverso luoghi recinti da mura.
+
+O, dopo averne dimostrato il dominio in quel luogo,
+
+Come sia potuto diffondersi così rapidamente da lì in poi.
+
+O ciò che il tuono preannuncia di male.
+
+Dai lontani cieli. Ma se Giove.
+
+E altri dèi scuotono quelle vaste cupole splendenti.
+
+Con terribili rimbombi e scagliando fuoco.
+
+Ove vogliono andare, perché non lo fanno semplicemente?
+
+Mortali che commettono crimini sconsiderati e ripugnanti.
+
+Che possano ansimare così, con il petto trafitto.
+
+Ecco le fiamme del rosso levi, verso gli uomini.
+
+Una lezione drastica?. Perché invece non lui.
+
+Oh, colui che non si rende conto di alcun oltraggio.
+
+Avvolto dalle fiamme, sebbene innocente, e stretto tra di esse.
+
+Trascinati dentro un vortice di neve e nel fuoco?
+
+No, allora, perché mirano a distruzioni eternhe?
+
+E sprecare tutte le loro energie invano? Forse, anche così.
+
+Per esercitare i muscoli degli arti e rafforzare le spalle?
+
+Perché devono subire il giavellotto del Padre?
+
+Essere così insensibili sulla terra. E perché?
+
+Lo permette lui stesso, senza alcuna esitazione.
+
+Anche per i suoi nemici? Oh, perché così spesso.
+
+Si dirige verso luoghi elevati? Perché allora dobbiamo osservarlo.
+
+I segni dei suoi fulmini si vedono soprattutto sulla cima delle montagne, vero?
+
+Allora, per quale motivo spara verso il mare? —
+
+Quale sacrilegio rappresentano le onde e la massa di sale marino.
+
+E quali colpe possono essere attribuite a quei campi fluttuanti di schiuma?
+
+Inoltre, se è sua volontà che noi siamo cauti.
+
+Di fronte a quel fulmine, perché dovrebbe temere?
+
+Per concederci il potere di osservare quell’atto?
+
+E, al contrario, se desidera sopraffarci.
+
+Del tutto impreparati, con il fuoco, perché tuona?
+
+Lontano, in quella direzione, così da poter evitarlo?
+
+Perché rende oscuro l’aria prima ancora che tutto inizi?
+
+E quel lontano fragore e quei tuoni? E, oh, quanto.
+
+Puoi credere che possa sparare contemporaneamente a più bersagli?
+
+Verso direzioni diverse? O osi forse.
+
+Si sostiene che ciò non sia mai accaduto prima.
+
+Che diversi eventi siano avvenuti nello stesso momento?
+
+Ma spesso è accaduto che.
 
 <span class="atom-split" data-atom="047" data-title="BOOK VI (parte 4)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -17665,6 +34897,408 @@ Within the house up-bounds, when a paving-block
 Gives either iron rim of the wheels a jolt.
 
 It happens, too, when some prodigious bulk
+
+<span class="qlang-split" data-lang="it"></span>
+
+E spesso ancora deve essere così: proprio come le piogge.
+
+E piogge cadono su molte regioni, allo stesso modo.
+
+Scagliare molti fulmini contemporaneamente.
+
+Di nuovo, perché Giove non si muove mai con rapidità?
+
+Nessun fulmine colpisce la terra, né si diffonde all’esterno.
+
+Colpo dopo colpo, quando il cielo è completamente sereno.
+
+O, per esempio, non è forse vero che, non appena le nuvole.
+
+Quindi sono giunto anch’io lì, nel medesimo luogo.
+
+Scendere di persona, affinché da lì possa.
+
+Decidono sul momento, senza pensarci troppo?
+
+E, infine, perché, con un colpo devastante.
+
+Lo scuote, distruggendo i sacri templi degli dèi.
+
+E i suoi stessi troni di splendore, e le loro rovine.
+
+Gli ben realizzati idoli delle divinità.
+
+E priva le proprie immagini della loro gloria.
+
+A causa di una ferita causata da violenza?
+
+Ma per tornare rapidamente all’argomento.
+
+È facile, partendo da questi stessi fatti, comprendere.
+
+In che modo esattamente quelle cose, data la loro natura.
+
+I Greci li hanno chiamati “soffietti”; questi effettivamente discendono.
+
+Scagliato dal cielo, sui mari.
+
+Poiché talvolta dal cielo discende.
+
+Sui mari, una colonna, come se fosse spinta.
+
+Intorno a cui le onde si agitano con violenza inaudita.
+
+Destati da raffiche di vento; e da tutto ciò che altro.
+
+In quel tumulto, molte navi vengono catturate.
+
+Finendo in grave pericolo, continuarono la loro corsa disperata.
+
+Ciò accade quando, a volte, la forza scatenata dal vento.
+
+Non riesce a rompere la nuvola che cerca di formarsi, ma la sua presenza la opprime verso il basso.
+
+Quella nuvola, finché non diventa come una colonna che si innalza dal cielo.
+
+Verso i mari, tutto si spingeva verso il basso – gradualmente.
+
+Come se qualcosa, proveniente da lassù, fosse stato spinto verso di noi.
+
+Con pugni e colpi di braccio, e con movimenti prolungati.
+
+Lontano, tra le onde. E quando la forza del vento.
+
+Ha rivisto questa nuvola; fuori da essa, essa si precipita.
+
+Giù nei mari, in mezzo alle onde.
+
+Un meraviglioso vortice, in continuo movimento.
+
+Scende e trascina con sé verso il basso.
+
+Quella nuvola di materia duttile. E, come sempre, in un attimo.
+
+“È stato spinto ai livelli principali, ”
+
+Quella nuvola carica. Il vortice si è formato all’improvviso.
+
+Si immerge completamente nelle acque di lì.
+
+E risveglia tutto il mare con un ruggito mostruoso.
+
+Costringendolo a bollire. Accade anche questo.
+
+Proprio quel vortice di vento coinvolge.
+
+Avvolto nelle nuvole stesso, strisciando nell’aria.
+
+I semi delle nuvole, e le loro “imitazioni”, per così dire.
+
+I “turbini” venivano spinti dal cielo. E quando questa forma.
+
+È caduto sulla terra e si è spezzato in mille pezzi.
+
+Emette una forza immensa e incommensurabile.
+
+Di vortici e di raffiche impetuose. Eppure, poiché è stato formato.
+
+Al massimo, ma raramente; e sulla terraferma, le colline.
+
+È necessario bloccargli la strada; si vede spesso succedere, là fuori.
+
+Sulla vasta distesa del piano principale.
+
+lungo gli orizzonti liberi.
+
+All’essere.
+
+Le nuvole si condensano quando si trovano in questa zona superiore dell’atmosfera.
+
+Dall’alto cielo si sono radunati all’improvviso.
+
+Mentre volavano in cerchio, innumerevoli particelle.
+
+I luoghi più duri del mondo, che, sebbene collegati tra loro.
+
+Con giunzioni scarse, ma ben salde.
+
+Si catturavano a vicenda. Queste particelle.
+
+Prima causa dell’formazione di piccole nuvole; e, di conseguenza.
+
+Si attaccano l’uno all’altro e si radunano in stormo.
+
+E crescono attraverso la loro unione e grazie ai venti.
+
+Vengono trasportati avanti, sempre avanti, fino a quando non vengono raccolti.
+
+La furia della tempesta aumenta. E ciò avviene anche più spesso quando si è più vicini.
+
+Le cime delle montagne confinano con il cielo.
+
+Più incessantemente fumano le loro lontane cime.
+
+A causa dell’oscurità densa delle nuvole nere.
+
+Quando per la prima volta si formano le nebbie, prima ancora che gli occhi possano vederle.
+
+Possibile è che vengano osservati, nonostante siano così fragili?
+
+I venti portatori li spingeranno in alto, verso l’alto.
+
+Fino alle cime più alte della montagna.
+
+E poi, finalmente, accade quando loro sono.
+
+In una vasta folla radunata insieme, affinché possano.
+
+È proprio attraverso questa condensazione che vengono rivelate.
+
+E allo stesso tempo si può osservare come essi emergano con forza.
+
+Dall’apice stesso della montagna in su.
+
+Nel vasto etere. Per vera realtà e sentimento.
+
+Mentre saliamo in cima alle alte montagne, diventa evidente.
+
+Quei luoghi elevati, liberi da vento, sono proprio così.
+
+Inoltre, i vestiti appesi lungo la riva.
+
+Quando assorbono l’umidità che li avvolge, ne risultano prove concrete.
+
+Che la natura si erga sopra tutto il mare.
+
+Innumerevoli particelle. Quanto più.
+
+È evidente che molte particelle.
+
+Anche dalle formazioni di sale presenti nella parte principale.
+
+Possono ergersi insieme per aumentare la massa complessiva.
+
+Di nuvole dense. Per le umidità presenti in queste due zone.
+
+Sono quasi identici. Inoltre, tra tutti i fiumi.
+
+Oltre alla terra stessa, vediamo anche.
+
+Nubi e vapore che si levano, come un respiro.
+
+Vengono costretti ad abbandonarli e portati in alto.
+
+Per coprire il cielo con la loro oscurità e creare.
+
+Gli strati di nuvole si accumulavano lentamente.
+
+Inoltre, il calore intenso.
+
+Pesi di etere costellato gravano verso il basso.
+
+Su di loro, e per una sorta di condensazione.
+
+Si intreccia sotto l’azzurro firmamento.
+
+L’odore nauseabondo delle nuvole scure. Anche questo succede.
+
+Che fino ai cieli, dall’Al di Là.
+
+Sono proprio quelle particelle che formano le nuvole.
+
+E nubi temporalesche in movimento. Poiché ho insegnato.
+
+Il loro numero è innumerevole.
+
+E infinita è la somma dell’Abisso.
+
+E ho dimostrato con quale straordinaria velocità.
+
+Quei corpi volano, e in che modo sono abituati a muoversi.
+
+Attraverso lo spazio incommunicabile.
+
+Pertanto, non è affatto sorprendente se spesso.
+
+In poco tempo, tempesta e oscurità tutto avvolgono.
+
+Con imponenti cumuli temporaleschi sospesi in alto nel cielo.
+
+Oceani e terre, poiché ovunque.
+
+Attraverso tutti quei stretti canali dell’etere lontano.
+
+In un certo senso, attraverso tutte quelle “aperture per respirare”.
+
+Del grande mondo superiore che ci circonda.
+
+Esistono gli elementi primordiali.
+
+Uscite ed entrate.
+
+Ora vieni, e come.
+
+L’umidità portata dalle piogge si addensa, prendendo forma concreta.
+
+Nelle alte nuvole, e come sulla terra.
+
+Poi si scarica sotto forma di piogge torrenziali.
+
+Mi svelerò. E prima di tutto, con trionfo.
+
+Riuscirò a convincerti che unirsi insieme.
+
+Gli stessi nuvoli contengono innumerevoli semi d’acqua.
+
+Dalla totalità delle cose, e dal fatto che entrambe aumentino.
+
+Sia le nuvole che l’acqua contenuta nelle nuvole.
+
+Nella stessa misura in cui i nostri corpi crescono.
+
+Nella stessa misura del nostro sangue, anch’esso.
+
+Come il sudore o qualsiasi umidità presente nei nostri corpi.
+
+Inoltre, le nuvole assorbono, di tanto in tanto.
+
+Molta umidità si era levata dall’ampio mare.
+
+Mentre i venti li portano attraverso il vasto mare.
+
+Come peli di lana bianca appesi. In questo modo.
+
+Anche da tutti i fiumi si eleva.
+
+L’umidità si trasforma in nuvole. E quando queste si formano.
+
+I semi dell’acqua, sotto molti aspetti.
+
+Si sono riuniti, rafforzandosi da tutte le direzioni.
+
+Le nuvole strettamente compresse faticano quindi a scaricare la loro carica elettrica.
+
+Le loro tempeste sono dovute a due ragioni principali: primo.
+
+La forza del vento li spinge con violenza; ed è proprio questo eccesso.
+
+Delle nuvole temporalesche (radunate in un vasto nugolo).
+
+Esercita una spinta e una pressione dall’alto.
+
+E fa sì che le piogge scendano in abbondanza. Oltre a quando, poi.
+
+Le nuvole vengono spazzate via dai venti o disperse.
+
+Bruciati dal calore del sole, li inviano.
+
+La loro umidità pluviale, e distillate le loro gocce.
+
+Proprio come la cera, sotto l’effetto del calore ardente dall’alto.
+
+Distrugge e si scioglie in abbondanza.
+
+Ma poi arriva la violenza delle piogge più intense.
+
+Quando le nuvole vengono pesantemente schiacciate con violenza.
+
+Sia per la loro massa accumulata che per altri fattori.
+
+L’arrivo del vento. E le piogge sono imminenti.
+
+Per resistere per un po’ e rimanere a lungo.
+
+Quando molti “semi delle acque” vengono risvegliati.
+
+E nuvole su nuvole, e cumuli su cumuli si estendono verso l’orizzonte.
+
+Si accumulano in strati sovrapposti e vengono trasportati insieme.
+
+Da ogni angolo della terra.
+
+Fumare espelle la sua umidità. In un momento del genere.
+
+Quando il sole, con i suoi raggi, emerge tra le tenebre della tempesta.
+
+È brillata attraverso le piogge nere.
+
+Poi, tra le nuvole scure, emerge qualcosa di luminoso.
+
+La luce abbagliante dell’arco.
+
+E per quanto riguarda le cose.
+
+Non viene menzionato qui quale di loro cresca da solo.
+
+O forse anche loro sono caratterizzati da un genere specifico, e tutte le cose.
+
+Ciò che nelle nuvole si condensa e assume forma, tutto ciò.
+
+La neve e i venti, la grandine e le gelate intense raffreddano.
+
+E quella forza gelida e potente, dei laghi e degli stagni.
+
+Il potente induritore, e il potente ostacolo.
+
+Che d’inverno si estende ovunque.
+
+I fiumi, mentre scorrono, è ancora facile per loro.
+
+Tra poco scoprirò, e con la volontà di vedere.
+
+In che modo tutti questi eventi avvengono, e in quale modo siano legati al genere.
+
+Quando avrai compreso appieno cosa.
+
+Le funzioni sono state concesse fin dai tempi antichi.
+
+Ai generativi [atomi](/positions/atomism) del mondo.
+
+Ora vieni, e dimmi quale sia la legge che governa i terremoti.
+
+Ascoltate attentamente e, prima di tutto, fate attenzione a comprendere.
+
+Che il sottosuolo, proprio come la terra che ci circonda,
+
+È pieno di caverne tortuose dappertutto.
+
+E molti stagni, e molti oscuri abissi.
+
+Nel suo grembo porta, sì, delle scogliere.
+
+E ripide scarpate; e molti fiumi, nascosti.
+
+Sotto la sua nuca, scorre rapidamente.
+
+Le sue onde e le sue rocce scoscese. Per una verità incontrovertibile.
+
+È necessario che la Terra sia presente in ogni sua parte.
+
+Analogamente nella costituzione stessa. Pertanto, la terra.
+
+Una volta fissate e sistemate queste componenti,
+
+Tremate lassù, scossi da grandi terremoti.
+
+Quando il tempo ha eroso quelle enormi caverne.
+
+Il sottosuolo. Sì, intere montagne crollano.
+
+E in un istante, da quel punto vicino a quella grande giara.
+
+Lì, i tremori si diffondono in ogni direzione.
+
+E con buone ragioni: poiché le case in quella strada.
+
+Inizia a tremare in tutto il suo essere, quando viene scosso da un carretto.
+
+Non aveva alcun valore significativo; inoltre, anche i mobili.
+
+All’interno della casa, quando un blocco di pavimentazione.
+
+Provoca un sobbalzo in entrambi i bordi metallici delle ruote.
+
+Accade anche quando una massa enorme e straordinaria.
 
 <span class="atom-split" data-atom="048" data-title="BOOK VI (parte 5)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -18076,6 +35710,416 @@ Even to the bottom of the mountain’s throat.
 
 Herethrough thou must admit there go...
 
+<span class="qlang-split" data-lang="it"></span>
+
+La terra logora dal tempo viene rimossa dalle pendici delle montagne.
+
+In enormi pozze d’acqua scura.
+
+Che la terra stessa, che sembra vacillare, venga scossa da movimenti convulsi.
+
+Attraverso le onde dell’acqua, come in un bacino.
+
+A volte non troverà pace finché il liquido.
+
+Al suo interno, smette di essere scosso da movimenti violenti.
+
+In onde casuali e disordinate.
+
+E inoltre,
+
+Quando i venti sotterranei, raccoltisi lì sotto.
+
+Nelle profonde cavità, masse si muovono verso l’avanti da un punto specifico.
+
+E spingere con la grande forza di poteri immensi.
+
+Di fronte alle maestose grotte, poi la terra.
+
+Massi che si dirigono verso quella direzione, spinti con forza.
+
+I venti impetuosi. E poi tutte quelle case costruite.
+
+In superficie, e più ci si sposta verso l’alto, più questo diventa evidente.
+
+Verso il cielo, si innalza minacciosamente, precipitando velocemente.
+
+Nella stessa direzione. E i raggi.
+
+Strappato in avanti, sospeso in posizione precaria, pronto per partire.
+
+Eppure, gli uomini temono di credere che ciò che li aspetta.
+
+Un tempo, la natura di questo immenso mondo.
+
+Di distruzione e cataclismi, anche se li vedono.
+
+Una quantità così enorme di terre, tali da poter deformarsi e rompersi!
+
+E affinché i venti non soffiassero di nuovo nella direzione opposta, nessuna forza.
+
+Non avrebbe potuto né contenere la situazione né impedire che tutto andasse verso una destinazione inevitabile.
+
+Verso il disastro. Ma ora, a causa di quei venti.
+
+Soffiare avanti e indietro, alternativamente e con forza.
+
+E, in un certo senso, riprendendo l’offensiva.
+
+E poi una ritirata forzata, per questo motivo.
+
+La Terra minaccia più spesso di quanto realmente attui ciò che promette.
+
+Crolli. Si appoggia da un lato.
+
+Poi si piega di nuovo all’indietro; e dopo aver barcollato.
+
+Avanzando, riacquista così la sua posizione di equilibrio.
+
+Ecco quindi il motivo per cui intere case tremano, i tetti.
+
+Più delle storie di mezzo, molto di più.
+
+Poi ci sono quelli più bassi, i più infimi tra tutti.
+
+Sorge anche questa stessa terribile scossa di terra.
+
+Quando vento e qualche forza straordinaria dell’aria.
+
+Raccolto dall’esterno o dal profondo interno.
+
+Le antiche profondità terrestri si sono scagliate contro di noi.
+
+Ancora più profondamente in quelle caverne sotterranee.
+
+E lì, all’inizio, c’era un gran fermento e agitazione.
+
+Tra le vaste caverne, trasportate qua e là.
+
+In folli rotazioni, fino a quando la loro forza legata non.
+
+Scateni di violenza all’estero, e proprio in quei luoghi.
+
+Scavando nelle profondità della terra, si crea un enorme abisso.
+
+Quello che un tempo accadde a Sidone, in Siria.
+
+E una volta giunti ad Egio, nel Peloponneso.
+
+Due città in cui si manifesta un tale scoppio di energia selvaggia.
+
+E la scossa terrestre, che seguì immediatamente dopo.
+
+Rovinate da tempo. E molte città fortificate.
+
+Inoltre, è caduto per mano di un essere così onnipotente.
+
+Convulsioni sulla terra e nel mare.
+
+Molte città sono state sommerse e distrutte.
+
+Con tutta la sua popolazione. Ma se, davvero.
+
+Non esplodono ancora, ma già c’è quell’impeto.
+
+Dell’aria selvaggia e della potenza furiosa del vento.
+
+Poi si dissipò, come un attacco di febbre.
+
+Attraverso gli innumerevoli pori della terra,
+
+Per farla tremare completamente, proprio come se fosse presa da un brivido.
+
+Quando si insinua nelle nostre ossa,
+
+Ci colpisce con violenza, contro la nostra volontà.
+
+Tremendo e tremolante. Pertanto, gli uomini.
+
+Con un doppio terrore che agita in preda all’allarme.
+
+Avanti e indietro per le città, temono i tetti.
+
+Sopra la testa, e sotto i piedi temono.
+
+Le caverne, affinché la natura della terra.
+
+All’improvviso le aprì e rimase a bocca aperta.
+
+Divisa in due parti, con una bocca enorme.
+
+E, in preda alla confusione, cercano di riempirlo fino all’orlo.
+
+Con le proprie rovine. Allora, che gli uomini continuino pure.
+
+Fingere, a piacimento, che cielo e terra debbano essere.
+
+Indiscutibile, affidato per sempre.
+
+Per un bene eterno. Eppure, a volte.
+
+Proprio la forza del pericolo imminente.
+
+Spingili in una certa direzione con questo stimolo del terrore.
+
+Tra le altre cose: il fatto che la Terra, ritirata.
+
+All’improvviso, tutto ciò su cui poggiavano i piedi venne loro strappato via con violenza.
+
+Giù nell’abisso, e nella somma di tutte le cose.
+
+Seguiva da dietro, completamente pentito.
+
+Fino a diventare soltanto rovina e macerie di un mondo.
+
+Straordinario e paradossale, terrestre.
+
+Fenomeni
+
+In primo luogo, gli uomini si meravigliano del fatto che la natura non renda.
+
+Sempre più grande è la massa dell’oceano, da allora.
+
+Per quanto possa essere imponente la corrente delle acque in discesa.
+
+E ogni fiume, proveniente da ogni regno.
+
+E poi ci sono quelle piogge improvvise.
+
+E tempeste volanti che spruzzano acqua su ogni mare.
+
+E ogni terra viene inumidita; aggiungono le proprie sorgenti.
+
+Eppure, tutto ciò contribuisce alla totalità dell’oceano.
+
+Sarà soltanto come l’aumento di una goccia d’acqua.
+
+Pertanto, non sorprende affatto che il mare.
+
+Il vasto oceano non aumenta di dimensioni; inoltre.
+
+Il sole, con il suo calore, assorbe una grande quantità di energia:
+
+Sì, vediamo quel sole con i suoi raggi ardenti.
+
+Per asciugare i nostri indumenti completamente bagnati.
+
+E molti mari, ampiamente estesi sotto di noi.
+
+Quindi, anche se lieve.
+
+La quantità di umidità che il sole raggiunge in qualsiasi punto.
+
+Selezioni fatte dal livello principale, lui le prenderà comunque.
+
+Lontano dalle onde, in un’immensità così vasta.
+
+In abbondanza. Inoltre, anche i venti.
+
+Che spazia sulle acque piatte, può portare via.
+
+Una grande parte di quella umidità, poiché la vediamo.
+
+Spesso, in una sola notte, le autostrade si asciugavano completamente.
+
+Attraverso i venti e il fango morbido che si formava all’alba.
+
+Di nuovo, ti ho insegnato che le nuvole portano via.
+
+Anche molta umidità, assorbita dalle zone circostanti.
+
+Dell’immensa distesa del mare, e spargerla ovunque.
+
+In tutte le regioni, quando la pioggia cade sulla terra.
+
+E i venti trasportano quelle strutture di vapore sospese nell’aria.
+
+Infine, poiché la Terra è porosa nella sua struttura,
+
+E i paesi confinanti con i mari, che circondano le loro coste.
+
+L’acqua, essendo umida, deve sicuramente infiltrarsi nel terreno.
+
+Dall’oceano salmastro, proprio come dalle terre terrestri.
+
+Verso i mari. Poiché il sale viene filtrato via.
+
+E poi quella sostanza liquida si infiltra di nuovo all’interno.
+
+E tutto si riversa alle sorgenti dei fiumi.
+
+Da lì, nelle correnti d’acqua dolce, ritorna indietro.
+
+Attraverso le terre, lungo i canali che.
+
+Un tempo erano divisi, e un tempo continuarono ad esistere separati.
+
+Le inondazioni causate da liquidi in movimento.
+
+E ora, la causa.
+
+Attraverso la gola del Monte Etna.
+
+Tali enormi incendi scatenati dai tornado, a volte, si diffondono con una violenza inaudita.
+
+Spiegherò tutto: poiché senza alcun potere intermedio.
+
+Dalla distruzione sorse la tempesta infuocata.
+
+E esercitò il suo dominio sui campi siciliani:
+
+Attraendo a sé i volti rivolti verso l’alto.
+
+Tra i clan vicini, in quale momento li videro da lontano.
+
+Le piste da sci fumano e scintillano ovunque.
+
+E riempirono i loro cuori di un terrore angoscioso.
+
+Su quale nuova creazione stesse lavorando la natura.
+
+In queste circostanze, è assolutamente necessario che tu.
+
+Per poter guardare sia in larghezza che in profondità, e lontano, verso l’orizzonte.
+
+Per poter scrutare ogni angolo, affinché tu possa.
+
+Ricordate quanto sia infinita la “Somma delle Cose”.
+
+E notate quanto infinitesimale sia quella parte.
+
+Di tutto l’insieme, questo nostro cielo rappresenta la parte più significativa.
+
+O non una parte così grande come quella di un singolo uomo.
+
+Di tutta la terra. E chiaramente, se ci pensi bene.
+
+Questo fatto cosmico, posto proprio davanti a noi.
+
+E devi comprendere chiaramente che dovrai andartene.
+
+Chiedendomi molte cose. Per quale di noi.
+
+Si chiede se qualcuno riesca ad “entrare” nelle sue articolazioni.
+
+Una febbre, che aumentava di intensità con un calore ardente.
+
+O qualsiasi altra malattia dolorosa.
+
+Lungo i suoi arti? Perché, in un attimo, anche il piede.
+
+Diventa blu e si sviluppa in bulbi; spesso provoca una sensazione di dolore acuto.
+
+Afferra i denti, attacca direttamente gli occhi;
+
+Accendi la fiamma sacra e, strisciando su di essa.
+
+Su tutto il corpo, ogni parte brucia.
+
+Si impadronisce di tutto e segue la sua orribile strada.
+
+Lungo il telaio. Non c’è da meravigliarsi, poiché, ecco.
+
+Di tutte le cose innumerevoli, bastano poche come semi.
+
+E proprio la nostra terra e il nostro cielo ci offrono tutto questo.
+
+Basta con le maledizioni: da esse può nascere forza.
+
+Di malattie innumerevoli. E così è.
+
+Dobbiamo presumere che tutto il cielo e tutta la terra.
+
+Vengono forse mai forniti dall’infinito?
+
+Tutte le cose, oh, tutte quelle che sono sufficientemente disponibili.
+
+La terra scossa può muoversi all’improvviso.
+
+E i terribili tifoni possono colpire sia il mare che la terraferma.
+
+Avanti, allora, che le fiamme di Aetna si scatenino!
+
+E il cielo si trasforma in una fiammata. Anche per questo.
+
+A volte accade, e le vette celesti.
+
+Divampa in fiamme, e le tempeste piovose si levano.
+
+In occasioni di raduni più numerosi, quando, per caso.
+
+I semi dell’acqua si sono così raccolti insieme.
+
+Dall’infinito, “Sì, ma attraversando qualcosa di enorme, ”
+
+Il tumulto infernale di quella devastante esplosione.
+
+Dici così. Beh, molti grandi fiumi sembrano.
+
+Per colui che un tempo non possedette mai una sega più grande.
+
+Pertanto, un albero o un uomo possono apparire enormi; e tutto.
+
+Qual mortale riesce a vedere ciò che è più grande in ciascuna categoria?
+
+Quello che lui considera “enorme”; anche se in realtà.
+
+Tutto ciò, insieme al cielo, alla terra e al mare.
+
+Tutto ciò è nulla rispetto al tutto complessivo.
+
+Del Tutto Sommo.
+
+Ma ora vi spiegherò tutto.
+
+Finalmente, come quella fiamma lì, improvvisamente infuriata.
+
+Si diffonde all’esterno, proveniente da enormi forni.
+
+Etnaiano. Innanzitutto, la natura di questa montagna è.
+
+Tutto era vuoto all’interno; tutto si reggeva su supporti.
+
+Con caverne formate da pilastri di basalto. E, ecco.
+
+In tutte le sue grotte c’è vento e aria.
+
+Il vento si genera quando l’aria viene agitata.
+
+Attraverso un’agitazione violenta. Quando quest’aria.
+
+È riscaldato completamente in ogni sua parte e, ribollendo intorno,
+
+Ha creato la terra e tutte le rocce che essa tocca.
+
+Terribilmente caldo, e li ha privati di tutto.
+
+Fuoco violento, con fiamme rapide e intense, si eleva verso l’alto.
+
+E si precipita così, dritto verso l’alto, attraverso la sua gola.
+
+Verso le alte sfere del cielo, e da lì prosegue lontano.
+
+I suoi potenti getti di fuoco si diffondono lontano.
+
+Le sue ceneri sprigionano un fumo denso e scuro.
+
+E in quel momento solleva massi di incredibile peso.
+
+Per farti comprendere senza alcun dubbio che è proprio l’aria.
+
+Potere tumultuoso. In gran parte, inoltre,
+
+Il mare, là alle radici di quella stessa montagna.
+
+Rompie le sue vecchie onde e risucchia indietro la sua schiuma.
+
+E delle caverne sottomarine si estendono verso l’interno.
+
+Fino in fondo alla “gola” della montagna.
+
+In questo modo devi ammettere che.
+
 <span class="atom-split" data-atom="049" data-title="BOOK VI (parte 6)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
 And the conditions force [the water and air]
@@ -18476,6 +36520,406 @@ Of heat, the colder grows the water hid
 
 Within the earth. Further, when all the earth
 
+<span class="qlang-split" data-lang="it"></span>
+
+E queste condizioni costringono [l’acqua e l’aria].
+
+Profondamente inoltrarsi dal mare aperto.
+
+E diffondersi ampiamente all’estero, e sopportare con forza.
+
+E così, la fiamma, che si leva dalle profondità.
+
+Le rocce enormi e le nuvole di sabbia alle loro spalle.
+
+Dopotutto, in cima ci sono delle “scodelle”, proprio come le usano le persone lì.
+
+Siamo soliti chiamare con un certo nome ciò che a Roma definiamo.
+
+Le gole e le bocche.
+
+Inoltre, esiste qualcosa.
+
+Non basta, per questo, una sola causa.
+
+Per esprimere, anzi, piuttosto diverse idee, di cui una.
+
+Sarà la verità: oh, se mai dovessi scorgerla.
+
+Lontano da lì giaceva il corpo inanimato di qualcuno.
+
+Sarebbe appropriato menzionare tutte le cause di una morte.
+
+Quindi, quella causa della sua morte potrebbe essere definita così.
+
+Per dimostrare che non è morto per mano di una lama di acciaio.
+
+Né dal freddo, né tantomeno dal veleno o dalla malattia.
+
+Tuttavia, qualcosa del genere gli è accaduto.
+
+Lo sappiamo. E quindi dobbiamo dire lo stesso.
+
+In diversi casi.
+
+Verso l’estate, il Nilo.
+
+Si diffonde e inonda le pianure.
+
+Unico in tutto questo paesaggio, il fiume solitario.
+
+Degli Egiziani. Nei mesi caldi della stagione.
+
+Spesso e sovente inonda l’Egitto.
+
+O forse perché, in estate, contro le loro bocche.
+
+Come quei venti del nord che in quella stagione dell’anno.
+
+Gli uomini chiamano queste raffiche di vento “Etesiane”; soffiano proprio in questo modo.
+
+A monte, rallentando e respingendo le sue onde.
+
+Riempilo completamente e fai sì che il suo flusso si arresti.
+
+Poiché, senza dubbio, queste esplosioni sono state causate.
+
+Dalle gelide costellazioni dell’emisfero polare.
+
+Vengono trasportati direttamente lungo il fiume. Quel fiume, appunto.
+
+Dai luoghi afosi del sud.
+
+Sorgendo in alto, nel cuore stesso del giorno.
+
+Tra le generazioni di uomini forti di colore.
+
+Con pelli abbronzate dal sole. Inoltre, è anche possibile.
+
+Il fatto che una grande quantità di sabbia accumulata possa bloccare.
+
+Le sue labbra contro le onde che lo spingevano avanti, quando il mare.
+
+Sospinto dai venti, il sabbia si riversa verso l’interno delle terre.
+
+Di conseguenza, l’uscita del fiume risultava meno libera.
+
+Allo stesso modo, le sue inondazioni discendenti non sono così impetuose.
+
+È anche possibile che, in questa stagione, piova molto.
+
+Sono più abbondanti alla loro sorgente originale.
+
+Poiché le raffiche di vento provenienti da nord.
+
+Poi spingete tutte le nuvole verso quelle zone interne del territorio.
+
+E, in verità, quando si riuniscono tutti lì.
+
+Spinto lì, nel cuore stesso della giornata.
+
+Poi, ammassati lungo le imponenti pareti della montagna,
+
+Sono schierati in massa e premuti con forza. Di nuovo.
+
+Forse le sue acque aumentano di volume, lontano, molto lontano.
+
+Tra le maestose montagne degli Etiopi,
+
+Quando il sole onniveggente, con i suoi raggi che sciogliono il ghiaccio.
+
+Spinge le nevi bianche a scorrere verso i valli.
+
+Vieni ora; e ti rivelerò tutto ciò.
+
+Per quanto riguarda quelle zone prive di uccelli e quei laghi senza alcuna presenza di volatili.
+
+Di quale natura sono dotati.
+
+Innanzitutto, riguardo al nome “senza uccelli”, esso deriva.
+
+In realtà, poiché sono nocivi.
+
+A tutte le creature volanti. Poiché, quando si trovano sopra quei luoghi.
+
+Durante il volo orizzontale, gli uccelli sono arrivati.
+
+Dimenticando di remare con le ali, ammainano le vele.
+
+E, con i loro delicati colli abbassati.
+
+Se mai fosse possibile, cadete dritti nella terra.
+
+La natura di quelle macchie, o forse l’acqua.
+
+Se per caso si diffondesse sotto di esso il lago senza uccelli.
+
+Un luogo del genere si trova a Cuma, dove le montagne fumano.
+
+Carico di solfuro pungente e in quantità aumentata.
+
+Con sorgenti fumanti. E proprio in quel luogo esiste una tale sorgente.
+
+All’interno delle mura di Atene, anche lì.
+
+Sul culmine dell’Acropoli, accanto.
+
+Tempio di Palla Tritonide, generosa e munifica.
+
+Là dove mai gli uccelli corvi emettono il loro grido,
+
+Nemmeno quando si offrono doni preziosi sugli altari.
+
+Ma continuano a fuggire, eppure non dal castigo.
+
+Di Pallade, addolorata per quel vecchio spia.
+
+Come hanno cantato i poeti greci questa storia.
+
+Ma la stessa natura di quel luogo ci costringe a farlo.
+
+Anche in Siria, si dice, esiste un luogo.
+
+Si può notare che anche le specie di quattro piedi.
+
+Non appena mettono piede all’interno.
+
+Crolla, sopraffatto dal suo potere essenziale.
+
+Come se fossero stati sacrificati agli dèi inferiori.
+
+Ebbene, tutti questi miracoli avvengono secondo la [legge naturale](/positions/natural_law).
+
+E da quali cause vengono portate a compiersi.
+
+L’origine è evidente; quindi, forse.
+
+Che nessuno creda che in queste regioni si trovi.
+
+La porta di Orcus, né noi allora possiamo presumere.
+
+Forse è proprio da lì che gli dèi minori attingono la loro forza.
+
+Anime destinate alle oscure rive di Acheronte, come cervi.
+
+Si ritiene che questi esseri dalle ali possano essere attratti dalla luce.
+
+Sniffando attraverso le narici, dalle loro tenebrevoli tane.
+
+Le generazioni di serpenti selvatici che si contorcono.
+
+Quanto lontano questa concezione sia dalla vera ragione.
+
+Comprendi bene: ora cercherò di esprimermi chiaramente.
+
+Più o meno, proprio questo è il fatto in questione.
+
+E, innanzitutto,
+
+Dico questo perché l’ho detto molte volte in passato:
+
+Nella Terra esistono [atomi](/positions/atomism) di ogni genere di sostanze.
+
+E sappiate: tutto ciò emerge dalla terra.
+
+Molti elementi essenziali alla vita e utili come cibo.
+
+E molti di quelli che possono causare malattie.
+
+E affrettate la morte, o molte semine primordiali.
+
+Di molte cose, in molti modi, poiché la terra.
+
+Li contiene mescolati insieme e ne produce risultati distinti.
+
+E abbiamo già dimostrato in precedenza che alcune cose.
+
+Siate certi che alcune creature sono più adatte.
+
+Per quanto riguarda le questioni legate alla fine della vita, per via di una certa natura intrinseca.
+
+Una texture e forme primordiali, diverse da.
+
+Per specie simili. Anche in quel caso, spetta a te vedere.
+
+Quante cose opprimenti e ripugnanti esistono.
+
+Per l’uomo, e soprattutto per la sensazione, il più malevolo di tutto.
+
+Molti suoni serpeggiano disperatamente attraverso le orecchie.
+
+Molti flussi d’aria entrano anche attraverso le narici.
+
+Malvagio e crudele non appena l’uomo esala il suo respiro.
+
+Di molti di questi, è necessario evitare il contatto;
+
+Molti, infatti, devono evitare di vederli.
+
+E alcuni di questi sono davvero disgustosi al gusto.
+
+Inoltre, molti di loro rilassano anche quelle membra appesantite dallo sforzo.
+
+Lungo il perimetro del quadro, e minando l’anima stessa.
+
+Nei suoi rifugi all’interno. In alcune particolari piante.
+
+È stata infusa un’ombra così dolorosa.
+
+Spesso questi dolori alla testa sono dovuti a.
+
+Se solo si potesse giacere distesi sull’erba.
+
+Ancora una volta, sulle alte colline di Eliso.
+
+Un albero che non è disposto a uccidere un uomo all’istante.
+
+Per l’odore nauseabondo della sua stessa fiore.
+
+E quando l’intenso odore nauseabondo della lampada notturna.
+
+Appena estinto, attacca di nuovo.
+
+Le narici, proprio lì le fa addormentare.
+
+Un uomo affetto dalla malattia del declino.
+
+E schiuma alla bocca. Anche una donna.
+
+Con il peso del corpo, si appoggia di nuovo allo schienale della sedia.
+
+E dalle sue dita delicate scivola via.
+
+I suoi lavori artigianali vistosi, se solo avesse la fortuna di.
+
+Ha già percepito l’odore caratteristico del periodo mestruale.
+
+Ancora una volta: se ritardi nell’uso delle bagni caldi.
+
+Quando sei completamente sazio, quanto facilmente.
+
+In piedi su uno sgabello, nel mezzo dell’acqua bollente.
+
+Cadi a terra in preda a un attacco di follia. Con quanta facilità.
+
+I densi fumi di carbone si diffondono lentamente.
+
+Nel cervello, a meno che in precedenza non lo facciamo.
+
+Ho bevuto molta acqua. Ma quando sopraggiunge una febbre ardente.
+
+Oh, l’uomo che ha padroneggiato se stesso. Ha preso in controllo i propri arti.
+
+Allora, l’odore del vino è come un colpo di martello.
+
+E non vedi forse come, proprio sulla terra stessa.
+
+Lo zolfo ha un genere specifico, e il bitume si addensa.
+
+Con un odore nauseabondo? — E che odori terribili inoltre.
+
+Scaptensula esala il respiro dal basso.
+
+Quando gli uomini cercano i giacimenti d’argento e d’oro,
+
+Con le piccozze che esplorano i regni nascosti.
+
+Nelle profondità della terra?. O forse qualcosa di estremamente pericoloso.
+
+Le miniere d’oro emettono gas? Oh, che strano spettacolo.
+
+E che orribile colore conferiscono agli uomini.
+
+E non vedi forse, o non senti, come sono soliti comportarsi?
+
+In così poco tempo per perire, e come poter fallire?
+
+Le riserve di vita presenti in quelle popolazioni, possedute da poteri immensi.
+
+È una necessità crudele quella che ci costringe ad agire in quel modo.
+
+In un compito del genere. Quindi, questa terra terrestre.
+
+Flussi che portano con sé tutti questi terribili effluenti.
+
+E li esala nel mondo aperto.
+
+E nelle regioni visibili sotto il cielo.
+
+Pertanto, anche quei luoghi privi di uccelli devono necessariamente inviare.
+
+Un’essenza che porta la morte alle creature alate.
+
+Quello che sorge dalla terra e si unisce alle brezze.
+
+Avvelenare una parte dello spazio celeste, e quando farlo?
+
+Lì, ciò che ha le ali è portato su stendardi.
+
+Lì, afferrato da quel veleno invisibile, è intrappolato.
+
+E dal livello orizzontale del suo volo.
+
+Gocce che cadono esattamente nel punto da cui è provenuto quel flusso.
+
+E quando tutto ciò crollò, allora la stessa forza.
+
+Di quel flusso che proviene da tutte le sue parti.
+
+I resti della sua esistenza. Quella forza colpisce per prima cosa.
+
+Le creature, colpite da una vertigine confondente.
+
+E poi, una volta che sono caduti.
+
+Allora, direttamente nelle fonti stesse di quel veleno.
+
+Anche la vita, la rigettano inevitabilmente, perché.
+
+Tali sono le dense concentrazioni di male intorno a loro che ne esala persino del fumo.
+
+Ancora una volta, a volte accade che questo potere.
+
+Questo esalare delle “Terre Senza Uccelli”.
+
+Rimuove l’ostacolo che si trova tra la terra e gli uccelli.
+
+Lasciando dietro di sé quasi un vuoto. E là, quando.
+
+Durante il volo orizzontale, gli uccelli sono arrivati.
+
+Immediatamente, la leggerezza delle loro bandiere diventa incerta.
+
+Tutto inutile, e ogni sforzo da parte di entrambe le “ali”.
+
+Tutto fallisce invano. Qui, quando non si possiede alcun potere.
+
+Per sostenersi e appoggiarsi sulle proprie ali.
+
+Ebbene, la natura li costringe, a causa del loro peso, a scivolare.
+
+A terra, disteso prono lì.
+
+Lungo quel vuoto quasi desolato, trascorrono il loro tempo.
+
+Le loro anime, attraverso tutte le aperture del loro corpo.
+
+Inoltre, l’acqua dei pozzi è più fredda di.
+
+Durante l’estate, poiché la terra, a causa del calore.
+
+È rarefatto e viene diffuso nell’aria.
+
+Qualunque seme abbiano, per caso.
+
+Dai propri ardenti esalazioni.
+
+Pertanto, più il terreno terrestre viene prosciugato.
+
+Del calore, più fredda diventa l’acqua nascosta.
+
+All’interno della Terra. Inoltre, quando tutta la Terra.
+
 <span class="atom-split" data-atom="050" data-title="BOOK VI (parte 7)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="positions/atomism,concepts/mechanism,forms/didactic_poem,schools/epicureanism"></span>
 
 Is by the cold compressed, and thus contracts
@@ -18869,6 +37313,400 @@ Through gold, and others to go out and off
 Through silver and through glass. For we do see
 
 Through some pores form-and-look of things to flow,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Viene compresso dal freddo e quindi si contrae.
+
+E, in un certo senso, concretamente parlando, succede proprio così.
+
+Quindi, contrarre tale termine significa esprimerlo in quel modo.
+
+Nelle pozze, quanta calore si porta con sé.
+
+Si dice che presso il tempio di Hammon esista una fontana.
+
+Di giorno fa freddo, di notte fa caldo.
+
+Questa fontana suscita grande meraviglia nelle persone.
+
+E pensate: all’improvviso, tutto si riempie di calore.
+
+A causa del sole intenso, il sottosuolo, quando.
+
+La notte, con la sua terribile oscurità, ha avvolto le terre.
+
+Quello che non è affatto un ragionamento valido, per distanza considerevole.
+
+La mia fede, quando il sole si leva e i suoi raggi.
+
+Un corpo d’acqua aperto non possedeva alcun potere.
+
+Per riscaldarne la parte superiore.
+
+Sebbene il suo momento di gloria abbia un bagliore così intenso.
+
+Allora, come può egli, trovandosi sotto questa terra densa e pesante.
+
+Far bollire l’acqua e saturarla di calore ardente? —
+
+E, in particolare, poiché era appena potente.
+
+Attraverso muri di recinzione delle case, per poter introdurre.
+
+I suoi respiri erano caldi, carichi di raggi ardenti.
+
+Quindi, qual è il principio? Beh, è proprio questo:
+
+La terra intorno a quella sorgente è più porosa.
+
+Il terreno terrestre, più di ogni altro luogo, e così sia.
+
+Molte delle “semi del fuoco” crescono proprio vicino all’acqua.
+
+Per questo motivo, quando la notte, avvolta da ombre umide di rugiada.
+
+Ha sommerso la terra; subito dopo, la terra è sprofondata nel profondo.
+
+Cresce e si contrae; ed è in questo modo che viene espulso.
+
+Nella primavera, quali semi di fuoco custodisce.
+
+(Come se si potessero comprimere con un pugno), e che rendono le cose calde.
+
+Il contatto e il vapore di quel liquido. Poi, quando il sole.
+
+Si è levato e, con i suoi raggi, ha diviso la terra in due.
+
+E raffreddò la terra con un calore in aumento.
+
+Tornino ancora nelle loro antiche dimore.
+
+I semi del fuoco, e tutta la “calore” dell’acqua.
+
+Si ritira nella terra, ed è per questo che.
+
+La fontana, alla luce del giorno, diventa così fredda.
+
+Inoltre, l’acqua diventa umida quando viene colpita.
+
+Attraverso i raggi del sole, e con l’alba, diventa.
+
+Di consistenza più rara sotto la sua fiamma pulsante;
+
+E quindi, tutto ciò che in esso contiene di “fuoco”.
+
+Si manifesta, proprio come spesso accade.
+
+Il gelo che contiene al proprio interno.
+
+E scioglie il suo ghiaccio e allenta i nodi.
+
+Inoltre, esiste una fontana la cui acqua è fredda per natura.
+
+Ciò comporta una certa quantità di trazione, (sopra di esso è fissata).
+
+Emette immediatamente fuoco e scaglia una fiamma; allo stesso modo.
+
+Una torcia fatta di pini resinosi si accenderà e inizierà a bruciare intensamente intorno.
+
+Lungo le sue onde, ovunque venga spinta.
+
+In balia della brezza. Non c’è nulla di meraviglioso in questo.
+
+Poiché esistono moltissimi semi di calore.
+
+Nell’acqua, e, direttamente dalla terra stessa.
+
+Dalle profondità deve emergere materia infuocata.
+
+Dall’inizio alla fine, l’intera fontana si solleva verso l’alto.
+
+E la velocità con cui esaliamo l’aria.
+
+In tutto il mondo (sebbene non in numero sufficiente).
+
+Per riscaldare la sorgente. E inoltre, ancora di più.
+
+Qualche forza li costringe a rimanere dispersi nell’acqua.
+
+Immediatamente si diffusero ovunque, unendosi tra loro.
+
+In fiamme, lassù. Proprio come una fontana che sgorga lontano.
+
+Su Aradus, nel mezzo del mare, c’è.
+
+Che sgorga acqua dolce e poi scompare.
+
+Dai suoi bordi si diffondevano le onde salate; e, ecco.
+
+In molte altre regioni, il corso principale.
+
+Fornisce ai marinai assetati un aiuto tempestivo.
+
+Sputa acque dolci tra onde salate.
+
+E così, allora, possono quei semi di fuoco esplodere e sprigionare la loro luce.
+
+Attraverso quell’altra sorgente, e fuoriesce in bolle.
+
+All’estero, contro quel pezzo di cima da traino. E quando.
+
+Lì raccolgono o si attaccano alla torcia.
+
+Immediatamente si accendono con facilità, perché.
+
+Anche i rimorchi e le torce, in sé stessi.
+
+Contengono molte “semi” di fuoco latente. Infatti, è proprio così.
+
+E non lo vedi forse, quando ci si avvicina alle lampade notturne.
+
+Porti con te una stoppina di lino, spenta.
+
+Un attimo fa, è diventato infuocato, prima ancora che.
+
+“Ha toccato la fiamma, e allo stesso modo una torcia?”
+
+E molti altri oggetti brillano intensamente, avvolti dalle fiamme.
+
+Quando si trova a distanza e viene influenzato soltanto dal calore.
+
+Prima che venga immerso in un vero e proprio fuoco.
+
+Quindi, dobbiamo presumere che ciò accadrà.
+
+Anche in quella primavera.
+
+Ora passiamo ad altre cose!
+
+E inizierò a trattare secondo quale decreto.
+
+Per natura, l’acciaio può essere.
+
+Quel sasso, che i Greci chiamano “magnete”.
+
+Dopo il nome del paese (la sua origine).
+
+Essere nel paese del popolo magneteo.
+
+Gli uomini di pietra ne sono meravigliati; e certamente, spesso.
+
+Forma una catena di anelli, che, oh, si collegano tra loro.
+
+Dall’interno stesso di esso! No, a volte puoi persino vederlo.
+
+Cinque, o forse più, pendevano giù ordinatamente.
+
+E ondeggiando nelle brezze leggere, mentre uno.
+
+Dipende dagli altri; si attacca alla parte inferiore.
+
+E così, ognuno percepisce il potere e i legami intrinseci alla stessa pietra.
+
+Pertanto, la sua forza si diffonde in modo così dominante.
+
+In questioni di questo genere, è necessario verificare molte cose con attenzione.
+
+Se sei in grado di fornire una descrizione della cosa stessa.
+
+E gli approcci devono essere indiretti, circostanziali.
+
+Pertanto, tanto più ti chiedo.
+
+Una mente e orecchie attente.
+
+Innanzitutto, tra tutte le cose.
+
+Quello che vediamo deve necessariamente continuare a fluire, sempre e senza sosta.
+
+Deve essere rilasciato e disperso ovunque.
+
+Corpi che colpiscono lo sguardo, risvegliando la vista.
+
+Da certe cose emanano costantemente odori.
+
+Freddo proveniente dai fiumi, calore dal sole e spruzzi d’acqua.
+
+Dalle onde dell’oceano, divoratrici delle pareti.
+
+Lungo le coste. E senza mai smettere di filtrare.
+
+I diversi echi che risuonavano nell’aria.
+
+Anche in quel caso, a volte qualcosa entra nella bocca.
+
+L’umidità con un sapore salato, vicino al mare.
+
+Vagabondiamo senza meta; e così, ogni volta che osserviamo.
+
+Una volta mescolata con l’assenzio, sprigiona il suo amaro pungente effetto.
+
+In tale misura, ogni cosa è separata dalle altre.
+
+Portato via fluidamente, e disperso ovunque.
+
+In ogni direzione intorno; e la natura lo concede.
+
+Né riposo né tregua nel flusso inarrestabile del tempo.
+
+Poiché è incessantemente attraverso i nostri sentimenti che percepiamo le cose,
+
+E tutto il tempo si permette loro di osservare, di descrivere.
+
+E annusare tutte le cose che ci circondano, e ascoltare i loro suoni.
+
+Ora cercherò nuovamente di richiamare alla mente.
+
+Quanto poroso sia ogni essere umano, un fatto innegabile.
+
+Rivelato anche nel mio primo canto.
+
+Infatti, sebbene conoscere ciò sia di fondamentale importanza.
+
+Per molte cose, ma proprio per questa cosa in particolare.
+
+E su questo argomento intendo discutere immediatamente.
+
+È assolutamente necessario assicurarsene con certezza.
+
+Non c’è nulla davanti a noi se non un corpo mescolato al vuoto.
+
+Un primo esempio: nelle grotte, le rocce sovrastanti.
+
+Fai evaporare l’umidità del sudore e distilla quelle gocce vischiose.
+
+Allo stesso modo, dal nostro intero corpo fuoriesce il sudore;
+
+Cresce la barba, e su tutti i nostri membri.
+
+E lungo il nostro corpo, i peli. In tutte le nostre vene.
+
+Semina i cibi e li fa moltiplicarsi.
+
+E si estende fino alle parti più remote.
+
+Fino alle unghie più piccole. Allo stesso modo.
+
+Attraverso il bronzo solido, il calore freddo e ardente.
+
+Noi sentiamo di passare; allo stesso modo, sentiamo che anche loro passano.
+
+Attraverso l’oro, attraverso l’argento, quando le nostre mani si uniscono.
+
+I calici colmi fino all’orlo. E ancora una volta, quelle ombre sfrecciano via.
+
+Voci che filtrano attraverso le mura di pietra delle case.
+
+Gli odori si diffondono, così come il freddo e il calore del fuoco.
+
+Qualcosa che è in grado di penetrare persino la resistenza dell’acciaio.
+
+Di nuovo, là dove la “cintura” del cielo avvolge tutto.
+
+E allo stesso tempo, una sorta di influenza dannosa.
+
+Quando, dall’Al di Là, qualcosa è “rubato” nel nostro mondo.
+
+E le tempeste, che si radunano dalla terra e dal cielo.
+
+Tornare al cielo e alla terra, assorbire tutto, ritirarsi.
+
+Con ragione, poiché non esiste nulla che non sia stato creato attraverso un processo di formazione.
+
+Con un corpo poroso.
+
+Inoltre, non tutti.
+
+Le particelle che derivano da cose che vengono scagliate via.
+
+Sono dotati delle stesse qualità per i sensi.
+
+Non bisogna adattarsi in modo uniforme a tutte le cose.
+
+Un primo esempio: il sole arde e prosciuga tutto ciò che incontra sul suo cammino.
+
+La terra, ma lui scalda il ghiaccio con i suoi raggi.
+
+Costringe le maestose nevi, erette e bianche.
+
+Sulle alte colline, per andare in rovina.
+
+Allora, la cera, se posta sotto il calore di lui.
+
+Si scioglie in liquido. E lo stesso vale per il fuoco.
+
+Scioglierà il rame e fonderà l’oro.
+
+Ma la pelle e la carne si raggrinziscono e si restringono.
+
+L’acqua indurisce il ferro appena lontano dal fuoco.
+
+Ma le pelli e la carne, indurite dal calore, si ammorbidiscono.
+
+L’albero di olivo dona altrettanto piacere.
+
+Le capre barbute, davvero, come se.
+
+Era intriso di nettare e versava ambrosia.
+
+Nulla, più di questo, germoglia e si trasforma in foglie.
+
+Cibo ancora più amaro per l’uomo. Un maiale si ritrae.
+
+Per l’olio di maggiorana, ogni unguento teme.
+
+Avvelenate questi animali con un veleno potente.
+
+Eppure, di tanto in tanto, ci sembrano.
+
+Come se si volesse infondere nuova vita. Ma, al contrario.
+
+Sebbene per noi quel fango sia la più orribile delle impurità.
+
+Per quei che si immersano nella fangosità, tutto ciò appare così delizioso.
+
+Che si rotolino da capo a piedi.
+
+Non si lasci mai sopraffare dalle emozioni.
+
+Inoltre, rimane ancora un punto da considerare.
+
+Cosa sembra essere il modo migliore per descriverlo, prima che me ne vada.
+
+A parlare direttamente del fatto in questione.
+
+Poiché alle varie cose assegnate è.
+
+Quei numerosi pori, devono essere diversi tra loro.
+
+Nella natura, ciascuno è diverso dall’altro, e ognuno possiede le proprie caratteristiche.
+
+La sua stessa forma, la direzione che essa segue sono già stabilite.
+
+E così, effettivamente, nelle creature che respirano.
+
+I diversi sensi, ciascuno dei quali percepisce in modo specifico.
+
+Per se stesso, sempre nel proprio modo particolare.
+
+Ha un proprio oggetto specifico. Poiché noi notiamo.
+
+In che modo i suoni penetrano in un luogo.
+
+In altre varianti di tutti questi succhi.
+
+E il sapore, trasformato in un terzo elemento. Inoltre,
+
+Tra le rocce vediamo qualcosa che filtra attraverso di esse. E, ecco.
+
+Un tipo è in grado di attraversare la foresta, un altro no.
+
+Attraverso l’oro, e altri mezzi per poter andare avanti e indietro.
+
+Attraverso l’argento e attraverso il vetro. Perché noi vediamo davvero.
+
+Attraverso alcune “pore” della forma e dell’aspetto delle cose, qualcosa scorre.
 
 <span class="atom-split" data-atom="051" data-title="BOOK VI (parte 8)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/freedom_necessity,assi/soul_body,assi/end_of_life,assi/time_and_death,assi/god,positions/atomism,positions/materialism,positions/clinamen,positions/ataraxia,positions/pleasure,positions/deism,concepts/soul,concepts/death,concepts/nature,concepts/infinity,concepts/cause,concepts/religion,concepts/fortune,concepts/time,arguments/clinamen_argument,arguments/death_is_nothing,figures/epicurus,forms/didactic_poem,schools/epicureanism"></span>
 
@@ -19270,6 +38108,406 @@ Which can attack us soon as ever it come.
 
 THE PLAGUE ATHENS
 
+<span class="qlang-split" data-lang="it"></span>
+
+Attraverso il calore degli altri per procedere, e alcune cose rimangono comunque invariate.
+
+Per attraversare gli stessi pori in modo più veloce degli altri.
+
+In verità, la natura stessa di questi sentieri.
+
+Variano in molti modi (come già detto).
+
+A causa delle differenze nella struttura e nella composizione.
+
+Per quanto riguarda le cose cosmiche, esse sono vincolate in modo tale da essere ciò che sono.
+
+Pertanto, poiché tutte queste questioni sono ormai state esaminate.
+
+Tutto ciò che è stato stabilito e sistemato per noi rappresenta qualcosa di sicuro e confortevole.
+
+Dopo aver preparato le premesse, per quanto rimane.
+
+Non sarà difficile fornire una spiegazione chiara e comprensibile.
+
+Attraverso questi elementi, e l’intera causa che li sta alla base, tutto viene rivelato.
+
+Attraverso questo meccanismo, il magnete attira la forza del ferro.
+
+Innanzitutto, devono germogliare semi dal masso di minerale.
+
+Innumerevoli, una marea inarrestabile che si abbatte con forza.
+
+Con colpi che spezzavano l’aria che si trovava in mezzo.
+
+Pietra e ferro. E quando tutto viene svuotato.
+
+Questo spazio, e un’ampia area situata tra i due.
+
+Viene creato un vuoto; immediatamente, i germi primordiali.
+
+Di ferro, scivola inesorabilmente, la caduta è inevitabile.
+
+Nel vuoto, e nel cerchio stesso.
+
+Per questo motivo, ciò che segue ne consegue e avviene.
+
+Così avviene per tutto il suo essere; e non c’è nulla di diverso.
+
+Fatto dei suoi elementi primordiali.
+
+Ciò che è più strettamente intrecciato o più saldamente connesso tende ad essere più coerente.
+
+Più della natura e della dura ruvidità del ferro robusto.
+
+Pertanto, ciò che ho detto è meno sorprendente di quanto si possa pensare.
+
+Da tali elementi non possono derivare alcun corpo.
+
+Dall’esterno, si radunano in grandi gruppi.
+
+E essere trasportati via da questo vuoto.
+
+Senza l’anello stesso, non seguitele.
+
+E così fa; prosegue senza sosta fino a.
+
+“Quello raggiunse la stessa pietra e vi si attaccò.”
+
+Attraverso legami invisibili. Inoltre, allo stesso modo.
+
+Il movimento viene assistito da un ausilio.
+
+(Pertanto, il processo diventa più semplice). —
+
+Cioè, in questo modo: non appena diventa più raro.
+
+Quell’aria davanti al ring, e lo spazio che c’è tra.
+
+Viene svuotato sempre di più, trasformandosi immediatamente in un vuoto.
+
+Accade in tutto l’aria che si trova dietro.
+
+Lo trasmette avanti, spingendolo da dietro.
+
+L’aria circostante rimane per sempre.
+
+Colpisce le cose senza che queste si muovano, ma in questo caso spinge verso l’esterno.
+
+Il ferro, perché da un lato lo spazio.
+
+Menti vuote, e quindi capaci di accogliere qualsiasi cosa vi venga imposta.
+
+Quest’aria di cui ti ricordo.
+
+Infilandosi attraverso le numerose pori dell’ferro.
+
+Così, in modo estremamente sottile, nelle sue parti più minuscole.
+
+Lo spinge e lo spinge ancora, proprio come il vento fa navigare la nave.
+
+Lo stesso accade in tutte le direzioni possibili.
+
+Da qualsiasi lato uno spazio venga reso vuoto.
+
+Che sia da dietro o dall’alto, immediatamente.
+
+Le particelle vicine vengono trasportate insieme.
+
+Nel vuoto, poiché in verità.
+
+Vengono messi in movimento da colpi provenienti da altre direzioni.
+
+Né possono essi, da soli e di loro spontanea volontà,
+
+Sollevati verso l’alto nell’aria. Ancora una volta, tutte le cose.
+
+Nel loro contesto, deve esserci spazio per l’aria, perché.
+
+Hanno una struttura porosa; l’aria.
+
+Avvolge e confina con tutte le cose.
+
+Ecco dunque questo “aria” profondamente immagazzinata nell’ferro.
+
+Viene continuamente scagliato in movimenti confusi e caotici.
+
+E quindi, senza dubbio, colpisce con forza sul cerchio.
+
+E lo scuote dentro.
+
+In verità, quell’anello viene portato laggiù insieme ad altre cose.
+
+Verso quel luogo dove un tempo si è gettati a capofitto. Ecco, proprio lì.
+
+Verso il vuoto da cui tutto ha avuto inizio.
+
+A volte succede anche che la natura del ferro.
+
+Si allontana da questa pietra, abituato com’è.
+
+A turno, fuggire e seguire. Sì, l’ho visto.
+
+Quei anelli di ferro samotraci si sollevano.
+
+E scaglie di ferro nelle ciotole di bronzo.
+
+Bolliva furiosamente, quando al di sotto era stato posto.
+
+La pietra magnetica. Il ferro, sotto la sua influenza, sembra davvero possedere una forza straordinaria.
+
+Desiderare ardentemente di fuggire da quella roccia. Una discordanza così grande.
+
+È definito dal rame inserito in mezzo.
+
+Perché, in effetti, quando per la prima volta la marea di bronzo.
+
+Ha preso possesso di e si è impadronito di
+
+I passaggi aperti dell’ferro, da quel momento in poi.
+
+Arriva la marea di pietra, e in quel ferro.
+
+Tutti gli spazi sono pieni; ormai non esistono più buchi.
+
+Dovremo nuotare attraverso di esso, come prima. È così che le cose sono impostate.
+
+Con la propria corrente, “contro la struttura del ferro”.
+
+Per frantumare e schiacciare; con quei mezzi che permettono di spruzzare.
+
+Da sé stesso, e attraverso il movimento del bronzo.
+
+Le cose che, in assenza di quel metallo, non esisterebbero affatto.
+
+Si assorbe tutto dentro di sé. In queste situazioni, insomma.
+
+Non meravigliarti che da questa pietra nasca la marea.
+
+Non prevalgono, altrettanto, altre circostanze capaci di influenzare la situazione.
+
+Con i propri mezzi: alcuni rimangono fermi e decisi, grazie alla propria forza.
+
+Come l’oro. E alcuni di questi oggetti non possono essere spostati per sempre.
+
+Poiché la loro struttura è così porosa, esse.
+
+Lì la marea scorre senza interruzioni.
+
+Di questo tipo di legno si può osservare che è proprio questo genere di materia.
+
+Pertanto, quando il ferro (che si trova tra i due).
+
+Ha assorbito alcune [atomi](/positions/atomism) di rame.
+
+Allora, quei flussi di roccia magnesiana.
+
+Muovono l’ferro attraverso i loro colpi.
+
+Eppure queste cose.
+
+Non sono così diverso dagli altri da non poter.
+
+Non sono affatto in grado di nominare esempi del medesimo genere.
+
+Esemplari ancora di cose esclusivamente.
+
+Adattarsi l’uno all’altro. Prima di tutto, si deve comprendere questo.
+
+Come solo la calce unisce le pietre; come il legno.
+
+Solo utilizzando una colla apposita per legno è possibile unire.
+
+Con tale fermezza, che spesso le tavole.
+
+Si spezzi lungo la debolezza della fibra.
+
+Finché quei legami “taurini” non allenteranno la loro presa.
+
+I succhi nati dalla vite, insieme alle sorgenti d’acqua.
+
+Osano mescolarsi, anche se non con un tono troppo grave.
+
+Con l’olio d’oliva leggero, e il colorante viola.
+
+Dei molluschi che si uniscono così strettamente alla lana.
+
+Solo il corpo, che non può essere preso via.
+
+Lontano per sempre. No, anche se hai compiuto fatiche.
+
+Per ripristinare lo stesso stato con l’inondazione neptuniana.
+
+No, anche se tutto l’oceano volesse cancellarlo.
+
+Con tutte le sue onde. Ancora una volta: oro su oro.
+
+Non è forse una sola sostanza quella che unisce tutto, e soltanto una?
+
+E non è forse il rame unito al rame con la stagnola?
+
+E quanti altri esempi si potrebbero trovare.
+
+E allora? Non c’è nemmeno bisogno che tu lo faccia.
+
+Di tali lunghe e tortuose strade, non ne ha alcun bisogno.
+
+Per me, molto sforzo è necessario per poterlo dedicare. Più adatto.
+
+In poche parole, si può riassumere così.
+
+Cose molteplici, cose le cui texture si fondono insieme.
+
+Adattarsi reciprocamente, in modo che quelle cavità.
+
+A questi solidi corrispondono queste cavità.
+
+Da questa cosa alle parti solide di quella.
+
+E quelli, a loro volta, diventano parti solide di questo.
+
+Tali connessioni sono le migliori. Ancora una volta, alcune cose.
+
+Può essere quello che è collegato e tenuto insieme agli altri.
+
+Connessi tra loro tramite ganci e occhielli, come se fossero, e questo.
+
+Sembra proprio essere questo il caso per il ferro e questa pietra.
+
+Ora, riguardo alle malattie, quale sia la legge che le governa, e da dove derivino.
+
+L’influenza della raccolta di elementi dannosi può.
+
+Della razza umana e delle mandrie di bovini.
+
+Scatena una distruzione piena di morte.
+
+Lo svelerò. E, innanzitutto, come ho già detto in precedenza.
+
+Che lì possano germogliare molte cose per noi.
+
+È qualcosa che dona la vita; e, al contrario, è necessario che sia così.
+
+Volano in cerchi continui, portando con sé malattia e morte.
+
+Quando queste cose, per caso, si sono raccolte insieme.
+
+E per perturbare l’atmosfera della Terra.
+
+L’aria diventa velenosa. E, ecco, tutto.
+
+Quell’influenza malefica, quella piaga.
+
+O provenienti dall’Altro Lato, attraverso la nostra atmosfera.
+
+Come nuvole e nebbie, discende o si accumula.
+
+Emerge direttamente dalla terra stessa, quando, completamente immerso.
+
+E battuti da piogge fuori stagione e da soli ardenti.
+
+La nostra terra, quindi, è diventata immonda e in decomposizione.
+
+Non vedi forse anche tu che colui che arriva.
+
+In una regione lontana dalla patria e dalla casa.
+
+Sono dovuti alla stranezza del clima e delle acque.
+
+Disarmonioso? – poiché le condizioni variano molto.
+
+Dopotutto, in cosa altro possiamo immaginare che possa influenzare il clima?
+
+Tra i Britanni che si differenziano da quelli dell’Egitto stesso.
+
+(Lì dove l’asse del mondo vacilla e si devia).
+
+O in cosa altro potrebbe differire il clima del Ponto?
+
+Dai luoghi di Gade e dalle regioni più a sud.
+
+Alle generazioni di uomini forti.
+
+Con pelli abbronzate dal sole? Proprio come vediamo ora.
+
+Quattro diversi climi, influenzati dai quattro venti principali.
+
+E sotto le quattro principali regioni del cielo,
+
+Anche i colori e i volti degli uomini vengono percepiti in questo modo.
+
+Disaccordo completamente: le malattie curabili rappresentano una realtà concreta.
+
+Per conquistare le generazioni, una per una.
+
+Esiste la “malattia dell’elefante” che.
+
+Nel cuore dell’Egitto, vicino ai corsi del Nilo.
+
+È generato soltanto lì, e in nessun altro luogo.
+
+In Atene i piedi sono spesso colpiti da malattie.
+
+E nelle terre achee, gli occhi. E così.
+
+I vari punti situati in diverse parti e arti del corpo.
+
+Sono nocivi; si tratta di un’aria variabile.
+
+Questo ne è la causa. Pertanto, quando un’atmosfera.
+
+Per nostra [casualità](/concepts/fortune), quell’essere alieno inizia a muoversi.
+
+E aria velenosa inizia a diffondersi intorno.
+
+Si muovono e si snodano come nebbia e nuvole.
+
+Lentamente, e tutto ciò che si trovava sul loro cammino.
+
+Li disturbano e costringono a modificare il suo stato.
+
+Accade anche che, quando finalmente arrivano.
+
+In questo nostro ambiente, loro lo contaminano.
+
+E renderlo simile a loro, e allo stesso tempo estraneo.
+
+Pertanto, questa improvvisa e strana distruzione.
+
+Questa peste, che si abbatte sulle acque.
+
+O si posiziona proprio sulle colture di grano.
+
+O altro cibo derivante da carne umana e da bestiame.
+
+O rimane una forza sottile, un senso di suspense.
+
+Nella stessa atmosfera, e quando da essa.
+
+Attraiamo le nostre inspirazioni di aria mista.
+
+Nel nostro corpo, allo stesso modo, diventa una fonte di danno.
+
+Inoltre, dobbiamo assorbire. In un certo senso.
+
+Spesso la peste colpisce il bestiame.
+
+E anche la malattia colpisce quelle pecore lente e pigre.
+
+Non importa affatto se intraprendiamo un viaggio o meno.
+
+Verso regioni ostili a noi e al cambiamento.
+
+Il manto atmosferico, o forse la natura stessa.
+
+Creava lei stessa un’atmosfera contaminata.
+
+Per noi, o qualcosa di strano per il nostro stesso utilizzo.
+
+Qualcosa che può attaccarci non appena arriverà.
+
+La peste ad Atene
+
 <span class="atom-split" data-atom="052" data-title="BOOK VI (parte 9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en" data-tags="assi/time_and_death,concepts/death,concepts/suffering,forms/didactic_poem"></span>
 
 ’Twas such a manner of disease, ’twas such
@@ -19665,3 +38903,399 @@ Place their own kin, and thrust the torch beneath
 Oft brawling with much bloodshed round about
 
 Rather than quit dead bodies loved in life.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era un tipo di malattia così particolare, davvero insolito.
+
+Mortale miasma nelle terre di Cecrope.
+
+Un tempo, quelle pianure furono ridotte a ossa di morti.
+
+Le autostrade sono deserte, prive di cittadini.
+
+La città di Atene. Poiché proveniva da lontano,
+
+Nasce nelle terre d’Egitto, attraversa.
+
+Estensioni d’aria e campi fluttuanti di schiuma.
+
+Finalmente si abbatté su tutto il popolo di Pandion;
+
+E così, con le truppe, si portava la gente verso la malattia e la morte.
+
+Erano stati sopraffatti. All’inizio, avrebbero potuto resistere.
+
+Una testa mozzata in fiamme per il calore, e due occhi.
+
+Rosso per l’arrossore e lo sguardo vuoto. I loro colli.
+
+Nero all’interno, sangue vischioso e sudaticcio.
+
+E quel sentiero delimitato dalle mura, creato dalla voce dell’uomo.
+
+Era pieno di ulcere; e anche la lingua stessa.
+
+L’interprete della mente verserebbe sangue.
+
+Debilitati dai tormenti, lenti nel movimento, ruvidi al tatto.
+
+Successivamente, quando quell’influenza malefica si fu placata.
+
+Giù per la gola, attraverso il petto, scorreva tutto quanto.
+
+Anche nel cuore cupo di quei malati,
+
+Allora, davvero, tutte le barriere che delimitano la vita umana.
+
+Iniziò a cadere. Dal suo respiro.
+
+Emetterebbe un odore nauseabondo, un tanfo insopportabile.
+
+Corpi in decomposizione venivano gettati fuori dalla terra senza essere sepolti.
+
+E, ecco, da quel momento in poi, tutta la forza del corpo.
+
+E ogni capacità mentale decadrebbe, in quel momento.
+
+All’ingresso stesso della distruzione.
+
+E angoscia ansiosa, e urla, mescolate insieme.
+
+Ampi gemiti accompagnavano sempre quel percorso.
+
+Le atroci sofferenze. Notte e giorno.
+
+Continui attacchi di vomito lo tormentavano.
+
+Sempre le loro ossa e i loro arti si spezzano.
+
+Gli uomini erano già esauriti per la pura stanchezza.
+
+Eppure, su nessun corpo si poteva notare alcuna traccia.
+
+La pelle, surriscaldata al punto di ardere,
+
+Ma piuttosto, un corpo che possa essere toccato con le mani.
+
+Cresterebbe una sensazione di calore, e di conseguenza.
+
+Mostrava segni rossi in tutto il corpo, per così dire, ulcerazioni.
+
+Marchiati, come i “fuochi sacri” diffusi ovunque.
+
+Lungo i membri. Le parti interne dell’uomo.
+
+In verità, brucerebbe fino alle ossa stesse.
+
+Una fiamma, simile a quelle nei forni, avrebbe brillato intensamente.
+
+Nel ventre. Niente potrebbe essere applicato in quel luogo.
+
+Per i loro membri, abbastanza leggeri e sottili.
+
+Per un cambiamento di assistenza, ma anche per una sensazione di freschezza e una brezza leggera.
+
+Per sempre. Alcuni avrebbero gettato quelle membra.
+
+In fiamme di odio, nelle gelide correnti d’acqua.
+
+Gettare il corpo nudo nelle onde.
+
+Molti li getterebbero senza esitazione in fondo, con forza.
+
+Le pozze d’acqua, gorgoglianti con avidità.
+
+Già aperti in uno stato di stupore. Quella sete insaziabile.
+
+Quello che inumidiva i loro corpi assetati, beh, avrebbe fatto sì che.
+
+Una pioggia abbondante può sembrare composta soltanto da gocce scarse.
+
+Non c’era alcun sollievo dal tormento; i loro corpi.
+
+Disteso, privo di forze. Con labbra silenziose, piene di paura.
+
+Se la Medicina mormorasse sottovoce mentre osservava.
+
+Tante volte le persone alzano gli occhi al cielo, in segno di esasperazione.
+
+Con gli occhi spalancati, privi del sonno.
+
+I messaggeri della morte antica. E in quei mesi.
+
+Fu data molti altri segni della morte:
+
+L’intelligenza dell’anima, attraverso dolore e terrore.
+
+Disturbato, quella fronte triste, quel volto.
+
+Feroci e deliranti, quelle orecchie tormentate.
+
+Assediato da continui squilli, con il respiro affannoso e corto.
+
+O enormi e intermittenti, che inzuppano di sudore.
+
+Il bava scintilla sul collo, sgorgando in sottili getti.
+
+Impregnata del colore del croco e quindi così salata.
+
+Il colpo di tosse, appena un sibilo che usciva da una gola rauca.
+
+Sì, e i tendini delle mani dalle dita.
+
+Era certo che si sarebbero contratti, e era certo che la struttura articolata.
+
+Per rabbrividire, e perché il freddo risalga dai piedi verso l’alto.
+
+Centimetro dopo centimetro, verso l’ora suprema.
+
+Finalmente, le narici strette, la punta del naso.
+
+Un volto molto magro, occhi incavati, tempie scavate.
+
+La pelle fredda e dura, quell’espressione di terrore tremante.
+
+La carne tirata e gonfia sopra le sopracciglia,!
+
+O poco dopo, i loro corpi giacquero distesi a terra.
+
+In una morte rigida. E verso l’ottava ora.
+
+La splendente luce del sole, o al massimo.
+
+Al nono accendere della sua torcia, loro.
+
+Avrebbe dato la vita. Se mai ce ne fosse stato uno.
+
+Sebbene fossero “sfuggiti alla distruzione”, tuttavia.
+
+Lui, nei giorni successivi, fu colto da.
+
+Una distruzione graduale e una morte causate da ulceri orribili.
+
+E scariche nere dal ventre, oppure altro ancora.
+
+Attraverso le narici ostruite, qualcosa avrebbe iniziato a uscire.
+
+Molto sangue contaminato, spesso accompagnato da un dolore alla testa.
+
+Qui si concentrava tutta la forza e la vitalità di un uomo.
+
+E chi fosse sopravvissuto a quel flusso violento.
+
+Di quel sangue vile, eppure nelle sue vene scorre.
+
+E nelle sue articolazioni, e persino nei suoi genitali.
+
+Si sarebbe diffusa quella vecchia malattia. E ne esistevano alcuni, che.
+
+Temendo le porte della distruzione.
+
+Tanto, vissuto, privato dal coltello.
+
+Del membro maschile, non pochi, anche se tagliati via.
+
+Di mani e piedi, continuerebbe comunque a vivere.
+
+E alcuni di loro persero gli occhi. Oh.
+
+Un terrore della morte così intenso si era impadronito di loro.
+
+Inoltre, alcuni di loro furono dimenticati.
+
+Di tutte le cose sequestrate, loro stessi ne conoscevano l’esistenza.
+
+Non più. E sebbene i cadaveri giacessero ammucchiati uno sopra l’altro.
+
+Seppellite sulla terra, le specie di uccelli e animali.
+
+Si sarebbe forse ripreso, fuggendo in fretta per salvarsi.
+
+Quell’odore nauseabondo, o, se ne avessero assaporato l’effetto,
+
+Sarebbe destinato ad agonizzare nell’avvicinarsi alla morte. Eppure.
+
+Quasi affatto, in quei molti anni.
+
+Apparve un uccello, ma non uscì dalle foreste.
+
+Le cupe generazioni di bestie selvatiche.
+
+Morivano una dopo l’altra a causa delle malattie.
+
+Soprattutto quei cani fedeli, per le strade.
+
+Tendendo le braccia in avanti, avrebbero esalato il loro respiro con difficoltà.
+
+Affinché l’influenza del male potesse distorcere.
+
+La vita proveniva dai loro membri. E non fu trovata alcuna prova certa in merito.
+
+E principio universale di cura:
+
+Per ciò che a qualcuno aveva concesso il potere di prendere.
+
+I venti vitali dell’aria che entravano nella sua bocca.
+
+E alzare lo sguardo verso le vette del cielo.
+
+Lo stesso valeva per gli altri: la loro morte e la loro rovina erano inevitabili.
+
+In quelle questioni, o più terribili di tutte.
+
+Oh, quanto misero era tutto ciò.
+
+Chiunque si sia mai trovato nella condizione descritta da quella malattia.
+
+Intrappolati, sì, condannati a morte.
+
+Rimarrei nella disperazione, con un cuore cupo.
+
+Avrebbe, prevedendo la propria morte,
+
+Morite subito, lì e in quel momento. Perché, ecco.
+
+Nessun momento smisero di interagire l’uno con l’altro.
+
+Per contrarre la “piaga della gola”, cioè l’avidità.
+
+Come se si trattasse soltanto di greggi lanose e branchi cornuti.
+
+E questo, soprattutto, accumulerebbe morti su morti.
+
+Perché coloro che si rifiutarono di curare i propri malati.
+
+Oh, questi, troppo desiderosi di vivere, troppo spaventati dalla morte.
+
+Quindi, poco dopo, avrebbe avuto luogo l’uccisione dei Negligenti.
+
+Una visita della morte malvagia e spregevole.
+
+Abbandonati e privi di qualsiasi aiuto.
+
+Ma chi fosse rimasto lì sarebbe perito.
+
+Attraverso quella contaminazione e lo sforzo che allora.
+
+Un senso dell’onore e quella voce supplichevole.
+
+Di osservatori stanchi, mescolati al suono dei lamenti.
+
+Di persone destinate a morire, furono costrette a subirlo.
+
+Questo tipo di morte è quello che ogni anima nobile incontrerebbe.
+
+I funerali, solitari, abbandonati.
+
+Come se rivali si affrettassero a concludere la loro competizione.
+
+E gli uomini che si sforzavano di seppellirlo.
+
+Massa su massa, la folla dei loro stessi morti.
+
+E, stanco di dolore e pianto, vagò verso casa.
+
+E poi molti, per il dolore, andavano a letto.
+
+Non si trovava nemmeno una singola persona che, nonostante la malattia.
+
+Né morte, né dolore mancavano in quei tempi terribili.
+
+Attaccati.
+
+A quel punto, tutti i pastori e gli ovaioli.
+
+Sì, persino i robusti conducenti dei aratri curvi.
+
+Iniziarono ad ammalarsi e i loro corpi giacevano immobili.
+
+Rannicchiati negli angoli posteriori delle loro capanne,
+
+Condannati alla morte dallo sporcizia e dalle malattie.
+
+Oh, quante volte avresti potuto vedere.
+
+Su bambini senza vita, genitori privi di vita.
+
+O discendenti che nascono sul cadavere dei propri genitori.
+
+Cedendo la vita. E nella città si riversò.
+
+O, per lo meno in parte, dalle zone rurali.
+
+Quella tribolazione che il popolo contadino.
+
+Malati, malati, portati lì da ogni angolo.
+
+Una folla afflitta dalla peste. Si radunavano ovunque.
+
+Anche tutti gli edifici. Il che significava che, più ne esistevano, maggiori sarebbero state le morti.
+
+Raccogliere tutti quei persone ammassate in città in un unico mucchio.
+
+Ah, quante volte la sete ha spinto e trascinato molte persone.
+
+Lungo le autostrade, giacevano sparsi ovunque.
+
+Oltre alle fontane d’acqua con testa di Sileno, —
+
+Il soffio vitale venne soffocato da quel desiderio troppo intenso.
+
+Acque piacevoli. Ah, ovunque lungo il cammino.
+
+I luoghi aperti frequentati dalla gente.
+
+E lungo le autostrade, o tu che possa vedere.
+
+Di molti corpi semidefunti, le membra pendule.
+
+Ruvido e sporco, avvolto in stracci.
+
+Periscano nella più totale bruttezza, senza nulla.
+
+Ma solo pelle sulle ossa, quasi del tutto.
+
+Sepolto, in ulcere e in un fango disgustoso e osceno.
+
+Anche tutti i templi sacri delle divinità.
+
+Se la Morte fosse piena di carcasse.
+
+E ogni tempio degli Esseri Celesti rimase in piedi.
+
+Pieno di cadaveri sparsi ovunque.
+
+Luoghi dove i custodi dei santuari si erano radunati in gran numero
+
+Con molti ospiti. Per ora, non più uomini.
+
+Teneva in grande stima l’antico Dio.
+
+Il [rituale](/concepts/religion) di adorazione degli dèi: la calamità imminente
+
+Riuscì a dominare completamente la situazione. Nemmeno allora, in città.
+
+Rimanevano quei riti funebri, con i quali.
+
+Quel popolo devoto era sempre stato abituato a.
+
+Essere sepolto. Poiché tutto era ormai andato perduto.
+
+In momenti di terrore selvaggio, e in ognuno di essi.
+
+Con un dolore cupo seppellirebbe i propri morti.
+
+Come consentito dal cambiamento attuale. E sotto una pressione improvvisa.
+
+E la povertà, per molti, rappresenta un atto terribile.
+
+Spinti da una forza irresistibile, e con urla terribili.
+
+Su quei supporti utilizzati per le pire funebri aliene.
+
+Mettere i propri parenti in pericolo e gettare la torcia sotto di loro.
+
+Spesso si scatenavano liti, con molto spargimento di sangue intorno.
+
+Piuttosto che abbandonare i corpi di persone amate in vita.

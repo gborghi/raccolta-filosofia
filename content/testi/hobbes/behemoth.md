@@ -99,6 +99,74 @@ As for the Papists, they challenge this right from a text in Deut.xvii. 12, and 
 
 B.
 
+<span class="qlang-split" data-lang="it"></span>
+
+A.
+
+Se, nel tempo e nello spazio, esistessero gradi di superiorità e inferiorità, credo sinceramente che il periodo più “elevato” del tempo sia quello compreso tra il 1640 e il 1660. Chi, da quel momento, avesse potuto osservare il mondo e le azioni degli uomini, soprattutto in Inghilterra, avrebbe certamente visto ogni sorta di ingiustizia e follia che il mondo possa contenere, nonché come queste derivino dall’ipocrisia e dall’arroganza umana: l’una rappresenta una doppia forma di malvagità, l’altra una doppia forma di stupidità.
+
+B.
+
+Sarei felice di poter contemplare tale prospettiva. Voi che avete vissuto in quel tempo e in quella fase della vostra vita, quando gli uomini erano in grado di comprendere più chiaramente il bene e il male, vi prego di guidarmi, io che non posso vedere con la stessa chiarezza, indicandomi, attraverso le azioni che allora osservaste e le loro cause, motivazioni, giustizie, ordini, stratagemmi e conseguenze, la strada da seguire.
+
+A.
+
+Nel 1640, il governo d’Inghilterra era monarchico; il re che regnava, Carlo I, deteneva la [%sovranità](/positions/sovereignty) per diritto di discendenza, una linea dinastica che si estendeva per oltre seicento anni. Egli era anche re di Scozia e, a partire dal suo antenato Enrico II, re d’Irlanda. Quest’ultimo non possedeva alcuna virtù, né fisica né mentale, e il suo unico scopo era adempiere ai propri doveri verso Dio governando bene i suoi sudditi.
+
+B.
+
+Come avrebbe potuto allora fallire, disponendo in ogni contea di così numerosi soldati addestrati – che insieme avrebbero formato un esercito di 60.000 uomini – oltre a diverse riserve di munizioni situate in luoghi fortificati?
+
+A.
+
+Se quei soldati fossero stati, come avrebbero dovuto essere loro e tutti gli altri sudditi del suo regno, all’ordine di Sua Maestà, la pace e la felicità dei tre regni sarebbero continuate così come erano state lasciate dal Re Giacomo. Ma il popolo era generalmente corrotto, e le persone disobbedienti consideravano i migliori patrioti come nemici del regno.
+
+B.
+
+Certo, c’erano abbastanza uomini, oltre a quelli animati da cattive intenzioni, per formare un esercito sufficiente a impedire al popolo di unirsi in un gruppo capace di opporgli resistenza.
+
+A.
+
+In verità, penso che se il Re avesse avuto abbastanza denaro, avrebbe potuto disporre di un numero sufficiente di soldati in Inghilterra. Poiché pochissime persone comuni erano realmente interessate a una o all’altra delle due cause in gioco; molte, invece, avrebbero preso qualsiasi parte pur di ricevere denaro o bottino. Tuttavia, il tesoro reale era estremamente esiguo, e i nemici del Re, che fingevano di promuovere l’alleggerimento delle tasse per il popolo e altre argomentazioni simili, avevano il controllo dei fondi della città di Londra, di molte altre città e comunità inglesi, nonché di numerose persone private.
+
+B.
+
+Ma come mai le persone sono arrivate a corrompersi così tanto? E di che tipo di persone si trattava, quelle che le hanno indotte a compiere tali azioni?
+
+A.
+
+I seduttori erano di varie tipologie. Alcuni erano ministri; si autodefinivano ministri di Cristo e, a volte, nei loro sermoni al popolo, si presentavano come ambasciatori di Dio; fingevano di avere il diritto, conferito da Dio, di governare ogni persona all’interno della propria parrocchia, e la propria assemblea come l’intera nazione.
+
+In secondo luogo, esisteva un numero molto grande di persone che, sebbene il potere del Papa in Inghilterra, sia temporale che ecclesiastico, fosse stato abolito per decreto parlamentare, continuavano a credere che noi dovessimo essere governati dal Papa, il quale sostenevano essere il vicario di Cristo e, quindi, per diritto di Cristo, il sovrano di tutto il popolo cristiano. Queste persone erano conosciute come Papisti; mentre i ministri di cui ho parlato prima venivano comunemente chiamati Presbiteriani.
+
+In terzo luogo, ce n’erano molti che, all’inizio delle difficoltà, non furono scoperti, ma poco dopo si dichiararono a favore della libertà religiosa, e tra di loro c’erano persone con opinioni diverse. Alcuni di loro, poiché desideravano che tutte le congregazioni fossero libere e indipendenti l’una dall’altra, furono chiamati “Indipendentisti”. Altri, che ritenevano che il battesimo dei bambini fosse inefficace, poiché non si capiva in cosa essi venissero battezzati, furono quindi chiamati “Anabattisti”. Ancora altri, che sostenevano che il regno di Cristo dovesse iniziare in quel momento sulla terra, furono chiamati “Sostenitori del Quinto Regno”; inoltre, esistevano altre sette, come i Quaccheri e gli Adamiti, i cui nomi e dottrine particolari non ricordo bene. E questi furono gli avversari che si opposero a Sua Maestà a causa di interpretazioni personali della [Scrittura](/concepts/revelation), accessibili a chiunque nella propria lingua madre.
+
+In quarto luogo, esisteva un numero estremamente elevato di persone di buona indole, le quali, fin da giovani, avevano letto i libri scritti da famosi personaggi delle antiche repubbliche greche e romane riguardo alla loro organizzazione politica e alle loro grandi imprese. In quei libri il governo popolare veniva esaltato con il glorioso nome di “libertà”, mentre la monarchia veniva denigrata con il nome di “tirannia”. Per questo motivo, queste persone svilupparono una profonda [affezione](/concepts/charity) per i sistemi politici che descrivevano. Da questi uomini fu eletta la maggior parte dei membri della Camera dei Comuni; e anche se non rappresentavano la stragrande maggioranza, grazie alla loro eloquenza riuscivano sempre a influenzare il resto dei componenti del parlamento.
+
+In quinto luogo, la città di Londra e altre grandi città commerciali, ammirando la prosperità dei Paesi Bassi dopo che questi si erano ribellati contro il loro monarca, il Re di Spagna, erano propense a ritenere che un analogo cambiamento di governo anche qui potesse portare allo stesso tipo di prosperità.
+
+In sesto luogo, c’era un gran numero di persone che avevano sprecato le proprie fortune o ritenevano che queste fossero troppo scarse rispetto ai meriti che credevano di possedere; inoltre, ce n’erano molti altri che disponevano di corpi forti, ma non trovavano modi onesti per guadagnarsi da vivere. Questi desideravano ardentemente una guerra, nella speranza di potersi mantenere in futuro scegliendo con abilità la fazione da sostenere; per questo motivo, nella maggior parte dei casi prestavano servizio sotto coloro che disponevano delle maggiori risorse finanziarie.
+
+Infine, la gente in generale era così ignorante riguardo ai propri doveri, che probabilmente nessuno su diecimila sapeva quale diritto un uomo avesse di comandarlo, o quale necessità ci fosse di un re o di una [repubblica](/concepts/commonwealth), per cui fosse costretto a rinunciare al proprio denaro contro la propria volontà; anzi, si consideravano padroni assoluti di tutto ciò che possedevano, e ritenevano che nulla potesse essere loro tolto in nome della sicurezza pubblica senza il loro consenso. Un re, pensavano, non era altro che un titolo di massimo onore; gentiluomini, cavalieri, baroni, conti, duchi erano soltanto gradini da salire grazie alla ricchezza. Non avevano alcun criterio di equità, se non precedenti e [consuetudini](/concepts/custom); inoltre, si riteneva che colui che fosse più contrario all’erogazione di sussidi o altre spese pubbliche fosse il più saggio e adatto a essere eletto per un Parlamento.
+
+B.
+
+In una tale costituzione delle persone, penso che il Re sia già stato spodestato dal suo potere, tanto che non è nemmeno necessario che si armino per difenderlo. Non riesco infatti a immaginare in alcun modo come il Re possa resistere loro.
+
+A.
+
+C’erano davvero molte difficoltà in questa faccenda. Ma su questo punto ne saprete di più proseguendo nella lettura di questa narrazione.
+
+B.
+
+Ma desidero innanzitutto conoscere i diversi motivi addotti sia dal Papa che dai Presbiteriani per rivendicare il diritto di governarci, come effettivamente fanno; e successivamente capire da dove e quando siano emerse queste pretese del cosiddetto “Long Parliament” riguardo alla democrazia.
+
+A.
+
+Per quanto riguarda i Papisti, essi contestano questo diritto basandosi su un testo del Deuteronomio XVII,12 e su altri passaggi simili, secondo l’antica traduzione latina che recita: “Chi, per orgoglio, rifiuterà di obbedire all’ordine di quel sacerdote che in quel momento servirà davanti al Signore tuo Dio, sarà punito con la morte secondo la sentenza del giudice”. Poiché, come i Giudei erano il popolo di Dio allora, così tutta la Cristianità è il popolo di Dio oggi, ne deducono che anche il Papa, che essi considerano l’alto sacerdote di tutto il popolo cristiano, debba essere obbedito in tutti i suoi decreti da tutti i cristiani, altrimenti si incorre nella pena di morte. Inoltre, poiché nel Nuovo Testamento (Matteo XXVIII,18-20) Cristo afferma: “A me è data tutta potestà in cielo e in terra; andate dunque e insegnate a tutte le nazioni, battezzandole nel nome del Padre, del Figlio e dello Spirito Santo, e insegnate loro a osservare tutte queste cose che vi ho comandato”, ne concludono che gli ordini degli apostoli debbano essere obbediti, e di conseguenza le nazioni siano tenute sotto il loro governo, in particolare da quello degli apostoli, San Pietro, e dai suoi successori, i Papi di Roma.
+
+B.
+
 <span class="atom-split" data-atom="002" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 2)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 For the text in the Old Testament, I do not see how the commandment of God to the Jews, to obey their priests, can be interpreted to have the like force in the case of other nations Christian, more than upon nations unchristian (for all the world are God’s people); unless we also grant, that a king cannot of an infidel be made Christian, without making himself subject to the laws of that apostle, or priest, or minister, that shall convert him. The Jews were a peculiar people of God, a sacerdotal kingdom, and bound to no other law but what first Moses, and afterwards every high-priest, did go and receive immediately from the mouth of God in Mount Sinai, in the tabernacle of the ark, and in the sanctum sanctorum of the temple. And for the text in St. Matthew, I know the words in the Gospel are not go teach, but go and make disciples; and that there is a great difference between a subject and a disciple, and between teaching and commanding. And if such texts as these must be so interpreted, why do not Christian kings lay down their titles of majesty and [sovereignty](/positions/sovereignty), and call themselves the Pope’s lieutenants? But the doctors of the Romish Church seem to decline that title of absolute power, in their distinction of power spiritual and temporal; but this distinction I do not very well understand.
@@ -189,6 +257,96 @@ The meaning of the word heresy, is by law declared in an Act of Parliament in th
 
 B.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Per quanto riguarda il testo dell’Antico Testamento, non vedo come il comandamento di Dio rivolto ai Giudei, di obbedire ai loro sacerdoti, possa essere interpretato come avente lo stesso valore anche per le altre nazioni cristiane, piuttosto che per quelle non cristiane (poiché tutto il mondo appartiene al popolo di Dio); a meno che non si ammetta anche che un re non possa essere reso cristiano da un infedele senza che quest’ultimo si sottometta alle leggi di quell’apostolo, di quel sacerdote o di quel ministro che lo convertirà. I Giudei erano un popolo particolare di Dio, un regno sacerdotale, vincolati soltanto a quelle leggi che Mosè, e in seguito ogni sommo sacerdote, ricevettero direttamente dalla bocca di Dio sul Monte Sinai, nel Tabernacolo dell’Arca e nel Santuario del Tempio. Per quanto riguarda il testo di San Matteo, so che le parole del Vangelo non dicono “andate a insegnare”, ma “andate a fare discepoli”; inoltre c’è una grande differenza tra un suddito e un discepolo, così come tra insegnare e comandare. E se testi del genere devono essere interpretati in questo modo, perché allora i re cristiani non abbandonano i loro titoli di maestà e sovranità, chiamandosi invece luogotenenti del Papa? Tuttavia i dottori della Chiesa Romana sembrano rifiutare tale titolo di potere assoluto, distinguendo tra potere spirituale e potere temporale; ma questa distinzione non la comprendo del tutto.
+
+A.
+
+Con il termine “potere spirituale” intendono il potere di stabilire i punti della fede, di giudicare riguardo ai doveri morali nel cuore della coscienza, nonché il potere di punire coloro che non osservano i loro precetti attraverso la scomunica. Affermano che questo potere il Papa lo possieda direttamente da Cristo, senza dipendere da alcun re o assemblea sovrana; coloro che sono scomunicati sono infatti suoi sudditi. Per quanto riguarda il “potere temporale”, cioè quello di giudicare e punire le azioni che violano le leggi civili, sostengono di non rivendicarlo direttamente, ma solo indirettamente: vale a dire, nella misura in cui tali azioni possano ostacolare o promuovere la religione e i buoni costumi, concetti che indicano quando parlano di “aspetti spirituali”.
+
+B.
+
+Quale potere, dunque, rimane ai Re e ad altri sovrani civili, che il Papa non possa rivendicare per sé in materia spirituale?
+
+A.
+
+Nessuno, o molto poco. E questo potere non è solo rivendicato dal Papa in tutto il Cristianesimo; anche alcuni dei suoi vescovi, nelle rispettive diocesi, lo affermano “jure divino”, cioè direttamente in nome di Cristo, senza derivarlo dal Papa.
+
+B.
+
+Ma che cosa succede se un uomo rifiuta di obbedire a questo presunto potere del Papa e dei suoi vescovi? Quale danno può causargli l’espulsione dalla Chiesa, soprattutto se è sottoposto ad un altro sovrano?
+
+A.
+
+Un danno molto grave. Poiché, attraverso la interpretazione che il Papa o il vescovo ne danno al potere civile, tale atto verrà punito a dovere.
+
+B.
+
+In quel caso, chi osasse scrivere o parlare in difesa del potere civile sarebbe stato punito proprio da colui i cui diritti cercava di proteggere, proprio come Uzza, ucciso perché aveva osato, senza essere stato chiamato, intervenire per impedire che l’Arca cadesse. Ma se un intero popolo si [ribellasse](/positions/revolution) improvvisamente contro il Papa, quale effetto avrebbe avuto l’anatema su quel popolo?
+
+A.
+
+Dopotutto, non dovrebbe più esserci alcuna autorità che li guidi, almeno da parte dei preti del Papa. Inoltre, il Papa non avrebbe più nulla a che fare con loro: li abbandonerebbe, e allora sarebbero nella stessa situazione in cui una nazione venisse abbandonata dal proprio re e lasciata a governarsi da sola, o a essere guidata da chiunque volesse.
+
+B.
+
+Ciò non verrebbe considerato tanto una punizione per il popolo, quanto piuttosto per il Re; pertanto, quando un Papa scomunica un’intera nazione, penso che in realtà si scomuni più lui stesso che loro. Ma vi prego, ditemi: quali erano i diritti che il Papa pretendeva di avere nei regni degli altri principi?
+
+A.
+
+Innanzitutto, l’esenzione di tutti i sacerdoti, frati e monaci, nelle cause penali, dalla giurisdizione dei giudici civili. In secondo luogo, la concessione di benefici a chiunque desiderasse, sia nativo che straniero, nonché l’estorsione di decime, primizie e altre tasse. Terzo, il diritto di ricorrere a Roma in tutte le cause nelle quali la Chiesa potesse rivendicare di avere interesse. Quarto, il ruolo di giudice supremo per quanto riguarda la legittimità dei matrimoni, cioè per l’ereditarietà dei re, nonché la competenza su tutte le cause relative ad adulterio e fornicazione.
+
+B.
+
+Bene. Un monopolio sulle donne.
+
+A.
+
+In quinto luogo, il potere di esentare i sudditi dai loro doveri e dalle loro giuramenti di fedeltà nei confronti dei loro sovrani legittimi, qualora il Papa ritenesse opportuno farlo al fine di estirpare l’eresia.
+
+B.
+
+Questo potere di esentare i sudditi dall’obbedienza, così come quello di giudicare i comportamenti e le dottrine altrui, rappresenta una [sovranità](/positions/sovereignty) assoluta, nella misura in cui tale cosa sia possibile; di conseguenza, deve esserci “due regni” all’interno della stessa nazione, e nessuno può sapere a quale dei suoi padroni debba obbedire.
+
+A.
+
+Per quanto mi riguarda, preferirei obbedire a colui che ha il diritto di stabilire leggi e infliggere punizioni, piuttosto che a colui che si limita a pretendere il diritto di formulare regole, ma non il diritto di intervenire con la forza o di punire in altro modo se non attraverso l’escomunione.
+
+B.
+
+Ma il Papa finge anche che i suoi decreti siano leggi; e per quanto riguarda le punizioni, esiste forse qualcosa di più grave dell’espulsione dalla Chiesa? Ammettendo che sia vero, come afferma il Papa, che chi muore in stato di scomunica vada all’inferno. Ma questa ipotesi, a quanto pare, voi non la credete; altrimenti preferireste obbedire al Papa, che potrebbe condannare il vostro corpo e la vostra anima all’inferno, piuttosto che al Re, che può soltanto uccidere il corpo.
+
+A.
+
+Hai ragione. Sarebbe davvero molto ingiusto da parte mia credere che tutti gli inglesi, ad eccezione di pochi papisti che sono stati considerati eretici sin dalla Riforma della Chiesa in Inghilterra, debbano essere condannati all’inferno.
+
+B.
+
+Ma per coloro che oggi vengono escomunicati nella Chiesa d’Inghilterra, non pensate anche voi che siano dannati?
+
+A.
+
+Senza dubbio, colui che muore nel peccato senza pentimento è dannato; e colui che viene scomunicato per disobbedienza alle leggi del Re, sia spirituali che temporali, lo è a causa di un peccato. Pertanto, se muore in stato di scomunica e senza desiderio di riconciliazione, muore impenitente. Ora capite quale sia la differenza. Ma morire in disobbedienza ai precetti e alle dottrine di coloro che non hanno alcuna autorità o giurisdizione su di noi è tutta un’altra cosa, e non comporta alcun pericolo del genere.
+
+B.
+
+Ma qual è questa eresia che la Chiesa di Roma perseguita con tanta crudeltà, al punto da deporre i re che, quando ne vengono ordinati, non espellono tutti gli eretici dai loro domini?
+
+A.
+
+“Eresia” è una parola che, quando viene usata senza passione, indica semplicemente un’opinione personale. Per questo motivo le diverse sette dei filosofi antichi – gli Accademici, i [Peripatetici](/schools/lyceum), gli Epicurei, gli Stoici, ecc. – venivano definite eresie. Tuttavia, nella Chiesa cristiana, il significato di questa parola includeva un’opposizione peccaminosa a colui che era il principale giudice delle dottrine al fine della salvezza delle anime umane; pertanto, si può dire che l’eresia abbia lo stesso rapporto con il potere spirituale quanto la ribellione ha con il potere temporale, e sia quindi degna di essere perseguitata da colui che desidera preservare il potere spirituale e il dominio sulle coscienze umane.
+
+B.
+
+Sarebbe molto opportuno che l’eresia fosse definita da qualche legge specifica, e che venissero individuate con precisione le opinioni per cui una persona potesse essere condannata e punita come eretica; altrimenti, non solo persone di scarsa intelligenza, ma anche i cristiani più saggi e devoti potrebbero cadere nell’eresia senza alcuna intenzione di opporsi alla Chiesa. Le Scritture, infatti, sono difficili da interpretare, e le diverse interpretazioni dipendono dalle caratteristiche personali di ciascuno.
+
+A.
+
+Il significato della parola “eresia” è stato ufficialmente definito da un atto del Parlamento nel primo anno del regno della Regina Elisabetta; tale atto stabiliva che coloro i quali, per decreto reale, detenevano l’autorità spirituale – ovvero il High Commission – non avessero il potere di dichiarare eresia alcuna questione o causa, se non quelle che in precedenza fossero state riconosciute come tali sulla base delle Scritture canoniche, dei primi quattro Concili generali, o di altri concili generali nei quali tale definizione fosse stata esplicitamente enunciata. Inoltre, tale autorità sarebbe stata esercitata anche in futuro dal Parlamento di questo regno, con il consenso del clero riunito in assemblea.
+
+B.
+
 <span class="atom-split" data-atom="003" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 3)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 It seems therefore, if there arise any new error that hath not yet been declared heresy, (and many such may arise), it cannot be judged heresy without a Parliament. For how foul soever the error be, it cannot have been declared heresy neither in the Scriptures nor in the Councils; because it was never before heard of. And consequently there can be no error, unless it fall within the compass of blasphemy against God or treason against the King, for which a man can in equity be punished. Besides, who can tell what is declared by the [Scripture](/concepts/revelation), which every man is allowed to read and interpret to himself? Nay more, what Protestant, either of the laity or clergy, if every general Council can be a competent judge of heresy, is not already condemned? For divers Councils have declared a great many of our doctrines to be heresy, and that, as they pretend, upon the authority of the Scriptures.
@@ -259,6 +417,76 @@ What influence could that have upon the power of Kings?
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sembra quindi che, qualora sorgesse qualche nuovo errore che non sia ancora stato dichiarato eresia (e ne possono sorgere molti), tale errore non possa essere considerato eresia senza l’intervento di un Parlamento. Perché, per quanto grave possa essere quell’errore, esso non può essere stato definito eresia né nelle Scritture né nei Concili; poiché prima d’allora non era mai stato menzionato. Di conseguenza, non può esistere alcun errore che non rientri nella categoria della blasfemia contro Dio o della tradizione contro il Re, reati per i quali una persona possa essere giustamente punita. Inoltre, chi può stabilire ciò che viene dichiarato dalle [Scritture](/concepts/revelation), che ogni uomo ha il diritto di leggere e interpretare a proprio piacimento? Ancora più: quale protestante, sia laico che ecclesiastico, potrebbe non essere già condannato se si ritenesse che ogni Concilio generale abbia il potere di giudicare l’eresia? Infatti, diversi Concili hanno dichiarato molte delle nostre dottrine eresie, e questo, a loro dire, sulla base dell’autorità delle Scritture.
+
+A.
+
+Quali sono quei punti che i primi quattro Concili Generali hanno dichiarato eresie?
+
+B.
+
+Il primo Concilio generale, tenutosi a Nicea, dichiarò eresia qualsiasi dottrina contraria alla Crede di Nicea, in particolare l’eresia di Ariano, che negava la divinità di Cristo. Il secondo Concilio generale, tenutosi a Costantinopoli, considerò eresia la dottrina di Macedonio, secondo cui lo Spirito Santo fosse stato creato. Il terzo Concilio, riunitosi a Efeso, condannò la dottrina di Nestorio, che sosteneva l’esistenza di due persone in Cristo. Il quarto Concilio, tenutosi a Calcedonia, condannò l’errore di Eutiche, secondo cui in Cristo esistesse una sola natura. Non conosco altri punti condannati in questi quattro Concili, se non quelli relativi alla governance della Chiesa o dottrine simili insegnate da altri in termini diversi. Tutti questi Concili furono convocati dagli Imperatori, e i loro decreti vennero confermati su richiesta stessa dei Concili stessi.
+
+A.
+
+Da ciò si evince che sia la convocazione del Concilio che la conferma della sua dottrina e del suo sistema di governo ecclesiastico non avevano alcuna forza obbligatoria se non quella derivante dall’autorità dell’Imperatore. Come mai, allora, essi assumono ora un potere legislativo e affermano che i loro canoni siano leggi? Quel testo – “A me è stato dato tutto il potere in cielo e in terra” – aveva allora lo stesso valore che ha oggi, e conferiva ai Concili un potere legislativo non solo sui cristiani, ma su tutte le nazioni del mondo.
+
+B.
+
+Dicono di no; poiché il potere che pretendono di avere deriva dal fatto che, quando un re passava dal paganesimo al cristianesimo, con quella stessa sottomissione al vescovo che lo aveva convertito, si sottometteva al governo di quel vescovo e diventava uno dei suoi fedeli; quindi, tale potere non poteva essere esercitato su alcuna nazione che non fosse cristiana.
+
+A.
+
+Sylvester, che era Papa di Roma al tempo di Costantino il Grande e fu da lui convertito, disse in anticipo all’Imperatore, suo nuovo discepolo, che se diventava cristiano doveva sottomettersi alla autorità del Papa?
+
+B.
+
+Non credo. Infatti, è molto probabile che, se gli avesse detto chiaramente o semplicemente gli avesse fatto sospettare una cosa del genere, lui non sarebbe affatto stato un cristiano, oppure lo sarebbe stato solo in apparenza.
+
+A.
+
+Ma se non glielo avesse detto chiaramente e apertamente, ciò sarebbe stato un atto malvagio, non solo da parte di un prete, ma di qualsiasi cristiano. E questa loro pretesa di derivare il proprio potere dal consenso dell’Imperatore si basa soltanto sul fatto che non osano sfidare alcun potere legislativo, né considerare i propri canoni come leggi in nessun regno del Cristianesimo, se non nei limiti stabiliti dai re. Ma in Perù, quando Atabalipa era re, un frate gli disse che Cristo, essendo Re di tutto il mondo, aveva concesso al Papa il potere di governare tutti i regni esistenti, e che il Papa aveva assegnato il Perù all’Imperatore Carlo V, richiedendo ad Atabalipa di rinunciarvi; egli rifiutò, e per questo fu catturato dall’esercito spagnolo presente sul posto e ucciso. Da questo si può vedere quanto grandi siano le loro pretese, quando hanno il potere di realizzarle.
+
+B.
+
+Quando iniziarono i Papi ad assumersi questa autorità per primi?
+
+A.
+
+Dopo che l’inondazione causata dal popolo settentrionale aveva invaso le regioni occidentali dell’impero e conquistato l’Italia, il popolo di Roma si sottomise, sia in ambito temporale che spirituale, al proprio vescovo; fu allora che il Papa divenne per la prima volta un principe temporale, senza più temere gli imperatori che vivevano lontano a Costantinopoli. Fu in questo periodo che il Papa, facendo leva sul proprio potere spirituale, iniziò ad usurpare i diritti temporali di tutti gli altri principi d’Occidente; continuò così ad accrescere il proprio potere fino al punto più alto nei trecento anni circa che trascorsero tra l’VIII e l’XI secolo, cioè tra Papa Leone III e Papa Innocenzo III. Infatti, in quel periodo Papa Zaccaria I depose Chilperico, allora re di Francia, e concesse il regno a uno dei suoi sudditi, Pepino; Pepino, a sua volta, strappò ai Longobardi una grande parte del loro territorio e la donò alla Chiesa. Poco dopo, quando i Longobardi riconquistarono le proprie terre, Carlo Magno le riprese e le restituì di nuovo alla Chiesa; Papa Leone III, infine, nominò Carlo imperatore.
+
+B.
+
+Ma quale diritto aveva allora il Papa di pretendere la creazione di un Imperatore?
+
+A.
+
+Si fingeva di avere il diritto di essere il viceré di Cristo; e ciò che Cristo poteva dare, anche il suo viceré poteva darlo; e voi sapete che Cristo era il Re di tutto il mondo.
+
+B.
+
+Sì, come Dio; ed è per questo che concede tutti i regni del mondo, i quali tuttavia derivano dal consenso delle persone, sia per paura che per speranza.
+
+A.
+
+Ma questo dono dell’impero veniva concesso in modo particolare, proprio come al tempo di Mosè fu affidata a lui la guida di Israele; o meglio, come a Giosuè, affinché potesse agire davanti al popolo secondo le indicazioni del sommo sacerdote. L’impero veniva quindi considerato un dono concesso a condizione che l’imperatore fosse guidato dal Papa. Quando il Papa gli conferiva gli ornamenti regali, tutto il popolo esclamava “Deus dat”, cioè “È Dio che lo dona”; e l’imperatore accettava volentieri tale dono. Da quel momento in poi, tutti o quasi i re cristiani inclusero nelle loro titolazioni le parole “Dei [gratia](/concepts/grace)”, ovvero “per il dono di Dio”; inoltre, i loro successori continuarono a ricevere la corona e lo scettro da un vescovo.
+
+B.
+
+È certamente una molto buona [consuetudine](/concepts/custom) che i Re vengano ricordati per il dono grazie al quale regnano; ma da questa consuetudine non si può dedurre che ricevano il regno attraverso la mediazione del Papa o di qualsiasi altro clero, poiché anche i Papi stessi ricevettero la loro carica dall’Imperatore. Il primo a essere eletto Vescovo di Roma dopo gli Imperatori fu un cristiano, e senza il consenso dell’Imperatore; egli si scusò con lettere all’Imperatore, sostenendo che il popolo e il clero di Roma lo avevano costretto ad accettare quella carica e pregandolo di confermarla, cosa che l’Imperatore fece, sebbene deplorasse tale comportamento e vietò che si ripetesse in futuro. L’Imperatore era Lotario, e il Papa Calisto I.
+
+A.
+
+Da ciò si evince che l’Imperatore non riconobbe mai che questo dono di Dio fosse in realtà un dono del Papa, ma sosteneva invece che il Papato stesso fosse un dono dell’Imperatore. Tuttavia, col passare del tempo, a causa della negligenza degli Imperatori – poiché la grandezza dei re li rende incapaci di addentrarsi nelle oscure e complesse dinamiche di una chiesa ambiziosa – questi trovarono modi per far credere al popolo che esistesse un potere nel Papa e nel clero al quale dovevano sottomettersi, piuttosto che alle ordini dei loro stessi re, qualora si verificasse una controversia. A tale scopo idearono e decretarono molti nuovi articoli di fede, volti a ridurre l’autorità dei re, a separare questi dai loro sudditi e ad avvicinare ulteriormente i sudditi alla Chiesa di Roma; articoli che in realtà non si trovavano affatto nelle Scritture, o comunque non erano ben fondati su di esse. Ad esempio, fu stabilito che fosse illegale per un sacerdote sposarsi.
+
+B.
+
+Quale influenza potrebbe avere ciò sul potere dei re?
+
+A.
+
 <span class="atom-split" data-atom="004" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 4)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 Do you not see, that by this the King must of necessity either want the priesthood, and therewith a great part of the reverence due to him from the most religious part of his subjects, or else want lawful heirs to succeed him: by which means, being not taken for the head of the Church, he was sure, in any controversy between him and the Pope, that his subjects would be against him?
@@ -305,6 +533,52 @@ A.
 
 I think that neither the preaching of friars nor monks, nor of parochial priests, tended to teach men what, but whom to believe. For the power of the mighty hath no foundation but in the opinion and belief of the people. And the end which the Pope had in multiplying sermons, was no other but to prop and enlarge his own authority over all Christian Kings and States.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Non capite forse che, in questo modo, il Re è costretto o a rinunciare al sacerdozio e, di conseguenza, a gran parte del rispetto che gli dovrebbe essere tributato dalla parte più devota dei suoi sudditi, oppure a non avere eredi legittimi che lo succedano? In tal caso, essendo considerato non il capo della Chiesa, è certo che, in qualsiasi controversia con il Papa, i suoi sudditi si schiererebbero contro di lui.
+
+B.
+
+Non è forse un re cristiano, oggi, tanto quanto un vescovo, proprio come i re pagani lo erano un tempo? Infatti, tra di loro il nome “vescovo” era comune a tutti i re. Non è forse lui stesso un vescovo, a cui Dio ha affidato la responsabilità di tutte le anime dei suoi sudditi, sia laici che chierici? E sebbene egli sia in relazione al nostro Salvatore, che è il pastore supremo, non è forse anch’egli soltanto una “pecora” rispetto ai suoi sudditi, che sono tutti pecore, sia laici che chierici, e lui l’unico pastore? E poiché un vescovo cristiano non è altro che un cristiano investito del potere di governare il clero, ne consegue che ogni re cristiano non è soltanto un vescovo, ma anche un arcivescovo, e tutto il suo regno rappresenta la sua diocesi. E anche se si ammettesse che l’imposizione delle mani da parte di un sacerdote sia necessaria, poiché i re hanno comunque il potere di governare il clero, che sono i loro sudditi già prima del battesimo; il battesimo stesso, con cui viene accolto come cristiano, costituisce una sufficiente “imposizione delle mani”, in modo che, mentre prima non era un vescovo, ora è un vescovo cristiano.
+
+A.
+
+Per quanto mi riguarda, sono d’accordo con te: questa proibizione dei matrimoni tra sacerdoti apparve più o meno nello stesso periodo di Papa Gregorio VII e di Guglielmo I, re d’Inghilterra; in questo modo, il Papa aveva in Inghilterra, sia tra i sacerdoti secolari che quelli regolari, un gran numero di giovani scapoli a sua disposizione.
+
+In secondo luogo, si riteneva che la confessione auricolare a un prete fosse necessaria per la salvezza. È vero che, prima di quel tempo, la confessione a un prete era pratica comune e veniva solitamente resa per iscritto da colui che confessava. Tuttavia, questa abitudine fu abbandonata intorno al periodo del re Edoardo III; i preti furono incaricati di ricevere le confessioni direttamente dalla bocca dei fedeli. Le persone credevano generalmente che, senza la confessione e l’assoluzione prima della morte, non fosse possibile essere salvati; inoltre, ritenevano che, avendo ricevuto l’assoluzione da un prete, non potessero essere dannati. Da ciò si può comprendere quanto ogni individuo rispettasse il Papa e il clero, molto più di quanto rispettasse il re; inoltre, si può capire quale inconveniente rappresentasse per lo Stato che i suoi sudditi confidassero i propri pensieri segreti a spie.
+
+B.
+
+Sì, proprio come la tortura eterna è più terribile della morte, allo stesso modo temerebbero il clero più del Re.
+
+A.
+
+E sebbene forse il clero romano non affermi che un sacerdote abbia il potere di perdonare i peccati in modo assoluto, ma soltanto a condizione di pentimento, tuttavia il popolo non fu mai istruito in questo senso; gli venne lasciato credere che, ogni volta che riceveva l’assoluzione, tutti i suoi peccati precedenti venissero cancellati, purché si compiesse la penitenza che egli considerava come segno di pentimento. Nello stesso periodo iniziò a essere dibattuto il concetto della transustanziazione: da tempo si discuteva su quale modo un uomo potesse mangiare il corpo del nostro Salvatore Gesù Cristo, poiché si trattava di un argomento molto difficile da comprendere e immaginare chiaramente; ma ora divenne assolutamente chiaro che il pane veniva trasformato nel corpo di Cristo, cessando così di essere pane per diventare carne.
+
+B.
+
+Sembra quindi che Cristo avesse molti corpi e fosse contemporaneamente in tutti i luoghi in cui vi erano fedeli che partecipavano ai riti religiosi. Penso che all’epoca i sacerdoti fossero così sfrenati da insultare non solo la semplicità delle persone comuni, ma anche quella di re e dei loro consiglieri.
+
+A.
+
+Ora mi trovo in una fase di narrazione, non di dibattito; pertanto vi chiedo di considerare, in questo momento, soltanto l’effetto che questa dottrina avrebbe sui re e sui loro sudditi, in relazione al clero – il quale, con un semplice pezzo di pane, fu in grado di realizzare il corpo del nostro Salvatore e, così facendo, di salvare le anime delle persone nel momento della morte.
+
+B.
+
+Per quanto mi riguarda, questo avrebbe su di me un effetto determinante: mi farebbe considerarli dei, e li rispetterei con timore, proprio come rispetto Dio stesso se fosse visibilmente presente.
+
+A.
+
+Oltre a questi e ad altri articoli volti a sostegnere l’autorità del Papa, essi possedevano molte altre norme ecclesiastiche che contribuivano allo stesso scopo; ne menzionerò soltanto quelle introdotte nello stesso periodo. All’epoca fu infatti istituito l’ordine dei frati predicatori, i quali viaggiavano da un luogo all’altro con il permesso di predicare nelle congregazioni che desideravano, e avevano la certezza di inculcare nel popolo soltanto ciò che potesse rafforzare l’obbedienza alla Chiesa di Roma; al contrario, nulla che potesse favorirla nei confronti del potere civile. Inoltre, questi frati si avvicinavano segretamente a donne e uomini di scarsa capacità di giudizio, rafforzando la loro fedeltà al Papa e incoraggiandoli, in caso di malattia, a contribuire finanziariamente o a costruire opere religiose o altre attività pie che potessero essere utili per la remissione dei loro peccati.
+
+B.
+
+Non ricordo di aver mai letto di alcun regno o stato al mondo in cui a un privato fosse concesso il diritto di radunare il popolo e tenere frequentemente discorsi davanti a esso, senza prima informarne lo [stato](/concepts/state), tranne che nel Cristianesimo. Credo che i re pagani avessero previsto che pochi oratori del genere potessero causare grandi disordini. Infatti, Mosè ordinò di leggere e spiegare le Scritture nelle sinagoghe ogni sabato; ma all’epoca quelle Scritture non erano altro che le leggi della nazione, rivelate loro direttamente da Mosè stesso. Credo che non ci sarebbe alcun danno se anche le leggi d’Inghilterra venissero spesso lette e commentate nelle varie congregazioni degli inglesi, in momenti prestabiliti, affinché tutti sapessero cosa fare; dopotutto, già sanno cosa credere.
+
+A.
+
+Penso che né le prediche dei frati né quelle dei monaci, né quelle dei preti parrocchiali, avessero lo scopo di insegnare alle persone cosa credere, ma piuttosto in chi credere. Infatti, il potere dei potenti non ha alcuna base se non nell’opinione e nella fede del popolo. E lo scopo che il Papa aveva nel pronunciare tante prediche non era altro che quello di rafforzare e ampliare la propria autorità su tutti i re e gli stati cristiani.
+
 <span class="atom-split" data-atom="005" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 5)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 Within the same time, that is, between the time of the Emperor Charles the Great and of King Edward the Third of England, began their second polity; which was, to bring religion into an art, and thereby to maintain all the decrees of the Roman Church by disputation; not only from the Scriptures, but also from the philosophy of [Aristotle](/figures/aristotle), both moral and natural. And to that end the Pope exhorted the said Emperor by letter, to erect schools of all kinds of literature; and from thence began the institution of universities; for not long after, the universities began in Paris and in Oxford. It is true, that there were schools in England before that time, in several places, for the instruction of children in the Latin tongue, that is to say, in the tongue of the Church. But for an university of learning, there was none erected till that time; though it be not unlikely there might be then some that taught philosophy, logic, and other arts, in divers monasteries, the monks having little else to do but to study. After some colleges were built to that purpose, it was not long time before many more were added to them, by the devotion of princes and bishops, and other wealthy men: and the discipline therein was confirmed by the Popes that then were; and abundance of scholars sent thither by their friends to study, as to a place from whence the way was open and easy to preferment both in Church and [Commonwealth](/concepts/commonwealth). The profit the Church of Rome expected from them, and in effect received, was the maintenance of the Pope’s doctrine, and of his authority over kings and their subjects, by school-divines; who [striving](/concepts/conatus) to make good many points of faith incomprehensible, and calling in the philosophy of Aristotle to their assistance, wrote great books of school-divinity, which no man else, nor they themselves, were able to understand; as any man may perceive that shall consider the writings of Peter Lombard, or Scotus, or of him that wrote commentaries upon him, or of Suarez, or any other school-divine of later times. Which kind of learning nevertheless hath been much admired by two sorts of men, otherwise prudent enough. The one of which sorts were of those that were already devoted and really affectionate to the Roman Church; for they believed the doctrine before, but admired the arguments because they understood them not, and yet found the conclusions to their mind. The other sort were negligent men, that had rather admire with others, than take the pains to examine. So that all sorts of people were fully resolved, that both the doctrine was true, and the Pope’s authority no more than what was due to him.
@@ -332,6 +606,36 @@ Did not the bishops, that then were, and had taken an oath, wherein was, amongst
 A.
 
 No, I do not find that the bishops did many of them oppose the King; for having no power without him, it had been great imprudence to provoke his [anger](/concepts/anger). There was besides a controversy in those times between the Pope and the bishops, most of which did maintain that they exercised their jurisdiction episcopal in the right of God, as immediately as the Pope himself did exercise the same over the whole Church. And because they saw that by this Act of the King in Parliament they were to hold their power no more of the Pope, and never thought of holding it of the King, they were perhaps better content to let that Act of Parliament pass. In the reign of King Edward VI the doctrine of Luther had taken so great root in England, that they threw out also a great many of the Pope’s new articles of faith; which Queen Mary succeeding him restored again, together with all that had been abolished by Henry VIII, saving that which could not be restored, the religious houses; and the bishops and clergy of King Edward were partly burnt for heretics, partly fled, and partly recanted. And they that fled betook themselves to those places beyond sea, where the reformed religion was either protected or not persecuted; who, after the decease of Queen Mary, returned again to favour and preferment under Queen Elizabeth, that restored the religion of her brother King Edward. And so it hath continued till this day, excepting the interruption made in this late rebellion of the presbyterians and other democratical men. But though the Romish religion were now cast out by the law, yet there were abundance of people, and many of them of the nobility, that still retained the religion of their ancestors, who as they were not much molested in points of conscience, so they were not by their own inclination very troublesome to the civil government; but by the secret practice of the Jesuits and other emissaries of the Roman Church, they were made less quiet than they ought to have been; and some of them to venture on the most horrid act that ever had been heard of before, I mean the Gunpowder Treason. And upon that account, the Papists of England have been looked upon as men that would not be sorry for any disorders here that might possibly make way to the restoring of the Pope’s authority. And therefore I named them for one of the distempers of [the state](/concepts/state) of England in the time of our late King Charles.
+
+B.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nello stesso periodo, cioè tra l’epoca dell’Imperatore Carlo Magno e di Re Edoardo III d’Inghilterra, iniziò a svilupparsi una nuova forma di organizzazione politica; essa consisteva nel trasformare la religione in un vero e proprio “arte”, utilizzando le dispute filosofiche – non solo basate sulle Scritture, ma anche sulla filosofia di [Aristotele](/figures/aristotle), sia morale che naturale – per difendere tutti i decreti della Chiesa Romana. A tale scopo, il Papa esortò l’Imperatore a istituire scuole di ogni tipo; fu così che nacquero le università: poco dopo ne furono fondate a Parigi e Oxford. È vero che in Inghilterra esistevano già delle scuole in diversi luoghi per l’insegnamento della lingua latina, cioè della lingua della Chiesa; ma nessuna università vera e propria era stata ancora creata fino a quel momento. Sebbene fosse probabile che in alcuni monasteri si insegnassero filosofia, logica e altre discipline, poiché i monaci avevano poco altro da fare se non studiare. Dopo la fondazione di alcune scuole per questo scopo, ne furono aggiunte molte altre grazie al sostegno di principi, vescovi e altri ricchi individui; la disciplina all’interno di queste istituzioni fu inoltre rafforzata dai Papi dell’epoca. Numerosi studiosi venivano inviati lì per studiare, convinti che quel fosse il luogo ideale per ottenere promozioni sia nella Chiesa che nello [Stato](/concepts/commonwealth). Il beneficio che la Chiesa di Roma ne trasse fu la possibilità di difendere la propria dottrina e l’autorità su re e sudditi, grazie agli studiosi che utilizzavano le teorie filosofiche di Aristotele per spiegare concetti religiosi complessi. Questi scritti, tuttavia, erano talmente oscuri da essere incomprensibili sia per gli autori stessi che per la maggior parte delle persone; ciò è evidente se si considerano le opere di Pietro Lombardo, Scoto Eriugeno, Suarez o altri teologi successivi. Nonostante ciò, questo tipo di studio fu molto apprezzato da due tipi di persone: da coloro che erano già devoti alla Chiesa Romana e ammiravano le sue argomentazioni anche se non le comprendevano appieno; e da individui negligenti, che preferivano seguire ciecamente l’opinione altrui senza sforzarsi di analizzarla. In ogni caso, tutti erano convinti che la dottrina della Chiesa fosse vera e che l’autorità del Papa fosse giusta e dovuta.
+
+B.
+
+Vedo che un re o uno stato cristiano, per quanto ben provvisto di denaro e armi, e anche se la Chiesa di Roma vi abbia grande autorità, avrà difficoltà a vincere, a causa della mancanza di uomini. I suoi sudditi infatti raramente saranno disposti a recarsi in battaglia e combattere con coraggio contro le loro coscienze.
+
+A.
+
+È vero che grandi rivolte sono state scatenate da membri della Chiesa nel conflitto del Papa contro i re, come in Inghilterra contro Re Giovanni e in Francia contro Re Enrico IV. In tali casi, i re disponevano di risorse molto più considerevoli rispetto al Papa; e così sarà sempre, finché avranno denaro. Infatti, pochi sono coloro la cui coscienza sia così sensibile da rifiutare del denaro quando ne hanno bisogno. Tuttavia, il vero danno arrecato ai re in nome della religione si verifica quando il Papa concede a un re il potere di invadere un altro.
+
+B.
+
+Mi chiedo come Re Enrico VIII abbia potuto estinguere completamente l’autorità del Papa in Inghilterra, e questo senza alcuna ribellione nel paese né alcuna invasione dall’estero.
+
+A.
+
+Innanzitutto, i preti, i monaci e i frati, essendo al culmine del loro potere, erano ormai per lo più diventati insolenti e licenziosi; di conseguenza, la forza delle loro argomentazioni veniva compromessa dallo scandalo rappresentato dalle loro vite, che le persone di buona educazione percepivano facilmente. Il Parlamento, composto da individui del genere, era quindi disposto a togliere loro tale potere; inoltre, il popolo comune, abituato da tempo al funzionamento dei Parlamenti, non si oppose affatto a questa decisione. In secondo luogo, la dottrina di Lutero, diffusa poco prima, veniva ora accettata con grande favore da molti uomini di grande giudizio; pertanto non c’era alcuna speranza di ristabilire il potere del Papa attraverso una ribellione. In terzo luogo, i ricavi delle abbazie e di tutte le altre istituzioni religiose, passando nelle mani del Re, venivano distribuiti dai sovrani ai nobili più influenti di ogni contea; ciò spingeva questi ultimi a fare di tutto per mantenere tale possesso. In quarto luogo, il re Enrico era una persona decisa e severa nel punire coloro che osavano opporsi ai suoi piani. Infine, in caso di invasioni straniere – qualora il Papa avesse concesso il regno a un altro principe – tali tentativi sarebbero risultati vani; infatti l’Inghilterra era un tipo di regno diverso dal Navarra. Inoltre, in quel periodo le forze francesi e spagnole erano impegnate in conflitti reciproci; anche se avessero avuto il tempo necessario, probabilmente non avrebbero ottenuto risultati migliori di quelli raggiunti dagli spagnoli nel 1588. Nonostante l’insolenza, l’avidità e l’ipocrisia del clero dell’epoca, nonché la diffusione della dottrina di Lutero, se il Papa non avesse provocato il Re cercando di ostacolare il suo matrimonio con la sua seconda moglie, il suo potere avrebbe potuto rimanere in Inghilterra fino a quando non fossero sorti altri conflitti.
+
+B.
+
+Non furono forse i vescovi di allora, che avevano prestato un giuramento nel quale, tra le altre cose, si impegnavano a difendere e mantenere i diritti legali di San Pietro (“Regalia Sancti Petri”), ad opporsi a quel provvedimento parlamentare contro il Papa e contro la presta del giuramento di supremazia? Alcuni hanno infatti sostenuto che quelle parole fossero in realtà “regulas Sancti Petri”, cioè le regole o la dottrina di San Pietro; in ogni caso, il clero le lesse successivamente, e probabilmente erano state scritte in stenografia, per errore, a vantaggio del Papa.
+
+A.
+
+No, non credo che molti vescovi si siano opposti al Re; poiché senza di lui non avevano alcun potere, sarebbe stata una grande imprudenza provocare la sua [ira](/concepts/anger). In quei tempi esisteva inoltre un conflitto tra il Papa e i vescovi; la maggior parte di questi sosteneva di esercitare la propria giurisdizione episcopale per diritto divino, proprio come il Papa stesso lo faceva su tutta la Chiesa. Poiché vedevano che con tale atto del Re in Parlamento il loro potere non dipendeva più dal Papa e non pensavano affatto di riceverlo dal Re, forse fu meglio per loro lasciare che quell’atto venisse approvato. Durante il regno di Re Edoardo VI la dottrina di Lutero aveva preso radici profonde in Inghilterra; molti degli articoli di fede proposti dal Papa furono quindi abbandonati. Tuttavia, dopo l’ascesa al trono di Regina Maria, questi articoli furono ripristinati insieme a tutto ciò che era stato abolito da Enrico VIII, ad eccezione delle istituzioni religiose che non potevano essere ristabilite. I vescovi e il clero di Edoardo VI furono in parte bruciati come eretici, in parte fuggirono e in parte si pentirono. Coloro che fuggirono si rifugiarono in Paesi all’estero dove la religione riformata era protetta o almeno non perseguitata; dopo la morte di Regina Maria, tornarono a godere di favore sotto Regina Elisabetta, che ripristinò la religione del fratello Edoardo. Questa situazione è continuata fino ad oggi, fatta eccezione per l’interruzione causata dalla recente ribellione dei presbiteriani e di altri gruppi democratici. Tuttavia, anche se la religione romana era ormai stata bandita dalle leggi inglesi, molte persone, tra cui molti nobili, continuavano a praticare la fede dei loro antenati. Poiché non venivano molestate nelle questioni di coscienza, non causavano grandi problemi al governo civile; tuttavia, a causa delle attività segrete dei Gesuiti e di altri emissari della Chiesa romana, la situazione divenne meno tranquilla di quanto avrebbe dovuto essere. Alcuni di loro arrivarono persino a compiere l’atto più orribile che si fosse mai sentito: il tradimento con la polvere da sparo. Per questo motivo, i cattolici inglesi sono stati considerati persone disposte a causare qualsiasi disordine pur di ristabilire l’autorità del Papa. Ecco perché li ho menzionati come una delle cause dei problemi che hanno colpito lo [stato](/concepts/state) inglese durante il regno di Re Carlo II.
 
 B.
 
@@ -377,6 +681,48 @@ It was not their own art alone that did it, but they had the concurrence of a gr
 
 And first, for the manner of their preaching; they so framed their countenance and gesture at their entrance into the pulpit, and their pronunciation both in their prayer and sermon, and used the Scripture phrase (whether understood by the people or not), as that no tragedian in the world could have acted the part of a right godly man better than these did; insomuch that a man unacquainted with such art, could never suspect any ambitious plot in them to raise sedition against the state, as they then had designed; or doubt that the vehemence of their voice (for the same words with the usual pronunciation had been of little force) and forcedness of their gesture and looks, could arise from anything else but zeal to the service of God. And by this art they came into such credit, that numbers of men used to go forth of their own parishes and towns on working-days, leaving their calling, and on Sundays leaving their own churches, to hear them preach in other places, and to despise their own and all other preachers that acted not so well as they. And as for those ministers that did not usually preach, but instead of sermons did read to the people such homilies as the Church had appointed, they esteemed and called them dumb dogs.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Vedo che Monsieur Mornay du Plessis e il Dottor Morton, Vescovo di Durham, nel parlare del [progresso](/positions/progress) del potere papale e dando ai loro libri titoli come “Il Mistero dell’Iniquità” e “La Grande Impostura”, avevano entrambi ragione. Credo infatti che non esista al mondo un inganno più grande di questo, e mi chiedo come i Re e gli Stati del Cristianesimo non se ne siano mai accorti.
+
+A.
+
+È evidente che lo percepirono davvero. Altrimenti, come avrebbero osato dichiarare guerra al Papa, e alcuni di loro addirittura portarlo via prigioniero proprio da Roma? Se volessero liberarsi dalla sua tirannia, avrebbero dovuto accordarsi tra loro e, come fece Enrico VIII, fare di ciascuno di loro il capo della Chiesa nei rispettivi domini. Ma non essendosi messi d’accordo, lasciarono che il suo potere continuasse, sperando ognuno di poterlo utilizzare, quando ne fosse sorta l’occasione, contro i propri vicini.
+
+B.
+
+Ora, per quanto riguarda quell’altra “epidemia” diffusa dai presbiteriani, come mai ebbero un potere così grande, se in gran parte non erano altro che poveri studiosi?
+
+A.
+
+Questa controversia tra le Chiese Cattoliche e quelle Riformate non poteva che spingere ognuno, nel limite delle sue possibilità, a esaminare attraverso le Scritture quale delle due parti avesse ragione; per questo motivo queste furono tradotte nelle lingue volgari. Prima di allora, la loro traduzione non era permessa, e nessuno poteva leggerle se non coloro che ne avevano ricevuto l’espressa autorizzazione. Il Papa, infatti, nei confronti delle Scritture agiva esattamente come Mosè riguardo al Monte Sinai: Mosè non permetteva a nessuno di salire su quel monte per ascoltare Dio parlare o per contemplarlo, se non a coloro che lui stesso portava con sé; allo stesso modo, il Papa non permetteva a nessuno di “parlare” con Dio attraverso le Scritture, se non a coloro in cui risiedeva almeno una parte dello “spirito” del Papa, e quindi nei quali si potesse avere fiducia.
+
+B.
+
+Certamente Mosè agì in modo molto saggio, seguendo esattamente il comando di Dio stesso.
+
+A.
+
+Senza dubbio, ed è proprio l’evento stesso a averlo dimostrato. Infatti, dopo che la Bibbia fu tradotta in inglese, ogni uomo, anzi ogni ragazzo e ragazza in grado di leggere in inglese, credeva di parlare direttamente con Dio Onnipotente e di comprendere ciò che Egli diceva, quando leggeva le Scritture una o due volte al giorno. La reverenza e l’obbedienza dovute alla Chiesa Riformata, nonché ai vescovi e ai pastori al suo interno, vennero abbandonate; ogni individuo divenne quindi un giudice in materia religiosa e un interprete delle Scritture per se stesso.
+
+B.
+
+Non era forse questo lo scopo della Chiesa d’Inghilterra? Qual altro fine avrebbero potuto avere nel raccomandarmi la Bibbia, se non quello che io la utilizzassi come regola per le mie azioni? Altrimenti avrebbero potuto tenerla per sé, pur essendo accessibile a loro, mentre me l’avrebbero presentata in forma sigillata in ebraico, greco e latino, fornendomene solo quella quantità ritenuta necessaria per la salvezza della mia anima e la pace della Chiesa.
+
+A.
+
+Confesso che proprio questa libertà di interpretare la [Scrittura](/concepts/revelation) sia stata la causa della nascita di molte sette diverse, le quali erano rimaste nascoste fino all’inizio del regno dell’ultimo re e poi emersero, causando disordini nella [comunità](/concepts/commonwealth). Ma torniamo alla storia. Coloro che fuggirono per motivi religiosi durante il regno della Regina Maria si stabilirono, per lo più, in luoghi dove la religione riformata era praticata e gestita da un consiglio di ministri; questi ultimi venivano anche spesso utilizzati, a causa della mancanza di uomini politici più capaci, in questioni relative al governo civile. Ciò piacque molto ai protestanti inglesi e scozzesi che vivevano in quei luoghi, tanto che al loro ritorno desiderarono che anche nei loro paesi venisse riservata alla chiesa lo stesso onore e la stessa reverenza. In Scozia, poiché il Re Giacomo era ancora giovane, con l’aiuto di alcuni nobili potenti ci riuscirono rapidamente. Anche coloro che tornarono in Inghilterra all’inizio del regno della Regina Elisabetta cercarono di ottenere lo stesso risultato, ma non vi riuscirono fino a questa ultima ribellione, e solo con l’aiuto degli scozzesi. Non appena ciò fu realizzato, furono però sconfitti nuovamente dalle altre sette, che, grazie alle prediche dei presbiteriani e all’interpretazione personale della Scrittura, erano diventate molto numerose.
+
+B.
+
+So certamente che all’inizio di quella guerra recente il potere dei Presbiteriani era così grande che non solo quasi tutti i cittadini di Londra erano devoti a loro, ma anche la maggior parte delle altre città e dei borgo mercantili d’Inghilterra. Ma non mi avete ancora spiegato con quali mezzi e in quale modo siano riusciti ad acquisire tale potere.
+
+A.
+
+Non fu soltanto la loro stessa arte a riuscirci, ma ebbero anche il sostegno di molti gentiluomini che desideravano altrettanto ardentemente un governo popolare nello stato civile quanto quei ministri lo desideravano nella Chiesa. E così come questi ultimi, dal pulpito, attiravano la gente alle loro opinioni e suscitavano in loro avversione per il governo ecclesiastico, i canoni e il libro delle preghiere comuni, allo stesso modo quegli altri, con i loro discorsi al Parlamento e le loro conversazioni con la gente nelle campagne, li indussero ad [amare](/concepts/charity) la democrazia; esaltavano costantemente la libertà e denunciavano la tirannia, facendo sì che la gente stessa si rendesse conto che quella tirannia era proprio il governo attuale dello [stato](/concepts/state). E così come i presbiteriani portavano con sé nelle loro chiese le dottrine teologiche apprese all’università, molti di quei gentiluomini trasferivano nel Parlamento le loro idee politiche; tuttavia nessuno dei due gruppi lo faceva in modo aperto e deciso durante il regno della Regina Elisabetta. E sebbene sia improbabile che tutti agissero con malizia, molti probabilmente lo facevano per errore; ma certamente i principali leader erano ministri e gentiluomini ambiziosi: i ministri invidiavano l’autorità dei vescovi, che ritenevano meno istruiti di loro; i gentiluomini invidiavano il Consiglio Privato, che consideravano meno saggio di sé. Poiché è davvero difficile per persone che si stimano molto le proprie capacità, soprattutto dopo aver ricevuto un’educazione universitaria, ammettere di mancare delle competenze necessarie per governare uno stato; soprattutto quando hanno letto le gloriose storie e i trattati politici dei antichi governi popolari greci e romani, nei quali i re erano odiati e chiamati tiranni, mentre il governo popolare (sebbene nessuna assemblea popolare sia mai stata così crudele quanto un tiranno) veniva definito “libertà”. All’inizio del regno della Regina Elisabetta, i ministri presbiteriani non osavano predicare pubblicamente contro la disciplina ecclesiastica; ma poco dopo, forse grazie al favore di qualche alto funzionario di corte, iniziarono a predicare nelle maggiori città d’Inghilterra, proprio come facevano i frati predicatori in passato nei giorni feriali al mattino. In quei sermoni, loro e altri che condividevano le stesse idee si impegnavano totalmente nel convincere la gente ad accettare le loro dottrine e a stimarli personalmente.
+
+Innanzitutto, per il modo in cui predicavano: modellavano con estrema cura il proprio atteggiamento e i propri gesti non appena salivano sul pulpito; la loro pronuncia, sia nelle preghiere che nei sermoni, era impeccabile; inoltre utilizzavano frasi bibliche in modo tale che nessun attore al mondo avrebbe potuto interpretare meglio il ruolo di un uomo sinceramente devoto. Un uomo ignaro di queste tecniche non avrebbe mai sospettato che nascondessero intenzioni ambiziose volte a sovvertire lo stato, né avrebbe dubitato che l’intensità della loro voce (poiché le stesse parole pronunciate in modo normale avevano poco effetto) e la forza dei loro gesti potessero derivare da altro se non dal sincero zelo nel servire Dio. Grazie a queste abilità guadagnarono tale credito che molte persone, nei giorni feriali, lasciavano il proprio lavoro e, la domenica, le proprie chiese per andarli ad ascoltare altrove; disprezzavano quindi i propri predicatori, così come tutti gli altri che non si esprimevano con la stessa efficacia. Quanto ai ministri che invece di tenere sermoni leggevano al popolo omelie stabilite dalla Chiesa, li consideravano semplicemente “cani muti”.
+
 <span class="atom-split" data-atom="007" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 7)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 Secondly, for the matter of their sermons, because the [anger](/concepts/anger) of the people in the late Roman usurpation was then fresh, they saw there could be nothing more gracious with them than to preach against such other points of the Romish religion as the bishops had not yet condemned; that so receding further from popery than they did, they might with glory to themselves leave a suspicion on the bishops, as men not yet well purged from idolatry.
@@ -408,6 +754,40 @@ As to the time of attempting the change of government from monarchical to democr
 B.
 
 How could the Parliament, when the King had a great navy, and a great number of trained soldiers, and all the magazines of ammunition in his power, be able to begin the war?
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+In secondo luogo, per quanto riguarda i loro sermoni, poiché l’[ira](/concepts/anger) del popolo in seguito alle usurpazioni romane era ancora fresca, ritennero che non ci fosse nulla di più gradito agli occhi delle persone che predicare contro altri aspetti della religione romana che i vescovi non avevano ancora condannato; così facendo, allontanandosi ulteriormente dal papismo, avrebbero potuto gettare su di sé l’immagine di persone che non erano ancora del tutto purgate dall’idolatria.
+
+In terzo luogo, prima dei loro sermoni, le loro preghiere erano o sembravano essere improvvisate; fingevano che fossero ispirate lo spirito di Dio che era in loro, e molte persone ci credevano o sembravano crederci. Chiunque, infatti, dotato di buon giudizio, avrebbe potuto notare che non si preparavano in anticipo su ciò che avrebbero detto durante le preghiere. Da questo derivò un disprezzo per il libro delle preghiere comuni, che rappresenta una forma prestabilita e pianificata in anticipo, permettendo alle persone di sapere esattamente cosa dire quando recitano “amen”.
+
+In quarto luogo, nei loro sermoni non denunciavano mai, o lo facevano solo superficialmente, i vizi lucrativi delle persone impegnate nel commercio o nell’artigianato; vizi come l’inganno, la menzogna, l’adulterazione, l’ipocrisia e altre pratiche disoneste. Questo comportamento derivava semplicemente dalla mancanza di [carità](/concepts/charity) verso i loro pastori e i fedeli; tale atteggiamento rappresentava un grande vantaggio per la maggior parte dei cittadini e degli abitanti delle città mercantili, nonché un notevole beneficio per coloro che lo praticavano.
+
+In quinto luogo, diffondendo l’idea che gli uomini potessero essere certi della propria salvezza attraverso il testimone del proprio spirito interno, ovvero lo Spirito Santo che dimora in loro. E sulla base di questa opinione, coloro che provavano in sé un odio sufficiente nei confronti dei papisti e la capacità di ripetere i sermoni di questi individui al loro ritorno a casa, erano convinti di possedere tutto ciò che era necessario per raggiungere la salvezza, indipendentemente dal modo fraudolento o malvagio in cui si comportassero nei confronti dei loro vicini che non venivano considerati santi, e a volte anche con quelli che lo erano.
+
+In sesto luogo, essi effettivamente denunciavano con grande fervore e severità due peccati: la lussuria carnale e il giurare vanamente; cosa che, senza dubbio, era molto opportuna da fare. Tuttavia, il popolo comune finiva per credere che non esistesse altro peccato se non ciò che era proibito dai terzo e settimo comandamenti (poiché pochi comprendevano sotto il nome di “lussuria” altre forme di [concupiscenza](/concepts/concupiscence) diverse da quelle vietate dal settimo comandamento; infatti, raramente si dice che le persone desiderino il bestiame o altri beni altrui). Per questo motivo, non esitavano affatto ad compiere atti di frode e malvagità, ma si sforzavano soltanto di evitare l’impurità o, quanto meno, lo scandalo che essa poteva causare. Inoltre, sebbene nei loro sermoni e scritti sostenessero e inculcassero l’idea che anche i primi pensieri del cuore – cioè il piacere che uomini e donne provavano nel vedere il proprio simile – fossero considerati peccati, pur impedendo che tali desideri si trasformassero in intenzioni concrete, ciò portava molti giovani a cadere nella disperazione, ritenendosi dannati perché non erano in grado (e nessuno lo è realmente, poiché ciò sarebbe contrario alla natura umana) di guardare qualcosa di attraente senza provare piacere. Per questo motivo, questi predicatori diventavano i confidenti di coloro che soffrivano per problemi di coscienza e venivano considerati dai loro fedeli come guide spirituali in tutte le questioni relative alla morale.
+
+B.
+
+Tuttavia, alcuni di loro predicavano spesso contro l’oppressione.
+
+A.
+
+È vero, me n’ero dimenticato; ma ciò avveniva prima che persone sufficientemente libere da tali pregiudizi esistessero. Intendo dire la gente comune, che facilmente si convinceva di essere oppressa, ma mai di essere un’oppressore. Pertanto, si può considerare questo uno dei loro stratagemmi per far credere al popolo di essere oppresso dal Re, o forse dai vescovi, o da entrambi; e per indirizzare le classi più umili verso il loro partito, quando ne fosse sorta l’occasione. Tuttavia, in epoca della regina Elisabetta questo veniva fatto molto raramente, poiché temevano la sua paura e la sua gelosia. Inoltre, all’epoca non possedevano ancora alcun potere significativo nel Parlamento, per poter mettere in discussione i suoi diritti regali attraverso petizioni o altri mezzi, come fecero in seguito, quando gentiluomini democratici li accolsero nei loro consigli con l’intento di trasformare il governo da monarchico in popolare. Un cambiamento che chiamavano “libertà”.
+
+B.
+
+Chi avrebbe mai pensato che progetti così orribili potessero rimanere così facilmente e per tanto tempo nascosti sotto il velo della devozione? È più che evidente che si trattasse di ipocriti estremamente irreligiosi, come dimostrano la guerra a cui queste azioni hanno portato e i crimini sacrileghi commessi in quell’occasione. Ma quando, e da chi, è iniziata per la prima volta nel Parlamento questa tentativa di instaurare un governo popolare?
+
+A.
+
+Per quanto riguarda il momento in cui tentare il passaggio dal governo monarchico a quello democratico, è necessario fare una distinzione: essi non sfidarono apertamente la [sovranità](/positions/sovereignty) con quel nome, fino a quando il Re non fu ucciso; né negarono del tutto i diritti legati alla sovranità, finché il Re non fu costretto ad abbandonare Londra a causa dei tumulti scatenati contro di lui in quella città e si rifugiò a York per la propria sicurezza. Lì, poco dopo il suo arrivo, gli furono inviate diciannove proposte; più di una dozzina di esse riguardavano diverse forme di potere essenziali per la sovranità stessa. Tuttavia, in precedenza alcuni di questi diritti erano già stati richiesti attraverso una petizione chiamata “Petizione dei Diritti”; il Re aveva acconsentito ad essa in un Parlamento precedente, anche se ciò lo privava non solo del potere di riscuotere tasse senza il loro consenso, ma anche delle sue entrate ordinarie derivanti dalle [tasse](/concepts/custom) sulla navigazione e da altre imposizioni, oltre che della libertà di arrestare coloro che riteneva potessero disturbare la pace nel regno. Quanto alle persone che compirono queste azioni, basta dire che erano membri dell’ultimo Parlamento, nonché di alcuni altri Parlamenti tenutisi all’inizio del regno di Re Carlo e alla fine di quello di Re Giacomo; non è necessario nominarli tutti, se non quanto richiesto dalla narrazione stessa. La maggior parte di loro era membro della Camera dei Comuni; alcuni anche della Camera dei Lord; ma tutti quanti erano persone che ritenevano di possedere una notevole competenza in materia politica, e che pensavano che il Re non prestasse loro abbastanza attenzione.
+
+B.
+
+Come avrebbe potuto il Parlamento, quando il Re disponeva di una grande flotta, di un gran numero di soldati addestrati e di tutte le riserve di munizioni a sua disposizione, essere in grado di iniziare la guerra?
 
 A.
 
@@ -450,6 +830,49 @@ He might indeed: but it had been but a kind of superstition to have made him gen
 B.
 
 After the pacification broken, what succeeded next?
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Re possedeva effettivamente questi poteri; ma ciò significa poco, quando coloro che avevano in custodia la marina e le riserve militari, insieme a tutti i soldati addestrati e, in sostanza, a tutti i suoi sudditi, venivano trasformati in nemici del Re grazie alle prediche dei ministri presbiteriani e ai sussurri sediziosi di politici falsi e ignoranti. Inoltre, il Re non disponeva di denaro se non quello che il Parlamento gli concedeva, e si può essere certi che tale somma non sarebbe stata sufficiente a mantenere il suo potere regale, poiché essi avevano intenzione di toglierglielo. Eppure, credo che non avrebbero mai osato intraprendere alcuna azione militare se non fosse stato per quell’infelice tentativo di imporre ai scozzesi, tutti presbiteriani, il nostro libro delle preghiere comuni. Credo infatti che gli inglesi non avrebbero mai accettato che il Parlamento dichiarasse guerra al Re, per nessuna provocazione, se non per la propria difesa, nel caso in cui il Re avesse prima attaccato loro; quindi era necessario che essi stessi provocassero il Re, affinché questi compiesse qualcosa che potesse essere interpretato come ostilità. Nel 1637, su consiglio dell’Arcivescovo di Canterbury, il Re inviò in Scozia un libro delle preghiere comuni, sostanzialmente identico al nostro, con la differenza che la parola “ministro” veniva sostituita da “presbitero”; ordinava che fosse utilizzato dai ministri locali come forma ordinaria di servizio divino, al fine di garantire l’unità religiosa del regno. Quando questo libro fu letto in una chiesa di Edimburgo, scatenò un tale tumulto che colui che lo lesse faticò molto a salvarsi la vita; ciò diede l’occasione alla maggior parte della nobiltà e ad altri personaggi influenti di stipulare tra loro un “[patto](/concepts/covenant)”, che essi osarono chiamare “patto con Dio”, al fine di abolire il sistema episcopale, senza consultare il Re. Lo fecero immediatamente, spinti dalla propria fiducia o dalle promesse di alcuni democratici inglesi che in precedenza avevano sempre opposto resistenza agli interessi del Re, assicurando loro che quest’ultimo non avrebbe potuto radunare un esercito per punirli senza convocare il Parlamento, il quale sicuramente li avrebbe sostenuti. Tuttavia, contrariamente alle loro aspettative, grazie all’aiuto dei nobili e dei gentiluomini fedeli al Re, questi riuscì a radunare un esercito sufficiente per ridurre gli scozzesi alla loro precedente obbedienza, se solo la battaglia fosse stata combattuta. Con quest’esercito si recò personalmente in Scozia; anche l’esercito scozzese fu schierato contro di lui, come se intendesse combattere. Ma poi gli scozzesi chiesero al Re il permesso di negoziare attraverso commissari da entrambe le parti; il Re, desideroso di evitare la distruzione dei propri sudditi, acconsentì.
+La questione principale era la pace; per questo motivo il Re si recò a Edimburgo e lì fece approvare un atto parlamentare che soddisfece tutti i loro desideri.
+
+B.
+
+Allora, non ha forse confermato l’istituto vescovile?
+
+A.
+
+No, ma si arresero alla sua abolizione; tuttavia, con questo mezzo, gli inglesi videro frustrata la loro speranza di ottenere un Parlamento. Ma i suddetti democratici, che in precedenza erano oppositori degli interessi del Re, non smisero mai di cercare di gettare le due nazioni in guerra; al fine, il Re avrebbe dovuto pagare un prezzo altrettanto alto per ottenere l’aiuto del Parlamento: la stessa [sovranità](/positions/sovereignty).
+
+B.
+
+Ma qual era la causa che rendeva i gentiluomini e la nobiltà della Scozia così avversi all’episcopato? Poiché difficilmente posso credere che le loro coscienze fossero eccezionalmente sensibili, né che fossero divini di tale levatura da conoscere quale fosse la vera disciplina ecclesiastica stabilita dal nostro Salvatore e dai suoi apostoli; né ancora che provassero un [amore](/concepts/charity) così profondo per i loro ministri da lasciarsi guidare completamente da loro nella gestione sia degli affari ecclesiastici che di quelli civili. Poiché, nella loro vita quotidiana, erano proprio come tutti gli altri uomini: cercavano soltanto i propri interessi e vantaggi, e in questo non venivano ostacolati più dai vescovi che dai loro ministri presbiteriani.
+
+A.
+
+Veramente non lo so; non posso entrare nei pensieri altrui, se non nella misura in cui la considerazione della [natura umana](/axes/human_nature) nel suo complesso mi guida. Ma partendo da questa considerazione, vedo innanzitutto che le persone anticamente ricche e nobili non sono disposte ad accettare che studiosi poveri diventino loro pari (cosa che inevitabilmente accade quando vengono nominati vescovi). In secondo luogo, a causa della competizione per la gloria tra le nazioni, potrebbero essere disposti a vedere questa nazione afflitta da guerre civili, nella speranza di acquisire un certo potere sugli inglesi aiutando i ribelli qui presenti, almeno al fine di stabilire in questo paese la disciplina presbiteriana; cosa che in seguito chiesero apertamente. Infine, potrebbero sperare di ottenere grandi somme di denaro come ricompensa per il loro aiuto, oltre a immense prede, che effettivamente ottennero in seguito. Ma qualunque fosse la causa del loro odio verso i vescovi, abbatterli non era l’unico scopo che avevano: se lo fosse stato, ora che la dignità episcopale era stata abolita con decreto parlamentare, si sarebbero accontentati, cosa che invece non fecero. Infatti, dopo il ritorno del Re a Londra, i presbiteriani e i democratici inglesi, grazie al loro sostegno avevano rimosso i vescovi in Scozia; pensarono quindi opportuno ottenere anche l’aiuto degli scozzesi per eliminare i vescovi dall’Inghilterra. A tal fine, forse intrattennero segreti contatti con gli scozzesi, rimanendo insoddisfatti della pace che in precedenza li aveva accontentati. Comunque sia, poco dopo il ritorno del Re a Londra inviarono alcuni amici alla corte un documento che, secondo quanto affermavano, conteneva i termini dell’accordo di pace; si trattava però di un documento falso e diffamatorio, che fu bruciato pubblicamente su ordine del Re. E così entrambe le parti tornarono alla stessa situazione in cui si trovavano quando il Re era partito con l’esercito.
+
+B.
+
+E così, una grande quantità di denaro fu sprecata senza alcun motivo. Ma non mi avete ancora detto chi fosse il comandante di quell’esercito.
+
+A.
+
+Ti ho detto che il Re era lì di persona. Colui che comandava al suo fianco era il Conte di Arundel, un uomo che non possedeva né coraggio né saggezza. Tuttavia, decidere se intraprendere battaglia o negoziare non spettava a lui, ma al Re.
+
+B.
+
+Era un uomo appartenente a una famiglia estremamente nobile e leale; i suoi antenati avevano già inflitto gravi sconfitte ai Scozzesi nel loro stesso paese; molto probabilmente avrebbe potuto farlo di nuovo ora, se solo gli Scozzesi avessero combattuto.
+
+A.
+
+Avrebbe potuto davvero riuscirci; ma nominarlo generale per questo motivo non era altro che una sorta di superstizione, anche se molti generali in passato sono stati scelti proprio grazie alla buona fortuna dei loro antenati in situazioni simili. Nella lunga guerra tra Atene e Sparta, un generale ateniese vittorioso sul mare ottenne molte vittorie contro i Spartani; per questo motivo, dopo la sua morte, gli Ateniesi scelsero suo figlio come generale, con scarsi risultati. I Romani, che conquistarono Cartagine grazie al coraggio e alle capacità di Scipione, quando decisero di intraprendere nuovamente una guerra in Africa contro Cesare, scelsero un altro Scipione come generale; un uomo abbastanza valoroso e saggio, ma che perse la vita nel corso delle operazioni militari. E tornando alla nostra nazione: il Conte di Essex condusse con successo una spedizione a Cadice; ma suo figlio, inviato in seguito nello stesso luogo, non riuscì a ottenere alcun risultato. Sperare che Dio abbia destinato il successo in guerra a un certo nome o famiglia non è altro che una sciocca superstizione.
+
+B.
+
+Dopo la rottura della pace, cosa accadde in seguito?
 
 A.
 
@@ -543,6 +966,96 @@ So the armies were disbanded?
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Re inviò il Duca di Hamilton in Scozia con incarichi e istruzioni: doveva convocare un Parlamento e utilizzare tutti i mezzi a sua disposizione; ma tutto fu inutile. Gli scozzesi, infatti, erano ormai decisi a radunare un esercito per invadere l’Inghilterra e presentare, con la scusa di esporre le loro lamentele, una petizione alla Maestà Reale; sostenevano che, poiché il Re era in mano a consiglieri malvagi, non potevano ottenere i propri diritti in altro modo. In realtà, erano stati incoraggiati da elementi democratici e presbiteriani inglesi, che promettevano ricompense e offrivano la possibilità di saccheggiare. Alcuni hanno affermato che il Duca di Hamilton abbia anzi incoraggiato loro ad intraprendere questa spedizione, nella speranza che il disordine tra i due regni gli permettesse di realizzare ciò per cui in passato era stato accusato di cercare: farsi re della Scozia. Tuttavia ritengo che si tratti di un’accusa molto ingiusta, basata su pochissimi elementi, e che sia particolarmente dura nei confronti di una persona che in seguito perse la vita nel tentativo di salvare la libertà del proprio sovrano. Una volta nota questa decisione degli scozzesi, il Re, essendo a corto di fondi per radunare un esercito contro di loro, fu costretto, come desideravano i suoi nemici, a convocare un Parlamento che si riunì a Westminster il 13 aprile 1640.
+
+B.
+
+Penso che un Parlamento inglese, se mai dovesse fornire denaro al Re per la guerra contro gli scozzesi, lo farebbe mosso da un profondo disprezzo verso quella nazione che fin dall’antichità ha sempre combattuto al fianco dei loro nemici francesi e che ha sempre considerato la gloria dell’Inghilterra come una minaccia per la propria.
+
+A.
+
+È effettivamente comune osservare che le nazioni vicine invidiano a vicenda l’onore reciproco, e che quelle meno potenti nutrono un’ostilità ancora maggiore; tuttavia ciò non impedisce loro di concordare su quelle cose che la loro ambizione comune le spinge ad agire. Pertanto, il Re non ricevette alcun aiuto da questo Parlamento: anzi, la maggior parte dei suoi membri, nei loro discorsi quotidiani, sembrava meravigliarsi del motivo per cui il Re volesse dichiarare guerra alla Scozia; in alcuni dibattiti, addirittura li definivano “fratelli” degli scozzesi. Ma invece di concentrarsi sul compito principale del Re, ovvero la raccolta dei fondi necessari per la guerra, i membri del Parlamento si dedicarono esclusivamente alla risoluzione di controversie e all’individuazione di modalità di riscossione delle tasse che il Re aveva dovuto adottare durante le interruzioni della sessione parlamentare; tra queste figuravano la tassa sulle navi, i titoli nobiliari e altre imposizioni legate alle funzioni regali, giustificate secondo gli antichi documenti del regno dai legali. Inoltre, attaccarono anche l’operato di diversi ministri di stato, nonostante tali azioni fossero state ordinate direttamente dal Re stesso. Di conseguenza, prima ancora che il Parlamento potesse iniziare a discutere degli argomenti per cui era stato convocato, i fondi necessari per la guerra erano ormai esauriti (se mai ne fossero stati stanziati, il che non avvenne mai). Fu menzionata l’ipotesi di concedere al Re una somma di denaro in cambio della rinuncia alla tassa sulle navi e ad altre prerogative regali; tuttavia, tali discussioni furono molto rare e prive di qualsiasi accordo concreto, rendendo vano ogni tentativo del Re di ottenere il sostegno necessario. Per questo motivo, il 5 maggio successivo il Re sciolse il Parlamento.
+
+B.
+
+Dove, allora, trovava il Re i fondi necessari per reclutare e pagare il suo esercito?
+
+A.
+
+La seconda volta fu costretto ad avvalersi della nobiltà e dei gentiluomini, i quali contribuirono in misura diversa, a seconda delle dimensioni delle loro proprietà; tuttavia, insieme, formarono un esercito più che sufficiente.
+
+B.
+
+Sembra quindi che gli stessi uomini che avevano ostacolato i suoi progetti nel Parlamento, ora, al di fuori del Parlamento, facessero tutto il possibile per promuoverli. Qual ne era la ragione?
+
+A.
+
+La maggior parte dei Lord del Parlamento, nonché della nobiltà in tutta l’Inghilterra, preferiva la monarchia a un governo popolare; tuttavia, non erano disposti ad accettare il potere assoluto del Re. Per questo motivo, durante le sessioni parlamentari, erano facilmente disposti ad acconsentire alla limitazione di tale potere, portando il sistema governativo verso una forma di monarchia mista, come la definivano loro: in tale sistema, l’[sovranità](/positions/sovereignty) assoluta sarebbe stata divisa tra il Re, la Camera dei Lord e la Camera dei Comuni.
+
+B.
+
+Ma come è possibile, se non riescono ad accordarsi?
+
+A.
+
+Credo che non abbiano mai considerato questa possibilità; sono certo, inoltre, che non intendessero mai che la sovranità dovesse appartenere interamente a una o entrambe le camere. In più, erano riluttanti ad abbandonare il Re quando questi veniva invaso da stranieri; infatti, gli scozzesi erano considerati da loro come una nazione straniera.
+
+B.
+
+Mi sembra strano che l’Inghilterra e la Scozia, essendo entrambe un’unica isola e avendo una lingua quasi identica, e essendo governate da lo stesso Re, vengano considerate popoli diversi tra loro. I Romani erano signori di molte nazioni; per far sì che queste obbedissero ancora più agli editti e alle leggi inviati dalla città di Roma, decisero di renderle tutte “romane”. Tra le varie nazioni – come la Spagna, la Germania, l’Italia e la Francia – promossero alcune di esse, ritenendole degne, addirittura al rango di senatori di Roma, e concessero a tutti i loro cittadini i privilegi della città stessa, che li proteggevano dalle offese delle altre nazioni in cui vivevano. Perché allora gli scozzesi e gli inglesi non sono stati uniti allo stesso modo in un unico popolo?
+
+A.
+
+Quando Re Giacomo salì per la prima volta al trono d’Inghilterra, cercò di farlo, ma non riuscì a ottenere il risultato desiderato. Tuttavia, credo che oggi i scozzesi abbiano in Inghilterra gli stessi privilegi di qualsiasi altra nazione avesse a Roma, di quei privilegi che, come dite voi, rendevano i cittadini romani tali. Infatti, tutti loro sono stati naturalizzati e hanno il diritto di acquistare terreni in Inghilterra per sé stessi e per i propri eredi.
+
+B.
+
+È vero per coloro che sono nati in Scozia dopo l’epoca in cui Re Giacomo deteneva il regno d’Inghilterra.
+
+A.
+
+Ora ci sono pochissimi individui nati prima di quelli che sono nati dopo. Ma perché questi ultimi dovrebbero avere un diritto maggiore rispetto a coloro che sono nati prima?
+
+B.
+
+Perché erano nati sudditi del Re d’Inghilterra, mentre gli altri no.
+
+A.
+
+Non erano forse gli altri tutti sudditi del Re Giacomo? E non era forse il Re d’Inghilterra,?
+
+B.
+
+Sì, ma non allora.
+
+A.
+
+Non comprendo la sottigliezza di quella distinzione. Ma su quale principio si basa tale distinzione? Esiste qualche normativa a tal fine?
+
+B.
+
+Non posso dirlo con certezza; penso di no, ma si basa sull’equità.
+
+A.
+
+Non vedo alcuna giustizia in questo: che quelle nazioni obbligate a un’obbedienza uguale allo stesso Re non dovrebbero godere di privilegi uguali. Ora, considerando che pochissime persone sono nate prima dell’avvento del Re Giacomo, quale privilegio maggiore potevano avere quei Romani naturalizzati nel [stato](/concepts/state) di Roma, o gli stessi Inglesi nell’Stato d’Inghilterra, rispetto ai Scozzesi?
+
+B.
+
+Quei Romani, quando qualcuno di loro si trovava a Roma, aveva voce nella stesura delle leggi.
+
+A.
+
+Anche gli scozzesi hanno i loro parlamenti, nei quali è necessario il loro consenso per l’approvazione delle leggi emanate; e ciò non è affatto meno valido di quanto avviene altrove. Non hanno forse molte province della Francia i loro rispettivi parlamenti e costituzioni? Eppure tutte sono ugualmente suddite naturali del Re di Francia. Pertanto, a mio parere, sia gli inglesi che gli scozzesi si sbagliavano nel definirsi a vicenda “stranieri”. Comunque sia, il Re disponeva di un esercito molto potente con cui marciò verso la Scozia; quando arrivò a York, l’esercito scozzese si era già schierato alle frontiere, pronto a invadere l’Inghilterra, cosa che effettivamente fece, dichiarando lungo il cammino di voler agire senza causare danni al paese e di avere come unico scopo presentare una petizione al Re per ottenere la riparazione di numerosi presunti torti subiti da parte di alcuni membri della corte i cui consigli il Re seguiva con particolare attenzione. Gli scozzesi attraversarono quindi il Northumberland in silenzio, fino a raggiungere un guado sul fiume Tyne, poco a nord di Newcastle; lì incontrarono una piccola resistenza da parte di truppe reali inviate per fermarli, ma furono facilmente sconfitte dagli scozzesi. Una volta superato il guado, conquistarono Newcastle e proseguirono verso Durham; inviarono quindi messaggeri al Re chiedendo la firma di un trattato, che fu accettato. I negoziatori delle due parti si incontrarono a Ripon. La decisione finale fu che tutte le questioni venissero sottoposte al Parlamento, il quale il Re convocò a Westminster il 3 novembre dello stesso anno, il 1640; dopodiché il Re tornò a Londra.
+
+B.
+
+Quindi gli eserciti furono sciolti?
+
+A.
+
 <span class="atom-split" data-atom="010" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 10)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 No; the Scotch army was to be defrayed by the counties of Northumberland and Durham, and the King was to pay his own, till the disbanding of both should be agreed upon in Parliament.
@@ -619,6 +1132,82 @@ But who can teach what none have learned? Or, if any man hath been so singular, 
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+No: le spese dell’esercito scozzese dovevano essere sostenute dalle contee di Northumberland e Durham, mentre il Re avrebbe pagato le proprie spese fino a quando non si fosse raggiunto un accordo nel Parlamento riguardo allo scioglimento di entrambi gli eserciti.
+
+B.
+
+Quindi, di fatto, entrambe le armate venivano mantenute a spese del Re, e l’intera controversia doveva essere risolta da un Parlamento quasi interamente presbiteriano, e perciò particolarmente favorevole agli scozzesi quanto essi stessi avrebbero potuto desiderare.
+
+A.
+
+Eppure, nonostante tutto ciò, non osavano ancora dichiarare guerra al Re: nel cuore del popolo esisteva ancora troppa rispetto per lui, tanto che avrebbero perso ogni sostegno se avessero rivelato le loro intenzioni. Dovevano quindi trovare qualche scusa plausibile per far credere che fosse stato il Re ad attaccare per primo il Parlamento. Inoltre, non avevano ancora umiliato abbastanza il Re attraverso prediche e pamphlet, né allontanato da lui coloro che, a loro parere, avrebbero potuto consigliargli male. Pertanto decisero di agire come abili cacciatori: innanzitutto isolare il Re, utilizzando persone disposte in tutto il paese ad spingerlo verso una situazione critica; e poi, nel caso in cui egli tentasse di cambiare rotta, interpretare tale gesto come un atto di guerra contro il Parlamento.
+
+E innanzitutto misero in discussione coloro che avevano predicato o scritto in difesa di quei diritti che, essendo appartenenti alla Corona, intendevano usurpare e sottrarre al Re per sé stessi. Di conseguenza, alcuni predicatori e scrittori furono imprigionati o costretti a fuggire. Poiché il Re non proteggeva queste persone, continuarono a mettere in discussione alcune delle azioni stesse del Re nei confronti dei suoi ministri: alcuni di questi furono imprigionati, mentre altri dovettero lasciare il paese. Inoltre, alcune persone che avevano cercato di incitare alla sedizione attraverso libri e prediche, nonché commesso altri crimini gravi, erano state condannate dal consiglio reale nella Camera Stellata e imprigionate; ma il Parlamento, per proprio potere, decise di liberarle, apparentemente per verificare come avrebbero reagito il Re e il popolo (poiché queste persone non rappresentavano un pericolo significativo). Ciò fu fatto con grande approvazione del popolo, che si radunò a Londra intorno a loro come se fossero in trionfo. Poiché tutto ciò avvenne senza resistenza, anche il diritto del Re sulle tasse impositive sui navigli.
+
+B.
+
+“Tasse sulle navi!” Ma cos’è mai questo?
+
+A.
+
+I Re d’Inghilterra, al fine di difendere il paese dal pericolo rappresentato dalle minacce navali, avevano il potere di imporre tasse su tutti i contee del regno, sia quelli marittimi che quelli terrestri, per la costruzione e l’equipaggiamento delle navi. Il Re aveva recentemente deciso di applicare tale imposta, ma il Parlamento l’aveva considerata un’oppressione. Un suo membro, a cui era stata richiesta una tassa di soli 20 scellini, si rifiutò di pagarla, costringendo così il Parlamento ad avviare un processo legale contro di lui; egli fu infine condannato. In un’altra occasione, quando furono chieste le opinioni di tutti i giudici di Westminster riguardo alla legalità di tale imposta, su dodici giudici presenti dieci ne ritennero legittima l’applicazione; sebbene non venissero puniti, rimasero comunque spaventati dalle reazioni del Parlamento.
+
+B.
+
+Cosa intendeva il Parlamento quando esclamava che tale atto fosse illegale? Intendevano dire che era contrario alle leggi scritte, oppure ai giudizi emessi dai avvocati in passato, comunemente definiti “relazioni giuridiche”, o ancora che era contrario all’equità, che io ritengo equivalga alla legge naturale?
+
+A.
+
+È molto difficile, o addirittura impossibile, comprendere ciò che gli altri intendono, soprattutto se sono astuti; tuttavia sono certo che la giustizia non sia stata il motivo per cui hanno preteso di essere esentati dal dovere contribuire al sostentamento del Re a loro piacimento. Infatti, quando affidano l’onere di difendere e governare l’intero regno a qualcuno, è molto poco giusto che queste persone dipendano dagli altri per ottenere i mezzi necessari ad adempiere ai propri doveri; inoltre, se lo fanno, sono loro i sovrani di quelle persone, non viceversa. Per quanto riguarda le leggi comuni contenute nelle sentenze giudiziarie, esse hanno valore soltanto nel grado in cui il Re le riconosce ufficialmente. Inoltre, sarebbe ancora più irragionevole che una sentenza ingiusta emessa da un giudice corrotto o sciocco potesse acquisire, in qualsiasi momento e per quanto tempo si voglia, l’autorità e la forza di una legge. Tra le leggi statutarie esiste però quella chiamata Magna Charta, ovvero la Grande Carta delle libertà degli inglesi; in essa è previsto che nessuno possa essere privato dei propri [beni](/concepts/property) se non secondo le leggi del paese.
+
+B.
+
+Non è forse questo un motivo sufficiente per raggiungere il loro scopo?
+
+A.
+
+No: ci lascia nella stessa incertezza che, secondo voi, dovrebbe essere risolta. Allora, dove si trovava quella legge? Intendevano forse un’altra “Magna Charta”, redatta da qualche re ancora più antico? No: quel decreto fu emanato non per esentare alcuno dai pagamenti al pubblico, ma per proteggere tutti coloro che rischiavano di essere oppressi da coloro che abusavano del potere reale ottenendo illegalmente ordini reali contro di loro. Tuttavia, farlo interpretare in senso errato era esattamente ciò che alcuni spiriti ribelli desideravano; e poiché la maggior parte dei presenti nel Parlamento condivideva tale interpretazione, permisero che venisse approvato.
+
+B.
+
+Rendete i membri di quel Parlamento persone molto semplici; eppure il popolo li ha eletti tra i più saggi della terra.
+
+A.
+
+Se l’ingegno è sinonimo di saggezza, allora erano abbastanza saggi. Ma per essere saggi, nel senso in cui io intendo questa parola, occorre saper portare a termine le proprie imprese senza ricorrere a inganni o mezzi disonorevoli, affidandosi esclusivamente alla forza delle proprie buone idee. Un idiota potrebbe anche vincere contro un giocatore più abile grazie all’uso di dadi truccati o a manovre fraudolente con le carte.
+
+B.
+
+Secondo la tua definizione, al giorno d’oggi ci sono pochi saggi. Tale saggezza è una sorta di cortesia, alla quale pochi sono educati, e la maggior parte la considera follia. Abiti eleganti, piume vistose, gentilezza verso coloro che non accettano offese, e offese verso coloro che invece le accettano: questa è la cortesia di oggi. Ma quando il Parlamento, una volta preso il potere nelle proprie mani, iniziò a raccogliere [denaro](/concepts/money) a proprio uso, cosa ne dissero le persone?
+
+A.
+
+Cosa altro, se non che fosse legale e dovesse essere pagato, poiché imposto con il consenso dei Parlamenti?
+
+B.
+
+Ho sentito spesso dire che dovrebbero pagare ciò che i Parlamenti hanno stabilito per l’uso da parte del Re, ma mai per il proprio uso personale. Da questo si evince che è molto più facile ingannare la moltitudine rispetto a un singolo individuo. Infatti, quale uomo, il cui giudizio naturale non sia stato corrotto da circostanze accidentali, potrebbe essere così facilmente truffato in una questione che riguarda il proprio denaro, se non fosse stato accecato dall’entusiasmo della folla per un cambiamento di governo, o meglio, per la libertà che tutti dovrebbero avere di governarsi da soli?
+
+A.
+
+Giudicate dunque che tipo di persone fossero queste molte persone ignoranti, quelle che venivano elette come membri del parlamento o cavalieri della contea.
+
+B.
+
+Non posso giungere ad altra conclusione se non che coloro che furono eletti allora erano proprio quelli che erano stati eletti nei Parlamenti precedenti, e saranno probabilmente gli stessi a essere eletti anche nei Parlamenti futuri. Infatti, il popolo comune è sempre stato, ed è sempre ignorante del proprio [Dovere](/positions/duty_imperative) verso la collettività; non pensa mai ad altro che al proprio interesse personale e segue ciecamente i propri leader immediati, che siano predicatori o i gentiluomini più influenti che vivono tra di loro. Proprio come i soldati comuni seguono i propri ufficiali, se questi gli piacciono. Se pensate che le recenti miserie li abbiano resi più saggi, questo si dimenticherà presto, e allora non saremo affatto più saggi di prima.
+
+A.
+
+Perché non si potrebbe insegnare agli uomini il loro dovere, cioè la scienza di ciò che è giusto e di ciò che è ingiusto, proprio come sono state insegnate altre scienze a partire da principi veritieri e dimostrazioni evidenti? E non certo in modo più difficile di quanto quei predicatori e quei signori democratici siano capaci di insegnare la ribellione e la tradizione.
+
+B.
+
+Ma chi può insegnare ciò che nessuno ha mai imparato? O, se qualcuno dovesse essere così eccezionale da aver studiato la scienza della giustizia e dell’equità, come potrebbe insegnarla in modo sicuro, quando tale conoscenza è contraria agli interessi di coloro che detengono il potere di fargli del male?
+
+A.
+
 <span class="atom-split" data-atom="011" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 11)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 The rules of just and unjust sufficiently demonstrated, and from principles evident to the meanest capacity, have not been wanting; and notwithstanding the obscurity of their author, have shined, not only in this, but also in foreign countries, to men of good [education](/concepts/education). But they are few, in respect of the rest of the men, whereof many cannot read; many, though they can, have no leisure; and of them that have leisure, the greatest part have their minds wholly employed and taken up by their private businesses or pleasures. So that it is impossible that the multitude should ever learn their duty, but from the pulpit and upon holidays; but then, and from thence, it is, that they learned their disobedience. And, therefore, the light of that doctrine has been hitherto covered and kept under here by a cloud of adversaries, which no private man’s reputation can break through, without the authority of the Universities. But out of the Universities, came all those preachers that taught the contrary. The Universities have been to this nation, as the wooden horse was to the Trojans.
@@ -686,6 +1275,76 @@ This is not much; nor was Aristotle of such credit with them, but that when his 
 B.
 
 I see what use they make of Aristotle’s logic, physics, and metaphysics; but I see not yet how his politics can serve their turn.
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le regole di ciò che è giusto e ingiusto sono state sufficientemente dimostrate, e derivano da principi evidenti anche per le menti più semplici; nonostante l’oscurità del loro autore, queste regole hanno brillato non solo in questo paese, ma anche all’estero, presso persone di buona [istruzione](/concepts/education). Tuttavia, sono pochi coloro che le conoscono: molti non sanno leggere; molti, pur sapendolo fare, non dispongono del tempo necessario; e tra coloro che hanno il tempo libero, la maggior parte ha la mente completamente assorbita dai propri affari personali o dai piaceri. Pertanto, è impossibile che la massa possa mai imparare quale sia il proprio dovere, se non attraverso i predicatori e nei giorni festivi; ed è proprio in questi momenti che viene insegnata loro l’obbedienza, ma anche l’disobbedienza. Così, la luce di questa dottrina è stata finora oscurata da un nugolo di avversari; nessuna reputazione individuale può farla trapelare senza l’autorità delle università. Eppure sono proprio dalle università che provenivano tutti quei predicatori che insegnavano il contrario. Le università sono state, per questa nazione, come il cavallo di legno per i Troiani.
+
+B.
+
+Puoi dirmi perché e quando le università qui, e in altri luoghi, abbiano iniziato a esistere per la prima volta?
+
+A.
+
+Sembra che queste istituzioni abbiano iniziato a diffondersi durante il regno dell’Imperatore Carlo Magno. Prima di quel periodo, senza dubbio esistevano molte scuole di grammatica per la lingua latina, che era la lingua naturale della Chiesa Romana; ma per quanto riguarda le università, cioè le istituzioni dedicate allo studio delle scienze in generale e soprattutto della teologia, è evidente che la loro creazione sia stata raccomandata dalla lettera del Papa all’Imperatore Carlo Magno, e ulteriormente promossa da un concilio tenutosi durante il suo regno, credo a Chalons-sur-Saone. Poco dopo furono fondate le università di Parigi e quella chiamata University College a Oxford. Gradualmente, grazie al contributo di vescovi, nobili, ricchi individui, nonché alcuni re e regine, queste istituzioni raggiunsero infine la loro attuale splendidezza.
+
+B.
+
+Ma qual era lo scopo del Papa in tutto ciò?
+
+A.
+
+Qual altro scopo poteva avere, se non quello di rafforzare la propria autorità nei paesi dove venivano fondate le università? Lì gli studenti imparavano a difendere tali idee con distinzioni incomprensibili, che servivano soltanto ad accecare le menti delle persone ignoranti, mentre al contempo violavano i diritti dei re. Un chiaro esempio di questo scopo fu la rapidità con cui vennero avviate queste iniziative: il primo rettore dell’Università di Parigi, come ho letto da qualche parte, fu Pietro Lombardo, che introdusse per primo lo studio della teologia; a lui fece seguito Giovanni Scoto d’Ungheria, vissuto più o meno nello stesso periodo. Chiunque leggesse questi scritti senza conoscere il vero scopo dietro di essi li considererebbe certamente due dei più assurdi ignoranti del mondo, data l’estrema oscurità e insensatezza dei loro testi. Gli studenti che seguirono impararono da loro l’arte di imporre ai lettori le proprie idee, sminuendo la forza della vera ragione attraverso distinzioni prive di significato, destinate soltanto a stupire la massa ignorante. Quanto ai lettori più colti, erano così pochi che a questi nuovi “dottori” non importava affatto ciò che pensavano. Il loro compito era quello di far accettare al popolo tutte le dottrine di fede che i papi ordinavano di credere; molte di queste dottrine, però, erano incompatibili con i diritti dei re e degli altri sovrani civili. Essi attribuivano infatti ai papi ogni autorità, anche quella necessaria per questioni spirituali, cioè per la religione stessa.
+
+Anche dalle università provenivano tutti quei predicatori che si diffondevano in città e campagna per spaventare la gente e costringerla ad obbedire ciecamente ai canoni e agli ordini del Papa; temendo però di indebolire troppo i re e i principi, non osavano ancora definirli leggi.
+
+Era proprio dalle università che la filosofia di [Aristotele](/figures/aristotle) veniva integrata nella religione, considerata un rimedio efficace per molte affermazioni assurde riguardo alla natura del corpo di Cristo e allo stato degli angeli e dei santi in cielo; affermazioni che venivano ritenute degne di fede perché alcune portavano beneficio, altre suscitavano rispetto nei confronti del clero, anche dei suoi membri più umili. Infatti, quando si riusciva a far credere al popolo che persino i membri più insignificanti del clero potessero “creare” il corpo di Cristo, chi non avrebbe mostrato loro rispetto e sarebbe stato generoso nei loro confronti o verso la Chiesa, soprattutto in momenti di difficoltà, quando si pensava che tali individui stessero portando loro il proprio Salvatore?
+
+B.
+
+Ma quale vantaggio, per loro, rappresentava la dottrina di Aristotele in queste imposture?
+
+A.
+
+Hanno fatto maggior uso della sua oscurità che della sua dottrina. Infatti, nessuno degli scritti dei filosofi antichi può essere paragonato a quelli di Aristotele, per la loro capacità di confondere e intrappolare le persone con le parole, e di suscitare controversie che, alla fine, devono essere risolte dalla decisione della Chiesa di Roma. Eppure, nella dottrina di Aristotele, hanno fatto uso di molti concetti; ad esempio, la dottrina delle essenze separate.
+
+B.
+
+Quali sono le essenze separate?
+
+A.
+
+Esseri separati l’uno dall’altro.
+
+B.
+
+Separato da cosa?
+
+A.
+
+Dalla totalità di ciò che esiste.
+
+B.
+
+Non riesco a comprendere l’esistenza di nulla di ciò che so non essere. Ma cosa possono fare al riguardo?
+
+A.
+
+In molte questioni relative alla natura di Dio e allo stato dell’anima umana dopo la morte – in cielo, all’inferno e nel purgatorio – si può notare come voi e tutti gli uomini possiate trarre grande vantaggio da tale conoscenza. Aristotele riteneva che l’anima umana fosse la fonte principale di movimento per il corpo, e quindi anche per se stessa; essi invece fanno uso di questa concezione nella dottrina della [libera volontà](/positions/free_will). Quanto e come ne traggano vantaggio, non intendo dire. Aristotele sosteneva inoltre che molte cose accadessero in questo mondo non per necessità causale, ma semplicemente per caso, fortuna o contingenza.
+
+B.
+
+Credo che, in questo modo, si riduca Dio a un semplice spettatore dei capricci del destino; infatti ciò che è causato da Dio deve necessariamente accadere, e non credo esista altra spiegazione. Tuttavia, poiché deve esserci una qualche ragione alla base della giustizia delle pene eternhe per i dannati, forse essa risiede nel fatto che, secondo loro, la volontà e le inclinazioni degli uomini non sono nelle mani di Dio, ma in quelle degli stessi uomini. Anche in questo aspetto vedo qualcosa che contribuisce all’autorità della Chiesa.
+
+A.
+
+Questo non è molto; né Aristotele godeva di tale credito presso di loro, se non perché, quando le sue opinioni erano in contrasto con le loro, potevano disprezzarlo. Qualunque cosa dicesse Aristotele e che sembrasse impossibile per natura, loro erano in grado di dimostrare che fosse possibile, grazie al potere onnipotente di Dio, il quale può far sì che molti corpi si trovino nello stesso luogo o che un solo corpo si trovi in molti luoghi contemporaneamente, se tale è richiesto dalla dottrina della transustanziazione, anche se Aristotele la negava. Non mi piace affatto l’idea di ridurre la religione a una semplice arte, quando invece dovrebbe essere considerata una legge; e sebbene essa non sia uguale in tutti i paesi, in ogni caso è indiscutibile. Inoltre, non mi piace nemmeno il modo in cui viene insegnata: non si spiega prima il significato dei termini utilizzati, né si deduce poi la verità che si vuole far credere ai discepoli. E i termini stessi sono per lo più in latino e greco, adattati leggermente al linguaggio locale dei vari paesi in cui vengono usati. Ma ciò che è davvero intollerabile è il fatto che tutti i chierici siano costretti a fingere di credere in queste dottrine se vogliono ottenere qualche vantaggio nella Chiesa, poiché le chiavi per accedere a tali benefici sono nelle mani del Papa; mentre la gente comune, qualunque sia la sua fede riguardo a queste complesse dottrine, non viene mai considerata una “buona figlia della Chiesa” in base alle sue conoscenze. Esiste un solo cammino verso la salvezza: una devozione e generosità straordinarie nei confronti della Chiesa, e la disponibilità a combattere, se necessario, contro i propri sovrani naturali e legittimi per il bene stesso della Chiesa.
+
+B.
+
+Capisco a che scopo utilizzino la logica, la fisica e la metafisica di Aristotele; ma non riesco ancora a comprendere in che modo la sua politica possa essere d’aiuto ai loro intenti.
 
 A.
 
@@ -765,6 +1424,82 @@ I would be glad to see a system of the present morals, written by some divine of
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nemmeno io. Penso che non abbia portato loro alcun beneficio, anzi ci ha causato molti danni, per caso. Gli uomini, infatti, stanchi ormai dell’arroganza dei preti e dopo aver esaminato la veridicità di queste dottrine imposte loro, iniziarono a cercare il vero significato delle Scritture nelle lingue erudite; per questo studiarono il greco e il latino, venendo a conoscenza dei principi democratici di [Aristotele](/figures/aristotle) e [Cicerone](/figures/cicero). Attratti dall’eloquenza di questi autori, iniziarono ad apprezzare anche le loro idee politiche, fino a che ciò si trasformò nella ribellione di cui parliamo oggi. Tutto ciò non portò alcun vantaggio alla Chiesa Romana, se non quello di indebolirci noi, che da quando ci siamo liberati dalla sua influenza durante il regno di Enrico VIII, essa ha continuato a cercare in tutti i modi di riconquistarci.
+
+B.
+
+Che cosa hanno ottenuto dall’insegnamento dell’etica di Aristotele?
+
+A.
+
+È un certo vantaggio per loro il fatto che né la morale di Aristotele, né quella di alcun altro abbia mai arrecato loro danno, né a noi alcun beneficio. Le loro dottrine hanno scatenato molte discussioni riguardo al bene e al male, ma non hanno fornito alcuna conoscenza concreta su ciò che essi siano realmente, né alcun [metodo](/axes/method) per raggiungere il bene o evitare il male. Lo scopo della filosofia morale è insegnare a tutti i tipi di persone quale sia il loro dovere, sia verso la società che gli uni verso gli altri. Essi valutano il bene in base alla mediocrità delle passioni umane e al fatto che venga lodato; mentre in realtà non è la quantità di lodi o rimproveri a rendere un’azione virtuosa o malvagia, ma la sua conformità alle leggi, sia per coloro che sono soggetti a tali leggi, sia per tutti gli esseri umani in generale.
+
+B.
+
+Sembra che tu faccia una distinzione tra l’etica dei soggetti e l’etica dei sovrani.
+
+A.
+
+Ecco ciò che faccio. La virtù di un suddito si compie interamente nell’obbedire alle leggi della [comunità](/concepts/commonwealth). Obbedire alle leggi significa praticare giustizia ed equità, che sono le leggi della natura e, di conseguenza, costituiscono anche il diritto civile in tutte le nazioni del mondo; ciò che è contrario a queste leggi è considerato ingiustizia o malvagità. Altrettanto, obbedire alle leggi rappresenta la prudenza di un suddito: senza tale obbedienza, la comunità – che costituisce la sicurezza e la protezione di ogni individuo – non potrebbe esistere. E sebbene sia anche prudente, per parte dei privati, arricchirsi in modo giusto e moderato, è certamente imprudente trattenere o sottrarre al pubblico una parte della propria ricchezza che la legge richiede; tale comportamento dimostra piuttosto la mancanza di conoscenza di ciò che è necessario per la propria difesa.
+
+Le virtù dei sovrani sono quelle che tendono al mantenimento della pace nel proprio Paese e alla resistenza agli nemici stranieri. La forza d’animo è una virtù regale; e sebbene sia necessaria anche in persone comuni, come i soldati, per gli altri è meglio che abbiano meno coraggio possibile, sia per il bene della comunità che per il loro stesso interesse. La frugalità – anche se forse vi sembrerà strano – è anch’essa una virtù regale: infatti aumenta le risorse pubbliche, le quali non possono mai essere troppo abbondanti per l’utilità collettiva, né può un uomo essere troppo parsimonioso con ciò che ha in custodia al servizio degli altri. Anche la generosità è una virtù regale: senza un impegno straordinario da parte dei funzionari e una grande fedeltà verso il sovrano, la comunità non potrebbe essere ben governata; pertanto questi individui devono essere incoraggiati, soprattutto coloro che prestano servizio al sovrano in tempo di guerra. In sintesi, tutte le azioni e le abitudini vanno giudicate buone o cattive in base alle loro cause e alla loro utilità per la comunità, e non in base alla loro mediocrità o al fatto che siano lodate da alcuni. Molti infatti lodano abitudini diverse; ciò che uno considera virtù, un altro lo biasima; e viceversa, ciò che uno definisce vizio, un altro lo considera virtù, a seconda delle proprie inclinazioni personali.
+
+B.
+
+Credo che avresti dovuto includere tra le virtù quella che, a mio parere, è la più grande di tutte: la religione.
+
+A.
+
+Quindi, sembra che voi non l’abbiate notato. Ma da quale percorso ci siamo allontanati rispetto a quello su cui ci trovavamo prima?
+
+B.
+
+Credo che non vi siate affatto allontanati dal tema principale; infatti, suppongo che il vostro scopo fosse quello di farmi conoscere la storia, non tanto delle azioni avvenute durante i tempi difficili appena trascorsi, quanto delle loro cause, nonché dei consigli e degli stratagemmi attraverso cui tali eventi sono stati realizzati. Ci sono diversi autori che hanno scritto storie di questi fatti; da loro avrei potuto apprendere ciò che essi hanno fatto, nonché alcune informazioni sui metodi utilizzati per compiere tali azioni; tuttavia, in quelle opere trovo ben poco di ciò che desideravo sapere. Pertanto, poiché siete stato così gentile da intraprendere questa conversazione su mia richiesta, vi prego di continuare seguendo il mio stesso metodo di esposizione. E per evitare possibili confusioni, farò in modo di riportarvi al punto da cui abbiamo iniziato; ricordo infatti molto bene dove si trova.
+
+A.
+
+Ebbene, riguardo alla tua domanda sulla religione, poiché ti ho detto che tutte le virtù sono contenute nell’obbedienza alle leggi della comunità, e la religione ne fa parte, ho considerato la religione tra le virtù.
+
+B.
+
+Quindi, la religione è la legge di una comunità?
+
+A.
+
+Non esiste alcuna nazione al mondo la cui religione non sia stabilita e la quale non riceva la propria autorità dalle leggi di quella nazione. È vero che la legge di Dio non trova alcuna conferma nelle leggi umane. Tuttavia, poiché gli uomini non possono mai, con la loro saggezza, giungere alla conoscenza di ciò che Dio ha detto e comandato di osservare, né sono obbligati ad obbedire a leggi le cui autorità non conoscono, devono necessariamente riconoscere l’autorità umana. Quindi sorge la domanda: in materia religiosa, cioè quando si tratta del proprio dovere verso Dio e il Re, un uomo dovrebbe affidarsi alle prediche dei propri concittadini o di uno straniero, oppure alla voce della legge?
+
+B.
+
+Non vi è alcuna grande difficoltà in questo punto. Infatti, non ci sono persone che predichino qui o altrove, o almeno che dovrebbero predicare, se non coloro che hanno l’autorità di farlo da parte di coloro che detengono il potere sovrano. Quindi, se il Re ce lo permette, tu o io possiamo predicare in modo altrettanto legittimo quanto loro; e credo che svolgeremmo questa funzione molto meglio di coloro che ci hanno spinti alla ribellione con le loro prediche.
+
+A.
+
+La morale della Chiesa differisce in molti punti da quella che ho qui esposto riguardo alla dottrina del bene e del male; eppure non presenta alcuna somiglianza con quella di Aristotele. Nella Chiesa di Roma, le virtù principali sono: obbedire alle loro dottrine, anche se ciò costituisce tradimento; essere devoti; essere utili al clero, cioè dimostrare pietà e [generosità](/concepts/charity); e credere nelle loro parole, anche quando si sa nella propria coscienza che sono false, come richiesto dalla fede che essi impongono. Potrei elencare molti altri aspetti della loro morale, ma so che li conoscete già, essendo così ben versati negli scritti dei loro teologi, i quali misurano la bontà e la malvagità di ogni azione in base alla loro conformità con la dottrina del clero romano.
+
+B.
+
+Ma qual è la filosofia morale del clero protestante in Inghilterra?
+
+A.
+
+Quanto mostrano nella loro vita e nelle loro conversazioni è, per lo più, molto positivo e costituisce un ottimo esempio; molto meglio di quanto emerga dalle loro scritture.
+
+B.
+
+Accade spesso che le persone vivano onestamente per paura; se avessero il potere, vivrebbero secondo le proprie opinioni. Il che significa che, se queste opinioni sono sbagliate, vivrebbero in modo ingiusto.
+
+A.
+
+I chierici d’Inghilterra fingono, come fa il Papa o come fanno i presbiteriani, di disporre di un diritto diretto da Dio per governare il Re e i suoi sudditi in tutti gli ambiti della religione e dei costumi? Se lo fanno, non si può dubitare che, se avessero il numero e la forza necessari – qualcosa che mai avranno – tenterebbero di ottenere quel potere, proprio come hanno fatto gli altri.
+
+B.
+
+Sarei felice di vedere un sistema di morale attuale scritto da qualche personaggio divino di buona reputazione e cultura, appartenente al partito del defunto re.
+
+A.
+
 <span class="atom-split" data-atom="013" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 13)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 I think I can recommend unto you the best that is extant, and such a one as (except a few passages that I mislike) is very well worth your reading. The title of it is, The whole Duty of Man laid down in a plain and familiar way. And, yet, I dare say, that if the Presbyterian ministers, even those of them which were the most diligent preachers of the late sedition, were to be tried by it, they would go near to be found not guilty. He has divided the duty of man into three great branches; which are, his duty to God, to himself, and to his neighbour. In his duty to God, he puts the acknowledgment of him in his essence and his attributes, and in the believing of his word. His attributes are omnipotence, omniscience, infiniteness, justice, truth, mercy, and all the rest that are found in [Scripture](/concepts/revelation). Which of these did not those seditious preachers acknowledge equally with the best of Christians? The word of God are the books of Holy Scripture, received for canonical in England.
@@ -831,6 +1566,72 @@ Must tyrants also be obeyed in every thing actively? Or is there nothing wherein
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Credo di potervi consigliare ciò che è di migliore tra quanto esista attualmente; un’opera del genere – ad eccezione di alcune parti che non mi piacciono – merita davvero di essere letta. Il titolo è “L’intera responsabilità dell’uomo, spiegata in modo semplice e accessibile”. Eppure oserei dire che, se i ministri presbiteriani, anche quelli che erano i predicatori più zelanti di quelle sedizioni recenti, fossero giudicati in base a quest’opera, quasi certamente verrebbero dichiarati non colpevoli. L’autore ha diviso la responsabilità dell’uomo in tre grandi ambiti: quella verso Dio, quella verso se stesso e quella verso il prossimo. Per quanto riguarda il dovere verso Dio, egli sottolinea l’importanza di riconoscere la sua essenza e i suoi attributi, nonché di credere nella sua parola. Gli attributi di Dio sono onnipotenza, onniscienza, infinità, giustizia, verità, misericordia, e tutte le altre qualità menzionate nella [Scrittura](/concepts/revelation). Quali di queste cose quei predicatori sediziosi non avrebbero riconosciuto allo stesso modo dei migliori cristiani? La parola di Dio sono i libri della Sacra Scrittura, considerati canonici in Inghilterra.
+
+B.
+
+Ricevono la parola di Dio, ma secondo la loro propria interpretazione.
+
+A.
+
+Secondo quale interpretazione fu recepita dai vescovi e dal resto del partito fedele, se non quella che corrispondeva alle loro intenzioni? Egli propone un altro dovere: l’obbedienza e la sottomissione alla volontà di Dio. Qualcuno di loro, anzi, qualcun uomo vivente, ha mai fatto qualcosa contro la volontà di Dio, in qualsiasi momento?
+
+B.
+
+Per volere di Dio, intendo dire con il suo volere rivelato, cioè i suoi comandamenti, che sono sicuro siano stati gravemente violati da loro, sia attraverso le loro prediche che in altri modi.
+
+A.
+
+Per quanto riguarda le loro stesse azioni, non vi è dubbio che tutti gli uomini siano abbastanza colpevoli da essere condannati se Dio li punisse severamente. Per quanto riguarda i loro insegnamenti, diranno di aver ritenuto che fossero in accordo con la volontà rivelata di Dio nelle Scritture. Se lo pensavano davvero, non si trattava di disobbedienza, ma di errore. E come può qualcuno dimostrare il contrario?
+
+B.
+
+L’ipocrisia possiede questa grande prerogativa rispetto ad altri peccati: non può essere accusata.
+
+A.
+
+Un altro dovere che egli enuncia è onorarlo nella sua casa (cioè nella Chiesa), nelle sue proprietà, nel suo tempo, nella sua parola e nei suoi sacramenti.
+
+B.
+
+Penso che svolgano questa loro funzione altrettanto bene di qualsiasi altro ministro, intendo dire dei membri del partito leale; i presbiteriani hanno sempre prestato la stessa attenzione affinché la casa di Dio fosse libera da profanazioni, affinché i decimi venissero pagati regolarmente e gli offerti accettati, affinché il giorno del sabato fosse rispettato come sacro, che la parola di Dio venisse predicata e che la Cena del Signore e il battesimo venissero celebrati correttamente. Ma non è forse il rispetto delle feste e dei digiuni uno di quei doveri che appartengono all’onore di Dio? Se così fosse, i presbiteriani fallirebbero in questo.
+
+A.
+
+Perché mai? Conservavano alcune feste e osservavano periodi di digiuno tra loro, sebbene non nei giorni stabiliti dalla Chiesa, ma quando ritenevano opportuno; ad esempio, quando Dio concedeva al Re una vittoria significativa. In questo ambito si guidavano dalla Sacra Scrittura, come affermavano di credere. E chi può dimostrare che non ci credano davvero?
+
+B.
+
+Lasciamo da parte tutte le altre responsabilità e concentriamoci su quella che abbiamo verso il Re, considerando se la dottrina insegnata da quei religiosi fedeli al Re sia tale da giustificare l’atteggiamento dei Presbiteriani, che hanno incitato il popolo alla ribellione. Infatti, è proprio questo ciò che vi ponete in discussione.
+
+A.
+
+Riguardo al nostro dovere nei confronti dei nostri governanti, egli dice: “Dobbiamo prestare un’obbedienza, sia attiva che passiva; l’obbedienza attiva è dovuta in tutti i casi di ordini legittimi, cioè quando il magistrato comanda qualcosa che non è contrario a alcun comando di Dio; in tal caso siamo obbligati ad agire secondo tale comando e a compiere ciò che egli richiede. Tuttavia, quando il magistrato ordina qualcosa che è contrario alle istruzioni di Dio, allora non dobbiamo prestargli un’obbedienza attiva; possiamo, anzi dobbiamo, rifiutare di agire in tal modo (ma dobbiamo essere assolutamente certi che tale ordine sia effettivamente contrario alle volontà divine, e non utilizzare la coscienza come scusa per la nostra testardaggine). In quel caso dobbiamo obbedire a Dio piuttosto che agli uomini; tuttavia anche in questo contesto è necessaria un’obbedienza passiva: dobbiamo sopportare con pazienza ciò che egli ci infligge per tale rifiuto, senza alzarci contro di lui per proteggerci”.
+
+B.
+
+Cosa c’è in tutto ciò che possa dare un senso alla ribellione avvenuta di recente?
+
+A.
+
+Diranno di averlo fatto in obbedienza a Dio, poiché credevano che ciò fosse conforme alle Scritture; addurranno esempi, forse di Davide e dei suoi seguaci che si opposero al re Saul, nonché di profeti successivi che con veemenza predicarono contro i re idolatri di Israele e Giuda. Saul era il loro legittimo re, eppure essi non gli resero né obbedienza attiva né passiva; anzi si misero in posizione di difesa contro di lui, anche se lo stesso Davide risparmiò la sua vita. Allo stesso modo, i presbiteriani incaricarono il loro generale di risparmiare la vita del re. Inoltre, non si può dubitare che coloro che, dal pulpito, incitavano il popolo a prendere le armi in difesa dell’allora Parlamento facessero riferimento alle Scritture, cioè alla parola di Dio, a sostegno delle loro argomentazioni. Se dunque è legittimo per i sudditi resistere al re quando questi ordina qualcosa che va contro le Scritture, ovvero contro il volere di Dio, e se è possibile giudicare il significato stesso delle Scritture, allora è impossibile che la vita di un qualsiasi re o la pace di un regno cristiano possano rimanere a lungo sicure. È proprio questa dottrina quella che divide un regno nel suo interno, indipendentemente dal fatto che coloro che la proclamano o la predicano siano leali o ribelli. E così si vede che, se quei ministri sovversivi venissero giudicati secondo questa dottrina, ne uscirebbero senza dubbio indenne.
+
+B.
+
+Lo vedo; e mi meraviglio delle persone che non hanno mai parlato con Dio Onnipotente, e che, non sapendo nulla di più di quanto altri sappiano riguardo a ciò che Egli ha detto, quando le leggi e il predicatore sono in disaccordo, seguono così fedelmente il ministro – per lo più un ignorante, sebbene eloquente – piuttosto che le leggi stesse, emanate dal Re con il consenso dei nobili e del popolo.
+
+A.
+
+Esaminiamo più da vicino le sue parole. Prima di tutto, riguardo all’obbedienza passiva: quando un ladro viola la legge e quindi viene punito secondo le disposizioni della stessa, può davvero qualcuno considerare tale sofferenza come un atto di obbedienza alla legge? Ogni legge è infatti un comando che prescrive di agire o di astenersi da certe azioni; nessuna di queste due cose viene compiuta attraverso la sofferenza. Se qualcosa di doloroso può essere considerato un atto di obbedienza, allora deve trattarsi di un’azione volontaria; infatti, nessun atto involontario può essere considerato una sottomissione alla legge. Chi sostiene che la propria sofferenza debba essere interpretata come un atto di obbedienza non dovrebbe soltanto non resistere, ma nemmeno fuggire o nascondersi per evitare la punizione. E chi mai, tra coloro che parlano di obbedienza passiva, quando la propria vita è in grave pericolo, si presenterà volontariamente agli ufficiali della giustizia? Non vediamo forse che tutti, quando vengono portati al patibolo, sono legati e sorvegliati, e cercherebbero di liberarsi se potessero farlo? Ecco quale sia la loro cosiddetta obbedienza passiva. Cristo dice (Matteo 23,2-3): “I scribi e i Farisei si siedono sulla cattedra di Mosè; quindi tutto ciò che essi vi comandano di fare, fatelo”. Questo rappresenta un atto di obbedienza attiva. Eppure, gli scribi e i Farisei, secondo le Scritture, non sembravano essere persone particolarmente devote, al punto da non comandare mai nulla contro la volontà rivelata di Dio.
+
+B.
+
+Debbero i tiranni essere obbediti attivamente in ogni cosa? O esiste qualcosa per cui il comando di un re legittimo possa essere disatteso? E se mi comandasse di uccidere mio padre con le mie stesse mani, nel caso fosse condannato a morte dalla legge?
+
+A.
+
 <span class="atom-split" data-atom="014" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 14)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 This is a case that need not be put. We never have read nor heard of any King or tyrant so inhuman as to command it. If any did, we are to consider whether that command were one of his laws. For by disobeying Kings, we mean the disobeying of his laws, those his laws that were made before they were applied to any particular person; for the King, though as a father of children, and a master of domestic servants, yet he commands the people in general never but by a precedent law, and as a politic, not a natural person. And if such a command as you speak of were contrived into a general law (which never was, nor never will be), you were bound to obey it, unless you depart the kingdom after the publication of the law, and before the condemnation of your father.
@@ -858,6 +1659,36 @@ All that is required, both in faith and manners, for man’s salvation, is, I co
 A.
 
 All this is no more than happens where the Scripture is sealed up in Greek and Latin, and the people taught the same things out of them by preachers. But they that are of a condition and age fit to examine the sense of what they read, and that take a delight in searching out the grounds of their duty, certainly cannot choose but by their reading of the Scriptures come to such a sense of their duty, as not only to obey the laws themselves, but also to induce others to do the same. For commonly men of age and quality are followed by their inferior neighbours, that look more upon the example of those men whom they reverence, and whom they are unwilling to displease, than upon precepts and laws.
+
+B.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo è un caso che non richiede alcuna spiegazione ulteriore. Non abbiamo mai letto né sentito parlare di nessun re o tiranno così disumano da ordinare una cosa del genere. Se mai ci fosse stato, dovremmo valutare se tale ordine rientrasse tra le sue leggi. Infatti, disobbedire ai re significa disobbedire alle loro leggi, quelle leggi che sono state stabilite prima di essere applicate a persone specifiche; poiché il re, pur essendo considerato un padre per i suoi sudditi e un padrone dei suoi servitori, comanda il popolo nel suo complesso soltanto in base a leggi preesistenti, e agisce come politico, non come individuo privato. E se un ordine del genere venisse elevato a legge generale (cosa che non è mai avvenuta, né accadrà mai), sareste obbligati ad obbedirvi, a meno che non lasciaste il regno dopo la promulgazione della legge e prima che vostro padre venisse condannato.
+
+B.
+
+Il vostro autore afferma inoltre che, rifiutando di obbedire attivamente al Re quando questi ordina qualcosa che è contrario alla legge di Dio, dobbiamo essere assolutamente certi che tale ordine sia effettivamente contrario a quella legge. Vorrei molto sapere come sia possibile esserne certi.
+
+A.
+
+Penso che tu non creda che alcuno di quei rifiutatori riceva, direttamente dalla bocca stessa di Dio, alcun comando contrario a quello del Re, che è il luogotenente di Dio, né in alcun altro modo diverso da come facciamo tu e io, cioè attraverso le [Scritture](/concepts/revelation). E poiché la maggior parte delle persone tende piuttosto ad interpretare le Scritture secondo i propri concetti personali, piuttosto che seguirla nel suo vero significato, non esiste altra via per conoscere con certezza, in ogni caso, ciò che Dio comanda o ci vieta di fare, se non attraverso la sentenza di coloro che sono incaricati dal Re di interpretare il senso delle Scritture, in base alla specifica situazione morale in questione. E tali persone sono facilmente riconoscibili in tutte le comunità cristiane: siano vescovi, ministri o assemblee che governano la Chiesa sotto coloro che detengono il potere sovrano.
+
+B.
+
+Si possono sollevare alcune obiezioni riguardo a quanto ora avete detto. Infatti, se gli uomini dovessero imparare il proprio dovere dalle interpretazioni altrui riguardo al significato delle Scritture, e non dalle proprie interpretazioni personali, non capisco a quale scopo siano state tradotte in inglese, né perché a ogni uomo sia stato non solo permesso, ma anche incoraggiato a leggerle. Cosa potrebbe derivarne, se non una diversità di opinioni e, di conseguenza, dispute, mancanza di [carità](/concepts/charity), disobbedienza e, infine, ribellione? Inoltre, poiché era consentito leggere le Scritture in inglese, perché non sono state realizzate traduzioni in modo che anche le persone meno istruite potessero comprenderle facilmente? I Giudei, ad esempio, coloro che sapevano leggere, comprendevano la loro legge nella lingua ebraica, proprio come noi comprendiamo le nostre leggi statali in inglese. Per quanto riguarda quelle parti delle Scritture che non avevano il carattere di leggi, non era affatto obbligatorio per i Giudei comprenderle o meno, poiché nulla può essere punito se non la violazione di una legge. La stessa domanda si può porre riguardo al Nuovo Testamento. Credo infatti che coloro a cui la lingua originale fosse naturale comprendessero pienamente quali comandi e insegnamenti ricevevano dal nostro Salvatore, dai suoi apostoli e dai suoi discepoli immediati. Inoltre, come risponderete alla domanda posta da San Pietro e San Giovanni (Atti 4,19), quando Annas, il sommo sacerdote, e gli altri membri del Concilio di Gerusalemme loro vietarono di continuare a insegnare in nome di Gesù: “È giusto davanti a Dio ascoltare voi piuttosto che Lui?”
+
+A.
+
+La situazione non è la stessa. Pietro e Giovanni avevano visto e conversato quotidianamente con il nostro Salvatore; e attraverso i miracoli che Egli compiva, sapevano con certezza che Era Dio, e quindi erano consapevoli che la loro disobbedienza all’ordine del sommo sacerdote fosse giusta. Può forse qualche ministro affermare oggi di aver ricevuto direttamente dalla bocca stessa di Dio l’ordine di disobbedire al Re, o può conoscere in qualche altro modo, diverso dalle Scritture, che qualsiasi ordine del Re che abbia la forma e la natura di una legge sia contrario alla legge di Dio, la quale in più punti comanda esplicitamente di obbedirgli in tutto? Il testo che citate non ci dice affatto che l’autorità di un ministro, piuttosto che quella di un Re cristiano, debba decidere su questioni derivanti da diverse interpretazioni delle Scritture. Pertanto, quando il Re è capo della Chiesa – e quindi, per non menzionare il fatto che le stesse Scritture furono ricevute proprio attraverso l’autorità di Re e Stati – giudice supremo della rettitudine di tutte le interpretazioni delle Scritture, obbedire alle leggi e agli editti pubblici del Re significa non disobbedire, ma obbedire a Dio. Un ministro non dovrebbe pensare che la sua padronanza delle lingue latina, greca o ebraica gli dia il diritto di imporre ai suoi connazionali la propria interpretazione, o quella che pretende essere la propria, di ogni passaggio oscuro delle Scritture; né dovrebbe ritenere, ogni volta che trova un’interpretazione “originale” che altri non hanno mai considerato, di averla ricevuta per ispirazione: poiché non può esserne certo; anzi, non può nemmeno essere sicuro che tale interpretazione, per quanto raffinata possa sembrare, non sia errata. E allora tutta la sua ostinazione e ribellione verso il Re e le sue leggi non sono altro che orgoglio, ambizione o inganno. E mentre voi ritenete inutile, o forse dannoso, disporre delle Scritture in inglese, io la penso diversamente: ci sono infatti molti passaggi delle Scritture facilmente comprensibili, che insegnano sia la vera fede che una buona morale (e tutto ciò che è necessario per la salvezza), e di cui nessun seduttore può privare la mente di un lettore comune; quindi leggerli è così proficuo che non dovrebbe essere vietato, senza causare gravi danni né a loro né alla [comunità](/concepts/commonwealth).
+
+B.
+
+Tutto ciò che è necessario, sia nella fede che nei comportamenti, per la salvezza dell’uomo è, confesso, descritto nelle Scritture con estrema chiarezza. I bambini devono obbedire ai loro genitori in ogni cosa; i servi devono obbedire ai loro padroni; tutti gli uomini debbono sottomettersi alle autorità superiori, sia il Re che coloro che sono inviati da lui. “Amate Dio con tutta la vostra anima e il vostro prossimo come voi stessi”: queste sono parole delle Scritture ben comprensibili; tuttavia né i bambini né la maggior parte degli uomini comprendono davvero perché sia loro dovere agire in questo modo. Non vedono che la sicurezza della comunità, e di conseguenza anche la loro stessa, dipende dal loro rispetto di tali principi. Ogni uomo, per natura e senza alcuna disciplina, nelle proprie azioni considera soltanto il beneficio che ne trarrà. Legge che l’avidità è alla radice di tutti i mali; ma pensa, e a volte scopre davvero, che essa sia la fonte della sua fortuna. E così, in altri casi, le Scritture dicono una cosa, mentre loro ne pensano un’altra, valutando soltanto i vantaggi o gli svantaggi di questa vita terrena, senza mai considerare i beni e i mali della vita futura, che non possono vedere.
+
+A.
+
+Tutto ciò non è altro che quanto accade quando le Scritture vengono conservate in greco e latino, e la gente viene istruita su di esse attraverso i predicatori. Ma coloro che sono nella condizione e nell’età adatta per esaminare il significato di ciò che leggono, e che trovano piacere nel cercare le basi dei propri doveri, non possono fare a meno, attraverso la lettura delle Scritture, di giungere a una comprensione dei propri doveri tale da indurli non solo ad obbedire alle leggi stesse, ma anche a incoraggiare gli altri a fare lo stesso. Infatti, solitamente le persone mature e di qualità sono seguite dai loro vicini meno istruiti, i quali danno più importanza all’esempio di coloro che rispettano e di cui non vogliono dispiacere, piuttosto che ai precetti e alle leggi.
 
 B.
 
@@ -899,6 +1730,44 @@ This that you say looks, methinks, like an advice to the King, to let them alone
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Questi uomini, di quella condizione e di quell’età di cui parlate, a mio avviso sono i meno adatti tra tutti per essere incaricati della lettura delle [Scritture](/concepts/revelation). Intendete certamente coloro che hanno studiato il greco o il latino, o entrambe le lingue, e che inoltre amano la conoscenza, e quindi trovano piacere nel scoprire il significato dei testi più difficili, o nell’immaginare di averlo scoperto, soprattutto se si tratta di concetti nuovi e mai esplorati prima. Sono proprio questi coloro che, trascurando le parti delle Scritture più semplici e chiare che insegnano loro i loro doveri, si dedicano soltanto all’analisi dei misteri della religione. Si occupano di questioni del genere: come possa essere dimostrato con arguzia che ci siano tre entità che governano il cielo, e che queste tre in realtà siano una sola; come la divinità abbia potuto incarnarsi in carne umana; come quella carne possa trovarsi realmente in più luoghi contemporaneamente; dove si trovi l’inferno e quali siano i suoi tormenti; e altre dottrine metafisiche del genere. Si chiedono anche se la volontà umana sia libera o sia governata dalla volontà di Dio, se la santità derivi dall’ispirazione o dall’[educazione](/concepts/education), e da chi Cristo parli ora a noi: se dal Re, dal clero, dalla Bibbia, da ogni persona che la legga e la interpreta a modo suo, oppure da uno spirito particolare. Questi argomenti sono oggetto di studio solo per coloro che amano le speculazioni oziose; sono inoltre la causa di tutti i mali che abbiamo vissuto negli ultimi tempi, e fanno sì che anche le persone più semplici, quelle che le Scritture avevano insegnato a credere in Cristo, ad amare Dio, ad obbedire al Re e a comportarsi con sobrietà, finiscano per dimenticare tutto ciò e affidare la loro fede alle dottrine discutibili di questi vostri “sapienti”.
+
+A.
+
+Non credo che questi uomini siano idonei a interpretare la Scrittura per gli altri; né affermo che gli altri debbano considerare le loro interpretazioni come parole di Dio. Quello che è necessario che sappiano è così semplice da non richiedere alcuna spiegazione; tutto ciò che va oltre non porta loro alcun beneficio. Tuttavia, qualora alcune di queste dottrine inutili venissero autorizzate dalle leggi del Re o di altro stato, dico che sia dovere di ogni suddito non opporsi ad esse: poiché è dovere di ogni uomo obbedire a coloro che detengono il potere sovrano, e poiché la saggezza di tale potere consiste nel punire coloro che diffondono o insegnano interpretazioni personali contrarie alla legge, e che possono indurre le persone alla sedizione o al dissenso contro la legge stessa.
+
+B.
+
+Dovrebbero quindi punire soprattutto coloro che hanno ricevuto la loro istruzione nelle Università. Infatti, sono proprio nelle Università che vengono sollevate per prime queste curiose questioni di teologia, così come tutte quelle questioni politiche relative ai diritti del governo civile ed ecclesiastico; lì vengono forniti argomenti a favore della libertà, tratti dalle opere di [Aristotele](/figures/aristotle), Platone, [Cicerone](/figures/cicero), Seneca, nonché dalle storie di Roma e Grecia, per contrastare il potere necessario dei sovrani. Pertanto, dispero di una pace duratura tra di noi, finché le Università non orienteranno i loro studi verso l’instaurazione della pace stessa, cioè verso l’insegnamento dell’obbedienza assoluta alle leggi del Re e ai suoi decreti ufficiali, sigillati con il Grande Sigillo d’Inghilterra. Non ho dubbi che una ragione solida, sostenuta dall’autorità di tanti studiosi, possa essere più efficace nel mantenere la pace tra di noi di qualsiasi vittoria militare sui ribelli. Tuttavia, temo che sia impossibile indurre le Università a conformarsi completamente alle esigenze dello Stato.
+
+A.
+
+Visto che le Università hanno finora, di tanto in tanto, mantenuto l’autorità del Papa, in contrasto con tutte le leggi divine, civili e naturali, nonché contro i diritti dei nostri Re, perché non dovrebbero altrettanto, avendo dalla loro parte ogni sorta di leggi ed equità, difendere i diritti di colui che è sia sovrano del regno che capo della Chiesa?
+
+B.
+
+Allora, perché non si schierarono in tutto per il potere del Re, subito dopo che re Enrico VIII dichiarò di essere la guida della Chiesa in Parlamento, esattamente come avevano fatto prima a sostegno dell’autorità del Papa?
+
+A.
+
+Poiché il clero presente nelle università, che ha il potere di governare tutte le attività accademiche, così come il clero al di fuori delle università – sia i vescovi che i sacerdoti di rango inferiore – riteneva che la destituzione del Papa equivalesse al loro stesso innalzamento al suo posto, soprattutto in Inghilterra; e la maggior parte di loro non aveva alcun dubbio sul fatto che il loro potere spirituale dipendesse non dall’autorità del Re, ma da Cristo stesso, trasmesso loro attraverso una successiva cerimonia di consacrazione da vescovo a vescovo. Nonostante ciò, sapevano bene che tale autorità era passata anche per le mani di papi e vescovi i cui poteri avevano rifiutato di riconoscere. Poiché erano disposti ad ammettere che il “diritto divino” che il Papa pretendeva in Inghilterra gli dovesse essere negato, ritenevano tuttavia che non fosse appropriato toglierlo alla Chiesa d’Inghilterra, di cui ora si consideravano i rappresentanti. Sembrava loro irragionevole che una donna, un bambino, o un uomo che non fosse in grado di comprendere la Bibbia in ebraico, greco o latino, né di conoscere le regole di declinazione e coniugazione dei nomi e verbi greci o latini, potesse assumersi il compito di governare tanti dottori eruditi in questioni religiose; intendendo con ciò argomenti legati alla divinità. Poiché da molto tempo, e ancora oggi per la maggior parte delle persone, la religione viene considerata sinonimo di divinità, il che rappresenta un grande vantaggio per il clero stesso.
+
+B.
+
+E soprattutto ora, tra i Presbiteriani. Infatti, vedo pochi di loro che siano considerati veri cristiani, se non coloro che sono in grado di ripetere i loro sermoni, di discutere con loro sull’interpretazione delle Scritture e, quando necessario, di combattere per loro anche con il corpo o con il denaro. Per loro, credere in Cristo non significa nulla, se non ciò che loro stessi vogliono che si creda. La carità, per loro, non è altro che [amore](/concepts/charity) e generosità verso di loro, nonché partecipazione alle loro lotte intestine. Non so come possiamo vivere in pace, con una religione del genere. La dottrina sediziosa dei Presbiteriani si è radicata così profondamente nella mente e nella memoria delle persone (non posso dire nei loro cuori; infatti non comprendono nulla di essa, se non che permette loro di ribellarsi legalmente), che temo che la [comunità](/concepts/commonwealth) non possa mai essere guarita.
+
+A.
+
+Le due grandi virtù che caratterizzavano rispettivamente Enrico VII ed Enrico VIII, se unite in un solo re, potranno facilmente risolvere i problemi del regno. La virtù di Enrico VII consisteva nel rifornire i propri forzieri senza suscitare troppa opposizione popolare; quella di Enrico VIII era una certa severità nelle azioni governative, ma questa seconda virtù non può essere esercitata senza la prima.
+
+B.
+
+Quello che dici sembra, a mio parere, un consiglio per il Re: lasciarli in pace finché non avrà raccolto abbastanza denaro per reclutare e mantenere un esercito adeguato, e poi attaccarli e distruggerli.
+
+A.
+
 <span class="atom-split" data-atom="016" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 God forbid that so horrible, unchristian, and inhuman a design should ever enter into the King’s heart. I would have him have money enough readily to raise an army able to suppress any rebellion, and to take from his enemies all hope of success, that they may not dare to trouble him in the reformation of the Universities; but to put none to death without the actual committing such crimes as are already made capital by the laws. The core of rebellion, as you have seen by this, and read of other rebellions, are the Universities; which nevertheless are not to be cast away, but to be better disciplined: that is to say, that the politics there taught be made to be, as true politics should be, such as are fit to make men know, that it is their duty to obey all laws whatsoever that shall by the authority of the King be enacted, till by the same authority they shall be repealed; such as are fit to make men understand, that the civil laws are God’s laws, as they that make them are by God appointed to make them and to make men know, that the people and the Church are one thing, and have but one head, the King; and that no man has title to govern under him, that has it not from him; that the King owes his crown to God only, and to no man, ecclesiastic or other; and that the religion they teach there, be a quiet waiting for the coming again of our blessed Saviour, and in the mean time a resolution to obey the King’s laws, which also are God’s laws; to injure no man, to be in [charity](/concepts/charity) with all men, to cherish the poor and sick, and to live soberly and free from scandal; without mingling our religion with points of natural philosophy, as freedom of will, incorporeal substance, everlasting nows, ubiquities, hypostases, which the people understand not, nor will ever care for. When the Universities shall be thus disciplined, there will come out of them, from time to time, well-principled preachers, and they that are now ill-principled, from time to time fall away.
@@ -916,6 +1785,24 @@ I think it were better to give over here our discourse of this business, and ref
 B.
 
 Content. That day I believe is not far off.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dio non voglia che un progetto così orribile, inumano e contrario ai principi cristiani entri mai nel cuore del Re. Vorrei che avesse abbastanza denaro per reclutare un esercito capace di soffocare qualsiasi ribellione e privare i suoi nemici di ogni speranza di successo, in modo che non osassero disturbarlo nella riforma delle Università; ma che nessuno venisse messo a morte se non avesse realmente commesso crimini puniti dalla legge. Il nucleo della ribellione, come avete visto da questo esempio e letto di altre rivolte, sono le Università; tuttavia queste non devono essere abbandonate, ma piuttosto disciplinate meglio: in altre parole, i principi politici insegnati lì devono essere tali da far comprendere agli uomini che è loro dovere obbedire a tutte le leggi emanate dall’autorità del Re, fino a quando non vengano revocate con la stessa autorità; devono anche far capire che le leggi civili sono leggi di Dio, poiché coloro che le stabiliscono sono stati da Dio incaricati di farle e di farle conoscere al popolo; inoltre, deve essere chiarito che il popolo e la Chiesa sono una cosa sola e hanno un solo capo: il Re; che nessuno ha diritto di governare sotto di lui se non ne ha ricevuto l’autorizzazione; che il Re deve la sua corona soltanto a Dio, e a nessun altro, né ecclesiastico né civile; infine, che la religione insegnata nelle Università debba consistere in un attento attesa del ritorno del nostro benedetto Salvatore, e nel rispetto delle leggi del Re, che sono anche leggi di Dio; inoltre, tale religione deve incoraggiare a non fare del male a nessuno, ad essere [caritatevoli](/concepts/charity) con tutti, a prendersi cura dei poveri e dei malati, e a vivere in modo sobrio e senza scandali; inoltre, la nostra fede non deve mescolarsi con concetti di filosofia naturale, come la libertà della volontà, l’esistenza di sostanze incorporee o l’eternità dell’anima, concetti che il popolo non comprende e di cui non si curerà mai. Quando le Università saranno così disciplinate, ne emergeranno, di tanto in tanto, predicatori di principi morali elevati; mentre coloro che attualmente seguono idee errate finiranno per allontanarsi da tali principi.
+
+B.
+
+Penso che sia un percorso molto valido, e forse l’unico in grado di rendere la nostra armonia reciproca stabile e duratura. Infatti, se le persone non conoscono il proprio dovere, cosa può costringerle ad obbedire alle leggi? Un esercito, direte voi. Ma cosa potrà costringere l’esercito stesso a farlo? Non erano forse quelle truppe ben addestrate un esercito? E non erano forse i giannizzeri quelli che, non molto tempo fa, uccisero Osman nel suo stesso palazzo a Costantinopoli? Pertanto condivido la vostra opinione: sia che le persone possano essere indotte ad amare l’obbedienza attraverso predicatori e gentiluomini che in giovane età insegnino loro principi morali nelle università, sia che non potremo mai avere una pace duratura finché le stesse università non siano riformate nel modo che avete descritto; finché i funzionari pubblici non comprendano di non disporre di alcun potere se non quello concesso loro dal supremo potere civile; e finché la nobiltà e la gente comune non capiscano che la libertà di uno stato non significa essere esenti dalle leggi del proprio paese, sia che queste siano emanate da un’assemblea o da un monarca, ma piuttosto significare essere al riparo dalla coercizione e dall’arroganza dei propri vicini.
+
+E ora che sono soddisfatto su questo punto, vi riporterò al luogo da cui la mia curiosità vi ha portato in questa lunga digressione. Ci trovavamo proprio di fronte alla questione delle tasse sulle navi; uno di quei problemi contro i quali il Parlamento si scagliava, definendoli espressioni di un governo tirannico e arbitrario; un modo, insomma, per separare, come voi stesso avete detto, il Re dai suoi sudditi e creare una fazione contro di lui quando ne fosse sorta la necessità. Ora potete proseguire, se vi piace, con altri metodi simili a quelli che venivano utilizzati allo stesso scopo.
+
+A.
+
+Penso che sarebbe meglio interrompere qui il nostro discorso su questa questione e rimandarlo a un altro giorno, quando voi lo riterrete opportuno.
+
+B.
+
+Contenuto. Credo che quel giorno non sia lontano.
 
 <span class="atom-split" data-atom="017" data-title="PART II. (parte 1)" data-chapter="PART II." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
@@ -958,6 +1845,50 @@ A state can constrain obedience, but convince no error, nor alter the mind of th
 B.
 
 But what are the points they disagree in? Is there any controversy between Bishop and Presbyterian concerning the divinity or humanity of Christ? Do either of them deny the Trinity, or any article of the creed? Does either party preach openly, or write directly, against justice, [charity](/concepts/charity), sobriety, or any other duty necessary to salvation, except only the duty to the King; and not that neither, but when they have a mind either to rule or destroy the King? Lord have mercy upon us! Can nobody be saved that understands not their disputations? Or is there more requisite, either of faith or honesty, for the salvation of one man than another? What needs so much preaching of faith to us that are no heathens, and that believe already all that Christ and his apostles have told us is necessary to salvation, and more too? Why is there so little preaching of justice? I have indeed heard righteousness often recommended to the people, but I have seldom heard the word justice in their sermons; nay, though in the Latin and Greek Bible the word justice occur exceeding often, yet in the English, though it be a word that every man understands, the word righteousness (which few understand to signify the same, but take it rather for rightness of opinion, than of action or intention), is put in the place of it.
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+A.
+
+Prego, non c’è di che. Tuttavia, se fossi rimasto un po’ più a lungo, la mia [memoria](/concepts/memory) avrebbe potuto fornirti informazioni ancora più utili.
+
+B.
+
+No, vi prego, datemi ora ciò che avete con voi; per il resto, sono soddisfatto se lo prendete quando volete.
+
+A.
+
+Dopo che il Parlamento aveva convinto il popolo che la riscossione della cosiddetta “tassa sulle navi” fosse illegale, e di conseguenza il popolo tendeva a considerarla tirannica; per aumentare ulteriormente il loro disprezzo verso Sua Maestà, lo accusarono di voler introdurre e autorizzare la religione romana in questo regno: nulla c’era di più odioso per il popolo; non perché tale religione fosse errata – poiché essi non possedevano né l’istruzione né il giudizio necessari per valutarla – ma perché erano abituati ad ascoltare critiche contro di essa nei sermoni e nei discorsi dei predicatori in cui avevano fiducia. E questa fu davvero la calunnia più efficace per allontanare i sentimenti del popolo da Sua Maestà. Il pretesto addotto per diffondere queste accuse era il seguente: in quel periodo, un certo Rosetti, residente presso la regina, e un certo signor George Con, segretario del cardinale Francesco Barberini – nipote di papa Urbano VIII – erano stati inviati, con il favore e la protezione della regina, allo scopo di convincere quante più persone di rilievo presenti alla corte ad aderire alla Chiesa di Roma. Non so con quale successo; ma è probabile che abbia ottenuto qualche risultato, soprattutto tra le donne. Se posso dire così, queste donne furono persuase non tanto dalle sue argomentazioni, quanto dalla speranza di ricevere favori da parte della regina.
+
+B.
+
+In una situazione del genere, forse sarebbe stato meglio che non fossero stati inviati.
+
+A.
+
+Si sollevarono anche obiezioni riguardo a un convento di frati cappuccini situato a Somerset-House, sebbene tale istituzione fosse consentita dagli articoli del matrimonio; inoltre si riferì che poco dopo anche ai gesuiti fu concesso di fondare un convento a Clerkenwell. Nel frattempo, il principale segretario, Sir Francis Windebank, fu accusato di aver liberato, con il proprio mandato, alcuni gesuiti inglesi che erano stati catturati e imprigionati per essere tornati in Inghilterra dopo l’esilio, in violazione della legge che prevedeva la pena di morte per tale reato. Inoltre, il fatto che i cattolici inglesi si recassero nella cappella della Regina dava loro motivo di biasimarla personalmente, non solo per questo, ma anche per tutte le favori concessi ai cattolici; al punto che alcuni di loro osavano affermare apertamente che il Re fosse guidato da lei.
+
+B.
+
+Che ingiustizia strana! La Regina era cattolica per professione, e quindi non poteva fare altro che cercare di fare del bene ai cattolici nel limite delle sue possibilità: altrimenti non sarebbe stata davvero ciò che professava di essere. Ma sembra che volessero costringerla all’ipocrisia, essendo loro stessi ipocriti. Chi può considerare un crimine, da parte di una donna devota, di qualsiasi setta si tratti, il cercare la favore e la benedizione della Chiesa di cui fa parte?
+
+A.
+
+Per dare al Parlamento un ulteriore pretesto per le sue accuse contro il Re riguardo all’introduzione del papismo, scoppiò una grande controversia tra il clero episcopale e presbiteriano sulla questione della libertà di volontà. La disputa iniziò prima nei Paesi Bassi, tra Gomar e Arminio, al tempo del Re Giacomo I, il quale, prevendo che potesse causare problemi alla Chiesa d’Inghilterra, fece tutto il possibile per risolvere la differenza di opinione. Fu quindi convocata un’assemblea di teologi a Dort; anche il Re Giacomo vi inviò alcuni dei suoi ecclesiastici, ma senza alcun risultato: la questione rimase irrisolta e divenne oggetto di dibattito nelle università locali. Tutti i presbiteriani condividevano l’opinione di Gomar; tuttavia molti altri erano in disaccordo, e questi venivano chiamati Arminiani. Poiché la dottrina della libertà di volontà era considerata una dottrina papista, e poiché i presbiteriani costituivano la maggioranza e godevano del favore del popolo, questi ultimi erano generalmente odiati. Fu quindi facile per il Parlamento diffondere queste calunnie tra la gente, soprattutto quando l’Arcivescovo di Canterbury, il Dr. Laud, sosteneva le tesi di Arminio e, poco prima, aveva utilizzato il proprio potere ecclesiastico per proibire a tutti i ministri di predicare al popolo sulla dottrina della [predestinazione](/concepts/predestination); inoltre, tutti quei ministri che erano in buoni rapporti con lui e speravano di ottenere promozioni nella Chiesa si impegnarono con tutte le loro forze a difendere la libertà di volontà, presentandola come prova della propria competenza e merito. Alcuni addirittura diffusero voci secondo cui l’Arcivescovo fosse in realtà un papista, e che, qualora avesse ottenuto la [tolleranza](/positions/toleration) della religione romana in Inghilterra, gli sarebbe stato concesso il titolo di cardinale: queste accuse erano sia false che prive di qualsiasi fondamento.
+
+B.
+
+È strano che studiosi, persone oscure le quali non possono ricevere alcuna chiarezza se non dalla luce dello [stato](/concepts/state), vengano lasciati portare le loro dispute inutili, insieme ai loro litigi, fuori dalle università e nel [gregge comune](/concepts/commonwealth); ed è ancora più strano che lo stato si schieri con una delle parti in lotta, invece di far tacere entrambe.
+
+A.
+
+Uno stato può costringere alla obbedienza, ma non può convincere coloro che ritengono di avere ragioni più valide, né modificare il loro modo di pensare. La repressione delle dottrine non fa altro che unire e accrescere l’astio e il potere di coloro che già le credono.
+
+B.
+
+Ma su quali punti sono in disaccordo? Esiste qualche controversia tra il Vescovo e i Presbiteriani riguardo alla divinità o all’umanità di Cristo? Uno dei due nega forse la Trinità, o qualche articolo della fede? Una delle due parti predica apertamente, o scrive esplicitamente contro la giustizia, la [carità](/concepts/charity), la sobrietà, o qualsiasi altro dovere necessario per la salvezza, tranne forse quello verso il Re. E non perché entrambi questi doveri siano trascurati, ma quando hanno l’intenzione di governare o distruggere il Re. Signore, abbia pietà di noi! Non può forse essere salvato chi non comprende le loro dispute? O è davvero necessaria una fede o un’onestà maggiori per la salvezza di alcune persone rispetto ad altre? Perché c’è così poco insegnamento sulla giustizia? Ho infatti sentito spesso la rettitudine essere raccomandata al popolo, ma raramente ho udito il termine “giustizia” nei loro sermoni; anzi, sebbene nella Bibbia latina e greca questo termine compaia molto frequentemente, nell’inglese – pur essendo una parola che tutti comprendono – viene spesso sostituito con “rettitudine”, termine che pochi usano nel senso proprio di giustizia nelle azioni o nelle intenzioni, ma piuttosto per indicare correttezza di opinione.
 
 A.
 
@@ -1032,6 +1963,80 @@ Nor I.
 B.
 
 Had this been by any former statutes made treason?
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Confesso di conoscere ben poche controversie tra cristiani riguardanti punti necessari alla salvezza. Sono soprattutto le questioni di autorità e potere sulla Chiesa, oppure quelle relative a guadagno o onore dei chierici a suscitare la maggior parte delle controversie. Infatti, quale uomo si preoccuperebbe e litigherebbe con i propri vicini per la salvezza della mia anima o di quella di qualcun altro? Quando i ministri presbiteriani e altri predicavano così seriamente sedizione e incitavano la gente alla ribellione durante le guerre recenti; chi era mai che, avendo un beneficio ecclesiastico o temendone la perdita, oppure qualche altra parte del proprio sostentamento a causa del cambiamento di governo, avrebbe predicato con altrettanta serietà contro la sedizione, come l’altra parte la predicava in favore? Confesso che, per quanto ho potuto osservare nella storia e in altri scritti degli antichi pagani, greci e latini, quegli stessi pagani non erano affatto inferiori a noi per virtù e doveri morali, nonostante noi abbiamo avuto tanta predicazione e loro nessuna. Confesso inoltre che, considerando il danno che può derivare da una libertà che gli uomini hanno, ogni domenica e anche più spesso, di arringare tutto il popolo di una nazione in un solo momento, mentre lo Stato ignora ciò che diranno; e che non esiste nulla di simile permesso nel mondo intero fuori dalla Cristianità, né quindi guerre civili per motivi religiosi; ho pensato che la predicazione sia un inconveniente. Tuttavia, non posso credere che predicare al popolo i punti del suo dovere, sia verso Dio che verso il prossimo, possa essere troppo frequente; purché lo facciano uomini seri, prudenti e anziani, rispettati dal popolo; e non giovani leggeri e sottili, ai quali nessuna congregazione è tanto semplice da voler essere istruita (poiché sarebbe contrario alla natura), né da tributare loro alcun rispetto, né da curarsi di ciò che dicono, tranne alcuni pochi che possono divertirsi con le loro frasi brillanti. Vorrei con tutto il cuore che ci fossero abbastanza uomini così prudenti e anziani da bastare per tutte le parrocchie d’Inghilterra, e che essi volessero assumersene la responsabilità. Ma questo è soltanto un desiderio; lascio alla saggezza dello Stato il compito di fare ciò che ritiene più opportuno.
+
+B.
+
+Che cosa fecero poi?
+
+A.
+
+Dato che il Re aveva inviato prigionieri in luoghi lontani da Londra, tre persone condannate per aver diffuso dottrine sediziose, alcune per iscritto, altre in sermoni pubblici; il Parlamento (non ricordo se con il consenso del sovrano o no) fece sì che venissero liberati e tornassero a Londra; intendendo, credo, vedere come il popolo ne sarebbe stato contento e, di conseguenza, quanto fossero già andati a buon fine i loro sforzi per distogliere l’affetto del popolo dal Re. Quando questi tre passarono per Londra, fu una specie di trionfo: la gente accorse per vederli e li accolse con acclamazioni e quasi adorazione, come se fossero stati fatti scendere dal cielo; tanto che ora il Parlamento era sufficientemente certo di avere un partito numeroso e tumultuoso, ogni volta che avesse avuto occasione di farne uso. Forte di questa certezza, procedette al suo piano successivo, che era quello di privare il Re di quei ministri che, grazie alla loro saggezza, coraggio e autorità, ritenevano più capaci di impedire o contrastare i loro ulteriori disegni contro il Re. E innanzitutto, la Camera dei Comuni decise di accusare l’arciduca Strafford, Lord Luogotenente d’Irlanda, di alto tradimento.
+
+B.
+
+Chi era l’arciduca Strafford prima di ottenere quel posto? E in che modo aveva offeso il Parlamento o dato motivo di pensare che sarebbe diventato loro nemico? Perché ho sentito dire che nei precedenti Parlamenti era stato altrettanto parlamentare quanto chiunque altro.
+
+A.
+
+Il suo nome era Sir Thomas Wentworth, un gentiluomo per nascita e condizione molto considerevole nella sua contea, cioè lo Yorkshire; ma ancora più considerato per il suo giudizio nelle questioni pubbliche, non solo di quella contea, ma in generale del regno; e perciò era spesso scelto per il Parlamento, sia come borghese di qualche borgo, sia come cavaliere della contea. I suoi principi politici erano gli stessi su cui si basavano generalmente tutti gli altri uomini ritenuti idonei a essere eletti al Parlamento; e sono comunemente questi: prendere come norma di giustizia e governo le decisioni e gli atti dei precedenti Parlamenti, che vengono comunemente chiamati precedenti; cercare di evitare che il popolo fosse soggetto a tasse extra-parlamentari e che, con le tasse parlamentari, non fosse troppo oppresso; preservare la libertà del corpo del popolo dall’autorità arbitraria del Re fuori dal Parlamento; cercare riparazione per i torti subiti.
+
+B.
+
+Quali torti?
+
+A.
+
+I torti erano comunemente questi: la troppa liberalità del Re verso qualche favorito; il troppo potere di qualche ministro o funzionario del comune; la malversazione dei giudici, civili o spirituali; ma soprattutto ogni raccolta di denaro non parlamentare sui sudditi. E di recente, finché questi torti non fossero riparati, essi rifiutavano, o almeno facevano grande difficoltà, a fornire al Re il denaro necessario per le occasioni più urgenti del comune.
+
+B.
+
+Come può allora un Re assolvere il suo dovere come dovrebbe, o il suddito sapere a quale dei suoi padroni obbedire? Poiché qui ci sono manifestamente due poteri che, quando casualmente entrano in conflitto, non possono essere entrambi obbediti.
+
+A.
+
+È vero; ma non sono spesso entrati in conflitto fino al punto di mettere in pericolo il comune, come invece è successo in questo Parlamento del 1640. In tutti i Parlamenti del defunto Re Carlo prima del 1640, mio Signore Strafford si era mostrato contrario alle richieste del Re quanto chiunque altro e, per questo motivo, era molto stimato e lodato dal popolo come un buon patriota, uno che si era coraggiosamente schierato in difesa delle loro libertà; e per la stessa ragione era tanto più odiato quando, in seguito, aveva cercato di mantenere l’autorità reale e giusta del suo sovrano.
+
+B.
+
+Come mai aveva cambiato tanto la sua opinione, come sembra che abbia fatto?
+
+A.
+
+Dopo lo scioglimento del Parlamento tenutosi negli anni 1627 e 1628, il Re, non trovando denaro da ricavare dai Parlamenti che non doveva comprare col sangue dei servitori e ministri che amava di più, si astenne a lungo dal convocarne altri, e si sarebbe astenuto ancora più a lungo se la ribellione degli scozzesi non lo avesse costretto a farlo. Durante quel Parlamento, il Re aveva creato Sir Thomas Wentworth barone, raccomandandolo per la sua grande capacità, che era stata generalmente nota per il disservizio che aveva reso al Re nei precedenti Parlamenti, ma che poteva risultargli utile nei tempi che stavano arrivando: e poco dopo lo aveva nominato membro del Consiglio, e poi nuovamente Luogotenente d’Irlanda, carica che aveva ricoperto con grande soddisfazione e beneficio per il sovrano, e aveva continuato in quell’incarico finché, per l’invidia e la violenza dei Lords e dei Commons di quel sfortunato Parlamento del 1640, era morto. In quell’anno era stato nominato generale delle forze reali contro gli scozzesi che allora erano entrati in Inghilterra, e l’anno prima, arciduca Strafford. Fatta la pacificazione e smobilitate le forze da entrambe le parti, e ora che il Parlamento sedeva a Westminster, non passò molto tempo prima che la Camera dei Comuni lo accusasse davanti alla Camera dei Lords di alto tradimento.
+
+B.
+
+Non c’era molta probabilità che fosse un traditore del Re, dal cui favore aveva ricevuto la sua grandezza e dalla cui protezione si aspettava la propria sicurezza. Qual era il tradimento che gli imputavano?
+
+A.
+
+Erano stati stilati molti articoli contro di lui, ma la somma di essi era contenuta in questi due: primo, che aveva tentato tradizionalmente di sovvertire le leggi fondamentali e il governo del regno; e al loro posto introdurre un governo arbitrario e tirannico contro la legge; secondo, che aveva lavorato per sovvertire i diritti dei Parlamenti e l’antico corso delle procedure parlamentari.
+
+B.
+
+Lo aveva fatto senza la conoscenza del Re?
+
+A.
+
+No.
+
+B.
+
+Perché, allora, se era tradimento, il Re stesso non lo aveva messo in discussione tramite il suo procuratore? Che cosa aveva da fare la Camera dei Comuni, senza il suo comando, per accusarlo davanti alla Camera dei Lords? Avrebbero potuto lamentarsi con il Re, se egli non ne fosse stato già informato. Non capisco questa legge.
+
+A.
+
+Nemmeno io.
+
+B.
+
+Era stato stabilito per legge precedente che questo fosse tradimento?
 
 A.
 
@@ -1141,6 +2146,112 @@ Great expedition; but could not the King, for all that, have saved him by a pard
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Non ne ho mai sentito parlare; né capisco come qualcosa possa essere considerato tradimento contro il Re, visto che il Re, pur essendone a conoscenza, non lo considera tale. Ma faceva parte di quella sorta di stratagemmi del Parlamento: utilizzare la parola “traditore” per qualsiasi accusa rivolta contro una persona la cui vita intendevano togliere.
+
+B.
+
+Non esisteva alcun episodio specifico di azione o parole su cui basare le loro accuse, secondo cui egli avesse cercato di sovvertire le leggi fondamentali del Parlamento?
+
+A.
+
+Sì; dissero che avesse consigliato il Re di utilizzare l’esercito irlandese per costringere il Parlamento ad adempiere ai suoi doveri, esattamente ciò che poco prima lo stesso Lord Strafford aveva fatto ordinare in quel luogo al servizio del Re. Tuttavia, non fu mai dimostrato che avesse effettivamente consigliato al Re di usarlo contro il Parlamento.
+
+B.
+
+Quali sono quelle leggi che vengono definite fondamentali? Non riesco infatti a comprendere come una legge possa essere più fondamentale di un’altra, se non quella legge della natura che ci obbliga tutti ad obbedirla, indipendentemente da chi la enunci, e alla quale abbiamo promesso di attenerci per motivi legali e per la nostra stessa sicurezza. Non esiste alcuna altra legge fondamentale per un Re se non quella che riguarda la salus populi, cioè la sicurezza e il benessere del suo popolo.
+
+A.
+
+Questo Parlamento, nell’uso delle proprie parole quando accusava qualcuno, non considerava mai il significato effettivo di quelle parole, ma soltanto l’effetto che avevano nel rafforzare le accuse rivolte alla folla ignorante, la quale ritiene tutti i difetti orribili quelli espressi in termini orribili. Se odiava la persona accusata – come avvenne in questo caso – non solo perché apparteneva al partito del Re, ma anche perché aveva abbandonato il partito del Parlamento, considerandola un’apostata.
+
+B.
+
+Prego che mi spieghiate anche cosa intendessero per “governo arbitrario”, che sembravano odiare così tanto. Esiste forse al mondo qualche sovrano di un popolo che sia costretto a governarlo, o costretto a emanare queste o quelle leggi, voglia esso o no? Non credo; e se mai ci fosse, colui che lo costringe è certamente lui stesso ad emanare le leggi e a governare in modo arbitrario.
+
+A.
+
+È vero; e il vero significato di quel Parlamento era che non il Re, ma loro stessi avrebbero dovuto esercitare un potere arbitrario, non solo su Inghilterra, ma anche sull’Irlanda, e, come dimostrarono gli eventi successivi, anche sulla Scozia.
+
+B.
+
+Come il Re abbia ottenuto il governo della Scozia e dell’Irlanda in virtù della discendenza dai suoi antenati, tutti lo sanno; ma se il Re d’Inghilterra e i suoi eredi dovessero [incappare](/concepts/fortune) (che Dio lo eviti) in un insuccesso, non riesco a immaginare quale titolo il Parlamento d’Inghilterra potrebbe acquisire di conseguenza su una o l’altra di quelle nazioni.
+
+A.
+
+Sì; diranno che in passato furono conquistati grazie al denaro dei sudditi inglesi.
+
+B.
+
+A sufficienza, e in linea con il resto della loro sfrontatezza.
+
+A.
+
+Nelle assemblee democratiche, è l’impudenza a determinare quasi tutto ciò che avviene; essa rappresenta la dea della retorica e porta con sé le “prove” delle proprie affermazioni. Infatti, quale uomo comune, di fronte a una tale audacia nel sostenere qualcosa, non concluderà che ci sia una grande probabilità che quanto affermato sia vero? Su questa accusa fu portato davanti al tribunale della Corte dei Lord a Westminster Hall; fu dichiarato colpevole e poco dopo proclamato traditore tramite un atto parlamentare di condanna a morte.
+
+B.
+
+È strano che i Lord vengano indotti, su basi così fragili, a emettere una sentenza o ad approvare un disegno di legge così dannoso per loro stessi e per le loro future generazioni.
+
+A.
+
+Non era stato eseguito bene, eppure, a quanto pare, non per ignoranza; infatti nel provvedimento c’è una clausola che stabilisce che in futuro non possa essere considerato un esempio da seguire, ovvero che non possa costituire un ostacolo in casi simili.
+
+B.
+
+Questo è ancora peggio della stessa legge proposta: rappresenta una chiara ammissione del fatto che la loro sentenza sia stata ingiusta. Qual danno possono mai rappresentare gli esempi di sentenze giuste? Inoltre, se in futuro dovesse verificarsi un caso simile, tale disposizione non indebolirebbe affatto la validità della legge stessa.
+
+A.
+
+Credo davvero che la maggior parte dei Lord non fosse disposta di condannarlo per tradimento di sua iniziativa; furono spaventati dal clamore della gente comune che si radunava a Westminster, gridando: “Giustizia! Giustizia contro il Conte di Strafford!” Questo clamore fu provocato da alcuni membri della Camera dei Comuni, i quali, dopo l’accoglienza trionfale riservata a Prynne, Burton e Bastwick, erano certi che potessero suscitare tumulti tra la popolazione ogni volta che lo desiderassero. Furono inoltre spaventati anche dalla stessa Camera dei Comuni: se questa avesse voluto incriminare un Lord, le sarebbe bastato semplicemente votarlo colpevole.
+
+B.
+
+Un delinquente. Che cos’è? Non è forse un peccatore? Volevano forse eliminare tutti i peccatori?
+
+A.
+
+Con “delinquente” intendevano soltanto un uomo verso il quale erano disposti a infliggere ogni tipo di dolore possibile. Ma, credo, i Lord non sospettavano ancora che volessero eliminare completamente l’intera loro Camera.
+
+B.
+
+È strano che l’intera Camera dei Lord non si rendesse conto che la rovina del potere del Re, e il suo indebolimento, significavano anche la loro stessa rovina o il loro stesso indebolimento. Infatti, non potevano ritenere possibile che il popolo volesse mai strappare la [sovranità](/positions/sovereignty) al Re per darla a loro, che erano pochi in numero e meno potenti di molti comuni cittadini, perché meno amati dal popolo stesso.
+
+A.
+
+Ma a me non sembra affatto strano. Per quanto riguarda i Lord, le loro capacità personali, sia che fossero maggiori o minori rispetto a quelle dei cavalieri e dei borghesi, non li rendevano certo più abili negli affari pubblici. Non c’è motivo di ritenere che una persona che oggi è un cavaliere della contea nella Camera Bassa, domani diventando un Lord e membro della Camera Alta, sia necessariamente più saggia di prima. Tutti quanti, sia nelle une che nelle altre Camere, sono uomini saggi ed abili quanto chiunque altro nel paese nel gestire i propri affari privati, che richiedono soltanto diligenza e intelligenza naturale. Ma per governare una [comunità](/concepts/commonwealth), né l’intelligenza, né la saggezza, né la diligenza sono sufficienti senza regole infallibili e la vera scienza dell’equità e della giustizia.
+
+B.
+
+Se ciò fosse vero, sarebbe impossibile che alcuna comunità politica al mondo, sia essa monarchia, aristocrazia o democrazia, potesse sopravvivere a lungo senza cambiamenti, né senza rivolte che tendano a modificare il governo o i governanti.
+
+A.
+
+È vero; nemmeno le più grandi repubbliche del mondo sono rimaste a lungo prive di sedizioni. I Greci ebbero per un certo periodo dei piccoli re, e poi, a causa delle sedizioni, si trasformarono in piccole repubbliche; successivamente, diventando repubbliche più estese, tornarono ad essere monarchie. Tutto ciò a causa della mancanza di regole di giustizia alle quali il popolo potesse attenersi. Se il popolo avesse conosciuto queste regole fin dall’inizio di ogni sedizione, coloro che nutrivano ambizioni politiche non avrebbero mai avuto la possibilità di disturbare il governo una volta che questi fosse stato stabilito. L’ambizione, infatti, ha poco effetto senza l’aiuto delle persone comuni; e queste ultime, se fossero state istruite con impegno sui veri principi del loro dovere, non sarebbero mai state così facilmente manipolate da predicatori che diffondono dottrine inutili e pericolose sulla natura della volontà umana, o su altri argomenti filosofici che non contribuiscono affatto alla salvezza dell’anima nell’aldilà né al benessere di questa vita, ma mirano soltanto a indirizzare il popolo verso l’esecuzione dei doveri che esso ha nei confronti del re.
+
+B.
+
+Per quanto ne so, tutti gli stati del Cristianesimo saranno soggetti a queste rivolte, finché esisterà il mondo.
+
+A.
+
+Più che sufficiente. Eppure, come ho detto, il problema può essere facilmente risolto migliorando le università.
+
+B.
+
+Da quanto tempo il Parlamento si riuniva ormai?
+
+A.
+
+Tutto iniziò il 3 novembre 1640. Il mio signore di Strafford fu accusato di tradimento davanti ai Lord l’12 novembre; fu poi rinchiuso nella Torre il 22 novembre. Il suo processo iniziò il 22 marzo e si concluse il 13 aprile. Dopo il processo, fu dichiarato colpevole di alto tradimento sia dalla Camera dei Comuni che dalla Camera dei Lord il 6 maggio; fu decapitato il 12 maggio.
+
+B.
+
+Gran spedizione. Ma non avrebbe potuto comunque il Re salvarlo con un perdono?
+
+A.
+
 <span class="atom-split" data-atom="020" data-title="PART II. (parte 4)" data-chapter="PART II." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 The King had heard all that passed at his trial, and had declared he was unsatisfied concerning the justice of their sentence. And, I think, notwithstanding the danger of his own person from the fury of the people, and that he was counselled to give way to his execution, not only by such as he most relied on, but also by the Earl of Strafford himself, he would have pardoned him, if that could have preserved him against the tumult raised and countenanced by the Parliament itself, for the terrifying of those they thought might favour him. And yet the King himself did not stick to confess afterwards, that he had done amiss, in that he did not rescue him.
@@ -1239,6 +2350,104 @@ What followed after this?
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Re aveva ascoltato tutto ciò che era accaduto durante il suo processo e aveva dichiarato di non essere soddisfatto della giustizia della loro sentenza. E credo che, nonostante il pericolo per la sua vita dovuto alla furia del popolo, e nonostante gli avessero consigliato di accettare l’esecuzione, sia da coloro su cui contava di più che dall’ stesso Conte di Strafford, avrebbe comunque perdonato quel giovane, se ciò avesse potuto salvarlo dal tumulto scatenato e sostenuto proprio dal Parlamento, nel tentativo di intimidire coloro che potevano sostenerlo. Eppure, in seguito, il Re stesso ammise di aver commesso un errore non salvandolo.
+
+B.
+
+Si trattava di un argomento espresso con buone intenzioni da parte del Re. Tuttavia, non ho mai letto che Augusto Cesare abbia ammesso di aver commesso un errore abbandonando [Cicerone](/figures/cicero) alla furia del suo nemico Antonio: forse perché Cicerone, essendo appartenuto a fazione opposta a quella di suo padre, non aveva reso alcun servizio ad Augusto per motivi personali, ma soltanto per ostilità verso Antonio e per [amore](/concepts/charity) verso il senato; in realtà, era proprio l’amore che Cicerone provava per il senato a influenzarne le decisioni. Allo stesso modo, è molto probabile che il Conte di Strafford si sia schierato dalla parte del Re per motivi personali, avendo precedentemente espresso forte opposizione nei suoi confronti durante i precedenti Parlamenti.
+
+A.
+
+Non possiamo giudicare con certezza le intenzioni delle persone. Tuttavia, ho spesso osservato che coloro che cercano di ottenere favori o promozioni, a causa della loro testardaggine, finiscono per non raggiungere il proprio obiettivo; dall’altra parte, quei principi che sono costretti ad acquistare l’obbedienza dei propri sudditi con favori o ricompense, si trovano già in una condizione molto debole, o lo saranno presto. In un contesto in cui onore e potere possono essere comprati con la testardaggine, ci saranno molte persone capaci di farlo, proprio come Lord Strafford.
+
+B.
+
+Avete letto che, quando Ercole combatteva contro l’Idra, ogni volta che ne tagliava una delle molteplici teste, ne spuntavano altre due al suo posto; tuttavia alla fine riuscì a tagliarle tutte.
+
+A.
+
+La storia viene raccontata in modo falso. Infatti, all’inizio Ercole non tagliò quelle teste, ma le comprò; in seguito, quando si rese conto che questo non gli portava alcun vantaggio, le tagliò e così ottenne la vittoria.
+
+B.
+
+Cosa fecero poi?
+
+A.
+
+Dopo il primo processo di impeachment contro il Conte di Strafford, la Camera dei Comuni, il 18 dicembre, accusò anche l’Arcivescovo di Canterbury di alto tradimento, cioè di aver intenzione di introdurre un governo arbitrario, ecc.; per questo motivo fu imprigionato nella Torre il 18 febbraio. Tuttavia il suo processo e la sua esecuzione furono rinviati per molto tempo, fino al 10 gennaio 1643, al fine di intrattenere gli scozzesi giunti in Inghilterra per sostenere il Parlamento.
+
+B.
+
+Perché gli scozzesi ritenevano che l’Arcivescovo di Canterbury rappresentasse un pericolo così grande? Non era certo un uomo di guerra, né qualcuno in grado di guidare un esercito in battaglia; ma forse era un politico molto abile.
+
+A.
+
+Ciò non derivava da alcun evento particolare legato ai suoi consigli o azioni. Ho sempre sentito dire che fosse un uomo molto onesto dal punto di vista morale, e un fervente sostenitore del governo della Chiesa attraverso i vescovi; desiderava infatti che il servizio di Dio venisse eseguito e la casa di Dio adornata nel modo più appropriato, in linea con l’onore che dobbiamo rendere alla Divina Maestà. Tuttavia, portare nelle questioni di stato le sue precedenti controversie – intendo dire i suoi dibattiti all’università riguardo al libero arbitrio, nonché le sue insistenze su particolari dettagli legati ai riti liturgici – non rappresentava, a mio parere, una dimostrazione della sua idoneità per affrontare questioni di stato. Più o meno nello stesso periodo fu approvato un atto che il Re condivise: si stabiliva che dopo questo Parlamento ne venisse convocato un altro entro tre anni, e così di seguito, ogni tre anni, a Westminster, in una data specificata dall’atto stesso.
+
+B.
+
+Ma che cosa succederebbe se il Re non lo richiedesse, ritenendolo forse scomodo o dannoso per la sicurezza e la pace del suo popolo, che Dio gli ha affidato? Non riesco infatti a comprendere come un sovrano possa mantenere l’ordine in un popolo quando le sue mani sono legate, o quando ha altre responsabilità oltre al benessere di coloro che governa; e, da quanto mi avete detto, in questo momento il popolo riconosceva il Re come proprio sovrano.
+
+A.
+
+Non lo so; ma fu proprio così che avvenne. Inoltre, fu stabilito che se il Re non avesse agito su propria ordinanza, allora il Cancelliere o il Lord Custode incaricato del momento avrebbe dovuto emettere gli ordini di convocazione; e se il Cancelliere si fosse rifiutato, allora i Sheriff dei vari contee avrebbero dovuto procedere da soli, nei tribunali di contea previsti per la data fissata per l’assemblea del Parlamento, all’electione dei membri dello stesso.
+
+B.
+
+Ma che cosa succederebbe se gli sceriffi rifiutassero?
+
+A.
+
+Credo che fosse necessario giurare su di esso; ma per questo e altre dettagli, vi rimando all’atto ufficiale.
+
+B.
+
+A chi dovrebbero essere giurati, quando non esiste alcun Parlamento?
+
+A.
+
+Senza dubbio, spetta soltanto al Re decidere se un Parlamento sia in sessione o meno.
+
+B.
+
+Allora il Re potrà liberarli dal loro giuramento.
+
+A.
+
+Inoltre, riuscirono a far sì che il Re abolisse la Camera Stellata e i Tribunali della Alta Commissione.
+
+B.
+
+Inoltre, se il Re, di fronte al rifiuto, dovesse scatenare la sua [ira](/concepts/anger) contro di loro, chi proteggerà il Cancelliere o i magistrati per la loro disobbedienza? Il Parlamento, essendo non in sessione, non potrà intervenire.
+
+A.
+
+Prego che non mi chiediate alcuna spiegazione su queste cose: io ne comprendo meno di voi. Vi racconto soltanto un atto emanato a tale scopo, firmato dal Re a metà febbraio, poco prima che l’Arcivescovo venisse mandato alla Torre. Oltre a questo provvedimento, entrambe le Camere del Parlamento concordarono su un altro atto con cui si stabiliva che il presente Parlamento dovesse continuare a funzionare finché entrambe le Camere non avessero dato il loro consenso alla sua dissoluzione; anche questo provvedimento fu firmato dal Re lo stesso giorno in cui firmò l’ordine per l’esecuzione dell’Earl di Strafford.
+
+B.
+
+Che straordinario [progresso](/positions/progress) abbia compiuto il Parlamento nei confronti dei membri più sediziosi di entrambe le Camere in così poco tempo! Si sono riuniti a novembre, e ora è già maggio; in questo lasso di tempo, che dura soltanto sei mesi, sono riusciti a ottenere dal Re l’obbedienza che gli spettava dal suo popolo; lo hanno allontanato dai suoi servitori più fedeli; hanno decapitato il Conte di Strafford; imprigionato l’Arcivescovo di Canterbury; hanno fatto approvare un Parlamento triennale nonostante avessero loro stessi sciolto il precedente, e hanno ottenuto che le loro sessioni continuassero per tutto il tempo che desideravano: il che, in definitiva, equivaleva alla completa soppressione dei diritti del Re, nel caso tale concessione fosse effettivamente valida. Il che, a mio parere, non è vero, a meno che la [Sovranità](/positions/sovereignty) stessa venga esplicitamente rinunciata, il che non è avvenuto. Ma quanta denaro hanno fornito al Re, sotto forma di sussidi o altro, in compenso di tutte queste sue grandi concessioni?
+
+A.
+
+Assolutamente no; anzi, gli promettevano spesso che lo avrebbero reso il Re più glorioso che mai fosse esistito in Inghilterra. Parole che, intese con buone intenzioni, potevano essere accettate dalla gente comune.
+
+B.
+
+Ma ora il Parlamento era soddisfatto? Non riesco infatti a immaginare cosa potesse desiderare di più dal Re di quanto gli fosse stato concesso.
+
+A.
+
+Sì; essi desideravano una sovranità totale e assoluta, e volevano trasformare il governo monarchico in un’oligarchia; in altre parole, rendere il Parlamento – composto da pochi Lord e circa quattrocento Comuni – l’unico organo detentore della sovranità, almeno per il momento, per poi eliminare successivamente la Camera dei Lord. Questo era infatti lo scopo dei ministri presbiteriani, i quali si consideravano, per diritto divino, gli unici governanti legittimi della Chiesa, e cercarono quindi di applicare lo stesso modello di governo anche allo [stato](/concepts/state) civile. Poiché le leggi spirituali dovevano essere stabilite dai loro sinodi, così anche le leggi civili avrebbero dovuto essere emanate dalla Camera dei Comuni; essi ritenevano infatti che questa camera fosse destinata a essere governata da loro, proprio come in passato lo erano stati i sinodi. In questo si sbagliavano profondamente, e furono sorpresi dai propri discepoli, sebbene non per malizia, ma piuttosto con astuzia.
+
+B.
+
+Cosa accadde dopo questo?
+
+A.
+
 <span class="atom-split" data-atom="021" data-title="PART II. (parte 5)" data-chapter="PART II." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 In August following, the King supposing he had now sufficiently obliged the Parliament to proceed no further against him, took a journey into Scotland, to satisfy his subjects there, as he had done here; intending, perhaps, so to gain their good wills, that in case the Parliament here should levy arms against him, they should not be aided by the Scots: wherein he also was deceived. For though they seemed satisfied with what he did, whereof one thing was his giving way to the abolition of episcopacy; yet afterwards they made a league with the Parliament, and for money, when the King began to have the better of the Parliament, invaded England in the Parliament’s quarrel. But this was a year or two after.
@@ -1274,6 +2483,44 @@ What did the Parliament do, whilst the King was in Scotland?
 A.
 
 The King went in August; after which, the Parliament, September the 8th, adjourned till the 20th of October; and the King returned about the end of November following. In which time the most seditious of both Houses, and which had designed the change of government and to cast off monarchy, but yet had not wit enough to set up any other government in its place, and consequently left it to the [chance](/concepts/fortune) of war, made a cabal amongst themselves; in which they projected how, by seconding one another, to govern the House of Commons, and invented how to put the kingdom, by the power of that House, into a rebellion, which they then called a posture of defence against such dangers from abroad, as they themselves should feign and publish. Besides, whilst the King was in Scotland, the Irish Papists got together a great party, with an intention to massacre the Protestants there, and had laid a design for the seizing, on October the 23rd, of Dublin Castle, where the King’s officers of the government of that country made their residence; and had effected it, had it not been discovered the night before. The manner of the discovery, and the murders they committed in the country afterwards, I need not tell you, since the whole story of it is extant.
+
+B.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nell’agosto successivo, il Re, ritenendo di aver sufficientemente convinto il Parlamento a non intraprendere ulteriori azioni contro di lui, si recò in Scozia per soddisfare i suoi sudditi lì, proprio come aveva fatto qui; forse con l’intento di guadagnarsi la loro simpatia, affinché, nel caso il Parlamento qui decidesse di armarsi contro di lui, gli scozzesi non lo aiutassero. Anche in questo fu ingannato: sebbene sembrassero soddisfatti delle sue azioni – tra cui l’accettazione della abolizione del sistema episcopale – in seguito stipularono un patto con il Parlamento e, per denaro, quando il Re iniziò ad avere la meglio nella disputa con il Parlamento, gli scozzesi invasero l’Inghilterra al suo fianco. Ma ciò accadde un anno o due dopo.
+
+B.
+
+Prima di procedere oltre, desidero conoscere le basi e l’origine di quel diritto che ora la Camera dei Lord, la Camera dei Comuni, o entrambe insieme, sostengono di possedere.
+
+A.
+
+Si tratta di eventi così lontani nel tempo da essere ormai dimenticati. Non abbiamo altro su cui basare le nostre congetture se non i resoconti della nostra stessa nazione e alcuni frammenti piccoli e poco chiari delle storie romane; e per quanto riguarda questi resoconti, poiché riguardano fatti avvenuti a volte giustamente, altre volte ingiustamente, non è mai possibile conoscere quale fosse il vero diritto in gioco, ma soltanto quale diritto venisse preteso.
+
+B.
+
+In ogni caso, fatemi sapere quale luce le storie romane possano fornirci su questa questione.
+
+A.
+
+Sarebbe troppo lungo e una digressione inutile citare tutti gli antichi autori che parlano delle forme di quei governi [comunitari](/concepts/commonwealth) che esistevano tra i nostri primi antenati, come i Sassoni e altri popoli germanici, nonché di altre nazioni da cui derivano i titoli onorifici oggi in uso in Inghilterra; inoltre, non è possibile trarne alcuna argomentazione a sostegno di un diritto legittimo, ma soltanto esempi concreti di comportamenti che, a causa dell’ambizione dei potenti, sono spesso risultati ingiusti. I Sassoni o gli Angli, che in tempi antichi conquistarono questa nazione attraverso diverse invasioni, non costituivano in sé un unico governo comunitario, ma soltanto una lega di diversi signori e stati germanici; tale era anche l’esercito greco durante la guerra di Troia, privo di alcun obbligo se non quello derivante dalla propria paura e debolezza. La maggior parte di questi signori non era nemmeno [sovrano](/positions/sovereignty) nel proprio paese, ma veniva scelta dal popolo per comandare le truppe che portavano con sé; pertanto non era affatto ingiusto che, dopo aver conquistato una parte del territorio, a uno di loro venisse conferito il titolo di re, e che gli altri godessero di privilegi superiori rispetto al popolo comune e ai soldati. Tra questi privilegi, si può facilmente intuire che uno dei più importanti fosse quello di partecipare attivamente alla gestione del governo insieme al sovrano, occupando le cariche più elevate sia in tempo di pace che in tempo di guerra. Tuttavia, poiché non è possibile esistere un governo con più sovrani contemporaneamente, non si può dedurre che questi signori avessero il diritto di opporsi con la forza alle decisioni del re, né che potessero godere di tali onori e cariche per oltre il tempo necessario a rimanere sudditi fedeli. I re d’Inghilterra, in ogni occasione importante, li convocavano chiamandoli “uomini saggi e prudenti del regno”, ascoltavano i loro consigli e li nominavano giudici di tutte le cause portate davanti a loro; tuttavia, poiché li convocava a piacimento, aveva anche il potere di scioglierli allo stesso modo. Anche i Normanni, discendenti dei Germani, seguivano le stesse usanze in questo ambito; grazie a ciò, il privilegio dei signori di far parte del consiglio reale e di essere i membri più importanti della giustizia regia è continuato fino ai giorni nostri. Sebbene tra questi signori esistano diversi titoli onorifici, il loro vero privilegio deriva dal nome di “barone”, un termine che derivava dagli antichi Galli, dove indicava uno dei fedeli collaboratori del re; ciò sembra indicare che, sebbene questi signori dessero consigli al re quando necessario, non avevano il diritto di opporglisi con la forza qualora egli non li seguisse.
+
+B.
+
+Quando, per la prima volta, la Camera dei Comuni divenne parte del grande consiglio del Re?
+
+A.
+
+Non dubito affatto che, prima della Conquista, alcuni uomini discreti e riconosciuti dal Re come tali fossero convocati per partecipare a quel consiglio, anche se non erano nobili; tuttavia, questo non ha alcuna rilevanza per la Camera dei Comuni. Per quanto ne so, i cavalieri delle contee e i borghesi non furono mai chiamati al Parlamento fino all’inizio del regno di Edoardo I o alla fine del regno di Enrico III, subito dopo le cattive azioni dei baroni; e, per quel che si sa, furono convocati appositamente per indebolire il potere dei nobili, che avevano appena abusato delle loro prerogative. Prima dell’epoca di Enrico III, la maggior parte dei nobili discendeva da coloro che, durante le invasioni e le conquiste dei Germani, erano considerati pari e co-re del sovrano; in seguito, uno di loro divenne re di tutti loro. I loro vassalli erano loro sudditi, proprio come avviene oggi con i nobili francesi. Ma dopo l’epoca di Enrico III, i re iniziarono a nominare nuovi nobili al posto di quelli la cui discendenza si era estinta, conferendo loro soltanto il titolo senza le terre ad esso correlate; di conseguenza, i vassalli non erano più obbligati a servirli in guerra, e così i nobili divennero sempre meno capaci di formare fazioni contro il Re, anche se continuarono comunque a far parte del suo consiglio. Con la diminuzione del loro potere, aumentò quello della Camera dei Comuni; tuttavia, non risulta che facessero parte effettivamente del consiglio reale, né che avessero alcun ruolo nel giudicare gli altri cittadini. Non si può negare, però, che un Re possa chiedere il loro parere, così come quello di chiunque altro. Non sembra nemmeno che la loro convocazione avesse lo scopo principale di fornire consigli; piuttosto, nel caso in cui presentassero petizioni per ottenere giustizia, erano lì a disposizione del Re durante le riunioni del suo consiglio. Né loro né i nobili potevano lamentarsi con il Re del fatto che questi si arrogasse il diritto di emanare leggi, di scegliere i propri consiglieri privati, di raccogliere fondi e soldati, di difendere la pace e l’onore del regno, di nominare ufficiali nell’esercito o governatori dei suoi castelli a piacimento. Questo equivarrebbe a dire al Re che uno dei loro problemi principali era proprio il fatto che lui fosse re.
+
+B.
+
+Cosa fece il Parlamento mentre il Re si trovava in Scozia?
+
+A.
+
+Il Re partì nell’agosto; dopo di ciò, il Parlamento si aggiornò l’8 settembre fino al 20 ottobre; il Re tornò verso la fine di novembre dello stesso anno. In quel periodo, i membri più sovversivi di entrambe le Camere, quelli che avevano pianificato il cambiamento del governo e la abolizione della monarchia, ma che non erano abbastanza astuti da stabilire un altro sistema politico al suo posto, lasciarono tutto alla [fortuna](/concepts/fortune) delle guerre, e si misero d’accordo tra loro per governare la Camera dei Comuni e progettarono di utilizzare il potere di quella Camera per scatenare una ribellione nel regno, definendola in seguito “una posizione difensiva” contro pericoli esterni che loro stessi avrebbero inventato e diffuso. Inoltre, mentre il Re si trovava in Scozia, i cattolici irlandesi radunarono un gran numero di persone con l’intenzione di massacrare i protestanti; avevano pianificato di prendere il controllo del Castello di Dublino, dove risiedevano gli ufficiali governativi del Re in quella regione, e ci riuscirono se non fosse stato per una scoperta effettuata la notte precedente. Il modo in cui questa scoperta avvenne, nonché i massacri che seguirono nel paese, non ho bisogno di raccontarveli, poiché tutta la storia è ancora disponibile.
 
 B.
 
@@ -1356,6 +2603,88 @@ Judge whether these may be properly called accusations, or not rather spiteful r
 B.
 
 Methinks this last was a very great fault. For what good could there be in putting the King upon an odd course of getting money, when the Parliament was willing to supply him, as far as to the security of the kingdom, or to the honour of the King, should be necessary?
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi chiedo perché non abbiano previsto e preparato nulla per una possibile ribellione in Irlanda, non appena hanno iniziato a litigare con il Re in Inghilterra. Esisteva forse qualcuno così ignorante da non sapere che i cattolici irlandesi desideravano da tempo un cambiamento religioso nel loro paese, proprio come i presbiteriani in Inghilterra? O, più in generale, che il popolo irlandese odiava profondamente l’idea di sottomissione all’Inghilterra e non avrebbe più tollerato nulla, se non avesse temuto l’arrivo di un esercito inglese per punirli? Qual momento migliore potevano scegliere per la loro ribellione, se non quello in cui erano incoraggiati non solo dalla nostra debolezza dovuta a questa divisione tra il Re e il Parlamento, ma anche dall’esempio dei presbiteriani, sia scozzesi che inglesi? Ma cosa fece il Parlamento in questa circostanza, in assenza del Re?
+
+A.
+
+Niente; ma considerate quale utilità potrebbero trarne per i loro scopi personali: da un lato, attribuendola ai cattivi consiglieri del Re, e dall’altro, sfruttandola per chiedere al Re il potere di reclutare e comandare gli soldati; poiché chi possiede tale potere, ne possiede senza dubbio anche l’intera [sovranità](/positions/sovereignty).
+
+B.
+
+Quando tornò il Re?
+
+A.
+
+Tornò il 25 novembre e fu accolto con gli acclamazioni del popolo comune, come se fosse stato il più amato di tutti i re che lo avevano preceduto; tuttavia non ricevette alcun sostegno da parte del Parlamento. Ben presto iniziarono a trovare nuove motivazioni per contrastarlo, interpretando in modo negativo ogni sua parola. Il 2 dicembre il Re convocò entrambe le Camere del Parlamento e vi raccomandò soltanto di fornire aiuti all’Irlanda.
+
+B.
+
+Quale disputa avrebbero potuto sollevare da quella situazione?
+
+A.
+
+Nessuno: ma per raggiungere questo scopo, sostenevano di avere una proposta in discussione presso le Camere dei Lord e dei Comuni al fine di affermare il diritto di reclutare e mobilitare i soldati; il che equivaleva a privare il Re del potere sulla milizia, che di fatto rappresenta l’intero potere sovrano. Chi possiede il potere di reclutare e comandare i soldati detiene anche tutti gli altri diritti sovrani che desideri rivendicare. Il Re, venuto a conoscenza di questa situazione, convocò nuovamente le Camere del Parlamento il 14 dicembre e riprese a discutere della questione irlandese (poiché era necessario: in quel frattempo gli irlandesi stavano assassinando gli inglesi nel loro paese e rafforzandosi contro le forze che si aspettavano dall’Inghilterra). Inoltre, comunicò loro di aver preso atto della proposta in discussione riguardante la mobilitazione dei soldati e dichiarò di essere disposto a farla approvare, purché ci fosse una garanzia che non danneggiasse né lui né loro; poiché il momento attuale non era adatto per discuterne.
+
+B.
+
+Cosa c’era di irragionevole in tutto questo?
+
+A.
+
+Niente: ciò che è irragionevole rappresenta un problema, mentre la causa della loro disputa è un’altra. Hanno litigato per il fatto che Sua Maestà avesse preso in considerazione il suddetto disegno di legge mentre era ancora in discussione alla Camera dei Lord, prima che venisse presentato ufficialmente durante le sessioni parlamentari; inoltre, hanno sostenuto che Sua Maestà si fosse mostrato insoddisfatto di coloro che avevano proposto tale disegno di legge. Entrambe queste circostanze sono state considerate violazioni dei privilegi del Parlamento, e per questo hanno presentato una petizione al Re affinché li compensasse per le conseguenze negative derivanti dai consigli errati di coloro che lo avevano indotto a tale decisione, al fine di ricevere una punizione adeguata.
+
+B.
+
+Questa fu un’azione crudele. Non è forse vero che i Re d’Inghilterra hanno la libertà di sedere nella Camera dei Lord quando lo desiderano? E non era forse questo disegno di legge già in discussione nella Camera dei Lord? È strano che un uomo possa trovarsi legalmente tra altre persone, dove è costretto ad ascoltare e vedere ciò che dicono e fanno, eppure non sia nemmeno autorizzato a prestarvi attenzione. Anche se il Re non era presente durante la discussione, era comunque legittimo per uno dei Lord informarlo al riguardo. Qualsiasi membro della Camera dei Comuni, anche se assente da una proposta o da una discussione in aula, può certamente prestarvi attenzione e intervenire al riguardo nella stessa camera. Ma costringere il Re a abbandonare i suoi amici e consiglieri affinché questi vengano messi a morte, esiliati o imprigionati, soltanto per la loro lealtà verso di lui. Questa è una vera tirannia nei confronti di un re: nessun re ha mai esercitato un simile potere su un suo suddito, se non in casi di tradimento o omicidio. E anche allora, molto raramente.
+
+A.
+
+In quel momento iniziò una sorta di conflitto tra le opinioni dei membri del Parlamento e quelle dei segretari, nonché di altri uomini capaci che si trovavano al fianco del Re. Il 15 dicembre inviarono infatti al Re un documento intitolato “Rimostranza sulla [situazione](/concepts/state) del Regno”, accompagnato da una petizione; entrambi furono fatti pubblicare. Nel documento si lamentavano di alcune cattive intenzioni di un partito malvagio, che avevano già iniziato a manifestarsi prima dell’inizio del Parlamento; venivano inoltre esposti i mezzi adottati dal Parlamento per impedirle, nonché gli ostacoli incontrati nel loro percorso e le misure da intraprendere per ripristinare e rafforzare l’onore, la grandezza e la sicurezza della Corona e del Paese.
+
+E in primo luogo, tra questi progetti, i promotori e gli attori principali erano, a loro dire, i gesuiti papisti.
+
+In secondo luogo, i vescovi e quella parte del clero che considera la formalità come strumento per sostenere la propria tirannia e usurpazione ecclesiastica:
+
+In terzo luogo, consiglieri e cortigiani affermavano di essersi impegnati, per motivi personali, a promuovere gli interessi di alcuni principi stranieri.
+
+B.
+
+È molto probabile che alcuni vescovi, così come alcuni membri della corte, abbiano, nella ricerca dei propri interessi personali, compiuto atti indiscreti o persino malvagi. Pertanto vi prego di dirmi con precisione quali siano stati i loro crimini: infatti ritengo che il Re non dovrebbe aver tollerato nulla che potesse minacciare la sua autorità suprema.
+
+A.
+
+Il Parlamento non era molto contrario a coloro che si opponevano al Re; non avevano alcun dubbio che tutto ciò che facevano fosse su ordine del Re stesso; tuttavia accusavano vescovi, consiglieri e cortigiani di essere i responsabili di tali attività, ritenendo che questo rappresentasse un modo più elegante per incolpare direttamente il Re e diffamarlo presso i suoi sudditi. In realtà, le accuse loro mosse erano così generiche da non poter nemmeno essere considerate vere accuse, ma piuttosto invettive. Dicevano infatti che questi individui sollevavano questioni riguardanti i diritti sovrani e la libertà del popolo rispetto al Re, allo scopo di apparire profondamente devoti alla sua maestà e così ottenere posizioni di grande fiducia e potere nel regno.
+
+B.
+
+Come può questo essere definito un’accusa, se non esistono fatti su cui gli accusatori possano basare le loro prove, né testimoni da presentare? Ammettiamo pure che queste questioni relative alle prerogative siano state sollevate da loro, ma chi può provare che lo scopo fosse quello di ottenere per sé e i propri amici posizioni di fiducia e potere nel regno?
+
+A.
+
+Un’altra accusa era che cercassero di soffocare la purezza e il potere della religione.
+
+B.
+
+Si tratta di una forma di canto; non è nelle possibilità dell’uomo soffocare il potere della religione.
+
+A.
+
+Volevano dire che avevano soppresso la dottrina dei presbiteriani; in altre parole, avevano eliminato proprio le basi delle perfide pretese del Parlamento di allora.
+
+In terzo luogo, desideravano avere al proprio fianco arminiani, papisti e libertini (con questi termini intendevano i protestanti comuni, che non si occupavano di dispute teologiche), al fine di formare un gruppo idoneo ad agire secondo i loro consigli e le loro risoluzioni.
+
+In quarto luogo, cercarono di indurre il Re ad adottare altri metodi per raccogliere fondi, diversi da quello tradizionale attraverso i Parlamenti.
+
+Giudicate se queste possano essere veramente definite accuse, o piuttosto meschini rimproveri nei confronti del governo del Re.
+
+B.
+
+Credo che questo ultimo errore sia stato davvero grave. A quale scopo potrebbe servire indurre il Re a ricorrere a metodi strani per ottenere denaro, quando il Parlamento era disposto a fornirgli tutto ciò di cui aveva bisogno, anche a scapito della sicurezza del regno o dell’onore del Re stesso?
 
 A.
 
@@ -1445,6 +2774,109 @@ This last point, methinks, was not wisely put in at this time: it should have be
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma vi ho già detto che non gli avrebbero dato nulla, a meno che lui non tagliasse le teste di chiunque volessero loro, per quanto fedelmente questi lo avessero servito. E anche se avesse sacrificato tutti i suoi amici per soddisfare la loro ambizione, loro avrebbero trovato comunque altre scuse per negargli i sussidi; perché erano decisi a prendersi in mano il potere sovrano per sé stessi, il che non avrebbero mai potuto fare senza assicurarsi che lui non avesse affatto [denaro](/concepts/money). Inoltre, adducevano come errori di coloro i cui consigli il Re seguiva tutte quelle cose che, fin dall’inizio del suo regno, loro stessi disprezzavano; sia che si trattasse davvero di errori o meno. Non erano in grado di giudicarle correttamente, poiché ignoravano le cause e i motivi che avevano spinto il Re ad agire in quel modo; tali motivi erano noti soltanto al Re stesso e a quei membri del suo consiglio privato a cui li aveva rivelati.
+
+B.
+
+Ma quali erano quelle particolari difetti fittizi?
+
+A.
+
+1. La scissione del suo primo Parlamento a Oxford.  
+2. La scissione del suo secondo Parlamento, avvenuta nel secondo anno del suo regno.  
+3. La scissione del suo Parlamento nel quarto anno del suo regno.  
+4. L’impresa militare infruttuosa contro Calais.  
+5. La pace stipulata con la Spagna, che abbandonò la causa del Palatino, lasciandola esposta a trattati disperati e dannosi.  
+6. L’invio di commissari per raccogliere fondi attraverso prestiti.  
+7. La raccolta di tasse sulla navigazione marittima.  
+8. L’ampliamento delle foreste, in violazione della Magna Carta.  
+9. Il tentativo di concentrare tutto il polvere da sparo in un unico ente e di custodirla nella Torre di Londra.  
+10. Il progetto di introdurre l’uso della moneta in rame.  
+11. Le multe, le prigioni, gli umiliamenti, le mutilazioni, le frustate, le pene pubbliche, i divieti di parola, le restrizioni personali e le esiliazioni imposte dalla Corte della Stella.  
+12. Lo spostamento dei giudici dalle loro posizioni.  
+13. Gli atti illegali compiuti dal Consiglio di Stato.  
+14. Il potere arbitrario ed illegale della Corte del Maresciallo.  
+15. I abusi commessi presso la Cancelleria, l’Ufficio delle Finanze e la Corte dei Guardiani.  
+16. La vendita di titoli onorifici, di incarichi giudiziari e di altre cariche pubbliche.  
+17. L’arroganza vescovi e di altri funzionari religiosi, che portò alla sospensione, all’anatema, alla privazione dei diritti e alla degradazione di numerosi ministri devoti, eruditi e onesti.
+
+B.
+
+Esistono ministri che siano stati degradati, privati dei loro diritti o scomunicati per questo motivo?
+
+A.
+
+Non posso dirlo con certezza. Ma ricordo di aver sentito minacce rivolte a diversi ministri: persone dolorose, ignoranti e sovversive.
+
+18. L’eccessiva severità della Alta Commissione-Corte.  
+19. Le prediche rivolte al Re contro i diritti dei sudditi e a favore delle prerogative reali sovrapposte alla legge. E molte altre piccole controversie che avevano con il governo; queste, sebbene riguardassero principalmente questa fazione, sapevano bene che, nel giudizio del popolo, avrebbero finito per colpire direttamente il Re stesso, poiché venivano diffuse attraverso la stampa.
+
+Ancora una volta, dopo la dissoluzione del Parlamento avvenuta il 5 maggio 1640, vennero individuate altre colpe: tra queste, la stessa dissoluzione del Parlamento stesso; l’arresto di alcuni membri di entrambe le Camere; un tentativo di ottenere prestiti forzati a Londra; la continuazione delle riunioni della Convocazione nonostante il termine del Parlamento; e il favore dimostrato ai cattolici da parte del Segretario Windebank e di altri.
+
+B.
+
+Tutto ciò verrà considerato dai comuni cittadini come conseguenza di una cattiva amministrazione e dei difetti del Re, anche se alcune di queste situazioni rappresentavano in realtà semplici sfortune. Sia le sfortune che la cattiva amministrazione, qualora ve ne fossero state, erano colpe del Parlamento: esso, rifiutandosi di fornire denaro al Re, aveva frustrato sia i suoi tentativi all’estero che lo aveva costretto ad adottare metodi straordinari e, a loro avviso, illegali per reperire fondi in patria.
+
+A.
+
+Vedete quanta malvagità abbiano accumulato per mostrare al popolo quanto sia cattiva la loro amministrazione; per farlo, elencano i numerosi servizi resi al Re nel superare molti di questi problemi, anche se non tutti, e in altre varie occasioni. Dicono inoltre che, nonostante abbiano contratto un debito di 220.000 sterline con gli scozzesi e abbiano concesso sei sussidi, oltre a una somma aggiuntiva pari ad altri sei sussidi, Dio abbia benedetto i loro sforzi al punto che il regno ne ha tratto beneficio; infine, elencano tutte le cose positive che hanno fatto per il Re e il regno. Per quanto riguarda il regno, affermano di aver abolito la tassa sulle navi, eliminato le tasse sulla vestimenta e altre spese militari, che, secondo loro, equivalevano quasi alla tassa sulle navi stesse; hanno soppresso tutti i monopoli, ritenendo che ciò abbia permesso al popolo di risparmiare oltre un milione di sterline all’anno; hanno represso coloro che causavano problemi nel regno, eliminando con la morte di Lord Strafford, la fuga del Cancelliere Finch e del Segretario Windebank, l’arresto dell’Arcivescovo di Canterbury e del Giudice Bartlet, nonché l’impeachment di altri vescovi e giudici; infine, hanno approvato leggi per la convocazione periodica del Parlamento ogni tre anni, oltre a una legge che ne prorogava la durata fino al momento in cui avrebbero ritenuto opportuno scioglierlo.
+
+B.
+
+In altre parole, per sempre, a condizione che vengano tollerati. Ma la somma di tutte le cose che hanno fatto per il regno è che lo hanno lasciato senza governo, senza forza, senza denaro, senza leggi e senza buoni consigli.
+
+A.
+
+Ritennero inoltre che la soppressione della Alta Commissione, l’indebolimento del potere del Consiglio e dei vescovi insieme ai loro tribunali, l’eliminazione di cerimonie religiose superflue, la rimozione dai loro incarichi dei ministri non appartenenti alla loro fazione, e l’inserimento invece di quelli che lo erano, avrebbero portato a tali risultati.
+
+B.
+
+Tutto ciò riguardava soltanto loro stessi, e non gli affari del regno.
+
+A.
+
+Il bene che avevano fatto al Re, dissero, consisteva innanzitutto nel fornire 25.000 sterline al mese per alleviare le difficoltà delle contee settentrionali.
+
+B.
+
+Di quale sollievo avevano bisogno le contee del nord, più di qualsiasi altra contea d’Inghilterra?
+
+A.
+
+Sì; nelle contee settentrionali furono accampate le truppe scozzesi, chiamate dal Parlamento per opporsi al Re, e pertanto il loro soggiorno militare doveva terminare.
+
+B.
+
+Vero; ma grazie al Parlamento che li ha chiamati.
+
+A.
+
+Ma loro dicono di no; e sostengono che questi soldi siano stati dati al Re perché egli ha il dovere di proteggere i suoi sudditi.
+
+B.
+
+Lui non è in alcun modo obbligato a farlo, così come loro non sono obbligati a fornirgli i fondi necessari per farlo. È una grande audacia: organizzare un esercito contro il Re e utilizzarlo per opprimere i propri connazionali; e poi pretendere che sia il Re stesso ad aiutarli, cioè ad assumersi la responsabilità di finanziare quell’esercito che è stato creato proprio per combatterlo.
+
+A.
+
+Anzi, andavano ancora oltre: attribuivano al Re la somma di 300.000 sterline concessa agli scozzesi, senza la quale questi non avrebbero invaso l’Inghilterra; inoltre, molte altre cose, che ora non ricordo più.
+
+B.
+
+Non avrei mai pensato che nell’umanità esistesse una tale audacia e malvagità.
+
+A.
+
+Non avete osservato il mondo abbastanza a lungo da poter vedere tutto ciò che è negativo in esso. Questa era la loro protesta, come vi ho raccontato. Insieme ad essa inviarono una petizione contenente tre punti: 1. Che Sua Maestà privasse i vescovi del diritto di voto al Parlamento e eliminasse tutte quelle oppressioni in materia religiosa, amministrativa ecclesiastica e disciplinare che essi avevano introdotto; 2. Che rimuovesse dal proprio consiglio coloro che promuovevano i reclami del popolo, e impiegasse nelle proprie grandi e pubbliche questioni soltanto persone di cui il Parlamento potesse fidarsi; 3. Che non cedesse le terre che erano passate in possesso della Corona a seguito della ribellione in Irlanda.
+
+B.
+
+Quest’ultimo punto, a mio parere, non è stato inserito in questo momento con saggezza: avrebbe dovuto essere rimandato fino a quando non fossero stati sottomessi i ribelli, contro i quali ancora non erano state inviate alcune truppe. È come vendere la pelle del leone prima di averlo ucciso. Ma qual è stata la risposta alle altre due proposte?
+
+A.
+
 <span class="atom-split" data-atom="024" data-title="PART II. (parte 8)" data-chapter="PART II." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 What answer should be made, but a denial? About the same time the King himself exhibited articles against six persons of the Parliament, five whereof were of the House of Commons and one of the House of Lords, accusing them of high-treason; and upon the 4th of January, went himself to the House of Commons to demand those five of them. But private notice having been given by some treacherous person about the King, they had absented themselves; and by that means frustrated his Majesty’s intentions. And after he was gone, the House making a heinous matter of it, and a high breach of their privileges, adjourned themselves into London, there to sit as a general committee, pretending they were not safe at Westminster: (for the King, when he went to the House to demand those persons, had somewhat more attendance with him, but not otherwise armed than his servants used to be, than he ordinarily had): and would not be pacified, though the King did afterwards waive the prosecution of those persons, unless he would also discover to them those that gave him counsel to go in that manner to the Parliament House, to the end they might receive condign punishment; which was the word they used instead of cruelty.
@@ -1529,6 +2961,90 @@ A.
 
 Nor I; for they held and taught the transmigration of souls from one body to another, as did Pythagoras; which opinion whether they took from him, or he from them, I cannot tell.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Qual risposta si potrebbe dare, se non un diniego? Più o meno nello stesso periodo, il Re stesso presentò accuse contro sei membri del Parlamento: cinque provenivano dalla Camera dei Comuni e uno dalla Camera dei Lord; questi vennero accusati di alto tradimento. Il 4 gennaio il Re si recò personalmente nella Camera dei Comuni per chiedere l’arresto di quei cinque individui. Tuttavia, a causa di informazioni trapelate da persone traditrici, essi si erano assentati, vanificando così le intenzioni del Re. Dopo la sua partenza, la Camera dei Comuni considerò tale comportamento un grave oltraggio ai propri privilegi e si trasferì a Londra per riunirsi in una commissione generale, sostenendo di non essere al sicuro a Westminster. Il Re, quando era andato nella Camera per chiedere l’arresto di quei individui, era stato accompagnato da un numero leggermente maggiore di guardie; tuttavia, queste erano armate solo come di consueto i servitori del Re. Nonostante il Re in seguito avesse rinunciato a perseguire quelle persone, la Camera dei Comuni rifiutò di calmarsi, insistendo affinché egli rivelasse anche i nomi di coloro che lo avevano consigliato di agire in quel modo, al fine che potessero essere puniti severamente. Un termine che, in realtà, nascondeva soltanto l’intenzione di infliggere loro una punizione crudele.
+
+B.
+
+Questa era una richiesta estremamente dura. Non era forse sufficiente che il Re trattenesse i propri nemici, ma doveva anche tradire i propri amici? Se già ora tyrannizzano il Re prima ancora di aver ottenuto il potere sovrano nelle loro mani, come faranno a tyrannizzare i propri sudditi quando lo avranno realmente conquistato?
+
+A.
+
+E così fecero.
+
+B.
+
+Per quanto tempo quel comitato è rimasto a Londra?
+
+A.
+
+Non più di due o tre giorni; dopodiché venivano portati da Londra al Parlamento in barca, con grande trionfo e sotto la scorta di un gran numero di uomini armati. Lì potevano sedere al sicuro, nonostante il Re, e compiere atti traditori contro di lui, quanti ne desiderassero; inoltre, approfittando di questi disordini, riuscivano a spaventare via dalla Camera dei Lord tutti coloro che non appartenevano alla loro fazione. A quel tempo la plebaglia era così insolente che quasi nessuno dei vescovi osava recarsi in Parlamento per paura di subire violenze; dodici di loro si scusarono addirittura di non potervi andare, presentando una petizione al Re e sostenendo di non essere autorizzati a svolgere il proprio dovere in modo pacifico. La Camera dei Comuni, prendendo atto di ciò, inviò uno dei suoi membri presso i Lord per accusarli di alto tradimento. Di conseguenza, dieci di loro furono imprigionati nella Torre di Londra; da quel momento non si parlò più di alto tradimento contro di loro, ma fu approvata una legge che li privava del diritto di voto in Parlamento, e tale legge ottenne l’approvazione del Re. All’inizio di settembre successivo, i membri della Camera dei Comuni proposero che ai vescovi non fosse più permesso partecipare alla gestione della Chiesa; ma questa proposta non ricevette l’assenso del Re, poiché in quel periodo era già iniziata la guerra.
+
+B.
+
+Che cosa spinse il Parlamento ad essere così contrario al sistema episcopale, e soprattutto la Camera dei Lord, di cui i vescovi erano membri? Non vedo alcun motivo per cui dovessero agire in questo modo solo per compiacere un certo numero di poveri preti parrocchiali, che erano presbiteriani e che comunque non avrebbero mai potuto servire efficacemente i Lord; anzi, sembrava proprio che facessero del loro meglio per indebolirne il potere e sottometterli ai loro sinodi e alle loro gerarchie.
+
+A.
+
+Per quanto riguarda i Lord, pochissimi di loro riuscirono a comprendere le intenzioni dei presbiteriani; inoltre, credo che non osassero opporsi alla Camera Bassa.
+
+B.
+
+Ma perché la Camera Basso era così ostile nei loro confronti?
+
+A.
+
+Poiché intendevano sfruttare i propri principi e, sotto pretesto di santità, rendere il Re e il suo partito odiosi al popolo dal quale speravano ottenere il sostegno necessario per instaurare la democrazia e deporre il Re, o comunque far sì che questi mantenesse il titolo regale soltanto a condizione di agire secondo i loro interessi. Ma non solo il Parlamento, ma l’intero popolo d’Inghilterra era considerato loro nemico a causa del loro comportamento, ritenuto troppo autoritario. Queste erano le accuse che venivano loro mosse; la vera ragione della loro rovina, tuttavia, risiedeva nell’invidia dei presbiteriani, che incitarono il popolo contro di loro e contro lo stesso sistema episcopale.
+
+B.
+
+Come avrebbero voluto che la Chiesa fosse governata dai presbiteriani?
+
+A.
+
+Attraverso i sinodi nazionali e provinciali.
+
+B.
+
+Non è forse questo rendere l’assemblea nazionale un arcivescovo, e le assemblee provinciali tanti vescovi?
+
+A.
+
+Sì; ma ogni ministro avrà la gioia di partecipare al governo e, di conseguenza, potrà vendicarsi di coloro che non ammirano la sua erudizione e non contribuiscono a riempire le sue tasche, e al contrario conquistare a sé il favore di coloro che lo fanno.
+
+B.
+
+È davvero un caso difficile: esistono due fazioni che disturbano la [comunità](/concepts/commonwealth) senza alcun interesse personale da essa derivante, se non quello che ogni singolo individuo possa provare; inoltre, le loro dispute riguardano soltanto opinioni, cioè chi abbia più conoscenza, come se tale conoscenza dovesse costituire la regola per governare il mondo intero. Di cosa si occupano esattamente questi studiosi? Della politica e delle leggi di stato? So che viene definita “teologia”, ma in realtà quasi tutto ciò che viene predicato riguarda la filosofia. La religione, infatti, in sé non ammette controversie: è una legge universale e non dovrebbe essere oggetto di dibattito. Non credo che si pretenda di comunicare con Dio o conoscere la sua volontà attraverso altri mezzi se non la lettura delle [Scritture](/concepts/revelation), cosa che facciamo anche noi.
+
+A.
+
+Sì, alcuni di loro lo fanno davvero e si proclamano profeti grazie a un’ispirazione straordinaria. Ma gli altri fingono soltanto di possedere una maggiore conoscenza delle Scritture rispetto ad altre persone, per poter ottenere benefici e incarichi spirituali. Questo perché sono stati educati nelle università, dove hanno appreso il latino, e alcuni anche il greco e l’ebraico, lingue in cui le Scritture sono state scritte; inoltre, conoscono anche la filosofia naturale, materia insegnata pubblicamente nelle università.
+
+B.
+
+Per quanto riguarda le lingue latina, greca ed ebraica, un tempo erano molto utili – anzi indispensabili – per scoprire le frodi dei Romani e per eliminare il loro potere; ma ora che questo obiettivo è stato raggiunto e abbiamo la Sacra Scrittura in inglese, così come i sermoni predicati in inglese, non vedo alcuna vera necessità di utilizzare queste lingue. Credo di essere più qualificato se conosco bene le lingue dei nostri vicini: francese, olandese e italiano. Penso che prima dell’ascesa al potere dei papi, nel mondo non si sia mai visto che la filosofia potesse contribuire in modo significativo all’acquisizione del potere in una comunità politica.
+
+B.
+
+Ma la filosofia, insieme alla religione, ha molto contribuito al raggiungimento da parte di coloro che la praticavano di posizioni di grande autorità, seconda solo a quella dei re stessi, nella maggior parte dei regni antichi del mondo; come si può chiaramente vedere dalla storia di quei tempi.
+
+B.
+
+Prego che mi citiate alcuni degli autori e dei luoghi in questione.
+
+A.
+
+Innanzitutto, chi erano i Druidi dell’antichità in Britannia e Francia? Quale autorità possedessero si può vedere in Cesare, Strabone e altri, soprattutto in Diodoro Siculo, probabilmente il più grande storico antico che sia mai esistito. Parlando dei Druidi, che chiama “Sarovidi” in Francia, dice così: “Tra di loro vi sono anche alcuni filosofi e teologi estremamente rispettati, i quali vengono considerati profeti. Questi uomini, grazie alla loro abilità nell’auspicio e nell’esame degli intestini degli animali sacrificati, predicono ciò che accadrà in futuro e fanno sì che la gente li ascolti obbedientemente.” E poco dopo aggiunge: “È una loro [consuetudine](/concepts/custom) che nessuno possa sacrificare senza il permesso di un filosofo; poiché, dicono, gli uomini non dovrebbero rendere omaggio agli Dei se non attraverso coloro che conoscono la natura divina e che, in qualche modo, parlano lo stesso linguaggio degli Dei; e che tutte le cose buone debbano essere pregate proprio da queste persone.”
+
+B.
+
+Fatico a credere che quei druidi fossero così abili, sia nella filosofia naturale che in quella morale.
+
+A.
+
+Nemmeno io; poiché essi credevano e insegnavano la trasmigrazione delle anime da un corpo all’altro, proprio come faceva Pitagora; se questa opinione fosse loro derivata da lui o lui da loro, non lo so.
+
 <span class="atom-split" data-atom="025" data-title="PART II. (parte 9)" data-chapter="PART II." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 What were the Magi in Persia, but philosophers and astrologers? You know how they came to find our Saviour by the conduct of a star, either from Persia itself, or from some country more eastward than Judea. Were not these in great authority in their country? And are they not in most parts of Christendom thought to have been Kings?
@@ -1554,6 +3070,34 @@ It was so. But were not the priests cruel, to cause their Kings, whom a little b
 B.
 
 I am glad the bishops were out of this business. As ambitious as some say they are, it did not appear in that business, for they were enemies to them that were in it.
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che cosa erano i Magi in Persia, se non filosofi e astrologi? Sapete come giunsero a trovare il nostro Salvatore seguendo la traccia di una stella, proveniente sia dalla Persia stessa che da qualche paese ancora più a est della Giudea. Non erano forse persone di grande autorità nel loro paese? E non si ritiene generalmente che in gran parte del Cristianesimo fossero considerati re?
+
+Molti ritengono che l’Egitto sia il più antico regno e nazione del mondo; i suoi sacerdoti possedevano il massimo potere negli affari civili, più di quanto qualsiasi suddito abbia mai avuto in alcuna nazione. E cosa erano, se non filosofi e saggi? A proposito di loro, lo stesso Diodoro Siculo afferma: “L’intera regione dell’Egitto era divisa in tre parti; il corpo dei sacerdoti ne occupava una, poiché godevano della massima stima del popolo sia per la loro devozione verso gli Dei che per la cultura acquisita attraverso l’[istruzione](/concepts/education)”; e poco dopo aggiunge: “In generale, questi uomini erano i consiglieri del Re, occupandosi in parte dell’esecuzione delle decisioni, in parte della loro formulazione e del loro consiglio; predicevano anche il futuro grazie alla loro competenza nell’astrologia e nell’interpretazione dei sacrifici, e gli leggevano dai loro libri sacri quelle azioni che ritenevano utili per lui conoscere. Non esisteva, come in Grecia, un solo individuo incaricato del sacerdozio; molti erano quelli che si occupavano dei riti e dei sacrifici agli Dei, e trasmettevano questa funzione alle loro discendenze, le quali, dopo il Re, possedevano il massimo potere e autorità.”
+
+Per quanto riguarda la giustizia presso gli Egizi, egli afferma: “Dalle città più illustri, come Ieropoli, Tebe e Menfi, vengono scelti giudici che formano un consiglio non inferiore a quello dell’Areopago ad Atene o a quello del senato a Lacedemonia. Quando questi giudici si riuniscono – in numero di trenta – ne eleggono uno come presidente; la città da cui proviene tale giudice invia un altro al suo posto. Questo presidente portava al collo, appeso a una catena d’oro, un gioiello composto da pietre preziose il cui nome era ‘Verità’. Quando il presidente indossava questo gioiello, iniziavano le udienze; e quando i giudici raggiungevano un accordo sulla sentenza, il presidente apponeva quel gioiello sul documento ufficiale che ne registrava la decisione. Ora potete comprendere quale potere venisse acquisito nelle questioni civili grazie alla combinazione di filosofia e religione.”
+
+Passiamo ora al [regno](/concepts/commonwealth) degli Ebrei. Il sacerdozio non apparteneva forse a una determinata famiglia, cioè ai Leviti, proprio come avveniva in Egitto? Non era il sommo sacerdote a emettere giudizi attraverso l’Urim e il Thummim? Consideriamo anche il regno dell’Assiria, nonché i filosofi e i Caldei: non possedevano forse terre e città appartenenti alla loro famiglia, già ai tempi di Abramo, che viveva a Ur dei Caldei? Lo stesso autore dice su di loro: “I Caldei costituiscono una setta politica simile a quella dei sacerdoti egizi; essendo destinati al servizio degli Dei, trascorrono l’intera vita dedicandosi alla filosofia. Godono di grande reputazione in astrologia e si proclamano anche profeti, predicendo il futuro attraverso rituali purificatori e sacrifici, e cercando di evitare il male o di realizzare il bene tramite incantesimi specifici. Sono inoltre esperti nell’interpretazione degli auspici, dei sogni e dei fenomeni straordinari; non sono nemmeno ignoranti nell’arte di prevedere il futuro attraverso gli organi interni degli animali sacrificati. La loro conoscenza non deriva dalla filosofia greca, poiché quella caldea viene trasmessa tradizionalmente all’interno delle famiglie; il figlio la riceve dal padre.”
+
+Passiamo dall’Assiria all’India per vedere quale considerazione vi avessero i filosofi. “L’intera popolazione degli Indiani,” dice Diodoro, “è divisa in sette categorie; la prima di queste è costituita dai filosofi: sono pochi in numero, ma primi per importanza; sono esenti da tasse e, poiché non dominano sugli altri, nessuno domina su di loro. I privati cittadini li chiamano a partecipare ai sacrifici e alle cerimonie funebri, ritenendoli i più [amati](/concepts/charity) dagli Dei e esperti nella dottrina relativa all’inferno; per questo ricevono doni e onori molto considerevoli. Sono inoltre di grande utilità per il popolo indiano: all’inizio dell’anno vengono convocati nell’assemblea generale e predicono grandi siccità, forti piogge, tempeste, malattie, nonché qualsiasi altra cosa possa essere utile per la gente di conoscere in anticipo.”
+
+Lo stesso autore, parlando delle leggi degli Etiopi, afferma quanto segue: “Le leggi degli Etiopi sembrano molto diverse da quelle di altre nazioni, soprattutto per quanto riguarda l’elezione dei loro re. I sacerdoti propongono alcuni tra i principali cittadini, elencati in un catalogo, e il dio – che, secondo una certa [consuetudine](/concepts/custom), viene portato con sé durante le feste – accetta uno di loro; la folla lo elegge re e immediatamente lo adora e lo onora come un dio, riconoscendolo come colui che è stato posto al governo per volere divino. Una volta eletto, il re deve seguire una determinata vita regolamentata dalle leggi e agire secondo le usanze del paese; non può premiare o punire nessuno in modo diverso da quanto stabilito dalla legge. Non hanno l’abitudine di giustiziare qualcuno, anche se condannato a morte, ma inviano un funzionario con un simbolo della morte; quest’ultimo, veduto il simbolo, va immediatamente nella casa del condannato e lo uccide. La cosa più strana di tutte è ciò che fanno riguardo alla morte dei loro re. I sacerdoti che vivono a Meroe, dedicati al [culto](/concepts/religion) e all’onore degli dèi e detentori della massima autorità, quando lo desiderano, inviano un messaggero al re per ordinarne la morte, sostenendo che gli dèi abbiano dato tale comando e che i precetti degli immortali non possano assolutamente essere ignorati da coloro che sono destinati a morire; utilizzano anche altri argomenti persuasivi, e le persone di semplice intelligenza, prive delle capacità necessarie per contestare tali ordini inutili, li accettano senza obiezioni, poiché educate da antiche e radicate consuetudini. Pertanto, in passato i re obbedivano ai sacerdoti non perché costretti con la forza, ma perché la loro ragione era dominata dalla superstizione. Ma durante il regno di Tolomeo II, Ergamene, re degli Etiopi e educato alla filosofia secondo lo stile greco, fu il primo a osare mettere in discussione il potere dei sacerdoti; con coraggio da re, si recò con le truppe in un luogo chiamato Abaton, dove si trovava il tempio d’oro degli Etiopi; uccise tutti i sacerdoti, abolì quella consuetudine e riorganizzò il regno secondo i suoi desideri.”
+
+B.
+
+Sebbene coloro che furono uccisi fossero degli imbroglioni spregevoli, l’atto compiuto fu comunque crudele.
+
+A.
+
+Era proprio così. Ma non erano crudeli i sacerdoti, nel far sì che i loro re, che poco prima adoravano come dèi, si togliessero la vita? Il re li uccideva per la sicurezza della propria persona; loro lo uccidevano, spinti dall’ambizione o dal desiderio di cambiamento. L’atto del re poteva essere giustificato dal bene del suo popolo; i sacerdoti, invece, non avevano alcun pretesto contro i loro re, che certamente erano molto devoti, altrimenti non avrebbero mai obbedito all’ordine dei sacerdoti, inviato da un messaggero disarmato, di suicidarsi. Il nostro defunto re, forse il miglior re che sia mai esistito, fu assassinato dopo essere stato perseguitato dalla guerra, su istigazione dei ministri presbiteriani; questi sono quindi colpevoli della morte di tutte le persone che persero la vita in quella guerra, che, credo, furono quasi 100.000 in Inghilterra, Scozia e Irlanda. Non sarebbe stato molto meglio se quei ministri sediziosi, che probabilmente non erano nemmeno mille, fossero stati tutti uccisi prima ancora di poter predicare? Certo, si sarebbe trattato di un grande massacro; ma uccidere 100.000 persone è ancora peggio.
+
+B.
+
+Sono contento che i vescovi non fossero coinvolti in questa faccenda. Per quanto alcuni possano dire che siano ambiziosi, non sembra che fossero interessati a parteciparvi, poiché erano nemici di coloro che vi erano coinvolti.
 
 A.
 
@@ -1617,6 +3161,66 @@ There is a catalogue of them printed. They are very many, and most of them lords
 
 B.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma con queste citazioni non intendo lodare né la divinità né la filosofia di quei popoli pagani; voglio soltanto dimostrare quale effetto possa avere la reputazione di tali scienze tra le persone comuni. La loro “divinità” non era altro che idolatria; quanto alla loro filosofia, (escludendo quella conoscenza che i sacerdoti egizi, e da loro i Caldei, avevano acquisito attraverso lunghe osservazioni e studi in astronomia, geometria e aritmetica), essa era molto limitata; in gran parte, poi, veniva abusata nell’astrologia e nella divinazione. Al contrario, la “divinità” del clero di questa nazione – se si esclude la mescolanza introdotta dalla Chiesa di Roma, e in parte ancora conservata qui, di quella filosofia vaneggiante di [Aristotele](/figures/aristotle) e altri Greci, che non ha alcuna affinità con la religione, ma serve soltanto a generare disaffetto, dissensioni e, infine, sedizione e guerre civili – è davvero la vera religione. Tuttavia, a causa di queste differenze, entrambe le fazioni, non appena salite al potere, non solo soppressero i principi teologici dell’altra parte, ma anche qualsiasi dottrina che potesse minacciare i loro interessi; di conseguenza, venne represso ogni vero sviluppo della filosofia, soprattutto quella civile e morale, poiché essa non poteva mai essere considerata favorevole all’ambizione o alla possibilità di eludere l’obbedienza dovuta al potere sovrano.
+
+Dopo che il Re aveva accusato Lord Kimbolton, membro della Camera dei Lord, e Hollis, Haslerigg, Hampden, Pym e Stroud, cinque membri della Camera Bassa, di alto tradimento; e dopo che il Parlamento aveva espulso i vescovi dalla Camera dei Pari; essi sollecitarono Sua Maestà con due richieste principali nelle loro petizioni. La prima era che il Re dichiarasse chi fossero le persone che lo avevano consigliato di recarsi al Parlamento per arrestarli, e che li lasciasse al Parlamento affinché ricevessero la punizione dovuta; con questo scopo volevano infatti addossare a Sua Maestà l’infamia di aver abbandonato i suoi amici e tradito loro a favore dei loro nemici. La seconda richiesta era che il Re concedesse loro una scorta per lasciare la città di Londra, sotto il comando del Conte di Essex; sostenevano infatti di non poter sedere al Parlamento in sicurezza senza tale protezione, ma questa pretesa non altro era se non un rimprovero a Sua Maestà per essere arrivato al Parlamento con una scorta più numerosa del solito, proprio allo scopo di arrestare quei cinque membri sovversivi.
+
+B.
+
+Non vedo alcun motivo per cui, nel chiedere l’invio di una guardia, si debba specificare espressamente la città di Londra o il nome del Conte di Essex; a meno che non si intenda che il Re debba considerarla una misura di protezione rivolta contro se stesso.
+
+A.
+
+Il significato delle loro richieste era che il Re dovesse interpretarle in quel senso; e, come credo sinceramente, intendevano che le considerasse un affronto. Il Re stesso, intuendo così la loro intenzione, rifiutò di acconsentire; sebbene fosse disposto, qualora non si potesse trovare un altro modo per soddisfarli, a ordinare che venisse assegnata una guardia per proteggere lui stesso e il Parlamento. Inoltre, la città di Londra presentò al Re una petizione (senza dubbio sollecitata da alcuni membri della Camera dei Comuni) affinché affidasse la Torre di Londra a persone di fiducia, cioè a individui approvati dal Parlamento, e che designasse una guardia per garantire la sicurezza sua e del Parlamento. Questo [metodo](/axes/method) di presentare petizioni in modo tumultuoso, da parte di grandi folle chiassose, era abituale nella Camera dei Comuni; l’ambizione di tale organo non avrebbe mai potuto essere realizzata attraverso preghiere e richieste ordinarie, senza ricorrere a metodi estremi e intimidatori.
+
+Dopo che il Re aveva rinunciato ad accusare i cinque membri in questione, ma si era rifiutato di rivelare chi gli avesse consigliato di recarsi personalmente alla Camera dei Comuni, essi interrogarono l’Procuratore Generale, il quale, su ordine del Re, aveva presentato le accuse contro di loro; decisero quindi di dichiararlo violatore dei privilegi del Parlamento. Senza dubbio, se non fosse fuggito immediatamente dal paese, avrebbe dovuto subire le conseguenze della loro crudeltà.
+
+Verso la fine di gennaio, entrambe le Camere del Parlamento presentarono una petizione al Re per impedire l’arrivo dei comandanti cattolici in Irlanda; non tanto per timore che ciò potesse accadere, quanto perché il Re stesso, scegliendo personalmente questi comandanti, avrebbe potuto utilizzarli contro il Parlamento. Tuttavia, questa petizione non aveva grande rilevanza rispetto a un’altra presentata nello stesso periodo, cioè intorno al 27 o 28 gennaio 1641: in essa si chiedeva espressamente la [sovranità](/positions/sovereignty) assoluta dell’Inghilterra; anche se, con il nome di “sovranità”, non si intendeva realmente mettere in discussione l’autorità del Re mentre era ancora in vita. Al fine di eliminare i pericoli che minacciavano il regno e di impedire le cattive intenzioni dei nemici della pace, si pregava il Re di affidare immediatamente la Torre di Londra, tutte le altre fortezze e l’intera milizia del regno a persone raccomandate da entrambe le Camere del Parlamento. Questa petizione veniva definita “necessaria”.
+
+B.
+
+Esistevano davvero tali timori e pericoli, generalmente riconosciuti in quel contesto? Oppure, in quel periodo, comparvero nemici con intenzioni del genere quelle menzionate nella petizione?
+
+A.
+
+Sì. Ma non si trattava di alcun altro timore pericoloso, bensì soltanto di quel tipo di apprensione che qualsiasi uomo discreto e onesto potrebbe legittimamente provare riguardo ai piani stessi del Parlamento, considerato il più grande nemico della pace del regno. È anche degno di nota il fatto che questa petizione iniziasse con le parole “Mio molto nobile Sovrano”: parole così stupide da dimostrare la totale ignoranza dei firmatari riguardo al fatto che colui che comanda la milizia è, di conseguenza, padrone del regno e detiene quindi un potere assoluto. In quel momento il Re si trovava a Windsor, per evitare i tumulti della folla davanti alle porte di Whitehall, nonché le loro grida e offese. Il 9 febbraio successivo si recò a Hampton Court, da dove proseguì con la Regina e la Principessa di Orange, sua figlia, verso Dover; la Regina e la Principessa di Orange imbarcarono poi per l’Olanda, mentre il Re tornò a Greenwich. Da lì convocò il Principe di Galles e il Duca di York, e insieme a loro si diresse verso York.
+
+B.
+
+I Lordi si unirono ai Comuni in questa petizione per la milizia?
+
+A.
+
+Sembra così dal titolo; ma credo che non abbiano avuto altra scelta se non quella di farlo. La Camera dei Comuni li ha accettati soltanto come simboli; persone con titoli nobiliari, ma senza potere reale. Forse anche la maggior parte di loro pensava che l’appropriarsi delle milizie dal Re avrebbe aumentato il loro potere; ma si sbagliavano completamente, perché la Camera dei Comuni non aveva mai intenzione di farli partecipare effettivamente a quel potere.
+
+B.
+
+Qual risposta diede il Re a questa petizione?
+
+A.
+
+“Sua Maestà, dopo aver attentamente considerato questa petizione e desiderando esprimere quanto sia disposto a intervenire non solo per eliminare i vostri pericoli, ma anche per alleviare le vostre dubbi e paure, risponde come segue: quando conoscerà l’entità dei poteri che si intende conferire a coloro che desiderate nominare comandanti della milizia nelle varie contee, nonché il termine entro cui tali poteri saranno validi, allora nessun atto potrà essere compiuto da Sua Maestà senza il parere del Parlamento. In tal caso, per garantirvi la protezione da qualsiasi pericolo o invidia, Sua Maestà sarà disposto a nominare nelle varie contee sia le fortezze che i membri della milizia soltanto tra coloro che saranno approvati o raccomandati dalle due Camere del Parlamento. Pertanto, vi invita ad comunicargli immediatamente i nomi delle persone che desiderate nominare; fatta eccezione per coloro contro cui Sua Maestà possieda motivi legittimi e irrefutabili di obiezione.”
+
+B.
+
+Quale potere, per quale periodo di tempo e a chi, concesse il Parlamento riguardo alla milizia?
+
+A.
+
+Lo stesso potere che il Re aveva precedentemente concesso ai suoi luogotenenti e vice-luogotenenti, nelle varie contee, senza alcun limite di tempo se non quello del loro piacimento personale.
+
+B.
+
+Chi erano gli uomini che possedevano questo potere?
+
+A.
+
+È stato stampato un catalogo di loro; ne sono moltissimi, e la maggior parte di loro sono nobili; inoltre non è necessario nominarli tutti, poiché, a mio parere, farlo significherebbe marchiarli come persone disleali o sciocche. Dopo aver compilato il catalogo, lo inviarono al Re insieme a una nuova petizione riguardante la milizia. Poco dopo, inviarono anche un messaggio alla Sua Maestà, pregandola di lasciare il Principe ad Hampton Court; ma il Re rifiutò entrambe le richieste.
+
+B.
+
 <span class="atom-split" data-atom="027" data-title="PART II. (parte 11)" data-chapter="PART II." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 Howsoever, it was well done of them to get hostages, if they could, of the King, before he went from them.
@@ -1670,6 +3274,62 @@ Why did not the King seize the committee into his hands, or drive them out of to
 A.
 
 I know not; but I believe he knew the Parliament had a greater party than he, not only in Yorkshire but also in York. Towards the end of April, the King, upon petition of the people of Yorkshire to have the magazine of Hull to remain still there, for the greater security of the northern parts, thought fit to take it into his own hands. He had a little before appointed governor of that town the Earl of Newcastle. But the townsmen, having been already corrupted by the Parliament, refused to receive him, but refused not to receive Sir John Hotham, appointed to be governor by the Parliament. The King therefore coming before the town, guarded only by his own servants and a few gentlemen of the country thereabouts, was denied entrance by Sir John Hotham, that stood upon the wall; for which act he presently caused Sir John Hotham to be proclaimed traitor, and sent a message to the Parliament, requiring justice to be done upon the said Hotham, and that the town and magazine might be delivered into his hands. To which the Parliament made no answer, but instead thereof published another declaration, in which they omitted nothing of their former slanders against his Majesty’s government, but inserted certain propositions declarative of their own pretended right: viz. 1. That whatsoever they declare to be law, ought not to be questioned by the King: 2. That no precedents can be limits to bound their proceedings: 3. That a Parliament, for the public good, may dispose of anything wherein the King or subject hath a right; and that they, without the King, are this Parliament, and the judge of this public good, and that the King’s consent is not necessary: 4. That no member of either House ought to be troubled for treason, felony, or any other crime, unless the cause be first brought before the Parliament, that they may judge of the fact and give leave to proceed, if they see cause: 5. That the sovereign power resides in both Houses, and that the King ought to have no negative voice: 6. That the levying of forces against the personal commands of the King (though accompanied with his presence) is not levying war against the King, but the levying war against his laws and authority (which they have power to declare and signify), though not against his person, is levying war against the King; and that treason cannot be committed against his person, otherwise than as he is entrusted with the kingdom and discharging that trust; and that they have a power to judge whether he discharge this trust or not: 7. That they may depose the King when they will.
+
+B.
+
+<span class="qlang-split" data-lang="it"></span>
+
+In ogni caso, è stato saggio da parte loro riuscire a prendere degli ostaggi dal Re, prima che questi li lasciasse.
+
+A.
+
+Nel frattempo, al fine di raccogliere [denaro](/concepts/money) per la riduzione del territorio irlandese, il Parlamento invitò le persone a investire denaro attraverso imprese avventurose, secondo queste proposte: 1. Due milioni e cinquecentomila acri di terreno in Irlanda sarebbero stati assegnati agli investitori, secondo la seguente proporzione: per un investimento di 200 sterline, venivano concessi 1.000 acri nell’Ulster.
+
+, 300 litri, 1.000 acri nel Connacht.
+
+, 450 litri, 1.000 acri nel Munster.
+
+, 600 litri, 1.000 acri nel Leinster. Tutto calcolato secondo le misure inglesi: comprende prati, terreni coltivabili e pascoli redditizi; inoltre, ci sono torbiere, foreste e montagne sterili. 2. Alla Corona veniva riservata una rendita, che andava da un penny a tre penny per acro. 3. Il Parlamento doveva incaricarsi di istituire manieri, ripristinare terreni incolti, gestire le aree comuni, mantenere i ministri che si dedicavano alla predicazione, creare corporazioni e regolamentare le piantagioni. Le altre proposte riguardavano soltanto i tempi e i modi di pagamento delle somme sottoscritte dagli investitori. Sua Maestà acconsentì a queste proposte; tuttavia, rifiutò di approvare la petizione della milizia.
+
+B.
+
+Se non l’avesse fatto, avrei considerato una vera meraviglia. E poi, cosa fece il Parlamento?
+
+A.
+
+Gli inviarono un’altra petizione, che gli fu presentata mentre si trovava a Theobald’s, in viaggio verso York; nella quale gli dicevano chiaramente che, a meno che non fosse disposto ad assicurarli, attraverso quei messaggeri appena inviati, di voler presto concedere il proprio consenso reale per soddisfare i loro desideri precedenti, sarebbero costretti, per la sicurezza della Sua Maestà e dei suoi regni, a disporre della milizia con l’autorità delle due Camere, ecc. Chiedevano inoltre alla Sua Maestà di permettere al Principe di rimanere a St. James’s o in qualche altro palazzo reale vicino a Londra. Gli ricordavano infine che il potere di reclutare, organizzare e disporre della milizia non poteva essere concesso a nessuna corporazione senza l’autorità e il consenso del Parlamento; inoltre, quelle parti del regno che si erano messe in condizione di difesa avevano agito esclusivamente su indicazione delle due Camere e secondo quanto previsto dalle leggi di questo regno.
+
+B.
+
+Qual fu la risposta del Re a questo?
+
+A.
+
+Si trattava di un impegno militare preso sotto ufficiali che il Parlamento avrebbe dovuto approvare. 4. Essi votarono affinché Sua Maestà venisse nuovamente sollecitato a permettere al Principe di rimanere a Londra. Infine, decisero di inviare a Sua Maestà una dichiarazione congiunta delle due Camere; in essa accusavano Sua Maestà di voler modificare la religione, non direttamente lui stesso, ma coloro che lo consigliavano; accusavano inoltre questi ultimi di essere gli organizzatori e i promotori della guerra contro gli scozzesi, nonché i responsabili della ribellione in Irlanda; e rimproveravano nuovamente il Re per aver accusato Lord Kimbolton e i cinque membri in questione, e per essere a conoscenza del piano di mobilitare un esercito contro gli scozzesi al fine di usarlo contro il Parlamento. A questa risposta di Sua Maestà proveniente da Newmarket, le due Camere decisero che, in questo caso di estrema pericolosità e di rifiuto da parte del Re, l’ordinanza concordata sulle milizie obbligava il popolo ai sensi delle leggi fondamentali del regno; inoltre, chiunque esercitasse qualsiasi potere sulla milizia, sotto pretesto di alcuna commissione ufficiale, senza il consenso delle due Camere del Parlamento, sarebbe considerato un perturbatore della pace del regno. A seguito di ciò, Sua Maestà inviò un messaggio alle due Camere da Huntingdon, richiedendo l’obbedienza alle leggi stabilite e proibendo a tutti i sudditi di esercitare qualsiasi potere riguardante le milizie senza che tale azione fosse autorizzata dalle stesse leggi. Di conseguenza, il Parlamento ribadì le proprie precedenti decisioni; inoltre, stabilì che quando i Lord e i Comuni del Parlamento, essendo la massima corte giudiziaria del regno, avessero dichiarato quale fosse la legge vigente, qualunque contestazione o contraddizione di tale decisione sarebbe stata considerata una grave violazione dei privilegi parlamentari.
+
+B.
+
+Pensavo che colui che stabilisce la legge dovesse dichiarare esattamente in cosa consistesse quella legge. Infatti, che cos’altro significa stabilire una legge, se non dichiararne il contenuto? In questo modo, hanno sottratto al Re non solo il potere militare, ma anche quello legislativo.
+
+A.
+
+Hanno fatto proprio così; ma ritengo che il potere legislativo, e in realtà ogni tipo di potere possibile, risieda nel potere della milizia. Inoltre, hanno sequestrato tutte le somme dovute a Sua Maestà in base alle tasse sulla tonnellata e alle sovvenzioni, al fine di renderlo impossibilitato ad agire in qualsiasi modo possibile. Dopo il suo arrivo a York, gli hanno inviato anche molte altre lettere offensive e petizioni; tra queste c’era una che diceva: “Poiché il Lord Ammiraglio, a causa di problemi di salute, non poteva comandare personalmente la flotta, sarebbe stato lieto di autorizzare il Conte di Warwick a sostituirlo”; quando invece sapevano benissimo che il Re aveva già incaricato Sir John Pennington di tale compito.
+
+B.
+
+A quale scopo il Re accettava così tante petizioni, messaggi, dichiarazioni e rimproveri, e rispondeva ad essi, se non perché era evidente che coloro che le inviavano erano determinati a strappargli il potere regale e, di conseguenza, la vita? Infatti, per loro sarebbe stato impossibile garantire la propria sicurezza lasciando in vita lui o i suoi discendenti, dopo avergli inflitto così gravi offese.
+
+A.
+
+Oltre a ciò, il Parlamento aveva contemporaneamente un comitato con sede a York incaricato di spiare le azioni del Re e di informarne il Parlamento, nonché di impedire al Re di guadagnarsi il favore della popolazione di quella contea a proprio vantaggio. Così, mentre Sua Maestà cercava di conquistare l’affetto dei gentiluomini locali, il comitato incitava la gente comune contro di Lui. Anche i ministri contribuirono in modo significativo a questo scopo; di conseguenza, il Re perse quell’opportunità a York.
+
+B.
+
+Perché il Re non prese in mano il comitato o non li cacciò dalla città?
+
+A.
+
+Non lo so; ma credo che sapesse che il Parlamento disponeva di un maggior sostegno di quanto ne avesse lui, non solo nel Yorkshire, ma anche a York. Verso la fine di aprile, su petizione del popolo dello Yorkshire affinché il magazzino di Hull rimanesse lì per garantire una maggiore sicurezza delle regioni settentrionali, il Re decise di assumersene personalmente la gestione. Poco prima aveva nominato governatore di quella città il Conte di Newcastle; tuttavia i cittadini, essendo già stati corrotti dal Parlamento, rifiutarono di accoglierlo, ma non si opposero all’arrivo di Sir John Hotham, nominato governatore dal Parlamento stesso. Quando il Re si presentò in città, protetto soltanto dai suoi servitori e da alcuni gentiluomini della zona, fu respinto da Sir John Hotham, che si trovava sulla difesa delle mura; per questo atto il Re fece immediatamente proclamare Sir John Hotham traditore e inviò un messaggio al Parlamento chiedendo che venisse fatta giustizia contro di lui e che la città e il magazzino gli venissero consegnati. Il Parlamento non rispose, ma pubblicò invece un’altra dichiarazione nella quale ripeté tutte le calunnie precedenti contro il governo del Re, aggiungendo alcune affermazioni volte a sostegnere i propri presunti diritti: 1. Quello che essi definivano legge non doveva essere messo in discussione dal Re; 2. Nessun precedente poteva limitare le loro azioni; 3. Un Parlamento, per il bene pubblico, poteva disporre di qualsiasi cosa su cui Re o sudditi avessero diritti; 4. Nessun membro delle Camere doveva essere accusato di tradimento, reato grave o altro crimine senza che prima la questione venisse presentata al Parlamento affinché questi potesse giudicare i fatti e autorizzare eventuali procedimenti; 5. Il potere sovrano risiedeva in entrambe le Camere, e il Re non aveva diritto di veto; 6. La mobilitazione di truppe contro gli ordini personali del Re (anche se egli vi fosse presente) non costituiva una guerra contro di lui, ma contro le sue leggi e autorità; 7. Il Re poteva essere deposto quando essi lo ritenessero necessario.
 
 B.
 
@@ -1749,6 +3409,82 @@ A.
 
 After the sending of these propositions to the King, and his Majesty’s refusal to grant them, they began, on both sides, to prepare for war. The King raised a guard for his person in Yorkshire, and the Parliament, thereupon having voted that the King intended to make war upon his Parliament, gave order for the mustering and exercising the people in arms, and published propositions to invite and encourage them to bring in either ready money or plate, or to promise under their hands to furnish and maintain certain numbers of horse, horsemen, and arms, for the defence of the King and Parliament, (meaning by King, as they had formerly declared, not his person, but his laws); promising to repay their money with interest of 8l. in the 100l. and the value of their plate with twelve-pence the ounce for the fashion. On the other side, the King came to Nottingham, and there did set up his standard royal, and sent out commissions of array to call those to him, which by the ancient laws of England were bound to serve him in the wars. Upon this occasion there passed divers declarations between the King and Parliament concerning the legality of this array, which are too long to tell you at this time.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Si tratta di comportamenti onesti e privi di ipocrisia. Riuscirà la città di Londra ad accettarlo?
+
+A.
+
+Sì; e anche di più, se necessario. Londra, si sa, ha un “gran ventre”, ma non possiede né il senso del giusto né quello del sbagliato. Nell’elenco dei giuramenti fatti da Enrico IV al momento della sua incoronazione, c’è questa frase: “Concedo che le leggi e le consuetudini esistenti debbano essere rispettate; e prometto di proteggerle e sostenerle nell’onore di Dio, quelle che il popolo avrà scelto”. Il Parlamento ha fatto leva su questa frase per affermare la propria autorità legislativa, interpretandola come “quelle che il popolo sceglierà”; come se il Re dovesse giurare di proteggere e sostegnere leggi prima ancora che vengano formulate, indipendentemente dal fatto che siano buone o cattive. In realtà, quelle parole significano semplicemente che il Re dovrà proteggere e sostegnere le leggi scelte dal popolo, ovvero gli atti del Parlamento allora in vigore. Nei registri della Tesoreria si legge invece: “Concedete di rispettare e mantenere le leggi e le consuetudini legali esistenti nel vostro regno, e promettete di difenderle e sostenerle?”. Ed è stata questa la risposta data da Sua Maestà a tale questione.
+
+B.
+
+E penso che questa risposta sia molto completa e chiara. Tuttavia, se queste parole venissero interpretate in un altro senso, non vedo alcun motivo per cui il Re dovrebbe essere costretto a giurare su di esse. Infatti, Enrico IV salì al trono grazie ai voti di un Parlamento non molto diverso da questo Parlamento Lungo, che depose e assassinò il loro legittimo Re; con la differenza che non fu il Parlamento stesso ad assassinare Re Riccardo II, ma l’usurpatore.
+
+A.
+
+Circa una settimana dopo, all’inizio di maggio, il Parlamento inviò al Re un altro documento, che definì “umile petizione e consiglio delle due Camere”, contenente diciannove proposte; ascoltandole, sarete in grado di capire quale potere intendessero conferire al Re, più di quanto lo fossero disposti a concedere a qualsiasi altro dei suoi sudditi. La prima di queste proposte è la seguente:
+
+Che i Lord e gli altri membri del consiglio privato di Sua Maestà, nonché tutti i grandi funzionari di stato, sia in patria che all’estero, vengano rimossi dai loro incarichi e dal consiglio stesso, salvo coloro che siano approvati dalle due Camere del Parlamento; e che nessuno venga nominato a tali incarichi se non con l’approvazione delle suddette Camere. Inoltre, che tutti i membri del consiglio privato prestino giuramento per l’esecuzione corretta dei loro doveri, secondo la formula concordata dalle due Camere.
+
+Che le grandi questioni del regno siano dibattute, decise e gestite esclusivamente dal Parlamento; che coloro che osassero agire in modo contrario siano soggetti alla condanna del Parlamento; che altre questioni di [stato](/concepts/state) che riguardano il Consiglio Privato Sua Maestà siano dibattute e risolte da persone scelte periodicamente dalle due Camere del Parlamento per tale incarico; che nessun atto pubblico relativo agli affari del regno, che debba essere approvato dal Consiglio Privato Sua Maestà, possa essere considerato valido come emanato dall’autorità reale, se non viene adottato su consiglio e con il consenso della maggioranza dei membri del consiglio stesso, attestato sotto la loro firma; che il numero dei membri del Consiglio non superi i venticinque né sia inferiore ai quindici; che, qualora un posto nel Consiglio diventi vacante tra una sessione parlamentare e l’altra, tale posto non possa essere occupato senza il consenso della maggioranza dei membri del consiglio; e che anche tale scelta sia invalidata se il successivo Parlamento non la confermi.
+
+Che il Lord High Steward d’Inghilterra, il Lord High Constable, il Lord Chancellor o il Lord Keeper of the Great Seal, il Lord Treasurer, il Lord Privy-Seal, l’Earl Marshal, il Lord Admiral, il Warden of the Cinque Ports, il Chief Governor d’Irlanda, il Chancellor of the Exchequer e i Secretaries of State siano sempre scelti con l’approvazione di entrambe le Camere del Parlamento; e nei periodi tra le sessioni parlamentari, dalla maggioranza del Consiglio Privato.
+
+Che il governo dei figli del Re venga affidato a coloro che siano approvati da entrambe le Camere; e nei periodi tra le sessioni parlamentari, a coloro che siano approvati dal Consiglio Privato; che inoltre i servitori che allora si trovino al loro fianco e contro i quali le Camere abbiano sollevato obiezioni vengano rimossi.
+
+Che nessun matrimonio venga contratto o negoziato per alcuno dei figli del Re senza il consenso del Parlamento.
+
+Che le leggi attualmente in vigore contro i gesuiti, i preti e i rifiutatori delle pratiche papiste vengano rigorosamente applicate.
+
+Che vengano revocati i diritti di voto dei lord papisti nella Camera dei Lord, e che venga approvato un disegno di legge per l’[educazione](/concepts/education) dei figli dei papisti alla religione protestante.
+
+Che il Re sia disposto a riformare la governance della Chiesa e la liturgia nel modo suggerito dalle due Camere del Parlamento.
+
+Che fosse disposto ad accontentarsi della linea d’azione scelta dai Lord e dai Comuni per l’organizzazione della milizia, e a ritrattare le proprie dichiarazioni e proclamazioni contrarie ad essa.
+
+Che membri che sono stati esclusi da qualsiasi incarico o posizione sin dall’inizio di questo Parlamento possano essere ripristinati nei loro ruoli o ottenere un risarcimento.
+
+Che tutti i membri del Consiglio Privato e i giudici prestino un giuramento, la cui forma dovrà essere concordata e stabilita tramite atto parlamentare, al fine di mantenere la “Petizione dei Diritti” e alcuni statuti emanati dal Parlamento.
+
+Che tutti i giudici e gli ufficiali nominati con l’approvazione delle due Camere del Parlamento possano mantenere le loro cariche per tutto il tempo in cui agiscano rettamente.
+
+Che la giustizia del Parlamento possa giudicare tutti i delinquenti, sia che si trovino all’interno del regno che ne siano fuggiti; e che tutte le persone citate da una qualsiasi delle Camere del Parlamento possano presentarsi e subire la condanna del Parlamento.
+
+Che la generale amnistia offerta da Sua Maestà venga concessa con tali eccezioni quali saranno suggerite dalle due Camere del Parlamento.
+
+B.
+
+Che articolo malvagio! Tutti gli altri esempi descritti derivavano dall’ambizione, una passione a cui spesso sono soggetti anche le persone di buon carattere; ma questo esempio derivava da una crudeltà disumana e demoniaca.
+
+A.
+
+Che le fortezze e i castelli siano posti sotto il comando di persone che, con l’approvazione del Parlamento, il Re nominerà.
+
+Che le guardie straordinarie intorno al Re vengano sciolte; e che in futuro nessuna nuova guardia venga reclutata se non in base alla legge, nel caso di una vera ribellione o invasione.
+
+B.
+
+Penso che proprio queste proposte inviate al Re costituiscano in realtà una vera e propria ribellione.
+
+A.
+
+Che Sua Maestà entri in un’alleanza più stretta con le Province Unite, nonché con altri principi e stati protestanti vicini.
+
+Che Sua Maestà sia propensa, attraverso un atto del Parlamento, a scagionare il Lord Kimbolton e i cinque membri della Camera dei Comuni, in modo che futuri Parlamenti possano essere protetti dalle conseguenze di tale cattivo precedente.
+
+Che Sua Maestà voglia approvare una legge che vieti ai nobili di partecipare alle sedute o di votare al Parlamento in futuro, a meno che non siano ammessi con il consenso di entrambe le Camere del Parlamento.
+
+Date queste premesse, tali proposte promettono di essere utilizzate per regolare le entrate del Suo Maestà nel modo più vantaggioso possibile, al fine di garantire il sostegno necessario alla sua dignità reale e la prosperità del regno; inoltre, prevedono la consegna della città di Hull nelle mani di coloro che Sua Maestà indicherà, con il consenso del Parlamento.
+
+B.
+
+Non è forse questo affidarlo a mani designate da Sua Maestà su consenso dei richiedenti, il che equivale semplicemente a lasciarlo nelle loro mani così com’è? Volevano davvero, o pensavano che il Re volesse, che le loro promesse avessero valore?
+
+A.
+
+Dopo l’invio di queste proposte al Re e il suo rifiuto di accettarle, entrambe le parti iniziarono a prepararsi per la guerra. Il Re radunò una guardia personale nel Yorkshire; il Parlamento, considerando che il Re intendesse dichiarare guerra contro di esso, ordinò l’arruolamento e l’addestramento delle truppe e pubblicò proposte al fine di incoraggiare i cittadini a contribuire con denaro o beni, oppure a impegnarsi personalmente a fornire cavalieri e armi per la difesa del Re e del Parlamento (intendendo con “Re”, come avevano precedentemente dichiarato, non la sua persona, ma le sue leggi). Promise inoltre di rimborsare il denaro versato con un interesse del 8% su ogni 100 sterline, e il valore dei beni donati con dodici penny all’oncia. Dall’altra parte, il Re si recò a Nottingham, dove fece issare la sua bandiera reale e inviò ordini di arruolamento a coloro che, secondo le antiche leggi d’Inghilterra, erano obbligati a servirlo in guerra. In questa occasione ebbero luogo diverse dichiarazioni tra il Re e il Parlamento riguardo alla legalità di tali misure, ma non è possibile riportarle tutte in questo momento.
+
 <span class="atom-split" data-atom="029" data-title="PART II. (parte 13)" data-chapter="PART II." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 B.
@@ -1778,6 +3514,36 @@ It is true, the King had great disadvantages, and yet by little and little he go
 B.
 
 Well then, we will talk of that at next meeting.
+
+<span class="qlang-split" data-lang="it"></span>
+
+B.
+
+Non desidero nemmeno ascoltare alcuna discussione su questa questione. Poiché ritengo che la legge generale del bene pubblico, nonché il diritto di difendersi contro coloro che gli hanno sottratto il potere sovrano, siano sufficienti a rendere legittimo qualsiasi azione possa intraprendere al fine di riconquistare il proprio regno o di punire i ribelli.
+
+A.
+
+Nel frattempo, il Parlamento radunò un esercito e nominò il Conte di Essex suo comandante; con questo atto dichiararono apertamente ciò che avevano inteso in precedenza, quando avevano chiesto al Re di concedere una guardia sotto il comando del suddetto Conte di Essex. Ora il Re emette proclamazioni che vietano l’obbedienza agli ordini del Parlamento riguardanti la milizia; mentre il Parlamento a sua volta emette ordini per impedire l’esecuzione delle disposizioni relative alla mobilitazione delle truppe. Fino ad ora, sebbene si trattasse di una guerra, non è stata versata alcuna sangue: si sono scambiati soltanto attacchi verbali, senza che venisse sparato un solo colpo.
+
+B.
+
+Ora capisco come il Parlamento abbia distrutto la pace del regno; e quanto facilmente, con l’aiuto di ministri presbiteriani sovversivi e di oratori ambiziosi e ignoranti, sia riuscito a ridurre questo governo nell’anarchia. Tuttavia credo che per loro sarà molto più difficile ristabilire la pace e sistemare il governo, sia affidandolo a se stessi, che a un altro governante o a una diversa forma di governo. Perché, anche ammettendo di aver ottenuto la vittoria in questa guerra, dovranno esserne grati al coraggio, al buon comportamento o alla fortuna di coloro a cui hanno affidato il comando delle loro truppe; soprattutto al generale, il cui successo sicuramente attirerà l’[amore](/concepts/charity) e l’ammirazione dei soldati; quindi sarà in suo potere assumersi personalmente il governo, oppure collocarlo dove ritiene opportuno. In questo caso, se non lo assumerà lui stesso, verrà considerato un idiota; mentre se lo farà, sicuramente susciterà l’invidia dei suoi subordinati, che cercheranno di ottenere una parte sia nel governo attuale, sia nella sua successione. Diranno infatti: “Ha ottenuto il potere grazie al proprio coraggio e ai propri consigli, senza che noi corressimo rischi; e dobbiamo quindi diventare suoi schiavi, dopo averlo elevato a tale posizione? Oppure non c’è forse altrettanta giustizia da parte nostra contro di lui, quanto ce n’era da parte sua contro il Re?”
+
+A.
+
+Lo faranno, e infatti lo fecero; tanto che fu proprio questo il motivo per cui Cromwell, dopo essersi assicurato il potere assoluto su Inghilterra, Scozia e Irlanda con il titolo di Protettore, non osò mai assumere il titolo di Re, né riuscì mai a conferirlo ai suoi figli. I suoi ufficiali non lo avrebbero permesso, poiché ciò avrebbe significato pretendere di succedergli dopo la sua morte; e l’esercito non lo avrebbe accettato, poiché Cromwell aveva sempre dichiarato contro il governo di una sola persona.
+
+B.
+
+Ma tornando al Re: quali mezzi aveva a disposizione per finanziare un esercito in grado di resistere a quello del Parlamento, sostenuto dal vasto patrimonio della città di Londra e dalle contribuzioni di quasi tutte le città inglesi, e dotato delle armi necessarie?
+
+A.
+
+È vero che il Re aveva molti svantaggi, eppure, poco a poco, riuscì ad organizzare un esercito considerevole; grazie ad esso divenne sempre più potente, mentre il Parlamento si indeboliva progressivamente. Alla fine, i Scozzesi, con un esercito di 21.000 uomini, vennero in Inghilterra per aiutarlo. Ma non ho ora il tempo di descrivere in dettaglio ciò che accadde durante quella guerra.
+
+B.
+
+Allora ne parleremo nella prossima riunione.
 
 <span class="atom-split" data-atom="030" data-title="PART III. (parte 1)" data-chapter="PART III." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
@@ -1849,6 +3615,76 @@ Seeing then the Parliament had such advantage of the King in money and arms and 
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+B.
+
+Ci trovavamo di fronte alle preparativi di entrambe le parti per la guerra; riflettendoci attentamente, rimasi profondamente perplesso nel cercare di capire quale possibilità avesse il Re di eguagliare il Parlamento in un simile contesto, e quali speranze potesse avere riguardo a risorse finanziarie, uomini, armi, fortificazioni, navi, consigli e ufficiali militari sufficienti per intraprendere un’impresa del genere contro il Parlamento, che disponeva di risorse umane e finanziarie molto maggiori di quelle che la città di Londra e altre città corporative erano in grado di fornire, e che anzi queste risorse erano più che sufficienti. Per quanto riguarda gli uomini che avrebbero dovuto arruolarsi come soldati, quasi tutti erano animati da un profondo rancore verso il Re e tutto il suo partito; li consideravano o papisti, o adulatori del Re, o persone intenzionate a arricchirsi saccheggiando la città e altre città corporative. E sebbene non credessi che fossero più valorosi degli altri uomini, né che possedessero un’esperienza militare tale da essere considerati soldati validi, avevano qualcosa in loro che, in tempo di battaglia, era più efficace della semplice valentia e dell’esperienza messe insieme: il rancore.
+
+Per quanto riguarda le armi, avevano a disposizione i principali magazzini di munizioni, la Torre di Londra e la città di Kingston-upon-Hull; inoltre, possedevano la maggior parte della polvere da sparo e delle palle disponibili in diverse città per l’uso delle truppe addestrate.
+
+In quel periodo, in Inghilterra non ce n’erano molte di queste fortificate località, e la maggior parte di esse era sotto il controllo del Parlamento.
+
+La flotta del Re era interamente sotto il loro controllo, guidata dal Conte di Warwick.
+
+Consiglieri. Non avevano bisogno di altro che di persone appartenenti al loro stesso ambiente.
+
+Quindi, il Re era inferiore a loro sotto ogni aspetto, tranne forse per quanto riguarda gli ufficiali.
+
+A.
+
+Non posso confrontare i loro ufficiali superiori. Per quanto riguarda il Parlamento, dopo che esso aveva votato a favore della guerra, l’Earl di Essex fu nominato generale di tutte le loro forze in Inghilterra e Irlanda; da lui tutti gli altri comandanti ricevevano le proprie commissioni.
+
+B.
+
+Che cosa li spinse ad eleggere conte di Essex? E per quale motivo il conte di Essex era così scontento del re da accettare quella carica?
+
+A.
+
+Non so con certezza cosa rispondere a nessuna di quelle domande; ma il Conte di Essex aveva partecipato a guerre all’estero e non possedeva né esperienza, né giudizio, né coraggio sufficienti per intraprendere un’impresa del genere. Inoltre, avrete sicuramente sentito quanto suo padre fosse stato amato dal popolo prima di lui, e quale onore avesse ottenuto grazie al successo delle sue imprese militari a Calais e in altre azioni belliche. Posso aggiungere anche che lo stesso Conte non era considerato così favorito alla corte da far sì che il popolo non gli affidasse l’esercito per combattere contro il Re. Da questo si può forse intuire il motivo per cui il Parlamento scelse proprio lui come generale.
+
+B.
+
+Ma perché pensavano che fosse insoddisfatto della Corte?
+
+A.
+
+Non lo so con certezza; in realtà, non è nemmeno vero che fosse così. Veniva alla corte, come facevano anche altri nobili quando ce n’era bisogno, per servire il Re; ma fino a poco tempo fa non aveva alcun incarico specifico che lo obbligasse ad essere costantemente presente lì. Credo sinceramente, tuttavia, che la sfortuna dei suoi matrimoni abbia reso molto raro il suo contatto con le dame di corte; quindi la vita alla corte non poteva certo considerarsi il suo ambiente naturale, a meno che non avesse goduto di qualche particolare favore reale in grado di compensare quella sfortuna. A meno che non ci fosse stata qualche ragione specifica di disappunto da parte del Re, o l’intenzione di vendicarsi per qualche presunta umiliazione subita. Non credo affatto che avesse alcun legame con le dottrine presbiteriane o con altre idee fanatiche riguardanti la Chiesa o lo Stato; si limitava semplicemente a seguire la corrente generale del popolo, ritenendo che l’Inghilterra non fosse una monarchia assoluta, ma mista. Senza considerare che il potere supremo debba sempre essere assoluto, sia che appartenga al Re che al Parlamento.
+
+B.
+
+Chi era il generale dell’esercito del Re?
+
+A.
+
+Ancora nessuno, tranne lui stesso; in realtà, non possedeva nemmeno un esercito. Tuttavia, quando in quel momento gli giunsero i suoi due nipoti, i principi Rupert e Maurice, affidò il comando delle sue truppe al principe Rupert: un uomo il cui coraggio non era superato da nessuno vivente, né più attivo e diligente nel compiere i propri doveri. Sebbene fosse ancora giovane, non mancava di esperienza nella guida dei soldati, avendo partecipato in alcune delle guerre combattute dal padre in Germania.
+
+B.
+
+Ma come avrebbe potuto il Re trovare i fondi necessari per finanziare un esercito del genere, indispensabile per contrastare il Parlamento?
+
+A.
+
+Né il Re né il Parlamento disponevano, a quel tempo, di grandi somme di denaro; erano quindi costretti a fare affidamento sulla benevolenza di coloro che li sostenevano in quella lotta. Devo ammettere che il Parlamento aveva un notevole vantaggio in questo senso: coloro che aiutavano il Re erano soltanto nobili e gentiluomini che, non approvando le azioni del Parlamento, erano disposti a finanziare personalmente l’acquisto di cavalli. Tuttavia, tale contributo non rappresentava certo un sostegno significativo, visto il numero esiguo delle persone che lo fornivano. Per quanto riguarda altri fondi di cui il Re disponeva in quel periodo, non ne conosco alcuno, se non quelli ottenuti attraverso prestiti effettuati con gioielli nei Paesi Bassi. Il Parlamento, invece, ricevette un contributo molto sostanzioso, non solo da Londra, ma anche da tutte le altre regioni d’Inghilterra, grazie a proposte pubblicate dai Lord e dai Comuni nel giugno 1642 – in un momento in cui avevano appena votato contro le intenzioni bellicose del Re. Questo contributo veniva utilizzato per finanziare l’acquisto di cavalli e soldati, nonché per l’acquisto di armi al fine di preservare la pace pubblica e difendere il Re e entrambe le Camere del Parlamento; in cambio di tale aiuto, veniva garantita la loro sicurezza economica.
+
+B.
+
+Qual fede pubblica può esistere, quando non c’è più una società pubblica? Cosa si può definire “pubblico”, in tempo di guerra civile, senza un Re?
+
+A.
+
+La verità è che quella sicurezza non valeva nulla, ma era sufficiente per ingannare quei testardi sediziosi, i quali preferivano il cambiamento alla pace e al proprio interesse.
+
+Avendo così ottenuto contributi da coloro che erano favorevoli alla loro causa, ne fecero poi uso per costringere anche gli altri a fornire contributi simili. Infatti, nel novembre successivo, emanarono un decreto che prevedeva il pagamento di tasse anche da parte di coloro che non avevano contribuito in quel momento, o che avevano contribuito ma non in proporzione alle loro risorse economiche. Eppure ciò era contrario a quanto il Parlamento aveva promesso e dichiarato nelle proprie proposte. Infatti, nella prima delle proposte stesse, si affermava che le intenzioni di un individuo non dovessero essere giudicate in base alla proporzione del contributo offerto, ma piuttosto in base al modo in cui aveva espresso la propria volontà di servire la causa comune.
+
+Oltre a ciò, all’inizio di marzo seguente emanarono un decreto che prevedeva l’applicazione, su ogni contea, città, borgo e persona di qualsiasi condizione in Inghilterra, di una somma considerevole di denaro a scadenza settimanale. Questa somma, come risulta dallo stesso decreto stampato e pubblicato nel marzo 1642 su ordine delle due Camere, ammontava a quasi 33.000 sterline, il che equivaleva a oltre 1.700.000 sterline per l’intero anno. Inoltre, possedevano i profitti derivanti dalle terre e dai boschi del Re, nonché quanto rimaneva non pagato di eventuali sovvenzioni precedentemente concesse a quest’ultimo; in più, ricevevano le tasse sulla navigazione e sulle merci solitamente riscosse dal Re. Oltre a ciò, ottenevano i profitti derivanti dalle confische delle proprietà di persone considerate colpevoli, nonché i beni appartenenti ai vescovi, che si appropriavano dopo un anno o poco più.
+
+B.
+
+Visto quindi che il Parlamento aveva su re una tale superiorità in termini di denaro, armi e numero di uomini, e che possedeva anche la flotta reale, non riesco a immaginare quale speranza potesse avere il re, sia per ottenere la vittoria (a meno che non cedesse loro la [sovranità](/positions/sovereignty)), sia per sopravvivere. Infatti, difficilmente posso credere che avesse alcun vantaggio su di loro in termini di consiglieri, comandanti o risolutezza dei suoi soldati.
+
+A.
+
 <span class="atom-split" data-atom="031" data-title="PART III. (parte 2)" data-chapter="PART III." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 On the contrary, I think he had also some disadvantage in that; for though he had as good officers at least as any then served the Parliament, yet I doubt he had not so useful counsel as was necessary. And for his soldiers, though they were men as stout as theirs, yet, because their valour was not sharpened so with malice as theirs was on the other side, they fought not so keenly as their enemies did: amongst whom there were a great many London apprentices, who, for want of experience in the war, would have been fearful enough of death and wounds approaching visibly in glistering swords; but, for want of judgment, scarce thought of such death as comes invisibly in a bullet, and therefore were very hardly to be driven out of the field.
@@ -1908,6 +3744,68 @@ When the business was brought to this height, by levying of soldiers and seizing
 A.
 
 You have forgotten that I told you, that the King himself, by a bill that he passed at the same time when he passed the bill for the execution of the Earl of Strafford, had given them authority to hold the Parliament till they should by consent of both Houses dissolve themselves. If therefore he had, by any proclamation or message to the Houses, dissolved them, they would to their former defamations of his Majesty’s actions have added this, that he was a breaker of his word: and not only in contempt of him have continued their session, but also have made an advantage of it to the increase and strengthening of their own party.
+
+B.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Al contrario, penso che avesse anche alcuni svantaggi in questo senso: poiché, sebbene disponesse di ufficiali altrettanto validi quanto quelli che all’epoca servivano il Parlamento, dubito che avesse a disposizione i consigli utili e necessari. Per quanto riguarda i suoi soldati, sebbene fossero uomini altrettanto coraggiosi dei nemici, poiché il loro spirito combattivo non era alimentato da motivazioni malvagie come quelle degli avversari, non combattevano con la stessa determinazione. Tra i nemici c’erano molti apprendisti di Londra che, a causa della mancanza di esperienza militare, avrebbero certamente temuto la morte e le ferite causate dalle spade scintillanti; ma, per mancanza di giudizio, quasi non consideravano il rischio rappresentato dalle pallottole, invisibili e letali, e quindi era molto difficile scacciarli dal campo di battaglia.
+
+B.
+
+Ma quale colpa trovate nei consiglieri del Re, nei nobili e in altre persone di qualità ed esperienza?
+
+A.
+
+L’unica colpa che caratterizzava l’intera nazione era quella di ritenere che il governo d’Inghilterra non fosse assoluto, ma una monarchia mista; e che, se il Re avesse sottomesso definitivamente quel Parlamento, il suo potere sarebbe diventato quello che desiderava, mentre quello del Parlamento sarebbe stato ridotto al nulla, cosa che consideravano tirannia. Questo punto di vista, pur non indebolendo i loro sforzi per aiutare il Re a ottenere la vittoria in battaglia quando questa sembrava inevitabile, diminuiva tuttavia la loro determinazione ad assicurargli una vittoria decisiva nella guerra. Per questo motivo, nonostante vedessero chiaramente che il Parlamento era deciso a strappare ogni potere regale dalle mani del Re, i loro consigli al Re consistevano sempre nel proporre trattati e accordi, nonché nel pubblicare dichiarazioni; cose che chiunque avrebbe potuto prevedere sarebbero risultate inutili, e addirittura molto dannose per le azioni che il Re avrebbe dovuto intraprendere per riconquistare la corona e salvare la propria vita. Infatti, questo atteggiamento toglieva coraggio ai migliori e più determinati dei suoi soldati, i quali speravano di trarre grandi benefici dal loro servizio attraverso le proprietà dei ribelli, nel caso in cui fossero riusciti a sottometterli; mentre, se la questione si fosse risolta tramite un trattato, tali speranze sarebbero svanite del tutto.
+
+B.
+
+E avevano ragione: poiché una guerra civile non finisce mai con un trattato, senza che vengano sacrificati coloro che si trovavano su entrambi i fronti. Siete ben consapevoli di come siano andate le cose durante la riconciliazione tra Augusto e Antonio a Roma. Ma pensavo che, una volta iniziata la mobilitazione dei soldati da parte di entrambe le parti, nessuno dei due avrebbe più fatto ritorno alle dichiarazioni o ad altre forme di “guerra su carta”, che, se avessero potuto essere efficaci, lo sarebbero state molto tempo prima.
+
+A.
+
+Ma vedendo che il Parlamento continuava a scrivere, presentando alle persone le proprie dichiarazioni contro la legalità dell’ordine emanato dal Re per l’arruolamento dei soldati, e inviandogli petizioni altrettanto violente e ribelli di prima, chiedendogli di sciogliere i propri eserciti, di presentarsi davanti al Parlamento e di lasciare che coloro che il Parlamento definiva “delinquenti” (che in realtà erano i migliori sudditi del Re) fossero soggetti alla sua [misericordia](/concepts/charity), e di approvare le leggi che esso gli avesse consigliato; non pensereste anche voi che il Re dovrebbe pubblicare dichiarazioni e proclamazioni contro l’illegalità dei loro decreti, con cui essi avevano reclutato soldati contro di lui, e rispondere a quelle loro petizioni insolenti?
+
+B.
+
+No; prima non gli aveva portato alcun beneficio, e quindi era improbabile che lo facesse anche in futuro. Il popolo comune, infatti, il cui giudizio avrebbe dovuto decidere la controversia, non comprendeva le ragioni di nessuna delle due parti; per quanto riguarda coloro che, spinti dall’ambizione, avevano deciso di intraprendere l’iniziativa di cambiare il governo, a loro non importava affatto cosa fossero ragione e giustizia in quella causa, ma piuttosto quale forza potessero ottenere convincendo la folla con argomentazioni presso il Parlamento o con prediche nelle chiese. E alle loro petizioni non avrei voluto rispondere affatto, se non dicendo loro che, se si fossero disfatti dell’esercito e si fossero affidati alla sua misericordia, lo avrebbero trovato più generoso di quanto si aspettassero.
+
+A.
+
+Quella era davvero una risposta nobile, se fosse venuta da lui dopo qualche vittoria straordinaria in battaglia, o dopo aver avuto la certezza di ottenere la vittoria finale in tutta la guerra.
+
+B.
+
+Dopotutto, cosa poteva essergli accaduto di peggiore rispetto a ciò che alla fine ha sofferto, nonostante le sue risposte gentili e tutte le sue dichiarazioni ragionevoli?
+
+A.
+
+Niente. Ma chi avrebbe potuto saperlo?
+
+B.
+
+Chiunque avrebbe potuto comprendere che non c’era alcuna possibilità di ristabilire i suoi diritti senza una vittoria; e poiché la sua determinazione era nota al popolo, molti più avrebbero prestato il loro aiuto a suo favore di quanto avrebbero potuto fare tutti gli argomenti legali o la forza dell’eloquenza, espressi attraverso dichiarazioni e altri scritti. Mi chiedo quindi di che tipo fossero quelle persone che impedirono al Re di prendere questa decisione.
+
+A.
+
+Si può dedurre dalle stesse dichiarazioni, molto lunghe e piene di citazioni di documenti e casi precedentemente riportati, che gli autori di tali testi erano o avvocati di professione, o gentiluomini che ambivano essere considerati tali. Inoltre, vi ho già detto che coloro i quali all’epoca avevano maggiori probabilità di essere consultati in queste questioni erano contrari alla monarchia assoluta, così come alla democrazia o all’aristocrazia assolute; consideravano tutte queste forme di governo tirannia e preferivano la monarchia, che lodavano con il nome di “monarchia mista”, anche se in realtà non era altro che pura anarchia. Gli uomini i cui scritti venivano più spesso utilizzati dal Re in queste controversie legali e politiche erano, se non mi sbaglio, membri di questo Parlamento; avevano sempre denunciato con forza la tassa sulle navi e altre imposte extra-parlamentari, tanto quanto chiunque altro; ma quando videro che le richieste del Parlamento diventavano più estreme del previsto, passarono dalla parte del Re.
+
+B.
+
+Chi erano quelle persone?
+
+A.
+
+Non è necessario nominare alcun individuo, poiché ho inteso soltanto fornire una breve descrizione delle follie e degli altri difetti umani durante questa difficoltà; tuttavia, nominando le persone in questione, non vorrei certo darvi, né a nessun altro, l’occasione di considerarle meno meritevoli di stima, ora che tutti questi errori sono stati perdonati.
+
+B.
+
+Quando la situazione giunse a questo punto, con l’invio di truppe e il sequestro della marina, delle armi e di altre risorse da entrambe le parti, non c’era nessuno così cieco da non rendersi conto che si trovavano in uno stato di guerra reciproca; allora perché il Re, con un proclama o un messaggio, secondo il suo indubbiato diritto, non sciolse il Parlamento, riducendo così in parte l’autorità delle loro misure coercitive e di altre loro ingiuste ordinanze?
+
+A.
+
+Avete dimenticato che vi ho detto che lo stesso Re, con un decreto approvato nello stesso momento in cui ne emanò uno per l’esecuzione del Conte di Strafford, aveva concesso loro il potere di mantenere in funzione il Parlamento fino a quando entrambe le Camere non avessero deciso di sciogliersi di comune accordo. Pertanto, se egli avesse sciolto il Parlamento attraverso un proclama o un messaggio rivolto alle Camere, loro avrebbero aggiunto alle loro precedenti calunnie contro le azioni Sua Maestà anche l’accusa di essere un uomo che manca alla parola; e non solo avrebbero continuato a tenere le loro sessioni con totale disprezzo per Lui, ma ne avrebbero anche tratto vantaggio per rafforzare e ampliare il proprio partito.
 
 B.
 
@@ -2017,6 +3915,112 @@ Why did not the King go on from Brentford?
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Non verrebbe interpretato come un intento di scioglierli con la forza il fatto che il Re radunasse un esercito contro di loro? E non rappresentava forse una violazione altrettanto grave delle promesse fatte il fatto di disperderli con la forza, quanto farlo tramite un decreto ufficiale? Inoltre, non riesco a immaginare che tale atto fosse inteso in modo diverso da quello condizionale: cioè che essi non dovessero emanare alcuna norma contraria al diritto sovrano del Re; una condizione che, già con molte delle loro ordinanze, avevano violato. Credo anche che, secondo la legge dell’equità – che è la legge immutabile della natura – un uomo che detiene il potere sovrano non possa, nemmeno volendo, rinunciare al diritto a ciò che è necessario per governare correttamente i suoi sudditi, a meno di farlo esplicitamente, dichiarando di voler perdere tale potere. Infatti, rinunciare a ciò che, di conseguenza, comporta anche la perdita del [sovrano potere](/positions/sovereignty), non costituisce, a mio parere, una vera rinuncia; ma un errore che porta soltanto all’invalidità della stessa decisione. Ed è stato proprio questo l’intento del Re con la promulgazione di tale legge: far proseguire il Parlamento finché entrambe le Camere lo avessero desiderato. Ma ora che da entrambe le parti era stata decisa la guerra, quale bisogno c’era ancora di ulteriori dispute scritte?
+
+A.
+
+Non so quale fosse la loro vera necessità. Ma da entrambe le parti si ritenne necessario ostacolarsi a vicenda, nel limite del possibile, nell’arruolamento di soldati; per questo motivo, il Re pubblicò dichiarazioni stampate per far sapere al popolo che non doveva obbedire agli ufficiali della nuova milizia istituita con decreto parlamentare, e allo stesso tempo per dimostrare la legalità delle proprie autorizzazioni all’arruolamento. Anche il Parlamento fece lo stesso, al fine di giustificare tale decreto agli occhi del popolo e far apparire le autorizzazioni all’arruolamento illegali.
+
+B.
+
+Quando il Parlamento chiamava alle armi i soldati, non era forse legittimo che il Re li radunasse per difendersi e proteggere i propri diritti, anche se l’unico scopo dichiarato era la propria salvezza personale, e il termine “commissione di arruolamento” non era mai stato utilizzato prima d’allora?
+
+A.
+
+Per quanto mi riguarda, penso che non esista un titolo migliore per la guerra di quello di “difesa dei diritti di un uomo”. Tuttavia, in quel periodo, la gente riteneva che nulla ci fosse di legittimo che il Re potesse fare se non ci fossero stati statuti emanati dal Parlamento. Gli avvocati, intendo i giudici delle corti di Westminster e alcuni altri esperti, pur essendo soltanto difensori legali, godevano di grande reputazione per la loro competenza nelle leggi comuni e negli statuti d’Inghilterra. Essi avevano influenzato la maggior parte dell’aristocrazia inglese con le loro opinioni preconcette e i casi giudiziari che consideravano “precedenti”; questo li aveva portati a credere di possedere una grande conoscenza del diritto, tanto da essere molto felici di questa opportunità per dimostrarla contro il Re, guadagnandosi così la stima del Parlamento come buoni patrioti e saggi statisti.
+
+B.
+
+Che cos’era questa cerimonia di schieramento?
+
+A.
+
+Re Guglielmo il Conquistatore, grazie alle sue vittorie, ottenne in suo possesso tutta l’Inghilterra; di essa destinò una parte a foreste e riserve naturali per il proprio divertimento, mentre un’altra parte la concesse a nobili e cavalieri che lo avevano aiutato o avrebbero continuato ad aiutarlo nelle guerre. Impose loro l’obbligo di prestare servizio militare durante le sue campagne: alcuni dovevano fornire un numero maggiore di uomini, altri minore, in base alle terre che gli erano state concesse. Quando il Re inviava ordini a questi nobili, essi erano obbligati ad presentarsi armati e ad accompagnarlo nelle guerre per un determinato periodo di tempo, a proprie spese. Fu attraverso tali ordini che il Re riuscì a reclutare le truppe necessarie.
+
+B.
+
+Allora, perché non era legale?
+
+A.
+
+Senza dubbio, era legale. Ma che significato aveva tutto ciò per degli uomini che erano già decisi a riconoscere come legge soltanto ciò che fosse conforme ai loro propositi di abolire la monarchia e di conferire un potere sovrano e assoluto alla Camera dei Comuni?
+
+B.
+
+Distruggere la monarchia e istituire la Camera dei Comuni sono due azioni distinte.
+
+A.
+
+Lo trovarono infine così, ma all’epoca non lo pensavano affatto.
+
+B.
+
+Ora passiamo alla parte militare.
+
+A.
+
+Intendevo raccontare soltanto la storia della loro ingiustizia, impudenza e ipocrisia; pertanto, per quanto riguarda lo svolgimento della guerra, vi rimando alla storia completa scritta in inglese. Utilizzerò soltanto quegli elementi necessari a descrivere tutta quella malvagità e follia che riscontrerò nelle loro varie azioni.
+
+Dalla York il Re si recò a Hull, dove si trovava il suo magazzino di armi destinate alle regioni settentrionali d’Inghilterra, per verificare se gli avrebbero permesso l’ingresso. Il Parlamento aveva nominato Sir John Hotham governatore della città; questi fece chiudere le porte e, presentandosi sulle mura, rifiutò categoricamente di lasciarlo entrare. Per questo motivo il Re lo proclamò traditore e inviò un messaggio al Parlamento per chiedere se condividesse tale azione.
+
+B.
+
+Su quali basi?
+
+A.
+
+La loro pretesa era questa: che né questa città né alcun’altra in Inghilterra appartenessero al Re in modo diverso da quello di essere affidate al popolo inglese.
+
+B.
+
+Ma che significato aveva tutto ciò per il Parlamento?
+
+A.
+
+Sì, dicono loro; perché noi siamo i rappresentanti del popolo d’Inghilterra.
+
+B.
+
+Non riesco a comprendere la forza di questo argomento: noi rappresentiamo il popolo, quindi tutto ciò che appartiene al popolo è nostro. Il sindaco di Hull rappresentava effettivamente il Re; ne consegue forse che tutto ciò che il Re possedeva a Hull appartenesse al sindaco? I cittadini d’Inghilterra possono essere rappresentati, certo, con alcune limitazioni, per presentare petizioni o simili. Ma questo significa forse che coloro che presentano tali petizioni abbiano diritto su tutte le città d’Inghilterra? Quando questo Parlamento ha iniziato a rappresentare davvero l’Inghilterra? Non è stato il 3 novembre 1640? E chi, il giorno prima, cioè il 2 novembre, aveva il diritto di impedire al Re di entrare a Hull e di possederla per sé? A quel tempo, infatti, non esisteva alcun Parlamento. Allora, a chi apparteneva Hull?
+
+A.
+
+Penso che appartenesse al Re, non solo perché veniva chiamata “città del Re” vicino a Hull, ma anche perché il Re stesso rappresentava allora e sempre la persona stessa del popolo inglese. Se non lui, allora chi altro? Il Parlamento, dopotutto, non esisteva nemmeno.
+
+B.
+
+Forse si potrebbe dire che all’epoca le persone non avevano alcun rappresentante.
+
+A.
+
+Allora non esisteva alcuna [comunità](/concepts/commonwealth); e di conseguenza, poiché tutte le città d’Inghilterra appartenevano al popolo, tu, io e qualsiasi altro avremmo potuto richiedere la nostra parte. Da questo si può capire quanto fossero deboli quelle persone che furono spinte alla ribellione da ragionamenti del genere utilizzati dal Parlamento, e quanto fossero audaci coloro che li adottarono.
+
+B.
+
+Senza dubbio, erano considerati tra gli uomini più saggi d’Inghilterra; per questo motivo furono scelti per far parte del Parlamento.
+
+A.
+
+E se anche fossero stati considerati gli uomini più saggi d’Inghilterra, sarebbero stati loro ad essere scelti?
+
+B.
+
+Non posso dirlo con certezza. So infatti che è abitudine dei proprietari terrieri delle contee, nonché dei commercianti delle città e dei borghi, scegliere, per quanto possibile, coloro che sono più contrari all’idea di concedere sovvenzioni.
+
+A.
+
+All’inizio di agosto, dopo aver convocato Hull e aver verificato quale fosse la disponibilità delle contee circostanti ad aiutarlo, il Re stabilì il suo quartier generale a Nottingham; tuttavia non si radunarono abbastanza uomini per formare un esercito sufficiente a combattere contro l’Earl di Essex. Da lì si recò a Shrewsbury, dove ricevette rapidamente i rinforzi necessari; nominando l’Earl di Lindsey come generale in capo, decise di marciare verso Londra. L’Earl di Essex, intanto, si trovava a Worcester con l’esercito del Parlamento e non tentò in alcun modo di ostacolare il suo avanzamento; ma non appena egli se ne andò, lo seguì immediatamente nella sua marcia.
+
+Pertanto, per evitare di trovarsi stretto tra l’esercito dell’Earl di Essex e la città di Londra, il Re si rivolse contro di lui e lo affrontò a Edgehill: dove, sebbene non ottenne una vittoria decisiva, ebbe comunque la meglio, qualora uno dei due avesse davvero vinto; in ogni caso, riuscì ad ottenere l’effetto desiderato, ovvero poter proseguire lungo la strada prevista verso Londra. Il giorno seguente prese il castello di Banbury, poi si recò a Oxford e da lì a Brentford, dove inflisse una grave sconfitta a tre reggimenti delle forze del Parlamento; dopodiché tornò ad Oxford.
+
+B.
+
+Perché il Re non proseguì da Brentford?
+
+A.
+
 <span class="atom-split" data-atom="033" data-title="PART III. (parte 4)" data-chapter="PART III." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 The Parliament, upon the first notice of the King’s marching from Shrewsbury, caused all the trained-bands and the auxiliaries of the city of London (which was so frightened as to shut up all their shops) to be drawn forth; so that there was a most complete and numerous army ready for the Earl of Essex, that was crept into London just at the time to head it. And this was it that made the King retire to Oxford. In the beginning of February after, Prince Rupert took Cirencester from the Parliament, with many prisoners and many arms: for it was newly made a magazine. And thus stood the business between the King’s and the Parliament’s greatest forces. The Parliament in the meantime caused a line of communication to be made about London and the suburbs, of twelve miles in compass; and constituted a committee for the association, and the putting into a posture of defence, of the counties of Essex, Cambridge, Suffolk, and some others; and one of these commissioners was Oliver Cromwell, from which employment he came to his following greatness.
@@ -2074,6 +4078,66 @@ But this good fortune was not a little allayed by his besieging of Gloucester, w
 B.
 
 It seems not only by this, but also by many examples in history, that there can hardly arise a long or dangerous rebellion, that has not some such overgrown city with an army or two in its belly to foment it.
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non appena il Parlamento venne a conoscenza della partenza del Re da Shrewsbury, fece mobilitare tutte le bande militari e le truppe ausiliarie della città di Londra (che, spaventate a morte, chiusero tutti i loro negozi); così si formò un esercito estremamente numeroso e ben organizzato, pronto ad affrontare l’Earl of Essex, il quale era appena arrivato a Londra per guidarlo. Fu proprio questo ad indurre il Re a ritirarsi a Oxford. All’inizio di febbraio successivo, il Principe Rupert riuscì a prendere Cirencester dalle mani del Parlamento, portando con sé molti prigionieri e armi; infatti quella città era stata appena trasformata in un deposito militare. A quel punto, le forze del Re e quelle del Parlamento si trovavano in uno stato di equilibrio precario. Nel frattempo, il Parlamento fece costruire una linea di comunicazione che si estendeva per dodici miglia attorno a Londra e nei suoi dintorni; inoltre istituì un comitato incaricato di coordinare le misure di difesa dei contadi di Essex, Cambridge, Suffolk e di altri territori. Uno dei membri di questo comitato era Oliver Cromwell, che grazie a questa esperienza raggiunse in seguito la sua grande fama.
+
+B.
+
+Cosa venne fatto in altre parti del paese durante questo periodo?
+
+A.
+
+Nel nord, per quanto riguarda l’organizzazione della milizia, il compito spettava a mio Lord di Newcastle; per quanto riguarda le forze militari del Parlamento, tale incarico era affidato a mio Lord Fairfax. Mio Lord di Newcastle strappò a quelle del Parlamento la città di Tadcaster, nella quale si trovava gran parte delle truppe del Parlamento in quella regione, e in questo modo divenne di fatto il padrone dell’intero nord. Intorno a questo periodo, cioè nel mese di febbraio, la Regina sbarcò a Burlington e fu accompagnata da mio Lord di Newcastle e dal Marchese di Montrose fino a York; poco dopo fu presentata al Re. Oltre a questi successi, il partito del Re ottenne altre piccole vittorie sulle forze del Parlamento nel nord.
+
+Si verificarono anche grandi scontri tra le milizie del Parlamento e quelle della Commissione di Arruolamento nel Staffordshire: da un lato c’era mio Lord Brook per il Parlamento, dall’altro mio Lord di Northampton per il Re. In questi conflitti entrambi i comandanti persero la vita. Mio Lord Brook, assediando Litchfield-Close, fu ucciso da un colpo d’arma da fuoco; nonostante ciò, le milizie del Parlamento non interruppero l’assedio fino a quando non presero il controllo della città. Poco dopo, mio Lord di Northampton riprese l’assedio per conto del Re; per soccorrere le truppe assediate, Sir William Brereton e Sir John Gell avanzarono verso Litchfield, ma furono sconfitti da mio Lord di Northampton presso Hopton Heath. Lo stesso conte fu ucciso in battaglia; tuttavia le sue truppe, dopo aver vinto la battaglia, ripresero l’assedio della città. Poco dopo, con il sostegno del principe Rupert che si trovava in quella regione, riuscirono a conquistare Litchfield-Close. Questi furono i principali avvenimenti di quell’anno, il 1642: la fazione del Re non uscì certo sconfitta da questi scontri.
+
+B.
+
+Ma il Parlamento disponeva ora di un esercito più potente; tanto che, se il Conte di Essex avesse immediatamente seguito il Re a Oxford, ancora non ben fortificata, avrebbe molto probabilmente riuscito a prenderla. Poiché non gli sarebbero mancati né uomini né munizioni: la città di Londra, infatti, interamente fedele al Parlamento, ne disponeva in abbondanza.
+
+A.
+
+Non posso giudicarne. Ma è evidente che, considerando la situazione in cui si trovava il Re al suo primo ritiro da York – quando non aveva né denaro né uomini né armi sufficienti per dare loro speranze di vittoria – quest’anno, nel complesso, è stato molto prospero.
+
+B.
+
+Ma quale grande follia o malvagità si può osservare nelle azioni del Parlamento nel suo primo anno di attività?
+
+A.
+
+Tutto ciò che si può dire contro di loro su questo punto verrà giustificato con il pretesto della guerra e sarà considerato un atto di ribellione; a patto che, quando chiamavano alle armi una città, lo facessero sempre in nome del Re e del Parlamento, mentre il Re si trovava nell’esercito avversario e molte volte li sconfiggeva durante le assedi. Non riesco a capire come il diritto alla guerra possa giustificare una tale audacia. Tuttavia, essi fingevano che il Re fosse sempre, di fatto, presente nelle due Camere del Parlamento, facendo distinzione tra la sua persona naturale e quella politica; il che rendeva questa presunzione ancora più oltraggiosa, oltre ad essere assolutamente sciocca. In realtà si trattava soltanto di una sofisticazione retorica, del genere di quelle utilizzate dai ragazzi nelle scuole per difendere tesi che altrimenti non potrebbero sostenere.
+
+Alla fine di quest’anno chiesero anche agli scozzesi di entrare in Inghilterra con un esercito per sopprimere il potere dell’Earl di Newcastle nel Nord; ciò costituiva una palese ammissione che, a quel tempo, le forze del Parlamento fossero inferiori a quelle del Re. La maggior parte delle persone riteneva che, se l’Earl di Newcastle avesse marciato verso sud e unito le sue truppe a quelle del Re, la maggior parte dei membri del Parlamento sarebbe fuggita dall’Inghilterra.
+
+All’inizio del 1643, il Parlamento, vedendo crescere enormemente il potere dell’Earl di Newcastle nel Nord, inviò degli emissari agli scozzesi per convincerli ad intraprendere un’invasione dell’Inghilterra; al contempo, stipulò con loro un [patto](/concepts/covenant), simile a quello che gli scozzesi avevano precedentemente firmato contro il sistema episcopale. In base a questo patto, vennero distrutte croci e vetrate di chiese in tutta l’Inghilterra, quelle contenenti immagini di santi. A metà anno fu poi siglata un’alleanza solenne con la nazione, denominata “Lega Solenne e Patto”.
+
+B.
+
+Non sono forse gli scozzesi altrettanto degni di essere chiamati stranieri quanto gli irlandesi? Se dunque perseguitarono il Conte di Strafford fino alla morte soltanto perché consigliò al Re di utilizzare le forze irlandesi contro il Parlamento, con quale diritto potrebbero ora chiamare un esercito scozzese contro il Re stesso?
+
+A.
+
+Il partito del Re avrebbe potuto facilmente intuire i loro piani: impossessarsi completamente del regno e deporre il Re. Un’altra grande audacia, o meglio, una vera e propria barbarie da parte loro, fu quella di dichiarare la Regina traditrice soltanto perché aveva aiutato il Re fornendogli munizioni e truppe inglesi provenienti dall’Olanda.
+
+B.
+
+Era possibile che tutto ciò potesse essere realizzato senza che le persone si rendessero conto che documenti e dichiarazioni fossero del tutto inutili; e che nulla potesse soddisfarle se non la deposizione del Re e il loro insediamento al suo posto?
+
+A.
+
+Sì; molto probabile. Chi di loro, infatti, pur conoscendo che il Re deteneva il potere sovrano, comprendeva davvero i diritti essenziali della [sovranità](/positions/sovereignty)? Sognavano un potere condiviso tra il Re e le due Camere; non riuscivano però a capire che un tale sistema fosse destinato alla discordia. Per questo incoraggiavano sempre il Re a emettere dichiarazioni e trattati, temendo di dovergli obbedire in modo assoluto; ciò aumentava invece la speranza e il coraggio dei ribelli, ma non giovava affatto al Re. Il popolo, infatti, o non comprendeva queste questioni, oppure preferiva non impegnarsi in discussioni scritte; piuttosto, osservando l’atteggiamento del Re e i suoi messaggi, giungeva alla conclusione che il Parlamento avrebbe probabilmente ottenuto la vittoria nella guerra. Inoltre, vedendo che gli autori di questi documenti erano in passato membri del Parlamento ma ora ne erano ribelli perché non sopportavano più l’influenza che speravano di esercitare all’interno della Camera, la gente era portata a pensare che non credessero davvero in ciò che scrivevano.
+
+Per quanto riguarda le azioni militari (che iniziarono presso i quartier generali), il principe Rupert conquistò Birmingham, una guarnigione del Parlamento. Nel luglio successivo, le forze reali ottennero una grande vittoria sulle truppe parlamentari vicino a Devizes, su Roundway-Down: catturarono 2.000 prigionieri, quattro pezzi d’artiglieria in bronzo, ventotto stendardi militari e tutto il loro bagaglio. Poco dopo, Bristol fu consegnata al principe Rupert a favore del Re; il Re stesso, marciando verso ovest, conquistò molte altre importanti località controllate dal Parlamento.
+
+Ma questa buona fortuna fu in parte offuscata dal suo assedio di Gloucester: la città, dopo essere stata ridotta alla disperazione, fu infine liberata dall’Earl di Essex; il cui esercito, precedentemente notevolmente indebolito, venne ora improvvisamente rafforzato con le truppe addestrate e gli apprendisti di Londra.
+
+B.
+
+Sembra che, non solo per questo motivo, ma anche grazie a molti esempi nella storia, sia quasi impossibile che si verifichi una ribellione di lunga durata o pericolosa senza che vi sia una città potente, dotata di uno o due eserciti, che la alimenti e la sostenga.
 
 A.
 
@@ -2135,6 +4199,64 @@ It was so; but amends was made him for it within five or six weeks after. For Si
 
 In October following was fought a second and sharp battle at Newbury. For this infantry, making no conscience of the conditions made with the King, being now come towards London as far as Basingstoke, had arms put again into their hands; to whom some of the trained-bands being added, the Earl of Essex had suddenly so great an army, that he attempted the King again at Newbury; and certainly had the better of the day, but the night parting them, had not a complete victory. And it was observed here, that no part of the Earl’s army fought so keenly as they who had laid down their arms in Cornwall.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ancora di più: quelle grandi città capitali, quando la ribellione scoppia in nome di lamentele, devono necessariamente appartenere al partito dei ribelli; poiché quelle lamentele non sono altro che tasse, e i cittadini, cioè i mercanti il cui scopo è il proprio guadagno personale, ne sono naturalmente nemici acerrimi; la loro unica “gloria” consiste nel diventare estremamente ricchi grazie alla saggezza delle transazioni commerciali.
+
+B.
+
+Si dice che siano, tra tutte le professioni, quelle più utili per la [comunità](/concepts/commonwealth), poiché permettono alle persone più povere di trovare lavoro.
+
+A.
+
+In altre parole, facendo sì che i poveri vendano il loro [lavoro](/concepts/labour) a loro stessi ai loro prezzi; in questo modo, nella maggior parte dei casi, i poveri potrebbero ottenere una vita migliore lavorando in Bridewell, piuttosto che filando, tessendo o svolgendo altri tipi di lavoro che sono in grado di fare; tuttavia, facendo un po’ di lavoro, potrebbero aiutarsi da soli, il che rappresenta una vergogna per la nostra industria. E poiché spesso sono i primi a incoraggiare la ribellione, credendosi forti; allo stesso modo, nella maggior parte dei casi, sono anche i primi a pentirsi, ingannati da coloro che sfruttano la loro forza.
+
+Ma tornando alla guerra: sebbene il Re si fosse ritirato da Gloucester, non era per fuggire, ma per combattere contro l’Earl di Essex, cosa che avvenne poco dopo a Newbury. La battaglia fu cruenta e il Re non uscì sconfitto, a meno di considerare la situazione di Cirencester, città che l’Earl di Essex aveva conquistato di sorpresa pochi giorni prima.
+
+Ma nel nord e nell’ovest, il Re aveva una posizione molto più vantaggiosa rispetto al Parlamento. Infatti, nel nord, all’inizio dell’anno, il 29 marzo, gli Conti di Newcastle e Cumberland sconfissero Lord Fairfax, che comandava le truppe del Parlamento in quelle regioni, a Bramham Moor; questo fatto spinse il Parlamento ad accelerare l’invio di aiuti dagli scozzesi.
+
+Nel giugno seguente, il Conte di Newcastle sconfisse Sir Thomas Fairfax, figlio di Lord Fairfax, ad Adderton Heath e, inseguendoli fino a Bradford, catturò e uccise 2.000 uomini; il giorno successivo prese la città e ne fece altri 2.000 prigionieri (Sir Thomas stesso riuscì a fuggire per un soffio), insieme a tutte le loro armi e munizioni. Inoltre, costrinse Lord Fairfax ad abbandonare Halifax e Beverley. Infine, il Principe Rupert liberò Newark, assediata da Sir John Meldrun allestito dal Parlamento con 7.000 uomini; di questi, 1.000 furono uccisi; gli altri, dopo aver accettato determinate condizioni, se ne andarono lasciando indietro le loro armi e i loro bagagli.
+
+Per bilanciare in parte questo successo, il Conte di Manchester, il cui luogotenente generale era Oliver Cromwell, ottenne una vittoria sui realisti vicino a Horncastle: uccise 400 nemici, catturò 800 prigionieri e sequestrò 1.000 armi; poco dopo prese e saccheggiò la città di Lincoln.
+
+In Occidente, il 16 maggio, Sir Ralph Hopton a Stratton, in Cornovaglia, ottenne una vittoria sui Parlamentari: catturò 1700 prigionieri, tredici pezzi d’artiglieria in bronzo e tutta la loro munizione – settanta barili di polvere da sparo – oltre alle scorte di provviste presenti nella città.
+
+Ancora a Lansdown, tra Sir Ralph Hopton e i parlamentari guidati da Sir William Waller, si combatté una feroce battaglia la cui vittoria non fu chiaramente assegnata a nessuna delle due parti; tuttavia sembrava che i parlamentari avessero il vantaggio, poiché poco dopo Sir William Waller seguì Sir Ralph Hopton fino a Devizes, nel Wiltshire, anche se a suo scapito: lì fu sconfitto, come vi ho già detto.
+
+In seguito, il Re in persona marciò verso ovest e conquistò Exeter, Dorchester, Barnstable e diverse altre località; se al suo ritorno non avesse assediato Gloucester, dando così al Parlamento il tempo di reclutare nuove truppe, molti ritenevano che avrebbe potuto sconfiggere la Camera dei Comuni. Tuttavia, la fine di quell’anno fu più favorevole al Parlamento: nel gennaio gli scozzesi entrarono in Inghilterra e il 1° marzo attraversarono il Tyne; mentre l’Earl di Newcastle si dirigeva verso di loro, Sir Thomas Fairfax radunò un considerevole esercito nel Yorkshire, e l’Earl di Manchester avanzò verso York. Così, l’Earl di Newcastle, trovandosi con due eserciti ribelli alle spalle e un altro davanti a sé, fu costretto a ritirarsi a York; questi tre eserciti si unirono poi per assediare la città. Questi sono tutti gli eventi militari più importanti dell’anno 1643.
+
+Nello stesso anno il Parlamento fece realizzare un nuovo Sigillo Reale. Il custode del sigillo aveva portato quello precedente a Oxford; di conseguenza, il Re inviò un messaggero ai giudici di Westminster per impedire loro di utilizzarlo. Questo messaggero fu catturato, condannato in un consiglio di guerra e impiccato come spia.
+
+B.
+
+È questa la legge della guerra?
+
+A.
+
+Non lo so con certezza; tuttavia sembra che quando un soldato si reca nelle zone nemiche senza alcuna comunicazione o avviso rivolto al comandante in capo, si presuma che venga lì come spia. Nello stesso anno, alcuni gentiluomini di Londra ricevettero dall’Re l’incarico di reclutare uomini per il suo esercito nella città; una volta scoperto questo fatto, furono condannati e alcuni di loro giustiziati. Questo caso non è molto diverso dal precedente.
+
+B.
+
+Non costituiva forse la creazione di un nuovo Grande Sigillo una prova sufficiente del fatto che la guerra fosse stata dichiarata non per allontanare i consiglieri malvagi dal Re, ma per allontanare il Re stesso dal governo? Quale speranza, dunque, poteva esserci nelle comunicazioni e nei trattati?
+
+A.
+
+L’arrivo degli scozzesi fu qualcosa di inaspettato per il Re, il quale, a causa delle continue lettere inviategli dal suo commissario in Scozia, il Duca di Hamilton, era stato indotto a credere che gli scozzesi non avessero mai intenzione di invadere. Poiché il Duca si trovava all’epoca a Oxford, il Re, convinto che gli scozzesi fossero già entrati nel paese, lo fece imprigionare nel castello di Pendennis, in Cornovaglia.
+
+All’inizio dell’anno 1644, l’Earl di Newcastle, come vi ho detto, era assediato dalle forze congiunte degli scozzesi, dell’Earl di Manchester e di Sir Thomas Fairfax. Il Re inviò quindi il Principe Rupert per liberare la città e, non appena possibile, sfidare l’avversario in battaglia. Il Principe Rupert attraversò il Lancashire, assediò la ribelle città di Bolton, prese poi Stockford e Liverpool, e arrivò a York il 1° luglio, riuscendo a liberarla. L’avversario si era ritirato in un luogo chiamato Marston Moor, situato a circa quattro miglia di distanza; lì ebbe luogo quella sfortunata battaglia che causò la perdita del nord per il Re. Il Principe Rupert tornò per la stessa strada percorsa all’andata, mentre l’Earl di Newcastle ritornò a York e da lì, insieme ad alcuni dei suoi ufficiali, attraversò il mare per recarsi a Amburgo.
+
+Onore di questa vittoria fu attribuito principalmente a Oliver Cromwell, luogotenente generale dell’Earl di Manchester. I parlamentari tornarono sul campo per continuare l’assedio di York, che poco dopo, su condizioni onorevoli, venne reso; non perché fossero stati favoriti, ma perché il Parlamento non impiegava molto tempo né molte risorse negli assedi.
+
+B.
+
+Si trattava di un improvviso e grave declino della prosperità del Re.
+
+A.
+
+Era proprio così; tuttavia, entro cinque o sei settimane furono apportati dei rimedi a questa situazione. Infatti, dopo la sconfitta dell’esercito di Sir William Waller a Roundway-Down, la città di Londra ne radunò un altro per lui; per finanziarlo, impose su ogni cittadino una tassa settimanale pari al valore di un pasto di carne. Questo esercito, insieme a quello dell’Earl of Essex, intendeva assediare Oxford; ma il Re, venuto a conoscenza dei loro piani, inviò la Regina verso ovest e marciò personalmente verso Worcester. A causa di ciò, le forze nemiche si divisero nuovamente: l’Earl di Essex si diresse verso ovest, mentre Waller inseguì il Re. Di conseguenza, entrambi gli eserciti furono sconfitti. Il Re attaccò Waller a Cropredy-bridge, lo sconfisse, catturò la sua artiglieria e molti ufficiali; poco dopo seguì l’Earl of Essex in Cornovaglia, dove lo mise in una situazione così svantaggiosa che quest’ultimo fu costretto a fuggire su una piccola barca verso Plymouth. Il suo cavallo riuscì a sfondare le linee nemiche di notte, ma l’esercito di fanteria fu costretto ad arrendersi e, a condizione di non combattere mai più contro il Re, gli fu permesso di andarsene.
+
+Nel mese di ottobre seguente si combatté una seconda e accanita battaglia a Newbury. Questo esercito di fanteria, che non teneva affatto conto degli accordi stipulati con il Re e che ormai si era avvicinato a Londra fino a Basingstoke, ricevette nuovamente armi; in aggiunta ad alcuni reparti ben addestrati, l’Earl di Essex riuscì improvvisamente a radunare un esercito così potente da attaccare nuovamente il Re a Newbury. Certamente ottenne la vittoria durante la giornata, ma la notte li separò, impedendogli di conquistare una vittoria decisiva. Si osservò inoltre che nessuna parte dell’esercito dell’Earl combatté con tanta determinazione quanto coloro che avevano deposto le armi in Cornovaglia.
+
 <span class="atom-split" data-atom="035" data-title="PART III. (parte 6)" data-chapter="PART III." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 These were the most important fights in the year 1644, and the King was yet, as both himself and others thought, in as good condition as the Parliament, which despaired of victory by the commanders they then used. Therefore they voted a new modelling of the army, suspecting the Earl of Essex, though I think wrongfully, to be too much a royalist, for not having done so much as they looked for in this second battle at Newbury. The Earls of Essex and Manchester, perceiving what they went about, voluntarily laid down their commissions; and the House of Commons made an ordinance, that no member of either House should enjoy any office or command, military or civil; with which oblique blow they shook off those that had hitherto served them too well. And yet out of this ordinance they excepted Oliver Cromwell, in whose conduct and valour they had very great confidence (which they would not have done, if they had known him as well then as they did afterwards), and made him lieutenant-general to Sir Thomas Fairfax, their new-made general. In the commission to the Earl of Essex, there was a clause for the preservation of his Majesty’s person, which in this new commission was left out; though the Parliament as well as the general were as yet Presbyterian.
@@ -2188,6 +4310,62 @@ By this time the Parliament had taken in all the rest of the King’s garrisons;
 B.
 
 What was done during this time in Ireland and Scotland?
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Queste furono le battaglie più importanti dell’anno 1644; il Re, secondo quanto pensavano sia lui stesso che gli altri, si trovava nelle stesse condizioni del Parlamento, il quale, però, disperava di poter ottenere la vittoria con i comandanti che allora aveva a disposizione. Per questo motivo fu deciso di riformare l’esercito, sospettando – sebbene a torto – che il Conte di Essex fosse troppo filoroyalista, visto che non aveva compiuto quanto si aspettava da lui nella seconda battaglia di Newbury. I Conti di Essex e Manchester, comprendendo le intenzioni del Parlamento, rassegnarono volontariamente le loro cariche; inoltre, la Camera dei Comuni emanò un decreto che vietava a qualsiasi membro delle due Camere di ricoprire incarichi militari o civili. Con questo gesto indiretto, il Parlamento si liberò di coloro che fino ad allora lo avevano servito con troppa lealtà. Tuttavia, nell’atto ufficiale venne escluso Oliver Cromwell, nel cui comportamento e coraggio essi riponevano grande fiducia (cosa che non avrebbero mai fatto se lo avessero conosciuto meglio in quel momento). Fu nominato tenente generale al fianco di Sir Thomas Fairfax, il loro nuovo comandante. Nell’incarico conferito al Conte di Essex era prevista la protezione della persona del Re; tale clausola venne però omessa nella nuova ordinanza, nonostante sia il Parlamento che il generale fossero ancora fedeli alle idee presbiteriane.
+
+B.
+
+Sembra che anche i presbiteriani, per raggiungere i loro scopi, avrebbero volentieri fatto assassinare il Re.
+
+A.
+
+Per quanto mi riguarda, non ne dubito affatto. Poiché esiste un re legittimo in vita, un potere usurpato non può mai essere considerato sufficientemente sicuro.
+
+Nello stesso anno il Parlamento condannò a morte Sir John Hotham e suo figlio per aver interferito con l’Earl di Newcastle riguardo alla consegna di Hull; inoltre condannò Sir Alexander Carew per aver cercato di consegnare Plymouth, dove ricopriva la carica di governatore per conto del Parlamento; infine condannò l’Arcivescovo di Canterbury semplicemente perché cercava di compiacere gli scozzesi. L’accusa principale contro di loro era quella di voler sovvertire le leggi fondamentali del paese, ma in realtà si trattava soltanto di calunnie prive di fondamento. In quel periodo venne anche bocciato il Libro delle Preghiere Comuni e fu ordinata l’uso di un Direttorio appena redatto da un’assemblea di ministri presbiteriani. Con grandi difficoltà si riuscì poi a stipulare un trattato con il Re a Uxbridge, ma non vennero rinunciati ai precedenti requisiti del Parlamento. In quel periodo il Re teneva anche un altro Parlamento a Oxford, composto da membri insoddisfatti che avevano lasciato le Camere di Westminster; tuttavia pochi di loro avevano cambiato le proprie posizioni iniziali, quindi quel Parlamento non aveva alcun valore reale. Anzi, poiché i suoi membri si limitavano a scambiare messaggi e a negoziare trattati, vanificando così le speranze dei soldati di trarre beneficio dalla guerra, la maggior parte delle persone riteneva che il loro comportamento nuocesse più al Re che non gli fosse d’aiuto.
+
+L’anno 1645 fu molto sfortunato per il Re: a causa della perdita di una battaglia decisiva, perse tutto ciò che aveva ottenuto in precedenza e, alla fine, anche la vita. L’esercito riformato, dopo aver discusso se assediare Oxford o marciare verso ovest per soccorrere Taunton (allora assediata dal Lord Goring e difesa da Blake, che in seguito divenne famoso per le sue imprese navali), decise di intervenire a Taunton; lasciando Cromwell a osservare le mosse del Re, anche se non era abbastanza potente da impedirgliele. Approfittando di questa situazione, il Re ritirò le proprie truppe e l’artiglieria da Oxford. Ciò spinse il Parlamento a richiamare il proprio generale, Fairfax, ordinandogli di assediare Oxford. Nel frattempo, il Re riuscì a liberare Chester, che era sotto assedio da Sir William Brereton, e tornando conquistò con la forza Leicester: una città di grande importanza, ben dotata di artiglieria e provviste.
+
+A seguito di questo successo, si ritenne generalmente che il partito del Re fosse più forte. Anche il Re stesso la pensava così; e il Parlamento, in un certo senso, confermò questa opinione ordinando a Fairfax di interrompere l’assedio e di cercare di combattere contro il Re. Infatti, i successi del Re, nonché le divisioni e le tradizioni che ormai si stavano verificando tra i membri del Parlamento, li avevano spinti a affidarsi al destino; ma a Naseby l’esercito del Re fu completamente sconfitto, e non gli rimase più alcuna speranza di poter radunare nuove forze. Pertanto, dopo la battaglia, il Re si mosse da un luogo all’altro, tentando di ottenere qualche vantaggio dal Parlamento, ma senza riuscire a aumentare significativamente il proprio potere.
+
+Nel frattempo, Fairfax riconquistò prima Leicester e poi, avanzando verso ovest, sottomise l’intera regione, ad eccezione di alcune località. Con grandi difficoltà, riuscì a convincere Lord Hopton ad sciogliere il suo esercito, sotto condizioni onorevoli; inoltre, insieme al Principe di Galles, questi si recò alle Isole Scilly, per poi dirigersi poco dopo verso Parigi.
+
+Nell’aprile del 1646 il generale Fairfax iniziò a marciare verso Oxford. Nel frattempo, Rainsborough, che aveva assediato Woodstock, ne ottenne la resa. Il Re, che intanto era tornato anch’egli a Oxford – da cui Woodstock distava soltanto sei miglia –, non dubitando affatto che sarebbe stato a sua volta assediato da Fairfax e non avendo alcuna armata per soccorrerlo, decise di fuggire travestito e unirsi all’esercito scozzese vicino a Newark. Raggiunse tale luogo il 4 maggio; l’esercito scozzese, che si stava dirigendo verso casa, lo portò con sé fino a Newcastle, dove arrivò il 13 maggio.
+
+B.
+
+Perché il Re si affidò proprio agli scozzesi? Furono i primi a ribellarsi; erano presbiteriani, quindi crudeli; inoltre, erano poveri e quindi si poteva sospettare che lo vendessero ai suoi nemici in cambio di [denaro](/concepts/money). Infine, erano troppo deboli per difenderlo o tenerlo nel loro paese.
+
+A.
+
+Cosa avrebbe potuto fare di meglio? Infatti, nell’inverno precedente aveva inviato un messaggio al Parlamento per ottenere il permesso di recarsi dal Duca di Richmond e dagli altri con proposte di pace; ma la richiesta era stata rifiutata. Aveva inviato nuovamente un messaggio, e ancora una volta era stato respinto. Allora aveva chiesto di poter incontrarli di persona, ma anche questa richiesta era stata negata. Aveva continuato a inviare messaggi con lo stesso scopo, ma invece di concederglielo, il Parlamento aveva emesso un decreto che stabiliva che i comandanti della milizia di Londra, qualora il Re tentasse di entrare nella zona controllata dal Parlamento, avrebbero potuto utilizzare qualsiasi forza ritenessero necessaria per reprimere eventuali disordini, arrestare coloro che lo accompagnavano e impedire che il Re venisse messo in pericolo. Se il Re avesse osato presentarsi e fosse stato imprigionato, cosa avrebbe potuto fare il Parlamento al suo riguardo? Lo avevano già deposto con i loro voti; quindi, anche se fosse rimasto in prigione, non avrebbero potuto garantire la sua sicurezza. Forse non lo avrebbero giustiziato pubblicamente attraverso un tribunale, ma probabilmente lo avrebbero fatto in modo segreto.
+
+B.
+
+Avrebbe dovuto provare ad attraversare il mare.
+
+A.
+
+Aveva avuto molte difficoltà ad ottenere ciò da Oxford. Inoltre, si credeva generalmente che l’esercito scozzese gli avesse promesso che non solo Sua Maestà, ma anche i suoi amici che lo avrebbero accompagnato sarebbero stati al sicuro all’interno del loro esercito; non solo per la loro incolumità personale, ma anche per il rispetto della loro onorabilità e della loro coscienza. È davvero un trucco ingannevole quando l’esercito stesso e i singoli soldati che lo compongono sono due entità diverse: far promettere ai soldati qualcosa che l’esercito non intende affatto mantenere.
+
+L’11 luglio il Parlamento inviò le proprie proposte al Re a Newcastle, sostenendo che esse fossero l’unica via per un accordo di pace stabile e fondato su solide basi. Le proposte furono portate dall’Earl di Pembroke, dall’Earl di Suffolk, da Sir Walter Earle, da Sir John Hippisley, da Mr. Goodwin e da Mr. Robinson; il Re chiese loro se avessero l’autorità per negoziare, e quando risposero di no, commentò che avrebbero potuto benissimo essere inviate anche da un trombettiere. Si trattava delle stesse proposte volte a deporre il Re, quindi egli non volle accettarle. Nemmeno gli scozzesi le accolsero immediatamente, sollevando alcune obiezioni; sembrava che volessero far capire al Parlamento inglese che non intendevano consegnare il Re gratuitamente nelle loro mani. Alla fine venne raggiunto un accordo: con il pagamento di 200.000 sterline, il Re fu affidato ai commissari inviati dal Parlamento inglese per riceverlo.
+
+B.
+
+Che volgare natura ha questo atto, composto da religione fingita, avidità smisurata, codardia, spergiuro e tradimento!
+
+A.
+
+Ora che la guerra, che sembrava giustificare molte cose indegne, è finita, non si vedrà quasi nulla di altro in questi ribelli se non bassezza e falsità, oltre alla loro follia.
+
+A quel punto, il Parlamento aveva assunto il controllo di tutte le altre guarnigioni del Re; l’ultima di queste era il Castello di Pendennis, dove il Duca di Hamilton era stato inviato prigioniero dal Re.
+
+B.
+
+Cosa accadde in Irlanda e Scozia durante questo periodo?
 
 A.
 
@@ -2255,6 +4433,70 @@ What assistance against the Parliament and the city could Cromwell expect from t
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+In Irlanda era stato stipulato un trattato di pace su ordine di Sua Maestà, ma a causa delle divisioni interne agli irlandesi tale pace non veniva rispettata. Il partito cattolico, con il nunzio pontificio presente in quel periodo, considerò questa situazione l’occasione perfetta per liberarsi dalla soggezione inglese. Inoltre, il termine del trattato di pace era ormai scaduto.
+
+B.
+
+In che modo erano soggetti agli inglesi, più di quanto gli inglesi lo fossero agli irlandesi? Erano soggetti al Re d’Inghilterra; ma allo stesso modo anche gli inglesi lo erano al Re d’Irlanda.
+
+A.
+
+Questa distinzione è piuttosto sottile per essere compresa dalla gente comune. In Scozia, il Marchese di Montrose, al servizio del Re, con pochissimi uomini e grazie a vittorie miracolose, riuscì a conquistare l’intera Scozia; tuttavia, molte delle sue truppe, per eccessiva sicurezza, si allontanarono temporaneamente dal campo di battaglia. L’avversario, venuto a conoscenza di questa situazione, le attaccò improvvisamente costringendole a ritirarsi nelle Highlands per rifornirsi di nuove truppe. Proprio in quel momento, il Re – che all’epoca si trovava sotto il controllo degli scozzesi a Newcastle – ordinò a Montrose di sciogliere le sue forze; egli quindi lasciò la Scozia via mare.
+
+Nella stessa fine dell’anno, nel 1646, il Parlamento fece rompere il Grande Sigillo Reale; inoltre, il re fu portato a Holmeby e tenuto lì dai commissari del Parlamento. Con ciò terminò quella guerra per quanto riguarda Inghilterra e Scozia, ma non per l’Irlanda. Più o meno nello stesso periodo morì anche il Conte di Essex, che il Parlamento aveva precedentemente escluso dalle proprie decisioni politiche.
+
+B.
+
+Ora che in Inghilterra regnava la pace e il Re si trovava in prigione, dove risiedeva allora il potere sovrano?
+
+A.
+
+Il potere legittimo apparteneva certamente al Re, ma in realtà nessuno lo esercitava effettivamente; esso fu oggetto di contese, come in una partita a carte, senza alcun scontro fisico, per tutti gli anni 1647 e 1648, tra il Parlamento e Oliver Cromwell, luogotenente generale di Sir Thomas Fairfax.
+
+Dovete sapere che quando Re Enrico VIII abolì l’autorità del papa in questo paese e si assunse il ruolo di capo della Chiesa, i vescovi, non potendo resistergli, non furono nemmeno insoddisfatti di questa decisione. Poiché prima il papa non permetteva ai vescovi di rivendicare la giurisdizione sui loro territori in base a un diritto divino, cioè direttamente conferito da Dio, ma soltanto grazie al dono e all’autorità del papa stesso; ora che il papa era stato escluso da tale ruolo, i vescovi non ebbero alcun dubbio sul fatto che quel diritto divino appartenesse loro. In seguito, la città di Ginevra e diversi altri luoghi all’estero, dopo essersi ribellati alla autorità papale, istituirono consigli presbiteriali per governare le proprie chiese. Molti studiosi inglesi, che lasciarono il loro paese durante le persecuzioni sotto il regno di Maria Tudor, furono molto colpiti da questo sistema di governo; al loro ritorno, durante il regno di Elisabetta I e in seguito, si adoperarono con ogni sforzo per introdurlo anche in Inghilterra, al fine di dominare e esaltare la propria intelligenza e cultura. Questi individui si attribuirono non solo un diritto divino, ma anche un’ispirazione divina; e poiché venivano tollerati e talvolta incoraggiati nelle loro prediche, introdussero molte dottrine strane e perniciose, che superavano persino quelle della Riforma luterana e calvinista. Si allontanarono inoltre dalla vera filosofia religiosa, tanto quanto Lutero e Calvino si erano allontanati dall’autorità papale; divisero così i loro ascoltatori in numerose sette, tra cui i Brownisti, gli Anabaptisti, gli Indipendenti, i sostenitori della Quinta Monarchia, i Quaker e altre ancora, tutte comunemente definite “fanatici”. Non esisteva infatti nemico più pericoloso per i presbiteriani di questa genia di persone, nate proprio all’interno delle loro stesse file.
+
+Queste erano le carte più potenti di Cromwell: ne possedeva un gran numero nell’esercito e alcune anche nella Camera dei Rappresentanti, di cui lui stesso era considerato parte; sebbene non avesse alcuna certezza riguardo a questo ruolo, si adattava sempre alla fazione più forte e ne condivideva le opinioni.
+
+Nell’esercito c’era un gran numero di persone, se non la maggior parte, il cui unico scopo era quello di compiere rapine e dividere le terre e i beni dei loro nemici; anche queste persone, considerando il coraggio e il comportamento di Cromwell, ritenevano che non ci fosse modo migliore per raggiungere i propri obiettivi se non aderendo a lui. Infine, anche all’interno del Parlamento, sebbene non la maggioranza, c’era un numero considerevole di persone fanatiche al punto da mettere in dubbio le decisioni della Camera e causarne il ritardo; talvolta, approfittando di una minoranza numerica, riuscivano a far passare voti a favore di Cromwell, come avvenne il 26 luglio. Infatti, il 4 maggio il Parlamento aveva deciso che la milizia di Londra dovesse essere affidata a un comitato di cittadini, di cui faceva parte anche il Lord Mayor all’epoca; poco dopo, gli Indipendenti, essendo in maggioranza, emanarono un decreto che assegnava la milizia a persone più favorevoli all’esercito.
+
+Le migliori carte che il Parlamento aveva erano la città di Londra e la figura del Re. Il generale Sir Thomas Fairfax era un convinto presbiteriano, ma l’esercito era sotto il controllo di Cromwell; chi avrebbe vinto dipendeva da come si sarebbe svolta la situazione. Cromwell continuava a proclamare obbedienza e fedeltà al Parlamento, ma in realtà aveva altri piani. Lui e suo genero Ireton, altrettanto abili nel pianificare e migliori nel parlare e scrivere di lui, escogitarono un modo per far insorgere l’esercito contro il Parlamento. Per questo diffusero la voce tra le truppe che il Parlamento, ora che aveva il Re in suo potere, intendesse scioglierle, derubarle dei loro salari arretrati e inviarle in Irlanda per farle distruggere dagli irlandesi. L’esercito, indignato da queste calunnie, fu indotto da Ireton a formare un consiglio composto da due soldati provenienti da ogni reggimento e compagnia; questo consiglio avrebbe dovuto agire nell’interesse dell’esercito e partecipare alle deliberazioni militari, nonché fornire suggerimenti per la pace e la sicurezza del regno. Questi consiglieri vennero chiamati “adjutatori”; quindi, qualsiasi cosa Cromwell volesse far fare all’esercito, gli bastava insinuarla segretamente in loro. Il risultato della prima riunione di questo consiglio fu il rapimento del Re da Holmeby e il suo trasferimento presso l’esercito.
+
+Il generale, quindi, con una lettera al Parlamento, si scusa lui stesso, insieme a Cromwell e all’intero esercito, sostenendo di essere stati ignari di tale fatto; afferma inoltre che il Re se ne sia andato volontariamente insieme ai soldati che lo avevano portato via, garantendo loro che l’intero esercito non aveva alcuna intenzione aggressiva, né si opponeva al Presbiterianesimo, né sosteneva l’Indipendenza, e che non praticasse alcuna forma di [libertà](/concepts/freedom) religiosa sfrenata.
+
+B.
+
+È strano che Sir Thomas Fairfax potesse essere così maltrattato da Cromwell da credere in ciò che egli stesso scrive qui.
+
+A.
+
+Non riesco a credere che Cornet Joyce abbia potuto lasciare l’esercito con mille soldati per andare a prendere il Re, e che né il generale né il tenente generale, né l’intero esercito abbiano dato peso a questa azione. Inoltre, il fatto che il Re sia partito volontariamente sembra contraddetto da un messaggio inviato appositamente da Sua Maestà al Parlamento.
+
+B.
+
+Ecco la perfidia su perfezione: prima la perfidia del Parlamento contro il Re, e poi la perfidia dell’esercito contro il Parlamento.
+
+A.
+
+Questo fu il primo trucco che Cromwell utilizzò; ritenne di aver ottenuto un vantaggio così grande da dichiarare apertamente: “Ho il Parlamento in pugno”, e infatti era proprio così, così come aveva anche la città stessa sotto il suo controllo. Infatti, alla notizia di ciò, sia il Parlamento che la città furono messi in grande disordine; inoltre, si diffuse la voce che l’esercito stesse marciando verso Londra.
+
+Nel frattempo, finché la sua residenza non fu stabilita a Hampton Court, il Re veniva trasportato da un luogo all’altro, con una certa ostentazione; tuttavia con molta più libertà e con molto maggiore rispetto da parte delle autorità di allora rispetto al periodo in cui era sotto la custodia dei commissari del Parlamento. Gli furono infatti concessi i suoi propri preti, e gli fu permesso di vedere i suoi figli e alcuni amici. Inoltre, Cromwell lo lusingò molto, promettendogli in modo serio e appassionato di restituirgli i suoi diritti contro il Parlamento.
+
+B.
+
+Come poteva essere certo di riuscirci?
+
+A.
+
+Non ne era sicuro; ma era deciso ad avanzare fino alla città e al Parlamento, per ristabilire il Re sul trono e diventare il secondo in comando, a meno che nel corso di questo tentativo non trovasse una speranza maggiore di quella che aveva finora, per potersi elevare al primo posto, spodestando il Re.
+
+B.
+
+Quale aiuto, contro il Parlamento e la città, Cromwell poteva aspettarsi dal Re?
+
+A.
+
 <span class="atom-split" data-atom="037" data-title="PART III. (parte 8)" data-chapter="PART III." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 By declaring directly for him he might have had all the King’s party, which were many more now since his misfortune than ever they were before. For in the Parliament itself, there were many that had discovered the hypocrisy and private aims of their fellows: many were converted to their duty by their own natural reason; and their [compassion](/concepts/compassion) for the King’s sufferings had begot generally an indignation against the Parliament: so that if they had been by the protection of the present army brought together and embodied, Cromwell might have done what he had pleased, in the first place for the King, and in the second for himself. But it seems he meant first to try what he could do without the King; and if that proved enough, to rid his hands of him.
@@ -2314,6 +4556,68 @@ I cannot judge of that: but to me it would have been strange if they had done ot
 B.
 
 Cromwell had power enough now to restore the King. Why did he not?
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dichiarandosi apertamente a suo favore, avrebbe potuto ottenere l’appoggio di tutta la fazione del Re, che ora era molto più numerosa rispetto al passato, a causa della sua sfortuna. Infatti, anche all’interno del Parlamento, molti avevano scoperto l’ipocrisia e gli scopi segreti dei loro colleghi; molti altri erano stati spinti dal proprio buon senso ad assumersi le proprie responsabilità; inoltre, la [compassione](/concepts/compassion) per le sofferenze del Re aveva generato un sentimento di indignazione generale nei confronti del Parlamento. Quindi, se avessero potuto unirsi e organizzarsi sotto la protezione dell’esercito attuale, Cromwell avrebbe potuto fare ciò che desiderava: prima per il bene del Re, e poi per i propri interessi personali. Tuttavia, sembra che abbia voluto prima provare a ottenere ciò che desiderava senza il supporto del Re; e, se questo fosse stato sufficiente, avrebbe eliminato ogni ostacolo rappresentato da lui.
+
+B.
+
+Cosa fecero il Parlamento e la città per opporsi all’esercito?
+
+A.
+
+Innanzitutto, il Parlamento inviò al generale l’ordine di riconsegnare il Re ai suoi commissari. Invece di una risposta, l’esercito inviò al Parlamento alcune richieste, insieme ad accuse contro undici dei suoi membri, tutti presbiteriani attivi. Tra queste richieste figuravano: 1. Che la Camera fosse purgata da coloro che, secondo le disposizioni vigenti, non avrebbero dovuto trovarsi lì; 2. Che coloro che avevano abusato del loro potere e messo in pericolo il regno venissero impediti di ripetere tali atti in futuro; 3. Che venisse fissata una data per la conclusione dei lavori di questo Parlamento; 4. Che questi membri rendessero conto al regno delle ingenti somme di denaro che avevano ricevuto; 5. Che gli undici membri in questione venissero immediatamente sospesi dalle loro funzioni in Camera. Queste richieste rappresentavano le loro principali armi per ottenere ciò che desideravano; tuttavia non risposero ad alcuna di esse, se non a quella relativa alla sospensione degli undici membri, affermando che non potevano agire legalmente prima che venissero presentate le prove concrete delle accuse. Tuttavia, questa loro posizione fu presto confutata dai loro stessi atti contro l’Arcivescovo di Canterbury e il Conte di Strafford.
+
+Il Parlamento, essendo così un po’ intimidito, e il Re, un po’ rassicurato, prese in mano la situazione della città, richiedendo al Parlamento di affidare le milizie londinesi ad altre persone.
+
+B.
+
+Quali altre mani? Non capisco bene ciò che intendi.
+
+A.
+
+Vi ho detto che il 4 maggio la milizia di Londra fu affidata al lord-mayor e ad altri cittadini, per poi essere presto trasferita in mani di altre persone più favorevoli all’esercito. Ora devo dirvi che il 26 luglio la violenza di alcuni apprendisti e soldati disoccupati costrinse il Parlamento a ripristinare l’originale sistema di gestione della milizia, affidandola nuovamente ai cittadini. Di conseguenza, i due oratori e diversi membri del Parlamento fuggirono verso l’esercito, dove furono invitati ad partecipare alle riunioni del consiglio di guerra in qualità di rappresentanti del Parlamento stesso. Tuttavia, la milizia fu nuovamente sottratta dalle mani dei cittadini e restituita a coloro da cui era stata presa il 26 luglio.
+
+B.
+
+Cosa disse la città a questo riguardo?
+
+A.
+
+I londinesi presero posizione lungo le linee di comunicazione; radunarono un esercito di uomini valorosi entro quelle stesse linee; scelsero ufficiali competenti, tutti desiderosi di partire per combattere non appena la città ne dava l’ordine; e in tale disposizione attesero l’arrivo del nemico.
+
+Nel frattempo, i soldati giurano di vivere e morire insieme a Sir Thomas Fairfax, al Parlamento e all’esercito.
+
+B.
+
+È molto appropriato. Essi imitano ciò che fece il Parlamento quando per la prima volta sollevò le armi contro il Re, autodefinendosi “Re e Parlamento” e sostenendo che il Re fosse di fatto sempre sotto il controllo del Parlamento; allo stesso modo, l’esercito, attualmente in guerra contro il Parlamento, si autodefinisce “Parlamento ed esercito”. Tuttavia, con maggiore ragionevolezza, si potrebbe affermare che il Parlamento, essendo sotto il controllo di Cromwell, fosse di fatto sotto il controllo dell’esercito.
+
+A.
+
+Inoltre, diffusero una dichiarazione in cui esponevano le ragioni della loro marcia verso Londra; in essa si autodefinivano giudici del Parlamento e stabilivano chi fosse idoneo a ricevere l’incarico di gestire gli affari del regno, attribuendo loro il nome non di “Parlamento”, ma di “gentiluomini di Westminster”. Poiché, a seguito della violenza subita il 26 luglio, l’esercito aveva rifiutato di riconoscerli come un Parlamento legittimo, inviarono anche una lettera al sindaco e ai consiglieri di Londra, rimproverandoli per i recenti disordini; li accusarono di essere nemici della pace, traditori del Parlamento e incapaci di difendere né il Parlamento stesso né se stessi; inoltre chiesero che la città venisse loro consegnata, affermando di essere giunti appunto per questo scopo. Il generale inviò anche ordini ai distretti limitrofi, chiamando i loro soldati ad unirsi a loro.
+
+B.
+
+I soldati addestrati facevano parte dell’esercito del generale?
+
+A.
+
+No, assolutamente no: né in termini di retribuzione, né sarebbe stato possibile farlo senza un ordine del Parlamento. Ma cosa non avrebbe potuto fare un esercito, una volta padrone di tutte le leggi del paese? Quando l’esercito arrivò a Hounslow Heath, situato a dieci miglia da Londra, il Consiglio degli Aldermanni fu convocato per decidere cosa fare. I capitani e i soldati della città erano pronti e ben equipaggiati per andare in battaglia contro l’esercito nemico. Tuttavia, un ufficiale traditore incaricato di difendere la zona di Southwark permise a un piccolo gruppo di nemici di entrare nella città; questi avanzarono fino alle porte del London Bridge. Di fronte a questa situazione, il Consiglio degli Aldermanni, perdendo coraggio, accettò le seguenti condizioni: rinunciare alla propria milizia; abbandonare i dodici membri del consiglio; consegnare all’esercito le fortezze, le linee di comunicazione, la Torre di Londra, nonché tutti gli arsenali e le armi presenti al suo interno; sciogliere le proprie truppe e allontanare tutti i soldati “reformati”, cioè gli ex militari dell’Essex; inoltre, ritirare le guardie dal Parlamento. Tutte queste richieste furono accettate, e l’esercito marciò trionfalmente per le principali strade della città.
+
+B.
+
+È strano che il sindaco e i consiglieri, disponendo di un esercito del genere, abbiano ceduto così rapidamente. Non avrebbero potuto resistere al nemico presso il ponte, utilizzando una loro truppa; e allo stesso modo, affrontare il resto dei nemici con le loro risorse?
+
+A.
+
+Non posso giudicare al riguardo; ma a me sarebbe sembrato strano se avessero agito diversamente. Infatti ritengo che la maggior parte delle persone ricche, che sono arrivate a quella condizione grazie all’ingegno e al commercio, consideri soltanto il proprio profitto immediato; per tutto ciò che non rientra in questo ambito, sono praticamente cieche, e l’idea stessa di appropriarsi indebitamente di qualcosa le sconvolge. Se avessero compreso quale virtù rappresenti obbedire al proprio sovrano legittimo per preservare la propria ricchezza, non si sarebbero mai schierate a favore del Parlamento; e quindi non ci sarebbe stato bisogno di armarsi. Pertanto, il sindaco e i consiglieri, essendo certi che questa sottomissione avrebbe salvaguardato i loro beni, e non essendo sicuri dello stesso risultato resistendo, hanno probabilmente scelto la strada più sagge. Anche il Parlamento non si è dimostrato meno accomodante della città: il 6 agosto, infatti, il generale portò nella Camera i parlamentari fuggitivi, accompagnati da una forte guardia di soldati, e ristabilì i parlamentari nelle loro posizioni. Per questo motivo, non solo nella Camera stessa, ma anche in un giorno successivo fu indetta una solenne cerimonia di ringraziamento; poco dopo il generale fu nominato Generalissimo di tutte le forze d’Inghilterra e Comandante della Torre di Londra. In realtà, tutto ciò servì soltanto ad avvantaggiare Cromwell: lui ne era l’effettivo beneficiario, anche se la proprietà apparteneva a Sir Thomas Fairfax. Gli Indipendenti, infatti, distrussero immediatamente tutte le comunicazioni strategiche, divisero la milizia di Londra, Westminster e Southwark, che prima erano unite, destituirono dai loro incarichi quei governatori di città e fortezze che non appartenevano al loro partito, pur essendo stati nominati con decreto del Parlamento; al loro posto misero persone fedeli alla loro fazione. Inoltre fecero dichiarare dal Parlamento che tutto ciò che era stato deciso nelle Camere tra il 26 luglio e il 6 agosto fosse nullo, e imprigionarono alcuni lord e alcuni dei cittadini più eminenti, tra cui il sindaco stesso.
+
+B.
+
+Cromwell disponeva ormai di abbastanza potere per restaurare sul trono il Re. Perché non lo fece?
 
 A.
 
@@ -2385,6 +4689,74 @@ The Parliament were certainly no less foolish than wicked, in deserting thus the
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il suo scopo principale era quello di assicurarsi il proprio posto. Il ripristino del Re non era altro che un mezzo per contrastare il Parlamento; essendo ormai in sua mano, non aveva più bisogno del Re, che ora rappresentava soltanto un ostacolo per i suoi piani. Tenere il Re nell’esercito costituiva un problema; lasciarlo cadere nelle mani dei Presbiteriani avrebbe vanificato tutte le sue speranze; assassinarlo in segreto, oltre all’orrore di tale atto, non avrebbe fatto altro che renderlo odioso senza portare a nulla i suoi intenti. Non c’era quindi niente di meglio per i suoi scopi se non farlo fuggire da Hampton Court, dove si trovava troppo vicino al Parlamento, e permettergli di recarsi all’estero, lontano da ogni pericolo. Poiché, sebbene Cromwell avesse un gran numero di sostenitori nel Parlamento finché questi non avevano compreso la sua ambizione di diventarne il padrone, sarebbero diventati suoi nemici non appena ciò fosse accaduto. Per indurre il Re a tentare la fuga, alcuni dei responsabili della sua custodia, su ordine di Cromwell, gli riferirono che gli aiutanti personali del Re avevano intenzione di assassinarlo; inoltre fecero diffondere questa voce in modo generale, affinché potesse giungere alle orecchie del Re proprio come effettivamente accadde.
+
+Pertanto, in una notte buia e piovosa, quando le sue guardie furono presumibilmente allontanate di proposito, il Re lasciò Hampton Court e si recò sulla costa vicino a Southampton, dove era stato noleggiato un velivolo per trasportarlo, ma questo non arrivò in tempo; così il Re fu costretto a affidarsi al Colonnello Hammond, all’epoca governatore dell’Isola di Wight, nella speranza che questi potesse mostrargli gentilezza, forse per merito del Dottor Hammond, fratello del colonnello e cappellano molto stimato da Sua Maestà. Tuttavia le cose andarono diversamente: il colonnello inviò i propri messaggeri al Parlamento per ricevere ordini riguardo a lui. Questa decisione di recarsi sull’Isola di Wight probabilmente non faceva parte dei piani di Cromwell, che non sapeva dove né in quale direzione il Re si sarebbe mosso; nemmeno Hammond conosceva più di quanto sapessero gli altri, se la nave fosse arrivata nel luogo stabilito tempestivamente.
+
+B.
+
+Se il Re fosse fuggito in Francia, forse i francesi lo avrebbero aiutato con truppe per riconquistare il suo regno, frustrando così i piani sia di Cromwell che di tutti gli altri nemici del Re.
+
+A.
+
+Sì, molto; proprio come aiutarono suo figlio, il nostro attuale sovrano così benevolo, che due anni prima fuggì da Cornovaglia in quella direzione.
+
+B.
+
+Non mi sembra che vi sia alcuna vera saggezza da parte dei principi vicini nel favorire così spesso i ribelli l’uno dell’altro, soprattutto quando questi si ribellano contro la monarchia stessa. Dovrebbero prima formare una lega contro la ribellione e solo in seguito, se non vi fossero altre soluzioni, combattere tra loro. Questo approccio non sarebbe certo utile tra i sovrani cristiani, finché non si prestasse maggiore attenzione alla predicazione; infatti, l’interpretazione di un versetto della Bibbia in ebraico, greco o latino è spesso causa di guerre civili, deposizioni e assassinii degli ungiti da Dio. Eppure, anche se si conversa con quanti si voglia di questi dibattitori teologici, difficilmente si troverà uno su cento abbastanza saggio da poter essere incaricato di questioni importanti, sia in campo militare che politico. Non è il diritto del sovrano – anche se riconosciuto dall’assenso esplicito di tutti – a permettergli di adempiere alle sue funzioni; è l’obbedienza dei sudditi quella che realmente lo rende efficace nel suo ruolo. A che serve promettere fedeltà per poi, poco dopo, gridare, come fecero alcuni ministri nei loro sermoni: “Tornate alle vostre tende, o Israele!”? La gente comune non comprende da sola ciò che è giusto e ciò che è sbagliato; pertanto deve essere insegnata la base dei suoi doveri e le ragioni per cui l’ disobbedienza ai sovrani legittimi porta inevitabilmente a calamità. Al contrario, i nostri ribelli venivano pubblicamente incoraggiati alla ribellione nei pulpiti; si considerava peccato soltanto ciò che i predicatori proibivano o ciò che consigliavano di evitare. Ma ora che il Re era prigioniero del Parlamento, perché i presbiteriani non hanno cercato di tutelare i propri interessi ripristinando la sua autorità?
+
+A.
+
+Il Parlamento, nel quale i presbiteriani erano in numero maggiore rispetto agli indipendenti, avrebbe potuto ottenere ciò che desiderava dal Re durante la sua vita, se non fosse stato per un’ambizione smisurata e sciocca che ostacolava il raggiungimento dei loro scopi. Gli inviarono quattro proposte, chiedendogli di firmarle e approvarle come atti parlamentari; gli dissero inoltre che, una volta ottenute queste concessioni, avrebbero inviato commissari per discutere con lui eventuali altre questioni.
+
+Le proposte erano le seguenti: Primo, che il Parlamento dovesse disporre della milizia e del potere di raccogliere fondi per il suo mantenimento per un periodo di vent’anni; al termine di tale periodo, tale potere doveva essere restituito al Re, qualora il Parlamento ritenesse che la sicurezza del regno ne dipendesse.
+
+B.
+
+Il primo articolo sottrae al Re la milizia e, di conseguenza, l’intera [%sovranità](/positions/sovereignty) per sempre.
+
+A.
+
+Il secondo punto prevedeva che il Re dovesse giustificare le azioni del Parlamento contro di lui e dichiarasse nulle tutte le promesse e le dichiarazioni fatte da lui contro il Parlamento.
+
+B.
+
+Questo era fatto per farlo apparire colpevole della guerra e di tutto il sangue versato in essa.
+
+A.
+
+Il terzo punto consisteva nel revocare tutti i titoli onorifici conferiti dal Re a partire da maggio 1642, quando il Grande Sigillo gli fu consegnato.
+
+Il quarto punto prevedeva che il Parlamento potesse sospendere le proprie sessioni quando e dove desiderasse, per il periodo di tempo che riteneva opportuno.
+
+Il Re rifiutò di accettare queste proposte, e a ragione; inviò invece altre proprie, non meno vantaggiose per il Parlamento, e desiderava stipulare un trattato personale con esso al fine di stabilire la pace nel regno. Tuttavia, il Parlamento ritenne che tali proposte non fossero sufficienti a tale scopo, e votò che non venissero più inviate comunicazioni al Re né ricevute da lui; decise quindi di governare il regno senza di lui. Questa decisione fu in parte motivata dai discorsi e dalle minacce della fazione militare presente all’epoca nella Camera dei Comuni, la quale suggerì tre azioni: 1. Far custodire il Re in un castello interno; 2. Redigere articoli di accusa contro di lui; 3. Eliminarlo dalla scena politica e governare il regno senza di lui.
+
+Un altro disse che il rifiuto da parte sua di approvare quei quattro progetti di legge equivaleva a negare protezione ai suoi sudditi; e quindi essi avrebbero potuto rifiutarsi di sottomettersi a lui. Aggiunse inoltre che, finché il Parlamento non abbandonasse l’esercito, quest’ultimo non avrebbe mai abbandonato il Parlamento stesso. Queste parole costituivano una minaccia.
+
+Infine, lo stesso Cromwell disse loro che ormai si aspettava che fosse il Parlamento a governare e difendere il regno, e non più che il popolo potesse affidare la propria sicurezza a un uomo il cui cuore Dio aveva reso indurito; inoltre, coloro che avevano così bene difeso il Parlamento non dovevano essere lasciati in futuro alla furia di un nemico irreconciliabile, altrimenti avrebbero potuto cercare protezione in altri modi. Anche questo rappresentava una minaccia; lo stesso valeva per il gesto con cui Cromwell posò la mano sulla spada mentre pronunciava queste parole.
+
+E così il voto relativo alle “non-risposte” divenne una norma ufficiale; la Camera avrebbe in seguito voluto revocarlo, ma fu costretta da Cromwell a mantenere la sua promessa.
+
+Gli scozzesi ne erano scontenti: in parte perché i loro fratelli presbiteriani avevano perso gran parte del loro potere in Inghilterra; e in parte anche perché avevano consegnato il Re nelle loro mani.
+
+Il Re pubblicò allora un appassionato lamento verso il suo popolo riguardo a questo trattamento crudele da parte loro; ciò suscitò la loro compassione, ma non li spinse ancora ad alzarsi in sua difesa.
+
+B.
+
+Non era forse questo il momento giusto affinché Cromwell assumesse il potere?
+
+A.
+
+Assolutamente no. C’erano ancora molti ostacoli da superare: non era il generale dell’esercito, l’esercito apparteneva ancora al Parlamento, la città di Londra era insoddisfatta della sua milizia, e gli scozzesi aspettavano di intervenire con un esercito per salvare il Re. I suoi aiutanti erano sostenitori del principio dell’uguaglianza e contrari alla monarchia; sebbene lo avessero aiutato a sottomettere l’esercito al controllo del Parlamento, non erano disposti a farlo diventare re. Pertanto, prima di potersi proclamare formalmente principe sovrano, Cromwell doveva superare diversi ostacoli: 1. Diventare il generale in capo dell’esercito; 2. Rimuovere il Re; 3. Sopprimere tutte le insurrezioni nel paese; 4. Opporsi agli scozzesi; e infine, sciogliere il Parlamento attuale. Si trattava di compiti estremamente ardui, che probabilmente non avrebbe mai potuto portare a termine. Pertanto, non credo che all’epoca pensasse davvero di diventare re; intendeva semplicemente servire al meglio la fazione più potente, che era sempre stata il suo obiettivo principale, e cercare di avanzare quanto più possibile, a seconda delle opportunità che gli si presentavano.
+
+B.
+
+Il Parlamento era certamente altrettanto sciocco quanto malvagio nel abbandonare il Re prima ancora di aver messo l’esercito sotto un comando più efficace di quello attuale.
+
+A.
+
 <span class="atom-split" data-atom="039" data-title="PART III. (parte 10)" data-chapter="PART III." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 In the beginning of 1648 the Parliament gave commission to Philip Earl of Pembroke, then made Chancellor of Oxford, together with some of the doctors there as good divines as he, to purge the University. By virtue whereof they turned out all such as were not of their faction, and all such as had approved the use of the Common-prayer-book; as also divers scandalous ministers and scholars, that is, such as customarily and without need took the name of God into their mouths, or used to speak wantonly, or use the company of lewd women: and for this last I cannot but commend them.
@@ -2440,6 +4812,62 @@ How came the Scots to be so soon dispatched?
 A.
 
 Merely, as it is said, for want of conduct. Their army was led by Duke Hamilton, who was then set at liberty, when Pendennis Castle, where he was prisoner, was taken by the Parliamentarians. He entered England with horse and foot 15,000, to which came above 3,000 English royalists. Against these Cromwell marched out of Wales with horse and foot 11,000, and near to Preston in Lancashire, in less than two hours, defeated them. And the cause of it is said to be, that the Scotch army was so ordered as they could not all come to the fight, nor relieve their fellows. After the defeat, they had no way to fly but further into England; so that in the pursuit they were almost all taken, and lost all that an army can lose; for the few that got home, did not all bring home their swords. Duke Hamilton was taken, and not long after sent to London. But Cromwell marched on to Edinburgh, and there, by the help of the faction which was contrary to Hamilton’s, he made sure not to be hindered in his designs; the first whereof was to take away the King’s life by the hand of the Parliament.
+
+<span class="qlang-split" data-lang="it"></span>
+
+All’inizio del 1648 il Parlamento incaricò Philip Earl of Pembroke, all’epoca nominato Cancelliere di Oxford, insieme ad alcuni dei medici presenti nell’università e considerati altrettanto saggi quanto lui, di purificare l’ateneo. In base a tale incarico, furono espulsi tutti coloro che non appartenevano alla loro fazione, così come coloro che avevano approvato l’uso del libro delle preghiere comuni; inoltre, vennero allontanati diversi ministri e studiosi scandalosi, ovvero coloro che abitualmente e senza necessità menzionavano il nome di Dio, parlavano in modo sconsiderato o frequentavano donne licenziose. Per quest’ultimo aspetto, non posso fare a meno di lodarli.
+
+B.
+
+E io non dovrei fare lo stesso? Non è forse anch’esso un atto di pietà, allontanare le persone da un ospedale soltanto perché sono zoppe? Dove, dunque, potrebbe un uomo imparare la pietà e come correggere i propri vizi, se non nelle università istituite appunto a tale scopo?
+
+A.
+
+Forse era così, ma il Parlamento la pensava diversamente. Ho infatti spesso sentito i lamenti dei genitori, secondo cui i loro figli vi venivano corrotti dall’ubriachezza, dalla dissolutezza, dal gioco d’azzardo e da altri vizi che ne derivavano. Non sorprende quindi che, in mezzo a così tanti giovani, alcuni si corrompessero a vicenda nonostante l’influenza dei loro tutor, spesso poco più anziani di loro stessi. Per questo motivo ritengo che il Parlamento non attribuisse grande importanza all’istituzione dell’università per quanto riguarda la formazione dei giovani verso la virtù; sebbene molti di loro vi imparassero a predicare e, di conseguenza, diventassero idonei a ricoprire cariche pubbliche o a garantirsi un sostentamento; altri ancora venivano inviati lì dai loro genitori per evitarsi la fatica di sorvegliarli in casa, durante quel periodo in cui i bambini sono particolarmente difficili da governare. Inoltre, non credo che il Parlamento prestasse maggiore attenzione al clero rispetto ad altre categorie sociali. Tuttavia, senza dubbio, l’università rappresenta un utile strumento al servizio del clero; ma se non viene gestita con cura – a causa delle divergenze dottrinali e dei vantaggi che ne derivano per la diffusione di tali dissensi – può diventare un mezzo efficace per dividere un regno in fazioni.
+
+B.
+
+Ma poiché in questa parte del mondo non esiste alcun luogo dove la filosofia e le altre scienze umane non siano ampiamente apprezzate, dove si possono studiare meglio se non nelle università?
+
+A.
+
+Quali altre scienze? Non comprendono forse gli indovini tutta la filosofia civile e morale nel contesto delle loro dottrine divine? E per quanto riguarda la filosofia naturale, non è forse stata trasferita da Oxford e Cambridge al Gresham College di Londra, dove viene studiata attraverso i loro giornali scientifici? Ma ci siamo allontanati dal nostro argomento principale.
+
+B.
+
+No; abbiamo effettivamente abbandonato le imprese più importanti del regno; a queste, se volete, torniamo pure.
+
+A.
+
+La prima insurrezione, o meglio il tumulto, ebbe luogo l’9 aprile tra gli apprendisti. Ma non fu diretta contro il Re, bensì scaturì da un’abituale riunione che questi tenevano a Moorfields per divertirsi; alcuni ufficiali dei soldati addestrati decisero di scacciarli con la forza, ma furono loro stessi sconfitti con le pietre e il loro stendardo fu preso dagli apprendisti, che lo portarono in giro per le strade, spaventando il sindaco fino a farlo rifugiare in casa sua. Lì presero anche un fucile chiamato “drake”; successivamente piazzarono sentinelle alle porte della città e per il resto della giornata si comportarono in modo infantilmente tracotante. Il giorno seguente, l’arrivo del generale in città li disperse rapidamente. Si trattò di un episodio di poco conto, ma sufficiente a far loro capire che il Parlamento non era molto amato dal popolo.
+
+In seguito, i Welch presero le armi contro di loro. In Galles c’erano tre colonnelli: Langhorne, Poyer e Powel, che in precedenza avevano reso importanti servizi al Parlamento, ma ora ricevettero l’ordine di sciogliersi; essi rifiutarono di farlo. Per rafforzare ulteriormente le proprie forze, decisero quindi di schierarsi a favore del Re; i loro effettivi ammontavano a circa 8.000 uomini.
+
+Più o meno nello stesso periodo, anche nel Galles scoppiarono altre rivolte, una guidata da Sir Nicholas Keymish e un’altra da Sir John Owen; così che l’intero Galles si trovò in stato di ribellione contro il Parlamento. Tuttavia, tutte queste rivolte furono sconfitte in soli un mese da Cromwell e dai suoi ufficiali; ma non senza un notevole spargimento di sangue da entrambe le parti.
+
+B.
+
+Non provo molta compassione per la perdita di quegli uomini che attribuiscono al Re ciò che in realtà fanno a causa delle loro stesse contese personali.
+
+A.
+
+In seguito a ciò, alcuni abitanti del Surrey inviarono al Parlamento una petizione per ottenere un trattato personale tra il Re e il Parlamento; ma i loro messaggeri furono riportati indietro dai soldati stazionati nei dintorni di Westminster. Gli uomini del Kent, avendo anch’essi una petizione simile da presentare e vedendo quanto fosse improbabile che venisse accettata, la gettarono via e presero le armi. Dispondevano di molti ufficiali valorosi; il loro comandante in capo era il Conte di Norwich. Il loro esercito continuò ad ingrandirsi grazie all’arrivo di apprendisti e di vecchi soldati dismessi dalle forze armate regolari. A tal punto, il Parlamento decise di restituire alla città la sua milizia e di dispiegare guardie lungo le rive del Tamigi; in seguito, Fairfax marciò verso il nemico.
+
+B.
+
+E allora, penso, i londinesi avrebbero potuto facilmente e rapidamente prendere il controllo, prima del Parlamento, poi delle 8.000 truppe di Fairfax, e infine dell’esercito di Cromwell; o almeno avrebbero potuto dare all’esercito scozzese l’opportunità di marciare su Londra senza incontrare resistenza.
+
+A.
+
+È vero: ma quella città non era mai stata incline a intraprendere imprese rischiose; né loro né gli scozzesi avevano l’intenzione di avere un re sopra di sé, bensì sotto di sé. Fairfax, con i suoi 8.000 uomini, attaccò i realisti e sconfisse una loro parte a Maidstone; un’altra parte si trovava in altre zone del Kent. L’Earl of Norwich, con il resto delle truppe, raggiunse Blackheath e inviò messaggeri nella città per chiedere il permesso di passare, al fine di unirsi a coloro che si erano sollevati in Essex sotto il comando di Sir Charles Lucas e Sir George Lisle. Quando questa richiesta fu rifiutata, la maggior parte dei suoi uomini del Kent lo abbandonò. Con i restanti, non più di 500 uomini, attraversò il Tamigi, raggiunse l’Isle of Dogs, poi Bow e infine Colchester. Fairfax, venuto a conoscenza di questi movimenti, attraversò anch’egli il Tamigi presso Gravesend e, sorprendendoli, assediò Colchester. La città non disponeva di alcuna difesa efficace, se non di un semplice parapetto, ma resistette per due mesi, nella speranza che l’esercito scozzese venisse in suo aiuto. Quando seppe della sconfitta degli scozzesi, fu costretto a arrendersi. L’Earl of Norwich fu portato prigioniero a Londra; Sir Charles Lucas e Sir George Lisle, due uomini leali e coraggiosi, furono fucilati. Ci fu anche un’altra piccola insurrezione guidata dall’Earl of Holland vicino a Kingston, ma fu rapidamente soffocata e lo stesso conte venne catturato.
+
+B.
+
+Come mai gli scozzesi furono sconfitti così rapidamente?
+
+A.
+
+Si dice semplicemente che, a causa della mancanza di organizzazione, il loro esercito fosse privo di una guida efficace. L’esercito era comandato dal Duca di Hamilton, che fu liberato quando il Castello di Pendennis, dove era prigioniero, fu preso dai Parlamentari. Egli entrò in Inghilterra con 15.000 uomini a cavallo e a piedi, ai quali si aggiunsero oltre 3.000 realisti inglesi. Contro di loro Cromwell mosse da Galles con 11.000 uomini a cavallo e a piedi, e vicino a Preston, nel Lancashire, li sconfisse in meno di due ore. Si dice che la ragione della vittoria sia stata proprio l’organizzazione disorganizzata dell’esercito scozzese, che non permetteva loro di intervenire tutti contemporaneamente nella battaglia né di aiutare i compagni in difficoltà. Dopo la sconfitta, non ebbero altra scelta se non proseguire verso l’Inghilterra; durante la fuga furono quasi tutti catturati e persero tutto ciò che un esercito può perdere: pochi di loro riuscirono a tornare a casa, e nemmeno tutti riportarono indietro le proprie armi. Il Duca di Hamilton fu catturato e poco dopo inviato a Londra. Cromwell invece proseguì verso Edimburgo, dove, con l’aiuto delle fazioni ostili a Hamilton, si assicurò che nessuno gli ostacolasse i piani; il primo dei quali era quello di far uccidere il Re per mano del Parlamento.
 
 <span class="atom-split" data-atom="040" data-title="PART III. (parte 11)" data-chapter="PART III." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
@@ -2503,11 +4931,79 @@ Seeing the King was dead, and his successor barred; by what declared authority w
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Mentre queste cose avvenivano nel nord, il Parlamento, con Cromwell assente, riprese il controllo della situazione e, ricordando la propria precedente decisione di non rivolgere alcuna richiesta al Re, inviò a lui nuove proposte, leggermente più moderate rispetto alle precedenti. In seguito alla risposta del Re, furono inviati commissari per negoziare con lui a Newport, sull’Isola di Wight; tuttavia essi si dilatarono in discussioni su questioni insignificanti, tanto che Cromwell arrivò a Londra prima che potessero concludere nulla, il che portò alla rovina del Re. L’esercito, ormai interamente sotto il controllo di Cromwell, fece nuovamente appello al Parlamento, chiedendo: 1. Che il Re venisse processato; 2. Che il Principe e il Duca di York fossero convocati per rispondere alle accuse entro una data stabilita; 3. Che il Parlamento stabilisse le condizioni della pace e del futuro governo, fissando un termine ragionevole per le proprie sessioni e rendendo future le riunioni parlamentari annuali o biennali; 4. Che venissero eseguite alcune delle decisioni principali prese dal Re. Tutto ciò doveva essere attuato sia dal Parlamento che attraverso un accordo generale del popolo, dimostrato tramite le firme dei cittadini. Senza attendere risposte, i membri del Parlamento misero immediatamente delle guardie alle porte dell’edificio e altre truppe nella sala Westminster, impedendo l’ingresso a chiunque non fosse autorizzato. Tutti gli altri furono allontanati o catturati; novantasei di loro vennero imprigionati perché si erano rifiutati di votare contro gli scozzesi, altri perché avevano votato contro la decisione di non rivolgere richieste al Re. Il resto del Parlamento divenne così un strumento nelle mani di Cromwell. I fanatici presenti in città, sostenuti dall’esercito, costituirono anche un nuovo consiglio comunale, nel quale quaranta membri avevano lo stesso rango del sindaco; la loro prima azione fu redigere una petizione per chiedere giustizia contro il Re, che il sindaco Tichborne presentò al Parlamento, coinvolgendo così l’intera città nel regicidio.
+
+Nello stesso tempo, con la stessa violenza, portarono il Re da Newport, sull’Isola di Wight, al Castello di Hurst, fino a quando non furono pronti per processarlo. Nel frattempo, il Parlamento, per evitare falsi testimoniaggi, dichiarò con un decreto nulle le giuramenti di supremazia e fedeltà, e poco dopo emise un altro decreto per procedere al processo del Re.
+
+B.
+
+Si tratta di una disposizione legale che prima non comprendevo: quando molte persone giurano individualmente, possono, riunendosi, liberarsi della loro promessa, se lo desiderano.
+
+A.
+
+L’ordinanza redatta fu presentata alla Camera dei Comuni, dove, dopo tre letture successive, venne votata la seguente risoluzione: “Che i Lord e i Comuni d’Inghilterra, riuniti in Parlamento, dichiarino che, ai sensi delle leggi fondamentali del regno, è tradimento da parte del Re d’Inghilterra dichiarare guerra al Parlamento”. Questa risoluzione fu inviata ai Lord; essi, rifiutandosi di darvi il loro consenso, spinsero i Comuni a votare nuovamente: “Che tutti i membri delle commissioni debbano procedere e agire nell’attuazione di qualsiasi ordinanza, indipendentemente dal consenso dei Lord; che il popolo, sotto Dio, è la fonte di ogni potere legittimo; che la Camera dei Comuni detiene il potere supremo della nazione; e che tutto ciò che la Camera dei Comuni approva costituisce legge”. Tutte queste decisioni furono adottate senza alcuna obiezione.
+
+B.
+
+Queste proposte non si rivolgono soltanto contro il Re d’Inghilterra, ma contro tutti i re del mondo. Sarebbe bene che ci riflettessero su. Tuttavia, credo che, sotto Dio, l’origine di tutte le leggi risieda nel popolo.
+
+A.
+
+Ma il popolo, per loro e i loro eredi, con consenso e giuramenti, ha da tempo affidato il potere supremo della nazione nelle mani dei loro re, per loro e i loro eredi; e di conseguenza, nelle mani di questo Re, il loro erede noto e legittimo.
+
+B.
+
+Ma non rappresenta forse il Parlamento il popolo?
+
+A.
+
+Sì, per alcuni scopi: ad esempio, per presentare petizioni al Re quando ne hanno il permesso e sono angosciati; ma non certo per contestare l’autorità del Re. Inoltre, il Parlamento rappresenta il popolo soltanto quando il Re lo convoca; né si può pensare che il Re convochi un Parlamento allo scopo di deporsi. Supponiamo che ogni contea e ogni borgo abbia donato al Parlamento una somma di denaro per ottenere un favore; in tal caso, ogni contea, riunitasi nel proprio tribunale o altrove, e ogni borgo, nella propria sala del consiglio comunale, avrebbe eletto dei rappresentanti incaricati di portare tali somme al Parlamento. Non significherebbe forse che questi rappresentanti rappresentassero l’intera nazione?
+
+B.
+
+Sì, senza dubbio.
+
+A.
+
+Pensi che il Parlamento avrebbe ritenuto ragionevole essere chiamato a rispondere delle proprie azioni da questo rappresentante?
+
+B.
+
+No, certo. Eppure devo ammettere che la situazione è la stessa.
+
+A.
+
+Questo decreto conteneva, in primo luogo, un riassunto delle accuse rivolte al Re: sostanzialmente si affermava che, non essendo soddisfatto delle usurpazioni compiute dai suoi predecessori sulla libertà del popolo, egli avesse intenzione di instaurare un governo tirannico; a tale scopo aveva scatenato e mantenuto nel paese una guerra civile contro il Parlamento, causando così la devastazione del territorio, l’esaurimento delle risorse pubbliche, l’uccisione di migliaia di persone e l’arrecamento di innumerevoli altri danni. In secondo luogo, veniva approvata una costituzione per un alto tribunale giudiziario, composto da un certo numero di commissari; venti di loro avevano il potere di processare il Re e di emettere sentenze in base ai meriti della causa, assicurandone l’immediata esecuzione.
+
+I commissari si riunirono sabato 20 gennaio nella Westminster Hall, e il Re fu portato davanti a loro; lì, seduto su una sedia, ascoltò la lettura delle accuse, ma rifiutò di dichiararsi colpevole o innocente fino a quando non avesse saputo con quale autorità legittima fosse stato portato lì. Il presidente gli spiegò che il Parlamento affermava la propria autorità; tuttavia il Re continuò a rifiutare di rispondere alle accuse. Nonostante si siano scambiati molte parole tra lui e il presidente, questo fu sostanzialmente l’essenziale di quanto accaduto.
+
+Lunedì 22 gennaio il tribunale si riunì di nuovo, e l’avvocato propose che, se il Re avesse continuato a negare l’autorità del tribunale, l’accusa potesse essere presentata sulla base delle dichiarazioni dello stesso Re: tuttavia il Re continuò a negare la loro autorità.
+
+Si incontrarono di nuovo il 23 gennaio, e successivamente l’avvocato presentò istanza al tribunale per ottenere una sentenza; in seguito al che il Re fu chiamato a fornire la sua risposta definitiva, che ancora una volta consistette nel negare la loro autorità.
+
+Infine, si riunirono di nuovo il 27 gennaio: il Re desiderava essere ascoltato dai Lord e dai Comuni nella Camera dipinta, promettendo in seguito di accettare la sentenza del tribunale. I commissari si ritirarono per mezz’ora per deliberare, e al loro ritorno fecero riportare il Re davanti a loro, spiegandogli che quanto proponeva non era altro che un ulteriore rifiuto della giurisdizione del tribunale; e che, se non aveva nulla altro da dire, avrebbero proseguito con le procedure. Il Re rispose di non avere nulla altro da aggiungere, e il presidente iniziò quindi un lungo discorso per giustificare le azioni del Parlamento, citando esempi di molti re uccisi o deposti da cattivi Parlamenti, antichi e moderni, in Inghilterra, Scozia e altre parti del mondo. Tutto ciò veniva giustificato sulla base di un unico principio: il popolo detiene il potere supremo, e il Parlamento è il rappresentante del popolo stesso. Al termine di questo discorso fu letta la sentenza di morte; essa fu eseguita il giorno seguente, martedì 30 gennaio, alle porte del suo stesso palazzo di Whitehall. Chi desidera conoscere in dettaglio come sia stato maltrattato dai soldati tra la pronuncia della sentenza e l’esecuzione, può consultare le cronache dell’epoca; in esse si troverà testimonianza di quanto coraggio, pazienza, saggezza e bontà possedesse questo principe, che i membri di quel malvagio Parlamento definivano tiranno, traditore e assassino.
+
+Poiché il Re era morto, lo stesso giorno fu emanato un atto parlamentare che stabiliva, in base all’autorità dello stesso Parlamento, che nessuno dovesse osare proclamare, dichiarare o promuovere in alcun modo Carlo Stuart, figlio del defunto Re d’Inghilterra, comunemente chiamato Principe di Galles, o qualsiasi altra persona, come Re d’Inghilterra o d’Irlanda.
+
+B.
+
+Vedendo che il Re era morto e che il suo successore era stato escluso dal potere, con quale autorità ufficiale veniva mantenuta la pace?
+
+A.
+
 <span class="atom-split" data-atom="041" data-title="PART III. (parte 12)" data-chapter="PART III." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 They had, in their [anger](/concepts/anger) against the Lords, formerly declared the supreme power of the nation to be in the House of Commons; and now, on February the 5th, they vote the House of Lords to be useless and dangerous. And thus the kingdom is turned into a democracy, or rather an oligarchy: for presently they made an act, that none of those members, who were secluded for opposing the vote of non-addresses, should ever be re-admitted. And these were commonly called the secluded members; and the rest were by some styled a Parliament, and by others the Rump.
 
 I think you need not now have a catalogue, either of the vices, or of the crimes, or of the follies of the greatest part of them that composed the Long Parliament; than which greater cannot be in the world. What greater vices than irreligion, hypocrisy, avarice and cruelty; which have appeared so eminently in the actions of Presbyterian members, and Presbyterian ministers? What greater crimes than blaspheming and killing God’s anointed; which was done by the hands of the Independents; but by the folly and first treason of the Presbyterians who betrayed and sold him to his murderers? Nor was it a little folly in the Lords, not to see that by the taking away of the King’s power they lost withal their own privileges; or to think themselves, either for number or judgment, any way a considerable assistance to the House of Commons. And for those men who had skill in the laws, it was no great sign of understanding not to perceive that the laws of the land were made by the King, to oblige his subjects to peace and justice, and not to oblige himself that made them. And lastly and generally, all men are fools which pull down anything which does them good, before they have set up something better in its place. He that would set up democracy with an army, should have an army to maintain it; but these men did it, when those men had the army that were resolved to pull it down. To these follies I might add the folly of those fine men, which out of their reading of Tully, Seneca, or other anti-monarchics, think themselves sufficient politicians, and show their discontents when they are not called to the management of [the state](/concepts/state), and turn from one side to another upon every neglect they fancy from the King or his enemies.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nella loro [ira](/concepts/anger) contro i Lord, avevano precedentemente dichiarato che il potere supremo della [nazione](/concepts/state) risiedesse nella Camera dei Comuni; e ora, il 5 febbraio, votarono per ritenere la Camera dei Lord inutile e pericolosa. Così il regno si trasformò in una democrazia, o meglio, in un’oligarchia: poiché subito dopo decisero che nessuno di quei membri esclusi per essersi opposti a quella decisione potesse mai essere riammesso. Questi membri venivano comunemente chiamati “i membri esclusi”; gli altri, invece, venivano definiti da alcuni “Parlamento” e da altri “Rump”.
+
+Penso che non sia affatto necessario stilare un elenco dei vizi, dei crimini o delle follie della maggior parte di coloro che composero il Long Parliament; non esistono infatti vizi più gravi di questi: irreligione, ipocrisia, avarizia e crudeltà, che si sono manifestati in modo così evidente nelle azioni dei membri e dei ministri presbiteriani. Non ci sono crimini più atroci di quelli commessi contro l’uomo consacrato da Dio: blasfemia e omicidio; crimini compiuti dai ribelli indipendenti, ma resi possibili dalla follia e dalla tradizione dei presbiteriani, che lo tradirono consegnandolo ai suoi assassini. Non fu certo una piccola follia da parte dei lord non rendersi conto che, togliendo al re il potere, perdevano anche i propri privilegi; né pensare di poter rappresentare un aiuto significativo alla Camera dei Comuni, sia in termini di numero che di capacità decisionale. Per coloro che conoscevano bene le leggi, non fu certo un segno di intelligenza non comprendere che tali leggi erano state stabilite dal re al fine di garantire pace e giustizia ai suoi sudditi, e non per obbligare lui stesso ad attuarle. Infine, tutti coloro che distruggono ciò che è vantaggioso per loro, prima ancora di aver stabilito qualcosa di meglio al suo posto, sono degli sciocchi. Chi vuole instaurare la democrazia con l’aiuto di un esercito deve disporre di un esercito anche per mantenerla; ma questi uomini lo fecero proprio quando coloro che avevano l’esercito erano decisi a distruggerla. A queste follie si potrebbero aggiungere anche quelle di quegli individui, che, basandosi sulla lettura di Tullio, Seneca o altri autori anti-monarchici, si considerano abbastanza esperti in politica; esprimono il loro dissenso ogni volta che ritengono di essere trascurati dal re o dai suoi nemici, cambiando spesso schieramento a seconda delle circostanze.
 
 <span class="atom-split" data-atom="042" data-title="PART IV. (parte 1)" data-chapter="PART IV." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
@@ -2601,6 +5097,98 @@ Let us return, if you please, to the proceedings of the Rump.
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+A.
+
+Avete visto che il Rump era considerato, da loro stessi, detentore del potere supremo su entrambe le nazioni di Inghilterra e Irlanda, con l’esercito al suo servizio; sebbene Cromwell la pensasse diversamente, egli servì fedelmente quei governanti al fine di realizzare i propri scopi personali. Ora vi mostrerò quali furono le loro azioni.
+
+B.
+
+Dimmi prima: come si può chiamare questo tipo di governo, che rappresenta soltanto un residuo o un’ombra della Camera dei Comuni?
+
+A.
+
+È senza dubbio un’oligarchia. Poiché l’autorità suprema deve necessariamente risiedere in una o più persone. Se risiede in una sola persona, si tratta di monarchia; pertanto il “Rump” non era una monarchia. Se l’autorità è distribuita tra più persone, allora può essere condivisa da tutti o da meno di tutti. Quando è condivisa da tutti, si tratta di democrazia, poiché ogni individuo può partecipare all’assemblea che forma la Corte Sovrana; cosa che qui non era possibile. È quindi evidente che l’autorità era concentrata in poche persone, e di conseguenza lo [stato](/concepts/state) era un’oligarchia.
+
+B.
+
+Non è forse impossibile che un popolo venga bene governato se deve obbedire a più padroni contemporaneamente?
+
+A.
+
+Sia il Rump che tutte le altre assemblee sovrane, se hanno una sola voce – anche se sono composte da molti individui – rappresentano in realtà una sola entità. Infatti, ordini contrari non possono provenire dalla stessa voce, che è la voce della maggioranza; pertanto, queste assemblee potrebbero governare efficacemente, se possedessero onestà e intelligenza adeguate.
+
+Il primo atto del Rump fu l’esclusione di quei membri della Camera dei Comuni che in precedenza erano stati tenuti fuori con la violenza per aver promosso l’emanazione di un decreto riguardante il processo del Re; questi uomini, infatti, si erano opposti al decreto che vietava qualsiasi forma di comunicazione con il Re, e quindi furono esclusi, poiché avrebbero potuto rappresentare un ostacolo ai loro futuri piani.
+
+B.
+
+Non era forse piuttosto perché, ritenendo che il numero fosse minore, tanto meglio sarebbe stato sia per quanto riguarda le loro quote di potere sia per la possibilità che ciascuno di loro si avvicinasse maggiormente alla dignità di re?
+
+A.
+
+Certo, quello era il loro scopo principale.
+
+B.
+
+Quando questi furono eliminati, perché le contee e i borghi non scelsero altri al loro posto?
+
+A.
+
+Non avrebbero potuto farlo senza l’ordine della Camera.
+
+In seguito costituirono un consiglio composto da quaranta persone, che chiamarono Consiglio di Stato; il compito di questo consiglio era quello di eseguire gli ordini impartiti dal Rump.
+
+B.
+
+Quando non c’era né Re né Corte dei Lord, non potevano definirsi un Parlamento; infatti, un Parlamento è una riunione del Re, dei Lord e dei Comuni per discutere insieme degli affari della [comunità](/concepts/commonwealth). Con chi si riunì il Rump?
+
+A.
+
+Gli uomini possono dare alla loro assemblea il nome che desiderano, indipendentemente dal significato che tale nome possa aver avuto in passato; il “Rump” scelse di chiamarsi Parlamento, poiché riteneva che questo nome fosse più adatto ai loro scopi. Inoltre, essendo un titolo rispettato dal popolo da centinaia di anni, tale denominazione contribuiva a rendere più accettabili tasse e altre imposizioni finanziarie, altrimenti molto sgradite per i sudditi. Successivamente adottarono anche un altro nome: “Custodes Libertatis Angliæ”, che utilizzavano soltanto nei documenti emessi dai tribunali.
+
+B.
+
+Non riesco a capire come un soggetto vincolato dalle leggi possa godere di maggiore libertà in un certo tipo di governo rispetto ad un altro.
+
+A.
+
+Per quanto riguarda le persone che intendono per libertà soltanto la possibilità di fare ciò che desiderano, questo titolo non era certo ingrato.
+
+Il loro prossimo compito fu quello di redigere una dichiarazione pubblica in cui si impegnavano fermamente a difendere le leggi fondamentali della nazione, nonché la salvaguardia delle vite, delle libertà e dei beni del popolo.
+
+B.
+
+Cosa intendevano con le “leggi fondamentali della nazione”?
+
+A.
+
+Nient’altro che abusare del popolo. Poiché l’unica legge fondamentale in ogni comunità è quella di obbedire alle leggi stabilite da colui a cui il popolo ha conferito il potere supremo. Quanto è dunque probabile che tali persone rispettino le leggi fondamentali, proprio quelle che hanno condannato a morte colui che essi stessi avevano spesso riconosciuto come loro sovrano legittimo? Inoltre, nello stesso momento in cui fu emessa questa dichiarazione, venne istituito quel Tribunale Supremo di Giustizia che causò la morte del Duca di Hamilton, dell’Earl of Holland e del Lord Capel. Qualunque cosa intendessero per “legge fondamentale”, l’istituzione di tale tribunale ne rappresentava una violazione, poiché non era giustificata da alcuna legge o precedente storico in Inghilterra.
+
+Nello stesso tempo, imponevano tasse attraverso i soldati e concedevano ai soldati vitto [gratuito](/concepts/charity); inoltre compivano molte altre azioni che, se fossero state fatte dal Re, sarebbero state considerate violazioni della libertà e delle leggi dei sudditi.
+
+B.
+
+Che persone sciocche siano le persone comuni, da essere ingannate in modo così evidente!
+
+A.
+
+Che tipo di persone, a questo proposito, non rientrano nella categoria comune? I furfanti più astuti tra i membri del Parlamento non erano più saggi degli altri che ingannavano; infatti, la maggior parte di loro credeva davvero che le stesse cose che impondevano al popolo fossero giuste e ragionevoli. Soprattutto quei grandi oratori e coloro che fingevano di possedere conoscenze profonde. Chi, infatti, può essere un buon suddito in una monarchia se i suoi principi derivano dagli avversari della monarchia stessa – persone come [Cicerone](/figures/cicero), Seneca, Cato e altri politici romani, o ancora [Aristotele](/figures/aristotle) di Atene, che raramente parlava dei re se non come di lupi e altre bestie feroci? Forse si potrebbe pensare che basti una semplice intelligenza naturale per comprendere il proprio dovere verso il sovrano e i propri diritti nei suoi confronti; ma non è così. Si tratta infatti di una scienza, basata su principi certi e chiari, che deve essere appresa attraverso uno studio approfondito o sotto la guida di esperti che l’hanno a lungo studiata. E chi, all’interno del Parlamento o nella nazione, era in grado di individuare questi principi evidenti e di trarne le regole necessarie per la giustizia, nonché il legame tra giustizia e pace? Il popolo ha a disposizione un giorno alla settimana per ascoltare insegnamenti; ci sono anche ministri incaricati di istruirlo sul suo dovere. Ma come hanno svolto questi ministri il loro compito? Gran parte di loro, cioè i ministri presbiteriani, durante tutta la guerra hanno incitato il popolo contro il Re; lo stesso fecero anche gli indipendenti e altri ministri fanatici. Gli altri, contenti del proprio stipendio, predicavano nelle loro parrocchie argomenti controversi, privi di qualsiasi rilevanza per la religione, ma estremamente efficaci nel creare divisioni tra i cittadini; oppure pronunciavano discorsi eloquenti che il popolo non capiva o che riteneva non riguardassero affatto la sua realtà. Ma questo tipo di predicatori, poiché non facevano molto bene, non facevano nemmeno molto male. Il vero danno derivava interamente dai ministri presbiteriani, i quali, grazie a una lunga esperienza nell’arte oratoria, incitavano con forza il popolo alla ribellione.
+
+B.
+
+A quale scopo?
+
+A.
+
+Al fine che lo Stato, diventando popolare, potesse anche la Chiesa diventare popolare e essere governata da un’Assemblea; e di conseguenza, poiché ritenevano che la politica fosse subordinata alla religione, avrebbero potuto governare, soddisfacendo così non solo il loro desiderio di ricchezze, ma anche la loro malizia attraverso il potere di distruggere tutti coloro che non ammiravano la loro saggezza. Il fatto che voi definiate la gente sciocca mi ha costretto, con questa digressione, a dimostrarvi che non è una mancanza di ingegno, ma una mancanza della scienza della giustizia, ciò che li ha portati in questi guai. Provate pure a convincere che un uomo che si sia arricchito, o che abbia reso ancora più grande la propria fortuna, oppure che sia un oratore eloquente, un poeta affascinante, un avvocato astuto, o semplicemente un bravo cacciatore o un abile giocatore d’azzardo, non possieda un buon ingegno; eppure molti di loro sono stati così sciocchi da essere ingannati dal “Rump” e dai suoi membri. A loro mancava non l’ingegno, ma la conoscenza delle cause e dei fondamenti su cui uno ha il diritto di governare e gli altri l’obbligo di obbedire; fondamenti che è necessario insegnare al popolo, poiché senza di essi non può vivere a lungo in pace tra di sé.
+
+B.
+
+Per favore, torniamo alle deliberazioni della Rump.
+
+A.
+
 <span class="atom-split" data-atom="043" data-title="PART IV. (parte 2)" data-chapter="PART IV." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 In the rest of this year they voted a new stamp for the coin of this nation. They considered also of agents to be sent to foreign states; and having lately received applause from the army for their work done by the High Court of Justice, and encouragement to extend the same further, they perfected the said High Court of Justice, in which were tried Duke Hamilton, the Earl of Holland, Lord Capel, the Earl of Norwich, and Sir John Owen; whereof, as I mentioned before, the three first were beheaded. This affrighted divers of the King’s party out of the land; for not only they, but all that had borne arms for the King, were at that time in very great danger of their lives. For it was put to the question by the army at a council of war, whether they should be all massacred or no; where the noes carried it but by two voices. Lastly, March the 24th, they put the Mayor of London out of his office, fined him 2,000l., disfranchised him, and condemned him to two months imprisonment in the Tower, for refusing to proclaim the act for abolishing the kingly power. And thus ended the year 1648 and the monthly fast; God having granted that which they fasted for, the death of the King and the possession of his inheritance. By these their proceedings they had already lost the hearts of the generality of the people, and had nothing to trust to but the army; which was not in their power, but in Cromwell’s; who never failed, when there was occasion, to put them upon all exploits that might make them odious to the people, in order to his future dissolving them whensoever it should conduce to his ends.
@@ -2646,6 +5234,54 @@ I have seen them both. They are very good Latin both, and hardly to be judged wh
 A.
 
 In this year the Rump did not much at home; save that in the beginning they made England a free state by an act which runs thus: “Be it enacted and declared by this present Parliament, and by the authority thereof, that the people of England, and all the dominions and territories thereunto belonging, are, and shall be, and are hereby constituted, made, and declared a [commonwealth](/concepts/commonwealth) and free state, &c.”
+
+B.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nel resto di quest’anno decisero di emettere una nuova versione della moneta nazionale; presero inoltre in considerazione l’idea di inviare agenti negli stati stranieri. Avendo recentemente ricevuto gli elogi dell’esercito per il lavoro svolto dal Tribunale Supremo di Giustizia e incoraggiamenti ad estenderne l’attività, perfezionarono tale tribunale stesso, nel quale furono processati il Duca di Hamilton, l’Earl di Holland, Lord Capel, l’Earl di Norwich e Sir John Owen; dei quali, come ho già menzionato, i primi tre furono decapitati. Questo fatto spaventò molti sostenitori del Re e li indusse a lasciare il paese; poiché non solo loro, ma anche tutti coloro che avevano combattuto per il Re erano in grave pericolo di vita. L’esercito, infatti, durante un consiglio di guerra, pose la questione se dovessero essere tutti massacrati o meno; le votazioni risultarono favorevoli a questa soluzione solo con due voti di differenza. Infine, il 24 marzo, destituirono il Sindaco di Londra dal suo incarico, lo multarono di 2.000 sterline, gli revocarono i diritti civili e lo condannarono a due mesi di prigione nella Torre di Londra per essersi rifiutato di proclamare l’atto che aboliva il potere regale. Così terminò l’anno 1648. Dio aveva concesso loro ciò per cui avevano pregato: la morte del Re e la conquista della sua eredità. Con queste loro azioni, avevano già perso il favore della maggior parte del popolo e non potevano contare su nulla se non sull’esercito, il quale, però, non era sotto il loro controllo, ma sotto quello di Cromwell, che non esitava mai, quando necessario, a farli compiere azioni odiate dal popolo, al fine di poterli poi sciogliere non appena ciò fosse servito ai suoi scopi.
+
+All’inizio del 1649, i scozzesi, insoddisfatti delle azioni intraprese dal Rump contro il defunto re, iniziarono a reclutare soldati per un’eventuale nuova invasione dell’Inghilterra. I ribelli irlandesi, a causa della mancanza di resistenza da parte dell’Inghilterra in tempo utile, avevano preso un’importanza crescente; inoltre, l’esercito inglese, influenzato dai consiglieri del Rump, cominciò a discutere su come distribuire la terra tra coloro che si consideravano “virtuosi”, ovvero sé stessi e altre persone a loro piacimento; per questo motivo questi ultimi furono chiamati “Levellers”. Inoltre, il Rump non disponeva di sufficienti fondi, quindi la prima misura adottata fu l’imposizione di una tassa sul popolo, pari a 90.000 sterline al mese per il mantenimento dell’esercito.
+
+B.
+
+Non era forse uno dei loro dissidi con il Re il fatto che questi avesse riscosso denaro senza il consenso del popolo attraverso il Parlamento?
+
+A.
+
+Da ciò si può comprendere quale fosse il motivo per cui i sostenitori del re defunto si definivano “Parlamento”. Le tasse imposte dal Parlamento venivano sempre considerate legittime, poiché ritenute approvate dal consenso del popolo. Per placare gli scozzesi, inviarono messaggeri con lettere lusinghiose nel tentativo di impedire loro di schierarsi a favore del re attuale; ma invano: essi non erano disposti ad ascoltare alcuna proposta proveniente da quella che chiamavano “Casa dei Comuni” di Westminster, senza la presenza di un re e dei lord. Tuttavia, inviarono commissari al re per fargli sapere ciò che stavano facendo in suo nome, poiché erano decisi a radunare un esercito composto da 17.000 fanti e 6.000 cavalieri a proprio sostegno.
+
+Per alleviare le difficoltà dell’Irlanda, il Rump decise di inviare lì undici reggimenti tratti dall’esercito inglese. Questo si rivelò vantaggioso per Cromwell: i soldati, che costituivano la maggior parte di ogni reggimento, si rifiutarono categoricamente di partire, poiché invece di dividere le terre in Inghilterra avrebbero dovuto rischiare la vita in Irlanda. Un reggimento, dopo aver destituito il proprio colonnello vicino a Salisbury, si stava preparando a unirsi ad altri tre reggimenti con lo stesso atteggiamento; tuttavia, sia il generale che Cromwell li attaccarono a Burford e li sconfissero completamente, riuscendo in breve tempo a ridurre l’intero esercito alla loro obbedienza. Così, un altro ostacolo al progresso di Cromwell fu rapidamente eliminato. Dopo questo, l’esercito si diresse verso Oxford e da lì verso Londra; a Oxford, sia il generale che Cromwell furono nominati dottori in diritto civile; a Londra, ricevettero festeggiamenti e onori da parte della città stessa.
+
+B.
+
+Non furono forse prima resi padroni, e poi medici?
+
+A.
+
+Si erano già proclamati padroni sia delle leggi che del Parlamento. Ora che l’esercito era obbediente, il Rump inviò quegli undici reggimenti in Irlanda, sotto il comando di Dr. Cromwell, nominato governatore di quel regno; Lord Fairfax, intanto, rimaneva generale di tutte le forze, sia qui che là.
+
+Il Marchese, ormai Duca, di Ormond era il luogotenente reale in Irlanda; i ribelli avevano formato una confederazione tra loro e questi stessi avevano stretto un accordo con il luogotenente: in cambio della libertà di praticare la propria religione, si impegnavano a rimanere fedeli al Re e ad aiutarlo. A questa coalizione si unirono anche alcune truppe reclutate dagli Conti di Castlehaven, Clanricarde e Lord Inchiquin; così, costituivano la più potente forza unita sull’isola. Tuttavia, tra loro c’erano molti altri cattolici che rifiutavano assolutamente di sottomettersi ai protestanti; questi venivano chiamati il “partito del Nuntio”, mentre gli altri erano denominati il “partito confederato”. Poiché i due gruppi non erano d’accordo e il partito confederato aveva violato gli accordi presi, il luogotenente, vedendo che i ribelli erano pronti a assediare Dublino e non essendo in grado di difenderla, decise, al fine di salvaguardarla per i protestanti, di consegnarla al Parlamento d’Inghilterra; successivamente si unì al Re nel momento in cui questi veniva trasferito da un luogo all’altro dall’esercito. Dall’Inghilterra, il Re si recò dal Principe, che allora risiedeva a Parigi e che in seguito divenne re.
+
+Ma i congiurati, spaventati dalla notizia che il Rump stava inviando un esercito in quella zona, chiesero per iscritto al Principe di rimandare indietro mio Signore di Ormond, impegnandosi ad sottomettersi completamente all’autorità del Re e a obbedire a mio Signore di Ormond come suo luogotenente. E così fu fatto. Questo avvenne circa un anno prima dell’arrivo di Cromwell.
+
+In quel periodo, a causa delle dissensioni in Irlanda tra il partito confederato e quello del Nuntio, nonché dei disaccordi riguardo alla conduzione delle operazioni militari, un potere che altrimenti sarebbe stato sufficiente non riuscì a ottenere alcun risultato; fu infine sconfitto il 2 agosto grazie a una sortita da Dublino, che stava assediando. Pochi giorni dopo l’arrivo di Cromwell, quest’ultimo, con un impegno straordinario e attraverso esecuzioni spietate, in meno di dodici mesi riuscì a sottomettere l’intera nazione: uccise o sterminò una grande parte dei suoi abitanti, lasciando poi suo genero Ireton a completare l’opera. Tuttavia Ireton morì laggiù a causa della peste prima che le operazioni fossero del tutto concluse. Questo fu un ulteriore passo verso la salita di Cromwell al trono.
+
+B.
+
+In che misera condizione fu ridotta l’Irlanda a causa dell’apprendimento delle dottrine romane, così come l’Inghilterra a causa dell’influenza del clero presbiteriano.
+
+A.
+
+Alla fine dello scorso anno, il Re era arrivato da Parigi all’Aia; poco dopo vi giunse anche il loro agente Dorislaus, dottore in diritto civile, che aveva partecipato alla stesura delle accuse contro il defunto Re. Ma nella prima sera del suo arrivo, mentre cenava, un gruppo di circa una dozzina di cavalieri entrò nella sua stanza, lo uccise e fuggì. Poco dopo, anche il loro agente a Madrid, Ascham – colui che aveva scritto in difesa dei suoi padroni – fu ucciso nello stesso modo. Intorno a quel periodo vennero pubblicati due libri: uno scritto da Salmasius, un presbiteriano, contro l’assassinio del Re; l’altro scritto da Milton, un indipendente inglese, in risposta al primo.
+
+B.
+
+Li ho visti entrambi. Sono entrambi molto bravi nel latino, e è quasi impossibile stabilire quale dei due sia migliore; allo stesso modo, entrambi utilizzano un ragionamento molto debole, e è difficile dire quale dei due sia peggiore. Sono come due discorsi, a favore e contro, preparati soltanto per l’esercizio in una scuola di retorica da parte della stessa persona. Proprio così sono i presbiteriani rispetto agli indipendenti.
+
+A.
+
+In quest’anno il Rump non fece molto in Inghilterra; se non che all’inizio riuscì a rendere l’Inghilterra uno stato libero con un atto che recitava quanto segue: “Viene decretato e proclamato da questo Parlamento, e per sua autorità, che il popolo d’Inghilterra, nonché tutti i domini e territori ad esso appartenenti, sono, ed saranno, costituiti e dichiarati uno [stato comune](/concepts/commonwealth) e libero, ecc.”
 
 B.
 
@@ -2709,6 +5345,66 @@ Presbyterians are everywhere the same: they would fain be absolute governors of 
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cosa intendevano con lo stato libero e la [comunità](/concepts/commonwealth)? Volevano forse dire che le persone non dovessero più essere soggette alle leggi? Non poteva essere questo il loro significato: infatti, il Parlamento aveva l’intento di governarle con le loro stesse leggi e di punire coloro che le violavano. Forse volevano dire che l’Inghilterra non dovesse essere sottoposta a nessun regno o comunità straniera? Ma questo non richiedeva alcuna normativa particolare, visto che non esisteva re né popolo che si proclamasse loro padrone. Allora, cosa intendevano davvero?
+
+A.
+
+Volevano dire che né questo re, né alcun altro re, né alcuna singola persona, ma soltanto loro stessi sarebbero stati i padroni del popolo; e avrebbero espresso questo concetto in parole chiare e semplici, se il popolo potesse essere ingannato con parole comprensibili, altrettanto facilmente quanto con parole incomprensibili.
+
+Dopo ciò, si scambiarono denaro e beni provenienti dalle proprietà del partito leale. Inoltre, stipularono un impegno che ogni uomo doveva assumere, nelle seguenti parole: “Prometterete di essere fedeli e devoti alla repubblica d’Inghilterra, così come è attualmente organizzata, senza re né Camera dei Lord”.
+
+Esiliarono inoltre tutta la famiglia reale entro un raggio di venti miglia da Londra, vietando loro di allontanarsi per più di cinque miglia dalla propria residenza.
+
+B.
+
+Forse intendevano averli pronti, nel caso fosse stato necessario, per un massacro. Ma cosa facevano gli scozzesi in quel periodo?
+
+A.
+
+Stavano considerando come potessero escludere dall’incarico di comando tutti coloro che avevano servito fedelmente il padre del re, nonché tutti gli Indipendenti e quanti avevano comandato nell’esercito del Duca Hamilton; queste erano le principali questioni dibattute quell’anno.
+
+Il Marchese di Montrose, che nel 1645, con pochi uomini e in poco tempo, aveva compiuto imprese quasi incredibili contro i nemici del defunto re in Scozia, sbarcò nuovamente all’inizio del 1650 nel nord della Scozia, incaricato dal re attuale, nella speranza di rendergli lo stesso servizio che aveva reso a suo padre. Tuttavia le circostanze erano cambiate: le forze scozzesi si trovavano allora in Inghilterra al servizio del Parlamento, mentre ora erano in Scozia e molte altre truppe erano state appena reclutate per l’invasione prevista. Inoltre, i soldati che il Marchese aveva portato con sé erano pochi e stranieri; gli Highlanders non si unirono a lui come si aspettava, e così fu presto sconfitto, catturato e, con trattamenti più crudeli del necessario per una semplice vendetta, giustiziato dai Covenanters di Edimburgo il 2 maggio.
+
+B.
+
+Che vantaggio avrebbe potuto trarre il Re unendosi a queste persone, che durante la stipulazione del trattato avevano dimostrato verso di lui tanta malvagità, persino nei confronti di uno dei suoi migliori servitori?
+
+A.
+
+Senza dubbio, se i loro ecclesiastici fossero stati allora al potere, avrebbero fatto verso questo Re ciò che il Parlamento inglese aveva fatto verso suo padre: se solo fossero riusciti a ottenere ciò a cui stupidamente aspiravano, cioè il controllo del governo del paese. Non credo che gli Indipendenti fossero peggiori dei Presbiteriani: entrambi erano decisi a distruggere qualsiasi cosa potesse ostacolare le loro ambizioni. Ma la necessità costrinse il Re ad accettare queste e molte altre umiliazioni da parte loro, piuttosto che permettere che il suo diritto in Inghilterra venisse compromesso o addirittura estinto.
+
+B.
+
+Credo davvero che un regno, se lasciato trasformarsi in un vecchio debito, difficilmente possa mai essere recuperato. Inoltre, il Re era certo che, ovunque la vittoria lo portasse, non avrebbe perso nulla in quella guerra se non nemici.
+
+A.
+
+Intorno al momento della morte di Montrose, avvenuta a maggio, Cromwell si trovava ancora in Irlanda e il suo compito non era ancora terminato. Tuttavia, rendendosi conto – o venendo informato dai suoi amici – che la sua presenza nell’esercito che stava per essere inviato contro gli scozzesi fosse necessaria per realizzare i suoi piani, inviò un messaggio al Rump per chiedere il loro parere riguardo al suo ritorno. Nonostante ciò, ritenne inutile attendere la risposta e partì, arrivando a Londra il 6 giugno seguente; fu accolto con favore dal Rump. Il generale Fairfax, che era davvero ciò che fingeva di essere, cioè un presbiteriano, era stato così influenzato dai ministri presbiteriani locali da rifiutarsi di combattere contro i suoi connazionali in Scozia; né il Rump né Cromwell cercarono di far cambiare idea a Fairfax su questo punto. Così, dopo che Fairfax rassegnò le sue dimissioni, Cromwell divenne il comandante di tutte le forze in Inghilterra e Irlanda: un altro passo verso il potere assoluto.
+
+B.
+
+Dove era il Re?
+
+A.
+
+In Scozia, appena arrivato. Sbarcò nel nord e fu onorevolmente accompagnato a Edimburgo, anche se non tutto era ancora stato concordato tra gli scozzesi e lui. Poiché aveva accettato condizioni altrettanto dure di quelle che il defunto re aveva accettato sull’Isola di Wight, gli scozzesi vollero comunque aggiungere alcune ulteriori richieste; quando il re, non potendone più sopportare, decise di allontanarsi nuovamente verso nord, loro inviarono messaggeri per pregarlo di tornare, fornendo loro anche le forze necessarie per ricondurlo indietro qualora avesse rifiutato. Alla fine raggiunsero un accordo; tuttavia non permisero né al re né a nessun realista di assumere il comando dell’esercito.
+
+B.
+
+In sostanza, il Re era lì come prigioniero.
+
+A.
+
+Cromwell di Berwick invia una dichiarazione agli scozzesi, nella quale afferma di non avere alcun rancore contro il popolo della Scozia, ma soltanto contro la fazione malvagia che aveva portato il Re in Scozia, causando così turbamenti nella pace tra le due nazioni; dichiara inoltre di essere disposto a cercare una soluzione attraverso negoziati o, in alternativa, a decidere la giustizia della questione con la battaglia. Gli scozzesi rispondono dichiarando che non intenderanno proseguire nella difesa degli interessi del Re se questi non riconoscerà i peccati della sua famiglia e le sue precedenti azioni, né fornirà soddisfazione al popolo di Dio in entrambi i regni. Giudicate voi stessi: il presente Re non si trova forse in una situazione altrettanto difficile quanto suo padre nelle mani dei presbiteriani d’Inghilterra?
+
+B.
+
+I presbiteriani sono uguali ovunque: desiderano ardentemente essere i governanti assoluti di tutte le persone con cui interagiscono; e non hanno alcuna giustificazione per farlo, se non che là dove loro regnano, è Dio a regnare, e in nessun altro luogo. Tuttavia noto una richiesta strana: che il re debba riconoscere i peccati della sua famiglia; poiché credevo fosse universalmente riconosciuto da tutti gli studiosi religiosi che nessuno è obbligato a riconoscere i peccati altrui se non i propri.
+
+A.
+
 <span class="atom-split" data-atom="045" data-title="PART IV. (parte 4)" data-chapter="PART IV." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 The King having yielded to all that the Church required, the Scots proceeded in their intended war. Cromwell marched on to Edinburgh, provoking them all he could to battle; which they declining, and provisions growing scarce in the English army, Cromwell retired to Dunbar, despairing of success; and intending by sea or land to get back into England. And such was the condition which this general Cromwell, so much magnified for conduct, had brought his army to, that all his glories had ended in shame and punishment, if fortune and the faults of his enemies had not relieved him. For as he retired, the Scots followed him close all the way till within a mile of Dunbar. There is a ridge of hills, that from beyond Edinburgh goes winding to the sea, and crosses the highway between Dunbar and Berwick, at a village called Copperspeith, where the passage is so difficult, that had the Scots sent timely thither a very few men to guard it, the English could never have gotten home. For the Scots kept the hills, and needed not have fought but upon great advantage, and were almost two to one. Cromwell’s army was at the foot of those hills, on the north side; and there was a great ditch or channel of a torrent between the hills and it; so that he could never have got home by land, nor without utter ruin of the army attempted to ship it; nor have stayed where he was, for want of provisions. Now Cromwell knowing the pass was free, and commanding a good party of horse and foot to possess it, it was necessary for the Scots to let them go, whom they bragged they had impounded, or else to fight; and therefore with the best of their horse they charged the English, and made them at first shrink a little. But the English foot coming on, the Scots were put to flight; and the flight of the horse hindered the foot from engaging; who therefore fled, as did also the rest of their horse. Thus the folly of the Scottish commanders brought all their odds to an even lay between two small and equal parties; wherein fortune gave the victory to the English, who were not many more in number than those that were killed and taken prisoners of the Scots; and the Church lost their cannon, bag and baggage, with 10,000 arms, and almost their whole army. The rest were got together by Lesley to Stirling.
@@ -2768,6 +5464,68 @@ Night coming on, before the city was quite taken he left it; it being dark and n
 B.
 
 When Cromwell was gone, what was further done in Scotland?
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo che il Re aveva acconsentito a tutte le richieste della Chiesa, gli scozzesi proseguirono nella guerra che avevano pianificato. Cromwell marciò verso Edimburgo, provocandoli in ogni modo possibile affinché combattessero; poiché essi rifiutarono di farlo e le provviste nell’esercito inglese iniziarono a scarseggiare, Cromwell si ritirò a Dunbar, disperando di ottenere successo, e decise di tentare di tornare in Inghilterra via mare o via terra. Ecco in quale condizione era finito questo generale Cromwell, tanto lodato per le sue capacità militari: tutte le sue glorie si erano trasformate in vergogna e punizione, se non fosse stato per la fortuna e gli errori dei suoi nemici. Mentre si ritirava, gli scozzesi lo seguirono da vicino, fino a meno di un miglio da Dunbar. C’era una catena di colline che, partendo da Edimburgo, si snodava verso il mare e attraversava la strada principale tra Dunbar e Berwick, in prossimità di un villaggio chiamato Copperspeith; quel passo era così difficile da difendere che, se gli scozzesi avessero inviato in tempo pochi uomini a presiederlo, gli inglesi non sarebbero mai riusciti a tornare indietro. Gli scozzesi controllavano quelle colline e avrebbero potuto combattere solo in condizioni di grande vantaggio, essendo quasi due contro uno. L’esercito di Cromwell si trovava ai piedi di quelle colline, sul lato nord; tra queste e il versante opposto c’era un profondo fossato formato da un corso d’acqua; quindi gli inglesi non avrebbero potuto tornare in Inghilterra via terra, né avrebbero potuto tentare di farlo via mare senza subire gravi perdite. Ora che Cromwell si rese conto che quel passo era libero, ordinò di inviare un forte contingente di cavalleria e fanteria per occuparlo; gli scozzesi, vantandosi di averli catturati, dovettero lasciarli passare o combattere. Così, con la loro migliore cavalleria, attaccarono gli inglesi, costringendoli in un primo momento a ritirarsi. Ma quando arrivò la fanteria inglese, gli scozzesi furono costretti alla fuga; la fuga della cavalleria impedì alla fanteria di contrattaccare. E così anche il resto della loro cavalleria fu costretto a fuggire. La follia dei comandanti scozzesi portò quindi a una situazione in cui tutte le loro possibilità di vittoria si annullarono di fronte a due piccoli eserciti uguali tra loro; la fortuna, però, diede la vittoria agli inglesi, i quali non erano numericamente molto superiori a quelli che furono uccisi o catturati dagli scozzesi. La Chiesa perse i suoi cannoni, le provviste e quasi tutto il suo esercito. Gli altri sopravvissuti si radunarono sotto il comando di Lesley a Stirling.
+
+B.
+
+Questa vittoria fu molto vantaggiosa per il Re. Infatti, se gli scozzesi fossero stati i vincitori, i presbiteriani, sia qui che altrove, avrebbero di nuovo dominato, e il Re si sarebbe trovato nella stessa situazione in cui suo padre era a Newcastle, nelle mani dell’esercito scozzese. Poiché, nell’ambito della ricerca di questa vittoria, gli inglesi riuscirono finalmente a indurre gli scozzesi ad assumere un atteggiamento di obbedienza verso il Re, qualora questi avesse ripreso i propri diritti.
+
+A.
+
+Nella ricerca di questa vittoria, gli inglesi marciarono verso Edimburgo (abbandonata dagli scozzesi), fortificarono Leith e assunsero sotto il loro controllo tutte le forze militari e i castelli che ritennero opportuni situati al di qua del fiume Forth, che ormai costituiva il confine tra le due nazioni. Gli ecclesiastici scozzesi iniziarono a rendersi conto della loro reale posizione e decisero, nel nuovo esercito che intendevano formare, di ammettere alcuni realisti al comando. Cromwell, da Edimburgo, marciò verso Stirling per provocare il nemico a combattere, ma, avvertendo dei pericoli, tornò ad Edimburgo e assediò il castello. Nel frattempo inviò truppe nel Galles del Sud per sconfiggere Strachan e Kerr, due importanti presbiteriani che stavano radunando forze per il loro nuovo esercito. Nello stesso periodo, gli scozzesi incoronarono il Re a Scone.
+
+Il resto di quest’anno fu trascorso in Scozia: da parte di Cromwell, con l’assalto al Castello di Edimburgo e i tentativi di attraversare il fiume Frith o altri mezzi per raggiungere le forze scozzesi; da parte degli scozzesi, con l’accelerazione dei preparativi per la spedizione verso il nord.
+
+B.
+
+Cosa faceva il “Rump” a casa in questo periodo?
+
+A.
+
+Concedettero ai settari la [libertà di coscienza](/positions/liberty_of_conscience); in altre parole, eliminarono l’aspetto più oppressivo del Presbiterianesimo, che consisteva nell’imporre con forza opinioni strane al popolo, opinioni irrilevanti per la religione ma utili per rafforzare il potere dei ministri presbiteriani. Inoltre reclutarono più soldati e ne affidarono il comando a Harrison, ormai promosso maggior generale e sostenitore del Movimento della Quinta Monarchia; due reggimenti di cavalleria e uno di fanteria furono formati proprio da questi militanti e da altri settari, in segno di gratitudine per la libertà ottenuta dalla tirannia presbiteriana. Inoltre abbatterono la statua del defunto re nell’Exchange e fecero scrivere nella nicchia in cui si trovava queste parole: “Vada via il tiranno, l’ultimo dei re, ”.
+
+B.
+
+A che scopo gli è servito tutto ciò, e perché non hanno abbattuto anche le statue di tutti gli altri re?
+
+A.
+
+Come si possono spiegare azioni che non derivano dalla ragione, ma dall’odio e da altre passioni simili? Inoltre, ricevettero ambasciatori dal Portogallo e dalla Spagna che riconoscevano il loro potere. Alla fine dell’anno inviarono ancora degli ambasciatori nei Paesi Bassi per offrire loro la propria [amicizia](/concepts/friendship). Tutto ciò che fecero, inoltre, fu perseguitare ed eseguire i realisti.
+
+All’inizio dell’anno 1651 il generale Dean arrivò in Scozia; l’11 aprile il Parlamento scozzese si riunì e adottò alcune misure al fine di rafforzare la propria unità e migliorare l’obbedienza verso il Re, che in quel momento si trovava a Stirling con le truppe scozzesi a sua disposizione, in attesa di ulteriori rinforzi. Cromwell, da Edimburgo, si recò più volte verso Stirling nel tentativo di provocare gli scozzesi ad attaccare. Non esisteva alcun punto di attraversamento per le truppe inglesi; alla fine, grazie all’arrivo di imbarcazioni provenienti da Londra e Newcastle, il colonnello Overton trasportò 1.400 fanti dei propri reggimenti, oltre a un altro reggimento di fanteria e quattro unità di cavalleria, e si attestò a Northferry sull’altra riva del fiume. Prima che potesse arrivare alcun aiuto da Stirling, anche il maggior generale Lambert attraversò il fiume con ulteriori truppe. A quel punto sir John Browne giunse sul campo con 4.500 uomini; gli inglesi lo sconfissero, uccidendo circa 2.000 nemici e catturando 1.600 prigionieri. Dopo aver trasportato altre truppe secondo le necessità, Cromwell si avvicinò a St. Johnstone (dove il Parlamento scozzese, appresa la notizia del suo arrivo, si era trasferito a Dundee) e ne chiese l’apertura alle sue forze; lo stesso giorno ricevette la notizia che il Re stava marciando verso l’Inghilterra. Il che era vero. Tuttavia, nonostante il Re fosse a tre giorni di distanza, Cromwell decise di conquistare la città prima di inseguirlo e ci riuscì il giorno seguente attraverso la resa delle truppe nemiche.
+
+B.
+
+Quali speranze poteva avere il Re entrando in Inghilterra, avendo davanti a sé e dietro di sé nessuno, almeno nessuno armato, se non i suoi nemici?
+
+A.
+
+Sì; davanti a lui c’era la città di Londra, che in generale odiava il “Rump” e che poteva essere considerata come composta da 20.000 soldati ben armati; inoltre, la maggior parte delle persone credeva che si schierassero dalla sua parte se lui fosse arrivato vicino alla città.
+
+B.
+
+Qual era la probabilità che ciò accadesse? Pensi davvero che il Rump non fosse sicuro dei servizi resi dal sindaco e da coloro che comandavano la milizia cittadina? E se davvero fossero stati amici del Re, per quale motivo avrebbero dovuto aspettare il suo arrivo a Londra? Avrebbero potuto facilmente prendere il controllo della situazione, poiché il Rump non aveva alcuna possibilità di difendersi; almeno avrebbero potuto farli uscire dalla Camera.
+
+A.
+
+Non fecero questo; anzi, permisero il reclutamento dell’esercito di Cromwell e la raccolta di truppe al fine di impedire che il paese tornasse sotto il controllo del Re. Il Re iniziò la sua marcia da Stirling alla fine di luglio e il 22 agosto arrivò a Worcester passando per Carlisle, con un esercito stanco e composto da circa 13.000 uomini. Cromwell lo seguì e, unitosi alle nuove truppe reclutate, circondò Worcester con un esercito di 40.000 uomini; il 3 settembre sconfisse completamente l’esercito del Re. In questa battaglia fu ucciso il Duca Hamilton, fratello di colui che era stato decapitato.
+
+B.
+
+Che fine ha fatto il Re?
+
+A.
+
+La notte stava calando; prima che la città fosse completamente presa, egli la lasciò. Poiché era buio e non c’erano cavalli nemici all’interno della città per inseguirlo, i soldati a piedi avevano tenuto chiuse le porte, per impedire ai cavalli di entrare e partecipare al saccheggio. Prima dell’alba, il re raggiunse Warwickshire, a venticinque miglia da Worcester; lì si nascose sotto mentite spoglie per un po’, poi continuò il suo viaggio esponendosi a grandi rischi di essere scoperto, fino a quando finalmente riuscì a entrare in Francia, passando da Brighthelmstone nel Sussex.
+
+B.
+
+Dopo la partenza di Cromwell, cosa avvenne ulteriormente in Scozia?
 
 A.
 
@@ -2841,6 +5599,76 @@ That I think indeed was harsh.
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il tenente generale Monk, che Cromwell aveva lasciato lì con 7.000 uomini, prese Stirling il 14 agosto attraverso la resa della città, e Dundee il 3 settembre dopo un assalto, poiché questa resisteva all’attacco. Gli soldati saccheggiarono la città e ottennero un gran bottino, poiché gli scozzesi, per motivi di sicurezza, avevano trasferito lì i loro beni più preziosi provenienti da Edimburgo e St. Johnstone. Monk prese anche Aberdeen e St. Andrews, dove i ministri scozzesi avevano iniziato a comportarsi in modo ridicolo. Nelle Highlands, il colonnello Alured catturò un gruppo di nobili e cavalieri, compresi quattro conti, altri quattro lord e oltre venti cavalieri, che inviò prigionieri in Inghilterra. Così non rimase più nulla da temere dalla Scozia: l’unica difficoltà per il “Rump” consisteva nel decidere cosa fare con quel paese. Alla fine decisero di unirlo e incorporarlo in un unico [stato](/concepts/commonwealth) insieme a Inghilterra e Irlanda. A tale scopo inviarono St. John, Vane e altri commissari per proporgli questa unione attraverso una dichiarazione pubblica, e per esortarli a scegliere i propri delegati tra i nobili delle contee e i cittadini delle città, affinché questi fossero inviati a Westminster.
+
+B.
+
+Si trattava di un grande favore.
+
+A.
+
+Credo di sì. Eppure fu rifiutato da molti scozzesi, soprattutto dai ministri e dagli altri presbiteriani. I ministri avevano acconsentito alla raccolta di fondi per il pagamento dei soldati inglesi; ma per rispettare le disposizioni dei commissari inglesi, lo proibirono categoricamente.
+
+B.
+
+Penso che il fatto di contribuire al pagamento dei loro conquistatori rappresentasse una sorta di schiavitù; invece, entrando a far parte di questa unione, divennero liberi e ottennero gli stessi diritti degli inglesi.
+
+A.
+
+Il motivo per cui rifiutarono l’unione, espresso dai presbiteriani stessi, era questo: essa implicava una sottomissione della Chiesa allo stato civile nelle questioni relative a Cristo.
+
+B.
+
+Questa è una dichiarazione esplicita a tutti i re e alle nazioni in generale: un ministro presbiteriano non sarà mai un vero suddito di nessuno di loro nelle questioni relative a Cristo; e chiunque sia il contenuto di tali questioni, saranno proprio questi ministri a giudicarlo. Che cosa abbiamo ottenuto dunque liberandoci dalla tirannia del Papa, se al suo posto subentrano queste persone insignificanti, le quali non possiedono nulla che possa essere benefico per il pubblico, se non il loro silenzio? Per quanto riguarda la loro cultura, essa si riduce a una conoscenza imperfetta del greco e del latino, nonché a una certa dimestichezza con il linguaggio delle [Scritture](/concepts/revelation), accompagnata da gesti e toni appropriati; ma per quanto riguarda la giustizia e la [carità](/concepts/charity), così come i comportamenti religiosi, essi non possiedono né conoscenza né pratica di tali valori, come è evidente dalle storie che vi ho già raccontato. Inoltre, non sanno distinguere tra i fedeli e gli infedeli se non in base alla conformità dei loro intenti da parte delle persone giudiziose, o al fatto che ripetano le loro prediche tra la gente comune.
+
+A.
+
+Ma questa malinconia degli scozzesi non portò a nulla. Poiché a Westminster fu decretata l’unione delle due nazioni e l’abolizione della monarchia in Scozia; inoltre furono stabilite punizioni per coloro che avessero violato tale decreto.
+
+B.
+
+Quali altre attività ha svolto il “Rump” quest’anno?
+
+A.
+
+Inviarono San Giovanni e Strickland come ambasciatori ad L’Aia per offrire un’alleanza alle Province Unite; ebbero un incontro il 3 marzo. San Giovanni, nel suo discorso, spiegò a quegli stati quali vantaggi potessero trarre da tale alleanza in termini di commercio e navigazione, grazie all’utilizzo dei porti inglesi. I olandesi, sebbene non mostrassero grande entusiasmo per l’idea, nominarono comunque commissari per trattare con loro sull’argomento. Tuttavia la popolazione era in generale contraria a questa proposta, definendo gli ambasciatori e i loro seguaci traditori e assassini; scatenò talmente grandi disordini intorno alle loro residenze che i loro sostenitori non osarono uscire fino a quando le autorità non ristabilirono l’ordine. Il Parlamento, informato di ciò, li richiamò immediatamente. Il complimento che San Giovanni rivolse ai commissari al momento della loro partenza merita sicuramente di essere ascoltato: “Voi, disse, tenete d’occhio lo sviluppo degli eventi in Scozia e per questo rifiutate l’[amicizia](/concepts/friendship) che vi abbiamo offerto. Ora posso assicurarvi che molti nel Parlamento erano dell’opinione che non avremmo dovuto inviare ambasciatori fino a quando non avessimo risolto quegli problemi con quel re, e solo allora aspettare l’arrivo dei vostri ambasciatori da noi. Ora mi rendo conto del nostro errore: quei signori avevano ragione. Tra poco vedrete quella questione risolta; e allora verrete a cercare ciò che vi abbiamo offerto liberamente, quando vi renderete conto di aver rifiutato un’opportunità preziosa”.
+
+B.
+
+San Giovanni non era certo che le cose in Scozia finissero in quel modo. Poiché gli scozzesi erano stati sconfitti a Dunbar, non poteva prevedere con certezza cosa sarebbe accaduto se fossero entrati in Inghilterra, come infatti avvenne in seguito.
+
+A.
+
+Ma aveva indovinato bene: infatti, entro un mese dalla battaglia di Worcester, fu approvata una legge che vietava l’importazione di merci tramite navi diverse da quelle inglesi. Gli inglesi disturbarono inoltre la nostra attività di pesca lungo le nostre coste; in molte occasioni perquisirono le nostre navi (soprattutto durante la guerra con la Francia) e ne sequestrarono alcune. A quel punto, i olandesi inviarono i loro ambasciatori per chiedere ciò che prima avevano rifiutato; in parte anche per informarsi sulle forze navali disponibili degli inglesi e su come il popolo qui fosse soddisfatto del governo attuale.
+
+B.
+
+Quanto velocemente si sono mossi?
+
+A.
+
+Il governo olandese mostrava ora lo stesso scarso desiderio di accordo del governo inglese in quel momento; insisteva su condizioni che era improbabile sarebbero state accettate. Primo: per quanto riguardava la pesca sulle coste inglesi, volevano che venisse consentita solo a condizione di pagare un corrispettivo. Secondo: gli inglesi dovevano avere libero scambio da Middleburgh ad Anversa, esattamente come avveniva prima della loro ribellione contro il Re di Spagna. Terzo: chiedevano riparazioni per l’antico e mai dimenticato incidente di Amboyna. Così, la guerra era ormai inevitabile, anche se le condizioni meteorologiche impedirono lo scatenamento dei combattimenti fino alla primavera successiva. Il vero motivo della disputa, da parte inglese, era il disprezzo per l’amicizia offerta e gli insulti subiti dai loro ambasciatori; da parte olandese, invece, c’era la sete di monopolizzare tutto il commercio e una valutazione errata delle nostre risorse e delle loro stesse forze.
+
+Mentre queste operazioni venivano svolte, i resti della guerra, sia in Irlanda che in Scozia, non furono trascurati; tuttavia quelle nazioni furono completamente pacificate solo due anni dopo. La persecuzione dei realisti continuò anche in seguito: tra questi, un certo signor Love fu decapitato per aver mantenuto corrispondenza con il Re.
+
+B.
+
+Pensavo che un ministro presbiteriano, nella sua veste di tale, non potesse essere un realista, poiché essi ritengono che la loro assemblea abbia il potere supremo nelle questioni relative a Cristo; e di conseguenza, in Inghilterra, secondo una legge specifica, vengono considerati traditori.
+
+A.
+
+Potreste ancora pensarla così: perché, anche se ho definito il signor Love un realista, l’ho fatto soltanto per quell’unica azione per cui fu condannato. Fu lui, infatti, durante i negoziati di Uxbridge, mentre predicava davanti ai commissari presenti, a dichiarare che era altrettanto improbabile che il cielo e l’inferno concordassero quanto che il Re e il Parlamento potessero arrivare a un accordo. Sia lui che gli altri presbiteriani furono sempre nemici degli nemici del Re, ovvero di Cromwell e dei suoi fanatici, per motivi personali e non per il bene del Re stesso. La loro lealtà era simile a quella di Sir John Hotham: quel lealismo che impedì al Re di entrare in Hull, ma che in seguito avrebbe potuto tradirlo a favore del Marchese di Newcastle. Pertanto, questi presbiteriani non possono essere definiti veramente leali, bensì doppiamente perfidi, a meno che non si ritenga che due azioni traditorie possano, in qualche modo, equivalere a un atto di lealtà.
+
+Anche quest’anno le isole di Scilly, Man, Barbados e San Cristoforo furono costrette ad obbedire al governo di Rump. Tuttavia accadde qualcosa che non piacque loro: Cromwell infatti li avvertì di stabilire la frequenza dei loro parlamenti secondo il disegno di legge che prevedeva la convocazione triennale degli stessi.
+
+B.
+
+Penso davvero che fosse troppo duro.
+
+A.
+
 <span class="atom-split" data-atom="047" data-title="PART IV. (parte 6)" data-chapter="PART IV." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 In the year 1652, May the 14th, began the Dutch war, in this manner. Three Dutch men-of-war, with divers merchants from the straights, being discovered by one Captain Young, who commanded some English frigates, the said Young sent to their admiral to bid him strike his flag, a thing usually done in acknowledgment of the English dominion in the narrow seas; which accordingly he did. Then came up the vice-admiral, and being called to as the other was, to take down his flag, he answered plainly he would not: but after the exchange of four or five broadsides and mischief done on either part, he took it down. But Captain Young demanded also, either the vice-admiral himself or his ship to make good the damage already sustained; to which the vice-admiral answered that he had taken in his flag, but would defend himself and his ship. Whereupon Captain Young consulting with the captains of his other ships, lest the beginning of the war in this time of treaty should be charged upon himself, and night also coming on, thought fit to proceed no further.
@@ -2904,6 +5732,72 @@ In the meantime the army in Ireland was taking submissions, and granting transpo
 B.
 
 Come we then to the year 1653.
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il 14 maggio 1652 ebbe inizio la guerra olandese in questo modo: tre navi da guerra olandesi, insieme a diversi mercanti delle acque di quei mari, furono avvistate dal capitano Young, comandante di alcune fregate inglesi. Quest’ultimo inviò un messaggio al loro ammiraglio, chiedendogli di ammainare la bandiera, cosa solitamente fatta in segno di riconoscimento del dominio inglese nelle acque strette; l’ammiraglio obbedì. Poi arrivò il viceammiraglio e, quando anche a lui fu chiesto di ammainare la bandiera, rispose chiaramente che non lo avrebbe fatto. Dopo uno scambio di colpi d’artiglieria da entrambe le parti e diversi danni causati, il viceammiraglio alla fine ammainò la bandiera. Tuttavia, il capitano Young chiese che fosse il viceammiraglio stesso o la sua nave a risarcire i danni subiti; al che il viceammiraglio rispose di aver ammainato la bandiera, ma di essere disposto a difendersi e a proteggere la propria nave. Alla fine, il capitano Young, dopo aver consultato gli altri comandanti delle sue navi, temendo che l’inizio della guerra in un momento di trattati potesse essere attribuito a lui, e considerando anche l’avvicinarsi della notte, decise di non procedere oltre.
+
+B.
+
+La guerra certamente iniziò in questo momento. Ma chi la iniziò?
+
+A.
+
+Il dominio dei mari appartenente agli inglesi: non vi può essere dubbio che siano stati i olandesi ad averne avviato l’espansione; e che tale dominio appartenesse effettivamente agli inglesi, fu ammesso fin dall’inizio dallo stesso ammiraglio in modo pacifico, e infine anche dal viceammiraglio, che fece issare le loro bandiere.
+
+Circa quindici giorni dopo, ebbe luogo un altro scontro per le stesse ragioni. Van Tromp, con quarantadue navi da guerra, si diresse verso la zona delle Goodwin Sands; in quel momento, il maggiore Bourne si trovava con alcune navi del Parlamento nelle vicinanze delle Downs, mentre Blake era più a ovest con il resto della flotta. Van Tromp inviò due dei suoi capitani da Bourne per giustificare la propria presenza in quella zona; Bourne rispose che il messaggio era cortese, ma che, affinché sembrasse autentico, avrebbe dovuto allontanarsi. Così Van Tromp partì, intendendo, ora che Bourne era stato placato, dirigersi verso Blake; fece ciò, ma anche Bourne lo seguì, temendo il peggio. Quando Van Tromp e Blake furono vicini l’uno all’altro, Blake sparò un colpo contro la nave di Van Tromp come avvertimento affinché ammainasse la bandiera; fece ciò per tre volte, dopodiché Van Tromp gli rispose con un cannoneggiamento. Così iniziò lo scontro, che durò dalle due del pomeriggio fino a tarda notte: gli inglesi ebbero la meglio e, come prima, fu la bandiera ad essere il motivo scatenante della disputa.
+
+B.
+
+A che serve, dunque, quando entrambe le nazioni sono fermamente decise a combattere, discutere così tanto su chi debba iniziare il conflitto? Per quanto riguarda l’acquisizione di amici e alleati attraverso queste discussioni, penso che sia tutto inutile; infatti, in simili circostanze, principi e stati non tengono molto conto della giustizia dei loro vicini, ma soltanto dei propri interessi nel risultato finale.
+
+A.
+
+È comunemente così; ma in questo caso, i Olandesi, sapendo che il dominio dei mari ristretti era considerato un titolo prestigioso e invidiato da tutte le nazioni che si affacciavano su tali acque, e quindi prevedendo che potessero opporsi a tale dominio, agirono saggiamente facendo di questo punto l’oggetto principale della loro disputa. Dopo questa battaglia, gli ambasciatori olandesi residenti in Inghilterra inviarono al Consiglio di [Stato](/concepts/state) un documento nel quale definivano quest’ultima azione avventata e affermavano che fosse stata compiuta senza il consenso e contro la volontà dei loro sovrani, i Paesi Bassi. Chiedevano inoltre che non venissero prese alcune misure impulsive che potessero rivelarsi irreparabili. Di conseguenza, il Parlamento inglese votò: 1. Che i Paesi Bassi dovessero coprire le spese sostenute e i danni subiti in questa occasione; 2. Che, una volta tali spese e danni ripagati, venissero interrotti tutti gli atti di ostilità e restituiti reciprocamente tutte le navi e i beni sequestrati; 3. Inoltre, si decise di stipulare un trattato d’alleanza tra le due nazioni. Queste decisioni furono inviate agli ambasciatori olandesi in risposta al loro documento, ma con un preambolo che ricordava i precedenti favori dell’Inghilterra nei confronti dei Paesi Bassi e menzionava la loro nuova flotta composta da 150 navi da guerra, senza alcun altro scopo apparente se non quello di distruggere la flotta inglese.
+
+B.
+
+Qual fu la risposta dei Paesi Bassi a questo?
+
+A.
+
+Nessuno. Van Tromp salpò subito per la Zelanda, mentre Blake, con settanta navi da guerra, si diresse verso le Isole Orcadi per confiscare le loro imbarcazioni e attendere l’arrivo di cinque navi olandesi provenienti dalle Indie Orientali. Sir George Askew, appena rientrato dalle Barbados, giunse nelle acque del Downs con quindici navi da guerra; gli fu ordinato di rimanere lì in attesa di reclute provenienti dal Tamigi.
+
+Van Tromp, reclutato con una flotta di 120 navi, cercò di interporre sich tra Sir George Askew e l’imboccatura del fiume, ma fu ostacolato per molto tempo da venti contrari; pertanto, non potendo più attendere gli ordini dei mercanti che richiedevano il suo aiuto, tornò in Olanda e da lì a Orkney, dove incontrò le suddette cinque navi delle Indie Orientali e le riportò a casa. In seguito tentò di allearsi con Blake, ma una tempesta improvvisa lo costrinse a salpare; di conseguenza, solo quarantadue navi riuscirono a tornare insieme, mentre il resto fece ritorno singolarmente, ove poté. Anche Blake tornò in patria (ma prima si recò sulla costa olandese), portando con sé 900 prigionieri e sei navi da guerra catturate; queste facevano parte di dodici navi che aveva scoperto e preso mentre sorvegliavano le loro flotte. Questo fu il primo scontro avvenuto dopo la dichiarazione di guerra.
+
+Nel mese di agosto successivo ebbe luogo uno scontro tra De Ruyter, l’ammiraglio della Zelanda con cinquanta navi da guerra, e Sir George Askew vicino a Plymouth, che disponeva di quaranta navi; in questa battaglia Sir George ottenne la vittoria, e avrebbe potuto conseguirla definitivamente se l’intera flotta fosse entrata in azione. Comunque sia andata, il Parlamento, pur premiandolo, non lo utilizzò più dopo il suo ritorno al servizio navale; anzi, per l’anno successivo votò per la nomina di tre generali: Blake, che ne era già uno, e Dean e Monk.
+
+Intorno a questo periodo, l’arciduca Leopoldo assediava Dunkerque; i francesi inviarono una flotta per liberarla. Il generale Blake attaccò la flotta francese a Calais e ne catturò sette navi, il che portò alla resa della città.
+
+Nel settembre combatterono di nuovo: De Witt e De Ruyter comandavano le forze olandesi, mentre Blake quelle inglesi; e gli olandesi furono nuovamente sconfitti.
+
+Ancora una volta, alla fine di novembre, Van Tromp con ottanta navi da guerra si presentò al largo delle Goodwin Sands; lì Blake, pur avendo con sé soltanto quaranta navi, osò affrontarlo in battaglia e ne uscì sconfitto. Separatisi durante la notte, si ritirarono nel fiume Tamigi; intanto Van Tromp, controllando il mare, catturò alcune imbarcazioni inglesi di scarso valore. Si dice che, in seguito a questo successo, espose una scopa sulla sua nave, simboleggiando l’intenzione di “spazzare via” tutte le navi inglesi dai mari.
+
+In seguito, a febbraio, i olandesi, sotto il comando di Van Tromp, furono scontrati dagli inglesi comandati da Blake e Dean vicino a Portsmouth e subirono una pesante sconfitta. Questi furono tutti gli scontri tra loro in quell’anno nelle acque costiere ristrette. Combatterono anche una volta a Livorno, dove i olandesi ebbero la meglio.
+
+B.
+
+Non vedo ancora grandi probabilità da nessuna delle due parti; se ce ne fossero, sarebbero a favore degli inglesi.
+
+A.
+
+Nessuno dei due era particolarmente propenso alla pace. Gli olandesi, dopo aver inviato ambasciatori in Danimarca, Svezia, Polonia e nelle città hanseatiche da cui di solito si procuravano catrame e cordami, per annunciare la dichiarazione di guerra e convincerle a schierarsi dalla loro parte, richiamarono immediatamente i propri ambasciatori dall’Inghilterra. Il Rump, senza indugio, li ricevette in udienza, senza modificare nemmeno una parola delle proprie precedenti richieste severe; e poco dopo, al fine di proseguire la guerra per l’anno successivo, impose al popolo un tributo di 120.000 sterline al mese.
+
+B.
+
+Cosa si faceva intanto a casa?
+
+A.
+
+Cromwell si trovava ora ad affrontare l’ultimo e più grande ostacolo ai suoi piani: il Rump. A tal fine, ogni giorno dall’esercito venivano pubblicati petizioni, discorsi, proteste e altri documenti simili; alcuni di essi esortavano il Rump a sciogliersi e a lasciare il posto a un altro Parlamento. Il Rump, riluttante a cedere ma troppo timido per rifiutare, decise di concludere le proprie attività il 5 novembre 1654. Ma Cromwell non aveva intenzione di aspettare così a lungo.
+
+Nel frattempo, l’esercito in Irlanda riceveva le dichiarazioni delle persone interessate, concedeva i trasporti necessari e condannava chiunque desiderasse presso un Tribunale Supremo istituito appositamente a tale scopo. Tra coloro che furono giustiziati c’era Sir Phelim O’Neale, colui che aveva innescato la ribellione. In Scozia, gli inglesi costruirono alcune fortezze al fine di domare quella nazione testarda. E così terminò l’anno 1652.
+
+B.
+
+E così arriviamo all’anno 1653.
 
 A.
 
@@ -3009,6 +5903,108 @@ How went on the war against the Dutch?
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cromwell desiderava ormai soltanto un ulteriore passo verso la realizzazione della sua ambizione: quello di mettere piede sul collo di questo Parlamento Lungo. Ci riuscì il 23 aprile del 1653, in un momento assolutamente propizio. Poiché i Paesi Bassi non erano ancora stati sconfitti, erano comunque notevolmente indeboliti; inoltre, grazie ai bottini ottenuti dal nemico e alle pressioni esercitate sulla fazione reale, il tesoro era abbastanza ricco, e le tasse, pari a 120.000 sterline al mese, iniziavano finalmente ad essere riscosse. Tutto ciò gli apparteneva di diritto, grazie al potere militare che deteneva.
+
+Pertanto, senza ulteriori indugi, accompagnato dai maggior generali Lambert e Harrison e da alcuni altri ufficiali, nonché dal numero di soldati che ritenne opportuno, si recò presso il Parlamento, lo sciolse, ne cacciò i membri e chiuse a chiave le porte. Per questo atto fu acclamato dalla gente più di qualsiasi altra sua vittoria in guerra; i membri del Parlamento, invece, lo disprezzarono e derisero profondamente.
+
+B.
+
+Ora che non esisteva più un Parlamento, chi deteneva il potere supremo?
+
+A.
+
+Se con “potere” si intende il diritto di governare, nessuno lo possedeva. Se invece ci si riferisce alla forza suprema, essa era chiaramente in mano a Cromwell, che veniva obbedito come comandante di tutte le forze in Inghilterra, Scozia e Irlanda.
+
+B.
+
+Si è finto così solo per ottenere quel titolo?
+
+A.
+
+No: ma poco dopo inventò una giustificazione, secondo cui fosse necessario ricorrere a misure straordinarie per difendere la causa per cui inizialmente il Parlamento aveva preso le armi, cioè si era ribellato. Sapete bene che il pretesto della ribellione del Lungo Parlamento era la “salus populi”, ovvero la sicurezza della nazione contro una pericolosa cospirazione di papisti e di un partito malvagio all’interno del paese; e che ogni uomo, entro i limiti delle proprie possibilità, ha il dovere di garantire la sicurezza dell’intera nazione, compito che solo l’esercito poteva svolgere, e che fino ad allora il Parlamento aveva trascurato. Non era quindi dovere del generale intervenire? Non ne aveva forse il diritto? Poiché quella legge della “salus populi” è rivolta esclusivamente a coloro che dispongono di poteri sufficienti per difendere il popolo, cioè a coloro che detengono il potere supremo.
+
+B.
+
+Sì, certamente, egli aveva un titolo altrettanto legittimo di quello del Parlamento Lungo. Ma il Parlamento Lungo rappresentava davvero il popolo; e a mio parere, il potere sovrano è essenzialmente connesso al rappresentante del popolo.
+
+A.
+
+Sì, se colui che agisce in qualità di rappresentante – nel presente caso il Re – convoca i sudditi per ricevere il potere sovrano e successivamente lo abdica, allora sì; altrimenti no. Inoltre, la Camera Bassa del Parlamento non è mai stata un rappresentante dell’intera nazione, ma soltanto dei comuni cittadini; inoltre, tale Camera non aveva il potere di obbligare con le proprie leggi o decreti alcun lord né alcun prete.
+
+B.
+
+Cromwell arrivò al potere unicamente con l’argomento della “salute del popolo”?
+
+A.
+
+Questo è un titolo che pochissimi uomini comprendono. Il suo obiettivo era ottenere il potere supremo conferitogli dal Parlamento; per questo convocò un Parlamento e gli concesse tale potere, nella speranza che questi lo restituisse a lui. Non è stato astuto da parte sua? Prima di tutto, pubblicò una dichiarazione in cui spiegava le ragioni per cui scioglieva il Parlamento: sosteneva che, invece di impegnarsi a promuovere il bene del popolo di Dio, i membri del Parlamento cercavano, attraverso un disegno di legge allora in fase di approvazione, di rafforzare il proprio potere. Successivamente istituì un consiglio di stato composto da persone a lui fedeli, designandolo come l’autorità suprema d’Inghilterra, ma solo fino al momento in cui si sarebbe convocato il prossimo Parlamento. Infine, radunò 142 persone scelte da lui o dai suoi collaboratori fidati; la maggior parte di queste ricevette istruzioni precise su ciò che doveva fare. Si trattava per lo più di individui oscuri e fanatici, sebbene Cromwell li definisse persone di fedeltà e onestà provata. A questi il consiglio di stato cedette l’autorità suprema, e poco dopo anche queste persone la consegnarono a Cromwell stesso. Il 4 luglio si riunì questo Parlamento, che scelse come presidente il signor Rous e da quel momento in poi si autodefinì “Parlamento d’Inghilterra”. Ma per maggiore sicurezza, Cromwell istituì anche un altro consiglio di stato, composto non da individui insignificanti, ma da lui stesso e dai suoi principali collaboratori. Questi ultimi si occupavano di tutte le questioni, sia pubbliche che private: emanavano decreti e ricevevano ambasciatori stranieri. Tuttavia ora Cromwell aveva più nemici che prima. Harrison, capo dei sostenitori della Quinta Monarchia, dopo aver rassegnato le sue mansioni, non fece altro che incitare il proprio partito contro di lui; per questo motivo fu imprigionato in seguito. Nel frattempo, questo “piccolo Parlamento” emanava leggi così ridicole e sgradite al popolo, da far pensare che Cromwell le avesse scelte apposta per mettere in disprezzo tutti i parlamenti governativi e ristabilire la monarchia.
+
+B.
+
+Quali erano questi atti?
+
+A.
+
+Uno di questi provvedimenti prevedeva che tutti i matrimoni venissero celebrati da un giudice di pace; inoltre, l’annuncio del matrimonio doveva essere affisso per tre giorni consecutivi nel mercato successivo. Non era vietato che i matrimoni fossero celebrati anche da un pastore, ma senza la presenza di un giudice di pace tali matrimoni risultavano nullo. Di conseguenza, molte coppie, desiderose di garantirsi la sicurezza delle proprie scelte, anche se in seguito avessero potuto pentirsene, sceglievano di sposarsi sia secondo questa che secondo l’altra procedura. Inoltre, veniva abrogato l’uso degli impegni formali previsti dalla legge precedente: nessun uomo poteva presentare una causa in tribunale se non aveva prima accettato tali impegni, ovvero se non aveva riconosciuto il defunto Rump.
+
+B.
+
+Nessuno di questi due fattori causò alcun danno a Cromwell.
+
+A.
+
+Erano anche impegnati nell’attuare un provvedimento per abolire tutte le leggi e i codici attuali, al fine di redigere un nuovo codice più in linea con gli ideali dei sostenitori della Quinta Monarchia; molti di loro facevano parte di questo Parlamento. Il loro principio fondamentale era che nessuno dovesse essere sovrano se non il Re Gesù, e che nessuno potesse governare al suo fianco se non i santi. Tuttavia, la loro autorità terminò prima ancora che tale provvedimento venisse approvato.
+
+B.
+
+Cosa significa tutto questo per Cromwell?
+
+A.
+
+Niente ancora. Ma stavano anche loro prendendo delle misure, ormai quasi pronti a affrontare la questione: che da quel momento in poi i Parlamenti dovessero essere permanenti, uno dopo l’altro.
+
+B.
+
+Non capisco questo: a meno che i Parlamenti non possano generarsi l’uno dall’altro come gli animali, o come il fenice.
+
+A.
+
+Perché non seguire l’esempio della fenice? Non potrebbe un Parlamento, al termine del suo mandato, emettere decreti per la convocazione di uno nuovo?
+
+B.
+
+Pensi che non preferirebbero ricostituirsi nuovamente e, per evitare la [fatica](/concepts/labour) di tornare a Westminster, rimanere tranquillamente dove si trovano attualmente? Oppure, se decidessero di convocare il paese per nuove elezioni e poi sciogliersi, con quale autorità le persone potrebbero riunirsi nei tribunali locali, dato che non esiste alcuna autorità suprema in atto?
+
+A.
+
+Tutto ciò che fecero era assurdo, anche se loro stessi non lo sapevano; né il responsabile di tale azione, che sembra avesse come obiettivo la [sovranità](/positions/sovereignty), se ne rendeva conto; ma il partito di Cromwell in Parlamento lo capì perfettamente. Così, non appena fu proposto, uno dei membri si alzò e propose che, poiché la [Comunità Nazionale](/concepts/commonwealth) avrebbe tratto ben poco beneficio dalla loro permanenza in carica, fossero sciolti. Harrison e i suoi seguaci si opposero vivacemente a questa proposta; ma il partito di Cromwell, di cui quel membro faceva parte, lasciò l’aula e, con la mazza parlamentare in mano, si recò a Whitehall, consegnando il proprio potere a Cromwell, che lo aveva loro concesso. In questo modo, Cromwell ottenne la sovranità attraverso un atto del Parlamento; quattro giorni dopo, il 16 dicembre, fu insediato Protettore delle tre nazioni e giurò di rispettare determinate regole di governo, le quali furono redatte su pergamena e lette davanti a lui. Quel documento venne chiamato “l’atto costitutivo”.
+
+B.
+
+Su quali regole aveva giurato di attenersi?
+
+A.
+
+Uno di questi provvedimenti consisteva nel convocare un Parlamento ogni tre anni; la prima sessione doveva iniziare il 3 settembre dell’anno successivo.
+
+B.
+
+Credo che fosse un po’ superstizioso riguardo alla scelta del 3 settembre: per lui quell’data si rivelò fortunata nel 1650 e nel 1651, a Dunbar e a Worcester; ma non sapeva quanto sarebbe stata fortunata per l’intera nazione nel 1658, a Whitehall.
+
+A.
+
+Un altro punto prevedeva che nessun Parlamento dovesse essere sciolto prima di aver funzionato per cinque mesi; inoltre, i progetti di legge che gli venivano presentati dovevano essere approvati entro venti giorni, altrimenti avrebbero potuto essere approvati anche senza la sua firma.
+
+In terzo luogo, che egli dovesse avere un consiglio di stato composto da non più di ventuno membri e da non meno di tredici; e che, alla morte del Protettore, tale consiglio si riunisse per eleggere un nuovo Protettore prima di sciogliersi. Ne esistevano molti altri, ma non era necessario includerli tutti.
+
+B.
+
+Come si svolse la guerra contro i Olandesi?
+
+A.
+
 <span class="atom-split" data-atom="049" data-title="PART IV. (parte 8)" data-chapter="PART IV." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 The generals for the English were Blake, and Dean, and Monk; and Van Tromp for the Dutch; between whom was a battle fought the 2nd of June, which was a month before the beginning of this little Parliament; wherein the English had the victory, and drove the enemies into their harbours, but with the loss of General Dean, slain by a cannon-shot. This victory was great enough to make the Dutch send over ambassadors into England, in order to a treaty; but in the meantime they prepared and put to sea another fleet, which likewise, in the end of July, was defeated by General Monk, who got now a greater victory than before; and this made the Dutch descend so far as to buy their peace with the payment of the charge of the war, and with the acknowledgment, amongst other articles, that the English had the right of the flag.
@@ -3078,6 +6074,78 @@ I have heard of another, one Lilly, that prophecied all the time of the Long Par
 A.
 
 His prophecies were of another kind; he was a writer of almanacs, and a pretender to a pretended art of judicial astrology; a meer cozener to get maintenance from a multitude of ignorant people; and no doubt had been called in question, if his prophecies had been any way disadvantageous to that Parliament.
+
+B.
+
+<span class="qlang-split" data-lang="it"></span>
+
+I generali inglesi erano Blake, Dean e Monk; quelli olandesi erano Van Tromp. Il 2 giugno ebbe luogo una battaglia tra di loro, un mese prima dell’inizio di questo breve Parlamento; gli inglesi ne uscirono vittoriosi, costringendo i nemici a rifugiarsi nei loro porti, ma al prezzo della vita del generale Dean, ucciso da un colpo di cannone. Questa vittoria fu così decisiva che gli olandesi inviarono ambasciatori in Inghilterra per negoziare una pace; tuttavia, nel frattempo, prepararono e mandarono in mare un’altra flotta, che anch’essa fu sconfitta alla fine di luglio dal generale Monk, il quale ottenne così una vittoria ancora più decisiva. Di fronte a questo risultato, gli olandesi furono costretti ad accettare la pace pagando le spese della guerra e riconoscendo, tra l’altro, che gli inglesi avevano il diritto di utilizzare la propria bandiera nazionale.
+
+Questo accordo di pace fu concluso a marzo, alla fine di quest’anno, ma non proclamato fino ad aprile; sembra che i fondi necessari non siano stati pagati prima di quella data.
+
+Ora che la guerra olandese era terminata, il Protettore inviò suo figlio minore, Henry, in Irlanda, dove quest’ultimo fu nominato tenente poco tempo dopo; inviò inoltre Monk come luogotenente generale in Scozia, al fine di mantenere quelle nazioni sottomesse. Nient’altro di degno di nota accadde in patria quell’anno, se non la scoperta di un complotto ordito dai realisti contro la vita del Protettore; quest’ultimo, intanto, era sempre stato a conoscenza dei piani del Re grazie a un traditore presente alla sua corte, il quale fu successivamente catturato e ucciso.
+
+B.
+
+Come mai guadagnò una tale fiducia da parte del Re?
+
+A.
+
+Era il figlio di un colonnello ucciso nelle guerre al fianco del defunto re. Inoltre, fingeva di avere un incarico presso i sudditi fedeli e devoti del re, al fine di ricevere denaro da loro quando ne inviavano; per rendere questa situazione credibile, stesso Cromwell fece in modo che gli venisse inviato del denaro.
+
+L’anno seguente, il 1654, non ci furono guerre; l’anno trascorse invece nell’emanazione di ordinanze civili, nella nomina di giudici, nella prevenzione di congiure (poiché gli usurpatori sono sempre gelosi dei loro poteri) e nell’esecuzione degli amici del Re nonché nella vendita delle loro terre. Il 3 settembre il Parlamento si riunì; in questa sessione non vi era una Camera dei Lord, e la Camera dei Comuni era composta, come in precedenza, da cavalieri e borghesi; tuttavia, non più secondo la regola che prevedeva due rappresentanti per ogni borgo e due cavalieri per ogni contea: nella maggior parte dei casi i borghi avevano soltanto un rappresentante, mentre alcune contee ne avevano sei o sette. Inoltre, c’erano venti membri provenienti dalla Scozia e altrettanti dall’Irlanda. Così, a Cromwell non restava altro da fare se non dimostrare le sue capacità di governo su sei cavalli da carro appena donatigli. Ma questi animali, altrettanto ribelli di lui stesso, lo gettarono fuori dalla carrozza e quasi lo uccisero.
+
+B.
+
+Questo Parlamento, che aveva visto come Cromwell avesse gestito i due precedenti casi – quello lungo e quello breve – doveva sicuramente aver imparato l’astuzia necessaria per comportarsi meglio con lui rispetto a quanto avevano fatto quelli.
+
+A.
+
+Sì, soprattutto ora che Cromwell, nel suo discorso al loro primo incontro, aveva espressamente vietato loro di interferire né con il governo centralizzato né con il Parlamento, né con l’organizzazione della milizia, né con la continuazione delle sessioni parlamentari, né con la revoca della [libertà di coscienza](/positions/liberty_of_conscience); inoltre aveva detto loro che ogni membro della Camera, prima di sedersi, doveva riconoscere ufficialmente i propri poteri in diversi ambiti. Di conseguenza, su oltre 400 membri inizialmente presenti, ne parteciparono soltanto circa 200; anche se in seguito alcuni cambiarono idea, alla fine vi furono circa 300 partecipanti. Inoltre, proprio al momento dell’inizio delle deliberazioni, Cromwell pubblicò alcune ordinanze proprie, datate prima del loro incontro, per far capire che considerava le proprie decisioni altrettanto valide delle loro. Ma tutto ciò non fu sufficiente a farli [riconoscere](/concepts/recognition) come tali. Proseguirono quindi nella discussione di ogni singolo articolo contenuto nelle ordinanze stesse.
+
+B.
+
+Avrebbero dovuto discuterne prima di prenderla.
+
+A.
+
+Ma in realtà non era mai stato loro permesso di sedersi. Quando Cromwell venne a conoscenza della loro testardaggine e, nella speranza che potessero fornire qualche aiuto, li sciolse.
+
+Tutto ciò che è accaduto in questo anno, oltre a quanto menzionato, è stato l’intervento della Corte Suprema di Giustizia nei confronti di alcuni realisti accusati di cospirazioni.
+
+Nel 1655, quasi 10.000 inglesi sbarcarono ad Hispaniola nella speranza di saccheggiare l’oro e l’argento, che ritenevano fossero in abbondanza nella città di Santo Domingo; tuttavia furono sconfitti decisivamente da pochi spagnoli e, dopo aver perso circa 1.000 uomini, si trasferirono a Jamaica e ne presero possesso.
+
+Anche quest’anno la fazione reale tentò un altro approccio nel settore occidentale, proclamando lì Re Carlo II; tuttavia pochi si unirono a loro e alcuni addirittura li abbandonarono, quindi furono presto soppressi e molte delle persone principali coinvolte furono giustiziate.
+
+B.
+
+In tutte queste insurrezioni, i realisti, pur avendo buone intenzioni, finirono per nuocere al Re a causa della loro impazienza. Quali speranze avevano di avere la meglio contro un esercito così potente come quello del Protettore? E quale motivo c’era per disperare che gli affari del Re venissero risolti in modo migliore a causa delle discordie e degli ambizioni dei grandi comandanti di quell’esercito, molti dei quali erano altrettanto stimati tra loro quanto lo stesso Cromwell?
+
+A.
+
+La situazione era piuttosto incerta. Il Protettore, deluso nella sua speranza di ottenere denaro da Santo Domingo, decise di imporre ai realisti il pagamento di un decimo delle loro proprietà ogni anno. A tale scopo divise l’Inghilterra in undici distretti militari, incaricando ciascun comandante di compilare un elenco di tutte le persone sospette di appartenere al partito del Re e di riscuotere il decimo delle loro proprietà all’interno del suo territorio; inoltre gli fu ordinato di assicurarsi che tali persone non agissero contro lo [stato](/concepts/state) e di denunciare qualsiasi complotto venisse a loro conoscenza, costringendole anche ad imporre lo stesso impegno ai propri servitori. Ai comandanti fu inoltre affidato il compito di vietare le corse di cavalli e le riunioni di persone, nonché di rendere conto regolarmente della riscossione delle tasse stabilite.
+
+B.
+
+In questo modo, l’usurpatore avrebbe potuto facilmente conoscere il valore di tutte le proprietà in Inghilterra, nonché il comportamento e le intenzioni di ogni persona di rilievo; qualcosa che fino ad ora è stato considerato una vera e propria tirannia.
+
+A.
+
+L’anno 1656 fu un anno di sessioni parlamentari. Dal suo inizio fino alla data della prima seduta del Parlamento, avvenuta il 17 settembre, questi generali comandanti risiedevano in diverse province e si comportavano in modo estremamente tirannico. Tra le loro azioni oppressive vi era l’imposizione forzata delle elezioni, permettendo a se stessi e a coloro che desideravano di essere eletti membri del Parlamento; questa pratica fu considerata anche parte dei piani di Cromwell nella costituzione da lui stabilita: aveva infatti bisogno di un Parlamento funzionante, poiché poco prima, dopo aver firmato la pace con la Francia, si era trovato coinvolto in una guerra contro la Spagna.
+
+Quest’anno fu il Capitano Stainer ad attaccare la flotta spagnola, composta da otto navi, vicino a Cadice; riuscì a affondarne due e ne catturò altre due; su una di queste ultime si trovavano due milioni di pezzi da otto, il che equivale a 400.000 sterline.
+
+Anche quest’anno James Naylor apparve a Bristol e fu scambiato per Gesù Cristo. Si lasciava crescere la barba divisa a due punte e si acconciava i capelli in modo da assomigliare a quelli raffigurati nel Volto Santo; quando veniva interrogato, a volte rispondeva semplicemente “Tu lo dici”. Aveva anche dei discepoli che lo seguivano ovunque, camminando fino a metà gamba nella polvere. Quando fu chiamato dal Parlamento, fu condannato a essere messo sul patibolo, a farsi perforare la lingua e a ricevere sulla fronte la lettera “B” per blasfemia; inoltre doveva rimanere imprigionato a Bridewell. Lambert, molto influente nell’esercito, cercò di salvarlo: in parte perché era stato suo soldato, e in parte per guadagnarsi il favore dei settari dell’esercito stesso; infatti, in quel momento Lambert non godeva più della fiducia del Protettore e stava già pensando a come poter succedergli al potere.
+
+Circa due anni prima di questo evento, nella Cornovaglia apparve una profetessa molto famosa per i suoi sogni e le sue visioni, ascoltata da molte persone, tra cui alcuni alti funzionari. Tuttavia, quando lei e alcuni dei suoi complici furono imprigionati, non se ne sentì più parlare.
+
+B.
+
+Ho sentito parlare di un’altra persona, una certa Lilly, che prediceva continuamente riguardo al periodo del Lungo Parlamento. Cosa gli fecero?
+
+A.
+
+Le sue profezie erano di un altro genere: era uno scrittore di almanacchi e si autodefiniva esperto in astrologia giudiziaria; in realtà non faceva altro che cercare di ottenere sostentamento da una moltitudine di persone ignoranti. Senza dubbio, se le sue profezie fossero state in qualche modo dannose per quel Parlamento, sarebbe stato messo sotto accusa.
 
 B.
 
@@ -3161,6 +6229,86 @@ Could not the Protector, who kept his court at Whitehall, discover what the busi
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Non capisco come i sogni e le profezie dei pazzi (poiché considero tutti coloro che predicono eventi futuri come tali) possano rappresentare un qualche grave danno per la [comunità](/concepts/commonwealth).
+
+A.
+
+Sì, sì: non c’è nulla che renda difficili i consigli umani se non l’incertezza del futuro; né c’è nulla che guidi meglio le persone nelle loro deliberazioni della previsione delle conseguenze delle loro azioni, poiché la profezia è spesso la causa principale degli eventi predetti. Se, sulla base di una qualche previsione, la gente fosse stata convinta che Oliver Cromwell e il suo esercito sarebbero stati completamente sconfitti in un futuro non lontano, non tutti avrebbero cercato di aiutare quella parte che gli avrebbe inflitto tale sconfitta? Per questo motivo gli indovini e gli astrologi venivano spesso espulsi da Roma.
+
+L’ultima cosa memorabile di quest’anno è stata una proposta presentata da un membro della Camera, un assessore di Londra, che suggeriva di chiedere al Protettore di rinunciare al titolo di Protettore e di assumersi invece quello di Re.
+
+B.
+
+Quella fu davvero una mossa audace; se fosse riuscita, avrebbe posto fine all’ambizione di molti uomini e alla licenziosità dell’intero esercito. Penso che quella mossa sia stata fatta apposta per distruggere sia il Protettore stesso che i suoi ufficiali ambiziosi.
+
+A.
+
+Può darsi che sia così. Nel 1657, la prima cosa che il Parlamento fece fu redigere questa petizione rivolta al Protettore, affinché assumesse il governo delle tre nazioni con il titolo di Re. Come per altri Parlamenti, anche in questo caso la maggior parte dei membri fu tenuta lontana dall’aula con la forza, oppure si rifiutò di partecipare alle deliberazioni, commettendo così l’atto di proclamare re Oliver. Tuttavia quei pochi che presero parte alle riunioni presentarono la petizione al Protettore il 9 aprile presso la Banqueting House a Whitehall; Sir Thomas Widdrington, il Presidente del Parlamento, espose i primi argomenti a sostegno della proposta, mentre il Protettore chiese del tempo per consultarsi con Dio, considerando la questione di grande importanza. Il giorno seguente inviarono una commissione per ricevere la sua risposta; poiché questa non risultò molto chiara, insistettero nuovamente affinché prendesse una decisione definitiva. Lui rispose con un lungo discorso, che si concluse con un rifiuto categorico. Così, continuando a mantenere il titolo di Protettore, assunse effettivamente il governo in base agli articoli contenuti nella suddetta petizione.
+
+B.
+
+Cosa lo spinse a rifiutare il titolo di Re?
+
+A.
+
+Perché all’epoca non osò prenderla; l’esercito era troppo legato ai suoi generali in carica, e molti di questi speravano di succedergli. Inoltre, poiché la successione gli era stata promessa dal maggior generale Lambert, l’esercito avrebbe potuto ribellarsi contro di lui. Pertanto fu costretto ad attendere un momento più propizio per agire.
+
+B.
+
+Di che genere erano quegli articoli?
+
+A.
+
+I punti più importanti erano i seguenti: 1. Che avrebbe ricoperto la carica di magistrato capo d’Inghilterra, Scozia e Irlanda, con il titolo di Protettore, e che avrebbe governato quelle regioni in base alle suddette petizioni e consigli; inoltre, che avrebbe designato personalmente il proprio successore durante la sua vita.
+
+B.
+
+Credo che i scozzesi, quando si ribellarono per la prima volta, non avessero mai pensato di essere governati in modo assoluto, come avvenne sotto Oliver Cromwell.
+
+A.
+
+Che si convocasse un Parlamento al massimo ogni tre anni. 3. Che coloro che erano stati legalmente eletti membri del Parlamento non venissero esclusi senza il consenso della Camera stessa. Autorizzando questa clausola, il Protettore non osservò che i membri esclusi da quel Parlamento venivano così riammessi. 4. I requisiti per essere eletti membri del Parlamento erano specificati. 5. Il potere dell’altra Camera veniva definito con precisione. 6. Che nessuna legge potesse essere emanata se non tramite atto del Parlamento stesso. 7. Che venisse stabilita un reddito annuo fisso di un milione di sterline per il mantenimento dell’esercito e della marina; e 300.000 sterline per il sostegno del governo, oltre ad altre somme temporanee che la Camera dei Comuni avrebbe ritenuto opportune stabilire. 8. Che tutti gli ufficiali di stato fossero scelti dal Parlamento. 9. Che il Protettore incoraggiasse il governo in carica. Infine, che si concordasse e pubblicasse una dichiarazione di fede religiosa. Esistevano altre clausole di minore importanza. Dopo aver firmato questi articoli, fu immediatamente insediato nuovamente con grande cerimonia.
+
+B.
+
+A cosa poteva servire tutto ciò, visto che lui non era altro che un Protettore?
+
+A.
+
+Ma gli articoli di questa petizione non erano affatto gli stessi di quelli del suo precedente documento. Questa volta, infatti, avrebbe dovuto essere istituita un’altra Camera; inoltre, mentre prima era il suo consiglio a designare il suo successore, ora aveva il potere di farlo personalmente; quindi diventava un monarca assoluto, libero di lasciare la successione a suo figlio, o a chiunque altro desiderasse.
+
+Una volta terminata la cerimonia, il Parlamento si aggiornò al 20 gennaio seguente; in seguito anche l’altra Camera si riunì con i suoi membri.
+
+Poiché la Camera dei Comuni era ormai al completo, prestò poca attenzione alla Camera degli Lord, nella quale non vi erano più di nove lord su sessanta persone; invece iniziò a interrogare i suoi membri riguardo alle azioni compiute durante il periodo di isolamento, e soprattutto riguardo al [modo](/axes/method) in cui si era evitato l’esercizio del potere appena conferito al Protettore. Pertanto, recatosi nella Camera dei Comuni, tenne un discorso che terminava con queste parole: “Per il Dio vivente, devo e dissolverò questa assemblea.”
+
+Quest’anno, gli inglesi inflissero agli spagnoli un altro grave colpo a Santa Cruz, non meno grave di quello che avevano loro inferto l’anno precedente a Cadice.
+
+Intorno al momento della dissoluzione di questo Parlamento, i realisti avevano un altro piano contro il Protettore: quello di scatenare un’insurrezione in Inghilterra, con il Re pronto in Fiandra ad aiutarli con un esercito inviato da lì. Ma anche questo piano fu scoperto grazie a tradimenti e non portò a nulla, se non alla rovina di coloro che vi erano coinvolti; molti di loro, all’inizio dell’anno successivo, furono imprigionati da un alto tribunale di giustizia e alcuni persino giustiziati.
+
+Anche quest’anno il maggiore generale Lambert fu privato di ogni incarico militare: un uomo secondo a nessuno, dopo Oliver, per quanto riguardava il favore dimostrato dall’esercito nei suoi confronti. Tuttavia, poiché egli si aspettava che tale favore, o le promesse del Protettore, lo rendessero successore di quest’ultimo al potere supremo, sarebbe stato pericoloso permettergli di comandare l’esercito; il Protettore aveva infatti designato come suo successore il proprio figlio maggiore, Richard.
+
+Il 3 settembre del 1658 il Protettore morì a Whitehall; da quando era salito al potere, era costantemente preoccupato dal timore di essere ucciso in qualche tentativo disperato da parte dei realisti.
+
+Durante la sua malattia, il suo consiglio privato insistette affinché designasse un successore; egli scelse suo figlio Richard. Questi, incoraggiato non dalla propria ambizione, ma da Fleetwood, Desborough, Thurlow e altri membri del consiglio, accettò volentieri l’incarico. Poco dopo, gli furono inviate dichiarazioni di fedeltà dalle armate in Inghilterra, Scozia e Irlanda. La sua prima attività fu organizzare i solenni e costosi funerali di suo padre.
+
+E così Richard Cromwell salì sul trono imperiale d’Inghilterra, Irlanda e Scozia, succedendo a suo padre; fu elevato al potere dagli ufficiali dell’esercito presenti in città in quel momento, e ricevette congratulazioni da tutte le componenti dell’esercito nelle tre nazioni; quasi nessuna guarnigione tralasciò di rivolgergli parole lusinghiere.
+
+B.
+
+Vedendo che l’esercito lo approvava, come mai abbandonò così rapidamente quella posizione?
+
+A.
+
+L’esercito era incostante; lui stesso indeciso e privo di alcuna gloria militare. E sebbene i due ufficiali principali avessero un legame stretto con lui, solo Lambert era veramente il favorito dell’esercito. Attraverso le sue manovre per convincere Fleetwood ad assumere la carica di Protettore e attraverso l’ingraziarsi dei soldati, era riuscito a ricoprire nuovamente la carica di colonnello. Lui e gli altri ufficiali tennero un consiglio nella residenza di Wallingford, dove risiedeva Fleetwood, al fine di deporre Richard; sebbene non avessero ancora deciso come governare il paese in seguito. Infatti, fin dall’inizio della ribellione, l’approccio degli ambiziosi era sempre stato lo stesso: prima distruggere, poi pensare a cosa stabilire al loro posto.
+
+B.
+
+Non avrebbe potuto il Protettore, che teneva la sua corte a Whitehall, scoprire quale fosse l’attività degli ufficiali presso la Wallingford House, così vicina a lui?
+
+A.
+
 <span class="atom-split" data-atom="051" data-title="PART IV. (parte 10)" data-chapter="PART IV." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 Yes, he was by divers of his friends informed of it; and counselled by some of them, who would have done it, to kill the chief of them. But he had not courage enough to give them such a commission. He took, therefore, the counsel of some milder persons, which was to call a Parliament. Whereupon writs were presently sent to those, that were in the last Parliament, of the other House, and other writs to the sheriffs for the election of knights and burgesses, to assemble on the 27th of January following. Elections were made according to the ancient manner, and a House of Commons now of the right English temper, and about four hundred in number, including twenty for Scotland and as many for Ireland. Being met, they take themselves, without the Protector and other House, to be a Parliament, and to have the supreme power of the three nations.
@@ -3215,6 +6363,60 @@ By whom, and by what art, came the Rump to be turned out the second time?
 
 A.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sì, fu informato al riguardo da diversi dei suoi amici; alcuni di loro gli consigliarono persino di uccidere il capo del gruppo, pronti ad aiutarlo in tal compito. Ma lui non ebbe il coraggio necessario per affidare loro un simile incarico. Pertanto seguì il consiglio di persone più moderate: convocare un Parlamento. Fu immediatamente inviato degli ordini a coloro che avevano partecipato all’ultimo Parlamento della Camera Alta, nonché ad altri funzionari per l’elezione dei cavalieri e dei membri del Parlamento, affinché si riunissero il 27 gennaio successivo. Le elezioni furono condotte secondo le antiche procedure; così venne formato un Parlamento della Camera dei Comuni, con una composizione conforme alle tradizioni inglesi: circa quattrocento membri, di cui venti provenienti dalla Scozia e altrettanti dall’Irlanda. Una volta riunitisi, essi si proclamarono autonomamente un Parlamento, attribuendosi il potere supremo sulle tre nazioni.
+
+Per la prima questione da affrontare, intendevano utilizzare il potere di quell’altro Parlamento; ma poiché il Protettore aveva loro consigliato, per iniziare, un atto già redatto al fine di riconoscere il suo potere protettorale, decisero di procedere con quello. Dopo due settimane di deliberazioni, votarono l’approvazione di un atto che includesse tale dichiarazione di riconoscimento; un altro parte dell’atto avrebbe invece definito i limiti del potere del Protettore e garantito i privilegi del Parlamento nonché le libertà dei sudditi; entrambi gli atti dovevano essere approvati contemporaneamente.
+
+B.
+
+Perché questi uomini obbedirono inizialmente al Protettore allorché fu convocato per la prima volta? Non era forse questo un [riconoscimento](/concepts/recognition) pieno del suo potere, proprio quanto necessario? Perché con questo esempio insegnarono al popolo che doveva essere obbedito a lui, e poi, imponendogli leggi, gli insegnarono il contrario? Non fu forse il Protettore stesso a creare il Parlamento? Perché allora non riconobbero colui che lo aveva creato?
+
+A.
+
+Credo che sia desiderio della maggior parte degli uomini esercitare il potere; tuttavia pochi di loro sanno quale titolo permetta effettivamente di detenerlo, oltre al diritto derivante dalla forza.
+
+B.
+
+Se avessero riconosciuto il diritto della forza armata, non sarebbero stati né giusti né saggi nel opporsi al governo attuale, istituito e approvato da tutte le forze dei tre regni. I principi su cui si basava questa Camera dei Comuni erano, senza dubbio, gli stessi di quelli che avevano guidato la loro ribellione; e se avessero potuto radunare un esercito sufficiente, avrebbero fatto lo stesso contro il Protettore; inoltre, il generale del loro esercito li avrebbe ugualmente ridotti a una situazione di fragilità. Chi infatti mantiene un esercito ma non riesce a controllarlo, deve sottomettersi ad esso tanto quanto colui che tiene un leone in casa propria. L’atteggiamento di tutti i Parlamenti, fin dai tempi della regina Elisabetta, è sempre stato lo stesso di quello di questo Parlamento; e rimarrà tale finché i presbiteriani e coloro che sostengono principi democratici avranno lo stesso ascendente sulle elezioni.
+
+A.
+
+In seguito, decisero riguardo all’altra Camera che, durante questo Parlamento, avrebbero intrattenuto rapporti con essa, senza tuttavia violare il diritto dei nobili di ricevere mandati in tutti i futuri Parlamenti. Dopo l’approvazione di queste decisioni, passarono a un altro argomento: si attribuirono infatti il potere sulla milizia. Per dimostrare ulteriormente la loro supremazia, liberarono dalla prigione alcune persone che, secondo loro, erano state illegalmente imprigionate dal precedente Protettore. Altri punti riguardanti i diritti civili e la religione, molto graditi al popolo, furono anch’essi oggetto delle loro deliberazioni. Alla fine di quell’anno, il Protettore nutriva quindi lo stesso timore per il Parlamento che per il consiglio degli ufficiali presso la residenza di Wallingford House.
+
+B.
+
+Ed è proprio in questi momenti che gli uomini ignoranti si impegnano nella riforma. Ci sono tre fazioni coinvolte: il Protettore, il Parlamento e l’Esercito. Il Protettore contro il Parlamento e l’Esercito, il Parlamento contro l’Esercito e il Protettore, e l’Esercito contro sia il Protettore che il Parlamento.
+
+A.
+
+All’inizio del 1659 il Parlamento approvò diversi altri atti. Uno di questi vietava le riunioni degli ufficiali dell’esercito senza l’ordine del Protettore e delle due camere legislative. Un altro stabiliva che nessuno potesse ricoprire incarichi o godere di fiducia nell’esercito se prima non si impegnasse formalmente a non interrompere mai le riunioni dei membri del Parlamento, affinché questi potessero riunirsi e dibattere liberamente. Per compiacere i soldati, fu deciso di prendere in considerazione immediatamente i mezzi per saldare i loro arretrati. Tuttavia, mentre ci si occupava di questo problema, il Protettore, in base al primo di quegli atti, vietò le riunioni degli ufficiali presso la residenza di Wallingford House. Ciò portò al crollo del governo, già indebolito dal disaccordo tra il Protettore e l’esercito. Gli ufficiali di Wallingford House, con un numero sufficiente di soldati, si trasferirono a Whitehall e presentarono una commissione già redatta, che conferiva a Desborough il potere di sciogliere il Parlamento; il Protettore, nonostante le sue esitazioni e quelle del suo partito, la firmò. Il Parlamento continuò comunque le sue attività, ma alla fine della settimana venne sospeso fino al lunedì successivo, il 25 aprile. Quando si riunirono il lunedì mattina, trovarono la porta del Parlamento chiusa e i passaggi ad essa accessibili pieni di soldati, i quali comunicarono loro chiaramente che non potevano più proseguire le loro deliberazioni. Con la fine delle funzioni di Richard in città, questi si ritirò nella campagna; pochi giorni dopo, in cambio della promessa di saldare i suoi debiti – gravemente aumentati a causa dei costi del funerale di suo padre – firmò la rinuncia alla sua carica di Protettore.
+
+B.
+
+A chi?
+
+A.
+
+A nessuno. Ma dopo dieci giorni di sospensione del potere sovrano, alcuni dei membri del gruppo “Rumpers” presenti in città, insieme all’ex Presidente del Parlamento, il signor William Lenthal, decisero insieme a Lambert, Hazlerig e ad altri funzionari anch’essi appartenenti al gruppo “Rumpers”, per un totale di quarantadue persone, di recarsi nella Camera dei Rappresentanti; ciò fecero effettivamente, e l’esercito li dichiarò Parlamento legittimo.
+
+In quel momento, nella Sala di Westminster, c’erano anche alcuni individui che, per motivi personali, erano stati isolati dall’esercito nel 1648 e venivano chiamati “membri isolati”. Essi, sapendo di essere stati eletti dalla stessa autorità e di avere lo stesso diritto di sedere, tentarono di entrare nella Camera, ma furono impediti dai soldati. Il primo voto del Rump fu proprio quello che stabiliva che coloro che in passato erano membri di questo Parlamento ma non vi avevano più partecipato dal 1648 non potessero sedervi fino a nuove disposizioni da parte del Parlamento stesso. Così, il Rump riacquistò l’autorità che aveva perso nell’aprile del 1653, il 7 maggio 1659.
+
+B.
+
+Visto che ci sono stati così tanti cambiamenti nell’autorità suprema, vi prego, per il bene della [MEMORIA](/concepts/memory), di ripeterli brevemente, indicando i tempi e l’ordine in cui si sono verificati.
+
+A.
+
+In primo luogo, dal 1640 al 1648, quando il Re fu assassinato, la [sovranità](/positions/sovereignty) fu oggetto di disputa tra Re Carlo I e il Parlamento presbiteriano. In secondo luogo, dal 1648 al 1653, il potere era nelle mani di quella parte del Parlamento che aveva votato a favore del processo contro il Re, dichiarandosi, senza il Re né la Camera dei Lord, detentrice dell’autorità suprema su Inghilterra e Irlanda. Nel Long Parliament esistevano due fazioni: i presbiteriani e gli indipendenti; i primi cercavano soltanto di sottomettere il Re, senza intenzioni dirette di distruggerlo, mentre i secondi miravano esplicitamente alla sua rovina; questa seconda fazione fu quella chiamata “Rump”. In terzo luogo, dal 20 aprile al 4 luglio del 1653, il potere supremo era nelle mani di un consiglio di stato formato da Cromwell. In quarto luogo, dal 4 luglio al 12 dicembre dello stesso anno, il potere fu affidato a persone chiamate da Cromwell, che egli definì “uomini fedeli e integri”, e ne fece un Parlamento; questo Parlamento fu soprannominato, con disprezzo per uno dei suoi membri, “Parlamento di Barebone”. In quinto luogo, dal 12 dicembre 1653 al 3 settembre 1658, il potere fu nelle mani di Oliver Cromwell, con il titolo di Protettore. In sesto luogo, dal 3 settembre 1658 al 25 aprile 1659, Richard Cromwell ne fu il successore. In settimo luogo, dal 25 aprile 1659 al 7 maggio dello stesso anno, il potere non esisteva affatto. In ottavo luogo, dal 7 maggio 1659, la fazione “Rump”, che era stata allontanata dal potere nel 1653, lo riconquistò; per poi perderlo di nuovo a favore di un comitato di sicurezza, per riconquistarlo ancora e infine perderlo nuovamente nel corso degli eventi successivi.
+
+B.
+
+Da chi, e con quale mezzo, fu possibile che il “Rump” venisse espulso una seconda volta?
+
+A.
+
 <span class="atom-split" data-atom="052" data-title="PART IV. (parte 11)" data-chapter="PART IV." data-kind="atom" data-srclang="en" data-tags="assi/political_legitimacy,assi/state_and_individual,positions/sovereignty,positions/social_contract,concepts/state,concepts/commonwealth,concepts/law,concepts/religion,concepts/education,arguments/war_of_all_against_all,figures/aristotle,forms/dialogue,schools/scholasticism"></span>
 
 One would think them safe enough. The army in Scotland, which when it was in London had helped Oliver to put down the Rump, submitted now, begged pardon, and promised obedience. The soldiers in town had their pay mended, and the commanders everywhere took the old engagement, whereby they had acknowledged their authority heretofore. They also received their commissions in the House itself from the speaker, who was generalissimo. Fleetwood was made lieutenant-general, with such and so many limitations as were thought necessary by the Rump, that remembered how they had been served by the general, Oliver. Also Henry Cromwell, lord-lieutenant of Ireland, having resigned his commission by command, returned into England.
@@ -3262,6 +6464,56 @@ General Monk, after he had thus quarrelled by his letter with the council-office
 B.
 
 I wonder why the Scots were so ready to furnish General Monk with money; for they were no friends to the Rump.
+
+A.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Si potrebbe pensare che fossero abbastanza al sicuro. L’esercito in Scozia, che quando si trovava a Londra aveva aiutato Oliver a sconfiggere il Rump, ora si arrendeva, chiedeva perdono e prometteva obbedienza. Ai soldati presenti in città vennero pagati i loro salari, e i comandanti di tutto il paese rinnovarono gli impegni precedentemente assunti, riconoscendo così l’autorità di Oliver. Ricevettero anche le loro commissioni direttamente dal presidente del Parlamento, che ricopriva la carica di generale in capo. Fleetwood fu nominato tenente generale, con alcune limitazioni ritenute necessarie dal Rump, poiché questi ricordava come il generale Oliver si fosse comportato nei loro confronti. Inoltre, Henry Cromwell, luogotenente governatore d’Irlanda, dopo aver rassegnato le sue dimissioni su ordine del governo, tornò in Inghilterra.
+
+Ma Lambert, a cui Oliver aveva promesso la successione e che, insieme al Rump, conosceva perfettamente la strada per raggiungere il ruolo di Protettore seguendo le orme stesse di Oliver, era deciso ad approfittare della prima opportunità che si presentasse; tale occasione arrivò poco dopo. Oltre a alcune cospirazioni da parte dei realisti, che furono nuovamente perseguitati secondo le vecchie abitudini, scoppiò anche un’insurrezione contro di loro da parte dei presbiteriani del Cheshire, guidata da Sir George Booth, uno dei membri più riservati di quel gruppo. I ribelli contavano circa 3.000 uomini e il loro pretesto era quello di ottenere un Parlamento libero. Si parlò molto anche di un’altra insurrezione che avrebbe dovuto verificarsi contemporaneamente nel Devonshire e nella Cornovaglia. Per reprimere Sir George Booth, il Rump inviò un esercito più che sufficiente sotto il comando di Lambert; quest’ultimo sconfisse rapidamente le forze ribelli del Cheshire e riconquistò Chester, Liverpool e tutte le altre località che erano state occupate. Dopo la battaglia, diversi dei loro comandanti furono catturati prigionieri, tra cui lo stesso Sir George Booth.
+
+Dopo aver compiuto questo atto, Lambert, prima di tornare, organizzò un intrattenimento nella sua casa nel Yorkshire per i suoi soldati e ottenne il loro consenso riguardo a una petizione da presentare al Parlamento: si chiedeva che venisse nominato un generale all’interno dell’esercito, poiché non era appropriato che l’esercito stesso fosse giudicato da alcuna autorità esterna ad esso.
+
+B.
+
+Non percepisco alcuna inadeguatezza in ciò.
+
+A.
+
+Nemmeno io. Ma, come ho sentito dire, era un assioma di Sir Henry Vane. Tuttavia, questo principio dispiacque molto al gruppo del Rump, al punto che decisero che avere più generali nell’esercito rispetto a quelli già designati fosse inutile, oneroso e pericoloso per la [comunità](/concepts/commonwealth).
+
+B.
+
+Questo non era il [metodo](/axes/method) di Oliver; poiché anche questa vittoria nel Cheshire fu altrettanto gloriosa quanto quella ottenuta da Oliver a Dunbar, tuttavia non fu essa a renderlo generale, bensì la rinuncia di Fairfax e l’offerta che il Parlamento fece di tale incarico a Cromwell.
+
+A.
+
+Ma Lambert si considerava così importante da aspettarsi proprio questo risultato. Pertanto, al suo ritorno a Londra, lui e gli altri ufficiali riunitisi a Wallingford House redassero una petizione, definendola una “[representazione](/concepts/idea)”; il punto principale di questa petizione era l’elezione di un generale per governare l’esercito, ma vi furono aggiunti anche molti altri punti di minore importanza. La petizione fu presentata alla Camera il 4 ottobre da Major-General Desborough. Questo gesto impressionò molto i membri della Camera, al punto che promisero di discuterne immediatamente. Così fecero; il 12 ottobre, ripresosi dallo shock iniziale, votarono “che le commissioni di Lambert, Desborough e degli altri membri del consiglio riunitosi a Wallingford House fossero annullate; inoltre, che l’esercito fosse governato da una commissione composta da Fleetwood, Monk, Hazlerig, Walton, Morley e Overton, fino al 12 febbraio successivo”. Per contrastare la forza che Lambert avrebbe potuto schierare contro di loro, ordinarono a Hazlerig e Morley di emettere mandati per quegli ufficiali di cui si poteva fidare, affinché portassero i propri soldati a Westminster il giorno seguente; tuttavia questo fu fatto un po’ troppo tardi. Infatti, Lambert aveva già condotto i suoi soldati lì e assediato la Camera, costringendo il Presidente ad allontanarsi; ma le truppe di Hazlerig, avanzando lungo il muro del parco di St. James’s, si trovarono nel cimitero di St. Margaret’s. Per tutto il giorno, entrambe le parti rimasero in posizione di attacco reciproco, senza però scatenare battaglia; di conseguenza, i membri della Rump furono costretti ad abbandonare la Camera, e gli ufficiali continuarono a riunirsi come prima, a Wallingford House.
+
+Lì elessero tra loro, insieme ad alcuni membri della città, un comitato che chiamarono “comitato di sicurezza”; i suoi capi erano Lambert e Vane. Questi, con il consiglio di un consiglio generale degli ufficiali, avevano il potere di convocare i colpevoli al processo, di soffocare le ribellioni, di trattare con gli stati stranieri, ecc. Ora vedete che il “Rump” è stato eliminato e il potere supremo, incaricato della salvezza del popolo, è stato trasferito a un consiglio di ufficiali. Eppure Lambert spera ancora di ottenerlo alla fine. Ma uno dei loro limiti era che dovevano presentare all’esercito entro sei settimane un nuovo modello di governo. Se l’avessero fatto, credete che avrebbero preferito Lambert o qualcun altro a se stessi come autorità suprema?
+
+B.
+
+Non credo. Quando il Rump nominò, tra altri, il generale Monk a capo del governo militare, cioè a capo del governo delle tre nazioni – e considerando che Monk aveva già compiuto imprese molto più importanti di Lambert in questa guerra – come potevano permettersi di escluderlo da questo comitato di sicurezza? E come poteva Lambert pensare che Monk lo avrebbe perdonato, senza cercare di riportarlo al potere?
+
+A.
+
+Non pensavano a lui; la sua galanteria si era manifestata in luoghi lontani, in Irlanda e in Scozia. La sua ambizione non era emersa durante le loro lotte per il potere, ma aveva comunque obbedito sia a Richard che al Rump. Quando il generale Monk scrisse per esprimere il suo disappunto riguardo alle azioni di Lambert e dei suoi seguaci, rimasero molto sorpresi e iniziarono a considerarlo più importante di quanto pensassero prima; ma ormai era troppo tardi.
+
+B.
+
+Perché? Il suo esercito era troppo piccolo per un’impresa di tale portata.
+
+A.
+
+Il generale conosceva molto bene le proprie forze e quelle del nemico, sia nel loro stato attuale che nelle possibilità di rafforzarle; sapeva anche quali fossero i desideri della città e del paese: il ripristino al trono del Re. Per realizzarlo, non era necessario altro che recarsi a Londra con le proprie truppe, per quanto non molto numerose; l’unica ostacolo era l’esercito di Lambert. Cosa avrebbe potuto fare in questa situazione? Se avesse dichiarato apertamente il proprio sostegno al Re o a un Parlamento libero, tutte le forze d’Inghilterra si sarebbero unite contro di lui; inoltre, assumendo il titolo di Parlamento, avrebbe potuto ottenere i fondi necessari per portare a termine la sua missione.
+
+Il generale Monk, dopo aver così litigato per lettera con i funzionari del consiglio, innanzitutto assicurò il controllo su quegli ufficiali del proprio esercito che erano anabattisti e quindi non affidabili, sostituendoli poi con altri; successivamente radunò le proprie truppe e marciò verso Berwick. Lì accusò i rappresentanti scozzesi di non aver preso alcuna misura per garantire la sicurezza del paese in sua assenza, né di aver fornito i fondi necessari al suo esercito durante il viaggio. I rappresentanti scozzesi promisero di fare del loro meglio per la sicurezza della nazione e gli fornirono una somma di denaro, non grande ma sufficiente ai suoi scopi, adducendo come scusa le proprie attuali difficoltà finanziarie. Dall’altra parte, il comitato di sicurezza, con la maggior parte delle truppe a disposizione, inviò Lambert per opporsi a Monk; allo stesso tempo, attraverso diversi messaggi e intermediari, lo esortò a negoziare un trattato, al quale Monk acconsentì, inviando tre ufficiali a Londra per trattare con gli stessi rappresentanti scozzesi. Questi sei uomini conclusero improvvisamente un accordo, senza autorizzazione del generale, su alcune condizioni: l’esclusione del re, l’istituzione di uno stato libero, il sostegno al governo e alle università, tra altre. Monk non fu d’accordo con queste condizioni e imprigionò uno dei propri negoziatori per aver esorbitato dalle sue mansioni. Successivamente venne raggiunto un altro accordo, ma mentre questi negoziati erano in corso, Hazlerig, membro del Rump, prese il controllo di Portsmouth; le truppe inviate dal comitato di sicurezza per riconquistare la città, invece di combattere contro Hazlerig, si unirono a lui. Inoltre, la città riprese i propri tumulti per chiedere l’elezione di un Parlamento libero. Il lord Fairfax, anch’egli membro del Rump e molto popolare nel Yorkshire, stava radunando truppe in quella regione al fianco di Lambert; trovandosi ora tra due eserciti nemici, Lambert avrebbe volentieri combattuto contro Monk. Inoltre, arrivò la notizia che Devonshire e Cornwall stavano reclutando soldati. Infine, l’esercito di Lambert, a corto di fondi e convinto che il comitato dei funzionari non avrebbe potuto fornirgli i necessari finanziamenti, iniziò ad essere insoddisfatto; inoltre, le condizioni di alloggio offerte alle truppe risultarono insopportabili nelle regioni settentrionali.
+
+B.
+
+Mi chiedo perché gli scozzesi fossero così disposti a fornire denaro al generale Monk, visto che non erano affatto amici del “Rump”.
 
 A.
 
@@ -3356,3 +6608,95 @@ Amen. And may he have as often as there shall be need such a general.
 B.
 
 You have told me little of the general till now in the end: but truly, I think the bringing of his little army entirely out of Scotland up to London, was the greatest stratagem that is extant in history.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non lo so; ma credo che gli scozzesi avrebbero accettato di pagare una somma più elevata, piuttosto che permettere agli inglesi di litigare tra loro. Il consiglio degli ufficiali, essendo ora assediato da così tanti nemici, elaborò rapidamente un modello di governo: si trattava di istituire un Parlamento libero che si sarebbe riunito il 15 dicembre, ma con alcune condizioni particolari – nessun Re, nessuna Camera dei Lord – il che fece infuriare ancora di più la città. Non osavano inviare soldati nel nord per reprimere le rivolte in corso, per paura della reazione della popolazione; inoltre, a causa della mancanza di fondi, non erano nemmeno in grado di reclutare nuove truppe. Non rimase loro altra scelta se non quella di arrendersi e abbandonare la residenza di Wallingford House per cercare di sopravvivere da soli. Quando questa decisione venne a conoscenza dell’esercito nel nord, i soldati abbandonarono Lambert; il 26 dicembre, il Rump riuscì così a riprendere il controllo della Camera dei Lord.
+
+B.
+
+Vedendo che il “Rump” era stato nuovamente insediato, la messinscena organizzata dal Generale Monk per giustificare la sua marcia verso Londra era ormai terminata.
+
+A.
+
+Il Rump, sebbene fosse seduto, non si trovava in una posizione confortevole; tuttavia, in mezzo a tanti tumulti, il bisogno che il Parlamento libero avesse dell’arrivo del generale era tanto grande ora quanto prima. Pertanto, inviò loro un messaggio nel quale dichiarava che, ritenendo di non essere ancora sufficientemente al sicuro, sarebbe venuto a Londra con il suo esercito; cosa che essi non solo accettarono, ma lo supplicarono anche di farlo, votandogli 1000 sterline all’anno per i suoi servizi.
+
+Il generale marciava verso Londra; in tutto il paese la gente gli presentava petizioni per un Parlamento libero. Il Rump, per fare spazio alle truppe del generale nella città, scacciò i propri membri dal potere. Tuttavia, in tutto questo tempo il generale non aveva mai pronunciato una parola che potesse essere interpretata come dichiarazione dei suoi veri intenti.
+
+B.
+
+Come si vendicarono i Rump su Lambert?
+
+A.
+
+Non lo disturbarono mai; né conosco alcuna ragione che possa spiegare tale comportamento gentile nei suoi confronti. Tuttavia, Lambert era sicuramente l’ufficiale più capace tra quelli a loro disposizione, quando ne avessero avuto i mezzi e il bisogno di utilizzarlo. Dopo l’arrivo del generale a Londra, il Rump inviò messaggeri in città per richiedere la propria quota di tasse, pari a 100.000 sterline al mese, per un periodo di sei mesi, in base a una legge emanata precedentemente dal Rump stesso prima che venissero espropriati dal comitato di sicurezza. Tuttavia la città, ostile al Rump e desiderosa di un Parlamento libero, rifiutò categoricamente di consegnare i propri soldi ai loro nemici e a scopi contrari ai propri interessi. Di fronte a questa situazione, il Rump ordinò al generale di abbattere le porte della città e i suoi portoni d’accesso, nonché di imprigionare alcuni cittadini ostinati. Il generale eseguì l’ordine, ma questo fu l’ultimo servizio che poté rendere loro.
+
+Intorno a questo periodo, il mandato con cui il generale Monk e gli altri avevano ottenuto il controllo dell’esercito dalle mani del “Rump” prima dell’usurpazione da parte del consiglio degli ufficiali, stava per scadere; tale mandato fu tuttavia rinnovato dal nuovo “Rump”.
+
+B.
+
+Era quindi la sesta parte del comandante in capo di tutte le forze della [comunità](/concepts/commonwealth). Se fossi stato al posto del Rump, lui sarebbe stato il solo comandante. In casi come questo, non può esistere vizio più grave dell’essere avari; l’ambizione dovrebbe essere generosa.
+
+A.
+
+Dopo l’abbattimento delle porte della città, il generale inviò una lettera al Rump per far loro sapere che tale atto era profondamente contrario alla sua natura, e per ricordare loro quanto bene la città avesse servito il Parlamento durante tutta la guerra.
+
+B.
+
+Sì. Ma per quella città, il Parlamento non avrebbe mai potuto dichiarare guerra, né il Rump avrebbe mai potuto assassinare il Re.
+
+A.
+
+I membri del Rump non considerarono né il merito della città né la buona volontà del generale. Erano troppo impegnati: stavano distribuendo incarichi, redigendo atti di abiura nei confronti del Re e della sua dinastia, rinnovando vecchi accordi e negoziando con la città per ottenere denaro. Il generale desiderava inoltre ascoltare le discussioni tra alcuni membri del Rump e alcuni dei membri più isolati riguardo alla legittimità della loro esclusione e ai possibili danni che ne potesse derivare la loro riammissione; dopo lunghe trattative, ciò gli fu concesso. Ritenendo le pretese del Rump irragionevoli e ambiziose, il generale si schierò al fianco della città per un Parlamento libero e si recò a Westminster insieme ai membri isolati (che aveva incaricato di incontrarlo e aspettarlo a Whitehall), facendoli rientrare nella Camera insieme agli altri membri del Rump. Così, oggi, gli stessi personaggi che erano presenti alla Camera dei Comuni nel 1640 – ad eccezione di quelli morti o passati al defunto Re a Oxford – sono tutti nuovamente lì.
+
+B.
+
+Ma questo, a mio parere, non rappresentava un vero servizio per il Re, a meno che quei individui non avessero imparato principi più giusti e corretti.
+
+A.
+
+Non avevano imparato nulla. La maggior parte di loro era nuovamente presbiteriana. È vero che erano così grati al generale Monk da nominarlo comandante di tutte le forze delle tre nazioni; fecero anche bene annullando l’accordo precedente, ma ciò avvenne a scapito del loro stesso partito. Non revocarono alcuna delle loro ordinanze ribelli, né presero alcuna misura a vantaggio del re attuale; al contrario, con un voto dichiararono che il defunto re aveva iniziato la guerra contro le sue stesse Camere.
+
+B.
+
+Le due Camere, considerate come due entità distinte, non erano forse due sudditi del Re? Se un re raduna un esercito contro uno dei suoi sudditi, è legittimo che quel suddito si opponga con la forza, quando, come in questo caso, avrebbe potuto ottenere la pace semplicemente sottomettendosi?
+
+A.
+
+Sapevano di aver agito in modo vile e meschino; ma poiché avevano sempre finto di possedere una saggezza e una pietà superiori alla norma, erano riluttanti ad ammetterlo. I Presbiteriani ritennero ora fosse il momento giusto per presentare una Confessione delle loro credenze e la presentarono alla Camera dei Comuni per dimostrare che i loro principi non erano cambiati. Dopo sei letture in aula, fu deciso di stamparla e di leggerla pubblicamente in ogni chiesa una volta all’anno.
+
+B.
+
+Dico ancora una volta: questo ripristino del Parlamento Lungo non fu di alcun aiuto per il Re.
+
+A.
+
+Abbiate un po’ di pazienza. Sono stati ristabiliti con due condizioni: la prima consiste nel determinare il loro ordine di precedenza entro la fine di marzo; la seconda prevede l’invio degli avvisi ufficiali prima che si tengano le nuove elezioni.
+
+B.
+
+Quello lo rende qualificato.
+
+A.
+
+Fu così che il Re fu richiamato: pochi dei membri di questo Lungo Parlamento, avendo infatti subito le conseguenze negative del loro precedente operato, riuscirono a farsi rieleggere. Questo Nuovo Parlamento iniziò le sue sessioni il 25 aprile 1660. Quanto rapidamente fu chiamato il Re; con quale gioia e trionfo fu accolto; quanto insistentemente Sua Maestà sollecitò il Parlamento affinché approvasse l’atto di perdono. E quanti pochi furono esclusi da tale decisione. Lo sapete bene quanto me.
+
+B.
+
+Ma non ho ancora osservato nei presbiteriani alcuna dimenticanza dei loro principi precedenti. Siamo semplicemente tornati allo [stato](/concepts/state) in cui ci trovavamo all’inizio della rivolta.
+
+A.
+
+Non è così: infatti, prima di quel momento, sebbene i Re d’Inghilterra possedessero il diritto sulla milizia in virtù della loro [sovranità](/positions/sovereignty), e senza alcun dubbio né alcuna disposizione specifica del Parlamento a tale scopo; tuttavia, dopo questa sanguinosa controversia, il Parlamento attuale ha dichiarato esplicitamente che tale diritto appartiene esclusivamente al Re, senza l’intervento di nessuna delle Camere del Parlamento. Questa decisione è molto più istruttiva per il popolo di qualsiasi argomentazione basata sul titolo di sovrano, e quindi più adatta a dissuadere in futuro ogni ambizione sediziosa da parte dei propagandisti rivoluzionari.
+
+B.
+
+Prego Dio che sia così. In ogni caso, devo ammettere che questo Parlamento ha fatto tutto ciò che un Parlamento può fare per garantire la nostra pace: il che, a mio parere, sarebbe già sufficiente, se solo i predicatori si impegnassero a non inculcare principi malvagi nelle loro ascoltatrici e ascoltatori. Ho visto, in questa [rivoluzione](/positions/revolution), un movimento circolare del potere sovrano attraverso due usurpatori: dal defunto Re Carlo I fino a suo figlio. Poiché (escludendo il potere del consiglio degli ufficiali, che era solo temporaneo e non apparteneva realmente a loro, ma veniva loro affidato in custodia), tale potere è passato da Re Carlo I al Lungo Parlamento; da lì al Rump; dal Rump a Oliver Cromwell; per poi tornare nuovamente da Richard Cromwell al Rump; di nuovo al Lungo Parlamento; e infine a Re Carlo II. Che possa rimanere lì a lungo.
+
+A.
+
+Amen. E possa egli essere di nuovo tale generale ogni volta che ne sia necessario.
+
+B.
+
+Finora mi hai detto molto poco riguardo a questo generale; ma onestamente credo che il fatto di aver condotto tutta la sua piccola armata fuori dalla Scozia fino a Londra sia stato il più grande stratagemma mai esistito nella storia.

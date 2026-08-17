@@ -126,7 +126,7 @@ Esaminatelo quindi, signori; giudicate voi stessi e sappiate che l’impresa di 
 
 Prego, ricevete le mie più umili saluti.
 
-P.S. Rileggendo la vostra lettera, mi rendo conto, signore, che alla prima lettura ho frainteso l’oggetto della vostra richiesta. Pensavo che chiedeste un insieme completo di leggi, mentre in realtà desiderate soltanto un istituto politico; questo mi fa ritenere che disponiate già di un corpus di leggi civili, diverso dal diritto scritto, su cui si può basare l’elaborazione di una forma di governo adeguata. Il compito è meno arduo, ma non certo semplice, e non è certo detto che il risultato sia altrettanto perfetto; si potrà giudicare solo dopo la pubblicazione completa delle vostre leggi.
+P.S. Rileggendo la vostra lettera, mi rendo conto, signore, che alla prima lettura ho frainteso l’oggetto della vostra richiesta. Pensavo che chiedeste un insieme completo di leggi, mentre in realtà desiderate soltanto un istituto politico; questo mi fa ritenere che disponiate già di un corpus di leggi civili, diverso dal diritto scritto, su cui si può basare l’elaborazione di una [forma](/positions/realism_of_ideas) di governo adeguata. Il compito è meno arduo, ma non certo semplice, e non è certo detto che il risultato sia altrettanto perfetto; si potrà giudicare solo dopo la pubblicazione completa delle vostre leggi.
 
 Lettera 2
 

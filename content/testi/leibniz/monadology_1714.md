@@ -84,6 +84,60 @@ MONADOLOGY
 
 18. We might give the name of Entelechies to all simple substances or created Monads, inasmuch as there is in them a certain completeness (perfection), (έχουσι τό έντελες). There is a sufficiency (αύτάρκεια) which makes them the sources of their own internal actions, and, as it were, incorporeal automata.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Monadologia (1714)
+
+Tradotto da Frederic Henry Hedge, 1867
+
+Una delle opere più importanti della filosofia tardiva di Leibniz, la *Monadologia* (1714), è un breve testo che tratta della metafisica delle sostanze semplici, ovvero delle [monadi](/concepts/monad) (dal greco antico μονάς, “unità”: un termine utilizzato in filosofia per indicare una sostanza di base o originale). Durante il suo ultimo soggiorno a Vienna, dal 1712 al settembre 1714, Leibniz completò questo trattato, inteso come esposizione concisa della sua filosofia. Esistono tre manoscritti originali del testo: il primo scritto direttamente da Leibniz e successivamente corretto; due altre copie modificate, con alcune correzioni presenti in una ma non nell’altra. Lo stesso Leibniz inserì nelle sue pagine riferimenti ai paragrafi della sua *[Teodicea](/concepts/theodicy)* (una giustificazione di Dio), invitando il lettore interessato a consultare l’opera più ampia per ulteriori dettagli.
+
+Leibniz ammette l’esistenza di un solo tipo di elemento nella struttura dell’universo. Questo elemento unico viene definito “monade” o “entelechia” e descritto come “sostanza semplice”. Leibniz afferma che le monadi siano “semplici” e quindi “indivisibili”. Basandosi sull’etimologia greca della parola “entelechia”, ipotizza l’esistenza di differenze quantitative nella perfezione delle monade, il che porta a una loro classificazione gerarchica. L’ordine fondamentale è tripartito: (1) le entelechie o monadi create; (2) le anime, ovvero entelechie dotate di percezione e [memoria](/concepts/memory); (3) gli spiriti, ovvero anime razionali. Anche Dio viene considerato una sostanza semplice, ma è l’unico necessario per la formazione dell’universo e non possiede un corpo fisico. Leibniz sostiene inoltre che le monadi percepiscano le altre con gradi diversi di chiarezza; solo Dio, invece, percepisce tutte le monade con assoluta chiarezza. Dio può assumere qualsiasi prospettiva e conosce sia la [potenzialità](/concepts/act_potency) che l’attualità di ogni cosa.
+
+All’epoca, si ipotizzava che gli [atomi](/positions/atomism) fossero la più piccola unità di materia. Tuttavia, nella teoria di Leibniz, le sostanze non sono tecnicamente reali; pertanto, le monadi non rappresentano la parte più minuscola della materia, bensì gli unici enti che siano effettivamente reali. Per Leibniz, lo spazio e il tempo erano illusioni, così come la stessa sostanza. Gli unici enti che potessero essere considerati reali erano esseri estremamente semplici, caratterizzati da attività psichiche “dotati di percezione e desiderio”.
+
+Leibniz estende la sua teoria delle Monadi per sostenere l’argomento secondo cui viviamo nel [migliore di tutti i mondi possibili](/concepts/best_of_all_possible_worlds). Si basa sulla nozione di percezione, ma non sull’interazione tra le monade, per spiegare come tutte le monade debbano trarre la propria essenza da una monada ultima. Afferma inoltre che questa monada ultima sia Dio, poiché una monada è una “sostanza semplice” e Dio è la sostanza più semplice di tutte: non può essere ulteriormente scomposta.
+
+La prima pagina del manoscritto di “Monadologia”.
+
+Monadologia
+
+1. La monade, di cui parleremo qui, è semplicemente una sostanza semplice che entra a far parte di quelle composte; semplice, cioè priva di parti.
+
+2. Devono esistere sostanze semplici, poiché esistono composti; infatti il composto non è altro che una raccolta o un insieme di sostanze semplici.
+
+3. Laddove non esistono parti, né estensione, né forma, né divisibilità; e queste Monadi sono i veri atomi della Natura – in altre parole, gli elementi di tutte le cose.
+
+4. Pertanto, non esiste alcun pericolo di dissoluzione, e non esiste alcun modo concepibile con cui una sostanza semplice possa perire naturalmente.
+
+5. Per lo stesso motivo, non esiste alcun modo per cui una sostanza semplice possa nascere naturalmente, poiché non potrebbe essere formata attraverso la composizione di altre sostanze.
+
+6. Pertanto possiamo affermare che le Monadi non possono né iniziare né terminare in alcun altro modo se non all’improvviso; in altre parole, non possono iniziare se non attraverso la creazione, né terminare se non attraverso l’annientamento; mentre ciò che è composto inizia e termina attraverso le sue parti.
+
+7. Non esiste alcun modo comprensibile attraverso il quale una Monade possa essere modificata o alterata nel suo interno da qualsiasi altra creatura; sarebbe infatti impossibile trasporre qualcosa al suo interno, né concepire in essa alcun movimento interno – nessun movimento che possa essere stimolato, diretto, intensificato o attenuato all’interno della Monade, come avviene nei corpi composti, dove si verifica il cambiamento delle parti. Le Monadi non possiedono “finestre” attraverso cui qualcosa possa entrare o uscire; sarebbe inoltre impossibile che eventuali accidenti si separassero dalle sostanze e ne uscissero, come avveniva un tempo secondo le teorie degli scolastici. Pertanto, né la sostanza né l’accidente possono entrare in una Monada dall’esterno.
+
+8. Tuttavia, le Monadi devono possedere delle qualità; altrimenti non sarebbero nemmeno entità. Inoltre, se le sostanze semplici non differissero per le loro qualità, non esisterebbe alcun mezzo attraverso il quale potremmo essere consapevoli dei cambiamenti che avvengono nelle cose. Poiché tutto ciò che si trova nei corpi composti deriva dagli elementi semplici, e poiché le Monadi, essendo prive di qualità, non differirebbero tra loro nemmeno in termini quantitativi, ogni luogo, in qualsiasi movimento, riceverebbe soltanto l’esatto equivalente di ciò che aveva prima; di conseguenza, uno stato delle cose sarebbe indistinguibile da un altro.
+
+9. Inoltre, ogni Monade deve essere diversa da tutte le altre, poiché nella natura non esistono mai due esseri perfettamente identici tra loro, nei quali sia possibile individuare una differenza interna, o una differenza basata su qualche caratteristica intrinseca.
+
+10. Ritengo inoltre scontato che ogni essere creato sia soggetto al cambiamento – e di conseguenza anche la Monade creata; e altrettanto che questo cambiamento sia continuo in ogni caso.
+
+11. Da quanto abbiamo appena detto, si deduce che i cambiamenti naturali delle Monadi derivano da un principio interno, poiché nessuna causa esterna può influenzare ciò che è interno.
+
+12. Ma, oltre al principio del cambiamento, deve esistere anche un dettaglio riguardante i modi in cui avviene tale cambiamento, che includa, per così dire, le specifiche caratteristiche e la varietà delle sostanze semplici.
+
+13. Questo dettaglio deve implicare una molteplicità unita o semplicemente esistente: poiché tutti i cambiamenti naturali avvengono gradualmente, qualcosa cambia e qualcos’altro rimane; pertanto, nella sostanza semplice devono esserci molteplici affezioni e relazioni, anche se non vi sono parti.
+
+14. Questo stato mutevole, che coinvolge e rappresenta la molteplicità nell’unità, o nella sostanza semplice, non è altro che ciò che chiamiamo Percezione; tale concetto deve essere attentamente distinto da Appercezione o Coscienza, come verrà chiarito in seguito. È proprio in questo ambito che i Cartesiani hanno commesso gravi errori, ignorando quelle percezioni di cui non siamo consapevoli. Questo ha portato loro a ritenere che gli spiriti siano le uniche Monadi, e che non esistano anime negli animali o altre Entelechie. Per questa stessa ragione hanno confuso erroneamente uno stato di torpore prolungato con la morte effettiva, aderendo ai pregiudizi scolastici che sostengono l’esistenza di anime completamente separate dal corpo. Di conseguenza, anche menti mal disposte sono state confermate nella convinzione che l’anima sia mortale.
+
+15. L’azione del principio interno che provoca il cambiamento, ovvero il passaggio da una percezione all’altra, può essere definita “Appetito”. È vero che il desiderio non riesce sempre a realizzare completamente ogni percezione verso cui tende, ma raggiunge comunque qualcosa di essa e porta a nuove percezioni.
+
+16. Noi stessi sperimentiamo nel nostro essere la presenza di molteplicità all’interno di una sostanza semplice, quando ci rendiamo conto che anche il pensiero più banale di cui siamo consapevoli contiene in sé una varietà di elementi. Pertanto, tutti coloro che ammettono che l’anima sia una sostanza semplice sono costretti ad riconoscere questa molteplicità all’interno della Monade; il signor Boyle non avrebbe dovuto incontrare alcuna difficoltà nell’ammetterlo, come invece è accaduto nel suo dizionario – voce “Rorarius”.
+
+17. Inoltre, bisogna ammettere che la percezione e le sue conseguenze non sono spiegabili attraverso cause meccaniche, cioè attraverso figure e movimenti. Se immaginiamo una macchina costruita in modo da produrre pensiero, sensazione, percezione, possiamo concepirla ingrandita – mantenendo le stesse proporzioni – al punto che si potrebbe entrare al suo interno come in un mulino. Supponendo ciò, nell’ispezione di tale macchina troveremmo soltanto componenti che si influenzano a vicenda, ma nulla che possa spiegare il fenomeno della percezione. Pertanto, è nella sostanza semplice – e non nella sostanza composta o nelle macchine – che dobbiamo cercare tale fenomeno; e nella sostanza semplice non troviamo altro che percezioni e i loro cambiamenti. In essa soltanto consistono tutti gli atti interni delle sostanze semplici.
+
+18. Potremmo definire “Entelechie” tutte le sostanze semplici o le Monadi create, poiché in esse esiste una certa completezza (perfezione); possiedono cioè quella qualità che le rende fonti delle proprie azioni interne e, per così dire, automi incorporei.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en" data-tags="concepts/monad,concepts/petites_perceptions,concepts/memory,concepts/soul,concepts/custom"></span>
 
 19. If we choose to give the name of soul to all that has perceptions and desires, in the general sense which I have just indicated, all simple substances or created Monads may be called souls. But as sentiment is something more than simple perception, I am willing that the general name of Monads and Entelechies shall suffice for those simple substances which have nothing but perceptions, and that the term souls shall be confined to those whose perceptions are more distinct, and accompanied by [memory](/concepts/memory).
@@ -136,6 +190,58 @@ MONADOLOGY
 
 43. It is true, moreover, that God is not only the source of existences, but also of essences, so far as real, or of that which is real in the possible; because the divine understanding is the region of eternal truths, or of the ideas on which they depend, and without Him there would be nothing real in the possibilities, and not only nothing existing, but also nothing possible.
 
+<span class="qlang-split" data-lang="it"></span>
+
+19. Se scegliamo di definire “anime” tutto ciò che possiede percezioni e desideri, nel senso generale che ho appena indicato, allora tutte le sostanze semplici o le Monadi create potrebbero essere chiamate anime. Tuttavia, poiché il sentimento rappresenta qualcosa di più di una semplice percezione, sono disposto a ritenere che il nome generico di “Monadi” e “Entelechie” sia sufficiente per quelle sostanze semplici che possiedono soltanto percezioni; mentre il termine “anime” debba essere riservato a quelle le cui percezioni sono più distinte e accompagnate dalla [memoria](/concepts/memory).
+
+20. Infatti, in noi stessi sperimentiamo uno stato in cui non ricordiamo nulla e non abbiamo alcuna percezione chiara, proprio come quando siamo svenuti o addormentati profondamente e senza sogni. In questo stato, l’anima non differisce in modo significativo da una semplice [Monade](/concepts/monad); ma poiché tale stato non è permanente, e poiché l’anima ne esce, allora essa è qualcosa di più.
+
+21. E in tal caso non segue affatto che la sostanza semplice sia priva di percezioni: ciò è infatti impossibile, per le ragioni già espresse; essa non può né perire né esistere senza alcuna forma di percezione. Tuttavia, quando vi è un gran numero di [percezioni minute](/concepts/petites_perceptions) e nulla risulta distinto con chiarezza, si verifica uno stato di stordimento, simile a quello che si prova girando continuamente nella stessa direzione; da ciò deriva una vertigine che può portare alla perdita dei sensi e impedire di distinguere qualsiasi cosa. È anche possibile che la morte provochi temporaneamente questo stato negli animali.
+
+22. E poiché ogni condizione presente di una sostanza semplice è una conseguenza naturale della sua condizione precedente, il suo presente contiene in sé anche il suo futuro.
+
+23. Allora, come se ci risvegliassimo da uno stato di stordimento, diventiamo consapevoli delle nostre percezioni; quindi, immediatamente prima di svegliarci, dovevamo aver avuto queste percezioni, anche se non ne eravamo consapevoli. Infatti, ogni percezione non può avere altra origine naturale se non una percezione precedente, proprio come ogni movimento deriva da uno che lo ha preceduto.
+
+24. Quindi sembra che, se nelle nostre percezioni non esistesse alcuna distinzione, nessun “rilievo”, per così dire, nessun sapore più intenso, continueremmo per sempre in uno stato di stupore; ed è proprio questa la condizione della Monade nuda.
+
+25. E così vediamo che la natura ha dotato gli animali di percezioni raffinate, prendendosi cura di fornirli di organi capaci di raccogliere numerosi raggi di luce e molteplici onde d’aria, aumentandone l’efficacia attraverso la loro combinazione. Qualcosa del genere si riscontra nell’olfatto, nel gusto, nel tatto, e forse in molti altri sensi di cui non abbiamo conoscenza. Tra poco spiegherò come ciò che avviene negli organi venga rappresentato nell’anima.
+
+26. La memoria conferisce all’anima un tipo di azione sequenziale che imita la ragione, ma deve essere distinta da essa. Notiamo che gli animali, avendo percepito qualcosa che li ha colpiti e di cui avevano già avuto una percezione simile in precedenza, si aspettano, grazie alla rappresentazione fornita dalla memoria, la ricomparsa di ciò che era stato associato a quella percezione in passato, e tendono ad provare gli stessi sentimenti che allora avevano. Ad esempio, quando mostriamo ai cani il bastone, questi ricordano il dolore che ha causato loro e iniziano a guaire e scappare.
+
+27. E l’immaginazione vivace che li colpisce ed eccita deriva dalla grandezza o dalla molteplicità delle loro percezioni precedenti. Infatti, spesso un’impressione forte produce improvvisamente lo stesso effetto di una lunga [abitudine](/concepts/custom) o di percezioni moderate ripetute frequentemente.
+
+28. Sia negli uomini che nelle bestie, la continuità delle loro percezioni è dovuta al principio della memoria – proprio come gli empiristi in medicina, che si affidano esclusivamente alla pratica senza teoria. E noi stessi siamo semplicemente empiristi nella maggior parte delle nostre azioni. Ad esempio, quando ci aspettiamo che il sole sorgerà domani, giudichiamo in modo empirico, perché finora è sempre sorto. Solo l’astronomo ragiona in base a principi razionali.
+
+29. Ma la conoscenza delle verità necessarie ed eterne è ciò che ci distingue dai semplici animali. È proprio questa conoscenza a darci la Ragione e la Scienza, a elevarci alla conoscenza di noi stessi e di Dio; ed è proprio questo elemento in noi che chiamiamo anima razionale o spirito.
+
+30. È anche attraverso la conoscenza di verità necessarie e attraverso le loro astrazioni che giungiamo ad atti di riflessione, i quali ci fanno comprendere ciò che si autodefinisce “io” e ci inducono a considerare quale cosa esista dentro di noi. E così, mentre pensiamo a noi stessi, pensiamo anche all’Essere, alla sostanza – semplice o composta – al mondo immateriale e a Dio stesso. Riconosciamo che ciò che in noi è limitato, in Lui è senza limiti. Ed è proprio questi atti di riflessione a costituire gli oggetti principali dei nostri ragionamenti.
+
+31. I nostri ragionamenti si basano su due principi fondamentali: quello della “contraddizione”, grazie al quale giudichiamo falso ciò che contiene contraddizioni, e vero ciò che è in opposizione o che contraddice il falso.
+
+32. E poi c’è quella che chiamiamo “Ragione Sufficiente”, grazie alla quale giudichiamo che nessun fatto possa essere reale o esistente, nessuna affermazione vera, se non esiste una ragione sufficiente per spiegare perché sia così e non altrimenti; anche se queste ragioni molto spesso non possono essere conosciute da noi.
+
+33. Esistono anche due tipi di verità: quelle derivanti dal ragionamento e quelle basate sui fatti. Le verità del ragionamento sono necessarie, e il loro contrario è impossibile; quelle basate sui fatti sono contingenti, e il loro contrario è possibile. Quando una verità è necessaria, possiamo scoprirne la ragione attraverso l’analisi, scomponendola in idee e verità più semplici, fino a raggiungere quelle che risultano fondamentali [Primitivi].
+
+34. È così che i matematici, attraverso l’analisi, riducono i teoremi speculativi e i canoni pratici a definizioni, assiomi e postulati.
+
+35. Infine, ci sono idee semplici per le quali non è possibile fornire alcuna definizione; esistono anche assiomi e postulati, in altre parole, principi primordiali che non possono né hanno bisogno di essere dimostrati. Questi sono i cosiddetti “Enunciati Identici”, i cui contrari contengono una contraddizione esplicita.
+
+36. Ma dev’esserci anche una ragione sufficiente per le verità contingenti, o cioè per quelle relative ai fatti – vale a dire per la serie di elementi diffusi nell’universo delle creature – altrimenti il processo di individuazione delle cause specifiche potrebbe incontrare limiti insormontabili, a causa della vasta varietà delle cose naturali e della divisione infinita dei corpi. Esiste un’[infinità](/concepts/infinity) di forme e movimenti, presenti e passati, che contribuiscono alla [cagione efficiente](/concepts/four_causes) della mia attuale scrittura; inoltre, esiste un’infinità di sottili inclinazioni e disposizioni della mia anima, presenti e passate, che influenzano la sua cagione finale.
+
+37. Poiché tutti questi dettagli riguardano soltanto altre condizioni precedenti o più specifiche, e ciascuna di queste richiede a sua volta un’analoga analisi per essere spiegata, non abbiamo fatto alcun progresso; la ragione sufficiente o definitiva deve quindi trovarsi al di fuori di questa serie di dettagli e condizioni casuali, per quanto infinita possa essere.
+
+38. E quindi la ragione ultima di tutte le cose deve essere rinvenuta in una Sostanza necessaria, nella quale i dettagli dei cambiamenti esistono in modo evidente come loro fonte. Ed è ciò che chiamiamo Dio.
+
+39. Ora, poiché questa Sostanza rappresenta una ragione sufficiente per tutto ciò che è descritto in dettaglio e che, inoltre, è strettamente collegato tra sé, esiste un solo Dio, e questo Dio è sufficiente.
+
+40. Possiamo anche concludere che questa Suprema Sostanza, che è unica, universale e necessaria – poiché non esiste nulla al di fuori di essa che le sia indipendente, e poiché rappresenta una semplice sequenza di esseri possibili – debba essere incapace di avere limiti, e deve contenere tutta la realtà possibile.
+
+41. Ne consegue quindi che Dio è perfetto: la perfezione, infatti, non è altro che l’entità della realtà positiva considerata nella sua interezza, senza tenere conto dei limiti o confini presenti in ciò che è limitato. E là dove non esistono limiti, cioè in Dio, la perfezione è assolutamente infinita.
+
+42. Ne consegue altresì che le creature ricevono le loro perfezioni dall’influenza di Dio, ma le loro imperfezioni derivano dalla loro natura intrinseca, incapace di esistere senza limiti; è proprio per questo che si distinguono da Dio.
+
+43. È inoltre vero che Dio non è soltanto la fonte delle esistenze, ma anche delle essenze, nel senso di ciò che è reale, o di ciò che è reale tra le possibilità; poiché la comprensione divina rappresenta l’ambito delle verità eterne, ovvero delle idee da cui tali verità dipendono. Senza Dio, non esisterebbe nulla di reale tra le possibilità: non ci sarebbero né essenze esistenti, né possibilità stesse.
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/soul_body,assi/god,positions/rationalism,positions/idealism,positions/optimism,concepts/monad,concepts/pre_established_harmony,concepts/substance,concepts/principle_of_sufficient_reason,concepts/best_of_all_possible_worlds,concepts/petites_perceptions,concepts/infinity,arguments/identity_of_indiscernibles,forms/treatise,schools/continental_rationalism"></span>
 
 44. At the same time, if there be a reality in the essences or possibilities, or in the eternal truths, this reality must be founded in something existing and actual, consequently in the existence of the necessary Being, in whom essence includes existence, or with whom it is sufficient to be possible in order to be actual.
@@ -177,6 +283,48 @@ MONADOLOGY
 62. Thus, though every created Monad represents the entire universe, it represents more distinctly the particular body to which it belongs, and whose Entelechy it is: and as this body expresses the entire universe, through the connection of all matter in a plenum, the soul represents also the entire universe in representing that body which especially belongs to it.
 
 63. The body belonging to a Monad, which is its Entelechy or soul, constitutes, with its Entelechy, what may be termed a living (thing), and, with its soul, what may be called an animal. And the body of a living being, or of an animal, is always organic; for every Monad, being a mirror of the universe, according to its fashion, and the universe being arranged with perfect order, there must be the same order in the representative — that is, in the perceptions of the soul, and consequently of the body according to which the universe is represented in it.
+
+<span class="qlang-split" data-lang="it"></span>
+
+44. Allo stesso tempo, se esiste una realtà nelle essenze o nelle possibilità, o nelle verità eterne, questa realtà deve basarsi su qualcosa di esistente e concreto; quindi, sulla realtà dell’Essere necessario, in cui l’essenza include l’esistenza, o con il quale è sufficiente essere possibili per diventare concreti.
+
+45. Pertanto, solo Dio (o l’Essere necessario) possiede questo privilegio: deve esistere, se possibile; e poiché nulla può ostacolare la possibilità di ciò che non presenta limiti, negazioni né contraddizioni, è proprio questo a sufficienza per dimostrare [a priori](/positions/transcendental_criticism) l’esistenza di Dio. L’abbiamo altresì dimostrato attraverso la realtà delle verità eterne. Ma l’abbiamo anche dimostrato a posteriori, mostrando che, poiché esistono esseri contingenti, la loro ragione ultima e sufficiente può risiedere soltanto in un Essere necessario, il quale contiene in sé stesso la ragione della propria esistenza.
+
+46. Tuttavia, non dobbiamo credere, come fanno alcuni, che le verità eterne, essendo dipendenti da Dio, siano arbitrarie e soggette alla sua volontà, come sembrano aver pensato Cartesio e in seguito il signor Poiret. Ciò vale soltanto per le verità contingenti, la cui base è la convenienza o la scelta di ciò che è migliore; mentre le verità necessarie dipendono esclusivamente dalla sua intelligenza ed sono oggetto interno di essa.
+
+47. Pertanto, solo Dio è l’Unità primordiale, ovvero la sostanza originale e semplice da cui derivano tutte le Monadi create; queste ultime, per così dire, vengono generate attraverso continui “fulgurazioni” della Divinità, momento dopo momento, e tale processo è limitato dalla capacità di ricezione della creatura, la cui stessa esistenza è condizionata da tali limiti.
+
+48. In Dio esiste il Potere, che è la fonte di tutto; poi la Conoscenza, che contiene i dettagli delle Idee; e infine la Volontà, che genera cambiamenti o risultati secondo il principio dell’[ottimismo](/positions/optimism). Questi [attributi](/concepts/attribute) costituiscono, nelle Monadi create, le facoltà percettive e appetitive, ovvero ciò che ne forma la base essenziale. Tuttavia, in Dio questi attributi sono assolutamente infiniti o perfetti, mentre nelle Monadi create, o nelle Entelechie (o “perfectihabiis”, come traduce Hermolaus Barbaras questa parola), essi rappresentano soltanto imitazioni di tali attributi, secondo il grado della loro stessa perfezione.
+
+Si dice che questa creatura agisca in modo esteriore, nella misura in cui possiede la perfezione, e soffra quando è imperfetta. Pertanto attribuiamo l’azione alla [Monade](/concepts/monad), nella misura in cui essa possiede percezioni distinte; attribuiamo invece le passioni, nella misura in cui tali percezioni risultano confuse.
+
+50. Una creatura è più perfetta dell’altra proprio perché in essa troviamo ciò che, in modo a priori, può spiegare ciò che avviene nell’altra; per questo si dice che la prima agisca sull’altra.
+
+51. Tuttavia, nelle sostanze semplici si tratta soltanto di un’influenza ideale da una Monade sull’altra, che può diventare effettiva solo con l’intervento di Dio; infatti, nelle idee di Dio, una Monada ha il diritto di chiedere a Dio, nel regolare il resto delle cose fin dall’inizio, di tenerne conto. Poiché una Monade creata non può esercitare alcuna influenza fisica sull’interno di un’altra, è soltanto in questo modo che una Monada può essere dipendente da un’altra.
+
+52. Ed è per questo che le azioni e le passioni nelle creature sono reciproche; poiché Dio, confrontando due sostanze semplici, trova in ciascuna di esse motivi che lo obbligano ad adeguare l’una all’altra. Di conseguenza, ciò che è attivo da un punto di vista è passivo da un altro: attivo nella misura in cui ciò che vi si osserva chiaramente serve a spiegare quanto avviene in un’altra sostanza; passivo nella misura in cui la ragione di ciò che vi accade risiede in ciò che è chiaramente percepibile nell’altra sostanza.
+
+53. Ora, poiché nelle idee di Dio esiste un’[infinità](/concepts/infinity) di mondi possibili, e poiché solo uno di essi può esistere, deve esserci una ragione sufficiente per la scelta di Dio, che lo determina a scegliere uno piuttosto che un altro.
+
+54. E questa ragione non può essere altro che la “adeguatezza”, derivante dai diversi gradi di perfezione contenuti in questi mondi; ogni mondo possibile ha il diritto di esistere, in base al grado di perfezione che racchiude.
+
+55. Ed è proprio questa la causa dell’esistenza di Quello che è il Meglio: qualcosa che la saggezza di Dio comprende, la sua bontà sceglie e il suo potere realizza.
+
+56. E questo legame, o questa armonia tra tutte le cose create, e tra ciascuna di esse, implica in ogni sostanza semplice relazioni che esprimono tutto il resto. Pertanto, ciascuna di queste sostanze è un “specchio” vivente e perpetuo dell’universo.
+
+57. E così come la stessa città, vista da angoli diversi, appare del tutto diversa e si presenta in modo distorto dalla prospettiva, allo stesso modo, nella infinita molteplicità di sostanze semplici, esistono, per così dire, molti mondi diversi; ma questi non sono altro che le diverse “prospettive” di un unico mondo, a seconda dei diversi punti di vista da cui ciascuna Monade li osserva.
+
+58. Ed è proprio in questo modo che si può ottenere la massima varietà possibile insieme al massimo ordine possibile; in altre parole, il modo per raggiungere la massima perfezione possibile.
+
+59. Pertanto, questa ipotesi (che oso affermare essere dimostrata) è l’unica che possa veramente evidenziare la grandezza di Dio. Anche il signor Boyle lo riconosce, anche se nel suo dizionario (voci relative al fenomeno del “rorario”) vi obietta; anzi, è disposto a pensare che io attribuisca a Dio qualcosa di eccessivo, che gli attribuisca cose impossibili; tuttavia non riesce a fornire alcuna ragione per negare l’impossibilità di questa armonia universale, attraverso la quale ciascuna sostanza esprime esattamente le perfezioni di tutte le altre attraverso le sue relazioni con esse.
+
+60. Vediamo, inoltre, in quanto ho appena detto, le ragioni a priori per cui le cose non possono essere diverse da come sono. Dio, nell’ordinare l’intero universo, tiene conto di ogni singola parte, e in particolare di ciascuna Monade; poiché la natura stessa della Monade è rappresentativa, essa non è affatto impedita dal rappresentare l’intero insieme delle cose. Tuttavia, questa rappresentazione deve necessariamente risultare confusa quando riguarda i dettagli dell’universo, e può diventare chiara soltanto in relazione a una piccola parte delle cose, cioè a quelle che sono più vicine alla Monade considerata o le cui relazioni con essa sono più intense. Altrimenti, ogni Monada sarebbe una divinità. Le Monadi sono limitate, non nell’oggetto della loro conoscenza, ma nel modo in cui questa conoscenza viene acquisita. Tutte tendono confusamente verso l’infinito, verso l’intero; ma sono limitate e distinte dai diversi gradi di chiarezza nelle loro percezioni.
+
+61. E i composti, in questo contesto, simboleggiano i semplici. Poiché il mondo è un “plenum”, e tutta la materia è interconnessa, e poiché in un “plenum” ogni movimento ha un effetto su corpi distanti, in proporzione alla loro distanza, ogni corpo viene influenzato non solo da quelli che sono in contatto diretto con esso, ma anche attraverso di essi da altri corpi che a loro volta sono in contatto con quelli con cui il primo è immediatamente in relazione; ne consegue che questa comunicazione può estendersi a qualsiasi distanza. Pertanto, ogni corpo percepisce tutto ciò che avviene nell’universo; quindi colui che vede tutto può “leggere” in ogni singolo corpo ciò che accade altrove, e persino ciò che è già accaduto o accadrà in futuro, riconoscendo nel presente ciò che si trova lontano sia nello spazio che nel tempo. “Συμπνόιει Πάντα”, dice Ippocrate. Ma ogni anima può leggere in sé stessa soltanto ciò che è chiaramente rappresentato al suo interno; non può comprendere immediatamente tutte le leggi che governano l’universo, poiché queste leggi si estendono all’infinito.
+
+62. Pertanto, sebbene ogni monade creata rappresenti l’intero universo, essa rappresenta in modo più chiaro il particolare corpo a cui appartiene e di cui è l’Entelechia; e poiché questo corpo esprime l’intero universo attraverso la connessione di tutta la materia in un “plenum”, anche l’anima rappresenta l’intero universo, nel rappresentare quel corpo che le appartiene specificamente.
+
+63. Il corpo che appartiene a una Monade, e che costituisce la sua Entelechia o anima, insieme con questa Entelechia, forma ciò che può essere definito un “essere vivente”; mentre, insieme con l’anima, costituisce ciò che può essere definito un “animale”. Il corpo di un essere vivente, o di un animale, è sempre organico; poiché ogni Monade rappresenta l’universo secondo la propria struttura, e poiché l’universo è ordinato in modo perfetto, deve esistere lo stesso ordine anche nelle percezioni dell’anima – e quindi nel corpo, che funge da mezzo attraverso cui l’universo viene rappresentato all’interno della Monade.
 
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/soul_body,assi/god,positions/rationalism,positions/idealism,positions/optimism,concepts/monad,concepts/pre_established_harmony,concepts/substance,concepts/principle_of_sufficient_reason,concepts/best_of_all_possible_worlds,concepts/petites_perceptions,concepts/infinity,arguments/identity_of_indiscernibles,forms/treatise,schools/continental_rationalism"></span>
 
@@ -226,6 +374,54 @@ MONADOLOGY
 
 86. This City of God, this truly universal monarchy, is a moral world within the natural; and it is the most exalted and the most divine among the works of God. It is in this that the glory of God most truly consists, which glory would be wanting if his greatness and his goodness were not recognized and admired by spirits. It is in relation to this Divine City that he possesses, properly speaking, the [attribute](/concepts/attribute) of goodness, whereas his wisdom and his power are everywhere manifest.
 
+<span class="qlang-split" data-lang="it"></span>
+
+64. Pertanto, ogni essere vivente organico è una sorta di macchina divina, o un automato naturale, che supera infinitamente tutti gli automati artificiali. Una macchina creata dall’arte umana non è considerabile tale in tutte le sue parti; ad esempio, i componenti di una ruota in ottone contengono elementi che non sono di origine artificiale per noi; tali elementi non presentano nulla che li identifichi come parte di una macchina, nel contesto dell’uso per cui la ruota è progettata. Invece, le macchine naturali – cioè gli esseri viventi – sono macchine anche nelle loro parti più minute, e questo costituisce la differenza fondamentale tra natura e arte, ovvero tra l’Arte Divina e la nostra.
+
+65. L’autore della natura fu in grado di esercitare questa arte divina e infinitamente meravigliosa, poiché ogni parte della natura non è soltanto infinitamente divisibile, come sapevano gli antichi, ma è effettivamente suddivisa [all’infinito](/concepts/infinity): ciascuna parte si divide ulteriormente in altre parti, ognuna delle quali possiede il proprio movimento. Altrimenti, sarebbe impossibile che ogni singola porzione di materia potesse rappresentare l’universo intero.
+
+66. Da ciò si evince che esiste un mondo di creature, di esseri viventi, di animali, di Entelechie, di anime, anche nella più piccola porzione di materia.
+
+67. Ogni particella di materia può essere considerata come un giardino pieno di piante, o come uno stagno pieno di pesci. Ma ogni ramo di ogni pianta, ogni parte di ogni animale, ogni goccia dei loro umori rappresentano a loro volta altri giardini o stagni simili.
+
+68. E sebbene la terra e l’aria che circondano le piante nel giardino, o l’acqua che contiene i pesci dello stagno, non siano esse stesse piante o pesci, contengono comunque esseri del genere, per lo più troppo minuscoli per essere percepiti da noi.
+
+69. Quindi, nell’universo non esistono zone incolte, terre sterili né morte; non c’è caos né confusione, se non apparentemente, come potrebbe sembrare osservando da lontano uno stagno, dove si noterebbe un movimento disordinato e una sorta di “affollamento” dei pesci presenti nell’acqua, senza però riuscire a distinguerli uno per uno.
+
+70. Vediamo quindi che ogni essere vivente possiede un’[Entelechia](/concepts/monad) guida, che negli animali corrisponde all’anima stessa dell’animale. Tuttavia, i singoli componenti di questo essere vivente sono a loro volta pieni di altri esseri viventi – piante, animali – e ciascuno di questi possiede anch’esso la propria Entelechia, ovvero la propria “anima guida”.
+
+71. Tuttavia, non dobbiamo supporre – come hanno fatto alcuni che hanno frainteso il mio pensiero – che ogni anima possieda una massa o una porzione di materia propria, o per sempre unita a essa, e che quindi disponga di altre entità viventi inferiori destinate a servirla per l’eternità. Poiché tutti i corpi sono in un costante flusso, simili ai fiumi; le loro particelle vanno e vengono continuamente.
+
+72. Pertanto, l’anima non cambia il proprio corpo se non gradualmente; mai viene privata all’improvviso di tutti i propri organi. Negli animali si verificano spesso metamorfosi, ma mai processi di metempsicosi, cioè trasmigrationi delle anime. Né esistono anime completamente separate dai corpi, né spiriti senza corpo; solo Dio è totalmente privo di corpo.
+
+73. Per questa stessa ragione, non esiste mai una vera e propria generazione né una morte perfetta – se considerate in senso stretto – poiché entrambe consistono nella separazione dell’anima dal corpo. Quello che chiamiamo generazione è in realtà uno sviluppo e un accrescimento; mentre ciò che chiamiamo morte è un processo di avvolgimento e diminuzione.
+
+74. I filosofi si sono molto preoccupati riguardo all’origine delle forme, delle Entelechie o delle anime. Ma al giorno d’oggi, grazie a indagini accurate su piante, insetti e animali, essi hanno compreso che i corpi organici della natura non vengono mai creati dal caos o dalla decomposizione, ma sempre da semi, nei quali senza dubbio esiste già una forma preesistente; si è quindi dedotto che non solo il corpo organico esiste già in quel seme prima della concezione, ma anche un’anima in quel corpo – in altre parole, l’animale stesso – e che, attraverso l’atto della concezione, tale animale viene semplicemente predisposto a una grande trasformazione, per diventare un animale di un’altra specie. Vediamo addirittura fenomeni simili anche al di fuori del processo di generazione: ad esempio, quando i vermi diventano mosche o le larve diventano farfalle.
+
+75. Quegli animali, alcuni dei quali hanno raggiunto uno stadio più elevato attraverso il processo della concezione, possono essere definiti “animali spermatici”; ma quelli che rimangono nella loro stessa specie – cioè la maggior parte di essi – nascono, si riproducono e vengono distrutti, proprio come gli animali più grandi; soltanto un piccolo numero di essi, i “predestinati”, raggiunge uno stadio più elevato.
+
+76. Ma questa è soltanto metà della verità. Ho concluso che, se un animale non inizia ad appartenere all’ordine della natura, non smette nemmeno di farne parte; e che non solo non esiste alcuna generazione, ma nemmeno una distruzione totale, nessuna morte, considerata nel suo vero senso. Queste conclusioni, tratte dall’esperienza, sono in perfetta armonia con i principi che ho dedotto [a priori](/positions/transcendental_criticism), come detto sopra.
+
+77. Pertanto possiamo affermare non solo che l’anima – specchio di un universo indestruttibile – è indestruttibile, ma anche che l’animale stesso lo è; sebbene il suo “meccanismo” possa spesso subire danni parziali e perdere alcune delle sue strutture organiche.
+
+78. Questi principi mi hanno fornito una spiegazione naturale dell’unione, o meglio della conformità tra l’anima e il corpo organizzato. L’anima segue le leggi proprie a essa, e allo stesso modo anche il corpo segue quelle che sono sue caratteristiche; i due si incontrano grazie all’armonia preesistente tra tutte le sostanze, poiché esse rappresentano lo stesso universo.
+
+79. Le anime agiscono secondo le leggi delle cause finali, attraverso desideri, mezzi e scopi; i corpi agiscono secondo le leggi delle cause efficienti, ovvero le leggi del movimento. E questi due regni – quello delle cause efficienti e quello delle cause finali – si armonizzano a vicenda.
+
+80. Cartesia riconobbe che le anime non trasmettono alcuna forza ai corpi, poiché la quantità di forza presente nella materia rimane sempre costante. Tuttavia, riteneva che le anime potessero modificare la direzione dei movimenti dei corpi. Ma ciò avveniva perché all’epoca il mondo ignorava la legge della natura, che prescrive la conservazione della stessa direzione complessiva del movimento nella materia. Se ne fosse stato a conoscenza, sarebbe giunto al mio sistema di armonia preesistente.
+
+81. Secondo questo sistema, i corpi agiscono come se non ci fossero anime, e le anime agiscono come se non ci fossero corpi; eppure entrambi agiscono come se l’uno influenzasse l’altro.
+
+82. Per quanto riguarda gli spiriti, o le anime razionali, sebbene io ritenga che, in fondo, lo stesso principio da me enunciato – ovvero che animali e anime hanno origine dal mondo e finiscono solo con esso – valga per tutti gli animali e le creature viventi, esiste tuttavia questa particolarità negli animali razionali: sebbene i loro spermatozoi, in sé, possiedano soltanto anime ordinarie o sensibili, non appena quelli che, per così dire, sono “eletti” arrivano, attraverso l’atto della concezione, alla [natura umana](/axes/human_nature), le loro anime sensibili vengono elevate al rango della ragione e alle prerogative degli spiriti.
+
+83. Tra le altre differenze che distinguono gli spiriti dalle anime ordinarie – alcune delle quali sono già state indicate – vi è anche questa: mentre le anime nel loro complesso sono specchi viventi, o immagini dell’universo delle creature, gli spiriti sono inoltre immagini della Divinità stessa, ovvero dell’Autore della Natura; essi sono capaci di comprendere il sistema dell’universo e di imitarne alcune caratteristiche attraverso esperimenti architettonici; ciascun spirito, in qualche modo, rappresenta una piccola divinità nel proprio ambito specifico.
+
+84. Pertanto, gli spiriti sono in grado di instaurare una sorta di comunione con Dio. Ai loro occhi, Egli non è soltanto ciò che un inventore è rispetto alla sua macchina (così come Dio lo è rispetto alle altre creature), ma anche ciò che un principe è rispetto ai suoi sudditi, e persino ciò che un padre è rispetto ai suoi figli.
+
+85. Da ciò si può facilmente concludere che l’unione di tutti gli spiriti debba costituire la [Città di Dio](/concepts/two_cities) – cioè lo stato più perfetto possibile, sotto il governo del monarca più perfetto.
+
+86. Questa Città di Dio, questa vera monarchia universale, è un mondo morale all’interno del mondo naturale; ed è la più elevata e la più divina tra le opere di Dio. È in essa che risiede veramente la gloria di Dio, una gloria che andrebbe perduta se la sua grandezza e la sua bontà non fossero riconosciute e ammirate dagli spiriti. È in relazione a questa Città Divina che Egli possiede, per così dire, l’[attributo](/concepts/attribute) della bontà, mentre la Sua saggezza e il Suo potere sono manifesti ovunque.
+
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en" data-tags="assi/reality_status,assi/soul_body,assi/god,positions/rationalism,positions/idealism,positions/optimism,concepts/monad,concepts/pre_established_harmony,concepts/substance,concepts/principle_of_sufficient_reason,concepts/best_of_all_possible_worlds,concepts/petites_perceptions,concepts/infinity,arguments/identity_of_indiscernibles,forms/treatise,schools/continental_rationalism"></span>
 
 87. As we have established above, a perfect harmony between the two natural kingdoms — the one of efficient causes, the other of final causes — so it behooves us to notice here also a still further harmony between the physical kingdom of nature and the moral kingdom of grace — that is to say, between God considered as the architect of the machine of the universe, and God considered as monarch of the divine City of Spirits.
@@ -235,3 +431,13 @@ MONADOLOGY
 89. We may say, furthermore, that God as architect contains entirely God as legislator, and that accordingly sins must carry their punishment with them in the order of nature, by virtue even of the mechanical structure of things, and that good deeds in like manner will bring their recompense, through their connection with bodies, although this cannot, and ought not always to, take place on the spot.
 
 90. Finally, under this perfect government, there will be no good deed without its recompense, and no evil deed without its punishment, and all must redound to the advantage of the good — that is to say, of those who are not malcontents — in this great [commonwealth](/concepts/commonwealth), who confide in Providence after having done their duty, and who worthily love and imitate the Author of all good, pleasing themselves with the contemplation of his perfections, following the nature of pure and genuine Love, which makes us blest in the happiness of the loved. In this spirit, the wise and good labor for that which appears to be conformed to the divine will, presumptive or antecedent, contented the while with nil that God brings to pass by his secret will, consequent and decisive, — knowing that if we were sufficiently acquainted with the order of the universe we should find that it surpasses all the wishes of the wisest, and that it could not be made better than it is, not only for all in general, but for ourselves in particular, if we arc attached, as is fitting, to the Author of All, not only as the architect and [efficient cause](/concepts/four_causes) of our being, but also as our master and the final cause, who should be the whole aim of our volition, and who alone can make us blest.
+
+<span class="qlang-split" data-lang="it"></span>
+
+87. Come abbiamo già stabilito in precedenza, esiste un’armonia perfetta tra i due regni naturali: quello delle cause efficienti e quello delle cause finali; pertanto è anche nostro dovere notare una ulteriore armonia tra il regno fisico della natura e il regno morale della grazia, cioè tra Dio considerato come l’architetto del “meccanismo” dell’universo e Dio considerato come monarca della divina Città degli Spiriti.
+
+88. Questa armonia fa sì che tutte le cose contribuiscano alla realizzazione della grazia attraverso metodi naturali. Ad esempio, questo globo deve essere distrutto e riparato con mezzi naturali, nei momenti in cui il governo degli spiriti lo richieda, al fine di punire alcuni e premiare altri.
+
+89. Possiamo inoltre affermare che Dio, nella sua veste di architetto, racchiude completamente in sé anche la funzione di legislatore; pertanto i peccati devono necessariamente comportare la propria punizione, secondo le leggi della natura, e ciò avviene persino a causa della struttura meccanica delle cose stesse. Allo stesso modo, le buone azioni riceveranno la loro ricompensa, grazie al legame che esiste tra esse e i corpi umani; tuttavia questo non deve necessariamente avvenire immediatamente.
+
+90. Infine, sotto questo governo perfetto, non esisterà alcun atto buono senza la sua ricompensa, né alcun atto malvagio senza la sua punizione; tutto dovrà giovare ai buoni – cioè a coloro che non sono insoddisfatti – in questa grande [comunità](/concepts/commonwealth), che confidano nella Provvidenza dopo aver adempiuto al proprio dovere, e che amano e imitano degnamente l’Autore di ogni bene, compiacendosi nella contemplazione delle sue perfezioni, seguendo la natura dell’amore puro e genuino, che ci rende beati nella felicità di colui che amiamo. Con questo spirito, i saggi e i buoni si dedicano a ciò che sembra conformarsi alla volontà divina, sia essa presuntiva o consequente; si accontentano di ciò che Dio realizza attraverso la sua volontà segreta e decisiva, sapendo che se conoscessimo appieno l’ordine dell’universo, scopriremmo che esso supera ogni desiderio dei saggi più illuminati, e che non potrebbe essere migliorato di quanto non sia già, non solo per tutti in generale, ma anche per noi in particolare, se ci attaccassimo, come è dovuto, all’Autore di Tutto: non soltanto come all’architetto e alla [causa efficiente](/concepts/four_causes) della nostra esistenza, ma anche come al nostro padrone e alla causa finale, che dovrebbe essere l’unico obiettivo della nostra volontà, e che solo Lui può renderci veramente felici.

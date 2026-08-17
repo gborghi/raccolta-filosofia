@@ -112,7 +112,7 @@ But are there any walls that cannot be penetrated by some ray of beauty—beauty
 
 Her name is Sophronie; Olinde is the name of the young man—they both come from the same country and share the same faith. Since he is as modest as she is beautiful, he desires much, hopes little, asks for nothing, and knows not or dares not reveal his feelings. On her part, she either does not see him, does not think of him, or despises him; and thus, the unfortunate man loses the care that might have been given to him—care that remains unknown, poorly understood, or even rejected.
 
-However, the horrible proclamation is heard, and the moment of massacre approaches. Sophronie, who is both generous and honest, forms the plan to save her people. If modesty holds her back, courage inspires her and leads to victory; rather, these two virtues complement each other and enhance one another’s effect.
+However, the horrible proclamation is heard, and the moment of massacre approaches. Sophronie, who is both generous and honest, [forms](/positions/realism_of_ideas) the plan to save her people. If modesty holds her back, courage inspires her and leads to victory; rather, these two virtues complement each other and enhance one another’s effect.
 
 The young virgin walks out alone amidst the crowd. Without displaying or concealing her charms, as she moves forward, she gathers everyone’s gaze upon her, draws her veil closer around her face, and commands respect through the restraint of her demeanor. Whether it is art or chance, negligence or deliberate adornment, everything contributes to making her beauty truly moving: the heavens, nature, and the love that favors her give even her casual gestures the effect of deliberate artistry.
 
@@ -146,7 +146,7 @@ Nel tempio dei cristiani, su un altare sotterraneo si trova l’immagine di colu
 
 Si tratta di rimuovere da lì quella statua e di trasportarla personalmente nella vostra moschea; lì attaccherò su di essa un incantesimo così potente che, finché sarà conservata lì, costituirà la protezione delle vostre porte; e grazie a un nuovo mistero, i vostri muri conserveranno un impero inespugnabile.
 
-All’udire queste parole, il re, convinto della bontà delle sue intenzioni, si affretta verso la casa di Dio; costringe i sacerdoti, rimuove con disprezzo l’immagine sacra e la porta in quel tempio empio dove un culto insensato non fa altro che offendere il cielo. È lì, in quel luogo profano e su quell’immagine sacra, che il mago sussurra i suoi blasphemi.
+All’udire queste parole, il re, convinto della bontà delle sue intenzioni, si affretta verso la casa di Dio; costringe i sacerdoti, rimuove con disprezzo l’[immagine](/positions/realism_of_ideas) sacra e la porta in quel tempio empio dove un culto insensato non fa altro che offendere il cielo. È lì, in quel luogo profano e su quell’immagine sacra, che il mago sussurra i suoi blasphemi.
 
 Ma la mattina seguente, il custode del tempio impuro non trovò più l’immagine che c’era il giorno prima; dopo averla cercata invano dappertutto, corse ad avvisare il re, il quale, senza dubitare che i cristiani l’avessero rubata, ne fu profondamente indignato.
 
@@ -232,7 +232,7 @@ Seigneur, lui dit-elle, je suis Clorinde ; vous m’avez peut-être ouï nommer 
 
 Though, in truth, these names of “thief” and “robbery” apply neither to me nor to what I have done, nothing is more just than to reclaim what was taken unjustly. At these words, the tyrant lets out a threatening cry; his anger knows no bounds. Virtue, beauty, courage—do not hope to find mercy before him. In vain does love attempt to shield them from a barbaric and vengeful heart.
 
-She is seized. Reduced to his utmost cruelty, the king condemns her to die on the stake. Her veil, her chaste robe are torn away from her; her delicate arms are battered by rough chains. She remains silent; her strong soul, though not broken, is not devoid of emotion. And the withered roses upon her face bear the innocence of youth, rather than the pallor of death.
+She is seized. Reduced to his utmost cruelty, the king condemns her to die on the stake. Her veil, her chaste robe are torn away from her; her delicate arms are battered by rough chains. She remains silent; her strong soul, though not broken, is not devoid of emotion. And the withered roses upon her face bear the innocence of youth, rather than the pallor of [morte](/concepts/death).
 
 This heroic act is immediately revealed to the public. The crowd gathers in large numbers; Olinde also arrives, filled with alarm. The fact was undeniable, but the identity of the person involved was still uncertain—it could be the woman of his heart. But the moment he sees the beautiful prisoner in that state, the moment he observes the ministers of her death carrying out their cruel duty, he rushes forward, pushing through the crowd.
 
@@ -294,7 +294,7 @@ E si ritiene offeso, come se quel disprezzo per la pena ricadesse su di lui stes
 
 Si prepara intorno a loro il rogo; e mentre si accende già la fiamma, il giovane, scoppiando in gemiti, dice alla ragazza a cui è legato: “Ecco dunque il legame con cui speravo di unirmi a te per tutta la vita! Ecco questo fuoco che i nostri cuori avrebbero dovuto bruciare insieme!”
 
-O fiamme! Oh nodi che un destino crudele ci ha legato. Ahimè, non siete quelli che l’amore mi aveva promesso. Destino crudele che ci ha separati in vita e ci unisce ancora più strettamente alla morte. Ah! Poiché anche tu devi subire una fine così funesta, mi consolo nel condividerla con te. Essere uniti su questo rogo, sebbene non siamo potuti esserlo sotto il baldacchino nuziale. Piango, ma per la tua triste sorte, e non per la mia. Poiché muoio al tuo fianco.
+O fiamme! Oh nodi che un destino crudele ci ha legato. Ahimè, non siete quelli che l’amore mi aveva promesso. Destino crudele che ci ha separati in vita e ci unisce ancora più strettamente alla [morte](/concepts/death). Ah! Poiché anche tu devi subire una fine così funesta, mi consolo nel condividerla con te. Essere uniti su questo rogo, sebbene non siamo potuti esserlo sotto il baldacchino nuziale. Piango, ma per la tua triste sorte, e non per la mia. Poiché muoio al tuo fianco.
 
 Oh! Che la mort sia dolce per me, che i tormenti siano deliziosi, se solo riuscirò, nel momento finale, quando i nostri corpi si uniranno, che le nostre bocche si tocchino e che possiamo esalare e ricevere insieme gli ultimi nostri respiri! Lui parla, ma i suoi singhiozzi soffocano le sue parole. Lei lo rimprovera dolcemente, dicendogli.
 

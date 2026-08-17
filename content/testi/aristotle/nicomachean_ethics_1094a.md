@@ -13233,9 +13233,7 @@ L'uguaglianza dei rapporti è indicata dalla comune espressione "secondo la prop
 
 tutti infatti concordano che il giusto nelle distribuzioni deve essere secondo
 
-alcuni stimano: ma quale debba essere quel valore, non tutti concordano; i democratici
-
-sono per la libertà, oligarchi per la ricchezza, altri per la nobiltà di nascita,
+alcuni stimano: ma quale debba essere quel valore, non tutti concordano; i democratici sono per la [libertà](/concepts/freedom), oligarchi per la ricchezza, altri per la nobiltà di nascita,
 
 e il partito aristocratico per la virtù.
 
@@ -15281,7 +15279,7 @@ l'uomo che ricevesse parte della materia stessa dell'azione ingiusta sarebbe:
 
 perché in questo caso l'uomo che giudicò erroneamente, diciamo un campo, non
 
-effettivamente ottenere terra ma denaro dalla sua ingiusta decisione.
+effettivamente ottenere terra ma [denaro](/concepts/money) dalla sua ingiusta decisione.
 
 <span class="atom-split" data-atom="073" data-title="Chapter XIV. (parte 2)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en" data-tags="assi/moral_foundation,positions/virtue_ethics,concepts/eudaimonia,concepts/phronesis,concepts/virtue,forms/treatise,schools/lyceum"></span>
 
@@ -15361,7 +15359,7 @@ e concludere che agire Giustamente è quindi anche facile. Ma questo non è.
 
 veramente così; avere rapporti con la moglie del vicino, o colpire il proprio
 
-prossimo, o dare il denaro con la propria mano, è naturalmente facile e
+prossimo, o dare il [denaro](/concepts/money) con la propria mano, è naturalmente facile e
 
 dipende da sé: ma il fare queste azioni con un certo interiore
 
@@ -26297,7 +26295,7 @@ necessario? È ovvio, naturalmente, che nessuna singola persona può unire in
 
 a se stesso tutte le pretese. Inoltre, il contraccambio dei benefici è, in generale, un
 
-dovere più alto che fare gentilezze non richieste al proprio compagno; in
+[dovere](/positions/duty_imperative) più alto che fare gentilezze non richieste al proprio compagno; in
 
 altre parole, l'adempimento di un debito è più obbligatorio per uno che
 
@@ -32295,7 +32293,7 @@ visto che non avrebbero potuto lasciare ai loro alcuna eredità più preziosa
 
 comunità, né avrebbero preferito, per sé o per i loro
 
-carissimi amici, il possesso di qualsiasi facoltà piuttosto che questa.
+carissimi amici, [il possesso](/concepts/property) di qualsiasi facoltà piuttosto che questa.
 
 La pratica, tuttavia, sembra contribuire non poco alla sua acquisizione;
 

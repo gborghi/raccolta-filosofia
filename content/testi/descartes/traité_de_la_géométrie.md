@@ -1665,6 +1665,64 @@ And since the first of these sums divided by d is equal to the second sum divide
 
 And know that this very same argument applies to everything that has been said about other refractions or reflections that occur within these proposed oval shapes, without the need to make any changes at all. As for the signs + and - used in the calculations, everyone can easily examine them for themselves, so there is no need for me to dwell on this point further.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, sebbene tutte queste ovali sembrino essere quasi della stessa natura, esse sono tuttavia di quattro generi diversi, ciascuno dei quali contiene al proprio interno un'infinità di altri generi, i quali a loro volta contengono ciascuno tante specie diverse quante ne contiene il genere delle ellissi o quello delle iperboli; poiché, a seconda che la proporzione tra le linee A5, A6, o simili, sia differente, il genere subalterno di queste ovali è differente; poi, a seconda che la proporzione tra le linee AF e AG o AH sia modificata, le ovali di ciascun genere subalterno cambiano di specie; e a seconda che AG o AH siano più o meno grandi, esse variano per dimensione; e se le linee A5 e A6 sono uguali, al posto delle ovali del primo genere o del terzo si descrivono soltanto linee rette; ma al posto di quelle del secondo si hanno tutte le iperboli possibili, e al posto di quelle dell'ultimo tutte le ellissi.
+
+Le proprietà di queste ovali riguardanti riflessioni e rifrazioni.
+
+Inoltre, in ciascuna di queste ovali bisogna considerare due parti che hanno proprietà diverse;
+
+ossia, nella prima parte, quella verso A, fa sì che i raggi che dall'aria provengono dal punto F si rivolgano tutti verso il punto G quando incontrano la superficie convessa di un vetro la cui superficie sia 1A1, e nel quale le rifrazioni avvengano in modo tale che, come detto nella Diottrica, esse possano tutte essere misurate dalla proporzione tra le linee A5 e A6 o simili, grazie alle quali questa ovale è stata descritta.
+
+Ma la parte verso V fa sì che i raggi che provengono dal punto G si riflettano tutti verso F se incontrassero la superficie concava di uno specchio la cui figura fosse 1V1, e che fosse fatto di una materia tale da attenuare la forza di questi raggi secondo la proporzione tra le linee A5 e A6; infatti, da quanto dimostrato nella Diottrica, risulta evidente che, posta questa condizione, gli angoli di riflessione sarebbero diseguali, così come lo sono quelli di rifrazione, e potrebbero essere misurati nello stesso modo.
+
+Nella seconda ovale, la parte 2A2 serve ancora per riflessioni nelle quali si suppone che gli angoli siano diseguali; infatti, trovandosi sulla superficie di uno specchio composto della stessa materia del precedente, essa farebbe riflettere tanto tutti i raggi che provenissero dal punto G da farli apparire, dopo la riflessione, come provenienti dal punto F. Ed è da notare che, avendo reso la linea AG molto più grande di AF, questo specchio sarebbe convesso al centro verso A e concavo alle estremità; infatti, tale è la figura di questa linea, che in ciò rappresenta piuttosto un cuore che un'ovale.
+
+Ma l'altra sua parte X2 serve per le rifrazioni e fa sì che i raggi che dall'aria tendono verso F si devino verso G attraversando la superficie di un vetro che abbia quella forma.
+
+La terza ovale serve interamente per le rifrazioni e fa sì che i raggi che dall'aria tendono verso F vadano a finire in H nel vetro, dopo aver attraversato la sua superficie la cui figura è A3Y3, che è convessa ovunque, tranne verso A dove è leggermente concava, così da avere la forma di un cuore proprio come la precedente; e la differenza tra le due parti di questa ovale consiste nel fatto che il punto F è più vicino all'una che non il punto H, e che è più lontano dall'altra rispetto allo stesso punto H.
+
+Allo stesso modo, l'ultima ovale serve interamente per le riflessioni e fa sì che, se i raggi che provengono dal punto H incontrassero la superficie concava di uno specchio della stessa materia dei precedenti e la cui figura fosse A4Z4, essi si rifletterebbero tutti verso F.
+
+Così si possono chiamare i punti F e G o H i punti focali di queste ovali, a somiglianza di quelli delle ellissi e delle iperboli, che sono stati così denominati nella Diottrica.
+
+Dimostrazione delle proprietà di queste ovali riguardanti riflessioni e rifrazioni.
+
+Trascurerò molte altre rifrazioni e riflessioni regolate da queste stesse ovali, poiché essendo solo le inverse o opposte a queste, possono facilmente dedursi da esse.
+
+Ma non devo trascurare la dimostrazione di quanto ho detto; e a tal fine prendiamo, per esempio, il punto C, a piacere nella prima parte della prima di queste ovali; poi tracciamo la linea retta CP, che taglia la curva nel punto C con angolo retto, cosa facile grazie al problema precedente. Infatti, ponendo b per AG, c per AF, c + z per FC e supponendo che la proporzione tra d e e, che qui prenderò sempre come quella che misura le rifrazioni del vetro proposto, indichi anche quella tra le linee A5 e A6, o simili, che sono servite per descrivere questa ovale, ciò dà per GC: si trova che la linea AP è:
+
+così come è stato mostrato sopra. Inoltre, dal punto P tracciamo PQ con angolo retto sulla linea FC, e PN anch'essa con angolo retto su GC. Consideriamo che se PQ sta a PN come d sta a e, cioè come le linee che misurano le rifrazioni del vetro convesso AC, il raggio che va dal punto F al punto C deve curvarsi tanto entrando in questo vetro da andare poi a finire in G: ciò risulta assai evidente da quanto detto nella Diottrica. Infine, vediamo tramite il calcolo se sia vero che PQ sta a PN come d sta a e. I triangoli rettangoli PQF e CMF sono simili, da cui segue che CF sta a CM come FP sta a PQ; e quindi che FP, moltiplicata per CM e divisa per CF, è uguale a PQ. Allo stesso modo, i triangoli rettangoli PNG e CMG sono simili; da cui segue che GP, moltiplicata per CM e divisa per CG, è uguale a PN. Poiché le moltiplicazioni o divisioni effettuate su due quantità per una stessa non cambiano la proporzione tra esse, se FP moltiplicata per CM e divisa per CF sta a GP moltiplicata anch'essa per CM e divisa per CG come d sta a e, dividendo entrambe queste somme per CM, poi moltiplicandole entrambe per CF e nuovamente per CG, resta che FP moltiplicata per CG deve stare a GP moltiplicata per CF come d sta a e.
+
+Ora, per costruzione, FP è:
+
+,
+
+oppure:
+
+FP = 
+
+e CG è:
+
+;
+
+quindi, moltiplicando FP per CG, si ottiene:
+
+Poi GP è:
+
+oppure:
+
+GP = 
+
+e CF è c + z.
+
+Quindi, moltiplicando GP per CF, si ottiene:
+
+E poiché la prima di queste somme divisa per d è la stessa che la seconda divisa per e, risulta evidente che FP moltiplicata per CG sta a GP moltiplicata per CF; cioè che PQ sta a PN come d sta a e, che è tutto ciò che si doveva dimostrare.
+
+Sappiate che questa stessa dimostrazione vale per tutto quanto detto sulle altre rifrazioni o riflessioni che avvengono nelle ovali proposte senza dover cambiare nulla, se non i segni + e - del calcolo; pertanto ognuno può facilmente verificarlo da sé, senza che io debba soffermarmici ulteriormente.
+
 <span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="concepts/infinity,forms/treatise"></span>
 
 Mais il faut maintenant que je satisfasse à ce que j’ai omis en la Dioptrique, lorsqu’après avoir remarqué qu’il peut y avoir des verres de plusieurs diverses figures qui fassent aussi bien l’un que l’autre que les rayons venant d’un même point de l’objet s’assemblent tous en un autre point après le savoir traversés ; et qu’entre ces verres, ceux qui sont fort convexes d’un côté et concaves de l’autre ont plus de force pour brûler que ceux qui sont également convexes des deux côtés ; au lieu que tout au contraire ces derniers sont les meilleurs pour les lunettes. Je me suis contenté d’expliquer ceux que j’ai cru être les meilleurs pour la pratique, en supposant la difficulté que les artisans peuvent avoir à les tailler. C’est pourquoi, afin qu’il ne reste rien à souhaiter touchant la théorie de cette science, je dois expliquer encore ici la figure des verres qui, ayant l’une de leurs superficies autant convexe ou concave qu’on voudra, ne laissent pas de faire que tous les rayons qui viennent vers eux d’un même point, ou parallèles, s’assemblent après en un même point ; et celles des verres qui font le semblable, étant également convexes des deux côtés, ou bien la convexité de l’une de leurs superficies ayant la proportion donnée à celle de l’autre.
@@ -2597,6 +2655,214 @@ Exemple de l’usage de ces réductions.
 
 Mais afin qu’on puisse mieux connaître l’utilité de cette règle il faut que je l’applique à quelque problème.
 
+<span class="qlang-split" data-lang="en"></span>
+
+However, there are only two that we need to consider, namely a² and a² + c²; for the others, giving more or fewer dimensions in the quotient than there are in the known quantity of the penultimate term, would prevent the division from being carried out. And note that I count the dimensions of y⁶ here as only three, because there is neither a y⁵ nor a y³ nor a y anywhere in the entire sum. Now, upon examining the binomial y² – a² – c² = 0, we find that the division can be performed by it in this manner:
+
+which shows that the sought root is a² + c². And the proof is easily established by multiplication.
+
+What problems are solid when the equation is cubic?
+
+But when no binomial is found that can thus divide the entire sum of the proposed equation, it is certain that the problem dependent on it is solid. And it is no less a fault after this to attempt to construct it without using circles and straight lines than it would be to use conic sections to construct those for which only circles are needed: for ultimately, anything that betrays some ignorance is called a fault.
+
+The reduction of equations with four dimensions when the problem is planar; and which ones are solid.
+
+If one has an equation whose unknown quantity has four dimensions, one must, in the same way, after removing any surd and fractional numbers if they exist, see whether one can find a binomial that divides the entire sum, composed of one of the quantities that divide the last term without fractions. And if such a binomial is found, either the known quantity of this binomial is the sought root; or at least, after this division, only three dimensions remain in the equation, whereupon one must again examine it in the same way. But when no such binomial is found, one must, by increasing or decreasing the value of the root, remove the second term from the sum in the manner just explained. And then reduce it to another equation containing only three dimensions. This is done in the following way.
+
+Instead of: + x⁴ ± px² ± qx ± r = 0, one must write: + y⁶ ± py⁴ + (p² ± 4r) y² – 4q = 0. And as for the signs + or – that I have omitted, if there was +p in the previous equation, one must put +2p in this one; or if there was –p, one must put –2p; and conversely, if there was +r, one must put –4r, or if there was –r, one must put +4r; and whether there was +q or –q, one must always put –q² and +p²—at least if one assumes that x⁴ and y⁶ are marked with the + sign, for it would be just the opposite if one assumed the – sign. For example, if one has: x⁴ – 4x² – 8x + 35 = 0, one must write in its place: y⁶ – 8y⁴ – 124y² – 64 = 0, because the quantity I called p being –4, one must put –8y⁴ for 2py⁴; and the one I called r being 35, one must put (16 – 140)y², that is, –124y², instead of (p² – 4r)y²; and finally, q being 8, one must put –64 for –q². Likewise, instead of: x⁴ – 17x² – 20x – 6 = 0, one must write: y⁶ – 34y⁴ + 313y² – 400 = 0; for 34 is double of 17, and 313 is its square joined to the quadruple of 6, and 400 is the square of 20.
+
+Likewise also, instead of:
+
+,
+
+one must write:
+
+y⁶ + (a² – 2c²) y⁴ + (c⁴ – a⁴) y² – a⁶ – 2a⁴c² – a²c⁴ = 0;
+
+For p is 1/2 a² – c², and p² is 1/4 a⁴ – a²c² + c⁴, and 4r is –5/4 a⁴ + a²c², and finally –q² is –a⁶ – 2a⁴c² – a²c⁴.
+
+After the equation has been reduced thus to three dimensions, one must seek the value of y² by the method already explained; and if it cannot be found, there is no need to proceed further; for it follows infallibly from this that the problem is solid. But if it is found, one can divide the preceding equation by its means into two others, each of which will have the unknown quantity with only two dimensions, and whose roots will be the same as its own.
+
+That is, instead of x⁴ ± px² ± qx ± r = 0, one must write these two others:
+
+± ± ,
+
+and:
+
+± ± .
+
+And as for the signs + and – that I have omitted, if there is +p in the previous equation, one must put:
+
+in each of these; and , if there is –p in the other.
+
+But one must put:
+
+in the one where there is –yx;
+
+and:
+
+in the one where there is +yx, when there is +q in the first;
+
+and conversely, if there is –q, one must put:
+
+, in the one where there is –yx;
+
+and:
+
+in the one where there is +yx.
+
+After this, it is easy to determine all the roots of the proposed equation, and consequently to construct the problem whose solution it contains, using only circles and straight lines.
+
+For example, since making y⁶ – 34y⁴ + 313y² – 400 = 0, for x⁴ – 17x² – 20x – 6 = 0,
+
+we find that y² is 16, one must, instead of this equation: x⁴ – 17x² – 20x – 6 = 0, write these two others: + x² – 4x – 3 = 0, and + x² + 4x + 2 = 0,
+
+for:
+
+y is 4,
+
+is 8,
+
+p is 17,
+
+and q is 20, so that:
+
+makes –3, and makes +2.
+
+And extracting the roots of these two equations, one finds all the same roots as if one had extracted them from the one containing x⁴—that is, one finds one true root, which is , and three false roots, which are:
+
+, and 
+
+Thus, having: x⁴ – 4x² – 8x + 35 = 0, since the root of y⁶ – 8y⁴ – 124y² – 64 = 0 is again 16, one must write x² – 4x + 5 = 0 and x² + 4x + 7 = 0,
+
+for here:
+
+makes 5,
+
+and makes 7.
+
+And since no root, neither true nor false, is found in these last two equations, one knows from this that the four roots of the equation from which they come are imaginary; and that the problem for which it was found is planar by nature; but that it cannot in any way be constructed, because the given quantities cannot be combined.
+
+Likewise, having:
+
+Since we find a² + c² for y², one must write:
+
+And:
+
+for y is and is , and is , from which one knows that the value of z is:
+
+or else:
+
+And since we have done above, we learn that the quantity x, for the knowledge of which we have made all these operations, is:
+
+Example of the use of these reductions.
+
+But in order to better understand the usefulness of this rule, I must apply it to some problem.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tuttavia, ve ne sono soltanto due che occorre considerare, vale a dire a² e a² + c²; poiché le altre, dando più o meno dimensioni nel quoziente rispetto a quelle presenti nella quantità nota del termine penultimo, impedirebbero che la divisione potesse effettuarsi. E notate che qui non conto le dimensioni di y⁶ se non per tre, dato che non vi sono né y⁵ né y³ né y in tutta la somma. Ora, esaminando il binomio y² – a² – c² = 0, troviamo che la divisione può essere effettuata mediante esso in questo modo:
+
+il che dimostra che la radice cercata è a² + c². E la prova è facile da fare tramite moltiplicazione.
+
+Quali problemi sono solidi quando l'equazione è cubica.
+
+Ma quando non si trova alcun binomio che possa dividere così tutta la somma dell'equazione proposta, è certo che il problema da essa dipendente è solido. E non è una colpa minore, dopo ciò, cercare di costruirlo senza usare solo cerchi e linee rette, piuttosto che usare sezioni coniche per costruire quelli per cui bastano soltanto cerchi: infatti tutto ciò che rivela una qualche ignoranza si chiama colpa.
+
+La riduzione delle equazioni che hanno quattro dimensioni quando il problema è piano; e quali sono quelli che sono solidi.
+
+Se abbiamo un'equazione la cui incognita abbia quattro dimensioni, bisogna allo stesso modo, dopo aver eliminato i numeri irrazionali e frazionari, se ce ne sono, vedere se si riesce a trovare un binomio che divida tutta la somma, componendolo di una delle quantità che dividono senza frazioni l'ultimo termine. E se se ne trova uno, o la quantità nota di quel binomio è la radice cercata, oppure almeno dopo questa divisione rimangono nell'equazione solo tre dimensioni, per cui occorre nuovamente esaminarla nello stesso modo. Ma quando non si trova alcun binomio di questo tipo, bisogna aumentare o diminuire il valore della radice per togliere il secondo termine della somma, secondo la modalità appena spiegata. E poi ricondurla a un'altra che contenga solo tre dimensioni. Ciò si fa in questo modo.
+
+Al posto di: + x⁴ ± px² ± qx ± r = 0, bisogna scrivere: + y⁶ ± py⁴ + (p² ± 4r) y² – 4q = 0. E per i segni + o – che ho omesso, se nell'equazione precedente c'era +p, in questa bisogna mettere +2p, oppure se c'era –p, bisogna mettere –2p, e viceversa se c'era +r, bisogna mettere –4r, oppure se c'era –r, bisogna mettere +4r, e sia che ci fosse +q o –q, bisogna sempre mettere –q², e +p², almeno se si suppone che x⁴ e y⁶ siano contrassegnati dal segno +, perché sarebbe tutto il contrario se li si supponesse con il segno –. Per esempio, se abbiamo: x⁴ – 4x² – 8x + 35 = 0, bisogna scrivere al suo posto: y⁶ – 8y⁴ – 124y² – 64 = 0, poiché la quantità che ho chiamato p essendo –4, bisogna mettere –8y⁴ per 2py⁴; e quella che ho chiamato r essendo 35, bisogna mettere (16 – 140) y², cioè –124y², al posto di (p² – 4r) y²; e infine q essendo 8, bisogna mettere –64, per –q². Allo stesso modo, al posto di: x⁴ – 17x² – 20x – 6 = 0, bisogna scrivere: y⁶ – 34y⁴ + 313y² – 400 = 0; poiché 34 è il doppio di 17, e 313 è il quadrato unito al quadruplo di 6, e 400 è il quadrato di 20.
+
+Allo stesso modo anche al posto di:
+
+,
+
+bisogna scrivere:
+
+y⁶ + (a² – 2c²) y⁴ + (c⁴ – a⁴) y² – a⁶ – 2a⁴c² – a²c⁴ = 0;
+
+Poiché p è pari a 1/2 a² – c², e p² è 1/4 a⁴ – a²c² + c⁴, e 4r è –5/4 a⁴ + a²c², e infine –q² è –a⁶ – 2a⁴c² – a²c⁴.
+
+Dopo che l'equazione è stata così ridotta a tre dimensioni, bisogna cercare il valore di y² con il metodo già spiegato; e se non si riesce a trovarlo, non occorre andare oltre; perché ne consegue inevitabilmente che il problema è solido. Ma se lo si trova, si può dividere tramite esso l'equazione precedente in due altre, in ciascuna delle quali l'incognita avrà solo due dimensioni, e le cui radici saranno le stesse delle sue.
+
+Ovvero, al posto di x⁴ ± px² ± qx ± r = 0, bisogna scrivere queste due altre:
+
+ ±  ± ,
+
+e:
+
+ ±  ± .
+
+E per i segni + e – che ho omesso, se nell'equazione precedente c'è +p, bisogna mettere:
+
+ in ciascuna di queste; e , se nell'altra c'è –p.
+
+Ma bisogna mettere:
+
+ in quella dove c'è –yx;
+
+e:
+
+ in quella dove c'è +yx, quando nella prima c'è +q;
+
+e viceversa se c'è –q, bisogna mettere:
+
+, in quella dove c'è –yx;
+
+e:
+
+ in quella dove c'è +yx.
+
+Dopodiché è facile conoscere tutte le radici dell'equazione proposta, e quindi costruire il problema, la cui soluzione essa contiene, senza usare altro che cerchi e linee rette.
+
+Per esempio, poiché facendo y⁶ – 34y⁴ + 313y² – 400 = 0, per x⁴ – 17x² – 20x – 6 = 0,
+
+si trova che y² è 16, bisogna al posto di questa equazione: x⁴ – 17x² – 20x – 6 = 0, scrivere queste due altre: + x² – 4x – 3 = 0, e + x² + 4x + 2 = 0,
+
+poiché:
+
+y è 4,
+
+ è 8,
+
+p è 17,
+
+e q è 20, in modo che:
+
+ fa –3, e  fa +2.
+
+E ricavando le radici di queste due equazioni, si trovano tutte uguali a quelle che si otterrebbero dalla prima, ovvero se ne trova una vera, che è , e tre false, che sono:
+
+,  e 
+
+Così, avendo: x⁴ – 4x² – 8x + 35 = 0, poiché la radice di y⁶ – 8y⁴ – 124y² – 64 = 0 è di nuovo 16, bisogna scrivere x² – 4x + 5 = 0 e x² + 4x + 7 = 0,
+
+poiché qui:
+
+ fa 5,
+
+e  fa 7.
+
+E poiché non si trova nessuna radice, né vera né falsa, in queste ultime due equazioni, si capisce che le quattro dell'equazione da cui derivano sono immaginarie; e che il problema per cui si è trovata è piano per sua natura; ma che non può essere costruito in nessun modo, perché le quantità date non possono essere unite.
+
+Allo stesso modo, avendo:
+
+Poiché si trova a² + c² per y², bisogna scrivere:
+
+E:
+
+poiché y è  e  è , e  è , da cui si capisce che il valore di z è:
+
+oppure:
+
+E poiché abbiamo fatto sopra , impariamo che la quantità x, per la cui conoscenza abbiamo fatto tutte queste operazioni, è:
+
+Esempio dell'uso di queste riduzioni.
+
+Ma affinché si possa comprendere meglio l'utilità di questa regola, devo applicarla a qualche problema.
+
 <span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="concepts/infinity,forms/treatise"></span>
 
 Si le carré AD et la ligne BN étant donnés, il faut prolonger le côté AC jusqu’à E, en sorte que EF, tirée de E vers B, soit égale à NB : on apprend de Pappus, qu’ayant premièrement prolongé BD jusqu’à G, en sorte que DG soit égale à DN, et ayant décrit un cercle dont le diamètre soit BG, si on prolonge la ligne droite AC, elle rencontrera la circonférence de ce cercle au point E qu’on demandait. Mais pour ceux qui ne sauraient point cette construction, elle serait assez difficile à rencontrer ; et, en la cherchant par la méthode ici proposée, ils ne s’aviseraient jamais de prendre DG pour la quantité inconnue, mais plutôt CF ou FD, à cause que ce sont elles qui conduisent le plus aisément à l’équation ; et lors ils en trouveraient une qui ne serait pas facile à démêler sans la règle que je viens d’expliquer. Car posant a pour BD ou CD, et c pour EF, et x pour DF, on a CF = a- x, et comme CF ou a - x est à FE ou c, ainsi FD ou x est à BF, qui par conséquent est . Puis à cause du triangle rectangle BDF dont les côtés sont l’un x et l’autre a, leurs carrés, qui sont x2 + a2, sont égaux à celui de la base, qui est  ; de façon que, multipliant le tout par x2 - 2ax + a2, on trouve que l’équation est x4 - 2ax3 + 2a2x2 - 2a3x + a4 = c2x2, ou bien x4 - 2ax3 + (2a2 - c2) x2 - 2a3x + a4 = 0 ; et on connaît par les règles précédentes que sa racine, qui est la longueur de la ligne DF, est :
@@ -2680,6 +2946,174 @@ EA est :
 et à cause de l’angle droit EAH, le carré de HE, ou EG est :
 
  ;
+
+<span class="qlang-split" data-lang="en"></span>
+
+Given the square AD and the line BN, it is necessary to extend side AC until E, such that EF drawn from E toward B is equal to NB. Pappus teaches us that, after first extending BD until G so that DG equals DN, and having described a circle with diameter BG, if we extend the straight line AC, it will intersect the circumference of this circle at the point E we seek. However, for those unfamiliar with this construction, it would be quite difficult to discover; and when attempting to solve the problem by the method proposed here, they would never think to take DG as the unknown quantity—rather, they would choose CF or FD, since these lead most easily to the equation. And then they would find an equation that would not be easy to unravel without the rule I have just explained. For if we let a represent BD or CD, c represent EF, and x represent DF, we have CF = a - x, and since CF, or a - x, is to FE, or c, as FD, or x, is to BF, it follows that BF is . Now, because triangle BDF is right-angled, with sides x and a, their squares, which are x² + a², are equal to the square of the base, which is ; thus, multiplying the whole by x² - 2ax + a², we find that the equation becomes x⁴ - 2ax³ + 2a²x² - 2a³x + a⁴ = c²x², or equivalently, x⁴ - 2ax³ + (2a² - c²)x² - 2a³x + a⁴ = 0. And according to the rules previously given, its root—which is the length of the line DF—is:
+
+If we had instead taken BF, or CE, or BE, as the unknown quantity, we would again arrive at an equation with four dimensions, but one that would be easier to solve and could be found fairly readily. On the other hand, if we had assumed DG, we would reach the equation much more laboriously—but it would also turn out to be very simple. I mention this here to warn you that, when the problem posed is not solid, if in seeking it by one path you arrive at a highly complex equation, you can usually find a simpler one by pursuing it along another route.
+
+I could still add various rules for solving equations involving cubes or squares of squares, but they would be superfluous—for whenever problems are planar, you can always find their constructions using these methods.
+
+General rule for reducing all equations beyond the square of a square.
+
+I could also add further rules for equations reaching up to the supersolid, or the square of a cube, or even higher—but I prefer to encompass them all in one general principle and say generally that, once you have tried to reduce them to the same [form](/positions/realism_of_ideas) as those with as many dimensions resulting from the multiplication of two others with fewer dimensions, and having counted all the ways in which such multiplication is possible, yet none of them succeeded, you must be certain that they cannot be reduced any further. Thus, if the unknown quantity has three or four dimensions, the problem for which you seek it is solid; if it has five or six dimensions, it is of a more complex degree, and so on.
+
+As for the rest, I have omitted here the proofs of most of what I have said, because they seemed to me so straightforward that, provided you take the trouble to examine carefully whether I have made any mistakes, they will become clear to you of themselves—and it will be more useful to learn them this way than by reading them.
+
+General method for constructing all solid problems reduced to an equation of three or four dimensions.
+
+Now, once you are sure that the problem posed is solid—whether the equation by which you seek it rises to the square of a square, or whether it rises only to the cube—you can always find its root by means of one of the three conic sections, whichever one it may be, or even by some part of one of them, however small it might be—using nothing else but straight lines and circles. But here I shall content myself with giving a general rule for finding them all by means of a parabola, since it is in some sense the simplest.
+
+First, you must remove the second term from the equation proposed, if it is not already zero, thereby reducing it to the form z³ = ± apz² ± a²q, if the unknown quantity has only three dimensions; or to the form z⁴ = ± apz² ± a²qz ± a³r, if it has four dimensions; or, taking a as unity, to the forms z³ = ± az ± q and z⁴ = ± pz² ± qz ± r.
+
+Next, assuming that the parabola FAG (fig. 20) has already been described, with axis ACDKL and right side a or 1, where AC is half of it, and finally that point C lies inside this parabola and A is its vertex, you must do the following:
+
+Let CD = ,
+
+and take it on the same side as point A relative to point C if the equation contains +p; but if it contains -p, take it on the opposite side.
+
+And from point D—or, if p is zero, from point C (fig. 21)—you must raise a perpendicular line to E, making it equal to
+
+,
+
+and finally, from center E, describe the circle FG, whose radius is AE, if the equation is only cubic, so that the quantity r is zero.
+
+But when there is +r, you must, on the extended line AE, take AR equal to r on one side and AS equal to the right side of the parabola, which is r, on the other side; and having described a circle with diameter RS, you must draw AH perpendicular to AE, which intersects this circle RHS at point H, the point through which the other circle FHG must pass. And when there is -r, after finding AH in this way (fig. 22), you must inscribe AI, equal to AH, in another circle whose diameter is AE; and then it is through point I that the first circle FIG sought must pass. Now, this circle FG may intersect or touch the parabola at 1, 2, 3, or 4 points; drawing perpendiculars from these points onto the axis, you obtain all the roots of the equation, both real and imaginary. Namely, if the quantity q is marked with the + sign, the real roots will be those perpendiculars that lie on the same side of the parabola as the center E of the circle, such as FL; and the others, like GK, will be imaginary. But conversely, if the quantity q is marked with the - sign, the real roots will be on the opposite side; and the imaginary ones, or those smaller than nothing, will be on the side where E, the center of the circle, lies. Finally, if this circle does not intersect or touch the parabola at all, it shows that there are neither real nor imaginary roots in the equation, and that they are all imaginary. Thus, this rule is the most general and complete one you could possibly wish for.
+
+The proof of this is quite straightforward. For if the line GK, found by this construction, is called z, AK will be z² because of the parabola, in which GK must be the mean proportional between AK and the right side, which is 1; then, if I subtract AC from AK—which is
+
+,
+
+and CD—which is
+
+,
+
+I am left with DK, or EM, which is
+
+,
+
+whose square is
+
+z⁴ – pz² – z² + 
+
+and because DE, or KM, is
+
+,
+
+the whole GM is
+
+,
+
+whose square is
+
+,
+
+and adding these two squares together, we get
+
+z⁴ – pz² + qz + ,
+
+for the square of the line GE, since it is the base of the right triangle EMG.
+
+But since this same line GE is the radius of the circle FG, it can also be expressed in other terms: ED being
+
+and AD being
+
+,
+
+EA is
+
+because of the right angle ADE; then HA being the mean proportional between AS, which is 1, and AR, which is r, it is
+
+,
+
+and because of the right angle EAH, the square of HE, or EG, is
+
+;
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dati il quadrato AD e la linea BN, occorre prolungare il lato AC fino a E, in modo che EF, tracciata da E verso B, sia uguale a NB: si apprende da Pappo che, dopo aver prolungato prima BD fino a G, in modo che DG sia uguale a DN, e aver descritto un cerchio il cui diametro sia BG, se si prolunga la retta AC, essa incontrerà la circonferenza di questo cerchio nel punto E richiesto. Tuttavia, per coloro che non conoscono questa costruzione, essa sarebbe abbastanza difficile da trovare; e cercandola mediante il metodo qui proposto, essi non si accorgerebbero mai di prendere DG come quantità incognita, bensì CF o FD, poiché sono proprio queste le grandezze che conducono più facilmente all'equazione; e così troverebbero un'equazione non facile da risolvere senza la regola che ho appena spiegato. Infatti, ponendo a per BD o CD, c per EF e x per DF, si ha CF = a - x, e poiché CF o a - x sta a FE o c, così FD o x sta a BF, che pertanto è . Inoltre, dato il triangolo rettangolo BDF i cui cateti sono uno x e l'altro a, i loro quadrati, cioè x² + a², sono uguali al quadrato della base, che è ; moltiplicando quindi tutto per x² - 2ax + a², si ottiene l'equazione x⁴ - 2ax³ + 2a²x² - 2a³x + a⁴ = c²x², ovvero x⁴ - 2ax³ + (2a² - c²)x² - 2a³x + a⁴ = 0; e dalle regole precedenti sappiamo che la sua radice, che è la lunghezza della linea DF, è:
+
+Se invece si fosse posta BF, oppure CE o BE, come quantità incognita, si giungerebbe nuovamente a un'equazione nella quale ci sarebbero quattro dimensioni, ma che sarebbe più facile da risolvere e si arriverebbe abbastanza agevolmente; mentre se si fosse preso DG, si giungerebbe molto più difficilmente all'equazione, ma essa sarebbe comunque molto semplice. Questo lo segnalo affinché sappiate che, quando il problema proposto non è solido, se cercandolo per una via si giunge a un'equazione molto complessa, ordinariamente si può arrivare a una più semplice cercandolo per un'altra via.
+
+Potrei ancora aggiungere varie regole per risolvere equazioni che vanno al cubo o al quadrato del quadrato, ma sarebbero superflue; infatti, quando i problemi sono piani, si può sempre trovare la loro costruzione tramite queste regole.
+
+Regola generale per ridurre tutte le equazioni che superano il quadrato del quadrato.
+
+Potrei anche aggiungerne altre per le equazioni che arrivano fino al sursolido, o al quadrato del cubo, o oltre, ma preferisco riunirle tutte in una sola e dire in generale che, quando si è cercato di ridurle alla stessa [forma](/positions/realism_of_ideas) di quelle con tante dimensioni ottenute dalla moltiplicazione di due altre che ne hanno meno, e avendo enumerato tutti i modi in cui tale moltiplicazione è possibile, ma non essendoci riusciti con nessuno, bisogna assicurarsi che esse non possono essere ridotte a forme più semplici; per cui, se la quantità incognita ha tre o quattro dimensioni, il problema per cui la si cerca è solido, e se ne ha cinque o sei, è di grado più complesso, e così via.
+
+Del resto, ho omesso qui le dimostrazioni della maggior parte di ciò che ho detto, perché mi sono sembrate così facili che, purché vi prendiate la pena di esaminare metodicamente se mi sono sbagliato, esse vi appariranno da sole; e sarà più utile impararle in questo modo piuttosto che leggendole.
+
+Metodo generale per costruire tutti i problemi solidi ridotti a un'equazione di tre o quattro dimensioni.
+
+Quando dunque si è certi che il problema proposto è solido, sia che l'equazione attraverso cui lo si cerca arrivi al quadrato del quadrato, sia che arrivi solo al cubo, si può sempre trovare la sua radice tramite una delle tre sezioni coniche, qualunque essa sia, o addirittura tramite una parte di una di esse, per quanto piccola possa essere; usando per il resto solo linee rette e cerchi. Ma mi limiterò qui a dare una regola generale per trovarle tutte tramite una parabola, poiché essa è in qualche modo la più semplice.
+
+Prima di tutto, occorre eliminare il secondo termine dell'equazione proposta, se già non è nullo, e così ridurla alla forma z³ = ± apz² ± a²q, se la quantità incognita ha solo tre dimensioni; oppure alla forma z⁴ = ± apz² ± a²qz ± a³r, se ne ha quattro; o ancora, assumendo a come unità, alla forma z³ = ± az ± q e alla forma z⁴ = ± pz² ± qz ± r.
+
+Dopo ciò, supponendo che la parabola FAG (fig. 20) sia già descritta, e che il suo asse sia ACDKL, e che il suo lato destro sia a o 1, di cui AC è la metà, e infine che il punto C sia all'interno di questa parabola e A ne sia il vertice; occorre fare:
+
+CD = ,
+
+e prenderla dallo stesso lato rispetto al punto A rispetto al punto C, se nell'equazione compare +p; ma se compare -p, occorre prenderla dall'altro lato.
+
+E dal punto D, oppure, se la quantità p fosse nulla, dal punto C (fig. 21), occorre innalzare una linea perpendicolare fino a E, in modo che essa sia uguale a
+
+,
+
+e infine dal centro E occorre descrivere il cerchio FG, il cui semidiametro sia AE, se l'equazione è solo cubica, in modo che la quantità r sia nulla.
+
+Ma quando compare +r, occorre sulla linea AE prolungata prendere da un lato AR uguale a r e dall'altro AS uguale al lato destro della parabola, che è r; e avendo descritto un cerchio il cui diametro sia RS, occorre tracciare AH perpendicolare ad AE, la quale AH incontra questo cerchio RHS nel punto H, che è quello attraverso cui deve passare l'altro cerchio FHG. Quando invece compare -r, dopo aver trovato così la linea AH (fig. 22), occorre inscrivere AI, uguale ad essa, in un altro cerchio il cui diametro sia AE; e allora è attraverso il punto I che deve passare il primo cerchio cercato FIG. Ora, questo cerchio FG può intersecare o toccare la parabola in 1, 2, 3 o 4 punti; dai quali, tracciando perpendicolari sull'asse, si ottengono tutte le radici dell'equazione, sia vere che false. Vale a dire, se la quantità q è contrassegnata col segno +, le radici vere saranno quelle delle perpendicolari che si trovano dallo stesso lato della parabola rispetto al centro E del cerchio, come FL; e le altre, come GK, saranno false. Al contrario, se questa quantità q è contrassegnata col segno -, le vere saranno quelle dall'altro lato; e le false, o minori di zero, saranno dal lato dove si trova E, il centro del cerchio. Infine, se questo cerchio non interseca né tocca la parabola in alcun punto, ciò indica che non esiste alcuna radice, né vera né falsa, nell'equazione, e che tutte sono immaginarie. Pertanto, questa regola è la più generale e la più completa che si possa desiderare.
+
+La dimostrazione è molto semplice. Infatti, se la linea GK, trovata tramite questa costruzione, si chiama z, AK sarà z² a causa della parabola, nella quale GK deve essere media proporzionale tra AK e il lato destro che è 1; poi, se da AK tolgo AC, che è
+
+,
+
+CD che è:
+
+,
+
+resta DK, o EM, che è:
+
+,
+
+il cui quadrato è:
+
+z⁴ – pz² – z² + 
+
+e poiché DE, o KM è:
+
+,
+
+la GM intera è:
+
+,
+
+il cui quadrato è:
+
+,
+
+e sommando questi due quadrati, si ottiene:
+
+z⁴ – pz² + qz + ,
+
+per il quadrato della linea GE, poiché essa è la base del triangolo rettangolo EMG.
+
+Ma poiché questa stessa linea GE è il semidiametro del cerchio FG, essa può essere espressa in altri termini: infatti, ED essendo:
+
+e AD essendo:
+
+,
+
+EA è:
+
+a causa dell'angolo retto ADE; poi, HA essendo media proporzionale tra AS che è 1 e AR che è r, essa è:
+
+,
+
+e a causa dell'angolo retto EAH, il quadrato di HE, o EG è:
+
+;
 
 <span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="concepts/infinity,forms/treatise"></span>
 
@@ -3085,6 +3519,130 @@ car comme KB est à BS, ainsi BS est à BT. Et TV étant la même que BL, c’es
 
 BV est :
 
+<span class="qlang-split" data-lang="en"></span>
+
+It is true that I have not yet explained the reasons on which I base my assertion that a given thing is either possible or impossible. However, if we carefully consider how, by the method I employ, everything within the scope of geometers’ consideration reduces to a single type of problem—namely, finding the value of the roots of some equation—we will readily see that it is not difficult to enumerate all the ways in which these roots can be found, enough to demonstrate that we have chosen the most general and simplest approach. Particularly when it comes to solid problems, which, as I have said, cannot be constructed without employing a curve more complex than the circular one, this becomes quite apparent: for all such problems reduce to two constructions. In one of these, we must simultaneously determine two points that define two mean proportionals between two given lines; in the other, we must determine two points that divide a given arc into three equal parts. For since the curvature of a circle depends solely on the simple ratio of all its parts relative to the point at its center, it can only be used to determine a single point between two extremes—for example, to find a mean proportional between two given straight lines or to divide a given arc into two equal parts. On the other hand, the curvature of conic sections, depending always on two distinct factors, can also serve to determine two different points.
+
+Yet for precisely this reason, it is impossible for any problem of a degree more complex than solid ones—which presuppose the invention of four mean proportionals or the division of an angle into five equal parts—to be constructed by means of any conic section. Therefore, I believe I shall do the best I can in this regard if I provide a general rule for constructing such problems by using the curved line generated by the intersection of a parabola and a straight line, as explained above. For I dare to assert that there is no simpler curve in nature that could serve the same purpose, and you have seen how closely it follows the conic sections in this question so long sought after by the ancients, whose solution systematically introduces all the curved lines that should be accepted in geometry.
+
+A general method for constructing all problems reducible to an equation no higher than sixth degree.
+
+You already know that when seeking the quantities required for the construction of these problems, we can always reduce them to some equation that rises no higher than the cube of a square or the supersolid. You also know that by increasing the values of the roots of this equation, we can always ensure that they all become real—and with that, that the known quantity of the third term is greater than the square of half the second term. Finally, you know that if the equation rises only to the supersolid, we can raise it to the cube of a square and ensure that no term is left unfilled. Now, in order that all the difficulties discussed here can be resolved by a single rule, I wish that we carry out all these steps, thereby reducing every problem to an equation of the following [form](/positions/realism_of_ideas): y⁶ - py⁵ + qy⁴ - ry³ + sy² - ty + v = 0, where the quantity named q is greater than the square of half the quantity named p.
+
+Next, having drawn the line BK infinitely long on both sides of point B, and having erected the perpendicular AB, whose length is:
+
+we must, in a separate plane, construct a parabola, such as CDF, whose principal right side is:
+
+which I shall abbreviate as n.
+
+After that, we must place the plane containing this parabola onto the plane containing the lines AB and BK, so that its axis DE intersects exactly above the straight line BK. Then, taking the portion of this axis between points E and D, equal to:
+
+,
+
+we must apply a long ruler onto this point E in such a way that, when applied also onto point A in the lower plane, it remains permanently connected to both points as we raise or lower the parabola along the line BK, upon which its axis is applied. Thus, the intersection of this parabola and the ruler, occurring at point C, will trace out the curved line ACN, which is precisely the one we need for constructing the proposed problem. For once this line has been thus described, if we take point L on the line BK, on the side toward which the vertex of the parabola is turned, and make BL equal to DE—that is, to:
+
+;
+
+then from point L toward B, we take on the same line BK the segment LH, equal to:
+
+,
+
+and from the point H thus found, we draw perpendicularly, toward the side where the curve ACN lies, the segment HI, whose length is:
+
+which, for brevity, we shall call . Then, having joined points L and I, we describe the circle LPI, whose diameter is IL; and we inscribe in this circle the segment LP, whose length is:
+
+,
+
+Finally, from the center I, through the point P thus found, we describe the circle PCN. This circle will intersect or touch the curved line ACN at as many points as there are roots in the equation. Thus, the perpendiculars dropped from these points onto the line BK—such as CG, NR, QO, and others like them—will be the roots we seek. There will be no exception or defect in this rule. For if the quantity s were so large, in proportion to the other quantities p, q, r, t, and v, that the segment LP became longer than the diameter of the circle IL, making it impossible to inscribe it therein, then there would be no real roots in the proposed equation—just as there would be no real roots if the circle IP were so small that it failed to intersect the curve ACN at all. Yet it may intersect it in six different places, just as there may be six distinct roots in the equation. But when it intersects it fewer times, this indicates that some of these roots are equal to each other or else are purely imaginary.
+
+If the method of tracing the line ACN by moving a parabola seems inconvenient to you, it is easy to find several other ways to describe it.
+
+For instance, if we take the same quantities as before for AB and BL, and the same for BK, which we had set as the principal right side of the parabola, and we describe the semicircle KST, whose center is chosen arbitrarily along the line BK, so that it intersects the line AB somewhere, say at point S, and from point T, at the end, we take the segment TV equal to BL; then, having drawn the line SV, we draw another line parallel to it through point A, namely AC; and we also draw another line through S, parallel to BK, namely SC. The point C, where these two parallels meet, will be one of the points on the desired curved line. And in the same way, we can find as many other points as we wish.
+
+The proof of all this is quite straightforward. For applying the ruler AE together with the parabola ED onto point C—since it is certain that they can be applied together, given that point C lies on the curve ACN, which is described by their intersection—if we call CG y, then GD will be:
+
+,
+
+because the principal right side, which is n, is to CG as CG is to GD, and subtracting DE, which is:
+
+from GD, we obtain:
+
+, for G E.
+
+Then, because AB is to BE as CG is to GE, and AB being:
+
+BE is:
+
+And similarly, assuming that point C on the curve was found by the intersection of the straight lines SC, parallel to BK, and AC, parallel to SV, SB, which is equal to CG, is y; and BK being equal to the principal right side of the parabola, which I have called n, BT is:
+
+for as KB is to BS, so is BS to BT. And since TV is the same as BL—that is:
+
+,
+
+BV is:
+
+<span class="qlang-split" data-lang="it"></span>
+
+È vero che non ho ancora spiegato su quali ragioni mi baso per osare affermare con tanta sicurezza se una cosa sia possibile o meno. Tuttavia, se si presta attenzione al modo in cui, mediante il metodo che adotto, tutto ciò che rientra nella considerazione dei geometri si riduce a un unico genere di problemi, ossia quello di trovare il valore delle radici di una qualsiasi equazione, si capirà facilmente che non è difficile fare un inventario di tutte le vie attraverso le quali esse possono essere trovate, sufficiente a dimostrare che abbiamo scelto la più generale e la più semplice. In particolare, per quanto riguarda i problemi solidi, che ho detto non poter essere costruiti senza l'impiego di una linea più composta della circolare, si può ben constatare che essi si riducono tutti a due sole costruzioni: in una di queste occorre avere contemporaneamente i due punti che determinano due medie proporzionali tra due linee date, mentre nell'altra occorre avere i due punti che dividono in tre parti uguali un arco dato; poiché, dal momento che la curvatura del cerchio dipende soltanto da un semplice rapporto fra tutte le sue parti rispetto al punto che ne è il centro, essa può essere usata soltanto per determinare un solo punto fra due estremi, come per esempio trovare una media proporzionale tra due linee rette date oppure dividere in due un arco dato; invece, la curvatura delle sezioni coniche, dipendendo sempre da due grandezze diverse, può servire anche per determinare due punti distinti.
+
+Ma proprio per questa ragione è impossibile che alcuno dei problemi di grado più complesso dei solidi, che presuppongono l'invenzione di quattro medie proporzionali o la divisione di un angolo in cinque parti uguali, possa essere costruito mediante qualunque delle sezioni coniche. Perciò riterrò di aver fatto nel presente caso tutto il meglio possibile se fornirò una regola generale per costruirli impiegando la linea curva descritta dall'intersezione di una parabola e di una linea retta secondo la modalità sopra illustrata; poiché oserei assicurare che non ve n'è alcuna più semplice in natura che possa servire allo stesso scopo, e avete visto come essa segue immediatamente le sezioni coniche in quella questione tanto ricercata dagli antichi, la cui soluzione insegna, in ordine, tutte le linee curve che devono essere accettate in geometria.
+
+Regola generale per costruire tutti i problemi ridotti a un'equazione che non abbia più di sei dimensioni.
+
+Sapete già come, quando si cercano le quantità necessarie alla costruzione di questi problemi, esse possano sempre essere ridotte a un'equazione che arrivi al massimo fino al cubo del quadrato o al sur-solide. Sapete inoltre come, aumentando il valore delle radici di tale equazione, si possa sempre far sì che esse diventino tutte reali e, con ciò, che la quantità nota del terzo termine sia maggiore del quadrato della metà di quella del secondo; infine, sapete come, se l'equazione arriva soltanto al sur-solide, si possa elevarla fino al cubo del quadrato e far sì che nessun termine venga lasciato incompleto. Ora, affinché tutte le difficoltà di cui qui si tratta possano essere risolte mediante una sola regola, desidero che si facciano tutte queste cose e che, in tal modo, si riducano sempre a un'equazione della forma y⁶ - py⁵ + qy⁴ - ry³ + sy² - ty + v = 0, nella quale la quantità chiamata q sia maggiore del quadrato della metà di quella chiamata p.
+
+Poi, avendo reso la linea BK indefinitamente lunga ai due lati del punto B e avendo tracciato la perpendicolare AB, la cui lunghezza sia:
+
+in un piano separato occorre descrivere una parabola, come CDF, il cui asse principale destro sia:
+
+che chiamerò n per abbreviare.
+
+Dopodiché bisogna posizionare il piano in cui si trova questa parabola sul piano in cui si trovano le linee AB e BK, in modo che il suo asse DE si incontri esattamente sopra la linea retta BK; e avendo preso la parte di questo asse compresa tra i punti E e D, uguale a:
+
+,
+
+bisogna applicare su questo punto E una lunga riga, in modo che, applicandola anche sul punto A del piano sottostante, essa rimanga sempre unita a questi due punti, mentre si alza o si abbassa la parabola lungo la linea BK, sulla quale l'asse è applicato; in tal modo, l'intersezione tra questa parabola e la riga, che avverrà nel punto C, descriverà la linea curva ACN, che è quella di cui abbiamo bisogno per la costruzione del problema proposto. Infatti, dopo che essa è stata così descritta, se si prende il punto L sulla linea BK, dal lato verso cui è rivolto il vertice della parabola, e si fa BL uguale a DE, cioè a:
+
+;
+
+poi dal punto L, verso B, si prende sulla stessa linea BK la linea LH, uguale a:
+
+,
+
+e dal punto H così trovato si traccia, ad angolo retto, dal lato dove si trova la curva ACN, la linea HI, la cui lunghezza sia:
+
+che per brevità sarà chiamata ; e poi, avendo unito i punti L e I, si descrive il cerchio LPI, di cui IL sia il diametro; e si inscrive in questo cerchio la linea LP, la cui lunghezza sia:
+
+,
+
+poi infine, dal centro I, passando per il punto P così trovato, si descrive il cerchio PCN. Questo cerchio intersecherà o toccherà la linea curva ACN in tanti punti quante sono le radici dell'equazione; pertanto, le perpendicolari tirate da questi punti sulla linea BK, come CG, NR, QO e simili, saranno le radici cercate. Senza che vi sia alcuna eccezione né alcun difetto in questa regola. Infatti, se la quantità s fosse così grande, in proporzione alle altre p, q, r, t e v, che la linea LP risultasse più grande del diametro del cerchio IL, al punto che non potesse essere inscritta in esso, non ci sarebbe alcuna radice nell'equazione proposta che non fosse immaginaria; così come non ci sarebbe alcuna radice immaginaria se il cerchio IP fosse così piccolo da non intersecare la curva ACN in alcun punto. E può intersecarla in sei modi diversi, proprio come ci possono essere sei radici distinte nell'equazione. Ma quando la interseca in meno modi, ciò indica che alcune di queste radici sono uguali tra loro oppure sono soltanto immaginarie.
+
+Se la modalità di tracciare la linea ACN mediante il movimento di una parabola vi sembra scomoda, è facile trovare molti altri modi per descriverla.
+
+Per esempio, avendo le stesse quantità di prima per AB e BL; e la stessa per BK, che era stata posta come asse principale destro della parabola; si descrive il semicerchio KST, il cui centro sia scelto arbitrariamente sulla linea BK, in modo che esso intersechi qualche volta la linea AB, per esempio nel punto S, e dal punto T, all'estremità, si prende verso K la linea TV, uguale a BL; poi, tracciata la linea SV, se ne traccia un'altra parallela ad essa, passante per il punto A, come AC; e se ne traccia un'altra anche da S, parallela a BK, come SC; il punto C, o l'intersezione di queste due parallele, sarà uno dei punti della linea curva cercata. E se ne possono trovare, nello stesso modo, quanti se ne desiderano.
+
+La dimostrazione di tutto ciò è abbastanza semplice. Infatti, applicando la riga AE con la parabola ED sul punto C; poiché è certo che esse possono essere applicate insieme, dato che il punto C si trova sulla curva ACN, che viene descritta dalla loro intersezione; se CG si chiama y, GD sarà:
+
+,
+
+poiché l'asse destro, che è n, sta a CG come CG sta a GD, e togliendo DE, che è:
+
+da GD, si ha:
+
+, per G E.
+
+Poi, poiché AB sta a BE come CG sta a GE; AB essendo:
+
+BE è:
+
+E allo stesso modo, supponendo che il punto C della curva sia stato trovato dall'intersezione delle linee rette SC parallela a BK e AC parallela a SV. SB, che è uguale a CG, è y: e BK essendo uguale all'asse destro della parabola, che ho chiamato n, BT è:
+
+poiché KB sta a BS, così come BS sta a BT. E TV essendo uguale a BL, cioè:
+
+,
+
+BV è:
+
 <span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom" data-srclang="fr" data-tags="concepts/infinity,forms/treatise"></span>
 
 et comme SB est à BV, ainsi AB est à BE, qui est par conséquent :
@@ -3176,3 +3734,185 @@ Il est aisé en même façon de diviser un angle en cinq parties égales, et d�
 Mais mon dessein n’est pas de faire un gros livre, et je tâche plutôt de comprendre beaucoup en peu de mots, comme on jugera peut-être que j’ai fait, si on considère qu’ayant réduit à une même construction tous les problèmes d’un même genre, j’ai tout ensemble donné la façon de les réduire à une infinité d’autres diverses, et ainsi de résoudre chacun d’eux en une infinité de façons ;puis outre cela, qu’ayant construit tous ceux qui sont plans en coupant d’un cercle une ligne droite, et tous ceux qui sont solides en coupant aussi d’un cercle une parabole, et enfin tous ceux qui sont d’un degré plus composés en coupant tout de même d’un cercle une ligne qui n’est que d’un degré plus composée que la parabole, il ne faut que suivre la même voie pour construire tous ceux qui sont plus composés à l’infini : car, en matière de progressions mathématiques, lorsqu’on a les deux ou trois premiers termes, il n’est pas malaisé de trouver les autres. Et j’espère que nos neveux me sauront gré, non seulement des choses que j’ai ici expliquées, mais aussi de celles que j’ai omises volontairement, afin de leur laisser le plaisir de les inventer.
 
 FIN DU TRAITÉ DE LA GÉOMÉTRIE
+
+<span class="qlang-split" data-lang="en"></span>
+
+And just as SB is to BV, so AB is to BE, which consequently is:
+
+as before, from which it is evident that the same curved line is described in these two ways. After this, since BL and DE are equal, DL and BE are also equal: thus, adding LH, which is:
+
+to DL, which is:
+
+we obtain DH entirely, which is:
+
+and subtracting GD, which is:
+
+we get GH, which is:
+
+,
+
+which I write in order as follows:
+
+And the square of GH is:
+
+,
+
+And at any other point C on this curved line—whether toward N or toward Q—we will always find that the square of the straight line between point H and the point where the perpendicular from point C falls on BH can be expressed using precisely these same terms and with the same signs + and - .
+
+Moreover, since IH is:
+
+and LH is:
+
+IL is:
+
+because of the right angle IHL; and LP is:
+
+IP or IC is:
+
+also because of the right angle IPL. Then, having drawn CM perpendicular to IH, IM is the difference between IH and HM or CG—that is, between:
+
+and y,
+
+so its square is always:
+
+which, when subtracted from the square of IC, leaves:
+
+for the square of CM, which is equal to the square of GH already found. Alternatively, if we divide this sum as before by n2y2, we have:
+
+then substituting:
+
+for n2y4;
+
+and:
+
+for 2my3;
+
+and multiplying both sums by n2y2, we obtain:
+
+,
+
+equal to:
+
+That is, we have: y6 - py5 + qy4 - ry3 + sy2 - ty + u = 0.
+
+From this it appears that the lines CG, NR, QO, and similar ones are the roots of this equation—which was what needed to be demonstrated.
+
+Construct four mean proportionals.
+
+Thus, if we wish to find four mean proportionals between the lines a and b, setting x as the first one, the equation becomes x5 - a4b = 0, or alternatively x6 - a4bx = 0.
+
+By letting y – a = x, we obtain y6 - 6ay5 + 15a2y4 - 20a3y3 + 15a4y2 - (6a5 + a4b) + a6 + a5b = 0.
+
+Therefore, we must take 3a for the line AB, and:
+
+for BK or the right side of the parabola, which I’ve called n, and:
+
+for DE or BL.
+
+After describing the curved line ACN according to the measurements of these three, we must then make:
+
+and:
+
+and:
+
+,
+
+because the circle whose center is at point I and passes through the point P thus found will intersect the curve at two points, C and N. From these points, drawing the perpendiculars NR and CG, if the shorter NR is subtracted from the longer CG, the remainder will be x, the first of the four mean proportionals sought.
+
+It is equally easy to divide an angle into five equal parts, to inscribe an eleven- or thirteen-sided figure of equal sides within a circle, and to find an infinite number of other examples of this rule. However, it should be noted that in several of these examples, the circle may intersect the second-type parabola at such an oblique angle that the point of intersection becomes difficult to identify—and thus this construction would not be convenient for practical use. To remedy this, it would be easy to devise other rules modeled after this one, as one could compose a thousand different kinds of them.
+
+But my intention is not to write a large book; rather, I strive to encompass much in few words—as perhaps you’ll judge I have done, considering that having reduced all problems of the same type to a single construction, I have simultaneously provided a method for reducing them to an infinite variety of others, and thus solving each of them in an infinite number of ways. Moreover, having constructed all planar problems by cutting a straight line from a circle, and all solid problems by cutting a parabola from a circle, and finally all problems of higher degree by cutting from a circle a line that is only one degree more complex than the parabola, it suffices simply to follow the same path to construct all problems of ever-higher complexity indefinitely: for in matters of mathematical progressions, once you have the first two or three terms, it’s not difficult to find the rest. And I hope our grandchildren will thank me not only for the things I’ve explained here but also for those I’ve deliberately omitted, leaving them the pleasure of discovering them for themselves.
+
+END OF THE TREATISE ON GEOMETRY
+
+<span class="qlang-split" data-lang="it"></span>
+
+e come SB sta a BV, così AB sta a BE, che è pertanto:
+
+come prima, da cui si vede che è la stessa linea curva a descriversi in questi due modi. Dopo ciò, poiché BL e DE sono uguali, anche DL e BE lo sono: per cui aggiungendo LH, che è:
+
+a DL che è:
+
+si ottiene tutta DH, che è:
+
+e sottraendo GD, che è:
+
+si ha GH, che è:
+
+,
+
+che scrivo in ordine in questo modo:
+
+E il quadrato di GH è:
+
+,
+
+E in qualunque altro punto della linea curva si voglia immaginare il punto C, ad esempio verso N o verso Q, si troverà sempre che il quadrato della linea retta, che sta tra il punto H e quello in cui cade la perpendicolare dal punto C su BH, può essere espresso con gli stessi termini e con gli stessi segni + e -.
+
+Inoltre, IH essendo:
+
+e LH essendo:
+
+,
+
+IL è:
+
+a causa dell'angolo retto IHL; e LP essendo:
+
+IP o IC è:
+
+anche a causa dell'angolo retto IPL. Poi, avendo tracciato CM perpendicolare a IH, IM è la differenza tra IH e HM o CG, cioè tra:
+
+e y,
+
+così che il suo quadrato è sempre:
+
+che, sottratto dal quadrato di IC, resta:
+
+per il quadrato di CM, che è uguale al quadrato di GH già trovato. Oppure, facendo sì che questa somma sia divisa come l'altra per n2y2, si ha:
+
+poi rimettendo:
+
+, per n2y4;
+
+e:
+
+per 2my3;
+
+e moltiplicando entrambe le somme per n2y2, si ha:
+
+,
+
+uguale a:
+
+Cioè, si ha: y6 - py5 + qy4 - ry3 + sy2 - ty + u = 0.
+
+Da ciò risulta che le linee CG, NR, QO e simili sono le radici di questa equazione, il che era da dimostrare.
+
+Creare quattro medie proporzionali.
+
+Dunque, se si vogliono trovare quattro medie proporzionali tra le linee a e b, posta x per la prima, l'equazione è x5 - a4b = 0, oppure x6 - a4bx = 0.
+
+Facendo y – a = x, si ottiene y6 - 6ay5 + 15a2y4 - 20 a3y3 + 15 a4y2 - (6a5 + a4b) +a6 + a5b = 0.
+
+Pertanto, bisogna prendere 3a per la linea AB, e:
+
+per BK o il lato destro della parabola, che ho chiamato n, e:
+
+per DE o BL.
+
+E dopo aver descritto la linea curva ACN sulla misura di queste tre, bisogna fare:
+
+e:
+
+e:
+
+,
+
+poiché il cerchio che, avendo il centro nel punto I, passerà per il punto P così trovato, intersecherà la curva nei due punti C e N; da questi, tirando le perpendicolari NR e CG, se la minore NR viene sottratta dalla maggiore CG, il resto sarà x, la prima delle quattro medie cercate.
+
+È facile allo stesso modo dividere un angolo in cinque parti uguali, e inscrivere una figura di undici o tredici lati uguali in un cerchio, e trovare un'infinità di altri esempi di questa regola. Tuttavia, va notato che in diversi di questi esempi può accadere che il cerchio tagli la parabola del secondo tipo in modo così obliquo, che il punto d'intersezione sia difficile da individuare, e quindi questa costruzione non sia comoda per la pratica; a ciò sarebbe facile porre rimedio componendo altre regole a imitazione di questa, come se ne possono comporre mille tipi diversi.
+
+Ma il mio scopo non è fare un libro voluminoso, e cerco piuttosto di comprendere molto con poche parole, come forse si giudicherà che ho fatto, se si considera che, avendo ridotto a una sola costruzione tutti i problemi dello stesso genere, ho dato insieme la modalità per ridurli a un'infinità di altri diversi, e così risolvere ciascuno di essi in un'infinità di modi; poi, oltre a ciò, avendo costruito tutti quelli piani tagliando un cerchio con una linea retta, e tutti quelli solidi tagliando anch'essi un cerchio con una parabola, e infine tutti quelli di grado più composto tagliando sempre da un cerchio una linea che è solo di un grado più composta della parabola, basta seguire la stessa via per costruire tutti quelli ancora più composti all'infinito: poiché, in materia di progressioni matematiche, quando si hanno i primi due o tre termini, non è difficile trovare gli altri. E spero che i nostri nipoti mi saranno grati, non solo per le cose che ho qui spiegato, ma anche per quelle che ho omesso volontariamente, per lasciare loro il piacere di inventarle.
+
+FINE DEL TRATTATO DI GEOMETRIA

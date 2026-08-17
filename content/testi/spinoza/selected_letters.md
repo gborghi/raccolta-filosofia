@@ -40,6 +40,16 @@ London
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+Enrico Oldenburg
+
+Londra, 16/26; agosto 1661
+
+Londra
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="002" data-title="LETTER I. Henry Oldenburg to B. de Spinoza." data-chapter="LETTER I. Henry Oldenburg to B. de Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OLDENBURG, AFTER COMPLIMENTING Spinoza, asks him to enter into a philosophical correspondence.]
@@ -65,6 +75,32 @@ London,
 Benedict de Spinoza
 
 Henry Oldenburg
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Oldenburg, dopo aver lodato Spinoza, gli chiede di intraprendere una corrispondenza filosofica.]
+
+Illustrissimo Signore e molto stimato Amico, —
+
+La separazione da voi, l’altro giorno dopo il nostro incontro nel vostro ritiro a Rhijnsburg, è stata così dolorosa per me che, ora che sono tornato in Inghilterra, il mio primo impegno è proprio quello di ristabilire, nella misura del possibile attraverso la corrispondenza, i nostri rapporti. Una solida cultura, unita a cortesia e raffinatezza nei modi (dotazioni che sia la natura che l’arte vi hanno donato in abbondanza), possiede un fascino tale da meritare l’[amore](/concepts/charity) di ogni uomo onesto e colto. Pertanto, eccellentissimo signore, uniamo le nostre forze in una sincera [amicizia](/concepts/friendship) e coltiviamo questo sentimento con tutto lo zelo e ogni aiuto che ci è possibile offrire. Qualsiasi cosa i miei modesti mezzi possano fornirmi, vi prego di considerarla come vostra. A mia volta, chiedo di poter partecipare alle ricchezze dei vostri talenti, senza che questo comporti alcun danno per voi.
+
+Abbiamo discusso a Rhijnsburg di Dio, dell’estensione, del pensiero infinito, delle differenze e delle somiglianze tra questi concetti, della natura del legame tra l’['anima](/axes/soul_body) umana e il corpo, nonché dei principi fondamentali della filosofia cartesiana e di quella baconiana.
+
+Ma poiché allora abbiamo trattato queste grandi questioni solo in modo superficiale e occasionale, e poiché da allora il mio pensiero è stato non poco tormentato da esse, mi appello ai diritti della nostra amicizia appena rinsaldata e vi prego con grande affetto di esprimere più dettagliatamente la vostra opinione sui temi che ho menzionato. In particolare, vorrei ricevere delle chiarimenti su due punti: primo, dove collocate voi la vera distinzione tra pensiero e materia? Secondo, quali ritenete siano i principali difetti della filosofia cartesiana e di quella baconiana, e come potrebbero essere eliminati al meglio per sostituirli con concezioni più solide? Più liberamente mi scriverete su questi argomenti e su altri simili, più saldamente si rinsalderanno i legami della nostra amicizia, e maggiore sarà la mia responsabilità di ricambiare il vostro aiuto nel modo possibile.
+
+Attualmente nella stampa è disponibile una raccolta di saggi fisiologici scritti da un inglese di nobile famiglia e notevoli [conoscenze](/schools/enlightenment). Essi trattano della natura ed elasticità dell’aria, dimostrate attraverso quarantatré esperimenti; inoltre discutono anche della sua fluidità, solidità e di altre questioni analoghe. Non appena l’opera sarà pubblicata, mi impegnerò a farla inviare a voi tramite qualsiasi amico che possa attraversare il mare. Intanto, addio, e ricordatevi del vostro amico.
+
+Il tuo, con tutto l'affetto e lo zelo possibili,
+
+Henry Oldenburg.
+
+Londra,
+
+26 agosto 1661.
+
+Benedetto da Spinoza
+
+Enrico Oldenburg
 
 <span class="atom-split" data-atom="003" data-title="LETTER II. Spinoza to Oldenburg." data-chapter="LETTER II. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -100,6 +136,40 @@ London
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[RISPOSTA ALLA LETTERA I. Spinoza definisce “Dio” e “[attributo](/concepts/attribute)”, e invia le definizioni, gli assiomi e le prime quattro proposizioni del Libro I dell’Etica. Vengono discusse alcune errori di Bacon e Descartes.]
+
+Eminente Signore, —
+
+Quanto piacevole sia la tua [amicizia](/concepts/friendship) per me, puoi giudicarlo tu stesso, se la tua modestia ti permette di riflettere sull’abbondanza delle tue qualità. Infatti, il pensiero di queste cose mi fa sentire un po’ audace nell’accettare un legame così stretto, soprattutto considerando che tra amici tutte le cose, e in particolare quelle spirituali, dovrebbero essere condivise. Tuttavia, questa responsabilità spetta più alla tua modestia e gentilezza che a me. Tu hai voluto umiliarti per me e colmare me dell’abbondanza della tua bontà, fino al punto che non ho più paura di accettare l’amicizia stretta che mi offri e che anzi mi chiedi in cambio; non risparmierò alcuno sforzo affinché essa possa durare a lungo.
+
+Per quanto riguarda le mie doti mentali, così come sono, sarei felice di condividerle con voi, anche se so che ciò rappresenterebbe un grande ostacolo per me stesso. Tuttavia, questo non costituisce una scusa per rifiutare ciò che chiedete in nome dell’amicizia. Pertanto, cercherò di spiegare le mie opinioni sui temi che avete sollevato; anche se difficilmente spero, a meno che la vostra gentilezza non intervenga, di riuscire così a rinsaldare i legami della nostra amicizia.
+
+Inizierò quindi parlando brevemente di Dio, che definisco come un Essere composto da attributi infiniti, ciascuno dei quali è infinito o supremamente perfetto nella sua specie. È necessario osservare che con “attributo” intendo tutto ciò che può essere concepito attraverso se stesso e in sé stesso, in modo che la concezione di tale attributo non richieda la concezione di nulla altro. Ad esempio, l’estensione può essere concepita attraverso se stessa e in sé stessa, ma il movimento no: quest’ultimo può essere concepito solo attraverso qualcos’altro, poiché la sua concezione implica necessariamente quella dell’estensione.
+
+Il fatto che la definizione di Dio data sopra sia vera risulta dal fatto stesso che con “Dio” intendiamo un Essere estremamente perfetto e assolutamente infinito. Che un tale Essere esista può essere facilmente dimostrato sulla base della stessa definizione; ma poiché questo non è il luogo adatto per una tale dimostrazione, la tralascio. Quello che devo provare qui, al fine di soddisfare la prima domanda del mio stimato interlocutore, sono le seguenti conseguenze: primo, che nell’universo non possono esistere due sostanze senza che queste differiscano totalmente per essenza; secondo, che una sostanza non può essere prodotta o creata – l’esistenza fa parte della sua essenza stessa; terzo, che ogni sostanza deve essere infinita o estremamente perfetta nella propria specie.
+
+Una volta dimostrati questi punti, il mio stimato interlocutore comprenderà facilmente la mia intenzione, se al contempo rifletterà sulla definizione di Dio. Per dimostrarli in modo chiaro e conciso, non posso pensare a nulla di meglio che sottoporli al vostro giudizio, fondato sul [metodo](/axes/method) geometrico. Pertanto li invio separatamente, in attesa della vostra decisione al riguardo.
+
+Ancora una volta, mi chiedete quali errori rilevo nelle filosofie cartesiane e baconiane. Non è mia [abitudine](/concepts/custom) denunciare gli errori altrui, tuttavia acconsentirò alla vostra richiesta. Il primo e più grave errore è che questi filosofi si sono allontanati troppo dalla conoscenza della causa prima e dell’origine di tutte le cose; il secondo è che non hanno compreso la vera natura dell’intelletto umano; il terzo è che non hanno mai afferrato la vera causa degli errori. La necessità di una conoscenza corretta su questi tre punti può essere ignorata soltanto da persone completamente prive di istruzione e formazione.
+
+È facile dedurre che essi si siano allontanati dalla conoscenza della causa prima e della natura umana, partendo dalle verità contenute nelle tre proposizioni sopra esposte; pertanto mi dedico interamente alla dimostrazione di questo terzo errore. Di Bacon dirò molto poco: egli tratta l’argomento in modo assai confuso e non fornisce quasi alcuna prova concreta, limitandosi semplicemente a descrivere i fatti. Innanzitutto, egli assume che l’intelletto umano sia soggetto ad errore non solo a causa della fallibilità dei sensi, ma anche per via della sua stessa natura; inoltre sostiene che le nostre concezioni siano formate in base all’analogia della nostra natura umana, e non a quella dell’universo stesso. Di conseguenza, l’intelletto umano è paragonabile a uno specchio che riceve i raggi degli oggetti esterni in modo disomogeneo, mescolando così la propria natura con quella delle cose stesse.
+
+In secondo luogo, l’intelligenza umana, per sua stessa natura, tende alle astrazioni: cose che sono in continuo cambiamento viene considerata costante, e così via.
+
+In terzo luogo, che l’intelletto umano si arricchisce continuamente e non è in grado di raggiungere uno stato di stabilità o di soddisfazione. Le altre cause che Verulam adduce possono essere tutte ridotte a quel principio cartesiano secondo cui la volontà umana è libera e più ampia dell’intelletto; oppure, come lo stesso Verulam afferma in modo meno chiaro, “che l’intelletto non sia una luce sterile, ma riceva un’infusione dalla volontà”. Si può osservare che Verulam utilizza spesso il termine “intelletto” come sinonimo di “mente”, distinguendosi da Cartesio in questo aspetto. Questa causa, quindi – mettendo da parte le altre come irrilevanti – si rivelerà falsa; anzi, la sua falsità sarebbe evidente anche ai suoi sostenitori, se questi considerassero che la volontà, in generale, differisce da questa o quella particolare volizione nello stesso modo in cui la bianchezza differisce da questo o quel oggetto bianco, o l’umanità da questo o quel individuo. È quindi altrettanto impossibile concepire che la volontà sia la causa di una determinata volizione, quanto è impossibile concepire che l’umanità sia la causa di persone come Pietro e Paolo.
+
+Pertanto, poiché la volontà è soltanto un entità razionale e non può essere considerata la causa di determinate volizioni, e poiché per l’esistenza di tali volizioni è necessaria una qualche causa, queste ultime non possono essere definite libere, ma sono inevitabilmente ciò che sono, determinate dalle cause che le influenzano; inoltre, secondo Cartesio, gli errori stessi rappresentano delle volizioni particolari; ne consegue quindi necessariamente che gli errori, o meglio, quelle specifiche volizioni, non siano liberi, ma siano determinati da cause esterne e in nessun modo dalla volontà stessa. Ecco ciò che ho cercato di dimostrare.
+
+Enrico Oldenburg
+
+27 settembre 1661
+
+Londra
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="004" data-title="LETTER III. Oldenburg to Spinoza." data-chapter="LETTER III. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OLDENBURG PROPOUNDS SEVERAL questions concerning God and His existence, thought, and the axioms of Eth. I. He also informs Spinoza of a philosophical society, and promises to send Boyle’s book.]
@@ -134,6 +204,40 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Oldenburg pone diverse domande riguardo a Dio e alla Sua esistenza, al Suo pensiero, nonché agli assiomi dell’Etica I. Informa inoltre Spinoza dell’esistenza di una società filosofica e promette di inviare il libro di Boyle.]
+
+Mio eccellentissimo Amico, —
+
+La vostra lettera erudita mi è stata consegnata e letta con grande piacere.
+
+Approvo molto il tuo [metodo](/axes/method) geometrico di dimostrazione, ma devo ammettere, con rammarico, di non riuscire a seguirlo con facilità, data la sua precisione. Per favore, permettimi quindi di evidenziare la lentezza della mia comprensione e di porre le seguenti domande, chiedendoti di risponderle.
+
+Prima di tutto: capite chiaramente e senza alcun dubbio, soltanto sulla base della definizione che avete dato di Dio, che un tale Essere esista davvero? Per quanto mi riguarda, quando rifletto sul fatto che le definizioni contengono soltanto concetti formati dalla nostra mente, e che la nostra mente è in grado di creare molti concetti riguardo a cose che in realtà non esistono, non riesco ancora a dedurre dall’idea che ho di Dio la sua stessa esistenza. Sì, sono in grado di combinare mentalmente tutte le perfezioni che osservo negli esseri umani, negli animali, nelle piante, nei minerali, ecc., per formare l’immagine di una sostanza unica che racchiuda in sé tutte queste qualità; anzi, la mia mente può ampliare e moltiplicare all’infinito tali qualità, creando così l’immagine di un Essere estremamente perfetto ed eccellente. Ma non esiste alcun motivo per concludere che tale Essere esista realmente.
+
+In secondo luogo, vorrei chiedervi se ritenete indiscutibile che il corpo non possa essere limitato dal pensiero, né il pensiero dal corpo; visto che rimane ancora irrisolto quale sia la natura del pensiero, se si tratti di un movimento fisico o di un atto spirituale del tutto distinto dal corpo.
+
+In terzo luogo, ritenete che gli assiomi che mi avete inviato siano principi indimostrabili, conosciuti alla luce della natura e quindi privi di bisogno di dimostrazione? Forse il primo è di questa natura, ma non vedo come gli altri tre possano essere inseriti nella stessa categoria. Il secondo assioma presuppone che nell’universo esistano soltanto sostanze e accidenti, ma molte persone direbbero che anche tempo e spazio non possono essere classificati in questi due gruppi. Il vostro terzo assioma, secondo cui le cose che possiedono attributi diversi non hanno alcuna qualità in comune, mi appare del tutto oscuro; anzi, sembra che il suo contrario sia evidente in tutto l’universo: tutte le cose che conosciamo condividono certi aspetti e differiscono in altri. Infine, il vostro quarto assioma, secondo cui due cose prive di qualità in comune non possono generarsi a vicenda, non mi appare così ovvio da richiedere ulteriori spiegazioni. Dio, infatti, non ha nulla di concreto in comune con le cose create, eppure quasi tutti noi crediamo che sia la loro causa.
+
+Come potete vedere, a mio parere i vostri assiomi non sono sufficientemente solidi da resistere a ogni attacco del dubbio; pertanto le proposizioni che ne derivano non mi sembrano affatto certe. Più ci rifletto, più mi vengono in mente dubbi al loro riguardo.
+
+Per quanto riguarda il primo punto, affermo che due uomini sono due entità distinte con lo stesso [attributo](/concepts/attribute), poiché entrambi sono razionali; da ciò deduco che possono esistere due entità con lo stesso attributo.
+
+Per quanto riguarda il secondo punto, ritengo che, poiché nulla può essere la propria causa, sia difficilmente compito del nostro intelletto pronunciarsi sulla veridicità dell’affermazione secondo cui una sostanza non possa essere prodotta nemmeno da un’altra sostanza. Una tale proposizione sostiene che tutte le sostanze siano autocausate e indipendenti l’una dall’altra, il che equivale a riconoscere l’esistenza di molteplici “dèi” e quindi a negare l’esistenza di una causa prima di tutte le cose. Confesso apertamente di non essere in grado di comprendere questo concetto, a meno che voi non siate così gentili da spiegare più chiaramente e semplicemente la vostra teoria su questo argomento [sublime](/concepts/sublime), indicandomi l’origine e il [modo](/concepts/mode) di produzione delle sostanze, nonché le loro reciproche interdipendenze e subordinazioni. Vi supplico con tutto il cuore, in nome dell’[amicizia](/concepts/friendship) che abbiamo instaurato, di rispondere liberamente e sinceramente a queste domande; potete essere certi che qualsiasi informazione decidiate di condividere con me rimarrà segreta e al sicuro, poiché non permetterò mai che venga divulgata a vostro danno o svantaggio. Nel nostro circolo filosofico proseguiamo con diligenza nelle nostre ricerche e osservazioni, impegnandoci nella compilazione della storia delle arti meccaniche, convinti che le forme e le qualità delle cose possano essere spiegate al meglio attraverso principi meccanici, e che tutti gli effetti naturali possano essere prodotti mediante movimento, forma e consistenza, senza ricorrere a concetti inspiegabili o qualità occulte, che non sono altro che il rifugio dell’ignoranza.
+
+Inviaterò il libro che ho promesso non appena gli Ambasciatori Olandesi manderanno (come fanno spesso) un messaggero ad L’Aia, o non appena qualche altro amico di cui posso fidarmi si dirigerà verso di voi. Vi prego di scusare la mia prolissità e la libertà con cui ho risposto alla vostra lettera; vi chiedo semplicemente di considerare questa risposta schietta e senza fronzoli come un segno dell’affetto che provo per voi, da amico ad amico. Spero che comprendiate che non c’è alcuna inganno o affettazione nelle mie parole.
+
+Con tutto il mio affetto, Henry Oldenburg.
+
+Londra,
+
+27 settembre 1661.
+
+Benedetto da Spinoza
+
+Enrico Oldenburg
+
 <span class="atom-split" data-atom="005" data-title="LETTER IV. Spinoza to Oldenburg." data-chapter="LETTER IV. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA ANSWERS SOME of Oldenburg’s questions and doubts, but has not time to reply to all, as he is just setting out for Amsterdam.]
@@ -152,6 +256,24 @@ Henry Oldenburg
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza risponde ad alcune delle domande e dei dubbi di Oldenburg, ma non ha il tempo di rispondere a tutti, poiché sta appena partendo per Amsterdam.]
+
+Eminente Signore, —
+
+Mentre stavo per partire per Amsterdam, dove intendo trascorrere una o due settimane, ho ricevuto la vostra lettera molto gradita e ho notato le obiezioni che avete sollevato riguardo alle tre proposte che vi avevo inviato. Non avendo il tempo di rispondervi in modo completo, mi limiterò a queste tre questioni.
+
+Rispetto alla prima domanda, rispondo che non da ogni definizione consegue necessariamente l’esistenza della cosa definita, ma soltanto – come ho dimostrato in una nota allegata alle tre proposizioni – dalla definizione o dall’idea di un [attributo](/concepts/attribute), cioè di qualcosa che viene concepito attraverso se stesso e in sé stesso. La ragione di questa distinzione è stata, se non erro, indicata chiaramente nella nota sopra menzionata, almeno per un filosofo che sia consapevole della differenza tra una finzione e un’idea chiara e distinta, nonché della veridicità dell’axioma secondo cui ogni definizione o idea chiara e distinta è vera. Una volta preso atto di ciò, non vedo cosa altro possa essere necessario per risolvere la tua prima domanda.
+
+Pertanto procedo alla soluzione del secondo punto: sembra che voi ammettiate che, se il pensiero non appartiene alla natura dell’estensione, allora l’estensione non sarà limitata dal pensiero; la vostra dubbietà riguarda soltanto l’esempio fornito. Ma osservate: se diciamo che l’estensione non è limitata dall’estensione stessa, ma dal pensiero, non è forse lo stesso dire che l’estensione non è infinita in modo assoluto, ma solo rispetto alla sua natura, cioè infinita nel suo genere? Tuttavia voi affermate che il pensiero possa essere un’azione corporea. Ebbene, anche se io questo non lo ammetto affatto, voi certamente non negherete che l’estensione, in quanto tale, non è pensiero; ed è proprio questo ciò che basta per spiegare la mia definizione e dimostrare la terza proposizione.
+
+In terzo luogo, obiettate che i miei assiomi non dovrebbero essere considerati nozioni universali. Non discuterò questo punto con voi; tuttavia esitate anche riguardo alla loro veridicità, sembrando voler dimostrare che il loro contrario sia più probabile. Vi prego di riflettere sulla definizione che ho dato di sostanza e attributo, poiché su di esse si fondano tutte le mie argomentazioni. Quando affermo che per sostanza intendo ciò che può essere concepito in sé stesso e attraverso se stesso; e che per attributo intendo ciò che esiste in un’altra entità e viene concepito attraverso questa stessa entità, è evidente che la sostanza sia per natura anteriore agli attributi. Infatti, senza la sostanza gli attributi non potrebbero né esistere né essere concepiti. In secondo luogo, ne consegue che, oltre alle sostanze e agli attributi, nulla esista realmente o possa essere compreso dall’intelletto. Poiché tutto può essere concepito o attraverso se stesso o attraverso un’altra entità, e la concezione di una cosa implica o non implica necessariamente la concezione di un’altra. In terzo luogo, ne consegue che le cose che possiedono attributi diversi non hanno nulla in comune tra loro. Poiché per attributo intendo qualcosa il cui concetto non richiede la conoscenza di altre entità. Infine, se due cose non hanno nulla in comune, una di esse non può essere la causa dell’altra; poiché, essendo assente ogni punto di contatto tra effetto e causa, l’intero effetto deriverebbe dal nulla. Per quanto riguarda la vostra affermazione secondo cui Dio non abbia nulla in comune con le cose create, ho sostenuto esattamente il contrario nella mia definizione: Dio è un Essere costituito da attributi infiniti, ciascuno dei quali è infinito o supremamente perfetto nel proprio genere. Per quanto riguarda ciò che dite sulla mia prima proposizione, vi prego di ricordare che gli esseri umani non vengono creati, ma nascono; i loro corpi esistono già prima della nascita, sebbene in forme diverse. Concludete, e io concordo pienamente con voi, che se una singola particella di materia venisse distrutta, l’intero spazio fisico scomparirebbe immediatamente. La mia seconda proposizione non parla di molti dèi, ma solo di uno: un Essere costituito da attributi infiniti, ecc.
+
+Enrico Oldenburg
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="006" data-title="LETTER V. Oldenburg to Spinoza." data-chapter="LETTER V. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OLDENBURG SENDS BOYLE’S book, and laments that Spinoza has not been able to answer all his doubts.]
@@ -168,11 +290,33 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Oldenburg invia il libro di Boyle e si rammarica che Spinoza non sia riuscito a rispondere a tutte le sue domande.]
+
+Caro e stimato amico, —
+
+Vi invio, con questa lettera, il libro che vi avevo promesso e vi prego di scrivermi per dirmi la vostra opinione al riguardo, soprattutto in merito alle osservazioni fatte sull’azoto, sulla fluidità e sulla solidità. Vi sono profondamente grato per la vostra seconda lettera, molto erudita, che ho ricevuto oggi; tuttavia mi dispiace molto che il vostro viaggio ad Amsterdam vi abbia impedito di rispondere a tutte le mie domande. Vi supplico di colmare queste lacune non appena ne avrete l’opportunità. La vostra ultima lettera mi ha molto illuminato, ma non ha ancora dissipato tutti i miei dubbi; credo che questo obiettivo possa essere raggiunto felicemente quando mi invierete informazioni chiare e precise riguardo all’origine primordiale delle cose. Finora ero piuttosto incerto sulla causa e sul modo in cui le cose sono nate, nonché sulla natura del loro legame con quella causa primordiale, se tale esiste davvero. Tutto ciò che ho sentito o letto sull’argomento sembra insoddisfacente. Pertanto, mio molto erudito maestro, vi prego di agire, per così dire, come il mio “portatore di torcia” in questa ricerca. Non avrete alcun motivo di dubitare della mia fiducia e della mia gratitudine. Questa è la sincera richiesta del vostro umile discepolo.
+
+Con tutto il mio affetto,
+
+Henry Oldenburg.
+
+Benedetto da Spinoza
+
+Enrico Oldenburg
+
 <span class="atom-split" data-atom="007" data-title="LETTER VI. Spinoza to Oldenburg." data-chapter="LETTER VI. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [CONTAINING DETAILED CRITICISMS by Spinoza of Robert Boyle’s book.]
 
 Omitted.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Contiene critiche dettagliate di Spinoza al libro di Robert Boyle.]
+
+Tralasciato.
 
 <span class="atom-split" data-atom="008" data-title="LETTER VII. Oldenburg to Spinoza." data-chapter="LETTER VII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -192,6 +336,24 @@ Henry Oldenburg.
 
 London
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Dopo aver ringraziato Spinoza, a nome suo e di Boyle, Oldenburg menziona la fondazione della Royal Society e chiede al proprio corrispondente di pubblicare le sue opere teologiche e filosofiche.]
+
+* * * * *
+
+Il gruppo di filosofi di cui vi ho parlato in precedenza è stato ora, per grazia del re, istituito come Società Reale e dotato di un atto ufficiale che gli conferisce privilegi eccezionali, nonché le possibilità necessarie per ottenere i ricavi indispensabili al suo funzionamento.
+
+Vi consiglio vivamente di non rifiutare di condividere con gli studiosi quelle opere di filosofia e teologia che avete composto grazie al talento che vi distingue. Pubblicatele, vi prego, indipendentemente dal giudizio dei teologi meschini. Il vostro paese è libero; anche il percorso della filosofia dovrebbe essere libero. La vostra stessa prudenza vi suggerirà sicuramente di diffondere le vostre idee e opinioni nel modo più discreto possibile. Per il resto, affidatevi al destino. Allora, caro signore, gettate via ogni timore di suscitare l’ostilità dei pedanti del nostro tempo. Abbiamo già sacrificato abbastanza all’ignoranza e alla pedanteria; ora diffondiamo le vele della vera conoscenza e esploriamo più a fondo i segreti della natura. Le vostre riflessioni, credo, potranno essere pubblicate nel vostro paese senza alcun pericolo; non c’è motivo di temere scandali tra gli studiosi a causa loro. Se questi sono i vostri sostenitori (e vi assicuro che li troverete), perché dovreste temere le critiche dell’ignoranza? Non vi lascerò andare, mio onorevole amico, finché non avrò ottenuto ciò che desidero; e non permetterò mai, per quanto dipenda da me, che pensieri di tale importanza come i vostri rimangano nell’eterno silenzio. Vi supplico sinceramente di comunicarmi la vostra decisione il prima possibile. Forse accadranno eventi degni della vostra attenzione. La società di cui ho parlato proseguirà con ancora maggiore impegno nel suo percorso, e, se la pace continuerà nelle nostre terre, potrebbe realizzare qualche impresa straordinaria nel campo del sapere. Addio, eccellente signore. Credetemi.
+
+Il vostro più devoto e cordiale,
+
+Henry Oldenburg.
+
+3 aprile 1663
+
+Londra
+
 <span class="atom-split" data-atom="009" data-title="LETTER VIII. Oldenburg to Spinoza." data-chapter="LETTER VIII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [AFTER FURTHER REPLYING to Spinoza’s criticisms on Boyle’s book, Oldenburg again exhorts his correspondent to publish.]
@@ -210,6 +372,24 @@ London,
 
 3 April, 1663.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Dopo aver ulteriormente risposto alle critiche di Spinoza riguardo al libro di Boyle, Oldenburg esorta nuovamente il suo corrispondente a pubblicarlo.]
+
+* * * * *
+
+Ora passo alla questione che si è sollevata tra di noi. Prima di tutto, permettetemi di chiedervi se avete completato quel piccolo ma importante lavoro nel quale trattate “dell’origine delle cose e della loro dipendenza dalla causa prima, nonché del progresso della nostra comprensione”. Davvero, mio caro signore, credo che nulla possa essere più piacevole o accettabile per gli uomini di vera erudizione e discernimento di un trattato del genere. È proprio ciò a cui dovrebbe aspirare una persona con il vostro talento e la vostra indole, molto più che soddisfare i desideri dei teologi di questi tempi e di questa moda. Questi ultimi tengono meno alla verità che al proprio comodo. Pertanto, vi supplico, in nome del legame della nostra [amicizia](/concepts/friendship) e di ogni dovere legato alla diffusione e alla promozione della verità, di non rifiutarci o di nasconderci i vostri scritti su questi argomenti. Se qualcosa di ancora più importante di quanto io possa immaginare vi impedisse di pubblicare il lavoro, vi esorto vivamente a inviarmi una sua sintesi per iscritto.
+
+Un altro libro sarà presto pubblicato dal dotto Boyle; ve lo invierò in cambio di questo. Aggiungerò anche alcuni documenti che vi informeranno sulla struttura complessiva della nostra Royal Society: io ne faccio parte del Consiglio insieme ad altri venti membri, e ne sono il Segretario insieme a un altro ancora. Non ho tempo per discutere di altri argomenti. Vi prometto tutta la fiducia che possono ispirare intenzioni oneste, nonché tutta la disponibilità a servirvi, nella misura in cui le mie modeste capacità me lo permettano. Lo faccio con sincero impegno.
+
+Caro signore, con tutto il mio rispetto,
+
+H. Oldenburg.
+
+Londra,
+
+3 aprile 1663.
+
 <span class="atom-split" data-atom="010" data-title="LETTER IX. Spinoza to Oldenburg." data-chapter="LETTER IX. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA INFORMS OLDENBURG that he has removed to Rhijnsburg, and has spent some time at Amsterdam for the purpose of publishing the “Principles of Cartesian Philosophy.” He then replies to Boyle’s objections.]
@@ -224,6 +404,20 @@ LETTERS X-XIV.
 
 [Contain further correspondence concerning Boyle’s book, and kindred subjects.]
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza informa Oldenburger di essersi trasferito a Rijnsburg e di aver trascorso del tempo ad Amsterdam allo scopo di pubblicare i “Principi della Filosofia Cartesiana”. Successivamente risponde alle obiezioni di Boyle.]
+
+Onorevole Signore, —
+
+Ho finalmente ricevuto la lettera che desideravi tanto e sono libero di rispondervi. Ma prima di farlo, vi dirò brevemente ciò che mi ha impedito di rispondere prima. Quando ho trasferito i miei effetti qui ad aprile, sono partito per Amsterdam. Lì alcuni amici mi hanno chiesto di condividere con loro un trattato che riassumesse, in forma sintetica, la seconda parte dei principi di Cartesio espressi in termini geometrici, nonché alcuni degli argomenti fondamentali della metafisica; tale trattato l’avevo precedentemente dettato a un giovane, senza volergli rivelare apertamente le mie opinioni personali. Mi hanno inoltre chiesto di redigere, al primo opportuno momento, un analogo trattato sulla prima parte dei principi di Cartesio. Desideroso di accontentarli, mi sono subito messo all’opera e ho completato il lavoro in due settimane, per poi consegnarglielo. Loro hanno chiesto il permesso di stamparlo, che ho concesso volentieri a condizione che uno di loro, sotto la mia supervisione, ne migliorasse la formulazione e aggiungesse una breve prefazione in cui avvertisse i lettori che non consideravo tutte le opinioni espresse nel trattato come mie proprie, poiché ne sostenevo esattamente il contrario di molte di esse; ho anche fornito uno o due esempi a sostegno di questa tesi. L’amico incaricato della pubblicazione ha promesso di farlo, ed è per questo che sono rimasto ad Amsterdam così a lungo. Da quando sono tornato in questo villaggio, non ho quasi avuto il tempo di dedicarmi alle mie occupazioni a causa degli amici che si sono presi la briga di venirmi a trovare. Finalmente, caro amico, è arrivato il momento di raccontarvi tutto ciò e spiegarvi perché ho deciso di pubblicare questo trattato. Forse in questa occasione alcuni delle persone che occupano posizioni di rilievo nel mio paese saranno interessati a leggere anche gli altri miei scritti, che considero propri; essi si assicureranno quindi che io possa pubblicarli senza rischiare di violare le leggi del paese. Se così dovesse essere, li pubblicherò senza esitazione; altrimenti preferirei rimanere in silenzio piuttosto che imporre le mie opinioni alle persone contro la volontà del mio paese, rischiando così di renderle mie nemiche. Pertanto, spero che non vi dispiaccia attendere ancora un po’; in seguito riceverete da me sia il trattato stampato che la sintesi che desiderate. Se nel frattempo voleste avere alcune copie del lavoro attualmente in fase di stampa, vi accontenterò non appena ne avrò notizia e saprò come inviarve i libri in modo conveniente.
+
+Il resto della lettera è occupato da critiche al libro di Boyle.
+
+Lettere X-XIV.
+
+[Contiene ulteriori corrispondenze riguardanti il libro di Boyle e argomenti correlati.]
+
 <span class="atom-split" data-atom="011" data-title="LETTER XIII.a. Oldenburg to Spinoza." data-chapter="LETTER XIII.a. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [THE PLACE OF this letter is between Letters XIII. and XIV. It was written apparently in September, 1665. It mentions the plague, which was then at its height, the war, and the labours of the Royal Society, and especially of Boyle. Then comes the passage here given. The letter terminates with references to the comets, and to Huyghens.]
@@ -233,6 +427,18 @@ LETTERS X-XIV.
 I see that you are engaged not so much in philosophy as in theology, if I may say so. That is, you are recording your thoughts about angels, prophecy, and miracles, but you are doing this, perhaps, in a philosophical manner; however that may be, I am certain that the work is worthy of you, and that I am most anxious to have it. Since these most difficult times prevent free intercourse, I beg at least that you will not disdain to signify to me in your next letter your design and aim in this writing of yours.
 
 Here we are daily expecting news of a second naval battle, unless indeed your fleet has retired into port. Virtue, the nature of which you hint is being discussed among your friends, belongs to wild beasts not to men. For if men acted according to the guidance of reason, they would not so tear one another in pieces, as they evidently do. But what is the good of my complaining? Vices will exist while men do; but yet they are not continuous, but compensated by the interposition of better things.
+
+* * * * *
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Questo scritto dovrebbe trovarsi tra la Lettera XIII e la Lettera XIV; è stato evidentemente scritto nel settembre del 1665. Vi si menziona la peste, che all’epoca era al suo apice, la guerra, nonché gli sforzi della Royal Society, in particolare quelli di Boyle. Successivamente segue il passaggio qui riportato. La lettera termina con riferimenti alle comete e a Huygens.]
+
+* * * * *
+
+Vedo che vi dedicate non tanto alla filosofia quanto alla teologia, se posso permettermi di dirlo. In altre parole, state registrando i vostri pensieri sugli angeli, le profezie e i miracoli, ma forse lo fate in modo filosofico; comunque sia, sono certo che quest’opera sia degna di voi e desidero ardentemente riceverla. Poiché questi tempi difficili impediscono uno scambio libero, vi prego almeno di non rifiutare di comunicarmi, nella vostra prossima lettera, l’intento e lo scopo di questo vostro lavoro.
+
+Qui ci troviamo ogni giorno in attesa di notizie riguardanti una seconda battaglia navale, a meno che la vostra flotta non si sia ritirata in porto. La virtù, della cui natura voi accennate e di cui discutete con i vostri amici, appartiene alle bestie selvatiche, non agli uomini. Infatti, se gli uomini agissero guidati dalla ragione, non si distruggerebbero a vicenda come invece fanno. Ma a che serve che mi lamenti? I vizi esisteranno finché esisteranno gli uomini; tuttavia non sono continui, ma vengono compensati dall’azione di cose migliori.
 
 * * * * *
 
@@ -262,6 +468,32 @@ Henry Oldenburg
 
 London
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza scrive al suo amico riguardo alle ragioni che ci portano a credere che “ogni parte della natura sia in armonia con il tutto e sia collegata a tutte le altre parti”. Fa anche alcune osservazioni su Huygens.]
+
+Onorevole Signore, —
+
+Per l’incoraggiamento che voi stesso e il distinto R. Boyle mi avete dato nel proseguire le mie speculazioni, vi ringrazio sinceramente. Proseguo nella mia ricerca nella misura in cui le mie modeste capacità me lo permettono, con piena fiducia nel vostro aiuto e nella vostra gentilezza. Quando mi chiedete la mia opinione sulla questione relativa alla nostra conoscenza dei mezzi attraverso i quali ciascuna parte della natura è in armonia con il tutto, nonché sul modo in cui essa è collegata alle altre parti, presumo che vi riferiate ai motivi che ci inducono a credere che ogni parte della natura sia in accordo con il tutto e interagisca con le altre componenti. Per quanto riguarda i mezzi concreti attraverso i quali tali parti sono effettivamente collegate tra loro, ho già detto nella mia precedente lettera di essere ignorante al riguardo. Per rispondere a una tale domanda, dovremmo conoscere completamente la natura e le sue varie componenti. Cercherò quindi di spiegare il motivo che mi ha portato a formulare quella dichiarazione; tuttavia preciso fin da ora che non attribuisco alla natura né [bellezza](/concepts/beauty) né deformità, né ordine né confusione. Solo in relazione alla nostra immaginazione è possibile definire le cose belle o brutte, ordinate o disordinate.
+
+Con l’associazione delle parti, intendo semplicemente dire che le leggi o la natura di una parte si adattano alle leggi o alla natura di un’altra parte, al fine di evitare il maggior numero possibile di incoerenze. Per quanto riguarda l’intero e le parti, intendo dire che un certo numero di elementi costituisce una parte dell’insieme, nella misura in cui la natura di ciascuno di essi si adatta a quella degli altri, in modo che tutti, nel limite del possibile, concordino tra loro. D’altra parte, nella misura in cui non concordano, ciascuno di essi rappresenta, nella nostra mente, un’idea separata e, in tal senso, viene considerato come un intero, e non come una parte. Ad esempio, quando le parti di linfa, chilo, ecc. si combinano secondo proporzioni precise di forma e dimensione, al fine di formare un unico fluido – il chilo o la linfa stessi – in questo contesto vengono considerate come parte del sangue; ma se consideriamo le particelle di linfa diverse da quelle di chilo per forma e dimensione, allora ciascuna delle due viene considerata come un intero, e non come una parte.
+
+Immaginiamo, con il vostro permesso, un piccolo verme che vive nel sangue e sia in grado di distinguere, a livello visivo, le particelle di sangue, linfa, ecc., nonché di riflettere sul modo in cui ciascuna particella, al momento del contatto con un’altra, viene respinta o trasmette una parte della propria energia cinetica. Questo piccolo verme vivrebbe nel sangue, proprio come noi viviamo all’interno di una parte dell’universo, e considererebbe ogni particella di sangue non come una semplice componente, ma come un entità intera. Non sarebbe in grado di comprendere come tutte le parti del sangue vengano modificate dalla sua natura complessiva e come queste modifiche le costringano ad adattarsi reciprocamente, stabilendo relazioni fisse tra loro. Infatti, se ipotizzassimo l’assenza di cause esterne al sangue in grado di trasmettergli nuova energia cinetica, né lo spazio al di fuori del sangue né corpi con cui le sue particelle potrebbero scambiare movimento, è certo che il sangue rimarrebbe sempre nello stesso stato e le sue particelle non subirebbero alcuna modifica, se non quelle derivanti dalle relazioni di movimento esistenti tra linfa, chilo e altre sostanze. In tal caso, il sangue dovrebbe essere considerato sempre come un’entità intera, e non come una semplice parte. Tuttavia, poiché nella realtà esistono molte cause che modificano in modo specifico la natura del sangue e vengono a loro volta modificate da esso stesso, ne consegue che nel sangue si verificano altri movimenti e altre relazioni, che non derivano soltanto dalle interazioni tra le sue parti, ma anche dalle interazioni tra il sangue come insieme e le cause esterne. Ed è proprio per questo che il sangue viene considerato una parte, anziché un’entità intera. Ecco quanto riguarda il concetto di “intero” e di “parte”.
+
+Tutti i corpi naturali possono e devono essere considerati nello stesso modo in cui abbiamo qui analizzato il sangue; infatti tutti i corpi sono circondati da altri e sono reciprocamente determinati ad esistere e funzionare secondo proporzioni fisse e definite, mentre le relazioni tra movimento e quiete nel loro insieme, cioè nell’intero universo, rimangono invariate. Pertanto, ogni corpo, nella misura in cui esiste modificato in un modo specifico, deve essere considerato come una parte dell’universo intero, in armonia con esso e collegato alle altre sue parti. Poiché la [natura](/concepts/attribute) dell’universo non è limitata, come quella del sangue, ma è assolutamente infinita, le sue parti, per questa loro natura di potenza infinita, subiscono modifiche infinite e sono costrette a subire variazioni continue. Tuttavia, in termini di sostanza, ritengo che ciascuna parte abbia un legame più stretto con l’intero universo. Come ho detto nella mia prima lettera (indirizzata a voi quando ancora mi trovavo a Rhijnsburg), poiché la sostanza è per sua natura infinita, ne consegue che ogni sua parte appartiene alla natura stessa della sostanza e, senza di essa, non potrebbe né esistere né essere concepita.
+
+Vedete quindi come e perché ritengo che il corpo umano faccia parte della natura. Per quanto riguarda la mente umana, credo anch’essa appartenga alla natura; infatti sostengo che esista nella natura un potere di pensiero infinito, il quale, in quanto tale, contiene soggettivamente l’intera natura, e i suoi processi mentali avvengono nello stesso modo della natura stessa, cioè nel dominio delle idee. Inoltre, considero la mente umana identica a questo potere di pensiero, non nella sua dimensione infinita che abbraccia l’intera natura, ma nella sua dimensione finita che riguarda esclusivamente il corpo umano; in questo senso, sostengo che la mente umana faccia parte di una comprensione infinita.
+
+Ma spiegare e dimostrare con precisione tutte queste domande e simili richiederebbe troppo tempo; inoltre, non credo che voi vi aspettiate da me qualcosa del genere in questo momento. Temo di aver frainteso il vostro significato e di aver fornito una risposta a una domanda diversa da quella che avete posto. Per favore, informatemi al riguardo.
+
+Nella tua ultima lettera scrivi che ho suggerito che quasi tutte le leggi del moto cartesiane siano false. Quello che ho detto, se ricordo bene, è che Huygens la pensa allo stesso modo; personalmente non metto in discussione nessuna di queste leggi, tranne la sesta, riguardo alla quale credo anche Huygens si sbagli. Ti avevo chiesto inoltre di comunicarmi l’esperimento condotto sulla base di questa ipotesi presso la tua Royal Society; poiché non hai risposto, deduco che tu non sia libero di farlo. Il suddetto Huygens è completamente impegnato nella lucidatura di lenti; per questo scopo ha allestito un bell’officina, dove può anche costruire stampi. Qual sarà il risultato? Non lo so, e, a dire la verità, non mi interessa molto. L’esperienza mi ha insegnato che la mano umana è molto più efficace e sicura di qualsiasi macchina per lucidare stampi sferici. Per quanto riguarda il successo degli orologi o la data del viaggio di Huygens in Francia, non posso ancora darti informazioni certe.
+
+Enrico Oldenburg
+
+8 dicembre 1665
+
+Londra
+
 <span class="atom-split" data-atom="013" data-title="LETTER XVI. Oldenburg to Spinoza." data-chapter="LETTER XVI. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [AFTER SOME REMARKS on Spinoza’s last letter, and an account of experiments at the Royal Society and at Oxford, Oldenburg mentions a report about the return of the Jews to Palestine].
@@ -288,6 +520,32 @@ London
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Dopo alcune osservazioni sulla ultima lettera di Spinoza e una descrizione degli esperimenti condotti presso la Royal Society e all’Università di Oxford, Oldenburg menziona un resoconto riguardante il ritorno degli Ebrei in Palestina.]
+
+* * * * *
+
+Ma passo ora alla politica. Tutti qui parlano di un rapporto secondo cui gli Ebrei, dopo essere rimasti dispersi per più di duemila anni, stanno per tornare nel loro paese. Pochi qui ci credono, ma molti lo desiderano. Per favore, raccontate al vostro amico ciò che avete sentito e cosa ne pensate in merito. Per quanto mi riguarda, a meno che la notizia non venga confermata da fonti affidabili di Costantinopoli – il luogo principalmente interessato – non la crederò. Mi piacerebbe sapere cosa hanno sentito gli Ebrei di Amsterdam al riguardo e in che modo sono influenzati da queste notizie così importanti; se fossero vere, sicuramente sembrerebbero preannunciare la fine del mondo. * * * Credetemi.
+
+Con tutto il mio zelo,
+
+Enrico Oldenburg
+
+Londra,
+
+8 dicembre 1665.
+
+P.S. Tra poco vi dirò l’opinione dei nostri filosofi sui cometi recenti.
+
+Enrico Oldenburg
+
+8 giugno 1675
+
+Londra
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="014" data-title="LETTER XVII. Oldenburg to Spinoza." data-chapter="LETTER XVII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/soul_body,assi/faith_reason,concepts/religion,figures/spinoza,forms/epistle"></span>
 
 [OLDENBURG THANKS SPINOZA for the Tractatus Theoligico-Politicus despatched but not received, and modifies an adverse verdict expressed in a former letter (now lost).]
@@ -303,6 +561,22 @@ London,
 8 June, 1675.
 
 Henry Oldenburg
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Oldenburg ringrazia Spinoza per il “Trattato Teologico-Politico” inviato ma non ricevuto, e modifica una valutazione negativa espressa in una precedente lettera (ora perduta).]
+
+Non volevo lasciarmi sfuggire l’opportunità offertami dal viaggio in Olanda del dotto dottor Bourgeois, seguace della religione riformata: avrei voluto ringraziarvi per il trattato che mi era stato inviato alcune settimane fa, ma che non è ancora arrivato. Tuttavia, dubito che la mia lettera sia stata consegnata correttamente. In essa esprimevo la mia opinione sul trattato; ma dopo un’analisi più attenta, ora ritengo che il mio giudizio fosse affrettato. Alcuni argomenti mi sembravano presentati a scapito della religione, secondo gli standard dei teologi comuni e delle formule di fede accettate, che sono chiaramente prevenute. Tuttavia, un’esame più approfondito dell’intero argomento mi ha convinto che voi non cerciate affatto di danneggiare la vera religione o la sana filosofia, ma al contrario vi sforzate di esaltarne e stabilirne lo scopo autentico, nonché la nobiltà divina della filosofia profonda.
+
+Ora che credo che questo sia il vostro scopo definitivo, vi supplico con tutto il cuore di scrivere spesso e di spiegare la natura di ciò che state attualmente preparando e considerando, al vostro vecchio e sincero amico, che anela ardentemente al successo di un progetto così nobile. Vi prometto solennemente che non rivelerò una parola a nessuno, se mi ordinerete il silenzio; mi impegnerò invece ad aiutare, con delicatezza, gli uomini buoni e saggi ad accettare quelle verità che un giorno presenterete a un pubblico più ampio, e cercherò di dissipare i pregiudizi che sono stati formati contro le vostre dottrine. Se non mi sbaglio completamente, possedete una comprensione più profonda della natura e dei poteri della mente umana, nonché del suo legame con il corpo umano. Vi supplico ancora una volta di condividere con me i vostri pensieri su questo argomento. Addio, eccellentissimo signore, e vi ringrazio per l’ammirazione profonda che nutro per le vostre dottrine e la vostra virtù.
+
+Henry Oldenburg.
+
+Londra,
+
+8 giugno 1675.
+
+Enrico Oldenburg
 
 <span class="atom-split" data-atom="015" data-title="LETTER XVIII. Oldenburg to Spinoza." data-chapter="LETTER XVIII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -324,6 +598,26 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Oldenburg si rallegra della ripresa della corrispondenza e fa riferimento ai cinque libri dell’Etica che Spinoza aveva annunciato di voler pubblicare in una lettera oggi perduta.]
+
+Poiché la nostra corrispondenza è stata così felicemente ripresa, non vorrei certo mancare al [dovere](/positions/duty_imperative) di un amico nell’scambio epistolare. Dal tuo riscontro del 5 luglio ho capito che intendi pubblicare il tuo trattato in cinque parti. Permettimi, ti prego, di avvertirti, con la sincerità del mio affetto per te, di non includere alcun passaggio che possa scoraggiare la pratica della religione e della virtù; soprattutto perché in quest’epoca degenerata e malvagia ciò che più si cerca sono proprio dottrine del genere, quelle che sembrano dare sostegno ai vizi diffusi.
+
+Tuttavia, non mi oppongo affatto all’idea di ricevere alcune copie del suddetto trattato. Vi chiedo soltanto che, quando arriverà il momento giusto, queste copie vengano affidate a un mercante olandese residente a Londra, il quale si assicurerà che vengano inviate a me. Non c’è bisogno di sottolineare che libri del genere mi sono già stati inviati in precedenza: se arriveranno senza problemi nelle mie mani, non dubito di poterne distribuire alcune copie ai miei amici e di ottenere un prezzo equo per essi. Addio, e scrivetemi quando avrete tempo.
+
+Con tutto il mio zelo,
+
+Henry Oldenburg.
+
+Londra,
+
+22 luglio 1675.
+
+Benedetto da Spinoza
+
+Enrico Oldenburg
+
 <span class="atom-split" data-atom="016" data-title="LETTER XIX. Spinoza to Oldenburg." data-chapter="LETTER XIX. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA RELATES HIS journey to Amsterdam for the purpose of publishing his Ethics; he was deterred by the dissuasions of theologians and Cartesians. He hopes that Oldenburg will inform him of some of the objections to the Tractatus Theologico-Politicus, made by learned men, so that they may be answered in notes.]
@@ -339,6 +633,22 @@ Henry Oldenburg
 London
 
 Benedict de Spinoza
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza racconta il suo viaggio ad Amsterdam allo scopo di pubblicare la sua “Etica”; fu dissuaso dalle obiezioni dei teologi e dei cartesiani. Spera che Oldenburg gli fornisca informazioni su alcune delle obiezioni mosse al “Trattato Teologico-Politico” da persone erudite, affinché possano essere risposte attraverso appunti.]
+
+Onorevole e illustre Signore, —
+
+Quando ricevetti la tua lettera del 22 luglio, mi ero recato ad Amsterdam con l’intento di pubblicare il libro di cui ti avevo parlato. Mentre negoziavo, si diffuse la voce che avessi pubblicato un’opera sui temi religiosi in cui cercavo di dimostrare l’inesistenza di Dio. Molte persone credettero a questa notizia; di conseguenza, alcuni teologi, forse gli stessi autori della voce, ne approfittarono per lamentarsi di me presso il principe e i magistrati. Inoltre, quegli stupidi cartesiani, sospettati di sostenermi, cercarono di diffamarmi denigrando continuamente le mie opinioni e i miei scritti, una pratica che mantengono ancora oggi. Quando venni a conoscenza di tutto ciò attraverso persone affidabili, che mi assicurarono anche che i teologi mi aspettavano ovunque per attaccarmi, decisi di rimandare la pubblicazione del libro fino a quando non avessi capito meglio la situazione e proposi di informarti delle mie intenzioni. Tuttavia, sembra che le cose stiano peggiorando sempre di più e non so ancora cosa fare. Nel frattempo, non voglio ritardare ulteriormente nella risposta alla tua lettera. Vorrei innanzitutto ringraziarti sinceramente per il tuo amichevole avvertimento; sarei felice di ricevere maggiori spiegazioni al riguardo, così da comprendere quali siano le dottrine che, a tuo parere, sono contrarie alla pratica della religione e della virtù. Se i principi teorici sono in accordo con la ragione, allora ritengo che siano anche molto utili per promuovere la virtù. Inoltre, se non ti disturba troppo, ti prego di indicarmi i passaggi del “Trattato Teologico-Politico” che suscitano obiezioni da parte degli studiosi; desidero infatti commentare quel trattato e, se possibile, eliminare gli pregiudizi nei suoi confronti. Addio.
+
+Enrico Oldenburg
+
+15 novembre 1675
+
+Londra
+
+Benedetto da Spinoza
 
 <span class="atom-split" data-atom="017" data-title="LETTER XX. Oldenburg to Spinoza." data-chapter="LETTER XX. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -356,6 +666,22 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
+<span class="qlang-split" data-lang="it"></span>
+
+Da quanto leggo nella tua ultima lettera, il libro che proponi di pubblicare è in pericolo. È impossibile non approvare il tuo intento di chiarire e attenuare quei passaggi del “Trattato Teologico-Politico” che hanno causato disagio ai suoi lettori. Innanzitutto, vorrei attirare l’attenzione sulle ambiguità presenti nel modo in cui affronti il tema di Dio e della Natura: molte persone ritengono che tu abbia confuso i due concetti. Inoltre, a molti sembra che tu riduca l’autorità e il valore dei miracoli, che sono gli unici, secondo la credenza quasi universale dei cristiani, a poter confermare con certezza la veridicità della [rivelazione](/concepts/revelation) divina.
+
+Di nuovo, le persone dicono che nascondiate la vostra opinione su Gesù Cristo, il Redentore del mondo, l’unico Mediatore dell’umanità, nonché sulla Sua incarnazione e redenzione; vorrebbero che forniste una spiegazione chiara di ciò che pensate su questi tre argomenti. Se lo farete, soddisfacendo così i cristiani prudenti e razionali, credo che le vostre posizioni siano al sicuro. Addio.
+
+Londra,
+
+15 novembre 1675.
+
+P.S.: Scrivimi per favore, per dirmi se questa nota è arrivata sana e salva nelle tue mani.
+
+Benedetto da Spinoza
+
+Enrico Oldenburg
+
 <span class="atom-split" data-atom="018" data-title="LETTER XXI. Spinoza to Oldenburg." data-chapter="LETTER XXI. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 DISTINGUISHED SIR, —
@@ -371,6 +697,22 @@ Henry Oldenburg
 London
 
 Benedict de Spinoza
+
+<span class="qlang-split" data-lang="it"></span>
+
+Onorevole Signore, —
+
+Ho ricevuto sabato scorso la vostra molto breve lettera del 15 novembre. In essa indicate semplicemente i punti del trattato teologico che hanno causato disagio ai lettori, mentre io speravo di apprendere da esso quali fossero le opinioni che si opponevano alla pratica della virtù religiosa, e che avevate precedentemente menzionato. Tuttavia parlerò sui tre argomenti su cui desiderate che esprima i miei sentimenti, e vi dirò innanzitutto che la mia opinione su Dio differisce notevolmente da quella solitamente difesa dai cristiani moderni. Ritengo infatti che Dio sia, per così dire, la causa immanente di tutte le cose, e non una causa transitoria. Affermo inoltre che tutte le cose siano in Dio e si muovano in Dio, concordando così con Paolo e, forse, con tutti i filosofi antichi, anche se il linguaggio utilizzato possa essere diverso; oserei persino affermare di concordare con tutti gli Ebrei antichi, quanto si può giudicare dalle loro tradizioni, anche se queste siano in molti modi corrotte. L’ipotesi secondo cui io cercherei di dimostrare nel “Trattato Teologico-Politico” l’unità di Dio e della Natura (intendendo con questa ultima una certa massa o materia corporea) è del tutto errata.
+
+Per quanto riguarda i miracoli, sono dell’opinione che la [)rivelazione](/concepts/revelation) di Dio possa essere dimostrata soltanto attraverso la saggezza della dottrina, e non tramite miracoli; in altre parole, attraverso la conoscenza, e non l’ignoranza. Ho spiegato questo punto in modo sufficientemente dettagliato nel Capitolo VI dedicato ai miracoli. Aggiungerò soltanto che questa è la distinzione fondamentale tra religione e superstizione: la seconda si basa sull’ignoranza, la prima sulla conoscenza. Penso che sia proprio questo il motivo per cui i cristiani si distinguono dal resto del mondo, non per la fede, né per la [carità](/concepts/charity), né per gli altri frutti dello Spirito Santo, ma esclusivamente per le loro opinioni; difendono infatti la propria fede attraverso miracoli, cioè attraverso l’ignoranza, che è fonte di ogni male. Così, trasformano una fede che potrebbe essere vera in superstizione. Infine, per chiarire ulteriormente le mie opinioni su questi tre punti, dirò che non ritengo necessario conoscere Cristo nella sua natura umana per essere salvati; ma riguardo al Figlio Eterno di Dio, cioè alla Saggezza Eterna di Dio che si è manifestata in tutte le cose e soprattutto nell’intelletto umano, e in particolare in Cristo Gesù, la situazione è completamente diversa. Senza questa saggezza, nessuno può raggiungere lo stato di [beatazza](/concepts/amor_dei_intellectualis), poiché solo essa insegna ciò che è vero o falso, buono o male. E poiché questa saggezza si è manifestata in modo particolare attraverso Gesù Cristo, i suoi discepoli l’hanno predicata, nella misura in cui era stata rivelata loro attraverso di Lui, dimostrando così di poter gioire di quello spirito di Cristo più di qualsiasi altro essere umano. Per quanto riguarda le dottrine aggiunte da alcune chiese, come quella secondo cui Dio si sia assunto la [natura umana](/axes/human_nature), ho detto chiaramente che non le comprendo; anzi, a dire il vero, mi sembrano altrettanto assurde quanto l’affermazione che un cerchio abbia assunto la natura di un quadrato. Penso che questa spiegazione sia sufficiente per chiarire le mie opinioni sui tre punti menzionati. Se sarà soddisfacente per i cristiani, lo saprete meglio di me. Addio.
+
+Enrico Oldenburg
+
+16 dicembre 1675
+
+Londra
+
+Benedetto da Spinoza
 
 <span class="atom-split" data-atom="019" data-title="LETTER XXII. Oldenburg to Spinoza." data-chapter="LETTER XXII. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -394,6 +736,28 @@ Benedict de Spinoza
 
 Henry Oldenburg
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Oldenburg desidera essere illuminato riguardo alla dottrina del fatalismo, di cui Spinoza è stato accusato. Discute sull’intelligenza limitata dell’uomo e sull’incarnazione del Figlio di Dio.]
+
+Poiché sembrate accusarmi di eccessiva brevità, questa volta eviterò tale accusa ricorrendo a un’eccessiva prolissità. Immagino che vi aspettaste che esponessi nei vostri scritti quelle opinioni che, a quanto pare, scoraggiano i lettori dal praticare la virtù religiosa. Indicherò quindi ciò che li turba particolarmente. Voi sembrate sostituire ogni azione e decisione con una necessità fatale; se ciò viene ammesso e affermato, allora si conclude che le basi stesse di tutte le leggi, della virtù e della religione vengano distrutte, rendendo vani tutti i premi e le punizioni. Tutto ciò che può essere imposto o è considerato inevitabile viene anche giustificato; pertanto, secondo loro, nessuno potrebbe essere senza scuse davanti a Dio. Se siamo guidati dal destino e tutte le cose seguono un percorso prestabilito e ineluttabile, non vedono dove possano trovare posto le punizioni. È molto difficile individuare un modo per sciogliere questo “nodo”. Mi piacerebbe molto conoscere quale aiuto siate disposti a offrire in questa questione.
+
+Per quanto riguarda le opinioni che mi avete gentilmente espresso su i tre punti che ho menzionato, mi vengono in mente le seguenti domande. Prima di tutto: in quale senso considerate miracoli e ignoranza termini sinonimi ed equivalenti, come sembra indicare la vostra ultima lettera?
+
+Il risveglio di Lazzaro dalla morte e la resurrezione di Gesù Cristo sembrano superare ogni potere della natura creata, appartenendo esclusivamente all’ambito del potere divino; non sarebbe certo un segno di ignoranza colpevole riconoscere che sia necessario oltrepassare i limiti dell’intelligenza finita, confinata entro determinati confini. Ma forse non ritenete che sia in armonia con la mente umana e le scienze ammettere nell’intelletto immortale e nella Divinità suprema una scienza e un potere capaci di comprendere e realizzare eventi i cui motivi e modalità non possono essere compresi né spiegati a noi poveri esseri umani? “Siamo uomini”; sembra quindi che dobbiamo considerare tutto ciò che è umano come simile a noi stessi.
+
+Ancora una volta, quando affermate di non riuscire a comprendere come Dio abbia davvero assunto su Sé la [natura umana](/axes/human_nature), diventa lecito chiedervi come possiate interpretare i testi del Vangelo e dell’Epistola agli Ebrei, nei quali si legge: “La Parola si è fatta carne” e “Infatti non ha assunto la natura degli angeli, ma quella di Abramo”. Inoltre, l’intero tenore del Vangelo sembra indicare chiaramente che il Figlio unigenito di Dio, la Parola (che era sia Dio che stava con Dio), si è manifestato nella natura umana e, attraverso la Sua passione e morte, ha offerto il sacrificio per i nostri peccati, come prezzo dell’espiazione. Vorrei molto conoscere ciò che avete da dire al riguardo, senza mettere in discussione la veridicità del Vangelo e della religione cristiana, che, credo, approvate.
+
+Avevo intenzione di scrivere di più, ma sono stato interrotto da amici in visita, a cui non posso rifiutare i doveri della cortesia. Tuttavia, ciò che ho già scritto è sufficiente e forse potrebbe stancarvi nel vostro riflettere filosofico. Addio, dunque, e credetemi sempre un ammiratore della vostra erudizione e delle vostre conoscenze.
+
+Londra,
+
+16 dicembre 1675.
+
+Benedetto da Spinoza
+
+Enrico Oldenburg
+
 <span class="atom-split" data-atom="020" data-title="LETTER XXIII. Spinoza to Oldenburg." data-chapter="LETTER XXIII. Spinoza to Oldenburg." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA EXPOUNDS TO Oldenburg his views on fate and necessity, discriminates between miracles and ignorance, takes the resurrection of Christ as spiritual, and deprecates attributing to the sacred writers Western [modes](/concepts/mode) of speech.]
@@ -416,6 +780,29 @@ London
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza espone a Oldenburg le sue opinioni sul destino e sulla necessità, distingue tra miracoli e ignoranza, considera la risurrezione di Cristo un evento spirituale, e depreca l’attribuire agli scrittori sacri i [modi](/concepts/mode) di espressione tipici dell’Occidente.]
+
+Onorevole Signore, —
+
+Finalmente capisco ciò che mi avevate supplicato di non pubblicare. Tuttavia, poiché questo concetto costituisce la base fondamentale di tutto ciò che intendevo esporre nel trattato, vorrei spiegare brevemente in quale senso affermo che una necessità fatale governi tutte le cose e le azioni umane. Dio non è affatto soggetto al destino: ritengo che tutte le cose derivino inevitabilmente dalla natura stessa di Dio, proprio come tutti riconoscono che sia insito nella natura divina il fatto che Dio si comprenda da solo. Tutti ammettono che questa conseguenza derivi necessariamente dalla natura divina; tuttavia, nessuno pensa che Dio sia costretto da alcun destino, ma che si comprenda liberamente, sebbene in modo inevitabile.
+
+Inoltre, questa inevitabile necessità delle cose non elimina né le leggi divine né quelle umane. I principi della morale, che siano ricevuti da Dio stesso sotto forma di leggi o istituzioni, o meno, rimangono comunque divini e salutari; sia che il bene derivante dalla virtù e dall’[amore](/concepts/charity) divino venga considerato come proveniente da Dio nella sua funzione di giudice, sia che venga visto come una conseguenza necessaria della natura divina, in entrambi i casi sarà ugualmente desiderabile; d’altra parte, i mali derivanti da azioni e passioni malvagie non sono meno temibili solo perché rappresentano conseguenze inevitabili. Infine, nelle nostre azioni, che siano necessarie o contingenti, ci guidiamo sia dalla speranza che dalla paura.
+
+Gli uomini sono senza scuse davanti a Dio soltanto perché si trovano nel suo potere, proprio come l’argilla è nelle mani dell’artigiano, il quale ne fa vasi: alcuni per onore, altri per disonore. Se rifletterete un po’ su questo, senza dubbio riuscirete facilmente a rispondere a qualsiasi obiezione possa essere sollevata contro la mia opinione, proprio come hanno già fatto molti dei miei amici.
+
+Ho considerato miracoli e ignoranza termini equivalenti, perché coloro che cercano di dimostrare l’esistenza di Dio e la veridicità della religione attraverso i miracoli, tentano di provare ciò che è oscuro utilizzando qualcosa di ancora più oscuro e completamente sconosciuto, introducendo così un nuovo tipo di argomentazione: una riduzione, non all’impossibile – come si suol dire – ma all’ignoranza. Tuttavia, se non erro, ho spiegato a sufficienza la mia opinione sui miracoli nel “Trattato Teologico-Politico”. Aggiungerò soltanto che, riflettendo sui fatti: Cristo non si è manifestato né al consiglio, né a Pilato, né ad alcun incredulo, ma solo ai fedeli; inoltre, Dio non ha né destra né sinistra, e per sua essenza non si trova in un luogo specifico, ma ovunque; la materia è uguale dappertutto; Dio non si manifesta nello spazio immaginario che si ritiene esista al di fuori del mondo; infine, il corpo umano viene mantenuto entro limiti precisi soltanto dal peso dell’aria. È facile comprendere quindi che l’apparizione di Cristo non è diversa da quella con cui Dio si manifestò ad Abramo, quando questi vide degli uomini che invitò a mangiare con sé. Ma si dirà: tutti gli Apostoli credevano fermamente che Cristo fosse risorto dai morti e fosse realmente asceso in cielo. Non lo nego. Anche Abramo credeva che Dio avesse mangiato con lui, e tutti gli Israeliti credevano che Dio fosse disceso dal cielo, circondato di fuoco, sul Monte Sinai e vi avesse parlato direttamente con loro; mentre queste apparizioni o rivelazioni, e molte altre simili, erano adatte alla comprensione e alle opinioni di quelle persone a cui Dio voleva rivelare la sua volontà. Concludo quindi che la risurrezione di Cristo dai morti fu in realtà di natura spirituale, e che soltanto ai fedeli, secondo la loro capacità di comprensione, fu rivelato che Cristo era dotato di [eternità](/positions/eternity) e fosse risorto dai morti (intendendo con “morti” ciò che Cristo stesso disse: “Lasciate che i morti seppelliscano i loro morti”); attraverso la sua vita e la sua morte, egli offrì un esempio senza pari di santità. Inoltre, in questo senso, Egli risuscita i suoi discepoli, nella misura in cui questi seguono l’esempio della Sua stessa vita e morte. Non sarebbe difficile spiegare l’intera dottrina del Vangelo sulla base di questa ipotesi. Anzi, il 1° Corinzi 15 non potrebbe essere interpretato in alcun altro modo, né si possono comprendere gli argomenti di Paolo: se seguiamo l’interpretazione comune, appaiono deboli e facilmente confutabili; per non parlare del fatto che i cristiani interpretano spiritualmente tutte quelle dottrine che gli ebrei accettavano in senso letterale. Condivido con voi la consapevolezza della debolezza umana. Ma, d’altra parte, oserei chiedervi: possediamo davvero una conoscenza sufficiente della natura per stabilirne i limiti e il potere, o possiamo affermare che qualcosa superi tale potere? Nessuno oserebbe arrivare a tanto senza arroganza. Pertanto, possiamo spiegare i miracoli, nella misura del possibile, attraverso cause naturali.
+Quando non riusciamo a spiegarli, né tantomeno a dimostrare la loro impossibilità, possiamo benissimo sospendere il nostro giudizio al riguardo e fondare la religione, come ho detto, esclusivamente sulla saggezza delle sue dottrine. Pensate che i testi del Vangelo di Giovanni e dell’Epistola agli Ebrei siano in contraddizione con quanto affermo, perché misurate le frasi orientali secondo gli standard del linguaggio europeo; tuttavia Giovanni scrisse il suo vangelo in greco, ma lo scrisse come se fosse in ebraico. Comunque sia, credete davvero che, quando la [Scrittura](/concepts/revelation) afferma che Dio si è manifestato in una nuvola, o che ha abitato nel tabernacolo o nel tempio, Dio abbia effettivamente assunto la natura di una nuvola, di un tabernacolo o di un tempio? Eppure l’unica cosa che Cristo dice di Sé è che Egli è il Tempio di Dio, perché, come ho detto prima, Dio si era manifestato appositamente in Cristo. Giovanni, volendo esprimere la stessa verità in modo più incisivo, disse che “la Parola si è fatta carne”. Ma ho detto abbastanza sull’argomento.
+
+Enrico Oldenburg
+
+14 gennaio 1676
+
+Londra
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="021" data-title="LETTER XXIV. Oldenburg to Spinoza." data-chapter="LETTER XXIV. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [OLDENBURG RETURNS TO the questions of universal necessity, of miracles, and of the literal and allegorical interpretation of [Scripture](/concepts/revelation).]
@@ -437,6 +824,28 @@ Benedict de Spinoza
 7 Feb., 1676
 
 Henry Oldenburg
+
+<span class="qlang-split" data-lang="it"></span>
+
+[OLDENBURG ritorna alle questioni della necessità universale, dei miracoli, e dell’interpretazione letterale e allegorica della [Scrittura](/concepts/revelation).]
+
+Agisci bene.
+
+Hai colto esattamente il punto, comprendendo appieno il motivo per cui non desideravo che la dottrina della necessità fatale di tutte le cose venisse diffusa: temevo che ciò potesse ostacolare la pratica della virtù e rendere inutili ricompense e punizioni. Le osservazioni contenute nella tua ultima lettera sembrano tuttavia insufficienti a risolvere questa questione o a placare l’animo umano. Infatti, se noi uomini, nelle nostre azioni, siamo sia moralmente che naturalmente soggetti al potere di Dio – come l’argilla nelle mani dell’artigiano – con quale diritto qualcuno di noi potrebbe essere accusato di aver agito in un certo modo, visto che era impossibile per lui agire diversamente? Non dovremmo forse poter scaricare tutta la responsabilità su Dio? Il tuo destino inflessibile e il tuo potere irresistibile ci costringono ad agire in un determinato modo; non possiamo assolutamente agire altrimenti. Allora, per quale motivo e con quale diritto ci infligi punizioni terribili che non possiamo affatto evitare, visto che tu guidi e gestisci tutte le cose secondo una necessità suprema, in base alla tua volontà e ai tuoi desideri? Quando dici che gli uomini sono inescusabili davanti a Dio soltanto perché sono sotto il suo potere, io ribalterei l’argomento, sostenendo con maggiore logica che gli uomini sono invece chiaramente scusabili, proprio perché sono sotto il potere di Dio. Ognuno può dire: “O Dio, il tuo potere è insuperabile; quindi, poiché non potevo agire diversamente, posso essere giustamente scusato”.
+
+Ancora una volta, equiparando i miracoli all’ignoranza, sembrate confinare entro gli stessi limiti il potere di Dio e la conoscenza degli uomini più capaci; infatti, secondo voi, Dio non è in grado di compiere o produrre nulla per cui gli esseri umani non possano trovare una spiegazione, anche utilizzando tutta la loro intelligenza.
+
+Ancora una volta, la storia della passione, della morte, della sepoltura e della risurrezione di Cristo sembra essere descritta con colori così vividi e autentici che oso rivolgermi alla vostra coscienza: riuscite davvero a credere che si tratti di un’allegoria e non di una descrizione letterale, pur mantenendo la vostra fede in tale narrazione? Le circostanze così chiaramente descritte dagli Evangelisti sembrano spingerci con forza a interpretare questa storia in senso letterale. Ho osato affrontare brevemente questi argomenti; vi prego sinceramente di perdonarmi e di rispondermi con la vostra solita franchezza, come fareste con un amico. Il signor Boyle vi manda i suoi cordiali saluti. Un’altra volta vi dirò cosa sta facendo la Royal Society. Addio, e conservatemi nel vostro affetto.
+
+Londra,
+
+14 gennaio 1676.
+
+Benedetto da Spinoza
+
+7 febbraio 1676
+
+Enrico Oldenburg
 
 <span class="atom-split" data-atom="022" data-title="LETTER XXV. Written" data-chapter="LETTER XXV. Written" data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -461,6 +870,30 @@ Henry Oldenburg
 London
 
 Benedict de Spinoza
+
+<span class="qlang-split" data-lang="it"></span>
+
+7 febbraio 1676.
+
+Spinoza a Oldenburg.
+
+[Spinoza affronta nuovamente la questione del fatalismo. Ripete che accetta letteralmente la passione, la morte e la sepoltura di Cristo, ma che la Sua risurrezione va intesa in senso spirituale.]
+
+Onorevole Signore, —
+
+Quando ho detto nella mia precedente lettera che siamo inescusabili, poiché siamo sotto il potere di Dio, come l’argilla nelle mani dell’artigiano, intendevo dire che nessuno può lamentarsi con Dio per avergli dato una natura debole o uno spirito infermo. Un cerchio non potrebbe certo lamentarsi con Dio perché non possiede le proprietà di una sfera, né un bambino torturato con pietre potrebbe lamentarsi di non avere un corpo sano; allo stesso modo, un uomo dallo spirito debole non può incolpare Dio per avergli negato la forza d’animo, la vera conoscenza e l’[amore](/concepts/charity) della Divinità, o perché è dotato di una natura così fragile da non riuscire a controllare i propri desideri. La natura di ogni cosa è infatti in grado di compiere soltanto ciò che ne deriva necessariamente dalla sua causa. Che nessun uomo possa essere coraggioso, né possiamo pretendere per noi stessi un corpo sano o una mente salutare, questo nessuno può negarlo senza contraddire sia l’esperienza che la ragione. “Ma”, dite voi, “se gli uomini peccano per natura, allora sono scusabili”; tuttavia non esponete chiaramente la conclusione a cui arrivate: se Dio non possa arrabbiarsi con loro, o se siano degni di [benedizione](/concepts/amor_dei_intellectualis), cioè della conoscenza e dell’amore di Dio. Se intendete dire il primo, ammetto pienamente che Dio non possa arrabbiarsi e che tutto avvenga secondo la Sua volontà; ma nego che tutti gli uomini debbano necessariamente essere benedetti: possono essere scusabili, eppure rimanere privi di benedizione e soffrire in molti modi. Un cavallo è scusabile perché è un cavallo e non un uomo; tuttavia deve pur esserlo. Chi impazzisce a causa del morso di un cane è scusabile, ma viene comunque giustamente punito. Infine, chi non riesce a controllare i propri desideri e a moderarli per timore delle leggi, sebbene la sua debolezza possa essere scusabile, non può godere appieno della conoscenza e dell’amore di Dio, ma è destinato inevitabilmente alla rovina. Non ritengo necessario ricordare qui che la [Scrittura](/concepts/revelation), quando afferma che Dio si arrabbia con i peccatori e che è un Giudice che esamina le azioni umane, le giudica e ne pronuncia sentenze, parla in termini umani, adattandosi alle opinioni comuni del popolo; il suo scopo non è infatti insegnare filosofia o rendere gli uomini saggi, ma farli obbedire.
+
+Come possa, considerando miracoli e ignoranza termini equivalenti, ridurre sia il potere di Dio che la conoscenza dell’uomo entro gli stessi limiti, non riesco a comprendere.
+
+Per il resto, accetto letteralmente la passione, la morte e la sepoltura di Cristo, proprio come fate voi; ma la Sua risurrezione la interpreto in senso allegorico. Ammetto che gli Evangelisti ne parlino con tale dettaglio da non poter negare che loro stessi credessero che il corpo di Cristo fosse risorto dai morti e ascendesse al cielo per sedersi alla destra di Dio, o che si potesse credere che Cristo fosse stato visto dagli increduli, se questi si fossero trovati nei luoghi in cui Egli apparve ai Suoi discepoli; ma su queste questioni essi potevano essere stati ingannati, senza che ciò danneggiasse l’insegnamento del Vangelo, proprio come accadde ad altri profeti menzionati nella mia ultima lettera. Tuttavia Paolo, a cui Cristo apparve in seguito, si rallegra di aver conosciuto Cristo non secondo la carne, ma secondo lo spirito. Addio, onorevole Signore; credetemi, sono vostro con tutto affetto e zelo.
+
+Enrico Oldenburg
+
+11 febbraio 1676
+
+Londra
+
+Benedetto da Spinoza
 
 <span class="atom-split" data-atom="023" data-title="LETTER XXV.a. Oldenburg to Spinoza." data-chapter="LETTER XXV.a. Oldenburg to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -494,6 +927,38 @@ Amsterdam
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+Oldenburg solleva ulteriori obiezioni contro la dottrina della necessità e dei miracoli di Spinoza, e mette in evidenza l’incoerenza di un’interpretazione allegorica parziale delle [Scritture](/concepts/revelation).
+
+A Sua Eccellenza il Maestro Benedetto da Spinoza, Henry Oldenburg invia i suoi saluti.
+
+Nella tua ultima lettera, scritta il 7 febbraio, ci sono alcuni punti che sembrano meritevoli di critica. Affermi che un uomo non possa lamentarsi, poiché Dio gli ha negato la vera conoscenza di Sé stesso e la forza sufficiente per evitare i peccati; infatti, riguardo alla natura di ogni cosa, nulla è in grado di spiegare ciò che non deriva necessariamente dalla sua causa. Ma io dico che, poiché Dio, il Creatore degli uomini, li ha formati a Sua immagine, il che sembra implicare nella loro essenza saggezza, bontà e potere, è del tutto logico ritenere che sia più nell’ambito delle possibilità umane possedere una mente sana piuttosto che un corpo sano. Infatti, la salute fisica deriva da cause meccaniche, mentre la salute mentale dipende da intenzioni e volontà. Aggiungi inoltre che gli uomini possono essere incolpabili eppure soffrire in molti modi. Questo sembra difficile da comprendere a prima vista; inoltre, il tuo esempio – ovvero un cane impazzito a causa di una ferita – non pare risolvere la questione. Infatti, uccidere un simile animale potrebbe essere considerato crudeltà, se non fosse necessario per proteggere altri cani, animali e persino gli esseri umani da un attacco del genere.
+
+Ma se Dio avesse insito nell’uomo una mente sana, come è certamente in suo potere fare, non ci sarebbe nulla di cui temere riguardo alla diffusione dei vizi. Inoltre, sembra davvero crudele che Dio condanni gli uomini a tormenti eterni, o almeno temporanei e terribili, per peccati che essi avrebbero potuto facilmente evitare. In più, l’intero contenuto delle Sacre Scritture sembra presupporre e implicare che gli uomini siano in grado di astenersi dal peccare: esse sono piene di denunce e promesse, di dichiarazioni riguardanti ricompense e punizioni, il tutto ciò che sembra contraddire la necessità stessa di peccare e suggerisce la possibilità di evitare le conseguenze negative dei propri errori. E se ciò venisse negato, si dovrebbe ammettere che la mente umana agisca in modo altrettanto meccanico del corpo umano stesso.
+
+In seguito, quando si considerano miracoli e ignoranza come equivalenti, sembra di basarsi su questo presupposto: che la creatura possa e debba avere una comprensione perfetta del potere e della saggezza del Creatore; ma io sono sempre stato fermamente convinto che le cose stiano esattamente al contrario.
+
+Infine, quando affermate che la passione, la morte e la sepoltura di Cristo debbano essere intese letteralmente, mentre la Sua risurrezione debba essere considerata in senso allegorico, a mio parere non vi basate su alcuna prova concreta. La risurrezione di Cristo sembra essere descritta nei Vangeli in modo altrettanto letterale quanto il resto dei fatti narrati. Su questo punto fondamentale – la risurrezione – si basa l’intera religione cristiana e la sua verità; senza di esso, la missione di Cristo e le sue dottrine celesti crollerebbero. Non può sfuggirvi che, dopo essere risorto dalla morte, Cristo si adoperò con grande impegno per convincere i Suoi discepoli della veridicità della Sua risurrezione. Voler trasformare tutto ciò in allegorie equivale a negare l’intera verità della storia raccontata nei Vangeli.
+
+Questi pochi punti desidero ancora sottoporvi nell’interesse della mia libertà di filosofare; vi prego sinceramente di non interpretarli in modo errato.
+
+Scritto in
+
+Londra,
+
+11 febbraio 1676.
+
+Vi comunicherò presto riguardo agli attuali studi ed esperimenti della Royal Society, se Dio mi concederà vita e salute.
+
+Simon de Vries
+
+24 febbraio 1663
+
+Amsterdam
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="024" data-title="LETTER XXVI. Simon de Vries to Spinoza." data-chapter="LETTER XXVI. Simon de Vries to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SIMON DE VRIES, a diligent student of Spinoza’s writings and philosophy, describes a club formed for the study of Spinoza’s MS. containing some of the matter afterwards worked into the Ethics, and asks questions about the difficulties felt by members of the club.]
@@ -526,6 +991,38 @@ Benedict de Spinoza
 
 Simon de Vries
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SIMON DE VRIES, uno studioso attento delle opere e della filosofia di Spinoza, descrive un club fondato allo scopo di studiare il manoscritto originale di Spinoza, che conteneva alcune idee successivamente incluse nell’“Etica”, e pone domande riguardo alle difficoltà incontrate dai membri del club nel loro studio.]
+
+Onorevole Amico, —
+
+Da molto tempo desideravo essere con te; ma il tempo e l’inverno rigido non sono stati favorevoli nei miei confronti. A volte mi lamento della mia sorte, poiché siamo separati da una distanza così grande. Fortunato, sì, davvero fortunato è colui che vive sotto lo stesso tetto con te, che può conversare con te su i più vari argomenti, a cena, a tavola e durante le vostre passeggiate. Tuttavia, anche se sono lontano da te fisicamente, spesso sei presente nella mia mente, soprattutto attraverso le tue scritture quando le leggo. Poiché però non tutti i membri del nostro club riescono a comprenderle appieno – motivo per cui abbiamo iniziato una nuova serie di incontri – e poiché non vorrei che pensassi che io ti abbia dimenticato, ho deciso di scriverti questa lettera.
+
+Per quanto riguarda il nostro club, l’ordine dei nostri lavori è il seguente: uno di noi (cioè tutti a turno) legge attentamente tutto il vostro testo e, nella misura in cui lo comprende, ne espone il contenuto e ne dimostra la correttezza, seguendo esattamente l’ordine delle vostre proposizioni. Se dovesse verificarsi che su qualche punto non riusciamo a raggiungere un accordo, abbiamo deciso di prendere appunti e di scrivervi, affinché, se possibile, il problema possa essere chiarito ulteriormente e noi possiamo, sotto la vostra guida, difendere la verità contro coloro che sono religiosi in modo superstizioso, contro i cristiani, e resistere all’attacco di tutto il mondo. Ora, poiché quando abbiamo letto per la prima volta il testo non ci sembravano chiare tutte le definizioni contenute al suo interno, siamo rimasti in disaccordo sulla loro natura. In vostra assenza abbiamo consultato come autorità un famoso matematico di nome Borel: egli parla infatti della natura delle definizioni, degli assiomi e dei postulati, e cita anche le opinioni altrui sull’argomento. Tuttavia, la sua opinione è la seguente: “Le definizioni vengono utilizzate nelle dimostrazioni come premesse; pertanto è necessario che siano perfettamente comprese, altrimenti non si può raggiungere una conoscenza scientifica o accurata attraverso di esse.” In un altro passaggio afferma: “La qualità principale e più evidente di un dato soggetto non dovrebbe essere scelta in modo affrettato, ma con la massima attenzione; se tale qualità fosse impossibile, non si potrebbe formulare alcuna definizione scientifica. Ad esempio, se qualcuno affermasse che due rette dritte che delimitano uno spazio possano essere chiamate ‘figurali’, la definizione risultante sarebbe priva di significato e impossibile da applicare; quindi da essa deriverebbe soltanto ignoranza, non conoscenza. Al contrario, se tale qualità fosse possibile e vera, ma sconosciuta o dubbia per noi, la definizione non sarebbe corretta. Le conclusioni tratte da ciò che è sconosciuto o dubbia sono infatti incerte; pertanto portano soltanto a congetture o opinioni, ma non a conoscenze certe.”
+
+Jacquet sembra dissentire da questo punto di vista, poiché ritiene che si possa passare direttamente da una premessa falsa a una conclusione vera, come ben sapete. Clavius, tuttavia, il cui parere egli cita, la pensa in questo modo: “Le definizioni,” dice, “sono frasi artificiali; non c’è alcun bisogno, nel ragionamento, che una cosa venga definita in un determinato modo; basta semplicemente che, quando una cosa è stata definita, non si dica mai che essa sia identica a un’altra, finché non si dimostri che anche la sua definizione corrisponda a tale identità.”
+
+Pertanto, secondo Borel, la definizione di una data entità dovrebbe basarsi, per quanto riguarda la sua struttura o le sue qualità passive, su elementi completamente noti e veritieri a noi. Clavius, invece, ritiene che non abbia alcuna importanza se tale struttura o tali qualità siano ben conosciute e vere, o il contrario; l’importante è non affermare che la nostra definizione corrisponda a qualcosa prima ancora che essa venga dimostrata.
+
+Preferirei l’opinione di Borel a quella di Clavius. Non so quale delle due accettereste, se ne accettaste qualcuna. Poiché queste difficoltà mi sono sorte riguardo alla natura della definizione, che è considerata uno dei punti fondamentali della dimostrazione, e poiché non riesco a liberarmene, desidero ardentemente che, quando ne avrete il tempo e l’opportunità, vi degniate di inviarmi la vostra opinione su questa questione e di spiegarmi al contempo la differenza tra assiomi e definizioni. Borel afferma che tale differenza sia soltanto nominale, ma credo che voi la consideriate diversamente.
+
+Inoltre, non riusciamo a prendere una decisione riguardo alla terza definizione. Per illustrarla, ho ricordato ciò che il mio maestro mi disse all’Aia: un oggetto può essere considerato in due modi: o come è in sé stesso, o come è in relazione con qualcos’altro; è questo il caso dell’intelletto, che può essere considerato sia come una forma di pensiero sia come un insieme di idee. Tuttavia non comprendiamo appieno il significato di questa distinzione. Ci sembra infatti che, se concepiamo correttamente il concetto di pensiero, dobbiamo classificarlo tra le idee; inoltre, se tutte le idee venissero eliminate, anche il pensiero stesso scomparirebbe. Poiché l’esempio fornito non ci sembra sufficientemente chiaro, la questione rimane ancora poco comprensibile e richiede ulteriori spiegazioni.
+
+Infine, nella terza nota alla ottava proposizione, l’inizio recita così: “Da ciò risulta chiaramente che, anche se due [attributi](/concepts/attribute) effettivamente distinti possano essere concepiti ciascuno per sé, senza il bisogno dell’altro, non possiamo quindi concludere che costituiscano due entità o due sostanze diverse. Poiché è proprio della natura di una sostanza che ciascuno dei suoi attributi debba essere concepito attraverso di essa stessa, anche se tutti gli attributi che essa possiede esistono contemporaneamente in lei.” Qui il nostro maestro sembra assumere che la natura di una sostanza sia tale da poter avere diversi attributi. Tuttavia questa dottrina non è ancora stata dimostrata, a meno di fare riferimento alla sesta definizione di sostanza assolutamente infinita, ovvero di Dio. Altrimenti, se si afferma che ogni sostanza abbia soltanto un attributo, e io possiedo due idee relative a due attributi diversi, posso concludere correttamente che, dove ci sono due attributi distinti, ci devono essere anche due sostanze diverse. Su questo punto vi chiediamo ancora una spiegazione più approfondita. Inoltre, vi ringrazio molto per le vostre opere inviateci tramite il P. Balling, che mi hanno molto deliziato, soprattutto la vostra nota sulla proposizione XIX. Se posso esservi di qualche aiuto in qualcosa che sia entro i miei poteri, sono a vostra disposizione; basta che me lo facciate sapere. Ho iniziato a studiare anatomia e ne ho quasi completata la metà; una volta terminato questo corso, comincerò a studiare chimica e, sotto la vostra guida, approfondirò l’intera materia medica. Vi saluto e attendo con impazienza la vostra risposta.
+
+Il tuo più devoto.
+
+S. J. de Vries.
+
+Amsterdam,
+
+24 febbraio 1663.
+
+Benedetto da Spinoza
+
+Simon de Vries
+
 <span class="atom-split" data-atom="025" data-title="LETTER XXVII. Spinoza to Simon de Vries." data-chapter="LETTER XXVII. Spinoza to Simon de Vries." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA DEPRECATES HIS correspondent’s jealousy of Albert Burgh; and answers that distinction must be made between different kinds of definitions. He explains his opinions more precisely.]
@@ -544,6 +1041,25 @@ Benedict de Spinoza
 
 Simon de Vries
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza esprime rammarico per la gelosia del suo corrispondente nei confronti di Albert Burgh; inoltre afferma che sia necessario fare distinzioni tra diversi tipi di definizioni, e spiega più chiaramente le proprie opinioni.]
+
+Caro Amico, —
+
+Ho ricevuto la tua lettera, da tempo desiderata; per essa e per l’affetto che mi dimostri, ti ringrazio sinceramente. La tua lunga assenza è stata altrettanto dolorosa per me quanto per te; tuttavia sono felice che i miei modesti studi possano esserti di qualche utilità, così come ai nostri amici. In questo modo, mentre tu sei lontano, io “parlo” con te attraverso le mie riflessioni. Non devi invidiare il mio coinquilino: non c’è nessuno che mi dispiaccia di più, né verso il quale abbia dovuto essere particolarmente cauto; per questo ti esorto, e tutti i miei conoscenti, a non comunicargli le mie opinioni, almeno finché non raggiungerà un’età più matura. Per ora è ancora troppo immaturo e inconstante: preferisce la novità alla verità. Tuttavia spero che, nel giro di pochi anni, possa correggere queste debolezze infantili. Anzi, ne sono quasi certo, giudicando dalla sua natura. E anche il suo temperamento mi spinge a nutrire questa fiducia in lui.
+
+Per quanto riguarda le domande poste nel vostro club, organizzate con grande saggezza, vedo che le vostre difficoltà derivano dal non fare distinzione tra i diversi tipi di definizione: cioè, tra una definizione che serve a spiegare qualcosa di cui si cerca e si discute soltanto l’essenza, e una definizione che viene utilizzata esclusivamente a scopo di indagine. La prima, avendo un oggetto preciso, dovrebbe essere vera; la seconda, invece, non è necessariamente vera. Ad esempio, se qualcuno mi chiede una descrizione del tempio di Salomone, sono tenuto a fornirgli una descrizione vera, a meno che non voglia parlare a vanvera. Ma se ho immaginato mentalmente un tempio che desidero costruire e ne deduco che devo acquistare un certo terreno e determinate quantità di pietre e altri materiali, qualcuno potrebbe dire che ho tratto una conclusione errata perché la mia definizione è probabilmente falsa, oppure mi chiedere di dimostrarla? In tal caso, quella persona starebbe semplicemente dicendomi che non ho concepito correttamente ciò che avevo immaginato, o richiedendomi di dimostrare che effettivamente l’avevo concepito, il che è ovviamente assurdo. Quindi, una definizione può spiegare qualcosa nella misura in cui tale cosa sia concepibile da noi; in tal caso, si distingue da un’affermazione o da un axioma perché riguarda soltanto le essenze delle cose o le loro modificazioni, mentre queste ultime hanno un ambito più ampio e includono anche verità eterne. Altrimenti, una definizione può spiegare qualcosa nella misura in cui tale cosa è effettivamente esistente; in questo caso, si distingue da un’affermazione o da un axioma perché richiede soltanto di essere concepita in modo assoluto, e non necessariamente come vera. Una cattiva definizione, quindi, è una definizione che non permette di comprendere correttamente la realtà. Per chiarire il mio punto, prendiamo l’esempio di Borel: un uomo che afferma che due linee rette che delimitano uno spazio debbano essere chiamate “figure”. Se quell’uomo intende per linea retta ciò che tutti gli altri intendono per linea curva, la sua definizione è valida (poiché si riferisce a una figura specifica); purché in seguito non intenda con quel termine un quadrato o qualche altra forma. Ma se attribuisce al termine “linea retta” il significato comune, allora quella definizione diventa assurda e quindi non ha alcun senso. Questi concetti sono chiaramente confusi da Borel, la cui opinione sembrate condividere. Vi faccio un altro esempio: quello che citate alla fine della vostra lettera. Se affermo che ogni sostanza possiede soltanto un [attributo](/concepts/attribute), questa è un’affermazione priva di fondamento e richiede una dimostrazione. Ma se intendo per “sostanza” ciò che è composto da un solo attributo, allora la definizione è valida, purché entità composte da più attributi vengano chiamate in modo diverso da “sostanze”. Quando dite che non dimostro che una sostanza possa avere più attributi, forse non avete prestato attenzione alle prove fornite.
+Ho addotto due argomenti: — Primo, “che nulla ci è più ovvio del fatto che ogni essere possa essere concepito da noi attraverso alcuni attributi, e che più realtà o essenza possiede un determinato essere, più attributi possono essere attribuiti a esso. Pertanto, un essere assolutamente infinito deve necessariamente avere una definizione precisa”. — Secondo, e credo che questo sia l’argomento più convincente dei due, “più attributi assegno a un essere, più sono costretto ad attribuirgli anche l’esistenza”; in altre parole, più lo concepisco come reale. Il contrario sarebbe evidente se stessi inventando una chimera o qualche essere del genere.
+
+La tua osservazione, secondo cui non puoi concepire il pensiero se non come costituito da idee, poiché quando le idee vengono eliminate anche il pensiero scompare, deriva, credo, dal fatto che tu, essendo una entità pensante, effettivamente astrai tutte le tue idee e concetti prima di poter pensare. Non sorprende quindi che, una volta eliminate tutte queste idee e concetti, non ti rimanga nulla con cui pensare. Sull’argomento in generale, credo di aver dimostrato in modo sufficientemente chiaro e semplice che l’intelletto, sebbene infinito, appartiene alla natura considerata passiva piuttosto che attiva (ad naturam naturatam, non vero ad naturam naturantem).
+
+Tuttavia, non vedo come questo possa aiutare a comprendere la terza definizione, né quale difficoltà essa presenti. Dice, se non erro: “Con ‘sostanza’ intendo ciò che esiste in sé stesso e può essere concepito attraverso se stesso; cioè ciò il cui concetto non richiede il concetto di nulla altro. Con ‘attributo’ intendo la stessa cosa, ma considerata dal punto di vista dell’intelletto, che attribuisce alla sostanza la natura particolare menzionata”. Questa definizione, ripeto, spiega con sufficiente chiarezza ciò che intendo per sostanza o attributo. Voi desiderate, anche se non è necessario, che io illustri con un esempio come una stessa cosa possa essere definita con due nomi diversi. Per non sembrare avaro, ve ne darò due. Primo: dico che con ‘Israele’ si intende il terzo patriarca; lo stesso vale per ‘Giacobbe’, poiché questo nome fu dato perché il patriarca in questione afferrò la caviglia di suo fratello. Secondo: con ‘superficie incolore’ intendo una superficie che riflette tutti i raggi di luce senza alterarli; lo stesso vale per una ‘superficie bianca’, con questa differenza: una superficie viene chiamata ‘bianca’ in relazione all’uomo che la osserva, e così via.
+
+Benedetto da Spinoza
+
+Simon de Vries
+
 <span class="atom-split" data-atom="026" data-title="LETTER XXVIII. Spinoza to Simon de Vries." data-chapter="LETTER XXVIII. Spinoza to Simon de Vries." data-kind="atom" data-srclang="en" data-tags="concepts/attribute,concepts/mode,concepts/essentia_existentia,figures/spinoza,schools/continental_rationalism"></span>
 
 [SPINOZA, IN ANSWER to a letter from De Vries now lost, speaks of the experience necessary for proving a definition, and also of eternal truths.]
@@ -557,6 +1073,24 @@ To your further question, whether things and their modifications are eternal tru
 Benedict de Spinoza
 
 20 April, 1663
+
+Rhijnsburg
+
+Lewis Meyer
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza, in risposta a una lettera di De Vries oggi perduta, parla dell’esperienza necessaria per dimostrare una definizione, nonché delle verità eterne.]
+
+Caro Amico, —
+
+Mi chiedete se abbiamo bisogno dell’esperienza per sapere se la definizione di un dato [attributo](/concepts/attribute) sia corretta. A questa domanda rispondo che non abbiamo mai bisogno dell’esperienza, tranne nei casi in cui l’esistenza della cosa in questione non possa essere dedotta dalla sua definizione; ad esempio, l’esistenza dei [modi](/concepts/mode) (che non possono essere dedotti dalle loro definizioni). L’esperienza non è necessaria nemmeno quando l’esistenza delle cose non si distingue dalla loro essenza e quindi può essere dedotta direttamente dalla definizione. Questo, tuttavia, non può mai essere insegnato attraverso l’esperienza stessa, poiché quest’ultima non ci fornisce alcuna conoscenza riguardante le essenze delle cose; al massimo, ci aiuta a concentrare il nostro pensiero su tali essenze. Pertanto, quando l’esistenza degli attributi non differisce dalla loro essenza, nessuna esperienza è in grado di fornirci informazioni al riguardo.
+
+Rispetto alla tua ulteriore domanda, se le cose e le loro modifiche siano verità eterne, rispondo: Certamente. Se mi chiedi perché non le definisco verità eterne, ti rispondo che lo faccio per distinguerle, secondo l’uso comune, da quelle proposizioni che non indicano alcuna cosa specifica o modificazione di una cosa; ad esempio: “Niente nasce dal nulla”. Queste e altre simili proposizioni vengono chiamate semplicemente verità eterne, perché non hanno alcun fondamento esterno alla mente, ecc.
+
+Benedetto da Spinoza
+
+20 aprile 1663
 
 Rhijnsburg
 
@@ -582,6 +1116,26 @@ Again, from the fact that we can limit duration and quantity at our pleasure, wh
 
 Further, as it is evident from what has been said, that neither number, nor measure, nor time, being mere aids to the imagination, can be infinite (for, otherwise, number would not be number, nor measure measure, nor time time); it is hence abundantly evident, why many who confuse these three abstractions with realities, through being ignorant of the true nature of things, have actually denied the infinite.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Caro amico, —
+
+Ho ricevuto due lettere da voi: una del 11 gennaio, consegnatami dal nostro amico N. N., e l’altra del 26 marzo, inviata da un amico sconosciuto a Leyden. Entrambe sono state per me di grande valore, soprattutto perché mi hanno fatto sapere che tutto va bene per voi e che pensate spesso a me. Vi devo anche i più sentiti ringraziamenti per la cortesia e la considerazione con cui avete sempre avuto la gentilezza di trattarmi: spero che crediate che il mio affetto per voi non sia inferiore al vostro, e che, ogni volta che ne avrò l’occasione, farò del mio meglio per dimostrarlo, nella misura delle mie modeste capacità. Come prima prova di questo affetto, farò del mio meglio per rispondere alle domande che mi ponete nelle vostre lettere. Mi chiedete cosa penso sull’[infinito](/concepts/infinity); vi accontenterò molto volentieri.
+
+Tutti considerano la questione dell’infinito come la più difficile, se non addirittura insolubile, perché non si fa distinzione tra ciò che è necessariamente infinito per sua natura o in base alla sua definizione, e ciò che semplicemente non ha limiti, non in virtù della sua essenza, ma a causa della sua origine; inoltre, non si distingue tra ciò che viene definito infinito perché privo di limiti, e ciò il cui numero di parti non può essere determinato o espresso con alcun numero, anche se la grandezza massima e minima del tutto sono conoscibili; infine, non si fa distinzione tra ciò che può essere compreso ma non immaginato, e ciò che può essere effettivamente immaginato. Se queste distinzioni fossero state prese in considerazione, gli studiosi non sarebbero stati sopraffatti da un numero così vasto di difficoltà. Avrebbero compreso chiaramente quale tipo di infinito è indivisibile e privo di parti; e quale tipo, invece, può essere diviso senza generare contraddizioni logiche. Inoltre, avrebbero capito quale tipo di infinito può essere considerato maggiore di un altro infinito senza incorrere in errori concettuali, e quale tipo invece non può essere così considerato. Tutto ciò sarà chiaramente evidente da quanto sto per dire.
+
+Tuttavia, innanzitutto spiegherò brevemente i termini “sostanza”, “[modo](/concepts/mode)”, “[eternità](/positions/eternity)” e “durata”.
+
+I punti da considerare riguardo alla sostanza sono i seguenti: Primo, che l’esistenza appartiene essenzialmente alla sostanza stessa; in altre parole, che soltanto dalla sua essenza e dalla sua definizione deriva la sua esistenza. Questo, se ricordo bene, ve l’ho già dimostrato a parole, senza l’aiuto di alcuna altra proposizione. Secondo, come conseguenza di quanto detto, che la sostanza non è molteplice, ma unica: non possono esistere due entità della stessa natura. Terzo, che ogni sostanza deve essere concepita come infinita.
+
+Le modifiche della sostanza le chiamo modi. La loro definizione, in quanto non è identica a quella della sostanza stessa, non può implicare alcuna forma di esistenza concreta. Pertanto, anche se esistono, possiamo concepirle come inesistenti. Da ciò deriva che, quando consideriamo soltanto l’essenza dei modi e non l’ordine complessivo della natura, non possiamo dedurre dalla loro esistenza attuale se continueranno ad esistere in futuro o meno, né se sono mai esistiti nel passato; è quindi evidente che concepiamo l’esistenza della sostanza come qualcosa di completamente diverso dall’esistenza dei modi. Da questa differenza deriva la distinzione tra eternità e durata: la durata riguarda soltanto l’esistenza dei modi, mentre l’eternità si riferisce all’esistenza della sostanza, cioè alla facoltà infinita di esistere o di essere.
+
+Da quanto è stato detto, risulta chiaramente che, quando – come avviene molto spesso – consideriamo soltanto l’essenza delle qualità e non l’ordine della natura, possiamo liberamente limitare l’esistenza e la durata di tali qualità senza distruggere la concezione che ne abbiamo; possiamo considerarle maggiori o minori, oppure dividerle in parti. L’eternità e la sostanza, essendo concepibili soltanto come infinite, non possono essere trattate in questo modo senza che la nostra comprensione di esse venga distrutta. Pertanto, affermare che la sostanza estesa sia composta da parti o corpi realmente distinti tra loro è pura follia, o addirittura pazzia: è come se si cercasse di formare un quadrato, un triangolo o qualcosa di essenza completamente diversa aggregando e sommando molti cerchi. Quindi, l’intero insieme di argomentazioni con cui i filosofi cercano di dimostrare che la sostanza estesa è finita cade inevitabilmente nel vuoto, poiché tutti questi autori presuppongono che la sostanza corporea sia composta da parti. Allo stesso modo, coloro che ritengono che una linea sia formata da punti sono riusciti a trovare molti argomenti per dimostrare che essa non è infinitamente divisibile. Se vi chiedete perché siamo naturalmente portati a cercare di dividere la sostanza estesa, rispondo che la quantità viene concepita da noi in due modi: in modo astratto e superficiale, attraverso l’immaginazione e i sensi; oppure come sostanza, il che è possibile soltanto attraverso la ragione. Se consideriamo la quantità così come appare nell’immaginazione – il [metodo](/axes/method) più comune e facile – risulterà divisibile, finita, composta da parti e multiforme. Ma se la consideriamo così come realmente è nella realtà – il che è molto difficile – allora, come vi ho già spiegato in precedenza, risulterà infinita, indivisibile e unica.
+
+Ancora una volta: dal fatto che possiamo limitare la durata e la quantità a nostro piacimento, quando concepiamo queste ultime in modo astratto, come separate dalla sostanza, e separiamo la durata dal modo in cui scaturisce dalle cose eterne, emergono il tempo e la misura; il tempo per limitare la durata, la misura per limitare la quantità, affinché possiamo immaginarli più facilmente possibile. Inoltre, poiché separiamo le modificazioni della sostanza dalla sostanza stessa e le classifichiamo in categorie, affinché possiamo ancora immaginarle più facilmente, emerge il numero, che ci permette di limitarle. È quindi evidente che misura, tempo e numero non sono altro che modi di pensare, o meglio, di immaginare. Non sorprende dunque che coloro che hanno cercato di comprendere il corso della natura attraverso tali concetti, senza comprenderli appieno, si siano intricati in modo così stravagante da riuscire a liberarsi soltanto infrangendo ogni regola e ammettendo assurdità delle più gravi. Infatti, ci sono molte cose che non possono essere concepite attraverso l’immaginazione, ma solo attraverso la comprensione: la sostanza, l’eternità, e simili. Se qualcuno cerca di spiegare tali concetti utilizzando nozioni che servono soltanto ad aiutare l’immaginazione, sta semplicemente permettendo alla sua immaginazione di portarlo fuori strada. Nemmeno i modi della sostanza possono essere compresi correttamente se vengono confusi con entità del genere, mere aiutanti della ragione o dell’immaginazione. In questo modo li separiamo dalla sostanza e dal modo in cui derivano dall’eternità, senza di che non possano mai essere compresi veramente. Per rendere ancora più chiara questa idea, prendiamo l’esempio seguente: quando una persona concepisce la durata in modo astratto e la confonde con il tempo, iniziando a suddividerla in parti, non riuscirà mai a capire come possa trascorrere un’ora. Perché affinché un’ora trascorra, è necessario che prima trascorra metà di essa, poi metà del resto, e così via all’infinito. Se continuiamo in questo modo, non arriveremo mai alla fine dell’ora. Pertanto, molti coloro che non sono abituati a distinguere le astrazioni dalle realtà hanno osato affermare che la durata sia composta da istanti; cercando così di evitare un pericolo, sono finiti in un altro ancora peggiore. Comporre la durata da istanti è lo stesso che creare il numero semplicemente sommando zeri.
+
+Inoltre, come è evidente da quanto detto, poiché né il numero, né la misura, né il tempo sono altro che semplici ausili all’immaginazione, non possono essere infiniti (altrimenti, il numero non sarebbe più numero, la misura non sarebbe più misura, e il tempo non sarebbe più tempo); ne consegue chiaramente perché molti, confondendo queste tre astrazioni con realtà a causa della loro ignoranza sulla vera natura delle cose, abbiano effettivamente negato l’esistenza dell’infinito.
+
 <span class="atom-split" data-atom="028" data-title="LETTER XXIX. Spinoza to L. M. (Lewis Meyer). (parte 2)" data-chapter="LETTER XXIX. Spinoza to L. M. (Lewis Meyer)." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 The wretchedness of their reasoning may be judged by mathematicians, who have never allowed themselves to be delayed a moment by arguments of this sort, in the case of things which they clearly and distinctly perceive. For not only have they come across many things, which cannot be expressed by number (thus showing the inadequacy of number for determining all things); but also they have found many things, which cannot be equalled by any number, but surpass every possible number. But they infer hence, that such things surpass enumeration, not because of the multitude of their component parts, but because their nature cannot, without manifest contradiction, be expressed in terms of number. As, for instance, in the case of two circles, non-concentric, whereof one encloses the other, no number can express the inequalities of distance which exist between the two circles, nor all the variations which matter in motion in the intervening space may undergo. This conclusion is not based on the excessive size of the intervening space. However small a portion of it we take, the inequalities of this small portion will surpass all numerical expression. Nor, again, is the conclusion based on the fact, as in other cases, that we do not know the maximum and the minimum of the said space. It springs simply from the fact, that the nature of the space between two non-concentric circles cannot be expressed in number. Therefore, he who would assign a numerical equivalent for the inequalities in question, would be bound, at the same time, to bring about that a circle should not be a circle.
@@ -603,6 +1157,32 @@ Rhijnsburg,
 Benedict de Spinoza
 
 Aug. 3, 1663
+
+Voorberg
+
+Lewis Meyer
+
+<span class="qlang-split" data-lang="it"></span>
+
+La miseria del loro ragionamento può essere giudicata dai matematici, i quali non si sono mai lasciati trattenere nemmeno per un istante da argomentazioni di questo tipo, nel caso di cose che percepiscono chiaramente e distintamente. Infatti, non solo hanno incontrato molte realtà che non possono essere esprimese con i numeri (dimostrando così l’inadeguatezza dei numeri per descrivere ogni cosa), ma hanno anche scoperto molte altre realtà che non possono essere eguagliate da alcun numero, anzi superano ogni possibile quantità numerica. Da ciò deducono che tali realtà trascendono la possibilità di essere enumerate, non a causa della loro numerosità, ma perché la loro natura non può essere espressa in termini numerici senza generare contraddizioni evidenti. Ad esempio, nel caso di due cerchi non concentrici, di cui uno racchiude l’altro, nessun numero può rappresentare le disuguaglianze nelle distanze tra i due cerchi, né tutte le variazioni che possono verificarsi nel movimento nello spazio interposto. Questa conclusione non si basa sulla grandezza eccessiva di tale spazio: per quanto piccola ne consideriamo una parte, le disuguaglianze presenti in quella porzione supereranno comunque qualsiasi espressione numerica. Inoltre, la conclusione non deriva nemmeno dal fatto che, come in altri casi, non conosciamo il valore massimo e minimo di tale spazio; si basa semplicemente sul fatto che la natura dello spazio tra due cerchi non concentrici non può essere espressa con i numeri. Pertanto, chi volesse attribuire un equivalente numerico a queste disuguaglianze sarebbe costretto, allo stesso tempo, ad ammettere che un cerchio non possa essere considerato un cerchio.
+
+Si otterrebbe lo stesso risultato – tornando al mio argomento principale – se si volesse determinare tutti i movimenti subiti dalla materia fino ad oggi, riducendoli e la loro durata a un certo numero e a un certo lasso di tempo. Ciò equivalgerebbe a tentare di privare la sostanza corporea, che non possiamo concepire se non come esistente, delle sue modificazioni, e di far sì che essa non possedesse più la natura che effettivamente possiede. Tutto ciò potrei dimostrare chiaramente qui, insieme a molti altri punti menzionati in questa lettera, ma ritengo che sia superfluo farlo.
+
+Da tutto ciò che è stato detto, risulta evidente che alcune cose sono per loro natura infinite e non possono affatto essere concepite come finite; altre, invece, sebbene infinite in virtù della causa da cui derivano, possono essere considerate finite quando vengono pensate in modo astratto. Infine, ci sono ancora delle cose che vengono definite infinite o, se si preferisce, indefinite, perché non possono essere esprimese con numeri, pur potendo essere considerate maggiori o minori. Ciò tuttavia non significa che tali cose siano uguali, poiché entrambe sono prive di una rappresentazione numerica. Questo è abbastanza chiaro, come dimostra l’esempio fornito e molti altri esempi simili.
+
+Infine, vi ho brevemente esposto le cause di errore e confusione che sono sorte riguardo alla questione dell’infinito. Se non mi sbaglio, le ho spiegate in modo tale che nessuna questione relativa all’infinito rimanga irrisolta o non possa essere facilmente risolta sulla base di quanto detto; pertanto, non ritengo opportuno trattenervi ancora sull’argomento.
+
+Ma vorrei innanzitutto sottolineare che i successivi [Peripatetici](/schools/lyceum) hanno, a mio parere, frainteso la dimostrazione fornita dagli antichi, i quali cercavano di dimostrare l’esistenza di Dio. Questa dimostrazione, come la trovo in un certo ebreo di nome Rabbino Ghasdai, è la seguente: “Se esiste una serie infinita di cause, tutte le cose che esistono sono dovute a queste cause. Ma nulla ciò che è causato può esistere necessariamente per via della sua stessa natura. Pertanto, nella natura non esiste nulla il cui essere sia necessario per sua essenza. Ma questo è assurdo; quindi anche l’ipotesi di partenza è assurda.” Quindi la forza di questo argomento non risiede nell’impossibilità di un infinito reale o di una serie infinita di cause, ma soltanto nell’assurdità dell’affermazione secondo cui cose che per natura non esistono necessariamente siano condizionate alla loro esistenza da qualcosa che, invece, per sua stessa natura esiste necessariamente.
+
+Ora passerei alla vostra seconda lettera, poiché il tempo stringe; tuttavia potrò rispondere più agevolmente al suo contenuto se vi prenderete la briga di venire a trovarmi. Vi supplico quindi di farlo il prima possibile: è già arrivato il momento adatto per i viaggi. Basta. Addio, e ricordatevi di me. E così via.
+
+Rhijnsburg,
+
+20 aprile 1663.
+
+Benedetto da Spinoza
+
+3 agosto 1663
 
 Voorberg
 
@@ -634,6 +1214,32 @@ Voorburg
 
 Peter Balling
 
+<span class="qlang-split" data-lang="it"></span>
+
+Caro amico, —
+
+La prefazione che mi avete inviato tramite il nostro amico De Vries, ora ve la rimando indietro con lo stesso canale. Come vedrete, ho segnato alcune cose in margine; tuttavia ne restano ancora alcune che ho ritenuto più opportuno menzionarvi per iscritto. Primo: a pagina 4 indicate al lettore l’[occasione](/concepts/fortune) in cui composi la prima parte del lavoro; vorrei che vi spiegaste anche lì, o dove preferite, che la composi in soli quindici giorni. Se ciò viene chiarito, nessuno penserà che l’esposizione sia così perfetta da non poter essere migliorata, e quindi non si attaccheranno alle eventuali oscurità presenti in alcune frasi. In secondo luogo, vorrei che spiegaste che quando dimostro molte cose in modo diverso da come Descartes le ha dimostrate, non è per correggere Descartes, ma piuttosto per mantenere meglio l’ordine logico del mio ragionamento e per evitare di sovraffollare il testo con troppi assiomi. Per lo stesso motivo, dimostro molte cose che Descartes ha solo accennato senza fornire prove concrete, aggiungendo quindi elementi che Descartes stesso ha trascurato. Infine, vi prego ardentemente, in qualità di mio amico particolare, di cancellare completamente tutto ciò che avete scritto a sfavore di quella persona e di eliminare del tutto quel passaggio dal testo. Sebbene molte ragioni mi spingano a farvi questa richiesta, ne fornirò soltanto una: vorrei che tutti credessero apertamente che queste opere vengono pubblicate al solo scopo di beneficiare il mondo intero, e che il vostro unico movente sia l’[amore](/concepts/charity) per la diffusione della verità. Vorrei inoltre che vi impegnaste affinché il lavoro fosse accettato da tutti, incoraggiando le persone a perseguire con cortesia la vera filosofia e a considerare sempre l’interesse comune. Ogni persona sarà disposta a crederlo quando vedrà che nessuno viene attaccato e che non vengono avanzate argomentazioni offensive. Tuttavia, se in seguito quella persona o qualcun altro dovesse voler manifestare il proprio malanimo, allora potrete descrivere la sua vita e il suo carattere, guadagnandovi così l’approvazione degli altri. Vi chiedo quindi di essere pazienti per ora, di concedermi questa preghiera e di credere che vi sono profondamente grato.
+
+Con tutto il mio affetto,
+
+B. de Spinoza.
+
+Voorberg,
+
+3 agosto 1663.
+
+Il nostro amico De Vries aveva promesso di portarlo con sé; ma poiché non sappiamo quando tornerà da voi, lo invio attraverso un’altra persona.
+
+Insieme a questo, vi invio una parte dello “scholium” relativo alla Proposizione xxvii, Parte II, che inizia a pagina 75; potete consegnarlo all’editore affinché venga riprodotto. Il materiale che vi invio deve necessariamente essere ripubblicato, e devono essere aggiunte quattordici o quindici righe, le quali possono essere facilmente inserite nel testo originale.
+
+Benedetto da Spinoza
+
+20 luglio 1664
+
+Voorburg
+
+Peter Balling
+
 <span class="atom-split" data-atom="030" data-title="LETTER XXX. Spinoza to Peter Balling." data-chapter="LETTER XXX. Spinoza to Peter Balling." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [CONCERNING OMENS AND phantoms. The mind may have a confused presentiment of the future.]
@@ -655,6 +1261,35 @@ William de Blyenbergh
 Dordrecht
 
 Benedict de Spinoza
+
+<span class="qlang-split" data-lang="it"></span>
+
+[IN MERITO A PREMONIZIONI E OMBRE. La mente può avere un vago presentimento del futuro.]
+
+Caro Amico, —
+
+La vostra ultima lettera, scritta, se non erro, il 26 dello scorso mese, è giunta regolarmente a me. Mi ha causato notevole dolore e preoccupazione, anche se questo sentimento si è attenuato quando ho riflettuto sulla vostra saggezza e forza d’animo, con cui avete saputo disprezzare i mali della fortuna, o meglio, dell’opinione altrui, in un momento in cui questi vi colpivano con particolare violenza. Tuttavia la mia ansia aumenta giorno dopo giorno; per questo vi supplico, nel nome della nostra [amicizia](/concepts/friendship), di scrivermi una lunga lettera. Per quanto riguarda quei “presagi” di cui parlate, dicendo che, mentre vostro figlio era ancora sano e forte, avete sentito gemiti simili a quelli che egli emetteva quando era malato e poco dopo è morto, penso che non si trattasse di gemiti reali, ma soltanto dell’effetto della vostra immaginazione; infatti dite che, quando vi siete alzati e vi siete concentrati per ascoltare, quei suoni non vi sono sembrati né più chiari prima né dopo, quando vi siete riaddormentati. Credo che questo dimostri chiaramente che tali suoni provenivano esclusivamente dall’immaginazione, la quale, quando è libera e senza vincoli, può evocare immagini molto vivide e realistiche. Penso di poter illustrare e confermare quanto dico con un altro episodio che mi è accaduto lo scorso inverno a Rhijnsburg: una mattina, dopo l’alba, mi sono svegliato da un sogno molto sgradevole; le immagini che avevo visto nel sonno rimasero davanti ai miei occhi con la stessa vividezza, come se fossero realmente accadute, soprattutto l’immagine di un certo nero brasiliano che non avevo mai incontrato prima. Questa immagine scomparve in gran parte quando ho distolto lo sguardo su un libro o su qualcos’altro per distrarmi; ma non appena ho rialzato gli occhi senza fissarli su nulla di specifico, quell’immagine è ricomparsa ancora e ancora con la stessa vividezza, fino a quando ha gradualmente scomparso del tutto. Dico che ciò che è accaduto alla mia immaginazione visiva è avvenuto anche per quanto riguarda il vostro udito; tuttavia, poiché le cause erano molto diverse, nel vostro caso si trattava di un presagio, mentre nel mio no. La questione può essere compresa chiaramente attraverso ciò che sto per dire: gli effetti dell’immaginazione derivano da cause fisiche o mentali. Per non dilungarmi troppo, proverò a dimostrarlo esclusivamente sulla base dell’esperienza personale. Sappiamo infatti che febbri e altre malattie fisiche possono causare delirio, e che persone di carattere ostinato immaginano soltanto liti, risse, massacri e simili.
+Vediamo anche che l’immaginazione è, in una certa misura, determinata dal carattere della disposizione mentale; infatti, come sappiamo per esperienza, essa segue passo dopo passo il processo di comprensione, organizzando le proprie immagini e parole esattamente come la comprensione organizza le proprie dimostrazioni e le collega tra loro. Per questo motivo, è quasi impossibile dire cosa non possa costituire una base per qualche immaginazione. Data questa realtà, affermo che nessun effetto derivante dall’immaginazione, causato da fattori fisici, può mai essere considerato un presagio di eventi futuri; poiché tali cause non riguardano affatto eventi futuri. Tuttavia, gli effetti dell’immaginazione, ovvero le immagini che nascono dalla disposizione mentale, possono rappresentare segni premonitori di eventi futuri; poiché la mente può avere una sorta di presentimento confuso del futuro. Pertanto, è possibile immaginare un evento futuro in modo così vivido e realistico da farlo sembrare presente: ad esempio, un padre che ama profondamente suo figlio potrebbe sentirsi come se fosse parte di lui stesso. E poiché, come ho dimostrato in altre occasioni, nella mente deve necessariamente esistere l’idea dell’essenza delle condizioni del figlio e dei loro risultati; e poiché il padre, essendo legato a suo figlio, ne fa parte integrante, la sua anima deve necessariamente condividere l’essenza ideale di quel figlio e dei suoi destini, come ho spiegato più ampiamente altrove.
+
+Ancora una volta, poiché l’anima del padre partecipa idealmente alle conseguenze dell’essenza di suo figlio, egli può – come ho detto – talvolta immaginare alcune di queste conseguenze con tale vividezza da farle sembrare presenti accanto a lui, a condizione che siano soddisfatte le seguenti condizioni:  
+I. Che l’evento nella vita di suo figlio sia degno di nota.  
+II. Che possa essere facilmente immaginato.  
+III. Che il momento in cui avverrà non sia troppo lontano nel tempo.  
+IV. Che il corpo del padre sia sano, non solo in termini di salute, ma anche privo di ogni preoccupazione o incombenza che possa disturbare i sensi.  
+Può inoltre aiutare questo processo se pensiamo a qualcosa che generalmente stimoli idee simili: ad esempio, se mentre parliamo con una determinata persona sentiamo dei lamenti, è molto probabile che, quando ripensiamo a quella persona, quei lamenti ritornino nella nostra mente.  
+Questo, caro amico, è il mio parere sulla domanda che mi hai posto. Confesso di essere stato molto breve, ma ti ho fornito materiale sufficiente per scrivermi non appena ne avrai l’occasione.
+
+Voorburg,
+
+20 luglio 1664.
+
+Guglielmo de Blyenbergh
+
+12 dicembre 1664
+
+Dordrecht
+
+Benedetto da Spinoza
 
 <span class="atom-split" data-atom="031" data-title="LETTER XXXI. William de Blyenbergh to Spinoza." data-chapter="LETTER XXXI. William de Blyenbergh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -682,6 +1317,33 @@ Amsterdam
 
 William de Blyenbergh
 
+<span class="qlang-split" data-lang="it"></span>
+
+Amico sconosciuto e Signore, —
+
+Ho letto più volte con attenzione il vostro trattato e l’appendice che ne è stata pubblicata di recente. Sarebbe più appropriato raccontare ad altri che a voi stesso la grande solidità che ho riscontrato in queste opere, nonché il piacere che ho tratto dalla loro lettura. Tuttavia, non posso nascondervi i miei sentimenti: più volte le rileggo con attenzione e ogni volta mi colpiscono ancora di più; noto sempre qualcosa che prima non avevo notato. Ma non intendo esaltare troppo l’autore di queste opere, per non sembrare un adulatore in questa lettera. So bene che gli dei concedono tutto a chi si dedica con impegno allo [lavoro](/concepts/labour). Per non trattenervi troppo nel tentativo di indovinare chi io sia e come mai uno sconosciuto osi scrivervi, vi dirò che sono un uomo spinto dal desiderio di conoscere la verità pura e incontaminata; desidero, in questa breve e fragile vita, stabilirmi sul sentiero della scienza, per quanto le nostre facoltà umane lo permettano. Nel mio inseguimento della verità non ho altri obiettivi se non la verità stessa; con la mia scienza non cerco onore né ricchezze, ma soltanto verità e tranquillità. Tra tutte le verità e le scienze, quella che mi dà più piacere è senza dubbio la metafisica, o almeno alcune sue branche. Il mio unico desiderio nella vita è poter trascorrere i miei momenti di riposo e di svago nello studio di queste discipline. Ma sono certo che nessuno sia così fortunato come voi: nessuno ha portato i propri studi a tale livello, e quindi nessuno ha raggiunto la perfezione che, a giudicare dal vostro lavoro, avete ottenuto voi. Infine, posso dirvi che questo autore è una persona con cui potrete entrare in un rapporto più stretto, se decidete di approfondire le sue riflessioni ancora poco mature e incerte, attraverso la vostra guida e comprensione.
+
+Ma torno al vostro trattato. Sebbene vi abbia trovato molte cose che mi hanno molto interessato, alcune di esse si sono rivelate difficili da comprendere. Forse un estraneo non dovrebbe esporvi le sue obiezioni, soprattutto perché non so se queste riceveranno la vostra approvazione. Ecco il motivo per cui ho fatto queste osservazioni preliminari e vi chiedo: se riuscite a trovare del tempo nelle serate invernali, e se siete disposti ad affrontare le difficoltà che ancora riscontro nel vostro libro e a comunicarmi i risultati delle vostre riflessioni, sempre a condizione che ciò non interrompa alcuna attività più importante o piacevole per voi; desidero infatti ardentemente che le promesse fatte nel vostro libro vengano realizzate attraverso un’esposizione più dettagliata delle vostre opinioni. Avrei potuto comunicarvi tutto ciò a voce, ma la mia ignoranza del vostro indirizzo, l’epidemia in corso e i miei doveri qui mi hanno impedito di farlo. Devo quindi rimandare questo piacere a un altro momento.
+
+Tuttavia, affinché questa lettera non risulti del tutto vuota e nella speranza che non vi dispiaccia, vi pongo una domanda. In diversi passaggi dei “Principia” e delle “Riflessioni metafisiche”, sia come vostra opinione personale sia per spiegare la filosofia di Cartesio, affermate che la creazione e la conservazione siano identiche (il che, in effetti, è così evidente per coloro che hanno riflettuto sulla questione da essere considerato un concetto fondamentale); inoltre, sostenete che Dio non abbia creato soltanto le sostanze, ma anche i movimenti all’interno di queste – in altre parole, che Dio, attraverso un atto continuo di creazione, conservi non solo le sostanze nel loro stato normale, ma anche i loro movimenti e le loro attività. Ad esempio, Dio non solo fa sì, con la Sua volontà immediata e il Suo intervento, che l’anima rimanga nel suo stato normale, ma è anche la causa per cui la Sua volontà determina in qualche modo i movimenti dell’anima; in altre parole, così come Dio, attraverso un atto continuo di creazione, fa sì che le cose esistano, Egli è anche la causa dei movimenti e delle attività che si verificano all’interno di esse. Infatti, senza Dio non esiste alcuna causa di movimento. Ne consegue quindi che Dio non sia soltanto la causa della sostanza mentale, ma anche di ogni atto o movimento mentale che chiamiamo volontà, come spesso affermate voi stessi. Da questa affermazione sembra derivare necessariamente che, o non esista alcun male nel movimento o nella volontà umana, oppure che Dio stesso ne sia la causa diretta. Poiché ciò che chiamiamo male avviene attraverso l’anima e, di conseguenza, grazie all’influenza e al concorso diretto di Dio, ad esempio, l’anima di Adamo desidera mangiare il frutto proibito. Da quanto detto finora, non solo si evince che Adamo abbia formato questo desiderio sotto l’influenza di Dio, ma anche che, grazie a tale influenza, lo abbia formato in quel modo specifico. Pertanto, o l’atto proibito ad Adamo non è male, poiché Dio stesso ha causato sia il desiderio che il modo in cui esso si è manifestato, oppure Dio stesso è la causa di ciò che chiamiamo male. Sia voi che Cartesio sembrate non aver risolto questa difficoltà affermando che il male sia una concezione negativa e che, pertanto, Dio non possa essere la sua causa diretta. Allora, da dove deriva il desiderio di mangiare il frutto proibito, o il desiderio dei demoni di essere uguali a Dio? Poiché, come giustamente osservate voi stessi, la volontà non è qualcosa di diverso dalla mente, ma rappresenta semplicemente un atto o un movimento della mente, l’influenza di Dio è necessaria tanto per essa quanto per la mente stessa. Ora, secondo quanto leggo nelle vostre opere, l’influenza di Dio consiste semplicemente nel determinare qualcosa in un [modo](/concepts/mode) specifico attraverso la Sua volontà. Ne consegue quindi che Dio partecipa altrettanto a un desiderio malvagio, nella misura in cui tale desiderio è malvagio, quanto a un desiderio buono, nella misura in cui tale desiderio è buono; in altre parole, Egli ne è la causa determinante.
+Poiché la volontà di Dio è la causa assoluta di tutto ciò che esiste, sia in termini di [sostanza](/concepts/attribute) che di azione, sembra anche essere la causa principale di un desiderio malvagio, nella misura in cui tale desiderio è effettivamente malvagio. Inoltre, nessuna manifestazione della volontà avviene in noi senza che Dio la conoscesse fin dall’[eternità](/positions/eternity). Se affermiamo che Dio non conosca una determinata manifestazione della volontà, gli attribuiamo imperfezione; ma come potrebbe Dio acquisire tale conoscenza se non attraverso i suoi decreti? Pertanto, i suoi decreti sono la causa delle nostre azioni volitive, e da ciò deriva che o un desiderio malvagio non è davvero malvagio, oppure che Dio stesso ne è la causa diretta. Qui non c’è spazio per quella distinzione teologica tra l’atto in sé e il male intrinseco ad esso: poiché Dio decreta sia il modo in cui quell’atto viene compiuto che l’atto stesso, significa che Dio ha decretato non solo che Adamo dovesse mangiare, ma anche che avrebbe necessariamente agito contro il comando ricevuto. Pertanto, da tutte queste considerazioni sembra derivare che o il comportamento di Adamo contrario al comando non fosse davvero malvagio, oppure che Dio stesso lo abbia reso realtà.
+
+Ecco, illustre Signore, le domande contenute nel vostro trattato che, al momento, non sono in grado di chiarire. Entrambe le alternative mi sembrano difficili da accettare. Tuttavia, attendo una risposta soddisfacente dalla vostra perspicacia e dalla vostra erudizione, nella speranza di potervi dimostrare in futuro quanto vi sarò grato. Vi assicuro, illustre Signore, che pongo queste domande unicamente per il desiderio di conoscere la verità. Sono una persona senza impegni professionali, mi guadagno da vivere con un lavoro onesto e dedico il mio tempo libero a questioni del genere. Spero umilmente che le mie difficoltà non vi dispiacciano. Se siete disposti a rispondere, come spero ardentemente, scrivetemi pure all’indirizzo indicato.
+
+William de Blyenbergh.
+
+Dordrecht,
+
+12 dicembre 1664.
+
+Benedetto da Spinoza
+
+5 gennaio 1665
+
+Amsterdam
+
+Guglielmo de Blyenbergh
+
 <span class="atom-split" data-atom="032" data-title="LETTER XXXII. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 (SPINOZA ANSWERS WITH his usual courtesy the question propounded by Blyenbergh.)
@@ -701,6 +1363,26 @@ Again, we cannot say that Adam’s will is at variance with the law of God, and 
 The will of God is identical with His intellect, hence the former can no more be contravened than the latter; in other words, anything which should come to pass against His will must be of a nature to be contrary to His intellect, such, for instance, as a round square. Hence the will or decision of Adam regarded in itself was neither evil nor, properly speaking, against the will of God: it follows that God may — or rather, for the reason you call attention to, must — be its cause; not in so far as it was evil, for the evil in it consisted in the loss of the previous state of being which it entailed on Adam, and it is certain that loss has no positive existence, and is only so spoken of in respect to our and not God’s understanding. The difficulty arises from the fact, that we give one and the same definition to all the individuals of a genus, as for instance all who have the outward appearance of men: we accordingly assume all things which are expressed by the same definition to be equally capable of attaining the highest perfection possible for the genus; when we find an individual whose actions are at variance with such perfection, we suppose him to be deprived of it, and to fall short of his nature. We should hardly act in this way, if we did not hark back to the definition and ascribe to the individual a nature in accordance with it. But as God does not know things through abstraction, or form general definitions of the kind above mentioned, and as things have no more reality than the divine understanding and power have put into them and actually endowed them with, it clearly follows that a state of privation can only be spoken of in relation to our intellect, not in relation to God.
 
 Thus, as it seems to me, the difficulty is completely solved. However, in order to make the way still plainer, and remove every doubt, I deem it necessary to answer the two following difficulties: — First, why Holy [Scripture](/concepts/revelation) says that God wishes for the conversion of the wicked, and also why God forbade Adam to eat of the fruit when He had ordained the contrary? Secondly, that it seems to follow from what I have said, that the wicked by their pride, avarice, and deeds of desperation, [worship](/concepts/religion) God in no less degree than the good do by their nobleness, patience, love, &c., inasmuch as both execute God’s will.
+
+<span class="qlang-split" data-lang="it"></span>
+
+(Spinoza risponde, con la sua solita cortesia, alla domanda posta da Blyenbergh.)
+
+Amico sconosciuto, —
+
+Ho ricevuto, a Schiedam, il 26 dicembre, la vostra lettera del 12 dicembre, allegata a un’altra scritta il 24 dello stesso mese. Ne traggo la vostra fervente [amore](/concepts/charity) per la verità e il fatto che ne abbiate fatto l’obiettivo di tutti i vostri studi. Questo mi ha spinto, sebbene non del tutto riluttante, non solo ad accettare la vostra richiesta rispondendo al meglio delle mie possibilità a tutte le domande che avete inviato o che potrete inviare in futuro, ma anche a condividere con voi tutto ciò che è in mio potere per aiutarvi a acquisire ulteriori conoscenze e a coltivare una sincera [amicizia](/concepts/friendship). Per quanto mi riguarda, nulla al mondo, tra le cose che non possiamo controllare, ha più valore del legame di amicizia con persone sincere appassionate di verità. Credo che nulla possa portare più pace nella vita di una relazione affettuosa con tali persone; allo stesso modo, l’amore che proviamo per loro è impossibile che venga turbato (poiché si fonda sul desiderio comune di conoscere la verità), così come è impossibile non accettare questa verità una volta compresa. Inoltre, essa rappresenta la fonte più alta e piacevole di felicità tra le cose che non dipendono dal nostro controllo. Solo la verità ha il potere di unire profondamente diversi sentimenti e inclinazioni. Non menziono i numerosi vantaggi che essa porta, per non trattenervi troppo su un argomento che sicuramente già conoscete. Ho detto tutto questo per farvi capire quanto con piacere accoglierò questa e qualsiasi altra opportunità di servirvi.
+
+Per sfruttare al meglio questa opportunità, procederò immediatamente a rispondere alla tua domanda. La questione sembra ruotare attorno al punto seguente: “Sembra evidente, non solo dalla provvidenza di Dio – che è identica alla Sua volontà – ma anche dalla Sua cooperazione e dalla continua creazione delle cose, che non esistano concetti come il peccato o il male, oppure che Dio stesso faccia sì che il peccato e il male avvengano”. Tuttavia, non spieghi cosa intendi per “male”. A giudicare dall’esempio che hai fornito riguardo all’atto di volontà predeterminato di Adamo, sembri riferirti al male come all’esercizio concreto della volontà, nella misura in cui tale esercizio è concepito come predeterminato in un certo modo, o nella misura in cui è contrario al comando di Dio. Da ciò concludi (e sono d’accordo con te, se questo è ciò che intendi) che sia assurdo adottare qualsiasi delle due alternative: sia che Dio faccia sì che avvengano cose contrarie alla Sua volontà, sia che ciò che è contrario alla Sua volontà possa essere considerato “buono”.
+
+Per quanto mi riguarda, non posso ammettere che il peccato e il male abbiano un’esistenza positiva, tantomeno che qualcosa possa esistere o accadere contro la volontà di Dio. Al contrario, non solo affermo che il peccato non abbia un’esistenza positiva, ma sostengo anche che soltanto parlando in modo improprio, o in termini umani, si possa dire di peccare contro Dio, come nell’espressione secondo cui gli uomini offendono Dio.
+
+Per quanto riguarda il primo punto, sappiamo che qualsiasi cosa, considerata in sé stessa senza tenere conto di nulla altro, possiede la perfezione; tale perfezione si estende in ogni essere fino ai limiti della sua essenza, poiché l’essenza non è altro che ciò che una cosa è realmente. Prendo come esempio il proposito o la volontà decisa di Adamo di mangiare il frutto proibito: questo proposito, considerato in sé stesso, contiene in sé la perfezione, poiché esprime la realtà stessa dell’atto che intendeva compiere. Pertanto, possiamo concludere che l’imperfezione può essere concepita solo quando le cose vengono considerate in relazione ad altre che possiedono una realtà maggiore. Nel caso di Adamo, se lo consideriamo isolatamente, senza paragonarlo ad altre cose più perfette, non troviamo alcuna imperfezione nella sua decisione; anzi, essa può essere paragonata all’“infinità” di altre cose molto meno perfette di essa, come pietre o oggetti inanimati. Questo è un concetto che tutti riconoscono: ammiriamo infatti in alcuni animali qualità che, negli esseri umani, considereremmo disprezzabili, come la aggressività delle api o la gelosia delle colombe; tuttavia, proprio queste qualità aumentano il valore degli animali. Pertanto, il peccato, che rappresenta l’imperfezione stessa, non può derivare da nulla che esprima realtà, come dimostra appunto il caso di Adamo.
+
+Ancora una volta, non possiamo affermare che la volontà di Adamo sia in contrasto con la legge di Dio, né che sia malvagia perché dispiace a Dio; poiché, oltre al fatto che ciò significherebbe attribuire a Dio gravi imperfezioni, se dicessimo che qualcosa accade contro la Sua volontà, o che Egli desideri qualcosa che non ottiene, o che la Sua natura sia simile a quella delle Sue creature nel provare una maggiore [simpatia](/positions/moral_sentiment) per alcune cose rispetto ad altre, un tale concetto sarebbe completamente in contrasto con la natura della volontà divina.
+
+La volontà di Dio è identica al suo intelletto; pertanto, essa non può essere violata più di quanto lo possa essere quest’ultimo. In altre parole, qualsiasi evento che si verifichi contro la sua volontà deve essere di natura tale da contraddire il suo intelletto, come ad esempio l’esistenza di un quadrato rotondo. Quindi, la volontà o la decisione di Adamo, considerata in sé stessa, né era malvagia né, propriamente parlando, contraria alla volontà di Dio. Ne consegue che Dio può – anzi, per il motivo che avete evidenziato, deve – essere la causa di tale volontà; non perché essa fosse malvagia, poiché la sua “malvagità” risiedeva nella perdita dello stato precedente di esistenza che essa comportava per Adamo, e è certo che una perdita del genere non ha alcuna realtà positiva, ma viene soltanto considerata in relazione alla nostra comprensione, e non a quella divina. La difficoltà sorge dal fatto che attribuiamo la stessa definizione a tutti gli individui di un determinato genere; pertanto, supponiamo che tutte le cose descritte da tale definizione siano ugualmente capaci di raggiungere la massima perfezione possibile per quel genere. Quando troviamo un individuo il cui comportamento è in contrasto con tale perfezione, riteniamo che sia privo di essa e che non risponda alla sua vera natura. Probabilmente non agiremmo in questo modo se non ci basassimo su quella definizione e attribuissimo all’individuo una natura conforme ad essa. Ma poiché Dio non conosce le cose attraverso astrazioni né formula definizioni generali di quel tipo, e poiché le cose stesse non hanno alcuna realtà al di fuori di quella che il suo intelletto e il suo potere conferiscono loro, è evidente che uno stato di privazione può essere considerato soltanto in relazione al nostro intelletto, ma non a quello divino.
+
+Pertanto, a mio parere, il problema è completamente risolto. Tuttavia, al fine di rendere il discorso ancora più chiaro e eliminare ogni dubbio, ritengo necessario rispondere alle seguenti due domande: — Primo, perché la Sacra [Scrittura](/concepts/revelation) afferma che Dio desidera la conversione dei malvagi, e perché allo stesso tempo ha proibito ad Adamo di mangiare il frutto, nonostante avesse stabilito il contrario? — Secondo, sembrerebbe che da quanto ho detto possa derivare che i malvagi, con la loro arroganza, avarizia e atti disperati, [adorino](/concepts/religion) Dio nello stesso modo in cui i buoni lo adorano attraverso la loro nobiltà, pazienza, amore, ecc., poiché entrambi eseguono la volontà di Dio.
 
 <span class="atom-split" data-atom="033" data-title="LETTER XXXII. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -728,6 +1410,32 @@ Dordrecht
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+In risposta alla prima domanda, osservo che la [Scrittura](/concepts/revelation), essendo principalmente adatta e vantaggiosa per le masse, parla in modo accessibile, seguendo lo stile umano. Infatti, le masse sono incapaci di comprendere concetti [sublimi](/concepts/sublime). Pertanto sono convinto che tutte le verità rivelate da Dio ai profeti come necessarie per la salvezza siano state esposte sotto forma di leggi. Con questo approccio, i profeti inventarono molte parabole e rappresentarono Dio come un re e un legislatore, poiché Egli aveva rivelato i mezzi della salvezza e della perdizione, essendo la causa stessa di tali eventi; quei mezzi, che in realtà erano soltanto cause, vennero definiti “leggi” e trascritti come tali; la salvezza e la perdizione, che erano semplicemente effetti derivanti da tali mezzi, furono descritte come ricompense e punizioni. Le loro dottrine furono quindi strutturate in modo più conforme a queste parabole che alla verità reale. I profeti parlavano costantemente di Dio come di un essere umano: a volte arrabbiato, a volte misericordioso, ora desideroso di ciò che sarebbe accaduto in futuro, ora geloso e sospettoso, persino ingannato dal diavolo; pertanto filosofi e tutti coloro che si elevano al di sopra della legge – cioè coloro che seguono la virtù non per obbedienza alle leggi, ma per [amore](/concepts/charity), poiché essa è la cosa più eccellente di tutte – non dovrebbero essere ostacolati da tali espressioni.
+
+Pertanto, l’ordine dato ad Adamo consisteva esclusivamente nel fatto che Dio gli rivelò che mangiare quel frutto comportava la morte; così come ci rivela, attraverso le nostre facoltà naturali, che il veleno è letale. Se vi chiedete a quale scopo Egli abbia fatto questa rivelazione, rispondo: affinché Adamo potesse diventare più perfetto nel conoscere. Pertanto, chiedersi perché Dio non abbia donato ad Adamo una volontà ancora più perfetta è altrettanto assurdo quanto chiedersi perché il cerchio non possieda tutte le proprietà della sfera. Ciò deriva chiaramente da quanto detto; inoltre l’ho dimostrato anche nei miei “Principi di Filosofia Cartesiana”, I, 15.
+
+Per quanto riguarda la seconda difficoltà, è vero che i malvagi attuano, a loro modo, la volontà di Dio; tuttavia non possono essere paragonati in alcun modo ai buoni. Più una cosa possiede perfezione, più partecipa alla divinità e più esprime quella stessa perfezione. Poiché i buoni possiedono una perfezione incomparabilmente maggiore rispetto ai malvagi, la loro virtù non può essere paragonata a quella dei malvagi; questi, infatti, mancano dell’amore per Dio, che deriva dalla conoscenza di Lui e grazie al quale soltanto possiamo essere considerati, secondo la nostra comprensione umana, servitori di Dio. I malvagi, non conoscendo Dio, sono soltanto strumenti nelle mani del Creatore: agiscono inconsapevolmente e periscono nel corso delle loro azioni; i buoni, invece, servono consapevolmente e, nel servire, diventano sempre più perfetti.
+
+Ecco tutto ciò che posso offrire per rispondere alla vostra domanda, signore, e non desidero nulla di più se non che questa risposta vi soddisfi. Tuttavia, se doveste ancora incontrare qualche difficoltà, vi prego di comunicarmelo affinché possa cercare di risolverla. Non avete nulla da temere; finché non sarete soddisfatti, non desidero altro che conoscere le vostre ragioni, affinché alla fine possa emergere la verità. Avrei voluto scrivere nella lingua in cui sono cresciuto: forse così avrei potuto esprimere i miei pensieri meglio. Ma accettate pure il testo così com’è, correggete voi stessi gli errori e credetemi.
+
+Il vostro sincero amico e servitore.
+
+Long Orchard, nelle vicinanze.
+
+Amsterdam,
+
+5 gennaio 1665.
+
+Guglielmo de Blyenbergh
+
+16 gennaio 1665
+
+Dordrecht
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="034" data-title="LETTER XXXIII. Blyenbergh to Spinoza." data-chapter="LETTER XXXIII. Blyenbergh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 (A SUMMARY ONLY of this letter is here given. — Tr.)
@@ -747,6 +1455,26 @@ Benedict de Spinoza
 Voorberg
 
 William de Blyenbergh
+
+<span class="qlang-split" data-lang="it"></span>
+
+Viene qui fornito soltanto un riassunto di questa lettera. — Trad.)
+
+Nelle mie indagini filosofiche ho due regole fondamentali: i) conformità alla ragione; ii) conformità alle [scritture](/concepts/revelation). Ritengo la seconda delle due le più importanti. Esaminando la vostra lettera in base alla prima regola, noto che il vostro identificare il potere creativo di Dio con il suo potere conservativo sembra implicare che o il male non esista affatto, oppure che sia Dio stesso a causarlo. Se il male è soltanto un concetto relativo alla nostra conoscenza imperfetta, come si può spiegare lo [stato](/concepts/state) di una persona che passa da uno stato di grazia al peccato? Se il male rappresenta semplicemente una negazione, come possiamo noi avere la capacità di peccare? Se Dio provoca un atto malvagio, allora deve causare sia il male stesso che l’atto. Dite che ogni uomo può agire soltanto nel modo in cui effettivamente agisce; questo elimina qualsiasi distinzione tra il bene e il male: secondo voi, entrambi sarebbero perfetti. Eliminate così tutte le sanzioni legate alla virtù, riducendoci a semplici automi. La vostra dottrina, secondo cui in senso stretto non possiamo peccare contro Dio, è davvero difficile da accettare.
+
+Il resto della lettera è dedicato all’analisi degli argomenti di Spinoza in relazione alla loro conformità con le Scritture.
+
+Dordrecht,
+
+16 gennaio 1665.
+
+Benedetto da Spinoza
+
+28 gennaio 1665
+
+Voorberg
+
+Guglielmo de Blyenbergh
 
 <span class="atom-split" data-atom="035" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -768,6 +1496,26 @@ I say then, first, that privation is not the act of depriving, but simply and me
 
 Thus privation is nothing else than denying of a thing something, which we think belongs to its nature; negation is denying of a thing something, which we do not think belongs to its nature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza si lamenta che Blyenbergh lo abbia frainteso: espone quindi il suo vero significato.]
+
+Voorburg,
+
+28 gennaio 1665.
+
+Amico e Signore, —
+
+Quando lessi la tua prima lettera, pensai che le nostre opinioni coincidessero quasi del tutto. Ma dalla seconda, ricevuta il 21 di questo mese, vedo che le cose stanno molto diversamente: siamo in disaccordo non solo su conclusioni derivate da principi fondamentali, ma anche sui principi stessi; perciò difficilmente possiamo trarre alcun beneficio da ulteriori scambi epistolari. È evidente che nessuna prova, per quanto fondata sulle leggi della logica, ha valore ai tuoi occhi, se non concorda con l’interpretazione che tu stesso o altri teologi a te noti attribuite alle [Sacre Scritture](/concepts/revelation). Tuttavia, se sei convinto che Dio parli in modo più chiaro ed efficace attraverso le Sacre Scritture che attraverso la comprensione naturale che ci ha donato, e che mantiene questa comprensione costantemente stabile e incorrotta con la sua saggezza divina, allora hai motivi validi per sottomettere la tua opinione a quella che attribuisci alle Sacre Scritture; anch’io non seguirei altra strada. Per quanto mi riguarda, confesso apertamente e senza mezzi termini di non comprendere appieno le Scritture, nonostante abbia dedicato molti anni allo studio di esse; inoltre, sento che una volta ottenuta una prova certa, non posso più dubitarne. Accetto quindi completamente ciò che la mia comprensione mi suggerisce, senza alcun sospetto che possa essere ingannato, né che le Sacre Scritture possano contraddirmi, poiché “la verità non è in contrasto con se stessa”, come ho già dimostrato chiaramente nell’appendice ai Principi della Filosofia Cartesiana (non posso fornire il riferimento esatto, poiché non ho il libro con me). Ma se in qualche caso scoprisse che una conclusione raggiunta attraverso la mia comprensione naturale fosse falsa, mi considererei fortunato: godo della vita e cerco di viverla nella pace, nella gioia e nell’allegria, cercando costantemente di migliorare. Nel frattempo so (e questa consapevolezza mi dona la massima soddisfazione e serenità) che tutte le cose avvengono per il potere e l’irrevocabile volontà di un Essere supremamente perfetto.
+
+Ritornando alla tua lettera, ti devo molte e sincere ringraziamenti per avermi confidato le tue opinioni filosofiche; ma per quelle dottrine che attribuisci a me e che cerchi di dedurre dalla mia lettera, non ti ringrazio affatto. Vorrei sapere quale fondamento la mia lettera possa aver fornito per attribuirmi opinioni del genere: che gli uomini siano come bestie, che muoiano e periscano nello stesso modo delle bestie, che le nostre azioni dispiacciano a Dio, ecc. Forse siamo in disaccordo soprattutto su questo punto. Tu pensi, a quanto posso giudicare, che Dio trovi piacere nelle nostre azioni, come se fosse un uomo che raggiunge il proprio scopo quando le cose avvengono secondo i suoi desideri. Per quanto mi riguarda, non ho forse detto chiaramente che i buoni [adorano](/concepts/religion) Dio, che servendolo costantemente diventano più perfetti e che lo [amano](/concepts/charity)? Questo, ti chiedo, significa paragonarli a bestie, dire che periscono come bestie o che le loro azioni dispiacciono a Dio? Se avessi letto la mia lettera con maggiore attenzione, avresti chiaramente compreso che tutta la nostra divergenza risiede nella seguente alternativa: o le perfezioni che i buoni ricevono vengono loro conferite da Dio nel suo ruolo di Dio, cioè assolutamente senza che vengano attribuite a Lui alcuna [qualità](/concepts/attribute) umana – questa è la mia opinione; oppure tali perfezioni vengono conferite da Dio come giudice, come sostieni tu. Per questo motivo difendi i malvagi, dicendo che attuano i decreti di Dio nella misura in cui ne sono capaci e quindi servono Dio tanto quanto i buoni. Ma se la mia dottrina fosse accettata, questa conseguenza non deriverebbe affatto; io non introduco l’idea di Dio come giudice e, pertanto, valuto un’azione in base ai suoi meriti intrinseci, non alle capacità del suo esecutore; la ricompensa che segue un’azione ne deriva necessariamente, proprio come dalla natura di un triangolo deriva il fatto che i suoi tre angoli siano uguali a due angoli retti. Questo può essere compreso da chiunque rifletta sul fatto che la nostra più alta [beatitudine](/concepts/amor_dei_intellectualis) consiste nell’amore per Dio, e che tale amore scaturisce naturalmente dalla conoscenza di Dio, che ci viene così fortemente raccomandata. La questione può essere facilmente dimostrata in termini generali, se teniamo conto della natura dei decreti di Dio, come spiegato nel mio appendice. Tuttavia, confesso che tutti coloro che confondono la natura divina con quella umana hanno notevoli difficoltà ad comprenderla.
+
+Avevo intenzione di concludere la mia lettera in questo punto, per non causarvi problemi riguardo a queste questioni: la discussione delle quali (come risulta dall’estremamente pio postscripto aggiunto alla vostra lettera) rappresenta soltanto un passatempo o uno scherzo, e non ha alcuna utilità pratica. Tuttavia, per non rifiutare categoricamente la vostra richiesta, proseguirò spiegando più in dettaglio i concetti di “privazione” e “negazione”, e indicherò brevemente ciò che è necessario per chiarire il contenuto della mia precedente lettera.
+
+Dico quindi, innanzitutto, che la privazione non è l’atto di sottrarre qualcosa, ma semplicemente uno stato di mancanza, il quale in sé non rappresenta nulla: si tratta soltanto di un concetto razionale, di un [modo](/concepts/mode) di pensare basato sul confronto tra due cose. Ad esempio, diciamo che un uomo cieco è privo della vista perché facilmente possiamo immaginarlo come se potesse vedere, oppure perché lo paragoniamo ad altre persone in grado di vedere, o confrontiamo la sua condizione attuale con quella passata in cui poteva vedere; quando consideriamo l’uomo in questo modo, confrontando la sua natura con quella degli altri o con la sua stessa natura passata, affermiamo che la vista fa parte della sua natura e quindi che ne è stato privato. Ma quando consideriamo la natura e il volere di Dio, non possiamo affatto affermare che un uomo cieco sia privo della vista, così come non lo possiamo dire per una pietra; infatti, in quel momento la vista non rientra nell’ambito delle possibilità dell’uomo né della pietra, poiché ciò che appartiene veramente alla [natura umana](/axes/human_nature) è soltanto ciò che Dio le ha concesso attraverso l’intelletto e la volontà. Pertanto, Dio non è la causa del fatto che un uomo cieco non possa vedere, così come non lo è del fatto che una pietra non possa vedere; non vedere rappresenta semplicemente una negazione. Allo stesso modo, quando consideriamo il caso di una persona guidata da desideri lussuriosi, confrontiamo i suoi desideri attuali con quelli che appartengono alla virtù o che un tempo esistevano in lui; affermiamo quindi che è privo di questi desideri migliori, perché riteniamo che tali desideri facciano parte della sua natura. Ma questo non possiamo dirlo se consideriamo la natura e il volere di Dio; da questo punto di vista, i desideri virtuosi non fanno parte della natura di una persona lussuriosa, così come non ne fanno parte la natura del diavolo o quella di una pietra. Pertanto, dal punto di vista divino, il desiderio virtuoso non è una privazione, ma semplicemente una negazione.
+
+Pertanto, la privazione non è altro che il rifiuto di concedere a una cosa ciò che ritengiamo appartenga alla sua natura; la negazione, invece, consiste nel rifiutare di attribuire a una cosa ciò che non crediamo appartenga alla sua natura.
+
 <span class="atom-split" data-atom="036" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 We may now see, how Adam’s desire for earthly things was evil from our standpoint, but not from God’s. Although God knew both the present and the past state of Adam, He did not, therefore, regard Adam as deprived of his past state, that is, He did not regard Adam’s past state as within the scope of Adam’s present nature. Otherwise God would have apprehended something contrary to His own will, that is, contrary to His own understanding. If you quite grasp my meaning here and at the same time remember, that I do not grant to the mind the same freedom as Descartes does — L[ewis] M[eyer] bears witness to this in his preface to my book — you will perceive, that there is not the smallest contradiction in what I have said. But I see that I should have done far better to have answered you in my first letter with the words of Descartes, to the effect that we cannot know how our freedom and its consequences agree with the foreknowledge and freedom of God (see several passages in my appendix), that, therefore, we can discover no contradiction between creation by God and our freedom, because we cannot understand how God created the universe, nor (what is the same thing) how He preserves it. I thought that you had read the preface, and that by not giving you my real opinions in reply, I should sin against those duties of [friendship](/concepts/friendship) which I cordially offered you. But this is of no consequence.
@@ -787,6 +1535,26 @@ Again, if you had reflected a little on [human nature](/axes/human_nature) and t
 As to the two points which you say, before passing on to your second rule, that you cannot understand; I answer, that the first may be solved through Descartes, who says that in observing your own nature you feel that you can suspend your judgment. If you say that you do not feel, that you have at present sufficient force to keep your judgment suspended, this would appear to Descartes to be the same as saying that we cannot at present see, that so long as we exist we shall always be thinking things, or retain the nature of thinking things; in fact it would imply a contradiction.
 
 As to your second difficulty, I say with Descartes, that if we cannot extend our will beyond the bounds of our extremely limited understanding, we shall be most wretched — it will not be in our power to eat even a crust of bread, or to walk a step, or to go on living, for all things are uncertain and full of peril.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora possiamo comprendere come il desiderio di Adamo per le cose terrene fosse malvagio dal nostro punto di vista, ma non da quello di Dio. Sebbene Dio conoscesse sia lo stato attuale che quello passato di Adamo, non considerava comunque Adamo privo di quel passato stato; in altre parole, non riteneva che il passato di Adamo rientrasse nell’ambito della sua natura attuale. Altrimenti, Dio avrebbe percepito qualcosa che fosse contrario alla Sua volontà, cioè contrario alla Sua stessa comprensione. Se comprendete appieno ciò che intendo e ricordate anche che non attribuisco alla mente la stessa libertà che attribuiva Cartesio – di ciò testimonia L[ewis] M[eyer] nella prefazione al mio libro – allora noterete che ciò che ho detto non contiene la minima contraddizione. Tuttavia, avrei dovuto rispondervi fin dall’inizio con le parole di Cartesio: non possiamo infatti comprendere in che modo la nostra libertà e le sue conseguenze siano in armonia con la prescienza e la libertà di Dio (vedete diversi passaggi nell’appendice del mio libro); pertanto, non possiamo rilevare alcuna contraddizione tra la creazione operata da Dio e la nostra libertà. Pensavo che aveste letto quella prefazione, e che non darvi le mie opinioni reali equivalesse a trasgredire ai doveri di [amicizia](/concepts/friendship) che vi ho sinceramente offerto. Ma ormai non ha più importanza.
+
+Tuttavia, poiché vedo che finora non avete compreso appieno il significato di Cartesio, vi indirizzo l’attenzione su due punti fondamentali. Primo: né Cartesio né io abbiamo mai affermato che sia nella nostra natura limitare la volontà entro i confini dell’intelletto; abbiamo soltanto detto che Dio ci ha dotati di un intelletto determinato e di una volontà indeterminata, il che significa che non conosciamo lo scopo per cui ci ha creati. Inoltre, una volontà di questo tipo, essendo indeterminata, non solo ci rende più perfetti, ma è anche estremamente necessaria per noi, come vi dimostrerò in seguito.
+
+In secondo luogo: la nostra libertà non risiede in una certa contingenza né in un certo indifferenziamento, ma nel [METODO](/axes/method) di affermazione o negazione; pertanto, nella misura in cui siamo meno indifferenti nell’affermare o nel negare, siamo anche più liberi. Ad esempio, se la natura di Dio ci fosse chiaramente nota, sarebbe altrettanto necessario per noi affermare che Dio esiste, quanto è necessario, per la natura di un triangolo, che i suoi tre angoli sono uguali a due angoli retti; non siamo mai più liberi di quando affermiamo qualcosa in questo modo. Poiché questa necessità non è altro che il decreto di Dio (come ho chiaramente dimostrato nel mio appendice), possiamo quindi, in un certo senso, comprendere come agiamo liberamente e come siamo la causa delle nostre azioni, anche se in realtà agiamo sempre necessariamente e secondo il decreto di Dio. Questo, ripeto, possiamo comprenderlo in un certo senso ogni volta che affermiamo qualcosa che percepiamo chiaramente e distintamente; ma quando asseriamo qualcosa che non comprendiamo chiaramente e distintamente, in altre parole, quando permettiamo alla nostra volontà di oltrepassare i limiti della nostra comprensione, non percepiscono più né la necessità né il decreto di Dio; possiamo vedere soltanto la nostra libertà, che è sempre insita nella nostra volontà; ed è solo in questo senso che le nostre azioni vengono considerate buone o cattive. Se tentiamo quindi di conciliare la nostra libertà con il decreto di Dio e la sua continua creazione, confondiamo ciò che comprendiamo chiaramente e distintamente con ciò che non percepiamo; pertanto, tale tentativo è vano. È sufficiente per noi sapere di essere liberi, e che possiamo esserlo nonostante il decreto di Dio, e inoltre che siamo la causa del male, poiché un atto può essere considerato male soltanto in relazione alla nostra libertà. Ho detto tutto ciò a proposito di Cartesio per dimostrare che, nella questione che stiamo esaminando, le sue parole non presentano alcuna contraddizione.
+
+Ora passerò a ciò che mi riguarda personalmente e, innanzitutto, farò brevemente notare il vantaggio derivante dalla mia opinione: secondo essa, la nostra comprensione permette al nostro spirito e al nostro corpo di avvicinarsi a Dio, liberi da ogni superstizione. Non nego nemmeno che la preghiera sia estremamente utile per noi; tuttavia, la mia comprensione è troppo limitata per poter individuare tutti i mezzi attraverso cui Dio conduce gli uomini verso l’[amore](/concepts/charity) di Sé stesso, cioè verso la salvezza. La mia opinione non è affatto dannosa; anzi, offre a coloro che non sono dominati da pregiudizi o superstizioni infantili, l’unico mezzo per raggiungere il più alto livello di [beatazza](/concepts/amor_dei_intellectualis).
+
+Quando affermate che, rendendo gli uomini così dipendenti da Dio, io li riduco alla stessa condizione degli elementi, delle piante o delle pietre, dimostrate chiaramente di aver completamente frainteso il mio significato e di aver confuso ciò che riguarda l’intelletto con ciò che riguarda l’immaginazione. Se aveste compreso il vero significato della dipendenza da Dio soltanto attraverso il vostro intelletto, certamente non pensereste che le cose, in quanto dipendenti da Dio, siano morte, corporee e imperfette (chi oserebbe mai parlare in modo così spregevole dell’Essere Supremamente Perfetto?); al contrario, capireste che proprio perché dipendono da Dio, esse sono perfette; quindi questa dipendenza e questo rapporto necessario con Dio possono essere meglio compresi come il suo volere, considerando non le piante o gli animali, ma le creature più razionali e perfette. Ciò emerge chiaramente dalla mia seconda osservazione sul significato di Cartesio, che avreste dovuto prendere in considerazione.
+
+Non posso fare a meno di esprimere la mia estrema meraviglia per il vostro commento secondo cui, se Dio non punisce i comportamenti malvagi (cioè, come fa un giudice, con una punizione non strettamente legata al reato, poiché proprio in questo risiede tutta la differenza tra noi), quale motivo mi impedirebbe di abbandonarmi a ogni sorta di vizio? Certamente colui che si astiene dal male soltanto per paura della punizione (e non penso certo a voi in questo contesto) non è affatto guidato dall’amore, né adotta mai la virtù. Per quanto mi riguarda, io evito o cerco di evitare il vizio perché è in totale contrasto con la mia vera natura e mi allontanerebbe dalla conoscenza e dall’amore di Dio.
+
+Ancora una volta, se aveste riflettuto un po’ sulla [natura umana](/axes/human_nature) e sulla natura del decreto di Dio (come spiegato nel mio appendice), e se aveste compreso, a questo punto, come si debba dedurre una conseguenza dalle sue premesse prima di giungere a una conclusione; non avreste affermato così imprudentemente che la mia opinione ci renda simili a azioni finanziarie, ecc.; né mi avreste attribuito le molte assurdità che inventate voi stessi.
+
+Riguardo ai due punti che avete menzionato, prima di passare al vostro secondo principio, che non riuscite a comprendere, rispondo che il primo può essere spiegato attraverso Cartesio, il quale afferma che, osservando la propria natura, si percepisce chiaramente di poter sospendere il proprio giudizio. Se dite di non sentirvi in grado di farlo, di non disporre al momento delle forze necessarie per mantenere il giudizio sospeso, per Cartesio ciò equivalgerebbe a dire che al momento attuale non possiamo vedere, o che finché esisteremo continueremo sempre a pensare, ovvero a conservare la natura di esseri pensanti; in realtà, tale affermazione implicherebbe una contraddizione.
+
+Per quanto riguarda la tua seconda difficoltà, dico, come Descartes, che se non possiamo estendere la nostra volontà al di là dei limiti della nostra comprensione estremamente limitata, saremo nei peggiori guai: non sarà in nostro potere nemmeno mangiare un pezzo di pane, né fare un passo, né continuare a vivere, poiché tutto è incerto e pieno di pericoli.
 
 <span class="atom-split" data-atom="037" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 3)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -808,6 +1576,26 @@ Dordrecht
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora passo alla vostra seconda regola e affermo che, sebbene non attribuisca alla [Scrittura](/concepts/revelation) quella sorta di verità che voi ritenete di trovarvi in essa, le conferisco comunque un’autorità altrettanto grande, se non maggiore, della vostra. Sono molto più cauto degli altri nel non attribuire alla Scrittura dottrine infantili e assurde; una precauzione che richiede o una profonda conoscenza della filosofia o la possessione di rivelazioni divine. Per questo motivo presto poca attenzione alle interpretazioni della Scrittura fornite dai teologi comuni, soprattutto a quelle che la interpretano in modo letterale e superficiale. Non ho mai incontrato, tranne tra i Sociniani, un teologo abbastanza sciocco da ignorare che la Sacra Scrittura spesso parla di Dio in termini umani e esprime i suoi messaggi attraverso parabole. Quanto alla contraddizione che voi vanamente (a mio parere) cercate di dimostrare, credo che attribuiate al termine “parabola” un significato diverso da quello comunemente inteso. Chi mai ha pensato che una persona che esprimesse le proprie idee attraverso parabole fosse priva di senno? Quando Micaia disse al re Ahab di aver visto Dio seduto su un trono, con gli eserciti del cielo ai suoi lati, e che Dio chiedesse ai suoi angeli quale di loro avrebbe ingannato Ahab, si trattava sicuramente di una parabola utilizzata dal profeta in quell’occasione – una parabola non adatta certo all’insegnamento di dottrine teologiche “[sublimi](/concepts/sublime)”, ma sufficiente a esprimere il messaggio che doveva trasmettere in nome di Dio. Non possiamo certo dire che Micaia fosse privo di senno. Allo stesso modo, gli altri profeti di Dio hanno espresso i comandamenti di Dio al popolo in questo modo, ritenendo che fosse il modo più adatto – anche se non esplicitamente prescritto da Dio – per guidare le persone verso lo scopo principale della Scrittura: far sì che gli uomini [amino](/concepts/charity) Dio sopra ogni cosa e il loro prossimo come se fossero loro stessi. A mio parere, le speculazioni profonde non hanno alcun rilievo per la Scrittura. Per quanto mi riguarda, non ho mai imparato, né sono stato in grado di imparare, nulla sugli attributi eterni di Dio dalla Sacra Scrittura.
+
+Per quanto riguarda il tuo quinto argomento (che i profeti abbiano così rivelato la parola di Dio, poiché la verità non è in contraddizione con se stessa), esso equivale, per coloro che comprendono il [metodo](/axes/method) di dimostrazione, a chiedermi di provare che le Scritture, così come sono, siano effettivamente la vera parola rivelata da Dio. Una dimostrazione matematica di questa proposizione potrebbe essere ottenuta soltanto attraverso una rivelazione divina. Pertanto, mi sono espresso nel seguente modo: “Credo, ma non lo so in modo matematicamente certo, che tutte le cose rivelate da Dio ai profeti, ” Poiché credo fermamente, ma non ne ho la certezza matematica, che i profeti fossero i consiglieri più affidabili e gli ambasciatori fedeli di Dio. Quindi, in tutto ciò che ho scritto non vi è alcuna contraddizione, anche se ne possono trovare molte tra coloro che sostengono opinioni opposte.
+
+Il resto della tua lettera (in particolare il passaggio in cui dici: “Infine, l’Essere supremamente perfetto lo sapeva in anticipo”, ecc.; inoltre le tue obiezioni all’esempio relativo al veleno, e infine tutto ciò che hai detto riguardo all’appendice e a quanto segue) mi sembra del tutto irrilevante rispetto all’argomento principale.
+
+Per quanto riguarda la prefazione di Lewis Meyer, i punti che Descartes aveva ancora bisogno di dimostrare prima di stabilire la sua argomentazione sulla [volontà libera](/positions/free_will) sono certamente esposti in essa; si aggiunge inoltre che io sostengo un’opinione opposta, e vengono forniti i motivi per cui lo faccio. Forse, in futuro, darò ulteriori spiegazioni; al momento, tuttavia, non ho tale intenzione.
+
+Non ho mai più pensato al lavoro su Cartesio, né vi ho prestato ulteriore attenzione, poiché è stato tradotto in olandese. Ho le mie ragioni, anche se sarebbe noioso elencarle qui. Quindi non mi resta altro che aderire, ecc.
+
+Guglielmo de Blyenbergh
+
+19 febbraio 1665
+
+Dordrecht
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="038" data-title="LETTER XXXV. Blyenbergh to Spinoza." data-chapter="LETTER XXXV. Blyenbergh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [THIS LETTER (EXTENDING over five pages) is only given here in brief summary.]
@@ -827,6 +1615,26 @@ Benedict de Spinoza
 Voorburg
 
 William de Blyenbergh
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Questa lettera, che si estende su cinque pagine, viene qui riportata soltanto in forma di breve riassunto.]
+
+Il tono della tua ultima lettera è molto diverso da quello della prima. Se la nostra essenza è equivalente allo stato in cui ci troviamo in un dato momento, allora siamo altrettanto perfetti quando pecciamo quanto quando siamo virtuosi: Dio desidererebbe tanto il vizio quanto la virtù. Sia i virtuosi che i malvagi attuano la volontà di Dio. Qual è la differenza tra loro? Dici che alcune azioni sono più perfette di altre; in cosa consiste questa perfezione? Se esistesse una mente tale da rendere il vizio conforme alla sua vera natura, perché tale mente dovrebbe preferire il bene al male? Se Dio ci fa ciò che siamo, come possiamo “allontanarci dalla retta via”? Le entità razionali possono dipendere da Dio in qualche modo diverso da quello di essere semplicemente prive di vita? Qual è la differenza tra la dipendenza di un essere razionale da Dio e quella di un essere irrazionale? Se non possediamo una [volontà libera](/positions/free_will), allora le nostre azioni non sono forse quelle di Dio, e la nostra volontà non è forse la volontà di Dio? Potrei porre altre domande, ma non oserei farlo.
+
+P.S. Nella mia fretta ho dimenticato di inserire questa domanda: Non possiamo forse, con la previdenza, evitare ciò che altrimenti ci accadrebbe?
+
+Dordrecht,
+
+19 febbraio 1665.
+
+Benedetto da Spinoza
+
+13 marzo 1665
+
+Voorburg
+
+Guglielmo de Blyenbergh
 
 <span class="atom-split" data-atom="039" data-title="LETTER XXXVI. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXVI. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -852,6 +1660,30 @@ To your first question, I answer, that I do not know, speaking as a philosopher,
 
 However, this is not the place to expound all the foundations of my Ethics, or to prove all that I have advanced; I am now only concerned in answering your questions, and defending myself against them.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza risponde che esista una differenza tra il modo teologico e quello filosofico di parlare di Dio e delle cose divine. Prosegue quindi a discutere le domande di Blyenbergh. (Voorburg, 13 marzo 1665.)]
+
+Amico e Signore, —
+
+Ho ricevuto due lettere da voi questa settimana; la seconda, datata 9 marzo, si limitava a informarmi della prima, inviata il 19 febbraio e recapitata a Schiedam. Nella prima lettera mi lamentate del fatto che abbia detto “le dimostrazioni non hanno avuto alcun effetto su di voi”, come se stessi parlando dei miei stessi argomenti, i quali non sono riusciti a convincervi. Questo era lontano dalla mia intenzione: mi riferivo alle vostre stesse parole, che recitavano più o meno così: “E se, dopo un’attenta indagine, dovesse risultare che la mia conoscenza naturale è in contrasto con le [scritture](/concepts/revelation), o non è sufficientemente solida, allora le scritture hanno per me tale autorità che preferirei mettere in dubbio quelle concezioni che ritengo di comprendere chiaramente”. Come vedete, sto semplicemente ripetendo brevemente le vostre stesse parole; quindi non posso credere che abbiate alcun motivo di essere [arrabbiati](/concepts/anger) con me, soprattutto perché ho citato quelle parole soltanto per evidenziare la grande differenza tra i nostri punti di vista.
+
+Ancora una volta, come hai scritto alla fine della tua lettera, la tua unica speranza e desiderio è continuare a vivere nella fede e nell’ottimismo; tutto il resto, di ciò in cui possiamo essere convinti attraverso le nostre facoltà naturali, per te è del tutto indifferente. Ho riflettuto, e continuo ancora oggi a farlo, che le mie lettere non possono esserti di alcun aiuto, e che sarebbe meglio per me concentrarmi sui miei interessi personali, smettendo di trascurare le mie attività (che sono costretto ad interrompere mentre ti scrivo) per cose che non potrebbero mai portare alcun beneficio concreto. Questo non è affatto contrario allo spirito della mia precedente lettera: in quella ti consideravo semplicemente un filosofo, che (come molti che si autodefiniscono cristiani) possiede come unico criterio di verità la propria intuizione naturale, e non un teologo. Tuttavia, tu mi hai insegnato a vedere le cose in modo diverso, e mi hai anche fatto capire che le basi su cui intendevo costruire la nostra [amicizia](/concepts/friendship) non erano, come avevo immaginato, solide.
+
+Per quanto riguarda il resto, queste sono le caratteristiche comuni delle controversie; pertanto, non vorrei oltrepassare i limiti della cortesia per questo motivo. Perciò tratterò come se non fossero mai state espresse quelle espressioni presenti nella tua seconda lettera, così come in questa. Per quanto riguarda il fatto che tu possa esserti offeso, voglio dimostrarti che non ti ho dato alcuna ragione valida per farlo, e che sono assolutamente disposto ad accettare le contraddizioni. Ora torno a rispondere alle tue obiezioni.
+
+Sostengo, innanzitutto, che Dio sia assolutamente e realmente la causa di tutte le cose che possiedono essenza, qualunque esse siano. Se riuscite a dimostrare che il male, l’errore, il crimine, ecc., abbiano un’esistenza concreta che esprima essenza, vi concederò pienamente che Dio sia la causa di tali cose. Credo di aver dimostrato a sufficienza che ciò che costituisce la realtà del male, dell’errore, del crimine, ecc., non consiste in nulla che esprima essenza; pertanto non possiamo dire che Dio ne sia la causa. Ad esempio, l’omicidio di Nerone, nella misura in cui comportava elementi concreti, non era un crimine; lo stesso atto fu compiuto anche da Oreste, il quale tuttavia non viene biasimato – almeno non quanto Nerone. Quindi, in cosa consisteva il crimine di Nerone? Solo nel fatto che, con quel suo atto, dimostrò di essere ingrato, spietato e disobbediente. Certamente nessuna di queste qualità esprime essenza; pertanto Dio non ne fu la causa, anche se fu certamente la causa dell’atto e dell’intenzione di Nerone.
+
+Inoltre, vorrei che osservaste che, sebbene parliamo in termini filosofici, non dovremmo utilizzare espressioni teologiche. Poiché la teologia spesso – e non senza ragione – rappresenta Dio come un uomo perfetto, è opportuno, in ambito teologico, affermare che Dio desideri qualcosa, che si arrabbi per le azioni dei malvagi e che si compiaccia di quelle dei buoni. Tuttavia, in filosofia, quando comprendiamo chiaramente che gli attributi che rendono gli uomini perfetti non possono affatto essere attribuiti a Dio, così come gli attributi che rendono perfetti l’elefante o il asino non possono essere attribuiti all’uomo, allora espressioni del genere non hanno alcun senso e il loro uso potrebbe causare estrema confusione nelle nostre concezioni. Pertanto, nel linguaggio filosofico non si può affermare che Dio desideri qualcosa da un uomo, né che qualcosa Gli dispiaccia o gli piaccia: tutte queste sono qualità umane e non hanno alcun riferimento a Dio.
+
+Vorrei sottolineare che, sebbene le azioni dei buoni (quelli cioè che possiedono una chiara concezione di Dio, e quindi le cui azioni e pensieri sono guidati da questa concezione) e quelle dei malvagi (quelli che non possiedono alcuna idea di Dio, ma solo concetti legati alle cose terrene, e quindi le cui azioni e pensieri sono determinati da questi concetti), e in realtà tutte le cose esistenti, derivino necessariamente dalle leggi eterne e dai decreti di Dio; tuttavia queste azioni non differiscono tra loro soltanto per grado, ma anche per essenza. Un topo, proprio come un angelo, e la tristezza, proprio come la gioia, dipendono da Dio; tuttavia un topo non è una sorta di angelo, né la tristezza è una sorta di gioia. Credo di aver così risposto alle vostre obiezioni, se le ho comprese correttamente, poiché a volte dubito che le conclusioni a cui giungete non siano in realtà estranee alla tesi che cercate di dimostrare.
+
+Tuttavia, ciò diventerà più chiaro se rispondo alle domande che avete posto riguardo a questi principi. Primo: il delitto è altrettanto accettabile per Dio quanto la carità? Secondo: rubare è, agli occhi di Dio, altrettanto positivo dell’essere onesti? Terzo e ultimo: se esiste una mente talmente strutturata da essere in armonia, piuttosto che in contrasto con la sua vera natura, con il cedere alle passioni e commettere crimini, allora, posso davvero fornire qualche motivo per cui tale mente dovrebbe compiere il bene e evitare il male?
+
+Rispetto alla tua prima domanda, rispondo che, in qualità di filosofo, non so cosa intendi per “accettabile da Dio”. Se mi chiedi se Dio odia i malvagi e [ama](/concepts/charity) i buoni, se Dio disprezza i primi e favorisce i secondi, rispondo di no. Se la tua domanda significa: “Sono ugualmente buoni e perfetti un assassino e colui che dona l’elemosina?”, anche in questo caso la risposta è negativa. Rispetto alla tua seconda domanda, se con “buono rispetto a Dio” intendi dire che l’uomo onesto compie un atto che arreca beneficio a Dio, mentre il ladro gli causa danno, rispondo che né l’uno né l’altro possono procurare a Dio piacere o dispiacere. Se ti riferisci al fatto che le azioni di entrambi, in quanto reali e compiute per volere di Dio, siano ugualmente perfette, rispondo che, se consideriamo soltanto l’atto stesso e il modo in cui viene compiuto, entrambi possono essere ugualmente perfetti. Tuttavia, se ti chiedi se il ladro e l’uomo onesto siano ugualmente perfetti e beati, rispondo di no. Un uomo onesto desidera infatti che tutti possedano ciò che è suo; questo desiderio, come dimostro nella mia Etica (ancora inedita), deriva necessariamente dalla chiara conoscenza che i devoti hanno di Dio e di se stessi. Poiché il ladro non nutre un tale desiderio, è inevitabilmente privo di questa conoscenza – in altre parole, privo dell’elemento fondamentale della nostra [beatitudine](/concepts/amor_dei_intellectualis). Se mi chiedi ancora quale motivo ci spinge a compiere un certo atto, che io definisco virtuoso, piuttosto che un altro, rispondo che non posso sapere quale [metodo](/axes/method) Dio utilizzi tra quelli infiniti a Sua disposizione per indurci ad agire in quel modo. È possibile che Dio ci abbia impresso una chiara immagine di Sé stesso, tanto da farci dimenticare il mondo per amore Suo e amare i nostri simili come noi stessi; è evidente che tale disposizione è in contrasto con quelle considerate cattive, e quindi non può coesistere con esse nella stessa persona.
+
+Tuttavia, questo non è il luogo adatto per esporre tutti i fondamenti della mia Etica, né per dimostrare tutto ciò che ho sostenuto; in questo momento mi interessa soltanto rispondere alle vostre domande e difendermi dalle stesse.
+
 <span class="atom-split" data-atom="040" data-title="LETTER XXXVI. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXVI. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 Lastly, as to your third question, it assumes a contradiction, and seems to me to be, as though one asked: If it agreed better with a man’s nature that he should hang himself, could any reasons be given for his not hanging himself? Can such a nature possibly exist? If so, I maintain (whether I do or do not grant [free will](/positions/free_will)), that such an one, if he sees that he can live more conveniently on the gallows than sitting at his own table, would act most foolishly, if he did not hang himself. So anyone who clearly saw that, by committing crimes, he would enjoy a really more perfect and better life and existence, than he could attain by the practice of virtue, would be foolish if he did not act on his convictions. For, with such a perverse [human nature](/axes/human_nature) as his, crime would become virtue.
@@ -868,6 +1700,22 @@ Dordrecht
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+Infine, riguardo alla tua terza domanda, essa contiene una contraddizione in sé; mi sembra come se si chiedesse: “Se fosse più conforme alla [natura umana](/axes/human_nature) che una persona si impiccasse, esisterebbero motivi per cui non lo facesse? È possibile che esista davvero una natura del genere? Se sì, allora sostengo (indipendentemente dal fatto che io conceda o meno l’[libero arbitrio](/positions/free_will)) che una persona del genere, se si rendesse conto di poter vivere più comodamente sulla forca che seduta al proprio tavolo, agirebbe in modo assolutamente sciocco se non si impiccasse. Quindi, chiunque vedesse chiaramente che commettendo crimini potrebbe godere di una vita e di un’esistenza davvero più perfette e migliori rispetto a quelle che potrebbe ottenere praticando la virtù, agirebbe stupidamente se non seguisse le proprie convinzioni. Perché, con una natura umana così perversa, il crimine diventerebbe virtù.”
+
+Per quanto riguarda l’altra domanda che aggiungi nel tuo postscripto, considerando che si potrebbero porre centinaia di domande del genere in un’ora senza arrivare a una conclusione su nessuna di esse, e visto che nemmeno tu insisti per avere una risposta, non ne invierò alcuna.
+
+Ora mi iscriverò soltanto io, ecc.
+
+Guglielmo de Blyenbergh
+
+27 marzo 1665
+
+Dordrecht
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="041" data-title="LETTER XXXVII. Blyenbergh to Spinoza." data-chapter="LETTER XXXVII. Blyenbergh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [BLYENBERGH, WHO HAD been to see Spinoza, asks the latter to send him a report of their conversation, and to answer five fresh questions. (Dordrecht, 27th March, 1665.)]
@@ -882,6 +1730,20 @@ Voorburg
 
 William de Blyenbergh
 
+<span class="qlang-split" data-lang="it"></span>
+
+[BLYENBERGH, che aveva incontrato Spinoza, chiede a quest’ultimo di inviargli un resoconto della loro conversazione e di rispondere a cinque nuove domande. (Dordrecht, 27 marzo 1665.)]
+
+Tralasciato.
+
+Benedetto da Spinoza
+
+3 giugno 1665
+
+Voorburg
+
+Guglielmo de Blyenbergh
+
 <span class="atom-split" data-atom="042" data-title="LETTER XXXVIII. Spinoza to Blyenbergh." data-chapter="LETTER XXXVIII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA DECLINES FURTHER correspondence with Blyenbergh, but says he will give explanations of certain points by word of mouth. (Voorburg, 3rd June, 1665.)]
@@ -893,6 +1755,22 @@ When your letter, dated 27th March, was delivered to me, I was just starting for
 Benedict de Spinoza
 
 7 Jan., 1666
+
+Voorburg
+
+Christian Huyghens
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza rifiuta ulteriori corrispondenze con Blyenbergh, ma dichiara che fornirà spiegazioni su alcuni punti di persona. (Voorburg, 3 giugno 1665.)]
+
+Amico e Signore, —
+
+Quando la vostra lettera, datata 27 marzo, mi è stata consegnata, stavo appena per partire per Amsterdam. Pertanto, dopo averne letto metà, l’ho lasciata a casa, intenzionato di rispondervi al mio ritorno: pensavo infatti che riguardasse soltanto le questioni sollevate nella nostra prima controversia. Tuttavia, una seconda lettura mi ha fatto capire che trattava di un argomento molto più ampio; non solo mi chiedevate una conferma di quanto avevo scritto nel preambolo a “Principi della filosofia cartesiana” (con l’intento semplicemente di esporre il mio punto di vista, senza provarlo o insistervici), ma volevate anche che vi fornissi una gran parte dei contenuti della mia Etica, la quale, come tutti sanno, dovrebbe basarsi sulla fisica e sulla metafisica. Per questo motivo, non ho potuto accontentare le vostre richieste. Avrei voluto attendere l’occasione per chiedervi, in modo molto amichevole e di persona, di ritirarle, spiegandovi i motivi del mio rifiuto e dimostrando che le vostre domande non contribuiscono affatto alla risoluzione della nostra prima controversia, ma, al contrario, dipendono in gran parte dalla sua soluzione precedente. Non sono nemmeno essenziali per comprendere la mia dottrina sulla necessità: non possono essere comprese se prima non si chiarisce quella questione. Tuttavia, prima che tale opportunità si presentasse, questa settimana mi è arrivata una seconda lettera, nella quale sembrava esprimersi un certo disappunto per il mio ritardo. Pertanto, la necessità mi ha costretto a scrivervi queste poche parole, per informarvi più completamente della mia proposta e decisione. Spero che, una volta conosciuti tutti i fatti, vi asteniate volontariamente dalla vostra richiesta e rimaniate comunque favorevoli nei miei confronti. Io, dal canto mio, farò del mio meglio per dimostrarmi vostro, ecc.
+
+Benedetto da Spinoza
+
+7 gennaio 1666
 
 Voorburg
 
@@ -925,6 +1803,38 @@ Voorburg,
 Benedict de Spinoza
 
 10 April, 1666
+
+Voorburg
+
+Christian Huyghens
+
+<span class="qlang-split" data-lang="it"></span>
+
+(Del trattato sull’unità di Dio.)
+
+Onorevole Signore, —
+
+La dimostrazione dell’unità di Dio, basata sul fatto che la Sua natura implica un’esistenza necessaria, che voi avevate richiesto e di cui ho preso atto, non è stata possibile inviarvi prima a causa di varie impegni. Per raggiungere il mio scopo, prenderò come premessa.
+
+Che la vera definizione di qualsiasi cosa non includa nulla se non la semplice natura della stessa cosa definita. Da ciò consegue che.
+
+Nessuna definizione può includere o esprimere un numero determinato di individui, poiché non include e non esprime nulla se non la natura della cosa stessa così come essa è in sé. Ad esempio, la definizione di un triangolo non include altro che la semplice natura del triangolo stesso; non menziona alcun numero specifico di triangoli. Allo stesso modo, la definizione dell’intelletto come entità pensante, o quella di Dio come Essere perfetto, non includono altro che le nature stesse dell’intelletto e di Dio, e non un numero determinato di esseri intellettuali o divini.
+
+Che per ogni cosa che esiste debba necessariamente esserci una causa positiva attraverso la quale essa esiste.
+
+Questa causa può risiedere sia nella natura e nella definizione della cosa stessa (cioè perché l’esistenza appartiene alla sua natura o la include necessariamente), sia in fattori esterni alla cosa stessa.
+
+Da queste premesse deriva che, se in natura esiste un determinato numero di individui, deve esserci una o più cause capaci di produrre esattamente quel numero di individui, né di più né di meno. Ad esempio, se in natura esistessero venti uomini (per evitare ogni confusione, supporremo che tutti esistano insieme come entità primarie), non è sufficiente indagare sulla causa della [natura umana](/axes/human_nature) in generale per spiegare l’esistenza di questi venti uomini; dobbiamo anche cercare il motivo per cui esistono esattamente venti uomini, né di più né di meno. Poiché (secondo la nostra terza ipotesi) per ogni uomo deve esserci una ragione e una causa che spieghino il suo essere, ma questa causa (secondo le nostre seconda e terza ipotesi) non può risiedere nella natura stessa dell’uomo; infatti la vera definizione di uomo non include il numero di venti individui. Pertanto (secondo la nostra quarta ipotesi) la causa dell’esistenza di questi venti uomini, e quindi di ciascuno di loro, deve esistere al di fuori di essi. Possiamo dunque concludere con certezza che tutte le cose che vengono concepite come esistenti in numero plurale devono necessariamente essere prodotte da cause esterne e non dalla forza della loro stessa natura. Ma poiché (secondo la nostra seconda ipotesi) l’esistenza necessaria appartiene alla natura di Dio, la sua vera definizione deve necessariamente includere l’esistenza necessaria; pertanto dalla sua vera definizione si può inferire la sua esistenza necessaria. Tuttavia, dalla sua vera definizione (come ho già dimostrato con le nostre seconda e terza ipotesi) non si può inferire l’esistenza necessaria di molti dèi. Quindi ne deriva soltanto l’esistenza di un solo Dio. Il che era da dimostrare.
+
+Questo, onorevole signore, mi è sembrato il miglior [metodo](/axes/method) per dimostrare la proposizione in questione. L’ho anche dimostrata in modo diverso, facendo riferimento alla distinzione tra [essenza ed esistenza](/concepts/essentia_existentia); tuttavia, tenendo presente l’obiettivo che mi avevate indicato, ho preferito inviarvi la dimostrazione presentata sopra. Spero che vi soddisfi e attenderò con ansia la vostra risposta. Nel frattempo.
+
+Voorburg,
+
+7 gennaio 1666.
+
+Benedetto da Spinoza
+
+10 aprile 1666
 
 Voorburg
 
@@ -966,6 +1876,42 @@ Voorburg
 
 Christian Huyghens
 
+<span class="qlang-split" data-lang="it"></span>
+
+Altri argomenti a favore dell’unità di Dio.
+
+Onorevole Signore, —
+
+Nella tua ultima lettera, scritta il 30 marzo, hai spiegato in modo eccellente quel punto che mi era risultato un po’ oscuro nella tua lettera del 10 febbraio. Ora che conosco la tua opinione, esporrò [lo stato della questione](/concepts/state) così come tu la concepi: cioè, se esista un solo Essere che si sostiene grazie alla propria autosufficienza o forza. Non solo affermo che sia così, ma mi impegno anche a dimostrarlo partendo dal fatto che la natura di un tale Essere implica necessariamente l’esistenza; forse ciò può essere facilmente dimostrato anche attraverso la comprensione delle attributi di Dio (come espongo nel “Principi della Filosofia Cartesiana”, I, Proposizione i), o attraverso altri dei suoi attributi. Prima di affrontare l’argomento, mostrerò brevemente, a titolo preliminare, quali proprietà deve possedere un Essere che include necessariamente l’esistenza. E precisamente: —
+
+Deve essere eterno. Poiché se gli venisse attribuita una durata definita, al di là di tale durata verrebbe considerato inesistente, o come qualcosa che non implichi necessariamente l’esistenza, il che sarebbe contrario alla sua definizione.
+
+Deve essere semplice, non composto da parti. Infatti, nelle leggi della natura e nel processo del conoscere, le parti devono necessariamente precedere il tutto che compongono; ciò non potrebbe valere per ciò che è eterno.
+
+Non può essere concepito come determinato, ma soltanto come infinito. Infatti, se la natura di tale Essere fosse determinata e concepita come tale, al di là di tali limiti essa verrebbe considerata inesistente, il che è contrario alla sua stessa definizione.
+
+È indivisibile. Infatti, se fosse divisibile, potrebbe essere suddiviso in parti di natura uguale o diversa; nel secondo caso, tali parti potrebbero essere distrutte e quindi non esistere più, il che è contrario alla sua definizione; nel primo caso, ciascuna parte conterrebbe in sé l’esistenza necessaria, e quindi una parte potrebbe esistere senza le altre, venendo così concepita come effettivamente esistente. Di conseguenza, la natura di tale Essere verrebbe considerata finita, il che, come già detto, è contrario alla sua definizione. Quindi, nel tentativo di attribuire a un simile Essere qualche imperfezione, ci imbattiamo immediatamente in contraddizioni: sia che l’imperfezione in questione risieda in qualche difetto, in limitazioni intrinseche alla sua natura, o in cambiamenti che potrebbe subire a causa di cause esterne, si arriva sempre alla stessa conclusione: una natura che comporta necessariamente l’esistenza non esiste, o non esiste necessariamente. Concludo quindi.
+
+Che tutto ciò che include l’esistenza stessa necessaria non possa contenere in sé alcuna imperfezione, ma debba esprimere pura perfezione.
+
+Inoltre, poiché soltanto dalla perfezione può derivare che un essere esista per la propria forza e autonomia, ne consegue che, se assumiamo l’esistenza di un essere che esiste per sua natura stessa, ma non manifesta tutte le perfezioni, dobbiamo necessariamente ipotizzare l’esistenza di un altro essere che racchiuda in sé tutte le perfezioni. Infatti, se un essere meno potente esiste per la propria forza intrinseca, quanto più deve esserlo uno più potente?
+
+Infine, per affrontare questa questione, affermo che possa esistere soltanto un Unico Essere il cui essere stesso faccia parte della sua natura; un tale Essere, che possieda in sé tutte le perfezioni, lo chiamerò Dio. Se esiste qualche altro Essere la cui natura comporti l’esistenza necessaria, allora tale Essere non potrebbe contenere in sé alcuna imperfezione, ma dovrebbe (secondo la mia quinta premessa) esprimere ogni perfezione; pertanto, la natura di un tale Essere sembra appartenere a Dio (la cui esistenza dobbiamo necessariamente affermare sulla base della sesta premessa), poiché Egli possiede in sé tutte le perfezioni e nessuna imperfezione. Inoltre, tale Essere non può esistere al di fuori di Dio: infatti, se al di fuori di Dio esistesse una natura che comportasse necessariamente l’esistenza, tale natura sarebbe duplice; ma ciò è assurdo, come abbiamo appena dimostrato. Pertanto, non esiste nulla al di fuori di Dio, e c’è soltanto un Unico Dio, il quale possiede in sé necessariamente l’esistenza: questo era proprio ciò che doveva essere dimostrato.
+
+Ecco, eccellente signore, gli argomenti che posso ora presentare per dimostrare questa tesi. Spero anche di riuscire a dimostrarvi che io sono, in effetti, e così via.
+
+Voorburg,
+
+10 aprile 1666
+
+Benedetto da Spinoza
+
+16 maggio 1666
+
+Voorburg
+
+Christian Huyghens
+
 <span class="atom-split" data-atom="045" data-title="LETTER XLI. Spinoza to Christian Huyghens." data-chapter="LETTER XLI. Spinoza to Christian Huyghens." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [FURTHER DISCUSSION CONCERNING the unity of God. Spinoza asks for advice about polishing lenses. (Voorburg, May, 1666.)]
@@ -996,6 +1942,36 @@ May or June, 1665
 
 John Bresser
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Ulteriori discussioni sulla unità di Dio. Spinoza chiede consigli riguardo alla lucidatura delle lenti. (Voorburg, maggio 1666.)]
+
+Onorevole Signore, —
+
+In un modo o nell’altro, sono stato impedito di rispondere prima alla vostra lettera del 19 maggio. Poiché intuisco che voi rimandate la vostra valutazione riguardo alla maggior parte dei documenti che vi ho inviato (probabilmente a causa della loro oscurità), cercherò di spiegarne il significato in modo più chiaro.
+
+Innanzitutto ho elencato quattro proprietà che un Essere che esiste per propria forza e autosufficienza deve necessariamente possedere. Queste quattro, insieme ad altre simili, le ho ridotte, nella mia quinta osservazione, a una sola. Inoltre, al fine di dedurre da un’unica premessa tutte le conclusioni necessarie per la dimostrazione, ho cercato, nella mia sesta osservazione, di dimostrare l’esistenza di Dio partendo dall’ipotesi data; infine, senza assumere nulla che andasse oltre il significato ordinario dei termini utilizzati, sono giunto alla conclusione desiderata.
+
+In breve, questo era il mio scopo e il mio obiettivo. Ora spiegherò il significato di ciascun passaggio separatamente, iniziando prima dalle quattro proprietà menzionate in precedenza.
+
+Nel primo caso non si riscontra alcuna difficoltà; si tratta semplicemente, proprio come nel secondo caso, di un assioma. Con “semplice” intendo soltanto ciò che non è composto, ovvero ciò che non è formato da parti la cui natura è diversa o da parti la cui natura è identica. Questa dimostrazione è certamente universale.
+
+Avete compreso perfettamente il senso della mia terza osservazione: se si considera l’Essere come qualcosa che può essere concepito soltanto come infinito, e allo stesso modo, se lo si considera come estensione, non può essere concepito come limitato. Tuttavia affermate di non comprendere la conclusione a cui questa osservazione conduce; tale conclusione si basa sul fatto che è impossibile concepire qualcosa il cui significato includa o affermi l’esistenza sotto la categoria della non-esistenza. Inoltre, poiché la determinazione implica soltanto una limitazione dell’esistenza di ciò che viene considerato come determinato, ne consegue che ciò il cui significato afferma l’esistenza non può essere concepito come determinato. Ad esempio, se il concetto di estensione includesse necessariamente l’esistenza, sarebbe altrettanto impossibile concepire l’estensione senza esistenza o l’esistenza senza estensione; in tal caso, non sarebbe possibile concepire nemmeno un’estensione “determinata”. Infatti, se si considerasse un’entità come determinata, essa dovrebbe essere definita dalla propria natura stessa, cioè dall’estensione; ma questa estensione, che la renderebbe determinata, dovrebbe essere concepita sotto la categoria della non-esistenza, il che rappresenterebbe ovviamente una contraddizione. Nella mia quarta osservazione, ho semplicemente voluto dimostrare che un tale Essere non potrebbe essere diviso in parti della stessa natura né in parti di natura diversa, indipendentemente dal fatto che queste parti diverse includano o meno l’esistenza necessaria. Se adottassimo la seconda ipotesi, l’Essere stesso verrebbe distrutto; infatti, la distruzione significa semplicemente la scomposizione di un tutto in parti tali che nessuna di esse esprima la natura del tutto stesso. Se invece adottassimo la prima ipotesi, ci troveremmo in contraddizione con le prime tre proprietà descritte dell’Essere.
+
+Nella mia quinta osservazione ho semplicemente affermato che la perfezione consiste nell’essere, mentre l’imperfezione deriva dalla privazione dell’essere. Parlo di “privazione”, perché sebbene l’estensione non possieda in sé il concetto di pensiero, ciò non significa affatto che sia imperfetta. Sarebbe invece imperfetta se fosse privata, anche solo in minima misura, dell’estensione; lo stesso vale se le mancassero durata, posizione o altre caratteristiche essenziali.
+
+La tua sesta osservazione la accetti assolutamente, eppure dici che il tuo problema rimane irrisolto (poiché, secondo te, possono esistere diverse entità autoesistenti di natura diversa; ad esempio, [)pensiero ed estensione](/concepts/attribute) sono cose distinte e forse esistono per loro stesse). Pertanto, sono costretto a ritenere che attribuisci alla mia osservazione un significato del tutto diverso da quello che intendevo io. Credo di poter comprendere la tua interpretazione; tuttavia, per risparmiare tempo, esporrò semplicemente il mio punto di vista. Dico quindi che, riguardo alla mia sesta osservazione, se affermiamo che qualcosa che è indeterminato e perfetto soltanto nel proprio genere esista per sé stesso, dobbiamo anche ammettere l’esistenza di un Essere indeterminato e perfetto in assoluto; tale Essere lo chiamerò Dio. Ad esempio, se vogliamo affermare che l’estensione o il pensiero (entrambi perfetti nel proprio genere, cioè in una determinata sfera dell’essere) esistano per sé stessi, dobbiamo ammettere anche l’esistenza di Dio, che è assolutamente perfetto, cioè un Essere assolutamente indeterminato. Vorrei qui richiamare quanto ho appena detto riguardo al termine “imperfezione”: esso indica che una cosa manca di una certa qualità che, tuttavia, appartiene alla sua natura. Ad esempio, l’estensione può essere considerata imperfetta soltanto in termini di durata, posizione o quantità: cioè perché non dura per sempre, non mantiene la propria posizione o non è di una certa grandezza. Non può mai essere definita imperfetta perché non pensa, poiché la sua natura non richiede nulla del genere; essa consiste esclusivamente nell’estensione, cioè in una determinata sfera dell’essere. Solo rispetto a questa propria sfera può essere considerata determinata o indeterminata, perfetta o imperfetta. Ora, poiché la natura di Dio non è limitata a una determinata sfera dell’essere, ma esiste nell’essere stesso che è assolutamente indeterminato, anche la sua natura richiede tutto ciò che esprime perfettamente l’essere; altrimenti, la sua natura sarebbe determinata e imperfetta.
+
+Essendo così, ne consegue che possa esistere soltanto un Unico Essere, ovvero Dio, il quale esiste per la propria forza intrinseca. Se, a titolo di illustrazione, affermiamo che l’estensione implichi necessariamente l’esistenza, allora è inevitabile che tale estensione sia eterna e indeterminata, e che non esprima alcuna imperfezione, ma soltanto perfezione. Pertanto, l’estensione appartiene a Dio, o rappresenta in qualche modo la natura di Dio stesso, poiché Dio è un Essere che, non solo in alcuni aspetti, ma assolutamente, è indeterminato e onnipotente nella sua essenza. Quello che abbiamo detto riguardo all’estensione può essere applicato a qualsiasi altra cosa le attribuiamo una simile natura esistenziale. Concludo quindi, come nel mio precedente scritto, che non esiste nulla di esterno a Dio; Dio esiste soltanto per la propria autosufficienza. Credo di aver detto abbastanza per chiarire il significato del mio precedente messaggio; tuttavia, voi siete i migliori giudici in merito. * * * * *
+
+(Il resto della lettera tratta di dettagli riguardanti la lucidatura delle lenti.)
+
+Benedetto da Spinoza
+
+Maggio o giugno del 1665.
+
+John Bresser
+
 <span class="atom-split" data-atom="046" data-title="LETTER XLI.a. Spinoza to * * * * * (May or June, 1665)." data-chapter="LETTER XLI.a. Spinoza to * * * * * (May or June, 1665)." data-kind="atom" data-srclang="en" data-tags="concepts/friendship,concepts/reason,concepts/soul"></span>
 
 [SPINOZA URGES HIS correspondent to be diligent in studying philosophy, promises to send part of the Ethics, and adds some personal details.]
@@ -1015,6 +1991,30 @@ Of English affairs I hear a good deal, but nothing for certain. The people conti
 Benedict de Spinoza
 
 10 June, 1666
+
+Voorburg
+
+John Bredenburg
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza esorta il suo corrispondente ad impegnarsi con diligenza nello studio della filosofia, promette di inviargli una parte delle “Etiche” e aggiunge alcuni dettagli personali.]
+
+Caro Amico, —
+
+Non so se mi abbiate completamente dimenticato; ma ci sono molte circostanze che mi fanno sospettarlo. Prima di tutto, quando ho iniziato il mio viaggio, volevo salutarvi; e, su vostra stessa invito, pensavo di trovarvi sicuramente a casa, ma ho scoperto che eravate andati ad L’Aia. Sono tornato a Voorburg, senza dubitare nemmeno per un momento che mi avreste almeno fatto visita durante il viaggio; invece voi, senza nemmeno salutare il vostro amico, siete tornati a casa. Ho aspettato per tre settimane, senza ricevere alcuna lettera da parte vostra. Se desiderate che io cambi questa opinione, potete facilmente farlo scrivendomi; e potete anche indicarmi un modo per riprendere la corrispondenza, come avevamo discusso una volta a casa vostra.
+
+Nel frattempo, vorrei chiedervi, anzi, vi supplico e vi prego, per il nostro [amicizia](/concepts/friendship), di dedicarvi a un lavoro serio e a uno studio approfondito, e di dedicare la maggior parte della vostra vita al cultivo della vostra intelligenza e della vostra anima. Ora, finché c’è ancora tempo, prima che vi lamentiate di averlo sprecato, o addirittura di aver perso voi stessi. Inoltre, affinché possiamo iniziare una corrispondenza regolare e perché abbiate il coraggio di scrivermi più liberamente, desidero che sappiate che da tempo ho pensato, anzi, sono quasi certo, che siate un po’ troppo scettici riguardo alle vostre capacità, e che temiate di sollevare domande o proporre idee indegne di una persona istruita. Non spetta a me lodarvi o esaltare i vostri talenti davanti a voi; ma se temete che io mostri le vostre lettere ad altri che potrebbero deridervi, vi do la mia parola d’onore: le custodirò con cura e non le mostrerò a nessuno senza il vostro permesso. A queste condizioni, potete iniziare una corrispondenza, a meno che non dubitiate della mia buona fede, cosa che assolutamente non credo. Voglio conoscere la vostra opinione su questo nel vostro primo messaggio; e potete anche inviarmi il conserva di rose rosse, anche se ora sto molto meglio.
+
+Dopo il mio viaggio, fui sottoposto a una trasfusione di sangue; tuttavia la febbre non cessò, anche se mi muovevo un po’ più attivamente rispetto a prima della trasfusione, probabilmente a causa del cambiamento d’aria. Fui costretto a letto due o tre volte a causa di crisi febbrili ricorrenti. Tuttavia, grazie a una dieta appropriata, sono riuscito infine a sconfiggere questa malattia e a farla “andare via”. Non so dove sia finita, ma faccio attenzione affinché non torni qui.
+
+Per quanto riguarda la terza parte della mia filosofia, ve la invierò presto, se desiderate esserne i diffusori o inviarla al nostro amico De Vries; e anche se avevo deciso di non inviare nulla finché non fosse stata completata, poiché richiede più tempo del previsto, non voglio farvi attendere. Vi invierò fino alla ottantesima proposizione, o giù di lì.
+
+Riguardo agli affari inglesi ne sento parlare molto, ma nulla di certo. La gente continua ad essere preoccupata e non vede alcun motivo per cui la flotta non debba essere inviata; tuttavia, sembra che la cosa non sia ancora stata messa in atto. Temo che i nostri governanti vogliano agire con troppa prudenza; ma gli eventi mostreranno quali siano le loro intenzioni e ciò che tenteranno di fare. Possano gli dei trasformare tutto in qualcosa di positivo. Vorrei sapere cosa pensa la nostra gente, dove ti trovi e cosa sai con certezza; ma soprattutto, vorrei che tu mi credessi.
+
+Benedetto da Spinoza
+
+10 giugno 1666
 
 Voorburg
 
@@ -1046,6 +2046,32 @@ Voorburg
 
 v. M.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[IN MERITO AL MEGLIO [METODO](/axes/method), attraverso il quale possiamo giungere con sicurezza alla conoscenza delle cose.]
+
+Nobile e carissimo Signore, mio amico più prezioso, —
+
+Non sono ancora riuscito a rispondere alla tua ultima lettera, ricevuta qualche tempo fa. Sono stato troppo ostacolato da varie occupazioni e impegni che mi hanno assorbito completamente il tempo; tuttavia, poiché ora ho un po’ di tempo libero, non voglio trascurare il mio dovere e approfitto di questa opportunità per ringraziarti sinceramente per l’affetto e la gentilezza che hai sempre dimostrato nei miei confronti, sia attraverso le tue azioni che, ora ancora, attraverso questa lettera.
+
+Passo ora alla vostra domanda, che è la seguente: “Esiste, o può esistere, qualche metodo con il quale possiamo, senza ostacoli, giungere alla conoscenza delle cose più eccellenti? Oppure i nostri pensieri, come i nostri corpi, sono soggetti alle vicissitudini delle circostanze, in modo che siano guidati piuttosto dalla fortuna che dall’abilità?” Credo di potervi soddisfare se dimostro che deve necessariamente esistere un metodo che ci permetta di orientare le nostre percezioni chiare e distinte, e che la nostra mente non sia, come il nostro corpo, soggetta alle variazioni delle circostanze.
+
+Questa conclusione può basarsi semplicemente sul fatto che una percezione chiara e distinta, o più percezioni del genere insieme, possono essere assolutamente la causa di un’altra percezione chiara e distinta. Ora, tutte le percezioni chiare e distinte che formiamo possono sorgere soltanto da altre percezioni chiare e distinte presenti in noi; inoltre, esse non riconoscono alcuna causa esterna a noi. Pertanto, si deduce che le percezioni chiare e distinte che formiamo dipendono esclusivamente dalla nostra natura e dalle sue leggi certe e fisse; in altre parole, dal nostro potere assoluto, e non dalla fortuna – cioè da cause che, sebbene agiscano anch’esse secondo leggi certe e fisse, ci sono tuttavia sconosciute e estranee alla nostra natura e al nostro potere. Per quanto riguarda le altre percezioni, confesso che queste dipendono principalmente dalla fortuna. Da ciò emerge chiaramente quale dovrebbe essere il vero metodo di conoscenza: esso consiste esclusivamente nella comprensione della natura e delle leggi dell’intelletto puro. Affinché tale conoscenza possa essere acquisita, è innanzitutto necessario distinguere tra l’intelletto e l’immaginazione, ovvero tra idee vere e altre di tipo fittizio, false, dubbiose, o comunque dipendenti esclusivamente dalla [memoria](/concepts/memory). Per comprendere queste questioni, non è necessario conoscere la natura dell’anima attraverso la sua causa primaria; basta invece ricostruire brevemente la storia delle percezioni, nel modo insegnato da Verulam.
+
+Credo che con queste poche parole abbia spiegato e dimostrato il vero metodo, indicando al contempo la strada per ottenerlo. Resta soltanto ricordarvi che tutte queste questioni richiedono uno studio assiduo, nonché una grande fermezza di volontà e di intenti. Per soddisfare tali requisiti, è di fondamentale importanza seguire un determinato [stile](/concepts/mode) di vita e un piano preciso, fissando obiettivi chiari. Ma per ora basta così.
+
+Voorburg,
+
+10 giugno 1666.
+
+Benedetto da Spinoza
+
+1 ottobre 1666
+
+Voorburg
+
+v. M.
+
 <span class="atom-split" data-atom="048" data-title="LETTER XLIII. Spinoza to I. v. M." data-chapter="LETTER XLIII. Spinoza to I. v. M." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA SOLVES FOR his friend an arithmetical problem connected with games of [chance](/concepts/fortune). (Voorburg, Oct. 1, 1666.)]
@@ -1060,13 +2086,35 @@ LETTERS XLIV., XLV., XLVI. (XXXIX., XL., XLI.)
 
 Spinoza to I. I.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza risolve per suo amico un problema matematico legato ai giochi di [caso](/concepts/fortune). (Voorburg, 1 ottobre 1666.)]
+
+Tralasciato.
+
+Benedetto da Spinoza
+
+Jarig Jellis
+
+Lettere XLIV, XLV, XLVI. (XXXIX, XL, XLI).
+
+Spinoza a I. I.
+
 <span class="atom-split" data-atom="049" data-title="XLIV." data-chapter="XLIV." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [REMARKS ON DESCARTES’ treatise on Optics.]
 
+<span class="qlang-split" data-lang="it"></span>
+
+[NOTE SUL TRATTATO DI OTTICA DI CARTESIO.]
+
 <span class="atom-split" data-atom="050" data-title="XLV." data-chapter="XLV." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [Remarks on some alchemistic experiments, on the third and fourth meditations of Descartes, and on Optics.]
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Note su alcuni esperimenti alchimistici, sulle terza e quarta meditazioni di Cartesio e sull’ottica.]
 
 <span class="atom-split" data-atom="051" data-title="XLVI." data-chapter="XLVI." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -1077,6 +2125,18 @@ Benedict de Spinoza
 17 Feb., 1671
 
 The Hague
+
+Jarig Jellis
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Note sulla idrostatica.]
+
+Benedetto da Spinoza
+
+17 febbraio 1671
+
+La Haye
 
 Jarig Jellis
 
@@ -1106,6 +2166,32 @@ Isaac Orobio
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza chiede al suo amico di interrompere la stampa della versione olandese del “Trattato Teologico-Politico”. Alcuni commenti su un pernicioso pamphlet intitolato “Homo Politicus”, nonché su Talete di Mileto.]
+
+Nobile signore, con la massima cortesia.
+
+Quando il professor N. N. mi ha visitato l’altro giorno, mi ha detto che il mio “Trattato Teologico-Politico” era stato tradotto in olandese e che qualcuno, di cui non conosceva il nome, stava per stamparlo. A questo proposito, vi prego sinceramente di indagare attentamente sulla questione e, se possibile, di impedire la pubblicazione del libro. Questa è una richiesta non solo mia, ma anche di molti dei miei amici e conoscenti, i quali sarebbero molto dispiaciuti se il libro venisse vietato alla circolazione, come sicuramente accadrebbe se fosse pubblicato in olandese. Non dubito affatto che mi renderete questo favore, nonché a questa causa.
+
+Di recente uno dei miei amici mi ha inviato un opuscolo intitolato “Homo Politicus”, di cui avevo sentito molto parlare. L’ho letto e lo ritengo l’opera più perniciosa che gli esseri umani possano concepire o inventare. Per l’autore, il rango sociale e la ricchezza rappresentano il bene supremo; pertanto adatta le proprie dottrine in modo da favorire l’acquisizione di tali beni, indicando come farlo: rifiutando interiormente qualsiasi forma di religione e professando esteriormente ciò che più conviene al proprio interesse personale; inoltre, non mantenendo alcuna promessa se non nel caso in cui ciò possa essere vantaggioso per lui stesso. Fingere, fare promesse e poi romperle, mentire, giurare falsamente, tutte queste pratiche vengono da lui lodate come meritevoli di encomio. Dopo aver finito di leggere il libro, ho riflettuto se scrivere un altro opuscolo che, in modo indiretto, prendesse di mira l’autore stesso, analizzando il vero significato del bene supremo e mostrando la condizione disperata e miserabile di coloro che bramano rango sociale e ricchezza; dimostrando, attraverso ragionamenti chiari ed esempi concreti, che un desiderio insaziabile di tali beni porta inevitabilmente alla rovina degli stati.
+
+Quanto siano migliori e più eccellenti delle dottrine del suddetto autore le riflessioni di Talete di Mileto, emerge dal seguente esempio: “Tutti i beni degli amici sono in comune”, afferma Talete; “gli uomini saggi sono gli amici degli dei, e tutte le cose appartengono agli dei; pertanto tutte le cose appartengono agli saggi”. Così, con una sola frase, questo uomo il più saggio di tutti si considera il più ricco, non perché desideri avidamente la ricchezza, ma perché la disprezza nobilmente. In altri passaggi dimostra che gli saggi sono privi di ricchezze, non per necessità, ma per scelta: quando i suoi amici lo rimproverarono per la sua povertà, rispose: “Volete forse che vi mostri come potrei ottenere ciò che ritengo indegno del mio [sforzo](/concepts/labour), mentre voi lo cercate con tanta diligenza?”. Quando loro annuirono, noleggiò tutte le pressioni per l’olio della Grecia intera (essendo un astrologo rinomato, sapeva che la raccolta delle olive sarebbe stata abbondante, proprio come negli anni precedenti era stata scarsa), e subaffittò ciò che aveva noleggiato a suo piacimento, guadagnando così in un solo anno una grande fortuna, che distribuì generosamente, poiché l’aveva ottenuta con impegno e diligenza.
+
+La Haye,
+
+17 febbraio 1671.
+
+Lambert de Velthuysen
+
+24 gennaio 1671
+
+Utrecht
+
+Isaac Orobio
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="053" data-title="LETTER XLVIII." data-chapter="LETTER XLVIII." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 WRITTEN BY A physician, Lambert de Velthuysen, to Isaac Orobio, and forwarded by the latter to Spinoza. It contains a detailed attack on the Tractatus Theologico-Politicus. Its tenor may be sufficiently seen from Spinoza’s reply. (Written at Utrecht, January 24th, 1671.) Velthuysen afterwards became more friendly to Spinoza, as appears from Letter LXXV.
@@ -1115,6 +2201,18 @@ Benedict de Spinoza
 1671
 
 The Hague
+
+Isaac Orobio
+
+<span class="qlang-split" data-lang="it"></span>
+
+Scritto da un medico, Lambert de Velthuysen, a Isaac Orobio e successivamente inoltrato da quest’ultimo a Spinoza, il testo contiene un attacco dettagliato al “Trattato Teologico-Politico”. Il suo tenore è chiaramente evidente dalla risposta di Spinoza. (Scritto a Utrecht, 24 gennaio 1671.) In seguito, Velthuysen divenne più favorevole verso Spinoza, come si evince dalla Lettera LXXV.
+
+Benedetto da Spinoza
+
+1671
+
+La Haye
 
 Isaac Orobio
 
@@ -1140,6 +2238,28 @@ Though I think I have said enough to prove what I intended, I have yet thought i
 
 Again, I cannot see why he says, that all will adopt my opinions, who deny that reason and philosophy should be the interpreters of [Scripture](/concepts/revelation); I have refuted the doctrine of such persons, together with that of Maimonides.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Difesa del “Trattato Teologico-Politico”. (L’Aia, 1671.)]
+
+Nobile e stimato signore, —
+
+Senza dubbio vi chiedete perché vi ho fatto attendere così a lungo. Mi è stato davvero difficile decidere di rispondere al pamphlet di quella persona che avete ritenuto opportuno inviarmi; in realtà lo faccio soltanto per mantenere la mia promessa. Tuttavia, nel tentativo di rispettare al massimo i miei sentimenti, manterrò la mia parola usando il minor numero possibile di parole e illustrerò brevemente in che modo distorto abbia interpretato il mio messaggio; se sia per malizia o per ignoranza, non posso dirlo con certezza. Ma torniamo al punto principale.
+
+Innanzitutto afferma: “Non ha alcuna importanza sapere a quale nazione appartengo o che tipo di vita conduco”. In effetti, se lo avesse saputo, non si sarebbe così facilmente convinto che io insegni l’[Ateismo](/positions/atheism). Infatti, gli atei sono soliti desiderare avidamente ricchezza e prestigio, cose che io ho sempre disprezzato, come sanno tutti coloro che mi conoscono. Inoltre, al fine di facilitarsi il cammino verso l’obiettivo che si prefigge, sostiene di “disporre di notevoli talenti”, così da poter convincere più facilmente i suoi lettori che io abbia deliberatamente e con astuzia sostenuto la causa dei deisti, allo scopo di screditarla. Questa affermazione dimostra chiaramente che non ha compreso le mie ragioni. Chi potrebbe essere così astuto da avanzare, sotto false pretese, tante argomentazioni valide a sostegno di una dottrina in cui non crede? Chi può fingere di essere uno scrittore onesto agli occhi di qualcuno che ritiene possibile difendere con la stessa logica sia le menzogne che la verità? Ma, in fondo, non mi sorprende. Anche Cartesio fu un tempo ingannato allo stesso modo da Voët, e gli scrittori più onorabili vengono spesso trattati in questo modo.
+
+Prosegue dicendo: “Per evitare il rimprovero della superstizione, a mio parere egli ha abbandonato completamente ogni forma di religione.” Non so cosa questo autore intenda per religione e cosa per superstizione. Ma mi chiedo: un uomo che sostiene che Dio debba essere riconosciuto come il bene supremo e quindi amato con un cuore libero, che considera la virtù stessa come ricompensa della virtù e l’errore e la debolezza come punizione dell’errore e della debolezza, che afferma che ogni uomo debba amare il proprio prossimo e obbedire ai comandi del potere supremo, un tale uomo abbandona davvero tutta la religione? Ho non solo enunciato esplicitamente queste dottrine, ma le ho anche dimostrate attraverso ragionamenti molto solidi. Tuttavia credo di aver capito in quale errore si imbatte questo autore: egli non trova nulla nella virtù e nella ragione che possa soddisfarlo, preferendo vivere secondo i propri desideri, se non fosse per la paura della punizione. Si astiene dagli atti malvagi e obbedisce ai comandi divini come uno schiavo, con riluttanza e esitazione, aspettandosi in cambio ricompense molto più piacevoli dell’amore divino. Ma questo è un altro discorso. Ora passo alla conclusione a cui egli vuole arrivare: che “con argomentazioni nascoste e mascherate io insegni l’ateismo”. La base del suo ragionamento è che crede io tolga a Dio la libertà, sottoponendolo al destino. Questo è assolutamente falso. Ho sempre sostenuto che tutte le cose derivino necessariamente dalla natura di Dio, proprio come tutti riconoscono che Dio comprende se stesso: nessuno nega che questa conseguenza derivi necessariamente dalla sua natura divina, ma nessuno pensa che Dio sia vincolato da alcun destino; credono infatti che Egli comprenda se stesso con totale libertà. Anche se in modo necessario. Non vedo nulla in tutto ciò che non possa essere compreso da chiunque. Se tuttavia il mio avversario ritiene che questi argomenti siano avanzati con cattive intenzioni, cosa pensa allora di Cartesio stesso, che affermava che nulla di ciò che facciamo avviene senza che Dio lo abbia preordinato, anzi, che noi veniamo continuamente “creati” da Dio in ogni momento, pur agendo comunque secondo la nostra [libera volontà](/positions/free_will)? Come Cartesio stesso ammetteva, nessuno può comprendere davvero questo.
+
+Inoltre, questa inevitabile necessità che caratterizza le cose non distrugge né le leggi divine né quelle umane. Poiché i principi morali, indipendentemente dal fatto che abbiano ricevuto da Dio la forma di leggi o meno, sono comunque divini e salutari. Che accettiamo il bene, che deriva dalla virtù e dall’amore divino, come qualcosa concesso da Dio in qualità di giudice, oppure come qualcosa che scaturisce dalla necessità della natura divina, in entrambi i casi esso merita ugualmente di essere desiderato; allo stesso modo, i mali derivanti dalle azioni malvagie meritano ugualmente di essere temuti, poiché sono inevitabili. Infine, che agiamo per necessità o per libera scelta, in entrambi i casi siamo guidati dalla speranza e dalla paura. Pertanto, l’affermazione secondo cui “non vi sia più spazio per precetti e comandi” è falsa; altrettanto falsa è l’idea che “non ci siano aspettative di ricompensa o punizione, poiché tutte le cose sono attribuite al destino e derivano inevitabilmente da Dio”.
+
+Non mi chiedo qui perché sia lo stesso, o quasi lo stesso, affermare che tutte le cose derivino necessariamente da Dio e affermare che Dio sia onnipresente; voglio soltanto che osserviate l’allusione maliziosa che egli aggiunge: “che desidero che gli uomini pratichino la virtù non a causa dei precetti e della legge di Dio, né nella speranza di una ricompensa o per paura di una punizione, ma, ” Una tale opinione certamente non si trova da nessuna parte nel mio trattato: al contrario, ho dichiarato esplicitamente nel Capitolo IV che il nucleo fondamentale della [legge divina](/concepts/divine_law) (che, come ho detto nel Capitolo II, è stata divinamente incisa nei nostri cuori) e il suo precetto principale consistono nell’amare Dio come nel bene supremo. Non certo per paura di alcuna punizione, poiché l’[amore](/concepts/charity) non può nascere dalla paura; né per amore di qualcosa che desideriamo soltanto per nostro piacere personale, poiché in tal caso ameremmo non Dio, ma l’oggetto del nostro desiderio.
+
+Nello stesso capitolo ho dimostrato che Dio rivelò questa legge ai profeti; pertanto, sia che essa abbia ricevuto da Dio la forma di un comando, sia che la consideriamo simile agli altri decreti divini, caratterizzati da necessità eterna e verità assoluta, in entrambi i casi rimarrà comunque un decreto divino e un principio salutare. Che io ami Dio liberamente, o che lo ami per necessità del decreto divino, in ogni caso lo amerò e sarò in uno stato di salvezza. Pertanto, posso ora dichiarare apertamente che questa persona appartiene a quella categoria di persone di cui ho detto, alla fine della mia prefazione, che preferirei che ignorassero del tutto il mio libro, piuttosto che che, interpretandolo in modo errato secondo le loro abitudini, diventassero ostili e ostacolassero gli altri senza trarne alcun beneficio per sé.
+
+Anche se credo di aver detto abbastanza per dimostrare ciò che intendevo, ho ritenuto comunque opportuno aggiungere alcune osservazioni: innanzitutto, questa persona si sbaglia nel pensare che io abbia in mente l’axioma dei teologi, che stabilisce una distinzione tra le parole di un profeta quando enuncia dottrine e le stesse parole dello stesso profeta quando racconta un evento. Se con tale axioma intende ciò che ho attribuito in Capitolo XV a un certo R. Jehuda Alpakhar, come potrebbe pensare che io sia d’accordo con esso, se proprio in quel capitolo lo ho rifiutato come falso? Se non intende questo, confesso di essere ancora all’oscuro di ciò che effettivamente intenda, e quindi non potevo certo averlo in mente.
+
+Ancora una volta, non riesco a capire perché sostenga che tutti coloro che negano che la ragione e la filosofia debbano essere gli interpreti della [Scrittura](/concepts/revelation) adotteranno le mie opinioni; ho confutato la dottrina di queste persone, così come quella di Maimonide.
+
 <span class="atom-split" data-atom="055" data-title="LETTER XLIX. Spinoza to Isaac Orobio. (parte 2)" data-chapter="LETTER XLIX. Spinoza to Isaac Orobio." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 It would take too long to review all the indications he gives of not having judged me altogether calmly. I therefore pass on to his conclusion, where he says, “that I have no arguments left to prove, that Mahomet was not a true prophet.” This he endeavours to show from my opinions, whereas from them it clearly follows, that Mahomet was an impostor, inasmuch as he utterly forbids that freedom, which the Catholic religion revealed by our natural faculties and by the prophets grants, and which I have shown should be granted in its completeness. Even if this were not so, am I, I should like to know, bound to show that any prophet is false? Surely the burden lies with the prophets, to prove that they are true. But if he retorts, that Mahomet also taught the [divine law](/concepts/divine_law), and gave certain signs of his mission, as the rest of the prophets did, there is surely no reason why he should deny, that Mahomet also was a true prophet.
@@ -1155,6 +2275,24 @@ Benedict de Spinoza
 2 June, 1674
 
 The Hague
+
+Jarig Jellis
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sarebbe troppo lungo esaminare tutte le indicazioni che fornisce per dimostrare di non avermi giudicato con totale calma; pertanto passo direttamente alla sua conclusione, nella quale afferma: “Non mi rimangono argomenti per dimostrare che Maometto non fosse un vero profeta”. Cerca di dimostrarlo attraverso le mie opinioni, ma da esse risulta chiaramente che Maometto era un impostore, poiché proibiva completamente quella libertà che la religione cattolica, attraverso le nostre facoltà naturali e i profeti, concede; inoltre, ho dimostrato che tale libertà debba essere concessa nella sua interezza. Anche se non fosse così, sono forse obbligato a dimostrare che qualsiasi profeta sia falso? Certamente è compito dei profeti provare di essere veri. Ma se lui ribatte dicendo che anche Maometto insegnò la [legge divina](/concepts/divine_law) e fornì certi segni della sua missione, come fecero gli altri profeti, non c’è certo motivo per negare che anche Maometto fosse un vero profeta.
+
+Per quanto riguarda i Turchi e altre nazioni non cristiane, se essi [adorano](/concepts/religion) Dio praticando la giustizia e la [carità](/concepts/charity) verso il loro prossimo, credo che possedano lo spirito di Cristo e si trovino in uno stato di salvezza, indipendentemente da ciò che ignorantemente possano credere riguardo a Maometto e agli oracoli.
+
+Ecco dunque, mio caro amico, fino a che punto quest’uomo si è allontanato dalla verità; tuttavia devo riconoscere che ha inflitto il più grave danno non a me, ma a se stesso, poiché non si è vergognato di dichiarare che “con argomentazioni mascherate e subdole insegno l’[ateismo](/positions/atheism)”.
+
+Non credo che troverete alcuna delle espressioni che ho utilizzato contro quest’uomo particolarmente dure. Tuttavia, se ce ne fosse qualcuna che vi offenda, vi prego di correggerla come riterrete opportuno. Non ho alcuna intenzione di irritarlo, chiunque egli sia, né di suscitare nemici contro di me attraverso le mie azioni; poiché spesso è proprio questo il risultato di dispute del genere, faticavo a convincermi a rispondere. E probabilmente non lo avrei fatto, se non avessi promesso di farlo. Addio. Affido questa lettera, e me stesso, alla vostra prudenza.
+
+Benedetto da Spinoza
+
+2 giugno 1674
+
+La Haye
 
 Jarig Jellis
 
@@ -1184,6 +2322,32 @@ Frankfort
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Sulla differenza tra le teorie politiche di [Hobbes](/figures/hobbes) e Spinoza, sull’Unità di Dio, sul concetto di “figura”, nonché sul libro di un professore di Utrecht in opposizione al “Tractatus Theologico-Politicus”.]
+
+Nobile signore, con la massima cortesia.
+
+Per quanto riguarda le teorie politiche, la differenza tra Hobbes e me consiste nel fatto che io mantengo sempre intatto il [DIRITTO NATURALE](/positions/natural_right), assegnando ai capi di Stato soltanto un potere sui loro sudditi proporzionato all’eccesso del loro potere rispetto a quello dei sudditi stessi. È proprio ciò che avviene sempre nel [STATO DI NATURA](/arguments/state_of_nature).
+
+Riguardo ancora alla dimostrazione che presento nell’appendice alla mia esposizione geometrica dei principi cartesiani, ovvero che Dio può essere chiamato “uno” o “singolo” soltanto in modo assai improprio, rispondo che una cosa può essere definita “una” o “singola” soltanto in relazione all’esistenza, non in relazione all’essenza. Infatti, non concepiamo le cose nella categoria dei numeri se prima non le abbiamo ridotte a un genere comune. Ad esempio, colui che tiene in mano una moneta da un penny e una moneta da una corona non penserà a esse come a due elementi di un insieme numerico, a meno che non possa chiamarle entrambe con lo stesso nome, cioè “monete”. In questo caso potrà dire di avere in mano due monete, poiché definisce sia la moneta da un penny che quella da una corona come “monete”. È quindi evidente che una cosa non può essere definita “una” o “singola” se prima non viene concepita un’altra cosa che concordi con essa. Ora, poiché l’esistenza di Dio è la sua essenza stessa, e della sua essenza non possiamo formare alcuna idea generale, è certo che colui che chiama Dio “uno” o “singolo” non ha una vera concezione di Dio e parla di Lui in modo assai improprio.
+
+Per quanto riguarda la dottrina secondo cui la “figura” è negazione e non qualcosa di positivo, è evidente che l’intera materia, considerata in modo indefinito, non può possedere alcuna “figura”; tale concetto può esistere soltanto in corpi finiti e determinati. Chi afferma di percepire una “figura” indica semplicemente di concepire qualcosa di determinato, e di comprendere in che modo tale determinazione si manifesti. Questa determinazione, pertanto, non riguarda l’essenza stessa della cosa, ma, al contrario, rappresenta proprio il suo “non-essere”. Poiché la “figura” non è altro che una forma di determinazione, e la determinazione stessa è negazione, ne consegue che anche la “figura”, come già detto, non può essere altro che negazione.
+
+Il libro, scritto da un professore di Utrecht contro il mio e pubblicato dopo la sua morte, lo vidi esposto nella vetrina di una libreria. Dalle poche pagine che lessi allora, giudicai che non meritasse nemmeno di essere letto, figuriamoci di essere risposto. Pertanto lasciai sia il libro che il suo autore. Con un sorriso interiore riflettei che gli ignoranti sono spesso i più audaci e i più pronti a pubblicare qualsiasi cosa. I cristiani, a mio parere, espongono le loro “merci” in vendita come mercanti ambulanti, che mostrano sempre prima ciò che è peggiore. Si dice che il diavolo sia molto astuto, ma secondo me le astuzie di queste persone superano di gran lunga la sua. Addio.
+
+La Haye,
+
+2 giugno 1674.
+
+Gottfried Leibniz
+
+5 ottobre 1671
+
+Frankfort
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="057" data-title="LETTER LI. Godfrey Leibnitz to Spinoza." data-chapter="LETTER LI. Godfrey Leibnitz to Spinoza." data-kind="atom" data-srclang="en" data-tags="figures/leibniz,figures/spinoza,forms/epistle"></span>
 
 DISTINGUISHED SIR, —
@@ -1211,6 +2375,34 @@ Benedict de Spinoza
 The Hague
 
 Godfrey Leibnitz
+
+<span class="qlang-split" data-lang="it"></span>
+
+Onorevole Signore, —
+
+Tra i vostri altri meriti diffusi in tutto il mondo grazie alla fama, so che possedete notevoli competenze in ottica. Per questo motivo ho voluto inviarvi il mio saggio, così com’è, poiché difficilmente troverò un critico più qualificato in questa branca dello studio. Il lavoro che vi invio, intitolato “Nota sull’ottica avanzata”, è stato pubblicato al fine di rendere più facilmente note le mie idee ai miei amici e a coloro che sono interessati a tali argomenti. Ho sentito dire che * * * * * sia molto competente in questo campo; senza dubbio lo conoscete bene. Se riusciste ad ottenere il suo parere e la sua gentile attenzione, aumentereste notevolmente il mio debito verso di voi. Il saggio stesso spiega chiaramente il suo contenuto.
+
+Credo che abbiate già ricevuto il “Prodromo” di Francesco Lana gesuita, scritto in italiano; contiene alcune osservazioni notevoli sull’ottica. Anche Giovanni Oltius, un giovane svizzero molto erudito in queste materie, ha pubblicato “Riflessioni fisico-mecaniche sulla visione”; in esso annuncia l’invenzione di una macchina per la lucidatura di ogni tipo di vetro, molto semplice e universalmente applicabile, e dichiara inoltre di aver scoperto un metodo per raccogliere tutti i raggi provenienti da diversi punti di un oggetto, al fine di ottenere un numero uguale di punti corrispondenti, ma soltanto sotto condizioni specifiche riguardanti la distanza e la forma dell’oggetto stesso.
+
+La mia proposta non consiste nel raccogliere e riorganizzare i raggi provenienti da tutti i punti (ciò è impossibile, al momento attuale, per qualsiasi oggetto o distanza, data la nostra conoscenza attuale); l’obiettivo che mi prefiggo è quello di raccogliere in modo equo i raggi sia provenienti dai punti al di fuori dell’asse ottico che da quelli situati all’interno di esso, in modo che le lenti degli occhiali possano avere qualsiasi dimensione desiderata senza compromettere la chiarezza della visione. Tuttavia, tutto ciò deve essere valutato secondo il vostro giudizio esperto. Addio, e credetemi, onorato Signore: il vostro fedele servitore.
+
+Godfrey Leibniz,
+
+J. U. D., Consigliere dell’Elettore di Magonza.
+
+Frankfort,
+
+5 ottobre 1671
+
+(nuovo stile).
+
+Benedetto da Spinoza
+
+9 novembre 1671
+
+La Haye
+
+Gottfried Leibniz
 
 <span class="atom-split" data-atom="058" data-title="LETTER LII. Spinoza to Leibnitz." data-chapter="LETTER LII. Spinoza to Leibnitz." data-kind="atom" data-srclang="en" data-tags="concepts/idea,figures/spinoza,figures/leibniz,forms/epistle"></span>
 
@@ -1240,6 +2432,34 @@ Heidelberg
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[RISPOSTA Alla precedente lettera].
+
+Nobile e stimato signore, —
+
+Ho letto il documento che si è preso la gentilezza di inviarmi e vi ringrazio molto per questa comunicazione. Purtroppo non sono riuscito del tutto a comprendere il vostro punto di vista, anche se l’avete spiegato in modo sufficientemente chiaro. Vorrei sapere se ritenete che esista motivo per ridurre le dimensioni delle aperture degli occhiali, al di là del fatto che i raggi provenienti da un singolo punto non vengono concentrati con precisione in un altro punto specifico, ma su una piccola area che comunemente chiamiamo “punto meccanico”, e se questa area varia in proporzione alle dimensioni dell’apertura stessa. Inoltre, mi chiedo se le lenti che voi definite “pandochæ” riescano a correggere questo difetto, in modo che l’area su cui i raggi si concentrano dopo la rifrazione mantenga sempre le stesse dimensioni, indipendentemente dalle dimensioni dell’apertura. Se è così, si potrebbe aumentare l’apertura quanto si desidera; in tal caso queste lenti sarebbero di gran lunga superiori a quelle di qualsiasi altra forma conosciuta. Altrimenti, non capisco davvero perché le lodiate tanto più delle lenti comuni. Le lenti circolari, infatti, hanno sempre lo stesso asse; quindi, quando le utilizziamo, dobbiamo considerare tutti i punti di un oggetto come posizionati lungo quell’asse ottico. Anche se non tutti i punti dell’oggetto si trovano alla stessa distanza, la differenza derivante da ciò non sarà percepibile quando gli oggetti sono molto lontani, poiché in quel caso i raggi provenienti da un singolo punto verranno considerati paralleli al momento della loro entrata nella lente. Penso che le vostre lenti possano essere utili per ottenere una [rappresentazione](/concepts/idea) più chiara di tutti gli oggetti, soprattutto quando vogliamo includerne diversi in una sola immagine, come avviene nell’uso delle grandi lenti convesse circolari. Tuttavia preferirei rimandare il mio giudizio su questi dettagli, finché non mi avrete spiegato più chiaramente il vostro concetto. Come avete richiesto, ho inviato anche l’altra copia del vostro documento al signor ***; lui risponde di non avere attualmente tempo per studiarlo, ma spera di poterlo fare tra una o due settimane.
+
+Non ho ancora letto il “Prodromo” di Francis Lana, né le “Riflessioni Fisico-Mecaniche” di John Oltius. Ciò che mi dispiace maggiormente è che la tua “Ipotesi Fisica” non sia ancora arrivata nelle mie mani, e che qui ad L’Aia non ci sia alcuna copia in vendita. Pertanto, il dono che mi prometti con tanta generosità sarà per me di grande valore; se potessi esserti utile in qualche altro modo, troverai sempre me pronto ad aiutarti. Spero che non riterrai troppo fastidioso rispondere a questa breve nota.
+
+Onorato Signore, con ossequio,
+
+B. de Spinoza.
+
+La Haye,
+
+9 novembre 1671.
+
+P.S. Il signor Diemerbroech non vive qui; pertanto sono costretto a affidare questa lettera a un normale corriere. Spero che conosciate qualcuno all’Aia che possa occuparsi delle nostre lettere; mi piacerebbe conoscere il nome di tale persona, affinché la nostra corrispondenza possa essere gestita in modo più conveniente e sicuro. Se il “Trattato Teologico-Politico” non vi è ancora arrivato, ve ne invierò una copia, a meno che non abbiate obiezioni. Addio.
+
+Lewis Fabritius
+
+16 febbraio 1673
+
+Heidelberg
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="059" data-title="LETTER LIII. Fabritius to Spinoza." data-chapter="LETTER LIII. Fabritius to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [FABRITIUS, UNDER THE order and in the name of the Elector Palatine, offers Spinoza the post of Professor of Philosophy at Heidelberg, under very liberal conditions.]
@@ -1263,6 +2483,32 @@ Benedict de Spinoza
 The Hague
 
 30 March, 1673
+
+Lewis Fabritius
+
+<span class="qlang-split" data-lang="it"></span>
+
+[FABRITIUS, su ordine e in nome dell’Elettore del Palatinato, offre a Spinoza la cattedra di Professore di Filosofia all’Università di Heidelberg, con condizioni molto vantaggiose.]
+
+Nobile signore molto stimato, —
+
+Sua Altezza Serenissima l’Elettore Palatino, mio nobile padrone, mi ordina di scrivervi: voi che, per il momento, non mi siete noti, ma che siete considerati con grande favore da Sua Altezza Serenissima, desidera sapere se siete disposti ad accettare una cattedra ordinaria di Filosofia nella sua illustre università. Vi verrà corrisposta un’indennità annuale equivalente a quella goduta attualmente dai professori ordinari. Difficilmente troverete altrove un principe più favorevole verso i talenti eccezionali, tra cui vi considerate voi stesso. Disporrete della massima [libertà](/concepts/freedom) nell’insegnamento filosofico; il principe è certo che non ne abuserete per disturbare la religione ufficialmente stabilita. Non posso fare a meno di sostenere questo invito del principe. Pertanto vi supplico con grande insistenza di rispondere al più presto possibile e di inviare la vostra risposta, sotto sigillo, al residente di Sua Altezza Serenissima all’Aia, il signor Grotius, o al signor Gilles Van der Hele, affinché possa essere inclusa nel pacco di lettere solitamente inviato alla corte; in alternativa, potete utilizzare qualsiasi altro mezzo conveniente per trasmetterla. Aggiungo solo che, se verrete qui, condurrete una vita piacevole e degna di un filosofo, a meno che gli eventi non si svolgano del tutto contrari alle nostre aspettative e speranze. Addio.
+
+Rimango, illustre Signore, il Vostro devoto ammiratore.
+
+Lewis Fabritius.
+
+Professore all’Accademia di Heidelberg e consigliere dell’elettore del Palatinato.
+
+Heidelberg,
+
+16 febbraio 1673.
+
+Benedetto da Spinoza
+
+La Haye
+
+30 marzo 1673
 
 Lewis Fabritius
 
@@ -1290,6 +2536,30 @@ Hugo Boxel
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza ringrazia l’Elettore per la sua gentile offerta, ma, a causa della sua riluttanza ad insegnare in pubblico e di altre ragioni, chiede umilmente di essere concesso del tempo per rifletterci sopra.]
+
+Onorevole Signore, —
+
+Se mai avessi desiderato ottenere una cattedra in qualsiasi facoltà, non avrei potuto sperare in nulla di diverso da ciò che mi viene offerto attraverso voi, da Sua Altezza Serenissima l’Elettore Palatino; soprattutto per quella libertà nell’insegnamento filosofico che il nobile principe si compiace di concedermi. Per non parlare del desiderio che ho da tempo di vivere sotto la guida di un sovrano ammirato da tutti per la sua saggezza.
+
+Ma poiché non è mai stato mio desiderio insegnare in pubblico, non sono riuscito a convincermi ad accettare questa splendida opportunità, anche se ne ho lungamente discusso. Penso, innanzitutto, che dovrei abbandonare la ricerca filosofica se acconsentissi a dedicare del tempo all’insegnamento di giovani studenti. In secondo luogo, non conosco quali siano i limiti entro cui potrebbe essere circoscritta la libertà della mia attività didattica filosofica, se voglio evitare qualsiasi apparenza di turbare la religione ufficialmente riconosciuta. Le controversie religiose non derivano tanto da un fervente zelo per la religione, quanto dalle diverse inclinazioni umane e dall’amore per il contrasto, che spinge le persone a distorcere e condannare sistematicamente qualsiasi cosa venga detta, anche se in modo corretto. Ho sperimentato questi effetti nella mia vita privata e isolata; quanto più dovrei temerli ora che sono stato elevato a questa onorifica posizione?
+
+Come potete vedere, onorevole Signore, non mi trattengo nella speranza di ottenere qualcosa di meglio, ma per il mio [amore](/concepts/charity) per la tranquillità, che credo possa essere in parte garantita se evito di tenere lezioni pubbliche. Pertanto vi supplico con tutto il cuore di chiedere all’Elettore Serenissimo che mi venga concesso il tempo necessario per riflettere ulteriormente su questa questione, e vi prego anche di intercedere affinché il nobile principe conceda la sua benevolenza al suo più devoto ammiratore, aumentando così i doveri del vostro sincero amico.
+
+B. de. S.
+
+La Haye,
+
+30 marzo 1673.
+
+Ugo Boxel
+
+14 settembre 1674
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="061" data-title="LETTER LV. Hugo Boxel to Spinoza." data-chapter="LETTER LV. Hugo Boxel to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [A FRIEND ASKS Spinoza’s opinion about Ghosts.]
@@ -1310,6 +2580,26 @@ The Hague
 
 Hugo Boxel
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Un amico chiede l’opinione di Spinoza sui fantasmi.]
+
+Onorevole Signore, —
+
+Il motivo per cui vi scrivo è che desidero conoscere la vostra opinione riguardo alle apparizioni, ai fantasmi e agli spettri; se ammettete la loro esistenza, cosa ne pensate e quanto dura la loro “vita”? Alcuni ritengono che siano mortali, altri immortali. Poiché non so con certezza se riconosciate la loro esistenza, non proseguirò oltre in questa discussione.
+
+Nel frattempo, è certo che gli antichi credevano nella loro esistenza. I teologi e i filosofi di oggi sono concordi sull’esistenza di alcune creature di questo tipo, anche se non si accordano sulla natura della loro essenza: alcuni affermano che siano composte da materia molto sottile e subtile, altri che siano spirituali. Ma, come dicevo prima, siamo completamente in disaccordo, poiché dubito che voi riconoscereste la loro esistenza; tuttavia, come sicuramente sapete, nell’antichità si trovano moltissimi esempi e racconti a loro riguardo, tanto che sarebbe davvero difficile negarli o dubitarne. È evidente che, anche se ammettete la loro esistenza, non credete che alcune di esse siano le anime dei morti, come sostengono i difensori della fede romana. Concludo qui e non dirò nulla riguardo alla guerra e ai pettegolezzi, poiché il nostro destino ci ha condotti in un’epoca. Addio.
+
+14 settembre 1674.
+
+Benedetto da Spinoza
+
+16 settembre 1674
+
+La Haye
+
+Ugo Boxel
+
 <span class="atom-split" data-atom="062" data-title="LETTER LVI. Spinoza to Hugo Boxel." data-chapter="LETTER LVI. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA ANSWERS THAT he does not know what ghosts are, and can gain no information from antiquity. (The Hague, Sept., 1674.)]
@@ -1327,6 +2617,24 @@ Hugo Boxel
 21 Sept., 1674
 
 Benedict de Spinoza
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza risponde che non sa cosa siano i fantasmi e che non può ottenere alcuna informazione sull’argomento dall’antichità. (L’Aia, settembre 1674.)]
+
+Caro Signore, —
+
+La tua lettera, che ho ricevuto ieri, è stata per me molto gradita: da un lato, volevo sentire notizie tue, e dall’altro, dimostra che non mi hai del tutto dimenticato. Anche se alcuni potrebbero considerare un cattivo presagio il fatto che siano stati gli “spiriti” a spingerti a scrivermi, io, al contrario, vedo in questa circostanza un significato più profondo: capisco che non solo le verità, ma anche cose banali o immaginarie possono rivelarsi utili per me.
+
+Tuttavia, lasciamo da parte la questione se gli spettri siano illusioni o immaginari: vedo infatti che non solo il loro negazionismo, ma anche il semplice dubbio al riguardo vi sembrano assai strani, soprattutto a chi è stato convinto dalle numerose storie raccontate sia dagli uomini di oggi che dagli antichi. L’immensa stima e rispetto che ho sempre nutrito per voi non mi permettono di contraddirvi, né tantomeno di accontentarvi. Il compromesso che adotterò sarà quindi chiedervi di selezionare, tra le numerose storie che avete letto, una o due di quelle meno suscettibili di dubbi e che dimostrino in modo più chiaro l’esistenza degli spettri. A dire il vero, non ho mai letto un autore attendibile che abbia dimostrato con certezza l’esistenza di tali fenomeni; fino ad oggi non so cosa siano esattamente, e nessuno è mai riuscito a spiegarmelo. Eppure è evidente che, in merito a qualcosa che viene chiaramente dimostrato dall’esperienza, dovremmo essere in grado di comprenderne la natura; altrimenti avremmo grandi difficoltà nel dedurre dalle storie l’esistenza degli spettri. Quello che possiamo concludere è soltanto che esiste qualcosa di natura sconosciuta. Se i filosofi preferiscono chiamare “spettri” quelle cose che non conosciamo, non negherò l’esistenza di tali entità, poiché esiste un’[infinità](/concepts/infinity) di cose che non riesco a comprendere.
+
+Per favore, ditemi, mio caro Signore, prima che io continui a spiegarmi in merito: cosa sono questi fantasmi o spettri? Sono bambini, sciocchi o pazzi? Perché tutto ciò che ho sentito su di loro sembra più adatto ai comportamenti dei bambini o degli sciocchi che a quelli delle persone sagge. Prima di concludere, vorrei farvi riflettere su un punto: il desiderio che la maggior parte delle persone ha di raccontare gli eventi non così come sono realmente accaduti, ma come avrebbero voluto che accadessero, può essere spiegato più facilmente attraverso storie di fantasmi e spettri che attraverso qualsiasi altro tipo di narrazione. Il motivo principale, credo, sia che queste storie vengono raccontate soltanto dai loro autori; quindi chi le inventa può aggiungere o omettere particolari a seconda delle sue esigenze, senza rischiare di essere contraddetto. Le compone in base a circostanze specifiche: per giustificare la paura che prova nei confronti dei sogni e dei fantasmi, oppure per rafforzare il proprio coraggio, la propria credibilità o le proprie opinioni. Ci sono altri motivi che mi fanno dubitare, se non delle storie stesse, almeno di alcune delle circostanze descritte in esse; e questi motivi hanno un legame diretto con la conclusione a cui cerchiamo di arrivare analizzando queste storie. Mi fermerò qui, fino a quando non avrò saputo da voi quali siano esattamente quelle storie che vi hanno convinto così completamente da farvi considerare ogni dubbio al riguardo assurdo.
+
+Ugo Boxel
+
+21 settembre 1674
+
+Benedetto da Spinoza
 
 <span class="atom-split" data-atom="063" data-title="LETTER LVII. Hugo Boxel to Spinoza." data-chapter="LETTER LVII. Hugo Boxel to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -1350,6 +2658,28 @@ Benedict de Spinoza
 
 Hugo Boxel
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nobile e sagace signore, —
+
+Mi avete inviato proprio la risposta che mi aspettavo di ricevere, da un amico il cui parere è opposto al mio. Ma non importa: gli amici possono sempre dissentire su argomenti indifferenti senza che ciò danneggi la loro [amicizia](/concepts/friendship).
+
+Mi chiedete, prima di esprimere un’opinione su ciò che siano questi spettri o spiriti, se si tratti di bambini, sciocchi o pazzi, e aggiungete che tutto ciò che avete sentito su di loro sembra derivare piuttosto dall’insano che dal sano. C’è un vero proverbio che dice: “Un’opinione preconcetta ostacola la ricerca della verità”.
+
+Credo quindi che gli spiriti esistano per i seguenti motivi: primo, perché è proprio della [bellezza](/concepts/beauty) e della perfezione dell’universo che essi esistano; secondo, perché è probabile che il Creatore li abbia creati, poiché sono più simili a Lui rispetto alle creature materiali; terzo, perché se il corpo esiste senza anima, anche l’anima esiste senza corpo; quarto e ultimo, perché credo che nell’aria alta, in quella regione dello spazio, non esista alcun corpo privo di abitanti; pertanto lo spazio immenso che ci separa dalle stelle non è vuoto, ma è popolato da esseri spirituali. Forse quelli più elevati e lontani sono veri spiriti, mentre quelli situati nelle regioni più basse dell’aria sono creature di sostanza molto sottile e invisibile. Credo quindi che esistano spiriti di ogni tipo, ma forse nessuno di sesso femminile.
+
+Questo ragionamento non convincerà affatto coloro che credono in modo avventato che il mondo sia stato creato per [caso](/concepts/fortune). L’esperienza quotidiana, se si ignorano tali argomentazioni, dimostra l’esistenza di spettri; inoltre, molte storie, sia nuove che antiche, ne parlano. Si possono trovare esempi in opere come il “De viris illustribus” di Plutarco e nelle altre sue scritture, così come nei “Vite dei Cesari” di Svetonio, nonché nei libri di Wierus e Lavater sulle apparizioni fantasma. Anche Cardano, celebre per la sua erudizione, ne parla nelle sue opere “De Subtilitate”, “De Varietate” e nella sua “Vita”, affermando che tali fenomeni gli sono apparsi personalmente, così come ai suoi parenti e amici. Melanctone, uomo saggio e amante della verità, testimonia anch’egli la propria esperienza in merito; lo fanno anche molti altri. Un certo sindaco, erudito e saggio, ancora in vita oggi, mi ha raccontato di aver sentito di notte il rumore tipico della produzione della birra nella cantina di sua madre, proprio come avviene durante la giornata; affermava che ciò fosse accaduto più volte. Anche a me è successa la stessa cosa, e questo ricordo non svanirà mai dalla mia [memoria](/concepts/memory). Pertanto, sulla base delle esperienze e dei ragionamenti sopra menzionati, sono convinto dell’esistenza degli spettri.
+
+Per quanto riguarda gli spiriti malvagi che tormentano gli uomini in questa e nell’altra vita e che praticano incantesimi, ritengo che le storie a loro relative siano solo favole. Nei trattati sugli spiriti si trovano moltissimi dettagli al riguardo; oltre a quelli che ho citato, si possono consultare Plinio il Giovane, VII libro, la lettera a Sura; Svetonio, “Vita di Giulio Cesare”, cap. xxxii; Valerio Massimo, I, VIII, §§ 7, 8; e Alessandro ab Alexandro, “Dies Geniales”. Sono certo che questi libri siano accessibili a voi. Non parlo dei monaci e dei preti, poiché raccontano così tante storie su anime e spiriti malvagi, o, per meglio dire, su spettri, che il lettore ne rimane sopraffatto dalla loro abbondanza. Anche Tiro, un gesuita, nel suo libro sulle apparizioni di spiriti tratta questo argomento; tuttavia questi ultimi lo fanno soltanto per scopi di lucro, per dimostrare che il purgatorio non è così terribile come si crede, trattando la questione come una miniera da cui estrarre ricchezze. Ma lo stesso non si può dire degli autori menzionati in precedenza e di altri moderni, i quali meritano maggiore credito per l’assenza di pregiudizi.
+
+In risposta al passaggio della tua lettera in cui parli di sciocchi e pazzi, aggiungo questa frase dello studioso Lavater, con la quale conclude il suo primo libro sui fantasmi e sugli spettri: “Chi è abbastanza audace da negare le testimonianze di così tanti testimoni, antichi e moderni, a mio parere non merita credito. Poiché attribuire ciecamente fiducia a chiunque affermi di aver visto un fantasma è segno di frivolezza; allo stesso modo, contraddire con leggerezza e senza riflettere le parole di tanti storici attendibili, Padri della Chiesa e altre autorità rispettabili rappresenterebbe una notevole mancanza di dignità.”
+
+21 settembre 1674
+
+Benedetto da Spinoza
+
+Ugo Boxel
+
 <span class="atom-split" data-atom="064" data-title="LETTER LVIII. Spinoza to Hugo Boxel. (parte 1)" data-chapter="LETTER LVIII. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA TREATS OF the necessary creation of the world — he refutes his friend’s arguments and quotations.]
@@ -1370,6 +2700,27 @@ Your fourth, and last reason, is the same as your first, and I refer you to my a
 
 Thus, passing by this argument and what remains, I conclude, that these and similar reasons will convince no one of the existence of all kinds of ghosts and spectres, unless it be those persons, who shut their ears to the understanding, and allow themselves to be led away by superstition. This last is so hostile to right reason, that she lends willing credence to old wives’ tales for the sake of discrediting philosophers.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza tratta della creazione necessaria del mondo: confuta gli argomenti e le citazioni di suo amico.]
+
+Caro Signore, —
+
+Farò affidamento su quanto avete scritto nella vostra lettera del 21 dello scorso mese: che gli amici possano dissentire su questioni indifferenti senza che ciò danneggi la loro [amicizia](/concepts/friendship). Vi dirò francamente la mia opinione riguardo ai motivi e alle argomentazioni su cui basate la vostra conclusione, ovvero che esistano fantasmi di ogni tipo, ma forse nessuno di sesso femminile. Il motivo per cui non ho risposto prima è che i libri che avete citato non mi sono stati messi a disposizione; in realtà non ne ho trovati altri se non Plinio il Vecchio e Svetonio. Tuttavia, questi due autori mi hanno risparmiato la fatica di consultarne altri, poiché sono convinto che tutti parlino nello stesso modo, cercando sempre storie straordinarie capaci di suscitare meraviglia negli uomini. Confesso di essere piuttosto sorpreso, non dalle storie stesse, ma da coloro che le raccontano. Mi chiedo come persone dotate di talento e giudizio possano utilizzare la propria eloquenza per cercare di convincerci di simili sciocchezze.
+
+Tuttavia, lasciamo da parte questi autori e rivolgiamoci direttamente alla questione in sé. Prima di tutto, analizzeremo un po’ la vostra conclusione. Vediamo se io, che nego l’esistenza di spettri o spiriti, sia meno in grado di comprendere gli autori che hanno scritto sull’argomento; oppure se voi, che affermate l’esistenza di tali esseri, non attribuiate agli autori menzionati il credito che meritano. La distinzione che avete fatto, ammettendo senza esitazione l’esistenza di spiriti di sesso maschile ma dubitando dell’esistenza di spiriti femminili, mi sembra più un’idea fantasiosa che una vera e propria incertezza. Se questa fosse davvero la vostra opinione, assomiglierebbe all’immaginazione comune secondo cui Dio è di sesso maschile e non femminile. Mi chiedo come coloro che hanno visto spettri nudi non abbiano osservato quelle parti del corpo umano che potrebbero eliminare ogni dubbio; forse erano timidi, o semplicemente ignoravano questa distinzione. Direste che questo è ridicolo e non un ragionamento. E proprio per questo vedo che le vostre argomentazioni vi sembrano così solide e fondate, al punto che nessuno possa contraddirle (almeno secondo voi), a meno che non si tratti di persone perverse che pensano il mondo sia stato creato per [caso](/concepts/fortune). Questo mi spinge, prima di esaminare le vostre ragioni, a esporre brevemente la mia opinione sulla questione: se il mondo sia stato creato per caso. Rispondo che, poiché è evidente che casualità e necessità sono due concetti opposti, è altrettanto chiaro che colui che afferma che il mondo sia un effetto necessario della natura divina debba negare categoricamente l’idea che sia stato creato per caso; mentre colui che sostiene che Dio non fosse obbligato a creare il mondo, in realtà conferma, sebbene con altri termini, l’ipotesi che il mondo sia stato creato per caso, poiché ritiene che la sua esistenza derivi da un desiderio che forse non sarebbe mai sorto. Tuttavia, poiché questa opinione e questa teoria sono in apparenza assurde, è comunemente ammesso con grande consenso che la volontà di Dio sia eterna e mai sia stata indifferente. Pertanto, si deve necessariamente ammettere anche che il mondo sia un effetto necessario della natura divina. Chiamatelo volontà, intelligenza o qualsiasi altro nome vogliate; alla fine arrivate tutti alla stessa conclusione: con nomi diversi state esprimendo la stessa cosa. Se vi chiedete se la volontà divina sia diversa da quella umana, risponderete che la prima non ha nulla in comune con la seconda se non il nome; soprattutto perché generalmente si ammette che la volontà di Dio, l’intelligenza, l’essenza e la natura di Dio siano tutte identiche. Anch’io, per evitare di confondere la natura divina con quella umana, non attribuisco a Dio attributi umani come volontà, intelligenza, attenzione, udito, ecc. Pertanto dico, come ho già detto, che il mondo è un effetto necessario della natura divina e che non è stato creato per caso.
+Credo che questo sia sufficiente per convincervi che l’opinione di coloro (se ne esistono) che sostengono che il mondo sia stato creato per caso sia completamente opposta alla mia; e, basandomi su questa ipotesi, procederò ad esaminare quei ragionamenti che vi portano a concludere l’esistenza di ogni sorta di fantasmi. Vorrei dire, in generale, che questi ragionamenti sembrano più congetture che argomentazioni valide, e fatico a credere che li consideriate motivazioni attendibili per giungere a tali conclusioni. Tuttavia, che si tratti di congetture o di argomentazioni valide, vediamo se possiamo considerarli fondamenti solide su cui basare le nostre riflessioni.
+
+Il vostro primo motivo è che l’esistenza dei fantasmi sia necessaria per la [bellezza](/concepts/beauty) e la perfezione dell’universo. La bellezza, caro signore, non è tanto una qualità dell’oggetto osservato, quanto un effetto che si verifica in colui che lo osserva. Se la nostra vista fosse più lunga o più corta, o se la nostra costituzione fisica fosse diversa, ciò che ora ci appare bello potrebbe sembrarci brutto, e ciò che ora consideriamo brutto potremmo ritenere bello. La mano più bella vista al microscopio apparirebbe orribile. Alcune cose sono belle da lontano, ma brutte da vicino; pertanto, le cose considerate in sé stesse, o in relazione a Dio, non sono né brutte né belle. Quindi, chi afferma che Dio abbia creato il mondo affinché fosse bello, è costretto ad adottare una delle due alternative: o Dio ha creato il mondo per il piacere e la vista degli uomini, oppure ha creato il piacere e la vista degli uomini per il bene del mondo stesso. Ora, che si adotti l’una o l’altra di queste ipotesi, non riesco a capire in che modo la creazione dei fantasmi potrebbe aver contribuito al raggiungimento dello scopo divino. Perfezione e imperfezione sono termini che non differiscono molto da “bellezza” e “bruttezza”. Quindi vi chiedo soltanto (per non essere noioso): cosa contribuirebbe di più al perfezionamento dell’universo, i fantasmi, o una serie di mostri come centauri, idre, harpie, satiri, grifoni, arguse e altre simili creature? Certamente, l’universo sarebbe splendidamente adornato se Dio lo avesse arricchito con esseri che chiunque possa facilmente immaginare e sognare, ma che nessuno può realmente comprendere.
+
+Il tuo secondo argomento è che, poiché gli spiriti esprimono l’immagine di Dio in modo più completo rispetto alle creature corporee, è probabile che Egli li abbia creati. Confesso francamente di non conoscere ancora in modo chiaro come gli spiriti possano rappresentare Dio meglio di altre creature. So però che tra il finito e l’infinito non esiste alcuna paragonabilità; pertanto la differenza tra Dio e la cosa creata più grande ed eccellente non è inferiore a quella tra Dio e la cosa creata più piccola. Questo argomento, quindi, è del tutto fuori luogo. Se avessi una concezione chiara degli spiriti, tanto quanto ne ho di un triangolo o di un cerchio, non esiterei affatto ad affermare che siano stati creati da Dio; ma poiché la mia idea su di loro è simile a quelle che la mia immaginazione forma riguardo a creature mitologiche come harpie, grifoni, idre, ecc., non posso considerarli altro che sogni, che differiscono da Dio tanto quanto ciò che non esiste differisce da ciò che esiste.
+
+Il tuo terzo argomento (che, poiché il corpo esiste senza anima, anche l’anima dovrebbe esistere senza corpo) mi sembra altrettanto assurdo. Per favore dimmi: non è forse altrettanto plausibile che la [memoria](/concepts/memory), l’udito, la vista, ecc., esistano senza corpi, visto che i corpi esistono senza memoria, udito, vista, ecc.? O che una sfera possa esistere senza un cerchio, poiché un cerchio può esistere senza una sfera?
+
+Il vostro quarto e ultimo motivo è lo stesso del primo; vi rimando alla mia risposta data in precedenza. Vorrei soltanto osservare che non so quali siano i luoghi più elevati o più bassi che immaginate esistere nell’infinita materia, a meno che non si consideri la Terra come il centro dell’universo. Infatti, se il Sole o Saturno fossero il centro dell’universo, sarebbero loro, e non la Terra, i luoghi più bassi.
+
+Pertanto, trascurando questo argomento e tutto ciò che rimane da considerare, concludo che ragioni del genere non convinceranno mai nessuno dell’esistenza di ogni sorta di fantasmi e spettri, a meno che non si tratti di persone che chiudono le orecchie alla ragione e si lasciano guidare dalla superstizione. Quest’ultima è così ostile alla logica e al buon senso, da essere disposta ad attribuire credibilità alle storie fantasiose al solo scopo di diffamare i filosofi.
+
 <span class="atom-split" data-atom="065" data-title="LETTER LVIII. Spinoza to Hugo Boxel. (parte 2)" data-chapter="LETTER LVIII. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 As regards the stories, I have already said in my first letter, that I do not deny them altogether, but only the conclusion drawn from them. To this I may add, that I do not believe them so thoroughly, as not to doubt many of the details, which are generally added rather for ornament than for bringing out the truth of the story or the conclusion drawn from it. I had hoped, that out of so many stories you would at least have produced one or two, which could hardly be questioned, and which would clearly show that ghosts or spectres exist. The case you relate of the burgomaster, who wanted to infer their existence, because he heard spectral brewers working in his mother’s brewhouse by night, and making the same noises as he was accustomed to hear by day, seems to me laughable. In like manner it would be tedious here to examine all the stories of people, who have written on these trifles. To be brief, I cite the instance of Julius Cæsar, who, as Suetonius testifies, laughed at such things and yet was happy, if we may trust what Suetonius says in the 59th chapter of his life of that leader. And so should all, who reflect on the human imagination, and the effects of the emotions, laugh at such notions; whatever Lavater and others, who have gone dreaming with him in the matter, may produce to the contrary.
@@ -1377,6 +2728,14 @@ As regards the stories, I have already said in my first letter, that I do not de
 Hugo Boxel
 
 Benedict de Spinoza
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per quanto riguarda queste storie, ho già detto nella mia prima lettera che non le nego del tutto, ma soltanto la conclusione a cui si arriva partendo da esse. Posso aggiungere anche che non le credo con tale convinzione da non dubitare di molti dei dettagli che vengono generalmente aggiunti più per ornamento che per evidenziare la veridicità della storia o della conclusione a cui essa conduce. Speravo che, tra tutte queste storie, almeno una o due potessero essere considerate incontestabili e dimostrassero chiaramente l’esistenza di fantasmi o spettri. La storia del sindaco che cercò di dedurne l’esistenza perché sentiva dei rumori notturni nella birreria di sua madre, rumori identici a quelli che era abituato ad ascoltare di giorno, mi sembra ridicola. Allo stesso modo sarebbe noioso esaminare tutte le storie scritte da persone che si sono occupate di queste sciocchezze. Per essere brevi, cito l’esempio di Giulio Cesare: come afferma Svetonio, rideva di simili cose eppure era felice, se possiamo credere a quanto dice lo stesso Svetonio nel 59° capitolo della sua biografia di quel grande leader. E così dovrebbero fare tutti coloro che riflettono sull’immaginazione umana e sugli effetti delle emozioni: ridere di queste concezioni, nonostante ciò che possano affermare Lavater e altri che hanno seguito le sue orme in questo campo.
+
+Ugo Boxel
+
+Benedetto da Spinoza
 
 <span class="atom-split" data-atom="066" data-title="LETTER LIX. Hugo Boxel to Spinoza." data-chapter="LETTER LIX. Hugo Boxel to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -1389,6 +2748,18 @@ Benedict de Spinoza
 The Hague
 
 Hugo Boxel
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Una continuazione degli argomenti a favore dell’esistenza dei fantasmi, che possono essere riassunti come segue: — Dico che una cosa avviene per [caso](/concepts/fortune) quando non è stata oggetto di volontà da parte di chi l’ha compiuta; non quando avrebbe potuto non accadere mai. — Necessità e libertà, non necessità e caso, sono contrari tra loro. — Se in qualche modo non [attribuiamo](/concepts/attribute) qualità umane a Dio, quale significato possiamo dare a questo termine? — Vi chiedete una prova assoluta dell’esistenza degli spiriti; tale prova non è possibile per molte cose di cui tuttavia si crede fermamente. — Alcune cose sono intrinsecamente più belle di altre. — Poiché Dio è uno spirito, gli spiriti Gli assomigliano di più delle creature corporee. — Un fantasma non può essere concepito con la stessa chiarezza con cui si concepisce un triangolo: potete dire che la vostra idea di Dio sia altrettanto chiara quanto quella di un triangolo? — Così come esiste un cerchio senza una sfera, esiste anche una sfera senza un cerchio. — Definiamo le cose “più alte” o “più basse” in base alla loro distanza dalla terra. — Tutti gli Stoici, i Pitagorici, i Platonici, Empedocle, Massimo di Tirio, Apuleio e altri testimoniano sull’esistenza dei fantasmi; nessun moderno li nega. È presunzione deridere un simile insieme di testimonianze. Cesare non derise mai i fantasmi, ma gli auspici; se avesse ascoltato Spurina, probabilmente non sarebbe stato assassinato.]
+
+Benedetto da Spinoza
+
+1674
+
+La Haye
+
+Ugo Boxel
 
 <span class="atom-split" data-atom="067" data-title="LETTER LX. Spinoza to Hugo Boxel." data-chapter="LETTER LX. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -1422,6 +2793,38 @@ Van Volten
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza risponde nuovamente all’argomentazione a favore degli spiriti. (L’Aia, 1674).]
+
+Caro Signore, —
+
+Mi affretto a rispondere alla tua lettera ricevuta ieri, perché se ritardassi la mia risposta, potrei essere costretto a farlo per un periodo più lungo di quanto desideri. Lo [stato](/concepts/state) della tua salute mi avrebbe preoccupato, se non sapessi che ti stai riprendendo bene. Spero che ormai tu sia completamente guarito.
+
+Le difficoltà che due persone che seguono principi diversi incontrano nel tentativo di raggiungere un accordo su una questione che dipende da molte altre variabili potrebbero essere evidenziate già solo attraverso questa discussione, se non ci fosse alcun motivo ulteriore per provarlo. Vi prego, ditemi: avete mai incontrato o letto filosofi che sostengano che il mondo sia stato creato per [caso](/concepts/fortune), nel senso che Dio abbia avuto un certo disegno nella sua creazione, ma non abbia poi seguito quel piano? Non so che una tale idea possa mai essere venuta in mente a qualcuno. Sono altrettanto perplesso riguardo ai motivi con cui volete convincermi che caso e necessità non siano contrari. Non appena affermo che gli angoli di un triangolo sono necessariamente uguali a due angoli retti, nego che possano essere uguali per caso; allo stesso modo, quando affermo che il calore è un effetto necessario del fuoco, nego che possa essere un effetto casuale. Dire che necessario e libero siano termini contrari mi sembra altrettanto assurdo e incompatibile con la ragione. Nessuno può infatti negare che Dio conosca se stesso e tutto il resto liberamente, eppure tutti concordano nel riconoscere che questa conoscenza di Dio è necessaria. Pertanto, a mio parere, non si fa alcuna distinzione tra costrizione, forza e necessità. Il desiderio dell’uomo di vivere, di [amare](/concepts/charity), ecc., non è dovuto a costrizioni, ma è comunque necessario; tanto più lo è il fatto che Dio desideri esistere, conoscere e agire. Se riflettete inoltre sul fatto che l’indifferenza non sia altro che ignoranza o dubbio, e che una volontà sempre costante e decisa in tutte le cose sia una proprietà necessaria dell’intelletto, comprenderete che le mie parole sono in perfetta armonia con la verità. Se affermiamo che Dio avrebbe potuto non desiderare un certo evento o non comprenderlo, attribuiremmo a Dio due forme diverse di libertà: una necessaria e l’altra indifferente; di conseguenza, considereremmo la volontà di Dio separata dalla sua essenza e dal suo intelletto, cadendo così da un’assurdità nell’altra.
+
+L’attenzione che avevo chiesto nella mia precedente lettera non vi è sembrata necessaria. Ecco il motivo per cui non avete concentrato i vostri pensieri sull’argomento principale, trascurando un punto di grande importanza.
+
+Inoltre, quando dite che, se nego che le operazioni di vedere, sentire, desiderare, ecc., possano essere attribuite a Dio, o che esistano in Lui in qualche modo eccezionale, non sapete quale tipo di Dio io intenda; sospetto che riteniate non esista perfezione maggiore di quella che può essere spiegata attraverso tali [attributi](/concepts/attribute). Non mi sorprende; credo infatti che, se un triangolo potesse parlare, direbbe allo stesso modo che Dio è eminentemente triangolare, mentre un cerchio affermerebbe che la natura divina è eminentemente circolare. Così ognuno attribuirebbe a Dio i propri attributi, si considererebbe simile a Dio e ritenerebbe tutto il resto di forma imperfetta.
+
+La brevità di questa lettera e la mancanza di tempo non mi permettono di esprimere il mio parere sulla natura divina o sulle domande che avete sollevato. Inoltre, suggerire difficoltà non equivale a fornire argomentazioni valide. È vero che nel mondo pratico siamo costretti ad agire sulla base di congetture, ma è falso ritenere che le nostre riflessioni si fondino esclusivamente su ipotesi. Nella vita pratica dobbiamo seguire ciò che appare più probabile; nella riflessione filosofica, invece, dobbiamo cercare la verità. Un uomo morirebbe di fame e sete se rifiutasse di mangiare o bere fino a quando non avesse ottenuto prove certe del fatto che cibo e bevande siano davvero benefici per lui. Ma nella riflessione filosofica le cose non stanno così: al contrario, dobbiamo fare attenzione a non considerare vere cose che sono soltanto probabili. Poiché, una volta ammessa un’errata ipotesi, ne derivano infinite altre.
+
+Ancora una volta, non possiamo concludere che, poiché le scienze relative alle cose divine e umane sono piene di controversie e dispute, l’intero loro oggetto di studio sia incerto; infatti, ci sono state molte persone così appassionate dalle contraddizioni da ridurre in ridicolo gli assiomi geometrici. Sexto Empirico e altri scettici, che citate voi, affermano che è falso dire che un tutto sia maggiore della sua parte, e formulano giudizi simili su altri assiomi.
+
+Tuttavia, anche ammettendo che, in assenza di prove concrete, dobbiamo accontentarci delle probabilità, affermo che una prova plausibile debba essere tale da non permetterci di sostenere il suo contrario, anche se ne dubitiamo; infatti ciò che può essere contraddetto non assomiglia alla verità, ma alla menzogna. Ad esempio, se dico che Pietro è vivo perché l’ho visto ieri in buona salute, questa è una probabilità, poiché nessuno può sostenere il contrario; ma se qualcuno afferma di averlo visto ieri privo di sensi e di ritenere che sia morto oggi, allora la mia dichiarazione sembrerà falsa. Ho dimostrato con tanta chiarezza che le vostre congetture riguardo ai fantasmi e agli spettri appaiono false, e persino improbabili; quindi non trovo nulla di degno di risposta nel vostro commento.
+
+Rispetto alla tua domanda, se io abbia di Dio un’idea altrettanto chiara di quella che ho di un triangolo, rispondo affermativamente. Ma se mi chiedi se possiedo di Dio un’immagine mentale altrettanto nitida di quella che ho di un triangolo, rispondo negativamente. Infatti non siamo in grado di immaginare Dio, anche se possiamo comprenderlo. È importante notare anche che non affermo di conoscere completamente Dio, ma che comprendo alcuni dei suoi attributi, non tutti né la maggior parte; è evidente che la mia ignoranza riguardo a molti aspetti di Lui non ostacola la conoscenza che ho di alcuni altri. Quando studiai gli “Elementi” di Euclide, compresi chiaramente che i tre angoli di un triangolo sono uguali a due angoli retti; questa proprietà del triangolo la percepii con chiarezza, anche se ignoravo molte altre caratteristiche dei triangoli.
+
+Per quanto riguarda gli spettri o i fantasmi, finora non ho mai sentito attribuire loro alcuna proprietà comprensibile: sembrano semplicemente ombre o illusioni che nessuno riesce a comprendere veramente. Quando dici che gli spettri, in queste regioni inferiori (adopto la tua terminologia, anche se non so perché la materia situata “in basso” debba essere considerata inferiore a quella situata “in alto”), sono costituiti da una sostanza molto sottile, rarefatta e subtile, mi sembra che tu stia parlando di ragnatele, aria o vapori. Affermare che siano invisibili equivale, secondo me, ad affermare che non esistano affatto, piuttosto che descrivere la loro vera natura; a meno che, forse, tu non intenda indicare che possano rendersi visibili o invisibili a piacimento. E in questo caso, l’immaginazione troverà sicuramente difficoltà ad afferrare tali concetti.
+
+L’autorità di Platone, [Aristotele](/figures/aristotle) e [Socrate](/figures/socrates) non ha molto peso per me. Avrei dovuto rimanere sorpreso se aveste menzionato Epicuro, Democrito, Lucrezio o qualsiasi altro sostenitore della teoria atomistica. Non c’è da meravigliarsi che persone che hanno inventato concetti come qualità occulti, specie intenzionali e forme sostanziali abbiano anche creato storie di fantasmi e creduto nelle leggende popolari, al solo scopo di diffamare Democrito, di cui erano così gelosi da bruciare tutti i suoi scritti nonostante le lodi ricevute. Se siete disposti a credere in tali testimonianze, qual è allora il motivo per negare i miracoli della Beata Vergine e di tutti i Santi? Questi sono stati descritti da molti famosi filosofi, teologi e storici; potrei quindi citare almeno cento autorità a sostegno di ciascuno di loro. Ma ho detto più di quanto intendessi, caro signore: non desidero causarvi ulteriori dispiaceri con dottrine che so bene non accetterete mai. I principi che seguite sono infatti molto diversi dai miei.
+
+Van Volten
+
+8 ottobre 1674
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="068" data-title="LETTER LXI. * * * * to Spinoza." data-chapter="LETTER LXI. * * * * to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [PHILOSOPHERS OFTEN DIFFER through using words in different senses. Thus in the question of [free will](/positions/free_will) Descartes means by free, constrained by no cause. You mean by the same, undetermined in a particular way by a cause. The question of free will is threefold: — I. Have we any power whatever over things external to us? II. Have we absolute power over the intentional movements of our own body? III. Have we free use of our reason? Both Descartes and yourself are right according to the terms employed by each (8th October, 1674).]
@@ -1431,6 +2834,18 @@ Benedict de Spinoza
 October, 1674
 
 The Hague
+
+G. H. Schaller
+
+<span class="qlang-split" data-lang="it"></span>
+
+I filosofi spesso differiscono nell’uso delle parole in significati diversi. Quindi, riguardo alla questione della [volontà libera](/positions/free_will), Cartesio intende con “libero” ciò che non è vincolato da alcuna causa; voi, invece, intendete con lo stesso termine ciò che non è determinato in modo specifico da alcuna causa. La questione della volontà libera si articola in tre aspetti: 1) Abbiamo qualche potere su ciò che è esterno a noi? 2) Abbiamo un potere assoluto sui movimenti intenzionali del nostro stesso corpo? 3) Possiamo utilizzare liberamente la nostra ragione? Sia Cartesio che voi avete ragione, secondo i termini utilizzati da ciascuno (8 ottobre 1674).
+
+Benedetto da Spinoza
+
+Ottobre 1674
+
+La Haye
 
 G. H. Schaller
 
@@ -1466,6 +2881,38 @@ E. W. von Tschirnhausen
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza esprime le sue opinioni sulla libertà e sulla necessità.]
+
+Signore, —
+
+Il nostro amico J. R. mi ha inviato la lettera che avete avuto la gentilezza di scrivermi, nonché il parere del vostro amico riguardo alle opinioni di Cartesio e mie su questioni legate alla [volontà libera](/positions/free_will). Entrambi gli allegati sono stati molto graditi da me. Sebbene al momento sia molto impegnato con altre questioni, per non parlare della mia delicata salute, la vostra straordinaria cortesia – o, per dirlo più chiaramente, il vostro [amore](/concepts/charity) per la verità – mi spinge a rispondere alle vostre domande, nella misura in cui le mie modeste capacità me lo permettano. Non so esattamente cosa intenda dire il vostro amico con quella sua osservazione che fa riferimento all’esperienza; inoltre, ciò che aggiunge, ovvero che quando due persone discutono su un argomento e una afferma qualcosa che l’altra nega, entrambe possono avere ragione, è vero, purché intendano indicare cose diverse con gli stessi termini. Una volta ho inviato diversi esempi di questo fenomeno al nostro amico J. R.; ora vi scrivo per chiedergli di trasmetterveli.
+
+Pertanto, passo ora a quella definizione di libertà che lui sostiene sia mia; tuttavia non so da dove l’abbia tratta. Dico che una cosa è libera quando esiste e agisce unicamente per necessità della sua stessa natura. Così anche Dio si considera e tutte le cose come libere, perché è proprio dalla necessità della Sua natura che deriva il fatto che Egli comprenda ogni cosa. Come potete vedere, non intendo porre la libertà nella capacità di decidere liberamente, ma nella necessità intrinseca delle cose stesse. Tuttavia, consideriamo ora le cose create, le quali sono tutte determinate da cause esterne a esistere e agire in un modo preciso e definito. Affinché ciò sia compreso chiaramente, immaginiamo una cosa molto semplice: ad esempio, una pietra riceve dall’impatto di una causa esterna una certa quantità di movimento; grazie a questo movimento, la pietra continua a muoversi anche dopo che l’impatto esterno è cessato. La permanenza del movimento della pietra è dovuta a cause esterne, non è qualcosa di necessario per essa; anzi, essa è strettamente condizionata da tali cause. Ciò che vale per la pietra vale per qualsiasi essere vivente, per quanto complesso possa essere il suo naturale o varie le sue funzioni: ogni cosa, infatti, è necessariamente determinata da cause esterne a esistere e agire in un modo preciso e fisso.
+
+Pensate ancora, vi prego, che una pietra, mentre continua a muoversi, possa essere in grado di pensare e di comprendere che sta cercando, nel limite delle sue possibilità, di continuare a muoversi. Una tale pietra, essendo consapevole soltanto del proprio sforzo e affatto non indifferente, crederebbe di essere completamente libera e penserebbe di continuare a muoversi esclusivamente per volontà propria. Questa è quella libertà umana di cui tutti si vantano di possederla; una libertà che consiste semplicemente nel fatto che gli uomini sono consapevoli dei propri desideri, ma ignorano le cause che hanno determinato tali desideri. Così un bambino crede di desiderare il latte liberamente; un bambino arrabbiato pensa di voler vendicarsi liberamente; un bambino timido ritiene di voler scappare liberamente. Allo stesso modo, un uomo ubriaco crede di pronunciare parole sulla base di una libera decisione della propria mente, mentre in seguito, quando è sobrio, vorrebbe non averle dette. Anche le persone deliranti, quelle chiacchierone e simili pensano di agire per libera scelta della propria mente, anziché essere spinte da impulsi. Poiché questo errore è innato in tutti gli uomini, non è facile superarlo. Infatti, sebbene l’esperienza dimostri ampiamente che gli uomini sono disposti a fare qualsiasi cosa pur di non reprimere i propri desideri, e spesso, quando sopraffatti da emozioni contrastanti, scelgono la strada peggiore invece della migliore, continuano comunque a credersi liberi; perché in alcuni casi il loro desiderio per qualcosa è debole e può essere facilmente sovrastato dal ricordo di altro.
+
+Ho quindi, se non erro, spiegato a sufficienza la mia opinione riguardo alla necessità libera e alla cosiddetta libertà umana: da quanto ho detto potrete facilmente rispondere alle obiezioni del vostro amico. Poiché egli afferma, seguendo Cartesio, che colui che non è vincolato da alcuna causa esterna è libero, se con “vincolato” intende dire che si agisce contro la propria volontà, allora ammetto che in alcuni casi siamo effettivamente del tutto liberi e, in questo senso, possediamo una volontà libera. Ma se con “vincolato” intende dire che ci si comporta in modo necessario, anche se non contro la propria volontà (come ho spiegato sopra), allora nego decisamente che in alcun caso siamo liberi.
+
+Ma il tuo amico, al contrario, afferma che possiamo utilizzare la nostra ragione in modo assoluto, cioè con completa libertà; e penso che sia un po’ troppo sicuro di ciò. Perché, dice lui, chi potrebbe negare, senza contraddire la propria coscienza, che io possa pensare con i miei pensieri, che desideri o non desideri scrivere? Mi piacerebbe sapere di quale coscienza sta parlando, al di là di quella che ho illustrato con l’esempio della pietra.
+
+In realtà, senza contraddire la mia coscienza – cioè la mia ragione ed esperienza – e senza nutrire ignoranza o errori di concezione, nego che io possa, con qualsiasi potere assoluto del pensiero, decidere di scrivere o meno. Appello alla coscienza, che certamente ha sperimentato: nei sogni non si ha la capacità di pensare ciò che si desidera scrivere; e quando si sogna di voler scrivere, non si è nemmeno in grado di evitare di sognarlo. Credo anche che abbia constatato come la mente non sia sempre ugualmente capace di riflettere su lo stesso oggetto: dipende dal fatto che il corpo sia più o meno predisposto a ricevere l’immagine di quell’oggetto, e quindi anche la mente sarà in grado di pensarvi in modo diverso.
+
+Quando aggiunge inoltre che le ragioni per cui ha dedicato la sua attenzione alla scrittura lo hanno spinto, ma non costretto, a scrivere, intende semplicemente (se considera la questione in modo imparziale) che il suo stato d’animo in quel momento era tale da permettere che delle cause, che in altre circostanze sarebbero state inefficaci – ad esempio quando era sopraffatto da un’emozione intensa – lo influenzassero facilmente. In altre parole, quelle stesse cause, che in altri momenti non lo avrebbero costretto a scrivere contro la sua volontà, in questo caso lo hanno spinto inevitabilmente a desiderare di scrivere.
+
+Per quanto riguarda la sua affermazione secondo cui, se fossimo vincolati da cause esterne, nessuno potrebbe acquisire l’[abitudine](/concepts/custom) della virtù, non so quale sia la sua autorità per sostenere che fermezza e costanza di carattere possano derivare soltanto dalla volontà libera, e non da una necessità predeterminata.
+
+Quello che aggiunge infine, ovvero che se ciò fosse vero, tutta la malvagità sarebbe giustificabile, suscita in me la domanda: E allora? Gli uomini malvagi non sono certo meno da temere, né meno dannosi, anche quando compiono atti malvagi per necessità. Tuttavia, su questo punto vi invito a consultare i “Principi di Filosofia Cartesiana”, Parte II, capitolo VIII.
+
+In breve, vorrei che il vostro amico, che solleva queste obiezioni, mi spiegasse come riesca a conciliare la virtù umana – che, secondo lui, deriva dalla libera decisione della mente – con la predestinazione dell’universo da parte di Dio. Se, come Descartes, ammette di non essere in grado di farlo, allora sta cercando di utilizzare contro di me lo stesso strumento che ha già ferito se stesso. Ma invano. Perché, se esaminate attentamente la mia opinione, vedrete che è del tutto coerente.
+
+E. W. von Tschirnhausen
+
+5 gennaio 1675
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="070" data-title="LETTER LXIII. * * * * to Spinoza." data-chapter="LETTER LXIII. * * * * to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [THE WRITER EXHORTS Spinoza to publish the treatises on Ethics and on the Improvement of the Understanding. — Remarks on the definition of motion. On the difference between a true and an adequate idea.]
@@ -1481,6 +2928,25 @@ Benedict de Spinoza
 Jan., 1675
 
 The Hague
+
+E. W. von Tschirnhausen
+
+<span class="qlang-split" data-lang="it"></span>
+
+[L’AUTORE esorta Spinoza a pubblicare i trattati sull’Etica e sul Perfezionamento dell’intelletto. – Observazioni sulla definizione di movimento. Sulla differenza tra un’idea vera e un’idea adeguata.]
+
+Eccellentissimo Signore, —
+
+Quando potremo disporre del vostro [metodo](/axes/method) per guidare correttamente la ragione nell’acquisizione di verità sconosciute, nonché del vostro trattato generale sulla fisica? So che avete già fatto grandi [progressi](/positions/progress) in questi lavori. Il primo mi è già noto; il secondo ne ho conoscenza attraverso i Lemmi aggiunti alla seconda parte dell’Etica, i quali permettono di risolvere facilmente molte difficoltà nella fisica. Se il tempo e le circostanze lo consentono, vi prego umilmente di fornirmi una vera definizione di movimento e una sua spiegazione; inoltre, vorrei sapere come, considerando che l’estensione, nel senso in cui è concepita in sé stessa, è indivisibile, immutabile, ecc., si possa dedurre a priori l’esistenza di molteplici varietà di movimento, e quindi l’esistenza di forme nelle particelle di qualsiasi corpo, le quali, tuttavia, sono diverse in ogni corpo e distinte dalle forme delle parti che compongono la realtà di un altro corpo. Avete già indicato a me, oralmente, un metodo che utilizzate nella ricerca di verità ancora sconosciute; ritengo questo metodo molto eccellente e al contempo molto semplice. Posso affermare che grazie a questa singola scoperta ho fatto grandi progressi in matematica. Pertanto, vi chiedo di fornirmi una vera definizione di idea adeguata, vera, falsa, fittizia e dubbia. Ho cercato di comprendere la differenza tra un’idea vera e un’idea adeguata; tuttavia, finora non sono riuscito a stabilire nulla se non dopo aver esaminato una cosa e averne formato un certo concetto o idea. Allora, per verificare se questa idea vera sia anche un’idea adeguata del suo oggetto, chiedo quale ne sia la causa; quando questa viene individuata, domando ancora quale ne sia la causa di quel concetto precedente, e così continuo, cercando sempre le cause delle cause delle idee, fino a quando non trovo una causa tale che non riesco più a individuarne alcuna altra, se non quella che esiste tra tutte le idee: l’idea stessa della quale sto parlando. Ad esempio, se chiediamo l’origine reale dei nostri errori, Cartesio risponderebbe che essa consiste nel dare assenso a cose che non sono ancora state chiaramente comprese. Ma anche supponendo che questa sia l’idea vera di quella cosa, non sarei comunque in grado di determinare tutto ciò che è necessario sapere al suo riguardo, se non avessi anche un’idea adeguata della stessa; pertanto, per ottenere tale idea, chiedo quale ne sia la causa, come mai diamo assenso a cose che non comprendiamo chiaramente, e rispondo che ciò deriva da una conoscenza imperfetta. Ma qui non posso andare oltre: non so quale sia la causa del nostro ignorare certe cose. E quindi vedo che ho individuato un’idea adeguata sull’origine dei nostri errori.
+In questo contesto vi chiedo: poiché molte cose, espresse in infinite [modi](/concepts/mode), possiedono un’idea adeguata di sé stesse, e poiché da ogni idea adeguata si può inferire tutto ciò che è possibile conoscere riguardo al suo oggetto – anche se più facilmente da alcune idee piuttosto che altre – non potrebbe forse questo rappresentare un mezzo per individuare quale di queste idee sia preferibile? Ad esempio, un’idea adeguata di un cerchio consiste nell’uguaglianza dei suoi raggi; un’altra idea adeguata riguarda gli angoli retti infiniti e uguali tra loro, generati dall’intersezione di due linee, ecc. Così abbiamo infinite espressioni, ciascuna delle quali descrive la natura essenziale di un cerchio. Ora, sebbene tutte le proprietà di un cerchio possano essere dedotte da ognuna di queste espressioni, alcune di esse possono essere ricavate molto più facilmente rispetto ad altre. Allo stesso modo, colui che studia il rapporto tra linee e curve potrà trarre molte conclusioni riguardo alla misurazione delle curve, ma lo farà con maggiore facilità considerando i concetti di tangenti, ecc. Ho voluto così indicare fino a che punto sia progredito in questo studio; attendo la perfezione in esso, o, qualora mi sbagli su qualche punto, una correzione; inoltre, aspetto anche la definizione che avevo richiesto. Addio.
+
+5 gennaio 1675.
+
+Benedetto da Spinoza
+
+Gennaio 1675
+
+La Haye
 
 E. W. von Tschirnhausen
 
@@ -1501,6 +2967,24 @@ G. H. Schaller
 Amsterdam
 
 Benedict de Spinoza
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Della differenza tra un’idea vera e un’idea adeguata si tratta soltanto di una questione esterna, ecc. L’Aia, gennaio 1675.]
+
+Onorato Signore. —
+
+Non riconosco alcuna differenza tra un’idea vera e un’idea adeguata, se non che l’epiteto “vera” si riferisce soltanto all’accordo tra l’idea stessa e il suo oggetto, mentre l’epiteto “adeguata” riguarda la natura intrinseca dell’idea; pertanto, in realtà, non esiste alcuna differenza tra un’idea vera e un’idea adeguata al di fuori di questa relazione esterna. Tuttavia, affinché possa capire da quale idea, tra molte altre, si possano dedurre tutte le proprietà del suo oggetto, presto attenzione soltanto a un punto: che l’idea o la definizione in questione esprima la [causa efficiente](/concepts/four_causes) del suo oggetto. Ad esempio, nell’esaminare le proprietà di un cerchio, mi chiedo se dall’idea stessa di un cerchio si possa dedurre che esso è composto da angoli retti infiniti; in altre parole, se questa idea includa effettivamente la causa efficiente del cerchio. Se non lo fa, cerco un’altra definizione più appropriata, come ad esempio quella secondo cui un cerchio è lo spazio descritto da una linea la cui una estremità è fissa e l’altra mobile; poiché questa definizione esplicita effettivamente la causa efficiente del cerchio, so di poterne dedurre tutte le proprietà. Allo stesso modo, quando definisco Dio come un Essere supremamente perfetto, se tale definizione non esprime la sua causa efficiente (sia interna che esterna), non sarò in grado di inferirne tutte le proprietà; invece, se lo fa, allora sì. Per quanto riguarda le altre tue domande, quelle relative al movimento e a quella sulla [mетодologia](/axes/method), le mie osservazioni su di esse non sono ancora state redatte in modo sistematico, quindi le riserverò per un’altra occasione.
+
+Riguardo al tuo commento secondo cui “colui che considera le rette applicate alle curve compie molte deduzioni riguardo alla misurazione delle curve, ma lo fa con maggiore facilità se si basa sul concetto di tangenti”, penso che, partendo dal concetto di tangenti, molte deduzioni risultino più difficili da effettuare rispetto a quelle ottenute considerando le rette applicate in sequenza; inoltre affermo categoricamente che, partendo dalle proprietà specifiche di qualsiasi cosa (indipendentemente dall’idea che ne abbiamo), alcune cose possono essere scoperte più facilmente, altre con maggiore difficoltà, anche se tutte riguardano la natura stessa di quella cosa. Credo semplicemente che sia necessario cercare un tipo di concezione tale da permettere di dedurre tutte le proprietà in questione, come già detto in precedenza. Chi intenda dedurre tutte le proprietà di una data cosa sa bene che quelle ultime saranno inevitabilmente le più difficili da individuare, ecc.
+
+G. H. Schaller
+
+25 luglio 1675
+
+Amsterdam
+
+Benedetto da Spinoza
 
 <span class="atom-split" data-atom="072" data-title="LETTER LXV. G. H. Schaller to Spinoza." data-chapter="LETTER LXV. G. H. Schaller to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -1538,6 +3022,42 @@ The Hague
 
 E. W. von Tschirnhausen
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SCHALLER chiede risposte a quattro domande poste dal suo amico Tschirnhausen riguardo agli attributi di Dio, e menziona che Tschirnhausen ha recentemente eliminato l’opinione negativa su Spinoza emersa in precedenza da Boyle e Oldenburg.]
+
+Nobile e eccellente Signore, —
+
+Dovrei arrossire per il mio silenzio, che è durato così a lungo e mi ha esposto all’accusa di ingratitudine verso la tua gentilezza dimostrata nei miei confronti, al di là dei miei meriti; se non fosse perché rifletto sul fatto che la tua generosa cortesia tende piuttosto a scusare che ad accusare, e so anche che dedichi il tuo tempo libero, per il bene comune dei tuoi amici, allo studio serio, il cui disturbo senza motivo sarebbe dannoso e offensivo. Per questa ragione sono rimasto in silenzio, contentandomi di ricevere da amici notizie della tua buona salute. Ti scrivo questa lettera per informarti che il nostro nobile amico von Tschirnhausen gode dello stesso stato di salute in Inghilterra; nelle sue lettere mi ha chiesto tre volte di trasmetterti i suoi più cordiali saluti, e di chiederti la risposta alle seguenti domande, da inviargli poi: il maestro sarebbe disposto a convincerlo con prove concrete, e non con argomentazioni che portano all’impossibile, che non possiamo conoscere alcuna attribuzione di Dio, se non la [pensiero](/concepts/attribute) e l’estensione? Inoltre, ne consegue forse che le creature costituite secondo altre attribuzioni non possano formarsi alcuna idea di estensione? Se sì, allora dovrebbero esistere tanti mondi quante sono le attribuzioni di Dio: ad esempio, nei mondi influenzati da altre attribuzioni ci sarebbe lo stesso spazio per l’estensione che esiste nel nostro mondo. Ma poiché noi percepiamo soltanto il pensiero e l’estensione, anche le creature di quel altro mondo percepirebbero soltanto le attribuzioni del loro mondo e il pensiero.
+
+In secondo luogo, poiché la comprensione di Dio differisce dalla nostra sia per essenza che per esistenza, non ha quindi nulla in comune con essa; pertanto (secondo l’Etica, I. iii.), la comprensione di Dio non può essere la causa della nostra.
+
+In terzo luogo (nella “Etica”, I. x, nota), affermi che nulla nella natura sia più evidente del fatto che ogni entità debba essere concepita in termini di alcuni attributi (ciò lo comprendo perfettamente); inoltre, sostieni che più un entità possiede di realtà o essenza, più attributi le sono propri. Da ciò sembrerebbe derivare l’esistenza di entità che possiedono tre, quattro o più attributi (sebbene da quanto è stato dimostrato risulti che ogni essere è composto soltanto da due attributi: cioè un certo attributo di Dio e l’idea di tale attributo).
+
+In quarto luogo, vorrei avere esempi di quelle cose che vengono prodotte direttamente da Dio, e di quelle che vengono generate attraverso processi di modificazione infinita. Il pensiero e l’estensione sembrano appartenere al primo tipo; la comprensione nel pensiero e il movimento nell’estensione, invece, sembrano rientrare nel secondo tipo.
+
+E questi sono i punti sui quali il nostro suddetto amico von Tschirnhausen desidera che voi, se il vostro tempo libero lo permette, li spieghiate con la vostra eccellenza. Egli aggiunge inoltre che il signor Boyle e Oldenburg avevano formato un’idea strana sul vostro carattere personale, ma che lui non solo ha dissipato tale idea, ma ha anche fornito argomentazioni che non solo li hanno portati a riformulare un’opinione molto più lusinghiera e favorevole su di voi, ma li hanno anche fatti apprezzare enormemente il “Trattato Teologico-Politico”. Non ho osato informarvi di ciò per motivi legati alla vostra salute. Siate certo che io sono, e vivo.
+
+Nobile signore,
+
+Per ogni nobile incarico, il vostro più devoto servitore.
+
+G. H. Schaller.
+
+Amsterdam,
+
+25 luglio 1675.
+
+Il signor à Gent e J. Rieuwerts vi salutano con rispetto.
+
+Benedetto da Spinoza
+
+29 luglio 1675
+
+La Haye
+
+E. W. von Tschirnhausen
+
 <span class="atom-split" data-atom="073" data-title="LETTER LXVI. Spinoza to * * * * *." data-chapter="LETTER LXVI. Spinoza to * * * * *." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA ANSWERS BY references to the first three books of the Ethics.]
@@ -1568,6 +3088,36 @@ London
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza risponde facendo riferimento ai primi tre libri dell’Etica.]
+
+Caro Signore, —
+
+Sono felice che finalmente abbiate avuto l’occasione di scrivermi una delle vostre lettere, sempre molto gradite per me. Vi prego sinceramente di ripetere spesso questa gentilezza, ecc.
+
+Procedo ora a esaminare le vostre dubbi: riguardo al primo, rispondo che la mente umana può acquisire conoscenza soltanto di quelle cose che l’idea di un corpo effettivamente esistente implica, o di ciò che può essere dedotto da tale idea. Infatti, il potere di qualsiasi cosa è definito esclusivamente dalla sua essenza (Etica, III. vii); l’essenza della mente (Etica, II. xiii.) consiste unicamente nel fatto che essa è l’idea di un corpo effettivamente esistente; pertanto, il potere di comprensione della mente si estende soltanto alle cose contenute in questa idea del corpo, o che ne derivano. Ora, questa idea del corpo non include né esprime alcun [attributo](/concepts/attribute) di Dio, se non quelli legati all’estensione e al pensiero. Il suo oggetto, cioè il corpo (secondo l’Etica, II. vi), ha Dio come sua causa, nella misura in cui Egli è considerato sotto l’attributo dell’estensione, e non in alcun altro senso; pertanto (Etica, I. ax. vi.), questa idea del corpo implica la conoscenza di Dio soltanto nella misura in cui Egli è considerato sotto l’attributo dell’estensione. Inoltre, poiché questa idea è un “[modo](/concepts/mode)” di pensiero, anch’essa ha Dio come sua causa, nella misura in cui Egli è considerato come entità pensante, e non in alcun altro senso; quindi (per lo stesso principio), l’idea di questa idea implica la conoscenza di Dio soltanto nella misura in cui Egli è considerato sotto l’attributo del pensiero. È evidente, dunque, che la mente umana, o l’idea del corpo umano, non include né esprime alcun altro attributo di Dio se non questi due. Ora, da questi due attributi, o dalle loro modifiche, non si può dedurre o concepire alcun altro attributo di Dio (Etica, I. x). Concludo quindi che la mente umana non può acquisire conoscenza di alcun altro attributo di Dio se non questi due, e questa è proprio la tesi su cui vi chiedete informazioni. Per quanto riguarda la vostra domanda su se debbano esistere tanti mondi quante sono gli attributi di Dio, vi rimando all’Etica, II. vii, nota.
+
+Inoltre, questa proposizione potrebbe essere dimostrata più facilmente attraverso una riduzione all’assurdo; sono abituato, quando la proposizione è negativa, ad utilizzare questo [metodo](/axes/method) di dimostrazione, poiché mi sembra più appropriato. Tuttavia, poiché la domanda che mi ponete è positiva, utilizzerò il metodo positivo e chiederò se sia possibile ottenere qualcosa da un’altra cosa che differisce da essa sia in [essenza che nell’esistenza](/concepts/essentia_existentia); infatti, cose che differiscono a questo livello sembrano non avere nulla in comune. Ma poiché tutte le cose particolari, ad eccezione di quelle che derivano da altre simili a loro, differiscono dalle proprie cause sia in essenza che nell’esistenza, non vedo alcun motivo per dubitare.
+
+Il senso in cui intendo dire che Dio è la [causa efficiente](/concepts/four_causes) delle cose, tanto della loro essenza quanto della loro esistenza, penso sia stato sufficientemente spiegato nell’Etica I, xxv, nota e corollario. L’axioma menzionato nella nota all’Etica I, x, come ho accennato alla fine di tale nota, si basa sull’idea che abbiamo di un Essere assolutamente infinito, e non sul fatto che esistano o possano esistere esseri dotati di tre, quattro o più attributi.
+
+Infine, gli esempi di primo tipo di cui chiedete sono, in termini di concetto, rappresentazioni di un’intelligenza assolutamente infinita; in termini di estensione, costituiscono esempi di movimento e quiete. Un esempio di secondo tipo è la somma dell’intero universo esteso, che, sebbene possa variare in infinite modalità, rimane comunque sempre lo stesso. Si veda l’Etica II, nota al lemma vii precedente alla proposizione xiv.
+
+Ecco dunque, eccellentissimo signore, come ho risposto, a mio parere, alle obiezioni da voi e dal vostro amico sollevate. Se ritenete che rimanga ancora qualche incertezza, spero che non vi dimenticherete di comunicarmelo, affinché io possa, se possibile, eliminarla.
+
+La Haye,
+
+29 luglio 1675.
+
+E. W. von Tschirnhausen
+
+12 agosto 1675
+
+Londra
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="074" data-title="LETTER LXVII. * * * * to Spinoza." data-chapter="LETTER LXVII. * * * * to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [A FRESH INQUIRY as to whether there are two or more attributes of God.]
@@ -1588,6 +3138,26 @@ The Hague
 
 E. W. von Tschirnhausen
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Un’interrogazione nuova riguardo al fatto che Dio possieda due o più attributi.]
+
+Onorevole Signore, —
+
+Desidererei una dimostrazione di ciò che affermate, cioè che l’anima non possa percepire alcuna attribuzione di Dio, se non estensione e pensiero. Anche se questo mi sembra evidente, è possibile che si possa dedurre il contrario dal passaggio menzionato nell’Etica II, vii; forse perché non comprendo correttamente il significato di quel testo. Pertanto, ho deciso, onorato signore, di mostrarvi come faccio questa deduzione, e vi supplico umilmente di aiutarmi con la vostra solita cortesia ogni volta che non riesca a interpretare correttamente il vostro pensiero. Ragiono così: sebbene intuisca che l’universo è uno, è altrettanto chiaro, da quel passaggio, che esso si esprime in infinite [modalità](/concepts/mode); quindi ogni singola cosa si manifesta in un numero infinito di modi. Ne consegue che la modificazione che costituisce la mia mente e quella che costituisce il mio corpo, pur essendo la stessa, si esprimono comunque in modo infinito: innanzitutto attraverso il pensiero, poi attraverso l’estensione, e successivamente attraverso alcune [attribuzioni](/concepts/attribute) di Dio a me sconosciute, e così via all’[infinito](/concepts/infinity), dato che in Dio esistono infinite attribuzioni, e l’ordine e la connessione di queste modificazioni sembrano essere gli stessi in tutti i casi. Sorge quindi questa domanda: perché la mente, che rappresenta una determinata modificazione – la quale si esprime non solo attraverso l’estensione, ma anche in infinite altre modalità – percepisce tale modificazione soltanto come espressa attraverso l’estensione, cioè attraverso il corpo umano, e non attraverso altre attribuzioni di Dio? Il tempo non mi permette di approfondire ulteriormente questo argomento; forse riflettendoci ancora, riuscirò a superare le mie difficoltà.
+
+Londra,
+
+12 agosto 1675.
+
+Benedetto da Spinoza
+
+18 agosto 1675
+
+La Haye
+
+E. W. von Tschirnhausen
+
 <span class="atom-split" data-atom="075" data-title="LETTER LXVIII. Spinoza to * * * * *." data-chapter="LETTER LXVIII. Spinoza to * * * * *." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [IN THIS FRAGMENT of a letter Spinoza refers his friend to Ethics, I. x. and II. vii. note.]
@@ -1605,6 +3175,24 @@ G. H. Schaller
 Amsterdam
 
 Benedict de Spinoza
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Nel seguente frammento di una lettera, Spinoza invita il suo amico a consultare le pagine X del Libro I e la pagina VII del Libro II dell’“Etica”.]
+
+Onorevole Signore, —. Ma in risposta alla vostra obiezione dico che, sebbene ogni cosa particolare possa essere espressa in infinite modi nell’infinito intelletto di Dio, tuttavia quelle infinite idee attraverso cui essa viene espressa non possono costituire un unico e stesso “intelletto” di quella cosa particolare, ma piuttosto infiniti intelletti; poiché ciascuna di queste infinite idee non ha alcun legame con le altre, come ho spiegato nella stessa nota all’Etica, II. vii., e come risulta anche da I. x. Se rifletterete un po’ su questi passaggi, vedrete che ogni difficoltà scompare.
+
+La Haye,
+
+18 agosto 1675.
+
+G. H. Schaller
+
+14 novembre 1675
+
+Amsterdam
+
+Benedetto da Spinoza
 
 <span class="atom-split" data-atom="076" data-title="LETTER LXVIII.a. G. H. Schaller to Spinoza." data-chapter="LETTER LXVIII.a. G. H. Schaller to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -1642,6 +3230,42 @@ The Hague
 
 G. H. Schaller
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SCHALLER racconta di quanto Tschirnhausen abbia fatto in Francia e della sua lettera a Spinoza, comunicandogli le risposte contenute in quella lettera alle obiezioni sollevate da Spinoza nella Lettera LXVIII, nonché la richiesta di Leibnitz di poter consultare gli scritti inediti di Spinoza.]
+
+Amsterdam,
+
+14 novembre 1675.
+
+Nobile e erudito Maestro, mio rispettatissimo Protettore.
+
+Spero che abbiate ricevuto regolarmente la mia lettera contenente il mio [metodo](/axes/method), e che anche voi, come me, siate in buona salute fino ad oggi.
+
+Per tre mesi non ho ricevuto alcuna lettera dal nostro amico von Tschirnhausen; per questo ho iniziato a temere che avesse intrapreso un viaggio fatale lasciando l’Inghilterra per la Francia. Ora che ho ricevuto una sua lettera, nella mia grande gioia ho ritenuto doverosa, secondo il suo desiderio, comunicarla al Maestro e farvi sapere, con i suoi più devoti saluti, che è arrivato sano e salvo a Parigi, dove ha trovato il signor Huygens, come gli avevamo detto. Ha quindi fatto di tutto per compiacerlo e per questo è molto stimato da lui. Von Tschirnhausen ha menzionato che il Maestro gli aveva raccomandato la compagnia del signor Huygens e ne parlava con grande stima personale. Questo ha molto soddisfatto Huygens, il quale ha risposto a sua volta che anch’egli vi stimava molto personalmente. Ha inoltre ricevuto da voi una copia del “Trattato Teologico-Politico”, che è molto apprezzato lì; si chiede con grande interesse se esistano altre opere dello stesso autore. Von Tschirnhausen ha risposto di non conoscerne altre, se non le “Demonstrazioni” relative alle prime due parti dei “Principi Cartesiani”. Non ha detto nulla riguardo al Maestro, se non ciò che ho già riportato; quindi spera di non avervi dispiaciuto in questo.
+
+* * * * *
+
+All’obiezione che avete sollevato l’ultima volta, risponde che quelle poche parole che ho scritto su dettatura del Maestro hanno spiegato più chiaramente il vostro significato, e che egli ha accolto favorevolmente tali argomentazioni (poiché con questi due metodi esse possono essere spiegate al meglio). Tuttavia, due motivi lo hanno costretto a mantenere l’opinione espressa nella sua recente obiezione. Il primo di questi motivi è che, in caso contrario, sembrerebbe sorgere una contraddizione tra la quinta e la settima proposizione del secondo libro: nella prima si afferma infatti che gli oggetti delle idee siano le cause efficienti di tali idee, il che, tuttavia, sembra essere confutato dalla citazione del quarto assioma della Parte I utilizzata nella dimostrazione della seconda proposizione. “O, per dirla in altro modo, non applico questo assiomo nel modo corretto secondo l’intenzione dell’autore; sarei molto grato se lui potesse chiarirmelo, qualora ne avesse il tempo”. Il secondo motivo che mi ha impedito di seguire la spiegazione fornita dall’autore è che essa porterebbe a ritenere che l’[attributo](/concepts/attribute) del pensiero abbia un ambito molto più ampio rispetto ad altri attributi. Tuttavia, poiché ciascuno di questi attributi contribuisce a costituire l’essenza di Dio, non riesco proprio a capire come questo fatto non contraddica l’opinione appena espressa. Vorrei aggiungere ancora che, se posso giudicare le intenzioni altrui in base alle mie proprie, risulterà molto difficile comprendere la settima e l’ottava proposizione del secondo libro; ciò avviene soltanto perché l’autore ha ritenuto opportuno (probabilmente perché queste proposizioni gli sembravano particolarmente chiare) accompagnarle con spiegazioni brevi e concise.
+
+Aggiunge inoltre di aver incontrato a Parigi un uomo di nome Leibnitz: straordinariamente erudito e molto abile in varie scienze, al contempo privo dei comuni pregiudizi teologici. Con lui ha instaurato una stretta amicizia, basata sul fatto che Leibnitz condivide con lui lo sforzo di perfezionare l’intelletto, ritenendolo davvero la cosa più preziosa e utile. Von Tschirnhausen afferma che Leibnitz sia particolarmente esperto in etica e che parli esclusivamente guidato dalla ragione, senza alcun impulso delle passioni; è altresì molto competente in fisica e negli studi metafisici riguardanti Dio e l’anima. Infine, conclude che Leibnitz sia davvero degno di ricevere le opere del Maestro, purché si ottenga prima il vostro permesso: ritiene infatti che l’autore ne trarrebbe grande beneficio, come prometterà di dimostrare dettagliatamente, qualora il Maestro lo desideri. Tuttavia, se ciò non dovesse essere possibile, non dubitate affatto che Leibnitz manterrà le opere in segreto, come ha promesso, poiché finora non ne ha mai fatto menzione alcuna. Anche Leibnitz apprezza molto il “Trattato Teologico-Politico”; a proposito di questo argomento scrisse una lettera al Maestro, se non sbaglio. Pertanto vi supplico, Maestro mio: a meno che non ci siano motivi validi per rifiutare, vi prego di concedermi il permesso con la vostra solita gentilezza e di aprirmi il vostro cuore il prima possibile. Una volta ricevute le vostre risposte, potrò rispondere al nostro amico von Tschirnhausen. Il che farei volentieri martedì sera, a meno che non sorgano ostacoli importanti che possano ritardare la vostra decisione.
+
+Il signor Bresser, al suo ritorno da Cleves, ha inviato qui una grande quantità di birra di quella regione; gli ho suggerito di regalarne mezza tunna al Maestro, cosa che lui ha promesso di fare, aggiungendo anche un saluto molto cordiale.
+
+Infine, perdonate lo stile poco abituale e la scrittura affrettata; datemi le vostre istruzioni, così da poter avere l’occasione reale di dimostrare il mio valore, eccellentissimo Signore.
+
+Il vostro più devoto servitore,
+
+G. H. Schaller.
+
+Benedetto da Spinoza
+
+18 novembre 1675
+
+La Haye
+
+G. H. Schaller
+
 <span class="atom-split" data-atom="077" data-title="LETTER LXVIII.b. Spinoza to Schaller." data-chapter="LETTER LXVIII.b. Spinoza to Schaller." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [SPINOZA ANSWERS ALL the points in Schaller’s letter, and hesitates to entrust his writings to Leibnitz.]
@@ -1664,6 +3288,28 @@ E. W. von Tschirnhausen
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+Spinoza risponde a tutti gli argomenti presenti nella lettera di Schaller, ma esita ad affidare le sue opere a Leibniz.
+
+Caro e stimato Signore, esperto in materia, —
+
+Sono molto lieto di aver appreso dalla vostra lettera, ricevuta oggi, che state bene e che il nostro amico von Tschirnhausen abbia felicemente completato il suo viaggio in Francia. Nella conversazione che ha avuto con il signor Huygens a proposito di me, si è comportato, almeno a mio parere, in modo molto saggiamente; inoltre, sono molto contento che abbia trovato un’opportunità così conveniente per realizzare lo scopo che aveva in mente. Tuttavia, non capisco come il quarto assioma della Parte I possa sembrare contraddire la Proposizione v della Parte II. In quella proposizione si afferma infatti che l’essenza di ogni idea ha come causa Dio, considerato come entità pensante; mentre in quell’assioma si sostiene che la conoscenza o l’idea di una causa dipenda dalla conoscenza o dall’idea di un effetto. A dire il vero, non comprendo del tutto il significato delle vostre parole e sospetto che ci sia stato un errore, sia nella vostra lettera che nella sua copia del libro. Voi scrivete infatti che nella Proposizione v si afferma che gli oggetti delle idee siano le cause efficienti di tali idee, mentre in realtà questo viene esplicitamente negato in quella proposizione. Penso quindi che questa sia la causa di tutta questa confusione. Pertanto, al momento non sarebbe utile per me cercare di spiegarmi più a lungo sull’argomento; dovrei aspettare che mi chiarite meglio le sue intenzioni e che verifichi se possiede una copia corretta del libro. Credo di conoscere, attraverso la corrispondenza, quel Leibnitz di cui parla. Ma non capisco perché lui, essendo un consigliere a Francoforte, sia andato in Francia. Da quanto posso dedurre dalle sue lettere, mi sembra una persona dal pensiero aperto e versata in ogni scienza; tuttavia ritengo imprudente affidargli i miei scritti così presto. Vorrei prima sapere quale sia la sua missione in Francia, nonché l’opinione del nostro amico von Tschirnhausen, dopo che avrà trascorso più tempo con lui e conoscerà meglio il suo carattere. Comunque, salutate per me quel nostro amico e ditegli di ordinarmi ciò che desidera: se posso essergli di qualche aiuto, sarò sempre pronto ad obbedire alle sue istruzioni.
+
+Congratulo il mio più stimato amico, il signor Bresser, per il suo arrivo o il suo ritorno, e gli ringrazio sinceramente per la birra che mi ha promesso; ricambierò la sua gentilezza in ogni modo possibile. Infine, non ho ancora cercato di comprendere il [metodo](/axes/method) utilizzato da vostro parente, e non credo che riuscirò a dedicarmi seriamente allo studio di tale questione. Più ci penso, più sono convinto che non siate riusciti a produrre oro, ma semplicemente non abbiate eliminato completamente quella [sostanza nascosta](/concepts/noumenon) nell’antimonio. Ne parleremo un’altra volta: per ora, la mancanza di tempo mi impedisce di approfondire l’argomento. Nel frattempo, se in qualche modo posso esservi d’aiuto, potete sempre contare su di me, eccellente signore, vostro amico e devoto servitore.
+
+B. de Spinoza.
+
+La Haye,
+
+18 novembre 1675.
+
+E. W. von Tschirnhausen
+
+2 maggio 1676
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="078" data-title="LETTER LXIX. * * * * to Spinoza." data-chapter="LETTER LXIX. * * * * to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [THE WRITER ASKS for explanations of some passages in the letter about the infinite.]
@@ -1679,6 +3325,24 @@ Benedict de Spinoza
 5 May, 1676
 
 The Hague
+
+E. W. von Tschirnhausen
+
+<span class="qlang-split" data-lang="it"></span>
+
+[L’AUTORE chiede spiegazioni per alcuni passaggi della lettera riguardanti l’infinito.]
+
+Onorevole Signore, —
+
+In primo luogo, trovo molto difficile concepire come si possa dimostrare a priori l’esistenza di corpi dotati di movimento e forma, visto che, considerando l’estensione in sé stessa, non vi è nulla del genere. In secondo luogo, vorrei sapere da voi come debba essere interpretato questo passaggio della vostra lettera sull’infinito: “Non ne concludono quindi che tali entità sfuggano al concetto di numero a causa della loro enorme quantità di parti componenti”. Infatti, a mio parere, tutti i matematici dimostrano sempre che, per quanto riguarda queste infinite, il numero delle parti è così grande da rendere impossibile qualsiasi espressione numerica. Nel caso degli esempi che avete fornito dei due cerchi, non sembrate affatto dimostrare questa tesi; anzi, in quel passaggio mostrate soltanto che non si arriva a tale conclusione sulla base della “grande dimensione dello spazio interposto” o del fatto che “non conosciamo il valore massimo e minimo di tale spazio”; ma non dimostrate, come avete inteso fare, che tale conclusione non sia basata sulla quantità enorme delle parti componenti.
+
+2 maggio 1676.
+
+Benedetto da Spinoza
+
+5 maggio 1676
+
+La Haye
 
 E. W. von Tschirnhausen
 
@@ -1702,6 +3366,26 @@ Paris
 
 Benedict de Spinoza
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza espone la sua visione dell’infinito.]
+
+Onorevole Signore, —
+
+La mia affermazione riguardo all’infinito, ovvero che non si possa dedurre un’[infinità](/concepts/infinity) di parti da una molteplicità di parti, diventa chiara se consideriamo che, se tale conclusione fosse possibile, non saremmo in grado di immaginare una molteplicità ancora maggiore di parti; la prima menzionata molteplicità, qualunque essa sia, dovrebbe necessariamente essere considerata più grande della seconda, il che è contrario alla realtà. Infatti, nello spazio compreso tra due cerchi non concentrici concepiamo una maggiore quantità di parti rispetto a quella contenuta nella metà di tale spazio; tuttavia, anche nel caso della metà dello spazio, come nell’intero spazio, il numero di parti supera qualsiasi numero possiamo assegnare. Inoltre, partendo dall’idea che Descartes si fa dell’estensione, cioè di una massa immobile, non solo è difficile, ma assolutamente impossibile dimostrare l’esistenza dei corpi. La materia a riposo, per sua natura, continuerà a rimanere ferma e verrà messa in movimento soltanto da una causa esterna più potente; per questo motivo non ho esitato ad affermare in precedenza che i principi cartesiani riguardanti le cose naturali sono inutili, per non dire assurdi.
+
+La Haye,
+
+5 maggio 1676.
+
+E. W. von Tschirnhausen
+
+23 giugno 1676
+
+Parigi
+
+Benedetto da Spinoza
+
 <span class="atom-split" data-atom="080" data-title="LETTER LXXI. * * * * to Spinoza." data-chapter="LETTER LXXI. * * * * to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 [HOW CAN THE variety of the universe be shown à priori from the Spinozistic conception of extension?]
@@ -1721,6 +3405,28 @@ Benedict de Spinoza
 15 July, 1676
 
 The Hague
+
+E. W. von Tschirnhausen
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Come può la varietà dell’universo essere dimostrata a priori sulla base della concezione spinozista dell’estensione?]
+
+Nobile e erudito signore, —
+
+Desidero che mi soddisfacciate in questa questione indicando come, a partire dalla concezione di estensione così come la definite voi, si possa dimostrare a priori la varietà dell’universo. Ricorderete certamente l’opinione di Cartesio, secondo cui tale varietà può essere dedotta unicamente dall’estensione, assumendo che quando Dio ha iniziato il movimento, questo abbia prodotto effetti specifici sull’estensione stessa. Tuttavia mi sembra che Cartesio non deduca l’esistenza dei corpi dalla materia a riposo, a meno che non si consideri nulla l’ipotesi di Dio come forza motrice; inoltre, non avete dimostrato come un tale effetto debba necessariamente derivare a priori dalla natura stessa di Dio. Una difficoltà che Cartesio stesso ammise di non essere in grado di risolvere, definendola al di là della comprensione umana. Vi pongo quindi questa domanda, sapendo che avete altre opinioni al riguardo, a meno che non esista qualche motivo importante per cui finora vi siete rifiutati di condividerle. Se, come suppongo, non è opportuno farlo ora, datemi almeno un indizio del vostro pensiero. Potete essere certi che il mio rispetto per voi rimarrà invariato, sia che parliate apertamente con me sia che manteniate la riservatezza.
+
+Le ragioni particolari che mi spingono a formulare queste richieste sono le seguenti: ho sempre osservato nella matematica che, partendo da una data entità considerata in sé stessa, cioè dalla sua definizione, si può dedurre soltanto una singola proprietà; se invece si desiderano individuare diverse proprietà, è necessario collocare quell’entità in relazione ad altre entità. Solo così, dalla combinazione delle definizioni di queste ultime, possono emergere nuove proprietà. Ad esempio, considerando la circonferenza di un cerchio in sé stessa, si può dedurre soltanto che è uniforme in ogni punto, una caratteristica che la distingue essenzialmente da tutte le altre curve; non sarà mai possibile inferire altre proprietà. Tuttavia, se si considera la circonferenza in relazione ad altri elementi, come i raggi che partono dal centro o due linee che si intersecano, è possibile dedurne molte altre proprietà. Questo sembra contraddire la Proposizione XVI della vostra Etica, che rappresenta quasi la proposizione principale del primo libro del vostro trattato. Lì si presuppone infatti che dalla definizione di un qualsiasi oggetto si possano dedurre diverse proprietà. A mio parere ciò è impossibile, a meno che l’oggetto definito non venga collocato in relazione ad altri elementi; inoltre, per questa ragione non riesco a comprendere come da un singolo [attributo](/concepts/attribute), come ad esempio l’estensione infinita, possano derivare diverse caratteristiche di un corpo. Se ritenete che tale conclusione non possa essere tratta da un attributo considerato isolatamente, ma soltanto dal loro insieme, vorrei che mi spiegaste in dettaglio come ciò sia possibile. — Addio, ecc.
+
+Parigi,
+
+23 giugno 1676.
+
+Benedetto da Spinoza
+
+15 luglio 1676
+
+La Haye
 
 E. W. von Tschirnhausen
 
@@ -1747,6 +3453,30 @@ Sept. 3, 1675
 Florence
 
 Benedict de Spinoza
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza fornisce la spiegazione necessaria. Menziona il trattato di Huet, ecc.]
+
+Onorevole Signore, —
+
+Riguardo alla tua domanda su se la varietà dell’universo possa essere dedotta a priori soltanto dalla nozione di estensione, credo di aver dimostrato abbastanza chiaramente che ciò non è possibile; pertanto, Descartes ha definito in modo impreciso la materia come semplice estensione. La materia deve necessariamente essere spiegata attraverso un [attributo](/concepts/attribute) che esprima un’essenza eterna e infinita. Forse, un giorno, se la mia vita dovesse prolungarsi, potrò discutere questo argomento con te in modo più chiaro. Finora, infatti, non sono riuscito a sistemare correttamente queste idee.
+
+Per quanto riguarda ciò che aggiungi, ovvero che dalla definizione di una data cosa considerata in sé stessa possiamo dedurre soltanto una singola proprietà, questo forse è vero nel caso di cose molto semplici (tra cui includo le figure geometriche), ma non nel caso delle realtà concrete. Infatti, solo dal fatto che definisco Dio come un Essere la cui essenza include l’esistenza, posso inferire diverse sue proprietà: cioè che Egli esiste necessariamente, che è Uno, immutabile, infinito, ecc. Potrei addurre altri esempi, ma per il momento li ometto.
+
+In conclusione, vi chiedo di verificare se il trattato di Huet (contro il “Tractatus Theologico-Politicus”) di cui vi ho scritto in precedenza sia già stato pubblicato, e se potreste inviarmene una copia. Inoltre, vorrei sapere quali siano le nuove scoperte riguardanti la rifrazione della luce. Addio, caro Signore, e continuate a considerarvi mio affezionatissimo amico, ecc.
+
+La Haye,
+
+15 luglio 1676.
+
+Albert Burgh
+
+3 settembre 1675
+
+Firenze
+
+Benedetto da Spinoza
 
 <span class="atom-split" data-atom="082" data-title="LETTER LXXIII. Albert Burgh to Spinoza. (parte 1)" data-chapter="LETTER LXXIII. Albert Burgh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
@@ -1776,6 +3506,34 @@ If you cannot pronounce on what I have just been enumerating (divining rods, alc
 
 I have written this letter to you with intentions truly Christian; first, in order to show the [love](/concepts/charity) I bear to you, though you are a heathen; secondly, in order to beg you not to persist in converting others.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Alberto Burgh annuncia la sua adesione alla Chiesa Cattolica e esorta Spinoza a seguire il suo esempio.]
+
+Vi avevo promesso di scrivervi non appena avessi lasciato il mio paese, nel caso fosse accaduto qualcosa di degno di nota durante il viaggio. Approfitto ora dell’occasione offerta da un evento di estrema importanza per mantenere la mia promessa, informandovi che, per la infinita misericordia di Dio, sono stato accolto nella Chiesa Cattolica e ne sono diventato membro. Potrete conoscere i dettagli di questo passo decisivo attraverso una lettera che ho inviato al distinto e competente Professore Craanen di Leyden. Aggiungo qui alcune osservazioni a vostro uso specifico.
+
+Anche se in passato vi ammiravo per la sottigliezza e l’acuità dei vostri doni naturali, ora vi lamento e vi deploro: poiché, essendo per natura i più talentuosi e adornati da Dio di doni straordinari, e avendo un profondo amore – anzi, una vera passione – per la verità, permettete tuttavia che voi stessi siate ingannati da quel essere più miserabile e orgoglioso di tutti, il principe degli spiriti malvagi. Quanto a tutta la vostra filosofia, non è forse soltanto un’illusione e una chimera? Eppure affidatevi ad essa non solo per la vostra pace interiore in questa vita, ma anche per la salvezza della vostra anima nell’[eternità](/positions/eternity). Guardate su quale fondamento miserabile poggiano tutte le vostre dottrine. Pretendete di aver finalmente scoperto la vera filosofia. Ma come potete essere certi che la vostra sia la migliore tra tutte quelle che sono state insegnate nel mondo, che sono attualmente insegnate o che saranno mai insegnate in futuro? Omettendo ciò che potrebbe essere inventato in futuro, avete esaminato davvero tutte le filosofie, antiche e moderne, che vengono insegnate qui, in India e in tutto il mondo? Anche se le aveste esaminate a dovere, come potete essere certi di aver scelto la migliore? Direte: “La mia filosofia è in armonia con la ragione; le altre filosofie no”. Ma tutti gli altri filosofi, tranne i vostri seguaci, sono in disaccordo con voi e, con uguale diritto, affermano della loro filosofia ciò che voi dite della vostra, accusandovi, come fate voi con loro, di falsità ed errore. È quindi evidente che, prima che la veridicità della vostra filosofia possa essere dimostrata, devono essere presentati argomenti specifici e unici rispetto alle altre filosofie; altrimenti dovete ammettere che anche la vostra è altrettanto incerta e inutile delle altre.
+
+Tuttavia, per il momento mi limiterò a quel tuo libro dal titolo irriverente, e considererò come tu stesso fai concretamente, la tua filosofia mescolata alla tua teologia; anche se, con astuzia diabolica, cerchi di far credere che le due siano distinte l’una dall’altra e seguano principi diversi. Ecco quindi come procederò.
+
+Forse direte: “Altri non hanno letto la Sacra [Scrittura](/concepts/revelation) con la stessa frequenza con cui l’ho fatto io; ed è proprio dalla Sacra Scrittura, il riconoscimento della quale distingue i cristiani dal resto del mondo, che dimostro le mie dottrine. Ma come? Confrontando i passaggi chiari con quelli più oscuri, spiego la Sacra Scrittura e, sulla base delle mie interpretazioni, formulo dei dogmi, oppure confermo quelli che già esistono nella mia mente.” Tuttavia, vi esorto a riflettere seriamente su ciò che dite. Come potete essere certi di aver applicato correttamente il vostro [metodo](/axes/method)? O ancora, come potete essere sicuri che tale metodo sia sufficiente per interpretare la Scrittura, e che quindi la state interpretando nel modo giusto? Soprattutto considerando che i cattolici affermano – e con grande veridicità – che la Parola di Dio universale non ci è stata trasmessa in forma scritta; pertanto, la Sacra Scrittura non può essere interpretata da un singolo individuo, ma soltanto dalla Chiesa stessa, l’unica interprete autorizzata. Anche le tradizioni apostoliche devono essere prese in considerazione, come dimostrano i testi della Sacra Scrittura e gli insegnamenti dei Santi Padri, nonché la ragione e l’esperienza umana. Pertanto, poiché i vostri principi fondamentali sono profondamente errati e portano alla distruzione, cosa ne sarà di tutta la vostra dottrina, costruita su una base così fragile?
+
+Pertanto, se credete in Cristo crocifisso, riconoscete la vostra eresia perniciosa, riflettete sulla perversità della vostra natura e riconciliatevi con la Chiesa.
+
+In che modo le vostre prove differiscono da quelle di tutti quegli eretici che in passato hanno abbandonato, stanno abbandonando o abbandoneranno in futuro la Chiesa di Dio? Tutti, proprio come voi, fanno uso dello stesso principio: cioè delle Sacre Scritture prese in sé stesse, per formulare e affermare le proprie dottrine.
+
+Non illudetevi pensando che né i Calvinisti, né la cosiddetta Chiesa Riformata, né i Luterani, né i Mennoniti, né i Sociniani, ecc., possano confutare le vostre dottrine. Tutti questi, come ho detto, sono altrettanto infelici di voi e, proprio come voi, vivono nell’ombra della morte.
+
+Se non credi in Cristo, sei più misero di quanto io possa esprimere. Eppure la soluzione è semplice: allontanati dai tuoi peccati e rifletti sull’arroganza mortale delle tue ragionamenti meschini e folli. Non credi in Cristo. Perché? Dirai: “Perché l’insegnamento e la vita di Cristo, così come la dottrina cristiana su di Lui, non sono affatto in armonia con le mie convinzioni”. Ma ancora una volta ti dico: allora osi considerarti più grande di tutti coloro che si sono levati nella [Stato](/concepts/state) o nella Chiesa di Dio – patriarchi, profeti, apostoli, martiri, dottori, confessori e sante vergini innumerevoli. Sì, con la tua blasfemia, osi considerarti persino più grande di Cristo stesso. Solo tu superi tutti questi in dottrina, modo di vivere, sotto ogni aspetto? Tu, misero pigmeo, vile verme della terra. Con la tua blasfemia indicibile, osi metterti al pari della saggezza incarnata e infinita del Padre Eterno? Solo tu ti consideri più saggio e più grande di tutti coloro che, fin dall’inizio del mondo, hanno fatto parte della Chiesa di Dio e hanno creduto, o continuano a credere, che Cristo sarebbe venuto, o che sia già venuto? Su cosa basi questa arroganza folle, deplorevole e inescusabile?
+
+* * * * *
+
+Se non siete in grado di esprimervi riguardo a ciò che ho appena elencato (bastoni divinatori, alchimia, ecc.), perché, misero uomo, siete così gonfi di orgoglio satanico da osare giudicare in modo precipitoso i terribili misteri della vita e della passione di Cristo, che stessi i cattolici nella loro dottrina dichiarano incomprensibili? Perché compite l’ulteriore follia di criticare stupidamente e invano i numerosi miracoli e segni operati per virtù di Dio Onnipotente dagli apostoli e dai discepoli di Cristo, e successivamente da migliaia di santi, come testimonianza e conferma della verità della fede cattolica; anzi, miracoli che ancora oggi vengono compiuti in tutto il mondo, per grazia e misericordia di Dio? Se non potete negare queste realtà – e certamente non potete – perché allora rimanere indifferenti? Unitevi tra voi nel nome della fraternità, pentitevi dei vostri peccati, assumete un atteggiamento di umiltà e rinascete nella fede.
+
+[Albert Burgh chiede a Spinoza di prendere in considerazione: (i.) Il gran numero di credenti nella fede romana. (ii.) La successione ininterrotta della Chiesa. (iii.) Il fatto che pochi uomini ignoranti abbiano convertito il mondo al cristianesimo. (iv.) L’antichità, l’immutabilità, l’infallibilità, l’incorruzione, l’unità e la vasta diffusione della Religione Cattolica; inoltre il fatto che la separazione da essa comporti la dannazione eterna, e che essa stessa durerà finché esisterà il mondo. (v.) L’ammirevole organizzazione della Chiesa Romana. (vi.) La morale superiore dei cattolici. (vii.) I frequenti casi di ritrattazione delle proprie opinioni da parte degli eretici. (viii.) La misera vita condotta dagli atei, indipendentemente dal loro comportamento esteriore.] * * * *
+
+Ho scritto questa lettera a te con intenzioni veramente cristiane: innanzitutto, per dimostrarti l’[amore](/concepts/charity) che provo per te, anche se sei un pagano; in secondo luogo, per pregarti di non insistere nel convertire gli altri.
+
 <span class="atom-split" data-atom="083" data-title="LETTER LXXIII. Albert Burgh to Spinoza. (parte 2)" data-chapter="LETTER LXXIII. Albert Burgh to Spinoza." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 I therefore will thus conclude: God is willing to snatch your soul from eternal damnation, if you will allow Him. Do not doubt that the Master, who has called you so often through others, is now calling you for the last time through me, who having obtained grace from the ineffable mercy of God Himself, beg the same for you with my whole heart. Do not deny me. For if you do not now give ear to God who calls you, the wrath of the Lord will be kindled against you, and there is a danger of your being abandoned by His infinite mercy, and becoming a wretched victim of the Divine Justice which consumes all things in wrath. Such a fate may Almighty God avert for the greater glory of His name, and for the salvation of your soul, also for a salutary example for the imitation of your most unfortunate and idolatrous followers, through our Lord and Saviour Jesus Christ, Who with the Eternal Father liveth and reigneth in the Unity of the Holy Spirit, God for all [Eternity](/positions/eternity). Amen.
@@ -1789,6 +3547,22 @@ Benedict de Spinoza
 1675
 
 The Hague
+
+Albert Burgh
+
+<span class="qlang-split" data-lang="it"></span>
+
+Concludo quindi così: Dio è disposto a strappare la vostra anima dall’eterna dannazione, se voi Lui lo permettete. Non dubitate che il Maestro, che vi ha chiamato molte volte attraverso altri, ora vi stia chiamando per l’ultima volta attraverso me, che, avendo ricevuto la grazia dalla ineffabile misericordia di Dio stesso, prego anch’io per voi con tutto il mio cuore. Non rifiutatemi. Perché se ora non ascoltate Dio che vi chiama, l’ira del Signore si accenderà contro di voi, e esiste il rischio che veniate abbandonati dalla Sua infinita misericordia, diventando vittime della Divina Giustizia che distrugge tutto con la sua ira. Un tale destino possa essere evitato dal Potente Dio, per la maggiore gloria del Suo nome, per la salvezza della vostra anima e anche come esempio salutare da imitare dai vostri più sfortunati e idolatrici seguaci. Per mezzo del nostro Signore e Salvatore Gesù Cristo, che vive e regna con il Padre Eterno nell’Unità dello Spirito Santo, Dio per tutta l’[Eternità](/positions/eternity). Amen.
+
+Firenze, III. Settembre, CIOIOCLXXV.
+
+(3 settembre 1675.)
+
+Benedetto da Spinoza
+
+1675
+
+La Haye
 
 Albert Burgh
 
@@ -1818,6 +3592,32 @@ The organization of the Roman Church, which you so greatly praise, I confess to 
 
 If, therefore, you had rightly judged, you would have seen that only your third point tells in favour of the Christians, namely, that unlearned and common men should have been able to convert nearly the whole world to a belief in Christ. But this reason militates not only for the Romish Church, but for all those who profess the name of Christ.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Spinoza deplora la decisione presa dal suo discepolo e risponde ai suoi argomenti. L’Aia, fine del 1675.]
+
+Quello che a malapena riuscivo a credere quando me lo veniva raccontato dagli altri, ora lo apprendo finalmente dalla tua stessa lettera: non solo sei diventato membro della Chiesa Romana, ma hai anche assunto il ruolo di un suo fervente sostenitore, arrivando persino a insultare e denigrare con arroganza i tuoi avversari.
+
+Inizialmente ho deciso di non rispondere alla tua lettera, pensando che il tempo e l’esperienza sarebbero sicuramente più efficaci del ragionamento nel farti tornare in te stesso e ai tuoi amici; per non parlare di altri argomenti che in passato avevano ottenuto la tua approvazione, quando discutevamo del caso di Steno, le cui orme stai ora seguendo. Tuttavia, alcuni dei miei amici, che come me nutrivano grandi speranze nei tuoi straordinari talenti, mi esortano con insistenza a non deluderti nel ruolo di amico e a considerare ciò che eri in passato, piuttosto che ciò che sei ora, utilizzando altri argomenti dello stesso genere. Per questo motivo ho deciso di scriverti questa breve risposta, e ti prego sinceramente di considerarla degna di una lettura attenta.
+
+Non intendo imitare quegli avversari del romanesimo che evidenziano i vizi dei preti e dei papi al solo scopo di suscitare in voi avversione. Tali argomentazioni vengono spesso sollevate per motivi malvagi e indegni, e tendono più a irritare che ad istruire. Ammetterò persino che nella Chiesa romana si trovano molti uomini di cultura e di vita irreprensibile rispetto a qualsiasi altra comunità cristiana; infatti, poiché essa comprende un numero maggiore di membri, ogni tipo di carattere vi è rappresentato in misura più ampia. Non potete negare, a meno che non abbiate perso sia la [memoria](/concepts/memory) che la ragione, che in ogni Chiesa esistono persone assolutamente oneste le quali venerano Dio con giustizia e [carità](/concepts/charity). Ne conosciamo molti tra i luterani, la Chiesa riformata, i mennoniti e gli entusiasti. Per non andare oltre, ricordate i vostri stessi congiunti, che durante il regno del Duca d’Alva sopportarono ogni sorta di torture con coraggio e volontà per la loro fede. In realtà, dovete ammettere che la santità personale non è propria esclusivamente della Chiesa romana, ma comune a tutte le Chiese cristiane.
+
+Poiché è proprio attraverso questo che sappiamo “che noi dimoriamo in Dio e Lui in noi” (1 Epistola di Giovanni, iv, 13), ne consegue che ciò che distingue la Chiesa Romana dalle altre deve essere qualcosa di completamente superfluo, e quindi fondato unicamente sulla superstizione. Infatti, come afferma Giovanni, giustizia e carità sono il segno sicuro della vera fede cattolica, nonché i veri frutti dello Spirito Santo. Dove si trovano queste qualità, lì realmente è presente Cristo; dove mancano, manca anche Cristo. Poiché soltanto lo Spirito di Cristo può guidarci verso l’amore per la giustizia e la carità. Se aveste voluto riflettere su questi punti, non vi sareste rovinati, né avreste causato profonda sofferenza alle persone che ora piangono amaramente il vostro stato di cose.
+
+Ma torno alla tua lettera, nella quale inizi lamentandoti che io mi lasci intrappolare dal principe degli spiriti malvagi. Prenditi coraggio e rifletti attentamente: quando eri in grado di usare le tue facoltà mentali, eri solito, se non erro, ad [adorare](/concepts/religion) un Dio Infinito, per mezzo del cui potere tutte le cose avvengono e vengono conservate; ora invece sogni di un principe, nemico di Dio, che, contro la volontà di Dio, intrappola e inganna moltissime persone (raramente persone buone, a dire il vero), le quali poi vengono consegnate da Dio stesso a questo signore del male affinché siano tormentate per l’eternità. La giustizia divina quindi permette al diavolo di ingannare gli uomini senza essere punito; ma non permette assolutamente che coloro che sono stati miserabilmente ingannati e intrappolati da quel medesimo diavolo rimangano impuniti.
+
+Queste assurdità potrebbero essere tollerate, se voi adoraste un Dio infinito ed eterno; non certo uno che Chastillon, nella città che i olandesi chiamano Tienen, abbia dato impunemente ai cavalli per farli mangiare. E voi, poveri infelici, mi compiangete? La mia filosofia, che mai avete visto, la definite una chimera? Oh giovani privi di intelletto, che siete stati indotti a credere che il Supremo ed Eterno venga mangiato da voi e rimanga nei vostri intestini.
+
+Eppure sembrate voler fare appello alla ragione e mi chiedete: “Come posso sapere che la mia filosofia sia la migliore tra tutte quelle che sono mai state insegnate nel mondo, o che sono attualmente in uso, o che verranno insegnate in futuro?” Una domanda che potrei porvi con ancora maggiore diritto; infatti non pretendo di aver scoperto la filosofia migliore, so soltanto di comprendere quella vera. Se mi chiedete in che modo lo sappia, vi rispondo: nello stesso modo in cui sapete che i tre angoli di un triangolo sono uguali a due angoli retti. Che questa verità sia sufficiente per dimostrare la validità della mia filosofia, non lo negherà nessuno il cui intelletto sia sano e che non si lasci influenzare da fantasie o idee false. La verità, infatti, è l’indice di se stessa e di ciò che è falso.
+
+Ma voi, che presumete di aver finalmente trovato la migliore religione, o meglio, le migliori persone su cui avete riposto la vostra credulità. Voi, che “sapete di essere i migliori tra tutti coloro che hanno insegnato, insegnano ancora o insegneranno in futuro altre religioni”. Avete esaminato tutte le religioni, sia antiche che moderne, quelle insegnate qui, in India e in tutto il mondo? E, se davvero le avete esaminate a dovere, come fate a sapere di aver scelto quella migliore, visto che non potete fornire alcuna ragione per la fede che nutrite? Ma direte certo che vi affidate alla testimonianza interiore dello Spirito di Dio, mentre il resto dell’umanità è ingannato dal principe dei demoni. Ma tutti coloro che si trovano al di fuori della Chiesa romana hanno altrettanto diritto di proclamare la propria fede, proprio come voi fate con la vostra.
+
+Per quanto riguarda ciò che aggiungi riguardo al consenso comune di innumerevoli persone e alla continuità ininterrotta della successione ecclesiastica, questo è proprio il leitmotivo dei Farisei. Essi, con la stessa convinzione dei devoti di Roma, fanno ricorso a un’infinità di testimoni i quali, con la stessa ostinazione dei testimoni romani, ripetono ciò che hanno sentito, come se fosse la loro esperienza personale. Inoltre, fanno risalire la propria tradizione ad Adamo e si vantano, con uguale arroganza, che la loro Chiesa sia sopravvissuta fino ai giorni nostri, immutata e intatta nonostante l’odio dei cristiani e degli pagani. Più di qualsiasi altra setta, sono sostenuti dall’antichità; esclamano tutti insieme che le loro tradizioni provengono direttamente da Dio e che soltanto loro conservano la Parola di Dio, sia scritta che orale. Che tutte le eresie siano nate da loro e che essi siano rimasti fedeli per migliaia di anni, non soggetti a alcuna costrizione del potere temporale, ma soltanto alla forza della loro superstizione. Questo nessuno può negarlo. I miracoli di cui parlano sarebbero in grado di stancare mille lingue. Ma il loro principale vanto è quello di contare un numero molto più grande di martiri rispetto a qualsiasi altra nazione; un numero che aumenta ogni giorno grazie a coloro che soffrono con straordinaria costanza per la fede che professano. E questo loro vanto non è affatto falso. Io stesso conoscevo, tra gli altri, un certo Giuda chiamato il Fedele: in mezzo alle fiamme, quando ormai si credeva fosse morto, alzò la voce e cantò l’inno che inizia con “A Te, o Dio, offro la mia anima”, e così morì mentre cantava.
+
+L’organizzazione della Chiesa Romana, che lodate così tanto, devo ammettere sia di natura politica e, per molti, anche molto redditizia. Crederei che non esistesse nulla di più adatto a ingannare il popolo e a tenere sotto controllo le menti delle persone, se non fosse per l’organizzazione della Chiesa Islamica, che la supera di gran lunga. Infatti, da quando è sorta questa superstizione, nella sua Chiesa non si è mai verificata alcuna scissione.
+
+Quindi, se aveste giudicato correttamente, avreste visto che solo il vostro terzo argomento è a favore dei cristiani: ovvero, che persone ignoranti e comuni dovessero essere in grado di convertire quasi tutto il mondo alla fede in Cristo. Ma questo ragionamento vale non solo per la Chiesa romana, ma anche per tutti coloro che professano il nome di Cristo.
+
 <span class="atom-split" data-atom="085" data-title="LETTER LXXIV. Spinoza to Albert Burgh. (parte 2)" data-chapter="LETTER LXXIV. Spinoza to Albert Burgh." data-kind="atom" data-srclang="en" data-tags="assi/god,assi/reality_status,assi/freedom_necessity,assi/soul_body,positions/pantheism,positions/monism,positions/determinism,concepts/substance,concepts/attribute,concepts/mode,concepts/nature,concepts/infinity,concepts/cause,concepts/freedom,forms/epistle,schools/continental_rationalism"></span>
 
 But assume that all the reasons you bring forward tell in favour solely of the Romish Church. Do you think that you can thereby prove mathematically the authority of that Church? As the case is far otherwise, why do you wish me to believe that my demonstrations are inspired by the prince of evil spirits, while your own are inspired by God, especially as I see, and as your letter clearly shows, that you have been led to become a devotee of this Church not by your [love](/concepts/charity) of God, but by your fear of hell, the single cause of superstition? Is this your humility, that you trust nothing to yourself, but everything to others, who are condemned by many of their fellow men? Do you set it down to pride and arrogance, that I employ reason and acquiesce in this true Word of God, which is in the mind and can never be depraved or corrupted? Cast away this deadly superstition, acknowledge the reason which God has given you, and follow that, unless you would be numbered with the brutes. Cease, I say, to call ridiculous errors mysteries, and do not basely confound those things which are unknown to us, or have not yet been discovered, with what is proved to be absurd, like the horrible secrets of this Church of yours, which, in proportion as they are repugnant to right reason, you believe to transcend the understanding.
@@ -1830,6 +3630,18 @@ Utrecht
 
 Lambert van Velthuysen
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma supponiamo che tutte le ragioni che adduci siano a favore esclusivamente della Chiesa Romana. Pensi davvero di poter dimostrare matematicamente l’autorità di quella Chiesa? Poiché la realtà è ben diversa, perché vuoi che creda che le mie argomentazioni siano ispirate dal principe degli spiriti malvagi, mentre le tue sono ispirate da Dio? Soprattutto considerando che, come vedo e come mostra chiaramente la tua lettera, sei diventato un devoto di questa Chiesa non per [amore](/concepts/charity) di Dio, ma per paura dell’inferno, l’unica causa della superstizione. È forse questa la tua umiltà: non fidarti di nulla in te stesso, ma di altri, che sono condannati da molti dei loro simili? O è forse orgoglio e arroganza il fatto che io utilizzi la ragione e accetti questa vera Parola di Dio, che risiede nella mente umana e che non può mai essere corrotta o distorta? Getta via questa pericolosa superstizione, riconosci la ragione che Dio ti ha dato e seguila, se non vuoi essere considerato uno degli animali. Smetti, dico io, di definire errori ridicoli “misteri”, e non confondere in modo ignobile ciò che è ancora sconosciuto o non ancora scoperto con ciò che si è dimostrato assurdo, come quelle orribili “rivelazioni” della tua Chiesa, che, nella misura in cui sono contrarie alla ragione, tu consideri al di là della comprensione umana.
+
+Ma il principio fondamentale del “Trattato Teologico-Politico”, secondo cui la [Scrittura](/concepts/revelation) debba essere interpretata soltanto attraverso la stessa Scrittura – principio che voi proclamate così arbitrariamente e senza alcuna ragione come falso – non è semplicemente ipotizzato, ma dimostrato in modo categorico come vero e corretto; soprattutto nel capitolo VII, dove vengono confutate anche le opinioni degli avversari; si veda anche ciò che viene dimostrato alla fine del capitolo XV. Se rifletterete su queste cose e esaminerete anche la storia della Chiesa (di cui vedo che siete completamente ignoranti), per comprendere quanto sia falsa, in molti aspetti, la tradizione papale, e con quali eventi e astuzie il Papa di Roma abbia ottenuto la supremazia sulla Chiesa seicento anni dopo Cristo, non dubito che alla fine tornerete in voi stessi. Desidero ardentemente che ciò avvenga per vostro bene. Addio, ecc.
+
+Benedetto da Spinoza
+
+Utrecht
+
+Lambert van Velthuysen
+
 <span class="atom-split" data-atom="086" data-title="LETTER LXXV. Spinoza to Lambert van Velthuysen (Doctor of Medicine at Utrecht.)" data-chapter="LETTER LXXV. Spinoza to Lambert van Velthuysen (Doctor of Medicine at Utrecht.)" data-kind="atom" data-srclang="en" data-tags="figures/spinoza,forms/epistle"></span>
 
 [OF THE PROPOSED annotation of the “Tractatus Theologico-Politicus.”
@@ -1837,5 +3649,15 @@ Lambert van Velthuysen
 Most excellent and distinguished Sir, —
 
 I wonder at our friend Neustadt having said, that I am meditating the refutation of the various writings circulated against my book, and that among the works for me to refute he places your MS. For I certainly have never entertained the intention of refuting any of my adversaries: they all seem to me utterly unworthy of being answered. I do not remember to have said to Mr. Neustadt anything more, than that I proposed to illustrate some of the obscurer passages in the treatise with notes, and that I should add to these your MS., and my answer, if your consent could be gained, on which last point I begged him to speak to you, adding, that if you refused permission on the ground, that some of the observations in my answer were too harshly put, you should be given full power to modify or expunge them. In the meanwhile, I am by no means angry with Mr. Neustadt, but I wanted to put the matter before you as it stands, that if your permission be not granted, I might show you that I have no wish to publish your MS. against your will. Though I think it might be issued without endangering your reputation, if it appears without your name, I will take no steps in the matter, unless you give me leave. But, to tell the truth, you would do me a far greater kindness, if you would put in writing the arguments with which you think you can impugn my treatise, and add them to your MS. I most earnestly beg you to do this. For there is no one whose arguments I would more willingly consider; knowing, as I do, that you are bound solely by your zeal for truth, and that your mind is singularly candid, I therefore beg you again and again, not to shrink from undertaking this task, and to believe me, Yours most obediently,
+
+B. de Spinoza.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SULLA proposta di annotazione del “Trattato Teologico-Politico”.]
+
+Eccellentissimo e distinto Signore, —
+
+Mi chiedo perché il nostro amico Neustadt abbia detto che sto riflettendo su come confutare i vari scritti diffusi contro il mio libro, e che tra le opere da confutare ha incluso anche il tuo manoscritto. Infatti, non ho mai avuto l’intenzione di confutare alcuno dei miei oppositori: tutti mi sembrano del tutto indegni di una risposta. Non ricordo di aver detto al signor Neustadt altro se non che intendevo illustrare alcuni passaggi più oscuri del trattato con delle note, e che avrei incluso anche il tuo manoscritto, insieme alla mia risposta, qualora fossi riuscito a ottenere il tuo consenso. A questo proposito gli ho chiesto di parlartene, aggiungendo che, se avessi rifiutato per il timore che alcune delle mie osservazioni fossero troppo dure, ti sarebbe stato concesso pieno potere di modificarle o cancellarle. Nel frattempo, non sono affatto arrabbiato con il signor Neustadt; volevo semplicemente presentarti la situazione così com’è, affinché, qualora il tuo permesso non venisse concesso, potessi dimostrarti che non ho alcuna intenzione di pubblicare il tuo manoscritto contro la tua volontà. Anche se penso che possa essere diffuso senza mettere a rischio la tua reputazione, purché non venga menzionato il tuo nome, non intraprenderò alcuna iniziativa senza il tuo permesso. Ma, a dire il vero, mi faresti un grande favore se scrivessi per iscritto gli argomenti con cui ritieni di poter confutare il mio trattato e li aggiungessi al tuo manoscritto. Ti prego sinceramente di farlo: non esiste nessuno le cui argomentazioni considererei più volentieri. So bene che sei spinto unicamente dal tuo zelo per la verità e che il tuo modo di pensare è estremamente onesto; pertanto ti supplico ancora una volta di non esitare a intraprendere questa impresa, e credimi. Il tuo più devoto servitore.
 
 B. de Spinoza.

@@ -74,6 +74,50 @@ Not that I do not believe that there may be as sure rules for pleasing as for de
 
 The reason of this extreme difficulty comes from the fact that the principles of pleasure are not firm and stable. They are different in all mankind, and variable in every particular with such a diversity that there is no man more different from another than from himself at different times. A man has other pleasures than a woman; a rich man and a poor man have different enjoyments; a prince, a warrior, a merchant, a citizen, a peasant, the old, the young, the well, the sick, all vary; the least accidents change them.
 
+<span class="qlang-split" data-lang="it"></span>
+
+L’ARTE DELLA PERSUASIONE
+
+L’arte della persuasione è strettamente legata al modo in cui le persone vengono indotte ad accettare ciò che loro viene proposto, nonché alle condizioni relative a ciò che si cerca di farle credere.
+
+È noto a tutti che esistono due vie attraverso le quali le opinioni entrano nell’anima, ovvero le sue due principali facoltà: l’intelletto e la volontà. La via più naturale è quella dell’intelletto, poiché non dovremmo mai accettare nulla se non verità dimostrate; ma la via più comune, sebbene contraria alla natura, è quella della volontà: infatti, quasi tutti gli uomini sono portati a credere non sulla base di prove, ma per attrazione. Questa via è bassa, ignobile e irrilevante; perciò tutti la rifiutano. Ognuno dichiara di credere, e persino di amare, soltanto ciò che sa essere degno di fede e amore.
+
+Non parlo qui di verità divine, le quali farò attenzione a non includere nell’arte della persuasione, poiché sono infinitamente superiori alla natura: solo Dio può insediarle nell’anima e nel modo che Lui stesso desidera. So che Egli ha voluto che queste verità entrassero nell’intelletto partendo dal cuore, e non dall’intelletto verso il cuore, al fine di umiliare quella orgogliosa facoltà del ragionamento che pretende di avere il diritto di giudicare ciò che la volontà sceglie; e per guarire questa volontà debole e completamente corrotta dai suoi legami impuri. Ecco perché, quando parliamo di cose umane, diciamo che è necessario conoscerle prima di poterle amare; questo concetto è diventato un proverbio. I santi, invece, a proposito delle verità divine, dicono che è necessario amarle per poterle conoscere, e che si entra nella verità soltanto attraverso la carità: da questo principio hanno tratto una delle loro massime più utili.
+
+Da ciò si evince che Dio ha stabilito questo ordine naturale, il quale è direttamente contrario all’ordine che dovrebbe essere naturale per gli uomini nelle cose materiali. Tuttavia, gli uomini hanno corrotto questo ordine, trasformando in cose profane ciò che avrebbe dovuto essere considerato sacro; infatti, crediamo quasi soltanto in ciò che ci piace. Ed è proprio da questa tendenza derivante dal nostro desiderio di soddisfare i nostri piaceri che nasce l’avversione che proviamo nel riconoscere le verità della religione cristiana che sono in contrasto con tali desideri. “Parlaci di cose piacevoli e vi ascolteremo”, dissero gli Ebrei a Mosè; come se la gradibilità di una cosa potesse determinare il nostro credere! Ed è proprio per punire questa disordinata tendenza, imponendo un ordine conforme alla volontà divina, che Dio riversa la sua luce nella mente umana soltanto dopo aver sottomesso la ribellione della volontà con una dolcezza assolutamente celestiale, capace di incantare e conquistare il cuore dell’uomo.
+
+Parlo quindi soltanto delle verità a nostra portata; ed è proprio di queste che affermo che la mente e il cuore siano come porte attraverso le quali tali verità entrano nell’anima, ma che pochissime di esse arrivino attraverso la mente, mentre molte vengono introdotte in massa dai capricci impulsivi della volontà, senza il consiglio della ragione.
+
+Ognuna di queste forze possiede i propri principi e le proprie motivazioni fondamentali per agire.
+
+Si tratta di verità naturali e conosciute da tutto il mondo; ad esempio, il fatto che il tutto sia maggiore della somma delle sue parti. Inoltre, ci sono alcune massime particolari che vengono accettate da alcuni e non da altri, ma che, non appena vengono ammesse, hanno lo stesso potere, sebbene false, nel indurre le persone a credere in esse, quanto quelle più vere.
+
+Quei desideri che derivano dalla volontà sono desideri naturali e comuni a tutta l’umanità; ad esempio il desiderio di essere felici, che nessuno può evitare di provare. Inoltre, ci sono diversi obiettivi specifici che ognuno persegue al fine di raggiungerli; tali obiettivi, poiché hanno il potere di darci piacere, sono altrettanto efficaci – sebbene in realtà possano rivelarsi dannosi – nel spingere la volontà ad agire, come se fossero effettivamente la fonte della vera felicità.
+
+Ecco quanto riguarda le forze che ci spingono ad acconsentire.
+
+Ma per quanto riguarda le qualità delle cose che dovrebbero convincerci, queste sono molto diverse.
+
+Alcune conclusioni derivano, per conseguenza necessaria, da principi comuni e verità riconosciute. Queste possono essere indubbiamente persuasive; infatti, dimostrando l’armonia che esiste tra di esse e i principi generalmente accettati, si genera inevitabilmente una sensazione di convinzione, e è impossibile che tali conclusioni non vengano accolte nell’anima non appena questa sia in grado di classificarle tra i principi che già riconosce.
+
+Alcuni di questi elementi presentano un legame stretto con gli oggetti della nostra soddisfazione; e questi vengono accettati con certezza, poiché non appena l’anima comprende che qualcosa può condurla verso ciò che ama sopra ogni cosa, inevitabilmente lo abbraccia con gioia.
+
+Ma coloro che possiedono questa doppia unione, sia con le verità riconosciute che con i desideri del cuore, sono così certi dell’efficacia di ciò che fanno che non esiste nulla al mondo che possa essere più sicuro di loro. Al contrario, ciò che non corrisponde né alle nostre credenze né ai nostri piaceri è insistentemente persistente, falso e assolutamente estraneo a noi.
+
+In tutte queste situazioni, non c’è spazio per il dubbio. Tuttavia, ci sono alcune in cui le cose di cui si cerca di farci credere sono basate su verità conosciute, ma che allo stesso tempo sono contrarie ai piaceri che ci interessano di più. E queste situazioni presentano un grande rischio: attraverso esperienze fin troppo comuni, si può dimostrare ciò che ho detto all’inizio: che questa anima presuntuosa, che si vanta di agire soltanto per ragione, segue, con scelte avventate e vergognose, i desideri di una volontà corrotta, nonostante ogni resistenza da parte di una mente troppo illuminata.
+
+È allora che si stabilisce un equilibrio incerto tra verità e piacere; la conoscenza della prima e la sensazione del secondo scatenano una lotta il cui esito è molto incerto, poiché per giudicarne correttamente sarebbe necessario conoscere tutto ciò che avviene nell’intimo dell’anima umana, di cui l’uomo stesso raramente ha consapevolezza.
+
+Da ciò si evince che, qualunque cosa vogliamo convincere le persone a credere, è necessario prendere in considerazione la persona stessa che vogliamo persuadere: dobbiamo conoscere i suoi pensieri e i suoi sentimenti, quali principi riconosce, quali cose ama; e poi osservare quale affinità esista tra ciò di cui vogliamo parlare e tali principi o oggetti che gli procurano piacere.
+
+Quindi, l’arte della persuasione consiste tanto nel piacere quanto nel convincere; e gli uomini sono guidati molto di più dal capriccio che dalla ragione! Ora, di questi due metodi – quello del convincere e quello del piacere – darò qui soltanto le regole del primo, a condizione che abbiamo già accettato i principi su cui si basa e che rimaniamo fermi nell’ammetterli; altrimenti, non so se sia possibile esistere un’arte capace di adattare le argomentazioni all’incostanza dei nostri capricci.
+
+Ma il modo per compiacere gli altri è incomparabilmente più difficile, più sottile, più utile e più ammirevole; pertanto, se non ne parlo, è perché non ne sono capace; mi sento così totalmente inadeguato a questa impresa, che ritengo la cosa assolutamente impossibile.
+
+Non è che non creda che possano esistere regole altrettanto certe per compiacere gli altri quanto per dimostrare qualcosa; chi sa perfettamente come applicarle riuscirà sicuramente a farsi amare da principi e persone di ogni condizione, proprio come coloro che riescono a spiegare i concetti della geometria a chi possiede l’immaginazione necessaria per comprenderne le ipotesi. Tuttavia ritengo – ed è forse questa la mia debolezza – che sia impossibile raggiungere questo obiettivo. Almeno so che, se qualcuno ne è capace, si tratta di persone che conosco personalmente; nessun altro possiede una conoscenza così chiara e approfondita in questa materia.
+
+La ragione di questa estrema difficoltà deriva dal fatto che i principi del piacere non sono fermi e stabili. Essi differiscono in tutta l’umanità e sono variabili in ogni singolo caso, con una diversità tale che nessun uomo è più simile a un altro di quanto lo sia a se stesso in momenti diversi. Un uomo ha piaceri diversi da quelli di una donna; un ricco e un povero hanno godimenti differenti; un principe, un guerriero, un mercante, un cittadino, un contadino, gli anziani, i giovani, i sani, i malati, tutti differiscono tra loro; anche i minimi cambiamenti possono alterarli.
+
 <span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/fideism,concepts/will,concepts/reason,concepts/faith,concepts/grace,forms/treatise,schools/jansenism"></span>
 
 Now there is an art, and it is that which I give, for showing the connection of truths with their principles, whether of truth or of pleasure, provided that the principles which have once been avowed remain firm, and without being ever contradicted.
@@ -92,6 +136,24 @@ Rules for Definitions
 
 I. Not to undertake to define any of the things so well known of themselves that clearer terms cannot be had to explain them.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Esiste dunque un’arte, ed è quella che io insegno: consiste nel dimostrare il legame tra le verità e i loro principi, sia che si tratti di verità che di piaceri, a condizione che tali principi siano sempre stati riconosciuti senza mai essere messi in discussione.
+
+Ma poiché esistono pochi principi di questo tipo, e poiché, ad eccezione della geometria che tratta soltanto di figure molto semplici, quasi non ci sono verità su cui siamo sempre d’accordo, e ancora meno oggetti di piacere che non cambiamo ogni ora, non so se esista un modo per stabilire regole fisse per adattare il discorso all’incostanza dei nostri capricci.
+
+Quest’arte, che chiamo l’arte della persuasione e che, in realtà, non è altro che il processo di dimostrazioni meticolose e sistematiche, si compone di tre parti essenziali: la definizione chiara dei termini da utilizzare; la proposta di principi o assiomi evidenti per dimostrare ciò che si vuole dimostrare; e l’abitudine a sostituire mentalmente, nelle dimostrazioni, la definizione del termine con il termine stesso definito.
+
+La ragione di questo [metodo](/axes/method) è evidente: sarebbe inutile proporre ciò che si intende dimostrare e intraprendere la sua dimostrazione se tutti i termini non fossero stati prima definiti chiaramente; inoltre, è necessario che alla dimostrazione precedano i principi evidenti che le sono indispensabili, poiché senza una base solida non si può costruire nulla; infine, nel procedere mentalmente alla dimostrazione, è essenziale sostituire i termini definiti con le loro definizioni, altrimenti si potrebbero commettere errori a causa delle diverse accezioni che alcuni termini possono assumere. È facile comprendere che, seguendo questo metodo, siamo certi di riuscire a convincere, poiché tutti i termini sono chiaramente definiti e privi di ambiguità, e i principi su cui si basa la dimostrazione sono già accettati; se durante il processo di dimostrazione sostituiamo sempre mentalmente i termini con le loro definizioni, allora l’efficacia delle conclusioni sarà inevitabile.
+
+Pertanto, una dimostrazione nella quale queste condizioni siano state rispettate non può mai essere soggetta al minimo dubbio; e quelle dimostrazioni nelle quali tali condizioni mancano non possono mai avere alcuna validità.
+
+È quindi di grande importanza comprenderli e padroneggiarli; per rendere il tutto più semplice e pratico, li presenterò sotto forma di poche regole che includono tutto ciò che è necessario per perfezionare le definizioni, gli assiomi e le dimostrazioni, e quindi l’intero metodo delle prove geometriche nell’arte della persuasione.
+
+Regole per le definizioni
+
+I. Non intendiamo affatto definire alcuna di quelle cose che sono così ben conosciute da non richiedere termini più chiari per spiegarle.
+
 <span class="atom-split" data-atom="003" data-title="II. Not to leave any terms that are at all obscure or ambiguous without definition." data-chapter="II. Not to leave any terms that are at all obscure or ambiguous without definition." data-kind="atom" data-srclang="en" data-tags="assi/method,concepts/idees_claires_distinctes"></span>
 
 III. Not to employ in the definition of terms any words but such as are perfectly known or already explained.
@@ -99,6 +161,14 @@ III. Not to employ in the definition of terms any words but such as are perfectl
 Rules for Axioms
 
 I. Not to omit any necessary principle without asking whether it is admitted, however clear and evident it may be.
+
+<span class="qlang-split" data-lang="it"></span>
+
+III. Non utilizzare nella definizione dei termini alcune parole se non quelle che siano perfettamente conosciute o già spiegate.
+
+Regole per gli Assiomi
+
+I. Non omettere alcun principio necessario senza chiedersi se sia accettato, per quanto chiaro ed evidente possa essere.
 
 <span class="atom-split" data-atom="004" data-title="II. Not to demand, in axioms, any but things that are perfectly evident of themselves. (parte 1)" data-chapter="II. Not to demand, in axioms, any but things that are perfectly evident of themselves." data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/fideism,concepts/will,concepts/reason,concepts/faith,concepts/grace,forms/treatise,schools/jansenism"></span>
 
@@ -162,6 +232,68 @@ One man will say a thing of himself without comprehending its excellence, in whi
 
 The same thoughts sometimes put forth quite differently in the mind of another than in that of their author: unfruitful in their natural soil, abundant when transplanted. But it much oftener happens that a good mind itself makes its own thoughts produce all the fruit of which they are capable, and that afterwards others, having heard them admired, borrow them, and adorn themselves with them, but without knowing their excellence; and it is then that the difference of the same word in different mouths is the most apparent.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Regole per le manifestazioni
+
+I. Non intendo impegnarmi a dimostrare nulla che sia di per sé così evidente da non richiedere alcuna prova ulteriore.
+
+II. Dimostrare tutte le proposizioni oscure, utilizzando nell’indagine soltanto massime o proposizioni molto evidenti, già accettate o dimostrate.
+
+III. Sostituire sempre mentalmente le definizioni alle cose stesse definite, al fine di non essere ingannati dall’ambiguità dei termini che sono stati delimitati da tali definizioni.
+
+Queste otto regole contengono tutti i precetti necessari per dimostrazioni solide e inalterabili; tre di esse non sono assolutamente indispensabili e possono essere trascurate senza incorrere in errori; sebbene sia difficile, se non quasi impossibile, osservarle sempre con precisione, è comunque più corretto farlo ogni volta che possibile. Queste sono le prime tre regole di ciascuna delle divisioni indicate.
+
+Per le definizioni. Non per definire termini che siano già perfettamente noti.
+
+Per gli assiomi. Non bisogna tralasciare di richiedere assiomi perfettamente evidenti e semplici.
+
+Per dimostrazioni. Non per dimostrare cose che sono già note di per sé.
+
+È indubbiamente vero che non rappresenta alcun grande errore definire e spiegare chiaramente le cose, anche quando queste sono già di per sé molto comprensibili; né è un errore omettere di richiedere in anticipo gli assiomi che non possono essere rifiutati nei contesti in cui sono necessari; infine, non è certo un errore dimostrare proposizioni che comunque verrebbero accettate senza alcuna dimostrazione.
+
+Ma le altre cinque regole sono di assoluta necessità e non possono essere trascurate senza causare gravi errori; per questo motivo le riassumerò qui in dettaglio.
+
+Regole necessarie per le definizioni. Non lasciare alcun termine oscuro o ambiguo senza una definizione chiara.
+
+Non utilizzare nelle definizioni se non termini perfettamente noti o già spiegati.
+
+Regola necessaria per gli assiomi: non richiedere negli assiomi nulla se non ciò che è perfettamente evidente.
+
+Regole necessarie per le dimostrazioni. Per provare qualsiasi proposizione, non si deve utilizzare nulla altro che assiomi pienamente evidenti di per sé stessi, o proposizioni già dimostrate o ammesse.
+
+Non approfittare mai dell’ambiguità dei termini, evitando di sostituire mentalmente quelle definizioni che li limitano e li spiegano.
+
+Queste cinque regole costituiscono tutto ciò che è necessario per rendere le dimostrazioni convincenti e immutabili; in altre parole, per renderle veramente “geometriche”. Insieme, queste otto regole le rendono ancora più perfette.
+
+Ora passo all’argomento relativo all’ordine in cui le proposizioni dovrebbero essere disposte affinché costituiscano una serie geometrica completa.
+
+Dopo aver stabilito.
+
+Ecco in cosa consiste l’arte di persuadere, che si fonda su questi due principi: definire tutti i termini di cui facciamo uso; dimostrarli tutti sostituendo mentalmente le definizioni alle cose stesse definite.
+
+E qui mi sembra opportuno anticipare tre obiezioni principali che potrebbero essere sollevate.
+
+1°, che questo [metodo](/axes/method) non presenta nulla di nuovo; 2°, che è molto facile da imparare, poiché non è necessario studiare gli elementi della geometria, essendo composto soltanto da due parole facilmente comprensibili alla prima lettura; e 3°, che ha scarsa [utilità](/positions/utility_pleasure), poiché il suo utilizzo si limita quasi esclusivamente ai problemi geometrici.
+
+È quindi necessario dimostrare che non esiste nulla di meno conosciuto, nulla di più difficile da mettere in pratica, e nulla di più utile o universale.
+
+Per quanto riguarda il primo obiezione, ovvero che queste regole siano comuni in tutto il mondo, che sia necessario definire e dimostrare ogni cosa, e che gli stessi logici le abbiano incluse tra i principi della loro disciplina, vorrei davvero che fosse vero e così ben noto da non costringermi a cercare con tanta cura la fonte di tutti quegli errori nel ragionamento che sono davvero così diffusi. Ma in realtà le cose stanno molto diversamente: ad eccezione dei geometri, il cui numero è così esiguo da essere praticamente inesistente in un’intera nazione e per lunghi periodi di tempo, non vediamo nessun altro che conosca queste regole. Sarà facile far capire questo a coloro che hanno compreso perfettamente ciò che ho detto; ma se non l’hanno compreso appieno, confesso che non impareranno nulla da queste osservazioni.
+
+Ma se hanno accolto lo spirito di queste regole, e se queste regole hanno avuto su di loro un impatto sufficiente per radicarsi e stabilirsi nella loro mente, comprenderanno quanto sia grande la differenza tra ciò che qui viene detto e ciò che alcuni logici potrebbero aver scritto, forse per [Casualità](/concepts/fortune), in alcune parti delle loro opere.
+
+Coloro che possiedono lo spirito di discernimento sanno quanto sia grande la differenza tra due parole simili, a seconda della loro posizione nel contesto e delle circostanze che le accompagnano. Si potrà davvero affermare che due persone che hanno letto lo stesso libro e l’hanno imparato a memoria abbiano una conoscenza analoga di esso? Se una di queste persone ne comprende tutti i principi, la forza delle sue conclusioni, le risposte alle obiezioni che potrebbero essere sollevate e l’intera struttura del testo; per l’altra, invece, tali informazioni non sono altro che lettere morte o semi sterili, che, pur essendo simili a quelli da cui sono nati alberi fruttiferi, rimangono inerti e improduttivi nella mente sterile che le ha accolte invano.
+
+Tutti coloro che dicono le stesse cose non le possiedono nello stesso modo; ed è per questo che l’incomparabile autore dell’“Arte della Conversazione” si sofferma con grande attenzione per far capire che non dobbiamo giudicare la capacità di un uomo in base all’eccellenza di una battuta felice che lo abbiamo sentito pronunciare. Piuttosto che estendere la nostra ammirazione per un buon discorso al suo autore, dobbiamo cercare di comprendere la mente da cui esso proviene; dobbiamo verificare se sia il risultato della sua memoria o di una semplice coincidenza fortunata; dobbiamo accoglierlo con distacco e disprezzo, per vedere se l’autore si renderà conto che non gli attribuiamo la stima che merita. Spesso si vedrà che sarà costretto a negarlo sul momento stesso, e che verrà trascinato lontano da quel pensiero nobile in cui non crede, per immergersi in un altro, molto più volgare e ridicolo. Pertanto dobbiamo analizzare con attenzione il modo in cui questo pensiero è radicato nell’autore: come, da dove, fino a che punto lo possiede; altrimenti, un giudizio affrettato risulterà errato.
+
+Chiederei a persone ragionevoli se questi due principi: “La materia è naturalmente del tutto incapace di pensiero” e “Penso, quindi esisto”, siano in realtà lo stesso nella mente di Cartesio e in quella di Sant’[Agostino](/figures/augustine), che disse la stessa cosa mille duecento anni prima.
+
+In verità, non sto affatto affermando che Descartes non sia il vero autore di queste idee; anche se potrebbe averle apprese soltanto leggendo le opere di questo illustre santo. So infatti quanto sia grande la differenza tra scrivere una parola casualmente, senza rifletterci a lungo, e percepire in quella stessa parola una serie di conclusioni straordinarie che dimostrano la distinzione tra natura materiale e spirituale, utilizzandola poi come principio fondamentale di un sistema metafisico completo, come ha fatto Descartes. Senza esaminare se sia effettivamente riuscito nel suo intento, suppongo che ci sia riuscito; ed è su questa ipotesi che affermo che queste idee, nelle sue opere, sono completamente diverse da quelle formulate casualmente da altri autori, proprio come un uomo pieno di vita e forza è diverso da un cadavere.
+
+Un uomo dirà qualcosa di sé stesso senza comprendere la sua eccellenza; un altro, invece, ne scorderà una meravigliosa sequenza di implicazioni, che ci faranno affermare con sicurezza che si tratta ormai di un’espressione diversa, e che quell’uomo non è più in debito verso colui da cui l’ha appresa, proprio come un bell’albero non appartiene a chi ha gettato il seme, senza nemmeno pensarci o saperlo, nel terreno fertile che ne ha favorito la crescita grazie alla propria fertilità.
+
+Gli stessi pensieri, a volte, vengono espressi in modo molto diverso nella mente di un altro rispetto a quella del loro autore: infruttuosi nel terreno naturale in cui sono nati, diventano rigogliosi quando vengono trasplantati altrove. Ma molto più spesso accade che una mente eccellente faccia sì che i propri pensieri producano tutto il frutto di cui sono capaci; successivamente, altri, avendoli sentiti lodare, li prendono in prestito e se ne adornano, senza però conoscere la loro vera qualità. Ed è proprio in questi casi che la differenza nell’espressione dello stesso concetto a seconda della persona che lo esprime diventa più evidente.
+
 <span class="atom-split" data-atom="005" data-title="II. Not to demand, in axioms, any but things that are perfectly evident of themselves. (parte 2)" data-chapter="II. Not to demand, in axioms, any but things that are perfectly evident of themselves." data-kind="atom" data-srclang="en" data-tags="assi/faith_reason,positions/fideism,concepts/will,concepts/reason,concepts/faith,concepts/grace,forms/treatise,schools/jansenism"></span>
 
 It is in this manner that logic has borrowed, perhaps, the rules of geometry, without comprehending their force; and thus, in placing them by [chance](/concepts/fortune) among those that belong to it, it does not thence follow that they6 have entered into the spirit of geometry, and I should be greatly averse if they gave no other evidence of it than that of having mentioned it by chance, to placing them on a level with that science that teaches the true [method](/axes/method) of directing the reason.
@@ -195,3 +327,37 @@ ENDNOTES.
 5 Civ. Dei, 1. XI, c. xxvi.
 
 6 Doubtless the logicians.―Faugère.
+
+<span class="qlang-split" data-lang="it"></span>
+
+È in questo modo che la logica ha forse preso in prestito le regole della geometria, senza comprenderne il vero significato; e così, inserendole per caso tra quelle che appartengono a essa, non ne consegue affatto che abbiano assunto lo spirito stesso della geometria. Sarei molto contrario se queste regole non fornissero alcuna prova concreta di ciò, se non il semplice fatto di essere state menzionate per caso, come se potessero essere considerate equivalenti a quella scienza che insegna il vero [metodo](/axes/method) per guidare la ragione.
+
+Ma, al contrario, dovrei essere fortemente propenso a escluderli da esso, e quasi irrevocabilmente. Poiché averlo detto per caso, senza prendersi la cura di verificare che tutto fosse effettivamente incluso in esso, e invece di seguire quella “luce” per vagabondare ciecamente in ricerche inutili, inseguendo ciò che promette ma che mai può essere realizzato, dimostra chiaramente che tali persone non sono molto perspicaci. E questo è molto peggio che se non avessero nemmeno cercato di seguire quella “luce”, perché semplicemente non l’avevano percepita.
+
+Tutti cercano il metodo che permetta di non commettere errori. I logici affermano di poter guidare verso di esso, ma solo i geometri lo raggiungono veramente; al di fuori della loro scienza e delle imitazioni di essa, non esistono dimostrazioni autentiche. L’intera arte è contenuta nei semplici precetti che abbiamo fornito: soltanto essi sono sufficienti, soltanto essi offrono prove valide; tutte le altre regole sono inutili o dannose. Lo so per lunga esperienza, avuta con ogni tipo di libro e persona.
+
+E su questo punto esprimo lo stesso giudizio di coloro che affermano che i geometri non offrano nulla di nuovo con queste regole, poiché in realtà le possedevano già; tuttavia, esse erano confuse tra molte altre regole, alcune inutili o false, e quindi non era possibile distinguerle. È come coloro che cercano un diamante di grande valore tra molti falsi, ma non sanno come riconoscerlo; tali persone, tenendo tutti insieme quegli oggetti, potrebbero vantarsi di possedere il vero diamante, proprio come colui che, senza perdere tempo in mezzo a tutta quella roba inutile, riesce subito a individuare la pietra preziosa che cercava, senza gettare via il resto.
+
+Il difetto del ragionamento errato è una malattia che può essere curata con questi due rimedi. Un altro metodo di cura consiste nell’utilizzare un’[infinità](/concepts/infinity) di erbe inutili, nelle quali i componenti efficaci sono “avvolti” da qualità negative che ne annullano l’effetto positivo.
+
+Per scoprire tutte le sofisticherie ed equivocazioni di questi ragionamenti tortuosi, hanno inventato nomi barbari che lasciano sbalorditi coloro che li ascoltano; mentre noi possiamo sciogliere solo alcuni di questi nodi complessi seguendo i metodi proposti dai geometri, loro ne hanno indicati molti altri in cui i primi sono inclusi, senza però sapere quale sia il metodo migliore.
+
+E così, pur mostrandoci numerosi sentieri che, a loro dire, ci conducono verso il luogo verso cui tendiamo, quando in realtà ce ne sono soltanto due che portano lì, è necessario sapere come individuarli con precisione. Si pretenderà che la geometria, che li indica con certezza, offra soltanto ciò che già era stato fornito da altri, poiché in realtà questi ultimi avevano detto la stessa cosa – e anche di più – senza rendersi conto che tale “beneficio” perdeva il suo valore quando veniva ripetuto troppo spesso, anzi ne risultava ridotto.
+
+Niente è più comune delle cose buone: l’importante è saperle distinguere; e è certo che tutte siano naturali, al nostro reach e persino conosciute da tutta l’umanità. Tuttavia, le persone non sanno come distinguerle. Questo fenomeno è universale. L’eccellenza, di qualsiasi tipo essa sia, non si trova tra le cose straordinarie o fantastiche; spesso è necessario “inclinarsi” per raggiungerla. I migliori libri sono quelli che coloro che li leggono credono di poter scrivere loro stessi. La Natura, l’unica cosa veramente buona, è del tutto familiare e comune a tutti noi.
+
+Non ho alcun dubbio che queste regole, essendo le vere, siano semplici, naturali e prive di artificiosità, proprio come in realtà sono. Non sono certo Barbara o Baralipton a costituire il vero processo di ragionamento. La mente non deve essere forzata; comportamenti artificiali e costrittti la riempiono di presunzioni sciocche, di un’ascesa innaturale e di una vanità ridicola, invece di fornirle nutrimento solido e vigoroso. Uno dei principali motivi per cui coloro che iniziano a cercare questa conoscenza si allontanano tanto dal vero cammino da seguire è l’illusione che, fin dall’inizio, considerino le cose buone inaccessibili, attribuendo loro nomi come “grandiose”, “sublimi” o “elevate”. Questo distrugge tutto. Io le chiamerei piuttosto “basse”, “comuni”, “familiari”: questi nomi sono più appropriati; odio queste espressioni eccessivamente lusinghiere.
+
+Note finali.
+
+1 Chi non conosce, nulla desidera – “Non desideriamo ciò che non conosciamo”.
+
+La parte rimanente della frase è mancante; e l’intera seconda parte di questa composizione, sia perché non fu scritta da Pascal, sia perché si è perduta, non si trova né nel nostro manoscritto né in Father Desmolets. — Faugère
+
+3 Montaigne, Saggi, libro III, capitolo VIII – Faugère.
+
+L’espressione di Montaigne è: “Percepi da tutti i lati come tale concetto sia radicato nell’autore che l’ha espresso.” *Essais*, stesso capitolo. – Ibidem.
+
+5 Civ. Dei, 1. XI, c. xxvi.
+
+Senza dubbio, i logici, – Faugère.

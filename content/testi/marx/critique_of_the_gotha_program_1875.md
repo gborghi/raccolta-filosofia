@@ -317,7 +317,7 @@ Nella società cooperativa basata sulla proprietà collettiva dei mezzi di produ
 
 Ciò con cui abbiamo a che fare qui è una società comunista, non come si è sviluppata sulle proprie basi, ma, al contrario, proprio nel momento in cui emerge dalla società capitalista; quindi, sotto ogni aspetto – economico, morale e intellettuale – essa porta ancora le tracce della vecchia società da cui proviene. Di conseguenza, il produttore individuale riceve dalla società – dopo le deduzioni necessarie – esattamente ciò che ha dato a essa. Ciò che ha dato è la propria quantità di lavoro individuale: ad esempio, la giornata lavorativa sociale è costituita dalla somma delle ore di lavoro individuali; il tempo di lavoro di un singolo produttore rappresenta la parte della giornata lavorativa sociale che egli contribuisce a fornire. Riceve quindi da parte della società una certificazione che attesta quanto lavoro abbia effettivamente fornito (dopo aver detratto la sua quota per i fondi comuni); e con questa certificazione può attingere dal patrimonio sociale di mezzi di consumo esattamente quella stessa quantità di beni che corrisponde al lavoro da lui prestato. La stessa quantità di lavoro che ha dato alla società in una forma, la riceve indietro in un’altra.
 
-Qui, ovviamente, prevale lo stesso principio che regola lo scambio di merci, nel senso che si tratta dello scambio di valori uguali. Il contenuto e la forma cambiano, poiché, nelle circostanze modificate, nessuno può dare nulla se non il proprio lavoro, e poiché, d’altra parte, nulla può passare in proprietà degli individui se non mezzi di consumo individuali. Tuttavia, per quanto riguarda la distribuzione di questi mezzi di consumo tra i produttori individuali, prevale lo stesso principio che nel caso dello scambio di equivalenti di merci: una data quantità di lavoro in un certo forma viene scambiata con una quantità uguale di lavoro in un’altra forma.
+Qui, ovviamente, prevale lo stesso principio che regola lo scambio di [merci](/concepts/commodity), nel senso che si tratta dello scambio di valori uguali. Il contenuto e la forma cambiano, poiché, nelle circostanze modificate, nessuno può dare nulla se non il proprio lavoro, e poiché, d’altra parte, nulla può passare in proprietà degli individui se non mezzi di consumo individuali. Tuttavia, per quanto riguarda la distribuzione di questi mezzi di consumo tra i produttori individuali, prevale lo stesso principio che nel caso dello scambio di equivalenti di merci: una data quantità di lavoro in un certo forma viene scambiata con una quantità uguale di lavoro in un’altra forma.
 
 Pertanto, qui il diritto eguale rimane, in linea di principio, un diritto borghese; anche se, in questo caso, principio e pratica non sono più in contraddizione tra loro. L’equivalenza negli scambi di merci esiste soltanto in media, e non nei singoli casi concreti.
 
@@ -469,7 +469,7 @@ That the workers desire to establish the conditions for co-operative production 
 
 <span class="qlang-split" data-lang="it"></span>
 
-“Il Partito dei Lavoratori Tedeschi, al fine di preparare il terreno per la soluzione del problema sociale, chiede l’istituzione di società cooperative di produttori, sostenute dallo Stato e sotto il controllo democratico delle persone che lavorano. Queste società cooperative devono essere create sia nell’industria che nell’agricoltura su una scala tale da permettere lo sviluppo di un’organizzazione socialista dell’intero lavoro.”
+“Il Partito dei Lavoratori Tedeschi, al fine di preparare il terreno per la soluzione del problema sociale, chiede l’istituzione di società cooperative di produttori, sostenute dallo [Stato](/concepts/state) e sotto il controllo democratico delle persone che lavorano. Queste società cooperative devono essere create sia nell’industria che nell’agricoltura su una scala tale da permettere lo sviluppo di un’organizzazione socialista dell’intero lavoro.”
 
 Dopo la “legge di ferro dei salari” di Lassalle, arriva la “fisica” del profeta. Il cammino verso essa è “aperto” in modo degno. Al posto della presente [lotta di classe](/positions/class_conflict) appare l’espressione di un giornalista: “la questione sociale”; per la “soluzione” di questa si “apre la strada”.
 
@@ -575,7 +575,7 @@ Il fatto che con il termine “stato” si intenda effettivamente la macchina go
 
 B. “Il Partito dei Lavoratori Tedeschi richiede, come base intellettuale ed etica dello Stato:
 
-“1. Educazione elementare universale ed eguale da parte dello Stato. Obbligo scolastico universale. Insegnamento gratuito.”
+“1. [Educazione](/concepts/education) elementare universale ed eguale da parte dello Stato. Obbligo scolastico universale. Insegnamento gratuito.”
 
 “Educazione elementare uguale per tutti”? Qual è l’idea che si nasconde dietro queste parole? Si ritiene davvero che, nella società odierna (ed è solo di questa che dobbiamo parlare), l’educazione possa essere uguale per tutte le classi sociali? Oppure si pretende che anche le classi superiori siano costrette ad accontentarsi di un livello minimo di istruzione – quello della scuola elementare – l’unico compatibile con le condizioni economiche non solo dei lavoratori salariati, ma anche dei contadini?
 

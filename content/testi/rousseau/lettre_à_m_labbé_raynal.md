@@ -85,7 +85,7 @@ Sir, I am obliged to express my gratitude to those who have helped you convey to
 
 “Apparently,” they say, “the author prefers the state of Europe before the renewal of science; a state worse than ignorance, due to the prevalence of false knowledge or jargon.”
 
-The author of this observation seems to be implying that false knowledge, or academic jargon, is preferable to science; yet it was I who said that such knowledge is worse than ignorance. But what does he mean by the term “situation”? Does he apply it to [enlightenment](/schools/enlightenment) or to morals, or is he confusing these concepts that I have gone to great lengths to distinguish? In any case, since this is at the heart of the issue, I must admit that it is very unadvisable of me to have merely pretended to take a position on this matter.
+The author of this observation seems to be implying that false knowledge, or academic jargon, is preferable to science; yet it was I who said that such knowledge is worse than ignorance. But what does he mean by the term “situation”? Does he apply it to [enlightenment](/schools/enlightenment) or to [morals](/concepts/custom), or is he confusing these concepts that I have gone to great lengths to distinguish? In any case, since this is at the heart of the issue, I must admit that it is very unadvisable of me to have merely pretended to take a position on this matter.
 
 They also add that “the author prefers rudeness to politeness.”
 
