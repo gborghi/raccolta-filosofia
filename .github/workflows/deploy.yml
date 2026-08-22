@@ -52,14 +52,14 @@ jobs:
         env:
           NODE_OPTIONS: "--max-old-space-size=14336"
 
-      - name: Build mobile search index
-        # Derives the light contentIndexMobile.json from the built full index.
-        run: node scripts/make-mobile-index.mjs
-
-      - name: Compress desktop search index
-        # Replaces each page's text with a snippet + top TF-IDF terms. Must run AFTER
-        # the mobile derivation, which needs the full text.
-        run: node scripts/compress-search-index.mjs
+      - name: Inject atom search + compress + shards + mobile
+        # Same order as `npm run build`. make-mobile-index reads the TF-IDF master
+        # written by compress-search-index; running it first fails.
+        run: |
+          node scripts/inject-atom-search.mjs
+          NODE_OPTIONS="--max-old-space-size=8192" node scripts/compress-search-index.mjs
+          node scripts/build-search-shards.mjs
+          node scripts/make-mobile-index.mjs
         env:
           NODE_OPTIONS: "--max-old-space-size=8192"
 
@@ -114,4 +114,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: "88534a293fdf2c50b43a2fecdb0b59ed"
-          command: pages deploy public --project-name filosofia-7x5 --branch main
+          command: pages deploy public --project-name filosofia --branch main --commit-dirty=true
