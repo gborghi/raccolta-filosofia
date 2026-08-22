@@ -90,3 +90,28 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # Primary host. Separate build: GH Pages rewrites baseUrl to the subpath.
+  cloudflare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install dependencies
+        run: npm ci
+      - name: Restore Quartz plugins
+        run: npx quartz plugin restore
+      - name: Build + search shards (Cloudflare baseUrl from git)
+        run: npm run build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=14336"
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: "88534a293fdf2c50b43a2fecdb0b59ed"
+          command: pages deploy public --project-name filosofia-7x5 --branch main

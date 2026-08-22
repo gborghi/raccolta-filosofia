@@ -10,7 +10,7 @@
 // plugin is disabled in quartz.config.yaml.
 import FlexSearch from "flexsearch"
 import MiniSearch from "minisearch"
-import { Doc, Entry, mergeTier, clampStop, STOP_LABELS, stopHint } from "./searchDepth"
+import { Doc, Entry, mergeTier, clampStop, STOP_LABELS, stopHint, parseBooleanQuery, queryTerms, docMatchesBool, intersectIds, unionIds, type BoolOp } from "./searchDepth"
 
 const NUM_RESULTS = 8
 // Pull a WIDE candidate pool from FlexSearch, then re-rank it ourselves (see search()).
@@ -199,38 +199,40 @@ function sectionKey(slug: string): string {
   return slug.replace(/--part_\d+$/, "")
 }
 
-function search(q: string): Doc[] {
-  const query = q.trim()
-  if (!index || !query) return []
-  const tokens = query.toLowerCase().split(/\s+/).filter(Boolean)
+function idsForTerm(term: string): string[] {
   const seen = new Set<string>()
-  const pool: string[] = []
+  const out: string[] = []
   const push = (id: string) => {
     if (!seen.has(id)) {
       seen.add(id)
-      pool.push(id)
+      out.push(id)
     }
   }
-  // Wide candidate pool from FlexSearch (prefix/token match across title+content+tags)…
-  for (const group of index.search(query, { limit: CANDIDATE_LIMIT, enrich: false }) as any[]) {
-    for (const id of group.result ?? group) push(id)
+  if (index) {
+    for (const group of index.search(term, { limit: CANDIDATE_LIMIT, enrich: false }) as any[]) {
+      for (const id of group.result ?? group) push(id)
+    }
   }
-  // …plus MiniSearch's typo-tolerant hits once the Max tier is loaded (its own ranking is
-  // discarded here; both feed the same re-rank below so exact and fuzzy are scored alike).
   if (fuzzy) {
-    for (const r of (fuzzy.search(query, { prefix: true }) as any[]).slice(0, CANDIDATE_LIMIT)) {
+    for (const r of (fuzzy.search(term, { prefix: true }) as any[]).slice(0, CANDIDATE_LIMIT)) {
       push(r.id as string)
     }
   }
-  // Re-rank the whole pool by relevance. This is what surfaces a prominent-but-late-indexed
-  // hit (a Shakespeare sonnet for "disgrace") that FlexSearch's raw top-N would have dropped.
+  return out
+}
+
+function search(q: string, defaultOp: BoolOp = "or"): Doc[] {
+  const parsed = parseBooleanQuery(q, defaultOp)
+  if (!index || !parsed.clauses.length) return []
+  const tokens = queryTerms(parsed)
+  const clausePools = parsed.clauses.map((cl) => intersectIds(cl.terms.map(idsForTerm)))
+  const pool = unionIds(clausePools)
   const ranked = pool
     .map((id) => store.get(id))
     .filter(Boolean)
     .map((d) => ({ d: d as Doc, s: scoreDoc(d as Doc, tokens) }))
-    .filter((x) => x.s >= 0)
+    .filter((x) => x.s >= 0 && docMatchesBool(x.d, parsed))
     .sort((a, b) => b.s - a.s)
-  // Take the page, collapsing multi-part splits of the same section so results stay diverse.
   const out: Doc[] = []
   const usedSection = new Set<string>()
   for (const { d } of ranked) {
@@ -270,8 +272,12 @@ function ensureUI(): void {
   modal.dataset.persist = ""
   modal.innerHTML = `
     <div class="sd-inner" role="dialog" aria-modal="true" aria-label="Search">
-      <input class="sd-input" type="text" placeholder="Search the corpus…" aria-label="Search" autocomplete="off" />
+      <input class="sd-input" type="text" placeholder="Search…  AND / OR between words" aria-label="Search" autocomplete="off" />
       <div class="sd-slider-wrap"></div>
+      <div class="sd-bool" role="group" aria-label="Match all or any words">
+        <button type="button" class="sd-bool-btn active" data-op="or">OR</button>
+        <button type="button" class="sd-bool-btn" data-op="and">AND</button>
+      </div>
       <ul class="sd-results" role="listbox"></ul>
     </div>`
   document.body.appendChild(modal)
@@ -279,6 +285,20 @@ function ensureUI(): void {
   const input = modal.querySelector(".sd-input") as HTMLInputElement
   const results = modal.querySelector(".sd-results") as HTMLUListElement
   const wrap = modal.querySelector(".sd-slider-wrap") as HTMLElement
+  let defaultOp: BoolOp = "or"
+  const boolBtns = modal.querySelectorAll(".sd-bool-btn") as NodeListOf<HTMLButtonElement>
+  const paintBool = () => {
+    const parsed = parseBooleanQuery(input.value, defaultOp)
+    const shown: BoolOp = parsed.explicit ? (parsed.clauses.length > 1 ? "or" : "and") : defaultOp
+    boolBtns.forEach((b) => b.classList.toggle("active", b.dataset.op === shown))
+  }
+  boolBtns.forEach((b) => {
+    b.addEventListener("click", () => {
+      defaultOp = (b.dataset.op as BoolOp) || "or"
+      paintBool()
+      render()
+    })
+  })
 
   // --- depth slider ---
   const maxStop = isMobile() ? 1 : 3
@@ -296,7 +316,7 @@ function ensureUI(): void {
   paint()
 
   const render = () => {
-    const hits = search(input.value)
+    const hits = search(input.value, defaultOp)
     results.innerHTML = hits
       .map(
         (d) =>
@@ -324,6 +344,7 @@ function ensureUI(): void {
   let t: number | undefined
   input.addEventListener("input", () => {
     clearTimeout(t)
+    paintBool()
     t = window.setTimeout(render, 90)
   })
 

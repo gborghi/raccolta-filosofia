@@ -7,6 +7,11 @@ import {
   STOP_LABELS,
   stopHint,
   mergeResults,
+  parseBooleanQuery,
+  docMatchesBool,
+  queryTerms,
+  intersectIds,
+  unionIds,
 } from "./searchDepth"
 
 test("entryToDoc maps compact keys", () => {
@@ -46,4 +51,40 @@ test("labels + hints exist for 4 stops", () => {
 
 test("mergeResults: flex first, fuzzy fills, deduped, capped", () => {
   assert.deepEqual(mergeResults(["a", "b"], ["b", "c", "d"], 3), ["a", "b", "c"])
+})
+
+test("parseBooleanQuery: default OR splits terms into clauses", () => {
+  const q = parseBooleanQuery("plato cave", "or")
+  assert.equal(q.explicit, false)
+  assert.deepEqual(
+    q.clauses.map((c) => c.terms),
+    [["plato"], ["cave"]],
+  )
+})
+
+test("parseBooleanQuery: default AND keeps one clause", () => {
+  const q = parseBooleanQuery("plato cave", "and")
+  assert.deepEqual(q.clauses, [{ terms: ["plato", "cave"] }])
+})
+
+test("parseBooleanQuery: explicit AND/OR and &&/||", () => {
+  const q = parseBooleanQuery("plato AND cave OR aristotle")
+  assert.equal(q.explicit, true)
+  assert.deepEqual(
+    q.clauses.map((c) => c.terms),
+    [["plato", "cave"], ["aristotle"]],
+  )
+})
+
+test("docMatchesBool: AND requires every term, OR any clause", () => {
+  const d = entryToDoc({ s: "x", t: "The Cave", c: "plato shadows", g: [] })
+  assert.equal(docMatchesBool(d, parseBooleanQuery("plato AND cave", "or")), true)
+  assert.equal(docMatchesBool(d, parseBooleanQuery("plato AND forms", "or")), false)
+  assert.equal(docMatchesBool(d, parseBooleanQuery("forms OR cave", "and")), true)
+  assert.deepEqual(queryTerms(parseBooleanQuery("a AND b OR c")), ["a", "b", "c"])
+})
+
+test("intersectIds / unionIds", () => {
+  assert.deepEqual(intersectIds([["a", "b", "c"], ["b", "c", "d"]]), ["b", "c"])
+  assert.deepEqual(unionIds([["a", "b"], ["b", "c"]]), ["a", "b", "c"])
 })

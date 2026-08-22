@@ -77,3 +77,95 @@ export function mergeResults(flexIds: string[], fuzzyIds: string[], limit: numbe
   }
   return out
 }
+
+// Boolean query: "plato AND cave OR aristotle" → (plato ∧ cave) ∨ aristotle.
+// Bare words without AND/OR follow `defaultOp` (OR = any term; AND = all terms).
+export type BoolOp = "and" | "or"
+export type BoolClause = { terms: string[] }
+export type BoolQuery = { clauses: BoolClause[]; explicit: boolean }
+
+export function parseBooleanQuery(raw: string, defaultOp: BoolOp = "or"): BoolQuery {
+  const parts = String(raw || "")
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean)
+  if (!parts.length) return { clauses: [], explicit: false }
+
+  type Tok = { kind: "term" | "and" | "or"; v?: string }
+  const toks: Tok[] = []
+  let explicit = false
+  for (const p of parts) {
+    if (/^(AND|&&)$/i.test(p)) {
+      toks.push({ kind: "and" })
+      explicit = true
+    } else if (/^(OR|\|\|)$/i.test(p)) {
+      toks.push({ kind: "or" })
+      explicit = true
+    } else {
+      toks.push({ kind: "term", v: p.toLowerCase() })
+    }
+  }
+
+  const termsOnly = toks.filter((t) => t.kind === "term").map((t) => t.v!)
+  if (!termsOnly.length) return { clauses: [], explicit }
+  if (!explicit) {
+    if (defaultOp === "and") return { clauses: [{ terms: termsOnly }], explicit: false }
+    return { clauses: termsOnly.map((t) => ({ terms: [t] })), explicit: false }
+  }
+
+  const clauses: BoolClause[] = []
+  let cur: string[] = []
+  let pending: "and" | "or" | null = null
+  const flush = () => {
+    if (cur.length) {
+      clauses.push({ terms: cur })
+      cur = []
+    }
+  }
+  for (const tok of toks) {
+    if (tok.kind === "term") {
+      if (pending === "or") flush()
+      cur.push(tok.v!)
+      pending = null
+    } else {
+      pending = tok.kind
+    }
+  }
+  flush()
+  return { clauses, explicit }
+}
+
+export function queryTerms(q: BoolQuery): string[] {
+  return [...new Set(q.clauses.flatMap((c) => c.terms))]
+}
+
+export function haystackOf(d: { title?: string; content?: string; tags?: string[] }): string {
+  return `${d.title || ""} ${d.content || ""} ${(d.tags || []).join(" ")}`.toLowerCase()
+}
+
+export function docMatchesBool(d: { title?: string; content?: string; tags?: string[] }, q: BoolQuery): boolean {
+  if (!q.clauses.length) return false
+  const hay = haystackOf(d)
+  return q.clauses.some((cl) => cl.terms.every((t) => hay.includes(t)))
+}
+
+export function intersectIds(lists: string[][]): string[] {
+  if (!lists.length) return []
+  if (lists.length === 1) return [...new Set(lists[0])]
+  const sets = lists.map((l) => new Set(l))
+  return [...sets[0]].filter((id) => sets.every((s) => s.has(id)))
+}
+
+export function unionIds(lists: string[][]): string[] {
+  const seen = new Set<string>()
+  const out: string[] = []
+  for (const l of lists) {
+    for (const id of l) {
+      if (!seen.has(id)) {
+        seen.add(id)
+        out.push(id)
+      }
+    }
+  }
+  return out
+}

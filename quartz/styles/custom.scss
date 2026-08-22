@@ -1301,6 +1301,16 @@ body.reading-page {
 .sd-slider-wrap { display: flex; align-items: center; gap: 0.6rem; margin: 0.7rem 0.1rem 0.3rem; }
 .sd-slider { flex: 0 0 9rem; accent-color: var(--secondary); cursor: pointer; }
 .sd-slider-label { flex: 1; font-size: 0.78rem; color: var(--darkgray); }
+.sd-bool { display: flex; gap: 0.35rem; margin: 0.15rem 0.1rem 0.35rem; }
+.sd-bool-btn {
+  font: inherit; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.04em;
+  padding: 0.2rem 0.65rem; border: 1px solid var(--lightgray); border-radius: 999px;
+  background: transparent; color: var(--darkgray); cursor: pointer;
+}
+.sd-bool-btn.active {
+  border-color: var(--secondary); color: var(--secondary);
+  background: color-mix(in srgb, var(--secondary) 12%, transparent);
+}
 .sd-spin {
   display: inline-block; width: 0.85em; height: 0.85em;
   border: 2px solid var(--lightgray); border-top-color: var(--secondary);
