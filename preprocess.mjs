@@ -1126,6 +1126,8 @@ async function main() {
 
   const home = `---
 title: Filosofia — Un Grafo di Conoscenza
+description: 1180 opere di 20 filosofi, connesse per assi, concetti, argomenti e scuole.
+socialDescription: 1180 opere di 20 filosofi, connesse per assi, concetti, argomenti e scuole.
 ---
 
 <div class="hero">
