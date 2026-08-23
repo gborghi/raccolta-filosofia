@@ -225,7 +225,7 @@ function search(q: string, defaultOp: BoolOp = "or"): Doc[] {
   const parsed = parseBooleanQuery(q, defaultOp)
   if (!index || !parsed.clauses.length) return []
   const tokens = queryTerms(parsed)
-  const clausePools = parsed.clauses.map((cl) => intersectIds(cl.terms.map(idsForTerm)))
+  const clausePools = parsed.clauses.map((cl) => intersectIds(cl.terms.map((t) => idsForTerm(t.v))))
   const pool = unionIds(clausePools)
   const ranked = pool
     .map((id) => store.get(id))
@@ -272,7 +272,7 @@ function ensureUI(): void {
   modal.dataset.persist = ""
   modal.innerHTML = `
     <div class="sd-inner" role="dialog" aria-modal="true" aria-label="Search">
-      <input class="sd-input" type="text" placeholder="Search…  use &amp;  |  ( )" aria-label="Search" autocomplete="off" />
+      <input class="sd-input" type="text" placeholder="Search…  &quot;phrase&quot;  &amp;  |  ( )" aria-label="Search" autocomplete="off" />
       <div class="sd-slider-wrap"></div>
       <div class="sd-bool" role="group" aria-label="Match all or any words">
         <button type="button" class="sd-bool-btn active" data-op="or">OR</button>

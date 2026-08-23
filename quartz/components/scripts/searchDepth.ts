@@ -84,31 +84,43 @@ export function mergeResults(flexIds: string[], fuzzyIds: string[], limit: numbe
 // follow `defaultOp` (OR = any term; AND = all terms).
 // AND binds tighter than OR. Example: (sea & shore) | dog
 export type BoolOp = "and" | "or"
-export type BoolClause = { terms: string[] }
+export type BoolTerm = { v: string; exact: boolean }
+export type BoolClause = { terms: BoolTerm[] }
 export type BoolQuery = { clauses: BoolClause[]; explicit: boolean }
 
 type BTok =
-  | { kind: "term"; v: string }
+  | { kind: "term"; v: string; exact: boolean }
   | { kind: "and" }
   | { kind: "or" }
   | { kind: "lp" }
   | { kind: "rp" }
 
 type BAst =
-  | { k: "term"; v: string }
+  | { k: "term"; v: string; exact: boolean }
   | { k: "and" | "or"; l: BAst; r: BAst }
 
 function tokenizeBool(raw: string): BTok[] {
   const s = String(raw || "")
   const out: BTok[] = []
   let i = 0
-  const pushTerm = (t: string) => {
-    if (t) out.push({ kind: "term", v: t.toLowerCase() })
+  const pushTerm = (t: string, exact: boolean) => {
+    if (t) out.push({ kind: "term", v: t.toLowerCase(), exact })
   }
   while (i < s.length) {
     const c = s[i]
     if (/\s/.test(c)) {
       i++
+      continue
+    }
+    if (c === '"' || c === "\u201c" || c === "\u201d") {
+      const open = c
+      const close =
+        open === "\u201c" ? "\u201d" : open === "\u201d" ? "\u201d" : open
+      i++
+      let j = i
+      while (j < s.length && s[j] !== close && s[j] !== '"') j++
+      pushTerm(s.slice(i, j).trim(), true)
+      i = j < s.length ? j + 1 : j
       continue
     }
     if (c === "(") {
@@ -132,23 +144,48 @@ function tokenizeBool(raw: string): BTok[] {
       continue
     }
     let j = i
-    while (j < s.length && !/\s/.test(s[j]) && s[j] !== "(" && s[j] !== ")" && s[j] !== "&" && s[j] !== "|") j++
+    while (
+      j < s.length &&
+      !/\s/.test(s[j]) &&
+      s[j] !== "(" &&
+      s[j] !== ")" &&
+      s[j] !== "&" &&
+      s[j] !== "|" &&
+      s[j] !== '"'
+    )
+      j++
     const w = s.slice(i, j)
     i = j
     if (w === "AND") out.push({ kind: "and" })
     else if (w === "OR") out.push({ kind: "or" })
-    else pushTerm(w)
+    else pushTerm(w, false)
   }
   return out
 }
 
-function astToDnf(ast: BAst): string[][] {
-  if (ast.k === "term") return [[ast.v]]
+function termKey(t: BoolTerm): string {
+  return (t.exact ? "1:" : "0:") + t.v
+}
+
+function astToDnf(ast: BAst): BoolTerm[][] {
+  if (ast.k === "term") return [[{ v: ast.v, exact: ast.exact }]]
   const L = astToDnf(ast.l)
   const R = astToDnf(ast.r)
   if (ast.k === "or") return [...L, ...R]
-  const out: string[][] = []
+  const out: BoolTerm[][] = []
   for (const a of L) for (const b of R) out.push([...a, ...b])
+  return out
+}
+
+function dedupeTerms(cl: BoolTerm[]): BoolTerm[] {
+  const seen = new Set<string>()
+  const out: BoolTerm[] = []
+  for (const t of cl) {
+    const k = termKey(t)
+    if (seen.has(k)) continue
+    seen.add(k)
+    out.push(t)
+  }
   return out
 }
 
@@ -157,11 +194,12 @@ export function parseBooleanQuery(raw: string, defaultOp: BoolOp = "or"): BoolQu
   if (!toks.length) return { clauses: [], explicit: false }
 
   const explicit = toks.some((t) => t.kind !== "term")
-  const termsOnly = toks.filter((t): t is { kind: "term"; v: string } => t.kind === "term").map((t) => t.v)
+  const termsOnly = toks.filter((t): t is Extract<BTok, { kind: "term" }> => t.kind === "term")
   if (!termsOnly.length) return { clauses: [], explicit }
   if (!explicit) {
-    if (defaultOp === "and") return { clauses: [{ terms: termsOnly }], explicit: false }
-    return { clauses: termsOnly.map((t) => ({ terms: [t] })), explicit: false }
+    const terms = termsOnly.map((t) => ({ v: t.v, exact: t.exact }))
+    if (defaultOp === "and") return { clauses: [{ terms }], explicit: false }
+    return { clauses: terms.map((t) => ({ terms: [t] })), explicit: false }
   }
 
   let pos = 0
@@ -208,7 +246,7 @@ export function parseBooleanQuery(raw: string, defaultOp: BoolOp = "or"): BoolQu
     }
     if (n.kind === "term") {
       eat()
-      return { k: "term", v: n.v }
+      return { k: "term", v: n.v, exact: n.exact }
     }
     eat()
     return parsePrimary()
@@ -217,23 +255,47 @@ export function parseBooleanQuery(raw: string, defaultOp: BoolOp = "or"): BoolQu
   const ast = parseOr()
   if (!ast) return { clauses: [], explicit }
   const dnf = astToDnf(ast)
-    .map((cl) => [...new Set(cl)])
+    .map(dedupeTerms)
     .filter((cl) => cl.length)
   return { clauses: dnf.map((terms) => ({ terms })), explicit }
 }
 
 export function queryTerms(q: BoolQuery): string[] {
-  return [...new Set(q.clauses.flatMap((c) => c.terms))]
+  return [...new Set(q.clauses.flatMap((c) => c.terms.map((t) => t.v)))]
+}
+
+function escapeRe(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+}
+
+export function termInHay(hay: string, t: BoolTerm): boolean {
+  if (!t.v) return true
+  if (!t.exact) return hay.includes(t.v)
+  const re = new RegExp(`(?<![\\p{L}\\p{N}_])${escapeRe(t.v)}(?![\\p{L}\\p{N}_])`, "iu")
+  return re.test(hay)
 }
 
 export function haystackOf(d: { title?: string; content?: string; tags?: string[] }): string {
   return `${d.title || ""} ${d.content || ""} ${(d.tags || []).join(" ")}`.toLowerCase()
 }
 
+export function hayMatchesQuery(hay: string, raw: string, defaultOp: BoolOp = "and"): boolean {
+  const q = String(raw || "").trim()
+  if (!q) return true
+  const parsed = parseBooleanQuery(q, defaultOp)
+  if (!parsed.clauses.length) return false
+  const h = hay.toLowerCase()
+  return parsed.clauses.some((cl) => cl.terms.every((t) => termInHay(h, t)))
+}
+
+export function fieldsMatchQuery(fields: Array<string | undefined | null>, raw: string, defaultOp: BoolOp = "and"): boolean {
+  return hayMatchesQuery(fields.map((f) => String(f || "")).join(" \n "), raw, defaultOp)
+}
+
 export function docMatchesBool(d: { title?: string; content?: string; tags?: string[] }, q: BoolQuery): boolean {
   if (!q.clauses.length) return false
   const hay = haystackOf(d)
-  return q.clauses.some((cl) => cl.terms.every((t) => hay.includes(t)))
+  return q.clauses.some((cl) => cl.terms.every((t) => termInHay(hay, t)))
 }
 
 export function intersectIds(lists: string[][]): string[] {

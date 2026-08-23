@@ -12,6 +12,7 @@ import {
   makeModeToggle,
   makePageSizeSelect,
 } from "./qtable"
+import { fieldsMatchQuery } from "./searchDepth"
 
 const KW_FILE = "works_kw.json"
 
@@ -113,19 +114,15 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
     return noArticle(a.title) < noArticle(b.title) ? -1 : 1
   }
   function filtered(): Work[] {
-    const q = filter.toLowerCase()
+    const q = filter
     return rows
       .filter((r) => {
-        if (!q) return true
+        if (!q.trim()) return true
         if (mode === "content") {
           const kw = kwCached(KW_FILE)?.[r.href]
-          return kw ? kw.includes(q) : false
+          return fieldsMatchQuery([kw, r.title, r.author, r.summary], q, "and")
         }
-        return (
-          r.title.toLowerCase().includes(q) ||
-          r.author.toLowerCase().includes(q) ||
-          (r.summary || "").toLowerCase().includes(q)
-        )
+        return fieldsMatchQuery([r.title, r.author, r.summary], q, "and")
       })
       .sort(cmp)
   }

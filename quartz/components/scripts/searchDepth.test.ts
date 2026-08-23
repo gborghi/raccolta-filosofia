@@ -57,43 +57,43 @@ test("parseBooleanQuery: default OR splits terms into clauses", () => {
   const q = parseBooleanQuery("plato cave", "or")
   assert.equal(q.explicit, false)
   assert.deepEqual(
-    q.clauses.map((c) => c.terms),
+    q.clauses.map((c) => c.terms.map((t) => t.v)),
     [["plato"], ["cave"]],
   )
 })
 
 test("parseBooleanQuery: default AND keeps one clause", () => {
   const q = parseBooleanQuery("plato cave", "and")
-  assert.deepEqual(q.clauses, [{ terms: ["plato", "cave"] }])
+  assert.deepEqual(q.clauses.map((c) => c.terms.map((t) => t.v)), [["plato", "cave"]])
 })
 
 test("parseBooleanQuery: explicit AND/OR and &&/||", () => {
   const q = parseBooleanQuery("plato AND cave OR aristotle")
   assert.equal(q.explicit, true)
   assert.deepEqual(
-    q.clauses.map((c) => c.terms),
+    q.clauses.map((c) => c.terms.map((t) => t.v)),
     [["plato", "cave"], ["aristotle"]],
   )
 })
 
 test("parseBooleanQuery: & | and parentheses; lowercase and/or are words", () => {
   assert.deepEqual(
-    parseBooleanQuery("(sea & shore) | dog").clauses.map((c) => c.terms),
+    parseBooleanQuery("(sea & shore) | dog").clauses.map((c) => c.terms.map((t) => t.v)),
     [["sea", "shore"], ["dog"]],
   )
   assert.deepEqual(
-    parseBooleanQuery("(sea AND shore) OR dog").clauses.map((c) => c.terms),
+    parseBooleanQuery("(sea AND shore) OR dog").clauses.map((c) => c.terms.map((t) => t.v)),
     [["sea", "shore"], ["dog"]],
   )
   const words = parseBooleanQuery("sea and shore", "or")
   assert.equal(words.explicit, false)
   assert.deepEqual(
-    words.clauses.map((c) => c.terms),
+    words.clauses.map((c) => c.terms.map((t) => t.v)),
     [["sea"], ["and"], ["shore"]],
   )
   const mixed = parseBooleanQuery("bread and butter | jam")
   assert.deepEqual(
-    mixed.clauses.map((c) => c.terms),
+    mixed.clauses.map((c) => c.terms.map((t) => t.v)),
     [["bread", "and", "butter"], ["jam"]],
   )
 })
@@ -104,6 +104,15 @@ test("docMatchesBool: AND requires every term, OR any clause", () => {
   assert.equal(docMatchesBool(d, parseBooleanQuery("plato AND forms", "or")), false)
   assert.equal(docMatchesBool(d, parseBooleanQuery("forms OR cave", "and")), true)
   assert.deepEqual(queryTerms(parseBooleanQuery("a AND b OR c")), ["a", "b", "c"])
+})
+
+test("quoted phrases are exact; quoted word is not a substring", () => {
+  const d = entryToDoc({ s: "x", t: "A flagship at sea", c: "the dog at sea barked", g: [] })
+  assert.equal(docMatchesBool(d, parseBooleanQuery('"dog at sea"')), true)
+  assert.equal(docMatchesBool(d, parseBooleanQuery('"cat at sea"')), false)
+  assert.equal(docMatchesBool(d, parseBooleanQuery('"ship"')), false)
+  assert.equal(docMatchesBool(d, parseBooleanQuery("ship")), true)
+  assert.equal(docMatchesBool(d, parseBooleanQuery('"flagship"')), true)
 })
 
 test("intersectIds / unionIds", () => {

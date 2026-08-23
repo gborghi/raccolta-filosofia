@@ -6,6 +6,7 @@
 //   ANYTAG: pure OR — a work matches if it carries any selected tag (OR within, OR across).
 
 import { esc, slugPrefix, loadKw, kwCached, makeModeToggle } from "./qtable"
+import { fieldsMatchQuery } from "./searchDepth"
 
 const KW_FILE = "works_kw.json"
 
@@ -286,7 +287,7 @@ async function init() {
   let sortKey: keyof Work = "title"
   let sortDir = 1
   function renderResults() {
-    const q = filter.trim().toLowerCase()
+    const q = filter.trim()
     // Show results when a tag is selected OR a free-text query is typed, so the
     // content/title search works on the whole corpus without picking a tag first
     // (the search box + mode toggle stay visible at all times).
@@ -302,21 +303,12 @@ async function init() {
 
     let rows = selected.size > 0 ? data.filter(matches) : data.slice()
     if (q) {
-      const terms = q.split(/\s+/).filter(Boolean)
       rows = rows.filter((r) => {
         if (searchMode === "content") {
           const kw = kwCached(KW_FILE)?.[r.href]
-          if (!kw) return false
-          // token-AND: every query word must appear in the work's keyword text
-          // (works_kw.json is a deduped word bag, so a whole-string match fails).
-          return terms.every((t) => kw.includes(t))
+          return fieldsMatchQuery([kw, r.title, r.author, r.lang], q, "and")
         }
-        return terms.every(
-          (t) =>
-            String(r.title).toLowerCase().includes(t) ||
-            String(r.author).toLowerCase().includes(t) ||
-            String(r.lang).toLowerCase().includes(t),
-        )
+        return fieldsMatchQuery([r.title, r.author, r.lang], q, "and")
       })
     }
 
