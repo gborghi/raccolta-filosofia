@@ -272,7 +272,7 @@ function ensureUI(): void {
   modal.dataset.persist = ""
   modal.innerHTML = `
     <div class="sd-inner" role="dialog" aria-modal="true" aria-label="Search">
-      <input class="sd-input" type="text" placeholder="Search…  AND / OR between words" aria-label="Search" autocomplete="off" />
+      <input class="sd-input" type="text" placeholder="Search…  use &amp;  |  ( )" aria-label="Search" autocomplete="off" />
       <div class="sd-slider-wrap"></div>
       <div class="sd-bool" role="group" aria-label="Match all or any words">
         <button type="button" class="sd-bool-btn active" data-op="or">OR</button>

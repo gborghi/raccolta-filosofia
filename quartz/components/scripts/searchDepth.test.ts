@@ -76,6 +76,28 @@ test("parseBooleanQuery: explicit AND/OR and &&/||", () => {
   )
 })
 
+test("parseBooleanQuery: & | and parentheses; lowercase and/or are words", () => {
+  assert.deepEqual(
+    parseBooleanQuery("(sea & shore) | dog").clauses.map((c) => c.terms),
+    [["sea", "shore"], ["dog"]],
+  )
+  assert.deepEqual(
+    parseBooleanQuery("(sea AND shore) OR dog").clauses.map((c) => c.terms),
+    [["sea", "shore"], ["dog"]],
+  )
+  const words = parseBooleanQuery("sea and shore", "or")
+  assert.equal(words.explicit, false)
+  assert.deepEqual(
+    words.clauses.map((c) => c.terms),
+    [["sea"], ["and"], ["shore"]],
+  )
+  const mixed = parseBooleanQuery("bread and butter | jam")
+  assert.deepEqual(
+    mixed.clauses.map((c) => c.terms),
+    [["bread", "and", "butter"], ["jam"]],
+  )
+})
+
 test("docMatchesBool: AND requires every term, OR any clause", () => {
   const d = entryToDoc({ s: "x", t: "The Cave", c: "plato shadows", g: [] })
   assert.equal(docMatchesBool(d, parseBooleanQuery("plato AND cave", "or")), true)

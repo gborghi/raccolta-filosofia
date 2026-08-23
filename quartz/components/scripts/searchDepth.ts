@@ -78,61 +78,148 @@ export function mergeResults(flexIds: string[], fuzzyIds: string[], limit: numbe
   return out
 }
 
-// Boolean query: "plato AND cave OR aristotle" → (plato ∧ cave) ∨ aristotle.
-// Bare words without AND/OR follow `defaultOp` (OR = any term; AND = all terms).
+// Boolean query.
+// Connectors (never search terms):  &  &&  AND   |  ||  OR   and parentheses.
+// Lowercase "and"/"or" are ordinary words. Bare words without connectors
+// follow `defaultOp` (OR = any term; AND = all terms).
+// AND binds tighter than OR. Example: (sea & shore) | dog
 export type BoolOp = "and" | "or"
 export type BoolClause = { terms: string[] }
 export type BoolQuery = { clauses: BoolClause[]; explicit: boolean }
 
-export function parseBooleanQuery(raw: string, defaultOp: BoolOp = "or"): BoolQuery {
-  const parts = String(raw || "")
-    .trim()
-    .split(/\s+/)
-    .filter(Boolean)
-  if (!parts.length) return { clauses: [], explicit: false }
+type BTok =
+  | { kind: "term"; v: string }
+  | { kind: "and" }
+  | { kind: "or" }
+  | { kind: "lp" }
+  | { kind: "rp" }
 
-  type Tok = { kind: "term" | "and" | "or"; v?: string }
-  const toks: Tok[] = []
-  let explicit = false
-  for (const p of parts) {
-    if (/^(AND|&&)$/i.test(p)) {
-      toks.push({ kind: "and" })
-      explicit = true
-    } else if (/^(OR|\|\|)$/i.test(p)) {
-      toks.push({ kind: "or" })
-      explicit = true
-    } else {
-      toks.push({ kind: "term", v: p.toLowerCase() })
-    }
+type BAst =
+  | { k: "term"; v: string }
+  | { k: "and" | "or"; l: BAst; r: BAst }
+
+function tokenizeBool(raw: string): BTok[] {
+  const s = String(raw || "")
+  const out: BTok[] = []
+  let i = 0
+  const pushTerm = (t: string) => {
+    if (t) out.push({ kind: "term", v: t.toLowerCase() })
   }
+  while (i < s.length) {
+    const c = s[i]
+    if (/\s/.test(c)) {
+      i++
+      continue
+    }
+    if (c === "(") {
+      out.push({ kind: "lp" })
+      i++
+      continue
+    }
+    if (c === ")") {
+      out.push({ kind: "rp" })
+      i++
+      continue
+    }
+    if (c === "&") {
+      out.push({ kind: "and" })
+      i += s[i + 1] === "&" ? 2 : 1
+      continue
+    }
+    if (c === "|") {
+      out.push({ kind: "or" })
+      i += s[i + 1] === "|" ? 2 : 1
+      continue
+    }
+    let j = i
+    while (j < s.length && !/\s/.test(s[j]) && s[j] !== "(" && s[j] !== ")" && s[j] !== "&" && s[j] !== "|") j++
+    const w = s.slice(i, j)
+    i = j
+    if (w === "AND") out.push({ kind: "and" })
+    else if (w === "OR") out.push({ kind: "or" })
+    else pushTerm(w)
+  }
+  return out
+}
 
-  const termsOnly = toks.filter((t) => t.kind === "term").map((t) => t.v!)
+function astToDnf(ast: BAst): string[][] {
+  if (ast.k === "term") return [[ast.v]]
+  const L = astToDnf(ast.l)
+  const R = astToDnf(ast.r)
+  if (ast.k === "or") return [...L, ...R]
+  const out: string[][] = []
+  for (const a of L) for (const b of R) out.push([...a, ...b])
+  return out
+}
+
+export function parseBooleanQuery(raw: string, defaultOp: BoolOp = "or"): BoolQuery {
+  const toks = tokenizeBool(raw)
+  if (!toks.length) return { clauses: [], explicit: false }
+
+  const explicit = toks.some((t) => t.kind !== "term")
+  const termsOnly = toks.filter((t): t is { kind: "term"; v: string } => t.kind === "term").map((t) => t.v)
   if (!termsOnly.length) return { clauses: [], explicit }
   if (!explicit) {
     if (defaultOp === "and") return { clauses: [{ terms: termsOnly }], explicit: false }
     return { clauses: termsOnly.map((t) => ({ terms: [t] })), explicit: false }
   }
 
-  const clauses: BoolClause[] = []
-  let cur: string[] = []
-  let pending: "and" | "or" | null = null
-  const flush = () => {
-    if (cur.length) {
-      clauses.push({ terms: cur })
-      cur = []
-    }
+  let pos = 0
+  const peek = () => toks[pos]
+  const eat = (k?: BTok["kind"]) => {
+    const t = toks[pos]
+    if (!t || (k && t.kind !== k)) return null
+    pos++
+    return t
   }
-  for (const tok of toks) {
-    if (tok.kind === "term") {
-      if (pending === "or") flush()
-      cur.push(tok.v!)
-      pending = null
-    } else {
-      pending = tok.kind
+
+  const parseOr = (): BAst | null => {
+    let left = parseAnd()
+    if (!left) return null
+    while (peek()?.kind === "or") {
+      eat()
+      const right = parseAnd()
+      if (!right) break
+      left = { k: "or", l: left, r: right }
     }
+    return left
   }
-  flush()
-  return { clauses, explicit }
+  const parseAnd = (): BAst | null => {
+    let left = parsePrimary()
+    if (!left) return null
+    while (true) {
+      const n = peek()
+      if (!n || n.kind === "or" || n.kind === "rp") break
+      if (n.kind === "and") eat()
+      const right = parsePrimary()
+      if (!right) break
+      left = { k: "and", l: left, r: right }
+    }
+    return left
+  }
+  const parsePrimary = (): BAst | null => {
+    const n = peek()
+    if (!n) return null
+    if (n.kind === "lp") {
+      eat()
+      const inner = parseOr()
+      eat("rp")
+      return inner
+    }
+    if (n.kind === "term") {
+      eat()
+      return { k: "term", v: n.v }
+    }
+    eat()
+    return parsePrimary()
+  }
+
+  const ast = parseOr()
+  if (!ast) return { clauses: [], explicit }
+  const dnf = astToDnf(ast)
+    .map((cl) => [...new Set(cl)])
+    .filter((cl) => cl.length)
+  return { clauses: dnf.map((terms) => ({ terms })), explicit }
 }
 
 export function queryTerms(q: BoolQuery): string[] {
